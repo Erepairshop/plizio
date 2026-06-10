@@ -1506,7 +1506,52 @@ export const denmarkLandmarksV2: POI[] = [
     image: "/poi-images/denmark-koldinghus-ruin-landmarks-v2.webp",
   },
   {
-    id: "denmark-ny-carlsberg-glyptotek-landmarks-v2",
+    id: "denmark-ny-carlsberg-glyptotek-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "Die Kalvebod Bølge Badezone ist ein moderner Badebereich am Kopenhagener Hafen in der Nähe der Glyptotek.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57578,
+                        55.668938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "A Kalvebod Bølge Badezone egy modern fürdőhely Koppenhága kikötőjében, a Glyptotek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57578,
+                        55.668938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "Kalvebod Bølge Badezone este o zonă modernă de înot în portul Copenhaga, lângă Glyptotek.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57578,
+                        55.668938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "Kalvebod Bølge Badezone is a modern swimming area on the Copenhagen waterfront near the Glyptotek.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57578,
+                        55.668938
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Ny Carlsberg Glyptotek", hu: "Ny Carlsberg Glyptotek", ro: "Ny Carlsberg Glyptotek", en: "Ny Carlsberg Glyptotek" },
@@ -1551,7 +1596,52 @@ export const denmarkLandmarksV2: POI[] = [
     image: "/poi-images/denmark-ny-carlsberg-glyptotek-landmarks-v2.webp",
   },
   {
-    id: "denmark-old-bridge-little-belt-landmarks-v2",
+    id: "denmark-old-bridge-little-belt-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Søbadet",
+                  "text": "Søbadet ist ein Badebereich in Old Little Belt Bridge, der einen Platz für Wasseraktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.699236,
+                        55.517691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Søbadet",
+                  "text": "A Søbadet egy fürdőhely Old Little Belt Bridge közelében, amely lehetőséget nyújt a vízi tevékenységekre.",
+                  "category": "recreational",
+                  "coords": [
+                        9.699236,
+                        55.517691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Søbadet",
+                  "text": "Søbadet este o zonă de înot din Old Little Belt Bridge, oferind un loc pentru activități acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        9.699236,
+                        55.517691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Søbadet",
+                  "text": "Søbadet is a swimming area in Old Little Belt Bridge providing a spot for water activities.",
+                  "category": "recreational",
+                  "coords": [
+                        9.699236,
+                        55.517691
+                  ]
+            }
+      ]
+},
     type: "bridge",
     parent: "DK",
     name: { de: "Alte Kleine-Belt-Brücke", hu: "Régi Kis-Belt híd", ro: "Vechiul pod peste Micul Belt", en: "Old Little Belt Bridge" },

@@ -419,6 +419,15 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                         19.011151,
                         49.223243
                   ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "Ein Schwimm- und Wellnessbereich in der Region Malá Fatra, ideal zur Entspannung nach Wanderungen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
+                  ]
             }
       ],
       "hu": [
@@ -492,6 +501,15 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                   "coords": [
                         19.011151,
                         49.223243
+                  ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "Úszó- és wellness-részleg a Kis-Fátra régióban, amely ideális a túrázás utáni pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
                   ]
             }
       ],
@@ -567,6 +585,15 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                         19.011151,
                         49.223243
                   ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "O zonă de înot și wellness în regiunea Malá Fatra, ideală pentru relaxare după drumeții.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
+                  ]
             }
       ],
       "en": [
@@ -640,6 +667,15 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                   "coords": [
                         19.011151,
                         49.223243
+                  ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "A swimming and wellness area in the Malá Fatra region, ideal for relaxation after hiking.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
                   ]
             }
       ]
@@ -2068,6 +2104,15 @@ imageHint: "Orava reservoir with Slanica island",
                         19.434555,
                         49.107144
                   ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "Ein Strandresort am Ufer des Liptauer Stausees.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
+                  ]
             }
       ],
       "hu": [
@@ -2132,6 +2177,15 @@ imageHint: "Orava reservoir with Slanica island",
                   "coords": [
                         19.434555,
                         49.107144
+                  ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "Strandüdülő a Szentmáriai-víztározó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
                   ]
             }
       ],
@@ -2198,6 +2252,15 @@ imageHint: "Orava reservoir with Slanica island",
                         19.434555,
                         49.107144
                   ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "O stațiune de plajă pe malul lacului de acumulare Liptovská Mara.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
+                  ]
             }
       ],
       "en": [
@@ -2262,6 +2325,15 @@ imageHint: "Orava reservoir with Slanica island",
                   "coords": [
                         19.434555,
                         49.107144
+                  ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "A beach resort on the shores of the Liptovská Mara reservoir.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
                   ]
             }
       ]
@@ -3173,6 +3245,15 @@ imageHint: "Underground river Styx in Domica cave",
                         19.10165,
                         49.246435
                   ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "Ein Schwimmbad und Entspannungszentrum in der Region Terchová.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
+                  ]
             }
       ],
       "hu": [
@@ -3246,6 +3327,15 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.10165,
                         49.246435
+                  ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "Úszómedence és relaxációs központ Terhely (Terchová) környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
                   ]
             }
       ],
@@ -3321,6 +3411,15 @@ imageHint: "Underground river Styx in Domica cave",
                         19.10165,
                         49.246435
                   ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "O piscină și un centru de relaxare situat în regiunea Terchová.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
+                  ]
             }
       ],
       "en": [
@@ -3394,6 +3493,15 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.10165,
                         49.246435
+                  ]
+            },
+            {
+                  "name": "Terchovec",
+                  "text": "A swimming pool and relaxation center located in the Terchová region.",
+                  "category": "recreational",
+                  "coords": [
+                        19.039773,
+                        49.255432
                   ]
             }
       ]
@@ -3517,6 +3625,24 @@ imageHint: "Underground river Styx in Domica cave",
                         19.451991,
                         49.168208
                   ]
+            },
+            {
+                  "name": "Sielnická zátoka",
+                  "text": "Ein Strandabschnitt am Stausee Liptovská Mara nahe dem Prosiecka-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        19.508544,
+                        49.130419
+                  ]
+            },
+            {
+                  "name": "Kúpanie na Kvačianke",
+                  "text": "Ein Badeplatz am Fluss Kvačianka in der Nähe des Prosiecka-Tals.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514698,
+                        49.136828
+                  ]
             }
       ],
       "hu": [
@@ -3590,6 +3716,24 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.451991,
                         49.168208
+                  ]
+            },
+            {
+                  "name": "Sielnická zátoka",
+                  "text": "Strand szakasz a Szentmáriai-víztározónál, a Prószéki-völgy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.508544,
+                        49.130419
+                  ]
+            },
+            {
+                  "name": "Kúpanie na Kvačianke",
+                  "text": "Fürdőhely a Kvacsani-patakon, a Prószéki-völgy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514698,
+                        49.136828
                   ]
             }
       ],
@@ -3665,6 +3809,24 @@ imageHint: "Underground river Styx in Domica cave",
                         19.451991,
                         49.168208
                   ]
+            },
+            {
+                  "name": "Sielnická zátoka",
+                  "text": "O porțiune de plajă la lacul de acumulare Liptovská Mara, lângă valea Prosiecka.",
+                  "category": "recreational",
+                  "coords": [
+                        19.508544,
+                        49.130419
+                  ]
+            },
+            {
+                  "name": "Kúpanie na Kvačianke",
+                  "text": "Un loc de înot pe râul Kvačianka, în apropiere de valea Prosiecka.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514698,
+                        49.136828
+                  ]
             }
       ],
       "en": [
@@ -3738,6 +3900,24 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.451991,
                         49.168208
+                  ]
+            },
+            {
+                  "name": "Sielnická zátoka",
+                  "text": "A beach section on the Liptovská Mara reservoir near the Prosiecka valley.",
+                  "category": "recreational",
+                  "coords": [
+                        19.508544,
+                        49.130419
+                  ]
+            },
+            {
+                  "name": "Kúpanie na Kvačianke",
+                  "text": "A swimming spot on the Kvačianka stream near the Prosiecka valley.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514698,
+                        49.136828
                   ]
             }
       ]

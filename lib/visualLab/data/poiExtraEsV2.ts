@@ -898,6 +898,24 @@ export const poiExtraEsV2: POI[] = [
                         -1.583445,
                         37.400766
                   ]
+            },
+            {
+                  "name": "Playa de la Colonia",
+                  "text": "Ein zentralgelegener Sandstrand in Águilas mit ruhigem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.585158,
+                        37.402636
+                  ]
+            },
+            {
+                  "name": "Playa de la Herradura",
+                  "text": "Ein hufeisenförmiger Strand in Águilas, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.611076,
+                        37.387103
+                  ]
             }
       ],
       "hu": [
@@ -1178,6 +1196,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.583445,
                         37.400766
+                  ]
+            },
+            {
+                  "name": "Playa de la Colonia",
+                  "text": "Központi fekvésű homokos strand Águilasban, nyugodt vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.585158,
+                        37.402636
+                  ]
+            },
+            {
+                  "name": "Playa de la Herradura",
+                  "text": "Patkó alakú strand Águilasban, ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.611076,
+                        37.387103
                   ]
             }
       ],
@@ -1460,6 +1496,24 @@ export const poiExtraEsV2: POI[] = [
                         -1.583445,
                         37.400766
                   ]
+            },
+            {
+                  "name": "Playa de la Colonia",
+                  "text": "O plajă centrală cu nisip în Águilas, cu ape liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.585158,
+                        37.402636
+                  ]
+            },
+            {
+                  "name": "Playa de la Herradura",
+                  "text": "O plajă în formă de potcoavă în Águilas, ideală pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.611076,
+                        37.387103
+                  ]
             }
       ],
       "en": [
@@ -1740,6 +1794,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.583445,
                         37.400766
+                  ]
+            },
+            {
+                  "name": "Playa de la Colonia",
+                  "text": "A centrally located sandy beach in Águilas with calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.585158,
+                        37.402636
+                  ]
+            },
+            {
+                  "name": "Playa de la Herradura",
+                  "text": "A horseshoe-shaped beach in Águilas, ideal for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.611076,
+                        37.387103
                   ]
             }
       ]
@@ -2404,6 +2476,69 @@ export const poiExtraEsV2: POI[] = [
                         3.109622,
                         39.858155
                   ]
+            },
+            {
+                  "name": "Platja de sa font de Sant Pere",
+                  "text": "Platja de sa font de Sant Pere ist ein kleiner Strand in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137919,
+                        39.864557
+                  ]
+            },
+            {
+                  "name": "Platja de sa Font de Sant Joan",
+                  "text": "Platja de sa Font de Sant Joan ist ein malerischer Strand in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135466,
+                        39.865354
+                  ]
+            },
+            {
+                  "name": "Platja des Morer Vermell",
+                  "text": "Platja des Morer Vermell ist ein Küstenabschnitt in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124641,
+                        39.862883
+                  ]
+            },
+            {
+                  "name": "Racó de ses Barreres",
+                  "text": "Racó de ses Barreres ist ein Strandbereich in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.154056,
+                        39.871015
+                  ]
+            },
+            {
+                  "name": "Caleta des Capellans",
+                  "text": "Caleta des Capellans ist eine kleine Strandbucht in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159313,
+                        39.871506
+                  ]
+            },
+            {
+                  "name": "platja dels Francesos",
+                  "text": "Platja dels Francesos ist ein Strandabschnitt in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.117059,
+                        39.821158
+                  ]
+            },
+            {
+                  "name": "Es Clot",
+                  "text": "Es Clot ist ein Strand in der Gemeinde Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.120722,
+                        39.862823
+                  ]
             }
       ],
       "hu": [
@@ -2662,6 +2797,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.109622,
                         39.858155
+                  ]
+            },
+            {
+                  "name": "Platja de sa font de Sant Pere",
+                  "text": "A Platja de sa font de Sant Pere egy tengerparti strand Alcúdiában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137919,
+                        39.864557
+                  ]
+            },
+            {
+                  "name": "Platja de sa Font de Sant Joan",
+                  "text": "A Platja de sa Font de Sant Joan egy tengerparti strand Alcúdiában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135466,
+                        39.865354
+                  ]
+            },
+            {
+                  "name": "Platja des Morer Vermell",
+                  "text": "A Platja des Morer Vermell egy tengerparti strand Alcúdiában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124641,
+                        39.862883
+                  ]
+            },
+            {
+                  "name": "Racó de ses Barreres",
+                  "text": "A Racó de ses Barreres egy tengerparti szakasz Alcúdiában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.154056,
+                        39.871015
+                  ]
+            },
+            {
+                  "name": "Caleta des Capellans",
+                  "text": "A Caleta des Capellans egy tengerparti strand Alcúdiában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159313,
+                        39.871506
+                  ]
+            },
+            {
+                  "name": "platja dels Francesos",
+                  "text": "A platja dels Francesos egy tengerparti strand Alcúdiában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.117059,
+                        39.821158
+                  ]
+            },
+            {
+                  "name": "Es Clot",
+                  "text": "Az Es Clot egy tengerparti strand Alcúdiában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.120722,
+                        39.862823
                   ]
             }
       ],
@@ -2922,6 +3120,69 @@ export const poiExtraEsV2: POI[] = [
                         3.109622,
                         39.858155
                   ]
+            },
+            {
+                  "name": "Platja de sa font de Sant Pere",
+                  "text": "Platja de sa font de Sant Pere este o plajă situată în Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137919,
+                        39.864557
+                  ]
+            },
+            {
+                  "name": "Platja de sa Font de Sant Joan",
+                  "text": "Platja de sa Font de Sant Joan este o plajă situată în Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135466,
+                        39.865354
+                  ]
+            },
+            {
+                  "name": "Platja des Morer Vermell",
+                  "text": "Platja des Morer Vermell este o plajă situată în Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124641,
+                        39.862883
+                  ]
+            },
+            {
+                  "name": "Racó de ses Barreres",
+                  "text": "Racó de ses Barreres este o zonă de plajă în Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.154056,
+                        39.871015
+                  ]
+            },
+            {
+                  "name": "Caleta des Capellans",
+                  "text": "Caleta des Capellans este o mică plajă situată în Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159313,
+                        39.871506
+                  ]
+            },
+            {
+                  "name": "platja dels Francesos",
+                  "text": "Platja dels Francesos este o plajă situată în Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.117059,
+                        39.821158
+                  ]
+            },
+            {
+                  "name": "Es Clot",
+                  "text": "Es Clot este o plajă situată în Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.120722,
+                        39.862823
+                  ]
             }
       ],
       "en": [
@@ -3180,6 +3441,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.109622,
                         39.858155
+                  ]
+            },
+            {
+                  "name": "Platja de sa font de Sant Pere",
+                  "text": "Platja de sa font de Sant Pere is a beach located in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137919,
+                        39.864557
+                  ]
+            },
+            {
+                  "name": "Platja de sa Font de Sant Joan",
+                  "text": "Platja de sa Font de Sant Joan is a beach located in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135466,
+                        39.865354
+                  ]
+            },
+            {
+                  "name": "Platja des Morer Vermell",
+                  "text": "Platja des Morer Vermell is a beach located in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124641,
+                        39.862883
+                  ]
+            },
+            {
+                  "name": "Racó de ses Barreres",
+                  "text": "Racó de ses Barreres is a beach area located in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.154056,
+                        39.871015
+                  ]
+            },
+            {
+                  "name": "Caleta des Capellans",
+                  "text": "Caleta des Capellans is a small beach located in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159313,
+                        39.871506
+                  ]
+            },
+            {
+                  "name": "platja dels Francesos",
+                  "text": "Platja dels Francesos is a beach located in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.117059,
+                        39.821158
+                  ]
+            },
+            {
+                  "name": "Es Clot",
+                  "text": "Es Clot is a beach located in Alcúdia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.120722,
+                        39.862823
                   ]
             }
       ]
@@ -9349,6 +9673,87 @@ export const poiExtraEsV2: POI[] = [
                         -8.822438,
                         42.115941
                   ]
+            },
+            {
+                  "name": "A Praíña da Furna",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825655,
+                        42.142954
+                  ]
+            },
+            {
+                  "name": "A Area do Boliche",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.824029,
+                        42.143671
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante Toda",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827174,
+                        42.123016
+                  ]
+            },
+            {
+                  "name": "Praia da Cansadoura",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.830546,
+                        42.153185
+                  ]
+            },
+            {
+                  "name": "Praia do Rego do Forno",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82738,
+                        42.153877
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826636,
+                        42.121636
+                  ]
+            },
+            {
+                  "name": "Praia do Rego da Porta",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.846375,
+                        42.149408
+                  ]
+            },
+            {
+                  "name": "Praia da Cuncheira",
+                  "text": "Ein beliebter Stadtstrand in Baiona, gut ausgestattet mit Dienstleistungen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851731,
+                        42.122474
+                  ]
+            },
+            {
+                  "name": "Praia dos Feitales",
+                  "text": "Ein malerischer Strand in Baiona, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.831839,
+                        42.14812
+                  ]
             }
       ],
       "hu": [
@@ -9558,6 +9963,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.822438,
                         42.115941
+                  ]
+            },
+            {
+                  "name": "A Praíña da Furna",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825655,
+                        42.142954
+                  ]
+            },
+            {
+                  "name": "A Area do Boliche",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.824029,
+                        42.143671
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante Toda",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827174,
+                        42.123016
+                  ]
+            },
+            {
+                  "name": "Praia da Cansadoura",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.830546,
+                        42.153185
+                  ]
+            },
+            {
+                  "name": "Praia do Rego do Forno",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82738,
+                        42.153877
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826636,
+                        42.121636
+                  ]
+            },
+            {
+                  "name": "Praia do Rego da Porta",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.846375,
+                        42.149408
+                  ]
+            },
+            {
+                  "name": "Praia da Cuncheira",
+                  "text": "Baiona népszerű városi strandja, amely jól felszerelt szolgáltatásokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851731,
+                        42.122474
+                  ]
+            },
+            {
+                  "name": "Praia dos Feitales",
+                  "text": "Festői tengerpart Baiona területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.831839,
+                        42.14812
                   ]
             }
       ],
@@ -9769,6 +10255,87 @@ export const poiExtraEsV2: POI[] = [
                         -8.822438,
                         42.115941
                   ]
+            },
+            {
+                  "name": "A Praíña da Furna",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825655,
+                        42.142954
+                  ]
+            },
+            {
+                  "name": "A Area do Boliche",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.824029,
+                        42.143671
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante Toda",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827174,
+                        42.123016
+                  ]
+            },
+            {
+                  "name": "Praia da Cansadoura",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.830546,
+                        42.153185
+                  ]
+            },
+            {
+                  "name": "Praia do Rego do Forno",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82738,
+                        42.153877
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826636,
+                        42.121636
+                  ]
+            },
+            {
+                  "name": "Praia do Rego da Porta",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.846375,
+                        42.149408
+                  ]
+            },
+            {
+                  "name": "Praia da Cuncheira",
+                  "text": "O plajă urbană populară în Baiona, bine echipată cu servicii pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851731,
+                        42.122474
+                  ]
+            },
+            {
+                  "name": "Praia dos Feitales",
+                  "text": "O plajă pitorească în Baiona, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.831839,
+                        42.14812
+                  ]
             }
       ],
       "en": [
@@ -9979,6 +10546,87 @@ export const poiExtraEsV2: POI[] = [
                         -8.822438,
                         42.115941
                   ]
+            },
+            {
+                  "name": "A Praíña da Furna",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825655,
+                        42.142954
+                  ]
+            },
+            {
+                  "name": "A Area do Boliche",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.824029,
+                        42.143671
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante Toda",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827174,
+                        42.123016
+                  ]
+            },
+            {
+                  "name": "Praia da Cansadoura",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.830546,
+                        42.153185
+                  ]
+            },
+            {
+                  "name": "Praia do Rego do Forno",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82738,
+                        42.153877
+                  ]
+            },
+            {
+                  "name": "Praíña de Avante",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826636,
+                        42.121636
+                  ]
+            },
+            {
+                  "name": "Praia do Rego da Porta",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.846375,
+                        42.149408
+                  ]
+            },
+            {
+                  "name": "Praia da Cuncheira",
+                  "text": "A popular urban beach in Baiona, well-equipped with services for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851731,
+                        42.122474
+                  ]
+            },
+            {
+                  "name": "Praia dos Feitales",
+                  "text": "A scenic beach in Baiona, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.831839,
+                        42.14812
+                  ]
             }
       ]
 }},
@@ -10147,6 +10795,33 @@ export const poiExtraEsV2: POI[] = [
                         2.195159,
                         41.384756
                   ]
+            },
+            {
+                  "name": "Platja de Sant Miquel",
+                  "text": "Ein zentral gelegener Stadtstrand in Barcelona, bekannt für seine lebhafte Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        2.190989,
+                        41.375784
+                  ]
+            },
+            {
+                  "name": "San Sebastian Strand",
+                  "text": "Einer der ältesten und längsten Strände Barcelonas im Stadtteil Barceloneta.",
+                  "category": "recreational",
+                  "coords": [
+                        2.189418,
+                        41.371307
+                  ]
+            },
+            {
+                  "name": "l'Aquàrium Barcelona",
+                  "text": "Eines der bedeutendsten Aquarien Europas in Barcelona, das eine beeindruckende Vielfalt an Meereslebewesen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        2.184348,
+                        41.376768
+                  ]
             }
       ],
       "hu": [
@@ -10312,6 +10987,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.195159,
                         41.384756
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Miquel",
+                  "text": "Barcelona központi elhelyezkedésű városi strandja, amely élénk hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.190989,
+                        41.375784
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Sebastià",
+                  "text": "Barcelona egyik legrégebbi és leghosszabb strandja a Barceloneta negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        2.189418,
+                        41.371307
+                  ]
+            },
+            {
+                  "name": "l'Aquàrium Barcelona",
+                  "text": "Európa egyik legjelentősebb akváriuma Barcelonában, amely a tengeri élővilág lenyűgöző változatosságát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        2.184348,
+                        41.376768
                   ]
             }
       ],
@@ -10479,6 +11181,33 @@ export const poiExtraEsV2: POI[] = [
                         2.195159,
                         41.384756
                   ]
+            },
+            {
+                  "name": "Platja de Sant Miquel",
+                  "text": "O plajă urbană situată central în Barcelona, cunoscută pentru atmosfera sa plină de viață.",
+                  "category": "recreational",
+                  "coords": [
+                        2.190989,
+                        41.375784
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Sebastià",
+                  "text": "Una dintre cele mai vechi și mai lungi plaje din Barcelona, în cartierul Barceloneta.",
+                  "category": "recreational",
+                  "coords": [
+                        2.189418,
+                        41.371307
+                  ]
+            },
+            {
+                  "name": "l'Aquàrium Barcelona",
+                  "text": "Unul dintre cele mai importante acvarii din Europa, situat în Barcelona, care prezintă o diversitate impresionantă de viețuitoare marine.",
+                  "category": "recreational",
+                  "coords": [
+                        2.184348,
+                        41.376768
+                  ]
             }
       ],
       "en": [
@@ -10644,6 +11373,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.195159,
                         41.384756
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Miquel",
+                  "text": "A centrally located urban beach in Barcelona known for its lively atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        2.190989,
+                        41.375784
+                  ]
+            },
+            {
+                  "name": "Sant Sebastià Beach",
+                  "text": "One of Barcelona's oldest and longest beaches located in the Barceloneta district.",
+                  "category": "recreational",
+                  "coords": [
+                        2.189418,
+                        41.371307
+                  ]
+            },
+            {
+                  "name": "Aquarium Barcelona",
+                  "text": "One of Europe's most significant aquariums in Barcelona, showcasing an impressive variety of marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        2.184348,
+                        41.376768
                   ]
             }
       ]
@@ -10816,6 +11572,105 @@ export const poiExtraEsV2: POI[] = [
                         3.215911,
                         41.938331
                   ]
+            },
+            {
+                  "name": "Ses Vaques",
+                  "text": "Ein Strand in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.22919,
+                        41.962352
+                  ]
+            },
+            {
+                  "name": "Platja de s'Armanac",
+                  "text": "Ein Strand in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214671,
+                        41.937114
+                  ]
+            },
+            {
+                  "name": "Cala s'Antiga",
+                  "text": "Ein Strand in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.213145,
+                        41.97344
+                  ]
+            },
+            {
+                  "name": "Platja d'Aigua Xelida",
+                  "text": "Ein Strand in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.215527,
+                        41.921628
+                  ]
+            },
+            {
+                  "name": "Platja del Racó",
+                  "text": "Ein weitläufiger Sandstrand in Begur mit Blick auf die Medes-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207232,
+                        41.98111
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguablava",
+                  "text": "Ein bekannter Strand in Begur, berühmt für sein kristallklares, türkisfarbenes Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216151,
+                        41.934014
+                  ]
+            },
+            {
+                  "name": "Cala dels Tries",
+                  "text": "Eine kleine Bucht in Begur, die eine ruhige Badeumgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214192,
+                        41.936123
+                  ]
+            },
+            {
+                  "name": "Platja d'en Gotes",
+                  "text": "Ein lokaler Strand in Begur, geeignet für einen Tag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216846,
+                        41.92208
+                  ]
+            },
+            {
+                  "name": "Platja Caganer d'es Duc",
+                  "text": "Ein charakteristischer Strandabschnitt in der Nähe von Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210646,
+                        41.975989
+                  ]
+            },
+            {
+                  "name": "Cala Marquesa",
+                  "text": "Eine abgeschiedene Bucht in Begur, umgeben von natürlicher Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216137,
+                        41.924141
+                  ]
+            },
+            {
+                  "name": "Piscina Parador",
+                  "text": "Ein hoteleigener Pool in der malerischen Küstenstadt Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.218787,
+                        41.934302
+                  ]
             }
       ],
       "hu": [
@@ -10984,6 +11839,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.215911,
                         41.938331
+                  ]
+            },
+            {
+                  "name": "Ses Vaques",
+                  "text": "Egy strand Begur területén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.22919,
+                        41.962352
+                  ]
+            },
+            {
+                  "name": "Platja de s'Armanac",
+                  "text": "Egy strand Begur területén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214671,
+                        41.937114
+                  ]
+            },
+            {
+                  "name": "Cala s'Antiga",
+                  "text": "Egy strand Begur területén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.213145,
+                        41.97344
+                  ]
+            },
+            {
+                  "name": "Platja d'Aigua Xelida",
+                  "text": "Egy strand Begur területén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.215527,
+                        41.921628
+                  ]
+            },
+            {
+                  "name": "Platja del Racó",
+                  "text": "Tágas homokos strand Begurban, kilátással a Medes-szigetekre.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207232,
+                        41.98111
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguablava",
+                  "text": "Népszerű strand Begurban, amely kristálytiszta türkizkék vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216151,
+                        41.934014
+                  ]
+            },
+            {
+                  "name": "Cala dels Tries",
+                  "text": "Kicsi öböl Begurban, amely nyugodt környezetet kínál a fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214192,
+                        41.936123
+                  ]
+            },
+            {
+                  "name": "Platja d'en Gotes",
+                  "text": "Helyi strand Begurban, amely alkalmas egy tengerparti nap eltöltésére.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216846,
+                        41.92208
+                  ]
+            },
+            {
+                  "name": "Platja Caganer d'es Duc",
+                  "text": "Jellegzetes strandrész Begur közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210646,
+                        41.975989
+                  ]
+            },
+            {
+                  "name": "Cala Marquesa",
+                  "text": "Elszigetelt öböl Begurban, természeti szépséggel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216137,
+                        41.924141
+                  ]
+            },
+            {
+                  "name": "Piscina Parador",
+                  "text": "Egy szállodai úszómedence a festői Begur tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.218787,
+                        41.934302
                   ]
             }
       ],
@@ -11154,6 +12108,105 @@ export const poiExtraEsV2: POI[] = [
                         3.215911,
                         41.938331
                   ]
+            },
+            {
+                  "name": "Ses Vaques",
+                  "text": "O plajă în Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.22919,
+                        41.962352
+                  ]
+            },
+            {
+                  "name": "Platja de s'Armanac",
+                  "text": "O plajă în Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214671,
+                        41.937114
+                  ]
+            },
+            {
+                  "name": "Cala s'Antiga",
+                  "text": "O plajă în Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.213145,
+                        41.97344
+                  ]
+            },
+            {
+                  "name": "Platja d'Aigua Xelida",
+                  "text": "O plajă în Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.215527,
+                        41.921628
+                  ]
+            },
+            {
+                  "name": "Platja del Racó",
+                  "text": "O plajă lungă de nisip în Begur, cu vedere spre Insulele Medes.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207232,
+                        41.98111
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguablava",
+                  "text": "O plajă faimoasă din Begur, cunoscută pentru apele sale turcoaz cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216151,
+                        41.934014
+                  ]
+            },
+            {
+                  "name": "Cala dels Tries",
+                  "text": "Un golf mic în Begur, oferind un mediu liniștit pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214192,
+                        41.936123
+                  ]
+            },
+            {
+                  "name": "Platja d'en Gotes",
+                  "text": "O plajă locală în Begur, potrivită pentru o zi la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216846,
+                        41.92208
+                  ]
+            },
+            {
+                  "name": "Platja Caganer d'es Duc",
+                  "text": "O secțiune caracteristică de plajă în apropiere de Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210646,
+                        41.975989
+                  ]
+            },
+            {
+                  "name": "Cala Marquesa",
+                  "text": "Un golf retras în Begur, înconjurat de frumusețe naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216137,
+                        41.924141
+                  ]
+            },
+            {
+                  "name": "Piscina Parador",
+                  "text": "O piscină privată a hotelului în pitorescul oraș de coastă Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.218787,
+                        41.934302
+                  ]
             }
       ],
       "en": [
@@ -11323,6 +12376,105 @@ export const poiExtraEsV2: POI[] = [
                         3.215911,
                         41.938331
                   ]
+            },
+            {
+                  "name": "Ses Vaques",
+                  "text": "A beach in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.22919,
+                        41.962352
+                  ]
+            },
+            {
+                  "name": "Platja de s'Armanac",
+                  "text": "A beach in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214671,
+                        41.937114
+                  ]
+            },
+            {
+                  "name": "Cala s'Antiga",
+                  "text": "A beach in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.213145,
+                        41.97344
+                  ]
+            },
+            {
+                  "name": "Platja d'Aigua Xelida",
+                  "text": "A beach in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.215527,
+                        41.921628
+                  ]
+            },
+            {
+                  "name": "Platja del Racó",
+                  "text": "A long sandy beach in Begur offering views of the Medes Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207232,
+                        41.98111
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguablava",
+                  "text": "A famous beach in Begur known for its crystal-clear turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216151,
+                        41.934014
+                  ]
+            },
+            {
+                  "name": "Cala dels Tries",
+                  "text": "A small cove in Begur offering a quiet swimming environment.",
+                  "category": "recreational",
+                  "coords": [
+                        3.214192,
+                        41.936123
+                  ]
+            },
+            {
+                  "name": "Platja d'en Gotes",
+                  "text": "A local beach in Begur suitable for a day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216846,
+                        41.92208
+                  ]
+            },
+            {
+                  "name": "Platja Caganer d'es Duc",
+                  "text": "A characteristic beach section located near Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210646,
+                        41.975989
+                  ]
+            },
+            {
+                  "name": "Cala Marquesa",
+                  "text": "A secluded cove in Begur surrounded by natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        3.216137,
+                        41.924141
+                  ]
+            },
+            {
+                  "name": "Piscina Parador",
+                  "text": "A hotel swimming pool in the picturesque coastal town of Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.218787,
+                        41.934302
+                  ]
             }
       ]
 }},
@@ -11462,6 +12614,105 @@ export const poiExtraEsV2: POI[] = [
                         -4.496913,
                         36.618348
                   ]
+            },
+            {
+                  "name": "Playa de Torre Vigía",
+                  "text": "Die Playa de Torre Vigía ist ein Strand in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.53916,
+                        36.580661
+                  ]
+            },
+            {
+                  "name": "Playa Malapesquera",
+                  "text": "Playa Malapesquera ist ein weitläufiger und beliebter Strand in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.517507,
+                        36.595353
+                  ]
+            },
+            {
+                  "name": "Playa de la Yuca",
+                  "text": "Die Playa de la Yuca ist ein kleinerer Strand in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.550172,
+                        36.580761
+                  ]
+            },
+            {
+                  "name": "Playa de Santa Ana",
+                  "text": "Die Playa de Santa Ana ist ein bekannter Strand in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.523044,
+                        36.591955
+                  ]
+            },
+            {
+                  "name": "Playa del Arroyo de la Miel y los Melilleros",
+                  "text": "Die Playa del Arroyo de la Miel y los Melilleros ist ein Strand in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.531706,
+                        36.586544
+                  ]
+            },
+            {
+                  "name": "Playa de las Verdas",
+                  "text": "Die Playa de las Verdas ist ein Strand in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.533784,
+                        36.583907
+                  ]
+            },
+            {
+                  "name": "Playa de la Carihuela",
+                  "text": "Die Playa de la Carihuela ist ein berühmter Strand an der Grenze zwischen Benalmádena und Torremolinos.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.504794,
+                        36.607227
+                  ]
+            },
+            {
+                  "name": "Playa Benalnatura",
+                  "text": "Playa Benalnatura ist ein bekannter FKK-Strand in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.553884,
+                        36.580167
+                  ]
+            },
+            {
+                  "name": "Jardin de Las aguilas",
+                  "text": "Ein Greifvogelpark in Benalmádena, in dem Besucher Adler und andere Raubvögel beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.560047,
+                        36.617469
+                  ]
+            },
+            {
+                  "name": "Crocodile Park",
+                  "text": "Ein Wildpark in Benalmádena, der verschiedenen Krokodilarten gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.508937,
+                        36.624471
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "Ein spezieller Schwimmbereich für Kinder in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
+                  ]
             }
       ],
       "hu": [
@@ -11598,6 +12849,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.496913,
                         36.618348
+                  ]
+            },
+            {
+                  "name": "Playa de Torre Vigía",
+                  "text": "A Playa de Torre Vigía egy strand Benalmádena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.53916,
+                        36.580661
+                  ]
+            },
+            {
+                  "name": "Playa Malapesquera",
+                  "text": "A Playa Malapesquera egy tágas és népszerű strand Benalmádena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.517507,
+                        36.595353
+                  ]
+            },
+            {
+                  "name": "Playa de la Yuca",
+                  "text": "A Playa de la Yuca egy kisebb strand Benalmádena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.550172,
+                        36.580761
+                  ]
+            },
+            {
+                  "name": "Playa de Santa Ana",
+                  "text": "A Playa de Santa Ana egy jól ismert strand Benalmádena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.523044,
+                        36.591955
+                  ]
+            },
+            {
+                  "name": "Playa del Arroyo de la Miel y los Melilleros",
+                  "text": "A Playa del Arroyo de la Miel y los Melilleros egy strand Benalmádena területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.531706,
+                        36.586544
+                  ]
+            },
+            {
+                  "name": "Playa de las Verdas",
+                  "text": "A Playa de las Verdas egy strand Benalmádena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.533784,
+                        36.583907
+                  ]
+            },
+            {
+                  "name": "Playa de la Carihuela",
+                  "text": "A Playa de la Carihuela egy híres strand Benalmádena és Torremolinos határán.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.504794,
+                        36.607227
+                  ]
+            },
+            {
+                  "name": "Playa Benalnatura",
+                  "text": "A Playa Benalnatura egy ismert nudista strand Benalmádena területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.553884,
+                        36.580167
+                  ]
+            },
+            {
+                  "name": "Jardin de Las aguilas",
+                  "text": "Egy ragadozómadár-park Benalmádenában, ahol a látogatók sasokat és más ragadozókat láthatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.560047,
+                        36.617469
+                  ]
+            },
+            {
+                  "name": "Crocodile Park",
+                  "text": "Krokodilokra szakosodott vadaspark Benalmádenában, ahol számos faj megtekinthető.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.508937,
+                        36.624471
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "Gyermekek számára kialakított úszómedence Benalmádenában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
                   ]
             }
       ],
@@ -11736,6 +13086,105 @@ export const poiExtraEsV2: POI[] = [
                         -4.496913,
                         36.618348
                   ]
+            },
+            {
+                  "name": "Playa de Torre Vigía",
+                  "text": "Playa de Torre Vigía este o plajă în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.53916,
+                        36.580661
+                  ]
+            },
+            {
+                  "name": "Playa Malapesquera",
+                  "text": "Playa Malapesquera este o plajă întinsă și populară în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.517507,
+                        36.595353
+                  ]
+            },
+            {
+                  "name": "Playa de la Yuca",
+                  "text": "Playa de la Yuca este o plajă mai mică în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.550172,
+                        36.580761
+                  ]
+            },
+            {
+                  "name": "Playa de Santa Ana",
+                  "text": "Playa de Santa Ana este o plajă cunoscută în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.523044,
+                        36.591955
+                  ]
+            },
+            {
+                  "name": "Playa del Arroyo de la Miel y los Melilleros",
+                  "text": "Playa del Arroyo de la Miel y los Melilleros este o plajă în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.531706,
+                        36.586544
+                  ]
+            },
+            {
+                  "name": "Playa de las Verdas",
+                  "text": "Playa de las Verdas este o plajă în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.533784,
+                        36.583907
+                  ]
+            },
+            {
+                  "name": "Playa de la Carihuela",
+                  "text": "Playa de la Carihuela este o plajă faimoasă situată la granița dintre Benalmádena și Torremolinos.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.504794,
+                        36.607227
+                  ]
+            },
+            {
+                  "name": "Playa Benalnatura",
+                  "text": "Playa Benalnatura este o plajă de nudiști cunoscută în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.553884,
+                        36.580167
+                  ]
+            },
+            {
+                  "name": "Jardin de Las aguilas",
+                  "text": "Un parc de păsări de pradă din Benalmádena, unde vizitatorii pot vedea vulturi și alte răpitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.560047,
+                        36.617469
+                  ]
+            },
+            {
+                  "name": "Crocodile Park",
+                  "text": "Un parc de animale sălbatice din Benalmádena dedicat crocodililor din diverse specii.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.508937,
+                        36.624471
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "O zonă de înot dedicată copiilor situată în Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
+                  ]
             }
       ],
       "en": [
@@ -11873,10 +13322,1090 @@ export const poiExtraEsV2: POI[] = [
                         -4.496913,
                         36.618348
                   ]
+            },
+            {
+                  "name": "Playa de Torre Vigía",
+                  "text": "Playa de Torre Vigía is a beach located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.53916,
+                        36.580661
+                  ]
+            },
+            {
+                  "name": "Playa Malapesquera",
+                  "text": "Playa Malapesquera is a wide and popular beach located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.517507,
+                        36.595353
+                  ]
+            },
+            {
+                  "name": "Playa de la Yuca",
+                  "text": "Playa de la Yuca is a smaller beach located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.550172,
+                        36.580761
+                  ]
+            },
+            {
+                  "name": "Playa de Santa Ana",
+                  "text": "Playa de Santa Ana is a well-known beach located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.523044,
+                        36.591955
+                  ]
+            },
+            {
+                  "name": "Playa del Arroyo de la Miel y los Melilleros",
+                  "text": "Playa del Arroyo de la Miel y los Melilleros is a beach located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.531706,
+                        36.586544
+                  ]
+            },
+            {
+                  "name": "Playa de las Verdas",
+                  "text": "Playa de las Verdas is a beach located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.533784,
+                        36.583907
+                  ]
+            },
+            {
+                  "name": "Playa de la Carihuela",
+                  "text": "Playa de la Carihuela is a famous beach located on the border between Benalmádena and Torremolinos.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.504794,
+                        36.607227
+                  ]
+            },
+            {
+                  "name": "Playa Benalnatura",
+                  "text": "Playa Benalnatura is a well-known nudist beach located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.553884,
+                        36.580167
+                  ]
+            },
+            {
+                  "name": "Jardin de Las aguilas",
+                  "text": "A birds of prey park in Benalmádena where visitors can see eagles and other raptors.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.560047,
+                        36.617469
+                  ]
+            },
+            {
+                  "name": "Crocodile Park",
+                  "text": "A wildlife park in Benalmádena dedicated to crocodiles of various species.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.508937,
+                        36.624471
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "A dedicated swimming area for children located in Benalmádena.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
+                  ]
             }
       ]
 }},
-  {"id": "benicassim", "type": "city", "parent": "ES-VC", "coords": [0.0744, 40.0489], "population": 18000, "tier": 2, "name": {"de": "Benicàssim", "hu": "Benicàssim", "ro": "Benicàssim", "en": "Benicàssim"}, "description": {"de": "Benicàssim vereint wunderschöne Belle-Époque-Villen mit einem modernen Festival-Vibe und spektakulären Naturlandschaften.", "hu": "Benicàssim a modern zenei fesztiválok pezsgését ötvözi a Belle Époque villák eleganciájával és a környező hegyek vadregényes tájaival.", "ro": "Benicàssim îmbină eleganța vilelor Belle Époque cu vibe-ul festivalurilor moderne și peisaje naturale spectaculoase.", "en": "Benicàssim combines the elegance of Belle Époque villas with a modern festival vibe and spectacular natural landscapes."}, "facts": {"de": ["FIB Musikfestival Standort", "Ruta de las Villas (Belle Époque)", "Desert de les Palmes Naturpark", "6 km Sandstrände (Voramar etc.)", "Karmeliterkloster in den Bergen", "Vía Verde (Radweg am Meer)", "Aquarama Wasserpark", "Heilquelle Fuente del Desert"], "hu": ["FIB zenei fesztivál helyszíne", "Belle Époque villák útvonala", "Desert de les Palmes natúrpark", "6 km finomhomokos strand", "Karmelita kolostor a hegyekben", "Vía Verde partmenti kerékpárút", "Aquarama vízi élménypark", "Fuente del Desert gyógyforrás"], "ro": ["Locația festivalului de muzică FIB", "Ruta Vilelor (Belle Époque)", "Parcul Natural Desert de les Palmes", "6 km de plaje cu nisip fin", "Mănăstire carmelită în munți", "Vía Verde (pistă de biciclete)", "Parcul acvatic Aquarama", "Izvorul Fuente del Desert"], "en": ["Home to the FIB Music Festival", "Route of the Villas (Belle Époque)", "Desert de les Palmes Natural Park", "6 km of fine sandy beaches", "Carmelite monastery in the hills", "Vía Verde coastal cycling path", "Aquarama water park", "Fuente del Desert natural spring"]}, "image": "/poi-images/benicassim.webp", "imageHint": "Elegant historic villas along the Benicassim beachfront promenade", "descriptionAdvanced": {"de": "Benicàssim, an der Costa del Azahar gelegen, ist ein Ort von großer Vielseitigkeit. Die Stadt wurde im späten 19. und frühen 20. Jahrhundert als 'Biarritz von Valencia' bekannt, als reiche Familien prächtige Villen entlang des Strandes von Voramar errichteten. Diese Villen, heute als 'Ruta de las Villas' bekannt, verleihen der Stadt ein einzigartiges aristokratisches Flair. Im Kontrast dazu steht die moderne Bedeutung der Stadt als Austragungsort des Festival Internacional de Benicàssim (FIB), eines der wichtigsten Indie- und Alternative-Rock-Festivals in Europa. Hinter der Stadt erhebt sich der Naturpark Desert de les Palmes, ein Gebirgszug mit den Ruinen alter Klöster, der einen atemberaubenden Blick auf die Küste bietet. Die Vía Verde, ein Rad- und Wanderweg auf einer ehemaligen Bahnstrecke, verbindet Benicàssim mit Oropesa del Mar direkt entlang der Klippen.", "hu": "A Costa del Azahar partján fekvő Benicàssim rendkívül sokszínű hely. A várost a 19. század végén és a 20. század elején 'Valencia Biarritzeként' ismerték, amikor gazdag családok pompás villákat építettek a Voramar-strand mentén. Ezek a villák, amelyek ma a 'Villák Útvonala' néven ismertek, egyedülálló arisztokratikus hangulatot kölcsönöznek a városnak. Ezzel szemben áll a város modern jelentősége, mint a Benicàssim Nemzetközi Fesztivál (FIB) helyszíne, amely Európa egyik legfontosabb indie és alternatív rock fesztiválja. A város mögött magasodik a Desert de les Palmes natúrpark, egy hegylánc régi kolostorok romjaival, amely lélegzetelállító kilátást nyújt a tengerpartra. A Vía Verde, egy egykori vasútvonal helyén kialakított kerékpár- és gyalogút, közvetlenül a sziklák mentén köti össze Benicàssimet Oropesa del Marral.", "ro": "Situat pe Costa del Azahar, Benicàssim este un loc de o mare versatilitate. Orașul a devenit cunoscut sub numele de 'Biarritz-ul Valenciei' la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, când familiile bogate au construit vile splendide de-a lungul plajei Voramar. Aceste vile, cunoscute astăzi sub numele de 'Ruta Vilelor', conferă orașului un aer aristocratic unic. În contrast, se află importanța modernă a orașului ca gazdă a Festivalului Internațional de Benicàssim (FIB), unul dintre cele mai importante festivaluri de rock indie și alternativ din Europa. În spatele orașului se ridică Parcul Natural Desert de les Palmes, un lanț muntos cu ruinele unor mănăstiri vechi, care oferă o vedere uluitoare asupra coastei. Vía Verde, o pistă de biciclete și drumeție pe o fostă linie ferată, leagă Benicàssim de Oropesa del Mar direct de-a lungul stâncilor.", "en": "Situated on the Costa del Azahar, Benicàssim is a place of great versatility. The town became known as the 'Biarritz of Valencia' in the late 19th and early 20th centuries, when wealthy families built splendid villas along Voramar beach. These villas, now known as the 'Route of the Villas', give the town a unique aristocratic flair. In contrast stands the town's modern significance as the host of the Benicàssim International Festival (FIB), one of Europe's premier indie and alternative rock festivals. Rising behind the town is the Desert de les Palmes Natural Park, a mountain range featuring the ruins of ancient monasteries and breathtaking coastal views. The Vía Verde, a cycling and hiking path on a former railway line, connects Benicàssim to Oropesa del Mar directly along the cliffs."}, "factsAdvanced": {"de": ["Belle-Époque Villen (Ruta de las Villas)", "Gipfel El Bartolo (729 m Höhe)", "Desert de les Palmes (3.200 ha)", "Sitz der Destilerías Carmelitano", "Wachturm Torre de Sant Vicent", "FIB Festival seit 1995"], "hu": ["Belle-Époque villák a Voramar parton", "El Bartolo csúcs (729 m magasság)", "Desert de les Palmes (3200 ha terület)", "A Carmelitano likőrlepárló székhelye", "Torre de Sant Vicent őrtorony", "FIB fesztivál 1995 óta"], "ro": ["Vile Belle-Époque pe plaja Voramar", "Vârful El Bartolo (729 m înălțime)", "Desert de les Palmes (3.200 ha)", "Sediul Destilerías Carmelitano", "Turnul de veghe Sant Vicent", "Festivalul FIB din 1995"], "en": ["Belle-Époque villas on Voramar beach", "El Bartolo peak (729 m height)", "Desert de les Palmes (3,200 hectares)", "Home to the Carmelitano Distillery", "Sant Vicent watchtower (16th c.)", "FIB Festival established in 1995"]}, "sights": {"de": [{"name": "Castillo de Montornés", "text": "Die Ruinen dieser mittelalterlichen Festung bieten einen weiten Blick über die Küste und das Naturschutzgebiet Desert de les Palmes.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp", "coords": [0.029397, 40.062]}, {"name": "Iglesia de Santo Tomás de Villanueva", "text": "Eine neoklassizistische Kirche im Stadtzentrum, die für ihre elegante Architektur und die religiöse Bedeutung bekannt ist.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp", "coords": [0.064556, 40.05525]}, {"name": "Desert de les Palmes", "text": "Ein gebirgiges Naturreservat mit alten Klöstern, Wanderwegen und einer reichen Flora und Fauna hoch über der Stadt.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp", "coords": [0.040833, 40.0839]}, {"name": "Via Verde del Mar", "text": "Ein malerischer Rad- und Wanderweg auf einer ehemaligen Eisenbahntrasse, der direkt am Meer entlang nach Oropesa führt.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp", "coords": [0.08902, 40.056663]}, {"name": "Torre de Sant Vicent", "text": "Ein gut erhaltener Wehrturm aus dem 16. Jahrhundert am Strand, der früher zur Verteidigung gegen Berberpiraten diente.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp", "coords": [0.069444, 40.047194]}, {"name": "Bodegas Carmelitano", "text": "Eine historische Destillerie der Karmelitermönche, die für ihren traditionellen Likör und ihre Führungen berühmt ist.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp", "coords": [0.057155, 40.052272]}, {"name": "Playa de Voramar", "text": "Gesäumt von historischen Villen bietet die Playa de Voramar in Benicassim einen exklusiven und ruhigen Strandabschnitt. Der feinste Sand unter den Füßen lädt zu entspannten Badegängen in einer mondänen Atmosphäre ein. Um die Ruhe voll auszukosten, empfiehlt sich ein Besuch in den frühen Morgenstunden.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-playa-de-voramar.webp", "coords": [0.08456, 40.05658]}, {"name": "Centro de Interpretación La Bartola", "text": "Ein Informationszentrum im Naturpark, das die geologischen und ökologischen Besonderheiten der Region anschaulich erklärt.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp", "coords": [0.099535, 40.05845]}, {"name": "Ermita de la Magdalena", "text": "Eine kleine Kapelle auf einem Hügel, die Ziel einer traditionellen Wallfahrt ist und einen schönen Ausblick bietet.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp", "coords": [-0.005821, 40.034644]}, {"name": "Bassa la Magdalena", "text": "Ein kleiner See in Benicassim, ideal für eine Pause während eines Spaziergangs.", "category": "natural", "coords": [-0.007625, 40.036252]}, {"name": "Plaça de les Corts Valencianes", "text": "Ein moderner Spielplatz in Benicassim, auf dem Kinder sicher spielen können.", "category": "family", "coords": [0.058972, 40.051623]}, {"name": "Parc Joan XXIII", "text": "Dieser Park in Benicassim bietet einen schönen Bereich für Kinder zum Spielen.", "category": "family", "coords": [0.055988, 40.05471]}, {"name": "Parc Públic Illot la Foradada", "text": "Ein öffentlicher Spielbereich in Benicassim, ideal für Familien mit Kindern.", "category": "family", "coords": [0.045539, 40.039091]}, {"name": "Plaza de Mosén Oliver", "text": "Die Plaza de Mosén Oliver präsentiert sich als zentral gelegener Spielplatz inmitten des sonnigen Benicassim. Während das Treiben der Stadt vorbeizieht, finden Familien hier den perfekten Ort für eine entspannte Spielpause. Es ist ein idealer Zwischenstopp, um neue Energie für weitere Entdeckungstouren zu sammeln.", "category": "family", "coords": [0.063119, 40.055984]}, {"name": "Plaça del Trenet", "text": "Miniatureisenbahnpark in Benicàssim, der ein unterhaltsames Erlebnis für Eisenbahnfreunde bietet.", "category": "family", "coords": [0.072521, 40.053058]}, {"name": "Aquarama", "text": "Großer Wasserpark in Benicàssim mit zahlreichen Rutschen für Familienspaß.", "category": "family", "coords": [0.052067, 40.046973]}, {"name": "Benilandia", "text": "Freizeitanlage in Benicàssim mit Schwimmbecken für junge Besucher.", "category": "family", "coords": [0.058909, 40.04498]}], "hu": [{"name": "Castillo de Montornés", "text": "A középkori erőd romjai a hegytetőn találhatók, ahonnan csodálatos panoráma nyílik a tengerpartra és a nemzeti parkra.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp", "coords": [0.029397, 40.062]}, {"name": "Iglesia de Santo Tomás de Villanueva", "text": "Neoklasszicista stílusú templom a város központjában, amely elegáns homlokzatáról és kulturális jelentőségéről ismert.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp", "coords": [0.064556, 40.05525]}, {"name": "Desert de les Palmes", "text": "Hegyes természetvédelmi terület régi kolostorokkal, túraútvonalakkal és gazdag mediterrán növényvilággal a város felett.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp", "coords": [0.040833, 40.0839]}, {"name": "Via Verde del Mar", "text": "Egykori vasútvonal helyén kialakított festői kerékpáros és gyalogos út, amely közvetlenül a sziklás tengerpart mentén halad.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp", "coords": [0.08902, 40.056663]}, {"name": "Torre de Sant Vicent", "text": "16. századi kiváló állapotú bástya a strand mentén, amely egykor a berber kalózok elleni védelmet szolgálta.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp", "coords": [0.069444, 40.047194]}, {"name": "Bodegas Carmelitano", "text": "A karmelita szerzetesek által alapított történelmi lepárló, ahol ma is tradicionális likőröket készítenek.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp", "coords": [0.057155, 40.052272]}, {"name": "Playa de Voramar", "text": "A történelmi villákkal szegélyezett benicassimi Playa de Voramar exkluzív és csendes partszakaszt kínál. A talpunk alatti legfinomabb homok pihentető fürdőzésre invitál egy elegáns atmoszférában. A nyugalom teljes kiélvezése érdekében érdemes a kora reggeli órákban ellátogatni ide.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-playa-de-voramar.webp", "coords": [0.08456, 40.05658]}, {"name": "Centro de Interpretación La Bartola", "text": "Látogatóközpont a natúrparkban, amely interaktív módon mutatja be a környék élővilágát és geológiáját.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp", "coords": [0.099535, 40.05845]}, {"name": "Ermita de la Magdalena", "text": "Dombi kápolna a város közelében, amely egy középkori vár helyén épült és fontos helyi zarándokhely.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp", "coords": [-0.005821, 40.034644]}, {"name": "Bassa la Magdalena", "text": "Egy kis tó Benicassim városában, ideális egy pihenőre séta közben.", "category": "natural", "coords": [-0.007625, 40.036252]}, {"name": "Plaça de les Corts Valencianes", "text": "Egy modern játszótér Benicassim városában, ahol a gyerekek biztonságban játszhatnak.", "category": "family", "coords": [0.058972, 40.051623]}, {"name": "Parc Joan XXIII", "text": "Ez a Benicassim-i park szép területet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [0.055988, 40.05471]}, {"name": "Parc Públic Illot la Foradada", "text": "Egy nyilvános játszóterület Benicassim városában, ideális gyermekes családok számára.", "category": "family", "coords": [0.045539, 40.039091]}, {"name": "Plaza de Mosén Oliver", "text": "A Plaza de Mosén Oliver egy központi fekvésű játszótérként jelenik meg a napfényes Benicassim szívében. Miközben a város nyüzsgése elhalad mellettük, a családok itt találják meg a tökéletes helyet egy pihentető játékos szünetre. Ideális megálló, hogy új energiát gyűjtsünk a további felfedezőutakhoz.", "category": "family", "coords": [0.063119, 40.055984]}, {"name": "Plaça del Trenet", "text": "Miniatűr vasútpark Benicàssimban, amely szórakoztató élményt nyújt a vasútbarátoknak.", "category": "family", "coords": [0.072521, 40.053058]}, {"name": "Aquarama", "text": "Nagy vízi vidámpark Benicàssimban számos csúszdával a családi szórakozáshoz.", "category": "family", "coords": [0.052067, 40.046973]}, {"name": "Benilandia", "text": "Szórakoztató létesítmény Benicàssimban úszómedencékkel a fiatal látogatók számára.", "category": "family", "coords": [0.058909, 40.04498]}], "ro": [{"name": "Castillo de Montornés", "text": "Ruinele unei fortărețe medievale de origine arabă, situate pe o culme cu vedere panoramică asupra coastei.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp", "coords": [0.029397, 40.062]}, {"name": "Iglesia de Santo Tomás de Villanueva", "text": "Biserică neoclasică situată în centrul orașului, fiind principalul lăcaș de cult și un reper arhitectural local.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp", "coords": [0.064556, 40.05525]}, {"name": "Desert de les Palmes", "text": "Parc natural montan ce adăpostește vechi mănăstiri carmelite și oferă numeroase trasee pentru iubitorii de natură.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp", "coords": [0.040833, 40.0839]}, {"name": "Via Verde del Mar", "text": "Traseu ecologic amenajat pe o fostă cale ferată, legând Benicàssim de Oropesa pe lângă malul stâncos al mării.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp", "coords": [0.08902, 40.056663]}, {"name": "Torre de Sant Vicent", "text": "Turn defensiv din secolul al XVI-lea, situat strategic pe plajă pentru a semnala atacurile piraților din vechime.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp", "coords": [0.069444, 40.047194]}, {"name": "Bodegas Carmelitano", "text": "Distilerie istorică celebră pentru producția lichiorului de cafea și a altor băuturi tradiționale preparate după rețete vechi.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp", "coords": [0.057155, 40.052272]}, {"name": "Playa de Voramar", "text": "Mărginită de vile istorice, Playa de Voramar din Benicassim oferă o porțiune de plajă exclusivistă și liniștită. Cel mai fin nisip de sub picioare vă invită la băi relaxante într-o atmosferă sofisticată. Pentru a vă bucura din plin de liniște, este recomandată o vizită la primele ore ale dimineții.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-playa-de-voramar.webp", "coords": [0.08456, 40.05658]}, {"name": "Centro de Interpretación La Bartola", "text": "Centru educațional dedicat conservării mediului înconjurător și prezentării biodiversității parcului Desert de les Palmes.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp", "coords": [0.099535, 40.05845]}, {"name": "Ermita de la Magdalena", "text": "Mică biserică situată pe un deal, fiind un loc de pelerinaj tradițional cu rădăcini în istoria fondării orașului.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp", "coords": [-0.005821, 40.034644]}, {"name": "Bassa la Magdalena", "text": "Un lac mic în Benicassim, ideal pentru o pauză în timpul unei plimbări.", "category": "natural", "coords": [-0.007625, 40.036252]}, {"name": "Plaça de les Corts Valencianes", "text": "Un loc de joacă modern în Benicassim, unde copiii se pot juca în siguranță.", "category": "family", "coords": [0.058972, 40.051623]}, {"name": "Parc Joan XXIII", "text": "Acest parc din Benicassim oferă o zonă frumoasă pentru joaca copiilor.", "category": "family", "coords": [0.055988, 40.05471]}, {"name": "Parc Públic Illot la Foradada", "text": "O zonă de joacă publică în Benicassim, ideală pentru familiile cu copii.", "category": "family", "coords": [0.045539, 40.039091]}, {"name": "Plaza de Mosén Oliver", "text": "Plaza de Mosén Oliver se prezintă ca un loc de joacă situat central în inima orașului însorit Benicassim. În timp ce agitația orașului trece pe alături, familiile găsesc aici locul perfect pentru o pauză relaxantă de joacă. Este o oprire ideală pentru a aduna energie nouă pentru noi tururi de explorare.", "category": "family", "coords": [0.063119, 40.055984]}, {"name": "Plaça del Trenet", "text": "Parc de trenulețe în miniatură în Benicàssim, oferind o experiență distractivă pentru pasionații de trenuri.", "category": "family", "coords": [0.072521, 40.053058]}, {"name": "Aquarama", "text": "Parc acvatic mare în Benicàssim cu numeroase tobogane pentru distracția familiei.", "category": "family", "coords": [0.052067, 40.046973]}, {"name": "Benilandia", "text": "Facilitate de recreere în Benicàssim cu piscine pentru tinerii vizitatori.", "category": "family", "coords": [0.058909, 40.04498]}], "en": [{"name": "Castillo de Montornés", "text": "The ruins of this medieval fortress offer sweeping views over the coast and the Desert de les Palmes natural park.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp", "coords": [0.029397, 40.062]}, {"name": "Iglesia de Santo Tomás de Villanueva", "text": "A Neoclassical church in the town center, significant for its architectural elegance and local religious history.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp", "coords": [0.064556, 40.05525]}, {"name": "Desert de les Palmes", "text": "A mountainous nature reserve home to ancient monasteries, diverse flora, and scenic viewpoints high above the sea.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp", "coords": [0.040833, 40.0839]}, {"name": "Via Verde del Mar", "text": "A scenic greenway built on a former railway track, running directly along the rocky coastline toward Oropesa.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp", "coords": [0.08902, 40.056663]}, {"name": "Torre de Sant Vicent", "text": "A well-preserved 16th-century watchtower on the beach that once defended the coast against Barbary pirates.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp", "coords": [0.069444, 40.047194]}, {"name": "Bodegas Carmelitano", "text": "A historic distillery founded by Carmelite monks, famous for its traditional herbal liqueur and guided tours.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp", "coords": [0.057155, 40.052272]}, {"name": "Playa de Voramar", "text": "Lined with historic villas, Playa de Voramar in Benicassim offers an exclusive and tranquil stretch of beach. The finest sand underfoot invites you to take relaxing dips in a sophisticated atmosphere. To fully enjoy the peace, a visit in the early morning hours is highly recommended.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/benicassim-playa-de-voramar.webp", "coords": [0.08456, 40.05658]}, {"name": "Centro de Interpretación La Bartola", "text": "An interpretation center in the natural park that explains the region's unique geology and ecological value.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp", "coords": [0.099535, 40.05845]}, {"name": "Ermita de la Magdalena", "text": "A hillside chapel near the town which is a site of traditional pilgrimage and offers beautiful surrounding views.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp", "coords": [-0.005821, 40.034644]}, {"name": "Bassa la Magdalena", "text": "A small lake in Benicassim, ideal for a break during a walk.", "category": "natural", "coords": [-0.007625, 40.036252]}, {"name": "Plaça de les Corts Valencianes", "text": "A modern playground in Benicassim where children can play safely.", "category": "family", "coords": [0.058972, 40.051623]}, {"name": "Parc Joan XXIII", "text": "This park in Benicassim offers a nice area for children to play.", "category": "family", "coords": [0.055988, 40.05471]}, {"name": "Parc Públic Illot la Foradada", "text": "A public play area in Benicassim, ideal for families with children.", "category": "family", "coords": [0.045539, 40.039091]}, {"name": "Plaza de Mosén Oliver", "text": "Plaza de Mosén Oliver presents itself as a centrally located playground in the heart of sunny Benicassim. While the hustle and bustle of the city passes by, families find the perfect spot here for a relaxing play break. It is an ideal stopover to gather fresh energy for further explorations.", "category": "family", "coords": [0.063119, 40.055984]}, {"name": "Plaça del Trenet", "text": "Miniature railway park in Benicàssim offering a fun experience for train enthusiasts.", "category": "family", "coords": [0.072521, 40.053058]}, {"name": "Aquarama", "text": "Large water park in Benicàssim with numerous slides for family fun.", "category": "family", "coords": [0.052067, 40.046973]}, {"name": "Benilandia", "text": "Recreational facility in Benicàssim with swimming pools for young visitors.", "category": "family", "coords": [0.058909, 40.04498]}]}},
+  {"id": "benicassim", "type": "city", "parent": "ES-VC", "coords": [0.0744, 40.0489], "population": 18000, "tier": 2, "name": {"de": "Benicàssim", "hu": "Benicàssim", "ro": "Benicàssim", "en": "Benicàssim"}, "description": {"de": "Benicàssim vereint wunderschöne Belle-Époque-Villen mit einem modernen Festival-Vibe und spektakulären Naturlandschaften.", "hu": "Benicàssim a modern zenei fesztiválok pezsgését ötvözi a Belle Époque villák eleganciájával és a környező hegyek vadregényes tájaival.", "ro": "Benicàssim îmbină eleganța vilelor Belle Époque cu vibe-ul festivalurilor moderne și peisaje naturale spectaculoase.", "en": "Benicàssim combines the elegance of Belle Époque villas with a modern festival vibe and spectacular natural landscapes."}, "facts": {"de": ["FIB Musikfestival Standort", "Ruta de las Villas (Belle Époque)", "Desert de les Palmes Naturpark", "6 km Sandstrände (Voramar etc.)", "Karmeliterkloster in den Bergen", "Vía Verde (Radweg am Meer)", "Aquarama Wasserpark", "Heilquelle Fuente del Desert"], "hu": ["FIB zenei fesztivál helyszíne", "Belle Époque villák útvonala", "Desert de les Palmes natúrpark", "6 km finomhomokos strand", "Karmelita kolostor a hegyekben", "Vía Verde partmenti kerékpárút", "Aquarama vízi élménypark", "Fuente del Desert gyógyforrás"], "ro": ["Locația festivalului de muzică FIB", "Ruta Vilelor (Belle Époque)", "Parcul Natural Desert de les Palmes", "6 km de plaje cu nisip fin", "Mănăstire carmelită în munți", "Vía Verde (pistă de biciclete)", "Parcul acvatic Aquarama", "Izvorul Fuente del Desert"], "en": ["Home to the FIB Music Festival", "Route of the Villas (Belle Époque)", "Desert de les Palmes Natural Park", "6 km of fine sandy beaches", "Carmelite monastery in the hills", "Vía Verde coastal cycling path", "Aquarama water park", "Fuente del Desert natural spring"]}, "image": "/poi-images/benicassim.webp", "imageHint": "Elegant historic villas along the Benicassim beachfront promenade", "descriptionAdvanced": {"de": "Benicàssim, an der Costa del Azahar gelegen, ist ein Ort von großer Vielseitigkeit. Die Stadt wurde im späten 19. und frühen 20. Jahrhundert als 'Biarritz von Valencia' bekannt, als reiche Familien prächtige Villen entlang des Strandes von Voramar errichteten. Diese Villen, heute als 'Ruta de las Villas' bekannt, verleihen der Stadt ein einzigartiges aristokratisches Flair. Im Kontrast dazu steht die moderne Bedeutung der Stadt als Austragungsort des Festival Internacional de Benicàssim (FIB), eines der wichtigsten Indie- und Alternative-Rock-Festivals in Europa. Hinter der Stadt erhebt sich der Naturpark Desert de les Palmes, ein Gebirgszug mit den Ruinen alter Klöster, der einen atemberaubenden Blick auf die Küste bietet. Die Vía Verde, ein Rad- und Wanderweg auf einer ehemaligen Bahnstrecke, verbindet Benicàssim mit Oropesa del Mar direkt entlang der Klippen.", "hu": "A Costa del Azahar partján fekvő Benicàssim rendkívül sokszínű hely. A várost a 19. század végén és a 20. század elején 'Valencia Biarritzeként' ismerték, amikor gazdag családok pompás villákat építettek a Voramar-strand mentén. Ezek a villák, amelyek ma a 'Villák Útvonala' néven ismertek, egyedülálló arisztokratikus hangulatot kölcsönöznek a városnak. Ezzel szemben áll a város modern jelentősége, mint a Benicàssim Nemzetközi Fesztivál (FIB) helyszíne, amely Európa egyik legfontosabb indie és alternatív rock fesztiválja. A város mögött magasodik a Desert de les Palmes natúrpark, egy hegylánc régi kolostorok romjaival, amely lélegzetelállító kilátást nyújt a tengerpartra. A Vía Verde, egy egykori vasútvonal helyén kialakított kerékpár- és gyalogút, közvetlenül a sziklák mentén köti össze Benicàssimet Oropesa del Marral.", "ro": "Situat pe Costa del Azahar, Benicàssim este un loc de o mare versatilitate. Orașul a devenit cunoscut sub numele de 'Biarritz-ul Valenciei' la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, când familiile bogate au construit vile splendide de-a lungul plajei Voramar. Aceste vile, cunoscute astăzi sub numele de 'Ruta Vilelor', conferă orașului un aer aristocratic unic. În contrast, se află importanța modernă a orașului ca gazdă a Festivalului Internațional de Benicàssim (FIB), unul dintre cele mai importante festivaluri de rock indie și alternativ din Europa. În spatele orașului se ridică Parcul Natural Desert de les Palmes, un lanț muntos cu ruinele unor mănăstiri vechi, care oferă o vedere uluitoare asupra coastei. Vía Verde, o pistă de biciclete și drumeție pe o fostă linie ferată, leagă Benicàssim de Oropesa del Mar direct de-a lungul stâncilor.", "en": "Situated on the Costa del Azahar, Benicàssim is a place of great versatility. The town became known as the 'Biarritz of Valencia' in the late 19th and early 20th centuries, when wealthy families built splendid villas along Voramar beach. These villas, now known as the 'Route of the Villas', give the town a unique aristocratic flair. In contrast stands the town's modern significance as the host of the Benicàssim International Festival (FIB), one of Europe's premier indie and alternative rock festivals. Rising behind the town is the Desert de les Palmes Natural Park, a mountain range featuring the ruins of ancient monasteries and breathtaking coastal views. The Vía Verde, a cycling and hiking path on a former railway line, connects Benicàssim to Oropesa del Mar directly along the cliffs."}, "factsAdvanced": {"de": ["Belle-Époque Villen (Ruta de las Villas)", "Gipfel El Bartolo (729 m Höhe)", "Desert de les Palmes (3.200 ha)", "Sitz der Destilerías Carmelitano", "Wachturm Torre de Sant Vicent", "FIB Festival seit 1995"], "hu": ["Belle-Époque villák a Voramar parton", "El Bartolo csúcs (729 m magasság)", "Desert de les Palmes (3200 ha terület)", "A Carmelitano likőrlepárló székhelye", "Torre de Sant Vicent őrtorony", "FIB fesztivál 1995 óta"], "ro": ["Vile Belle-Époque pe plaja Voramar", "Vârful El Bartolo (729 m înălțime)", "Desert de les Palmes (3.200 ha)", "Sediul Destilerías Carmelitano", "Turnul de veghe Sant Vicent", "Festivalul FIB din 1995"], "en": ["Belle-Époque villas on Voramar beach", "El Bartolo peak (729 m height)", "Desert de les Palmes (3,200 hectares)", "Home to the Carmelitano Distillery", "Sant Vicent watchtower (16th c.)", "FIB Festival established in 1995"]}, "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Montornés",
+                  "text": "Die Ruinen dieser mittelalterlichen Festung bieten einen weiten Blick über die Küste und das Naturschutzgebiet Desert de les Palmes.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp",
+                  "coords": [
+                        0.029397,
+                        40.062
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Tomás de Villanueva",
+                  "text": "Eine neoklassizistische Kirche im Stadtzentrum, die für ihre elegante Architektur und die religiöse Bedeutung bekannt ist.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp",
+                  "coords": [
+                        0.064556,
+                        40.05525
+                  ]
+            },
+            {
+                  "name": "Desert de les Palmes",
+                  "text": "Ein gebirgiges Naturreservat mit alten Klöstern, Wanderwegen und einer reichen Flora und Fauna hoch über der Stadt.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp",
+                  "coords": [
+                        0.040833,
+                        40.0839
+                  ]
+            },
+            {
+                  "name": "Via Verde del Mar",
+                  "text": "Ein malerischer Rad- und Wanderweg auf einer ehemaligen Eisenbahntrasse, der direkt am Meer entlang nach Oropesa führt.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp",
+                  "coords": [
+                        0.08902,
+                        40.056663
+                  ]
+            },
+            {
+                  "name": "Torre de Sant Vicent",
+                  "text": "Ein gut erhaltener Wehrturm aus dem 16. Jahrhundert am Strand, der früher zur Verteidigung gegen Berberpiraten diente.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp",
+                  "coords": [
+                        0.069444,
+                        40.047194
+                  ]
+            },
+            {
+                  "name": "Bodegas Carmelitano",
+                  "text": "Eine historische Destillerie der Karmelitermönche, die für ihren traditionellen Likör und ihre Führungen berühmt ist.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp",
+                  "coords": [
+                        0.057155,
+                        40.052272
+                  ]
+            },
+            {
+                  "name": "Playa de Voramar",
+                  "text": "Gesäumt von historischen Villen bietet die Playa de Voramar in Benicassim einen exklusiven und ruhigen Strandabschnitt. Der feinste Sand unter den Füßen lädt zu entspannten Badegängen in einer mondänen Atmosphäre ein. Um die Ruhe voll auszukosten, empfiehlt sich ein Besuch in den frühen Morgenstunden.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-playa-de-voramar.webp",
+                  "coords": [
+                        0.08456,
+                        40.05658
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación La Bartola",
+                  "text": "Ein Informationszentrum im Naturpark, das die geologischen und ökologischen Besonderheiten der Region anschaulich erklärt.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp",
+                  "coords": [
+                        0.099535,
+                        40.05845
+                  ]
+            },
+            {
+                  "name": "Ermita de la Magdalena",
+                  "text": "Eine kleine Kapelle auf einem Hügel, die Ziel einer traditionellen Wallfahrt ist und einen schönen Ausblick bietet.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp",
+                  "coords": [
+                        -0.005821,
+                        40.034644
+                  ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "Ein kleiner See in Benicassim, ideal für eine Pause während eines Spaziergangs.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "Ein moderner Spielplatz in Benicassim, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "Dieser Park in Benicassim bietet einen schönen Bereich für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "Ein öffentlicher Spielbereich in Benicassim, ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "Die Plaza de Mosén Oliver präsentiert sich als zentral gelegener Spielplatz inmitten des sonnigen Benicassim. Während das Treiben der Stadt vorbeizieht, finden Familien hier den perfekten Ort für eine entspannte Spielpause. Es ist ein idealer Zwischenstopp, um neue Energie für weitere Entdeckungstouren zu sammeln.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
+                  ]
+            },
+            {
+                  "name": "Plaça del Trenet",
+                  "text": "Miniatureisenbahnpark in Benicàssim, der ein unterhaltsames Erlebnis für Eisenbahnfreunde bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.072521,
+                        40.053058
+                  ]
+            },
+            {
+                  "name": "Aquarama",
+                  "text": "Großer Wasserpark in Benicàssim mit zahlreichen Rutschen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        0.052067,
+                        40.046973
+                  ]
+            },
+            {
+                  "name": "Benilandia",
+                  "text": "Freizeitanlage in Benicàssim mit Schwimmbecken für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        0.058909,
+                        40.04498
+                  ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "Ein ruhiger Strandabschnitt in Benicàssim, der zum Entspannen am Mittelmeer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        0.091433,
+                        40.056463
+                  ]
+            },
+            {
+                  "name": "Platja de l'Almadrava",
+                  "text": "Ein beliebter Sandstrand in Benicàssim, der für seine gute Wasserqualität bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        0.076888,
+                        40.052322
+                  ]
+            },
+            {
+                  "name": "Playa nudista de Bellver",
+                  "text": "Ein abgelegener FKK-Strand in Benicàssim, der Privatsphäre in natürlicher Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        0.100519,
+                        40.056641
+                  ]
+            },
+            {
+                  "name": "Platja dels Terrers",
+                  "text": "Ein charmanter Strand in Benicàssim mit einer Segelschule und moderner Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        0.06007,
+                        40.041966
+                  ]
+            },
+            {
+                  "name": "Platja Torre de Sant Vicent",
+                  "text": "Ein markanter Strand in Benicàssim, benannt nach dem historischen Wachturm aus dem 16. Jahrhundert.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071562,
+                        40.048255
+                  ]
+            },
+            {
+                  "name": "Platja Voramar",
+                  "text": "Ein malerischer Strand in Benicàssim, bekannt für die historischen Villen aus dem 19. Jahrhundert an der Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        0.083138,
+                        40.056079
+                  ]
+            },
+            {
+                  "name": "Platja Heliópolis",
+                  "text": "Ein weitläufiger Stadtstrand in Benicàssim, der für seine Länge und vielfältigen Freizeitmöglichkeiten geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        0.04449,
+                        40.026052
+                  ]
+            },
+            {
+                  "name": "Platja de Bellver",
+                  "text": "Ein einladender Küstenabschnitt in Benicàssim mit feinem Sand und klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096048,
+                        40.056538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Montornés",
+                  "text": "A középkori erőd romjai a hegytetőn találhatók, ahonnan csodálatos panoráma nyílik a tengerpartra és a nemzeti parkra.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp",
+                  "coords": [
+                        0.029397,
+                        40.062
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Tomás de Villanueva",
+                  "text": "Neoklasszicista stílusú templom a város központjában, amely elegáns homlokzatáról és kulturális jelentőségéről ismert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp",
+                  "coords": [
+                        0.064556,
+                        40.05525
+                  ]
+            },
+            {
+                  "name": "Desert de les Palmes",
+                  "text": "Hegyes természetvédelmi terület régi kolostorokkal, túraútvonalakkal és gazdag mediterrán növényvilággal a város felett.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp",
+                  "coords": [
+                        0.040833,
+                        40.0839
+                  ]
+            },
+            {
+                  "name": "Via Verde del Mar",
+                  "text": "Egykori vasútvonal helyén kialakított festői kerékpáros és gyalogos út, amely közvetlenül a sziklás tengerpart mentén halad.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp",
+                  "coords": [
+                        0.08902,
+                        40.056663
+                  ]
+            },
+            {
+                  "name": "Torre de Sant Vicent",
+                  "text": "16. századi kiváló állapotú bástya a strand mentén, amely egykor a berber kalózok elleni védelmet szolgálta.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp",
+                  "coords": [
+                        0.069444,
+                        40.047194
+                  ]
+            },
+            {
+                  "name": "Bodegas Carmelitano",
+                  "text": "A karmelita szerzetesek által alapított történelmi lepárló, ahol ma is tradicionális likőröket készítenek.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp",
+                  "coords": [
+                        0.057155,
+                        40.052272
+                  ]
+            },
+            {
+                  "name": "Playa de Voramar",
+                  "text": "A történelmi villákkal szegélyezett benicassimi Playa de Voramar exkluzív és csendes partszakaszt kínál. A talpunk alatti legfinomabb homok pihentető fürdőzésre invitál egy elegáns atmoszférában. A nyugalom teljes kiélvezése érdekében érdemes a kora reggeli órákban ellátogatni ide.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-playa-de-voramar.webp",
+                  "coords": [
+                        0.08456,
+                        40.05658
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación La Bartola",
+                  "text": "Látogatóközpont a natúrparkban, amely interaktív módon mutatja be a környék élővilágát és geológiáját.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp",
+                  "coords": [
+                        0.099535,
+                        40.05845
+                  ]
+            },
+            {
+                  "name": "Ermita de la Magdalena",
+                  "text": "Dombi kápolna a város közelében, amely egy középkori vár helyén épült és fontos helyi zarándokhely.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp",
+                  "coords": [
+                        -0.005821,
+                        40.034644
+                  ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "Egy kis tó Benicassim városában, ideális egy pihenőre séta közben.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "Egy modern játszótér Benicassim városában, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "Ez a Benicassim-i park szép területet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "Egy nyilvános játszóterület Benicassim városában, ideális gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "A Plaza de Mosén Oliver egy központi fekvésű játszótérként jelenik meg a napfényes Benicassim szívében. Miközben a város nyüzsgése elhalad mellettük, a családok itt találják meg a tökéletes helyet egy pihentető játékos szünetre. Ideális megálló, hogy új energiát gyűjtsünk a további felfedezőutakhoz.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
+                  ]
+            },
+            {
+                  "name": "Plaça del Trenet",
+                  "text": "Miniatűr vasútpark Benicàssimban, amely szórakoztató élményt nyújt a vasútbarátoknak.",
+                  "category": "family",
+                  "coords": [
+                        0.072521,
+                        40.053058
+                  ]
+            },
+            {
+                  "name": "Aquarama",
+                  "text": "Nagy vízi vidámpark Benicàssimban számos csúszdával a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        0.052067,
+                        40.046973
+                  ]
+            },
+            {
+                  "name": "Benilandia",
+                  "text": "Szórakoztató létesítmény Benicàssimban úszómedencékkel a fiatal látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        0.058909,
+                        40.04498
+                  ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "Nyugodt tengerparti szakasz Benicàssimban, amely kellemes kikapcsolódást nyújt a Földközi-tengernél.",
+                  "category": "recreational",
+                  "coords": [
+                        0.091433,
+                        40.056463
+                  ]
+            },
+            {
+                  "name": "Platja de l'Almadrava",
+                  "text": "Népszerű homokos tengerpart Benicàssimban, amely kiváló vízminőségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        0.076888,
+                        40.052322
+                  ]
+            },
+            {
+                  "name": "Playa nudista de Bellver",
+                  "text": "Elszigetelt nudista strand Benicàssimban, amely privát szférát kínál természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        0.100519,
+                        40.056641
+                  ]
+            },
+            {
+                  "name": "Platja dels Terrers",
+                  "text": "Bájos tengerpart Benicàssimban vitorlásiskolával és modern infrastruktúrával.",
+                  "category": "recreational",
+                  "coords": [
+                        0.06007,
+                        40.041966
+                  ]
+            },
+            {
+                  "name": "Platja Torre de Sant Vicent",
+                  "text": "Jellegzetes tengerpart Benicàssimban, amely a közeli 16. századi őrtoronyról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071562,
+                        40.048255
+                  ]
+            },
+            {
+                  "name": "Platja Voramar",
+                  "text": "Gleccseres tengerpart Benicàssimban, amely a sétány mentén található 19. századi történelmi villáiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        0.083138,
+                        40.056079
+                  ]
+            },
+            {
+                  "name": "Platja Heliópolis",
+                  "text": "Hosszú városi strand Benicàssimban, amely mérete és változatos szabadidős lehetőségei miatt kedvelt.",
+                  "category": "recreational",
+                  "coords": [
+                        0.04449,
+                        40.026052
+                  ]
+            },
+            {
+                  "name": "Platja de Bellver",
+                  "text": "Vonzó tengerparti szakasz Benicàssimban finom homokkal és tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096048,
+                        40.056538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Montornés",
+                  "text": "Ruinele unei fortărețe medievale de origine arabă, situate pe o culme cu vedere panoramică asupra coastei.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp",
+                  "coords": [
+                        0.029397,
+                        40.062
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Tomás de Villanueva",
+                  "text": "Biserică neoclasică situată în centrul orașului, fiind principalul lăcaș de cult și un reper arhitectural local.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp",
+                  "coords": [
+                        0.064556,
+                        40.05525
+                  ]
+            },
+            {
+                  "name": "Desert de les Palmes",
+                  "text": "Parc natural montan ce adăpostește vechi mănăstiri carmelite și oferă numeroase trasee pentru iubitorii de natură.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp",
+                  "coords": [
+                        0.040833,
+                        40.0839
+                  ]
+            },
+            {
+                  "name": "Via Verde del Mar",
+                  "text": "Traseu ecologic amenajat pe o fostă cale ferată, legând Benicàssim de Oropesa pe lângă malul stâncos al mării.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp",
+                  "coords": [
+                        0.08902,
+                        40.056663
+                  ]
+            },
+            {
+                  "name": "Torre de Sant Vicent",
+                  "text": "Turn defensiv din secolul al XVI-lea, situat strategic pe plajă pentru a semnala atacurile piraților din vechime.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp",
+                  "coords": [
+                        0.069444,
+                        40.047194
+                  ]
+            },
+            {
+                  "name": "Bodegas Carmelitano",
+                  "text": "Distilerie istorică celebră pentru producția lichiorului de cafea și a altor băuturi tradiționale preparate după rețete vechi.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp",
+                  "coords": [
+                        0.057155,
+                        40.052272
+                  ]
+            },
+            {
+                  "name": "Playa de Voramar",
+                  "text": "Mărginită de vile istorice, Playa de Voramar din Benicassim oferă o porțiune de plajă exclusivistă și liniștită. Cel mai fin nisip de sub picioare vă invită la băi relaxante într-o atmosferă sofisticată. Pentru a vă bucura din plin de liniște, este recomandată o vizită la primele ore ale dimineții.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-playa-de-voramar.webp",
+                  "coords": [
+                        0.08456,
+                        40.05658
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación La Bartola",
+                  "text": "Centru educațional dedicat conservării mediului înconjurător și prezentării biodiversității parcului Desert de les Palmes.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp",
+                  "coords": [
+                        0.099535,
+                        40.05845
+                  ]
+            },
+            {
+                  "name": "Ermita de la Magdalena",
+                  "text": "Mică biserică situată pe un deal, fiind un loc de pelerinaj tradițional cu rădăcini în istoria fondării orașului.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp",
+                  "coords": [
+                        -0.005821,
+                        40.034644
+                  ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "Un lac mic în Benicassim, ideal pentru o pauză în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "Un loc de joacă modern în Benicassim, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "Acest parc din Benicassim oferă o zonă frumoasă pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "O zonă de joacă publică în Benicassim, ideală pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "Plaza de Mosén Oliver se prezintă ca un loc de joacă situat central în inima orașului însorit Benicassim. În timp ce agitația orașului trece pe alături, familiile găsesc aici locul perfect pentru o pauză relaxantă de joacă. Este o oprire ideală pentru a aduna energie nouă pentru noi tururi de explorare.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
+                  ]
+            },
+            {
+                  "name": "Plaça del Trenet",
+                  "text": "Parc de trenulețe în miniatură în Benicàssim, oferind o experiență distractivă pentru pasionații de trenuri.",
+                  "category": "family",
+                  "coords": [
+                        0.072521,
+                        40.053058
+                  ]
+            },
+            {
+                  "name": "Aquarama",
+                  "text": "Parc acvatic mare în Benicàssim cu numeroase tobogane pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        0.052067,
+                        40.046973
+                  ]
+            },
+            {
+                  "name": "Benilandia",
+                  "text": "Facilitate de recreere în Benicàssim cu piscine pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        0.058909,
+                        40.04498
+                  ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "O porțiune de plajă liniștită în Benicàssim, ideală pentru relaxare la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        0.091433,
+                        40.056463
+                  ]
+            },
+            {
+                  "name": "Platja de l'Almadrava",
+                  "text": "O plajă cu nisip populară în Benicàssim, cunoscută pentru calitatea bună a apei.",
+                  "category": "recreational",
+                  "coords": [
+                        0.076888,
+                        40.052322
+                  ]
+            },
+            {
+                  "name": "Playa nudista de Bellver",
+                  "text": "O plajă de nudiști retrasă în Benicàssim, oferind intimitate într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        0.100519,
+                        40.056641
+                  ]
+            },
+            {
+                  "name": "Platja dels Terrers",
+                  "text": "O plajă fermecătoare în Benicàssim, dotată cu o școală de navigație și infrastructură modernă.",
+                  "category": "recreational",
+                  "coords": [
+                        0.06007,
+                        40.041966
+                  ]
+            },
+            {
+                  "name": "Platja Torre de Sant Vicent",
+                  "text": "O plajă emblematică în Benicàssim, numită după turnul de veghe istoric din secolul al XVI-lea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071562,
+                        40.048255
+                  ]
+            },
+            {
+                  "name": "Platja Voramar",
+                  "text": "O plajă pitorească în Benicàssim, celebră pentru vilele istorice din secolul al XIX-lea de-a lungul promenadei.",
+                  "category": "recreational",
+                  "coords": [
+                        0.083138,
+                        40.056079
+                  ]
+            },
+            {
+                  "name": "Platja Heliópolis",
+                  "text": "O plajă urbană extinsă în Benicàssim, apreciată pentru lungimea sa și diversele facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        0.04449,
+                        40.026052
+                  ]
+            },
+            {
+                  "name": "Platja de Bellver",
+                  "text": "O porțiune de coastă primitoare în Benicàssim, cu nisip fin și ape limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096048,
+                        40.056538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Montornés",
+                  "text": "The ruins of this medieval fortress offer sweeping views over the coast and the Desert de les Palmes natural park.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-castillo-de-montorn-s.webp",
+                  "coords": [
+                        0.029397,
+                        40.062
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Tomás de Villanueva",
+                  "text": "A Neoclassical church in the town center, significant for its architectural elegance and local religious history.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-iglesia-de-santo-tom-s-de-villanueva.webp",
+                  "coords": [
+                        0.064556,
+                        40.05525
+                  ]
+            },
+            {
+                  "name": "Desert de les Palmes",
+                  "text": "A mountainous nature reserve home to ancient monasteries, diverse flora, and scenic viewpoints high above the sea.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-desert-de-les-palmes.webp",
+                  "coords": [
+                        0.040833,
+                        40.0839
+                  ]
+            },
+            {
+                  "name": "Via Verde del Mar",
+                  "text": "A scenic greenway built on a former railway track, running directly along the rocky coastline toward Oropesa.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-via-verde-del-mar.webp",
+                  "coords": [
+                        0.08902,
+                        40.056663
+                  ]
+            },
+            {
+                  "name": "Torre de Sant Vicent",
+                  "text": "A well-preserved 16th-century watchtower on the beach that once defended the coast against Barbary pirates.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-torre-de-sant-vicent.webp",
+                  "coords": [
+                        0.069444,
+                        40.047194
+                  ]
+            },
+            {
+                  "name": "Bodegas Carmelitano",
+                  "text": "A historic distillery founded by Carmelite monks, famous for its traditional herbal liqueur and guided tours.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-bodegas-carmelitano.webp",
+                  "coords": [
+                        0.057155,
+                        40.052272
+                  ]
+            },
+            {
+                  "name": "Playa de Voramar",
+                  "text": "Lined with historic villas, Playa de Voramar in Benicassim offers an exclusive and tranquil stretch of beach. The finest sand underfoot invites you to take relaxing dips in a sophisticated atmosphere. To fully enjoy the peace, a visit in the early morning hours is highly recommended.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-playa-de-voramar.webp",
+                  "coords": [
+                        0.08456,
+                        40.05658
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación La Bartola",
+                  "text": "An interpretation center in the natural park that explains the region's unique geology and ecological value.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-centro-de-interpretaci-n-la-bartola.webp",
+                  "coords": [
+                        0.099535,
+                        40.05845
+                  ]
+            },
+            {
+                  "name": "Ermita de la Magdalena",
+                  "text": "A hillside chapel near the town which is a site of traditional pilgrimage and offers beautiful surrounding views.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/benicassim-ermita-de-la-magdalena.webp",
+                  "coords": [
+                        -0.005821,
+                        40.034644
+                  ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "A small lake in Benicassim, ideal for a break during a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "A modern playground in Benicassim where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "This park in Benicassim offers a nice area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "A public play area in Benicassim, ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "Plaza de Mosén Oliver presents itself as a centrally located playground in the heart of sunny Benicassim. While the hustle and bustle of the city passes by, families find the perfect spot here for a relaxing play break. It is an ideal stopover to gather fresh energy for further explorations.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
+                  ]
+            },
+            {
+                  "name": "Plaça del Trenet",
+                  "text": "Miniature railway park in Benicàssim offering a fun experience for train enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        0.072521,
+                        40.053058
+                  ]
+            },
+            {
+                  "name": "Aquarama",
+                  "text": "Large water park in Benicàssim with numerous slides for family fun.",
+                  "category": "family",
+                  "coords": [
+                        0.052067,
+                        40.046973
+                  ]
+            },
+            {
+                  "name": "Benilandia",
+                  "text": "Recreational facility in Benicàssim with swimming pools for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        0.058909,
+                        40.04498
+                  ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "A tranquil beach area in Benicàssim, offering a relaxing environment by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.091433,
+                        40.056463
+                  ]
+            },
+            {
+                  "name": "Platja de l'Almadrava",
+                  "text": "A popular sandy beach in Benicàssim, known for its high water quality and services.",
+                  "category": "recreational",
+                  "coords": [
+                        0.076888,
+                        40.052322
+                  ]
+            },
+            {
+                  "name": "Playa nudista de Bellver",
+                  "text": "A secluded nudist beach in Benicàssim, providing privacy in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        0.100519,
+                        40.056641
+                  ]
+            },
+            {
+                  "name": "Platja dels Terrers",
+                  "text": "A charming beach in Benicàssim featuring a sailing school and modern facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        0.06007,
+                        40.041966
+                  ]
+            },
+            {
+                  "name": "Platja Torre de Sant Vicent",
+                  "text": "A prominent beach in Benicàssim, named after the historic 16th-century watchtower nearby.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071562,
+                        40.048255
+                  ]
+            },
+            {
+                  "name": "Platja Voramar",
+                  "text": "A picturesque beach in Benicàssim, famous for the historic 19th-century villas along its promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        0.083138,
+                        40.056079
+                  ]
+            },
+            {
+                  "name": "Platja Heliópolis",
+                  "text": "An extensive urban beach in Benicàssim, popular for its length and variety of leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        0.04449,
+                        40.026052
+                  ]
+            },
+            {
+                  "name": "Platja de Bellver",
+                  "text": "An inviting coastal stretch in Benicàssim with fine sand and clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096048,
+                        40.056538
+                  ]
+            }
+      ]
+}},
   {"id": "blanes", "type": "city", "parent": "ES-CT", "coords": [2.7906, 41.674], "population": 38500, "tier": 2, "name": {"de": "Blanes", "hu": "Blanes", "ro": "Blanes", "en": "Blanes"}, "description": {"de": "Blanes ist als das Tor zur Costa Brava bekannt und begeistert mit zwei der spektakulärsten botanischen Gärten Europas sowie einem riesigen Sandstrand.", "hu": "Blanes a Costa Brava kapujaként ismert város, amely Európa két leglátványosabb botanikus kertjével és hatalmas homokos strandjaival várja az utazókat.", "ro": "Blanes este cunoscut drept poarta de intrare către Costa Brava, impresionând cu două dintre cele mai spectaculoase grădini botanice din Europa.", "en": "Blanes is famously known as the Gateway to the Costa Brava, boasting two of Europe's most spectacular botanical gardens and a vast sandy coastline."}, "facts": {"de": ["Tor zur Costa Brava", "Botanischer Garten Marimurtra", "Garten Pinya de Rosa", "Internationaler Feuerwerkswettbewerb", "Burg Sant Joan auf dem Hügel", "Großer Sandstrand S'Abanell", "Historisches Stadtzentrum", "Fischmarkt am Nachmittag"], "hu": ["A Costa Brava kapuja", "Marimurtra Botanikus Kert", "Pinya de Rosa kaktuszkert", "Nemzetközi tűzijátékverseny júliusban", "Sant Joan vár a dombtetőn", "S'Abanell hosszú homokos strand", "Történelmi gótikus épületek", "Napi halárverés a kikötőben"], "ro": ["Poarta către Costa Brava", "Grădina Botanică Marimurtra", "Grădina de cactuși Pinya de Rosa", "Concurs internațional de focuri de artificii", "Castelul Sant Joan pe deal", "Plaja lungă cu nisip S'Abanell", "Centru istoric cu clădiri gotice", "Piață de pește zilnică în port"], "en": ["Gateway to the Costa Brava", "Marimurtra Botanical Garden", "Pinya de Rosa cactus garden", "International fireworks competition", "Sant Joan Castle viewpoint", "S'Abanell long sandy beach", "Historic Gothic architecture", "Daily fish auction in the port"]}, "image": "/poi-images/blanes.webp", "imageHint": "Panoramic view of Blanes beach with the Sa Palomera rock in the sea", "descriptionAdvanced": {"de": "Als das südliche Tor zur Costa Brava markiert Blanes den Beginn der zerklüfteten, malerischen Küste Kataloniens. Die Stadt wird durch den markanten Felsen Sa Palomera in zwei Hälften geteilt, der als offizieller Startpunkt der Costa Brava gilt. Im Gegensatz zu einigen lebhafteren Nachbarorten hat sich Blanes eine entspannte, familienfreundliche Atmosphäre bewahrt, die stark mit ihren maritimen Wurzeln verbunden ist. Jeden Nachmittag kann man am Fischereihafen die Rückkehr der Flotte beobachten und auf der Auktion den frischesten Fang des Tages bewundern. Die Hauptattraktion ist zweifellos der Botanische Garten Marimurtra, der majestätisch auf den Klippen thront und Tausende von exotischen Pflanzenarten mit einem atemberaubenden Blick über das Mittelmeer verbindet. Im Juli verwandelt sich der Himmel über der Bucht während des internationalen Feuerwerkswettbewerbs, einem der wichtigsten an der gesamten spanischen Küste, in ein spektakuläres Lichtermeer. Abgesehen von den feinen Sandstränden wie S'Abanell lockt die charmante Altstadt mit gotischen Brunnen, traditionellen Bodegas und der Burg Sant Joan, von der aus man einen Panoramablick über die gesamte Küstenlinie genießt.", "hu": "A Costa Brava déli kapujaként ismert Blanes jelzi a vad és sziklás katalán partszakasz hivatalos kezdetét, amelyet a tengerbe nyúló Sa Palomera szikla szimbolizál. Az északabbra fekvő, nyüzsgő üdülővárosokkal ellentétben Blanes megőrizte nyugodt, családias hangulatát és erős tengerészeti hagyományait. A halászkikötőben minden délután megfigyelhető a hajók érkezése és a friss fogás kipakolása, ami egyenesen a helyi éttermek konyháiba kerül. A város legfőbb büszkesége a tengerparti sziklákon elterülő Marimurtra Botanikus Kert, amely Európa egyik legszebb trópusi növénygyűjteménye, lenyűgöző panorámát nyújtva a tengerre és az eldugott kis öblökre. A nyári szezon csúcspontja a júliusi nemzetközi tűzijáték-verseny, amely több százezer látogatót vonz, és mágikus fényekkel árasztja el az éjszakai eget. A hosszú, homokos strandok, mint a S'Abanell, tökéletesek a kikapcsolódásra, míg az óváros szűk utcái gótikus kutakat, hagyományos üzleteket és történelmi épületeket rejtenek. Érdemes felsétálni a Sant Joan vár romjaihoz is, ahonnan tiszta időben egészen a barcelonai partokig el lehet látni, tökéletes lezárást adva a napnak.", "ro": "Cunoscută ca poarta de sud a celebrei Costa Brava, Blanes marchează începutul coastei stâncoase și spectaculoase a Cataloniei, delimitată simbolic de stânca Sa Palomera. Spre deosebire de stațiunile mai agitate din apropiere, orașul și-a păstrat o atmosferă relaxată, ideală pentru familii, menținând în același timp o legătură strânsă cu tradițiile sale maritime. În fiecare după-amiază, portul prinde viață odată cu întoarcerea vaselor de pescuit, oferind vizitatorilor șansa de a vedea capturile proaspete care ajung direct în restaurantele locale. Atracția principală a orașului este spectaculosul Grădina Botanică Marimurtra, așezată pe stâncile abrupte, care combină mii de specii de plante exotice cu panorame uluitoare asupra Mării Mediterane și a golfurilor ascunse. În luna iulie, cerul nopții este iluminat de unul dintre cele mai importante concursuri internaționale de artificii din Europa, atrăgând mulțimi uriașe pe plajele întinse precum S'Abanell. Centrul vechi este plin de farmec istoric, ascunzând fântâni gotice și străduțe înguste, în timp ce o drumeție până la castelul Sant Joan răsplătește efortul cu cele mai bune priveliști asupra întregii regiuni de coastă.", "en": "Regarded as the official southern gateway to the Costa Brava, Blanes marks the beginning of Catalonia's rugged and picturesque coastline, symbolized by the prominent Sa Palomera rock extending into the sea. Unlike some of its more boisterous neighbors, Blanes has carefully preserved a relaxed, family-friendly atmosphere that remains deeply rooted in its maritime traditions. The working fishing port is a hub of daily activity, where visitors can watch the fleet return each afternoon and deliver fresh seafood directly to the town's renowned restaurants. The undisputed highlight of Blanes is the magnificent Marimurtra Botanical Garden, perched high on the cliffs and boasting thousands of exotic plant species alongside breathtaking panoramic views of the Mediterranean. Every July, the town hosts one of Europe's most prestigious international fireworks competitions, turning the night sky into a dazzling spectacle of color. Beyond the long sandy stretches of S'Abanell beach, the charming old town invites exploration with its Gothic fountains, traditional bodegas, and the historic Sant Joan castle ruins, offering sweeping vistas of the entire coastal landscape."}, "factsAdvanced": {"de": ["Sa Palomera markiert die Grenze zwischen Maresme und Costa Brava", "Marimurtra wurde 1924 vom Deutschen Karl Faust gegründet", "Die Burg Sant Joan stammt aus der Mitte des 13. Jahrhunderts", "Der S'Abanell Strand ist über 2 Kilometer lang", "Der Feuerwerkswettbewerb existiert bereits seit 1970", "Die Stadt hat eine reiche Tradition im Schiffbau"], "hu": ["Sa Palomera sziklája választja el a Maresme és a Costa Brava partot", "A Marimurtra kertet 1924-ben alapította a német Karl Faust", "A Sant Joan vár építése a 13. század közepére tehető", "S'Abanell strandja több mint 2 kilométer hosszan nyúlik el", "A nemzetközi tűzijátékversenyt 1970 óta rendezik meg", "A város jelentős hajóépítési múltra tekint vissza"], "ro": ["Stânca Sa Palomera marchează granița dintre Maresme și Costa Brava", "Marimurtra a fost fondată în 1924 de germanul Karl Faust", "Castelul Sant Joan datează de la mijlocul secolului al XIII-lea", "Plaja S'Abanell are o lungime de peste 2 kilometri", "Concursul de focuri de artificii se desfășoară din 1970", "Orașul are o tradiție bogată în construcția de nave"], "en": ["The Sa Palomera rock marks the border between Maresme and Costa Brava", "Marimurtra was founded in 1924 by the German Karl Faust", "Sant Joan Castle dates back to the mid-13th century", "S'Abanell beach is over 2 kilometers long", "The fireworks competition has been held since 1970", "The city has a long-standing tradition in shipbuilding"]}, "sights": {
       "de": [
             {
@@ -12035,6 +14564,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.793722,
                         41.673667
+                  ]
+            },
+            {
+                  "name": "sa Forcanera",
+                  "text": "sa Forcanera ist ein kleiner Strandabschnitt in der Gemeinde Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802907,
+                        41.675692
+                  ]
+            },
+            {
+                  "name": "s'Agulla",
+                  "text": "s'Agulla ist ein malerischer Küstenabschnitt am Stadtrand von Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814458,
+                        41.682604
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "Ein familienfreundlicher Freizeitpark mit dem Thema Zwerge in Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
                   ]
             }
       ],
@@ -12196,6 +14752,33 @@ export const poiExtraEsV2: POI[] = [
                         2.793722,
                         41.673667
                   ]
+            },
+            {
+                  "name": "sa Forcanera",
+                  "text": "A sa Forcanera egy kis tengerparti szakasz Blanes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802907,
+                        41.675692
+                  ]
+            },
+            {
+                  "name": "s'Agulla",
+                  "text": "A s'Agulla egy festői tengerparti szakasz Blanes külvárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814458,
+                        41.682604
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "Családbarát vidámpark törpe-tematikával Blanes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
+                  ]
             }
       ],
       "ro": [
@@ -12356,6 +14939,33 @@ export const poiExtraEsV2: POI[] = [
                         2.793722,
                         41.673667
                   ]
+            },
+            {
+                  "name": "sa Forcanera",
+                  "text": "sa Forcanera este o porțiune mică de plajă din localitatea Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802907,
+                        41.675692
+                  ]
+            },
+            {
+                  "name": "s'Agulla",
+                  "text": "s'Agulla este o porțiune pitorească de coastă de la periferia localității Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814458,
+                        41.682604
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "Un parc de distracții pentru familii cu tematică de gnomi în Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
+                  ]
             }
       ],
       "en": [
@@ -12515,6 +15125,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.793722,
                         41.673667
+                  ]
+            },
+            {
+                  "name": "sa Forcanera",
+                  "text": "sa Forcanera is a small beach section in the municipality of Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802907,
+                        41.675692
+                  ]
+            },
+            {
+                  "name": "s'Agulla",
+                  "text": "s'Agulla is a picturesque coastal stretch on the outskirts of Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814458,
+                        41.682604
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "A family-friendly theme park with a gnome theme in Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
                   ]
             }
       ]
@@ -13092,6 +15729,285 @@ export const poiExtraEsV2: POI[] = [
                         3.284,
                         42.2921
                   ]
+            },
+            {
+                  "name": "Platja d'en Talla Dofins",
+                  "text": "Platja d'en Talla Dofins ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289703,
+                        42.302125
+                  ]
+            },
+            {
+                  "name": "Cala Torta",
+                  "text": "Cala Torta ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.301466,
+                        42.310202
+                  ]
+            },
+            {
+                  "name": "Platja Guillola",
+                  "text": "Platja Guillola ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294642,
+                        42.307122
+                  ]
+            },
+            {
+                  "name": "Platja de ses Ielles",
+                  "text": "Platja de ses Ielles ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.307487,
+                        42.314122
+                  ]
+            },
+            {
+                  "name": "Platja de Ribes Altes",
+                  "text": "Platja de Ribes Altes ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.303526,
+                        42.311652
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Lluís",
+                  "text": "Platja de Sant Lluís ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.290757,
+                        42.307383
+                  ]
+            },
+            {
+                  "name": "Platja Port d'Alguer",
+                  "text": "Platja Port d'Alguer ist eine malerische Bucht in einer idyllischen Lage in Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276199,
+                        42.287283
+                  ]
+            },
+            {
+                  "name": "es Llaner Petit",
+                  "text": "es Llaner Petit ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276042,
+                        42.283224
+                  ]
+            },
+            {
+                  "name": "es Llaner Gros",
+                  "text": "es Llaner Gros ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.275475,
+                        42.284385
+                  ]
+            },
+            {
+                  "name": "Platja d'en Noues",
+                  "text": "Platja d'en Noues ist eine malerische Bucht in Cadaqués an der wilden Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28928,
+                        42.306945
+                  ]
+            },
+            {
+                  "name": "Platja des Jonquet",
+                  "text": "Platja des Jonquet ist ein malerischer Kieselstrand in der Küstenstadt Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28656,
+                        42.303656
+                  ]
+            },
+            {
+                  "name": "Platja des Pianc",
+                  "text": "Platja des Pianc ist ein charmanter, zentrumsnaher Strand mit Blick auf die Altstadt von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.281723,
+                        42.287662
+                  ]
+            },
+            {
+                  "name": "Platja de sa Figuera",
+                  "text": "Platja de sa Figuera ist ein kleiner, ruhiger Strandabschnitt in der felsigen Bucht von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278791,
+                        42.254964
+                  ]
+            },
+            {
+                  "name": "Platja de sa Sabolla",
+                  "text": "Platja de sa Sabolla ist ein naturbelassener Strand, der über einen Wanderweg von Cadaqués aus erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.282763,
+                        42.270182
+                  ]
+            },
+            {
+                  "name": "Platja des Poal",
+                  "text": "Platja des Poal ist ein kleiner Kieselstrand direkt im historischen Zentrum von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.280832,
+                        42.288663
+                  ]
+            },
+            {
+                  "name": "Platja de ses Oliveres",
+                  "text": "Platja de ses Oliveres ist ein Küstenabschnitt in Cadaqués, der für seine Fischerboote und das klare Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.285551,
+                        42.285838
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ros",
+                  "text": "Platja d'en Ros bietet einen Panoramablick auf die weiße Silhouette von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.287646,
+                        42.284381
+                  ]
+            },
+            {
+                  "name": "Platja des Sortell",
+                  "text": "Platja des Sortell ist ein felsiger Strandabschnitt in Cadaqués, der für seine malerische Brücke bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278492,
+                        42.282117
+                  ]
+            },
+            {
+                  "name": "Platja de sa Conca",
+                  "text": "Platja de sa Conca ist ein beliebter Kieselstrand im Süden von Cadaqués mit kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276776,
+                        42.280973
+                  ]
+            },
+            {
+                  "name": "Platja de Pius V",
+                  "text": "Platja de Pius V ist ein kleiner, ruhiger Strandabschnitt an der felsigen Küste von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276649,
+                        42.279878
+                  ]
+            },
+            {
+                  "name": "Platja des Calders",
+                  "text": "Platja des Calders ist eine ruhige Bucht in Cadaqués, die Schutz vor dem Wind bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291582,
+                        42.289478
+                  ]
+            },
+            {
+                  "name": "Platja d'en Pep Ton",
+                  "text": "Platja d'en Pep Ton ist ein schmaler Strandabschnitt an der zerklüfteten Küste von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.293326,
+                        42.290602
+                  ]
+            },
+            {
+                  "name": "Platja des Caials",
+                  "text": "Platja des Caials ist ein felsiger Strand in Cadaqués, der besonders bei Tauchern beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295646,
+                        42.285599
+                  ]
+            },
+            {
+                  "name": "Platja d'en Sanés",
+                  "text": "Platja d'en Sanés ist ein kleiner Kieselstrand in Cadaqués mit Blick auf die vorgelagerten Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295083,
+                        42.284346
+                  ]
+            },
+            {
+                  "name": "Platja Confitera",
+                  "text": "Platja Confitera ist ein ruhiger Kieselstrand in Cadaqués, ideal zum Entspannen abseits der Massen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291254,
+                        42.283627
+                  ]
+            },
+            {
+                  "name": "Platja de Portlligat",
+                  "text": "Platja de Portlligat liegt in der berühmten Bucht von Cadaqués, in der sich das Hausmuseum von Salvador Dalí befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.286842,
+                        42.294022
+                  ]
+            },
+            {
+                  "name": "Cala de Massabous",
+                  "text": "Cala de Massabous ist eine kleine, versteckte Bucht in Cadaqués mit unberührtem Charakter.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294109,
+                        42.292736
+                  ]
+            },
+            {
+                  "name": "Platja de l'Illa",
+                  "text": "Platja de l'Illa ist ein abgelegener Strandabschnitt auf einer Halbinsel in der Nähe von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294977,
+                        42.291012
+                  ]
+            },
+            {
+                  "name": "Platja de s'Alqueria",
+                  "text": "Platja de s'Alqueria bietet klares Wasser und eine ruhige Atmosphäre im Norden von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289219,
+                        42.299049
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ballesta",
+                  "text": "Platja d'en Ballesta ist ein kleiner, naturbelassener Kieselstrand in der Nähe von Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.288454,
+                        42.297296
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "Platja de Sant Antoni ist ein ruhiger Küstenabschnitt in der Nähe der Bucht von Portlligat in Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289416,
+                        42.294315
+                  ]
             }
       ],
       "hu": [
@@ -13159,6 +16075,285 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.284,
                         42.2921
+                  ]
+            },
+            {
+                  "name": "Platja d'en Talla Dofins",
+                  "text": "A Platja d'en Talla Dofins egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289703,
+                        42.302125
+                  ]
+            },
+            {
+                  "name": "Cala Torta",
+                  "text": "A Cala Torta egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.301466,
+                        42.310202
+                  ]
+            },
+            {
+                  "name": "Platja Guillola",
+                  "text": "A Platja Guillola egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294642,
+                        42.307122
+                  ]
+            },
+            {
+                  "name": "Platja de ses Ielles",
+                  "text": "A Platja de ses Ielles egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.307487,
+                        42.314122
+                  ]
+            },
+            {
+                  "name": "Platja de Ribes Altes",
+                  "text": "A Platja de Ribes Altes egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.303526,
+                        42.311652
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Lluís",
+                  "text": "A Platja de Sant Lluís egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.290757,
+                        42.307383
+                  ]
+            },
+            {
+                  "name": "Platja Port d'Alguer",
+                  "text": "A Platja Port d'Alguer egy festői öböl Cadaqués egyik idilli pontján, a Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276199,
+                        42.287283
+                  ]
+            },
+            {
+                  "name": "es Llaner Petit",
+                  "text": "A es Llaner Petit egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276042,
+                        42.283224
+                  ]
+            },
+            {
+                  "name": "es Llaner Gros",
+                  "text": "A es Llaner Gros egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.275475,
+                        42.284385
+                  ]
+            },
+            {
+                  "name": "Platja d'en Noues",
+                  "text": "A Platja d'en Noues egy festői öböl Cadaquésben, a vadregényes Costa Brava partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28928,
+                        42.306945
+                  ]
+            },
+            {
+                  "name": "Platja des Jonquet",
+                  "text": "A Platja des Jonquet egy festői kavicsos strand Cadaqués tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28656,
+                        42.303656
+                  ]
+            },
+            {
+                  "name": "Platja des Pianc",
+                  "text": "A Platja des Pianc egy bájos strand a központ közelében, kilátással Cadaqués óvárosára.",
+                  "category": "recreational",
+                  "coords": [
+                        3.281723,
+                        42.287662
+                  ]
+            },
+            {
+                  "name": "Platja de sa Figuera",
+                  "text": "A Platja de sa Figuera egy kicsi, csendes tengerparti szakasz Cadaqués sziklás öblében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278791,
+                        42.254964
+                  ]
+            },
+            {
+                  "name": "Platja de sa Sabolla",
+                  "text": "A Platja de sa Sabolla egy természetes strand, amely gyalogúton érhető el Cadaqués felől.",
+                  "category": "recreational",
+                  "coords": [
+                        3.282763,
+                        42.270182
+                  ]
+            },
+            {
+                  "name": "Platja des Poal",
+                  "text": "A Platja des Poal egy apró kavicsos strand közvetlenül Cadaqués történelmi központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.280832,
+                        42.288663
+                  ]
+            },
+            {
+                  "name": "Platja de ses Oliveres",
+                  "text": "A Platja de ses Oliveres Cadaqués egyik partszakasza, amely halászcsónakjairól és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.285551,
+                        42.285838
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ros",
+                  "text": "A Platja d'en Ros panorámás kilátást nyújt Cadaqués fehér sziluettjére.",
+                  "category": "recreational",
+                  "coords": [
+                        3.287646,
+                        42.284381
+                  ]
+            },
+            {
+                  "name": "Platja des Sortell",
+                  "text": "A Platja des Sortell egy sziklás tengerparti szakasz Cadaquésben, amely festői hídjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278492,
+                        42.282117
+                  ]
+            },
+            {
+                  "name": "Platja de sa Conca",
+                  "text": "A Platja de sa Conca egy népszerű kavicsos strand Cadaqués déli részén, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276776,
+                        42.280973
+                  ]
+            },
+            {
+                  "name": "Platja de Pius V",
+                  "text": "A Platja de Pius V egy kicsi, nyugodt tengerparti rész Cadaqués sziklás partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276649,
+                        42.279878
+                  ]
+            },
+            {
+                  "name": "Platja des Calders",
+                  "text": "A Platja des Calders egy csendes öböl Cadaquésben, amely védelmet nyújt a szél elől.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291582,
+                        42.289478
+                  ]
+            },
+            {
+                  "name": "Platja d'en Pep Ton",
+                  "text": "A Platja d'en Pep Ton egy keskeny tengerparti szakasz Cadaqués tagolt partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.293326,
+                        42.290602
+                  ]
+            },
+            {
+                  "name": "Platja des Caials",
+                  "text": "A Platja des Caials egy sziklás strand Cadaquésben, amely különösen a búvárok körében népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295646,
+                        42.285599
+                  ]
+            },
+            {
+                  "name": "Platja d'en Sanés",
+                  "text": "A Platja d'en Sanés egy kis kavicsos strand Cadaquésben, kilátással a közeli szigetekre.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295083,
+                        42.284346
+                  ]
+            },
+            {
+                  "name": "Platja Confitera",
+                  "text": "A Platja Confitera egy csendes kavicsos strand Cadaquésben, amely ideális a tömegtől távoli pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291254,
+                        42.283627
+                  ]
+            },
+            {
+                  "name": "Platja de Portlligat",
+                  "text": "A Platja de Portlligat Cadaqués híres öblében található, ahol Salvador Dalí házmúzeuma is áll.",
+                  "category": "recreational",
+                  "coords": [
+                        3.286842,
+                        42.294022
+                  ]
+            },
+            {
+                  "name": "Cala de Massabous",
+                  "text": "A Cala de Massabous egy kicsi, rejtett öböl Cadaquésben, érintetlen jellegével.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294109,
+                        42.292736
+                  ]
+            },
+            {
+                  "name": "Platja de l'Illa",
+                  "text": "A Platja de l'Illa egy eldugott tengerparti szakasz egy félszigeten, Cadaqués közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294977,
+                        42.291012
+                  ]
+            },
+            {
+                  "name": "Platja de s'Alqueria",
+                  "text": "A Platja de s'Alqueria tiszta vizet és nyugodt légkört kínál Cadaqués északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289219,
+                        42.299049
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ballesta",
+                  "text": "A Platja d'en Ballesta egy kicsi, természetes kavicsos strand Cadaqués közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.288454,
+                        42.297296
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "A Platja de Sant Antoni egy csendes tengerparti szakasz Cadaquésben, a Portlligat-öböl közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289416,
+                        42.294315
                   ]
             }
       ],
@@ -13228,6 +16423,285 @@ export const poiExtraEsV2: POI[] = [
                         3.284,
                         42.2921
                   ]
+            },
+            {
+                  "name": "Platja d'en Talla Dofins",
+                  "text": "Platja d'en Talla Dofins este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289703,
+                        42.302125
+                  ]
+            },
+            {
+                  "name": "Cala Torta",
+                  "text": "Cala Torta este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.301466,
+                        42.310202
+                  ]
+            },
+            {
+                  "name": "Platja Guillola",
+                  "text": "Platja Guillola este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294642,
+                        42.307122
+                  ]
+            },
+            {
+                  "name": "Platja de ses Ielles",
+                  "text": "Platja de ses Ielles este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.307487,
+                        42.314122
+                  ]
+            },
+            {
+                  "name": "Platja de Ribes Altes",
+                  "text": "Platja de Ribes Altes este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.303526,
+                        42.311652
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Lluís",
+                  "text": "Platja de Sant Lluís este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.290757,
+                        42.307383
+                  ]
+            },
+            {
+                  "name": "Platja Port d'Alguer",
+                  "text": "Platja Port d'Alguer este un golf pitoresc situat într-o locație idilică din Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276199,
+                        42.287283
+                  ]
+            },
+            {
+                  "name": "es Llaner Petit",
+                  "text": "es Llaner Petit este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276042,
+                        42.283224
+                  ]
+            },
+            {
+                  "name": "es Llaner Gros",
+                  "text": "es Llaner Gros este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.275475,
+                        42.284385
+                  ]
+            },
+            {
+                  "name": "Platja d'en Noues",
+                  "text": "Platja d'en Noues este un golf pitoresc în Cadaqués, pe coasta sălbatică Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28928,
+                        42.306945
+                  ]
+            },
+            {
+                  "name": "Platja des Jonquet",
+                  "text": "Platja des Jonquet este o plajă pitorească de pietriș situată în orașul de coastă Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28656,
+                        42.303656
+                  ]
+            },
+            {
+                  "name": "Platja des Pianc",
+                  "text": "Platja des Pianc este o plajă fermecătoare situată aproape de centru, cu vedere la centrul vechi din Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.281723,
+                        42.287662
+                  ]
+            },
+            {
+                  "name": "Platja de sa Figuera",
+                  "text": "Platja de sa Figuera este o mică secțiune de plajă liniștită în golful stâncos din Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278791,
+                        42.254964
+                  ]
+            },
+            {
+                  "name": "Platja de sa Sabolla",
+                  "text": "Platja de sa Sabolla este o plajă naturală accesibilă printr-o potecă din Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.282763,
+                        42.270182
+                  ]
+            },
+            {
+                  "name": "Platja des Poal",
+                  "text": "Platja des Poal este o plajă mică de pietriș situată chiar în centrul istoric al orașului Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.280832,
+                        42.288663
+                  ]
+            },
+            {
+                  "name": "Platja de ses Oliveres",
+                  "text": "Platja de ses Oliveres este o secțiune de coastă din Cadaqués, cunoscută pentru bărcile de pescuit și apa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        3.285551,
+                        42.285838
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ros",
+                  "text": "Platja d'en Ros oferă o vedere panoramică asupra siluetei albe a orașului Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.287646,
+                        42.284381
+                  ]
+            },
+            {
+                  "name": "Platja des Sortell",
+                  "text": "Platja des Sortell este o secțiune de plajă stâncoasă din Cadaqués, cunoscută pentru podul său pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278492,
+                        42.282117
+                  ]
+            },
+            {
+                  "name": "Platja de sa Conca",
+                  "text": "Platja de sa Conca este o plajă populară de pietriș în sudul orașului Cadaqués, cu apă de cristal.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276776,
+                        42.280973
+                  ]
+            },
+            {
+                  "name": "Platja de Pius V",
+                  "text": "Platja de Pius V este o mică secțiune de plajă liniștită pe coasta stâncoasă a orașului Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276649,
+                        42.279878
+                  ]
+            },
+            {
+                  "name": "Platja des Calders",
+                  "text": "Platja des Calders este un golf liniștit în Cadaqués, care oferă adăpost împotriva vântului.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291582,
+                        42.289478
+                  ]
+            },
+            {
+                  "name": "Platja d'en Pep Ton",
+                  "text": "Platja d'en Pep Ton este o secțiune îngustă de plajă pe coasta accidentată a orașului Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.293326,
+                        42.290602
+                  ]
+            },
+            {
+                  "name": "Platja des Caials",
+                  "text": "Platja des Caials este o plajă stâncoasă în Cadaqués, fiind deosebit de populară printre scafandri.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295646,
+                        42.285599
+                  ]
+            },
+            {
+                  "name": "Platja d'en Sanés",
+                  "text": "Platja d'en Sanés este o mică plajă de pietriș în Cadaqués, cu vedere spre insulele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295083,
+                        42.284346
+                  ]
+            },
+            {
+                  "name": "Platja Confitera",
+                  "text": "Platja Confitera este o plajă liniștită de pietriș în Cadaqués, ideală pentru relaxare departe de mulțime.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291254,
+                        42.283627
+                  ]
+            },
+            {
+                  "name": "Platja de Portlligat",
+                  "text": "Platja de Portlligat se află în faimosul golf din Cadaqués, unde se găsește casa-muzeu a lui Salvador Dalí.",
+                  "category": "recreational",
+                  "coords": [
+                        3.286842,
+                        42.294022
+                  ]
+            },
+            {
+                  "name": "Cala de Massabous",
+                  "text": "Cala de Massabous este un golf mic și ascuns în Cadaqués, cu un caracter virgin.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294109,
+                        42.292736
+                  ]
+            },
+            {
+                  "name": "Platja de l'Illa",
+                  "text": "Platja de l'Illa este o secțiune de plajă izolată pe o peninsulă de lângă Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294977,
+                        42.291012
+                  ]
+            },
+            {
+                  "name": "Platja de s'Alqueria",
+                  "text": "Platja de s'Alqueria oferă apă limpede și o atmosferă liniștită în nordul orașului Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289219,
+                        42.299049
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ballesta",
+                  "text": "Platja d'en Ballesta este o mică plajă naturală de pietriș situată lângă Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.288454,
+                        42.297296
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "Platja de Sant Antoni este o secțiune de coastă liniștită lângă golful Portlligat din Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289416,
+                        42.294315
+                  ]
             }
       ],
       "en": [
@@ -13295,6 +16769,285 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.284,
                         42.2921
+                  ]
+            },
+            {
+                  "name": "Platja d'en Talla Dofins",
+                  "text": "Platja d'en Talla Dofins is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289703,
+                        42.302125
+                  ]
+            },
+            {
+                  "name": "Cala Torta",
+                  "text": "Cala Torta is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.301466,
+                        42.310202
+                  ]
+            },
+            {
+                  "name": "Platja Guillola",
+                  "text": "Platja Guillola is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294642,
+                        42.307122
+                  ]
+            },
+            {
+                  "name": "Platja de ses Ielles",
+                  "text": "Platja de ses Ielles is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.307487,
+                        42.314122
+                  ]
+            },
+            {
+                  "name": "Platja de Ribes Altes",
+                  "text": "Platja de Ribes Altes is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.303526,
+                        42.311652
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Lluís",
+                  "text": "Platja de Sant Lluís is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.290757,
+                        42.307383
+                  ]
+            },
+            {
+                  "name": "Platja Port d'Alguer",
+                  "text": "Platja Port d'Alguer is a picturesque cove in an idyllic location in Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276199,
+                        42.287283
+                  ]
+            },
+            {
+                  "name": "es Llaner Petit",
+                  "text": "es Llaner Petit is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276042,
+                        42.283224
+                  ]
+            },
+            {
+                  "name": "es Llaner Gros",
+                  "text": "es Llaner Gros is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.275475,
+                        42.284385
+                  ]
+            },
+            {
+                  "name": "Platja d'en Noues",
+                  "text": "Platja d'en Noues is a picturesque cove in Cadaqués on the wild Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28928,
+                        42.306945
+                  ]
+            },
+            {
+                  "name": "Platja des Jonquet",
+                  "text": "Platja des Jonquet is a picturesque pebble beach located in the coastal town of Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.28656,
+                        42.303656
+                  ]
+            },
+            {
+                  "name": "Platja des Pianc",
+                  "text": "Platja des Pianc is a charming beach near the center, offering views of Cadaqués' old town.",
+                  "category": "recreational",
+                  "coords": [
+                        3.281723,
+                        42.287662
+                  ]
+            },
+            {
+                  "name": "Platja de sa Figuera",
+                  "text": "Platja de sa Figuera is a small, quiet beach section in the rocky bay of Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278791,
+                        42.254964
+                  ]
+            },
+            {
+                  "name": "Platja de sa Sabolla",
+                  "text": "Platja de sa Sabolla is a natural beach accessible via a walking trail from Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.282763,
+                        42.270182
+                  ]
+            },
+            {
+                  "name": "Platja des Poal",
+                  "text": "Platja des Poal is a small pebble beach located right in the historic center of Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.280832,
+                        42.288663
+                  ]
+            },
+            {
+                  "name": "Platja de ses Oliveres",
+                  "text": "Platja de ses Oliveres is a coastal stretch in Cadaqués known for its fishing boats and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        3.285551,
+                        42.285838
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ros",
+                  "text": "Platja d'en Ros offers a panoramic view of the white silhouette of Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.287646,
+                        42.284381
+                  ]
+            },
+            {
+                  "name": "Platja des Sortell",
+                  "text": "Platja des Sortell is a rocky beach section in Cadaqués known for its picturesque bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        3.278492,
+                        42.282117
+                  ]
+            },
+            {
+                  "name": "Platja de sa Conca",
+                  "text": "Platja de sa Conca is a popular pebble beach in the south of Cadaqués with crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276776,
+                        42.280973
+                  ]
+            },
+            {
+                  "name": "Platja de Pius V",
+                  "text": "Platja de Pius V is a small, quiet beach section on the rocky coastline of Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.276649,
+                        42.279878
+                  ]
+            },
+            {
+                  "name": "Platja des Calders",
+                  "text": "Platja des Calders is a quiet cove in Cadaqués providing shelter from the wind.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291582,
+                        42.289478
+                  ]
+            },
+            {
+                  "name": "Platja d'en Pep Ton",
+                  "text": "Platja d'en Pep Ton is a narrow beach section on the rugged coastline of Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.293326,
+                        42.290602
+                  ]
+            },
+            {
+                  "name": "Platja des Caials",
+                  "text": "Platja des Caials is a rocky beach in Cadaqués particularly popular with divers.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295646,
+                        42.285599
+                  ]
+            },
+            {
+                  "name": "Platja d'en Sanés",
+                  "text": "Platja d'en Sanés is a small pebble beach in Cadaqués with views of the offshore islands.",
+                  "category": "recreational",
+                  "coords": [
+                        3.295083,
+                        42.284346
+                  ]
+            },
+            {
+                  "name": "Platja Confitera",
+                  "text": "Platja Confitera is a quiet pebble beach in Cadaqués, ideal for relaxing away from the crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        3.291254,
+                        42.283627
+                  ]
+            },
+            {
+                  "name": "Platja de Portlligat",
+                  "text": "Platja de Portlligat is located in the famous bay of Cadaqués, home to Salvador Dalí's house-museum.",
+                  "category": "recreational",
+                  "coords": [
+                        3.286842,
+                        42.294022
+                  ]
+            },
+            {
+                  "name": "Cala de Massabous",
+                  "text": "Cala de Massabous is a small, hidden cove in Cadaqués with a pristine character.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294109,
+                        42.292736
+                  ]
+            },
+            {
+                  "name": "Platja de l'Illa",
+                  "text": "Platja de l'Illa is a secluded beach section on a peninsula near Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.294977,
+                        42.291012
+                  ]
+            },
+            {
+                  "name": "Platja de s'Alqueria",
+                  "text": "Platja de s'Alqueria offers clear water and a peaceful atmosphere in the north of Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289219,
+                        42.299049
+                  ]
+            },
+            {
+                  "name": "Platja d'en Ballesta",
+                  "text": "Platja d'en Ballesta is a small, natural pebble beach located near Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.288454,
+                        42.297296
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "Platja de Sant Antoni is a quiet coastal section near the Portlligat bay in Cadaqués.",
+                  "category": "recreational",
+                  "coords": [
+                        3.289416,
+                        42.294315
                   ]
             }
       ]
@@ -13521,6 +17274,24 @@ export const poiExtraEsV2: POI[] = [
                         3.385119,
                         39.594514
                   ]
+            },
+            {
+                  "name": "s'Illot",
+                  "text": "Ein kleiner Sandstrand in Cala Millor, direkt neben einem traditionellen Fischerdorf gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.373001,
+                        39.565679
+                  ]
+            },
+            {
+                  "name": "Platja de na Marins",
+                  "text": "Ein malerischer Strand in Cala Millor, ideal um die Mittelmeerküste zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.391929,
+                        39.612901
+                  ]
             }
       ],
       "hu": [
@@ -13743,6 +17514,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.385119,
                         39.594514
+                  ]
+            },
+            {
+                  "name": "s'Illot",
+                  "text": "Kis homokos strand Cala Millorban, egy hagyományos halászfalu szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.373001,
+                        39.565679
+                  ]
+            },
+            {
+                  "name": "Platja de na Marins",
+                  "text": "Festői strand Cala Millorban, amely ideális a mediterrán tengerpart élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        3.391929,
+                        39.612901
                   ]
             }
       ],
@@ -13967,6 +17756,24 @@ export const poiExtraEsV2: POI[] = [
                         3.385119,
                         39.594514
                   ]
+            },
+            {
+                  "name": "s'Illot",
+                  "text": "O mică plajă cu nisip în Cala Millor, situată lângă un sat tradițional de pescari.",
+                  "category": "recreational",
+                  "coords": [
+                        3.373001,
+                        39.565679
+                  ]
+            },
+            {
+                  "name": "Platja de na Marins",
+                  "text": "O plajă pitorească în Cala Millor, ideală pentru a te bucura de coasta mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        3.391929,
+                        39.612901
+                  ]
             }
       ],
       "en": [
@@ -14190,6 +17997,24 @@ export const poiExtraEsV2: POI[] = [
                         3.385119,
                         39.594514
                   ]
+            },
+            {
+                  "name": "s'Illot",
+                  "text": "A small sandy beach in Cala Millor, located next to a traditional fishing village.",
+                  "category": "recreational",
+                  "coords": [
+                        3.373001,
+                        39.565679
+                  ]
+            },
+            {
+                  "name": "Platja de na Marins",
+                  "text": "A scenic beach in Cala Millor, ideal for enjoying the Mediterranean coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        3.391929,
+                        39.612901
+                  ]
             }
       ]
 }},
@@ -14361,6 +18186,159 @@ export const poiExtraEsV2: POI[] = [
                         3.181937,
                         41.886424
                   ]
+            },
+            {
+                  "name": "Platja dels Lliris",
+                  "text": "Die Platja dels Lliris ist ein Strand in Calella de Palafrugell an der Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207176,
+                        41.917104
+                  ]
+            },
+            {
+                  "name": "Cala Pedrosa",
+                  "text": "Die Cala Pedrosa ist eine kleine, von Felsen umgebene Bucht bei Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.206631,
+                        41.90792
+                  ]
+            },
+            {
+                  "name": "Cala d'Aiguadolça",
+                  "text": "Die Cala d'Aiguadolça ist ein kleiner Strand in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.209518,
+                        41.917958
+                  ]
+            },
+            {
+                  "name": "Cala Corbs",
+                  "text": "Die Cala Corbs ist eine schmale Bucht an der Küste von Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.1702,
+                        41.863925
+                  ]
+            },
+            {
+                  "name": "Cala Canyers",
+                  "text": "Die Cala Canyers ist eine Bucht in der Gegend von Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168085,
+                        41.863862
+                  ]
+            },
+            {
+                  "name": "Cala del Cap de Planes",
+                  "text": "Die Cala del Cap de Planes ist ein naturbelassener Strand bei Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.176366,
+                        41.867397
+                  ]
+            },
+            {
+                  "name": "Cala de Roca Bona",
+                  "text": "Die Cala de Roca Bona ist eine ruhige Bucht an der Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.175097,
+                        41.86639
+                  ]
+            },
+            {
+                  "name": "Cala d'en Remendon",
+                  "text": "Die Cala d'en Remendon ist ein unberührter Strandabschnitt bei Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.173715,
+                        41.865838
+                  ]
+            },
+            {
+                  "name": "Cala Estreta",
+                  "text": "Cala Estreta ist eine abgelegene, naturbelassene Bucht bei Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.172813,
+                        41.865403
+                  ]
+            },
+            {
+                  "name": "Platja del Vedell",
+                  "text": "Platja del Vedell ist ein kleiner, ruhiger Strand in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177526,
+                        41.871844
+                  ]
+            },
+            {
+                  "name": "Cala del Crit",
+                  "text": "Cala del Crit ist eine markante Bucht mit Felsformationen in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177244,
+                        41.870637
+                  ]
+            },
+            {
+                  "name": "Platja del Golfet",
+                  "text": "Platja del Golfet ist ein malerischer Strand, der von rötlichen Felsen umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.178143,
+                        41.87894
+                  ]
+            },
+            {
+                  "name": "Platgeta d'en Cosme",
+                  "text": "Platgeta d'en Cosme ist ein kleiner Strand im Zentrum von Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183548,
+                        41.888048
+                  ]
+            },
+            {
+                  "name": "Platja de Llafranc",
+                  "text": "Platja de Llafranc ist ein beliebter, familienfreundlicher Sandstrand in Llafranc.",
+                  "category": "recreational",
+                  "coords": [
+                        3.194801,
+                        41.893716
+                  ]
+            },
+            {
+                  "name": "Piscina municipal de Palafrugell",
+                  "text": "Das öffentliche städtische Schwimmbad für das Gebiet von Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164881,
+                        41.911022
+                  ]
+            },
+            {
+                  "name": "jacuzzi",
+                  "text": "Eine entspannende Whirlpool-Anlage in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.156526,
+                        41.89197
+                  ]
+            },
+            {
+                  "name": "Coqui Park",
+                  "text": "Ein lokaler Vergnügungspark in Calella de Palafrugell, der Unterhaltung für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168365,
+                        41.909895
+                  ]
             }
       ],
       "hu": [
@@ -14529,6 +18507,159 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.181937,
                         41.886424
+                  ]
+            },
+            {
+                  "name": "Platja dels Lliris",
+                  "text": "A Platja dels Lliris egy strand Calella de Palafrugellben, a Costa Braván.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207176,
+                        41.917104
+                  ]
+            },
+            {
+                  "name": "Cala Pedrosa",
+                  "text": "A Cala Pedrosa egy sziklákkal körülvett kis öböl Palafrugellnél.",
+                  "category": "recreational",
+                  "coords": [
+                        3.206631,
+                        41.90792
+                  ]
+            },
+            {
+                  "name": "Cala d'Aiguadolça",
+                  "text": "A Cala d'Aiguadolça egy kis strand Calella de Palafrugellben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.209518,
+                        41.917958
+                  ]
+            },
+            {
+                  "name": "Cala Corbs",
+                  "text": "A Cala Corbs egy keskeny öböl Calella de Palafrugell partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        3.1702,
+                        41.863925
+                  ]
+            },
+            {
+                  "name": "Cala Canyers",
+                  "text": "A Cala Canyers egy öböl Calella de Palafrugell környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168085,
+                        41.863862
+                  ]
+            },
+            {
+                  "name": "Cala del Cap de Planes",
+                  "text": "A Cala del Cap de Planes egy természetközeli strand Calella de Palafrugellnél.",
+                  "category": "recreational",
+                  "coords": [
+                        3.176366,
+                        41.867397
+                  ]
+            },
+            {
+                  "name": "Cala de Roca Bona",
+                  "text": "A Cala de Roca Bona egy csendes öböl a Costa Braván.",
+                  "category": "recreational",
+                  "coords": [
+                        3.175097,
+                        41.86639
+                  ]
+            },
+            {
+                  "name": "Cala d'en Remendon",
+                  "text": "A Cala d'en Remendon egy érintetlen tengerparti szakasz Calella de Palafrugellnél.",
+                  "category": "recreational",
+                  "coords": [
+                        3.173715,
+                        41.865838
+                  ]
+            },
+            {
+                  "name": "Cala Estreta",
+                  "text": "A Cala Estreta egy távoli, természetes öböl Calella de Palafrugell közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.172813,
+                        41.865403
+                  ]
+            },
+            {
+                  "name": "Platja del Vedell",
+                  "text": "A Platja del Vedell egy kicsi, csendes strand Calella de Palafrugellben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177526,
+                        41.871844
+                  ]
+            },
+            {
+                  "name": "Cala del Crit",
+                  "text": "A Cala del Crit egy jellegzetes sziklás öböl Calella de Palafrugellben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177244,
+                        41.870637
+                  ]
+            },
+            {
+                  "name": "Platja del Golfet",
+                  "text": "A Platja del Golfet egy festői strand, amelyet vöröses sziklák vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        3.178143,
+                        41.87894
+                  ]
+            },
+            {
+                  "name": "Platgeta d'en Cosme",
+                  "text": "A Platgeta d'en Cosme egy kis strand Calella de Palafrugell központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183548,
+                        41.888048
+                  ]
+            },
+            {
+                  "name": "Platja de Llafranc",
+                  "text": "A Platja de Llafranc egy népszerű, családbarát homokos strand Llafrancban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.194801,
+                        41.893716
+                  ]
+            },
+            {
+                  "name": "Piscina municipal de Palafrugell",
+                  "text": "Calella de Palafrugell területét kiszolgáló nyilvános városi uszoda.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164881,
+                        41.911022
+                  ]
+            },
+            {
+                  "name": "jacuzzi",
+                  "text": "Egy pihentető pezsgőfürdő Calella de Palafrugellben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.156526,
+                        41.89197
+                  ]
+            },
+            {
+                  "name": "Coqui Park",
+                  "text": "Helyi vidámpark Calella de Palafrugellben, amely szórakozást kínál a családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168365,
+                        41.909895
                   ]
             }
       ],
@@ -14699,6 +18830,159 @@ export const poiExtraEsV2: POI[] = [
                         3.181937,
                         41.886424
                   ]
+            },
+            {
+                  "name": "Platja dels Lliris",
+                  "text": "Platja dels Lliris este o plajă din Calella de Palafrugell, pe Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207176,
+                        41.917104
+                  ]
+            },
+            {
+                  "name": "Cala Pedrosa",
+                  "text": "Cala Pedrosa este un golf mic înconjurat de stânci lângă Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.206631,
+                        41.90792
+                  ]
+            },
+            {
+                  "name": "Cala d'Aiguadolça",
+                  "text": "Cala d'Aiguadolça este o plajă mică în Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.209518,
+                        41.917958
+                  ]
+            },
+            {
+                  "name": "Cala Corbs",
+                  "text": "Cala Corbs este un golf îngust pe coasta localității Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.1702,
+                        41.863925
+                  ]
+            },
+            {
+                  "name": "Cala Canyers",
+                  "text": "Cala Canyers este un golf în zona Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168085,
+                        41.863862
+                  ]
+            },
+            {
+                  "name": "Cala del Cap de Planes",
+                  "text": "Cala del Cap de Planes este o plajă naturală lângă Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.176366,
+                        41.867397
+                  ]
+            },
+            {
+                  "name": "Cala de Roca Bona",
+                  "text": "Cala de Roca Bona este un golf liniștit pe Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.175097,
+                        41.86639
+                  ]
+            },
+            {
+                  "name": "Cala d'en Remendon",
+                  "text": "Cala d'en Remendon este o secțiune de plajă virgină lângă Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.173715,
+                        41.865838
+                  ]
+            },
+            {
+                  "name": "Cala Estreta",
+                  "text": "Cala Estreta este un golf retras și natural lângă Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.172813,
+                        41.865403
+                  ]
+            },
+            {
+                  "name": "Platja del Vedell",
+                  "text": "Platja del Vedell este o plajă mică și liniștită în Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177526,
+                        41.871844
+                  ]
+            },
+            {
+                  "name": "Cala del Crit",
+                  "text": "Cala del Crit este un golf stâncos caracteristic în Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177244,
+                        41.870637
+                  ]
+            },
+            {
+                  "name": "Platja del Golfet",
+                  "text": "Platja del Golfet este o plajă pitorească înconjurată de stânci roșiatice.",
+                  "category": "recreational",
+                  "coords": [
+                        3.178143,
+                        41.87894
+                  ]
+            },
+            {
+                  "name": "Platgeta d'en Cosme",
+                  "text": "Platgeta d'en Cosme este o plajă mică în centrul orașului Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183548,
+                        41.888048
+                  ]
+            },
+            {
+                  "name": "Platja de Llafranc",
+                  "text": "Platja de Llafranc este o plajă de nisip populară și potrivită pentru familii în Llafranc.",
+                  "category": "recreational",
+                  "coords": [
+                        3.194801,
+                        41.893716
+                  ]
+            },
+            {
+                  "name": "Piscina municipal de Palafrugell",
+                  "text": "Piscina municipală publică ce deservește zona Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164881,
+                        41.911022
+                  ]
+            },
+            {
+                  "name": "jacuzzi",
+                  "text": "O facilitate de relaxare cu hidromasaj situată în Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.156526,
+                        41.89197
+                  ]
+            },
+            {
+                  "name": "Coqui Park",
+                  "text": "Un parc de distracții local în Calella de Palafrugell, care oferă divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168365,
+                        41.909895
+                  ]
             }
       ],
       "en": [
@@ -14868,10 +19152,1056 @@ export const poiExtraEsV2: POI[] = [
                         3.181937,
                         41.886424
                   ]
+            },
+            {
+                  "name": "Platja dels Lliris",
+                  "text": "Platja dels Lliris is a beach in Calella de Palafrugell on the Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207176,
+                        41.917104
+                  ]
+            },
+            {
+                  "name": "Cala Pedrosa",
+                  "text": "Cala Pedrosa is a small cove surrounded by rocks near Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.206631,
+                        41.90792
+                  ]
+            },
+            {
+                  "name": "Cala d'Aiguadolça",
+                  "text": "Cala d'Aiguadolça is a small beach in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.209518,
+                        41.917958
+                  ]
+            },
+            {
+                  "name": "Cala Corbs",
+                  "text": "Cala Corbs is a narrow cove on the coast of Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.1702,
+                        41.863925
+                  ]
+            },
+            {
+                  "name": "Cala Canyers",
+                  "text": "Cala Canyers is a cove in the Calella de Palafrugell area.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168085,
+                        41.863862
+                  ]
+            },
+            {
+                  "name": "Cala del Cap de Planes",
+                  "text": "Cala del Cap de Planes is a natural beach near Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.176366,
+                        41.867397
+                  ]
+            },
+            {
+                  "name": "Cala de Roca Bona",
+                  "text": "Cala de Roca Bona is a quiet cove on the Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.175097,
+                        41.86639
+                  ]
+            },
+            {
+                  "name": "Cala d'en Remendon",
+                  "text": "Cala d'en Remendon is a pristine beach section near Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.173715,
+                        41.865838
+                  ]
+            },
+            {
+                  "name": "Cala Estreta",
+                  "text": "Cala Estreta is a remote, natural cove near Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.172813,
+                        41.865403
+                  ]
+            },
+            {
+                  "name": "Platja del Vedell",
+                  "text": "Platja del Vedell is a small, quiet beach in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177526,
+                        41.871844
+                  ]
+            },
+            {
+                  "name": "Cala del Crit",
+                  "text": "Cala del Crit is a distinctive rocky cove in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.177244,
+                        41.870637
+                  ]
+            },
+            {
+                  "name": "Platja del Golfet",
+                  "text": "Platja del Golfet is a picturesque beach surrounded by reddish rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        3.178143,
+                        41.87894
+                  ]
+            },
+            {
+                  "name": "Platgeta d'en Cosme",
+                  "text": "Platgeta d'en Cosme is a small beach in the center of Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.183548,
+                        41.888048
+                  ]
+            },
+            {
+                  "name": "Platja de Llafranc",
+                  "text": "Platja de Llafranc is a popular, family-friendly sandy beach in Llafranc.",
+                  "category": "recreational",
+                  "coords": [
+                        3.194801,
+                        41.893716
+                  ]
+            },
+            {
+                  "name": "Piscina municipal de Palafrugell",
+                  "text": "The public municipal swimming pool serving the Calella de Palafrugell area.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164881,
+                        41.911022
+                  ]
+            },
+            {
+                  "name": "jacuzzi",
+                  "text": "A relaxing hot tub facility located in Calella de Palafrugell.",
+                  "category": "recreational",
+                  "coords": [
+                        3.156526,
+                        41.89197
+                  ]
+            },
+            {
+                  "name": "Coqui Park",
+                  "text": "A local amusement park in Calella de Palafrugell offering entertainment for families.",
+                  "category": "recreational",
+                  "coords": [
+                        3.168365,
+                        41.909895
+                  ]
             }
       ]
 }},
-  {"id": "calpe", "type": "city", "parent": "ES-VC", "coords": [0.0444, 38.6453], "population": 20400, "tier": 2, "name": {"de": "Calpe", "hu": "Calpe", "ro": "Calpe", "en": "Calpe"}, "description": {"de": "Calpe wird vom majestätischen Peñón de Ifach dominiert, einem riesigen Kalksteinfelsen, der aus dem Meer aufragt und das Wahrzeichen der Costa Blanca ist.", "hu": "Calpe jelképe a tengerből monumentálisan kiemelkedő Peñón de Ifach szikla, amely a Costa Blanca egyik leglátványosabb természeti képződménye.", "ro": "Calpe este dominat de maiestuosul Peñón de Ifach, o stâncă uriașă de calcar care răsare din mare, fiind simbolul coastei Costa Blanca.", "en": "Calpe is dominated by the majestic Peñón de Ifach, a giant limestone rock rising from the sea that serves as the iconic landmark of the Costa Blanca."}, "facts": {"de": ["Peñón de Ifach (332 m hoch)", "Los Baños de la Reina (Ruinen)", "Salzsee mit Flamingos", "Fischauktion im Hafen (Lonja)", "Historische Altstadt-Wandmalereien", "Moderne Architektur von Bofill", "2 Hauptstrände (Fossa & Arenal)", "Wachturm Torre del Molí"], "hu": ["Peñón de Ifach (332 m magas)", "Los Baños de la Reina római romok", "Sóstó flamingókkal a város közepén", "Hagyományos halárverés a kikötőben", "Óvárosi színes falfestmények", "Ricardo Bofill modern épületei", "2 fő strand (Fossa és Arenal)", "Torre del Molí malomtorony"], "ro": ["Peñón de Ifach (332 m înălțime)", "Los Baños de la Reina (sit roman)", "Lac sărat cu flamingo în oraș", "Licitație de pește în port (Lonja)", "Picturi murale în orașul vechi", "Arhitectură modernă de Ricardo Bofill", "2 plaje principale (Fossa și Arenal)", "Turnul de veghe Torre del Molí"], "en": ["Peñón de Ifach (332 m rock)", "Los Baños de la Reina Roman site", "Salt flats with flamingos", "Fish auction at the port (Lonja)", "Murals in the old town district", "Ricardo Bofill's modern architecture", "2 main beaches (Fossa and Arenal)", "Torre del Molí watchtower"]}, "image": "/poi-images/calpe.webp", "imageHint": "The massive Ifach rock peninsula at the Calpe shoreline", "descriptionAdvanced": {"de": "Calpe ist eine faszinierende Mischung aus alter Geschichte, atemberaubender Natur und kühner moderner Architektur. Das markanteste Merkmal ist der Naturpark Peñón de Ifach, ein gigantischer Felsen, der durch eine Landzunge mit dem Festland verbunden ist und bestiegen werden kann, um eine Panoramaaussicht bis nach Ibiza zu genießen. Am Fuße des Felsens befinden sich die Ruinen der 'Baños de la Reina', einer römischen Fischfarm mit in den Fels gehauenen Becken. Mitten in der Stadt liegen die Salinas de Calpe, ein Salzsee, der ein wichtiges Habitat für Flamingos und andere Zugvögel darstellt. Für Architektur-Interessierte bietet Calpe die berühmten Projekte von Ricardo Bofill, wie die 'Muralla Roja', ein postmodernes Wohnlabyrinth in leuchtenden Farben. Die Altstadt von Calpe ist ebenfalls sehenswert, mit ihren gepflasterten Gassen, die mit Blumen und Wandgemälden geschmückt sind und die Geschichte der Stadt als Festung gegen Piraten erzählen.", "hu": "Calpe az ősi történelem, a lenyűgöző természet és a merész modern építészet lenyűgöző keveréke. Legfeltűnőbb jellemzője a Peñón de Ifach natúrpark, egy óriási szikla, amelyet egy földnyelv köt össze a szárazfölddel, és megmászva panorámás kilátást nyújt akár Ibizáig is. A szikla lábánál találhatók a 'Baños de la Reina' (Királynő fürdői) romjai, egy római kori haltenyészet sziklába vájt medencékkel. A város közepén fekszik a Salinas de Calpe, egy sóstó, amely a flamingók és más költöző madarak fontos élőhelye. Az építészet iránt érdeklődők számára Calpe Ricardo Bofill híres projektjeit kínálja, mint például a 'Muralla Roja'-t, egy posztmodern lakólabirintust élénk színekben. Calpe óvárosa is megér egy látogatást, macskaköves utcáival, virágaival és falfestményeivel, amelyek a város kalózok elleni erődítmény múltját mesélik el.", "ro": "Calpe este un amestec fascinant de istorie veche, natură uluitoare și arhitectură modernă îndrăzneață. Cea mai izbitoare caracteristică este Parcul Natural Peñón de Ifach, o stâncă gigantică legată de continent printr-o fâșie de pământ, care poate fi urcată pentru a vă bucura de o vedere panoramică până la Ibiza. La poalele stâncii se află ruinele 'Baños de la Reina', o fermă piscicolă romană cu bazine săpate în stâncă. Chiar în mijlocul orașului se află Salinas de Calpe, un lac sărat care reprezintă un habitat important pentru flamingo și alte păsări migratoare. Pentru cei interesați de arhitectură, Calpe oferă proiectele faimoase ale lui Ricardo Bofill, cum ar fi 'Muralla Roja', un labirint rezidențial postmodern în culori vii. Orașul vechi din Calpe merită de asemenea vizitat, cu străzile sale pietruite, decorate cu flori și picturi murale care spun povestea orașului ca fortăreață împotriva piraților.", "en": "Calpe is a fascinating blend of ancient history, stunning nature, and bold modern architecture. Its most striking feature is the Peñón de Ifach Natural Park, a gigantic rock connected to the mainland by an isthmus; climbing it offers panoramic views as far as Ibiza on clear days. At the foot of the rock lie the ruins of 'Baños de la Reina', a Roman fish farm with basins carved into the stone. In the heart of the town, the Salinas de Calpe salt flats provide a vital habitat for flamingos and other migratory birds. Architecture enthusiasts visit Calpe for Ricardo Bofill's iconic projects, such as the 'Muralla Roja', a bright, postmodern residential labyrinth. The old town is equally charming, with cobbled streets adorned with flowers and murals reflecting its history as a coastal defense against pirates."}, "factsAdvanced": {"de": ["Peñón de Ifach: 45 ha Naturpark", "Römische Fundstätte Baños de la Reina", "Muralla Roja von Ricardo Bofill", "Hafenkapelle Ermita del Salvador", "Fischmarkt Lonja (Versteigerung)", "Stadtturm Torreó de la Peça"], "hu": ["Peñón de Ifach: 45 hektáros park", "Baños de la Reina római lelőhely", "Ricardo Bofill: Muralla Roja épület", "Ermita del Salvador kápolna", "Hagyományos délutáni halárverés", "Torreó de la Peça bástyatorony"], "ro": ["Peñón de Ifach: parc de 45 ha", "Situl roman Baños de la Reina", "Muralla Roja de Ricardo Bofill", "Ermita del Salvador pe colină", "Piața de pește Lonja (licitații)", "Turnul de apărare Torreó de la Peça"], "en": ["Peñón de Ifach: 45-hectare park", "Baños de la Reina Roman ruins", "The Muralla Roja by Ricardo Bofill", "Ermita del Salvador chapel", "Traditional daily fish auction", "Torreó de la Peça defense tower"]}, "sights": {"de": [{"name": "Peñón de Ifach", "text": "Der gewaltige Kalksteinfelsen ist das Wahrzeichen der Costa Blanca und ein Naturpark mit Wanderwegen bis zum Gipfel.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp", "coords": [0.07324, 38.63501]}, {"name": "Baños de la Reina", "text": "Eine archäologische Stätte aus der Römerzeit mit in den Fels gehauenen Becken, die einst als Fischfarm dienten.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp", "coords": [0.061527, 38.641508]}, {"name": "Las Salinas de Calpe", "text": "Ein Salzsee mitten im Ort, der Lebensraum für zahlreiche Vogelarten, insbesondere Flamingos, bietet.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp", "coords": [0.067172, 38.646797]}, {"name": "Playa de la Fossa", "text": "An der Küste von Calpe begeistert die Playa de la Fossa mit feinem Sand und einer exzellenten Wasserqualität. Ein unvergessliches Highlight ist der direkte Blick auf den imposanten Felsen Peñón de Ifach, der majestätisch aus dem Meer ragt. Wer im Sommer eine lebendige Badeatmosphäre sucht, wird hier fündig.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp", "coords": [0.0738, 38.6458]}, {"name": "Torre de la Peça", "text": "Ein Teil der alten Stadtmauer, der früher zur Verteidigung gegen Angriffe diente und heute das Sammlermuseum beherbergt.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp", "coords": [0.04488, 38.644894]}, {"name": "La Muralla Roja", "text": "Ein ikonisches Wohngebäude des Architekten Ricardo Bofill, bekannt für seine leuchtenden Farben und geometrischen Formen.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/calpe-la-muralla-roja.webp", "coords": [0.040682, 38.639267]}, {"name": "Puerto de Calpe", "text": "Der lebendige Hafen unterhalb des Felsens ist bekannt für seine Fischbörse und die hervorragenden Meeresfrüchte-Restaurants.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-puerto-de-calpe.webp", "coords": [0.046698, 38.645869]}, {"name": "Cala les Urques", "text": "Cala les Urques ist ein Strand an der Küste von Calpe.", "category": "recreational", "coords": [0.032665, 38.632667]}, {"name": "Cala Gasparet", "text": "Cala Gasparet ist ein malerischer Strand in der Stadt Calpe.", "category": "recreational", "coords": [0.02948, 38.628446]}, {"name": "Cala de la Fustera", "text": "Cala de la Fustera ist ein bekannter feiner Sandstrand an der Küste von Calpe.", "category": "recreational", "coords": [0.088122, 38.664641]}, {"name": "Platja de la Calalga", "text": "Platja de la Calalga ist ein Strandziel an der Küste von Calpe.", "category": "recreational", "coords": [0.077543, 38.652574]}, {"name": "Cala del Mallorquí", "text": "Cala del Mallorquí ist ein Strand am Meer in der Gegend von Calpe.", "category": "recreational", "coords": [0.080428, 38.656359]}, {"name": "Cala del Racó del Corb", "text": "Cala del Racó del Corb ist ein ruhiger Strand in der Stadt Calpe.", "category": "recreational", "coords": [0.00989, 38.632189]}, {"name": "Cala el Racó", "text": "Cala el Racó ist eine bemerkenswerte Bucht in der Nähe des Peñón de Ifach in Calpe.", "category": "recreational", "coords": [0.071109, 38.63571]}, {"name": "Cala de la Barra Gran", "text": "Cala de la Barra Gran ist ein Strand, der in Calpe Zugang zum Meer bietet.", "category": "recreational", "coords": [0.005672, 38.630104]}, {"name": "Cala Punta Prado", "text": "Cala Punta Prado ist ein Strand in Calpe.", "category": "recreational", "coords": [0.088504, 38.663052]}], "hu": [{"name": "Peñón de Ifach", "text": "A Costa Blanca jelképeként ismert hatalmas mészkőszikla természetvédelmi terület, amelynek tetejére túraútvonal vezet.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp", "coords": [0.07324, 38.63501]}, {"name": "Baños de la Reina", "text": "Római kori régészeti lelőhely a tengerparton, ahol a sziklába vájt medencék egykoron haltenyésztésre szolgáltak.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp", "coords": [0.061527, 38.641508]}, {"name": "Las Salinas de Calpe", "text": "A város központjában található sós tó, amely számos madárfajnak, köztük flamingóknak ad otthont.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp", "coords": [0.067172, 38.646797]}, {"name": "Playa de la Fossa", "text": "A calpei parton a Playa de la Fossa finom homokkal és kiváló vízminőséggel varázsolja el a látogatókat. Felejthetetlen élményt nyújt a tengerből fenségesen kiemelkedő, impozáns Peñón de Ifach sziklára nyíló közvetlen kilátás. Aki nyáron élénk fürdőhangulatra vágyik, itt megtalálja a számítását.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp", "coords": [0.0738, 38.6458]}, {"name": "Torre de la Peça", "text": "A régi városfal maradványa, amely egykor bástyaként szolgált, ma pedig múzeumnak ad otthont.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp", "coords": [0.04488, 38.644894]}, {"name": "La Muralla Roja", "text": "Ricardo Bofill építész ikonikus, geometrikus formáiról és élénk színeiről ismert lakóépülete a tengerparton.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/calpe-la-muralla-roja.webp", "coords": [0.040682, 38.639267]}, {"name": "Puerto de Calpe", "text": "A szikla lábánál fekvő kikötő híres halpiacáról és a környék legjobb tengeri specialitásait kínáló éttermeiről.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-puerto-de-calpe.webp", "coords": [0.046698, 38.645869]}, {"name": "Cala les Urques", "text": "A Cala les Urques egy strand Calpe partvidékén.", "category": "recreational", "coords": [0.032665, 38.632667]}, {"name": "Cala Gasparet", "text": "A Cala Gasparet egy festői strand Calpe városában.", "category": "recreational", "coords": [0.02948, 38.628446]}, {"name": "Cala de la Fustera", "text": "A Cala de la Fustera egy jól ismert finom homokos strand Calpe partjainál.", "category": "recreational", "coords": [0.088122, 38.664641]}, {"name": "Platja de la Calalga", "text": "A Platja de la Calalga egy tengerparti strand célpont Calpe-ban.", "category": "recreational", "coords": [0.077543, 38.652574]}, {"name": "Cala del Mallorquí", "text": "A Cala del Mallorquí egy tengerparti strand Calpe térségében.", "category": "recreational", "coords": [0.080428, 38.656359]}, {"name": "Cala del Racó del Corb", "text": "A Cala del Racó del Corb egy csendes strand Calpe városában.", "category": "recreational", "coords": [0.00989, 38.632189]}, {"name": "Cala el Racó", "text": "A Cala el Racó egy nevezetes öböl a Peñón de Ifach szikla közelében, Calpe-ban.", "category": "recreational", "coords": [0.071109, 38.63571]}, {"name": "Cala de la Barra Gran", "text": "A Cala de la Barra Gran egy strand, amely tengerparti hozzáférést biztosít Calpe-ban.", "category": "recreational", "coords": [0.005672, 38.630104]}, {"name": "Cala Punta Prado", "text": "A Cala Punta Prado egy tengerpart Calpe városában.", "category": "recreational", "coords": [0.088504, 38.663052]}], "ro": [{"name": "Peñón de Ifach", "text": "O stâncă de calcar monumentală ce domină peisajul, fiind declarată parc natural și oferind panorame superbe de la vârf.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp", "coords": [0.07324, 38.63501]}, {"name": "Baños de la Reina", "text": "Situl arheologic al unei așezări romane, celebru pentru bazinele săpate în stâncă folosite pentru sărarea peștelui.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp", "coords": [0.061527, 38.641508]}, {"name": "Las Salinas de Calpe", "text": "O lagună sărată situată chiar în oraș, fiind un loc ideal pentru observarea păsărilor, în special a flamingilor.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp", "coords": [0.067172, 38.646797]}, {"name": "Playa de la Fossa", "text": "Pe coasta din Calpe, Playa de la Fossa încântă cu nisip fin și o calitate excelentă a apei. Un punct de atracție de neuitat este vederea directă către stânca impunătoare Peñón de Ifach, care se ridică maiestuos din mare. Cei care caută o atmosferă de plajă plină de viață vara vor găsi aici exact ce își doresc.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp", "coords": [0.0738, 38.6458]}, {"name": "Torre de la Peça", "text": "Bastion istoric ce făcea parte din sistemul defensiv al orașului, adăpostind astăzi un mic muzeu de istorie locală.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp", "coords": [0.04488, 38.644894]}, {"name": "La Muralla Roja", "text": "Un complex rezidențial faimos proiectat de Ricardo Bofill, remarcabil prin designul său geometric și culorile vii.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/calpe-la-muralla-roja.webp", "coords": [0.040682, 38.639267]}, {"name": "Puerto de Calpe", "text": "Portul pescăresc și turistic unde puteți asista la licitațiile de pește și degusta fructe de mare proaspete.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-puerto-de-calpe.webp", "coords": [0.046698, 38.645869]}, {"name": "Cala les Urques", "text": "Cala les Urques este o plajă situată de-a lungul coastei din Calpe.", "category": "recreational", "coords": [0.032665, 38.632667]}, {"name": "Cala Gasparet", "text": "Cala Gasparet este o plajă pitorească situată în orașul Calpe.", "category": "recreational", "coords": [0.02948, 38.628446]}, {"name": "Cala de la Fustera", "text": "Cala de la Fustera este o plajă binecunoscută cu nisip fin, situată pe coasta din Calpe.", "category": "recreational", "coords": [0.088122, 38.664641]}, {"name": "Platja de la Calalga", "text": "Platja de la Calalga este o destinație de plajă pe coastă în Calpe.", "category": "recreational", "coords": [0.077543, 38.652574]}, {"name": "Cala del Mallorquí", "text": "Cala del Mallorquí este o plajă la malul mării situată în zona Calpe.", "category": "recreational", "coords": [0.080428, 38.656359]}, {"name": "Cala del Racó del Corb", "text": "Cala del Racó del Corb este o plajă liniștită situată în orașul Calpe.", "category": "recreational", "coords": [0.00989, 38.632189]}, {"name": "Cala el Racó", "text": "Cala el Racó este un golf notabil situat lângă stânca Peñón de Ifach din Calpe.", "category": "recreational", "coords": [0.071109, 38.63571]}, {"name": "Cala de la Barra Gran", "text": "Cala de la Barra Gran este o plajă care oferă acces la mare în Calpe.", "category": "recreational", "coords": [0.005672, 38.630104]}, {"name": "Cala Punta Prado", "text": "Cala Punta Prado este o plajă situată în Calpe.", "category": "recreational", "coords": [0.088504, 38.663052]}], "en": [{"name": "Peñón de Ifach", "text": "A colossal limestone rock that is the symbol of Calpe and a natural park with trails leading to breathtaking views.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp", "coords": [0.07324, 38.63501]}, {"name": "Baños de la Reina", "text": "Archaeological remains of a Roman villa and coastal fish farm with pools carved into the rock by the sea.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp", "coords": [0.061527, 38.641508]}, {"name": "Las Salinas de Calpe", "text": "A saltwater lagoon in the town center that serves as a vital habitat for many bird species, including flamingos.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp", "coords": [0.067172, 38.646797]}, {"name": "Playa de la Fossa", "text": "On the coast of Calpe, Playa de la Fossa delights visitors with fine sand and excellent water quality. An unforgettable highlight is the direct view of the imposing Peñón de Ifach rock rising majestically from the sea. Anyone seeking a lively beach atmosphere during the summer will find it here.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp", "coords": [0.0738, 38.6458]}, {"name": "Torre de la Peça", "text": "A defensive bastion that was part of the ancient city walls, now housing a local historical collection.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp", "coords": [0.04488, 38.644894]}, {"name": "La Muralla Roja", "text": "An iconic residential building by architect Ricardo Bofill, famous for its vivid colors and complex geometric design.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/calpe-la-muralla-roja.webp", "coords": [0.040682, 38.639267]}, {"name": "Puerto de Calpe", "text": "The busy fishing port known for its fish market and numerous restaurants serving local seafood delicacies.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/calpe-puerto-de-calpe.webp", "coords": [0.046698, 38.645869]}, {"name": "Cala les Urques", "text": "Cala les Urques is a beach situated along the coast of Calpe.", "category": "recreational", "coords": [0.032665, 38.632667]}, {"name": "Cala Gasparet", "text": "Cala Gasparet is a scenic beach located in the town of Calpe.", "category": "recreational", "coords": [0.02948, 38.628446]}, {"name": "Cala de la Fustera", "text": "Cala de la Fustera is a well-known fine sandy beach located on the coast of Calpe.", "category": "recreational", "coords": [0.088122, 38.664641]}, {"name": "Platja de la Calalga", "text": "Platja de la Calalga is a coastal beach destination in Calpe.", "category": "recreational", "coords": [0.077543, 38.652574]}, {"name": "Cala del Mallorquí", "text": "Cala del Mallorquí is a seaside beach situated in the area of Calpe.", "category": "recreational", "coords": [0.080428, 38.656359]}, {"name": "Cala del Racó del Corb", "text": "Cala del Racó del Corb is a tranquil beach located in the town of Calpe.", "category": "recreational", "coords": [0.00989, 38.632189]}, {"name": "Cala el Racó", "text": "Cala el Racó is a notable cove located near the Peñón de Ifach rock formation in Calpe.", "category": "recreational", "coords": [0.071109, 38.63571]}, {"name": "Cala de la Barra Gran", "text": "Cala de la Barra Gran is a beach providing seaside access in Calpe.", "category": "recreational", "coords": [0.005672, 38.630104]}, {"name": "Cala Punta Prado", "text": "Cala Punta Prado is a beach located in Calpe.", "category": "recreational", "coords": [0.088504, 38.663052]}]}},
+  {"id": "calpe", "type": "city", "parent": "ES-VC", "coords": [0.0444, 38.6453], "population": 20400, "tier": 2, "name": {"de": "Calpe", "hu": "Calpe", "ro": "Calpe", "en": "Calpe"}, "description": {"de": "Calpe wird vom majestätischen Peñón de Ifach dominiert, einem riesigen Kalksteinfelsen, der aus dem Meer aufragt und das Wahrzeichen der Costa Blanca ist.", "hu": "Calpe jelképe a tengerből monumentálisan kiemelkedő Peñón de Ifach szikla, amely a Costa Blanca egyik leglátványosabb természeti képződménye.", "ro": "Calpe este dominat de maiestuosul Peñón de Ifach, o stâncă uriașă de calcar care răsare din mare, fiind simbolul coastei Costa Blanca.", "en": "Calpe is dominated by the majestic Peñón de Ifach, a giant limestone rock rising from the sea that serves as the iconic landmark of the Costa Blanca."}, "facts": {"de": ["Peñón de Ifach (332 m hoch)", "Los Baños de la Reina (Ruinen)", "Salzsee mit Flamingos", "Fischauktion im Hafen (Lonja)", "Historische Altstadt-Wandmalereien", "Moderne Architektur von Bofill", "2 Hauptstrände (Fossa & Arenal)", "Wachturm Torre del Molí"], "hu": ["Peñón de Ifach (332 m magas)", "Los Baños de la Reina római romok", "Sóstó flamingókkal a város közepén", "Hagyományos halárverés a kikötőben", "Óvárosi színes falfestmények", "Ricardo Bofill modern épületei", "2 fő strand (Fossa és Arenal)", "Torre del Molí malomtorony"], "ro": ["Peñón de Ifach (332 m înălțime)", "Los Baños de la Reina (sit roman)", "Lac sărat cu flamingo în oraș", "Licitație de pește în port (Lonja)", "Picturi murale în orașul vechi", "Arhitectură modernă de Ricardo Bofill", "2 plaje principale (Fossa și Arenal)", "Turnul de veghe Torre del Molí"], "en": ["Peñón de Ifach (332 m rock)", "Los Baños de la Reina Roman site", "Salt flats with flamingos", "Fish auction at the port (Lonja)", "Murals in the old town district", "Ricardo Bofill's modern architecture", "2 main beaches (Fossa and Arenal)", "Torre del Molí watchtower"]}, "image": "/poi-images/calpe.webp", "imageHint": "The massive Ifach rock peninsula at the Calpe shoreline", "descriptionAdvanced": {"de": "Calpe ist eine faszinierende Mischung aus alter Geschichte, atemberaubender Natur und kühner moderner Architektur. Das markanteste Merkmal ist der Naturpark Peñón de Ifach, ein gigantischer Felsen, der durch eine Landzunge mit dem Festland verbunden ist und bestiegen werden kann, um eine Panoramaaussicht bis nach Ibiza zu genießen. Am Fuße des Felsens befinden sich die Ruinen der 'Baños de la Reina', einer römischen Fischfarm mit in den Fels gehauenen Becken. Mitten in der Stadt liegen die Salinas de Calpe, ein Salzsee, der ein wichtiges Habitat für Flamingos und andere Zugvögel darstellt. Für Architektur-Interessierte bietet Calpe die berühmten Projekte von Ricardo Bofill, wie die 'Muralla Roja', ein postmodernes Wohnlabyrinth in leuchtenden Farben. Die Altstadt von Calpe ist ebenfalls sehenswert, mit ihren gepflasterten Gassen, die mit Blumen und Wandgemälden geschmückt sind und die Geschichte der Stadt als Festung gegen Piraten erzählen.", "hu": "Calpe az ősi történelem, a lenyűgöző természet és a merész modern építészet lenyűgöző keveréke. Legfeltűnőbb jellemzője a Peñón de Ifach natúrpark, egy óriási szikla, amelyet egy földnyelv köt össze a szárazfölddel, és megmászva panorámás kilátást nyújt akár Ibizáig is. A szikla lábánál találhatók a 'Baños de la Reina' (Királynő fürdői) romjai, egy római kori haltenyészet sziklába vájt medencékkel. A város közepén fekszik a Salinas de Calpe, egy sóstó, amely a flamingók és más költöző madarak fontos élőhelye. Az építészet iránt érdeklődők számára Calpe Ricardo Bofill híres projektjeit kínálja, mint például a 'Muralla Roja'-t, egy posztmodern lakólabirintust élénk színekben. Calpe óvárosa is megér egy látogatást, macskaköves utcáival, virágaival és falfestményeivel, amelyek a város kalózok elleni erődítmény múltját mesélik el.", "ro": "Calpe este un amestec fascinant de istorie veche, natură uluitoare și arhitectură modernă îndrăzneață. Cea mai izbitoare caracteristică este Parcul Natural Peñón de Ifach, o stâncă gigantică legată de continent printr-o fâșie de pământ, care poate fi urcată pentru a vă bucura de o vedere panoramică până la Ibiza. La poalele stâncii se află ruinele 'Baños de la Reina', o fermă piscicolă romană cu bazine săpate în stâncă. Chiar în mijlocul orașului se află Salinas de Calpe, un lac sărat care reprezintă un habitat important pentru flamingo și alte păsări migratoare. Pentru cei interesați de arhitectură, Calpe oferă proiectele faimoase ale lui Ricardo Bofill, cum ar fi 'Muralla Roja', un labirint rezidențial postmodern în culori vii. Orașul vechi din Calpe merită de asemenea vizitat, cu străzile sale pietruite, decorate cu flori și picturi murale care spun povestea orașului ca fortăreață împotriva piraților.", "en": "Calpe is a fascinating blend of ancient history, stunning nature, and bold modern architecture. Its most striking feature is the Peñón de Ifach Natural Park, a gigantic rock connected to the mainland by an isthmus; climbing it offers panoramic views as far as Ibiza on clear days. At the foot of the rock lie the ruins of 'Baños de la Reina', a Roman fish farm with basins carved into the stone. In the heart of the town, the Salinas de Calpe salt flats provide a vital habitat for flamingos and other migratory birds. Architecture enthusiasts visit Calpe for Ricardo Bofill's iconic projects, such as the 'Muralla Roja', a bright, postmodern residential labyrinth. The old town is equally charming, with cobbled streets adorned with flowers and murals reflecting its history as a coastal defense against pirates."}, "factsAdvanced": {"de": ["Peñón de Ifach: 45 ha Naturpark", "Römische Fundstätte Baños de la Reina", "Muralla Roja von Ricardo Bofill", "Hafenkapelle Ermita del Salvador", "Fischmarkt Lonja (Versteigerung)", "Stadtturm Torreó de la Peça"], "hu": ["Peñón de Ifach: 45 hektáros park", "Baños de la Reina római lelőhely", "Ricardo Bofill: Muralla Roja épület", "Ermita del Salvador kápolna", "Hagyományos délutáni halárverés", "Torreó de la Peça bástyatorony"], "ro": ["Peñón de Ifach: parc de 45 ha", "Situl roman Baños de la Reina", "Muralla Roja de Ricardo Bofill", "Ermita del Salvador pe colină", "Piața de pește Lonja (licitații)", "Turnul de apărare Torreó de la Peça"], "en": ["Peñón de Ifach: 45-hectare park", "Baños de la Reina Roman ruins", "The Muralla Roja by Ricardo Bofill", "Ermita del Salvador chapel", "Traditional daily fish auction", "Torreó de la Peça defense tower"]}, "sights": {
+      "de": [
+            {
+                  "name": "Peñón de Ifach",
+                  "text": "Der gewaltige Kalksteinfelsen ist das Wahrzeichen der Costa Blanca und ein Naturpark mit Wanderwegen bis zum Gipfel.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp",
+                  "coords": [
+                        0.07324,
+                        38.63501
+                  ]
+            },
+            {
+                  "name": "Baños de la Reina",
+                  "text": "Eine archäologische Stätte aus der Römerzeit mit in den Fels gehauenen Becken, die einst als Fischfarm dienten.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp",
+                  "coords": [
+                        0.061527,
+                        38.641508
+                  ]
+            },
+            {
+                  "name": "Las Salinas de Calpe",
+                  "text": "Ein Salzsee mitten im Ort, der Lebensraum für zahlreiche Vogelarten, insbesondere Flamingos, bietet.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp",
+                  "coords": [
+                        0.067172,
+                        38.646797
+                  ]
+            },
+            {
+                  "name": "Playa de la Fossa",
+                  "text": "An der Küste von Calpe begeistert die Playa de la Fossa mit feinem Sand und einer exzellenten Wasserqualität. Ein unvergessliches Highlight ist der direkte Blick auf den imposanten Felsen Peñón de Ifach, der majestätisch aus dem Meer ragt. Wer im Sommer eine lebendige Badeatmosphäre sucht, wird hier fündig.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp",
+                  "coords": [
+                        0.0738,
+                        38.6458
+                  ]
+            },
+            {
+                  "name": "Torre de la Peça",
+                  "text": "Ein Teil der alten Stadtmauer, der früher zur Verteidigung gegen Angriffe diente und heute das Sammlermuseum beherbergt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp",
+                  "coords": [
+                        0.04488,
+                        38.644894
+                  ]
+            },
+            {
+                  "name": "La Muralla Roja",
+                  "text": "Ein ikonisches Wohngebäude des Architekten Ricardo Bofill, bekannt für seine leuchtenden Farben und geometrischen Formen.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-la-muralla-roja.webp",
+                  "coords": [
+                        0.040682,
+                        38.639267
+                  ]
+            },
+            {
+                  "name": "Puerto de Calpe",
+                  "text": "Der lebendige Hafen unterhalb des Felsens ist bekannt für seine Fischbörse und die hervorragenden Meeresfrüchte-Restaurants.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-puerto-de-calpe.webp",
+                  "coords": [
+                        0.046698,
+                        38.645869
+                  ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "Cala les Urques ist ein Strand an der Küste von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "Cala Gasparet ist ein malerischer Strand in der Stadt Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "Cala de la Fustera ist ein bekannter feiner Sandstrand an der Küste von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "Platja de la Calalga ist ein Strandziel an der Küste von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "Cala del Mallorquí ist ein Strand am Meer in der Gegend von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "Cala del Racó del Corb ist ein ruhiger Strand in der Stadt Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "Cala el Racó ist eine bemerkenswerte Bucht in der Nähe des Peñón de Ifach in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "Cala de la Barra Gran ist ein Strand, der in Calpe Zugang zum Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "Cala Punta Prado ist ein Strand in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
+                  ]
+            },
+            {
+                  "name": "Platja del Cantal Roig",
+                  "text": "Ein familienfreundlicher Strand in Calpe, direkt neben dem Hafen gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        0.067811,
+                        38.64011
+                  ]
+            },
+            {
+                  "name": "Platja de l'Arenal",
+                  "text": "Der größte und beliebteste Sandstrand im Stadtgebiet von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.047866,
+                        38.641226
+                  ]
+            },
+            {
+                  "name": "Platja del Bol",
+                  "text": "Ein entspannter Strandabschnitt in Calpe für ruhige Stunden am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        0.053929,
+                        38.641786
+                  ]
+            },
+            {
+                  "name": "Platja de l'Algoleja",
+                  "text": "Ein steiniger Strandabschnitt in Calpe, ideal zum Schnorcheln und Ausruhen.",
+                  "category": "recreational",
+                  "coords": [
+                        0.057416,
+                        38.641645
+                  ]
+            },
+            {
+                  "name": "Cala de la Fossa",
+                  "text": "Ein bekannter Sandstrand in Calpe mit hervorragender Infrastruktur und klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        0.073268,
+                        38.641178
+                  ]
+            },
+            {
+                  "name": "Platja del Mascarat",
+                  "text": "Ein Kiesstrand in Calpe, der sich in der Nähe des Jachthafens befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00243,
+                        38.630596
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "Ein Freizeitpark in Calpe, der verschiedene Attraktionen und Unterhaltung für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        0.061049,
+                        38.643662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peñón de Ifach",
+                  "text": "A Costa Blanca jelképeként ismert hatalmas mészkőszikla természetvédelmi terület, amelynek tetejére túraútvonal vezet.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp",
+                  "coords": [
+                        0.07324,
+                        38.63501
+                  ]
+            },
+            {
+                  "name": "Baños de la Reina",
+                  "text": "Római kori régészeti lelőhely a tengerparton, ahol a sziklába vájt medencék egykoron haltenyésztésre szolgáltak.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp",
+                  "coords": [
+                        0.061527,
+                        38.641508
+                  ]
+            },
+            {
+                  "name": "Las Salinas de Calpe",
+                  "text": "A város központjában található sós tó, amely számos madárfajnak, köztük flamingóknak ad otthont.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp",
+                  "coords": [
+                        0.067172,
+                        38.646797
+                  ]
+            },
+            {
+                  "name": "Playa de la Fossa",
+                  "text": "A calpei parton a Playa de la Fossa finom homokkal és kiváló vízminőséggel varázsolja el a látogatókat. Felejthetetlen élményt nyújt a tengerből fenségesen kiemelkedő, impozáns Peñón de Ifach sziklára nyíló közvetlen kilátás. Aki nyáron élénk fürdőhangulatra vágyik, itt megtalálja a számítását.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp",
+                  "coords": [
+                        0.0738,
+                        38.6458
+                  ]
+            },
+            {
+                  "name": "Torre de la Peça",
+                  "text": "A régi városfal maradványa, amely egykor bástyaként szolgált, ma pedig múzeumnak ad otthont.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp",
+                  "coords": [
+                        0.04488,
+                        38.644894
+                  ]
+            },
+            {
+                  "name": "La Muralla Roja",
+                  "text": "Ricardo Bofill építész ikonikus, geometrikus formáiról és élénk színeiről ismert lakóépülete a tengerparton.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-la-muralla-roja.webp",
+                  "coords": [
+                        0.040682,
+                        38.639267
+                  ]
+            },
+            {
+                  "name": "Puerto de Calpe",
+                  "text": "A szikla lábánál fekvő kikötő híres halpiacáról és a környék legjobb tengeri specialitásait kínáló éttermeiről.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-puerto-de-calpe.webp",
+                  "coords": [
+                        0.046698,
+                        38.645869
+                  ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "A Cala les Urques egy strand Calpe partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "A Cala Gasparet egy festői strand Calpe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "A Cala de la Fustera egy jól ismert finom homokos strand Calpe partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "A Platja de la Calalga egy tengerparti strand célpont Calpe-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "A Cala del Mallorquí egy tengerparti strand Calpe térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "A Cala del Racó del Corb egy csendes strand Calpe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "A Cala el Racó egy nevezetes öböl a Peñón de Ifach szikla közelében, Calpe-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "A Cala de la Barra Gran egy strand, amely tengerparti hozzáférést biztosít Calpe-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "A Cala Punta Prado egy tengerpart Calpe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
+                  ]
+            },
+            {
+                  "name": "Platja del Cantal Roig",
+                  "text": "Családbarát strand Calpe városában, közvetlenül a kikötő mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        0.067811,
+                        38.64011
+                  ]
+            },
+            {
+                  "name": "Platja de l'Arenal",
+                  "text": "Calpe városának legnagyobb és legnépszerűbb homokos strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        0.047866,
+                        38.641226
+                  ]
+            },
+            {
+                  "name": "Platja del Bol",
+                  "text": "Pihentető tengerparti szakasz Calpe városában a nyugodt órákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        0.053929,
+                        38.641786
+                  ]
+            },
+            {
+                  "name": "Platja de l'Algoleja",
+                  "text": "Köves tengerparti szakasz Calpe városában, ideális sznorkelezéshez és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        0.057416,
+                        38.641645
+                  ]
+            },
+            {
+                  "name": "Cala de la Fossa",
+                  "text": "Ismert homokos strand Calpe városában, kiváló infrastruktúrával és tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        0.073268,
+                        38.641178
+                  ]
+            },
+            {
+                  "name": "Platja del Mascarat",
+                  "text": "Kavicsos strand Calpe városában, a jachtkikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00243,
+                        38.630596
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "Vidámpark Calpéban, amely különféle attrakciókat és szórakozási lehetőségeket kínál családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        0.061049,
+                        38.643662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peñón de Ifach",
+                  "text": "O stâncă de calcar monumentală ce domină peisajul, fiind declarată parc natural și oferind panorame superbe de la vârf.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp",
+                  "coords": [
+                        0.07324,
+                        38.63501
+                  ]
+            },
+            {
+                  "name": "Baños de la Reina",
+                  "text": "Situl arheologic al unei așezări romane, celebru pentru bazinele săpate în stâncă folosite pentru sărarea peștelui.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp",
+                  "coords": [
+                        0.061527,
+                        38.641508
+                  ]
+            },
+            {
+                  "name": "Las Salinas de Calpe",
+                  "text": "O lagună sărată situată chiar în oraș, fiind un loc ideal pentru observarea păsărilor, în special a flamingilor.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp",
+                  "coords": [
+                        0.067172,
+                        38.646797
+                  ]
+            },
+            {
+                  "name": "Playa de la Fossa",
+                  "text": "Pe coasta din Calpe, Playa de la Fossa încântă cu nisip fin și o calitate excelentă a apei. Un punct de atracție de neuitat este vederea directă către stânca impunătoare Peñón de Ifach, care se ridică maiestuos din mare. Cei care caută o atmosferă de plajă plină de viață vara vor găsi aici exact ce își doresc.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp",
+                  "coords": [
+                        0.0738,
+                        38.6458
+                  ]
+            },
+            {
+                  "name": "Torre de la Peça",
+                  "text": "Bastion istoric ce făcea parte din sistemul defensiv al orașului, adăpostind astăzi un mic muzeu de istorie locală.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp",
+                  "coords": [
+                        0.04488,
+                        38.644894
+                  ]
+            },
+            {
+                  "name": "La Muralla Roja",
+                  "text": "Un complex rezidențial faimos proiectat de Ricardo Bofill, remarcabil prin designul său geometric și culorile vii.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-la-muralla-roja.webp",
+                  "coords": [
+                        0.040682,
+                        38.639267
+                  ]
+            },
+            {
+                  "name": "Puerto de Calpe",
+                  "text": "Portul pescăresc și turistic unde puteți asista la licitațiile de pește și degusta fructe de mare proaspete.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-puerto-de-calpe.webp",
+                  "coords": [
+                        0.046698,
+                        38.645869
+                  ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "Cala les Urques este o plajă situată de-a lungul coastei din Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "Cala Gasparet este o plajă pitorească situată în orașul Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "Cala de la Fustera este o plajă binecunoscută cu nisip fin, situată pe coasta din Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "Platja de la Calalga este o destinație de plajă pe coastă în Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "Cala del Mallorquí este o plajă la malul mării situată în zona Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "Cala del Racó del Corb este o plajă liniștită situată în orașul Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "Cala el Racó este un golf notabil situat lângă stânca Peñón de Ifach din Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "Cala de la Barra Gran este o plajă care oferă acces la mare în Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "Cala Punta Prado este o plajă situată în Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
+                  ]
+            },
+            {
+                  "name": "Platja del Cantal Roig",
+                  "text": "O plajă potrivită pentru familii în Calpe, situată chiar lângă port.",
+                  "category": "recreational",
+                  "coords": [
+                        0.067811,
+                        38.64011
+                  ]
+            },
+            {
+                  "name": "Platja de l'Arenal",
+                  "text": "Cea mai mare și populară plajă de nisip din zona urbană a orașului Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.047866,
+                        38.641226
+                  ]
+            },
+            {
+                  "name": "Platja del Bol",
+                  "text": "O secțiune de plajă relaxantă în Calpe pentru ore liniștite la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        0.053929,
+                        38.641786
+                  ]
+            },
+            {
+                  "name": "Platja de l'Algoleja",
+                  "text": "O secțiune de plajă stâncoasă în Calpe, ideală pentru snorkeling și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        0.057416,
+                        38.641645
+                  ]
+            },
+            {
+                  "name": "Cala de la Fossa",
+                  "text": "O plajă de nisip cunoscută în Calpe, cu infrastructură excelentă și apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        0.073268,
+                        38.641178
+                  ]
+            },
+            {
+                  "name": "Platja del Mascarat",
+                  "text": "O plajă cu pietriș în Calpe, situată în apropierea portului de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00243,
+                        38.630596
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "Un parc de distracții în Calpe, care oferă diverse atracții și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        0.061049,
+                        38.643662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peñón de Ifach",
+                  "text": "A colossal limestone rock that is the symbol of Calpe and a natural park with trails leading to breathtaking views.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-pe-n-de-ifach.webp",
+                  "coords": [
+                        0.07324,
+                        38.63501
+                  ]
+            },
+            {
+                  "name": "Baños de la Reina",
+                  "text": "Archaeological remains of a Roman villa and coastal fish farm with pools carved into the rock by the sea.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-ba-os-de-la-reina.webp",
+                  "coords": [
+                        0.061527,
+                        38.641508
+                  ]
+            },
+            {
+                  "name": "Las Salinas de Calpe",
+                  "text": "A saltwater lagoon in the town center that serves as a vital habitat for many bird species, including flamingos.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-las-salinas-de-calpe.webp",
+                  "coords": [
+                        0.067172,
+                        38.646797
+                  ]
+            },
+            {
+                  "name": "Playa de la Fossa",
+                  "text": "On the coast of Calpe, Playa de la Fossa delights visitors with fine sand and excellent water quality. An unforgettable highlight is the direct view of the imposing Peñón de Ifach rock rising majestically from the sea. Anyone seeking a lively beach atmosphere during the summer will find it here.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-playa-de-la-fossa.webp",
+                  "coords": [
+                        0.0738,
+                        38.6458
+                  ]
+            },
+            {
+                  "name": "Torre de la Peça",
+                  "text": "A defensive bastion that was part of the ancient city walls, now housing a local historical collection.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-torre-de-la-pe-a.webp",
+                  "coords": [
+                        0.04488,
+                        38.644894
+                  ]
+            },
+            {
+                  "name": "La Muralla Roja",
+                  "text": "An iconic residential building by architect Ricardo Bofill, famous for its vivid colors and complex geometric design.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-la-muralla-roja.webp",
+                  "coords": [
+                        0.040682,
+                        38.639267
+                  ]
+            },
+            {
+                  "name": "Puerto de Calpe",
+                  "text": "The busy fishing port known for its fish market and numerous restaurants serving local seafood delicacies.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/calpe-puerto-de-calpe.webp",
+                  "coords": [
+                        0.046698,
+                        38.645869
+                  ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "Cala les Urques is a beach situated along the coast of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "Cala Gasparet is a scenic beach located in the town of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "Cala de la Fustera is a well-known fine sandy beach located on the coast of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "Platja de la Calalga is a coastal beach destination in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "Cala del Mallorquí is a seaside beach situated in the area of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "Cala del Racó del Corb is a tranquil beach located in the town of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "Cala el Racó is a notable cove located near the Peñón de Ifach rock formation in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "Cala de la Barra Gran is a beach providing seaside access in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "Cala Punta Prado is a beach located in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
+                  ]
+            },
+            {
+                  "name": "Platja del Cantal Roig",
+                  "text": "A family-friendly beach in Calpe, located right next to the harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        0.067811,
+                        38.64011
+                  ]
+            },
+            {
+                  "name": "Platja de l'Arenal",
+                  "text": "The largest and most popular sandy beach in the urban area of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.047866,
+                        38.641226
+                  ]
+            },
+            {
+                  "name": "Bol beach",
+                  "text": "A relaxed beach section in Calpe for quiet hours by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.053929,
+                        38.641786
+                  ]
+            },
+            {
+                  "name": "Platja de l'Algoleja",
+                  "text": "A stony beach section in Calpe, ideal for snorkeling and resting.",
+                  "category": "recreational",
+                  "coords": [
+                        0.057416,
+                        38.641645
+                  ]
+            },
+            {
+                  "name": "Cala de la Fossa",
+                  "text": "A well-known sandy beach in Calpe with excellent infrastructure and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        0.073268,
+                        38.641178
+                  ]
+            },
+            {
+                  "name": "Platja del Mascarat",
+                  "text": "A pebble beach in Calpe, located near the marina.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00243,
+                        38.630596
+                  ]
+            },
+            {
+                  "name": "Family Park",
+                  "text": "A theme park in Calpe offering various attractions and entertainment for families.",
+                  "category": "recreational",
+                  "coords": [
+                        0.061049,
+                        38.643662
+                  ]
+            }
+      ]
+}},
   {"id": "cambados", "type": "city", "parent": "ES-GA", "coords": [-8.8147, 42.5125], "population": 13600, "tier": 3, "name": {"de": "Cambados", "hu": "Cambados", "ro": "Cambados", "en": "Cambados"}, "description": {"de": "Cambados ist die charmante Hauptstadt des Albariño-Weins in Galicien, bekannt für ihren historischen Granitkern und den prachtvollen Fefiñáns-Platz.", "hu": "Cambados az Albariño bor galíciai fővárosa, ahol az ódon gránitházak és a lenyűgöző Fefiñáns tér felelevenítik a középkori nemesi világ hangulatát.", "ro": "Cambados este capitala istorică a vinului Albariño din Galiția, renumită pentru centrul său vechi de granit și eleganta Piață Fefiñáns.", "en": "Cambados is the historical capital of Albariño wine in Galicia, famous for its noble granite architecture and the magnificent Fefiñáns Square."}, "facts": {"de": ["Hauptstadt des Albariño", "Provinz Pontevedra", "Rías Baixas Region", "Granitarchitektur", "Meeresfrüchte-Küche", "Historisches Zentrum", "Fefiñáns-Platz", "San Sadurniño Turm"], "hu": ["Az Albariño bor fővárosa", "Pontevedra tartomány", "Rías Baixas régió", "Gránit építészet", "Híres tengeri ételek", "Történelmi városközpont", "Fefiñáns tér", "San Sadurniño-torony"], "ro": ["Capitala vinului Albariño", "Provincia Pontevedra", "Regiunea Rías Baixas", "Arhitectură de granit", "Gastronomie marină", "Centru istoric", "Piața Fefiñáns", "Turnul San Sadurniño"], "en": ["Capital of Albariño wine", "Pontevedra province", "Rías Baixas region", "Granite architecture", "Seafood gastronomy", "Historical center", "Fefiñáns Square", "San Sadurniño Tower"]}, "image": "/poi-images/cambados.webp", "imageHint": "Pazo de Fefiñáns and its granite square in Cambados, Galicia", "descriptionAdvanced": {"de": "Cambados ist in ganz Spanien als Hauptstadt des Albariño-Weins bekannt und liegt in der Küstenregion Rías Baixas in Galicien. Die Architektur der Stadt ist stark vom lokal abgebauten Granit geprägt, was besonders auf der weitläufigen Plaza de Fefiñáns deutlich wird. Dieser Platz aus dem 16. Jahrhundert wird vom Pazo de Fefiñáns flankiert, einem großen Herrenhaus, das heute eines der ältesten Weingüter der Gegend beherbergt. Nur einen kurzen Spaziergang vom Zentrum entfernt befinden sich die Ruinen von Santa Mariña Dozo, einer gotischen Kirche aus dem 15. Jahrhundert, deren verlassene Steinbögen heute einen historischen Friedhof überspannen. Lokale Wirtschaft und Kultur sind eng mit den umliegenden Weinbergen und dem nahen Meer verbunden. In der ersten Augustwoche findet hier die Festa do Albariño statt, bei der Tausende den frischen Weißwein zusammen mit regionalen Meeresfrüchten probieren. An der Strandpromenade kann man oft die traditionellen Methoden der Muschelfischer in der Ría de Arousa beobachten.", "hu": "Cambados széles körben az Albariño bor fővárosaként ismert, és Galícia Rías Baixas nevű tengerparti régiójában fekszik. A város építészetét nagymértékben meghatározza a helyben bányászott gránit, amely a leglátványosabban a hatalmas Plaza de Fefiñáns téren mutatkozik meg. Ezt a 16. századi teret a Pazo de Fefiñáns szegélyezi, egy tekintélyes udvarház, amely jelenleg a környék egyik legrégebbi borászatát működteti. A központból egy rövid sétával elérhetők a Santa Mariña Dozo romjai; ez egy 15. századi gótikus templom, melynek elhagyatott kőívei alatt ma történelmi temető húzódik, egészen különleges, csendes atmoszférát teremtve. A helyi gazdaság és kultúra szorosan kötődik az itteni szőlőültetvényekhez és a közeli óceánhoz. Augusztus első hetében rendezik meg a Festa do Albariño fesztivált, ahol több ezren kóstolják a friss, ropogós fehérborokat és a regionális tengeri ételeket. A part menti sétányról gyakran megfigyelhetők a kagylógyűjtők, akik a Ría de Arousa iszapjában dolgoznak apály idején.", "ro": "Cambados este recunoscut pe scară largă drept capitala vinului Albariño, fiind situat în regiunea de coastă Rías Baixas din Galicia. Arhitectura orașului este puternic definită de granitul extras local, cel mai vizibil în vasta Plaza de Fefiñáns. Această piață din secolul al XVI-lea este flancată de Pazo de Fefiñáns, un conac impunător care găzduiește în prezent una dintre cele mai vechi crame din zonă. O scurtă plimbare din centru duce la ruinele Santa Mariña Dozo, o biserică gotică din secolul al XV-lea ale cărei arce de piatră abandonate adăpostesc acum un cimitir istoric, creând o atmosferă austeră. Economia și cultura locală sunt profund legate de podgoriile înconjurătoare și de marea din apropiere. În prima săptămână a lunii august, orașul găzduiește Festa do Albariño, atrăgând mii de oameni pentru a degusta vinurile albe alături de fructe de mare regionale. De pe faleza de la malul mării, vizitatorii pot observa tehnicile tradiționale de culegere a scoicilor folosite de localnici la reflux.", "en": "Cambados is widely recognized as the capital of Albariño wine, set within the Rías Baixas coastal region of Galicia. The town's architecture is heavily defined by locally quarried granite, most notably in the expansive Plaza de Fefiñáns. This 16th-century square is flanked by the Pazo de Fefiñáns, a grand manor house that currently operates one of the oldest wineries in the area. A short walk from the center reveals the ruins of Santa Mariña Dozo, a 15th-century Gothic church whose abandoned stone arches now shelter a historic cemetery, creating a starkly melancholic atmosphere. The local economy and culture are deeply tied to the surrounding vineyards and the nearby sea. During the first week of August, the town hosts the Festa do Albariño, drawing thousands to taste the crisp white wines alongside regional seafood. Visitors often explore the seaside promenade, observing the traditional shellfishing techniques used by locals during low tide in the Ría de Arousa to harvest clams and cockles."}, "factsAdvanced": {"de": ["Gründungsdatum des Pazo de Fefiñáns: ca. 1560", "Albariño-Fest: Seit 1953 jährlich gefeiert", "Santa Mariña Dozo Ruinen: Nationaldenkmal seit 1943", "Entfernung nach Pontevedra: ca. 25 Kilometer", "Lage: Direkt an der Ría de Arousa", "Status: Historisch-künstlerisches Ensemble seit 1990"], "hu": ["A Pazo de Fefiñáns alapítása: kb. 1560 körül", "Albariño Fesztivál: 1953 óta minden évben", "Santa Mariña Dozo: 1943 óta nemzeti műemlék", "Távolság Pontevedrától: kb. 25 kilométer", "Fekvése: Közvetlenül a Ría de Arousa partján", "Státusz: 1990-ben történelmi-művészeti hellyé nyilvánították"], "ro": ["Fondarea Pazo de Fefiñáns: aprox. 1560", "Festivalul Albariño: Celebrat anual din 1953", "Ruinele Santa Mariña Dozo: Monument național din 1943", "Distanța până la Pontevedra: aprox. 25 kilometri", "Localizare: Direct pe malul Ría de Arousa", "Statut: Ansamblu istoric-artistic din 1990"], "en": ["Pazo de Fefiñáns founding: approx. 1560", "Albariño Festival: Celebrated annually since 1953", "Santa Mariña Dozo ruins: National monument since 1943", "Distance to Pontevedra: approx. 25 kilometers", "Location: Directly on the Ría de Arousa estuary", "Status: Declared a Historic-Artistic Site in 1990"]}, "sights": {
       "de": [
             {
@@ -15032,6 +20362,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.82745,
                         42.490874
+                  ]
+            },
+            {
+                  "name": "Praia das Cuncheiras",
+                  "text": "Praia das Cuncheiras ist ein Strand in der Gemeinde Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.81164,
+                        42.494534
+                  ]
+            },
+            {
+                  "name": "Praia da Alameda",
+                  "text": "Praia da Alameda ist ein Strand in der Gemeinde Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.817529,
+                        42.509398
                   ]
             }
       ],
@@ -15195,6 +20543,24 @@ export const poiExtraEsV2: POI[] = [
                         -8.82745,
                         42.490874
                   ]
+            },
+            {
+                  "name": "Praia das Cuncheiras",
+                  "text": "A Praia das Cuncheiras egy strand Cambados községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.81164,
+                        42.494534
+                  ]
+            },
+            {
+                  "name": "Praia da Alameda",
+                  "text": "A Praia da Alameda egy strand Cambados községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.817529,
+                        42.509398
+                  ]
             }
       ],
       "ro": [
@@ -15357,6 +20723,24 @@ export const poiExtraEsV2: POI[] = [
                         -8.82745,
                         42.490874
                   ]
+            },
+            {
+                  "name": "Praia das Cuncheiras",
+                  "text": "Praia das Cuncheiras este o plajă în municipiul Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.81164,
+                        42.494534
+                  ]
+            },
+            {
+                  "name": "Praia da Alameda",
+                  "text": "Praia da Alameda este o plajă în municipiul Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.817529,
+                        42.509398
+                  ]
             }
       ],
       "en": [
@@ -15518,6 +20902,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.82745,
                         42.490874
+                  ]
+            },
+            {
+                  "name": "Praia das Cuncheiras",
+                  "text": "Praia das Cuncheiras is a beach in the municipality of Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.81164,
+                        42.494534
+                  ]
+            },
+            {
+                  "name": "Praia da Alameda",
+                  "text": "Praia da Alameda is a beach in the municipality of Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.817529,
+                        42.509398
                   ]
             }
       ]
@@ -15705,6 +21107,51 @@ export const poiExtraEsV2: POI[] = [
                         1.03575,
                         41.058284
                   ]
+            },
+            {
+                  "name": "Platja Cavet",
+                  "text": "Platja Cavet ist ein ruhiger Strand in Cambrils, ideal für entspanntes Baden.",
+                  "category": "recreational",
+                  "coords": [
+                        1.077657,
+                        41.064564
+                  ]
+            },
+            {
+                  "name": "Platja de La Peixerota",
+                  "text": "Platja de La Peixerota ist ein Küstenabschnitt in Cambrils, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        1.012941,
+                        41.049148
+                  ]
+            },
+            {
+                  "name": "Platja El Mas De L'Arany",
+                  "text": "Platja El Mas De L'Arany ist ein natürlicher Strandabschnitt in der Gemeinde Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.027295,
+                        41.054559
+                  ]
+            },
+            {
+                  "name": "Platja del Torrent d'en Gener",
+                  "text": "Platja del Torrent d'en Gener ist ein ruhiger Küstenbereich in Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.038623,
+                        41.058676
+                  ]
+            },
+            {
+                  "name": "Piscina Eurogolden",
+                  "text": "Eine Schwimmbadanlage in der Küstenstadt Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.092581,
+                        41.082204
+                  ]
             }
       ],
       "hu": [
@@ -15888,6 +21335,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.03575,
                         41.058284
+                  ]
+            },
+            {
+                  "name": "Platja Cavet",
+                  "text": "A Platja Cavet egy nyugodt strand Cambrilsban, amely ideális a pihentető fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        1.077657,
+                        41.064564
+                  ]
+            },
+            {
+                  "name": "Platja de La Peixerota",
+                  "text": "A Platja de La Peixerota egy tengerparti szakasz Cambrilsban, amely nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        1.012941,
+                        41.049148
+                  ]
+            },
+            {
+                  "name": "Platja El Mas De L'Arany",
+                  "text": "A Platja El Mas De L'Arany egy természetes tengerparti szakasz Cambrils területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.027295,
+                        41.054559
+                  ]
+            },
+            {
+                  "name": "Platja del Torrent d'en Gener",
+                  "text": "A Platja del Torrent d'en Gener egy csendes tengerparti rész Cambrilsban.",
+                  "category": "recreational",
+                  "coords": [
+                        1.038623,
+                        41.058676
+                  ]
+            },
+            {
+                  "name": "Piscina Eurogolden",
+                  "text": "Egy úszómedence Cambrils tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.092581,
+                        41.082204
                   ]
             }
       ],
@@ -16073,6 +21565,51 @@ export const poiExtraEsV2: POI[] = [
                         1.03575,
                         41.058284
                   ]
+            },
+            {
+                  "name": "Platja Cavet",
+                  "text": "Platja Cavet este o plajă liniștită din Cambrils, ideală pentru relaxare la soare.",
+                  "category": "recreational",
+                  "coords": [
+                        1.077657,
+                        41.064564
+                  ]
+            },
+            {
+                  "name": "Platja de La Peixerota",
+                  "text": "Platja de La Peixerota este o porțiune de coastă din Cambrils, cunoscută pentru atmosfera relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        1.012941,
+                        41.049148
+                  ]
+            },
+            {
+                  "name": "Platja El Mas De L'Arany",
+                  "text": "Platja El Mas De L'Arany este o porțiune de plajă naturală în municipiul Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.027295,
+                        41.054559
+                  ]
+            },
+            {
+                  "name": "Platja del Torrent d'en Gener",
+                  "text": "Platja del Torrent d'en Gener este o zonă de coastă liniștită din Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.038623,
+                        41.058676
+                  ]
+            },
+            {
+                  "name": "Piscina Eurogolden",
+                  "text": "O facilitate cu piscină situată în orașul de coastă Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.092581,
+                        41.082204
+                  ]
             }
       ],
       "en": [
@@ -16256,6 +21793,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.03575,
                         41.058284
+                  ]
+            },
+            {
+                  "name": "Platja Cavet",
+                  "text": "Platja Cavet is a calm beach in Cambrils, ideal for relaxed swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        1.077657,
+                        41.064564
+                  ]
+            },
+            {
+                  "name": "Platja de La Peixerota",
+                  "text": "Platja de La Peixerota is a coastal stretch in Cambrils known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        1.012941,
+                        41.049148
+                  ]
+            },
+            {
+                  "name": "Platja El Mas De L'Arany",
+                  "text": "Platja El Mas De L'Arany is a natural beach section in the Cambrils municipality.",
+                  "category": "recreational",
+                  "coords": [
+                        1.027295,
+                        41.054559
+                  ]
+            },
+            {
+                  "name": "Platja del Torrent d'en Gener",
+                  "text": "Platja del Torrent d'en Gener is a quiet coastal area in Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.038623,
+                        41.058676
+                  ]
+            },
+            {
+                  "name": "Piscina Eurogolden",
+                  "text": "A swimming pool facility located in the coastal town of Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.092581,
+                        41.082204
                   ]
             }
       ]
@@ -17986,6 +23568,42 @@ export const poiExtraEsV2: POI[] = [
                         -6.435339,
                         36.740953
                   ]
+            },
+            {
+                  "name": "Playa Micaela",
+                  "text": "Playa Micaela ist ein weitläufiger Sandstrand in Chipiona an der Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.424448,
+                        36.743862
+                  ]
+            },
+            {
+                  "name": "Playa del Camarón",
+                  "text": "Playa del Camarón ist ein weitläufiger Sandstrand in Chipiona an der Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433751,
+                        36.710182
+                  ]
+            },
+            {
+                  "name": "Playa Cruz del Mar",
+                  "text": "Playa Cruz del Mar ist ein weitläufiger Sandstrand in Chipiona an der Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433627,
+                        36.743893
+                  ]
+            },
+            {
+                  "name": "Playa Montijo",
+                  "text": "Playa Montijo ist ein weitläufiger Sandstrand in Chipiona an der Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.409332,
+                        36.759979
+                  ]
             }
       ],
       "hu": [
@@ -18098,6 +23716,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.435339,
                         36.740953
+                  ]
+            },
+            {
+                  "name": "Playa Micaela",
+                  "text": "A Playa Micaela egy tágas homokos tengerpart Chipionában, a Costa de la Luz mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.424448,
+                        36.743862
+                  ]
+            },
+            {
+                  "name": "Playa del Camarón",
+                  "text": "A Playa del Camarón egy tágas homokos tengerpart Chipionában, a Costa de la Luz mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433751,
+                        36.710182
+                  ]
+            },
+            {
+                  "name": "Playa Cruz del Mar",
+                  "text": "A Playa Cruz del Mar egy tágas homokos tengerpart Chipionában, a Costa de la Luz mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433627,
+                        36.743893
+                  ]
+            },
+            {
+                  "name": "Playa Montijo",
+                  "text": "A Playa Montijo egy tágas homokos tengerpart Chipionában, a Costa de la Luz mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.409332,
+                        36.759979
                   ]
             }
       ],
@@ -18212,6 +23866,42 @@ export const poiExtraEsV2: POI[] = [
                         -6.435339,
                         36.740953
                   ]
+            },
+            {
+                  "name": "Playa Micaela",
+                  "text": "Playa Micaela este o plajă spațioasă cu nisip în Chipiona, pe Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.424448,
+                        36.743862
+                  ]
+            },
+            {
+                  "name": "Playa del Camarón",
+                  "text": "Playa del Camarón este o plajă spațioasă cu nisip în Chipiona, pe Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433751,
+                        36.710182
+                  ]
+            },
+            {
+                  "name": "Playa Cruz del Mar",
+                  "text": "Playa Cruz del Mar este o plajă spațioasă cu nisip în Chipiona, pe Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433627,
+                        36.743893
+                  ]
+            },
+            {
+                  "name": "Playa Montijo",
+                  "text": "Playa Montijo este o plajă spațioasă cu nisip în Chipiona, pe Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.409332,
+                        36.759979
+                  ]
             }
       ],
       "en": [
@@ -18324,6 +24014,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.435339,
                         36.740953
+                  ]
+            },
+            {
+                  "name": "Playa Micaela",
+                  "text": "Playa Micaela is a spacious sandy beach in Chipiona along the Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.424448,
+                        36.743862
+                  ]
+            },
+            {
+                  "name": "Playa del Camarón",
+                  "text": "Playa del Camarón is a spacious sandy beach in Chipiona along the Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433751,
+                        36.710182
+                  ]
+            },
+            {
+                  "name": "Playa Cruz del Mar",
+                  "text": "Playa Cruz del Mar is a spacious sandy beach in Chipiona along the Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.433627,
+                        36.743893
+                  ]
+            },
+            {
+                  "name": "Playa Montijo",
+                  "text": "Playa Montijo is a spacious sandy beach in Chipiona along the Costa de la Luz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.409332,
+                        36.759979
                   ]
             }
       ]
@@ -18485,6 +24211,60 @@ export const poiExtraEsV2: POI[] = [
                         3.809455,
                         40.005761
                   ]
+            },
+            {
+                  "name": "Cala de Santandria",
+                  "text": "Diese schmale Bucht bei Ciutadella auf Menorca bietet ruhiges Wasser zum Baden.",
+                  "category": "recreational",
+                  "coords": [
+                        3.839221,
+                        39.977758
+                  ]
+            },
+            {
+                  "name": "Sa Platja Gran",
+                  "text": "Der größte Stadtstrand in Ciutadella ist ein beliebter Treffpunkt für Einheimische.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835803,
+                        39.994295
+                  ]
+            },
+            {
+                  "name": "Sa Platja Petita",
+                  "text": "Eine kleinere Bucht in Ciutadella, die eine intimere Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.834198,
+                        39.99426
+                  ]
+            },
+            {
+                  "name": "Playa Racó des Mart",
+                  "text": "Ein abgeschiedener Strandabschnitt in der Nähe von Ciutadella auf den Balearen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.796099,
+                        40.005004
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein städtisches Schwimmbad für die Bewohner von Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.854136,
+                        40.004257
+                  ]
+            },
+            {
+                  "name": "Aqua Center",
+                  "text": "Ein Wasserpark auf Menorca mit verschiedenen Rutschen und Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        3.803612,
+                        40.003059
+                  ]
             }
       ],
       "hu": [
@@ -18642,6 +24422,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.809455,
                         40.005761
+                  ]
+            },
+            {
+                  "name": "Cala de Santandria",
+                  "text": "Ez a Ciutadella melletti keskeny öböl Menorcán nyugodt vizet kínál a fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        3.839221,
+                        39.977758
+                  ]
+            },
+            {
+                  "name": "Sa Platja Gran",
+                  "text": "Ciutadella legnagyobb városi strandja a helyiek kedvelt találkozóhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835803,
+                        39.994295
+                  ]
+            },
+            {
+                  "name": "Sa Platja Petita",
+                  "text": "Egy kisebb öböl Ciutadellában, amely bensőségesebb hangulatot áraszt.",
+                  "category": "recreational",
+                  "coords": [
+                        3.834198,
+                        39.99426
+                  ]
+            },
+            {
+                  "name": "Playa Racó des Mart",
+                  "text": "Egy eldugott tengerparti szakasz Ciutadella közelében a Baleár-szigeteken.",
+                  "category": "recreational",
+                  "coords": [
+                        3.796099,
+                        40.005004
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Városi úszómedence Ciutadella lakói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        3.854136,
+                        40.004257
+                  ]
+            },
+            {
+                  "name": "Aqua Center",
+                  "text": "Vízipark Menorca szigetén különböző csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        3.803612,
+                        40.003059
                   ]
             }
       ],
@@ -18801,6 +24635,60 @@ export const poiExtraEsV2: POI[] = [
                         3.809455,
                         40.005761
                   ]
+            },
+            {
+                  "name": "Cala de Santandria",
+                  "text": "Acest golf îngust de lângă Ciutadella, în Menorca, oferă ape liniștite pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        3.839221,
+                        39.977758
+                  ]
+            },
+            {
+                  "name": "Sa Platja Gran",
+                  "text": "Cea mai mare plajă urbană din Ciutadella este un loc popular de întâlnire pentru localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835803,
+                        39.994295
+                  ]
+            },
+            {
+                  "name": "Sa Platja Petita",
+                  "text": "Un golf mai mic din Ciutadella, care oferă o atmosferă mai intimă.",
+                  "category": "recreational",
+                  "coords": [
+                        3.834198,
+                        39.99426
+                  ]
+            },
+            {
+                  "name": "Playa Racó des Mart",
+                  "text": "O secțiune de plajă retrasă lângă Ciutadella, în Insulele Baleare.",
+                  "category": "recreational",
+                  "coords": [
+                        3.796099,
+                        40.005004
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină municipală pentru locuitorii din Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.854136,
+                        40.004257
+                  ]
+            },
+            {
+                  "name": "Aqua Center",
+                  "text": "Un parc acvatic în Menorca cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        3.803612,
+                        40.003059
+                  ]
             }
       ],
       "en": [
@@ -18959,6 +24847,60 @@ export const poiExtraEsV2: POI[] = [
                         3.809455,
                         40.005761
                   ]
+            },
+            {
+                  "name": "Cala de Santandria",
+                  "text": "This narrow cove near Ciutadella on Menorca offers calm waters for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        3.839221,
+                        39.977758
+                  ]
+            },
+            {
+                  "name": "Sa Platja Gran",
+                  "text": "The largest city beach in Ciutadella is a popular meeting point for locals.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835803,
+                        39.994295
+                  ]
+            },
+            {
+                  "name": "Sa Platja Petita",
+                  "text": "A smaller cove in Ciutadella that offers a more intimate atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        3.834198,
+                        39.99426
+                  ]
+            },
+            {
+                  "name": "Playa Racó des Mart",
+                  "text": "A secluded beach section near Ciutadella in the Balearic Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        3.796099,
+                        40.005004
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A municipal swimming pool for the residents of Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.854136,
+                        40.004257
+                  ]
+            },
+            {
+                  "name": "Aqua Center",
+                  "text": "A water park in Menorca with various slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        3.803612,
+                        40.003059
+                  ]
             }
       ]
 }},
@@ -19074,6 +25016,114 @@ export const poiExtraEsV2: POI[] = [
                         -8.685101,
                         42.446457
                   ]
+            },
+            {
+                  "name": "Praia de Ladróns",
+                  "text": "Praia de Ladróns ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.736767,
+                        42.413774
+                  ]
+            },
+            {
+                  "name": "A Praíña dos Praceres",
+                  "text": "A Praíña dos Praceres ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.684533,
+                        42.405539
+                  ]
+            },
+            {
+                  "name": "Praia Cabeceira",
+                  "text": "Praia Cabeceira ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.682123,
+                        42.422162
+                  ]
+            },
+            {
+                  "name": "Praia do Polvorín",
+                  "text": "Praia do Polvorín ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.677306,
+                        42.420731
+                  ]
+            },
+            {
+                  "name": "Praia do Cuncheiro",
+                  "text": "Praia do Cuncheiro ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683185,
+                        42.406975
+                  ]
+            },
+            {
+                  "name": "Praia do Covelo",
+                  "text": "Praia do Covelo ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.730785,
+                        42.416966
+                  ]
+            },
+            {
+                  "name": "A Area da Barca",
+                  "text": "A Area da Barca ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.727816,
+                        42.417636
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas Pequena",
+                  "text": "Praia de Chancelas Pequena ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715472,
+                        42.421933
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas",
+                  "text": "Praia de Chancelas ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.718774,
+                        42.422606
+                  ]
+            },
+            {
+                  "name": "Praia do Laño",
+                  "text": "Praia do Laño ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.738561,
+                        42.413748
+                  ]
+            },
+            {
+                  "name": "Praia do Caeiro",
+                  "text": "Praia do Caeiro ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.733237,
+                        42.41531
+                  ]
+            },
+            {
+                  "name": "Praia de Ouriceira",
+                  "text": "Praia de Ouriceira ist ein malerischer Strand in der Küstenregion von Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.722629,
+                        42.42119
+                  ]
             }
       ],
       "hu": [
@@ -19186,6 +25236,114 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.685101,
                         42.446457
+                  ]
+            },
+            {
+                  "name": "Praia de Ladróns",
+                  "text": "A Praia de Ladróns egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.736767,
+                        42.413774
+                  ]
+            },
+            {
+                  "name": "A Praíña dos Praceres",
+                  "text": "A A Praíña dos Praceres egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.684533,
+                        42.405539
+                  ]
+            },
+            {
+                  "name": "Praia Cabeceira",
+                  "text": "A Praia Cabeceira egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.682123,
+                        42.422162
+                  ]
+            },
+            {
+                  "name": "Praia do Polvorín",
+                  "text": "A Praia do Polvorín egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.677306,
+                        42.420731
+                  ]
+            },
+            {
+                  "name": "Praia do Cuncheiro",
+                  "text": "A Praia do Cuncheiro egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683185,
+                        42.406975
+                  ]
+            },
+            {
+                  "name": "Praia do Covelo",
+                  "text": "A Praia do Covelo egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.730785,
+                        42.416966
+                  ]
+            },
+            {
+                  "name": "A Area da Barca",
+                  "text": "A A Area da Barca egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.727816,
+                        42.417636
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas Pequena",
+                  "text": "A Praia de Chancelas Pequena egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715472,
+                        42.421933
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas",
+                  "text": "A Praia de Chancelas egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.718774,
+                        42.422606
+                  ]
+            },
+            {
+                  "name": "Praia do Laño",
+                  "text": "A Praia do Laño egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.738561,
+                        42.413748
+                  ]
+            },
+            {
+                  "name": "Praia do Caeiro",
+                  "text": "A Praia do Caeiro egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.733237,
+                        42.41531
+                  ]
+            },
+            {
+                  "name": "Praia de Ouriceira",
+                  "text": "A Praia de Ouriceira egy festői tengerpart Combarro partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.722629,
+                        42.42119
                   ]
             }
       ],
@@ -19300,6 +25458,114 @@ export const poiExtraEsV2: POI[] = [
                         -8.685101,
                         42.446457
                   ]
+            },
+            {
+                  "name": "Praia de Ladróns",
+                  "text": "Praia de Ladróns este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.736767,
+                        42.413774
+                  ]
+            },
+            {
+                  "name": "A Praíña dos Praceres",
+                  "text": "A Praíña dos Praceres este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.684533,
+                        42.405539
+                  ]
+            },
+            {
+                  "name": "Praia Cabeceira",
+                  "text": "Praia Cabeceira este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.682123,
+                        42.422162
+                  ]
+            },
+            {
+                  "name": "Praia do Polvorín",
+                  "text": "Praia do Polvorín este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.677306,
+                        42.420731
+                  ]
+            },
+            {
+                  "name": "Praia do Cuncheiro",
+                  "text": "Praia do Cuncheiro este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683185,
+                        42.406975
+                  ]
+            },
+            {
+                  "name": "Praia do Covelo",
+                  "text": "Praia do Covelo este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.730785,
+                        42.416966
+                  ]
+            },
+            {
+                  "name": "A Area da Barca",
+                  "text": "A Area da Barca este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.727816,
+                        42.417636
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas Pequena",
+                  "text": "Praia de Chancelas Pequena este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715472,
+                        42.421933
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas",
+                  "text": "Praia de Chancelas este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.718774,
+                        42.422606
+                  ]
+            },
+            {
+                  "name": "Praia do Laño",
+                  "text": "Praia do Laño este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.738561,
+                        42.413748
+                  ]
+            },
+            {
+                  "name": "Praia do Caeiro",
+                  "text": "Praia do Caeiro este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.733237,
+                        42.41531
+                  ]
+            },
+            {
+                  "name": "Praia de Ouriceira",
+                  "text": "Praia de Ouriceira este o plajă pitorească situată în zona de coastă a orașului Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.722629,
+                        42.42119
+                  ]
             }
       ],
       "en": [
@@ -19412,6 +25678,114 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.685101,
                         42.446457
+                  ]
+            },
+            {
+                  "name": "Praia de Ladróns",
+                  "text": "Praia de Ladróns is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.736767,
+                        42.413774
+                  ]
+            },
+            {
+                  "name": "A Praíña dos Praceres",
+                  "text": "A Praíña dos Praceres is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.684533,
+                        42.405539
+                  ]
+            },
+            {
+                  "name": "Praia Cabeceira",
+                  "text": "Praia Cabeceira is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.682123,
+                        42.422162
+                  ]
+            },
+            {
+                  "name": "Praia do Polvorín",
+                  "text": "Praia do Polvorín is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.677306,
+                        42.420731
+                  ]
+            },
+            {
+                  "name": "Praia do Cuncheiro",
+                  "text": "Praia do Cuncheiro is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683185,
+                        42.406975
+                  ]
+            },
+            {
+                  "name": "Praia do Covelo",
+                  "text": "Praia do Covelo is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.730785,
+                        42.416966
+                  ]
+            },
+            {
+                  "name": "A Area da Barca",
+                  "text": "A Area da Barca is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.727816,
+                        42.417636
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas Pequena",
+                  "text": "Praia de Chancelas Pequena is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715472,
+                        42.421933
+                  ]
+            },
+            {
+                  "name": "Praia de Chancelas",
+                  "text": "Praia de Chancelas is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.718774,
+                        42.422606
+                  ]
+            },
+            {
+                  "name": "Praia do Laño",
+                  "text": "Praia do Laño is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.738561,
+                        42.413748
+                  ]
+            },
+            {
+                  "name": "Praia do Caeiro",
+                  "text": "Praia do Caeiro is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.733237,
+                        42.41531
+                  ]
+            },
+            {
+                  "name": "Praia de Ouriceira",
+                  "text": "Praia de Ouriceira is a scenic beach located in the coastal area of Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.722629,
+                        42.42119
                   ]
             }
       ]
@@ -22989,6 +29363,42 @@ export const poiExtraEsV2: POI[] = [
                         -6.139807,
                         43.550726
                   ]
+            },
+            {
+                  "name": "Playa de Cazonera",
+                  "text": "Playa de Cazonera ist ein Strand in Cudillero, der sich zum Entspannen und Schwimmen eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.097051,
+                        43.558083
+                  ]
+            },
+            {
+                  "name": "Playa Mexa La Yegua / Playa de Los Chalanos",
+                  "text": "Playa Mexa La Yegua / Playa de Los Chalanos ist ein Strand in Cudillero, der sich zum Entspannen und Schwimmen eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.102222,
+                        43.559678
+                  ]
+            },
+            {
+                  "name": "Concha de Artedo",
+                  "text": "Concha de Artedo ist ein berühmter muschelförmiger Strand in Cudillero, Asturien. Er ist eine geschützte Naturlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188015,
+                        43.564109
+                  ]
+            },
+            {
+                  "name": "Playa de Aguilar",
+                  "text": "Ein schöner Strand in Cudillero, der für seine einzigartigen Felsformationen und den goldenen Sand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.118398,
+                        43.55522
+                  ]
             }
       ],
       "hu": [
@@ -23152,6 +29562,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.139807,
                         43.550726
+                  ]
+            },
+            {
+                  "name": "Playa de Cazonera",
+                  "text": "A(z) Playa de Cazonera egy strand Cudillero területén, amely pihenésre és úszásra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.097051,
+                        43.558083
+                  ]
+            },
+            {
+                  "name": "Playa Mexa La Yegua / Playa de Los Chalanos",
+                  "text": "A(z) Playa Mexa La Yegua / Playa de Los Chalanos egy strand Cudillero területén, amely pihenésre és úszásra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.102222,
+                        43.559678
+                  ]
+            },
+            {
+                  "name": "Concha de Artedo",
+                  "text": "A Concha de Artedo egy híres kagyló alakú strand Asturias tartományban, Cudillero közelében. Védett természeti terület.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188015,
+                        43.564109
+                  ]
+            },
+            {
+                  "name": "Playa de Aguilar",
+                  "text": "Cudillero gyönyörű strandja, amely egyedülálló sziklaalakzatairól és arany homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.118398,
+                        43.55522
                   ]
             }
       ],
@@ -23317,6 +29763,42 @@ export const poiExtraEsV2: POI[] = [
                         -6.139807,
                         43.550726
                   ]
+            },
+            {
+                  "name": "Playa de Cazonera",
+                  "text": "Playa de Cazonera este o plajă în Cudillero, potrivită pentru relaxare și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.097051,
+                        43.558083
+                  ]
+            },
+            {
+                  "name": "Playa Mexa La Yegua / Playa de Los Chalanos",
+                  "text": "Playa Mexa La Yegua / Playa de Los Chalanos este o plajă în Cudillero, potrivită pentru relaxare și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.102222,
+                        43.559678
+                  ]
+            },
+            {
+                  "name": "Concha de Artedo",
+                  "text": "Concha de Artedo este o plajă faimoasă în formă de scoică din Cudillero, Asturias. Este un peisaj natural protejat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188015,
+                        43.564109
+                  ]
+            },
+            {
+                  "name": "Playa de Aguilar",
+                  "text": "O plajă frumoasă din Cudillero, cunoscută pentru formațiunile stâncoase unice și nisipul auriu.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.118398,
+                        43.55522
+                  ]
             }
       ],
       "en": [
@@ -23480,6 +29962,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.139807,
                         43.550726
+                  ]
+            },
+            {
+                  "name": "Playa de Cazonera",
+                  "text": "Playa de Cazonera is a beach in Cudillero suitable for relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.097051,
+                        43.558083
+                  ]
+            },
+            {
+                  "name": "Playa Mexa La Yegua / Playa de Los Chalanos",
+                  "text": "Playa Mexa La Yegua / Playa de Los Chalanos is a beach in Cudillero suitable for relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.102222,
+                        43.559678
+                  ]
+            },
+            {
+                  "name": "Concha de Artedo",
+                  "text": "Concha de Artedo is a famous shell-shaped beach in Cudillero, Asturias. It is a protected natural landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188015,
+                        43.564109
+                  ]
+            },
+            {
+                  "name": "Playa de Aguilar",
+                  "text": "A beautiful beach in Cudillero known for its unique rock formations and golden sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.118398,
+                        43.55522
                   ]
             }
       ]
@@ -25007,6 +31525,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.157513,
                         36.418184
                   ]
+            },
+            {
+                  "name": "Playa del Angel",
+                  "text": "Ein Strand in der Küstenstadt Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.127557,
+                        36.4281
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalobón",
+                  "text": "Ein Sandstrand im westlichen Teil von Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.176542,
+                        36.41448
+                  ]
             }
       ],
       "hu": [
@@ -25152,6 +31688,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.157513,
                         36.418184
+                  ]
+            },
+            {
+                  "name": "Playa del Angel",
+                  "text": "Strand Estepona tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.127557,
+                        36.4281
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalobón",
+                  "text": "Homokos strand Estepona nyugati részén.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.176542,
+                        36.41448
                   ]
             }
       ],
@@ -25299,6 +31853,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.157513,
                         36.418184
                   ]
+            },
+            {
+                  "name": "Playa del Angel",
+                  "text": "O plajă situată în orașul de coastă Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.127557,
+                        36.4281
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalobón",
+                  "text": "O plajă cu nisip situată în partea de vest a orașului Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.176542,
+                        36.41448
+                  ]
             }
       ],
       "en": [
@@ -25444,6 +32016,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.157513,
                         36.418184
+                  ]
+            },
+            {
+                  "name": "Playa del Angel",
+                  "text": "A beach located in the coastal city of Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.127557,
+                        36.4281
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalobón",
+                  "text": "A sandy beach situated in the western part of Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.176542,
+                        36.41448
                   ]
             }
       ]
@@ -26867,6 +33457,15 @@ export const poiExtraEsV2: POI[] = [
                         -2.203605,
                         43.302754
                   ]
+            },
+            {
+                  "name": "Karramarro",
+                  "text": "Ein kleiner Strandabschnitt an der Küste von Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.189538,
+                        43.292205
+                  ]
             }
       ],
       "hu": [
@@ -26982,6 +33581,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.203605,
                         43.302754
+                  ]
+            },
+            {
+                  "name": "Karramarro",
+                  "text": "Egy kis strand szakasz Getaria partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.189538,
+                        43.292205
                   ]
             }
       ],
@@ -27099,6 +33707,15 @@ export const poiExtraEsV2: POI[] = [
                         -2.203605,
                         43.302754
                   ]
+            },
+            {
+                  "name": "Karramarro",
+                  "text": "O mică secțiune de plajă pe coasta din Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.189538,
+                        43.292205
+                  ]
             }
       ],
       "en": [
@@ -27214,6 +33831,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.203605,
                         43.302754
+                  ]
+            },
+            {
+                  "name": "Karramarro",
+                  "text": "A small beach section on the coast of Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.189538,
+                        43.292205
                   ]
             }
       ]
@@ -28425,6 +35051,15 @@ export const poiExtraEsV2: POI[] = [
                         -0.64584,
                         38.093712
                   ]
+            },
+            {
+                  "name": "Platja dels Vivers",
+                  "text": "Ein Sandstrand in Guardamar del Segura, der an einen geschützten Dünenwald grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.644353,
+                        38.102938
+                  ]
             }
       ],
       "hu": [
@@ -28678,6 +35313,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.64584,
                         38.093712
+                  ]
+            },
+            {
+                  "name": "Platja dels Vivers",
+                  "text": "Guardamar del Segura homokos strandja, amely egy védett dűneerdővel határos.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.644353,
+                        38.102938
                   ]
             }
       ],
@@ -28933,6 +35577,15 @@ export const poiExtraEsV2: POI[] = [
                         -0.64584,
                         38.093712
                   ]
+            },
+            {
+                  "name": "Platja dels Vivers",
+                  "text": "O plajă cu nisip în Guardamar del Segura, ce se învecinează cu o pădure de dune protejată.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.644353,
+                        38.102938
+                  ]
             }
       ],
       "en": [
@@ -29187,6 +35840,15 @@ export const poiExtraEsV2: POI[] = [
                         -0.64584,
                         38.093712
                   ]
+            },
+            {
+                  "name": "Platja dels Vivers",
+                  "text": "A sandy beach in Guardamar del Segura bordering a protected dune forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.644353,
+                        38.102938
+                  ]
             }
       ]
 }},
@@ -29432,6 +36094,15 @@ export const poiExtraEsV2: POI[] = [
                         -1.787775,
                         43.339973
                   ]
+            },
+            {
+                  "name": "Hondarribiko hondartza",
+                  "text": "Der weitläufige Hauptstrand der baskischen Stadt Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.795126,
+                        43.379655
+                  ]
             }
       ],
       "hu": [
@@ -29674,6 +36345,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.787775,
                         43.339973
+                  ]
+            },
+            {
+                  "name": "Hondarribiko hondartza",
+                  "text": "A baszkföldi Hondarribia városának tágas központi strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.795126,
+                        43.379655
                   ]
             }
       ],
@@ -29918,6 +36598,15 @@ export const poiExtraEsV2: POI[] = [
                         -1.787775,
                         43.339973
                   ]
+            },
+            {
+                  "name": "Hondarribiko hondartza",
+                  "text": "Principala plajă largă a orașului basc Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.795126,
+                        43.379655
+                  ]
             }
       ],
       "en": [
@@ -30161,6 +36850,15 @@ export const poiExtraEsV2: POI[] = [
                         -1.787775,
                         43.339973
                   ]
+            },
+            {
+                  "name": "Hondarribiko hondartza",
+                  "text": "The spacious main beach of the Basque town of Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.795126,
+                        43.379655
+                  ]
             }
       ]
 }},
@@ -30312,6 +37010,33 @@ export const poiExtraEsV2: POI[] = [
                         1.430086,
                         38.906153
                   ]
+            },
+            {
+                  "name": "Platja dels Molins",
+                  "text": "Ein Stadtstrand in Ibiza-Stadt, der Entspannung nahe dem Zentrum bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.432463,
+                        38.903251
+                  ]
+            },
+            {
+                  "name": "Platja de Benirràs",
+                  "text": "Ein bekannter Strand auf Ibiza, berühmt für seine Sonnenuntergänge und Trommel-Events.",
+                  "category": "recreational",
+                  "coords": [
+                        1.461165,
+                        38.91774
+                  ]
+            },
+            {
+                  "name": "Platja de Figueres",
+                  "text": "Ein beliebter Strand im Viertel Figueretas von Ibiza-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.46011,
+                        38.918212
+                  ]
             }
       ],
       "hu": [
@@ -30460,6 +37185,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.430086,
                         38.906153
+                  ]
+            },
+            {
+                  "name": "Platja dels Molins",
+                  "text": "Városi strand Ibiza városában, amely kikapcsolódást kínál a központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.432463,
+                        38.903251
+                  ]
+            },
+            {
+                  "name": "Platja de Benirràs",
+                  "text": "Ismert strand Ibizán, amely híres a naplementéiről és dobos rendezvényeiről.",
+                  "category": "recreational",
+                  "coords": [
+                        1.461165,
+                        38.91774
+                  ]
+            },
+            {
+                  "name": "Platja de Figueres",
+                  "text": "Népszerű strand Ibiza városának Figueretas negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.46011,
+                        38.918212
                   ]
             }
       ],
@@ -30610,6 +37362,33 @@ export const poiExtraEsV2: POI[] = [
                         1.430086,
                         38.906153
                   ]
+            },
+            {
+                  "name": "Platja dels Molins",
+                  "text": "O plajă urbană în orașul Ibiza, oferind relaxare aproape de centru.",
+                  "category": "recreational",
+                  "coords": [
+                        1.432463,
+                        38.903251
+                  ]
+            },
+            {
+                  "name": "Platja de Benirràs",
+                  "text": "O plajă cunoscută în Ibiza, celebră pentru apusurile sale și evenimentele cu toboșari.",
+                  "category": "recreational",
+                  "coords": [
+                        1.461165,
+                        38.91774
+                  ]
+            },
+            {
+                  "name": "Platja de Figueres",
+                  "text": "O plajă populară în cartierul Figueretas din orașul Ibiza.",
+                  "category": "recreational",
+                  "coords": [
+                        1.46011,
+                        38.918212
+                  ]
             }
       ],
       "en": [
@@ -30758,6 +37537,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.430086,
                         38.906153
+                  ]
+            },
+            {
+                  "name": "Platja dels Molins",
+                  "text": "A city beach in Ibiza Town offering relaxation near the center.",
+                  "category": "recreational",
+                  "coords": [
+                        1.432463,
+                        38.903251
+                  ]
+            },
+            {
+                  "name": "Platja de Benirràs",
+                  "text": "A well-known beach in Ibiza, famous for its sunsets and drumming events.",
+                  "category": "recreational",
+                  "coords": [
+                        1.461165,
+                        38.91774
+                  ]
+            },
+            {
+                  "name": "Platja de Figueres",
+                  "text": "A popular beach in the Figueretas neighborhood of Ibiza Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.46011,
+                        38.918212
                   ]
             }
       ]
@@ -31611,6 +38417,15 @@ export const poiExtraEsV2: POI[] = [
                         0.18205,
                         38.792281
                   ]
+            },
+            {
+                  "name": "Platgeta del Pope",
+                  "text": "Ein kleinerer Strandabschnitt zum Baden und Entspannen in Jávea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.189486,
+                        38.799404
+                  ]
             }
       ],
       "hu": [
@@ -31774,6 +38589,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.18205,
                         38.792281
+                  ]
+            },
+            {
+                  "name": "Platgeta del Pope",
+                  "text": "Kisebb tengerparti fürdőhely Jávea területén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.189486,
+                        38.799404
                   ]
             }
       ],
@@ -31939,6 +38763,15 @@ export const poiExtraEsV2: POI[] = [
                         0.18205,
                         38.792281
                   ]
+            },
+            {
+                  "name": "Platgeta del Pope",
+                  "text": "O secțiune mai mică de plajă pentru înot și relaxare în Jávea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.189486,
+                        38.799404
+                  ]
             }
       ],
       "en": [
@@ -32102,6 +38935,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.18205,
                         38.792281
+                  ]
+            },
+            {
+                  "name": "Platgeta del Pope",
+                  "text": "A smaller beach area for swimming and relaxation in Jávea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.189486,
+                        38.799404
                   ]
             }
       ]
@@ -32317,6 +39159,132 @@ export const poiExtraEsV2: POI[] = [
                         -0.719666,
                         37.648662
                   ]
+            },
+            {
+                  "name": "Playa de la Isla",
+                  "text": "Playa de la Isla ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.733043,
+                        37.668963
+                  ]
+            },
+            {
+                  "name": "Playa de Monteblanco",
+                  "text": "Playa de Monteblanco ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724457,
+                        37.665086
+                  ]
+            },
+            {
+                  "name": "Playa Calnegre",
+                  "text": "Playa Calnegre ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.72602,
+                        37.667369
+                  ]
+            },
+            {
+                  "name": "El Vivero",
+                  "text": "El Vivero ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.721651,
+                        37.645383
+                  ]
+            },
+            {
+                  "name": "Bahía de las Palmeras",
+                  "text": "Bahía de las Palmeras ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.730353,
+                        37.662428
+                  ]
+            },
+            {
+                  "name": "Playa Cavanna",
+                  "text": "Playa Cavanna ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.725672,
+                        37.659808
+                  ]
+            },
+            {
+                  "name": "Isla del Ciervo",
+                  "text": "Isla del Ciervo ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729664,
+                        37.661295
+                  ]
+            },
+            {
+                  "name": "La Gola",
+                  "text": "La Gola ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.722733,
+                        37.650158
+                  ]
+            },
+            {
+                  "name": "Playa Banco del Tabal",
+                  "text": "Playa Banco del Tabal ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.728891,
+                        37.672905
+                  ]
+            },
+            {
+                  "name": "Playa de Levante de Islas Menores",
+                  "text": "Playa de Levante de Islas Menores ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.764032,
+                        37.644388
+                  ]
+            },
+            {
+                  "name": "Playa Lomas del Castillico",
+                  "text": "Playa Lomas del Castillico ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.744892,
+                        37.633364
+                  ]
+            },
+            {
+                  "name": "Playa de Mar de Cristal",
+                  "text": "Playa de Mar de Cristal ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.758084,
+                        37.641891
+                  ]
+            },
+            {
+                  "name": "Playa de Poniente de Islas Menores",
+                  "text": "Playa de Poniente de Islas Menores ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.768653,
+                        37.64643
+                  ]
+            },
+            {
+                  "name": "Playa Honda",
+                  "text": "Playa Honda ist ein beliebter Badestrand am Mar Menor in der Region Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734821,
+                        37.632164
+                  ]
             }
       ],
       "hu": [
@@ -32528,6 +39496,132 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.719666,
                         37.648662
+                  ]
+            },
+            {
+                  "name": "Playa de la Isla",
+                  "text": "A Playa de la Isla egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.733043,
+                        37.668963
+                  ]
+            },
+            {
+                  "name": "Playa de Monteblanco",
+                  "text": "A Playa de Monteblanco egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724457,
+                        37.665086
+                  ]
+            },
+            {
+                  "name": "Playa Calnegre",
+                  "text": "A Playa Calnegre egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.72602,
+                        37.667369
+                  ]
+            },
+            {
+                  "name": "El Vivero",
+                  "text": "A El Vivero egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.721651,
+                        37.645383
+                  ]
+            },
+            {
+                  "name": "Bahía de las Palmeras",
+                  "text": "A Bahía de las Palmeras egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.730353,
+                        37.662428
+                  ]
+            },
+            {
+                  "name": "Playa Cavanna",
+                  "text": "A Playa Cavanna egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.725672,
+                        37.659808
+                  ]
+            },
+            {
+                  "name": "Isla del Ciervo",
+                  "text": "A Isla del Ciervo egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729664,
+                        37.661295
+                  ]
+            },
+            {
+                  "name": "La Gola",
+                  "text": "A La Gola egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.722733,
+                        37.650158
+                  ]
+            },
+            {
+                  "name": "Playa Banco del Tabal",
+                  "text": "A Playa Banco del Tabal egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.728891,
+                        37.672905
+                  ]
+            },
+            {
+                  "name": "Playa de Levante de Islas Menores",
+                  "text": "A Playa de Levante de Islas Menores egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.764032,
+                        37.644388
+                  ]
+            },
+            {
+                  "name": "Playa Lomas del Castillico",
+                  "text": "A Playa Lomas del Castillico egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.744892,
+                        37.633364
+                  ]
+            },
+            {
+                  "name": "Playa de Mar de Cristal",
+                  "text": "A Playa de Mar de Cristal egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.758084,
+                        37.641891
+                  ]
+            },
+            {
+                  "name": "Playa de Poniente de Islas Menores",
+                  "text": "A Playa de Poniente de Islas Menores egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.768653,
+                        37.64643
+                  ]
+            },
+            {
+                  "name": "Playa Honda",
+                  "text": "A Playa Honda egy népszerű strand a Mar Menor partján, Murcia régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734821,
+                        37.632164
                   ]
             }
       ],
@@ -32741,6 +39835,132 @@ export const poiExtraEsV2: POI[] = [
                         -0.719666,
                         37.648662
                   ]
+            },
+            {
+                  "name": "Playa de la Isla",
+                  "text": "Playa de la Isla este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.733043,
+                        37.668963
+                  ]
+            },
+            {
+                  "name": "Playa de Monteblanco",
+                  "text": "Playa de Monteblanco este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724457,
+                        37.665086
+                  ]
+            },
+            {
+                  "name": "Playa Calnegre",
+                  "text": "Playa Calnegre este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.72602,
+                        37.667369
+                  ]
+            },
+            {
+                  "name": "El Vivero",
+                  "text": "El Vivero este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.721651,
+                        37.645383
+                  ]
+            },
+            {
+                  "name": "Bahía de las Palmeras",
+                  "text": "Bahía de las Palmeras este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.730353,
+                        37.662428
+                  ]
+            },
+            {
+                  "name": "Playa Cavanna",
+                  "text": "Playa Cavanna este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.725672,
+                        37.659808
+                  ]
+            },
+            {
+                  "name": "Isla del Ciervo",
+                  "text": "Isla del Ciervo este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729664,
+                        37.661295
+                  ]
+            },
+            {
+                  "name": "La Gola",
+                  "text": "La Gola este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.722733,
+                        37.650158
+                  ]
+            },
+            {
+                  "name": "Playa Banco del Tabal",
+                  "text": "Playa Banco del Tabal este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.728891,
+                        37.672905
+                  ]
+            },
+            {
+                  "name": "Playa de Levante de Islas Menores",
+                  "text": "Playa de Levante de Islas Menores este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.764032,
+                        37.644388
+                  ]
+            },
+            {
+                  "name": "Playa Lomas del Castillico",
+                  "text": "Playa Lomas del Castillico este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.744892,
+                        37.633364
+                  ]
+            },
+            {
+                  "name": "Playa de Mar de Cristal",
+                  "text": "Playa de Mar de Cristal este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.758084,
+                        37.641891
+                  ]
+            },
+            {
+                  "name": "Playa de Poniente de Islas Menores",
+                  "text": "Playa de Poniente de Islas Menores este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.768653,
+                        37.64643
+                  ]
+            },
+            {
+                  "name": "Playa Honda",
+                  "text": "Playa Honda este o plajă populară pe malul Mar Menor, în regiunea Murcia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734821,
+                        37.632164
+                  ]
             }
       ],
       "en": [
@@ -32952,6 +40172,132 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.719666,
                         37.648662
+                  ]
+            },
+            {
+                  "name": "Playa de la Isla",
+                  "text": "Playa de la Isla is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.733043,
+                        37.668963
+                  ]
+            },
+            {
+                  "name": "Playa de Monteblanco",
+                  "text": "Playa de Monteblanco is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724457,
+                        37.665086
+                  ]
+            },
+            {
+                  "name": "Playa Calnegre",
+                  "text": "Playa Calnegre is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.72602,
+                        37.667369
+                  ]
+            },
+            {
+                  "name": "El Vivero",
+                  "text": "El Vivero is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.721651,
+                        37.645383
+                  ]
+            },
+            {
+                  "name": "Bahía de las Palmeras",
+                  "text": "Bahía de las Palmeras is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.730353,
+                        37.662428
+                  ]
+            },
+            {
+                  "name": "Playa Cavanna",
+                  "text": "Playa Cavanna is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.725672,
+                        37.659808
+                  ]
+            },
+            {
+                  "name": "Isla del Ciervo",
+                  "text": "Isla del Ciervo is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729664,
+                        37.661295
+                  ]
+            },
+            {
+                  "name": "La Gola",
+                  "text": "La Gola is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.722733,
+                        37.650158
+                  ]
+            },
+            {
+                  "name": "Playa Banco del Tabal",
+                  "text": "Playa Banco del Tabal is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.728891,
+                        37.672905
+                  ]
+            },
+            {
+                  "name": "Playa de Levante de Islas Menores",
+                  "text": "Playa de Levante de Islas Menores is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.764032,
+                        37.644388
+                  ]
+            },
+            {
+                  "name": "Playa Lomas del Castillico",
+                  "text": "Playa Lomas del Castillico is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.744892,
+                        37.633364
+                  ]
+            },
+            {
+                  "name": "Playa de Mar de Cristal",
+                  "text": "Playa de Mar de Cristal is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.758084,
+                        37.641891
+                  ]
+            },
+            {
+                  "name": "Playa de Poniente de Islas Menores",
+                  "text": "Playa de Poniente de Islas Menores is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.768653,
+                        37.64643
+                  ]
+            },
+            {
+                  "name": "Playa Honda",
+                  "text": "Playa Honda is a popular swimming beach on the Mar Menor in the Murcia region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734821,
+                        37.632164
                   ]
             }
       ]
@@ -34470,6 +41816,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.74034,
                         43.415661
                   ]
+            },
+            {
+                  "name": "Puertu Chicu",
+                  "text": "Ein kleiner Sandstrand direkt im Hafengebiet von Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.747544,
+                        43.418906
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "Ein abgelegener Strand in Llanes, der nur zu Fuß erreichbar ist und unberührte Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.793992,
+                        43.432394
+                  ]
+            },
+            {
+                  "name": "Amenada",
+                  "text": "Ein ruhiger Küstenstreifen in Llanes, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.789523,
+                        43.433802
+                  ]
             }
       ],
       "hu": [
@@ -34680,6 +42053,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.74034,
                         43.415661
+                  ]
+            },
+            {
+                  "name": "Puertu Chicu",
+                  "text": "Kisméretű homokos strand közvetlenül Llanes kikötőjének területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.747544,
+                        43.418906
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "Elszigetelt strand Llanesben, amely csak gyalogosan érhető el, és érintetlen természetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.793992,
+                        43.432394
+                  ]
+            },
+            {
+                  "name": "Amenada",
+                  "text": "Csendes tengerparti szakasz Llanesben, amely ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.789523,
+                        43.433802
                   ]
             }
       ],
@@ -34892,6 +42292,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.74034,
                         43.415661
                   ]
+            },
+            {
+                  "name": "Puertu Chicu",
+                  "text": "O mică plajă cu nisip situată direct în zona portului din Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.747544,
+                        43.418906
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "O plajă izolată în Llanes, accesibilă doar pe jos, oferind o natură virgină.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.793992,
+                        43.432394
+                  ]
+            },
+            {
+                  "name": "Amenada",
+                  "text": "O fâșie de coastă liniștită în Llanes, ideală pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.789523,
+                        43.433802
+                  ]
             }
       ],
       "en": [
@@ -35103,6 +42530,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.74034,
                         43.415661
                   ]
+            },
+            {
+                  "name": "Puertu Chicu",
+                  "text": "A small sandy beach located directly within the harbor area of Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.747544,
+                        43.418906
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "A secluded beach in Llanes, accessible only on foot, offering unspoiled natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.793992,
+                        43.432394
+                  ]
+            },
+            {
+                  "name": "Amenada",
+                  "text": "A quiet coastal stretch in Llanes, ideal for those seeking a peaceful natural environment.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.789523,
+                        43.433802
+                  ]
             }
       ]
 }},
@@ -35310,6 +42764,42 @@ export const poiExtraEsV2: POI[] = [
                         2.847532,
                         41.699686
                   ]
+            },
+            {
+                  "name": "Platja de sa Boadella",
+                  "text": "Platja de sa Boadella ist ein malerischer Sandstrand bei Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.824113,
+                        41.690715
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Cristina",
+                  "text": "Platja de Santa Cristina ist ein Strand in Lloret de Mar mit einer Kapelle.",
+                  "category": "recreational",
+                  "coords": [
+                        2.818285,
+                        41.688147
+                  ]
+            },
+            {
+                  "name": "Platja de sa Cova",
+                  "text": "Platja de sa Cova ist eine kleine, geschützte Bucht in Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.823079,
+                        41.69018
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "Ein familienfreundlicher Freizeitpark in Lloret de Mar mit verschiedenen Spielbereichen und Outdoor-Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
+                  ]
             }
       ],
       "hu": [
@@ -35514,6 +43004,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.847532,
                         41.699686
+                  ]
+            },
+            {
+                  "name": "Platja de sa Boadella",
+                  "text": "A Platja de sa Boadella egy festői homokos tengerpart Lloret de Mar közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.824113,
+                        41.690715
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Cristina",
+                  "text": "A Platja de Santa Cristina egy tengerpart Lloret de Marban, egy kápolnával.",
+                  "category": "recreational",
+                  "coords": [
+                        2.818285,
+                        41.688147
+                  ]
+            },
+            {
+                  "name": "Platja de sa Cova",
+                  "text": "A Platja de sa Cova egy kis, védett öböl Lloret de Mar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.823079,
+                        41.69018
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "Családbarát vidámpark Lloret de Marban, különféle játszóterekkel és szabadtéri tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
                   ]
             }
       ],
@@ -35720,6 +43246,42 @@ export const poiExtraEsV2: POI[] = [
                         2.847532,
                         41.699686
                   ]
+            },
+            {
+                  "name": "Platja de sa Boadella",
+                  "text": "Platja de sa Boadella este o plajă de nisip pitorească de lângă Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.824113,
+                        41.690715
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Cristina",
+                  "text": "Platja de Santa Cristina este o plajă din Lloret de Mar, situată lângă o capelă.",
+                  "category": "recreational",
+                  "coords": [
+                        2.818285,
+                        41.688147
+                  ]
+            },
+            {
+                  "name": "Platja de sa Cova",
+                  "text": "Platja de sa Cova este un mic golf protejat din Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.823079,
+                        41.69018
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "Un parc de distracții pentru familii în Lloret de Mar, cu diverse zone de joacă și activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
+                  ]
             }
       ],
       "en": [
@@ -35924,6 +43486,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.847532,
                         41.699686
+                  ]
+            },
+            {
+                  "name": "Platja de sa Boadella",
+                  "text": "Platja de sa Boadella is a picturesque sandy beach near Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.824113,
+                        41.690715
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Cristina",
+                  "text": "Platja de Santa Cristina is a beach in Lloret de Mar located next to a chapel.",
+                  "category": "recreational",
+                  "coords": [
+                        2.818285,
+                        41.688147
+                  ]
+            },
+            {
+                  "name": "Platja de sa Cova",
+                  "text": "Platja de sa Cova is a small, protected cove in Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.823079,
+                        41.69018
+                  ]
+            },
+            {
+                  "name": "Gnomo Park",
+                  "text": "A family-friendly theme park in Lloret de Mar with various play areas and outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        2.814181,
+                        41.693486
                   ]
             }
       ]
@@ -37953,6 +45551,24 @@ export const poiExtraEsV2: POI[] = [
                         4.267583,
                         39.889321
                   ]
+            },
+            {
+                  "name": "Cala Mesquida",
+                  "text": "Cala Mesquida ist ein malerischer Sandstrand in einer Bucht nahe Maó auf Menorca.",
+                  "category": "recreational",
+                  "coords": [
+                        4.286428,
+                        39.915661
+                  ]
+            },
+            {
+                  "name": "Arenal petit de sa mesquida",
+                  "text": "Arenal petit de sa mesquida ist ein kleinerer Strandabschnitt innerhalb der Bucht von Sa Mesquida.",
+                  "category": "recreational",
+                  "coords": [
+                        4.285823,
+                        39.912056
+                  ]
             }
       ],
       "hu": [
@@ -38231,6 +45847,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         4.267583,
                         39.889321
+                  ]
+            },
+            {
+                  "name": "Cala Mesquida",
+                  "text": "A Cala Mesquida egy festői homokos strand egy öbölben, Maó közelében, Menorcán.",
+                  "category": "recreational",
+                  "coords": [
+                        4.286428,
+                        39.915661
+                  ]
+            },
+            {
+                  "name": "Arenal petit de sa mesquida",
+                  "text": "Az Arenal petit de sa mesquida egy kisebb strand szakasz a Sa Mesquida-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.285823,
+                        39.912056
                   ]
             }
       ],
@@ -38511,6 +46145,24 @@ export const poiExtraEsV2: POI[] = [
                         4.267583,
                         39.889321
                   ]
+            },
+            {
+                  "name": "Cala Mesquida",
+                  "text": "Cala Mesquida este o plajă pitorească de nisip situată într-un golf lângă Maó, în Menorca.",
+                  "category": "recreational",
+                  "coords": [
+                        4.286428,
+                        39.915661
+                  ]
+            },
+            {
+                  "name": "Arenal petit de sa mesquida",
+                  "text": "Arenal petit de sa mesquida este o secțiune de plajă mai mică în golful Sa Mesquida.",
+                  "category": "recreational",
+                  "coords": [
+                        4.285823,
+                        39.912056
+                  ]
             }
       ],
       "en": [
@@ -38789,6 +46441,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         4.267583,
                         39.889321
+                  ]
+            },
+            {
+                  "name": "Cala Mesquida",
+                  "text": "Cala Mesquida is a scenic sandy beach in a bay near Maó, Menorca.",
+                  "category": "recreational",
+                  "coords": [
+                        4.286428,
+                        39.915661
+                  ]
+            },
+            {
+                  "name": "Arenal petit de sa mesquida",
+                  "text": "Arenal petit de sa mesquida is a smaller beach section within the Sa Mesquida bay.",
+                  "category": "recreational",
+                  "coords": [
+                        4.285823,
+                        39.912056
                   ]
             }
       ]
@@ -40627,6 +48297,42 @@ export const poiExtraEsV2: POI[] = [
                         -1.879588,
                         37.122329
                   ]
+            },
+            {
+                  "name": "Playa de Marina de la Torre",
+                  "text": "Ein schöner Strand in Mojácar, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.823949,
+                        37.159468
+                  ]
+            },
+            {
+                  "name": "Playa Venta del Bancal",
+                  "text": "Ein schöner Strand in Mojácar, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.846378,
+                        37.102314
+                  ]
+            },
+            {
+                  "name": "Playa de las Ventanicas",
+                  "text": "Ein schöner Strand in Mojácar, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.84494,
+                        37.107535
+                  ]
+            },
+            {
+                  "name": "Playa de la Piedra Villazar",
+                  "text": "Ein schöner Strand in Mojácar, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.829737,
+                        37.132826
+                  ]
             }
       ],
       "hu": [
@@ -40817,6 +48523,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.879588,
                         37.122329
+                  ]
+            },
+            {
+                  "name": "Playa de Marina de la Torre",
+                  "text": "Kellemes tengerpart Mojácar területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.823949,
+                        37.159468
+                  ]
+            },
+            {
+                  "name": "Playa Venta del Bancal",
+                  "text": "Kellemes tengerpart Mojácar területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.846378,
+                        37.102314
+                  ]
+            },
+            {
+                  "name": "Playa de las Ventanicas",
+                  "text": "Kellemes tengerpart Mojácar területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.84494,
+                        37.107535
+                  ]
+            },
+            {
+                  "name": "Playa de la Piedra Villazar",
+                  "text": "Kellemes tengerpart Mojácar területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.829737,
+                        37.132826
                   ]
             }
       ],
@@ -41009,6 +48751,42 @@ export const poiExtraEsV2: POI[] = [
                         -1.879588,
                         37.122329
                   ]
+            },
+            {
+                  "name": "Playa de Marina de la Torre",
+                  "text": "O plajă plăcută situată în Mojácar, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.823949,
+                        37.159468
+                  ]
+            },
+            {
+                  "name": "Playa Venta del Bancal",
+                  "text": "O plajă plăcută situată în Mojácar, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.846378,
+                        37.102314
+                  ]
+            },
+            {
+                  "name": "Playa de las Ventanicas",
+                  "text": "O plajă plăcută situată în Mojácar, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.84494,
+                        37.107535
+                  ]
+            },
+            {
+                  "name": "Playa de la Piedra Villazar",
+                  "text": "O plajă plăcută situată în Mojácar, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.829737,
+                        37.132826
+                  ]
             }
       ],
       "en": [
@@ -41200,6 +48978,42 @@ export const poiExtraEsV2: POI[] = [
                         -1.879588,
                         37.122329
                   ]
+            },
+            {
+                  "name": "Playa de Marina de la Torre",
+                  "text": "A pleasant beach located in Mojácar, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.823949,
+                        37.159468
+                  ]
+            },
+            {
+                  "name": "Playa Venta del Bancal",
+                  "text": "A pleasant beach located in Mojácar, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.846378,
+                        37.102314
+                  ]
+            },
+            {
+                  "name": "Playa de las Ventanicas",
+                  "text": "A pleasant beach located in Mojácar, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.84494,
+                        37.107535
+                  ]
+            },
+            {
+                  "name": "Playa de la Piedra Villazar",
+                  "text": "A pleasant beach located in Mojácar, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.829737,
+                        37.132826
+                  ]
             }
       ]
 }},
@@ -41335,6 +49149,42 @@ export const poiExtraEsV2: POI[] = [
                         -2.694447,
                         43.397367
                   ]
+            },
+            {
+                  "name": "Basamortu kala",
+                  "text": "Eine kleine Bucht in Mundaka, bekannt für ihre ruhige Lage und natürliche Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699681,
+                        43.41062
+                  ]
+            },
+            {
+                  "name": "Azalene",
+                  "text": "Ein Küstenbereich in Mundaka, der für seine Aussicht auf das Kantabrische Meer geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.675751,
+                        43.411885
+                  ]
+            },
+            {
+                  "name": "Antzora",
+                  "text": "Ein Strandabschnitt bei Mundaka in der Autonomen Gemeinschaft Baskenland.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.680393,
+                        43.408632
+                  ]
+            },
+            {
+                  "name": "Hondartzape",
+                  "text": "Ein felsiger Strandabschnitt in Mundaka, ideal zum Entdecken der Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.701602,
+                        43.413859
+                  ]
             }
       ],
       "hu": [
@@ -41466,6 +49316,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.694447,
                         43.397367
+                  ]
+            },
+            {
+                  "name": "Basamortu kala",
+                  "text": "Egy kis öböl Mundakában, amely csendes elhelyezkedéséről és természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699681,
+                        43.41062
+                  ]
+            },
+            {
+                  "name": "Azalene",
+                  "text": "Mundaka tengerparti területe, amelyet a Kantábriai-tengerre nyíló kilátása miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.675751,
+                        43.411885
+                  ]
+            },
+            {
+                  "name": "Antzora",
+                  "text": "Strandszakasz Mundaka közelében, Baszkföld autonóm közösségében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.680393,
+                        43.408632
+                  ]
+            },
+            {
+                  "name": "Hondartzape",
+                  "text": "Sziklás strandszakasz Mundakában, amely ideális a tengerparti táj felfedezésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.701602,
+                        43.413859
                   ]
             }
       ],
@@ -41599,6 +49485,42 @@ export const poiExtraEsV2: POI[] = [
                         -2.694447,
                         43.397367
                   ]
+            },
+            {
+                  "name": "Basamortu kala",
+                  "text": "Un mic golf în Mundaka, cunoscut pentru locația sa liniștită și frumusețea naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699681,
+                        43.41062
+                  ]
+            },
+            {
+                  "name": "Azalene",
+                  "text": "O zonă de coastă în Mundaka, apreciată pentru vederea sa asupra Mării Cantabrice.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.675751,
+                        43.411885
+                  ]
+            },
+            {
+                  "name": "Antzora",
+                  "text": "O secțiune de plajă lângă Mundaka, în comunitatea autonomă a Țării Bascilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.680393,
+                        43.408632
+                  ]
+            },
+            {
+                  "name": "Hondartzape",
+                  "text": "O secțiune de plajă stâncoasă în Mundaka, ideală pentru explorarea peisajului de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.701602,
+                        43.413859
+                  ]
             }
       ],
       "en": [
@@ -41730,6 +49652,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.694447,
                         43.397367
+                  ]
+            },
+            {
+                  "name": "Basamortu kala",
+                  "text": "A small cove in Mundaka, known for its quiet location and natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699681,
+                        43.41062
+                  ]
+            },
+            {
+                  "name": "Azalene",
+                  "text": "A coastal area in Mundaka appreciated for its view of the Cantabrian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.675751,
+                        43.411885
+                  ]
+            },
+            {
+                  "name": "Antzora",
+                  "text": "A beach section near Mundaka in the autonomous community of the Basque Country.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.680393,
+                        43.408632
+                  ]
+            },
+            {
+                  "name": "Hondartzape",
+                  "text": "A rocky beach section in Mundaka, ideal for exploring the coastal landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.701602,
+                        43.413859
                   ]
             }
       ]
@@ -42005,6 +49963,24 @@ export const poiExtraEsV2: POI[] = [
                         -3.884988,
                         36.745393
                   ]
+            },
+            {
+                  "name": "Playa Carabeo",
+                  "text": "Ein kleiner Stadtstrand in Nerja, erreichbar über eine Treppe.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.872671,
+                        36.74648
+                  ]
+            },
+            {
+                  "name": "Playa de Vilches",
+                  "text": "Ein ruhiger Strand in der Nähe von Nerja, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.912493,
+                        36.742401
+                  ]
             }
       ],
       "hu": [
@@ -42276,6 +50252,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.884988,
                         36.745393
+                  ]
+            },
+            {
+                  "name": "Playa Carabeo",
+                  "text": "Kicsi városi strand Nerjában, amely lépcsőn közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.872671,
+                        36.74648
+                  ]
+            },
+            {
+                  "name": "Playa de Vilches",
+                  "text": "Nyugodt strand Nerja közelében, ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.912493,
+                        36.742401
                   ]
             }
       ],
@@ -42549,6 +50543,24 @@ export const poiExtraEsV2: POI[] = [
                         -3.884988,
                         36.745393
                   ]
+            },
+            {
+                  "name": "Playa Carabeo",
+                  "text": "O mică plajă urbană în Nerja, accesibilă prin intermediul unor trepte.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.872671,
+                        36.74648
+                  ]
+            },
+            {
+                  "name": "Playa de Vilches",
+                  "text": "O plajă liniștită lângă Nerja, ideală pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.912493,
+                        36.742401
+                  ]
             }
       ],
       "en": [
@@ -42821,6 +50833,24 @@ export const poiExtraEsV2: POI[] = [
                         -3.884988,
                         36.745393
                   ]
+            },
+            {
+                  "name": "Playa Carabeo",
+                  "text": "A small urban beach in Nerja accessible via steps.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.872671,
+                        36.74648
+                  ]
+            },
+            {
+                  "name": "Playa de Vilches",
+                  "text": "A quiet beach near Nerja, ideal for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.912493,
+                        36.742401
+                  ]
             }
       ]
 }},
@@ -42981,6 +51011,69 @@ export const poiExtraEsV2: POI[] = [
                         -8.846883,
                         42.4753
                   ]
+            },
+            {
+                  "name": "Praia do Porto Grande",
+                  "text": "Praia do Porto Grande ist ein Strand in der Gemeinde O Grove in Galicien.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.866736,
+                        42.527411
+                  ]
+            },
+            {
+                  "name": "A Praíña do Pedral",
+                  "text": "A Praíña do Pedral ist ein Strand an der Küste von O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86813,
+                        42.532418
+                  ]
+            },
+            {
+                  "name": "Praia Dente de Can",
+                  "text": "Praia Dente de Can ist ein Strand in der galicischen Gemeinde O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.869857,
+                        42.526192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "Praia da Arnela ist ein Strand an der Küste von O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864508,
+                        42.52592
+                  ]
+            },
+            {
+                  "name": "Praia de Peralto",
+                  "text": "Praia de Peralto ist ein Strand in der Gemeinde O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.859586,
+                        42.494805
+                  ]
+            },
+            {
+                  "name": "Praia da Lameira",
+                  "text": "Praia da Lameira ist ein Strand in der galicischen Stadt O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.867946,
+                        42.527338
+                  ]
+            },
+            {
+                  "name": "Praia de Xastelas",
+                  "text": "Praia de Xastelas ist ein Strand in der Gemeinde O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86677,
+                        42.529224
+                  ]
             }
       ],
       "hu": [
@@ -43138,6 +51231,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.846883,
                         42.4753
+                  ]
+            },
+            {
+                  "name": "Praia do Porto Grande",
+                  "text": "A Praia do Porto Grande egy strand a galíciai O Grove községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.866736,
+                        42.527411
+                  ]
+            },
+            {
+                  "name": "A Praíña do Pedral",
+                  "text": "Az A Praíña do Pedral egy strand O Grove partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86813,
+                        42.532418
+                  ]
+            },
+            {
+                  "name": "Praia Dente de Can",
+                  "text": "A Praia Dente de Can egy strand a galíciai O Grove községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.869857,
+                        42.526192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "A Praia da Arnela egy strand O Grove partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864508,
+                        42.52592
+                  ]
+            },
+            {
+                  "name": "Praia de Peralto",
+                  "text": "A Praia de Peralto egy strand O Grove községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.859586,
+                        42.494805
+                  ]
+            },
+            {
+                  "name": "Praia da Lameira",
+                  "text": "A Praia da Lameira egy strand a galíciai O Grove városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.867946,
+                        42.527338
+                  ]
+            },
+            {
+                  "name": "Praia de Xastelas",
+                  "text": "A Praia de Xastelas egy strand O Grove községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86677,
+                        42.529224
                   ]
             }
       ],
@@ -43297,6 +51453,69 @@ export const poiExtraEsV2: POI[] = [
                         -8.846883,
                         42.4753
                   ]
+            },
+            {
+                  "name": "Praia do Porto Grande",
+                  "text": "Praia do Porto Grande este o plajă în municipiul O Grove din Galicia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.866736,
+                        42.527411
+                  ]
+            },
+            {
+                  "name": "A Praíña do Pedral",
+                  "text": "A Praíña do Pedral este o plajă pe coasta orașului O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86813,
+                        42.532418
+                  ]
+            },
+            {
+                  "name": "Praia Dente de Can",
+                  "text": "Praia Dente de Can este o plajă în municipiul galician O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.869857,
+                        42.526192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "Praia da Arnela este o plajă pe coasta orașului O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864508,
+                        42.52592
+                  ]
+            },
+            {
+                  "name": "Praia de Peralto",
+                  "text": "Praia de Peralto este o plajă în municipiul O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.859586,
+                        42.494805
+                  ]
+            },
+            {
+                  "name": "Praia da Lameira",
+                  "text": "Praia da Lameira este o plajă în orașul galician O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.867946,
+                        42.527338
+                  ]
+            },
+            {
+                  "name": "Praia de Xastelas",
+                  "text": "Praia de Xastelas este o plajă în municipiul O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86677,
+                        42.529224
+                  ]
             }
       ],
       "en": [
@@ -43454,6 +51673,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.846883,
                         42.4753
+                  ]
+            },
+            {
+                  "name": "Praia do Porto Grande",
+                  "text": "Praia do Porto Grande is a beach in the municipality of O Grove in Galicia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.866736,
+                        42.527411
+                  ]
+            },
+            {
+                  "name": "A Praíña do Pedral",
+                  "text": "A Praíña do Pedral is a beach on the coast of O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86813,
+                        42.532418
+                  ]
+            },
+            {
+                  "name": "Praia Dente de Can",
+                  "text": "Praia Dente de Can is a beach in the Galician municipality of O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.869857,
+                        42.526192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "Praia da Arnela is a beach on the coast of O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864508,
+                        42.52592
+                  ]
+            },
+            {
+                  "name": "Praia de Peralto",
+                  "text": "Praia de Peralto is a beach in the municipality of O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.859586,
+                        42.494805
+                  ]
+            },
+            {
+                  "name": "Praia da Lameira",
+                  "text": "Praia da Lameira is a beach in the Galician town of O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.867946,
+                        42.527338
+                  ]
+            },
+            {
+                  "name": "Praia de Xastelas",
+                  "text": "Praia de Xastelas is a beach in the municipality of O Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86677,
+                        42.529224
                   ]
             }
       ]
@@ -44380,6 +52662,42 @@ export const poiExtraEsV2: POI[] = [
                         0.139536,
                         40.082683
                   ]
+            },
+            {
+                  "name": "Platja de les Amplàries",
+                  "text": "Der längste Strand in Oropesa del Mar, ideal für ausgedehnte Spaziergänge am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        0.156093,
+                        40.114071
+                  ]
+            },
+            {
+                  "name": "Platja de la Renegà",
+                  "text": "Ein ruhiger Strand in Oropesa del Mar, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117075,
+                        40.061869
+                  ]
+            },
+            {
+                  "name": "Cala dels Retors",
+                  "text": "Ein ruhiger Strand in Oropesa del Mar, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        0.135704,
+                        40.07981
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Polinesia",
+                  "text": "Ein thematischer Wasserpark in Oropesa del Mar mit polynesischem Flair.",
+                  "category": "recreational",
+                  "coords": [
+                        0.152022,
+                        40.112461
+                  ]
             }
       ],
       "hu": [
@@ -44554,6 +52872,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.139536,
                         40.082683
+                  ]
+            },
+            {
+                  "name": "Platja de les Amplàries",
+                  "text": "Oropesa del Mar leghosszabb strandja, amely ideális nagy tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        0.156093,
+                        40.114071
+                  ]
+            },
+            {
+                  "name": "Platja de la Renegà",
+                  "text": "Egy nyugodt tengerpart Oropesa del Mar területén, amely kiváló kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117075,
+                        40.061869
+                  ]
+            },
+            {
+                  "name": "Cala dels Retors",
+                  "text": "Egy nyugodt tengerpart Oropesa del Mar területén, amely kiváló kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        0.135704,
+                        40.07981
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Polinesia",
+                  "text": "Polinéz hangulatú tematikus vízipark Oropesa del Marban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.152022,
+                        40.112461
                   ]
             }
       ],
@@ -44730,6 +53084,42 @@ export const poiExtraEsV2: POI[] = [
                         0.139536,
                         40.082683
                   ]
+            },
+            {
+                  "name": "Platja de les Amplàries",
+                  "text": "Cea mai lungă plajă din Oropesa del Mar, ideală pentru plimbări lungi pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        0.156093,
+                        40.114071
+                  ]
+            },
+            {
+                  "name": "Platja de la Renegà",
+                  "text": "O plajă liniștită în Oropesa del Mar, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117075,
+                        40.061869
+                  ]
+            },
+            {
+                  "name": "Cala dels Retors",
+                  "text": "O plajă liniștită în Oropesa del Mar, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        0.135704,
+                        40.07981
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Polinesia",
+                  "text": "Un parc acvatic tematic în Oropesa del Mar cu atmosferă polineziană.",
+                  "category": "recreational",
+                  "coords": [
+                        0.152022,
+                        40.112461
+                  ]
             }
       ],
       "en": [
@@ -44905,6 +53295,42 @@ export const poiExtraEsV2: POI[] = [
                         0.139536,
                         40.082683
                   ]
+            },
+            {
+                  "name": "Platja de les Amplàries",
+                  "text": "The longest beach in Oropesa del Mar, ideal for long walks by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.156093,
+                        40.114071
+                  ]
+            },
+            {
+                  "name": "Platja de la Renegà",
+                  "text": "A calm beach in Oropesa del Mar, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117075,
+                        40.061869
+                  ]
+            },
+            {
+                  "name": "Cala dels Retors",
+                  "text": "A calm beach in Oropesa del Mar, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        0.135704,
+                        40.07981
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Polinesia",
+                  "text": "A themed water park in Oropesa del Mar with a Polynesian atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        0.152022,
+                        40.112461
+                  ]
             }
       ]
 }},
@@ -45040,6 +53466,87 @@ export const poiExtraEsV2: POI[] = [
                         3.095391,
                         41.839756
                   ]
+            },
+            {
+                  "name": "Cala dels Pots",
+                  "text": "Cala dels Pots ist eine kleine Felsbucht in der Nähe von Palamós, ideal zum Schnorcheln.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137707,
+                        41.848797
+                  ]
+            },
+            {
+                  "name": "sa Cobertera",
+                  "text": "sa Cobertera ist ein ruhiger Küstenabschnitt in der Region Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158775,
+                        41.860897
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de la Fosca",
+                  "text": "Sant Esteve de la Fosca ist ein Sandstrand in Palamós, der für seine malerische Lage bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14493,
+                        41.85863
+                  ]
+            },
+            {
+                  "name": "Platja des Monestri",
+                  "text": "Platja des Monestri ist ein weiter Sandstrand in Palamós an der Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11559,
+                        41.848728
+                  ]
+            },
+            {
+                  "name": "sa Tamardia",
+                  "text": "sa Tamardia ist ein ruhiger Strandabschnitt in der Gemeinde Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.143177,
+                        41.854577
+                  ]
+            },
+            {
+                  "name": "Sota Cala Margarida",
+                  "text": "Sota Cala Margarida ist ein Küstenabschnitt bei Palamós an der Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140267,
+                        41.849387
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "Platja de Sant Antoni ist ein beliebter Sandstrand in der Nähe von Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.103687,
+                        41.84512
+                  ]
+            },
+            {
+                  "name": "Platja Gran de Palamós",
+                  "text": "Platja Gran de Palamós ist der größte und zentrale Strand des Ortes Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122882,
+                        41.847893
+                  ]
+            },
+            {
+                  "name": "el Giber",
+                  "text": "el Giber ist ein Strandabschnitt an der felsigen Küste von Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.128581,
+                        41.842345
+                  ]
             }
       ],
       "hu": [
@@ -45172,6 +53679,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.095391,
                         41.839756
+                  ]
+            },
+            {
+                  "name": "Cala dels Pots",
+                  "text": "A Cala dels Pots egy apró sziklás öböl Palamós közelében, amely ideális a búvárkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137707,
+                        41.848797
+                  ]
+            },
+            {
+                  "name": "sa Cobertera",
+                  "text": "A sa Cobertera egy csendes tengerparti rész Palamós régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158775,
+                        41.860897
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de la Fosca",
+                  "text": "A Sant Esteve de la Fosca egy homokos strand Palamósban, amely festői elhelyezkedéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14493,
+                        41.85863
+                  ]
+            },
+            {
+                  "name": "Platja des Monestri",
+                  "text": "A Platja des Monestri egy tágas homokos tengerpart Palamósban, a Costa Braván.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11559,
+                        41.848728
+                  ]
+            },
+            {
+                  "name": "sa Tamardia",
+                  "text": "A sa Tamardia egy nyugodt tengerparti rész Palamós városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.143177,
+                        41.854577
+                  ]
+            },
+            {
+                  "name": "Sota Cala Margarida",
+                  "text": "A Sota Cala Margarida egy tengerparti szakasz Palamós közelében, a Costa Braván.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140267,
+                        41.849387
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "A Platja de Sant Antoni egy népszerű homokos tengerpart Palamós közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.103687,
+                        41.84512
+                  ]
+            },
+            {
+                  "name": "Platja Gran de Palamós",
+                  "text": "A Platja Gran de Palamós Palamós városának legnagyobb és központi tengerpartja.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122882,
+                        41.847893
+                  ]
+            },
+            {
+                  "name": "el Giber",
+                  "text": "Az el Giber egy tengerparti szakasz Palamós sziklás partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.128581,
+                        41.842345
                   ]
             }
       ],
@@ -45306,6 +53894,87 @@ export const poiExtraEsV2: POI[] = [
                         3.095391,
                         41.839756
                   ]
+            },
+            {
+                  "name": "Cala dels Pots",
+                  "text": "Cala dels Pots este un mic golf stâncos lângă Palamós, ideal pentru snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137707,
+                        41.848797
+                  ]
+            },
+            {
+                  "name": "sa Cobertera",
+                  "text": "sa Cobertera este o porțiune liniștită de coastă în regiunea Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158775,
+                        41.860897
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de la Fosca",
+                  "text": "Sant Esteve de la Fosca este o plajă de nisip din Palamós, cunoscută pentru locația sa pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14493,
+                        41.85863
+                  ]
+            },
+            {
+                  "name": "Platja des Monestri",
+                  "text": "Platja des Monestri este o plajă largă de nisip din Palamós, pe Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11559,
+                        41.848728
+                  ]
+            },
+            {
+                  "name": "sa Tamardia",
+                  "text": "sa Tamardia este o zonă de plajă liniștită situată în Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.143177,
+                        41.854577
+                  ]
+            },
+            {
+                  "name": "Sota Cala Margarida",
+                  "text": "Sota Cala Margarida este o porțiune de coastă lângă Palamós, pe Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140267,
+                        41.849387
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "Platja de Sant Antoni este o plajă de nisip populară situată lângă Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.103687,
+                        41.84512
+                  ]
+            },
+            {
+                  "name": "Platja Gran de Palamós",
+                  "text": "Platja Gran de Palamós este cea mai mare și centrală plajă din localitatea Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122882,
+                        41.847893
+                  ]
+            },
+            {
+                  "name": "el Giber",
+                  "text": "el Giber este o porțiune de plajă pe coasta stâncoasă a localității Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.128581,
+                        41.842345
+                  ]
             }
       ],
       "en": [
@@ -45438,6 +54107,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.095391,
                         41.839756
+                  ]
+            },
+            {
+                  "name": "Cala dels Pots",
+                  "text": "Cala dels Pots is a small rocky cove near Palamós, ideal for snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        3.137707,
+                        41.848797
+                  ]
+            },
+            {
+                  "name": "sa Cobertera",
+                  "text": "sa Cobertera is a quiet coastal section in the Palamós region.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158775,
+                        41.860897
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de la Fosca",
+                  "text": "Sant Esteve de la Fosca is a sandy beach in Palamós known for its picturesque setting.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14493,
+                        41.85863
+                  ]
+            },
+            {
+                  "name": "Platja des Monestri",
+                  "text": "Platja des Monestri is a wide sandy beach located in Palamós on the Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11559,
+                        41.848728
+                  ]
+            },
+            {
+                  "name": "sa Tamardia",
+                  "text": "sa Tamardia is a quiet beach area located in Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.143177,
+                        41.854577
+                  ]
+            },
+            {
+                  "name": "Sota Cala Margarida",
+                  "text": "Sota Cala Margarida is a coastal stretch near Palamós on the Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140267,
+                        41.849387
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Antoni",
+                  "text": "Platja de Sant Antoni is a popular sandy beach located near Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.103687,
+                        41.84512
+                  ]
+            },
+            {
+                  "name": "Platja Gran de Palamós",
+                  "text": "Platja Gran de Palamós is the largest and most central beach in Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122882,
+                        41.847893
+                  ]
+            },
+            {
+                  "name": "el Giber",
+                  "text": "el Giber is a beach section on the rocky coast of Palamós.",
+                  "category": "recreational",
+                  "coords": [
+                        3.128581,
+                        41.842345
                   ]
             }
       ]
@@ -45646,6 +54396,42 @@ export const poiExtraEsV2: POI[] = [
                         0.39982,
                         40.361251
                   ]
+            },
+            {
+                  "name": "Platja de Portonegro",
+                  "text": "Ein steiniger Strandabschnitt an der Küste von Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.38045,
+                        40.336501
+                  ]
+            },
+            {
+                  "name": "Caleta del Barranc de Sant Antoni",
+                  "text": "Ein kleiner Strand in einer Bucht im Gebiet von Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.382169,
+                        40.337344
+                  ]
+            },
+            {
+                  "name": "Platja Nord de Peníscola",
+                  "text": "Der wichtigste Sandstrand von Peñíscola, der sich entlang der Nordküste erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        0.409336,
+                        40.380611
+                  ]
+            },
+            {
+                  "name": "Platja Sud de Peníscola",
+                  "text": "Ein Strand südlich der Altstadt von Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.401513,
+                        40.358035
+                  ]
             }
       ],
       "hu": [
@@ -45850,6 +54636,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.39982,
                         40.361251
+                  ]
+            },
+            {
+                  "name": "Platja de Portonegro",
+                  "text": "Sziklás strandterület Peñíscola partjai mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.38045,
+                        40.336501
+                  ]
+            },
+            {
+                  "name": "Caleta del Barranc de Sant Antoni",
+                  "text": "Egy kis öbölben fekvő strand Peñíscola környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.382169,
+                        40.337344
+                  ]
+            },
+            {
+                  "name": "Platja Nord de Peníscola",
+                  "text": "Peñíscola fő homokos strandja, amely az északi part mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        0.409336,
+                        40.380611
+                  ]
+            },
+            {
+                  "name": "Platja Sud de Peníscola",
+                  "text": "Peñíscola óvárosától délre található strand.",
+                  "category": "recreational",
+                  "coords": [
+                        0.401513,
+                        40.358035
                   ]
             }
       ],
@@ -46056,6 +54878,42 @@ export const poiExtraEsV2: POI[] = [
                         0.39982,
                         40.361251
                   ]
+            },
+            {
+                  "name": "Platja de Portonegro",
+                  "text": "O zonă de plajă stâncoasă situată de-a lungul coastei din Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.38045,
+                        40.336501
+                  ]
+            },
+            {
+                  "name": "Caleta del Barranc de Sant Antoni",
+                  "text": "O mică plajă tip golf situată în zona Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.382169,
+                        40.337344
+                  ]
+            },
+            {
+                  "name": "Platja Nord de Peníscola",
+                  "text": "Principala plajă cu nisip din Peñíscola, care se întinde de-a lungul coastei de nord.",
+                  "category": "recreational",
+                  "coords": [
+                        0.409336,
+                        40.380611
+                  ]
+            },
+            {
+                  "name": "Platja Sud de Peníscola",
+                  "text": "O plajă situată la sud de centrul vechi al orașului Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.401513,
+                        40.358035
+                  ]
             }
       ],
       "en": [
@@ -46260,6 +55118,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.39982,
                         40.361251
+                  ]
+            },
+            {
+                  "name": "Platja de Portonegro",
+                  "text": "A rocky beach area located along the coast of Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.38045,
+                        40.336501
+                  ]
+            },
+            {
+                  "name": "Caleta del Barranc de Sant Antoni",
+                  "text": "A small cove beach situated in the Peñíscola area.",
+                  "category": "recreational",
+                  "coords": [
+                        0.382169,
+                        40.337344
+                  ]
+            },
+            {
+                  "name": "Platja Nord de Peníscola",
+                  "text": "The main sandy beach of Peñíscola, stretching along the northern coast.",
+                  "category": "recreational",
+                  "coords": [
+                        0.409336,
+                        40.380611
+                  ]
+            },
+            {
+                  "name": "Platja Sud de Peníscola",
+                  "text": "A beach located south of the old town in Peñíscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.401513,
+                        40.358035
                   ]
             }
       ]
@@ -48158,6 +57052,15 @@ export const poiExtraEsV2: POI[] = [
                         -7.039733,
                         43.534955
                   ]
+            },
+            {
+                  "name": "Praia das Cabanas",
+                  "text": "Ein ruhiger Küstenabschnitt in Ribadeo, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.036805,
+                        43.544428
+                  ]
             }
       ],
       "hu": [
@@ -48375,6 +57278,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -7.039733,
                         43.534955
+                  ]
+            },
+            {
+                  "name": "Praia das Cabanas",
+                  "text": "Csendes tengerparti szakasz Ribadeóban, ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.036805,
+                        43.544428
                   ]
             }
       ],
@@ -48594,6 +57506,15 @@ export const poiExtraEsV2: POI[] = [
                         -7.039733,
                         43.534955
                   ]
+            },
+            {
+                  "name": "Praia das Cabanas",
+                  "text": "O secțiune de coastă liniștită în Ribadeo, ideală pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.036805,
+                        43.544428
+                  ]
             }
       ],
       "en": [
@@ -48811,6 +57732,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -7.039733,
                         43.534955
+                  ]
+            },
+            {
+                  "name": "Praia das Cabanas",
+                  "text": "A quiet coastal stretch in Ribadeo, ideal for nature enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.036805,
+                        43.544428
                   ]
             }
       ]
@@ -50498,6 +59428,69 @@ export const poiExtraEsV2: POI[] = [
                         3.196792,
                         42.246998
                   ]
+            },
+            {
+                  "name": "la Rubina",
+                  "text": "Ein natürlicher Sandstrand in Roses, der zum Naturpark Aiguamolls de l'Empordà gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        3.149169,
+                        42.258384
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Margarida",
+                  "text": "Ein langer Sandstrand in Roses mit einer Promenade und vielen Annehmlichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        3.153352,
+                        42.261225
+                  ]
+            },
+            {
+                  "name": "Platja del Saltar",
+                  "text": "Ein Sandstrand in Roses, der einen schönen Blick auf die Bucht bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159794,
+                        42.263702
+                  ]
+            },
+            {
+                  "name": "Platja de Almadrava",
+                  "text": "Ein wunderschöner Strand in Roses, bekannt für seinen feinen Sand und das ruhige Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207335,
+                        42.240609
+                  ]
+            },
+            {
+                  "name": "Platja dels Palangrers",
+                  "text": "Ein kleiner und gemütlicher Strand in Roses, der sich in der Nähe des Leuchtturms befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.181977,
+                        42.250361
+                  ]
+            },
+            {
+                  "name": "Platja de Bonifaci",
+                  "text": "Eine ruhige Bucht in Roses, ideal für alle, die ein entspanntes Stranderlebnis suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.198559,
+                        42.243597
+                  ]
+            },
+            {
+                  "name": "Mini-golf",
+                  "text": "Eine Minigolfanlage für Freizeitspaß in Roses an der Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158935,
+                        42.267644
+                  ]
             }
       ],
       "hu": [
@@ -50641,6 +59634,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.196792,
                         42.246998
+                  ]
+            },
+            {
+                  "name": "la Rubina",
+                  "text": "Természetes homokos tengerpart Rosesben, amely az Aiguamolls de l'Empordà natúrpark része.",
+                  "category": "recreational",
+                  "coords": [
+                        3.149169,
+                        42.258384
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Margarida",
+                  "text": "Hosszú homokos strand Rosesben, sétánnyal és számos szolgáltatással.",
+                  "category": "recreational",
+                  "coords": [
+                        3.153352,
+                        42.261225
+                  ]
+            },
+            {
+                  "name": "Platja del Saltar",
+                  "text": "Homokos strand Rosesben, amely szép kilátást nyújt az öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159794,
+                        42.263702
+                  ]
+            },
+            {
+                  "name": "Platja de Almadrava",
+                  "text": "Gyönyörű strand Rosesben, amely finom homokjáról és nyugodt vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207335,
+                        42.240609
+                  ]
+            },
+            {
+                  "name": "Platja dels Palangrers",
+                  "text": "Kicsi és hangulatos strand Rosesben, a város világítótornyának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.181977,
+                        42.250361
+                  ]
+            },
+            {
+                  "name": "Platja de Bonifaci",
+                  "text": "Csendes öböl Rosesben, tökéletes azok számára, akik nyugodt tengerparti élményre vágynak.",
+                  "category": "recreational",
+                  "coords": [
+                        3.198559,
+                        42.243597
+                  ]
+            },
+            {
+                  "name": "Mini-golf",
+                  "text": "Minigolfpálya a Costa Brava-i Rosesben a szabadidő eltöltéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158935,
+                        42.267644
                   ]
             }
       ],
@@ -50786,6 +59842,69 @@ export const poiExtraEsV2: POI[] = [
                         3.196792,
                         42.246998
                   ]
+            },
+            {
+                  "name": "la Rubina",
+                  "text": "O plajă naturală cu nisip în Roses, parte a Parcului Natural Aiguamolls de l'Empordà.",
+                  "category": "recreational",
+                  "coords": [
+                        3.149169,
+                        42.258384
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Margarida",
+                  "text": "O plajă lungă cu nisip în Roses, cu faleză și numeroase facilități.",
+                  "category": "recreational",
+                  "coords": [
+                        3.153352,
+                        42.261225
+                  ]
+            },
+            {
+                  "name": "Platja del Saltar",
+                  "text": "O plajă cu nisip în Roses care oferă vederi frumoase asupra golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159794,
+                        42.263702
+                  ]
+            },
+            {
+                  "name": "Platja de Almadrava",
+                  "text": "O plajă frumoasă în Roses, cunoscută pentru nisipul fin și apele liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207335,
+                        42.240609
+                  ]
+            },
+            {
+                  "name": "Platja dels Palangrers",
+                  "text": "O plajă mică și primitoare în Roses, situată lângă farul orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        3.181977,
+                        42.250361
+                  ]
+            },
+            {
+                  "name": "Platja de Bonifaci",
+                  "text": "Un golf liniștit în Roses, perfect pentru cei care caută o experiență de plajă relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        3.198559,
+                        42.243597
+                  ]
+            },
+            {
+                  "name": "Mini-golf",
+                  "text": "Un teren de minigolf pentru distracție în Roses, pe Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158935,
+                        42.267644
+                  ]
             }
       ],
       "en": [
@@ -50929,6 +60048,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.196792,
                         42.246998
+                  ]
+            },
+            {
+                  "name": "la Rubina",
+                  "text": "A natural sandy beach in Roses, part of the Aiguamolls de l'Empordà Natural Park.",
+                  "category": "recreational",
+                  "coords": [
+                        3.149169,
+                        42.258384
+                  ]
+            },
+            {
+                  "name": "Platja de Sant Margarida",
+                  "text": "A long sandy beach in Roses with a promenade and many amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        3.153352,
+                        42.261225
+                  ]
+            },
+            {
+                  "name": "Platja del Saltar",
+                  "text": "A sandy beach in Roses that offers beautiful views of the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        3.159794,
+                        42.263702
+                  ]
+            },
+            {
+                  "name": "Platja de Almadrava",
+                  "text": "A beautiful beach in Roses, known for its fine sand and calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        3.207335,
+                        42.240609
+                  ]
+            },
+            {
+                  "name": "Platja dels Palangrers",
+                  "text": "A small and cozy beach in Roses, located near the town's lighthouse.",
+                  "category": "recreational",
+                  "coords": [
+                        3.181977,
+                        42.250361
+                  ]
+            },
+            {
+                  "name": "Platja de Bonifaci",
+                  "text": "A quiet cove in Roses, perfect for those seeking a more tranquil beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        3.198559,
+                        42.243597
+                  ]
+            },
+            {
+                  "name": "Mini-golf",
+                  "text": "A minigolf course for leisure fun in Roses on the Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        3.158935,
+                        42.267644
                   ]
             }
       ]
@@ -52798,6 +61980,33 @@ export const poiExtraEsV2: POI[] = [
                         1.138486,
                         41.073272
                   ]
+            },
+            {
+                  "name": "Cala dels Capellans",
+                  "text": "Cala dels Capellans ist eine kleine Bucht mit Sandstrand im Ferienort Salou.",
+                  "category": "recreational",
+                  "coords": [
+                        1.148631,
+                        41.068546
+                  ]
+            },
+            {
+                  "name": "Platja Llarga",
+                  "text": "Platja Llarga ist ein weitläufiger Sandstrand in Salou, der von Pinien umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        1.15361,
+                        41.065683
+                  ]
+            },
+            {
+                  "name": "Platja Vilafortuny",
+                  "text": "Platja Vilafortuny ist ein breiter Sandstrand zwischen Salou und Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.099654,
+                        41.069127
+                  ]
             }
       ],
       "hu": [
@@ -53083,6 +62292,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.138486,
                         41.073272
+                  ]
+            },
+            {
+                  "name": "Cala dels Capellans",
+                  "text": "A Cala dels Capellans egy apró homokos öböl Salou üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.148631,
+                        41.068546
+                  ]
+            },
+            {
+                  "name": "Platja Llarga",
+                  "text": "A Platja Llarga egy tágas homokos strand Salouban, amelyet fenyőfák vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        1.15361,
+                        41.065683
+                  ]
+            },
+            {
+                  "name": "Platja Vilafortuny",
+                  "text": "A Platja Vilafortuny egy széles homokos strand Salou és Cambrils között.",
+                  "category": "recreational",
+                  "coords": [
+                        1.099654,
+                        41.069127
                   ]
             }
       ],
@@ -53370,6 +62606,33 @@ export const poiExtraEsV2: POI[] = [
                         1.138486,
                         41.073272
                   ]
+            },
+            {
+                  "name": "Cala dels Capellans",
+                  "text": "Cala dels Capellans este un mic golf cu plajă de nisip în stațiunea Salou.",
+                  "category": "recreational",
+                  "coords": [
+                        1.148631,
+                        41.068546
+                  ]
+            },
+            {
+                  "name": "Platja Llarga",
+                  "text": "Platja Llarga este o plajă extinsă de nisip din Salou, înconjurată de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        1.15361,
+                        41.065683
+                  ]
+            },
+            {
+                  "name": "Platja Vilafortuny",
+                  "text": "Platja Vilafortuny este o plajă lată de nisip situată între Salou și Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.099654,
+                        41.069127
+                  ]
             }
       ],
       "en": [
@@ -53656,6 +62919,33 @@ export const poiExtraEsV2: POI[] = [
                         1.138486,
                         41.073272
                   ]
+            },
+            {
+                  "name": "Cala dels Capellans",
+                  "text": "Cala dels Capellans is a small sandy cove in the resort of Salou.",
+                  "category": "recreational",
+                  "coords": [
+                        1.148631,
+                        41.068546
+                  ]
+            },
+            {
+                  "name": "Platja Llarga",
+                  "text": "Platja Llarga is an extensive sandy beach in Salou, bordered by pine trees.",
+                  "category": "recreational",
+                  "coords": [
+                        1.15361,
+                        41.065683
+                  ]
+            },
+            {
+                  "name": "Platja Vilafortuny",
+                  "text": "Platja Vilafortuny is a wide sandy beach located between Salou and Cambrils.",
+                  "category": "recreational",
+                  "coords": [
+                        1.099654,
+                        41.069127
+                  ]
             }
       ]
 }},
@@ -53923,6 +63213,24 @@ export const poiExtraEsV2: POI[] = [
                         -1.980962,
                         43.3226
                   ]
+            },
+            {
+                  "name": "Zurriola",
+                  "text": "Ein lebhafter Strand in San Sebastián, der besonders bei Surfern sehr beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.976288,
+                        43.32606
+                  ]
+            },
+            {
+                  "name": "Kontxa",
+                  "text": "Ein beliebter Badebereich am berühmten Strand La Concha in San Sebastián.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.990382,
+                        43.317023
+                  ]
             }
       ],
       "hu": [
@@ -54187,6 +63495,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.980962,
                         43.3226
+                  ]
+            },
+            {
+                  "name": "Zurriola",
+                  "text": "Mozgalmas strand San Sebastiánban, amely különösen a szörfösök körében népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.976288,
+                        43.32606
+                  ]
+            },
+            {
+                  "name": "Kontxa",
+                  "text": "Népszerű fürdőhely San Sebastián híres La Concha strandján.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.990382,
+                        43.317023
                   ]
             }
       ],
@@ -54453,6 +63779,24 @@ export const poiExtraEsV2: POI[] = [
                         -1.980962,
                         43.3226
                   ]
+            },
+            {
+                  "name": "Zurriola",
+                  "text": "O plajă animată în San Sebastián, deosebit de populară printre surferi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.976288,
+                        43.32606
+                  ]
+            },
+            {
+                  "name": "Kontxa",
+                  "text": "O zonă populară de înot pe faimoasa plajă La Concha din San Sebastián.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.990382,
+                        43.317023
+                  ]
             }
       ],
       "en": [
@@ -54718,6 +64062,24 @@ export const poiExtraEsV2: POI[] = [
                         -1.980962,
                         43.3226
                   ]
+            },
+            {
+                  "name": "Zurriola",
+                  "text": "A vibrant beach in San Sebastián, especially popular among surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.976288,
+                        43.32606
+                  ]
+            },
+            {
+                  "name": "Kontxa",
+                  "text": "A popular swimming area at the famous La Concha beach in San Sebastián.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.990382,
+                        43.317023
+                  ]
             }
       ]
 }},
@@ -54920,6 +64282,24 @@ export const poiExtraEsV2: POI[] = [
                         -4.398578,
                         43.384515
                   ]
+            },
+            {
+                  "name": "Playa de Gerra",
+                  "text": "Playa de Gerra ist ein Sandstrand in San Vicente de la Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.355604,
+                        43.400864
+                  ]
+            },
+            {
+                  "name": "Playa de Berellín",
+                  "text": "Playa de Berellín ist ein naturbelassener Strand in San Vicente de la Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.439255,
+                        43.393594
+                  ]
             }
       ],
       "hu": [
@@ -55119,6 +64499,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.398578,
                         43.384515
+                  ]
+            },
+            {
+                  "name": "Playa de Gerra",
+                  "text": "A Playa de Gerra egy tengerparti strand San Vicente de la Barquerában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.355604,
+                        43.400864
+                  ]
+            },
+            {
+                  "name": "Playa de Berellín",
+                  "text": "A Playa de Berellín egy tengerparti strand San Vicente de la Barquerában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.439255,
+                        43.393594
                   ]
             }
       ],
@@ -55320,6 +64718,24 @@ export const poiExtraEsV2: POI[] = [
                         -4.398578,
                         43.384515
                   ]
+            },
+            {
+                  "name": "Playa de Gerra",
+                  "text": "Playa de Gerra este o plajă situată în San Vicente de la Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.355604,
+                        43.400864
+                  ]
+            },
+            {
+                  "name": "Playa de Berellín",
+                  "text": "Playa de Berellín este o plajă situată în San Vicente de la Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.439255,
+                        43.393594
+                  ]
             }
       ],
       "en": [
@@ -55519,6 +64935,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.398578,
                         43.384515
+                  ]
+            },
+            {
+                  "name": "Playa de Gerra",
+                  "text": "Playa de Gerra is a beach located in San Vicente de la Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.355604,
+                        43.400864
+                  ]
+            },
+            {
+                  "name": "Playa de Berellín",
+                  "text": "Playa de Berellín is a beach located in San Vicente de la Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.439255,
+                        43.393594
                   ]
             }
       ]
@@ -56268,6 +65702,33 @@ export const poiExtraEsV2: POI[] = [
                         1.292869,
                         39.002474
                   ]
+            },
+            {
+                  "name": "s'Arenal de San Antonio",
+                  "text": "Ein beliebter Strandabschnitt im Zentrum von Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307381,
+                        38.975926
+                  ]
+            },
+            {
+                  "name": "Platja des Pouet",
+                  "text": "Ein Küstenabschnitt zum Baden und Entspannen in Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.303401,
+                        38.969872
+                  ]
+            },
+            {
+                  "name": "Caló des Moro",
+                  "text": "Eine kleine, malerische Badebucht in Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.296671,
+                        38.985152
+                  ]
             }
       ],
       "hu": [
@@ -56479,6 +65940,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.292869,
                         39.002474
+                  ]
+            },
+            {
+                  "name": "s'Arenal de San Antonio",
+                  "text": "Népszerű strandhely Sant Antoni de Portmany központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307381,
+                        38.975926
+                  ]
+            },
+            {
+                  "name": "Platja des Pouet",
+                  "text": "Tengerparti fürdő- és pihenőhely Sant Antoni de Portmany területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.303401,
+                        38.969872
+                  ]
+            },
+            {
+                  "name": "Caló des Moro",
+                  "text": "Kicsi, festői fürdőöböl Sant Antoni de Portmany területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.296671,
+                        38.985152
                   ]
             }
       ],
@@ -56692,6 +66180,33 @@ export const poiExtraEsV2: POI[] = [
                         1.292869,
                         39.002474
                   ]
+            },
+            {
+                  "name": "s'Arenal de San Antonio",
+                  "text": "O secțiune populară de plajă în centrul orașului Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307381,
+                        38.975926
+                  ]
+            },
+            {
+                  "name": "Platja des Pouet",
+                  "text": "O zonă de coastă pentru înot și relaxare în Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.303401,
+                        38.969872
+                  ]
+            },
+            {
+                  "name": "Caló des Moro",
+                  "text": "Un golf mic și pitoresc pentru înot în Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.296671,
+                        38.985152
+                  ]
             }
       ],
       "en": [
@@ -56903,6 +66418,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.292869,
                         39.002474
+                  ]
+            },
+            {
+                  "name": "s'Arenal de San Antonio",
+                  "text": "A popular beach area in the center of Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307381,
+                        38.975926
+                  ]
+            },
+            {
+                  "name": "Platja des Pouet",
+                  "text": "A coastal area for swimming and relaxation in Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.303401,
+                        38.969872
+                  ]
+            },
+            {
+                  "name": "Caló des Moro",
+                  "text": "A small, scenic swimming cove in Sant Antoni de Portmany.",
+                  "category": "recreational",
+                  "coords": [
+                        1.296671,
+                        38.985152
                   ]
             }
       ]
@@ -59623,6 +69165,132 @@ export const poiExtraEsV2: POI[] = [
                         1.804123,
                         41.233179
                   ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "La Caleta ist ein kleiner, ruhiger Strand in der Nähe des Zentrums von Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.830299,
+                        41.236507
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguadolç",
+                  "text": "Platja d'Aiguadolç liegt neben dem Hafen von Sitges und bietet eine familiäre Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        1.827859,
+                        41.236452
+                  ]
+            },
+            {
+                  "name": "Platja Fonda",
+                  "text": "Platja Fonda ist ein ruhigerer Küstenabschnitt in der Gemeinde Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.816406,
+                        41.23604
+                  ]
+            },
+            {
+                  "name": "Platja de les Anquines",
+                  "text": "Platja de les Anquines ist ein künstlich angelegter Strand in Sitges, ideal für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        1.78779,
+                        41.224599
+                  ]
+            },
+            {
+                  "name": "Platja de la Riera Xica",
+                  "text": "Platja de la Riera Xica ist ein schmaler Sandstrand an der Promenade von Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.796886,
+                        41.230528
+                  ]
+            },
+            {
+                  "name": "Platja de les Coves",
+                  "text": "Platja de les Coves ist ein malerischer strand in Sitges, der unter Felsklippen liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.774771,
+                        41.223117
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Margarida",
+                  "text": "Die Platja de Santa Margarida ist ein weiterer Sandstrand an der Küste von Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.778689,
+                        41.223763
+                  ]
+            },
+            {
+                  "name": "Platja del Cellerot",
+                  "text": "Platja del Cellerot ist ein kleinerer Strandabschnitt in der katalanischen Stadt Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.785131,
+                        41.224146
+                  ]
+            },
+            {
+                  "name": "Platja de l'Estanyol",
+                  "text": "Platja de l'Estanyol ist ein langer Sandstrand mit verschiedenen Dienstleistungen in Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.800306,
+                        41.231936
+                  ]
+            },
+            {
+                  "name": "Platja de Rosés",
+                  "text": "Platja de Rosés ist ein Strand in Sitges, der zum Entspannen am Mittelmeer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.769519,
+                        41.22141
+                  ]
+            },
+            {
+                  "name": "Platja de Terramar",
+                  "text": "Platja de Terramar liegt am südlichen Ende von Sitges und ist für seine Gärten bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.789945,
+                        41.226226
+                  ]
+            },
+            {
+                  "name": "Platja de la Barra",
+                  "text": "Platja de la Barra zeichnet sich durch vier künstliche Inseln aus, die das Wasser beruhigen.",
+                  "category": "recreational",
+                  "coords": [
+                        1.793312,
+                        41.228502
+                  ]
+            },
+            {
+                  "name": "Cala Forn",
+                  "text": "Cala Forn ist ein kleiner Strand in Sitges, der eine ruhige Umgebung zum Entspannen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.841392,
+                        41.235549
+                  ]
+            },
+            {
+                  "name": "Platja dels Ponts",
+                  "text": "Platja dels Ponts ist ein lokaler Strand in Sitges, der zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.83655,
+                        41.235883
+                  ]
             }
       ],
       "hu": [
@@ -59944,6 +69612,132 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.804123,
                         41.233179
+                  ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "La Caleta egy kicsi, csendes strand Sitges központjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.830299,
+                        41.236507
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguadolç",
+                  "text": "A Platja d'Aiguadolç Sitges kikötője mellett található, és családias hangulatot kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.827859,
+                        41.236452
+                  ]
+            },
+            {
+                  "name": "Platja Fonda",
+                  "text": "A Platja Fonda egy csendesebb tengerparti szakasz Sitges községében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.816406,
+                        41.23604
+                  ]
+            },
+            {
+                  "name": "Platja de les Anquines",
+                  "text": "A Platja de les Anquines egy mesterségesen kialakított strand Sitgesben, ideális gyermekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        1.78779,
+                        41.224599
+                  ]
+            },
+            {
+                  "name": "Platja de la Riera Xica",
+                  "text": "A Platja de la Riera Xica egy keskeny homokos strand Sitges sétánya mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.796886,
+                        41.230528
+                  ]
+            },
+            {
+                  "name": "Platja de les Coves",
+                  "text": "A Platja de les Coves egy festői strand Sitgesben, sziklák alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        1.774771,
+                        41.223117
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Margarida",
+                  "text": "A Platja de Santa Margarida egy újabb homokos strand Sitges partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.778689,
+                        41.223763
+                  ]
+            },
+            {
+                  "name": "Platja del Cellerot",
+                  "text": "A Platja del Cellerot egy kisebb strandszakasz a katalán Sitges városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.785131,
+                        41.224146
+                  ]
+            },
+            {
+                  "name": "Platja de l'Estanyol",
+                  "text": "A Platja de l'Estanyol egy hosszú homokos strand különböző szolgáltatásokkal Sitgesben.",
+                  "category": "recreational",
+                  "coords": [
+                        1.800306,
+                        41.231936
+                  ]
+            },
+            {
+                  "name": "Platja de Rosés",
+                  "text": "A Platja de Rosés egy strand Sitgesben, amely pihenésre hív a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        1.769519,
+                        41.22141
+                  ]
+            },
+            {
+                  "name": "Platja de Terramar",
+                  "text": "A Platja de Terramar Sitges déli végén található, és kertjeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        1.789945,
+                        41.226226
+                  ]
+            },
+            {
+                  "name": "Platja de la Barra",
+                  "text": "A Platja de la Barra jellegzetessége a négy mesterséges sziget, amelyek megnyugtatják a vizet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.793312,
+                        41.228502
+                  ]
+            },
+            {
+                  "name": "Cala Forn",
+                  "text": "A Cala Forn egy kis strand Sitgesben, amely nyugodt környezetet kínál a pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        1.841392,
+                        41.235549
+                  ]
+            },
+            {
+                  "name": "Platja dels Ponts",
+                  "text": "A Platja dels Ponts egy helyi strand Sitgesben, amely fürdőzésre és napozásra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        1.83655,
+                        41.235883
                   ]
             }
       ],
@@ -60267,6 +70061,132 @@ export const poiExtraEsV2: POI[] = [
                         1.804123,
                         41.233179
                   ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "La Caleta este o plajă mică și liniștită situată lângă centrul orașului Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.830299,
+                        41.236507
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguadolç",
+                  "text": "Platja d'Aiguadolç se află lângă portul din Sitges și oferă o atmosferă familială.",
+                  "category": "recreational",
+                  "coords": [
+                        1.827859,
+                        41.236452
+                  ]
+            },
+            {
+                  "name": "Platja Fonda",
+                  "text": "Platja Fonda este o porțiune de coastă mai liniștită din municipalitatea Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.816406,
+                        41.23604
+                  ]
+            },
+            {
+                  "name": "Platja de les Anquines",
+                  "text": "Platja de les Anquines este o plajă artificială din Sitges, ideală pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        1.78779,
+                        41.224599
+                  ]
+            },
+            {
+                  "name": "Platja de la Riera Xica",
+                  "text": "Platja de la Riera Xica este o plajă îngustă cu nisip de-a lungul promenadei din Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.796886,
+                        41.230528
+                  ]
+            },
+            {
+                  "name": "Platja de les Coves",
+                  "text": "Platja de les Coves este o plajă pitorească din Sitges, situată sub stânci.",
+                  "category": "recreational",
+                  "coords": [
+                        1.774771,
+                        41.223117
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Margarida",
+                  "text": "Platja de Santa Margarida este o altă plajă cu nisip de pe coasta din Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.778689,
+                        41.223763
+                  ]
+            },
+            {
+                  "name": "Platja del Cellerot",
+                  "text": "Platja del Cellerot este o secțiune de plajă mai mică din orașul catalan Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.785131,
+                        41.224146
+                  ]
+            },
+            {
+                  "name": "Platja de l'Estanyol",
+                  "text": "Platja de l'Estanyol este o plajă lungă cu nisip, oferind diverse servicii în Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.800306,
+                        41.231936
+                  ]
+            },
+            {
+                  "name": "Platja de Rosés",
+                  "text": "Platja de Rosés este o plajă din Sitges care invită la relaxare la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        1.769519,
+                        41.22141
+                  ]
+            },
+            {
+                  "name": "Platja de Terramar",
+                  "text": "Platja de Terramar se află în extremitatea sudică a orașului Sitges și este cunoscută pentru grădinile sale.",
+                  "category": "recreational",
+                  "coords": [
+                        1.789945,
+                        41.226226
+                  ]
+            },
+            {
+                  "name": "Platja de la Barra",
+                  "text": "Platja de la Barra se remarcă prin cele patru insule artificiale care calmează apele.",
+                  "category": "recreational",
+                  "coords": [
+                        1.793312,
+                        41.228502
+                  ]
+            },
+            {
+                  "name": "Cala Forn",
+                  "text": "Cala Forn este o plajă mică din Sitges, oferind un cadru liniștit pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        1.841392,
+                        41.235549
+                  ]
+            },
+            {
+                  "name": "Platja dels Ponts",
+                  "text": "Platja dels Ponts este o plajă locală din Sitges, potrivită pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        1.83655,
+                        41.235883
+                  ]
             }
       ],
       "en": [
@@ -60589,6 +70509,132 @@ export const poiExtraEsV2: POI[] = [
                         1.804123,
                         41.233179
                   ]
+            },
+            {
+                  "name": "la Caleta",
+                  "text": "La Caleta is a small, quiet beach located near the center of Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.830299,
+                        41.236507
+                  ]
+            },
+            {
+                  "name": "Platja d'Aiguadolç",
+                  "text": "Platja d'Aiguadolç is located next to the port of Sitges and offers a family atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        1.827859,
+                        41.236452
+                  ]
+            },
+            {
+                  "name": "Platja Fonda",
+                  "text": "Platja Fonda is a quieter stretch of coastline in the municipality of Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.816406,
+                        41.23604
+                  ]
+            },
+            {
+                  "name": "Platja de les Anquines",
+                  "text": "Platja de les Anquines is an artificial beach in Sitges, ideal for children.",
+                  "category": "recreational",
+                  "coords": [
+                        1.78779,
+                        41.224599
+                  ]
+            },
+            {
+                  "name": "Platja de la Riera Xica",
+                  "text": "Platja de la Riera Xica is a narrow sandy beach along the promenade of Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.796886,
+                        41.230528
+                  ]
+            },
+            {
+                  "name": "Platja de les Coves",
+                  "text": "Platja de les Coves is a picturesque beach in Sitges, located under cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        1.774771,
+                        41.223117
+                  ]
+            },
+            {
+                  "name": "Platja de Santa Margarida",
+                  "text": "Platja de Santa Margarida is another sandy beach on the coast of Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.778689,
+                        41.223763
+                  ]
+            },
+            {
+                  "name": "Platja del Cellerot",
+                  "text": "Platja del Cellerot is a smaller beach section in the Catalan town of Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.785131,
+                        41.224146
+                  ]
+            },
+            {
+                  "name": "Platja de l'Estanyol",
+                  "text": "Platja de l'Estanyol is a long sandy beach with various services in Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.800306,
+                        41.231936
+                  ]
+            },
+            {
+                  "name": "Platja de Rosés",
+                  "text": "Platja de Rosés is a beach in Sitges that invites relaxation by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        1.769519,
+                        41.22141
+                  ]
+            },
+            {
+                  "name": "Platja de Terramar",
+                  "text": "Platja de Terramar is located at the southern end of Sitges and is known for its gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        1.789945,
+                        41.226226
+                  ]
+            },
+            {
+                  "name": "Platja de la Barra",
+                  "text": "Platja de la Barra is distinguished by four artificial islands that calm the waters.",
+                  "category": "recreational",
+                  "coords": [
+                        1.793312,
+                        41.228502
+                  ]
+            },
+            {
+                  "name": "Cala Forn",
+                  "text": "Cala Forn is a small beach in Sitges, providing a quiet setting for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        1.841392,
+                        41.235549
+                  ]
+            },
+            {
+                  "name": "Platja dels Ponts",
+                  "text": "Platja dels Ponts is a local beach in Sitges, suitable for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        1.83655,
+                        41.235883
+                  ]
             }
       ]
 }},
@@ -60758,6 +70804,24 @@ export const poiExtraEsV2: POI[] = [
                         2.712339,
                         39.766748
                   ]
+            },
+            {
+                  "name": "platja d'en Repic",
+                  "text": "Ein beliebter Sandstrand in der Bucht von Port de Sóller auf Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.691169,
+                        39.791079
+                  ]
+            },
+            {
+                  "name": "platja de Can Generós",
+                  "text": "Ein kleiner, ruhiger Strandabschnitt im Hafen von Port de Sóller.",
+                  "category": "recreational",
+                  "coords": [
+                        2.696398,
+                        39.79585
+                  ]
             }
       ],
       "hu": [
@@ -60924,6 +70988,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.712339,
                         39.766748
+                  ]
+            },
+            {
+                  "name": "platja d'en Repic",
+                  "text": "Népszerű homokos strand a mallorcai Port de Sóller öblében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.691169,
+                        39.791079
+                  ]
+            },
+            {
+                  "name": "platja de Can Generós",
+                  "text": "Kicsi, nyugodt tengerparti szakasz Port de Sóller kikötőjében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.696398,
+                        39.79585
                   ]
             }
       ],
@@ -61092,6 +71174,24 @@ export const poiExtraEsV2: POI[] = [
                         2.712339,
                         39.766748
                   ]
+            },
+            {
+                  "name": "platja d'en Repic",
+                  "text": "O plajă populară cu nisip în golful Port de Sóller din Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.691169,
+                        39.791079
+                  ]
+            },
+            {
+                  "name": "platja de Can Generós",
+                  "text": "O secțiune de plajă mică și liniștită în portul Port de Sóller.",
+                  "category": "recreational",
+                  "coords": [
+                        2.696398,
+                        39.79585
+                  ]
             }
       ],
       "en": [
@@ -61258,6 +71358,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.712339,
                         39.766748
+                  ]
+            },
+            {
+                  "name": "platja d'en Repic",
+                  "text": "A popular sandy beach in the bay of Port de Sóller on Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.691169,
+                        39.791079
+                  ]
+            },
+            {
+                  "name": "platja de Can Generós",
+                  "text": "A small, quiet beach section in the harbor of Port de Sóller.",
+                  "category": "recreational",
+                  "coords": [
+                        2.696398,
+                        39.79585
                   ]
             }
       ]
@@ -63422,6 +73540,51 @@ export const poiExtraEsV2: POI[] = [
                         -4.523044,
                         36.591955
                   ]
+            },
+            {
+                  "name": "Playa de los Álamos",
+                  "text": "Ein breiter Strand in Torremolinos, der für seine Freizeitmöglichkeiten und den feinen Sand geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.482917,
+                        36.637701
+                  ]
+            },
+            {
+                  "name": "Water Fun",
+                  "text": "Ein saisonaler Wasserpark in Torremolinos mit verschiedenen Rutschen und Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.52857,
+                        36.588922
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "Ein Vergnügungspark für Kinder in Torremolinos mit Fahrgeschäften und Spielen.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.474273,
+                        36.66029
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "Ein spezielles Schwimmbecken für kleine Kinder in Torremolinos.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
+                  ]
+            },
+            {
+                  "name": "Selwo Marina",
+                  "text": "Ein Meerespark in Torremolinos mit Delfinen, Seelöwen und Pinguinen.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.532284,
+                        36.592327
+                  ]
             }
       ],
       "hu": [
@@ -63682,6 +73845,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.523044,
                         36.591955
+                  ]
+            },
+            {
+                  "name": "Playa de los Álamos",
+                  "text": "Széles tengerpart Torremolinosban, amelyet szabadidős lehetőségei és finom homokja miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.482917,
+                        36.637701
+                  ]
+            },
+            {
+                  "name": "Water Fun",
+                  "text": "Szezonális vízipark Torremolinosban, különféle csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.52857,
+                        36.588922
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "Gyermekvidámpark Torremolinosban, játékokkal és attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.474273,
+                        36.66029
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "Kifejezetten kisgyermekek számára fenntartott úszómedence Torremolinosban.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
+                  ]
+            },
+            {
+                  "name": "Selwo Marina",
+                  "text": "Tengeri park Torremolinosban, ahol delfinek, fókák és pingvinek láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.532284,
+                        36.592327
                   ]
             }
       ],
@@ -63944,6 +74152,51 @@ export const poiExtraEsV2: POI[] = [
                         -4.523044,
                         36.591955
                   ]
+            },
+            {
+                  "name": "Playa de los Álamos",
+                  "text": "O plajă largă în Torremolinos, apreciată pentru opțiunile sale de agrement și nisipul fin.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.482917,
+                        36.637701
+                  ]
+            },
+            {
+                  "name": "Water Fun",
+                  "text": "Un parc acvatic sezonier în Torremolinos, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.52857,
+                        36.588922
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "Un parc de distracții pentru copii în Torremolinos, cu caruseluri și jocuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.474273,
+                        36.66029
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "O piscină dedicată copiilor mici situată în Torremolinos.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
+                  ]
+            },
+            {
+                  "name": "Selwo Marina",
+                  "text": "Un parc marin în Torremolinos cu delfini, lei de mare și pinguini.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.532284,
+                        36.592327
+                  ]
             }
       ],
       "en": [
@@ -64205,6 +74458,51 @@ export const poiExtraEsV2: POI[] = [
                         -4.523044,
                         36.591955
                   ]
+            },
+            {
+                  "name": "Playa de los Álamos",
+                  "text": "A wide beach in Torremolinos, valued for its leisure options and fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.482917,
+                        36.637701
+                  ]
+            },
+            {
+                  "name": "Water Fun",
+                  "text": "A seasonal water park in Torremolinos featuring various slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.52857,
+                        36.588922
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "A children's amusement park in Torremolinos with rides and games.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.474273,
+                        36.66029
+                  ]
+            },
+            {
+                  "name": "Piscina infantill",
+                  "text": "A dedicated swimming pool for younger children located in Torremolinos.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.488509,
+                        36.636454
+                  ]
+            },
+            {
+                  "name": "Selwo Marina",
+                  "text": "A marine park in Torremolinos featuring dolphins, sea lions, and penguins.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.532284,
+                        36.592327
+                  ]
             }
       ]
 }},
@@ -64295,6 +74593,168 @@ export const poiExtraEsV2: POI[] = [
                         2.946564,
                         41.740616
                   ]
+            },
+            {
+                  "name": "Platja de Portopí",
+                  "text": "Ein malerischer kleiner Strand in Tossa de Mar, der sich in einer ruhigen Bucht an der Costa Brava befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.899084,
+                        41.707469
+                  ]
+            },
+            {
+                  "name": "Platja de sa Carbonera",
+                  "text": "Ein natürlicher Strandabschnitt in Tossa de Mar, ideal zum Entspannen an der Mittelmeerküste.",
+                  "category": "recreational",
+                  "coords": [
+                        2.935684,
+                        41.720916
+                  ]
+            },
+            {
+                  "name": "Cala Bona",
+                  "text": "Eine charmante Bucht in Tossa de Mar, die für ihr klares Wasser und die umliegenden Pinienwälder bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94663,
+                        41.730262
+                  ]
+            },
+            {
+                  "name": "Sot d'en Boada",
+                  "text": "Ein kleiner, ruhiger Strand in Tossa de Mar, der eine entspannte Atmosphäre am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94116,
+                        41.725379
+                  ]
+            },
+            {
+                  "name": "Platja de la Mar Menuda",
+                  "text": "Ein beliebter Familienstrand in Tossa de Mar, der für seinen groben Sand und die gute Ausstattung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.938302,
+                        41.722116
+                  ]
+            },
+            {
+                  "name": "Cala l'Infern",
+                  "text": "Ein felsiger Küstenabschnitt in Tossa de Mar, der durch seine naturbelassene Schönheit besticht.",
+                  "category": "recreational",
+                  "coords": [
+                        2.939547,
+                        41.72408
+                  ]
+            },
+            {
+                  "name": "Racó de Llevant de Giverola",
+                  "text": "Ein ruhiger Strandabschnitt bei Giverola in Tossa de Mar, umgeben von mediterraner Vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        2.956237,
+                        41.736865
+                  ]
+            },
+            {
+                  "name": "Cala Pola",
+                  "text": "Eine wunderschöne Bucht in Tossa de Mar, die oft von Campern und Naturliebhabern besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        2.950958,
+                        41.733173
+                  ]
+            },
+            {
+                  "name": "Cala d'es Llevador",
+                  "text": "Ein naturbelassener Strand in Tossa de Mar, der für seine landschaftliche Schönheit bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.91094,
+                        41.709245
+                  ]
+            },
+            {
+                  "name": "Cala d'en Carlos",
+                  "text": "Ein gemütlicher Strandabschnitt in Tossa de Mar, der Teil einer malerischen Küstenlandschaft ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.908071,
+                        41.709939
+                  ]
+            },
+            {
+                  "name": "Cala Figuera",
+                  "text": "Ein kleiner Strand in Tossa de Mar, der in einer typischen Bucht der Costa Brava liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        2.907169,
+                        41.710197
+                  ]
+            },
+            {
+                  "name": "Platja de Garbí de Llorell",
+                  "text": "Ein weitläufiger Sandstrand in Tossa de Mar, der gute Bedingungen für Wassersport bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.902143,
+                        41.710029
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant de Llorell",
+                  "text": "Der östliche Teil des Llorell-Strandes in Tossa de Mar, bekannt für seinen goldenen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        2.904341,
+                        41.710581
+                  ]
+            },
+            {
+                  "name": "Platja de Giverola",
+                  "text": "Ein schöner Strand in Tossa de Mar, der für seine hufeisenförmige Bucht und das klare Wasser geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        2.954024,
+                        41.73731
+                  ]
+            },
+            {
+                  "name": "Cala Fotedera",
+                  "text": "Eine abgelegene Bucht in Tossa de Mar, die nur über Stufen erreichbar ist und klares, türkisfarbenes Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.957506,
+                        41.738142
+                  ]
+            },
+            {
+                  "name": "Platja de sa Pedrera",
+                  "text": "Ein ruhiger Küstenabschnitt in Tossa de Mar, der durch seine natürliche Umgebung besticht.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9625,
+                        41.744072
+                  ]
+            },
+            {
+                  "name": "Cala Morisca",
+                  "text": "Ein malerischer Strand in Tossa de Mar, der an der Grenze zur Gemeinde Lloret de Mar liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        2.896678,
+                        41.70535
+                  ]
+            },
+            {
+                  "name": "Platja de Portopí (sector nord)",
+                  "text": "Der nördliche Sektor des Portopí-Strandes in Tossa de Mar, ideal für einen ruhigen Tag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        2.900071,
+                        41.708697
+                  ]
             }
       ],
       "hu": [
@@ -64382,6 +74842,168 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.946564,
                         41.740616
+                  ]
+            },
+            {
+                  "name": "Platja de Portopí",
+                  "text": "Festői kis tengerpart Tossa de Marban, egy csendes öbölben a Costa Braván.",
+                  "category": "recreational",
+                  "coords": [
+                        2.899084,
+                        41.707469
+                  ]
+            },
+            {
+                  "name": "Platja de sa Carbonera",
+                  "text": "Természetes tengerparti szakasz Tossa de Marban, ideális pihenésre a földközi-tengeri parton.",
+                  "category": "recreational",
+                  "coords": [
+                        2.935684,
+                        41.720916
+                  ]
+            },
+            {
+                  "name": "Cala Bona",
+                  "text": "Bájos öböl Tossa de Marban, amely tiszta vizéről és a környező fenyvesekről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94663,
+                        41.730262
+                  ]
+            },
+            {
+                  "name": "Sot d'en Boada",
+                  "text": "Kicsi, csendes tengerpart Tossa de Marban, amely nyugodt környezetet kínál a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94116,
+                        41.725379
+                  ]
+            },
+            {
+                  "name": "Platja de la Mar Menuda",
+                  "text": "Népszerű családi strand Tossa de Marban, amely durva homokjáról és jó felszereltségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.938302,
+                        41.722116
+                  ]
+            },
+            {
+                  "name": "Cala l'Infern",
+                  "text": "Sziklás tengerparti szakasz Tossa de Marban, amely érintetlen szépségével tűnik ki.",
+                  "category": "recreational",
+                  "coords": [
+                        2.939547,
+                        41.72408
+                  ]
+            },
+            {
+                  "name": "Racó de Llevant de Giverola",
+                  "text": "Csendes tengerparti szakasz Giverola közelében, Tossa de Marban, mediterrán növényzettel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        2.956237,
+                        41.736865
+                  ]
+            },
+            {
+                  "name": "Cala Pola",
+                  "text": "Gyönyörű öböl Tossa de Marban, amelyet gyakran látogatnak kempingezők és természetbarátok.",
+                  "category": "recreational",
+                  "coords": [
+                        2.950958,
+                        41.733173
+                  ]
+            },
+            {
+                  "name": "Cala d'es Llevador",
+                  "text": "Természetes tengerpart Tossa de Marban, amely táji szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.91094,
+                        41.709245
+                  ]
+            },
+            {
+                  "name": "Cala d'en Carlos",
+                  "text": "Hangulatos tengerparti szakasz Tossa de Marban, amely egy festői parti táj része.",
+                  "category": "recreational",
+                  "coords": [
+                        2.908071,
+                        41.709939
+                  ]
+            },
+            {
+                  "name": "Cala Figuera",
+                  "text": "Kicsi tengerpart Tossa de Marban, amely a Costa Brava egyik jellegzetes öblében található.",
+                  "category": "recreational",
+                  "coords": [
+                        2.907169,
+                        41.710197
+                  ]
+            },
+            {
+                  "name": "Platja de Garbí de Llorell",
+                  "text": "Tágas homokos tengerpart Tossa de Marban, amely kiváló lehetőségeket kínál vízi sportokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        2.902143,
+                        41.710029
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant de Llorell",
+                  "text": "A Llorell strand keleti része Tossa de Marban, amely aranyhomokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        2.904341,
+                        41.710581
+                  ]
+            },
+            {
+                  "name": "Platja de Giverola",
+                  "text": "Szép tengerpart Tossa de Marban, amelyet patkó alakú öble és tiszta vize miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        2.954024,
+                        41.73731
+                  ]
+            },
+            {
+                  "name": "Cala Fotedera",
+                  "text": "Eldugott öböl Tossa de Marban, amely csak lépcsőkön érhető el, és tiszta, türkizkék vizet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        2.957506,
+                        41.738142
+                  ]
+            },
+            {
+                  "name": "Platja de sa Pedrera",
+                  "text": "Csendes tengerparti szakasz Tossa de Marban, amely természetes környezetével vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9625,
+                        41.744072
+                  ]
+            },
+            {
+                  "name": "Cala Morisca",
+                  "text": "Festői tengerpart Tossa de Marban, amely Lloret de Mar község határán található.",
+                  "category": "recreational",
+                  "coords": [
+                        2.896678,
+                        41.70535
+                  ]
+            },
+            {
+                  "name": "Platja de Portopí (sector nord)",
+                  "text": "A Portopí strand északi szektora Tossa de Marban, ideális egy csendes naphoz a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        2.900071,
+                        41.708697
                   ]
             }
       ],
@@ -64471,6 +75093,168 @@ export const poiExtraEsV2: POI[] = [
                         2.946564,
                         41.740616
                   ]
+            },
+            {
+                  "name": "Platja de Portopí",
+                  "text": "O mică plajă pitorească în Tossa de Mar, situată într-un golf liniștit de pe Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        2.899084,
+                        41.707469
+                  ]
+            },
+            {
+                  "name": "Platja de sa Carbonera",
+                  "text": "O secțiune de plajă naturală în Tossa de Mar, ideală pentru relaxare pe coasta mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        2.935684,
+                        41.720916
+                  ]
+            },
+            {
+                  "name": "Cala Bona",
+                  "text": "Un golf fermecător în Tossa de Mar, cunoscut pentru apele sale limpezi și pădurile de pini înconjurătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94663,
+                        41.730262
+                  ]
+            },
+            {
+                  "name": "Sot d'en Boada",
+                  "text": "O plajă mică și liniștită în Tossa de Mar, oferind o atmosferă relaxată la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94116,
+                        41.725379
+                  ]
+            },
+            {
+                  "name": "Platja de la Mar Menuda",
+                  "text": "O plajă populară pentru familii în Tossa de Mar, cunoscută pentru nisipul grosier și facilitățile bune.",
+                  "category": "recreational",
+                  "coords": [
+                        2.938302,
+                        41.722116
+                  ]
+            },
+            {
+                  "name": "Cala l'Infern",
+                  "text": "O secțiune de coastă stâncoasă în Tossa de Mar, care impresionează prin frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        2.939547,
+                        41.72408
+                  ]
+            },
+            {
+                  "name": "Racó de Llevant de Giverola",
+                  "text": "O secțiune de plajă liniștită lângă Giverola în Tossa de Mar, înconjurată de vegetație mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        2.956237,
+                        41.736865
+                  ]
+            },
+            {
+                  "name": "Cala Pola",
+                  "text": "Un golf frumos în Tossa de Mar, frecventat adesea de excursioniști și iubitori de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        2.950958,
+                        41.733173
+                  ]
+            },
+            {
+                  "name": "Cala d'es Llevador",
+                  "text": "O plajă naturală în Tossa de Mar, cunoscută pentru frumusețea sa peisajistică.",
+                  "category": "recreational",
+                  "coords": [
+                        2.91094,
+                        41.709245
+                  ]
+            },
+            {
+                  "name": "Cala d'en Carlos",
+                  "text": "O secțiune de plajă primitoare în Tossa de Mar, care face parte dintr-un peisaj de coastă pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        2.908071,
+                        41.709939
+                  ]
+            },
+            {
+                  "name": "Cala Figuera",
+                  "text": "O plajă mică în Tossa de Mar, situată într-un golf tipic de pe Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        2.907169,
+                        41.710197
+                  ]
+            },
+            {
+                  "name": "Platja de Garbí de Llorell",
+                  "text": "O plajă de nisip întinsă în Tossa de Mar, care oferă condiții bune pentru sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        2.902143,
+                        41.710029
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant de Llorell",
+                  "text": "Partea estică a plajei Llorell din Tossa de Mar, cunoscută pentru nisipul său auriu.",
+                  "category": "recreational",
+                  "coords": [
+                        2.904341,
+                        41.710581
+                  ]
+            },
+            {
+                  "name": "Platja de Giverola",
+                  "text": "O plajă frumoasă în Tossa de Mar, apreciată pentru golful său în formă de potcoavă și apa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        2.954024,
+                        41.73731
+                  ]
+            },
+            {
+                  "name": "Cala Fotedera",
+                  "text": "Un golf retras în Tossa de Mar, accesibil doar pe trepte, oferind apă limpede și turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        2.957506,
+                        41.738142
+                  ]
+            },
+            {
+                  "name": "Platja de sa Pedrera",
+                  "text": "O secțiune de coastă liniștită în Tossa de Mar, care atrage prin mediul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9625,
+                        41.744072
+                  ]
+            },
+            {
+                  "name": "Cala Morisca",
+                  "text": "O plajă pitorească în Tossa de Mar, situată la granița cu municipalitatea Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.896678,
+                        41.70535
+                  ]
+            },
+            {
+                  "name": "Platja de Portopí (sector nord)",
+                  "text": "Sectorul nordic al plajei Portopí din Tossa de Mar, ideal pentru o zi liniștită la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        2.900071,
+                        41.708697
+                  ]
             }
       ],
       "en": [
@@ -64558,6 +75342,168 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.946564,
                         41.740616
+                  ]
+            },
+            {
+                  "name": "Platja de Portopí",
+                  "text": "A picturesque small beach in Tossa de Mar, located in a quiet cove on the Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        2.899084,
+                        41.707469
+                  ]
+            },
+            {
+                  "name": "Platja de sa Carbonera",
+                  "text": "A natural beach section in Tossa de Mar, ideal for relaxing on the Mediterranean coast.",
+                  "category": "recreational",
+                  "coords": [
+                        2.935684,
+                        41.720916
+                  ]
+            },
+            {
+                  "name": "Cala Bona",
+                  "text": "A charming cove in Tossa de Mar, known for its clear waters and surrounding pine forests.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94663,
+                        41.730262
+                  ]
+            },
+            {
+                  "name": "Sot d'en Boada",
+                  "text": "A small, quiet beach in Tossa de Mar, offering a relaxed atmosphere by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        2.94116,
+                        41.725379
+                  ]
+            },
+            {
+                  "name": "Platja de la Mar Menuda",
+                  "text": "A popular family beach in Tossa de Mar, known for its coarse sand and good facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        2.938302,
+                        41.722116
+                  ]
+            },
+            {
+                  "name": "Cala l'Infern",
+                  "text": "A rocky coastal section in Tossa de Mar, standing out for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        2.939547,
+                        41.72408
+                  ]
+            },
+            {
+                  "name": "Racó de Llevant de Giverola",
+                  "text": "A quiet beach section near Giverola in Tossa de Mar, surrounded by Mediterranean vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        2.956237,
+                        41.736865
+                  ]
+            },
+            {
+                  "name": "Cala Pola",
+                  "text": "A beautiful cove in Tossa de Mar, often visited by campers and nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        2.950958,
+                        41.733173
+                  ]
+            },
+            {
+                  "name": "Cala d'es Llevador",
+                  "text": "A natural beach in Tossa de Mar, known for its scenic beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        2.91094,
+                        41.709245
+                  ]
+            },
+            {
+                  "name": "Cala d'en Carlos",
+                  "text": "A cozy beach section in Tossa de Mar, part of a picturesque coastal landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        2.908071,
+                        41.709939
+                  ]
+            },
+            {
+                  "name": "Cala Figuera",
+                  "text": "A small beach in Tossa de Mar, located in a typical cove of the Costa Brava.",
+                  "category": "recreational",
+                  "coords": [
+                        2.907169,
+                        41.710197
+                  ]
+            },
+            {
+                  "name": "Platja de Garbí de Llorell",
+                  "text": "A spacious sandy beach in Tossa de Mar, offering good conditions for water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        2.902143,
+                        41.710029
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant de Llorell",
+                  "text": "The eastern part of Llorell beach in Tossa de Mar, known for its golden sand.",
+                  "category": "recreational",
+                  "coords": [
+                        2.904341,
+                        41.710581
+                  ]
+            },
+            {
+                  "name": "Platja de Giverola",
+                  "text": "A beautiful beach in Tossa de Mar, appreciated for its horseshoe-shaped bay and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        2.954024,
+                        41.73731
+                  ]
+            },
+            {
+                  "name": "Cala Fotedera",
+                  "text": "A secluded cove in Tossa de Mar, accessible only via steps, offering clear turquoise water.",
+                  "category": "recreational",
+                  "coords": [
+                        2.957506,
+                        41.738142
+                  ]
+            },
+            {
+                  "name": "Platja de sa Pedrera",
+                  "text": "A quiet coastal section in Tossa de Mar, attracting visitors with its natural environment.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9625,
+                        41.744072
+                  ]
+            },
+            {
+                  "name": "Cala Morisca",
+                  "text": "A scenic beach in Tossa de Mar, located on the border with the municipality of Lloret de Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        2.896678,
+                        41.70535
+                  ]
+            },
+            {
+                  "name": "Platja de Portopí (sector nord)",
+                  "text": "The northern sector of Portopí beach in Tossa de Mar, ideal for a quiet day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        2.900071,
+                        41.708697
                   ]
             }
       ]
@@ -64654,6 +75600,15 @@ export const poiExtraEsV2: POI[] = [
                         2.619377,
                         39.722889
                   ]
+            },
+            {
+                  "name": "Sa Marina",
+                  "text": "Sa Marina ist ein kleiner, steiniger Strand in der Nähe von Valldemossa auf Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.588325,
+                        39.718236
+                  ]
             }
       ],
       "hu": [
@@ -64746,6 +75701,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.619377,
                         39.722889
+                  ]
+            },
+            {
+                  "name": "Sa Marina",
+                  "text": "Sa Marina egy kicsi, kavicsos strand a mallorcai Valldemossa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.588325,
+                        39.718236
                   ]
             }
       ],
@@ -64840,6 +75804,15 @@ export const poiExtraEsV2: POI[] = [
                         2.619377,
                         39.722889
                   ]
+            },
+            {
+                  "name": "Sa Marina",
+                  "text": "Sa Marina este o plajă mică și pietroasă situată lângă Valldemossa, în Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.588325,
+                        39.718236
+                  ]
             }
       ],
       "en": [
@@ -64932,6 +75905,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.619377,
                         39.722889
+                  ]
+            },
+            {
+                  "name": "Sa Marina",
+                  "text": "Sa Marina is a small, stony beach located near Valldemossa on the island of Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.588325,
+                        39.718236
                   ]
             }
       ]
@@ -66842,6 +77824,15 @@ export const poiExtraEsV2: POI[] = [
                         -2.176277,
                         43.285631
                   ]
+            },
+            {
+                  "name": "Iñurritza",
+                  "text": "Ein Strandabschnitt in Zarautz, der an ein Biotop grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156702,
+                        43.290124
+                  ]
             }
       ],
       "hu": [
@@ -67026,6 +78017,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.176277,
                         43.285631
+                  ]
+            },
+            {
+                  "name": "Iñurritza",
+                  "text": "Biotóppal határos strandszakasz Zarautzban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156702,
+                        43.290124
                   ]
             }
       ],
@@ -67212,6 +78212,15 @@ export const poiExtraEsV2: POI[] = [
                         -2.176277,
                         43.285631
                   ]
+            },
+            {
+                  "name": "Iñurritza",
+                  "text": "O secțiune de plajă în Zarautz, adiacentă unui biotop.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156702,
+                        43.290124
+                  ]
             }
       ],
       "en": [
@@ -67396,6 +78405,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.176277,
                         43.285631
+                  ]
+            },
+            {
+                  "name": "Iñurritza",
+                  "text": "A beach section in Zarautz bordering a protected biotope.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156702,
+                        43.290124
                   ]
             }
       ]
@@ -69547,7 +80565,720 @@ export const poiExtraEsV2: POI[] = [
 }
   },
   {"id": "spain-lloret-de-mar-cities-v2", "type": "city", "parent": "ES-CT", "coords": [2.8456, 41.6995], "population": 40803, "tier": 2, "name": {"de": "Lloret de Mar", "hu": "Lloret de Mar", "ro": "Lloret de Mar", "en": "Lloret de Mar"}, "description": {"de": "Ein beliebter Urlaubsort an der Costa Brava, der für seine Strände, das lebhafte Nachtleben und die wunderschönen Santa Clotilde Gärten bekannt ist.", "hu": "A Costa Brava népszerű üdülővárosa, amely strandjairól, pezsgő éjszakai életéről és a gyönyörű Santa Clotilde kertekről ismert.", "ro": "O stațiune populară pe Costa Brava, cunoscută pentru plajele sale, viața de noapte activă și frumoasele grădini Santa Clotilde.", "en": "A popular resort town on the Costa Brava, known for its Mediterranean beaches, vibrant nightlife, and the beautiful Santa Clotilde Gardens."}, "descriptionAdvanced": {"de": "Lloret de Mar ist eines der bekanntesten Reiseziele an der katalanischen Costa Brava. Ursprünglich ein Fischerdorf, wandelte es sich im 20. Jahrhundert zu einem Tourismuszentrum. Die Stadt bietet mehrere Strände, von der großen Playa de Lloret bis hin zu ruhigeren Buchten wie Cala Boadella. Ein architektonisches Highlight ist die Kirche Sant Romà mit ihren bunten Dachziegeln im modernistischen Stil. Ebenfalls sehenswert ist der Modernistische Friedhof, der von Schülern Antoni Gaudís mitgestaltet wurde.\n\nBesonders beeindruckend sind die Gärten von Santa Clotilde, die auf einer Klippe über dem Meer im Stil der italienischen Renaissance angelegt wurden und spektakuläre Ausblicke bieten. Die Burg d'en Plaja am Ende des Hauptstrandes ist zwar privat, bildet aber eines der meistfotografierten Motive der Stadt. Lloret ist auch für sein intensives Nachtleben mit zahlreichen Clubs und Bars bekannt, was vor allem jüngeres Publikum anzieht. Für Wanderer bietet der Küstenweg Cami de Ronda wunderschöne Ausblicke auf die zerklüftete Küste. Die Stadt liegt etwa 80 km nördlich von Barcelona und ist gut über die Flughäfen Girona (GRO) und Barcelona-El Prat (BCN) erreichbar.", "hu": "Lloret de Mar a katalán Costa Brava egyik legismertebb turisztikai központja. Az egykori halászfalu mára modern üdülővárossá vált, amely széles homokos strandokkal (mint a Playa de Lloret) és rejtett öblökkel (Cala Boadella) várja a látogatókat. A város jellegzetessége a Sant Romà plébániatemplom, amelynek színes, mozaikos tetőcserepei a katalán modernizmus jegyeit viselik. Érdemes felkeresni a modernista temetőt is, ahol híres szobrászok alkotásai láthatók.\n\nA város egyik legszebb pontja a Santa Clotilde kertek, amely egy tenger feletti sziklán elterülő reneszánsz stílusú park, lenyűgöző kilátással a Földközi-tengerre. A Castell d'en Plaja, egy középkori stílusú kastély a tengerpart szélén, a város leggyakoribb fotótémája. Lloret hírnevét pezsgő éjszakai élete is alapozza, számos diszkó és bár várja a szórakozni vágyókat. A túrázók számára a Cami de Ronda nevű part menti ösvény kínál festői útvonalat a szomszédos települések felé. Barcelona mintegy 80 kilométerre fekszik, Girona repülőtere pedig mindössze 30 perces autóúttal elérhető.", "ro": "Lloret de Mar este una dintre cele mai dinamice stațiuni de pe Costa Brava, în Catalonia. Orașul a evoluat de la un sat de pescari la o destinație turistică majoră, oferind un amestec de plaje animate, precum Playa de Lloret, și golfuri liniștite, ca Fenals sau Cala Boadella. Arhitectura orașului include elemente de modernism catalan, vizibile la Biserica Sant Romà, cu acoperișul său colorat și mozaicat, dar și la Cimitirul Modernist, unde se află sculpturi de o mare valoare artistică.\n\nO atracție de top sunt Grădinile Santa Clotilde, amenajate într-un stil neorenascentist pe o stâncă abruptă, oferind vederi panoramice spectaculoase asupra mării. Simbolul vizual al orașului este Castelul d'en Plaja, o construcție privată ce seamănă cu o fortăreață medievală, situată la capătul plajei principale. Lloret este renumit pentru viața de noapte exuberantă, cu numeroase cluburi și cazinouri. Pentru iubitorii de natură, poteca de coastă Camino de Ronda oferă trasee spectaculoase de-a lungul mării. Stațiunea se află la aproximativ 80 km de Barcelona, fiind ușor accesibilă cu autobuzul sau mașina din Aeroportul Girona (GRO).", "en": "Lloret de Mar is a premier destination on the Costa Brava, blending Mediterranean beach life with a rich historical heritage. Once a humble fishing village, it rose to fame in the 1950s as a tourism pioneer. The town features the expansive Lloret Beach and more secluded spots like Fenals or the crystalline Cala Boadella. A standout landmark is the Parish Church of Sant Romà, famous for its colorful, mosaic-tiled domes in the Catalan Modernist style. The Modernist Cemetery is another cultural highlight, featuring works by students of Antoni Gaudí.\n\nThe Santa Clotilde Gardens are a must-see, perched on a cliffside with Italian Renaissance-style landscaping and breathtaking sea views. At the northern end of the main beach sits the iconic Castell d'en Plaja, a castle-like residence that provides a dramatic backdrop for photos. Lloret is also famous for its high-energy nightlife, attracting visitors from all over Europe to its numerous clubs and bars. For active travelers, the Camino de Ronda coastal path offers scenic hiking routes along the rugged shore. Located 80 km north of Barcelona, it is easily reached via Girona (GRO) or Barcelona-El Prat (BCN) airports."}, "facts": {"de": ["Costa Brava Region", "Santa Clotilde Gärten", "Kirche Sant Romà (Modernistisch)", "Castell d'en Plaja", "40.803 Einwohner", "Modernistischer Friedhof", "Playa de Lloret", "Cami de Ronda (Wanderweg)"], "hu": ["Costa Brava partvidék", "Santa Clotilde kertek", "Sant Romà templom", "Castell d'en Plaja", "40 803 lakos", "Modernista temető", "Cala Boadella öböl", "Cami de Ronda túraútvonal"], "ro": ["Regiunea Costa Brava", "Grădinile Santa Clotilde", "Biserica Sant Romà", "Castelul d'en Plaja", "40.803 locuitori", "Cimitirul Modernist", "Plaja Fenals", "Drumul de coastă Camino de Ronda"], "en": ["Costa Brava coastline", "Santa Clotilde Gardens", "Sant Romà Church", "Castell d'en Plaja", "40,803 residents", "Modernist Cemetery", "Fenals Beach", "Camino de Ronda coastal path"]}, "imageHint": "The Santa Clotilde Gardens in Lloret de Mar with classical statues and green terraces overlooking the turquoise Mediterranean Sea.", "image": "/poi-images/spain-lloret-de-mar-cities-v2.webp",
-    "sights": {"de": [{"name": "Jardines de Santa Clotilde", "text": "Gärten im Stil der italienischen Renaissance auf einer Klippe mit Blick auf das Meer, entworfen im Jahr 1919.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [2.82618, 41.6911]}, {"name": "Dona Marinera", "text": "Eine 1966 errichtete Bronzestatue zu Ehren der Frauen der Seeleute, die von einem Aussichtspunkt auf die Bucht blickt.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [2.844888, 41.695187]}, {"name": "Museu del Mar", "text": "Das Museum befindet sich in der Casa Garriga und dokumentiert die reiche maritime Geschichte der Stadt und ihrer Seefahrer.", "category": "museums", "confidence": "high", "coords": [2.85073, 41.69956]}, {"name": "Ermita de Santa Cristina", "text": "Eine neoklassizistische Kapelle aus dem 18. Jahrhundert, die der Schutzpatronin von Lloret de Mar gewidmet ist.", "category": "churches/cathedrals", "confidence": "high", "coords": [2.816148, 41.687784]}, {"name": "Santuari de Sant Pere del Bosc", "text": "Ein ehemaliges Kloster, das im 19. Jahrhundert von Puig i Cadafalch in ein prächtiges modernistisches Gebäude umgebaut wurde.", "category": "famous buildings/residences", "confidence": "high", "coords": [2.790372, 41.711586]}, {"name": "Poblat Ibèric de Puig de Castellet", "text": "Eine archäologische Stätte einer iberischen Siedlung aus dem 3. Jahrhundert v. Chr. in Lloret de Mar.", "category": "historical", "coords": [2.848086, 41.716082]}, {"name": "Castell d'en Plaja", "text": "Das Castell d'en Plaja erhebt sich majestätisch als ikonische Privatburg im neugotischen Stil direkt am Ufer von Lloret de Mar. Seine markante Lage an der Küste verleiht der gesamten Bucht eine romantische und leicht geheimnisvolle Atmosphäre. Obwohl das Innere privat ist, können Besucher das prächtige Gebäude von außen bewundern und den angrenzenden Küstenweg für Spaziergänge nutzen. Ein Fotostopp am späten Nachmittag rückt die Burg in ein besonders schönes Licht.", "category": "castle", "coords": [2.859579, 41.699371]}, {"name": "Teatre Municipal de Lloret", "text": "Das städtische Theater von Lloret de Mar bietet ein vielfältiges Programm an kulturellen Aufführungen.", "category": "cultural", "coords": [2.847679, 41.705024]}, {"name": "Masia de Can Saragossa", "text": "Ein historisches Landhaus in Lloret de Mar, das heute als Museum für lokale Geschichte dient.", "category": "museum", "coords": [2.846314, 41.704519]}, {"name": "Castell de Sant Joan", "text": "Eine mittelalterliche Burgruine auf einem Hügel, die einen weiten Blick über die Bucht bietet.", "category": "castle", "coords": [2.83941, 41.693888]}, {"name": "l'Àngel", "text": "Ein religiöses Denkmal in Lloret de Mar, das einer Engelsfigur gewidmet ist.", "category": "historical", "coords": [2.812033, 41.711371]}, {"name": "Family Lagoon", "text": "Ein Familienschwimmbad in Lloret De Mar, das speziell auf die Bedürfnisse von Familien zugeschnitten ist.", "category": "family", "coords": [2.828361, 41.706395]}, {"name": "Llac Relax", "text": "Ein entspannendes Schwimmbecken in Lloret De Mar für ruhige Momente im Wasser.", "category": "family", "coords": [2.827381, 41.707889]}, {"name": "Llac infantil", "text": "Ein spezielles Kinderbecken in Lloret De Mar für sicheres und fröhliches Baden.", "category": "family", "coords": [2.829031, 41.707786]}], "hu": [{"name": "Jardines de Santa Clotilde", "text": "Olasz reneszánsz stílusú kertek egy sziklafalon, amelyeket 1919-ben terveztek, lenyűgöző tengeri kilátással.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [2.82618, 41.6911]}, {"name": "Dona Marinera", "text": "Egy 1966-ban emelt bronzszobor a tengerészek feleségeinek tiszteletére, amely az öbölre néző kilátóponton található.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [2.844888, 41.695187]}, {"name": "Museu del Mar", "text": "A Casa Garriga épületében található múzeum bemutatja a város gazdag tengerészeti múltját és a hajóépítés történetét.", "category": "museums", "confidence": "high", "coords": [2.85073, 41.69956]}, {"name": "Ermita de Santa Cristina", "text": "18. századi neoklasszicista kápolna, amely Lloret de Mar védőszentjének tiszteletére épült egy tengerparti dombon.", "category": "churches/cathedrals", "confidence": "high", "coords": [2.816148, 41.687784]}, {"name": "Santuari de Sant Pere del Bosc", "text": "Egykori kolostor, amelyet a 19. században Puig i Cadafalch épített át pompás modernista stílusú épületté.", "category": "famous buildings/residences", "confidence": "high", "coords": [2.790372, 41.711586]}, {"name": "Poblat Ibèric de Puig de Castellet", "text": "Egy 3. századi ibér település régészeti lelőhelye Lloret de Marban.", "category": "historical", "coords": [2.848086, 41.716082]}, {"name": "Castell d'en Plaja", "text": "A Castell d'en Plaja fenségesen magasodik ikonikus, neogótikus stílusú magánvárként közvetlenül Lloret de Mar partján. A part menti feltűnő elhelyezkedése romantikus és kissé titokzatos légkört kölcsönöz az egész öbölnek. Bár a belső tér privát, a látogatók kívülről megcsodálhatják a pompás épületet, és a szomszédos parti sétányon tehetnek egy nagy sétát. Késő délután érdemes fotózni, amikor a vár különösen szép fényben fürdik.", "category": "castle", "coords": [2.859579, 41.699371]}, {"name": "Teatre Municipal de Lloret", "text": "Lloret de Mar városi színháza, amely változatos kulturális előadásokat és eseményeket kínál.", "category": "cultural", "coords": [2.847679, 41.705024]}, {"name": "Masia de Can Saragossa", "text": "Egy történelmi udvarház Lloret de Marban, amely ma helytörténeti múzeumként működik.", "category": "museum", "coords": [2.846314, 41.704519]}, {"name": "Castell de Sant Joan", "text": "Egy dombtetőn álló középkori várrom, ahonnan tágas kilátás nyílik az öbölre.", "category": "castle", "coords": [2.83941, 41.693888]}, {"name": "l'Àngel", "text": "Egy angyalalaknak szentelt vallási emlékmű Lloret de Marban.", "category": "historical", "coords": [2.812033, 41.711371]}, {"name": "Family Lagoon", "text": "Családi úszómedence Lloret De Marban, amelyet kifejezetten a családok igényeire terveztek.", "category": "family", "coords": [2.828361, 41.706395]}, {"name": "Llac Relax", "text": "Egy pihentető úszómedence Lloret De Marban a nyugodt pillanatokhoz a vízben.", "category": "family", "coords": [2.827381, 41.707889]}, {"name": "Llac infantil", "text": "Egy speciális gyermekmedence Lloret De Marban a biztonságos és vidám fürdőzéshez.", "category": "family", "coords": [2.829031, 41.707786]}], "ro": [{"name": "Jardines de Santa Clotilde", "text": "Grădini în stil renascentist italian situate pe o stâncă deasupra mării, proiectate în anul 1919.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [2.82618, 41.6911]}, {"name": "Dona Marinera", "text": "O statuie de bronz ridicată în 1966 în onoarea soțiilor marinarilor, situată într-un punct de observație strategic.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [2.844888, 41.695187]}, {"name": "Museu del Mar", "text": "Găzduit în Casa Garriga, acest muzeu documentează istoria maritimă bogată a orașului și viața navigatorilor locali.", "category": "museums", "confidence": "high", "coords": [2.85073, 41.69956]}, {"name": "Ermita de Santa Cristina", "text": "O capelă neoclasică din secolul al XVIII-lea, dedicată protectoarei spirituale a orașului Lloret de Mar.", "category": "churches/cathedrals", "confidence": "high", "coords": [2.816148, 41.687784]}, {"name": "Santuari de Sant Pere del Bosc", "text": "O fostă mănăstire transformată în secolul al XIX-lea de Puig i Cadafalch într-o clădire modernistă grandioasă.", "category": "famous buildings/residences", "confidence": "high", "coords": [2.790372, 41.711586]}, {"name": "Poblat Ibèric de Puig de Castellet", "text": "Un sit arheologic al unei așezări iberice din secolul al III-lea î.Hr. în Lloret de Mar.", "category": "historical", "coords": [2.848086, 41.716082]}, {"name": "Castell d'en Plaja", "text": "Castell d'en Plaja se înalță maiestuos ca un castel privat iconic, în stil neogotic, chiar pe malul orașului Lloret de Mar. Poziția sa proeminentă pe coastă conferă întregului golf o atmosferă romantică și ușor misterioasă. Deși interiorul este privat, vizitatorii pot admira această clădire magnifică din exterior și pot folosi poteca de coastă alăturată pentru plimbări. O scurtă oprire pentru fotografii la sfârșitul după-amiezii va surprinde castelul într-o lumină deosebit de frumoasă.", "category": "castle", "coords": [2.859579, 41.699371]}, {"name": "Teatre Municipal de Lloret", "text": "Teatrul municipal din Lloret de Mar oferă un program variat de spectacole culturale.", "category": "cultural", "coords": [2.847679, 41.705024]}, {"name": "Masia de Can Saragossa", "text": "O casă istorică din Lloret de Mar, care astăzi servește drept muzeu de istorie locală.", "category": "museum", "coords": [2.846314, 41.704519]}, {"name": "Castell de Sant Joan", "text": "O ruină de castel medieval pe un deal, oferind o vedere panoramică asupra golfului.", "category": "castle", "coords": [2.83941, 41.693888]}, {"name": "l'Àngel", "text": "Un monument religios din Lloret de Mar dedicat unei figuri de înger.", "category": "historical", "coords": [2.812033, 41.711371]}, {"name": "Family Lagoon", "text": "O piscină pentru familii în Lloret De Mar, concepută special pentru nevoile familiilor.", "category": "family", "coords": [2.828361, 41.706395]}, {"name": "Llac Relax", "text": "O piscină relaxantă în Lloret De Mar pentru momente liniștite în apă.", "category": "family", "coords": [2.827381, 41.707889]}, {"name": "Llac infantil", "text": "O piscină specială pentru copii în Lloret De Mar pentru scăldat în siguranță și veselie.", "category": "family", "coords": [2.829031, 41.707786]}], "en": [{"name": "Jardines de Santa Clotilde", "text": "Italian Renaissance-style gardens perched on a cliff overlooking the sea, designed in 1919 with beautiful terraces.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [2.82618, 41.6911]}, {"name": "Dona Marinera", "text": "A bronze statue erected in 1966 to honor sailors' wives, located at a viewpoint overlooking the Mediterranean.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [2.844888, 41.695187]}, {"name": "Museu del Mar", "text": "Located in Casa Garriga, this museum documents the town's rich maritime history and the era of the 'Indianos'.", "category": "museums", "confidence": "high", "coords": [2.85073, 41.69956]}, {"name": "Ermita de Santa Cristina", "text": "An 18th-century neoclassical chapel dedicated to the patron saint of Lloret, set in a scenic coastal location.", "category": "churches/cathedrals", "confidence": "high", "coords": [2.816148, 41.687784]}, {"name": "Santuari de Sant Pere del Bosc", "text": "A former monastery renovated by Puig i Cadafalch in the 19th century into a magnificent modernist building.", "category": "famous buildings/residences", "confidence": "high", "coords": [2.790372, 41.711586]}, {"name": "Poblat Ibèric de Puig de Castellet", "text": "An archaeological site of an Iberian settlement from the 3rd century BC in Lloret de Mar.", "category": "historical", "coords": [2.848086, 41.716082]}, {"name": "Castell d'en Plaja", "text": "Castell d'en Plaja rises majestically as an iconic neo-Gothic private castle right on the shores of Lloret de Mar. Its prominent coastal position lends the entire bay a deeply romantic and slightly mysterious atmosphere. Although the interior remains private, visitors can admire the magnificent structure from the outside and enjoy walking along the adjacent coastal path. A photo stop in the late afternoon captures the castle in exceptionally beautiful light.", "category": "castle", "coords": [2.859579, 41.699371]}, {"name": "Teatre Municipal de Lloret", "text": "The municipal theatre of Lloret de Mar offers a diverse program of cultural performances.", "category": "cultural", "coords": [2.847679, 41.705024]}, {"name": "Masia de Can Saragossa", "text": "A historical farmhouse in Lloret de Mar that now serves as a museum for local history.", "category": "museum", "coords": [2.846314, 41.704519]}, {"name": "Castell de Sant Joan", "text": "A medieval castle ruin on a hill, offering an expansive view over the bay.", "category": "castle", "coords": [2.83941, 41.693888]}, {"name": "l'Àngel", "text": "A religious monument in Lloret de Mar dedicated to an angel figure.", "category": "historical", "coords": [2.812033, 41.711371]}, {"name": "Family Lagoon", "text": "A family swimming pool in Lloret De Mar designed specifically for family needs.", "category": "family", "coords": [2.828361, 41.706395]}, {"name": "Llac Relax", "text": "A relaxing swimming pool in Lloret De Mar for quiet moments in the water.", "category": "family", "coords": [2.827381, 41.707889]}, {"name": "Llac infantil", "text": "A special children's pool in Lloret De Mar for safe and happy swimming.", "category": "family", "coords": [2.829031, 41.707786]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Gärten im Stil der italienischen Renaissance auf einer Klippe mit Blick auf das Meer, entworfen im Jahr 1919.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        2.82618,
+                        41.6911
+                  ]
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "Eine 1966 errichtete Bronzestatue zu Ehren der Frauen der Seeleute, die von einem Aussichtspunkt auf die Bucht blickt.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        2.844888,
+                        41.695187
+                  ]
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "Das Museum befindet sich in der Casa Garriga und dokumentiert die reiche maritime Geschichte der Stadt und ihrer Seefahrer.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        2.85073,
+                        41.69956
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "Eine neoklassizistische Kapelle aus dem 18. Jahrhundert, die der Schutzpatronin von Lloret de Mar gewidmet ist.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        2.816148,
+                        41.687784
+                  ]
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "Ein ehemaliges Kloster, das im 19. Jahrhundert von Puig i Cadafalch in ein prächtiges modernistisches Gebäude umgebaut wurde.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        2.790372,
+                        41.711586
+                  ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "Eine archäologische Stätte einer iberischen Siedlung aus dem 3. Jahrhundert v. Chr. in Lloret de Mar.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "Das Castell d'en Plaja erhebt sich majestätisch als ikonische Privatburg im neugotischen Stil direkt am Ufer von Lloret de Mar. Seine markante Lage an der Küste verleiht der gesamten Bucht eine romantische und leicht geheimnisvolle Atmosphäre. Obwohl das Innere privat ist, können Besucher das prächtige Gebäude von außen bewundern und den angrenzenden Küstenweg für Spaziergänge nutzen. Ein Fotostopp am späten Nachmittag rückt die Burg in ein besonders schönes Licht.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "Das städtische Theater von Lloret de Mar bietet ein vielfältiges Programm an kulturellen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "Ein historisches Landhaus in Lloret de Mar, das heute als Museum für lokale Geschichte dient.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "Eine mittelalterliche Burgruine auf einem Hügel, die einen weiten Blick über die Bucht bietet.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "Ein religiöses Denkmal in Lloret de Mar, das einer Engelsfigur gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
+                  ]
+            },
+            {
+                  "name": "Family Lagoon",
+                  "text": "Ein Familienschwimmbad in Lloret De Mar, das speziell auf die Bedürfnisse von Familien zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        2.828361,
+                        41.706395
+                  ]
+            },
+            {
+                  "name": "Llac Relax",
+                  "text": "Ein entspannendes Schwimmbecken in Lloret De Mar für ruhige Momente im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        2.827381,
+                        41.707889
+                  ]
+            },
+            {
+                  "name": "Llac infantil",
+                  "text": "Ein spezielles Kinderbecken in Lloret De Mar für sicheres und fröhliches Baden.",
+                  "category": "family",
+                  "coords": [
+                        2.829031,
+                        41.707786
+                  ]
+            },
+            {
+                  "name": "Platja de sa Somera",
+                  "text": "Ein kleiner, ruhiger Strand in Lloret de Mar, abseits der belebten Hauptstrände.",
+                  "category": "recreational",
+                  "coords": [
+                        2.885079,
+                        41.703801
+                  ]
+            },
+            {
+                  "name": "Platja de Canyelles",
+                  "text": "Ein beliebter Sandstrand in Lloret de Mar, der über einen eigenen kleinen Hafen verfügt.",
+                  "category": "recreational",
+                  "coords": [
+                        2.882599,
+                        41.704237
+                  ]
+            },
+            {
+                  "name": "Caleta d'en Trons",
+                  "text": "Eine felsige Bucht in Lloret de Mar, ideal zum Schnorcheln im klaren Mittelmeerwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        2.864449,
+                        41.699543
+                  ]
+            },
+            {
+                  "name": "sa Cala Gran",
+                  "text": "Ein lokaler Strandabschnitt in Lloret de Mar, der eine natürliche Küstenatmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        2.873441,
+                        41.70171
+                  ]
+            },
+            {
+                  "name": "Cala des Rajols",
+                  "text": "Ein ruhiger Strand in Lloret de Mar, geschätzt für seine friedliche Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        2.886088,
+                        41.702813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Olasz reneszánsz stílusú kertek egy sziklafalon, amelyeket 1919-ben terveztek, lenyűgöző tengeri kilátással.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        2.82618,
+                        41.6911
+                  ]
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "Egy 1966-ban emelt bronzszobor a tengerészek feleségeinek tiszteletére, amely az öbölre néző kilátóponton található.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        2.844888,
+                        41.695187
+                  ]
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "A Casa Garriga épületében található múzeum bemutatja a város gazdag tengerészeti múltját és a hajóépítés történetét.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        2.85073,
+                        41.69956
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "18. századi neoklasszicista kápolna, amely Lloret de Mar védőszentjének tiszteletére épült egy tengerparti dombon.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        2.816148,
+                        41.687784
+                  ]
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "Egykori kolostor, amelyet a 19. században Puig i Cadafalch épített át pompás modernista stílusú épületté.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        2.790372,
+                        41.711586
+                  ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "Egy 3. századi ibér település régészeti lelőhelye Lloret de Marban.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "A Castell d'en Plaja fenségesen magasodik ikonikus, neogótikus stílusú magánvárként közvetlenül Lloret de Mar partján. A part menti feltűnő elhelyezkedése romantikus és kissé titokzatos légkört kölcsönöz az egész öbölnek. Bár a belső tér privát, a látogatók kívülről megcsodálhatják a pompás épületet, és a szomszédos parti sétányon tehetnek egy nagy sétát. Késő délután érdemes fotózni, amikor a vár különösen szép fényben fürdik.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "Lloret de Mar városi színháza, amely változatos kulturális előadásokat és eseményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "Egy történelmi udvarház Lloret de Marban, amely ma helytörténeti múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "Egy dombtetőn álló középkori várrom, ahonnan tágas kilátás nyílik az öbölre.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "Egy angyalalaknak szentelt vallási emlékmű Lloret de Marban.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
+                  ]
+            },
+            {
+                  "name": "Family Lagoon",
+                  "text": "Családi úszómedence Lloret De Marban, amelyet kifejezetten a családok igényeire terveztek.",
+                  "category": "family",
+                  "coords": [
+                        2.828361,
+                        41.706395
+                  ]
+            },
+            {
+                  "name": "Llac Relax",
+                  "text": "Egy pihentető úszómedence Lloret De Marban a nyugodt pillanatokhoz a vízben.",
+                  "category": "family",
+                  "coords": [
+                        2.827381,
+                        41.707889
+                  ]
+            },
+            {
+                  "name": "Llac infantil",
+                  "text": "Egy speciális gyermekmedence Lloret De Marban a biztonságos és vidám fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        2.829031,
+                        41.707786
+                  ]
+            },
+            {
+                  "name": "Platja de sa Somera",
+                  "text": "Kicsi, csendes tengerpart Lloret de Marban, távol a forgalmas fő strandoktól.",
+                  "category": "recreational",
+                  "coords": [
+                        2.885079,
+                        41.703801
+                  ]
+            },
+            {
+                  "name": "Platja de Canyelles",
+                  "text": "Népszerű homokos tengerpart Lloret de Marban, amely saját kis kikötővel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        2.882599,
+                        41.704237
+                  ]
+            },
+            {
+                  "name": "Caleta d'en Trons",
+                  "text": "Sziklás öböl Lloret de Marban, ideális búvárkodáshoz a tiszta földközi-tengeri vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        2.864449,
+                        41.699543
+                  ]
+            },
+            {
+                  "name": "sa Cala Gran",
+                  "text": "Helyi tengerparti szakasz Lloret de Marban, amely természetes parti környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        2.873441,
+                        41.70171
+                  ]
+            },
+            {
+                  "name": "Cala des Rajols",
+                  "text": "Csendes tengerpart Lloret de Marban, amelyet békés környezete miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        2.886088,
+                        41.702813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Grădini în stil renascentist italian situate pe o stâncă deasupra mării, proiectate în anul 1919.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        2.82618,
+                        41.6911
+                  ]
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "O statuie de bronz ridicată în 1966 în onoarea soțiilor marinarilor, situată într-un punct de observație strategic.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        2.844888,
+                        41.695187
+                  ]
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "Găzduit în Casa Garriga, acest muzeu documentează istoria maritimă bogată a orașului și viața navigatorilor locali.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        2.85073,
+                        41.69956
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "O capelă neoclasică din secolul al XVIII-lea, dedicată protectoarei spirituale a orașului Lloret de Mar.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        2.816148,
+                        41.687784
+                  ]
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "O fostă mănăstire transformată în secolul al XIX-lea de Puig i Cadafalch într-o clădire modernistă grandioasă.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        2.790372,
+                        41.711586
+                  ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "Un sit arheologic al unei așezări iberice din secolul al III-lea î.Hr. în Lloret de Mar.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "Castell d'en Plaja se înalță maiestuos ca un castel privat iconic, în stil neogotic, chiar pe malul orașului Lloret de Mar. Poziția sa proeminentă pe coastă conferă întregului golf o atmosferă romantică și ușor misterioasă. Deși interiorul este privat, vizitatorii pot admira această clădire magnifică din exterior și pot folosi poteca de coastă alăturată pentru plimbări. O scurtă oprire pentru fotografii la sfârșitul după-amiezii va surprinde castelul într-o lumină deosebit de frumoasă.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "Teatrul municipal din Lloret de Mar oferă un program variat de spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "O casă istorică din Lloret de Mar, care astăzi servește drept muzeu de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "O ruină de castel medieval pe un deal, oferind o vedere panoramică asupra golfului.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "Un monument religios din Lloret de Mar dedicat unei figuri de înger.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
+                  ]
+            },
+            {
+                  "name": "Family Lagoon",
+                  "text": "O piscină pentru familii în Lloret De Mar, concepută special pentru nevoile familiilor.",
+                  "category": "family",
+                  "coords": [
+                        2.828361,
+                        41.706395
+                  ]
+            },
+            {
+                  "name": "Llac Relax",
+                  "text": "O piscină relaxantă în Lloret De Mar pentru momente liniștite în apă.",
+                  "category": "family",
+                  "coords": [
+                        2.827381,
+                        41.707889
+                  ]
+            },
+            {
+                  "name": "Llac infantil",
+                  "text": "O piscină specială pentru copii în Lloret De Mar pentru scăldat în siguranță și veselie.",
+                  "category": "family",
+                  "coords": [
+                        2.829031,
+                        41.707786
+                  ]
+            },
+            {
+                  "name": "Platja de sa Somera",
+                  "text": "O plajă mică și liniștită în Lloret de Mar, departe de plajele principale aglomerate.",
+                  "category": "recreational",
+                  "coords": [
+                        2.885079,
+                        41.703801
+                  ]
+            },
+            {
+                  "name": "Platja de Canyelles",
+                  "text": "O plajă de nisip populară în Lloret de Mar, care are propriul său port mic.",
+                  "category": "recreational",
+                  "coords": [
+                        2.882599,
+                        41.704237
+                  ]
+            },
+            {
+                  "name": "Caleta d'en Trons",
+                  "text": "Un golf stâncos în Lloret de Mar, ideal pentru snorkeling în apa limpede a Mediteranei.",
+                  "category": "recreational",
+                  "coords": [
+                        2.864449,
+                        41.699543
+                  ]
+            },
+            {
+                  "name": "sa Cala Gran",
+                  "text": "O secțiune locală de plajă în Lloret de Mar, care oferă o atmosferă de coastă naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        2.873441,
+                        41.70171
+                  ]
+            },
+            {
+                  "name": "Cala des Rajols",
+                  "text": "O plajă liniștită în Lloret de Mar, apreciată pentru mediul său pașnic.",
+                  "category": "recreational",
+                  "coords": [
+                        2.886088,
+                        41.702813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Italian Renaissance-style gardens perched on a cliff overlooking the sea, designed in 1919 with beautiful terraces.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        2.82618,
+                        41.6911
+                  ]
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "A bronze statue erected in 1966 to honor sailors' wives, located at a viewpoint overlooking the Mediterranean.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        2.844888,
+                        41.695187
+                  ]
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "Located in Casa Garriga, this museum documents the town's rich maritime history and the era of the 'Indianos'.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        2.85073,
+                        41.69956
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "An 18th-century neoclassical chapel dedicated to the patron saint of Lloret, set in a scenic coastal location.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        2.816148,
+                        41.687784
+                  ]
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "A former monastery renovated by Puig i Cadafalch in the 19th century into a magnificent modernist building.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high",
+                  "coords": [
+                        2.790372,
+                        41.711586
+                  ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "An archaeological site of an Iberian settlement from the 3rd century BC in Lloret de Mar.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "Castell d'en Plaja rises majestically as an iconic neo-Gothic private castle right on the shores of Lloret de Mar. Its prominent coastal position lends the entire bay a deeply romantic and slightly mysterious atmosphere. Although the interior remains private, visitors can admire the magnificent structure from the outside and enjoy walking along the adjacent coastal path. A photo stop in the late afternoon captures the castle in exceptionally beautiful light.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "The municipal theatre of Lloret de Mar offers a diverse program of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "A historical farmhouse in Lloret de Mar that now serves as a museum for local history.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "A medieval castle ruin on a hill, offering an expansive view over the bay.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "A religious monument in Lloret de Mar dedicated to an angel figure.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
+                  ]
+            },
+            {
+                  "name": "Family Lagoon",
+                  "text": "A family swimming pool in Lloret De Mar designed specifically for family needs.",
+                  "category": "family",
+                  "coords": [
+                        2.828361,
+                        41.706395
+                  ]
+            },
+            {
+                  "name": "Llac Relax",
+                  "text": "A relaxing swimming pool in Lloret De Mar for quiet moments in the water.",
+                  "category": "family",
+                  "coords": [
+                        2.827381,
+                        41.707889
+                  ]
+            },
+            {
+                  "name": "Llac infantil",
+                  "text": "A special children's pool in Lloret De Mar for safe and happy swimming.",
+                  "category": "family",
+                  "coords": [
+                        2.829031,
+                        41.707786
+                  ]
+            },
+            {
+                  "name": "Platja de sa Somera",
+                  "text": "A small, quiet beach in Lloret de Mar, away from the busy main beaches.",
+                  "category": "recreational",
+                  "coords": [
+                        2.885079,
+                        41.703801
+                  ]
+            },
+            {
+                  "name": "Platja de Canyelles",
+                  "text": "A popular sandy beach in Lloret de Mar, which features its own small harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        2.882599,
+                        41.704237
+                  ]
+            },
+            {
+                  "name": "Caleta d'en Trons",
+                  "text": "A rocky cove in Lloret de Mar, ideal for snorkeling in the clear Mediterranean water.",
+                  "category": "recreational",
+                  "coords": [
+                        2.864449,
+                        41.699543
+                  ]
+            },
+            {
+                  "name": "sa Cala Gran",
+                  "text": "A local beach section in Lloret de Mar, offering a natural coastal atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        2.873441,
+                        41.70171
+                  ]
+            },
+            {
+                  "name": "Cala des Rajols",
+                  "text": "A quiet beach in Lloret de Mar, valued for its peaceful environment.",
+                  "category": "recreational",
+                  "coords": [
+                        2.886088,
+                        41.702813
+                  ]
+            }
+      ]
+}
   },
   {"id": "spain-corralejo-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-13.8675, 28.73], "population": 16403, "tier": 2, "name": {"de": "Corralejo", "hu": "Corralejo", "ro": "Corralejo", "en": "Corralejo"}, "description": {"de": "Ein ehemaliges Fischerdorf auf Fuerteventura, das heute für seinen Naturpark mit riesigen Wanderdünen und kristallklarem Wasser bekannt ist.", "hu": "Fuerteventura egykori halászfaluja, amely ma hatalmas vándorhomok-dűnéiről és kristálytiszta vizű strandjairól híres.", "ro": "Un fost sat pescăresc din Fuerteventura, cunoscut astăzi pentru parcul său natural cu dune imense de nisip și ape cristaline.", "en": "A former fishing village on Fuerteventura, now famous for its natural park of massive sand dunes and turquoise waters."}, "descriptionAdvanced": {"de": "Corralejo liegt an der Nordspitze der Insel Fuerteventura und ist eines der beliebtesten Touristenzentren der Insel. Das absolute Highlight ist der Parque Natural de las Dunas de Corralejo, ein etwa 11 km langes Gebiet aus feinem, weißem Sand, der aus zerriebenen Muschelschalen besteht. Die Dünen erstrecken sich bis zum Meer und bilden die berühmten „Grandes Playas“. Das Gebiet ist ein Paradies für Surfer, Windsurfer und Kitesurfer, da die Passatwinde hier ideale Bedingungen schaffen.\n\nVom Hafen in Corralejo legen regelmäßig Fähren zur unbewohnten Isla de Lobos ab, einem Naturschutzgebiet, das ideal zum Wandern und Schnorcheln ist. Auch die Nachbarinsel Lanzarote ist per Schnellfähre in nur 25 Minuten erreichbar. Der alte Stadtkern von Corralejo hat sich den Charme eines Fischerortes bewahrt, mit gemütlichen Restaurants direkt am Wasser, die frischen Fisch und „Papas arrugadas“ (Runzelkartoffeln) servieren. Die Hauptstraße bietet zahlreiche Einkaufsmöglichkeiten und Bars. Corralejo ist etwa 40 km vom Inselflughafen Fuerteventura (FUE) entfernt und bietet eine entspannte Atmosphäre abseits des Massentourismus.", "hu": "Corralejo Fuerteventura északi részén található, és a sziget egyik legvonzóbb települése. Legfőbb vonzereje a Corralejo Natúrpark, ahol több kilométer hosszan elnyúló, fehér homokos dűnék találkoznak az azúrkék óceánnal. Ezek a dűnék nem a Szaharából, hanem elporladt tengeri kagylókból származnak. A part menti „Grandes Playas” strandok kiválóak napozásra, a szelesebb szakaszok pedig a szörfösök és sárkányhajósok paradicsomát jelentik.\n\nA kikötőből rendszeresen indulnak kishajók a közeli Isla de Lobos (Fóka-sziget) felé, amely egy lakatlan természetvédelmi terület kristálytiszta lagúnákkal. Szintén innen érhető el komppal a szomszédos Lanzarote szigete is. Corralejo óvárosa megőrizte eredeti halászfalu jellegét, ahol a látogatók friss tengeri ételeket kóstolhatnak a hangulatos teraszokon. A város főutcáján, az Avenida Nuestra Señora del Carmen-en számos üzlet és szórakozóhely található. A repülőtér (FUE) mintegy 30 perces autóútra fekszik, és a város jól kapcsolódik a sziget többi részéhez buszjáratokkal is.", "ro": "Corralejo este situat în extremitatea nordică a insulei Fuerteventura, fiind o destinație de top pentru iubitorii de natură și sporturi nautice. Atracția principală este Parcul Natural Corralejo, care adăpostește cele mai mari dune de nisip din Insulele Canare. Acest deșert în miniatură se întinde până la malul Oceanului Atlantic, formând plaje cu nisip alb și fin, cunoscute sub numele de Grandes Playas. Datorită vânturilor constante, zona este celebră în întreaga lume pentru windsurf și kitesurf.\n\nDin portul orașului se poate lua feribotul către Isla de Lobos, o mică insulă vulcanică nelocuită, ideală pentru o zi de explorare și snorkeling în apele sale turcoaz. De asemenea, insula vecină Lanzarote este la doar 25 de minute distanță cu feribotul rapid. Centrul vechi al orașului păstrează o atmosferă relaxată, cu baruri de tapas și restaurante ce servesc pește proaspăt. Viața de noapte este animată, dar mai puțin comercială decât în alte insule. Orașul este situat la aproximativ 40 km de Aeroportul Fuerteventura (FUE). Gastronomia locală se bazează pe brânza de capră Majorero și sosul picant mojo.", "en": "Corralejo, situated on the northern tip of Fuerteventura, is a haven for beach lovers and water sports enthusiasts. Its most iconic feature is the Corralejo Natural Park, home to vast, rolling sand dunes made of pulverized seashells that meet the turquoise Atlantic. These dunes create a desert-like landscape known as the Grandes Playas, offering miles of pristine coastline. The area is world-renowned for windsurfing, kitesurfing, and surfing due to the consistent trade winds.\n\nFrom Corralejo harbor, you can hop on a ferry to the nearby Isla de Lobos, an uninhabited volcanic islet perfect for hiking and snorkeling in crystal-clear lagoons. The harbor also connects Fuerteventura to Lanzarote, a mere 25-minute ferry ride away. The town center retains its old fishing village vibe, with excellent seafood restaurants lining the waterfront and a pedestrian main street full of shops and bars. Corralejo is roughly a 35-minute drive from Fuerteventura Airport (FUE) and provides a perfect base for exploring the wild landscapes of the island's northern reaches."}, "facts": {"de": ["Dunas de Corralejo Naturpark", "Isla de Lobos (Fähre)", "Große Strände (Grandes Playas)", "Surfer-Paradies", "16.403 Einwohner", "Blick auf Lanzarote", "Alter Fischereihafen", "Wassersport-Zentrum"], "hu": ["Corralejo Natúrpark", "Isla de Lobos kirándulás", "Grandes Playas strandok", "Szörfösök kedvence", "16 403 lakos", "Kilátás Lanzarote szigetére", "Régi halászkikötő", "Avenida del Carmen shopping"], "ro": ["Parcul Natural Corralejo", "Insula de Lobos", "Dunele de nisip", "Kitesurfing și Windsurfing", "16.403 locuitori", "Feribot către Lanzarote", "Portul tradițional", "Plaje cu nisip alb"], "en": ["Corralejo Natural Park", "Isla de Lobos ferry", "Grandes Playas beaches", "Surfing & Kitesurfing hub", "16,403 residents", "View of Lanzarote", "Old fishing harbor", "White sand dunes"]}, "imageHint": "Golden sand dunes of Corralejo Natural Park meeting the bright turquoise ocean under a clear sky.", "image": "/poi-images/spain-corralejo-cities-v2.webp",
     "sights": {"de": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Ein riesiges Naturschutzgebiet mit weißen Sanddünen, das sich entlang der Küste von Fuerteventura erstreckt.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Eine kleine, unbewohnte Insel vor Corralejo, die ein geschütztes Naturparadies für Wanderer und Taucher ist.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Hafen von Corralejo", "text": "Der lebendige Hafen der Stadt, von dem aus Fähren nach Lanzarote und Ausflugsboote zur Insel Lobos ablegen.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "Die Plaza de Patricio Calero bildet den lebhaften Hauptplatz im Herzen der charmanten Altstadt von Corralejo. Die entspannte, lokale Atmosphäre lädt Einheimische wie Touristen dazu ein, das milde Klima und das gesellige Treiben zu genießen. Besucher erwartet ein authentisches Flair mit regelmäßigen kleinen Veranstaltungen und gemütlichen Möglichkeiten zum Verweilen. Ein kurzer Stopp hier ist ideal, um vor dem Abendessen das authentische Inselleben zu spüren.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "El Campanario Glockenturm", "text": "Ein Aussichtsturm im Kolonialstil, der einen weiten Blick über die Stadt und die umliegenden Dünen bietet.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "Der historische kleine Pier, der den ursprünglichen Kern des alten Fischerdorfes Corralejo markiert.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "Die Uferpromenade mit zahlreichen Restaurants, die einen direkten Blick auf das Meer und die Insel Lobos bietet.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "Ein weitläufiger Naturpark mit beeindruckenden Wanderdünen aus weißem Sand direkt am Atlantik.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "Die Playa las Agujas schmiegt sich als ruhiger Sandstrand sanft in die Küstenlinie von Corralejo. Abseits der großen Massen bietet dieser Strandabschnitt eine friedliche Atmosphäre, die zur puren Erholung einlädt. Badegäste können hier im Sand entspannen, spazieren gehen und den großartigen Blick hinüber zur Insel Los Lobos bewundern. Kommen Sie am Vormittag, um die vollkommene Ruhe des Strandes zu erleben.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "Ein kleinerer Strandabschnitt, der für sein klares Wasser und die guten Bedingungen zum Schnorcheln bekannt ist.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "Die Playa de la Calera offenbart sich als wunderbar friedlicher Küstenbereich etwas abseits des großen Trubels von Corralejo. Hier herrscht eine unaufgeregte, beinahe intime Atmosphäre, die besonders Ruhesuchende zu schätzen wissen. Spaziergänger und Sonnenanbeter können dem Rauschen der Wellen lauschen und den feinen Sand unter den Füßen genießen. Es ist der perfekte Rückzugsort, um dem Alltag mit einem guten Buch zu entfliehen.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "Die Playa del Bajo de la Burra fasziniert durch ihre spektakuläre Beschaffenheit an der Küste von Corralejo. Bekannt für weiße, wie Popcorn aussehende Algenstrukturen, strahlt der Strand eine nahezu surreale und sehr entspannte Atmosphäre aus. Gäste verbringen hier gerne Zeit damit, das außergewöhnliche Naturphänomen zu betrachten und faszinierende Urlaubsfotos zu schießen. Um die besondere Schönheit ungestört zu genießen, lohnt sich ein Besuch in den frühen Morgenstunden.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "Die Playa del Pozo erstreckt sich als grandioser, weitläufiger Strand inmitten der eindrucksvollen Landschaft des Naturparks. Angetrieben von einer stetigen Brise bietet dieser Ort eine aktive, offene Atmosphäre, die von Windsurfern hoch geschätzt wird. Besucher finden hier viel Raum für entspannte Spaziergänge am Ufer, ausgiebiges Sonnenbaden oder das Beobachten der bunten Segel auf dem Wasser. Es empfiehlt sich, einen Windschutz mitzubringen, falls Sie längere Zeit gemütlich im Sand verweilen möchten.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "Ein weitläufiger Sandstrand bei Corralejo, bekannt für sein klares Wasser und die Nähe zu den Dünen.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "Ein ruhiger Sandstrand in Corralejo, der eine entspannte Atmosphäre zum Sonnenbaden bietet.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "Ein familienfreundlicher Wasserpark auf Fuerteventura mit verschiedenen Rutschen und Pools.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "Der Popcorn Beach in Corralejo hält, was sein Name verspricht, und beeindruckt mit einer einzigartigen Küstenlinie. Das berühmte Ufer aus weißen Algenfragmenten verleiht dem Ort eine verblüffende und außergewöhnlich faszinierende Atmosphäre. Anstatt auf weichem Sand zu liegen, bestaunen die meisten Besucher hier das Naturwunder bei einem gemütlichen Spaziergang. Vergessen Sie Ihre Kamera nicht, denn dieses maritime Phänomen bietet ein unvergleichliches Fotomotiv.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "Die Playa del Caserón entfaltet ihre unberührte Schönheit als weißer Sandstrand tief im Naturpark Corralejo. Hier umgibt Ruhesuchende eine herrlich entspannte und naturbelassene Atmosphäre weitab vom touristischen Alltag. Sonnenbaden und ausgedehnte Barfußspaziergänge am sanft abfallenden Ufer gehören hier zu den größten Freuden. Nehmen Sie sich ausreichend Wasser und Snacks mit, um unbeschwert die pure Natur zu genießen.", "category": "recreational", "coords": [-13.837839, 28.707928]}], "hu": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Hatalmas természetvédelmi terület fehér homokdűnékkel, amely Fuerteventura partjai mentén húzódik.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Kicsi, lakatlan sziget Corralejo közelében, amely védett paradicsom a túrázók és a búvárok számára.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Corralejo kikötője", "text": "A város nyüzsgő kikötője, ahonnan kompok indulnak Lanzarotéra és kirándulóhajók a Lobos-szigetre.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "A Plaza de Patricio Calero egy nyüzsgő főtér Corralejo hangulatos óvárosának szívében. A nyugodt, helyi atmoszféra mind a lakosokat, mind a turistákat arra csábítja, hogy élvezzék a kellemes éghajlatot és a társasági életet. A látogatókat autentikus hangulat, rendszeres kisebb rendezvények és kényelmes pihenési lehetőségek várják. Vacsora előtt egy rövid megálló itt tökéletes alkalom arra, hogy átéljük a sziget hamisítatlan mindennapjait.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "El Campanario harangtorony", "text": "Koloniális stílusú kilátótorony, ahonnan pazar kilátás nyílik a városra és a közeli homokdűnékre.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "A történelmi kis móló, amely Corralejo egykori halászfalu eredeti központját jelöli.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "Tengerparti sétány éttermekkel, ahonnan közvetlen kilátás nyílik az óceánra és a Lobos-szigetre.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "Hatalmas natúrpark lenyűgöző, fehér homokból álló vándoridűnékkel közvetlenül az Atlanti-óceán partján.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "A Playa las Agujas nyugodt homokos strandként simul Corralejo festői partvonalába. A nagy tömegektől távol ez a partszakasz békés légkört kínál, amely tiszta kikapcsolódásra csábít. A fürdőzők itt a homokban pihenhetnek, sétálhatnak, és megcsodálhatják a Los Lobos szigetére nyíló fantasztikus kilátást. Érdemes délelőtt érkezni, hogy megtapasztaljuk a strand tökéletes nyugalmát.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "Kisebb tengerparti szakasz, amely tiszta vizéről és a búvárkodáshoz kedvező adottságairól ismert.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "A Playa de la Calera egy csodálatosan békés tengerparti részként tárul elénk, kissé távolabb Corralejo nagy nyüzsgésétől. Itt egy nyugodt, szinte intim légkör uralkodik, amelyet különösen a csendre vágyók értékelnek. A sétálók és a napozni vágyók hallgathatják a hullámok morajlását, és élvezhetik a finom homokot a lábuk alatt. Tökéletes menedék ez, ha egy jó könyvvel szeretnénk elszakadni a mindennapoktól.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "A Playa del Bajo de la Burra lenyűgöző tengerparti adottságaival kápráztat el mindenkit Corralejo partjainál. A pattogatott kukoricára hasonlító fehér alga-struktúráiról híres strand szinte szürreális, de rendkívül nyugodt légkört áraszt. A vendégek szívesen töltenek itt időt a különleges természeti jelenség megfigyelésével és izgalmas nyaralási fotók készítésével. Hogy zavartalanul élvezhessük ezt a páratlan szépséget, érdemes a kora reggeli órákban ellátogatni ide.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "A Playa del Pozo nagyszerű, hatalmas strandként terül el a natúrpark lenyűgöző tájának szívében. A folyamatos szellő által hajtott hely aktív, nyitott légkört biztosít, amelyet a szörfösök is nagyra értékelnek. A látogatók bőséges helyet találnak itt a pihentető tengerparti sétákhoz, a kiterjedt napozáshoz, vagy a vízen sikló színes vitorlák megfigyeléséhez. Érdemes szélfogót hozni, ha hosszabb időt szeretnénk kényelmesen a homokban tölteni.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "Hosszú, homokos tengerpart Corralejo mellett, amely kristálytiszta vizéről és dűnéiről nevezetes.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "Nyugodt homokos strand Corralejo területén, amely ideális a pihenésre és napozásra.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "Családbarát vízi park Fuerteventurán, számos csúszdával és élménymedencével.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "A corralejoi Popcorn Beach beváltja a nevéhez fűzött reményeket, és egyedülálló partvonalával lenyűgöz mindenkit. A pattogatott kukoricára hasonlító fehér alga-töredékekből álló híres part elképesztő és rendkívül lenyűgöző atmoszférát teremt. Ahelyett, hogy a puha homokban feküdnének, a legtöbb látogató kényelmes séta közben csodálja meg ezt a természeti csodát. Ne felejtse otthon a fényképezőgépét, hiszen ez a tengeri jelenség páratlan fotótémát nyújt.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "A Playa del Caserón érintetlen szépségével, fehér homokos strandként hódít a Corralejo Natúrpark mélyén. Itt a csendre vágyókat egy csodálatosan nyugodt és természetes légkör öleli körül, távol a mindennapi turizmus zajától. A finoman lejtő parton a napozás és a hosszas mezítlábas séták jelentik a legnagyobb örömet. Vigyen magával elegendő vizet és rágcsálnivalót, hogy gondtalanul élvezhesse a tiszta természetet.", "category": "recreational", "coords": [-13.837839, 28.707928]}], "ro": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "O rezervație naturală vastă cu dune de nisip alb, care se întinde de-a lungul coastei insulei Fuerteventura.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "O mică insulă nelocuită lângă Corralejo, un paradis natural protejat ideal pentru drumeții și snorkeling.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Portul Corralejo", "text": "Portul vibrant al orașului, punct de plecare pentru feriboturile spre Lanzarote și bărcile spre Insula Lobos.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "Plaza de Patricio Calero formează piața principală vibrantă din inima orașului vechi și fermecător Corralejo. Atmosfera locală și relaxată invită atât rezidenții, cât și turiștii să se bucure de clima blândă și de agitația prietenoasă. Oaspeții se pot aștepta la o notă autentică, la mici evenimente locale și la oportunități plăcute de relaxare. O scurtă oprire aici este ideală pentru a simți viața autentică a insulei înainte de cină.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "Turnul El Campanario", "text": "Un turn de observație în stil colonial care oferă vederi largi asupra orașului și dunelor înconjurătoare.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "Micul dig istoric care marchează nucleul original al vechiului sat de pescari Corralejo.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "Promenada de la malul mării plină de restaurante, oferind o vedere directă spre ocean și Insula Lobos.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "Un parc natural vast, cu dune de nisip alb impresionante, situat direct pe malul Oceanului Atlantic.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "Playa las Agujas se cuibărește ca o plajă de nisip liniștită în linia de coastă a orașului Corralejo. Departe de mulțimile mari, această secțiune de plajă oferă o atmosferă pașnică, care te invită la relaxare pură. Oaspeții se pot odihni aici pe nisip, se pot plimba și pot admira priveliștea minunată spre insula Los Lobos. Veniți dimineața pentru a experimenta liniștea absolută a acestei plaje.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "O secțiune de plajă mai mică, cunoscută pentru apele sale clare și condițiile bune pentru snorkeling.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "Playa de la Calera se dezvăluie ca o zonă de coastă minunat de pașnică, oarecum departe de forfota turistică din Corralejo. Aici domnește o atmosferă calmă, aproape intimă, foarte apreciată de cei care caută liniște. Plimbăreții și iubitorii de soare pot asculta sunetul valurilor și se pot bucura de nisipul fin sub picioare. Este refugiul perfect pentru a evada din cotidian împreună cu o carte bună.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "Playa del Bajo de la Burra fascinează prin aspectul său spectaculos pe coasta din Corralejo. Cunoscută pentru structurile albe de alge, care seamănă izbitor cu floricelele de porumb, plaja emană o atmosferă aproape ireală și foarte relaxantă. Oaspeților le place să-și petreacă timpul aici analizând acest fenomen natural neobișnuit și făcând fotografii de vacanță fascinante. Pentru a te bucura netulburat de frumusețea sa, o vizită la primele ore ale dimineții merită cu siguranță.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "Playa del Pozo se întinde ca o plajă grandioasă și vastă în mijlocul peisajului impresionant al parcului natural. Condus de o briză constantă, acest loc oferă o atmosferă activă și deschisă, fiind foarte apreciat de practicanții de windsurfing. Vizitatorii găsesc aici spațiu suficient pentru plimbări relaxante pe țărm, băi lungi de soare sau pur și simplu pentru a privi velele colorate de pe apă. Este recomandat să aduceți un paravânt dacă doriți să zăboviți mai mult timp confortabil pe nisip.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "O plajă lungă cu nisip fin lângă Corralejo, apreciată pentru apele sale limpezi și dunele din apropiere.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "O plajă liniștită cu nisip în Corralejo, oferind o atmosferă relaxată pentru plajă.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "Un parc acvatic pentru familii în Fuerteventura, cu diverse tobogane și piscine.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "Popcorn Beach din Corralejo se ridică la înălțimea numelui său și impresionează cu o linie de coastă absolut unică. Celebrul țărm, format din fragmente albe de alge, conferă locului o atmosferă uimitoare și excepțional de fascinantă. În loc să stea pe nisip moale, majoritatea vizitatorilor se minunează de această minune naturală în timpul unei plimbări relaxante. Nu vă uitați aparatul foto, deoarece acest fenomen maritim oferă un motiv fotografic incomparabil.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "Playa del Caserón își desfășoară frumusețea curată ca o plajă cu nisip alb, adânc în parcul natural Corralejo. Aici, cei care caută liniște sunt înconjurați de o atmosferă minunat de relaxată și naturală, departe de turismul de zi cu zi. Plaja și plimbările lungi desculț pe țărmul ușor înclinat sunt printre cele mai mari bucurii de aici. Luați cu dumneavoastră suficientă apă și gustări pentru a vă bucura de natura pură fără griji.", "category": "recreational", "coords": [-13.837839, 28.707928]}], "en": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "A vast natural park of white sand dunes stretching along the coastline of Fuerteventura.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "A small, uninhabited island off Corralejo, serving as a protected natural paradise for hikers and divers.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Port of Corralejo", "text": "The town's busy harbor, where ferries depart for Lanzarote and excursion boats leave for Lobos Island.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "Plaza de Patricio Calero forms the vibrant main square in the heart of Corralejo's charming old town. The relaxed, local atmosphere invites both residents and tourists to enjoy the mild climate and sociable buzz. Visitors can expect an authentic flair, often accompanied by small community events and comfortable spots to simply linger. A quick stop here is ideal for experiencing the island's genuine daily life just before dinner.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "El Campanario Bell Tower", "text": "A colonial-style observation tower providing sweeping views of the town and the nearby sand dunes.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "The historic small pier that marks the original core of the old fishing village of Corralejo.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "The seaside promenade lined with restaurants, offering direct views of the ocean and Lobos Island.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "A vast natural park featuring impressive white sand dunes located directly on the Atlantic coast.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "Playa las Agujas nestles gently into the coastline of Corralejo as a quietly beautiful sandy beach. Away from the larger crowds, this stretch offers a profoundly peaceful atmosphere that invites pure relaxation. Beachgoers can unwind on the sand, take leisurely walks, and admire the magnificent view stretching over to the island of Los Lobos. Arriving in the morning allows you to experience the complete tranquility of the shore.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "A smaller beach section known for its clear waters and good conditions for snorkeling.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "Playa de la Calera reveals itself as a wonderfully peaceful coastal area just slightly removed from Corralejo's main tourist bustle. An understated, almost intimate atmosphere prevails here, which is especially appreciated by those seeking quietude. Walkers and sunbathers can listen to the gentle sound of the waves while enjoying the fine sand beneath their feet. It is the perfect coastal retreat to escape the daily routine with a good book.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "Playa del Bajo de la Burra fascinates with its highly spectacular composition along the coast of Corralejo. Famous for white algae structures that look uncannily like popcorn, the beach exudes an almost surreal and highly relaxed atmosphere. Guests love spending time here observing this unusual natural phenomenon and snapping highly memorable holiday photos. To enjoy its singular beauty without the crowds, an early morning visit is very rewarding.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "Playa del Pozo expands as a grandiose, sprawling beach nestled within the impressive landscape of the nature park. Driven by a steady breeze, this destination offers an active, open atmosphere that is highly prized by windsurfers. Visitors will find plenty of space for relaxing walks along the shoreline, extensive sunbathing, or simply watching the colorful sails dance on the water. Bringing a windbreak is a wise choice if you plan to spend an extended period comfortably lounging on the sand.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "A long, sandy beach near the dunes of Corralejo, popular for its clear waters and golden sand.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "A quiet sandy beach in Corralejo, offering a relaxed atmosphere for sunbathing and swimming.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "A family-friendly water park in Fuerteventura featuring various slides, wave pools, and relaxation areas.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "Popcorn Beach in Corralejo entirely lives up to its playful name, impressing all with a truly unique coastline. The famous shore, composed of white algae fragments, lends the location an astonishing and exceptionally fascinating atmosphere. Rather than lounging on soft sand, most visitors prefer to marvel at this natural wonder during a leisurely walk. Do not forget to bring your camera, as this quirky maritime phenomenon provides an incomparable photo opportunity.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "Playa del Caserón unfolds its pristine beauty as a white sandy beach nestled deep within the Corralejo Nature Park. Those seeking absolute tranquility are surrounded by a wonderfully relaxed and natural atmosphere, far removed from everyday tourism. Sunbathing and taking long barefoot walks along the gently sloping shore are among the greatest pleasures to be had here. Pack plenty of water and snacks to fully and completely enjoy this slice of pure nature.", "category": "recreational", "coords": [-13.837839, 28.707928]}]}

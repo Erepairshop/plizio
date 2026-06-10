@@ -2018,7 +2018,88 @@ imageHint: "Narrow canyon Gjipe opening to a small beach",
     },
     image: "/poi-images/albania-gjipe-canyon-nature-v2.webp",
 },  {
-    id: "albania-buna-river-nature-v2", "sights": {"de": [{"name": "Ada Bojana Plaža", "text": "An der Mündung des Buna-Flusses gelegen, bietet die Ada Bojana Plaža ein einzigartiges Naturschauspiel. Der breite Strandbereich besticht durch seine entspannte, naturnahe Atmosphäre. Ideal für ausgedehnte Strandspaziergänge und erfrischende Bademomente in Albanien.", "category": "recreational", "coords": [19.366834, 41.848887]}], "hu": [{"name": "Ada Bojana Plaža", "text": "A Buna folyó torkolatánál fekvő Ada Bojana Plaža egyedülálló természeti látványosságot kínál. A széles strandterület nyugodt, természetközeli hangulatával varázsol el. Ideális hosszú tengerparti sétákhoz és frissítő fürdőzésekhez Albániában.", "category": "recreational", "coords": [19.366834, 41.848887]}], "ro": [{"name": "Ada Bojana Plaža", "text": "Situată la gura de vărsare a râului Buna, Ada Bojana Plaža oferă un spectacol natural unic. Zona largă de plajă captivează prin atmosfera sa relaxată, aproape de natură. Ideală pentru plimbări lungi pe plajă și momente revigorante de scăldat în Albania.", "category": "recreational", "coords": [19.366834, 41.848887]}], "en": [{"name": "Ada Bojana Plaža", "text": "Located at the mouth of the Buna River, Ada Bojana Plaža offers a unique natural spectacle. The wide beach area captivates with its relaxed, nature-close atmosphere. Ideal for long beach walks and refreshing bathing moments in Albania.", "category": "recreational", "coords": [19.366834, 41.848887]}]},
+    id: "albania-buna-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "An der Mündung des Buna-Flusses gelegen, bietet die Ada Bojana Plaža ein einzigartiges Naturschauspiel. Der breite Strandbereich besticht durch seine entspannte, naturnahe Atmosphäre. Ideal für ausgedehnte Strandspaziergänge und erfrischende Bademomente in Albanien.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein Badeplatz für FKK-Anhänger am Fluss Buna, nahe der Mündung ins Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        19.355446,
+                        41.852233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "A Buna folyó torkolatánál fekvő Ada Bojana Plaža egyedülálló természeti látványosságot kínál. A széles strandterület nyugodt, természetközeli hangulatával varázsol el. Ideális hosszú tengerparti sétákhoz és frissítő fürdőzésekhez Albániában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Naturista fürdőhely a Buna folyónál, a tengeri torkolat közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.355446,
+                        41.852233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "Situată la gura de vărsare a râului Buna, Ada Bojana Plaža oferă un spectacol natural unic. Zona largă de plajă captivează prin atmosfera sa relaxată, aproape de natură. Ideală pentru plimbări lungi pe plajă și momente revigorante de scăldat în Albania.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Un loc de scăldat pentru naturiști pe râul Buna, aproape de vărsarea în mare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.355446,
+                        41.852233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "Located at the mouth of the Buna River, Ada Bojana Plaža offers a unique natural spectacle. The wide beach area captivates with its relaxed, nature-close atmosphere. Ideal for long beach walks and refreshing bathing moments in Albania.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A swimming spot for nudists on the Buna River, near the sea estuary.",
+                  "category": "recreational",
+                  "coords": [
+                        19.355446,
+                        41.852233
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "river",
     name: { de: "Buna", hu: "Buna-folyó", ro: "Râul Buna", en: "Buna River"},
@@ -2608,7 +2689,52 @@ imageHint: "Grama Bay with ancient inscriptions on rocks",
     image: "/poi-images/albania-devoll-river-nature-v2.webp",
   },
   {
-    id: "albania-rana-e-hedhun-nature-v2",
+    id: "albania-rana-e-hedhun-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bar Ledh Mario",
+                  "text": "Ein Strandabschnitt bei Rana e Hedhun, der für seine Küstenbars bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        19.547577,
+                        41.828884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bar Ledh Mario",
+                  "text": "Partmenti bárjairól ismert strand Rana e Hedhun környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.547577,
+                        41.828884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bar Ledh Mario",
+                  "text": "O zonă de plajă de lângă Rana e Hedhun, cunoscută pentru barurile sale de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.547577,
+                        41.828884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bar Ledh Mario",
+                  "text": "A beach area near Rana e Hedhun known for its various coastal bars.",
+                  "category": "recreational",
+                  "coords": [
+                        19.547577,
+                        41.828884
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AL",
     name: { de: "Rana e Hedhun", hu: "Rana e Hedhun", ro: "Rana e Hedhun", en: "Rana e Hedhun" },

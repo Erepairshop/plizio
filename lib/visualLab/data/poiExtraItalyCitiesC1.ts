@@ -579,6 +579,78 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         8.933039,
                         44.413347
                   ]
+            },
+            {
+                  "name": "Bagni Nuovo Lido",
+                  "text": "Bagni Nuovo Lido ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.968042,
+                        44.390847
+                  ]
+            },
+            {
+                  "name": "Bagni Roma",
+                  "text": "Bagni Roma ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96117,
+                        44.392387
+                  ]
+            },
+            {
+                  "name": "Bagni Sporting",
+                  "text": "Bagni Sporting ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96521,
+                        44.391282
+                  ]
+            },
+            {
+                  "name": "Squash",
+                  "text": "Squash ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.959969,
+                        44.391946
+                  ]
+            },
+            {
+                  "name": "Bagni Paolo e Lelle",
+                  "text": "Bagni Paolo e Lelle ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.990707,
+                        44.390024
+                  ]
+            },
+            {
+                  "name": "Bagni Liggia",
+                  "text": "Bagni Liggia ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.988625,
+                        44.39107
+                  ]
+            },
+            {
+                  "name": "San Nazaro",
+                  "text": "San Nazaro ist ein Strand in Genua, der sich zum Entspannen und Schwimmen eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.954204,
+                        44.391609
+                  ]
+            },
+            {
+                  "name": "Bagni Santa Chiara",
+                  "text": "Bagni Santa Chiara ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.977638,
+                        44.38985
+                  ]
             }
       ],
       "hu": [
@@ -660,6 +732,78 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         8.933039,
                         44.413347
+                  ]
+            },
+            {
+                  "name": "Bagni Nuovo Lido",
+                  "text": "A(z) Bagni Nuovo Lido egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.968042,
+                        44.390847
+                  ]
+            },
+            {
+                  "name": "Bagni Roma",
+                  "text": "A(z) Bagni Roma egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96117,
+                        44.392387
+                  ]
+            },
+            {
+                  "name": "Bagni Sporting",
+                  "text": "A(z) Bagni Sporting egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96521,
+                        44.391282
+                  ]
+            },
+            {
+                  "name": "Squash",
+                  "text": "A(z) Squash egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.959969,
+                        44.391946
+                  ]
+            },
+            {
+                  "name": "Bagni Paolo e Lelle",
+                  "text": "A(z) Bagni Paolo e Lelle egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.990707,
+                        44.390024
+                  ]
+            },
+            {
+                  "name": "Bagni Liggia",
+                  "text": "A(z) Bagni Liggia egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.988625,
+                        44.39107
+                  ]
+            },
+            {
+                  "name": "San Nazaro",
+                  "text": "A(z) San Nazaro egy strand Genovában, amely pihenésre és úszásra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        8.954204,
+                        44.391609
+                  ]
+            },
+            {
+                  "name": "Bagni Santa Chiara",
+                  "text": "A(z) Bagni Santa Chiara egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.977638,
+                        44.38985
                   ]
             }
       ],
@@ -743,6 +887,78 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         8.933039,
                         44.413347
                   ]
+            },
+            {
+                  "name": "Bagni Nuovo Lido",
+                  "text": "Bagni Nuovo Lido este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.968042,
+                        44.390847
+                  ]
+            },
+            {
+                  "name": "Bagni Roma",
+                  "text": "Bagni Roma este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96117,
+                        44.392387
+                  ]
+            },
+            {
+                  "name": "Bagni Sporting",
+                  "text": "Bagni Sporting este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96521,
+                        44.391282
+                  ]
+            },
+            {
+                  "name": "Squash",
+                  "text": "Squash este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.959969,
+                        44.391946
+                  ]
+            },
+            {
+                  "name": "Bagni Paolo e Lelle",
+                  "text": "Bagni Paolo e Lelle este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.990707,
+                        44.390024
+                  ]
+            },
+            {
+                  "name": "Bagni Liggia",
+                  "text": "Bagni Liggia este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.988625,
+                        44.39107
+                  ]
+            },
+            {
+                  "name": "San Nazaro",
+                  "text": "San Nazaro este o plajă în Genova, potrivită pentru relaxare și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        8.954204,
+                        44.391609
+                  ]
+            },
+            {
+                  "name": "Bagni Santa Chiara",
+                  "text": "Bagni Santa Chiara este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.977638,
+                        44.38985
+                  ]
             }
       ],
       "en": [
@@ -824,6 +1040,78 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         8.933039,
                         44.413347
+                  ]
+            },
+            {
+                  "name": "Bagni Nuovo Lido",
+                  "text": "Bagni Nuovo Lido is a beach resort in Genoa offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.968042,
+                        44.390847
+                  ]
+            },
+            {
+                  "name": "Bagni Roma",
+                  "text": "Bagni Roma is a beach resort in Genoa offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96117,
+                        44.392387
+                  ]
+            },
+            {
+                  "name": "Bagni Sporting",
+                  "text": "Bagni Sporting is a beach resort in Genoa offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.96521,
+                        44.391282
+                  ]
+            },
+            {
+                  "name": "Squash",
+                  "text": "Squash is a beach resort in Genoa offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.959969,
+                        44.391946
+                  ]
+            },
+            {
+                  "name": "Bagni Paolo e Lelle",
+                  "text": "Bagni Paolo e Lelle is a beach resort in Genoa offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.990707,
+                        44.390024
+                  ]
+            },
+            {
+                  "name": "Bagni Liggia",
+                  "text": "Bagni Liggia is a beach resort in Genoa offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.988625,
+                        44.39107
+                  ]
+            },
+            {
+                  "name": "San Nazaro",
+                  "text": "San Nazaro is a beach in Genoa suitable for relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        8.954204,
+                        44.391609
+                  ]
+            },
+            {
+                  "name": "Bagni Santa Chiara",
+                  "text": "Bagni Santa Chiara is a beach resort in Genoa offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.977638,
+                        44.38985
                   ]
             }
       ]
@@ -5410,6 +5698,24 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         13.789167,
                         45.620833
                   ]
+            },
+            {
+                  "name": "Bagno Ferroviario",
+                  "text": "Ein Strandbad in Triest, das historisch mit der lokalen Eisenbahnergemeinschaft verbunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756631,
+                        45.672451
+                  ]
+            },
+            {
+                  "name": "Bagno CRAL Autorità Portuale",
+                  "text": "Ein privater Strandclub in Triest, der den Mitarbeitern der Hafenbehörde und Besuchern dient.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756996,
+                        45.671452
+                  ]
             }
       ],
       "hu": [
@@ -5481,6 +5787,24 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         13.789167,
                         45.620833
+                  ]
+            },
+            {
+                  "name": "Bagno Ferroviario",
+                  "text": "Trieszti strandkomplexum, amely történelmileg a helyi vasutas közösséghez kapcsolódik.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756631,
+                        45.672451
+                  ]
+            },
+            {
+                  "name": "Bagno CRAL Autorità Portuale",
+                  "text": "Privát strandklub Triesztben, amely a kikötői hatóság dolgozóit és látogatóit szolgálja.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756996,
+                        45.671452
                   ]
             }
       ],
@@ -5554,6 +5878,24 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         13.789167,
                         45.620833
                   ]
+            },
+            {
+                  "name": "Bagno Ferroviario",
+                  "text": "O plajă din Trieste, legată istoric de comunitatea locală a feroviarilor.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756631,
+                        45.672451
+                  ]
+            },
+            {
+                  "name": "Bagno CRAL Autorità Portuale",
+                  "text": "Un club de plajă privat în Trieste, destinat angajaților autorității portuare și vizitatorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756996,
+                        45.671452
+                  ]
             }
       ],
       "en": [
@@ -5625,6 +5967,24 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         13.789167,
                         45.620833
+                  ]
+            },
+            {
+                  "name": "Bagno Ferroviario",
+                  "text": "A beach resort in Trieste, historically associated with the local railway community.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756631,
+                        45.672451
+                  ]
+            },
+            {
+                  "name": "Bagno CRAL Autorità Portuale",
+                  "text": "A private beach club in Trieste, serving port authority employees and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        13.756996,
+                        45.671452
                   ]
             }
       ]

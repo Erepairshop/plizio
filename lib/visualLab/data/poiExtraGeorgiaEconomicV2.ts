@@ -675,7 +675,52 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
     },
   },
   {
-    id: "sarpi-border-crossing-economic-v2",
+    id: "sarpi-border-crossing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sarpi Strand",
+                  "text": "Ein Kieselstrand direkt an der georgisch-türkischen Grenze bei Sarpi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.548082,
+                        41.523139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "სარფის პლაჟი",
+                  "text": "Kavicsos strand közvetlenül a grúz-török határon Sarpinál.",
+                  "category": "recreational",
+                  "coords": [
+                        41.548082,
+                        41.523139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "სარფის პლაჟი",
+                  "text": "O plajă cu pietriș situată chiar la granița dintre Georgia și Turcia, la Sarpi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.548082,
+                        41.523139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarpi Beach",
+                  "text": "A pebble beach located right at the Georgian-Turkish border at Sarpi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.548082,
+                        41.523139
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "GE-AJ",
     coords: [41.5510, 41.5210],

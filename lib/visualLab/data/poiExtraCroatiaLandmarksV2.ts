@@ -187,7 +187,88 @@ imageHint: "St Mark's Church Zagreb colorful tiled roof",
     },
   },
   {
-    id: "croatia-sea-organ-landmarks-v2",
+    id: "croatia-sea-organ-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puntamika",
+                  "text": "Ein lokaler Strand in Zadar mit Blick auf das Meer und die Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.204812,
+                        44.133319
+                  ]
+            },
+            {
+                  "name": "Borik",
+                  "text": "Ein bekannter Strandbereich in Zadar mit Einrichtungen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        15.210036,
+                        44.136299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puntamika",
+                  "text": "Helyi strand Zadarban, kilátással a tengerre és a városra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.204812,
+                        44.133319
+                  ]
+            },
+            {
+                  "name": "Borik",
+                  "text": "Ismert strandterület Zadarban, különféle szolgáltatásokkal a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        15.210036,
+                        44.136299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puntamika",
+                  "text": "O plajă locală în Zadar, oferind vedere la mare și la oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        15.204812,
+                        44.133319
+                  ]
+            },
+            {
+                  "name": "Borik",
+                  "text": "O zonă de plajă cunoscută în Zadar, dotată cu facilități pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        15.210036,
+                        44.136299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puntamika",
+                  "text": "A local beach in Zadar, offering views of the sea and the city.",
+                  "category": "recreational",
+                  "coords": [
+                        15.204812,
+                        44.133319
+                  ]
+            },
+            {
+                  "name": "Borik",
+                  "text": "A well-known beach area in Zadar with facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        15.210036,
+                        44.136299
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "monument",
     name: { de: "Meeresorgel Zadar", hu: "Tengeri orgona", ro: "Orga mării", en: "Sea Organ"},

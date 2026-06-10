@@ -346,6 +346,15 @@ export const montenegroLifeV2: POI[] = [
                         19.05586,
                         42.136157
                   ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Plaža Žukotorlica 7C ist ein Strandresort im Sutorman-Wildreservat.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
             }
       ],
       "hu": [
@@ -419,6 +428,15 @@ export const montenegroLifeV2: POI[] = [
                   "coords": [
                         19.05586,
                         42.136157
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Plaža Žukotorlica 7C egy strandüdülőhely a Sutorman Vadvédelmi Rezátumban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
                   ]
             }
       ],
@@ -494,6 +512,15 @@ export const montenegroLifeV2: POI[] = [
                         19.05586,
                         42.136157
                   ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Plaža Žukotorlica 7C este o stațiune de plajă situată în Rezervația Naturală Sutorman.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
             }
       ],
       "en": [
@@ -567,6 +594,15 @@ export const montenegroLifeV2: POI[] = [
                   "coords": [
                         19.05586,
                         42.136157
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Plaža Žukotorlica 7C is a beach resort located in the Sutorman Wildlife Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
                   ]
             }
       ]
@@ -1642,6 +1678,24 @@ export const montenegroLifeV2: POI[] = [
                         19.133233,
                         42.092051
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Bazeni Bartula ist eine öffentliche Badeanstalt im Rumija-Gebirgswald.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Mali pijesak",
+                  "text": "Mali pijesak ist ein Wasserpark im malerischen Rumija-Gebirgswald.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143536,
+                        42.039538
+                  ]
             }
       ],
       "hu": [
@@ -1688,6 +1742,24 @@ export const montenegroLifeV2: POI[] = [
                   "coords": [
                         19.133233,
                         42.092051
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "A Bazeni Bartula egy nyilvános fürdőhely a Rumija-hegység erdejében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Mali pijesak",
+                  "text": "A Mali pijesak egy vízi park, amely a festői Rumija-hegység erdejében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143536,
+                        42.039538
                   ]
             }
       ],
@@ -1736,6 +1808,24 @@ export const montenegroLifeV2: POI[] = [
                         19.133233,
                         42.092051
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Bazeni Bartula este o zonă de baie publică situată în pădurea muntelui Rumija.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Mali pijesak",
+                  "text": "Mali pijesak este un parc acvatic situat în pitoreasca pădure a muntelui Rumija.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143536,
+                        42.039538
+                  ]
             }
       ],
       "en": [
@@ -1782,6 +1872,24 @@ export const montenegroLifeV2: POI[] = [
                   "coords": [
                         19.133233,
                         42.092051
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Bazeni Bartula is a public bathing area located within the Rumija Mountain Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Mali pijesak",
+                  "text": "Mali pijesak is a water park situated in the scenic Rumija Mountain Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143536,
+                        42.039538
                   ]
             }
       ]

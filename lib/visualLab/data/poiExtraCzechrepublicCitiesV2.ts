@@ -18176,6 +18176,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.651202,
                         50.501503
                   ]
+            },
+            {
+                  "name": "Přírodní Koupaliště",
+                  "text": "Ein Naturbad in Most für sommerliche Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618772,
+                        50.526096
+                  ]
             }
       ],
       "hu": [
@@ -18249,6 +18258,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.651202,
                         50.501503
+                  ]
+            },
+            {
+                  "name": "Přírodní Koupaliště",
+                  "text": "Természetes fürdőhely Most városában a nyári hűsöléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618772,
+                        50.526096
                   ]
             }
       ],
@@ -18324,6 +18342,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.651202,
                         50.501503
                   ]
+            },
+            {
+                  "name": "Přírodní Koupaliště",
+                  "text": "Un ștrand natural în Most pentru recreere pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618772,
+                        50.526096
+                  ]
             }
       ],
       "en": [
@@ -18397,6 +18424,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.651202,
                         50.501503
+                  ]
+            },
+            {
+                  "name": "Přírodní Koupaliště",
+                  "text": "A natural swimming pool in Most for summer cooling.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618772,
+                        50.526096
                   ]
             }
       ]
@@ -28667,6 +28703,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.454954,
                         49.452389
                   ]
+            },
+            {
+                  "name": "Plavecký areál Přerov",
+                  "text": "Ein Schwimmkomplex in Přerov mit Innen- und Außenbecken für Wassersportler.",
+                  "category": "recreational",
+                  "coords": [
+                        17.445821,
+                        49.458942
+                  ]
             }
       ],
       "hu": [
@@ -28812,6 +28857,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.454954,
                         49.452389
+                  ]
+            },
+            {
+                  "name": "Plavecký areál Přerov",
+                  "text": "Úszókomplexum Přerovban, beltéri és kültéri medencékkel a vízi sportok kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        17.445821,
+                        49.458942
                   ]
             }
       ],
@@ -28959,6 +29013,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.454954,
                         49.452389
                   ]
+            },
+            {
+                  "name": "Plavecký areál Přerov",
+                  "text": "Un complex de înot în Přerov, cu bazine interioare și exterioare pentru sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.445821,
+                        49.458942
+                  ]
             }
       ],
       "en": [
@@ -29104,6 +29167,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.454954,
                         49.452389
+                  ]
+            },
+            {
+                  "name": "Plavecký areál Přerov",
+                  "text": "A swimming complex in Přerov with indoor and outdoor pools for water sports enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        17.445821,
+                        49.458942
                   ]
             }
       ]
@@ -32345,6 +32417,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.658582,
                         49.414751
                   ]
+            },
+            {
+                  "name": "Sokolská plovárna",
+                  "text": "Ein traditioneller Badeplatz am Fluss oder See in Tábor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.668284,
+                        49.417049
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "Ein Freibad in Tábor für sportliches Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666081,
+                        49.419011
+                  ]
             }
       ],
       "hu": [
@@ -32544,6 +32634,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.658582,
                         49.414751
+                  ]
+            },
+            {
+                  "name": "Sokolská plovárna",
+                  "text": "Hagyományos fürdőhely Táborban folyó- vagy tóparton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.668284,
+                        49.417049
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "Kültéri úszómedence Táborban sportoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666081,
+                        49.419011
                   ]
             }
       ],
@@ -32745,6 +32853,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.658582,
                         49.414751
                   ]
+            },
+            {
+                  "name": "Sokolská plovárna",
+                  "text": "O zonă tradițională de înot situată în Tábor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.668284,
+                        49.417049
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "O piscină în aer liber în Tábor pentru înot sportiv.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666081,
+                        49.419011
+                  ]
             }
       ],
       "en": [
@@ -32944,6 +33070,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.658582,
                         49.414751
+                  ]
+            },
+            {
+                  "name": "Sokolská plovárna",
+                  "text": "A traditional swimming area located in Tábor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.668284,
+                        49.417049
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "An outdoor swimming pool in Tábor for lap swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.666081,
+                        49.419011
                   ]
             }
       ]

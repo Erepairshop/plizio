@@ -463,6 +463,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.196973,
                         53.500545
                   ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "Kleiner Tierpark und Spielbereich für Kinder auf der Insel Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
+                  ]
             }
       ],
       "hu": [
@@ -536,6 +545,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.196973,
                         53.500545
+                  ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "Kis állatpark és játszótér gyerekeknek Schiermonnikoog szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
                   ]
             }
       ],
@@ -611,6 +629,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.196973,
                         53.500545
                   ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "Mic parc de animale și zonă de joacă pentru copii pe insula Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
+                  ]
             }
       ],
       "en": [
@@ -684,6 +711,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.196973,
                         53.500545
+                  ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "Small animal park and play area for children on the island of Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
                   ]
             }
       ]
@@ -850,6 +886,15 @@ export const netherlandsNatureV2: POI[] = [
                         5.960877,
                         52.75863
                   ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Ein Zoo im Gebiet Weerribben-Wieden.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
+                  ]
             }
       ],
       "hu": [
@@ -878,6 +923,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.960877,
                         52.75863
+                  ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Állatkert a Weerribben-Wieden területén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
                   ]
             }
       ],
@@ -908,6 +962,15 @@ export const netherlandsNatureV2: POI[] = [
                         5.960877,
                         52.75863
                   ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "O grădină zoologică în zona Weerribben-Wieden.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
+                  ]
             }
       ],
       "en": [
@@ -936,6 +999,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.960877,
                         52.75863
+                  ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "A zoo in the Weerribben-Wieden area.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
                   ]
             }
       ]
@@ -1057,6 +1129,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.373396,
                         52.781535
                   ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "Ein Freibad am Rande des Nationalparks Dwingelderveld.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
+                  ]
             }
       ],
       "hu": [
@@ -1130,6 +1211,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.373396,
                         52.781535
+                  ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "Szabadtéri strand a Dwingelderveld Nemzeti Park szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
                   ]
             }
       ],
@@ -1205,6 +1295,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.373396,
                         52.781535
                   ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "O piscină în aer liber la marginea Parcului Național Dwingelderveld.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
+                  ]
             }
       ],
       "en": [
@@ -1278,6 +1377,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.373396,
                         52.781535
+                  ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "An outdoor swimming pool located on the edge of the Dwingelderveld National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
                   ]
             }
       ]
@@ -1363,6 +1471,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.189994,
                         53.303949
                   ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Ein kleiner Streichelzoo oder Tiergehege am Rande des Nationalparks Lauwersmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        6.274789,
+                        53.300412
+                  ]
             }
       ],
       "hu": [
@@ -1400,6 +1517,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.189994,
                         53.303949
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Kisméretű állatsimogató vagy vadaskert a Lauwersmeer Nemzeti Park szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.274789,
+                        53.300412
                   ]
             }
       ],
@@ -1439,6 +1565,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.189994,
                         53.303949
                   ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "O mică grădină zoologică sau țarc pentru animale la marginea Parcului Național Lauwersmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        6.274789,
+                        53.300412
+                  ]
             }
       ],
       "en": [
@@ -1476,6 +1611,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.189994,
                         53.303949
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "A small petting zoo or animal enclosure on the edge of the Lauwersmeer National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        6.274789,
+                        53.300412
                   ]
             }
       ]
@@ -3477,7 +3621,196 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-schoorlse-duinen-nature-v2.webp",
   },
   {
-    id: "netherlands-salentse-bos-nature-v2", "sights": {"de": [{"name": "Zuidstrand", "text": "Zuidstrand im Salentse Bos.", "category": "recreational", "coords": [5.529551, 52.279044]}, {"name": "Noordstrand", "text": "Noordstrand im Salentse Bos.", "category": "recreational", "coords": [5.53381, 52.286762]}, {"name": "Strand Nulde Zuid", "text": "In der Nähe des Salentse Bos gelegen, dient der Strand Nulde Zuid als herrlicher südlicher Zugang zum Wasser. Das viele Grün der Umgebung verleiht dem Strand eine ruhige und familienfreundliche Note. Ein Tag hier besteht typischerweise aus dem Planschen im seichten Wasser, Faulenzen am Ufer und dem Genießen der frischen Luft. Festes Schuhwerk ist praktisch, wenn man im Anschluss noch die angrenzenden Wälder erkunden möchte.", "category": "recreational", "coords": [5.529088, 52.26495]}, {"name": "Strand Nulde Noord", "text": "Direkt am Salentse Bos bietet der Strand Nulde Noord einen weiteren fantastischen Küstenabschnitt für Wasserfreunde. Die Atmosphäre ist hier meist entspannt und spricht Besucher an, die einen unaufgeregten Nachmittag verbringen möchten. Sonnenbaden, leichtes Schwimmen und das Genießen der weiten Aussicht sind die Highlights dieses Ortes. Wenn Sie ein paar Snacks und Getränke einpacken, können Sie hier problemlos stundenlang verweilen.", "category": "recreational", "coords": [5.542697, 52.281014]}], "hu": [{"name": "Zuidstrand", "text": "Zuidstrand a Salentse Bos-ban.", "category": "recreational", "coords": [5.529551, 52.279044]}, {"name": "Noordstrand", "text": "Noordstrand a Salentse Bos-ban.", "category": "recreational", "coords": [5.53381, 52.286762]}, {"name": "Strand Nulde Zuid", "text": "A Salentse Bos közelében található Strand Nulde Zuid gyönyörű déli kapuként szolgál a vízhez. A környező zöldövezet nyugodt és családbarát hangulatot kölcsönöz a strandnak. Az itt eltöltött nap során a sekély vízben való pancsolás, a parton történő pihenés és a friss levegő élvezete a legfőbb program. Egy kényelmes sétacipő hasznos lehet, ha a fürdőzés után a közeli erdőket is szeretné felfedezni.", "category": "recreational", "coords": [5.529088, 52.26495]}, {"name": "Strand Nulde Noord", "text": "Közvetlenül a Salentse Bos mellett a Strand Nulde Noord újabb fantasztikus partszakaszt kínál a vízimádóknak. A légkör általában ráérős, ami vonzó a visszafogottabb délutánra vágyó látogatók számára. A napozás, az alkalmi úszás és a tágas kilátás élvezete a legfőbb vonzerő ezen a helyen. Néhány harapnivaló és ital csomagolásával biztosíthatja, hogy órákig kényelmesen elidőzhessen itt.", "category": "recreational", "coords": [5.542697, 52.281014]}], "ro": [{"name": "Zuidstrand", "text": "Plaja Zuidstrand în Salentse Bos.", "category": "recreational", "coords": [5.529551, 52.279044]}, {"name": "Noordstrand", "text": "Plaja Noordstrand în Salentse Bos.", "category": "recreational", "coords": [5.53381, 52.286762]}, {"name": "Strand Nulde Zuid", "text": "Poziționată lângă Salentse Bos, Strand Nulde Zuid servește drept o frumoasă poartă sudică către apă. Verdeața din jur împrumută plajei o notă calmă și potrivită pentru familii. Petrecerea zilei aici include, de obicei, bălăceala în apa puțin adâncă, lenevitul pe țărm și bucuria aerului curat. O pereche rezistentă de pantofi de mers este utilă dacă doriți să explorați pădurile din apropiere mai târziu.", "category": "recreational", "coords": [5.529088, 52.26495]}, {"name": "Strand Nulde Noord", "text": "Situată chiar lângă Salentse Bos, Strand Nulde Noord oferă o altă porțiune fantastică pentru iubitorii de apă. Atmosfera este în general lipsită de grabă, atrăgând vizitatorii care caută o după-amiază liniștită. Băile de soare, înotul relaxat și savurarea priveliștilor vaste sunt atracțiile principale ale acestei locații. Aducerea unor gustări și băuturi vă asigură că puteți zăbovi confortabil ore în șir.", "category": "recreational", "coords": [5.542697, 52.281014]}], "en": [{"name": "Zuidstrand", "text": "Zuidstrand in the Salentse Bos.", "category": "recreational", "coords": [5.529551, 52.279044]}, {"name": "Noordstrand", "text": "Noordstrand in the Salentse Bos.", "category": "recreational", "coords": [5.53381, 52.286762]}, {"name": "Strand Nulde Zuid", "text": "Positioned near the Salentse Bos, Strand Nulde Zuid serves as a lovely southern gateway to the water. The surrounding greenery lends a calm and family-friendly tone to the beach. Spending the day here typically includes splashing in the shallows, lounging on the shore, and enjoying the fresh air. A sturdy pair of walking shoes is useful if you wish to explore the nearby woods afterward.", "category": "recreational", "coords": [5.529088, 52.26495]}, {"name": "Strand Nulde Noord", "text": "Just adjacent to the Salentse Bos, Strand Nulde Noord offers another fantastic stretch for water lovers. The atmosphere is generally unhurried, appealing to visitors seeking a low-key afternoon. Sunbathing, casual swimming, and enjoying the expansive views are the highlights of this location. Packing some snacks and drinks ensures you can linger comfortably for hours.", "category": "recreational", "coords": [5.542697, 52.281014]}]},
+    id: "netherlands-salentse-bos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Zuidstrand im Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Noordstrand im Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "In der Nähe des Salentse Bos gelegen, dient der Strand Nulde Zuid als herrlicher südlicher Zugang zum Wasser. Das viele Grün der Umgebung verleiht dem Strand eine ruhige und familienfreundliche Note. Ein Tag hier besteht typischerweise aus dem Planschen im seichten Wasser, Faulenzen am Ufer und dem Genießen der frischen Luft. Festes Schuhwerk ist praktisch, wenn man im Anschluss noch die angrenzenden Wälder erkunden möchte.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Direkt am Salentse Bos bietet der Strand Nulde Noord einen weiteren fantastischen Küstenabschnitt für Wasserfreunde. Die Atmosphäre ist hier meist entspannt und spricht Besucher an, die einen unaufgeregten Nachmittag verbringen möchten. Sonnenbaden, leichtes Schwimmen und das Genießen der weiten Aussicht sind die Highlights dieses Ortes. Wenn Sie ein paar Snacks und Getränke einpacken, können Sie hier problemlos stundenlang verweilen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "Ein Kinderbecken im Gebiet von Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Zuidstrand a Salentse Bos-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Noordstrand a Salentse Bos-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "A Salentse Bos közelében található Strand Nulde Zuid gyönyörű déli kapuként szolgál a vízhez. A környező zöldövezet nyugodt és családbarát hangulatot kölcsönöz a strandnak. Az itt eltöltött nap során a sekély vízben való pancsolás, a parton történő pihenés és a friss levegő élvezete a legfőbb program. Egy kényelmes sétacipő hasznos lehet, ha a fürdőzés után a közeli erdőket is szeretné felfedezni.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Közvetlenül a Salentse Bos mellett a Strand Nulde Noord újabb fantasztikus partszakaszt kínál a vízimádóknak. A légkör általában ráérős, ami vonzó a visszafogottabb délutánra vágyó látogatók számára. A napozás, az alkalmi úszás és a tágas kilátás élvezete a legfőbb vonzerő ezen a helyen. Néhány harapnivaló és ital csomagolásával biztosíthatja, hogy órákig kényelmesen elidőzhessen itt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "Gyermekmedence Salentse Bos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Plaja Zuidstrand în Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Plaja Noordstrand în Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "Poziționată lângă Salentse Bos, Strand Nulde Zuid servește drept o frumoasă poartă sudică către apă. Verdeața din jur împrumută plajei o notă calmă și potrivită pentru familii. Petrecerea zilei aici include, de obicei, bălăceala în apa puțin adâncă, lenevitul pe țărm și bucuria aerului curat. O pereche rezistentă de pantofi de mers este utilă dacă doriți să explorați pădurile din apropiere mai târziu.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Situată chiar lângă Salentse Bos, Strand Nulde Noord oferă o altă porțiune fantastică pentru iubitorii de apă. Atmosfera este în general lipsită de grabă, atrăgând vizitatorii care caută o după-amiază liniștită. Băile de soare, înotul relaxat și savurarea priveliștilor vaste sunt atracțiile principale ale acestei locații. Aducerea unor gustări și băuturi vă asigură că puteți zăbovi confortabil ore în șir.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "O piscină pentru copii situată în Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Zuidstrand in the Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Noordstrand in the Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "Positioned near the Salentse Bos, Strand Nulde Zuid serves as a lovely southern gateway to the water. The surrounding greenery lends a calm and family-friendly tone to the beach. Spending the day here typically includes splashing in the shallows, lounging on the shore, and enjoying the fresh air. A sturdy pair of walking shoes is useful if you wish to explore the nearby woods afterward.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Just adjacent to the Salentse Bos, Strand Nulde Noord offers another fantastic stretch for water lovers. The atmosphere is generally unhurried, appealing to visitors seeking a low-key afternoon. Sunbathing, casual swimming, and enjoying the expansive views are the highlights of this location. Packing some snacks and drinks ensures you can linger comfortably for hours.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "A children's swimming pool located in Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "NL",
     name: { de: "Salentse Bos", hu: "Salentse Bos", ro: "Salentse Bos", en: "Salentse Bos" },
@@ -3613,6 +3946,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.090299,
                         51.549965
                   ]
+            },
+            {
+                  "name": "Leukermeer Dagstrand",
+                  "text": "Ein öffentlicher Badestrand am Leukermeer im Nationalpark Maasduinen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.076956,
+                        51.56622
+                  ]
             }
       ],
       "hu": [
@@ -3659,6 +4001,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.090299,
                         51.549965
+                  ]
+            },
+            {
+                  "name": "Leukermeer Dagstrand",
+                  "text": "Nyilvános strand a Leukermeer-tónál a Maasduinen területén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.076956,
+                        51.56622
                   ]
             }
       ],
@@ -3707,6 +4058,15 @@ export const netherlandsNatureV2: POI[] = [
                         6.090299,
                         51.549965
                   ]
+            },
+            {
+                  "name": "Leukermeer Dagstrand",
+                  "text": "O plajă publică la Leukermeer în zona Maasduinen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.076956,
+                        51.56622
+                  ]
             }
       ],
       "en": [
@@ -3753,6 +4113,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.090299,
                         51.549965
+                  ]
+            },
+            {
+                  "name": "Leukermeer Dagstrand",
+                  "text": "A public bathing beach at Leukermeer in the Maasduinen area.",
+                  "category": "recreational",
+                  "coords": [
+                        6.076956,
+                        51.56622
                   ]
             }
       ]
@@ -4261,6 +4630,15 @@ export const netherlandsNatureV2: POI[] = [
                         5.960877,
                         52.75863
                   ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Meerzoo in Oostwaard ist ein kleinerer Tierpark, der Besuchern Einblicke in die regionale und exotische Tierwelt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
+                  ]
             }
       ],
       "hu": [
@@ -4289,6 +4667,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.960877,
                         52.75863
+                  ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Az oostwaardi Meerzoo egy kisebb állatkert, amely betekintést nyújt a látogatóknak a regionális és egzotikus állatvilágba.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
                   ]
             }
       ],
@@ -4319,6 +4706,15 @@ export const netherlandsNatureV2: POI[] = [
                         5.960877,
                         52.75863
                   ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Meerzoo din Oostwaard este un mic parc zoologic care oferă vizitatorilor perspective asupra faunei regionale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
+                  ]
             }
       ],
       "en": [
@@ -4347,6 +4743,15 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.960877,
                         52.75863
+                  ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Meerzoo in Oostwaard is a smaller zoo providing visitors with insights into regional and exotic wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
                   ]
             }
       ]

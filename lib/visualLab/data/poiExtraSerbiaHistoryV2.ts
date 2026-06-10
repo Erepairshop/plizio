@@ -49,6 +49,33 @@ export const serbiaHistoryV2: POI[] = [
                         21.948682,
                         43.309932
                   ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Ein Freizeitpark für Kinder in Mediana mit verschiedenen Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "Ein kleines Schwimmbad im Sportkomplex Čair im Stadtteil Mediana.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "Ein lokales Schwimmbad im Stadtviertel Vrežina in Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
+                  ]
             }
       ],
       "hu": [
@@ -95,6 +122,33 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         21.948682,
                         43.309932
+                  ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Gyermekvidámpark Medianában, különféle játékokkal és attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "Kisméretű úszómedence a Mediana negyedben található Čair sportkomplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "Helyi úszómedence Niš Vrežina városrészében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
                   ]
             }
       ],
@@ -143,6 +197,33 @@ export const serbiaHistoryV2: POI[] = [
                         21.948682,
                         43.309932
                   ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Un parc de distracții pentru copii în Mediana, cu diverse atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "O piscină de mici dimensiuni situată în complexul sportiv Čair din Mediana.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "O piscină locală situată în zona Vrežina din Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
+                  ]
             }
       ],
       "en": [
@@ -189,6 +270,33 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         21.948682,
                         43.309932
+                  ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "A children's amusement park in Mediana featuring various rides and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "A small swimming pool facility located in the Čair sports complex in Mediana.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "A local swimming pool located in the Vrežina area of Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
                   ]
             }
       ]
@@ -400,6 +508,51 @@ export const serbiaHistoryV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des historischen Kosančićev venac in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein Belgrader Aquarium, das verschiedene Fisch-, Reptilien- und Amphibienarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dinosaurier-Erlebnispark auf dem Gelände der Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein beliebter Flussstrand auf der Großen Kriegsinsel in der Donau, erreichbar von Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -473,6 +626,51 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Wellness- és úszólétesítmény a belgrádi Kosančićev venac történelmi negyed közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi akvárium, amely különféle halfajokat, hüllőket és kétéltűeket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-tematikájú kalandpark a Kalemegdan erőd területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Népszerű folyami strand a Dunán, a Nagy Hadi-szigeten, Zimony felől megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Európa egyik legrégebbi állatkertje, amely a belgrádi Kalemegdan parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -548,6 +746,51 @@ export const serbiaHistoryV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "O facilitate de wellness și înot situată lângă centrul istoric Kosančićev venac din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu din Belgrad care expune diverse specii de pești, reptile și amfibieni.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de aventură cu tematică dinozauri situat în zona Cetății Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială populară pe Insula Marelui Război din Dunăre, accesibilă din Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Europa, situată în parcul Kalemegdan din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -622,6 +865,51 @@ export const serbiaHistoryV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A wellness and swimming facility located near the historic Kosančićev venac in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ]
 },
@@ -669,7 +957,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-kosancic-venac-history-v2.webp",
   },
   {
-    id: "serbia-stari-ras-history-v2",
+    id: "serbia-stari-ras-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoo Novi Pazar",
+                  "text": "Ein lokaler Zoo in der Nähe der historischen Stätte Stari Ras.",
+                  "category": "recreational",
+                  "coords": [
+                        20.388951,
+                        43.121153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoo Novi Pazar",
+                  "text": "Helyi állatkert a történelmi Stari Ras közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.388951,
+                        43.121153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoo Novi Pazar",
+                  "text": "O grădină zoologică locală situată lângă situl istoric Stari Ras.",
+                  "category": "recreational",
+                  "coords": [
+                        20.388951,
+                        43.121153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoo Novi Pazar",
+                  "text": "A local zoo located near the historic Stari Ras site.",
+                  "category": "recreational",
+                  "coords": [
+                        20.388951,
+                        43.121153
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "RS",
     name: { de: "Stari Ras", hu: "Ó-Rász", ro: "Stari Ras", en: "Stari Ras" },
@@ -751,6 +1084,15 @@ export const serbiaHistoryV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "Ein olympisches Schwimmbecken für sportliche Aktivitäten bei der Kirche St. Peter und Paul.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
+                  ]
             }
       ],
       "hu": [
@@ -788,6 +1130,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.527643,
                         43.161378
+                  ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "Olimpiai úszómedence sportolási lehetőségekkel a Szent Péter és Pál-templomnál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
                   ]
             }
       ],
@@ -827,6 +1178,15 @@ export const serbiaHistoryV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "O piscină olimpică destinată activităților sportive lângă Biserica Sfinții Petru și Pavel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
+                  ]
             }
       ],
       "en": [
@@ -864,6 +1224,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.527643,
                         43.161378
+                  ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "An Olympic-sized swimming pool suitable for sports activities near the Church of Saints Peter and Paul.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
                   ]
             }
       ]
@@ -1075,6 +1444,51 @@ export const serbiaHistoryV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Ein Schwimmclub in Belgrad, der Sport- und Freizeiteinrichtungen für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Dieses Aquarium in Belgrad beherbergt zahlreiche exotische Fischarten und Wasserbewohner.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Erlebnispark mit Dinosaurier-Ausstellungen in der Nähe des historischen Nebojša-Turms.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein bekannter Badeort am Fluss, der Entspannung in der Nähe des Nebojša-Turms bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Der Zoo von Belgrad beherbergt eine große Vielfalt an Tieren in der Nähe der alten Festung.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -1148,6 +1562,51 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Belgrádi úszóklub, amely sport- és szabadidős létesítményeket kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ez a belgrádi akvárium számos egzotikus halfajnak és vízi élőlénynek ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-kiállításokkal teli élménypark a történelmi Nebojša-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ismert folyóparti fürdőhely, amely kikapcsolódást kínál a Nebojša-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "A Belgrádi Állatkert számos állatfajnak ad otthont a régi erőd szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -1223,6 +1682,51 @@ export const serbiaHistoryV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Un club de înot în Belgrad, care oferă facilități sportive și recreative pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Acest acvariu din Belgrad găzduiește numeroase specii de pești exotici și creaturi marine.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de distracții cu expoziții de dinozauri lângă turnul istoric Nebojša.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O stațiune fluvială cunoscută care oferă relaxare în apropierea turnului Nebojša.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Grădina Zoologică din Belgrad adăpostește o mare varietate de animale lângă vechea cetate.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -1296,6 +1800,51 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A swimming club in Belgrade providing sports and leisure facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "This Belgrade aquarium houses numerous exotic fish species and aquatic creatures.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "An adventure park featuring dinosaur exhibits near the historic Nebojša Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A well-known river resort offering relaxation near the Nebojša Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "The Belgrade Zoo houses a wide variety of animals adjacent to the ancient fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -1597,6 +2146,15 @@ export const serbiaHistoryV2: POI[] = [
                         19.862035,
                         45.158429
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Ein Thermalbad in der Nähe des Klosters Staro Hopovo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "hu": [
@@ -1625,6 +2183,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.862035,
                         45.158429
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Termálvizes medence a Staro Hopovo-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ],
@@ -1655,6 +2222,15 @@ export const serbiaHistoryV2: POI[] = [
                         19.862035,
                         45.158429
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "O piscină termală situată lângă Mănăstirea Staro Hopovo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "en": [
@@ -1683,6 +2259,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.862035,
                         45.158429
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "A thermal swimming pool located near the Staro Hopovo Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ]
@@ -1768,6 +2353,15 @@ export const serbiaHistoryV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "Ein Schwimmbecken mit olympischen Maßen in der Nähe des Klosters Đurđevi Stupovi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
+                  ]
             }
       ],
       "hu": [
@@ -1805,6 +2399,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.527643,
                         43.161378
+                  ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "Olimpiai méretű úszómedence a Đurđevi Stupovi-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
                   ]
             }
       ],
@@ -1844,6 +2447,15 @@ export const serbiaHistoryV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "O piscină olimpică situată lângă Mănăstirea Đurđevi Stupovi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
+                  ]
             }
       ],
       "en": [
@@ -1881,6 +2493,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.527643,
                         43.161378
+                  ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "An Olympic-sized swimming pool located near the Đurđevi Stupovi Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
                   ]
             }
       ]
@@ -3036,7 +3657,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-kopo-history-v2.webp",
   },
   {
-    id: "serbia-fenek-history-v2",
+    id: "serbia-fenek-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akva park S-Klub",
+                  "text": "Großer Wasserfreizeitpark mit mehreren Becken in der Nähe des Klosters Fenek.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267747,
+                        44.743808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akva park S-Klub",
+                  "text": "Nagy vízi vidámpark több medencével a Fenek-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267747,
+                        44.743808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akva park S-Klub",
+                  "text": "Parc de distracții acvatic mare, cu mai multe piscine, lângă Mănăstirea Fenek.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267747,
+                        44.743808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akva park S-Klub",
+                  "text": "Large water-themed amusement park with multiple pools near the Fenek Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267747,
+                        44.743808
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Fenek", hu: "Fenek kolostor", ro: "Mănăstirea Fenek", en: "Fenek Monastery" },
@@ -3136,6 +3802,15 @@ export const serbiaHistoryV2: POI[] = [
                         19.775246,
                         45.143991
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Thermalschwimmbad in der Nähe des Klosters Novo Hopovo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "hu": [
@@ -3191,6 +3866,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.775246,
                         45.143991
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Termálvizes úszómedence az Új-Hopovo kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ],
@@ -3248,6 +3932,15 @@ export const serbiaHistoryV2: POI[] = [
                         19.775246,
                         45.143991
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Piscină termală situată lângă Mănăstirea Novo Hopovo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "en": [
@@ -3303,6 +3996,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.775246,
                         45.143991
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Thermal pool facility located near the Novo Hopovo Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ]
@@ -3379,6 +4081,15 @@ export const serbiaHistoryV2: POI[] = [
                         19.765413,
                         45.10458
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Ein Thermalschwimmbad in der Nähe des Klosters Jazak zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "hu": [
@@ -3407,6 +4118,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.765413,
                         45.10458
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Termálvizes úszómedence a Jazak-kolostor közelében a pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ],
@@ -3437,6 +4157,15 @@ export const serbiaHistoryV2: POI[] = [
                         19.765413,
                         45.10458
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "O piscină termală lângă Mănăstirea Jazak pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "en": [
@@ -3465,6 +4194,15 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.765413,
                         45.10458
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "A thermal swimming pool near the Jazak Monastery for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ]

@@ -570,6 +570,15 @@ export const irelandRegions: POI[] = [
                         -6.245337,
                         53.377238
                   ]
+            },
+            {
+                  "name": "Dublin Zoo",
+                  "text": "Der im Phoenix Park gelegene Dublin Zoo ist einer der ältesten Zoos der Welt.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.306942,
+                        53.356822
+                  ]
             }
       ],
       "hu": [
@@ -1066,6 +1075,15 @@ export const irelandRegions: POI[] = [
                   "coords": [
                         -6.245337,
                         53.377238
+                  ]
+            },
+            {
+                  "name": "Dublin Zoo",
+                  "text": "A Phoenix Parkban található Dublini Állatkert a világ egyik legrégebbi állatkertje.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.306942,
+                        53.356822
                   ]
             }
       ],
@@ -1564,6 +1582,15 @@ export const irelandRegions: POI[] = [
                         -6.245337,
                         53.377238
                   ]
+            },
+            {
+                  "name": "Dublin Zoo",
+                  "text": "Situată în Phoenix Park, Grădina Zoologică din Dublin este una dintre cele mai vechi din lume.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.306942,
+                        53.356822
+                  ]
             }
       ],
       "en": [
@@ -2060,6 +2087,15 @@ export const irelandRegions: POI[] = [
                   "coords": [
                         -6.245337,
                         53.377238
+                  ]
+            },
+            {
+                  "name": "Dublin Zoo",
+                  "text": "Located in Phoenix Park, Dublin Zoo is one of the world's oldest zoos.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.306942,
+                        53.356822
                   ]
             }
       ]
@@ -4512,6 +4548,15 @@ export const irelandCities: POI[] = [
                         -8.628652,
                         52.662197
                   ]
+            },
+            {
+                  "name": "Energize Health Centre",
+                  "text": "Ein Gesundheits- und Fitnesszentrum in Limerick mit einem Hallenbad.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.631653,
+                        52.665908
+                  ]
             }
       ],
       "hu": [
@@ -4801,6 +4846,15 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -8.628652,
                         52.662197
+                  ]
+            },
+            {
+                  "name": "Energize Health Centre",
+                  "text": "Limericki egészség- és fitneszközpont, amely fedett úszómedencével rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.631653,
+                        52.665908
                   ]
             }
       ],
@@ -5092,6 +5146,15 @@ export const irelandCities: POI[] = [
                         -8.628652,
                         52.662197
                   ]
+            },
+            {
+                  "name": "Energize Health Centre",
+                  "text": "Un centru de sănătate și fitness din Limerick, dotat cu o piscină interioară.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.631653,
+                        52.665908
+                  ]
             }
       ],
       "en": [
@@ -5381,6 +5444,15 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -8.628652,
                         52.662197
+                  ]
+            },
+            {
+                  "name": "Energize Health Centre",
+                  "text": "A health and fitness center in Limerick featuring an indoor swimming pool.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.631653,
+                        52.665908
                   ]
             }
       ]
@@ -8091,7 +8163,916 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-waterford", "sights": {"de": [{"name": "Theatre Royal Waterford", "text": "Das Theatre Royal Waterford ist ein Theater in Waterford.", "category": "cultural", "coords": [-7.106905, 52.259785]}, {"name": "Double Tower", "text": "Der Double Tower ist ein historisches Burggebäude in Waterford.", "category": "castle", "coords": [-7.112725, 52.256728]}, {"name": "Beach Tower", "text": "Stolz in Waterford aufragend, ist der Beach Tower ein historisches Burgenelement, das der Küstengegend einen Hauch von Antike verleiht. Besucher können um dieses faszinierende Bauwerk spazieren und dabei die weitläufige maritime Landschaft genießen. Die Atmosphäre ist ruhig und besinnlich, perfekt für alle, die sich für Geschichte und Meerblick interessieren. Das Mitbringen einer Kamera wird dringend empfohlen, um das historische Mauerwerk vor dem dramatischen Himmel festzuhalten.", "category": "castle", "coords": [-7.113802, 52.261064]}, {"name": "Reginald's Tower", "text": "Reginald's Tower ist ein historisches Wahrzeichen und eine ehemalige Burg in Waterford.", "category": "castle", "coords": [-7.105403, 52.260472]}, {"name": "French Tower", "text": "Der French Tower ist ein historischer Burgturm in Waterford.", "category": "castle", "coords": [-7.114312, 52.257303]}, {"name": "Amphitheatre", "text": "Das Amphitheatre ist ein Veranstaltungsort für Theater in Waterford.", "category": "cultural", "coords": [-7.106012, 52.256258]}, {"name": "Semi-Lunar Tower", "text": "Der Semi-Lunar Tower ist eine defensive Burgstruktur in Waterford.", "category": "castle", "coords": [-7.114591, 52.259609]}, {"name": "Band Stand", "text": "Der Band Stand ist eine lokale Freilichtbühne in Waterford.", "category": "cultural", "coords": [-7.104366, 52.256131]}, {"name": "Forum", "text": "The Forum ist ein Theater und Veranstaltungsort in Waterford.", "category": "cultural", "coords": [-7.119594, 52.260976]}, {"name": "The Viking Triangle", "text": "Das Viking Triangle ist eine bekannte kulturelle und historische Attraktion in Waterford.", "category": "landmark", "coords": [-7.108043, 52.260493]}, {"name": "#44TheQuay", "text": "#44TheQuay ist eine Kunstgalerie in Waterford.", "category": "museum", "coords": [-7.114207, 52.262587]}, {"name": "GOMA Gallery of Modern Art", "text": "Die GOMA Gallery of Modern Art zeigt zeitgenössische Kunstwerke in Waterford.", "category": "museum", "coords": [-7.105469, 52.259508]}, {"name": "Spraoi Studios", "text": "Die Spraoi Studios fungieren als kreatives Kunstzentrum in Waterford.", "category": "cultural", "coords": [-7.143612, 52.259852]}, {"name": "Church of the Sacred Heart", "text": "Die Church of the Sacred Heart ist eine lokale Kultstätte in Waterford.", "category": "religious", "coords": [-7.100749, 52.266574]}, {"name": "Church Of The Most Holy Trinity Without", "text": "Die Church Of The Most Holy Trinity Without ist eine ausgewiesene Kultstätte in Waterford.", "category": "religious", "coords": [-7.116115, 52.259087]}, {"name": "Holy Family Church", "text": "Die Holy Family Church ist eine Kultstätte in Waterford.", "category": "religious", "coords": [-7.123663, 52.255797]}, {"name": "Saint John's", "text": "Saint John's ist eine lokale religiöse Stätte und Kultstätte in Waterford.", "category": "religious", "coords": [-7.110446, 52.257411]}, {"name": "Sacred Heart Church", "text": "Die Sacred Heart Church ist eine Kultstätte in der Stadt Waterford.", "category": "religious", "coords": [-7.109786, 52.247777]}, {"name": "Cathedral of the Most Holy Trinity", "text": "Die Cathedral of the Most Holy Trinity ist eine bemerkenswerte Kultstätte in Waterford.", "category": "religious", "coords": [-7.11114, 52.261511]}, {"name": "Saint Saviours Dominican Church", "text": "Die Saint Saviours Dominican Church ist eine religiöse Stätte in Waterford.", "category": "religious", "coords": [-7.118874, 52.263377]}, {"name": "Waterford Baptist Church", "text": "Die Waterford Baptist Church ist eine religiöse Stätte in Waterford.", "category": "religious", "coords": [-7.107725, 52.258009]}, {"name": "Lough Cullen", "text": "Lough Cullen ist ein See in Waterford, der einen malerischen Ort zum Entspannen bietet.", "category": "natural", "coords": [-7.101544, 52.315105]}, {"name": "Playground (7-12 years)", "text": "Playground (7-12 years) ist ein Spielplatz in Waterford mit verschiedenen Aktivitäten für Kinder.", "category": "family", "coords": [-7.103449, 52.256479]}, {"name": "Velocity VR", "text": "Velocity VR ist eine Spielhalle in Waterford, die spannende Unterhaltung für die Familie bietet.", "category": "family", "coords": [-7.117198, 52.250871]}], "hu": [{"name": "Theatre Royal Waterford", "text": "A Theatre Royal Waterford egy színház Waterford városában.", "category": "cultural", "coords": [-7.106905, 52.259785]}, {"name": "Double Tower", "text": "A Double Tower egy történelmi várépület Waterfordban.", "category": "castle", "coords": [-7.112725, 52.256728]}, {"name": "Beach Tower", "text": "A Waterfordban büszkén magasodó Beach Tower egy történelmi várelem, amely antik hangulatot kölcsönöz a partvidéknek. A látogatók körbesétálhatják ezt a lenyűgöző építményt, miközben élvezhetik a kiterjedt tengeri tájat. A légkör csendes és elmélyült, tökéletes azok számára, akik érdeklődnek a történelem és az óceáni kilátás iránt. Érdemes fényképezőgépet hozni, hogy megörökítsük a kőfalakat a drámai égbolt hátterében.", "category": "castle", "coords": [-7.113802, 52.261064]}, {"name": "Reginald's Tower", "text": "A Reginald's Tower történelmi nevezetesség és egykori vár Waterfordban.", "category": "castle", "coords": [-7.105403, 52.260472]}, {"name": "French Tower", "text": "A French Tower egy történelmi vártorony Waterford városában.", "category": "castle", "coords": [-7.114312, 52.257303]}, {"name": "Amphitheatre", "text": "Az Amphitheatre egy színházi helyszín Waterfordban.", "category": "cultural", "coords": [-7.106012, 52.256258]}, {"name": "Semi-Lunar Tower", "text": "A Semi-Lunar Tower egy védelmi várépület Waterford városában.", "category": "castle", "coords": [-7.114591, 52.259609]}, {"name": "Band Stand", "text": "A Band Stand egy helyi szabadtéri színpad Waterfordban.", "category": "cultural", "coords": [-7.104366, 52.256131]}, {"name": "Forum", "text": "A Forum egy színház és rendezvényhelyszín Waterford városában.", "category": "cultural", "coords": [-7.119594, 52.260976]}, {"name": "The Viking Triangle", "text": "A Viking Triangle egy híres kulturális és történelmi látványosság Waterfordban.", "category": "landmark", "coords": [-7.108043, 52.260493]}, {"name": "#44TheQuay", "text": "A #44TheQuay egy művészeti galéria Waterfordban.", "category": "museum", "coords": [-7.114207, 52.262587]}, {"name": "GOMA Gallery of Modern Art", "text": "A GOMA Gallery of Modern Art kortárs művészeti alkotásokat mutat be Waterfordban.", "category": "museum", "coords": [-7.105469, 52.259508]}, {"name": "Spraoi Studios", "text": "A Spraoi Studios kreatív művészeti központként működik Waterfordban.", "category": "cultural", "coords": [-7.143612, 52.259852]}, {"name": "Church of the Sacred Heart", "text": "A Church of the Sacred Heart egy helyi istentiszteleti hely Waterford városában.", "category": "religious", "coords": [-7.100749, 52.266574]}, {"name": "Church Of The Most Holy Trinity Without", "text": "A Church Of The Most Holy Trinity Without egy istentiszteleti hely Waterfordban.", "category": "religious", "coords": [-7.116115, 52.259087]}, {"name": "Holy Family Church", "text": "A Holy Family Church egy istentiszteleti hely Waterford városában.", "category": "religious", "coords": [-7.123663, 52.255797]}, {"name": "Saint John's", "text": "A Saint John's egy helyi vallási helyszín és istentiszteleti hely Waterfordban.", "category": "religious", "coords": [-7.110446, 52.257411]}, {"name": "Sacred Heart Church", "text": "A Sacred Heart Church egy istentiszteleti hely Waterford városában.", "category": "religious", "coords": [-7.109786, 52.247777]}, {"name": "Cathedral of the Most Holy Trinity", "text": "A Cathedral of the Most Holy Trinity egy figyelemre méltó istentiszteleti hely Waterfordban.", "category": "religious", "coords": [-7.11114, 52.261511]}, {"name": "Saint Saviours Dominican Church", "text": "A Saint Saviours Dominican Church egy istentiszteleti hely Waterford városában.", "category": "religious", "coords": [-7.118874, 52.263377]}, {"name": "Waterford Baptist Church", "text": "A Waterford Baptist Church egy istentiszteleti hely Waterford városában.", "category": "religious", "coords": [-7.107725, 52.258009]}, {"name": "Lough Cullen", "text": "A Lough Cullen egy tó Waterfordban, amely festői helyszínt biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [-7.101544, 52.315105]}, {"name": "Playground (7-12 years)", "text": "A Playground (7-12 years) egy játszótér Waterfordban, különféle játéklehetőségekkel a gyermekek számára.", "category": "family", "coords": [-7.103449, 52.256479]}, {"name": "Velocity VR", "text": "A Velocity VR egy játékterem Waterfordban, amely izgalmas szórakozást nyújt a családnak.", "category": "family", "coords": [-7.117198, 52.250871]}], "ro": [{"name": "Theatre Royal Waterford", "text": "Theatre Royal Waterford este un teatru situat în Waterford.", "category": "cultural", "coords": [-7.106905, 52.259785]}, {"name": "Double Tower", "text": "Double Tower este o structură istorică de castel din Waterford.", "category": "castle", "coords": [-7.112725, 52.256728]}, {"name": "Beach Tower", "text": "Înălțându-se cu mândrie în Waterford, Beach Tower este un element istoric de castel care adaugă o notă de antichitate zonei de coastă. Vizitatorii se pot plimba în jurul acestei structuri fascinante în timp ce se bucură de peisajul maritim vast. Atmosfera este liniștită și contemplativă, perfectă pentru cei interesați de istorie și priveliști oceanice. Este recomandat să aduceți un aparat foto pentru a surprinde zidăria veche pe fundalul cerului dramatic.", "category": "castle", "coords": [-7.113802, 52.261064]}, {"name": "Reginald's Tower", "text": "Reginald's Tower este un punct de reper istoric și un fost castel din Waterford.", "category": "castle", "coords": [-7.105403, 52.260472]}, {"name": "French Tower", "text": "French Tower este un turn istoric de castel situat în Waterford.", "category": "castle", "coords": [-7.114312, 52.257303]}, {"name": "Amphitheatre", "text": "Amphitheatre este un spațiu teatral situat în Waterford.", "category": "cultural", "coords": [-7.106012, 52.256258]}, {"name": "Semi-Lunar Tower", "text": "Semi-Lunar Tower este o structură defensivă de castel situată în Waterford.", "category": "castle", "coords": [-7.114591, 52.259609]}, {"name": "Band Stand", "text": "Band Stand este o scenă teatrală locală în aer liber din Waterford.", "category": "cultural", "coords": [-7.104366, 52.256131]}, {"name": "Forum", "text": "Forum este un teatru și un loc de evenimente situat în Waterford.", "category": "cultural", "coords": [-7.119594, 52.260976]}, {"name": "The Viking Triangle", "text": "Viking Triangle este o atracție culturală și istorică renumită din Waterford.", "category": "landmark", "coords": [-7.108043, 52.260493]}, {"name": "#44TheQuay", "text": "#44TheQuay este o galerie de artă situată în Waterford.", "category": "museum", "coords": [-7.114207, 52.262587]}, {"name": "GOMA Gallery of Modern Art", "text": "GOMA Gallery of Modern Art prezintă opere de artă contemporană în Waterford.", "category": "museum", "coords": [-7.105469, 52.259508]}, {"name": "Spraoi Studios", "text": "Spraoi Studios funcționează ca un centru de arte creative în Waterford.", "category": "cultural", "coords": [-7.143612, 52.259852]}, {"name": "Church of the Sacred Heart", "text": "Church of the Sacred Heart este un lăcaș de cult local din Waterford.", "category": "religious", "coords": [-7.100749, 52.266574]}, {"name": "Church Of The Most Holy Trinity Without", "text": "Church Of The Most Holy Trinity Without este un lăcaș de cult desemnat în Waterford.", "category": "religious", "coords": [-7.116115, 52.259087]}, {"name": "Holy Family Church", "text": "Holy Family Church este un lăcaș de cult situat în Waterford.", "category": "religious", "coords": [-7.123663, 52.255797]}, {"name": "Saint John's", "text": "Saint John's este un sit religios local și lăcaș de cult din Waterford.", "category": "religious", "coords": [-7.110446, 52.257411]}, {"name": "Sacred Heart Church", "text": "Sacred Heart Church este un lăcaș de cult situat în orașul Waterford.", "category": "religious", "coords": [-7.109786, 52.247777]}, {"name": "Cathedral of the Most Holy Trinity", "text": "Cathedral of the Most Holy Trinity este un lăcaș de cult notabil din Waterford.", "category": "religious", "coords": [-7.11114, 52.261511]}, {"name": "Saint Saviours Dominican Church", "text": "Saint Saviours Dominican Church este un lăcaș de cult situat în Waterford.", "category": "religious", "coords": [-7.118874, 52.263377]}, {"name": "Waterford Baptist Church", "text": "Waterford Baptist Church este un lăcaș de cult situat în Waterford.", "category": "religious", "coords": [-7.107725, 52.258009]}, {"name": "Lough Cullen", "text": "Lough Cullen este un lac din Waterford, oferind un loc pitoresc pentru relaxare.", "category": "natural", "coords": [-7.101544, 52.315105]}, {"name": "Playground (7-12 years)", "text": "Playground (7-12 years) este un teren de joacă din Waterford, cu diverse activități pentru copii.", "category": "family", "coords": [-7.103449, 52.256479]}, {"name": "Velocity VR", "text": "Velocity VR este o sală de jocuri din Waterford, oferind divertisment captivant pentru familie.", "category": "family", "coords": [-7.117198, 52.250871]}], "en": [{"name": "Theatre Royal Waterford", "text": "Theatre Royal Waterford is a performing arts theatre located in Waterford.", "category": "cultural", "coords": [-7.106905, 52.259785]}, {"name": "Double Tower", "text": "Double Tower is a historic castle structure in Waterford.", "category": "castle", "coords": [-7.112725, 52.256728]}, {"name": "Beach Tower", "text": "Standing proudly in Waterford, the Beach Tower is a historic castle element that adds a touch of antiquity to the coastal area. Visitors can walk around this fascinating structure while enjoying the sweeping maritime scenery. The atmosphere is quiet and contemplative, perfect for those interested in history and ocean views. Bringing a camera is highly recommended to capture the stonework against the dramatic sky.", "category": "castle", "coords": [-7.113802, 52.261064]}, {"name": "Reginald's Tower", "text": "Reginald's Tower is a historic landmark and former castle in Waterford.", "category": "castle", "coords": [-7.105403, 52.260472]}, {"name": "French Tower", "text": "French Tower is a historic castle tower located in Waterford.", "category": "castle", "coords": [-7.114312, 52.257303]}, {"name": "Amphitheatre", "text": "The Amphitheatre is a theatrical venue situated in Waterford.", "category": "cultural", "coords": [-7.106012, 52.256258]}, {"name": "Semi-Lunar Tower", "text": "Semi-Lunar Tower is a defensive castle structure located in Waterford.", "category": "castle", "coords": [-7.114591, 52.259609]}, {"name": "Band Stand", "text": "The Band Stand is a local outdoor theatrical stage in Waterford.", "category": "cultural", "coords": [-7.104366, 52.256131]}, {"name": "Forum", "text": "The Forum is a theatre and events venue located in Waterford.", "category": "cultural", "coords": [-7.119594, 52.260976]}, {"name": "The Viking Triangle", "text": "The Viking Triangle is a renowned cultural and historical attraction in Waterford.", "category": "landmark", "coords": [-7.108043, 52.260493]}, {"name": "#44TheQuay", "text": "#44TheQuay is an art gallery situated in Waterford.", "category": "museum", "coords": [-7.114207, 52.262587]}, {"name": "GOMA Gallery of Modern Art", "text": "GOMA Gallery of Modern Art showcases contemporary artworks in Waterford.", "category": "museum", "coords": [-7.105469, 52.259508]}, {"name": "Spraoi Studios", "text": "Spraoi Studios operates as a creative arts center in Waterford.", "category": "cultural", "coords": [-7.143612, 52.259852]}, {"name": "Church of the Sacred Heart", "text": "Church of the Sacred Heart is a local place of worship in Waterford.", "category": "religious", "coords": [-7.100749, 52.266574]}, {"name": "Church Of The Most Holy Trinity Without", "text": "Church Of The Most Holy Trinity Without is a designated place of worship in Waterford.", "category": "religious", "coords": [-7.116115, 52.259087]}, {"name": "Holy Family Church", "text": "Holy Family Church is a place of worship located in Waterford.", "category": "religious", "coords": [-7.123663, 52.255797]}, {"name": "Saint John's", "text": "Saint John's is a local religious site and place of worship in Waterford.", "category": "religious", "coords": [-7.110446, 52.257411]}, {"name": "Sacred Heart Church", "text": "Sacred Heart Church is a place of worship located in the city of Waterford.", "category": "religious", "coords": [-7.109786, 52.247777]}, {"name": "Cathedral of the Most Holy Trinity", "text": "The Cathedral of the Most Holy Trinity is a notable place of worship in Waterford.", "category": "religious", "coords": [-7.11114, 52.261511]}, {"name": "Saint Saviours Dominican Church", "text": "Saint Saviours Dominican Church is a place of worship located in Waterford.", "category": "religious", "coords": [-7.118874, 52.263377]}, {"name": "Waterford Baptist Church", "text": "Waterford Baptist Church is a place of worship located in Waterford.", "category": "religious", "coords": [-7.107725, 52.258009]}, {"name": "Lough Cullen", "text": "Lough Cullen is a lake in Waterford, offering a scenic spot for relaxation.", "category": "natural", "coords": [-7.101544, 52.315105]}, {"name": "Playground (7-12 years)", "text": "Playground (7-12 years) is a playground in Waterford with various activities for children.", "category": "family", "coords": [-7.103449, 52.256479]}, {"name": "Velocity VR", "text": "Velocity VR is an amusement arcade in Waterford, offering exciting entertainment for the family.", "category": "family", "coords": [-7.117198, 52.250871]}]},
+    id: "city-waterford", "sights": {
+      "de": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "Das Theatre Royal Waterford ist ein Theater in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "Der Double Tower ist ein historisches Burggebäude in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "Stolz in Waterford aufragend, ist der Beach Tower ein historisches Burgenelement, das der Küstengegend einen Hauch von Antike verleiht. Besucher können um dieses faszinierende Bauwerk spazieren und dabei die weitläufige maritime Landschaft genießen. Die Atmosphäre ist ruhig und besinnlich, perfekt für alle, die sich für Geschichte und Meerblick interessieren. Das Mitbringen einer Kamera wird dringend empfohlen, um das historische Mauerwerk vor dem dramatischen Himmel festzuhalten.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "Reginald's Tower ist ein historisches Wahrzeichen und eine ehemalige Burg in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "Der French Tower ist ein historischer Burgturm in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Das Amphitheatre ist ein Veranstaltungsort für Theater in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "Der Semi-Lunar Tower ist eine defensive Burgstruktur in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "Der Band Stand ist eine lokale Freilichtbühne in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "The Forum ist ein Theater und Veranstaltungsort in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "Das Viking Triangle ist eine bekannte kulturelle und historische Attraktion in Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "#44TheQuay ist eine Kunstgalerie in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "Die GOMA Gallery of Modern Art zeigt zeitgenössische Kunstwerke in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "Die Spraoi Studios fungieren als kreatives Kunstzentrum in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Die Church of the Sacred Heart ist eine lokale Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "Die Church Of The Most Holy Trinity Without ist eine ausgewiesene Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Die Holy Family Church ist eine Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's ist eine lokale religiöse Stätte und Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Die Sacred Heart Church ist eine Kultstätte in der Stadt Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "Die Cathedral of the Most Holy Trinity ist eine bemerkenswerte Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "Die Saint Saviours Dominican Church ist eine religiöse Stätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "Die Waterford Baptist Church ist eine religiöse Stätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "Lough Cullen ist ein See in Waterford, der einen malerischen Ort zum Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "Playground (7-12 years) ist ein Spielplatz in Waterford mit verschiedenen Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "Velocity VR ist eine Spielhalle in Waterford, die spannende Unterhaltung für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
+                  ]
+            },
+            {
+                  "name": "Woodland Leisure Centre Swimming Pool",
+                  "text": "Ein Schwimmbad im Freizeitzentrum in Waterford, ideal für Familien und Fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064162,
+                        52.23923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "A Theatre Royal Waterford egy színház Waterford városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "A Double Tower egy történelmi várépület Waterfordban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "A Waterfordban büszkén magasodó Beach Tower egy történelmi várelem, amely antik hangulatot kölcsönöz a partvidéknek. A látogatók körbesétálhatják ezt a lenyűgöző építményt, miközben élvezhetik a kiterjedt tengeri tájat. A légkör csendes és elmélyült, tökéletes azok számára, akik érdeklődnek a történelem és az óceáni kilátás iránt. Érdemes fényképezőgépet hozni, hogy megörökítsük a kőfalakat a drámai égbolt hátterében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "A Reginald's Tower történelmi nevezetesség és egykori vár Waterfordban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "A French Tower egy történelmi vártorony Waterford városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Az Amphitheatre egy színházi helyszín Waterfordban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "A Semi-Lunar Tower egy védelmi várépület Waterford városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "A Band Stand egy helyi szabadtéri színpad Waterfordban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "A Forum egy színház és rendezvényhelyszín Waterford városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "A Viking Triangle egy híres kulturális és történelmi látványosság Waterfordban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "A #44TheQuay egy művészeti galéria Waterfordban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "A GOMA Gallery of Modern Art kortárs művészeti alkotásokat mutat be Waterfordban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "A Spraoi Studios kreatív művészeti központként működik Waterfordban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "A Church of the Sacred Heart egy helyi istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "A Church Of The Most Holy Trinity Without egy istentiszteleti hely Waterfordban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "A Holy Family Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "A Saint John's egy helyi vallási helyszín és istentiszteleti hely Waterfordban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Sacred Heart Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "A Cathedral of the Most Holy Trinity egy figyelemre méltó istentiszteleti hely Waterfordban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "A Saint Saviours Dominican Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "A Waterford Baptist Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "A Lough Cullen egy tó Waterfordban, amely festői helyszínt biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "A Playground (7-12 years) egy játszótér Waterfordban, különféle játéklehetőségekkel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "A Velocity VR egy játékterem Waterfordban, amely izgalmas szórakozást nyújt a családnak.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
+                  ]
+            },
+            {
+                  "name": "Woodland Leisure Centre Swimming Pool",
+                  "text": "Waterfordi szabadidőközpont úszómedencéje, amely családok számára is alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064162,
+                        52.23923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "Theatre Royal Waterford este un teatru situat în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "Double Tower este o structură istorică de castel din Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "Înălțându-se cu mândrie în Waterford, Beach Tower este un element istoric de castel care adaugă o notă de antichitate zonei de coastă. Vizitatorii se pot plimba în jurul acestei structuri fascinante în timp ce se bucură de peisajul maritim vast. Atmosfera este liniștită și contemplativă, perfectă pentru cei interesați de istorie și priveliști oceanice. Este recomandat să aduceți un aparat foto pentru a surprinde zidăria veche pe fundalul cerului dramatic.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "Reginald's Tower este un punct de reper istoric și un fost castel din Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "French Tower este un turn istoric de castel situat în Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre este un spațiu teatral situat în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "Semi-Lunar Tower este o structură defensivă de castel situată în Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "Band Stand este o scenă teatrală locală în aer liber din Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "Forum este un teatru și un loc de evenimente situat în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "Viking Triangle este o atracție culturală și istorică renumită din Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "#44TheQuay este o galerie de artă situată în Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "GOMA Gallery of Modern Art prezintă opere de artă contemporană în Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "Spraoi Studios funcționează ca un centru de arte creative în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Church of the Sacred Heart este un lăcaș de cult local din Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "Church Of The Most Holy Trinity Without este un lăcaș de cult desemnat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Holy Family Church este un lăcaș de cult situat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's este un sit religios local și lăcaș de cult din Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Sacred Heart Church este un lăcaș de cult situat în orașul Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "Cathedral of the Most Holy Trinity este un lăcaș de cult notabil din Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "Saint Saviours Dominican Church este un lăcaș de cult situat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "Waterford Baptist Church este un lăcaș de cult situat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "Lough Cullen este un lac din Waterford, oferind un loc pitoresc pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "Playground (7-12 years) este un teren de joacă din Waterford, cu diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "Velocity VR este o sală de jocuri din Waterford, oferind divertisment captivant pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
+                  ]
+            },
+            {
+                  "name": "Woodland Leisure Centre Swimming Pool",
+                  "text": "O piscină de centru de agrement în Waterford, potrivită pentru familii și fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064162,
+                        52.23923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "Theatre Royal Waterford is a performing arts theatre located in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "Double Tower is a historic castle structure in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "Standing proudly in Waterford, the Beach Tower is a historic castle element that adds a touch of antiquity to the coastal area. Visitors can walk around this fascinating structure while enjoying the sweeping maritime scenery. The atmosphere is quiet and contemplative, perfect for those interested in history and ocean views. Bringing a camera is highly recommended to capture the stonework against the dramatic sky.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "Reginald's Tower is a historic landmark and former castle in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "French Tower is a historic castle tower located in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "The Amphitheatre is a theatrical venue situated in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "Semi-Lunar Tower is a defensive castle structure located in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "The Band Stand is a local outdoor theatrical stage in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "The Forum is a theatre and events venue located in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "The Viking Triangle is a renowned cultural and historical attraction in Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "#44TheQuay is an art gallery situated in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "GOMA Gallery of Modern Art showcases contemporary artworks in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "Spraoi Studios operates as a creative arts center in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Church of the Sacred Heart is a local place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "Church Of The Most Holy Trinity Without is a designated place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Holy Family Church is a place of worship located in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's is a local religious site and place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Sacred Heart Church is a place of worship located in the city of Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "The Cathedral of the Most Holy Trinity is a notable place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "Saint Saviours Dominican Church is a place of worship located in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "Waterford Baptist Church is a place of worship located in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            },
+            {
+                  "name": "Lough Cullen",
+                  "text": "Lough Cullen is a lake in Waterford, offering a scenic spot for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -7.101544,
+                        52.315105
+                  ]
+            },
+            {
+                  "name": "Playground (7-12 years)",
+                  "text": "Playground (7-12 years) is a playground in Waterford with various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        -7.103449,
+                        52.256479
+                  ]
+            },
+            {
+                  "name": "Velocity VR",
+                  "text": "Velocity VR is an amusement arcade in Waterford, offering exciting entertainment for the family.",
+                  "category": "family",
+                  "coords": [
+                        -7.117198,
+                        52.250871
+                  ]
+            },
+            {
+                  "name": "Woodland Leisure Centre Swimming Pool",
+                  "text": "A leisure center swimming pool in Waterford suitable for families and fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064162,
+                        52.23923
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.1101, 52.2593],
@@ -16153,7 +17134,232 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-croagh-patrick", "sights": {"de": [{"name": "Cooltraw Strand", "text": "Am Fuße des ikonischen Croagh Patrick gelegen, bietet der Cooltraw Strand eine raue und zugleich wunderschöne Küstenkulisse. Die dramatische Bergkulisse bildet einen herrlichen Kontrast zu den rollenden Ozeanwellen und macht den Ort ideal für Naturspaziergänge. Seine abgeschiedene Atmosphäre bietet einen ruhigen Rückzugsort zum Nachdenken und zur Erkundung der Küste. Festes Schuhwerk hilft dabei, das naturbelassene Terrain bequem zu durchqueren.", "category": "recreational", "coords": [-9.701853, 53.779077]}, {"name": "Black Strand", "text": "Nahe dem majestätischen Croagh Patrick gelegen, zeichnet sich der Black Strand durch eine markante, dunkle Uferlinie vor den Weiten des Atlantiks aus. Besucher erwartet eine wilde und stimmungsvolle Umgebung, die sich perfekt für belebende Wanderungen und Strandgutsuche eignet. Die ruhige, oft windgepeitschte Kulisse spricht all jene an, die raue Naturschönheit fernab der Massen suchen. Ein Besuch bei Ebbe offenbart faszinierende Felstümpel und breitere Strandabschnitte.", "category": "recreational", "coords": [-9.705944, 53.777934]}, {"name": "Bunnatruffa", "text": "Bunnatruffa ist ein Strand beim Croagh Patrick.", "category": "recreational", "coords": [-9.692921, 53.782886]}, {"name": "White Strand", "text": "Im Schatten des Croagh Patrick eingebettet, bietet White Strand einen hellen, einladenden Küstenabschnitt für Liebhaber des Meeres. Die kontrastreiche Kulisse aus hellem Sand und rollenden Wellen schafft eine friedliche und malerische Atmosphäre. Es ist ein herrlicher Ort für ruhige Strandspaziergänge, leichtes Waten im Wasser und das Genießen der frischen Seeluft. Eine Windjacke im Gepäck sorgt dafür, dass Sie beim Bewundern der atemberaubenden Küstenpanoramen warm bleiben.", "category": "recreational", "coords": [-9.687774, 53.783443]}, {"name": "Thornhill Strand", "text": "In der Nähe der majestätischen Höhen des Croagh Patrick gelegen, ist der Thornhill Strand ein friedlicher Küstenort. Dieser Uferabschnitt lädt Besucher zu gemächlichen Spaziergängen ein, während sie die herrlichen Ausblicke auf die umliegende Landschaft auf sich wirken lassen. Die Umgebung ist bemerkenswert ruhig und ideal, um sich dem natürlichen Rhythmus des Ozeans hinzugeben. Ein Besuch am späten Nachmittag belohnt oft mit wunderschönen Lichtwechseln auf dem Wasser.", "category": "recreational", "coords": [-9.681696, 53.784681]}], "hu": [{"name": "Cooltraw Strand", "text": "Az ikonikus Croagh Patrick lábánál fekvő Cooltraw Strand zord, mégis gyönyörű tengerparti környezetet kínál. A drámai hegyi háttér csodálatos kontrasztot alkot a hömpölygő óceáni hullámokkal, így kiváló helyszín a természetjáráshoz. Félreeső atmoszférája csendes menedéket nyújt az elmélyüléshez és a tengerparti felfedezéshez. Masszív túracipő viselése javasolt a természetes, érintetlen terep kényelmes bejárásához.", "category": "recreational", "coords": [-9.701853, 53.779077]}, {"name": "Black Strand", "text": "A fenséges Croagh Patrick közelében található Black Strand sötét tónusú, lenyűgöző partvonallal büszkélkedhet a hatalmas Atlanti-óceán mentén. A látogatókat vad és hangulatos környezet várja, amely tökéletes a frissítő túrákhoz és a tengerparti kincsek kereséséhez. A csendes, gyakran szélfútta táj azokat vonzza, akik a tömegtől távol keresik a nyers természeti szépséget. Apály idején érdemes érkezni, amikor lenyűgöző sziklamedencék és szélesebb partszakaszok válnak láthatóvá.", "category": "recreational", "coords": [-9.705944, 53.777934]}, {"name": "Bunnatruffa", "text": "A Bunnatruffa egy strand a Croagh Patrick közelében.", "category": "recreational", "coords": [-9.692921, 53.782886]}, {"name": "White Strand", "text": "A Croagh Patrick árnyékában megbújó White Strand világos, hívogató partszakaszt kínál a tenger rajongóinak. A világos homok és a hullámzó víz kontrasztos látványa békés és festői atmoszférát teremt. Ragyogó helyszín csendes tengerparti sétákhoz, óvatos lábáztatáshoz és a friss sós levegő élvezetéhez. Egy széldzseki csomagolása garantálja, hogy melegen maradjunk, miközben a lenyűgöző parti kilátásban gyönyörködünk.", "category": "recreational", "coords": [-9.687774, 53.783443]}, {"name": "Thornhill Strand", "text": "A Croagh Patrick tekintélyt parancsoló magaslatai közelében fekvő Thornhill Strand egy békés tengerparti menedék. Ez a partszakasz ráérős sétákra hívja a látogatókat, miközben magukba szívhatják a környező táj csodálatos látványát. A környezet figyelemre méltóan nyugodt, tökéletes az óceán természetes ritmusában való elmerüléshez. A késő délutáni érkezés gyakran gyönyörű fényjátékokkal jutalmazza a víz tükrén a látogatókat.", "category": "recreational", "coords": [-9.681696, 53.784681]}], "ro": [{"name": "Cooltraw Strand", "text": "Situată la poalele iconicului Croagh Patrick, Cooltraw Strand oferă un cadru de coastă accidentat și frumos. Fundalul montan dramatic contrastează minunat cu valurile oceanului, făcându-l un loc excelent pentru plimbări în natură. Atmosfera sa izolată oferă o evadare liniștită pentru reflecție și explorare pe litoral. Purtarea unor pantofi de mers rezistenți vă va ajuta să navigați confortabil pe terenul natural și neatins.", "category": "recreational", "coords": [-9.701853, 53.779077]}, {"name": "Black Strand", "text": "Aflată lângă maiestuosul Croagh Patrick, Black Strand prezintă o coastă impresionantă, de culoare închisă, cu fața spre vastul Atlantic. Vizitatorii se pot aștepta la un mediu sălbatic și plin de atmosferă, perfect adaptat pentru drumeții revigorante și explorarea țărmului. Cadrul liniștit, adesea bătut de vânt, îi atrage pe cei care caută frumusețea naturală brută, departe de aglomerație. Vizitarea în timpul refluxului dezvăluie bazine stâncoase fascinante și porțiuni mai largi de plajă.", "category": "recreational", "coords": [-9.705944, 53.777934]}, {"name": "Bunnatruffa", "text": "Bunnatruffa este o plajă lângă Croagh Patrick.", "category": "recreational", "coords": [-9.692921, 53.782886]}, {"name": "White Strand", "text": "Amplasată în umbra muntelui Croagh Patrick, White Strand oferă o întindere de coastă luminoasă și primitoare pentru pasionații de mare. Peisajul contrastant al nisipurilor palide și al valurilor creează o atmosferă pașnică și pitorească. Este o locație splendidă pentru plimbări liniștite pe plajă, pentru a merge ușor prin apă și pentru a respira aerul proaspăt al mării. O jachetă de vânt vă va asigura confortul termic în timp ce admirați priveliștile uimitoare ale coastei.", "category": "recreational", "coords": [-9.687774, 53.783443]}, {"name": "Thornhill Strand", "text": "Situată în apropierea înălțimilor impunătoare ale muntelui Croagh Patrick, Thornhill Strand este un refugiu de coastă liniștit. Această porțiune de țărm invită vizitatorii la plimbări pe îndelete, absorbind în același timp priveliștile magnifice ale peisajului înconjurător. Mediul este remarcabil de calm, perfect pentru a te lăsa purtat de ritmul natural al oceanului. Sosirea spre sfârșitul după-amiezii răsplătește adesea vizitatorii cu schimbări frumoase de lumină pe suprafața apei.", "category": "recreational", "coords": [-9.681696, 53.784681]}], "en": [{"name": "Cooltraw Strand", "text": "Situated at the foot of the iconic Croagh Patrick, Cooltraw Strand offers a rugged and beautiful coastal setting. The dramatic mountain backdrop contrasts beautifully with the rolling ocean waves, making it an excellent spot for nature walks. Its secluded atmosphere provides a quiet escape for reflection and seaside exploration. Wearing sturdy walking shoes will help you comfortably navigate the natural, untouched terrain.", "category": "recreational", "coords": [-9.701853, 53.779077]}, {"name": "Black Strand", "text": "Found near the majestic Croagh Patrick, Black Strand features a striking, dark-toned shoreline set against the vast Atlantic. Visitors can expect a wild and atmospheric environment, perfectly suited for invigorating hikes and beachcombing. The tranquil, often windswept setting appeals to those seeking raw natural beauty away from crowds. Visiting during low tide reveals fascinating rock pools and wider stretches of the shore.", "category": "recreational", "coords": [-9.705944, 53.777934]}, {"name": "Bunnatruffa", "text": "Bunnatruffa is a beach near Croagh Patrick.", "category": "recreational", "coords": [-9.692921, 53.782886]}, {"name": "White Strand", "text": "Nestled in the shadow of Croagh Patrick, White Strand offers a bright, inviting stretch of coast for maritime enthusiasts. The contrasting scenery of pale sands and rolling waves creates a peaceful and picturesque atmosphere. It is a splendid location for quiet beach strolls, gentle wading, and enjoying the crisp sea air. Packing a windbreaker will ensure you stay warm while taking in the stunning coastal vistas.", "category": "recreational", "coords": [-9.687774, 53.783443]}, {"name": "Thornhill Strand", "text": "Positioned near the commanding heights of Croagh Patrick, Thornhill Strand is a peaceful coastal haven. This stretch of shore invites visitors to take unhurried walks while absorbing the magnificent views of the surrounding landscape. The environment is remarkably calm, perfect for escaping into the natural rhythm of the ocean. Arriving in the late afternoon often rewards visitors with beautiful shifts in light across the water.", "category": "recreational", "coords": [-9.681696, 53.784681]}]},
+    id: "nat-croagh-patrick", "sights": {
+      "de": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "Am Fuße des ikonischen Croagh Patrick gelegen, bietet der Cooltraw Strand eine raue und zugleich wunderschöne Küstenkulisse. Die dramatische Bergkulisse bildet einen herrlichen Kontrast zu den rollenden Ozeanwellen und macht den Ort ideal für Naturspaziergänge. Seine abgeschiedene Atmosphäre bietet einen ruhigen Rückzugsort zum Nachdenken und zur Erkundung der Küste. Festes Schuhwerk hilft dabei, das naturbelassene Terrain bequem zu durchqueren.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "Nahe dem majestätischen Croagh Patrick gelegen, zeichnet sich der Black Strand durch eine markante, dunkle Uferlinie vor den Weiten des Atlantiks aus. Besucher erwartet eine wilde und stimmungsvolle Umgebung, die sich perfekt für belebende Wanderungen und Strandgutsuche eignet. Die ruhige, oft windgepeitschte Kulisse spricht all jene an, die raue Naturschönheit fernab der Massen suchen. Ein Besuch bei Ebbe offenbart faszinierende Felstümpel und breitere Strandabschnitte.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "Bunnatruffa ist ein Strand beim Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "Im Schatten des Croagh Patrick eingebettet, bietet White Strand einen hellen, einladenden Küstenabschnitt für Liebhaber des Meeres. Die kontrastreiche Kulisse aus hellem Sand und rollenden Wellen schafft eine friedliche und malerische Atmosphäre. Es ist ein herrlicher Ort für ruhige Strandspaziergänge, leichtes Waten im Wasser und das Genießen der frischen Seeluft. Eine Windjacke im Gepäck sorgt dafür, dass Sie beim Bewundern der atemberaubenden Küstenpanoramen warm bleiben.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "In der Nähe der majestätischen Höhen des Croagh Patrick gelegen, ist der Thornhill Strand ein friedlicher Küstenort. Dieser Uferabschnitt lädt Besucher zu gemächlichen Spaziergängen ein, während sie die herrlichen Ausblicke auf die umliegende Landschaft auf sich wirken lassen. Die Umgebung ist bemerkenswert ruhig und ideal, um sich dem natürlichen Rhythmus des Ozeans hinzugeben. Ein Besuch am späten Nachmittag belohnt oft mit wunderschönen Lichtwechseln auf dem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            },
+            {
+                  "name": "Bertra Beach",
+                  "text": "Ein Sandstrand am Fuße des Croagh Patrick mit Blick auf die Clew Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.655478,
+                        53.794234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "Az ikonikus Croagh Patrick lábánál fekvő Cooltraw Strand zord, mégis gyönyörű tengerparti környezetet kínál. A drámai hegyi háttér csodálatos kontrasztot alkot a hömpölygő óceáni hullámokkal, így kiváló helyszín a természetjáráshoz. Félreeső atmoszférája csendes menedéket nyújt az elmélyüléshez és a tengerparti felfedezéshez. Masszív túracipő viselése javasolt a természetes, érintetlen terep kényelmes bejárásához.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "A fenséges Croagh Patrick közelében található Black Strand sötét tónusú, lenyűgöző partvonallal büszkélkedhet a hatalmas Atlanti-óceán mentén. A látogatókat vad és hangulatos környezet várja, amely tökéletes a frissítő túrákhoz és a tengerparti kincsek kereséséhez. A csendes, gyakran szélfútta táj azokat vonzza, akik a tömegtől távol keresik a nyers természeti szépséget. Apály idején érdemes érkezni, amikor lenyűgöző sziklamedencék és szélesebb partszakaszok válnak láthatóvá.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "A Bunnatruffa egy strand a Croagh Patrick közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "A Croagh Patrick árnyékában megbújó White Strand világos, hívogató partszakaszt kínál a tenger rajongóinak. A világos homok és a hullámzó víz kontrasztos látványa békés és festői atmoszférát teremt. Ragyogó helyszín csendes tengerparti sétákhoz, óvatos lábáztatáshoz és a friss sós levegő élvezetéhez. Egy széldzseki csomagolása garantálja, hogy melegen maradjunk, miközben a lenyűgöző parti kilátásban gyönyörködünk.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "A Croagh Patrick tekintélyt parancsoló magaslatai közelében fekvő Thornhill Strand egy békés tengerparti menedék. Ez a partszakasz ráérős sétákra hívja a látogatókat, miközben magukba szívhatják a környező táj csodálatos látványát. A környezet figyelemre méltóan nyugodt, tökéletes az óceán természetes ritmusában való elmerüléshez. A késő délutáni érkezés gyakran gyönyörű fényjátékokkal jutalmazza a víz tükrén a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            },
+            {
+                  "name": "Bertra Beach",
+                  "text": "Homokos strand a Croagh Patrick lábánál, kilátással a Clew-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.655478,
+                        53.794234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "Situată la poalele iconicului Croagh Patrick, Cooltraw Strand oferă un cadru de coastă accidentat și frumos. Fundalul montan dramatic contrastează minunat cu valurile oceanului, făcându-l un loc excelent pentru plimbări în natură. Atmosfera sa izolată oferă o evadare liniștită pentru reflecție și explorare pe litoral. Purtarea unor pantofi de mers rezistenți vă va ajuta să navigați confortabil pe terenul natural și neatins.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "Aflată lângă maiestuosul Croagh Patrick, Black Strand prezintă o coastă impresionantă, de culoare închisă, cu fața spre vastul Atlantic. Vizitatorii se pot aștepta la un mediu sălbatic și plin de atmosferă, perfect adaptat pentru drumeții revigorante și explorarea țărmului. Cadrul liniștit, adesea bătut de vânt, îi atrage pe cei care caută frumusețea naturală brută, departe de aglomerație. Vizitarea în timpul refluxului dezvăluie bazine stâncoase fascinante și porțiuni mai largi de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "Bunnatruffa este o plajă lângă Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "Amplasată în umbra muntelui Croagh Patrick, White Strand oferă o întindere de coastă luminoasă și primitoare pentru pasionații de mare. Peisajul contrastant al nisipurilor palide și al valurilor creează o atmosferă pașnică și pitorească. Este o locație splendidă pentru plimbări liniștite pe plajă, pentru a merge ușor prin apă și pentru a respira aerul proaspăt al mării. O jachetă de vânt vă va asigura confortul termic în timp ce admirați priveliștile uimitoare ale coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "Situată în apropierea înălțimilor impunătoare ale muntelui Croagh Patrick, Thornhill Strand este un refugiu de coastă liniștit. Această porțiune de țărm invită vizitatorii la plimbări pe îndelete, absorbind în același timp priveliștile magnifice ale peisajului înconjurător. Mediul este remarcabil de calm, perfect pentru a te lăsa purtat de ritmul natural al oceanului. Sosirea spre sfârșitul după-amiezii răsplătește adesea vizitatorii cu schimbări frumoase de lumină pe suprafața apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            },
+            {
+                  "name": "Bertra Beach",
+                  "text": "O plajă cu nisip la poalele muntelui Croagh Patrick, cu vedere spre Golful Clew.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.655478,
+                        53.794234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "Situated at the foot of the iconic Croagh Patrick, Cooltraw Strand offers a rugged and beautiful coastal setting. The dramatic mountain backdrop contrasts beautifully with the rolling ocean waves, making it an excellent spot for nature walks. Its secluded atmosphere provides a quiet escape for reflection and seaside exploration. Wearing sturdy walking shoes will help you comfortably navigate the natural, untouched terrain.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "Found near the majestic Croagh Patrick, Black Strand features a striking, dark-toned shoreline set against the vast Atlantic. Visitors can expect a wild and atmospheric environment, perfectly suited for invigorating hikes and beachcombing. The tranquil, often windswept setting appeals to those seeking raw natural beauty away from crowds. Visiting during low tide reveals fascinating rock pools and wider stretches of the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "Bunnatruffa is a beach near Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "Nestled in the shadow of Croagh Patrick, White Strand offers a bright, inviting stretch of coast for maritime enthusiasts. The contrasting scenery of pale sands and rolling waves creates a peaceful and picturesque atmosphere. It is a splendid location for quiet beach strolls, gentle wading, and enjoying the crisp sea air. Packing a windbreaker will ensure you stay warm while taking in the stunning coastal vistas.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "Positioned near the commanding heights of Croagh Patrick, Thornhill Strand is a peaceful coastal haven. This stretch of shore invites visitors to take unhurried walks while absorbing the magnificent views of the surrounding landscape. The environment is remarkably calm, perfect for escaping into the natural rhythm of the ocean. Arriving in the late afternoon often rewards visitors with beautiful shifts in light across the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            },
+            {
+                  "name": "Bertra Beach",
+                  "text": "A sandy beach at the foot of Croagh Patrick with views over Clew Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.655478,
+                        53.794234
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ireland",
     coords: [-9.6587, 53.7595],
@@ -18133,7 +19339,124 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "landmark-dublin-port", "sights": {"de": [{"name": "Sandymount Strand", "text": "In der Nähe des Dublin Port gelegen, ist Sandymount Strand eine weite Sandfläche, die von den Stadtbewohnern sehr geschätzt wird. Die breite, offene Kulisse bietet eine luftige Atmosphäre, in der sich Spaziergänger und Naturliebhaber gerne versammeln, um die Meeresluft zu genießen. Bei Ebbe bieten die freigelegten Sandbänke ein wunderbar einzigartiges Terrain für lange Küstenwanderungen. Ein Blick auf den Gezeitenplan ist unerlässlich, um die Weite des Ufers voll auskosten zu können.", "category": "recreational", "coords": [-6.211942, 53.334273]}, {"name": "Merrion Strand", "text": "In der Umgebung des Dublin Port gelegen, bietet Merrion Strand ein Stück Küstenfrieden, das etwas abseits des dichten Stadtkerns liegt. Der lange Sandstrand lädt Einheimische zu gemütlichen Spaziergängen mit dem Hund und zum besinnlichen Flanieren am Wasser ein. Seine beruhigende Umgebung bildet einen willkommenen Kontrast zum geschäftigen Treiben des Hafens in der Ferne. Gummistiefel oder wasserfestes Schuhwerk sind sehr zu empfehlen, um den nassen Sand bequem zu überqueren.", "category": "recreational", "coords": [-6.204241, 53.31657]}], "hu": [{"name": "Sandymount Strand", "text": "A dublini kikötő közelében elterülő Sandymount Strand egy hatalmas, árapály által formált homokos terület, amelyet a városlakók nagyon szeretnek. A széles, nyitott környezet szellős atmoszférát biztosít, ahol sétálók és természetjárók gyakran gyűlnek össze a tengeri levegő élvezetéhez. Apály idején a szabaddá váló homokpadok csodálatosan egyedi terepet kínálnak a hosszú tengerparti sétákhoz. Az árapály menetrendjének ellenőrzése elengedhetetlen a part hatalmasságának teljes megtapasztalásához.", "category": "recreational", "coords": [-6.211942, 53.334273]}, {"name": "Merrion Strand", "text": "A dublini kikötő szomszédságában húzódó Merrion Strand a tengerparti béke szigetét kínálja, kissé távolabb a sűrű városmagtól. A hosszú homokos part kényelmes kutyasétáltatásra és elmélyült vízparti bolyongásra csábítja a helyieket. Nyugtató környezete kellemes kontrasztot alkot a távolban látható forgalmas kikötői élettel. Gumicsizma vagy vízálló lábbeli viselése erősen ajánlott a nedves homokon való kényelmes közlekedéshez.", "category": "recreational", "coords": [-6.204241, 53.31657]}], "ro": [{"name": "Sandymount Strand", "text": "Situată aproape de Dublin Port, Sandymount Strand este o întindere vastă de nisipuri supuse mareei, iubită de locuitorii orașului. Cadrul larg și deschis oferă o atmosferă aerisită, unde plimbăreții și pasionații de natură se adună frecvent pentru a se bucura de aerul mării. Când este reflux, bancurile de nisip expuse oferă un teren minunat și unic pentru plimbări lungi pe coastă. Verificarea programului mareelor este esențială pentru a aprecia pe deplin imensitatea țărmului.", "category": "recreational", "coords": [-6.211942, 53.334273]}, {"name": "Merrion Strand", "text": "Aflată în vecinătatea Dublin Port, Merrion Strand oferă o întindere de liniște de coastă, ușor îndepărtată de nucleul urban dens. Plaja lungă de nisip invită localnicii la plimbări de agrement cu câinii și la plimbări reflexive de-a lungul apei. Mediul său calm acționează ca un contrast binevenit față de activitatea portuară aglomerată vizibilă în depărtare. Cizmele de cauciuc sau încălțămintea impermeabilă sunt foarte recomandate pentru a naviga confortabil pe nisipul umed.", "category": "recreational", "coords": [-6.204241, 53.31657]}], "en": [{"name": "Sandymount Strand", "text": "Located close to Dublin Port, Sandymount Strand is a vast expanse of tidal sands beloved by city dwellers. The broad, open setting provides an airy atmosphere where walkers and nature enthusiasts frequently gather to enjoy the seaside air. When the tide is out, the exposed sandflats offer a wonderfully unique terrain for long coastal walks. Checking the tide schedule is essential to fully appreciate the vastness of the shore.", "category": "recreational", "coords": [-6.211942, 53.334273]}, {"name": "Merrion Strand", "text": "Resting in the vicinity of Dublin Port, Merrion Strand offers a stretch of coastal peace slightly removed from the dense urban core. The long sandy beach invites locals for leisurely dog walks and reflective strolls along the water. Its calming environment acts as a welcome contrast to the busy port activity visible in the distance. Wellies or waterproof footwear are highly recommended for navigating the wet sands comfortably.", "category": "recreational", "coords": [-6.204241, 53.31657]}]},
+    id: "landmark-dublin-port", "sights": {
+      "de": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "In der Nähe des Dublin Port gelegen, ist Sandymount Strand eine weite Sandfläche, die von den Stadtbewohnern sehr geschätzt wird. Die breite, offene Kulisse bietet eine luftige Atmosphäre, in der sich Spaziergänger und Naturliebhaber gerne versammeln, um die Meeresluft zu genießen. Bei Ebbe bieten die freigelegten Sandbänke ein wunderbar einzigartiges Terrain für lange Küstenwanderungen. Ein Blick auf den Gezeitenplan ist unerlässlich, um die Weite des Ufers voll auskosten zu können.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "In der Umgebung des Dublin Port gelegen, bietet Merrion Strand ein Stück Küstenfrieden, das etwas abseits des dichten Stadtkerns liegt. Der lange Sandstrand lädt Einheimische zu gemütlichen Spaziergängen mit dem Hund und zum besinnlichen Flanieren am Wasser ein. Seine beruhigende Umgebung bildet einen willkommenen Kontrast zum geschäftigen Treiben des Hafens in der Ferne. Gummistiefel oder wasserfestes Schuhwerk sind sehr zu empfehlen, um den nassen Sand bequem zu überqueren.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            },
+            {
+                  "name": "The Shelly Banks (part of)",
+                  "text": "Ein Strandbereich in der Nähe des Hafens von Dublin, bekannt für seine Küstenaussicht und Muscheln.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188511,
+                        53.336758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "A dublini kikötő közelében elterülő Sandymount Strand egy hatalmas, árapály által formált homokos terület, amelyet a városlakók nagyon szeretnek. A széles, nyitott környezet szellős atmoszférát biztosít, ahol sétálók és természetjárók gyakran gyűlnek össze a tengeri levegő élvezetéhez. Apály idején a szabaddá váló homokpadok csodálatosan egyedi terepet kínálnak a hosszú tengerparti sétákhoz. Az árapály menetrendjének ellenőrzése elengedhetetlen a part hatalmasságának teljes megtapasztalásához.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "A dublini kikötő szomszédságában húzódó Merrion Strand a tengerparti béke szigetét kínálja, kissé távolabb a sűrű városmagtól. A hosszú homokos part kényelmes kutyasétáltatásra és elmélyült vízparti bolyongásra csábítja a helyieket. Nyugtató környezete kellemes kontrasztot alkot a távolban látható forgalmas kikötői élettel. Gumicsizma vagy vízálló lábbeli viselése erősen ajánlott a nedves homokon való kényelmes közlekedéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            },
+            {
+                  "name": "The Shelly Banks (part of)",
+                  "text": "Dublin kikötője közeli tengerparti rész, amely kilátásáról és kagylóiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188511,
+                        53.336758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "Situată aproape de Dublin Port, Sandymount Strand este o întindere vastă de nisipuri supuse mareei, iubită de locuitorii orașului. Cadrul larg și deschis oferă o atmosferă aerisită, unde plimbăreții și pasionații de natură se adună frecvent pentru a se bucura de aerul mării. Când este reflux, bancurile de nisip expuse oferă un teren minunat și unic pentru plimbări lungi pe coastă. Verificarea programului mareelor este esențială pentru a aprecia pe deplin imensitatea țărmului.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "Aflată în vecinătatea Dublin Port, Merrion Strand oferă o întindere de liniște de coastă, ușor îndepărtată de nucleul urban dens. Plaja lungă de nisip invită localnicii la plimbări de agrement cu câinii și la plimbări reflexive de-a lungul apei. Mediul său calm acționează ca un contrast binevenit față de activitatea portuară aglomerată vizibilă în depărtare. Cizmele de cauciuc sau încălțămintea impermeabilă sunt foarte recomandate pentru a naviga confortabil pe nisipul umed.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            },
+            {
+                  "name": "The Shelly Banks (part of)",
+                  "text": "O zonă de plajă lângă Portul Dublin, cunoscută pentru priveliștile de coastă și scoici.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188511,
+                        53.336758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "Located close to Dublin Port, Sandymount Strand is a vast expanse of tidal sands beloved by city dwellers. The broad, open setting provides an airy atmosphere where walkers and nature enthusiasts frequently gather to enjoy the seaside air. When the tide is out, the exposed sandflats offer a wonderfully unique terrain for long coastal walks. Checking the tide schedule is essential to fully appreciate the vastness of the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "Resting in the vicinity of Dublin Port, Merrion Strand offers a stretch of coastal peace slightly removed from the dense urban core. The long sandy beach invites locals for leisurely dog walks and reflective strolls along the water. Its calming environment acts as a welcome contrast to the busy port activity visible in the distance. Wellies or waterproof footwear are highly recommended for navigating the wet sands comfortably.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            },
+            {
+                  "name": "The Shelly Banks (part of)",
+                  "text": "A beach area near Dublin Port, known for its coastal views and shells.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.188511,
+                        53.336758
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ireland",
     coords: [-6.2228, 53.3490],
@@ -26171,6 +27494,15 @@ export const irelandCulture: POI[] = [
                         -9.055097,
                         54.077388
                   ]
+            },
+            {
+                  "name": "Ballina Swimming Pool",
+                  "text": "Ein öffentliches Schwimmbad in Ballina für Sport und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.147555,
+                        54.1136
+                  ]
             }
       ],
       "hu": [
@@ -26379,6 +27711,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.055097,
                         54.077388
+                  ]
+            },
+            {
+                  "name": "Ballina Swimming Pool",
+                  "text": "Közösségi úszómedence Ballinában sportoláshoz és szabadidőhöz.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.147555,
+                        54.1136
                   ]
             }
       ],
@@ -26589,6 +27930,15 @@ export const irelandCulture: POI[] = [
                         -9.055097,
                         54.077388
                   ]
+            },
+            {
+                  "name": "Ballina Swimming Pool",
+                  "text": "O piscină publică în Ballina pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.147555,
+                        54.1136
+                  ]
             }
       ],
       "en": [
@@ -26797,6 +28147,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.055097,
                         54.077388
+                  ]
+            },
+            {
+                  "name": "Ballina Swimming Pool",
+                  "text": "A public swimming pool in Ballina for sport and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.147555,
+                        54.1136
                   ]
             }
       ]
@@ -28022,6 +29381,15 @@ export const irelandCulture: POI[] = [
                         -7.144222,
                         52.53479
                   ]
+            },
+            {
+                  "name": "The Weir Pool",
+                  "text": "The Weir Pool ist ein malerischer Badebereich bei der Jerpoint Abbey, der zur Abkühlung in historischer Umgebung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.1417,
+                        52.521552
+                  ]
             }
       ],
       "hu": [
@@ -28095,6 +29463,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.144222,
                         52.53479
+                  ]
+            },
+            {
+                  "name": "The Weir Pool",
+                  "text": "A The Weir Pool egy festői fürdőhely a Jerpoint-apátság közelében, amely történelmi környezetben kínál felfrissülést.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.1417,
+                        52.521552
                   ]
             }
       ],
@@ -28170,6 +29547,15 @@ export const irelandCulture: POI[] = [
                         -7.144222,
                         52.53479
                   ]
+            },
+            {
+                  "name": "The Weir Pool",
+                  "text": "The Weir Pool este o zonă de scăldat pitorească lângă Abatia Jerpoint, invitând la răcorire într-un cadru istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.1417,
+                        52.521552
+                  ]
             }
       ],
       "en": [
@@ -28243,6 +29629,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.144222,
                         52.53479
+                  ]
+            },
+            {
+                  "name": "The Weir Pool",
+                  "text": "The Weir Pool is a scenic swimming area near Jerpoint Abbey, inviting visitors to cool off in a historic setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.1417,
+                        52.521552
                   ]
             }
       ]

@@ -1479,7 +1479,52 @@ imageHint: "Lokrum island peacocks and sea",
     },
     image: "/poi-images/croatia-lokrum-life-v2.webp",
 },  {
-    id: "croatia-palud-life-v2",
+    id: "croatia-palud-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cisterna",
+                  "text": "Ein naturbelassener Strand innerhalb des ornithologischen Reservats Palud bei Rovinj.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691281,
+                        45.038896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cisterna",
+                  "text": "Természetközeli strand a Rovinj melletti Palud ornitológiai rezervátum területén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691281,
+                        45.038896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cisterna",
+                  "text": "O plajă naturală aflată în interiorul rezervației ornitologice Palud de lângă Rovinj.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691281,
+                        45.038896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cisterna",
+                  "text": "A natural beach located within the Palud ornithological reserve near Rovinj.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691281,
+                        45.038896
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "wildlife",
     name: { de: "Ornithologisches Reservat Palud", hu: "Palud Madárrezervátum", ro: "Rezervația Ornitologică Palud", en: "Palud Ornithological Reserve"},

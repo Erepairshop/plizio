@@ -15927,6 +15927,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.053901,
                         49.686982
                   ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "Eine moderne Schwimmanlage mit Innen- und Außenbecken sowie Wellnessbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
+                  ]
             }
       ],
       "hu": [
@@ -16027,6 +16036,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.053901,
                         49.686982
+                  ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "Modern úszókomplexum fedett és nyitott medencékkel, valamint wellness-részleggel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
                   ]
             }
       ],
@@ -16129,6 +16147,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.053901,
                         49.686982
                   ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "O facilitate modernă de înot cu bazine interioare și exterioare, plus zonă de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
+                  ]
             }
       ],
       "en": [
@@ -16229,6 +16256,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.053901,
                         49.686982
+                  ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "A modern swimming facility with indoor and outdoor pools plus a wellness area.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
                   ]
             }
       ]
@@ -17025,6 +17061,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.091407,
                         49.719023
                   ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "Eine moderne Schwimmanlage mit Innen- und Außenbecken sowie Wellnessbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
+                  ]
             }
       ],
       "hu": [
@@ -17125,6 +17170,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.091407,
                         49.719023
+                  ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "Modern úszókomplexum fedett és nyitott medencékkel, valamint wellness-részleggel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
                   ]
             }
       ],
@@ -17227,6 +17281,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.091407,
                         49.719023
                   ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "O facilitate modernă de înot cu bazine interioare și exterioare, plus zonă de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
+                  ]
             }
       ],
       "en": [
@@ -17327,6 +17390,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.091407,
                         49.719023
+                  ]
+            },
+            {
+                  "name": "Piscine Krounebierg",
+                  "text": "A modern swimming facility with indoor and outdoor pools plus a wellness area.",
+                  "category": "recreational",
+                  "coords": [
+                        6.091369,
+                        49.74321
                   ]
             }
       ]

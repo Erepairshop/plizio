@@ -254,6 +254,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                         27.716534,
                         42.654951
                   ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "Dies ist ein FKK-Strand in der Nähe der Altstadt von Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
             }
       ],
       "hu": [
@@ -264,6 +273,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                   "coords": [
                         27.716534,
                         42.654951
+                  ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "Ez egy nudista strand Neszebar óvárosának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
                   ]
             }
       ],
@@ -276,6 +294,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                         27.716534,
                         42.654951
                   ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "Aceasta este o plajă de nudiști situată lângă orașul vechi Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
             }
       ],
       "en": [
@@ -286,6 +313,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                   "coords": [
                         27.716534,
                         42.654951
+                  ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "This is a nudist beach located near the Old Town of Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
                   ]
             }
       ]
@@ -424,6 +460,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                         25.393366,
                         42.619776
                   ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Wasserpark mit Rutschen und Becken in Kasanlak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
+                  ]
             }
       ],
       "hu": [
@@ -479,6 +524,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                   "coords": [
                         25.393366,
                         42.619776
+                  ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Csúszdákkal és medencékkel felszerelt vízipark Kazanlakban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
                   ]
             }
       ],
@@ -536,6 +590,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                         25.393366,
                         42.619776
                   ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Parc acvatic cu tobogane și piscine în Kazanlâk.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
+                  ]
             }
       ],
       "en": [
@@ -591,6 +654,15 @@ export const poiExtraBulgariaHistory: POI[] = [
                   "coords": [
                         25.393366,
                         42.619776
+                  ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Water park with slides and pools located in Kazanlak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
                   ]
             }
       ]

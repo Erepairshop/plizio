@@ -8028,6 +8028,15 @@ export const polandCitiesV2: POI[] = [
                         17.032087,
                         51.090505
                   ]
+            },
+            {
+                  "name": "I",
+                  "text": "Eine Schwimmbadanlage in Wrocław.",
+                  "category": "recreational",
+                  "coords": [
+                        17.025643,
+                        51.088746
+                  ]
             }
       ],
       "hu": [
@@ -8641,6 +8650,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.032087,
                         51.090505
+                  ]
+            },
+            {
+                  "name": "I",
+                  "text": "Úszómedence-létesítmény Wrocławban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.025643,
+                        51.088746
                   ]
             }
       ],
@@ -9256,6 +9274,15 @@ export const polandCitiesV2: POI[] = [
                         17.032087,
                         51.090505
                   ]
+            },
+            {
+                  "name": "I",
+                  "text": "O facilitate de înot situată în Wrocław.",
+                  "category": "recreational",
+                  "coords": [
+                        17.025643,
+                        51.088746
+                  ]
             }
       ],
       "en": [
@@ -9869,6 +9896,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.032087,
                         51.090505
+                  ]
+            },
+            {
+                  "name": "I",
+                  "text": "A swimming pool facility located in Wrocław.",
+                  "category": "recreational",
+                  "coords": [
+                        17.025643,
+                        51.088746
                   ]
             }
       ]
@@ -17946,6 +17982,60 @@ export const polandCitiesV2: POI[] = [
                         23.140742,
                         53.132175
                   ]
+            },
+            {
+                  "name": "Tropikana. Park wodny hotelu Gołębiewski",
+                  "text": "Ein großer Indoor-Wasserpark im Hotel Gołębiewski in Białystok.",
+                  "category": "recreational",
+                  "coords": [
+                        23.170438,
+                        53.132501
+                  ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "Ein Papageienhaus in Białystok, in dem Besucher verschiedene exotische Vögel aus nächster Nähe erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        23.16457,
+                        53.149836
+                  ]
+            },
+            {
+                  "name": "Park linowy Lumur",
+                  "text": "Ein Seilgarten in Białystok, der verschiedene Parcours und Kletterherausforderungen im Freien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.214831,
+                        53.110272
+                  ]
+            },
+            {
+                  "name": "Fikoland Sp. z o. o.",
+                  "text": "Ein Indoor-Freizeitpark in Białystok mit zahlreichen Attraktionen und Spielbereichen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        23.124655,
+                        53.118067
+                  ]
+            },
+            {
+                  "name": "Międzyszkolny Ośrodek Sportowy",
+                  "text": "Ein Sportzentrum in Białystok mit einem Schwimmbecken für Training und Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        23.127341,
+                        53.137542
+                  ]
+            },
+            {
+                  "name": "Pływalnia przy DPS",
+                  "text": "Eine Schwimmanlage in Białystok, die Möglichkeiten für Wassersport und Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.227354,
+                        53.126696
+                  ]
             }
       ],
       "hu": [
@@ -18469,6 +18559,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.140742,
                         53.132175
+                  ]
+            },
+            {
+                  "name": "Tropikana. Park wodny hotelu Gołębiewski",
+                  "text": "Nagy fedett vízi park a Hotel Gołębiewski területén, Białystokban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.170438,
+                        53.132501
+                  ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "Egy białystoki papagájház, ahol a látogatók közelről láthatnak különféle egzotikus madarakat.",
+                  "category": "recreational",
+                  "coords": [
+                        23.16457,
+                        53.149836
+                  ]
+            },
+            {
+                  "name": "Park linowy Lumur",
+                  "text": "Białystoki kalandpark, amely különféle szabadtéri kötélpályákat és mászási lehetőségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        23.214831,
+                        53.110272
+                  ]
+            },
+            {
+                  "name": "Fikoland Sp. z o. o.",
+                  "text": "Beltéri vidámpark Białystok városában, számos játékkal és szórakozási lehetőséggel gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        23.124655,
+                        53.118067
+                  ]
+            },
+            {
+                  "name": "Międzyszkolny Ośrodek Sportowy",
+                  "text": "Białystoki sportközpont úszómedencével, amely edzésekre és szabadidős úszásra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        23.127341,
+                        53.137542
+                  ]
+            },
+            {
+                  "name": "Pływalnia przy DPS",
+                  "text": "Białystoki úszólétesítmény, amely vízisport- és kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.227354,
+                        53.126696
                   ]
             }
       ],
@@ -18994,6 +19138,60 @@ export const polandCitiesV2: POI[] = [
                         23.140742,
                         53.132175
                   ]
+            },
+            {
+                  "name": "Tropikana. Park wodny hotelu Gołębiewski",
+                  "text": "Un parc acvatic interior mare situat în cadrul Hotelului Gołębiewski din Białystok.",
+                  "category": "recreational",
+                  "coords": [
+                        23.170438,
+                        53.132501
+                  ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "O casă a papagalilor în Białystok, unde vizitatorii pot vedea de aproape diverse păsări exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        23.16457,
+                        53.149836
+                  ]
+            },
+            {
+                  "name": "Park linowy Lumur",
+                  "text": "Un parc de aventură în Białystok, care oferă diverse trasee de frânghii și provocări de escaladă în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        23.214831,
+                        53.110272
+                  ]
+            },
+            {
+                  "name": "Fikoland Sp. z o. o.",
+                  "text": "Un parc de distracții interior în Białystok, cu numeroase atracții și zone de joacă pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        23.124655,
+                        53.118067
+                  ]
+            },
+            {
+                  "name": "Międzyszkolny Ośrodek Sportowy",
+                  "text": "Un centru sportiv în Białystok cu o piscină destinată antrenamentelor și activităților recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        23.127341,
+                        53.137542
+                  ]
+            },
+            {
+                  "name": "Pływalnia przy DPS",
+                  "text": "O bază de înot în Białystok care oferă facilități pentru sporturi nautice și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.227354,
+                        53.126696
+                  ]
             }
       ],
       "en": [
@@ -19517,6 +19715,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.140742,
                         53.132175
+                  ]
+            },
+            {
+                  "name": "Tropikana. Park wodny hotelu Gołębiewski",
+                  "text": "A large indoor water park located within the Hotel Gołębiewski in Białystok.",
+                  "category": "recreational",
+                  "coords": [
+                        23.170438,
+                        53.132501
+                  ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "A parrot house in Białystok where visitors can see various exotic birds up close.",
+                  "category": "recreational",
+                  "coords": [
+                        23.16457,
+                        53.149836
+                  ]
+            },
+            {
+                  "name": "Park linowy Lumur",
+                  "text": "A rope park in Białystok offering various outdoor courses and climbing challenges.",
+                  "category": "landmark",
+                  "coords": [
+                        23.214831,
+                        53.110272
+                  ]
+            },
+            {
+                  "name": "Fikoland Sp. z o. o.",
+                  "text": "An indoor theme park in Białystok with numerous attractions and play areas for children.",
+                  "category": "recreational",
+                  "coords": [
+                        23.124655,
+                        53.118067
+                  ]
+            },
+            {
+                  "name": "Międzyszkolny Ośrodek Sportowy",
+                  "text": "A sports center in Białystok featuring a swimming pool for training and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.127341,
+                        53.137542
+                  ]
+            },
+            {
+                  "name": "Pływalnia przy DPS",
+                  "text": "A swimming facility in Białystok providing opportunities for water sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.227354,
+                        53.126696
                   ]
             }
       ]
@@ -20277,6 +20529,15 @@ export const polandCitiesV2: POI[] = [
                         18.542657,
                         54.544431
                   ]
+            },
+            {
+                  "name": "Plaża Śródmieście",
+                  "text": "Plaża Śródmieście ist ein beliebter, breiter Stadtstrand direkt im Zentrum von Gdynia.",
+                  "category": "recreational",
+                  "coords": [
+                        18.55038,
+                        54.515357
+                  ]
             }
       ],
       "hu": [
@@ -20755,6 +21016,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.542657,
                         54.544431
+                  ]
+            },
+            {
+                  "name": "Plaża Śródmieście",
+                  "text": "A Plaża Śródmieście egy népszerű, széles városi strand Gdynia közvetlen központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.55038,
+                        54.515357
                   ]
             }
       ],
@@ -21235,6 +21505,15 @@ export const polandCitiesV2: POI[] = [
                         18.542657,
                         54.544431
                   ]
+            },
+            {
+                  "name": "Plaża Śródmieście",
+                  "text": "Plaża Śródmieście este o plajă urbană populară și lată, situată chiar în centrul orașului Gdynia.",
+                  "category": "recreational",
+                  "coords": [
+                        18.55038,
+                        54.515357
+                  ]
             }
       ],
       "en": [
@@ -21713,6 +21992,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.542657,
                         54.544431
+                  ]
+            },
+            {
+                  "name": "Plaża Śródmieście",
+                  "text": "Plaża Śródmieście is a popular, wide urban beach located right in the center of Gdynia.",
+                  "category": "recreational",
+                  "coords": [
+                        18.55038,
+                        54.515357
                   ]
             }
       ]
@@ -28347,6 +28635,24 @@ export const polandCitiesV2: POI[] = [
                         20.47417,
                         53.774728
                   ]
+            },
+            {
+                  "name": "Park Ptaków",
+                  "text": "Ein lokaler Tierpark in Olsztyn, der auf Vögel spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.502645,
+                        53.811482
+                  ]
+            },
+            {
+                  "name": "Basen OSiR",
+                  "text": "Ein öffentliches Schwimmbad in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.47739,
+                        53.771545
+                  ]
             }
       ],
       "hu": [
@@ -28735,6 +29041,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.47417,
                         53.774728
+                  ]
+            },
+            {
+                  "name": "Park Ptaków",
+                  "text": "Madarakra specializálódott helyi állatkert Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.502645,
+                        53.811482
+                  ]
+            },
+            {
+                  "name": "Basen OSiR",
+                  "text": "Nyilvános úszómedence Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.47739,
+                        53.771545
                   ]
             }
       ],
@@ -29125,6 +29449,24 @@ export const polandCitiesV2: POI[] = [
                         20.47417,
                         53.774728
                   ]
+            },
+            {
+                  "name": "Park Ptaków",
+                  "text": "O grădină zoologică locală din Olsztyn, specializată în păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        20.502645,
+                        53.811482
+                  ]
+            },
+            {
+                  "name": "Basen OSiR",
+                  "text": "O piscină publică în Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.47739,
+                        53.771545
+                  ]
             }
       ],
       "en": [
@@ -29513,6 +29855,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.47417,
                         53.774728
+                  ]
+            },
+            {
+                  "name": "Park Ptaków",
+                  "text": "A local zoo in Olsztyn specializing in birds.",
+                  "category": "recreational",
+                  "coords": [
+                        20.502645,
+                        53.811482
+                  ]
+            },
+            {
+                  "name": "Basen OSiR",
+                  "text": "A public swimming pool in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.47739,
+                        53.771545
                   ]
             }
       ]
@@ -31294,6 +31654,15 @@ export const polandCitiesV2: POI[] = [
                         18.936628,
                         50.336617
                   ]
+            },
+            {
+                  "name": "Pływalnia miejska",
+                  "text": "Ein städtisches Schwimmbad in Bytom, das Sport- und Freizeitmöglichkeiten im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.913629,
+                        50.349132
+                  ]
             }
       ],
       "hu": [
@@ -31385,6 +31754,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.936628,
                         50.336617
+                  ]
+            },
+            {
+                  "name": "Pływalnia miejska",
+                  "text": "Bytom városi uszodája, amely sportolási és szabadidős vízi lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.913629,
+                        50.349132
                   ]
             }
       ],
@@ -31478,6 +31856,15 @@ export const polandCitiesV2: POI[] = [
                         18.936628,
                         50.336617
                   ]
+            },
+            {
+                  "name": "Pływalnia miejska",
+                  "text": "O piscină municipală în Bytom, oferind facilități pentru sport și recreere acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        18.913629,
+                        50.349132
+                  ]
             }
       ],
       "en": [
@@ -31569,6 +31956,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.936628,
                         50.336617
+                  ]
+            },
+            {
+                  "name": "Pływalnia miejska",
+                  "text": "A municipal swimming pool in Bytom providing facilities for sports and water recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.913629,
+                        50.349132
                   ]
             }
       ]
@@ -31962,6 +32358,42 @@ export const polandCitiesV2: POI[] = [
                         15.514829,
                         51.938677
                   ]
+            },
+            {
+                  "name": "Basen Novity",
+                  "text": "Ein öffentliches Schwimmbad in Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.521446,
+                        51.945489
+                  ]
+            },
+            {
+                  "name": "Papugarnia Rio",
+                  "text": "Ein lokaler Tierpark in Zielona Góra mit Fokus auf Papageien.",
+                  "category": "recreational",
+                  "coords": [
+                        15.509292,
+                        51.906361
+                  ]
+            },
+            {
+                  "name": "Basen CRS",
+                  "text": "Ein Sport- und Freizeitschwimmbad in Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.525427,
+                        51.956211
+                  ]
+            },
+            {
+                  "name": "H2Ochla",
+                  "text": "Ein moderner Wasser-Freizeitpark in Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486284,
+                        51.905601
+                  ]
             }
       ],
       "hu": [
@@ -32305,6 +32737,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.514829,
                         51.938677
+                  ]
+            },
+            {
+                  "name": "Basen Novity",
+                  "text": "Nyilvános úszómedence Zielona Górában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.521446,
+                        51.945489
+                  ]
+            },
+            {
+                  "name": "Papugarnia Rio",
+                  "text": "Papagájokra összpontosító helyi állatkert Zielona Górában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.509292,
+                        51.906361
+                  ]
+            },
+            {
+                  "name": "Basen CRS",
+                  "text": "Sport- és szabadidős úszómedence Zielona Górában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.525427,
+                        51.956211
+                  ]
+            },
+            {
+                  "name": "H2Ochla",
+                  "text": "Modern vízi élménypark Zielona Górában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486284,
+                        51.905601
                   ]
             }
       ],
@@ -32650,6 +33118,42 @@ export const polandCitiesV2: POI[] = [
                         15.514829,
                         51.938677
                   ]
+            },
+            {
+                  "name": "Basen Novity",
+                  "text": "O piscină publică în Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.521446,
+                        51.945489
+                  ]
+            },
+            {
+                  "name": "Papugarnia Rio",
+                  "text": "O grădină zoologică locală din Zielona Góra, axată pe papagali.",
+                  "category": "recreational",
+                  "coords": [
+                        15.509292,
+                        51.906361
+                  ]
+            },
+            {
+                  "name": "Basen CRS",
+                  "text": "O piscină sportivă și de agrement în Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.525427,
+                        51.956211
+                  ]
+            },
+            {
+                  "name": "H2Ochla",
+                  "text": "Un parc de distracții acvatic modern în Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486284,
+                        51.905601
+                  ]
             }
       ],
       "en": [
@@ -32993,6 +33497,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.514829,
                         51.938677
+                  ]
+            },
+            {
+                  "name": "Basen Novity",
+                  "text": "A public swimming pool in Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.521446,
+                        51.945489
+                  ]
+            },
+            {
+                  "name": "Papugarnia Rio",
+                  "text": "A local zoo in Zielona Góra focusing on parrots.",
+                  "category": "recreational",
+                  "coords": [
+                        15.509292,
+                        51.906361
+                  ]
+            },
+            {
+                  "name": "Basen CRS",
+                  "text": "A sports and leisure swimming pool in Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.525427,
+                        51.956211
+                  ]
+            },
+            {
+                  "name": "H2Ochla",
+                  "text": "A modern water theme park in Zielona Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486284,
+                        51.905601
                   ]
             }
       ]
@@ -47394,6 +47934,51 @@ export const polandCitiesV2: POI[] = [
                         18.942085,
                         50.286168
                   ]
+            },
+            {
+                  "name": "Basen KS Hajduki",
+                  "text": "Ein öffentliches Schwimmbad in Chorzów.",
+                  "category": "recreational",
+                  "coords": [
+                        18.927329,
+                        50.274383
+                  ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Ein lokaler Tierpark in Chorzów, in dem Besucher Papageien erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Basen OSiR Skałka",
+                  "text": "Ein öffentliches Schwimmbad im Sportzentrum Skałka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.914012,
+                        50.301523
+                  ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "Die Überreste eines ehemaligen Schwimmbads in Chorzów.",
+                  "category": "recreational",
+                  "coords": [
+                        18.956921,
+                        50.325742
+                  ]
+            },
+            {
+                  "name": "Schlesischer Tierpark",
+                  "text": "Der Schlesische Zoologische Garten ist einer der größten Tierparks in Polen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99443,
+                        50.282681
+                  ]
             }
       ],
       "hu": [
@@ -47809,6 +48394,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.942085,
                         50.286168
+                  ]
+            },
+            {
+                  "name": "Basen KS Hajduki",
+                  "text": "Nyilvános úszómedence Chorzówban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.927329,
+                        50.274383
+                  ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Helyi állatkert Chorzówban, ahol a látogatók papagájokat láthatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Basen OSiR Skałka",
+                  "text": "Nyilvános úszómedence a Skałka sportközpontban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.914012,
+                        50.301523
+                  ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "Egy egykori úszómedence maradványai Chorzówban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.956921,
+                        50.325742
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "A Sziléziai Állatkert Lengyelország egyik legnagyobb állatkertje.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99443,
+                        50.282681
                   ]
             }
       ],
@@ -48226,6 +48856,51 @@ export const polandCitiesV2: POI[] = [
                         18.942085,
                         50.286168
                   ]
+            },
+            {
+                  "name": "Basen KS Hajduki",
+                  "text": "O piscină publică în Chorzów.",
+                  "category": "recreational",
+                  "coords": [
+                        18.927329,
+                        50.274383
+                  ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "O grădină zoologică locală în Chorzów, unde vizitatorii pot vedea papagali.",
+                  "category": "recreational",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Basen OSiR Skałka",
+                  "text": "O piscină publică în centrul sportiv Skałka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.914012,
+                        50.301523
+                  ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "Rămășițele unei foste piscine în Chorzów.",
+                  "category": "recreational",
+                  "coords": [
+                        18.956921,
+                        50.325742
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "Grădina Zoologică Sileziană este una dintre cele mai mari din Polonia.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99443,
+                        50.282681
+                  ]
             }
       ],
       "en": [
@@ -48641,6 +49316,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.942085,
                         50.286168
+                  ]
+            },
+            {
+                  "name": "Basen KS Hajduki",
+                  "text": "A public swimming pool in Chorzów.",
+                  "category": "recreational",
+                  "coords": [
+                        18.927329,
+                        50.274383
+                  ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "A local zoo in Chorzów where visitors can see parrots.",
+                  "category": "recreational",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Basen OSiR Skałka",
+                  "text": "A public swimming pool in the Skałka sports center.",
+                  "category": "recreational",
+                  "coords": [
+                        18.914012,
+                        50.301523
+                  ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "The remains of a former swimming pool in Chorzów.",
+                  "category": "recreational",
+                  "coords": [
+                        18.956921,
+                        50.325742
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "The Silesian Zoological Garden is one of the largest zoos in Poland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99443,
+                        50.282681
                   ]
             }
       ]
@@ -76752,6 +77472,15 @@ export const polandCitiesV2: POI[] = [
                         19.431983,
                         51.864622
                   ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Ein öffentlicher Wasserbereich für Kinder in Zgierz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424435,
+                        51.882166
+                  ]
             }
       ],
       "hu": [
@@ -76870,6 +77599,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.431983,
                         51.864622
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Nyilvános vízi játszótér gyerekeknek Zgierzben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424435,
+                        51.882166
                   ]
             }
       ],
@@ -76990,6 +77728,15 @@ export const polandCitiesV2: POI[] = [
                         19.431983,
                         51.864622
                   ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Un loc de joacă acvatic public pentru copii în Zgierz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424435,
+                        51.882166
+                  ]
             }
       ],
       "en": [
@@ -77108,6 +77855,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.431983,
                         51.864622
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "A public water playground for children in Zgierz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424435,
+                        51.882166
                   ]
             }
       ]
@@ -79241,6 +79997,15 @@ export const polandCitiesV2: POI[] = [
                         20.92294,
                         52.396517
                   ]
+            },
+            {
+                  "name": "Basen Miejski KZB Legionowo",
+                  "text": "Ein städtisches Schwimmbad in Legionowo.",
+                  "category": "recreational",
+                  "coords": [
+                        20.947611,
+                        52.410423
+                  ]
             }
       ],
       "hu": [
@@ -79377,6 +80142,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.92294,
                         52.396517
+                  ]
+            },
+            {
+                  "name": "Basen Miejski KZB Legionowo",
+                  "text": "Városi úszómedence Legionowóban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.947611,
+                        52.410423
                   ]
             }
       ],
@@ -79515,6 +80289,15 @@ export const polandCitiesV2: POI[] = [
                         20.92294,
                         52.396517
                   ]
+            },
+            {
+                  "name": "Basen Miejski KZB Legionowo",
+                  "text": "O piscină municipală în Legionowo.",
+                  "category": "recreational",
+                  "coords": [
+                        20.947611,
+                        52.410423
+                  ]
             }
       ],
       "en": [
@@ -79651,6 +80434,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.92294,
                         52.396517
+                  ]
+            },
+            {
+                  "name": "Basen Miejski KZB Legionowo",
+                  "text": "A municipal swimming pool in Legionowo.",
+                  "category": "recreational",
+                  "coords": [
+                        20.947611,
+                        52.410423
                   ]
             }
       ]

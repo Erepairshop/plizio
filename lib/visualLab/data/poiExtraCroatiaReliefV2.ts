@@ -2452,6 +2452,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                         15.301045,
                         45.418113
                   ]
+            },
+            {
+                  "name": "Toplice Lešće",
+                  "text": "Ein Thermalbad in Javorje, das für sein entspannendes Wasser und seine naturnahe Lage bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.352578,
+                        45.376537
+                  ]
             }
       ],
       "hu": [
@@ -2462,6 +2471,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                   "coords": [
                         15.301045,
                         45.418113
+                  ]
+            },
+            {
+                  "name": "Toplice Lešće",
+                  "text": "Javorje egyik termálfürdője, amely pihentető vizéről és természetközeli elhelyezkedéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.352578,
+                        45.376537
                   ]
             }
       ],
@@ -2474,6 +2492,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                         15.301045,
                         45.418113
                   ]
+            },
+            {
+                  "name": "Toplice Lešće",
+                  "text": "O baie termală în Javorje, cunoscută pentru apa sa relaxantă și locația în mijlocul naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        15.352578,
+                        45.376537
+                  ]
             }
       ],
       "en": [
@@ -2484,6 +2511,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                   "coords": [
                         15.301045,
                         45.418113
+                  ]
+            },
+            {
+                  "name": "Toplice Lešće",
+                  "text": "A thermal bath in Javorje, known for its relaxing waters and nature-oriented setting.",
+                  "category": "recreational",
+                  "coords": [
+                        15.352578,
+                        45.376537
                   ]
             }
       ]
@@ -2776,6 +2812,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                         15.589072,
                         45.119835
                   ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "Das Kupalište Jambrić ist ein natürlicher Badeplatz auf dem Slunjčica-Plateau, bekannt für sein sauberes Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
+                  ]
             }
       ],
       "hu": [
@@ -2840,6 +2885,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                   "coords": [
                         15.589072,
                         45.119835
+                  ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "A Kupalište Jambrić egy természetes fürdőhely a Slunjčica-fennsíkon, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
                   ]
             }
       ],
@@ -2906,6 +2960,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                         15.589072,
                         45.119835
                   ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "Kupalište Jambrić este un loc natural de scăldat pe platoul Slunjčica, cunoscut pentru apele sale curate.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
+                  ]
             }
       ],
       "en": [
@@ -2970,6 +3033,15 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
                   "coords": [
                         15.589072,
                         45.119835
+                  ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "Kupalište Jambrić is a natural swimming spot on the Slunjčica Plateau, known for its clean water.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
                   ]
             }
       ]

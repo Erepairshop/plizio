@@ -5119,8 +5119,1255 @@ export const poiExtraHrV2: POI[] = [
             }
       ]
 }},
-  {"id": "lopud", "type": "city", "parent": "HR-19", "coords": [17.9483, 42.6856], "population": 220, "tier": 2, "name": {"de": "Lopud", "hu": "Lopud", "ro": "Lopud", "en": "Lopud"}, "description": {"de": "Lopud ist die charmanteste der Elaphiten-Inseln vor Dubrovnik, bekannt für ihre autofreien Gassen, üppigen Gärten und den berühmten Sandstrand Šunj.", "hu": "A Dubrovnik melletti Elaphiti-szigetek legnépszerűbb tagja, amely autómentes utcáiról, buja szubtrópusi parkjairól és a hírneves Šunj homokos strandjáról ismert.", "ro": "Cea mai dezvoltată insulă din arhipelagul Elafite, Lopud este faimoasă pentru plaja sa cu nisip Šunj, grădinile botanice și absența mașinilor.", "en": "The most popular of the Elaphiti Islands near Dubrovnik, known for its car-free streets, lush subtropical gardens, and the famous sandy beach of Šunj."}, "facts": {"de": ["Völlig autofreie Insel", "Heimat des Sandstrandes Šunj", "Prächtiges Franziskanerkloster am Hafen", "Einstiges Zentrum für Dubrovniker Kapitäne", "Reich an subtropischer Vegetation", "Besitzt einen schönen botanischen Garten", "Nur eine Stunde per Fähre von Dubrovnik", "Zahlreiche mittelalterliche Kapellen"], "hu": ["A szigeten nincsenek autók", "Itt található a homokos Šunj strand", "Híres ferences kolostor áll a kikötőben", "Tengerészkapitányok egykori lakhelye", "Különleges botanikus kertje van", "Dubrovnikból menetrend szerinti hajóval elérhető", "Gazdag szubtrópusi növényzet (pálmák, kaktuszok)", "Számos reneszánsz nyaraló romja látható"], "ro": ["Insulă complet fără mașini", "Adăpostește plaja de nisip Šunj", "Mănăstire franciscană din secolul XV", "Fost centru important pentru căpitanii de navă", "Grădină botanică cu specii exotice", "O oră cu feribotul din portul Gruž", "Peste 30 de biserici și capele vechi", "Atmosferă relaxată și mediteraneană"], "en": ["Completely car-free island", "Home to the famous sandy Šunj Beach", "Iconic 15th-century Franciscan monastery", "Former retreat for Dubrovnik's sea captains", "Features a beautiful botanical garden", "A 1-hour ferry ride from Dubrovnik", "Rich in exotic Mediterranean vegetation", "Boasts many ruins of Renaissance villas"]}, "image": "/poi-images/lopud.webp", "imageHint": "Lopud harbor with its stone houses and the monastery tower", "descriptionAdvanced": {"de": "Lopud gilt als das Juwel der Elaphiten-Inseln und ist ein Ort, an dem die Zeit stehen geblieben scheint. Da auf der gesamten Insel keine Autos erlaubt sind, herrscht eine außergewöhnliche Ruhe, die nur vom Rauschen des Meeres unterbrochen wird. Das gleichnamige Dorf schmiegt sich an eine weite Bucht und ist geprägt von prächtigen Steinhäusern und dem markanten Glockenturm des Franziskanerklosters aus dem 15. Jahrhundert. Einst war Lopud ein bedeutendes maritimes Zentrum; im 16. Jahrhundert besaß die Insel eine eigene Flotte von über 80 Schiffen. Diese wohlhabende Vergangenheit spiegelt sich in den Ruinen zahlreicher Paläste und Kapellen wider. Botanikliebhaber werden von den Gärten der Villa Giorgi begeistert sein, in denen exotische Pflanzen gedeihen, die Kapitäne von ihren Weltreisen mitbrachten. Auf der anderen Seite der Insel liegt die Bucht Šunj, einer der seltenen und schönsten Sandstrände der Region, der über einen bewaldeten Pfad zu Fuß oder mit kleinen Elektro-Carts erreichbar ist. Lopud verbindet auf perfekte Weise aristokratische Geschichte mit entspanntem Inselleben.", "hu": "Lopud az Elaphiti-szigetcsoport középső és leglátogatottabb tagja, amely Dubrovnikból könnyen elérhető, mégis egy teljesen más világba repíti a látogatót. A sziget teljes területe autómentes, ami különleges békét és csendet kölcsönöz a településnek. A falu a kikötő körül épült ki, ahol masszív kőházak, elegáns reneszánsz paloták és a 15. századi monumentális ferences kolostor sorakoznak. Lopud aranykora a 16. századra tehető, amikor a szigetnek saját hajóhada volt, és több mint nyolcvan tengerjáró hajót birtokoltak a helyi tengerészek. Ennek a jólétnek az emlékét őrzik a kertek és a parkok, köztük a 19. századi botanikus kert, ahol a világ minden tájáról származó egzotikus növények virágoznak. A sziget legnagyobb vonzereje a déli oldalon fekvő Šunj-öböl, amelynek lassan mélyülő, finom homokos partja ritkaságszámba megy az Adria ezen szakaszán. A két oldalt egy fenyőerdőkkel övezett gyalogút köti össze, amelyen sétálva feltárul a sziget érintetlen természeti szépsége.", "ro": "Lopud este considerată cea mai fermecătoare insulă din grupul Elafite, situată la scurtă distanță de Dubrovnik. Absența vehiculelor motorizate transformă insula într-o oază de liniște, unde singurul sunet este cel al valurilor. Satul Lopud se întinde de-a lungul unui golf protejat, fiind dominat de silueta impunătoare a mănăstirii franciscane și a turnului său de pază din secolul al XV-lea. În secolul al XVI-lea, insula era un centru maritim de elită, deținând o flotă impresionantă de 80 de nave. Bogăția foștilor căpitani este vizibilă și astăzi în arhitectura vilelor nobiliare și în grădinile botanice luxuriante care adăpostesc palmieri, cactuși și arbori exotici aduși din colțurile îndepărtate ale lumii. Principala atracție turistică este plaja Šunj, situată pe partea opusă a portului, fiind una dintre puținele plaje cu nisip fin din zona Dubrovnikului. Un drum pitoresc prin păduri de pini leagă cele două părți ale insulei, oferind panorame superbe asupra mării Adriatice. Lopud este destinația ideală pentru cei care caută eleganță istorică și relaxare totală.", "en": "Lopud is often called the jewel of the Elaphiti Islands, offering a serene escape just a short boat ride from Dubrovnik. As the island is entirely car-free, it retains a peaceful, timeless atmosphere. The main village curves around a deep bay, lined with historic stone houses, Renaissance palaces, and a grand 15th-century Franciscan monastery that dominates the harbor. During its golden age in the 16th century, Lopud was a powerful maritime center with a fleet of over 80 ships. This wealthy past is still evident in the numerous ruins of noble villas and lush private gardens. The island is famous for its botanical heritage, particularly the 19th-century park established by the Giorgi-Mayneri family, featuring exotic plants brought home by local sea captains. On the southern coast lies the bay of Šunj, one of the most famous sandy beaches in southern Dalmatia, known for its shallow, warm waters and pine-fringed shore. Lopud perfectly balances aristocratic history with an effortless, sun-drenched island lifestyle."}, "factsAdvanced": ["Die Insel hat eine Fläche von etwa 4,6 Quadratkilometern", "Im 16. Jahrhundert lebten über 1.000 Menschen auf Lopud", "Das Franziskanerkloster wurde vor Kurzem aufwendig restauriert", "Lopud war die Sommerresidenz vieler Dubrovniker Adelsfamilien", "Es gibt keine Autos, nur kleine Elektro-Carts für den Transport", "Der botanische Garten beherbergt über 100 Arten exotischer Pflanzen"], "factsAdvanced_hu": ["A sziget területe körülbelül 4,6 négyzetkilométer", "A 16. században több mint 1000 lakosa volt a szigetnek", "A ferences kolostort nemrég alakították át luxusszállássá és múzeummá", "Lopudon több mint 30 középkori templom maradványa található", "A Šunj-öböl vize több száz méteren át csak térdig ér", "A szigeten forgatták a 'Fekete móló' című filmet is"], "factsAdvanced_ro": ["Insula are o suprafață de aproximativ 4,6 kilometri pătrați", "În perioada de glorie, Lopud avea peste 14.000 de locuitori (estimări vechi)", "Mănăstirea franciscană a fost fondată în anul 1483", "Există peste 30 de biserici și capele pe întreaga insulă", "Transportul se face pe jos sau cu vehicule electrice tip golf-cart", "Plaja Šunj este celebră pentru nisipul său alb și apele puțin adânci"], "factsAdvanced_en": ["The island covers an area of approximately 4.6 square kilometers", "In the 16th century, Lopud had its own shipyard and 80 ships", "The Franciscan monastery was built in 1483 and recently renovated", "There are 33 churches and chapels scattered across the island", "The only motorized transport allowed are small electric shuttle carts", "The botanical garden was founded by the Venetian family Giorgi"], "sights": {"de": [{"name": "Strand Šunj", "text": "Der Strand Šunj liegt in einer idyllischen Bucht auf der Südseite der Insel Lopud und gilt als einer der seltenen Sandstrände Kroatiens. Das flache Wasser sorgt für ein familienfreundliches, entspanntes Ambiente, das zum stundenlangen Planschen einlädt. Besucher können hier weiche Sandböden unter den Füßen genießen und unbeschwerte Sonnentage verbringen. Da der Strand besonders in der Hauptsaison sehr gefragt ist, lohnt sich eine frühe Ankunft.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-strand-unj.webp", "coords": [17.943642, 42.684835]}, {"name": "Đorđić-Mayneri Park", "text": "Ein üppiger botanischer Garten aus dem 19. Jahrhundert mit exotischen Pflanzen, Palmen und schattigen Alleen direkt am Meer.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp", "coords": [17.942207, 42.686957]}, {"name": "Rektorenpalast", "text": "Ehemaliger Sitz des ragusanischen Verwalters, ein historisches Steingebäude, das von der einstigen Bedeutung der Insel zeugt.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-rektorenpalast.webp", "coords": [17.943551, 42.690568]}, {"name": "Grand Hotel", "text": "Ein Pionierbau der modernen Architektur aus den 1930er Jahren, das erste Hotel aus Stahlbeton an der adriatischen Küste.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-grand-hotel.webp", "coords": [17.941136, 42.686521]}, {"name": "Utvrda Sutvrač", "text": "Eine historische Festung auf der Insel Lopud mit weitem Blick über die Adria.", "category": "fortress", "coords": [17.948918, 42.689694]}, {"name": "Your Black Horizon Art Pavilion", "text": "Ein moderner Kunstpavillon auf Lopud, entworfen von Olafur Eliasson und David Adjaye.", "category": "cultural", "coords": [17.944945, 42.688457]}], "hu": [{"name": "Šunj-strand", "text": "A Šunj strand a Lopud sziget déli oldalán, egy idilli öbölben található, és Horvátország egyik ritka homokos partjaként tartják számon. A sekély víz családbarát, nyugodt környezetet biztosít, amely órákig tartó pancsolásra csábít. A látogatók élvezhetik a puha homokot a talpuk alatt, és gondtalan napsütéses napokat tölthetnek el itt. Mivel a főszezonban nagyon népszerű, érdemes korán érkezni.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-strand-unj.webp", "coords": [17.943642, 42.684835]}, {"name": "Đorđić-Mayneri park", "text": "A 19. század végén alapított botanikus kert egzotikus növényekkel, bambuszokkal és hatalmas pálmákkal a tengerpart mentén.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp", "coords": [17.942207, 42.686957]}, {"name": "Rektori palota", "text": "A Dubrovniki Köztársaság egykori közigazgatási székhelye a szigeten, patinás kőépület a kikötő közelében.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-rektorenpalast.webp", "coords": [17.943551, 42.690568]}, {"name": "Grand Hotel", "text": "Az 1930-as években épült modernista hotel, amely a vasbeton építészet egyik első példája volt az adriai turizmusban.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-grand-hotel.webp", "coords": [17.941136, 42.686521]}, {"name": "Utvrda Sutvrač", "text": "Történelmi erőd Lopud szigetén, ahonnan lenyűgöző kilátás nyílik az Adriai-tengerre.", "category": "fortress", "coords": [17.948918, 42.689694]}, {"name": "Your Black Horizon Art Pavilion", "text": "Modern művészeti pavilon Lopud szigetén, Olafur Eliasson és David Adjaye alkotása.", "category": "cultural", "coords": [17.944945, 42.688457]}], "ro": [{"name": "Plaja Šunj", "text": "Plaja Šunj este situată într-un golf idilic pe partea de sud a insulei Lopud și este recunoscută ca una dintre rarele plaje cu nisip din Croația. Apa puțin adâncă creează o atmosferă relaxată, prietenoasă cu familiile, perfectă pentru ore de joacă în mare. Vizitatorii se pot bucura de senzația nisipului fin sub picioare, petrecând aici zile însorite și lipsite de griji. Deoarece este la mare căutare în plin sezon, se recomandă să ajungeți mai devreme.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-strand-unj.webp", "coords": [17.943642, 42.684835]}, {"name": "Parcul Đorđić-Mayneri", "text": "O grădină botanică luxuriantă creată în secolul al XIX-lea, plină de specii exotice, pini mediteraneeni și alei umbroase.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp", "coords": [17.942207, 42.686957]}, {"name": "Palatul Rectorului", "text": "Clădire istorică din piatră ce servea drept sediu administrativ al guvernatorului din Dubrovnik, martor al epocii de aur a insulei.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-rektorenpalast.webp", "coords": [17.943551, 42.690568]}, {"name": "Grand Hotel", "text": "O capodoperă a arhitecturii moderniste timpurii din anii '30, fiind prima clădire de acest tip realizată din beton armat pe coastă.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-grand-hotel.webp", "coords": [17.941136, 42.686521]}, {"name": "Utvrda Sutvrač", "text": "O fortăreață istorică pe insula Lopud, oferind o vedere panoramică asupra Mării Adriatice.", "category": "fortress", "coords": [17.948918, 42.689694]}, {"name": "Your Black Horizon Art Pavilion", "text": "Un pavilion de artă modernă pe insula Lopud, creat de Olafur Eliasson și David Adjaye.", "category": "cultural", "coords": [17.944945, 42.688457]}], "en": [{"name": "Šunj Beach", "text": "Šunj Beach is nestled in an idyllic bay on the southern side of the island of Lopud and is known as one of Croatia's rare sandy beaches. The shallow water ensures a family-friendly, relaxed atmosphere that invites visitors to splash around for hours. Guests can enjoy the soft sandy bottom under their feet and spend carefree sunny days by the sea. As the beach is highly popular during peak season, an early arrival is recommended.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-strand-unj.webp", "coords": [17.943642, 42.684835]}, {"name": "Đorđić-Mayneri Park", "text": "A rich botanical garden established in the late 19th century, featuring exotic plants, palms, and citrus trees along the seafront.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp", "coords": [17.942207, 42.686957]}, {"name": "Rector's Palace", "text": "The former seat of the island's governor during the Republic of Ragusa, a fine example of traditional Dalmatian stone architecture.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-rektorenpalast.webp", "coords": [17.943551, 42.690568]}, {"name": "Grand Hotel", "text": "A pioneering work of modern architecture from 1936, it was the first reinforced concrete hotel on the Adriatic coast.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/lopud-grand-hotel.webp", "coords": [17.941136, 42.686521]}, {"name": "Utvrda Sutvrač", "text": "A historic fortress on Lopud island offering wide views over the Adriatic Sea.", "category": "fortress", "coords": [17.948918, 42.689694]}, {"name": "Your Black Horizon Art Pavilion", "text": "A modern art pavilion on Lopud island, created by Olafur Eliasson and David Adjaye.", "category": "cultural", "coords": [17.944945, 42.688457]}], "hr": [{"name": "Šunj", "text": "Poznata pješčana plaža smještena na južnoj strani otoka Lopuda.", "category": "recreational", "coords": [17.951997, 42.679926]}, {"name": "Utvrda Sutvrač", "text": "Povijesna utvrda na otoku Lopudu s koje se pruža pogled na Jadransko more.", "category": "fortress", "coords": [17.948918, 42.689694]}, {"name": "Your Black Horizon Art Pavilion", "text": "Moderni umjetnički paviljon na Lopudu, djelo Olafur Eliassona i Davida Adjayea.", "category": "cultural", "coords": [17.944945, 42.688457]}]}},
-  {"id": "malinska", "type": "city", "parent": "HR-08", "coords": [14.53, 45.1247], "population": 3137, "tier": 2, "name": {"de": "Malinska (Krk)", "hu": "Malinska (Krk)", "ro": "Malinska (Krk)", "en": "Malinska (Krk)"}, "description": {"de": "Ein malerischer Ferienort an der Nordwestküste der Insel Krk, bekannt für seine geschützten Buchten, die üppige Vegetation und die langen Spazierwege direkt am Adriatischen Meer.", "hu": "A Krk-sziget északnyugati partján fekvő népszerű üdülőváros, amely kristálytiszta öbleiről, mediterrán parkjairól és a dubašnicai térség gazdag történelmi emlékeiről ismert.", "ro": "O stațiune pitorească pe coasta de nord-vest a insulei Krk, renumită pentru golfurile sale adăpostite, vegetația luxuriantă și lungile promenade de-a lungul Mării Adriatice.", "en": "A picturesque resort town on the northwestern coast of Krk Island, famous for its sheltered bays, lush Mediterranean vegetation, and long seaside promenades along the Adriatic."}, "facts": {"de": ["Insel Krk", "Region Dubašnica", "3137 Einwohner", "Mildes Klima", "Kiesstrände", "Ehemaliger Holzhafen", "Rajska cesta Pfad", "Nähe zum Flughafen Rijeka"], "hu": ["Krk-sziget része", "Dubašnica régió", "3137 lakos", "Enyhe mediterrán klíma", "Kavicsos strandok", "Egykori kikötőváros", "Paradicsom-út sétány", "Rijeka repülőtér közelében"], "ro": ["Insula Krk", "Regiunea Dubašnica", "3137 locuitori", "Climat mediteranean", "Plaje cu pietriș", "Fost port comercial", "Promenada Rajska cesta", "Aproape de aeroportul Rijeka"], "en": ["Krk Island location", "Dubašnica region", "3137 residents", "Mild Mediterranean climate", "Pebble beaches", "Former timber port", "Paradise Road walk", "Near Rijeka airport"]}, "image": "/poi-images/malinska.webp", "imageHint": "Malinska harbor and waterfront promenade on Krk island Croatia", "descriptionAdvanced": {"de": "Malinska ist eines der begehrtesten Touristenzentren auf der Insel Krk, tief gelegen in der geschützten Bucht von Dubašnica. Die Geschichte des Ortes ist eng mit dem Meer und dem Holzhandel verbunden; im 19. Jahrhundert diente er als wichtiger Hafen für die Verschiffung von Holz aus dem Inselinneren der Insel Krk. Der Tourismusboom begann im frühen 20. Jahrhundert, als der österreichisch-ungarische Adel das milde Klima und die üppige Vegetation der Gegend entdeckte.\n\nNördlich der Stadt befinden sich die Ruinen des berüchtigten Hotelkomplexes Haludovo, der in den 1970er Jahren ein Symbol für internationalen Luxus war und heute als 'Lost Place' Abenteurer anzieht. Heute empfängt Malinska seine Besucher mit modernisierten Promenaden, exzellenten Restaurants mit fangfrischem Fisch und zahlreichen gepflegten Kiesstränden. Die Stadt ist zudem ein idealer Ausgangspunkt für Wanderungen durch die umliegenden Olivenhaine und Eichenwälder, während das nahe gelegene Kloster Porat das mittelalterliche glagolitische Erbe der Region bewahrt.", "hu": "Malinska a Krk-sziget egyik legkeresettebb turisztikai központja, amely a védett Dubašnica-öböl mélyén húzódik meg. A település története szorosan összefonódott a tengerrel és a fakitermeléssel; a 19. században fontos kikötőként szolgált, ahol a sziget belsejéből származó fát rakodták hajókra. A turizmus fellendülése a 20. század elején kezdődött, amikor az osztrák-magyar nemesség felfedezte a környék enyhe éghajlatát és buja növényzetét.\n\nA várostól északra található a hírhedt Haludovo-szállodakomplexum romos épületegyüttese, amely az 1970-es években még a nemzetközi luxus szimbóluma volt, mára azonban a modern kori pusztulás látványos mementója. Malinska ma modern sétányokkal, kiváló tengeri éttermekkel és számos gondozott kavicsos stranddal várja a látogatókat, miközben a közeli Porat kolostora a vidék középkori Glagolita örökségét őrzi. A település különösen kedvelt a családok körében a lassan mélyülő öblök és a kiterjedt fenyvesek által nyújtott árnyék miatt.", "ro": "Malinska este unul dintre cele mai căutate centre turistice de pe insula Krk, situat în adâncul golfului adăpostit Dubašnica. Istoria orașului este strâns legată de mare și de comerțul cu lemn; în secolul al XIX-lea, a servit ca port vital pentru transportul lemnului din interiorul insulei către restul Adriaticei. Boom-ul turistic a început la începutul secolului XX, când nobilimea austro-ungară a descoperit clima blândă și vegetația luxuriantă a zonei.\n\nLa nord de oraș se află ruinele infamului complex hotelier Haludovo, care a fost un simbol al luxului internațional în anii 1970, fiind astăzi un loc fascinant pentru exploratorii urbani. Astăzi, Malinska își întâmpină vizitatorii cu promenade moderne, restaurante excelente care servesc specialități locale și numeroase plaje cu pietriș bine întreținute. Orașul este, de asemenea, un punct de plecare ideal pentru drumeții prin livezile de măslini din jur, în timp ce mănăstirea Porat din apropiere păstrează moștenirea glagolitică medievală unică a regiunii.", "en": "Malinska is one of the most popular tourist centers on Krk Island, nestled deep within the sheltered Dubašnica Bay. The town's history is closely tied to the sea and the timber trade; in the 19th century, it served as a vital port for shipping wood harvested from the island's lush interior. The tourism boom began in the early 20th century when the Austro-Hungarian nobility discovered the area's exceptionally mild climate and diverse vegetation.\n\nTo the north of the town lie the ruins of the infamous Haludovo hotel complex, which was a symbol of international luxury in the 1970s but now stands as a hauntingly beautiful monument to past opulence. Today, Malinska welcomes visitors with modern seaside promenades, excellent seafood restaurants, and numerous well-kept pebble beaches. The town is also a perfect base for exploring the surrounding olive groves and oak forests, while the nearby Franciscan monastery in Porat preserves the region's medieval Glagolitic heritage and cultural identity."}, "factsAdvanced": {"de": ["Das Hafendamm-Projekt von 1866 markierte den Beginn von Malinska als wichtigem Exporthafen für Eichenholz.", "Der 'Paradiesweg' (Rajska cesta) führt über 6 Kilometer direkt am Meer entlang bis zum Nachbarort Njivice.", "Das ehemalige Haludovo Palace Hotel wurde 1972 mit einer Investition von rund 45 Millionen Dollar eröffnet.", "Die Gemeinde Dubašnica, deren Zentrum Malinska ist, umfasst insgesamt 21 kleinere Siedlungen.", "Das Kloster von Porat beherbergt ein Museum mit bedeutenden glagolitischen Steinschriften aus dem 15. Jahrhundert.", "Während der Sommersaison steigt die Anzahl der Personen im Ort durch Touristen oft auf über 25.000 an."], "hu": ["A település kikötőjének 1866-os kiépítése tette lehetővé a tölgyfa tömeges exportját a szigetről.", "A 'Paradicsom-út' (Rajska cesta) egy 6 kilométer hosszú, tengerparti sétány, amely Malinskát Njivicével köti össze.", "Az 1972-ben megnyitott Haludovo Palace Hotel építése akkori áron több mint 45 millió dollárba került.", "Dubašnica község, amelynek Malinska a központja, összesen 21 kisebb falut foglal magában.", "A porati Szent Mária Magdolna-kolostor múzeuma 15. századi Glagolita kőemlékeket és kéziratokat őriz.", "A főszezonban a város és környékének lélekszáma a vendégéjszakák alapján gyakran meghaladja a 25.000 főt."], "ro": ["Construcția digului portuar în 1866 a marcat începutul dezvoltării orașului ca port major de export pentru lemnul de stejar.", "Drumul Paradisului (Rajska cesta) este o promenadă de 6 kilometri care leagă Malinska de localitatea vecină Njivice.", "Hotelul Haludovo Palace, deschis în 1972, a reprezentat o investiție masivă de aproximativ 45 de milioane de dolari.", "Comuna Dubašnica, administrată din Malinska, este compusă dintr-un total de 21 de sate și așezări mici.", "Mănăstirea din Porat găzduiește un muzeu cu inscripții glagolitice valoroase datând din secolul al XV-lea.", "Populația localității crește de la 3.000 la peste 25.000 de persoane în vârful sezonului turistic de vară."], "en": ["The construction of the harbor pier in 1866 marked the start of Malinska's era as a key timber export hub.", "The 'Paradise Road' (Rajska cesta) is a scenic 6-kilometer coastal promenade connecting Malinska to Njivice.", "The Haludovo Palace Hotel, opened in 1972, was built with an investment of approximately 45 million dollars.", "The Dubašnica municipality, centered in Malinska, consists of a total of 21 smaller villages and hamlets.", "The monastery in nearby Porat houses a museum featuring rare Glagolitic stone inscriptions from the 15th century.", "During the peak summer season, the town's effective population often swells to over 25,000 people due to tourism."]}, "sights": {"de": [{"name": "Kirche des Hl. Apollinaris", "text": "Diese historische Pfarrkirche in Bogovići ist ein bedeutendes religiöses Zentrum mit einem markanten Glockenturm.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp", "coords": [14.606322, 45.164176]}, {"name": "Haludovo Palasthotel", "text": "Die Ruinen eines einst luxuriösen Hotelkomplexes aus den 1970er Jahren, heute ein faszinierendes Beispiel für moderne Architektur.", "category": "famous residences", "confidence": "medium", "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp", "coords": [14.527778, 45.131111]}, {"name": "Hafen von Malinska", "text": "Das pulsierende Herz des Ortes mit zahlreichen Booten, Restaurants und Cafés direkt an der Adria-Promenade.", "category": "port", "confidence": "high", "image": "/poi-images/sights/malinska-hafen-von-malinska.webp", "coords": [14.529285, 45.123386]}, {"name": "Strand Rova", "text": "Der Strand Rova in Malinska auf Krk ist ein einladender Kiesstrand, der für sein kristallklares Wasser bekannt ist. Die ruhige und familienfreundliche Umgebung macht ihn zu einem idealen Ziel für alle, die pure Erholung suchen. Gäste können hier entspannte Schwimmrunden drehen oder einfach in der sanften Sonne verweilen. Es empfiehlt sich, Badeschuhe für den angenehmen Gang über die Kieselsteine einzupacken.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/malinska-strand-rova.webp", "coords": [14.511163, 45.116788]}, {"name": "Glagolica park", "text": "Ein Park in Malinska, der mit Steindenkmälern dem glagolitischen Alphabet gewidmet ist.", "category": "historical", "coords": [14.562184, 45.114546]}, {"name": "Luna Park", "text": "Ein kleiner Vergnügungspark in Malinska mit verschiedenen Attraktionen für Kinder.", "category": "recreational", "coords": [14.527552, 45.127636]}, {"name": "Grota", "text": "Ein natürlicher Felsstrand in der Nähe von Malinska, geschätzt für sein klares Wasser.", "category": "recreational", "coords": [14.526357, 45.129867]}, {"name": "FKK Rajska cesta", "text": "Ein ruhiger FKK-Strandabschnitt an der bewaldeten Rajska-Promenade in Malinska.", "category": "recreational", "coords": [14.527711, 45.140569]}, {"name": "Kompas", "text": "Ein nautisches Denkmal im Zentrum von Malinska, das als lokaler Treffpunkt dient.", "category": "historical", "coords": [14.504593, 45.115672]}, {"name": "Guvno Rasopasno1", "text": "Ein traditioneller steinerner Dreschplatz in Malinska, der als Kulturdenkmal erhalten wurde.", "category": "historical", "coords": [14.5628, 45.120993]}, {"name": "Guvno Rasopasno3", "text": "Die historischen Überreste eines ehemaligen landwirtschaftlichen Dreschplatzes bei Malinska.", "category": "historical", "coords": [14.564553, 45.12298]}, {"name": "Guvno Rasopasno2", "text": "Eine alte steinerne Struktur in der Nähe von Malinska, die einst zum Dreschen von Getreide diente.", "category": "historical", "coords": [14.56181, 45.122809]}, {"name": "Guvno Rasopasno7", "text": "Ruinen eines traditionellen ländlichen Arbeitsplatzes in der Umgebung von Malinska.", "category": "historical", "coords": [14.567473, 45.122094]}, {"name": "Guvno Rasopasno4", "text": "Die Ruinen eines traditionellen runden Dreschplatzes aus Stein im Dorf Rasopasno bei Malinska.", "category": "historical", "coords": [14.563608, 45.122212]}, {"name": "Guvno Rasopasno8", "text": "Ein historischer steinerner Dreschplatz in Rasopasno, der früher für die Getreideverarbeitung genutzt wurde.", "category": "historical", "coords": [14.567309, 45.123535]}, {"name": "Guvno Rasopasno6", "text": "Überreste eines alten Guvno in Rasopasno, ein steinernes Denkmal der ehemaligen Landwirtschaft von Krk.", "category": "historical", "coords": [14.565133, 45.121522]}, {"name": "Cickini", "text": "Eine bedeutende archäologische Ausgrabungsstätte bei Malinska mit den Ruinen eines frühchristlichen Komplexes.", "category": "historical", "coords": [14.55141, 45.125919]}, {"name": "Portić", "text": "Eine kleine Bucht mit Badestelle im Gebiet von Malinska auf der Insel Krk.", "category": "recreational", "coords": [14.524914, 45.123901]}, {"name": "Ponikve", "text": "Der See Ponikve bei Malinska auf Krk ist ein Naturjuwel, das zu ausgedehnten Spaziergängen einlädt.", "category": "natural", "coords": [14.563596, 45.076044]}, {"name": "Njivice", "text": "Der See Njivice bei Malinska Krk bietet eine ruhige Atmosphäre für entspannte Stunden am Wasser.", "category": "natural", "coords": [14.56275, 45.169344]}], "hu": [{"name": "Szent Apollináris-templom", "text": "Bogovići településrészen található plébániatemplom, amely a környék egyik legfontosabb szakrális építménye.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp", "coords": [14.606322, 45.164176]}, {"name": "Haludovo szállodakomplexum", "text": "Az 1970-es évek egykori luxusszállodájának romjai, amely ma különleges látványt nyújt az urbex kedvelőinek.", "category": "famous residences", "confidence": "medium", "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp", "coords": [14.527778, 45.131111]}, {"name": "Malinskai kikötő", "text": "A település központi része, ahol hangulatos éttermek, hajók és élénk éjszakai élet fogadja a látogatókat.", "category": "port", "confidence": "high", "image": "/poi-images/sights/malinska-hafen-von-malinska.webp", "coords": [14.529285, 45.123386]}, {"name": "Rova strand", "text": "A Krk-szigeti Malinskában található Rova strand egy hívogató kavicsos part, amely kristálytiszta vizéről ismert. A nyugodt és családbarát környezet ideális célponttá teszi azok számára, akik tiszta kikapcsolódásra vágynak. A vendégek itt pihentető úszásokat tehetnek, vagy egyszerűen csak elidőzhetnek a lágy napsütésben. A kavicsokon való kényelmes sétához érdemes fürdőcipőt is csomagolni.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/malinska-strand-rova.webp", "coords": [14.511163, 45.116788]}, {"name": "Glagolica park", "text": "Malinskában található park, amely kőemlékekkel tiszteleg a glagolita ábécé előtt.", "category": "historical", "coords": [14.562184, 45.114546]}, {"name": "Luna Park", "text": "Kisméretű vidámpark Malinskában, amely különböző játékokat kínál a gyermekeknek.", "category": "recreational", "coords": [14.527552, 45.127636]}, {"name": "Grota", "text": "Természetes, sziklás strand Malinska közelében, amely tiszta vize miatt kedvelt.", "category": "recreational", "coords": [14.526357, 45.129867]}, {"name": "FKK Rajska cesta", "text": "Csendes naturista strand szakasz a Malinska melletti erdős Rajska sétányon.", "category": "recreational", "coords": [14.527711, 45.140569]}, {"name": "Kompas", "text": "Hajózási témájú emlékmű Malinska központjában, amely helyi találkozóhely.", "category": "historical", "coords": [14.504593, 45.115672]}, {"name": "Guvno Rasopasno1", "text": "Hagyományos kőből épült cséplőhely Malinskában, amely kulturális emlékmű.", "category": "historical", "coords": [14.5628, 45.120993]}, {"name": "Guvno Rasopasno3", "text": "Egy egykori mezőgazdasági cséplőhely történelmi maradványai Malinska közelében.", "category": "historical", "coords": [14.564553, 45.12298]}, {"name": "Guvno Rasopasno2", "text": "Régi kőépítmény Malinska környékén, amely egykor gabonacséplésre szolgált.", "category": "historical", "coords": [14.56181, 45.122809]}, {"name": "Guvno Rasopasno7", "text": "Egy hagyományos vidéki munkahely romjai Malinska környékén.", "category": "historical", "coords": [14.567473, 45.122094]}, {"name": "Guvno Rasopasno4", "text": "Egy hagyományos kőből készült, kör alakú cséplőhely romjai Rasopasno faluban, Malinska közelében.", "category": "historical", "coords": [14.563608, 45.122212]}, {"name": "Guvno Rasopasno8", "text": "Történelmi kő cséplőhely Rasopasno területén, amelyet egykor gabonafeldolgozásra használtak.", "category": "historical", "coords": [14.567309, 45.123535]}, {"name": "Guvno Rasopasno6", "text": "Egy régi cséplőhely maradványai Rasopasnóban, amely Krk egykori mezőgazdaságának kőemléke.", "category": "historical", "coords": [14.565133, 45.121522]}, {"name": "Cickini", "text": "Jelentős régészeti lelőhely Malinska közelében, egy kora keresztény templomkomplexum romjaival.", "category": "historical", "coords": [14.55141, 45.125919]}, {"name": "Portić", "text": "Kis öböl fürdőhellyel Malinska környékén, Krk szigetén.", "category": "recreational", "coords": [14.524914, 45.123901]}, {"name": "Ponikve", "text": "A Krk szigeti Malinska melletti Ponikve tó egy természeti ékszerdoboz, amely hosszú sétákra hívogat.", "category": "natural", "coords": [14.563596, 45.076044]}, {"name": "Njivice", "text": "A Malinska Krk melletti Njivice tó csendes légkört kínál a vízparton eltöltött pihentető órákhoz.", "category": "natural", "coords": [14.56275, 45.169344]}], "ro": [{"name": "Biserica Sfântul Apolinarie", "text": "Această biserică parohială din Bogovići este un punct de reper spiritual important, având o arhitectură tradițională.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp", "coords": [14.606322, 45.164176]}, {"name": "Complexul hotelier Haludovo", "text": "Ruinele unui fost hotel de lux din anii '70, reprezentând astăzi un exemplu fascinant de arhitectură modernistă abandonată.", "category": "famous residences", "confidence": "medium", "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp", "coords": [14.527778, 45.131111]}, {"name": "Portul Malinska", "text": "Inima localității, unde ambarcațiunile și terasele creează o atmosferă vibrantă pe malul Adriaticii.", "category": "port", "confidence": "high", "image": "/poi-images/sights/malinska-hafen-von-malinska.webp", "coords": [14.529285, 45.123386]}, {"name": "Plaja Rova", "text": "Plaja Rova din Malinska, pe insula Krk, este o plajă cu pietriș primitoare, renumită pentru apa sa cristalină. Mediul liniștit și familial o transformă într-o destinație ideală pentru toți cei care caută relaxare absolută. Oaspeții pot înota în voie sau se pot bucura pur și simplu de razele blânde ale soarelui. Este indicat să aduceți încălțăminte de apă pentru un mers mai confortabil pe pietriș.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/malinska-strand-rova.webp", "coords": [14.511163, 45.116788]}, {"name": "Glagolica park", "text": "Un parc în Malinska dedicat alfabetului glagolitic, decorat cu monumente de piatră.", "category": "historical", "coords": [14.562184, 45.114546]}, {"name": "Luna Park", "text": "Un mic parc de distracții în Malinska, oferind diverse atracții pentru copii.", "category": "recreational", "coords": [14.527552, 45.127636]}, {"name": "Grota", "text": "O plajă stâncoasă naturală lângă Malinska, apreciată pentru apa sa limpede.", "category": "recreational", "coords": [14.526357, 45.129867]}, {"name": "FKK Rajska cesta", "text": "O secțiune de plajă naturistă liniștită pe promenada împădurită Rajska din Malinska.", "category": "recreational", "coords": [14.527711, 45.140569]}, {"name": "Kompas", "text": "Un monument nautic în centrul localității Malinska, servind ca punct de întâlnire.", "category": "historical", "coords": [14.504593, 45.115672]}, {"name": "Guvno Rasopasno1", "text": "O arie de treierat tradițională din piatră în Malinska, păstrată ca monument cultural.", "category": "historical", "coords": [14.5628, 45.120993]}, {"name": "Guvno Rasopasno3", "text": "Rămășițele istorice ale unei foste arii de treierat agricole de lângă Malinska.", "category": "historical", "coords": [14.564553, 45.12298]}, {"name": "Guvno Rasopasno2", "text": "O structură veche din piatră lângă Malinska, folosită odinioară pentru treieratul cerealelor.", "category": "historical", "coords": [14.56181, 45.122809]}, {"name": "Guvno Rasopasno7", "text": "Ruinele unui loc de muncă rural tradițional din împrejurimile localității Malinska.", "category": "historical", "coords": [14.567473, 45.122094]}, {"name": "Guvno Rasopasno4", "text": "Ruinele unei arii de treierat tradiționale din piatră în satul Rasopasno, lângă Malinska.", "category": "historical", "coords": [14.563608, 45.122212]}, {"name": "Guvno Rasopasno8", "text": "O arie de treierat istorică din piatră în Rasopasno, folosită în trecut pentru procesarea cerealelor.", "category": "historical", "coords": [14.567309, 45.123535]}, {"name": "Guvno Rasopasno6", "text": "Ruinele unei vechi arii de treierat în Rasopasno, un monument din piatră al fostei agriculturi din Krk.", "category": "historical", "coords": [14.565133, 45.121522]}, {"name": "Cickini", "text": "Un sit arheologic important lângă Malinska, care adăpostește ruinele unui complex paleocreștin.", "category": "historical", "coords": [14.55141, 45.125919]}, {"name": "Portić", "text": "Un mic golf cu loc de scăldat în zona Malinska de pe insula Krk.", "category": "recreational", "coords": [14.524914, 45.123901]}, {"name": "Ponikve", "text": "Lacul Ponikve de lângă Malinska pe insula Krk este o bijuterie naturală care invită la plimbări lungi.", "category": "natural", "coords": [14.563596, 45.076044]}, {"name": "Njivice", "text": "Lacul Njivice de lângă Malinska Krk oferă o atmosferă liniștită pentru ore de relaxare pe malul apei.", "category": "natural", "coords": [14.56275, 45.169344]}], "en": [{"name": "Church of St. Apollinaris", "text": "A historic parish church located in the Bogovići area, serving as a central religious landmark for the community.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp", "coords": [14.606322, 45.164176]}, {"name": "Haludovo Palace Hotel", "text": "The ruins of a once-glamorous 1970s luxury hotel complex, now a haunting example of modernist architecture.", "category": "famous residences", "confidence": "medium", "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp", "coords": [14.527778, 45.131111]}, {"name": "Malinska Port", "text": "The vibrant heart of the town, filled with boats, seafood restaurants, and cafes along the Adriatic shore.", "category": "port", "confidence": "high", "image": "/poi-images/sights/malinska-hafen-von-malinska.webp", "coords": [14.529285, 45.123386]}, {"name": "Rova Beach", "text": "Rova Beach in Malinska on Krk is an inviting gravel beach known for its crystal-clear water. The quiet and family-friendly environment makes it an ideal destination for anyone seeking pure relaxation. Guests can enjoy peaceful swims or simply lounge under the gentle sun. It is a good idea to pack water shoes for a more comfortable walk across the pebbles.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/malinska-strand-rova.webp", "coords": [14.511163, 45.116788]}, {"name": "Glagolica park", "text": "A park in Malinska dedicated to the Glagolitic script with stone monuments.", "category": "historical", "coords": [14.562184, 45.114546]}, {"name": "Luna Park", "text": "A small amusement park in Malinska with various attractions for children.", "category": "recreational", "coords": [14.527552, 45.127636]}, {"name": "Grota", "text": "A natural rocky beach near Malinska, valued for its clear coastal waters.", "category": "recreational", "coords": [14.526357, 45.129867]}, {"name": "FKK Rajska cesta", "text": "A quiet nudist beach section on the forested Rajska promenade in Malinska.", "category": "recreational", "coords": [14.527711, 45.140569]}, {"name": "Kompas", "text": "A nautical-themed monument in the center of Malinska serving as a local landmark.", "category": "historical", "coords": [14.504593, 45.115672]}, {"name": "Guvno Rasopasno1", "text": "A traditional stone threshing floor in Malinska preserved as a cultural monument.", "category": "historical", "coords": [14.5628, 45.120993]}, {"name": "Guvno Rasopasno3", "text": "The historical remains of a former agricultural threshing floor near Malinska.", "category": "historical", "coords": [14.564553, 45.12298]}, {"name": "Guvno Rasopasno2", "text": "An old stone structure near Malinska once used for threshing grain.", "category": "historical", "coords": [14.56181, 45.122809]}, {"name": "Guvno Rasopasno7", "text": "Ruins of a traditional rural workspace in the surroundings of Malinska.", "category": "historical", "coords": [14.567473, 45.122094]}, {"name": "Guvno Rasopasno4", "text": "The ruins of a traditional circular stone threshing floor in the village of Rasopasno near Malinska.", "category": "historical", "coords": [14.563608, 45.122212]}, {"name": "Guvno Rasopasno8", "text": "A historical stone threshing floor in Rasopasno, formerly used for grain processing.", "category": "historical", "coords": [14.567309, 45.123535]}, {"name": "Guvno Rasopasno6", "text": "Remains of an old threshing floor in Rasopasno, a stone monument to Krk's former agriculture.", "category": "historical", "coords": [14.565133, 45.121522]}, {"name": "Cickini", "text": "An important archaeological site near Malinska featuring the ruins of an early Christian complex.", "category": "historical", "coords": [14.55141, 45.125919]}, {"name": "Portić", "text": "A small cove with a swimming area in the Malinska region on Krk island.", "category": "recreational", "coords": [14.524914, 45.123901]}, {"name": "Ponikve", "text": "The Ponikve lake near Malinska on Krk is a natural jewel that invites you for long walks.", "category": "natural", "coords": [14.563596, 45.076044]}, {"name": "Njivice", "text": "The Njivice lake near Malinska Krk offers a quiet atmosphere for relaxing hours by the water.", "category": "natural", "coords": [14.56275, 45.169344]}], "hr": [{"name": "Glagolica park", "text": "Park u Malinskoj posvećen glagoljičkom pismu s kamenim spomenicima.", "category": "historical", "coords": [14.562184, 45.114546]}, {"name": "Luna Park", "text": "Mali zabavni park u Malinskoj s raznim atrakcijama za djecu.", "category": "recreational", "coords": [14.527552, 45.127636]}, {"name": "Grota", "text": "Prirodna stjenovita plaža u blizini Malinske, cijenjena zbog čistog mora.", "category": "recreational", "coords": [14.526357, 45.129867]}, {"name": "FKK Rajska cesta", "text": "Mirna nudistička plaža na šumovitoj šetnici Rajska u Malinskoj.", "category": "recreational", "coords": [14.527711, 45.140569]}, {"name": "Kompas", "text": "Spomenik nautičke tematike u centru Malinske koji služi kao lokalna znamenitost.", "category": "historical", "coords": [14.504593, 45.115672]}, {"name": "Guvno Rasopasno1", "text": "Tradicionalno kameno guvno u Malinskoj sačuvano kao spomenik kulture.", "category": "historical", "coords": [14.5628, 45.120993]}, {"name": "Guvno Rasopasno3", "text": "Povijesni ostaci nekadašnjeg poljoprivrednog guvna u blizini Malinske.", "category": "historical", "coords": [14.564553, 45.12298]}, {"name": "Guvno Rasopasno2", "text": "Stara kamena struktura u blizini Malinske koja je nekada služila za vršidbu žita.", "category": "historical", "coords": [14.56181, 45.122809]}, {"name": "Guvno Rasopasno7", "text": "Ruševine tradicionalnog seoskog radnog prostora u okolici Malinske.", "category": "historical", "coords": [14.567473, 45.122094]}, {"name": "Guvno Rasopasno4", "text": "Ruševine tradicionalnog kamenog guvna u selu Rasopasno u blizini Malinske.", "category": "historical", "coords": [14.563608, 45.122212]}, {"name": "Guvno Rasopasno8", "text": "Povijesno kameno guvno u Rasopasnu, nekada korišteno za vršidbu žitarica.", "category": "historical", "coords": [14.567309, 45.123535]}, {"name": "Guvno Rasopasno6", "text": "Ostaci starog guvna u Rasopasnu, kameni spomenik nekadašnjoj poljoprivredi otoka Krka.", "category": "historical", "coords": [14.565133, 45.121522]}, {"name": "Cickini", "text": "Značajno arheološko nalazište u blizini Malinske s ostacima starokršćanskog kompleksa.", "category": "historical", "coords": [14.55141, 45.125919]}, {"name": "Portić", "text": "Mala uvala s kupalištem na području Malinske na otoku Krku.", "category": "recreational", "coords": [14.524914, 45.123901]}]}},
+  {"id": "lopud", "type": "city", "parent": "HR-19", "coords": [17.9483, 42.6856], "population": 220, "tier": 2, "name": {"de": "Lopud", "hu": "Lopud", "ro": "Lopud", "en": "Lopud"}, "description": {"de": "Lopud ist die charmanteste der Elaphiten-Inseln vor Dubrovnik, bekannt für ihre autofreien Gassen, üppigen Gärten und den berühmten Sandstrand Šunj.", "hu": "A Dubrovnik melletti Elaphiti-szigetek legnépszerűbb tagja, amely autómentes utcáiról, buja szubtrópusi parkjairól és a hírneves Šunj homokos strandjáról ismert.", "ro": "Cea mai dezvoltată insulă din arhipelagul Elafite, Lopud este faimoasă pentru plaja sa cu nisip Šunj, grădinile botanice și absența mașinilor.", "en": "The most popular of the Elaphiti Islands near Dubrovnik, known for its car-free streets, lush subtropical gardens, and the famous sandy beach of Šunj."}, "facts": {"de": ["Völlig autofreie Insel", "Heimat des Sandstrandes Šunj", "Prächtiges Franziskanerkloster am Hafen", "Einstiges Zentrum für Dubrovniker Kapitäne", "Reich an subtropischer Vegetation", "Besitzt einen schönen botanischen Garten", "Nur eine Stunde per Fähre von Dubrovnik", "Zahlreiche mittelalterliche Kapellen"], "hu": ["A szigeten nincsenek autók", "Itt található a homokos Šunj strand", "Híres ferences kolostor áll a kikötőben", "Tengerészkapitányok egykori lakhelye", "Különleges botanikus kertje van", "Dubrovnikból menetrend szerinti hajóval elérhető", "Gazdag szubtrópusi növényzet (pálmák, kaktuszok)", "Számos reneszánsz nyaraló romja látható"], "ro": ["Insulă complet fără mașini", "Adăpostește plaja de nisip Šunj", "Mănăstire franciscană din secolul XV", "Fost centru important pentru căpitanii de navă", "Grădină botanică cu specii exotice", "O oră cu feribotul din portul Gruž", "Peste 30 de biserici și capele vechi", "Atmosferă relaxată și mediteraneană"], "en": ["Completely car-free island", "Home to the famous sandy Šunj Beach", "Iconic 15th-century Franciscan monastery", "Former retreat for Dubrovnik's sea captains", "Features a beautiful botanical garden", "A 1-hour ferry ride from Dubrovnik", "Rich in exotic Mediterranean vegetation", "Boasts many ruins of Renaissance villas"]}, "image": "/poi-images/lopud.webp", "imageHint": "Lopud harbor with its stone houses and the monastery tower", "descriptionAdvanced": {"de": "Lopud gilt als das Juwel der Elaphiten-Inseln und ist ein Ort, an dem die Zeit stehen geblieben scheint. Da auf der gesamten Insel keine Autos erlaubt sind, herrscht eine außergewöhnliche Ruhe, die nur vom Rauschen des Meeres unterbrochen wird. Das gleichnamige Dorf schmiegt sich an eine weite Bucht und ist geprägt von prächtigen Steinhäusern und dem markanten Glockenturm des Franziskanerklosters aus dem 15. Jahrhundert. Einst war Lopud ein bedeutendes maritimes Zentrum; im 16. Jahrhundert besaß die Insel eine eigene Flotte von über 80 Schiffen. Diese wohlhabende Vergangenheit spiegelt sich in den Ruinen zahlreicher Paläste und Kapellen wider. Botanikliebhaber werden von den Gärten der Villa Giorgi begeistert sein, in denen exotische Pflanzen gedeihen, die Kapitäne von ihren Weltreisen mitbrachten. Auf der anderen Seite der Insel liegt die Bucht Šunj, einer der seltenen und schönsten Sandstrände der Region, der über einen bewaldeten Pfad zu Fuß oder mit kleinen Elektro-Carts erreichbar ist. Lopud verbindet auf perfekte Weise aristokratische Geschichte mit entspanntem Inselleben.", "hu": "Lopud az Elaphiti-szigetcsoport középső és leglátogatottabb tagja, amely Dubrovnikból könnyen elérhető, mégis egy teljesen más világba repíti a látogatót. A sziget teljes területe autómentes, ami különleges békét és csendet kölcsönöz a településnek. A falu a kikötő körül épült ki, ahol masszív kőházak, elegáns reneszánsz paloták és a 15. századi monumentális ferences kolostor sorakoznak. Lopud aranykora a 16. századra tehető, amikor a szigetnek saját hajóhada volt, és több mint nyolcvan tengerjáró hajót birtokoltak a helyi tengerészek. Ennek a jólétnek az emlékét őrzik a kertek és a parkok, köztük a 19. századi botanikus kert, ahol a világ minden tájáról származó egzotikus növények virágoznak. A sziget legnagyobb vonzereje a déli oldalon fekvő Šunj-öböl, amelynek lassan mélyülő, finom homokos partja ritkaságszámba megy az Adria ezen szakaszán. A két oldalt egy fenyőerdőkkel övezett gyalogút köti össze, amelyen sétálva feltárul a sziget érintetlen természeti szépsége.", "ro": "Lopud este considerată cea mai fermecătoare insulă din grupul Elafite, situată la scurtă distanță de Dubrovnik. Absența vehiculelor motorizate transformă insula într-o oază de liniște, unde singurul sunet este cel al valurilor. Satul Lopud se întinde de-a lungul unui golf protejat, fiind dominat de silueta impunătoare a mănăstirii franciscane și a turnului său de pază din secolul al XV-lea. În secolul al XVI-lea, insula era un centru maritim de elită, deținând o flotă impresionantă de 80 de nave. Bogăția foștilor căpitani este vizibilă și astăzi în arhitectura vilelor nobiliare și în grădinile botanice luxuriante care adăpostesc palmieri, cactuși și arbori exotici aduși din colțurile îndepărtate ale lumii. Principala atracție turistică este plaja Šunj, situată pe partea opusă a portului, fiind una dintre puținele plaje cu nisip fin din zona Dubrovnikului. Un drum pitoresc prin păduri de pini leagă cele două părți ale insulei, oferind panorame superbe asupra mării Adriatice. Lopud este destinația ideală pentru cei care caută eleganță istorică și relaxare totală.", "en": "Lopud is often called the jewel of the Elaphiti Islands, offering a serene escape just a short boat ride from Dubrovnik. As the island is entirely car-free, it retains a peaceful, timeless atmosphere. The main village curves around a deep bay, lined with historic stone houses, Renaissance palaces, and a grand 15th-century Franciscan monastery that dominates the harbor. During its golden age in the 16th century, Lopud was a powerful maritime center with a fleet of over 80 ships. This wealthy past is still evident in the numerous ruins of noble villas and lush private gardens. The island is famous for its botanical heritage, particularly the 19th-century park established by the Giorgi-Mayneri family, featuring exotic plants brought home by local sea captains. On the southern coast lies the bay of Šunj, one of the most famous sandy beaches in southern Dalmatia, known for its shallow, warm waters and pine-fringed shore. Lopud perfectly balances aristocratic history with an effortless, sun-drenched island lifestyle."}, "factsAdvanced": ["Die Insel hat eine Fläche von etwa 4,6 Quadratkilometern", "Im 16. Jahrhundert lebten über 1.000 Menschen auf Lopud", "Das Franziskanerkloster wurde vor Kurzem aufwendig restauriert", "Lopud war die Sommerresidenz vieler Dubrovniker Adelsfamilien", "Es gibt keine Autos, nur kleine Elektro-Carts für den Transport", "Der botanische Garten beherbergt über 100 Arten exotischer Pflanzen"], "factsAdvanced_hu": ["A sziget területe körülbelül 4,6 négyzetkilométer", "A 16. században több mint 1000 lakosa volt a szigetnek", "A ferences kolostort nemrég alakították át luxusszállássá és múzeummá", "Lopudon több mint 30 középkori templom maradványa található", "A Šunj-öböl vize több száz méteren át csak térdig ér", "A szigeten forgatták a 'Fekete móló' című filmet is"], "factsAdvanced_ro": ["Insula are o suprafață de aproximativ 4,6 kilometri pătrați", "În perioada de glorie, Lopud avea peste 14.000 de locuitori (estimări vechi)", "Mănăstirea franciscană a fost fondată în anul 1483", "Există peste 30 de biserici și capele pe întreaga insulă", "Transportul se face pe jos sau cu vehicule electrice tip golf-cart", "Plaja Šunj este celebră pentru nisipul său alb și apele puțin adânci"], "factsAdvanced_en": ["The island covers an area of approximately 4.6 square kilometers", "In the 16th century, Lopud had its own shipyard and 80 ships", "The Franciscan monastery was built in 1483 and recently renovated", "There are 33 churches and chapels scattered across the island", "The only motorized transport allowed are small electric shuttle carts", "The botanical garden was founded by the Venetian family Giorgi"], "sights": {
+      "de": [
+            {
+                  "name": "Strand Šunj",
+                  "text": "Der Strand Šunj liegt in einer idyllischen Bucht auf der Südseite der Insel Lopud und gilt als einer der seltenen Sandstrände Kroatiens. Das flache Wasser sorgt für ein familienfreundliches, entspanntes Ambiente, das zum stundenlangen Planschen einlädt. Besucher können hier weiche Sandböden unter den Füßen genießen und unbeschwerte Sonnentage verbringen. Da der Strand besonders in der Hauptsaison sehr gefragt ist, lohnt sich eine frühe Ankunft.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-strand-unj.webp",
+                  "coords": [
+                        17.943642,
+                        42.684835
+                  ]
+            },
+            {
+                  "name": "Đorđić-Mayneri Park",
+                  "text": "Ein üppiger botanischer Garten aus dem 19. Jahrhundert mit exotischen Pflanzen, Palmen und schattigen Alleen direkt am Meer.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp",
+                  "coords": [
+                        17.942207,
+                        42.686957
+                  ]
+            },
+            {
+                  "name": "Rektorenpalast",
+                  "text": "Ehemaliger Sitz des ragusanischen Verwalters, ein historisches Steingebäude, das von der einstigen Bedeutung der Insel zeugt.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-rektorenpalast.webp",
+                  "coords": [
+                        17.943551,
+                        42.690568
+                  ]
+            },
+            {
+                  "name": "Grand Hotel",
+                  "text": "Ein Pionierbau der modernen Architektur aus den 1930er Jahren, das erste Hotel aus Stahlbeton an der adriatischen Küste.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-grand-hotel.webp",
+                  "coords": [
+                        17.941136,
+                        42.686521
+                  ]
+            },
+            {
+                  "name": "Utvrda Sutvrač",
+                  "text": "Eine historische Festung auf der Insel Lopud mit weitem Blick über die Adria.",
+                  "category": "fortress",
+                  "coords": [
+                        17.948918,
+                        42.689694
+                  ]
+            },
+            {
+                  "name": "Your Black Horizon Art Pavilion",
+                  "text": "Ein moderner Kunstpavillon auf Lopud, entworfen von Olafur Eliasson und David Adjaye.",
+                  "category": "cultural",
+                  "coords": [
+                        17.944945,
+                        42.688457
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein ausgewiesener Bereich für FKK-Baden auf der Insel Lopud.",
+                  "category": "recreational",
+                  "coords": [
+                        17.962294,
+                        42.680308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šunj-strand",
+                  "text": "A Šunj strand a Lopud sziget déli oldalán, egy idilli öbölben található, és Horvátország egyik ritka homokos partjaként tartják számon. A sekély víz családbarát, nyugodt környezetet biztosít, amely órákig tartó pancsolásra csábít. A látogatók élvezhetik a puha homokot a talpuk alatt, és gondtalan napsütéses napokat tölthetnek el itt. Mivel a főszezonban nagyon népszerű, érdemes korán érkezni.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-strand-unj.webp",
+                  "coords": [
+                        17.943642,
+                        42.684835
+                  ]
+            },
+            {
+                  "name": "Đorđić-Mayneri park",
+                  "text": "A 19. század végén alapított botanikus kert egzotikus növényekkel, bambuszokkal és hatalmas pálmákkal a tengerpart mentén.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp",
+                  "coords": [
+                        17.942207,
+                        42.686957
+                  ]
+            },
+            {
+                  "name": "Rektori palota",
+                  "text": "A Dubrovniki Köztársaság egykori közigazgatási székhelye a szigeten, patinás kőépület a kikötő közelében.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-rektorenpalast.webp",
+                  "coords": [
+                        17.943551,
+                        42.690568
+                  ]
+            },
+            {
+                  "name": "Grand Hotel",
+                  "text": "Az 1930-as években épült modernista hotel, amely a vasbeton építészet egyik első példája volt az adriai turizmusban.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-grand-hotel.webp",
+                  "coords": [
+                        17.941136,
+                        42.686521
+                  ]
+            },
+            {
+                  "name": "Utvrda Sutvrač",
+                  "text": "Történelmi erőd Lopud szigetén, ahonnan lenyűgöző kilátás nyílik az Adriai-tengerre.",
+                  "category": "fortress",
+                  "coords": [
+                        17.948918,
+                        42.689694
+                  ]
+            },
+            {
+                  "name": "Your Black Horizon Art Pavilion",
+                  "text": "Modern művészeti pavilon Lopud szigetén, Olafur Eliasson és David Adjaye alkotása.",
+                  "category": "cultural",
+                  "coords": [
+                        17.944945,
+                        42.688457
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Kijelölt naturista fürdőhely Lopud szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.962294,
+                        42.680308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Šunj",
+                  "text": "Plaja Šunj este situată într-un golf idilic pe partea de sud a insulei Lopud și este recunoscută ca una dintre rarele plaje cu nisip din Croația. Apa puțin adâncă creează o atmosferă relaxată, prietenoasă cu familiile, perfectă pentru ore de joacă în mare. Vizitatorii se pot bucura de senzația nisipului fin sub picioare, petrecând aici zile însorite și lipsite de griji. Deoarece este la mare căutare în plin sezon, se recomandă să ajungeți mai devreme.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-strand-unj.webp",
+                  "coords": [
+                        17.943642,
+                        42.684835
+                  ]
+            },
+            {
+                  "name": "Parcul Đorđić-Mayneri",
+                  "text": "O grădină botanică luxuriantă creată în secolul al XIX-lea, plină de specii exotice, pini mediteraneeni și alei umbroase.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp",
+                  "coords": [
+                        17.942207,
+                        42.686957
+                  ]
+            },
+            {
+                  "name": "Palatul Rectorului",
+                  "text": "Clădire istorică din piatră ce servea drept sediu administrativ al guvernatorului din Dubrovnik, martor al epocii de aur a insulei.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-rektorenpalast.webp",
+                  "coords": [
+                        17.943551,
+                        42.690568
+                  ]
+            },
+            {
+                  "name": "Grand Hotel",
+                  "text": "O capodoperă a arhitecturii moderniste timpurii din anii '30, fiind prima clădire de acest tip realizată din beton armat pe coastă.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-grand-hotel.webp",
+                  "coords": [
+                        17.941136,
+                        42.686521
+                  ]
+            },
+            {
+                  "name": "Utvrda Sutvrač",
+                  "text": "O fortăreață istorică pe insula Lopud, oferind o vedere panoramică asupra Mării Adriatice.",
+                  "category": "fortress",
+                  "coords": [
+                        17.948918,
+                        42.689694
+                  ]
+            },
+            {
+                  "name": "Your Black Horizon Art Pavilion",
+                  "text": "Un pavilion de artă modernă pe insula Lopud, creat de Olafur Eliasson și David Adjaye.",
+                  "category": "cultural",
+                  "coords": [
+                        17.944945,
+                        42.688457
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O zonă desemnată pentru nudism pe insula Lopud.",
+                  "category": "recreational",
+                  "coords": [
+                        17.962294,
+                        42.680308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šunj Beach",
+                  "text": "Šunj Beach is nestled in an idyllic bay on the southern side of the island of Lopud and is known as one of Croatia's rare sandy beaches. The shallow water ensures a family-friendly, relaxed atmosphere that invites visitors to splash around for hours. Guests can enjoy the soft sandy bottom under their feet and spend carefree sunny days by the sea. As the beach is highly popular during peak season, an early arrival is recommended.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-strand-unj.webp",
+                  "coords": [
+                        17.943642,
+                        42.684835
+                  ]
+            },
+            {
+                  "name": "Đorđić-Mayneri Park",
+                  "text": "A rich botanical garden established in the late 19th century, featuring exotic plants, palms, and citrus trees along the seafront.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-or-i-mayneri-park.webp",
+                  "coords": [
+                        17.942207,
+                        42.686957
+                  ]
+            },
+            {
+                  "name": "Rector's Palace",
+                  "text": "The former seat of the island's governor during the Republic of Ragusa, a fine example of traditional Dalmatian stone architecture.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-rektorenpalast.webp",
+                  "coords": [
+                        17.943551,
+                        42.690568
+                  ]
+            },
+            {
+                  "name": "Grand Hotel",
+                  "text": "A pioneering work of modern architecture from 1936, it was the first reinforced concrete hotel on the Adriatic coast.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopud-grand-hotel.webp",
+                  "coords": [
+                        17.941136,
+                        42.686521
+                  ]
+            },
+            {
+                  "name": "Utvrda Sutvrač",
+                  "text": "A historic fortress on Lopud island offering wide views over the Adriatic Sea.",
+                  "category": "fortress",
+                  "coords": [
+                        17.948918,
+                        42.689694
+                  ]
+            },
+            {
+                  "name": "Your Black Horizon Art Pavilion",
+                  "text": "A modern art pavilion on Lopud island, created by Olafur Eliasson and David Adjaye.",
+                  "category": "cultural",
+                  "coords": [
+                        17.944945,
+                        42.688457
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A designated FKK area for naturist bathing on the island of Lopud.",
+                  "category": "recreational",
+                  "coords": [
+                        17.962294,
+                        42.680308
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Šunj",
+                  "text": "Poznata pješčana plaža smještena na južnoj strani otoka Lopuda.",
+                  "category": "recreational",
+                  "coords": [
+                        17.951997,
+                        42.679926
+                  ]
+            },
+            {
+                  "name": "Utvrda Sutvrač",
+                  "text": "Povijesna utvrda na otoku Lopudu s koje se pruža pogled na Jadransko more.",
+                  "category": "fortress",
+                  "coords": [
+                        17.948918,
+                        42.689694
+                  ]
+            },
+            {
+                  "name": "Your Black Horizon Art Pavilion",
+                  "text": "Moderni umjetnički paviljon na Lopudu, djelo Olafur Eliassona i Davida Adjayea.",
+                  "category": "cultural",
+                  "coords": [
+                        17.944945,
+                        42.688457
+                  ]
+            }
+      ]
+}},
+  {"id": "malinska", "type": "city", "parent": "HR-08", "coords": [14.53, 45.1247], "population": 3137, "tier": 2, "name": {"de": "Malinska (Krk)", "hu": "Malinska (Krk)", "ro": "Malinska (Krk)", "en": "Malinska (Krk)"}, "description": {"de": "Ein malerischer Ferienort an der Nordwestküste der Insel Krk, bekannt für seine geschützten Buchten, die üppige Vegetation und die langen Spazierwege direkt am Adriatischen Meer.", "hu": "A Krk-sziget északnyugati partján fekvő népszerű üdülőváros, amely kristálytiszta öbleiről, mediterrán parkjairól és a dubašnicai térség gazdag történelmi emlékeiről ismert.", "ro": "O stațiune pitorească pe coasta de nord-vest a insulei Krk, renumită pentru golfurile sale adăpostite, vegetația luxuriantă și lungile promenade de-a lungul Mării Adriatice.", "en": "A picturesque resort town on the northwestern coast of Krk Island, famous for its sheltered bays, lush Mediterranean vegetation, and long seaside promenades along the Adriatic."}, "facts": {"de": ["Insel Krk", "Region Dubašnica", "3137 Einwohner", "Mildes Klima", "Kiesstrände", "Ehemaliger Holzhafen", "Rajska cesta Pfad", "Nähe zum Flughafen Rijeka"], "hu": ["Krk-sziget része", "Dubašnica régió", "3137 lakos", "Enyhe mediterrán klíma", "Kavicsos strandok", "Egykori kikötőváros", "Paradicsom-út sétány", "Rijeka repülőtér közelében"], "ro": ["Insula Krk", "Regiunea Dubašnica", "3137 locuitori", "Climat mediteranean", "Plaje cu pietriș", "Fost port comercial", "Promenada Rajska cesta", "Aproape de aeroportul Rijeka"], "en": ["Krk Island location", "Dubašnica region", "3137 residents", "Mild Mediterranean climate", "Pebble beaches", "Former timber port", "Paradise Road walk", "Near Rijeka airport"]}, "image": "/poi-images/malinska.webp", "imageHint": "Malinska harbor and waterfront promenade on Krk island Croatia", "descriptionAdvanced": {"de": "Malinska ist eines der begehrtesten Touristenzentren auf der Insel Krk, tief gelegen in der geschützten Bucht von Dubašnica. Die Geschichte des Ortes ist eng mit dem Meer und dem Holzhandel verbunden; im 19. Jahrhundert diente er als wichtiger Hafen für die Verschiffung von Holz aus dem Inselinneren der Insel Krk. Der Tourismusboom begann im frühen 20. Jahrhundert, als der österreichisch-ungarische Adel das milde Klima und die üppige Vegetation der Gegend entdeckte.\n\nNördlich der Stadt befinden sich die Ruinen des berüchtigten Hotelkomplexes Haludovo, der in den 1970er Jahren ein Symbol für internationalen Luxus war und heute als 'Lost Place' Abenteurer anzieht. Heute empfängt Malinska seine Besucher mit modernisierten Promenaden, exzellenten Restaurants mit fangfrischem Fisch und zahlreichen gepflegten Kiesstränden. Die Stadt ist zudem ein idealer Ausgangspunkt für Wanderungen durch die umliegenden Olivenhaine und Eichenwälder, während das nahe gelegene Kloster Porat das mittelalterliche glagolitische Erbe der Region bewahrt.", "hu": "Malinska a Krk-sziget egyik legkeresettebb turisztikai központja, amely a védett Dubašnica-öböl mélyén húzódik meg. A település története szorosan összefonódott a tengerrel és a fakitermeléssel; a 19. században fontos kikötőként szolgált, ahol a sziget belsejéből származó fát rakodták hajókra. A turizmus fellendülése a 20. század elején kezdődött, amikor az osztrák-magyar nemesség felfedezte a környék enyhe éghajlatát és buja növényzetét.\n\nA várostól északra található a hírhedt Haludovo-szállodakomplexum romos épületegyüttese, amely az 1970-es években még a nemzetközi luxus szimbóluma volt, mára azonban a modern kori pusztulás látványos mementója. Malinska ma modern sétányokkal, kiváló tengeri éttermekkel és számos gondozott kavicsos stranddal várja a látogatókat, miközben a közeli Porat kolostora a vidék középkori Glagolita örökségét őrzi. A település különösen kedvelt a családok körében a lassan mélyülő öblök és a kiterjedt fenyvesek által nyújtott árnyék miatt.", "ro": "Malinska este unul dintre cele mai căutate centre turistice de pe insula Krk, situat în adâncul golfului adăpostit Dubašnica. Istoria orașului este strâns legată de mare și de comerțul cu lemn; în secolul al XIX-lea, a servit ca port vital pentru transportul lemnului din interiorul insulei către restul Adriaticei. Boom-ul turistic a început la începutul secolului XX, când nobilimea austro-ungară a descoperit clima blândă și vegetația luxuriantă a zonei.\n\nLa nord de oraș se află ruinele infamului complex hotelier Haludovo, care a fost un simbol al luxului internațional în anii 1970, fiind astăzi un loc fascinant pentru exploratorii urbani. Astăzi, Malinska își întâmpină vizitatorii cu promenade moderne, restaurante excelente care servesc specialități locale și numeroase plaje cu pietriș bine întreținute. Orașul este, de asemenea, un punct de plecare ideal pentru drumeții prin livezile de măslini din jur, în timp ce mănăstirea Porat din apropiere păstrează moștenirea glagolitică medievală unică a regiunii.", "en": "Malinska is one of the most popular tourist centers on Krk Island, nestled deep within the sheltered Dubašnica Bay. The town's history is closely tied to the sea and the timber trade; in the 19th century, it served as a vital port for shipping wood harvested from the island's lush interior. The tourism boom began in the early 20th century when the Austro-Hungarian nobility discovered the area's exceptionally mild climate and diverse vegetation.\n\nTo the north of the town lie the ruins of the infamous Haludovo hotel complex, which was a symbol of international luxury in the 1970s but now stands as a hauntingly beautiful monument to past opulence. Today, Malinska welcomes visitors with modern seaside promenades, excellent seafood restaurants, and numerous well-kept pebble beaches. The town is also a perfect base for exploring the surrounding olive groves and oak forests, while the nearby Franciscan monastery in Porat preserves the region's medieval Glagolitic heritage and cultural identity."}, "factsAdvanced": {"de": ["Das Hafendamm-Projekt von 1866 markierte den Beginn von Malinska als wichtigem Exporthafen für Eichenholz.", "Der 'Paradiesweg' (Rajska cesta) führt über 6 Kilometer direkt am Meer entlang bis zum Nachbarort Njivice.", "Das ehemalige Haludovo Palace Hotel wurde 1972 mit einer Investition von rund 45 Millionen Dollar eröffnet.", "Die Gemeinde Dubašnica, deren Zentrum Malinska ist, umfasst insgesamt 21 kleinere Siedlungen.", "Das Kloster von Porat beherbergt ein Museum mit bedeutenden glagolitischen Steinschriften aus dem 15. Jahrhundert.", "Während der Sommersaison steigt die Anzahl der Personen im Ort durch Touristen oft auf über 25.000 an."], "hu": ["A település kikötőjének 1866-os kiépítése tette lehetővé a tölgyfa tömeges exportját a szigetről.", "A 'Paradicsom-út' (Rajska cesta) egy 6 kilométer hosszú, tengerparti sétány, amely Malinskát Njivicével köti össze.", "Az 1972-ben megnyitott Haludovo Palace Hotel építése akkori áron több mint 45 millió dollárba került.", "Dubašnica község, amelynek Malinska a központja, összesen 21 kisebb falut foglal magában.", "A porati Szent Mária Magdolna-kolostor múzeuma 15. századi Glagolita kőemlékeket és kéziratokat őriz.", "A főszezonban a város és környékének lélekszáma a vendégéjszakák alapján gyakran meghaladja a 25.000 főt."], "ro": ["Construcția digului portuar în 1866 a marcat începutul dezvoltării orașului ca port major de export pentru lemnul de stejar.", "Drumul Paradisului (Rajska cesta) este o promenadă de 6 kilometri care leagă Malinska de localitatea vecină Njivice.", "Hotelul Haludovo Palace, deschis în 1972, a reprezentat o investiție masivă de aproximativ 45 de milioane de dolari.", "Comuna Dubašnica, administrată din Malinska, este compusă dintr-un total de 21 de sate și așezări mici.", "Mănăstirea din Porat găzduiește un muzeu cu inscripții glagolitice valoroase datând din secolul al XV-lea.", "Populația localității crește de la 3.000 la peste 25.000 de persoane în vârful sezonului turistic de vară."], "en": ["The construction of the harbor pier in 1866 marked the start of Malinska's era as a key timber export hub.", "The 'Paradise Road' (Rajska cesta) is a scenic 6-kilometer coastal promenade connecting Malinska to Njivice.", "The Haludovo Palace Hotel, opened in 1972, was built with an investment of approximately 45 million dollars.", "The Dubašnica municipality, centered in Malinska, consists of a total of 21 smaller villages and hamlets.", "The monastery in nearby Porat houses a museum featuring rare Glagolitic stone inscriptions from the 15th century.", "During the peak summer season, the town's effective population often swells to over 25,000 people due to tourism."]}, "sights": {
+      "de": [
+            {
+                  "name": "Kirche des Hl. Apollinaris",
+                  "text": "Diese historische Pfarrkirche in Bogovići ist ein bedeutendes religiöses Zentrum mit einem markanten Glockenturm.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp",
+                  "coords": [
+                        14.606322,
+                        45.164176
+                  ]
+            },
+            {
+                  "name": "Haludovo Palasthotel",
+                  "text": "Die Ruinen eines einst luxuriösen Hotelkomplexes aus den 1970er Jahren, heute ein faszinierendes Beispiel für moderne Architektur.",
+                  "category": "famous residences",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp",
+                  "coords": [
+                        14.527778,
+                        45.131111
+                  ]
+            },
+            {
+                  "name": "Hafen von Malinska",
+                  "text": "Das pulsierende Herz des Ortes mit zahlreichen Booten, Restaurants und Cafés direkt an der Adria-Promenade.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-hafen-von-malinska.webp",
+                  "coords": [
+                        14.529285,
+                        45.123386
+                  ]
+            },
+            {
+                  "name": "Strand Rova",
+                  "text": "Der Strand Rova in Malinska auf Krk ist ein einladender Kiesstrand, der für sein kristallklares Wasser bekannt ist. Die ruhige und familienfreundliche Umgebung macht ihn zu einem idealen Ziel für alle, die pure Erholung suchen. Gäste können hier entspannte Schwimmrunden drehen oder einfach in der sanften Sonne verweilen. Es empfiehlt sich, Badeschuhe für den angenehmen Gang über die Kieselsteine einzupacken.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-strand-rova.webp",
+                  "coords": [
+                        14.511163,
+                        45.116788
+                  ]
+            },
+            {
+                  "name": "Glagolica park",
+                  "text": "Ein Park in Malinska, der mit Steindenkmälern dem glagolitischen Alphabet gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.562184,
+                        45.114546
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Ein kleiner Vergnügungspark in Malinska mit verschiedenen Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527552,
+                        45.127636
+                  ]
+            },
+            {
+                  "name": "Grota",
+                  "text": "Ein natürlicher Felsstrand in der Nähe von Malinska, geschätzt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526357,
+                        45.129867
+                  ]
+            },
+            {
+                  "name": "FKK Rajska cesta",
+                  "text": "Ein ruhiger FKK-Strandabschnitt an der bewaldeten Rajska-Promenade in Malinska.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527711,
+                        45.140569
+                  ]
+            },
+            {
+                  "name": "Kompas",
+                  "text": "Ein nautisches Denkmal im Zentrum von Malinska, das als lokaler Treffpunkt dient.",
+                  "category": "historical",
+                  "coords": [
+                        14.504593,
+                        45.115672
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno1",
+                  "text": "Ein traditioneller steinerner Dreschplatz in Malinska, der als Kulturdenkmal erhalten wurde.",
+                  "category": "historical",
+                  "coords": [
+                        14.5628,
+                        45.120993
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno3",
+                  "text": "Die historischen Überreste eines ehemaligen landwirtschaftlichen Dreschplatzes bei Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.564553,
+                        45.12298
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno2",
+                  "text": "Eine alte steinerne Struktur in der Nähe von Malinska, die einst zum Dreschen von Getreide diente.",
+                  "category": "historical",
+                  "coords": [
+                        14.56181,
+                        45.122809
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno7",
+                  "text": "Ruinen eines traditionellen ländlichen Arbeitsplatzes in der Umgebung von Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.567473,
+                        45.122094
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno4",
+                  "text": "Die Ruinen eines traditionellen runden Dreschplatzes aus Stein im Dorf Rasopasno bei Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.563608,
+                        45.122212
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno8",
+                  "text": "Ein historischer steinerner Dreschplatz in Rasopasno, der früher für die Getreideverarbeitung genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        14.567309,
+                        45.123535
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno6",
+                  "text": "Überreste eines alten Guvno in Rasopasno, ein steinernes Denkmal der ehemaligen Landwirtschaft von Krk.",
+                  "category": "historical",
+                  "coords": [
+                        14.565133,
+                        45.121522
+                  ]
+            },
+            {
+                  "name": "Cickini",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte bei Malinska mit den Ruinen eines frühchristlichen Komplexes.",
+                  "category": "historical",
+                  "coords": [
+                        14.55141,
+                        45.125919
+                  ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Eine kleine Bucht mit Badestelle im Gebiet von Malinska auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Der See Ponikve bei Malinska auf Krk ist ein Naturjuwel, das zu ausgedehnten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Der See Njivice bei Malinska Krk bietet eine ruhige Atmosphäre für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Draga",
+                  "text": "Ein malerischer Strand in Malinska (Krk), ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522452,
+                        45.119854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Apollináris-templom",
+                  "text": "Bogovići településrészen található plébániatemplom, amely a környék egyik legfontosabb szakrális építménye.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp",
+                  "coords": [
+                        14.606322,
+                        45.164176
+                  ]
+            },
+            {
+                  "name": "Haludovo szállodakomplexum",
+                  "text": "Az 1970-es évek egykori luxusszállodájának romjai, amely ma különleges látványt nyújt az urbex kedvelőinek.",
+                  "category": "famous residences",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp",
+                  "coords": [
+                        14.527778,
+                        45.131111
+                  ]
+            },
+            {
+                  "name": "Malinskai kikötő",
+                  "text": "A település központi része, ahol hangulatos éttermek, hajók és élénk éjszakai élet fogadja a látogatókat.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-hafen-von-malinska.webp",
+                  "coords": [
+                        14.529285,
+                        45.123386
+                  ]
+            },
+            {
+                  "name": "Rova strand",
+                  "text": "A Krk-szigeti Malinskában található Rova strand egy hívogató kavicsos part, amely kristálytiszta vizéről ismert. A nyugodt és családbarát környezet ideális célponttá teszi azok számára, akik tiszta kikapcsolódásra vágynak. A vendégek itt pihentető úszásokat tehetnek, vagy egyszerűen csak elidőzhetnek a lágy napsütésben. A kavicsokon való kényelmes sétához érdemes fürdőcipőt is csomagolni.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-strand-rova.webp",
+                  "coords": [
+                        14.511163,
+                        45.116788
+                  ]
+            },
+            {
+                  "name": "Glagolica park",
+                  "text": "Malinskában található park, amely kőemlékekkel tiszteleg a glagolita ábécé előtt.",
+                  "category": "historical",
+                  "coords": [
+                        14.562184,
+                        45.114546
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Kisméretű vidámpark Malinskában, amely különböző játékokat kínál a gyermekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527552,
+                        45.127636
+                  ]
+            },
+            {
+                  "name": "Grota",
+                  "text": "Természetes, sziklás strand Malinska közelében, amely tiszta vize miatt kedvelt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526357,
+                        45.129867
+                  ]
+            },
+            {
+                  "name": "FKK Rajska cesta",
+                  "text": "Csendes naturista strand szakasz a Malinska melletti erdős Rajska sétányon.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527711,
+                        45.140569
+                  ]
+            },
+            {
+                  "name": "Kompas",
+                  "text": "Hajózási témájú emlékmű Malinska központjában, amely helyi találkozóhely.",
+                  "category": "historical",
+                  "coords": [
+                        14.504593,
+                        45.115672
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno1",
+                  "text": "Hagyományos kőből épült cséplőhely Malinskában, amely kulturális emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        14.5628,
+                        45.120993
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno3",
+                  "text": "Egy egykori mezőgazdasági cséplőhely történelmi maradványai Malinska közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.564553,
+                        45.12298
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno2",
+                  "text": "Régi kőépítmény Malinska környékén, amely egykor gabonacséplésre szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        14.56181,
+                        45.122809
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno7",
+                  "text": "Egy hagyományos vidéki munkahely romjai Malinska környékén.",
+                  "category": "historical",
+                  "coords": [
+                        14.567473,
+                        45.122094
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno4",
+                  "text": "Egy hagyományos kőből készült, kör alakú cséplőhely romjai Rasopasno faluban, Malinska közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.563608,
+                        45.122212
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno8",
+                  "text": "Történelmi kő cséplőhely Rasopasno területén, amelyet egykor gabonafeldolgozásra használtak.",
+                  "category": "historical",
+                  "coords": [
+                        14.567309,
+                        45.123535
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno6",
+                  "text": "Egy régi cséplőhely maradványai Rasopasnóban, amely Krk egykori mezőgazdaságának kőemléke.",
+                  "category": "historical",
+                  "coords": [
+                        14.565133,
+                        45.121522
+                  ]
+            },
+            {
+                  "name": "Cickini",
+                  "text": "Jelentős régészeti lelőhely Malinska közelében, egy kora keresztény templomkomplexum romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        14.55141,
+                        45.125919
+                  ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Kis öböl fürdőhellyel Malinska környékén, Krk szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "A Krk szigeti Malinska melletti Ponikve tó egy természeti ékszerdoboz, amely hosszú sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "A Malinska Krk melletti Njivice tó csendes légkört kínál a vízparton eltöltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Draga",
+                  "text": "Festői tengerpart Malinska (Krk) területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522452,
+                        45.119854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Apolinarie",
+                  "text": "Această biserică parohială din Bogovići este un punct de reper spiritual important, având o arhitectură tradițională.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp",
+                  "coords": [
+                        14.606322,
+                        45.164176
+                  ]
+            },
+            {
+                  "name": "Complexul hotelier Haludovo",
+                  "text": "Ruinele unui fost hotel de lux din anii '70, reprezentând astăzi un exemplu fascinant de arhitectură modernistă abandonată.",
+                  "category": "famous residences",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp",
+                  "coords": [
+                        14.527778,
+                        45.131111
+                  ]
+            },
+            {
+                  "name": "Portul Malinska",
+                  "text": "Inima localității, unde ambarcațiunile și terasele creează o atmosferă vibrantă pe malul Adriaticii.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-hafen-von-malinska.webp",
+                  "coords": [
+                        14.529285,
+                        45.123386
+                  ]
+            },
+            {
+                  "name": "Plaja Rova",
+                  "text": "Plaja Rova din Malinska, pe insula Krk, este o plajă cu pietriș primitoare, renumită pentru apa sa cristalină. Mediul liniștit și familial o transformă într-o destinație ideală pentru toți cei care caută relaxare absolută. Oaspeții pot înota în voie sau se pot bucura pur și simplu de razele blânde ale soarelui. Este indicat să aduceți încălțăminte de apă pentru un mers mai confortabil pe pietriș.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-strand-rova.webp",
+                  "coords": [
+                        14.511163,
+                        45.116788
+                  ]
+            },
+            {
+                  "name": "Glagolica park",
+                  "text": "Un parc în Malinska dedicat alfabetului glagolitic, decorat cu monumente de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        14.562184,
+                        45.114546
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Un mic parc de distracții în Malinska, oferind diverse atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527552,
+                        45.127636
+                  ]
+            },
+            {
+                  "name": "Grota",
+                  "text": "O plajă stâncoasă naturală lângă Malinska, apreciată pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526357,
+                        45.129867
+                  ]
+            },
+            {
+                  "name": "FKK Rajska cesta",
+                  "text": "O secțiune de plajă naturistă liniștită pe promenada împădurită Rajska din Malinska.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527711,
+                        45.140569
+                  ]
+            },
+            {
+                  "name": "Kompas",
+                  "text": "Un monument nautic în centrul localității Malinska, servind ca punct de întâlnire.",
+                  "category": "historical",
+                  "coords": [
+                        14.504593,
+                        45.115672
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno1",
+                  "text": "O arie de treierat tradițională din piatră în Malinska, păstrată ca monument cultural.",
+                  "category": "historical",
+                  "coords": [
+                        14.5628,
+                        45.120993
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno3",
+                  "text": "Rămășițele istorice ale unei foste arii de treierat agricole de lângă Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.564553,
+                        45.12298
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno2",
+                  "text": "O structură veche din piatră lângă Malinska, folosită odinioară pentru treieratul cerealelor.",
+                  "category": "historical",
+                  "coords": [
+                        14.56181,
+                        45.122809
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno7",
+                  "text": "Ruinele unui loc de muncă rural tradițional din împrejurimile localității Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.567473,
+                        45.122094
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno4",
+                  "text": "Ruinele unei arii de treierat tradiționale din piatră în satul Rasopasno, lângă Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.563608,
+                        45.122212
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno8",
+                  "text": "O arie de treierat istorică din piatră în Rasopasno, folosită în trecut pentru procesarea cerealelor.",
+                  "category": "historical",
+                  "coords": [
+                        14.567309,
+                        45.123535
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno6",
+                  "text": "Ruinele unei vechi arii de treierat în Rasopasno, un monument din piatră al fostei agriculturi din Krk.",
+                  "category": "historical",
+                  "coords": [
+                        14.565133,
+                        45.121522
+                  ]
+            },
+            {
+                  "name": "Cickini",
+                  "text": "Un sit arheologic important lângă Malinska, care adăpostește ruinele unui complex paleocreștin.",
+                  "category": "historical",
+                  "coords": [
+                        14.55141,
+                        45.125919
+                  ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Un mic golf cu loc de scăldat în zona Malinska de pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Lacul Ponikve de lângă Malinska pe insula Krk este o bijuterie naturală care invită la plimbări lungi.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Lacul Njivice de lângă Malinska Krk oferă o atmosferă liniștită pentru ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Draga",
+                  "text": "O plajă pitorească în Malinska (Krk), ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522452,
+                        45.119854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of St. Apollinaris",
+                  "text": "A historic parish church located in the Bogovići area, serving as a central religious landmark for the community.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-kirche-des-hl-apollinaris.webp",
+                  "coords": [
+                        14.606322,
+                        45.164176
+                  ]
+            },
+            {
+                  "name": "Haludovo Palace Hotel",
+                  "text": "The ruins of a once-glamorous 1970s luxury hotel complex, now a haunting example of modernist architecture.",
+                  "category": "famous residences",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/malinska-haludovo-palasthotel.webp",
+                  "coords": [
+                        14.527778,
+                        45.131111
+                  ]
+            },
+            {
+                  "name": "Malinska Port",
+                  "text": "The vibrant heart of the town, filled with boats, seafood restaurants, and cafes along the Adriatic shore.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-hafen-von-malinska.webp",
+                  "coords": [
+                        14.529285,
+                        45.123386
+                  ]
+            },
+            {
+                  "name": "Rova Beach",
+                  "text": "Rova Beach in Malinska on Krk is an inviting gravel beach known for its crystal-clear water. The quiet and family-friendly environment makes it an ideal destination for anyone seeking pure relaxation. Guests can enjoy peaceful swims or simply lounge under the gentle sun. It is a good idea to pack water shoes for a more comfortable walk across the pebbles.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/malinska-strand-rova.webp",
+                  "coords": [
+                        14.511163,
+                        45.116788
+                  ]
+            },
+            {
+                  "name": "Glagolica park",
+                  "text": "A park in Malinska dedicated to the Glagolitic script with stone monuments.",
+                  "category": "historical",
+                  "coords": [
+                        14.562184,
+                        45.114546
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "A small amusement park in Malinska with various attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527552,
+                        45.127636
+                  ]
+            },
+            {
+                  "name": "Grota",
+                  "text": "A natural rocky beach near Malinska, valued for its clear coastal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526357,
+                        45.129867
+                  ]
+            },
+            {
+                  "name": "FKK Rajska cesta",
+                  "text": "A quiet nudist beach section on the forested Rajska promenade in Malinska.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527711,
+                        45.140569
+                  ]
+            },
+            {
+                  "name": "Kompas",
+                  "text": "A nautical-themed monument in the center of Malinska serving as a local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        14.504593,
+                        45.115672
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno1",
+                  "text": "A traditional stone threshing floor in Malinska preserved as a cultural monument.",
+                  "category": "historical",
+                  "coords": [
+                        14.5628,
+                        45.120993
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno3",
+                  "text": "The historical remains of a former agricultural threshing floor near Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.564553,
+                        45.12298
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno2",
+                  "text": "An old stone structure near Malinska once used for threshing grain.",
+                  "category": "historical",
+                  "coords": [
+                        14.56181,
+                        45.122809
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno7",
+                  "text": "Ruins of a traditional rural workspace in the surroundings of Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.567473,
+                        45.122094
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno4",
+                  "text": "The ruins of a traditional circular stone threshing floor in the village of Rasopasno near Malinska.",
+                  "category": "historical",
+                  "coords": [
+                        14.563608,
+                        45.122212
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno8",
+                  "text": "A historical stone threshing floor in Rasopasno, formerly used for grain processing.",
+                  "category": "historical",
+                  "coords": [
+                        14.567309,
+                        45.123535
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno6",
+                  "text": "Remains of an old threshing floor in Rasopasno, a stone monument to Krk's former agriculture.",
+                  "category": "historical",
+                  "coords": [
+                        14.565133,
+                        45.121522
+                  ]
+            },
+            {
+                  "name": "Cickini",
+                  "text": "An important archaeological site near Malinska featuring the ruins of an early Christian complex.",
+                  "category": "historical",
+                  "coords": [
+                        14.55141,
+                        45.125919
+                  ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "A small cove with a swimming area in the Malinska region on Krk island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "The Ponikve lake near Malinska on Krk is a natural jewel that invites you for long walks.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "The Njivice lake near Malinska Krk offers a quiet atmosphere for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Draga",
+                  "text": "A scenic beach in Malinska (Krk), ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522452,
+                        45.119854
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Glagolica park",
+                  "text": "Park u Malinskoj posvećen glagoljičkom pismu s kamenim spomenicima.",
+                  "category": "historical",
+                  "coords": [
+                        14.562184,
+                        45.114546
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Mali zabavni park u Malinskoj s raznim atrakcijama za djecu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527552,
+                        45.127636
+                  ]
+            },
+            {
+                  "name": "Grota",
+                  "text": "Prirodna stjenovita plaža u blizini Malinske, cijenjena zbog čistog mora.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526357,
+                        45.129867
+                  ]
+            },
+            {
+                  "name": "FKK Rajska cesta",
+                  "text": "Mirna nudistička plaža na šumovitoj šetnici Rajska u Malinskoj.",
+                  "category": "recreational",
+                  "coords": [
+                        14.527711,
+                        45.140569
+                  ]
+            },
+            {
+                  "name": "Kompas",
+                  "text": "Spomenik nautičke tematike u centru Malinske koji služi kao lokalna znamenitost.",
+                  "category": "historical",
+                  "coords": [
+                        14.504593,
+                        45.115672
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno1",
+                  "text": "Tradicionalno kameno guvno u Malinskoj sačuvano kao spomenik kulture.",
+                  "category": "historical",
+                  "coords": [
+                        14.5628,
+                        45.120993
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno3",
+                  "text": "Povijesni ostaci nekadašnjeg poljoprivrednog guvna u blizini Malinske.",
+                  "category": "historical",
+                  "coords": [
+                        14.564553,
+                        45.12298
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno2",
+                  "text": "Stara kamena struktura u blizini Malinske koja je nekada služila za vršidbu žita.",
+                  "category": "historical",
+                  "coords": [
+                        14.56181,
+                        45.122809
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno7",
+                  "text": "Ruševine tradicionalnog seoskog radnog prostora u okolici Malinske.",
+                  "category": "historical",
+                  "coords": [
+                        14.567473,
+                        45.122094
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno4",
+                  "text": "Ruševine tradicionalnog kamenog guvna u selu Rasopasno u blizini Malinske.",
+                  "category": "historical",
+                  "coords": [
+                        14.563608,
+                        45.122212
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno8",
+                  "text": "Povijesno kameno guvno u Rasopasnu, nekada korišteno za vršidbu žitarica.",
+                  "category": "historical",
+                  "coords": [
+                        14.567309,
+                        45.123535
+                  ]
+            },
+            {
+                  "name": "Guvno Rasopasno6",
+                  "text": "Ostaci starog guvna u Rasopasnu, kameni spomenik nekadašnjoj poljoprivredi otoka Krka.",
+                  "category": "historical",
+                  "coords": [
+                        14.565133,
+                        45.121522
+                  ]
+            },
+            {
+                  "name": "Cickini",
+                  "text": "Značajno arheološko nalazište u blizini Malinske s ostacima starokršćanskog kompleksa.",
+                  "category": "historical",
+                  "coords": [
+                        14.55141,
+                        45.125919
+                  ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Mala uvala s kupalištem na području Malinske na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
+            }
+      ]
+}},
   {"id": "medulin", "type": "city", "parent": "HR-18", "coords": [13.9239, 44.8233], "population": 6481, "tier": 2, "name": {"de": "Medulin", "hu": "Medulin", "ro": "Medulin", "en": "Medulin"}, "description": {"de": "Beliebtes Touristenzentrum an der Südspitze Istriens, bekannt für seine geschützte Bucht und den seltenen Sandstrand Bijeca in einer sonst felsigen Region.", "hu": "Az Isztriai-félsziget déli csücskén fekvő egykori halászfalu, amely mára a régió egyik legnépszerűbb üdülőhelyévé vált különleges homokos strandja révén.", "ro": "O destinație turistică vibrantă din sudul Istriei, renumită pentru plaja sa rară de nisip, Bijeca, și pentru parcul arheologic situat pe peninsula Vižula.", "en": "A premier tourist resort at the southern tip of Istria, famous for its rare sandy beach, Bijeca, and the significant Roman archaeological site at Vižula."}, "facts": {"de": ["Südspitze der Halbinsel Istrien", "Sandstrand Bijeca (über 1 km)", "Archäologischer Park Vižula", "Elf unbewohnte Inseln im Golf", "6.481 Einwohner (Stand 2021)", "Kirche St. Agnes mit zwei Türmen", "Wichtiger Windsurfing-Hotspot", "Ehemaliges kleines Fischerdorf"], "hu": ["Az Isztriai-félsziget déli csücske", "Bijeca, 1 km hosszú homokos strand", "Vižula régészeti park romjai", "Tizenegy lakatlan sziget az öbölben", "6481 fős állandó lakosság", "Kéttornyú Szent Ágnes-templom", "Népszerű vízisport-központ", "Egykori hagyományos halászfalu"], "ro": ["Extremitatea sudică a Istriei", "Plaja de nisip Bijeca (1 km)", "Parcul arheologic de pe Vižula", "11 insule nelocuite în golf", "Populație de 6.481 de locuitori", "Biserica Sfânta Agnes cu două turnuri", "Centru important pentru windsurfing", "Fost sat pescăresc tradițional"], "en": ["Southern tip of the Istrian peninsula", "Bijeca sandy beach (over 1 km long)", "Archaeological Park on Vižula peninsula", "Eleven uninhabited islands in the bay", "6,481 permanent residents", "St. Agnes Church with twin towers", "Popular hub for water sports", "Former traditional fishing village"]}, "image": "/poi-images/medulin.webp", "imageHint": "Aerial view of Medulin bay and Bijeca sandy beach", "descriptionAdvanced": {"de": "Medulin hat sich von einem bescheidenen Fischerdorf zu einem der wichtigsten Tourismuszentren im Süden der Halbinsel Istrien entwickelt. Die Stadt liegt in einer tief eingeschnittenen Bucht, die Schutz vor starken Winden bietet und ideale Bedingungen für den Wassersport schafft. Besonders hervorzuheben ist die Halbinsel Vižula, auf der sich ein bedeutender archäologischer Park befindet; hier können Besucher die Überreste einer luxuriösen römischen Villa aus der Zeit von Kaiser Konstantin besichtigen, die einst über beheizte Böden und prachtvolle Mosaike verfügte. Im Gegensatz zu vielen anderen kroatischen Küstenorten verfügt Medulin mit Bijeca über einen etwa einen Kilometer langen Sandstrand, der besonders bei Familien mit kleinen Kindern beliebt ist. Die Umgebung wird durch ein Archipel aus elf unbewohnten Inseln bereichert, die mit dem Boot leicht erreichbar sind und unberührte Natur abseits der touristischen Pfade bieten. Die moderne Infrastruktur umfasst zahlreiche Sportplätze, Tennisanlagen und Marinas, die den Ort ganzjährig für Aktivurlauber attraktiv machen. Die Silhouette des Ortes wird durch die markante Kirche der Heiligen Agnes geprägt, die als einzige in ganz Istrien zwei weiße Glockentürme besitzt und somit ein wichtiges Navigationsmerkmal für Seefahrer darstellt.", "hu": "Medulin az Isztriai-félsziget legdélebbi részén helyezkedik el, Pula szomszédságában. A település történelme egészen az ókorig nyúlik vissza, amiről a Vižula-félszigeten feltárt hatalmas római villagazdaság maradványai tanúskodnak, amely egykor padlófűtéssel és díszes mozaikokkal is rendelkezett Konstantin császár idején. Míg az adriai partvidék többsége sziklás, Medulin büszkélkedhet Horvátország egyik legismertebb homokos strandjával, a Bijecával, amely sekély vize miatt a kisgyermekes családok kedvence. A település előtt fekvő Medulini-öböl tizenegy lakatlan szigete, mint például Ceja vagy Bodulaš, népszerű kirándulóhely a hajósok számára, ahol kristálytiszta víz várja a búvárkodni vágyókat. A város látképét meghatározza a kéttornyú Szent Ágnes-templom, amely a falu legmagasabb pontján áll és messziről útmutatóul szolgál a tengeren közlekedőknek. Az egykori halászati hagyományokat ma már inkább a gasztronómia őrzi, a helyi éttermek híresek a friss tengeri ételekről, különösen a rákokról és az Isztriára jellemző szarvasgombás fogásokról. A modern Medulin pezsgő éjszakai élettel, jachtkikötővel és számos sportolási lehetőséggel várja a látogatókat, ideális helyszínt biztosítva az aktív és a pihentető nyaraláshoz egyaránt.", "ro": "Medulin este situat în extremitatea sudică a peninsulei Istria, la doar câțiva kilometri de orașul istoric Pula. Localitatea a evoluat spectaculos de la un sat tradițional de pescari la un centru turistic de top, fără a-și pierde însă farmecul mediteranean autentic. Unicitatea sa constă în plaja Bijeca, o fâșie de nisip de peste un kilometru lungime, un fenomen natural rar în peisajul predominant stâncos al coastei croate. Istoria bogată a locului este vizibilă în parcul arheologic de pe peninsula Vižula, unde se află ruinele unei vile rezidențiale romane din secolul al IV-lea, dotată odinioară cu sisteme ingenioase de încălzire și mozaicuri complexe care reflectă luxul epocii imperiale. Golful Medulin adăpostește un mic arhipelag de 11 insule nelocuite, precum Ceja sau Levan, oferind locuri izolate pentru înot și scufundări în ape de smarald. Orașul este dominat de silueta albă a bisericii Sfânta Agnes, singura din întreaga regiune Istria care dispune de două turnuri gemene identice. Infrastructura sportivă modernă, care include terenuri de fotbal și centre de windsurfing, face din Medulin o locație preferată atât pentru antrenamentele profesionale, cât și pentru amatorii de sporturi nautice care vizitează Croația în timpul verii.", "en": "Located at the southernmost point of the Istrian peninsula, Medulin has successfully transformed from a traditional fishing village into one of Croatia's most prominent tourist destinations. The town is situated within a deep, well-protected bay that serves as a natural harbor, sheltered from the strong open-sea winds. One of its most distinctive features is the Bijeca sandy beach, which stretches for over a kilometer and attracts families from across Europe due to its extremely shallow waters and fine sand. History enthusiasts can explore the Vižula peninsula, which houses a sprawling archaeological park featuring the well-preserved remains of a luxurious 4th-century Roman seaside villa associated with the era of Emperor Constantine. This ancient complex once featured advanced underfloor heating systems and intricate mosaics. The local skyline is defined by the twin white towers of the Church of St. Agnes, which stands as a unique architectural landmark in the Istrian landscape. The Medulin archipelago, consisting of eleven small uninhabited islands, offers a perfect escape for boaters and nature lovers seeking tranquility away from the vibrant main promenade. With its modern marinas and extensive sports facilities, the town remains an active hub for sailing, windsurfing, and athletic training throughout the year."}, "factsAdvanced": {"de": ["Der archäologische Park Vižula umfasst 24 Hektar römische Ruinen.", "Der Sandstrand Bijeca erstreckt sich über eine Länge von 1.100 Metern.", "Das Medulin-Archipel besteht aus insgesamt 11 unbewohnten Inseln.", "Die Gemeinde zählt 6.481 Einwohner laut der letzten Volkszählung.", "Die markanten Türme der St. Agnes Kirche wurden im Jahr 1894 vollendet.", "Jedes Jahr werden in Medulin über 2,5 Millionen Übernachtungen registriert."], "hu": ["A Vižula régészeti park 24 hektáron terül el a római kori romokkal.", "A Bijeca homokos strand teljes hossza eléri az 1100 métert.", "A Medulini-szigetcsoport összesen 11 kis lakatlan szigetből áll.", "A település állandó lakossága a legutóbbi népszámláláskor 6481 fő volt.", "A Szent Ágnes-templom jellegzetes ikertornyai 1894-ben készültek el.", "Medulin évente több mint 2,5 millió vendégéjszakát regisztrál."], "ro": ["Parcul arheologic Vižula se întinde pe 24 de hectare de vestigii romane.", "Plaja de nisip Bijeca are o lungime de aproximativ 1.100 de metri.", "Arhipelagul Medulin este format din 11 insule mici și nelocuite.", "Populația stabilă este de 6.481 de persoane conform ultimului recensământ.", "Turnurile gemene ale bisericii Sfânta Agnes au fost finalizate în 1894.", "Localitatea înregistrează anual peste 2,5 milioane de înnoptări turistice."], "en": ["The Vižula Archaeological Park covers 24 hectares of Roman remains.", "Bijeca sandy beach stretches for a total length of 1,100 meters.", "The Medulin archipelago consists of 11 small, uninhabited islands.", "The permanent population stands at 6,481 residents according to the census.", "The distinctive twin towers of St. Agnes Church were completed in 1894.", "Medulin records over 2.5 million tourist overnight stays annually."]}, "sights": {"de": [{"name": "Kirche der Heiligen Agnes", "text": "Die markante Kirche mit ihren zwei markanten Glockentürmen ist ein Wahrzeichen des Ortes und bietet einen weiten Blick über die Bucht.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/medulin-kirche-der-heiligen-agnes.webp", "coords": [13.938338, 44.822964]}, {"name": "Uferpromenade von Medulin", "text": "Die belebte Promenade lädt mit zahlreichen Restaurants, Cafés und Souvenirständen zum gemütlichen Flanieren direkt am Meer ein.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/medulin-uferpromenade-von-medulin.webp", "coords": [13.934532, 44.815727]}, {"name": "Bijeca", "text": "Der bekannteste Sandstrand in Medulin, der wegen seines flachen Wassers besonders bei Familien beliebt ist.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Strand Pomer", "text": "Der Strand Pomer bietet einen friedlichen Küstenabschnitt nahe dem kleinen Hafen in der Region Medulin. Fernab des großen Trubels herrscht hier eine ruhige, beinahe dörfliche Atmosphäre, die zur Entschleunigung einlädt. Besucher können entspannte Spaziergänge am Wasser unternehmen und im ruhigen Meer baden. Dieser Ort ist perfekt, um an warmen Nachmittagen einfach die Seele baumeln zu lassen.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "Ein lokaler Kiesstrand in Medulin, der kristallklares Wasser und eine entspannte Atmosphäre bietet.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "Ein naturbelassener Strandabschnitt bei Medulin, ideal für Besucher, die Ruhe abseits der Massen suchen.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Runke", "text": "Ein von Pinien gesäumter Strand in Medulin, der natürlichen Schatten und einen weiten Blick auf die Adria bietet.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Family park", "text": "Ein Vergnügungspark in Medulin mit verschiedenen Attraktionen und Karussells für Kinder und Familien.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Ein Naturzentrum in Medulin, das die Artenvielfalt der Halbinsel Kamenjak zeigt.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Camping Medulin Beach ist eine reizvolle Mischung aus Sand- und Kiesstrand auf dem weitläufigen Gelände des örtlichen Campingplatzes. Die Atmosphäre ist hier lebendig und familiär, geprägt vom geselligen Treiben der Urlauber. Das abwechslungsreiche Ufer lädt zu ausgelassenen Badestunden, dem Bauen von Sandburgen und Sonnenbädern ein. Für einen rundum gelungenen Tag empfiehlt es sich, Strandmatten und Sonnenschutz griffbereit zu haben.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "Ščuza", "text": "Ein beliebter lokaler Strand in Medulin, in der Nähe der Brücke nach Pomer.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Ein Archäologiepark auf einer Halbinsel mit den Überresten einer prächtigen römischen Villa.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Školjić", "text": "Ein Naturstrand bei Medulin mit kristallklarem Wasser und ruhiger Atmosphäre.", "category": "recreational", "coords": [13.920178, 44.797289]}, {"name": "Tašalera", "text": "Ein ruhiger Kiesstrand auf dem Gelände des Campingplatzes Tašalera bei Medulin.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "plaža Munte", "text": "Die plaža Munte in Premantura bei Medulin ist ein sorgfältig gepflegter Strandabschnitt mit barrierefreien Zugängen für sehbehinderte Menschen. Hier erwartet die Gäste eine ruhige, rücksichtsvolle Atmosphäre, die ganz auf Inklusion und Entspannung ausgerichtet ist. Man kann sich auf sicheres Schwimmen und gemütliches Verweilen am sauberen Küstenstreifen freuen. Dieser Ort ist ein wunderbares Beispiel für zugänglichen Badespaß und empfiehlt sich für entspannte Vormittage.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Aquapark Wibit Šćuza", "text": "Ein aufblasbarer Wasserpark im Meer am Strand Šćuza, ideal für Familien und Kinder.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Rudist", "text": "Eine skulpturale Attraktion in Medulin, die den prähistorischen Muschelfossilien gewidmet ist.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "Avion-vjetrokaz", "text": "Eine einzigartige Wetterfahne in Flugzeugform in der Nähe des Sportflughafens Medulin.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "Bakranjuša ist ein See in Medulin, der eine schöne Kulisse für Erholung im Freien bietet.", "category": "natural", "coords": [13.93063, 44.872056]}], "hu": [{"name": "Szent Ágnes-templom", "text": "A település jellegzetes két tornyú temploma a város felett magasodik, belső tere pedig értékes vallási emlékeket őriz.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/medulin-kirche-der-heiligen-agnes.webp", "coords": [13.938338, 44.822964]}, {"name": "Medulini sétány", "text": "A tengerparti sétány éttermekkel és üzletekkel várja a turistákat, este pedig a város társasági életének központjává válik.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/medulin-uferpromenade-von-medulin.webp", "coords": [13.934532, 44.815727]}, {"name": "Bijeca", "text": "Medulin legismertebb homokos strandja, amely sekély vize miatt különösen népszerű a családok körében.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "A Pomer strand egy békés partszakasz a medulini régióban, a kis kikötő közelében. A nagy nyüzsgéstől távol itt nyugodt, szinte falusias hangulat uralkodik, ami lelassulásra csábít. A látogatók pihentető sétákat tehetnek a vízparton, és megfürödhetnek a csendes tengerben. Ez a hely tökéletes arra, hogy a meleg délutánokon egyszerűen csak kikapcsolódjunk.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "Helyi kavicsos strand Medulinban, amely kristálytiszta vizet és nyugodt légkört kínál.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "Természetközeli tengerparti szakasz Medulinnál, ideális a tömegektől távolabb pihenni vágyóknak.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Runke", "text": "Fenyőfákkal szegélyezett strand Medulinban, amely természetes árnyékot és tágas kilátást nyújt az Adriára.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Family park", "text": "Vidámpark Medulinban, amely különféle játékokkal és körhintákkal várja a gyermekeket és családokat.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Természetvédelmi látogatóközpont Medulinban, amely a Kamenjak-félsziget élővilágát mutatja be.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "A Camping Medulin Beach a homokos és kavicsos partok bájos keveréke, amely a helyi kemping tágas területén található. A hangulat élénk és családias, a nyaralók vidám nyüzsgése jellemzi. A változatos partszakasz önfeledt fürdőzésre, homokvár-építésre és napozásra hívogat. Egy igazán sikeres naphoz érdemes a strandgyékényt és a naptejet a kezünk ügyében tartani.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "Ščuza", "text": "Népszerű helyi strand Medulinban, a Pomer felé vezető híd közelében.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Régészeti park egy félszigeten, egy impozáns római villa maradványaival.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Školjić", "text": "Természetes strand Medulin környékén, kristálytiszta vízzel és nyugodt környezettel.", "category": "recreational", "coords": [13.920178, 44.797289]}, {"name": "Tašalera", "text": "Nyugodt kavicsos strand a Medulin melletti Tašalera kempingben.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "plaža Munte", "text": "A Medulin melletti Premanturában található plaža Munte egy gondosan karbantartott partszakasz, amely akadálymentesített a látássérültek számára. A vendégeket itt csendes, figyelmes légkör fogadja, amely teljes mértékben az inklúzióra és a pihenésre összpontosít. A látogatók biztonságos fürdőzésre és kellemes időtöltésre számíthatnak a tiszta parton. Ez a hely a hozzáférhető strandolás csodálatos példája, és különösen a nyugodt délelőttökre ajánlott.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Aquapark Wibit Šćuza", "text": "Felfújható vízi vidámpark a tengeren a Šćuza strandon, családoknak és gyerekeknek.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Rudist", "text": "Medulini szobor, amelyet az Isztrián talált őskori kagylókövületek emlékére emeltek.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "Avion-vjetrokaz", "text": "Különleges repülőgép alakú szélkakas a medulini sportrepülőtér közelében.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "A Medulinban található Bakranjuša tó gyönyörű tájjal várja a kikapcsolódni vágyókat.", "category": "natural", "coords": [13.93063, 44.872056]}], "ro": [{"name": "Biserica Sfânta Agnes", "text": "Biserica distinctivă cu două turnuri clopotniță este un simbol al localității și oferă o vedere panoramică asupra golfului.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/medulin-kirche-der-heiligen-agnes.webp", "coords": [13.938338, 44.822964]}, {"name": "Promenada din Medulin", "text": "O zonă pietonală animată, plină de restaurante și terase, unde turiștii se pot bucura de briza mării și de atmosfera locală.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/medulin-uferpromenade-von-medulin.webp", "coords": [13.934532, 44.815727]}, {"name": "Bijeca", "text": "Cea mai faimoasă plajă cu nisip din Medulin, fiind deosebit de populară pentru familii datorită apei puțin adânci.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "Plaja Pomer oferă o porțiune pașnică de coastă lângă micul port din regiunea Medulin. Departe de agitația mare, aici domnește o atmosferă liniștită, aproape rurală, care te îndeamnă la relaxare. Vizitatorii se pot plimba pe îndelete de-a lungul apei și se pot bucura de o baie în marea calmă. Acest loc este perfect pentru a te detașa și a te relaxa într-o după-amiază călduroasă.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "O plajă locală cu pietriș în Medulin, oferind apă cristalină și o atmosferă relaxată.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "O zonă de plajă naturală lângă Medulin, ideală pentru vizitatorii care caută liniște departe de mulțime.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Runke", "text": "O plajă mărginită de pini în Medulin, oferind umbră naturală și o vedere largă asupra Adriaticii.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Family park", "text": "Un parc de distracții în Medulin, cu diverse atracții și carusele pentru copii și familii.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Un centru de informare despre natură din Medulin care prezintă biodiversitatea peninsulei Kamenjak.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Camping Medulin Beach este un amestec fermecător de nisip și pietriș, situat pe terenul spațios al campingului local. Atmosfera de aici este plină de viață și familiară, marcată de bucuria turiștilor aflați în vacanță. Țărmul variat invită la ore distractive de înot, construcția castelelor de nisip și plajă. Pentru o zi pe deplin reușită, se recomandă să aveți la îndemână rogojini și protecție solară.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "Ščuza", "text": "O plajă locală populară în Medulin, situată lângă podul spre Pomer.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Un parc arheologic pe o peninsulă, ce adăpostește vestigiile unei vile romane grandioase.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Školjić", "text": "O plajă naturală în zona Medulin, cu apă cristalină și o atmosferă liniștită.", "category": "recreational", "coords": [13.920178, 44.797289]}, {"name": "Tašalera", "text": "O plajă liniștită cu pietriș situată în complexul Tašalera lângă Medulin.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "plaža Munte", "text": "Plaža Munte din Premantura, lângă Medulin, este o zonă de plajă atent întreținută, având facilități adaptate pentru persoanele cu deficiențe de vedere. Oaspeții sunt întâmpinați de o atmosferă liniștită și respectuoasă, concentrată pe incluziune și relaxare. Vă puteți aștepta la înot în siguranță și la momente confortabile pe porțiunea curată de coastă. Acest loc este un exemplu minunat de distracție accesibilă la mare, fiind recomandat pentru diminețile relaxante.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Aquapark Wibit Šćuza", "text": "Un parc acvatic gonflabil pe mare la plaja Šćuza, ideal pentru familii și copii.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Rudist", "text": "O atracție sculpturală în Medulin dedicată bivalvelor preistorice fosilizate găsite în Istria.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "Avion-vjetrokaz", "text": "O giruetă inedită în formă de avion situată lângă aeroportul sportiv din Medulin.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "Bakranjuša este un lac situat în Medulin, oferind peisaje frumoase pentru recreere în aer liber.", "category": "natural", "coords": [13.93063, 44.872056]}], "en": [{"name": "Church of St. Agnes", "text": "The distinctive church with its twin bell towers is a landmark of the town and offers views over the Medulin bay.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/medulin-kirche-der-heiligen-agnes.webp", "coords": [13.938338, 44.822964]}, {"name": "Medulin Promenade", "text": "A lively waterfront walkway lined with restaurants and shops, serving as the social hub of the town in the evening.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/medulin-uferpromenade-von-medulin.webp", "coords": [13.934532, 44.815727]}, {"name": "Bijeca", "text": "The most famous sandy beach in Medulin, especially popular with families due to its shallow water.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "Pomer Beach offers a peaceful stretch of coastline near the small harbor in the Medulin area. Far from the busy crowds, a quiet, almost village-like atmosphere prevails here, encouraging relaxation. Visitors can take leisurely strolls along the water and bathe in the calm sea. This spot is perfect for simply unwinding on warm afternoons.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "A local pebble beach in Medulin offering crystal-clear water and a relaxed atmosphere.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "A natural beach area near Medulin, ideal for visitors seeking peace away from the crowds.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Runke", "text": "A pine-fringed beach in Medulin offering natural shade and wide views of the Adriatic.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Family park", "text": "An amusement park in Medulin featuring various rides and carousels for children and families.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "A nature center in Medulin showcasing the biodiversity of the Kamenjak peninsula.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Camping Medulin Beach is a charming mix of sand and gravel situated within the spacious grounds of the local campsite. The atmosphere here is lively and family-oriented, shaped by the cheerful bustle of holidaymakers. The varied shoreline invites visitors to enjoy hours of swimming, building sandcastles, and sunbathing. For a thoroughly enjoyable day, it is a good idea to keep beach mats and sun protection handy.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "Ščuza", "text": "A popular local beach in Medulin, situated near the bridge connecting to Pomer.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "An archaeological park on a peninsula featuring the remains of a grand Roman villa.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Školjić", "text": "A natural beach in the Medulin area offering crystal clear water and a peaceful atmosphere.", "category": "recreational", "coords": [13.920178, 44.797289]}, {"name": "beach Tašalera", "text": "A quiet pebble beach located within the Tašalera campsite near Medulin.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "Munte Beach", "text": "Plaža Munte in Premantura, near Medulin, is a carefully maintained beach area featuring adapted access for visually impaired people. Guests can expect a quiet, considerate atmosphere that is fully focused on inclusion and relaxation. Visitors can look forward to safe swimming and comfortable lounging on the clean shoreline. This spot is a wonderful example of accessible seaside fun and is highly recommended for relaxing mornings.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Aquapark Wibit Šćuza", "text": "An inflatable water park on the sea at Šćuza beach, ideal for families and children.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Rudist", "text": "A sculptural attraction in Medulin dedicated to the fossilized prehistoric bivalves found in Istria.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "Avion-vjetrokaz", "text": "A unique aircraft-shaped weather vane located near the Medulin sports airport.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "Bakranjuša is a lake located in Medulin, offering beautiful scenery for outdoor recreation.", "category": "natural", "coords": [13.93063, 44.872056]}], "hr": [{"name": "Bijeca", "text": "Najpoznatija pješčana plaža u Medulinu, posebno popularna među obiteljima zbog plitkog mora.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "Mirni dio obale smješten u blizini male lučice u Pomeru na području Medulina.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "Lokalna šljunčana plaža u Medulinu koja nudi kristalno čisto more i opuštenu atmosferu.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "Prirodna plaža kod Medulina, idealna za posjetitelje koji traže mir podalje od gužve.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Runke", "text": "Plaža obrubljena borovima u Medulinu koja nudi prirodan hlad i širok pogled na Jadran.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Family park", "text": "Zabavni park u Medulinu s raznim vožnjama i vrtuljcima za djecu i obitelji.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Centar za posjetitelje u Medulinu koji prikazuje bioraznolikost poluotoka Kamenjak.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Pješčana i šljunčana plaža smještena unutar kampa u Medulinu.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "Ščuza", "text": "Popularna lokalna plaža u Medulinu, smještena u blizini mosta prema Pomeru.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Arheološki park na poluotoku s ostacima raskošne rimske vile.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Školjić", "text": "Prirodna plaža u okolici Medulina koju odlikuje čisto more i mirno okruženje.", "category": "recreational", "coords": [13.920178, 44.797289]}, {"name": "beach Tašalera", "text": "Mirna šljunčana plaža smještena u sklopu kampa Tašalera kod Medulina.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "Munte Beach", "text": "Uređena plaža u Premanturi prilagođena osobama s oštećenjem vida.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Aquapark Wibit Šćuza", "text": "Vodeni park na napuhavanje na plaži Šćuza, idealan za zabavu obitelji i djece.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Rudist", "text": "Skulpturalna atrakcija u Medulinu posvećena fosiliziranim prapovijesnim školjkama.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "Avion-vjetrokaz", "text": "Jedinstveni vjetrokaz u obliku zrakoplova u blizini sportskog aerodroma u Medulinu.", "category": "landmark", "coords": [13.903299, 44.845141]}]}},
   {"id": "omisalj", "type": "city", "parent": "HR-08", "coords": [14.5511, 45.2189], "population": 2983, "tier": 2, "name": {"de": "Omišalj", "hu": "Omišalj", "ro": "Omišalj", "en": "Omišalj"}, "description": {"de": "Historische Klippenstadt auf der Insel Krk mit mittelalterlichem Charme und Blick auf den Kvarner Golf.", "hu": "A Krk-sziget északi kapuja, sziklaszirten fekvő középkori városka pazar kilátással és római emlékekkel.", "ro": "Oraș istoric situat pe o stâncă de pe insula Krk, cunoscut pentru centrul său medieval și vestigiile romane.", "en": "Historic cliffside town on Krk island, overlooking the Kvarner Gulf, famous for its Roman ruins and medieval core."}, "facts": {"de": ["Insel Krk, Nordkroatien", "85 Meter über dem Meer", "Frankopan-Adelsbesitz", "Flughafen Rijeka vor Ort", "Römische Stadt Fulfinum", "Glagolitische Tradition", "Krker Brücke Nähe", "Kvarner Bucht Panorama"], "hu": ["Krk-sziget északi része", "85 méteres sziklafalon", "Frankopán grófok vára", "Rijeka nemzetközi reptér", "Fulfinum római romjai", "Glagolita írásbeliség", "Krki híd közvetlen közelében", "Kvarner-öböl panoráma"], "ro": ["Insula Krk, Croația de Nord", "85 metri deasupra mării", "Fost domeniu Frankopan", "Aeroportul Rijeka situat aici", "Ruinele romane Fulfinum", "Tradiție glagolitică", "Aproape de podul Krk", "Vedere spre Golful Kvarner"], "en": ["North of Krk island", "85 meters above sea level", "Frankopan count heritage", "Rijeka International Airport", "Ancient Fulfinum ruins", "Glagolitic alphabet history", "Krk bridge proximity", "Kvarner Gulf views"]}, "image": "/poi-images/omisalj.webp", "imageHint": "Aerial view of Omišalj old town on the cliff edge with the sea in the background", "descriptionAdvanced": {"de": "Omišalj ist eine der ältesten Städte auf der Insel Krk und liegt strategisch günstig auf einer 85 Meter hohen Klippe über dem Kvarner Golf. Die Geschichte des Ortes reicht bis in die Antike zurück, als die Römer in der nahe gelegenen Sepen-Bucht die Stadt Fulfinum errichteten. Im Mittelalter wurde Omišalj zu einem bedeutenden Zentrum der kroatischen Frankopan-Grafen und bewahrte bis heute seinen authentischen mediterranen Kern mit engen Steingassen und historischen Bauwerken wie der romanischen Marienkirche aus dem Jahr 1213. Heute bildet die Stadt einen faszinierenden Kontrast zwischen ihrer ruhigen Altstadt und ihrer modernen Bedeutung als Energie- und Verkehrsknotenpunkt. Hier befindet sich nicht nur der internationale Flughafen Rijeka, sondern auch das strategisch wichtige LNG-Terminal Kroatiens. Trotz der industriellen Infrastruktur in der Umgebung bietet Omišalj wunderschöne Promenaden, versteckte Buchten und einen direkten Zugang zur Krker Brücke, die die Insel mit dem Festland verbindet.", "hu": "Omišalj a Krk-sziget egyik legősibb települése, amely egy látványos, 85 méter magas sziklaszirt peremén trónol a Kvarner-öböl felett. Történelme az őskorig nyúlik vissza, de igazi virágzását a római korban élte, amikor a közeli Sepen-öbölben felépült Fulfinum városa. A középkorban a Frankopán grófok egyik legfontosabb erődítménye és a glagolita írásbeliség központja volt. A városka ódon magja ma is őrzi középkori hangulatát a kanyargós kőutcákkal és az 1213-ban felszentelt Szűz Mária Mennybevétele plébániatemplommal. Omišalj ma a kontrasztok városa: míg a történelmi központ csendes mediterrán hangulatot áraszt, a település határában található a Rijeka nemzetközi repülőtér és az ország stratégiai fontosságú LNG-terminálja is. Kiváló elhelyezkedése miatt, közvetlenül a Krki híd lábánál, ez a település szolgál a sziget fő bejárataként, ahol a modern ipar és az évezredes örökség különös egyveleget alkot.", "ro": "Omišalj este unul dintre cele mai vechi orașe de pe insula Krk, situat strategic pe o stâncă înaltă de 85 de metri care domină partea de nord a Golfului Kvarner. Istoria sa începe în perioada preistorică, însă a cunoscut o dezvoltare majoră sub romani, care au construit orașul Fulfinum în apropiere. În Evul Mediu, a devenit o fortăreață importantă a conților Frankopan, păstrându-și până astăzi nucleul medieval autentic, cu străzi înguste de piatră și clădiri istorice precum biserica romanică Adormirea Maicii Domnului din 1213. Astăzi, orașul oferă un contrast fascinant între liniștea centrului vechi și rolul său modern de nod de transport și energie. Pe teritoriul său se află Aeroportul Internațional Rijeka și un terminal LNG de importanță strategică. În ciuda infrastructurii industriale din apropiere, Omišalj își menține farmecul mediteranean, oferind acces facil la Podul Krk și fiind prima oprire majoră pentru cei care vizitează insula venind de pe continent.", "en": "Omišalj is one of the oldest towns on the island of Krk, strategically perched on an 85-meter-high cliff that dominates the northern part of the Kvarner Gulf. Its history stretches back to prehistoric times, but it flourished under the Romans, who built the city of Fulfinum in the nearby Sepen Bay. During the Middle Ages, it became a major stronghold for the Frankopan counts and a center for Glagolitic literacy. The town's historic core has preserved its medieval atmosphere, characterized by winding stone streets and the Romanesque Church of the Assumption, dating back to 1213. Today, Omišalj presents a unique contrast between its quiet Mediterranean heritage and its modern role as a major energy and transportation hub. It hosts the Rijeka International Airport and a strategically vital LNG terminal. Located at the very entrance to the island near the Krk Bridge, it serves as the gateway to the archipelago, blending thousands of years of history with modern industrial significance."}, "factsAdvanced": {"de": ["Fulfinum-Mirine: Ruinen einer römischen Stadt und eines frühchristlichen Komplexes aus dem 1. Jahrhundert.", "Die Stadt liegt auf einem natürlichen Kalksteinfelsen 85 Meter direkt über dem Adriatischen Meer.", "Der Flughafen von Rijeka (LDRI) befindet sich geografisch auf dem Gemeindegebiet von Omišalj.", "Die romanische Basilika Mariä Himmelfahrt beherbergt wertvolle glagolitische Steininschriften.", "Omišalj ist der Standort des ersten schwimmenden LNG-Terminals Kroatiens zur Gasversorgung.", "Die 1980 fertiggestellte Krker Brücke landet nur 2 Kilometer vom Stadtzentrum entfernt auf der Insel."], "hu": ["Fulfinum-Mirine: Az 1. századból származó római város és kora keresztény bazilika lenyűgöző romjai.", "A település egy 85 méter magas mészkősziklán fekszik, amely függőlegesen szakad az Adriába.", "A fiumei (Rijeka) nemzetközi repülőtér valójában Omišalj közigazgatási területén található.", "A Szűz Mária-bazilika 1213-as építése óta a város vallási központja, glagolita emlékeket őriz.", "Itt található Horvátország stratégiai jelentőségű, úszó LNG-gázterminálja a Kvarner-öbölben.", "A Krki híd a várostól mindössze 2 kilométerre éri el a szigetet, biztosítva a közúti kapcsolatot."], "ro": ["Fulfinum-Mirine: Ruinele unui oraș roman și ale unui complex paleocreștin datând din secolul I.", "Orașul este cocoțat pe o faleză de calcar de 85 de metri care cade direct în Marea Adriatică.", "Aeroportul Internațional Rijeka este localizat geografic pe teritoriul municipalității Omišalj.", "Bazilica romanică Adormirea Maicii Domnului conține inscripții glagolitice istorice valoroase.", "Găzduiește primul terminal LNG plutitor din Croația, esențial pentru securitatea energetică.", "Podul Krk, finalizat în 1980, conectează insula de continent la doar 2 km de centrul orașului."], "en": ["Fulfinum-Mirine: Impressive ruins of a 1st-century Roman city and an early Christian complex.", "The town is situated on a natural 85-meter limestone cliff overlooking the Adriatic Sea.", "Rijeka International Airport (LDRI) is actually located on the municipal territory of Omišalj.", "The Romanesque Basilica of the Assumption (1213) houses significant Glagolitic stone inscriptions.", "Omišalj is the site of Croatia's first floating LNG terminal, vital for regional energy supply.", "The Krk Bridge lands on the island just 2 kilometers from the town's historic center."]}, "sights": {"de": [{"name": "Mirine-Fulfinum", "text": "Beeindruckende archäologische Stätte einer antiken römischen Stadt und einer frühchristlichen Basilika aus dem 5. Jahrhundert.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/omisalj-mirine-fulfinum.webp", "coords": [14.544833, 45.203092]}, {"name": "Park Dubec", "text": "Ein weitläufiger Naturpark an den Klippen mit Panoramawegen, der die Altstadt von Omišalj mit der Küste verbindet.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-park-dubec.webp", "coords": [14.552188, 45.213442]}, {"name": "Altstadt von Omišalj", "text": "Ein Labyrinth aus engen Gassen und Steinhäusern auf einem 85 Meter hohen Felsen über dem Meer.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/omisalj-altstadt-von-omi-alj.webp", "coords": [14.544173, 45.203937]}, {"name": "Strand Pesja", "text": "Der Strand Pesja ruht malerisch am Ende einer Bucht in Omišalj und wird von dichten Pinienwäldern gesäumt. Die Auszeichnung mit der Blauen Flagge garantiert ein sauberes und sicheres Umfeld, was besonders bei Familien für eine heitere Stimmung sorgt. Badegäste erfreuen sich hier am herrlichen Wasser und dem angenehmen Schatten der Bäume. An warmen Tagen ist ein Spaziergang durch den Wald hinunter zum Strand ein wunderbares Erlebnis.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-strand-pesja.webp", "coords": [14.551684, 45.207884]}, {"name": "Turm von Omišalj", "text": "Überreste der mittelalterlichen Befestigungsanlagen, die einst die Stadt vor Angriffen schützten.", "category": "castles/fortresses/towers", "confidence": "medium", "image": "/poi-images/sights/omisalj-turm-von-omi-alj.webp", "coords": [14.552599, 45.209227]}, {"name": "Fortičina", "text": "Eine archäologische Stätte bei Omišalj mit den Ruinen einer byzantinischen Festung.", "category": "historical", "coords": [14.553609, 45.207063]}, {"name": "Uvala Peškera", "text": "Eine ruhige Bucht in der Nähe von Omišalj.", "category": "natural", "coords": [14.584057, 45.229793]}, {"name": "Gromašica", "text": "Ein Hügel und Wanderpunkt bei Omišalj mit Blick auf die Küste.", "category": "natural", "coords": [14.571673, 45.233932]}, {"name": "F-84G Thunderjet", "text": "Ein historisches Militärflugzeug, das in der Nähe des Flughafens Rijeka ausgestellt ist.", "category": "landmark", "coords": [14.571462, 45.220872]}, {"name": "Vele steni", "text": "Malerischer Aussichtspunkt mit Blick auf das Meer und die nahen Klippen.", "category": "natural", "coords": [14.552609, 45.211771]}, {"name": "Sv. Jelene na Dolu", "text": "Ruinen einer alten Kapelle in der Landschaft bei Omišalj.", "category": "historical", "coords": [14.557165, 45.212414]}, {"name": "Njivice", "text": "Der Njivice-See in Omisalj lädt zum Verweilen ein.", "category": "natural", "coords": [14.56275, 45.169344]}], "hu": [{"name": "Mirine-Fulfinum", "text": "Egy ókori római város és egy 5. századi kora keresztény bazilika lenyűgöző romjai a tengerpart közelében.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/omisalj-mirine-fulfinum.webp", "coords": [14.544833, 45.203092]}, {"name": "Dubec park", "text": "Hatalmas természetvédelmi terület a sziklákon, amely panorámás sétányokon keresztül köti össze az óvárost a parttal.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-park-dubec.webp", "coords": [14.552188, 45.213442]}, {"name": "Omišalj óvárosa", "text": "85 méter magas sziklán fekvő, középkori hangulatú település szűk utcákkal és kőházakkal.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/omisalj-altstadt-von-omi-alj.webp", "coords": [14.544173, 45.203937]}, {"name": "Pesja strand", "text": "A Pesja strand festői környezetben fekszik egy omišalji öböl végén, sűrű fenyőerdők ölelésében. A Kék Zászlós elismerés tiszta és biztonságos környezetet garantál, ami különösen a családok körében teremt vidám hangulatot. A fürdőzők itt élvezhetik a csodálatos tengert és a fák kellemes árnyékát. A meleg napokon a partra vezető erdei séta is önmagában csodálatos élmény.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-strand-pesja.webp", "coords": [14.551684, 45.207884]}, {"name": "Omišalji torony", "text": "A középkori városfalak maradványa, amely egykor a település védelmét szolgálta a tenger felől.", "category": "castles/fortresses/towers", "confidence": "medium", "image": "/poi-images/sights/omisalj-turm-von-omi-alj.webp", "coords": [14.552599, 45.209227]}, {"name": "Fortičina", "text": "Régészeti lelőhely Omišalj közelében, egy bizánci erődítmény romjaival.", "category": "historical", "coords": [14.553609, 45.207063]}, {"name": "Uvala Peškera", "text": "Egy csendes öböl Omišalj környékén.", "category": "natural", "coords": [14.584057, 45.229793]}, {"name": "Gromašica", "text": "Domb és túrapont Omišalj közelében, kilátással a tengerpartra.", "category": "natural", "coords": [14.571673, 45.233932]}, {"name": "F-84G Thunderjet", "text": "Egy történelmi katonai repülőgép, amelyet a fiumei repülőtér közelében állítottak ki.", "category": "landmark", "coords": [14.571462, 45.220872]}, {"name": "Vele steni", "text": "Festői kilátópont, ahonnan rálátni a tengerre és a közeli sziklákra.", "category": "natural", "coords": [14.552609, 45.211771]}, {"name": "Sv. Jelene na Dolu", "text": "Egy régi kápolna romjai Omišalj közelében a vidéken.", "category": "historical", "coords": [14.557165, 45.212414]}, {"name": "Njivice", "text": "Az Omisalj-beli Njivice-tó pihenésre hívogat.", "category": "natural", "coords": [14.56275, 45.169344]}], "ro": [{"name": "Mirine-Fulfinum", "text": "Situl arheologic al unui oraș roman antic și al unei bazilici paleocreștine din secolul al V-lea, situat în golful Sepen.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/omisalj-mirine-fulfinum.webp", "coords": [14.544833, 45.203092]}, {"name": "Parcul Dubec", "text": "Un parc vast situat pe o stâncă, oferind trasee de plimbare cu vederi panoramice spectaculoase asupra mării.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-park-dubec.webp", "coords": [14.552188, 45.213442]}, {"name": "Orașul vechi Omišalj", "text": "Un nucleu medieval situat pe o stâncă înaltă de 85 de metri, cu străzi înguste și clădiri istorice din piatră.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/omisalj-altstadt-von-omi-alj.webp", "coords": [14.544173, 45.203937]}, {"name": "Plaja Pesja", "text": "Plaja Pesja se află într-un cadru pitoresc, la capătul unui golf din Omišalj, fiind înconjurată de păduri dese de pini. Certificarea cu Steagul Albastru garantează un mediu curat și sigur, care creează o atmosferă veselă, mai ales pentru familii. Cei pasionați de baie se pot bucura de apa splendidă și de umbra plăcută a copacilor. În zilele călduroase, o scurtă plimbare prin pădure până la plajă este o experiență minunată.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-strand-pesja.webp", "coords": [14.551684, 45.207884]}, {"name": "Turnul din Omišalj", "text": "Vestigii ale fortificațiilor medievale care protejau orașul împotriva atacurilor maritime.", "category": "castles/fortresses/towers", "confidence": "medium", "image": "/poi-images/sights/omisalj-turm-von-omi-alj.webp", "coords": [14.552599, 45.209227]}, {"name": "Fortičina", "text": "Un sit arheologic lângă Omišalj, care cuprinde ruinele unei fortificații bizantine.", "category": "historical", "coords": [14.553609, 45.207063]}, {"name": "Uvala Peškera", "text": "Un golf liniștit în apropiere de Omišalj.", "category": "natural", "coords": [14.584057, 45.229793]}, {"name": "Gromašica", "text": "Un deal și punct de drumeție lângă Omišalj, cu vedere la coastă.", "category": "natural", "coords": [14.571673, 45.233932]}, {"name": "F-84G Thunderjet", "text": "Un avion militar istoric expus în apropierea aeroportului din Rijeka.", "category": "landmark", "coords": [14.571462, 45.220872]}, {"name": "Vele steni", "text": "Punct de belvedere pitoresc ce oferă vedere la mare și la stâncile din apropiere.", "category": "natural", "coords": [14.552609, 45.211771]}, {"name": "Sv. Jelene na Dolu", "text": "Ruinele unei vechi capele situate în zona rurală de lângă Omišalj.", "category": "historical", "coords": [14.557165, 45.212414]}, {"name": "Njivice", "text": "Lacul Njivice din Omišalj invită la relaxare.", "category": "natural", "coords": [14.56275, 45.169344]}], "en": [{"name": "Mirine-Fulfinum", "text": "An impressive archaeological site of an ancient Roman town and a 5th-century early Christian basilica.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/omisalj-mirine-fulfinum.webp", "coords": [14.544833, 45.203092]}, {"name": "Dubec Park", "text": "A large natural park on the cliffs featuring panoramic paths connecting the old town with the coast.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-park-dubec.webp", "coords": [14.552188, 45.213442]}, {"name": "Old Town Omišalj", "text": "A labyrinth of narrow streets and stone houses perched on an 85-meter-high cliff above the sea.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/omisalj-altstadt-von-omi-alj.webp", "coords": [14.544173, 45.203937]}, {"name": "Pesja Beach", "text": "Pesja Beach rests in a picturesque setting at the end of a bay in Omišalj, surrounded by dense pine forests. Its Blue Flag designation guarantees a clean and safe environment, bringing a cheerful mood, especially among families. Bathers can delight in the wonderful water and the pleasant shade of the trees. On warm days, walking down through the forest to the beach is a wonderful experience in itself.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/omisalj-strand-pesja.webp", "coords": [14.551684, 45.207884]}, {"name": "Tower of Omišalj", "text": "Remains of the medieval fortifications that once protected the town from naval attacks.", "category": "castles/fortresses/towers", "confidence": "medium", "image": "/poi-images/sights/omisalj-turm-von-omi-alj.webp", "coords": [14.552599, 45.209227]}, {"name": "Fortičina", "text": "An archaeological site near Omišalj featuring the ruins of a Byzantine fortification.", "category": "historical", "coords": [14.553609, 45.207063]}, {"name": "Uvala Peškera", "text": "A peaceful bay in the vicinity of Omišalj.", "category": "natural", "coords": [14.584057, 45.229793]}, {"name": "Gromašica", "text": "A hill and hiking point near Omišalj with coastal views.", "category": "natural", "coords": [14.571673, 45.233932]}, {"name": "F-84G Thunderjet", "text": "A historical military jet aircraft on display near the Rijeka Airport.", "category": "landmark", "coords": [14.571462, 45.220872]}, {"name": "Vele steni", "text": "Scenic viewpoint offering views of the sea and the nearby cliffs.", "category": "natural", "coords": [14.552609, 45.211771]}, {"name": "Sv. Jelene na Dolu", "text": "Ruins of an old chapel located in the countryside near Omišalj.", "category": "historical", "coords": [14.557165, 45.212414]}, {"name": "Njivice", "text": "Njivice lake in Omišalj invites you to relax.", "category": "natural", "coords": [14.56275, 45.169344]}], "hr": [{"name": "Fortičina", "text": "Arheološki lokalitet kod Omišlja s ostacima bizantske utvrde.", "category": "historical", "coords": [14.553609, 45.207063]}, {"name": "Pesja", "text": "Popularna plaža u Omišlju poznata po hladovini i Plavoj zastavi.", "category": "recreational", "coords": [14.550251, 45.207181]}, {"name": "Uvala Peškera", "text": "Mirna uvala u okolici Omišlja.", "category": "natural", "coords": [14.584057, 45.229793]}, {"name": "Gromašica", "text": "Uzvisina i pješačka točka u blizini Omišlja s pogledom na obalu.", "category": "natural", "coords": [14.571673, 45.233932]}, {"name": "F-84G Thunderjet", "text": "Povijesni vojni mlazni zrakoplov izložen u blizini zračne luke Rijeka.", "category": "landmark", "coords": [14.571462, 45.220872]}, {"name": "Vele steni", "text": "Slikovit vidikovac s pogledom na more i obližnje stijene.", "category": "natural", "coords": [14.552609, 45.211771]}]}},
   {"id": "paklenica-starigrad", "type": "city", "parent": "HR-13", "coords": [15.4658, 44.2989], "population": 1876, "tier": 2, "name": {"de": "Starigrad-Paklenica", "hu": "Starigrad-Paklenica", "ro": "Starigrad-Paklenica", "en": "Starigrad-Paklenica"}, "description": {"de": "Starigrad liegt am Fuße des Velebit-Massivs und ist das Tor zum Nationalpark Paklenica, wo schroffe Gipfel auf das kristallklare Adriatische Meer treffen. Die auf den Ruinen der antiken Stadt Argyruntum errichtete Gemeinde ist ein Mekka für Bergsteiger.", "hu": "A Velebit-hegység lábánál fekvő Starigrad a Paklenica Nemzeti Park kapuja, ahol a monumentális sziklák és az Adria kék vize találkozik. Az egykori római település, Argyruntum alapjaira épült városka ideális bázis a túrázóknak.", "ro": "Starigrad este situat la poalele muntelui Velebit și servește drept poartă de acces către Parcul Național Paklenica, unde muntele întâlnește marea. Construit pe fundațiile vechiului oraș Argyruntum, acest loc oferă un amestec de peisaje alpine.", "en": "Nestled at the base of the Velebit mountain range, Starigrad is the gateway to Paklenica National Park, where dramatic peaks meet the Adriatic shore. Built on the ancient site of Argyruntum, it is a premier destination for hikers and climbers."}, "facts": {"de": ["Die Einwohnerzahl beträgt etwa 1876 Personen.", "Starigrad liegt direkt am Velebit-Kanal in Dalmatien.", "Der Ort beherbergt den Haupteingang zum Nationalpark Paklenica.", "Die Siedlung wurde auf der antiken Stadt Argyruntum errichtet.", "Gehört administrativ zur Gespanschaft Zadar (HR-13).", "Besitzt wunderschöne Kieselstrände für Badegäste.", "Der Wachturm Večka kula stammt aus dem 16. Jahrhundert.", "Es ist ein beliebter Ausgangspunkt für Velebit-Wanderungen."], "hu": ["Lakosainak száma a legutóbbi adatok szerint 1876 fő.", "A település a Velebit-csatorna partján helyezkedik el.", "A Paklenica Nemzeti Park bejárata a város szélén található.", "Az ókori római Argyruntum település romjaira épült.", "Közigazgatásilag Zára (Zadar) megyéhez tartozik.", "Számos kavicsos strandja népszerű a turisták körében.", "A 16. századi Večka-torony romjai a tengerparton állnak.", "Kiváló bázis a Velebit-hegység felfedezéséhez."], "ro": ["Populația locală este de aproximativ 1876 de locuitori.", "Localitatea este situată pe coasta canalului Velebit.", "Găduiește intrarea principală în Parcul Național Paklenica.", "A fost fondat pe ruinele așezării romane Argyruntum.", "Face parte administrativ din cantonul croat Zadar.", "Plajele sale cu pietriș sunt ideale pentru vacanțe.", "Turnul Večka kula de pe mal datează din secolul al XVI-lea.", "Este un punct de plecare major pentru trasee montane."], "en": ["The current population is approximately 1876 residents.", "Located on the scenic shores of the Velebit Channel.", "Primary entrance to Paklenica National Park is located here.", "Established on the archaeological ruins of Roman Argyruntum.", "Administratively part of the Zadar County (HR-13).", "Features beautiful pebble beaches with crystal clear water.", "The 16th-century Večka tower stands directly on the coast.", "Major center for mountaineering and trekking in Croatia."]}, "image": "/poi-images/paklenica-starigrad.webp", "imageHint": "Starigrad Paklenica coast with Velebit mountains in background", "descriptionAdvanced": {"de": "Starigrad-Paklenica ist ein einzigartiger Ort an der kroatischen Küste, an dem das Hochgebirge des Velebit fast senkrecht ins Meer abfällt. Die Geschichte des Ortes ist tief in der Antike verwurzelt, als die Römer hier das Handelszentrum Argyruntum errichteten. Heute ist Starigrad das touristische Zentrum der Riviera von Paklenica und zieht jährlich Tausende von Aktivurlaubern an. Der Nationalpark Paklenica, bekannt für seine zwei monumentalen Schluchten Velika und Mala Paklenica, beginnt direkt am Ortsrand. Neben den sportlichen Möglichkeiten bietet der Ort auch kulturelle Schätze wie die vorromanische Kirche St. Peter oder die Ruinen der Večka kula direkt am Meer. Die Kombination aus salziger Meeresluft und frischer Bergluft macht das Klima hier besonders gesundheitsförndern. Besucher schätzen die authentische Gastronomie, die sowohl frischen Fisch als auch herzhafte Bergspezialitäten umfasst.", "hu": "Starigrad-Paklenica egy különleges dalmáciai település, ahol a karszthegység vad világa közvetlenül érintkezik a tengerparttal. A városka történelme az ókorig nyúlik vissza, amikor a rómaiak megalapították Argyruntumot, amelynek gazdag leletanyaga ma a zadari régészeti múzeumban látható. A település mai arculatát a turizmus határozza meg, de megőrizte békés, halászfalu jellegét is. A látogatók számára a legnagyobb vonzerőt a Paklenica Nemzeti Park jelenti, amelynek bejárata mindössze néhány percnyire van a központtól. A Velika Paklenica-szurdok hatalmas mészkőfalai a hegymászók paradicsomává teszik a környéket. A tengerparton sétálva megcsodálhatjuk a Večka-torony romjait, amely a legenda szerint egy királyi várhoz tartozott. Starigrad tökéletes választás azoknak, akik a strandolást aktív hegyi túrákkal szeretnének kombinálni egy autentikus horvát környezetben.", "ro": "Starigrad-Paklenica reprezintă punctul de întâlnire spectaculos între munte și marea în regiunea Dalmația. Localitatea are o istorie bogată, fiind ridicată pe situl antic al orașului Argyruntum, un important nod comercial în perioada imperială romană. Astăzi, Starigrad este o destinație turistică vibrantă, preferată de cei care caută aventură în natură fără a renunța la plăcerile litoralului. Parcul Național Paklenica, aflat la câțiva pași, este renumit pentru canioanele sale adânci și pereții de calcar care atrag alpiniști din întreaga lume. Pe lângă drumeții, vizitatorii pot explora vestigiile istorice, precum biserica Sfântul Petru cu elemente din secolul al IX-lea sau turnul de apărare de pe țărm. Climatul zonei este unul deosebit, beneficiind de briza marină și aerul curat de munte, ceea ce a făcut din Starigrad o stațiune balneară recunoscută încă de acum un secol.", "en": "Starigrad-Paklenica is a unique Dalmatian town where the rugged wilderness of the Velebit mountain range descends directly into the sea. Its history spans over two millennia, starting with the Roman settlement of Argyruntum, whose artifacts are now significant archaeological treasures. Today, the town serves as a bustling tourism hub that maintains a relaxed atmosphere. The main draw is Paklenica National Park, situated just inland, which features massive canyons and world-class rock climbing faces like Anića Kuk. Visitors can stroll along the coastline to see the ruins of the Večka Tower, shrouded in local folklore, or visit the medieval St. Peter's Church. The blend of sea and mountain air creates a refreshing microclimate, making it an ideal spot for health-conscious travelers. Whether exploring deep caves, climbing sheer cliffs, or enjoying local seafood by the water, Starigrad offers a concentrated experience of Croatia's natural diversity."}, "factsAdvanced": {"de": ["Die Gemeinde umfasst eine Fläche von zirka 170 Quadratkilometern.", "Argyruntum wurde unter Kaiser Claudius zur Stadt erhoben.", "Der Nationalpark Paklenica wurde im Jahr 1949 gegründet.", "Die Felswand Anića kuk ist mit 350m ein Kletter-Hotspot.", "Die Večka-torony diente im 16. Jahrhundert als Wachturm.", "Die St. Peter Kirche wurde auf Fundamenten aus dem 9. Jh. erbaut.", "Der höchste Gipfel des Velebit, Vaganski Vrh, ist 1757m hoch.", "Starigrad verzeichnet jährlich über 2500 Sonnenstunden."], "hu": ["A település területe mintegy 170 négyzetkilométert tesz ki.", "Argyruntum római várost Claudius császár idején alapították.", "A Paklenica Nemzeti Parkot 1949-ben nyilvánították védetté.", "A közeli Velika Paklenica-szurdok falai 400 méter magasak.", "A Večka-torony a 16. században épült a török elleni védelemre.", "A Szent Péter-templom a 9. századi ókeresztény alapokon nyugszik.", "A Velebit-hegység legmagasabb csúcsai 1700 méter fölé nyúlnak.", "A település évi napsütéses óráinak száma meghaladja a 2500-at."], "ro": ["Suprafața totală a comunei este de aproximativ 170 km².", "Argyruntum a primit statutul de municipium sub împăratul Claudius.", "Parcul Național Paklenica a fost înființat în anul 1949.", "Canionul Velika Paklenica are o lungime de peste 14 km.", "Turnul Večka a fost construit pentru apărarea împotriva otomanilor.", "Biserica Sf. Petru păstrează o absidă din perioada preromanică.", "Vârful Vaganski Vrh din apropiere atinge 1757 de metri înălțime.", "Regiunea se bucură de un climat mediteranean cu veri însorite."], "en": ["The municipality covers an area of about 170 square kilometers.", "Argyruntum was granted city status during the reign of Claudius.", "Paklenica was declared a National Park in October 1949.", "The Velika Paklenica canyon walls rise up to 400 meters.", "The Večka Tower was built in the 16th century for coastal defense.", "St. Peter's Church features 9th-century pre-Romanesque elements.", "Vaganski Vrh, the highest peak of Velebit, is 1,757 meters high.", "The area enjoys an average of over 2,500 sunshine hours per year."]}, "sights": {
@@ -7847,6 +9094,15 @@ export const poiExtraHrV2: POI[] = [
                         17.86794,
                         42.72417
                   ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein Bereich für Naturisten auf der Insel Šipan, nahe der Ortschaft Suđurađ.",
+                  "category": "recreational",
+                  "coords": [
+                        17.848402,
+                        42.738837
+                  ]
             }
       ],
       "hu": [
@@ -7875,6 +9131,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.86794,
                         42.72417
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Naturisták számára fenntartott terület Šipan szigetén, Suđurađ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.848402,
+                        42.738837
                   ]
             }
       ],
@@ -7905,6 +9170,15 @@ export const poiExtraHrV2: POI[] = [
                         17.86794,
                         42.72417
                   ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O zonă pentru naturiști pe insula Šipan, lângă localitatea Suđurađ.",
+                  "category": "recreational",
+                  "coords": [
+                        17.848402,
+                        42.738837
+                  ]
             }
       ],
       "en": [
@@ -7933,6 +9207,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.86794,
                         42.72417
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "An area for naturists on the island of Šipan, near Suđurađ.",
+                  "category": "recreational",
+                  "coords": [
+                        17.848402,
+                        42.738837
                   ]
             }
       ],
@@ -8873,7 +10156,278 @@ export const poiExtraHrV2: POI[] = [
   {"id": "dugi-otok-sali", "type": "city", "parent": "HR-13", "coords": [15.1583, 43.9417], "population": 750, "tier": 3, "name": {"de": "Sali (Dugi otok)", "hu": "Sali (Dugi otok)", "ro": "Sali (Dugi otok)", "en": "Sali (Dugi otok)"}, "description": {"de": "Sali ist der größte Ort auf Dugi otok und ein traditionsreiches Fischerdorf am Rande des Naturparks Telašćica.", "hu": "Sali a Dugi otok legnagyobb települése és közigazgatási központja, amely ezeréves halászati múltjáról és olajfaligeteiről ismert.", "ro": "Sali este cea mai mare localitate de pe insula Dugi otok, un sat pescăresc pitoresc situat în apropierea Parcului Natural Telašćica.", "en": "Sali is the largest settlement on Dugi otok, a historic fishing village serving as the main gateway to the Telašćica Nature Park."}, "facts": {"de": ["Größte Siedlung auf Dugi otok", "Zentrum der Gemeinde Sali", "Einhundertjährige Fischereitradition", "Tor zum Naturpark Telašćica", "Bekannt für die 'Eselmusik'", "Älteste Bibliothek der Insel", "Umgeben von 700-jährigen Olivenbäumen", "Wichtiger nautischer Stützpunkt"], "hu": ["A sziget legnagyobb települése", "Sali község közigazgatási központja", "Ezeréves halászati hagyományok", "A Telašćica Természetvédelmi Park kapuja", "Híres a 'Szamárzenéről' (Tovareća mužika)", "1905-ben alapított népkönyvtár", "700 éves olajfák övezik", "Fontos kikötő a vitorlázók számára"], "ro": ["Cea mai mare așezare de pe Dugi otok", "Centrul administrativ al comunei", "Tradiție milenară în pescuit", "Poarta de acces către Parcul Telašćica", "Faimos pentru 'Muzica măgarilor'", "Bibliotecă fondată în anul 1905", "Înconjurat de livezi vechi de măslini", "Punct de oprire esențial pentru iahturi"], "en": ["Largest settlement on Dugi otok", "Administrative center of the island", "Thousand-year fishing heritage", "Gateway to Telašćica Nature Park", "Home of the 'Donkey Music' festival", "Public library founded in 1905", "Surrounded by ancient olive groves", "Crucial nautical hub in Dalmatia"]}, "image": "/poi-images/dugi-otok-sali.webp", "imageHint": "Sali harbor Dugi otok Croatia boats", "descriptionAdvanced": {"de": "Sali, an der Südostküste der Insel Dugi otok gelegen, ist ein Ort, an dem sich jahrhundertealte Traditionen und moderner nautischer Tourismus treffen. Der Name des Dorfes leitet sich von der historischen Salzproduktion ab, doch heute dominiert der Fischfang und die Landwirtschaft. Besonders beeindruckend sind die umliegenden Olivenhaine mit Bäumen, die teilweise über 700 Jahre alt sind. Sali dient als idealer Ausgangspunkt für Exkursionen in den angrenzenden Naturpark Telašćica und den nahegelegenen Nationalpark Kornaten. Im August verwandelt sich der Ort während des Festes 'Saljske užance' in eine lebendige Bühne für die 'Tovareća mužika', eine einzigartige rhythmische Aufführung auf Hörnern, die ursprünglich dazu diente, die Esel zu ehren. Die lokale Bibliothek ist ein kulturelles Juwel und zeugt vom hohen Bildungsstand der Inselbewohner seit Anfang des 20. Jahrhunderts.", "hu": "Sali a Dugi otok délkeleti részén fekszik, és a sziget legnépesebb, kulturálisan legizgalmasabb települése. Nevét az egykori sólepárlókról kapta, ám igazi hírnevét a halászatnak és az olajbogyó-termesztésnek köszönheti. A falut körülvevő „maslinik” (olajfaliget) fái között nem ritkák a 700 éves példányok sem. Sali nem csupán egy kikötő, hanem a Telašćica Természetvédelmi Park kapuja is, ahonnan a híres sós tó, a Mir és a hatalmas sziklafalak is könnyen elérhetők. A település büszkesége a „Tovareća mužika”, vagyis a szamárzene, amely egy különleges, szertartásos és zajos felvonulás a helyi ünnepségek, különösen a Saljske užance idején. A helyiek vendégszeretete, a friss tengeri ételek és a mélyen gyökerező adriai identitás teszi Salit a zadari szigetvilág egyik legvonzóbb célpontjává a természetjárók és a hajósok számára egyaránt.", "ro": "Sali, situat pe coasta de sud-est a insulei Dugi otok, este un loc unde tradițiile pescărești milenare se împletesc armonios cu turismul nautic contemporan. Localitatea a fost numită după minele de sare care existau aici în trecut, dar astăzi este renumită pentru producția de ulei de măsline de înaltă calitate, provenit de la arbori cu o vârstă de peste 700 de ani. Fiind cea mai mare așezare de pe insulă, Sali oferă toate facilitățile necesare vizitatorilor care doresc să exploreze Parcul Natural Telašćica sau arhipelagul Kornati. Evenimentul central al verii este festivalul 'Saljske užance', faimos pentru 'Muzica măgarilor' (Tovareća mužika), un spectacol tradițional zgomotos și ritmat care atrage mii de turiști. Biblioteca publică din Sali, înființată în 1905, este un punct de reper cultural important, demonstrând o lungă istorie a educației și literaturii în această comunitate izolată, dar deschisă către lume.", "en": "Sali is the cultural and administrative heart of Dugi otok, located on its southeastern coast. The village's name originates from its historical salt pans, though fishing has been the primary industry for over a millennium. Sali is uniquely positioned as the main gateway to the Telašćica Nature Park, making it a favorite stop for sailors exploring the Zadar archipelago. The town is surrounded by exceptional botanical reserves of olive trees, some exceeding 700 years in age. Every August, the 'Saljske užance' festival brings the town to life, featuring the famous 'Tovareća mužika' (Donkey Music), a rhythmic performance using ox horns that has become a symbol of local identity. Beyond tourism, Sali maintains a strong communal spirit centered around its historic library and the parish church of the Assumption of the Blessed Virgin Mary, which dates back to the 15th century and features beautiful Glagolitic inscriptions."}, "factsAdvanced": {"de": ["Die öffentliche Bibliothek 'Hrvatska čitaonica' wurde bereits 1905 gegründet.", "Die Pfarrkirche St. Maria stammt aus dem Jahr 1465.", "Um das Dorf herum stehen Olivenbäume, die über 700 Jahre alt sind.", "Das Fest 'Saljske užance' findet seit über 50 Jahren jedes Jahr im August statt.", "Die 'Tovareća mužika' wird auf großen Ochsenhörnern gespielt.", "Sali ist nur 4 Kilometer vom Eingang des Naturparks Telašćica entfernt."], "hu": ["A helyi 'Hrvatska čitaonica' könyvtárat 1905-ben alapították.", "Szent Mária plébániatemploma 1465-ből származik, gótikus alapokkal.", "A falut övező olajfaligetekben több 700 évesnél idősebb fa él.", "A 'Saljske užance' fesztivált több mint 50 éve rendezik meg augusztusban.", "A Tovareća mužika zenekar hatalmas ökörszarvakat használ hangszerként.", "Sali mindössze 4 kilométerre fekszik a Telašćica Park bejáratától."], "ro": ["Biblioteca publică 'Hrvatska čitaonica' funcționează din anul 1905.", "Biserica parohială Sfânta Maria a fost construită în anul 1465.", "În livezile din jurul satului există măslini cu vârste de peste 700 de ani.", "Festivalul 'Saljske užance' are o tradiție de peste 50 de ani.", "Muzica tradițională este interpretată folosind coarne de bou de mari dimensiuni.", "Sali se află la o distanță de doar 4 km de intrarea în Parcul Telašćica."], "en": ["The local library 'Hrvatska čitaonica' was established in 1905.", "The Parish Church of St. Mary dates back to 1465 with Glagolitic elements.", "Ancient olive trees in the vicinity are confirmed to be over 700 years old.", "The 'Saljske užance' festival has been held annually for over 50 years.", "Donkey Music performers use authentic ox horns to create rhythmic sounds.", "The settlement is located exactly 4 kilometers from the Telašćica Park entrance."]}, "sights": {"de": [{"name": "Hafen von Sali", "text": "Der lebendige Hafen ist gesäumt von Cafés und ist der wichtigste Ankunftsort für Besucher der Insel.", "category": "port", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-hafen-von-sali.webp", "coords": [15.166874, 43.936588]}, {"name": "Naturpark Telašćica", "text": "Sali ist das Tor zu diesem Park, der für seine tiefen Buchten und spektakulären Steilklippen weltberühmt ist.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-naturpark-tela-ica.webp", "coords": [15.16, 43.9]}, {"name": "Salisko polje (Sali-Feld)", "text": "Eine ausgedehnte fruchtbare Ebene mit jahrhundertealten Olivenhainen, die die landwirtschaftliche Tradition prägen.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-salisko-polje-sali-feld.webp", "coords": [15.170128, 43.928939]}, {"name": "Sitno", "text": "Ein versteckter Strand auf der Insel Dugi Otok bei Sali, ideal für Ruhesuchende.", "category": "recreational", "coords": [15.146039, 43.946817]}, {"name": "Veli Berčastac", "text": "Einer der Gipfel auf Dugi Otok, der einen Blick über den Naturpark Telašćica ermöglicht.", "category": "natural", "coords": [15.1547, 43.92738]}, {"name": "Playa", "text": "Der als Playa bekannte Punkt in Sali auf Dugi Otok fasziniert weniger als klassischer Strand, sondern vielmehr als spektakulärer Aussichtspunkt. Die Besucher werden von einer ruhigen, erhabenen Atmosphäre empfangen, während der Blick über die weite Adria und benachbarte Inseln schweift. Es ist der perfekte Ort, um einen Spaziergang an der Küste mit einem unvergesslichen Panorama zu verbinden. Vergessen Sie Ihre Kamera nicht, wenn Sie in den Abendstunden das Farbenspiel des Meeres bewundern wollen.", "category": "natural", "coords": [15.152004, 43.917945]}, {"name": "Kruševac Peak", "text": "Ein Aussichtspunkt auf dem Gipfel Kruševac auf der Insel Dugi Otok bei Sali.", "category": "natural", "coords": [15.165012, 43.924027]}, {"name": "Peak, difficult to climb", "text": "Ein anspruchsvoller Aussichtspunkt auf einem Gipfel bei Sali auf der Insel Dugi Otok.", "category": "natural", "coords": [15.154092, 43.922412]}, {"name": "Badeplattformen", "text": "Badeplattformen aus Beton mit einfachem Zugang zum Meer in Sali auf Dugi Otok.", "category": "landmark", "coords": [15.16179, 43.94057]}, {"name": "Friedens-See", "text": "Der Salzsee Jezero Mir im Naturpark Telašćica bei Sali (Dugi Otok) ist berühmt für sein warmes Wasser und die malerische Umgebung.", "category": "natural", "coords": [15.166184, 43.886653]}], "hu": [{"name": "Sali kikötője", "text": "A nyüzsgő kikötőt kávézók szegélyezik, és ez a szigetre érkező látogatók legfontosabb fogadóhelye.", "category": "port", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-hafen-von-sali.webp", "coords": [15.166874, 43.936588]}, {"name": "Telašćica Természetvédelmi Park", "text": "Sali a kapuja ennek a parknak, amely mély öbleiről és látványos sziklafalairól világszerte ismert.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-naturpark-tela-ica.webp", "coords": [15.16, 43.9]}, {"name": "Salisko polje (Sali-mező)", "text": "Kiterjedt, termékeny síkság évszázados olajfaligetekkel, amelyek meghatározzák a helyi mezőgazdasági hagyományt.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-salisko-polje-sali-feld.webp", "coords": [15.170128, 43.928939]}, {"name": "Sitno", "text": "Rejtett tengerpart Dugi Otok szigetén Sali közelében, ideális a nyugalomra vágyóknak.", "category": "recreational", "coords": [15.146039, 43.946817]}, {"name": "Veli Berčastac", "text": "Dugi Otok egyik csúcsa, ahonnan kilátás nyílik a Telašćica Természetvédelmi Parkra.", "category": "natural", "coords": [15.1547, 43.92738]}, {"name": "Playa", "text": "A Dugi Otok-i Saliban található, Playa néven ismert hely kevésbé klasszikus strandként, mint inkább látványos kilátópontként nyűgözi le a látogatókat. A vendégeket csendes, fenséges légkör fogadja, miközben tekintetük a tágas Adriai-tengeren és a szomszédos szigeteken kalandozhat. Ez a tökéletes helyszín arra, hogy egy tengerparti sétát egy felejthetetlen panorámával kössünk össze. Ne felejtse el a fényképezőgépét, ha az esti órákban szeretné megcsodálni a tenger fényjátékát.", "category": "natural", "coords": [15.152004, 43.917945]}, {"name": "Kruševac Peak", "text": "Kilátópont a Kruševac-csúcson, Dugi Otok szigetén, Sali közelében.", "category": "natural", "coords": [15.165012, 43.924027]}, {"name": "Peak, difficult to climb", "text": "Nehezen megmászható kilátópont egy hegycsúcson Sali közelében, Dugi Otok szigetén.", "category": "natural", "coords": [15.154092, 43.922412]}, {"name": "Bathing platforms", "text": "Betonozott strandplatformok Sali településén, amelyek kényelmes lejutást biztosítanak a tengerhez.", "category": "landmark", "coords": [15.16179, 43.94057]}, {"name": "Jezero Mir", "text": "A Sali (Dugi Otok) melletti Telašćica Natúrparkban lévő Jezero Mir sós tó meleg vizéről és festői környezetéről híres.", "category": "natural", "coords": [15.166184, 43.886653]}], "ro": [{"name": "Portul din Sali", "text": "Portul plin de viață este mărginit de cafenele și este principalul punct de sosire pentru vizitatorii insulei.", "category": "port", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-hafen-von-sali.webp", "coords": [15.166874, 43.936588]}, {"name": "Parcul Natural Telašćica", "text": "Sali este poarta de intrare către acest parc, faimos în lume pentru golful său adânc și stâncile abrupte.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-naturpark-tela-ica.webp", "coords": [15.16, 43.9]}, {"name": "Salisko polje (Câmpul Sali)", "text": "O câmpie fertilă vastă cu plantații de măslini vechi de secole, care definesc tradiția agricolă locală.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-salisko-polje-sali-feld.webp", "coords": [15.170128, 43.928939]}, {"name": "Sitno", "text": "O plajă ascunsă pe insula Dugi Otok, lângă Sali, ideală pentru cei care caută liniște.", "category": "recreational", "coords": [15.146039, 43.946817]}, {"name": "Veli Berčastac", "text": "Unul dintre vârfurile de pe Dugi Otok, oferind o vedere asupra Parcului Natural Telašćica.", "category": "natural", "coords": [15.1547, 43.92738]}, {"name": "Playa", "text": "Punctul cunoscut sub numele de Playa din Sali, pe Dugi Otok, fascinează mai puțin ca o plajă clasică, ci mai degrabă ca un punct de belvedere spectaculos. Vizitatorii sunt întâmpinați de o atmosferă liniștită, sublimă, în timp ce privirea li se plimbă peste vasta Mare Adriatică și insulele învecinate. Este locul perfect pentru a combina o plimbare pe coastă cu o panoramă de neuitat. Nu vă uitați aparatul foto dacă doriți să admirați jocul de culori al mării la orele serii.", "category": "natural", "coords": [15.152004, 43.917945]}, {"name": "Kruševac Peak", "text": "Un punct de belvedere situat pe vârful Kruševac de pe insula Dugi Otok, lângă Sali.", "category": "natural", "coords": [15.165012, 43.924027]}, {"name": "Peak, difficult to climb", "text": "Un punct de belvedere dificil de atins pe un vârf de lângă Sali, pe insula Dugi Otok.", "category": "natural", "coords": [15.154092, 43.922412]}, {"name": "Bathing platforms", "text": "Platforme pentru plajă care oferă acces ușor la mare în localitatea Sali de pe Dugi Otok.", "category": "landmark", "coords": [15.16179, 43.94057]}, {"name": "Jezero Mir", "text": "Lacul sărat Jezero Mir din Parcul Natural Telašćica de lângă Sali (Dugi Otok) este renumit pentru apa sa caldă și împrejurimile pitorești.", "category": "natural", "coords": [15.166184, 43.886653]}], "en": [{"name": "Port of Sali", "text": "The lively harbor is lined with cafes and serves as the main entry point for visitors to the island.", "category": "port", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-hafen-von-sali.webp", "coords": [15.166874, 43.936588]}, {"name": "Telašćica Nature Park", "text": "Sali is the gateway to this park, world-famous for its deep protected bay and spectacular salt lake.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-naturpark-tela-ica.webp", "coords": [15.16, 43.9]}, {"name": "Salisko polje (Sali Field)", "text": "An extensive fertile plain with centuries-old olive groves that define the island's agricultural tradition.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/dugi-otok-sali-salisko-polje-sali-feld.webp", "coords": [15.170128, 43.928939]}, {"name": "Sitno", "text": "A hidden beach on the island of Dugi Otok near Sali, ideal for those seeking peace.", "category": "recreational", "coords": [15.146039, 43.946817]}, {"name": "Veli Berčastac", "text": "One of the peaks on Dugi Otok, offering a view over the Telašćica Nature Park.", "category": "natural", "coords": [15.1547, 43.92738]}, {"name": "Playa", "text": "The spot known as Playa in Sali on Dugi Otok fascinates less as a classic beach and more as a spectacular viewpoint. Visitors are welcomed by a quiet, sublime atmosphere as their gaze wanders across the vast Adriatic Sea and neighboring islands. It is the perfect place to combine a coastal walk with an unforgettable panorama. Do not forget your camera if you wish to admire the beautiful colors of the sea during the evening hours.", "category": "natural", "coords": [15.152004, 43.917945]}, {"name": "Kruševac Peak", "text": "A scenic viewpoint located on the Kruševac Peak on Dugi Otok near Sali.", "category": "natural", "coords": [15.165012, 43.924027]}, {"name": "Peak, difficult to climb", "text": "A challenging viewpoint on a peak near Sali on the island of Dugi Otok.", "category": "natural", "coords": [15.154092, 43.922412]}, {"name": "Bathing platforms", "text": "Concrete bathing platforms offering easy access to the sea in Sali on Dugi Otok.", "category": "landmark", "coords": [15.16179, 43.94057]}, {"name": "Jezero Mir", "text": "The salt lake Jezero Mir in the Telašćica Nature Park near Sali (Dugi Otok) is famous for its warm water and picturesque surroundings.", "category": "natural", "coords": [15.166184, 43.886653]}], "hr": [{"name": "Sitno", "text": "Skrivena plaža na Dugom otoku kod Salija, idealna za one koji traže mir.", "category": "recreational", "coords": [15.146039, 43.946817]}, {"name": "Veli Berčastac", "text": "Jedan od vrhova na Dugom otoku koji pruža pogled na Park prirode Telašćica.", "category": "natural", "coords": [15.1547, 43.92738]}, {"name": "Playa", "text": "Lijep vidikovac na Dugom otoku s pogledom na Jadran i susjedne otoke.", "category": "natural", "coords": [15.152004, 43.917945]}, {"name": "Kruševac Peak", "text": "Vidikovac na vrhu Kruševac na Dugom otoku u blizini Salija.", "category": "natural", "coords": [15.165012, 43.924027]}, {"name": "Peak, difficult to climb", "text": "Zahtjevan vidikovac na vrhu u blizini Salija na Dugom otoku.", "category": "natural", "coords": [15.154092, 43.922412]}, {"name": "Bathing platforms", "text": "Betonska kupališta koja omogućuju lak pristup moru u Saliju na Dugom otoku.", "category": "landmark", "coords": [15.16179, 43.94057]}]}},
   {"id": "gradac-makarska", "type": "city", "parent": "HR-17", "coords": [17.2389, 43.1217], "population": 3261, "tier": 3, "name": {"de": "Gradac", "hu": "Gradac", "ro": "Gradac", "en": "Gradac"}, "description": {"de": "Das südlichste Resort der Makarska Riviera mit dem längsten Kiesstrand der Adria, Gornja Vala, am Fuße des Biokovo.", "hu": "A Makarska-riviéra legdélebbi települése, amely az Adria egyik leghosszabb kavicsos strandjáról, a Gornja Valáról híres.", "ro": "Cea mai sudică stațiune de pe Riviera Makarska, renumită pentru Gornja Vala, una dintre cele mai lungi plaje de la Adriatica.", "en": "The southernmost resort of the Makarska Riviera, famous for Gornja Vala, one of the longest pebble beaches on the Adriatic."}, "facts": {"de": ["Südlichste Stadt der Riviera", "Gornja Vala Strand", "Römische Siedlungsspuren", "Biokovo-Gebirge im Rücken", "Olivenöl-Produktion", "Hafen für Ausflugsboote", "Pfarrkirche St. Michael", "Baćina-Seen in der Nähe"], "hu": ["A Riviéra legdélebbi városa", "Gornja Vala kavicsos strand", "Római kori romok", "A Biokovo-hegység lába", "Helyi olívaolaj-termelés", "Kirándulóhajók kikötője", "Szent Mihály-plébániatemplom", "Közel a Baćina-tavakhoz"], "ro": ["Cea mai sudică stațiune", "Plaja Gornja Vala", "Vestigii romane", "Muntele Biokovo în spate", "Producție locală de ulei", "Port pentru excursii", "Biserica Sfântul Mihail", "Aproape de lacurile Baćina"], "en": ["Southernmost town of the Riviera", "Gornja Vala pebble beach", "Roman settlement remains", "Biokovo mountain backdrop", "Local olive oil production", "Harbor for excursion boats", "St. Michael's Parish Church", "Near the Baćina Lakes"]}, "image": "/poi-images/gradac-makarska.webp", "imageHint": "Aerial view of Gradac waterfront and long Gornja Vala pebble beach", "descriptionAdvanced": {"de": "Gradac ist die südlichste Gemeinde an der belebten Makarska Riviera und rühmt sich eines der längsten und schönsten Kiesstrände an der gesamten Adria, der Gornja Vala. Dieser weitläufige Strand, gesäumt von Pinien, die natürlichen Schatten spenden, macht Gradac zu einem äußerst beliebten Ziel für Sommerurlauber, insbesondere für Familien. Der Ort liegt am Fuße des Biokovo-Gebirges, was eine beeindruckende landschaftliche Kulisse schafft und zahlreiche Möglichkeiten für Wanderungen und Erkundungen in der Natur bietet. Obwohl Gradac heute ein modernes touristisches Zentrum mit einer Vielzahl von Hotels, Apartments und Restaurants ist, hat es seine historischen Wurzeln nicht verloren. Ein alter Turm aus dem 17. Jahrhundert erinnert an die Zeit der Kämpfe gegen die Osmanen. Die lange Uferpromenade ist ideal für abendliche Spaziergänge, während die zahlreichen Cafés und Bars für eine lebhafte Atmosphäre sorgen.", "hu": "Gradac a nyüzsgő Makarska Riviéra legdélibb települése, és az egész Adria egyik leghosszabb és legszebb kavicsos strandjával, a Gornja Valával büszkélkedhet. Ez a tágas strand, amelyet természetes árnyékot adó fenyőfák szegélyeznek, Gradacot rendkívül népszerű célponttá teszi a nyári nyaralók, különösen a családok körében. A település a Biokovo-hegység lábánál fekszik, ami lenyűgöző tájképi hátteret teremt, és számos lehetőséget kínál a természetben való túrázásra és felfedezésre. Bár Gradac ma már egy modern turisztikai központ, szállodák, apartmanok és éttermek sokaságával, nem veszítette el történelmi gyökereit. Egy 17. századi régi torony emlékeztet az oszmánok elleni harcok idejére. A hosszú tengerparti sétány ideális esti sétákhoz, míg a számos kávézó és bár élénk hangulatról gondoskodik.", "ro": "Gradac este cea mai sudică municipalitate de pe vibranta Rivieră Makarska și se mândrește cu una dintre cele mai lungi și mai frumoase plaje cu pietriș de pe întreaga coastă a Adriaticii, Gornja Vala. Această plajă extinsă, mărginită de pini care oferă umbră naturală, face din Gradac o destinație extrem de populară pentru turiștii de vară, în special pentru familii. Localitatea este situată la poalele munților Biokovo, ceea ce creează un fundal peisagistic impresionant și oferă numeroase oportunități pentru drumeții și explorări în natură. Deși Gradac este astăzi un centru turistic modern, cu o varietate de hoteluri, apartamente și restaurante, nu și-a pierdut rădăcinile istorice. Un turn vechi din secolul al XVII-lea amintește de perioada luptelor împotriva otomanilor. Lunga promenadă de pe faleză este ideală pentru plimbările de seară, în timp ce numeroasele cafenele și baruri asigură o atmosferă plină de viață.", "en": "Gradac is the southernmost municipality on the vibrant Makarska Riviera, boasting one of the longest and most beautiful pebble beaches on the entire Adriatic coast, Gornja Vala. This expansive beach, lined with pine trees that provide natural shade, makes Gradac an extremely popular destination for summer vacationers, especially families. The town is situated at the foot of the Biokovo mountains, which creates an impressive scenic backdrop and offers numerous opportunities for hiking and nature exploration. Although Gradac is now a modern tourist center with a variety of hotels, apartments, and restaurants, it has not lost its historical roots. An old tower from the 17th century serves as a reminder of the times of battles against the Ottomans. The long seaside promenade is ideal for evening strolls, while the numerous cafes and bars ensure a lively atmosphere."}, "factsAdvanced": {"de": ["Lage an der Adria-Magistrale", "5 km langer Gornja Vala Strand", "Bautyp Civitas Bivium Ruinen", "Pfarrkirche von 1852", "42 km südlich von Makarska", "Fährverbindung nach Trpanj nah"], "hu": ["Az Adria-főút mentén fekszik", "5 km hosszú kavicsos strand", "Civitas Bivium római romjai", "1852-es Szent Mihály templom", "42 km-re Makarska városától", "Hagyományos olívafesztiválok"], "ro": ["Situat pe Magistrala Adriatică", "Plajă de 5 km lungime", "Ruinele romane Civitas Bivium", "Biserica parohială din 1852", "42 km sud de orașul Makarska", "Tradiții vechi de pescuit"], "en": ["Located on the Adriatic Highway", "5 km long pebble beach length", "Civitas Bivium Roman ruins", "St. Michael church built 1852", "42 km south of Makarska town", "Traditional olive harvest region"]}, "sights": {"de": [{"name": "Gornja Vala Strand", "text": "Der Gornja Vala Strand in Gradac beeindruckt als einer der längsten und großzügigsten Kieselstrände der gesamten Makarska-Riviera. Die weitläufige Kulisse und die schattenspendenden Kiefern kreieren eine wunderbar lebhafte und dennoch erholsame Stimmung für Groß und Klein. Man kann hier herrliche Strandspaziergänge unternehmen, im weiten Meer schwimmen und den ganzen Tag im Kiefernschatten verbringen. Dank seiner Größe findet man hier selbst an belebten Sommertagen noch einen entspannten Platz zum Verweilen.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/gradac-makarska-gornja-vala-strand.webp", "coords": [17.262045, 43.150232]}, {"name": "Plaža Česminica", "text": "Die Plaža Česminica ist ein zentral gelegen Küstenabschnitt in Gradac an der Makarska-Riviera, der mit seinem klaren Wasser lockt. Die unkomplizierte, gesellige Atmosphäre macht diesen Strand zu einem beliebten Treffpunkt für Einheimische und Besucher. Ein Sprung ins kühle Nass bringt schnelle Erfrischung, während die Uferpromenade zu kleinen Spaziergängen einlädt. Dieser Ort ist ideal, um spontan ans Meer zu gehen und das maritime Flair zu genießen.", "category": "recreational", "coords": [17.182641, 43.125162]}, {"name": "Ljupče", "text": "Ljupče ist ein See in Gradac, der eine ruhige Umgebung für Spaziergänge und Naturbeobachtungen bietet.", "category": "natural", "coords": [17.316426, 43.145063]}], "hu": [{"name": "Gornja Vala strand", "text": "A gradaci Gornja Vala strand az egész Makarska-riviéra egyik leghosszabb és legtágasabb kavicsos partjaként nyűgöz le. A kiterjedt táj és az árnyékot adó fenyők csodálatosan élénk, mégis pihentető hangulatot teremtenek kicsik és nagyok számára egyaránt. Remek tengerparti sétákat tehetünk, úszhatunk a tágas tengerben, és az egész napot a fenyők hűsében tölthetjük. Méretének köszönhetően itt még a forgalmas nyári napokon is találhatunk egy kényelmes helyet a pihenésre.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/gradac-makarska-gornja-vala-strand.webp", "coords": [17.262045, 43.150232]}, {"name": "Plaža Česminica", "text": "A Plaža Česminica egy központi fekvésű partszakasz a Makarska-riviérán található Gradacban, amely tiszta vizével csábít. A könnyed, társasági légkör ezt a strandot a helyiek és a látogatók népszerű találkozóhelyévé teszi. A hűs habokba vetve magunkat gyors felfrissülést nyerhetünk, a parti sétány pedig kisebb sétákra hívogat. Ez a hely ideális egy spontán tengerparti kiruccanáshoz és a tengeri hangulat élvezetéhez.", "category": "recreational", "coords": [17.182641, 43.125162]}, {"name": "Ljupče", "text": "A Ljupče tó Gradacban található, nyugodt környezetet nyújtva a sétákhoz és a természet megfigyeléséhez.", "category": "natural", "coords": [17.316426, 43.145063]}], "ro": [{"name": "Plaja Gornja Vala", "text": "Plaja Gornja Vala din Gradac impresionează ca una dintre cele mai lungi și mai spațioase plaje cu pietriș de pe întreaga Rivieră Makarska. Peisajul extins și pinii care oferă umbră creează o atmosferă minunat de plină de viață, dar relaxantă, atât pentru tineri, cât și pentru cei în vârstă. Aici puteți face plimbări lungi pe plajă, puteți înota în marea vastă și puteți petrece toată ziua la umbra pinilor. Datorită dimensiunii sale masive, veți găsi un loc relaxant unde să vă așezați chiar și în zilele aglomerate de vară.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/gradac-makarska-gornja-vala-strand.webp", "coords": [17.262045, 43.150232]}, {"name": "Plaža Česminica", "text": "Plaža Česminica este o porțiune de coastă situată central în Gradac, pe Riviera Makarska, atrăgând vizitatorii cu apa sa limpede. Atmosfera necomplicată și sociabilă face din această plajă un loc de întâlnire popular pentru localnici și turiști. O scufundare în apa răcoroasă aduce o împrospătare rapidă, în timp ce promenada invită la scurte plimbări. Acest loc este ideal pentru a merge spontan la mare și a te bucura de farmecul maritim.", "category": "recreational", "coords": [17.182641, 43.125162]}, {"name": "Ljupče", "text": "Ljupče este un lac situat în Gradac, oferind un cadru liniștit pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.316426, 43.145063]}], "en": [{"name": "Gornja Vala Beach", "text": "Gornja Vala Beach in Gradac impresses as one of the longest and most spacious gravel beaches on the entire Makarska Riviera. The expansive setting and the shade-providing pine trees create a wonderfully lively yet restful mood for visitors of all ages. You can take glorious beach walks, swim in the wide sea, and spend the entire day in the shade of the pines. Thanks to its vast size, it is easy to find a relaxing spot to settle down even on busy summer days.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/gradac-makarska-gornja-vala-strand.webp", "coords": [17.262045, 43.150232]}, {"name": "Plaža Česminica", "text": "Plaža Česminica is a centrally located coastal stretch in Gradac on the Makarska Riviera, beckoning visitors with its clear water. The uncomplicated, sociable atmosphere makes this beach a popular meeting spot for locals and tourists alike. A jump into the cool water provides quick refreshment, while the promenade invites guests for short strolls. This spot is perfect for spontaneously heading to the sea and soaking in the maritime flair.", "category": "recreational", "coords": [17.182641, 43.125162]}, {"name": "Ljupče", "text": "Ljupče is a lake situated in Gradac, providing a calm setting for walks and nature observation.", "category": "natural", "coords": [17.316426, 43.145063]}], "hr": [{"name": "Plaža Česminica", "text": "Središnja plaža u Gradcu Makarskoj s čistim morem.", "category": "recreational", "coords": [17.182641, 43.125162]}]}},
   {"id": "klek", "type": "city", "parent": "HR-19", "coords": [17.5142, 42.9233], "population": 198, "tier": 3, "name": {"de": "Klek", "hu": "Klek", "ro": "Klek", "en": "Klek"}, "description": {"de": "Klek ist ein malerischer Ferienort in Süddalmatien, der in einer ruhigen Bucht nahe der Halbinsel Pelješac liegt und mit kristallklarem Wasser und Olivenhainen besticht.", "hu": "Klek egy festői üdülőfalu Dél-Dalmáciában, a Pelješac-félsziget tövében, ahol kristálytiszta öblök és évszázados olajfaligetek várják a nyugalomra vágyó utazókat.", "ro": "Klek este un sat pitoresc de vacanță în Dalmația de Sud, situat într-un golf liniștit lângă peninsula Pelješac, renumit pentru apele sale limpezi și livezile de măslini.", "en": "Klek is a charming coastal village in South Dalmatia, nestled in a protected bay near the Pelješac bridge, offering serene pebble beaches and authentic Mediterranean vibes."}, "facts": {"de": ["Lage in Süddalmatien", "Einwohnerzahl von 198 Personen", "Kieselstrände in der Bucht", "Nahe der neuen Pelješac-Brücke", "Traditionelle Olivenöl-Produktion", "Festung Smrdan grad oberhalb", "Ehemaliges Territorium von Ragusa", "Ideal für einen Familienurlaub"], "hu": ["Dél-Dalmáciában helyezkedik el", "Lakossága mindössze 198 fő", "Kavicsos strandok az öbölben", "A Pelješac-híd közvetlen közelében", "Olajbogyó-termesztés jellemzi", "Smrdan grad vára a falu felett", "Egykor a Raguzai Köztársaságé volt", "Családbarát üdülőhelyi hangulat"], "ro": ["Situat în Dalmația de Sud", "Populație de 198 de locuitori", "Plaje cu pietriș în golf", "Lângă noul pod Pelješac", "Producție locală de măsline", "Cetatea Smrdan grad pe deal", "Fost avanpost al Republicii Ragusa", "Atmosferă liniștită pentru familii"], "en": ["Located in South Dalmatia", "Population of 198 people", "Pebble beaches in the bay", "Near the Pelješac bridge", "Known for olive groves", "Smrdan grad fortress nearby", "Former Ragusan border outpost", "Great for quiet family vacations"]}, "image": "/poi-images/klek.webp", "imageHint": "Scenic view of Klek bay and peninsula in Croatia", "descriptionAdvanced": {"de": "Klek liegt an der kroatischen Küstenstraße und ist ein idealer Rückzugsort für Reisende, die dem Massentourismus entfliehen möchten. Das Dorf war einst Teil der Republik Ragusa und diente als wichtiger Grenzposten gegen die osmanische Expansion. Über dem Ort thront die Ruine der Festung Smrdan grad, die im 17. Jahrhundert zur Verteidigung errichtet wurde. Von dort aus genießt man einen weiten Blick über die Bucht von Mali Ston. Die geschützte Lage der Bucht sorgt für ruhiges, warmes Wasser, was Klek besonders bei Familien beliebt macht. Die Architektur ist geprägt von dalmatinischen Steinhäusern, darunter der markante Nonković-Turm aus der venezianischen Zeit. In der Umgebung finden Wanderer zahlreiche Pfade durch jahrhundertealte Olivenhaine, während Feinschmecker die frischen Meeresfrüchte der Region schätzen.", "hu": "Klek a horvát tengerpart egyik rejtett gyöngyszeme, amely a Neretva-delta és a Pelješac-félsziget közötti védett öbölben húzódik meg. A település történelme szorosan összefonódott a Dubrovniki Köztársasággal, hiszen fontos határőrvidék volt a török hódoltság idején. A falu fölött magasodó Smrdan grad romjai ma is a múlt védelmi rendszerére emlékeztetnek, ahonnan lélegzetelállító kilátás nyílik az Adriai-tengerre és a környező szigetekre. A látogatókat nem a tömegturizmus, hanem a békés, mediterrán atmoszféra vonzza ide, ahol a sós tengeri levegő keveredik a kabócák énekével és az olajfák illatával. A sekély, kavicsos strandok ideálisak kisgyermekes családoknak, míg a közeli vízi utak lehetőséget adnak a Neretva-völgy különleges mocsárvilágának felfedezésére is, ahol a madárvilág megfigyelése egyedülálló élményt nyújt.", "ro": "Klek este o destinație fermecătoare aflată pe magistrala adriatică, oferind un refugiu relaxant între Delta Neretvei și peninsula Pelješac. Istoria localității este strâns legată de Republica Ragusa, servind drept avanpost defensiv strategic. Ruinele cetății Smrdan grad, cocoțate pe dealul de deasupra satului, stau mărturie a luptelor împotriva expansiunii otomane din secolul al XVII-lea. Golful în formă de potcoavă adăpostește ape calme, fiind considerat unul dintre cele mai sigure locuri pentru înot din regiune. Vizitatorii pot explora Turnul Nonković, un monument istoric ce reflectă stilul arhitectural dalmațian autentic. Pe lângă plajă, Klek oferă acces facil către faimoasele crescătorii de scoici din Mali Ston și către peisajele unice ale Deltei Neretvei, unde se pot face plimbări cu bărci tradiționale prin canalele mlaștinilor, descoperind o biodiversitate rară.", "en": "Situated along the Adriatic Highway, Klek is a tranquil destination that captures the essence of Dalmatian life. Historically, the area served as a strategic point for the Republic of Ragusa, guarding its borders against Ottoman expansion. The most prominent landmark is the Smrdan grad fortress, located on a hill above the village, offering a panoramic view of the Malostonski Bay. Klek is characterized by its horseshoe-shaped bay, which provides calm waters perfect for swimming and water sports. Unlike the bustling hubs of Split or Dubrovnik, Klek offers a more intimate experience where local seafood, homegrown olive oil, and regional wines take center stage. Its proximity to the Neretva River delta also makes it an excellent base for birdwatching and exploring the unique marshland flora and fauna of southern Croatia, providing a perfect blend of sea and nature."}, "factsAdvanced": {"de": ["Festung Smrdan grad aus dem 17. Jahrhundert", "Nonković-Turm im Barockstil erbaut", "Über 2500 Sonnenstunden pro Jahr", "Dubrovnik ist ca. 70 km entfernt", "Durchschnittliche Wassertemperatur im Sommer 26 Grad", "Historische Stećci-Grabsteine in der Nähe"], "hu": ["A 17. századi Smrdan grad erődítmény védi", "A Nonković-torony velencei stílusú műemlék", "Évente több mint 2500 napsütéses óra", "Dubrovnik városa 70 km-re található", "A tenger hőmérséklete nyáron eléri a 26 fokot", "Középkori stećci sírkövek a környéken"], "ro": ["Cetatea Smrdan grad datează din secolul 17", "Turnul Nonković construit în stil baroc dalmațian", "Peste 2500 de ore de soare pe an", "Distanța până la Dubrovnik este de 70 km", "Apa mării atinge 26 grade Celsius în iulie", "Necropole de stećci găsite în împrejurimi"], "en": ["Smrdan grad fortress dates to the 17th century", "Nonković Tower is an 18th-century landmark", "Receives over 2500 hours of sun annually", "Located 70 km north of Dubrovnik", "Sea temperature peaks at 26 degrees Celsius", "Features unique medieval stećci tombstones"]}, "sights": {"de": [{"name": "Festung Smrdan grad", "text": "Die Ruinen einer mittelalterlichen Festung oberhalb von Klek bieten einen spektakulären Blick auf das Neretva-Delta.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/klek-festung-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Kapelle St. Liberan", "text": "Eine kleine Kapelle aus dem 19. Jahrhundert, die auf dem Weg zur Festung Smrdan grad liegt und zur Besinnung einlädt.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/klek-kapelle-st-liberan.webp", "coords": [17.533009, 42.90365]}, {"name": "Aussichtspunkt Smrdan grad", "text": "Von diesem Punkt aus hat man eine unvergleichliche Sicht auf die Halbinsel Pelješac und die tiefblaue Adria.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/klek-aussichtspunkt-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Plaza Popova Luka", "text": "Die Plaza Popova Luka liegt gut verborgen in einer ruhigen Bucht unweit von Klek. Die abgelegene Lage verleiht dem feinen Kiesstrand eine überaus friedliche und harmonische Atmosphäre. Die Badegäste können hier ungestört im Wasser schwimmen und dem sanften Rauschen der Natur zuhören. Ein Besuch an diesem ruhigen Fleckchen Erde ist eine wunderbare Möglichkeit, dem Alltag zu entfliehen.", "category": "recreational", "coords": [17.538765, 42.941781]}, {"name": "Rt Blace", "text": "Ein kleiner Leuchtturm am Kap Blace in der Nähe des Küstenortes Klek.", "category": "landmark", "coords": [17.518562, 42.924882]}, {"name": "Plaza Komarna", "text": "Die Plaza Komarna ist das pulsierende Zentrum des kleinen Dorfes Komarna nahe Klek und glänzt mit herrlichem Kies und klarem Wasser. Es herrscht eine fröhliche, dörfliche Stimmung, bei der sich Nachbarn und Urlauber gleichermaßen am Wasser erfreuen. Man kann genüsslich schwimmen gehen und anschließend auf den Steinen in der Sonne trocknen. Da der Strand schnell fußläufig erreichbar ist, bietet er sich ideal für kleine Pausen zwischendurch an.", "category": "recreational", "coords": [17.532768, 42.944134]}, {"name": "Kapa", "text": "Ein Berggipfel namens Kapa mit Blick auf das Küstengebiet bei Klek.", "category": "natural", "coords": [17.482878, 42.912041]}, {"name": "Uvala Brijesta", "text": "Eine malerische Bucht beim Dorf Brijesta, die gegenüber von Klek liegt.", "category": "natural", "coords": [17.527959, 42.906083]}, {"name": "Uvala Stinjevac", "text": "Eine natürliche Bucht an der Küste bei Klek, die sich durch ihre ruhige Umgebung auszeichnet.", "category": "natural", "coords": [17.491453, 42.911055]}, {"name": "Jagodište", "text": "Ein Gipfel im Hinterland von Klek mit Blick auf die umliegenden Hügel.", "category": "natural", "coords": [17.479354, 42.918216]}, {"name": "Roščica glava", "text": "Ein Berggipfel in dem zerklüfteten Gelände in der Nähe von Klek.", "category": "natural", "coords": [17.527757, 42.922706]}, {"name": "Oštri vrh", "text": "Ein markanter Gipfel bei Klek, der für seine spitze Form bekannt ist.", "category": "natural", "coords": [17.532279, 42.914543]}, {"name": "Pelješac-Brücke", "text": "Diese moderne Brücke verbindet die Halbinsel Pelješac direkt mit dem kroatischen Festland.", "category": "landmark", "coords": [17.535446, 42.931919]}, {"name": "Kuti", "text": "Der Kuti-See bei Klek ist ein wunderschöner Ort in der Natur.", "category": "natural", "coords": [17.603661, 42.955577]}, {"name": "Sitnica", "text": "Der Sitnica-See bei Klek lädt zum Entspannen in der Natur ein.", "category": "natural", "coords": [17.550345, 42.880721]}], "hu": [{"name": "Smrdan grad erőd", "text": "A Klek feletti dombon található középkori erőd romjai látványos kilátást nyújtanak a Neretva-deltára.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/klek-festung-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Szent Liberan-kápolna", "text": "A 19. századból származó kis kápolna a Smrdan grad erődhöz vezető úton található, csendes pihenőhelyet kínálva.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/klek-kapelle-st-liberan.webp", "coords": [17.533009, 42.90365]}, {"name": "Smrdan grad kilátópont", "text": "Erről a pontról páratlan kilátás nyílik a Pelješac-félszigetre és az Adria mélykék vizére.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/klek-aussichtspunkt-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Plaza Popova Luka", "text": "A Plaza Popova Luka jól elrejtve fekszik egy csendes öbölben, nem messze Klektől. Az eldugott fekvés rendkívül békés és harmonikus hangulatot kölcsönöz a finom kavicsos strandnak. A fürdőzők itt zavartalanul úszhatnak a vízben, és hallgathatják a természet lágy zúgását. Ennek a csendes kis földi paradicsomnak a meglátogatása csodálatos lehetőség a mindennapokból való kiszakadásra.", "category": "recreational", "coords": [17.538765, 42.941781]}, {"name": "Rt Blace", "text": "Egy kis világítótorony a Blace-foknál, Klek tengerparti település közelében.", "category": "landmark", "coords": [17.518562, 42.924882]}, {"name": "Plaza Komarna", "text": "A Plaza Komarna a Klek melletti kis falu, Komarna lüktető központja, amely gyönyörű kavicsokkal és tiszta vízzel büszkélkedhet. Vidám, falusias hangulat uralkodik itt, ahol a szomszédok és a nyaralók egyaránt élvezik a vizet. Kellemes úszások után a köveken szárítkozhatunk a napon. Mivel a strand gyalogosan is gyorsan elérhető, ideális választás a napközbeni apró szünetekhez.", "category": "recreational", "coords": [17.532768, 42.944134]}, {"name": "Kapa", "text": "A Kapa nevű hegycsúcs, amely a Klek környéki tengerparti részre néz.", "category": "natural", "coords": [17.482878, 42.912041]}, {"name": "Uvala Brijesta", "text": "Festői öböl Brijesta falu közelében, Klekkel szemben.", "category": "natural", "coords": [17.527959, 42.906083]}, {"name": "Uvala Stinjevac", "text": "Természetes öböl a Klek környéki tengerparton, amelyet nyugodt környezet jellemez.", "category": "natural", "coords": [17.491453, 42.911055]}, {"name": "Jagodište", "text": "Hegycsúcs Klek hátországában, kilátással a környező dombokra.", "category": "natural", "coords": [17.479354, 42.918216]}, {"name": "Roščica glava", "text": "Hegycsúcs a Klek közelében található sziklás terepen.", "category": "natural", "coords": [17.527757, 42.922706]}, {"name": "Oštri vrh", "text": "Jellegzetes hegycsúcs Klek közelében, amely hegyes formájáról ismert.", "category": "natural", "coords": [17.532279, 42.914543]}, {"name": "Pelješac-híd", "text": "Ez a modern híd közvetlen összeköttetést biztosít a Pelješac-félsziget és a horvát szárazföld között.", "category": "landmark", "coords": [17.535446, 42.931919]}, {"name": "Kuti", "text": "A Klek melletti Kuti-tó gyönyörű hely a természetben.", "category": "natural", "coords": [17.603661, 42.955577]}, {"name": "Sitnica", "text": "A Klek melletti Sitnica-tó pihenésre csábít a természetben.", "category": "natural", "coords": [17.550345, 42.880721]}], "ro": [{"name": "Cetatea Smrdan grad", "text": "Ruinele unei cetăți medievale deasupra localității Klek, oferind o vedere spectaculoasă asupra deltei râului Neretva.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/klek-festung-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Capela Sf. Liberan", "text": "O capelă mică din secolul al XIX-lea, situată pe drumul către cetatea Smrdan grad, invitând la meditație.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/klek-kapelle-st-liberan.webp", "coords": [17.533009, 42.90365]}, {"name": "Punctul de belvedere Smrdan grad", "text": "Din acest punct se deschide o vedere inegalabilă asupra peninsulei Pelješac și a albastrului profund al Adriaticii.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/klek-aussichtspunkt-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Plaza Popova Luka", "text": "Plaza Popova Luka este bine ascunsă într-un golf liniștit, nu departe de Klek. Locația retrasă oferă plajei cu pietriș fin o atmosferă extrem de pașnică și armonioasă. Cei care se scaldă pot înota netulburați în apă și pot asculta sunetul blând al naturii. O vizită în acest loc liniștit este o modalitate minunată de a scăpa de rutina zilnică.", "category": "recreational", "coords": [17.538765, 42.941781]}, {"name": "Rt Blace", "text": "Un mic far care marchează capul Blace, în apropierea localității de coastă Klek.", "category": "landmark", "coords": [17.518562, 42.924882]}, {"name": "Plaza Komarna", "text": "Plaza Komarna este centrul vibrant al micului sat Komarna de lângă Klek și strălucește prin pietrișul său minunat și apa limpede. Aici domină o atmosferă veselă, de sat, unde vecinii și turiștii se bucură deopotrivă de mare. Poți înota cu plăcere, iar apoi te poți usca la soare pe pietre. Având în vedere că plaja este la doar o scurtă plimbare pe jos, este ideală pentru mici pauze de-a lungul zilei.", "category": "recreational", "coords": [17.532768, 42.944134]}, {"name": "Kapa", "text": "Vârful muntos Kapa, care domină zona de coastă din apropiere de Klek.", "category": "natural", "coords": [17.482878, 42.912041]}, {"name": "Uvala Brijesta", "text": "Un golf pitoresc lângă satul Brijesta, situat vizavi de Klek.", "category": "natural", "coords": [17.527959, 42.906083]}, {"name": "Uvala Stinjevac", "text": "Un golf natural pe coasta de lângă Klek, caracterizat printr-un mediu liniștit.", "category": "natural", "coords": [17.491453, 42.911055]}, {"name": "Jagodište", "text": "Un vârf din hinterlandul localității Klek, oferind priveliști asupra dealurilor din jur.", "category": "natural", "coords": [17.479354, 42.918216]}, {"name": "Roščica glava", "text": "Un vârf muntos situat în terenul accidentat de lângă Klek.", "category": "natural", "coords": [17.527757, 42.922706]}, {"name": "Oštri vrh", "text": "Un vârf proeminent lângă Klek, cunoscut pentru forma sa ascuțită.", "category": "natural", "coords": [17.532279, 42.914543]}, {"name": "Pelješki most", "text": "Acest pod modern conectează peninsula Pelješac direct de restul Croației continentale.", "category": "landmark", "coords": [17.535446, 42.931919]}, {"name": "Kuti", "text": "Lacul Kuti de lângă Klek este un loc minunat în natură.", "category": "natural", "coords": [17.603661, 42.955577]}, {"name": "Sitnica", "text": "Lacul Sitnica de lângă Klek invită la relaxare în natură.", "category": "natural", "coords": [17.550345, 42.880721]}], "en": [{"name": "Smrdan grad Fortress", "text": "The ruins of a medieval fortress above Klek offer a spectacular panoramic view of the Neretva River Delta.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/klek-festung-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Chapel of St. Liberan", "text": "A small 19th-century chapel located on the path to Smrdan grad fortress, offering a peaceful spot for reflection.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/klek-kapelle-st-liberan.webp", "coords": [17.533009, 42.90365]}, {"name": "Smrdan grad Viewpoint", "text": "From this vantage point, you can enjoy an incomparable view of the Pelješac peninsula and the deep blue Adriatic.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/klek-aussichtspunkt-smrdan-grad.webp", "coords": [17.565734, 42.950492]}, {"name": "Plaza Popova Luka", "text": "Plaza Popova Luka is nicely tucked away in a quiet bay not far from Klek. Its secluded location lends the fine gravel beach a remarkably peaceful and harmonious atmosphere. Bathers can swim undisturbed in the water and listen to the gentle rustling of nature. Paying a visit to this quiet spot is a wonderful way to escape the daily grind.", "category": "recreational", "coords": [17.538765, 42.941781]}, {"name": "Rt Blace", "text": "A small lighthouse marking the Blace cape near the coastal town of Klek.", "category": "landmark", "coords": [17.518562, 42.924882]}, {"name": "Plaza Komarna", "text": "Plaza Komarna is the vibrant center of the small village of Komarna near Klek, shining with wonderful gravel and clear water. A cheerful, village-like mood prevails, where neighbors and holidaymakers alike enjoy the water. You can go for an enjoyable swim and then dry off in the sun on the stones. Since the beach is easily accessible on foot, it is an ideal spot for taking short breaks throughout the day.", "category": "recreational", "coords": [17.532768, 42.944134]}, {"name": "Kapa", "text": "A mountain peak named Kapa, overlooking the coastal area near Klek.", "category": "natural", "coords": [17.482878, 42.912041]}, {"name": "Uvala Brijesta", "text": "A scenic bay near the village of Brijesta, located across from Klek.", "category": "natural", "coords": [17.527959, 42.906083]}, {"name": "Uvala Stinjevac", "text": "A natural bay on the coastline near Klek, characterized by its quiet environment.", "category": "natural", "coords": [17.491453, 42.911055]}, {"name": "Jagodište", "text": "A peak in the hinterland of Klek, offering views of the surrounding hills.", "category": "natural", "coords": [17.479354, 42.918216]}, {"name": "Roščica glava", "text": "A mountain peak located in the rugged terrain near Klek.", "category": "natural", "coords": [17.527757, 42.922706]}, {"name": "Oštri vrh", "text": "A prominent peak near Klek, known for its sharp summit.", "category": "natural", "coords": [17.532279, 42.914543]}, {"name": "Pelješac Bridge", "text": "This modern bridge provides a direct connection between the Pelješac peninsula and the Croatian mainland.", "category": "landmark", "coords": [17.535446, 42.931919]}, {"name": "Kuti", "text": "Kuti lake near Klek is a beautiful place in nature.", "category": "natural", "coords": [17.603661, 42.955577]}, {"name": "Sitnica", "text": "Sitnica lake near Klek invites you to relax in nature.", "category": "natural", "coords": [17.550345, 42.880721]}], "hr": [{"name": "Plaza Popova Luka", "text": "Mirna šljunčana plaža smještena u uvali Popova Luka u blizini Kleka.", "category": "recreational", "coords": [17.538765, 42.941781]}, {"name": "Rt Blace", "text": "Mali svjetionik na rtu Blace u blizini obalnog mjesta Klek.", "category": "landmark", "coords": [17.518562, 42.924882]}, {"name": "Plaza Komarna", "text": "Popularna šljunčana plaža u mjestu Komarna kod Kleka, s čistim morem.", "category": "recreational", "coords": [17.532768, 42.944134]}, {"name": "Kapa", "text": "Planinski vrh Kapa s kojeg se pruža pogled na obalno područje kod Kleka.", "category": "natural", "coords": [17.482878, 42.912041]}, {"name": "Uvala Brijesta", "text": "Slikovita uvala kod mjesta Brijesta, smještena nasuprot Kleka.", "category": "natural", "coords": [17.527959, 42.906083]}, {"name": "Uvala Stinjevac", "text": "Prirodna uvala na obali kod Kleka, koju krasi mirno okruženje.", "category": "natural", "coords": [17.491453, 42.911055]}, {"name": "Jagodište", "text": "Vrh u zaleđu Kleka s kojeg se pruža pogled na okolna brda.", "category": "natural", "coords": [17.479354, 42.918216]}, {"name": "Roščica glava", "text": "Planinski vrh smješten na krševitom terenu u blizini Kleka.", "category": "natural", "coords": [17.527757, 42.922706]}, {"name": "Oštri vrh", "text": "Istaknuti vrh u blizini Kleka, poznat po svom oštrom usponu.", "category": "natural", "coords": [17.532279, 42.914543]}, {"name": "Pelješac Bridge", "text": "Ovaj moderni most pruža izravnu poveznicu između poluotoka Pelješca i ostatka hrvatskog kopna.", "category": "landmark", "coords": [17.535446, 42.931919]}]}},
-  {"id": "kolocep", "type": "city", "parent": "HR-19", "coords": [17.9881, 42.6797], "population": 174, "tier": 3, "name": {"de": "Koločep", "hu": "Koločep", "ro": "Koločep", "en": "Koločep"}, "description": {"de": "Die südlichste bewohnte Insel Kroatiens, ein autofreies Paradies mit Sandstränden direkt vor Dubrovnik.", "hu": "Horvátország legdélebbi lakott szigete, autómentes paradicsom homokos strandokkal, Dubrovnik szomszédságában.", "ro": "Cea mai sudică insulă locuită a Croației, un paradis fără mașini cu plaje de nisip chiar lângă Dubrovnik.", "en": "The southernmost inhabited island of Croatia, a car-free paradise with sandy beaches right in front of Dubrovnik."}, "facts": {"de": ["Fläche: ca. 2,4 km²", "Zwei Dörfer: Gornje und Donje Čelo", "Autofreie Insel", "Teil der Elaphiten-Inseln", "Höchster Punkt: 125 m", "Über 250 Sonnentage im Jahr", "Reich an Pinien- und Olivenwäldern", "20 Minuten Schifffahrt von Dubrovnik"], "hu": ["Területe: kb. 2,4 km²", "Két falu: Gornje és Donje Čelo", "Autómentes sziget", "Az Elafiti-szigetek része", "Legmagasabb pont: 125 m", "Évente több mint 250 napsütéses nap", "Fenyő- és olajfaerdőkben gazdag", "20 perc hajóút Dubrovnikból"], "ro": ["Suprafață: aprox. 2,4 km²", "Două sate: Gornje și Donje Čelo", "Insulă fără mașini", "Parte a insulelor Elafiti", "Cel mai înalt punct: 125 m", "Peste 250 de zile însorite pe an", "Bogată în păduri de pini și măslini", "20 de minute de navigație din Dubrovnik"], "en": ["Area: approx. 2.4 km²", "Two villages: Gornje and Donje Čelo", "Car-free island", "Part of the Elaphite Islands", "Highest point: 125 m", "Over 250 sunny days per year", "Rich in pine and olive forests", "20 minutes by boat from Dubrovnik"]}, "image": "/poi-images/kolocep.webp", "imageHint": "View of Donje Čelo bay and the coastal promenade of Koločep", "descriptionAdvanced": {"de": "Koločep, von den Einheimischen liebevoll Kalamota genannt, ist das nächstgelegene Eiland zu Dubrovnik und ein beliebtes Ziel für Tagesausflügler und Ruhesuchende. Die Insel ist vollständig autofrei, was sie zu einem perfekten Ort für ausgedehnte Wanderungen entlang der Küstenpfade macht. Zwei kleine Siedlungen, Donje Čelo und Gornje Čelo, liegen in geschützten Buchten und sind durch einen etwa drei Kilometer langen Weg verbunden. Koločep ist bekannt für seine üppige mediterrane Vegetation, darunter alte Olivenbäume, Johannisbrotbäume und dichte Pinienwälder, die bis an das kristallklare Meer reichen. Eine besondere Attraktion ist die Blaue Grotte, die man schwimmend erkunden kann. Trotz der Nähe zur geschäftigen Metropole Dubrovnik bewahrt sich die Insel eine urige Gelassenheit und zeitlose Schönheit.", "hu": "Koločep, amelyet a helyiek szeretettel Kalamotának neveznek, a Dubrovnikhoz legközelebb eső sziget, és népszerű célpont az egynapos kirándulók és a nyugalomra vágyók körében. A sziget teljesen autómentes, így tökéletes hely a tengerparti ösvényeken tett hosszú sétákhoz. Két kis település, Donje Čelo és Gornje Čelo védett öblökben fekszik, és egy körülbelül három kilométer hosszú út köti össze őket. Koločep buja mediterrán növényzetéről ismert, beleértve az öreg olajfákat, szentjánoskenyérfákat és sűrű fenyőerdőket, amelyek egészen a kristálytiszta tengerig érnek. Különleges látnivaló a Kék barlang, amelyet úszva lehet felfedezni. A nyüzsgő Dubrovnik közelsége ellenére a sziget megőrzi rusztikus nyugalmát és időtlen szépségét.", "ro": "Koločep, numită cu drag de localnici Kalamota, este cea mai apropiată insulă de Dubrovnik și o destinație populară pentru excursioniștii de o zi și pentru cei care caută liniștea. Insula este complet lipsită de mașini, ceea ce o face un loc perfect pentru drumeții lungi de-a lungul potecilor de coastă. Două mici așezări, Donje Čelo și Gornje Čelo, sunt situate în golfuri protejate și sunt legate printr-o potecă de aproximativ trei kilometri. Koločep este cunoscută pentru vegetația sa mediteraneană luxuriantă, inclusiv măslini bătrâni, roșcovi și păduri dese de pini care ajung până la marea cristalină. O atracție specială este Peștera Albastră, care poate fi explorată înot. În ciuda proximității față de metropola agitată Dubrovnik, insula își păstrează o seninătate rustică și o frumusețe atemporală.", "en": "Koločep, affectionately called Kalamota by locals, is the closest island to Dubrovnik and a popular destination for day-trippers and those seeking tranquility. The island is completely car-free, making it a perfect place for long hikes along coastal paths. Two small settlements, Donje Čelo and Gornje Čelo, are located in sheltered bays and are connected by a path about three kilometers long. Koločep is known for its lush Mediterranean vegetation, including old olive trees, carob trees, and dense pine forests that reach down to the crystal-clear sea. A special attraction is the Blue Cave, which can be explored by swimming. Despite its proximity to the bustling city of Dubrovnik, the island maintains a rustic serenity and timeless beauty."}, "factsAdvanced": {"de": ["Es gibt sieben vorromanische Kirchen aus dem 9. bis 11. Jahrhundert.", "Zwei Besatzungsmitglieder der Santa Maria von Kolumbus stammten von hier.", "Die Insel war einst ein wichtiges Zentrum für den Schiffbau der Republik Ragusa.", "Die Entfernung zum Hafen Gruž in Dubrovnik beträgt etwa 5 Kilometer.", "Auf der Insel gibt es keine Giftpflanzen oder gefährlichen Tiere.", "Im Sommer verkehrt die Fähre 'Postira' mehrmals täglich."], "hu": ["Hét preromán stílusú templom található itt a 9-11. századból.", "Kolumbusz Santa Maria hajójának két legénységi tagja innen származott.", "A sziget egykor a Raguzai Köztársaság fontos hajóépítő központja volt.", "A távolság a dubrovniki Gruž kikötőtől körülbelül 5 kilométer.", "A szigeten nincsenek mérgező növények vagy veszélyes állatok.", "Nyáron a 'Postira' komp naponta többször is közlekedik."], "ro": ["Există șapte biserici preromanice din secolele IX-XI.", "Doi membri ai echipajului de pe Santa Maria a lui Columb proveneau de aici.", "Insula a fost odinioară un centru important pentru construcția de nave a Republicii Ragusa.", "Distanța până la portul Gruž din Dubrovnik este de aproximativ 5 kilometri.", "Pe insulă nu există plante otrăvitoare sau animale periculoase.", "Vara, feribotul 'Postira' circulă de mai multe ori pe zi."], "en": ["There are seven pre-Romanesque churches from the 9th to 11th centuries.", "Two crew members of Columbus's Santa Maria were from this island.", "The island was once an important shipbuilding center for the Republic of Ragusa.", "The distance to Dubrovnik's Gruž harbor is about 5 kilometers.", "There are no poisonous plants or dangerous animals on the island.", "In summer, the ferry 'Postira' operates several times a day."]}, "sights": {"de": [{"name": "Dorf Donje Čelo", "text": "Das Hauptdorf der Insel mit einem schönen Sandstrand und traditionellen dalmatinischen Steinhäusern.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp", "coords": [18.003767, 42.678978]}, {"name": "Šunj", "text": "Ein beliebter Sandstrand auf den Elaphiten-Inseln, bekannt für sein seichtes Wasser und die mediterrane Natur.", "category": "recreational", "coords": [17.951997, 42.679926]}, {"name": "Plaža Ingalo", "text": "Ein ruhiger Küstenabschnitt erwartet Besucher an der Plaža Ingalo bei Koločep. Wer Entspannung an der kroatischen Adria sucht, findet hier eine ideale, friedliche Atmosphäre. Ein morgendlicher Besuch empfiehlt sich, um die Stille am Wasser voll auszukosten.", "category": "recreational", "coords": [18.004539, 42.677327]}, {"name": "secret beach", "text": "Versteckt auf der Insel Koločep bietet dieser abgelegene Strand ein Höchstmaß an Privatsphäre. Das klare Meerwasser der kroatischen Küste lädt hier zu ungestörtem Schwimmen ein. Für Ruhesuchende ist dieser Küstenabschnitt besonders an warmen Sommertagen ein wunderbarer Rückzugsort.", "category": "recreational", "coords": [17.994043, 42.701817]}, {"name": "Kameno Brdo", "text": "Eine Erhebung auf der Insel Koločep, die Wanderern einen weiten Blick über den Archipel bietet.", "category": "natural", "coords": [18.006443, 42.673589]}], "hu": [{"name": "Donje Čelo település", "text": "A sziget központi faluja gyönyörű homokos stranddal és hagyományos dalmát kőházakkal.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp", "coords": [18.003767, 42.678978]}, {"name": "Šunj", "text": "Népszerű homokos strand az Elafiti-szigeteken, amely sekély vizéről és mediterrán környezetéről ismert.", "category": "recreational", "coords": [17.951997, 42.679926]}, {"name": "Plaža Ingalo", "text": "A Koločep közelében található Plaža Ingalo egy csendes partszakasszal várja a látogatókat. Azok, akik a horvát Adriai-tengernél keresnek kikapcsolódást, ideális, békés légkörre lelhetnek itt. Érdemes a reggeli órákban érkezni, hogy zavartalanul élvezhessük a vízparti nyugalmat.", "category": "recreational", "coords": [18.004539, 42.677327]}, {"name": "secret beach", "text": "A Koločep szigetén megbúvó eldugott strand kivételes magánszférát kínál. A horvát tengerpart tiszta vize zavartalan úszásra csábít ezen a ponton. A nyugalmat keresők számára ez a partszakasz csodálatos menedék, különösen a meleg nyári napokon.", "category": "recreational", "coords": [17.994043, 42.701817]}, {"name": "Kameno Brdo", "text": "Kiemelkedő pont Koločep szigetén, ahonnan szép kilátás nyílik a környező szigetvilágra.", "category": "natural", "coords": [18.006443, 42.673589]}], "ro": [{"name": "Satul Donje Čelo", "text": "Localitatea principală a insulei, cu o plajă frumoasă de nisip și case tradiționale dalmate din piatră.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp", "coords": [18.003767, 42.678978]}, {"name": "Šunj", "text": "O plajă de nisip populară din insulele Elafite, cunoscută pentru apele sale puțin adânci și natura mediteraneană.", "category": "recreational", "coords": [17.951997, 42.679926]}, {"name": "Plaža Ingalo", "text": "O porțiune de coastă liniștită îi așteaptă pe vizitatori la Plaža Ingalo de lângă Koločep. Cei care caută relaxare la Marea Adriatică din Croația vor găsi aici o atmosferă ideală și pașnică. Se recomandă o vizită dis-de-dimineață pentru a vă bucura pe deplin de liniștea de la malul apei.", "category": "recreational", "coords": [18.004539, 42.677327]}, {"name": "secret beach", "text": "Ascunsă pe insula Koločep, această plajă izolată oferă un nivel ridicat de intimitate. Apa limpede a coastei croate îi invită pe vizitatori la înot netulburat în acest loc. Pentru cei care caută liniștea, această porțiune este un refugiu minunat, în special în zilele calde de vară.", "category": "recreational", "coords": [17.994043, 42.701817]}, {"name": "Kameno Brdo", "text": "O colină pe insula Koločep care oferă drumeților o vedere panoramică asupra arhipelagului.", "category": "natural", "coords": [18.006443, 42.673589]}], "en": [{"name": "Donje Čelo Village", "text": "The island's main hub, featuring a sandy beach and traditional Dalmatian stone architecture.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp", "coords": [18.003767, 42.678978]}, {"name": "Šunj", "text": "A popular sandy beach in the Elafiti Islands, known for its shallow waters and Mediterranean surroundings.", "category": "recreational", "coords": [17.951997, 42.679926]}, {"name": "Plaža Ingalo", "text": "A quiet stretch of coast awaits visitors at Plaža Ingalo near Koločep. Those seeking relaxation by the Croatian Adriatic will find an ideal, peaceful atmosphere here. An early morning visit is recommended to fully enjoy the serenity by the water.", "category": "recreational", "coords": [18.004539, 42.677327]}, {"name": "secret beach", "text": "Hidden away on the island of Koločep, this remote beach offers a high degree of privacy. The clear seawater of the Croatian coast invites visitors to enjoy undisturbed swimming. For those seeking tranquility, this stretch of coast is a wonderful retreat, especially on warm summer days.", "category": "recreational", "coords": [17.994043, 42.701817]}, {"name": "Kameno Brdo", "text": "A hill on Koločep island that offers hikers a wide view over the archipelago.", "category": "natural", "coords": [18.006443, 42.673589]}], "hr": [{"name": "Šunj", "text": "Popularna pješčana plaža na Elafitskim otocima, poznata po plitkom moru i mediteranskom okruženju.", "category": "recreational", "coords": [17.951997, 42.679926]}, {"name": "Plaža Ingalo", "text": "Mirni dio plaže kod Koločepa, idealan za opuštanje uz jadransku obalu.", "category": "recreational", "coords": [18.004539, 42.677327]}, {"name": "secret beach", "text": "Skrivena plaža na otoku Koločepu koja nudi privatnost i čisto more.", "category": "recreational", "coords": [17.994043, 42.701817]}, {"name": "Kameno Brdo", "text": "Uzvisina na otoku Koločepu koja pješacima nudi prekrasan pogled na arhipelag.", "category": "natural", "coords": [18.006443, 42.673589]}]}},
+  {"id": "kolocep", "type": "city", "parent": "HR-19", "coords": [17.9881, 42.6797], "population": 174, "tier": 3, "name": {"de": "Koločep", "hu": "Koločep", "ro": "Koločep", "en": "Koločep"}, "description": {"de": "Die südlichste bewohnte Insel Kroatiens, ein autofreies Paradies mit Sandstränden direkt vor Dubrovnik.", "hu": "Horvátország legdélebbi lakott szigete, autómentes paradicsom homokos strandokkal, Dubrovnik szomszédságában.", "ro": "Cea mai sudică insulă locuită a Croației, un paradis fără mașini cu plaje de nisip chiar lângă Dubrovnik.", "en": "The southernmost inhabited island of Croatia, a car-free paradise with sandy beaches right in front of Dubrovnik."}, "facts": {"de": ["Fläche: ca. 2,4 km²", "Zwei Dörfer: Gornje und Donje Čelo", "Autofreie Insel", "Teil der Elaphiten-Inseln", "Höchster Punkt: 125 m", "Über 250 Sonnentage im Jahr", "Reich an Pinien- und Olivenwäldern", "20 Minuten Schifffahrt von Dubrovnik"], "hu": ["Területe: kb. 2,4 km²", "Két falu: Gornje és Donje Čelo", "Autómentes sziget", "Az Elafiti-szigetek része", "Legmagasabb pont: 125 m", "Évente több mint 250 napsütéses nap", "Fenyő- és olajfaerdőkben gazdag", "20 perc hajóút Dubrovnikból"], "ro": ["Suprafață: aprox. 2,4 km²", "Două sate: Gornje și Donje Čelo", "Insulă fără mașini", "Parte a insulelor Elafiti", "Cel mai înalt punct: 125 m", "Peste 250 de zile însorite pe an", "Bogată în păduri de pini și măslini", "20 de minute de navigație din Dubrovnik"], "en": ["Area: approx. 2.4 km²", "Two villages: Gornje and Donje Čelo", "Car-free island", "Part of the Elaphite Islands", "Highest point: 125 m", "Over 250 sunny days per year", "Rich in pine and olive forests", "20 minutes by boat from Dubrovnik"]}, "image": "/poi-images/kolocep.webp", "imageHint": "View of Donje Čelo bay and the coastal promenade of Koločep", "descriptionAdvanced": {"de": "Koločep, von den Einheimischen liebevoll Kalamota genannt, ist das nächstgelegene Eiland zu Dubrovnik und ein beliebtes Ziel für Tagesausflügler und Ruhesuchende. Die Insel ist vollständig autofrei, was sie zu einem perfekten Ort für ausgedehnte Wanderungen entlang der Küstenpfade macht. Zwei kleine Siedlungen, Donje Čelo und Gornje Čelo, liegen in geschützten Buchten und sind durch einen etwa drei Kilometer langen Weg verbunden. Koločep ist bekannt für seine üppige mediterrane Vegetation, darunter alte Olivenbäume, Johannisbrotbäume und dichte Pinienwälder, die bis an das kristallklare Meer reichen. Eine besondere Attraktion ist die Blaue Grotte, die man schwimmend erkunden kann. Trotz der Nähe zur geschäftigen Metropole Dubrovnik bewahrt sich die Insel eine urige Gelassenheit und zeitlose Schönheit.", "hu": "Koločep, amelyet a helyiek szeretettel Kalamotának neveznek, a Dubrovnikhoz legközelebb eső sziget, és népszerű célpont az egynapos kirándulók és a nyugalomra vágyók körében. A sziget teljesen autómentes, így tökéletes hely a tengerparti ösvényeken tett hosszú sétákhoz. Két kis település, Donje Čelo és Gornje Čelo védett öblökben fekszik, és egy körülbelül három kilométer hosszú út köti össze őket. Koločep buja mediterrán növényzetéről ismert, beleértve az öreg olajfákat, szentjánoskenyérfákat és sűrű fenyőerdőket, amelyek egészen a kristálytiszta tengerig érnek. Különleges látnivaló a Kék barlang, amelyet úszva lehet felfedezni. A nyüzsgő Dubrovnik közelsége ellenére a sziget megőrzi rusztikus nyugalmát és időtlen szépségét.", "ro": "Koločep, numită cu drag de localnici Kalamota, este cea mai apropiată insulă de Dubrovnik și o destinație populară pentru excursioniștii de o zi și pentru cei care caută liniștea. Insula este complet lipsită de mașini, ceea ce o face un loc perfect pentru drumeții lungi de-a lungul potecilor de coastă. Două mici așezări, Donje Čelo și Gornje Čelo, sunt situate în golfuri protejate și sunt legate printr-o potecă de aproximativ trei kilometri. Koločep este cunoscută pentru vegetația sa mediteraneană luxuriantă, inclusiv măslini bătrâni, roșcovi și păduri dese de pini care ajung până la marea cristalină. O atracție specială este Peștera Albastră, care poate fi explorată înot. În ciuda proximității față de metropola agitată Dubrovnik, insula își păstrează o seninătate rustică și o frumusețe atemporală.", "en": "Koločep, affectionately called Kalamota by locals, is the closest island to Dubrovnik and a popular destination for day-trippers and those seeking tranquility. The island is completely car-free, making it a perfect place for long hikes along coastal paths. Two small settlements, Donje Čelo and Gornje Čelo, are located in sheltered bays and are connected by a path about three kilometers long. Koločep is known for its lush Mediterranean vegetation, including old olive trees, carob trees, and dense pine forests that reach down to the crystal-clear sea. A special attraction is the Blue Cave, which can be explored by swimming. Despite its proximity to the bustling city of Dubrovnik, the island maintains a rustic serenity and timeless beauty."}, "factsAdvanced": {"de": ["Es gibt sieben vorromanische Kirchen aus dem 9. bis 11. Jahrhundert.", "Zwei Besatzungsmitglieder der Santa Maria von Kolumbus stammten von hier.", "Die Insel war einst ein wichtiges Zentrum für den Schiffbau der Republik Ragusa.", "Die Entfernung zum Hafen Gruž in Dubrovnik beträgt etwa 5 Kilometer.", "Auf der Insel gibt es keine Giftpflanzen oder gefährlichen Tiere.", "Im Sommer verkehrt die Fähre 'Postira' mehrmals täglich."], "hu": ["Hét preromán stílusú templom található itt a 9-11. századból.", "Kolumbusz Santa Maria hajójának két legénységi tagja innen származott.", "A sziget egykor a Raguzai Köztársaság fontos hajóépítő központja volt.", "A távolság a dubrovniki Gruž kikötőtől körülbelül 5 kilométer.", "A szigeten nincsenek mérgező növények vagy veszélyes állatok.", "Nyáron a 'Postira' komp naponta többször is közlekedik."], "ro": ["Există șapte biserici preromanice din secolele IX-XI.", "Doi membri ai echipajului de pe Santa Maria a lui Columb proveneau de aici.", "Insula a fost odinioară un centru important pentru construcția de nave a Republicii Ragusa.", "Distanța până la portul Gruž din Dubrovnik este de aproximativ 5 kilometri.", "Pe insulă nu există plante otrăvitoare sau animale periculoase.", "Vara, feribotul 'Postira' circulă de mai multe ori pe zi."], "en": ["There are seven pre-Romanesque churches from the 9th to 11th centuries.", "Two crew members of Columbus's Santa Maria were from this island.", "The island was once an important shipbuilding center for the Republic of Ragusa.", "The distance to Dubrovnik's Gruž harbor is about 5 kilometers.", "There are no poisonous plants or dangerous animals on the island.", "In summer, the ferry 'Postira' operates several times a day."]}, "sights": {
+      "de": [
+            {
+                  "name": "Dorf Donje Čelo",
+                  "text": "Das Hauptdorf der Insel mit einem schönen Sandstrand und traditionellen dalmatinischen Steinhäusern.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp",
+                  "coords": [
+                        18.003767,
+                        42.678978
+                  ]
+            },
+            {
+                  "name": "Šunj",
+                  "text": "Ein beliebter Sandstrand auf den Elaphiten-Inseln, bekannt für sein seichtes Wasser und die mediterrane Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        17.951997,
+                        42.679926
+                  ]
+            },
+            {
+                  "name": "Plaža Ingalo",
+                  "text": "Ein ruhiger Küstenabschnitt erwartet Besucher an der Plaža Ingalo bei Koločep. Wer Entspannung an der kroatischen Adria sucht, findet hier eine ideale, friedliche Atmosphäre. Ein morgendlicher Besuch empfiehlt sich, um die Stille am Wasser voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.004539,
+                        42.677327
+                  ]
+            },
+            {
+                  "name": "secret beach",
+                  "text": "Versteckt auf der Insel Koločep bietet dieser abgelegene Strand ein Höchstmaß an Privatsphäre. Das klare Meerwasser der kroatischen Küste lädt hier zu ungestörtem Schwimmen ein. Für Ruhesuchende ist dieser Küstenabschnitt besonders an warmen Sommertagen ein wunderbarer Rückzugsort.",
+                  "category": "recreational",
+                  "coords": [
+                        17.994043,
+                        42.701817
+                  ]
+            },
+            {
+                  "name": "Kameno Brdo",
+                  "text": "Eine Erhebung auf der Insel Koločep, die Wanderern einen weiten Blick über den Archipel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.006443,
+                        42.673589
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein abgelegener FKK-Badeplatz auf der kroatischen Insel Koločep.",
+                  "category": "recreational",
+                  "coords": [
+                        17.99857,
+                        42.678167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Donje Čelo település",
+                  "text": "A sziget központi faluja gyönyörű homokos stranddal és hagyományos dalmát kőházakkal.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp",
+                  "coords": [
+                        18.003767,
+                        42.678978
+                  ]
+            },
+            {
+                  "name": "Šunj",
+                  "text": "Népszerű homokos strand az Elafiti-szigeteken, amely sekély vizéről és mediterrán környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        17.951997,
+                        42.679926
+                  ]
+            },
+            {
+                  "name": "Plaža Ingalo",
+                  "text": "A Koločep közelében található Plaža Ingalo egy csendes partszakasszal várja a látogatókat. Azok, akik a horvát Adriai-tengernél keresnek kikapcsolódást, ideális, békés légkörre lelhetnek itt. Érdemes a reggeli órákban érkezni, hogy zavartalanul élvezhessük a vízparti nyugalmat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.004539,
+                        42.677327
+                  ]
+            },
+            {
+                  "name": "secret beach",
+                  "text": "A Koločep szigetén megbúvó eldugott strand kivételes magánszférát kínál. A horvát tengerpart tiszta vize zavartalan úszásra csábít ezen a ponton. A nyugalmat keresők számára ez a partszakasz csodálatos menedék, különösen a meleg nyári napokon.",
+                  "category": "recreational",
+                  "coords": [
+                        17.994043,
+                        42.701817
+                  ]
+            },
+            {
+                  "name": "Kameno Brdo",
+                  "text": "Kiemelkedő pont Koločep szigetén, ahonnan szép kilátás nyílik a környező szigetvilágra.",
+                  "category": "natural",
+                  "coords": [
+                        18.006443,
+                        42.673589
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Eldugott naturista fürdőhely a horvátországi Koločep-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        17.99857,
+                        42.678167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Satul Donje Čelo",
+                  "text": "Localitatea principală a insulei, cu o plajă frumoasă de nisip și case tradiționale dalmate din piatră.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp",
+                  "coords": [
+                        18.003767,
+                        42.678978
+                  ]
+            },
+            {
+                  "name": "Šunj",
+                  "text": "O plajă de nisip populară din insulele Elafite, cunoscută pentru apele sale puțin adânci și natura mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        17.951997,
+                        42.679926
+                  ]
+            },
+            {
+                  "name": "Plaža Ingalo",
+                  "text": "O porțiune de coastă liniștită îi așteaptă pe vizitatori la Plaža Ingalo de lângă Koločep. Cei care caută relaxare la Marea Adriatică din Croația vor găsi aici o atmosferă ideală și pașnică. Se recomandă o vizită dis-de-dimineață pentru a vă bucura pe deplin de liniștea de la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        18.004539,
+                        42.677327
+                  ]
+            },
+            {
+                  "name": "secret beach",
+                  "text": "Ascunsă pe insula Koločep, această plajă izolată oferă un nivel ridicat de intimitate. Apa limpede a coastei croate îi invită pe vizitatori la înot netulburat în acest loc. Pentru cei care caută liniștea, această porțiune este un refugiu minunat, în special în zilele calde de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        17.994043,
+                        42.701817
+                  ]
+            },
+            {
+                  "name": "Kameno Brdo",
+                  "text": "O colină pe insula Koločep care oferă drumeților o vedere panoramică asupra arhipelagului.",
+                  "category": "natural",
+                  "coords": [
+                        18.006443,
+                        42.673589
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Un loc de scăldat retras pentru naturiști pe insula croată Koločep.",
+                  "category": "recreational",
+                  "coords": [
+                        17.99857,
+                        42.678167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Donje Čelo Village",
+                  "text": "The island's main hub, featuring a sandy beach and traditional Dalmatian stone architecture.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/kolocep-dorf-donje-elo.webp",
+                  "coords": [
+                        18.003767,
+                        42.678978
+                  ]
+            },
+            {
+                  "name": "Šunj",
+                  "text": "A popular sandy beach in the Elafiti Islands, known for its shallow waters and Mediterranean surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        17.951997,
+                        42.679926
+                  ]
+            },
+            {
+                  "name": "Plaža Ingalo",
+                  "text": "A quiet stretch of coast awaits visitors at Plaža Ingalo near Koločep. Those seeking relaxation by the Croatian Adriatic will find an ideal, peaceful atmosphere here. An early morning visit is recommended to fully enjoy the serenity by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        18.004539,
+                        42.677327
+                  ]
+            },
+            {
+                  "name": "secret beach",
+                  "text": "Hidden away on the island of Koločep, this remote beach offers a high degree of privacy. The clear seawater of the Croatian coast invites visitors to enjoy undisturbed swimming. For those seeking tranquility, this stretch of coast is a wonderful retreat, especially on warm summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        17.994043,
+                        42.701817
+                  ]
+            },
+            {
+                  "name": "Kameno Brdo",
+                  "text": "A hill on Koločep island that offers hikers a wide view over the archipelago.",
+                  "category": "natural",
+                  "coords": [
+                        18.006443,
+                        42.673589
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A secluded nudist swimming spot on the Croatian island of Koločep.",
+                  "category": "recreational",
+                  "coords": [
+                        17.99857,
+                        42.678167
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Šunj",
+                  "text": "Popularna pješčana plaža na Elafitskim otocima, poznata po plitkom moru i mediteranskom okruženju.",
+                  "category": "recreational",
+                  "coords": [
+                        17.951997,
+                        42.679926
+                  ]
+            },
+            {
+                  "name": "Plaža Ingalo",
+                  "text": "Mirni dio plaže kod Koločepa, idealan za opuštanje uz jadransku obalu.",
+                  "category": "recreational",
+                  "coords": [
+                        18.004539,
+                        42.677327
+                  ]
+            },
+            {
+                  "name": "secret beach",
+                  "text": "Skrivena plaža na otoku Koločepu koja nudi privatnost i čisto more.",
+                  "category": "recreational",
+                  "coords": [
+                        17.994043,
+                        42.701817
+                  ]
+            },
+            {
+                  "name": "Kameno Brdo",
+                  "text": "Uzvisina na otoku Koločepu koja pješacima nudi prekrasan pogled na arhipelag.",
+                  "category": "natural",
+                  "coords": [
+                        18.006443,
+                        42.673589
+                  ]
+            }
+      ]
+}},
   {"id": "krapina", "type": "city", "parent": "HR-02", "coords": [15.8753, 46.1606], "population": 12480, "tier": 3, "name": {"de": "Krapina", "hu": "Korpona", "ro": "Krapina", "en": "Krapina"}, "description": {"de": "Das historische Zentrum der Region Zagorje, weltweit bekannt für die Neandertaler-Funde auf dem Hügel Hušnjakovo. Geburtsort von Ljudevit Gaj, dem Führer der illyrischen Bewegung.", "hu": "A horvát Zagorje történelmi központja, amely a Hušnjakovo-dombon talált neandervölgyi leletekről világhírű. Itt született Ljudevit Gaj, az illír mozgalom vezéralakja.", "ro": "Centrul istoric al regiunii Zagorje, cunoscut la nivel mondial pentru descoperirile omului de Neanderthal de pe dealul Hušnjakovo. Locul de naștere al lui Ljudevit Gaj.", "en": "The historical center of the Zagorje region, world-renowned for the Neanderthal fossil remains found on Hušnjakovo Hill. It is the birthplace of Ljudevit Gaj."}, "facts": {"de": ["Sitz der Gespanschaft Krapina-Zagorje", "Wichtigste Neandertaler-Fundstelle Europas", "Erstmalige Erwähnung im Jahr 1222", "Hügel Hušnjakovo mit modernem Museum", "Heimat des Dichters Ljudevit Gaj", "Zentrum des Kajkavischen Dialekts", "Gelegen am Fluss Krapinčica", "Etwa 46 Kilometer nördlich von Zagreb"], "hu": ["Krapina-Zagorje megye székhelye", "Európa egyik legfontosabb ősember-lelőhelye", "Első írásos említése 1222-ből származik", "A Hušnjakovo-domb és a modern múzeum", "Ljudevit Gaj szülővárosa és lakóháza", "A kaj-horvát nyelvjárás kulturális központja", "A Krapinčica-folyó völgyében fekszik", "Zágrábtól 46 kilométerre északra található"], "ro": ["Reședința cantonului Krapina-Zagorje", "Cel mai important sit Neanderthal din Europa", "Prima atestare documentară în anul 1222", "Dealul Hušnjakovo și muzeul multimedia", "Orașul natal al lui Ljudevit Gaj", "Centrul cultural al dialectului kajkavian", "Situat pe valea râului Krapinčica", "Aproximativ 46 de kilometri nord de Zagreb"], "en": ["Administrative center of Krapina-Zagorje County", "One of the major Neanderthal sites in Europe", "First historical mention dates back to 1222", "Hušnjakovo Hill and high-tech museum", "Birthplace of linguist Ljudevit Gaj", "Cultural hub for the Kajkavian dialect", "Located on the banks of Krapinčica River", "Situated 46 kilometers north of Zagreb"]}, "image": "/poi-images/krapina.webp", "imageHint": "Modern Neanderthal Museum and historic city center of Krapina", "descriptionAdvanced": {"de": "Krapina, eingebettet in die sanften Hügel der kroatischen Zagorje-Region, ist eine Stadt von weltweiter paläontologischer Bedeutung. Ihr Ruhm gründet auf dem Fundort Hušnjakovo, wo der Forscher Dragutin Gorjanović-Kramberger Ende des 19. Jahrhunderts eine der größten Sammlungen von Neandertaler-Knochen der Welt entdeckte. Heute beherbergt das hochmoderne Neandertalermuseum Krapina, das sich direkt am Fundort befindet, eine beeindruckende interaktive Ausstellung, die Besucher auf eine Reise in die Urgeschichte mitnimmt und das Leben dieser frühen Menschen anschaulich darstellt. Doch Krapina ist mehr als nur seine prähistorische Vergangenheit. Die charmante Altstadt mit der Pfarrkirche St. Nikolaus und dem Geburtshaus des kroatischen Sprachreformers Ljudevit Gaj lädt zum Verweilen ein. Die umliegende Landschaft ist geprägt von Weinbergen, kleinen Kapellen und traditionellen Bauernhöfen, die regionale Köstlichkeiten anbieten. Jedes Jahr im September wird die Stadt beim Festival des kajkawischen Liedes (Festival kajkavskih popevki) zum Zentrum der regionalen Kultur und Musik, was einen Besuch besonders lohnenswert macht.", "hu": "Krapina, a horvát Zagorje lankás dombjai közé ékelődve, világszerte jelentős őslénytani központ. Hírnevét a Hušnjakovo-lelőhelynek köszönheti, ahol a 19. század végén Dragutin Gorjanović-Kramberger kutató a világ egyik legnagyobb neandervölgyi emberi csontgyűjteményét fedezte fel. Ma a közvetlenül a lelőhely mellett található, ultramodern Krapinai Neandervölgyi Múzeum lenyűgöző interaktív kiállítással várja a látogatókat, amely egy utazásra visz az őstörténetbe, és élénken mutatja be e korai emberek életét. De Krapina több, mint a történelem előtti múltja. A bájos óváros a Szent Miklós-plébániatemplommal és a horvát nyelvújító, Ljudevit Gaj szülőházával hívogatja a látogatókat. A környező tájat szőlőültetvények, kis kápolnák és hagyományos gazdaságok jellemzik, amelyek regionális finomságokat kínálnak. Minden év szeptemberében a város a Kajkáv dalok fesztiválja (Festival kajkavskih popevki) idején a regionális kultúra és zene központjává válik, ami különösen érdemessé teszi a látogatást.", "ro": "Krapina, așezată între dealurile domoale ale regiunii croate Zagorje, este un oraș de importanță paleontologică mondială. Faima sa se bazează pe situl Hušnjakovo, unde, la sfârșitul secolului al XIX-lea, cercetătorul Dragutin Gorjanović-Kramberger a descoperit una dintre cele mai mari colecții de oase de neanderthalian din lume. Astăzi, Muzeul Neanderthalienilor din Krapina, ultramodern și situat chiar la locul descoperirii, găzduiește o expoziție interactivă impresionantă care poartă vizitatorii într-o călătorie în preistorie, ilustrând în mod viu viața acestor oameni timpurii. Dar Krapina este mai mult decât trecutul său preistoric. Centrul vechi fermecător, cu biserica parohială Sfântul Nicolae și casa natală a reformatorului limbii croate Ljudevit Gaj, invită la relaxare. Peisajul înconjurător este caracterizat de podgorii, capele mici și ferme tradiționale care oferă delicatese regionale. În fiecare an, în septembrie, orașul devine centrul culturii și muzicii regionale în timpul Festivalului de cântece Kajkaviene (Festival kajkavskih popevki), ceea ce face o vizită deosebit de meritorie.", "en": "Krapina, nestled in the rolling hills of the Croatian Zagorje region, is a town of global paleontological significance. Its fame is based on the Hušnjakovo site, where at the end of the 19th century, researcher Dragutin Gorjanović-Kramberger discovered one of the world's largest collections of Neanderthal bones. Today, the state-of-the-art Krapina Neanderthal Museum, located right at the discovery site, houses an impressive interactive exhibition that takes visitors on a journey into prehistory, vividly illustrating the lives of these early humans. But Krapina is more than just its prehistoric past. The charming old town with the parish church of St. Nicholas and the birthplace of the Croatian language reformer Ljudevit Gaj invites you to linger. The surrounding landscape is characterized by vineyards, small chapels, and traditional farms offering regional delicacies. Every year in September, the town becomes the centre of regional culture and music during the Festival of Kajkavian Songs (Festival kajkavskih popevki), making a visit particularly worthwhile."}, "factsAdvanced": {"de": ["Über 800 fossile Skelettreste entdeckt", "Neandertaler-Funde sind 30.000 Jahre alt", "Stadtrechte wurden im Jahr 1347 verliehen", "Neues Museum wurde im Jahr 2010 eröffnet", "Ljudevit Gaj wurde hier 1809 geboren", "Fläche der Gemeinde beträgt 47,5 km2"], "hu": ["Több mint 800 fosszilis csontmaradvány", "A leletek kora körülbelül 30 ezer év", "A városi jogokat 1347-ben kapta meg", "Az új múzeum 2010-ben nyílt meg", "Ljudevit Gaj 1809-ben itt született", "A város közigazgatási területe 47,5 km2"], "ro": ["Peste 800 de resturi osoase fosilizate", "Vechimea sitului este de 30.000 de ani", "Drepturile de oraș acordate în anul 1347", "Noul muzeu a fost inaugurat în anul 2010", "Ljudevit Gaj s-a născut aici în 1809", "Suprafața municipalității este de 47,5 km2"], "en": ["Over 800 fossilized skeletal remains found", "The Neanderthal site is 30,000 years old", "Town rights granted in the year 1347", "The new museum was opened in 2010", "Ljudevit Gaj was born here in 1809", "The municipal area covers 47.5 km2"]}, "sights": {
       "de": [
             {
@@ -9479,7 +11033,932 @@ export const poiExtraHrV2: POI[] = [
             }
       ]
 }},
-  {"id": "lopar", "type": "city", "parent": "HR-09", "coords": [14.73, 44.8333], "population": 1191, "tier": 3, "name": {"de": "Lopar (Rab)", "hu": "Lopar (Rab)", "ro": "Lopar (Rab)", "en": "Lopar (Rab)"}, "description": {"de": "Lopar ist ein berühmter Ferienort im Norden der Insel Rab, bekannt für seine 22 Sandstrände und den legendären Gründer von San Marino.", "hu": "Lopar a Rab-sziget északi részén fekvő üdülőhely, amely 22 homokos strandjáról és San Marino alapítójának szülőhelyeként híres.", "ro": "Lopar este o stațiune faimoasă în nordul insulei Rab, cunoscută pentru cele 22 de plaje cu nisip și legenda fondatorului statului San Marino.", "en": "Lopar is a famous resort on the northern tip of Rab island, renowned for its 22 sandy beaches and as the birthplace of Saint Marinus."}, "facts": {"de": ["Insel Rab", "22 Sandstrände", "Paradiesstrand (Rajska)", "Geburtsort von San Marino", "Fähre nach Krk", "Sandiger Untergrund", "Kvarner Bucht", "1191 Einwohner"], "hu": ["Rab-sziget", "22 homokos strand", "Paradicsom-part (Rajska)", "Szent Marinus szülőhelye", "Kompösszeköttetés Krk-kel", "Homokos dűnék", "Kvarner-öböl", "1191 lakos"], "ro": ["Insula Rab", "22 plaje cu nisip", "Plaja Paradisului (Rajska)", "Locul nașterii Sf. Marin", "Bac spre insula Krk", "Relief nisipos", "Golful Kvarner", "1191 locuitori"], "en": ["Rab Island", "22 sandy beaches", "Paradise Beach (Rajska)", "Birthplace of San Marino", "Ferry to Krk island", "Sandy soil", "Kvarner Bay", "1191 inhabitants"]}, "image": "/poi-images/lopar.webp", "imageHint": "Aerial view of the long sandy Paradise Beach in Lopar, Rab island", "descriptionAdvanced": {"de": "Lopar, an der Nordspitze der Insel Rab gelegen, ist vor allem als das „Sandparadies“ Kroatiens bekannt. Der Ort ist berühmt für seine 22 Sandstrände, eine Seltenheit an der felsigen Adriaküste. Der bekannteste und größte davon ist der 1,5 km lange „Paradiesstrand“ (Rajska Plaža). Mit seinem flachen, warmen Wasser ist er das ideale Ziel für Familien mit kleinen Kindern. Hier können Kinder sicher im Sand spielen und im seichten Meer planschen. Aber Lopar bietet mehr als nur Sand und Sonne. Die Halbinsel ist von einer faszinierenden geologischen Landschaft geprägt, die als Geopark ausgewiesen ist und zu Erkundungstouren einlädt. Eine lokale Legende besagt, dass der Heilige Marinus, der Gründer der Republik San Marino, in Lopar geboren wurde. Eine Statue ehrt den berühmten Steinmetz. Abseits des Trubels am Paradiesstrand finden sich viele kleinere, intimere Buchten, von denen einige FKK-Strände sind. Lopar verbindet perfekt einen entspannten Familienurlaub mit der Möglichkeit, die unberührte Natur und die interessante Geschichte der Insel Rab zu entdecken.", "hu": "Lopar, a Rab-sziget északi csücskén, Horvátország „homokos paradicsomaként” ismert. A hely 22 homokos strandjáról híres, ami ritkaságnak számít a sziklás adriai parton. A leghíresebb és legnagyobb közülük a 1,5 km hosszú Paradicsom-strand (Rajska Plaža). Sekély, meleg vizével ideális célpont kisgyermekes családok számára, ahol a gyerekek biztonságban játszhatnak a homokban és pancsolhatnak a tengerben. De Lopar többet kínál, mint homok és napfény. A félszigetet lenyűgöző geológiai táj jellemzi, amelyet geoparkká nyilvánítottak, és felfedező túrákra csábít. Egy helyi legenda szerint Szent Marinus, San Marino köztársaságának alapítója Loparban született; szobor is őrzi a híres kőfaragó emlékét. A Paradicsom-strand nyüzsgésétől távolabb számos kisebb, intimebb öböl található, amelyek közül néhány nudista strand. Lopar tökéletesen ötvözi a pihentető családi nyaralást a Rab-sziget érintetlen természetének és érdekes történelmének felfedezésével.", "ro": "Lopar, situat în extremitatea nordică a insulei Rab, este cunoscut în primul rând ca „paradisul de nisip” al Croației. Localitatea este renumită pentru cele 22 de plaje cu nisip, o raritate pe coasta stâncoasă a Adriaticii. Cea mai faimoasă și mai mare dintre acestea este „Plaja Paradisului” (Rajska Plaža), lungă de 1,5 km. Cu apa sa puțin adâncă și caldă, este destinația ideală pentru familiile cu copii mici, unde aceștia se pot juca în siguranță în nisip și se pot bălăci în mare. Dar Lopar oferă mai mult decât nisip și soare. Peninsula este caracterizată de un peisaj geologic fascinant, desemnat ca Geoparc, care invită la explorare. O legendă locală spune că Sfântul Marin, fondatorul Republicii San Marino, s-a născut în Lopar; o statuie îl onorează pe faimosul pietrar. Departe de aglomerația de pe Plaja Paradisului, se găsesc multe golfuri mai mici și mai intime, unele dintre ele fiind plaje pentru nudiști. Lopar îmbină perfect o vacanță relaxantă în familie cu oportunitatea de a descoperi natura neatinsă și istoria interesantă a insulei Rab.", "en": "Lopar, located on the northern tip of Rab island, is widely known as Croatia's \"sandy paradise.\" The area is famous for its 22 sandy beaches, a true rarity along the predominantly rocky Adriatic coast. The most renowned and largest of these is the 1.5-kilometer-long \"Paradise Beach\" (Rajska Plaža). With its shallow, warm waters, it is the perfect destination for families with young children, who can safely play in the sand and splash in the calm sea. But Lopar offers more than just sun and sand. The peninsula is characterized by a fascinating geological landscape, designated as a Geopark, which invites exploration. A local legend claims that Saint Marinus, the founder of the Republic of San Marino, was born in Lopar, and a statue honors the famous stonemason. Away from the bustle of Paradise Beach, visitors can find many smaller, more intimate coves, some of which are designated for naturists. Lopar perfectly combines a relaxing family holiday with the opportunity to discover the pristine nature and intriguing history of Rab island."}, "factsAdvanced": {"de": ["Geburtsjahr des Heiligen Marinus: ca. 275 n. Chr.", "Länge des Paradiesstrandes: 1500 Meter", "Entfernung zur Stadt Rab: 12 Kilometer", "Geopark Rab: Lopar beherbergt 50 markierte Geopunkte", "Hafen Valbiska-Lopar: Wichtige Fährverbindung zur Insel Krk", "Bevölkerungsdichte: ca. 45 Einwohner pro km2"], "hu": ["Szent Marinus születési éve: i.sz. 275 körül", "A Paradicsom-part hossza: 1500 méter", "Távolság Rab városától: 12 kilométer", "Geopark Rab: 50 jelölt geológiai pont található Loparban", "Valbiska-Lopar komp: stratégiai összeköttetés Krk szigetével", "Népsűrűség: kb. 45 fő/km2"], "ro": ["Anul nașterii Sfântului Marin: aprox. 275 d.Hr.", "Lungimea Plajei Paradisului: 1500 metri", "Distanța față de orașul Rab: 12 kilometri", "Geopark Rab: 50 de puncte geologice marcate în Lopar", "Bac Valbiska-Lopar: conexiune vitală cu insula Krk", "Densitatea populației: aprox. 45 locuitori/km2"], "en": ["Birth year of Saint Marinus: approx. 275 AD", "Length of Paradise Beach: 1500 meters", "Distance to Rab town: 12 kilometers", "Geopark Rab: 50 marked geological points in Lopar", "Valbiska-Lopar ferry: strategic link to Krk island", "Population density: approx. 45 people/km2"]}, "sights": {"de": [{"name": "Rajska plaža", "text": "Mit seiner beeindruckenden Länge von 1,5 Kilometern prägt dieser Sandstrand die Küstenlinie von Lopar auf Rab. Das seichte, sanft abfallende Wasser macht den Ort zu einem bevorzugten Ziel für Familien mit kleinen Kindern. An sommerlichen Nachmittagen füllt sich die weitläufige Bucht schnell mit fröhlichen Badegästen.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopar-rajska-pla-a.webp", "coords": [14.737437, 44.821078]}, {"name": "Geopark Lopar", "text": "Ein markierter Wanderweg durch faszinierende geologische Formationen und seltene Pflanzenarten der Insel.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-geopark-lopar.webp", "coords": [14.742318, 44.825526]}, {"name": "Goli Otok", "text": "Die ehemalige Gefängnisinsel ist von Lopar aus per Boot erreichbar und dient heute als Mahnmal.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/lopar-goli-otok.webp", "coords": [14.818611, 44.838889]}, {"name": "Insel Sveti Grgur", "text": "Eine unbewohnte Insel, bekannt für ihre reiche Flora, Hirsche und Ruinen eines ehemaligen Frauenlagers.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp", "coords": [14.7551, 44.869742]}, {"name": "Ciganka", "text": "Naturbelassener Sandstrand im nördlichen Teil der Halbinsel Lopar auf Rab.", "category": "recreational", "coords": [14.725423, 44.849973]}, {"name": "Dubac", "text": "Abgelegener Sandstrand bei Lopar, der über Wanderwege oder mit dem Boot erreichbar ist.", "category": "recreational", "coords": [14.738888, 44.845436]}, {"name": "Sturić", "text": "Einer der vielen versteckten Sandstrände in der malerischen Umgebung von Lopar.", "category": "recreational", "coords": [14.733668, 44.845594]}, {"name": "Podšilo", "text": "Ein ruhiger Sandstrand in einer abgelegenen Bucht bei Lopar auf der Insel Rab.", "category": "recreational", "coords": [14.746937, 44.846272]}, {"name": "Potpećina", "text": "Ein naturbelassener Strand in der Region Lopar, der ideal für Ruhesuchende ist.", "category": "recreational", "coords": [14.754876, 44.835582]}, {"name": "Stolac FKK", "text": "Ein beliebter FKK-Strand auf Rab, bekannt für seine felsige Küste und klares Wasser.", "category": "recreational", "coords": [14.75446, 44.832974]}, {"name": "Kinjka FKK", "text": "Ein kleiner FKK-Strandabschnitt in der Nähe von Lopar, umgeben von mediterraner Natur.", "category": "recreational", "coords": [14.727058, 44.85292]}, {"name": "Stolac II (FKK)", "text": "Ein weiterer ruhiger Bereich der Stolac-Bucht, der vorwiegend von FKK-Urlaubern genutzt wird.", "category": "recreational", "coords": [14.75413, 44.830433]}, {"name": "Kastelina", "text": "Ein schöner Sandstrand in Lopar, der für seine natürliche Umgebung geschätzt wird.", "category": "recreational", "coords": [14.752911, 44.824981]}, {"name": "Kozica beach", "text": "Abseits der ausgetretenen Pfade in Lopar auf Rab liegt dieser natürliche Strandabschnitt. Oft wird die Bucht über kleine Wanderwege oder gemütlich mit dem Boot erreicht. Besucher schätzen das raue, unberührte Ambiente, das besonders am frühen Morgen sehr eindrucksvoll wirkt.", "category": "recreational", "coords": [14.71074, 44.819723]}, {"name": "Pošta beach", "text": "Weit entfernt von großen Touristenströmen verbirgt sich dieser kleine, friedliche Küstenabschnitt in Lopar. Das sanfte Rauschen des Meeres dominiert hier die Atmosphäre und lädt zu entspannten Stunden am Wasser ein. Wer dem Trubel entfliehen möchte, sollte an sonnigen Tagen dieses kleine Refugium aufsuchen.", "category": "recreational", "coords": [14.711098, 44.838607]}, {"name": "Sahara (FKK)", "text": "Einer der bekanntesten FKK-Sandstrände der Insel Rab mit weitem Blick aufs Meer.", "category": "recreational", "coords": [14.756801, 44.841396]}, {"name": "Livačina", "text": "Ein beliebter Sandstrand mit flachem Wasser und guter Ausstattung in der Nähe von Lopar.", "category": "recreational", "coords": [14.751339, 44.824456]}, {"name": "Zadbadnja", "text": "Ein abgelegener Strand in der Nähe von Lopar auf der Insel Rab.", "category": "recreational", "coords": [14.778441, 44.862525]}, {"name": "Impy park", "text": "Der Impy Park in Lopar auf Rab ist ein fantastischer Spielbereich, der bei Familien für unvergessliche Momente sorgt.", "category": "family", "coords": [14.736544, 44.822822]}], "hu": [{"name": "Rajska plaža (Paradicsom-part)", "text": "A lenyűgöző, 1,5 kilométer hosszú homokos strand meghatározza Lopar partvonalát Rab szigetén. A sekély, lassan mélyülő víz miatt a hely a kisgyermekes családok kedvelt célpontja. A nyári délutánokon a tágas öböl gyorsan megtelik vidám fürdőzőkkel.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopar-rajska-pla-a.webp", "coords": [14.737437, 44.821078]}, {"name": "Lopar Geopark", "text": "Tanösvények hálózata, amely bemutatja a félsziget különleges geológiai alakzatait és növényvilágát.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-geopark-lopar.webp", "coords": [14.742318, 44.825526]}, {"name": "Goli Otok (Meztelen-sziget)", "text": "Az egykori börtönsziget Loparból hajóval érhető el, ma történelmi emlékhelyként látogatható.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/lopar-goli-otok.webp", "coords": [14.818611, 44.838889]}, {"name": "Sveti Grgur-sziget", "text": "Lakatlan sziget gazdag élővilággal és egy egykori női munkatábor romjaival, kedvelt kirándulóhely.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp", "coords": [14.7551, 44.869742]}, {"name": "Ciganka", "text": "Természetes homokos strand a Rab-szigeti Lopar-félsziget északi részén.", "category": "recreational", "coords": [14.725423, 44.849973]}, {"name": "Dubac", "text": "Eldugott homokos strand Lopar közelében, gyalogosan vagy hajóval megközelíthető.", "category": "recreational", "coords": [14.738888, 44.845436]}, {"name": "Sturić", "text": "Egy a sok rejtett homokos strand közül Lopar festői környezetében.", "category": "recreational", "coords": [14.733668, 44.845594]}, {"name": "Podšilo", "text": "Csendes homokos tengerpart egy eldugott öbölben Lopar közelében, Rab szigetén.", "category": "recreational", "coords": [14.746937, 44.846272]}, {"name": "Potpećina", "text": "Természetközeli tengerpart Lopar környékén, amely ideális a nyugalomra vágyóknak.", "category": "recreational", "coords": [14.754876, 44.835582]}, {"name": "Stolac FKK", "text": "Népszerű nudista strand Rabon, amely sziklás partjáról és tiszta vizéről ismert.", "category": "recreational", "coords": [14.75446, 44.832974]}, {"name": "Kinjka FKK", "text": "Kicsi nudista strandszakasz Lopar közelében, mediterrán természettel körülvéve.", "category": "recreational", "coords": [14.727058, 44.85292]}, {"name": "Stolac II (FKK)", "text": "A Stolac-öböl egy másik csendes része, amelyet főként nudisták látogatnak.", "category": "recreational", "coords": [14.75413, 44.830433]}, {"name": "Kastelina", "text": "Szép homokos strand Loparban, amelyet természetes környezete miatt kedvelnek.", "category": "recreational", "coords": [14.752911, 44.824981]}, {"name": "Kozica beach", "text": "A Rab szigeti Lopar kitaposott ösvényeitől távol fekszik ez a természetes partszakasz. Az öblöt gyakran kis túraútvonalakon vagy kényelmesen, hajóval közelítik meg a látogatók. A vendégek nagyra értékelik a vadregényes, érintetlen hangulatot, amely kora reggel a legkifejezőbb.", "category": "recreational", "coords": [14.71074, 44.819723]}, {"name": "Pošta beach", "text": "A turisták nagy tömegétől távol bújik meg ez a kicsi, békés partszakasz Lopar területén. A tenger lágy morajlása uralja itt a légkört, nyugodt órákra hívogatva a vízparton. Aki szeretne elmenekülni a nyüzsgés elől, napsütéses napokon keresse fel ezt a kis menedéket.", "category": "recreational", "coords": [14.711098, 44.838607]}, {"name": "Sahara (FKK)", "text": "Rab szigetének egyik legismertebb nudista homokos strandja, tágas tengeri kilátással.", "category": "recreational", "coords": [14.756801, 44.841396]}, {"name": "Livačina", "text": "Népszerű homokos strand sekély vízzel és jó felszereltséggel Lopar közelében.", "category": "recreational", "coords": [14.751339, 44.824456]}, {"name": "Zadbadnja", "text": "Eldugott strand Lopar közelében, Rab szigetén.", "category": "recreational", "coords": [14.778441, 44.862525]}, {"name": "Impy park", "text": "A Rab szigeti Lopar-ban található Impy Park fantasztikus játszótér, amely felejthetetlen pillanatokat szerez a családoknak.", "category": "family", "coords": [14.736544, 44.822822]}], "ro": [{"name": "Plaja Rajska (Plaja Paradisului)", "text": "Cu o lungime impresionantă de 1,5 kilometri, această plajă de nisip definește linia de coastă din Lopar, pe insula Rab. Apa puțin adâncă face din această locație o destinație preferată pentru familiile cu copii mici. În după-amiezile de vară, golful spațios se umple rapid cu turiști veseli.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopar-rajska-pla-a.webp", "coords": [14.737437, 44.821078]}, {"name": "Geoparcul Lopar", "text": "Un traseu marcat care traversează formațiuni geologice unice și habitate naturale conservate.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-geopark-lopar.webp", "coords": [14.742318, 44.825526]}, {"name": "Goli Otok", "text": "Fosta insulă-închisoare, accesibilă cu barca din Lopar, acum un sit istoric vizitat de turiști.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/lopar-goli-otok.webp", "coords": [14.818611, 44.838889]}, {"name": "Insula Sveti Grgur", "text": "O insulă nelocuită, cunoscută pentru populația de căprioare și ruinele unui fost lagăr pentru femei.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp", "coords": [14.7551, 44.869742]}, {"name": "Ciganka", "text": "Plajă naturală cu nisip situată în partea de nord a peninsulei Lopar de pe insula Rab.", "category": "recreational", "coords": [14.725423, 44.849973]}, {"name": "Dubac", "text": "Plajă cu nisip retrasă lângă Lopar, accesibilă pe poteci sau cu barca.", "category": "recreational", "coords": [14.738888, 44.845436]}, {"name": "Sturić", "text": "Una dintre numeroasele plaje cu nisip ascunse din zona pitorească a localității Lopar.", "category": "recreational", "coords": [14.733668, 44.845594]}, {"name": "Podšilo", "text": "O plajă liniștită cu nisip într-un golf retras lângă Lopar, pe insula Rab.", "category": "recreational", "coords": [14.746937, 44.846272]}, {"name": "Potpećina", "text": "O plajă naturală în regiunea Lopar, ideală pentru cei care caută liniște.", "category": "recreational", "coords": [14.754876, 44.835582]}, {"name": "Stolac FKK", "text": "O plajă de naturiști populară în Rab, cunoscută pentru coasta stâncoasă și apa limpede.", "category": "recreational", "coords": [14.75446, 44.832974]}, {"name": "Kinjka FKK", "text": "O mică secțiune de plajă pentru naturiști lângă Lopar, înconjurată de natură mediteraneană.", "category": "recreational", "coords": [14.727058, 44.85292]}, {"name": "Stolac II (FKK)", "text": "O altă zonă liniștită din golful Stolac, utilizată în principal de naturiști.", "category": "recreational", "coords": [14.75413, 44.830433]}, {"name": "Kastelina", "text": "O plajă frumoasă cu nisip în Lopar, apreciată pentru cadrul său natural.", "category": "recreational", "coords": [14.752911, 44.824981]}, {"name": "Kozica beach", "text": "În afara cărărilor bătătorite din Lopar pe insula Rab se află această porțiune naturală de plajă. Golful este adesea accesat prin mici trasee de drumeție sau confortabil cu barca. Vizitatorii apreciază ambianța aspră și neatinsă, care este deosebit de impresionantă dimineața devreme.", "category": "recreational", "coords": [14.71074, 44.819723]}, {"name": "Pošta beach", "text": "Departe de marile mulțimi de turiști se ascunde această mică și pașnică porțiune de coastă din Lopar. Sunetul blând al mării domină atmosfera de aici, invitând la ore relaxante la malul apei. Cei care doresc să scape de agitație ar trebui să caute acest mic refugiu în zilele însorite.", "category": "recreational", "coords": [14.711098, 44.838607]}, {"name": "Sahara (FKK)", "text": "Una dintre cele mai cunoscute plaje de nisip pentru naturiști de pe insula Rab.", "category": "recreational", "coords": [14.756801, 44.841396]}, {"name": "Livačina", "text": "O plajă de nisip populară, cu apă puțin adâncă și facilități bune lângă Lopar.", "category": "recreational", "coords": [14.751339, 44.824456]}, {"name": "Zadbadnja", "text": "O plajă retrasă în apropiere de Lopar pe insula Rab.", "category": "recreational", "coords": [14.778441, 44.862525]}, {"name": "Impy park", "text": "Impy Park din Lopar pe insula Rab este o zonă de joacă fantastică, care oferă momente de neuitat pentru familii.", "category": "family", "coords": [14.736544, 44.822822]}], "en": [{"name": "Paradise Beach (Rajska plaža)", "text": "Spanning an impressive 1.5 kilometers, this sandy beach defines the coastline of Lopar on Rab. The shallow, gently sloping water makes the location a preferred destination for families with small children. On summer afternoons, the expansive bay quickly fills with cheerful bathers.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/lopar-rajska-pla-a.webp", "coords": [14.737437, 44.821078]}, {"name": "Geopark Lopar", "text": "A network of trails showcasing the peninsula's unique geological structures and rare plant species.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-geopark-lopar.webp", "coords": [14.742318, 44.825526]}, {"name": "Goli Otok", "text": "The notorious former prison island, reachable by boat, now serving as a somber historical monument.", "category": "historical", "confidence": "high", "image": "/poi-images/sights/lopar-goli-otok.webp", "coords": [14.818611, 44.838889]}, {"name": "Sveti Grgur Island", "text": "An uninhabited island known for its deer, beautiful coves, and ruins of a former women's labor camp.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp", "coords": [14.7551, 44.869742]}, {"name": "Ciganka", "text": "Natural sandy beach located on the northern part of the Lopar peninsula on Rab.", "category": "recreational", "coords": [14.725423, 44.849973]}, {"name": "Dubac", "text": "Secluded sandy beach near Lopar, accessible via walking trails or by boat.", "category": "recreational", "coords": [14.738888, 44.845436]}, {"name": "Sturić", "text": "One of many hidden sandy beaches in the scenic surroundings of Lopar.", "category": "recreational", "coords": [14.733668, 44.845594]}, {"name": "Podšilo", "text": "A quiet sandy beach in a secluded bay near Lopar on the island of Rab.", "category": "recreational", "coords": [14.746937, 44.846272]}, {"name": "Potpećina", "text": "A natural beach in the Lopar region, ideal for those seeking peace and quiet.", "category": "recreational", "coords": [14.754876, 44.835582]}, {"name": "Stolac FKK", "text": "A popular FKK beach on Rab, known for its rocky coast and clear water.", "category": "recreational", "coords": [14.75446, 44.832974]}, {"name": "Kinjka FKK", "text": "A small FKK beach section near Lopar, surrounded by Mediterranean nature.", "category": "recreational", "coords": [14.727058, 44.85292]}, {"name": "Stolac II (FKK)", "text": "Another quiet area of the Stolac bay, primarily used by nudist bathers.", "category": "recreational", "coords": [14.75413, 44.830433]}, {"name": "Kastelina", "text": "A beautiful sandy beach in Lopar, appreciated for its natural setting.", "category": "recreational", "coords": [14.752911, 44.824981]}, {"name": "Kozica beach", "text": "Off the beaten path in Lopar on Rab lies this natural stretch of beach. The bay is often reached via small hiking trails or comfortably by boat. Visitors appreciate the rugged, unspoiled ambiance, which is particularly striking in the early morning.", "category": "recreational", "coords": [14.71074, 44.819723]}, {"name": "Pošta beach", "text": "Far from large tourist crowds hides this small, peaceful stretch of coast in Lopar. The gentle sound of the sea dominates the atmosphere here, inviting visitors to spend relaxed hours by the water. Those wanting to escape the hustle and bustle should seek out this small refuge on sunny days.", "category": "recreational", "coords": [14.711098, 44.838607]}, {"name": "Sahara (FKK)", "text": "One of the most famous sandy FKK beaches on the island of Rab with wide sea views.", "category": "recreational", "coords": [14.756801, 44.841396]}, {"name": "Livačina", "text": "A popular sandy beach with shallow water and good facilities near Lopar.", "category": "recreational", "coords": [14.751339, 44.824456]}, {"name": "Zadbadnja", "text": "A secluded beach near Lopar on the island of Rab.", "category": "recreational", "coords": [14.778441, 44.862525]}, {"name": "Impy park", "text": "The Impy Park in Lopar on Rab is a fantastic play area that provides unforgettable moments for families.", "category": "family", "coords": [14.736544, 44.822822]}], "hr": [{"name": "Ciganka", "text": "Prirodna pješčana plaža na sjevernom dijelu poluotoka Lopara na Rabu.", "category": "recreational", "coords": [14.725423, 44.849973]}, {"name": "Dubac", "text": "Izolirana pješčana plaža kod Lopara, dostupna pješačkim stazama ili brodom.", "category": "recreational", "coords": [14.738888, 44.845436]}, {"name": "Sturić", "text": "Jedna od brojnih skrivenih pješčanih plaža u slikovitom okruženju Lopara.", "category": "recreational", "coords": [14.733668, 44.845594]}, {"name": "Podšilo", "text": "Mirna pješčana plaža u osamljenoj uvali u blizini Lopara na otoku Rabu.", "category": "recreational", "coords": [14.746937, 44.846272]}, {"name": "Potpećina", "text": "Prirodna plaža u regiji Lopar, idealna za one koji traže mir i tišinu.", "category": "recreational", "coords": [14.754876, 44.835582]}, {"name": "Stolac FKK", "text": "Popularna FKK plaža na Rabu, poznata po stjenovitoj obali i čistom moru.", "category": "recreational", "coords": [14.75446, 44.832974]}, {"name": "Kinjka FKK", "text": "Mali dio FKK plaže u blizini Lopara, okružen mediteranskom prirodom.", "category": "recreational", "coords": [14.727058, 44.85292]}, {"name": "Stolac II (FKK)", "text": "Još jedan miran dio uvale Stolac, koji prvenstveno koriste nudisti.", "category": "recreational", "coords": [14.75413, 44.830433]}, {"name": "Kastelina", "text": "Lijepa pješčana plaža u Loparu, cijenjena zbog svog prirodnog okruženja.", "category": "recreational", "coords": [14.752911, 44.824981]}, {"name": "Kozica beach", "text": "Skrovita prirodna plaža do koje se često dolazi pješačkim stazama ili brodom.", "category": "recreational", "coords": [14.71074, 44.819723]}, {"name": "Pošta beach", "text": "Mala, mirna plaža u Loparu, daleko od glavnih turističkih gužvi.", "category": "recreational", "coords": [14.711098, 44.838607]}, {"name": "Sahara (FKK)", "text": "Jedna od najpoznatijih pješčanih FKK plaža na otoku Rabu s otvorenim pogledom na more.", "category": "recreational", "coords": [14.756801, 44.841396]}, {"name": "Livačina", "text": "Popularna pješčana plaža s plitkim morem i dobrim sadržajima u blizini Lopara.", "category": "recreational", "coords": [14.751339, 44.824456]}, {"name": "Zadbadnja", "text": "Osamljena plaža u blizini Lopara na otoku Rabu.", "category": "recreational", "coords": [14.778441, 44.862525]}]}},
+  {"id": "lopar", "type": "city", "parent": "HR-09", "coords": [14.73, 44.8333], "population": 1191, "tier": 3, "name": {"de": "Lopar (Rab)", "hu": "Lopar (Rab)", "ro": "Lopar (Rab)", "en": "Lopar (Rab)"}, "description": {"de": "Lopar ist ein berühmter Ferienort im Norden der Insel Rab, bekannt für seine 22 Sandstrände und den legendären Gründer von San Marino.", "hu": "Lopar a Rab-sziget északi részén fekvő üdülőhely, amely 22 homokos strandjáról és San Marino alapítójának szülőhelyeként híres.", "ro": "Lopar este o stațiune faimoasă în nordul insulei Rab, cunoscută pentru cele 22 de plaje cu nisip și legenda fondatorului statului San Marino.", "en": "Lopar is a famous resort on the northern tip of Rab island, renowned for its 22 sandy beaches and as the birthplace of Saint Marinus."}, "facts": {"de": ["Insel Rab", "22 Sandstrände", "Paradiesstrand (Rajska)", "Geburtsort von San Marino", "Fähre nach Krk", "Sandiger Untergrund", "Kvarner Bucht", "1191 Einwohner"], "hu": ["Rab-sziget", "22 homokos strand", "Paradicsom-part (Rajska)", "Szent Marinus szülőhelye", "Kompösszeköttetés Krk-kel", "Homokos dűnék", "Kvarner-öböl", "1191 lakos"], "ro": ["Insula Rab", "22 plaje cu nisip", "Plaja Paradisului (Rajska)", "Locul nașterii Sf. Marin", "Bac spre insula Krk", "Relief nisipos", "Golful Kvarner", "1191 locuitori"], "en": ["Rab Island", "22 sandy beaches", "Paradise Beach (Rajska)", "Birthplace of San Marino", "Ferry to Krk island", "Sandy soil", "Kvarner Bay", "1191 inhabitants"]}, "image": "/poi-images/lopar.webp", "imageHint": "Aerial view of the long sandy Paradise Beach in Lopar, Rab island", "descriptionAdvanced": {"de": "Lopar, an der Nordspitze der Insel Rab gelegen, ist vor allem als das „Sandparadies“ Kroatiens bekannt. Der Ort ist berühmt für seine 22 Sandstrände, eine Seltenheit an der felsigen Adriaküste. Der bekannteste und größte davon ist der 1,5 km lange „Paradiesstrand“ (Rajska Plaža). Mit seinem flachen, warmen Wasser ist er das ideale Ziel für Familien mit kleinen Kindern. Hier können Kinder sicher im Sand spielen und im seichten Meer planschen. Aber Lopar bietet mehr als nur Sand und Sonne. Die Halbinsel ist von einer faszinierenden geologischen Landschaft geprägt, die als Geopark ausgewiesen ist und zu Erkundungstouren einlädt. Eine lokale Legende besagt, dass der Heilige Marinus, der Gründer der Republik San Marino, in Lopar geboren wurde. Eine Statue ehrt den berühmten Steinmetz. Abseits des Trubels am Paradiesstrand finden sich viele kleinere, intimere Buchten, von denen einige FKK-Strände sind. Lopar verbindet perfekt einen entspannten Familienurlaub mit der Möglichkeit, die unberührte Natur und die interessante Geschichte der Insel Rab zu entdecken.", "hu": "Lopar, a Rab-sziget északi csücskén, Horvátország „homokos paradicsomaként” ismert. A hely 22 homokos strandjáról híres, ami ritkaságnak számít a sziklás adriai parton. A leghíresebb és legnagyobb közülük a 1,5 km hosszú Paradicsom-strand (Rajska Plaža). Sekély, meleg vizével ideális célpont kisgyermekes családok számára, ahol a gyerekek biztonságban játszhatnak a homokban és pancsolhatnak a tengerben. De Lopar többet kínál, mint homok és napfény. A félszigetet lenyűgöző geológiai táj jellemzi, amelyet geoparkká nyilvánítottak, és felfedező túrákra csábít. Egy helyi legenda szerint Szent Marinus, San Marino köztársaságának alapítója Loparban született; szobor is őrzi a híres kőfaragó emlékét. A Paradicsom-strand nyüzsgésétől távolabb számos kisebb, intimebb öböl található, amelyek közül néhány nudista strand. Lopar tökéletesen ötvözi a pihentető családi nyaralást a Rab-sziget érintetlen természetének és érdekes történelmének felfedezésével.", "ro": "Lopar, situat în extremitatea nordică a insulei Rab, este cunoscut în primul rând ca „paradisul de nisip” al Croației. Localitatea este renumită pentru cele 22 de plaje cu nisip, o raritate pe coasta stâncoasă a Adriaticii. Cea mai faimoasă și mai mare dintre acestea este „Plaja Paradisului” (Rajska Plaža), lungă de 1,5 km. Cu apa sa puțin adâncă și caldă, este destinația ideală pentru familiile cu copii mici, unde aceștia se pot juca în siguranță în nisip și se pot bălăci în mare. Dar Lopar oferă mai mult decât nisip și soare. Peninsula este caracterizată de un peisaj geologic fascinant, desemnat ca Geoparc, care invită la explorare. O legendă locală spune că Sfântul Marin, fondatorul Republicii San Marino, s-a născut în Lopar; o statuie îl onorează pe faimosul pietrar. Departe de aglomerația de pe Plaja Paradisului, se găsesc multe golfuri mai mici și mai intime, unele dintre ele fiind plaje pentru nudiști. Lopar îmbină perfect o vacanță relaxantă în familie cu oportunitatea de a descoperi natura neatinsă și istoria interesantă a insulei Rab.", "en": "Lopar, located on the northern tip of Rab island, is widely known as Croatia's \"sandy paradise.\" The area is famous for its 22 sandy beaches, a true rarity along the predominantly rocky Adriatic coast. The most renowned and largest of these is the 1.5-kilometer-long \"Paradise Beach\" (Rajska Plaža). With its shallow, warm waters, it is the perfect destination for families with young children, who can safely play in the sand and splash in the calm sea. But Lopar offers more than just sun and sand. The peninsula is characterized by a fascinating geological landscape, designated as a Geopark, which invites exploration. A local legend claims that Saint Marinus, the founder of the Republic of San Marino, was born in Lopar, and a statue honors the famous stonemason. Away from the bustle of Paradise Beach, visitors can find many smaller, more intimate coves, some of which are designated for naturists. Lopar perfectly combines a relaxing family holiday with the opportunity to discover the pristine nature and intriguing history of Rab island."}, "factsAdvanced": {"de": ["Geburtsjahr des Heiligen Marinus: ca. 275 n. Chr.", "Länge des Paradiesstrandes: 1500 Meter", "Entfernung zur Stadt Rab: 12 Kilometer", "Geopark Rab: Lopar beherbergt 50 markierte Geopunkte", "Hafen Valbiska-Lopar: Wichtige Fährverbindung zur Insel Krk", "Bevölkerungsdichte: ca. 45 Einwohner pro km2"], "hu": ["Szent Marinus születési éve: i.sz. 275 körül", "A Paradicsom-part hossza: 1500 méter", "Távolság Rab városától: 12 kilométer", "Geopark Rab: 50 jelölt geológiai pont található Loparban", "Valbiska-Lopar komp: stratégiai összeköttetés Krk szigetével", "Népsűrűség: kb. 45 fő/km2"], "ro": ["Anul nașterii Sfântului Marin: aprox. 275 d.Hr.", "Lungimea Plajei Paradisului: 1500 metri", "Distanța față de orașul Rab: 12 kilometri", "Geopark Rab: 50 de puncte geologice marcate în Lopar", "Bac Valbiska-Lopar: conexiune vitală cu insula Krk", "Densitatea populației: aprox. 45 locuitori/km2"], "en": ["Birth year of Saint Marinus: approx. 275 AD", "Length of Paradise Beach: 1500 meters", "Distance to Rab town: 12 kilometers", "Geopark Rab: 50 marked geological points in Lopar", "Valbiska-Lopar ferry: strategic link to Krk island", "Population density: approx. 45 people/km2"]}, "sights": {
+      "de": [
+            {
+                  "name": "Rajska plaža",
+                  "text": "Mit seiner beeindruckenden Länge von 1,5 Kilometern prägt dieser Sandstrand die Küstenlinie von Lopar auf Rab. Das seichte, sanft abfallende Wasser macht den Ort zu einem bevorzugten Ziel für Familien mit kleinen Kindern. An sommerlichen Nachmittagen füllt sich die weitläufige Bucht schnell mit fröhlichen Badegästen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-rajska-pla-a.webp",
+                  "coords": [
+                        14.737437,
+                        44.821078
+                  ]
+            },
+            {
+                  "name": "Geopark Lopar",
+                  "text": "Ein markierter Wanderweg durch faszinierende geologische Formationen und seltene Pflanzenarten der Insel.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-geopark-lopar.webp",
+                  "coords": [
+                        14.742318,
+                        44.825526
+                  ]
+            },
+            {
+                  "name": "Goli Otok",
+                  "text": "Die ehemalige Gefängnisinsel ist von Lopar aus per Boot erreichbar und dient heute als Mahnmal.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-goli-otok.webp",
+                  "coords": [
+                        14.818611,
+                        44.838889
+                  ]
+            },
+            {
+                  "name": "Insel Sveti Grgur",
+                  "text": "Eine unbewohnte Insel, bekannt für ihre reiche Flora, Hirsche und Ruinen eines ehemaligen Frauenlagers.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp",
+                  "coords": [
+                        14.7551,
+                        44.869742
+                  ]
+            },
+            {
+                  "name": "Ciganka",
+                  "text": "Naturbelassener Sandstrand im nördlichen Teil der Halbinsel Lopar auf Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.725423,
+                        44.849973
+                  ]
+            },
+            {
+                  "name": "Dubac",
+                  "text": "Abgelegener Sandstrand bei Lopar, der über Wanderwege oder mit dem Boot erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.738888,
+                        44.845436
+                  ]
+            },
+            {
+                  "name": "Sturić",
+                  "text": "Einer der vielen versteckten Sandstrände in der malerischen Umgebung von Lopar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.733668,
+                        44.845594
+                  ]
+            },
+            {
+                  "name": "Podšilo",
+                  "text": "Ein ruhiger Sandstrand in einer abgelegenen Bucht bei Lopar auf der Insel Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.746937,
+                        44.846272
+                  ]
+            },
+            {
+                  "name": "Potpećina",
+                  "text": "Ein naturbelassener Strand in der Region Lopar, der ideal für Ruhesuchende ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.754876,
+                        44.835582
+                  ]
+            },
+            {
+                  "name": "Stolac FKK",
+                  "text": "Ein beliebter FKK-Strand auf Rab, bekannt für seine felsige Küste und klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75446,
+                        44.832974
+                  ]
+            },
+            {
+                  "name": "Kinjka FKK",
+                  "text": "Ein kleiner FKK-Strandabschnitt in der Nähe von Lopar, umgeben von mediterraner Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727058,
+                        44.85292
+                  ]
+            },
+            {
+                  "name": "Stolac II (FKK)",
+                  "text": "Ein weiterer ruhiger Bereich der Stolac-Bucht, der vorwiegend von FKK-Urlaubern genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75413,
+                        44.830433
+                  ]
+            },
+            {
+                  "name": "Kastelina",
+                  "text": "Ein schöner Sandstrand in Lopar, der für seine natürliche Umgebung geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752911,
+                        44.824981
+                  ]
+            },
+            {
+                  "name": "Kozica beach",
+                  "text": "Abseits der ausgetretenen Pfade in Lopar auf Rab liegt dieser natürliche Strandabschnitt. Oft wird die Bucht über kleine Wanderwege oder gemütlich mit dem Boot erreicht. Besucher schätzen das raue, unberührte Ambiente, das besonders am frühen Morgen sehr eindrucksvoll wirkt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.71074,
+                        44.819723
+                  ]
+            },
+            {
+                  "name": "Pošta beach",
+                  "text": "Weit entfernt von großen Touristenströmen verbirgt sich dieser kleine, friedliche Küstenabschnitt in Lopar. Das sanfte Rauschen des Meeres dominiert hier die Atmosphäre und lädt zu entspannten Stunden am Wasser ein. Wer dem Trubel entfliehen möchte, sollte an sonnigen Tagen dieses kleine Refugium aufsuchen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.711098,
+                        44.838607
+                  ]
+            },
+            {
+                  "name": "Sahara (FKK)",
+                  "text": "Einer der bekanntesten FKK-Sandstrände der Insel Rab mit weitem Blick aufs Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.756801,
+                        44.841396
+                  ]
+            },
+            {
+                  "name": "Livačina",
+                  "text": "Ein beliebter Sandstrand mit flachem Wasser und guter Ausstattung in der Nähe von Lopar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751339,
+                        44.824456
+                  ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "Ein abgelegener Strand in der Nähe von Lopar auf der Insel Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "Der Impy Park in Lopar auf Rab ist ein fantastischer Spielbereich, der bei Familien für unvergessliche Momente sorgt.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
+                  ]
+            },
+            {
+                  "name": "Sveti Nikola",
+                  "text": "Sveti Nikola ist ein Strand in Lopar auf der Insel Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.684574,
+                        44.842026
+                  ]
+            },
+            {
+                  "name": "Sahara",
+                  "text": "Sahara ist ein sandiger FKK-Strand in Lopar auf der Insel Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752035,
+                        44.840336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rajska plaža (Paradicsom-part)",
+                  "text": "A lenyűgöző, 1,5 kilométer hosszú homokos strand meghatározza Lopar partvonalát Rab szigetén. A sekély, lassan mélyülő víz miatt a hely a kisgyermekes családok kedvelt célpontja. A nyári délutánokon a tágas öböl gyorsan megtelik vidám fürdőzőkkel.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-rajska-pla-a.webp",
+                  "coords": [
+                        14.737437,
+                        44.821078
+                  ]
+            },
+            {
+                  "name": "Lopar Geopark",
+                  "text": "Tanösvények hálózata, amely bemutatja a félsziget különleges geológiai alakzatait és növényvilágát.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-geopark-lopar.webp",
+                  "coords": [
+                        14.742318,
+                        44.825526
+                  ]
+            },
+            {
+                  "name": "Goli Otok (Meztelen-sziget)",
+                  "text": "Az egykori börtönsziget Loparból hajóval érhető el, ma történelmi emlékhelyként látogatható.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-goli-otok.webp",
+                  "coords": [
+                        14.818611,
+                        44.838889
+                  ]
+            },
+            {
+                  "name": "Sveti Grgur-sziget",
+                  "text": "Lakatlan sziget gazdag élővilággal és egy egykori női munkatábor romjaival, kedvelt kirándulóhely.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp",
+                  "coords": [
+                        14.7551,
+                        44.869742
+                  ]
+            },
+            {
+                  "name": "Ciganka",
+                  "text": "Természetes homokos strand a Rab-szigeti Lopar-félsziget északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.725423,
+                        44.849973
+                  ]
+            },
+            {
+                  "name": "Dubac",
+                  "text": "Eldugott homokos strand Lopar közelében, gyalogosan vagy hajóval megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        14.738888,
+                        44.845436
+                  ]
+            },
+            {
+                  "name": "Sturić",
+                  "text": "Egy a sok rejtett homokos strand közül Lopar festői környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.733668,
+                        44.845594
+                  ]
+            },
+            {
+                  "name": "Podšilo",
+                  "text": "Csendes homokos tengerpart egy eldugott öbölben Lopar közelében, Rab szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.746937,
+                        44.846272
+                  ]
+            },
+            {
+                  "name": "Potpećina",
+                  "text": "Természetközeli tengerpart Lopar környékén, amely ideális a nyugalomra vágyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.754876,
+                        44.835582
+                  ]
+            },
+            {
+                  "name": "Stolac FKK",
+                  "text": "Népszerű nudista strand Rabon, amely sziklás partjáról és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75446,
+                        44.832974
+                  ]
+            },
+            {
+                  "name": "Kinjka FKK",
+                  "text": "Kicsi nudista strandszakasz Lopar közelében, mediterrán természettel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727058,
+                        44.85292
+                  ]
+            },
+            {
+                  "name": "Stolac II (FKK)",
+                  "text": "A Stolac-öböl egy másik csendes része, amelyet főként nudisták látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75413,
+                        44.830433
+                  ]
+            },
+            {
+                  "name": "Kastelina",
+                  "text": "Szép homokos strand Loparban, amelyet természetes környezete miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752911,
+                        44.824981
+                  ]
+            },
+            {
+                  "name": "Kozica beach",
+                  "text": "A Rab szigeti Lopar kitaposott ösvényeitől távol fekszik ez a természetes partszakasz. Az öblöt gyakran kis túraútvonalakon vagy kényelmesen, hajóval közelítik meg a látogatók. A vendégek nagyra értékelik a vadregényes, érintetlen hangulatot, amely kora reggel a legkifejezőbb.",
+                  "category": "recreational",
+                  "coords": [
+                        14.71074,
+                        44.819723
+                  ]
+            },
+            {
+                  "name": "Pošta beach",
+                  "text": "A turisták nagy tömegétől távol bújik meg ez a kicsi, békés partszakasz Lopar területén. A tenger lágy morajlása uralja itt a légkört, nyugodt órákra hívogatva a vízparton. Aki szeretne elmenekülni a nyüzsgés elől, napsütéses napokon keresse fel ezt a kis menedéket.",
+                  "category": "recreational",
+                  "coords": [
+                        14.711098,
+                        44.838607
+                  ]
+            },
+            {
+                  "name": "Sahara (FKK)",
+                  "text": "Rab szigetének egyik legismertebb nudista homokos strandja, tágas tengeri kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        14.756801,
+                        44.841396
+                  ]
+            },
+            {
+                  "name": "Livačina",
+                  "text": "Népszerű homokos strand sekély vízzel és jó felszereltséggel Lopar közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751339,
+                        44.824456
+                  ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "Eldugott strand Lopar közelében, Rab szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "A Rab szigeti Lopar-ban található Impy Park fantasztikus játszótér, amely felejthetetlen pillanatokat szerez a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
+                  ]
+            },
+            {
+                  "name": "Sveti Nikola",
+                  "text": "Sveti Nikola egy strand Loparban, Rab szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.684574,
+                        44.842026
+                  ]
+            },
+            {
+                  "name": "Sahara",
+                  "text": "A Sahara egy homokos nudista strand Loparban, Rab szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752035,
+                        44.840336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Rajska (Plaja Paradisului)",
+                  "text": "Cu o lungime impresionantă de 1,5 kilometri, această plajă de nisip definește linia de coastă din Lopar, pe insula Rab. Apa puțin adâncă face din această locație o destinație preferată pentru familiile cu copii mici. În după-amiezile de vară, golful spațios se umple rapid cu turiști veseli.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-rajska-pla-a.webp",
+                  "coords": [
+                        14.737437,
+                        44.821078
+                  ]
+            },
+            {
+                  "name": "Geoparcul Lopar",
+                  "text": "Un traseu marcat care traversează formațiuni geologice unice și habitate naturale conservate.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-geopark-lopar.webp",
+                  "coords": [
+                        14.742318,
+                        44.825526
+                  ]
+            },
+            {
+                  "name": "Goli Otok",
+                  "text": "Fosta insulă-închisoare, accesibilă cu barca din Lopar, acum un sit istoric vizitat de turiști.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-goli-otok.webp",
+                  "coords": [
+                        14.818611,
+                        44.838889
+                  ]
+            },
+            {
+                  "name": "Insula Sveti Grgur",
+                  "text": "O insulă nelocuită, cunoscută pentru populația de căprioare și ruinele unui fost lagăr pentru femei.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp",
+                  "coords": [
+                        14.7551,
+                        44.869742
+                  ]
+            },
+            {
+                  "name": "Ciganka",
+                  "text": "Plajă naturală cu nisip situată în partea de nord a peninsulei Lopar de pe insula Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.725423,
+                        44.849973
+                  ]
+            },
+            {
+                  "name": "Dubac",
+                  "text": "Plajă cu nisip retrasă lângă Lopar, accesibilă pe poteci sau cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        14.738888,
+                        44.845436
+                  ]
+            },
+            {
+                  "name": "Sturić",
+                  "text": "Una dintre numeroasele plaje cu nisip ascunse din zona pitorească a localității Lopar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.733668,
+                        44.845594
+                  ]
+            },
+            {
+                  "name": "Podšilo",
+                  "text": "O plajă liniștită cu nisip într-un golf retras lângă Lopar, pe insula Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.746937,
+                        44.846272
+                  ]
+            },
+            {
+                  "name": "Potpećina",
+                  "text": "O plajă naturală în regiunea Lopar, ideală pentru cei care caută liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        14.754876,
+                        44.835582
+                  ]
+            },
+            {
+                  "name": "Stolac FKK",
+                  "text": "O plajă de naturiști populară în Rab, cunoscută pentru coasta stâncoasă și apa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75446,
+                        44.832974
+                  ]
+            },
+            {
+                  "name": "Kinjka FKK",
+                  "text": "O mică secțiune de plajă pentru naturiști lângă Lopar, înconjurată de natură mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727058,
+                        44.85292
+                  ]
+            },
+            {
+                  "name": "Stolac II (FKK)",
+                  "text": "O altă zonă liniștită din golful Stolac, utilizată în principal de naturiști.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75413,
+                        44.830433
+                  ]
+            },
+            {
+                  "name": "Kastelina",
+                  "text": "O plajă frumoasă cu nisip în Lopar, apreciată pentru cadrul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752911,
+                        44.824981
+                  ]
+            },
+            {
+                  "name": "Kozica beach",
+                  "text": "În afara cărărilor bătătorite din Lopar pe insula Rab se află această porțiune naturală de plajă. Golful este adesea accesat prin mici trasee de drumeție sau confortabil cu barca. Vizitatorii apreciază ambianța aspră și neatinsă, care este deosebit de impresionantă dimineața devreme.",
+                  "category": "recreational",
+                  "coords": [
+                        14.71074,
+                        44.819723
+                  ]
+            },
+            {
+                  "name": "Pošta beach",
+                  "text": "Departe de marile mulțimi de turiști se ascunde această mică și pașnică porțiune de coastă din Lopar. Sunetul blând al mării domină atmosfera de aici, invitând la ore relaxante la malul apei. Cei care doresc să scape de agitație ar trebui să caute acest mic refugiu în zilele însorite.",
+                  "category": "recreational",
+                  "coords": [
+                        14.711098,
+                        44.838607
+                  ]
+            },
+            {
+                  "name": "Sahara (FKK)",
+                  "text": "Una dintre cele mai cunoscute plaje de nisip pentru naturiști de pe insula Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.756801,
+                        44.841396
+                  ]
+            },
+            {
+                  "name": "Livačina",
+                  "text": "O plajă de nisip populară, cu apă puțin adâncă și facilități bune lângă Lopar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751339,
+                        44.824456
+                  ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "O plajă retrasă în apropiere de Lopar pe insula Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "Impy Park din Lopar pe insula Rab este o zonă de joacă fantastică, care oferă momente de neuitat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
+                  ]
+            },
+            {
+                  "name": "Sveti Nikola",
+                  "text": "Sveti Nikola este o plajă în Lopar pe insula Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.684574,
+                        44.842026
+                  ]
+            },
+            {
+                  "name": "Sahara",
+                  "text": "Sahara este o plajă de nudiști cu nisip în Lopar pe insula Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752035,
+                        44.840336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paradise Beach (Rajska plaža)",
+                  "text": "Spanning an impressive 1.5 kilometers, this sandy beach defines the coastline of Lopar on Rab. The shallow, gently sloping water makes the location a preferred destination for families with small children. On summer afternoons, the expansive bay quickly fills with cheerful bathers.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-rajska-pla-a.webp",
+                  "coords": [
+                        14.737437,
+                        44.821078
+                  ]
+            },
+            {
+                  "name": "Geopark Lopar",
+                  "text": "A network of trails showcasing the peninsula's unique geological structures and rare plant species.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-geopark-lopar.webp",
+                  "coords": [
+                        14.742318,
+                        44.825526
+                  ]
+            },
+            {
+                  "name": "Goli Otok",
+                  "text": "The notorious former prison island, reachable by boat, now serving as a somber historical monument.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-goli-otok.webp",
+                  "coords": [
+                        14.818611,
+                        44.838889
+                  ]
+            },
+            {
+                  "name": "Sveti Grgur Island",
+                  "text": "An uninhabited island known for its deer, beautiful coves, and ruins of a former women's labor camp.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/lopar-insel-sveti-grgur.webp",
+                  "coords": [
+                        14.7551,
+                        44.869742
+                  ]
+            },
+            {
+                  "name": "Ciganka",
+                  "text": "Natural sandy beach located on the northern part of the Lopar peninsula on Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.725423,
+                        44.849973
+                  ]
+            },
+            {
+                  "name": "Dubac",
+                  "text": "Secluded sandy beach near Lopar, accessible via walking trails or by boat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.738888,
+                        44.845436
+                  ]
+            },
+            {
+                  "name": "Sturić",
+                  "text": "One of many hidden sandy beaches in the scenic surroundings of Lopar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.733668,
+                        44.845594
+                  ]
+            },
+            {
+                  "name": "Podšilo",
+                  "text": "A quiet sandy beach in a secluded bay near Lopar on the island of Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.746937,
+                        44.846272
+                  ]
+            },
+            {
+                  "name": "Potpećina",
+                  "text": "A natural beach in the Lopar region, ideal for those seeking peace and quiet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.754876,
+                        44.835582
+                  ]
+            },
+            {
+                  "name": "Stolac FKK",
+                  "text": "A popular FKK beach on Rab, known for its rocky coast and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75446,
+                        44.832974
+                  ]
+            },
+            {
+                  "name": "Kinjka FKK",
+                  "text": "A small FKK beach section near Lopar, surrounded by Mediterranean nature.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727058,
+                        44.85292
+                  ]
+            },
+            {
+                  "name": "Stolac II (FKK)",
+                  "text": "Another quiet area of the Stolac bay, primarily used by nudist bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75413,
+                        44.830433
+                  ]
+            },
+            {
+                  "name": "Kastelina",
+                  "text": "A beautiful sandy beach in Lopar, appreciated for its natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752911,
+                        44.824981
+                  ]
+            },
+            {
+                  "name": "Kozica beach",
+                  "text": "Off the beaten path in Lopar on Rab lies this natural stretch of beach. The bay is often reached via small hiking trails or comfortably by boat. Visitors appreciate the rugged, unspoiled ambiance, which is particularly striking in the early morning.",
+                  "category": "recreational",
+                  "coords": [
+                        14.71074,
+                        44.819723
+                  ]
+            },
+            {
+                  "name": "Pošta beach",
+                  "text": "Far from large tourist crowds hides this small, peaceful stretch of coast in Lopar. The gentle sound of the sea dominates the atmosphere here, inviting visitors to spend relaxed hours by the water. Those wanting to escape the hustle and bustle should seek out this small refuge on sunny days.",
+                  "category": "recreational",
+                  "coords": [
+                        14.711098,
+                        44.838607
+                  ]
+            },
+            {
+                  "name": "Sahara (FKK)",
+                  "text": "One of the most famous sandy FKK beaches on the island of Rab with wide sea views.",
+                  "category": "recreational",
+                  "coords": [
+                        14.756801,
+                        44.841396
+                  ]
+            },
+            {
+                  "name": "Livačina",
+                  "text": "A popular sandy beach with shallow water and good facilities near Lopar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751339,
+                        44.824456
+                  ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "A secluded beach near Lopar on the island of Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "The Impy Park in Lopar on Rab is a fantastic play area that provides unforgettable moments for families.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
+                  ]
+            },
+            {
+                  "name": "Sveti Nikola",
+                  "text": "Sveti Nikola is a beach in Lopar on Rab island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.684574,
+                        44.842026
+                  ]
+            },
+            {
+                  "name": "Sahara",
+                  "text": "Sahara is a sandy nudist beach in Lopar on Rab island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752035,
+                        44.840336
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Ciganka",
+                  "text": "Prirodna pješčana plaža na sjevernom dijelu poluotoka Lopara na Rabu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.725423,
+                        44.849973
+                  ]
+            },
+            {
+                  "name": "Dubac",
+                  "text": "Izolirana pješčana plaža kod Lopara, dostupna pješačkim stazama ili brodom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.738888,
+                        44.845436
+                  ]
+            },
+            {
+                  "name": "Sturić",
+                  "text": "Jedna od brojnih skrivenih pješčanih plaža u slikovitom okruženju Lopara.",
+                  "category": "recreational",
+                  "coords": [
+                        14.733668,
+                        44.845594
+                  ]
+            },
+            {
+                  "name": "Podšilo",
+                  "text": "Mirna pješčana plaža u osamljenoj uvali u blizini Lopara na otoku Rabu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.746937,
+                        44.846272
+                  ]
+            },
+            {
+                  "name": "Potpećina",
+                  "text": "Prirodna plaža u regiji Lopar, idealna za one koji traže mir i tišinu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.754876,
+                        44.835582
+                  ]
+            },
+            {
+                  "name": "Stolac FKK",
+                  "text": "Popularna FKK plaža na Rabu, poznata po stjenovitoj obali i čistom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75446,
+                        44.832974
+                  ]
+            },
+            {
+                  "name": "Kinjka FKK",
+                  "text": "Mali dio FKK plaže u blizini Lopara, okružen mediteranskom prirodom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727058,
+                        44.85292
+                  ]
+            },
+            {
+                  "name": "Stolac II (FKK)",
+                  "text": "Još jedan miran dio uvale Stolac, koji prvenstveno koriste nudisti.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75413,
+                        44.830433
+                  ]
+            },
+            {
+                  "name": "Kastelina",
+                  "text": "Lijepa pješčana plaža u Loparu, cijenjena zbog svog prirodnog okruženja.",
+                  "category": "recreational",
+                  "coords": [
+                        14.752911,
+                        44.824981
+                  ]
+            },
+            {
+                  "name": "Kozica beach",
+                  "text": "Skrovita prirodna plaža do koje se često dolazi pješačkim stazama ili brodom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.71074,
+                        44.819723
+                  ]
+            },
+            {
+                  "name": "Pošta beach",
+                  "text": "Mala, mirna plaža u Loparu, daleko od glavnih turističkih gužvi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.711098,
+                        44.838607
+                  ]
+            },
+            {
+                  "name": "Sahara (FKK)",
+                  "text": "Jedna od najpoznatijih pješčanih FKK plaža na otoku Rabu s otvorenim pogledom na more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.756801,
+                        44.841396
+                  ]
+            },
+            {
+                  "name": "Livačina",
+                  "text": "Popularna pješčana plaža s plitkim morem i dobrim sadržajima u blizini Lopara.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751339,
+                        44.824456
+                  ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "Osamljena plaža u blizini Lopara na otoku Rabu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
+            }
+      ]
+}},
   {"id": "lovinac", "type": "city", "parent": "HR-09", "coords": [15.7, 44.3917], "population": 1077, "tier": 3, "name": {"de": "Lovinac", "hu": "Lovinac", "ro": "Lovinac", "en": "Lovinac"}, "description": {"de": "Lovinac ist ein idyllisches Bergdorf in der Region Lika, am Fuße des Velebit-Gebirges, bekannt für seine unberührte Natur und Möglichkeiten für Aktivurlaub.", "hu": "Lovinac egy idilli hegyi település Lika régióban, a Velebit-hegység lábánál, amely érintetlen természetéről és az aktív kikapcsolódási lehetőségekről ismert.", "ro": "Lovinac este o localitate montană idilică în regiunea Lika, la poalele munților Velebit, cunoscută pentru natura virgină și oportunitățile de vacanță activă.", "en": "Lovinac is an idyllic mountain village in the Lika region at the foot of the Velebit mountains, known for its pristine nature and active tourism."}, "facts": {"de": ["Region Lika", "Velebit-Gebirge", "Sveti Rok Tunnel", "Karstlandschaft", "Traditionelle Käseherstellung", "Wander- und Radwege", "1077 Einwohner", "Höhenlage"], "hu": ["Lika régió", "Velebit-hegység", "Sveti Rok alagút", "Karsztvidék", "Hagyományos sajtgyártás", "Túra- és kerékpárutak", "1077 lakos", "Magaslati fekvés"], "ro": ["Regiunea Lika", "Munții Velebit", "Tunelul Sveti Rok", "Peisaj carstic", "Producție de brânză tradițională", "Trasee de drumeție și ciclism", "1077 locuitori", "Altitudine montană"], "en": ["Lika region", "Velebit Mountains", "Sveti Rok Tunnel", "Karst landscape", "Traditional cheese making", "Hiking and biking trails", "1077 inhabitants", "High altitude location"]}, "image": "/poi-images/lovinac.webp", "imageHint": "Rural landscape of Lovinac with traditional Lika houses and Velebit peaks", "descriptionAdvanced": {"de": "Lovinac, im Herzen der Lika-Region gelegen, ist ein Refugium der Ruhe, weit entfernt von den überfüllten Küstenorten. Dieses Gebiet ist ein Paradebeispiel für die kroatische Karstlandschaft mit weiten Feldern, dichten Wäldern und kristallklaren Flüssen. Es ist das ideale Reiseziel für Naturliebhaber, Wanderer und alle, die das authentische, ländliche Kroatien erleben möchten. Eine der Hauptattraktionen ist der markante Gipfel des Zir, der Wanderer mit einem spektakulären Panoramablick über die Lika-Ebene belohnt. Die Region ist auch reich an Wasserquellen, darunter die Quelle Sveti Rok, deren Wasser landesweit bekannt ist. Lovinac ist ein Zentrum für nachhaltigen und ländlichen Tourismus. Besucher können auf Bauernhöfen übernachten, lokale Produkte probieren und an landwirtschaftlichen Aktivitäten teilnehmen. Die Gastronomie von Lika ist deftig und köstlich, berühmt für ihre Kartoffeln (Lički krumpir), Lammfleisch und Käsesorten wie „Škripavac“. Ein Aufenthalt in Lovinac bietet eine einzigartige Gelegenheit, abzuschalten und die unberührte Natur und die herzliche Gastfreundschaft des kroatischen Hinterlandes zu genießen.", "hu": "Lovinac, a Lika-régió szívében, a nyugalom menedéke, távol a túlzsúfolt tengerparti üdülőhelyektől. Ez a terület a horvát karsztvidék mintapéldája, tágas mezőkkel, sűrű erdőkkel és kristálytiszta folyókkal. Ideális úti cél a természetbarátok, túrázók és mindazok számára, akik az autentikus, vidéki Horvátországot szeretnék megtapasztalni. Az egyik fő vonzerő a Zir jellegzetes csúcsa, amely a túrázókat a Lika-síkságra nyíló látványos panorámával jutalmazza. A régió bővelkedik vízforrásokban is, köztük a Sveti Rok forrásban, amelynek vize országosan ismert. Lovinac a fenntartható és a falusi turizmus központja. A látogatók parasztgazdaságokban szállhatnak meg, helyi termékeket kóstolhatnak, és részt vehetnek mezőgazdasági tevékenységekben. A likai gasztronómia kiadós és ízletes, híres a burgonyájáról (Lički krumpir), bárányhúsáról és sajtjairól, mint például a „Škripavac”. A lovinaci tartózkodás egyedülálló lehetőséget kínál a kikapcsolódásra, a horvát hátország érintetlen természetének és szívélyes vendégszeretetének élvezetére.", "ro": "Lovinac, situat în inima regiunii Lika, este un refugiu de liniște, departe de stațiunile aglomerate de pe coastă. Această zonă este un exemplu perfect al peisajului carstic croat, cu câmpuri vaste, păduri dese și râuri cristaline. Este destinația ideală pentru iubitorii de natură, drumeți și pentru oricine dorește să experimenteze Croația rurală autentică. Una dintre principalele atracții este vârful proeminent Zir, care îi recompensează pe drumeți cu o panoramă spectaculoasă asupra câmpiei Lika. Regiunea este bogată și în izvoare de apă, inclusiv izvorul Sveti Rok, a cărui apă este renumită la nivel național. Lovinac este un centru pentru turismul durabil și rural. Vizitatorii pot sta la ferme, pot degusta produse locale și pot participa la activități agricole. Gastronomia din Lika este consistentă și delicioasă, renumită pentru cartofii săi (Lički krumpir), carnea de miel și brânzeturile precum „Škripavac”. Un sejur în Lovinac oferă o oportunitate unică de a te deconecta și de a te bucura de natura neatinsă și de ospitalitatea caldă a hinterlandului croat.", "en": "Lovinac, situated in the heart of the Lika region, is a sanctuary of peace far from the crowded coastal resorts. This area is a prime example of Croatia's karst landscape, featuring vast fields, dense forests, and crystal-clear rivers. It is the ideal destination for nature lovers, hikers, and anyone wishing to experience authentic, rural Croatia. One of the main attractions is the prominent peak of Zir, which rewards hikers with a spectacular panoramic view over the Lika plain. The region is also rich in water springs, including the Sveti Rok spring, whose bottled water is famous throughout the country. Lovinac is a hub for sustainable and rural tourism. Visitors can stay on agro-tourism farms, taste local products, and participate in agricultural activities. The gastronomy of Lika is hearty and delicious, famous for its potatoes (Lički krumpir), lamb, and cheeses like \"Škripavac.\" A stay in Lovinac offers a unique opportunity to unwind and enjoy the untouched nature and warm hospitality of the Croatian hinterland."}, "factsAdvanced": {"de": ["Durchschnittliche Höhe: 580 Meter über dem Meeresspiegel", "Länge des nahen Sveti Rok Tunnels: 5674 Meter", "Entfernung zum Naturpark Velebit: 10 Kilometer", "Fläche der Gemeinde: 317 km2", "Wichtigste Kirche: St. Michael (erbaut 1704)", "Traditionelles Produkt: Lika-Kartoffel (geschützte Herkunft)"], "hu": ["Átlagos tengerszint feletti magasság: 580 méter", "A közeli Sveti Rok alagút hossza: 5674 méter", "Távolság a Velebit Természetvédelmi Parktól: 10 kilométer", "A község területe: 317 km2", "Főtemplom: Szent Mihály-templom (épült 1704-ben)", "Hagyományos termék: Likai burgonya (eredetvédett)"], "ro": ["Altitudine medie: 580 metri peste nivelul mării", "Lungimea tunelului Sveti Rok: 5674 metri", "Distanța până la Parcul Natural Velebit: 10 kilometri", "Suprafața comunei: 317 km2", "Biserica principală: Sfântul Mihail (construită în 1704)", "Produs tradițional: Cartoful de Lika (origine protejată)"], "en": ["Average elevation: 580 meters above sea level", "Length of the nearby Sveti Rok tunnel: 5674 meters", "Distance to Velebit Nature Park: 10 kilometers", "Municipality area: 317 km2", "Main church: St. Michael's (built in 1704)", "Traditional product: Lika potato (protected origin)"]}, "sights": {
       "de": [
             {

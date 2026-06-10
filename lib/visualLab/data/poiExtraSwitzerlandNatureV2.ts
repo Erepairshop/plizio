@@ -238,6 +238,15 @@ export const switzerlandNatureV2: POI[] = [
                         8.227746,
                         46.741701
                   ]
+            },
+            {
+                  "name": "Reka",
+                  "text": "Ein Schwimmbad in der Nähe der Aareschlucht.",
+                  "category": "recreational",
+                  "coords": [
+                        8.197112,
+                        46.747087
+                  ]
             }
       ],
       "hu": [
@@ -311,6 +320,15 @@ export const switzerlandNatureV2: POI[] = [
                   "coords": [
                         8.227746,
                         46.741701
+                  ]
+            },
+            {
+                  "name": "Reka",
+                  "text": "Egy úszómedence az Aare-szurdok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.197112,
+                        46.747087
                   ]
             }
       ],
@@ -386,6 +404,15 @@ export const switzerlandNatureV2: POI[] = [
                         8.227746,
                         46.741701
                   ]
+            },
+            {
+                  "name": "Reka",
+                  "text": "O piscină situată în apropierea Cheilor Aare.",
+                  "category": "recreational",
+                  "coords": [
+                        8.197112,
+                        46.747087
+                  ]
             }
       ],
       "en": [
@@ -459,6 +486,15 @@ export const switzerlandNatureV2: POI[] = [
                   "coords": [
                         8.227746,
                         46.741701
+                  ]
+            },
+            {
+                  "name": "Reka",
+                  "text": "A swimming pool located near the Aare Gorge.",
+                  "category": "recreational",
+                  "coords": [
+                        8.197112,
+                        46.747087
                   ]
             }
       ]
@@ -2947,6 +2983,42 @@ export const switzerlandNatureV2: POI[] = [
                         9.295485,
                         47.154355
                   ]
+            },
+            {
+                  "name": "Strandbad Walenstadt",
+                  "text": "Ein Strandbad am Walensee mit Blick auf die umliegenden Berge.",
+                  "category": "recreational",
+                  "coords": [
+                        9.302515,
+                        47.12605
+                  ]
+            },
+            {
+                  "name": "Strandbad Unterterzen",
+                  "text": "Ein öffentlicher Badeplatz in Unterterzen am Ufer des Walensees.",
+                  "category": "recreational",
+                  "coords": [
+                        9.254731,
+                        47.115181
+                  ]
+            },
+            {
+                  "name": "Strandbad Mols",
+                  "text": "Ein ruhiger Badebereich in Mols am Walensee.",
+                  "category": "recreational",
+                  "coords": [
+                        9.279707,
+                        47.113175
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "Ein Erlebniszentrum am Gamsberg, das Ausflüge mit Huskies anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.28834,
+                        47.089403
+                  ]
             }
       ],
       "hu": [
@@ -3020,6 +3092,42 @@ export const switzerlandNatureV2: POI[] = [
                   "coords": [
                         9.295485,
                         47.154355
+                  ]
+            },
+            {
+                  "name": "Strandbad Walenstadt",
+                  "text": "Strandfürdő a Walen-tónál, kilátással a környező hegyekre.",
+                  "category": "recreational",
+                  "coords": [
+                        9.302515,
+                        47.12605
+                  ]
+            },
+            {
+                  "name": "Strandbad Unterterzen",
+                  "text": "Nyilvános fürdőhely Unterterzenben, a Walen-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        9.254731,
+                        47.115181
+                  ]
+            },
+            {
+                  "name": "Strandbad Mols",
+                  "text": "Nyugodt fürdőhely Mols területén, a Walen-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.279707,
+                        47.113175
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "Élményközpont a Gamsbergnél, amely husky-túrákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.28834,
+                        47.089403
                   ]
             }
       ],
@@ -3095,6 +3203,42 @@ export const switzerlandNatureV2: POI[] = [
                         9.295485,
                         47.154355
                   ]
+            },
+            {
+                  "name": "Strandbad Walenstadt",
+                  "text": "Un ștrand pe malul lacului Walenstadt, cu vedere la munții din jur.",
+                  "category": "recreational",
+                  "coords": [
+                        9.302515,
+                        47.12605
+                  ]
+            },
+            {
+                  "name": "Strandbad Unterterzen",
+                  "text": "Un loc public de scăldat în Unterterzen, pe malul lacului Walenstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.254731,
+                        47.115181
+                  ]
+            },
+            {
+                  "name": "Strandbad Mols",
+                  "text": "O zonă liniștită de scăldat în Mols, pe malul lacului Walenstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.279707,
+                        47.113175
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "Un centru de experiențe la Gamsberg, oferind tururi cu husky.",
+                  "category": "recreational",
+                  "coords": [
+                        9.28834,
+                        47.089403
+                  ]
             }
       ],
       "en": [
@@ -3168,6 +3312,42 @@ export const switzerlandNatureV2: POI[] = [
                   "coords": [
                         9.295485,
                         47.154355
+                  ]
+            },
+            {
+                  "name": "Strandbad Walenstadt",
+                  "text": "A public bath on Lake Walenstadt with views of the surrounding mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        9.302515,
+                        47.12605
+                  ]
+            },
+            {
+                  "name": "Strandbad Unterterzen",
+                  "text": "A public bathing spot in Unterterzen on the shores of Lake Walenstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.254731,
+                        47.115181
+                  ]
+            },
+            {
+                  "name": "Strandbad Mols",
+                  "text": "A quiet swimming area in Mols at Lake Walenstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.279707,
+                        47.113175
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "An experience center at Gamsberg offering tours with huskies.",
+                  "category": "recreational",
+                  "coords": [
+                        9.28834,
+                        47.089403
                   ]
             }
       ]

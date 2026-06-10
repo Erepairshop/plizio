@@ -696,7 +696,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-vince-peak-relief-v2.webp",
   },
   {
-    id: "serbia-bukovik-mountain-relief-v2",
+    id: "serbia-bukovik-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Аквапарк Подина",
+                  "text": "Der Podina Waterpark ist ein Wasserpark am Berg Bukovik.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Аквапарк Подина",
+                  "text": "A Podina Waterpark egy vízi park a Bukovik-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Аквапарк Подина",
+                  "text": "Podina Waterpark este un parc acvatic situat în zona Muntelui Bukovik.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Podina Waterpark",
+                  "text": "Podina Waterpark is a water park located in the Bukovik Mountain area.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Bukovik Gebirge", hu: "Bukovik hegység", ro: "Munții Bukovik", en: "Bukovik Mountain" },
@@ -4387,6 +4432,15 @@ export const serbiaReliefV2: POI[] = [
                         19.690801,
                         43.690999
                   ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "Ein Abenteuerpark zum Thema Dinosaurier im Ferienort Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
+                  ]
             }
       ],
       "hu": [
@@ -4415,6 +4469,15 @@ export const serbiaReliefV2: POI[] = [
                   "coords": [
                         19.690801,
                         43.690999
+                  ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "Dinoszaurusz-tematikájú kalandpark a Zlatibor üdülőhelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
                   ]
             }
       ],
@@ -4445,6 +4508,15 @@ export const serbiaReliefV2: POI[] = [
                         19.690801,
                         43.690999
                   ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "Un parc de aventură cu tematică despre dinozauri situat în stațiunea montană Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
+                  ]
             }
       ],
       "en": [
@@ -4473,6 +4545,15 @@ export const serbiaReliefV2: POI[] = [
                   "coords": [
                         19.690801,
                         43.690999
+                  ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "A dinosaur-themed adventure park located in the Zlatibor mountain resort.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
                   ]
             }
       ]
@@ -4882,6 +4963,33 @@ export const serbiaReliefV2: POI[] = [
                         19.70515,
                         43.727902
                   ]
+            },
+            {
+                  "name": "Zlatiborska jezera",
+                  "text": "Öffentliche Badeseen im Gebiet Gruda bei Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.636903,
+                        43.731015
+                  ]
+            },
+            {
+                  "name": "Kod Komshe",
+                  "text": "Eine öffentliche Badeanlage im Gebiet Gruda.",
+                  "category": "recreational",
+                  "coords": [
+                        19.645126,
+                        43.735822
+                  ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "Ein Dinosaurier-Themenpark in Gruda bei Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
+                  ]
             }
       ],
       "hu": [
@@ -4901,6 +5009,33 @@ export const serbiaReliefV2: POI[] = [
                   "coords": [
                         19.70515,
                         43.727902
+                  ]
+            },
+            {
+                  "name": "Zlatiborska jezera",
+                  "text": "Nyilvános fürdőhely a Zlatibor-hegység Gruda területén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.636903,
+                        43.731015
+                  ]
+            },
+            {
+                  "name": "Kod Komshe",
+                  "text": "Nyilvános fürdőhely Gruda területén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.645126,
+                        43.735822
+                  ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "Dinoszaurusz-témapark Gruda területén, Zlatiborban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
                   ]
             }
       ],
@@ -4922,6 +5057,33 @@ export const serbiaReliefV2: POI[] = [
                         19.70515,
                         43.727902
                   ]
+            },
+            {
+                  "name": "Zlatiborska jezera",
+                  "text": "Lacuri pentru baie publică situate în zona Gruda din Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.636903,
+                        43.731015
+                  ]
+            },
+            {
+                  "name": "Kod Komshe",
+                  "text": "O baie publică situată în zona Gruda.",
+                  "category": "recreational",
+                  "coords": [
+                        19.645126,
+                        43.735822
+                  ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "Un parc tematic cu dinozauri situat în Gruda, Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
+                  ]
             }
       ],
       "en": [
@@ -4941,6 +5103,33 @@ export const serbiaReliefV2: POI[] = [
                   "coords": [
                         19.70515,
                         43.727902
+                  ]
+            },
+            {
+                  "name": "Zlatiborska jezera",
+                  "text": "Public bathing lakes located in the Gruda area of Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.636903,
+                        43.731015
+                  ]
+            },
+            {
+                  "name": "Kod Komshe",
+                  "text": "A public bath facility located in the Gruda area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.645126,
+                        43.735822
+                  ]
+            },
+            {
+                  "name": "Dino park Zlatibor",
+                  "text": "A dinosaur-themed adventure park located in Gruda, Zlatibor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.703472,
+                        43.720557
                   ]
             }
       ]

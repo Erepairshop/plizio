@@ -77,6 +77,15 @@ imageHint: "Stockholm Royal Palace facade at day",
                         17.987857,
                         59.311304
                   ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "Ein beliebter Stadtstrand auf der Insel Kungsholmen in Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
+                  ]
             }
       ],
       "hu": [
@@ -105,6 +114,15 @@ imageHint: "Stockholm Royal Palace facade at day",
                   "coords": [
                         17.987857,
                         59.311304
+                  ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "Népszerű városi strand Stockholm Kungsholmen szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
                   ]
             }
       ],
@@ -135,6 +153,15 @@ imageHint: "Stockholm Royal Palace facade at day",
                         17.987857,
                         59.311304
                   ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "O plajă urbană populară situată pe insula Kungsholmen din Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
+                  ]
             }
       ],
       "en": [
@@ -163,6 +190,15 @@ imageHint: "Stockholm Royal Palace facade at day",
                   "coords": [
                         17.987857,
                         59.311304
+                  ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "A popular urban beach located on the island of Kungsholmen in Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
                   ]
             }
       ]
@@ -732,6 +768,15 @@ imageHint: "Kiruna Church red wooden building",
                         11.600452,
                         57.890734
                   ]
+            },
+            {
+                  "name": "Varmvattenbadhus",
+                  "text": "Ein Warmwasserbadhaus auf der Festung Carlsten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.579015,
+                        57.888605
+                  ]
             }
       ],
       "hu": [
@@ -805,6 +850,15 @@ imageHint: "Kiruna Church red wooden building",
                   "coords": [
                         11.600452,
                         57.890734
+                  ]
+            },
+            {
+                  "name": "Varmvattenbadhus",
+                  "text": "A Carlsten-erődnél található melegvizes fürdőház.",
+                  "category": "recreational",
+                  "coords": [
+                        11.579015,
+                        57.888605
                   ]
             }
       ],
@@ -880,6 +934,15 @@ imageHint: "Kiruna Church red wooden building",
                         11.600452,
                         57.890734
                   ]
+            },
+            {
+                  "name": "Varmvattenbadhus",
+                  "text": "O baie cu apă caldă situată la Cetatea Carlsten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.579015,
+                        57.888605
+                  ]
             }
       ],
       "en": [
@@ -953,6 +1016,15 @@ imageHint: "Kiruna Church red wooden building",
                   "coords": [
                         11.600452,
                         57.890734
+                  ]
+            },
+            {
+                  "name": "Varmvattenbadhus",
+                  "text": "A warm water bathhouse located at Carlsten Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        11.579015,
+                        57.888605
                   ]
             }
       ]
@@ -1880,6 +1952,15 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
                         13.437614,
                         55.497845
                   ]
+            },
+            {
+                  "name": "Skurup Friluftsbad",
+                  "text": "Ein beheiztes Freibad in der Nähe des Schlosses Svaneholm in Südschweden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.50473,
+                        55.47573
+                  ]
             }
       ],
       "hu": [
@@ -1953,6 +2034,15 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
                   "coords": [
                         13.437614,
                         55.497845
+                  ]
+            },
+            {
+                  "name": "Skurup Friluftsbad",
+                  "text": "Fűtött szabadtéri medence a dél-svédországi Svaneholm-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.50473,
+                        55.47573
                   ]
             }
       ],
@@ -2028,6 +2118,15 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
                         13.437614,
                         55.497845
                   ]
+            },
+            {
+                  "name": "Skurup Friluftsbad",
+                  "text": "O piscină în aer liber cu apă încălzită, situată lângă castelul Svaneholm din sudul Suediei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.50473,
+                        55.47573
+                  ]
             }
       ],
       "en": [
@@ -2101,6 +2200,15 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
                   "coords": [
                         13.437614,
                         55.497845
+                  ]
+            },
+            {
+                  "name": "Skurup Friluftsbad",
+                  "text": "A heated outdoor swimming pool located near Svaneholm Castle in southern Sweden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.50473,
+                        55.47573
                   ]
             }
       ]
@@ -3125,6 +3233,15 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
                         16.669995,
                         56.883043
                   ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "Ein traditionelles Kaltbadehaus am Meer in der Nähe der Schlossruine Borgholm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.644975,
+                        56.879187
+                  ]
             }
       ],
       "hu": [
@@ -3198,6 +3315,15 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
                   "coords": [
                         16.669995,
                         56.883043
+                  ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "Egy hagyományos tengerparti hidegfürdő a Borgholm-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.644975,
+                        56.879187
                   ]
             }
       ],
@@ -3273,6 +3399,15 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
                         16.669995,
                         56.883043
                   ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "O baie publică tradițională cu apă rece, situată pe malul mării lângă castelul Borgholm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.644975,
+                        56.879187
+                  ]
             }
       ],
       "en": [
@@ -3346,6 +3481,15 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
                   "coords": [
                         16.669995,
                         56.883043
+                  ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "A traditional seaside cold bath house located near the Borgholm Castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        16.644975,
+                        56.879187
                   ]
             }
       ]

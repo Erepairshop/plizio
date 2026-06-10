@@ -1934,6 +1934,15 @@ export const moldovaReliefV2: POI[] = [
                         28.175302,
                         45.72646
                   ]
+            },
+            {
+                  "name": "Tarzancă",
+                  "text": "Ein lokaler Badebereich in der Ebene des Unteren Pruth, der zur Erholung genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        28.170486,
+                        45.707911
+                  ]
             }
       ],
       "hu": [
@@ -1953,6 +1962,15 @@ export const moldovaReliefV2: POI[] = [
                   "coords": [
                         28.175302,
                         45.72646
+                  ]
+            },
+            {
+                  "name": "Tarzancă",
+                  "text": "Helyi fürdőhely az Alsó-Prut síkságon, amelyet kikapcsolódásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        28.170486,
+                        45.707911
                   ]
             }
       ],
@@ -1974,6 +1992,15 @@ export const moldovaReliefV2: POI[] = [
                         28.175302,
                         45.72646
                   ]
+            },
+            {
+                  "name": "Tarzancă",
+                  "text": "O zonă locală de scăldat în Câmpia Prutului de Jos, utilizată pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        28.170486,
+                        45.707911
+                  ]
             }
       ],
       "en": [
@@ -1993,6 +2020,15 @@ export const moldovaReliefV2: POI[] = [
                   "coords": [
                         28.175302,
                         45.72646
+                  ]
+            },
+            {
+                  "name": "Tarzancă",
+                  "text": "A local swimming area in the Lower Prut Plain used for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        28.170486,
+                        45.707911
                   ]
             }
       ]

@@ -838,6 +838,42 @@ imageHint: "Peter the Great Monument Moscow river ship",
                         37.676835,
                         55.689418
                   ]
+            },
+            {
+                  "name": "Джоки Джоя",
+                  "text": "Ein Indoor-Freizeitpark und Familienunterhaltungszentrum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677556,
+                        55.71089
+                  ]
+            },
+            {
+                  "name": "Dream Beach Club",
+                  "text": "Ein Strandresort und Erholungsclub für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        37.670571,
+                        55.698288
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "Ein kleiner Freizeitpark in der Nähe der Himmelfahrtskirche, der Unterhaltung für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Panda-park",
+                  "text": "Ein Hochseilgarten und Themenpark im Bereich der Himmelfahrtskirche für aktive Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        37.643425,
+                        55.705235
+                  ]
             }
       ],
       "hu": [
@@ -902,6 +938,42 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   "coords": [
                         37.676835,
                         55.689418
+                  ]
+            },
+            {
+                  "name": "Джоки Джоя",
+                  "text": "Fedett vidámpark és családi szórakoztató központ.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677556,
+                        55.71089
+                  ]
+            },
+            {
+                  "name": "Dream Beach Club",
+                  "text": "Tengerparti üdülőhely és szabadidős klub a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        37.670571,
+                        55.698288
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "Kisebb vidámpark a Mennybemenetel-templom közelében, amely szórakozást nyújt a családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Panda-park",
+                  "text": "Kalandpark és szabadidős központ a Mennybemenetel-templom környékén az aktív pihenés kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        37.643425,
+                        55.705235
                   ]
             }
       ],
@@ -968,6 +1040,42 @@ imageHint: "Peter the Great Monument Moscow river ship",
                         37.676835,
                         55.689418
                   ]
+            },
+            {
+                  "name": "Джоки Джоя",
+                  "text": "Un parc de distracții interior și centru de divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677556,
+                        55.71089
+                  ]
+            },
+            {
+                  "name": "Dream Beach Club",
+                  "text": "O stațiune de plajă și club de recreere pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        37.670571,
+                        55.698288
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "Un mic parc de distracții situat lângă Biserica Înălțării, oferind divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Panda-park",
+                  "text": "Un parc de aventură și distracții în zona Bisericii Înălțării, destinat recreerii active.",
+                  "category": "recreational",
+                  "coords": [
+                        37.643425,
+                        55.705235
+                  ]
             }
       ],
       "en": [
@@ -1032,6 +1140,42 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   "coords": [
                         37.676835,
                         55.689418
+                  ]
+            },
+            {
+                  "name": "Joki Joya",
+                  "text": "An indoor theme park and family entertainment center.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677556,
+                        55.71089
+                  ]
+            },
+            {
+                  "name": "Dream Beach Club",
+                  "text": "A beach resort and recreational club for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        37.670571,
+                        55.698288
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "A small theme park located near the Church of the Ascension, offering family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Panda-park",
+                  "text": "An adventure rope park and theme park in the area of the Church of the Ascension for active recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        37.643425,
+                        55.705235
                   ]
             }
       ]
@@ -1238,6 +1382,33 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                         30.406938,
                         59.720547
                   ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Ein Schwimmbad beim Alexanderpalast, das Besuchern und Anwohnern offensteht.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "Vogelgehege mit Pfauen und Enten in der Umgebung des Alexanderpalasts.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "Ein öffentliches Badehaus in der Nähe des Alexanderpalasts für traditionelle Anwendungen.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
+                  ]
             }
       ],
       "hu": [
@@ -1302,6 +1473,33 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   "coords": [
                         30.406938,
                         59.720547
+                  ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Úszómedence az Sándor-palotánál, amely nyitva áll a látogatók és lakosok előtt.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "Madárház pávákkal és kacsákkal az Sándor-palota környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "Nyilvános fürdőház az Sándor-palota közelében hagyományos kezelésekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
                   ]
             }
       ],
@@ -1368,6 +1566,33 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                         30.406938,
                         59.720547
                   ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "O piscină la Palatul Alexandru, deschisă vizitatorilor și rezidenților.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "O zonă pentru păsări, cu păuni și rațe, în împrejurimile Palatului Alexandru.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "O baie publică lângă Palatul Alexandru pentru tratamente tradiționale.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
+                  ]
             }
       ],
       "en": [
@@ -1432,6 +1657,33 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   "coords": [
                         30.406938,
                         59.720547
+                  ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "A swimming pool at the Alexander Palace, open to visitors and residents.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "A bird enclosure with peacocks and ducks in the surroundings of the Alexander Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "A public bathhouse near the Alexander Palace for traditional treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
                   ]
             }
       ]
@@ -1647,6 +1899,33 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                         37.705078,
                         55.594019
                   ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "Ein Indoor-Freizeitpark mit verschiedenen Spielen und Attraktionen im Zarizyno-Viertel.",
+                  "category": "recreational",
+                  "coords": [
+                        37.724739,
+                        55.586801
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "Ein kleiner Freizeitpark auf dem Gelände des Tsaritsyno-Palastkomplexes.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Gorod masterov",
+                  "text": "Ein Themenpark im Tsaritsyno-Komplex, der traditionelles Handwerk und Kultur präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677167,
+                        55.592808
+                  ]
             }
       ],
       "hu": [
@@ -1720,6 +1999,33 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   "coords": [
                         37.705078,
                         55.594019
+                  ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "Fedett vidámpark különféle játékokkal és attrakciókkal Caricino környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        37.724739,
+                        55.586801
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "Kisebb vidámpark a Caricinó-palotakomplexum területén.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Gorod masterov",
+                  "text": "Hagyományos mesterségeket bemutató élménypark a Caricinó-komplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677167,
+                        55.592808
                   ]
             }
       ],
@@ -1795,6 +2101,33 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                         37.705078,
                         55.594019
                   ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "Un parc de distracții interior care oferă diverse jocuri și atracții în zona Țarițîno.",
+                  "category": "recreational",
+                  "coords": [
+                        37.724739,
+                        55.586801
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "Un mic parc de distracții situat pe domeniul complexului palatului Tsaritsyno.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Gorod masterov",
+                  "text": "Un parc tematic în complexul Tsaritsyno, care prezintă meșteșuguri tradiționale și cultură.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677167,
+                        55.592808
+                  ]
             }
       ],
       "en": [
@@ -1868,6 +2201,33 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   "coords": [
                         37.705078,
                         55.594019
+                  ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "An indoor amusement park offering various games and attractions in the Tsaritsyno area.",
+                  "category": "recreational",
+                  "coords": [
+                        37.724739,
+                        55.586801
+                  ]
+            },
+            {
+                  "name": "Parkvik",
+                  "text": "A small amusement park located within the grounds of the Tsaritsyno Palace complex.",
+                  "category": "recreational",
+                  "coords": [
+                        37.646341,
+                        55.65356
+                  ]
+            },
+            {
+                  "name": "Gorod masterov",
+                  "text": "A theme park in the Tsaritsyno complex showcasing traditional crafts and culture.",
+                  "category": "recreational",
+                  "coords": [
+                        37.677167,
+                        55.592808
                   ]
             }
       ]
@@ -2174,6 +2534,51 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "Ein Streichelzoo beim Tulaer Kreml, in dem Besucher Tiere hautnah erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Ein Club für virtuelle Realität im Bereich des Tulaer Kremls für moderne Unterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Ein spezialisierter Zoo in Tula, der sich auf Reptilien und exotische Tiere konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Ein Freizeit- und Erlebnispark im historischen Zentrum von Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Ein moderner Freizeitpark in Tula mit verschiedenen Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
             }
       ],
       "hu": [
@@ -2247,6 +2652,51 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "Simogató állatkert a Tulai Kreml mellett, ahol az állatok közelről megfigyelhetők.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Virtuális valóság klub a Tulai Kreml területén, modern szórakozást kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Tulai állatkert, amely hüllőkre és egzotikus állatokra specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Szórakoztató és élménypark Tula történelmi központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Modern szabadidőpark Tulában különböző gyermekattrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
                   ]
             }
       ],
@@ -2322,6 +2772,51 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "O grădină zoologică cu animale de mângâiat lângă Kremlinul din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Un club de realitate virtuală în zona Kremlinului din Tula pentru divertisment modern.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "O grădină zoologică specializată în Tula, concentrată pe reptile și animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Un parc de distracții și aventură în centrul istoric al orașului Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Un parc de distracții modern în Tula, cu diverse atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
             }
       ],
       "en": [
@@ -2395,6 +2890,51 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "A petting zoo near the Tula Kremlin where visitors can interact closely with animals.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "A virtual reality club in the Tula Kremlin area offering modern entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "A specialized zoo in Tula focusing on reptiles and exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "An amusement and theme park located in the historic center of Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "A modern theme park in Tula featuring various attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
                   ]
             }
       ]
@@ -2499,6 +3039,24 @@ imageHint: "Tula Kremlin red brick walls and towers",
                         37.773654,
                         55.728199
                   ]
+            },
+            {
+                  "name": "Zamaniia",
+                  "text": "Ein Freizeitpark für Familien beim Landgut Kuskowo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.730872,
+                        55.729237
+                  ]
+            },
+            {
+                  "name": "Del'finchik",
+                  "text": "Ein Schwimmbad für Kinder im Bereich des Kuskowo-Landguts.",
+                  "category": "recreational",
+                  "coords": [
+                        37.745002,
+                        55.724905
+                  ]
             }
       ],
       "hu": [
@@ -2554,6 +3112,24 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   "coords": [
                         37.773654,
                         55.728199
+                  ]
+            },
+            {
+                  "name": "Zamaniia",
+                  "text": "Családi vidámpark a Kuskovo-birtoknál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.730872,
+                        55.729237
+                  ]
+            },
+            {
+                  "name": "Del'finchik",
+                  "text": "Gyermek úszómedence a Kuskovo-birtok területén.",
+                  "category": "recreational",
+                  "coords": [
+                        37.745002,
+                        55.724905
                   ]
             }
       ],
@@ -2611,6 +3187,24 @@ imageHint: "Tula Kremlin red brick walls and towers",
                         37.773654,
                         55.728199
                   ]
+            },
+            {
+                  "name": "Zamaniia",
+                  "text": "Un parc de distracții pentru familii lângă domeniul Kuskovo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.730872,
+                        55.729237
+                  ]
+            },
+            {
+                  "name": "Del'finchik",
+                  "text": "O piscină pentru copii în zona domeniului Kuskovo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.745002,
+                        55.724905
+                  ]
             }
       ],
       "en": [
@@ -2666,6 +3260,24 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   "coords": [
                         37.773654,
                         55.728199
+                  ]
+            },
+            {
+                  "name": "Zamaniia",
+                  "text": "A family theme park located by the Kuskovo Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        37.730872,
+                        55.729237
+                  ]
+            },
+            {
+                  "name": "Del'finchik",
+                  "text": "A children's swimming pool in the Kuskovo Estate area.",
+                  "category": "recreational",
+                  "coords": [
+                        37.745002,
+                        55.724905
                   ]
             }
       ]

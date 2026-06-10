@@ -104,7 +104,2644 @@ export const belgiumCountry: POI = {
 
 export const belgiumRegions: POI[] = [
   {
-    id: "city-brussels", "sights": {"de": [{"name": "Musée Bruxellois de la Gueuze - Brussels Museum van de Geuze", "text": "Ein Museum in der Brauerei Cantillon, das der traditionellen Lambic-Bierherstellung gewidmet ist.", "category": "museum", "coords": [4.335805, 50.841549]}, {"name": "Parlamentarium", "text": "Das Besucherzentrum des Europäischen Parlaments in Brüssel mit interaktiven Ausstellungen.", "category": "museum", "coords": [4.374328, 50.840089]}, {"name": "Belgian Chocolate Village", "text": "Ein Museum in Brüssel, das der Geschichte und Herstellung belgischer Schokolade gewidmet ist.", "category": "museum", "coords": [4.329937, 50.864816]}, {"name": "Archiv und Museum des Flämischen Lebens in Brüssel", "text": "Ein Museum und Archiv, das die Geschichte des flämischen Lebens in Brüssel dokumentiert.", "category": "museum", "coords": [4.349007, 50.855241]}, {"name": "Belgischen Museum der Freimaurerei", "text": "Ein Museum in Brüssel, das die Geschichte und Symbole der Freimaurerei beleuchtet.", "category": "museum", "coords": [4.351547, 50.853]}, {"name": "Musée BELvue - BELvue Museum", "text": "Ein Museum für belgische Geschichte im ehemaligen Hotel Bellevue.", "category": "museum", "coords": [4.360689, 50.84261]}, {"name": "Musée Charlier - Charliermuseum", "text": "Ein Kunstmuseum in einem Brüsseler Herrenhaus mit Sammlungen aus dem 19. Jahrhundert.", "category": "museum", "coords": [4.369928, 50.847556]}, {"name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel", "text": "Dieses Museum in der Hauptstadt widmet sich der Geschichte der sozialen Fürsorge. Das Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel beleuchtet die Entwicklung der Unterstützungseinrichtungen der Stadt.", "category": "museum", "coords": [4.347247, 50.835342]}, {"name": "Museum der Belgischen Nationalbank", "text": "Ein Museum über die Geschichte des Geldes und das Bankwesen in Belgien.", "category": "museum", "coords": [4.357196, 50.849803]}, {"name": "Naturwissenschaftliches Museum Belgien", "text": "Ein Naturkundemuseum, das vor allem für seine bedeutende Dinosaurier-Sammlung bekannt ist.", "category": "museum", "coords": [4.376494, 50.836509]}, {"name": "Musée Fin de siècle - Fin de siècle Museum", "text": "Ein Museum, das der Brüsseler Kunstszene um die Jahrhundertwende (1900) gewidmet ist.", "category": "museum", "coords": [4.357985, 50.841752]}, {"name": "CINEMATEK", "text": "Die königliche belgische Filmothek mit einem umfangreichen Archiv und täglichen Vorführungen.", "category": "museum", "coords": [4.360139, 50.844101]}, {"name": "Maison Marc Sleen - Huis Marc Sleen", "text": "In Brüssel ehrt das Maison Marc Sleen - Huis Marc Sleen das Leben und Schaffen des bekannten belgischen Comiczeichners. Das Museum bietet Comicfans einen detaillierten Blick auf seine Arbeiten.", "category": "museum", "coords": [4.36001, 50.850849]}, {"name": "Musée de l'érotisme et de la mythologie - Museum van erotiek en mythologië", "text": "Ein Museum in Brüssel, das antike Erotik und Mythologie in der Kunst thematisiert.", "category": "museum", "coords": [4.355585, 50.841259]}, {"name": "Coudenberg", "text": "Eine archäologische Stätte mit den Überresten des ehemaligen Palastes von Brüssel.", "category": "museum", "coords": [4.359762, 50.842895]}, {"name": "Bruxella 1238", "text": "Eine Ausgrabungsstätte unter dem Brüsseler Börsengebäude mit Resten eines mittelalterlichen Klosters.", "category": "museum", "coords": [4.350451, 50.848257]}, {"name": "Musée de la Porte de Hal - Hallepoort Museum", "text": "Ein befestigtes Stadttor aus dem 14. Jahrhundert, das heute als Museum für Stadtgeschichte dient.", "category": "museum", "coords": [4.344917, 50.833098]}, {"name": "Musée de la ville de Bruxelles - Museum van de Stad Brussel", "text": "Ein Museum im \"Brotthaus\" an der Grand Place, das die Geschichte der Stadt Brüssel zeigt.", "category": "museum", "coords": [4.352781, 50.846976]}, {"name": "Haus der Europäischen Geschichte", "text": "Ein Museum, das die moderne Geschichte Europas und den Prozess der europäischen Integration zeigt.", "category": "museum", "coords": [4.378586, 50.839933]}, {"name": "Nationales Museum des Widerstands", "text": "Ein Museum, das dem belgischen Widerstand während des Zweiten Weltkriegs gewidmet ist.", "category": "museum", "coords": [4.327917, 50.839327]}, {"name": "Kongreßsäule", "text": "Eine Gedenksäule in Brüssel, an deren Fuß sich das Grabmal des unbekannten Soldaten befindet.", "category": "historical", "coords": [4.363453, 50.850112]}, {"name": "Théâtre de la Toison d’Or", "text": "Ein bekanntes Brüsseler Theater, das vor allem für Komödien und zeitgenössische Stücke bekannt ist.", "category": "cultural", "coords": [4.361979, 50.836805]}, {"name": "Jazz Station", "text": "Ein in einem ehemaligen Bahnhof untergebrachtes Zentrum für Jazzmusik mit regelmäßigen Konzerten.", "category": "cultural", "coords": [4.380798, 50.85071]}, {"name": "Théâtre Royal de Toone - Koninklijk Poppentheater Toone", "text": "Ein historisches Marionettentheater im Herzen von Brüssel mit einer langen Tradition.", "category": "cultural", "coords": [4.353719, 50.847715]}, {"name": "La Madeleine", "text": "Ein vielseitiger Veranstaltungsort in Brüssel, der für Konzerte und verschiedene kulturelle Events genutzt wird.", "category": "cultural", "coords": [4.354572, 50.844818]}, {"name": "Centre Culturel Jacques Franck", "text": "Ein Kulturzentrum in Saint-Gilles, das ein breites Programm an Kino, Theater und Ausstellungen bietet.", "category": "cultural", "coords": [4.344566, 50.829345]}, {"name": "Flagey", "text": "Ein renommiertes Kulturzentrum in einem markanten Art-Déco-Gebäude, bekannt für Musik- und Filmveranstaltungen.", "category": "cultural", "coords": [4.372795, 50.826817]}, {"name": "Chapelle protestante - Protestantse Kapel", "text": "Eine protestantische Kapelle in Brüssel, die auch als königliche Kapelle bekannt ist.", "category": "religious", "coords": [4.357421, 50.84311]}, {"name": "Chapelle Sainte-Julienne - Sint-Julianakapel", "text": "Eine kleine Kapelle in Brüssel, die der heiligen Julienne gewidmet ist.", "category": "religious", "coords": [4.370856, 50.847534]}, {"name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk", "text": "Eine römisch-katholische Kirche in Brüssel mit neoklassizistischer Architektur.", "category": "religious", "coords": [4.363049, 50.860475]}, {"name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk", "text": "Eine Kirche in Brüssel, die dem heiligen Johannes Chrysostomos gewidmet ist.", "category": "religious", "coords": [4.381097, 50.834263]}, {"name": "Kennedy Piece", "text": "Ein Denkmal in Brüssel, das aus einem Originalsegment der Berliner Mauer besteht.", "category": "landmark", "coords": [4.38179, 50.843124]}, {"name": "Manneken Pis", "text": "Die berühmte Brunnenfigur eines urinierenden Jungen und ein Wahrzeichen der Stadt Brüssel.", "category": "landmark", "coords": [4.349993, 50.844986]}, {"name": "Musée Camille Lemonnier - Camille Lemonnier Museum", "text": "Ein Museum, das dem Werk und Leben des belgischen Schriftstellers Camille Lemonnier gewidmet ist.", "category": "museum", "coords": [4.368775, 50.836087]}, {"name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur", "text": "Ein Archiv und Museum, das sich der Erhaltung französischsprachiger Literatur in Belgien widmet.", "category": "museum", "coords": [4.355344, 50.843658]}, {"name": "Brussels Comics Figurines Museum", "text": "Ein Museum, das eine große Sammlung von Figuren aus der Welt der Comics präsentiert.", "category": "museum", "coords": [4.356035, 50.846023]}, {"name": "Kanalisationsmuseum", "text": "Ein ungewöhnliches Museum, das Einblicke in das unterirdische Abwassersystem von Brüssel bietet.", "category": "museum", "coords": [4.338832, 50.844618]}, {"name": "GardeRobe MannekenPis", "text": "Ein Museum, das die umfangreiche Garderobe und die Kostüme der berühmten Manneken-Pis-Statue zeigt.", "category": "museum", "coords": [4.351024, 50.844121]}, {"name": "MoMuse", "text": "Das Gemeindemuseum von Molenbeek, das die lokale Geschichte und Entwicklung des Viertels dokumentiert.", "category": "museum", "coords": [4.337984, 50.857814]}, {"name": "KBR museum", "text": "Ein Museum in der Königlichen Bibliothek Belgiens, das wertvolle mittelalterliche Handschriften präsentiert.", "category": "museum", "coords": [4.35639, 50.843526]}, {"name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen", "text": "Ein Denkmal in Brüssel, das den Wohltätern der Armen gewidmet ist.", "category": "historical", "coords": [4.384557, 50.857923]}, {"name": "Théatre du Vaudeville", "text": "Ein historisches Theater in den Galeries Royales Saint-Hubert in Brüssel.", "category": "cultural", "coords": [4.35467, 50.847232]}, {"name": "Le Baixu", "text": "Ein Veranstaltungsort für Konzerte und Kleinkunst auf dem Gelände von Tour & Taxis.", "category": "cultural", "coords": [4.346747, 50.863952]}, {"name": "Théâtre Royal les Cœurs de Bois", "text": "Ein traditionsreiches Brüsseler Puppentheater, das Stücke für Kinder und Erwachsene aufführt.", "category": "cultural", "coords": [4.358922, 50.876854]}, {"name": "UP – Circus & Performing Arts", "text": "Ein Zentrum für Zirkuskunst und zeitgenössische Performance in Brüssel.", "category": "cultural", "coords": [4.321859, 50.855098]}, {"name": "Foundation Frison Horta", "text": "Eine Kulturstiftung in einem von Victor Horta entworfenen Jugendstilhaus.", "category": "cultural", "coords": [4.354021, 50.842546]}, {"name": "Kanal Architecture", "text": "Ein zeitgenössisches Kunstzentrum in Brüssel, das in einer ehemaligen Citroën-Garage untergebracht ist.", "category": "cultural", "coords": [4.349217, 50.85967]}, {"name": "Den Danske Kirke i Bruxelles", "text": "Dänische Kirche, die als religiöser und kultureller Treffpunkt in Brüssel dient.", "category": "religious", "coords": [4.362635, 50.824993]}, {"name": "Tintin et Milou - Kuifje en Bobbie", "text": "Eine berühmte Statue in Brüssel, die die Comicfiguren Tim und Struppi darstellt.", "category": "landmark", "coords": [4.33609, 50.838734]}, {"name": "Vieux Marché - Oude Markt", "text": "Ein traditioneller Flohmarkt auf der Place du Jeu de Balle in Brüssel.", "category": "landmark", "coords": [4.345662, 50.836986]}, {"name": "Marché du Midi - Zuidmarkt", "text": "Ein großer und lebhafter Wochenmarkt in der Nähe des Brüsseler Südbahnhofs.", "category": "landmark", "coords": [4.339501, 50.837366]}, {"name": "Stormbekken anno 1920", "text": "Stormbekken anno 1920 in Brüssel ist ein historisches Wasserbecken, das heute als ruhiges Element im Stadtbild dient.", "category": "natural", "coords": [4.405114, 50.883154]}, {"name": "Gamestate Bruxelles", "text": "Gamestate Bruxelles bietet eine riesige Auswahl an modernen Videospielen und Unterhaltung im Herzen der Stadt.", "category": "family", "coords": [4.351259, 50.850208]}, {"name": "Aire de jeu Pieremans - Speeltuin Pieremans", "text": "Ein Spielplatz in Brüssel, der Kindern Raum zum Spielen und Austoben bietet.", "category": "family", "coords": [4.345631, 50.835063]}, {"name": "Jump XL", "text": "Ein Trampolinpark in Brüssel, der aktiven Hallenspaß für die ganze Familie bietet.", "category": "family", "coords": [4.344735, 50.873796]}, {"name": "Sky Z Park", "text": "Ein Trampolinpark in Brüssel für sportliche Aktivitäten und Familienspaß.", "category": "family", "coords": [4.323205, 50.844331]}, {"name": "Ranch", "text": "Ein Spielplatz in Brüssel, der eine sichere Umgebung für spielende Kinder bietet.", "category": "family", "coords": [4.383188, 50.835032]}, {"name": "Parc de Liedekerke - Liedekerkepark", "text": "Ein Spielplatz in Brüssel, ideal für einen Familienbesuch im Freien.", "category": "family", "coords": [4.374995, 50.850868]}, {"name": "Fond de vallée - Beneden in het dal", "text": "Ein Spielplatz in Brüssel, der Raum für Freizeit und Spiel im Grünen bietet.", "category": "family", "coords": [4.389719, 50.860828]}, {"name": "Mini-Golf Josaphat - Mini-Golf Josafat", "text": "Eine Minigolfanlage in Brüssel für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [4.382382, 50.863757]}, {"name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin", "text": "Ein Spielplatz in Brüssel, der Kindern verschiedene Möglichkeiten zum Spielen bietet.", "category": "family", "coords": [4.364172, 50.855419]}, {"name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark", "text": "Ein Spielplatz in Brüssel, der zum aktiven Spielen und Entdecken einlädt.", "category": "family", "coords": [4.384345, 50.866865]}, {"name": "Chasseurs Ardennais", "text": "Ein Spielplatz in Brüssel für Kinder jeden Alters.", "category": "family", "coords": [4.390289, 50.849238]}, {"name": "Pijlpark", "text": "Ein Spielplatz in Brüssel, der einen Treffpunkt für Familien zum Spielen bietet.", "category": "family", "coords": [4.352557, 50.858569]}, {"name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein", "text": "Ein Spielplatz in Brüssel mit verschiedenen Spielgeräten für Kinder.", "category": "family", "coords": [4.342185, 50.846685]}, {"name": "Aire de jeux n°2 - Speelplein n°2", "text": "Ein Spielplatz in Brüssel, der Raum für Bewegung und Spaß bietet.", "category": "family", "coords": [4.345575, 50.826048]}, {"name": "Quai des Brumes - Nevelkade", "text": "Ein Spielplatz in Brüssel, der zur Erholung und zum Spielen einlädt.", "category": "family", "coords": [4.345735, 50.866941]}], "hu": [{"name": "Musée Bruxellois de la Gueuze - Brussels Museum van de Geuze", "text": "A Cantillon sörfőzdében található múzeum, amely a tradicionális lambic sör készítését mutatja be.", "category": "museum", "coords": [4.335805, 50.841549]}, {"name": "Parlamentarium", "text": "Az Európai Parlament interaktív látogatóközpontja Brüsszelben.", "category": "museum", "coords": [4.374328, 50.840089]}, {"name": "Belgian Chocolate Village", "text": "Brüsszeli múzeum, amely a belga csokoládé történetét és készítését mutatja be.", "category": "museum", "coords": [4.329937, 50.864816]}, {"name": "Archief en Museum voor het Vlaams Leven te Brussel", "text": "Múzeum és archívum, amely a brüsszeli flamand élet történetét dokumentálja.", "category": "museum", "coords": [4.349007, 50.855241]}, {"name": "Musée Belge de la Franc-Maçonnerie - Belgisch Museum van de Vrijmetselarij", "text": "Brüsszeli múzeum, amely a szabadkőművesség történetét és szimbólumait mutatja be.", "category": "museum", "coords": [4.351547, 50.853]}, {"name": "Musée BELvue - BELvue Museum", "text": "Belgium történelmével foglalkozó múzeum az egykori Hotel Bellevue épületében.", "category": "museum", "coords": [4.360689, 50.84261]}, {"name": "Musée Charlier - Charliermuseum", "text": "Művészeti múzeum egy brüsszeli polgárházban, 19. századi gyűjteményekkel.", "category": "museum", "coords": [4.369928, 50.847556]}, {"name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel", "text": "Ez a fővárosi múzeum a szociális gondoskodás történetét dolgozza fel. A Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel a brüsszeli segélyező intézmények fejlődésébe enged bepillantást.", "category": "museum", "coords": [4.347247, 50.835342]}, {"name": "Musée de la Banque nationale de Belgique - Museum van de Nationale Bank van België", "text": "A pénz történetét és a belga bankrendszert bemutató múzeum.", "category": "museum", "coords": [4.357196, 50.849803]}, {"name": "Muséum des sciences naturelles de Belgique - Museum voor Natuurwetenschappen van België", "text": "Természettudományi múzeum, amely különösen a dinoszaurusz-gyűjteményéről híres.", "category": "museum", "coords": [4.376494, 50.836509]}, {"name": "Musée Fin de siècle - Fin de siècle Museum", "text": "A századforduló brüsszeli művészetét bemutató múzeum.", "category": "museum", "coords": [4.357985, 50.841752]}, {"name": "CINEMATEK", "text": "A Belga Királyi Filmarchívum, amely gazdag gyűjteménnyel és napi vetítésekkel várja a látogatókat.", "category": "museum", "coords": [4.360139, 50.844101]}, {"name": "Maison Marc Sleen - Huis Marc Sleen", "text": "Brüsszelben a Maison Marc Sleen - Huis Marc Sleen a neves belga képregényrajzoló élete és munkássága előtt tiszteleg. A múzeum részletes áttekintést nyújt a rajongóknak az alkotó műveiről.", "category": "museum", "coords": [4.36001, 50.850849]}, {"name": "Musée de l'érotisme et de la mythologie - Museum van erotiek en mythologië", "text": "Brüsszeli múzeum, amely az ókori erotikát és mitológiát mutatja be a művészetben.", "category": "museum", "coords": [4.355585, 50.841259]}, {"name": "Coudenberg", "text": "Régészeti lelőhely, amely az egykori brüsszeli palota maradványait mutatja be.", "category": "museum", "coords": [4.359762, 50.842895]}, {"name": "Bruxella 1238", "text": "Régészeti lelőhely a tőzsde épülete alatt, egy középkori kolostor maradványaival.", "category": "museum", "coords": [4.350451, 50.848257]}, {"name": "Musée de la Porte de Hal - Hallepoort Museum", "text": "14. századi erődített városkapu, amely ma várostörténeti múzeumnak ad otthont.", "category": "museum", "coords": [4.344917, 50.833098]}, {"name": "Musée de la ville de Bruxelles - Museum van de Stad Brussel", "text": "A Grand Place-on található múzeum, amely Brüsszel városának történetét mutatja be.", "category": "museum", "coords": [4.352781, 50.846976]}, {"name": "Maison de l'Histoire européenne - Huis van de Europese geschiedenis", "text": "Európa újkori történelmét és az európai integrációt bemutató múzeum.", "category": "museum", "coords": [4.378586, 50.839933]}, {"name": "Musée national de la Résistance - Nationaal Museum van de Weerstand", "text": "A második világháború alatti belga ellenállásnak szentelt múzeum.", "category": "museum", "coords": [4.327917, 50.839327]}, {"name": "Colonne du Congrès - Congreskolom", "text": "Emlékoszlop Brüsszelben, amelynek lábánál az ismeretlen katona sírja található.", "category": "historical", "coords": [4.363453, 50.850112]}, {"name": "Théâtre de la Toison d’Or", "text": "Ismert brüsszeli színház, amely főként komédiáiról és kortárs darabjairól nevezetes.", "category": "cultural", "coords": [4.361979, 50.836805]}, {"name": "Jazz Station", "text": "Egy egykori vasútállomáson kialakított jazzközpont, amely rendszeres koncerteknek ad otthont.", "category": "cultural", "coords": [4.380798, 50.85071]}, {"name": "Théâtre Royal de Toone - Koninklijk Poppentheater Toone", "text": "Történelmi bábfilmszínház Brüsszel szívében, nagy múltú hagyományokkal.", "category": "cultural", "coords": [4.353719, 50.847715]}, {"name": "La Madeleine", "text": "Sokoldalú rendezvényhelyszín Brüsszelben, amely koncerteknek és kulturális eseményeknek ad otthont.", "category": "cultural", "coords": [4.354572, 50.844818]}, {"name": "Centre Culturel Jacques Franck", "text": "Kulturális központ Saint-Gilles-ben, amely mozi-, színházi és kiállítási programokat kínál.", "category": "cultural", "coords": [4.344566, 50.829345]}, {"name": "Flagey", "text": "Neves kulturális központ egy jellegzetes art deco épületben, zenei és filmes eseményeiről ismert.", "category": "cultural", "coords": [4.372795, 50.826817]}, {"name": "Chapelle protestante - Protestantse Kapel", "text": "Brüsszeli protestáns kápolna, amely királyi kápolnaként is ismert.", "category": "religious", "coords": [4.357421, 50.84311]}, {"name": "Chapelle Sainte-Julienne - Sint-Julianakapel", "text": "Szent Juliannának szentelt kis kápolna Brüsszelben.", "category": "religious", "coords": [4.370856, 50.847534]}, {"name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk", "text": "Római katolikus templom Brüsszelben, neoklasszicista stílusban.", "category": "religious", "coords": [4.363049, 50.860475]}, {"name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk", "text": "Brüsszeli templom, amelyet Aranyszájú Szent Jánosnak szenteltek.", "category": "religious", "coords": [4.381097, 50.834263]}, {"name": "Kennedy Piece", "text": "Emlékmű Brüsszelben, amely a berlini fal egyik eredeti darabjából áll.", "category": "landmark", "coords": [4.38179, 50.843124]}, {"name": "Manneken Pis", "text": "Egy vizelő kisfiút ábrázoló híres szobor, Brüsszel egyik legismertebb jelképe.", "category": "landmark", "coords": [4.349993, 50.844986]}, {"name": "Musée Camille Lemonnier - Camille Lemonnier Museum", "text": "Camille Lemonnier belga író munkásságának és életének szentelt múzeum.", "category": "museum", "coords": [4.368775, 50.836087]}, {"name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur", "text": "Archívum és múzeum, amely a belgiumi francia nyelvű irodalom megőrzésével foglalkozik.", "category": "museum", "coords": [4.355344, 50.843658]}, {"name": "Brussels Comics Figurines Museum", "text": "Múzeum, amely képregényfigurák gazdag gyűjteményét mutatja be.", "category": "museum", "coords": [4.356035, 50.846023]}, {"name": "Musée des Égouts - Riolenmuseum", "text": "Szokatlan múzeum, amely betekintést nyújt Brüsszel földalatti csatornahálózatába.", "category": "museum", "coords": [4.338832, 50.844618]}, {"name": "GardeRobe MannekenPis", "text": "Múzeum, amely a híres Manneken Pis szobor gazdag ruhatárát és jelmezeit mutatja be.", "category": "museum", "coords": [4.351024, 50.844121]}, {"name": "MoMuse", "text": "Molenbeek helytörténeti múzeuma, amely a negyed fejlődését dokumentálja.", "category": "museum", "coords": [4.337984, 50.857814]}, {"name": "KBR museum", "text": "A Belga Királyi Könyvtár múzeuma, amely értékes középkori kéziratokat mutat be.", "category": "museum", "coords": [4.35639, 50.843526]}, {"name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen", "text": "Brüsszeli emlékmű, amelyet a szegények jótevőinek tiszteletére emeltek.", "category": "historical", "coords": [4.384557, 50.857923]}, {"name": "Théatre du Vaudeville", "text": "Történelmi színház a brüsszeli Galeries Royales Saint-Hubert bevásárlóárkádban.", "category": "cultural", "coords": [4.35467, 50.847232]}, {"name": "Le Baixu", "text": "Koncerteknek és előadóművészetnek otthont adó helyszín a Tour & Taxis területén.", "category": "cultural", "coords": [4.346747, 50.863952]}, {"name": "Théâtre Royal les Cœurs de Bois", "text": "Hagyományőrző brüsszeli bábszínház, amely gyermekeknek és felnőtteknek is kínál előadásokat.", "category": "cultural", "coords": [4.358922, 50.876854]}, {"name": "UP – Circus & Performing Arts", "text": "Brüsszeli központ, amely a cirkuszművészetre és a kortárs előadásokra összpontosít.", "category": "cultural", "coords": [4.321859, 50.855098]}, {"name": "Foundation Frison Horta", "text": "Kulturális alapítvány egy Victor Horta által tervezett szecessziós épületben.", "category": "cultural", "coords": [4.354021, 50.842546]}, {"name": "Kanal Architecture", "text": "Kortárs művészeti központ Brüsszelben, amely egy egykori Citroën-garázs épületében található.", "category": "cultural", "coords": [4.349217, 50.85967]}, {"name": "Den Danske Kirke i Bruxelles", "text": "Dán templom Brüsszelben, amely a helyi dán közösség hitéleti központja.", "category": "religious", "coords": [4.362635, 50.824993]}, {"name": "Tintin et Milou - Kuifje en Bobbie", "text": "Híres brüsszeli szobor, amely Tintint és kutyáját, Milut ábrázolja.", "category": "landmark", "coords": [4.33609, 50.838734]}, {"name": "Vieux Marché - Oude Markt", "text": "Hagyományos bolhapiac Brüsszelben, a Place du Jeu de Balle téren.", "category": "landmark", "coords": [4.345662, 50.836986]}, {"name": "Marché du Midi - Zuidmarkt", "text": "Hatalmas és élettel teli heti piac a brüsszeli déli pályaudvar közelében.", "category": "landmark", "coords": [4.339501, 50.837366]}, {"name": "Stormbekken anno 1920", "text": "A brüsszeli Stormbekken anno 1920 egy történelmi víztározó, amely ma nyugodt elemként szolgál a városképben.", "category": "natural", "coords": [4.405114, 50.883154]}, {"name": "Gamestate Bruxelles", "text": "A Gamestate Bruxelles videójátékok és szórakozás hatalmas választékát kínálja a város szívében.", "category": "family", "coords": [4.351259, 50.850208]}, {"name": "Aire de jeu Pieremans - Speeltuin Pieremans", "text": "Egy brüsszeli játszótér, amely játéklehetőséget és kikapcsolódást kínál a gyerekeknek.", "category": "family", "coords": [4.345631, 50.835063]}, {"name": "Jump XL", "text": "Egy trambulinpark Brüsszelben, amely aktív beltéri szórakozást kínál a családnak.", "category": "family", "coords": [4.344735, 50.873796]}, {"name": "Sky Z Park", "text": "Egy trambulinpark Brüsszelben a sportos tevékenységekhez és családi szórakozáshoz.", "category": "family", "coords": [4.323205, 50.844331]}, {"name": "Ranch", "text": "Egy játszótér Brüsszelben, amely biztonságos környezetet nyújt a játszó gyerekeknek.", "category": "family", "coords": [4.383188, 50.835032]}, {"name": "Parc de Liedekerke - Liedekerkepark", "text": "Egy brüsszeli játszótér, amely ideális egy szabadtéri családi látogatáshoz.", "category": "family", "coords": [4.374995, 50.850868]}, {"name": "Fond de vallée - Beneden in het dal", "text": "Egy játszótér Brüsszelben, amely helyet biztosít a szabadidőhöz és a játékhoz a zöldben.", "category": "family", "coords": [4.389719, 50.860828]}, {"name": "Mini-Golf Josaphat - Mini-Golf Josafat", "text": "Egy minigolfpálya Brüsszelben egy szórakoztató családi kiránduláshoz.", "category": "family", "coords": [4.382382, 50.863757]}, {"name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin", "text": "Egy játszótér Brüsszelben, amely különféle játéklehetőségeket kínál a gyerekeknek.", "category": "family", "coords": [4.364172, 50.855419]}, {"name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark", "text": "Egy játszótér Brüsszelben, amely aktív játékra és felfedezésre ösztönöz.", "category": "family", "coords": [4.384345, 50.866865]}, {"name": "Chasseurs Ardennais", "text": "Egy játszótér Brüsszelben minden korosztályú gyermek számára.", "category": "family", "coords": [4.390289, 50.849238]}, {"name": "Pijlpark", "text": "Egy játszótér Brüsszelben, amely találkozóhelyet kínál a családoknak a játékhoz.", "category": "family", "coords": [4.352557, 50.858569]}, {"name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein", "text": "Egy brüsszeli játszótér különféle játékokkal a gyermekek számára.", "category": "family", "coords": [4.342185, 50.846685]}, {"name": "Aire de jeux n°2 - Speelplein n°2", "text": "Egy játszótér Brüsszelben, amely helyet biztosít a mozgáshoz és a szórakozáshoz.", "category": "family", "coords": [4.345575, 50.826048]}, {"name": "Quai des Brumes - Nevelkade", "text": "Egy játszótér Brüsszelben, amely kikapcsolódásra és játékra hívogat.", "category": "family", "coords": [4.345735, 50.866941]}], "ro": [{"name": "Musée Bruxellois de la Gueuze - Brussels Museum van de Geuze", "text": "Un muzeu situat în berăria Cantillon, dedicat fabricării tradiționale a berii Lambic.", "category": "museum", "coords": [4.335805, 50.841549]}, {"name": "Parlamentarium", "text": "Centrul de vizitatori al Parlamentului European din Bruxelles, cu expoziții interactive.", "category": "museum", "coords": [4.374328, 50.840089]}, {"name": "Belgian Chocolate Village", "text": "Un muzeu din Bruxelles dedicat istoriei și fabricării ciocolatei belgiene.", "category": "museum", "coords": [4.329937, 50.864816]}, {"name": "Archief en Museum voor het Vlaams Leven te Brussel", "text": "Un muzeu și arhivă care documentează istoria vieții flamande în Bruxelles.", "category": "museum", "coords": [4.349007, 50.855241]}, {"name": "Musée Belge de la Franc-Maçonnerie - Belgisch Museum van de Vrijmetselarij", "text": "Un muzeu din Bruxelles care explorează istoria și simbolurile francmasoneriei.", "category": "museum", "coords": [4.351547, 50.853]}, {"name": "Musée BELvue - BELvue Museum", "text": "Un muzeu al istoriei Belgiei, situat în fostul Hotel Bellevue.", "category": "museum", "coords": [4.360689, 50.84261]}, {"name": "Musée Charlier - Charliermuseum", "text": "Un muzeu de artă într-o reședință privată din Bruxelles, cu colecții din secolul al XIX-lea.", "category": "museum", "coords": [4.369928, 50.847556]}, {"name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel", "text": "Acest muzeu din capitală este dedicat istoriei asistenței sociale. Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel ilustrează evoluția serviciilor de sprijin din Bruxelles.", "category": "museum", "coords": [4.347247, 50.835342]}, {"name": "Musée de la Banque nationale de Belgique - Museum van de Nationale Bank van België", "text": "Un muzeu despre istoria banilor și sistemul bancar din Belgia.", "category": "museum", "coords": [4.357196, 50.849803]}, {"name": "Muséum des sciences naturelles de Belgique - Museum voor Natuurwetenschappen van België", "text": "Un muzeu de științe naturale, celebru pentru colecția sa importantă de dinozauri.", "category": "museum", "coords": [4.376494, 50.836509]}, {"name": "Musée Fin de siècle - Fin de siècle Museum", "text": "Un muzeu dedicat scenei artistice din Bruxelles de la sfârșitul secolului al XIX-lea.", "category": "museum", "coords": [4.357985, 50.841752]}, {"name": "CINEMATEK", "text": "Cinemateca Regală a Belgiei, cu o arhivă vastă și proiecții zilnice.", "category": "museum", "coords": [4.360139, 50.844101]}, {"name": "Maison Marc Sleen - Huis Marc Sleen", "text": "În Bruxelles, Maison Marc Sleen - Huis Marc Sleen onorează viața și opera celebrului desenator de benzi desenate belgian. Muzeul oferă fanilor genului o privire detaliată asupra lucrărilor sale.", "category": "museum", "coords": [4.36001, 50.850849]}, {"name": "Musée de l'érotisme et de la mythologie - Museum van erotiek en mythologië", "text": "Un muzeu din Bruxelles care explorează erotismul antic și mitologia în artă.", "category": "museum", "coords": [4.355585, 50.841259]}, {"name": "Coudenberg", "text": "Un sit arheologic care cuprinde vestigiile fostului palat regal din Bruxelles.", "category": "museum", "coords": [4.359762, 50.842895]}, {"name": "Bruxella 1238", "text": "Un sit arheologic sub clădirea Bursei, care conține ruinele unei mănăstiri medievale.", "category": "museum", "coords": [4.350451, 50.848257]}, {"name": "Musée de la Porte de Hal - Hallepoort Museum", "text": "O poartă fortificată a orașului din secolul al XIV-lea, care servește acum ca muzeu de istorie.", "category": "museum", "coords": [4.344917, 50.833098]}, {"name": "Musée de la ville de Bruxelles - Museum van de Stad Brussel", "text": "Un muzeu situat în Grand Place, dedicat istoriei orașului Bruxelles.", "category": "museum", "coords": [4.352781, 50.846976]}, {"name": "Maison de l'Histoire européenne - Huis van de Europese geschiedenis", "text": "Un muzeu care prezintă istoria modernă a Europei și procesul de integrare europeană.", "category": "museum", "coords": [4.378586, 50.839933]}, {"name": "Musée national de la Résistance - Nationaal Museum van de Weerstand", "text": "Un muzeu dedicat rezistenței belgiene din timpul celui de-al Doilea Război Mondial.", "category": "museum", "coords": [4.327917, 50.839327]}, {"name": "Colonne du Congrès - Congreskolom", "text": "O coloană memorială din Bruxelles, la baza căreia se află mormântul soldatului necunoscut.", "category": "historical", "coords": [4.363453, 50.850112]}, {"name": "Théâtre de la Toison d’Or", "text": "Un cunoscut teatru din Bruxelles, renumit pentru comedii și piese contemporane.", "category": "cultural", "coords": [4.361979, 50.836805]}, {"name": "Jazz Station", "text": "Un centru dedicat muzicii jazz situat într-o fostă gară, care găzduiește concerte regulate.", "category": "cultural", "coords": [4.380798, 50.85071]}, {"name": "Théâtre Royal de Toone - Koninklijk Poppentheater Toone", "text": "Un teatru istoric de marionete din inima Bruxelles-ului, cu o lungă tradiție.", "category": "cultural", "coords": [4.353719, 50.847715]}, {"name": "La Madeleine", "text": "O sală de spectacole versatilă din Bruxelles, utilizată pentru concerte și diverse evenimente culturale.", "category": "cultural", "coords": [4.354572, 50.844818]}, {"name": "Centre Culturel Jacques Franck", "text": "Un centru cultural din Saint-Gilles, care oferă o gamă largă de cinema, teatru și expoziții.", "category": "cultural", "coords": [4.344566, 50.829345]}, {"name": "Flagey", "text": "Un renumit centru cultural situat într-o clădire art deco, cunoscut pentru evenimente muzicale și de film.", "category": "cultural", "coords": [4.372795, 50.826817]}, {"name": "Chapelle protestante - Protestantse Kapel", "text": "O capelă protestantă din Bruxelles, cunoscută și sub numele de Capela Regală.", "category": "religious", "coords": [4.357421, 50.84311]}, {"name": "Chapelle Sainte-Julienne - Sint-Julianakapel", "text": "O mică capelă din Bruxelles dedicată Sfintei Julienne.", "category": "religious", "coords": [4.370856, 50.847534]}, {"name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk", "text": "O biserică romano-catolică din Bruxelles, cu arhitectură neoclasică.", "category": "religious", "coords": [4.363049, 50.860475]}, {"name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk", "text": "O biserică din Bruxelles dedicată Sfântului Ioan Gură de Aur.", "category": "religious", "coords": [4.381097, 50.834263]}, {"name": "Kennedy Piece", "text": "Un monument din Bruxelles care constă într-un segment original din Zidul Berlinului.", "category": "landmark", "coords": [4.38179, 50.843124]}, {"name": "Manneken Pis", "text": "Celebra statuie a unui băiețel care urinează, un simbol emblematic al orașului Bruxelles.", "category": "landmark", "coords": [4.349993, 50.844986]}, {"name": "Musée Camille Lemonnier - Camille Lemonnier Museum", "text": "Un muzeu dedicat operei și vieții scriitorului belgian Camille Lemonnier.", "category": "museum", "coords": [4.368775, 50.836087]}, {"name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur", "text": "O arhivă și un muzeu dedicate conservării literaturii francofone din Belgia.", "category": "museum", "coords": [4.355344, 50.843658]}, {"name": "Brussels Comics Figurines Museum", "text": "Un muzeu care prezintă o colecție bogată de figurine din lumea benzilor desenate.", "category": "museum", "coords": [4.356035, 50.846023]}, {"name": "Musée des Égouts - Riolenmuseum", "text": "Un muzeu neobișnuit care oferă o privire în interiorul sistemului de canalizare din Bruxelles.", "category": "museum", "coords": [4.338832, 50.844618]}, {"name": "GardeRobe MannekenPis", "text": "Un muzeu care expune garderoba vastă și costumele celebrei statui Manneken Pis.", "category": "museum", "coords": [4.351024, 50.844121]}, {"name": "MoMuse", "text": "Muzeul municipal din Molenbeek, care documentează istoria locală și dezvoltarea cartierului.", "category": "museum", "coords": [4.337984, 50.857814]}, {"name": "KBR museum", "text": "Un muzeu din cadrul Bibliotecii Regale a Belgiei, care prezintă manuscrise medievale valoroase.", "category": "museum", "coords": [4.35639, 50.843526]}, {"name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen", "text": "Un monument din Bruxelles dedicat binefăcătorilor celor săraci.", "category": "historical", "coords": [4.384557, 50.857923]}, {"name": "Théatre du Vaudeville", "text": "Un teatru istoric situat în Galeries Royales Saint-Hubert din Bruxelles.", "category": "cultural", "coords": [4.35467, 50.847232]}, {"name": "Le Baixu", "text": "Un spațiu pentru concerte și arte spectacolului situat în zona Tour & Taxis.", "category": "cultural", "coords": [4.346747, 50.863952]}, {"name": "Théâtre Royal les Cœurs de Bois", "text": "Un teatru de păpuși tradițional din Bruxelles, cu spectacole pentru copii și adulți.", "category": "cultural", "coords": [4.358922, 50.876854]}, {"name": "UP – Circus & Performing Arts", "text": "Un centru pentru arta circului și spectacole contemporane din Bruxelles.", "category": "cultural", "coords": [4.321859, 50.855098]}, {"name": "Foundation Frison Horta", "text": "O fundație culturală situată într-o casă art nouveau proiectată de Victor Horta.", "category": "cultural", "coords": [4.354021, 50.842546]}, {"name": "Kanal Architecture", "text": "Un centru de artă contemporană din Bruxelles, situat într-un fost garaj Citroën.", "category": "cultural", "coords": [4.349217, 50.85967]}, {"name": "Den Danske Kirke i Bruxelles", "text": "Biserică daneză din Bruxelles, servind drept centru religios și cultural pentru comunitate.", "category": "religious", "coords": [4.362635, 50.824993]}, {"name": "Tintin et Milou - Kuifje en Bobbie", "text": "O statuie celebră din Bruxelles care îi reprezintă pe eroii de benzi desenate Tintin și Snowy.", "category": "landmark", "coords": [4.33609, 50.838734]}, {"name": "Vieux Marché - Oude Markt", "text": "O piață de vechituri tradițională situată în Place du Jeu de Balle din Bruxelles.", "category": "landmark", "coords": [4.345662, 50.836986]}, {"name": "Marché du Midi - Zuidmarkt", "text": "O piață săptămânală mare și animată, situată lângă Gara de Sud din Bruxelles.", "category": "landmark", "coords": [4.339501, 50.837366]}, {"name": "Stormbekken anno 1920", "text": "Stormbekken anno 1920 din Bruxelles este un bazin istoric, servind astăzi ca un element liniștit în peisajul urban.", "category": "natural", "coords": [4.405114, 50.883154]}, {"name": "Gamestate Bruxelles", "text": "Gamestate Bruxelles oferă o selecție uriașă de jocuri video și divertisment în inima orașului.", "category": "family", "coords": [4.351259, 50.850208]}, {"name": "Aire de jeu Pieremans - Speeltuin Pieremans", "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru joacă și distracție copiilor.", "category": "family", "coords": [4.345631, 50.835063]}, {"name": "Jump XL", "text": "Un parc de trambuline în Bruxelles, care oferă distracție activă în interior pentru familie.", "category": "family", "coords": [4.344735, 50.873796]}, {"name": "Sky Z Park", "text": "Un parc de trambuline în Bruxelles pentru activități sportive și distracție în familie.", "category": "family", "coords": [4.323205, 50.844331]}, {"name": "Ranch", "text": "Un loc de joacă în Bruxelles, care oferă un mediu sigur pentru copiii care se joacă.", "category": "family", "coords": [4.383188, 50.835032]}, {"name": "Parc de Liedekerke - Liedekerkepark", "text": "Un loc de joacă în Bruxelles, ideal pentru o vizită cu familia în aer liber.", "category": "family", "coords": [4.374995, 50.850868]}, {"name": "Fond de vallée - Beneden in het dal", "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru recreere și joacă în natură.", "category": "family", "coords": [4.389719, 50.860828]}, {"name": "Mini-Golf Josaphat - Mini-Golf Josafat", "text": "Un teren de minigolf în Bruxelles pentru o ieșire distractivă în familie.", "category": "family", "coords": [4.382382, 50.863757]}, {"name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin", "text": "Un loc de joacă în Bruxelles, care oferă diverse opțiuni de joacă pentru copii.", "category": "family", "coords": [4.364172, 50.855419]}, {"name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark", "text": "Un loc de joacă în Bruxelles, care invită la joacă activă și explorare.", "category": "family", "coords": [4.384345, 50.866865]}, {"name": "Chasseurs Ardennais", "text": "Un loc de joacă în Bruxelles pentru copii de toate vârstele.", "category": "family", "coords": [4.390289, 50.849238]}, {"name": "Pijlpark", "text": "Un loc de joacă în Bruxelles, care oferă un loc de întâlnire pentru familii la joacă.", "category": "family", "coords": [4.352557, 50.858569]}, {"name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein", "text": "Un loc de joacă în Bruxelles cu diverse echipamente de joacă pentru copii.", "category": "family", "coords": [4.342185, 50.846685]}, {"name": "Aire de jeux n°2 - Speelplein n°2", "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru mișcare și distracție.", "category": "family", "coords": [4.345575, 50.826048]}, {"name": "Quai des Brumes - Nevelkade", "text": "Un loc de joacă în Bruxelles, care invită la relaxare și joacă.", "category": "family", "coords": [4.345735, 50.866941]}], "en": [{"name": "Museum of the Gueuze", "text": "A museum located in the Cantillon Brewery, dedicated to traditional Lambic beer production.", "category": "museum", "coords": [4.335805, 50.841549]}, {"name": "Parlamentarium", "text": "The interactive visitor centre of the European Parliament in Brussels.", "category": "museum", "coords": [4.374328, 50.840089]}, {"name": "Belgian Chocolate Village", "text": "A museum in Brussels dedicated to the history and production of Belgian chocolate.", "category": "museum", "coords": [4.329937, 50.864816]}, {"name": "Archive and Museum for the Flemish Living in Brussels", "text": "A museum and archive documenting the history of Flemish life in Brussels.", "category": "museum", "coords": [4.349007, 50.855241]}, {"name": "Belgian Museum of Freemasonry", "text": "A museum in Brussels exploring the history and symbols of Freemasonry.", "category": "museum", "coords": [4.351547, 50.853]}, {"name": "Musée BELvue - BELvue Museum", "text": "A museum of Belgian history located in the former Hotel Bellevue.", "category": "museum", "coords": [4.360689, 50.84261]}, {"name": "Musée Charlier - Charliermuseum", "text": "An art museum in a Brussels mansion featuring 19th-century collections.", "category": "museum", "coords": [4.369928, 50.847556]}, {"name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel", "text": "Dedicated to the history of social welfare, this museum is located in Brussels. The Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel highlights the evolution of the city's support services.", "category": "museum", "coords": [4.347247, 50.835342]}, {"name": "Museum of the National Bank of Belgium", "text": "A museum about the history of money and banking in Belgium.", "category": "museum", "coords": [4.357196, 50.849803]}, {"name": "Museum for Natural Sciences of Belgium", "text": "A natural sciences museum famous for its significant collection of dinosaur skeletons.", "category": "museum", "coords": [4.376494, 50.836509]}, {"name": "Musée Fin de siècle - Fin de siècle Museum", "text": "A museum dedicated to the Brussels art scene around the turn of the 20th century.", "category": "museum", "coords": [4.357985, 50.841752]}, {"name": "CINEMATEK", "text": "The Royal Belgian Film Archive, featuring a vast collection and daily screenings.", "category": "museum", "coords": [4.360139, 50.844101]}, {"name": "Marc Sleen House", "text": "In Brussels, the Maison Marc Sleen - Huis Marc Sleen honors the life and work of the famous Belgian comic artist. The museum provides comic enthusiasts with a detailed look at his creations.", "category": "museum", "coords": [4.36001, 50.850849]}, {"name": "Museum of Erotics and Mythology", "text": "A museum in Brussels exploring ancient erotica and mythology in art.", "category": "museum", "coords": [4.355585, 50.841259]}, {"name": "Coudenberg", "text": "An archaeological site featuring the remains of the former Palace of Brussels.", "category": "museum", "coords": [4.359762, 50.842895]}, {"name": "Bruxella 1238", "text": "An archaeological site beneath the Stock Exchange building with remains of a medieval convent.", "category": "museum", "coords": [4.350451, 50.848257]}, {"name": "Musée de la Porte de Hal - Hallepoort Museum", "text": "A fortified 14th-century city gate that now serves as a museum of city history.", "category": "museum", "coords": [4.344917, 50.833098]}, {"name": "Brussels City Museum", "text": "A museum located in the Grand Place, dedicated to the history of the city of Brussels.", "category": "museum", "coords": [4.352781, 50.846976]}, {"name": "House of European History", "text": "A museum presenting the modern history of Europe and the process of European integration.", "category": "museum", "coords": [4.378586, 50.839933]}, {"name": "National Museum of the Resistance", "text": "A museum dedicated to the Belgian resistance during the Second World War.", "category": "museum", "coords": [4.327917, 50.839327]}, {"name": "Colonne du Congrès - Congreskolom", "text": "A commemorative column in Brussels featuring the Tomb of the Unknown Soldier at its base.", "category": "historical", "coords": [4.363453, 50.850112]}, {"name": "Théâtre de la Toison d’Or", "text": "A well-known Brussels theatre famous for comedies and contemporary plays.", "category": "cultural", "coords": [4.361979, 50.836805]}, {"name": "Jazz Station", "text": "A jazz centre located in a former railway station, hosting regular concerts and exhibitions.", "category": "cultural", "coords": [4.380798, 50.85071]}, {"name": "Royal Theater Toone", "text": "A historic marionette theatre in the heart of Brussels with a long tradition.", "category": "cultural", "coords": [4.353719, 50.847715]}, {"name": "La Madeleine", "text": "A versatile venue in Brussels used for concerts and various cultural events.", "category": "cultural", "coords": [4.354572, 50.844818]}, {"name": "Centre Culturel Jacques Franck", "text": "An arts centre in Saint-Gilles offering a wide range of cinema, theatre, and exhibitions.", "category": "cultural", "coords": [4.344566, 50.829345]}, {"name": "Flagey", "text": "A renowned cultural centre in an iconic Art Deco building, famous for music and film events.", "category": "cultural", "coords": [4.372795, 50.826817]}, {"name": "Chapelle protestante - Protestantse Kapel", "text": "A Protestant chapel in Brussels, also known as the Royal Chapel.", "category": "religious", "coords": [4.357421, 50.84311]}, {"name": "Chapelle Sainte-Julienne - Sint-Julianakapel", "text": "A small chapel in Brussels dedicated to Saint Julienne.", "category": "religious", "coords": [4.370856, 50.847534]}, {"name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk", "text": "A Roman Catholic church in Brussels featuring neoclassical architecture.", "category": "religious", "coords": [4.363049, 50.860475]}, {"name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk", "text": "A church in Brussels dedicated to Saint John Chrysostom.", "category": "religious", "coords": [4.381097, 50.834263]}, {"name": "Kennedy Piece", "text": "A monument in Brussels consisting of an original segment of the Berlin Wall.", "category": "landmark", "coords": [4.38179, 50.843124]}, {"name": "Manneken Pis", "text": "The famous fountain statue of a urinating boy, an iconic landmark of Brussels.", "category": "landmark", "coords": [4.349993, 50.844986]}, {"name": "Musée Camille Lemonnier - Camille Lemonnier Museum", "text": "A museum dedicated to the work and life of the Belgian writer Camille Lemonnier.", "category": "museum", "coords": [4.368775, 50.836087]}, {"name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur", "text": "An archive and museum dedicated to preserving French-language literature in Belgium.", "category": "museum", "coords": [4.355344, 50.843658]}, {"name": "Brussels Comics Figurines Museum", "text": "A museum presenting a large collection of figurines from the world of comic books.", "category": "museum", "coords": [4.356035, 50.846023]}, {"name": "Sewer Museum", "text": "An unusual museum offering a glimpse into the underground sewage system of Brussels.", "category": "museum", "coords": [4.338832, 50.844618]}, {"name": "GardeRobe MannekenPis", "text": "A museum displaying the extensive wardrobe and costumes of the famous Manneken Pis statue.", "category": "museum", "coords": [4.351024, 50.844121]}, {"name": "MoMuse", "text": "The municipal museum of Molenbeek, documenting the local history and development of the district.", "category": "museum", "coords": [4.337984, 50.857814]}, {"name": "KBR museum", "text": "A museum within the Royal Library of Belgium showcasing valuable medieval manuscripts.", "category": "museum", "coords": [4.35639, 50.843526]}, {"name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen", "text": "A monument in Brussels dedicated to the benefactors of the poor.", "category": "historical", "coords": [4.384557, 50.857923]}, {"name": "Théatre du Vaudeville", "text": "A historic theatre located within the Galeries Royales Saint-Hubert in Brussels.", "category": "cultural", "coords": [4.35467, 50.847232]}, {"name": "Le Baixu", "text": "A venue for concerts and performing arts located at the Tour & Taxis site.", "category": "cultural", "coords": [4.346747, 50.863952]}, {"name": "Théâtre Royal les Cœurs de Bois", "text": "A traditional Brussels puppet theatre performing plays for both children and adults.", "category": "cultural", "coords": [4.358922, 50.876854]}, {"name": "UP – Circus & Performing Arts", "text": "A centre for circus arts and contemporary performance in Brussels.", "category": "cultural", "coords": [4.321859, 50.855098]}, {"name": "Foundation Frison Horta", "text": "A cultural foundation located in an Art Nouveau house designed by Victor Horta.", "category": "cultural", "coords": [4.354021, 50.842546]}, {"name": "Kanal Architecture", "text": "A contemporary arts center in Brussels housed in a former Citroën garage.", "category": "cultural", "coords": [4.349217, 50.85967]}, {"name": "Den Danske Kirke i Bruxelles", "text": "Danish church in Brussels serving as a religious and cultural hub for the community.", "category": "religious", "coords": [4.362635, 50.824993]}, {"name": "Tintin et Milou - Kuifje en Bobbie", "text": "A famous statue in Brussels depicting the comic book characters Tintin and Snowy.", "category": "landmark", "coords": [4.33609, 50.838734]}, {"name": "Vieux Marché - Oude Markt", "text": "A traditional flea market held at the Place du Jeu de Balle in Brussels.", "category": "landmark", "coords": [4.345662, 50.836986]}, {"name": "Marché du Midi - Zuidmarkt", "text": "A large and vibrant weekly market located near the Brussels-South railway station.", "category": "landmark", "coords": [4.339501, 50.837366]}, {"name": "Stormbekken anno 1920", "text": "Stormbekken anno 1920 in Brussels is a historical water basin, serving today as a peaceful urban element.", "category": "natural", "coords": [4.405114, 50.883154]}, {"name": "Gamestate Bruxelles", "text": "Gamestate Bruxelles offers a huge selection of video games and entertainment in the heart of the city.", "category": "family", "coords": [4.351259, 50.850208]}, {"name": "Aire de jeu Pieremans - Speeltuin Pieremans", "text": "A playground in Brussels offering space for children to play and have fun.", "category": "family", "coords": [4.345631, 50.835063]}, {"name": "Jump XL", "text": "A trampoline park in Brussels offering active indoor fun for the family.", "category": "family", "coords": [4.344735, 50.873796]}, {"name": "Sky Z Park", "text": "A trampoline park in Brussels for sporting activities and family fun.", "category": "family", "coords": [4.323205, 50.844331]}, {"name": "Ranch", "text": "A playground in Brussels providing a safe environment for children to play.", "category": "family", "coords": [4.383188, 50.835032]}, {"name": "Parc de Liedekerke - Liedekerkepark", "text": "A playground in Brussels, ideal for a family visit outdoors.", "category": "family", "coords": [4.374995, 50.850868]}, {"name": "Fond de vallée - Beneden in het dal", "text": "A playground in Brussels offering space for leisure and play in a green setting.", "category": "family", "coords": [4.389719, 50.860828]}, {"name": "Mini-Golf Josaphat - Mini-Golf Josafat", "text": "A miniature golf course in Brussels for a fun family outing.", "category": "family", "coords": [4.382382, 50.863757]}, {"name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin", "text": "A playground in Brussels offering various play options for children.", "category": "family", "coords": [4.364172, 50.855419]}, {"name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark", "text": "A playground in Brussels encouraging active play and discovery.", "category": "family", "coords": [4.384345, 50.866865]}, {"name": "Chasseurs Ardennais", "text": "A playground in Brussels for children of all ages.", "category": "family", "coords": [4.390289, 50.849238]}, {"name": "Pijlpark", "text": "A playground in Brussels offering a meeting point for families to play.", "category": "family", "coords": [4.352557, 50.858569]}, {"name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein", "text": "A playground in Brussels with various play equipment for children.", "category": "family", "coords": [4.342185, 50.846685]}, {"name": "Aire de jeux n°2 - Speelplein n°2", "text": "A playground in Brussels offering space for movement and fun.", "category": "family", "coords": [4.345575, 50.826048]}, {"name": "Quai des Brumes - Nevelkade", "text": "A playground in Brussels inviting relaxation and play.", "category": "family", "coords": [4.345735, 50.866941]}]},
+    id: "city-brussels", "sights": {
+      "de": [
+            {
+                  "name": "Musée Bruxellois de la Gueuze - Brussels Museum van de Geuze",
+                  "text": "Ein Museum in der Brauerei Cantillon, das der traditionellen Lambic-Bierherstellung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.335805,
+                        50.841549
+                  ]
+            },
+            {
+                  "name": "Parlamentarium",
+                  "text": "Das Besucherzentrum des Europäischen Parlaments in Brüssel mit interaktiven Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        4.374328,
+                        50.840089
+                  ]
+            },
+            {
+                  "name": "Belgian Chocolate Village",
+                  "text": "Ein Museum in Brüssel, das der Geschichte und Herstellung belgischer Schokolade gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.329937,
+                        50.864816
+                  ]
+            },
+            {
+                  "name": "Archiv und Museum des Flämischen Lebens in Brüssel",
+                  "text": "Ein Museum und Archiv, das die Geschichte des flämischen Lebens in Brüssel dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.349007,
+                        50.855241
+                  ]
+            },
+            {
+                  "name": "Belgischen Museum der Freimaurerei",
+                  "text": "Ein Museum in Brüssel, das die Geschichte und Symbole der Freimaurerei beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        4.351547,
+                        50.853
+                  ]
+            },
+            {
+                  "name": "Musée BELvue - BELvue Museum",
+                  "text": "Ein Museum für belgische Geschichte im ehemaligen Hotel Bellevue.",
+                  "category": "museum",
+                  "coords": [
+                        4.360689,
+                        50.84261
+                  ]
+            },
+            {
+                  "name": "Musée Charlier - Charliermuseum",
+                  "text": "Ein Kunstmuseum in einem Brüsseler Herrenhaus mit Sammlungen aus dem 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        4.369928,
+                        50.847556
+                  ]
+            },
+            {
+                  "name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel",
+                  "text": "Dieses Museum in der Hauptstadt widmet sich der Geschichte der sozialen Fürsorge. Das Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel beleuchtet die Entwicklung der Unterstützungseinrichtungen der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        4.347247,
+                        50.835342
+                  ]
+            },
+            {
+                  "name": "Museum der Belgischen Nationalbank",
+                  "text": "Ein Museum über die Geschichte des Geldes und das Bankwesen in Belgien.",
+                  "category": "museum",
+                  "coords": [
+                        4.357196,
+                        50.849803
+                  ]
+            },
+            {
+                  "name": "Naturwissenschaftliches Museum Belgien",
+                  "text": "Ein Naturkundemuseum, das vor allem für seine bedeutende Dinosaurier-Sammlung bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.376494,
+                        50.836509
+                  ]
+            },
+            {
+                  "name": "Musée Fin de siècle - Fin de siècle Museum",
+                  "text": "Ein Museum, das der Brüsseler Kunstszene um die Jahrhundertwende (1900) gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.357985,
+                        50.841752
+                  ]
+            },
+            {
+                  "name": "CINEMATEK",
+                  "text": "Die königliche belgische Filmothek mit einem umfangreichen Archiv und täglichen Vorführungen.",
+                  "category": "museum",
+                  "coords": [
+                        4.360139,
+                        50.844101
+                  ]
+            },
+            {
+                  "name": "Maison Marc Sleen - Huis Marc Sleen",
+                  "text": "In Brüssel ehrt das Maison Marc Sleen - Huis Marc Sleen das Leben und Schaffen des bekannten belgischen Comiczeichners. Das Museum bietet Comicfans einen detaillierten Blick auf seine Arbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        4.36001,
+                        50.850849
+                  ]
+            },
+            {
+                  "name": "Musée de l'érotisme et de la mythologie - Museum van erotiek en mythologië",
+                  "text": "Ein Museum in Brüssel, das antike Erotik und Mythologie in der Kunst thematisiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.355585,
+                        50.841259
+                  ]
+            },
+            {
+                  "name": "Coudenberg",
+                  "text": "Eine archäologische Stätte mit den Überresten des ehemaligen Palastes von Brüssel.",
+                  "category": "museum",
+                  "coords": [
+                        4.359762,
+                        50.842895
+                  ]
+            },
+            {
+                  "name": "Bruxella 1238",
+                  "text": "Eine Ausgrabungsstätte unter dem Brüsseler Börsengebäude mit Resten eines mittelalterlichen Klosters.",
+                  "category": "museum",
+                  "coords": [
+                        4.350451,
+                        50.848257
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte de Hal - Hallepoort Museum",
+                  "text": "Ein befestigtes Stadttor aus dem 14. Jahrhundert, das heute als Museum für Stadtgeschichte dient.",
+                  "category": "museum",
+                  "coords": [
+                        4.344917,
+                        50.833098
+                  ]
+            },
+            {
+                  "name": "Musée de la ville de Bruxelles - Museum van de Stad Brussel",
+                  "text": "Ein Museum im \"Brotthaus\" an der Grand Place, das die Geschichte der Stadt Brüssel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        4.352781,
+                        50.846976
+                  ]
+            },
+            {
+                  "name": "Haus der Europäischen Geschichte",
+                  "text": "Ein Museum, das die moderne Geschichte Europas und den Prozess der europäischen Integration zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        4.378586,
+                        50.839933
+                  ]
+            },
+            {
+                  "name": "Nationales Museum des Widerstands",
+                  "text": "Ein Museum, das dem belgischen Widerstand während des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.327917,
+                        50.839327
+                  ]
+            },
+            {
+                  "name": "Kongreßsäule",
+                  "text": "Eine Gedenksäule in Brüssel, an deren Fuß sich das Grabmal des unbekannten Soldaten befindet.",
+                  "category": "historical",
+                  "coords": [
+                        4.363453,
+                        50.850112
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Toison d’Or",
+                  "text": "Ein bekanntes Brüsseler Theater, das vor allem für Komödien und zeitgenössische Stücke bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        4.361979,
+                        50.836805
+                  ]
+            },
+            {
+                  "name": "Jazz Station",
+                  "text": "Ein in einem ehemaligen Bahnhof untergebrachtes Zentrum für Jazzmusik mit regelmäßigen Konzerten.",
+                  "category": "cultural",
+                  "coords": [
+                        4.380798,
+                        50.85071
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal de Toone - Koninklijk Poppentheater Toone",
+                  "text": "Ein historisches Marionettentheater im Herzen von Brüssel mit einer langen Tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        4.353719,
+                        50.847715
+                  ]
+            },
+            {
+                  "name": "La Madeleine",
+                  "text": "Ein vielseitiger Veranstaltungsort in Brüssel, der für Konzerte und verschiedene kulturelle Events genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354572,
+                        50.844818
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Jacques Franck",
+                  "text": "Ein Kulturzentrum in Saint-Gilles, das ein breites Programm an Kino, Theater und Ausstellungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        4.344566,
+                        50.829345
+                  ]
+            },
+            {
+                  "name": "Flagey",
+                  "text": "Ein renommiertes Kulturzentrum in einem markanten Art-Déco-Gebäude, bekannt für Musik- und Filmveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.372795,
+                        50.826817
+                  ]
+            },
+            {
+                  "name": "Chapelle protestante - Protestantse Kapel",
+                  "text": "Eine protestantische Kapelle in Brüssel, die auch als königliche Kapelle bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        4.357421,
+                        50.84311
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Julienne - Sint-Julianakapel",
+                  "text": "Eine kleine Kapelle in Brüssel, die der heiligen Julienne gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        4.370856,
+                        50.847534
+                  ]
+            },
+            {
+                  "name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk",
+                  "text": "Eine römisch-katholische Kirche in Brüssel mit neoklassizistischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        4.363049,
+                        50.860475
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk",
+                  "text": "Eine Kirche in Brüssel, die dem heiligen Johannes Chrysostomos gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        4.381097,
+                        50.834263
+                  ]
+            },
+            {
+                  "name": "Kennedy Piece",
+                  "text": "Ein Denkmal in Brüssel, das aus einem Originalsegment der Berliner Mauer besteht.",
+                  "category": "landmark",
+                  "coords": [
+                        4.38179,
+                        50.843124
+                  ]
+            },
+            {
+                  "name": "Manneken Pis",
+                  "text": "Die berühmte Brunnenfigur eines urinierenden Jungen und ein Wahrzeichen der Stadt Brüssel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.349993,
+                        50.844986
+                  ]
+            },
+            {
+                  "name": "Musée Camille Lemonnier - Camille Lemonnier Museum",
+                  "text": "Ein Museum, das dem Werk und Leben des belgischen Schriftstellers Camille Lemonnier gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.368775,
+                        50.836087
+                  ]
+            },
+            {
+                  "name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur",
+                  "text": "Ein Archiv und Museum, das sich der Erhaltung französischsprachiger Literatur in Belgien widmet.",
+                  "category": "museum",
+                  "coords": [
+                        4.355344,
+                        50.843658
+                  ]
+            },
+            {
+                  "name": "Brussels Comics Figurines Museum",
+                  "text": "Ein Museum, das eine große Sammlung von Figuren aus der Welt der Comics präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.356035,
+                        50.846023
+                  ]
+            },
+            {
+                  "name": "Kanalisationsmuseum",
+                  "text": "Ein ungewöhnliches Museum, das Einblicke in das unterirdische Abwassersystem von Brüssel bietet.",
+                  "category": "museum",
+                  "coords": [
+                        4.338832,
+                        50.844618
+                  ]
+            },
+            {
+                  "name": "GardeRobe MannekenPis",
+                  "text": "Ein Museum, das die umfangreiche Garderobe und die Kostüme der berühmten Manneken-Pis-Statue zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        4.351024,
+                        50.844121
+                  ]
+            },
+            {
+                  "name": "MoMuse",
+                  "text": "Das Gemeindemuseum von Molenbeek, das die lokale Geschichte und Entwicklung des Viertels dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.337984,
+                        50.857814
+                  ]
+            },
+            {
+                  "name": "KBR museum",
+                  "text": "Ein Museum in der Königlichen Bibliothek Belgiens, das wertvolle mittelalterliche Handschriften präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.35639,
+                        50.843526
+                  ]
+            },
+            {
+                  "name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen",
+                  "text": "Ein Denkmal in Brüssel, das den Wohltätern der Armen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        4.384557,
+                        50.857923
+                  ]
+            },
+            {
+                  "name": "Théatre du Vaudeville",
+                  "text": "Ein historisches Theater in den Galeries Royales Saint-Hubert in Brüssel.",
+                  "category": "cultural",
+                  "coords": [
+                        4.35467,
+                        50.847232
+                  ]
+            },
+            {
+                  "name": "Le Baixu",
+                  "text": "Ein Veranstaltungsort für Konzerte und Kleinkunst auf dem Gelände von Tour & Taxis.",
+                  "category": "cultural",
+                  "coords": [
+                        4.346747,
+                        50.863952
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal les Cœurs de Bois",
+                  "text": "Ein traditionsreiches Brüsseler Puppentheater, das Stücke für Kinder und Erwachsene aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        4.358922,
+                        50.876854
+                  ]
+            },
+            {
+                  "name": "UP – Circus & Performing Arts",
+                  "text": "Ein Zentrum für Zirkuskunst und zeitgenössische Performance in Brüssel.",
+                  "category": "cultural",
+                  "coords": [
+                        4.321859,
+                        50.855098
+                  ]
+            },
+            {
+                  "name": "Foundation Frison Horta",
+                  "text": "Eine Kulturstiftung in einem von Victor Horta entworfenen Jugendstilhaus.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354021,
+                        50.842546
+                  ]
+            },
+            {
+                  "name": "Kanal Architecture",
+                  "text": "Ein zeitgenössisches Kunstzentrum in Brüssel, das in einer ehemaligen Citroën-Garage untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        4.349217,
+                        50.85967
+                  ]
+            },
+            {
+                  "name": "Den Danske Kirke i Bruxelles",
+                  "text": "Dänische Kirche, die als religiöser und kultureller Treffpunkt in Brüssel dient.",
+                  "category": "religious",
+                  "coords": [
+                        4.362635,
+                        50.824993
+                  ]
+            },
+            {
+                  "name": "Tintin et Milou - Kuifje en Bobbie",
+                  "text": "Eine berühmte Statue in Brüssel, die die Comicfiguren Tim und Struppi darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.33609,
+                        50.838734
+                  ]
+            },
+            {
+                  "name": "Vieux Marché - Oude Markt",
+                  "text": "Ein traditioneller Flohmarkt auf der Place du Jeu de Balle in Brüssel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.345662,
+                        50.836986
+                  ]
+            },
+            {
+                  "name": "Marché du Midi - Zuidmarkt",
+                  "text": "Ein großer und lebhafter Wochenmarkt in der Nähe des Brüsseler Südbahnhofs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.339501,
+                        50.837366
+                  ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Stormbekken anno 1920 in Brüssel ist ein historisches Wasserbecken, das heute als ruhiges Element im Stadtbild dient.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "Gamestate Bruxelles bietet eine riesige Auswahl an modernen Videospielen und Unterhaltung im Herzen der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "Ein Spielplatz in Brüssel, der Kindern Raum zum Spielen und Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "Ein Trampolinpark in Brüssel, der aktiven Hallenspaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "Ein Trampolinpark in Brüssel für sportliche Aktivitäten und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "Ein Spielplatz in Brüssel, der eine sichere Umgebung für spielende Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "Ein Spielplatz in Brüssel, ideal für einen Familienbesuch im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "Ein Spielplatz in Brüssel, der Raum für Freizeit und Spiel im Grünen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "Eine Minigolfanlage in Brüssel für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "Ein Spielplatz in Brüssel, der Kindern verschiedene Möglichkeiten zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "Ein Spielplatz in Brüssel, der zum aktiven Spielen und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "Ein Spielplatz in Brüssel für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "Ein Spielplatz in Brüssel, der einen Treffpunkt für Familien zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "Ein Spielplatz in Brüssel mit verschiedenen Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "Ein Spielplatz in Brüssel, der Raum für Bewegung und Spaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "Ein Spielplatz in Brüssel, der zur Erholung und zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
+                  ]
+            },
+            {
+                  "name": "Bath & Barley",
+                  "text": "Ein einzigartiges Spa in Brüssel, das Entspannung in Kombination mit der belgischen Bierkultur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354843,
+                        50.848917
+                  ]
+            },
+            {
+                  "name": "Thermes de l’Espadon",
+                  "text": "Ein öffentliches Bad in Brüssel mit Schwimmbecken und Wellness-Einrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.393201,
+                        50.830177
+                  ]
+            },
+            {
+                  "name": "Good Beer Spa",
+                  "text": "Ein Wellness-Zentrum in Brüssel, das auf Bier-Spas und entspannende Anwendungen spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        4.371407,
+                        50.85023
+                  ]
+            },
+            {
+                  "name": "Le Riad",
+                  "text": "Ein orientalisches Bad in Brüssel, das traditionelle Hammam-Erlebnisse in entspannter Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        4.368322,
+                        50.86584
+                  ]
+            },
+            {
+                  "name": "Calm Spa",
+                  "text": "Ein Wellness-Bad in Brüssel, das auf Entspannung und ganzheitliches Wohlbefinden ausgerichtet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        4.33204,
+                        50.869712
+                  ]
+            },
+            {
+                  "name": "Le Jasmin Wellness",
+                  "text": "Ein Spa in Brüssel, das verschiedene Schönheits- und Wellnessbehandlungen in ruhiger Umgebung anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        4.348621,
+                        50.873217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Bruxellois de la Gueuze - Brussels Museum van de Geuze",
+                  "text": "A Cantillon sörfőzdében található múzeum, amely a tradicionális lambic sör készítését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.335805,
+                        50.841549
+                  ]
+            },
+            {
+                  "name": "Parlamentarium",
+                  "text": "Az Európai Parlament interaktív látogatóközpontja Brüsszelben.",
+                  "category": "museum",
+                  "coords": [
+                        4.374328,
+                        50.840089
+                  ]
+            },
+            {
+                  "name": "Belgian Chocolate Village",
+                  "text": "Brüsszeli múzeum, amely a belga csokoládé történetét és készítését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.329937,
+                        50.864816
+                  ]
+            },
+            {
+                  "name": "Archief en Museum voor het Vlaams Leven te Brussel",
+                  "text": "Múzeum és archívum, amely a brüsszeli flamand élet történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        4.349007,
+                        50.855241
+                  ]
+            },
+            {
+                  "name": "Musée Belge de la Franc-Maçonnerie - Belgisch Museum van de Vrijmetselarij",
+                  "text": "Brüsszeli múzeum, amely a szabadkőművesség történetét és szimbólumait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.351547,
+                        50.853
+                  ]
+            },
+            {
+                  "name": "Musée BELvue - BELvue Museum",
+                  "text": "Belgium történelmével foglalkozó múzeum az egykori Hotel Bellevue épületében.",
+                  "category": "museum",
+                  "coords": [
+                        4.360689,
+                        50.84261
+                  ]
+            },
+            {
+                  "name": "Musée Charlier - Charliermuseum",
+                  "text": "Művészeti múzeum egy brüsszeli polgárházban, 19. századi gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        4.369928,
+                        50.847556
+                  ]
+            },
+            {
+                  "name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel",
+                  "text": "Ez a fővárosi múzeum a szociális gondoskodás történetét dolgozza fel. A Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel a brüsszeli segélyező intézmények fejlődésébe enged bepillantást.",
+                  "category": "museum",
+                  "coords": [
+                        4.347247,
+                        50.835342
+                  ]
+            },
+            {
+                  "name": "Musée de la Banque nationale de Belgique - Museum van de Nationale Bank van België",
+                  "text": "A pénz történetét és a belga bankrendszert bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.357196,
+                        50.849803
+                  ]
+            },
+            {
+                  "name": "Muséum des sciences naturelles de Belgique - Museum voor Natuurwetenschappen van België",
+                  "text": "Természettudományi múzeum, amely különösen a dinoszaurusz-gyűjteményéről híres.",
+                  "category": "museum",
+                  "coords": [
+                        4.376494,
+                        50.836509
+                  ]
+            },
+            {
+                  "name": "Musée Fin de siècle - Fin de siècle Museum",
+                  "text": "A századforduló brüsszeli művészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.357985,
+                        50.841752
+                  ]
+            },
+            {
+                  "name": "CINEMATEK",
+                  "text": "A Belga Királyi Filmarchívum, amely gazdag gyűjteménnyel és napi vetítésekkel várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        4.360139,
+                        50.844101
+                  ]
+            },
+            {
+                  "name": "Maison Marc Sleen - Huis Marc Sleen",
+                  "text": "Brüsszelben a Maison Marc Sleen - Huis Marc Sleen a neves belga képregényrajzoló élete és munkássága előtt tiszteleg. A múzeum részletes áttekintést nyújt a rajongóknak az alkotó műveiről.",
+                  "category": "museum",
+                  "coords": [
+                        4.36001,
+                        50.850849
+                  ]
+            },
+            {
+                  "name": "Musée de l'érotisme et de la mythologie - Museum van erotiek en mythologië",
+                  "text": "Brüsszeli múzeum, amely az ókori erotikát és mitológiát mutatja be a művészetben.",
+                  "category": "museum",
+                  "coords": [
+                        4.355585,
+                        50.841259
+                  ]
+            },
+            {
+                  "name": "Coudenberg",
+                  "text": "Régészeti lelőhely, amely az egykori brüsszeli palota maradványait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.359762,
+                        50.842895
+                  ]
+            },
+            {
+                  "name": "Bruxella 1238",
+                  "text": "Régészeti lelőhely a tőzsde épülete alatt, egy középkori kolostor maradványaival.",
+                  "category": "museum",
+                  "coords": [
+                        4.350451,
+                        50.848257
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte de Hal - Hallepoort Museum",
+                  "text": "14. századi erődített városkapu, amely ma várostörténeti múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        4.344917,
+                        50.833098
+                  ]
+            },
+            {
+                  "name": "Musée de la ville de Bruxelles - Museum van de Stad Brussel",
+                  "text": "A Grand Place-on található múzeum, amely Brüsszel városának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.352781,
+                        50.846976
+                  ]
+            },
+            {
+                  "name": "Maison de l'Histoire européenne - Huis van de Europese geschiedenis",
+                  "text": "Európa újkori történelmét és az európai integrációt bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.378586,
+                        50.839933
+                  ]
+            },
+            {
+                  "name": "Musée national de la Résistance - Nationaal Museum van de Weerstand",
+                  "text": "A második világháború alatti belga ellenállásnak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.327917,
+                        50.839327
+                  ]
+            },
+            {
+                  "name": "Colonne du Congrès - Congreskolom",
+                  "text": "Emlékoszlop Brüsszelben, amelynek lábánál az ismeretlen katona sírja található.",
+                  "category": "historical",
+                  "coords": [
+                        4.363453,
+                        50.850112
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Toison d’Or",
+                  "text": "Ismert brüsszeli színház, amely főként komédiáiról és kortárs darabjairól nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        4.361979,
+                        50.836805
+                  ]
+            },
+            {
+                  "name": "Jazz Station",
+                  "text": "Egy egykori vasútállomáson kialakított jazzközpont, amely rendszeres koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.380798,
+                        50.85071
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal de Toone - Koninklijk Poppentheater Toone",
+                  "text": "Történelmi bábfilmszínház Brüsszel szívében, nagy múltú hagyományokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        4.353719,
+                        50.847715
+                  ]
+            },
+            {
+                  "name": "La Madeleine",
+                  "text": "Sokoldalú rendezvényhelyszín Brüsszelben, amely koncerteknek és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354572,
+                        50.844818
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Jacques Franck",
+                  "text": "Kulturális központ Saint-Gilles-ben, amely mozi-, színházi és kiállítási programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        4.344566,
+                        50.829345
+                  ]
+            },
+            {
+                  "name": "Flagey",
+                  "text": "Neves kulturális központ egy jellegzetes art deco épületben, zenei és filmes eseményeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        4.372795,
+                        50.826817
+                  ]
+            },
+            {
+                  "name": "Chapelle protestante - Protestantse Kapel",
+                  "text": "Brüsszeli protestáns kápolna, amely királyi kápolnaként is ismert.",
+                  "category": "religious",
+                  "coords": [
+                        4.357421,
+                        50.84311
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Julienne - Sint-Julianakapel",
+                  "text": "Szent Juliannának szentelt kis kápolna Brüsszelben.",
+                  "category": "religious",
+                  "coords": [
+                        4.370856,
+                        50.847534
+                  ]
+            },
+            {
+                  "name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk",
+                  "text": "Római katolikus templom Brüsszelben, neoklasszicista stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        4.363049,
+                        50.860475
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk",
+                  "text": "Brüsszeli templom, amelyet Aranyszájú Szent Jánosnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        4.381097,
+                        50.834263
+                  ]
+            },
+            {
+                  "name": "Kennedy Piece",
+                  "text": "Emlékmű Brüsszelben, amely a berlini fal egyik eredeti darabjából áll.",
+                  "category": "landmark",
+                  "coords": [
+                        4.38179,
+                        50.843124
+                  ]
+            },
+            {
+                  "name": "Manneken Pis",
+                  "text": "Egy vizelő kisfiút ábrázoló híres szobor, Brüsszel egyik legismertebb jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        4.349993,
+                        50.844986
+                  ]
+            },
+            {
+                  "name": "Musée Camille Lemonnier - Camille Lemonnier Museum",
+                  "text": "Camille Lemonnier belga író munkásságának és életének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.368775,
+                        50.836087
+                  ]
+            },
+            {
+                  "name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur",
+                  "text": "Archívum és múzeum, amely a belgiumi francia nyelvű irodalom megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        4.355344,
+                        50.843658
+                  ]
+            },
+            {
+                  "name": "Brussels Comics Figurines Museum",
+                  "text": "Múzeum, amely képregényfigurák gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.356035,
+                        50.846023
+                  ]
+            },
+            {
+                  "name": "Musée des Égouts - Riolenmuseum",
+                  "text": "Szokatlan múzeum, amely betekintést nyújt Brüsszel földalatti csatornahálózatába.",
+                  "category": "museum",
+                  "coords": [
+                        4.338832,
+                        50.844618
+                  ]
+            },
+            {
+                  "name": "GardeRobe MannekenPis",
+                  "text": "Múzeum, amely a híres Manneken Pis szobor gazdag ruhatárát és jelmezeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.351024,
+                        50.844121
+                  ]
+            },
+            {
+                  "name": "MoMuse",
+                  "text": "Molenbeek helytörténeti múzeuma, amely a negyed fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        4.337984,
+                        50.857814
+                  ]
+            },
+            {
+                  "name": "KBR museum",
+                  "text": "A Belga Királyi Könyvtár múzeuma, amely értékes középkori kéziratokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        4.35639,
+                        50.843526
+                  ]
+            },
+            {
+                  "name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen",
+                  "text": "Brüsszeli emlékmű, amelyet a szegények jótevőinek tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        4.384557,
+                        50.857923
+                  ]
+            },
+            {
+                  "name": "Théatre du Vaudeville",
+                  "text": "Történelmi színház a brüsszeli Galeries Royales Saint-Hubert bevásárlóárkádban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.35467,
+                        50.847232
+                  ]
+            },
+            {
+                  "name": "Le Baixu",
+                  "text": "Koncerteknek és előadóművészetnek otthont adó helyszín a Tour & Taxis területén.",
+                  "category": "cultural",
+                  "coords": [
+                        4.346747,
+                        50.863952
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal les Cœurs de Bois",
+                  "text": "Hagyományőrző brüsszeli bábszínház, amely gyermekeknek és felnőtteknek is kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        4.358922,
+                        50.876854
+                  ]
+            },
+            {
+                  "name": "UP – Circus & Performing Arts",
+                  "text": "Brüsszeli központ, amely a cirkuszművészetre és a kortárs előadásokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        4.321859,
+                        50.855098
+                  ]
+            },
+            {
+                  "name": "Foundation Frison Horta",
+                  "text": "Kulturális alapítvány egy Victor Horta által tervezett szecessziós épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354021,
+                        50.842546
+                  ]
+            },
+            {
+                  "name": "Kanal Architecture",
+                  "text": "Kortárs művészeti központ Brüsszelben, amely egy egykori Citroën-garázs épületében található.",
+                  "category": "cultural",
+                  "coords": [
+                        4.349217,
+                        50.85967
+                  ]
+            },
+            {
+                  "name": "Den Danske Kirke i Bruxelles",
+                  "text": "Dán templom Brüsszelben, amely a helyi dán közösség hitéleti központja.",
+                  "category": "religious",
+                  "coords": [
+                        4.362635,
+                        50.824993
+                  ]
+            },
+            {
+                  "name": "Tintin et Milou - Kuifje en Bobbie",
+                  "text": "Híres brüsszeli szobor, amely Tintint és kutyáját, Milut ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        4.33609,
+                        50.838734
+                  ]
+            },
+            {
+                  "name": "Vieux Marché - Oude Markt",
+                  "text": "Hagyományos bolhapiac Brüsszelben, a Place du Jeu de Balle téren.",
+                  "category": "landmark",
+                  "coords": [
+                        4.345662,
+                        50.836986
+                  ]
+            },
+            {
+                  "name": "Marché du Midi - Zuidmarkt",
+                  "text": "Hatalmas és élettel teli heti piac a brüsszeli déli pályaudvar közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        4.339501,
+                        50.837366
+                  ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "A brüsszeli Stormbekken anno 1920 egy történelmi víztározó, amely ma nyugodt elemként szolgál a városképben.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "A Gamestate Bruxelles videójátékok és szórakozás hatalmas választékát kínálja a város szívében.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "Egy brüsszeli játszótér, amely játéklehetőséget és kikapcsolódást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "Egy trambulinpark Brüsszelben, amely aktív beltéri szórakozást kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "Egy trambulinpark Brüsszelben a sportos tevékenységekhez és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "Egy játszótér Brüsszelben, amely biztonságos környezetet nyújt a játszó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "Egy brüsszeli játszótér, amely ideális egy szabadtéri családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "Egy játszótér Brüsszelben, amely helyet biztosít a szabadidőhöz és a játékhoz a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "Egy minigolfpálya Brüsszelben egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "Egy játszótér Brüsszelben, amely különféle játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "Egy játszótér Brüsszelben, amely aktív játékra és felfedezésre ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "Egy játszótér Brüsszelben minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "Egy játszótér Brüsszelben, amely találkozóhelyet kínál a családoknak a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "Egy brüsszeli játszótér különféle játékokkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "Egy játszótér Brüsszelben, amely helyet biztosít a mozgáshoz és a szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "Egy játszótér Brüsszelben, amely kikapcsolódásra és játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
+                  ]
+            },
+            {
+                  "name": "Bath & Barley",
+                  "text": "Egyedülálló gyógyfürdő Brüsszelben, amely a belga sörkultúrával ötvözi a relaxációt.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354843,
+                        50.848917
+                  ]
+            },
+            {
+                  "name": "Thermes de l’Espadon",
+                  "text": "Közfürdő Brüsszelben úszómedencékkel és wellness szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        4.393201,
+                        50.830177
+                  ]
+            },
+            {
+                  "name": "Good Beer Spa",
+                  "text": "Sörfürdőkre és pihentető kezelésekre szakosodott wellness-központ Brüsszelben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.371407,
+                        50.85023
+                  ]
+            },
+            {
+                  "name": "Le Riad",
+                  "text": "Keleti hangulatú fürdő Brüsszelben, amely hagyományos hammam élményt kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        4.368322,
+                        50.86584
+                  ]
+            },
+            {
+                  "name": "Calm Spa",
+                  "text": "Wellness fürdő Brüsszelben, amely a kikapcsolódásra és a jólétre összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        4.33204,
+                        50.869712
+                  ]
+            },
+            {
+                  "name": "Le Jasmin Wellness",
+                  "text": "Gyógyfürdő Brüsszelben, amely különféle szépség- és wellnesskezeléseket kínál nyugodt környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.348621,
+                        50.873217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Bruxellois de la Gueuze - Brussels Museum van de Geuze",
+                  "text": "Un muzeu situat în berăria Cantillon, dedicat fabricării tradiționale a berii Lambic.",
+                  "category": "museum",
+                  "coords": [
+                        4.335805,
+                        50.841549
+                  ]
+            },
+            {
+                  "name": "Parlamentarium",
+                  "text": "Centrul de vizitatori al Parlamentului European din Bruxelles, cu expoziții interactive.",
+                  "category": "museum",
+                  "coords": [
+                        4.374328,
+                        50.840089
+                  ]
+            },
+            {
+                  "name": "Belgian Chocolate Village",
+                  "text": "Un muzeu din Bruxelles dedicat istoriei și fabricării ciocolatei belgiene.",
+                  "category": "museum",
+                  "coords": [
+                        4.329937,
+                        50.864816
+                  ]
+            },
+            {
+                  "name": "Archief en Museum voor het Vlaams Leven te Brussel",
+                  "text": "Un muzeu și arhivă care documentează istoria vieții flamande în Bruxelles.",
+                  "category": "museum",
+                  "coords": [
+                        4.349007,
+                        50.855241
+                  ]
+            },
+            {
+                  "name": "Musée Belge de la Franc-Maçonnerie - Belgisch Museum van de Vrijmetselarij",
+                  "text": "Un muzeu din Bruxelles care explorează istoria și simbolurile francmasoneriei.",
+                  "category": "museum",
+                  "coords": [
+                        4.351547,
+                        50.853
+                  ]
+            },
+            {
+                  "name": "Musée BELvue - BELvue Museum",
+                  "text": "Un muzeu al istoriei Belgiei, situat în fostul Hotel Bellevue.",
+                  "category": "museum",
+                  "coords": [
+                        4.360689,
+                        50.84261
+                  ]
+            },
+            {
+                  "name": "Musée Charlier - Charliermuseum",
+                  "text": "Un muzeu de artă într-o reședință privată din Bruxelles, cu colecții din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        4.369928,
+                        50.847556
+                  ]
+            },
+            {
+                  "name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel",
+                  "text": "Acest muzeu din capitală este dedicat istoriei asistenței sociale. Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel ilustrează evoluția serviciilor de sprijin din Bruxelles.",
+                  "category": "museum",
+                  "coords": [
+                        4.347247,
+                        50.835342
+                  ]
+            },
+            {
+                  "name": "Musée de la Banque nationale de Belgique - Museum van de Nationale Bank van België",
+                  "text": "Un muzeu despre istoria banilor și sistemul bancar din Belgia.",
+                  "category": "museum",
+                  "coords": [
+                        4.357196,
+                        50.849803
+                  ]
+            },
+            {
+                  "name": "Muséum des sciences naturelles de Belgique - Museum voor Natuurwetenschappen van België",
+                  "text": "Un muzeu de științe naturale, celebru pentru colecția sa importantă de dinozauri.",
+                  "category": "museum",
+                  "coords": [
+                        4.376494,
+                        50.836509
+                  ]
+            },
+            {
+                  "name": "Musée Fin de siècle - Fin de siècle Museum",
+                  "text": "Un muzeu dedicat scenei artistice din Bruxelles de la sfârșitul secolului al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        4.357985,
+                        50.841752
+                  ]
+            },
+            {
+                  "name": "CINEMATEK",
+                  "text": "Cinemateca Regală a Belgiei, cu o arhivă vastă și proiecții zilnice.",
+                  "category": "museum",
+                  "coords": [
+                        4.360139,
+                        50.844101
+                  ]
+            },
+            {
+                  "name": "Maison Marc Sleen - Huis Marc Sleen",
+                  "text": "În Bruxelles, Maison Marc Sleen - Huis Marc Sleen onorează viața și opera celebrului desenator de benzi desenate belgian. Muzeul oferă fanilor genului o privire detaliată asupra lucrărilor sale.",
+                  "category": "museum",
+                  "coords": [
+                        4.36001,
+                        50.850849
+                  ]
+            },
+            {
+                  "name": "Musée de l'érotisme et de la mythologie - Museum van erotiek en mythologië",
+                  "text": "Un muzeu din Bruxelles care explorează erotismul antic și mitologia în artă.",
+                  "category": "museum",
+                  "coords": [
+                        4.355585,
+                        50.841259
+                  ]
+            },
+            {
+                  "name": "Coudenberg",
+                  "text": "Un sit arheologic care cuprinde vestigiile fostului palat regal din Bruxelles.",
+                  "category": "museum",
+                  "coords": [
+                        4.359762,
+                        50.842895
+                  ]
+            },
+            {
+                  "name": "Bruxella 1238",
+                  "text": "Un sit arheologic sub clădirea Bursei, care conține ruinele unei mănăstiri medievale.",
+                  "category": "museum",
+                  "coords": [
+                        4.350451,
+                        50.848257
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte de Hal - Hallepoort Museum",
+                  "text": "O poartă fortificată a orașului din secolul al XIV-lea, care servește acum ca muzeu de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        4.344917,
+                        50.833098
+                  ]
+            },
+            {
+                  "name": "Musée de la ville de Bruxelles - Museum van de Stad Brussel",
+                  "text": "Un muzeu situat în Grand Place, dedicat istoriei orașului Bruxelles.",
+                  "category": "museum",
+                  "coords": [
+                        4.352781,
+                        50.846976
+                  ]
+            },
+            {
+                  "name": "Maison de l'Histoire européenne - Huis van de Europese geschiedenis",
+                  "text": "Un muzeu care prezintă istoria modernă a Europei și procesul de integrare europeană.",
+                  "category": "museum",
+                  "coords": [
+                        4.378586,
+                        50.839933
+                  ]
+            },
+            {
+                  "name": "Musée national de la Résistance - Nationaal Museum van de Weerstand",
+                  "text": "Un muzeu dedicat rezistenței belgiene din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        4.327917,
+                        50.839327
+                  ]
+            },
+            {
+                  "name": "Colonne du Congrès - Congreskolom",
+                  "text": "O coloană memorială din Bruxelles, la baza căreia se află mormântul soldatului necunoscut.",
+                  "category": "historical",
+                  "coords": [
+                        4.363453,
+                        50.850112
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Toison d’Or",
+                  "text": "Un cunoscut teatru din Bruxelles, renumit pentru comedii și piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        4.361979,
+                        50.836805
+                  ]
+            },
+            {
+                  "name": "Jazz Station",
+                  "text": "Un centru dedicat muzicii jazz situat într-o fostă gară, care găzduiește concerte regulate.",
+                  "category": "cultural",
+                  "coords": [
+                        4.380798,
+                        50.85071
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal de Toone - Koninklijk Poppentheater Toone",
+                  "text": "Un teatru istoric de marionete din inima Bruxelles-ului, cu o lungă tradiție.",
+                  "category": "cultural",
+                  "coords": [
+                        4.353719,
+                        50.847715
+                  ]
+            },
+            {
+                  "name": "La Madeleine",
+                  "text": "O sală de spectacole versatilă din Bruxelles, utilizată pentru concerte și diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354572,
+                        50.844818
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Jacques Franck",
+                  "text": "Un centru cultural din Saint-Gilles, care oferă o gamă largă de cinema, teatru și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        4.344566,
+                        50.829345
+                  ]
+            },
+            {
+                  "name": "Flagey",
+                  "text": "Un renumit centru cultural situat într-o clădire art deco, cunoscut pentru evenimente muzicale și de film.",
+                  "category": "cultural",
+                  "coords": [
+                        4.372795,
+                        50.826817
+                  ]
+            },
+            {
+                  "name": "Chapelle protestante - Protestantse Kapel",
+                  "text": "O capelă protestantă din Bruxelles, cunoscută și sub numele de Capela Regală.",
+                  "category": "religious",
+                  "coords": [
+                        4.357421,
+                        50.84311
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Julienne - Sint-Julianakapel",
+                  "text": "O mică capelă din Bruxelles dedicată Sfintei Julienne.",
+                  "category": "religious",
+                  "coords": [
+                        4.370856,
+                        50.847534
+                  ]
+            },
+            {
+                  "name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk",
+                  "text": "O biserică romano-catolică din Bruxelles, cu arhitectură neoclasică.",
+                  "category": "religious",
+                  "coords": [
+                        4.363049,
+                        50.860475
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk",
+                  "text": "O biserică din Bruxelles dedicată Sfântului Ioan Gură de Aur.",
+                  "category": "religious",
+                  "coords": [
+                        4.381097,
+                        50.834263
+                  ]
+            },
+            {
+                  "name": "Kennedy Piece",
+                  "text": "Un monument din Bruxelles care constă într-un segment original din Zidul Berlinului.",
+                  "category": "landmark",
+                  "coords": [
+                        4.38179,
+                        50.843124
+                  ]
+            },
+            {
+                  "name": "Manneken Pis",
+                  "text": "Celebra statuie a unui băiețel care urinează, un simbol emblematic al orașului Bruxelles.",
+                  "category": "landmark",
+                  "coords": [
+                        4.349993,
+                        50.844986
+                  ]
+            },
+            {
+                  "name": "Musée Camille Lemonnier - Camille Lemonnier Museum",
+                  "text": "Un muzeu dedicat operei și vieții scriitorului belgian Camille Lemonnier.",
+                  "category": "museum",
+                  "coords": [
+                        4.368775,
+                        50.836087
+                  ]
+            },
+            {
+                  "name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur",
+                  "text": "O arhivă și un muzeu dedicate conservării literaturii francofone din Belgia.",
+                  "category": "museum",
+                  "coords": [
+                        4.355344,
+                        50.843658
+                  ]
+            },
+            {
+                  "name": "Brussels Comics Figurines Museum",
+                  "text": "Un muzeu care prezintă o colecție bogată de figurine din lumea benzilor desenate.",
+                  "category": "museum",
+                  "coords": [
+                        4.356035,
+                        50.846023
+                  ]
+            },
+            {
+                  "name": "Musée des Égouts - Riolenmuseum",
+                  "text": "Un muzeu neobișnuit care oferă o privire în interiorul sistemului de canalizare din Bruxelles.",
+                  "category": "museum",
+                  "coords": [
+                        4.338832,
+                        50.844618
+                  ]
+            },
+            {
+                  "name": "GardeRobe MannekenPis",
+                  "text": "Un muzeu care expune garderoba vastă și costumele celebrei statui Manneken Pis.",
+                  "category": "museum",
+                  "coords": [
+                        4.351024,
+                        50.844121
+                  ]
+            },
+            {
+                  "name": "MoMuse",
+                  "text": "Muzeul municipal din Molenbeek, care documentează istoria locală și dezvoltarea cartierului.",
+                  "category": "museum",
+                  "coords": [
+                        4.337984,
+                        50.857814
+                  ]
+            },
+            {
+                  "name": "KBR museum",
+                  "text": "Un muzeu din cadrul Bibliotecii Regale a Belgiei, care prezintă manuscrise medievale valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        4.35639,
+                        50.843526
+                  ]
+            },
+            {
+                  "name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen",
+                  "text": "Un monument din Bruxelles dedicat binefăcătorilor celor săraci.",
+                  "category": "historical",
+                  "coords": [
+                        4.384557,
+                        50.857923
+                  ]
+            },
+            {
+                  "name": "Théatre du Vaudeville",
+                  "text": "Un teatru istoric situat în Galeries Royales Saint-Hubert din Bruxelles.",
+                  "category": "cultural",
+                  "coords": [
+                        4.35467,
+                        50.847232
+                  ]
+            },
+            {
+                  "name": "Le Baixu",
+                  "text": "Un spațiu pentru concerte și arte spectacolului situat în zona Tour & Taxis.",
+                  "category": "cultural",
+                  "coords": [
+                        4.346747,
+                        50.863952
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal les Cœurs de Bois",
+                  "text": "Un teatru de păpuși tradițional din Bruxelles, cu spectacole pentru copii și adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        4.358922,
+                        50.876854
+                  ]
+            },
+            {
+                  "name": "UP – Circus & Performing Arts",
+                  "text": "Un centru pentru arta circului și spectacole contemporane din Bruxelles.",
+                  "category": "cultural",
+                  "coords": [
+                        4.321859,
+                        50.855098
+                  ]
+            },
+            {
+                  "name": "Foundation Frison Horta",
+                  "text": "O fundație culturală situată într-o casă art nouveau proiectată de Victor Horta.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354021,
+                        50.842546
+                  ]
+            },
+            {
+                  "name": "Kanal Architecture",
+                  "text": "Un centru de artă contemporană din Bruxelles, situat într-un fost garaj Citroën.",
+                  "category": "cultural",
+                  "coords": [
+                        4.349217,
+                        50.85967
+                  ]
+            },
+            {
+                  "name": "Den Danske Kirke i Bruxelles",
+                  "text": "Biserică daneză din Bruxelles, servind drept centru religios și cultural pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        4.362635,
+                        50.824993
+                  ]
+            },
+            {
+                  "name": "Tintin et Milou - Kuifje en Bobbie",
+                  "text": "O statuie celebră din Bruxelles care îi reprezintă pe eroii de benzi desenate Tintin și Snowy.",
+                  "category": "landmark",
+                  "coords": [
+                        4.33609,
+                        50.838734
+                  ]
+            },
+            {
+                  "name": "Vieux Marché - Oude Markt",
+                  "text": "O piață de vechituri tradițională situată în Place du Jeu de Balle din Bruxelles.",
+                  "category": "landmark",
+                  "coords": [
+                        4.345662,
+                        50.836986
+                  ]
+            },
+            {
+                  "name": "Marché du Midi - Zuidmarkt",
+                  "text": "O piață săptămânală mare și animată, situată lângă Gara de Sud din Bruxelles.",
+                  "category": "landmark",
+                  "coords": [
+                        4.339501,
+                        50.837366
+                  ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Stormbekken anno 1920 din Bruxelles este un bazin istoric, servind astăzi ca un element liniștit în peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "Gamestate Bruxelles oferă o selecție uriașă de jocuri video și divertisment în inima orașului.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru joacă și distracție copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "Un parc de trambuline în Bruxelles, care oferă distracție activă în interior pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "Un parc de trambuline în Bruxelles pentru activități sportive și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "Un loc de joacă în Bruxelles, care oferă un mediu sigur pentru copiii care se joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "Un loc de joacă în Bruxelles, ideal pentru o vizită cu familia în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru recreere și joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "Un teren de minigolf în Bruxelles pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "Un loc de joacă în Bruxelles, care oferă diverse opțiuni de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "Un loc de joacă în Bruxelles, care invită la joacă activă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "Un loc de joacă în Bruxelles pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "Un loc de joacă în Bruxelles, care oferă un loc de întâlnire pentru familii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "Un loc de joacă în Bruxelles cu diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "Un loc de joacă în Bruxelles, care oferă spațiu pentru mișcare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "Un loc de joacă în Bruxelles, care invită la relaxare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
+                  ]
+            },
+            {
+                  "name": "Bath & Barley",
+                  "text": "Un spa unic în Bruxelles care oferă relaxare în combinație cu cultura berii belgiene.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354843,
+                        50.848917
+                  ]
+            },
+            {
+                  "name": "Thermes de l’Espadon",
+                  "text": "O baie publică în Bruxelles cu piscine și facilități de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        4.393201,
+                        50.830177
+                  ]
+            },
+            {
+                  "name": "Good Beer Spa",
+                  "text": "Un centru de wellness în Bruxelles specializat în spa-uri cu bere și tratamente de relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        4.371407,
+                        50.85023
+                  ]
+            },
+            {
+                  "name": "Le Riad",
+                  "text": "O baie orientală în Bruxelles care oferă experiențe tradiționale de hamam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.368322,
+                        50.86584
+                  ]
+            },
+            {
+                  "name": "Calm Spa",
+                  "text": "O baie de wellness în Bruxelles axată pe relaxare și starea de bine.",
+                  "category": "recreational",
+                  "coords": [
+                        4.33204,
+                        50.869712
+                  ]
+            },
+            {
+                  "name": "Le Jasmin Wellness",
+                  "text": "Un spa în Bruxelles care oferă diverse tratamente de înfrumusețare și wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        4.348621,
+                        50.873217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Gueuze",
+                  "text": "A museum located in the Cantillon Brewery, dedicated to traditional Lambic beer production.",
+                  "category": "museum",
+                  "coords": [
+                        4.335805,
+                        50.841549
+                  ]
+            },
+            {
+                  "name": "Parlamentarium",
+                  "text": "The interactive visitor centre of the European Parliament in Brussels.",
+                  "category": "museum",
+                  "coords": [
+                        4.374328,
+                        50.840089
+                  ]
+            },
+            {
+                  "name": "Belgian Chocolate Village",
+                  "text": "A museum in Brussels dedicated to the history and production of Belgian chocolate.",
+                  "category": "museum",
+                  "coords": [
+                        4.329937,
+                        50.864816
+                  ]
+            },
+            {
+                  "name": "Archive and Museum for the Flemish Living in Brussels",
+                  "text": "A museum and archive documenting the history of Flemish life in Brussels.",
+                  "category": "museum",
+                  "coords": [
+                        4.349007,
+                        50.855241
+                  ]
+            },
+            {
+                  "name": "Belgian Museum of Freemasonry",
+                  "text": "A museum in Brussels exploring the history and symbols of Freemasonry.",
+                  "category": "museum",
+                  "coords": [
+                        4.351547,
+                        50.853
+                  ]
+            },
+            {
+                  "name": "Musée BELvue - BELvue Museum",
+                  "text": "A museum of Belgian history located in the former Hotel Bellevue.",
+                  "category": "museum",
+                  "coords": [
+                        4.360689,
+                        50.84261
+                  ]
+            },
+            {
+                  "name": "Musée Charlier - Charliermuseum",
+                  "text": "An art museum in a Brussels mansion featuring 19th-century collections.",
+                  "category": "museum",
+                  "coords": [
+                        4.369928,
+                        50.847556
+                  ]
+            },
+            {
+                  "name": "Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel",
+                  "text": "Dedicated to the history of social welfare, this museum is located in Brussels. The Musée du CPAS de Bruxelles - Museum van het OCMW van Brussel highlights the evolution of the city's support services.",
+                  "category": "museum",
+                  "coords": [
+                        4.347247,
+                        50.835342
+                  ]
+            },
+            {
+                  "name": "Museum of the National Bank of Belgium",
+                  "text": "A museum about the history of money and banking in Belgium.",
+                  "category": "museum",
+                  "coords": [
+                        4.357196,
+                        50.849803
+                  ]
+            },
+            {
+                  "name": "Museum for Natural Sciences of Belgium",
+                  "text": "A natural sciences museum famous for its significant collection of dinosaur skeletons.",
+                  "category": "museum",
+                  "coords": [
+                        4.376494,
+                        50.836509
+                  ]
+            },
+            {
+                  "name": "Musée Fin de siècle - Fin de siècle Museum",
+                  "text": "A museum dedicated to the Brussels art scene around the turn of the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        4.357985,
+                        50.841752
+                  ]
+            },
+            {
+                  "name": "CINEMATEK",
+                  "text": "The Royal Belgian Film Archive, featuring a vast collection and daily screenings.",
+                  "category": "museum",
+                  "coords": [
+                        4.360139,
+                        50.844101
+                  ]
+            },
+            {
+                  "name": "Marc Sleen House",
+                  "text": "In Brussels, the Maison Marc Sleen - Huis Marc Sleen honors the life and work of the famous Belgian comic artist. The museum provides comic enthusiasts with a detailed look at his creations.",
+                  "category": "museum",
+                  "coords": [
+                        4.36001,
+                        50.850849
+                  ]
+            },
+            {
+                  "name": "Museum of Erotics and Mythology",
+                  "text": "A museum in Brussels exploring ancient erotica and mythology in art.",
+                  "category": "museum",
+                  "coords": [
+                        4.355585,
+                        50.841259
+                  ]
+            },
+            {
+                  "name": "Coudenberg",
+                  "text": "An archaeological site featuring the remains of the former Palace of Brussels.",
+                  "category": "museum",
+                  "coords": [
+                        4.359762,
+                        50.842895
+                  ]
+            },
+            {
+                  "name": "Bruxella 1238",
+                  "text": "An archaeological site beneath the Stock Exchange building with remains of a medieval convent.",
+                  "category": "museum",
+                  "coords": [
+                        4.350451,
+                        50.848257
+                  ]
+            },
+            {
+                  "name": "Musée de la Porte de Hal - Hallepoort Museum",
+                  "text": "A fortified 14th-century city gate that now serves as a museum of city history.",
+                  "category": "museum",
+                  "coords": [
+                        4.344917,
+                        50.833098
+                  ]
+            },
+            {
+                  "name": "Brussels City Museum",
+                  "text": "A museum located in the Grand Place, dedicated to the history of the city of Brussels.",
+                  "category": "museum",
+                  "coords": [
+                        4.352781,
+                        50.846976
+                  ]
+            },
+            {
+                  "name": "House of European History",
+                  "text": "A museum presenting the modern history of Europe and the process of European integration.",
+                  "category": "museum",
+                  "coords": [
+                        4.378586,
+                        50.839933
+                  ]
+            },
+            {
+                  "name": "National Museum of the Resistance",
+                  "text": "A museum dedicated to the Belgian resistance during the Second World War.",
+                  "category": "museum",
+                  "coords": [
+                        4.327917,
+                        50.839327
+                  ]
+            },
+            {
+                  "name": "Colonne du Congrès - Congreskolom",
+                  "text": "A commemorative column in Brussels featuring the Tomb of the Unknown Soldier at its base.",
+                  "category": "historical",
+                  "coords": [
+                        4.363453,
+                        50.850112
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Toison d’Or",
+                  "text": "A well-known Brussels theatre famous for comedies and contemporary plays.",
+                  "category": "cultural",
+                  "coords": [
+                        4.361979,
+                        50.836805
+                  ]
+            },
+            {
+                  "name": "Jazz Station",
+                  "text": "A jazz centre located in a former railway station, hosting regular concerts and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        4.380798,
+                        50.85071
+                  ]
+            },
+            {
+                  "name": "Royal Theater Toone",
+                  "text": "A historic marionette theatre in the heart of Brussels with a long tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        4.353719,
+                        50.847715
+                  ]
+            },
+            {
+                  "name": "La Madeleine",
+                  "text": "A versatile venue in Brussels used for concerts and various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354572,
+                        50.844818
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Jacques Franck",
+                  "text": "An arts centre in Saint-Gilles offering a wide range of cinema, theatre, and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        4.344566,
+                        50.829345
+                  ]
+            },
+            {
+                  "name": "Flagey",
+                  "text": "A renowned cultural centre in an iconic Art Deco building, famous for music and film events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.372795,
+                        50.826817
+                  ]
+            },
+            {
+                  "name": "Chapelle protestante - Protestantse Kapel",
+                  "text": "A Protestant chapel in Brussels, also known as the Royal Chapel.",
+                  "category": "religious",
+                  "coords": [
+                        4.357421,
+                        50.84311
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Julienne - Sint-Julianakapel",
+                  "text": "A small chapel in Brussels dedicated to Saint Julienne.",
+                  "category": "religious",
+                  "coords": [
+                        4.370856,
+                        50.847534
+                  ]
+            },
+            {
+                  "name": "Église Saints-Jean-et-Nicolas - Sint-Jan en Niklaaskerk",
+                  "text": "A Roman Catholic church in Brussels featuring neoclassical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        4.363049,
+                        50.860475
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean Chrysostome - Heilige Johannes Chrysostomoskerk",
+                  "text": "A church in Brussels dedicated to Saint John Chrysostom.",
+                  "category": "religious",
+                  "coords": [
+                        4.381097,
+                        50.834263
+                  ]
+            },
+            {
+                  "name": "Kennedy Piece",
+                  "text": "A monument in Brussels consisting of an original segment of the Berlin Wall.",
+                  "category": "landmark",
+                  "coords": [
+                        4.38179,
+                        50.843124
+                  ]
+            },
+            {
+                  "name": "Manneken Pis",
+                  "text": "The famous fountain statue of a urinating boy, an iconic landmark of Brussels.",
+                  "category": "landmark",
+                  "coords": [
+                        4.349993,
+                        50.844986
+                  ]
+            },
+            {
+                  "name": "Musée Camille Lemonnier - Camille Lemonnier Museum",
+                  "text": "A museum dedicated to the work and life of the Belgian writer Camille Lemonnier.",
+                  "category": "museum",
+                  "coords": [
+                        4.368775,
+                        50.836087
+                  ]
+            },
+            {
+                  "name": "Archives et Musée de la Littérature - Archief en Museum van de Franstalige Literatuur",
+                  "text": "An archive and museum dedicated to preserving French-language literature in Belgium.",
+                  "category": "museum",
+                  "coords": [
+                        4.355344,
+                        50.843658
+                  ]
+            },
+            {
+                  "name": "Brussels Comics Figurines Museum",
+                  "text": "A museum presenting a large collection of figurines from the world of comic books.",
+                  "category": "museum",
+                  "coords": [
+                        4.356035,
+                        50.846023
+                  ]
+            },
+            {
+                  "name": "Sewer Museum",
+                  "text": "An unusual museum offering a glimpse into the underground sewage system of Brussels.",
+                  "category": "museum",
+                  "coords": [
+                        4.338832,
+                        50.844618
+                  ]
+            },
+            {
+                  "name": "GardeRobe MannekenPis",
+                  "text": "A museum displaying the extensive wardrobe and costumes of the famous Manneken Pis statue.",
+                  "category": "museum",
+                  "coords": [
+                        4.351024,
+                        50.844121
+                  ]
+            },
+            {
+                  "name": "MoMuse",
+                  "text": "The municipal museum of Molenbeek, documenting the local history and development of the district.",
+                  "category": "museum",
+                  "coords": [
+                        4.337984,
+                        50.857814
+                  ]
+            },
+            {
+                  "name": "KBR museum",
+                  "text": "A museum within the Royal Library of Belgium showcasing valuable medieval manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        4.35639,
+                        50.843526
+                  ]
+            },
+            {
+                  "name": "Monument aux Bienfaiteurs et ses abords - Monument voor de Weldoeners der Armen",
+                  "text": "A monument in Brussels dedicated to the benefactors of the poor.",
+                  "category": "historical",
+                  "coords": [
+                        4.384557,
+                        50.857923
+                  ]
+            },
+            {
+                  "name": "Théatre du Vaudeville",
+                  "text": "A historic theatre located within the Galeries Royales Saint-Hubert in Brussels.",
+                  "category": "cultural",
+                  "coords": [
+                        4.35467,
+                        50.847232
+                  ]
+            },
+            {
+                  "name": "Le Baixu",
+                  "text": "A venue for concerts and performing arts located at the Tour & Taxis site.",
+                  "category": "cultural",
+                  "coords": [
+                        4.346747,
+                        50.863952
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal les Cœurs de Bois",
+                  "text": "A traditional Brussels puppet theatre performing plays for both children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        4.358922,
+                        50.876854
+                  ]
+            },
+            {
+                  "name": "UP – Circus & Performing Arts",
+                  "text": "A centre for circus arts and contemporary performance in Brussels.",
+                  "category": "cultural",
+                  "coords": [
+                        4.321859,
+                        50.855098
+                  ]
+            },
+            {
+                  "name": "Foundation Frison Horta",
+                  "text": "A cultural foundation located in an Art Nouveau house designed by Victor Horta.",
+                  "category": "cultural",
+                  "coords": [
+                        4.354021,
+                        50.842546
+                  ]
+            },
+            {
+                  "name": "Kanal Architecture",
+                  "text": "A contemporary arts center in Brussels housed in a former Citroën garage.",
+                  "category": "cultural",
+                  "coords": [
+                        4.349217,
+                        50.85967
+                  ]
+            },
+            {
+                  "name": "Den Danske Kirke i Bruxelles",
+                  "text": "Danish church in Brussels serving as a religious and cultural hub for the community.",
+                  "category": "religious",
+                  "coords": [
+                        4.362635,
+                        50.824993
+                  ]
+            },
+            {
+                  "name": "Tintin et Milou - Kuifje en Bobbie",
+                  "text": "A famous statue in Brussels depicting the comic book characters Tintin and Snowy.",
+                  "category": "landmark",
+                  "coords": [
+                        4.33609,
+                        50.838734
+                  ]
+            },
+            {
+                  "name": "Vieux Marché - Oude Markt",
+                  "text": "A traditional flea market held at the Place du Jeu de Balle in Brussels.",
+                  "category": "landmark",
+                  "coords": [
+                        4.345662,
+                        50.836986
+                  ]
+            },
+            {
+                  "name": "Marché du Midi - Zuidmarkt",
+                  "text": "A large and vibrant weekly market located near the Brussels-South railway station.",
+                  "category": "landmark",
+                  "coords": [
+                        4.339501,
+                        50.837366
+                  ]
+            },
+            {
+                  "name": "Stormbekken anno 1920",
+                  "text": "Stormbekken anno 1920 in Brussels is a historical water basin, serving today as a peaceful urban element.",
+                  "category": "natural",
+                  "coords": [
+                        4.405114,
+                        50.883154
+                  ]
+            },
+            {
+                  "name": "Gamestate Bruxelles",
+                  "text": "Gamestate Bruxelles offers a huge selection of video games and entertainment in the heart of the city.",
+                  "category": "family",
+                  "coords": [
+                        4.351259,
+                        50.850208
+                  ]
+            },
+            {
+                  "name": "Aire de jeu Pieremans - Speeltuin Pieremans",
+                  "text": "A playground in Brussels offering space for children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        4.345631,
+                        50.835063
+                  ]
+            },
+            {
+                  "name": "Jump XL",
+                  "text": "A trampoline park in Brussels offering active indoor fun for the family.",
+                  "category": "family",
+                  "coords": [
+                        4.344735,
+                        50.873796
+                  ]
+            },
+            {
+                  "name": "Sky Z Park",
+                  "text": "A trampoline park in Brussels for sporting activities and family fun.",
+                  "category": "family",
+                  "coords": [
+                        4.323205,
+                        50.844331
+                  ]
+            },
+            {
+                  "name": "Ranch",
+                  "text": "A playground in Brussels providing a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.383188,
+                        50.835032
+                  ]
+            },
+            {
+                  "name": "Parc de Liedekerke - Liedekerkepark",
+                  "text": "A playground in Brussels, ideal for a family visit outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.374995,
+                        50.850868
+                  ]
+            },
+            {
+                  "name": "Fond de vallée - Beneden in het dal",
+                  "text": "A playground in Brussels offering space for leisure and play in a green setting.",
+                  "category": "family",
+                  "coords": [
+                        4.389719,
+                        50.860828
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Josaphat - Mini-Golf Josafat",
+                  "text": "A miniature golf course in Brussels for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        4.382382,
+                        50.863757
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du jardin Botanique - Speelplein Kruidtuin",
+                  "text": "A playground in Brussels offering various play options for children.",
+                  "category": "family",
+                  "coords": [
+                        4.364172,
+                        50.855419
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark",
+                  "text": "A playground in Brussels encouraging active play and discovery.",
+                  "category": "family",
+                  "coords": [
+                        4.384345,
+                        50.866865
+                  ]
+            },
+            {
+                  "name": "Chasseurs Ardennais",
+                  "text": "A playground in Brussels for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        4.390289,
+                        50.849238
+                  ]
+            },
+            {
+                  "name": "Pijlpark",
+                  "text": "A playground in Brussels offering a meeting point for families to play.",
+                  "category": "family",
+                  "coords": [
+                        4.352557,
+                        50.858569
+                  ]
+            },
+            {
+                  "name": "Plaine de jeux Françoise Dolto - Françoise Dolto speelplein",
+                  "text": "A playground in Brussels with various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        4.342185,
+                        50.846685
+                  ]
+            },
+            {
+                  "name": "Aire de jeux n°2 - Speelplein n°2",
+                  "text": "A playground in Brussels offering space for movement and fun.",
+                  "category": "family",
+                  "coords": [
+                        4.345575,
+                        50.826048
+                  ]
+            },
+            {
+                  "name": "Quai des Brumes - Nevelkade",
+                  "text": "A playground in Brussels inviting relaxation and play.",
+                  "category": "family",
+                  "coords": [
+                        4.345735,
+                        50.866941
+                  ]
+            },
+            {
+                  "name": "Bath & Barley",
+                  "text": "A unique spa in Brussels offering relaxation combined with Belgian beer culture.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354843,
+                        50.848917
+                  ]
+            },
+            {
+                  "name": "Thermes de l’Espadon",
+                  "text": "A public bath in Brussels featuring swimming pools and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        4.393201,
+                        50.830177
+                  ]
+            },
+            {
+                  "name": "Good Beer Spa",
+                  "text": "A wellness center in Brussels specializing in beer spas and relaxing treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        4.371407,
+                        50.85023
+                  ]
+            },
+            {
+                  "name": "Le Riad",
+                  "text": "An oriental-style bath in Brussels offering traditional hammam experiences in a relaxing atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        4.368322,
+                        50.86584
+                  ]
+            },
+            {
+                  "name": "Calm Spa",
+                  "text": "A wellness bath in Brussels focused on relaxation and holistic well-being.",
+                  "category": "recreational",
+                  "coords": [
+                        4.33204,
+                        50.869712
+                  ]
+            },
+            {
+                  "name": "Le Jasmin Wellness",
+                  "text": "A spa in Brussels offering various beauty and wellness treatments in a calm environment.",
+                  "category": "recreational",
+                  "coords": [
+                        4.348621,
+                        50.873217
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "belgium",
     coords: [4.3517, 50.8503],

@@ -1111,6 +1111,24 @@ export const bulgariaEconomicV2: POI[] = [
                         24.757826,
                         42.656386
                   ]
+            },
+            {
+                  "name": "Lift Sopot",
+                  "text": "Ein Schwimmbadkomplex in Sopot, der Einrichtungen für Sport und Freizeit bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.746815,
+                        42.664525
+                  ]
+            },
+            {
+                  "name": "Nudi",
+                  "text": "Ein spezialisiertes Schwimmbad in Sopot, das Teil der örtlichen Sportinfrastruktur ist.",
+                  "category": "recreational",
+                  "coords": [
+                        24.792157,
+                        42.641517
+                  ]
             }
       ],
       "hu": [
@@ -1139,6 +1157,24 @@ export const bulgariaEconomicV2: POI[] = [
                   "coords": [
                         24.757826,
                         42.656386
+                  ]
+            },
+            {
+                  "name": "Lift Sopot",
+                  "text": "Úszómedence-komplexum Sopotban, amely sportolási és szabadidős lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.746815,
+                        42.664525
+                  ]
+            },
+            {
+                  "name": "Nudi",
+                  "text": "Speciális úszómedence Sopotban, a helyi sportinfrastruktúra része.",
+                  "category": "recreational",
+                  "coords": [
+                        24.792157,
+                        42.641517
                   ]
             }
       ],
@@ -1169,6 +1205,24 @@ export const bulgariaEconomicV2: POI[] = [
                         24.757826,
                         42.656386
                   ]
+            },
+            {
+                  "name": "Lift Sopot",
+                  "text": "Un complex de piscine în Sopot, care oferă facilități pentru sport și timp liber.",
+                  "category": "recreational",
+                  "coords": [
+                        24.746815,
+                        42.664525
+                  ]
+            },
+            {
+                  "name": "Nudi",
+                  "text": "O piscină specializată în Sopot, făcând parte din infrastructura sportivă locală.",
+                  "category": "recreational",
+                  "coords": [
+                        24.792157,
+                        42.641517
+                  ]
             }
       ],
       "en": [
@@ -1197,6 +1251,24 @@ export const bulgariaEconomicV2: POI[] = [
                   "coords": [
                         24.757826,
                         42.656386
+                  ]
+            },
+            {
+                  "name": "Lift Sopot",
+                  "text": "A swimming pool complex in Sopot, providing facilities for sports and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        24.746815,
+                        42.664525
+                  ]
+            },
+            {
+                  "name": "Nudi",
+                  "text": "A specialized swimming pool in Sopot, part of the local sports infrastructure.",
+                  "category": "recreational",
+                  "coords": [
+                        24.792157,
+                        42.641517
                   ]
             }
       ]

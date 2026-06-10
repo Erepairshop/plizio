@@ -2300,7 +2300,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-nieuwegein.webp",
   },
-  { id: "nl-noordwijk", parent: "NL-ZH", coords: [4.446197, 52.241086], name: "Noordwijk", theme: "coastal",
+  { id: "nl-noordwijk", "sights": {
+      "de": [
+            {
+                  "name": "Naaktstrand Noordwijk",
+                  "text": "Ein ausgewiesener FKK-Strand in Noordwijk für Liebhaber des nahtlosen Bräunens.",
+                  "category": "recreational",
+                  "coords": [
+                        4.444163,
+                        52.263156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naaktstrand Noordwijk",
+                  "text": "Kijelölt nudista strand Noordwijkban a zavartalan napozás kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        4.444163,
+                        52.263156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naaktstrand Noordwijk",
+                  "text": "O plajă de nudiști desemnată în Noordwijk pentru iubitorii de bronz uniform.",
+                  "category": "recreational",
+                  "coords": [
+                        4.444163,
+                        52.263156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naaktstrand Noordwijk",
+                  "text": "A designated nudist beach in Noordwijk for fans of seamless tanning.",
+                  "category": "recreational",
+                  "coords": [
+                        4.444163,
+                        52.263156
+                  ]
+            }
+      ]
+}, parent: "NL-ZH", coords: [4.446197, 52.241086], name: "Noordwijk", theme: "coastal",
     description: {
       de: "Noordwijk ist eine Küstenstadt in Südholland, bekannt als Raumfahrtzentrum der Niederlande und beliebter Badeort.",
       hu: "Noordwijk egy tengerparti város Dél-Hollandiában, Hollandia űrközpontjaként és népszerű tengerparti üdülőhelyként ismert.",

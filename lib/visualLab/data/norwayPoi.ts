@@ -15061,7 +15061,1456 @@ export const norwayCities: POI[] = [
     image: "/geo-images/norway/bodo.webp",
   },
   {
-    id: "city-kristiansand", "sights": {"de": [{"name": "Odderøya Fyr", "text": "Ein historischer Leuchtturm am Eingang zum Hafen von Kristiansand.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "Ein Naturkundemuseum mit einem botanischen Garten in Kristiansand.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "Ein beliebter Sandstrand im Stadtzentrum von Kristiansand.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "Eine historische Festung aus dem 17. Jahrhundert zum Schutz von Kristiansand.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "Ein Freilichtmuseum mit historischen Gebäuden aus der Region Agder.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "Ein geschütztes Waldgebiet in Kristiansand, das der Erhaltung der Tierwelt dient.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "Ein Museum und Dokumentationszentrum in einem ehemaligen Gestapo-Hauptquartier.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "Ein zentraler Veranstaltungsort für Theateraufführungen in Kristiansand.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Kuholmen batteri", "text": "Überreste einer historischen Küstenbatterie in Kristiansand.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "Ein Erholungsgebiet am Meer mit Bademöglichkeiten in Kristiansand.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "Ein Kulturhaus und Theater in Kristiansand.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "Ein Museumshafen, der die maritime Geschichte der Region zeigt.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "Ein Ausstellungsraum für zeitgenössische Kunst im Zentrum von Kristiansand.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "Ein malerischer Stadtpark in Kristiansand, bekannt für seine steilen Felswände.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "Ein zentraler Park in Kristiansand, benannt nach dem Dichter Henrik Wergeland.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "Ein attraktiver Park am Wasser mit Brunnen und Skulpturen.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "Eine kleine Grünanlage im Stadtzentrum von Kristiansand.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "Ein modernes Theater- und Konzerthaus mit markanter Architektur in Kristiansand.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "Ein kleiner Park in der Nähe des alten Börsengebäudes in Kristiansand.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "Der historische Stadtteil von Kristiansand mit Nordeuropas größter Sammlung alter Holzhäuser.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "Hoch über Kristiansand gelegen, lädt der Aussichtspunkt Dueknipen zu einer entspannten Pause in der Natur ein. Von diesem norwegischen Felsvorsprung aus eröffnet sich ein beeindruckender Weitblick über die gesamte Stadtlandschaft. Es ist der perfekte Ort, um die städtische Szenerie von oben zu betrachten.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "Ein regionales Kunstzentrum für zeitgenössischen künstlerischen Ausdruck.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "Ein Ort am Hafen, um die Ankunft großer Kreuzfahrtschiffe zu beobachten.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "Eine Kunstgalerie mit wechselnden Ausstellungen in Kristiansand.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "Eine lokale Galerie, die verschiedene Kunstwerke in Kristiansand präsentiert.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "Ein kreativer Raum für Kunst und Design in Kristiansand.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "Ein Atelier und eine Galerie, die sich auf Fotografie in Kristiansand konzentrieren.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Historische Ruinen einer ehemaligen Verteidigungsanlage in Kristiansand.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "Der Sitz der lokalen Stadtverwaltung in Kristiansand.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "Eine markante Betonkirche aus dem Jahr 1964 im Stadtteil Grim.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "Eine der ältesten Steinkirchen Norwegens, die bis ins 11. Jahrhundert zurückreicht.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "Die Gemeindekirche des Stadtteils Lund in Kristiansand.", "category": "religious", "coords": [8.012024, 58.152571]}, {"name": "Gillsvannet", "text": "Der Gillsvannet in Kristiansand ist ein See, der für seine ruhige Lage bekannt ist.", "category": "natural", "coords": [8.021407, 58.188556]}, {"name": "Bråvann", "text": "Der Bråvann ist ein See in Kristiansand, ideal für einen Spaziergang am Ufer.", "category": "natural", "coords": [7.929405, 58.114535]}, {"name": "Rossevannet", "text": "Der Rossevannet in Kristiansand bietet eine malerische Umgebung für Naturliebhaber.", "category": "natural", "coords": [7.889648, 58.11209]}, {"name": "Bispelona", "text": "Der Bispelona ist ein ruhig gelegener See in der Region Kristiansand.", "category": "natural", "coords": [7.902041, 58.121052]}, {"name": "Svingervannet", "text": "Der Svingervannet ist ein See in Kristiansand, der zur Entspannung einlädt.", "category": "natural", "coords": [7.902281, 58.115817]}, {"name": "Skyland Trampolinepark", "text": "Der Skyland Trampolinepark in Kristiansand bietet aktive Unterhaltung für die ganze Familie.", "category": "family", "coords": [7.971094, 58.123922]}], "hu": [{"name": "Odderøya Fyr", "text": "Történelmi világítótorony Kristiansand kikötőjének bejáratánál.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "Természettudományi múzeum és botanikus kert Kristiansandban.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "Népszerű homokos strand Kristiansand városközpontjában.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "17. századi történelmi erődítmény Kristiansand védelmére.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "Szabadtéri múzeum Agder régió történelmi épületeivel.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "Védett erdőterület Kristiansandban a vadvilág megőrzésére.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "Múzeum és dokumentációs központ az egykori Gestapo-parancsnokság épületében.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "Színházi előadások központi helyszíne Kristiansandban.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Kuholmen batteri", "text": "Egy történelmi part menti üteg maradványai Kristiansandban.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "Tengerparti üdülőterület fürdőzési lehetőséggel Kristiansandban.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "Kulturális központ és színház Kristiansandban.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "Múzeumi kikötő, amely a régió tengerészeti történelmét mutatja be.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "Kortárs művészeti kiállítótér Kristiansand központjában.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "Gleccservölgyben fekvő festői városi park Kristiansandban.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "Kristiansand központi parkja, amelyet Henrik Wergeland költőről neveztek el.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "Vonzó vízparti park szökőkutakkal és szobrokkal.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "Kisebb zöldterület Kristiansand városközpontjában.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "Modern színház- és hangversenyterem különleges építészeti megoldásokkal.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "Kis park a régi tőzsdeépület közelében Kristiansandban.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "Kristiansand történelmi negyede Észak-Európa legnagyobb faház-együttesével.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "A Kristiansand felett magasodó Dueknipen egy természetes kilátó, amely lenyűgöző panorámát kínál a norvég városra. Az idelátogatók zavartalanul gyönyörködhetnek a széles tájban és a városképben. Kellemes úti cél egy kis pihenéshez a szabadban.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "Regionális művészeti központ a kortárs művészi kifejezésmódok számára.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "Kikötői pont a nagy óceánjáró hajók érkezésének megfigyelésére.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "Művészeti galéria időszaki kiállításokkal Kristiansandban.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "Helyi galéria, amely különféle műalkotásokat mutat be Kristiansandban.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "Kreatív művészeti és design központ Kristiansandban.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "Fotóművészetre összpontosító műterem és galéria Kristiansandban.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Egy egykori védelmi erődítmény történelmi romjai Kristiansandban.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "Kristiansand helyi önkormányzatának székhelye.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "Jellegzetes, 1964-ben épült beton templom Grim városrészben.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "Norvégia egyik legrégebbi kőtemploma, amely a 11. századig nyúlik vissza.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "Kristiansand Lund városrészének plébániatemploma.", "category": "religious", "coords": [8.012024, 58.152571]}, {"name": "Gillsvannet", "text": "A Gillsvannet Kristiansandban egy tó, amely nyugodt fekvéséről ismert.", "category": "natural", "coords": [8.021407, 58.188556]}, {"name": "Bråvann", "text": "A Bråvann egy tó Kristiansandban, ideális egy sétához a parton.", "category": "natural", "coords": [7.929405, 58.114535]}, {"name": "Rossevannet", "text": "A Rossevannet Kristiansandban festői környezetet nyújt a természetkedvelőknek.", "category": "natural", "coords": [7.889648, 58.11209]}, {"name": "Bispelona", "text": "A Bispelona egy nyugodt fekvésű tó Kristiansand régiójában.", "category": "natural", "coords": [7.902041, 58.121052]}, {"name": "Svingervannet", "text": "A Svingervannet egy tó Kristiansandban, amely pihenésre hív.", "category": "natural", "coords": [7.902281, 58.115817]}, {"name": "Skyland Trampolinepark", "text": "A Skyland Trampolinepark Kristiansandban aktív kikapcsolódást nyújt az egész családnak.", "category": "family", "coords": [7.971094, 58.123922]}], "ro": [{"name": "Odderøya Fyr", "text": "Un far istoric situat la intrarea în portul Kristiansand.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "Un muzeu de istorie naturală cu o grădină botanică în Kristiansand.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "O plajă populară de nisip situată în centrul orașului Kristiansand.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "O fortăreață istorică din secolul al XVII-lea construită pentru a proteja orașul Kristiansand.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "Un muzeu în aer liber cu clădiri istorice din regiunea Agder.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "O zonă forestieră protejată în Kristiansand pentru conservarea faunei sălbatice.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "Un muzeu și centru de documentare situat în fostul sediu al Gestapo.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "O locație centrală pentru spectacole de teatru în Kristiansand.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Kuholmen batteri", "text": "Rămășițele unei baterii de coastă istorice în Kristiansand.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "O zonă de recreere la malul mării cu facilități pentru scăldat în Kristiansand.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "O casă de cultură și teatru în Kristiansand.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "Un port-muzeu care prezintă istoria maritimă a regiunii.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "Un spațiu de expoziție pentru artă contemporană în centrul orașului Kristiansand.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "Un parc urban pitoresc în Kristiansand, situat într-o vale cu stânci abrupte.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "Un parc central în Kristiansand, numit după poetul Henrik Wergeland.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "Un parc atractiv la malul apei, decorat cu fântâni și sculpturi.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "Un mic spațiu verde situat în centrul orașului Kristiansand.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "O casă modernă de teatru și concerte cu o arhitectură remarcabilă în Kristiansand.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "Un mic parc situat lângă vechea clădire a bursei din Kristiansand.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "Cartierul istoric din Kristiansand, având cea mai mare colecție de case vechi din lemn din Europa de Nord.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "Situat în orașul Kristiansand, Dueknipen este un punct de belvedere natural care atrage iubitorii de peisaje norvegiene. Acest loc deosebit le oferă vizitatorilor o panoramă largă asupra întregii așezări urbane. Este o destinație excelentă pentru cei care doresc să admire împrejurimile de la înălțime.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "Un centru regional de artă dedicat expresiei artistice contemporane.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "O locație în port pentru a observa sosirea marilor nave de croazieră.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "O galerie de artă cu expoziții temporare în Kristiansand.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "O galerie locală care prezintă diverse opere de artă în Kristiansand.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "Un spațiu creativ dedicat artei și designului în Kristiansand.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "Un atelier și o galerie axate pe fotografie în Kristiansand.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Ruinele istorice ale unei foste fortificații de apărare din Kristiansand.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "Sediul administrației locale din Kristiansand.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "O biserică distinctivă din beton, construită în 1964 în cartierul Grim.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "Una dintre cele mai vechi biserici de piatră din Norvegia, datând din secolul al XI-lea.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "Biserica parohială a cartierului Lund din Kristiansand.", "category": "religious", "coords": [8.012024, 58.152571]}, {"name": "Gillsvannet", "text": "Gillsvannet din Kristiansand este un lac cunoscut pentru locația sa liniștită.", "category": "natural", "coords": [8.021407, 58.188556]}, {"name": "Bråvann", "text": "Bråvann este un lac din Kristiansand, ideal pentru o plimbare pe mal.", "category": "natural", "coords": [7.929405, 58.114535]}, {"name": "Rossevannet", "text": "Rossevannet din Kristiansand oferă un cadru pitoresc pentru iubitorii de natură.", "category": "natural", "coords": [7.889648, 58.11209]}, {"name": "Bispelona", "text": "Bispelona este un lac liniștit în regiunea Kristiansand.", "category": "natural", "coords": [7.902041, 58.121052]}, {"name": "Svingervannet", "text": "Svingervannet este un lac din Kristiansand care invită la relaxare.", "category": "natural", "coords": [7.902281, 58.115817]}, {"name": "Skyland Trampolinepark", "text": "Skyland Trampolinepark din Kristiansand oferă divertisment activ pentru întreaga familie.", "category": "family", "coords": [7.971094, 58.123922]}], "en": [{"name": "Odderøya Fyr", "text": "A historic lighthouse marking the entrance to the harbor in Kristiansand.", "category": "landmark", "coords": [8.002248, 58.131441]}, {"name": "Naturmuseum og botanisk hage Universitetet i Agder", "text": "A natural history museum featuring a botanical garden in Kristiansand.", "category": "museum", "coords": [8.003637, 58.158973]}, {"name": "Bystranda", "text": "A popular sandy beach located in the city center of Kristiansand.", "category": "recreational", "coords": [8.007349, 58.146]}, {"name": "Christiansholm festning", "text": "A historic 17th-century fortress built to protect the city of Kristiansand.", "category": "fortress", "coords": [8.003574, 58.144124]}, {"name": "Kristiansand museum", "text": "An open-air museum showcasing historic buildings from the Agder region.", "category": "museum", "coords": [8.030896, 58.161562]}, {"name": "Kristiansand kommuneskog dyrelivsfredning", "text": "A protected forest area in Kristiansand dedicated to wildlife conservation.", "category": "natural", "coords": [7.947532, 58.160837]}, {"name": "Stiftelsen Arkivet", "text": "A museum and documentation center located in a former Gestapo headquarters.", "category": "museum", "coords": [7.981537, 58.14467]}, {"name": "Kristiansand teater", "text": "A central venue for theatrical performances in Kristiansand.", "category": "cultural", "coords": [7.995597, 58.142994]}, {"name": "Kuholmen batteri", "text": "Remains of a historic coastal battery in Kristiansand.", "category": "fortress", "coords": [8.016425, 58.143234]}, {"name": "Galgebergtangen", "text": "A seaside recreational area with swimming facilities in Kristiansand.", "category": "recreational", "coords": [8.019051, 58.144195]}, {"name": "Rosegården teaterhus", "text": "A community cultural center and theatre house in Kristiansand.", "category": "cultural", "coords": [8.030154, 58.149243]}, {"name": "Odderøya Museumshavn", "text": "A museum harbor showcasing the maritime history of the region.", "category": "museum", "coords": [8.000266, 58.140543]}, {"name": "Kristiansand Kunsthall", "text": "An exhibition space for contemporary art in the center of Kristiansand.", "category": "museum", "coords": [7.994062, 58.145711]}, {"name": "Ravnedalen", "text": "A scenic urban park in Kristiansand set in a valley with steep cliffs.", "category": "park", "coords": [7.973529, 58.155966]}, {"name": "Wergelandsparken", "text": "A central park in Kristiansand named after the poet Henrik Wergeland.", "category": "park", "coords": [7.995605, 58.146701]}, {"name": "Otterdalsparken", "text": "An attractive waterfront park featuring fountains and sculptures.", "category": "park", "coords": [7.999851, 58.143023]}, {"name": "Stener Heyerdahls park", "text": "A small green space located in the city center of Kristiansand.", "category": "park", "coords": [7.992577, 58.149113]}, {"name": "Kilden", "text": "A modern performing arts center with striking architecture in Kristiansand.", "category": "cultural", "coords": [7.99695, 58.139121]}, {"name": "Børsparken", "text": "A small park located near the old stock exchange building in Kristiansand.", "category": "park", "coords": [7.992187, 58.144641]}, {"name": "Posebyen", "text": "The historic part of Kristiansand featuring Northern Europe's largest collection of old wooden houses.", "category": "landmark", "coords": [7.998165, 58.148983]}, {"name": "Dueknipen", "text": "Overlooking the city of Kristiansand, Dueknipen serves as a picturesque natural viewpoint in Norway. Anyone making their way to this spot will be rewarded with sweeping panoramic views across the urban landscape. It is an ideal outdoor location for taking in the city's scenery from above.", "category": "natural", "coords": [7.974532, 58.144081]}, {"name": "Agder Kunstsenter", "text": "A regional arts center promoting contemporary artistic expression.", "category": "museum", "coords": [7.99309, 58.146705]}, {"name": "Cruise Ship Dock", "text": "A location at the harbor to watch the arrival of large cruise ships.", "category": "natural", "coords": [7.990285, 58.139626]}, {"name": "OscArt", "text": "An art gallery featuring rotating exhibitions in Kristiansand.", "category": "museum", "coords": [8.000533, 58.137826]}, {"name": "Galleri Haubitz", "text": "A local gallery showcasing various artworks in Kristiansand.", "category": "museum", "coords": [8.004448, 58.134627]}, {"name": "Bygg 143 Kunst og Design", "text": "A creative space dedicated to art and design in Kristiansand.", "category": "museum", "coords": [8.00345, 58.133986]}, {"name": "FOTOHUSKRS Atelier & Galleri", "text": "An atelier and gallery focused on photography in Kristiansand.", "category": "museum", "coords": [8.004506, 58.133688]}, {"name": "Nordre Batteri", "text": "Historic ruins of a former defensive fortification in Kristiansand.", "category": "historical", "coords": [8.00212, 58.136688]}, {"name": "Kristiansand rådhus", "text": "The seat of the local municipal government in Kristiansand.", "category": "historical", "coords": [7.997024, 58.146731]}, {"name": "Grim kirke", "text": "A distinctive concrete church built in 1964 in the Grim district.", "category": "religious", "coords": [7.97241, 58.148019]}, {"name": "Oddernes kirke", "text": "One of Norway's oldest stone churches, dating back to the 11th century.", "category": "religious", "coords": [8.013573, 58.159708]}, {"name": "Lund kirke", "text": "The parish church serving the Lund district of Kristiansand.", "category": "religious", "coords": [8.012024, 58.152571]}, {"name": "Gillsvannet", "text": "Gillsvannet in Kristiansand is a lake known for its quiet location.", "category": "natural", "coords": [8.021407, 58.188556]}, {"name": "Bråvann", "text": "Bråvann is a lake in Kristiansand, ideal for a walk along the shore.", "category": "natural", "coords": [7.929405, 58.114535]}, {"name": "Rossevannet", "text": "Rossevannet in Kristiansand offers a scenic setting for nature lovers.", "category": "natural", "coords": [7.889648, 58.11209]}, {"name": "Bispelona", "text": "Bispelona is a quiet lake in the Kristiansand region.", "category": "natural", "coords": [7.902041, 58.121052]}, {"name": "Svingervannet", "text": "Svingervannet is a lake in Kristiansand inviting relaxation.", "category": "natural", "coords": [7.902281, 58.115817]}, {"name": "Skyland Trampolinepark", "text": "Skyland Trampolinepark in Kristiansand offers active entertainment for the whole family.", "category": "family", "coords": [7.971094, 58.123922]}]},
+    id: "city-kristiansand", "sights": {
+      "de": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "Ein historischer Leuchtturm am Eingang zum Hafen von Kristiansand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "Ein Naturkundemuseum mit einem botanischen Garten in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Ein beliebter Sandstrand im Stadtzentrum von Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "Eine historische Festung aus dem 17. Jahrhundert zum Schutz von Kristiansand.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "Ein Freilichtmuseum mit historischen Gebäuden aus der Region Agder.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "Ein geschütztes Waldgebiet in Kristiansand, das der Erhaltung der Tierwelt dient.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "Ein Museum und Dokumentationszentrum in einem ehemaligen Gestapo-Hauptquartier.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "Ein zentraler Veranstaltungsort für Theateraufführungen in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "Überreste einer historischen Küstenbatterie in Kristiansand.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "Ein Erholungsgebiet am Meer mit Bademöglichkeiten in Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "Ein Kulturhaus und Theater in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "Ein Museumshafen, der die maritime Geschichte der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst im Zentrum von Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "Ein malerischer Stadtpark in Kristiansand, bekannt für seine steilen Felswände.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "Ein zentraler Park in Kristiansand, benannt nach dem Dichter Henrik Wergeland.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "Ein attraktiver Park am Wasser mit Brunnen und Skulpturen.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "Eine kleine Grünanlage im Stadtzentrum von Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "Ein modernes Theater- und Konzerthaus mit markanter Architektur in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "Ein kleiner Park in der Nähe des alten Börsengebäudes in Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "Der historische Stadtteil von Kristiansand mit Nordeuropas größter Sammlung alter Holzhäuser.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "Hoch über Kristiansand gelegen, lädt der Aussichtspunkt Dueknipen zu einer entspannten Pause in der Natur ein. Von diesem norwegischen Felsvorsprung aus eröffnet sich ein beeindruckender Weitblick über die gesamte Stadtlandschaft. Es ist der perfekte Ort, um die städtische Szenerie von oben zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "Ein regionales Kunstzentrum für zeitgenössischen künstlerischen Ausdruck.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "Ein Ort am Hafen, um die Ankunft großer Kreuzfahrtschiffe zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "Eine Kunstgalerie mit wechselnden Ausstellungen in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "Eine lokale Galerie, die verschiedene Kunstwerke in Kristiansand präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "Ein kreativer Raum für Kunst und Design in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "Ein Atelier und eine Galerie, die sich auf Fotografie in Kristiansand konzentrieren.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Historische Ruinen einer ehemaligen Verteidigungsanlage in Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "Der Sitz der lokalen Stadtverwaltung in Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "Eine markante Betonkirche aus dem Jahr 1964 im Stadtteil Grim.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "Eine der ältesten Steinkirchen Norwegens, die bis ins 11. Jahrhundert zurückreicht.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "Die Gemeindekirche des Stadtteils Lund in Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "Der Gillsvannet in Kristiansand ist ein See, der für seine ruhige Lage bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "Der Bråvann ist ein See in Kristiansand, ideal für einen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "Der Rossevannet in Kristiansand bietet eine malerische Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "Der Bispelona ist ein ruhig gelegener See in der Region Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "Der Svingervannet ist ein See in Kristiansand, der zur Entspannung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "Der Skyland Trampolinepark in Kristiansand bietet aktive Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
+                  ]
+            },
+            {
+                  "name": "Bertesbukta",
+                  "text": "Ein familienfreundlicher Strand und Badeplatz in Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.03149,
+                        58.146356
+                  ]
+            },
+            {
+                  "name": "Søm",
+                  "text": "Ein Küstenbereich mit Bademöglichkeiten im Stadtteil Søm von Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.051807,
+                        58.153838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "Történelmi világítótorony Kristiansand kikötőjének bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "Természettudományi múzeum és botanikus kert Kristiansandban.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Népszerű homokos strand Kristiansand városközpontjában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "17. századi történelmi erődítmény Kristiansand védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "Szabadtéri múzeum Agder régió történelmi épületeivel.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "Védett erdőterület Kristiansandban a vadvilág megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "Múzeum és dokumentációs központ az egykori Gestapo-parancsnokság épületében.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "Színházi előadások központi helyszíne Kristiansandban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "Egy történelmi part menti üteg maradványai Kristiansandban.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "Tengerparti üdülőterület fürdőzési lehetőséggel Kristiansandban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "Kulturális központ és színház Kristiansandban.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "Múzeumi kikötő, amely a régió tengerészeti történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "Kortárs művészeti kiállítótér Kristiansand központjában.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "Gleccservölgyben fekvő festői városi park Kristiansandban.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "Kristiansand központi parkja, amelyet Henrik Wergeland költőről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "Vonzó vízparti park szökőkutakkal és szobrokkal.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "Kisebb zöldterület Kristiansand városközpontjában.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "Modern színház- és hangversenyterem különleges építészeti megoldásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "Kis park a régi tőzsdeépület közelében Kristiansandban.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "Kristiansand történelmi negyede Észak-Európa legnagyobb faház-együttesével.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "A Kristiansand felett magasodó Dueknipen egy természetes kilátó, amely lenyűgöző panorámát kínál a norvég városra. Az idelátogatók zavartalanul gyönyörködhetnek a széles tájban és a városképben. Kellemes úti cél egy kis pihenéshez a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "Regionális művészeti központ a kortárs művészi kifejezésmódok számára.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "Kikötői pont a nagy óceánjáró hajók érkezésének megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "Művészeti galéria időszaki kiállításokkal Kristiansandban.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "Helyi galéria, amely különféle műalkotásokat mutat be Kristiansandban.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "Kreatív művészeti és design központ Kristiansandban.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "Fotóművészetre összpontosító műterem és galéria Kristiansandban.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Egy egykori védelmi erődítmény történelmi romjai Kristiansandban.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "Kristiansand helyi önkormányzatának székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "Jellegzetes, 1964-ben épült beton templom Grim városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "Norvégia egyik legrégebbi kőtemploma, amely a 11. századig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "Kristiansand Lund városrészének plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "A Gillsvannet Kristiansandban egy tó, amely nyugodt fekvéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "A Bråvann egy tó Kristiansandban, ideális egy sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "A Rossevannet Kristiansandban festői környezetet nyújt a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "A Bispelona egy nyugodt fekvésű tó Kristiansand régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "A Svingervannet egy tó Kristiansandban, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "A Skyland Trampolinepark Kristiansandban aktív kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
+                  ]
+            },
+            {
+                  "name": "Bertesbukta",
+                  "text": "Családbarát strand és fürdőhely Kristiansandban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.03149,
+                        58.146356
+                  ]
+            },
+            {
+                  "name": "Søm",
+                  "text": "Tengerparti terület fürdési lehetőséggel Kristiansand Søm negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.051807,
+                        58.153838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "Un far istoric situat la intrarea în portul Kristiansand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "Un muzeu de istorie naturală cu o grădină botanică în Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "O plajă populară de nisip situată în centrul orașului Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "O fortăreață istorică din secolul al XVII-lea construită pentru a proteja orașul Kristiansand.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "Un muzeu în aer liber cu clădiri istorice din regiunea Agder.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "O zonă forestieră protejată în Kristiansand pentru conservarea faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "Un muzeu și centru de documentare situat în fostul sediu al Gestapo.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "O locație centrală pentru spectacole de teatru în Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "Rămășițele unei baterii de coastă istorice în Kristiansand.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "O zonă de recreere la malul mării cu facilități pentru scăldat în Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "O casă de cultură și teatru în Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "Un port-muzeu care prezintă istoria maritimă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "Un spațiu de expoziție pentru artă contemporană în centrul orașului Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "Un parc urban pitoresc în Kristiansand, situat într-o vale cu stânci abrupte.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "Un parc central în Kristiansand, numit după poetul Henrik Wergeland.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "Un parc atractiv la malul apei, decorat cu fântâni și sculpturi.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "Un mic spațiu verde situat în centrul orașului Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "O casă modernă de teatru și concerte cu o arhitectură remarcabilă în Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "Un mic parc situat lângă vechea clădire a bursei din Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "Cartierul istoric din Kristiansand, având cea mai mare colecție de case vechi din lemn din Europa de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "Situat în orașul Kristiansand, Dueknipen este un punct de belvedere natural care atrage iubitorii de peisaje norvegiene. Acest loc deosebit le oferă vizitatorilor o panoramă largă asupra întregii așezări urbane. Este o destinație excelentă pentru cei care doresc să admire împrejurimile de la înălțime.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "Un centru regional de artă dedicat expresiei artistice contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "O locație în port pentru a observa sosirea marilor nave de croazieră.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "O galerie de artă cu expoziții temporare în Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "O galerie locală care prezintă diverse opere de artă în Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "Un spațiu creativ dedicat artei și designului în Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "Un atelier și o galerie axate pe fotografie în Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Ruinele istorice ale unei foste fortificații de apărare din Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "Sediul administrației locale din Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "O biserică distinctivă din beton, construită în 1964 în cartierul Grim.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "Una dintre cele mai vechi biserici de piatră din Norvegia, datând din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "Biserica parohială a cartierului Lund din Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "Gillsvannet din Kristiansand este un lac cunoscut pentru locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "Bråvann este un lac din Kristiansand, ideal pentru o plimbare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "Rossevannet din Kristiansand oferă un cadru pitoresc pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "Bispelona este un lac liniștit în regiunea Kristiansand.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "Svingervannet este un lac din Kristiansand care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "Skyland Trampolinepark din Kristiansand oferă divertisment activ pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
+                  ]
+            },
+            {
+                  "name": "Bertesbukta",
+                  "text": "O plajă și zonă de scăldat potrivită pentru familii în Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.03149,
+                        58.146356
+                  ]
+            },
+            {
+                  "name": "Søm",
+                  "text": "O zonă de coastă cu facilități de scăldat în cartierul Søm din Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.051807,
+                        58.153838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odderøya Fyr",
+                  "text": "A historic lighthouse marking the entrance to the harbor in Kristiansand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.002248,
+                        58.131441
+                  ]
+            },
+            {
+                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+                  "text": "A natural history museum featuring a botanical garden in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.003637,
+                        58.158973
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "A popular sandy beach located in the city center of Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.007349,
+                        58.146
+                  ]
+            },
+            {
+                  "name": "Christiansholm festning",
+                  "text": "A historic 17th-century fortress built to protect the city of Kristiansand.",
+                  "category": "fortress",
+                  "coords": [
+                        8.003574,
+                        58.144124
+                  ]
+            },
+            {
+                  "name": "Kristiansand museum",
+                  "text": "An open-air museum showcasing historic buildings from the Agder region.",
+                  "category": "museum",
+                  "coords": [
+                        8.030896,
+                        58.161562
+                  ]
+            },
+            {
+                  "name": "Kristiansand kommuneskog dyrelivsfredning",
+                  "text": "A protected forest area in Kristiansand dedicated to wildlife conservation.",
+                  "category": "natural",
+                  "coords": [
+                        7.947532,
+                        58.160837
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Arkivet",
+                  "text": "A museum and documentation center located in a former Gestapo headquarters.",
+                  "category": "museum",
+                  "coords": [
+                        7.981537,
+                        58.14467
+                  ]
+            },
+            {
+                  "name": "Kristiansand teater",
+                  "text": "A central venue for theatrical performances in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.995597,
+                        58.142994
+                  ]
+            },
+            {
+                  "name": "Kuholmen batteri",
+                  "text": "Remains of a historic coastal battery in Kristiansand.",
+                  "category": "fortress",
+                  "coords": [
+                        8.016425,
+                        58.143234
+                  ]
+            },
+            {
+                  "name": "Galgebergtangen",
+                  "text": "A seaside recreational area with swimming facilities in Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.019051,
+                        58.144195
+                  ]
+            },
+            {
+                  "name": "Rosegården teaterhus",
+                  "text": "A community cultural center and theatre house in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        8.030154,
+                        58.149243
+                  ]
+            },
+            {
+                  "name": "Odderøya Museumshavn",
+                  "text": "A museum harbor showcasing the maritime history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        8.000266,
+                        58.140543
+                  ]
+            },
+            {
+                  "name": "Kristiansand Kunsthall",
+                  "text": "An exhibition space for contemporary art in the center of Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        7.994062,
+                        58.145711
+                  ]
+            },
+            {
+                  "name": "Ravnedalen",
+                  "text": "A scenic urban park in Kristiansand set in a valley with steep cliffs.",
+                  "category": "park",
+                  "coords": [
+                        7.973529,
+                        58.155966
+                  ]
+            },
+            {
+                  "name": "Wergelandsparken",
+                  "text": "A central park in Kristiansand named after the poet Henrik Wergeland.",
+                  "category": "park",
+                  "coords": [
+                        7.995605,
+                        58.146701
+                  ]
+            },
+            {
+                  "name": "Otterdalsparken",
+                  "text": "An attractive waterfront park featuring fountains and sculptures.",
+                  "category": "park",
+                  "coords": [
+                        7.999851,
+                        58.143023
+                  ]
+            },
+            {
+                  "name": "Stener Heyerdahls park",
+                  "text": "A small green space located in the city center of Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992577,
+                        58.149113
+                  ]
+            },
+            {
+                  "name": "Kilden",
+                  "text": "A modern performing arts center with striking architecture in Kristiansand.",
+                  "category": "cultural",
+                  "coords": [
+                        7.99695,
+                        58.139121
+                  ]
+            },
+            {
+                  "name": "Børsparken",
+                  "text": "A small park located near the old stock exchange building in Kristiansand.",
+                  "category": "park",
+                  "coords": [
+                        7.992187,
+                        58.144641
+                  ]
+            },
+            {
+                  "name": "Posebyen",
+                  "text": "The historic part of Kristiansand featuring Northern Europe's largest collection of old wooden houses.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998165,
+                        58.148983
+                  ]
+            },
+            {
+                  "name": "Dueknipen",
+                  "text": "Overlooking the city of Kristiansand, Dueknipen serves as a picturesque natural viewpoint in Norway. Anyone making their way to this spot will be rewarded with sweeping panoramic views across the urban landscape. It is an ideal outdoor location for taking in the city's scenery from above.",
+                  "category": "natural",
+                  "coords": [
+                        7.974532,
+                        58.144081
+                  ]
+            },
+            {
+                  "name": "Agder Kunstsenter",
+                  "text": "A regional arts center promoting contemporary artistic expression.",
+                  "category": "museum",
+                  "coords": [
+                        7.99309,
+                        58.146705
+                  ]
+            },
+            {
+                  "name": "Cruise Ship Dock",
+                  "text": "A location at the harbor to watch the arrival of large cruise ships.",
+                  "category": "natural",
+                  "coords": [
+                        7.990285,
+                        58.139626
+                  ]
+            },
+            {
+                  "name": "OscArt",
+                  "text": "An art gallery featuring rotating exhibitions in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.000533,
+                        58.137826
+                  ]
+            },
+            {
+                  "name": "Galleri Haubitz",
+                  "text": "A local gallery showcasing various artworks in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.004448,
+                        58.134627
+                  ]
+            },
+            {
+                  "name": "Bygg 143 Kunst og Design",
+                  "text": "A creative space dedicated to art and design in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.00345,
+                        58.133986
+                  ]
+            },
+            {
+                  "name": "FOTOHUSKRS Atelier & Galleri",
+                  "text": "An atelier and gallery focused on photography in Kristiansand.",
+                  "category": "museum",
+                  "coords": [
+                        8.004506,
+                        58.133688
+                  ]
+            },
+            {
+                  "name": "Nordre Batteri",
+                  "text": "Historic ruins of a former defensive fortification in Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        8.00212,
+                        58.136688
+                  ]
+            },
+            {
+                  "name": "Kristiansand rådhus",
+                  "text": "The seat of the local municipal government in Kristiansand.",
+                  "category": "historical",
+                  "coords": [
+                        7.997024,
+                        58.146731
+                  ]
+            },
+            {
+                  "name": "Grim kirke",
+                  "text": "A distinctive concrete church built in 1964 in the Grim district.",
+                  "category": "religious",
+                  "coords": [
+                        7.97241,
+                        58.148019
+                  ]
+            },
+            {
+                  "name": "Oddernes kirke",
+                  "text": "One of Norway's oldest stone churches, dating back to the 11th century.",
+                  "category": "religious",
+                  "coords": [
+                        8.013573,
+                        58.159708
+                  ]
+            },
+            {
+                  "name": "Lund kirke",
+                  "text": "The parish church serving the Lund district of Kristiansand.",
+                  "category": "religious",
+                  "coords": [
+                        8.012024,
+                        58.152571
+                  ]
+            },
+            {
+                  "name": "Gillsvannet",
+                  "text": "Gillsvannet in Kristiansand is a lake known for its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        8.021407,
+                        58.188556
+                  ]
+            },
+            {
+                  "name": "Bråvann",
+                  "text": "Bråvann is a lake in Kristiansand, ideal for a walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        7.929405,
+                        58.114535
+                  ]
+            },
+            {
+                  "name": "Rossevannet",
+                  "text": "Rossevannet in Kristiansand offers a scenic setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        7.889648,
+                        58.11209
+                  ]
+            },
+            {
+                  "name": "Bispelona",
+                  "text": "Bispelona is a quiet lake in the Kristiansand region.",
+                  "category": "natural",
+                  "coords": [
+                        7.902041,
+                        58.121052
+                  ]
+            },
+            {
+                  "name": "Svingervannet",
+                  "text": "Svingervannet is a lake in Kristiansand inviting relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        7.902281,
+                        58.115817
+                  ]
+            },
+            {
+                  "name": "Skyland Trampolinepark",
+                  "text": "Skyland Trampolinepark in Kristiansand offers active entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.971094,
+                        58.123922
+                  ]
+            },
+            {
+                  "name": "Bertesbukta",
+                  "text": "A family-friendly beach and swimming area in Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.03149,
+                        58.146356
+                  ]
+            },
+            {
+                  "name": "Søm",
+                  "text": "A coastal area with swimming facilities in the Søm district of Kristiansand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.051807,
+                        58.153838
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "norway",
     coords: [7.9956, 58.1467],
@@ -16354,7 +17803,628 @@ export const norwayCities: POI[] = [
     image: "/geo-images/norway/drammen.webp",
   },
   {
-    id: "city-sandnes", "sights": {"de": [{"name": "Vitenfabrikken", "text": "Ein interaktives Wissenschaftszentrum und Museum im Zentrum von Sandnes.", "category": "museum", "coords": [5.730982, 58.851405]}, {"name": "Sandnes kulturhus", "text": "Ein regionales Kulturzentrum für Musik und Theater in Sandnes.", "category": "cultural", "coords": [5.739814, 58.851532]}, {"name": "Fogdahuset", "text": "Ein historisches Holzhaus, das heute als Museum in Sandnes dient.", "category": "museum", "coords": [5.752808, 58.854368]}, {"name": "Sandvedparken", "text": "Ein weitläufiger Stadtpark in Sandnes, ideal für Spaziergänge am Fluss.", "category": "park", "coords": [5.719772, 58.826656]}, {"name": "KinoKino", "text": "In den Räumlichkeiten eines ehemaligen Kinos in Sandnes hat sich das Kulturzentrum KinoKino etabliert. Diese norwegische Einrichtung präsentiert heute zeitgenössische Kunst und bietet eine Plattform für moderne Filmprojekte. Gäste erwartet ein kreatives Ambiente, das alte Kinogeschichte mit aktueller Kultur verbindet.", "category": "cultural", "coords": [5.736641, 58.854082]}, {"name": "Hana", "text": "Ein Hügel in Sandnes, der für seine Aussicht über die Stadt bekannt ist.", "category": "natural", "coords": [5.756725, 58.855489]}, {"name": "Ulvanutane", "text": "Ein beliebtes Wandergebiet mit Panoramablick in der Nähe von Sandnes.", "category": "natural", "coords": [5.766066, 58.861508]}, {"name": "Mindenuten", "text": "Ein Aussichtspunkt in der Natur rund um Sandnes.", "category": "natural", "coords": [5.754026, 58.851686]}, {"name": "Haa kommune", "text": "Ein Ort mit weitem Blick über die Landschaft von Jæren.", "category": "natural", "coords": [5.7671, 58.862134]}, {"name": "Sampen", "text": "Eine lokale Sehenswürdigkeit in der Umgebung von Sandnes.", "category": "landmark", "coords": [5.704351, 58.845134]}, {"name": "Langafjedle", "text": "Ein Berggipfel bei Sandnes, der ein beliebtes Ziel für Wanderer ist.", "category": "natural", "coords": [5.764864, 58.859947]}, {"name": "J.A. Budde 1811-1906", "text": "Ein Denkmal in Sandnes, das an J.A. Budde erinnert.", "category": "historical", "coords": [5.729776, 58.847579]}, {"name": "Sandnes kirke", "text": "Die Hauptkirche der Stadt Sandnes, ein markanter Backsteinbau.", "category": "religious", "coords": [5.733544, 58.852844]}, {"name": "Høyland kirke", "text": "Eine historische Kirche in Sandnes, die die Gemeinde Høyland bedient.", "category": "religious", "coords": [5.75064, 58.830884]}, {"name": "Hana kirke", "text": "Eine moderne Kirche im Stadtteil Hana in Sandnes.", "category": "religious", "coords": [5.757791, 58.864107]}, {"name": "Gand kirke", "text": "Eine große, moderne Kirche im Stadtteil Gand in Sandnes.", "category": "religious", "coords": [5.714232, 58.840195]}], "hu": [{"name": "Vitenfabrikken", "text": "Interaktív tudományos központ és múzeum Sandnes központjában.", "category": "museum", "coords": [5.730982, 58.851405]}, {"name": "Sandnes kulturhus", "text": "Regionális kulturális központ zenei és színházi előadásokhoz Sandnesben.", "category": "cultural", "coords": [5.739814, 58.851532]}, {"name": "Fogdahuset", "text": "Történelmi faház, amely ma múzeumként működik Sandnesben.", "category": "museum", "coords": [5.752808, 58.854368]}, {"name": "Sandvedparken", "text": "Kiterjedt városi park Sandnesben, amely ideális folyóparti sétákhoz.", "category": "park", "coords": [5.719772, 58.826656]}, {"name": "KinoKino", "text": "A Sandnes városában működő KinoKino egy egykori mozi épületében kapott helyet, amely ma már kulturális központként üzemel. Ez a norvég intézmény a kortárs művészeteknek és a filmnek ad otthont. A vendégeket egy olyan kreatív tér várja, ahol a mozgókép és a modern kiállítások találkoznak.", "category": "cultural", "coords": [5.736641, 58.854082]}, {"name": "Hana", "text": "Domboldal Sandnesben, amely a városra nyíló kilátásáról ismert.", "category": "natural", "coords": [5.756725, 58.855489]}, {"name": "Ulvanutane", "text": "Népszerű túrázóhely panorámás kilátással Sandnes közelében.", "category": "natural", "coords": [5.766066, 58.861508]}, {"name": "Mindenuten", "text": "Természetközeli kilátópont Sandnes környékén.", "category": "natural", "coords": [5.754026, 58.851686]}, {"name": "Haa kommune", "text": "Helyszín széles kilátással a jæreni tájra.", "category": "natural", "coords": [5.7671, 58.862134]}, {"name": "Sampen", "text": "Helyi látnivaló Sandnes környékén.", "category": "landmark", "coords": [5.704351, 58.845134]}, {"name": "Langafjedle", "text": "Hegycsúcs Sandnes mellett, amely kedvelt túracélpont.", "category": "natural", "coords": [5.764864, 58.859947]}, {"name": "J.A. Budde 1811-1906", "text": "J.A. Budde emlékére állított emlékmű Sandnesben.", "category": "historical", "coords": [5.729776, 58.847579]}, {"name": "Sandnes kirke", "text": "Sandnes városának főtemploma, egy jellegzetes téglaépület.", "category": "religious", "coords": [5.733544, 58.852844]}, {"name": "Høyland kirke", "text": "Történelmi templom Sandnesben, amely Høyland közösségét szolgálja.", "category": "religious", "coords": [5.75064, 58.830884]}, {"name": "Hana kirke", "text": "Modern templom Sandnes Hana negyedében.", "category": "religious", "coords": [5.757791, 58.864107]}, {"name": "Gand kirke", "text": "Nagy, modern templom Sandnes Gand negyedében.", "category": "religious", "coords": [5.714232, 58.840195]}], "ro": [{"name": "Vitenfabrikken", "text": "Un centru de știință interactiv și muzeu în centrul orașului Sandnes.", "category": "museum", "coords": [5.730982, 58.851405]}, {"name": "Sandnes kulturhus", "text": "Un centru cultural regional pentru muzică și teatru în Sandnes.", "category": "cultural", "coords": [5.739814, 58.851532]}, {"name": "Fogdahuset", "text": "O casă istorică din lemn care servește acum ca muzeu în Sandnes.", "category": "museum", "coords": [5.752808, 58.854368]}, {"name": "Sandvedparken", "text": "Un parc urban întins în Sandnes, ideal pentru plimbări de-a lungul râului.", "category": "park", "coords": [5.719772, 58.826656]}, {"name": "KinoKino", "text": "KinoKino este un centru cultural vibrant din Sandnes, Norvegia, amenajat în interiorul unui fost cinematograf. Vizitatorii pot explora aici diverse forme de artă contemporană și proiecții de film modern. Locația păstrează un farmec clasic, oferind în același timp o experiență creativă actuală.", "category": "cultural", "coords": [5.736641, 58.854082]}, {"name": "Hana", "text": "Un deal în Sandnes cunoscut pentru panorama oferită asupra orașului.", "category": "natural", "coords": [5.756725, 58.855489]}, {"name": "Ulvanutane", "text": "O zonă populară de drumeții cu vederi panoramice lângă Sandnes.", "category": "natural", "coords": [5.766066, 58.861508]}, {"name": "Mindenuten", "text": "Un punct de observație situat în natura din jurul orașului Sandnes.", "category": "natural", "coords": [5.754026, 58.851686]}, {"name": "Haa kommune", "text": "Un loc ce oferă o vedere largă asupra peisajului din Jæren.", "category": "natural", "coords": [5.7671, 58.862134]}, {"name": "Sampen", "text": "O atracție locală situată în împrejurimile orașului Sandnes.", "category": "landmark", "coords": [5.704351, 58.845134]}, {"name": "Langafjedle", "text": "Un vârf muntos lângă Sandnes, care este o destinație populară pentru drumeții.", "category": "natural", "coords": [5.764864, 58.859947]}, {"name": "J.A. Budde 1811-1906", "text": "Un monument în Sandnes dedicat memoriei lui J.A. Budde.", "category": "historical", "coords": [5.729776, 58.847579]}, {"name": "Sandnes kirke", "text": "Biserica principală din orașul Sandnes, o clădire din cărămidă.", "category": "religious", "coords": [5.733544, 58.852844]}, {"name": "Høyland kirke", "text": "O biserică istorică din Sandnes care deservește comunitatea Høyland.", "category": "religious", "coords": [5.75064, 58.830884]}, {"name": "Hana kirke", "text": "O biserică modernă în cartierul Hana din Sandnes.", "category": "religious", "coords": [5.757791, 58.864107]}, {"name": "Gand kirke", "text": "O biserică mare și modernă în cartierul Gand din Sandnes.", "category": "religious", "coords": [5.714232, 58.840195]}], "en": [{"name": "Vitenfabrikken", "text": "An interactive science center and museum in the center of Sandnes.", "category": "museum", "coords": [5.730982, 58.851405]}, {"name": "Sandnes kulturhus", "text": "A regional cultural hub for music and theater performances in Sandnes.", "category": "cultural", "coords": [5.739814, 58.851532]}, {"name": "Fogdahuset", "text": "A historic wooden house that now serves as a museum in Sandnes.", "category": "museum", "coords": [5.752808, 58.854368]}, {"name": "Sandvedparken", "text": "A large urban park in Sandnes, perfect for walks along the river.", "category": "park", "coords": [5.719772, 58.826656]}, {"name": "KinoKino", "text": "Housed within a former movie theater in Sandnes, KinoKino now operates as a thriving cultural center. This Norwegian venue showcases a variety of contemporary art exhibitions and film screenings. Visitors can expect a unique creative atmosphere that merges classic cinema architecture with modern artistic expression.", "category": "cultural", "coords": [5.736641, 58.854082]}, {"name": "Hana", "text": "A hillside area in Sandnes known for its views over the city.", "category": "natural", "coords": [5.756725, 58.855489]}, {"name": "Ulvanutane", "text": "A popular hiking area offering panoramic views near Sandnes.", "category": "natural", "coords": [5.766066, 58.861508]}, {"name": "Mindenuten", "text": "A scenic viewpoint located in the nature surrounding Sandnes.", "category": "natural", "coords": [5.754026, 58.851686]}, {"name": "Haa kommune", "text": "A location offering wide views across the Jæren landscape.", "category": "natural", "coords": [5.7671, 58.862134]}, {"name": "Sampen", "text": "A local point of interest in the vicinity of Sandnes.", "category": "landmark", "coords": [5.704351, 58.845134]}, {"name": "Langafjedle", "text": "A mountain peak near Sandnes that is a popular destination for hikers.", "category": "natural", "coords": [5.764864, 58.859947]}, {"name": "J.A. Budde 1811-1906", "text": "A monument in Sandnes commemorating J.A. Budde.", "category": "historical", "coords": [5.729776, 58.847579]}, {"name": "Sandnes kirke", "text": "The main parish church of Sandnes city, a prominent brick building.", "category": "religious", "coords": [5.733544, 58.852844]}, {"name": "Høyland kirke", "text": "A historic church in Sandnes serving the Høyland community.", "category": "religious", "coords": [5.75064, 58.830884]}, {"name": "Hana kirke", "text": "A modern church located in the Hana district of Sandnes.", "category": "religious", "coords": [5.757791, 58.864107]}, {"name": "Gand kirke", "text": "A large, modern church in the Gand district of Sandnes.", "category": "religious", "coords": [5.714232, 58.840195]}]},
+    id: "city-sandnes", "sights": {
+      "de": [
+            {
+                  "name": "Vitenfabrikken",
+                  "text": "Ein interaktives Wissenschaftszentrum und Museum im Zentrum von Sandnes.",
+                  "category": "museum",
+                  "coords": [
+                        5.730982,
+                        58.851405
+                  ]
+            },
+            {
+                  "name": "Sandnes kulturhus",
+                  "text": "Ein regionales Kulturzentrum für Musik und Theater in Sandnes.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739814,
+                        58.851532
+                  ]
+            },
+            {
+                  "name": "Fogdahuset",
+                  "text": "Ein historisches Holzhaus, das heute als Museum in Sandnes dient.",
+                  "category": "museum",
+                  "coords": [
+                        5.752808,
+                        58.854368
+                  ]
+            },
+            {
+                  "name": "Sandvedparken",
+                  "text": "Ein weitläufiger Stadtpark in Sandnes, ideal für Spaziergänge am Fluss.",
+                  "category": "park",
+                  "coords": [
+                        5.719772,
+                        58.826656
+                  ]
+            },
+            {
+                  "name": "KinoKino",
+                  "text": "In den Räumlichkeiten eines ehemaligen Kinos in Sandnes hat sich das Kulturzentrum KinoKino etabliert. Diese norwegische Einrichtung präsentiert heute zeitgenössische Kunst und bietet eine Plattform für moderne Filmprojekte. Gäste erwartet ein kreatives Ambiente, das alte Kinogeschichte mit aktueller Kultur verbindet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.736641,
+                        58.854082
+                  ]
+            },
+            {
+                  "name": "Hana",
+                  "text": "Ein Hügel in Sandnes, der für seine Aussicht über die Stadt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.756725,
+                        58.855489
+                  ]
+            },
+            {
+                  "name": "Ulvanutane",
+                  "text": "Ein beliebtes Wandergebiet mit Panoramablick in der Nähe von Sandnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.766066,
+                        58.861508
+                  ]
+            },
+            {
+                  "name": "Mindenuten",
+                  "text": "Ein Aussichtspunkt in der Natur rund um Sandnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.754026,
+                        58.851686
+                  ]
+            },
+            {
+                  "name": "Haa kommune",
+                  "text": "Ein Ort mit weitem Blick über die Landschaft von Jæren.",
+                  "category": "natural",
+                  "coords": [
+                        5.7671,
+                        58.862134
+                  ]
+            },
+            {
+                  "name": "Sampen",
+                  "text": "Eine lokale Sehenswürdigkeit in der Umgebung von Sandnes.",
+                  "category": "landmark",
+                  "coords": [
+                        5.704351,
+                        58.845134
+                  ]
+            },
+            {
+                  "name": "Langafjedle",
+                  "text": "Ein Berggipfel bei Sandnes, der ein beliebtes Ziel für Wanderer ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.764864,
+                        58.859947
+                  ]
+            },
+            {
+                  "name": "J.A. Budde 1811-1906",
+                  "text": "Ein Denkmal in Sandnes, das an J.A. Budde erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        5.729776,
+                        58.847579
+                  ]
+            },
+            {
+                  "name": "Sandnes kirke",
+                  "text": "Die Hauptkirche der Stadt Sandnes, ein markanter Backsteinbau.",
+                  "category": "religious",
+                  "coords": [
+                        5.733544,
+                        58.852844
+                  ]
+            },
+            {
+                  "name": "Høyland kirke",
+                  "text": "Eine historische Kirche in Sandnes, die die Gemeinde Høyland bedient.",
+                  "category": "religious",
+                  "coords": [
+                        5.75064,
+                        58.830884
+                  ]
+            },
+            {
+                  "name": "Hana kirke",
+                  "text": "Eine moderne Kirche im Stadtteil Hana in Sandnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.757791,
+                        58.864107
+                  ]
+            },
+            {
+                  "name": "Gand kirke",
+                  "text": "Eine große, moderne Kirche im Stadtteil Gand in Sandnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.714232,
+                        58.840195
+                  ]
+            },
+            {
+                  "name": "Luravika",
+                  "text": "Ein öffentlicher Badebereich in Sandnes.",
+                  "category": "recreational",
+                  "coords": [
+                        5.741369,
+                        58.874108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vitenfabrikken",
+                  "text": "Interaktív tudományos központ és múzeum Sandnes központjában.",
+                  "category": "museum",
+                  "coords": [
+                        5.730982,
+                        58.851405
+                  ]
+            },
+            {
+                  "name": "Sandnes kulturhus",
+                  "text": "Regionális kulturális központ zenei és színházi előadásokhoz Sandnesben.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739814,
+                        58.851532
+                  ]
+            },
+            {
+                  "name": "Fogdahuset",
+                  "text": "Történelmi faház, amely ma múzeumként működik Sandnesben.",
+                  "category": "museum",
+                  "coords": [
+                        5.752808,
+                        58.854368
+                  ]
+            },
+            {
+                  "name": "Sandvedparken",
+                  "text": "Kiterjedt városi park Sandnesben, amely ideális folyóparti sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        5.719772,
+                        58.826656
+                  ]
+            },
+            {
+                  "name": "KinoKino",
+                  "text": "A Sandnes városában működő KinoKino egy egykori mozi épületében kapott helyet, amely ma már kulturális központként üzemel. Ez a norvég intézmény a kortárs művészeteknek és a filmnek ad otthont. A vendégeket egy olyan kreatív tér várja, ahol a mozgókép és a modern kiállítások találkoznak.",
+                  "category": "cultural",
+                  "coords": [
+                        5.736641,
+                        58.854082
+                  ]
+            },
+            {
+                  "name": "Hana",
+                  "text": "Domboldal Sandnesben, amely a városra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.756725,
+                        58.855489
+                  ]
+            },
+            {
+                  "name": "Ulvanutane",
+                  "text": "Népszerű túrázóhely panorámás kilátással Sandnes közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.766066,
+                        58.861508
+                  ]
+            },
+            {
+                  "name": "Mindenuten",
+                  "text": "Természetközeli kilátópont Sandnes környékén.",
+                  "category": "natural",
+                  "coords": [
+                        5.754026,
+                        58.851686
+                  ]
+            },
+            {
+                  "name": "Haa kommune",
+                  "text": "Helyszín széles kilátással a jæreni tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.7671,
+                        58.862134
+                  ]
+            },
+            {
+                  "name": "Sampen",
+                  "text": "Helyi látnivaló Sandnes környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        5.704351,
+                        58.845134
+                  ]
+            },
+            {
+                  "name": "Langafjedle",
+                  "text": "Hegycsúcs Sandnes mellett, amely kedvelt túracélpont.",
+                  "category": "natural",
+                  "coords": [
+                        5.764864,
+                        58.859947
+                  ]
+            },
+            {
+                  "name": "J.A. Budde 1811-1906",
+                  "text": "J.A. Budde emlékére állított emlékmű Sandnesben.",
+                  "category": "historical",
+                  "coords": [
+                        5.729776,
+                        58.847579
+                  ]
+            },
+            {
+                  "name": "Sandnes kirke",
+                  "text": "Sandnes városának főtemploma, egy jellegzetes téglaépület.",
+                  "category": "religious",
+                  "coords": [
+                        5.733544,
+                        58.852844
+                  ]
+            },
+            {
+                  "name": "Høyland kirke",
+                  "text": "Történelmi templom Sandnesben, amely Høyland közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        5.75064,
+                        58.830884
+                  ]
+            },
+            {
+                  "name": "Hana kirke",
+                  "text": "Modern templom Sandnes Hana negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        5.757791,
+                        58.864107
+                  ]
+            },
+            {
+                  "name": "Gand kirke",
+                  "text": "Nagy, modern templom Sandnes Gand negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        5.714232,
+                        58.840195
+                  ]
+            },
+            {
+                  "name": "Luravika",
+                  "text": "Nyilvános fürdőhely Sandnes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.741369,
+                        58.874108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vitenfabrikken",
+                  "text": "Un centru de știință interactiv și muzeu în centrul orașului Sandnes.",
+                  "category": "museum",
+                  "coords": [
+                        5.730982,
+                        58.851405
+                  ]
+            },
+            {
+                  "name": "Sandnes kulturhus",
+                  "text": "Un centru cultural regional pentru muzică și teatru în Sandnes.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739814,
+                        58.851532
+                  ]
+            },
+            {
+                  "name": "Fogdahuset",
+                  "text": "O casă istorică din lemn care servește acum ca muzeu în Sandnes.",
+                  "category": "museum",
+                  "coords": [
+                        5.752808,
+                        58.854368
+                  ]
+            },
+            {
+                  "name": "Sandvedparken",
+                  "text": "Un parc urban întins în Sandnes, ideal pentru plimbări de-a lungul râului.",
+                  "category": "park",
+                  "coords": [
+                        5.719772,
+                        58.826656
+                  ]
+            },
+            {
+                  "name": "KinoKino",
+                  "text": "KinoKino este un centru cultural vibrant din Sandnes, Norvegia, amenajat în interiorul unui fost cinematograf. Vizitatorii pot explora aici diverse forme de artă contemporană și proiecții de film modern. Locația păstrează un farmec clasic, oferind în același timp o experiență creativă actuală.",
+                  "category": "cultural",
+                  "coords": [
+                        5.736641,
+                        58.854082
+                  ]
+            },
+            {
+                  "name": "Hana",
+                  "text": "Un deal în Sandnes cunoscut pentru panorama oferită asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        5.756725,
+                        58.855489
+                  ]
+            },
+            {
+                  "name": "Ulvanutane",
+                  "text": "O zonă populară de drumeții cu vederi panoramice lângă Sandnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.766066,
+                        58.861508
+                  ]
+            },
+            {
+                  "name": "Mindenuten",
+                  "text": "Un punct de observație situat în natura din jurul orașului Sandnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.754026,
+                        58.851686
+                  ]
+            },
+            {
+                  "name": "Haa kommune",
+                  "text": "Un loc ce oferă o vedere largă asupra peisajului din Jæren.",
+                  "category": "natural",
+                  "coords": [
+                        5.7671,
+                        58.862134
+                  ]
+            },
+            {
+                  "name": "Sampen",
+                  "text": "O atracție locală situată în împrejurimile orașului Sandnes.",
+                  "category": "landmark",
+                  "coords": [
+                        5.704351,
+                        58.845134
+                  ]
+            },
+            {
+                  "name": "Langafjedle",
+                  "text": "Un vârf muntos lângă Sandnes, care este o destinație populară pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        5.764864,
+                        58.859947
+                  ]
+            },
+            {
+                  "name": "J.A. Budde 1811-1906",
+                  "text": "Un monument în Sandnes dedicat memoriei lui J.A. Budde.",
+                  "category": "historical",
+                  "coords": [
+                        5.729776,
+                        58.847579
+                  ]
+            },
+            {
+                  "name": "Sandnes kirke",
+                  "text": "Biserica principală din orașul Sandnes, o clădire din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        5.733544,
+                        58.852844
+                  ]
+            },
+            {
+                  "name": "Høyland kirke",
+                  "text": "O biserică istorică din Sandnes care deservește comunitatea Høyland.",
+                  "category": "religious",
+                  "coords": [
+                        5.75064,
+                        58.830884
+                  ]
+            },
+            {
+                  "name": "Hana kirke",
+                  "text": "O biserică modernă în cartierul Hana din Sandnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.757791,
+                        58.864107
+                  ]
+            },
+            {
+                  "name": "Gand kirke",
+                  "text": "O biserică mare și modernă în cartierul Gand din Sandnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.714232,
+                        58.840195
+                  ]
+            },
+            {
+                  "name": "Luravika",
+                  "text": "O zonă publică de scăldat în Sandnes.",
+                  "category": "recreational",
+                  "coords": [
+                        5.741369,
+                        58.874108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vitenfabrikken",
+                  "text": "An interactive science center and museum in the center of Sandnes.",
+                  "category": "museum",
+                  "coords": [
+                        5.730982,
+                        58.851405
+                  ]
+            },
+            {
+                  "name": "Sandnes kulturhus",
+                  "text": "A regional cultural hub for music and theater performances in Sandnes.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739814,
+                        58.851532
+                  ]
+            },
+            {
+                  "name": "Fogdahuset",
+                  "text": "A historic wooden house that now serves as a museum in Sandnes.",
+                  "category": "museum",
+                  "coords": [
+                        5.752808,
+                        58.854368
+                  ]
+            },
+            {
+                  "name": "Sandvedparken",
+                  "text": "A large urban park in Sandnes, perfect for walks along the river.",
+                  "category": "park",
+                  "coords": [
+                        5.719772,
+                        58.826656
+                  ]
+            },
+            {
+                  "name": "KinoKino",
+                  "text": "Housed within a former movie theater in Sandnes, KinoKino now operates as a thriving cultural center. This Norwegian venue showcases a variety of contemporary art exhibitions and film screenings. Visitors can expect a unique creative atmosphere that merges classic cinema architecture with modern artistic expression.",
+                  "category": "cultural",
+                  "coords": [
+                        5.736641,
+                        58.854082
+                  ]
+            },
+            {
+                  "name": "Hana",
+                  "text": "A hillside area in Sandnes known for its views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        5.756725,
+                        58.855489
+                  ]
+            },
+            {
+                  "name": "Ulvanutane",
+                  "text": "A popular hiking area offering panoramic views near Sandnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.766066,
+                        58.861508
+                  ]
+            },
+            {
+                  "name": "Mindenuten",
+                  "text": "A scenic viewpoint located in the nature surrounding Sandnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.754026,
+                        58.851686
+                  ]
+            },
+            {
+                  "name": "Haa kommune",
+                  "text": "A location offering wide views across the Jæren landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.7671,
+                        58.862134
+                  ]
+            },
+            {
+                  "name": "Sampen",
+                  "text": "A local point of interest in the vicinity of Sandnes.",
+                  "category": "landmark",
+                  "coords": [
+                        5.704351,
+                        58.845134
+                  ]
+            },
+            {
+                  "name": "Langafjedle",
+                  "text": "A mountain peak near Sandnes that is a popular destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        5.764864,
+                        58.859947
+                  ]
+            },
+            {
+                  "name": "J.A. Budde 1811-1906",
+                  "text": "A monument in Sandnes commemorating J.A. Budde.",
+                  "category": "historical",
+                  "coords": [
+                        5.729776,
+                        58.847579
+                  ]
+            },
+            {
+                  "name": "Sandnes kirke",
+                  "text": "The main parish church of Sandnes city, a prominent brick building.",
+                  "category": "religious",
+                  "coords": [
+                        5.733544,
+                        58.852844
+                  ]
+            },
+            {
+                  "name": "Høyland kirke",
+                  "text": "A historic church in Sandnes serving the Høyland community.",
+                  "category": "religious",
+                  "coords": [
+                        5.75064,
+                        58.830884
+                  ]
+            },
+            {
+                  "name": "Hana kirke",
+                  "text": "A modern church located in the Hana district of Sandnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.757791,
+                        58.864107
+                  ]
+            },
+            {
+                  "name": "Gand kirke",
+                  "text": "A large, modern church in the Gand district of Sandnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.714232,
+                        58.840195
+                  ]
+            },
+            {
+                  "name": "Luravika",
+                  "text": "A public swimming area in Sandnes.",
+                  "category": "recreational",
+                  "coords": [
+                        5.741369,
+                        58.874108
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "norway",
     coords: [5.7280, 58.8539],
@@ -17883,6 +19953,15 @@ export const norwayCities: POI[] = [
                         10.456487,
                         61.110386
                   ]
+            },
+            {
+                  "name": "Abbortjern",
+                  "text": "Ein Naturbadeplatz in der Nähe von Lillehammer, der von Wald umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.518363,
+                        61.134571
+                  ]
             }
       ],
       "hu": [
@@ -18091,6 +20170,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.456487,
                         61.110386
+                  ]
+            },
+            {
+                  "name": "Abbortjern",
+                  "text": "Természetes fürdőhely Lillehammer közelében, erdővel körülvett környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.518363,
+                        61.134571
                   ]
             }
       ],
@@ -18301,6 +20389,15 @@ export const norwayCities: POI[] = [
                         10.456487,
                         61.110386
                   ]
+            },
+            {
+                  "name": "Abbortjern",
+                  "text": "Un loc natural de scăldat lângă Lillehammer, situat într-o zonă înconjurată de pădure.",
+                  "category": "recreational",
+                  "coords": [
+                        10.518363,
+                        61.134571
+                  ]
             }
       ],
       "en": [
@@ -18509,6 +20606,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.456487,
                         61.110386
+                  ]
+            },
+            {
+                  "name": "Abbortjern",
+                  "text": "A natural swimming spot near Lillehammer, surrounded by forest.",
+                  "category": "recreational",
+                  "coords": [
+                        10.518363,
+                        61.134571
                   ]
             }
       ]
@@ -20350,7 +22456,52 @@ export const norwayCulture: POI[] = [
     image: "/geo-images/norway/bergenhus-fortress.webp",
   },
   {
-    id: "hist-gamlebyen-fredrikstad",
+    id: "hist-gamlebyen-fredrikstad", "sights": {
+      "de": [
+            {
+                  "name": "Enhus",
+                  "text": "Ein beliebter Badeplatz in Fredrikstad mit familienfreundlicher Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        10.900708,
+                        59.185389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Enhus",
+                  "text": "Népszerű fürdőhely Fredrikstadban, családbarát környezettel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.900708,
+                        59.185389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Enhus",
+                  "text": "Un loc popular pentru înot în Fredrikstad, cu o atmosferă potrivită pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        10.900708,
+                        59.185389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enhus",
+                  "text": "A popular swimming spot in Fredrikstad with a family-friendly atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        10.900708,
+                        59.185389
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "norway",
     coords: [10.9473, 59.2054],
@@ -21088,7 +23239,52 @@ export const norwayCulture: POI[] = [
     image: "/geo-images/norway/nationaltheatret.webp",
   },
   {
-    id: "landmark-arctic-cathedral",
+    id: "landmark-arctic-cathedral", "sights": {
+      "de": [
+            {
+                  "name": "Pust",
+                  "text": "Ein Badebereich in Tromsø in der Nähe der markanten Eismeerkathedrale.",
+                  "category": "recreational",
+                  "coords": [
+                        18.962609,
+                        69.650948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pust",
+                  "text": "Fürdőhely Tromsø-ben, a jellegzetes Sarkvidéki Székesegyház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.962609,
+                        69.650948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pust",
+                  "text": "O zonă de înot în Tromsø, situată în apropierea emblematicei Catedrale Arctice.",
+                  "category": "recreational",
+                  "coords": [
+                        18.962609,
+                        69.650948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pust",
+                  "text": "A swimming area in Tromsø, located near the iconic Arctic Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        18.962609,
+                        69.650948
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "norway",
     coords: [18.9570, 69.6489],
@@ -21318,6 +23514,15 @@ export const norwayCulture: POI[] = [
                         4.988848,
                         60.824149
                   ]
+            },
+            {
+                  "name": "Kaland skule, basseng",
+                  "text": "Ein Schwimmbad in der Nähe der Raffinerie Mongstad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.000006,
+                        60.801352
+                  ]
             }
       ],
       "hu": [
@@ -21328,6 +23533,15 @@ export const norwayCulture: POI[] = [
                   "coords": [
                         4.988848,
                         60.824149
+                  ]
+            },
+            {
+                  "name": "Kaland skule, basseng",
+                  "text": "Egy úszómedence a Mongstad finomító közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.000006,
+                        60.801352
                   ]
             }
       ],
@@ -21340,6 +23554,15 @@ export const norwayCulture: POI[] = [
                         4.988848,
                         60.824149
                   ]
+            },
+            {
+                  "name": "Kaland skule, basseng",
+                  "text": "O piscină situată lângă rafinăria Mongstad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.000006,
+                        60.801352
+                  ]
             }
       ],
       "en": [
@@ -21350,6 +23573,15 @@ export const norwayCulture: POI[] = [
                   "coords": [
                         4.988848,
                         60.824149
+                  ]
+            },
+            {
+                  "name": "Kaland skule, basseng",
+                  "text": "A swimming pool facility located near the Mongstad Refinery.",
+                  "category": "recreational",
+                  "coords": [
+                        5.000006,
+                        60.801352
                   ]
             }
       ]

@@ -1822,7 +1822,52 @@ imageHint: "Siglufjordur harbour and Herring Era Museum",
     },
     image: "/poi-images/iceland-siglufjordur-port-economic-v2.webp",
 },  {
-    id: "iceland-akranes-port-economic-v2",
+    id: "iceland-akranes-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Langisandur",
+                  "text": "Ein beliebter Sandstrand in der isländischen Stadt Akranes.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.056082,
+                        64.315694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Langisandur",
+                  "text": "Népszerű homokos strand az izlandi Akranes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.056082,
+                        64.315694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Langisandur",
+                  "text": "O plajă populară cu nisip în orașul islandez Akranes.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.056082,
+                        64.315694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Langisandur",
+                  "text": "A popular sandy beach located in the Icelandic town of Akranes.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.056082,
+                        64.315694
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "port",
     name: { de: "Hafen von Akranes", hu: "Akranes kikötője", ro: "Portul Akranes", en: "Akranes Port"},

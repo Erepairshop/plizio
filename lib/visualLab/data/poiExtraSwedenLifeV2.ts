@@ -1419,6 +1419,15 @@ imageHint: "Tiveden National Park mossy boulders and forest",
                         11.481514,
                         58.42518
                   ]
+            },
+            {
+                  "name": "Badplats Röd",
+                  "text": "Ein öffentlicher Badeplatz in der Nähe des Zoos Nordens Ark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.427091,
+                        58.427567
+                  ]
             }
       ],
       "hu": [
@@ -1492,6 +1501,15 @@ imageHint: "Tiveden National Park mossy boulders and forest",
                   "coords": [
                         11.481514,
                         58.42518
+                  ]
+            },
+            {
+                  "name": "Badplats Röd",
+                  "text": "A Nordens Ark állatkert közelében található nyilvános fürdőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        11.427091,
+                        58.427567
                   ]
             }
       ],
@@ -1567,6 +1585,15 @@ imageHint: "Tiveden National Park mossy boulders and forest",
                         11.481514,
                         58.42518
                   ]
+            },
+            {
+                  "name": "Badplats Röd",
+                  "text": "O zonă de baie publică situată lângă parcul zoologic Nordens Ark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.427091,
+                        58.427567
+                  ]
             }
       ],
       "en": [
@@ -1640,6 +1667,15 @@ imageHint: "Tiveden National Park mossy boulders and forest",
                   "coords": [
                         11.481514,
                         58.42518
+                  ]
+            },
+            {
+                  "name": "Badplats Röd",
+                  "text": "A public bathing area located near the Nordens Ark zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        11.427091,
+                        58.427567
                   ]
             }
       ]
@@ -1762,6 +1798,15 @@ imageHint: "Nordens Ark snow leopard in enclosure",
                         16.445428,
                         58.663015
                   ]
+            },
+            {
+                  "name": "Råsslabadet",
+                  "text": "Ein öffentliches Schwimmbad in der Nähe des Tierparks Kolmården.",
+                  "category": "recreational",
+                  "coords": [
+                        16.376946,
+                        58.664079
+                  ]
             }
       ],
       "hu": [
@@ -1835,6 +1880,15 @@ imageHint: "Nordens Ark snow leopard in enclosure",
                   "coords": [
                         16.445428,
                         58.663015
+                  ]
+            },
+            {
+                  "name": "Råsslabadet",
+                  "text": "Nyilvános úszómedence a Kolmården vadaspark közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.376946,
+                        58.664079
                   ]
             }
       ],
@@ -1910,6 +1964,15 @@ imageHint: "Nordens Ark snow leopard in enclosure",
                         16.445428,
                         58.663015
                   ]
+            },
+            {
+                  "name": "Råsslabadet",
+                  "text": "O piscină publică situată în apropierea parcului de animale sălbatice Kolmården.",
+                  "category": "recreational",
+                  "coords": [
+                        16.376946,
+                        58.664079
+                  ]
             }
       ],
       "en": [
@@ -1983,6 +2046,15 @@ imageHint: "Nordens Ark snow leopard in enclosure",
                   "coords": [
                         16.445428,
                         58.663015
+                  ]
+            },
+            {
+                  "name": "Råsslabadet",
+                  "text": "A public swimming pool located in the vicinity of Kolmården Wildlife Park.",
+                  "category": "recreational",
+                  "coords": [
+                        16.376946,
+                        58.664079
                   ]
             }
       ]
@@ -3364,6 +3436,15 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
                         18.666068,
                         64.583423
                   ]
+            },
+            {
+                  "name": "Lycksele Simhall",
+                  "text": "Ein öffentliches Schwimmbad und eine Wasseranlage in Lycksele.",
+                  "category": "recreational",
+                  "coords": [
+                        18.673074,
+                        64.595071
+                  ]
             }
       ],
       "hu": [
@@ -3428,6 +3509,15 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
                   "coords": [
                         18.666068,
                         64.583423
+                  ]
+            },
+            {
+                  "name": "Lycksele Simhall",
+                  "text": "Nyilvános úszómedence és vízi létesítmény Lycksele városában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.673074,
+                        64.595071
                   ]
             }
       ],
@@ -3494,6 +3584,15 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
                         18.666068,
                         64.583423
                   ]
+            },
+            {
+                  "name": "Lycksele Simhall",
+                  "text": "O piscină publică și facilitate acvatică în Lycksele.",
+                  "category": "recreational",
+                  "coords": [
+                        18.673074,
+                        64.595071
+                  ]
             }
       ],
       "en": [
@@ -3558,6 +3657,15 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
                   "coords": [
                         18.666068,
                         64.583423
+                  ]
+            },
+            {
+                  "name": "Lycksele Simhall",
+                  "text": "A public swimming pool and aquatic facility in Lycksele.",
+                  "category": "recreational",
+                  "coords": [
+                        18.673074,
+                        64.595071
                   ]
             }
       ]
@@ -4060,6 +4168,24 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                         12.463367,
                         56.302228
                   ]
+            },
+            {
+                  "name": "Nakenbad för damer",
+                  "text": "Ein spezieller Badebereich für Damen im Naturschutzgebiet Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "Ein Badeort an der Küste des Naturschutzgebiets Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
+                  ]
             }
       ],
       "hu": [
@@ -4124,6 +4250,24 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   "coords": [
                         12.463367,
                         56.302228
+                  ]
+            },
+            {
+                  "name": "Nakenbad för damer",
+                  "text": "Női strandrész a Kullaberg természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "Fürdőhely a Kullaberg természetvédelmi terület partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
                   ]
             }
       ],
@@ -4190,6 +4334,24 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                         12.463367,
                         56.302228
                   ]
+            },
+            {
+                  "name": "Nakenbad för damer",
+                  "text": "O zonă de scăldat dedicată doamnelor în rezervația naturală Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "O locație pentru scăldat pe coasta rezervației naturale Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
+                  ]
             }
       ],
       "en": [
@@ -4254,6 +4416,24 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   "coords": [
                         12.463367,
                         56.302228
+                  ]
+            },
+            {
+                  "name": "Nude bath for Ladies",
+                  "text": "A designated swimming area for ladies within the Kullaberg Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "A coastal bathing location in the Kullaberg Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
                   ]
             }
       ]
@@ -4367,6 +4547,15 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                         13.227427,
                         56.040115
                   ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "Ein Wasserpark am Rande des Nationalparks Söderåsen in Schweden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
+                  ]
             }
       ],
       "hu": [
@@ -4431,6 +4620,15 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   "coords": [
                         13.227427,
                         56.040115
+                  ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "Vízipark a svédországi Söderåsen Nemzeti Park szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
                   ]
             }
       ],
@@ -4497,6 +4695,15 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                         13.227427,
                         56.040115
                   ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "Un parc acvatic situat la marginea Parcului Național Söderåsen din Suedia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
+                  ]
             }
       ],
       "en": [
@@ -4561,6 +4768,15 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   "coords": [
                         13.227427,
                         56.040115
+                  ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "A water park located at the edge of the Söderåsen National Park in Sweden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
                   ]
             }
       ]

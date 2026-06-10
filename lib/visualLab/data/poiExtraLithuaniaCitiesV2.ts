@@ -7717,7 +7717,916 @@ imageHint: "Visaginas modern apartment buildings in forest",
     },
     image: "/poi-images/lithuania-visaginas-cities-v2.webp",
 },  {
-    id: "lithuania-taurage-cities-v2", "sights": {"de": [{"name": "Tauragės pilis", "text": "Ein ehemaliges Zollgebäude im Stil einer Burg, das heute das Regionalmuseum von Tauragė beherbergt.", "category": "castle", "coords": [22.284224, 55.252662]}, {"name": "Keramikos Pliažas", "text": "Ein beliebter Strandbereich in Tauragė, der zur Erholung am Wasser einlädt.", "category": "recreational", "coords": [22.316327, 55.245517]}, {"name": "Taurų Kultūros namai", "text": "Ein lokales Kulturzentrum in Tauragė, das verschiedene Veranstaltungen und Aktivitäten anbietet.", "category": "cultural", "coords": [22.251258, 55.241276]}, {"name": "Liberty Beach", "text": "Der Liberty Beach in Tauragė ist ein vielseitiger Freizeitbereich, der Erholung am Wasser neu definiert. Mit seinen Angeboten für Wassersport und ruhigen Eckchen zum Sonnenbaden zieht er Familien und Aktive gleichermaßen an. Im Hochsommer ist dies der ideale Ort, um sich abzukühlen und einen vergnüglichen Tag zu verbringen.", "category": "family", "coords": [22.318162, 55.23779]}, {"name": "Tauragės kultūros rūmai", "text": "Das zentrale Kulturhaus der Stadt Tauragė für Theateraufführungen und Konzerte.", "category": "cultural", "coords": [22.282762, 55.251639]}, {"name": "Tauragės Vasaros estrada", "text": "Eine Freilichtbühne in Tauragė, die im Sommer als Veranstaltungsort für Konzerte dient.", "category": "cultural", "coords": [22.279677, 55.244283]}, {"name": "Taurų nuotykių parkas", "text": "Ein aktiver Park in Tauragė mit Kletterparcours und verschiedenen Outdoor-Attraktionen.", "category": "family", "coords": [22.251005, 55.233816]}, {"name": "1927 Metų sukilimo dalyviams", "text": "Ein Denkmal in Tauragė zum Gedenken an die Teilnehmer des Aufstands von 1927.", "category": "historical", "coords": [22.270505, 55.258744]}, {"name": "Vaizdas į Jūros upės slėnį", "text": "Ein Aussichtspunkt in Tauragė, der einen weiten Blick über das Tal des Flusses Jūra bietet.", "category": "natural", "coords": [22.283714, 55.247794]}, {"name": "Evangelisch-Lutherische Kirche Tauragė Martynas Mažvydas", "text": "Eine lutherische Kirche in Tauragė, benannt nach dem Verfasser des ersten litauischen Buches.", "category": "religious", "coords": [22.290874, 55.252393]}, {"name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė", "text": "Eine orthodoxe Kirche in Tauragė, die den Märtyrern von Vilnius gewidmet ist.", "category": "religious", "coords": [22.292895, 55.240785]}, {"name": "Tauragės Švč. Trejybės bažnyčia", "text": "Die katholische Hauptkirche von Tauragė, ein markantes sakrales Bauwerk der Stadt.", "category": "religious", "coords": [22.284273, 55.249103]}, {"name": "Bagdono tv.", "text": "Bagdono tv. in Taurage bietet eine entspannte Umgebung für Spaziergänge in der Natur.", "category": "natural", "coords": [22.279933, 55.25572]}, {"name": "Zumpės tv.", "text": "Zumpės tv. in Taurage ist ein ruhiges Gewässer, das zum Verweilen und zur Erholung einlädt.", "category": "natural", "coords": [22.305949, 55.253047]}, {"name": "Tauragės tv.", "text": "Ein ruhig gelegener See in Tauragė, der zu entspannten Spaziergängen in der Natur einlädt.", "category": "natural", "coords": [22.266285, 55.260283]}, {"name": "Tramys II tv.", "text": "Dieser See in Tauragė bietet eine malerische Kulisse für Erholungssuchende und Naturliebhaber.", "category": "natural", "coords": [22.320501, 55.235592]}, {"name": "Peršokšnai tv.", "text": "Ein natürliches Gewässer in Tauragė, ideal für eine kurze Auszeit am Wasser.", "category": "natural", "coords": [22.321551, 55.237285]}, {"name": "Zirnajys tv.", "text": "Ein friedlicher See in Tauragė, der sich hervorragend für die Beobachtung der lokalen Landschaft eignet.", "category": "natural", "coords": [22.314689, 55.240732]}, {"name": "Lukštas tv.", "text": "Genießen Sie die ruhige Atmosphäre an diesem See in Tauragė bei einem gemütlichen Aufenthalt.", "category": "natural", "coords": [22.317993, 55.240184]}, {"name": "Dapkiškių tv.", "text": "Ein schöner See in Tauragė, der eine ruhige Umgebung für Naturbetrachtungen bietet.", "category": "natural", "coords": [22.232059, 55.274034]}, {"name": "Baltrušaičių tv.", "text": "Ein ruhiges Gewässer in Tauragė, ideal für einen erholsamen Spaziergang am Ufer.", "category": "natural", "coords": [22.379727, 55.226551]}, {"name": "Dauglaukio I tv.", "text": "Dieser See in Tauragė lädt dazu ein, die friedliche Natur und die frische Luft zu genießen.", "category": "natural", "coords": [22.226315, 55.186346]}, {"name": "Meižių tv.", "text": "Ein beschaulicher See in Tauragė, der einen schönen Anblick für Vorbeikommende bietet.", "category": "natural", "coords": [22.308337, 55.186293]}, {"name": "Taurų tv.", "text": "Ein lokaler See in Tauragė, der sich gut für eine kleine Pause im Grünen eignet.", "category": "natural", "coords": [22.232037, 55.234644]}], "hu": [{"name": "Tauragės pilis", "text": "Egy vár stílusú egykori vámszoba, amely ma a Tauragėi Regionális Múzeumnak ad otthont.", "category": "castle", "coords": [22.284224, 55.252662]}, {"name": "Keramikos Pliažas", "text": "Népszerű strandterület Tauragėban, amely vízparti kikapcsolódásra hív.", "category": "recreational", "coords": [22.316327, 55.245517]}, {"name": "Taurų Kultūros namai", "text": "Helyi kulturális központ Tauragėban, amely különféle rendezvényeknek és tevékenységeknek ad otthont.", "category": "cultural", "coords": [22.251258, 55.241276]}, {"name": "Liberty Beach", "text": "A tauragėi Liberty Beach egy sokoldalú szabadidős terület, amely újraértelmezi a vízparti kikapcsolódást. A vízi sportokhoz és a csendes napozáshoz kínált lehetőségeivel egyaránt vonzza a családokat és az aktív pihenés kedvelőit. A nyár derekán ez a tökéletes hely a felfrissülésre és egy vidám nap eltöltésére.", "category": "family", "coords": [22.318162, 55.23779]}, {"name": "Tauragės kultūros rūmai", "text": "Tauragė város központi kultúrháza színházi előadásokhoz és koncertekhez.", "category": "cultural", "coords": [22.282762, 55.251639]}, {"name": "Tauragės Vasaros estrada", "text": "Szabadtéri színpad Tauragėban, amely nyáron koncertek helyszínéül szolgál.", "category": "cultural", "coords": [22.279677, 55.244283]}, {"name": "Taurų nuotykių parkas", "text": "Aktív park Tauragėban mászópályákkal és különféle szabadtéri attrakciókkal.", "category": "family", "coords": [22.251005, 55.233816]}, {"name": "1927 Metų sukilimo dalyviams", "text": "Emlékmű Tauragėban az 1927-es felkelés résztvevőinek emlékére.", "category": "historical", "coords": [22.270505, 55.258744]}, {"name": "Vaizdas į Jūros upės slėnį", "text": "Kilátópálya Tauragėban, ahonnan széles kilátás nyílik a Jūra-folyó völgyére.", "category": "natural", "coords": [22.283714, 55.247794]}, {"name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia", "text": "Evangélikus templom Tauragėban, az első litván könyv szerzőjéről elnevezve.", "category": "religious", "coords": [22.290874, 55.252393]}, {"name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė", "text": "Ortodox templom Tauragėban, amelyet a vilniusi vértanúknak szenteltek.", "category": "religious", "coords": [22.292895, 55.240785]}, {"name": "Tauragės Švč. Trejybės bažnyčia", "text": "Tauragė fő katolikus temploma, a város egyik jellegzetes szakrális építménye.", "category": "religious", "coords": [22.284273, 55.249103]}, {"name": "Bagdono tv.", "text": "A Taurage területén fekvő Bagdono tv. pihentető környezetet kínál a természeti sétákhoz.", "category": "natural", "coords": [22.279933, 55.25572]}, {"name": "Zumpės tv.", "text": "A Taurage városában található Zumpės tv. egy nyugodt állóvíz, amely pihenésre és kikapcsolódásra hív.", "category": "natural", "coords": [22.305949, 55.253047]}, {"name": "Tauragės tv.", "text": "Egy csendes tó Tauragė területén, amely kellemes sétákra hív a természetben.", "category": "natural", "coords": [22.266285, 55.260283]}, {"name": "Tramys II tv.", "text": "Ez a tó Tauragė területén festői környezetet kínál a pihenni vágyóknak és a természet kedvelőinek.", "category": "natural", "coords": [22.320501, 55.235592]}, {"name": "Peršokšnai tv.", "text": "Egy természetes vízfelület Tauragė területén, amely ideális egy rövid pihenőhöz a vízparton.", "category": "natural", "coords": [22.321551, 55.237285]}, {"name": "Zirnajys tv.", "text": "Egy békés tó Tauragė területén, amely kiválóan alkalmas a helyi táj megfigyelésére.", "category": "natural", "coords": [22.314689, 55.240732]}, {"name": "Lukštas tv.", "text": "Élvezze a nyugodt légkört ennél a tónál Tauragė területén egy kellemes időtöltés során.", "category": "natural", "coords": [22.317993, 55.240184]}, {"name": "Dapkiškių tv.", "text": "Egy szép tó Tauragė területén, amely nyugodt környezetet biztosít a természetjáráshoz.", "category": "natural", "coords": [22.232059, 55.274034]}, {"name": "Baltrušaičių tv.", "text": "Egy nyugodt vízfelület Tauragė területén, amely ideális egy pihentető sétához a parton.", "category": "natural", "coords": [22.379727, 55.226551]}, {"name": "Dauglaukio I tv.", "text": "Ez a tó Tauragė területén arra hív, hogy élvezze a békés természetet és a friss levegőt.", "category": "natural", "coords": [22.226315, 55.186346]}, {"name": "Meižių tv.", "text": "Egy nyugodt tó Tauragė területén, amely szép látványt nyújt az arra járóknak.", "category": "natural", "coords": [22.308337, 55.186293]}, {"name": "Taurų tv.", "text": "Egy helyi tó Tauragė területén, amely jól megfelel egy kis pihenőnek a zöldben.", "category": "natural", "coords": [22.232037, 55.234644]}], "ro": [{"name": "Tauragės pilis", "text": "O fostă clădire vamală în stil de castel, care astăzi găzduiește muzeul regional din Tauragė.", "category": "castle", "coords": [22.284224, 55.252662]}, {"name": "Keramikos Pliažas", "text": "O zonă de plajă populară din Tauragė, care invită la recreere pe malul apei.", "category": "recreational", "coords": [22.316327, 55.245517]}, {"name": "Taurų Kultūros namai", "text": "Un centru cultural local din Tauragė, care oferă diverse evenimente și activități.", "category": "cultural", "coords": [22.251258, 55.241276]}, {"name": "Liberty Beach", "text": "Liberty Beach din Tauragė este o zonă de agrement versatilă care redefinește relaxarea pe malul apei. Cu opțiuni pentru sporturi nautice și colțuri liniștite pentru plajă, atrage deopotrivă familiile și iubitorii de mișcare. În plină vară, este destinația ideală pentru a te răcori și a petrece o zi plină de bucurie.", "category": "family", "coords": [22.318162, 55.23779]}, {"name": "Tauragės kultūros rūmai", "text": "Casa centrală de cultură a orașului Tauragė pentru spectacole de teatru și concerte.", "category": "cultural", "coords": [22.282762, 55.251639]}, {"name": "Tauragės Vasaros estrada", "text": "O scenă în aer liber din Tauragė, care servește ca loc de desfășurare a concertelor pe timp de vară.", "category": "cultural", "coords": [22.279677, 55.244283]}, {"name": "Taurų nuotykių parkas", "text": "Un parc activ din Tauragė cu trasee de cățărare și diverse atracții în aer liber.", "category": "family", "coords": [22.251005, 55.233816]}, {"name": "1927 Metų sukilimo dalyviams", "text": "Un monument în Tauragė dedicat memoriei participanților la revolta din 1927.", "category": "historical", "coords": [22.270505, 55.258744]}, {"name": "Vaizdas į Jūros upės slėnį", "text": "Un punct de observare din Tauragė care oferă o vedere panoramică asupra văii râului Jūra.", "category": "natural", "coords": [22.283714, 55.247794]}, {"name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia", "text": "O biserică luterană din Tauragė, numită după autorul primei cărți lituaniene.", "category": "religious", "coords": [22.290874, 55.252393]}, {"name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė", "text": "O biserică ortodoxă din Tauragė, dedicată martirilor din Vilnius.", "category": "religious", "coords": [22.292895, 55.240785]}, {"name": "Tauragės Švč. Trejybės bažnyčia", "text": "Biserica catolică principală din Tauragė, un edificiu sacru proeminent al orașului.", "category": "religious", "coords": [22.284273, 55.249103]}, {"name": "Bagdono tv.", "text": "Bagdono tv. din Taurage oferă un mediu relaxant pentru plimbări în natură.", "category": "natural", "coords": [22.279933, 55.25572]}, {"name": "Zumpės tv.", "text": "Zumpės tv. din Taurage este un luciu de apă liniștit care invită la relaxare și odihnă.", "category": "natural", "coords": [22.305949, 55.253047]}, {"name": "Tauragės tv.", "text": "Un lac liniștit în Tauragė, ideal pentru plimbări relaxante în natură.", "category": "natural", "coords": [22.266285, 55.260283]}, {"name": "Tramys II tv.", "text": "Acest lac din Tauragė oferă un cadru pitoresc pentru relaxare și iubitorii de natură.", "category": "natural", "coords": [22.320501, 55.235592]}, {"name": "Peršokšnai tv.", "text": "O oglindă de apă naturală în Tauragė, ideală pentru o scurtă pauză pe malul apei.", "category": "natural", "coords": [22.321551, 55.237285]}, {"name": "Zirnajys tv.", "text": "Un lac liniștit în Tauragė, excelent pentru observarea peisajului local.", "category": "natural", "coords": [22.314689, 55.240732]}, {"name": "Lukštas tv.", "text": "Bucurați-vă de atmosfera calmă de la acest lac din Tauragė în timpul unei șederi plăcute.", "category": "natural", "coords": [22.317993, 55.240184]}, {"name": "Dapkiškių tv.", "text": "Un lac frumos în Tauragė, care oferă un mediu liniștit pentru observarea naturii.", "category": "natural", "coords": [22.232059, 55.274034]}, {"name": "Baltrušaičių tv.", "text": "O apă liniștită în Tauragė, ideală pentru o plimbare relaxantă pe mal.", "category": "natural", "coords": [22.379727, 55.226551]}, {"name": "Dauglaukio I tv.", "text": "Acest lac din Tauragė vă invită să vă bucurați de natura liniștită și de aerul curat.", "category": "natural", "coords": [22.226315, 55.186346]}, {"name": "Meižių tv.", "text": "Un lac liniștit în Tauragė, care oferă o priveliște frumoasă pentru trecători.", "category": "natural", "coords": [22.308337, 55.186293]}, {"name": "Taurų tv.", "text": "Un lac local în Tauragė, potrivit pentru o mică pauză în mijlocul naturii.", "category": "natural", "coords": [22.232037, 55.234644]}], "en": [{"name": "Tauragės pilis", "text": "A former customs building designed in the style of a castle, now housing the Tauragė Regional Museum.", "category": "castle", "coords": [22.284224, 55.252662]}, {"name": "Keramikos Pliažas", "text": "A popular beach area in Tauragė, inviting relaxation by the water.", "category": "recreational", "coords": [22.316327, 55.245517]}, {"name": "Taurų Kultūros namai", "text": "A local cultural center in Tauragė offering various events and activities.", "category": "cultural", "coords": [22.251258, 55.241276]}, {"name": "Liberty Beach", "text": "Liberty Beach in Tauragė is a versatile leisure area that perfectly redefines waterfront recreation. With its options for watersports and quiet corners for sunbathing, it easily attracts active visitors and families alike. During peak summer, it stands as the ideal spot to cool off and enjoy a fun-filled day.", "category": "family", "coords": [22.318162, 55.23779]}, {"name": "Tauragės kultūros rūmai", "text": "The central cultural house of Tauragė for theater performances and concerts.", "category": "cultural", "coords": [22.282762, 55.251639]}, {"name": "Tauragės Vasaros estrada", "text": "An open-air stage in Tauragė that serves as a venue for concerts during the summer.", "category": "cultural", "coords": [22.279677, 55.244283]}, {"name": "Taurų nuotykių parkas", "text": "An active park in Tauragė featuring climbing courses and various outdoor attractions.", "category": "family", "coords": [22.251005, 55.233816]}, {"name": "1927 Metų sukilimo dalyviams", "text": "A monument in Tauragė commemorating the participants of the 1927 uprising.", "category": "historical", "coords": [22.270505, 55.258744]}, {"name": "Vaizdas į Jūros upės slėnį", "text": "A viewpoint in Tauragė offering a wide vista over the valley of the Jūra River.", "category": "natural", "coords": [22.283714, 55.247794]}, {"name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia", "text": "A Lutheran church in Tauragė named after the author of the first Lithuanian book.", "category": "religious", "coords": [22.290874, 55.252393]}, {"name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė", "text": "An Orthodox church in Tauragė dedicated to the martyrs of Vilnius.", "category": "religious", "coords": [22.292895, 55.240785]}, {"name": "Tauragės Švč. Trejybės bažnyčia", "text": "The main Catholic church of Tauragė, a prominent sacred building in the city.", "category": "religious", "coords": [22.284273, 55.249103]}, {"name": "Bagdono tv.", "text": "Bagdono tv. in Taurage offers a relaxing environment for walks in nature.", "category": "natural", "coords": [22.279933, 55.25572]}, {"name": "Zumpės tv.", "text": "Zumpės tv. in Taurage is a quiet body of water inviting visitors to stay and relax.", "category": "natural", "coords": [22.305949, 55.253047]}, {"name": "Tauragės tv.", "text": "A peaceful lake in Tauragė, perfect for relaxing walks in nature.", "category": "natural", "coords": [22.266285, 55.260283]}, {"name": "Tramys II tv.", "text": "This lake in Tauragė offers a scenic setting for relaxation and nature lovers.", "category": "natural", "coords": [22.320501, 55.235592]}, {"name": "Peršokšnai tv.", "text": "A natural body of water in Tauragė, ideal for a short break by the lakeside.", "category": "natural", "coords": [22.321551, 55.237285]}, {"name": "Zirnajys tv.", "text": "A peaceful lake in Tauragė, excellent for observing the local scenery.", "category": "natural", "coords": [22.314689, 55.240732]}, {"name": "Lukštas tv.", "text": "Enjoy the quiet atmosphere at this lake in Tauragė during a pleasant stay.", "category": "natural", "coords": [22.317993, 55.240184]}, {"name": "Dapkiškių tv.", "text": "A beautiful lake in Tauragė, providing a calm environment for nature viewing.", "category": "natural", "coords": [22.232059, 55.274034]}, {"name": "Baltrušaičių tv.", "text": "A quiet body of water in Tauragė, ideal for a restful walk along the shore.", "category": "natural", "coords": [22.379727, 55.226551]}, {"name": "Dauglaukio I tv.", "text": "This lake in Tauragė invites you to enjoy the peaceful nature and fresh air.", "category": "natural", "coords": [22.226315, 55.186346]}, {"name": "Meižių tv.", "text": "A tranquil lake in Tauragė, offering a pleasant sight for those passing by.", "category": "natural", "coords": [22.308337, 55.186293]}, {"name": "Taurų tv.", "text": "A local lake in Tauragė, well-suited for a short break in the greenery.", "category": "natural", "coords": [22.232037, 55.234644]}]},
+    id: "lithuania-taurage-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "Ein ehemaliges Zollgebäude im Stil einer Burg, das heute das Regionalmuseum von Tauragė beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "Ein beliebter Strandbereich in Tauragė, der zur Erholung am Wasser einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "Ein lokales Kulturzentrum in Tauragė, das verschiedene Veranstaltungen und Aktivitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "Der Liberty Beach in Tauragė ist ein vielseitiger Freizeitbereich, der Erholung am Wasser neu definiert. Mit seinen Angeboten für Wassersport und ruhigen Eckchen zum Sonnenbaden zieht er Familien und Aktive gleichermaßen an. Im Hochsommer ist dies der ideale Ort, um sich abzukühlen und einen vergnüglichen Tag zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "Das zentrale Kulturhaus der Stadt Tauragė für Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "Eine Freilichtbühne in Tauragė, die im Sommer als Veranstaltungsort für Konzerte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "Ein aktiver Park in Tauragė mit Kletterparcours und verschiedenen Outdoor-Attraktionen.",
+                  "category": "family",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "Ein Denkmal in Tauragė zum Gedenken an die Teilnehmer des Aufstands von 1927.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "Ein Aussichtspunkt in Tauragė, der einen weiten Blick über das Tal des Flusses Jūra bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Tauragė Martynas Mažvydas",
+                  "text": "Eine lutherische Kirche in Tauragė, benannt nach dem Verfasser des ersten litauischen Buches.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "Eine orthodoxe Kirche in Tauragė, die den Märtyrern von Vilnius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "Die katholische Hauptkirche von Tauragė, ein markantes sakrales Bauwerk der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "Bagdono tv. in Taurage bietet eine entspannte Umgebung für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "Zumpės tv. in Taurage ist ein ruhiges Gewässer, das zum Verweilen und zur Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "Ein ruhig gelegener See in Tauragė, der zu entspannten Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "Dieser See in Tauragė bietet eine malerische Kulisse für Erholungssuchende und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "Ein natürliches Gewässer in Tauragė, ideal für eine kurze Auszeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "Ein friedlicher See in Tauragė, der sich hervorragend für die Beobachtung der lokalen Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Genießen Sie die ruhige Atmosphäre an diesem See in Tauragė bei einem gemütlichen Aufenthalt.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "Ein schöner See in Tauragė, der eine ruhige Umgebung für Naturbetrachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "Ein ruhiges Gewässer in Tauragė, ideal für einen erholsamen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "Dieser See in Tauragė lädt dazu ein, die friedliche Natur und die frische Luft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "Ein beschaulicher See in Tauragė, der einen schönen Anblick für Vorbeikommende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "Ein lokaler See in Tauragė, der sich gut für eine kleine Pause im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
+                  ]
+            },
+            {
+                  "name": "Baseinas",
+                  "text": "Ein öffentliches Schwimmbad in Tauragė für die Anwohner.",
+                  "category": "recreational",
+                  "coords": [
+                        22.333666,
+                        55.255557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "Egy vár stílusú egykori vámszoba, amely ma a Tauragėi Regionális Múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "Népszerű strandterület Tauragėban, amely vízparti kikapcsolódásra hív.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "Helyi kulturális központ Tauragėban, amely különféle rendezvényeknek és tevékenységeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "A tauragėi Liberty Beach egy sokoldalú szabadidős terület, amely újraértelmezi a vízparti kikapcsolódást. A vízi sportokhoz és a csendes napozáshoz kínált lehetőségeivel egyaránt vonzza a családokat és az aktív pihenés kedvelőit. A nyár derekán ez a tökéletes hely a felfrissülésre és egy vidám nap eltöltésére.",
+                  "category": "family",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "Tauragė város központi kultúrháza színházi előadásokhoz és koncertekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "Szabadtéri színpad Tauragėban, amely nyáron koncertek helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "Aktív park Tauragėban mászópályákkal és különféle szabadtéri attrakciókkal.",
+                  "category": "family",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "Emlékmű Tauragėban az 1927-es felkelés résztvevőinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "Kilátópálya Tauragėban, ahonnan széles kilátás nyílik a Jūra-folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom Tauragėban, az első litván könyv szerzőjéről elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "Ortodox templom Tauragėban, amelyet a vilniusi vértanúknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "Tauragė fő katolikus temploma, a város egyik jellegzetes szakrális építménye.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "A Taurage területén fekvő Bagdono tv. pihentető környezetet kínál a természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "A Taurage városában található Zumpės tv. egy nyugodt állóvíz, amely pihenésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "Egy csendes tó Tauragė területén, amely kellemes sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "Ez a tó Tauragė területén festői környezetet kínál a pihenni vágyóknak és a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "Egy természetes vízfelület Tauragė területén, amely ideális egy rövid pihenőhöz a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "Egy békés tó Tauragė területén, amely kiválóan alkalmas a helyi táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Élvezze a nyugodt légkört ennél a tónál Tauragė területén egy kellemes időtöltés során.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "Egy szép tó Tauragė területén, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "Egy nyugodt vízfelület Tauragė területén, amely ideális egy pihentető sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "Ez a tó Tauragė területén arra hív, hogy élvezze a békés természetet és a friss levegőt.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "Egy nyugodt tó Tauragė területén, amely szép látványt nyújt az arra járóknak.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "Egy helyi tó Tauragė területén, amely jól megfelel egy kis pihenőnek a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
+                  ]
+            },
+            {
+                  "name": "Baseinas",
+                  "text": "Közösségi úszómedence Tauragė lakosai számára.",
+                  "category": "recreational",
+                  "coords": [
+                        22.333666,
+                        55.255557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "O fostă clădire vamală în stil de castel, care astăzi găzduiește muzeul regional din Tauragė.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "O zonă de plajă populară din Tauragė, care invită la recreere pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "Un centru cultural local din Tauragė, care oferă diverse evenimente și activități.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "Liberty Beach din Tauragė este o zonă de agrement versatilă care redefinește relaxarea pe malul apei. Cu opțiuni pentru sporturi nautice și colțuri liniștite pentru plajă, atrage deopotrivă familiile și iubitorii de mișcare. În plină vară, este destinația ideală pentru a te răcori și a petrece o zi plină de bucurie.",
+                  "category": "family",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "Casa centrală de cultură a orașului Tauragė pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "O scenă în aer liber din Tauragė, care servește ca loc de desfășurare a concertelor pe timp de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "Un parc activ din Tauragė cu trasee de cățărare și diverse atracții în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "Un monument în Tauragė dedicat memoriei participanților la revolta din 1927.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "Un punct de observare din Tauragė care oferă o vedere panoramică asupra văii râului Jūra.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia",
+                  "text": "O biserică luterană din Tauragė, numită după autorul primei cărți lituaniene.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "O biserică ortodoxă din Tauragė, dedicată martirilor din Vilnius.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "Biserica catolică principală din Tauragė, un edificiu sacru proeminent al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "Bagdono tv. din Taurage oferă un mediu relaxant pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "Zumpės tv. din Taurage este un luciu de apă liniștit care invită la relaxare și odihnă.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "Un lac liniștit în Tauragė, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "Acest lac din Tauragė oferă un cadru pitoresc pentru relaxare și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "O oglindă de apă naturală în Tauragė, ideală pentru o scurtă pauză pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "Un lac liniștit în Tauragė, excelent pentru observarea peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Bucurați-vă de atmosfera calmă de la acest lac din Tauragė în timpul unei șederi plăcute.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "Un lac frumos în Tauragė, care oferă un mediu liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "O apă liniștită în Tauragė, ideală pentru o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "Acest lac din Tauragė vă invită să vă bucurați de natura liniștită și de aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "Un lac liniștit în Tauragė, care oferă o priveliște frumoasă pentru trecători.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "Un lac local în Tauragė, potrivit pentru o mică pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
+                  ]
+            },
+            {
+                  "name": "Baseinas",
+                  "text": "O piscină publică în Tauragė pentru rezidenți.",
+                  "category": "recreational",
+                  "coords": [
+                        22.333666,
+                        55.255557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "A former customs building designed in the style of a castle, now housing the Tauragė Regional Museum.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "A popular beach area in Tauragė, inviting relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "A local cultural center in Tauragė offering various events and activities.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "Liberty Beach in Tauragė is a versatile leisure area that perfectly redefines waterfront recreation. With its options for watersports and quiet corners for sunbathing, it easily attracts active visitors and families alike. During peak summer, it stands as the ideal spot to cool off and enjoy a fun-filled day.",
+                  "category": "family",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "The central cultural house of Tauragė for theater performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "An open-air stage in Tauragė that serves as a venue for concerts during the summer.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "An active park in Tauragė featuring climbing courses and various outdoor attractions.",
+                  "category": "family",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "A monument in Tauragė commemorating the participants of the 1927 uprising.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "A viewpoint in Tauragė offering a wide vista over the valley of the Jūra River.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia",
+                  "text": "A Lutheran church in Tauragė named after the author of the first Lithuanian book.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "An Orthodox church in Tauragė dedicated to the martyrs of Vilnius.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "The main Catholic church of Tauragė, a prominent sacred building in the city.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            },
+            {
+                  "name": "Bagdono tv.",
+                  "text": "Bagdono tv. in Taurage offers a relaxing environment for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.279933,
+                        55.25572
+                  ]
+            },
+            {
+                  "name": "Zumpės tv.",
+                  "text": "Zumpės tv. in Taurage is a quiet body of water inviting visitors to stay and relax.",
+                  "category": "natural",
+                  "coords": [
+                        22.305949,
+                        55.253047
+                  ]
+            },
+            {
+                  "name": "Tauragės tv.",
+                  "text": "A peaceful lake in Tauragė, perfect for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.266285,
+                        55.260283
+                  ]
+            },
+            {
+                  "name": "Tramys II tv.",
+                  "text": "This lake in Tauragė offers a scenic setting for relaxation and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        22.320501,
+                        55.235592
+                  ]
+            },
+            {
+                  "name": "Peršokšnai tv.",
+                  "text": "A natural body of water in Tauragė, ideal for a short break by the lakeside.",
+                  "category": "natural",
+                  "coords": [
+                        22.321551,
+                        55.237285
+                  ]
+            },
+            {
+                  "name": "Zirnajys tv.",
+                  "text": "A peaceful lake in Tauragė, excellent for observing the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.314689,
+                        55.240732
+                  ]
+            },
+            {
+                  "name": "Lukštas tv.",
+                  "text": "Enjoy the quiet atmosphere at this lake in Tauragė during a pleasant stay.",
+                  "category": "natural",
+                  "coords": [
+                        22.317993,
+                        55.240184
+                  ]
+            },
+            {
+                  "name": "Dapkiškių tv.",
+                  "text": "A beautiful lake in Tauragė, providing a calm environment for nature viewing.",
+                  "category": "natural",
+                  "coords": [
+                        22.232059,
+                        55.274034
+                  ]
+            },
+            {
+                  "name": "Baltrušaičių tv.",
+                  "text": "A quiet body of water in Tauragė, ideal for a restful walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        22.379727,
+                        55.226551
+                  ]
+            },
+            {
+                  "name": "Dauglaukio I tv.",
+                  "text": "This lake in Tauragė invites you to enjoy the peaceful nature and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        22.226315,
+                        55.186346
+                  ]
+            },
+            {
+                  "name": "Meižių tv.",
+                  "text": "A tranquil lake in Tauragė, offering a pleasant sight for those passing by.",
+                  "category": "natural",
+                  "coords": [
+                        22.308337,
+                        55.186293
+                  ]
+            },
+            {
+                  "name": "Taurų tv.",
+                  "text": "A local lake in Tauragė, well-suited for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.232037,
+                        55.234644
+                  ]
+            },
+            {
+                  "name": "Baseinas",
+                  "text": "A public swimming pool in Tauragė for local residents.",
+                  "category": "recreational",
+                  "coords": [
+                        22.333666,
+                        55.255557
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Tauragė", hu: "Tauragė", ro: "Tauragė", en: "Tauragė"},
@@ -10064,6 +10973,24 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.056939,
                         55.931357
                   ]
+            },
+            {
+                  "name": "Palangos vyrų pliažas",
+                  "text": "Dies ist ein speziell ausgewiesener Strandabschnitt für Männer im beliebten Badeort Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.062294,
+                        55.944102
+                  ]
+            },
+            {
+                  "name": "Vanagupės paplūdymys",
+                  "text": "Der Strand von Vanagupė ist ein ruhigerer Küstenabschnitt im nördlichen Teil von Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.059789,
+                        55.938391
+                  ]
             }
       ],
       "hu": [
@@ -10362,6 +11289,24 @@ imageHint: "Radviliskis railway station and locomotive",
                   "coords": [
                         21.056939,
                         55.931357
+                  ]
+            },
+            {
+                  "name": "Palangos vyrų pliažas",
+                  "text": "Ez egy speciálisan kijelölt strandszakasz férfiak számára Palanga népszerű üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.062294,
+                        55.944102
+                  ]
+            },
+            {
+                  "name": "Vanagupės paplūdymys",
+                  "text": "Vanagupė strandja egy csendesebb tengerparti rész Palanga északi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.059789,
+                        55.938391
                   ]
             }
       ],
@@ -10662,6 +11607,24 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.056939,
                         55.931357
                   ]
+            },
+            {
+                  "name": "Palangos vyrų pliažas",
+                  "text": "Aceasta este o secțiune de plajă special desemnată pentru bărbați în populara stațiune Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.062294,
+                        55.944102
+                  ]
+            },
+            {
+                  "name": "Vanagupės paplūdymys",
+                  "text": "Plaja Vanagupė este o secțiune de coastă mai liniștită în partea de nord a orașului Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.059789,
+                        55.938391
+                  ]
             }
       ],
       "en": [
@@ -10960,6 +11923,24 @@ imageHint: "Radviliskis railway station and locomotive",
                   "coords": [
                         21.056939,
                         55.931357
+                  ]
+            },
+            {
+                  "name": "Palangos vyrų pliažas",
+                  "text": "This is a specially designated beach section for men in the popular resort of Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.062294,
+                        55.944102
+                  ]
+            },
+            {
+                  "name": "Vanagupės paplūdymys",
+                  "text": "Vanagupė Beach is a quieter coastal stretch in the northern part of Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.059789,
+                        55.938391
                   ]
             }
       ]
@@ -26328,6 +27309,15 @@ imageHint: "Salcininkai manor house and park",
                         23.047518,
                         54.956314
                   ]
+            },
+            {
+                  "name": "Apolo wake park",
+                  "text": "Der Apolo Wake Park ist ein Themenpark in Šakiai, der sich dem Wakeboarding widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.084287,
+                        54.946643
+                  ]
             }
       ],
       "hu": [
@@ -26428,6 +27418,15 @@ imageHint: "Salcininkai manor house and park",
                   "coords": [
                         23.047518,
                         54.956314
+                  ]
+            },
+            {
+                  "name": "Apolo wake park",
+                  "text": "Az Apolo wake park egy szabadtéri élménypark Šakiaiban, amely a wakeboardozásra összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        23.084287,
+                        54.946643
                   ]
             }
       ],
@@ -26530,6 +27529,15 @@ imageHint: "Salcininkai manor house and park",
                         23.047518,
                         54.956314
                   ]
+            },
+            {
+                  "name": "Apolo wake park",
+                  "text": "Apolo wake park este un parc tematic în aer liber din Šakiai dedicat wakeboarding-ului.",
+                  "category": "recreational",
+                  "coords": [
+                        23.084287,
+                        54.946643
+                  ]
             }
       ],
       "en": [
@@ -26630,6 +27638,15 @@ imageHint: "Salcininkai manor house and park",
                   "coords": [
                         23.047518,
                         54.956314
+                  ]
+            },
+            {
+                  "name": "Apolo wake park",
+                  "text": "Apolo wake park is an outdoor theme park in Šakiai dedicated to wakeboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        23.084287,
+                        54.946643
                   ]
             }
       ]

@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const croatiaEconomicV2: POI[] = [
 
   {
-    id: "croatia-luka-rijeka-brajdica-economic-v2",
+    id: "croatia-luka-rijeka-brajdica-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brajdica",
+                  "text": "Ein Kieselstrand in Rijeka, der Besuchern Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.460337,
+                        45.32038
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "Ein Küstenort in Rijeka, der zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.463048,
+                        45.319178
+                  ]
+            },
+            {
+                  "name": "Villa Olga",
+                  "text": "Ein charmanter Strandabschnitt in Rijeka mit Blick auf die Kvarner-Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        14.466503,
+                        45.317009
+                  ]
+            },
+            {
+                  "name": "Glavanovo",
+                  "text": "Ein bei Einheimischen beliebter Kieselstrand im Stadtteil Pećine in Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.469054,
+                        45.315686
+                  ]
+            },
+            {
+                  "name": "Hotel Park",
+                  "text": "Eine gepflegte Anlage am Meer in Rijeka, ideal für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.467738,
+                        45.315823
+                  ]
+            },
+            {
+                  "name": "Sablićevo",
+                  "text": "Einer der ältesten und schönsten Strände in Rijeka, gelegen in einer malerischen Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        14.465816,
+                        45.317973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brajdica",
+                  "text": "Kavicsos strand Fiumében (Rijeka), amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.460337,
+                        45.32038
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "Tengerparti hely Rijekában, amely úszásra és napozásra hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.463048,
+                        45.319178
+                  ]
+            },
+            {
+                  "name": "Villa Olga",
+                  "text": "Bájós strandszakasz Rijekában, kilátással a Kvarner-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.466503,
+                        45.317009
+                  ]
+            },
+            {
+                  "name": "Glavanovo",
+                  "text": "A helyiek körében népszerű kavicsos strand Rijeka Pećine negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.469054,
+                        45.315686
+                  ]
+            },
+            {
+                  "name": "Hotel Park",
+                  "text": "Gondozott tengerparti létesítmény Rijekában, ideális a fürdőzők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.467738,
+                        45.315823
+                  ]
+            },
+            {
+                  "name": "Sablićevo",
+                  "text": "Rijeka egyik legrégebbi és legszebb strandja, amely egy festői öbölben található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.465816,
+                        45.317973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brajdica",
+                  "text": "O plajă cu pietriș în Rijeka, oferind vizitatorilor relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        14.460337,
+                        45.32038
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "O locație de coastă în Rijeka, care invită la înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.463048,
+                        45.319178
+                  ]
+            },
+            {
+                  "name": "Villa Olga",
+                  "text": "O secțiune fermecătoare de plajă în Rijeka, cu vedere la Golful Kvarner.",
+                  "category": "recreational",
+                  "coords": [
+                        14.466503,
+                        45.317009
+                  ]
+            },
+            {
+                  "name": "Glavanovo",
+                  "text": "O plajă cu pietriș populară printre localnici în cartierul Pećine din Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.469054,
+                        45.315686
+                  ]
+            },
+            {
+                  "name": "Hotel Park",
+                  "text": "O facilitate bine întreținută la malul mării în Rijeka, ideală pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        14.467738,
+                        45.315823
+                  ]
+            },
+            {
+                  "name": "Sablićevo",
+                  "text": "Una dintre cele mai vechi și frumoase plaje din Rijeka, situată într-un golf pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        14.465816,
+                        45.317973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brajdica",
+                  "text": "A pebble beach in Rijeka, offering visitors seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.460337,
+                        45.32038
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "A coastal spot in Rijeka inviting for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        14.463048,
+                        45.319178
+                  ]
+            },
+            {
+                  "name": "Villa Olga",
+                  "text": "A charming beach section in Rijeka with views of the Kvarner Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.466503,
+                        45.317009
+                  ]
+            },
+            {
+                  "name": "Glavanovo",
+                  "text": "A pebble beach in the Pećine neighborhood of Rijeka, popular among locals.",
+                  "category": "recreational",
+                  "coords": [
+                        14.469054,
+                        45.315686
+                  ]
+            },
+            {
+                  "name": "Hotel Park",
+                  "text": "A well-maintained seaside facility in Rijeka, ideal for bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.467738,
+                        45.315823
+                  ]
+            },
+            {
+                  "name": "Sablićevo",
+                  "text": "One of the oldest and most beautiful beaches in Rijeka, located in a picturesque cove.",
+                  "category": "recreational",
+                  "coords": [
+                        14.465816,
+                        45.317973
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "port",
     name: { de: "Hafen Rijeka - Brajdica", hu: "Fiumei kikötő - Brajdica", ro: "Portul Rijeka - Brajdica", en: "Port of Rijeka - Brajdica"},
@@ -183,7 +408,52 @@ imageHint: "Brodosplit shipyard with large ships under construction",
     },
     image: "/poi-images/croatia-brodosplit-economic-v2.webp",
 },  {
-    id: "croatia-viktor-lenac-economic-v2",
+    id: "croatia-viktor-lenac-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doričići dog beach",
+                  "text": "Ein hundefreundlicher Strand in der Nähe der Viktor-Lenac-Werft.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4999,
+                        45.2943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doričići dog beach",
+                  "text": "Kutyabarát tengerpart a Viktor Lenac hajógyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4999,
+                        45.2943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doričići dog beach",
+                  "text": "O plajă prietenoasă cu câinii în apropierea șantierului naval Viktor Lenac.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4999,
+                        45.2943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doričići dog beach",
+                  "text": "A dog-friendly beach near the Viktor Lenac shipyard.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4999,
+                        45.2943
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "industry",
     name: { de: "Viktor Lenac Schiffswerft", hu: "Viktor Lenac hajógyár", ro: "Șantierul naval Viktor Lenac", en: "Viktor Lenac Shipyard"},
@@ -498,7 +768,52 @@ imageHint: "Sisak oil refinery tanks and towers",
     },
     image: "/poi-images/croatia-sisak-refinery-economic-v2.webp",
 },  {
-    id: "croatia-urinj-refinery-economic-v2",
+    id: "croatia-urinj-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kostrena",
+                  "text": "Ein Küstengebiet in der Nähe von Rijeka, bekannt für seine felsigen Buchten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502776,
+                        45.294249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kostrena",
+                  "text": "Rijeka közeli tengerparti terület, amely sziklás öbleiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502776,
+                        45.294249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kostrena",
+                  "text": "O zonă de coastă lângă Rijeka, cunoscută pentru golful său stâncos.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502776,
+                        45.294249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kostrena",
+                  "text": "A coastal area near Rijeka, known for its rocky inlets and bays.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502776,
+                        45.294249
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "industry",
     name: { de: "Ölraffinerie Rijeka (Urinj)", hu: "Fiumei olajfinomító (Urinj)", ro: "Rafinăria Rijeka (Urinj)", en: "Rijeka Oil Refinery (Urinj)"},
@@ -633,7 +948,88 @@ imageHint: "Large hydroelectric turbines at Zakučac",
     },
     image: "/poi-images/croatia-zakucac-hydroelectric-economic-v2.webp",
 },  {
-    id: "croatia-senj-hydroelectric-economic-v2",
+    id: "croatia-senj-hydroelectric-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach Kalić",
+                  "text": "Ein ruhiger Kiesstrand in der Nähe von Senj, der für sein klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.927786,
+                        44.951243
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "Ein kleiner Strand an der kroatischen Küste bei Senj, ideal zum Schwimmen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925167,
+                        44.959521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach Kalić",
+                  "text": "Nyugodt kavicsos strand Senj közelében, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.927786,
+                        44.951243
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "Kisméretű strand a horvát tengerparton Senj mellett, amely ideális úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925167,
+                        44.959521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach Kalić",
+                  "text": "O plajă liniștită cu pietriș lângă Senj, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.927786,
+                        44.951243
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "O plajă mică pe coasta croată lângă Senj, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925167,
+                        44.959521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach Kalić",
+                  "text": "A quiet pebble beach near Senj, known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        14.927786,
+                        44.951243
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "A small beach on the Croatian coast near Senj, ideal for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925167,
+                        44.959521
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "industry",
     name: { de: "Wasserkraftwerk Senj", hu: "Zenggi vízerőmű", ro: "Hidrocentrala Senj", en: "Senj Hydroelectric Plant"},
@@ -1319,7 +1715,52 @@ imageHint: "New Kandit factory building in Osijek",
     },
     image: "/poi-images/croatia-kandit-osijek-economic-v2.webp",
 },  {
-    id: "croatia-mirna-rovinj-economic-v2",
+    id: "croatia-mirna-rovinj-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "dog beach",
+                  "text": "Ein spezieller Strandabschnitt, an dem Hunde willkommen sind und im Meer spielen können.",
+                  "category": "recreational",
+                  "coords": [
+                        13.61396,
+                        45.106155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dog beach",
+                  "text": "Speciális tengerparti szakasz, ahol a kutyákat is szívesen látják és a vízben játszhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.61396,
+                        45.106155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dog beach",
+                  "text": "O secțiune specială de plajă unde câinii sunt bineveniți și se pot juca în mare.",
+                  "category": "recreational",
+                  "coords": [
+                        13.61396,
+                        45.106155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dog beach",
+                  "text": "A special beach section where dogs are welcome and can play in the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.61396,
+                        45.106155
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "factory",
     name: { de: "Mirna Fischkonserven", hu: "Mirna halkonzervgyár", ro: "Fabrica Mirna", en: "Mirna Fish Processing"},
@@ -1364,7 +1805,52 @@ imageHint: "New Kandit factory building in Osijek",
     },
   },
   {
-    id: "croatia-sardina-postira-economic-v2",
+    id: "croatia-sardina-postira-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lovrecina",
+                  "text": "Ein Strand, der für seine Sandufer in der Nähe von Postira auf der Insel Brač bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.660535,
+                        43.372175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lovrecina",
+                  "text": "Homokos partjáról ismert strand Postira közelében, Brač szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.660535,
+                        43.372175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lovrecina",
+                  "text": "O plajă cunoscută pentru malurile sale nisipoase, lângă Postira pe insula Brač.",
+                  "category": "recreational",
+                  "coords": [
+                        16.660535,
+                        43.372175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lovrecina",
+                  "text": "A beach known for its sandy shores near Postira on Brač island.",
+                  "category": "recreational",
+                  "coords": [
+                        16.660535,
+                        43.372175
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "factory",
     name: { de: "Sardina Postira", hu: "Sardina Postira", ro: "Fabrica Sardina", en: "Sardina Postira"},
@@ -1805,7 +2291,88 @@ imageHint: "Modern industrial plant in Postira on Brač",
       fr: ["L'entreprise a été fondée en 1971 en tant que filiale de Podravka.", "Belupo emploie aujourd'hui plus de 1 500 collaborateurs.", "En 2017, une nouvelle usine d'une valeur de 70 millions d'euros a été inaugurée.", "Le portefeuille comprend plus de 200 produits pharmaceutiques différents.", "Plus de 50 % du chiffre d'affaires provient des exportations vers plus de 15 marchés.", "Belupo est leader sur le marché croate des médicaments dermatologiques."],
     }, image: "/poi-images/croatia-belupo-koprivnica-economic-v2.webp"},
   {
-    id: "croatia-jgl-pharmaceuticals-economic-v2",
+    id: "croatia-jgl-pharmaceuticals-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Razbojna",
+                  "text": "Ein Strand in Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.362909,
+                        45.343321
+                  ]
+            },
+            {
+                  "name": "Bivio",
+                  "text": "Ein Strand in Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355519,
+                        45.345436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Razbojna",
+                  "text": "Egy strand Fiumében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.362909,
+                        45.343321
+                  ]
+            },
+            {
+                  "name": "Bivio",
+                  "text": "Egy strand Fiumében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355519,
+                        45.345436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Razbojna",
+                  "text": "O plajă în Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.362909,
+                        45.343321
+                  ]
+            },
+            {
+                  "name": "Bivio",
+                  "text": "O plajă în Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355519,
+                        45.345436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Razbojna",
+                  "text": "A beach in Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.362909,
+                        45.343321
+                  ]
+            },
+            {
+                  "name": "Bivio",
+                  "text": "A beach in Rijeka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355519,
+                        45.345436
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "factory",
     name: { de: "JGL Rijeka", hu: "JGL Fiume", ro: "JGL Rijeka", en: "JGL Rijeka" },

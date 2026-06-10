@@ -849,7 +849,52 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-racha-vineyards-life-v2",
+    id: "ge-racha-vineyards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "სადმელის ეკლესია \"სამება\"",
+                  "text": "Die Ruinen einer alten Kirche in der georgischen Weinregion Ratscha.",
+                  "category": "historical",
+                  "coords": [
+                        43.122788,
+                        42.543849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "სადმელის ეკლესია \"სამება\"",
+                  "text": "Egy régi templom romjai a grúziai Racsa borvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        43.122788,
+                        42.543849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "სადმელის ეკლესია \"სამება\"",
+                  "text": "Ruinele unei biserici vechi din regiunea viticolă Racha, Georgia.",
+                  "category": "historical",
+                  "coords": [
+                        43.122788,
+                        42.543849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sameba Church",
+                  "text": "The ruins of an ancient church in the Racha wine region of Georgia.",
+                  "category": "historical",
+                  "coords": [
+                        43.122788,
+                        42.543849
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GE-RL",
     coords: [43.1000, 42.5333],

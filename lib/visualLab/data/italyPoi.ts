@@ -236,6 +236,15 @@ export const italyCities: POI[] = [
                         12.492954,
                         41.934759
                   ]
+            },
+            {
+                  "name": "Bioparco",
+                  "text": "Der Bioparco ist ein historischer Zoo in den Gärten der Villa Borghese in Rom.",
+                  "category": "recreational",
+                  "coords": [
+                        12.487469,
+                        41.917661
+                  ]
             }
       ],
       "hu": [
@@ -273,6 +282,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.492954,
                         41.934759
+                  ]
+            },
+            {
+                  "name": "Bioparco",
+                  "text": "A Bioparco egy patinás állatkert Rómában, a Villa Borghese parkjában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.487469,
+                        41.917661
                   ]
             }
       ],
@@ -312,6 +330,15 @@ export const italyCities: POI[] = [
                         12.492954,
                         41.934759
                   ]
+            },
+            {
+                  "name": "Bioparco",
+                  "text": "Bioparco este o grădină zoologică istorică situată în grădinile Villa Borghese din Roma.",
+                  "category": "recreational",
+                  "coords": [
+                        12.487469,
+                        41.917661
+                  ]
             }
       ],
       "en": [
@@ -349,6 +376,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.492954,
                         41.934759
+                  ]
+            },
+            {
+                  "name": "Bioparco",
+                  "text": "Bioparco is a historic zoo located within the Villa Borghese gardens in Rome.",
+                  "category": "recreational",
+                  "coords": [
+                        12.487469,
+                        41.917661
                   ]
             }
       ]
@@ -1556,6 +1592,15 @@ export const italyCities: POI[] = [
                         11.301734,
                         43.779688
                   ]
+            },
+            {
+                  "name": "Piscina comunale Paolo Costoli",
+                  "text": "Die Piscina comunale Paolo Costoli ist eine bekannte öffentliche Schwimmhalle in Florenz.",
+                  "category": "recreational",
+                  "coords": [
+                        11.28447,
+                        43.776256
+                  ]
             }
       ],
       "hu": [
@@ -1602,6 +1647,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         11.301734,
                         43.779688
+                  ]
+            },
+            {
+                  "name": "Piscina comunale Paolo Costoli",
+                  "text": "A Piscina comunale Paolo Costoli egy jelentős közösségi úszómedence Firenze városában.",
+                  "category": "recreational",
+                  "coords": [
+                        11.28447,
+                        43.776256
                   ]
             }
       ],
@@ -1650,6 +1704,15 @@ export const italyCities: POI[] = [
                         11.301734,
                         43.779688
                   ]
+            },
+            {
+                  "name": "Piscina comunale Paolo Costoli",
+                  "text": "Piscina comunale Paolo Costoli este o facilitate publică de înot proeminentă din Florența.",
+                  "category": "recreational",
+                  "coords": [
+                        11.28447,
+                        43.776256
+                  ]
             }
       ],
       "en": [
@@ -1696,6 +1759,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         11.301734,
                         43.779688
+                  ]
+            },
+            {
+                  "name": "Piscina comunale Paolo Costoli",
+                  "text": "Piscina comunale Paolo Costoli is a prominent public swimming pool facility in Florence.",
+                  "category": "recreational",
+                  "coords": [
+                        11.28447,
+                        43.776256
                   ]
             }
       ]
@@ -1816,6 +1888,33 @@ export const italyCities: POI[] = [
                         14.261684,
                         40.853803
                   ]
+            },
+            {
+                  "name": "Acquario di Napoli",
+                  "text": "Dieses historische Aquarium im Stadtpark Villa Comunale zeigt die Meeresfauna des Golfs von Neapel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.23555,
+                        40.832731
+                  ]
+            },
+            {
+                  "name": "Litoranea Park",
+                  "text": "Ein Freizeitpark in Neapel, der verschiedene Unterhaltungsmöglichkeiten im Freien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.250837,
+                        40.834937
+                  ]
+            },
+            {
+                  "name": "Jamming",
+                  "text": "Ein Schwimmbad in Neapel, das zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.230352,
+                        40.864899
+                  ]
             }
       ],
       "hu": [
@@ -1889,6 +1988,33 @@ export const italyCities: POI[] = [
                   "coords": [
                         14.261684,
                         40.853803
+                  ]
+            },
+            {
+                  "name": "Acquario di Napoli",
+                  "text": "Ez a Villa Comunale parkban található történelmi akvárium a Nápolyi-öböl élővilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        14.23555,
+                        40.832731
+                  ]
+            },
+            {
+                  "name": "Litoranea Park",
+                  "text": "Szabadtéri szórakozási lehetőségeket kínáló vidámpark Nápolyban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.250837,
+                        40.834937
+                  ]
+            },
+            {
+                  "name": "Jamming",
+                  "text": "Úszómedence Nápolyban, amely alkalmas úszásra és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.230352,
+                        40.864899
                   ]
             }
       ],
@@ -1964,6 +2090,33 @@ export const italyCities: POI[] = [
                         14.261684,
                         40.853803
                   ]
+            },
+            {
+                  "name": "Acquario di Napoli",
+                  "text": "Acest acvariu istoric din parcul Villa Comunale prezintă fauna marină a Golfului Napoli.",
+                  "category": "recreational",
+                  "coords": [
+                        14.23555,
+                        40.832731
+                  ]
+            },
+            {
+                  "name": "Litoranea Park",
+                  "text": "Un parc de distracții din Napoli care oferă diverse opțiuni de divertisment în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        14.250837,
+                        40.834937
+                  ]
+            },
+            {
+                  "name": "Jamming",
+                  "text": "O piscină în Napoli, ideală pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.230352,
+                        40.864899
+                  ]
             }
       ],
       "en": [
@@ -2037,6 +2190,33 @@ export const italyCities: POI[] = [
                   "coords": [
                         14.261684,
                         40.853803
+                  ]
+            },
+            {
+                  "name": "Acquario di Napoli",
+                  "text": "This historic aquarium in the Villa Comunale park showcases the marine life of the Gulf of Naples.",
+                  "category": "recreational",
+                  "coords": [
+                        14.23555,
+                        40.832731
+                  ]
+            },
+            {
+                  "name": "Litoranea Park",
+                  "text": "A theme park in Naples offering various outdoor entertainment options.",
+                  "category": "recreational",
+                  "coords": [
+                        14.250837,
+                        40.834937
+                  ]
+            },
+            {
+                  "name": "Jamming",
+                  "text": "A swimming pool in Naples suitable for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        14.230352,
+                        40.864899
                   ]
             }
       ]
@@ -2286,7 +2466,124 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "pompeii",
+    id: "pompeii", "sights": {
+      "de": [
+            {
+                  "name": "Rena Nera Beach",
+                  "text": "Ein gut ausgestattetes Strandbad in der Nähe von Pompeji, das verschiedene Annehmlichkeiten für Badegäste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440976,
+                        40.754434
+                  ]
+            },
+            {
+                  "name": "Lido Nettuno",
+                  "text": "Dieses Strandbad bei Pompeji bietet Besuchern eine organisierte Umgebung für Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440067,
+                        40.754475
+                  ]
+            },
+            {
+                  "name": "Marina del Sole",
+                  "text": "Ein Strandabschnitt in der Region Pompeji, der für Spaziergänge und zum Sonnenbaden geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44227,
+                        40.753279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rena Nera Beach",
+                  "text": "Jól felszerelt strandüdülő Pompeji közelében, amely különféle kényelmi szolgáltatásokat kínál a fürdőzőknek.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440976,
+                        40.754434
+                  ]
+            },
+            {
+                  "name": "Lido Nettuno",
+                  "text": "Ez a Pompeji melletti strandüdülő szervezett környezetet kínál a látogatóknak a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440067,
+                        40.754475
+                  ]
+            },
+            {
+                  "name": "Marina del Sole",
+                  "text": "Tengerparti szakasz Pompeji régiójában, amely alkalmas sétákra és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44227,
+                        40.753279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rena Nera Beach",
+                  "text": "O stațiune balneară bine echipată lângă Pompeii, care oferă diverse facilități pentru scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440976,
+                        40.754434
+                  ]
+            },
+            {
+                  "name": "Lido Nettuno",
+                  "text": "Această stațiune balneară de lângă Pompeii oferă vizitatorilor un cadru organizat pentru recreere la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440067,
+                        40.754475
+                  ]
+            },
+            {
+                  "name": "Marina del Sole",
+                  "text": "O porțiune de plajă în regiunea Pompeii, potrivită pentru plimbări și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44227,
+                        40.753279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rena Nera Beach",
+                  "text": "A well-equipped beach resort near Pompeii, offering various amenities for bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440976,
+                        40.754434
+                  ]
+            },
+            {
+                  "name": "Lido Nettuno",
+                  "text": "This beach resort near Pompeii offers visitors an organized setting for seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.440067,
+                        40.754475
+                  ]
+            },
+            {
+                  "name": "Marina del Sole",
+                  "text": "A stretch of beach in the Pompeii region, suitable for walks and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44227,
+                        40.753279
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "reg-campania",
     coords: [14.4848, 40.7489],
@@ -2450,7 +2747,52 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-herculaneum",
+    id: "it-herculaneum", "sights": {
+      "de": [
+            {
+                  "name": "La Scala",
+                  "text": "La Scala ist ein Strandbereich in Herculaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.358369,
+                        40.790919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Scala",
+                  "text": "A La Scala egy strandterület Herculaneumban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.358369,
+                        40.790919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Scala",
+                  "text": "La Scala este o zonă de plajă în Herculaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.358369,
+                        40.790919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Scala",
+                  "text": "La Scala is a beach area located in Herculaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.358369,
+                        40.790919
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "IT-72",
     coords: [14.348, 40.806],
@@ -2587,6 +2929,132 @@ export const italyCities: POI[] = [
                         12.290517,
                         41.754
                   ]
+            },
+            {
+                  "name": "StabiFaber Beach",
+                  "text": "StabiFaber Beach ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.265545,
+                        41.733122
+                  ]
+            },
+            {
+                  "name": "Stabilmento Faber Village",
+                  "text": "Stabilmento Faber Village ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266934,
+                        41.732668
+                  ]
+            },
+            {
+                  "name": "Tibidabo Beach",
+                  "text": "Tibidabo Beach ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.297174,
+                        41.72104
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Plinius",
+                  "text": "Stabilimento Balneare Plinius ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.293297,
+                        41.722755
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Belsito",
+                  "text": "Stabilimento Balneare Belsito ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.290711,
+                        41.723866
+                  ]
+            },
+            {
+                  "name": "La Spiaggietta",
+                  "text": "La Spiaggietta ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289515,
+                        41.724246
+                  ]
+            },
+            {
+                  "name": "Elmi",
+                  "text": "Elmi ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.275196,
+                        41.729228
+                  ]
+            },
+            {
+                  "name": "Battistini",
+                  "text": "Battistini ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.276914,
+                        41.728631
+                  ]
+            },
+            {
+                  "name": "Marechiaro",
+                  "text": "Marechiaro ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.282321,
+                        41.727144
+                  ]
+            },
+            {
+                  "name": "El Miramar",
+                  "text": "El Miramar ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284406,
+                        41.726464
+                  ]
+            },
+            {
+                  "name": "Il Capanno",
+                  "text": "Il Capanno ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287786,
+                        41.724941
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera Hakuna Matata",
+                  "text": "Spiaggia Libera Hakuna Matata ist ein Strandbad in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295418,
+                        41.72178
+                  ]
+            },
+            {
+                  "name": "Il Curvone",
+                  "text": "Il Curvone - public beach ist ein Strand in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285706,
+                        41.725677
+                  ]
+            },
+            {
+                  "name": "Piscina Kursaal",
+                  "text": "Ein Schwimmbadkomplex in der Küstenregion von Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.315175,
+                        41.715371
+                  ]
             }
       ],
       "hu": [
@@ -2642,6 +3110,132 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.290517,
                         41.754
+                  ]
+            },
+            {
+                  "name": "StabiFaber Beach",
+                  "text": "A StabiFaber Beach egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.265545,
+                        41.733122
+                  ]
+            },
+            {
+                  "name": "Stabilmento Faber Village",
+                  "text": "A Stabilmento Faber Village egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266934,
+                        41.732668
+                  ]
+            },
+            {
+                  "name": "Tibidabo Beach",
+                  "text": "A Tibidabo Beach egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.297174,
+                        41.72104
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Plinius",
+                  "text": "A Stabilimento Balneare Plinius egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.293297,
+                        41.722755
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Belsito",
+                  "text": "A Stabilimento Balneare Belsito egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.290711,
+                        41.723866
+                  ]
+            },
+            {
+                  "name": "La Spiaggietta",
+                  "text": "A La Spiaggietta egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289515,
+                        41.724246
+                  ]
+            },
+            {
+                  "name": "Elmi",
+                  "text": "Az Elmi egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.275196,
+                        41.729228
+                  ]
+            },
+            {
+                  "name": "Battistini",
+                  "text": "A Battistini egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.276914,
+                        41.728631
+                  ]
+            },
+            {
+                  "name": "Marechiaro",
+                  "text": "A Marechiaro egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.282321,
+                        41.727144
+                  ]
+            },
+            {
+                  "name": "El Miramar",
+                  "text": "Az El Miramar egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284406,
+                        41.726464
+                  ]
+            },
+            {
+                  "name": "Il Capanno",
+                  "text": "Az Il Capanno egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287786,
+                        41.724941
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera Hakuna Matata",
+                  "text": "A Spiaggia Libera Hakuna Matata egy strandfürdő Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295418,
+                        41.72178
+                  ]
+            },
+            {
+                  "name": "Il Curvone",
+                  "text": "Az Il Curvone - public beach egy strand Ostia Antica területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285706,
+                        41.725677
+                  ]
+            },
+            {
+                  "name": "Piscina Kursaal",
+                  "text": "Medencekomplexum Ostia Antica tengerparti régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.315175,
+                        41.715371
                   ]
             }
       ],
@@ -2699,6 +3293,132 @@ export const italyCities: POI[] = [
                         12.290517,
                         41.754
                   ]
+            },
+            {
+                  "name": "StabiFaber Beach",
+                  "text": "StabiFaber Beach este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.265545,
+                        41.733122
+                  ]
+            },
+            {
+                  "name": "Stabilmento Faber Village",
+                  "text": "Stabilmento Faber Village este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266934,
+                        41.732668
+                  ]
+            },
+            {
+                  "name": "Tibidabo Beach",
+                  "text": "Tibidabo Beach este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.297174,
+                        41.72104
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Plinius",
+                  "text": "Stabilimento Balneare Plinius este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.293297,
+                        41.722755
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Belsito",
+                  "text": "Stabilimento Balneare Belsito este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.290711,
+                        41.723866
+                  ]
+            },
+            {
+                  "name": "La Spiaggietta",
+                  "text": "La Spiaggietta este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289515,
+                        41.724246
+                  ]
+            },
+            {
+                  "name": "Elmi",
+                  "text": "Elmi este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.275196,
+                        41.729228
+                  ]
+            },
+            {
+                  "name": "Battistini",
+                  "text": "Battistini este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.276914,
+                        41.728631
+                  ]
+            },
+            {
+                  "name": "Marechiaro",
+                  "text": "Marechiaro este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.282321,
+                        41.727144
+                  ]
+            },
+            {
+                  "name": "El Miramar",
+                  "text": "El Miramar este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284406,
+                        41.726464
+                  ]
+            },
+            {
+                  "name": "Il Capanno",
+                  "text": "Il Capanno este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287786,
+                        41.724941
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera Hakuna Matata",
+                  "text": "Spiaggia Libera Hakuna Matata este o stațiune balneară din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295418,
+                        41.72178
+                  ]
+            },
+            {
+                  "name": "Il Curvone",
+                  "text": "Il Curvone - public beach este o plajă din Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285706,
+                        41.725677
+                  ]
+            },
+            {
+                  "name": "Piscina Kursaal",
+                  "text": "Un complex cu piscină în regiunea de coastă a Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.315175,
+                        41.715371
+                  ]
             }
       ],
       "en": [
@@ -2754,6 +3474,132 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.290517,
                         41.754
+                  ]
+            },
+            {
+                  "name": "StabiFaber Beach",
+                  "text": "StabiFaber Beach is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.265545,
+                        41.733122
+                  ]
+            },
+            {
+                  "name": "Stabilmento Faber Village",
+                  "text": "Stabilmento Faber Village is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266934,
+                        41.732668
+                  ]
+            },
+            {
+                  "name": "Tibidabo Beach",
+                  "text": "Tibidabo Beach is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.297174,
+                        41.72104
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Plinius",
+                  "text": "Stabilimento Balneare Plinius is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.293297,
+                        41.722755
+                  ]
+            },
+            {
+                  "name": "Stabilimento Balneare Belsito",
+                  "text": "Stabilimento Balneare Belsito is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.290711,
+                        41.723866
+                  ]
+            },
+            {
+                  "name": "La Spiaggietta",
+                  "text": "La Spiaggietta is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289515,
+                        41.724246
+                  ]
+            },
+            {
+                  "name": "Elmi",
+                  "text": "Elmi is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.275196,
+                        41.729228
+                  ]
+            },
+            {
+                  "name": "Battistini",
+                  "text": "Battistini is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.276914,
+                        41.728631
+                  ]
+            },
+            {
+                  "name": "Marechiaro",
+                  "text": "Marechiaro is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.282321,
+                        41.727144
+                  ]
+            },
+            {
+                  "name": "El Miramar",
+                  "text": "El Miramar is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284406,
+                        41.726464
+                  ]
+            },
+            {
+                  "name": "Il Capanno",
+                  "text": "Il Capanno is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287786,
+                        41.724941
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera Hakuna Matata",
+                  "text": "Spiaggia Libera Hakuna Matata is a beach resort in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295418,
+                        41.72178
+                  ]
+            },
+            {
+                  "name": "Il Curvone - public beach",
+                  "text": "Il Curvone - public beach is a beach in Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285706,
+                        41.725677
+                  ]
+            },
+            {
+                  "name": "Piscina Kursaal",
+                  "text": "A swimming pool complex in the coastal region of Ostia Antica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.315175,
+                        41.715371
                   ]
             }
       ]
@@ -3386,6 +4232,33 @@ export const italyCities: POI[] = [
                         13.297531,
                         43.214566
                   ]
+            },
+            {
+                  "name": "Flexus",
+                  "text": "Flexus ist eine Schwimmeinrichtung in Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275969,
+                        43.200298
+                  ]
+            },
+            {
+                  "name": "Piscina coperta Blue Gallery",
+                  "text": "Die Piscina coperta Blue Gallery ist ein Hallenbad in Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.21856,
+                        43.240323
+                  ]
+            },
+            {
+                  "name": "Piscina comunale G. Caporicci",
+                  "text": "Die Piscina comunale G. Caporicci ist ein städtisches Schwimmbad in Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.296601,
+                        43.210223
+                  ]
             }
       ],
       "hu": [
@@ -3441,6 +4314,33 @@ export const italyCities: POI[] = [
                   "coords": [
                         13.297531,
                         43.214566
+                  ]
+            },
+            {
+                  "name": "Flexus",
+                  "text": "A Flexus egy uszoda Pietraperlában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275969,
+                        43.200298
+                  ]
+            },
+            {
+                  "name": "Piscina coperta Blue Gallery",
+                  "text": "A Piscina coperta Blue Gallery egy fedett uszoda Pietraperlában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.21856,
+                        43.240323
+                  ]
+            },
+            {
+                  "name": "Piscina comunale G. Caporicci",
+                  "text": "A Piscina comunale G. Caporicci egy városi uszoda Pietraperlában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.296601,
+                        43.210223
                   ]
             }
       ],
@@ -3498,6 +4398,33 @@ export const italyCities: POI[] = [
                         13.297531,
                         43.214566
                   ]
+            },
+            {
+                  "name": "Flexus",
+                  "text": "Flexus este o piscină situată în Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275969,
+                        43.200298
+                  ]
+            },
+            {
+                  "name": "Piscina coperta Blue Gallery",
+                  "text": "Piscina coperta Blue Gallery este o piscină acoperită situată în Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.21856,
+                        43.240323
+                  ]
+            },
+            {
+                  "name": "Piscina comunale G. Caporicci",
+                  "text": "Piscina comunale G. Caporicci este o piscină municipală situată în Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.296601,
+                        43.210223
+                  ]
             }
       ],
       "en": [
@@ -3553,6 +4480,33 @@ export const italyCities: POI[] = [
                   "coords": [
                         13.297531,
                         43.214566
+                  ]
+            },
+            {
+                  "name": "Flexus",
+                  "text": "Flexus is a swimming facility located in Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275969,
+                        43.200298
+                  ]
+            },
+            {
+                  "name": "Piscina coperta Blue Gallery",
+                  "text": "Piscina coperta Blue Gallery is an indoor swimming pool located in Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.21856,
+                        43.240323
+                  ]
+            },
+            {
+                  "name": "Piscina comunale G. Caporicci",
+                  "text": "Piscina comunale G. Caporicci is a municipal swimming pool located in Pietraperla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.296601,
+                        43.210223
                   ]
             }
       ]
@@ -5086,7 +6040,52 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-portofino",
+    id: "it-portofino", "sights": {
+      "de": [
+            {
+                  "name": "Spiaggia dell' Olivetta",
+                  "text": "Ein exklusiver kleiner Strand in einer Bucht nahe Portofino.",
+                  "category": "recreational",
+                  "coords": [
+                        9.215283,
+                        44.301858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiaggia dell' Olivetta",
+                  "text": "Exkluzív kis strand egy öbölben, Portofino közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.215283,
+                        44.301858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiaggia dell' Olivetta",
+                  "text": "O mică plajă exclusivistă într-un golf de lângă Portofino.",
+                  "category": "recreational",
+                  "coords": [
+                        9.215283,
+                        44.301858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiaggia dell' Olivetta",
+                  "text": "An exclusive small beach in a cove near Portofino.",
+                  "category": "recreational",
+                  "coords": [
+                        9.215283,
+                        44.301858
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT-42",
     coords: [9.210, 44.301],
@@ -6359,6 +7358,15 @@ export const italyCities: POI[] = [
                         16.829352,
                         41.136918
                   ]
+            },
+            {
+                  "name": "Torre Quetta",
+                  "text": "Torre Quetta ist ein Stadtstrand in Bari, der Einheimischen und Touristen Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.914293,
+                        41.113423
+                  ]
             }
       ],
       "hu": [
@@ -6657,6 +7665,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         16.829352,
                         41.136918
+                  ]
+            },
+            {
+                  "name": "Torre Quetta",
+                  "text": "A Torre Quetta egy városi strand Bariban, amely a helyieknek és a turistáknak is kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.914293,
+                        41.113423
                   ]
             }
       ],
@@ -6957,6 +7974,15 @@ export const italyCities: POI[] = [
                         16.829352,
                         41.136918
                   ]
+            },
+            {
+                  "name": "Torre Quetta",
+                  "text": "Torre Quetta este o plajă urbană în Bari, care oferă relaxare localnicilor și turiștilor deopotrivă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.914293,
+                        41.113423
+                  ]
             }
       ],
       "en": [
@@ -7255,6 +8281,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         16.829352,
                         41.136918
+                  ]
+            },
+            {
+                  "name": "Torre Quetta",
+                  "text": "Torre Quetta is an urban beach in Bari, providing recreation for both locals and tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        16.914293,
+                        41.113423
                   ]
             }
       ]
@@ -11973,6 +13008,42 @@ export const italyCities: POI[] = [
                         14.360085,
                         41.072597
                   ]
+            },
+            {
+                  "name": "Piscina privata B&B Casale Rurale",
+                  "text": "Ein privater Pool eines B&B in der Nähe des Königspalastes von Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351328,
+                        41.039829
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Circolo Villani\"",
+                  "text": "Ein städtisches Schwimmbad in Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.267217,
+                        41.089536
+                  ]
+            },
+            {
+                  "name": "Stadio del Nuoto",
+                  "text": "Ein Sportkomplex in Caserta mit professionellen Schwimmeinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346884,
+                        41.079871
+                  ]
+            },
+            {
+                  "name": "Piscina privata Parco Azzurra",
+                  "text": "Ein privates Schwimmbad in einer Wohnanlage in Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.353429,
+                        41.076852
+                  ]
             }
       ],
       "hu": [
@@ -12046,6 +13117,42 @@ export const italyCities: POI[] = [
                   "coords": [
                         14.360085,
                         41.072597
+                  ]
+            },
+            {
+                  "name": "Piscina privata B&B Casale Rurale",
+                  "text": "Egy panzióhoz tartozó privát úszómedence a casertai királyi palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351328,
+                        41.039829
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Circolo Villani\"",
+                  "text": "Városi úszómedence Casertában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.267217,
+                        41.089536
+                  ]
+            },
+            {
+                  "name": "Stadio del Nuoto",
+                  "text": "Sportkomplexum Casertában, professzionális úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346884,
+                        41.079871
+                  ]
+            },
+            {
+                  "name": "Piscina privata Parco Azzurra",
+                  "text": "Lakóparkon belüli privát úszómedence Casertában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.353429,
+                        41.076852
                   ]
             }
       ],
@@ -12121,6 +13228,42 @@ export const italyCities: POI[] = [
                         14.360085,
                         41.072597
                   ]
+            },
+            {
+                  "name": "Piscina privata B&B Casale Rurale",
+                  "text": "O piscină privată aparținând unui B&B lângă Palatul Regal din Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351328,
+                        41.039829
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Circolo Villani\"",
+                  "text": "O piscină municipală situată în Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.267217,
+                        41.089536
+                  ]
+            },
+            {
+                  "name": "Stadio del Nuoto",
+                  "text": "Un complex sportiv din Caserta, dotat cu facilități de înot profesionale.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346884,
+                        41.079871
+                  ]
+            },
+            {
+                  "name": "Piscina privata Parco Azzurra",
+                  "text": "O piscină privată situată într-un complex rezidențial din Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.353429,
+                        41.076852
+                  ]
             }
       ],
       "en": [
@@ -12194,6 +13337,42 @@ export const italyCities: POI[] = [
                   "coords": [
                         14.360085,
                         41.072597
+                  ]
+            },
+            {
+                  "name": "Piscina privata B&B Casale Rurale",
+                  "text": "A private swimming pool belonging to a B&B near the Royal Palace of Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351328,
+                        41.039829
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Circolo Villani\"",
+                  "text": "A municipal swimming pool facility located in Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.267217,
+                        41.089536
+                  ]
+            },
+            {
+                  "name": "Stadio del Nuoto",
+                  "text": "A sports complex in Caserta featuring professional swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346884,
+                        41.079871
+                  ]
+            },
+            {
+                  "name": "Piscina privata Parco Azzurra",
+                  "text": "A private swimming pool located within a residential complex in Caserta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.353429,
+                        41.076852
                   ]
             }
       ]
@@ -12670,7 +13849,88 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "amalfi-coast",
+    id: "amalfi-coast", "sights": {
+      "de": [
+            {
+                  "name": "Nettuno",
+                  "text": "Nettuno ist ein Strandbad an der Amalfiküste, das Besuchern Zugang zum kristallklaren Wasser der Region bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.644806,
+                        40.646433
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cauco",
+                  "text": "Die Spiaggia di Cauco ist ein malerischer Strand an der Amalfiküste, der oft nur über das Meer erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.695636,
+                        40.638202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nettuno",
+                  "text": "A Nettuno egy strandkomplexum az Amalfi-parton, amely hozzáférést biztosít a régió kristálytiszta vizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.644806,
+                        40.646433
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cauco",
+                  "text": "A Spiaggia di Cauco egy festői strand az Amalfi-parton, amely gyakran csak a tenger felől érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        14.695636,
+                        40.638202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nettuno",
+                  "text": "Nettuno este un complex de plajă pe Coasta Amalfi, oferind vizitatorilor acces la apele cristaline ale regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.644806,
+                        40.646433
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cauco",
+                  "text": "Spiaggia di Cauco este o plajă pitorească pe Coasta Amalfi, fiind adesea accesibilă doar pe mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.695636,
+                        40.638202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nettuno",
+                  "text": "Nettuno is a beach resort on the Amalfi Coast, providing visitors access to the region's crystal-clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        14.644806,
+                        40.646433
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cauco",
+                  "text": "Spiaggia di Cauco is a picturesque beach on the Amalfi Coast, often accessible only by sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.695636,
+                        40.638202
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "reg-campania",
     coords: [14.65, 40.63],

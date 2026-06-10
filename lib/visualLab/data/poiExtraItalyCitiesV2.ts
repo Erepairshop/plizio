@@ -4450,6 +4450,42 @@ export const italyCitiesV2: POI[] = [
                         17.239463,
                         40.474559
                   ]
+            },
+            {
+                  "name": "Spiaggia pubblica Lungomare",
+                  "text": "Der öffentliche Strand an der Promenade von Tarent.",
+                  "category": "recreational",
+                  "coords": [
+                        17.242811,
+                        40.465825
+                  ]
+            },
+            {
+                  "name": "Lido Chiapparo",
+                  "text": "Ein Küstenbereich mit Strandzugang in der Nähe von Tarent.",
+                  "category": "recreational",
+                  "coords": [
+                        17.24295,
+                        40.431018
+                  ]
+            },
+            {
+                  "name": "piscina inglese",
+                  "text": "Ein öffentliches Schwimmbad in Taranto, bekannt als 'piscina inglese'.",
+                  "category": "recreational",
+                  "coords": [
+                        17.241349,
+                        40.474441
+                  ]
+            },
+            {
+                  "name": "Meridiana Nuoto",
+                  "text": "Ein Sport- und Freizeitschwimmbad in der italienischen Stadt Taranto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.281696,
+                        40.459283
+                  ]
             }
       ],
       "hu": [
@@ -4505,6 +4541,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         17.239463,
                         40.474559
+                  ]
+            },
+            {
+                  "name": "Spiaggia pubblica Lungomare",
+                  "text": "Nyilvános strand Taranto tengerparti sétánya mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.242811,
+                        40.465825
+                  ]
+            },
+            {
+                  "name": "Lido Chiapparo",
+                  "text": "Strandkapcsolattal rendelkező tengerparti terület Taranto közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.24295,
+                        40.431018
+                  ]
+            },
+            {
+                  "name": "piscina inglese",
+                  "text": "Nyilvános úszómedence Tarantóban, amelyet 'piscina inglese' néven ismernek.",
+                  "category": "recreational",
+                  "coords": [
+                        17.241349,
+                        40.474441
+                  ]
+            },
+            {
+                  "name": "Meridiana Nuoto",
+                  "text": "Sport- és szabadidős úszómedence az olaszországi Taranto városában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.281696,
+                        40.459283
                   ]
             }
       ],
@@ -4562,6 +4634,42 @@ export const italyCitiesV2: POI[] = [
                         17.239463,
                         40.474559
                   ]
+            },
+            {
+                  "name": "Spiaggia pubblica Lungomare",
+                  "text": "Plaja publică de pe faleza orașului Taranto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.242811,
+                        40.465825
+                  ]
+            },
+            {
+                  "name": "Lido Chiapparo",
+                  "text": "O zonă de coastă cu acces la plajă lângă Taranto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.24295,
+                        40.431018
+                  ]
+            },
+            {
+                  "name": "piscina inglese",
+                  "text": "O piscină publică în Taranto, cunoscută sub numele de „piscina inglese”.",
+                  "category": "recreational",
+                  "coords": [
+                        17.241349,
+                        40.474441
+                  ]
+            },
+            {
+                  "name": "Meridiana Nuoto",
+                  "text": "O piscină sportivă și de agrement situată în orașul italian Taranto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.281696,
+                        40.459283
+                  ]
             }
       ],
       "en": [
@@ -4617,6 +4725,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         17.239463,
                         40.474559
+                  ]
+            },
+            {
+                  "name": "Spiaggia pubblica Lungomare",
+                  "text": "The public beach along the promenade of Taranto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.242811,
+                        40.465825
+                  ]
+            },
+            {
+                  "name": "Lido Chiapparo",
+                  "text": "A coastal area with beach access near Taranto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.24295,
+                        40.431018
+                  ]
+            },
+            {
+                  "name": "piscina inglese",
+                  "text": "A public swimming pool in Taranto, known as the 'piscina inglese'.",
+                  "category": "recreational",
+                  "coords": [
+                        17.241349,
+                        40.474441
+                  ]
+            },
+            {
+                  "name": "Meridiana Nuoto",
+                  "text": "A sports and leisure swimming pool located in the Italian city of Taranto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.281696,
+                        40.459283
                   ]
             }
       ]
@@ -9463,6 +9607,24 @@ export const italyCitiesV2: POI[] = [
                         14.776175,
                         40.671667
                   ]
+            },
+            {
+                  "name": "Spiaggia dello Scoglione",
+                  "text": "Spiaggia dello Scoglione ist ein Strand in Salerno.",
+                  "category": "recreational",
+                  "coords": [
+                        14.717775,
+                        40.665311
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Ninnilli",
+                  "text": "Spiaggia dei Ninnilli ist ein Strand in Salerno.",
+                  "category": "recreational",
+                  "coords": [
+                        14.719264,
+                        40.666937
+                  ]
             }
       ],
       "hu": [
@@ -9626,6 +9788,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.776175,
                         40.671667
+                  ]
+            },
+            {
+                  "name": "Spiaggia dello Scoglione",
+                  "text": "Spiaggia dello Scoglione egy strand Salerno területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.717775,
+                        40.665311
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Ninnilli",
+                  "text": "Spiaggia dei Ninnilli egy strand Salerno területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.719264,
+                        40.666937
                   ]
             }
       ],
@@ -9791,6 +9971,24 @@ export const italyCitiesV2: POI[] = [
                         14.776175,
                         40.671667
                   ]
+            },
+            {
+                  "name": "Spiaggia dello Scoglione",
+                  "text": "Spiaggia dello Scoglione este o plajă în Salerno.",
+                  "category": "recreational",
+                  "coords": [
+                        14.717775,
+                        40.665311
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Ninnilli",
+                  "text": "Spiaggia dei Ninnilli este o plajă în Salerno.",
+                  "category": "recreational",
+                  "coords": [
+                        14.719264,
+                        40.666937
+                  ]
             }
       ],
       "en": [
@@ -9954,6 +10152,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.776175,
                         40.671667
+                  ]
+            },
+            {
+                  "name": "Spiaggia dello Scoglione",
+                  "text": "Spiaggia dello Scoglione is a beach in Salerno.",
+                  "category": "recreational",
+                  "coords": [
+                        14.717775,
+                        40.665311
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Ninnilli",
+                  "text": "Spiaggia dei Ninnilli is a beach in Salerno.",
+                  "category": "recreational",
+                  "coords": [
+                        14.719264,
+                        40.666937
                   ]
             }
       ]
@@ -11479,6 +11695,33 @@ export const italyCitiesV2: POI[] = [
                         13.518028,
                         43.612994
                   ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Il Valentino ist ein Strandbad in Ancona, das zum Entspannen am Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vena",
+                  "text": "Spiaggia della Vena ist ein Strand in Ancona an der Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.554599,
+                        43.598599
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "Piscina del Passetto ist ein öffentliches Schwimmbad in Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
+                  ]
             }
       ],
       "hu": [
@@ -11552,6 +11795,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.518028,
                         43.612994
+                  ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Az Il Valentino egy tengerparti üdülőhely Ancona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vena",
+                  "text": "A Spiaggia della Vena egy tengerparti strand Ancona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.554599,
+                        43.598599
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "A Piscina del Passetto egy nyilvános uszoda Anconában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
                   ]
             }
       ],
@@ -11627,6 +11897,33 @@ export const italyCitiesV2: POI[] = [
                         13.518028,
                         43.612994
                   ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Il Valentino este o stațiune de plajă în Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vena",
+                  "text": "Spiaggia della Vena este o plajă în Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.554599,
+                        43.598599
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "Piscina del Passetto este o piscină publică situată în Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
+                  ]
             }
       ],
       "en": [
@@ -11700,6 +11997,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.518028,
                         43.612994
+                  ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Il Valentino is a beach resort in Ancona offering coastal relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vena",
+                  "text": "Spiaggia della Vena is a beach located in Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.554599,
+                        43.598599
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "Piscina del Passetto is a public swimming pool located in Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
                   ]
             }
       ]
@@ -15628,6 +15952,123 @@ export const italyCitiesV2: POI[] = [
                         10.305888,
                         43.535362
                   ]
+            },
+            {
+                  "name": "Bagni Pancaldi",
+                  "text": "Bagni Pancaldi ist ein historisches Strandbad in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.302773,
+                        43.53117
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Felciaio",
+                  "text": "Spiaggia del Felciaio ist ein malerischer Strand in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315178,
+                        43.518729
+                  ]
+            },
+            {
+                  "name": "Scogli della Rotonda",
+                  "text": "Scogli della Rotonda ist ein felsiger Küstenabschnitt in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315389,
+                        43.513335
+                  ]
+            },
+            {
+                  "name": "Onde del Tirreno Srl ex Bagni Pejani",
+                  "text": "Onde del Tirreno Srl ist ein Strandbad in Livorno, ehemals Bagni Pejani.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316095,
+                        43.515873
+                  ]
+            },
+            {
+                  "name": "Bagni Tirreno",
+                  "text": "Bagni Tirreno ist ein gut ausgestattetes Strandbad in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.299571,
+                        43.536404
+                  ]
+            },
+            {
+                  "name": "Bagni Fiume",
+                  "text": "Bagni Fiume ist eine traditionelle Badeanstalt an der Küste von Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31364,
+                        43.51896
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "Bagni Nettuno ist ein beliebtes Strandresort in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300646,
+                        43.537678
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Accademia",
+                  "text": "Spiaggia dell'Accademia ist ein öffentlicher Strand in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.310747,
+                        43.522454
+                  ]
+            },
+            {
+                  "name": "Spiaggia della vela",
+                  "text": "Spiaggia della vela ist ein kleiner Küstenabschnitt in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.312836,
+                        43.519878
+                  ]
+            },
+            {
+                  "name": "Bellana",
+                  "text": "Bellana ist ein Strandbereich an der Promenade von Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300669,
+                        43.540863
+                  ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "Ein Strandbad in Livorno an der italienischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "Ein Strandbad in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "Ein kleines Strandbad an der Küste von Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
+                  ]
             }
       ],
       "hu": [
@@ -15701,6 +16142,123 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.305888,
                         43.535362
+                  ]
+            },
+            {
+                  "name": "Bagni Pancaldi",
+                  "text": "A Bagni Pancaldi egy történelmi strandfürdő Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.302773,
+                        43.53117
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Felciaio",
+                  "text": "A Spiaggia del Felciaio egy festői tengerparti szakasz Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315178,
+                        43.518729
+                  ]
+            },
+            {
+                  "name": "Scogli della Rotonda",
+                  "text": "A Scogli della Rotonda egy sziklás tengerparti rész Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315389,
+                        43.513335
+                  ]
+            },
+            {
+                  "name": "Onde del Tirreno Srl ex Bagni Pejani",
+                  "text": "Az Onde del Tirreno Srl egy strandfürdő Livornóban, korábban Bagni Pejani.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316095,
+                        43.515873
+                  ]
+            },
+            {
+                  "name": "Bagni Tirreno",
+                  "text": "A Bagni Tirreno egy jól felszerelt strandfürdő Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.299571,
+                        43.536404
+                  ]
+            },
+            {
+                  "name": "Bagni Fiume",
+                  "text": "A Bagni Fiume egy hagyományos fürdőhely Livorno partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31364,
+                        43.51896
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "A Bagni Nettuno egy népszerű strandüdülőhely Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300646,
+                        43.537678
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Accademia",
+                  "text": "A Spiaggia dell'Accademia egy nyilvános strand Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.310747,
+                        43.522454
+                  ]
+            },
+            {
+                  "name": "Spiaggia della vela",
+                  "text": "A Spiaggia della vela egy kis tengerparti szakasz Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.312836,
+                        43.519878
+                  ]
+            },
+            {
+                  "name": "Bellana",
+                  "text": "Bellana egy strandterület Livorno tengerparti sétányánál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300669,
+                        43.540863
+                  ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "Egy tengerparti üdülőhely Livornóban, az olasz tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "Strand üdülőhely Livornóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "Egy kis tengerparti strand Livorno partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
                   ]
             }
       ],
@@ -15776,6 +16334,123 @@ export const italyCitiesV2: POI[] = [
                         10.305888,
                         43.535362
                   ]
+            },
+            {
+                  "name": "Bagni Pancaldi",
+                  "text": "Bagni Pancaldi este o stațiune balneară istorică în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.302773,
+                        43.53117
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Felciaio",
+                  "text": "Spiaggia del Felciaio este o plajă pitorească situată în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315178,
+                        43.518729
+                  ]
+            },
+            {
+                  "name": "Scogli della Rotonda",
+                  "text": "Scogli della Rotonda este o zonă de coastă stâncoasă în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315389,
+                        43.513335
+                  ]
+            },
+            {
+                  "name": "Onde del Tirreno Srl ex Bagni Pejani",
+                  "text": "Onde del Tirreno Srl este o stațiune balneară în Livorno, fosta Bagni Pejani.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316095,
+                        43.515873
+                  ]
+            },
+            {
+                  "name": "Bagni Tirreno",
+                  "text": "Bagni Tirreno este o stațiune balneară bine dotată în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.299571,
+                        43.536404
+                  ]
+            },
+            {
+                  "name": "Bagni Fiume",
+                  "text": "Bagni Fiume este un stabiliment balnear tradițional pe coasta din Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31364,
+                        43.51896
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "Bagni Nettuno este o stațiune de plajă populară în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300646,
+                        43.537678
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Accademia",
+                  "text": "Spiaggia dell'Accademia este o plajă publică situată în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.310747,
+                        43.522454
+                  ]
+            },
+            {
+                  "name": "Spiaggia della vela",
+                  "text": "Spiaggia della vela este o mică zonă de plajă în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.312836,
+                        43.519878
+                  ]
+            },
+            {
+                  "name": "Bellana",
+                  "text": "Bellana este o zonă de plajă situată pe faleza din Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300669,
+                        43.540863
+                  ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "O stațiune balneară în Livorno, pe coasta italiană.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "O stațiune balneară în Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "O mică stațiune balneară pe coasta orașului Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
+                  ]
             }
       ],
       "en": [
@@ -15849,6 +16524,123 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.305888,
                         43.535362
+                  ]
+            },
+            {
+                  "name": "Bagni Pancaldi",
+                  "text": "Bagni Pancaldi is a historic beach resort located in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.302773,
+                        43.53117
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Felciaio",
+                  "text": "Spiaggia del Felciaio is a scenic beach area in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315178,
+                        43.518729
+                  ]
+            },
+            {
+                  "name": "Scogli della Rotonda",
+                  "text": "Scogli della Rotonda is a rocky coastal spot in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.315389,
+                        43.513335
+                  ]
+            },
+            {
+                  "name": "Onde del Tirreno Srl ex Bagni Pejani",
+                  "text": "Onde del Tirreno Srl is a beach resort in Livorno, formerly known as Bagni Pejani.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316095,
+                        43.515873
+                  ]
+            },
+            {
+                  "name": "Bagni Tirreno",
+                  "text": "Bagni Tirreno is a well-equipped beach resort in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.299571,
+                        43.536404
+                  ]
+            },
+            {
+                  "name": "Bagni Fiume",
+                  "text": "Bagni Fiume is a traditional bathing facility on the coast of Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31364,
+                        43.51896
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "Bagni Nettuno is a popular beach resort located in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300646,
+                        43.537678
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Accademia",
+                  "text": "Spiaggia dell'Accademia is a public beach area in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.310747,
+                        43.522454
+                  ]
+            },
+            {
+                  "name": "Spiaggia della vela",
+                  "text": "Spiaggia della vela is a small beach stretch in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.312836,
+                        43.519878
+                  ]
+            },
+            {
+                  "name": "Bellana",
+                  "text": "Bellana is a beach area located along the promenade in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.300669,
+                        43.540863
+                  ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "A beach resort in Livorno on the Italian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "A beach resort in Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "A small beach resort on the coast of Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
                   ]
             }
       ]
@@ -18094,6 +18886,51 @@ export const italyCitiesV2: POI[] = [
                         17.931427,
                         40.62425
                   ]
+            },
+            {
+                  "name": "Seaty Beach",
+                  "text": "Seaty Beach ist ein modernes Strandbad in der Hafenstadt Brindisi in Apulien.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957805,
+                        40.660453
+                  ]
+            },
+            {
+                  "name": "SunBeach",
+                  "text": "SunBeach bietet Erholung und Stranddienstleistungen in der Nähe von Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957713,
+                        40.661766
+                  ]
+            },
+            {
+                  "name": "Piscina MariMisti",
+                  "text": "Eine Schwimmbadanlage zur Erholung in Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.931435,
+                        40.618764
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "Ein Küstenstrandbad in der Stadt Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.949372,
+                        40.667598
+                  ]
+            },
+            {
+                  "name": "Hemingway Beach",
+                  "text": "Ein nach dem berühmten Autor benanntes Seebad in Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.947712,
+                        40.669043
+                  ]
             }
       ],
       "hu": [
@@ -18158,6 +18995,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         17.931427,
                         40.62425
+                  ]
+            },
+            {
+                  "name": "Seaty Beach",
+                  "text": "A Seaty Beach egy modern strandfürdő az apuliai Brindisi kikötővárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957805,
+                        40.660453
+                  ]
+            },
+            {
+                  "name": "SunBeach",
+                  "text": "A SunBeach kikapcsolódást és strandszolgáltatásokat kínál Brindisi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957713,
+                        40.661766
+                  ]
+            },
+            {
+                  "name": "Piscina MariMisti",
+                  "text": "Brindisiben található, kikapcsolódást nyújtó úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        17.931435,
+                        40.618764
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "Brindisi városában található tengerparti strand.",
+                  "category": "recreational",
+                  "coords": [
+                        17.949372,
+                        40.667598
+                  ]
+            },
+            {
+                  "name": "Hemingway Beach",
+                  "text": "Egy híres íróról elnevezett tengerparti üdülőhely Brindisiben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.947712,
+                        40.669043
                   ]
             }
       ],
@@ -18224,6 +19106,51 @@ export const italyCitiesV2: POI[] = [
                         17.931427,
                         40.62425
                   ]
+            },
+            {
+                  "name": "Seaty Beach",
+                  "text": "Seaty Beach este o stațiune de plajă modernă în orașul port Brindisi din Puglia.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957805,
+                        40.660453
+                  ]
+            },
+            {
+                  "name": "SunBeach",
+                  "text": "SunBeach oferă relaxare și servicii de plajă în apropiere de Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957713,
+                        40.661766
+                  ]
+            },
+            {
+                  "name": "Piscina MariMisti",
+                  "text": "O facilitate cu piscină care oferă recreere în Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.931435,
+                        40.618764
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "O stațiune de plajă de coastă situată în orașul Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.949372,
+                        40.667598
+                  ]
+            },
+            {
+                  "name": "Hemingway Beach",
+                  "text": "O stațiune de la malul mării din Brindisi, numită după faimosul autor.",
+                  "category": "recreational",
+                  "coords": [
+                        17.947712,
+                        40.669043
+                  ]
             }
       ],
       "en": [
@@ -18288,6 +19215,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         17.931427,
                         40.62425
+                  ]
+            },
+            {
+                  "name": "Seaty Beach",
+                  "text": "Seaty Beach is a modern beach resort in the port city of Brindisi in Puglia.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957805,
+                        40.660453
+                  ]
+            },
+            {
+                  "name": "SunBeach",
+                  "text": "SunBeach offers relaxation and beach services near Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.957713,
+                        40.661766
+                  ]
+            },
+            {
+                  "name": "Piscina MariMisti",
+                  "text": "A swimming pool facility providing recreation in Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.931435,
+                        40.618764
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "A coastal beach resort located in the city of Brindisi.",
+                  "category": "recreational",
+                  "coords": [
+                        17.949372,
+                        40.667598
+                  ]
+            },
+            {
+                  "name": "Hemingway Beach",
+                  "text": "A seaside resort in Brindisi named after the famous author.",
+                  "category": "recreational",
+                  "coords": [
+                        17.947712,
+                        40.669043
                   ]
             }
       ]
@@ -20614,6 +21586,24 @@ export const italyCitiesV2: POI[] = [
                         13.518028,
                         43.612994
                   ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Ein Strandbad in der Nähe der historischen Mole Vanvitelliana in Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "Ein Schwimmbad in der Nähe des Wahrzeichens Mole Vanvitelliana.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
+                  ]
             }
       ],
       "hu": [
@@ -20687,6 +21677,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.518028,
                         43.612994
+                  ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Egy strandüdülőhely az anconai történelmi Mole Vanvitelliana közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "Egy úszómedence a Mole Vanvitelliana műemlék közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
                   ]
             }
       ],
@@ -20762,6 +21770,24 @@ export const italyCitiesV2: POI[] = [
                         13.518028,
                         43.612994
                   ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "O zonă de stațiune balneară situată lângă monumentul istoric Mole Vanvitelliana din Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "O piscină situată lângă obiectivul turistic Mole Vanvitelliana.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
+                  ]
             }
       ],
       "en": [
@@ -20835,6 +21861,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.518028,
                         43.612994
+                  ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "A beach resort area located near the historic Mole Vanvitelliana in Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "A swimming pool situated near the Mole Vanvitelliana landmark.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
                   ]
             }
       ]
@@ -21335,6 +22379,24 @@ export const italyCitiesV2: POI[] = [
                         8.475864,
                         44.299893
                   ]
+            },
+            {
+                  "name": "Bagni Saint Tropez",
+                  "text": "Ein Strandbad an der italienischen Riviera in der Hafenstadt Savona.",
+                  "category": "recreational",
+                  "coords": [
+                        8.511101,
+                        44.32894
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera attrezzata",
+                  "text": "Ein öffentlicher Strandabschnitt in Savona mit grundlegender Ausstattung.",
+                  "category": "recreational",
+                  "coords": [
+                        8.513399,
+                        44.329234
+                  ]
             }
       ],
       "hu": [
@@ -21741,6 +22803,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.475864,
                         44.299893
+                  ]
+            },
+            {
+                  "name": "Bagni Saint Tropez",
+                  "text": "Strandfürdő az olasz riviérán, Savona kikötővárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.511101,
+                        44.32894
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera attrezzata",
+                  "text": "Nyilvános strandrész Savonában, alapvető szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        8.513399,
+                        44.329234
                   ]
             }
       ],
@@ -22149,6 +23229,24 @@ export const italyCitiesV2: POI[] = [
                         8.475864,
                         44.299893
                   ]
+            },
+            {
+                  "name": "Bagni Saint Tropez",
+                  "text": "O stațiune balneară pe Riviera Italiană, în orașul-port Savona.",
+                  "category": "recreational",
+                  "coords": [
+                        8.511101,
+                        44.32894
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera attrezzata",
+                  "text": "O secțiune de plajă publică în Savona, cu dotări de bază.",
+                  "category": "recreational",
+                  "coords": [
+                        8.513399,
+                        44.329234
+                  ]
             }
       ],
       "en": [
@@ -22555,6 +23653,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.475864,
                         44.299893
+                  ]
+            },
+            {
+                  "name": "Bagni Saint Tropez",
+                  "text": "A beach resort on the Italian Riviera in the port city of Savona.",
+                  "category": "recreational",
+                  "coords": [
+                        8.511101,
+                        44.32894
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera attrezzata",
+                  "text": "A public beach section in Savona with basic facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.513399,
+                        44.329234
                   ]
             }
       ]
@@ -23648,6 +24764,177 @@ export const italyCitiesV2: POI[] = [
                         14.253747,
                         42.44473
                   ]
+            },
+            {
+                  "name": "Lo Smeraldo",
+                  "text": "Ein Strandresort in Pescara mit Sonnenschirmen, Liegen und Gastronomie.",
+                  "category": "recreational",
+                  "coords": [
+                        14.1826,
+                        42.496327
+                  ]
+            },
+            {
+                  "name": "Il Veliero",
+                  "text": "Ein Strandresort in Pescara mit Sonnenschirmen, Liegen und Gastronomie.",
+                  "category": "recreational",
+                  "coords": [
+                        14.181698,
+                        42.497261
+                  ]
+            },
+            {
+                  "name": "La Bussola",
+                  "text": "Ein Strandresort in Pescara mit Sonnenschirmen, Liegen und Gastronomie.",
+                  "category": "recreational",
+                  "coords": [
+                        14.178156,
+                        42.500583
+                  ]
+            },
+            {
+                  "name": "Le 3 Palme",
+                  "text": "Ein Strandresort in Pescara mit Sonnenschirmen, Liegen und Gastronomie.",
+                  "category": "recreational",
+                  "coords": [
+                        14.184093,
+                        42.494943
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Ein öffentlicher Abschnitt der Küste von Pescara, der für die Allgemeinheit zugänglich ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.234884,
+                        42.45873
+                  ]
+            },
+            {
+                  "name": "Cavallino Azzurro",
+                  "text": "Ein gut ausgestattetes Strandbad in Pescara, das Sonnenschirme und verschiedene Serviceleistungen für Badegäste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.233762,
+                        42.45971
+                  ]
+            },
+            {
+                  "name": "La Capponcina",
+                  "text": "Dieses Strandbad in Pescara bietet eine gepflegte Infrastruktur für einen erholsamen Tag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.197782,
+                        42.483048
+                  ]
+            },
+            {
+                  "name": "4 Vele",
+                  "text": "Ein beliebtes Strandbad in Pescara mit umfassenden Einrichtungen für Entspannung und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        14.203544,
+                        42.479833
+                  ]
+            },
+            {
+                  "name": "Ristorante Lido Apollo",
+                  "text": "Ein kombiniertes Restaurant und Strandbad in Pescara, das kulinarische Genüsse direkt am Meer ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219835,
+                        42.46875
+                  ]
+            },
+            {
+                  "name": "Le Canarie",
+                  "text": "Ein typisches Strandbad an der Küste von Pescara mit klassischem Serviceangebot für Sommertouristen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231235,
+                        42.463018
+                  ]
+            },
+            {
+                  "name": "Sabbia d'Oro",
+                  "text": "Dieses Strandbad ist für seinen feinen Sand bekannt und bietet moderne Annehmlichkeiten in Pescara.",
+                  "category": "recreational",
+                  "coords": [
+                        14.232275,
+                        42.460842
+                  ]
+            },
+            {
+                  "name": "Ippo Beach",
+                  "text": "Ein modernes Strandbad in Pescara, das besonders bei einem jüngeren Publikum beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.237024,
+                        42.457224
+                  ]
+            },
+            {
+                  "name": "Panta rei",
+                  "text": "Ein ruhig gelegenes Strandbad in Pescara, ideal für Besucher, die Entspannung suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.210542,
+                        42.474611
+                  ]
+            },
+            {
+                  "name": "Baja la Maja",
+                  "text": "Dieses Strandbad bietet in Pescara eine stilvolle Umgebung für einen Tag an der Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.198847,
+                        42.482565
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia Azzurra",
+                  "text": "Ein Strandbad in Pescara mit umfassendem Service, das für seine blaue Kulisse bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.180273,
+                        42.499016
+                  ]
+            },
+            {
+                  "name": "Il faro",
+                  "text": "Ein in der Nähe des Hafens von Pescara gelegenes Strandbad mit Blick auf die Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        14.179323,
+                        42.499978
+                  ]
+            },
+            {
+                  "name": "La Lucciola",
+                  "text": "Ein Strandbad in Pescara, das Gästen eine entspannte Atmosphäre und gastronomische Angebote direkt am Sand bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.238735,
+                        42.456057
+                  ]
+            },
+            {
+                  "name": "Hawaii",
+                  "text": "Dieses Strandbad in Pescara bringt mit seinem Namen und Design ein exotisches Flair an die Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187446,
+                        42.492128
+                  ]
+            },
+            {
+                  "name": "Arena del Mare",
+                  "text": "Ein öffentlicher Strand in Pescara, der häufig als Veranstaltungsort für sommerliche Events genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.224223,
+                        42.468144
+                  ]
             }
       ],
       "hu": [
@@ -23991,6 +25278,177 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.253747,
                         42.44473
+                  ]
+            },
+            {
+                  "name": "Lo Smeraldo",
+                  "text": "Tengerparti üdülőhely Pescarában, ahol napernyők, nyugágyak és étkezési lehetőségek várják a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        14.1826,
+                        42.496327
+                  ]
+            },
+            {
+                  "name": "Il Veliero",
+                  "text": "Tengerparti üdülőhely Pescarában, ahol napernyők, nyugágyak és étkezési lehetőségek várják a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        14.181698,
+                        42.497261
+                  ]
+            },
+            {
+                  "name": "La Bussola",
+                  "text": "Tengerparti üdülőhely Pescarában, ahol napernyők, nyugágyak és étkezési lehetőségek várják a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        14.178156,
+                        42.500583
+                  ]
+            },
+            {
+                  "name": "Le 3 Palme",
+                  "text": "Tengerparti üdülőhely Pescarában, ahol napernyők, nyugágyak és étkezési lehetőségek várják a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        14.184093,
+                        42.494943
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Pescara tengerpartjának nyilvános szakasza, amely mindenki számára szabadon látogatható.",
+                  "category": "recreational",
+                  "coords": [
+                        14.234884,
+                        42.45873
+                  ]
+            },
+            {
+                  "name": "Cavallino Azzurro",
+                  "text": "Jól felszerelt strandfürdő Pescarában, amely napernyőket és különféle szolgáltatásokat kínál a fürdőzőknek.",
+                  "category": "recreational",
+                  "coords": [
+                        14.233762,
+                        42.45971
+                  ]
+            },
+            {
+                  "name": "La Capponcina",
+                  "text": "Ez a pescarai strandfürdő gondozott infrastruktúrát kínál egy pihentető tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.197782,
+                        42.483048
+                  ]
+            },
+            {
+                  "name": "4 Vele",
+                  "text": "Népszerű strandfürdő Pescarában, kiterjedt létesítményekkel a kikapcsolódáshoz és szabadidőhöz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.203544,
+                        42.479833
+                  ]
+            },
+            {
+                  "name": "Ristorante Lido Apollo",
+                  "text": "Kombinált étterem és strandfürdő Pescarában, amely gasztronómiai élményeket kínál közvetlenül a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219835,
+                        42.46875
+                  ]
+            },
+            {
+                  "name": "Le Canarie",
+                  "text": "Tipikus strandfürdő Pescara partjainál, klasszikus szolgáltatásokkal a nyári turisták számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231235,
+                        42.463018
+                  ]
+            },
+            {
+                  "name": "Sabbia d'Oro",
+                  "text": "Ez a strandfürdő finom homokjáról ismert, és modern kényelmi szolgáltatásokat kínál Pescarában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.232275,
+                        42.460842
+                  ]
+            },
+            {
+                  "name": "Ippo Beach",
+                  "text": "Modern strandfürdő Pescarában, amely különösen a fiatalabb közönség körében népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        14.237024,
+                        42.457224
+                  ]
+            },
+            {
+                  "name": "Panta rei",
+                  "text": "Nyugodt fekvésű strandfürdő Pescarában, ideális a kikapcsolódni vágyó látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.210542,
+                        42.474611
+                  ]
+            },
+            {
+                  "name": "Baja la Maja",
+                  "text": "Ez a strandfürdő stílusos környezetet biztosít Pescarában egy nap eltöltéséhez az adriai tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.198847,
+                        42.482565
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia Azzurra",
+                  "text": "Teljes körű szolgáltatást nyújtó strandfürdő Pescarában, amely kék díszletéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.180273,
+                        42.499016
+                  ]
+            },
+            {
+                  "name": "Il faro",
+                  "text": "Pescara kikötőjének közelében található strandfürdő, kilátással a tengerparti tájra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.179323,
+                        42.499978
+                  ]
+            },
+            {
+                  "name": "La Lucciola",
+                  "text": "Pescarai strandfürdő, amely pihentető légkört és gasztronómiai kínálatot nyújt a homokos parton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.238735,
+                        42.456057
+                  ]
+            },
+            {
+                  "name": "Hawaii",
+                  "text": "Ez a pescarai strandfürdő nevével és kialakításával egzotikus hangulatot áraszt az Adriánál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187446,
+                        42.492128
+                  ]
+            },
+            {
+                  "name": "Arena del Mare",
+                  "text": "Nyilvános strand Pescarában, amelyet gyakran használnak nyári események helyszínéül.",
+                  "category": "recreational",
+                  "coords": [
+                        14.224223,
+                        42.468144
                   ]
             }
       ],
@@ -24336,6 +25794,177 @@ export const italyCitiesV2: POI[] = [
                         14.253747,
                         42.44473
                   ]
+            },
+            {
+                  "name": "Lo Smeraldo",
+                  "text": "O stațiune de coastă din Pescara care oferă umbrele, sezlonguri și opțiuni de luat masa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.1826,
+                        42.496327
+                  ]
+            },
+            {
+                  "name": "Il Veliero",
+                  "text": "O stațiune de coastă din Pescara care oferă umbrele, sezlonguri și opțiuni de luat masa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.181698,
+                        42.497261
+                  ]
+            },
+            {
+                  "name": "La Bussola",
+                  "text": "O stațiune de coastă din Pescara care oferă umbrele, sezlonguri și opțiuni de luat masa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.178156,
+                        42.500583
+                  ]
+            },
+            {
+                  "name": "Le 3 Palme",
+                  "text": "O stațiune de coastă din Pescara care oferă umbrele, sezlonguri și opțiuni de luat masa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.184093,
+                        42.494943
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "O secțiune publică a coastei Pescara, accesibilă publicului larg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.234884,
+                        42.45873
+                  ]
+            },
+            {
+                  "name": "Cavallino Azzurro",
+                  "text": "O stațiune balneară bine echipată din Pescara, care oferă umbrele și diverse servicii pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        14.233762,
+                        42.45971
+                  ]
+            },
+            {
+                  "name": "La Capponcina",
+                  "text": "Această stațiune balneară din Pescara oferă o infrastructură bine întreținută pentru o zi relaxantă la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.197782,
+                        42.483048
+                  ]
+            },
+            {
+                  "name": "4 Vele",
+                  "text": "O stațiune balneară populară din Pescara, cu facilități extinse pentru relaxare și petrecere a timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        14.203544,
+                        42.479833
+                  ]
+            },
+            {
+                  "name": "Ristorante Lido Apollo",
+                  "text": "Un restaurant și stațiune balneară combinată în Pescara, care permite experiențe culinare direct la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219835,
+                        42.46875
+                  ]
+            },
+            {
+                  "name": "Le Canarie",
+                  "text": "O stațiune balneară tipică de pe coasta din Pescara, cu servicii clasice pentru turiștii de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231235,
+                        42.463018
+                  ]
+            },
+            {
+                  "name": "Sabbia d'Oro",
+                  "text": "Această stațiune balneară este cunoscută pentru nisipul său fin și oferă facilități moderne în Pescara.",
+                  "category": "recreational",
+                  "coords": [
+                        14.232275,
+                        42.460842
+                  ]
+            },
+            {
+                  "name": "Ippo Beach",
+                  "text": "O stațiune balneară modernă din Pescara, care este populară în special în rândul publicului tânăr.",
+                  "category": "recreational",
+                  "coords": [
+                        14.237024,
+                        42.457224
+                  ]
+            },
+            {
+                  "name": "Panta rei",
+                  "text": "O stațiune balneară situată într-o zonă liniștită din Pescara, ideală pentru vizitatorii care caută relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.210542,
+                        42.474611
+                  ]
+            },
+            {
+                  "name": "Baja la Maja",
+                  "text": "Această stațiune balneară oferă în Pescara un cadru elegant pentru o zi pe coasta Adriaticii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.198847,
+                        42.482565
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia Azzurra",
+                  "text": "O stațiune balneară din Pescara cu servicii complete, cunoscută pentru decorul său albastru.",
+                  "category": "recreational",
+                  "coords": [
+                        14.180273,
+                        42.499016
+                  ]
+            },
+            {
+                  "name": "Il faro",
+                  "text": "O stațiune balneară situată în apropierea portului din Pescara, cu vedere la peisajul de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.179323,
+                        42.499978
+                  ]
+            },
+            {
+                  "name": "La Lucciola",
+                  "text": "O stațiune balneară din Pescara, care oferă oaspeților o atmosferă relaxată și oferte gastronomice direct pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        14.238735,
+                        42.456057
+                  ]
+            },
+            {
+                  "name": "Hawaii",
+                  "text": "Această stațiune balneară din Pescara aduce un fler exotic la Marea Adriatică prin numele și designul său.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187446,
+                        42.492128
+                  ]
+            },
+            {
+                  "name": "Arena del Mare",
+                  "text": "O plajă publică din Pescara, care este adesea folosită ca loc de desfășurare pentru evenimente estivale.",
+                  "category": "recreational",
+                  "coords": [
+                        14.224223,
+                        42.468144
+                  ]
             }
       ],
       "en": [
@@ -24679,6 +26308,177 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.253747,
                         42.44473
+                  ]
+            },
+            {
+                  "name": "Lo Smeraldo",
+                  "text": "A coastal beach resort in Pescara providing umbrellas, sunbeds, and dining options.",
+                  "category": "recreational",
+                  "coords": [
+                        14.1826,
+                        42.496327
+                  ]
+            },
+            {
+                  "name": "Il Veliero",
+                  "text": "A coastal beach resort in Pescara providing umbrellas, sunbeds, and dining options.",
+                  "category": "recreational",
+                  "coords": [
+                        14.181698,
+                        42.497261
+                  ]
+            },
+            {
+                  "name": "La Bussola",
+                  "text": "A coastal beach resort in Pescara providing umbrellas, sunbeds, and dining options.",
+                  "category": "recreational",
+                  "coords": [
+                        14.178156,
+                        42.500583
+                  ]
+            },
+            {
+                  "name": "Le 3 Palme",
+                  "text": "A coastal beach resort in Pescara providing umbrellas, sunbeds, and dining options.",
+                  "category": "recreational",
+                  "coords": [
+                        14.184093,
+                        42.494943
+                  ]
+            },
+            {
+                  "name": "Free beach",
+                  "text": "A public section of the Pescara coastline accessible to the general public.",
+                  "category": "recreational",
+                  "coords": [
+                        14.234884,
+                        42.45873
+                  ]
+            },
+            {
+                  "name": "Cavallino Azzurro",
+                  "text": "A well-equipped beach resort in Pescara offering sun umbrellas and various services for bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.233762,
+                        42.45971
+                  ]
+            },
+            {
+                  "name": "La Capponcina",
+                  "text": "This beach resort in Pescara offers well-maintained infrastructure for a relaxing day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.197782,
+                        42.483048
+                  ]
+            },
+            {
+                  "name": "4 Vele",
+                  "text": "A popular beach resort in Pescara with extensive facilities for relaxation and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        14.203544,
+                        42.479833
+                  ]
+            },
+            {
+                  "name": "Ristorante Lido Apollo",
+                  "text": "A combined restaurant and beach resort in Pescara allowing for culinary enjoyment right by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219835,
+                        42.46875
+                  ]
+            },
+            {
+                  "name": "Le Canarie",
+                  "text": "A typical beach resort on the Pescara coast with classic services for summer tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231235,
+                        42.463018
+                  ]
+            },
+            {
+                  "name": "Sabbia d'Oro",
+                  "text": "This beach resort is known for its fine sand and offers modern amenities in Pescara.",
+                  "category": "recreational",
+                  "coords": [
+                        14.232275,
+                        42.460842
+                  ]
+            },
+            {
+                  "name": "Ippo Beach",
+                  "text": "A modern beach resort in Pescara that is particularly popular with a younger crowd.",
+                  "category": "recreational",
+                  "coords": [
+                        14.237024,
+                        42.457224
+                  ]
+            },
+            {
+                  "name": "Panta rei",
+                  "text": "A quietly located beach resort in Pescara, ideal for visitors seeking relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.210542,
+                        42.474611
+                  ]
+            },
+            {
+                  "name": "Baja la Maja",
+                  "text": "This beach resort provides a stylish setting in Pescara for a day on the Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.198847,
+                        42.482565
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia Azzurra",
+                  "text": "A beach resort in Pescara with comprehensive service, known for its blue-themed setting.",
+                  "category": "recreational",
+                  "coords": [
+                        14.180273,
+                        42.499016
+                  ]
+            },
+            {
+                  "name": "Il faro",
+                  "text": "A beach resort located near the port of Pescara with views of the coastal landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        14.179323,
+                        42.499978
+                  ]
+            },
+            {
+                  "name": "La Lucciola",
+                  "text": "A beach resort in Pescara offering guests a relaxed atmosphere and dining options right on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.238735,
+                        42.456057
+                  ]
+            },
+            {
+                  "name": "Hawaii",
+                  "text": "This beach resort in Pescara brings an exotic flair to the Adriatic with its name and design.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187446,
+                        42.492128
+                  ]
+            },
+            {
+                  "name": "Arena del Mare",
+                  "text": "A public beach in Pescara that is often used as a venue for summer events.",
+                  "category": "recreational",
+                  "coords": [
+                        14.224223,
+                        42.468144
                   ]
             }
       ]
@@ -30236,6 +32036,24 @@ export const italyCitiesV2: POI[] = [
                         12.946867,
                         43.893659
                   ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Spiaggia libera ist ein öffentlicher Strandabschnitt in Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941267,
+                        43.897996
+                  ]
+            },
+            {
+                  "name": "Bagni Marinai",
+                  "text": "Bagni Marinai ist ein Strandbad in Pesaro, das Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908375,
+                        43.921672
+                  ]
             }
       ],
       "hu": [
@@ -30687,6 +32505,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.946867,
                         43.893659
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "A Spiaggia libera egy nyilvános strand Pesaro városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941267,
+                        43.897996
+                  ]
+            },
+            {
+                  "name": "Bagni Marinai",
+                  "text": "A Bagni Marinai egy tengerparti üdülőhely Pesaro városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908375,
+                        43.921672
                   ]
             }
       ],
@@ -31140,6 +32976,24 @@ export const italyCitiesV2: POI[] = [
                         12.946867,
                         43.893659
                   ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Spiaggia libera este o plajă publică în Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941267,
+                        43.897996
+                  ]
+            },
+            {
+                  "name": "Bagni Marinai",
+                  "text": "Bagni Marinai este o stațiune de plajă din Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908375,
+                        43.921672
+                  ]
             }
       ],
       "en": [
@@ -31592,6 +33446,24 @@ export const italyCitiesV2: POI[] = [
                         12.946867,
                         43.893659
                   ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Spiaggia libera is a public beach area in Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941267,
+                        43.897996
+                  ]
+            },
+            {
+                  "name": "Bagni Marinai",
+                  "text": "Bagni Marinai is a beach resort in Pesaro offering seaside amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908375,
+                        43.921672
+                  ]
             }
       ]
 },
@@ -31793,6 +33665,33 @@ export const italyCitiesV2: POI[] = [
                         15.649762,
                         38.109234
                   ]
+            },
+            {
+                  "name": "Lido comunale",
+                  "text": "Ein historisches Strandbad in Reggio Calabria, das zentral am Meer gelegen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.648602,
+                        38.115754
+                  ]
+            },
+            {
+                  "name": "Mahe Beach Club",
+                  "text": "Ein moderner Beach Club in Reggio Calabria, der Entspannung und Service am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646265,
+                        38.112381
+                  ]
+            },
+            {
+                  "name": "Calajunco Yacht Club",
+                  "text": "Ein exklusives Strandbad und Veranstaltungsort an der Küste von Reggio Calabria.",
+                  "category": "recreational",
+                  "coords": [
+                        15.647311,
+                        38.113143
+                  ]
             }
       ],
       "hu": [
@@ -31947,6 +33846,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.649762,
                         38.109234
+                  ]
+            },
+            {
+                  "name": "Lido comunale",
+                  "text": "Történelmi strandfürdő Reggio Calabriában, központi helyen, a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        15.648602,
+                        38.115754
+                  ]
+            },
+            {
+                  "name": "Mahe Beach Club",
+                  "text": "Modern strandklub Reggio Calabriában, amely kikapcsolódást és szolgáltatásokat kínál a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646265,
+                        38.112381
+                  ]
+            },
+            {
+                  "name": "Calajunco Yacht Club",
+                  "text": "Exkluzív strandfürdő és rendezvényhelyszín Reggio Calabria partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.647311,
+                        38.113143
                   ]
             }
       ],
@@ -32103,6 +34029,33 @@ export const italyCitiesV2: POI[] = [
                         15.649762,
                         38.109234
                   ]
+            },
+            {
+                  "name": "Lido comunale",
+                  "text": "O stațiune balneară istorică în Reggio Calabria, situată central pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        15.648602,
+                        38.115754
+                  ]
+            },
+            {
+                  "name": "Mahe Beach Club",
+                  "text": "Un club de plajă modern în Reggio Calabria, oferind relaxare și servicii pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646265,
+                        38.112381
+                  ]
+            },
+            {
+                  "name": "Calajunco Yacht Club",
+                  "text": "O stațiune balneară exclusivistă și locație de evenimente pe coasta din Reggio Calabria.",
+                  "category": "recreational",
+                  "coords": [
+                        15.647311,
+                        38.113143
+                  ]
             }
       ],
       "en": [
@@ -32257,6 +34210,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.649762,
                         38.109234
+                  ]
+            },
+            {
+                  "name": "Lido comunale",
+                  "text": "A historic beach resort in Reggio Calabria, centrally located on the seafront.",
+                  "category": "recreational",
+                  "coords": [
+                        15.648602,
+                        38.115754
+                  ]
+            },
+            {
+                  "name": "Mahe Beach Club",
+                  "text": "A modern beach club in Reggio Calabria offering relaxation and services by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646265,
+                        38.112381
+                  ]
+            },
+            {
+                  "name": "Calajunco Yacht Club",
+                  "text": "An exclusive beach resort and event venue on the coast of Reggio Calabria.",
+                  "category": "recreational",
+                  "coords": [
+                        15.647311,
+                        38.113143
                   ]
             }
       ]
@@ -33404,6 +35384,69 @@ export const italyCitiesV2: POI[] = [
                         14.383108,
                         40.771224
                   ]
+            },
+            {
+                  "name": "Lido la Sirenetta",
+                  "text": "Ein Strandresort in Torre del Greco, das Entspannung am Golf von Neapel bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.396271,
+                        40.759308
+                  ]
+            },
+            {
+                  "name": "Lido 7 Bello",
+                  "text": "Ein gut ausgestattetes Strandbad in Torre del Greco für Sonnenanbeter.",
+                  "category": "recreational",
+                  "coords": [
+                        14.394739,
+                        40.760133
+                  ]
+            },
+            {
+                  "name": "Lido Incantesimo",
+                  "text": "Ein gemütliches Strandresort in Torre del Greco, ideal für einen Tag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393475,
+                        40.761647
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "Ein beliebtes Strandbad in Torre del Greco mit Blick auf das Tyrrhenische Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.392599,
+                        40.762651
+                  ]
+            },
+            {
+                  "name": "Lido Tritone",
+                  "text": "Ein modernes Strandbad in Torre del Greco mit komfortablen Liegeplätzen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.391243,
+                        40.763885
+                  ]
+            },
+            {
+                  "name": "Lido Miramare",
+                  "text": "Ein elegantes Strandresort in Torre del Greco mit weitem Meerblick.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389256,
+                        40.765874
+                  ]
+            },
+            {
+                  "name": "Lido del Sole",
+                  "text": "Ein einladender Strandclub in Torre del Greco für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        14.387725,
+                        40.767483
+                  ]
             }
       ],
       "hu": [
@@ -33477,6 +35520,69 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.383108,
                         40.771224
+                  ]
+            },
+            {
+                  "name": "Lido la Sirenetta",
+                  "text": "Strandüdülőhely Torre del Greco városában, amely kikapcsolódást kínál a Nápolyi-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        14.396271,
+                        40.759308
+                  ]
+            },
+            {
+                  "name": "Lido 7 Bello",
+                  "text": "Jól felszerelt strandfürdő Torre del Greco városában a napozni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.394739,
+                        40.760133
+                  ]
+            },
+            {
+                  "name": "Lido Incantesimo",
+                  "text": "Hangulatos tengerparti üdülőhely Torre del Greco városában, ideális egy tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393475,
+                        40.761647
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "Népszerű strandfürdő Torre del Greco városában, kilátással a Tirrén-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.392599,
+                        40.762651
+                  ]
+            },
+            {
+                  "name": "Lido Tritone",
+                  "text": "Modern strandfürdő Torre del Greco városában kényelmes pihenőhelyekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.391243,
+                        40.763885
+                  ]
+            },
+            {
+                  "name": "Lido Miramare",
+                  "text": "Elegáns tengerparti üdülőhely Torre del Greco városában, tágas kilátással a tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389256,
+                        40.765874
+                  ]
+            },
+            {
+                  "name": "Lido del Sole",
+                  "text": "Hívogató strandklub Torre del Greco városában a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.387725,
+                        40.767483
                   ]
             }
       ],
@@ -33552,6 +35658,69 @@ export const italyCitiesV2: POI[] = [
                         14.383108,
                         40.771224
                   ]
+            },
+            {
+                  "name": "Lido la Sirenetta",
+                  "text": "O stațiune de plajă în Torre del Greco, oferind relaxare la Golful Napoli.",
+                  "category": "recreational",
+                  "coords": [
+                        14.396271,
+                        40.759308
+                  ]
+            },
+            {
+                  "name": "Lido 7 Bello",
+                  "text": "O bază de agrement la plajă în Torre del Greco, bine echipată pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        14.394739,
+                        40.760133
+                  ]
+            },
+            {
+                  "name": "Lido Incantesimo",
+                  "text": "O stațiune de plajă primitoare în Torre del Greco, ideală pentru o zi la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393475,
+                        40.761647
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "Un stabiliment balnear popular în Torre del Greco, cu vedere la Marea Tireniană.",
+                  "category": "recreational",
+                  "coords": [
+                        14.392599,
+                        40.762651
+                  ]
+            },
+            {
+                  "name": "Lido Tritone",
+                  "text": "Un stabiliment balnear modern în Torre del Greco, cu locuri de relaxare confortabile.",
+                  "category": "recreational",
+                  "coords": [
+                        14.391243,
+                        40.763885
+                  ]
+            },
+            {
+                  "name": "Lido Miramare",
+                  "text": "O stațiune de plajă elegantă în Torre del Greco, cu vedere largă la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389256,
+                        40.765874
+                  ]
+            },
+            {
+                  "name": "Lido del Sole",
+                  "text": "Un club de plajă primitor în Torre del Greco pentru recreere estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        14.387725,
+                        40.767483
+                  ]
             }
       ],
       "en": [
@@ -33625,6 +35794,69 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.383108,
                         40.771224
+                  ]
+            },
+            {
+                  "name": "Lido la Sirenetta",
+                  "text": "A beach resort in Torre del Greco offering relaxation by the Gulf of Naples.",
+                  "category": "recreational",
+                  "coords": [
+                        14.396271,
+                        40.759308
+                  ]
+            },
+            {
+                  "name": "Lido 7 Bello",
+                  "text": "A well-equipped beach resort in Torre del Greco for sun seekers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.394739,
+                        40.760133
+                  ]
+            },
+            {
+                  "name": "Lido Incantesimo",
+                  "text": "A cozy beach resort in Torre del Greco, ideal for a day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393475,
+                        40.761647
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "A popular beach resort in Torre del Greco overlooking the Tyrrhenian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.392599,
+                        40.762651
+                  ]
+            },
+            {
+                  "name": "Lido Tritone",
+                  "text": "A modern beach resort in Torre del Greco with comfortable lounging areas.",
+                  "category": "recreational",
+                  "coords": [
+                        14.391243,
+                        40.763885
+                  ]
+            },
+            {
+                  "name": "Lido Miramare",
+                  "text": "An elegant beach resort in Torre del Greco with wide sea views.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389256,
+                        40.765874
+                  ]
+            },
+            {
+                  "name": "Lido del Sole",
+                  "text": "An inviting beach club in Torre del Greco for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.387725,
+                        40.767483
                   ]
             }
       ]
@@ -36913,7 +39145,700 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-caltanissetta-cities-v2.webp",
   },
   {
-    id: "italy-sanremo-cities-v2", "sights": {"de": [{"name": "Museo Civico di Sanremo", "text": "Das Stadtmuseum von Sanremo präsentiert archäologische Funde und Kunstwerke der Region.", "category": "museum", "coords": [7.775829, 43.81776]}, {"name": "Villa Nobel", "text": "Das ehemalige Wohnhaus von Alfred Nobel in Sanremo, das heute als Museum dient.", "category": "museum", "coords": [7.792756, 43.821264]}, {"name": "Villa romana della Foce", "text": "Die Überreste einer antiken römischen Villa direkt an der Küste von Sanremo.", "category": "historical", "coords": [7.759397, 43.808203]}, {"name": "Raccolte di Fisica del Liceo G.D. Cassini", "text": "Eine Sammlung historischer wissenschaftlicher Instrumente im Liceo Cassini in Sanremo.", "category": "museum", "coords": [7.785984, 43.822647]}, {"name": "Museo della Musica", "text": "Ein Museum in Sanremo, das der Geschichte und Vielfalt der Musik gewidmet ist.", "category": "museum", "coords": [7.771898, 43.814005]}, {"name": "Museo della Canzone Italiana", "text": "Dieses Museum in Sanremo dokumentiert die Entwicklung des italienischen Liedguts.", "category": "museum", "coords": [7.776841, 43.817251]}, {"name": "Palazzo Gentile Spinola", "text": "Ein historischer Adelspalast in Sanremo mit einer charakteristischen Fassade.", "category": "castle", "coords": [7.774892, 43.818517]}, {"name": "Spiaggia la piccola caletta", "text": "Versteckt in der Umgebung von Sanremo liegt die Spiaggia la piccola caletta, eine bezaubernde, kleine Bucht. Diese intime Küstenkulisse ist wie geschaffen für alle, die eine ruhigere Alternative zu den großen Stränden der Riviera suchen. Da der Platz in dieser malerischen Nische begrenzt ist, empfiehlt sich eine zeitige Anreise am Morgen.", "category": "recreational", "coords": [7.798377, 43.820225]}, {"name": "Ippocampo srl", "text": "Ein ausgestatteter Strandclub an der Küste von Sanremo, der touristische Dienstleistungen anbietet.", "category": "recreational", "coords": [7.761343, 43.808517]}, {"name": "Bagni Paradiso", "text": "Ein Küstenabschnitt in Sanremo mit Stranddienstleistungen für Besucher.", "category": "recreational", "coords": [7.762922, 43.8091]}, {"name": "Tre Ponti", "text": "Der größte öffentliche Strand in Sanremo, beliebt für Wassersport und Surfen.", "category": "recreational", "coords": [7.812744, 43.822305]}, {"name": "Area archeologica Pian di Nave", "text": "Ausgrabungsstätte in Sanremo mit Funden aus der römischen und vorrömischen Zeit.", "category": "historical", "coords": [7.777549, 43.814484]}, {"name": "Parco Marsaglia", "text": "Öffentliche Parkanlage in Sanremo mit exotischen Pflanzen und einem Sommertheater.", "category": "park", "coords": [7.767125, 43.813152]}, {"name": "Cattedrale di San Siro", "text": "Romanische Co-Kathedrale aus dem 12. Jahrhundert im historischen Zentrum von Sanremo.", "category": "religious", "coords": [7.774121, 43.816838]}, {"name": "Torre della Ciapella", "text": "Ein quadratischer Turm aus dem 16. Jahrhundert, der Teil der Verteidigungsanlage gegen Sarazenen war.", "category": "tower", "coords": [7.77329, 43.818117]}], "hu": [{"name": "Museo Civico di Sanremo", "text": "Sanremo városi múzeuma régészeti leleteket és helyi művészeti alkotásokat mutat be.", "category": "museum", "coords": [7.775829, 43.81776]}, {"name": "Villa Nobel", "text": "Alfred Nobel egykori lakóháza Sanremóban, amely ma múzeumként működik.", "category": "museum", "coords": [7.792756, 43.821264]}, {"name": "Villa romana della Foce", "text": "Egy ókori római villa maradványai közvetlenül Sanremo tengerpartján.", "category": "historical", "coords": [7.759397, 43.808203]}, {"name": "Raccolte di Fisica del Liceo G.D. Cassini", "text": "Történelmi tudományos műszerek gyűjteménye a sanremói Liceo Cassini épületében.", "category": "museum", "coords": [7.785984, 43.822647]}, {"name": "Museo della Musica", "text": "A zene történetének és változatosságának szentelt múzeum Sanremóban.", "category": "museum", "coords": [7.771898, 43.814005]}, {"name": "Museo della Canzone Italiana", "text": "Ez a sanremói múzeum az olasz dalkultúra fejlődését dokumentálja.", "category": "museum", "coords": [7.776841, 43.817251]}, {"name": "Palazzo Gentile Spinola", "text": "Történelmi nemesi palota Sanremóban, jellegzetes homlokzattal.", "category": "castle", "coords": [7.774892, 43.818517]}, {"name": "Spiaggia la piccola caletta", "text": "Sanremo környékén bújik meg a Spiaggia la piccola caletta, egy lenyűgöző és apró tengeröböl. Ez a bensőséges partszakasz tökéletes menedék azoknak, akik a Riviéra nagy és zsúfolt strandjai helyett csendesebb pihenésre vágynak. Mivel ebben a festői öbölben korlátozott a hely, ajánlott már kora reggel odaérni.", "category": "recreational", "coords": [7.798377, 43.820225]}, {"name": "Ippocampo srl", "text": "Kiépített strandklub Sanremo tengerpartján, amely turisztikai szolgáltatásokat kínál.", "category": "recreational", "coords": [7.761343, 43.808517]}, {"name": "Bagni Paradiso", "text": "Tengerparti szakasz Sanremóban, amely strandolási lehetőséget biztosít a látogatóknak.", "category": "recreational", "coords": [7.762922, 43.8091]}, {"name": "Tre Ponti", "text": "Sanremo legnagyobb nyilvános strandja, amely vízi sportokról és szörfözésről ismert.", "category": "recreational", "coords": [7.812744, 43.822305]}, {"name": "Area archeologica Pian di Nave", "text": "Régészeti terület Sanremóban, római és római kor előtti leletekkel.", "category": "historical", "coords": [7.777549, 43.814484]}, {"name": "Parco Marsaglia", "text": "Sanremo nyilvános parkja egzotikus növényekkel és egy nyári színházzal.", "category": "park", "coords": [7.767125, 43.813152]}, {"name": "Cattedrale di San Siro", "text": "12. századi román stílusú társszékesegyház Sanremo történelmi központjában.", "category": "religious", "coords": [7.774121, 43.816838]}, {"name": "Torre della Ciapella", "text": "16. századi négyszögletes torony, amely a szaracénok elleni védelmi rendszer része volt.", "category": "tower", "coords": [7.77329, 43.818117]}], "ro": [{"name": "Museo Civico di Sanremo", "text": "Muzeul civic din Sanremo prezintă descoperiri arheologice și opere de artă regionale.", "category": "museum", "coords": [7.775829, 43.81776]}, {"name": "Villa Nobel", "text": "Fosta reședință a lui Alfred Nobel din Sanremo, care servește astăzi ca muzeu.", "category": "museum", "coords": [7.792756, 43.821264]}, {"name": "Villa romana della Foce", "text": "Rămășițele unei vile romane antice situate pe coasta orașului Sanremo.", "category": "historical", "coords": [7.759397, 43.808203]}, {"name": "Raccolte di Fisica del Liceo G.D. Cassini", "text": "O colecție de instrumente științifice istorice aflată în cadrul Liceului Cassini din Sanremo.", "category": "museum", "coords": [7.785984, 43.822647]}, {"name": "Museo della Musica", "text": "Un muzeu din Sanremo dedicat istoriei și diversității muzicii.", "category": "museum", "coords": [7.771898, 43.814005]}, {"name": "Museo della Canzone Italiana", "text": "Acest muzeu din Sanremo documentează evoluția cântecului italian.", "category": "museum", "coords": [7.776841, 43.817251]}, {"name": "Palazzo Gentile Spinola", "text": "Un palat nobiliar istoric din Sanremo, cu o fațadă caracteristică.", "category": "castle", "coords": [7.774892, 43.818517]}, {"name": "Spiaggia la piccola caletta", "text": "Ascunsă în împrejurimile orașului Sanremo se află Spiaggia la piccola caletta, un golfuleț mic și plin de farmec. Acest decor intim de coastă este ideal pentru cei care caută o alternativă mai liniștită la plajele mari ale Rivierei. Deoarece spațiul este limitat în această nișă pitorească, o sosire matinală este cu siguranță recomandată.", "category": "recreational", "coords": [7.798377, 43.820225]}, {"name": "Ippocampo srl", "text": "Un club de plajă amenajat pe coasta orașului Sanremo, oferind servicii turistice.", "category": "recreational", "coords": [7.761343, 43.808517]}, {"name": "Bagni Paradiso", "text": "O secțiune de coastă în Sanremo care oferă servicii de plajă vizitatorilor.", "category": "recreational", "coords": [7.762922, 43.8091]}, {"name": "Tre Ponti", "text": "Cea mai mare plajă publică din Sanremo, populară pentru sporturi nautice și surf.", "category": "recreational", "coords": [7.812744, 43.822305]}, {"name": "Area archeologica Pian di Nave", "text": "Zonă arheologică din Sanremo cu descoperiri din epoca romană și preromană.", "category": "historical", "coords": [7.777549, 43.814484]}, {"name": "Parco Marsaglia", "text": "Parc public din Sanremo cu plante exotice și un teatru de vară.", "category": "park", "coords": [7.767125, 43.813152]}, {"name": "Cattedrale di San Siro", "text": "Concatedrală romanică din secolul al XII-lea situată în centrul istoric din Sanremo.", "category": "religious", "coords": [7.774121, 43.816838]}, {"name": "Torre della Ciapella", "text": "Un turn pătrat din secolul al XVI-lea, parte a sistemului de apărare împotriva sarazinilor.", "category": "tower", "coords": [7.77329, 43.818117]}], "en": [{"name": "Museo Civico di Sanremo", "text": "The civic museum of Sanremo displays archaeological finds and regional artworks.", "category": "museum", "coords": [7.775829, 43.81776]}, {"name": "Villa Nobel", "text": "The former residence of Alfred Nobel in Sanremo, which now serves as a museum.", "category": "museum", "coords": [7.792756, 43.821264]}, {"name": "Villa romana della Foce", "text": "The remains of an ancient Roman villa located on the coast of Sanremo.", "category": "historical", "coords": [7.759397, 43.808203]}, {"name": "Raccolte di Fisica del Liceo G.D. Cassini", "text": "A collection of historical scientific instruments at the Liceo Cassini in Sanremo.", "category": "museum", "coords": [7.785984, 43.822647]}, {"name": "Museo della Musica", "text": "A museum in Sanremo dedicated to the history and diversity of music.", "category": "museum", "coords": [7.771898, 43.814005]}, {"name": "Museo della Canzone Italiana", "text": "This museum in Sanremo documents the evolution of the Italian song.", "category": "museum", "coords": [7.776841, 43.817251]}, {"name": "Palazzo Gentile Spinola", "text": "A historical noble palace in Sanremo featuring a characteristic facade.", "category": "castle", "coords": [7.774892, 43.818517]}, {"name": "Spiaggia la piccola caletta", "text": "Tucked away in the surroundings of Sanremo lies the Spiaggia la piccola caletta, a charming and small bay. This intimate coastal setting is perfectly suited for those seeking a quieter alternative to the larger beaches of the Riviera. Because space is quite limited in this picturesque cove, arriving early in the morning is highly recommended.", "category": "recreational", "coords": [7.798377, 43.820225]}, {"name": "Ippocampo srl", "text": "A managed beach club on the coast of Sanremo offering tourist services.", "category": "recreational", "coords": [7.761343, 43.808517]}, {"name": "Villa Sapienza Beach", "text": "A coastal section in Sanremo providing beach services to visitors.", "category": "recreational", "coords": [7.762922, 43.8091]}, {"name": "Tre Ponti", "text": "The largest public beach in Sanremo, popular for water sports and surfing.", "category": "recreational", "coords": [7.812744, 43.822305]}, {"name": "Area archeologica Pian di Nave", "text": "Archaeological area in Sanremo featuring Roman and pre-Roman finds.", "category": "historical", "coords": [7.777549, 43.814484]}, {"name": "Parco Marsaglia", "text": "Public park in Sanremo with exotic plants and a summer theatre.", "category": "park", "coords": [7.767125, 43.813152]}, {"name": "Cattedrale di San Siro", "text": "12th-century Romanesque co-cathedral located in the historic center of Sanremo.", "category": "religious", "coords": [7.774121, 43.816838]}, {"name": "Torre della Ciapella", "text": "A 16th-century square tower that was part of the defense system against Saracens.", "category": "tower", "coords": [7.77329, 43.818117]}]},
+    id: "italy-sanremo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "Das Stadtmuseum von Sanremo präsentiert archäologische Funde und Kunstwerke der Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "Das ehemalige Wohnhaus von Alfred Nobel in Sanremo, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "Die Überreste einer antiken römischen Villa direkt an der Küste von Sanremo.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "Eine Sammlung historischer wissenschaftlicher Instrumente im Liceo Cassini in Sanremo.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "Ein Museum in Sanremo, das der Geschichte und Vielfalt der Musik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "Dieses Museum in Sanremo dokumentiert die Entwicklung des italienischen Liedguts.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "Ein historischer Adelspalast in Sanremo mit einer charakteristischen Fassade.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "Versteckt in der Umgebung von Sanremo liegt die Spiaggia la piccola caletta, eine bezaubernde, kleine Bucht. Diese intime Küstenkulisse ist wie geschaffen für alle, die eine ruhigere Alternative zu den großen Stränden der Riviera suchen. Da der Platz in dieser malerischen Nische begrenzt ist, empfiehlt sich eine zeitige Anreise am Morgen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Ein ausgestatteter Strandclub an der Küste von Sanremo, der touristische Dienstleistungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "Ein Küstenabschnitt in Sanremo mit Stranddienstleistungen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "Der größte öffentliche Strand in Sanremo, beliebt für Wassersport und Surfen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Ausgrabungsstätte in Sanremo mit Funden aus der römischen und vorrömischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Öffentliche Parkanlage in Sanremo mit exotischen Pflanzen und einem Sommertheater.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "Romanische Co-Kathedrale aus dem 12. Jahrhundert im historischen Zentrum von Sanremo.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "Ein quadratischer Turm aus dem 16. Jahrhundert, der Teil der Verteidigungsanlage gegen Sarazenen war.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            },
+            {
+                  "name": "La Brezza",
+                  "text": "Ein Strandbad an der Küste von Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.808527,
+                        43.822828
+                  ]
+            },
+            {
+                  "name": "Bagni Azzurri",
+                  "text": "Ein Strandbad in Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.810556,
+                        43.82259
+                  ]
+            },
+            {
+                  "name": "Bagno San Martino",
+                  "text": "Ein Strandbad an der Küste von Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.795499,
+                        43.81958
+                  ]
+            },
+            {
+                  "name": "Il Cubo",
+                  "text": "Ein Strandbad in Sanremo für Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.815425,
+                        43.821983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "Sanremo városi múzeuma régészeti leleteket és helyi művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "Alfred Nobel egykori lakóháza Sanremóban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "Egy ókori római villa maradványai közvetlenül Sanremo tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "Történelmi tudományos műszerek gyűjteménye a sanremói Liceo Cassini épületében.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "A zene történetének és változatosságának szentelt múzeum Sanremóban.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "Ez a sanremói múzeum az olasz dalkultúra fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "Történelmi nemesi palota Sanremóban, jellegzetes homlokzattal.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "Sanremo környékén bújik meg a Spiaggia la piccola caletta, egy lenyűgöző és apró tengeröböl. Ez a bensőséges partszakasz tökéletes menedék azoknak, akik a Riviéra nagy és zsúfolt strandjai helyett csendesebb pihenésre vágynak. Mivel ebben a festői öbölben korlátozott a hely, ajánlott már kora reggel odaérni.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Kiépített strandklub Sanremo tengerpartján, amely turisztikai szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "Tengerparti szakasz Sanremóban, amely strandolási lehetőséget biztosít a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "Sanremo legnagyobb nyilvános strandja, amely vízi sportokról és szörfözésről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Régészeti terület Sanremóban, római és római kor előtti leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Sanremo nyilvános parkja egzotikus növényekkel és egy nyári színházzal.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "12. századi román stílusú társszékesegyház Sanremo történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "16. századi négyszögletes torony, amely a szaracénok elleni védelmi rendszer része volt.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            },
+            {
+                  "name": "La Brezza",
+                  "text": "Egy strandüdülőhely Sanremo partján.",
+                  "category": "recreational",
+                  "coords": [
+                        7.808527,
+                        43.822828
+                  ]
+            },
+            {
+                  "name": "Bagni Azzurri",
+                  "text": "Egy strandüdülőhely Sanremóban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.810556,
+                        43.82259
+                  ]
+            },
+            {
+                  "name": "Bagno San Martino",
+                  "text": "Egy strandüdülőhely Sanremo partján.",
+                  "category": "recreational",
+                  "coords": [
+                        7.795499,
+                        43.81958
+                  ]
+            },
+            {
+                  "name": "Il Cubo",
+                  "text": "Egy strandüdülőhely Sanremóban a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.815425,
+                        43.821983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "Muzeul civic din Sanremo prezintă descoperiri arheologice și opere de artă regionale.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "Fosta reședință a lui Alfred Nobel din Sanremo, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "Rămășițele unei vile romane antice situate pe coasta orașului Sanremo.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "O colecție de instrumente științifice istorice aflată în cadrul Liceului Cassini din Sanremo.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "Un muzeu din Sanremo dedicat istoriei și diversității muzicii.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "Acest muzeu din Sanremo documentează evoluția cântecului italian.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "Un palat nobiliar istoric din Sanremo, cu o fațadă caracteristică.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "Ascunsă în împrejurimile orașului Sanremo se află Spiaggia la piccola caletta, un golfuleț mic și plin de farmec. Acest decor intim de coastă este ideal pentru cei care caută o alternativă mai liniștită la plajele mari ale Rivierei. Deoarece spațiul este limitat în această nișă pitorească, o sosire matinală este cu siguranță recomandată.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Un club de plajă amenajat pe coasta orașului Sanremo, oferind servicii turistice.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "O secțiune de coastă în Sanremo care oferă servicii de plajă vizitatorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "Cea mai mare plajă publică din Sanremo, populară pentru sporturi nautice și surf.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Zonă arheologică din Sanremo cu descoperiri din epoca romană și preromană.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Parc public din Sanremo cu plante exotice și un teatru de vară.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "Concatedrală romanică din secolul al XII-lea situată în centrul istoric din Sanremo.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "Un turn pătrat din secolul al XVI-lea, parte a sistemului de apărare împotriva sarazinilor.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            },
+            {
+                  "name": "La Brezza",
+                  "text": "O stațiune balneară pe coasta din Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.808527,
+                        43.822828
+                  ]
+            },
+            {
+                  "name": "Bagni Azzurri",
+                  "text": "O stațiune balneară în Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.810556,
+                        43.82259
+                  ]
+            },
+            {
+                  "name": "Bagno San Martino",
+                  "text": "O stațiune balneară pe coasta din Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.795499,
+                        43.81958
+                  ]
+            },
+            {
+                  "name": "Il Cubo",
+                  "text": "O stațiune balneară în Sanremo pentru recreere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        7.815425,
+                        43.821983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "The civic museum of Sanremo displays archaeological finds and regional artworks.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "The former residence of Alfred Nobel in Sanremo, which now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "The remains of an ancient Roman villa located on the coast of Sanremo.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "A collection of historical scientific instruments at the Liceo Cassini in Sanremo.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "A museum in Sanremo dedicated to the history and diversity of music.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "This museum in Sanremo documents the evolution of the Italian song.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "A historical noble palace in Sanremo featuring a characteristic facade.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "Tucked away in the surroundings of Sanremo lies the Spiaggia la piccola caletta, a charming and small bay. This intimate coastal setting is perfectly suited for those seeking a quieter alternative to the larger beaches of the Riviera. Because space is quite limited in this picturesque cove, arriving early in the morning is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "A managed beach club on the coast of Sanremo offering tourist services.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Villa Sapienza Beach",
+                  "text": "A coastal section in Sanremo providing beach services to visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "The largest public beach in Sanremo, popular for water sports and surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Archaeological area in Sanremo featuring Roman and pre-Roman finds.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Public park in Sanremo with exotic plants and a summer theatre.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "12th-century Romanesque co-cathedral located in the historic center of Sanremo.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "A 16th-century square tower that was part of the defense system against Saracens.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            },
+            {
+                  "name": "La Brezza",
+                  "text": "A beach resort on the coast of Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.808527,
+                        43.822828
+                  ]
+            },
+            {
+                  "name": "Bagni Azzurri",
+                  "text": "A beach resort in Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.810556,
+                        43.82259
+                  ]
+            },
+            {
+                  "name": "Bagno San Martino",
+                  "text": "A beach resort in Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.795499,
+                        43.81958
+                  ]
+            },
+            {
+                  "name": "Il Cubo Beach",
+                  "text": "A beach resort in Sanremo for seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        7.815425,
+                        43.821983
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Sanremo", hu: "Sanremo", ro: "Sanremo", en: "Sanremo" },
@@ -38120,6 +41045,24 @@ export const italyCitiesV2: POI[] = [
                         13.231217,
                         41.284633
                   ]
+            },
+            {
+                  "name": "Alberto a Mare",
+                  "text": "Ein Strandbad mit touristischen Dienstleistungen in Terracina.",
+                  "category": "recreational",
+                  "coords": [
+                        13.249837,
+                        41.283654
+                  ]
+            },
+            {
+                  "name": "Sirenella",
+                  "text": "Das Resort Sirenella in Terracina ist ein Strandbad, das Erholung am Tyrrhenischen Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250937,
+                        41.283515
+                  ]
             }
       ],
       "hu": [
@@ -38202,6 +41145,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.231217,
                         41.284633
+                  ]
+            },
+            {
+                  "name": "Alberto a Mare",
+                  "text": "Turisztikai szolgáltatásokat kínáló strandfürdő Terracinában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.249837,
+                        41.283654
+                  ]
+            },
+            {
+                  "name": "Sirenella",
+                  "text": "A terracinai Sirenella egy tengerparti üdülőhely, amely kikapcsolódást kínál a Tirrén-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250937,
+                        41.283515
                   ]
             }
       ],
@@ -38286,6 +41247,24 @@ export const italyCitiesV2: POI[] = [
                         13.231217,
                         41.284633
                   ]
+            },
+            {
+                  "name": "Alberto a Mare",
+                  "text": "O zonă de plajă cu servicii turistice în Terracina.",
+                  "category": "recreational",
+                  "coords": [
+                        13.249837,
+                        41.283654
+                  ]
+            },
+            {
+                  "name": "Sirenella",
+                  "text": "Sirenella din Terracina este o stațiune de plajă care oferă relaxare la Marea Tireniană.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250937,
+                        41.283515
+                  ]
             }
       ],
       "en": [
@@ -38368,6 +41347,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.231217,
                         41.284633
+                  ]
+            },
+            {
+                  "name": "Alberto a Mare",
+                  "text": "A beach establishment providing tourist services in Terracina.",
+                  "category": "recreational",
+                  "coords": [
+                        13.249837,
+                        41.283654
+                  ]
+            },
+            {
+                  "name": "Sirenella",
+                  "text": "Sirenella in Terracina is a beach resort offering relaxation by the Tyrrhenian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250937,
+                        41.283515
                   ]
             }
       ]
@@ -39802,7 +42799,520 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-velletri-cities-v2.webp",
   },
   {
-    id: "italy-formia-cities-v2", "sights": {"de": [{"name": "Tomba di Tulliola", "text": "Antike Grabstätte in Formia, die traditionell der Tochter des Redners Cicero zugeschrieben wird.", "category": "historical", "coords": [13.579726, 41.254565]}, {"name": "Cisternone Romano", "text": "Eine der größten erhaltenen römischen Zisternen der Welt in der Unterwelt von Formia.", "category": "historical", "coords": [13.599902, 41.256199]}, {"name": "Museo Archeologico Nazionale di Formia", "text": "Das Museum zeigt bedeutende Funde und Skulpturen aus der römischen Vergangenheit Formias.", "category": "museum", "coords": [13.605746, 41.2556]}, {"name": "teatro romano", "text": "Gut erhaltene Überreste eines antiken römischen Theaters im Zentrum von Formia.", "category": "historical", "coords": [13.600279, 41.254942]}, {"name": "Villa Romana Secolo I A.C.", "text": "Archäologische Ausgrabungen einer prachtvollen römischen Villa aus dem 1. Jahrhundert v. Chr.", "category": "historical", "coords": [13.608824, 41.255951]}, {"name": "Spiaggia di Vindicio", "text": "Die Spiaggia di Vindicio in Formia präsentiert sich als ein herrlicher Sandstrand, an dem sich vor allem Windsurfer wohlfühlen. Aber auch Sonnenanbeter und Schwimmer können sich hier an der belebten Küstenatmosphäre erfreuen. Wenn der Wind am Nachmittag auffrischt, bietet sich ein fantastisches Schauspiel auf dem Wasser.", "category": "recreational", "coords": [13.586411, 41.247459]}, {"name": "Resti villa di Quinto Ortensio Ortalo", "text": "Ruinen der antiken Villa des berühmten römischen Redners Hortensius in Formia.", "category": "historical", "coords": [13.570979, 41.238214]}, {"name": "Castellum Acquae", "text": "Antike römische Zisterne zur Wasserversorgung in Formia.", "category": "historical", "coords": [13.61288, 41.259894]}, {"name": "Tomba di Cicerone", "text": "Monumentales Grabmal bei Formia, das dem Redner Marcus Tullius Cicero zugeschrieben wird.", "category": "historical", "coords": [13.578698, 41.251567]}, {"name": "spiaggia di porto Cofaniello", "text": "Die spiaggia di porto Cofaniello ist ein beschaulicher Strandabschnitt, der sich wunderbar in die Küstenlandschaft von Formia einfügt. Hier finden Besucher eine angenehme Umgebung, um am Meer zu sitzen und dem sanften Wellenschlag zuzuhören. Ein Besuch am frühen Abend verspricht entspannte Momente und eine ruhige Auszeit.", "category": "recreational", "coords": [13.680455, 41.245578]}, {"name": "Spiaggia dei Sassolini", "text": "Die Spiaggia dei Sassolini ist ein äußerst malerischer Strand, der dem Küstenort Formia seinen besonderen Charme verleiht. Geprägt von einer charakteristischen Umgebung, lädt dieser Ort zu erholsamen Stunden am glitzernden Meer ein. Vergessen Sie nicht, ein gutes Buch mitzubringen, um das herrliche Ambiente voll auszukosten.", "category": "recreational", "coords": [13.694791, 41.250631]}, {"name": "Spiaggia del porticciolo Romano", "text": "In Formia erstreckt sich die Spiaggia del porticciolo Romano und bietet Badegästen einen idyllischen Platz am Meer. Dieser Strand vereint Küstenflair mit einer entspannten Stimmung, perfekt für gemütliche Sonnenbäder und Spaziergänge. Die sanfte Meeresbrise lässt sich hier an warmen Tagen besonders gut genießen.", "category": "recreational", "coords": [13.675214, 41.248096]}, {"name": "XRLaser Game", "text": "XRLaser Game in Formia bietet spannende Unterhaltung und Spiele für Jugendliche und Familien.", "category": "family", "coords": [13.609705, 41.257159]}], "hu": [{"name": "Tomba di Tulliola", "text": "Antik síremlék Formiában, amelyet hagyományosan Cicero lányának tulajdonítanak.", "category": "historical", "coords": [13.579726, 41.254565]}, {"name": "Cisternone Romano", "text": "A világ egyik legnagyobb épségben maradt római kori ciszteronája Formia alatt.", "category": "historical", "coords": [13.599902, 41.256199]}, {"name": "Museo Archeologico Nazionale di Formia", "text": "A múzeum Formia római kori múltjából származó jelentős leleteket és szobrokat mutat be.", "category": "museum", "coords": [13.605746, 41.2556]}, {"name": "teatro romano", "text": "Jó állapotban fennmaradt ókori római színház maradványai Formia központjában.", "category": "historical", "coords": [13.600279, 41.254942]}, {"name": "Villa Romana Secolo I A.C.", "text": "Egy i.e. 1. századból származó pompás római villa régészeti maradványai Formiában.", "category": "historical", "coords": [13.608824, 41.255951]}, {"name": "Spiaggia di Vindicio", "text": "A formiai Spiaggia di Vindicio egy pompás homokos strand, amely különösen a szörfösök körében örvend nagy népszerűségnek. Ugyanakkor a napozás és az úszás szerelmesei is garantáltan élvezni fogják a partszakasz életteli hangulatát. Amikor délután feltámad a szél, a vízi sportolók lenyűgöző látványt nyújtanak a tengeren.", "category": "recreational", "coords": [13.586411, 41.247459]}, {"name": "Resti villa di Quinto Ortensio Ortalo", "text": "Hortensius, a híres római szónok antik tengerparti villájának romjai Formiában.", "category": "historical", "coords": [13.570979, 41.238214]}, {"name": "Castellum Acquae", "text": "Ókori római víztározó Formia városában.", "category": "historical", "coords": [13.61288, 41.259894]}, {"name": "Tomba di Cicerone", "text": "Marcus Tullius Cicerónak tulajdonított monumentális síremlék Formia közelében.", "category": "historical", "coords": [13.578698, 41.251567]}, {"name": "spiaggia di porto Cofaniello", "text": "A spiaggia di porto Cofaniello egy békés partszakasz, amely szépen simul bele Formia parti tájába. A látogatók itt egy nagyon kellemes környezetet találnak arra, hogy egyszerűen leüljenek a tenger mellé, és hallgassák a hullámok játékát. A kora esti séta ideális alkalmat kínál egy kis csendes, elmélyült kikapcsolódásra.", "category": "recreational", "coords": [13.680455, 41.245578]}, {"name": "Spiaggia dei Sassolini", "text": "A Spiaggia dei Sassolini egy rendkívül festői strand, amely jelentősen hozzájárul Formia tengerparti vonzerejéhez. Ezen a karakteres partszakaszon minden adott ahhoz, hogy pihentető órákat töltsön el a csillogó víztükör mellett. Érdemes egy jó könyvvel érkezni, hogy még jobban elmerülhessen a hely nagyszerű hangulatában.", "category": "recreational", "coords": [13.694791, 41.250631]}, {"name": "Spiaggia del porticciolo Romano", "text": "Formia partjainál fekszik a Spiaggia del porticciolo Romano, amely idilli tengerparti menedéket nyújt a fürdőzőknek. Ez a strand a tengerparti eleganciát ötvözi a laza hangulattal, így ideális célpont napozáshoz és tengerparti sétákhoz. A lágy tengeri szellőt a meleg napokon itt különösen kellemes élvezni.", "category": "recreational", "coords": [13.675214, 41.248096]}, {"name": "XRLaser Game", "text": "A formiai XRLaser Game izgalmas szórakozást és játékokat kínál fiataloknak és családoknak.", "category": "family", "coords": [13.609705, 41.257159]}], "ro": [{"name": "Tomba di Tulliola", "text": "Monument funerar antic în Formia, atribuit tradițional fiicei lui Cicero.", "category": "historical", "coords": [13.579726, 41.254565]}, {"name": "Cisternone Romano", "text": "Una dintre cele mai mari cisterne romane conservate din lume, situată în Formia.", "category": "historical", "coords": [13.599902, 41.256199]}, {"name": "Museo Archeologico Nazionale di Formia", "text": "Muzeul expune descoperiri și sculpturi importante din trecutul roman al orașului Formia.", "category": "museum", "coords": [13.605746, 41.2556]}, {"name": "teatro romano", "text": "Rămășițe bine conservate ale unui teatru antic roman în centrul orașului Formia.", "category": "historical", "coords": [13.600279, 41.254942]}, {"name": "Villa Romana Secolo I A.C.", "text": "Săpături arheologice ale unei vile romane somptuoase din secolul I î.Hr.", "category": "historical", "coords": [13.608824, 41.255951]}, {"name": "Spiaggia di Vindicio", "text": "Spiaggia di Vindicio din Formia se distinge ca o plajă de nisip minunată, fiind destinația favorită a practicanților de windsurfing. Cu toate acestea, și iubitorii de soare sau înotătorii se pot bucura din plin de atmosfera vibrantă a coastei. După-amiaza, când vântul prinde putere, spectacolul oferit pe apă este cu adevărat fantastic.", "category": "recreational", "coords": [13.586411, 41.247459]}, {"name": "Resti villa di Quinto Ortensio Ortalo", "text": "Ruinele vilei antice a celebrului orator roman Hortensius în Formia.", "category": "historical", "coords": [13.570979, 41.238214]}, {"name": "Castellum Acquae", "text": "Rezervor antic roman pentru alimentarea cu apă în Formia.", "category": "historical", "coords": [13.61288, 41.259894]}, {"name": "Tomba di Cicerone", "text": "Monument funerar monumental lângă Formia, atribuit oratorului Marcus Tullius Cicero.", "category": "historical", "coords": [13.578698, 41.251567]}, {"name": "spiaggia di porto Cofaniello", "text": "Spiaggia di porto Cofaniello este un segment de plajă liniștit, care se integrează perfect în peisajul de coastă al orașului Formia. Vizitatorii găsesc aici un mediu plăcut pentru a se așeza la malul mării și a asculta sunetul relaxant al valurilor. O vizită la lăsarea serii promite momente prețioase de calm și o pauză binemeritată.", "category": "recreational", "coords": [13.680455, 41.245578]}, {"name": "Spiaggia dei Sassolini", "text": "Spiaggia dei Sassolini este o plajă extrem de pitorească ce conferă orașului Formia un farmec cu totul special. Marcat de un peisaj caracteristic, acest loc invită la ore întregi de odihnă alături de marea strălucitoare. Nu uitați să luați o carte bună cu dumneavoastră pentru a savura pe deplin ambianța superbă.", "category": "recreational", "coords": [13.694791, 41.250631]}, {"name": "Spiaggia del porticciolo Romano", "text": "În Formia se întinde Spiaggia del porticciolo Romano, oferind oaspeților un loc idilic pe malul mării. Această plajă îmbină farmecul coastei cu o atmosferă relaxantă, fiind perfectă pentru băi de soare lejere și plimbări. Briza blândă a mării poate fi apreciată cel mai bine aici, mai ales în zilele calde de vară.", "category": "recreational", "coords": [13.675214, 41.248096]}, {"name": "XRLaser Game", "text": "XRLaser Game din Formia oferă divertisment captivant și jocuri pentru tineri și familii.", "category": "family", "coords": [13.609705, 41.257159]}], "en": [{"name": "Tomba di Tulliola", "text": "Ancient tomb in Formia, traditionally attributed to the daughter of Cicero.", "category": "historical", "coords": [13.579726, 41.254565]}, {"name": "Cisternone Romano", "text": "One of the largest preserved Roman cisterns in the world, located in Formia.", "category": "historical", "coords": [13.599902, 41.256199]}, {"name": "Museo Archeologico Nazionale di Formia", "text": "The museum displays significant finds and sculptures from Formia's Roman past.", "category": "museum", "coords": [13.605746, 41.2556]}, {"name": "teatro romano", "text": "Well-preserved remains of an ancient Roman theater in the center of Formia.", "category": "historical", "coords": [13.600279, 41.254942]}, {"name": "Villa Romana Secolo I A.C.", "text": "Archaeological excavations of a grand Roman villa dating back to the 1st century BC.", "category": "historical", "coords": [13.608824, 41.255951]}, {"name": "Spiaggia di Vindicio", "text": "The Spiaggia di Vindicio in Formia stands out as a wonderful sandy beach, famously offering ideal conditions for windsurfing. Sunbathers and swimmers alike will also thoroughly enjoy the lively coastal atmosphere found here. When the wind picks up in the afternoon, the water comes alive with a fantastic display of watersports.", "category": "recreational", "coords": [13.586411, 41.247459]}, {"name": "Resti villa di Quinto Ortensio Ortalo", "text": "Ruins of the ancient villa of the famous Roman orator Hortensius in Formia.", "category": "historical", "coords": [13.570979, 41.238214]}, {"name": "Castellum Acquae", "text": "Ancient Roman cistern for water supply in Formia.", "category": "historical", "coords": [13.61288, 41.259894]}, {"name": "Tomba di Cicerone", "text": "Monumental tomb near Formia, attributed to the orator Marcus Tullius Cicero.", "category": "historical", "coords": [13.578698, 41.251567]}, {"name": "spiaggia di porto Cofaniello", "text": "The spiaggia di porto Cofaniello is a serene stretch of beach that blends beautifully into the coastal landscape of Formia. Visitors will find a pleasant environment here simply to sit by the sea and listen to the gentle wash of the waves. A visit in the early evening promises deeply relaxing moments and a quiet escape.", "category": "recreational", "coords": [13.680455, 41.245578]}, {"name": "Spiaggia dei Sassolini", "text": "The Spiaggia dei Sassolini is an incredibly picturesque beach that adds a special charm to the coastal town of Formia. Defined by its characteristic setting, this spot invites visitors to spend restful hours by the sparkling sea. Remember to bring a good book to fully relish the magnificent seaside ambiance.", "category": "recreational", "coords": [13.694791, 41.250631]}, {"name": "Spiaggia del porticciolo Romano", "text": "Located in Formia, the Spiaggia del porticciolo Romano offers swimmers and sunbathers an idyllic spot by the sea. This beach combines coastal flair with a relaxed mood, making it perfect for leisurely sunbathing and gentle strolls. The soft sea breeze is particularly enjoyable here on warm, sunny days.", "category": "recreational", "coords": [13.675214, 41.248096]}, {"name": "XRLaser Game", "text": "XRLaser Game in Formia offers exciting entertainment and games for teens and families.", "category": "family", "coords": [13.609705, 41.257159]}]},
+    id: "italy-formia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomba di Tulliola",
+                  "text": "Antike Grabstätte in Formia, die traditionell der Tochter des Redners Cicero zugeschrieben wird.",
+                  "category": "historical",
+                  "coords": [
+                        13.579726,
+                        41.254565
+                  ]
+            },
+            {
+                  "name": "Cisternone Romano",
+                  "text": "Eine der größten erhaltenen römischen Zisternen der Welt in der Unterwelt von Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.599902,
+                        41.256199
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Formia",
+                  "text": "Das Museum zeigt bedeutende Funde und Skulpturen aus der römischen Vergangenheit Formias.",
+                  "category": "museum",
+                  "coords": [
+                        13.605746,
+                        41.2556
+                  ]
+            },
+            {
+                  "name": "teatro romano",
+                  "text": "Gut erhaltene Überreste eines antiken römischen Theaters im Zentrum von Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.600279,
+                        41.254942
+                  ]
+            },
+            {
+                  "name": "Villa Romana Secolo I A.C.",
+                  "text": "Archäologische Ausgrabungen einer prachtvollen römischen Villa aus dem 1. Jahrhundert v. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        13.608824,
+                        41.255951
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vindicio",
+                  "text": "Die Spiaggia di Vindicio in Formia präsentiert sich als ein herrlicher Sandstrand, an dem sich vor allem Windsurfer wohlfühlen. Aber auch Sonnenanbeter und Schwimmer können sich hier an der belebten Küstenatmosphäre erfreuen. Wenn der Wind am Nachmittag auffrischt, bietet sich ein fantastisches Schauspiel auf dem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586411,
+                        41.247459
+                  ]
+            },
+            {
+                  "name": "Resti villa di Quinto Ortensio Ortalo",
+                  "text": "Ruinen der antiken Villa des berühmten römischen Redners Hortensius in Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.570979,
+                        41.238214
+                  ]
+            },
+            {
+                  "name": "Castellum Acquae",
+                  "text": "Antike römische Zisterne zur Wasserversorgung in Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.61288,
+                        41.259894
+                  ]
+            },
+            {
+                  "name": "Tomba di Cicerone",
+                  "text": "Monumentales Grabmal bei Formia, das dem Redner Marcus Tullius Cicero zugeschrieben wird.",
+                  "category": "historical",
+                  "coords": [
+                        13.578698,
+                        41.251567
+                  ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "Die spiaggia di porto Cofaniello ist ein beschaulicher Strandabschnitt, der sich wunderbar in die Küstenlandschaft von Formia einfügt. Hier finden Besucher eine angenehme Umgebung, um am Meer zu sitzen und dem sanften Wellenschlag zuzuhören. Ein Besuch am frühen Abend verspricht entspannte Momente und eine ruhige Auszeit.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "Die Spiaggia dei Sassolini ist ein äußerst malerischer Strand, der dem Küstenort Formia seinen besonderen Charme verleiht. Geprägt von einer charakteristischen Umgebung, lädt dieser Ort zu erholsamen Stunden am glitzernden Meer ein. Vergessen Sie nicht, ein gutes Buch mitzubringen, um das herrliche Ambiente voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "In Formia erstreckt sich die Spiaggia del porticciolo Romano und bietet Badegästen einen idyllischen Platz am Meer. Dieser Strand vereint Küstenflair mit einer entspannten Stimmung, perfekt für gemütliche Sonnenbäder und Spaziergänge. Die sanfte Meeresbrise lässt sich hier an warmen Tagen besonders gut genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
+                  ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "XRLaser Game in Formia bietet spannende Unterhaltung und Spiele für Jugendliche und Familien.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
+                  ]
+            },
+            {
+                  "name": "Lido La Scogliera",
+                  "text": "Ein Küstenort in Formia mit Strandzugang und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.579244,
+                        41.244672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomba di Tulliola",
+                  "text": "Antik síremlék Formiában, amelyet hagyományosan Cicero lányának tulajdonítanak.",
+                  "category": "historical",
+                  "coords": [
+                        13.579726,
+                        41.254565
+                  ]
+            },
+            {
+                  "name": "Cisternone Romano",
+                  "text": "A világ egyik legnagyobb épségben maradt római kori ciszteronája Formia alatt.",
+                  "category": "historical",
+                  "coords": [
+                        13.599902,
+                        41.256199
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Formia",
+                  "text": "A múzeum Formia római kori múltjából származó jelentős leleteket és szobrokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.605746,
+                        41.2556
+                  ]
+            },
+            {
+                  "name": "teatro romano",
+                  "text": "Jó állapotban fennmaradt ókori római színház maradványai Formia központjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.600279,
+                        41.254942
+                  ]
+            },
+            {
+                  "name": "Villa Romana Secolo I A.C.",
+                  "text": "Egy i.e. 1. századból származó pompás római villa régészeti maradványai Formiában.",
+                  "category": "historical",
+                  "coords": [
+                        13.608824,
+                        41.255951
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vindicio",
+                  "text": "A formiai Spiaggia di Vindicio egy pompás homokos strand, amely különösen a szörfösök körében örvend nagy népszerűségnek. Ugyanakkor a napozás és az úszás szerelmesei is garantáltan élvezni fogják a partszakasz életteli hangulatát. Amikor délután feltámad a szél, a vízi sportolók lenyűgöző látványt nyújtanak a tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586411,
+                        41.247459
+                  ]
+            },
+            {
+                  "name": "Resti villa di Quinto Ortensio Ortalo",
+                  "text": "Hortensius, a híres római szónok antik tengerparti villájának romjai Formiában.",
+                  "category": "historical",
+                  "coords": [
+                        13.570979,
+                        41.238214
+                  ]
+            },
+            {
+                  "name": "Castellum Acquae",
+                  "text": "Ókori római víztározó Formia városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.61288,
+                        41.259894
+                  ]
+            },
+            {
+                  "name": "Tomba di Cicerone",
+                  "text": "Marcus Tullius Cicerónak tulajdonított monumentális síremlék Formia közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.578698,
+                        41.251567
+                  ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "A spiaggia di porto Cofaniello egy békés partszakasz, amely szépen simul bele Formia parti tájába. A látogatók itt egy nagyon kellemes környezetet találnak arra, hogy egyszerűen leüljenek a tenger mellé, és hallgassák a hullámok játékát. A kora esti séta ideális alkalmat kínál egy kis csendes, elmélyült kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "A Spiaggia dei Sassolini egy rendkívül festői strand, amely jelentősen hozzájárul Formia tengerparti vonzerejéhez. Ezen a karakteres partszakaszon minden adott ahhoz, hogy pihentető órákat töltsön el a csillogó víztükör mellett. Érdemes egy jó könyvvel érkezni, hogy még jobban elmerülhessen a hely nagyszerű hangulatában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "Formia partjainál fekszik a Spiaggia del porticciolo Romano, amely idilli tengerparti menedéket nyújt a fürdőzőknek. Ez a strand a tengerparti eleganciát ötvözi a laza hangulattal, így ideális célpont napozáshoz és tengerparti sétákhoz. A lágy tengeri szellőt a meleg napokon itt különösen kellemes élvezni.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
+                  ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "A formiai XRLaser Game izgalmas szórakozást és játékokat kínál fiataloknak és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
+                  ]
+            },
+            {
+                  "name": "Lido La Scogliera",
+                  "text": "Tengerparti üdülőhely Formia közelében, stranddal és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.579244,
+                        41.244672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomba di Tulliola",
+                  "text": "Monument funerar antic în Formia, atribuit tradițional fiicei lui Cicero.",
+                  "category": "historical",
+                  "coords": [
+                        13.579726,
+                        41.254565
+                  ]
+            },
+            {
+                  "name": "Cisternone Romano",
+                  "text": "Una dintre cele mai mari cisterne romane conservate din lume, situată în Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.599902,
+                        41.256199
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Formia",
+                  "text": "Muzeul expune descoperiri și sculpturi importante din trecutul roman al orașului Formia.",
+                  "category": "museum",
+                  "coords": [
+                        13.605746,
+                        41.2556
+                  ]
+            },
+            {
+                  "name": "teatro romano",
+                  "text": "Rămășițe bine conservate ale unui teatru antic roman în centrul orașului Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.600279,
+                        41.254942
+                  ]
+            },
+            {
+                  "name": "Villa Romana Secolo I A.C.",
+                  "text": "Săpături arheologice ale unei vile romane somptuoase din secolul I î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        13.608824,
+                        41.255951
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vindicio",
+                  "text": "Spiaggia di Vindicio din Formia se distinge ca o plajă de nisip minunată, fiind destinația favorită a practicanților de windsurfing. Cu toate acestea, și iubitorii de soare sau înotătorii se pot bucura din plin de atmosfera vibrantă a coastei. După-amiaza, când vântul prinde putere, spectacolul oferit pe apă este cu adevărat fantastic.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586411,
+                        41.247459
+                  ]
+            },
+            {
+                  "name": "Resti villa di Quinto Ortensio Ortalo",
+                  "text": "Ruinele vilei antice a celebrului orator roman Hortensius în Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.570979,
+                        41.238214
+                  ]
+            },
+            {
+                  "name": "Castellum Acquae",
+                  "text": "Rezervor antic roman pentru alimentarea cu apă în Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.61288,
+                        41.259894
+                  ]
+            },
+            {
+                  "name": "Tomba di Cicerone",
+                  "text": "Monument funerar monumental lângă Formia, atribuit oratorului Marcus Tullius Cicero.",
+                  "category": "historical",
+                  "coords": [
+                        13.578698,
+                        41.251567
+                  ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "Spiaggia di porto Cofaniello este un segment de plajă liniștit, care se integrează perfect în peisajul de coastă al orașului Formia. Vizitatorii găsesc aici un mediu plăcut pentru a se așeza la malul mării și a asculta sunetul relaxant al valurilor. O vizită la lăsarea serii promite momente prețioase de calm și o pauză binemeritată.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "Spiaggia dei Sassolini este o plajă extrem de pitorească ce conferă orașului Formia un farmec cu totul special. Marcat de un peisaj caracteristic, acest loc invită la ore întregi de odihnă alături de marea strălucitoare. Nu uitați să luați o carte bună cu dumneavoastră pentru a savura pe deplin ambianța superbă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "În Formia se întinde Spiaggia del porticciolo Romano, oferind oaspeților un loc idilic pe malul mării. Această plajă îmbină farmecul coastei cu o atmosferă relaxantă, fiind perfectă pentru băi de soare lejere și plimbări. Briza blândă a mării poate fi apreciată cel mai bine aici, mai ales în zilele calde de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
+                  ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "XRLaser Game din Formia oferă divertisment captivant și jocuri pentru tineri și familii.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
+                  ]
+            },
+            {
+                  "name": "Lido La Scogliera",
+                  "text": "O stațiune de coastă în Formia care oferă acces la plajă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        13.579244,
+                        41.244672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomba di Tulliola",
+                  "text": "Ancient tomb in Formia, traditionally attributed to the daughter of Cicero.",
+                  "category": "historical",
+                  "coords": [
+                        13.579726,
+                        41.254565
+                  ]
+            },
+            {
+                  "name": "Cisternone Romano",
+                  "text": "One of the largest preserved Roman cisterns in the world, located in Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.599902,
+                        41.256199
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Formia",
+                  "text": "The museum displays significant finds and sculptures from Formia's Roman past.",
+                  "category": "museum",
+                  "coords": [
+                        13.605746,
+                        41.2556
+                  ]
+            },
+            {
+                  "name": "teatro romano",
+                  "text": "Well-preserved remains of an ancient Roman theater in the center of Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.600279,
+                        41.254942
+                  ]
+            },
+            {
+                  "name": "Villa Romana Secolo I A.C.",
+                  "text": "Archaeological excavations of a grand Roman villa dating back to the 1st century BC.",
+                  "category": "historical",
+                  "coords": [
+                        13.608824,
+                        41.255951
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vindicio",
+                  "text": "The Spiaggia di Vindicio in Formia stands out as a wonderful sandy beach, famously offering ideal conditions for windsurfing. Sunbathers and swimmers alike will also thoroughly enjoy the lively coastal atmosphere found here. When the wind picks up in the afternoon, the water comes alive with a fantastic display of watersports.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586411,
+                        41.247459
+                  ]
+            },
+            {
+                  "name": "Resti villa di Quinto Ortensio Ortalo",
+                  "text": "Ruins of the ancient villa of the famous Roman orator Hortensius in Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.570979,
+                        41.238214
+                  ]
+            },
+            {
+                  "name": "Castellum Acquae",
+                  "text": "Ancient Roman cistern for water supply in Formia.",
+                  "category": "historical",
+                  "coords": [
+                        13.61288,
+                        41.259894
+                  ]
+            },
+            {
+                  "name": "Tomba di Cicerone",
+                  "text": "Monumental tomb near Formia, attributed to the orator Marcus Tullius Cicero.",
+                  "category": "historical",
+                  "coords": [
+                        13.578698,
+                        41.251567
+                  ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "The spiaggia di porto Cofaniello is a serene stretch of beach that blends beautifully into the coastal landscape of Formia. Visitors will find a pleasant environment here simply to sit by the sea and listen to the gentle wash of the waves. A visit in the early evening promises deeply relaxing moments and a quiet escape.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "The Spiaggia dei Sassolini is an incredibly picturesque beach that adds a special charm to the coastal town of Formia. Defined by its characteristic setting, this spot invites visitors to spend restful hours by the sparkling sea. Remember to bring a good book to fully relish the magnificent seaside ambiance.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "Located in Formia, the Spiaggia del porticciolo Romano offers swimmers and sunbathers an idyllic spot by the sea. This beach combines coastal flair with a relaxed mood, making it perfect for leisurely sunbathing and gentle strolls. The soft sea breeze is particularly enjoyable here on warm, sunny days.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
+                  ]
+            },
+            {
+                  "name": "XRLaser Game",
+                  "text": "XRLaser Game in Formia offers exciting entertainment and games for teens and families.",
+                  "category": "family",
+                  "coords": [
+                        13.609705,
+                        41.257159
+                  ]
+            },
+            {
+                  "name": "Lido La Scogliera",
+                  "text": "A coastal resort area in Formia offering beach access and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        13.579244,
+                        41.244672
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Formia", hu: "Formia", ro: "Formia", en: "Formia" },

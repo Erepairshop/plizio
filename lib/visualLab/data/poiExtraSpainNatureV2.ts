@@ -539,6 +539,24 @@ export const spainNatureV2: POI[] = [
                         -2.39277,
                         37.055067
                   ]
+            },
+            {
+                  "name": "Zona Acuática",
+                  "text": "Ein Bereich mit Wasserattraktionen in der Wüste von Tabernas zur Abkühlung in der trockenen Landschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.429951,
+                        37.019517
+                  ]
+            },
+            {
+                  "name": "Fort Bravo / Texas Hollywood",
+                  "text": "Ein berühmter Themenpark und Filmset in der Wüste von Tabernas, bekannt für klassische Westernproduktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.421189,
+                        37.047535
+                  ]
             }
       ],
       "hu": [
@@ -603,6 +621,24 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -2.39277,
                         37.055067
+                  ]
+            },
+            {
+                  "name": "Zona Acuática",
+                  "text": "Vízi attrakciókkal rendelkező terület a Tabernas-sivatagban, amely felfrissülést kínál a száraz tájon.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.429951,
+                        37.019517
+                  ]
+            },
+            {
+                  "name": "Fort Bravo / Texas Hollywood",
+                  "text": "Híres tematikus park és díszlet a Tabernas-sivatagban, amely klasszikus westernfilmek forgatási helyszíneként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.421189,
+                        37.047535
                   ]
             }
       ],
@@ -669,6 +705,24 @@ export const spainNatureV2: POI[] = [
                         -2.39277,
                         37.055067
                   ]
+            },
+            {
+                  "name": "Zona Acuática",
+                  "text": "O zonă cu atracții acvatice în deșertul Tabernas, oferind răcorire în peisajul arid.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.429951,
+                        37.019517
+                  ]
+            },
+            {
+                  "name": "Fort Bravo / Texas Hollywood",
+                  "text": "Un parc tematic și platou de filmare celebru în deșertul Tabernas, cunoscut pentru producțiile western clasice.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.421189,
+                        37.047535
+                  ]
             }
       ],
       "en": [
@@ -733,6 +787,24 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -2.39277,
                         37.055067
+                  ]
+            },
+            {
+                  "name": "Zona Acuática",
+                  "text": "An area with water attractions in the Tabernas Desert, providing refreshment in the arid landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.429951,
+                        37.019517
+                  ]
+            },
+            {
+                  "name": "Fort Bravo / Texas Hollywood",
+                  "text": "A famous theme park and film set in the Tabernas Desert, known for classic Western movie productions.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.421189,
+                        37.047535
                   ]
             }
       ]
@@ -4010,6 +4082,15 @@ export const spainNatureV2: POI[] = [
                         1.829597,
                         41.592049
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Ein öffentliches Schwimmbad in Montserrat für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        1.776716,
+                        41.583896
+                  ]
             }
       ],
       "hu": [
@@ -4074,6 +4155,15 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         1.829597,
                         41.592049
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Montserrat közösségi úszómedencéje, amely sportolási és kikapcsolódási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.776716,
+                        41.583896
                   ]
             }
       ],
@@ -4140,6 +4230,15 @@ export const spainNatureV2: POI[] = [
                         1.829597,
                         41.592049
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "O piscină publică în Montserrat, oferind facilități pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        1.776716,
+                        41.583896
+                  ]
             }
       ],
       "en": [
@@ -4205,6 +4304,15 @@ export const spainNatureV2: POI[] = [
                         1.829597,
                         41.592049
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "A public swimming pool in Montserrat, providing facilities for sport and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        1.776716,
+                        41.583896
+                  ]
             }
       ]
 },
@@ -4254,7 +4362,160 @@ export const spainNatureV2: POI[] = [
     }
   },
   {
-    id: "spain-drach-caves-nature-v2",
+    id: "spain-drach-caves-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cala de s'Estany d'en Mas",
+                  "text": "Ein beliebter Badestrand in einer Bucht an der Ostküste Mallorcas.",
+                  "category": "recreational",
+                  "coords": [
+                        3.309854,
+                        39.516546
+                  ]
+            },
+            {
+                  "name": "Cala Anguila",
+                  "text": "Ein schmaler Sandstrand in einer malerischen Felsenbucht bei Porto Cristo.",
+                  "category": "recreational",
+                  "coords": [
+                        3.317884,
+                        39.523046
+                  ]
+            },
+            {
+                  "name": "Cala Mendia",
+                  "text": "Ein familienfreundlicher Strand in einer geschützten Bucht auf Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        3.313743,
+                        39.520437
+                  ]
+            },
+            {
+                  "name": "Cala Petita",
+                  "text": "Eine kleine, naturbelassene Bucht, die über einen Wanderweg erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.352988,
+                        39.548396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cala de s'Estany d'en Mas",
+                  "text": "Népszerű fürdőhely egy öbölben, Mallorca keleti partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.309854,
+                        39.516546
+                  ]
+            },
+            {
+                  "name": "Cala Anguila",
+                  "text": "Keskeny homokos strand egy festői sziklás öbölben, Porto Cristo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.317884,
+                        39.523046
+                  ]
+            },
+            {
+                  "name": "Cala Mendia",
+                  "text": "Családbarát strand egy védett öbölben, Mallorcán.",
+                  "category": "recreational",
+                  "coords": [
+                        3.313743,
+                        39.520437
+                  ]
+            },
+            {
+                  "name": "Cala Petita",
+                  "text": "Kicsi, természetes öböl, amely gyalogúton érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        3.352988,
+                        39.548396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cala de s'Estany d'en Mas",
+                  "text": "O plajă populară situată într-un golf de pe coasta de est a insulei Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        3.309854,
+                        39.516546
+                  ]
+            },
+            {
+                  "name": "Cala Anguila",
+                  "text": "O plajă îngustă cu nisip într-un golf pitoresc lângă Porto Cristo.",
+                  "category": "recreational",
+                  "coords": [
+                        3.317884,
+                        39.523046
+                  ]
+            },
+            {
+                  "name": "Cala Mendia",
+                  "text": "O plajă potrivită pentru familii, situată într-un golf protejat din Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        3.313743,
+                        39.520437
+                  ]
+            },
+            {
+                  "name": "Cala Petita",
+                  "text": "Un golf mic și natural, accesibil printr-o potecă de drumeție.",
+                  "category": "recreational",
+                  "coords": [
+                        3.352988,
+                        39.548396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cala de s'Estany d'en Mas",
+                  "text": "A popular swimming beach located in a cove on the east coast of Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        3.309854,
+                        39.516546
+                  ]
+            },
+            {
+                  "name": "Cala Anguila",
+                  "text": "A narrow sandy beach set in a picturesque rocky cove near Porto Cristo.",
+                  "category": "recreational",
+                  "coords": [
+                        3.317884,
+                        39.523046
+                  ]
+            },
+            {
+                  "name": "Cala Mendia",
+                  "text": "A family-friendly beach located in a sheltered cove in Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        3.313743,
+                        39.520437
+                  ]
+            },
+            {
+                  "name": "Small Beach",
+                  "text": "A small, natural cove accessible via a hiking trail.",
+                  "category": "recreational",
+                  "coords": [
+                        3.352988,
+                        39.548396
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Cuevas del Drach", hu: "Sárkánybarlangok", ro: "Peșterile Drach", en: "Caves of Drach"},
@@ -4301,7 +4562,160 @@ export const spainNatureV2: POI[] = [
     }
   },
   {
-    id: "spain-nerja-caves-nature-v2",
+    id: "spain-nerja-caves-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cala del Pino",
+                  "text": "Ein abgelegener Strand im Naturpark Acantilados de Maro-Cerro Gordo bei Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.799991,
+                        36.746553
+                  ]
+            },
+            {
+                  "name": "Playa de Maro",
+                  "text": "Ein beliebter Strand bei Nerja, bekannt für sein klares Wasser und seine natürliche Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.834306,
+                        36.753851
+                  ]
+            },
+            {
+                  "name": "Playa de La Caleta",
+                  "text": "Eine kleine und ruhige Strandbucht in der Nähe des Dorfes Maro.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.845018,
+                        36.753498
+                  ]
+            },
+            {
+                  "name": "Playa de las Alberquillas",
+                  "text": "Ein ruhiger und weitläufiger Strand in einem Naturschutzgebiet bei Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.808431,
+                        36.749536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cala del Pino",
+                  "text": "Egy eldugott strand a Maro-Cerro Gordo sziklák természetvédelmi területén, Nerja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.799991,
+                        36.746553
+                  ]
+            },
+            {
+                  "name": "Playa de Maro",
+                  "text": "Népszerű strand Nerja közelében, amely tiszta vizéről és természetes környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.834306,
+                        36.753851
+                  ]
+            },
+            {
+                  "name": "Playa de La Caleta",
+                  "text": "Egy kicsi és csendes tengerparti öböl Maro falu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.845018,
+                        36.753498
+                  ]
+            },
+            {
+                  "name": "Playa de las Alberquillas",
+                  "text": "Csendes és tágas strand egy természetvédelmi területen, Nerja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.808431,
+                        36.749536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cala del Pino",
+                  "text": "O plajă retrasă situată în Parcul Natural Acantilados de Maro-Cerro Gordo, lângă Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.799991,
+                        36.746553
+                  ]
+            },
+            {
+                  "name": "Playa de Maro",
+                  "text": "O plajă populară de lângă Nerja, cunoscută pentru apele sale limpezi și cadrul natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.834306,
+                        36.753851
+                  ]
+            },
+            {
+                  "name": "Playa de La Caleta",
+                  "text": "Un golf de plajă mic și liniștit, situat lângă satul Maro.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.845018,
+                        36.753498
+                  ]
+            },
+            {
+                  "name": "Playa de las Alberquillas",
+                  "text": "O plajă liniștită și întinsă, situată într-o zonă protejată lângă Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.808431,
+                        36.749536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cala del Pino",
+                  "text": "A secluded beach located in the Maro-Cerro Gordo Cliffs Natural Park near Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.799991,
+                        36.746553
+                  ]
+            },
+            {
+                  "name": "Playa de Maro",
+                  "text": "A popular beach known for its clear waters and natural surroundings near Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.834306,
+                        36.753851
+                  ]
+            },
+            {
+                  "name": "Playa de La Caleta",
+                  "text": "A small and quiet beach cove situated near the village of Maro.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.845018,
+                        36.753498
+                  ]
+            },
+            {
+                  "name": "Playa de las Alberquillas",
+                  "text": "A tranquil and expansive beach located within a protected area near Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.808431,
+                        36.749536
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Höhlen von Nerja", hu: "Nerjai barlangok", ro: "Peșterile din Nerja", en: "Nerja Caves"},
@@ -4345,7 +4759,52 @@ export const spainNatureV2: POI[] = [
     }
   },
   {
-    id: "spain-guadalquivir-river-nature-v2",
+    id: "spain-guadalquivir-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de Malandar",
+                  "text": "Die Playa de Malandar ist ein Strand am Guadalquivir, der zum Nationalpark Doñana gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.377373,
+                        36.79995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de Malandar",
+                  "text": "A Playa de Malandar egy strand a Guadalquivir folyónál, a Doñana Nemzeti Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.377373,
+                        36.79995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de Malandar",
+                  "text": "Playa de Malandar este o plajă pe râul Guadalquivir, situată în Parcul Național Doñana.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.377373,
+                        36.79995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa de Malandar",
+                  "text": "Playa de Malandar is a beach on the Guadalquivir River, located within the Doñana National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.377373,
+                        36.79995
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "river",
     name: { de: "Guadalquivir", hu: "Guadalquivir", ro: "Guadalquivir", en: "Guadalquivir River"},
@@ -4783,7 +5242,52 @@ export const spainNatureV2: POI[] = [
     }
   },
   {
-    id: "spain-jiloca-valley-nature-v2",
+    id: "spain-jiloca-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Das städtische Schwimmbad im Jiloca-Tal bietet Badegelegenheiten in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.348914,
+                        40.693771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A Jiloca-völgy városi úszómedencéje fürdőzési lehetőséget kínál a természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.348914,
+                        40.693771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Piscina municipală din Valea Jiloca oferă facilități pentru scăldat în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.348914,
+                        40.693771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina Municipal",
+                  "text": "The municipal swimming pool in the Jiloca Valley offers swimming facilities in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.348914,
+                        40.693771
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "valley",
     name: { de: "Jiloca-Tal", hu: "Jiloca-völgy", ro: "Valea Jiloca", en: "Jiloca Valley"},
@@ -5917,6 +6421,15 @@ export const spainNatureV2: POI[] = [
                         -2.815606,
                         38.933858
                   ]
+            },
+            {
+                  "name": "particular",
+                  "text": "Ein Schwimmbad im Naturschutzgebiet der Lagunen von Ruidera.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.835756,
+                        38.934148
+                  ]
             }
       ],
       "hu": [
@@ -5990,6 +6503,15 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -2.815606,
                         38.933858
+                  ]
+            },
+            {
+                  "name": "particular",
+                  "text": "Egy úszómedence a Ruidera-tavak természetvédelmi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.835756,
+                        38.934148
                   ]
             }
       ],
@@ -6065,6 +6587,15 @@ export const spainNatureV2: POI[] = [
                         -2.815606,
                         38.933858
                   ]
+            },
+            {
+                  "name": "particular",
+                  "text": "O piscină situată în rezervația naturală a Lagunelor Ruidera.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.835756,
+                        38.934148
+                  ]
             }
       ],
       "en": [
@@ -6139,6 +6670,15 @@ export const spainNatureV2: POI[] = [
                         -2.815606,
                         38.933858
                   ]
+            },
+            {
+                  "name": "particular",
+                  "text": "A swimming pool located in the Ruidera Lagoons nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.835756,
+                        38.934148
+                  ]
             }
       ]
 },
@@ -6186,7 +6726,52 @@ export const spainNatureV2: POI[] = [
     }
   },
   {
-    id: "spain-gaztelugatxe-nature-v2",
+    id: "spain-gaztelugatxe-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bakioko Aritza",
+                  "text": "Ein Strand in der Nähe des baskischen Dorfes Bakio und Gaztelugatxe.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.805195,
+                        43.430686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bakioko Aritza",
+                  "text": "Strand a baszkföldi Bakio falu és Gaztelugatxe közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.805195,
+                        43.430686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bakioko Aritza",
+                  "text": "O plajă situată lângă satul basc Bakio și Gaztelugatxe.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.805195,
+                        43.430686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bakioko Aritza",
+                  "text": "A beach located near the Basque village of Bakio and Gaztelugatxe.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.805195,
+                        43.430686
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Gaztelugatxe", hu: "Gaztelugatxe", ro: "Gaztelugatxe", en: "Gaztelugatxe"},

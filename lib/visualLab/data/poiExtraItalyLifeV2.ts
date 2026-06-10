@@ -67,6 +67,24 @@ export const italyLifeV2: POI[] = [
                         13.069364,
                         41.240953
                   ]
+            },
+            {
+                  "name": "Saporetti",
+                  "text": "Ein exklusives Strandresort im Nationalpark Circeo.",
+                  "category": "recreational",
+                  "coords": [
+                        13.035891,
+                        41.249127
+                  ]
+            },
+            {
+                  "name": "Voglia di Mare",
+                  "text": "Ein Strandbad am Rande des Nationalparks Circeo, bekannt für seine Küstenlage.",
+                  "category": "recreational",
+                  "coords": [
+                        13.115591,
+                        41.248298
+                  ]
             }
       ],
       "hu": [
@@ -131,6 +149,24 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.069364,
                         41.240953
+                  ]
+            },
+            {
+                  "name": "Saporetti",
+                  "text": "Exkluzív üdülőhely a Circeo Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.035891,
+                        41.249127
+                  ]
+            },
+            {
+                  "name": "Voglia di Mare",
+                  "text": "Strandüdülő a Circeo Nemzeti Park szélén, amely tengerparti elhelyezkedéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.115591,
+                        41.248298
                   ]
             }
       ],
@@ -197,6 +233,24 @@ export const italyLifeV2: POI[] = [
                         13.069364,
                         41.240953
                   ]
+            },
+            {
+                  "name": "Saporetti",
+                  "text": "O stațiune de plajă exclusivistă în Parcul Național Circeo.",
+                  "category": "recreational",
+                  "coords": [
+                        13.035891,
+                        41.249127
+                  ]
+            },
+            {
+                  "name": "Voglia di Mare",
+                  "text": "O stațiune balneară la marginea Parcului Național Circeo, cunoscută pentru locația sa de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.115591,
+                        41.248298
+                  ]
             }
       ],
       "en": [
@@ -261,6 +315,24 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.069364,
                         41.240953
+                  ]
+            },
+            {
+                  "name": "Saporetti",
+                  "text": "An exclusive beach resort located within the Circeo National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.035891,
+                        41.249127
+                  ]
+            },
+            {
+                  "name": "Voglia di Mare",
+                  "text": "A beach resort on the edge of Circeo National Park, known for its coastal setting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.115591,
+                        41.248298
                   ]
             }
       ]
@@ -724,6 +796,69 @@ export const italyLifeV2: POI[] = [
                         17.762057,
                         40.700295
                   ]
+            },
+            {
+                  "name": "Boa Gialla",
+                  "text": "Ein Küstenort in Torre Guaceto Nature Reserve mit Strandzugang und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.822096,
+                        40.697453
+                  ]
+            },
+            {
+                  "name": "PortoGuaceto Agribeach",
+                  "text": "Ein Küstenort in Torre Guaceto Nature Reserve mit Strandzugang und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.762744,
+                        40.725029
+                  ]
+            },
+            {
+                  "name": "lido attrezzato Torre Guaceto",
+                  "text": "Ein Küstenort in Torre Guaceto Nature Reserve mit Strandzugang und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.774084,
+                        40.721289
+                  ]
+            },
+            {
+                  "name": "Lido Bianco Beach",
+                  "text": "Lido Bianco Beach ist ein Badeort im Naturschutzgebiet Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736062,
+                        40.742059
+                  ]
+            },
+            {
+                  "name": "Lido Arca di Noè",
+                  "text": "Lido Arca di Noè ist ein Strandbad im Naturschutzgebiet Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.832866,
+                        40.693105
+                  ]
+            },
+            {
+                  "name": "Apulian Beach club",
+                  "text": "Der Apulian Beach Club ist ein Badeort im Naturschutzgebiet Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742987,
+                        40.735747
+                  ]
+            },
+            {
+                  "name": "Lido Azzurro",
+                  "text": "Lido Azzurro ist ein Badeort mit Blick auf die Küste im Naturschutzgebiet Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.829495,
+                        40.694198
+                  ]
             }
       ],
       "hu": [
@@ -797,6 +932,69 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         17.762057,
                         40.700295
+                  ]
+            },
+            {
+                  "name": "Boa Gialla",
+                  "text": "Tengerparti üdülőhely Torre Guaceto Nature Reserve közelében, stranddal és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.822096,
+                        40.697453
+                  ]
+            },
+            {
+                  "name": "PortoGuaceto Agribeach",
+                  "text": "Tengerparti üdülőhely Torre Guaceto Nature Reserve közelében, stranddal és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.762744,
+                        40.725029
+                  ]
+            },
+            {
+                  "name": "lido attrezzato Torre Guaceto",
+                  "text": "Tengerparti üdülőhely Torre Guaceto Nature Reserve közelében, stranddal és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.774084,
+                        40.721289
+                  ]
+            },
+            {
+                  "name": "Lido Bianco Beach",
+                  "text": "A Lido Bianco Beach egy tengerparti üdülőhely a Torre Guaceto természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736062,
+                        40.742059
+                  ]
+            },
+            {
+                  "name": "Lido Arca di Noè",
+                  "text": "A Lido Arca di Noè egy tengerparti üdülőhely a Torre Guaceto természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.832866,
+                        40.693105
+                  ]
+            },
+            {
+                  "name": "Apulian Beach club",
+                  "text": "Az Apulian Beach club egy tengerparti üdülőhely a Torre Guaceto természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742987,
+                        40.735747
+                  ]
+            },
+            {
+                  "name": "Lido Azzurro",
+                  "text": "A Lido Azzurro egy tengerparti üdülőhely, amely partmenti kilátást kínál a Torre Guaceto természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.829495,
+                        40.694198
                   ]
             }
       ],
@@ -872,6 +1070,69 @@ export const italyLifeV2: POI[] = [
                         17.762057,
                         40.700295
                   ]
+            },
+            {
+                  "name": "Boa Gialla",
+                  "text": "O stațiune de coastă în Torre Guaceto Nature Reserve care oferă acces la plajă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        17.822096,
+                        40.697453
+                  ]
+            },
+            {
+                  "name": "PortoGuaceto Agribeach",
+                  "text": "O stațiune de coastă în Torre Guaceto Nature Reserve care oferă acces la plajă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        17.762744,
+                        40.725029
+                  ]
+            },
+            {
+                  "name": "lido attrezzato Torre Guaceto",
+                  "text": "O stațiune de coastă în Torre Guaceto Nature Reserve care oferă acces la plajă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        17.774084,
+                        40.721289
+                  ]
+            },
+            {
+                  "name": "Lido Bianco Beach",
+                  "text": "Lido Bianco Beach este o stațiune balneară situată în Rezervația Naturală Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736062,
+                        40.742059
+                  ]
+            },
+            {
+                  "name": "Lido Arca di Noè",
+                  "text": "Lido Arca di Noè este o zonă de stațiune balneară din Rezervația Naturală Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.832866,
+                        40.693105
+                  ]
+            },
+            {
+                  "name": "Apulian Beach club",
+                  "text": "Apulian Beach club este o stațiune de litoral situată în Rezervația Naturală Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742987,
+                        40.735747
+                  ]
+            },
+            {
+                  "name": "Lido Azzurro",
+                  "text": "Lido Azzurro este o stațiune balneară care oferă vedere la coastă în Rezervația Naturală Torre Guaceto.",
+                  "category": "recreational",
+                  "coords": [
+                        17.829495,
+                        40.694198
+                  ]
             }
       ],
       "en": [
@@ -945,6 +1206,69 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         17.762057,
                         40.700295
+                  ]
+            },
+            {
+                  "name": "Boa Gialla",
+                  "text": "A coastal resort area in Torre Guaceto Nature Reserve offering beach access and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        17.822096,
+                        40.697453
+                  ]
+            },
+            {
+                  "name": "PortoGuaceto Agribeach",
+                  "text": "A coastal resort area in Torre Guaceto Nature Reserve offering beach access and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        17.762744,
+                        40.725029
+                  ]
+            },
+            {
+                  "name": "lido attrezzato Torre Guaceto",
+                  "text": "A coastal resort area in Torre Guaceto Nature Reserve offering beach access and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        17.774084,
+                        40.721289
+                  ]
+            },
+            {
+                  "name": "Lido Bianco Beach",
+                  "text": "Lido Bianco Beach is a beach resort located within the Torre Guaceto Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736062,
+                        40.742059
+                  ]
+            },
+            {
+                  "name": "Lido Arca di Noè",
+                  "text": "Lido Arca di Noè is a beach resort area in the Torre Guaceto Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        17.832866,
+                        40.693105
+                  ]
+            },
+            {
+                  "name": "Apulian Beach club",
+                  "text": "Apulian Beach club is a seaside resort located at the Torre Guaceto Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742987,
+                        40.735747
+                  ]
+            },
+            {
+                  "name": "Lido Azzurro",
+                  "text": "Lido Azzurro is a beach resort offering coastal views in the Torre Guaceto Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        17.829495,
+                        40.694198
                   ]
             }
       ]
@@ -1885,6 +2209,42 @@ export const italyLifeV2: POI[] = [
                         10.55941,
                         43.226626
                   ]
+            },
+            {
+                  "name": "Piscina condominiale LOTTO C",
+                  "text": "Ein Gemeinschaftspool in einem Wohnkomplex im Naturschutzgebiet Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534084,
+                        43.238668
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto A",
+                  "text": "Ein privates Schwimmbad für Bewohner der Anlage Lotto A in Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534809,
+                        43.243983
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto B",
+                  "text": "Ein Schwimmbecken für die Wohneinheit Lotto B im Schutzgebiet Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534355,
+                        43.241665
+                  ]
+            },
+            {
+                  "name": "Piscina del campeggio",
+                  "text": "Ein Campingplatz-Schwimmbad im Naturschutzgebiet Bolgheri in der Toskana.",
+                  "category": "recreational",
+                  "coords": [
+                        10.533011,
+                        43.235239
+                  ]
             }
       ],
       "hu": [
@@ -1940,6 +2300,42 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         10.55941,
                         43.226626
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale LOTTO C",
+                  "text": "Közös használatú medence egy lakóparkban a Bolgheri Természetvédelmi Területen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534084,
+                        43.238668
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto A",
+                  "text": "Privát úszómedence a bolgheri Lotto A lakóegység lakói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534809,
+                        43.243983
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto B",
+                  "text": "Úszómedence a bolgheri természetvédelmi területen található Lotto B lakóegységhez.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534355,
+                        43.241665
+                  ]
+            },
+            {
+                  "name": "Piscina del campeggio",
+                  "text": "Kemping úszómedencéje a toszkánai Bolgheri Természetvédelmi Területen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.533011,
+                        43.235239
                   ]
             }
       ],
@@ -1997,6 +2393,42 @@ export const italyLifeV2: POI[] = [
                         10.55941,
                         43.226626
                   ]
+            },
+            {
+                  "name": "Piscina condominiale LOTTO C",
+                  "text": "O piscină comună într-un complex rezidențial din Rezervația Naturală Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534084,
+                        43.238668
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto A",
+                  "text": "O piscină privată pentru rezidenții complexului Lotto A din Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534809,
+                        43.243983
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto B",
+                  "text": "O piscină pentru unitatea rezidențială Lotto B din rezervația Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534355,
+                        43.241665
+                  ]
+            },
+            {
+                  "name": "Piscina del campeggio",
+                  "text": "O piscină de camping situată în Rezervația Naturală Bolgheri din Toscana.",
+                  "category": "recreational",
+                  "coords": [
+                        10.533011,
+                        43.235239
+                  ]
             }
       ],
       "en": [
@@ -2052,6 +2484,42 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         10.55941,
                         43.226626
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale LOTTO C",
+                  "text": "A communal pool in a residential complex within the Bolgheri Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534084,
+                        43.238668
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto A",
+                  "text": "A private swimming pool for residents of the Lotto A complex in Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534809,
+                        43.243983
+                  ]
+            },
+            {
+                  "name": "Piscina condominiale Lotto B",
+                  "text": "A swimming pool for the Lotto B residential unit in the Bolgheri reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        10.534355,
+                        43.241665
+                  ]
+            },
+            {
+                  "name": "Piscina del campeggio",
+                  "text": "A campsite swimming pool located in the Bolgheri Nature Reserve in Tuscany.",
+                  "category": "recreational",
+                  "coords": [
+                        10.533011,
+                        43.235239
                   ]
             }
       ]
@@ -2704,6 +3172,15 @@ export const italyLifeV2: POI[] = [
                         13.829474,
                         41.7811
                   ]
+            },
+            {
+                  "name": "Centro Visite Parco Nazionale d'Abruzzo",
+                  "text": "Besucherzentrum im Nationalpark Abruzzen mit einem Wildtiergehege zur Beobachtung lokaler Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        13.786666,
+                        41.805958
+                  ]
             }
       ],
       "hu": [
@@ -2750,6 +3227,15 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.829474,
                         41.7811
+                  ]
+            },
+            {
+                  "name": "Centro Visite Parco Nazionale d'Abruzzo",
+                  "text": "Látogatóközpont az Abruzzo Nemzeti Parkban vadasparkkal, ahol helyi állatfajok figyelhetők meg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.786666,
+                        41.805958
                   ]
             }
       ],
@@ -2798,6 +3284,15 @@ export const italyLifeV2: POI[] = [
                         13.829474,
                         41.7811
                   ]
+            },
+            {
+                  "name": "Centro Visite Parco Nazionale d'Abruzzo",
+                  "text": "Centru de vizitare în Parcul Național Abruzzo, cu o incintă pentru animale sălbatice pentru observarea speciilor locale.",
+                  "category": "recreational",
+                  "coords": [
+                        13.786666,
+                        41.805958
+                  ]
             }
       ],
       "en": [
@@ -2844,6 +3339,15 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.829474,
                         41.7811
+                  ]
+            },
+            {
+                  "name": "Centro Visite Parco Nazionale d'Abruzzo",
+                  "text": "Visitor center in the Abruzzo National Park featuring a wildlife enclosure for observing local species.",
+                  "category": "recreational",
+                  "coords": [
+                        13.786666,
+                        41.805958
                   ]
             }
       ]
@@ -2929,6 +3433,15 @@ export const italyLifeV2: POI[] = [
                         18.343127,
                         40.356056
                   ]
+            },
+            {
+                  "name": "Lido Pacha Mama",
+                  "text": "Ein Strandresort in der Nähe des Naturschutzgebiets WWF Oasis Le Cesine.",
+                  "category": "recreational",
+                  "coords": [
+                        18.302336,
+                        40.393491
+                  ]
             }
       ],
       "hu": [
@@ -2966,6 +3479,15 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         18.343127,
                         40.356056
+                  ]
+            },
+            {
+                  "name": "Lido Pacha Mama",
+                  "text": "Strandüdülő a WWF Oasis Le Cesine természetvédelmi terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.302336,
+                        40.393491
                   ]
             }
       ],
@@ -3005,6 +3527,15 @@ export const italyLifeV2: POI[] = [
                         18.343127,
                         40.356056
                   ]
+            },
+            {
+                  "name": "Lido Pacha Mama",
+                  "text": "O stațiune la plajă situată lângă rezervația naturală WWF Oasis Le Cesine.",
+                  "category": "recreational",
+                  "coords": [
+                        18.302336,
+                        40.393491
+                  ]
             }
       ],
       "en": [
@@ -3042,6 +3573,15 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         18.343127,
                         40.356056
+                  ]
+            },
+            {
+                  "name": "Lido Pacha Mama",
+                  "text": "A beach resort located near the WWF Oasis Le Cesine nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        18.302336,
+                        40.393491
                   ]
             }
       ]
@@ -3361,6 +3901,33 @@ export const italyLifeV2: POI[] = [
                         15.077734,
                         36.747262
                   ]
+            },
+            {
+                  "name": "Agua Beach Resort",
+                  "text": "Ein Ferienort am Rande des Naturschutzgebiets Vendicari, ideal zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        15.102127,
+                        36.758203
+                  ]
+            },
+            {
+                  "name": "Lido San Lorenzo",
+                  "text": "Ein gut ausgestatteter Badeort in der Nähe des Naturschutzgebiets Vendicari.",
+                  "category": "recreational",
+                  "coords": [
+                        15.100943,
+                        36.759829
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vendicari",
+                  "text": "Ein naturbelassener Strand im Vendicari-Reservat, der für seine unberührte Schönheit bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.095529,
+                        36.801411
+                  ]
             }
       ],
       "hu": [
@@ -3434,6 +4001,33 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         15.077734,
                         36.747262
+                  ]
+            },
+            {
+                  "name": "Agua Beach Resort",
+                  "text": "Üdülőhely a Vendicari Természetvédelmi Terület szélén, amely ideális a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.102127,
+                        36.758203
+                  ]
+            },
+            {
+                  "name": "Lido San Lorenzo",
+                  "text": "Jól felszerelt tengerparti üdülőhely a Vendicari Természetvédelmi Terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.100943,
+                        36.759829
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vendicari",
+                  "text": "Természetes strand a Vendicari rezervátumban, amely érintetlen szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.095529,
+                        36.801411
                   ]
             }
       ],
@@ -3509,6 +4103,33 @@ export const italyLifeV2: POI[] = [
                         15.077734,
                         36.747262
                   ]
+            },
+            {
+                  "name": "Agua Beach Resort",
+                  "text": "O stațiune situată la marginea Rezervației Naturale Vendicari, ideală pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        15.102127,
+                        36.758203
+                  ]
+            },
+            {
+                  "name": "Lido San Lorenzo",
+                  "text": "O stațiune balneară bine echipată, situată în apropierea Rezervației Naturale Vendicari.",
+                  "category": "recreational",
+                  "coords": [
+                        15.100943,
+                        36.759829
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vendicari",
+                  "text": "O plajă naturală în Rezervația Vendicari, cunoscută pentru frumusețea sa virgină.",
+                  "category": "recreational",
+                  "coords": [
+                        15.095529,
+                        36.801411
+                  ]
             }
       ],
       "en": [
@@ -3582,6 +4203,33 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         15.077734,
                         36.747262
+                  ]
+            },
+            {
+                  "name": "Agua Beach Resort",
+                  "text": "A resort located at the edge of the Vendicari Nature Reserve, ideal for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.102127,
+                        36.758203
+                  ]
+            },
+            {
+                  "name": "Lido San Lorenzo",
+                  "text": "A well-equipped beach resort located near the Vendicari Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        15.100943,
+                        36.759829
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vendicari",
+                  "text": "A natural beach in the Vendicari reserve, known for its pristine beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        15.095529,
+                        36.801411
                   ]
             }
       ]
@@ -4756,6 +5404,42 @@ export const italyLifeV2: POI[] = [
                         12.269749,
                         42.092773
                   ]
+            },
+            {
+                  "name": "da Maria",
+                  "text": "Ein Strandresort am Braccianosee, ideal für Erholung im Regionalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179481,
+                        42.111449
+                  ]
+            },
+            {
+                  "name": "Liviana Beach",
+                  "text": "Ein Strandresort im Regionalpark Braccianosee, das Zugang zum Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.182815,
+                        42.109086
+                  ]
+            },
+            {
+                  "name": "Water World Fan",
+                  "text": "Ein Strandresort am Braccianosee mit Freizeitmöglichkeiten im Regionalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22675,
+                        42.158737
+                  ]
+            },
+            {
+                  "name": "Acqua Chiara",
+                  "text": "Ein Strandresort am Braccianosee, das Entspannung in einer natürlichen Parkumgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228256,
+                        42.158795
+                  ]
             }
       ],
       "hu": [
@@ -4811,6 +5495,42 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         12.269749,
                         42.092773
+                  ]
+            },
+            {
+                  "name": "da Maria",
+                  "text": "Tengerparti üdülőhely a Braccianói-tónál, a regionális park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179481,
+                        42.111449
+                  ]
+            },
+            {
+                  "name": "Liviana Beach",
+                  "text": "Tengerparti üdülőhely a Braccianói-tó regionális parkjában, közvetlen vízparti kapcsolattal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.182815,
+                        42.109086
+                  ]
+            },
+            {
+                  "name": "Water World Fan",
+                  "text": "Tengerparti üdülőhely a Braccianói-tónál, szabadidős lehetőségekkel a regionális parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22675,
+                        42.158737
+                  ]
+            },
+            {
+                  "name": "Acqua Chiara",
+                  "text": "Tengerparti üdülőhely a Braccianói-tónál, pihenési lehetőséggel a park környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228256,
+                        42.158795
                   ]
             }
       ],
@@ -4868,6 +5588,42 @@ export const italyLifeV2: POI[] = [
                         12.269749,
                         42.092773
                   ]
+            },
+            {
+                  "name": "da Maria",
+                  "text": "O stațiune de plajă la lacul Bracciano, situată în parcul regional.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179481,
+                        42.111449
+                  ]
+            },
+            {
+                  "name": "Liviana Beach",
+                  "text": "O stațiune de plajă în parcul regional al lacului Bracciano, oferind acces la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.182815,
+                        42.109086
+                  ]
+            },
+            {
+                  "name": "Water World Fan",
+                  "text": "O stațiune de plajă la lacul Bracciano, cu facilități de agrement în parcul regional.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22675,
+                        42.158737
+                  ]
+            },
+            {
+                  "name": "Acqua Chiara",
+                  "text": "O stațiune de plajă la lacul Bracciano, oferind relaxare în cadrul parcului natural.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228256,
+                        42.158795
+                  ]
             }
       ],
       "en": [
@@ -4923,6 +5679,42 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         12.269749,
                         42.092773
+                  ]
+            },
+            {
+                  "name": "da Maria",
+                  "text": "A beach resort on Lake Bracciano, located within the regional park area.",
+                  "category": "recreational",
+                  "coords": [
+                        12.179481,
+                        42.111449
+                  ]
+            },
+            {
+                  "name": "Liviana Beach",
+                  "text": "A beach resort in the Bracciano Lake Regional Park, offering lakeside access.",
+                  "category": "recreational",
+                  "coords": [
+                        12.182815,
+                        42.109086
+                  ]
+            },
+            {
+                  "name": "Water World Fan",
+                  "text": "A beach resort on Lake Bracciano, featuring recreational facilities in the regional park.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22675,
+                        42.158737
+                  ]
+            },
+            {
+                  "name": "Acqua Chiara",
+                  "text": "A beach resort on Lake Bracciano, providing relaxation in the natural park setting.",
+                  "category": "recreational",
+                  "coords": [
+                        12.228256,
+                        42.158795
                   ]
             }
       ]
@@ -5646,7 +6438,124 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-riserva-naturale-tasso-di-monte-life-v2.webp",
   },
   {
-    id: "italy-giardino-botanico-di-catania-life-v2",
+    id: "italy-giardino-botanico-di-catania-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sole Mare Beach Club",
+                  "text": "Ein moderner Strandclub in der Nähe des Botanischen Gartens von Catania.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108025,
+                        37.518765
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "Ein markanter Strand in Catania mit schwarzem Vulkansand und dunklen Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108984,
+                        37.519442
+                  ]
+            },
+            {
+                  "name": "Spiaggetta Lognina",
+                  "text": "Ein kleiner Strandabschnitt im Viertel Lognina in Catania.",
+                  "category": "recreational",
+                  "coords": [
+                        15.112263,
+                        37.531544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sole Mare Beach Club",
+                  "text": "Modern strandklub a cataniai botanikus kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108025,
+                        37.518765
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "Catania jellegzetes strandja, fekete vulkáni homokkal és sötét sziklákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108984,
+                        37.519442
+                  ]
+            },
+            {
+                  "name": "Spiaggetta Lognina",
+                  "text": "Egy kis strandszakasz Catania Lognina negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.112263,
+                        37.531544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sole Mare Beach Club",
+                  "text": "Un club de plajă modern situat lângă Grădina Botanică din Catania.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108025,
+                        37.518765
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "O plajă distinctivă în Catania, cu nisip vulcanic negru și stânci întunecate.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108984,
+                        37.519442
+                  ]
+            },
+            {
+                  "name": "Spiaggetta Lognina",
+                  "text": "O mică secțiune de plajă în cartierul Lognina din Catania.",
+                  "category": "recreational",
+                  "coords": [
+                        15.112263,
+                        37.531544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sole Mare Beach Club",
+                  "text": "A modern beach club located near the Botanical Garden of Catania.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108025,
+                        37.518765
+                  ]
+            },
+            {
+                  "name": "Spiaggia nera di San Giovanni Li Cuti",
+                  "text": "A distinctive beach in Catania with black volcanic sand and dark rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        15.108984,
+                        37.519442
+                  ]
+            },
+            {
+                  "name": "Spiaggetta Lognina",
+                  "text": "A small beach section in the Lognina district of Catania.",
+                  "category": "recreational",
+                  "coords": [
+                        15.112263,
+                        37.531544
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Botanischer Garten Catania", hu: "Cataniai Botanikus Kert", ro: "Grădina Botanică din Catania", en: "Botanical Garden of Catania" },
@@ -5764,6 +6673,96 @@ export const italyLifeV2: POI[] = [
                         13.592413,
                         43.565423
                   ]
+            },
+            {
+                  "name": "Il Molo",
+                  "text": "Ein Strandbad im Regionalpark Conero, das Komfort und Service bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.591199,
+                        43.564959
+                  ]
+            },
+            {
+                  "name": "La Spiaggina",
+                  "text": "Ein kleineres Strandbad, das Entspannung am Fuße des Monte Conero bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.5955,
+                        43.564876
+                  ]
+            },
+            {
+                  "name": "Bonetti",
+                  "text": "Ein Strandresort im Conero Regionalpark mit Blick auf die Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598274,
+                        43.563075
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "Ein Strandresort im Herzen des Conero Regionalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        13.599745,
+                        43.561622
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Forni",
+                  "text": "Ein abgelegener Strand im Conero Regionalpark, erreichbar über Wanderwege.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618545,
+                        43.551504
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassi Bianchi",
+                  "text": "Ein Strand im Conero-Park, der für seine weißen Kieselsteine bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.614789,
+                        43.554699
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Due Sorelle",
+                  "text": "Ein ikonischer Strand im Conero-Park, benannt nach zwei markanten weißen Felsen im Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        13.6273,
+                        43.546033
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gabbiani",
+                  "text": "Ein ruhiger, naturbelassener Strand im Regionalpark Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.62681,
+                        43.548405
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Molo",
+                  "text": "Ein malerischer Strand im Regionalpark Conero an der italienischen Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588789,
+                        43.564882
+                  ]
+            },
+            {
+                  "name": "Fior Di Mare Pool",
+                  "text": "Ein Schwimmbecken im Bereich des Regionalparks Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623963,
+                        43.511918
+                  ]
             }
       ],
       "hu": [
@@ -5837,6 +6836,96 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.592413,
                         43.565423
+                  ]
+            },
+            {
+                  "name": "Il Molo",
+                  "text": "Strandfürdő a Conero Regionális Parkban, amely kényelmet és szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.591199,
+                        43.564959
+                  ]
+            },
+            {
+                  "name": "La Spiaggina",
+                  "text": "Kisebb strandfürdő, amely pihenést kínál a Monte Conero lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.5955,
+                        43.564876
+                  ]
+            },
+            {
+                  "name": "Bonetti",
+                  "text": "Tengerparti üdülőhely a Conero Regionális Parkban, kilátással az Adriai-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598274,
+                        43.563075
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "Tengerparti üdülőhely a Conero Regionális Park szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.599745,
+                        43.561622
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Forni",
+                  "text": "Elszigetelt strand a Conero Regionális Parkban, amely túraútvonalakon érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618545,
+                        43.551504
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassi Bianchi",
+                  "text": "Strand a Conero-parkban, amely fehér kavicsairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.614789,
+                        43.554699
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Due Sorelle",
+                  "text": "Ikonikus strand a Conero-parkban, amely a tengerben álló két fehér szikláról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        13.6273,
+                        43.546033
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gabbiani",
+                  "text": "Nyugodt, természetes strand a Conero Regionális Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.62681,
+                        43.548405
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Molo",
+                  "text": "Festői tengerpart az olaszországi Conero Regionális Parkban, az Adriai-tengernél.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588789,
+                        43.564882
+                  ]
+            },
+            {
+                  "name": "Fior Di Mare Pool",
+                  "text": "Egy úszómedence a Conero Regionális Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623963,
+                        43.511918
                   ]
             }
       ],
@@ -5912,6 +7001,96 @@ export const italyLifeV2: POI[] = [
                         13.592413,
                         43.565423
                   ]
+            },
+            {
+                  "name": "Il Molo",
+                  "text": "Un stabiliment de plajă în Parcul Regional Conero, oferind confort și servicii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.591199,
+                        43.564959
+                  ]
+            },
+            {
+                  "name": "La Spiaggina",
+                  "text": "Un stabiliment de plajă mai mic, oferind relaxare la poalele Muntelui Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.5955,
+                        43.564876
+                  ]
+            },
+            {
+                  "name": "Bonetti",
+                  "text": "O stațiune de plajă în Parcul Regional Conero, cu vedere la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598274,
+                        43.563075
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "O stațiune de plajă în inima Parcului Regional Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.599745,
+                        43.561622
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Forni",
+                  "text": "O plajă retrasă în Parcul Regional Conero, accesibilă prin trasee de drumeție.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618545,
+                        43.551504
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassi Bianchi",
+                  "text": "O plajă în parcul Conero, cunoscută pentru pietrele sale albe.",
+                  "category": "recreational",
+                  "coords": [
+                        13.614789,
+                        43.554699
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Due Sorelle",
+                  "text": "O plajă iconică din parcul Conero, numită după două stânci albe distinctive din mare.",
+                  "category": "recreational",
+                  "coords": [
+                        13.6273,
+                        43.546033
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gabbiani",
+                  "text": "O plajă liniștită și naturală în Parcul Regional Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.62681,
+                        43.548405
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Molo",
+                  "text": "O plajă pitorească în Parcul Regional Conero de pe coasta adriatică a Italiei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588789,
+                        43.564882
+                  ]
+            },
+            {
+                  "name": "Fior Di Mare Pool",
+                  "text": "O piscină situată în zona Parcului Regional Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623963,
+                        43.511918
+                  ]
             }
       ],
       "en": [
@@ -5985,6 +7164,96 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.592413,
                         43.565423
+                  ]
+            },
+            {
+                  "name": "Il Molo",
+                  "text": "A beach establishment in the Conero Regional Park offering comfort and services.",
+                  "category": "recreational",
+                  "coords": [
+                        13.591199,
+                        43.564959
+                  ]
+            },
+            {
+                  "name": "La Spiaggina",
+                  "text": "A smaller beach establishment offering relaxation at the foot of Monte Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.5955,
+                        43.564876
+                  ]
+            },
+            {
+                  "name": "Bonetti",
+                  "text": "A beach resort in the Conero Regional Park with views of the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598274,
+                        43.563075
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "A beach resort in the heart of the Conero Regional Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.599745,
+                        43.561622
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Forni",
+                  "text": "A secluded beach in the Conero Regional Park, accessible via hiking trails.",
+                  "category": "recreational",
+                  "coords": [
+                        13.618545,
+                        43.551504
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassi Bianchi",
+                  "text": "A beach in the Conero park known for its white pebbles.",
+                  "category": "recreational",
+                  "coords": [
+                        13.614789,
+                        43.554699
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Due Sorelle",
+                  "text": "An iconic beach in the Conero park, named after two distinctive white sea stacks.",
+                  "category": "recreational",
+                  "coords": [
+                        13.6273,
+                        43.546033
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gabbiani",
+                  "text": "A quiet, natural beach located in the Conero Regional Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.62681,
+                        43.548405
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Molo",
+                  "text": "A picturesque beach in the Conero Regional Park on Italy's Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588789,
+                        43.564882
+                  ]
+            },
+            {
+                  "name": "Fior Di Mare Pool",
+                  "text": "A swimming pool located within the Conero Regional Park area.",
+                  "category": "recreational",
+                  "coords": [
+                        13.623963,
+                        43.511918
                   ]
             }
       ]

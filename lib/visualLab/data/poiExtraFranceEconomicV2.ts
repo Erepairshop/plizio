@@ -1131,7 +1131,88 @@ export const franceEconomicV2: POI[] = [
 }
   },
   {
-    id: "france-fos-sur-mer-port-economic-v2",
+    id: "france-fos-sur-mer-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grande Plage",
+                  "text": "Ein weitläufiger Sandstrand in der Nähe des Hafens von Fos-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.945995,
+                        43.429482
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "Ein beliebter Sandstrand am Mittelmeer im Bereich von Fos-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.922051,
+                        43.43163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grande Plage",
+                  "text": "Tágas homokos strand Fos-sur-Mer kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.945995,
+                        43.429482
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "Népszerű homokos strand a Földközi-tenger partján Fos-sur-Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.922051,
+                        43.43163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grande Plage",
+                  "text": "O plajă de nisip spațioasă situată lângă portul Fos-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.945995,
+                        43.429482
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "O plajă de nisip populară la Marea Mediterană în zona Fos-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.922051,
+                        43.43163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grande Plage",
+                  "text": "A spacious sandy beach located near the port of Fos-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.945995,
+                        43.429482
+                  ]
+            },
+            {
+                  "name": "La Grande Plage",
+                  "text": "A popular sandy beach on the Mediterranean coast in the Fos-sur-Mer area.",
+                  "category": "recreational",
+                  "coords": [
+                        4.922051,
+                        43.43163
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "FR",
     name: { de: "Fos-sur-Mer Hafen", hu: "Fos-sur-Mer kikötő", ro: "Portul Fos-sur-Mer", en: "Fos-sur-Mer Port" },
@@ -1536,7 +1617,376 @@ export const franceEconomicV2: POI[] = [
     image: "/poi-images/france-clermont-ferrand-michelin-economic-v2.webp",
   },
   {
-    id: "france-nantes-saint-nazaire-port-economic-v2",
+    id: "france-nantes-saint-nazaire-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Trébezy",
+                  "text": "Plage de Trébezy ist ein kleiner Strand in der Nähe des Hafens von Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.258159,
+                        47.249424
+                  ]
+            },
+            {
+                  "name": "Plage de Virechat",
+                  "text": "Plage de Virechat ist ein Strandabschnitt an der Küste von Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.259997,
+                        47.247606
+                  ]
+            },
+            {
+                  "name": "Plage de Villès-Martin",
+                  "text": "Plage de Villès-Martin ist ein beliebter Stadtstrand in Saint-Nazaire mit Blick auf die Mündung.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.226225,
+                        47.257421
+                  ]
+            },
+            {
+                  "name": "Plage de Belle Fontaine",
+                  "text": "Plage de Belle Fontaine ist ein ruhiger Strand an der Küste von Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.241849,
+                        47.255935
+                  ]
+            },
+            {
+                  "name": "Plage de Kerlédé",
+                  "text": "Plage de Kerlédé ist ein Küstenabschnitt in der Nähe des Hafens von Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.236316,
+                        47.256089
+                  ]
+            },
+            {
+                  "name": "Plage de Kerloupiots",
+                  "text": "Plage de Kerloupiots ist ein kleiner Strandbereich in Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.238583,
+                        47.256002
+                  ]
+            },
+            {
+                  "name": "Plage de Ker Villès",
+                  "text": "Plage de Ker Villès liegt an der Atlantikküste bei Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.230902,
+                        47.255677
+                  ]
+            },
+            {
+                  "name": "Plage de Porcé",
+                  "text": "Plage de Porcé ist ein natürlicher Strandabschnitt in Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Plage de Bonne Anse",
+                  "text": "Plage de Bonne Anse ist ein Strand in der Nähe des Hafengebiets von Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246988,
+                        47.255377
+                  ]
+            },
+            {
+                  "name": "Port Charlotte",
+                  "text": "Port Charlotte ist ein Küstenbereich in der Region Nantes-Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.262212,
+                        47.243765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Trébezy",
+                  "text": "A Plage de Trébezy egy kis strand Saint-Nazaire kikötője közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.258159,
+                        47.249424
+                  ]
+            },
+            {
+                  "name": "Plage de Virechat",
+                  "text": "A Plage de Virechat egy strandszakasz Saint-Nazaire partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.259997,
+                        47.247606
+                  ]
+            },
+            {
+                  "name": "Plage de Villès-Martin",
+                  "text": "A Plage de Villès-Martin Saint-Nazaire népszerű városi strandja, kilátással a torkolatra.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.226225,
+                        47.257421
+                  ]
+            },
+            {
+                  "name": "Plage de Belle Fontaine",
+                  "text": "A Plage de Belle Fontaine egy csendes strand Saint-Nazaire tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.241849,
+                        47.255935
+                  ]
+            },
+            {
+                  "name": "Plage de Kerlédé",
+                  "text": "A Plage de Kerlédé egy tengerparti szakasz Saint-Nazaire kikötője közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.236316,
+                        47.256089
+                  ]
+            },
+            {
+                  "name": "Plage de Kerloupiots",
+                  "text": "A Plage de Kerloupiots egy kis strand Saint-Nazaire területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.238583,
+                        47.256002
+                  ]
+            },
+            {
+                  "name": "Plage de Ker Villès",
+                  "text": "A Plage de Ker Villès az Atlanti-óceán partján fekszik Saint-Nazaire közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.230902,
+                        47.255677
+                  ]
+            },
+            {
+                  "name": "Plage de Porcé",
+                  "text": "A Plage de Porcé egy természetes strandszakasz Saint-Nazaire városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Plage de Bonne Anse",
+                  "text": "A Plage de Bonne Anse egy strand Saint-Nazaire kikötői övezetének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246988,
+                        47.255377
+                  ]
+            },
+            {
+                  "name": "Port Charlotte",
+                  "text": "A Port Charlotte egy tengerparti rész Nantes-Saint-Nazaire régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.262212,
+                        47.243765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Trébezy",
+                  "text": "Plage de Trébezy este o mică plajă situată lângă portul Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.258159,
+                        47.249424
+                  ]
+            },
+            {
+                  "name": "Plage de Virechat",
+                  "text": "Plage de Virechat este o porțiune de plajă de pe coasta orașului Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.259997,
+                        47.247606
+                  ]
+            },
+            {
+                  "name": "Plage de Villès-Martin",
+                  "text": "Plage de Villès-Martin este o plajă urbană populară în Saint-Nazaire, cu vedere la estuar.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.226225,
+                        47.257421
+                  ]
+            },
+            {
+                  "name": "Plage de Belle Fontaine",
+                  "text": "Plage de Belle Fontaine este o plajă liniștită pe coasta orașului Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.241849,
+                        47.255935
+                  ]
+            },
+            {
+                  "name": "Plage de Kerlédé",
+                  "text": "Plage de Kerlédé este o porțiune de coastă situată lângă portul Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.236316,
+                        47.256089
+                  ]
+            },
+            {
+                  "name": "Plage de Kerloupiots",
+                  "text": "Plage de Kerloupiots este o mică zonă de plajă în Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.238583,
+                        47.256002
+                  ]
+            },
+            {
+                  "name": "Plage de Ker Villès",
+                  "text": "Plage de Ker Villès se află pe coasta Atlanticului, lângă Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.230902,
+                        47.255677
+                  ]
+            },
+            {
+                  "name": "Plage de Porcé",
+                  "text": "Plage de Porcé este o porțiune de plajă naturală în Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Plage de Bonne Anse",
+                  "text": "Plage de Bonne Anse este o plajă situată lângă zona portuară din Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246988,
+                        47.255377
+                  ]
+            },
+            {
+                  "name": "Port Charlotte",
+                  "text": "Port Charlotte este o zonă de coastă în regiunea Nantes-Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.262212,
+                        47.243765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Trébezy",
+                  "text": "Plage de Trébezy is a small beach located near the port of Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.258159,
+                        47.249424
+                  ]
+            },
+            {
+                  "name": "Plage de Virechat",
+                  "text": "Plage de Virechat is a beach section on the coast of Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.259997,
+                        47.247606
+                  ]
+            },
+            {
+                  "name": "Plage de Villès-Martin",
+                  "text": "Plage de Villès-Martin is a popular urban beach in Saint-Nazaire overlooking the estuary.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.226225,
+                        47.257421
+                  ]
+            },
+            {
+                  "name": "Plage de Belle Fontaine",
+                  "text": "Plage de Belle Fontaine is a quiet beach on the Saint-Nazaire coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.241849,
+                        47.255935
+                  ]
+            },
+            {
+                  "name": "Plage de Kerlédé",
+                  "text": "Plage de Kerlédé is a coastal stretch located near the port of Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.236316,
+                        47.256089
+                  ]
+            },
+            {
+                  "name": "Plage de Kerloupiots",
+                  "text": "Plage de Kerloupiots is a small beach area in Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.238583,
+                        47.256002
+                  ]
+            },
+            {
+                  "name": "Plage de Ker Villès",
+                  "text": "Plage de Ker Villès is located on the Atlantic coast near Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.230902,
+                        47.255677
+                  ]
+            },
+            {
+                  "name": "Plage de Porcé",
+                  "text": "Plage de Porcé is a natural beach section in Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Plage de Bonne Anse",
+                  "text": "Plage de Bonne Anse is a beach located near the port area of Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246988,
+                        47.255377
+                  ]
+            },
+            {
+                  "name": "Port Charlotte",
+                  "text": "Port Charlotte is a coastal area in the Nantes-Saint-Nazaire region.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.262212,
+                        47.243765
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "FR",
     name: { de: "Nantes-Saint-Nazaire Hafen", hu: "Nantes-Saint-Nazaire kikötő", ro: "Portul Nantes-Saint-Nazaire", en: "Nantes-Saint-Nazaire Port" },
@@ -1941,7 +2391,304 @@ export const franceEconomicV2: POI[] = [
     image: "/poi-images/france-st-etienne-design-economic-v2.webp",
   },
   {
-    id: "france-cannes-media-economic-v2",
+    id: "france-cannes-media-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamaris",
+                  "text": "Tamaris ist ein öffentlicher Strand in Cannes, der für seine entspannte Atmosphäre am Mittelmeer geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        7.036572,
+                        43.535706
+                  ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "Croisette Beach ist ein exklusives Strandbad an der berühmten Promenade de la Croisette in Cannes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Palais Stephanie Beach",
+                  "text": "Palais Stephanie Beach ist ein luxuriöses Strandbad in Cannes, das zum gleichnamigen Hotelkomplex gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        7.024761,
+                        43.549449
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "C Beach ist ein stilvolles Strandbad in Cannes, das modernen Komfort an der Côte d'Azur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.02385,
+                        43.549656
+                  ]
+            },
+            {
+                  "name": "Plage Goéland",
+                  "text": "Plage Goéland ist ein familienfreundliches Strandbad in Cannes, das ideal zum Sonnenbaden am Mittelmeer ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.022714,
+                        43.54987
+                  ]
+            },
+            {
+                  "name": "Handi plage",
+                  "text": "Handi plage ist ein barrierefreier Strandabschnitt in Cannes, der speziell für Menschen mit Behinderungen ausgestattet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.034663,
+                        43.538814
+                  ]
+            },
+            {
+                  "name": "Plage Gazagnaire",
+                  "text": "Plage Gazagnaire ist ein weitläufiger öffentlicher Strand in Cannes, der bei Einheimischen sehr beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.03928,
+                        43.539283
+                  ]
+            },
+            {
+                  "name": "Plage Brigitte Bardot",
+                  "text": "Plage Brigitte Bardot ist ein Küstenabschnitt in Cannes, der nach der berühmten französischen Schauspielerin benannt wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        7.021693,
+                        43.549984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamaris",
+                  "text": "A Tamaris egy nyilvános strand Cannes-ban, amelyet a Földközi-tenger partján lévő nyugodt légköréért kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        7.036572,
+                        43.535706
+                  ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "A Croisette Beach egy exkluzív strand Cannes híres Promenade de la Croisette sétányán.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Palais Stephanie Beach",
+                  "text": "A Palais Stephanie Beach egy luxus strandkomplexum Cannes-ban, amely a hasonló nevű szállodakomplexumhoz tartozik.",
+                  "category": "recreational",
+                  "coords": [
+                        7.024761,
+                        43.549449
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "A C Beach egy stílusos strand Cannes-ban, amely modern kényelmet kínál a Côte d'Azur-ön.",
+                  "category": "recreational",
+                  "coords": [
+                        7.02385,
+                        43.549656
+                  ]
+            },
+            {
+                  "name": "Plage Goéland",
+                  "text": "A Plage Goéland egy családbarát strand Cannes-ban, amely ideális a Földközi-tenger melletti napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.022714,
+                        43.54987
+                  ]
+            },
+            {
+                  "name": "Handi plage",
+                  "text": "A Handi plage egy akadálymentesített strandrész Cannes-ban, amelyet speciálisan fogyatékkal élők számára alakítottak ki.",
+                  "category": "recreational",
+                  "coords": [
+                        7.034663,
+                        43.538814
+                  ]
+            },
+            {
+                  "name": "Plage Gazagnaire",
+                  "text": "A Plage Gazagnaire egy tágas nyilvános strand Cannes-ban, amely nagyon népszerű a helyiek körében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.03928,
+                        43.539283
+                  ]
+            },
+            {
+                  "name": "Plage Brigitte Bardot",
+                  "text": "A Plage Brigitte Bardot egy tengerparti rész Cannes-ban, amelyet a híres francia színésznőről neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        7.021693,
+                        43.549984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tamaris",
+                  "text": "Tamaris este o plajă publică din Cannes, apreciată pentru atmosfera sa relaxată de la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.036572,
+                        43.535706
+                  ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "Croisette Beach este un complex de plajă exclusivist situat pe faimoasa promenadă de la Croisette din Cannes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Palais Stephanie Beach",
+                  "text": "Palais Stephanie Beach este un complex de plajă luxos din Cannes, aparținând complexului hotelier cu același nume.",
+                  "category": "recreational",
+                  "coords": [
+                        7.024761,
+                        43.549449
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "C Beach este un complex de plajă elegant în Cannes, oferind confort modern pe Coasta de Azur.",
+                  "category": "recreational",
+                  "coords": [
+                        7.02385,
+                        43.549656
+                  ]
+            },
+            {
+                  "name": "Plage Goéland",
+                  "text": "Plage Goéland este o plajă potrivită pentru familii în Cannes, ideală pentru plajă la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.022714,
+                        43.54987
+                  ]
+            },
+            {
+                  "name": "Handi plage",
+                  "text": "Handi plage este o secțiune de plajă accesibilă în Cannes, echipată special pentru persoanele cu dizabilități.",
+                  "category": "recreational",
+                  "coords": [
+                        7.034663,
+                        43.538814
+                  ]
+            },
+            {
+                  "name": "Plage Gazagnaire",
+                  "text": "Plage Gazagnaire este o plajă publică spațioasă din Cannes, foarte populară printre localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        7.03928,
+                        43.539283
+                  ]
+            },
+            {
+                  "name": "Plage Brigitte Bardot",
+                  "text": "Plage Brigitte Bardot este o porțiune de coastă din Cannes, numită după faimoasa actriță franceză.",
+                  "category": "recreational",
+                  "coords": [
+                        7.021693,
+                        43.549984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamaris",
+                  "text": "Tamaris is a public beach in Cannes, appreciated for its relaxed atmosphere by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.036572,
+                        43.535706
+                  ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "Croisette Beach is an exclusive beach resort located on the famous Promenade de la Croisette in Cannes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Palais Stephanie Beach",
+                  "text": "Palais Stephanie Beach is a luxurious beach resort in Cannes, part of the hotel complex of the same name.",
+                  "category": "recreational",
+                  "coords": [
+                        7.024761,
+                        43.549449
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "C Beach is a stylish beach resort in Cannes, offering modern comfort on the French Riviera.",
+                  "category": "recreational",
+                  "coords": [
+                        7.02385,
+                        43.549656
+                  ]
+            },
+            {
+                  "name": "Plage Goéland",
+                  "text": "Plage Goéland is a family-friendly beach resort in Cannes, ideal for sunbathing by the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        7.022714,
+                        43.54987
+                  ]
+            },
+            {
+                  "name": "Handi plage",
+                  "text": "Handi plage is an accessible beach area in Cannes, specially equipped for people with disabilities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.034663,
+                        43.538814
+                  ]
+            },
+            {
+                  "name": "Plage Gazagnaire",
+                  "text": "Plage Gazagnaire is a spacious public beach in Cannes, very popular among locals.",
+                  "category": "recreational",
+                  "coords": [
+                        7.03928,
+                        43.539283
+                  ]
+            },
+            {
+                  "name": "Plage Brigitte Bardot",
+                  "text": "Plage Brigitte Bardot is a coastal area in Cannes, named after the famous French actress.",
+                  "category": "recreational",
+                  "coords": [
+                        7.021693,
+                        43.549984
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FR",
     name: { de: "Cannes Medienwirtschaft", hu: "Cannes médiaipar", ro: "Economia media din Cannes", en: "Cannes Media Economy" },

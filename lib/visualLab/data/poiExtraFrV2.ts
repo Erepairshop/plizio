@@ -16392,6 +16392,33 @@ export const poiExtraFrV2: POI[] = [
                         7.088077,
                         43.571076
                   ]
+            },
+            {
+                  "name": "Plages de l'Ouest",
+                  "text": "Sandstrände im westlichen Teil des Ferienortes Juan-les-Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095806,
+                        43.57081
+                  ]
+            },
+            {
+                  "name": "Plages du Midi",
+                  "text": "Beliebte Strände in Juan-les-Pins, die verschiedene Freizeitaktivitäten bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        7.084508,
+                        43.569434
+                  ]
+            },
+            {
+                  "name": "Plage du Pont du Lys",
+                  "text": "Ein Küstenstrand in Juan-les-Pins, ideal zum Sonnenbaden am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.103114,
+                        43.57051
+                  ]
             }
       ],
       "hu": [
@@ -16832,6 +16859,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.088077,
                         43.571076
+                  ]
+            },
+            {
+                  "name": "Plages de l'Ouest",
+                  "text": "Homokos strandok Juan-les-Pins üdülőváros nyugati részén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095806,
+                        43.57081
+                  ]
+            },
+            {
+                  "name": "Plages du Midi",
+                  "text": "Népszerű strandok Juan-les-Pinsben, amelyek különféle szabadidős tevékenységeket kínálnak.",
+                  "category": "recreational",
+                  "coords": [
+                        7.084508,
+                        43.569434
+                  ]
+            },
+            {
+                  "name": "Plage du Pont du Lys",
+                  "text": "Tengerparti strand Juan-les-Pinsben, amely ideális napozásra a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        7.103114,
+                        43.57051
                   ]
             }
       ],
@@ -17274,6 +17328,33 @@ export const poiExtraFrV2: POI[] = [
                         7.088077,
                         43.571076
                   ]
+            },
+            {
+                  "name": "Plages de l'Ouest",
+                  "text": "Plaje cu nisip situate în partea de vest a stațiunii Juan-les-Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095806,
+                        43.57081
+                  ]
+            },
+            {
+                  "name": "Plages du Midi",
+                  "text": "Plaje populare în Juan-les-Pins care oferă diverse activități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        7.084508,
+                        43.569434
+                  ]
+            },
+            {
+                  "name": "Plage du Pont du Lys",
+                  "text": "O plajă de coastă în Juan-les-Pins, ideală pentru plajă la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.103114,
+                        43.57051
+                  ]
             }
       ],
       "en": [
@@ -17714,6 +17795,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.088077,
                         43.571076
+                  ]
+            },
+            {
+                  "name": "Plages de l'Ouest",
+                  "text": "Sandy beaches located in the western part of the resort town Juan-les-Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095806,
+                        43.57081
+                  ]
+            },
+            {
+                  "name": "Plages du Midi",
+                  "text": "Popular beaches in Juan-les-Pins offering various leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.084508,
+                        43.569434
+                  ]
+            },
+            {
+                  "name": "Plage du Pont du Lys",
+                  "text": "A coastal beach in Juan-les-Pins, ideal for sunbathing by the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        7.103114,
+                        43.57051
                   ]
             }
       ]

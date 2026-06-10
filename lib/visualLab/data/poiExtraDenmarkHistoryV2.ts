@@ -418,6 +418,15 @@ export const denmarkHistoryV2: POI[] = [
                         8.814702,
                         56.651631
                   ]
+            },
+            {
+                  "name": "Limfjords camping og vandland",
+                  "text": "Ein Campingplatz mit Wasserpark in der Nähe der Burg Spøttrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.729396,
+                        56.622313
+                  ]
             }
       ],
       "hu": [
@@ -509,6 +518,15 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         8.814702,
                         56.651631
+                  ]
+            },
+            {
+                  "name": "Limfjords camping og vandland",
+                  "text": "Kemping és vízipark a Spøttrup-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.729396,
+                        56.622313
                   ]
             }
       ],
@@ -602,6 +620,15 @@ export const denmarkHistoryV2: POI[] = [
                         8.814702,
                         56.651631
                   ]
+            },
+            {
+                  "name": "Limfjords camping og vandland",
+                  "text": "Un camping cu parc acvatic situat lângă Castelul Spøttrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.729396,
+                        56.622313
+                  ]
             }
       ],
       "en": [
@@ -693,6 +720,15 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         8.814702,
                         56.651631
+                  ]
+            },
+            {
+                  "name": "Limfjords camping og vandland",
+                  "text": "A campsite and water park located near Spøttrup Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        8.729396,
+                        56.622313
                   ]
             }
       ]
@@ -3379,6 +3415,15 @@ export const denmarkHistoryV2: POI[] = [
                         12.501001,
                         54.991109
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Swimming Pool ist eine Wasserpark-Einrichtung beim Schloss Liselund.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
+                  ]
             }
       ],
       "hu": [
@@ -3443,6 +3488,15 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         12.501001,
                         54.991109
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "A Swimming Pool egy vízi park a Liselund-kastélynál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
                   ]
             }
       ],
@@ -3509,6 +3563,15 @@ export const denmarkHistoryV2: POI[] = [
                         12.501001,
                         54.991109
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Swimming Pool este o facilitate de parc acvatic situată lângă Castelul Liselund.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
+                  ]
             }
       ],
       "en": [
@@ -3573,6 +3636,15 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         12.501001,
                         54.991109
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Swimming Pool is a water park facility located near Liselund Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
                   ]
             }
       ]
@@ -3784,6 +3856,15 @@ export const denmarkHistoryV2: POI[] = [
                         9.82443,
                         56.226391
                   ]
+            },
+            {
+                  "name": "Voldby Friluftsbad",
+                  "text": "Ein Freibad in der Nähe der Hammel Wassermühle, das Schwimmvergnügen im Freien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.886823,
+                        56.235157
+                  ]
             }
       ],
       "hu": [
@@ -3857,6 +3938,15 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         9.82443,
                         56.226391
+                  ]
+            },
+            {
+                  "name": "Voldby Friluftsbad",
+                  "text": "Szabadtéri strandfürdő a hammeli vízimalom közelében, nyári kikapcsolódást kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        9.886823,
+                        56.235157
                   ]
             }
       ],
@@ -3932,6 +4022,15 @@ export const denmarkHistoryV2: POI[] = [
                         9.82443,
                         56.226391
                   ]
+            },
+            {
+                  "name": "Voldby Friluftsbad",
+                  "text": "O baie publică în aer liber lângă Moara de Apă Hammel, oferind recreere estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        9.886823,
+                        56.235157
+                  ]
             }
       ],
       "en": [
@@ -4005,6 +4104,15 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         9.82443,
                         56.226391
+                  ]
+            },
+            {
+                  "name": "Voldby Friluftsbad",
+                  "text": "An outdoor public bath near the Hammel Water Mill, offering seasonal open-air swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        9.886823,
+                        56.235157
                   ]
             }
       ]
@@ -5188,6 +5296,24 @@ export const denmarkHistoryV2: POI[] = [
                         11.607834,
                         55.437501
                   ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "Ein Badeplatz am See in der Nähe der Klosterkirche Sorø.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "Ein öffentlicher Badeplatz am Seeufer bei der Klosterkirche Sorø.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
+                  ]
             }
       ],
       "hu": [
@@ -5252,6 +5378,24 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         11.607834,
                         55.437501
+                  ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "Egy fürdőhely a sorøi kolostortemplom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "Nyilvános fürdőhely a tóparton, a sorøi kolostortemplom mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
                   ]
             }
       ],
@@ -5318,6 +5462,24 @@ export const denmarkHistoryV2: POI[] = [
                         11.607834,
                         55.437501
                   ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "O zonă de înot în apropierea Bisericii Mănăstirii Sorø.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "O zonă publică de înot pe malul lacului, lângă Biserica Mănăstirii Sorø.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
+                  ]
             }
       ],
       "en": [
@@ -5382,6 +5544,24 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         11.607834,
                         55.437501
+                  ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "A lakeside swimming area located near the Sorø Monastery Church.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "A public lakeside swimming spot situated by the Sorø Monastery Church.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
                   ]
             }
       ]
@@ -5593,6 +5773,24 @@ export const denmarkHistoryV2: POI[] = [
                         9.920982,
                         56.028683
                   ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Eine öffentliche Badestelle am Ufer des Skanderborg-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "Eine zentrale öffentliche Badeanlage in Skanderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
+                  ]
             }
       ],
       "hu": [
@@ -5666,6 +5864,24 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         9.920982,
                         56.028683
+                  ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Nyilvános fürdőhely a Skanderborg-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "Központi nyilvános fürdőhely Skanderborgban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
                   ]
             }
       ],
@@ -5741,6 +5957,24 @@ export const denmarkHistoryV2: POI[] = [
                         9.920982,
                         56.028683
                   ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Un loc public de scăldat pe malul lacului Skanderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "O zonă publică centrală de scăldat situată în Skanderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
+                  ]
             }
       ],
       "en": [
@@ -5814,6 +6048,24 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         9.920982,
                         56.028683
+                  ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "A public bathing spot on the shores of Lake Skanderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "A central public bathing area located in Skanderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
                   ]
             }
       ]

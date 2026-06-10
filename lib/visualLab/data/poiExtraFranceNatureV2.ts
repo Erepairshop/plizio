@@ -1498,6 +1498,15 @@ export const franceNatureV2: POI[] = [
                         5.984431,
                         43.837045
                   ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Ein Schwimmbad auf dem Plateau von Valensole.",
+                  "category": "recreational",
+                  "coords": [
+                        5.994068,
+                        43.838559
+                  ]
             }
       ],
       "hu": [
@@ -1544,6 +1553,15 @@ export const franceNatureV2: POI[] = [
                   "coords": [
                         5.984431,
                         43.837045
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Úszómedence a Valensole-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.994068,
+                        43.838559
                   ]
             }
       ],
@@ -1592,6 +1610,15 @@ export const franceNatureV2: POI[] = [
                         5.984431,
                         43.837045
                   ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "O piscină pe platoul Valensole.",
+                  "category": "recreational",
+                  "coords": [
+                        5.994068,
+                        43.838559
+                  ]
             }
       ],
       "en": [
@@ -1638,6 +1665,15 @@ export const franceNatureV2: POI[] = [
                   "coords": [
                         5.984431,
                         43.837045
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "A swimming pool on the Valensole Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        5.994068,
+                        43.838559
                   ]
             }
       ]

@@ -247,6 +247,15 @@ export const irelandNatureV2: POI[] = [
                         -7.604286,
                         53.845505
                   ]
+            },
+            {
+                  "name": "Fitzpatrick's Shore",
+                  "text": "Ein Uferbereich am Lough Gowna mit Möglichkeiten zum Schwimmen und für Freizeitaktivitäten am See.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.510091,
+                        53.855986
+                  ]
             }
       ],
       "hu": [
@@ -293,6 +302,15 @@ export const irelandNatureV2: POI[] = [
                   "coords": [
                         -7.604286,
                         53.845505
+                  ]
+            },
+            {
+                  "name": "Fitzpatrick's Shore",
+                  "text": "Parti terület a Lough Gowna tónál, ahol úszási és szabadidős lehetőségek várják a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.510091,
+                        53.855986
                   ]
             }
       ],
@@ -341,6 +359,15 @@ export const irelandNatureV2: POI[] = [
                         -7.604286,
                         53.845505
                   ]
+            },
+            {
+                  "name": "Fitzpatrick's Shore",
+                  "text": "O zonă de mal pe Lough Gowna, cu facilități pentru înot și activități de agrement pe lac.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.510091,
+                        53.855986
+                  ]
             }
       ],
       "en": [
@@ -387,6 +414,15 @@ export const irelandNatureV2: POI[] = [
                   "coords": [
                         -7.604286,
                         53.845505
+                  ]
+            },
+            {
+                  "name": "Fitzpatrick's Shore",
+                  "text": "A shore area on Lough Gowna with opportunities for swimming and lakeside leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.510091,
+                        53.855986
                   ]
             }
       ]

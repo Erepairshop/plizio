@@ -949,6 +949,15 @@ export const denmarkNatureV2: POI[] = [
                         11.977478,
                         54.770377
                   ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "Ein Zoo auf der Insel Falster, in dem verschiedene Tierarten leben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
+                  ]
             }
       ],
       "hu": [
@@ -1013,6 +1022,15 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         11.977478,
                         54.770377
+                  ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "Egy állatkert Falster szigetén, amely számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
                   ]
             }
       ],
@@ -1079,6 +1097,15 @@ export const denmarkNatureV2: POI[] = [
                         11.977478,
                         54.770377
                   ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "O grădină zoologică pe insula Falster, care găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
+                  ]
             }
       ],
       "en": [
@@ -1143,6 +1170,15 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         11.977478,
                         54.770377
+                  ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "A zoo on the island of Falster, home to various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
                   ]
             }
       ]
@@ -2047,6 +2083,24 @@ export const denmarkNatureV2: POI[] = [
                         9.920982,
                         56.028683
                   ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Søbadet ist eine öffentliche Badeanlage am Skanderborger See, die zum Schwimmen und Erholen in der Natur einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "Bybadet ist eine städtische Badeeinrichtung am Skanderborger See, die sichere Bademöglichkeiten für die Öffentlichkeit bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
+                  ]
             }
       ],
       "hu": [
@@ -2111,6 +2165,24 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         9.920982,
                         56.028683
+                  ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "A Søbadet egy nyilvános fürdőhely a Skanderborg-tónál, amely úszásra és természeti kikapcsolódásra hívja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "A Bybadet egy városi fürdőhely a Skanderborg-tónál, amely biztonságos fürdési lehetőséget biztosít a nagyközönség számára.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
                   ]
             }
       ],
@@ -2177,6 +2249,24 @@ export const denmarkNatureV2: POI[] = [
                         9.920982,
                         56.028683
                   ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Søbadet este o baie publică de pe lacul Skanderborg, care invită vizitatorii la înot și relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "Bybadet este o facilitate de baie publică pe lacul Skanderborg, oferind opțiuni sigure de înot pentru public.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
+                  ]
             }
       ],
       "en": [
@@ -2241,6 +2331,24 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         9.920982,
                         56.028683
+                  ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Søbadet is a public bathing facility on Skanderborg Lake, inviting visitors for swimming and relaxation in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "Bybadet is an urban bathing facility on Skanderborg Lake, providing safe swimming options for the public.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
                   ]
             }
       ]
@@ -3388,6 +3496,15 @@ export const denmarkNatureV2: POI[] = [
                         9.710457,
                         56.124739
                   ]
+            },
+            {
+                  "name": "Sønder Ege Strand",
+                  "text": "Sønder Ege Strand ist ein öffentlicher Badeplatz am Fuße des Himmelbjerget, ideal für eine Pause am Seeufer.",
+                  "category": "recreational",
+                  "coords": [
+                        9.76305,
+                        56.099217
+                  ]
             }
       ],
       "hu": [
@@ -3452,6 +3569,15 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         9.710457,
                         56.124739
+                  ]
+            },
+            {
+                  "name": "Sønder Ege Strand",
+                  "text": "Sønder Ege Strand egy nyilvános fürdőhely a Himmelbjerget lábánál, amely ideális egy pihenőre a tóparton.",
+                  "category": "recreational",
+                  "coords": [
+                        9.76305,
+                        56.099217
                   ]
             }
       ],
@@ -3518,6 +3644,15 @@ export const denmarkNatureV2: POI[] = [
                         9.710457,
                         56.124739
                   ]
+            },
+            {
+                  "name": "Sønder Ege Strand",
+                  "text": "Sønder Ege Strand este un loc public de scăldat la poalele dealului Himmelbjerget, ideal pentru o pauză pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        9.76305,
+                        56.099217
+                  ]
             }
       ],
       "en": [
@@ -3582,6 +3717,15 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         9.710457,
                         56.124739
+                  ]
+            },
+            {
+                  "name": "Sønder Ege Strand",
+                  "text": "Sønder Ege Strand is a public bathing spot at the foot of Himmelbjerget hill, ideal for a break by the lakeshore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.76305,
+                        56.099217
                   ]
             }
       ]

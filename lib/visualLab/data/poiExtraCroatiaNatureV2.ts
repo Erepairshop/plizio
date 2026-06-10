@@ -897,7 +897,52 @@ imageHint: "Galesnjak heart shaped island aerial",
     },
     image: "/poi-images/croatia-galesnjak-island-nature-v2.webp",
 },  {
-    id: "croatia-lim-fjord-nature-v2",
+    id: "croatia-lim-fjord-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "Ein ausgewiesener FKK-Strand in Lim Fjord, der ein naturnahes Meereserlebnis bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607741,
+                        45.114813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "Kijelölt naturista strand Lim Fjord területén, amely természetközeli tengerparti élményt nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607741,
+                        45.114813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "O zonă de plajă dedicată nudiștilor situată în Lim Fjord, oferind o experiență naturală la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607741,
+                        45.114813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "A dedicated nudist beach area located in Lim Fjord, offering a natural seaside experience.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607741,
+                        45.114813
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "landmark",
     name: { de: "Lim-Fjord", hu: "Lim-fjord", ro: "Canalul Lim", en: "Lim Fjord"},
@@ -1090,6 +1135,15 @@ imageHint: "Neretva delta mandarin fields",
                         15.589072,
                         45.119835
                   ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "Eine malerische Badestelle in Rastoke, umgeben von natürlicher Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
+                  ]
             }
       ],
       "hu": [
@@ -1145,6 +1199,15 @@ imageHint: "Neretva delta mandarin fields",
                   "coords": [
                         15.589072,
                         45.119835
+                  ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "Festői fürdőhely Rastoke területén, természeti szépségekkel övezve.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
                   ]
             }
       ],
@@ -1202,6 +1265,15 @@ imageHint: "Neretva delta mandarin fields",
                         15.589072,
                         45.119835
                   ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "Un loc de scăldat pitoresc în Rastoke, înconjurat de frumusețea naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
+                  ]
             }
       ],
       "en": [
@@ -1257,6 +1329,15 @@ imageHint: "Neretva delta mandarin fields",
                   "coords": [
                         15.589072,
                         45.119835
+                  ]
+            },
+            {
+                  "name": "Kupalište Jambrić",
+                  "text": "A picturesque swimming area in Rastoke, surrounded by natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        15.603584,
+                        45.113119
                   ]
             }
       ]
@@ -1352,7 +1433,52 @@ imageHint: "Dragons Eye lake Rogoznica",
     },
     image: "/poi-images/croatia-dragons-eye-lake-nature-v2.webp",
 },  {
-    id: "croatia-zlatni-rat-beach-nature-v2",
+    id: "croatia-zlatni-rat-beach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Murvica",
+                  "text": "Ein ruhiger Kieselstrand in der Nähe des berühmten Zlatni Rat auf der Insel Brač.",
+                  "category": "recreational",
+                  "coords": [
+                        16.594227,
+                        43.264363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murvica",
+                  "text": "Nyugodt kavicsos strand a híres Zlatni Rat közelében, Brač szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.594227,
+                        43.264363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Murvica",
+                  "text": "O plajă liniștită cu pietriș situată lângă faimoasa Zlatni Rat de pe insula Brač.",
+                  "category": "recreational",
+                  "coords": [
+                        16.594227,
+                        43.264363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murvica",
+                  "text": "A quiet pebble beach located near the famous Zlatni Rat on Brač Island.",
+                  "category": "recreational",
+                  "coords": [
+                        16.594227,
+                        43.264363
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "landmark",
     name: { de: "Zlatni Rat", hu: "Zlatni Rat", ro: "Zlatni Rat", en: "Zlatni Rat"},
@@ -2331,7 +2457,52 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
       fr: ["La profondeur maximale atteinte par des plongeurs à ce jour est de 248 mètres.", "La source est située à une altitude de 396 mètres au-dessus du niveau de la mer.", "La température de l'eau reste constante entre 9 et 10 °C.", "En 1968, la source karstique a été classée monument naturel.", "Le bassin de la source se trouve dans la partie croate de la région de Lika.", "La rivière Una forme plus loin la frontière avec la Bosnie-Herzégovine."],
     }, image: "/poi-images/croatia-una-spring-nature-v2.webp"},
   {
-    id: "croatia-vrana-lake-cres-nature-v2",
+    id: "croatia-vrana-lake-cres-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mali Bok",
+                  "text": "Ein abgelegener Strand auf der Insel Cres, der für sein kristallklares Wasser und die umliegenden Klippen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.445495,
+                        44.875211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mali Bok",
+                  "text": "Eldugott strand Cres szigetén, amely kristálytiszta vizéről és a környező sziklákról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.445495,
+                        44.875211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mali Bok",
+                  "text": "O plajă retrasă pe insula Cres, cunoscută pentru apele sale cristaline și stâncile din jur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.445495,
+                        44.875211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mali Bok",
+                  "text": "A secluded beach on Cres island, known for its crystal-clear waters and surrounding cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.445495,
+                        44.875211
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "lake",
     name: { de: "Vrana-See (Cres)", hu: "Vrana-tó (Cres)", ro: "Lacul Vrana (Cres)", en: "Vrana Lake (Cres)" },

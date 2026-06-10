@@ -76,6 +76,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Ein Gesundheitsclub und Schwimmbad in der Gegend von Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein öffentliches Aquarium in Belgrad mit verschiedenen Fischen und Reptilien.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dinosaurier-Erlebnispark in der Belgrader Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein Flussstrand auf der Großen Kriegsinsel in Belgrad, beliebt für die Sommererholung.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Der Belgrader Zoo, der sich in der historischen Festung Kalemegdan befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -149,6 +194,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Egészségközpont és úszómedence Belgrád környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi nyilvános akvárium, amely különféle halakat és hüllőket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-élménypark a belgrádi Kalemegdan erődben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Folyami strand a belgrádi Nagy Hadi-szigeten, amely népszerű nyári pihenőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Belgrád állatkertje a történelmi Kalemegdan erődben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -224,6 +314,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Un club de sănătate și o piscină situată în zona Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu public din Belgrad care prezintă diverși pești și reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de aventură cu tematică de dinozauri în Cetatea Kalemegdan din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială pe Insula Mare a Războiului din Belgrad, populară pentru recreere de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Grădina zoologică din Belgrad, situată în incinta cetății istorice Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -297,6 +432,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A health club and swimming pool facility located in the Belgrade area.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "A public aquarium in Belgrade featuring various fish and reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed adventure park located in Belgrade's Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A river beach on the Great War Island in Belgrade, popular for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "Belgrade's city zoo, situated within the historic Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -418,6 +598,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Der Aqua Termal Club ist eine Schwimmbadanlage in der Nähe des Serbischen Nationalmuseums, die Erholung und Wasserspaß bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Dieses öffentliche Aquarium und Troparium in Belgrad präsentiert eine vielfältige Auswahl an Fischen, Reptilien und Amphibien.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Der Dino Park Kalemegdan bietet lebensgroße Dinosaurier-Modelle und Bildungsstationen in der historischen Festungsanlage von Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Lido ist ein beliebter Strandabschnitt an der Donau im Belgrader Stadtteil Zemun, der im Sommer zum Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Der 1936 gegründete Belgrader Zoo befindet sich in der Kalemegdan-Festung und beherbergt eine große Vielfalt an Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -491,6 +716,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Az Aqua Termal Club egy úszómedencés létesítmény a Szerb Nemzeti Múzeum közelében, amely kikapcsolódást és vízi szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ez a belgrádi nyilvános akvárium és tropikárium halak, hüllők és kétéltűek széles választékát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "A Kalemegdan Dino Park élethű dinoszaurusz-modelleket és oktatási állomásokat kínál Belgrád történelmi erődítményében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "A Lido egy népszerű strandrész a Dunán Belgrád Zemun negyedében, amely nyáron fürdésre hívja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Az 1936-ban alapított Belgrádi Állatkert a Kalemegdan-erődben található, és számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -566,6 +836,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Aqua Termal Club este o facilitate cu piscină situată lângă Muzeul Național al Serbiei, oferind relaxare și distracție acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Acest acvariu și tropicariu public din Belgrad prezintă o gamă diversă de pești, reptile și amfibieni.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dino Park Kalemegdan oferă modele de dinozauri în mărime naturală și stații educaționale în cadrul fortăreței istorice din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Lido este o secțiune populară de plajă pe Dunăre în cartierul Zemun din Belgrad, invitând vizitatorii la scăldat pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Fondată în 1936, Grădina Zoologică din Belgrad este situată în fortăreața Kalemegdan și găzduiește o mare varietate de specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -639,6 +954,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Aqua Termal Club is a swimming pool facility located near the National Museum of Serbia, offering relaxation and water fun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "This public aquarium and tropicarium in Belgrade features a diverse range of fish, reptiles, and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "Dino Park Kalemegdan features life-sized dinosaur models and educational stations within Belgrade's historic fortress area.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "Lido is a popular beach area on the Danube in Belgrade's Zemun district, attracting visitors for swimming during summer.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "Founded in 1936, the Belgrade Zoo is located within the Kalemegdan fortress and is home to a wide variety of animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -1003,6 +1363,24 @@ export const serbiaLandmarksV2: POI[] = [
                         20.260437,
                         44.380748
                   ]
+            },
+            {
+                  "name": "Vidik",
+                  "text": "Ein lokaler Wasserpark mit verschiedenen Freizeiteinrichtungen in der Region Lazarevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.300711,
+                        44.369415
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazen",
+                  "text": "Ein öffentliches Freibad in der Nähe der Gedächtniskirche von Lazarevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251969,
+                        44.38269
+                  ]
             }
       ],
       "hu": [
@@ -1013,6 +1391,24 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.260437,
                         44.380748
+                  ]
+            },
+            {
+                  "name": "Vidik",
+                  "text": "Helyi vízi park szabadidős létesítményekkel Lazarevac területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.300711,
+                        44.369415
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazen",
+                  "text": "Szabadtéri úszómedence a lazarevaci emléktemplom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251969,
+                        44.38269
                   ]
             }
       ],
@@ -1025,6 +1421,24 @@ export const serbiaLandmarksV2: POI[] = [
                         20.260437,
                         44.380748
                   ]
+            },
+            {
+                  "name": "Vidik",
+                  "text": "Un parc acvatic local care oferă facilități de recreere în zona Lazarevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.300711,
+                        44.369415
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazen",
+                  "text": "O piscină în aer liber situată lângă Biserica Memorială din Lazarevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251969,
+                        44.38269
+                  ]
             }
       ],
       "en": [
@@ -1035,6 +1449,24 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.260437,
                         44.380748
+                  ]
+            },
+            {
+                  "name": "Vidik",
+                  "text": "A local water park providing recreational facilities in the Lazarevac area.",
+                  "category": "recreational",
+                  "coords": [
+                        20.300711,
+                        44.369415
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazen",
+                  "text": "An outdoor swimming pool located near the Lazarevac Memorial Church.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251969,
+                        44.38269
                   ]
             }
       ]
@@ -1264,6 +1696,33 @@ export const serbiaLandmarksV2: POI[] = [
                         20.884033,
                         44.022285
                   ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "Ein Zoo in der Nähe des alten Parlamentsgebäudes in Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "Freibäder und Wasserpark nahe dem alten Parlament in Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "Ein Schwimmbad in der Nähe des historischen Parlamentsgebäudes von Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
+                  ]
             }
       ],
       "hu": [
@@ -1310,6 +1769,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.884033,
                         44.022285
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "Állatkert Kragujevacban, a régi parlament épületének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "Szabadtéri medencék és vízi park Kragujevac régi parlamentje közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "Úszómedence Kragujevac történelmi parlamentjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
                   ]
             }
       ],
@@ -1358,6 +1844,33 @@ export const serbiaLandmarksV2: POI[] = [
                         20.884033,
                         44.022285
                   ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "O grădină zoologică lângă vechea clădire a Parlamentului din Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "Piscine în aer liber și parc acvatic lângă vechiul parlament din Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "O piscină situată lângă clădirea istorică a Parlamentului din Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
+                  ]
             }
       ],
       "en": [
@@ -1404,6 +1917,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.884033,
                         44.022285
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "A zoo located near the Old Parliament Building in Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "Open-air swimming pools and water park near the Old Parliament in Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "A swimming pool located near the historic Parliament building in Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
                   ]
             }
       ]
@@ -1525,6 +2065,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des Alten Palastes in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein Belgrader Aquarium, das verschiedene Fisch-, Reptilien- und Amphibienarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dinosaurier-Erlebnispark auf dem Gelände der Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein beliebter Flussstrand auf der Großen Kriegsinsel in der Donau, erreichbar von Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -1598,6 +2183,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Wellness- és úszólétesítmény a belgrádi Régi palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi akvárium, amely különféle halfajokat, hüllőket és kétéltűeket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-tematikájú kalandpark a Kalemegdan erőd területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Népszerű folyami strand a Dunán, a Nagy Hadi-szigeten, Zimony felől megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Európa egyik legrégebbi állatkertje, amely a belgrádi Kalemegdan parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -1673,6 +2303,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "O facilitate de wellness și înot situată lângă Palatul Vechi din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu din Belgrad care expune diverse specii de pești, reptile și amfibieni.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de aventură cu tematică dinozauri situat în zona Cetății Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială populară pe Insula Marelui Război din Dunăre, accesibilă din Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Europa, situată în parcul Kalemegdan din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -1746,6 +2421,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A wellness and swimming facility located near the Old Palace in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -1840,6 +2560,33 @@ export const serbiaLandmarksV2: POI[] = [
                         21.888705,
                         43.330592
                   ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Ein Kindervergnügungspark in der Nähe der historischen Festung von Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "Ein kleines Schwimmbad im Chair-Park nahe der Festung Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "Ein Schwimmbad in Niš, in der Nähe der historischen Festung.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
+                  ]
             }
       ],
       "hu": [
@@ -1886,6 +2633,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         21.888705,
                         43.330592
+                  ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "A történelmi nisi erőd közelében található gyermekvidámpark.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "Kis úszómedence a Chair parkban, a niši erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "Úszómedence Nišben, a történelmi erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
                   ]
             }
       ],
@@ -1934,6 +2708,33 @@ export const serbiaLandmarksV2: POI[] = [
                         21.888705,
                         43.330592
                   ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Un parc de distracții pentru copii situat lângă cetatea istorică Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "O piscină mică în parcul Chair, lângă Cetatea Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "O piscină în Niš, situată lângă cetatea istorică.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
+                  ]
             }
       ],
       "en": [
@@ -1980,6 +2781,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         21.888705,
                         43.330592
+                  ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "A children's amusement park located near the historic Niš Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "A small swimming pool in Chair Park, near the Niš Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "A swimming pool in Niš, located near the historic fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
                   ]
             }
       ]
@@ -2101,6 +2929,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Ein moderner Schwimmclub in Belgrad mit Einrichtungen für Freizeit- und Sportschwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Dieses Zentrum zeigt exotische Wassertiere und ist ein beliebtes Ziel für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dinosaurier-Themenpark in Belgrad, der pädagogische Unterhaltung für Kinder bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein Sandstrand an der Donau, der als wichtiges Naherholungsgebiet in Belgrad gilt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Der Zoo bietet Besuchern die Möglichkeit, seltene Tiere im Herzen der serbischen Hauptstadt zu sehen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -2174,6 +3047,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Modern belgrádi úszóklub szabadidős és versenysportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ez a központ egzotikus vízi állatokat mutat be, és népszerű célpont a családok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszauruszos tematikus park Belgrádban, amely oktató jellegű szórakozást kínál gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Homokos strand a Dunánál, amely Belgrád fontos pihenőhelyének számít.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Az állatkert lehetőséget nyújt a látogatóknak, hogy ritka állatokat lássanak a szerb főváros szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -2249,6 +3167,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Un club de înot modern în Belgrad cu facilități pentru înot recreativ și sportiv.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Acest centru prezintă animale acvatice exotice și este o destinație populară pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc tematic cu dinozauri în Belgrad, care oferă divertisment educativ pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă de nisip pe Dunăre, considerată o zonă importantă de recreere în Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Grădina zoologică oferă vizitatorilor ocazia de a vedea animale rare în inima capitalei sârbe.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -2322,6 +3285,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A modern swimming club in Belgrade with facilities for leisure and competitive swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "This center displays exotic aquatic animals and is a popular destination for families.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed park in Belgrade offering educational entertainment for children.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A sandy beach on the Danube, considered an important recreational area in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "The zoo offers visitors a chance to see rare animals in the heart of the Serbian capital.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -3280,6 +4288,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Ein Schwimmbad und Thermalklub in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein öffentliches Aquarium in Belgrad mit verschiedenen Fischen und Reptilien.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dinosaurier-Erlebnispark in der Belgrader Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein Flussstrand auf der Großen Kriegsinsel in Belgrad, beliebt für die Sommererholung.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Der Belgrader Zoo, der sich in der historischen Festung Kalemegdan befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -3353,6 +4406,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Úszómedence és termálklub Belgrádban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi nyilvános akvárium, amely különféle halakat és hüllőket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-élménypark a belgrádi Kalemegdan erődben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Folyami strand a belgrádi Nagy Hadi-szigeten, amely népszerű nyári pihenőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Belgrád állatkertje a történelmi Kalemegdan erődben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -3428,6 +4526,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "O piscină și club termal situat în Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu public din Belgrad care prezintă diverși pești și reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de aventură cu tematică de dinozauri în Cetatea Kalemegdan din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială pe Insula Mare a Războiului din Belgrad, populară pentru recreere de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Grădina zoologică din Belgrad, situată în incinta cetății istorice Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -3501,6 +4644,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A swimming pool and thermal club located in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "A public aquarium in Belgrade featuring various fish and reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed adventure park located in Belgrade's Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A river beach on the Great War Island in Belgrade, popular for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "Belgrade's city zoo, situated within the historic Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -3802,6 +4990,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des Terazije-Brunnens in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein Belgrader Aquarium, das verschiedene Fisch-, Reptilien- und Amphibienarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dinosaurier-Erlebnispark auf dem Gelände der Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein beliebter Flussstrand auf der Großen Kriegsinsel in der Donau, erreichbar von Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -3875,6 +5108,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Wellness- és úszólétesítmény a belgrádi Terazije-kút közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi akvárium, amely különféle halfajokat, hüllőket és kétéltűeket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-tematikájú kalandpark a Kalemegdan erőd területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Népszerű folyami strand a Dunán, a Nagy Hadi-szigeten, Zimony felől megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Európa egyik legrégebbi állatkertje, amely a belgrádi Kalemegdan parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -3950,6 +5228,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "O facilitate de wellness și înot situată lângă Fântâna Terazije din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu din Belgrad care expune diverse specii de pești, reptile și amfibieni.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de aventură cu tematică dinozauri situat în zona Cetății Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială populară pe Insula Marelui Război din Dunăre, accesibilă din Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Europa, situată în parcul Kalemegdan din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -4023,6 +5346,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A wellness and swimming facility located near the Terazije Fountain in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -4324,6 +5692,15 @@ export const serbiaLandmarksV2: POI[] = [
                         20.389022,
                         45.378373
                   ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "Ein Strandbad in Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
+                  ]
             }
       ],
       "hu": [
@@ -4370,6 +5747,15 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.389022,
                         45.378373
+                  ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "Strandüdülőhely Nagybecskereken (Zrenjanin).",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
                   ]
             }
       ],
@@ -4418,6 +5804,15 @@ export const serbiaLandmarksV2: POI[] = [
                         20.389022,
                         45.378373
                   ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "O stațiune de plajă în Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
+                  ]
             }
       ],
       "en": [
@@ -4464,6 +5859,15 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.389022,
                         45.378373
+                  ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "A beach resort area in Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
                   ]
             }
       ]
@@ -4657,6 +6061,33 @@ export const serbiaLandmarksV2: POI[] = [
                         21.948682,
                         43.309932
                   ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Ein kleiner Vergnügungspark für Kinder in der Nähe des Schädelturms in Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "Ein kleines Schwimmbad im Stadtteil Čair von Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "Ein lokales Schwimmbad im Stadtteil Vrežina in Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
+                  ]
             }
       ],
       "hu": [
@@ -4712,6 +6143,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         21.948682,
                         43.309932
+                  ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Kisméretű gyermekvidámpark a niši Koponya-torony emlékmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "Kisméretű úszómedence Niš Čair negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "Helyi úszólétesítmény Niš Vrežina negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
                   ]
             }
       ],
@@ -4769,6 +6227,33 @@ export const serbiaLandmarksV2: POI[] = [
                         21.948682,
                         43.309932
                   ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "Un mic parc de distracții pentru copii situat lângă monumentul Turnul Craniilor din Niș.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "O piscină de mici dimensiuni situată în districtul Čair din Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "O unitate locală de înot în cartierul Vrežina din Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
+                  ]
             }
       ],
       "en": [
@@ -4824,6 +6309,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         21.948682,
                         43.309932
+                  ]
+            },
+            {
+                  "name": "Dečiji Lunapark",
+                  "text": "A small amusement park for children located near the Skull Tower monument in Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.920801,
+                        43.334685
+                  ]
+            },
+            {
+                  "name": "Mali bazen Chair",
+                  "text": "A small swimming pool located in the Čair district of Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.908558,
+                        43.313201
+                  ]
+            },
+            {
+                  "name": "Vrezhinski bazen",
+                  "text": "A local swimming pool facility in the Vrežina neighborhood of Niš.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945438,
+                        43.321038
                   ]
             }
       ]
@@ -5035,6 +6547,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Ein Sport- und Wellnessclub in Belgrad mit verschiedenen Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Dieses Aquarium bietet Einblicke in marine und tropische Ökosysteme im Zentrum Belgrads.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dino-Park im Stadtzentrum, der prähistorische Replikate für Familien ausstellt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein beliebter Flussstrand in Belgrad, der im Sommer viele Badegäste anzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Der Belgrader Zoo präsentiert eine breite Palette an Tieren inmitten der historischen Festungsanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -5108,6 +6665,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Belgrádi sport- és wellnessklub különböző úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ez az akvárium tengeri és trópusi ökoszisztémákba nyújt betekintést Belgrád központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Városközponti dínópark, amely őskori másolatokat mutat be családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Népszerű belgrádi folyami strand, amely nyáron sok fürdőzőt vonz.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "A Belgrádi Állatkert állatok széles skáláját mutatja be a történelmi erődrendszer közepén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -5183,6 +6785,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Un club de sport și wellness în Belgrad, cu diverse bazine de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Acest acvariu oferă o perspectivă asupra ecosistemelor marine și tropicale în centrul Belgradului.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc cu dinozauri în centrul orașului, care expune replici preistorice pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială populară în Belgrad, care atrage mulți vizitatori pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Grădina Zoologică din Belgrad prezintă o gamă largă de animale în mijlocul complexului istoric al cetății.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -5256,6 +6903,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A sports and wellness club in Belgrade featuring various swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "This aquarium offers insights into marine and tropical ecosystems in central Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dino park in the city center displaying prehistoric replicas for families.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A popular river beach in Belgrade that attracts many bathers during the summer.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "The Belgrade Zoo presents a wide array of animals amidst the historical fortress complex.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -5350,6 +7042,33 @@ export const serbiaLandmarksV2: POI[] = [
                         20.884033,
                         44.022285
                   ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "Ein lokaler Zoo mit verschiedenen Tierarten im Ilina-Voda-Park von Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "Ein Komplex aus Freibädern und Wasserrutschen in der Stadt Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "Eine lokale Schwimmeinrichtung in der Stadt Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
+                  ]
             }
       ],
       "hu": [
@@ -5396,6 +7115,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.884033,
                         44.022285
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "Helyi állatkert különféle állatfajokkal Kragujevac Ilina Voda parkjában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "Szabadtéri úszómedencékből és csúszdákból álló komplexum Kragujevac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "Helyi úszólétesítmény Kragujevac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
                   ]
             }
       ],
@@ -5444,6 +7190,33 @@ export const serbiaLandmarksV2: POI[] = [
                         20.884033,
                         44.022285
                   ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "O grădină zoologică locală care găzduiește diverse specii de animale în parcul Ilina Voda din Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "Un complex de piscine în aer liber și tobogane cu apă situat în Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "O unitate locală de înot situată în orașul Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
+                  ]
             }
       ],
       "en": [
@@ -5490,6 +7263,33 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.884033,
                         44.022285
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Ilina voda",
+                  "text": "A local zoo offering a variety of animal species in the Ilina Voda park of Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.941846,
+                        44.017003
+                  ]
+            },
+            {
+                  "name": "Otvoreni bazeni",
+                  "text": "A complex of outdoor swimming pools and water slides located in Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.902542,
+                        44.019995
+                  ]
+            },
+            {
+                  "name": "Vojni bazen",
+                  "text": "A local swimming pool facility located in the city of Kragujevac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.910325,
+                        44.009807
                   ]
             }
       ]
@@ -6115,6 +7915,15 @@ export const serbiaLandmarksV2: POI[] = [
                         20.389022,
                         45.378373
                   ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "Ein beliebtes Strandbad am Peskara-See in Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
+                  ]
             }
       ],
       "hu": [
@@ -6161,6 +7970,15 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.389022,
                         45.378373
+                  ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "Népszerű strandfürdő a Peskara-tónál Nagybecskereken (Zrenjanin).",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
                   ]
             }
       ],
@@ -6209,6 +8027,15 @@ export const serbiaLandmarksV2: POI[] = [
                         20.389022,
                         45.378373
                   ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "O stațiune de plajă populară la lacul Peskara din Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
+                  ]
             }
       ],
       "en": [
@@ -6255,6 +8082,15 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.389022,
                         45.378373
+                  ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "A popular beach resort at the Peskara lake in Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
                   ]
             }
       ]
@@ -6421,6 +8257,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des Militärmuseums in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein Belgrader Aquarium, das verschiedene Fisch-, Reptilien- und Amphibienarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Dinosaurier-Erlebnispark auf dem Gelände der Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein beliebter Flussstrand auf der Großen Kriegsinsel in der Donau, erreichbar von Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -6494,6 +8375,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Wellness- és úszólétesítmény a belgrádi Katonai Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi akvárium, amely különféle halfajokat, hüllőket és kétéltűeket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-tematikájú kalandpark a Kalemegdan erőd területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Népszerű folyami strand a Dunán, a Nagy Hadi-szigeten, Zimony felől megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Európa egyik legrégebbi állatkertje, amely a belgrádi Kalemegdan parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -6569,6 +8495,51 @@ export const serbiaLandmarksV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "O facilitate de wellness și înot situată lângă Muzeul Militar din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu din Belgrad care expune diverse specii de pești, reptile și amfibieni.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de aventură cu tematică dinozauri situat în zona Cetății Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială populară pe Insula Marelui Război din Dunăre, accesibilă din Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Europa, situată în parcul Kalemegdan din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -6642,6 +8613,51 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A wellness and swimming facility located near the Military Museum in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]

@@ -516,6 +516,15 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         18.999225,
                         44.698034
                   ]
+            },
+            {
+                  "name": "Bazeni Ugljevik",
+                  "text": "Schwimmbecken in Ugljevik in der Nähe des Wärmekraftwerks.",
+                  "category": "recreational",
+                  "coords": [
+                        18.996833,
+                        44.68956
+                  ]
             }
       ],
       "hu": [
@@ -562,6 +571,15 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         18.999225,
                         44.698034
+                  ]
+            },
+            {
+                  "name": "Bazeni Ugljevik",
+                  "text": "Ugljeviki úszómedencék a hőerőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.996833,
+                        44.68956
                   ]
             }
       ],
@@ -610,6 +628,15 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         18.999225,
                         44.698034
                   ]
+            },
+            {
+                  "name": "Bazeni Ugljevik",
+                  "text": "Piscine în Ugljevik, situate lângă termocentrală.",
+                  "category": "recreational",
+                  "coords": [
+                        18.996833,
+                        44.68956
+                  ]
             }
       ],
       "en": [
@@ -656,6 +683,15 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         18.999225,
                         44.698034
+                  ]
+            },
+            {
+                  "name": "Bazeni Ugljevik",
+                  "text": "Swimming pools in Ugljevik located near the thermal power plant.",
+                  "category": "recreational",
+                  "coords": [
+                        18.996833,
+                        44.68956
                   ]
             }
       ]

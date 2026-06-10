@@ -1615,6 +1615,24 @@ export const finlandHistoryV2: POI[] = [
                         28.270081,
                         64.12709
                   ]
+            },
+            {
+                  "name": "Katinkullan kylpylä",
+                  "text": "Katinkullan kylpylä ist ein öffentliches Bad bei der alten Kirche von Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.234412,
+                        64.148394
+                  ]
+            },
+            {
+                  "name": "Hiukka",
+                  "text": "Hiukka ist ein Strandresort bei der alten Kirche von Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.38141,
+                        64.128008
+                  ]
             }
       ],
       "hu": [
@@ -1706,6 +1724,24 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         28.270081,
                         64.12709
+                  ]
+            },
+            {
+                  "name": "Katinkullan kylpylä",
+                  "text": "A Katinkullan kylpylä egy nyilvános fürdő a sotkamói öregtemplom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.234412,
+                        64.148394
+                  ]
+            },
+            {
+                  "name": "Hiukka",
+                  "text": "Hiukka egy strandüdülőhely a sotkamói öregtemplom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.38141,
+                        64.128008
                   ]
             }
       ],
@@ -1799,6 +1835,24 @@ export const finlandHistoryV2: POI[] = [
                         28.270081,
                         64.12709
                   ]
+            },
+            {
+                  "name": "Katinkullan kylpylä",
+                  "text": "Katinkullan kylpylä este o baie publică situată lângă Biserica Veche din Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.234412,
+                        64.148394
+                  ]
+            },
+            {
+                  "name": "Hiukka",
+                  "text": "Hiukka este o stațiune de plajă situată lângă Biserica Veche din Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.38141,
+                        64.128008
+                  ]
             }
       ],
       "en": [
@@ -1891,6 +1945,24 @@ export const finlandHistoryV2: POI[] = [
                         28.270081,
                         64.12709
                   ]
+            },
+            {
+                  "name": "Katinkullan kylpylä",
+                  "text": "Katinkullan kylpylä is a public bath located near the Sotkamo Old Church.",
+                  "category": "recreational",
+                  "coords": [
+                        28.234412,
+                        64.148394
+                  ]
+            },
+            {
+                  "name": "Hiukka",
+                  "text": "Hiukka is a beach resort located near the Sotkamo Old Church.",
+                  "category": "recreational",
+                  "coords": [
+                        28.38141,
+                        64.128008
+                  ]
             }
       ]
 },
@@ -1948,6 +2020,15 @@ export const finlandHistoryV2: POI[] = [
                         22.741308,
                         63.685398
                   ]
+            },
+            {
+                  "name": "Svanen Camping",
+                  "text": "Ein Badebereich an einem Campingplatz in der Nähe der Kirche von Pedersöre.",
+                  "category": "recreational",
+                  "coords": [
+                        22.736457,
+                        63.705382
+                  ]
             }
       ],
       "hu": [
@@ -1958,6 +2039,15 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         22.741308,
                         63.685398
+                  ]
+            },
+            {
+                  "name": "Svanen Camping",
+                  "text": "Fürdőhely egy kempingnél a pedersörei templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.736457,
+                        63.705382
                   ]
             }
       ],
@@ -1970,6 +2060,15 @@ export const finlandHistoryV2: POI[] = [
                         22.741308,
                         63.685398
                   ]
+            },
+            {
+                  "name": "Svanen Camping",
+                  "text": "O zonă de scăldat situată la un camping lângă biserica din Pedersöre.",
+                  "category": "recreational",
+                  "coords": [
+                        22.736457,
+                        63.705382
+                  ]
             }
       ],
       "en": [
@@ -1980,6 +2079,15 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         22.741308,
                         63.685398
+                  ]
+            },
+            {
+                  "name": "Svanen Camping",
+                  "text": "A swimming area at a campsite near the Pedersöre church.",
+                  "category": "recreational",
+                  "coords": [
+                        22.736457,
+                        63.705382
                   ]
             }
       ]
@@ -2379,7 +2487,196 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-loviisa-bastion-history-v2.webp",
   },
   {
-    id: "finland-raasepori-ruins-history-v2",
+    id: "finland-raasepori-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raaseporin linna",
+                  "text": "Die Ruinen einer mittelalterlichen Burg aus dem 14. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        23.651045,
+                        59.991639
+                  ]
+            },
+            {
+                  "name": "Forngårdenin talomuseo",
+                  "text": "Ein Freilichtmuseum für lokale Geschichte und bäuerliche Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        23.649288,
+                        59.99661
+                  ]
+            },
+            {
+                  "name": "Raaseporin kesäteatteri",
+                  "text": "Ein Sommertheater in der Nähe der Burgruine Raseborg.",
+                  "category": "cultural",
+                  "coords": [
+                        23.649395,
+                        59.992339
+                  ]
+            },
+            {
+                  "name": "Persöfladan",
+                  "text": "Eine flache Küstenbucht in der Nähe von Snappertuna.",
+                  "category": "landmark",
+                  "coords": [
+                        23.610795,
+                        59.96243
+                  ]
+            },
+            {
+                  "name": "Snappertuna kyrka",
+                  "text": "Eine hölzerne Kreuzkirche aus dem 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        23.652334,
+                        59.998235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raaseporin linna",
+                  "text": "Egy 14. századi középkori vár romjai.",
+                  "category": "castle",
+                  "coords": [
+                        23.651045,
+                        59.991639
+                  ]
+            },
+            {
+                  "name": "Forngårdenin talomuseo",
+                  "text": "Helytörténeti és néprajzi szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.649288,
+                        59.99661
+                  ]
+            },
+            {
+                  "name": "Raaseporin kesäteatteri",
+                  "text": "Nyári színház a raasepori várromok közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        23.649395,
+                        59.992339
+                  ]
+            },
+            {
+                  "name": "Persöfladan",
+                  "text": "Sekély tengerparti öböl Snappertuna közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.610795,
+                        59.96243
+                  ]
+            },
+            {
+                  "name": "Snappertuna kyrka",
+                  "text": "17. századi fából készült keresztalaprajzú templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.652334,
+                        59.998235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raaseporin linna",
+                  "text": "Ruinele unui castel medieval din secolul al XIV-lea.",
+                  "category": "castle",
+                  "coords": [
+                        23.651045,
+                        59.991639
+                  ]
+            },
+            {
+                  "name": "Forngårdenin talomuseo",
+                  "text": "Un muzeu în aer liber al istoriei locale și culturii rurale.",
+                  "category": "museum",
+                  "coords": [
+                        23.649288,
+                        59.99661
+                  ]
+            },
+            {
+                  "name": "Raaseporin kesäteatteri",
+                  "text": "Un teatru de vară lângă ruinele castelului Raseborg.",
+                  "category": "cultural",
+                  "coords": [
+                        23.649395,
+                        59.992339
+                  ]
+            },
+            {
+                  "name": "Persöfladan",
+                  "text": "Un golf de coastă puțin adânc în apropiere de Snappertuna.",
+                  "category": "landmark",
+                  "coords": [
+                        23.610795,
+                        59.96243
+                  ]
+            },
+            {
+                  "name": "Snappertuna kyrka",
+                  "text": "O biserică de lemn în formă de cruce din secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        23.652334,
+                        59.998235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raseborg Castle",
+                  "text": "The ruins of a medieval castle dating back to the 14th century.",
+                  "category": "castle",
+                  "coords": [
+                        23.651045,
+                        59.991639
+                  ]
+            },
+            {
+                  "name": "Forngårdenin talomuseo",
+                  "text": "An open-air museum of local history and rural culture.",
+                  "category": "museum",
+                  "coords": [
+                        23.649288,
+                        59.99661
+                  ]
+            },
+            {
+                  "name": "Raaseporin kesäteatteri",
+                  "text": "A summer theatre located near the Raseborg castle ruins.",
+                  "category": "cultural",
+                  "coords": [
+                        23.649395,
+                        59.992339
+                  ]
+            },
+            {
+                  "name": "Persöfladan",
+                  "text": "A shallow coastal bay located near Snappertuna.",
+                  "category": "landmark",
+                  "coords": [
+                        23.610795,
+                        59.96243
+                  ]
+            },
+            {
+                  "name": "Snappertuna kyrka",
+                  "text": "A wooden cross-church dating from the 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        23.652334,
+                        59.998235
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "FI",
     name: { de: "Burgruine Raasepori", hu: "Raasepori várromjai", ro: "Ruinele castelului Raasepori", en: "Raasepori Castle Ruins" },

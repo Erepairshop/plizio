@@ -381,6 +381,15 @@ imageHint: "Large rocket components inside Yuzhmash factory",
                         31.015926,
                         46.627918
                   ]
+            },
+            {
+                  "name": "Пляж Григорівка",
+                  "text": "Ein lokaler Strand in der Nähe von Port Pivdennyi am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        31.01055,
+                        46.597692
+                  ]
             }
       ],
       "hu": [
@@ -391,6 +400,15 @@ imageHint: "Large rocket components inside Yuzhmash factory",
                   "coords": [
                         31.015926,
                         46.627918
+                  ]
+            },
+            {
+                  "name": "Пляж Григорівка",
+                  "text": "Helyi tengerpart a Fekete-tenger partján, Port Pivdennyi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        31.01055,
+                        46.597692
                   ]
             }
       ],
@@ -403,6 +421,15 @@ imageHint: "Large rocket components inside Yuzhmash factory",
                         31.015926,
                         46.627918
                   ]
+            },
+            {
+                  "name": "Пляж Григорівка",
+                  "text": "O plajă locală lângă Port Pivdennyi, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        31.01055,
+                        46.597692
+                  ]
             }
       ],
       "en": [
@@ -413,6 +440,15 @@ imageHint: "Large rocket components inside Yuzhmash factory",
                   "coords": [
                         31.015926,
                         46.627918
+                  ]
+            },
+            {
+                  "name": "Пляж Григорівка",
+                  "text": "A local beach near Port Pivdennyi on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        31.01055,
+                        46.597692
                   ]
             }
       ]
@@ -564,6 +600,15 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                         24.694365,
                         49.226836
                   ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "Schwimmbecken in der Nähe des Wärmekraftwerks Burschtyn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
+                  ]
             }
       ],
       "hu": [
@@ -574,6 +619,15 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                   "coords": [
                         24.694365,
                         49.226836
+                  ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "Úszómedence a burstini hőerőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
                   ]
             }
       ],
@@ -586,6 +640,15 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                         24.694365,
                         49.226836
                   ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "Piscină situată lângă centrala termoelectrică din Burștîn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
+                  ]
             }
       ],
       "en": [
@@ -596,6 +659,15 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                   "coords": [
                         24.694365,
                         49.226836
+                  ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "Swimming pool facility located near the Burshtyn Thermal Power Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
                   ]
             }
       ]
@@ -1339,6 +1411,15 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
                         28.283495,
                         45.451987
                   ]
+            },
+            {
+                  "name": "Dunai",
+                  "text": "Ein Erholungsgebiet am Strand der Donau in der Nähe des Hafens von Reni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.333937,
+                        45.429895
+                  ]
             }
       ],
       "hu": [
@@ -1358,6 +1439,15 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
                   "coords": [
                         28.283495,
                         45.451987
+                  ]
+            },
+            {
+                  "name": "Dunai",
+                  "text": "Duna-parti üdülőhely és strand a Reni kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.333937,
+                        45.429895
                   ]
             }
       ],
@@ -1379,6 +1469,15 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
                         28.283495,
                         45.451987
                   ]
+            },
+            {
+                  "name": "Dunai",
+                  "text": "O zonă de recreere pe plaja Dunării, lângă Portul Reni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.333937,
+                        45.429895
+                  ]
             }
       ],
       "en": [
@@ -1398,6 +1497,15 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
                   "coords": [
                         28.283495,
                         45.451987
+                  ]
+            },
+            {
+                  "name": "Dunai",
+                  "text": "A beach recreation area along the Danube river near the Port of Reni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.333937,
+                        45.429895
                   ]
             }
       ]
@@ -1769,7 +1877,124 @@ imageHint: "Industrial petrochemical complex in Kalush",
     },
   },
   {
-    id: "ukraine-port-chornomorsk-economic-v2",
+    id: "ukraine-port-chornomorsk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Відпочинковий комплекс \"Боро-Боро\"",
+                  "text": "Ein moderner Freizeitkomplex mit Strandzugang in der Nähe des Hafens von Tschornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.694062,
+                        46.338271
+                  ]
+            },
+            {
+                  "name": "Відпочинковий комплекс \"Схід\"",
+                  "text": "Ein Erholungsgebiet am Meer in der Nähe der Hafenanlagen von Tschornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.696268,
+                        46.340892
+                  ]
+            },
+            {
+                  "name": "Пляж \"Шпора\"",
+                  "text": "Ein weitläufiger Strandabschnitt bei Tschornomorsk, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        30.679582,
+                        46.322572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Відпочинковий комплекс \"Боро-Боро\"",
+                  "text": "Modern szabadidős komplexum stranddal Tschornomorszk kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.694062,
+                        46.338271
+                  ]
+            },
+            {
+                  "name": "Відпочинковий комплекс \"Схід\"",
+                  "text": "Tengerparti üdülőhely Tschornomorszk kikötői létesítményei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.696268,
+                        46.340892
+                  ]
+            },
+            {
+                  "name": "Пляж \"Шпора\"",
+                  "text": "Tágas tengerparti szakasz Tschornomorszk mellett, amely nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        30.679582,
+                        46.322572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Відпочинковий комплекс \"Боро-Боро\"",
+                  "text": "Un complex modern de agrement cu plajă situat lângă Portul Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.694062,
+                        46.338271
+                  ]
+            },
+            {
+                  "name": "Відпочинковий комплекс \"Схід\"",
+                  "text": "O zonă de recreere la malul mării situată lângă facilitățile portuare din Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.696268,
+                        46.340892
+                  ]
+            },
+            {
+                  "name": "Пляж \"Шпора\"",
+                  "text": "O secțiune de plajă spațioasă lângă Chornomorsk, cunoscută pentru atmosfera relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        30.679582,
+                        46.322572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Відпочинковий комплекс \"Боро-Боро\"",
+                  "text": "A modern recreational complex with beach access located near the Port of Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.694062,
+                        46.338271
+                  ]
+            },
+            {
+                  "name": "Відпочинковий комплекс \"Схід\"",
+                  "text": "A seaside recreation area located near the port facilities of Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.696268,
+                        46.340892
+                  ]
+            },
+            {
+                  "name": "Shpora Beach",
+                  "text": "A spacious beach section near Chornomorsk, known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        30.679582,
+                        46.322572
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "port",
     name: { de: "Hafen Tschornomorsk", hu: "Csornomorszk kikötője", ro: "Portul Ciornomorsk", en: "Port of Chornomorsk"},

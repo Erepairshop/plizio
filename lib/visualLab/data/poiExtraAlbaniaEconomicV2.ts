@@ -692,7 +692,160 @@ imageHint: "Modern office buildings and landscaped areas of a business park",
     },
     image: "/poi-images/albania-tirana-business-park-economic-v2.webp",
 },  {
-    id: "albania-port-of-shengjin-economic-v2", "sights": {"de": [{"name": "Plazhi i Shëngjinit", "text": "Strand am Hafen von Shëngjin.", "category": "recreational", "coords": [19.597056, 41.78854]}, {"name": "Arome Deti", "text": "Strand am Hafen von Shëngjin.", "category": "recreational", "coords": [19.602985, 41.787518]}, {"name": "Arta's beach", "text": "Unmittelbar am Hafen von Shëngjin gelegen, fasziniert Arta's Beach durch die Kombination von Meeresbrise und maritimem Treiben. Schwimmer können sich im erfrischenden Wasser abkühlen, während Zuschauer das Geschehen beobachten. Die Lage zieht ein gemischtes Publikum aus Hafenbesuchern und Sonnenanbetern an. Die Anreise am Vormittag sichert oft ein ruhigeres Erlebnis.", "category": "recreational", "coords": [19.572327, 41.813419]}], "hu": [{"name": "Plazhi i Shëngjinit", "text": "Strand a Shëngjin kikötőnél.", "category": "recreational", "coords": [19.597056, 41.78854]}, {"name": "Arome Deti", "text": "Strand Shëngjin kikötőjénél.", "category": "recreational", "coords": [19.602985, 41.787518]}, {"name": "Arta's beach", "text": "A közvetlenül Shëngjin kikötőjénél található Arta's Beach a tengeri szellő és a nyüzsgő tengeri élet kombinációjával nyűgöz le. Az úszók lehűthetik magukat a frissítő vízben, miközben a nézők figyelik a hajókat. Az elhelyezkedés a kikötő látogatóiból és a napozókból álló vegyes közönséget vonz. A délelőtti érkezés gyakran nyugodtabb élményt biztosít.", "category": "recreational", "coords": [19.572327, 41.813419]}], "ro": [{"name": "Plazhi i Shëngjinit", "text": "Plajă la Portul Shëngjin.", "category": "recreational", "coords": [19.597056, 41.78854]}, {"name": "Arome Deti", "text": "Plajă lângă portul Shëngjin.", "category": "recreational", "coords": [19.602985, 41.787518]}, {"name": "Arta's beach", "text": "Situată chiar în portul Shëngjin, Arta's Beach fascinează prin combinația de briză marină și activitate maritimă. Înotătorii se pot răcori în apa revigorantă, în timp ce spectatorii urmăresc acțiunea. Locația atrage un public mixt format din vizitatori ai portului și iubitori de soare. Sosirea dimineața asigură adesea o experiență mai liniștită.", "category": "recreational", "coords": [19.572327, 41.813419]}], "en": [{"name": "Plazhi i Shëngjinit", "text": "Beach at the Port of Shëngjin.", "category": "recreational", "coords": [19.597056, 41.78854]}, {"name": "Arome Deti", "text": "Beach near the port of Shëngjin.", "category": "recreational", "coords": [19.602985, 41.787518]}, {"name": "Arta's beach", "text": "Located right at the port of Shëngjin, Arta's Beach fascinates with the combination of sea breeze and maritime activity. Swimmers can cool off in the refreshing water while onlookers watch the action. The location attracts a mixed crowd of harbor visitors and sun worshippers. Arriving in the morning often ensures a quieter experience.", "category": "recreational", "coords": [19.572327, 41.813419]}]},
+    id: "albania-port-of-shengjin-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Strand am Hafen von Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Strand am Hafen von Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Unmittelbar am Hafen von Shëngjin gelegen, fasziniert Arta's Beach durch die Kombination von Meeresbrise und maritimem Treiben. Schwimmer können sich im erfrischenden Wasser abkühlen, während Zuschauer das Geschehen beobachten. Die Lage zieht ein gemischtes Publikum aus Hafenbesuchern und Sonnenanbetern an. Die Anreise am Vormittag sichert oft ein ruhigeres Erlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            },
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Shëngjin Beach ist ein beliebter Sandstrand an der Adriaküste im Norden Albaniens.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Strand a Shëngjin kikötőnél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Strand Shëngjin kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "A közvetlenül Shëngjin kikötőjénél található Arta's Beach a tengeri szellő és a nyüzsgő tengeri élet kombinációjával nyűgöz le. Az úszók lehűthetik magukat a frissítő vízben, miközben a nézők figyelik a hajókat. Az elhelyezkedés a kikötő látogatóiból és a napozókból álló vegyes közönséget vonz. A délelőtti érkezés gyakran nyugodtabb élményt biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            },
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Shëngjin strandja egy népszerű homokos szakasz az Adria-parton, Észak-Albániában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Plajă la Portul Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Plajă lângă portul Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Situată chiar în portul Shëngjin, Arta's Beach fascinează prin combinația de briză marină și activitate maritimă. Înotătorii se pot răcori în apa revigorantă, în timp ce spectatorii urmăresc acțiunea. Locația atrage un public mixt format din vizitatori ai portului și iubitori de soare. Sosirea dimineața asigură adesea o experiență mai liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            },
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Plaja Shëngjin este o porțiune populară de nisip de pe coasta Adriaticii, în nordul Albaniei.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Beach at the Port of Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Beach near the port of Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Located right at the port of Shëngjin, Arta's Beach fascinates with the combination of sea breeze and maritime activity. Swimmers can cool off in the refreshing water while onlookers watch the action. The location attracts a mixed crowd of harbor visitors and sun worshippers. Arriving in the morning often ensures a quieter experience.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            },
+            {
+                  "name": "Shëngjin Beach",
+                  "text": "Shëngjin Beach is a popular sandy stretch on the Adriatic coast in northern Albania.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "port",
     name: { de: "Hafen von Shëngjin", hu: "Shëngjini kikötő", ro: "Portul Shëngjin", en: "Port of Shëngjin"},
@@ -1426,6 +1579,15 @@ imageHint: "Natural gas extraction facility and pipelines in Divjake",
                         19.996827,
                         39.869805
                   ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "Ein zentral gelegener öffentlicher Strand direkt beim Fährterminal von Saranda.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004801,
+                        39.872825
+                  ]
             }
       ],
       "hu": [
@@ -1436,6 +1598,15 @@ imageHint: "Natural gas extraction facility and pipelines in Divjake",
                   "coords": [
                         19.996827,
                         39.869805
+                  ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "Központi fekvésű nyilvános strand közvetlenül a sarandai kompkikötőnél.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004801,
+                        39.872825
                   ]
             }
       ],
@@ -1448,6 +1619,15 @@ imageHint: "Natural gas extraction facility and pipelines in Divjake",
                         19.996827,
                         39.869805
                   ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "O plajă publică centrală situată chiar lângă terminalul de feribot din Saranda.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004801,
+                        39.872825
+                  ]
             }
       ],
       "en": [
@@ -1458,6 +1638,15 @@ imageHint: "Natural gas extraction facility and pipelines in Divjake",
                   "coords": [
                         19.996827,
                         39.869805
+                  ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "A centrally located public beach right by the Saranda ferry terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004801,
+                        39.872825
                   ]
             }
       ]

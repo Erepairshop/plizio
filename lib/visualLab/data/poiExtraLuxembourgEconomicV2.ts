@@ -625,6 +625,15 @@ export const luxembourgEconomicV2: POI[] = [
                         6.151855,
                         49.623368
                   ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "Ein städtisches Hallenbad in Luxemburg, das Bahnen zum Schwimmen und Kurse anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
+                  ]
             }
       ],
       "hu": [
@@ -1247,6 +1256,15 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.151855,
                         49.623368
+                  ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "Luxembourg városi fedett uszodája, amely úszósávokat és tanfolyamokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
                   ]
             }
       ],
@@ -1871,6 +1889,15 @@ export const luxembourgEconomicV2: POI[] = [
                         6.151855,
                         49.623368
                   ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "O piscină municipală interioară din Luxemburg, care oferă culoare pentru înot și cursuri.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
+                  ]
             }
       ],
       "en": [
@@ -2493,6 +2520,15 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.151855,
                         49.623368
+                  ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "A municipal indoor swimming pool in Luxembourg offering lanes for swimming and classes.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
                   ]
             }
       ]

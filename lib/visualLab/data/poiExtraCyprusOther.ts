@@ -1929,7 +1929,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Parc national de Karpas est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux d'information expliquent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-karpas-national-park-extra.webp"},
   {
-    id: "animal-habitat-akrotiri-environmental-centre-extra",
+    id: "animal-habitat-akrotiri-environmental-centre-extra", "sights": {
+      "de": [
+            {
+                  "name": "Lady's Mile Beach",
+                  "text": "Ein langer Strandabschnitt auf der Akrotiri-Halbinsel im Süden Zyperns.",
+                  "category": "recreational",
+                  "coords": [
+                        33.006443,
+                        34.615744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lady's Mile Beach",
+                  "text": "Hosszú tengerparti szakasz az Akrotiri-félszigeten, Ciprus déli részén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.006443,
+                        34.615744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lady's Mile Beach",
+                  "text": "O porțiune lungă de plajă pe peninsula Akrotiri, în sudul Ciprului.",
+                  "category": "recreational",
+                  "coords": [
+                        33.006443,
+                        34.615744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lady's Mile Beach",
+                  "text": "A long stretch of beach on the Akrotiri Peninsula in southern Cyprus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.006443,
+                        34.615744
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.99, 34.6],
@@ -4033,7 +4078,160 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "kid-landmark-ocean-aquarium-protaras-extra", "sights": {"de": [{"name": "Louma Beach", "text": "Der Louma Beach bei Protaras, unweit des Ozeanaquariums, ist ein zauberhafter Ort für Meeresliebhaber. Die sanft abfallende Küste Zyperns schafft hier ideale Bedingungen für einen unbeschwerten Badeausflug. Schwimmer und Erholungssuchende schätzen die freundliche Atmosphäre an diesem Strandabschnitt. Ein entspannter Nachmittag am Wasser lässt den Alltag schnell in Vergessenheit geraten.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "Ebenfalls im schönen Protaras gelegen, bietet der Ellines Beach eine idyllische Strandkulisse für sonnige Tage. Die unmittelbare Nähe zum Meer verspricht erfrischende Bademomente unter dem blauen Himmel Zyperns. Gäste verbringen ihre Zeit gerne mit Sonnenbaden oder entspannten Spaziergängen entlang der Küste. Es lohnt sich, ein gutes Buch für die ruhigen Stunden am Sandstrand einzupacken.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "Der Vizakia Beach in Protaras schmiegt sich malerisch an die östliche Küstenlinie Zyperns. Diese beschauliche Bucht lockt mit einer angenehmen Umgebung, die zum Verweilen und Genießen einlädt. Das klare Meerwasser bietet hervorragende Möglichkeiten für ein erfrischendes Bad in ruhiger Atmosphäre. An den Wochenenden empfiehlt sich eine etwas frühere Anreise, um den perfekten Liegeplatz zu ergattern.", "category": "recreational", "coords": [34.033959, 35.040593]}], "hu": [{"name": "Louma Beach", "text": "A Protaras mellett, az Óceánvárium közelében fekvő Louma Beach varázslatos helyszín a tenger szerelmeseinek. A fokozatosan mélyülő ciprusi partvidék ideális feltételeket teremt egy gondtalan fürdőzéshez. Az úszni vágyók és a pihenést keresők egyaránt kedvelik e partszakasz barátságos légkörét. Egy nyugodt vízparti délután hamar feledteti a mindennapok rohanását.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "A szintén a gyönyörű Protaras térségében található Ellines Beach idilli tengerparti hátteret nyújt a napsütéses napokhoz. A tenger közvetlen közelsége frissítő élményeket ígér Ciprus ragyogó kék ege alatt. A látogatók örömmel töltik idejüket napozással vagy kényelmes parti sétákkal. A csendes, homokos parton töltött órákhoz érdemes egy jó könyvet is a táskába készíteni.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "A protarasi Vizakia Beach festőien simul bele Ciprus keleti partvonalába. Ez a békés öböl kellemes környezettel csábít maradásra és a pillanat élvezetére. A tiszta tengervíz kiváló lehetőséget ad egy frissítő fürdőzésre igazán nyugodt körülmények között. Hétvégéken célszerű valamivel korábban érkezni, hogy biztosan megtaláljuk a legtökéletesebb pihenőhelyet a parton.", "category": "recreational", "coords": [34.033959, 35.040593]}], "ro": [{"name": "Louma Beach", "text": "Plaja Louma din zona Protaras, aproape de Acvariul Oceanic, este un loc fermecător pentru iubitorii de mare. Litoralul cipriot care coboară lin creează aici condiții ideale pentru o ieșire fără griji la scăldat. Înotătorii și cei care caută odihna apreciază atmosfera prietenoasă de pe această plajă. O după-amiază relaxantă lângă apă vă va face să uitați rapid de rutina zilnică.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "Aflată tot în frumoasa zonă Protaras, plaja Ellines oferă un decor idilic pentru zilele însorite. Apropierea de mare promite momente revigorante de înot sub cerul albastru senin al Ciprului. Oaspeții își petrec adesea timpul bucurându-se de soare sau plimbându-se relaxat de-a lungul țărmului. Merită să aduceți o carte bună pentru orele liniștite petrecute pe nisipul cald.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "Plaja Vizakia din Protaras se cuibărește pitoresc pe linia de coastă estică a Ciprului. Acest golf liniștit atrage printr-un mediu plăcut, care te îndeamnă să zăbovești și să te bucuri de clipă. Apa mării oferă oportunități excelente pentru o baie răcoroasă într-o atmosferă calmă. În weekend, se recomandă o sosire ceva mai devreme pentru a prinde cel mai bun loc de stat la plajă.", "category": "recreational", "coords": [34.033959, 35.040593]}], "en": [{"name": "Louma Beach", "text": "Situated by Protaras near the Ocean Aquarium, Louma Beach is a magical spot for sea lovers. The gently sloping Cypriot coastline here creates the ideal conditions for a carefree outing by the water. Swimmers and relaxation seekers alike value the friendly, easygoing atmosphere of this beach area. A laid-back afternoon spent here will quickly make you forget the rush of everyday life.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "Also set in beautiful Protaras, Ellines Beach offers an idyllic coastal backdrop for sunny days out. Being right by the sea promises refreshing swimming moments under the clear blue Cypriot sky. Guests generally spend their time sunbathing or enjoying relaxed strolls along the shoreline. Tucking a good book into your bag is highly recommended for those quiet hours on the sand.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "Vizakia Beach in Protaras nestles picturesquely along the eastern coastline of Cyprus. This peaceful bay attracts visitors with a pleasant environment that encourages lingering and enjoying the moment. The sea water provides excellent opportunities for a refreshing swim in a calm atmosphere. On weekends, arriving a bit earlier is recommended to secure the perfect lounging spot.", "category": "recreational", "coords": [34.033959, 35.040593]}]},
+    id: "kid-landmark-ocean-aquarium-protaras-extra", "sights": {
+      "de": [
+            {
+                  "name": "Louma Beach",
+                  "text": "Der Louma Beach bei Protaras, unweit des Ozeanaquariums, ist ein zauberhafter Ort für Meeresliebhaber. Die sanft abfallende Küste Zyperns schafft hier ideale Bedingungen für einen unbeschwerten Badeausflug. Schwimmer und Erholungssuchende schätzen die freundliche Atmosphäre an diesem Strandabschnitt. Ein entspannter Nachmittag am Wasser lässt den Alltag schnell in Vergessenheit geraten.",
+                  "category": "recreational",
+                  "coords": [
+                        34.038636,
+                        35.036695
+                  ]
+            },
+            {
+                  "name": "Ellines Beach",
+                  "text": "Ebenfalls im schönen Protaras gelegen, bietet der Ellines Beach eine idyllische Strandkulisse für sonnige Tage. Die unmittelbare Nähe zum Meer verspricht erfrischende Bademomente unter dem blauen Himmel Zyperns. Gäste verbringen ihre Zeit gerne mit Sonnenbaden oder entspannten Spaziergängen entlang der Küste. Es lohnt sich, ein gutes Buch für die ruhigen Stunden am Sandstrand einzupacken.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040095,
+                        35.034142
+                  ]
+            },
+            {
+                  "name": "Vizakia Beach",
+                  "text": "Der Vizakia Beach in Protaras schmiegt sich malerisch an die östliche Küstenlinie Zyperns. Diese beschauliche Bucht lockt mit einer angenehmen Umgebung, die zum Verweilen und Genießen einlädt. Das klare Meerwasser bietet hervorragende Möglichkeiten für ein erfrischendes Bad in ruhiger Atmosphäre. An den Wochenenden empfiehlt sich eine etwas frühere Anreise, um den perfekten Liegeplatz zu ergattern.",
+                  "category": "recreational",
+                  "coords": [
+                        34.033959,
+                        35.040593
+                  ]
+            },
+            {
+                  "name": "Pernera P Beach",
+                  "text": "Pernera P Beach ist ein Sandstrand in der Nähe des Ocean Aquariums.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042139,
+                        35.031716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Louma Beach",
+                  "text": "A Protaras mellett, az Óceánvárium közelében fekvő Louma Beach varázslatos helyszín a tenger szerelmeseinek. A fokozatosan mélyülő ciprusi partvidék ideális feltételeket teremt egy gondtalan fürdőzéshez. Az úszni vágyók és a pihenést keresők egyaránt kedvelik e partszakasz barátságos légkörét. Egy nyugodt vízparti délután hamar feledteti a mindennapok rohanását.",
+                  "category": "recreational",
+                  "coords": [
+                        34.038636,
+                        35.036695
+                  ]
+            },
+            {
+                  "name": "Ellines Beach",
+                  "text": "A szintén a gyönyörű Protaras térségében található Ellines Beach idilli tengerparti hátteret nyújt a napsütéses napokhoz. A tenger közvetlen közelsége frissítő élményeket ígér Ciprus ragyogó kék ege alatt. A látogatók örömmel töltik idejüket napozással vagy kényelmes parti sétákkal. A csendes, homokos parton töltött órákhoz érdemes egy jó könyvet is a táskába készíteni.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040095,
+                        35.034142
+                  ]
+            },
+            {
+                  "name": "Vizakia Beach",
+                  "text": "A protarasi Vizakia Beach festőien simul bele Ciprus keleti partvonalába. Ez a békés öböl kellemes környezettel csábít maradásra és a pillanat élvezetére. A tiszta tengervíz kiváló lehetőséget ad egy frissítő fürdőzésre igazán nyugodt körülmények között. Hétvégéken célszerű valamivel korábban érkezni, hogy biztosan megtaláljuk a legtökéletesebb pihenőhelyet a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        34.033959,
+                        35.040593
+                  ]
+            },
+            {
+                  "name": "Pernera P Beach",
+                  "text": "A Pernera P Beach egy homokos strand az Ocean Aquarium közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042139,
+                        35.031716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Louma Beach",
+                  "text": "Plaja Louma din zona Protaras, aproape de Acvariul Oceanic, este un loc fermecător pentru iubitorii de mare. Litoralul cipriot care coboară lin creează aici condiții ideale pentru o ieșire fără griji la scăldat. Înotătorii și cei care caută odihna apreciază atmosfera prietenoasă de pe această plajă. O după-amiază relaxantă lângă apă vă va face să uitați rapid de rutina zilnică.",
+                  "category": "recreational",
+                  "coords": [
+                        34.038636,
+                        35.036695
+                  ]
+            },
+            {
+                  "name": "Ellines Beach",
+                  "text": "Aflată tot în frumoasa zonă Protaras, plaja Ellines oferă un decor idilic pentru zilele însorite. Apropierea de mare promite momente revigorante de înot sub cerul albastru senin al Ciprului. Oaspeții își petrec adesea timpul bucurându-se de soare sau plimbându-se relaxat de-a lungul țărmului. Merită să aduceți o carte bună pentru orele liniștite petrecute pe nisipul cald.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040095,
+                        35.034142
+                  ]
+            },
+            {
+                  "name": "Vizakia Beach",
+                  "text": "Plaja Vizakia din Protaras se cuibărește pitoresc pe linia de coastă estică a Ciprului. Acest golf liniștit atrage printr-un mediu plăcut, care te îndeamnă să zăbovești și să te bucuri de clipă. Apa mării oferă oportunități excelente pentru o baie răcoroasă într-o atmosferă calmă. În weekend, se recomandă o sosire ceva mai devreme pentru a prinde cel mai bun loc de stat la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.033959,
+                        35.040593
+                  ]
+            },
+            {
+                  "name": "Pernera P Beach",
+                  "text": "Pernera P Beach este o plajă de nisip situată în apropiere de Ocean Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042139,
+                        35.031716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Louma Beach",
+                  "text": "Situated by Protaras near the Ocean Aquarium, Louma Beach is a magical spot for sea lovers. The gently sloping Cypriot coastline here creates the ideal conditions for a carefree outing by the water. Swimmers and relaxation seekers alike value the friendly, easygoing atmosphere of this beach area. A laid-back afternoon spent here will quickly make you forget the rush of everyday life.",
+                  "category": "recreational",
+                  "coords": [
+                        34.038636,
+                        35.036695
+                  ]
+            },
+            {
+                  "name": "Ellines Beach",
+                  "text": "Also set in beautiful Protaras, Ellines Beach offers an idyllic coastal backdrop for sunny days out. Being right by the sea promises refreshing swimming moments under the clear blue Cypriot sky. Guests generally spend their time sunbathing or enjoying relaxed strolls along the shoreline. Tucking a good book into your bag is highly recommended for those quiet hours on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040095,
+                        35.034142
+                  ]
+            },
+            {
+                  "name": "Vizakia Beach",
+                  "text": "Vizakia Beach in Protaras nestles picturesquely along the eastern coastline of Cyprus. This peaceful bay attracts visitors with a pleasant environment that encourages lingering and enjoying the moment. The sea water provides excellent opportunities for a refreshing swim in a calm atmosphere. On weekends, arriving a bit earlier is recommended to secure the perfect lounging spot.",
+                  "category": "recreational",
+                  "coords": [
+                        34.033959,
+                        35.040593
+                  ]
+            },
+            {
+                  "name": "Pernera P Beach",
+                  "text": "Pernera P Beach is a sandy beach located near the Ocean Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042139,
+                        35.031716
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [34.03, 35.03],
@@ -4243,7 +4441,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Luna Park de Paphos s'adresse principalement aux familles avec jeunes enfants.", "Les manèges classiques et stands de jeux assurent un divertissement joyeux.", "Sa situation près du port permet de le combiner avec une promenade.", "La proximité de zones ombragées et de restaurants améliore le confort.", "Il est idéal pour une visite courte d'une heure ou deux en fin de journée.", "L'accès se fait facilement à pied depuis les hôtels de Kato Paphos ou en voiture.", "Le parc est généralement ouvert l'après-midi et en soirée avec ses lumières."],
     }, image: "/poi-images/kid-landmark-paphos-luna-park-extra.webp"},
   {
-    id: "kid-landmark-galactica-entertainment-limassol-extra", "sights": {"de": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "Der städtische Strand Agios Georgios Fragoudi 2 prägt das sommerliche Bild von Limassol. Die zentrale Lage macht ihn zu einem beliebten Treffpunkt für Einheimische und Besucher gleichermaßen. Das Wasser lädt zum Schwimmen ein, während der Strandbereich Platz zum Sonnenbaden bietet. Für einen abendlichen Spaziergang am Meer bietet dieser Strand eine wunderbare Kulisse.", "category": "recreational", "coords": [33.071943, 34.688565]}], "hu": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "Az Agios Georgios Fragoudi 2 városi strand meghatározó része Limassol nyári arculatának. Központi elhelyezkedése miatt a helyiek és a turisták körében egyaránt kedvelt találkozóhely. A víz úszásra hívogat, miközben a parti sáv elegendő teret nyújt a napozáshoz. Egy esti tengerparti sétához is csodálatos hátteret és atmoszférát biztosít ez a helyszín.", "category": "recreational", "coords": [33.071943, 34.688565]}], "ro": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "Plaja municipală Agios Georgios Fragoudi 2 dă tonul verii în peisajul din Limassol. Locația sa centrală o face un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori. Apa te invită la înot, în timp ce zona de plajă oferă spațiu generos pentru băi de soare. Pentru o plimbare de seară la malul mării, această plajă oferă un cadru deosebit de frumos.", "category": "recreational", "coords": [33.071943, 34.688565]}], "en": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "The municipal Agios Georgios Fragoudi 2 beach defines the summer scenery in Limassol. Its central location makes it a popular gathering spot for locals and visitors alike. The water invites you in for a swim, while the sandy stretch provides ample space for sunbathing. For an evening stroll by the sea, this beach offers a truly wonderful setting.", "category": "recreational", "coords": [33.071943, 34.688565]}]},
+    id: "kid-landmark-galactica-entertainment-limassol-extra", "sights": {
+      "de": [
+            {
+                  "name": "Agios Georgios Fragoudi 2 municipal beach",
+                  "text": "Der städtische Strand Agios Georgios Fragoudi 2 prägt das sommerliche Bild von Limassol. Die zentrale Lage macht ihn zu einem beliebten Treffpunkt für Einheimische und Besucher gleichermaßen. Das Wasser lädt zum Schwimmen ein, während der Strandbereich Platz zum Sonnenbaden bietet. Für einen abendlichen Spaziergang am Meer bietet dieser Strand eine wunderbare Kulisse.",
+                  "category": "recreational",
+                  "coords": [
+                        33.071943,
+                        34.688565
+                  ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "NOA ist ein modernes Strandresort im Galactica Entertainment Komplex.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Georgios Fragoudi 2 municipal beach",
+                  "text": "Az Agios Georgios Fragoudi 2 városi strand meghatározó része Limassol nyári arculatának. Központi elhelyezkedése miatt a helyiek és a turisták körében egyaránt kedvelt találkozóhely. A víz úszásra hívogat, miközben a parti sáv elegendő teret nyújt a napozáshoz. Egy esti tengerparti sétához is csodálatos hátteret és atmoszférát biztosít ez a helyszín.",
+                  "category": "recreational",
+                  "coords": [
+                        33.071943,
+                        34.688565
+                  ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "A NOA egy modern strandüdülő a Galactica Entertainment komplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Georgios Fragoudi 2 municipal beach",
+                  "text": "Plaja municipală Agios Georgios Fragoudi 2 dă tonul verii în peisajul din Limassol. Locația sa centrală o face un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori. Apa te invită la înot, în timp ce zona de plajă oferă spațiu generos pentru băi de soare. Pentru o plimbare de seară la malul mării, această plajă oferă un cadru deosebit de frumos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.071943,
+                        34.688565
+                  ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "NOA este o stațiune de plajă modernă în cadrul complexului Galactica Entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Georgios Fragoudi 2 municipal beach",
+                  "text": "The municipal Agios Georgios Fragoudi 2 beach defines the summer scenery in Limassol. Its central location makes it a popular gathering spot for locals and visitors alike. The water invites you in for a swim, while the sandy stretch provides ample space for sunbathing. For an evening stroll by the sea, this beach offers a truly wonderful setting.",
+                  "category": "recreational",
+                  "coords": [
+                        33.071943,
+                        34.688565
+                  ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "NOA is a modern beach resort within the Galactica Entertainment complex.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.07, 34.69],
@@ -7984,7 +8263,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le domaine Christoudia est un fleuron de la viticulture méditerranéenne à Chypre.", "Il marie culture traditionnelle et techniques de vinification modernes.", "L'irrigation goutte-à-goutte est utilisée pour préserver les ressources.", "Le domaine propose des dégustations et la vente directe de ses cuvées.", "Les normes de qualité de l'UE sont respectées tout au long du processus.", "La proximité de sentiers et de tavernes enrichit la visite culinaire.", "L'entreprise familiale joue un rôle clé dans la préservation du terroir."],
     }, image: "/poi-images/agriculture-christoudia-winery-kato-drys-extra.webp"},
   {
-    id: "agriculture-ayia-mavri-winery-kilani-extra",
+    id: "agriculture-ayia-mavri-winery-kilani-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Ein Museum, das in einer alten Olivenmühle untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Eine archäologische Fundstätte in einer lokalen Höhle.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Ein Museum für religiöse Kunst und die Geschichte des Weinbaus.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Ein Aussichtspunkt mit Blick über das malerische Dorf Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Eine kleine lokale Attraktion in der Nähe des Weinguts.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Egy régi olajütőben kialakított múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Régészeti lelőhely egy helyi barlangban.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Egyházi művészeti és szőlészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Kilátóhely a festői Lofou falura.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Kisebb helyi látványosság a borászat közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Un muzeu amenajat într-o veche moară de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Un sit arheologic într-o peșteră locală.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Un muzeu de artă ecleziastică și istorie a viticulturii.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Un punct de belvedere asupra satului pitoresc Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "O mică atracție locală lângă crama Ayia Mavri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Olive Mill",
+                  "text": "A museum housed in an old olive mill.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "The cave of Hadrirousos",
+                  "text": "An archaeological site located in a local cave.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Ecclesiastical and Viticulture Museums",
+                  "text": "A museum of ecclesiastical art and viticulture history.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "A viewpoint overlooking the picturesque village of Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A small local attraction near the winery.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.86, 34.84],
@@ -9736,6 +10204,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.130113,
                         34.708298
                   ]
+            },
+            {
+                  "name": "Drifters Pool Bar",
+                  "text": "Ein Schwimmbecken mit Bar, das Erfrischung in der Nähe der Industrieanlagen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.109596,
+                        34.703938
+                  ]
             }
       ],
       "hu": [
@@ -9809,6 +10286,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.130113,
                         34.708298
+                  ]
+            },
+            {
+                  "name": "Drifters Pool Bar",
+                  "text": "Úszómedence bárral, amely frissítőt kínál az ipari létesítmények közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.109596,
+                        34.703938
                   ]
             }
       ],
@@ -9884,6 +10370,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.130113,
                         34.708298
                   ]
+            },
+            {
+                  "name": "Drifters Pool Bar",
+                  "text": "O piscină cu bar care oferă răcorire în apropierea instalațiilor industriale.",
+                  "category": "recreational",
+                  "coords": [
+                        33.109596,
+                        34.703938
+                  ]
             }
       ],
       "en": [
@@ -9957,6 +10452,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.130113,
                         34.708298
+                  ]
+            },
+            {
+                  "name": "Drifters Pool Bar",
+                  "text": "A swimming pool with a bar providing refreshment near the industrial facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        33.109596,
+                        34.703938
                   ]
             }
       ]
@@ -10464,7 +10968,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La centrale de Dhekelia illustre la diversité économique de Chypre au-delà du tourisme.", "La production d'énergie est le pilier central de ce site industriel.", "L'installation est gérée par l'Autorité de l'électricité de Chypre (EAC).", "La numérisation et les normes environnementales marquent l'exploitation.", "Des axes de transport relient efficacement la centrale au réseau national.", "L'infrastructure énergétique coexiste avec le développement régional.", "Le site est rarement mentionné en détail dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-dhekelia-power-station-extra.webp"},
   {
-    id: "industry-skouriotissa-copper-mine-extra",
+    id: "industry-skouriotissa-copper-mine-extra", "sights": {
+      "de": [
+            {
+                  "name": "CSM Swimming Pool",
+                  "text": "Ein Schwimmbecken in der Nähe der Kupfermine Skouriotissa.",
+                  "category": "recreational",
+                  "coords": [
+                        32.883477,
+                        35.091663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CSM Swimming Pool",
+                  "text": "A Skouriotissa rézbánya közelében található úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        32.883477,
+                        35.091663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CSM Swimming Pool",
+                  "text": "O piscină situată lângă mina de cupru Skouriotissa.",
+                  "category": "recreational",
+                  "coords": [
+                        32.883477,
+                        35.091663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CSM Swimming Pool",
+                  "text": "A swimming pool located near the Skouriotissa Copper Mine.",
+                  "category": "recreational",
+                  "coords": [
+                        32.883477,
+                        35.091663
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [32.89, 35.1],
@@ -11217,6 +11766,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.202922,
                         34.737497
                   ]
+            },
+            {
+                  "name": "Governor's Beach",
+                  "text": "Ein Strandbad bei Moni, bekannt für seine weißen Kalksteinfelsen und den dunklen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        33.27163,
+                        34.712318
+                  ]
             }
       ],
       "hu": [
@@ -11236,6 +11794,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.202922,
                         34.737497
+                  ]
+            },
+            {
+                  "name": "Governor's Beach",
+                  "text": "Moni közeli strandüdülőhely, amely fehér mészkőfalairól és sötét homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        33.27163,
+                        34.712318
                   ]
             }
       ],
@@ -11257,6 +11824,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.202922,
                         34.737497
                   ]
+            },
+            {
+                  "name": "Governor's Beach",
+                  "text": "O stațiune la plajă lângă Moni, cunoscută pentru stâncile sale de calcar alb și nisipul închis la culoare.",
+                  "category": "recreational",
+                  "coords": [
+                        33.27163,
+                        34.712318
+                  ]
             }
       ],
       "en": [
@@ -11276,6 +11852,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.202922,
                         34.737497
+                  ]
+            },
+            {
+                  "name": "Governor's Beach",
+                  "text": "A beach resort near Moni known for its white limestone cliffs and dark sand.",
+                  "category": "recreational",
+                  "coords": [
+                        33.27163,
+                        34.712318
                   ]
             }
       ]
@@ -12233,6 +12818,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.493376,
                         34.856439
                   ]
+            },
+            {
+                  "name": "Dreamland",
+                  "text": "Ein Freizeitpark in der Nähe des Solarparks von Tersefanou.",
+                  "category": "recreational",
+                  "coords": [
+                        33.557707,
+                        34.848246
+                  ]
             }
       ],
       "hu": [
@@ -12243,6 +12837,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.493376,
                         34.856439
+                  ]
+            },
+            {
+                  "name": "Dreamland",
+                  "text": "Vidámpark a tersefanoui naperőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.557707,
+                        34.848246
                   ]
             }
       ],
@@ -12255,6 +12858,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.493376,
                         34.856439
                   ]
+            },
+            {
+                  "name": "Dreamland",
+                  "text": "Un parc de distracții în apropierea parcului solar din Tersefanou.",
+                  "category": "recreational",
+                  "coords": [
+                        33.557707,
+                        34.848246
+                  ]
             }
       ],
       "en": [
@@ -12265,6 +12877,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.493376,
                         34.856439
+                  ]
+            },
+            {
+                  "name": "Dreamland",
+                  "text": "A theme park located near the Tersefanou Solar Park.",
+                  "category": "recreational",
+                  "coords": [
+                        33.557707,
+                        34.848246
                   ]
             }
       ]
@@ -13624,7 +14245,232 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-agia-triada-fishing-shelter-extra", "sights": {"de": [{"name": "Firemans Beach", "text": "Der Firemans Beach am Fischerhafen Agia Triada ist eine kleine, geschützte Bucht mit besonderem Reiz. Die umgebenden Felsen verleihen dem Küstenabschnitt eine gemütliche und private Atmosphäre. Gäste können hier hervorragend im Mittelmeer schwimmen oder einfach die Aussicht auf die Boote genießen. Für einen unbeschwerten Badetag in authentischer Umgebung ist diese kleine Bucht eine exzellente Wahl.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay liegt bei Agia Triada.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "Ebenfalls in der Nähe von Agia Triada gelegen, bietet der Vrisoudia Beach wunderbare Bedingungen für Strandliebhaber. Der feine Sand und das ruhige Wasser machen diesen Abschnitt zu einem Anziehungspunkt für entspannte Schwimmstunden. Die beschauliche Atmosphäre zieht Ruhesuchende an, die dem Alltag entfliehen möchten. Ein Sonnenschirm und ein gutes Buch komplettieren das Stranderlebnis an diesem schönen Ort.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "Die Paralia Armyropigado liegt malerisch eingebettet in der Nähe des gemütlichen Fischerhafens Agia Triada auf Zypern. Besucher erwartet hier eine entspannte Küstenatmosphäre, die sich hervorragend zum ausgiebigen Schwimmen und Sonnenbaden eignet. Der sanfte Rhythmus des nahegelegenen Hafens verleiht dem Ort einen charmanten, authentischen Charakter. Ein Besuch am frühen Vormittag bietet sich an, um die friedliche Morgenstimmung in vollen Zügen zu genießen.", "category": "recreational", "coords": [34.007397, 35.061342]}], "hu": [{"name": "Firemans Beach", "text": "Az Agia Triada halászkikötőjénél található Firemans Beach egy kicsi, védett öböl, amely különleges vonzerővel bír. A környező sziklák meghitt és privát hangulatot kölcsönöznek a partszakasznak. A vendégek kiválóan úszhatnak a Földközi-tengerben, vagy egyszerűen csak élvezhetik a csónakokra nyíló kilátást. Egy gondtalan, autentikus fürdőzéshez ez a kis öböl kitűnő választás.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay Agia Triada közelében található.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "A szintén az Agia Triada kikötője közelében fekvő Vrisoudia Beach csodálatos feltételeket kínál a strandok szerelmeseinek. A finom homok és a nyugodt víz ezt a részt a pihentető úszások vonzó helyszínévé teszi. A békés légkör vonzza azokat, akik a mindennapok elől szeretnének egy kis időre elmenekülni. Egy napernyő és egy jó könyv tökéletessé teszi az itt töltött tengerparti élményt.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "A Paralia Armyropigado festői környezetben fekszik a ciprusi Agia Triada halászkikötő közelében. Az idelátogatókat nyugodt tengerparti hangulat várja, amely tökéletes egy kiadós úszáshoz és napozáshoz. A közeli kikötő csendes ritmusa bájos, autentikus karaktert kölcsönöz a helynek. Érdemes a kora délelőtti órákban érkezni, hogy teljes mértékben kiélvezhesse a békés reggeli atmoszférát.", "category": "recreational", "coords": [34.007397, 35.061342]}], "ro": [{"name": "Firemans Beach", "text": "Plaja Firemans de la portul pescăresc Agia Triada este un golf mic, protejat, cu un farmec cu totul special. Stâncile din jur conferă acestei porțiuni de coastă o atmosferă confortabilă și intimă. Oaspeții pot înota excelent aici în Marea Mediterană sau pur și simplu se pot bucura de vederea la bărci. Pentru o zi de baie fără griji într-un cadru autentic, acest mic golf este o alegere excelentă.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay este lângă Agia Triada.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "Situată tot în apropiere de Agia Triada, plaja Vrisoudia oferă condiții minunate pentru iubitorii de litoral. Nisipul fin și apele calme fac din această porțiune un punct de atracție pentru sesiuni relaxante de înot. Atmosfera contemplativă atrage pe cei care caută liniște și doresc să scape de rutina zilnică. O umbrelă de soare și o carte bună completează experiența de plajă în acest loc frumos.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "Paralia Armyropigado este situată pitoresc în apropierea adăpostului pescăresc Agia Triada din Cipru. Vizitatorii se pot bucura de o atmosferă de coastă relaxantă, ideală pentru înot și băi de soare. Ritmul blând al portului din apropiere conferă locului un caracter fermecător și autentic. O vizită dimineața devreme este perfectă pentru a savura pe deplin liniștea matinală.", "category": "recreational", "coords": [34.007397, 35.061342]}], "en": [{"name": "Firemans Beach", "text": "Firemans Beach at the Agia Triada fishing shelter is a small, sheltered bay with a special appeal. The surrounding rocks lend this stretch of coastline a cozy and surprisingly private atmosphere. Guests can easily swim in the Mediterranean here or simply enjoy the charming view of the boats. For a carefree beach day in an authentic setting, this small cove is an excellent choice.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay is near Agia Triada.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "Also located near Agia Triada, Vrisoudia Beach provides wonderful conditions for beach lovers. The fine sand and calm waters make this section a true magnet for relaxing swimming sessions. The contemplative atmosphere draws in those seeking peace and quiet away from their daily routines. Bringing a sun umbrella and a good book will nicely complete your beach experience here.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "Paralia Armyropigado is picturesquely nestled near the charming Agia Triada Fishing Shelter in Cyprus. Visitors can expect a relaxed coastal atmosphere that is perfectly suited for swimming and soaking up the sun. The gentle rhythm of the nearby harbor gives the spot a delightfully authentic character. Arriving in the early morning is highly recommended to fully enjoy the peaceful seaside ambiance.", "category": "recreational", "coords": [34.007397, 35.061342]}]},
+    id: "port-agia-triada-fishing-shelter-extra", "sights": {
+      "de": [
+            {
+                  "name": "Firemans Beach",
+                  "text": "Der Firemans Beach am Fischerhafen Agia Triada ist eine kleine, geschützte Bucht mit besonderem Reiz. Die umgebenden Felsen verleihen dem Küstenabschnitt eine gemütliche und private Atmosphäre. Gäste können hier hervorragend im Mittelmeer schwimmen oder einfach die Aussicht auf die Boote genießen. Für einen unbeschwerten Badetag in authentischer Umgebung ist diese kleine Bucht eine exzellente Wahl.",
+                  "category": "recreational",
+                  "coords": [
+                        34.009504,
+                        35.059626
+                  ]
+            },
+            {
+                  "name": "Kapparis Bay",
+                  "text": "Kapparis Bay liegt bei Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011181,
+                        35.05848
+                  ]
+            },
+            {
+                  "name": "Vrisoudia Beach",
+                  "text": "Ebenfalls in der Nähe von Agia Triada gelegen, bietet der Vrisoudia Beach wunderbare Bedingungen für Strandliebhaber. Der feine Sand und das ruhige Wasser machen diesen Abschnitt zu einem Anziehungspunkt für entspannte Schwimmstunden. Die beschauliche Atmosphäre zieht Ruhesuchende an, die dem Alltag entfliehen möchten. Ein Sonnenschirm und ein gutes Buch komplettieren das Stranderlebnis an diesem schönen Ort.",
+                  "category": "recreational",
+                  "coords": [
+                        34.031602,
+                        35.04427
+                  ]
+            },
+            {
+                  "name": "Paralia Armyropigado",
+                  "text": "Die Paralia Armyropigado liegt malerisch eingebettet in der Nähe des gemütlichen Fischerhafens Agia Triada auf Zypern. Besucher erwartet hier eine entspannte Küstenatmosphäre, die sich hervorragend zum ausgiebigen Schwimmen und Sonnenbaden eignet. Der sanfte Rhythmus des nahegelegenen Hafens verleiht dem Ort einen charmanten, authentischen Charakter. Ein Besuch am frühen Vormittag bietet sich an, um die friedliche Morgenstimmung in vollen Zügen zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.007397,
+                        35.061342
+                  ]
+            },
+            {
+                  "name": "Trinity Beach | Agia Triada Beach",
+                  "text": "Trinity Beach ist ein malerischer Strand in der Nähe des Fischerhafens Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.022696,
+                        35.050834
+                  ]
+            },
+            {
+                  "name": "Skoutari Beach",
+                  "text": "Skoutari Beach ist ein kleiner, ruhiger Strandabschnitt bei Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015292,
+                        35.054901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Firemans Beach",
+                  "text": "Az Agia Triada halászkikötőjénél található Firemans Beach egy kicsi, védett öböl, amely különleges vonzerővel bír. A környező sziklák meghitt és privát hangulatot kölcsönöznek a partszakasznak. A vendégek kiválóan úszhatnak a Földközi-tengerben, vagy egyszerűen csak élvezhetik a csónakokra nyíló kilátást. Egy gondtalan, autentikus fürdőzéshez ez a kis öböl kitűnő választás.",
+                  "category": "recreational",
+                  "coords": [
+                        34.009504,
+                        35.059626
+                  ]
+            },
+            {
+                  "name": "Kapparis Bay",
+                  "text": "Kapparis Bay Agia Triada közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011181,
+                        35.05848
+                  ]
+            },
+            {
+                  "name": "Vrisoudia Beach",
+                  "text": "A szintén az Agia Triada kikötője közelében fekvő Vrisoudia Beach csodálatos feltételeket kínál a strandok szerelmeseinek. A finom homok és a nyugodt víz ezt a részt a pihentető úszások vonzó helyszínévé teszi. A békés légkör vonzza azokat, akik a mindennapok elől szeretnének egy kis időre elmenekülni. Egy napernyő és egy jó könyv tökéletessé teszi az itt töltött tengerparti élményt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.031602,
+                        35.04427
+                  ]
+            },
+            {
+                  "name": "Paralia Armyropigado",
+                  "text": "A Paralia Armyropigado festői környezetben fekszik a ciprusi Agia Triada halászkikötő közelében. Az idelátogatókat nyugodt tengerparti hangulat várja, amely tökéletes egy kiadós úszáshoz és napozáshoz. A közeli kikötő csendes ritmusa bájos, autentikus karaktert kölcsönöz a helynek. Érdemes a kora délelőtti órákban érkezni, hogy teljes mértékben kiélvezhesse a békés reggeli atmoszférát.",
+                  "category": "recreational",
+                  "coords": [
+                        34.007397,
+                        35.061342
+                  ]
+            },
+            {
+                  "name": "Trinity Beach | Agia Triada Beach",
+                  "text": "A Trinity Beach egy festői strand az Agia Triada halászkikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.022696,
+                        35.050834
+                  ]
+            },
+            {
+                  "name": "Skoutari Beach",
+                  "text": "A Skoutari Beach egy kisebb, nyugodt tengerparti szakasz Agia Triada területén.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015292,
+                        35.054901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Firemans Beach",
+                  "text": "Plaja Firemans de la portul pescăresc Agia Triada este un golf mic, protejat, cu un farmec cu totul special. Stâncile din jur conferă acestei porțiuni de coastă o atmosferă confortabilă și intimă. Oaspeții pot înota excelent aici în Marea Mediterană sau pur și simplu se pot bucura de vederea la bărci. Pentru o zi de baie fără griji într-un cadru autentic, acest mic golf este o alegere excelentă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.009504,
+                        35.059626
+                  ]
+            },
+            {
+                  "name": "Kapparis Bay",
+                  "text": "Kapparis Bay este lângă Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011181,
+                        35.05848
+                  ]
+            },
+            {
+                  "name": "Vrisoudia Beach",
+                  "text": "Situată tot în apropiere de Agia Triada, plaja Vrisoudia oferă condiții minunate pentru iubitorii de litoral. Nisipul fin și apele calme fac din această porțiune un punct de atracție pentru sesiuni relaxante de înot. Atmosfera contemplativă atrage pe cei care caută liniște și doresc să scape de rutina zilnică. O umbrelă de soare și o carte bună completează experiența de plajă în acest loc frumos.",
+                  "category": "recreational",
+                  "coords": [
+                        34.031602,
+                        35.04427
+                  ]
+            },
+            {
+                  "name": "Paralia Armyropigado",
+                  "text": "Paralia Armyropigado este situată pitoresc în apropierea adăpostului pescăresc Agia Triada din Cipru. Vizitatorii se pot bucura de o atmosferă de coastă relaxantă, ideală pentru înot și băi de soare. Ritmul blând al portului din apropiere conferă locului un caracter fermecător și autentic. O vizită dimineața devreme este perfectă pentru a savura pe deplin liniștea matinală.",
+                  "category": "recreational",
+                  "coords": [
+                        34.007397,
+                        35.061342
+                  ]
+            },
+            {
+                  "name": "Trinity Beach | Agia Triada Beach",
+                  "text": "Trinity Beach este o plajă pitorească situată lângă adăpostul pescăresc Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.022696,
+                        35.050834
+                  ]
+            },
+            {
+                  "name": "Skoutari Beach",
+                  "text": "Skoutari Beach este o secțiune de plajă mică și liniștită în Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015292,
+                        35.054901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Firemans Beach",
+                  "text": "Firemans Beach at the Agia Triada fishing shelter is a small, sheltered bay with a special appeal. The surrounding rocks lend this stretch of coastline a cozy and surprisingly private atmosphere. Guests can easily swim in the Mediterranean here or simply enjoy the charming view of the boats. For a carefree beach day in an authentic setting, this small cove is an excellent choice.",
+                  "category": "recreational",
+                  "coords": [
+                        34.009504,
+                        35.059626
+                  ]
+            },
+            {
+                  "name": "Kapparis Bay",
+                  "text": "Kapparis Bay is near Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011181,
+                        35.05848
+                  ]
+            },
+            {
+                  "name": "Vrisoudia Beach",
+                  "text": "Also located near Agia Triada, Vrisoudia Beach provides wonderful conditions for beach lovers. The fine sand and calm waters make this section a true magnet for relaxing swimming sessions. The contemplative atmosphere draws in those seeking peace and quiet away from their daily routines. Bringing a sun umbrella and a good book will nicely complete your beach experience here.",
+                  "category": "recreational",
+                  "coords": [
+                        34.031602,
+                        35.04427
+                  ]
+            },
+            {
+                  "name": "Paralia Armyropigado",
+                  "text": "Paralia Armyropigado is picturesquely nestled near the charming Agia Triada Fishing Shelter in Cyprus. Visitors can expect a relaxed coastal atmosphere that is perfectly suited for swimming and soaking up the sun. The gentle rhythm of the nearby harbor gives the spot a delightfully authentic character. Arriving in the early morning is highly recommended to fully enjoy the peaceful seaside ambiance.",
+                  "category": "recreational",
+                  "coords": [
+                        34.007397,
+                        35.061342
+                  ]
+            },
+            {
+                  "name": "Trinity Beach | Agia Triada Beach",
+                  "text": "Trinity Beach is a scenic beach located near the Agia Triada fishing shelter.",
+                  "category": "recreational",
+                  "coords": [
+                        34.022696,
+                        35.050834
+                  ]
+            },
+            {
+                  "name": "Skoutari Beach",
+                  "text": "Skoutari Beach is a small, calm beach section in Agia Triada.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015292,
+                        35.054901
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [34.02, 35.04],
@@ -13672,7 +14518,88 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-pernera-harbour-extra", "sights": {"de": [{"name": "Polyxenia Beach", "text": "Unweit des Hafens von Pernera lädt der Polyxenia Beach zu erholsamen Stunden an der zypriotischen Küste ein. Die feine Strandkulisse bietet ideale Bedingungen für entspannte Spaziergänge am Wasser und erfrischende Badeeinheiten. Oft weht hier eine angenehme Brise, die an warmen Sommertagen willkommene Abkühlung verspricht. Besonders in der Ferienzeit ist dies ein lebhafter Ort, der sich gut für einen ausgedehnten Nachmittagsausflug eignet.", "category": "recreational", "coords": [34.043908, 35.03067]}], "hu": [{"name": "Polyxenia Beach", "text": "A pernerai kikötő közelében található Polyxenia Beach pihentető órákra csábít a ciprusi tengerparton. A finom homokos partszakasz ideális feltételeket kínál a kényelmes sétákhoz és a frissítő fürdőzéshez. Gyakran kellemes szellő fúj errefelé, amely a forró nyári napokon enyhülést hoz. Különösen a nyaralási szezonban ez egy élettel teli hely, amely nagyszerű célpont egy délutáni kikapcsolódáshoz.", "category": "recreational", "coords": [34.043908, 35.03067]}], "ro": [{"name": "Polyxenia Beach", "text": "Situată nu departe de portul Pernera, Polyxenia Beach vă invită la ore de relaxare pe coasta cipriotă. Peisajul plajei oferă condiții ideale pentru plimbări liniștite pe malul apei și sesiuni revigorante de înot. Adesea suflă o briză plăcută, care promite o răcorire binevenită în zilele călduroase de vară. Mai ales în sezonul estival, acesta este un loc animat, potrivit pentru o ieșire de după-amiază.", "category": "recreational", "coords": [34.043908, 35.03067]}], "en": [{"name": "Polyxenia Beach", "text": "Located just a short distance from Pernera Harbour, Polyxenia Beach invites visitors to spend relaxing hours along the Cypriot coast. The lovely beach setting provides ideal conditions for leisurely strolls by the water and refreshing swimming sessions. A pleasant sea breeze often blows here, offering welcome relief on warm summer days. It is a lively spot, particularly during the holiday season, making it a great destination for a leisurely afternoon outing.", "category": "recreational", "coords": [34.043908, 35.03067]}]},
+    id: "port-pernera-harbour-extra", "sights": {
+      "de": [
+            {
+                  "name": "Polyxenia Beach",
+                  "text": "Unweit des Hafens von Pernera lädt der Polyxenia Beach zu erholsamen Stunden an der zypriotischen Küste ein. Die feine Strandkulisse bietet ideale Bedingungen für entspannte Spaziergänge am Wasser und erfrischende Badeeinheiten. Oft weht hier eine angenehme Brise, die an warmen Sommertagen willkommene Abkühlung verspricht. Besonders in der Ferienzeit ist dies ein lebhafter Ort, der sich gut für einen ausgedehnten Nachmittagsausflug eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.043908,
+                        35.03067
+                  ]
+            },
+            {
+                  "name": "Potami Bay Beach",
+                  "text": "Potami Bay Beach ist eine Bucht mit Sandstrand im Bereich des Hafens von Pernera.",
+                  "category": "recreational",
+                  "coords": [
+                        34.045045,
+                        35.028716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polyxenia Beach",
+                  "text": "A pernerai kikötő közelében található Polyxenia Beach pihentető órákra csábít a ciprusi tengerparton. A finom homokos partszakasz ideális feltételeket kínál a kényelmes sétákhoz és a frissítő fürdőzéshez. Gyakran kellemes szellő fúj errefelé, amely a forró nyári napokon enyhülést hoz. Különösen a nyaralási szezonban ez egy élettel teli hely, amely nagyszerű célpont egy délutáni kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.043908,
+                        35.03067
+                  ]
+            },
+            {
+                  "name": "Potami Bay Beach",
+                  "text": "A Potami Bay Beach egy homokos öböl Pernera kikötőjének területén.",
+                  "category": "recreational",
+                  "coords": [
+                        34.045045,
+                        35.028716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polyxenia Beach",
+                  "text": "Situată nu departe de portul Pernera, Polyxenia Beach vă invită la ore de relaxare pe coasta cipriotă. Peisajul plajei oferă condiții ideale pentru plimbări liniștite pe malul apei și sesiuni revigorante de înot. Adesea suflă o briză plăcută, care promite o răcorire binevenită în zilele călduroase de vară. Mai ales în sezonul estival, acesta este un loc animat, potrivit pentru o ieșire de după-amiază.",
+                  "category": "recreational",
+                  "coords": [
+                        34.043908,
+                        35.03067
+                  ]
+            },
+            {
+                  "name": "Potami Bay Beach",
+                  "text": "Potami Bay Beach este un golf cu plajă de nisip în zona portului Pernera.",
+                  "category": "recreational",
+                  "coords": [
+                        34.045045,
+                        35.028716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polyxenia Beach",
+                  "text": "Located just a short distance from Pernera Harbour, Polyxenia Beach invites visitors to spend relaxing hours along the Cypriot coast. The lovely beach setting provides ideal conditions for leisurely strolls by the water and refreshing swimming sessions. A pleasant sea breeze often blows here, offering welcome relief on warm summer days. It is a lively spot, particularly during the holiday season, making it a great destination for a leisurely afternoon outing.",
+                  "category": "recreational",
+                  "coords": [
+                        34.043908,
+                        35.03067
+                  ]
+            },
+            {
+                  "name": "Potami Bay Beach",
+                  "text": "Potami Bay Beach is a sandy bay beach in the Pernera Harbour area.",
+                  "category": "recreational",
+                  "coords": [
+                        34.045045,
+                        35.028716
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [34.04, 35.02],
@@ -14466,6 +15393,15 @@ export const cyprusOtherPoi: POI[] = [
                         32.341594,
                         34.89173
                   ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "Ein bekannter Badeort auf Zypern, berühmt für seine Sandbucht.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
+                  ]
             }
       ],
       "hu": [
@@ -14530,6 +15466,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         32.341594,
                         34.89173
+                  ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "Ismert tengerparti üdülőhely Cipruson, amely homokos öbléről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
                   ]
             }
       ],
@@ -14596,6 +15541,15 @@ export const cyprusOtherPoi: POI[] = [
                         32.341594,
                         34.89173
                   ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "O stațiune balneară cunoscută din Cipru, celebră pentru golful său cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
+                  ]
             }
       ],
       "en": [
@@ -14660,6 +15614,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         32.341594,
                         34.89173
+                  ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "A well-known beach resort in Cyprus famous for its sandy cove.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
                   ]
             }
       ]
@@ -16065,7 +17028,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Les grottes marines d'Ayia Napa sont un exemple illustratif de l'histoire géologique de Chypre.", "La tectonique, l'érosion et l'altération ont façonné la formation.", "Des panneaux d'information expliquent les types de roches et les successions de couches.", "Les photographes apprécient les ambiances lumineuses particulières du site.", "Des sentiers balisés protègent les structures sensibles des dommages dus au piétinement.", "Des événements scientifiques « portes ouvertes » ont lieu occasionnellement.", "Le site offre un contraste bienvenu avec les journées à la plage ou en ville."],
     }, image: "/poi-images/landscape-sea-caves-ayia-napa-extra.webp"},
   {
-    id: "landscape-sea-caves-paphos-extra",
+    id: "landscape-sea-caves-paphos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Corallia Beach",
+                  "text": "Laourou Beach ist ein kleiner, goldener Sandstrand in der Nähe der berühmten Meereshöhlen von Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.359508,
+                        34.858037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Corallia Beach",
+                  "text": "A Laourou Beach egy apró, aranyhomokos tengerpart a híres paphoszi tengeri barlangok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.359508,
+                        34.858037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Corallia Beach",
+                  "text": "Laourou Beach este o mică plajă de nisip auriu situată lângă faimoasele peșteri marine din Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.359508,
+                        34.858037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laourou Beach",
+                  "text": "Laourou Beach is a small, golden sandy beach located near the famous sea caves of Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.359508,
+                        34.858037
+                  ]
+            }
+      ]
+},
     type: "geo",
     parent: "CY",
     coords: [32.35, 34.86],
@@ -16113,6 +17121,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.396556,
                         35.332893
                   ]
+            },
+            {
+                  "name": "Chamada Beach Club",
+                  "text": "Ein ruhiger Strand in Pentadaktylos (Kyrenia) Mountains, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.401694,
+                        35.333486
+                  ]
             }
       ],
       "hu": [
@@ -16123,6 +17140,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.396556,
                         35.332893
+                  ]
+            },
+            {
+                  "name": "Chamada Beach Club",
+                  "text": "Egy nyugodt tengerpart Pentadaktylos (Kyrenia) Mountains területén, amely kiváló kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.401694,
+                        35.333486
                   ]
             }
       ],
@@ -16135,6 +17161,15 @@ export const cyprusOtherPoi: POI[] = [
                         33.396556,
                         35.332893
                   ]
+            },
+            {
+                  "name": "Chamada Beach Club",
+                  "text": "O plajă liniștită în Pentadaktylos (Kyrenia) Mountains, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        33.401694,
+                        35.333486
+                  ]
             }
       ],
       "en": [
@@ -16145,6 +17180,15 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         33.396556,
                         35.332893
+                  ]
+            },
+            {
+                  "name": "Chamada Beach Club",
+                  "text": "A calm beach in Pentadaktylos (Kyrenia) Mountains, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        33.401694,
+                        35.333486
                   ]
             }
       ]

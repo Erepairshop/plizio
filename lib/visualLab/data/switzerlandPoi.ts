@@ -20784,7 +20784,2716 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-schaffhausen", "sights": {"de": [{"name": "Schloss Laufen", "text": "Dieses Schloss oberhalb des Rheinfalls bietet eine spektakuläre Aussicht auf die Wasserfälle.", "category": "castle", "coords": [8.61495, 47.676798]}, {"name": "Rathauslaube", "text": "Das historische Rathaus von Schaffhausen ist bekannt für seine prächtige Architektur.", "category": "historical", "coords": [8.634273, 47.696141]}, {"name": "Stadttheater Schaffhausen", "text": "Ein bedeutendes Kulturzentrum in Schaffhausen, das ein vielfältiges Theaterprogramm bietet.", "category": "cultural", "coords": [8.633261, 47.695943]}, {"name": "Münster Schaffhausen", "text": "Das Münster Allerheiligen ist ein bedeutendes romanisches Kirchengebäude in Schaffhausen.", "category": "religious", "coords": [8.636418, 47.695271]}, {"name": "St. Leonhard", "text": "Eine Kirche in Feuerthalen bei Schaffhausen.", "category": "religious", "coords": [8.65238, 47.686735]}, {"name": "Rheinfall", "text": "Der größte Wasserfall Europas bei Schaffhausen.", "category": "landmark", "coords": [8.615072, 47.677719]}, {"name": "Schwabentor", "text": "Ein historischer Torturm der ehemaligen Stadtbefestigung von Schaffhausen.", "category": "tower", "coords": [8.63542, 47.699696]}, {"name": "Unterer Diebsturm", "text": "Ein historischer Turm der Stadtbefestigung in Schaffhausen.", "category": "tower", "coords": [8.632059, 47.694166]}, {"name": "Munotturm", "text": "Ein markanter Festungsturm und das Wahrzeichen von Schaffhausen.", "category": "tower", "coords": [8.639834, 47.696695]}, {"name": "Feuerthaler Brücke", "text": "Eine Brücke, die Schaffhausen mit Feuerthalen über den Rhein verbindet.", "category": "landmark", "coords": [8.64042, 47.694648]}, {"name": "Rheinbrücke A4", "text": "Eine Autobahnbrücke der A4 über den Rhein bei Schaffhausen.", "category": "landmark", "coords": [8.625717, 47.691875]}, {"name": "Rheinbrücke Feuerthalen", "text": "Eine Straßenbrücke über den Rhein zwischen Schaffhausen und Feuerthalen.", "category": "landmark", "coords": [8.643691, 47.69484]}, {"name": "Hörnliturm", "text": "Ein hölzerner Aussichtsturm auf dem Cholfirst bei Schaffhausen.", "category": "natural", "coords": [8.639788, 47.672391]}, {"name": "Museum im Zeughaus", "text": "Ein Museum in Schaffhausen, das sich der Schweizer Militär- und Technikgeschichte widmet.", "category": "museum", "coords": [8.624913, 47.701481]}, {"name": "Burgstelle Burgermösli", "text": "Die Überreste einer mittelalterlichen Burganlage in Schaffhausen.", "category": "castle", "coords": [8.658212, 47.679403]}, {"name": "Gemeindehaus Fürstengut", "text": "Ein Verwaltungsgebäude und Gemeindehaus in Schaffhausen.", "category": "historical", "coords": [8.643668, 47.693764]}, {"name": "Stadthaus", "text": "Das historische Rathaus und Verwaltungszentrum der Stadt Schaffhausen.", "category": "historical", "coords": [8.634473, 47.697108]}, {"name": "Ev. ref. Kirche Laufen am Rheinfall", "text": "Eine reformierte Kirche oberhalb des Rheinfalls bei Schaffhausen.", "category": "religious", "coords": [8.614531, 47.675864]}, {"name": "Reformierte Kirche", "text": "Ein reformiertes Kirchengebäude in Schaffhausen.", "category": "religious", "coords": [8.640995, 47.69091]}, {"name": "St. Johann", "text": "Eine bedeutende reformierte Stadtkirche in Schaffhausen.", "category": "religious", "coords": [8.636062, 47.696449]}, {"name": "St. Konrad", "text": "Eine katholische Kirche im Stadtteil Buchthalen von Schaffhausen.", "category": "religious", "coords": [8.647122, 47.700651]}, {"name": "Kirche Buchthalen", "text": "Die reformierte Kirche des Stadtteils Buchthalen in Schaffhausen.", "category": "religious", "coords": [8.657983, 47.696538]}, {"name": "Zwinglikirche", "text": "Eine nach dem Reformator Huldrych Zwingli benannte Kirche in Schaffhausen.", "category": "religious", "coords": [8.642442, 47.712608]}, {"name": "St. Peter", "text": "Eine christliche Kirche in Schaffhausen.", "category": "religious", "coords": [8.650021, 47.717018]}, {"name": "Katholische Kirche Heilig Kreuz", "text": "Eine römisch-katholische Kirche in Schaffhausen.", "category": "religious", "coords": [8.617218, 47.681778]}, {"name": "St. Maria", "text": "Eine katholische Kirche in der Stadt Schaffhausen.", "category": "religious", "coords": [8.62821, 47.695445]}, {"name": "Obertorturm", "text": "Ein historischer Torturm der ehemaligen Stadtbefestigung von Schaffhausen.", "category": "tower", "coords": [8.631783, 47.696749]}, {"name": "Cholfirst", "text": "Ein bewaldeter Hügelzug bei Schaffhausen mit zahlreichen Wanderwegen.", "category": "natural", "coords": [8.654574, 47.676641]}, {"name": "Sendeturm Cholfirst", "text": "Ein hoher Sendeturm auf dem Cholfirst, der als Aussichtspunkt dient.", "category": "natural", "coords": [8.646815, 47.681094]}, {"name": "Moser Familienmuseum Charlottenfels", "text": "Ein Museum im Schloss Charlottenfels, das der Industriellenfamilie Moser gewidmet ist.", "category": "museum", "coords": [8.621394, 47.690511]}, {"name": "Smilestones", "text": "Eine große Miniaturwelt in Schaffhausen, die Schweizer Sehenswürdigkeiten darstellt.", "category": "museum", "coords": [8.613561, 47.682645]}, {"name": "Rhyality Immersive Art Hall", "text": "Eine Kunsthalle in Schaffhausen, die immersive 360-Grad-Projektionen zeigt.", "category": "museum", "coords": [8.617942, 47.678241]}, {"name": "Die Diskette", "text": "Ein Museum in Schaffhausen, das sich der Geschichte der Computertechnik widmet.", "category": "museum", "coords": [8.64907, 47.693663]}, {"name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918", "text": "Ein Denkmal in Schaffhausen zum Dank Frankreichs an die Schweiz nach dem Ersten Weltkrieg.", "category": "historical", "coords": [8.62645, 47.694355]}, {"name": "Haberhaus", "text": "Ein Kulturzentrum und Theater in einem historischen Gebäude in Schaffhausen.", "category": "cultural", "coords": [8.631995, 47.695341]}, {"name": "Trottentheater", "text": "Ein lokales Theater in Schaffhausen.", "category": "cultural", "coords": [8.623792, 47.680693]}, {"name": "Fass-Galerie und -Bühne", "text": "Ein Zentrum für Kunst und Kultur mit Galerie und Bühne in Schaffhausen.", "category": "cultural", "coords": [8.636294, 47.698181]}, {"name": "Galerie Mera", "text": "Die Galerie Mera bereichert die kulturelle Landschaft der Schweizer Stadt Schaffhausen. Als etablierte Adresse für zeitgenössische Kunst präsentiert sie regelmäßig neue Werke. Kunstfreunde können in diesen Räumen wechselnde Ausstellungen moderner Kunstschaffender erleben.", "category": "cultural", "coords": [8.630394, 47.708651]}, {"name": "Mühlerad Bistro", "text": "Ein Bistro mit einem historischen Mühlerad in Schaffhausen.", "category": "landmark", "coords": [8.615297, 47.678798]}, {"name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli", "text": "Ein Naturschutzgebiet bei Schaffhausen mit geologischer und ökologischer Bedeutung.", "category": "natural", "coords": [8.63755, 47.673291]}, {"name": "Urwerf", "text": "Ein Naturschutzgebiet in der Region Schaffhausen.", "category": "natural", "coords": [8.622161, 47.695205]}, {"name": "Sonnenhalde/Tüfelschuchi", "text": "Ein Naturschutzgebiet mit vielfältiger Flora und Fauna bei Schaffhausen.", "category": "natural", "coords": [8.59801, 47.697951]}, {"name": "Känzeli", "text": "Ein Aussichtspunkt in Schaffhausen.", "category": "natural", "coords": [8.631089, 47.701328]}, {"name": "Alpenzeiger Hohflue", "text": "Ein Aussichtspunkt bei Schaffhausen mit weitem Blick auf die Alpen.", "category": "natural", "coords": [8.616352, 47.69273]}, {"name": "Aussichtspunkt Rheinweg", "text": "Ein Aussichtspunkt am Rheinweg in Schaffhausen.", "category": "natural", "coords": [8.617001, 47.678193]}, {"name": "Fenisberg", "text": "Ein Aussichtspunkt in der Nähe von Schaffhausen.", "category": "natural", "coords": [8.669262, 47.682794]}, {"name": "Aussichtspunkt Rheinfallstrasse", "text": "Ein Aussichtspunkt an der Rheinfallstrasse mit Blick auf die Wasserfälle.", "category": "natural", "coords": [8.612654, 47.680181]}, {"name": "Ängiwäiher", "text": "Ein malerischer Weiher in Schaffhausen, der zur Entspannung in der Natur einlädt.", "category": "natural", "coords": [8.607505, 47.702132]}, {"name": "Galgenbuck", "text": "Ein weitläufiger Spielplatz in Schaffhausen für Familienausflüge.", "category": "family", "coords": [8.613706, 47.688642]}, {"name": "Spielplatz Burgunvilla", "text": "Ein schöner Spielplatz in Schaffhausen für Kinder zum Klettern und Toben.", "category": "family", "coords": [8.621731, 47.685484]}, {"name": "Waldspielplatz Niklausen", "text": "Ein idyllischer Waldspielplatz in Schaffhausen für naturnahes Spielen.", "category": "family", "coords": [8.658125, 47.711802]}, {"name": "Liebenfels", "text": "Ein städtischer Spielplatz in Schaffhausen für eine spielerische Auszeit.", "category": "family", "coords": [8.617459, 47.695327]}, {"name": "Goldbergstrasse", "text": "Ein öffentlicher Kinderspielplatz in Schaffhausen mit verschiedenen Geräten.", "category": "family", "coords": [8.617055, 47.69108]}, {"name": "Steingutschulhof", "text": "Ein Spielplatz auf einem Schulhof in Schaffhausen für Spiel und Bewegung.", "category": "family", "coords": [8.645683, 47.714262]}, {"name": "Spielplatz Hohenstoffel", "text": "Ein gut ausgestatteter Spielplatz in Schaffhausen für aktiven Kinderspaß.", "category": "family", "coords": [8.644648, 47.705393]}, {"name": "Spielplatz Niklausenplatz", "text": "Ein zentral gelegener Spielplatz in Schaffhausen für kleine Pausen.", "category": "family", "coords": [8.64813, 47.705289]}, {"name": "Spielplatz Rittergut", "text": "Ein kinderfreundlicher Spielplatz in Schaffhausen in einer angenehmen Umgebung.", "category": "family", "coords": [8.635071, 47.703677]}, {"name": "Spielplatz Krebsbach", "text": "Ein attraktiver Spielbereich in Schaffhausen für Nachmittage im Freien.", "category": "family", "coords": [8.638069, 47.707265]}, {"name": "Breitenauwegli", "text": "Ein kleinerer Spielplatz in Schaffhausen, ideal für Familien in der Nähe.", "category": "family", "coords": [8.624527, 47.704374]}, {"name": "Spielplatz Blautraubenstrasse", "text": "Ein öffentlicher Spielplatz in Schaffhausen, der Kindern Platz zum Toben bietet.", "category": "family", "coords": [8.641634, 47.702731]}, {"name": "Spielplatz Furkastrasse", "text": "Ein abwechslungsreicher Kinderspielplatz in Schaffhausen für vielseitigen Spaß.", "category": "family", "coords": [8.65039, 47.695553]}, {"name": "Spielplatz Engi", "text": "Ein kinderfreundlicher Ort in Schaffhausen für Spiel und Begegnung.", "category": "family", "coords": [8.600872, 47.695727]}, {"name": "Spielplatz Munotpromenade", "text": "Ein schön gelegener Spielplatz in Schaffhausen mit Blick auf die Umgebung.", "category": "family", "coords": [8.641272, 47.69765]}, {"name": "Spielplatz Ringstrasse", "text": "Ein städtischer Spielplatz in Schaffhausen für Kinder zum Entdecken.", "category": "family", "coords": [8.643638, 47.699268]}, {"name": "Spielplatz Kyburgweg", "text": "Ein kleiner Spielplatz in Schaffhausen, der zum kurzen Verweilen einlädt.", "category": "family", "coords": [8.657595, 47.689705]}, {"name": "Spielplatz im Lahn", "text": "Ein schöner Spielplatz in Schaffhausen für Spielspaß an der frischen Luft.", "category": "family", "coords": [8.616689, 47.70583]}, {"name": "Spielplatz Fäsenstaub", "text": "Ein gut ausgestatteter Spielplatz in Schaffhausen für Kinder zum Austoben.", "category": "family", "coords": [8.629284, 47.694853]}, {"name": "Spielplatz Klingenstrasse", "text": "Ein öffentlicher Kinderspielplatz in Schaffhausen für abwechslungsreiche Stunden.", "category": "family", "coords": [8.632949, 47.708551]}, {"name": "Spielplatz Gega", "text": "Ein kinderfreundlicher Spielbereich in Schaffhausen für gemeinsames Spielen.", "category": "family", "coords": [8.637146, 47.700107]}, {"name": "Freibad Otterstall", "text": "Sport- und Freibadanlage in Schaffhausen.", "category": "family", "coords": [8.607445, 47.678668]}, {"name": "Mannenhägli", "text": "Lokales Schwimmbad in Schaffhausen.", "category": "family", "coords": [8.638489, 47.694247]}, {"name": "Freizeitanlage Rheinwiese", "text": "Freizeitanlage mit Aktivitäten am Wasser in Schaffhausen.", "category": "family", "coords": [8.658072, 47.686755]}, {"name": "Kinderhägli", "text": "Kleines Becken für Kinder in Schaffhausen.", "category": "family", "coords": [8.637229, 47.693911]}, {"name": "Hallenbad Stumpenboden", "text": "Hallen-Wasserpark für Familien in Schaffhausen.", "category": "family", "coords": [8.647918, 47.687419]}], "hu": [{"name": "Schloss Laufen", "text": "A Rajna-vízesés feletti kastély látványos kilátást nyújt a vízesésekre.", "category": "castle", "coords": [8.61495, 47.676798]}, {"name": "Rathauslaube", "text": "Schaffhausen történelmi városházája pompás építészetéről ismert.", "category": "historical", "coords": [8.634273, 47.696141]}, {"name": "Stadttheater Schaffhausen", "text": "Schaffhausen jelentős kulturális központja, amely változatos színházi programokat kínál.", "category": "cultural", "coords": [8.633261, 47.695943]}, {"name": "Münster Schaffhausen", "text": "A Mindenszentek-székesegyház jelentős román stílusú templomépület Schaffhausenben.", "category": "religious", "coords": [8.636418, 47.695271]}, {"name": "St. Leonhard", "text": "Templom Schaffhausen közelében, Feuerthalenben.", "category": "religious", "coords": [8.65238, 47.686735]}, {"name": "Rheinfall", "text": "Európa legnagyobb vízesése Schaffhausen közelében.", "category": "landmark", "coords": [8.615072, 47.677719]}, {"name": "Schwabentor", "text": "Schaffhausen egykori városfalának egyik történelmi kaputornya.", "category": "tower", "coords": [8.63542, 47.699696]}, {"name": "Unterer Diebsturm", "text": "Történelmi bástyatorony Schaffhausen városfalában.", "category": "tower", "coords": [8.632059, 47.694166]}, {"name": "Munotturm", "text": "Schaffhausen jellegzetes erődtornya és jelképe.", "category": "tower", "coords": [8.639834, 47.696695]}, {"name": "Feuerthaler Brücke", "text": "Schaffhausent és Feuerthalent összekötő híd a Rajna felett.", "category": "landmark", "coords": [8.64042, 47.694648]}, {"name": "Rheinbrücke A4", "text": "Az A4-es autópálya Rajna feletti hídja Schaffhausennél.", "category": "landmark", "coords": [8.625717, 47.691875]}, {"name": "Rheinbrücke Feuerthalen", "text": "Schaffhausen és Feuerthalen közötti közúti híd a Rajna felett.", "category": "landmark", "coords": [8.643691, 47.69484]}, {"name": "Hörnliturm", "text": "Fából készült kilátótorony a Cholfirst-hegyen, Schaffhausen közelében.", "category": "natural", "coords": [8.639788, 47.672391]}, {"name": "Museum im Zeughaus", "text": "Schaffhauseni múzeum, amely a svájci haditechnika és technológia történetét mutatja be.", "category": "museum", "coords": [8.624913, 47.701481]}, {"name": "Burgstelle Burgermösli", "text": "Egy középkori várhely maradványai Schaffhausenben.", "category": "castle", "coords": [8.658212, 47.679403]}, {"name": "Gemeindehaus Fürstengut", "text": "Közigazgatási épület és polgármesteri hivatal Schaffhausenben.", "category": "historical", "coords": [8.643668, 47.693764]}, {"name": "Stadthaus", "text": "Schaffhausen történelmi városházája és közigazgatási központja.", "category": "historical", "coords": [8.634473, 47.697108]}, {"name": "Ev. ref. Kirche Laufen am Rheinfall", "text": "Református templom a Rajna-vízesés felett, Schaffhausen közelében.", "category": "religious", "coords": [8.614531, 47.675864]}, {"name": "Reformierte Kirche", "text": "Református templomépület Schaffhausenben.", "category": "religious", "coords": [8.640995, 47.69091]}, {"name": "St. Johann", "text": "Schaffhausen egyik jelentős református városi temploma.", "category": "religious", "coords": [8.636062, 47.696449]}, {"name": "St. Konrad", "text": "Katolikus templom Schaffhausen Buchthalen negyedében.", "category": "religious", "coords": [8.647122, 47.700651]}, {"name": "Kirche Buchthalen", "text": "Schaffhausen Buchthalen városrészének református temploma.", "category": "religious", "coords": [8.657983, 47.696538]}, {"name": "Zwinglikirche", "text": "Huldrych Zwingli reformátorról elnevezett templom Schaffhausenben.", "category": "religious", "coords": [8.642442, 47.712608]}, {"name": "St. Peter", "text": "Keresztény templom Schaffhausenben.", "category": "religious", "coords": [8.650021, 47.717018]}, {"name": "Katholische Kirche Heilig Kreuz", "text": "Római katolikus templom Schaffhausenben.", "category": "religious", "coords": [8.617218, 47.681778]}, {"name": "St. Maria", "text": "Katolikus templom Schaffhausen városában.", "category": "religious", "coords": [8.62821, 47.695445]}, {"name": "Obertorturm", "text": "Schaffhausen egykori városfalának egyik történelmi kaputornya.", "category": "tower", "coords": [8.631783, 47.696749]}, {"name": "Cholfirst", "text": "Erdős dombság Schaffhausen közelében, számos túraútvonallal.", "category": "natural", "coords": [8.654574, 47.676641]}, {"name": "Sendeturm Cholfirst", "text": "Magas rádiótorony a Cholfirst-hegyen, amely kilátóként is funkcionál.", "category": "natural", "coords": [8.646815, 47.681094]}, {"name": "Moser Familienmuseum Charlottenfels", "text": "Az iparos Moser családnak szentelt múzeum a Charlottenfels-kastélyban.", "category": "museum", "coords": [8.621394, 47.690511]}, {"name": "Smilestones", "text": "Nagyszabású makettvilág Schaffhausenben, amely svájci látnivalókat mutat be.", "category": "museum", "coords": [8.613561, 47.682645]}, {"name": "Rhyality Immersive Art Hall", "text": "Művészeti csarnok Schaffhausenben, amely magával ragadó 360 fokos vetítéseket mutat be.", "category": "museum", "coords": [8.617942, 47.678241]}, {"name": "Die Diskette", "text": "Schaffhauseni múzeum, amely a számítástechnika történetével foglalkozik.", "category": "museum", "coords": [8.64907, 47.693663]}, {"name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918", "text": "Emlékmű Schaffhausenben, amellyel Franciaország fejezte ki háláját Svájcnak az első világháború után.", "category": "historical", "coords": [8.62645, 47.694355]}, {"name": "Haberhaus", "text": "Kulturális központ és színház egy történelmi épületben Schaffhausenben.", "category": "cultural", "coords": [8.631995, 47.695341]}, {"name": "Trottentheater", "text": "Helyi színház Schaffhausenben.", "category": "cultural", "coords": [8.623792, 47.680693]}, {"name": "Fass-Galerie und -Bühne", "text": "Művészeti és kulturális központ galériával és színpaddal Schaffhausenben.", "category": "cultural", "coords": [8.636294, 47.698181]}, {"name": "Galerie Mera", "text": "A Galerie Mera egy svájci kulturális intézmény Schaffhausen városában. A galéria a kortárs művészetek bemutatására fókuszál, izgalmas kiállításokkal várva az érdeklődőket. Az ide látogatók a legújabb modern művészeti alkotásokat csodálhatják meg egy inspiráló környezetben.", "category": "cultural", "coords": [8.630394, 47.708651]}, {"name": "Mühlerad Bistro", "text": "Bisztró egy történelmi malomkerékkel Schaffhausenben.", "category": "landmark", "coords": [8.615297, 47.678798]}, {"name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli", "text": "Természetvédelmi terület Schaffhausen közelében, geológiai és ökológiai jelentőséggel.", "category": "natural", "coords": [8.63755, 47.673291]}, {"name": "Urwerf", "text": "Természetvédelmi terület Schaffhausen régiójában.", "category": "natural", "coords": [8.622161, 47.695205]}, {"name": "Sonnenhalde/Tüfelschuchi", "text": "Természetvédelmi terület változatos növény- és állatvilággal Schaffhausen közelében.", "category": "natural", "coords": [8.59801, 47.697951]}, {"name": "Känzeli", "text": "Kilátóhely Schaffhausenben.", "category": "natural", "coords": [8.631089, 47.701328]}, {"name": "Alpenzeiger Hohflue", "text": "Kilátóhely Schaffhausen közelében, ahonnan messzire ellátni az Alpokig.", "category": "natural", "coords": [8.616352, 47.69273]}, {"name": "Aussichtspunkt Rheinweg", "text": "Kilátóhely a Schaffhausen-i Rheinwegen.", "category": "natural", "coords": [8.617001, 47.678193]}, {"name": "Fenisberg", "text": "Kilátóhely Schaffhausen környékén.", "category": "natural", "coords": [8.669262, 47.682794]}, {"name": "Aussichtspunkt Rheinfallstrasse", "text": "Kilátóhely a Rheinfallstrasse mentén, kilátással a vízesésre.", "category": "natural", "coords": [8.612654, 47.680181]}, {"name": "Ängiwäiher", "text": "Festői tó Schaffhausenben, amely természeti kikapcsolódásra hívogat.", "category": "natural", "coords": [8.607505, 47.702132]}, {"name": "Galgenbuck", "text": "Tágas játszótér Schaffhausenben családi kirándulásokhoz.", "category": "family", "coords": [8.613706, 47.688642]}, {"name": "Spielplatz Burgunvilla", "text": "Szép játszótér Schaffhausenben mászáshoz és hancúrozáshoz.", "category": "family", "coords": [8.621731, 47.685484]}, {"name": "Waldspielplatz Niklausen", "text": "Idilli erdei játszótér Schaffhausenben a természetközeli játékhoz.", "category": "family", "coords": [8.658125, 47.711802]}, {"name": "Liebenfels", "text": "Városi játszótér Schaffhausenben egy kis játékos kikapcsolódáshoz.", "category": "family", "coords": [8.617459, 47.695327]}, {"name": "Goldbergstrasse", "text": "Közterületi gyermekjátszótér Schaffhausenben különféle játékokkal.", "category": "family", "coords": [8.617055, 47.69108]}, {"name": "Steingutschulhof", "text": "Iskolai udvari játszótér Schaffhausenben játékhoz és mozgáshoz.", "category": "family", "coords": [8.645683, 47.714262]}, {"name": "Spielplatz Hohenstoffel", "text": "Jól felszerelt játszótér Schaffhausenben az aktív gyerekjátékhoz.", "category": "family", "coords": [8.644648, 47.705393]}, {"name": "Spielplatz Niklausenplatz", "text": "Központi fekvésű játszótér Schaffhausenben rövid pihenőkhöz.", "category": "family", "coords": [8.64813, 47.705289]}, {"name": "Spielplatz Rittergut", "text": "Gyerekbarát játszótér Schaffhausenben kellemes környezetben.", "category": "family", "coords": [8.635071, 47.703677]}, {"name": "Spielplatz Krebsbach", "text": "Vonzó játszóhely Schaffhausenben a szabadban töltött délutánokhoz.", "category": "family", "coords": [8.638069, 47.707265]}, {"name": "Breitenauwegli", "text": "Kisebb játszótér Schaffhausenben, ideális a közelben lakó családoknak.", "category": "family", "coords": [8.624527, 47.704374]}, {"name": "Spielplatz Blautraubenstrasse", "text": "Közterületi játszótér Schaffhausenben, amely teret ad a gyerekeknek a játékhoz.", "category": "family", "coords": [8.641634, 47.702731]}, {"name": "Spielplatz Furkastrasse", "text": "Változatos gyermekjátszótér Schaffhausenben a sokszínű szórakozáshoz.", "category": "family", "coords": [8.65039, 47.695553]}, {"name": "Spielplatz Engi", "text": "Gyerekbarát hely Schaffhausenben játékhoz és találkozáshoz.", "category": "family", "coords": [8.600872, 47.695727]}, {"name": "Spielplatz Munotpromenade", "text": "Szép fekvésű játszótér Schaffhausenben kilátással a környékre.", "category": "family", "coords": [8.641272, 47.69765]}, {"name": "Spielplatz Ringstrasse", "text": "Városi játszótér Schaffhausenben a felfedezni vágyó gyerekeknek.", "category": "family", "coords": [8.643638, 47.699268]}, {"name": "Spielplatz Kyburgweg", "text": "Kisebb játszótér Schaffhausenben, amely rövid pihenőre hívogat.", "category": "family", "coords": [8.657595, 47.689705]}, {"name": "Spielplatz im Lahn", "text": "Szép játszótér Schaffhausenben a friss levegőn való játékhoz.", "category": "family", "coords": [8.616689, 47.70583]}, {"name": "Spielplatz Fäsenstaub", "text": "Jól felszerelt játszótér Schaffhausenben a gyerekek számára.", "category": "family", "coords": [8.629284, 47.694853]}, {"name": "Spielplatz Klingenstrasse", "text": "Közterületi gyermekjátszótér Schaffhausenben a változatos időtöltéshez.", "category": "family", "coords": [8.632949, 47.708551]}, {"name": "Spielplatz Gega", "text": "Gyerekbarát játszóhely Schaffhausenben a közös játékhoz.", "category": "family", "coords": [8.637146, 47.700107]}, {"name": "Freibad Otterstall", "text": "Sport- és szabadtéri strand Schaffhausenben.", "category": "family", "coords": [8.607445, 47.678668]}, {"name": "Mannenhägli", "text": "Helyi úszómedence Schaffhausenben.", "category": "family", "coords": [8.638489, 47.694247]}, {"name": "Freizeitanlage Rheinwiese", "text": "Szabadidős központ vízi tevékenységekkel Schaffhausenben.", "category": "family", "coords": [8.658072, 47.686755]}, {"name": "Kinderhägli", "text": "Kis medence gyermekeknek Schaffhausenben.", "category": "family", "coords": [8.637229, 47.693911]}, {"name": "Hallenbad Stumpenboden", "text": "Fedett vízipark családoknak Schaffhausenben.", "category": "family", "coords": [8.647918, 47.687419]}], "ro": [{"name": "Schloss Laufen", "text": "Acest castel deasupra cascadei Rinului oferă o priveliște spectaculoasă asupra căderilor de apă.", "category": "castle", "coords": [8.61495, 47.676798]}, {"name": "Rathauslaube", "text": "Primăria istorică din Schaffhausen este cunoscută pentru arhitectura sa splendidă.", "category": "historical", "coords": [8.634273, 47.696141]}, {"name": "Stadttheater Schaffhausen", "text": "Un centru cultural important din Schaffhausen, care oferă un program teatral diversificat.", "category": "cultural", "coords": [8.633261, 47.695943]}, {"name": "Münster Schaffhausen", "text": "Catedrala Tuturor Sfinților este o clădire bisericească romanică importantă din Schaffhausen.", "category": "religious", "coords": [8.636418, 47.695271]}, {"name": "St. Leonhard", "text": "O biserică în Feuerthalen, lângă Schaffhausen.", "category": "religious", "coords": [8.65238, 47.686735]}, {"name": "Cascada Rinului", "text": "Cea mai mare cascadă din Europa, situată lângă Schaffhausen.", "category": "landmark", "coords": [8.615072, 47.677719]}, {"name": "Schwabentor", "text": "Un turn istoric de poartă din fosta fortificație a orașului Schaffhausen.", "category": "tower", "coords": [8.63542, 47.699696]}, {"name": "Unterer Diebsturm", "text": "Un turn istoric din fortificația orașului Schaffhausen.", "category": "tower", "coords": [8.632059, 47.694166]}, {"name": "Munotturm", "text": "Un turn de fortăreață proeminent și simbolul orașului Schaffhausen.", "category": "tower", "coords": [8.639834, 47.696695]}, {"name": "Feuerthaler Brücke", "text": "Un pod care leagă Schaffhausen de Feuerthalen peste Rin.", "category": "landmark", "coords": [8.64042, 47.694648]}, {"name": "Rheinbrücke A4", "text": "Un pod de autostradă al A4 peste Rin, lângă Schaffhausen.", "category": "landmark", "coords": [8.625717, 47.691875]}, {"name": "Rheinbrücke Feuerthalen", "text": "Un pod rutier peste Rin între Schaffhausen și Feuerthalen.", "category": "landmark", "coords": [8.643691, 47.69484]}, {"name": "Hörnliturm", "text": "Un turn de observație din lemn pe muntele Cholfirst, lângă Schaffhausen.", "category": "natural", "coords": [8.639788, 47.672391]}, {"name": "Museum im Zeughaus", "text": "Un muzeu din Schaffhausen dedicat istoriei militare și tehnice a Elveției.", "category": "museum", "coords": [8.624913, 47.701481]}, {"name": "Burgstelle Burgermösli", "text": "Rămășițele unei cetăți medievale din Schaffhausen.", "category": "castle", "coords": [8.658212, 47.679403]}, {"name": "Gemeindehaus Fürstengut", "text": "O clădire administrativă și primăria din Schaffhausen.", "category": "historical", "coords": [8.643668, 47.693764]}, {"name": "Stadthaus", "text": "Primăria istorică și centrul administrativ al orașului Schaffhausen.", "category": "historical", "coords": [8.634473, 47.697108]}, {"name": "Ev. ref. Kirche Laufen am Rheinfall", "text": "O biserică reformată situată deasupra Cascadei Rinului, lângă Schaffhausen.", "category": "religious", "coords": [8.614531, 47.675864]}, {"name": "Reformierte Kirche", "text": "O clădire bisericească reformată din Schaffhausen.", "category": "religious", "coords": [8.640995, 47.69091]}, {"name": "St. Johann", "text": "O importantă biserică reformată din orașul Schaffhausen.", "category": "religious", "coords": [8.636062, 47.696449]}, {"name": "St. Konrad", "text": "O biserică catolică din cartierul Buchthalen al orașului Schaffhausen.", "category": "religious", "coords": [8.647122, 47.700651]}, {"name": "Kirche Buchthalen", "text": "Biserica reformată din cartierul Buchthalen, Schaffhausen.", "category": "religious", "coords": [8.657983, 47.696538]}, {"name": "Zwinglikirche", "text": "O biserică numită după reformatorul Huldrych Zwingli din Schaffhausen.", "category": "religious", "coords": [8.642442, 47.712608]}, {"name": "St. Peter", "text": "O biserică creștină din Schaffhausen.", "category": "religious", "coords": [8.650021, 47.717018]}, {"name": "Katholische Kirche Heilig Kreuz", "text": "O biserică romano-catolică din Schaffhausen.", "category": "religious", "coords": [8.617218, 47.681778]}, {"name": "St. Maria", "text": "O biserică catolică din orașul Schaffhausen.", "category": "religious", "coords": [8.62821, 47.695445]}, {"name": "Obertorturm", "text": "Un turn istoric de poartă din fosta fortificație a orașului Schaffhausen.", "category": "tower", "coords": [8.631783, 47.696749]}, {"name": "Cholfirst", "text": "Un deal împădurit lângă Schaffhausen, cu numeroase trasee de drumeție.", "category": "natural", "coords": [8.654574, 47.676641]}, {"name": "Sendeturm Cholfirst", "text": "Un turn de transmisie înalt pe muntele Cholfirst, care servește drept punct de observație.", "category": "natural", "coords": [8.646815, 47.681094]}, {"name": "Moser Familienmuseum Charlottenfels", "text": "Un muzeu situat în castelul Charlottenfels, dedicat familiei de industriași Moser.", "category": "museum", "coords": [8.621394, 47.690511]}, {"name": "Smilestones", "text": "O lume miniaturală vastă din Schaffhausen, care prezintă obiective turistice elvețiene.", "category": "museum", "coords": [8.613561, 47.682645]}, {"name": "Rhyality Immersive Art Hall", "text": "O sală de artă din Schaffhausen care prezintă proiecții imersive la 360 de grade.", "category": "museum", "coords": [8.617942, 47.678241]}, {"name": "Die Diskette", "text": "Un muzeu din Schaffhausen dedicat istoriei tehnologiei computerelor.", "category": "museum", "coords": [8.64907, 47.693663]}, {"name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918", "text": "Un monument din Schaffhausen care marchează recunoștința Franței față de Elveția după Primul Război Mondial.", "category": "historical", "coords": [8.62645, 47.694355]}, {"name": "Haberhaus", "text": "Un centru cultural și teatru situat într-o clădire istorică din Schaffhausen.", "category": "cultural", "coords": [8.631995, 47.695341]}, {"name": "Trottentheater", "text": "Un teatru local din Schaffhausen.", "category": "cultural", "coords": [8.623792, 47.680693]}, {"name": "Fass-Galerie und -Bühne", "text": "Un centru de artă și cultură cu galerie și scenă în Schaffhausen.", "category": "cultural", "coords": [8.636294, 47.698181]}, {"name": "Galerie Mera", "text": "Galerie Mera este o destinație culturală importantă situată în orașul Schaffhausen din Elveția. Această galerie funcționează ca un spațiu vibrant pentru arta contemporană, atrăgând numeroși vizitatori. Cei pasionați de artă vor putea explora aici expoziții moderne și lucrări ale artiștilor actuali.", "category": "cultural", "coords": [8.630394, 47.708651]}, {"name": "Mühlerad Bistro", "text": "Un bistro cu o roată de moară istorică în Schaffhausen.", "category": "landmark", "coords": [8.615297, 47.678798]}, {"name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli", "text": "O rezervație naturală lângă Schaffhausen cu importanță geologică și ecologică.", "category": "natural", "coords": [8.63755, 47.673291]}, {"name": "Urwerf", "text": "O rezervație naturală din regiunea Schaffhausen.", "category": "natural", "coords": [8.622161, 47.695205]}, {"name": "Sonnenhalde/Tüfelschuchi", "text": "O rezervație naturală cu floră și faună diversă lângă Schaffhausen.", "category": "natural", "coords": [8.59801, 47.697951]}, {"name": "Känzeli", "text": "Un punct de observație în Schaffhausen.", "category": "natural", "coords": [8.631089, 47.701328]}, {"name": "Alpenzeiger Hohflue", "text": "Un punct de observație lângă Schaffhausen, cu o vedere panoramică spre Alpi.", "category": "natural", "coords": [8.616352, 47.69273]}, {"name": "Aussichtspunkt Rheinweg", "text": "Un punct de observație pe strada Rheinweg din Schaffhausen.", "category": "natural", "coords": [8.617001, 47.678193]}, {"name": "Fenisberg", "text": "Un punct de observație în apropiere de Schaffhausen.", "category": "natural", "coords": [8.669262, 47.682794]}, {"name": "Aussichtspunkt Rheinfallstrasse", "text": "Un punct de observație pe strada Rheinfallstrasse, cu vedere spre cascadă.", "category": "natural", "coords": [8.612654, 47.680181]}, {"name": "Ängiwäiher", "text": "Un lac pitoresc în Schaffhausen care invită la relaxare în natură.", "category": "natural", "coords": [8.607505, 47.702132]}, {"name": "Galgenbuck", "text": "Un loc de joacă spațios în Schaffhausen pentru ieșiri cu familia.", "category": "family", "coords": [8.613706, 47.688642]}, {"name": "Spielplatz Burgunvilla", "text": "Un loc de joacă frumos în Schaffhausen pentru copii, pentru cățărat și joacă.", "category": "family", "coords": [8.621731, 47.685484]}, {"name": "Waldspielplatz Niklausen", "text": "Un loc de joacă idilic în pădure în Schaffhausen pentru joacă în natură.", "category": "family", "coords": [8.658125, 47.711802]}, {"name": "Liebenfels", "text": "Un loc de joacă urban în Schaffhausen pentru o pauză distractivă.", "category": "family", "coords": [8.617459, 47.695327]}, {"name": "Goldbergstrasse", "text": "Un loc de joacă public pentru copii în Schaffhausen cu diverse echipamente.", "category": "family", "coords": [8.617055, 47.69108]}, {"name": "Steingutschulhof", "text": "Un loc de joacă în curtea unei școli din Schaffhausen pentru joacă și mișcare.", "category": "family", "coords": [8.645683, 47.714262]}, {"name": "Spielplatz Hohenstoffel", "text": "Un loc de joacă bine echipat în Schaffhausen pentru distracția activă a copiilor.", "category": "family", "coords": [8.644648, 47.705393]}, {"name": "Spielplatz Niklausenplatz", "text": "Un loc de joacă situat central în Schaffhausen pentru scurte pauze.", "category": "family", "coords": [8.64813, 47.705289]}, {"name": "Spielplatz Rittergut", "text": "Un loc de joacă prietenos cu copiii în Schaffhausen, într-un mediu plăcut.", "category": "family", "coords": [8.635071, 47.703677]}, {"name": "Spielplatz Krebsbach", "text": "O zonă de joacă atractivă în Schaffhausen pentru după-amiezi în aer liber.", "category": "family", "coords": [8.638069, 47.707265]}, {"name": "Breitenauwegli", "text": "Un loc de joacă mai mic în Schaffhausen, ideal pentru familiile din zonă.", "category": "family", "coords": [8.624527, 47.704374]}, {"name": "Spielplatz Blautraubenstrasse", "text": "Un loc de joacă public în Schaffhausen care oferă copiilor spațiu de mișcare.", "category": "family", "coords": [8.641634, 47.702731]}, {"name": "Spielplatz Furkastrasse", "text": "Un loc de joacă variat pentru copii în Schaffhausen pentru distracție diversă.", "category": "family", "coords": [8.65039, 47.695553]}, {"name": "Spielplatz Engi", "text": "Un loc prietenos cu copiii în Schaffhausen pentru joacă și socializare.", "category": "family", "coords": [8.600872, 47.695727]}, {"name": "Spielplatz Munotpromenade", "text": "Un loc de joacă frumos situat în Schaffhausen cu vedere spre împrejurimi.", "category": "family", "coords": [8.641272, 47.69765]}, {"name": "Spielplatz Ringstrasse", "text": "Un loc de joacă urban în Schaffhausen pentru copii exploratori.", "category": "family", "coords": [8.643638, 47.699268]}, {"name": "Spielplatz Kyburgweg", "text": "Un mic loc de joacă în Schaffhausen care invită la o scurtă oprire.", "category": "family", "coords": [8.657595, 47.689705]}, {"name": "Spielplatz im Lahn", "text": "Un loc de joacă frumos în Schaffhausen pentru joacă în aer liber.", "category": "family", "coords": [8.616689, 47.70583]}, {"name": "Spielplatz Fäsenstaub", "text": "Un loc de joacă bine echipat în Schaffhausen pentru copii.", "category": "family", "coords": [8.629284, 47.694853]}, {"name": "Spielplatz Klingenstrasse", "text": "Un loc de joacă public pentru copii în Schaffhausen pentru ore variate de distracție.", "category": "family", "coords": [8.632949, 47.708551]}, {"name": "Spielplatz Gega", "text": "O zonă de joacă prietenoasă cu copiii în Schaffhausen pentru joacă împreună.", "category": "family", "coords": [8.637146, 47.700107]}, {"name": "Freibad Otterstall", "text": "Complex sportiv și ștrand în Schaffhausen.", "category": "family", "coords": [8.607445, 47.678668]}, {"name": "Mannenhägli", "text": "Piscină locală în Schaffhausen.", "category": "family", "coords": [8.638489, 47.694247]}, {"name": "Freizeitanlage Rheinwiese", "text": "Zonă de recreere cu activități acvatice în Schaffhausen.", "category": "family", "coords": [8.658072, 47.686755]}, {"name": "Kinderhägli", "text": "Piscină mică pentru copii în Schaffhausen.", "category": "family", "coords": [8.637229, 47.693911]}, {"name": "Hallenbad Stumpenboden", "text": "Parc acvatic acoperit pentru familii în Schaffhausen.", "category": "family", "coords": [8.647918, 47.687419]}], "en": [{"name": "Schloss Laufen", "text": "This castle above the Rhine Falls offers spectacular views of the waterfalls.", "category": "castle", "coords": [8.61495, 47.676798]}, {"name": "Rathauslaube", "text": "The historical town hall of Schaffhausen is known for its magnificent architecture.", "category": "historical", "coords": [8.634273, 47.696141]}, {"name": "Stadttheater Schaffhausen", "text": "A significant cultural center in Schaffhausen offering a diverse theatrical program.", "category": "cultural", "coords": [8.633261, 47.695943]}, {"name": "Münster Schaffhausen", "text": "The All Saints Cathedral is a significant Romanesque church building in Schaffhausen.", "category": "religious", "coords": [8.636418, 47.695271]}, {"name": "St. Leonhard", "text": "A church located in Feuerthalen near Schaffhausen.", "category": "religious", "coords": [8.65238, 47.686735]}, {"name": "Rhine Falls", "text": "The largest waterfall in Europe, located near Schaffhausen.", "category": "landmark", "coords": [8.615072, 47.677719]}, {"name": "Schwabentor", "text": "A historic gate tower of the former city fortifications in Schaffhausen.", "category": "tower", "coords": [8.63542, 47.699696]}, {"name": "Unterer Diebsturm", "text": "A historic tower of the city fortifications in Schaffhausen.", "category": "tower", "coords": [8.632059, 47.694166]}, {"name": "Munotturm", "text": "A prominent fortress tower and the landmark of Schaffhausen.", "category": "tower", "coords": [8.639834, 47.696695]}, {"name": "Feuerthaler Brücke", "text": "A bridge connecting Schaffhausen with Feuerthalen across the Rhine.", "category": "landmark", "coords": [8.64042, 47.694648]}, {"name": "Rheinbrücke A4", "text": "A motorway bridge of the A4 crossing the Rhine near Schaffhausen.", "category": "landmark", "coords": [8.625717, 47.691875]}, {"name": "Rheinbrücke Feuerthalen", "text": "A road bridge over the Rhine between Schaffhausen and Feuerthalen.", "category": "landmark", "coords": [8.643691, 47.69484]}, {"name": "Hörnliturm", "text": "A wooden observation tower on the Cholfirst hill near Schaffhausen.", "category": "natural", "coords": [8.639788, 47.672391]}, {"name": "Museum im Zeughaus", "text": "A museum in Schaffhausen dedicated to Swiss military and technical history.", "category": "museum", "coords": [8.624913, 47.701481]}, {"name": "Burgstelle Burgermösli", "text": "The remains of a medieval castle site in Schaffhausen.", "category": "castle", "coords": [8.658212, 47.679403]}, {"name": "Gemeindehaus Fürstengut", "text": "An administrative building and town hall in Schaffhausen.", "category": "historical", "coords": [8.643668, 47.693764]}, {"name": "Stadthaus", "text": "The historic town hall and administrative center of the city of Schaffhausen.", "category": "historical", "coords": [8.634473, 47.697108]}, {"name": "Ev. ref. Kirche Laufen am Rheinfall", "text": "A reformed church located above the Rhine Falls near Schaffhausen.", "category": "religious", "coords": [8.614531, 47.675864]}, {"name": "Reformierte Kirche", "text": "A reformed church building in Schaffhausen.", "category": "religious", "coords": [8.640995, 47.69091]}, {"name": "St. Johann", "text": "A significant reformed city church in Schaffhausen.", "category": "religious", "coords": [8.636062, 47.696449]}, {"name": "St. Konrad", "text": "A Catholic church in the district of Buchthalen of Schaffhausen.", "category": "religious", "coords": [8.647122, 47.700651]}, {"name": "Kirche Buchthalen", "text": "The reformed church of the Buchthalen district in Schaffhausen.", "category": "religious", "coords": [8.657983, 47.696538]}, {"name": "Zwinglikirche", "text": "A church in Schaffhausen named after the reformer Huldrych Zwingli.", "category": "religious", "coords": [8.642442, 47.712608]}, {"name": "St. Peter", "text": "A Christian church located in Schaffhausen.", "category": "religious", "coords": [8.650021, 47.717018]}, {"name": "Katholische Kirche Heilig Kreuz", "text": "A Roman Catholic church in Schaffhausen.", "category": "religious", "coords": [8.617218, 47.681778]}, {"name": "St. Maria", "text": "A Catholic church in the city of Schaffhausen.", "category": "religious", "coords": [8.62821, 47.695445]}, {"name": "Obertorturm", "text": "A historic gate tower of the former city fortifications in Schaffhausen.", "category": "tower", "coords": [8.631783, 47.696749]}, {"name": "Cholfirst", "text": "A forested hill range near Schaffhausen with numerous hiking trails.", "category": "natural", "coords": [8.654574, 47.676641]}, {"name": "Sendeturm Cholfirst", "text": "A tall transmission tower on the Cholfirst hill that serves as a viewpoint.", "category": "natural", "coords": [8.646815, 47.681094]}, {"name": "Moser Familienmuseum Charlottenfels", "text": "A museum in Charlottenfels Castle dedicated to the Moser industrialist family.", "category": "museum", "coords": [8.621394, 47.690511]}, {"name": "Smilestones", "text": "A large miniature world in Schaffhausen depicting Swiss landmarks.", "category": "museum", "coords": [8.613561, 47.682645]}, {"name": "Rhyality Immersive Art Hall", "text": "An art hall in Schaffhausen featuring immersive 360-degree projections.", "category": "museum", "coords": [8.617942, 47.678241]}, {"name": "Die Diskette", "text": "A museum in Schaffhausen dedicated to the history of computer technology.", "category": "museum", "coords": [8.64907, 47.693663]}, {"name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918", "text": "A monument in Schaffhausen expressing France's gratitude to Switzerland after World War I.", "category": "historical", "coords": [8.62645, 47.694355]}, {"name": "Haberhaus", "text": "A cultural center and theatre located in a historic building in Schaffhausen.", "category": "cultural", "coords": [8.631995, 47.695341]}, {"name": "Trottentheater", "text": "A local theatre in Schaffhausen.", "category": "cultural", "coords": [8.623792, 47.680693]}, {"name": "Fass-Galerie und -Bühne", "text": "A center for art and culture featuring a gallery and stage in Schaffhausen.", "category": "cultural", "coords": [8.636294, 47.698181]}, {"name": "Galerie Mera", "text": "Galerie Mera serves as a cultural hub located in the Swiss city of Schaffhausen. This contemporary art gallery regularly displays new and engaging modern artworks. Guests visiting the venue can expect an inspiring look at current artistic trends through its various exhibitions.", "category": "cultural", "coords": [8.630394, 47.708651]}, {"name": "Mühlerad Bistro", "text": "A bistro featuring a historic mill wheel in Schaffhausen.", "category": "landmark", "coords": [8.615297, 47.678798]}, {"name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli", "text": "A nature reserve near Schaffhausen with geological and ecological significance.", "category": "natural", "coords": [8.63755, 47.673291]}, {"name": "Urwerf", "text": "A nature reserve located in the Schaffhausen region.", "category": "natural", "coords": [8.622161, 47.695205]}, {"name": "Sonnenhalde/Tüfelschuchi", "text": "A nature reserve with diverse flora and fauna near Schaffhausen.", "category": "natural", "coords": [8.59801, 47.697951]}, {"name": "Känzeli", "text": "A viewpoint in Schaffhausen.", "category": "natural", "coords": [8.631089, 47.701328]}, {"name": "Alpenzeiger Hohflue", "text": "A viewpoint near Schaffhausen offering far-reaching views of the Alps.", "category": "natural", "coords": [8.616352, 47.69273]}, {"name": "Aussichtspunkt Rheinweg", "text": "A viewpoint located on Rheinweg in Schaffhausen.", "category": "natural", "coords": [8.617001, 47.678193]}, {"name": "Fenisberg", "text": "A viewpoint in the vicinity of Schaffhausen.", "category": "natural", "coords": [8.669262, 47.682794]}, {"name": "Aussichtspunkt Rheinfallstrasse", "text": "A viewpoint on Rheinfallstrasse offering views of the falls.", "category": "natural", "coords": [8.612654, 47.680181]}, {"name": "Ängiwäiher", "text": "A picturesque lake in Schaffhausen inviting for relaxation in nature.", "category": "natural", "coords": [8.607505, 47.702132]}, {"name": "Galgenbuck", "text": "A spacious playground in Schaffhausen for family outings.", "category": "family", "coords": [8.613706, 47.688642]}, {"name": "Spielplatz Burgunvilla", "text": "A nice playground in Schaffhausen for children to climb and play.", "category": "family", "coords": [8.621731, 47.685484]}, {"name": "Waldspielplatz Niklausen", "text": "An idyllic forest playground in Schaffhausen for nature-oriented play.", "category": "family", "coords": [8.658125, 47.711802]}, {"name": "Liebenfels", "text": "A municipal playground in Schaffhausen for a playful break.", "category": "family", "coords": [8.617459, 47.695327]}, {"name": "Goldbergstrasse", "text": "A public children's playground in Schaffhausen with various equipment.", "category": "family", "coords": [8.617055, 47.69108]}, {"name": "Steingutschulhof", "text": "A playground on a schoolyard in Schaffhausen for play and exercise.", "category": "family", "coords": [8.645683, 47.714262]}, {"name": "Spielplatz Hohenstoffel", "text": "A well-equipped playground in Schaffhausen for active children's fun.", "category": "family", "coords": [8.644648, 47.705393]}, {"name": "Spielplatz Niklausenplatz", "text": "A centrally located playground in Schaffhausen for short breaks.", "category": "family", "coords": [8.64813, 47.705289]}, {"name": "Spielplatz Rittergut", "text": "A child-friendly playground in Schaffhausen in a pleasant environment.", "category": "family", "coords": [8.635071, 47.703677]}, {"name": "Spielplatz Krebsbach", "text": "An attractive play area in Schaffhausen for afternoons outdoors.", "category": "family", "coords": [8.638069, 47.707265]}, {"name": "Breitenauwegli", "text": "A smaller playground in Schaffhausen, ideal for local families.", "category": "family", "coords": [8.624527, 47.704374]}, {"name": "Spielplatz Blautraubenstrasse", "text": "A public playground in Schaffhausen offering children space to run and play.", "category": "family", "coords": [8.641634, 47.702731]}, {"name": "Spielplatz Furkastrasse", "text": "A varied children's playground in Schaffhausen for versatile fun.", "category": "family", "coords": [8.65039, 47.695553]}, {"name": "Spielplatz Engi", "text": "A child-friendly place in Schaffhausen for play and meeting.", "category": "family", "coords": [8.600872, 47.695727]}, {"name": "Spielplatz Munotpromenade", "text": "A beautifully located playground in Schaffhausen with views of the surroundings.", "category": "family", "coords": [8.641272, 47.69765]}, {"name": "Spielplatz Ringstrasse", "text": "A municipal playground in Schaffhausen for children to discover.", "category": "family", "coords": [8.643638, 47.699268]}, {"name": "Spielplatz Kyburgweg", "text": "A small playground in Schaffhausen inviting for a short stay.", "category": "family", "coords": [8.657595, 47.689705]}, {"name": "Spielplatz im Lahn", "text": "A nice playground in Schaffhausen for fun in the fresh air.", "category": "family", "coords": [8.616689, 47.70583]}, {"name": "Spielplatz Fäsenstaub", "text": "A well-equipped playground in Schaffhausen for children to let off steam.", "category": "family", "coords": [8.629284, 47.694853]}, {"name": "Spielplatz Klingenstrasse", "text": "A public children's playground in Schaffhausen for varied hours of fun.", "category": "family", "coords": [8.632949, 47.708551]}, {"name": "Spielplatz Gega", "text": "A child-friendly play area in Schaffhausen for playing together.", "category": "family", "coords": [8.637146, 47.700107]}, {"name": "Freibad Otterstall", "text": "Outdoor sports and swimming facility in Schaffhausen.", "category": "family", "coords": [8.607445, 47.678668]}, {"name": "Mannenhägli", "text": "Local swimming pool in Schaffhausen.", "category": "family", "coords": [8.638489, 47.694247]}, {"name": "Freizeitanlage Rheinwiese", "text": "Recreational area with water activities in Schaffhausen.", "category": "family", "coords": [8.658072, 47.686755]}, {"name": "Kinderhägli", "text": "Small pool for children in Schaffhausen.", "category": "family", "coords": [8.637229, 47.693911]}, {"name": "Hallenbad Stumpenboden", "text": "Indoor water park for families in Schaffhausen.", "category": "family", "coords": [8.647918, 47.687419]}]},
+    id: "city-schaffhausen", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "Dieses Schloss oberhalb des Rheinfalls bietet eine spektakuläre Aussicht auf die Wasserfälle.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "Das historische Rathaus von Schaffhausen ist bekannt für seine prächtige Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "Ein bedeutendes Kulturzentrum in Schaffhausen, das ein vielfältiges Theaterprogramm bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "Das Münster Allerheiligen ist ein bedeutendes romanisches Kirchengebäude in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "Eine Kirche in Feuerthalen bei Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Rheinfall",
+                  "text": "Der größte Wasserfall Europas bei Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "Ein historischer Torturm der ehemaligen Stadtbefestigung von Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "Ein historischer Turm der Stadtbefestigung in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "Ein markanter Festungsturm und das Wahrzeichen von Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "Eine Brücke, die Schaffhausen mit Feuerthalen über den Rhein verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "Eine Autobahnbrücke der A4 über den Rhein bei Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "Eine Straßenbrücke über den Rhein zwischen Schaffhausen und Feuerthalen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "Ein hölzerner Aussichtsturm auf dem Cholfirst bei Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "Ein Museum in Schaffhausen, das sich der Schweizer Militär- und Technikgeschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "Die Überreste einer mittelalterlichen Burganlage in Schaffhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "Ein Verwaltungsgebäude und Gemeindehaus in Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Das historische Rathaus und Verwaltungszentrum der Stadt Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "Eine reformierte Kirche oberhalb des Rheinfalls bei Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Ein reformiertes Kirchengebäude in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "Eine bedeutende reformierte Stadtkirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "Eine katholische Kirche im Stadtteil Buchthalen von Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "Die reformierte Kirche des Stadtteils Buchthalen in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "Eine nach dem Reformator Huldrych Zwingli benannte Kirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Eine christliche Kirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "Eine römisch-katholische Kirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "Eine katholische Kirche in der Stadt Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "Ein historischer Torturm der ehemaligen Stadtbefestigung von Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "Ein bewaldeter Hügelzug bei Schaffhausen mit zahlreichen Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "Ein hoher Sendeturm auf dem Cholfirst, der als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "Ein Museum im Schloss Charlottenfels, das der Industriellenfamilie Moser gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "Eine große Miniaturwelt in Schaffhausen, die Schweizer Sehenswürdigkeiten darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "Eine Kunsthalle in Schaffhausen, die immersive 360-Grad-Projektionen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "Ein Museum in Schaffhausen, das sich der Geschichte der Computertechnik widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "Ein Denkmal in Schaffhausen zum Dank Frankreichs an die Schweiz nach dem Ersten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "Ein Kulturzentrum und Theater in einem historischen Gebäude in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "Ein lokales Theater in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "Ein Zentrum für Kunst und Kultur mit Galerie und Bühne in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "Die Galerie Mera bereichert die kulturelle Landschaft der Schweizer Stadt Schaffhausen. Als etablierte Adresse für zeitgenössische Kunst präsentiert sie regelmäßig neue Werke. Kunstfreunde können in diesen Räumen wechselnde Ausstellungen moderner Kunstschaffender erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "Ein Bistro mit einem historischen Mühlerad in Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "Ein Naturschutzgebiet bei Schaffhausen mit geologischer und ökologischer Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "Ein Naturschutzgebiet in der Region Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "Ein Naturschutzgebiet mit vielfältiger Flora und Fauna bei Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "Ein Aussichtspunkt in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "Ein Aussichtspunkt bei Schaffhausen mit weitem Blick auf die Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "Ein Aussichtspunkt am Rheinweg in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "Ein Aussichtspunkt in der Nähe von Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "Ein Aussichtspunkt an der Rheinfallstrasse mit Blick auf die Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "Ein malerischer Weiher in Schaffhausen, der zur Entspannung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "Ein weitläufiger Spielplatz in Schaffhausen für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "Ein schöner Spielplatz in Schaffhausen für Kinder zum Klettern und Toben.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "Ein idyllischer Waldspielplatz in Schaffhausen für naturnahes Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "Ein städtischer Spielplatz in Schaffhausen für eine spielerische Auszeit.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "Ein öffentlicher Kinderspielplatz in Schaffhausen mit verschiedenen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "Ein Spielplatz auf einem Schulhof in Schaffhausen für Spiel und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "Ein gut ausgestatteter Spielplatz in Schaffhausen für aktiven Kinderspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "Ein zentral gelegener Spielplatz in Schaffhausen für kleine Pausen.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "Ein kinderfreundlicher Spielplatz in Schaffhausen in einer angenehmen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "Ein attraktiver Spielbereich in Schaffhausen für Nachmittage im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "Ein kleinerer Spielplatz in Schaffhausen, ideal für Familien in der Nähe.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "Ein öffentlicher Spielplatz in Schaffhausen, der Kindern Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "Ein abwechslungsreicher Kinderspielplatz in Schaffhausen für vielseitigen Spaß.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "Ein kinderfreundlicher Ort in Schaffhausen für Spiel und Begegnung.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "Ein schön gelegener Spielplatz in Schaffhausen mit Blick auf die Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "Ein städtischer Spielplatz in Schaffhausen für Kinder zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "Ein kleiner Spielplatz in Schaffhausen, der zum kurzen Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "Ein schöner Spielplatz in Schaffhausen für Spielspaß an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "Ein gut ausgestatteter Spielplatz in Schaffhausen für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "Ein öffentlicher Kinderspielplatz in Schaffhausen für abwechslungsreiche Stunden.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "Ein kinderfreundlicher Spielbereich in Schaffhausen für gemeinsames Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
+                  ]
+            },
+            {
+                  "name": "Freibad Otterstall",
+                  "text": "Sport- und Freibadanlage in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.607445,
+                        47.678668
+                  ]
+            },
+            {
+                  "name": "Mannenhägli",
+                  "text": "Lokales Schwimmbad in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.638489,
+                        47.694247
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Rheinwiese",
+                  "text": "Freizeitanlage mit Aktivitäten am Wasser in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.658072,
+                        47.686755
+                  ]
+            },
+            {
+                  "name": "Kinderhägli",
+                  "text": "Kleines Becken für Kinder in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.637229,
+                        47.693911
+                  ]
+            },
+            {
+                  "name": "Hallenbad Stumpenboden",
+                  "text": "Hallen-Wasserpark für Familien in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.647918,
+                        47.687419
+                  ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "Ein Sport- und Freizeitpark in Schaffhausen mit Hallen- und Freibad sowie Wellenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "A Rajna-vízesés feletti kastély látványos kilátást nyújt a vízesésekre.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "Schaffhausen történelmi városházája pompás építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "Schaffhausen jelentős kulturális központja, amely változatos színházi programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "A Mindenszentek-székesegyház jelentős román stílusú templomépület Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "Templom Schaffhausen közelében, Feuerthalenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Rheinfall",
+                  "text": "Európa legnagyobb vízesése Schaffhausen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "Schaffhausen egykori városfalának egyik történelmi kaputornya.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "Történelmi bástyatorony Schaffhausen városfalában.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "Schaffhausen jellegzetes erődtornya és jelképe.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "Schaffhausent és Feuerthalent összekötő híd a Rajna felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "Az A4-es autópálya Rajna feletti hídja Schaffhausennél.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "Schaffhausen és Feuerthalen közötti közúti híd a Rajna felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "Fából készült kilátótorony a Cholfirst-hegyen, Schaffhausen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "Schaffhauseni múzeum, amely a svájci haditechnika és technológia történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "Egy középkori várhely maradványai Schaffhausenben.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "Közigazgatási épület és polgármesteri hivatal Schaffhausenben.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Schaffhausen történelmi városházája és közigazgatási központja.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "Református templom a Rajna-vízesés felett, Schaffhausen közelében.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Református templomépület Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "Schaffhausen egyik jelentős református városi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "Katolikus templom Schaffhausen Buchthalen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "Schaffhausen Buchthalen városrészének református temploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "Huldrych Zwingli reformátorról elnevezett templom Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Keresztény templom Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "Római katolikus templom Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "Katolikus templom Schaffhausen városában.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "Schaffhausen egykori városfalának egyik történelmi kaputornya.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "Erdős dombság Schaffhausen közelében, számos túraútvonallal.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "Magas rádiótorony a Cholfirst-hegyen, amely kilátóként is funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "Az iparos Moser családnak szentelt múzeum a Charlottenfels-kastélyban.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "Nagyszabású makettvilág Schaffhausenben, amely svájci látnivalókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "Művészeti csarnok Schaffhausenben, amely magával ragadó 360 fokos vetítéseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "Schaffhauseni múzeum, amely a számítástechnika történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "Emlékmű Schaffhausenben, amellyel Franciaország fejezte ki háláját Svájcnak az első világháború után.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "Kulturális központ és színház egy történelmi épületben Schaffhausenben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "Helyi színház Schaffhausenben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "Művészeti és kulturális központ galériával és színpaddal Schaffhausenben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "A Galerie Mera egy svájci kulturális intézmény Schaffhausen városában. A galéria a kortárs művészetek bemutatására fókuszál, izgalmas kiállításokkal várva az érdeklődőket. Az ide látogatók a legújabb modern művészeti alkotásokat csodálhatják meg egy inspiráló környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "Bisztró egy történelmi malomkerékkel Schaffhausenben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "Természetvédelmi terület Schaffhausen közelében, geológiai és ökológiai jelentőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "Természetvédelmi terület Schaffhausen régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "Természetvédelmi terület változatos növény- és állatvilággal Schaffhausen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "Kilátóhely Schaffhausenben.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "Kilátóhely Schaffhausen közelében, ahonnan messzire ellátni az Alpokig.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "Kilátóhely a Schaffhausen-i Rheinwegen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "Kilátóhely Schaffhausen környékén.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "Kilátóhely a Rheinfallstrasse mentén, kilátással a vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "Festői tó Schaffhausenben, amely természeti kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "Tágas játszótér Schaffhausenben családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "Szép játszótér Schaffhausenben mászáshoz és hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "Idilli erdei játszótér Schaffhausenben a természetközeli játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "Városi játszótér Schaffhausenben egy kis játékos kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "Közterületi gyermekjátszótér Schaffhausenben különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "Iskolai udvari játszótér Schaffhausenben játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "Jól felszerelt játszótér Schaffhausenben az aktív gyerekjátékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "Központi fekvésű játszótér Schaffhausenben rövid pihenőkhöz.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "Gyerekbarát játszótér Schaffhausenben kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "Vonzó játszóhely Schaffhausenben a szabadban töltött délutánokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "Kisebb játszótér Schaffhausenben, ideális a közelben lakó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "Közterületi játszótér Schaffhausenben, amely teret ad a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "Változatos gyermekjátszótér Schaffhausenben a sokszínű szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "Gyerekbarát hely Schaffhausenben játékhoz és találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "Szép fekvésű játszótér Schaffhausenben kilátással a környékre.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "Városi játszótér Schaffhausenben a felfedezni vágyó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "Kisebb játszótér Schaffhausenben, amely rövid pihenőre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "Szép játszótér Schaffhausenben a friss levegőn való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "Jól felszerelt játszótér Schaffhausenben a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "Közterületi gyermekjátszótér Schaffhausenben a változatos időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "Gyerekbarát játszóhely Schaffhausenben a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
+                  ]
+            },
+            {
+                  "name": "Freibad Otterstall",
+                  "text": "Sport- és szabadtéri strand Schaffhausenben.",
+                  "category": "family",
+                  "coords": [
+                        8.607445,
+                        47.678668
+                  ]
+            },
+            {
+                  "name": "Mannenhägli",
+                  "text": "Helyi úszómedence Schaffhausenben.",
+                  "category": "family",
+                  "coords": [
+                        8.638489,
+                        47.694247
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Rheinwiese",
+                  "text": "Szabadidős központ vízi tevékenységekkel Schaffhausenben.",
+                  "category": "family",
+                  "coords": [
+                        8.658072,
+                        47.686755
+                  ]
+            },
+            {
+                  "name": "Kinderhägli",
+                  "text": "Kis medence gyermekeknek Schaffhausenben.",
+                  "category": "family",
+                  "coords": [
+                        8.637229,
+                        47.693911
+                  ]
+            },
+            {
+                  "name": "Hallenbad Stumpenboden",
+                  "text": "Fedett vízipark családoknak Schaffhausenben.",
+                  "category": "family",
+                  "coords": [
+                        8.647918,
+                        47.687419
+                  ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "Sport- és szabadidőpark Schaffhausenben fedett és szabadtéri medencékkel, valamint hullámmedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "Acest castel deasupra cascadei Rinului oferă o priveliște spectaculoasă asupra căderilor de apă.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "Primăria istorică din Schaffhausen este cunoscută pentru arhitectura sa splendidă.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "Un centru cultural important din Schaffhausen, care oferă un program teatral diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "Catedrala Tuturor Sfinților este o clădire bisericească romanică importantă din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "O biserică în Feuerthalen, lângă Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Cascada Rinului",
+                  "text": "Cea mai mare cascadă din Europa, situată lângă Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "Un turn istoric de poartă din fosta fortificație a orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "Un turn istoric din fortificația orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "Un turn de fortăreață proeminent și simbolul orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "Un pod care leagă Schaffhausen de Feuerthalen peste Rin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "Un pod de autostradă al A4 peste Rin, lângă Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "Un pod rutier peste Rin între Schaffhausen și Feuerthalen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "Un turn de observație din lemn pe muntele Cholfirst, lângă Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "Un muzeu din Schaffhausen dedicat istoriei militare și tehnice a Elveției.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "Rămășițele unei cetăți medievale din Schaffhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "O clădire administrativă și primăria din Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Primăria istorică și centrul administrativ al orașului Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "O biserică reformată situată deasupra Cascadei Rinului, lângă Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "O clădire bisericească reformată din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "O importantă biserică reformată din orașul Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "O biserică catolică din cartierul Buchthalen al orașului Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "Biserica reformată din cartierul Buchthalen, Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "O biserică numită după reformatorul Huldrych Zwingli din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "O biserică creștină din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "O biserică romano-catolică din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "O biserică catolică din orașul Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "Un turn istoric de poartă din fosta fortificație a orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "Un deal împădurit lângă Schaffhausen, cu numeroase trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "Un turn de transmisie înalt pe muntele Cholfirst, care servește drept punct de observație.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "Un muzeu situat în castelul Charlottenfels, dedicat familiei de industriași Moser.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "O lume miniaturală vastă din Schaffhausen, care prezintă obiective turistice elvețiene.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "O sală de artă din Schaffhausen care prezintă proiecții imersive la 360 de grade.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "Un muzeu din Schaffhausen dedicat istoriei tehnologiei computerelor.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "Un monument din Schaffhausen care marchează recunoștința Franței față de Elveția după Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "Un centru cultural și teatru situat într-o clădire istorică din Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "Un teatru local din Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "Un centru de artă și cultură cu galerie și scenă în Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "Galerie Mera este o destinație culturală importantă situată în orașul Schaffhausen din Elveția. Această galerie funcționează ca un spațiu vibrant pentru arta contemporană, atrăgând numeroși vizitatori. Cei pasionați de artă vor putea explora aici expoziții moderne și lucrări ale artiștilor actuali.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "Un bistro cu o roată de moară istorică în Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "O rezervație naturală lângă Schaffhausen cu importanță geologică și ecologică.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "O rezervație naturală din regiunea Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "O rezervație naturală cu floră și faună diversă lângă Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "Un punct de observație în Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "Un punct de observație lângă Schaffhausen, cu o vedere panoramică spre Alpi.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "Un punct de observație pe strada Rheinweg din Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "Un punct de observație în apropiere de Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "Un punct de observație pe strada Rheinfallstrasse, cu vedere spre cascadă.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "Un lac pitoresc în Schaffhausen care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "Un loc de joacă spațios în Schaffhausen pentru ieșiri cu familia.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "Un loc de joacă frumos în Schaffhausen pentru copii, pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "Un loc de joacă idilic în pădure în Schaffhausen pentru joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "Un loc de joacă urban în Schaffhausen pentru o pauză distractivă.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "Un loc de joacă public pentru copii în Schaffhausen cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "Un loc de joacă în curtea unei școli din Schaffhausen pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "Un loc de joacă bine echipat în Schaffhausen pentru distracția activă a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "Un loc de joacă situat central în Schaffhausen pentru scurte pauze.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "Un loc de joacă prietenos cu copiii în Schaffhausen, într-un mediu plăcut.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "O zonă de joacă atractivă în Schaffhausen pentru după-amiezi în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "Un loc de joacă mai mic în Schaffhausen, ideal pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "Un loc de joacă public în Schaffhausen care oferă copiilor spațiu de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "Un loc de joacă variat pentru copii în Schaffhausen pentru distracție diversă.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "Un loc prietenos cu copiii în Schaffhausen pentru joacă și socializare.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "Un loc de joacă frumos situat în Schaffhausen cu vedere spre împrejurimi.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "Un loc de joacă urban în Schaffhausen pentru copii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "Un mic loc de joacă în Schaffhausen care invită la o scurtă oprire.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "Un loc de joacă frumos în Schaffhausen pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "Un loc de joacă bine echipat în Schaffhausen pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "Un loc de joacă public pentru copii în Schaffhausen pentru ore variate de distracție.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "O zonă de joacă prietenoasă cu copiii în Schaffhausen pentru joacă împreună.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
+                  ]
+            },
+            {
+                  "name": "Freibad Otterstall",
+                  "text": "Complex sportiv și ștrand în Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.607445,
+                        47.678668
+                  ]
+            },
+            {
+                  "name": "Mannenhägli",
+                  "text": "Piscină locală în Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.638489,
+                        47.694247
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Rheinwiese",
+                  "text": "Zonă de recreere cu activități acvatice în Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.658072,
+                        47.686755
+                  ]
+            },
+            {
+                  "name": "Kinderhägli",
+                  "text": "Piscină mică pentru copii în Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.637229,
+                        47.693911
+                  ]
+            },
+            {
+                  "name": "Hallenbad Stumpenboden",
+                  "text": "Parc acvatic acoperit pentru familii în Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.647918,
+                        47.687419
+                  ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "Un parc sportiv și de agrement în Schaffhausen cu piscine acoperite și în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "This castle above the Rhine Falls offers spectacular views of the waterfalls.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "The historical town hall of Schaffhausen is known for its magnificent architecture.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "A significant cultural center in Schaffhausen offering a diverse theatrical program.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "The All Saints Cathedral is a significant Romanesque church building in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "A church located in Feuerthalen near Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Rhine Falls",
+                  "text": "The largest waterfall in Europe, located near Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "A historic gate tower of the former city fortifications in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "A historic tower of the city fortifications in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "A prominent fortress tower and the landmark of Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "A bridge connecting Schaffhausen with Feuerthalen across the Rhine.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "A motorway bridge of the A4 crossing the Rhine near Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "A road bridge over the Rhine between Schaffhausen and Feuerthalen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "A wooden observation tower on the Cholfirst hill near Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "A museum in Schaffhausen dedicated to Swiss military and technical history.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "The remains of a medieval castle site in Schaffhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "An administrative building and town hall in Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "The historic town hall and administrative center of the city of Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "A reformed church located above the Rhine Falls near Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "A reformed church building in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "A significant reformed city church in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "A Catholic church in the district of Buchthalen of Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "The reformed church of the Buchthalen district in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "A church in Schaffhausen named after the reformer Huldrych Zwingli.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "A Christian church located in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "A Roman Catholic church in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "A Catholic church in the city of Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "A historic gate tower of the former city fortifications in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "A forested hill range near Schaffhausen with numerous hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "A tall transmission tower on the Cholfirst hill that serves as a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "A museum in Charlottenfels Castle dedicated to the Moser industrialist family.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "A large miniature world in Schaffhausen depicting Swiss landmarks.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "An art hall in Schaffhausen featuring immersive 360-degree projections.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "A museum in Schaffhausen dedicated to the history of computer technology.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "A monument in Schaffhausen expressing France's gratitude to Switzerland after World War I.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "A cultural center and theatre located in a historic building in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "A local theatre in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "A center for art and culture featuring a gallery and stage in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "Galerie Mera serves as a cultural hub located in the Swiss city of Schaffhausen. This contemporary art gallery regularly displays new and engaging modern artworks. Guests visiting the venue can expect an inspiring look at current artistic trends through its various exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "A bistro featuring a historic mill wheel in Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "A nature reserve near Schaffhausen with geological and ecological significance.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "A nature reserve located in the Schaffhausen region.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "A nature reserve with diverse flora and fauna near Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "A viewpoint in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "A viewpoint near Schaffhausen offering far-reaching views of the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "A viewpoint located on Rheinweg in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "A viewpoint in the vicinity of Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "A viewpoint on Rheinfallstrasse offering views of the falls.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            },
+            {
+                  "name": "Ängiwäiher",
+                  "text": "A picturesque lake in Schaffhausen inviting for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.607505,
+                        47.702132
+                  ]
+            },
+            {
+                  "name": "Galgenbuck",
+                  "text": "A spacious playground in Schaffhausen for family outings.",
+                  "category": "family",
+                  "coords": [
+                        8.613706,
+                        47.688642
+                  ]
+            },
+            {
+                  "name": "Spielplatz Burgunvilla",
+                  "text": "A nice playground in Schaffhausen for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        8.621731,
+                        47.685484
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Niklausen",
+                  "text": "An idyllic forest playground in Schaffhausen for nature-oriented play.",
+                  "category": "family",
+                  "coords": [
+                        8.658125,
+                        47.711802
+                  ]
+            },
+            {
+                  "name": "Liebenfels",
+                  "text": "A municipal playground in Schaffhausen for a playful break.",
+                  "category": "family",
+                  "coords": [
+                        8.617459,
+                        47.695327
+                  ]
+            },
+            {
+                  "name": "Goldbergstrasse",
+                  "text": "A public children's playground in Schaffhausen with various equipment.",
+                  "category": "family",
+                  "coords": [
+                        8.617055,
+                        47.69108
+                  ]
+            },
+            {
+                  "name": "Steingutschulhof",
+                  "text": "A playground on a schoolyard in Schaffhausen for play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        8.645683,
+                        47.714262
+                  ]
+            },
+            {
+                  "name": "Spielplatz Hohenstoffel",
+                  "text": "A well-equipped playground in Schaffhausen for active children's fun.",
+                  "category": "family",
+                  "coords": [
+                        8.644648,
+                        47.705393
+                  ]
+            },
+            {
+                  "name": "Spielplatz Niklausenplatz",
+                  "text": "A centrally located playground in Schaffhausen for short breaks.",
+                  "category": "family",
+                  "coords": [
+                        8.64813,
+                        47.705289
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rittergut",
+                  "text": "A child-friendly playground in Schaffhausen in a pleasant environment.",
+                  "category": "family",
+                  "coords": [
+                        8.635071,
+                        47.703677
+                  ]
+            },
+            {
+                  "name": "Spielplatz Krebsbach",
+                  "text": "An attractive play area in Schaffhausen for afternoons outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.638069,
+                        47.707265
+                  ]
+            },
+            {
+                  "name": "Breitenauwegli",
+                  "text": "A smaller playground in Schaffhausen, ideal for local families.",
+                  "category": "family",
+                  "coords": [
+                        8.624527,
+                        47.704374
+                  ]
+            },
+            {
+                  "name": "Spielplatz Blautraubenstrasse",
+                  "text": "A public playground in Schaffhausen offering children space to run and play.",
+                  "category": "family",
+                  "coords": [
+                        8.641634,
+                        47.702731
+                  ]
+            },
+            {
+                  "name": "Spielplatz Furkastrasse",
+                  "text": "A varied children's playground in Schaffhausen for versatile fun.",
+                  "category": "family",
+                  "coords": [
+                        8.65039,
+                        47.695553
+                  ]
+            },
+            {
+                  "name": "Spielplatz Engi",
+                  "text": "A child-friendly place in Schaffhausen for play and meeting.",
+                  "category": "family",
+                  "coords": [
+                        8.600872,
+                        47.695727
+                  ]
+            },
+            {
+                  "name": "Spielplatz Munotpromenade",
+                  "text": "A beautifully located playground in Schaffhausen with views of the surroundings.",
+                  "category": "family",
+                  "coords": [
+                        8.641272,
+                        47.69765
+                  ]
+            },
+            {
+                  "name": "Spielplatz Ringstrasse",
+                  "text": "A municipal playground in Schaffhausen for children to discover.",
+                  "category": "family",
+                  "coords": [
+                        8.643638,
+                        47.699268
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kyburgweg",
+                  "text": "A small playground in Schaffhausen inviting for a short stay.",
+                  "category": "family",
+                  "coords": [
+                        8.657595,
+                        47.689705
+                  ]
+            },
+            {
+                  "name": "Spielplatz im Lahn",
+                  "text": "A nice playground in Schaffhausen for fun in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        8.616689,
+                        47.70583
+                  ]
+            },
+            {
+                  "name": "Spielplatz Fäsenstaub",
+                  "text": "A well-equipped playground in Schaffhausen for children to let off steam.",
+                  "category": "family",
+                  "coords": [
+                        8.629284,
+                        47.694853
+                  ]
+            },
+            {
+                  "name": "Spielplatz Klingenstrasse",
+                  "text": "A public children's playground in Schaffhausen for varied hours of fun.",
+                  "category": "family",
+                  "coords": [
+                        8.632949,
+                        47.708551
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gega",
+                  "text": "A child-friendly play area in Schaffhausen for playing together.",
+                  "category": "family",
+                  "coords": [
+                        8.637146,
+                        47.700107
+                  ]
+            },
+            {
+                  "name": "Freibad Otterstall",
+                  "text": "Outdoor sports and swimming facility in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.607445,
+                        47.678668
+                  ]
+            },
+            {
+                  "name": "Mannenhägli",
+                  "text": "Local swimming pool in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.638489,
+                        47.694247
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Rheinwiese",
+                  "text": "Recreational area with water activities in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.658072,
+                        47.686755
+                  ]
+            },
+            {
+                  "name": "Kinderhägli",
+                  "text": "Small pool for children in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.637229,
+                        47.693911
+                  ]
+            },
+            {
+                  "name": "Hallenbad Stumpenboden",
+                  "text": "Indoor water park for families in Schaffhausen.",
+                  "category": "family",
+                  "coords": [
+                        8.647918,
+                        47.687419
+                  ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "A sports and leisure park in Schaffhausen with indoor and outdoor pools, including a wave pool.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.6357, 47.6966],
@@ -26712,6 +29421,15 @@ export const switzerlandCities: POI[] = [
                         8.448438,
                         46.763417
                   ]
+            },
+            {
+                  "name": "Eienwäldli",
+                  "text": "Ein Schwimmbad am Fuße des Titlis, das zur Entspannung nach dem Wandern einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.422673,
+                        46.809767
+                  ]
             }
       ],
       "hu": [
@@ -26785,6 +29503,15 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.448438,
                         46.763417
+                  ]
+            },
+            {
+                  "name": "Eienwäldli",
+                  "text": "Úszómedence a Titlis lábánál, ideális pihenésre túrázás után.",
+                  "category": "recreational",
+                  "coords": [
+                        8.422673,
+                        46.809767
                   ]
             }
       ],
@@ -26860,6 +29587,15 @@ export const switzerlandCities: POI[] = [
                         8.448438,
                         46.763417
                   ]
+            },
+            {
+                  "name": "Eienwäldli",
+                  "text": "O piscină la poalele muntelui Titlis, invitând la relaxare după drumeție.",
+                  "category": "recreational",
+                  "coords": [
+                        8.422673,
+                        46.809767
+                  ]
             }
       ],
       "en": [
@@ -26933,6 +29669,15 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.448438,
                         46.763417
+                  ]
+            },
+            {
+                  "name": "Eienwäldli",
+                  "text": "A swimming pool at the base of Mount Titlis, offering relaxation after outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.422673,
+                        46.809767
                   ]
             }
       ]
@@ -29849,6 +32594,33 @@ export const switzerlandNature: POI[] = [
                         7.893296,
                         46.686069
                   ]
+            },
+            {
+                  "name": "Bödelibad",
+                  "text": "Das Bödelibad in Interlaken bietet sowohl Hallen- als auch Freibadbecken für sportliche Aktivitäten und Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        7.857142,
+                        46.690272
+                  ]
+            },
+            {
+                  "name": "Bödelibad Interlaken",
+                  "text": "Das Bödelibad Interlaken ist ein Wasserpark mit verschiedenen Rutschen und Becken, ideal für Familienausflüge.",
+                  "category": "recreational",
+                  "coords": [
+                        7.858197,
+                        46.690542
+                  ]
+            },
+            {
+                  "name": "Strandbad Bönigen",
+                  "text": "Das Strandbad Bönigen bei Interlaken bietet Badegästen einen schönen Zugang zum Brienzersee und moderne Freizeitanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.89565,
+                        46.690819
+                  ]
             }
       ],
       "hu": [
@@ -29922,6 +32694,33 @@ export const switzerlandNature: POI[] = [
                   "coords": [
                         7.893296,
                         46.686069
+                  ]
+            },
+            {
+                  "name": "Bödelibad",
+                  "text": "Az interlalkeni Bödelibad fedett és szabadtéri medencéket is kínál sportoláshoz és relaxációhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.857142,
+                        46.690272
+                  ]
+            },
+            {
+                  "name": "Bödelibad Interlaken",
+                  "text": "A Bödelibad Interlaken egy vízipark különféle csúszdákkal és medencékkel, amely ideális családi kirándulásokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.858197,
+                        46.690542
+                  ]
+            },
+            {
+                  "name": "Strandbad Bönigen",
+                  "text": "Az Interlaken melletti Bönigen strandja szép hozzáférést biztosít a Brienz-tóhoz és modern szabadidős létesítményekkel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        7.89565,
+                        46.690819
                   ]
             }
       ],
@@ -29997,6 +32796,33 @@ export const switzerlandNature: POI[] = [
                         7.893296,
                         46.686069
                   ]
+            },
+            {
+                  "name": "Bödelibad",
+                  "text": "Bödelibad din Interlaken oferă atât bazine acoperite, cât și în aer liber pentru activități sportive și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        7.857142,
+                        46.690272
+                  ]
+            },
+            {
+                  "name": "Bödelibad Interlaken",
+                  "text": "Bödelibad Interlaken este un parc acvatic cu diverse tobogane și bazine, ideal pentru excursii în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        7.858197,
+                        46.690542
+                  ]
+            },
+            {
+                  "name": "Strandbad Bönigen",
+                  "text": "Ștrandul Bönigen de lângă Interlaken oferă vizitatorilor un acces frumos la lacul Brienz și facilități moderne de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        7.89565,
+                        46.690819
+                  ]
             }
       ],
       "en": [
@@ -30070,6 +32896,33 @@ export const switzerlandNature: POI[] = [
                   "coords": [
                         7.893296,
                         46.686069
+                  ]
+            },
+            {
+                  "name": "Bödelibad",
+                  "text": "Bödelibad in Interlaken offers both indoor and outdoor pools for athletic activities and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        7.857142,
+                        46.690272
+                  ]
+            },
+            {
+                  "name": "Bödelibad Interlaken",
+                  "text": "Bödelibad Interlaken is a water park featuring various slides and pools, ideal for family outings.",
+                  "category": "recreational",
+                  "coords": [
+                        7.858197,
+                        46.690542
+                  ]
+            },
+            {
+                  "name": "Strandbad Bönigen",
+                  "text": "Strandbad Bönigen near Interlaken offers bathers beautiful access to Lake Brienz and modern leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.89565,
+                        46.690819
                   ]
             }
       ]

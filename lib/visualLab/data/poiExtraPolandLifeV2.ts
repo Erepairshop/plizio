@@ -959,6 +959,24 @@ export const polandLifeV2: POI[] = [
                         20.5499,
                         52.296258
                   ]
+            },
+            {
+                  "name": "Julinek Park",
+                  "text": "Ein Freizeitpark im Kampinos-Nationalpark, der auf dem Gelände einer ehemaligen Zirkusbasis errichtet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        20.592745,
+                        52.27598
+                  ]
+            },
+            {
+                  "name": "Wodny Park",
+                  "text": "Ein Wasserpark im Kampinos-Nationalpark mit Freizeitmöglichkeiten für Schwimmer und Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        20.590126,
+                        52.276271
+                  ]
             }
       ],
       "hu": [
@@ -1005,6 +1023,24 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.5499,
                         52.296258
+                  ]
+            },
+            {
+                  "name": "Julinek Park",
+                  "text": "Szórakoztató park a Kampinos Nemzeti Parkban, amely egy egykori cirkuszi bázis területén jött létre.",
+                  "category": "recreational",
+                  "coords": [
+                        20.592745,
+                        52.27598
+                  ]
+            },
+            {
+                  "name": "Wodny Park",
+                  "text": "Vízi park a Kampinos Nemzeti Parkban, amely kikapcsolódást nyújt az úszók és családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        20.590126,
+                        52.276271
                   ]
             }
       ],
@@ -1053,6 +1089,24 @@ export const polandLifeV2: POI[] = [
                         20.5499,
                         52.296258
                   ]
+            },
+            {
+                  "name": "Julinek Park",
+                  "text": "Un parc de distracții în Parcul Național Kampinos, construit pe locul unei foste baze de circ.",
+                  "category": "recreational",
+                  "coords": [
+                        20.592745,
+                        52.27598
+                  ]
+            },
+            {
+                  "name": "Wodny Park",
+                  "text": "Un parc acvatic în Parcul Național Kampinos, oferind facilități de agrement pentru înotători și familii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.590126,
+                        52.276271
+                  ]
             }
       ],
       "en": [
@@ -1099,6 +1153,24 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.5499,
                         52.296258
+                  ]
+            },
+            {
+                  "name": "Julinek Park",
+                  "text": "An amusement park in the Kampinos National Park, established on the grounds of a former circus base.",
+                  "category": "recreational",
+                  "coords": [
+                        20.592745,
+                        52.27598
+                  ]
+            },
+            {
+                  "name": "Wodny Park",
+                  "text": "A water park in the Kampinos National Park, providing recreational facilities for swimmers and families.",
+                  "category": "recreational",
+                  "coords": [
+                        20.590126,
+                        52.276271
                   ]
             }
       ]
@@ -1356,6 +1428,24 @@ export const polandLifeV2: POI[] = [
                         20.419253,
                         49.442686
                   ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "Ein Themenpark im Pieniny-Nationalpark, der Unterhaltung für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "Ein Miniaturpark im Pieniny-Nationalpark, der Modelle bekannter Marienheiligtümer zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
+                  ]
             }
       ],
       "hu": [
@@ -1429,6 +1519,24 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.419253,
                         49.442686
+                  ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "Vidámpark a Pieniny Nemzeti Parkban, szórakozást kínálva a családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "Miniatűrpark a Pieniny Nemzeti Parkban, amely híres Mária-kegyhelyek makettjeit mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
                   ]
             }
       ],
@@ -1504,6 +1612,24 @@ export const polandLifeV2: POI[] = [
                         20.419253,
                         49.442686
                   ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "Un parc tematic în Parcul Național Pieniny, oferind divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "Un parc de miniaturi în Parcul Național Pieniny, prezentând machete ale unor sanctuare mariane.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
+                  ]
             }
       ],
       "en": [
@@ -1577,6 +1703,24 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.419253,
                         49.442686
+                  ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "A theme park in the Pieniny National Park, offering entertainment and activities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "A miniature park in the Pieniny National Park showcasing models of famous Marian sanctuaries.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
                   ]
             }
       ]
@@ -1653,6 +1797,15 @@ export const polandLifeV2: POI[] = [
                         23.087121,
                         53.983785
                   ]
+            },
+            {
+                  "name": "Kąpielisko Piaski",
+                  "text": "Das Kąpielisko Piaski ist ein ausgewiesener Badebereich im Nationalpark Wigry, der Naturerlebnis mit Wasserspaß verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141343,
+                        54.030527
+                  ]
             }
       ],
       "hu": [
@@ -1681,6 +1834,15 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         23.087121,
                         53.983785
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Piaski",
+                  "text": "A Kąpielisko Piaski egy kijelölt fürdőhely a Wigry Nemzeti Parkban, amely a természet élményét vízi szórakozással ötvözi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141343,
+                        54.030527
                   ]
             }
       ],
@@ -1711,6 +1873,15 @@ export const polandLifeV2: POI[] = [
                         23.087121,
                         53.983785
                   ]
+            },
+            {
+                  "name": "Kąpielisko Piaski",
+                  "text": "Kąpielisko Piaski este o zonă de scăldat desemnată în Parcul Național Wigry, îmbinând experiența naturii cu distracția acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141343,
+                        54.030527
+                  ]
             }
       ],
       "en": [
@@ -1739,6 +1910,15 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         23.087121,
                         53.983785
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Piaski",
+                  "text": "Kąpielisko Piaski is a designated swimming area in Wigry National Park, combining nature experience with water fun.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141343,
+                        54.030527
                   ]
             }
       ]
@@ -2193,6 +2373,33 @@ export const polandLifeV2: POI[] = [
                         14.446564,
                         53.925669
                   ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "Kąpielisko Wschód ist ein Badebereich im Nationalpark Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "Kąpielisko Zachód ist ein Badebereich im Nationalpark Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Bałtycki Park Miniatur",
+                  "text": "Der Bałtycki Park Miniatur ist ein Themenpark im Nationalpark Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.43421,
+                        53.915582
+                  ]
             }
       ],
       "hu": [
@@ -2257,6 +2464,33 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         14.446564,
                         53.925669
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "A Kąpielisko Wschód egy fürdőhely a Wolin Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "A Kąpielisko Zachód egy fürdőhely a Wolin Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Bałtycki Park Miniatur",
+                  "text": "A Bałtycki Park Miniatur egy tematikus park a Wolin Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.43421,
+                        53.915582
                   ]
             }
       ],
@@ -2323,6 +2557,33 @@ export const polandLifeV2: POI[] = [
                         14.446564,
                         53.925669
                   ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "Kąpielisko Wschód este o zonă de scăldat situată în Parcul Național Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "Kąpielisko Zachód este o zonă de scăldat situată în Parcul Național Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Bałtycki Park Miniatur",
+                  "text": "Bałtycki Park Miniatur este un parc tematic situat în Parcul Național Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.43421,
+                        53.915582
+                  ]
             }
       ],
       "en": [
@@ -2387,6 +2648,33 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         14.446564,
                         53.925669
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "Kąpielisko Wschód is a swimming area located in Wolin National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "Kąpielisko Zachód is a swimming area located in Wolin National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Bałtycki Park Miniatur",
+                  "text": "Bałtycki Park Miniatur is a theme park located in Wolin National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.43421,
+                        53.915582
                   ]
             }
       ]
@@ -4137,6 +4425,33 @@ export const polandLifeV2: POI[] = [
                         20.93447,
                         50.872531
                   ]
+            },
+            {
+                  "name": "Dworek Józefa Ozgi Michalskiego",
+                  "text": "Ein historisches Herrenhaus im Heiligkreuz-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        20.94754,
+                        50.850847
+                  ]
+            },
+            {
+                  "name": "Cmentarz parafialny",
+                  "text": "Ein Friedhof in der Nähe des Heiligkreuz-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        20.952109,
+                        50.851565
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Ein Freizeit- und Bildungspark in der Nähe des Nationalparks Świętokrzyski.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
             }
       ],
       "hu": [
@@ -4147,6 +4462,33 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.93447,
                         50.872531
+                  ]
+            },
+            {
+                  "name": "Dworek Józefa Ozgi Michalskiego",
+                  "text": "Történelmi udvarház a Szentkereszt Nemzeti Park területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.94754,
+                        50.850847
+                  ]
+            },
+            {
+                  "name": "Cmentarz parafialny",
+                  "text": "Temető a Szentkereszt Nemzeti Park közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.952109,
+                        50.851565
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Szórakoztató és oktatási park a Świętokrzyski Nemzeti Park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
                   ]
             }
       ],
@@ -4159,6 +4501,33 @@ export const polandLifeV2: POI[] = [
                         20.93447,
                         50.872531
                   ]
+            },
+            {
+                  "name": "Dworek Józefa Ozgi Michalskiego",
+                  "text": "Un conac istoric în Parcul Național Świętokrzyski.",
+                  "category": "historical",
+                  "coords": [
+                        20.94754,
+                        50.850847
+                  ]
+            },
+            {
+                  "name": "Cmentarz parafialny",
+                  "text": "Un cimitir situat în apropierea Parcului Național Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        20.952109,
+                        50.851565
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Un parc de distracții și educațional situat lângă Parcul Național Świętokrzyski.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
             }
       ],
       "en": [
@@ -4169,6 +4538,33 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.93447,
                         50.872531
+                  ]
+            },
+            {
+                  "name": "Dworek Józefa Ozgi Michalskiego",
+                  "text": "A historic manor house located in the Świętokrzyski National Park.",
+                  "category": "historical",
+                  "coords": [
+                        20.94754,
+                        50.850847
+                  ]
+            },
+            {
+                  "name": "Cmentarz parafialny",
+                  "text": "A cemetery located near the Świętokrzyski National Park.",
+                  "category": "religious",
+                  "coords": [
+                        20.952109,
+                        50.851565
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "An amusement and educational park located near the Świętokrzyski National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
                   ]
             }
       ]
@@ -4263,6 +4659,15 @@ export const polandLifeV2: POI[] = [
                         17.500418,
                         53.861378
                   ]
+            },
+            {
+                  "name": "plaża Małe Swornegacie",
+                  "text": "Eine Badestelle am Strand von Małe Swornegacie im Nationalpark Bory Tucholskie.",
+                  "category": "recreational",
+                  "coords": [
+                        17.49744,
+                        53.81658
+                  ]
             }
       ],
       "hu": [
@@ -4309,6 +4714,15 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         17.500418,
                         53.861378
+                  ]
+            },
+            {
+                  "name": "plaża Małe Swornegacie",
+                  "text": "Fürdőhely a Małe Swornegacie strandon, a Bory Tucholskie Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.49744,
+                        53.81658
                   ]
             }
       ],
@@ -4357,6 +4771,15 @@ export const polandLifeV2: POI[] = [
                         17.500418,
                         53.861378
                   ]
+            },
+            {
+                  "name": "plaża Małe Swornegacie",
+                  "text": "O zonă de înot pe plaja Małe Swornegacie din Parcul Național Bory Tucholskie.",
+                  "category": "recreational",
+                  "coords": [
+                        17.49744,
+                        53.81658
+                  ]
             }
       ],
       "en": [
@@ -4403,6 +4826,15 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         17.500418,
                         53.861378
+                  ]
+            },
+            {
+                  "name": "plaża Małe Swornegacie",
+                  "text": "A swimming area on the beach of Małe Swornegacie in the Bory Tucholskie National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        17.49744,
+                        53.81658
                   ]
             }
       ]

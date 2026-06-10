@@ -58,6 +58,15 @@ export const romaniaLifeV2: POI[] = [
                         28.268858,
                         45.190002
                   ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "Die Piscina Relax im Nationalpark Măcin-Gebirge bietet Badegästen eine ruhige Atmosphäre inmitten der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
+                  ]
             }
       ],
       "hu": [
@@ -113,6 +122,15 @@ export const romaniaLifeV2: POI[] = [
                   "coords": [
                         28.268858,
                         45.190002
+                  ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "A Măcin-hegység Nemzeti Parkban található Piscina Relax nyugodt környezetet kínál a fürdőzni vágyóknak a természet lágyán.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
                   ]
             }
       ],
@@ -170,6 +188,15 @@ export const romaniaLifeV2: POI[] = [
                         28.268858,
                         45.190002
                   ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "Piscina Relax din Parcul Național Munții Măcin oferă vizitatorilor o atmosferă liniștită în mijlocul naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
+                  ]
             }
       ],
       "en": [
@@ -225,6 +252,15 @@ export const romaniaLifeV2: POI[] = [
                   "coords": [
                         28.268858,
                         45.190002
+                  ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "Piscina Relax in the Măcin Mountains National Park offers bathers a peaceful atmosphere in the heart of nature.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
                   ]
             }
       ]
@@ -418,6 +454,15 @@ export const romaniaLifeV2: POI[] = [
                         25.928479,
                         46.118218
                   ]
+            },
+            {
+                  "name": "Ștrand mezotermal",
+                  "text": "Ein mesothermales Freibad im Naturschutzgebiet Tinovul Mohoș.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
+                  ]
             }
       ],
       "hu": [
@@ -473,6 +518,15 @@ export const romaniaLifeV2: POI[] = [
                   "coords": [
                         25.928479,
                         46.118218
+                  ]
+            },
+            {
+                  "name": "Mezotermál fürdő (=? Ilona fürdő /=? régi Rezső fürdő)",
+                  "text": "Mezotermális strand a Mohos-tőzegláp természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
                   ]
             }
       ],
@@ -530,6 +584,15 @@ export const romaniaLifeV2: POI[] = [
                         25.928479,
                         46.118218
                   ]
+            },
+            {
+                  "name": "Ștrand mezotermal",
+                  "text": "Un ștrand mezotermal situat în Rezervația Naturală Tinovul Mohoș.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
+                  ]
             }
       ],
       "en": [
@@ -585,6 +648,15 @@ export const romaniaLifeV2: POI[] = [
                   "coords": [
                         25.928479,
                         46.118218
+                  ]
+            },
+            {
+                  "name": "Ștrand mezotermal",
+                  "text": "A mesothermal public bath located in the Tinovul Mohoș Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
                   ]
             }
       ]

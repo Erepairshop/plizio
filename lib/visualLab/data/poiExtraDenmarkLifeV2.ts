@@ -1732,6 +1732,24 @@ export const denmarkLifeV2: POI[] = [
                         9.920982,
                         56.028683
                   ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Ein öffentliches Seebad im Skanderborger Seengebiet, ideal zum Schwimmen im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "Ein städtisches Badehaus, das Zugang zu den Gewässern der Skanderborger Seenplatte bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
+                  ]
             }
       ],
       "hu": [
@@ -1796,6 +1814,24 @@ export const denmarkLifeV2: POI[] = [
                   "coords": [
                         9.920982,
                         56.028683
+                  ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "Nyilvános tóparti fürdő a Skanderborg-tóvidéken, ideális szabadtéri úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "Városi fürdőház, amely hozzáférést biztosít a Skanderborg-tóvidék vizeihez.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
                   ]
             }
       ],
@@ -1862,6 +1898,24 @@ export const denmarkLifeV2: POI[] = [
                         9.920982,
                         56.028683
                   ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "O baie publică pe malul lacului în zona lacurilor Skanderborg, ideală pentru înot în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "O baie publică urbană care oferă acces la apele din districtul lacurilor Skanderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
+                  ]
             }
       ],
       "en": [
@@ -1926,6 +1980,24 @@ export const denmarkLifeV2: POI[] = [
                   "coords": [
                         9.920982,
                         56.028683
+                  ]
+            },
+            {
+                  "name": "Søbadet",
+                  "text": "A public lakeside bath in the Skanderborg Lake District, ideal for outdoor swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        9.926275,
+                        56.021892
+                  ]
+            },
+            {
+                  "name": "Bybadet",
+                  "text": "An urban bathhouse providing access to the waters of the Skanderborg Lake District.",
+                  "category": "recreational",
+                  "coords": [
+                        9.934422,
+                        56.035498
                   ]
             }
       ]

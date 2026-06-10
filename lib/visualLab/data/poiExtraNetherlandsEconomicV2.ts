@@ -220,6 +220,15 @@ export const netherlandsEconomicV2: POI[] = [
                         4.573401,
                         51.712571
                   ]
+            },
+            {
+                  "name": "Optisport zwembad De Niervaert",
+                  "text": "Ein modernes Schwimmbad im Hafen von Moerdijk mit Angeboten für Schwimmer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.536924,
+                        51.670103
+                  ]
             }
       ],
       "hu": [
@@ -257,6 +266,15 @@ export const netherlandsEconomicV2: POI[] = [
                   "coords": [
                         4.573401,
                         51.712571
+                  ]
+            },
+            {
+                  "name": "Optisport zwembad De Niervaert",
+                  "text": "Modern úszómedence Moerdijk kikötőjében, különböző úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.536924,
+                        51.670103
                   ]
             }
       ],
@@ -296,6 +314,15 @@ export const netherlandsEconomicV2: POI[] = [
                         4.573401,
                         51.712571
                   ]
+            },
+            {
+                  "name": "Optisport zwembad De Niervaert",
+                  "text": "O piscină modernă în Portul Moerdijk, oferind programe pentru înotători.",
+                  "category": "recreational",
+                  "coords": [
+                        4.536924,
+                        51.670103
+                  ]
             }
       ],
       "en": [
@@ -333,6 +360,15 @@ export const netherlandsEconomicV2: POI[] = [
                   "coords": [
                         4.573401,
                         51.712571
+                  ]
+            },
+            {
+                  "name": "Optisport zwembad De Niervaert",
+                  "text": "A modern swimming pool in the Port of Moerdijk with programs for swimmers.",
+                  "category": "recreational",
+                  "coords": [
+                        4.536924,
+                        51.670103
                   ]
             }
       ]
@@ -454,6 +490,42 @@ export const netherlandsEconomicV2: POI[] = [
                         4.238133,
                         51.955369
                   ]
+            },
+            {
+                  "name": "Dierenweide Maasdijk",
+                  "text": "Ein lokaler Streichelzoo in Maasdijk in der Gemeinde Westland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.213797,
+                        51.959664
+                  ]
+            },
+            {
+                  "name": "De Kiboe",
+                  "text": "Ein Kinderbauernhof und Zoo in der Region Greenport Westland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223772,
+                        52.025611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ein öffentlicher Kinderbauernhof mit heimischen Tieren.",
+                  "category": "recreational",
+                  "coords": [
+                        4.246282,
+                        51.978321
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij SKiP",
+                  "text": "Ein lokaler Streichelzoo mit Bildungsangeboten für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        4.220664,
+                        51.994901
+                  ]
             }
       ],
       "hu": [
@@ -527,6 +599,42 @@ export const netherlandsEconomicV2: POI[] = [
                   "coords": [
                         4.238133,
                         51.955369
+                  ]
+            },
+            {
+                  "name": "Dierenweide Maasdijk",
+                  "text": "Helyi állatsimogató Maasdijkban, Westland községben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.213797,
+                        51.959664
+                  ]
+            },
+            {
+                  "name": "De Kiboe",
+                  "text": "Gyermekfarm és állatkert a Greenport Westland régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223772,
+                        52.025611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Nyilvános gyermekfarm háziállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        4.246282,
+                        51.978321
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij SKiP",
+                  "text": "Helyi állatsimogató oktatási lehetőségekkel gyermekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        4.220664,
+                        51.994901
                   ]
             }
       ],
@@ -602,6 +710,42 @@ export const netherlandsEconomicV2: POI[] = [
                         4.238133,
                         51.955369
                   ]
+            },
+            {
+                  "name": "Dierenweide Maasdijk",
+                  "text": "O grădină zoologică locală în Maasdijk, în municipiul Westland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.213797,
+                        51.959664
+                  ]
+            },
+            {
+                  "name": "De Kiboe",
+                  "text": "O fermă pentru copii și grădină zoologică în regiunea Greenport Westland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223772,
+                        52.025611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "O fermă publică pentru copii cu animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        4.246282,
+                        51.978321
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij SKiP",
+                  "text": "O grădină zoologică locală cu oportunități educaționale pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        4.220664,
+                        51.994901
+                  ]
             }
       ],
       "en": [
@@ -675,6 +819,42 @@ export const netherlandsEconomicV2: POI[] = [
                   "coords": [
                         4.238133,
                         51.955369
+                  ]
+            },
+            {
+                  "name": "Dierenweide Maasdijk",
+                  "text": "A local petting zoo located in Maasdijk within the Westland municipality.",
+                  "category": "recreational",
+                  "coords": [
+                        4.213797,
+                        51.959664
+                  ]
+            },
+            {
+                  "name": "De Kiboe",
+                  "text": "A children's farm and zoo in the Greenport Westland region.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223772,
+                        52.025611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "A public children's farm featuring domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        4.246282,
+                        51.978321
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij SKiP",
+                  "text": "A local petting zoo with educational opportunities for children.",
+                  "category": "recreational",
+                  "coords": [
+                        4.220664,
+                        51.994901
                   ]
             }
       ]

@@ -1947,6 +1947,15 @@ export const czechrepublicLandmarksV2: POI[] = [
                         17.336436,
                         49.084925
                   ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "Ein Schwimmbad in der Nähe der mittelalterlichen Burg Buchlov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.316076,
+                        49.080117
+                  ]
             }
       ],
       "hu": [
@@ -2020,6 +2029,15 @@ export const czechrepublicLandmarksV2: POI[] = [
                   "coords": [
                         17.336436,
                         49.084925
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "Úszómedence a középkori Buchlov vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.316076,
+                        49.080117
                   ]
             }
       ],
@@ -2095,6 +2113,15 @@ export const czechrepublicLandmarksV2: POI[] = [
                         17.336436,
                         49.084925
                   ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "O piscină în apropierea castelului medieval Buchlov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.316076,
+                        49.080117
+                  ]
             }
       ],
       "en": [
@@ -2168,6 +2195,15 @@ export const czechrepublicLandmarksV2: POI[] = [
                   "coords": [
                         17.336436,
                         49.084925
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "A swimming pool facility located near the medieval Buchlov Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.316076,
+                        49.080117
                   ]
             }
       ]

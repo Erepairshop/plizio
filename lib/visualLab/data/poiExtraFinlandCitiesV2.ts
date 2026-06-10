@@ -1291,6 +1291,15 @@ export const finlandCitiesV2: POI[] = [
                         24.870001,
                         60.633337
                   ]
+            },
+            {
+                  "name": "Veteraanitalon uima-allas",
+                  "text": "Ein Schwimmbad in Hyvinkää, das Möglichkeiten zum Schwimmen und für Wassergymnastik bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.841961,
+                        60.629132
+                  ]
             }
       ],
       "hu": [
@@ -1679,6 +1688,15 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.870001,
                         60.633337
+                  ]
+            },
+            {
+                  "name": "Veteraanitalon uima-allas",
+                  "text": "Úszómedence Hyvinkääben, amely úszási és vízi gimnasztikai lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.841961,
+                        60.629132
                   ]
             }
       ],
@@ -2069,6 +2087,15 @@ export const finlandCitiesV2: POI[] = [
                         24.870001,
                         60.633337
                   ]
+            },
+            {
+                  "name": "Veteraanitalon uima-allas",
+                  "text": "O piscină în Hyvinkää, care oferă facilități pentru înot și gimnastică acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        24.841961,
+                        60.629132
+                  ]
             }
       ],
       "en": [
@@ -2457,6 +2484,15 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.870001,
                         60.633337
+                  ]
+            },
+            {
+                  "name": "Veteraanitalon uima-allas",
+                  "text": "A swimming pool in Hyvinkää offering facilities for swimming and water gymnastics.",
+                  "category": "recreational",
+                  "coords": [
+                        24.841961,
+                        60.629132
                   ]
             }
       ]
@@ -33736,6 +33772,15 @@ export const finlandCitiesV2: POI[] = [
                         25.38094,
                         65.197809
                   ]
+            },
+            {
+                  "name": "Siikasaaren uimaranta",
+                  "text": "Ein lokaler Badestrand in der finnischen Region Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.336043,
+                        65.190178
+                  ]
             }
       ],
       "hu": [
@@ -33854,6 +33899,15 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.38094,
                         65.197809
+                  ]
+            },
+            {
+                  "name": "Siikasaaren uimaranta",
+                  "text": "Helyi fürdőhely a finnországi Haukipudas régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.336043,
+                        65.190178
                   ]
             }
       ],
@@ -33974,6 +34028,15 @@ export const finlandCitiesV2: POI[] = [
                         25.38094,
                         65.197809
                   ]
+            },
+            {
+                  "name": "Siikasaaren uimaranta",
+                  "text": "O plajă locală pentru înot în regiunea finlandeză Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.336043,
+                        65.190178
+                  ]
             }
       ],
       "en": [
@@ -34092,6 +34155,15 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.38094,
                         65.197809
+                  ]
+            },
+            {
+                  "name": "Siikasaaren uimaranta",
+                  "text": "A local swimming beach in the Haukipudas region of Finland.",
+                  "category": "recreational",
+                  "coords": [
+                        25.336043,
+                        65.190178
                   ]
             }
       ]

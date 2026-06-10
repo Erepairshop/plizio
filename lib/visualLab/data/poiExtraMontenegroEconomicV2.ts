@@ -418,6 +418,33 @@ export const montenegroEconomicV2: POI[] = [
                         19.107447,
                         42.066069
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Öffentliche Badeeinrichtungen in Bar, in der Nähe des Hafengebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Ein Strandbereich in Bar, der in der Nähe des Hafens liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Der Stadtstrand von Bar am Hafen der montenegrinischen Küstenstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "hu": [
@@ -491,6 +518,33 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.107447,
                         42.066069
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Nyilvános fürdőhely Barban, a kikötő környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Tengerparti rész Barban, a kikötő közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Bar városi strandja a montenegrói kikötőváros partján.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ],
@@ -566,6 +620,33 @@ export const montenegroEconomicV2: POI[] = [
                         19.107447,
                         42.066069
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Facilități publice de scăldat în Bar, în apropierea zonei portuare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "O zonă de plajă în Bar, situată în apropierea portului.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Plaja orașului Bar, situată lângă portul acestui oraș de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "en": [
@@ -639,6 +720,33 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.107447,
                         42.066069
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Public bathing facilities in Bar, located near the port area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "A beach area in Bar located close to the harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "The city beach of Bar, located by the port of the Montenegrin coastal town.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ]
@@ -1291,6 +1399,24 @@ export const montenegroEconomicV2: POI[] = [
                         19.08941,
                         42.079958
                   ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Ein Küstenabschnitt in Bar, der als Erholungsort am Meer dient.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Der Hauptstrand der Stadt Bar, ideal für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "hu": [
@@ -1364,6 +1490,24 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.08941,
                         42.079958
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Tengerparti szakasz Bar városában, amely pihenőhelyként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Bar városának fő strandja, ideális a fürdőzők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ],
@@ -1439,6 +1583,24 @@ export const montenegroEconomicV2: POI[] = [
                         19.08941,
                         42.079958
                   ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "O porțiune de coastă în Bar, care servește ca loc de recreere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Plaja principală a orașului Bar, ideală pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "en": [
@@ -1512,6 +1674,24 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.08941,
                         42.079958
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "A coastal stretch in Bar serving as a seaside recreation spot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "The main city beach of Bar, ideal for swimmers and sunbathers.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ]
@@ -1669,6 +1849,51 @@ export const montenegroEconomicV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Ein Strandclub am Meer, der Entspannung in der Nähe des Jachthafens von Budva bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Eine Küstenresort-Anlage mit Strandzugang und Serviceleistungen in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Schwimmbad in einem Hotelkomplex in der Nähe des Jachthafens von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein Infinity-Pool und Club mit Panoramablick auf die Küste von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Ein Wasserpark auf einem Hügel mit verschiedenen Rutschen und Blick auf Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "hu": [
@@ -1733,6 +1958,51 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Tengerparti strandklub pihenési lehetőséggel a budvai kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti üdülőhely strandkapcsolattal és szolgáltatásokkal Budvában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A budvai kikötő közelében, egy szállodakomplexumban található úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Feszített víztükrű medence és klub panorámás kilátással a budvai tengerpartra.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Domboldali vízi park különféle csúszdákkal és medencékkel, kilátással Budvára.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ],
@@ -1799,6 +2069,51 @@ export const montenegroEconomicV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Un club de plajă la malul mării, oferind relaxare lângă Marina Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O unitate de resort de coastă care oferă acces la plajă și servicii în Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină situată într-un complex hotelier lângă Marina Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "O piscină infinity și un club care oferă vederi panoramice ale coastei Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Un parc acvatic pe deal, cu diverse tobogane și piscine cu vedere la Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "en": [
@@ -1863,6 +2178,51 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A seaside beach club offering relaxation and coastal views near Budva Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A coastal resort facility providing beach access and services in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A swimming pool located within a hotel complex near the Budva Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "An infinity pool and club offering panoramic views of the Budva coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "A hilltop water park featuring various slides and pools overlooking Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ]
@@ -2380,6 +2740,24 @@ export const montenegroEconomicV2: POI[] = [
                         19.107447,
                         42.066069
                   ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Ein Küstenabschnitt in der Stadt Bar in der Nähe des Hafenterminals.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Der Hauptstrand von Bar, der Erholung an der Küste in Hafennähe bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "hu": [
@@ -2453,6 +2831,24 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.107447,
                         42.066069
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Tengerparti strand Bar városában, a kikötői terminál közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Bar fő városi strandja, amely tengerparti kikapcsolódást kínál a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ],
@@ -2528,6 +2924,24 @@ export const montenegroEconomicV2: POI[] = [
                         19.107447,
                         42.066069
                   ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "O zonă de plajă de coastă situată în orașul Bar, lângă terminalul portuar.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Plaja principală a orașului Bar, care oferă recreere pe coastă lângă port.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "en": [
@@ -2601,6 +3015,24 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.107447,
                         42.066069
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "A coastal beach area located in the town of Bar near the port terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "The main city beach of Bar, offering coastal recreation near the harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ]
@@ -3253,6 +3685,15 @@ export const montenegroEconomicV2: POI[] = [
                         19.272249,
                         42.44905
                   ]
+            },
+            {
+                  "name": "Banya Wellness Spa Center",
+                  "text": "Das Banya Wellness Spa Center ist eine moderne Wellness-Einrichtung in Podgorica.",
+                  "category": "recreational",
+                  "coords": [
+                        19.243168,
+                        42.440696
+                  ]
             }
       ],
       "hu": [
@@ -3317,6 +3758,15 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.272249,
                         42.44905
+                  ]
+            },
+            {
+                  "name": "Banya Wellness Spa Center",
+                  "text": "A Banya Wellness Spa Center egy modern wellness és spa központ Podgoricában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.243168,
+                        42.440696
                   ]
             }
       ],
@@ -3383,6 +3833,15 @@ export const montenegroEconomicV2: POI[] = [
                         19.272249,
                         42.44905
                   ]
+            },
+            {
+                  "name": "Banya Wellness Spa Center",
+                  "text": "Banya Wellness Spa Center este o facilitate modernă de spa și wellness din Podgorica.",
+                  "category": "recreational",
+                  "coords": [
+                        19.243168,
+                        42.440696
+                  ]
             }
       ],
       "en": [
@@ -3447,6 +3906,15 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.272249,
                         42.44905
+                  ]
+            },
+            {
+                  "name": "Banya Wellness Spa Center",
+                  "text": "Banya Wellness Spa Center is a modern spa and wellness facility in Podgorica.",
+                  "category": "recreational",
+                  "coords": [
+                        19.243168,
+                        42.440696
                   ]
             }
       ]

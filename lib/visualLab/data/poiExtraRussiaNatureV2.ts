@@ -176,7 +176,124 @@ imageHint: "Mount Elbrus double peaks with snow",
     },
     image: "/poi-images/russia-mount-elbrus-nature-v2.webp",
 },  {
-    id: "russia-volga-river-nature-v2",
+    id: "russia-volga-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praid",
+                  "text": "Ein Schwimmbad an der Wolga, das zur Erfrischung am Flussufer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        44.550373,
+                        48.502596
+                  ]
+            },
+            {
+                  "name": "Sudostroitel'",
+                  "text": "Ein Sportbad an der Wolga, das für Schwimmtraining genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        44.531573,
+                        48.51484
+                  ]
+            },
+            {
+                  "name": "Bul'-Bul'",
+                  "text": "Ein kleines Schwimmbad an der Wolga, ideal für Familien und Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        44.546703,
+                        48.512455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praid",
+                  "text": "Úszómedence a Volga mentén, amely felfrissülést kínál a folyóparton.",
+                  "category": "recreational",
+                  "coords": [
+                        44.550373,
+                        48.502596
+                  ]
+            },
+            {
+                  "name": "Sudostroitel'",
+                  "text": "Sportuszoda a Volga mentén, amelyet úszóedzésekre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        44.531573,
+                        48.51484
+                  ]
+            },
+            {
+                  "name": "Bul'-Bul'",
+                  "text": "Kisebb úszómedence a Volga mentén, ideális családoknak és gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        44.546703,
+                        48.512455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praid",
+                  "text": "O piscină pe malul Volgăi, care invită la răcorire lângă râu.",
+                  "category": "recreational",
+                  "coords": [
+                        44.550373,
+                        48.502596
+                  ]
+            },
+            {
+                  "name": "Sudostroitel'",
+                  "text": "O piscină sportivă pe malul Volgăi, utilizată pentru antrenamente de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        44.531573,
+                        48.51484
+                  ]
+            },
+            {
+                  "name": "Bul'-Bul'",
+                  "text": "O piscină mică pe malul Volgăi, ideală pentru familii și copii.",
+                  "category": "recreational",
+                  "coords": [
+                        44.546703,
+                        48.512455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praid",
+                  "text": "A swimming pool along the Volga River, offering refreshment by the riverside.",
+                  "category": "recreational",
+                  "coords": [
+                        44.550373,
+                        48.502596
+                  ]
+            },
+            {
+                  "name": "Sudostroitel'",
+                  "text": "A sports swimming pool by the Volga River, used for swimming practice.",
+                  "category": "recreational",
+                  "coords": [
+                        44.531573,
+                        48.51484
+                  ]
+            },
+            {
+                  "name": "Bul'-Bul'",
+                  "text": "A small swimming pool by the Volga River, ideal for families and children.",
+                  "category": "recreational",
+                  "coords": [
+                        44.546703,
+                        48.512455
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "river",
     name: { de: "Wolga", hu: "Volga", ro: "Râul Volga", en: "Volga River"},

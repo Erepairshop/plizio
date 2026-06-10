@@ -323,7 +323,268 @@ export const poiExtraPortugalNature: POI[] = [
       fr: ["Le parc dispose d'un pavillon spécialisé 'Terra Exotica' abritant l'une des plus grandes collections de serpents et de reptiles du Portugal.", "Les enfants sont encouragés à interagir avec les lémuriens en liberté dans un enclos spécialement conçu à cet effet.", "Il abrite un impressionnant parcours de minigolf de 18 trous serpentant à travers un paysage tropical luxuriant.", "Le parc participe activement à des programmes d'éducation environnementale visant à sensibiliser les enfants à la protection de la faune sauvage."],
     }, image: "/poi-images/kid-landmark-krazy-world-zoo-extra.webp"},
   {
-    id: "nature-arrabida-natural-park-extra",
+    id: "nature-arrabida-natural-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Monte Branco",
+                  "text": "Ein ruhiger Strand im Naturpark Arrábida mit Blick auf den Sado-Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.969529,
+                        38.481185
+                  ]
+            },
+            {
+                  "name": "Praia dos Pilotos",
+                  "text": "Ein versteckter Strandabschnitt im Naturpark Arrábida, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.984321,
+                        38.472884
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Arrábida",
+                  "text": "Ein malerischer Strand in Arrábida, der als einer der schönsten Portugals gilt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.983701,
+                        38.477068
+                  ]
+            },
+            {
+                  "name": "Praia de Alpertuche",
+                  "text": "Ein kleiner, felsiger Strand im Naturpark Arrábida mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.990353,
+                        38.467284
+                  ]
+            },
+            {
+                  "name": "Praia do Creiro",
+                  "text": "Ein wunderschöner Strand in der Bucht von Portinho da Arrábida, bekannt für sein blaues Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.977402,
+                        38.479976
+                  ]
+            },
+            {
+                  "name": "Praia de Galapinhos",
+                  "text": "Ein preisgekrönter Strand in Arrábida, berühmt für seine paradiesische Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.968169,
+                        38.483856
+                  ]
+            },
+            {
+                  "name": "Praia de Galápos",
+                  "text": "Ein charmanter Strand im Naturpark Arrábida, umgeben von üppiger Vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.964022,
+                        38.484585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Monte Branco",
+                  "text": "Nyugodt strand az Arrábida Természeti Parkban, kilátással a Sado-folyóra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.969529,
+                        38.481185
+                  ]
+            },
+            {
+                  "name": "Praia dos Pilotos",
+                  "text": "Rejtett tengerparti szakasz az Arrábida Természeti Parkban, ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.984321,
+                        38.472884
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Arrábida",
+                  "text": "Festői strand Arrábidában, amelyet Portugália egyik legszebbjeként tartanak számon.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.983701,
+                        38.477068
+                  ]
+            },
+            {
+                  "name": "Praia de Alpertuche",
+                  "text": "Kicsi, sziklás strand az Arrábida Természeti Parkban, tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.990353,
+                        38.467284
+                  ]
+            },
+            {
+                  "name": "Praia do Creiro",
+                  "text": "Gyönyörű strand a Portinho da Arrábida öbölben, kék vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.977402,
+                        38.479976
+                  ]
+            },
+            {
+                  "name": "Praia de Galapinhos",
+                  "text": "Díjnyertes strand Arrábidában, amely paradicsomi szépségéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.968169,
+                        38.483856
+                  ]
+            },
+            {
+                  "name": "Praia de Galápos",
+                  "text": "Bájos strand az Arrábida Természeti Parkban, dús vegetációval körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.964022,
+                        38.484585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Monte Branco",
+                  "text": "O plajă liniștită în Parcul Natural Arrábida, cu vedere la râul Sado.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.969529,
+                        38.481185
+                  ]
+            },
+            {
+                  "name": "Praia dos Pilotos",
+                  "text": "O secțiune de plajă ascunsă în Parcul Natural Arrábida, ideală pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.984321,
+                        38.472884
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Arrábida",
+                  "text": "O plajă pitorească în Arrábida, considerată una dintre cele mai frumoase din Portugalia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.983701,
+                        38.477068
+                  ]
+            },
+            {
+                  "name": "Praia de Alpertuche",
+                  "text": "O plajă mică și stâncoasă în Parcul Natural Arrábida, cu apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.990353,
+                        38.467284
+                  ]
+            },
+            {
+                  "name": "Praia do Creiro",
+                  "text": "O plajă frumoasă în golful Portinho da Arrábida, cunoscută pentru apa sa albastră.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.977402,
+                        38.479976
+                  ]
+            },
+            {
+                  "name": "Praia de Galapinhos",
+                  "text": "O plajă premiată în Arrábida, faimoasă pentru frumusețea sa paradisiacă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.968169,
+                        38.483856
+                  ]
+            },
+            {
+                  "name": "Praia de Galápos",
+                  "text": "O plajă fermecătoare în Parcul Natural Arrábida, înconjurată de vegetație luxuriantă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.964022,
+                        38.484585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Monte Branco",
+                  "text": "A quiet beach in the Arrábida Natural Park with views of the Sado River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.969529,
+                        38.481185
+                  ]
+            },
+            {
+                  "name": "Praia dos Pilotos",
+                  "text": "A hidden beach section in the Arrábida Natural Park ideal for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.984321,
+                        38.472884
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Arrábida",
+                  "text": "A picturesque beach in Arrábida, considered one of the most beautiful in Portugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.983701,
+                        38.477068
+                  ]
+            },
+            {
+                  "name": "Praia de Alpertuche",
+                  "text": "A small, rocky beach in the Arrábida Natural Park with clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.990353,
+                        38.467284
+                  ]
+            },
+            {
+                  "name": "Praia do Creiro",
+                  "text": "A beautiful beach in the Portinho da Arrábida bay, known for its blue waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.977402,
+                        38.479976
+                  ]
+            },
+            {
+                  "name": "Praia de Galapinhos",
+                  "text": "An award-winning beach in Arrábida, famous for its paradisiacal beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.968169,
+                        38.483856
+                  ]
+            },
+            {
+                  "name": "Praia de Galápos",
+                  "text": "A charming beach in the Arrábida Natural Park surrounded by lush vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.964022,
+                        38.484585
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "PT-15",
     coords: [-8.99, 38.48],
@@ -1365,6 +1626,69 @@ export const poiExtraPortugalNature: POI[] = [
                         -8.679199,
                         37.0839
                   ]
+            },
+            {
+                  "name": "Praia do Porto de Mós",
+                  "text": "Praia do Porto de Mós ist ein großer Strand in Lagos, der in der Nähe der Grotten von Ponta da Piedade liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.68946,
+                        37.085206
+                  ]
+            },
+            {
+                  "name": "Praia dos Pinheiros",
+                  "text": "Die Praia dos Pinheiros ist ein kleiner, malerischer Strand in der Nähe von Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.66729,
+                        37.084356
+                  ]
+            },
+            {
+                  "name": "Pinheiro Beach",
+                  "text": "Pinheiro Beach ist ein Strand in der Gegend von Lagos bei Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668588,
+                        37.088807
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Das städtische Schwimmbad von Lagos bietet moderne Becken und Sporteinrichtungen für Besucher und Bewohner.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679905,
+                        37.113579
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Lagos",
+                  "text": "Ein Abenteuerpark in Lagos, der Kletterparcours und verschiedene Outdoor-Aktivitäten für alle Altersgruppen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658024,
+                        37.11701
+                  ]
+            },
+            {
+                  "name": "Nudisme -Naturist-FKK strand",
+                  "text": "Ein ausgewiesener FKK-Strand in der Nähe der malerischen Klippen von Lagos an der Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.641418,
+                        37.118558
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "Eine moderne Wellness-Einrichtung, die entspannende Badeerlebnisse in der Region Lagos bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706903,
+                        37.102585
+                  ]
             }
       ],
       "hu": [
@@ -1438,6 +1762,69 @@ export const poiExtraPortugalNature: POI[] = [
                   "coords": [
                         -8.679199,
                         37.0839
+                  ]
+            },
+            {
+                  "name": "Praia do Porto de Mós",
+                  "text": "A Praia do Porto de Mós egy tágas strand Lagosban, a Ponta da Piedade sziklák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.68946,
+                        37.085206
+                  ]
+            },
+            {
+                  "name": "Praia dos Pinheiros",
+                  "text": "A Praia dos Pinheiros egy kicsi, festői strand a Ponta da Piedade közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.66729,
+                        37.084356
+                  ]
+            },
+            {
+                  "name": "Pinheiro Beach",
+                  "text": "A Pinheiro Beach egy strand Lagos területén, a Ponta da Piedade közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668588,
+                        37.088807
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Lagos városi uszodája modern medencékkel és sportolási lehetőségekkel várja a látogatókat és a helyieket.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679905,
+                        37.113579
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Lagos",
+                  "text": "Kalandpark Lagosban, amely kötélpályákkal és különféle szabadtéri tevékenységekkel vár minden korosztályt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658024,
+                        37.11701
+                  ]
+            },
+            {
+                  "name": "Nudisme -Naturist-FKK strand",
+                  "text": "Kijelölt naturista strand Lagos festői szikláinak közelében, az Algarve-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.641418,
+                        37.118558
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "Modern wellness-létesítmény, amely pihentető fürdőzési élményeket kínál Lagos régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706903,
+                        37.102585
                   ]
             }
       ],
@@ -1513,6 +1900,69 @@ export const poiExtraPortugalNature: POI[] = [
                         -8.679199,
                         37.0839
                   ]
+            },
+            {
+                  "name": "Praia do Porto de Mós",
+                  "text": "Praia do Porto de Mós este o plajă mare în Lagos, situată în apropierea grotelor Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.68946,
+                        37.085206
+                  ]
+            },
+            {
+                  "name": "Praia dos Pinheiros",
+                  "text": "Praia dos Pinheiros este o plajă mică și pitorească situată lângă Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.66729,
+                        37.084356
+                  ]
+            },
+            {
+                  "name": "Pinheiro Beach",
+                  "text": "Pinheiro Beach este o plajă situată în zona Lagos, lângă Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668588,
+                        37.088807
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Piscina municipală din Lagos oferă bazine moderne și facilități sportive pentru vizitatori și rezidenți.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679905,
+                        37.113579
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Lagos",
+                  "text": "Un parc de aventură în Lagos, care oferă trasee de cățărare și diverse activități în aer liber pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658024,
+                        37.11701
+                  ]
+            },
+            {
+                  "name": "Nudisme -Naturist-FKK strand",
+                  "text": "O plajă de nudiști desemnată, situată lângă stâncile pitorești din Lagos, în regiunea Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.641418,
+                        37.118558
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "O facilitate modernă de wellness care oferă experiențe de relaxare prin înot în regiunea Lagos.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706903,
+                        37.102585
+                  ]
             }
       ],
       "en": [
@@ -1586,6 +2036,69 @@ export const poiExtraPortugalNature: POI[] = [
                   "coords": [
                         -8.679199,
                         37.0839
+                  ]
+            },
+            {
+                  "name": "Praia do Porto de Mós",
+                  "text": "Praia do Porto de Mós is a large beach in Lagos, located near the Ponta da Piedade grottoes.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.68946,
+                        37.085206
+                  ]
+            },
+            {
+                  "name": "Praia dos Pinheiros",
+                  "text": "Praia dos Pinheiros is a small, picturesque beach located near Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.66729,
+                        37.084356
+                  ]
+            },
+            {
+                  "name": "Pinheiro Beach",
+                  "text": "Pinheiro Beach is a beach located in the Lagos area near Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668588,
+                        37.088807
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "The municipal swimming pool of Lagos features modern pools and sports facilities for visitors and residents.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679905,
+                        37.113579
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Lagos",
+                  "text": "An adventure park in Lagos offering rope courses and various outdoor activities for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658024,
+                        37.11701
+                  ]
+            },
+            {
+                  "name": "Nudisme -Naturist-FKK strand",
+                  "text": "A designated nudist beach located near the picturesque cliffs of Lagos in the Algarve region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.641418,
+                        37.118558
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "A modern wellness facility offering relaxing swimming experiences in the Lagos region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706903,
+                        37.102585
                   ]
             }
       ]

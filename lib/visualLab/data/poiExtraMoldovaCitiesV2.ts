@@ -982,6 +982,24 @@ export const moldovaCitiesV2: POI[] = [
                         28.104781,
                         45.948031
                   ]
+            },
+            {
+                  "name": "Secția balneologică",
+                  "text": "Ein balneologisches Schwimmbad in Cahul.",
+                  "category": "recreational",
+                  "coords": [
+                        28.204125,
+                        45.90215
+                  ]
+            },
+            {
+                  "name": "AquaLand-S",
+                  "text": "Ein Wasserpark in Cahul für Freizeit und Unterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        28.206446,
+                        45.942065
+                  ]
             }
       ],
       "hu": [
@@ -1046,6 +1064,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.104781,
                         45.948031
+                  ]
+            },
+            {
+                  "name": "Secția balneologică",
+                  "text": "Balneológiai úszómedence Cahulban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.204125,
+                        45.90215
+                  ]
+            },
+            {
+                  "name": "AquaLand-S",
+                  "text": "Vízi park Cahulban, amely kikapcsolódást és szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.206446,
+                        45.942065
                   ]
             }
       ],
@@ -1112,6 +1148,24 @@ export const moldovaCitiesV2: POI[] = [
                         28.104781,
                         45.948031
                   ]
+            },
+            {
+                  "name": "Secția balneologică",
+                  "text": "O secție balneologică cu piscină în Cahul.",
+                  "category": "recreational",
+                  "coords": [
+                        28.204125,
+                        45.90215
+                  ]
+            },
+            {
+                  "name": "AquaLand-S",
+                  "text": "Un parc acvatic în Cahul pentru recreere și distracție.",
+                  "category": "recreational",
+                  "coords": [
+                        28.206446,
+                        45.942065
+                  ]
             }
       ],
       "en": [
@@ -1177,6 +1231,24 @@ export const moldovaCitiesV2: POI[] = [
                         28.104781,
                         45.948031
                   ]
+            },
+            {
+                  "name": "Secția balneologică",
+                  "text": "A balneological swimming pool facility in Cahul.",
+                  "category": "recreational",
+                  "coords": [
+                        28.204125,
+                        45.90215
+                  ]
+            },
+            {
+                  "name": "AquaLand-S",
+                  "text": "A water park in Cahul offering recreation and entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        28.206446,
+                        45.942065
+                  ]
             }
       ]
 },
@@ -1226,7 +1298,340 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-ungheni-cities-v2", "sights": {"de": [{"name": "Muzeul de Istorie și Etnografie Ungheni", "text": "Ein Museum, das der lokalen Geschichte und den Traditionen der Region Ungheni gewidmet ist.", "category": "museum", "coords": [27.792731, 47.201967]}, {"name": "Plaja Delia", "text": "Plaja Delia ist ein gemütlicher, lokaler Strandbereich am Ufer des Flusses Pruth im moldauischen Ungheni. Die idyllische Umgebung sorgt für eine angenehme Ruhe, ideal für eine Auszeit vom Alltag. Am Flussufer kann man sich wunderbar sonnen, schwimmen und das sanfte Plätschern des Wassers genießen. Besonders an heißen Sommernachmittagen bietet das Wasser hier eine willkommene Abkühlung.", "category": "recreational", "coords": [27.800834, 47.200588]}, {"name": "Teatrul de Vară din Parcul „Micul Cluj”", "text": "Ein Freilichttheater für kulturelle Veranstaltungen im Stadtpark.", "category": "cultural", "coords": [27.792575, 47.216992]}, {"name": "Bustul lui Grigore Vieru", "text": "Ein Denkmal zu Ehren des bedeutenden moldauischen Dichters Grigore Vieru.", "category": "historical", "coords": [27.799978, 47.20731]}, {"name": "Bustul lui Mihai Eminescu", "text": "Eine Bronzebüste des berühmten rumänischen Nationaldichters Mihai Eminescu.", "category": "historical", "coords": [27.798422, 47.205272]}, {"name": "Locomotivă", "text": "Eine historische Dampflokomotive, die als Denkmal im Freien ausgestellt ist.", "category": "landmark", "coords": [27.800565, 47.205052]}, {"name": "Catedrala Aleksandr Nevskii", "text": "Eine beeindruckende orthodoxe Kathedrale, die im neobyzantinischen Stil erbaut wurde.", "category": "religious", "coords": [27.798156, 47.204051]}, {"name": "Podul Eiffel", "text": "Eine von der Firma Gustave Eiffel entworfene Metallbrücke über den Fluss Pruth.", "category": "landmark", "coords": [27.787401, 47.199776]}], "hu": [{"name": "Muzeul de Istorie și Etnografie Ungheni", "text": "Az Ungheni régió helytörténetének és hagyományainak szentelt múzeum.", "category": "museum", "coords": [27.792731, 47.201967]}, {"name": "Plaja Delia", "text": "A Plaja Delia egy hangulatos, helyi strand a Prut folyó partján, a moldovai Ungheni városában. Az idilli környezet kellemes nyugalmat biztosít, amely ideális a mindennapokból való kiszakadáshoz. A folyóparton remekül lehet napozni, úszni és élvezni a víz lágy csobogását. Különösen a forró nyári délutánokon kínál ez a víz kellemes felfrissülést.", "category": "recreational", "coords": [27.800834, 47.200588]}, {"name": "Teatrul de Vară din Parcul „Micul Cluj”", "text": "Szabadtéri színház kulturális események számára a városi parkban.", "category": "cultural", "coords": [27.792575, 47.216992]}, {"name": "Bustul lui Grigore Vieru", "text": "Emlékmű a jelentős moldovai költő, Grigore Vieru tiszteletére.", "category": "historical", "coords": [27.799978, 47.20731]}, {"name": "Bustul lui Mihai Eminescu", "text": "Mihai Eminescu, a híres román nemzeti költő bronz mellszobra.", "category": "historical", "coords": [27.798422, 47.205272]}, {"name": "Locomotivă", "text": "Történelmi gőzmozdony, amelyet szabadtéri emlékműként állítottak ki.", "category": "landmark", "coords": [27.800565, 47.205052]}, {"name": "Catedrala Aleksandr Nevskii", "text": "Lenyűgöző ortodox székesegyház, amely neobizánci stílusban épült.", "category": "religious", "coords": [27.798156, 47.204051]}, {"name": "Podul Eiffel", "text": "A Gustave Eiffel cége által tervezett fémhíd a Prut folyó felett.", "category": "landmark", "coords": [27.787401, 47.199776]}], "ro": [{"name": "Muzeul de Istorie și Etnografie Ungheni", "text": "Un muzeu dedicat istoriei locale și tradițiilor din regiunea Ungheni.", "category": "museum", "coords": [27.792731, 47.201967]}, {"name": "Plaja Delia", "text": "Plaja Delia este o zonă de plajă locală, confortabilă, pe malul râului Prut din Ungheni, Moldova. Împrejurimile idilice asigură o liniște plăcută, ideală pentru o pauză de la viața de zi cu zi. Pe malul râului vă puteți bucura de soare, puteți înota și asculta clipocitul blând al apei. Mai ales în după-amiezile fierbinți de vară, apa de aici oferă o răcorire binevenită.", "category": "recreational", "coords": [27.800834, 47.200588]}, {"name": "Teatrul de Vară din Parcul „Micul Cluj”", "text": "Un teatru în aer liber pentru evenimente culturale, situat în parcul orașului.", "category": "cultural", "coords": [27.792575, 47.216992]}, {"name": "Bustul lui Grigore Vieru", "text": "Un monument ridicat în onoarea importantului poet moldovean Grigore Vieru.", "category": "historical", "coords": [27.799978, 47.20731]}, {"name": "Bustul lui Mihai Eminescu", "text": "Un bust de bronz al celebrului poet național Mihai Eminescu.", "category": "historical", "coords": [27.798422, 47.205272]}, {"name": "Locomotivă", "text": "O locomotivă istorică cu aburi expusă ca monument în aer liber.", "category": "landmark", "coords": [27.800565, 47.205052]}, {"name": "Catedrala Aleksandr Nevskii", "text": "O catedrală ortodoxă impresionantă, construită în stil neobizantin.", "category": "religious", "coords": [27.798156, 47.204051]}, {"name": "Podul Eiffel", "text": "Un pod metalic peste râul Prut, proiectat de firma lui Gustave Eiffel.", "category": "landmark", "coords": [27.787401, 47.199776]}], "en": [{"name": "Muzeul de Istorie și Etnografie Ungheni", "text": "A museum dedicated to the local history and traditions of the Ungheni region.", "category": "museum", "coords": [27.792731, 47.201967]}, {"name": "Delia Beach", "text": "Plaja Delia is a cozy, local beach area along the banks of the Prut River in Ungheni, Moldova. The idyllic setting provides a pleasant sense of peace, ideal for a break from daily life. Visitors can comfortably sunbathe by the river, swim, and enjoy the gentle sounds of flowing water. Seeking a refreshing dip here is especially wonderful on a hot summer afternoon.", "category": "recreational", "coords": [27.800834, 47.200588]}, {"name": "Teatrul de Vară din Parcul „Micul Cluj”", "text": "An open-air theatre for cultural events located in the city park.", "category": "cultural", "coords": [27.792575, 47.216992]}, {"name": "Bustul lui Grigore Vieru", "text": "A monument honoring the prominent Moldovan poet Grigore Vieru.", "category": "historical", "coords": [27.799978, 47.20731]}, {"name": "Bustul lui Mihai Eminescu", "text": "A bronze bust of the famous Romanian national poet Mihai Eminescu.", "category": "historical", "coords": [27.798422, 47.205272]}, {"name": "Locomotivă", "text": "A historic steam locomotive displayed as an outdoor monument.", "category": "landmark", "coords": [27.800565, 47.205052]}, {"name": "Catedrala Aleksandr Nevskii", "text": "An impressive Orthodox cathedral built in neo-Byzantine style.", "category": "religious", "coords": [27.798156, 47.204051]}, {"name": "Podul Eiffel", "text": "A metal bridge over the Prut River designed by Gustave Eiffel's company.", "category": "landmark", "coords": [27.787401, 47.199776]}]},
+    id: "moldova-ungheni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Ungheni",
+                  "text": "Ein Museum, das der lokalen Geschichte und den Traditionen der Region Ungheni gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.792731,
+                        47.201967
+                  ]
+            },
+            {
+                  "name": "Plaja Delia",
+                  "text": "Plaja Delia ist ein gemütlicher, lokaler Strandbereich am Ufer des Flusses Pruth im moldauischen Ungheni. Die idyllische Umgebung sorgt für eine angenehme Ruhe, ideal für eine Auszeit vom Alltag. Am Flussufer kann man sich wunderbar sonnen, schwimmen und das sanfte Plätschern des Wassers genießen. Besonders an heißen Sommernachmittagen bietet das Wasser hier eine willkommene Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        27.800834,
+                        47.200588
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară din Parcul „Micul Cluj”",
+                  "text": "Ein Freilichttheater für kulturelle Veranstaltungen im Stadtpark.",
+                  "category": "cultural",
+                  "coords": [
+                        27.792575,
+                        47.216992
+                  ]
+            },
+            {
+                  "name": "Bustul lui Grigore Vieru",
+                  "text": "Ein Denkmal zu Ehren des bedeutenden moldauischen Dichters Grigore Vieru.",
+                  "category": "historical",
+                  "coords": [
+                        27.799978,
+                        47.20731
+                  ]
+            },
+            {
+                  "name": "Bustul lui Mihai Eminescu",
+                  "text": "Eine Bronzebüste des berühmten rumänischen Nationaldichters Mihai Eminescu.",
+                  "category": "historical",
+                  "coords": [
+                        27.798422,
+                        47.205272
+                  ]
+            },
+            {
+                  "name": "Locomotivă",
+                  "text": "Eine historische Dampflokomotive, die als Denkmal im Freien ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.800565,
+                        47.205052
+                  ]
+            },
+            {
+                  "name": "Catedrala Aleksandr Nevskii",
+                  "text": "Eine beeindruckende orthodoxe Kathedrale, die im neobyzantinischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        27.798156,
+                        47.204051
+                  ]
+            },
+            {
+                  "name": "Podul Eiffel",
+                  "text": "Eine von der Firma Gustave Eiffel entworfene Metallbrücke über den Fluss Pruth.",
+                  "category": "landmark",
+                  "coords": [
+                        27.787401,
+                        47.199776
+                  ]
+            },
+            {
+                  "name": "Bazinele „Delfi\"",
+                  "text": "Ein moderner Wasserpark in Ungheni mit Schwimmbecken und Freizeitangeboten.",
+                  "category": "recreational",
+                  "coords": [
+                        27.79859,
+                        47.213508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Ungheni",
+                  "text": "Az Ungheni régió helytörténetének és hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.792731,
+                        47.201967
+                  ]
+            },
+            {
+                  "name": "Plaja Delia",
+                  "text": "A Plaja Delia egy hangulatos, helyi strand a Prut folyó partján, a moldovai Ungheni városában. Az idilli környezet kellemes nyugalmat biztosít, amely ideális a mindennapokból való kiszakadáshoz. A folyóparton remekül lehet napozni, úszni és élvezni a víz lágy csobogását. Különösen a forró nyári délutánokon kínál ez a víz kellemes felfrissülést.",
+                  "category": "recreational",
+                  "coords": [
+                        27.800834,
+                        47.200588
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară din Parcul „Micul Cluj”",
+                  "text": "Szabadtéri színház kulturális események számára a városi parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        27.792575,
+                        47.216992
+                  ]
+            },
+            {
+                  "name": "Bustul lui Grigore Vieru",
+                  "text": "Emlékmű a jelentős moldovai költő, Grigore Vieru tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        27.799978,
+                        47.20731
+                  ]
+            },
+            {
+                  "name": "Bustul lui Mihai Eminescu",
+                  "text": "Mihai Eminescu, a híres román nemzeti költő bronz mellszobra.",
+                  "category": "historical",
+                  "coords": [
+                        27.798422,
+                        47.205272
+                  ]
+            },
+            {
+                  "name": "Locomotivă",
+                  "text": "Történelmi gőzmozdony, amelyet szabadtéri emlékműként állítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        27.800565,
+                        47.205052
+                  ]
+            },
+            {
+                  "name": "Catedrala Aleksandr Nevskii",
+                  "text": "Lenyűgöző ortodox székesegyház, amely neobizánci stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        27.798156,
+                        47.204051
+                  ]
+            },
+            {
+                  "name": "Podul Eiffel",
+                  "text": "A Gustave Eiffel cége által tervezett fémhíd a Prut folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        27.787401,
+                        47.199776
+                  ]
+            },
+            {
+                  "name": "Bazinele „Delfi\"",
+                  "text": "Modern vízipark Ungheni városában, úszómedencékkel és szabadidős szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        27.79859,
+                        47.213508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Ungheni",
+                  "text": "Un muzeu dedicat istoriei locale și tradițiilor din regiunea Ungheni.",
+                  "category": "museum",
+                  "coords": [
+                        27.792731,
+                        47.201967
+                  ]
+            },
+            {
+                  "name": "Plaja Delia",
+                  "text": "Plaja Delia este o zonă de plajă locală, confortabilă, pe malul râului Prut din Ungheni, Moldova. Împrejurimile idilice asigură o liniște plăcută, ideală pentru o pauză de la viața de zi cu zi. Pe malul râului vă puteți bucura de soare, puteți înota și asculta clipocitul blând al apei. Mai ales în după-amiezile fierbinți de vară, apa de aici oferă o răcorire binevenită.",
+                  "category": "recreational",
+                  "coords": [
+                        27.800834,
+                        47.200588
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară din Parcul „Micul Cluj”",
+                  "text": "Un teatru în aer liber pentru evenimente culturale, situat în parcul orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        27.792575,
+                        47.216992
+                  ]
+            },
+            {
+                  "name": "Bustul lui Grigore Vieru",
+                  "text": "Un monument ridicat în onoarea importantului poet moldovean Grigore Vieru.",
+                  "category": "historical",
+                  "coords": [
+                        27.799978,
+                        47.20731
+                  ]
+            },
+            {
+                  "name": "Bustul lui Mihai Eminescu",
+                  "text": "Un bust de bronz al celebrului poet național Mihai Eminescu.",
+                  "category": "historical",
+                  "coords": [
+                        27.798422,
+                        47.205272
+                  ]
+            },
+            {
+                  "name": "Locomotivă",
+                  "text": "O locomotivă istorică cu aburi expusă ca monument în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        27.800565,
+                        47.205052
+                  ]
+            },
+            {
+                  "name": "Catedrala Aleksandr Nevskii",
+                  "text": "O catedrală ortodoxă impresionantă, construită în stil neobizantin.",
+                  "category": "religious",
+                  "coords": [
+                        27.798156,
+                        47.204051
+                  ]
+            },
+            {
+                  "name": "Podul Eiffel",
+                  "text": "Un pod metalic peste râul Prut, proiectat de firma lui Gustave Eiffel.",
+                  "category": "landmark",
+                  "coords": [
+                        27.787401,
+                        47.199776
+                  ]
+            },
+            {
+                  "name": "Bazinele „Delfi\"",
+                  "text": "Un parc acvatic modern în Ungheni, dotat cu piscine și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        27.79859,
+                        47.213508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Ungheni",
+                  "text": "A museum dedicated to the local history and traditions of the Ungheni region.",
+                  "category": "museum",
+                  "coords": [
+                        27.792731,
+                        47.201967
+                  ]
+            },
+            {
+                  "name": "Delia Beach",
+                  "text": "Plaja Delia is a cozy, local beach area along the banks of the Prut River in Ungheni, Moldova. The idyllic setting provides a pleasant sense of peace, ideal for a break from daily life. Visitors can comfortably sunbathe by the river, swim, and enjoy the gentle sounds of flowing water. Seeking a refreshing dip here is especially wonderful on a hot summer afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        27.800834,
+                        47.200588
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară din Parcul „Micul Cluj”",
+                  "text": "An open-air theatre for cultural events located in the city park.",
+                  "category": "cultural",
+                  "coords": [
+                        27.792575,
+                        47.216992
+                  ]
+            },
+            {
+                  "name": "Bustul lui Grigore Vieru",
+                  "text": "A monument honoring the prominent Moldovan poet Grigore Vieru.",
+                  "category": "historical",
+                  "coords": [
+                        27.799978,
+                        47.20731
+                  ]
+            },
+            {
+                  "name": "Bustul lui Mihai Eminescu",
+                  "text": "A bronze bust of the famous Romanian national poet Mihai Eminescu.",
+                  "category": "historical",
+                  "coords": [
+                        27.798422,
+                        47.205272
+                  ]
+            },
+            {
+                  "name": "Locomotivă",
+                  "text": "A historic steam locomotive displayed as an outdoor monument.",
+                  "category": "landmark",
+                  "coords": [
+                        27.800565,
+                        47.205052
+                  ]
+            },
+            {
+                  "name": "Catedrala Aleksandr Nevskii",
+                  "text": "An impressive Orthodox cathedral built in neo-Byzantine style.",
+                  "category": "religious",
+                  "coords": [
+                        27.798156,
+                        47.204051
+                  ]
+            },
+            {
+                  "name": "Podul Eiffel",
+                  "text": "A metal bridge over the Prut River designed by Gustave Eiffel's company.",
+                  "category": "landmark",
+                  "coords": [
+                        27.787401,
+                        47.199776
+                  ]
+            },
+            {
+                  "name": "Bazinele „Delfi\"",
+                  "text": "A modern water park in Ungheni with swimming pools and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        27.79859,
+                        47.213508
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Ungheni", hu: "Ungheni", ro: "Ungheni", en: "Ungheni"},
@@ -3694,6 +4099,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.598225,
                         46.816764
                   ]
+            },
+            {
+                  "name": "Bazin Riviera",
+                  "text": "Ein Schwimmbad in Hîncești für sportliche Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585288,
+                        46.829221
+                  ]
             }
       ],
       "hu": [
@@ -3731,6 +4145,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.598225,
                         46.816764
+                  ]
+            },
+            {
+                  "name": "Bazin Riviera",
+                  "text": "Hîncești úszómedencéje sportolásra és kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585288,
+                        46.829221
                   ]
             }
       ],
@@ -3770,6 +4193,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.598225,
                         46.816764
                   ]
+            },
+            {
+                  "name": "Bazin Riviera",
+                  "text": "O piscină în Hîncești destinată activităților sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585288,
+                        46.829221
+                  ]
             }
       ],
       "en": [
@@ -3807,6 +4239,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.598225,
                         46.816764
+                  ]
+            },
+            {
+                  "name": "Bazin Riviera",
+                  "text": "A swimming pool in Hîncești for sports and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585288,
+                        46.829221
                   ]
             }
       ]
@@ -4352,6 +4793,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.469466,
                         48.409729
                   ]
+            },
+            {
+                  "name": "Baie",
+                  "text": "Eine öffentliche Badeanstalt in der Stadt Ocnița.",
+                  "category": "recreational",
+                  "coords": [
+                        27.477216,
+                        48.407177
+                  ]
             }
       ],
       "hu": [
@@ -4380,6 +4830,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.469466,
                         48.409729
+                  ]
+            },
+            {
+                  "name": "Baie",
+                  "text": "Egy nyilvános fürdő Ocnița városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.477216,
+                        48.407177
                   ]
             }
       ],
@@ -4410,6 +4869,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.469466,
                         48.409729
                   ]
+            },
+            {
+                  "name": "Baie",
+                  "text": "O baie publică situată în orașul Ocnița.",
+                  "category": "recreational",
+                  "coords": [
+                        27.477216,
+                        48.407177
+                  ]
             }
       ],
       "en": [
@@ -4438,6 +4906,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.469466,
                         48.409729
+                  ]
+            },
+            {
+                  "name": "Baie",
+                  "text": "A public bath facility located in the town of Ocnița.",
+                  "category": "recreational",
+                  "coords": [
+                        27.477216,
+                        48.407177
                   ]
             }
       ]
@@ -6715,6 +7192,33 @@ export const moldovaCitiesV2: POI[] = [
                         28.842111,
                         46.991854
                   ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "Ein kleiner Zoo in Codru mit verschiedenen Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        28.852142,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "Ein Schwimmbecken des Energy Fitness Centers in Codru.",
+                  "category": "recreational",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică din Chișinău",
+                  "text": "Der größte Zoo Moldawiens, der eine Vielzahl exotic Tiere beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        28.868497,
+                        46.972701
+                  ]
             }
       ],
       "hu": [
@@ -6914,6 +7418,33 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.842111,
                         46.991854
+                  ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "Kisebb állatkert Codruban, különféle állatfajokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        28.852142,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "Az Energy Fitness úszómedencéje Codruban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică din Chișinău",
+                  "text": "Moldova legnagyobb állatkertje, amely számos egzotikus állatnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        28.868497,
+                        46.972701
                   ]
             }
       ],
@@ -7115,6 +7646,33 @@ export const moldovaCitiesV2: POI[] = [
                         28.842111,
                         46.991854
                   ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "O grădină zoologică în Codru ce găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        28.852142,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "Piscina centrului Energy Fitness situată în Codru.",
+                  "category": "recreational",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică din Chișinău",
+                  "text": "Cea mai mare grădină zoologică din Moldova, găzduind numeroase animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        28.868497,
+                        46.972701
+                  ]
             }
       ],
       "en": [
@@ -7314,6 +7872,33 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.842111,
                         46.991854
+                  ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "A small zoo in Codru featuring various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        28.852142,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "A swimming pool at the Energy Fitness center in Codru.",
+                  "category": "recreational",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică din Chișinău",
+                  "text": "The largest zoo in Moldova, home to a wide variety of exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        28.868497,
+                        46.972701
                   ]
             }
       ]

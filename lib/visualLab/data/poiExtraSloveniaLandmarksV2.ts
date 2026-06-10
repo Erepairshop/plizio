@@ -1445,7 +1445,88 @@ imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
     image: "/poi-images/slovenia-praetorian-palace-landmarks-v2.webp",
 },
   {
-    id: "slovenia-koper-cathedral-landmarks-v2",
+    id: "slovenia-koper-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "Das zentrale städtische Strandbad in Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
+                  ]
+            },
+            {
+                  "name": "Žusterna / Giusterna",
+                  "text": "Ein beliebtes Strandbad im Stadtteil Žusterna von Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.709868,
+                        45.546575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "Koper központi városi strandüdülője.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
+                  ]
+            },
+            {
+                  "name": "Žusterna / Giusterna",
+                  "text": "Népszerű strandüdülőhely Koper Žusterna negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.709868,
+                        45.546575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "Stațiunea balneară centrală a orașului, situată în Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
+                  ]
+            },
+            {
+                  "name": "Žusterna / Giusterna",
+                  "text": "O zonă populară de stațiune balneară în districtul Žusterna din Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.709868,
+                        45.546575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "The central city beach resort located in Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
+                  ]
+            },
+            {
+                  "name": "Žusterna / Giusterna",
+                  "text": "A popular beach resort area in the Žusterna district of Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.709868,
+                        45.546575
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "cathedral",
     name: { de: "Kathedrale von Koper", hu: "Koperi székesegyház", ro: "Catedrala din Koper", en: "Koper Cathedral"},
@@ -1490,7 +1571,52 @@ imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
     },
   },
   {
-    id: "slovenia-piran-town-hall-landmarks-v2",
+    id: "slovenia-piran-town-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kopališče Bernardin",
+                  "text": "Diese Badeanlage in Piran bietet Zugang zur slowenischen Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.568961,
+                        45.516364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kopališče Bernardin",
+                  "text": "Ez a pirani fürdőhely hozzáférést biztosít a szlovén Adriai-tenger parthoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.568961,
+                        45.516364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kopališče Bernardin",
+                  "text": "Această zonă de scăldat din Piran oferă acces la coasta adriatică a Sloveniei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.568961,
+                        45.516364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kopališče Bernardin",
+                  "text": "This swimming area in Piran offers access to the Slovenian Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        13.568961,
+                        45.516364
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "palace",
     name: { de: "Rathaus von Piran", hu: "Pirani városháza", ro: "Primăria din Piran", en: "Piran Town Hall"},

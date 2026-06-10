@@ -1821,7 +1821,52 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-amathus-ruins-history-v2.webp",
   },
   {
-    id: "cyprus-kourion-theatre-history-v2",
+    id: "cyprus-kourion-theatre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "Ein malerischer Küstenabschnitt unterhalb der antiken archäologischen Stätte von Kourion.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "Festői tengerparti szakasz az ókori Kourion régészeti lelőhelye alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "O porțiune pitorească de coastă situată sub situl arheologic antic Kourion.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "A scenic coastal stretch located below the ancient archaeological site of Kourion.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "CY",
     name: { de: "Theater von Kourion", hu: "Kourioni színház", ro: "Teatrul din Kourion", en: "Theater of Kourion" },
@@ -2020,6 +2065,15 @@ export const cyprusHistoryV2: POI[] = [
                         32.871035,
                         34.928807
                   ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Ein Gehege für Mufflons im Waldgebiet in der Nähe der Agios-Nikolaos-Kirche.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
             }
       ],
       "hu": [
@@ -2084,6 +2138,15 @@ export const cyprusHistoryV2: POI[] = [
                   "coords": [
                         32.871035,
                         34.928807
+                  ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Muflon-kifutó az erdős területen, az Agiosz Nikolaosz-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
                   ]
             }
       ],
@@ -2150,6 +2213,15 @@ export const cyprusHistoryV2: POI[] = [
                         32.871035,
                         34.928807
                   ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Un țarc pentru mufloni în zona împădurită din apropierea bisericii Agios Nikolaos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
             }
       ],
       "en": [
@@ -2214,6 +2286,15 @@ export const cyprusHistoryV2: POI[] = [
                   "coords": [
                         32.871035,
                         34.928807
+                  ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "An enclosure for mouflons in the forest area near the Agios Nikolaos church.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
                   ]
             }
       ]
@@ -2668,6 +2749,15 @@ export const cyprusHistoryV2: POI[] = [
                         32.580936,
                         34.711597
                   ]
+            },
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Ein botanischer und traditioneller Themenpark in der Nähe des Heiligtums von Palaipaphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
             }
       ],
       "hu": [
@@ -2723,6 +2813,15 @@ export const cyprusHistoryV2: POI[] = [
                   "coords": [
                         32.580936,
                         34.711597
+                  ]
+            },
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Botanikus és hagyományőrző vidámpark a Palaipaphos-szentély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
                   ]
             }
       ],
@@ -2780,6 +2879,15 @@ export const cyprusHistoryV2: POI[] = [
                         32.580936,
                         34.711597
                   ]
+            },
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Un parc tematic botanic și tradițional situat lângă Sanctuarul din Palaipaphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
             }
       ],
       "en": [
@@ -2835,6 +2943,15 @@ export const cyprusHistoryV2: POI[] = [
                   "coords": [
                         32.580936,
                         34.711597
+                  ]
+            },
+            {
+                  "name": "Eleouthikia park",
+                  "text": "A botanical and traditional theme park located near the Sanctuary of Palaipaphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
                   ]
             }
       ]

@@ -138,7 +138,88 @@ export const maltaNatureV2: POI[] = [
     image: "/poi-images/malta-xrobb-l-ghagin-coastal-park-nature-v2.webp",
   },
       {
-    id: "malta-mistra-valley-nature-v2",
+    id: "malta-mistra-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xemxija (below Beach Haven)",
+                  "text": "Ein Badebereich unterhalb von Xemxija, der bei Einheimischen zum Schwimmen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.384599,
+                        35.948191
+                  ]
+            },
+            {
+                  "name": "Bajja tal-Fekruna",
+                  "text": "Fekruna Bay ist eine ruhige Bucht in Malta, ideal zum Schnorcheln und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389228,
+                        35.951771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xemxija (below Beach Haven)",
+                  "text": "Fürdőhely Xemxija alatt, amely népszerű a helyiek körében az úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.384599,
+                        35.948191
+                  ]
+            },
+            {
+                  "name": "Bajja tal-Fekruna",
+                  "text": "A Fekruna-öböl egy csendes öböl Máltán, amely ideális búvárkodásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389228,
+                        35.951771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xemxija (below Beach Haven)",
+                  "text": "O zonă de scăldat sub Xemxija, populară printre localnici pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        14.384599,
+                        35.948191
+                  ]
+            },
+            {
+                  "name": "Bajja tal-Fekruna",
+                  "text": "Golful Fekruna este un golf liniștit din Malta, ideal pentru snorkeling și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389228,
+                        35.951771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xemxija (below Beach Haven)",
+                  "text": "A swimming area below Xemxija popular among locals for bathing.",
+                  "category": "recreational",
+                  "coords": [
+                        14.384599,
+                        35.948191
+                  ]
+            },
+            {
+                  "name": "Fekruna Bay",
+                  "text": "Fekruna Bay is a quiet bay in Malta ideal for snorkeling and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.389228,
+                        35.951771
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "MT",
     name: { de: "Mistra Tal", hu: "Mistra-völgy", ro: "Valea Mistra", en: "Mistra Valley" },

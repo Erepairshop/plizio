@@ -517,6 +517,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         29.152833,
                         40.4343
                   ]
+            },
+            {
+                  "name": "Tarihi Balıkpazarı Hamamı",
+                  "text": "Ein historisches türkisches Bad in Gemlik, in der Nähe der Togg-Anlage.",
+                  "category": "recreational",
+                  "coords": [
+                        29.154342,
+                        40.435664
+                  ]
             }
       ],
       "hu": [
@@ -545,6 +554,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         29.152833,
                         40.4343
+                  ]
+            },
+            {
+                  "name": "Tarihi Balıkpazarı Hamamı",
+                  "text": "Történelmi törökfürdő Gemlikben, a Togg gyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.154342,
+                        40.435664
                   ]
             }
       ],
@@ -575,6 +593,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         29.152833,
                         40.4343
                   ]
+            },
+            {
+                  "name": "Tarihi Balıkpazarı Hamamı",
+                  "text": "O baie turcească istorică în Gemlik, situată lângă facilitatea Togg.",
+                  "category": "recreational",
+                  "coords": [
+                        29.154342,
+                        40.435664
+                  ]
             }
       ],
       "en": [
@@ -603,6 +630,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         29.152833,
                         40.4343
+                  ]
+            },
+            {
+                  "name": "Tarihi Balıkpazarı Hamamı",
+                  "text": "A historic Turkish bath in Gemlik, located near the Togg facility.",
+                  "category": "recreational",
+                  "coords": [
+                        29.154342,
+                        40.435664
                   ]
             }
       ]
@@ -868,6 +904,33 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         31.414756,
                         41.285839
                   ]
+            },
+            {
+                  "name": "AquaEreğli Düğün Salonu",
+                  "text": "Ein Wasserpark im Industriegebiet von Ereğli, der für Freizeit und Veranstaltungen genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        31.402973,
+                        41.223415
+                  ]
+            },
+            {
+                  "name": "Bozhane Hamamı",
+                  "text": "Ein traditionelles öffentliches Badehaus (Hamam) in Ereğli.",
+                  "category": "recreational",
+                  "coords": [
+                        31.413969,
+                        41.284064
+                  ]
+            },
+            {
+                  "name": "Açık Yüzme Havuzu",
+                  "text": "Ein Freibad in Ereğli, das Möglichkeiten zum Schwimmen im Freien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        31.4238,
+                        41.253386
+                  ]
             }
       ],
       "hu": [
@@ -941,6 +1004,33 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         31.414756,
                         41.285839
+                  ]
+            },
+            {
+                  "name": "AquaEreğli Düğün Salonu",
+                  "text": "Egy vízi park Ereğli ipari területén, amelyet szabadidős célokra és rendezvényekre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        31.402973,
+                        41.223415
+                  ]
+            },
+            {
+                  "name": "Bozhane Hamamı",
+                  "text": "Egy hagyományos nyilvános fürdő (hamam) Ereğli városában.",
+                  "category": "recreational",
+                  "coords": [
+                        31.413969,
+                        41.284064
+                  ]
+            },
+            {
+                  "name": "Açık Yüzme Havuzu",
+                  "text": "Egy szabadtéri úszómedence Ereğli városában, amely úszási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        31.4238,
+                        41.253386
                   ]
             }
       ],
@@ -1016,6 +1106,33 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         31.414756,
                         41.285839
                   ]
+            },
+            {
+                  "name": "AquaEreğli Düğün Salonu",
+                  "text": "Un parc acvatic situat în zona industrială din Ereğli, utilizat pentru recreere și evenimente.",
+                  "category": "recreational",
+                  "coords": [
+                        31.402973,
+                        41.223415
+                  ]
+            },
+            {
+                  "name": "Bozhane Hamamı",
+                  "text": "O baie publică tradițională (hamam) situată în Ereğli.",
+                  "category": "recreational",
+                  "coords": [
+                        31.413969,
+                        41.284064
+                  ]
+            },
+            {
+                  "name": "Açık Yüzme Havuzu",
+                  "text": "O piscină în aer liber situată în Ereğli, care oferă facilități pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        31.4238,
+                        41.253386
+                  ]
             }
       ],
       "en": [
@@ -1089,6 +1206,33 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         31.414756,
                         41.285839
+                  ]
+            },
+            {
+                  "name": "AquaEreğli Düğün Salonu",
+                  "text": "A water park facility in the industrial area of Ereğli, used for recreation and events.",
+                  "category": "recreational",
+                  "coords": [
+                        31.402973,
+                        41.223415
+                  ]
+            },
+            {
+                  "name": "Bozhane Hamamı",
+                  "text": "A traditional public bath (hamam) located in Ereğli.",
+                  "category": "recreational",
+                  "coords": [
+                        31.413969,
+                        41.284064
+                  ]
+            },
+            {
+                  "name": "Açık Yüzme Havuzu",
+                  "text": "An open-air swimming pool located in Ereğli, providing facilities for outdoor swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        31.4238,
+                        41.253386
                   ]
             }
       ]
@@ -1516,6 +1660,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         29.431538,
                         40.799813
                   ]
+            },
+            {
+                  "name": "Gebze Olimpik Yüzme Havuzu",
+                  "text": "Ein olympisches Schwimmbecken im Industriegebiet von Gebze.",
+                  "category": "recreational",
+                  "coords": [
+                        29.436533,
+                        40.804371
+                  ]
             }
       ],
       "hu": [
@@ -1544,6 +1697,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         29.431538,
                         40.799813
+                  ]
+            },
+            {
+                  "name": "Gebze Olimpik Yüzme Havuzu",
+                  "text": "Olimpiai méretű úszómedence Gebze ipari övezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.436533,
+                        40.804371
                   ]
             }
       ],
@@ -1574,6 +1736,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         29.431538,
                         40.799813
                   ]
+            },
+            {
+                  "name": "Gebze Olimpik Yüzme Havuzu",
+                  "text": "O piscină olimpică situată în zona industrială din Gebze.",
+                  "category": "recreational",
+                  "coords": [
+                        29.436533,
+                        40.804371
+                  ]
             }
       ],
       "en": [
@@ -1602,6 +1773,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         29.431538,
                         40.799813
+                  ]
+            },
+            {
+                  "name": "Gebze Olimpik Yüzme Havuzu",
+                  "text": "An Olympic-sized swimming pool located in the Gebze industrial zone.",
+                  "category": "recreational",
+                  "coords": [
+                        29.436533,
+                        40.804371
                   ]
             }
       ]
@@ -1885,6 +2065,24 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         28.907613,
                         40.237589
                   ]
+            },
+            {
+                  "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
+                  "text": "Ein Schwimmbad beim Oyak Renault Werk in Bursa.",
+                  "category": "recreational",
+                  "coords": [
+                        28.991566,
+                        40.227955
+                  ]
+            },
+            {
+                  "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
+                  "text": "Ein Schwimmbad beim Oyak Renault Werk in Bursa.",
+                  "category": "recreational",
+                  "coords": [
+                        28.982894,
+                        40.20249
+                  ]
             }
       ],
       "hu": [
@@ -1940,6 +2138,24 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         28.907613,
                         40.237589
+                  ]
+            },
+            {
+                  "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
+                  "text": "Úszómedence a bursai Oyak Renault gyárnál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.991566,
+                        40.227955
+                  ]
+            },
+            {
+                  "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
+                  "text": "Úszómedence a bursai Oyak Renault gyárnál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.982894,
+                        40.20249
                   ]
             }
       ],
@@ -1997,6 +2213,24 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         28.907613,
                         40.237589
                   ]
+            },
+            {
+                  "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
+                  "text": "O piscină lângă fabrica Oyak Renault din Bursa.",
+                  "category": "recreational",
+                  "coords": [
+                        28.991566,
+                        40.227955
+                  ]
+            },
+            {
+                  "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
+                  "text": "O piscină lângă fabrica Oyak Renault din Bursa.",
+                  "category": "recreational",
+                  "coords": [
+                        28.982894,
+                        40.20249
+                  ]
             }
       ],
       "en": [
@@ -2052,6 +2286,24 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         28.907613,
                         40.237589
+                  ]
+            },
+            {
+                  "name": "Yeni Karaman Yarı Olimpik Yüzme Havuzu",
+                  "text": "A swimming pool near the Oyak Renault Bursa Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        28.991566,
+                        40.227955
+                  ]
+            },
+            {
+                  "name": "Nilüfer Belediyesi Konak Olimpik yüzme havuzu",
+                  "text": "A swimming pool near the Oyak Renault Bursa Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        28.982894,
+                        40.20249
                   ]
             }
       ]
@@ -2128,6 +2380,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         29.835219,
                         40.723403
                   ]
+            },
+            {
+                  "name": "Derince Hamamı",
+                  "text": "Ein traditionelles türkisches Bad im Bezirk Derince.",
+                  "category": "recreational",
+                  "coords": [
+                        29.828683,
+                        40.753742
+                  ]
             }
       ],
       "hu": [
@@ -2165,6 +2426,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         29.835219,
                         40.723403
+                  ]
+            },
+            {
+                  "name": "Derince Hamamı",
+                  "text": "Tradicionális törökfürdő Derince negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.828683,
+                        40.753742
                   ]
             }
       ],
@@ -2204,6 +2474,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                         29.835219,
                         40.723403
                   ]
+            },
+            {
+                  "name": "Derince Hamamı",
+                  "text": "O baie turcească tradițională în districtul Derince.",
+                  "category": "recreational",
+                  "coords": [
+                        29.828683,
+                        40.753742
+                  ]
             }
       ],
       "en": [
@@ -2241,6 +2520,15 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
                   "coords": [
                         29.835219,
                         40.723403
+                  ]
+            },
+            {
+                  "name": "Derince Hamamı",
+                  "text": "A traditional Turkish bath located in the Derince district.",
+                  "category": "recreational",
+                  "coords": [
+                        29.828683,
+                        40.753742
                   ]
             }
       ]

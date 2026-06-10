@@ -246,6 +246,24 @@ export const mkPoisPart3: POI[] = [
                         21.714727,
                         42.137461
                   ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Ein Schwimmbad in Kumanovo für Freizeit und Training.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Das städtische Schwimmbad von Kumanovo für öffentliche Nutzung.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
             }
       ],
       "hu": [
@@ -265,6 +283,24 @@ export const mkPoisPart3: POI[] = [
                   "coords": [
                         21.714727,
                         42.137461
+                  ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Úszómedence Kumanovóban szabadidős és edzési célokra.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Kumanovo városi úszómedencéje nyilvános használatra.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
                   ]
             }
       ],
@@ -286,6 +322,24 @@ export const mkPoisPart3: POI[] = [
                         21.714727,
                         42.137461
                   ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "O piscină în Kumanovo pentru agrement și antrenament.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Piscina municipală din Kumanovo pentru uz public.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
             }
       ],
       "en": [
@@ -305,6 +359,24 @@ export const mkPoisPart3: POI[] = [
                   "coords": [
                         21.714727,
                         42.137461
+                  ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "A swimming pool in Kumanovo used for leisure and training.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "The municipal swimming pool of Kumanovo for public use.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
                   ]
             }
       ]

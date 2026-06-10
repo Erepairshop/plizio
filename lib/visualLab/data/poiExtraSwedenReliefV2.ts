@@ -1081,6 +1081,15 @@ imageHint: "Areskutan mountain with ski slopes",
                         20.659415,
                         67.132324
                   ]
+            },
+            {
+                  "name": "Sandviken",
+                  "text": "Ein öffentlicher Badeplatz in der Nähe des Berges Dundret in Lappland.",
+                  "category": "recreational",
+                  "coords": [
+                        20.627983,
+                        67.137526
+                  ]
             }
       ],
       "hu": [
@@ -1145,6 +1154,15 @@ imageHint: "Areskutan mountain with ski slopes",
                   "coords": [
                         20.659415,
                         67.132324
+                  ]
+            },
+            {
+                  "name": "Sandviken",
+                  "text": "Nyilvános fürdőhely a lappföldi Dundret-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.627983,
+                        67.137526
                   ]
             }
       ],
@@ -1211,6 +1229,15 @@ imageHint: "Areskutan mountain with ski slopes",
                         20.659415,
                         67.132324
                   ]
+            },
+            {
+                  "name": "Sandviken",
+                  "text": "Un loc public de scăldat lângă muntele Dundret din Laponia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.627983,
+                        67.137526
+                  ]
             }
       ],
       "en": [
@@ -1275,6 +1302,15 @@ imageHint: "Areskutan mountain with ski slopes",
                   "coords": [
                         20.659415,
                         67.132324
+                  ]
+            },
+            {
+                  "name": "Sandviken",
+                  "text": "A public bathing spot located near the Dundret mountain in Lapland.",
+                  "category": "recreational",
+                  "coords": [
+                        20.627983,
+                        67.137526
                   ]
             }
       ]
@@ -2411,6 +2447,24 @@ imageHint: "Omberg mountain cliff Lake Vattern",
                         14.077446,
                         57.662105
                   ]
+            },
+            {
+                  "name": "Tahe badet",
+                  "text": "Ein Badeplatz am See in der Nähe des markanten Berges Taberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.115816,
+                        57.673024
+                  ]
+            },
+            {
+                  "name": "Åsabadet",
+                  "text": "Ein öffentliches Bad für Erholung in der Ortschaft Taberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.090718,
+                        57.693038
+                  ]
             }
       ],
       "hu": [
@@ -2466,6 +2520,24 @@ imageHint: "Omberg mountain cliff Lake Vattern",
                   "coords": [
                         14.077446,
                         57.662105
+                  ]
+            },
+            {
+                  "name": "Tahe badet",
+                  "text": "Tóparti fürdőhely a jellegzetes Taberg-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.115816,
+                        57.673024
+                  ]
+            },
+            {
+                  "name": "Åsabadet",
+                  "text": "Nyilvános fürdőhely kikapcsolódásra Taberg településen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.090718,
+                        57.693038
                   ]
             }
       ],
@@ -2523,6 +2595,24 @@ imageHint: "Omberg mountain cliff Lake Vattern",
                         14.077446,
                         57.662105
                   ]
+            },
+            {
+                  "name": "Tahe badet",
+                  "text": "O zonă de înot pe malul lacului, lângă muntele Taberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.115816,
+                        57.673024
+                  ]
+            },
+            {
+                  "name": "Åsabadet",
+                  "text": "O baie publică pentru recreere în localitatea Taberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.090718,
+                        57.693038
+                  ]
             }
       ],
       "en": [
@@ -2578,6 +2668,24 @@ imageHint: "Omberg mountain cliff Lake Vattern",
                   "coords": [
                         14.077446,
                         57.662105
+                  ]
+            },
+            {
+                  "name": "Tahe badet",
+                  "text": "A lakeside swimming area located near the prominent Taberg hill.",
+                  "category": "recreational",
+                  "coords": [
+                        14.115816,
+                        57.673024
+                  ]
+            },
+            {
+                  "name": "Åsabadet",
+                  "text": "A public bath for recreation located in the village of Taberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.090718,
+                        57.693038
                   ]
             }
       ]
@@ -2737,6 +2845,24 @@ imageHint: "Skierfe mountain cliff view Rapadalen delta",
                         12.505707,
                         56.295537
                   ]
+            },
+            {
+                  "name": "Nakenbad för damer",
+                  "text": "Ein traditioneller Freiluft-Badebereich für Frauen an der Küste von Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "Ein malerischer öffentlicher Badeplatz an der Küste von Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
+                  ]
             }
       ],
       "hu": [
@@ -2801,6 +2927,24 @@ imageHint: "Skierfe mountain cliff view Rapadalen delta",
                   "coords": [
                         12.505707,
                         56.295537
+                  ]
+            },
+            {
+                  "name": "Nakenbad för damer",
+                  "text": "Hagyományos szabadtéri fürdőhely nők számára Kullaberg tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "Festői nyilvános fürdőhely a kullabergi tengerpart mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
                   ]
             }
       ],
@@ -2867,6 +3011,24 @@ imageHint: "Skierfe mountain cliff view Rapadalen delta",
                         12.505707,
                         56.295537
                   ]
+            },
+            {
+                  "name": "Nakenbad för damer",
+                  "text": "O zonă tradițională de scăldat în aer liber pentru femei, situată pe coasta Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "Un loc pitoresc de înot public situat de-a lungul coastei Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
+                  ]
             }
       ],
       "en": [
@@ -2931,6 +3093,24 @@ imageHint: "Skierfe mountain cliff view Rapadalen delta",
                   "coords": [
                         12.505707,
                         56.295537
+                  ]
+            },
+            {
+                  "name": "Nude bath for Ladies",
+                  "text": "A traditional open-air bathing area for women located on the coast of Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.486002,
+                        56.288833
+                  ]
+            },
+            {
+                  "name": "Fågelviken",
+                  "text": "A scenic public swimming spot situated along the Kullaberg coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        12.49717,
+                        56.279202
                   ]
             }
       ]
@@ -3044,6 +3224,15 @@ imageHint: "Kullaberg rocky cliffs and sea",
                         13.227427,
                         56.040115
                   ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "Röstångabadet ist ein Wasserpark in Söderåsen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
+                  ]
             }
       ],
       "hu": [
@@ -3108,6 +3297,15 @@ imageHint: "Kullaberg rocky cliffs and sea",
                   "coords": [
                         13.227427,
                         56.040115
+                  ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "Röstångabadet egy vízipark Söderåsenben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
                   ]
             }
       ],
@@ -3174,6 +3372,15 @@ imageHint: "Kullaberg rocky cliffs and sea",
                         13.227427,
                         56.040115
                   ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "Röstångabadet este un parc acvatic în Söderåsen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
+                  ]
             }
       ],
       "en": [
@@ -3238,6 +3445,15 @@ imageHint: "Kullaberg rocky cliffs and sea",
                   "coords": [
                         13.227427,
                         56.040115
+                  ]
+            },
+            {
+                  "name": "Röstångabadet",
+                  "text": "Röstångabadet is a water park located in Söderåsen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.280954,
+                        55.996255
                   ]
             }
       ]
@@ -3923,7 +4139,52 @@ imageHint: "Sonfjallet mountain silhouette",
     },
     image: "/poi-images/sweden-sonfjallet-relief-v2.webp",
 },  {
-    id: "sweden-hovarken-relief-v2",
+    id: "sweden-hovarken-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uppvallens fäbod",
+                  "text": "Eine traditionelle Almhütte bei Hovärken, die Einblick in die regionale Landwirtschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.244756,
+                        62.1277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uppvallens fäbod",
+                  "text": "Hagyományos hegyi pásztorszállás Hovärken közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.244756,
+                        62.1277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uppvallens fäbod",
+                  "text": "O colibă pastorală tradițională lângă Hovärken, reprezentativă pentru agricultura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        13.244756,
+                        62.1277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uppvallens fäbod",
+                  "text": "A traditional summer farm near Hovärken, showcasing regional pastoral life.",
+                  "category": "landmark",
+                  "coords": [
+                        13.244756,
+                        62.1277
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "mountain",
     name: { de: "Hovärken", hu: "Hovärken", ro: "Hovärken", en: "Hovärken"},
@@ -6008,7 +6269,52 @@ imageHint: "Nallo mountain peak Needle Lapland",
     image: "/poi-images/sweden-rattviks-backe-relief-v2.webp",
   },
   {
-    id: "sweden-kallax-berg-relief-v2",
+    id: "sweden-kallax-berg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lulviksbadet",
+                  "text": "Lulviksbadet ist ein schwedischer Badeplatz am Kallax Hill, der im Sommer lokale Badegäste anzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156867,
+                        65.545291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lulviksbadet",
+                  "text": "A Lulviksbadet egy svéd fürdőhely a Kallax-hegynél, amely nyáron vonzza a helyi fürdőzőket.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156867,
+                        65.545291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lulviksbadet",
+                  "text": "Lulviksbadet este un loc de scăldat suedez la Kallax Hill, care atrage localnicii în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156867,
+                        65.545291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lulviksbadet",
+                  "text": "Lulviksbadet is a Swedish swimming spot at Kallax Hill that attracts local bathers during summer.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156867,
+                        65.545291
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SE",
     name: { de: "Kallax-Berg", hu: "Kallax-hegy", ro: "Muntele Kallax", en: "Kallax Hill" },
@@ -6117,6 +6423,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                         12.574959,
                         56.273883
                   ]
+            },
+            {
+                  "name": "Tussan i arild",
+                  "text": "Tussan i arild ist ein Badeplatz im Osten von Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570795,
+                        56.277584
+                  ]
             }
       ],
       "hu": [
@@ -6181,6 +6496,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                   "coords": [
                         12.574959,
                         56.273883
+                  ]
+            },
+            {
+                  "name": "Tussan i arild",
+                  "text": "Tussan i arild egy fürdőhely Kullaberg keleti részén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570795,
+                        56.277584
                   ]
             }
       ],
@@ -6247,6 +6571,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                         12.574959,
                         56.273883
                   ]
+            },
+            {
+                  "name": "Tussan i arild",
+                  "text": "Tussan i arild este un loc de scăldat în partea de est a Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570795,
+                        56.277584
+                  ]
             }
       ],
       "en": [
@@ -6311,6 +6644,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                   "coords": [
                         12.574959,
                         56.273883
+                  ]
+            },
+            {
+                  "name": "Tussan i arild",
+                  "text": "Tussan i arild is a swimming spot in eastern Kullaberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570795,
+                        56.277584
                   ]
             }
       ]
@@ -6396,6 +6738,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                         14.392227,
                         62.030625
                   ]
+            },
+            {
+                  "name": "Svegs badhus",
+                  "text": "Ein öffentliches Badehaus mit Schwimmbecken für Training und Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359632,
+                        62.031562
+                  ]
             }
       ],
       "hu": [
@@ -6433,6 +6784,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                   "coords": [
                         14.392227,
                         62.030625
+                  ]
+            },
+            {
+                  "name": "Svegs badhus",
+                  "text": "Nyilvános fürdőház úszómedencékkel edzéshez és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359632,
+                        62.031562
                   ]
             }
       ],
@@ -6472,6 +6832,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                         14.392227,
                         62.030625
                   ]
+            },
+            {
+                  "name": "Svegs badhus",
+                  "text": "O baie publică cu bazine de înot pentru antrenament și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359632,
+                        62.031562
+                  ]
             }
       ],
       "en": [
@@ -6509,6 +6878,15 @@ imageHint: "Nallo mountain peak Needle Lapland",
                   "coords": [
                         14.392227,
                         62.030625
+                  ]
+            },
+            {
+                  "name": "Svegs badhus",
+                  "text": "A public bathhouse with swimming pools for training and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359632,
+                        62.031562
                   ]
             }
       ]

@@ -5044,6 +5044,15 @@ imageHint: "Akureyri church and fjord view",
                         -22.556155,
                         64.007462
                   ]
+            },
+            {
+                  "name": "Landnámsdýrin",
+                  "text": "Ein kleiner Zoo in Keflavík, der sich auf isländische Nutztierrassen konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.526903,
+                        63.974934
+                  ]
             }
       ],
       "hu": [
@@ -5108,6 +5117,15 @@ imageHint: "Akureyri church and fjord view",
                   "coords": [
                         -22.556155,
                         64.007462
+                  ]
+            },
+            {
+                  "name": "Landnámsdýrin",
+                  "text": "Keflavíki kisállatkert, amely a honfoglalás kori izlandi háziállatokat mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.526903,
+                        63.974934
                   ]
             }
       ],
@@ -5174,6 +5192,15 @@ imageHint: "Akureyri church and fjord view",
                         -22.556155,
                         64.007462
                   ]
+            },
+            {
+                  "name": "Landnámsdýrin",
+                  "text": "O mică grădină zoologică în Keflavík, axată pe animalele de fermă islandeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.526903,
+                        63.974934
+                  ]
             }
       ],
       "en": [
@@ -5238,6 +5265,15 @@ imageHint: "Akureyri church and fjord view",
                   "coords": [
                         -22.556155,
                         64.007462
+                  ]
+            },
+            {
+                  "name": "Landnámsdýrin",
+                  "text": "A small zoo in Keflavík focusing on Icelandic settlement-era farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.526903,
+                        63.974934
                   ]
             }
       ]
@@ -8100,7 +8136,88 @@ imageHint: "Hofn town with Vatnajokull glacier in background",
     },
     image: "/poi-images/iceland-hofn-cities-v2.webp",
 },  {
-    id: "iceland-thorlakshofn-cities-v2",
+    id: "iceland-thorlakshofn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Þorli",
+                  "text": "Thorli beach ist ein markanter Strand in Þorlákshöfn, der für seinen dunklen Sand und die raue isländische Natur bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.375519,
+                        63.867372
+                  ]
+            },
+            {
+                  "name": "Hafnarskeið",
+                  "text": "Hafnarskeið ist ein Küstenabschnitt in Þorlákshöfn, der weite Ausblicke auf den Nordatlantik bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.371829,
+                        63.86866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Þorli",
+                  "text": "A Thorli beach egy jellegzetes strand Þorlákshöfnben, amely sötét homokjáról és a vad izlandi természetről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.375519,
+                        63.867372
+                  ]
+            },
+            {
+                  "name": "Hafnarskeið",
+                  "text": "Hafnarskeið egy tengerparti szakasz Þorlákshöfnben, amely tágas kilátást nyújt az Atlanti-óceán északi részére.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.371829,
+                        63.86866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Þorli",
+                  "text": "Thorli beach este o plajă distinctivă în Þorlákshöfn, cunoscută pentru nisipul său închis la culoare și natura islandeză aspră.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.375519,
+                        63.867372
+                  ]
+            },
+            {
+                  "name": "Hafnarskeið",
+                  "text": "Hafnarskeið este o porțiune de coastă în Þorlákshöfn, oferind vederi largi asupra Atlanticului de Nord.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.371829,
+                        63.86866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thorli beach",
+                  "text": "Thorli beach is a distinctive beach in Þorlákshöfn, known for its dark sand and rugged Icelandic nature.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.375519,
+                        63.867372
+                  ]
+            },
+            {
+                  "name": "Hafnarskeið",
+                  "text": "Hafnarskeið is a coastal area in Þorlákshöfn, offering expansive views of the North Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.371829,
+                        63.86866
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Þorlákshöfn", hu: "Þorlákshöfn", ro: "Þorlákshöfn", en: "Þorlákshöfn"},

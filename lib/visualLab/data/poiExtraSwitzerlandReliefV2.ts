@@ -1534,6 +1534,15 @@ export const switzerlandReliefV2: POI[] = [
                         9.353551,
                         47.260838
                   ]
+            },
+            {
+                  "name": "Badi Schönenbodensee",
+                  "text": "Ein öffentlicher Badeplatz am Schönenbodensee am Fuße des Säntis.",
+                  "category": "recreational",
+                  "coords": [
+                        9.366631,
+                        47.207604
+                  ]
             }
       ],
       "hu": [
@@ -1607,6 +1616,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         9.353551,
                         47.260838
+                  ]
+            },
+            {
+                  "name": "Badi Schönenbodensee",
+                  "text": "Nyilvános fürdőhely a Schönenbodensee partján, a Säntis lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.366631,
+                        47.207604
                   ]
             }
       ],
@@ -1682,6 +1700,15 @@ export const switzerlandReliefV2: POI[] = [
                         9.353551,
                         47.260838
                   ]
+            },
+            {
+                  "name": "Badi Schönenbodensee",
+                  "text": "O zonă publică de înot pe malul lacului Schönenbodensee, la poalele muntelui Säntis.",
+                  "category": "recreational",
+                  "coords": [
+                        9.366631,
+                        47.207604
+                  ]
             }
       ],
       "en": [
@@ -1755,6 +1782,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         9.353551,
                         47.260838
+                  ]
+            },
+            {
+                  "name": "Badi Schönenbodensee",
+                  "text": "A public bathing area by the Schönenbodensee lake at the foot of Mount Säntis.",
+                  "category": "recreational",
+                  "coords": [
+                        9.366631,
+                        47.207604
                   ]
             }
       ]
@@ -3712,6 +3748,15 @@ export const switzerlandReliefV2: POI[] = [
                         7.857393,
                         46.561978
                   ]
+            },
+            {
+                  "name": "Schiltalp",
+                  "text": "Schiltalp ist ein Schwimmbad in der hochgelegenen Schilthorn-Region.",
+                  "category": "recreational",
+                  "coords": [
+                        7.869749,
+                        46.55374
+                  ]
             }
       ],
       "hu": [
@@ -3776,6 +3821,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         7.857393,
                         46.561978
+                  ]
+            },
+            {
+                  "name": "Schiltalp",
+                  "text": "A Schiltalp egy úszómedence a magasan fekvő Schilthorn régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.869749,
+                        46.55374
                   ]
             }
       ],
@@ -3842,6 +3896,15 @@ export const switzerlandReliefV2: POI[] = [
                         7.857393,
                         46.561978
                   ]
+            },
+            {
+                  "name": "Schiltalp",
+                  "text": "Schiltalp este o piscină situată în regiunea de mare altitudine Schilthorn.",
+                  "category": "recreational",
+                  "coords": [
+                        7.869749,
+                        46.55374
+                  ]
             }
       ],
       "en": [
@@ -3906,6 +3969,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         7.857393,
                         46.561978
+                  ]
+            },
+            {
+                  "name": "Schiltalp",
+                  "text": "Schiltalp is a swimming pool located in the high-altitude Schilthorn region.",
+                  "category": "recreational",
+                  "coords": [
+                        7.869749,
+                        46.55374
                   ]
             }
       ]
@@ -6799,6 +6871,15 @@ export const switzerlandReliefV2: POI[] = [
                         9.693926,
                         46.418969
                   ]
+            },
+            {
+                  "name": "Piz Aela",
+                  "text": "Ein Berggipfel in den Albula-Alpen im Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.708588,
+                        46.394294
+                  ]
             }
       ],
       "hu": [
@@ -6863,6 +6944,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         9.693926,
                         46.418969
+                  ]
+            },
+            {
+                  "name": "Piz Aela",
+                  "text": "Hegyi csúcs az Albula-Alpokban, Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.708588,
+                        46.394294
                   ]
             }
       ],
@@ -6929,6 +7019,15 @@ export const switzerlandReliefV2: POI[] = [
                         9.693926,
                         46.418969
                   ]
+            },
+            {
+                  "name": "Piz Aela",
+                  "text": "Un vârf muntos în Alpii Albula, în cantonul Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.708588,
+                        46.394294
+                  ]
             }
       ],
       "en": [
@@ -6993,6 +7092,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         9.693926,
                         46.418969
+                  ]
+            },
+            {
+                  "name": "Piz Aela",
+                  "text": "A mountain peak in the Albula Alps in the canton of Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.708588,
+                        46.394294
                   ]
             }
       ]
@@ -12172,6 +12280,15 @@ export const switzerlandReliefV2: POI[] = [
                         9.43271,
                         46.659715
                   ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "Badi Thusis ist ein Wasserpark im Gebiet Piz d'Artgas South.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
+                  ]
             }
       ],
       "hu": [
@@ -12245,6 +12362,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         9.43271,
                         46.659715
+                  ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "A Badi Thusis egy vízi park a Piz d'Artgas South területén.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
                   ]
             }
       ],
@@ -12320,6 +12446,15 @@ export const switzerlandReliefV2: POI[] = [
                         9.43271,
                         46.659715
                   ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "Badi Thusis este un parc acvatic situat în zona Piz d'Artgas Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
+                  ]
             }
       ],
       "en": [
@@ -12393,6 +12528,15 @@ export const switzerlandReliefV2: POI[] = [
                   "coords": [
                         9.43271,
                         46.659715
+                  ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "Badi Thusis is a water park located in the Piz d'Artgas South area.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
                   ]
             }
       ]

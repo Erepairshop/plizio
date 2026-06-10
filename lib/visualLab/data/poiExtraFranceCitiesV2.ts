@@ -284,6 +284,15 @@ export const franceCitiesV2: POI[] = [
                         7.112083,
                         43.585079
                   ]
+            },
+            {
+                  "name": "Kid's Pool",
+                  "text": "Ein speziell für Kinder konzipierter Schwimmbereich in der Stadt Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.124603,
+                        43.616371
+                  ]
             }
       ],
       "hu": [
@@ -522,6 +531,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.112083,
                         43.585079
+                  ]
+            },
+            {
+                  "name": "Kid's Pool",
+                  "text": "Kifejezetten gyermekek számára kialakított úszóhely Antibes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.124603,
+                        43.616371
                   ]
             }
       ],
@@ -762,6 +780,15 @@ export const franceCitiesV2: POI[] = [
                         7.112083,
                         43.585079
                   ]
+            },
+            {
+                  "name": "Kid's Pool",
+                  "text": "O zonă de înot concepută special pentru copii în orașul Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.124603,
+                        43.616371
+                  ]
             }
       ],
       "en": [
@@ -1000,6 +1027,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.112083,
                         43.585079
+                  ]
+            },
+            {
+                  "name": "Kid's Pool",
+                  "text": "A swimming area specifically designed for children in the city of Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.124603,
+                        43.616371
                   ]
             }
       ],
@@ -12412,6 +12448,69 @@ export const franceCitiesV2: POI[] = [
                         7.216138,
                         43.673628
                   ]
+            },
+            {
+                  "name": "Carras Plage",
+                  "text": "Ein Kieselstrand in Nizza, bekannt für seinen direkten Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233457,
+                        43.682036
+                  ]
+            },
+            {
+                  "name": "Plage Ste Hélène",
+                  "text": "Ein Strandabschnitt an der Promenade des Anglais in Nizza.",
+                  "category": "recreational",
+                  "coords": [
+                        7.237335,
+                        43.68556
+                  ]
+            },
+            {
+                  "name": "Les Canailles",
+                  "text": "Les Canailles ist ein Strand in Nice-Sud an der Mittelmeerküste.",
+                  "category": "recreational",
+                  "coords": [
+                        7.239442,
+                        43.687135
+                  ]
+            },
+            {
+                  "name": "Cocoon Beach",
+                  "text": "Cocoon Beach ist ein Strandabschnitt in Nice-Sud am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.24178,
+                        43.688454
+                  ]
+            },
+            {
+                  "name": "Bambou Plage",
+                  "text": "Bambou Plage ist ein Strand in Nice-Sud an der Côte d'Azur.",
+                  "category": "recreational",
+                  "coords": [
+                        7.244237,
+                        43.689697
+                  ]
+            },
+            {
+                  "name": "Blue Beach",
+                  "text": "Blue Beach ist ein zentraler Strandabschnitt in Nice-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        7.259235,
+                        43.693969
+                  ]
+            },
+            {
+                  "name": "Plage des chiens Brigitte Bardot",
+                  "text": "Brigitte Bardot Beach ist ein Strand in Nice-Sud am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.243139,
+                        43.689178
+                  ]
             }
       ],
       "hu": [
@@ -12544,6 +12643,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.216138,
                         43.673628
+                  ]
+            },
+            {
+                  "name": "Carras Plage",
+                  "text": "Kavicsos strand Nizzában, amely közvetlen tengerparti kapcsolatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233457,
+                        43.682036
+                  ]
+            },
+            {
+                  "name": "Plage Ste Hélène",
+                  "text": "Tengerparti szakasz a nizzai Promenade des Anglais sétány mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.237335,
+                        43.68556
+                  ]
+            },
+            {
+                  "name": "Les Canailles",
+                  "text": "Les Canailles egy strand Nice-Sud területén, a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        7.239442,
+                        43.687135
+                  ]
+            },
+            {
+                  "name": "Cocoon Beach",
+                  "text": "Cocoon Beach egy tengerparti szakasz Nice-Sud területén, a Földközi-tengernél.",
+                  "category": "recreational",
+                  "coords": [
+                        7.24178,
+                        43.688454
+                  ]
+            },
+            {
+                  "name": "Bambou Plage",
+                  "text": "Bambou Plage egy strand Nice-Sud területén, a francia Riviérán.",
+                  "category": "recreational",
+                  "coords": [
+                        7.244237,
+                        43.689697
+                  ]
+            },
+            {
+                  "name": "Blue Beach",
+                  "text": "Blue Beach egy központi strandrész Nice-Sud területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.259235,
+                        43.693969
+                  ]
+            },
+            {
+                  "name": "Plage des chiens Brigitte Bardot",
+                  "text": "Brigitte Bardot Beach egy strand Nice-Sud területén, a Földközi-tengernél.",
+                  "category": "recreational",
+                  "coords": [
+                        7.243139,
+                        43.689178
                   ]
             }
       ],
@@ -12678,6 +12840,69 @@ export const franceCitiesV2: POI[] = [
                         7.216138,
                         43.673628
                   ]
+            },
+            {
+                  "name": "Carras Plage",
+                  "text": "O plajă cu pietriș în Nisa, cunoscută pentru accesul său direct la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233457,
+                        43.682036
+                  ]
+            },
+            {
+                  "name": "Plage Ste Hélène",
+                  "text": "O secțiune de plajă situată de-a lungul Promenade des Anglais din Nisa.",
+                  "category": "recreational",
+                  "coords": [
+                        7.237335,
+                        43.68556
+                  ]
+            },
+            {
+                  "name": "Les Canailles",
+                  "text": "Les Canailles este o plajă din Nice-Sud, situată la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.239442,
+                        43.687135
+                  ]
+            },
+            {
+                  "name": "Cocoon Beach",
+                  "text": "Cocoon Beach este o porțiune de plajă din Nice-Sud, la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.24178,
+                        43.688454
+                  ]
+            },
+            {
+                  "name": "Bambou Plage",
+                  "text": "Bambou Plage este o plajă din Nice-Sud, pe Coasta de Azur.",
+                  "category": "recreational",
+                  "coords": [
+                        7.244237,
+                        43.689697
+                  ]
+            },
+            {
+                  "name": "Blue Beach",
+                  "text": "Blue Beach este o secțiune centrală de plajă din Nice-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        7.259235,
+                        43.693969
+                  ]
+            },
+            {
+                  "name": "Plage des chiens Brigitte Bardot",
+                  "text": "Brigitte Bardot Beach este o plajă din Nice-Sud, la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.243139,
+                        43.689178
+                  ]
             }
       ],
       "en": [
@@ -12810,6 +13035,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.216138,
                         43.673628
+                  ]
+            },
+            {
+                  "name": "Carras Plage",
+                  "text": "A pebble beach in Nice, known for its direct access to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233457,
+                        43.682036
+                  ]
+            },
+            {
+                  "name": "Plage Ste Hélène",
+                  "text": "A beach section located along the Promenade des Anglais in Nice.",
+                  "category": "recreational",
+                  "coords": [
+                        7.237335,
+                        43.68556
+                  ]
+            },
+            {
+                  "name": "Les Canailles",
+                  "text": "Les Canailles is a beach located in Nice-Sud on the Mediterranean coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.239442,
+                        43.687135
+                  ]
+            },
+            {
+                  "name": "Cocoon Beach",
+                  "text": "Cocoon Beach is a beach area in Nice-Sud by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.24178,
+                        43.688454
+                  ]
+            },
+            {
+                  "name": "Bambou Plage",
+                  "text": "Bambou Plage is a beach in Nice-Sud on the French Riviera.",
+                  "category": "recreational",
+                  "coords": [
+                        7.244237,
+                        43.689697
+                  ]
+            },
+            {
+                  "name": "Blue Beach",
+                  "text": "Blue Beach is a central beach section in Nice-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        7.259235,
+                        43.693969
+                  ]
+            },
+            {
+                  "name": "Brigitte Bardot Beach",
+                  "text": "Brigitte Bardot Beach is a beach in Nice-Sud by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.243139,
+                        43.689178
                   ]
             }
       ],
@@ -14422,6 +14710,96 @@ export const franceCitiesV2: POI[] = [
                         5.374158,
                         43.256328
                   ]
+            },
+            {
+                  "name": "Plage de la Vieille Chapelle",
+                  "text": "Plage de la Vieille Chapelle ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.372591,
+                        43.252254
+                  ]
+            },
+            {
+                  "name": "Plage du Prophète",
+                  "text": "Plage du Prophète ist einer der ältesten und beliebtesten Sandstrände in Marseille.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362119,
+                        43.27314
+                  ]
+            },
+            {
+                  "name": "Plage des Sablettes",
+                  "text": "Plage des Sablettes ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.360423,
+                        43.236943
+                  ]
+            },
+            {
+                  "name": "Plage de la Bonne Brise",
+                  "text": "Plage de la Bonne Brise ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.359937,
+                        43.236011
+                  ]
+            },
+            {
+                  "name": "Plage des Phocéens",
+                  "text": "Plage des Phocéens ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.361717,
+                        43.238035
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe Rouge",
+                  "text": "Plage de la Pointe Rouge ist der größte Sandstrand in Marseille.",
+                  "category": "recreational",
+                  "coords": [
+                        5.371068,
+                        43.244616
+                  ]
+            },
+            {
+                  "name": "Plage de Bonneveine",
+                  "text": "Plage de Bonneveine ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.37383,
+                        43.253288
+                  ]
+            },
+            {
+                  "name": "Plage de Borély",
+                  "text": "Plage de Borély ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.375065,
+                        43.256287
+                  ]
+            },
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "Plage de la Batterie ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362536,
+                        43.240969
+                  ]
+            },
+            {
+                  "name": "Plage du Bain des Dames",
+                  "text": "Plage du Bain des Dames ist ein Strand in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362456,
+                        43.239909
+                  ]
             }
       ],
       "hu": [
@@ -14554,6 +14932,96 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.374158,
                         43.256328
+                  ]
+            },
+            {
+                  "name": "Plage de la Vieille Chapelle",
+                  "text": "A Plage de la Vieille Chapelle egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.372591,
+                        43.252254
+                  ]
+            },
+            {
+                  "name": "Plage du Prophète",
+                  "text": "A Plage du Prophète Marseille egyik legrégebbi és legnépszerűbb homokos strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362119,
+                        43.27314
+                  ]
+            },
+            {
+                  "name": "Plage des Sablettes",
+                  "text": "A Plage des Sablettes egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.360423,
+                        43.236943
+                  ]
+            },
+            {
+                  "name": "Plage de la Bonne Brise",
+                  "text": "A Plage de la Bonne Brise egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.359937,
+                        43.236011
+                  ]
+            },
+            {
+                  "name": "Plage des Phocéens",
+                  "text": "A Plage des Phocéens egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.361717,
+                        43.238035
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe Rouge",
+                  "text": "A Plage de la Pointe Rouge Marseille legnagyobb homokos strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        5.371068,
+                        43.244616
+                  ]
+            },
+            {
+                  "name": "Plage de Bonneveine",
+                  "text": "A Plage de Bonneveine egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.37383,
+                        43.253288
+                  ]
+            },
+            {
+                  "name": "Plage de Borély",
+                  "text": "A Plage de Borély egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.375065,
+                        43.256287
+                  ]
+            },
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "A Plage de la Batterie egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362536,
+                        43.240969
+                  ]
+            },
+            {
+                  "name": "Plage du Bain des Dames",
+                  "text": "A Plage du Bain des Dames egy strand Marseille-Sud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362456,
+                        43.239909
                   ]
             }
       ],
@@ -14688,6 +15156,96 @@ export const franceCitiesV2: POI[] = [
                         5.374158,
                         43.256328
                   ]
+            },
+            {
+                  "name": "Plage de la Vieille Chapelle",
+                  "text": "Plage de la Vieille Chapelle este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.372591,
+                        43.252254
+                  ]
+            },
+            {
+                  "name": "Plage du Prophète",
+                  "text": "Plage du Prophète este una dintre cele mai vechi și mai populare plaje cu nisip din Marsilia.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362119,
+                        43.27314
+                  ]
+            },
+            {
+                  "name": "Plage des Sablettes",
+                  "text": "Plage des Sablettes este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.360423,
+                        43.236943
+                  ]
+            },
+            {
+                  "name": "Plage de la Bonne Brise",
+                  "text": "Plage de la Bonne Brise este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.359937,
+                        43.236011
+                  ]
+            },
+            {
+                  "name": "Plage des Phocéens",
+                  "text": "Plage des Phocéens este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.361717,
+                        43.238035
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe Rouge",
+                  "text": "Plage de la Pointe Rouge este cea mai mare plajă cu nisip din Marsilia.",
+                  "category": "recreational",
+                  "coords": [
+                        5.371068,
+                        43.244616
+                  ]
+            },
+            {
+                  "name": "Plage de Bonneveine",
+                  "text": "Plage de Bonneveine este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.37383,
+                        43.253288
+                  ]
+            },
+            {
+                  "name": "Plage de Borély",
+                  "text": "Plage de Borély este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.375065,
+                        43.256287
+                  ]
+            },
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "Plage de la Batterie este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362536,
+                        43.240969
+                  ]
+            },
+            {
+                  "name": "Plage du Bain des Dames",
+                  "text": "Plage du Bain des Dames este o plajă situată în Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362456,
+                        43.239909
+                  ]
             }
       ],
       "en": [
@@ -14820,6 +15378,96 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.374158,
                         43.256328
+                  ]
+            },
+            {
+                  "name": "Plage de la Vieille Chapelle",
+                  "text": "Plage de la Vieille Chapelle is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.372591,
+                        43.252254
+                  ]
+            },
+            {
+                  "name": "Plage du Prophète",
+                  "text": "Plage du Prophète is one of the oldest and most popular sandy beaches in Marseille.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362119,
+                        43.27314
+                  ]
+            },
+            {
+                  "name": "Plage des Sablettes",
+                  "text": "Plage des Sablettes is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.360423,
+                        43.236943
+                  ]
+            },
+            {
+                  "name": "Plage de la Bonne Brise",
+                  "text": "Plage de la Bonne Brise is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.359937,
+                        43.236011
+                  ]
+            },
+            {
+                  "name": "Plage des Phocéens",
+                  "text": "Plage des Phocéens is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.361717,
+                        43.238035
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe Rouge",
+                  "text": "Plage de la Pointe Rouge is the largest sandy beach in Marseille.",
+                  "category": "recreational",
+                  "coords": [
+                        5.371068,
+                        43.244616
+                  ]
+            },
+            {
+                  "name": "Plage de Bonneveine",
+                  "text": "Plage de Bonneveine is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.37383,
+                        43.253288
+                  ]
+            },
+            {
+                  "name": "Plage de Borély",
+                  "text": "Plage de Borély is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.375065,
+                        43.256287
+                  ]
+            },
+            {
+                  "name": "Plage de la Batterie",
+                  "text": "Plage de la Batterie is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362536,
+                        43.240969
+                  ]
+            },
+            {
+                  "name": "Plage du Bain des Dames",
+                  "text": "Plage du Bain des Dames is a beach located in Marseille-Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        5.362456,
+                        43.239909
                   ]
             }
       ],

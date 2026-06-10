@@ -1037,6 +1037,15 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                         25.994654,
                         55.385604
                   ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "Ein ländlicher Tierpark, der sich auf die Haltung verschiedener Vögel spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
+                  ]
             }
       ],
       "hu": [
@@ -1101,6 +1110,15 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                   "coords": [
                         25.994654,
                         55.385604
+                  ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "Vidéki állatpark, amely különféle madarak tartására szakosodott.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
                   ]
             }
       ],
@@ -1167,6 +1185,15 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                         25.994654,
                         55.385604
                   ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "Un parc de animale rural specializat în creșterea diverselor păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
+                  ]
             }
       ],
       "en": [
@@ -1231,6 +1258,15 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                   "coords": [
                         25.994654,
                         55.385604
+                  ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "A rural animal park specializing in various birds.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
                   ]
             }
       ]
@@ -2375,7 +2411,88 @@ imageHint: "Sesupe lowland river valley and fields Lithuania",
     },
     image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp",
 },  {
-    id: "lithuania-birute-hill-relief-v2",
+    id: "lithuania-birute-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nemirsetos paplūdymys",
+                  "text": "Der Strand von Nemirseta bietet eine naturbelassene Umgebung südlich des Stadtzentrums von Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.054723,
+                        55.875555
+                  ]
+            },
+            {
+                  "name": "Palangos paplūdymys",
+                  "text": "Der Hauptstrand von Palanga ist bekannt für seinen feinen Sand und die ikonische Seebrücke an der Ostsee.",
+                  "category": "recreational",
+                  "coords": [
+                        21.05218,
+                        55.90997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nemirsetos paplūdymys",
+                  "text": "Nemirseta strandja természetközeli környezetet kínál Palanga városközpontjától délre.",
+                  "category": "recreational",
+                  "coords": [
+                        21.054723,
+                        55.875555
+                  ]
+            },
+            {
+                  "name": "Palangos paplūdymys",
+                  "text": "Palanga fő strandja finom homokjáról és a Balti-tengerbe nyúló ikonikus mólójáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        21.05218,
+                        55.90997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nemirsetos paplūdymys",
+                  "text": "Plaja Nemirseta oferă un cadru natural la sud de centrul orașului Palanga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.054723,
+                        55.875555
+                  ]
+            },
+            {
+                  "name": "Palangos paplūdymys",
+                  "text": "Plaja principală din Palanga este cunoscută pentru nisipul fin și digul iconic de la Marea Baltică.",
+                  "category": "recreational",
+                  "coords": [
+                        21.05218,
+                        55.90997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nemirsetos paplūdymys",
+                  "text": "Nemirseta Beach offers a natural setting south of Palanga's city center.",
+                  "category": "recreational",
+                  "coords": [
+                        21.054723,
+                        55.875555
+                  ]
+            },
+            {
+                  "name": "Palangos paplūdymys",
+                  "text": "Palanga's main beach is famous for its fine sand and the iconic pier stretching into the Baltic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        21.05218,
+                        55.90997
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Birutė-Hügel", hu: "Birutė-domb", ro: "Dealul Birutė", en: "Birutė Hill"},

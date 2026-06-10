@@ -220,6 +220,15 @@ export const estoniaReliefV2: POI[] = [
                         27.05501,
                         57.713759
                   ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "Eine natürliche Badestelle am Vihtla-See, die ideal für eine Abkühlung in der estnischen Natur ist.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
+                  ]
             }
       ],
       "hu": [
@@ -266,6 +275,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         27.05501,
                         57.713759
+                  ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "Természetes fürdőhely a Vihtla-tónál, amely ideális egy frissítő csobbanáshoz az észt természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
                   ]
             }
       ],
@@ -314,6 +332,15 @@ export const estoniaReliefV2: POI[] = [
                         27.05501,
                         57.713759
                   ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "Un loc natural de scăldat la lacul Vihtla, ideal pentru o răcorire în natura estoniană.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
+                  ]
             }
       ],
       "en": [
@@ -360,6 +387,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         27.05501,
                         57.713759
+                  ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "A natural swimming spot at Lake Vihtla, ideal for a refreshing dip in the Estonian nature.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
                   ]
             }
       ]
@@ -859,6 +895,33 @@ export const estoniaReliefV2: POI[] = [
                         25.543755,
                         58.199502
                   ]
+            },
+            {
+                  "name": "Õisu järve ujumiskoht",
+                  "text": "Ein Badeplatz am Õisu-See in der Nähe von Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.516097,
+                        58.202776
+                  ]
+            },
+            {
+                  "name": "Ahimäe karjääri ujumiskoht",
+                  "text": "Ein Badeplatz im Steinbruch Ahimäe bei Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616873,
+                        58.216072
+                  ]
+            },
+            {
+                  "name": "Kopra talu ujumiskoht",
+                  "text": "Ein Badeplatz beim Bauernhof Kopra in der Nähe von Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.614207,
+                        58.177338
+                  ]
             }
       ],
       "hu": [
@@ -878,6 +941,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.543755,
                         58.199502
+                  ]
+            },
+            {
+                  "name": "Õisu järve ujumiskoht",
+                  "text": "Fürdőhely az Õisu-tónál, Koolimägi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.516097,
+                        58.202776
+                  ]
+            },
+            {
+                  "name": "Ahimäe karjääri ujumiskoht",
+                  "text": "Fürdőhely az ahimäei kőfejtőnél, Koolimägi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616873,
+                        58.216072
+                  ]
+            },
+            {
+                  "name": "Kopra talu ujumiskoht",
+                  "text": "Fürdőhely a Kopra tanyánál, Koolimägi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.614207,
+                        58.177338
                   ]
             }
       ],
@@ -899,6 +989,33 @@ export const estoniaReliefV2: POI[] = [
                         25.543755,
                         58.199502
                   ]
+            },
+            {
+                  "name": "Õisu järve ujumiskoht",
+                  "text": "O zonă de înot la lacul Õisu, lângă Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.516097,
+                        58.202776
+                  ]
+            },
+            {
+                  "name": "Ahimäe karjääri ujumiskoht",
+                  "text": "O zonă de înot în cariera Ahimäe, lângă Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616873,
+                        58.216072
+                  ]
+            },
+            {
+                  "name": "Kopra talu ujumiskoht",
+                  "text": "O zonă de înot la ferma Kopra, lângă Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.614207,
+                        58.177338
+                  ]
             }
       ],
       "en": [
@@ -918,6 +1035,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.543755,
                         58.199502
+                  ]
+            },
+            {
+                  "name": "Õisu järve ujumiskoht",
+                  "text": "A swimming area at Lake Õisu near Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.516097,
+                        58.202776
+                  ]
+            },
+            {
+                  "name": "Ahimäe karjääri ujumiskoht",
+                  "text": "A swimming area at the Ahimäe quarry near Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616873,
+                        58.216072
+                  ]
+            },
+            {
+                  "name": "Kopra talu ujumiskoht",
+                  "text": "A swimming area at Kopra farm near Koolimägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.614207,
+                        58.177338
                   ]
             }
       ]
@@ -1290,7 +1434,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-oruvalla-ridge-relief-v2.webp",
   },
   {
-    id: "estonia-suure-oja-depression-relief-v2",
+    id: "estonia-suure-oja-depression-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "Ein lokaler Badeplatz in der Region Suure-Oja.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "Helyi fürdőhely a Suure-Oja régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "O zonă locală de scăldat situată în regiunea Suure-Oja.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "A local swimming area located in the Suure-Oja region.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "EE",
     name: { de: "Suure-Oja-Senke", hu: "Suure-Oja-medence", ro: "Depresiunea Suure-Oja", en: "Suure-Oja Depression" },
@@ -1335,7 +1524,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-suure-oja-depression-relief-v2.webp",
   },
   {
-    id: "estonia-kivi-magi-peak-relief-v2",
+    id: "estonia-kivi-magi-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Selgemäe ujumiskoht",
+                  "text": "Selgemäe ujumiskoht ist eine Badestelle in der Region Kivi-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.244652,
+                        58.959398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Selgemäe ujumiskoht",
+                  "text": "A Selgemäe ujumiskoht egy fürdőhely a Kivi-Mägi régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.244652,
+                        58.959398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Selgemäe ujumiskoht",
+                  "text": "Selgemäe ujumiskoht este o zonă de înot situată în regiunea Kivi-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.244652,
+                        58.959398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Selgemäe ujumiskoht",
+                  "text": "Selgemäe ujumiskoht is a swimming area situated in the Kivi-Mägi region.",
+                  "category": "recreational",
+                  "coords": [
+                        25.244652,
+                        58.959398
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "EE",
     name: { de: "Kivi-Mägi", hu: "Kivi-Mägi-csúcs", ro: "Vârful Kivi-Mägi", en: "Kivi-Mägi" },
@@ -1947,7 +2181,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-lepa-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-kruusa-magi-hill-relief-v2",
+    id: "estonia-kruusa-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raudna tehisjärve ujumiskoht",
+                  "text": "Ein künstlicher Badesee in der Nähe des Hügels Kruusa-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.477505,
+                        58.333313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raudna tehisjärve ujumiskoht",
+                  "text": "Mesterséges fürdőtó a Kruusa-Mägi domb közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.477505,
+                        58.333313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raudna tehisjärve ujumiskoht",
+                  "text": "Un lac artificial de înot în apropierea dealului Kruusa-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.477505,
+                        58.333313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raudna tehisjärve ujumiskoht",
+                  "text": "An artificial swimming lake located near the Kruusa-Mägi hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.477505,
+                        58.333313
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Mägi", hu: "Kruusa-Mägi-domb", ro: "Dealul Kruusa-Mägi", en: "Kruusa-Mägi" },
@@ -2020,6 +2299,15 @@ export const estoniaReliefV2: POI[] = [
                         26.625585,
                         58.715011
                   ]
+            },
+            {
+                  "name": "Lemuvere ujumiskoht",
+                  "text": "Ein lokaler Badeplatz in der Gegend von Vana-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.6062,
+                        58.736244
+                  ]
             }
       ],
       "hu": [
@@ -2048,6 +2336,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.625585,
                         58.715011
+                  ]
+            },
+            {
+                  "name": "Lemuvere ujumiskoht",
+                  "text": "Helyi fürdőhely Vana-Mägi környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.6062,
+                        58.736244
                   ]
             }
       ],
@@ -2078,6 +2375,15 @@ export const estoniaReliefV2: POI[] = [
                         26.625585,
                         58.715011
                   ]
+            },
+            {
+                  "name": "Lemuvere ujumiskoht",
+                  "text": "O zonă locală de înot în zona Vana-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.6062,
+                        58.736244
+                  ]
             }
       ],
       "en": [
@@ -2106,6 +2412,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.625585,
                         58.715011
+                  ]
+            },
+            {
+                  "name": "Lemuvere ujumiskoht",
+                  "text": "A local swimming area situated in the Vana-Mägi region.",
+                  "category": "recreational",
+                  "coords": [
+                        26.6062,
+                        58.736244
                   ]
             }
       ]
@@ -2164,6 +2479,33 @@ export const estoniaReliefV2: POI[] = [
                         24.482588,
                         59.187528
                   ]
+            },
+            {
+                  "name": "Kuristu talu miniloomad",
+                  "text": "Ein charmanter Mini-Zoo, in dem Besucher verschiedene Kleintiere aus nächster Nähe erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        24.518663,
+                        59.236136
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht",
+                  "text": "Eine natürliche Badestelle in der Ortschaft Maidla, die zur Erholung im Grünen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580384,
+                        59.209234
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht vettehüpeteks",
+                  "text": "Dieser Bereich der Badestelle Maidla ist speziell für Vettehüpfte und Sprünge ins Wasser ausgestattet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.578974,
+                        59.210757
+                  ]
             }
       ],
       "hu": [
@@ -2174,6 +2516,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.482588,
                         59.187528
+                  ]
+            },
+            {
+                  "name": "Kuristu talu miniloomad",
+                  "text": "Bájos kisállatkert, ahol a látogatók közelről ismerkedhetnek meg különféle kisebb állatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        24.518663,
+                        59.236136
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht",
+                  "text": "Természetes fürdőhely Maidla településen, amely zöldövezeti kikapcsolódásra hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580384,
+                        59.209234
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht vettehüpeteks",
+                  "text": "A maidla-i fürdőhely ezen része speciálisan a vízbe ugráláshoz van kialakítva.",
+                  "category": "recreational",
+                  "coords": [
+                        24.578974,
+                        59.210757
                   ]
             }
       ],
@@ -2186,6 +2555,33 @@ export const estoniaReliefV2: POI[] = [
                         24.482588,
                         59.187528
                   ]
+            },
+            {
+                  "name": "Kuristu talu miniloomad",
+                  "text": "O grădină zoologică fermecătoare cu animale mici, unde vizitatorii pot vedea de aproape diverse specii de talie mică.",
+                  "category": "recreational",
+                  "coords": [
+                        24.518663,
+                        59.236136
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht",
+                  "text": "Un loc natural de scăldat în localitatea Maidla, care invită la relaxare în mijlocul naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580384,
+                        59.209234
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht vettehüpeteks",
+                  "text": "Această secțiune a locului de scăldat din Maidla este special echipată pentru sărituri în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        24.578974,
+                        59.210757
+                  ]
             }
       ],
       "en": [
@@ -2196,6 +2592,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.482588,
                         59.187528
+                  ]
+            },
+            {
+                  "name": "Kuristu talu miniloomad",
+                  "text": "A charming mini-zoo where visitors can experience various small animals from up close.",
+                  "category": "recreational",
+                  "coords": [
+                        24.518663,
+                        59.236136
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht",
+                  "text": "A natural swimming spot in the village of Maidla, inviting for relaxation in a green setting.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580384,
+                        59.209234
+                  ]
+            },
+            {
+                  "name": "Maidla ujumiskoht vettehüpeteks",
+                  "text": "This section of the Maidla swimming spot is specially equipped for diving and jumping into the water.",
+                  "category": "recreational",
+                  "coords": [
+                        24.578974,
+                        59.210757
                   ]
             }
       ]
@@ -2344,6 +2767,15 @@ export const estoniaReliefV2: POI[] = [
                         26.555255,
                         57.844281
                   ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Liikluslinn ist ein Freizeitpark in Suure-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
+                  ]
             }
       ],
       "hu": [
@@ -2399,6 +2831,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.555255,
                         57.844281
+                  ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Liikluslinn egy élménypark Suure-Mägiben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
                   ]
             }
       ],
@@ -2456,6 +2897,15 @@ export const estoniaReliefV2: POI[] = [
                         26.555255,
                         57.844281
                   ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Liikluslinn este un parc tematic situat în Suure-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
+                  ]
             }
       ],
       "en": [
@@ -2511,6 +2961,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.555255,
                         57.844281
+                  ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Liikluslinn is a theme park located in Suure-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
                   ]
             }
       ]
@@ -2722,6 +3181,15 @@ export const estoniaReliefV2: POI[] = [
                         24.84234,
                         59.338215
                   ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "Ein Schwimmbad bei Pae-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
+                  ]
             }
       ],
       "hu": [
@@ -2795,6 +3263,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.84234,
                         59.338215
+                  ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "Úszómedence Pae-Mägi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
                   ]
             }
       ],
@@ -2870,6 +3347,15 @@ export const estoniaReliefV2: POI[] = [
                         24.84234,
                         59.338215
                   ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "O piscină în zona Pae-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
+                  ]
             }
       ],
       "en": [
@@ -2943,6 +3429,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.84234,
                         59.338215
+                  ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "A swimming pool in the Pae-Mägi area.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
                   ]
             }
       ]
@@ -3721,6 +4216,24 @@ export const estoniaReliefV2: POI[] = [
                         25.135048,
                         59.44175
                   ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Eine Badestelle in der Nähe der Erhebung Ranna-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Ein lokaler Badeplatz in der Region Ranna-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
+                  ]
             }
       ],
       "hu": [
@@ -3758,6 +4271,24 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.135048,
                         59.44175
+                  ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Fürdőhely a Ranna-Mägi domb közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Helyi fürdőhely a Ranna-Mägi régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
                   ]
             }
       ],
@@ -3797,6 +4328,24 @@ export const estoniaReliefV2: POI[] = [
                         25.135048,
                         59.44175
                   ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Un loc pentru scăldat situat în apropierea dealului Ranna-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Un loc local pentru scăldat în regiunea Ranna-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
+                  ]
             }
       ],
       "en": [
@@ -3834,6 +4383,24 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.135048,
                         59.44175
+                  ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "A swimming spot located near the Ranna-Mägi hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "A local swimming spot in the Ranna-Mägi region.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
                   ]
             }
       ]
@@ -3937,6 +4504,15 @@ export const estoniaReliefV2: POI[] = [
                         25.341207,
                         58.223692
                   ]
+            },
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "Ein Badeplatz in der Nähe des Kruusa-Hari-Rückens.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
+                  ]
             }
       ],
       "hu": [
@@ -3947,6 +4523,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.341207,
                         58.223692
+                  ]
+            },
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "Fürdőhely a Kruusa-Hari-hátságnál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
                   ]
             }
       ],
@@ -3959,6 +4544,15 @@ export const estoniaReliefV2: POI[] = [
                         25.341207,
                         58.223692
                   ]
+            },
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "Un loc de scăldat în zona crestei Kruusa-Hari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
+                  ]
             }
       ],
       "en": [
@@ -3969,6 +4563,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.341207,
                         58.223692
+                  ]
+            },
+            {
+                  "name": "Kullisilla ujumiskoht",
+                  "text": "A swimming area located in the Kruusa-Hari Ridge area.",
+                  "category": "recreational",
+                  "coords": [
+                        25.280808,
+                        58.166725
                   ]
             }
       ]
@@ -4414,6 +5017,24 @@ export const estoniaReliefV2: POI[] = [
                         24.94082,
                         59.401766
                   ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "Ein Schwimmbad im Järveküla-Sportkomplex in Estland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
+                  ]
+            },
+            {
+                  "name": "Potuka ujumiskoht",
+                  "text": "Ein lokaler Badeplatz in der Gegend von Tuuliku-Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940668,
+                        59.392684
+                  ]
             }
       ],
       "hu": [
@@ -4487,6 +5108,24 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.94082,
                         59.401766
+                  ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "Úszómedence az észtországi Järveküla sportkomplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
+                  ]
+            },
+            {
+                  "name": "Potuka ujumiskoht",
+                  "text": "Helyi fürdőhely Tuuliku-Nukk területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940668,
+                        59.392684
                   ]
             }
       ],
@@ -4562,6 +5201,24 @@ export const estoniaReliefV2: POI[] = [
                         24.94082,
                         59.401766
                   ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "O piscină în cadrul complexului sportiv Järveküla din Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
+                  ]
+            },
+            {
+                  "name": "Potuka ujumiskoht",
+                  "text": "O zonă locală de înot în zona Tuuliku-Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940668,
+                        59.392684
+                  ]
             }
       ],
       "en": [
@@ -4636,6 +5293,24 @@ export const estoniaReliefV2: POI[] = [
                         24.94082,
                         59.401766
                   ]
+            },
+            {
+                  "name": "Järveküla Spordihoone ujula",
+                  "text": "A swimming pool within the Järveküla sports complex in Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.821497,
+                        59.384702
+                  ]
+            },
+            {
+                  "name": "Potuka ujumiskoht",
+                  "text": "A local swimming area in the Tuuliku-Nukk area.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940668,
+                        59.392684
+                  ]
             }
       ]
 },
@@ -4702,6 +5377,15 @@ export const estoniaReliefV2: POI[] = [
                         26.69475,
                         58.669046
                   ]
+            },
+            {
+                  "name": "Saare järve ujumiskoht",
+                  "text": "Ein Badeplatz am Saare-See in Vana-Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768336,
+                        58.654236
+                  ]
             }
       ],
       "hu": [
@@ -4721,6 +5405,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.69475,
                         58.669046
+                  ]
+            },
+            {
+                  "name": "Saare järve ujumiskoht",
+                  "text": "Fürdőhely a Saare-tónál Vana-Nukk területén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768336,
+                        58.654236
                   ]
             }
       ],
@@ -4742,6 +5435,15 @@ export const estoniaReliefV2: POI[] = [
                         26.69475,
                         58.669046
                   ]
+            },
+            {
+                  "name": "Saare järve ujumiskoht",
+                  "text": "Un loc de scăldat la lacul Saare în Vana-Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768336,
+                        58.654236
+                  ]
             }
       ],
       "en": [
@@ -4761,6 +5463,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.69475,
                         58.669046
+                  ]
+            },
+            {
+                  "name": "Saare järve ujumiskoht",
+                  "text": "A swimming area at Lake Saare in Vana-Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768336,
+                        58.654236
                   ]
             }
       ]
@@ -5044,6 +5755,15 @@ export const estoniaReliefV2: POI[] = [
                         26.543679,
                         57.910311
                   ]
+            },
+            {
+                  "name": "Uhtjärve ujumiskoht",
+                  "text": "Ein öffentlicher Badeplatz am Ufer des Uhtjärve-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        26.546317,
+                        57.905322
+                  ]
             }
       ],
       "hu": [
@@ -5099,6 +5819,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.543679,
                         57.910311
+                  ]
+            },
+            {
+                  "name": "Uhtjärve ujumiskoht",
+                  "text": "Nyilvános fürdőhely az Uhtjärve-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        26.546317,
+                        57.905322
                   ]
             }
       ],
@@ -5156,6 +5885,15 @@ export const estoniaReliefV2: POI[] = [
                         26.543679,
                         57.910311
                   ]
+            },
+            {
+                  "name": "Uhtjärve ujumiskoht",
+                  "text": "Un loc public pentru scăldat situat pe malul lacului Uhtjärve.",
+                  "category": "recreational",
+                  "coords": [
+                        26.546317,
+                        57.905322
+                  ]
             }
       ],
       "en": [
@@ -5211,6 +5949,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.543679,
                         57.910311
+                  ]
+            },
+            {
+                  "name": "Uhtjärve ujumiskoht",
+                  "text": "A public swimming spot located on the shores of Lake Uhtjärve.",
+                  "category": "recreational",
+                  "coords": [
+                        26.546317,
+                        57.905322
                   ]
             }
       ]

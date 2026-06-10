@@ -302,6 +302,15 @@ imageHint: "Thingvellir national park assembly site Iceland",
                         -20.603757,
                         64.126833
                   ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "Ein öffentliches Thermalbad in der historischen Region Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
+                  ]
             }
       ],
       "hu": [
@@ -330,6 +339,15 @@ imageHint: "Thingvellir national park assembly site Iceland",
                   "coords": [
                         -20.603757,
                         64.126833
+                  ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "Nyilvános termálfürdő a történelmi Skálholt régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
                   ]
             }
       ],
@@ -360,6 +378,15 @@ imageHint: "Thingvellir national park assembly site Iceland",
                         -20.603757,
                         64.126833
                   ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "O baie termală publică în regiunea istorică Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
+                  ]
             }
       ],
       "en": [
@@ -388,6 +415,15 @@ imageHint: "Thingvellir national park assembly site Iceland",
                   "coords": [
                         -20.603757,
                         64.126833
+                  ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "A public thermal bath located in the historic Skálholt region.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
                   ]
             }
       ]
@@ -966,7 +1002,52 @@ imageHint: "Laufas turf farm Akureyri Iceland",
     },
     image: "/poi-images/iceland-laufas-history-v2.webp",
 },  {
-    id: "iceland-glaumbaer-history-v2",
+    id: "iceland-glaumbaer-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glaumbær",
+                  "text": "Ein Museum in Island mit gut erhaltenen Torf-Bauernhäusern und volkskundlichem Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glaumbær",
+                  "text": "Izlandi múzeum jól megőrzött tőzeggazdaságokkal és néprajzi örökséggel.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glaumbær",
+                  "text": "Un muzeu din Islanda care prezintă ferme de turbă bine conservate și patrimoniul popular.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glaumbær",
+                  "text": "A museum in Iceland featuring well-preserved turf farmhouses and folk heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "museum",
     name: { de: "Glaumbær", hu: "Glaumbær", ro: "Glaumbær", en: "Glaumbær"},
@@ -1958,7 +2039,52 @@ imageHint: "Gasir medieval trading post ruins Iceland",
     },
     image: "/poi-images/iceland-gasir-history-v2.webp",
 },  {
-    id: "iceland-hrafnseyri-history-v2",
+    id: "iceland-hrafnseyri-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sundlaugin á Þingeyri",
+                  "text": "Ein öffentliches Schwimmbad im Dorf Þingeyri in den Westfjorden.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.492724,
+                        65.880575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sundlaugin á Þingeyri",
+                  "text": "Nyilvános úszómedence Þingeyri faluban, az izlandi Nyugati-fjordok vidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.492724,
+                        65.880575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sundlaugin á Þingeyri",
+                  "text": "O piscină publică în satul Þingeyri din regiunea fiordurilor de vest.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.492724,
+                        65.880575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sundlaugin á Þingeyri",
+                  "text": "A public swimming pool in the village of Þingeyri in the Westfjords.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.492724,
+                        65.880575
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "museum",
     name: { de: "Hrafnseyri", hu: "Hrafnseyri", ro: "Hrafnseyri", en: "Hrafnseyri"},
@@ -2573,6 +2699,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                         -20.603757,
                         64.126833
                   ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "Ein öffentliches Bad in der Nähe des historischen Klosters Skálholt in Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
+                  ]
             }
       ],
       "hu": [
@@ -2601,6 +2736,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                   "coords": [
                         -20.603757,
                         64.126833
+                  ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "Nyilvános fürdő a történelmi Skálholt-kolostor közelében Izlandon.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
                   ]
             }
       ],
@@ -2631,6 +2775,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                         -20.603757,
                         64.126833
                   ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "O baie publică situată lângă mănăstirea istorică Skálholt din Islanda.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
+                  ]
             }
       ],
       "en": [
@@ -2659,6 +2812,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                   "coords": [
                         -20.603757,
                         64.126833
+                  ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "A public bath located near the historical Skálholt Monastery in Iceland.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
                   ]
             }
       ]
@@ -3131,6 +3293,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                         -21.7388,
                         65.254467
                   ]
+            },
+            {
+                  "name": "Guðrúnarlaug",
+                  "text": "Ein rekonstruiertes geothermisches Schwimmbecken in der Nähe der Skarð-Ruinen.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.805565,
+                        65.246403
+                  ]
             }
       ],
       "hu": [
@@ -3150,6 +3321,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                   "coords": [
                         -21.7388,
                         65.254467
+                  ]
+            },
+            {
+                  "name": "Guðrúnarlaug",
+                  "text": "Egy rekonstruált geotermikus medence a Skarð-romok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.805565,
+                        65.246403
                   ]
             }
       ],
@@ -3171,6 +3351,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                         -21.7388,
                         65.254467
                   ]
+            },
+            {
+                  "name": "Guðrúnarlaug",
+                  "text": "O piscină geotermală reconstruită situată lângă ruinele Skarð.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.805565,
+                        65.246403
+                  ]
             }
       ],
       "en": [
@@ -3190,6 +3379,15 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                   "coords": [
                         -21.7388,
                         65.254467
+                  ]
+            },
+            {
+                  "name": "Guðrúnarlaug",
+                  "text": "A reconstructed geothermal pool located near the Skarð Ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.805565,
+                        65.246403
                   ]
             }
       ]

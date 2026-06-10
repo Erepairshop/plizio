@@ -2392,6 +2392,60 @@ export const hungaryCities: POI[] = [
                         19.065405,
                         47.521083
                   ]
+            },
+            {
+                  "name": "Kölyökvadon Játszóház",
+                  "text": "Ein Indoor-Themenpark und Spielplatz in Budapest für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0926,
+                        47.504877
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "Ein Lernbecken in Budapest, das für Schwimmübungen genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        19.020732,
+                        47.504382
+                  ]
+            },
+            {
+                  "name": "Stilianos Babauszoda",
+                  "text": "Ein auf Babyschwimmen spezialisiertes Schwimmbad in Budapest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.038085,
+                        47.486315
+                  ]
+            },
+            {
+                  "name": "kiúszó",
+                  "text": "Ein Außenbecken in Budapest, das mit einem Innenbereich verbunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        19.042749,
+                        47.521194
+                  ]
+            },
+            {
+                  "name": "Haifischschule",
+                  "text": "Ein Aquarium in Budapest, das Bildungsprogramme über Haie anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.080697,
+                        47.519959
+                  ]
+            },
+            {
+                  "name": "Élménymedence",
+                  "text": "Ein Erlebnisbecken in Budapest mit verschiedenen Wasserattraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.046879,
+                        47.528999
+                  ]
             }
       ],
       "hu": [
@@ -3099,6 +3153,60 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.065405,
                         47.521083
+                  ]
+            },
+            {
+                  "name": "Kölyökvadon Játszóház",
+                  "text": "Fedett tematikus játszóház és vidámpark gyermekeknek Budapesten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0926,
+                        47.504877
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "Úszásoktatásra használt tanmedence Budapesten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.020732,
+                        47.504382
+                  ]
+            },
+            {
+                  "name": "Stilianos Babauszoda",
+                  "text": "Babaúszásra szakosodott uszoda Budapesten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.038085,
+                        47.486315
+                  ]
+            },
+            {
+                  "name": "kiúszó",
+                  "text": "Belső térrel összekötött kiúszó medence Budapesten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.042749,
+                        47.521194
+                  ]
+            },
+            {
+                  "name": "Cápasuli",
+                  "text": "Cápákkal kapcsolatos oktatási programokat kínáló akvárium Budapesten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.080697,
+                        47.519959
+                  ]
+            },
+            {
+                  "name": "Élménymedence",
+                  "text": "Különféle vízi attrakciókkal felszerelt élménymedence Budapesten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.046879,
+                        47.528999
                   ]
             }
       ],
@@ -3808,6 +3916,60 @@ export const hungaryCities: POI[] = [
                         19.065405,
                         47.521083
                   ]
+            },
+            {
+                  "name": "Kölyökvadon Játszóház",
+                  "text": "Un parc de distracții interior și loc de joacă în Budapesta pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0926,
+                        47.504877
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "O piscină de învățare în Budapesta, utilizată pentru exerciții de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.020732,
+                        47.504382
+                  ]
+            },
+            {
+                  "name": "Stilianos Babauszoda",
+                  "text": "O piscină în Budapesta specializată în înotul pentru bebeluși.",
+                  "category": "recreational",
+                  "coords": [
+                        19.038085,
+                        47.486315
+                  ]
+            },
+            {
+                  "name": "kiúszó",
+                  "text": "O piscină exterioară în Budapesta, conectată cu o zonă interioară.",
+                  "category": "recreational",
+                  "coords": [
+                        19.042749,
+                        47.521194
+                  ]
+            },
+            {
+                  "name": "Cápasuli",
+                  "text": "Un acvariu în Budapesta care oferă programe educaționale despre rechini.",
+                  "category": "recreational",
+                  "coords": [
+                        19.080697,
+                        47.519959
+                  ]
+            },
+            {
+                  "name": "Élménymedence",
+                  "text": "O piscină de agrement în Budapesta cu diverse atracții acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.046879,
+                        47.528999
+                  ]
             }
       ],
       "en": [
@@ -4515,6 +4677,60 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.065405,
                         47.521083
+                  ]
+            },
+            {
+                  "name": "Kölyökvadon Játszóház",
+                  "text": "An indoor theme park and playground in Budapest for children.",
+                  "category": "recreational",
+                  "coords": [
+                        19.0926,
+                        47.504877
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "A teaching pool in Budapest used for swimming practice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.020732,
+                        47.504382
+                  ]
+            },
+            {
+                  "name": "Stilianos Babauszoda",
+                  "text": "A swimming pool in Budapest specializing in baby swimming lessons.",
+                  "category": "recreational",
+                  "coords": [
+                        19.038085,
+                        47.486315
+                  ]
+            },
+            {
+                  "name": "kiúszó",
+                  "text": "An outdoor swimming section in Budapest connected to an indoor area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.042749,
+                        47.521194
+                  ]
+            },
+            {
+                  "name": "Shark School",
+                  "text": "An aquarium in Budapest offering educational programs about sharks.",
+                  "category": "recreational",
+                  "coords": [
+                        19.080697,
+                        47.519959
+                  ]
+            },
+            {
+                  "name": "Élménymedence",
+                  "text": "A leisure pool in Budapest featuring various water attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        19.046879,
+                        47.528999
                   ]
             }
       ]
@@ -10442,6 +10658,24 @@ export const hungaryCities: POI[] = [
                         19.666197,
                         46.901381
                   ]
+            },
+            {
+                  "name": "Kecskeméti Élményfürdő és Csúszdapark",
+                  "text": "Ein Erlebnisbad mit verschiedenen Rutschen und Becken in Kecskemét.",
+                  "category": "recreational",
+                  "coords": [
+                        19.666681,
+                        46.900078
+                  ]
+            },
+            {
+                  "name": "Kecskeméti Vadaskert",
+                  "text": "Ein Tierpark in Kecskemét, der eine Vielzahl von Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.716542,
+                        46.897921
+                  ]
             }
       ],
       "hu": [
@@ -10762,6 +10996,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.666197,
                         46.901381
+                  ]
+            },
+            {
+                  "name": "Kecskeméti Élményfürdő és Csúszdapark",
+                  "text": "Népszerű vízipark különféle élménymedencékkel és csúszdákkal Kecskeméten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.666681,
+                        46.900078
+                  ]
+            },
+            {
+                  "name": "Kecskeméti Vadaskert",
+                  "text": "Kecskeméti állatkert, amely számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        19.716542,
+                        46.897921
                   ]
             }
       ],
@@ -11084,6 +11336,24 @@ export const hungaryCities: POI[] = [
                         19.666197,
                         46.901381
                   ]
+            },
+            {
+                  "name": "Kecskeméti Élményfürdő és Csúszdapark",
+                  "text": "Un parc acvatic cu diverse tobogane și bazine de aventură în Kecskemét.",
+                  "category": "recreational",
+                  "coords": [
+                        19.666681,
+                        46.900078
+                  ]
+            },
+            {
+                  "name": "Kecskeméti Vadaskert",
+                  "text": "O grădină zoologică în Kecskemét care găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        19.716542,
+                        46.897921
+                  ]
             }
       ],
       "en": [
@@ -11404,6 +11674,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.666197,
                         46.901381
+                  ]
+            },
+            {
+                  "name": "Kecskeméti Élményfürdő és Csúszdapark",
+                  "text": "A water park featuring various adventure pools and slides in Kecskemét.",
+                  "category": "recreational",
+                  "coords": [
+                        19.666681,
+                        46.900078
+                  ]
+            },
+            {
+                  "name": "Kecskeméti Vadaskert",
+                  "text": "A zoo in Kecskemét home to a variety of animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        19.716542,
+                        46.897921
                   ]
             }
       ]
@@ -12098,6 +12386,33 @@ export const hungaryCities: POI[] = [
                         19.730542,
                         46.488146
                   ]
+            },
+            {
+                  "name": "Kinderspaßbecken",
+                  "text": "Ein flaches Schwimmbecken für Kinder in Kiskunmajsa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.750116,
+                        46.524029
+                  ]
+            },
+            {
+                  "name": "Termalbecken",
+                  "text": "Ein Thermalbecken in Kiskunmajsa, das zur Entspannung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.74803,
+                        46.523459
+                  ]
+            },
+            {
+                  "name": "Wellenbad",
+                  "text": "Ein Schwimmbecken in Kiskunmajsa, das künstliche Wellen erzeugt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749125,
+                        46.524308
+                  ]
             }
       ],
       "hu": [
@@ -12143,6 +12458,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.730542,
                         46.488146
+                  ]
+            },
+            {
+                  "name": "Gyermekmedence",
+                  "text": "Sekély vizű medence gyerekek számára Kiskunmajsán.",
+                  "category": "recreational",
+                  "coords": [
+                        19.750116,
+                        46.524029
+                  ]
+            },
+            {
+                  "name": "Termálmedence",
+                  "text": "Pihenést szolgáló termálvizes medence Kiskunmajsán.",
+                  "category": "recreational",
+                  "coords": [
+                        19.74803,
+                        46.523459
+                  ]
+            },
+            {
+                  "name": "Hullámfürdő",
+                  "text": "Mesterséges hullámokat generáló úszómedence Kiskunmajsán.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749125,
+                        46.524308
                   ]
             }
       ],
@@ -12190,6 +12532,33 @@ export const hungaryCities: POI[] = [
                         19.730542,
                         46.488146
                   ]
+            },
+            {
+                  "name": "Gyermekmedence",
+                  "text": "O piscină cu apă puțin adâncă pentru copii în Kiskunmajsa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.750116,
+                        46.524029
+                  ]
+            },
+            {
+                  "name": "Termálmedence",
+                  "text": "O piscină termală în Kiskunmajsa, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.74803,
+                        46.523459
+                  ]
+            },
+            {
+                  "name": "Hullámfürdő",
+                  "text": "O piscină în Kiskunmajsa care generează valuri artificiale.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749125,
+                        46.524308
+                  ]
             }
       ],
       "en": [
@@ -12235,6 +12604,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.730542,
                         46.488146
+                  ]
+            },
+            {
+                  "name": "Gyermekmedence",
+                  "text": "A shallow swimming pool designed for children in Kiskunmajsa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.750116,
+                        46.524029
+                  ]
+            },
+            {
+                  "name": "Termálmedence",
+                  "text": "A thermal swimming pool in Kiskunmajsa designed for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.74803,
+                        46.523459
+                  ]
+            },
+            {
+                  "name": "Hullámfürdő",
+                  "text": "A swimming pool in Kiskunmajsa that generates artificial waves.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749125,
+                        46.524308
                   ]
             }
       ]
@@ -13544,6 +13940,15 @@ export const hungaryCities: POI[] = [
                         21.286773,
                         46.643965
                   ]
+            },
+            {
+                  "name": "Hullámmedence",
+                  "text": "Ein Wellenbecken in Gyula, das künstliche Wellen erzeugt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.284165,
+                        46.643415
+                  ]
             }
       ],
       "hu": [
@@ -13811,6 +14216,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.286773,
                         46.643965
+                  ]
+            },
+            {
+                  "name": "Hullámmedence",
+                  "text": "Mesterséges hullámokat keltő hullámmedence Gyulán.",
+                  "category": "recreational",
+                  "coords": [
+                        21.284165,
+                        46.643415
                   ]
             }
       ],
@@ -14080,6 +14494,15 @@ export const hungaryCities: POI[] = [
                         21.286773,
                         46.643965
                   ]
+            },
+            {
+                  "name": "Hullámmedence",
+                  "text": "O piscină cu valuri în Gyula care generează valuri artificiale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.284165,
+                        46.643415
+                  ]
             }
       ],
       "en": [
@@ -14347,6 +14770,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.286773,
                         46.643965
+                  ]
+            },
+            {
+                  "name": "Hullámmedence",
+                  "text": "A wave pool in Gyula that generates artificial waves.",
+                  "category": "recreational",
+                  "coords": [
+                        21.284165,
+                        46.643415
                   ]
             }
       ]
@@ -25127,6 +25559,24 @@ export const hungaryCities: POI[] = [
                         17.627389,
                         47.684105
                   ]
+            },
+            {
+                  "name": "Aranypart I.",
+                  "text": "Ein beliebter Strandabschnitt am Ufer der Moson-Donau in Győr.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624518,
+                        47.693387
+                  ]
+            },
+            {
+                  "name": "Aranypart II.",
+                  "text": "Ein Freizeit- und Strandbereich am Flussufer in Győr.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624473,
+                        47.695801
+                  ]
             }
       ],
       "hu": [
@@ -25448,6 +25898,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.627389,
                         47.684105
+                  ]
+            },
+            {
+                  "name": "Aranypart I.",
+                  "text": "Népszerű folyóparti strand a Mosoni-Duna partján, Győrben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624518,
+                        47.693387
+                  ]
+            },
+            {
+                  "name": "Aranypart II.",
+                  "text": "Folyóparti szabadidős és strandterület Győrben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624473,
+                        47.695801
                   ]
             }
       ],
@@ -25771,6 +26239,24 @@ export const hungaryCities: POI[] = [
                         17.627389,
                         47.684105
                   ]
+            },
+            {
+                  "name": "Aranypart I.",
+                  "text": "O zonă de plajă populară pe malul Dunării la Győr.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624518,
+                        47.693387
+                  ]
+            },
+            {
+                  "name": "Aranypart II.",
+                  "text": "O zonă de agrement și plajă pe malul râului în Győr.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624473,
+                        47.695801
+                  ]
             }
       ],
       "en": [
@@ -26092,6 +26578,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.627389,
                         47.684105
+                  ]
+            },
+            {
+                  "name": "Aranypart I.",
+                  "text": "A popular riverside beach area on the banks of the Moson-Danube in Győr.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624518,
+                        47.693387
+                  ]
+            },
+            {
+                  "name": "Aranypart II.",
+                  "text": "A riverside leisure and beach area located in Győr.",
+                  "category": "recreational",
+                  "coords": [
+                        17.624473,
+                        47.695801
                   ]
             }
       ]
@@ -29864,6 +30368,24 @@ export const hungaryCities: POI[] = [
                         21.399121,
                         47.454747
                   ]
+            },
+            {
+                  "name": "Pezsgőmedence",
+                  "text": "Ein entspannendes Sprudelbecken im Kurkomplex von Hajdúszoboszló.",
+                  "category": "recreational",
+                  "coords": [
+                        21.3986,
+                        47.451018
+                  ]
+            },
+            {
+                  "name": "Bébi medence",
+                  "text": "Ein flaches Becken für Säuglinge und Kleinkinder in Hajdúszoboszló.",
+                  "category": "recreational",
+                  "coords": [
+                        21.397246,
+                        47.455663
+                  ]
             }
       ],
       "hu": [
@@ -30025,6 +30547,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.399121,
                         47.454747
+                  ]
+            },
+            {
+                  "name": "Pezsgőmedence",
+                  "text": "Pihentető pezsgőfürdő a hajdúszoboszlói gyógyfürdő komplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.3986,
+                        47.451018
+                  ]
+            },
+            {
+                  "name": "Bébi medence",
+                  "text": "Csecsemők és kisgyermekek számára kialakított sekély medence Hajdúszoboszlón.",
+                  "category": "recreational",
+                  "coords": [
+                        21.397246,
+                        47.455663
                   ]
             }
       ],
@@ -30188,6 +30728,24 @@ export const hungaryCities: POI[] = [
                         21.399121,
                         47.454747
                   ]
+            },
+            {
+                  "name": "Pezsgőmedence",
+                  "text": "O piscină relaxantă cu hidromasaj în complexul balnear din Hajdúszoboszló.",
+                  "category": "recreational",
+                  "coords": [
+                        21.3986,
+                        47.451018
+                  ]
+            },
+            {
+                  "name": "Bébi medence",
+                  "text": "O piscină de mică adâncime pentru bebeluși și copii mici în Hajdúszoboszló.",
+                  "category": "recreational",
+                  "coords": [
+                        21.397246,
+                        47.455663
+                  ]
             }
       ],
       "en": [
@@ -30350,6 +30908,24 @@ export const hungaryCities: POI[] = [
                         21.399121,
                         47.454747
                   ]
+            },
+            {
+                  "name": "Pezsgőmedence",
+                  "text": "A relaxing whirlpool or bubbly pool within the Hajdúszoboszló spa complex.",
+                  "category": "recreational",
+                  "coords": [
+                        21.3986,
+                        47.451018
+                  ]
+            },
+            {
+                  "name": "Bébi medence",
+                  "text": "A shallow pool designed for infants and toddlers in Hajdúszoboszló.",
+                  "category": "recreational",
+                  "coords": [
+                        21.397246,
+                        47.455663
+                  ]
             }
       ]
 }
@@ -30433,7 +31009,1536 @@ export const hungaryCities: POI[] = [
       pt: ["Eger é famosa pelo seu castelo, que foi defendido com sucesso em 1552 contra uma enorme superioridade otomana.", "A cidade alberga um minarete otomano preservado no seu estado original, o mais setentrional do seu género.", "O 'Sangue de Touro de Eger' (Egri Bikavér) é um dos vinhos tintos mais conhecidos da Hungria.", "A Basílica de Eger é a segunda maior igreja da Hungria."],
       fr: ["Eger est célèbre pour son château qui fut défendu avec succès en 1552 contre une énorme supériorité ottomane.", "La ville abrite un minaret ottoman d'origine, le plus septentrional du genre.", "Le « Sang de Taureau d'Eger » (Egri Bikavér) est l'un des vins rouges les plus célèbres de Hongrie.", "La basilique d'Eger est la deuxième plus grande église de Hongrie."],
     },
-    "sights": {"de": [{"name": "Burg von Eger", "text": "Eines der wichtigsten Symbole der ungarischen Geschichte, bekannt für die heldenhafte Verteidigung gegen das osmanische Heer im Jahr 1552. Heute beherbergt sie das Dobó-István-Burghistorische Museum und bietet Einblicke in mittelalterliche Befestigungen.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.3794, 47.9039]}, {"name": "Basilika von Eger", "text": "Die zweitgrößte Kirche Ungarns wurde im 19. Jahrhundert im klassizistischen Stil nach Plänen von József Hild erbaut. Sie besticht durch ihre imposante Säulenhalle, prachtvolle Innenausstattung und eine der größten Orgeln des Landes.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.37315, 47.899395]}, {"name": "Minarett von Eger", "text": "Das nördlichste erhaltene Denkmal aus der Zeit der osmanischen Herrschaft in Europa, erbaut Ende des 16. Jahrhunderts. Besucher können die 97 Stufen des 40 Meter hohen Turms erklimmen, um einen Panoramablick über die Altstadt zu genießen.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.376361, 47.904667]}, {"name": "Tal der schönen Frauen", "text": "Das berühmteste Weinkellerviertel von Eger mit Hunderten von Kellern, die in den weichen Tuffstein gehauen wurden. Hier können Besucher den berühmten Egri Bikavér (Stierblut) und andere lokale Weine direkt beim Erzeuger verkosten.", "category": "culinary", "confidence": "high", "source_hint": "wiki", "coords": [20.358922, 47.890242]}, {"name": "Dobó-Platz", "text": "Der barocke Hauptplatz der Stadt mit der Statue von István Dobó, dem Anführer der Burgverteidiger. Der Platz ist das lebendige Zentrum des gesellschaftlichen Lebens von Eger mit zahlreichen Cafés, Restaurants und Veranstaltungen.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [20.377145, 47.902183]}, {"name": "Minoritenkirche", "text": "Diese prächtige Barockkirche am Dobó-Platz gilt mit ihrer prachtvollen Ausstattung als eine der schönsten ihrer Art in Mitteleuropa.", "category": "religious", "confidence": "high", "coords": [20.377092, 47.902414]}, {"name": "Erzbischöflicher Palast", "text": "Die spätbarocke Residenz der Erzbischöfe von Eger beherbergt heute ein Museum für religiöse Kunst und historische Prunksäle.", "category": "historical", "confidence": "high", "coords": [20.373604, 47.900625]}, {"name": "Erzbischöflicher Garten", "text": "Der größte Park der Stadt bietet mit seinem alten Baumbestand, einem See und Springbrunnen eine grüne Oase im Zentrum von Eger.", "category": "natural", "confidence": "high", "coords": [20.380344, 47.89685]}, {"name": "Gárdonyi Géza Gedenkhaus", "text": "Das ehemalige Wohnhaus des berühmten Schriftstellers Géza Gárdonyi, der durch seinen Roman über die Belagerung von Eger bekannt wurde.", "category": "cultural", "confidence": "high", "coords": [20.38172, 47.905774]}, {"name": "Egri Road Beatles Museum", "text": "Eine umfangreiche Sammlung, die der legendären britischen Band gewidmet ist, mit Instrumenten, Postern und seltenen Aufnahmen.", "category": "cultural", "confidence": "high", "coords": [20.369913, 47.903335]}, {"name": "Kleiner-Dobó-Platz", "text": "Ein malerischer Platz am Eger-Bach, bekannt für seine Cafés, Brücken und die entspannte Atmosphäre abseits des Hauptmarktes.", "category": "civic", "confidence": "high", "coords": [20.377723, 47.903054]}, {"name": "Bródy-Sándor-Bibliothek", "text": "Die Komitatsbibliothek ist in einem wunderschön restaurierten historischen Gebäude untergebracht und ist ein Zentrum des literarischen Lebens.", "category": "cultural", "confidence": "high", "coords": [20.373204, 47.902373]}, {"name": "Weingut Bolyki", "text": "In einem ehemaligen Steinbruch gelegen, bietet dieses Weingut eine einzigartige Kulisse für die Verkostung des berühmten Egri Bikavér.", "category": "culinary", "confidence": "high", "coords": [20.40399, 47.879488]}, {"name": "St. Andrea Wine Bar", "text": "Ein elegantes Lokal, das hochwertige Gastronomie mit den Spitzenweinen des berühmten Weinguts St. Andrea harmonisch verbindet.", "category": "culinary", "confidence": "high", "coords": [20.328098, 47.863295]}, {"name": "Agria Park", "text": "Ein modernes Einkaufszentrum auf dem Gelände einer ehemaligen Tabakfabrik, das historische Industriearchitektur mit Shopping verbindet.", "category": "recreational", "confidence": "high", "coords": [20.368678, 47.899295]}, {"name": "Csillagászati Múzeum", "text": "Ein Museum für Astronomie im Lyzeum-Gebäude mit historischen Instrumenten.", "category": "museum", "coords": [20.376335, 47.900039]}, {"name": "Kazamata", "text": "Das unterirdische Befestigungssystem der Burg Eger mit Ausstellungen.", "category": "museum", "coords": [20.380387, 47.904083]}, {"name": "Város a város alatt", "text": "Das riesige ehemalige Weinkellersystem unter der Stadt Eger.", "category": "museum", "coords": [20.371682, 47.901698]}, {"name": "Szemfényvesztés", "text": "Eine interaktive Ausstellung in Eger, die optische Täuschungen präsentiert.", "category": "museum", "coords": [20.371799, 47.898738]}, {"name": "Mátyus Udvarház és Lovastanya", "text": "Ein Reiterhof und Tierpark am Rande von Eger mit Freizeitangeboten.", "category": "family", "coords": [20.409674, 47.91312]}, {"name": "Fegyvermustra", "text": "Eine Ausstellung historischer Waffen und Rüstungen in der Burg Eger.", "category": "museum", "coords": [20.378189, 47.904118]}, {"name": "Sportmúzeum", "text": "Ein Museum in Eger, das die lokale Sportgeschichte dokumentiert.", "category": "museum", "coords": [20.378335, 47.901124]}, {"name": "Valide Sultana Törökfürdő romjai", "text": "Ruinen eines ehemaligen türkischen Bades aus der Zeit der osmanischen Herrschaft.", "category": "museum", "coords": [20.380482, 47.902595]}, {"name": "Gárdonyi Géza Színház", "text": "Das Haupttheater von Eger, benannt nach dem Schriftsteller Géza Gárdonyi.", "category": "cultural", "coords": [20.375173, 47.897739]}, {"name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház", "text": "Ein Kulturzentrum mit einem bekannten Puppentheater für Kinder.", "category": "cultural", "coords": [20.37031, 47.897633]}, {"name": "Tűzoltómúzeum", "text": "Das Tűzoltómúzeum in Eger widmet sich der spannenden Historie der örtlichen Brandbekämpfung. Besucher können in diesem Museum historische Feuerwehrausrüstungen aus der Nähe betrachten. Es bietet einen faszinierenden Einblick in die Entwicklung des Rettungswesens der ungarischen Stadt.", "category": "museum", "coords": [20.372743, 47.906896]}, {"name": "Templom galéria", "text": "Diese Galerie in Eger befindet sich in einem ehemaligen Sakralbau und zeigt wechselnde Kunstausstellungen.", "category": "museum", "coords": [20.371505, 47.897696]}, {"name": "Díszmedence", "text": "Ein dekoratives Becken in Eger, das als lokales dekoratives Element dient.", "category": "landmark", "coords": [20.381374, 47.898393]}, {"name": "Három Kivánság Kalandpark", "text": "Ein Kletterpark in Eger, der verschiedene Freizeitaktivitäten für Familien bietet.", "category": "landmark", "coords": [20.361727, 47.891814]}, {"name": "Fájdalmas Anya temetőkápolna", "text": "Eine kleine Friedhofskapelle in Eger, die der Schmerzensmutter gewidmet ist.", "category": "religious", "coords": [20.36606, 47.89566]}, {"name": "Kis tó", "text": "Kis tó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [20.4409, 47.866161]}, {"name": "Ostorosi-tó", "text": "Ostorosi-tó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [20.423983, 47.883162]}, {"name": "Egerszalóki-víztározó", "text": "Egerszalóki-víztározó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.", "category": "natural", "coords": [20.312081, 47.895843]}, {"name": "Mini mászóka", "text": "Familien, die Eger besuchen, können ihre Kinder auf dem Spielplatz Mini mászóka klettern und spielen lassen.", "category": "family", "coords": [20.376452, 47.903369]}, {"name": "Kölcsey Ferenc téri játszótér", "text": "Der Kölcsey Ferenc téri játszótér in Eger ist ein Spielplatz, der sich perfekt für einen Familienausflug eignet.", "category": "family", "coords": [20.385186, 47.877129]}, {"name": "Talizmán utcai játszótér", "text": "Der Talizmán utcai játszótér bietet eine unterhaltsame Umgebung für Kinder, die in Eger spielen möchten.", "category": "family", "coords": [20.384279, 47.906642]}, {"name": "Napsugár utcai játszótér", "text": "Der Napsugár utcai játszótér ist ein einladender Spielplatz in Eger, auf dem Kinder draußen spielen können.", "category": "family", "coords": [20.388786, 47.895451]}], "hu": [{"name": "Egri vár", "text": "A magyar történelem egyik legfontosabb vára, amely az 1552-es hősies védelméről vált híressé a török túlerővel szemben. Ma a Dobó István Vármúzeum és számos izgalmas kiállítás, köztük a kazamaták várják a látogatókat.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.3794, 47.9039]}, {"name": "Egri bazilika", "text": "Magyarország második legnagyobb temploma, amely Hild József tervei alapján épült klasszicista stílusban a 19. században. Lenyűgöző oszlopcsarnoka, belső freskói és orgonája miatt az ország egyik legjelentősebb műemléke.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.37315, 47.899395]}, {"name": "Egri minaret", "text": "Az Oszmán Birodalom legészakibb épen maradt európai emléke, amely a 16. század végén épült homokkőből. A 40 méter magas torony 97 lépcsőfokán felkapaszkodva csodálatos panoráma nyílik az egész városra.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.376361, 47.904667]}, {"name": "Szépasszony-völgy", "text": "Eger leghíresebb borpincerendszere, ahol több száz, riolit tufa kőzetbe vájt pince található. A látogatók itt megkóstolhatják a világhírű Egri Bikavért és más kiváló helyi borfajtákat hangulatos környezetben.", "category": "culinary", "confidence": "high", "source_hint": "wiki", "coords": [20.358922, 47.890242]}, {"name": "Dobó tér", "text": "A város barokk főtere, amelynek központi eleme Dobó István és a várvédők szoborcsoportja. A tér Eger társadalmi életének szíve, ahol számos étterem, kávézó és szezonális rendezvény várja a turistákat.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [20.377145, 47.902183]}, {"name": "Minorita templom", "text": "A Dobó téren álló barokk templom Közép-Európa egyik legszebbje, híres gazdag belső díszítéséről és monumentális megjelenéséről.", "category": "religious", "confidence": "high", "coords": [20.377092, 47.902414]}, {"name": "Érseki Palota", "text": "Az egri érsekek késő barokk rezidenciája, amelyben ma egyháztörténeti kiállítás és díszes termek várják a látogatókat.", "category": "historical", "confidence": "high", "coords": [20.373604, 47.900625]}, {"name": "Érsekkert", "text": "Eger legnagyobb parkja, amely egykor érseki vadaskert volt, ma tóval, szökőkutakkal és hatalmas platánokkal pihenteti a várost.", "category": "natural", "confidence": "high", "coords": [20.380344, 47.89685]}, {"name": "Gárdonyi Géza Emlékház", "text": "Az Egri csillagok írójának egykori otthona és sírhelye a vár mellett, ahol megtekinthető az író eredeti könyvtára és dolgozószobája.", "category": "cultural", "confidence": "high", "coords": [20.38172, 47.905774]}, {"name": "Egri Road Beatles Múzeum", "text": "Egyedülálló gyűjtemény a legendás gombafejűekről, ahol hangszerek, ritka felvételek és relikviák mutatják be a zenekar történetét.", "category": "cultural", "confidence": "high", "coords": [20.369913, 47.903335]}, {"name": "Kis-Dobó tér", "text": "Az Eger-patak partján fekvő hangulatos kis tér, amely kávézóival és hídjaival a város egyik legkedveltebb találkozóhelye.", "category": "civic", "confidence": "high", "coords": [20.377723, 47.903054]}, {"name": "Bródy Sándor Könyvtár", "text": "A vármegyei könyvtár felújított műemlék épülete nemcsak könyvgyűjteménynek, hanem számos kulturális eseménynek is helyet ad.", "category": "cultural", "confidence": "high", "coords": [20.373204, 47.902373]}, {"name": "Bolyki Pincészet", "text": "Egy régi kőfejtőben kialakított különleges borászat, amely indusztriális környezetben kínálja díjnyertes vörösborait.", "category": "culinary", "confidence": "high", "coords": [20.40399, 47.879488]}, {"name": "St. Andrea Wine & Gourmet Bar", "text": "A neves borászat egri bázisa, ahol a csúcsborok mellé különleges gasztronómiai élményt kínálnak a látogatóknak.", "category": "culinary", "confidence": "high", "coords": [20.328098, 47.863295]}, {"name": "Agria Park", "text": "A korábbi dohánygyár területén épült modern bevásárlóközpont, amely megőrizte az ipari műemlék épületek egy részét.", "category": "recreational", "confidence": "high", "coords": [20.368678, 47.899295]}, {"name": "Csillagászati Múzeum", "text": "Csillagászati eszközöket bemutató kiállítás az egri Líceum épületében.", "category": "museum", "coords": [20.376335, 47.900039]}, {"name": "Kazamata", "text": "Az egri vár föld alatti erődrendszere és kazamatái.", "category": "museum", "coords": [20.380387, 47.904083]}, {"name": "Város a város alatt", "text": "Az egykori érseki pincerendszer Eger belvárosa alatt.", "category": "museum", "coords": [20.371682, 47.901698]}, {"name": "Szemfényvesztés", "text": "Optikai csalódásokat és illúziókat bemutató interaktív tárlat.", "category": "museum", "coords": [20.371799, 47.898738]}, {"name": "Mátyus Udvarház és Lovastanya", "text": "Lovastanya és állatpark szabadidős programokkal Eger határában.", "category": "family", "coords": [20.409674, 47.91312]}, {"name": "Fegyvermustra", "text": "Történelmi fegyvereket bemutató kiállítás az egri vár területén.", "category": "museum", "coords": [20.378189, 47.904118]}, {"name": "Sportmúzeum", "text": "Eger és Heves megye sporttörténeti emlékeit bemutató kiállítás.", "category": "museum", "coords": [20.378335, 47.901124]}, {"name": "Valide Sultana Törökfürdő romjai", "text": "A török hódoltság idejéből fennmaradt fürdő romjai Egerben.", "category": "museum", "coords": [20.380482, 47.902595]}, {"name": "Gárdonyi Géza Színház", "text": "Eger városának neves írójáról elnevezett kőszínháza.", "category": "cultural", "coords": [20.375173, 47.897739]}, {"name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház", "text": "Gyermekprogramoknak és bábos előadásoknak otthont adó központ.", "category": "cultural", "coords": [20.37031, 47.897633]}, {"name": "Tűzoltómúzeum", "text": "Az egri Tűzoltómúzeum a helyi tűzoltás izgalmas történetét mutatja be az érdeklődőknek. A látogatók ebben a múzeumban történelmi tűzoltófelszereléseket tekinthetnek meg testközelből. Betekintést nyújt a magyar város mentőszolgálatainak fejlődésébe.", "category": "museum", "coords": [20.372743, 47.906896]}, {"name": "Templom galéria", "text": "Egerben, egy egykori templomépületben kialakított galéria, amely időszaki kiállításoknak ad otthont.", "category": "museum", "coords": [20.371505, 47.897696]}, {"name": "Díszmedence", "text": "Egerben található dekoratív medence, amely a város egyik látványossága.", "category": "landmark", "coords": [20.381374, 47.898393]}, {"name": "Három Kivánság Kalandpark", "text": "Egerben található kalandpark, amely változatos szabadidős tevékenységeket kínál családok számára.", "category": "landmark", "coords": [20.361727, 47.891814]}, {"name": "Fájdalmas Anya temetőkápolna", "text": "Egerben található temetőkápolna, amelyet a Fájdalmas Anya tiszteletére szenteltek.", "category": "religious", "coords": [20.36606, 47.89566]}, {"name": "Kis tó", "text": "A(z) Kis tó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [20.4409, 47.866161]}, {"name": "Ostorosi-tó", "text": "A(z) Ostorosi-tó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [20.423983, 47.883162]}, {"name": "Egerszalóki-víztározó", "text": "A(z) Egerszalóki-víztározó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.", "category": "natural", "coords": [20.312081, 47.895843]}, {"name": "Mini mászóka", "text": "Az Egerbe látogató családok gyermekei a Mini mászóka játszótéren élvezhetik a mászást és a játékot.", "category": "family", "coords": [20.376452, 47.903369]}, {"name": "Kölcsey Ferenc téri játszótér", "text": "Az egri Kölcsey Ferenc téri játszótér tökéletes helyszín egy családi kiruccanáshoz.", "category": "family", "coords": [20.385186, 47.877129]}, {"name": "Talizmán utcai játszótér", "text": "A Talizmán utcai játszótér vidám környezetet biztosít a gyerekeknek az egri tartózkodás alatt.", "category": "family", "coords": [20.384279, 47.906642]}, {"name": "Napsugár utcai játszótér", "text": "A Napsugár utcai játszótér egy barátságos egri játszótér, ahol a gyerekek élvezhetik a szabadtéri játékot.", "category": "family", "coords": [20.388786, 47.895451]}], "ro": [{"name": "Cetatea Eger", "text": "Una dintre cele mai importante cetăți din istoria Ungariei, faimoasă pentru apărarea eroică din 1552 împotriva armatei otomane. Astăzi găzduiește Muzeul Cetății Dobó István și oferă tururi prin sistemul subteran de cazemate.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.3794, 47.9039]}, {"name": "Bazilica din Eger", "text": "A doua biserică ca mărime din Ungaria, construită în stil clasicist în secolul al XIX-lea după planurile arhitectului József Hild. Este renumită pentru coloanele sale monumentale și pentru una dintre cele mai mari orgi din țară.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.37315, 47.899395]}, {"name": "Minaretul din Eger", "text": "Cel mai nordic monument otoman din Europa care s-a păstrat intact, fiind construit la sfârșitul secolului al XVI-lea. Vizitatorii pot urca cele 97 de trepte până la balconul situat la 40 de metri înălțime pentru o vedere panoramică.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.376361, 47.904667]}, {"name": "Valea Femeii Frumoase", "text": "Cea mai faimoasă zonă viticolă din Eger, unde sute de pivnițe sunt săpate direct în tuf vulcanic. Este locul ideal pentru a degusta faimosul vin roșu Sânge de Taur (Egri Bikavér) într-o atmosferă tradițională.", "category": "culinary", "confidence": "high", "source_hint": "wiki", "coords": [20.358922, 47.890242]}, {"name": "Piața Dobó", "text": "Piața principală barocă a orașului, dominată de grupul statuar al căpitanului cetății, Dobó István. Piața este centrul vibrant al orașului Eger, plin de terase, restaurante și evenimente culturale.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [20.377145, 47.902183]}, {"name": "Biserica Minorită", "text": "O capodoperă barocă din Piața Dobó, considerată una dintre cele mai frumoase biserici minorite din Europa Centrală.", "category": "religious", "confidence": "high", "coords": [20.377092, 47.902414]}, {"name": "Palatul Arhiepiscopal", "text": "Rezidența barocă a arhiepiscopilor din Eger, care găzduiește astăzi un muzeu de artă religioasă și săli istorice splendide.", "category": "historical", "confidence": "high", "coords": [20.373604, 47.900625]}, {"name": "Grădina Arhiepiscopală", "text": "Cel mai mare parc din Eger, fost domeniu de vânătoare, oferă acum un lac, fântâni și arbori seculari pentru relaxare.", "category": "natural", "confidence": "high", "coords": [20.380344, 47.89685]}, {"name": "Casa Memorială Gárdonyi Géza", "text": "Fosta locuință a celebrului scriitor, autorul romanului Stelele din Eger, unde pot fi văzute biblioteca și biroul său originale.", "category": "cultural", "confidence": "high", "coords": [20.38172, 47.905774]}, {"name": "Muzeul Beatles", "text": "O colecție unică dedicată legendarei trupe britanice, prezentând instrumente, afișe și înregistrări rare în centrul orașului.", "category": "cultural", "confidence": "high", "coords": [20.369913, 47.903335]}, {"name": "Piața Mică Dobó", "text": "O piață pitorească pe malul pârâului Eger, cunoscută pentru cafenelele sale și atmosfera relaxată de lângă centru.", "category": "civic", "confidence": "high", "coords": [20.377723, 47.903054]}, {"name": "Biblioteca Bródy Sándor", "text": "Biblioteca județeană găzduită într-o clădire istorică renovată, fiind un centru vital al culturii și literaturii locale.", "category": "cultural", "confidence": "high", "coords": [20.373204, 47.902373]}, {"name": "Crama Bolyki", "text": "Amenajată într-o fostă carieră de piatră, această cramă oferă un cadru industrial unic pentru savurarea vinului Egri Bikavér.", "category": "culinary", "confidence": "high", "coords": [20.40399, 47.879488]}, {"name": "St. Andrea Wine Bar", "text": "Un local rafinat care îmbină gastronomia de înaltă clasă cu vinurile premiate ale cramei St. Andrea.", "category": "culinary", "confidence": "high", "coords": [20.328098, 47.863295]}, {"name": "Agria Park", "text": "Un centru comercial modern construit pe locul unei foste fabrici de tutun, integrând elemente de arhitectură industrială veche.", "category": "recreational", "confidence": "high", "coords": [20.368678, 47.899295]}, {"name": "Csillagászati Múzeum", "text": "Muzeu de astronomie situat în clădirea Liceului, cu instrumente istorice.", "category": "museum", "coords": [20.376335, 47.900039]}, {"name": "Kazamata", "text": "Sistemul de fortificații subterane al cetății din Eger, deschis vizitatorilor.", "category": "museum", "coords": [20.380387, 47.904083]}, {"name": "Város a város alatt", "text": "Fostul sistem de pivnițe arhiepiscopale situat sub orașul Eger.", "category": "museum", "coords": [20.371682, 47.901698]}, {"name": "Szemfényvesztés", "text": "O expoziție interactivă din Eger dedicată iluziilor optice.", "category": "museum", "coords": [20.371799, 47.898738]}, {"name": "Mátyus Udvarház és Lovastanya", "text": "Un domeniu ecvestru și parc zoologic oferind activități de agrement.", "category": "family", "coords": [20.409674, 47.91312]}, {"name": "Fegyvermustra", "text": "O expoziție de arme și armuri istorice situată în cetatea Eger.", "category": "museum", "coords": [20.378189, 47.904118]}, {"name": "Sportmúzeum", "text": "Un muzeu din Eger ce documentează istoria sportului local.", "category": "museum", "coords": [20.378335, 47.901124]}, {"name": "Valide Sultana Törökfürdő romjai", "text": "Ruinele unei băi turcești din perioada dominației otomane în Eger.", "category": "museum", "coords": [20.380482, 47.902595]}, {"name": "Gárdonyi Géza Színház", "text": "Teatrul principal din Eger, numit după scriitorul Géza Gárdonyi.", "category": "cultural", "coords": [20.375173, 47.897739]}, {"name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház", "text": "Centru cultural ce găzduiește un teatru de păpuși pentru copii.", "category": "cultural", "coords": [20.37031, 47.897633]}, {"name": "Tűzoltómúzeum", "text": "Tűzoltómúzeum din Eger este dedicat istoriei fascinante a stingerii incendiilor locale. Vizitatorii acestui muzeu pot examina îndeaproape echipamente istorice de pompieri. Instituția oferă o perspectivă interesantă asupra evoluției serviciilor de urgență din acest oraș maghiar.", "category": "museum", "coords": [20.372743, 47.906896]}, {"name": "Templom galéria", "text": "Această galerie din Eger se află într-o fostă clădire religioasă și găzduiește expoziții de artă temporare.", "category": "museum", "coords": [20.371505, 47.897696]}, {"name": "Díszmedence", "text": "Un bazin decorativ din Eger, care servește ca element ornamental local.", "category": "landmark", "coords": [20.381374, 47.898393]}, {"name": "Három Kivánság Kalandpark", "text": "Un parc de aventură din Eger care oferă diverse activități de agrement pentru familii.", "category": "landmark", "coords": [20.361727, 47.891814]}, {"name": "Fájdalmas Anya temetőkápolna", "text": "O mică chapelă de cimitir din Eger, dedicată Maicii Îndurerate.", "category": "religious", "coords": [20.36606, 47.89566]}, {"name": "Kis tó", "text": "Kis tó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [20.4409, 47.866161]}, {"name": "Ostorosi-tó", "text": "Ostorosi-tó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [20.423983, 47.883162]}, {"name": "Egerszalóki-víztározó", "text": "Egerszalóki-víztározó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.", "category": "natural", "coords": [20.312081, 47.895843]}, {"name": "Mini mászóka", "text": "Familiile care vizitează Eger îi pot lăsa pe copii să se bucure de cățărat și joacă la locul de joacă Mini mászóka.", "category": "family", "coords": [20.376452, 47.903369]}, {"name": "Kölcsey Ferenc téri játszótér", "text": "Situat în Eger, Kölcsey Ferenc téri játszótér este un loc de joacă perfect pentru o ieșire în familie.", "category": "family", "coords": [20.385186, 47.877129]}, {"name": "Talizmán utcai játszótér", "text": "Talizmán utcai játszótér oferă un mediu distractiv pentru copii în timp ce explorează Eger.", "category": "family", "coords": [20.384279, 47.906642]}, {"name": "Napsugár utcai játszótér", "text": "Napsugár utcai játszótér este un loc de joacă primitor în Eger, unde copiii se pot bucura de activități în aer liber.", "category": "family", "coords": [20.388786, 47.895451]}], "en": [{"name": "Eger Castle", "text": "One of Hungary's most significant historical sites, famous for the heroic defense against the Ottoman army in 1552. Today it houses the Dobó István Castle Museum and offers tours through its extensive underground casemate system.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.3794, 47.9039]}, {"name": "Eger Basilica", "text": "The second largest church in Hungary, built in Neoclassical style during the 19th century by József Hild. Its monumental entrance, stunning interior frescoes, and grand organ make it a must-visit architectural landmark.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.37315, 47.899395]}, {"name": "Eger Minaret", "text": "The northernmost surviving Ottoman monument in Europe, built at the end of the 16th century. Visitors can climb the 97 steps of the 40-meter-high tower for a breathtaking panoramic view of the old town.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [20.376361, 47.904667]}, {"name": "Valley of the Beautiful Women", "text": "Eger's most famous wine district, featuring hundreds of cellars carved into rhyolite tuff rock. It is the premier location to taste the world-renowned Egri Bikavér (Bull's Blood) and other regional wine specialties.", "category": "culinary", "confidence": "high", "source_hint": "wiki", "coords": [20.358922, 47.890242]}, {"name": "Dobó Square", "text": "The Baroque main square of the city, featuring statues of the castle defenders led by István Dobó. The square is the heart of Eger's social life, lined with charming restaurants, cafes, and seasonal markets.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [20.377145, 47.902183]}, {"name": "Minorite Church", "text": "A Baroque masterpiece on Dobó Square, often called one of the most beautiful Minorite churches in Central Europe for its rich interior.", "category": "religious", "confidence": "high", "coords": [20.377092, 47.902414]}, {"name": "Archbishop's Palace", "text": "The late Baroque residence of the Archbishops of Eger, now housing a museum of religious art and grand historical halls.", "category": "historical", "confidence": "high", "coords": [20.373604, 47.900625]}, {"name": "Archbishop's Garden", "text": "The largest park in Eger, once a private hunting ground, now a public green space with a lake, fountains, and ancient trees.", "category": "natural", "confidence": "high", "coords": [20.380344, 47.89685]}, {"name": "Gárdonyi Memorial House", "text": "The former home and burial place of Géza Gárdonyi, the author of the famous novel 'Eclipse of the Crescent Moon' about Eger's siege.", "category": "cultural", "confidence": "high", "coords": [20.38172, 47.905774]}, {"name": "Beatles Museum", "text": "A unique museum dedicated to the legendary British band, featuring instruments, posters, and rare memorabilia in the city center.", "category": "cultural", "confidence": "high", "coords": [20.369913, 47.903335]}, {"name": "Kis-Dobó Square", "text": "A charming square along the Eger stream, popular for its cafes, bridges, and relaxed atmosphere near the main plaza.", "category": "civic", "confidence": "high", "coords": [20.377723, 47.903054]}, {"name": "Bródy Sándor Library", "text": "The county library housed in a beautifully renovated historic building, serving as a center for local literary life.", "category": "cultural", "confidence": "high", "coords": [20.373204, 47.902373]}, {"name": "Bolyki Winery", "text": "Located in a former stone quarry, this unique winery offers award-winning red wines in an industrial outdoor setting.", "category": "culinary", "confidence": "high", "coords": [20.40399, 47.879488]}, {"name": "St. Andrea Wine Bar", "text": "An upscale venue in Eger that pairs gourmet dishes with the premium wines of the renowned St. Andrea estate.", "category": "culinary", "confidence": "high", "coords": [20.328098, 47.863295]}, {"name": "Agria Park", "text": "A modern shopping center built on the site of a former tobacco factory, incorporating historic industrial architecture.", "category": "recreational", "confidence": "high", "coords": [20.368678, 47.899295]}, {"name": "Csillagászati Múzeum", "text": "An astronomy museum in the Lyceum building featuring historic instruments.", "category": "museum", "coords": [20.376335, 47.900039]}, {"name": "Kazamata", "text": "The underground fortification system and casemates of the Eger Castle.", "category": "museum", "coords": [20.380387, 47.904083]}, {"name": "Város a város alatt", "text": "The vast former archiepiscopal cellar system beneath the city of Eger.", "category": "museum", "coords": [20.371682, 47.901698]}, {"name": "Szemfényvesztés", "text": "An interactive exhibition in Eger focusing on optical illusions.", "category": "museum", "coords": [20.371799, 47.898738]}, {"name": "Mátyus Udvarház és Lovastanya", "text": "An equestrian estate and animal park offering leisure activities near Eger.", "category": "family", "coords": [20.409674, 47.91312]}, {"name": "Fegyvermustra", "text": "An exhibition of historic weapons and armor located in Eger Castle.", "category": "museum", "coords": [20.378189, 47.904118]}, {"name": "Sportmúzeum", "text": "A museum in Eger documenting local sports history and achievements.", "category": "museum", "coords": [20.378335, 47.901124]}, {"name": "Valide Sultana Törökfürdő romjai", "text": "The ruins of a former Turkish bath from the Ottoman era in Eger.", "category": "museum", "coords": [20.380482, 47.902595]}, {"name": "Gárdonyi Géza Színház", "text": "The main theatre of Eger, named after the writer Géza Gárdonyi.", "category": "cultural", "coords": [20.375173, 47.897739]}, {"name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház", "text": "A cultural center housing a popular puppet theatre for children.", "category": "cultural", "coords": [20.37031, 47.897633]}, {"name": "Tűzoltómúzeum", "text": "The Tűzoltómúzeum in Eger is dedicated to the fascinating history of local firefighting. Visitors to this museum can view historical firefighting equipment up close. It provides a fascinating glimpse into the development of emergency services in this Hungarian city.", "category": "museum", "coords": [20.372743, 47.906896]}, {"name": "Templom galéria", "text": "This gallery in Eger is located in a former religious building and hosts temporary art exhibitions.", "category": "museum", "coords": [20.371505, 47.897696]}, {"name": "Díszmedence", "text": "A decorative pool in Eger that serves as a local ornamental feature.", "category": "landmark", "coords": [20.381374, 47.898393]}, {"name": "Három Kivánság Kalandpark", "text": "An adventure park in Eger offering various recreational activities for families.", "category": "landmark", "coords": [20.361727, 47.891814]}, {"name": "Fájdalmas Anya temetőkápolna", "text": "A small cemetery chapel in Eger dedicated to the Sorrowful Mother.", "category": "religious", "coords": [20.36606, 47.89566]}, {"name": "Kis tó", "text": "Kis tó is a lake located in Eger, offering beautiful scenery for visitors.", "category": "natural", "coords": [20.4409, 47.866161]}, {"name": "Ostorosi-tó", "text": "Ostorosi-tó is a lake located in Eger, offering beautiful scenery for visitors.", "category": "natural", "coords": [20.423983, 47.883162]}, {"name": "Egerszalóki-víztározó", "text": "Egerszalóki-víztározó is a lake located in Eger, offering beautiful scenery for visitors.", "category": "natural", "coords": [20.312081, 47.895843]}, {"name": "Mini mászóka", "text": "Families visiting Eger can let their children enjoy climbing and playing at the Mini mászóka playground.", "category": "family", "coords": [20.376452, 47.903369]}, {"name": "Kölcsey Ferenc téri játszótér", "text": "Located in Eger, the Kölcsey Ferenc téri játszótér is a playground perfect for a family outing.", "category": "family", "coords": [20.385186, 47.877129]}, {"name": "Talizmán utcai játszótér", "text": "The Talizmán utcai játszótér provides a fun environment for children to play while exploring Eger.", "category": "family", "coords": [20.384279, 47.906642]}, {"name": "Napsugár utcai játszótér", "text": "Napsugár utcai játszótér is a welcoming playground in Eger where kids can enjoy outdoor activities.", "category": "family", "coords": [20.388786, 47.895451]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Burg von Eger",
+                  "text": "Eines der wichtigsten Symbole der ungarischen Geschichte, bekannt für die heldenhafte Verteidigung gegen das osmanische Heer im Jahr 1552. Heute beherbergt sie das Dobó-István-Burghistorische Museum und bietet Einblicke in mittelalterliche Befestigungen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.3794,
+                        47.9039
+                  ]
+            },
+            {
+                  "name": "Basilika von Eger",
+                  "text": "Die zweitgrößte Kirche Ungarns wurde im 19. Jahrhundert im klassizistischen Stil nach Plänen von József Hild erbaut. Sie besticht durch ihre imposante Säulenhalle, prachtvolle Innenausstattung und eine der größten Orgeln des Landes.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.37315,
+                        47.899395
+                  ]
+            },
+            {
+                  "name": "Minarett von Eger",
+                  "text": "Das nördlichste erhaltene Denkmal aus der Zeit der osmanischen Herrschaft in Europa, erbaut Ende des 16. Jahrhunderts. Besucher können die 97 Stufen des 40 Meter hohen Turms erklimmen, um einen Panoramablick über die Altstadt zu genießen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.376361,
+                        47.904667
+                  ]
+            },
+            {
+                  "name": "Tal der schönen Frauen",
+                  "text": "Das berühmteste Weinkellerviertel von Eger mit Hunderten von Kellern, die in den weichen Tuffstein gehauen wurden. Hier können Besucher den berühmten Egri Bikavér (Stierblut) und andere lokale Weine direkt beim Erzeuger verkosten.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.358922,
+                        47.890242
+                  ]
+            },
+            {
+                  "name": "Dobó-Platz",
+                  "text": "Der barocke Hauptplatz der Stadt mit der Statue von István Dobó, dem Anführer der Burgverteidiger. Der Platz ist das lebendige Zentrum des gesellschaftlichen Lebens von Eger mit zahlreichen Cafés, Restaurants und Veranstaltungen.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.377145,
+                        47.902183
+                  ]
+            },
+            {
+                  "name": "Minoritenkirche",
+                  "text": "Diese prächtige Barockkirche am Dobó-Platz gilt mit ihrer prachtvollen Ausstattung als eine der schönsten ihrer Art in Mitteleuropa.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        20.377092,
+                        47.902414
+                  ]
+            },
+            {
+                  "name": "Erzbischöflicher Palast",
+                  "text": "Die spätbarocke Residenz der Erzbischöfe von Eger beherbergt heute ein Museum für religiöse Kunst und historische Prunksäle.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        20.373604,
+                        47.900625
+                  ]
+            },
+            {
+                  "name": "Erzbischöflicher Garten",
+                  "text": "Der größte Park der Stadt bietet mit seinem alten Baumbestand, einem See und Springbrunnen eine grüne Oase im Zentrum von Eger.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        20.380344,
+                        47.89685
+                  ]
+            },
+            {
+                  "name": "Gárdonyi Géza Gedenkhaus",
+                  "text": "Das ehemalige Wohnhaus des berühmten Schriftstellers Géza Gárdonyi, der durch seinen Roman über die Belagerung von Eger bekannt wurde.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.38172,
+                        47.905774
+                  ]
+            },
+            {
+                  "name": "Egri Road Beatles Museum",
+                  "text": "Eine umfangreiche Sammlung, die der legendären britischen Band gewidmet ist, mit Instrumenten, Postern und seltenen Aufnahmen.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.369913,
+                        47.903335
+                  ]
+            },
+            {
+                  "name": "Kleiner-Dobó-Platz",
+                  "text": "Ein malerischer Platz am Eger-Bach, bekannt für seine Cafés, Brücken und die entspannte Atmosphäre abseits des Hauptmarktes.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        20.377723,
+                        47.903054
+                  ]
+            },
+            {
+                  "name": "Bródy-Sándor-Bibliothek",
+                  "text": "Die Komitatsbibliothek ist in einem wunderschön restaurierten historischen Gebäude untergebracht und ist ein Zentrum des literarischen Lebens.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.373204,
+                        47.902373
+                  ]
+            },
+            {
+                  "name": "Weingut Bolyki",
+                  "text": "In einem ehemaligen Steinbruch gelegen, bietet dieses Weingut eine einzigartige Kulisse für die Verkostung des berühmten Egri Bikavér.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.40399,
+                        47.879488
+                  ]
+            },
+            {
+                  "name": "St. Andrea Wine Bar",
+                  "text": "Ein elegantes Lokal, das hochwertige Gastronomie mit den Spitzenweinen des berühmten Weinguts St. Andrea harmonisch verbindet.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.328098,
+                        47.863295
+                  ]
+            },
+            {
+                  "name": "Agria Park",
+                  "text": "Ein modernes Einkaufszentrum auf dem Gelände einer ehemaligen Tabakfabrik, das historische Industriearchitektur mit Shopping verbindet.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        20.368678,
+                        47.899295
+                  ]
+            },
+            {
+                  "name": "Csillagászati Múzeum",
+                  "text": "Ein Museum für Astronomie im Lyzeum-Gebäude mit historischen Instrumenten.",
+                  "category": "museum",
+                  "coords": [
+                        20.376335,
+                        47.900039
+                  ]
+            },
+            {
+                  "name": "Kazamata",
+                  "text": "Das unterirdische Befestigungssystem der Burg Eger mit Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        20.380387,
+                        47.904083
+                  ]
+            },
+            {
+                  "name": "Város a város alatt",
+                  "text": "Das riesige ehemalige Weinkellersystem unter der Stadt Eger.",
+                  "category": "museum",
+                  "coords": [
+                        20.371682,
+                        47.901698
+                  ]
+            },
+            {
+                  "name": "Szemfényvesztés",
+                  "text": "Eine interaktive Ausstellung in Eger, die optische Täuschungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.371799,
+                        47.898738
+                  ]
+            },
+            {
+                  "name": "Mátyus Udvarház és Lovastanya",
+                  "text": "Ein Reiterhof und Tierpark am Rande von Eger mit Freizeitangeboten.",
+                  "category": "family",
+                  "coords": [
+                        20.409674,
+                        47.91312
+                  ]
+            },
+            {
+                  "name": "Fegyvermustra",
+                  "text": "Eine Ausstellung historischer Waffen und Rüstungen in der Burg Eger.",
+                  "category": "museum",
+                  "coords": [
+                        20.378189,
+                        47.904118
+                  ]
+            },
+            {
+                  "name": "Sportmúzeum",
+                  "text": "Ein Museum in Eger, das die lokale Sportgeschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.378335,
+                        47.901124
+                  ]
+            },
+            {
+                  "name": "Valide Sultana Törökfürdő romjai",
+                  "text": "Ruinen eines ehemaligen türkischen Bades aus der Zeit der osmanischen Herrschaft.",
+                  "category": "museum",
+                  "coords": [
+                        20.380482,
+                        47.902595
+                  ]
+            },
+            {
+                  "name": "Gárdonyi Géza Színház",
+                  "text": "Das Haupttheater von Eger, benannt nach dem Schriftsteller Géza Gárdonyi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.375173,
+                        47.897739
+                  ]
+            },
+            {
+                  "name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház",
+                  "text": "Ein Kulturzentrum mit einem bekannten Puppentheater für Kinder.",
+                  "category": "cultural",
+                  "coords": [
+                        20.37031,
+                        47.897633
+                  ]
+            },
+            {
+                  "name": "Tűzoltómúzeum",
+                  "text": "Das Tűzoltómúzeum in Eger widmet sich der spannenden Historie der örtlichen Brandbekämpfung. Besucher können in diesem Museum historische Feuerwehrausrüstungen aus der Nähe betrachten. Es bietet einen faszinierenden Einblick in die Entwicklung des Rettungswesens der ungarischen Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.372743,
+                        47.906896
+                  ]
+            },
+            {
+                  "name": "Templom galéria",
+                  "text": "Diese Galerie in Eger befindet sich in einem ehemaligen Sakralbau und zeigt wechselnde Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        20.371505,
+                        47.897696
+                  ]
+            },
+            {
+                  "name": "Díszmedence",
+                  "text": "Ein dekoratives Becken in Eger, das als lokales dekoratives Element dient.",
+                  "category": "landmark",
+                  "coords": [
+                        20.381374,
+                        47.898393
+                  ]
+            },
+            {
+                  "name": "Három Kivánság Kalandpark",
+                  "text": "Ein Kletterpark in Eger, der verschiedene Freizeitaktivitäten für Familien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.361727,
+                        47.891814
+                  ]
+            },
+            {
+                  "name": "Fájdalmas Anya temetőkápolna",
+                  "text": "Eine kleine Friedhofskapelle in Eger, die der Schmerzensmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.36606,
+                        47.89566
+                  ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "Kis tó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "Ostorosi-tó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "Egerszalóki-víztározó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Familien, die Eger besuchen, können ihre Kinder auf dem Spielplatz Mini mászóka klettern und spielen lassen.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Der Kölcsey Ferenc téri játszótér in Eger ist ein Spielplatz, der sich perfekt für einen Familienausflug eignet.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "Der Talizmán utcai játszótér bietet eine unterhaltsame Umgebung für Kinder, die in Eger spielen möchten.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "Der Napsugár utcai játszótér ist ein einladender Spielplatz in Eger, auf dem Kinder draußen spielen können.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "Ein Lehrbecken in Eger, das für Schwimmkurse zur Verfügung steht.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383316,
+                        47.89985
+                  ]
+            },
+            {
+                  "name": "Zay-Ló-tanya",
+                  "text": "Ein lokaler Zoo und Bauernhof in Eger, der Begegnungen mit Tieren bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411986,
+                        47.89225
+                  ]
+            },
+            {
+                  "name": "Babamedence",
+                  "text": "Ein flaches Schwimmbecken für Kleinkinder in der Stadt Eger.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383377,
+                        47.896566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Egri vár",
+                  "text": "A magyar történelem egyik legfontosabb vára, amely az 1552-es hősies védelméről vált híressé a török túlerővel szemben. Ma a Dobó István Vármúzeum és számos izgalmas kiállítás, köztük a kazamaták várják a látogatókat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.3794,
+                        47.9039
+                  ]
+            },
+            {
+                  "name": "Egri bazilika",
+                  "text": "Magyarország második legnagyobb temploma, amely Hild József tervei alapján épült klasszicista stílusban a 19. században. Lenyűgöző oszlopcsarnoka, belső freskói és orgonája miatt az ország egyik legjelentősebb műemléke.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.37315,
+                        47.899395
+                  ]
+            },
+            {
+                  "name": "Egri minaret",
+                  "text": "Az Oszmán Birodalom legészakibb épen maradt európai emléke, amely a 16. század végén épült homokkőből. A 40 méter magas torony 97 lépcsőfokán felkapaszkodva csodálatos panoráma nyílik az egész városra.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.376361,
+                        47.904667
+                  ]
+            },
+            {
+                  "name": "Szépasszony-völgy",
+                  "text": "Eger leghíresebb borpincerendszere, ahol több száz, riolit tufa kőzetbe vájt pince található. A látogatók itt megkóstolhatják a világhírű Egri Bikavért és más kiváló helyi borfajtákat hangulatos környezetben.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.358922,
+                        47.890242
+                  ]
+            },
+            {
+                  "name": "Dobó tér",
+                  "text": "A város barokk főtere, amelynek központi eleme Dobó István és a várvédők szoborcsoportja. A tér Eger társadalmi életének szíve, ahol számos étterem, kávézó és szezonális rendezvény várja a turistákat.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.377145,
+                        47.902183
+                  ]
+            },
+            {
+                  "name": "Minorita templom",
+                  "text": "A Dobó téren álló barokk templom Közép-Európa egyik legszebbje, híres gazdag belső díszítéséről és monumentális megjelenéséről.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        20.377092,
+                        47.902414
+                  ]
+            },
+            {
+                  "name": "Érseki Palota",
+                  "text": "Az egri érsekek késő barokk rezidenciája, amelyben ma egyháztörténeti kiállítás és díszes termek várják a látogatókat.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        20.373604,
+                        47.900625
+                  ]
+            },
+            {
+                  "name": "Érsekkert",
+                  "text": "Eger legnagyobb parkja, amely egykor érseki vadaskert volt, ma tóval, szökőkutakkal és hatalmas platánokkal pihenteti a várost.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        20.380344,
+                        47.89685
+                  ]
+            },
+            {
+                  "name": "Gárdonyi Géza Emlékház",
+                  "text": "Az Egri csillagok írójának egykori otthona és sírhelye a vár mellett, ahol megtekinthető az író eredeti könyvtára és dolgozószobája.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.38172,
+                        47.905774
+                  ]
+            },
+            {
+                  "name": "Egri Road Beatles Múzeum",
+                  "text": "Egyedülálló gyűjtemény a legendás gombafejűekről, ahol hangszerek, ritka felvételek és relikviák mutatják be a zenekar történetét.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.369913,
+                        47.903335
+                  ]
+            },
+            {
+                  "name": "Kis-Dobó tér",
+                  "text": "Az Eger-patak partján fekvő hangulatos kis tér, amely kávézóival és hídjaival a város egyik legkedveltebb találkozóhelye.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        20.377723,
+                        47.903054
+                  ]
+            },
+            {
+                  "name": "Bródy Sándor Könyvtár",
+                  "text": "A vármegyei könyvtár felújított műemlék épülete nemcsak könyvgyűjteménynek, hanem számos kulturális eseménynek is helyet ad.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.373204,
+                        47.902373
+                  ]
+            },
+            {
+                  "name": "Bolyki Pincészet",
+                  "text": "Egy régi kőfejtőben kialakított különleges borászat, amely indusztriális környezetben kínálja díjnyertes vörösborait.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.40399,
+                        47.879488
+                  ]
+            },
+            {
+                  "name": "St. Andrea Wine & Gourmet Bar",
+                  "text": "A neves borászat egri bázisa, ahol a csúcsborok mellé különleges gasztronómiai élményt kínálnak a látogatóknak.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.328098,
+                        47.863295
+                  ]
+            },
+            {
+                  "name": "Agria Park",
+                  "text": "A korábbi dohánygyár területén épült modern bevásárlóközpont, amely megőrizte az ipari műemlék épületek egy részét.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        20.368678,
+                        47.899295
+                  ]
+            },
+            {
+                  "name": "Csillagászati Múzeum",
+                  "text": "Csillagászati eszközöket bemutató kiállítás az egri Líceum épületében.",
+                  "category": "museum",
+                  "coords": [
+                        20.376335,
+                        47.900039
+                  ]
+            },
+            {
+                  "name": "Kazamata",
+                  "text": "Az egri vár föld alatti erődrendszere és kazamatái.",
+                  "category": "museum",
+                  "coords": [
+                        20.380387,
+                        47.904083
+                  ]
+            },
+            {
+                  "name": "Város a város alatt",
+                  "text": "Az egykori érseki pincerendszer Eger belvárosa alatt.",
+                  "category": "museum",
+                  "coords": [
+                        20.371682,
+                        47.901698
+                  ]
+            },
+            {
+                  "name": "Szemfényvesztés",
+                  "text": "Optikai csalódásokat és illúziókat bemutató interaktív tárlat.",
+                  "category": "museum",
+                  "coords": [
+                        20.371799,
+                        47.898738
+                  ]
+            },
+            {
+                  "name": "Mátyus Udvarház és Lovastanya",
+                  "text": "Lovastanya és állatpark szabadidős programokkal Eger határában.",
+                  "category": "family",
+                  "coords": [
+                        20.409674,
+                        47.91312
+                  ]
+            },
+            {
+                  "name": "Fegyvermustra",
+                  "text": "Történelmi fegyvereket bemutató kiállítás az egri vár területén.",
+                  "category": "museum",
+                  "coords": [
+                        20.378189,
+                        47.904118
+                  ]
+            },
+            {
+                  "name": "Sportmúzeum",
+                  "text": "Eger és Heves megye sporttörténeti emlékeit bemutató kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        20.378335,
+                        47.901124
+                  ]
+            },
+            {
+                  "name": "Valide Sultana Törökfürdő romjai",
+                  "text": "A török hódoltság idejéből fennmaradt fürdő romjai Egerben.",
+                  "category": "museum",
+                  "coords": [
+                        20.380482,
+                        47.902595
+                  ]
+            },
+            {
+                  "name": "Gárdonyi Géza Színház",
+                  "text": "Eger városának neves írójáról elnevezett kőszínháza.",
+                  "category": "cultural",
+                  "coords": [
+                        20.375173,
+                        47.897739
+                  ]
+            },
+            {
+                  "name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház",
+                  "text": "Gyermekprogramoknak és bábos előadásoknak otthont adó központ.",
+                  "category": "cultural",
+                  "coords": [
+                        20.37031,
+                        47.897633
+                  ]
+            },
+            {
+                  "name": "Tűzoltómúzeum",
+                  "text": "Az egri Tűzoltómúzeum a helyi tűzoltás izgalmas történetét mutatja be az érdeklődőknek. A látogatók ebben a múzeumban történelmi tűzoltófelszereléseket tekinthetnek meg testközelből. Betekintést nyújt a magyar város mentőszolgálatainak fejlődésébe.",
+                  "category": "museum",
+                  "coords": [
+                        20.372743,
+                        47.906896
+                  ]
+            },
+            {
+                  "name": "Templom galéria",
+                  "text": "Egerben, egy egykori templomépületben kialakított galéria, amely időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        20.371505,
+                        47.897696
+                  ]
+            },
+            {
+                  "name": "Díszmedence",
+                  "text": "Egerben található dekoratív medence, amely a város egyik látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        20.381374,
+                        47.898393
+                  ]
+            },
+            {
+                  "name": "Három Kivánság Kalandpark",
+                  "text": "Egerben található kalandpark, amely változatos szabadidős tevékenységeket kínál családok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        20.361727,
+                        47.891814
+                  ]
+            },
+            {
+                  "name": "Fájdalmas Anya temetőkápolna",
+                  "text": "Egerben található temetőkápolna, amelyet a Fájdalmas Anya tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        20.36606,
+                        47.89566
+                  ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "A(z) Kis tó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "A(z) Ostorosi-tó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "A(z) Egerszalóki-víztározó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Az Egerbe látogató családok gyermekei a Mini mászóka játszótéren élvezhetik a mászást és a játékot.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Az egri Kölcsey Ferenc téri játszótér tökéletes helyszín egy családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "A Talizmán utcai játszótér vidám környezetet biztosít a gyerekeknek az egri tartózkodás alatt.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "A Napsugár utcai játszótér egy barátságos egri játszótér, ahol a gyerekek élvezhetik a szabadtéri játékot.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "Úszásoktatásra szolgáló tanmedence Egerben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383316,
+                        47.89985
+                  ]
+            },
+            {
+                  "name": "Zay-Ló-tanya",
+                  "text": "Egri állatkert és tanya, amely állatsimogatóval várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411986,
+                        47.89225
+                  ]
+            },
+            {
+                  "name": "Babamedence",
+                  "text": "Kisgyermekek számára kialakított sekély vizű medence Egerben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383377,
+                        47.896566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Eger",
+                  "text": "Una dintre cele mai importante cetăți din istoria Ungariei, faimoasă pentru apărarea eroică din 1552 împotriva armatei otomane. Astăzi găzduiește Muzeul Cetății Dobó István și oferă tururi prin sistemul subteran de cazemate.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.3794,
+                        47.9039
+                  ]
+            },
+            {
+                  "name": "Bazilica din Eger",
+                  "text": "A doua biserică ca mărime din Ungaria, construită în stil clasicist în secolul al XIX-lea după planurile arhitectului József Hild. Este renumită pentru coloanele sale monumentale și pentru una dintre cele mai mari orgi din țară.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.37315,
+                        47.899395
+                  ]
+            },
+            {
+                  "name": "Minaretul din Eger",
+                  "text": "Cel mai nordic monument otoman din Europa care s-a păstrat intact, fiind construit la sfârșitul secolului al XVI-lea. Vizitatorii pot urca cele 97 de trepte până la balconul situat la 40 de metri înălțime pentru o vedere panoramică.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.376361,
+                        47.904667
+                  ]
+            },
+            {
+                  "name": "Valea Femeii Frumoase",
+                  "text": "Cea mai faimoasă zonă viticolă din Eger, unde sute de pivnițe sunt săpate direct în tuf vulcanic. Este locul ideal pentru a degusta faimosul vin roșu Sânge de Taur (Egri Bikavér) într-o atmosferă tradițională.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.358922,
+                        47.890242
+                  ]
+            },
+            {
+                  "name": "Piața Dobó",
+                  "text": "Piața principală barocă a orașului, dominată de grupul statuar al căpitanului cetății, Dobó István. Piața este centrul vibrant al orașului Eger, plin de terase, restaurante și evenimente culturale.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.377145,
+                        47.902183
+                  ]
+            },
+            {
+                  "name": "Biserica Minorită",
+                  "text": "O capodoperă barocă din Piața Dobó, considerată una dintre cele mai frumoase biserici minorite din Europa Centrală.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        20.377092,
+                        47.902414
+                  ]
+            },
+            {
+                  "name": "Palatul Arhiepiscopal",
+                  "text": "Rezidența barocă a arhiepiscopilor din Eger, care găzduiește astăzi un muzeu de artă religioasă și săli istorice splendide.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        20.373604,
+                        47.900625
+                  ]
+            },
+            {
+                  "name": "Grădina Arhiepiscopală",
+                  "text": "Cel mai mare parc din Eger, fost domeniu de vânătoare, oferă acum un lac, fântâni și arbori seculari pentru relaxare.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        20.380344,
+                        47.89685
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Gárdonyi Géza",
+                  "text": "Fosta locuință a celebrului scriitor, autorul romanului Stelele din Eger, unde pot fi văzute biblioteca și biroul său originale.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.38172,
+                        47.905774
+                  ]
+            },
+            {
+                  "name": "Muzeul Beatles",
+                  "text": "O colecție unică dedicată legendarei trupe britanice, prezentând instrumente, afișe și înregistrări rare în centrul orașului.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.369913,
+                        47.903335
+                  ]
+            },
+            {
+                  "name": "Piața Mică Dobó",
+                  "text": "O piață pitorească pe malul pârâului Eger, cunoscută pentru cafenelele sale și atmosfera relaxată de lângă centru.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        20.377723,
+                        47.903054
+                  ]
+            },
+            {
+                  "name": "Biblioteca Bródy Sándor",
+                  "text": "Biblioteca județeană găzduită într-o clădire istorică renovată, fiind un centru vital al culturii și literaturii locale.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.373204,
+                        47.902373
+                  ]
+            },
+            {
+                  "name": "Crama Bolyki",
+                  "text": "Amenajată într-o fostă carieră de piatră, această cramă oferă un cadru industrial unic pentru savurarea vinului Egri Bikavér.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.40399,
+                        47.879488
+                  ]
+            },
+            {
+                  "name": "St. Andrea Wine Bar",
+                  "text": "Un local rafinat care îmbină gastronomia de înaltă clasă cu vinurile premiate ale cramei St. Andrea.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.328098,
+                        47.863295
+                  ]
+            },
+            {
+                  "name": "Agria Park",
+                  "text": "Un centru comercial modern construit pe locul unei foste fabrici de tutun, integrând elemente de arhitectură industrială veche.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        20.368678,
+                        47.899295
+                  ]
+            },
+            {
+                  "name": "Csillagászati Múzeum",
+                  "text": "Muzeu de astronomie situat în clădirea Liceului, cu instrumente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        20.376335,
+                        47.900039
+                  ]
+            },
+            {
+                  "name": "Kazamata",
+                  "text": "Sistemul de fortificații subterane al cetății din Eger, deschis vizitatorilor.",
+                  "category": "museum",
+                  "coords": [
+                        20.380387,
+                        47.904083
+                  ]
+            },
+            {
+                  "name": "Város a város alatt",
+                  "text": "Fostul sistem de pivnițe arhiepiscopale situat sub orașul Eger.",
+                  "category": "museum",
+                  "coords": [
+                        20.371682,
+                        47.901698
+                  ]
+            },
+            {
+                  "name": "Szemfényvesztés",
+                  "text": "O expoziție interactivă din Eger dedicată iluziilor optice.",
+                  "category": "museum",
+                  "coords": [
+                        20.371799,
+                        47.898738
+                  ]
+            },
+            {
+                  "name": "Mátyus Udvarház és Lovastanya",
+                  "text": "Un domeniu ecvestru și parc zoologic oferind activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        20.409674,
+                        47.91312
+                  ]
+            },
+            {
+                  "name": "Fegyvermustra",
+                  "text": "O expoziție de arme și armuri istorice situată în cetatea Eger.",
+                  "category": "museum",
+                  "coords": [
+                        20.378189,
+                        47.904118
+                  ]
+            },
+            {
+                  "name": "Sportmúzeum",
+                  "text": "Un muzeu din Eger ce documentează istoria sportului local.",
+                  "category": "museum",
+                  "coords": [
+                        20.378335,
+                        47.901124
+                  ]
+            },
+            {
+                  "name": "Valide Sultana Törökfürdő romjai",
+                  "text": "Ruinele unei băi turcești din perioada dominației otomane în Eger.",
+                  "category": "museum",
+                  "coords": [
+                        20.380482,
+                        47.902595
+                  ]
+            },
+            {
+                  "name": "Gárdonyi Géza Színház",
+                  "text": "Teatrul principal din Eger, numit după scriitorul Géza Gárdonyi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.375173,
+                        47.897739
+                  ]
+            },
+            {
+                  "name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház",
+                  "text": "Centru cultural ce găzduiește un teatru de păpuși pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        20.37031,
+                        47.897633
+                  ]
+            },
+            {
+                  "name": "Tűzoltómúzeum",
+                  "text": "Tűzoltómúzeum din Eger este dedicat istoriei fascinante a stingerii incendiilor locale. Vizitatorii acestui muzeu pot examina îndeaproape echipamente istorice de pompieri. Instituția oferă o perspectivă interesantă asupra evoluției serviciilor de urgență din acest oraș maghiar.",
+                  "category": "museum",
+                  "coords": [
+                        20.372743,
+                        47.906896
+                  ]
+            },
+            {
+                  "name": "Templom galéria",
+                  "text": "Această galerie din Eger se află într-o fostă clădire religioasă și găzduiește expoziții de artă temporare.",
+                  "category": "museum",
+                  "coords": [
+                        20.371505,
+                        47.897696
+                  ]
+            },
+            {
+                  "name": "Díszmedence",
+                  "text": "Un bazin decorativ din Eger, care servește ca element ornamental local.",
+                  "category": "landmark",
+                  "coords": [
+                        20.381374,
+                        47.898393
+                  ]
+            },
+            {
+                  "name": "Három Kivánság Kalandpark",
+                  "text": "Un parc de aventură din Eger care oferă diverse activități de agrement pentru familii.",
+                  "category": "landmark",
+                  "coords": [
+                        20.361727,
+                        47.891814
+                  ]
+            },
+            {
+                  "name": "Fájdalmas Anya temetőkápolna",
+                  "text": "O mică chapelă de cimitir din Eger, dedicată Maicii Îndurerate.",
+                  "category": "religious",
+                  "coords": [
+                        20.36606,
+                        47.89566
+                  ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "Kis tó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "Ostorosi-tó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "Egerszalóki-víztározó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Familiile care vizitează Eger îi pot lăsa pe copii să se bucure de cățărat și joacă la locul de joacă Mini mászóka.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Situat în Eger, Kölcsey Ferenc téri játszótér este un loc de joacă perfect pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "Talizmán utcai játszótér oferă un mediu distractiv pentru copii în timp ce explorează Eger.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "Napsugár utcai játszótér este un loc de joacă primitor în Eger, unde copiii se pot bucura de activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "O piscină de învățare în Eger, disponibilă pentru cursuri de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383316,
+                        47.89985
+                  ]
+            },
+            {
+                  "name": "Zay-Ló-tanya",
+                  "text": "O grădină zoologică locală și fermă în Eger, care oferă interacțiuni cu animale.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411986,
+                        47.89225
+                  ]
+            },
+            {
+                  "name": "Babamedence",
+                  "text": "O piscină cu apă puțin adâncă pentru copii mici în orașul Eger.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383377,
+                        47.896566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eger Castle",
+                  "text": "One of Hungary's most significant historical sites, famous for the heroic defense against the Ottoman army in 1552. Today it houses the Dobó István Castle Museum and offers tours through its extensive underground casemate system.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.3794,
+                        47.9039
+                  ]
+            },
+            {
+                  "name": "Eger Basilica",
+                  "text": "The second largest church in Hungary, built in Neoclassical style during the 19th century by József Hild. Its monumental entrance, stunning interior frescoes, and grand organ make it a must-visit architectural landmark.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.37315,
+                        47.899395
+                  ]
+            },
+            {
+                  "name": "Eger Minaret",
+                  "text": "The northernmost surviving Ottoman monument in Europe, built at the end of the 16th century. Visitors can climb the 97 steps of the 40-meter-high tower for a breathtaking panoramic view of the old town.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.376361,
+                        47.904667
+                  ]
+            },
+            {
+                  "name": "Valley of the Beautiful Women",
+                  "text": "Eger's most famous wine district, featuring hundreds of cellars carved into rhyolite tuff rock. It is the premier location to taste the world-renowned Egri Bikavér (Bull's Blood) and other regional wine specialties.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.358922,
+                        47.890242
+                  ]
+            },
+            {
+                  "name": "Dobó Square",
+                  "text": "The Baroque main square of the city, featuring statues of the castle defenders led by István Dobó. The square is the heart of Eger's social life, lined with charming restaurants, cafes, and seasonal markets.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        20.377145,
+                        47.902183
+                  ]
+            },
+            {
+                  "name": "Minorite Church",
+                  "text": "A Baroque masterpiece on Dobó Square, often called one of the most beautiful Minorite churches in Central Europe for its rich interior.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        20.377092,
+                        47.902414
+                  ]
+            },
+            {
+                  "name": "Archbishop's Palace",
+                  "text": "The late Baroque residence of the Archbishops of Eger, now housing a museum of religious art and grand historical halls.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        20.373604,
+                        47.900625
+                  ]
+            },
+            {
+                  "name": "Archbishop's Garden",
+                  "text": "The largest park in Eger, once a private hunting ground, now a public green space with a lake, fountains, and ancient trees.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        20.380344,
+                        47.89685
+                  ]
+            },
+            {
+                  "name": "Gárdonyi Memorial House",
+                  "text": "The former home and burial place of Géza Gárdonyi, the author of the famous novel 'Eclipse of the Crescent Moon' about Eger's siege.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.38172,
+                        47.905774
+                  ]
+            },
+            {
+                  "name": "Beatles Museum",
+                  "text": "A unique museum dedicated to the legendary British band, featuring instruments, posters, and rare memorabilia in the city center.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.369913,
+                        47.903335
+                  ]
+            },
+            {
+                  "name": "Kis-Dobó Square",
+                  "text": "A charming square along the Eger stream, popular for its cafes, bridges, and relaxed atmosphere near the main plaza.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        20.377723,
+                        47.903054
+                  ]
+            },
+            {
+                  "name": "Bródy Sándor Library",
+                  "text": "The county library housed in a beautifully renovated historic building, serving as a center for local literary life.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        20.373204,
+                        47.902373
+                  ]
+            },
+            {
+                  "name": "Bolyki Winery",
+                  "text": "Located in a former stone quarry, this unique winery offers award-winning red wines in an industrial outdoor setting.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.40399,
+                        47.879488
+                  ]
+            },
+            {
+                  "name": "St. Andrea Wine Bar",
+                  "text": "An upscale venue in Eger that pairs gourmet dishes with the premium wines of the renowned St. Andrea estate.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        20.328098,
+                        47.863295
+                  ]
+            },
+            {
+                  "name": "Agria Park",
+                  "text": "A modern shopping center built on the site of a former tobacco factory, incorporating historic industrial architecture.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        20.368678,
+                        47.899295
+                  ]
+            },
+            {
+                  "name": "Csillagászati Múzeum",
+                  "text": "An astronomy museum in the Lyceum building featuring historic instruments.",
+                  "category": "museum",
+                  "coords": [
+                        20.376335,
+                        47.900039
+                  ]
+            },
+            {
+                  "name": "Kazamata",
+                  "text": "The underground fortification system and casemates of the Eger Castle.",
+                  "category": "museum",
+                  "coords": [
+                        20.380387,
+                        47.904083
+                  ]
+            },
+            {
+                  "name": "Város a város alatt",
+                  "text": "The vast former archiepiscopal cellar system beneath the city of Eger.",
+                  "category": "museum",
+                  "coords": [
+                        20.371682,
+                        47.901698
+                  ]
+            },
+            {
+                  "name": "Szemfényvesztés",
+                  "text": "An interactive exhibition in Eger focusing on optical illusions.",
+                  "category": "museum",
+                  "coords": [
+                        20.371799,
+                        47.898738
+                  ]
+            },
+            {
+                  "name": "Mátyus Udvarház és Lovastanya",
+                  "text": "An equestrian estate and animal park offering leisure activities near Eger.",
+                  "category": "family",
+                  "coords": [
+                        20.409674,
+                        47.91312
+                  ]
+            },
+            {
+                  "name": "Fegyvermustra",
+                  "text": "An exhibition of historic weapons and armor located in Eger Castle.",
+                  "category": "museum",
+                  "coords": [
+                        20.378189,
+                        47.904118
+                  ]
+            },
+            {
+                  "name": "Sportmúzeum",
+                  "text": "A museum in Eger documenting local sports history and achievements.",
+                  "category": "museum",
+                  "coords": [
+                        20.378335,
+                        47.901124
+                  ]
+            },
+            {
+                  "name": "Valide Sultana Törökfürdő romjai",
+                  "text": "The ruins of a former Turkish bath from the Ottoman era in Eger.",
+                  "category": "museum",
+                  "coords": [
+                        20.380482,
+                        47.902595
+                  ]
+            },
+            {
+                  "name": "Gárdonyi Géza Színház",
+                  "text": "The main theatre of Eger, named after the writer Géza Gárdonyi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.375173,
+                        47.897739
+                  ]
+            },
+            {
+                  "name": "Forrás Gyermek- és Ifjúsági ház és Harlekin Bábszínház",
+                  "text": "A cultural center housing a popular puppet theatre for children.",
+                  "category": "cultural",
+                  "coords": [
+                        20.37031,
+                        47.897633
+                  ]
+            },
+            {
+                  "name": "Tűzoltómúzeum",
+                  "text": "The Tűzoltómúzeum in Eger is dedicated to the fascinating history of local firefighting. Visitors to this museum can view historical firefighting equipment up close. It provides a fascinating glimpse into the development of emergency services in this Hungarian city.",
+                  "category": "museum",
+                  "coords": [
+                        20.372743,
+                        47.906896
+                  ]
+            },
+            {
+                  "name": "Templom galéria",
+                  "text": "This gallery in Eger is located in a former religious building and hosts temporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        20.371505,
+                        47.897696
+                  ]
+            },
+            {
+                  "name": "Díszmedence",
+                  "text": "A decorative pool in Eger that serves as a local ornamental feature.",
+                  "category": "landmark",
+                  "coords": [
+                        20.381374,
+                        47.898393
+                  ]
+            },
+            {
+                  "name": "Három Kivánság Kalandpark",
+                  "text": "An adventure park in Eger offering various recreational activities for families.",
+                  "category": "landmark",
+                  "coords": [
+                        20.361727,
+                        47.891814
+                  ]
+            },
+            {
+                  "name": "Fájdalmas Anya temetőkápolna",
+                  "text": "A small cemetery chapel in Eger dedicated to the Sorrowful Mother.",
+                  "category": "religious",
+                  "coords": [
+                        20.36606,
+                        47.89566
+                  ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "Kis tó is a lake located in Eger, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "Ostorosi-tó is a lake located in Eger, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "Egerszalóki-víztározó is a lake located in Eger, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Families visiting Eger can let their children enjoy climbing and playing at the Mini mászóka playground.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Located in Eger, the Kölcsey Ferenc téri játszótér is a playground perfect for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "The Talizmán utcai játszótér provides a fun environment for children to play while exploring Eger.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "Napsugár utcai játszótér is a welcoming playground in Eger where kids can enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "A training pool in Eger used for swimming lessons.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383316,
+                        47.89985
+                  ]
+            },
+            {
+                  "name": "Zay-Ló-tanya",
+                  "text": "A local zoo and farm in Eger offering interactions with animals.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411986,
+                        47.89225
+                  ]
+            },
+            {
+                  "name": "Babamedence",
+                  "text": "A shallow swimming pool for toddlers located in the city of Eger.",
+                  "category": "recreational",
+                  "coords": [
+                        20.383377,
+                        47.896566
+                  ]
+            }
+      ]
+}
   },
   {
     id: "gyongyos", population: 31018,
@@ -31803,6 +33908,15 @@ export const hungaryCities: POI[] = [
                         20.179181,
                         47.166604
                   ]
+            },
+            {
+                  "name": "Liget Termálstrand és Élményfürdő",
+                  "text": "Ein Thermal- und Erlebnisbad zur Entspannung und Erholung in Szolnok.",
+                  "category": "recreational",
+                  "coords": [
+                        20.193917,
+                        47.166751
+                  ]
             }
       ],
       "hu": [
@@ -32064,6 +34178,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.179181,
                         47.166604
+                  ]
+            },
+            {
+                  "name": "Liget Termálstrand és Élményfürdő",
+                  "text": "Termálfürdő és élménypark, amely kikapcsolódást nyújt Szolnokon.",
+                  "category": "recreational",
+                  "coords": [
+                        20.193917,
+                        47.166751
                   ]
             }
       ],
@@ -32327,6 +34450,15 @@ export const hungaryCities: POI[] = [
                         20.179181,
                         47.166604
                   ]
+            },
+            {
+                  "name": "Liget Termálstrand és Élményfürdő",
+                  "text": "Un parc acvatic și termal care oferă relaxare și recreere în Szolnok.",
+                  "category": "recreational",
+                  "coords": [
+                        20.193917,
+                        47.166751
+                  ]
             }
       ],
       "en": [
@@ -32588,6 +34720,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.179181,
                         47.166604
+                  ]
+            },
+            {
+                  "name": "Liget Termálstrand és Élményfürdő",
+                  "text": "A thermal bath and adventure park providing relaxation and recreation in Szolnok.",
+                  "category": "recreational",
+                  "coords": [
+                        20.193917,
+                        47.166751
                   ]
             }
       ]
@@ -45211,7 +47352,1252 @@ export const hungaryCities: POI[] = [
       pt: ["Siófok é a maior cidade do Lago Balaton e um centro do turismo de verão.", "O compositor Emmerich Kálmán, criador de 'A Princesa das Czardas', nasceu aqui.", "A torre de água de 45 metros de altura no centro da cidade é o marco de Siófok.", "O porto de Siófok é o porto de abrigo da maior frota do Balaton."],
       fr: ["Siófok est la plus grande ville du lac Balaton et un centre du tourisme estival.", "Le compositeur Emmerich Kálmán, créateur de « Princesse Czardas », est né ici.", "Le château d'eau de 45 mètres de haut au centre-ville est l'emblème de Siófok.", "Le port de Siófok est le port d'attache de la plus grande flotte du Balaton."],
     },
-    "sights": {"de": [{"name": "Wasserturm von Siófok", "text": "Das Wahrzeichen der Stadt ist der 1912 erbauten, 45 Meter hohe Turm im Zentrum des Hauptplatzes. Nach einer umfassenden Renovierung im Jahr 2012 beherbergt er nun ein rotierendes Café und eine Aussichtsplattform mit Panorama-Glaswänden. Ein moderner Aufzug bringt die Besucher nach oben, von wo aus man einen herrlichen Blick über den Balaton genießen kann.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.052376, 46.90578]}, {"name": "Imre-Kálmán-Gedächtnismuseum", "text": "Das Museum befindet sich im Geburtshaus des berühmten Operettenkomponisten Imre Kálmán, der durch Werke wie die „Csárdásfürstin“ Weltruhm erlangte. Die Ausstellung zeigt persönliche Gegenstände, das Klavier und Originalpartituren des Künstlers in einer authentischen Atmosphäre. Es ist ein Muss für Liebhaber der ungarischen Musikgeschichte.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.051707, 46.906895]}, {"name": "Hafen von Siófok", "text": "Es ist der verkehrsreichste Hafen am Plattensee, von dem aus regelmäßig Fähren, Ausflugsschiffe und historische Dampfer ablegen. Die Kaianlage lädt zu Spaziergängen ein und bietet einen direkten Zugang zum Sió-Kanal und zur berühmten Mole. Im Sommer ist der Hafen der Ausgangspunkt für die beliebten Partyboote.", "category": "civic", "confidence": "high", "source_hint": "known", "coords": [18.058252, 46.905438]}, {"name": "Siófok Nagystrand", "text": "Der größte und beliebteste Strand am Balaton, bekannt für seinen feinen Sand und das lebhafte Tages- und Nachtleben.", "category": "recreational", "confidence": "high", "coords": [18.053911, 46.912298]}, {"name": "Jókai-Park", "text": "Eine wunderschöne Parkanlage im Stadtzentrum mit Blumenbeeten, Statuen und schattigen Alleen für gemütliche Spaziergänge.", "category": "natural", "confidence": "high", "coords": [18.050623, 46.908878]}, {"name": "Aranypart (Goldstrand)", "text": "Ein langer, freier Strandabschnitt im Osten der Stadt, ideal für Familien und Wassersportbegeisterte.", "category": "recreational", "confidence": "high", "coords": [18.064747, 46.915691]}, {"name": "Ezüstpart (Silberstrand)", "text": "Der westliche Teil von Siófok mit flachem Wasser und ruhigeren Strandabschnitten, perfekt für Entspannung.", "category": "recreational", "confidence": "high", "coords": [18.019051, 46.902189]}, {"name": "Kálmán-Imre-Freilichtbühne", "text": "Ein bedeutender Veranstaltungsort für sommerliche Konzerte und Theateraufführungen unter freiem Himmel.", "category": "cultural", "confidence": "high", "coords": [18.050378, 46.906507]}, {"name": "Plázs Siófok", "text": "Das pulsierende Zentrum des Nagystrands mit Konzerten, DJ-Auftritten und exklusiven Beach-Clubs.", "category": "recreational", "confidence": "high", "coords": [18.049213, 46.910271]}, {"name": "Riesenrad von Siófok", "text": "Eine Attraktion am Hafen, die Besuchern einen spektakulären Panoramablick über den See und die Stadt bietet.", "category": "recreational", "confidence": "high", "coords": [18.055491, 46.912546]}, {"name": "Millennium-Park", "text": "Eine Parkanlage am Bahnhof mit modernen Skulpturen und einem Musikpavillon, gewidmet dem ungarischen Jahrtausend.", "category": "cultural", "confidence": "high", "coords": [18.053904, 46.906919]}, {"name": "Krúdy-Gyula-Statue", "text": "Ein Denkmal für den berühmten ungarischen Schriftsteller, der oft seine Sommer in Siófok verbrachte.", "category": "cultural", "confidence": "high", "coords": [18.039308, 46.898324]}, {"name": "Thanhoffer-Villa", "text": "Ein prächtiges historisches Gebäude an der Promenade, das einst als Sommerresidenz prominenter Persönlichkeiten diente.", "category": "historical", "confidence": "high", "coords": [18.052771, 46.910728]}, {"name": "Jókai-Villa", "text": "Das ehemalige Sommerhaus des Schriftstellers Mór Jókai, heute ein geschütztes Baudenkmal an der Promenade.", "category": "historical", "confidence": "high", "coords": [18.04861, 46.90738]}, {"name": "Ufer des Sió-Kanals", "text": "Ein langer Weg entlang des Kanals, der die Stadt durchquert und beliebt bei Radfahrern und Anglern ist.", "category": "recreational", "confidence": "high", "coords": [18.049351, 46.904874]}, {"name": "Szent-Miklós-Park", "text": "Ein kleinerer Park am Hafen mit Gedenkstätten für Seeleute und die Opfer von Schiffsunglücken.", "category": "historical", "confidence": "high", "coords": [18.048124, 46.906845]}, {"name": "Karinthy-Frigyes-Statue", "text": "Ein Denkmal für den bedeutenden ungarischen Humoristen und Schriftsteller in der Nähe des Hafens.", "category": "cultural", "confidence": "high", "coords": [18.052948, 46.909999]}, {"name": "Vak-Bottyán-Strand", "text": "Im westlichen Teil von Siófok verborgen, ist der Vak-Bottyán-Strand ein ruhigerer Küstenabschnitt, der besonders von den Einheimischen geschätzt wird. Die familiäre und friedliche Stimmung macht ihn zu einem perfekten Ort für ungestörtes Schwimmen und entspannte Sonnenbäder fernab der großen Touristenmassen. Ein Besuch in den frühen Abendstunden verspricht eine besonders stimmungsvolle Atmosphäre.", "category": "recreational", "confidence": "high", "coords": [18.048473, 46.901841]}, {"name": "Rádiós Hírközlési Múzeum", "text": "Das Museum für Radiokommunikation bietet Ausstellungen zur Telekommunikationsgeschichte in Siófok.", "category": "museum", "coords": [18.049446, 46.898078]}, {"name": "Régi tűzoltókocsi", "text": "Das alte Feuerwehrauto ist eine interessante historische Attraktion in Siófok.", "category": "landmark", "coords": [18.021886, 46.890008]}, {"name": "Gyermek fürdőhely", "text": "Der Kinderbadeplatz ist ein familienfreundliches Strandresort in Siófok.", "category": "recreational", "coords": [18.065964, 46.916606]}, {"name": "Újhelyi strand", "text": "Das bekannte Strandresort Újhelyi in Siófok lockt mit seiner einladenden Anlage direkt an das schimmernde Wasser des Balatons. Gäste erleben hier eine lebhafte Urlaubsatmosphäre, die sich ideal für ausgiebiges Sonnenbaden, sportliche Aktivitäten und erfrischende Schwimmrunden eignet. Um den Tag optimal zu nutzen, empfiehlt sich ein Besuch gleich am Vormittag.", "category": "recreational", "coords": [18.036728, 46.906058]}, {"name": "Plébánia", "text": "Das Pfarrhaus ist ein lokales herrschaftliches Gebäude in Siófok.", "category": "historical", "coords": [18.071955, 46.886208]}, {"name": "Fordított ház", "text": "Das verrückte Haus ist eine einzigartige und lustige Touristenattraktion in Siófok.", "category": "landmark", "coords": [18.019001, 46.897639]}, {"name": "Siófoki Evangélikus egyházközség temploma", "text": "Dies ist die markante, von Imre Makovecz entworfene lutherische Kirche in Siófok.", "category": "religious", "coords": [18.058985, 46.908414]}, {"name": "Gőzmozdony", "text": "Die Dampflokomotive ist ein historisches Verkehrsdenkmal, das in Siófok ausgestellt ist.", "category": "landmark", "coords": [18.055923, 46.908426]}, {"name": "Endrédi-tó", "text": "Der Endrédi-tó in Siofok ist ein ruhiges Gewässer.", "category": "natural", "coords": [17.979316, 46.851109]}, {"name": "Richter-tó", "text": "Der Richter-tó in Siofok ist ein kleiner See zum Verweilen.", "category": "natural", "coords": [17.972515, 46.885925]}, {"name": "Plattensee", "text": "Der Balaton in Siofok ist ein ideales Ziel zum Schwimmen und für Freizeitaktivitäten.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Platán Játékterem", "text": "Die Platán Arcade Venue in Siofok bietet Unterhaltung für die ganze Familie.", "category": "family", "coords": [18.050263, 46.910437]}], "hu": [{"name": "Siófoki Víztorony", "text": "A város jelképe az 1912-ben épült, 45 méter magas torony, amely a Fő tér közepén áll. A 2012-es teljes felújítás óta modern lifttel érhető el a felső rész, ahol egy panoráma kávézó és egy 360 fokban körbeforgó kilátószint várja a látogatókat. Esténként a torony díszkivilágításban pompázik, és a Balaton-part egyik leglátványosabb pontja.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.052376, 46.90578]}, {"name": "Kálmán Imre Emlékmúzeum", "text": "A világhírű operettszerző, a Csárdáskirálynő alkotójának szülőházában berendezett kiállítás Kálmán Imre életútját mutatja be. A látogatók megtekinthetik a művész zongoráját, személyes tárgyait és kottáit, miközben megelevenedik a századforduló hangulata. A múzeum a kulturális turizmus egyik legfontosabb állomása a városban.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.051707, 46.906895]}, {"name": "Siófoki BAHART kikötő", "text": "A Balaton legnagyobb forgalmú hajóállomása, ahonnan menetrend szerinti járatok, nosztalgiahajók és sétahajók indulnak a tó minden irányába. Itt található a Sió-csatorna zsiliprendszere is, amely a tó vízszintjét szabályozza. A móló végén álló 'Béke' szobor a kikötő egyik kedvelt találkozási pontja.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [18.058252, 46.905438]}, {"name": "Siófoki Nagystrand", "text": "A Balaton legnagyobb fizetős strandja, a nyári szórakozás és a Plázs központja, homokos parttal.", "category": "recreational", "confidence": "high", "coords": [18.053911, 46.912298]}, {"name": "Jókai park", "text": "A város legszebb parkja a hajóállomás közelében, árnyas fákkal, virágágyásokkal és szobrokkal.", "category": "natural", "confidence": "high", "coords": [18.050623, 46.908878]}, {"name": "Aranypart", "text": "Siófok keleti részén húzódó több kilométeres szabadstrand, sekély vízzel és rengeteg szolgáltatással.", "category": "recreational", "confidence": "high", "coords": [18.064747, 46.915691]}, {"name": "Ezüstpart", "text": "A város nyugati felén elterülő, családiasabb hangulatú szabadstrand, ideális pihenésre.", "category": "recreational", "confidence": "high", "coords": [18.019051, 46.902189]}, {"name": "Kálmán Imre Szabadtéri Színpad", "text": "Népszerű nyári kulturális helyszín a Jókai parkban, ahol koncertek és színházi estek várják a közönséget.", "category": "cultural", "confidence": "high", "coords": [18.050378, 46.906507]}, {"name": "Plázs Siófok", "text": "A Nagystrandon kialakított rendezvényközpont, a balatoni nyár zenei és buliéletének epicentruma.", "category": "recreational", "confidence": "high", "coords": [18.049213, 46.910271]}, {"name": "Siófoki Óriáskerék", "text": "A kikötő mellett felállított látványosság, amelyről egyedülálló panoráma nyílik a Balatonra és a városra.", "category": "recreational", "confidence": "high", "coords": [18.055491, 46.912546]}, {"name": "Millennium park", "text": "A vasútállomás előtt elterülő park modern szobrokkal és zenepavilonnal, a város egyik kapuja.", "category": "cultural", "confidence": "high", "coords": [18.053904, 46.906919]}, {"name": "Krúdy Gyula szobor", "text": "A neves író emlékműve a kikötő közelében, aki számos írásában örökítette meg a balatoni hangulatot.", "category": "cultural", "confidence": "high", "coords": [18.039308, 46.898324]}, {"name": "Thanhoffer-villa", "text": "A Petőfi sétányon álló elegáns, neoreneszánsz épület, amely a város fürdőkultúrájának tanúja.", "category": "historical", "confidence": "high", "coords": [18.052771, 46.910728]}, {"name": "Jókai-villa", "text": "Jókai Mór egykori nyaralója, amely ma műemléki védelem alatt álló épület a part közelében.", "category": "historical", "confidence": "high", "coords": [18.04861, 46.90738]}, {"name": "Sió-csatorna partja", "text": "A várost átszelő csatorna menti sétány és kerékpárút, amely csendesebb kikapcsolódást kínál.", "category": "recreational", "confidence": "high", "coords": [18.049351, 46.904874]}, {"name": "Szent Miklós park", "text": "A hajókikötő mellett található park, ahol tengerész emlékművek és a tragikus hajószerencsétlenségek áldozatainak emléktáblái állnak.", "category": "historical", "confidence": "high", "coords": [18.048124, 46.906845]}, {"name": "Karinthy Frigyes szobra", "text": "Az író és humorista alakját megörökítő szobor, aki szintén szívesen töltötte szabadidejét Siófokon.", "category": "cultural", "confidence": "high", "coords": [18.052948, 46.909999]}, {"name": "Vak Bottyán strand", "text": "Siófok nyugati részén megbújva, a Vak-Bottyán-Strand egy csendesebb partszakasz, amelyet különösen a helyiek értékelnek. A családias és békés hangulat tökéletes helyszínné teszi a zavartalan úszáshoz és a pihentető napozáshoz, távol a nagy turistatömegektől. Egy kora esti látogatás különösen hangulatos élményt ígér.", "category": "recreational", "confidence": "high", "coords": [18.048473, 46.901841]}, {"name": "Rádiós Hírközlési Múzeum", "text": "A Rádiós Hírközlési Múzeum a távközlés történetét bemutató kiállítást kínál Siófokon.", "category": "museum", "coords": [18.049446, 46.898078]}, {"name": "Régi tűzoltókocsi", "text": "A régi tűzoltókocsi egy érdekes történelmi látványosság Siófokon.", "category": "landmark", "coords": [18.021886, 46.890008]}, {"name": "Gyermek fürdőhely", "text": "A Gyermek fürdőhely egy családbarát strand Siófokon.", "category": "recreational", "coords": [18.065964, 46.916606]}, {"name": "Újhelyi strand", "text": "A híres siófoki Újhelyi strand hívogató létesítményeivel közvetlenül a Balaton csillogó vizéhez csábítja a vendégeket. A látogatók itt nyüzsgő nyaralási atmoszférát élhetnek át, amely ideális a kiadós napozáshoz, sportoláshoz és frissítő úszásokhoz. A nap optimális kihasználása érdekében érdemes már délelőtt megkezdeni a látogatást.", "category": "recreational", "coords": [18.036728, 46.906058]}, {"name": "Plébánia", "text": "A plébánia egy helyi, kúria jellegű épület Siófokon.", "category": "historical", "coords": [18.071955, 46.886208]}, {"name": "Fordított ház", "text": "A Fordított ház egy egyedülálló és szórakoztató turisztikai látványosság Siófokon.", "category": "landmark", "coords": [18.019001, 46.897639]}, {"name": "Siófoki Evangélikus egyházközség temploma", "text": "Ez a Makovecz Imre által tervezett különleges evangélikus templom Siófokon.", "category": "religious", "coords": [18.058985, 46.908414]}, {"name": "Gőzmozdony", "text": "A gőzmozdony egy történelmi közlekedési emlékmű, amely Siófokon látható.", "category": "landmark", "coords": [18.055923, 46.908426]}, {"name": "Endrédi-tó", "text": "A siófoki Endrédi-tó egy csendes vízterület.", "category": "natural", "coords": [17.979316, 46.851109]}, {"name": "Richter-tó", "text": "A siófoki Richter-tó egy kis tó a pihenéshez.", "category": "natural", "coords": [17.972515, 46.885925]}, {"name": "Balaton", "text": "A siófoki Balaton ideális célpont úszáshoz és szabadidős tevékenységekhez.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Platán Játékterem", "text": "A siófoki Platán Arcade Venue szórakozást kínál az egész családnak.", "category": "family", "coords": [18.050263, 46.910437]}], "ro": [{"name": "Turnul de Apă din Siófok", "text": "Simbolul orașului este turnul de 45 de metri înălțime, construit în 1912, situat în centrul Pieței Principale. După renovarea sa completă în 2012, acesta găzduiește o cafenea panoramică și o platformă de observație care se rotește la 360 de grade. Un lift modern transportă vizitatorii spre vârf, oferind o vedere spectaculoasă asupra Lacului Balaton.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.052376, 46.90578]}, {"name": "Muzeul Memorial Imre Kálmán", "text": "Muzeul este situat în casa natală a celebrului compozitor de operetă Imre Kálmán, creatorul 'Principesei Csárdásului'. Expoziția prezintă obiecte personale, pianul artistului și partituri originale într-o atmosferă autentică de la începutul secolului XX. Este un loc esențial pentru iubitorii de cultură și istorie muzicală.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.051707, 46.906895]}, {"name": "Portul din Siófok", "text": "Este cel mai mare port de pe Lacul Balaton, fiind nodul principal pentru feriboturi, nave de croazieră și ambarcațiuni istorice. Zona de dig este ideală pentru plimbări și oferă acces la sistemul de ecluze al canalului Sió. Vara, portul este punctul de plecare pentru numeroase ambarcațiuni de agrement și petreceri pe apă.", "category": "civic", "confidence": "high", "source_hint": "known", "coords": [18.058252, 46.905438]}, {"name": "Parcul Jókai", "text": "Un parc minunat în centrul orașului cu alei umbrite, flori și statui, ideal pentru plimbări relaxante.", "category": "natural", "confidence": "high", "coords": [18.053911, 46.912298]}, {"name": "Aranypart (Coasta de Aur)", "text": "O porțiune lungă de plajă liberă în estul orașului, cu apă mică, preferată de familii.", "category": "recreational", "confidence": "high", "coords": [18.050623, 46.908878]}, {"name": "Ezüstpart (Coasta de Argint)", "text": "Partea de vest a orașului Siófok, oferind plaje mai liniștite și relaxante.", "category": "recreational", "confidence": "high", "coords": [18.064747, 46.915691]}, {"name": "Ecluza Sió", "text": "Monument industrial situat la gura canalului Sió, reglând nivelul apei lacului Balaton.", "category": "civic", "confidence": "high", "coords": [18.019051, 46.902189]}, {"name": "Plázs Siófok", "text": "Centrul distracției de vară de pe Nagystrand, gazdă pentru concerte și cluburi pe plajă.", "category": "recreational", "confidence": "high", "coords": [18.050378, 46.906507]}, {"name": "Băile Galerius", "text": "Complex balnear modern cu piscine termale și wellness, deschis pe tot parcursul anului.", "category": "recreational", "confidence": "high", "coords": [18.049213, 46.910271]}, {"name": "Parcul Millennium", "text": "Spațiu verde în fața gării decorat cu sculpturi moderne și un foișor muzical.", "category": "cultural", "confidence": "high", "coords": [18.055491, 46.912546]}, {"name": "Statuia lui Krúdy Gyula", "text": "Monument dedicat scriitorului maghiar care a descris în operele sale atmosfera Balatonului.", "category": "cultural", "confidence": "high", "coords": [18.053904, 46.906919]}, {"name": "Grădina de Sculpturi Varga Imre", "text": "Expoziție în aer liber a lucrărilor celebrului sculptor Imre Varga în orașul său natal.", "category": "cultural", "confidence": "high", "coords": [18.039308, 46.898324]}, {"name": "Vila Jókai", "text": "Fosta reședință de vară a scriitorului Mór Jókai, o clădire monument istoric protejată.", "category": "historical", "confidence": "high", "coords": [18.052771, 46.910728]}, {"name": "Casa Răsturnată (Fordított Ház)", "text": "O casă construită cu susul în jos, o atracție turistică inedită care oferă o experiență amuzantă.", "category": "recreational", "confidence": "high", "coords": [18.04861, 46.90738]}, {"name": "Parcul Sfântul Nicolae", "text": "Parc situat lângă port cu monumente dedicate marinarilor și victimelor catastrofelor navale.", "category": "historical", "confidence": "high", "coords": [18.049351, 46.904874]}, {"name": "Statuia lui Karinthy Frigyes", "text": "Monument dedicat scriitorului și umoristului maghiar situat în zona portului.", "category": "cultural", "confidence": "high", "coords": [18.048124, 46.906845]}, {"name": "Statuia lui Széchenyi István", "text": "Monument în onoarea contelui care a inițiat navigația cu aburi pe lacul Balaton.", "category": "historical", "confidence": "high", "coords": [18.052948, 46.909999]}, {"name": "Plaja Balatonszéplak", "text": "Ascunsă în partea de vest a orașului Siófok, plaja Vak-Bottyán este o porțiune de coastă mai liniștită, apreciată în mod deosebit de localnici. Starea de spirit familiară și pașnică face din acest loc o alegere perfectă pentru înot netulburat și plajă relaxantă, departe de marile aglomerații de turiști. O vizită la orele lăsării serii promite o atmosferă deosebit de fermecătoare.", "category": "recreational", "confidence": "high", "coords": [18.048473, 46.901841]}, {"name": "Rádiós Hírközlési Múzeum", "text": "Muzeul de Comunicații Radio oferă expoziții despre istoria telecomunicațiilor în Siófok.", "category": "museum", "coords": [18.049446, 46.898078]}, {"name": "Régi tűzoltókocsi", "text": "Vechea mașină de pompieri este o atracție istorică interesantă expusă în Siófok.", "category": "landmark", "coords": [18.021886, 46.890008]}, {"name": "Gyermek fürdőhely", "text": "Zona de baie pentru copii este o stațiune pe plajă potrivită pentru familii în Siófok.", "category": "recreational", "coords": [18.065964, 46.916606]}, {"name": "Újhelyi strand", "text": "Cunoscuta stațiune de plajă Újhelyi din Siófok atrage prin facilitățile sale primitoare situate chiar pe apele strălucitoare ale lacului Balaton. Oaspeții experimentează aici o atmosferă de vacanță plină de viață, ideală pentru plajă prelungită, activități sportive și sesiuni revigorante de înot. Pentru a profita la maximum de zi, se recomandă o vizită încă din timpul dimineții.", "category": "recreational", "coords": [18.036728, 46.906058]}, {"name": "Plébánia", "text": "Casa parohială este o clădire locală asemănătoare unui conac în Siófok.", "category": "historical", "coords": [18.071955, 46.886208]}, {"name": "Fordított ház", "text": "Casa Răsturnată este o atracție turistică unică și distractivă din Siófok.", "category": "landmark", "coords": [18.019001, 46.897639]}, {"name": "Siófoki Evangélikus egyházközség temploma", "text": "Aceasta este biserica luterană distinctivă proiectată de Imre Makovecz în Siófok.", "category": "religious", "coords": [18.058985, 46.908414]}, {"name": "Gőzmozdony", "text": "Locomotiva cu abur este un monument istoric de transport expus în Siófok.", "category": "landmark", "coords": [18.055923, 46.908426]}, {"name": "Endrédi-tó", "text": "Endrédi-tó din Siofok este o întindere de apă liniștită.", "category": "natural", "coords": [17.979316, 46.851109]}, {"name": "Richter-tó", "text": "Richter-tó din Siofok este un mic lac pentru relaxare.", "category": "natural", "coords": [17.972515, 46.885925]}, {"name": "Lacul Balaton", "text": "Lacul Balaton din Siofok este o destinație ideală pentru înot și activități recreative.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Platán Játékterem", "text": "Platán Arcade Venue din Siofok oferă divertisment pentru întreaga familie.", "category": "family", "coords": [18.050263, 46.910437]}], "en": [{"name": "Siófok Water Tower", "text": "The symbol of the city is the 45-meter-high tower built in 1912, located in the center of the Main Square. Since its complete renovation in 2012, a modern elevator takes visitors to the top, which features a panoramic cafe and a 360-degree rotating lookout level. It is beautifully illuminated at night and is one of the most photographed landmarks of Lake Balaton.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.052376, 46.90578]}, {"name": "Imre Kálmán Memorial Museum", "text": "Located in the birthplace of the world-renowned operetta composer Imre Kálmán, this museum showcases his life and career. Visitors can see the artist's piano, personal belongings, and original scores in an authentic fin-de-siècle atmosphere. It is a key destination for those interested in Central European musical heritage.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [18.051707, 46.906895]}, {"name": "Port of Siófok", "text": "The busiest harbor on Lake Balaton, serving as the main hub for scheduled ferries, nostalgia boats, and pleasure cruises. The port area also includes the Sió Channel sluice system, which regulates the lake's water level. Walking down the long pier offers great views of the Tihany Peninsula across the water.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [18.058252, 46.905438]}, {"name": "Siófok Main Beach (Nagystrand)", "text": "The largest and most famous beach on Lake Balaton, known for its fine sand and vibrant summer nightlife.", "category": "recreational", "confidence": "high", "coords": [18.053911, 46.912298]}, {"name": "Jókai Park", "text": "A beautiful park in the city center featuring flower beds, statues, and shaded alleys for relaxing walks.", "category": "natural", "confidence": "high", "coords": [18.050623, 46.908878]}, {"name": "Golden Shore (Aranypart)", "text": "A several-kilometer-long public beach in the eastern part of Siófok with shallow waters.", "category": "recreational", "confidence": "high", "coords": [18.064747, 46.915691]}, {"name": "Silver Shore (Ezüstpart)", "text": "The western part of the city offering a more relaxed and family-friendly beach atmosphere.", "category": "recreational", "confidence": "high", "coords": [18.019051, 46.902189]}, {"name": "Imre Kálmán Open Air Stage", "text": "A major venue for summer concerts and theater performances located within Jókai Park.", "category": "cultural", "confidence": "high", "coords": [18.050378, 46.906507]}, {"name": "Plázs Siófok", "text": "The event hub of the main beach, the epicenter of summer concerts and beach club parties.", "category": "recreational", "confidence": "high", "coords": [18.049213, 46.910271]}, {"name": "Siófok Ferris Wheel", "text": "An attraction near the harbor providing a unique panoramic view of Lake Balaton and the city.", "category": "recreational", "confidence": "high", "coords": [18.055491, 46.912546]}, {"name": "Millennium Park", "text": "A green space in front of the railway station featuring modern sculptures and a music pavilion.", "category": "cultural", "confidence": "high", "coords": [18.053904, 46.906919]}, {"name": "Gyula Krúdy Statue", "text": "A monument to the famous writer who often stayed in Siófok and wrote about the Balaton atmosphere.", "category": "cultural", "confidence": "high", "coords": [18.039308, 46.898324]}, {"name": "Thanhoffer Villa", "text": "An elegant Neoclassical building on the promenade, a relic of the city's early bath culture.", "category": "historical", "confidence": "high", "coords": [18.052771, 46.910728]}, {"name": "Jókai Villa", "text": "The former summer residence of writer Mór Jókai, now a protected historic building near the shore.", "category": "historical", "confidence": "high", "coords": [18.04861, 46.90738]}, {"name": "Sió Canal Bank", "text": "A path along the canal crossing the city, popular for cycling and fishing in a quieter setting.", "category": "recreational", "confidence": "high", "coords": [18.049351, 46.904874]}, {"name": "Saint Nicholas Park", "text": "A park near the harbor with monuments dedicated to sailors and victims of naval accidents.", "category": "historical", "confidence": "high", "coords": [18.048124, 46.906845]}, {"name": "Frigyes Karinthy Statue", "text": "A sculpture of the famous Hungarian humorist and writer who loved spending time in Siófok.", "category": "cultural", "confidence": "high", "coords": [18.052948, 46.909999]}, {"name": "Vak Bottyán Beach", "text": "Hidden in the western part of Siófok, Vak-Bottyán-Strand is a quieter stretch of coastline that is particularly valued by the locals. The familiar and peaceful mood makes it a perfect place for undisturbed swimming and relaxed sunbathing far from the large tourist crowds. A visit in the early evening hours promises a particularly atmospheric experience.", "category": "recreational", "confidence": "high", "coords": [18.048473, 46.901841]}, {"name": "Rádiós Hírközlési Múzeum", "text": "The Radio Communications Museum offers exhibitions on telecommunications history in Siófok.", "category": "museum", "coords": [18.049446, 46.898078]}, {"name": "Régi tűzoltókocsi", "text": "The old fire engine is an interesting historical attraction displayed in Siófok.", "category": "landmark", "coords": [18.021886, 46.890008]}, {"name": "Gyermek fürdőhely", "text": "The Children's Bathing Area is a family-friendly beach resort in Siófok.", "category": "recreational", "coords": [18.065964, 46.916606]}, {"name": "Újhelyi strand", "text": "The well-known Újhelyi beach resort in Siófok entices with its inviting facilities right on the shimmering waters of Lake Balaton. Guests experience a lively holiday atmosphere here, which is ideal for extensive sunbathing, sports activities, and refreshing swimming laps. To make the most of the day, a visit right in the morning is recommended.", "category": "recreational", "coords": [18.036728, 46.906058]}, {"name": "Plébánia", "text": "The Rectory is a local manor-like building serving as the parish house in Siófok.", "category": "historical", "coords": [18.071955, 46.886208]}, {"name": "Fordított ház", "text": "The Upside Down House is a unique and fun tourist attraction in Siófok.", "category": "landmark", "coords": [18.019001, 46.897639]}, {"name": "Siófoki Evangélikus egyházközség temploma", "text": "This is the distinctive Lutheran church designed by Imre Makovecz in Siófok.", "category": "religious", "coords": [18.058985, 46.908414]}, {"name": "Gőzmozdony", "text": "The steam locomotive is a historical transportation monument displayed in Siófok.", "category": "landmark", "coords": [18.055923, 46.908426]}, {"name": "Endrédi-tó", "text": "The Endrédi-tó in Siofok is a quiet body of water.", "category": "natural", "coords": [17.979316, 46.851109]}, {"name": "Richter-tó", "text": "The Richter-tó in Siofok is a small lake for relaxation.", "category": "natural", "coords": [17.972515, 46.885925]}, {"name": "Lake Balaton", "text": "Lake Balaton in Siofok is an ideal destination for swimming and leisure activities.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Platán Arcade Venue", "text": "The Platán Arcade Venue in Siofok offers entertainment for the whole family.", "category": "family", "coords": [18.050263, 46.910437]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Wasserturm von Siófok",
+                  "text": "Das Wahrzeichen der Stadt ist der 1912 erbauten, 45 Meter hohe Turm im Zentrum des Hauptplatzes. Nach einer umfassenden Renovierung im Jahr 2012 beherbergt er nun ein rotierendes Café und eine Aussichtsplattform mit Panorama-Glaswänden. Ein moderner Aufzug bringt die Besucher nach oben, von wo aus man einen herrlichen Blick über den Balaton genießen kann.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.052376,
+                        46.90578
+                  ]
+            },
+            {
+                  "name": "Imre-Kálmán-Gedächtnismuseum",
+                  "text": "Das Museum befindet sich im Geburtshaus des berühmten Operettenkomponisten Imre Kálmán, der durch Werke wie die „Csárdásfürstin“ Weltruhm erlangte. Die Ausstellung zeigt persönliche Gegenstände, das Klavier und Originalpartituren des Künstlers in einer authentischen Atmosphäre. Es ist ein Muss für Liebhaber der ungarischen Musikgeschichte.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.051707,
+                        46.906895
+                  ]
+            },
+            {
+                  "name": "Hafen von Siófok",
+                  "text": "Es ist der verkehrsreichste Hafen am Plattensee, von dem aus regelmäßig Fähren, Ausflugsschiffe und historische Dampfer ablegen. Die Kaianlage lädt zu Spaziergängen ein und bietet einen direkten Zugang zum Sió-Kanal und zur berühmten Mole. Im Sommer ist der Hafen der Ausgangspunkt für die beliebten Partyboote.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        18.058252,
+                        46.905438
+                  ]
+            },
+            {
+                  "name": "Siófok Nagystrand",
+                  "text": "Der größte und beliebteste Strand am Balaton, bekannt für seinen feinen Sand und das lebhafte Tages- und Nachtleben.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.053911,
+                        46.912298
+                  ]
+            },
+            {
+                  "name": "Jókai-Park",
+                  "text": "Eine wunderschöne Parkanlage im Stadtzentrum mit Blumenbeeten, Statuen und schattigen Alleen für gemütliche Spaziergänge.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        18.050623,
+                        46.908878
+                  ]
+            },
+            {
+                  "name": "Aranypart (Goldstrand)",
+                  "text": "Ein langer, freier Strandabschnitt im Osten der Stadt, ideal für Familien und Wassersportbegeisterte.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.064747,
+                        46.915691
+                  ]
+            },
+            {
+                  "name": "Ezüstpart (Silberstrand)",
+                  "text": "Der westliche Teil von Siófok mit flachem Wasser und ruhigeren Strandabschnitten, perfekt für Entspannung.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.019051,
+                        46.902189
+                  ]
+            },
+            {
+                  "name": "Kálmán-Imre-Freilichtbühne",
+                  "text": "Ein bedeutender Veranstaltungsort für sommerliche Konzerte und Theateraufführungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.050378,
+                        46.906507
+                  ]
+            },
+            {
+                  "name": "Plázs Siófok",
+                  "text": "Das pulsierende Zentrum des Nagystrands mit Konzerten, DJ-Auftritten und exklusiven Beach-Clubs.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.049213,
+                        46.910271
+                  ]
+            },
+            {
+                  "name": "Riesenrad von Siófok",
+                  "text": "Eine Attraktion am Hafen, die Besuchern einen spektakulären Panoramablick über den See und die Stadt bietet.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.055491,
+                        46.912546
+                  ]
+            },
+            {
+                  "name": "Millennium-Park",
+                  "text": "Eine Parkanlage am Bahnhof mit modernen Skulpturen und einem Musikpavillon, gewidmet dem ungarischen Jahrtausend.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.053904,
+                        46.906919
+                  ]
+            },
+            {
+                  "name": "Krúdy-Gyula-Statue",
+                  "text": "Ein Denkmal für den berühmten ungarischen Schriftsteller, der oft seine Sommer in Siófok verbrachte.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.039308,
+                        46.898324
+                  ]
+            },
+            {
+                  "name": "Thanhoffer-Villa",
+                  "text": "Ein prächtiges historisches Gebäude an der Promenade, das einst als Sommerresidenz prominenter Persönlichkeiten diente.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.052771,
+                        46.910728
+                  ]
+            },
+            {
+                  "name": "Jókai-Villa",
+                  "text": "Das ehemalige Sommerhaus des Schriftstellers Mór Jókai, heute ein geschütztes Baudenkmal an der Promenade.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.04861,
+                        46.90738
+                  ]
+            },
+            {
+                  "name": "Ufer des Sió-Kanals",
+                  "text": "Ein langer Weg entlang des Kanals, der die Stadt durchquert und beliebt bei Radfahrern und Anglern ist.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.049351,
+                        46.904874
+                  ]
+            },
+            {
+                  "name": "Szent-Miklós-Park",
+                  "text": "Ein kleinerer Park am Hafen mit Gedenkstätten für Seeleute und die Opfer von Schiffsunglücken.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.048124,
+                        46.906845
+                  ]
+            },
+            {
+                  "name": "Karinthy-Frigyes-Statue",
+                  "text": "Ein Denkmal für den bedeutenden ungarischen Humoristen und Schriftsteller in der Nähe des Hafens.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.052948,
+                        46.909999
+                  ]
+            },
+            {
+                  "name": "Vak-Bottyán-Strand",
+                  "text": "Im westlichen Teil von Siófok verborgen, ist der Vak-Bottyán-Strand ein ruhigerer Küstenabschnitt, der besonders von den Einheimischen geschätzt wird. Die familiäre und friedliche Stimmung macht ihn zu einem perfekten Ort für ungestörtes Schwimmen und entspannte Sonnenbäder fernab der großen Touristenmassen. Ein Besuch in den frühen Abendstunden verspricht eine besonders stimmungsvolle Atmosphäre.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.048473,
+                        46.901841
+                  ]
+            },
+            {
+                  "name": "Rádiós Hírközlési Múzeum",
+                  "text": "Das Museum für Radiokommunikation bietet Ausstellungen zur Telekommunikationsgeschichte in Siófok.",
+                  "category": "museum",
+                  "coords": [
+                        18.049446,
+                        46.898078
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "Das alte Feuerwehrauto ist eine interessante historische Attraktion in Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.021886,
+                        46.890008
+                  ]
+            },
+            {
+                  "name": "Gyermek fürdőhely",
+                  "text": "Der Kinderbadeplatz ist ein familienfreundliches Strandresort in Siófok.",
+                  "category": "recreational",
+                  "coords": [
+                        18.065964,
+                        46.916606
+                  ]
+            },
+            {
+                  "name": "Újhelyi strand",
+                  "text": "Das bekannte Strandresort Újhelyi in Siófok lockt mit seiner einladenden Anlage direkt an das schimmernde Wasser des Balatons. Gäste erleben hier eine lebhafte Urlaubsatmosphäre, die sich ideal für ausgiebiges Sonnenbaden, sportliche Aktivitäten und erfrischende Schwimmrunden eignet. Um den Tag optimal zu nutzen, empfiehlt sich ein Besuch gleich am Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        18.036728,
+                        46.906058
+                  ]
+            },
+            {
+                  "name": "Plébánia",
+                  "text": "Das Pfarrhaus ist ein lokales herrschaftliches Gebäude in Siófok.",
+                  "category": "historical",
+                  "coords": [
+                        18.071955,
+                        46.886208
+                  ]
+            },
+            {
+                  "name": "Fordított ház",
+                  "text": "Das verrückte Haus ist eine einzigartige und lustige Touristenattraktion in Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.019001,
+                        46.897639
+                  ]
+            },
+            {
+                  "name": "Siófoki Evangélikus egyházközség temploma",
+                  "text": "Dies ist die markante, von Imre Makovecz entworfene lutherische Kirche in Siófok.",
+                  "category": "religious",
+                  "coords": [
+                        18.058985,
+                        46.908414
+                  ]
+            },
+            {
+                  "name": "Gőzmozdony",
+                  "text": "Die Dampflokomotive ist ein historisches Verkehrsdenkmal, das in Siófok ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.055923,
+                        46.908426
+                  ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "Der Endrédi-tó in Siofok ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "Der Richter-tó in Siofok ist ein kleiner See zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Plattensee",
+                  "text": "Der Balaton in Siofok ist ein ideales Ziel zum Schwimmen und für Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Játékterem",
+                  "text": "Die Platán Arcade Venue in Siofok bietet Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
+                  ]
+            },
+            {
+                  "name": "Nagystrand",
+                  "text": "Der größte und beliebteste Strandabschnitt in Siófok am Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        18.052726,
+                        46.912052
+                  ]
+            },
+            {
+                  "name": "Aranyparti szabadstrand",
+                  "text": "Ein kostenloser öffentlicher Strandabschnitt am Goldufer von Siófok.",
+                  "category": "recreational",
+                  "coords": [
+                        18.08574,
+                        46.923014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siófoki Víztorony",
+                  "text": "A város jelképe az 1912-ben épült, 45 méter magas torony, amely a Fő tér közepén áll. A 2012-es teljes felújítás óta modern lifttel érhető el a felső rész, ahol egy panoráma kávézó és egy 360 fokban körbeforgó kilátószint várja a látogatókat. Esténként a torony díszkivilágításban pompázik, és a Balaton-part egyik leglátványosabb pontja.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.052376,
+                        46.90578
+                  ]
+            },
+            {
+                  "name": "Kálmán Imre Emlékmúzeum",
+                  "text": "A világhírű operettszerző, a Csárdáskirálynő alkotójának szülőházában berendezett kiállítás Kálmán Imre életútját mutatja be. A látogatók megtekinthetik a művész zongoráját, személyes tárgyait és kottáit, miközben megelevenedik a századforduló hangulata. A múzeum a kulturális turizmus egyik legfontosabb állomása a városban.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.051707,
+                        46.906895
+                  ]
+            },
+            {
+                  "name": "Siófoki BAHART kikötő",
+                  "text": "A Balaton legnagyobb forgalmú hajóállomása, ahonnan menetrend szerinti járatok, nosztalgiahajók és sétahajók indulnak a tó minden irányába. Itt található a Sió-csatorna zsiliprendszere is, amely a tó vízszintjét szabályozza. A móló végén álló 'Béke' szobor a kikötő egyik kedvelt találkozási pontja.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.058252,
+                        46.905438
+                  ]
+            },
+            {
+                  "name": "Siófoki Nagystrand",
+                  "text": "A Balaton legnagyobb fizetős strandja, a nyári szórakozás és a Plázs központja, homokos parttal.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.053911,
+                        46.912298
+                  ]
+            },
+            {
+                  "name": "Jókai park",
+                  "text": "A város legszebb parkja a hajóállomás közelében, árnyas fákkal, virágágyásokkal és szobrokkal.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        18.050623,
+                        46.908878
+                  ]
+            },
+            {
+                  "name": "Aranypart",
+                  "text": "Siófok keleti részén húzódó több kilométeres szabadstrand, sekély vízzel és rengeteg szolgáltatással.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.064747,
+                        46.915691
+                  ]
+            },
+            {
+                  "name": "Ezüstpart",
+                  "text": "A város nyugati felén elterülő, családiasabb hangulatú szabadstrand, ideális pihenésre.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.019051,
+                        46.902189
+                  ]
+            },
+            {
+                  "name": "Kálmán Imre Szabadtéri Színpad",
+                  "text": "Népszerű nyári kulturális helyszín a Jókai parkban, ahol koncertek és színházi estek várják a közönséget.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.050378,
+                        46.906507
+                  ]
+            },
+            {
+                  "name": "Plázs Siófok",
+                  "text": "A Nagystrandon kialakított rendezvényközpont, a balatoni nyár zenei és buliéletének epicentruma.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.049213,
+                        46.910271
+                  ]
+            },
+            {
+                  "name": "Siófoki Óriáskerék",
+                  "text": "A kikötő mellett felállított látványosság, amelyről egyedülálló panoráma nyílik a Balatonra és a városra.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.055491,
+                        46.912546
+                  ]
+            },
+            {
+                  "name": "Millennium park",
+                  "text": "A vasútállomás előtt elterülő park modern szobrokkal és zenepavilonnal, a város egyik kapuja.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.053904,
+                        46.906919
+                  ]
+            },
+            {
+                  "name": "Krúdy Gyula szobor",
+                  "text": "A neves író emlékműve a kikötő közelében, aki számos írásában örökítette meg a balatoni hangulatot.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.039308,
+                        46.898324
+                  ]
+            },
+            {
+                  "name": "Thanhoffer-villa",
+                  "text": "A Petőfi sétányon álló elegáns, neoreneszánsz épület, amely a város fürdőkultúrájának tanúja.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.052771,
+                        46.910728
+                  ]
+            },
+            {
+                  "name": "Jókai-villa",
+                  "text": "Jókai Mór egykori nyaralója, amely ma műemléki védelem alatt álló épület a part közelében.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.04861,
+                        46.90738
+                  ]
+            },
+            {
+                  "name": "Sió-csatorna partja",
+                  "text": "A várost átszelő csatorna menti sétány és kerékpárút, amely csendesebb kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.049351,
+                        46.904874
+                  ]
+            },
+            {
+                  "name": "Szent Miklós park",
+                  "text": "A hajókikötő mellett található park, ahol tengerész emlékművek és a tragikus hajószerencsétlenségek áldozatainak emléktáblái állnak.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.048124,
+                        46.906845
+                  ]
+            },
+            {
+                  "name": "Karinthy Frigyes szobra",
+                  "text": "Az író és humorista alakját megörökítő szobor, aki szintén szívesen töltötte szabadidejét Siófokon.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.052948,
+                        46.909999
+                  ]
+            },
+            {
+                  "name": "Vak Bottyán strand",
+                  "text": "Siófok nyugati részén megbújva, a Vak-Bottyán-Strand egy csendesebb partszakasz, amelyet különösen a helyiek értékelnek. A családias és békés hangulat tökéletes helyszínné teszi a zavartalan úszáshoz és a pihentető napozáshoz, távol a nagy turistatömegektől. Egy kora esti látogatás különösen hangulatos élményt ígér.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.048473,
+                        46.901841
+                  ]
+            },
+            {
+                  "name": "Rádiós Hírközlési Múzeum",
+                  "text": "A Rádiós Hírközlési Múzeum a távközlés történetét bemutató kiállítást kínál Siófokon.",
+                  "category": "museum",
+                  "coords": [
+                        18.049446,
+                        46.898078
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "A régi tűzoltókocsi egy érdekes történelmi látványosság Siófokon.",
+                  "category": "landmark",
+                  "coords": [
+                        18.021886,
+                        46.890008
+                  ]
+            },
+            {
+                  "name": "Gyermek fürdőhely",
+                  "text": "A Gyermek fürdőhely egy családbarát strand Siófokon.",
+                  "category": "recreational",
+                  "coords": [
+                        18.065964,
+                        46.916606
+                  ]
+            },
+            {
+                  "name": "Újhelyi strand",
+                  "text": "A híres siófoki Újhelyi strand hívogató létesítményeivel közvetlenül a Balaton csillogó vizéhez csábítja a vendégeket. A látogatók itt nyüzsgő nyaralási atmoszférát élhetnek át, amely ideális a kiadós napozáshoz, sportoláshoz és frissítő úszásokhoz. A nap optimális kihasználása érdekében érdemes már délelőtt megkezdeni a látogatást.",
+                  "category": "recreational",
+                  "coords": [
+                        18.036728,
+                        46.906058
+                  ]
+            },
+            {
+                  "name": "Plébánia",
+                  "text": "A plébánia egy helyi, kúria jellegű épület Siófokon.",
+                  "category": "historical",
+                  "coords": [
+                        18.071955,
+                        46.886208
+                  ]
+            },
+            {
+                  "name": "Fordított ház",
+                  "text": "A Fordított ház egy egyedülálló és szórakoztató turisztikai látványosság Siófokon.",
+                  "category": "landmark",
+                  "coords": [
+                        18.019001,
+                        46.897639
+                  ]
+            },
+            {
+                  "name": "Siófoki Evangélikus egyházközség temploma",
+                  "text": "Ez a Makovecz Imre által tervezett különleges evangélikus templom Siófokon.",
+                  "category": "religious",
+                  "coords": [
+                        18.058985,
+                        46.908414
+                  ]
+            },
+            {
+                  "name": "Gőzmozdony",
+                  "text": "A gőzmozdony egy történelmi közlekedési emlékmű, amely Siófokon látható.",
+                  "category": "landmark",
+                  "coords": [
+                        18.055923,
+                        46.908426
+                  ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "A siófoki Endrédi-tó egy csendes vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "A siófoki Richter-tó egy kis tó a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "A siófoki Balaton ideális célpont úszáshoz és szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Játékterem",
+                  "text": "A siófoki Platán Arcade Venue szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
+                  ]
+            },
+            {
+                  "name": "Nagystrand",
+                  "text": "Siófok központi és legnépszerűbb strandja a Balaton partján.",
+                  "category": "recreational",
+                  "coords": [
+                        18.052726,
+                        46.912052
+                  ]
+            },
+            {
+                  "name": "Aranyparti szabadstrand",
+                  "text": "Ingyenes szabadstrand Siófok aranyparti szakaszán.",
+                  "category": "recreational",
+                  "coords": [
+                        18.08574,
+                        46.923014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turnul de Apă din Siófok",
+                  "text": "Simbolul orașului este turnul de 45 de metri înălțime, construit în 1912, situat în centrul Pieței Principale. După renovarea sa completă în 2012, acesta găzduiește o cafenea panoramică și o platformă de observație care se rotește la 360 de grade. Un lift modern transportă vizitatorii spre vârf, oferind o vedere spectaculoasă asupra Lacului Balaton.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.052376,
+                        46.90578
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial Imre Kálmán",
+                  "text": "Muzeul este situat în casa natală a celebrului compozitor de operetă Imre Kálmán, creatorul 'Principesei Csárdásului'. Expoziția prezintă obiecte personale, pianul artistului și partituri originale într-o atmosferă autentică de la începutul secolului XX. Este un loc esențial pentru iubitorii de cultură și istorie muzicală.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.051707,
+                        46.906895
+                  ]
+            },
+            {
+                  "name": "Portul din Siófok",
+                  "text": "Este cel mai mare port de pe Lacul Balaton, fiind nodul principal pentru feriboturi, nave de croazieră și ambarcațiuni istorice. Zona de dig este ideală pentru plimbări și oferă acces la sistemul de ecluze al canalului Sió. Vara, portul este punctul de plecare pentru numeroase ambarcațiuni de agrement și petreceri pe apă.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        18.058252,
+                        46.905438
+                  ]
+            },
+            {
+                  "name": "Parcul Jókai",
+                  "text": "Un parc minunat în centrul orașului cu alei umbrite, flori și statui, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        18.053911,
+                        46.912298
+                  ]
+            },
+            {
+                  "name": "Aranypart (Coasta de Aur)",
+                  "text": "O porțiune lungă de plajă liberă în estul orașului, cu apă mică, preferată de familii.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.050623,
+                        46.908878
+                  ]
+            },
+            {
+                  "name": "Ezüstpart (Coasta de Argint)",
+                  "text": "Partea de vest a orașului Siófok, oferind plaje mai liniștite și relaxante.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.064747,
+                        46.915691
+                  ]
+            },
+            {
+                  "name": "Ecluza Sió",
+                  "text": "Monument industrial situat la gura canalului Sió, reglând nivelul apei lacului Balaton.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        18.019051,
+                        46.902189
+                  ]
+            },
+            {
+                  "name": "Plázs Siófok",
+                  "text": "Centrul distracției de vară de pe Nagystrand, gazdă pentru concerte și cluburi pe plajă.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.050378,
+                        46.906507
+                  ]
+            },
+            {
+                  "name": "Băile Galerius",
+                  "text": "Complex balnear modern cu piscine termale și wellness, deschis pe tot parcursul anului.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.049213,
+                        46.910271
+                  ]
+            },
+            {
+                  "name": "Parcul Millennium",
+                  "text": "Spațiu verde în fața gării decorat cu sculpturi moderne și un foișor muzical.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.055491,
+                        46.912546
+                  ]
+            },
+            {
+                  "name": "Statuia lui Krúdy Gyula",
+                  "text": "Monument dedicat scriitorului maghiar care a descris în operele sale atmosfera Balatonului.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.053904,
+                        46.906919
+                  ]
+            },
+            {
+                  "name": "Grădina de Sculpturi Varga Imre",
+                  "text": "Expoziție în aer liber a lucrărilor celebrului sculptor Imre Varga în orașul său natal.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.039308,
+                        46.898324
+                  ]
+            },
+            {
+                  "name": "Vila Jókai",
+                  "text": "Fosta reședință de vară a scriitorului Mór Jókai, o clădire monument istoric protejată.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.052771,
+                        46.910728
+                  ]
+            },
+            {
+                  "name": "Casa Răsturnată (Fordított Ház)",
+                  "text": "O casă construită cu susul în jos, o atracție turistică inedită care oferă o experiență amuzantă.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.04861,
+                        46.90738
+                  ]
+            },
+            {
+                  "name": "Parcul Sfântul Nicolae",
+                  "text": "Parc situat lângă port cu monumente dedicate marinarilor și victimelor catastrofelor navale.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.049351,
+                        46.904874
+                  ]
+            },
+            {
+                  "name": "Statuia lui Karinthy Frigyes",
+                  "text": "Monument dedicat scriitorului și umoristului maghiar situat în zona portului.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.048124,
+                        46.906845
+                  ]
+            },
+            {
+                  "name": "Statuia lui Széchenyi István",
+                  "text": "Monument în onoarea contelui care a inițiat navigația cu aburi pe lacul Balaton.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.052948,
+                        46.909999
+                  ]
+            },
+            {
+                  "name": "Plaja Balatonszéplak",
+                  "text": "Ascunsă în partea de vest a orașului Siófok, plaja Vak-Bottyán este o porțiune de coastă mai liniștită, apreciată în mod deosebit de localnici. Starea de spirit familiară și pașnică face din acest loc o alegere perfectă pentru înot netulburat și plajă relaxantă, departe de marile aglomerații de turiști. O vizită la orele lăsării serii promite o atmosferă deosebit de fermecătoare.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.048473,
+                        46.901841
+                  ]
+            },
+            {
+                  "name": "Rádiós Hírközlési Múzeum",
+                  "text": "Muzeul de Comunicații Radio oferă expoziții despre istoria telecomunicațiilor în Siófok.",
+                  "category": "museum",
+                  "coords": [
+                        18.049446,
+                        46.898078
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "Vechea mașină de pompieri este o atracție istorică interesantă expusă în Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.021886,
+                        46.890008
+                  ]
+            },
+            {
+                  "name": "Gyermek fürdőhely",
+                  "text": "Zona de baie pentru copii este o stațiune pe plajă potrivită pentru familii în Siófok.",
+                  "category": "recreational",
+                  "coords": [
+                        18.065964,
+                        46.916606
+                  ]
+            },
+            {
+                  "name": "Újhelyi strand",
+                  "text": "Cunoscuta stațiune de plajă Újhelyi din Siófok atrage prin facilitățile sale primitoare situate chiar pe apele strălucitoare ale lacului Balaton. Oaspeții experimentează aici o atmosferă de vacanță plină de viață, ideală pentru plajă prelungită, activități sportive și sesiuni revigorante de înot. Pentru a profita la maximum de zi, se recomandă o vizită încă din timpul dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        18.036728,
+                        46.906058
+                  ]
+            },
+            {
+                  "name": "Plébánia",
+                  "text": "Casa parohială este o clădire locală asemănătoare unui conac în Siófok.",
+                  "category": "historical",
+                  "coords": [
+                        18.071955,
+                        46.886208
+                  ]
+            },
+            {
+                  "name": "Fordított ház",
+                  "text": "Casa Răsturnată este o atracție turistică unică și distractivă din Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.019001,
+                        46.897639
+                  ]
+            },
+            {
+                  "name": "Siófoki Evangélikus egyházközség temploma",
+                  "text": "Aceasta este biserica luterană distinctivă proiectată de Imre Makovecz în Siófok.",
+                  "category": "religious",
+                  "coords": [
+                        18.058985,
+                        46.908414
+                  ]
+            },
+            {
+                  "name": "Gőzmozdony",
+                  "text": "Locomotiva cu abur este un monument istoric de transport expus în Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.055923,
+                        46.908426
+                  ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "Endrédi-tó din Siofok este o întindere de apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "Richter-tó din Siofok este un mic lac pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Lacul Balaton",
+                  "text": "Lacul Balaton din Siofok este o destinație ideală pentru înot și activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Játékterem",
+                  "text": "Platán Arcade Venue din Siofok oferă divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
+                  ]
+            },
+            {
+                  "name": "Nagystrand",
+                  "text": "Cea mai mare și populară plajă din Siófok, pe malul lacului Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        18.052726,
+                        46.912052
+                  ]
+            },
+            {
+                  "name": "Aranyparti szabadstrand",
+                  "text": "O zonă de plajă publică gratuită de-a lungul Coastei de Aur din Siófok.",
+                  "category": "recreational",
+                  "coords": [
+                        18.08574,
+                        46.923014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siófok Water Tower",
+                  "text": "The symbol of the city is the 45-meter-high tower built in 1912, located in the center of the Main Square. Since its complete renovation in 2012, a modern elevator takes visitors to the top, which features a panoramic cafe and a 360-degree rotating lookout level. It is beautifully illuminated at night and is one of the most photographed landmarks of Lake Balaton.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.052376,
+                        46.90578
+                  ]
+            },
+            {
+                  "name": "Imre Kálmán Memorial Museum",
+                  "text": "Located in the birthplace of the world-renowned operetta composer Imre Kálmán, this museum showcases his life and career. Visitors can see the artist's piano, personal belongings, and original scores in an authentic fin-de-siècle atmosphere. It is a key destination for those interested in Central European musical heritage.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.051707,
+                        46.906895
+                  ]
+            },
+            {
+                  "name": "Port of Siófok",
+                  "text": "The busiest harbor on Lake Balaton, serving as the main hub for scheduled ferries, nostalgia boats, and pleasure cruises. The port area also includes the Sió Channel sluice system, which regulates the lake's water level. Walking down the long pier offers great views of the Tihany Peninsula across the water.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        18.058252,
+                        46.905438
+                  ]
+            },
+            {
+                  "name": "Siófok Main Beach (Nagystrand)",
+                  "text": "The largest and most famous beach on Lake Balaton, known for its fine sand and vibrant summer nightlife.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.053911,
+                        46.912298
+                  ]
+            },
+            {
+                  "name": "Jókai Park",
+                  "text": "A beautiful park in the city center featuring flower beds, statues, and shaded alleys for relaxing walks.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        18.050623,
+                        46.908878
+                  ]
+            },
+            {
+                  "name": "Golden Shore (Aranypart)",
+                  "text": "A several-kilometer-long public beach in the eastern part of Siófok with shallow waters.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.064747,
+                        46.915691
+                  ]
+            },
+            {
+                  "name": "Silver Shore (Ezüstpart)",
+                  "text": "The western part of the city offering a more relaxed and family-friendly beach atmosphere.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.019051,
+                        46.902189
+                  ]
+            },
+            {
+                  "name": "Imre Kálmán Open Air Stage",
+                  "text": "A major venue for summer concerts and theater performances located within Jókai Park.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.050378,
+                        46.906507
+                  ]
+            },
+            {
+                  "name": "Plázs Siófok",
+                  "text": "The event hub of the main beach, the epicenter of summer concerts and beach club parties.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.049213,
+                        46.910271
+                  ]
+            },
+            {
+                  "name": "Siófok Ferris Wheel",
+                  "text": "An attraction near the harbor providing a unique panoramic view of Lake Balaton and the city.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.055491,
+                        46.912546
+                  ]
+            },
+            {
+                  "name": "Millennium Park",
+                  "text": "A green space in front of the railway station featuring modern sculptures and a music pavilion.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.053904,
+                        46.906919
+                  ]
+            },
+            {
+                  "name": "Gyula Krúdy Statue",
+                  "text": "A monument to the famous writer who often stayed in Siófok and wrote about the Balaton atmosphere.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.039308,
+                        46.898324
+                  ]
+            },
+            {
+                  "name": "Thanhoffer Villa",
+                  "text": "An elegant Neoclassical building on the promenade, a relic of the city's early bath culture.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.052771,
+                        46.910728
+                  ]
+            },
+            {
+                  "name": "Jókai Villa",
+                  "text": "The former summer residence of writer Mór Jókai, now a protected historic building near the shore.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.04861,
+                        46.90738
+                  ]
+            },
+            {
+                  "name": "Sió Canal Bank",
+                  "text": "A path along the canal crossing the city, popular for cycling and fishing in a quieter setting.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.049351,
+                        46.904874
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Park",
+                  "text": "A park near the harbor with monuments dedicated to sailors and victims of naval accidents.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        18.048124,
+                        46.906845
+                  ]
+            },
+            {
+                  "name": "Frigyes Karinthy Statue",
+                  "text": "A sculpture of the famous Hungarian humorist and writer who loved spending time in Siófok.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        18.052948,
+                        46.909999
+                  ]
+            },
+            {
+                  "name": "Vak Bottyán Beach",
+                  "text": "Hidden in the western part of Siófok, Vak-Bottyán-Strand is a quieter stretch of coastline that is particularly valued by the locals. The familiar and peaceful mood makes it a perfect place for undisturbed swimming and relaxed sunbathing far from the large tourist crowds. A visit in the early evening hours promises a particularly atmospheric experience.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        18.048473,
+                        46.901841
+                  ]
+            },
+            {
+                  "name": "Rádiós Hírközlési Múzeum",
+                  "text": "The Radio Communications Museum offers exhibitions on telecommunications history in Siófok.",
+                  "category": "museum",
+                  "coords": [
+                        18.049446,
+                        46.898078
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "The old fire engine is an interesting historical attraction displayed in Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.021886,
+                        46.890008
+                  ]
+            },
+            {
+                  "name": "Gyermek fürdőhely",
+                  "text": "The Children's Bathing Area is a family-friendly beach resort in Siófok.",
+                  "category": "recreational",
+                  "coords": [
+                        18.065964,
+                        46.916606
+                  ]
+            },
+            {
+                  "name": "Újhelyi strand",
+                  "text": "The well-known Újhelyi beach resort in Siófok entices with its inviting facilities right on the shimmering waters of Lake Balaton. Guests experience a lively holiday atmosphere here, which is ideal for extensive sunbathing, sports activities, and refreshing swimming laps. To make the most of the day, a visit right in the morning is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        18.036728,
+                        46.906058
+                  ]
+            },
+            {
+                  "name": "Plébánia",
+                  "text": "The Rectory is a local manor-like building serving as the parish house in Siófok.",
+                  "category": "historical",
+                  "coords": [
+                        18.071955,
+                        46.886208
+                  ]
+            },
+            {
+                  "name": "Fordított ház",
+                  "text": "The Upside Down House is a unique and fun tourist attraction in Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.019001,
+                        46.897639
+                  ]
+            },
+            {
+                  "name": "Siófoki Evangélikus egyházközség temploma",
+                  "text": "This is the distinctive Lutheran church designed by Imre Makovecz in Siófok.",
+                  "category": "religious",
+                  "coords": [
+                        18.058985,
+                        46.908414
+                  ]
+            },
+            {
+                  "name": "Gőzmozdony",
+                  "text": "The steam locomotive is a historical transportation monument displayed in Siófok.",
+                  "category": "landmark",
+                  "coords": [
+                        18.055923,
+                        46.908426
+                  ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "The Endrédi-tó in Siofok is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "The Richter-tó in Siofok is a small lake for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Lake Balaton",
+                  "text": "Lake Balaton in Siofok is an ideal destination for swimming and leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Arcade Venue",
+                  "text": "The Platán Arcade Venue in Siofok offers entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
+                  ]
+            },
+            {
+                  "name": "Nagystrand",
+                  "text": "The main and most popular beach area in Siófok on the shore of Lake Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        18.052726,
+                        46.912052
+                  ]
+            },
+            {
+                  "name": "Aranyparti szabadstrand",
+                  "text": "A free public beach area along the Golden Shore of Siófok.",
+                  "category": "recreational",
+                  "coords": [
+                        18.08574,
+                        46.923014
+                  ]
+            }
+      ]
+}
   },
   {
     id: "balatonfoldvar",
@@ -45441,6 +48827,24 @@ export const hungaryCities: POI[] = [
                         17.839697,
                         46.83696
                   ]
+            },
+            {
+                  "name": "Keleti strand",
+                  "text": "Ein beliebtes Strandbad am östlichen Ufer von Balatonföldvár.",
+                  "category": "recreational",
+                  "coords": [
+                        17.889689,
+                        46.858877
+                  ]
+            },
+            {
+                  "name": "Központi szabadstrand",
+                  "text": "Ein zentraler öffentlicher Strand mit freiem Zugang zum Balaton in Balatonföldvár.",
+                  "category": "recreational",
+                  "coords": [
+                        17.880096,
+                        46.854994
+                  ]
             }
       ],
       "hu": [
@@ -45642,6 +49046,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.839697,
                         46.83696
+                  ]
+            },
+            {
+                  "name": "Keleti strand",
+                  "text": "Balatonföldvár keleti részén található népszerű strand.",
+                  "category": "recreational",
+                  "coords": [
+                        17.889689,
+                        46.858877
+                  ]
+            },
+            {
+                  "name": "Központi szabadstrand",
+                  "text": "Balatonföldvár központi részén fekvő ingyenes szabadstrand a Balaton partján.",
+                  "category": "recreational",
+                  "coords": [
+                        17.880096,
+                        46.854994
                   ]
             }
       ],
@@ -45845,6 +49267,24 @@ export const hungaryCities: POI[] = [
                         17.839697,
                         46.83696
                   ]
+            },
+            {
+                  "name": "Keleti strand",
+                  "text": "O stațiune balneară populară situată în partea de est a orașului Balatonföldvár.",
+                  "category": "recreational",
+                  "coords": [
+                        17.889689,
+                        46.858877
+                  ]
+            },
+            {
+                  "name": "Központi szabadstrand",
+                  "text": "O plajă publică centrală care oferă acces gratuit la Lacul Balaton în Balatonföldvár.",
+                  "category": "recreational",
+                  "coords": [
+                        17.880096,
+                        46.854994
+                  ]
             }
       ],
       "en": [
@@ -46046,6 +49486,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.839697,
                         46.83696
+                  ]
+            },
+            {
+                  "name": "Keleti strand",
+                  "text": "A popular beach resort on the eastern side of Balatonföldvár.",
+                  "category": "recreational",
+                  "coords": [
+                        17.889689,
+                        46.858877
+                  ]
+            },
+            {
+                  "name": "Központi szabadstrand",
+                  "text": "A central public beach offering free access to Lake Balaton in Balatonföldvár.",
+                  "category": "recreational",
+                  "coords": [
+                        17.880096,
+                        46.854994
                   ]
             }
       ]
@@ -47814,6 +51272,15 @@ export const hungaryCities: POI[] = [
                         22.326203,
                         47.949088
                   ]
+            },
+            {
+                  "name": "Városi Uszoda és Strandfürdő",
+                  "text": "Das städtische Schwimmbad und Strandbad von Mátészalka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.327519,
+                        47.948195
+                  ]
             }
       ],
       "hu": [
@@ -47908,6 +51375,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         22.326203,
                         47.949088
+                  ]
+            },
+            {
+                  "name": "Városi Uszoda és Strandfürdő",
+                  "text": "Mátészalka városi uszodája és strandfürdője.",
+                  "category": "recreational",
+                  "coords": [
+                        22.327519,
+                        47.948195
                   ]
             }
       ],
@@ -48004,6 +51480,15 @@ export const hungaryCities: POI[] = [
                         22.326203,
                         47.949088
                   ]
+            },
+            {
+                  "name": "Városi Uszoda és Strandfürdő",
+                  "text": "Piscina municipală și ștrandul din Mátészalka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.327519,
+                        47.948195
+                  ]
             }
       ],
       "en": [
@@ -48098,6 +51583,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         22.326203,
                         47.949088
+                  ]
+            },
+            {
+                  "name": "Városi Uszoda és Strandfürdő",
+                  "text": "The municipal swimming pool and beach bath of Mátészalka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.327519,
+                        47.948195
                   ]
             }
       ]
@@ -50469,6 +53963,24 @@ export const hungaryCities: POI[] = [
                         16.619217,
                         47.228514
                   ]
+            },
+            {
+                  "name": "Tófürdő",
+                  "text": "Ein Wasserpark in Szombathely mit Freizeitmöglichkeiten im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.602549,
+                        47.235507
+                  ]
+            },
+            {
+                  "name": "Történelmi Témapark",
+                  "text": "Ein Erlebnispark in Szombathely, der historische Themen aufgreift.",
+                  "category": "recreational",
+                  "coords": [
+                        16.626105,
+                        47.230472
+                  ]
             }
       ],
       "hu": [
@@ -50916,6 +54428,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.619217,
                         47.228514
+                  ]
+            },
+            {
+                  "name": "Tófürdő",
+                  "text": "Szabadtéri kikapcsolódást nyújtó tófürdő Szombathelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.602549,
+                        47.235507
+                  ]
+            },
+            {
+                  "name": "Történelmi Témapark",
+                  "text": "Történelmi tematikájú élménypark Szombathelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.626105,
+                        47.230472
                   ]
             }
       ],
@@ -51365,6 +54895,24 @@ export const hungaryCities: POI[] = [
                         16.619217,
                         47.228514
                   ]
+            },
+            {
+                  "name": "Tófürdő",
+                  "text": "Un parc acvatic în Szombathely care oferă facilități de recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        16.602549,
+                        47.235507
+                  ]
+            },
+            {
+                  "name": "Történelmi Témapark",
+                  "text": "Un parc tematic în Szombathely cu specific istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        16.626105,
+                        47.230472
+                  ]
             }
       ],
       "en": [
@@ -51812,6 +55360,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.619217,
                         47.228514
+                  ]
+            },
+            {
+                  "name": "Tófürdő",
+                  "text": "A water park in Szombathely offering outdoor recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.602549,
+                        47.235507
+                  ]
+            },
+            {
+                  "name": "Történelmi Témapark",
+                  "text": "A theme park in Szombathely focused on historical exhibitions.",
+                  "category": "recreational",
+                  "coords": [
+                        16.626105,
+                        47.230472
                   ]
             }
       ]
@@ -53887,6 +57453,33 @@ export const hungaryCities: POI[] = [
                         17.89391,
                         46.955461
                   ]
+            },
+            {
+                  "name": "Gyerekmedence",
+                  "text": "Ein spezieller Schwimmbereich für Kinder in Balatonfüred.",
+                  "category": "recreational",
+                  "coords": [
+                        17.903758,
+                        46.955969
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "Ein Lehrbecken für Schwimmunterricht in Balatonfüred.",
+                  "category": "recreational",
+                  "coords": [
+                        17.876607,
+                        46.950596
+                  ]
+            },
+            {
+                  "name": "Kisfaludy strand",
+                  "text": "Einer der beliebten Strände in Balatonfüred mit vielfältigem Serviceangebot.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911581,
+                        46.955623
+                  ]
             }
       ],
       "hu": [
@@ -53994,6 +57587,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.89391,
                         46.955461
+                  ]
+            },
+            {
+                  "name": "Gyerekmedence",
+                  "text": "Kifejezetten gyermekek számára fenntartott úszórész Balatonfüreden.",
+                  "category": "recreational",
+                  "coords": [
+                        17.903758,
+                        46.955969
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "Úszásoktatásra használt tanmedence Balatonfüreden.",
+                  "category": "recreational",
+                  "coords": [
+                        17.876607,
+                        46.950596
+                  ]
+            },
+            {
+                  "name": "Kisfaludy strand",
+                  "text": "Balatonfüred egyik népszerű strandja, amely változatos szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911581,
+                        46.955623
                   ]
             }
       ],
@@ -54103,6 +57723,33 @@ export const hungaryCities: POI[] = [
                         17.89391,
                         46.955461
                   ]
+            },
+            {
+                  "name": "Gyerekmedence",
+                  "text": "O zonă de înot dedicată copiilor în Balatonfüred.",
+                  "category": "recreational",
+                  "coords": [
+                        17.903758,
+                        46.955969
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "O piscină de instruire utilizată pentru lecții de înot în Balatonfüred.",
+                  "category": "recreational",
+                  "coords": [
+                        17.876607,
+                        46.950596
+                  ]
+            },
+            {
+                  "name": "Kisfaludy strand",
+                  "text": "Una dintre plajele populare din Balatonfüred, oferind diverse servicii vizitatorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911581,
+                        46.955623
+                  ]
             }
       ],
       "en": [
@@ -54210,6 +57857,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.89391,
                         46.955461
+                  ]
+            },
+            {
+                  "name": "Gyerekmedence",
+                  "text": "A dedicated swimming area for children in Balatonfüred.",
+                  "category": "recreational",
+                  "coords": [
+                        17.903758,
+                        46.955969
+                  ]
+            },
+            {
+                  "name": "tanmedence",
+                  "text": "A training pool used for swimming lessons in Balatonfüred.",
+                  "category": "recreational",
+                  "coords": [
+                        17.876607,
+                        46.950596
+                  ]
+            },
+            {
+                  "name": "Kisfaludy strand",
+                  "text": "One of the popular beaches in Balatonfüred offering various services for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911581,
+                        46.955623
                   ]
             }
       ]
@@ -55982,7 +59656,1203 @@ export const hungaryCities: POI[] = [
       pt: [],
       fr: [],
     },
-    "sights": {"de": [{"name": "Schloss Festetics", "text": "Dieses prächtige Barockschloss ist eines der bedeutendsten Baudenkmäler Ungarns und verfügt über 101 prunkvolle Räume. Es beherbergt die berühmte Helikon-Bibliothek mit über 50.000 historischen Bänden und einen wunderschönen englischen Landschaftsgarten.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.2417, 46.7706]}, {"name": "Balaton-Museum", "text": "Das Museum präsentiert die Archäologie, Ethnographie und Naturgeschichte der Balaton-Region in einem repräsentativen neoklassizistischen Gebäude. Besucher können hier alles über die Entstehung des Sees und die Schifffahrt erfahren.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.241092, 46.758808]}, {"name": "Helikon-Park", "text": "Die größte Grünfläche der Stadt mit jahrhundertealten Bäumen, Promenaden und dem berühmten Helikon-Denkmal am Plattenseeufer.", "category": "natural", "confidence": "high", "coords": [17.246414, 46.764093]}, {"name": "Hafen von Keszthely", "text": "Ein belebter Hafen, von dem aus Linien- und Ausflugsschiffe über den Plattensee ablegen, mit schöner Panoramapromenande.", "category": "civic", "confidence": "high", "coords": [17.24676, 46.745962]}, {"name": "Panoptikum", "text": "Ein Wachsfigurenkabinett, das bedeutende Persönlichkeiten der ungarischen Geschichte in lebensgroßen Figuren präsentiert.", "category": "cultural", "confidence": "high", "coords": [17.24265, 46.767726]}, {"name": "Cadillac-Museum", "text": "Eine beeindruckende private Sammlung klassischer Cadillac-Modelle, die die Geschichte der Marke dokumentiert.", "category": "cultural", "confidence": "high", "coords": [17.242022, 46.762836]}, {"name": "Radio- und Fernsehmuseum", "text": "Eine technikgeschichtliche Ausstellung mit alten Radiogeräten, Fernsehern und Sendeanlagen aus Ungarn.", "category": "cultural", "confidence": "high", "coords": [17.242036, 46.768357]}, {"name": "Festetics-Mausoleum", "text": "Die Grabkapelle der Familie Festetics auf dem Stadtfriedhof, ein bedeutendes neoklassizistisches Baudenkmal.", "category": "historical", "confidence": "high", "coords": [17.240157, 46.753843]}, {"name": "Fenékpuszta", "text": "Archäologische Stätte mit Ruinen eines römischen Kastells aus dem 4. Jahrhundert und einer frühchristlichen Basilika.", "category": "historical", "confidence": "high", "coords": [17.248758, 46.711739]}, {"name": "Pfarrkirche Unserer Lieben Frau", "text": "Eine gotische Kirche am Hauptplatz mit bedeutenden Fresken und der Grabstätte von Palatin István Lackfi.", "category": "religious", "confidence": "high", "coords": [17.243631, 46.764592]}, {"name": "Fußgängerzone (Kossuth Lajos utca)", "text": "Die malerische Hauptstraße mit historischen Gebäuden, Geschäften und Cafés, die das Schloss mit dem Zentrum verbindet.", "category": "civic", "confidence": "high", "image": "/poi-images/sights/keszthely-fussgaengerzone-kossuth-lajos-utca.webp", "image_attribution": {"author": "<a href=\"https://maps.google.com/maps/contrib/115435824249443494634\">Thomas Strasser</a>", "source": "https://www.google.com/maps/place/?q=place_id:ChIJz0dfqKHiaEcRkNbisYejDD0", "license": "Google Places API", "platform": "google-places"}, "coords": [17.242359, 46.768474]}, {"name": "Balaton-Theater", "text": "Ein modernes Kulturzentrum und Theater, das das ganze Jahr über hochwertige Aufführungen und Programme bietet.", "category": "cultural", "confidence": "high", "coords": [17.243755, 46.765978]}, {"name": "Libás-Strand", "text": "Im östlichen Teil von Keszthely gelegen, verzaubert der Libás-Strand seine Gäste mit der eleganten Nähe zu einem Segelhafen. Die entspannte Atmosphäre wird durch den sanften Wellenschlag und das maritime Flair geprägt, was den Ort ideal für ausgiebige Erholungsphasen macht. Urlauber sollten sich am Nachmittag Zeit nehmen, um das Ambiente voll und ganz auf sich wirken zu lassen.", "category": "recreational", "confidence": "high", "coords": [17.26795, 46.764656]}, {"name": "Yachthafen Keszthely", "text": "Ein moderner Hafen für Segelboote und Yachten, der erstklassige Dienstleistungen für Wassersportler bietet.", "category": "recreational", "confidence": "high", "coords": [17.251039, 46.760112]}, {"name": "Orsós Magnó Múzeum", "text": "Das Tonbandgeräte-Museum zeigt eine Sammlung alter Audiogeräte in Kesthell.", "category": "museum", "coords": [17.2448, 46.766911]}, {"name": "Szendrey Júlia szülőháza (emlékszoba)", "text": "Das Geburtshaus von Júlia Szendrey dient als Gedenkraum und Museum in Kesthell.", "category": "museum", "coords": [17.227347, 46.748243]}, {"name": "Hintómúzeum", "text": "Dies ist ein Museum in der Stadt Kesthell.", "category": "museum", "coords": [17.239569, 46.771959]}, {"name": "Vadászati Múzeum", "text": "Das Vadászati Múzeum ist ein lokales Museum in Kesthell.", "category": "museum", "coords": [17.237181, 46.77213]}, {"name": "Védett feketefenyő-sor", "text": "Dieses Naturschutzgebiet in Kesthell bewahrt die lokale natürliche Umgebung.", "category": "natural", "coords": [17.231889, 46.73281]}, {"name": "védett fasor", "text": "Ein ausgewiesenes Naturschutzgebiet in Kesthell.", "category": "natural", "coords": [17.223392, 46.770085]}, {"name": "Georgikon Majortörténeti Kiállítóhely", "text": "Dieses Museum bietet Ausstellungen in der Stadt Kesthell.", "category": "museum", "coords": [17.235653, 46.766768]}, {"name": "Napozó", "text": "Ein Strandresort, das Entspannung am Wasser in Kesthell bietet.", "category": "recreational", "coords": [17.253442, 46.757309]}, {"name": "Óriaskerék", "text": "Diese Attraktion ist ein Anziehungspunkt für Besucher in Kesthell.", "category": "landmark", "coords": [17.252494, 46.759413]}, {"name": "Keszthely felirat", "text": "Keszthely felirat ist eine lokale Attraktion in Kesthell.", "category": "landmark", "coords": [17.253792, 46.759]}, {"name": "szürkemarhák", "text": "Eine bemerkenswerte Attraktion in der Stadt Kesthell.", "category": "landmark", "coords": [17.267336, 46.778322]}, {"name": "vaddisznók, mangalicák", "text": "Dies ist eine Attraktion in Kesthell.", "category": "landmark", "coords": [17.267118, 46.779231]}, {"name": "Kis Szent Teréz-bazilika", "text": "Eine Kultstätte in Kesthell.", "category": "religious", "coords": [17.251538, 46.770437]}], "hu": [{"name": "Festetics-kastély", "text": "Magyarország egyik legszebb barokk kastélya, amely 101 szobájával és a világhírű Helikon Könyvtárral várja a látogatókat. A kastélypark természetvédelmi terület, amelyben pálmaház és hintómúzeum is található.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.2417, 46.7706]}, {"name": "Balaton Múzeum", "text": "A Balaton környékének legfontosabb múzeuma, amely bemutatja a tó kialakulását, élővilágát, valamint a térség régészeti és néprajzi emlékeit egy impozáns neobarokk épületben.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.241092, 46.758808]}, {"name": "Helikon Park", "text": "A város legnagyobb zöldterülete évszázados fákkal, sétányokkal és a híres Helikon-emlékművel a Balaton partján.", "category": "natural", "confidence": "high", "coords": [17.246414, 46.764093]}, {"name": "Keszthelyi Kikötő", "text": "Nyüzsgő kikötő, ahonnan sétahajók és menetrend szerinti járatok indulnak a Balaton különböző pontjaira.", "category": "civic", "confidence": "high", "coords": [17.24676, 46.745962]}, {"name": "Panoptikum", "text": "Viaszbábú-kiállítás, amely a magyar történelem kiemelkedő alakjait mutatja be élethű, életnagyságú figurákkal.", "category": "cultural", "confidence": "high", "coords": [17.24265, 46.767726]}, {"name": "Cadillac Múzeum", "text": "Látványos magángyűjtemény klasszikus Cadillac modellekből, amelyek a márka történetét mutatják be.", "category": "cultural", "confidence": "high", "coords": [17.242022, 46.762836]}, {"name": "Rádió és Televízió Múzeum", "text": "Technikatörténeti kiállítás régi rádiókkal, televíziókkal és stúdióberendezésekkel a múlt századból.", "category": "cultural", "confidence": "high", "coords": [17.242036, 46.768357]}, {"name": "Festetics Mauzóleum", "text": "A Festetics család neoklasszicista stílusú sírkápolnája a városi temetőben, jelentős építészeti emlék.", "category": "historical", "confidence": "high", "coords": [17.240157, 46.753843]}, {"name": "Fenékpuszta", "text": "Régészeti lelőhely 4. századi római erőd romjaival és egy kora keresztény bazilika maradványaival.", "category": "historical", "confidence": "high", "coords": [17.248758, 46.711739]}, {"name": "Magyarok Nagyasszonya plébániatemplom", "text": "Gótikus templom a Fő téren, freskókkal és Lackfi István nádor síremlékével.", "category": "religious", "confidence": "high", "coords": [17.243631, 46.764592]}, {"name": "Sétálóutca (Kossuth Lajos utca)", "text": "Hangulatos főutca történelmi polgárházakkal, üzletekkel és kávézókkal a kastély és a belváros között.", "category": "civic", "confidence": "high", "coords": [17.242359, 46.768474]}, {"name": "Balatoni Színház", "text": "Modern kulturális központ és színház, amely egész évben nívós előadásokkal és programokkal várja a közönséget.", "category": "cultural", "confidence": "high", "coords": [17.243755, 46.765978]}, {"name": "Libás strand", "text": "Keszthely keleti részén elhelyezkedve, a Libás-Strand egy vitorláskikötő elegáns közelségével varázsolja el vendégeit. A nyugodt hangulatot a lágy hullámverés és a tengeri atmoszféra határozza meg, ami a helyet ideálissá teszi a kiadós pihenéshez. A nyaralóknak érdemes délután időt szakítaniuk arra, hogy teljesen átadják magukat a környezet szépségének.", "category": "recreational", "confidence": "high", "coords": [17.26795, 46.764656]}, {"name": "Keszthelyi Yacht Kikötő", "text": "Modern kikötő vitorlások és yachtok számára, amely színvonalas szolgáltatásokat nyújt a hajósoknak.", "category": "recreational", "confidence": "high", "coords": [17.251039, 46.760112]}, {"name": "Orsós Magnó Múzeum", "text": "Az Orsós Magnó Múzeum régi hangtechnikai eszközök gyűjteményét mutatja be Keszthelyen.", "category": "museum", "coords": [17.2448, 46.766911]}, {"name": "Szendrey Júlia szülőháza (emlékszoba)", "text": "Szendrey Júlia szülőháza emlékszobaként és múzeumként működik Keszthelyen.", "category": "museum", "coords": [17.227347, 46.748243]}, {"name": "Hintómúzeum", "text": "Ez egy múzeum Kesthell városában.", "category": "museum", "coords": [17.239569, 46.771959]}, {"name": "Vadászati Múzeum", "text": "A Vadászati Múzeum egy helyi múzeum Kesthell városában.", "category": "museum", "coords": [17.237181, 46.77213]}, {"name": "Védett feketefenyő-sor", "text": "Ez a természetvédelmi terület Kesthell városában a helyi természeti környezetet óvja.", "category": "natural", "coords": [17.231889, 46.73281]}, {"name": "védett fasor", "text": "Kijelölt természetvédelmi terület Kesthell városában.", "category": "natural", "coords": [17.223392, 46.770085]}, {"name": "Georgikon Majortörténeti Kiállítóhely", "text": "Ez a múzeum kiállításokat kínál Kesthell városában.", "category": "museum", "coords": [17.235653, 46.766768]}, {"name": "Napozó", "text": "Vízparti kikapcsolódást nyújtó strand Kesthell városában.", "category": "recreational", "coords": [17.253442, 46.757309]}, {"name": "Óriaskerék", "text": "Ez a látványosság vonzza a látogatókat Kesthell városában.", "category": "landmark", "coords": [17.252494, 46.759413]}, {"name": "Keszthely felirat", "text": "A Keszthely felirat egy helyi látványosság Kesthell városában.", "category": "landmark", "coords": [17.253792, 46.759]}, {"name": "szürkemarhák", "text": "Figyelemre méltó látványosság Kesthell városában.", "category": "landmark", "coords": [17.267336, 46.778322]}, {"name": "vaddisznók, mangalicák", "text": "Ez egy látványosság Kesthell városában.", "category": "landmark", "coords": [17.267118, 46.779231]}, {"name": "Kis Szent Teréz-bazilika", "text": "Istentiszteleti hely Kesthell városában.", "category": "religious", "coords": [17.251538, 46.770437]}], "ro": [{"name": "Palatul Festetics", "text": "Unul dintre cele mai impresionante palate baroce din Ungaria, având 101 camere și găzduind faimoasa Bibliotecă Helikon. Parcul palatului este o rezervație naturală cu sere de palmieri și un muzeu al trăsurilor.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.2417, 46.7706]}, {"name": "Muzeul Balaton", "text": "Principalul muzeu dedicat Lacului Balaton, prezentând istoria geologică, flora, fauna și tradițiile populare ale regiunii într-o clădire monumentală de stil neobaroc.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.241092, 46.758808]}, {"name": "Parcul Helikon", "text": "Cea mai mare zonă verde a orașului, cu arbori seculari, alei de promenadă și celebrul monument Helikon pe malul Balatonului.", "category": "natural", "confidence": "high", "coords": [17.246414, 46.764093]}, {"name": "Portul Keszthely", "text": "Un port plin de viață de unde pleacă nave de croazieră și curse regulate către diverse puncte de pe lacul Balaton.", "category": "civic", "confidence": "high", "coords": [17.24676, 46.745962]}, {"name": "Panopticum", "text": "O expoziție de figuri de ceară reprezentând personalități proeminente ale istoriei maghiare în mărime naturală.", "category": "cultural", "confidence": "high", "coords": [17.24265, 46.767726]}, {"name": "Muzeul Cadillac", "text": "O colecție privată spectaculoasă de modele Cadillac clasice, documentând istoria acestei mărci celebre.", "category": "cultural", "confidence": "high", "coords": [17.242022, 46.762836]}, {"name": "Muzeul de Radio și Televiziune", "text": "Expoziție de istorie a tehnicii cu aparate de radio, televizoare și echipamente de studio din secolul trecut.", "category": "cultural", "confidence": "high", "coords": [17.242036, 46.768357]}, {"name": "Mausoleul Festetics", "text": "Capela funerară a familiei Festetics în stil neoclasic, situată în cimitirul orașului, un monument arhitectural important.", "category": "historical", "confidence": "high", "coords": [17.240157, 46.753843]}, {"name": "Fenékpuszta", "text": "Situl arheologic cu ruinele unei cetăți romane din secolul IV și resturile unei bazilici paleocreștine.", "category": "historical", "confidence": "high", "coords": [17.248758, 46.711739]}, {"name": "Biserica Parohială Sfânta Maria", "text": "Biserică gotică în piața principală, cu fresce valoroase și mormântul palatinului István Lackfi.", "category": "religious", "confidence": "high", "coords": [17.243631, 46.764592]}, {"name": "Strada Pietonală (Kossuth Lajos utca)", "text": "Strada principală fermecătoare cu case burgheze istorice, magazine și cafenele, legând castelul de centru.", "category": "civic", "confidence": "high", "coords": [17.242359, 46.768474]}, {"name": "Teatrul Balaton", "text": "Centru cultural modern și teatru care oferă spectacole și programe de înaltă calitate pe tot parcursul anului.", "category": "cultural", "confidence": "high", "coords": [17.243755, 46.765978]}, {"name": "Plaja Libás", "text": "Situată în partea de est a orașului Keszthely, plaja Libás își încântă oaspeții prin proximitatea elegantă față de un port de agrement. Atmosfera relaxată este caracterizată de clipocitul blând al valurilor și de flerul maritim, făcând din acest loc o alegere ideală pentru perioade prelungite de odihnă. Turiștii ar trebui să își ia timp după-amiaza pentru a absorbi pe deplin ambianța.", "category": "recreational", "confidence": "high", "coords": [17.26795, 46.764656]}, {"name": "Portul de Iahturi Keszthely", "text": "Port modern pentru ambarcațiuni cu pânze și iahturi, oferind servicii de calitate pentru navigatori.", "category": "recreational", "confidence": "high", "coords": [17.251039, 46.760112]}, {"name": "Orsós Magnó Múzeum", "text": "Muzeul Magnetofoanelor prezintă o colecție de echipamente audio de epocă în Kesthell.", "category": "museum", "coords": [17.2448, 46.766911]}, {"name": "Szendrey Júlia szülőháza (emlékszoba)", "text": "Casa natală a Iuliei Szendrey servește ca o cameră memorială și muzeu în Kesthell.", "category": "museum", "coords": [17.227347, 46.748243]}, {"name": "Hintómúzeum", "text": "Acesta este un muzeu situat în orașul Kesthell.", "category": "museum", "coords": [17.239569, 46.771959]}, {"name": "Vadászati Múzeum", "text": "Vadászati Múzeum este un muzeu local din Kesthell.", "category": "museum", "coords": [17.237181, 46.77213]}, {"name": "Védett feketefenyő-sor", "text": "Această rezervație naturală din Kesthell conservă mediul natural local.", "category": "natural", "coords": [17.231889, 46.73281]}, {"name": "védett fasor", "text": "O rezervație naturală desemnată situată în Kesthell.", "category": "natural", "coords": [17.223392, 46.770085]}, {"name": "Georgikon Majortörténeti Kiállítóhely", "text": "Acest muzeu oferă expoziții în orașul Kesthell.", "category": "museum", "coords": [17.235653, 46.766768]}, {"name": "Napozó", "text": "O stațiune pe plajă care oferă relaxare la malul apei în Kesthell.", "category": "recreational", "coords": [17.253442, 46.757309]}, {"name": "Óriaskerék", "text": "Această atracție este un punct de interes pentru vizitatorii din Kesthell.", "category": "landmark", "coords": [17.252494, 46.759413]}, {"name": "Keszthely felirat", "text": "Keszthely felirat este o atracție locală care se găsește în Kesthell.", "category": "landmark", "coords": [17.253792, 46.759]}, {"name": "szürkemarhák", "text": "O atracție notabilă situată în orașul Kesthell.", "category": "landmark", "coords": [17.267336, 46.778322]}, {"name": "vaddisznók, mangalicák", "text": "Aceasta este o atracție situată în Kesthell.", "category": "landmark", "coords": [17.267118, 46.779231]}, {"name": "Kis Szent Teréz-bazilika", "text": "Un lăcaș de cult situat în Kesthell.", "category": "religious", "coords": [17.251538, 46.770437]}], "en": [{"name": "Festetics Palace", "text": "One of the most magnificent Baroque palaces in Hungary, featuring 101 rooms and the world-famous Helikon Library. The palace grounds include a massive park, a palm house, and a carriage museum.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.2417, 46.7706]}, {"name": "Balaton Museum", "text": "The premier museum for the Lake Balaton region, showcasing the lake's geological formation, wildlife, and the archaeological and ethnographic history of the area.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.241092, 46.758808]}, {"name": "Helikon Park", "text": "The largest green area in the city with century-old trees, promenades, and the famous Helikon Monument on the Balaton shore.", "category": "natural", "confidence": "high", "coords": [17.246414, 46.764093]}, {"name": "Keszthely Harbor", "text": "A bustling harbor from which sightseeing boats and scheduled cruises depart to various points across Lake Balaton.", "category": "civic", "confidence": "high", "coords": [17.24676, 46.745962]}, {"name": "Panoptikum", "text": "A wax figure exhibition presenting prominent figures of Hungarian history with lifelike, life-sized statues.", "category": "cultural", "confidence": "high", "coords": [17.24265, 46.767726]}, {"name": "Cadillac Museum", "text": "A spectacular private collection of classic Cadillac models showcasing the history and evolution of the brand.", "category": "cultural", "confidence": "high", "coords": [17.242022, 46.762836]}, {"name": "Radio and Television Museum", "text": "A technical history exhibition with old radios, televisions, and studio equipment from the last century.", "category": "cultural", "confidence": "high", "coords": [17.242036, 46.768357]}, {"name": "Festetics Mausoleum", "text": "The Neoclassical burial chapel of the Festetics family in the city cemetery, a significant architectural monument.", "category": "historical", "confidence": "high", "coords": [17.240157, 46.753843]}, {"name": "Fenékpuszta", "text": "An archaeological site with ruins of a 4th-century Roman fort and remains of an Early Christian basilica.", "category": "historical", "confidence": "high", "coords": [17.248758, 46.711739]}, {"name": "Our Lady of Hungary Parish Church", "text": "A Gothic church on the Main Square with significant frescoes and the tomb of Palatine István Lackfi.", "category": "religious", "confidence": "high", "coords": [17.243631, 46.764592]}, {"name": "Pedestrian Street (Kossuth Lajos Street)", "text": "A charming main street with historic buildings, shops, and cafes connecting the castle and the town center.", "category": "civic", "confidence": "high", "coords": [17.242359, 46.768474]}, {"name": "Balaton Theater", "text": "A modern cultural center and theater hosting high-quality performances and programs throughout the year.", "category": "cultural", "confidence": "high", "coords": [17.243755, 46.765978]}, {"name": "Libás Beach", "text": "Located in the eastern part of Keszthely, Libás-Strand enchants its guests with its elegant proximity to a sailing harbor. The relaxed atmosphere is characterized by the gentle lapping of waves and the maritime flair, making the location ideal for extensive periods of recovery. Vacationers should take time in the afternoon to fully absorb the ambiance.", "category": "recreational", "confidence": "high", "coords": [17.26795, 46.764656]}, {"name": "Keszthely Yacht Port", "text": "A modern marina for sailboats and yachts, providing high-standard services for the sailing community.", "category": "recreational", "confidence": "high", "coords": [17.251039, 46.760112]}, {"name": "Orsós Magnó Múzeum", "text": "The Reel-to-Reel Tape Recorder Museum showcases a collection of vintage audio equipment in Kesthell.", "category": "museum", "coords": [17.2448, 46.766911]}, {"name": "Szendrey Júlia szülőháza (emlékszoba)", "text": "Júlia Szendrey's Birthplace serves as a memorial room and museum in Kesthell.", "category": "museum", "coords": [17.227347, 46.748243]}, {"name": "Hintómúzeum", "text": "This is a museum situated in the city of Kesthell.", "category": "museum", "coords": [17.239569, 46.771959]}, {"name": "Vadászati Múzeum", "text": "Vadászati Múzeum is a local museum in Kesthell.", "category": "museum", "coords": [17.237181, 46.77213]}, {"name": "Védett feketefenyő-sor", "text": "This nature reserve in Kesthell preserves the local natural environment.", "category": "natural", "coords": [17.231889, 46.73281]}, {"name": "védett fasor", "text": "A designated nature reserve located in Kesthell.", "category": "natural", "coords": [17.223392, 46.770085]}, {"name": "Georgikon Majortörténeti Kiállítóhely", "text": "This museum offers exhibits in the city of Kesthell.", "category": "museum", "coords": [17.235653, 46.766768]}, {"name": "Napozó", "text": "A beach resort providing relaxation by the water in Kesthell.", "category": "recreational", "coords": [17.253442, 46.757309]}, {"name": "Óriaskerék", "text": "This attraction is a point of interest for visitors in Kesthell.", "category": "landmark", "coords": [17.252494, 46.759413]}, {"name": "Keszthely felirat", "text": "Keszthely felirat is a local attraction found in Kesthell.", "category": "landmark", "coords": [17.253792, 46.759]}, {"name": "szürkemarhák", "text": "A notable attraction located in the city of Kesthell.", "category": "landmark", "coords": [17.267336, 46.778322]}, {"name": "vaddisznók, mangalicák", "text": "This is an attraction situated in Kesthell.", "category": "landmark", "coords": [17.267118, 46.779231]}, {"name": "Kis Szent Teréz-bazilika", "text": "A place of worship located in Kesthell.", "category": "religious", "coords": [17.251538, 46.770437]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Festetics",
+                  "text": "Dieses prächtige Barockschloss ist eines der bedeutendsten Baudenkmäler Ungarns und verfügt über 101 prunkvolle Räume. Es beherbergt die berühmte Helikon-Bibliothek mit über 50.000 historischen Bänden und einen wunderschönen englischen Landschaftsgarten.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.2417,
+                        46.7706
+                  ]
+            },
+            {
+                  "name": "Balaton-Museum",
+                  "text": "Das Museum präsentiert die Archäologie, Ethnographie und Naturgeschichte der Balaton-Region in einem repräsentativen neoklassizistischen Gebäude. Besucher können hier alles über die Entstehung des Sees und die Schifffahrt erfahren.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.241092,
+                        46.758808
+                  ]
+            },
+            {
+                  "name": "Helikon-Park",
+                  "text": "Die größte Grünfläche der Stadt mit jahrhundertealten Bäumen, Promenaden und dem berühmten Helikon-Denkmal am Plattenseeufer.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        17.246414,
+                        46.764093
+                  ]
+            },
+            {
+                  "name": "Hafen von Keszthely",
+                  "text": "Ein belebter Hafen, von dem aus Linien- und Ausflugsschiffe über den Plattensee ablegen, mit schöner Panoramapromenande.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        17.24676,
+                        46.745962
+                  ]
+            },
+            {
+                  "name": "Panoptikum",
+                  "text": "Ein Wachsfigurenkabinett, das bedeutende Persönlichkeiten der ungarischen Geschichte in lebensgroßen Figuren präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.24265,
+                        46.767726
+                  ]
+            },
+            {
+                  "name": "Cadillac-Museum",
+                  "text": "Eine beeindruckende private Sammlung klassischer Cadillac-Modelle, die die Geschichte der Marke dokumentiert.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242022,
+                        46.762836
+                  ]
+            },
+            {
+                  "name": "Radio- und Fernsehmuseum",
+                  "text": "Eine technikgeschichtliche Ausstellung mit alten Radiogeräten, Fernsehern und Sendeanlagen aus Ungarn.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242036,
+                        46.768357
+                  ]
+            },
+            {
+                  "name": "Festetics-Mausoleum",
+                  "text": "Die Grabkapelle der Familie Festetics auf dem Stadtfriedhof, ein bedeutendes neoklassizistisches Baudenkmal.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.240157,
+                        46.753843
+                  ]
+            },
+            {
+                  "name": "Fenékpuszta",
+                  "text": "Archäologische Stätte mit Ruinen eines römischen Kastells aus dem 4. Jahrhundert und einer frühchristlichen Basilika.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.248758,
+                        46.711739
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Unserer Lieben Frau",
+                  "text": "Eine gotische Kirche am Hauptplatz mit bedeutenden Fresken und der Grabstätte von Palatin István Lackfi.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        17.243631,
+                        46.764592
+                  ]
+            },
+            {
+                  "name": "Fußgängerzone (Kossuth Lajos utca)",
+                  "text": "Die malerische Hauptstraße mit historischen Gebäuden, Geschäften und Cafés, die das Schloss mit dem Zentrum verbindet.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/keszthely-fussgaengerzone-kossuth-lajos-utca.webp",
+                  "image_attribution": {
+                        "author": "<a href=\"https://maps.google.com/maps/contrib/115435824249443494634\">Thomas Strasser</a>",
+                        "source": "https://www.google.com/maps/place/?q=place_id:ChIJz0dfqKHiaEcRkNbisYejDD0",
+                        "license": "Google Places API",
+                        "platform": "google-places"
+                  },
+                  "coords": [
+                        17.242359,
+                        46.768474
+                  ]
+            },
+            {
+                  "name": "Balaton-Theater",
+                  "text": "Ein modernes Kulturzentrum und Theater, das das ganze Jahr über hochwertige Aufführungen und Programme bietet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.243755,
+                        46.765978
+                  ]
+            },
+            {
+                  "name": "Libás-Strand",
+                  "text": "Im östlichen Teil von Keszthely gelegen, verzaubert der Libás-Strand seine Gäste mit der eleganten Nähe zu einem Segelhafen. Die entspannte Atmosphäre wird durch den sanften Wellenschlag und das maritime Flair geprägt, was den Ort ideal für ausgiebige Erholungsphasen macht. Urlauber sollten sich am Nachmittag Zeit nehmen, um das Ambiente voll und ganz auf sich wirken zu lassen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.26795,
+                        46.764656
+                  ]
+            },
+            {
+                  "name": "Yachthafen Keszthely",
+                  "text": "Ein moderner Hafen für Segelboote und Yachten, der erstklassige Dienstleistungen für Wassersportler bietet.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.251039,
+                        46.760112
+                  ]
+            },
+            {
+                  "name": "Orsós Magnó Múzeum",
+                  "text": "Das Tonbandgeräte-Museum zeigt eine Sammlung alter Audiogeräte in Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.2448,
+                        46.766911
+                  ]
+            },
+            {
+                  "name": "Szendrey Júlia szülőháza (emlékszoba)",
+                  "text": "Das Geburtshaus von Júlia Szendrey dient als Gedenkraum und Museum in Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.227347,
+                        46.748243
+                  ]
+            },
+            {
+                  "name": "Hintómúzeum",
+                  "text": "Dies ist ein Museum in der Stadt Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.239569,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Vadászati Múzeum",
+                  "text": "Das Vadászati Múzeum ist ein lokales Museum in Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.237181,
+                        46.77213
+                  ]
+            },
+            {
+                  "name": "Védett feketefenyő-sor",
+                  "text": "Dieses Naturschutzgebiet in Kesthell bewahrt die lokale natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.231889,
+                        46.73281
+                  ]
+            },
+            {
+                  "name": "védett fasor",
+                  "text": "Ein ausgewiesenes Naturschutzgebiet in Kesthell.",
+                  "category": "natural",
+                  "coords": [
+                        17.223392,
+                        46.770085
+                  ]
+            },
+            {
+                  "name": "Georgikon Majortörténeti Kiállítóhely",
+                  "text": "Dieses Museum bietet Ausstellungen in der Stadt Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.235653,
+                        46.766768
+                  ]
+            },
+            {
+                  "name": "Napozó",
+                  "text": "Ein Strandresort, das Entspannung am Wasser in Kesthell bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253442,
+                        46.757309
+                  ]
+            },
+            {
+                  "name": "Óriaskerék",
+                  "text": "Diese Attraktion ist ein Anziehungspunkt für Besucher in Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.252494,
+                        46.759413
+                  ]
+            },
+            {
+                  "name": "Keszthely felirat",
+                  "text": "Keszthely felirat ist eine lokale Attraktion in Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.253792,
+                        46.759
+                  ]
+            },
+            {
+                  "name": "szürkemarhák",
+                  "text": "Eine bemerkenswerte Attraktion in der Stadt Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267336,
+                        46.778322
+                  ]
+            },
+            {
+                  "name": "vaddisznók, mangalicák",
+                  "text": "Dies ist eine Attraktion in Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267118,
+                        46.779231
+                  ]
+            },
+            {
+                  "name": "Kis Szent Teréz-bazilika",
+                  "text": "Eine Kultstätte in Kesthell.",
+                  "category": "religious",
+                  "coords": [
+                        17.251538,
+                        46.770437
+                  ]
+            },
+            {
+                  "name": "Diási Játékstrand",
+                  "text": "Ein familienfreundlicher Strand in der Nähe von Keszthely mit Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.28996,
+                        46.760571
+                  ]
+            },
+            {
+                  "name": "Helikon Strand",
+                  "text": "Ein bekannter Strand am Balaton, der sich in Keszthely befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.244966,
+                        46.749031
+                  ]
+            },
+            {
+                  "name": "Keszthelyi Városi Strand",
+                  "text": "Der wichtigste städtische Strand von Keszthely am Balatonufer.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249628,
+                        46.756628
+                  ]
+            },
+            {
+                  "name": "Gyenesi Lidóstrand",
+                  "text": "Ein bei Familien beliebter Strandabschnitt in der Nähe von Keszthely.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277772,
+                        46.763163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Festetics-kastély",
+                  "text": "Magyarország egyik legszebb barokk kastélya, amely 101 szobájával és a világhírű Helikon Könyvtárral várja a látogatókat. A kastélypark természetvédelmi terület, amelyben pálmaház és hintómúzeum is található.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.2417,
+                        46.7706
+                  ]
+            },
+            {
+                  "name": "Balaton Múzeum",
+                  "text": "A Balaton környékének legfontosabb múzeuma, amely bemutatja a tó kialakulását, élővilágát, valamint a térség régészeti és néprajzi emlékeit egy impozáns neobarokk épületben.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.241092,
+                        46.758808
+                  ]
+            },
+            {
+                  "name": "Helikon Park",
+                  "text": "A város legnagyobb zöldterülete évszázados fákkal, sétányokkal és a híres Helikon-emlékművel a Balaton partján.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        17.246414,
+                        46.764093
+                  ]
+            },
+            {
+                  "name": "Keszthelyi Kikötő",
+                  "text": "Nyüzsgő kikötő, ahonnan sétahajók és menetrend szerinti járatok indulnak a Balaton különböző pontjaira.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        17.24676,
+                        46.745962
+                  ]
+            },
+            {
+                  "name": "Panoptikum",
+                  "text": "Viaszbábú-kiállítás, amely a magyar történelem kiemelkedő alakjait mutatja be élethű, életnagyságú figurákkal.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.24265,
+                        46.767726
+                  ]
+            },
+            {
+                  "name": "Cadillac Múzeum",
+                  "text": "Látványos magángyűjtemény klasszikus Cadillac modellekből, amelyek a márka történetét mutatják be.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242022,
+                        46.762836
+                  ]
+            },
+            {
+                  "name": "Rádió és Televízió Múzeum",
+                  "text": "Technikatörténeti kiállítás régi rádiókkal, televíziókkal és stúdióberendezésekkel a múlt századból.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242036,
+                        46.768357
+                  ]
+            },
+            {
+                  "name": "Festetics Mauzóleum",
+                  "text": "A Festetics család neoklasszicista stílusú sírkápolnája a városi temetőben, jelentős építészeti emlék.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.240157,
+                        46.753843
+                  ]
+            },
+            {
+                  "name": "Fenékpuszta",
+                  "text": "Régészeti lelőhely 4. századi római erőd romjaival és egy kora keresztény bazilika maradványaival.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.248758,
+                        46.711739
+                  ]
+            },
+            {
+                  "name": "Magyarok Nagyasszonya plébániatemplom",
+                  "text": "Gótikus templom a Fő téren, freskókkal és Lackfi István nádor síremlékével.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        17.243631,
+                        46.764592
+                  ]
+            },
+            {
+                  "name": "Sétálóutca (Kossuth Lajos utca)",
+                  "text": "Hangulatos főutca történelmi polgárházakkal, üzletekkel és kávézókkal a kastély és a belváros között.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        17.242359,
+                        46.768474
+                  ]
+            },
+            {
+                  "name": "Balatoni Színház",
+                  "text": "Modern kulturális központ és színház, amely egész évben nívós előadásokkal és programokkal várja a közönséget.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.243755,
+                        46.765978
+                  ]
+            },
+            {
+                  "name": "Libás strand",
+                  "text": "Keszthely keleti részén elhelyezkedve, a Libás-Strand egy vitorláskikötő elegáns közelségével varázsolja el vendégeit. A nyugodt hangulatot a lágy hullámverés és a tengeri atmoszféra határozza meg, ami a helyet ideálissá teszi a kiadós pihenéshez. A nyaralóknak érdemes délután időt szakítaniuk arra, hogy teljesen átadják magukat a környezet szépségének.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.26795,
+                        46.764656
+                  ]
+            },
+            {
+                  "name": "Keszthelyi Yacht Kikötő",
+                  "text": "Modern kikötő vitorlások és yachtok számára, amely színvonalas szolgáltatásokat nyújt a hajósoknak.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.251039,
+                        46.760112
+                  ]
+            },
+            {
+                  "name": "Orsós Magnó Múzeum",
+                  "text": "Az Orsós Magnó Múzeum régi hangtechnikai eszközök gyűjteményét mutatja be Keszthelyen.",
+                  "category": "museum",
+                  "coords": [
+                        17.2448,
+                        46.766911
+                  ]
+            },
+            {
+                  "name": "Szendrey Júlia szülőháza (emlékszoba)",
+                  "text": "Szendrey Júlia szülőháza emlékszobaként és múzeumként működik Keszthelyen.",
+                  "category": "museum",
+                  "coords": [
+                        17.227347,
+                        46.748243
+                  ]
+            },
+            {
+                  "name": "Hintómúzeum",
+                  "text": "Ez egy múzeum Kesthell városában.",
+                  "category": "museum",
+                  "coords": [
+                        17.239569,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Vadászati Múzeum",
+                  "text": "A Vadászati Múzeum egy helyi múzeum Kesthell városában.",
+                  "category": "museum",
+                  "coords": [
+                        17.237181,
+                        46.77213
+                  ]
+            },
+            {
+                  "name": "Védett feketefenyő-sor",
+                  "text": "Ez a természetvédelmi terület Kesthell városában a helyi természeti környezetet óvja.",
+                  "category": "natural",
+                  "coords": [
+                        17.231889,
+                        46.73281
+                  ]
+            },
+            {
+                  "name": "védett fasor",
+                  "text": "Kijelölt természetvédelmi terület Kesthell városában.",
+                  "category": "natural",
+                  "coords": [
+                        17.223392,
+                        46.770085
+                  ]
+            },
+            {
+                  "name": "Georgikon Majortörténeti Kiállítóhely",
+                  "text": "Ez a múzeum kiállításokat kínál Kesthell városában.",
+                  "category": "museum",
+                  "coords": [
+                        17.235653,
+                        46.766768
+                  ]
+            },
+            {
+                  "name": "Napozó",
+                  "text": "Vízparti kikapcsolódást nyújtó strand Kesthell városában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253442,
+                        46.757309
+                  ]
+            },
+            {
+                  "name": "Óriaskerék",
+                  "text": "Ez a látványosság vonzza a látogatókat Kesthell városában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.252494,
+                        46.759413
+                  ]
+            },
+            {
+                  "name": "Keszthely felirat",
+                  "text": "A Keszthely felirat egy helyi látványosság Kesthell városában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.253792,
+                        46.759
+                  ]
+            },
+            {
+                  "name": "szürkemarhák",
+                  "text": "Figyelemre méltó látványosság Kesthell városában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267336,
+                        46.778322
+                  ]
+            },
+            {
+                  "name": "vaddisznók, mangalicák",
+                  "text": "Ez egy látványosság Kesthell városában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267118,
+                        46.779231
+                  ]
+            },
+            {
+                  "name": "Kis Szent Teréz-bazilika",
+                  "text": "Istentiszteleti hely Kesthell városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.251538,
+                        46.770437
+                  ]
+            },
+            {
+                  "name": "Diási Játékstrand",
+                  "text": "Családbarát strand Keszthely környékén, amely rekreációs lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.28996,
+                        46.760571
+                  ]
+            },
+            {
+                  "name": "Helikon Strand",
+                  "text": "Ismert balatoni strand Keszthelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.244966,
+                        46.749031
+                  ]
+            },
+            {
+                  "name": "Keszthelyi Városi Strand",
+                  "text": "Keszthely központi városi strandja a Balaton partján.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249628,
+                        46.756628
+                  ]
+            },
+            {
+                  "name": "Gyenesi Lidóstrand",
+                  "text": "Családok körében népszerű strandterület Keszthely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277772,
+                        46.763163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Festetics",
+                  "text": "Unul dintre cele mai impresionante palate baroce din Ungaria, având 101 camere și găzduind faimoasa Bibliotecă Helikon. Parcul palatului este o rezervație naturală cu sere de palmieri și un muzeu al trăsurilor.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.2417,
+                        46.7706
+                  ]
+            },
+            {
+                  "name": "Muzeul Balaton",
+                  "text": "Principalul muzeu dedicat Lacului Balaton, prezentând istoria geologică, flora, fauna și tradițiile populare ale regiunii într-o clădire monumentală de stil neobaroc.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.241092,
+                        46.758808
+                  ]
+            },
+            {
+                  "name": "Parcul Helikon",
+                  "text": "Cea mai mare zonă verde a orașului, cu arbori seculari, alei de promenadă și celebrul monument Helikon pe malul Balatonului.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        17.246414,
+                        46.764093
+                  ]
+            },
+            {
+                  "name": "Portul Keszthely",
+                  "text": "Un port plin de viață de unde pleacă nave de croazieră și curse regulate către diverse puncte de pe lacul Balaton.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        17.24676,
+                        46.745962
+                  ]
+            },
+            {
+                  "name": "Panopticum",
+                  "text": "O expoziție de figuri de ceară reprezentând personalități proeminente ale istoriei maghiare în mărime naturală.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.24265,
+                        46.767726
+                  ]
+            },
+            {
+                  "name": "Muzeul Cadillac",
+                  "text": "O colecție privată spectaculoasă de modele Cadillac clasice, documentând istoria acestei mărci celebre.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242022,
+                        46.762836
+                  ]
+            },
+            {
+                  "name": "Muzeul de Radio și Televiziune",
+                  "text": "Expoziție de istorie a tehnicii cu aparate de radio, televizoare și echipamente de studio din secolul trecut.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242036,
+                        46.768357
+                  ]
+            },
+            {
+                  "name": "Mausoleul Festetics",
+                  "text": "Capela funerară a familiei Festetics în stil neoclasic, situată în cimitirul orașului, un monument arhitectural important.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.240157,
+                        46.753843
+                  ]
+            },
+            {
+                  "name": "Fenékpuszta",
+                  "text": "Situl arheologic cu ruinele unei cetăți romane din secolul IV și resturile unei bazilici paleocreștine.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.248758,
+                        46.711739
+                  ]
+            },
+            {
+                  "name": "Biserica Parohială Sfânta Maria",
+                  "text": "Biserică gotică în piața principală, cu fresce valoroase și mormântul palatinului István Lackfi.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        17.243631,
+                        46.764592
+                  ]
+            },
+            {
+                  "name": "Strada Pietonală (Kossuth Lajos utca)",
+                  "text": "Strada principală fermecătoare cu case burgheze istorice, magazine și cafenele, legând castelul de centru.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        17.242359,
+                        46.768474
+                  ]
+            },
+            {
+                  "name": "Teatrul Balaton",
+                  "text": "Centru cultural modern și teatru care oferă spectacole și programe de înaltă calitate pe tot parcursul anului.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.243755,
+                        46.765978
+                  ]
+            },
+            {
+                  "name": "Plaja Libás",
+                  "text": "Situată în partea de est a orașului Keszthely, plaja Libás își încântă oaspeții prin proximitatea elegantă față de un port de agrement. Atmosfera relaxată este caracterizată de clipocitul blând al valurilor și de flerul maritim, făcând din acest loc o alegere ideală pentru perioade prelungite de odihnă. Turiștii ar trebui să își ia timp după-amiaza pentru a absorbi pe deplin ambianța.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.26795,
+                        46.764656
+                  ]
+            },
+            {
+                  "name": "Portul de Iahturi Keszthely",
+                  "text": "Port modern pentru ambarcațiuni cu pânze și iahturi, oferind servicii de calitate pentru navigatori.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.251039,
+                        46.760112
+                  ]
+            },
+            {
+                  "name": "Orsós Magnó Múzeum",
+                  "text": "Muzeul Magnetofoanelor prezintă o colecție de echipamente audio de epocă în Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.2448,
+                        46.766911
+                  ]
+            },
+            {
+                  "name": "Szendrey Júlia szülőháza (emlékszoba)",
+                  "text": "Casa natală a Iuliei Szendrey servește ca o cameră memorială și muzeu în Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.227347,
+                        46.748243
+                  ]
+            },
+            {
+                  "name": "Hintómúzeum",
+                  "text": "Acesta este un muzeu situat în orașul Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.239569,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Vadászati Múzeum",
+                  "text": "Vadászati Múzeum este un muzeu local din Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.237181,
+                        46.77213
+                  ]
+            },
+            {
+                  "name": "Védett feketefenyő-sor",
+                  "text": "Această rezervație naturală din Kesthell conservă mediul natural local.",
+                  "category": "natural",
+                  "coords": [
+                        17.231889,
+                        46.73281
+                  ]
+            },
+            {
+                  "name": "védett fasor",
+                  "text": "O rezervație naturală desemnată situată în Kesthell.",
+                  "category": "natural",
+                  "coords": [
+                        17.223392,
+                        46.770085
+                  ]
+            },
+            {
+                  "name": "Georgikon Majortörténeti Kiállítóhely",
+                  "text": "Acest muzeu oferă expoziții în orașul Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.235653,
+                        46.766768
+                  ]
+            },
+            {
+                  "name": "Napozó",
+                  "text": "O stațiune pe plajă care oferă relaxare la malul apei în Kesthell.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253442,
+                        46.757309
+                  ]
+            },
+            {
+                  "name": "Óriaskerék",
+                  "text": "Această atracție este un punct de interes pentru vizitatorii din Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.252494,
+                        46.759413
+                  ]
+            },
+            {
+                  "name": "Keszthely felirat",
+                  "text": "Keszthely felirat este o atracție locală care se găsește în Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.253792,
+                        46.759
+                  ]
+            },
+            {
+                  "name": "szürkemarhák",
+                  "text": "O atracție notabilă situată în orașul Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267336,
+                        46.778322
+                  ]
+            },
+            {
+                  "name": "vaddisznók, mangalicák",
+                  "text": "Aceasta este o atracție situată în Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267118,
+                        46.779231
+                  ]
+            },
+            {
+                  "name": "Kis Szent Teréz-bazilika",
+                  "text": "Un lăcaș de cult situat în Kesthell.",
+                  "category": "religious",
+                  "coords": [
+                        17.251538,
+                        46.770437
+                  ]
+            },
+            {
+                  "name": "Diási Játékstrand",
+                  "text": "O stațiune balneară pentru familii în zona Keszthely, cunoscută pentru facilitățile sale.",
+                  "category": "recreational",
+                  "coords": [
+                        17.28996,
+                        46.760571
+                  ]
+            },
+            {
+                  "name": "Helikon Strand",
+                  "text": "O plajă cunoscută de pe lacul Balaton, situată în Keszthely.",
+                  "category": "recreational",
+                  "coords": [
+                        17.244966,
+                        46.749031
+                  ]
+            },
+            {
+                  "name": "Keszthelyi Városi Strand",
+                  "text": "Principala plajă municipală din Keszthely, pe malul Balatonului.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249628,
+                        46.756628
+                  ]
+            },
+            {
+                  "name": "Gyenesi Lidóstrand",
+                  "text": "O zonă de plajă populară printre familii, situată lângă Keszthely.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277772,
+                        46.763163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Festetics Palace",
+                  "text": "One of the most magnificent Baroque palaces in Hungary, featuring 101 rooms and the world-famous Helikon Library. The palace grounds include a massive park, a palm house, and a carriage museum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.2417,
+                        46.7706
+                  ]
+            },
+            {
+                  "name": "Balaton Museum",
+                  "text": "The premier museum for the Lake Balaton region, showcasing the lake's geological formation, wildlife, and the archaeological and ethnographic history of the area.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.241092,
+                        46.758808
+                  ]
+            },
+            {
+                  "name": "Helikon Park",
+                  "text": "The largest green area in the city with century-old trees, promenades, and the famous Helikon Monument on the Balaton shore.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        17.246414,
+                        46.764093
+                  ]
+            },
+            {
+                  "name": "Keszthely Harbor",
+                  "text": "A bustling harbor from which sightseeing boats and scheduled cruises depart to various points across Lake Balaton.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        17.24676,
+                        46.745962
+                  ]
+            },
+            {
+                  "name": "Panoptikum",
+                  "text": "A wax figure exhibition presenting prominent figures of Hungarian history with lifelike, life-sized statues.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.24265,
+                        46.767726
+                  ]
+            },
+            {
+                  "name": "Cadillac Museum",
+                  "text": "A spectacular private collection of classic Cadillac models showcasing the history and evolution of the brand.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242022,
+                        46.762836
+                  ]
+            },
+            {
+                  "name": "Radio and Television Museum",
+                  "text": "A technical history exhibition with old radios, televisions, and studio equipment from the last century.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.242036,
+                        46.768357
+                  ]
+            },
+            {
+                  "name": "Festetics Mausoleum",
+                  "text": "The Neoclassical burial chapel of the Festetics family in the city cemetery, a significant architectural monument.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.240157,
+                        46.753843
+                  ]
+            },
+            {
+                  "name": "Fenékpuszta",
+                  "text": "An archaeological site with ruins of a 4th-century Roman fort and remains of an Early Christian basilica.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.248758,
+                        46.711739
+                  ]
+            },
+            {
+                  "name": "Our Lady of Hungary Parish Church",
+                  "text": "A Gothic church on the Main Square with significant frescoes and the tomb of Palatine István Lackfi.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        17.243631,
+                        46.764592
+                  ]
+            },
+            {
+                  "name": "Pedestrian Street (Kossuth Lajos Street)",
+                  "text": "A charming main street with historic buildings, shops, and cafes connecting the castle and the town center.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        17.242359,
+                        46.768474
+                  ]
+            },
+            {
+                  "name": "Balaton Theater",
+                  "text": "A modern cultural center and theater hosting high-quality performances and programs throughout the year.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        17.243755,
+                        46.765978
+                  ]
+            },
+            {
+                  "name": "Libás Beach",
+                  "text": "Located in the eastern part of Keszthely, Libás-Strand enchants its guests with its elegant proximity to a sailing harbor. The relaxed atmosphere is characterized by the gentle lapping of waves and the maritime flair, making the location ideal for extensive periods of recovery. Vacationers should take time in the afternoon to fully absorb the ambiance.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.26795,
+                        46.764656
+                  ]
+            },
+            {
+                  "name": "Keszthely Yacht Port",
+                  "text": "A modern marina for sailboats and yachts, providing high-standard services for the sailing community.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.251039,
+                        46.760112
+                  ]
+            },
+            {
+                  "name": "Orsós Magnó Múzeum",
+                  "text": "The Reel-to-Reel Tape Recorder Museum showcases a collection of vintage audio equipment in Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.2448,
+                        46.766911
+                  ]
+            },
+            {
+                  "name": "Szendrey Júlia szülőháza (emlékszoba)",
+                  "text": "Júlia Szendrey's Birthplace serves as a memorial room and museum in Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.227347,
+                        46.748243
+                  ]
+            },
+            {
+                  "name": "Hintómúzeum",
+                  "text": "This is a museum situated in the city of Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.239569,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Vadászati Múzeum",
+                  "text": "Vadászati Múzeum is a local museum in Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.237181,
+                        46.77213
+                  ]
+            },
+            {
+                  "name": "Védett feketefenyő-sor",
+                  "text": "This nature reserve in Kesthell preserves the local natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        17.231889,
+                        46.73281
+                  ]
+            },
+            {
+                  "name": "védett fasor",
+                  "text": "A designated nature reserve located in Kesthell.",
+                  "category": "natural",
+                  "coords": [
+                        17.223392,
+                        46.770085
+                  ]
+            },
+            {
+                  "name": "Georgikon Majortörténeti Kiállítóhely",
+                  "text": "This museum offers exhibits in the city of Kesthell.",
+                  "category": "museum",
+                  "coords": [
+                        17.235653,
+                        46.766768
+                  ]
+            },
+            {
+                  "name": "Napozó",
+                  "text": "A beach resort providing relaxation by the water in Kesthell.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253442,
+                        46.757309
+                  ]
+            },
+            {
+                  "name": "Óriaskerék",
+                  "text": "This attraction is a point of interest for visitors in Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.252494,
+                        46.759413
+                  ]
+            },
+            {
+                  "name": "Keszthely felirat",
+                  "text": "Keszthely felirat is a local attraction found in Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.253792,
+                        46.759
+                  ]
+            },
+            {
+                  "name": "szürkemarhák",
+                  "text": "A notable attraction located in the city of Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267336,
+                        46.778322
+                  ]
+            },
+            {
+                  "name": "vaddisznók, mangalicák",
+                  "text": "This is an attraction situated in Kesthell.",
+                  "category": "landmark",
+                  "coords": [
+                        17.267118,
+                        46.779231
+                  ]
+            },
+            {
+                  "name": "Kis Szent Teréz-bazilika",
+                  "text": "A place of worship located in Kesthell.",
+                  "category": "religious",
+                  "coords": [
+                        17.251538,
+                        46.770437
+                  ]
+            },
+            {
+                  "name": "Diási Játékstrand",
+                  "text": "A family-friendly beach resort in the Keszthely area known for its recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        17.28996,
+                        46.760571
+                  ]
+            },
+            {
+                  "name": "Helikon Strand",
+                  "text": "A well-known beach on Lake Balaton located in Keszthely.",
+                  "category": "recreational",
+                  "coords": [
+                        17.244966,
+                        46.749031
+                  ]
+            },
+            {
+                  "name": "Keszthelyi Városi Strand",
+                  "text": "The main municipal beach of Keszthely on the Balaton shore.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249628,
+                        46.756628
+                  ]
+            },
+            {
+                  "name": "Gyenesi Lidóstrand",
+                  "text": "A beach area popular with families near Keszthely.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277772,
+                        46.763163
+                  ]
+            }
+      ]
+}
   },
   {
     id: "harkany",
@@ -56070,6 +60940,24 @@ export const hungaryCities: POI[] = [
                         18.241591,
                         45.869431
                   ]
+            },
+            {
+                  "name": "Bad Harkany",
+                  "text": "Ein bekanntes Thermalbad und Wasserpark in Harkány, berühmt für sein Heilwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        18.238336,
+                        45.851817
+                  ]
+            },
+            {
+                  "name": "Lepke",
+                  "text": "Ein schmetterlingsförmiges Schwimmbecken im Kurkomplex von Harkány.",
+                  "category": "recreational",
+                  "coords": [
+                        18.239957,
+                        45.851285
+                  ]
             }
       ],
       "hu": [
@@ -56132,6 +61020,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.241591,
                         45.869431
+                  ]
+            },
+            {
+                  "name": "Harkányi Gyógy- és Strandfürdő",
+                  "text": "Harkány neves gyógyfürdője és vízi parkja, amely kénes gyógyvizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        18.238336,
+                        45.851817
+                  ]
+            },
+            {
+                  "name": "Lepke",
+                  "text": "Lepke alakú medence a harkányi fürdőkomplexumban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.239957,
+                        45.851285
                   ]
             }
       ],
@@ -56196,6 +61102,24 @@ export const hungaryCities: POI[] = [
                         18.241591,
                         45.869431
                   ]
+            },
+            {
+                  "name": "Harkányi Gyógy- és Strandfürdő",
+                  "text": "Un renumit centru spa termal și parc acvatic în Harkány, cunoscut pentru apele sale medicinale.",
+                  "category": "recreational",
+                  "coords": [
+                        18.238336,
+                        45.851817
+                  ]
+            },
+            {
+                  "name": "Lepke",
+                  "text": "O piscină în formă de fluture în cadrul complexului balnear din Harkány.",
+                  "category": "recreational",
+                  "coords": [
+                        18.239957,
+                        45.851285
+                  ]
             }
       ],
       "en": [
@@ -56258,6 +61182,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.241591,
                         45.869431
+                  ]
+            },
+            {
+                  "name": "Harkany Spa",
+                  "text": "A renowned thermal spa and water park in Harkány known for its medicinal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        18.238336,
+                        45.851817
+                  ]
+            },
+            {
+                  "name": "Lepke",
+                  "text": "A butterfly-shaped swimming pool within the spa complex of Harkány.",
+                  "category": "recreational",
+                  "coords": [
+                        18.239957,
+                        45.851285
                   ]
             }
       ]
@@ -58145,6 +63087,15 @@ export const hungaryCities: POI[] = [
                         19.837793,
                         46.705272
                   ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "Ein Standard-Schwimmbad in Kiskunfélegyháza für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        19.838898,
+                        46.71044
+                  ]
             }
       ],
       "hu": [
@@ -58410,6 +63361,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.837793,
                         46.705272
+                  ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "Sportolásra és kikapcsolódásra alkalmas úszómedence Kiskunfélegyházán.",
+                  "category": "recreational",
+                  "coords": [
+                        19.838898,
+                        46.71044
                   ]
             }
       ],
@@ -58677,6 +63637,15 @@ export const hungaryCities: POI[] = [
                         19.837793,
                         46.705272
                   ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "O piscină standard în Kiskunfélegyháza pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        19.838898,
+                        46.71044
+                  ]
             }
       ],
       "en": [
@@ -58942,6 +63911,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.837793,
                         46.705272
+                  ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "A standard swimming pool facility in Kiskunfélegyháza for sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.838898,
+                        46.71044
                   ]
             }
       ]
@@ -60970,6 +65948,15 @@ export const hungaryCities: POI[] = [
                         20.656042,
                         48.115526
                   ]
+            },
+            {
+                  "name": "Miskolci Állatkert",
+                  "text": "Ein traditionsreicher Zoo in waldreicher Umgebung nahe Lillafüred.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
+                  ]
             }
       ],
       "hu": [
@@ -61025,6 +66012,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.656042,
                         48.115526
+                  ]
+            },
+            {
+                  "name": "Miskolci Állatkert",
+                  "text": "Gazdag múltú állatkert erdős környezetben, Lillafüred közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
                   ]
             }
       ],
@@ -61082,6 +66078,15 @@ export const hungaryCities: POI[] = [
                         20.656042,
                         48.115526
                   ]
+            },
+            {
+                  "name": "Miskolci Állatkert",
+                  "text": "O grădină zoologică tradițională situată într-o zonă împădurită lângă Lillafüred.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
+                  ]
             }
       ],
       "en": [
@@ -61137,6 +66142,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.656042,
                         48.115526
+                  ]
+            },
+            {
+                  "name": "Miskolc Zoo",
+                  "text": "A long-standing zoo set in a wooded environment near Lillafüred.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
                   ]
             }
       ]
@@ -63495,6 +68509,15 @@ export const hungaryCities: POI[] = [
                         16.890403,
                         47.619276
                   ]
+            },
+            {
+                  "name": "Petőházi Strand",
+                  "text": "Ein lokaler Strand- und Wasserparkbereich in der Umgebung von Fertőd.",
+                  "category": "recreational",
+                  "coords": [
+                        16.891072,
+                        47.59467
+                  ]
             }
       ],
       "hu": [
@@ -63725,6 +68748,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.890403,
                         47.619276
+                  ]
+            },
+            {
+                  "name": "Petőházi Strand",
+                  "text": "Helyi strand és vízipark Fertőd környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.891072,
+                        47.59467
                   ]
             }
       ],
@@ -63957,6 +68989,15 @@ export const hungaryCities: POI[] = [
                         16.890403,
                         47.619276
                   ]
+            },
+            {
+                  "name": "Petőházi Strand",
+                  "text": "O plajă locală și un parc acvatic în apropiere de Fertőd.",
+                  "category": "recreational",
+                  "coords": [
+                        16.891072,
+                        47.59467
+                  ]
             }
       ],
       "en": [
@@ -64188,6 +69229,15 @@ export const hungaryCities: POI[] = [
                         16.890403,
                         47.619276
                   ]
+            },
+            {
+                  "name": "Petőházi Strand",
+                  "text": "A local beach and water park area in the vicinity of Fertőd.",
+                  "category": "recreational",
+                  "coords": [
+                        16.891072,
+                        47.59467
+                  ]
             }
       ]
 }
@@ -64213,7 +69263,456 @@ export const hungaryCities: POI[] = [
       ro: ["Drepturile de așezare au fost acordate în 1609 de István Bocskai.", "Hajdúböszörmény este cel mai mare dintre cele șapte orașe Hajdú originale.", "Orașul are un sistem unic de drumuri circulare duble.", "Biserica reformată are rădăcini gotice din secolul al XV-lea.", "Muzeul Hajdúsági a fost fondat în anul 1924.", "Băile Bocskai oferă apă termală certificată pentru scopuri medicale."],
       en: ["Settlement rights were granted by István Bocskai in 1609.", "It is the largest of the seven original Hajdú towns.", "The town features a unique double concentric ring-road system.", "The Reformed church dates back to Gothic foundations from the 15th century.", "The Hajdúsági Museum was established in 1924.", "The Bocskai Thermal Bath provides certified medicinal water for treatments."],
     },
-    "sights": {"de": [{"name": "Rathaus", "text": "Das eklektische Gebäude am Hauptplatz wurde 1907 fertiggestellt und ist mit seiner markanten Fassade und dem prachtvollen Festsaal eines der wichtigsten Symbole der Stadt.", "category": "civic", "coords": [21.5074, 47.6728], "confidence": "high", "source_hint": "wiki"}, {"name": "István-Bocskai-Gymnasium", "text": "Das Gebäude im romantischen Stil des 1621 gegründeten Instituts wurde 1864 erbaut und ist eine der renommiertesten und ältesten Bildungseinrichtungen der Region.", "category": "historical", "coords": [21.5085, 47.6735], "confidence": "high", "source_hint": "wiki"}, {"name": "Bauernhausmuseum", "text": "Die reetgedeckten Bauernhäuser in der Holló-László-Straße bewahren originalgetreu die einstige Lebensweise und die architektonischen Traditionen der Heiducken.", "category": "historical", "coords": [21.5042, 47.6751], "confidence": "high", "source_hint": "known"}, {"name": "Griechisch-katholische Kirche", "text": "Diese im Jahr 1891 im byzantinischen Stil erbaute Kirche ist für ihre wunderschöne Ikonostase und ihre reiche Innendekoration bekannt.", "category": "historical", "coords": [21.512, 47.674], "confidence": "high", "source_hint": "known"}, {"name": "Sillye Gábor Kulturzentrum", "text": "Das pulsierende Herz des kulturellen Lebens mit Theateraufführungen, Konzerten und regionalen Kunstausstellungen.", "category": "cultural", "confidence": "high", "coords": [21.51894, 47.670724]}, {"name": "Bocskai István Grundschule", "text": "Ein markantes Schulgebäude mit reicher Geschichte, das das Stadtbild am Rande des Zentrums prägt.", "category": "historical", "confidence": "high", "coords": [21.507575, 47.672745]}, {"name": "Petőfi Sándor Kulturzentrum", "text": "Ein multifunktionales Gebäude, das Raum für lokale Vereine, Tanzgruppen und kleinere kulturelle Events bietet.", "category": "cultural", "confidence": "high", "coords": [21.512824, 47.673436]}, {"name": "Bocskai Strand- és Gyógyfürdő", "text": "Benannt nach dem Fürsten István Bocskai, lädt dieses bekannte Thermal- und Heilbad in Hajdúböszörmény zu einer wohltuenden Auszeit ein. Die Anlage bietet eine sehr entspannende Atmosphäre, die Besucher dazu anregt, Körper und Geist in den Thermalbecken zu regenerieren. Ein Besuch ist das ganze Jahr über empfehlenswert für alle, die tiefe Entspannung suchen.", "category": "family", "coords": [21.501271, 47.68313]}, {"name": "Széchenyi-halom", "text": "Ein historischer Grabhügel (Kurgan) bei Hajdúböszörmény, der als archäologisches Denkmal gilt.", "category": "natural", "coords": [21.540049, 47.645415]}, {"name": "Szent István-templom", "text": "Die katholische Pfarrkirche von Hajdúböszörmény, die dem heiligen Stephan geweiht ist.", "category": "religious", "coords": [21.498343, 47.671234]}], "hu": [{"name": "Városháza", "text": "A főtéren álló eklektikus stílusú épület 1907-ben készült el, látványos homlokzatával és dísztermével a város egyik legfontosabb jelképe.", "category": "civic", "coords": [21.5074, 47.6728], "confidence": "high", "source_hint": "wiki"}, {"name": "Bocskai István Gimnázium", "text": "Az 1621-ben alapított intézmény romantikus stílusú épülete 1864-ben épült, és a térség egyik legpatinásabb oktatási intézménye.", "category": "historical", "coords": [21.5085, 47.6735], "confidence": "high", "source_hint": "wiki"}, {"name": "Hajdúböszörményi Tájházak", "text": "A Holló László utcában található nádfedeles parasztházak hűen őrzik a hajdúk egykori életmódját és építészeti hagyományait.", "category": "historical", "coords": [21.5042, 47.6751], "confidence": "high", "source_hint": "known"}, {"name": "Görögkatolikus templom", "text": "Az 1891-ben bizánci stílusban épült templom gyönyörű ikonosztázáról és gazdag belső díszítéséről nevezetes.", "category": "historical", "coords": [21.512, 47.674], "confidence": "high", "source_hint": "known"}, {"name": "Sillye Gábor Művelődési Központ", "text": "A helyi kulturális élet központja, színházi estekkel, koncertekkel és időszaki kiállításokkal várja a látogatókat.", "category": "cultural", "confidence": "high", "coords": [21.51894, 47.670724]}, {"name": "Bocskai István Általános Iskola", "text": "Múltidéző iskolaépület, amely meghatározó eleme a belváros peremén elterülő utcaképnek.", "category": "historical", "confidence": "high", "coords": [21.507575, 47.672745]}, {"name": "Petőfi Sándor Művelődési Központ", "text": "Többfunkciós épület, amely helyi egyesületeknek, tánccsoportoknak és kisebb rendezvényeknek biztosít helyet.", "category": "cultural", "confidence": "high", "coords": [21.512824, 47.673436]}, {"name": "Bocskai Strand- és Gyógyfürdő", "text": "A Bocskai István fejedelemről elnevezett híres hajdúböszörményi termál- és gyógyfürdő jótékony pihenésre hívogat. A létesítmény rendkívül nyugtató légkört biztosít, amely arra ösztönzi a látogatókat, hogy testben és lélekben egyaránt feltöltődjenek a termálmedencékben. A látogatás egész évben ajánlott mindazoknak, akik mély relaxációra vágynak.", "category": "family", "coords": [21.501271, 47.68313]}, {"name": "Széchenyi-halom", "text": "Történelmi kunhalom Hajdúböszörmény közelében, amely régészeti műemléknek számít.", "category": "natural", "coords": [21.540049, 47.645415]}, {"name": "Szent István-templom", "text": "Hajdúböszörmény katolikus plébániatemploma, amelyet Szent István tiszteletére szenteltek.", "category": "religious", "coords": [21.498343, 47.671234]}], "ro": [{"name": "Primăria", "text": "Clădirea în stil eclectic de pe piața principală a fost finalizată în 1907, fiind un simbol important al orașului cu fațada sa impresionantă.", "category": "civic", "coords": [21.5074, 47.6728], "confidence": "high", "source_hint": "wiki"}, {"name": "Gimnaziul István Bocskai", "text": "Clădirea în stil romantic a instituției fondate în 1621 a fost construită în 1864 și este una dintre cele mai prestigioase școli din regiune.", "category": "historical", "coords": [21.5085, 47.6735], "confidence": "high", "source_hint": "wiki"}, {"name": "Casele țărănești", "text": "Casele țărănești cu acoperiș de stuf de pe strada Holló László păstrează fidel modul de viață și tradițiile arhitecturale ale haiducilor.", "category": "historical", "coords": [21.5042, 47.6751], "confidence": "high", "source_hint": "known"}, {"name": "Biserica greco-catolică", "text": "Această biserică construită în 1891 în stil bizantin este renumită pentru iconostasul său frumos și decorațiunile interioare bogate.", "category": "historical", "coords": [21.512, 47.674], "confidence": "high", "source_hint": "known"}, {"name": "Centrul Cultural Sillye Gábor", "text": "Inima vieții culturale locale, oferind spectacole de teatru, concerte și expoziții de artă regională.", "category": "cultural", "confidence": "high", "coords": [21.51894, 47.670724]}, {"name": "Școala Generală Bocskai István", "text": "O clădire școlară istorică ce marchează peisajul urban de la marginea centrului orașului.", "category": "historical", "confidence": "high", "coords": [21.507575, 47.672745]}, {"name": "Centrul Cultural Petőfi Sándor", "text": "O clădire multifuncțională care oferă spațiu pentru asociații locale, grupuri de dans și evenimente mici.", "category": "cultural", "confidence": "high", "coords": [21.512824, 47.673436]}, {"name": "Bocskai Strand- és Gyógyfürdő", "text": "Numite după principele István Bocskai, aceste cunoscute băi termale și curative din Hajdúböszörmény vă invită la o pauză relaxantă. Complexul oferă o atmosferă deosebit de liniștitoare, care încurajează vizitatorii să își regenereze corpul și mintea în bazinele termale. O vizită este recomandată pe tot parcursul anului pentru oricine caută o relaxare profundă.", "category": "family", "coords": [21.501271, 47.68313]}, {"name": "Széchenyi-halom", "text": "Un tumul istoric (kurgan) lângă Hajdúböszörmény, considerat monument arheologic.", "category": "natural", "coords": [21.540049, 47.645415]}, {"name": "Szent István-templom", "text": "Biserica parohială catolică din Hajdúböszörmény, sfințită în cinstea Sfântului Ștefan.", "category": "religious", "coords": [21.498343, 47.671234]}], "en": [{"name": "Town Hall", "text": "The eclectic-style building on the main square was completed in 1907 and is one of the city's most important symbols with its striking facade.", "category": "civic", "coords": [21.5074, 47.6728], "confidence": "high", "source_hint": "wiki"}, {"name": "István Bocskai Gymnasium", "text": "The Romantic-style building of the institution, founded in 1621, was built in 1864 and is one of the most prestigious educational institutions in the region.", "category": "historical", "coords": [21.5085, 47.6735], "confidence": "high", "source_hint": "wiki"}, {"name": "Folk Houses", "text": "The thatched peasant houses in Holló László Street faithfully preserve the former lifestyle and architectural traditions of the Hajduks.", "category": "historical", "coords": [21.5042, 47.6751], "confidence": "high", "source_hint": "known"}, {"name": "Greek Catholic Church", "text": "Built in 1891 in Byzantine style, this church is famous for its beautiful iconostasis and rich interior decorations.", "category": "historical", "coords": [21.512, 47.674], "confidence": "high", "source_hint": "known"}, {"name": "Sillye Gábor Cultural Center", "text": "The heart of local cultural life, hosting theatre nights, concerts, and temporary regional art exhibitions.", "category": "cultural", "confidence": "high", "coords": [21.51894, 47.670724]}, {"name": "Bocskai István Primary School", "text": "A historic school building that is a defining element of the streetscape on the edge of the town center.", "category": "historical", "confidence": "high", "coords": [21.507575, 47.672745]}, {"name": "Petőfi Sándor Cultural Center", "text": "A multi-functional building providing space for local associations, dance groups, and smaller events.", "category": "cultural", "confidence": "high", "coords": [21.512824, 47.673436]}, {"name": "Bocskai Strand- és Gyógyfürdő", "text": "Named after Prince István Bocskai, this well-known thermal and healing bath in Hajdúböszörmény invites you to a soothing break. The facility offers a highly relaxing atmosphere that encourages visitors to regenerate body and mind in the thermal pools. A visit is recommended all year round for anyone seeking deep relaxation.", "category": "family", "coords": [21.501271, 47.68313]}, {"name": "Széchenyi-halom", "text": "A historical burial mound (kurgan) near Hajdúböszörmény, considered an archaeological monument.", "category": "natural", "coords": [21.540049, 47.645415]}, {"name": "Szent István-templom", "text": "The Catholic parish church of Hajdúböszörmény, dedicated to Saint Stephen.", "category": "religious", "coords": [21.498343, 47.671234]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Rathaus",
+                  "text": "Das eklektische Gebäude am Hauptplatz wurde 1907 fertiggestellt und ist mit seiner markanten Fassade und dem prachtvollen Festsaal eines der wichtigsten Symbole der Stadt.",
+                  "category": "civic",
+                  "coords": [
+                        21.5074,
+                        47.6728
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "István-Bocskai-Gymnasium",
+                  "text": "Das Gebäude im romantischen Stil des 1621 gegründeten Instituts wurde 1864 erbaut und ist eine der renommiertesten und ältesten Bildungseinrichtungen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        21.5085,
+                        47.6735
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bauernhausmuseum",
+                  "text": "Die reetgedeckten Bauernhäuser in der Holló-László-Straße bewahren originalgetreu die einstige Lebensweise und die architektonischen Traditionen der Heiducken.",
+                  "category": "historical",
+                  "coords": [
+                        21.5042,
+                        47.6751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Griechisch-katholische Kirche",
+                  "text": "Diese im Jahr 1891 im byzantinischen Stil erbaute Kirche ist für ihre wunderschöne Ikonostase und ihre reiche Innendekoration bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        21.512,
+                        47.674
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Sillye Gábor Kulturzentrum",
+                  "text": "Das pulsierende Herz des kulturellen Lebens mit Theateraufführungen, Konzerten und regionalen Kunstausstellungen.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.51894,
+                        47.670724
+                  ]
+            },
+            {
+                  "name": "Bocskai István Grundschule",
+                  "text": "Ein markantes Schulgebäude mit reicher Geschichte, das das Stadtbild am Rande des Zentrums prägt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        21.507575,
+                        47.672745
+                  ]
+            },
+            {
+                  "name": "Petőfi Sándor Kulturzentrum",
+                  "text": "Ein multifunktionales Gebäude, das Raum für lokale Vereine, Tanzgruppen und kleinere kulturelle Events bietet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.512824,
+                        47.673436
+                  ]
+            },
+            {
+                  "name": "Bocskai Strand- és Gyógyfürdő",
+                  "text": "Benannt nach dem Fürsten István Bocskai, lädt dieses bekannte Thermal- und Heilbad in Hajdúböszörmény zu einer wohltuenden Auszeit ein. Die Anlage bietet eine sehr entspannende Atmosphäre, die Besucher dazu anregt, Körper und Geist in den Thermalbecken zu regenerieren. Ein Besuch ist das ganze Jahr über empfehlenswert für alle, die tiefe Entspannung suchen.",
+                  "category": "family",
+                  "coords": [
+                        21.501271,
+                        47.68313
+                  ]
+            },
+            {
+                  "name": "Széchenyi-halom",
+                  "text": "Ein historischer Grabhügel (Kurgan) bei Hajdúböszörmény, der als archäologisches Denkmal gilt.",
+                  "category": "natural",
+                  "coords": [
+                        21.540049,
+                        47.645415
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "Die katholische Pfarrkirche von Hajdúböszörmény, die dem heiligen Stephan geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.498343,
+                        47.671234
+                  ]
+            },
+            {
+                  "name": "Termálmedence",
+                  "text": "Ein Thermalschwimmbecken in Hajdúböszörmény, das Entspannung im warmen Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.502261,
+                        47.682935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Városháza",
+                  "text": "A főtéren álló eklektikus stílusú épület 1907-ben készült el, látványos homlokzatával és dísztermével a város egyik legfontosabb jelképe.",
+                  "category": "civic",
+                  "coords": [
+                        21.5074,
+                        47.6728
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Bocskai István Gimnázium",
+                  "text": "Az 1621-ben alapított intézmény romantikus stílusú épülete 1864-ben épült, és a térség egyik legpatinásabb oktatási intézménye.",
+                  "category": "historical",
+                  "coords": [
+                        21.5085,
+                        47.6735
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Hajdúböszörményi Tájházak",
+                  "text": "A Holló László utcában található nádfedeles parasztházak hűen őrzik a hajdúk egykori életmódját és építészeti hagyományait.",
+                  "category": "historical",
+                  "coords": [
+                        21.5042,
+                        47.6751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Görögkatolikus templom",
+                  "text": "Az 1891-ben bizánci stílusban épült templom gyönyörű ikonosztázáról és gazdag belső díszítéséről nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        21.512,
+                        47.674
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Sillye Gábor Művelődési Központ",
+                  "text": "A helyi kulturális élet központja, színházi estekkel, koncertekkel és időszaki kiállításokkal várja a látogatókat.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.51894,
+                        47.670724
+                  ]
+            },
+            {
+                  "name": "Bocskai István Általános Iskola",
+                  "text": "Múltidéző iskolaépület, amely meghatározó eleme a belváros peremén elterülő utcaképnek.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        21.507575,
+                        47.672745
+                  ]
+            },
+            {
+                  "name": "Petőfi Sándor Művelődési Központ",
+                  "text": "Többfunkciós épület, amely helyi egyesületeknek, tánccsoportoknak és kisebb rendezvényeknek biztosít helyet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.512824,
+                        47.673436
+                  ]
+            },
+            {
+                  "name": "Bocskai Strand- és Gyógyfürdő",
+                  "text": "A Bocskai István fejedelemről elnevezett híres hajdúböszörményi termál- és gyógyfürdő jótékony pihenésre hívogat. A létesítmény rendkívül nyugtató légkört biztosít, amely arra ösztönzi a látogatókat, hogy testben és lélekben egyaránt feltöltődjenek a termálmedencékben. A látogatás egész évben ajánlott mindazoknak, akik mély relaxációra vágynak.",
+                  "category": "family",
+                  "coords": [
+                        21.501271,
+                        47.68313
+                  ]
+            },
+            {
+                  "name": "Széchenyi-halom",
+                  "text": "Történelmi kunhalom Hajdúböszörmény közelében, amely régészeti műemléknek számít.",
+                  "category": "natural",
+                  "coords": [
+                        21.540049,
+                        47.645415
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "Hajdúböszörmény katolikus plébániatemploma, amelyet Szent István tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        21.498343,
+                        47.671234
+                  ]
+            },
+            {
+                  "name": "Termálmedence",
+                  "text": "Meleg vizes pihenést kínáló termálmedence Hajdúböszörményben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.502261,
+                        47.682935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Primăria",
+                  "text": "Clădirea în stil eclectic de pe piața principală a fost finalizată în 1907, fiind un simbol important al orașului cu fațada sa impresionantă.",
+                  "category": "civic",
+                  "coords": [
+                        21.5074,
+                        47.6728
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Gimnaziul István Bocskai",
+                  "text": "Clădirea în stil romantic a instituției fondate în 1621 a fost construită în 1864 și este una dintre cele mai prestigioase școli din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        21.5085,
+                        47.6735
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Casele țărănești",
+                  "text": "Casele țărănești cu acoperiș de stuf de pe strada Holló László păstrează fidel modul de viață și tradițiile arhitecturale ale haiducilor.",
+                  "category": "historical",
+                  "coords": [
+                        21.5042,
+                        47.6751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Biserica greco-catolică",
+                  "text": "Această biserică construită în 1891 în stil bizantin este renumită pentru iconostasul său frumos și decorațiunile interioare bogate.",
+                  "category": "historical",
+                  "coords": [
+                        21.512,
+                        47.674
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Centrul Cultural Sillye Gábor",
+                  "text": "Inima vieții culturale locale, oferind spectacole de teatru, concerte și expoziții de artă regională.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.51894,
+                        47.670724
+                  ]
+            },
+            {
+                  "name": "Școala Generală Bocskai István",
+                  "text": "O clădire școlară istorică ce marchează peisajul urban de la marginea centrului orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        21.507575,
+                        47.672745
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Petőfi Sándor",
+                  "text": "O clădire multifuncțională care oferă spațiu pentru asociații locale, grupuri de dans și evenimente mici.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.512824,
+                        47.673436
+                  ]
+            },
+            {
+                  "name": "Bocskai Strand- és Gyógyfürdő",
+                  "text": "Numite după principele István Bocskai, aceste cunoscute băi termale și curative din Hajdúböszörmény vă invită la o pauză relaxantă. Complexul oferă o atmosferă deosebit de liniștitoare, care încurajează vizitatorii să își regenereze corpul și mintea în bazinele termale. O vizită este recomandată pe tot parcursul anului pentru oricine caută o relaxare profundă.",
+                  "category": "family",
+                  "coords": [
+                        21.501271,
+                        47.68313
+                  ]
+            },
+            {
+                  "name": "Széchenyi-halom",
+                  "text": "Un tumul istoric (kurgan) lângă Hajdúböszörmény, considerat monument arheologic.",
+                  "category": "natural",
+                  "coords": [
+                        21.540049,
+                        47.645415
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "Biserica parohială catolică din Hajdúböszörmény, sfințită în cinstea Sfântului Ștefan.",
+                  "category": "religious",
+                  "coords": [
+                        21.498343,
+                        47.671234
+                  ]
+            },
+            {
+                  "name": "Termálmedence",
+                  "text": "O piscină termală în Hajdúböszörmény care oferă relaxare în apă caldă.",
+                  "category": "recreational",
+                  "coords": [
+                        21.502261,
+                        47.682935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Town Hall",
+                  "text": "The eclectic-style building on the main square was completed in 1907 and is one of the city's most important symbols with its striking facade.",
+                  "category": "civic",
+                  "coords": [
+                        21.5074,
+                        47.6728
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "István Bocskai Gymnasium",
+                  "text": "The Romantic-style building of the institution, founded in 1621, was built in 1864 and is one of the most prestigious educational institutions in the region.",
+                  "category": "historical",
+                  "coords": [
+                        21.5085,
+                        47.6735
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Folk Houses",
+                  "text": "The thatched peasant houses in Holló László Street faithfully preserve the former lifestyle and architectural traditions of the Hajduks.",
+                  "category": "historical",
+                  "coords": [
+                        21.5042,
+                        47.6751
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Greek Catholic Church",
+                  "text": "Built in 1891 in Byzantine style, this church is famous for its beautiful iconostasis and rich interior decorations.",
+                  "category": "historical",
+                  "coords": [
+                        21.512,
+                        47.674
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Sillye Gábor Cultural Center",
+                  "text": "The heart of local cultural life, hosting theatre nights, concerts, and temporary regional art exhibitions.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.51894,
+                        47.670724
+                  ]
+            },
+            {
+                  "name": "Bocskai István Primary School",
+                  "text": "A historic school building that is a defining element of the streetscape on the edge of the town center.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        21.507575,
+                        47.672745
+                  ]
+            },
+            {
+                  "name": "Petőfi Sándor Cultural Center",
+                  "text": "A multi-functional building providing space for local associations, dance groups, and smaller events.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        21.512824,
+                        47.673436
+                  ]
+            },
+            {
+                  "name": "Bocskai Strand- és Gyógyfürdő",
+                  "text": "Named after Prince István Bocskai, this well-known thermal and healing bath in Hajdúböszörmény invites you to a soothing break. The facility offers a highly relaxing atmosphere that encourages visitors to regenerate body and mind in the thermal pools. A visit is recommended all year round for anyone seeking deep relaxation.",
+                  "category": "family",
+                  "coords": [
+                        21.501271,
+                        47.68313
+                  ]
+            },
+            {
+                  "name": "Széchenyi-halom",
+                  "text": "A historical burial mound (kurgan) near Hajdúböszörmény, considered an archaeological monument.",
+                  "category": "natural",
+                  "coords": [
+                        21.540049,
+                        47.645415
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "The Catholic parish church of Hajdúböszörmény, dedicated to Saint Stephen.",
+                  "category": "religious",
+                  "coords": [
+                        21.498343,
+                        47.671234
+                  ]
+            },
+            {
+                  "name": "Termálmedence",
+                  "text": "A thermal swimming pool in Hajdúböszörmény offering relaxation in warm water.",
+                  "category": "recreational",
+                  "coords": [
+                        21.502261,
+                        47.682935
+                  ]
+            }
+      ]
+}
   },
   {
     id: "berettyoujfalu", population: 15411,
@@ -67074,6 +72573,15 @@ export const hungaryCities: POI[] = [
                         18.134058,
                         47.756851
                   ]
+            },
+            {
+                  "name": "WF - Szabadidőpark",
+                  "text": "Ein Freizeit- und Wasserpark in Komárom mit verschiedenen Outdoor-Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.146175,
+                        47.723565
+                  ]
             }
       ],
       "hu": [
@@ -67409,6 +72917,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.134058,
                         47.756851
+                  ]
+            },
+            {
+                  "name": "WF - Szabadidőpark",
+                  "text": "Komáromi szabadidőpark és vízi park különféle szabadtéri programokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        18.146175,
+                        47.723565
                   ]
             }
       ],
@@ -67746,6 +73263,15 @@ export const hungaryCities: POI[] = [
                         18.134058,
                         47.756851
                   ]
+            },
+            {
+                  "name": "WF - Szabadidőpark",
+                  "text": "Un parc de agrement și parc acvatic în Komárom, cu diverse activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        18.146175,
+                        47.723565
+                  ]
             }
       ],
       "en": [
@@ -68081,6 +73607,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.134058,
                         47.756851
+                  ]
+            },
+            {
+                  "name": "WF - Szabadidőpark",
+                  "text": "A leisure park and water park in Komárom with various outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.146175,
+                        47.723565
                   ]
             }
       ]
@@ -70883,7 +76418,824 @@ export const hungaryCities: POI[] = [
       pt: ["Balatonlelle possui uma das poucas praias de areia reais no lago Balaton.", "A festa do vinho anual em agosto é um destaque na margem sul.", "De Kishegy olha-se diretamente para o maciço de Badacsony oposto.", "O local abriga um conhecido parque de circo e diversões."],
       fr: ["Balatonlelle possède l'une des rares véritables plages de sable du lac Balaton.", "La fête annuelle du vin en août est un moment fort de la rive sud.", "Depuis le mont Kishegy, la vue porte directement sur le massif du Badacsony en face.", "La ville abrite un célèbre cirque et un parc d'attractions."],
     },
-    "sights": {"de": [{"name": "Jankovich-Kúria", "text": "Dieses spätbarocke, klassizistisch umgebaute Herrenhaus aus dem 18. Jahrhundert war einst das Zentrum des Jankovich-Besitzes. Heute beherbergt das markante Gebäude im Stadtzentrum eine Schule und ist ein wichtiges lokales Denkmal.", "category": "historical", "coords": [17.6958, 46.7865], "confidence": "high", "source_hint": "wiki"}, {"name": "Szentháromság-Kirche", "text": "Die nach Plänen von Bertalan Árkay im Jahr 1943 fertiggestellte römisch-katholische Kirche ist ein bedeutendes Beispiel der modernen ungarischen Sakralarchitektur. Sie ist bekannt für ihre klaren Linien und ihre harmonische Integration in das Stadtbild.", "category": "historical", "coords": [17.6972, 46.7842], "confidence": "high", "source_hint": "wiki"}, {"name": "Kapoli Múzeum", "text": "Das in einem traditionellen Bauernhaus untergebrachte Museum ist dem Werk der berühmten Schnitzkünstlerfamilie Kapoli gewidmet. Neben der ständigen Ausstellung zur Volkskunst finden hier regelmäßig zeitgenössische Kunstausstellungen statt.", "category": "historical", "coords": [17.6965, 46.7858], "confidence": "high", "source_hint": "known"}, {"name": "Balatonlellei Óriáskerék", "text": "Das imposante Riesenrad am Ufer des Balatons bietet einen weitreichenden Blick über den See und die umliegenden Weinberge. Es ist eine der Hauptattraktionen im Hafenbereich während der sommerlichen Urlaubssaison.", "category": "recreational", "coords": [17.7088, 46.7886], "confidence": "high", "source_hint": "known"}, {"name": "Strand Napfény und Erlebnisbad", "text": "Einer der beliebtesten Strände am Südufer des Balaton mit einem flachen Sandstrand, der ideal für Kinder ist. Das Gelände umfasst auch ein beheiztes Erlebnisbecken mit Rutschen.", "category": "recreational", "confidence": "high", "source_hint": "wiki", "coords": [17.696164, 46.790807]}, {"name": "Schloss Szalay", "text": "Das klassizistische Herrenhaus aus dem 19. Jahrhundert beherbergt heute ein Kulturzentrum und eine Bibliothek. In seinem Park finden im Sommer oft Ausstellungen und Konzerte statt.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.695967, 46.785817]}, {"name": "BL Yachtclub", "text": "Eine exklusive Anlage am Seeufer mit eigenem Strand, Pool und Hafen, die Sport- und Freizeitmöglichkeiten bietet.", "category": "recreational", "confidence": "high", "coords": [17.70802, 46.79329]}, {"name": "Vidámpark Balatonlelle", "text": "Ein saisonaler Vergnügungspark in Balatonlelle mit verschiedenen Fahrgeschäften.", "category": "family", "coords": [17.677869, 46.782401]}, {"name": "Bobpálya", "text": "Eine Sommerrodelbahn in Balatonlelle, die Freizeitspaß für die ganze Familie bietet.", "category": "family", "coords": [17.66148, 46.779361]}, {"name": "Hullám utcai szabadstrand", "text": "Ein freier Strand am Plattensee in der Hullám-Straße von Balatonlelle.", "category": "family", "coords": [17.704574, 46.792984]}, {"name": "Magyar Nemzeti Cirkusz", "text": "Der dauerhafte Sommerstandort des Ungarischen Nationalzirkus in Balatonlelle.", "category": "cultural", "coords": [17.679614, 46.782692]}, {"name": "Gamási kút", "text": "Ein bekannter historischer Brunnen oder eine Sehenswürdigkeit in Balatonlelle.", "category": "landmark", "coords": [17.69734, 46.756938]}, {"name": "Csöpi közi strand", "text": "An den malerischen Ufern des Plattensees verbirgt sich der Csöpi közi strand als ein besonders gemütlicher Küstenabschnitt in Balatonlelle. Die ruhige Stimmung vor Ort zieht Gäste an, die abseits der großen Strände baden und ungestört die Sonne genießen möchten. Für einen friedlichen Nachmittag am Wasser ist dieser Ort ein absoluter Geheimtipp.", "category": "recreational", "coords": [17.715523, 46.795103]}, {"name": "Határ utcai szabadstrand", "text": "Ein öffentlicher, kostenloser Strand am Rande von Balatonlelle.", "category": "recreational", "coords": [17.725309, 46.79685]}, {"name": "Szirom közi strand", "text": "Dieser kleinere öffentliche Strand in Balatonlelle besticht durch seinen intimen Charakter und die entspannte Nähe zum schimmernden Wasser. Mit seiner beruhigenden Atmosphäre bietet der Ort die perfekte Umgebung für ausgiebige Lesestunden, Sonnenbäder und erfrischendes Schwimmen. Ein Besuch eignet sich hervorragend für Reisende, die eine kleine Pause vom Trubel suchen.", "category": "recreational", "coords": [17.718919, 46.795848]}, {"name": "Kodály Strand", "text": "Zu Ehren des berühmten Komponisten Zoltán Kodály benannt, ist dieser Strand ein überaus beliebtes Ziel für Badegäste in Balatonlelle. Die lebhafte und freundliche Umgebung am See schafft eine ideale Basis für ausgedehnte Schwimmausflüge und fröhliche Momente am Strand. Um einen guten Liegeplatz zu finden, ist eine frühe Anreise an sonnigen Tagen sehr ratsam.", "category": "recreational", "coords": [17.661111, 46.783446]}, {"name": "Füzes-tó", "text": "Füzes-tó ist ein See in Balatonlelle, perfekt für entspannte Momente in der Natur.", "category": "natural", "coords": [17.738522, 46.748169]}, {"name": "Plattensee", "text": "Lake Balaton ist ein bekannter See in Balatonlelle, beliebt zum Schwimmen und für Spaziergänge.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Halastavak", "text": "Halastavak sind Seen in Balatonlelle, die schöne Möglichkeiten zur Naturbeobachtung bieten.", "category": "natural", "coords": [17.732799, 46.779202]}, {"name": "Bugaszegi-horgásztó", "text": "Bugaszegi-horgásztó ist ein See in Balatonlelle, der sich für erholsame Spaziergänge am Ufer anbietet.", "category": "natural", "coords": [17.655225, 46.752176]}], "hu": [{"name": "Jankovich-kúria", "text": "A 18. századi késő barokk, később klasszicista stílusban átalakított nemesi kúria egykor a Jankovich család birtokközpontja volt. A városközpontban álló jellegzetes épület ma iskolának ad otthont, és helyi műemléki védelem alatt áll.", "category": "historical", "coords": [17.6958, 46.7865], "confidence": "high", "source_hint": "wiki"}, {"name": "Szentháromság-templom", "text": "Az Árkay Bertalan tervei alapján 1943-ban felszentelt római katolikus templom a modern magyar szakrális építészet egyik kiemelkedő alkotása. Letisztult formavilága és tágas belső tere miatt a város egyik legfontosabb szellemi központja.", "category": "historical", "coords": [17.6972, 46.7842], "confidence": "high", "source_hint": "wiki"}, {"name": "Kapoli Múzeum", "text": "A nádfedeles parasztházban berendezett múzeum a neves pásztorfaragó család, az idősebb és ifjabb Kapoli Antal munkásságát mutatja be. A népművészeti tárlat mellett a galéria rendszeresen ad helyet kortárs képzőművészeti kiállításoknak is.", "category": "historical", "coords": [17.6965, 46.7858], "confidence": "high", "source_hint": "known"}, {"name": "Balatonlellei Óriáskerék", "text": "A Balaton-parton, a móló közelében felállított hatalmas óriáskerék egyedülálló panorámát kínál a tóra és a környék domborulatára. Esti kivilágítása meghatározó látványa a lellei éjszakai életnek a nyári szezonban.", "category": "recreational", "coords": [17.7088, 46.7886], "confidence": "high", "source_hint": "known"}, {"name": "Napfény strand és Élményfürdő", "text": "A Balaton déli partjának egyik legnépszerűbb strandja, amely homokos partjával a tengerparti hangulatot idézi. A strand mellett fűtött vizes élménymedencék és csúszdák várják a családokat.", "category": "recreational", "confidence": "high", "source_hint": "wiki", "coords": [17.696164, 46.790807]}, {"name": "Szalay-kastély", "text": "A klasszicista stílusú épület Balatonlelle kulturális központja, amely kiállításoknak és koncerteknek ad otthont. A kastély parkjában hatalmas fák alatt pihenhetnek a látogatók.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.695967, 46.785817]}, {"name": "BL Yachtclub", "text": "A vízparti komplexum vitorláskikötővel, saját stranddal és étteremmel várja a vízi sportok és a pihenés kedvelőit.", "category": "recreational", "confidence": "high", "coords": [17.70802, 46.79329]}, {"name": "Vidámpark Balatonlelle", "text": "Szezonálisan üzemelő vidámpark Balatonlellén, különféle játékokkal és attrakciókkal.", "category": "family", "coords": [17.677869, 46.782401]}, {"name": "Bobpálya", "text": "Balatonlellei bobpálya, amely kikapcsolódást nyújt az egész család számára.", "category": "family", "coords": [17.66148, 46.779361]}, {"name": "Hullám utcai szabadstrand", "text": "Ingyenesen használható balatoni szabadstrand a lellei Hullám utcában.", "category": "family", "coords": [17.704574, 46.792984]}, {"name": "Magyar Nemzeti Cirkusz", "text": "A Magyar Nemzeti Cirkusz állandó nyári állomáshelye Balatonlellén.", "category": "cultural", "coords": [17.679614, 46.782692]}, {"name": "Gamási kút", "text": "Ismert történelmi kút vagy látnivaló Balatonlellén.", "category": "landmark", "coords": [17.69734, 46.756938]}, {"name": "Csöpi közi strand", "text": "A Balaton festői partjainál bújik meg a Csöpi közi strand, amely egy különösen hangulatos partszakasz Balatonlellén. A helyi békés hangulat olyan vendégeket vonz, akik a nagy strandoktól távol szeretnének fürdőzni és zavartalanul élvezni a napsütést. Egy nyugodt vízparti délután eltöltéséhez ez a helyszín igazi titkos tipp.", "category": "recreational", "coords": [17.715523, 46.795103]}, {"name": "Határ utcai szabadstrand", "text": "Ingyenes szabadstrand Balatonlelle szélén, a Határ utcában.", "category": "recreational", "coords": [17.725309, 46.79685]}, {"name": "Szirom közi strand", "text": "Ez a kisebb balatonlellei nyilvános strand meghitt jellegével és a csillogó vízhez való pihentető közelségével hódít. Megnyugtató légkörével a helyszín tökéletes környezetet kínál a hosszas olvasáshoz, napozáshoz és a frissítő úszáshoz. A látogatás kiválóan alkalmas azon utazók számára, akik egy kis szünetre vágynak a nyüzsgésből.", "category": "recreational", "coords": [17.718919, 46.795848]}, {"name": "Kodály Strand", "text": "A híres zeneszerző, Kodály Zoltán tiszteletére elnevezett strand rendkívül népszerű úti cél a balatonlellei fürdőzők körében. Az élénk és barátságos tóparti környezet ideális alapot teremt a hosszas úszásokhoz és a vidám vízparti pillanatokhoz. Egy jó fekvőhely biztosítása érdekében napsütéses napokon nagyon ajánlott a korai érkezés.", "category": "recreational", "coords": [17.661111, 46.783446]}, {"name": "Füzes-tó", "text": "A Füzes-tó egy tó Balatonlelle területén, tökéletes a természetben töltött pihentető pillanatokhoz.", "category": "natural", "coords": [17.738522, 46.748169]}, {"name": "Balaton", "text": "A Balaton egy ismert tó Balatonlelle mellett, amely kedvelt fürdő- és kirándulóhely.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Halastavak", "text": "A Halastavak Balatonlelle tavai, amelyek nagyszerű lehetőséget kínálnak a természet megfigyelésére.", "category": "natural", "coords": [17.732799, 46.779202]}, {"name": "Bugaszegi-horgásztó", "text": "A Bugaszegi-horgásztó egy tó Balatonlelle területén, amely kiválóan alkalmas pihentető parti sétákra.", "category": "natural", "coords": [17.655225, 46.752176]}], "ro": [{"name": "Conacul Jankovich", "text": "Acest conac nobiliar construit în secolul al XVIII-lea în stil baroc târziu și transformat ulterior în stil neoclasic a fost centrul domeniului familiei Jankovich. Clădirea distinctivă din centrul orașului găzduiește astăzi o școală.", "category": "historical", "coords": [17.6958, 46.7865], "confidence": "high", "source_hint": "wiki"}, {"name": "Biserica Sfânta Treime", "text": "Finalizată în 1943 după planurile lui Bertalan Árkay, această biserică romano-catolică este un exemplu remarcabil de arhitectură sacră maghiară modernă. Este cunoscută pentru liniile sale curate și integrarea armonioasă în peisajul urban.", "category": "historical", "coords": [17.6972, 46.7842], "confidence": "high", "source_hint": "wiki"}, {"name": "Muzeul Kapoli", "text": "Găzduit într-o casă tradițională țărănească, muzeul este dedicat operei celebrei familii de sculptori populari Kapoli. Pe lângă expoziția permanentă de artă populară, galeria găzduiește regulat expoziții de artă contemporană.", "category": "historical", "coords": [17.6965, 46.7858], "confidence": "high", "source_hint": "known"}, {"name": "Roata panoramică din Balatonlelle", "text": "Roata panoramică impunătoare de pe malul lacului Balaton oferă o vedere extinsă asupra apei și a podgoriilor din jur. Este una dintre atracțiile principale din zona portului în timpul sezonului estival.", "category": "recreational", "coords": [17.7088, 46.7886], "confidence": "high", "source_hint": "known"}, {"name": "Plaja Napfény și Parcul Acvatic", "text": "Una dintre cele mai faimoase plaje de pe malul sudic al Balatonului, renumită pentru porțiunea sa cu nisip fin, ideală pentru familii. Complexul include și bazine cu apă încălzită și facilități de wellness.", "category": "recreational", "confidence": "high", "source_hint": "wiki", "coords": [17.696164, 46.790807]}, {"name": "Castelul Szalay", "text": "Un edificiu clasicist elegant care servește drept centru cultural și muzeu local. În grădina castelului se organizează frecvent târguri de artizanat și evenimente culturale pe parcursul verii.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.695967, 46.785817]}, {"name": "BL Yachtclub", "text": "Un complex exclusivist la malul lacului, oferind facilități pentru sporturi nautice, o plajă privată și un restaurant.", "category": "recreational", "confidence": "high", "coords": [17.70802, 46.79329]}, {"name": "Vidámpark Balatonlelle", "text": "Un parc de distracții sezonier în Balatonlelle, cu diverse atracții.", "category": "family", "coords": [17.677869, 46.782401]}, {"name": "Bobpálya", "text": "O pistă de bob de vară în Balatonlelle, care oferă distracție pentru întreaga familie.", "category": "family", "coords": [17.66148, 46.779361]}, {"name": "Hullám utcai szabadstrand", "text": "O plajă liberă la Lacul Balaton, situată pe strada Hullám din Balatonlelle.", "category": "family", "coords": [17.704574, 46.792984]}, {"name": "Magyar Nemzeti Cirkusz", "text": "Locația permanentă de vară a Circului Național Maghiar în Balatonlelle.", "category": "cultural", "coords": [17.679614, 46.782692]}, {"name": "Gamási kút", "text": "O fântână istorică cunoscută sau un punct de interes în Balatonlelle.", "category": "landmark", "coords": [17.69734, 46.756938]}, {"name": "Csöpi közi strand", "text": "Ascunsă pe malurile pitorești ale lacului Balaton, plaja Csöpi közi este o porțiune de coastă deosebit de primitoare din Balatonlelle. Atmosfera liniștită a locului atrage oaspeții care doresc să înoate departe de plajele mari și să se bucure de soare netulburați. Pentru o după-amiază pașnică pe malul apei, acest loc este o recomandare absolut secretă.", "category": "recreational", "coords": [17.715523, 46.795103]}, {"name": "Határ utcai szabadstrand", "text": "O plajă publică gratuită la marginea orașului Balatonlelle.", "category": "recreational", "coords": [17.725309, 46.79685]}, {"name": "Szirom közi strand", "text": "Această plajă publică mai mică din Balatonlelle captivează prin caracterul său intim și prin proximitatea relaxantă față de apa strălucitoare. Cu atmosfera sa liniștitoare, locația oferă cadrul perfect pentru ore lungi de lectură, băi de soare și înot revigorant. O vizită este minunat de potrivită pentru călătorii care caută o mică pauză de la agitația zilnică.", "category": "recreational", "coords": [17.718919, 46.795848]}, {"name": "Kodály Strand", "text": "Numită în onoarea celebrului compozitor Zoltán Kodály, această plajă este o destinație foarte populară pentru scăldătorii din Balatonlelle. Împrejurimile pline de viață și prietenoase de la malul lacului creează o bază ideală pentru excursii prelungite de înot și momente vesele pe plajă. Pentru a găsi un loc bun, este foarte recomandat să ajungeți devreme în zilele însorite.", "category": "recreational", "coords": [17.661111, 46.783446]}, {"name": "Füzes-tó", "text": "Füzes-tó este un lac în Balatonlelle, perfect pentru momente de relaxare în natură.", "category": "natural", "coords": [17.738522, 46.748169]}, {"name": "Lacul Balaton", "text": "Lake Balaton este un lac renumit în Balatonlelle, popular pentru înot și plimbări.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Halastavak", "text": "Halastavak sunt lacuri în Balatonlelle, care oferă oportunități frumoase de observare a naturii.", "category": "natural", "coords": [17.732799, 46.779202]}, {"name": "Bugaszegi-horgásztó", "text": "Bugaszegi-horgásztó este un lac în Balatonlelle, potrivit pentru plimbări relaxante pe mal.", "category": "natural", "coords": [17.655225, 46.752176]}], "en": [{"name": "Jankovich Manor", "text": "This 18th-century late Baroque manor house, later remodeled in neoclassical style, was once the center of the Jankovich estate. Today, the prominent building in the town center houses a school and is a protected local monument.", "category": "historical", "coords": [17.6958, 46.7865], "confidence": "high", "source_hint": "wiki"}, {"name": "Holy Trinity Church", "text": "Completed in 1943 based on the designs of Bertalan Árkay, this Roman Catholic church is an outstanding example of modern Hungarian sacred architecture. It is noted for its clean lines and spiritual atmosphere.", "category": "historical", "coords": [17.6972, 46.7842], "confidence": "high", "source_hint": "wiki"}, {"name": "Kapoli Museum", "text": "Located in a traditional thatched-roof farmhouse, this museum is dedicated to the work of the famous Kapoli woodcarving family. Beside the folk art collection, the gallery regularly hosts contemporary art exhibitions.", "category": "historical", "coords": [17.6965, 46.7858], "confidence": "high", "source_hint": "known"}, {"name": "Balatonlelle Ferris Wheel", "text": "The massive Ferris wheel set near the pier offers unique panoramic views over Lake Balaton and the nearby hills. Its evening illumination is a defining feature of Balatonlelle's summer nightscape.", "category": "recreational", "coords": [17.7088, 46.7886], "confidence": "high", "source_hint": "known"}, {"name": "Napfény Beach and Adventure Bath", "text": "A popular sandy beach on the southern shore of Lake Balaton, offering a Mediterranean atmosphere and shallow waters for kids. The facility also features a heated pool area with slides and waterfalls.", "category": "recreational", "confidence": "high", "source_hint": "wiki", "coords": [17.696164, 46.790807]}, {"name": "Szalay Mansion", "text": "A Classicist building that serves as the town's cultural hub, housing a library and temporary exhibitions. Its park is a frequent venue for summer concerts and outdoor events.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.695967, 46.785817]}, {"name": "BL Yachtclub", "text": "A waterfront complex with a private marina, beach, and wellness facilities, perfect for nautical sports and relaxation.", "category": "recreational", "confidence": "high", "coords": [17.70802, 46.79329]}, {"name": "Vidámpark Balatonlelle", "text": "A seasonal amusement park in Balatonlelle featuring various rides and attractions.", "category": "family", "coords": [17.677869, 46.782401]}, {"name": "Bobpálya", "text": "A summer bobsleigh track in Balatonlelle providing fun for the whole family.", "category": "family", "coords": [17.66148, 46.779361]}, {"name": "Hullám utcai szabadstrand", "text": "A free public beach on Lake Balaton located in Hullám Street, Balatonlelle.", "category": "family", "coords": [17.704574, 46.792984]}, {"name": "Magyar Nemzeti Cirkusz", "text": "The permanent summer location of the Hungarian National Circus in Balatonlelle.", "category": "cultural", "coords": [17.679614, 46.782692]}, {"name": "Gamási kút", "text": "A well-known historical well or attraction in Balatonlelle.", "category": "landmark", "coords": [17.69734, 46.756938]}, {"name": "Csöpi közi strand", "text": "Hidden on the picturesque shores of Lake Balaton, Csöpi közi strand is a particularly cozy stretch of coast in Balatonlelle. The peaceful mood on site attracts guests who want to swim away from the large beaches and enjoy the sun undisturbed. For a peaceful afternoon by the water, this spot is an absolute insider tip.", "category": "recreational", "coords": [17.715523, 46.795103]}, {"name": "Határ utcai szabadstrand", "text": "A public free beach on the edge of Balatonlelle.", "category": "recreational", "coords": [17.725309, 46.79685]}, {"name": "Szirom közi strand", "text": "This smaller public beach in Balatonlelle captivates with its intimate character and relaxed proximity to the shimmering water. With its calming atmosphere, the location offers the perfect setting for extensive reading hours, sunbathing, and refreshing swimming. A visit is wonderfully suited for travelers looking for a short break from the hustle and bustle.", "category": "recreational", "coords": [17.718919, 46.795848]}, {"name": "Kodály Strand", "text": "Named in honor of the famous composer Zoltán Kodály, this beach is a highly popular destination for bathers in Balatonlelle. The lively and friendly surroundings by the lake create an ideal base for extended swimming trips and cheerful moments on the beach. To find a good spot, arriving early on sunny days is highly advisable.", "category": "recreational", "coords": [17.661111, 46.783446]}, {"name": "Füzes-tó", "text": "Füzes-tó is a lake in Balatonlelle, perfect for relaxing moments in nature.", "category": "natural", "coords": [17.738522, 46.748169]}, {"name": "Lake Balaton", "text": "Lake Balaton is a well-known lake in Balatonlelle, popular for swimming and walking.", "category": "natural", "coords": [17.705925, 46.88396]}, {"name": "Halastavak", "text": "Halastavak are lakes in Balatonlelle, offering beautiful opportunities for nature observation.", "category": "natural", "coords": [17.732799, 46.779202]}, {"name": "Bugaszegi-horgásztó", "text": "Bugaszegi-horgásztó is a lake in Balatonlelle, suitable for relaxing walks along the shore.", "category": "natural", "coords": [17.655225, 46.752176]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Jankovich-Kúria",
+                  "text": "Dieses spätbarocke, klassizistisch umgebaute Herrenhaus aus dem 18. Jahrhundert war einst das Zentrum des Jankovich-Besitzes. Heute beherbergt das markante Gebäude im Stadtzentrum eine Schule und ist ein wichtiges lokales Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        17.6958,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentháromság-Kirche",
+                  "text": "Die nach Plänen von Bertalan Árkay im Jahr 1943 fertiggestellte römisch-katholische Kirche ist ein bedeutendes Beispiel der modernen ungarischen Sakralarchitektur. Sie ist bekannt für ihre klaren Linien und ihre harmonische Integration in das Stadtbild.",
+                  "category": "historical",
+                  "coords": [
+                        17.6972,
+                        46.7842
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kapoli Múzeum",
+                  "text": "Das in einem traditionellen Bauernhaus untergebrachte Museum ist dem Werk der berühmten Schnitzkünstlerfamilie Kapoli gewidmet. Neben der ständigen Ausstellung zur Volkskunst finden hier regelmäßig zeitgenössische Kunstausstellungen statt.",
+                  "category": "historical",
+                  "coords": [
+                        17.6965,
+                        46.7858
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Balatonlellei Óriáskerék",
+                  "text": "Das imposante Riesenrad am Ufer des Balatons bietet einen weitreichenden Blick über den See und die umliegenden Weinberge. Es ist eine der Hauptattraktionen im Hafenbereich während der sommerlichen Urlaubssaison.",
+                  "category": "recreational",
+                  "coords": [
+                        17.7088,
+                        46.7886
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Strand Napfény und Erlebnisbad",
+                  "text": "Einer der beliebtesten Strände am Südufer des Balaton mit einem flachen Sandstrand, der ideal für Kinder ist. Das Gelände umfasst auch ein beheiztes Erlebnisbecken mit Rutschen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.696164,
+                        46.790807
+                  ]
+            },
+            {
+                  "name": "Schloss Szalay",
+                  "text": "Das klassizistische Herrenhaus aus dem 19. Jahrhundert beherbergt heute ein Kulturzentrum und eine Bibliothek. In seinem Park finden im Sommer oft Ausstellungen und Konzerte statt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.695967,
+                        46.785817
+                  ]
+            },
+            {
+                  "name": "BL Yachtclub",
+                  "text": "Eine exklusive Anlage am Seeufer mit eigenem Strand, Pool und Hafen, die Sport- und Freizeitmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.70802,
+                        46.79329
+                  ]
+            },
+            {
+                  "name": "Vidámpark Balatonlelle",
+                  "text": "Ein saisonaler Vergnügungspark in Balatonlelle mit verschiedenen Fahrgeschäften.",
+                  "category": "family",
+                  "coords": [
+                        17.677869,
+                        46.782401
+                  ]
+            },
+            {
+                  "name": "Bobpálya",
+                  "text": "Eine Sommerrodelbahn in Balatonlelle, die Freizeitspaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.66148,
+                        46.779361
+                  ]
+            },
+            {
+                  "name": "Hullám utcai szabadstrand",
+                  "text": "Ein freier Strand am Plattensee in der Hullám-Straße von Balatonlelle.",
+                  "category": "family",
+                  "coords": [
+                        17.704574,
+                        46.792984
+                  ]
+            },
+            {
+                  "name": "Magyar Nemzeti Cirkusz",
+                  "text": "Der dauerhafte Sommerstandort des Ungarischen Nationalzirkus in Balatonlelle.",
+                  "category": "cultural",
+                  "coords": [
+                        17.679614,
+                        46.782692
+                  ]
+            },
+            {
+                  "name": "Gamási kút",
+                  "text": "Ein bekannter historischer Brunnen oder eine Sehenswürdigkeit in Balatonlelle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.69734,
+                        46.756938
+                  ]
+            },
+            {
+                  "name": "Csöpi közi strand",
+                  "text": "An den malerischen Ufern des Plattensees verbirgt sich der Csöpi közi strand als ein besonders gemütlicher Küstenabschnitt in Balatonlelle. Die ruhige Stimmung vor Ort zieht Gäste an, die abseits der großen Strände baden und ungestört die Sonne genießen möchten. Für einen friedlichen Nachmittag am Wasser ist dieser Ort ein absoluter Geheimtipp.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715523,
+                        46.795103
+                  ]
+            },
+            {
+                  "name": "Határ utcai szabadstrand",
+                  "text": "Ein öffentlicher, kostenloser Strand am Rande von Balatonlelle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.725309,
+                        46.79685
+                  ]
+            },
+            {
+                  "name": "Szirom közi strand",
+                  "text": "Dieser kleinere öffentliche Strand in Balatonlelle besticht durch seinen intimen Charakter und die entspannte Nähe zum schimmernden Wasser. Mit seiner beruhigenden Atmosphäre bietet der Ort die perfekte Umgebung für ausgiebige Lesestunden, Sonnenbäder und erfrischendes Schwimmen. Ein Besuch eignet sich hervorragend für Reisende, die eine kleine Pause vom Trubel suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.718919,
+                        46.795848
+                  ]
+            },
+            {
+                  "name": "Kodály Strand",
+                  "text": "Zu Ehren des berühmten Komponisten Zoltán Kodály benannt, ist dieser Strand ein überaus beliebtes Ziel für Badegäste in Balatonlelle. Die lebhafte und freundliche Umgebung am See schafft eine ideale Basis für ausgedehnte Schwimmausflüge und fröhliche Momente am Strand. Um einen guten Liegeplatz zu finden, ist eine frühe Anreise an sonnigen Tagen sehr ratsam.",
+                  "category": "recreational",
+                  "coords": [
+                        17.661111,
+                        46.783446
+                  ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "Füzes-tó ist ein See in Balatonlelle, perfekt für entspannte Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Plattensee",
+                  "text": "Lake Balaton ist ein bekannter See in Balatonlelle, beliebt zum Schwimmen und für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "Halastavak sind Seen in Balatonlelle, die schöne Möglichkeiten zur Naturbeobachtung bieten.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó ist ein See in Balatonlelle, der sich für erholsame Spaziergänge am Ufer anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
+            },
+            {
+                  "name": "Hullám strand",
+                  "text": "Ein Strandbad in Balatonlelle mit Wellenbecken und Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742672,
+                        46.801996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jankovich-kúria",
+                  "text": "A 18. századi késő barokk, később klasszicista stílusban átalakított nemesi kúria egykor a Jankovich család birtokközpontja volt. A városközpontban álló jellegzetes épület ma iskolának ad otthont, és helyi műemléki védelem alatt áll.",
+                  "category": "historical",
+                  "coords": [
+                        17.6958,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Az Árkay Bertalan tervei alapján 1943-ban felszentelt római katolikus templom a modern magyar szakrális építészet egyik kiemelkedő alkotása. Letisztult formavilága és tágas belső tere miatt a város egyik legfontosabb szellemi központja.",
+                  "category": "historical",
+                  "coords": [
+                        17.6972,
+                        46.7842
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kapoli Múzeum",
+                  "text": "A nádfedeles parasztházban berendezett múzeum a neves pásztorfaragó család, az idősebb és ifjabb Kapoli Antal munkásságát mutatja be. A népművészeti tárlat mellett a galéria rendszeresen ad helyet kortárs képzőművészeti kiállításoknak is.",
+                  "category": "historical",
+                  "coords": [
+                        17.6965,
+                        46.7858
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Balatonlellei Óriáskerék",
+                  "text": "A Balaton-parton, a móló közelében felállított hatalmas óriáskerék egyedülálló panorámát kínál a tóra és a környék domborulatára. Esti kivilágítása meghatározó látványa a lellei éjszakai életnek a nyári szezonban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.7088,
+                        46.7886
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Napfény strand és Élményfürdő",
+                  "text": "A Balaton déli partjának egyik legnépszerűbb strandja, amely homokos partjával a tengerparti hangulatot idézi. A strand mellett fűtött vizes élménymedencék és csúszdák várják a családokat.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.696164,
+                        46.790807
+                  ]
+            },
+            {
+                  "name": "Szalay-kastély",
+                  "text": "A klasszicista stílusú épület Balatonlelle kulturális központja, amely kiállításoknak és koncerteknek ad otthont. A kastély parkjában hatalmas fák alatt pihenhetnek a látogatók.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.695967,
+                        46.785817
+                  ]
+            },
+            {
+                  "name": "BL Yachtclub",
+                  "text": "A vízparti komplexum vitorláskikötővel, saját stranddal és étteremmel várja a vízi sportok és a pihenés kedvelőit.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.70802,
+                        46.79329
+                  ]
+            },
+            {
+                  "name": "Vidámpark Balatonlelle",
+                  "text": "Szezonálisan üzemelő vidámpark Balatonlellén, különféle játékokkal és attrakciókkal.",
+                  "category": "family",
+                  "coords": [
+                        17.677869,
+                        46.782401
+                  ]
+            },
+            {
+                  "name": "Bobpálya",
+                  "text": "Balatonlellei bobpálya, amely kikapcsolódást nyújt az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        17.66148,
+                        46.779361
+                  ]
+            },
+            {
+                  "name": "Hullám utcai szabadstrand",
+                  "text": "Ingyenesen használható balatoni szabadstrand a lellei Hullám utcában.",
+                  "category": "family",
+                  "coords": [
+                        17.704574,
+                        46.792984
+                  ]
+            },
+            {
+                  "name": "Magyar Nemzeti Cirkusz",
+                  "text": "A Magyar Nemzeti Cirkusz állandó nyári állomáshelye Balatonlellén.",
+                  "category": "cultural",
+                  "coords": [
+                        17.679614,
+                        46.782692
+                  ]
+            },
+            {
+                  "name": "Gamási kút",
+                  "text": "Ismert történelmi kút vagy látnivaló Balatonlellén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.69734,
+                        46.756938
+                  ]
+            },
+            {
+                  "name": "Csöpi közi strand",
+                  "text": "A Balaton festői partjainál bújik meg a Csöpi közi strand, amely egy különösen hangulatos partszakasz Balatonlellén. A helyi békés hangulat olyan vendégeket vonz, akik a nagy strandoktól távol szeretnének fürdőzni és zavartalanul élvezni a napsütést. Egy nyugodt vízparti délután eltöltéséhez ez a helyszín igazi titkos tipp.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715523,
+                        46.795103
+                  ]
+            },
+            {
+                  "name": "Határ utcai szabadstrand",
+                  "text": "Ingyenes szabadstrand Balatonlelle szélén, a Határ utcában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.725309,
+                        46.79685
+                  ]
+            },
+            {
+                  "name": "Szirom közi strand",
+                  "text": "Ez a kisebb balatonlellei nyilvános strand meghitt jellegével és a csillogó vízhez való pihentető közelségével hódít. Megnyugtató légkörével a helyszín tökéletes környezetet kínál a hosszas olvasáshoz, napozáshoz és a frissítő úszáshoz. A látogatás kiválóan alkalmas azon utazók számára, akik egy kis szünetre vágynak a nyüzsgésből.",
+                  "category": "recreational",
+                  "coords": [
+                        17.718919,
+                        46.795848
+                  ]
+            },
+            {
+                  "name": "Kodály Strand",
+                  "text": "A híres zeneszerző, Kodály Zoltán tiszteletére elnevezett strand rendkívül népszerű úti cél a balatonlellei fürdőzők körében. Az élénk és barátságos tóparti környezet ideális alapot teremt a hosszas úszásokhoz és a vidám vízparti pillanatokhoz. Egy jó fekvőhely biztosítása érdekében napsütéses napokon nagyon ajánlott a korai érkezés.",
+                  "category": "recreational",
+                  "coords": [
+                        17.661111,
+                        46.783446
+                  ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "A Füzes-tó egy tó Balatonlelle területén, tökéletes a természetben töltött pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "A Balaton egy ismert tó Balatonlelle mellett, amely kedvelt fürdő- és kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "A Halastavak Balatonlelle tavai, amelyek nagyszerű lehetőséget kínálnak a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "A Bugaszegi-horgásztó egy tó Balatonlelle területén, amely kiválóan alkalmas pihentető parti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
+            },
+            {
+                  "name": "Hullám strand",
+                  "text": "Hullámmedencével és homokos parttal rendelkező strand Balatonlellén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742672,
+                        46.801996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Jankovich",
+                  "text": "Acest conac nobiliar construit în secolul al XVIII-lea în stil baroc târziu și transformat ulterior în stil neoclasic a fost centrul domeniului familiei Jankovich. Clădirea distinctivă din centrul orașului găzduiește astăzi o școală.",
+                  "category": "historical",
+                  "coords": [
+                        17.6958,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Finalizată în 1943 după planurile lui Bertalan Árkay, această biserică romano-catolică este un exemplu remarcabil de arhitectură sacră maghiară modernă. Este cunoscută pentru liniile sale curate și integrarea armonioasă în peisajul urban.",
+                  "category": "historical",
+                  "coords": [
+                        17.6972,
+                        46.7842
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Muzeul Kapoli",
+                  "text": "Găzduit într-o casă tradițională țărănească, muzeul este dedicat operei celebrei familii de sculptori populari Kapoli. Pe lângă expoziția permanentă de artă populară, galeria găzduiește regulat expoziții de artă contemporană.",
+                  "category": "historical",
+                  "coords": [
+                        17.6965,
+                        46.7858
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Roata panoramică din Balatonlelle",
+                  "text": "Roata panoramică impunătoare de pe malul lacului Balaton oferă o vedere extinsă asupra apei și a podgoriilor din jur. Este una dintre atracțiile principale din zona portului în timpul sezonului estival.",
+                  "category": "recreational",
+                  "coords": [
+                        17.7088,
+                        46.7886
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Plaja Napfény și Parcul Acvatic",
+                  "text": "Una dintre cele mai faimoase plaje de pe malul sudic al Balatonului, renumită pentru porțiunea sa cu nisip fin, ideală pentru familii. Complexul include și bazine cu apă încălzită și facilități de wellness.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.696164,
+                        46.790807
+                  ]
+            },
+            {
+                  "name": "Castelul Szalay",
+                  "text": "Un edificiu clasicist elegant care servește drept centru cultural și muzeu local. În grădina castelului se organizează frecvent târguri de artizanat și evenimente culturale pe parcursul verii.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.695967,
+                        46.785817
+                  ]
+            },
+            {
+                  "name": "BL Yachtclub",
+                  "text": "Un complex exclusivist la malul lacului, oferind facilități pentru sporturi nautice, o plajă privată și un restaurant.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.70802,
+                        46.79329
+                  ]
+            },
+            {
+                  "name": "Vidámpark Balatonlelle",
+                  "text": "Un parc de distracții sezonier în Balatonlelle, cu diverse atracții.",
+                  "category": "family",
+                  "coords": [
+                        17.677869,
+                        46.782401
+                  ]
+            },
+            {
+                  "name": "Bobpálya",
+                  "text": "O pistă de bob de vară în Balatonlelle, care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.66148,
+                        46.779361
+                  ]
+            },
+            {
+                  "name": "Hullám utcai szabadstrand",
+                  "text": "O plajă liberă la Lacul Balaton, situată pe strada Hullám din Balatonlelle.",
+                  "category": "family",
+                  "coords": [
+                        17.704574,
+                        46.792984
+                  ]
+            },
+            {
+                  "name": "Magyar Nemzeti Cirkusz",
+                  "text": "Locația permanentă de vară a Circului Național Maghiar în Balatonlelle.",
+                  "category": "cultural",
+                  "coords": [
+                        17.679614,
+                        46.782692
+                  ]
+            },
+            {
+                  "name": "Gamási kút",
+                  "text": "O fântână istorică cunoscută sau un punct de interes în Balatonlelle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.69734,
+                        46.756938
+                  ]
+            },
+            {
+                  "name": "Csöpi közi strand",
+                  "text": "Ascunsă pe malurile pitorești ale lacului Balaton, plaja Csöpi közi este o porțiune de coastă deosebit de primitoare din Balatonlelle. Atmosfera liniștită a locului atrage oaspeții care doresc să înoate departe de plajele mari și să se bucure de soare netulburați. Pentru o după-amiază pașnică pe malul apei, acest loc este o recomandare absolut secretă.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715523,
+                        46.795103
+                  ]
+            },
+            {
+                  "name": "Határ utcai szabadstrand",
+                  "text": "O plajă publică gratuită la marginea orașului Balatonlelle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.725309,
+                        46.79685
+                  ]
+            },
+            {
+                  "name": "Szirom közi strand",
+                  "text": "Această plajă publică mai mică din Balatonlelle captivează prin caracterul său intim și prin proximitatea relaxantă față de apa strălucitoare. Cu atmosfera sa liniștitoare, locația oferă cadrul perfect pentru ore lungi de lectură, băi de soare și înot revigorant. O vizită este minunat de potrivită pentru călătorii care caută o mică pauză de la agitația zilnică.",
+                  "category": "recreational",
+                  "coords": [
+                        17.718919,
+                        46.795848
+                  ]
+            },
+            {
+                  "name": "Kodály Strand",
+                  "text": "Numită în onoarea celebrului compozitor Zoltán Kodály, această plajă este o destinație foarte populară pentru scăldătorii din Balatonlelle. Împrejurimile pline de viață și prietenoase de la malul lacului creează o bază ideală pentru excursii prelungite de înot și momente vesele pe plajă. Pentru a găsi un loc bun, este foarte recomandat să ajungeți devreme în zilele însorite.",
+                  "category": "recreational",
+                  "coords": [
+                        17.661111,
+                        46.783446
+                  ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "Füzes-tó este un lac în Balatonlelle, perfect pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Lacul Balaton",
+                  "text": "Lake Balaton este un lac renumit în Balatonlelle, popular pentru înot și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "Halastavak sunt lacuri în Balatonlelle, care oferă oportunități frumoase de observare a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó este un lac în Balatonlelle, potrivit pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
+            },
+            {
+                  "name": "Hullám strand",
+                  "text": "O stațiune balneară în Balatonlelle, dotată cu o piscină cu valuri și plaje cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742672,
+                        46.801996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jankovich Manor",
+                  "text": "This 18th-century late Baroque manor house, later remodeled in neoclassical style, was once the center of the Jankovich estate. Today, the prominent building in the town center houses a school and is a protected local monument.",
+                  "category": "historical",
+                  "coords": [
+                        17.6958,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Completed in 1943 based on the designs of Bertalan Árkay, this Roman Catholic church is an outstanding example of modern Hungarian sacred architecture. It is noted for its clean lines and spiritual atmosphere.",
+                  "category": "historical",
+                  "coords": [
+                        17.6972,
+                        46.7842
+                  ],
+                  "confidence": "high",
+                  "source_hint": "wiki"
+            },
+            {
+                  "name": "Kapoli Museum",
+                  "text": "Located in a traditional thatched-roof farmhouse, this museum is dedicated to the work of the famous Kapoli woodcarving family. Beside the folk art collection, the gallery regularly hosts contemporary art exhibitions.",
+                  "category": "historical",
+                  "coords": [
+                        17.6965,
+                        46.7858
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Balatonlelle Ferris Wheel",
+                  "text": "The massive Ferris wheel set near the pier offers unique panoramic views over Lake Balaton and the nearby hills. Its evening illumination is a defining feature of Balatonlelle's summer nightscape.",
+                  "category": "recreational",
+                  "coords": [
+                        17.7088,
+                        46.7886
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Napfény Beach and Adventure Bath",
+                  "text": "A popular sandy beach on the southern shore of Lake Balaton, offering a Mediterranean atmosphere and shallow waters for kids. The facility also features a heated pool area with slides and waterfalls.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.696164,
+                        46.790807
+                  ]
+            },
+            {
+                  "name": "Szalay Mansion",
+                  "text": "A Classicist building that serves as the town's cultural hub, housing a library and temporary exhibitions. Its park is a frequent venue for summer concerts and outdoor events.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.695967,
+                        46.785817
+                  ]
+            },
+            {
+                  "name": "BL Yachtclub",
+                  "text": "A waterfront complex with a private marina, beach, and wellness facilities, perfect for nautical sports and relaxation.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.70802,
+                        46.79329
+                  ]
+            },
+            {
+                  "name": "Vidámpark Balatonlelle",
+                  "text": "A seasonal amusement park in Balatonlelle featuring various rides and attractions.",
+                  "category": "family",
+                  "coords": [
+                        17.677869,
+                        46.782401
+                  ]
+            },
+            {
+                  "name": "Bobpálya",
+                  "text": "A summer bobsleigh track in Balatonlelle providing fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.66148,
+                        46.779361
+                  ]
+            },
+            {
+                  "name": "Hullám utcai szabadstrand",
+                  "text": "A free public beach on Lake Balaton located in Hullám Street, Balatonlelle.",
+                  "category": "family",
+                  "coords": [
+                        17.704574,
+                        46.792984
+                  ]
+            },
+            {
+                  "name": "Magyar Nemzeti Cirkusz",
+                  "text": "The permanent summer location of the Hungarian National Circus in Balatonlelle.",
+                  "category": "cultural",
+                  "coords": [
+                        17.679614,
+                        46.782692
+                  ]
+            },
+            {
+                  "name": "Gamási kút",
+                  "text": "A well-known historical well or attraction in Balatonlelle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.69734,
+                        46.756938
+                  ]
+            },
+            {
+                  "name": "Csöpi közi strand",
+                  "text": "Hidden on the picturesque shores of Lake Balaton, Csöpi közi strand is a particularly cozy stretch of coast in Balatonlelle. The peaceful mood on site attracts guests who want to swim away from the large beaches and enjoy the sun undisturbed. For a peaceful afternoon by the water, this spot is an absolute insider tip.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715523,
+                        46.795103
+                  ]
+            },
+            {
+                  "name": "Határ utcai szabadstrand",
+                  "text": "A public free beach on the edge of Balatonlelle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.725309,
+                        46.79685
+                  ]
+            },
+            {
+                  "name": "Szirom közi strand",
+                  "text": "This smaller public beach in Balatonlelle captivates with its intimate character and relaxed proximity to the shimmering water. With its calming atmosphere, the location offers the perfect setting for extensive reading hours, sunbathing, and refreshing swimming. A visit is wonderfully suited for travelers looking for a short break from the hustle and bustle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.718919,
+                        46.795848
+                  ]
+            },
+            {
+                  "name": "Kodály Strand",
+                  "text": "Named in honor of the famous composer Zoltán Kodály, this beach is a highly popular destination for bathers in Balatonlelle. The lively and friendly surroundings by the lake create an ideal base for extended swimming trips and cheerful moments on the beach. To find a good spot, arriving early on sunny days is highly advisable.",
+                  "category": "recreational",
+                  "coords": [
+                        17.661111,
+                        46.783446
+                  ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "Füzes-tó is a lake in Balatonlelle, perfect for relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Lake Balaton",
+                  "text": "Lake Balaton is a well-known lake in Balatonlelle, popular for swimming and walking.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "Halastavak are lakes in Balatonlelle, offering beautiful opportunities for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó is a lake in Balatonlelle, suitable for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
+            },
+            {
+                  "name": "Hullám strand",
+                  "text": "A beach resort in Balatonlelle featuring a wave pool and sandy shores.",
+                  "category": "recreational",
+                  "coords": [
+                        17.742672,
+                        46.801996
+                  ]
+            }
+      ]
+}
   },
   {
     id: "fonyod",
@@ -77076,6 +83428,15 @@ export const hungaryCities: POI[] = [
                         20.461687,
                         47.999758
                   ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Ein Wildpark im Bükk-Nationalpark, der regionale Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437478,
+                        47.996615
+                  ]
             }
       ],
       "hu": [
@@ -77131,6 +83492,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.461687,
                         47.999758
+                  ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Vadaspark a Bükki Nemzeti Parkban, amely a régió állatvilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437478,
+                        47.996615
                   ]
             }
       ],
@@ -77188,6 +83558,15 @@ export const hungaryCities: POI[] = [
                         20.461687,
                         47.999758
                   ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Un parc de animale în Parcul Național Bükk, care prezintă specii regionale.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437478,
+                        47.996615
+                  ]
             }
       ],
       "en": [
@@ -77243,6 +83622,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.461687,
                         47.999758
+                  ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "A wildlife park in the Bükk National Park showcasing regional animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437478,
+                        47.996615
                   ]
             }
       ]
@@ -78117,6 +84505,33 @@ export const hungaryCities: POI[] = [
                         21.100591,
                         47.599892
                   ]
+            },
+            {
+                  "name": "Pusztazoo",
+                  "text": "Ein Tierpark im Nationalpark Hortobágy, der ungarische Haustierrassen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "Ein Wildpark im Nationalpark Hortobágy, der die heimische Tierwelt präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Hortobagyi Madarpark",
+                  "text": "Eine spezialisierte Vogelklinik und ein Rettungszentrum in der Region Hortobágy.",
+                  "category": "landmark",
+                  "coords": [
+                        21.152457,
+                        47.580772
+                  ]
             }
       ],
       "hu": [
@@ -78172,6 +84587,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.100591,
                         47.599892
+                  ]
+            },
+            {
+                  "name": "Pusztai Állatpark",
+                  "text": "A pusztai állatpark magyar háziasított állatfajokat mutat be a Hortobágyon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "Vadaspark a Hortobágyi Nemzeti Parkban, amely a puszta vadvilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Hortobagyi Madarpark",
+                  "text": "Madárkórház és mentőközpont a Hortobágyon, ahol sérült madarakat gyógyítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        21.152457,
+                        47.580772
                   ]
             }
       ],
@@ -78229,6 +84671,33 @@ export const hungaryCities: POI[] = [
                         21.100591,
                         47.599892
                   ]
+            },
+            {
+                  "name": "Pusztai Állatpark",
+                  "text": "Un parc zoologic în Parcul Național Hortobágy, care prezintă rase domestice maghiare.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "Un parc sălbatic în Parcul Național Hortobágy, dedicat faunei locale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Hortobagyi Madarpark",
+                  "text": "O clinică specializată pentru păsări și un centru de salvare situat în regiunea Hortobágy.",
+                  "category": "landmark",
+                  "coords": [
+                        21.152457,
+                        47.580772
+                  ]
             }
       ],
       "en": [
@@ -78284,6 +84753,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.100591,
                         47.599892
+                  ]
+            },
+            {
+                  "name": "Pusztai Állatpark",
+                  "text": "A zoo in Hortobágy National Park showcasing Hungarian domestic animal breeds.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "A wildlife park in Hortobágy National Park presenting local wild animals.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Hortobagyi Madarpark",
+                  "text": "A specialized bird clinic and rescue center located in the Hortobágy region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.152457,
+                        47.580772
                   ]
             }
       ]
@@ -80425,6 +86921,24 @@ export const hungaryCities: POI[] = [
                         21.027716,
                         46.499441
                   ]
+            },
+            {
+                  "name": "gyerekmedence",
+                  "text": "Ein speziell gestaltetes Kinderbecken für sicheren Wasserspaß der Kleinen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.030935,
+                        46.498751
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "Ein Zoo im Gebiet des Nationalparks Körös-Maros.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022552,
+                        46.535896
+                  ]
             }
       ],
       "hu": [
@@ -80435,6 +86949,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.027716,
                         46.499441
+                  ]
+            },
+            {
+                  "name": "gyerekmedence",
+                  "text": "Kifejezetten gyerekeknek kialakított medence a biztonságos vízi játékhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        21.030935,
+                        46.498751
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "A Körös-Maros Nemzeti Park területén található állatkert.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022552,
+                        46.535896
                   ]
             }
       ],
@@ -80447,6 +86979,24 @@ export const hungaryCities: POI[] = [
                         21.027716,
                         46.499441
                   ]
+            },
+            {
+                  "name": "gyerekmedence",
+                  "text": "O piscină pentru copii special concepută pentru distracția în siguranță a celor mici.",
+                  "category": "recreational",
+                  "coords": [
+                        21.030935,
+                        46.498751
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "O grădină zoologică situată în regiunea Parcului Național Körös-Maros.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022552,
+                        46.535896
+                  ]
             }
       ],
       "en": [
@@ -80457,6 +87007,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.027716,
                         46.499441
+                  ]
+            },
+            {
+                  "name": "gyerekmedence",
+                  "text": "A specially designed children's pool for safe water fun for the little ones.",
+                  "category": "recreational",
+                  "coords": [
+                        21.030935,
+                        46.498751
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "A zoo located within the Körös-Maros National Park region.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022552,
+                        46.535896
                   ]
             }
       ]
@@ -81273,6 +87841,15 @@ export const hungaryCities: POI[] = [
                         19.68323,
                         47.667587
                   ]
+            },
+            {
+                  "name": "Hatvani Strandfürdő",
+                  "text": "Ein Thermal- und Erlebnisbad in der Stadt Hatvan.",
+                  "category": "recreational",
+                  "coords": [
+                        19.659901,
+                        47.652606
+                  ]
             }
       ],
       "hu": [
@@ -81357,6 +87934,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.68323,
                         47.667587
+                  ]
+            },
+            {
+                  "name": "Hatvani Strandfürdő",
+                  "text": "Termál- és élményfürdő Hatvan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.659901,
+                        47.652606
                   ]
             }
       ],
@@ -81443,6 +88029,15 @@ export const hungaryCities: POI[] = [
                         19.68323,
                         47.667587
                   ]
+            },
+            {
+                  "name": "Hatvani Strandfürdő",
+                  "text": "O baie termală și de aventură situată în orașul Hatvan.",
+                  "category": "recreational",
+                  "coords": [
+                        19.659901,
+                        47.652606
+                  ]
             }
       ],
       "en": [
@@ -81527,6 +88122,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.68323,
                         47.667587
+                  ]
+            },
+            {
+                  "name": "Hatvani Strandfürdő",
+                  "text": "A thermal and adventure bath located in the town of Hatvan.",
+                  "category": "recreational",
+                  "coords": [
+                        19.659901,
+                        47.652606
                   ]
             }
       ]
@@ -83378,7 +89982,444 @@ export const hungaryCities: POI[] = [
         }
       ]
     },
-    "sights": {"de": [{"name": "Dreifaltigkeitskapelle", "text": "Die malerische weiße Kapelle auf dem Rókarántó-Hügel bietet einen atemberaubenden Blick auf den Plattensee und die Weinberge.", "category": "historical", "coords": [17.4391, 46.7971], "confidence": "high", "source_hint": "known"}, {"name": "Kamon-kő Naturlehrpfad", "text": "Ein markierter Wanderweg, der die vulkanische Geschichte der Region und die besondere Flora des Szigliget-Hügels zeigt.", "category": "natural", "coords": [17.4375, 46.8042], "confidence": "high", "source_hint": "known"}, {"name": "Hafen von Szigliget", "text": "Ein moderner Segelhafen am Ufer des Plattensees, ideal für Spaziergänge und zur Beobachtung des Schiffsverkehrs.", "category": "recreational", "coords": [17.4278, 46.7865], "confidence": "high", "source_hint": "known"}, {"name": "Burg Szigliget", "text": "Eine der besterhaltenen Burgen am Plattensee, erbaut im 13. Jahrhundert, mit einem fantastischen Blick auf das Seebecken.", "category": "historical", "confidence": "high", "coords": [17.436226, 46.804848]}, {"name": "Strand von Szigliget", "text": "Am Nordufer des Plattensees in Szigliget gelegen, ist dieser gepflegte Strand für seine familienfreundliche Atmosphäre bekannt. Das ruhige Wasser und die sorgfältig instandgehaltenen Anlagen schaffen eine ideale Umgebung zum Sonnenbaden und Schwimmen. Familien und Einheimische versammeln sich hier, um einen entspannten Tag an diesem großen Binnensee zu verbringen. Besonders in den warmen Sommermonaten ist ein Besuch hier sehr zu empfehlen.", "category": "recreational", "confidence": "high", "coords": [17.435671, 46.786067]}, {"name": "Esterházy-kastély", "text": "Ein barockes Schloss in Szigliget, das heute als Künstlerhaus dient.", "category": "castle", "coords": [17.432862, 46.801821]}, {"name": "Várgaléria", "text": "Eine Galerie in der Nähe der Burg Szigliget mit Ausstellungen.", "category": "museum", "coords": [17.434982, 46.803076]}, {"name": "Óvár", "text": "Die Überreste einer alten Befestigung in Szigliget.", "category": "historical", "coords": [17.438279, 46.788925]}, {"name": "Avasi templomrom (Csonkatorony)", "text": "Ruinen einer mittelalterlichen Kirche mit einem markanten Turm.", "category": "historical", "coords": [17.448377, 46.797712]}], "hu": [{"name": "Szentháromság-kápolna", "text": "A Rókarántó-domb tetején álló, fehér falú kápolna a környék egyik legszebb kilátópontja a Balatonra és a tanúhegyekre.", "category": "historical", "coords": [17.4391, 46.7971], "confidence": "high", "source_hint": "known"}, {"name": "Kamon-kő tanösvény", "text": "A falu utcáiról induló túraútvonal, amely a terület vulkanikus múltját és különleges növényvilágát mutatja be.", "category": "natural", "coords": [17.4375, 46.8042], "confidence": "high", "source_hint": "known"}, {"name": "Szigligeti kikötő", "text": "A Balaton partján fekvő vitorláskikötő, amely a vízi turizmus központja és kedvelt sétatér a falu déli részén.", "category": "recreational", "coords": [17.4278, 46.7865], "confidence": "high", "source_hint": "known"}, {"name": "Szigligeti vár", "text": "A Balaton egyik legépebben maradt vára a 13. századból, ahonnan lenyűgöző panoráma nyílik az egész tóra és a hegyekre.", "category": "historical", "confidence": "high", "coords": [17.436226, 46.804848]}, {"name": "Szigligeti strand", "text": "A Balaton északi partján, Szigligeten található ez a gondozott strand, amely különösen családbarát hangulatáról ismert. A nyugodt víz és a szépen karbantartott terület tökéletes környezetet teremt a napozáshoz és az úszáshoz. Családok és helyiek gyűlnek itt össze, hogy élvezzék a pihentető napot Közép-Európa legnagyobb tava mellett. Különösen a meleg nyári hónapokban érdemes felkeresni, amikor a partszakasz igazán élettel teli.", "category": "recreational", "confidence": "high", "coords": [17.435671, 46.786067]}, {"name": "Esterházy-kastély", "text": "Barokk kastély Szigligeten, amely ma alkotóházként működik.", "category": "castle", "coords": [17.432862, 46.801821]}, {"name": "Várgaléria", "text": "A szigligeti vár közelében található galéria kiállításokkal.", "category": "museum", "coords": [17.434982, 46.803076]}, {"name": "Óvár", "text": "Egy régi erődítmény maradványai Szigligeten.", "category": "historical", "coords": [17.438279, 46.788925]}, {"name": "Avasi templomrom (Csonkatorony)", "text": "Középkori templom romjai jellegzetes toronnyal.", "category": "historical", "coords": [17.448377, 46.797712]}], "ro": [{"name": "Capela Sfânta Treime", "text": "O capelă albă pitorească pe dealul Rókarántó, care oferă o priveliște uluitoare asupra lacului Balaton și a podgoriilor.", "category": "historical", "coords": [17.4391, 46.7971], "confidence": "high", "source_hint": "known"}, {"name": "Traseul natural Kamon-kő", "text": "Un traseu marcat care prezintă istoria vulcanică a regiunii și flora specială a dealului Szigliget.", "category": "natural", "coords": [17.4375, 46.8042], "confidence": "high", "source_hint": "known"}, {"name": "Portul Szigliget", "text": "Un port modern de iahturi pe malul lacului Balaton, ideal pentru plimbări și pentru observarea traficului naval.", "category": "recreational", "coords": [17.4278, 46.7865], "confidence": "high", "source_hint": "known"}, {"name": "Cetatea Szigliget", "text": "Una dintre cele mai bine păstrate cetăți de la Balaton, construită în secolul XIII, oferind o panoramă uimitoare asupra lacului.", "category": "historical", "confidence": "high", "coords": [17.436226, 46.804848]}, {"name": "Plaja din Szigliget", "text": "Aflat pe malul nordic al Lacului Balaton din Szigliget, acest ștrand bine întreținut este renumit pentru atmosfera sa potrivită familiilor. Apele calme și spațiile atent îngrijite creează un mediu perfect pentru plajă și înot. Familiile și localnicii se adună aici pentru a se bucura de o zi relaxantă pe malul lacului. Este deosebit de plăcut în timpul lunilor calde de vară, când spiritul sezonului prinde viață.", "category": "recreational", "confidence": "high", "coords": [17.435671, 46.786067]}, {"name": "Esterházy-kastély", "text": "Un castel baroc în Szigliget care servește astăzi drept casă de creație.", "category": "castle", "coords": [17.432862, 46.801821]}, {"name": "Várgaléria", "text": "O galerie în apropierea cetății Szigliget cu diverse expoziții.", "category": "museum", "coords": [17.434982, 46.803076]}, {"name": "Óvár", "text": "Ruinele unei vechi fortificații în Szigliget.", "category": "historical", "coords": [17.438279, 46.788925]}, {"name": "Avasi templomrom (Csonkatorony)", "text": "Ruinele unei biserici medievale cu un turn distinctiv.", "category": "historical", "coords": [17.448377, 46.797712]}], "en": [{"name": "Trinity Chapel", "text": "A picturesque white chapel on Rókarántó Hill, offering a breathtaking view of Lake Balaton and the surrounding vineyards.", "category": "historical", "coords": [17.4391, 46.7971], "confidence": "high", "source_hint": "known"}, {"name": "Kamon-kő Nature Trail", "text": "A marked hiking trail showcasing the volcanic history of the region and the unique flora of the Szigliget Hill.", "category": "natural", "coords": [17.4375, 46.8042], "confidence": "high", "source_hint": "known"}, {"name": "Szigliget Port", "text": "A modern sailing port on the shores of Lake Balaton, ideal for walks and watching the nautical traffic.", "category": "recreational", "coords": [17.4278, 46.7865], "confidence": "high", "source_hint": "known"}, {"name": "Szigliget Castle", "text": "One of the best-preserved castles around Lake Balaton, built in the 13th century, offering breathtaking views of the lake.", "category": "historical", "confidence": "high", "coords": [17.436226, 46.804848]}, {"name": "Szigliget Beach", "text": "Positioned on the northern shores of Lake Balaton in Szigliget, this well-kept beach is renowned for its family-friendly atmosphere. The calm waters and thoughtfully maintained grounds create a perfect environment for sunbathing and swimming. Families and locals gather here to enjoy a relaxing day by Central Europe's largest lake. It is especially enjoyable during the warm summer months when the lively spirit of the season is in full swing.", "category": "recreational", "confidence": "high", "coords": [17.435671, 46.786067]}, {"name": "Esterházy-kastély", "text": "A Baroque castle in Szigliget that functions as a house for creative arts today.", "category": "castle", "coords": [17.432862, 46.801821]}, {"name": "Várgaléria", "text": "A gallery near Szigliget Castle featuring various exhibitions.", "category": "museum", "coords": [17.434982, 46.803076]}, {"name": "Óvár", "text": "The remains of an ancient fortification in Szigliget.", "category": "historical", "coords": [17.438279, 46.788925]}, {"name": "Avasi templomrom (Csonkatorony)", "text": "Ruins of a medieval church featuring a prominent tower.", "category": "historical", "coords": [17.448377, 46.797712]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Dreifaltigkeitskapelle",
+                  "text": "Die malerische weiße Kapelle auf dem Rókarántó-Hügel bietet einen atemberaubenden Blick auf den Plattensee und die Weinberge.",
+                  "category": "historical",
+                  "coords": [
+                        17.4391,
+                        46.7971
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Kamon-kő Naturlehrpfad",
+                  "text": "Ein markierter Wanderweg, der die vulkanische Geschichte der Region und die besondere Flora des Szigliget-Hügels zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        17.4375,
+                        46.8042
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Hafen von Szigliget",
+                  "text": "Ein moderner Segelhafen am Ufer des Plattensees, ideal für Spaziergänge und zur Beobachtung des Schiffsverkehrs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.4278,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Burg Szigliget",
+                  "text": "Eine der besterhaltenen Burgen am Plattensee, erbaut im 13. Jahrhundert, mit einem fantastischen Blick auf das Seebecken.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.436226,
+                        46.804848
+                  ]
+            },
+            {
+                  "name": "Strand von Szigliget",
+                  "text": "Am Nordufer des Plattensees in Szigliget gelegen, ist dieser gepflegte Strand für seine familienfreundliche Atmosphäre bekannt. Das ruhige Wasser und die sorgfältig instandgehaltenen Anlagen schaffen eine ideale Umgebung zum Sonnenbaden und Schwimmen. Familien und Einheimische versammeln sich hier, um einen entspannten Tag an diesem großen Binnensee zu verbringen. Besonders in den warmen Sommermonaten ist ein Besuch hier sehr zu empfehlen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.435671,
+                        46.786067
+                  ]
+            },
+            {
+                  "name": "Esterházy-kastély",
+                  "text": "Ein barockes Schloss in Szigliget, das heute als Künstlerhaus dient.",
+                  "category": "castle",
+                  "coords": [
+                        17.432862,
+                        46.801821
+                  ]
+            },
+            {
+                  "name": "Várgaléria",
+                  "text": "Eine Galerie in der Nähe der Burg Szigliget mit Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        17.434982,
+                        46.803076
+                  ]
+            },
+            {
+                  "name": "Óvár",
+                  "text": "Die Überreste einer alten Befestigung in Szigliget.",
+                  "category": "historical",
+                  "coords": [
+                        17.438279,
+                        46.788925
+                  ]
+            },
+            {
+                  "name": "Avasi templomrom (Csonkatorony)",
+                  "text": "Ruinen einer mittelalterlichen Kirche mit einem markanten Turm.",
+                  "category": "historical",
+                  "coords": [
+                        17.448377,
+                        46.797712
+                  ]
+            },
+            {
+                  "name": "Szigligeti Községi Strandfürdő",
+                  "text": "Das Gemeindestrandbad von Szigliget mit malerischer Aussicht auf den Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.437412,
+                        46.785398
+                  ]
+            },
+            {
+                  "name": "Balatonedericsi strand",
+                  "text": "Ein Strandbad im Gebiet von Szigliget am Ufer des Balatons.",
+                  "category": "recreational",
+                  "coords": [
+                        17.385875,
+                        46.788023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szentháromság-kápolna",
+                  "text": "A Rókarántó-domb tetején álló, fehér falú kápolna a környék egyik legszebb kilátópontja a Balatonra és a tanúhegyekre.",
+                  "category": "historical",
+                  "coords": [
+                        17.4391,
+                        46.7971
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Kamon-kő tanösvény",
+                  "text": "A falu utcáiról induló túraútvonal, amely a terület vulkanikus múltját és különleges növényvilágát mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        17.4375,
+                        46.8042
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szigligeti kikötő",
+                  "text": "A Balaton partján fekvő vitorláskikötő, amely a vízi turizmus központja és kedvelt sétatér a falu déli részén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.4278,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szigligeti vár",
+                  "text": "A Balaton egyik legépebben maradt vára a 13. századból, ahonnan lenyűgöző panoráma nyílik az egész tóra és a hegyekre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.436226,
+                        46.804848
+                  ]
+            },
+            {
+                  "name": "Szigligeti strand",
+                  "text": "A Balaton északi partján, Szigligeten található ez a gondozott strand, amely különösen családbarát hangulatáról ismert. A nyugodt víz és a szépen karbantartott terület tökéletes környezetet teremt a napozáshoz és az úszáshoz. Családok és helyiek gyűlnek itt össze, hogy élvezzék a pihentető napot Közép-Európa legnagyobb tava mellett. Különösen a meleg nyári hónapokban érdemes felkeresni, amikor a partszakasz igazán élettel teli.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.435671,
+                        46.786067
+                  ]
+            },
+            {
+                  "name": "Esterházy-kastély",
+                  "text": "Barokk kastély Szigligeten, amely ma alkotóházként működik.",
+                  "category": "castle",
+                  "coords": [
+                        17.432862,
+                        46.801821
+                  ]
+            },
+            {
+                  "name": "Várgaléria",
+                  "text": "A szigligeti vár közelében található galéria kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        17.434982,
+                        46.803076
+                  ]
+            },
+            {
+                  "name": "Óvár",
+                  "text": "Egy régi erődítmény maradványai Szigligeten.",
+                  "category": "historical",
+                  "coords": [
+                        17.438279,
+                        46.788925
+                  ]
+            },
+            {
+                  "name": "Avasi templomrom (Csonkatorony)",
+                  "text": "Középkori templom romjai jellegzetes toronnyal.",
+                  "category": "historical",
+                  "coords": [
+                        17.448377,
+                        46.797712
+                  ]
+            },
+            {
+                  "name": "Szigligeti Községi Strandfürdő",
+                  "text": "Szigliget községi strandja, amely festői kilátással várja a Balatonnál fürdőzőket.",
+                  "category": "recreational",
+                  "coords": [
+                        17.437412,
+                        46.785398
+                  ]
+            },
+            {
+                  "name": "Balatonedericsi strand",
+                  "text": "Szigliget környékén, a Balaton partján található strandfürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        17.385875,
+                        46.788023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela Sfânta Treime",
+                  "text": "O capelă albă pitorească pe dealul Rókarántó, care oferă o priveliște uluitoare asupra lacului Balaton și a podgoriilor.",
+                  "category": "historical",
+                  "coords": [
+                        17.4391,
+                        46.7971
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Traseul natural Kamon-kő",
+                  "text": "Un traseu marcat care prezintă istoria vulcanică a regiunii și flora specială a dealului Szigliget.",
+                  "category": "natural",
+                  "coords": [
+                        17.4375,
+                        46.8042
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Portul Szigliget",
+                  "text": "Un port modern de iahturi pe malul lacului Balaton, ideal pentru plimbări și pentru observarea traficului naval.",
+                  "category": "recreational",
+                  "coords": [
+                        17.4278,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Cetatea Szigliget",
+                  "text": "Una dintre cele mai bine păstrate cetăți de la Balaton, construită în secolul XIII, oferind o panoramă uimitoare asupra lacului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.436226,
+                        46.804848
+                  ]
+            },
+            {
+                  "name": "Plaja din Szigliget",
+                  "text": "Aflat pe malul nordic al Lacului Balaton din Szigliget, acest ștrand bine întreținut este renumit pentru atmosfera sa potrivită familiilor. Apele calme și spațiile atent îngrijite creează un mediu perfect pentru plajă și înot. Familiile și localnicii se adună aici pentru a se bucura de o zi relaxantă pe malul lacului. Este deosebit de plăcut în timpul lunilor calde de vară, când spiritul sezonului prinde viață.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.435671,
+                        46.786067
+                  ]
+            },
+            {
+                  "name": "Esterházy-kastély",
+                  "text": "Un castel baroc în Szigliget care servește astăzi drept casă de creație.",
+                  "category": "castle",
+                  "coords": [
+                        17.432862,
+                        46.801821
+                  ]
+            },
+            {
+                  "name": "Várgaléria",
+                  "text": "O galerie în apropierea cetății Szigliget cu diverse expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        17.434982,
+                        46.803076
+                  ]
+            },
+            {
+                  "name": "Óvár",
+                  "text": "Ruinele unei vechi fortificații în Szigliget.",
+                  "category": "historical",
+                  "coords": [
+                        17.438279,
+                        46.788925
+                  ]
+            },
+            {
+                  "name": "Avasi templomrom (Csonkatorony)",
+                  "text": "Ruinele unei biserici medievale cu un turn distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        17.448377,
+                        46.797712
+                  ]
+            },
+            {
+                  "name": "Szigligeti Községi Strandfürdő",
+                  "text": "Plaja municipală din Szigliget, care oferă vederi pitorești asupra Lacului Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.437412,
+                        46.785398
+                  ]
+            },
+            {
+                  "name": "Balatonedericsi strand",
+                  "text": "O stațiune balneară situată în zona Szigliget, pe malul Lacului Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.385875,
+                        46.788023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trinity Chapel",
+                  "text": "A picturesque white chapel on Rókarántó Hill, offering a breathtaking view of Lake Balaton and the surrounding vineyards.",
+                  "category": "historical",
+                  "coords": [
+                        17.4391,
+                        46.7971
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Kamon-kő Nature Trail",
+                  "text": "A marked hiking trail showcasing the volcanic history of the region and the unique flora of the Szigliget Hill.",
+                  "category": "natural",
+                  "coords": [
+                        17.4375,
+                        46.8042
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szigliget Port",
+                  "text": "A modern sailing port on the shores of Lake Balaton, ideal for walks and watching the nautical traffic.",
+                  "category": "recreational",
+                  "coords": [
+                        17.4278,
+                        46.7865
+                  ],
+                  "confidence": "high",
+                  "source_hint": "known"
+            },
+            {
+                  "name": "Szigliget Castle",
+                  "text": "One of the best-preserved castles around Lake Balaton, built in the 13th century, offering breathtaking views of the lake.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        17.436226,
+                        46.804848
+                  ]
+            },
+            {
+                  "name": "Szigliget Beach",
+                  "text": "Positioned on the northern shores of Lake Balaton in Szigliget, this well-kept beach is renowned for its family-friendly atmosphere. The calm waters and thoughtfully maintained grounds create a perfect environment for sunbathing and swimming. Families and locals gather here to enjoy a relaxing day by Central Europe's largest lake. It is especially enjoyable during the warm summer months when the lively spirit of the season is in full swing.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        17.435671,
+                        46.786067
+                  ]
+            },
+            {
+                  "name": "Esterházy-kastély",
+                  "text": "A Baroque castle in Szigliget that functions as a house for creative arts today.",
+                  "category": "castle",
+                  "coords": [
+                        17.432862,
+                        46.801821
+                  ]
+            },
+            {
+                  "name": "Várgaléria",
+                  "text": "A gallery near Szigliget Castle featuring various exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        17.434982,
+                        46.803076
+                  ]
+            },
+            {
+                  "name": "Óvár",
+                  "text": "The remains of an ancient fortification in Szigliget.",
+                  "category": "historical",
+                  "coords": [
+                        17.438279,
+                        46.788925
+                  ]
+            },
+            {
+                  "name": "Avasi templomrom (Csonkatorony)",
+                  "text": "Ruins of a medieval church featuring a prominent tower.",
+                  "category": "historical",
+                  "coords": [
+                        17.448377,
+                        46.797712
+                  ]
+            },
+            {
+                  "name": "Szigligeti Községi Strandfürdő",
+                  "text": "The municipal beach of Szigliget, offering scenic views of Lake Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.437412,
+                        46.785398
+                  ]
+            },
+            {
+                  "name": "Balatonedericsi strand",
+                  "text": "A beach resort located in the Szigliget area on the shores of Lake Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.385875,
+                        46.788023
+                  ]
+            }
+      ]
+}
   },
   {
     id: "herend",
@@ -85710,6 +92751,15 @@ export const hungaryCities: POI[] = [
                         20.901847,
                         47.316963
                   ]
+            },
+            {
+                  "name": "Akácliget Gyógy- és Strandfürdő",
+                  "text": "Ein Heil- und Strandbad in Karcag mit Thermalwasser und Familienbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        20.909287,
+                        47.322155
+                  ]
             }
       ],
       "hu": [
@@ -85778,6 +92828,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.901847,
                         47.316963
+                  ]
+            },
+            {
+                  "name": "Akácliget Gyógy- és Strandfürdő",
+                  "text": "Karcagi gyógy- és strandfürdő termálvízzel és családi medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.909287,
+                        47.322155
                   ]
             }
       ],
@@ -85848,6 +92907,15 @@ export const hungaryCities: POI[] = [
                         20.901847,
                         47.316963
                   ]
+            },
+            {
+                  "name": "Akácliget Gyógy- és Strandfürdő",
+                  "text": "O baie termală și plajă în Karcag, cu apă medicinală și piscine pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.909287,
+                        47.322155
+                  ]
             }
       ],
       "en": [
@@ -85916,6 +92984,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.901847,
                         47.316963
+                  ]
+            },
+            {
+                  "name": "Akácliget Gyógy- és Strandfürdő",
+                  "text": "A thermal and beach bath in Karcag featuring medicinal water and family pools.",
+                  "category": "recreational",
+                  "coords": [
+                        20.909287,
+                        47.322155
                   ]
             }
       ]
@@ -89652,6 +96729,15 @@ export const hungaryCities: POI[] = [
                         17.134155,
                         47.236173
                   ]
+            },
+            {
+                  "name": "Vulkán Gyógy- és Élményfürdő",
+                  "text": "Ein Vulkan-Thermalbad und Wasserpark am Fuße des Ság-Berges in Celldömölk.",
+                  "category": "recreational",
+                  "coords": [
+                        17.143057,
+                        47.243005
+                  ]
             }
       ],
       "hu": [
@@ -89793,6 +96879,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.134155,
                         47.236173
+                  ]
+            },
+            {
+                  "name": "Vulkán Gyógy- és Élményfürdő",
+                  "text": "A Ság-hegy lábánál fekvő vulkán tematikájú gyógy- és élményfürdő Celldömölkön.",
+                  "category": "recreational",
+                  "coords": [
+                        17.143057,
+                        47.243005
                   ]
             }
       ],
@@ -89936,6 +97031,15 @@ export const hungaryCities: POI[] = [
                         17.134155,
                         47.236173
                   ]
+            },
+            {
+                  "name": "Vulkán Gyógy- és Élményfürdő",
+                  "text": "Un spa termal și parc acvatic cu tematică vulcanică la poalele dealului Ság din Celldömölk.",
+                  "category": "recreational",
+                  "coords": [
+                        17.143057,
+                        47.243005
+                  ]
             }
       ],
       "en": [
@@ -90077,6 +97181,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.134155,
                         47.236173
+                  ]
+            },
+            {
+                  "name": "Vulkán Gyógy- és Élményfürdő",
+                  "text": "A volcano-themed thermal spa and water park at the foot of Ság Hill in Celldömölk.",
+                  "category": "recreational",
+                  "coords": [
+                        17.143057,
+                        47.243005
                   ]
             }
       ]
@@ -90257,6 +97370,15 @@ export const hungaryCities: POI[] = [
                         16.607476,
                         47.00921
                   ]
+            },
+            {
+                  "name": "MJUS Fun & Wellness Thermal Resort",
+                  "text": "Ein Wellness- und Thermalresort in Körmend mit modernen Wasseranlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.56693,
+                        47.008843
+                  ]
             }
       ],
       "hu": [
@@ -90405,6 +97527,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.607476,
                         47.00921
+                  ]
+            },
+            {
+                  "name": "MJUS Fun & Wellness Thermal Resort",
+                  "text": "Wellness és termál üdülőhely Körmenden modern vízi létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.56693,
+                        47.008843
                   ]
             }
       ],
@@ -90555,6 +97686,15 @@ export const hungaryCities: POI[] = [
                         16.607476,
                         47.00921
                   ]
+            },
+            {
+                  "name": "MJUS Fun & Wellness Thermal Resort",
+                  "text": "O stațiune termală și de wellness în Körmend cu facilități acvatice moderne.",
+                  "category": "recreational",
+                  "coords": [
+                        16.56693,
+                        47.008843
+                  ]
             }
       ],
       "en": [
@@ -90703,6 +97843,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.607476,
                         47.00921
+                  ]
+            },
+            {
+                  "name": "MJUS Fun & Wellness Thermal Resort",
+                  "text": "A wellness and thermal resort in Körmend with modern water facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.56693,
+                        47.008843
                   ]
             }
       ]

@@ -589,6 +589,15 @@ export const austriaLifeV2: POI[] = [
                         12.317959,
                         47.260789
                   ]
+            },
+            {
+                  "name": "Kristallbad",
+                  "text": "Ein moderner Wasserpark im Nationalparkzentrum Hohe Tauern mit verschiedenen Becken und Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22501,
+                        47.247353
+                  ]
             }
       ],
       "hu": [
@@ -653,6 +662,15 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         12.317959,
                         47.260789
+                  ]
+            },
+            {
+                  "name": "Kristallbad",
+                  "text": "Modern vízi park a Magas-Tauern Nemzeti Park központjában, különféle medencékkel és csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22501,
+                        47.247353
                   ]
             }
       ],
@@ -719,6 +737,15 @@ export const austriaLifeV2: POI[] = [
                         12.317959,
                         47.260789
                   ]
+            },
+            {
+                  "name": "Kristallbad",
+                  "text": "Un parc acvatic modern în Centrul Parcului Național Hohe Tauern, cu diverse piscine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22501,
+                        47.247353
+                  ]
             }
       ],
       "en": [
@@ -783,6 +810,15 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         12.317959,
                         47.260789
+                  ]
+            },
+            {
+                  "name": "Kristallbad",
+                  "text": "A modern water park in the Hohe Tauern National Park Centre, featuring various pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        12.22501,
+                        47.247353
                   ]
             }
       ]
@@ -1642,6 +1678,15 @@ export const austriaLifeV2: POI[] = [
                         11.016305,
                         46.939311
                   ]
+            },
+            {
+                  "name": "Schwimmbad Riders In",
+                  "text": "Ein Schwimmbad im Ötztal, das zur Entspannung in der alpinen Natur einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.007098,
+                        46.966993
+                  ]
             }
       ],
       "hu": [
@@ -1706,6 +1751,15 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         11.016305,
                         46.939311
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Riders In",
+                  "text": "Úszómedence az Ötztalban, amely pihenésre csábít az alpesi természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.007098,
+                        46.966993
                   ]
             }
       ],
@@ -1772,6 +1826,15 @@ export const austriaLifeV2: POI[] = [
                         11.016305,
                         46.939311
                   ]
+            },
+            {
+                  "name": "Schwimmbad Riders In",
+                  "text": "O piscină în Ötztal, care invită la relaxare în natura alpină.",
+                  "category": "recreational",
+                  "coords": [
+                        11.007098,
+                        46.966993
+                  ]
             }
       ],
       "en": [
@@ -1836,6 +1899,15 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         11.016305,
                         46.939311
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Riders In",
+                  "text": "A swimming pool in the Ötztal, inviting relaxation in the alpine nature.",
+                  "category": "recreational",
+                  "coords": [
+                        11.007098,
+                        46.966993
                   ]
             }
       ]

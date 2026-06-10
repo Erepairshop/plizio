@@ -129,7 +129,88 @@ export const monacoHistory: POI[] = [
       fr: ["La légende de sainte Dévote remonte au IVe siècle.", "La chapelle fut initialement érigée au XIe siècle.", "La tradition annuelle de l'embrasement de la barque existe depuis 1874.", "La famille princière participe traditionnellement à l'embrasement de la barque.", "La chapelle occupe une position stratégique au premier virage du circuit de Formule 1.", "Les reliques de la sainte sont conservées au sein de la chapelle.", "Elle constitue un point d'ancrage central pour le folklore national monégasque."],
     }, image: "/poi-images/landmark-saint-devote-chapel.webp"},
   {
-    id: "landmark-fort-antoine",
+    id: "landmark-fort-antoine", "sights": {
+      "de": [
+            {
+                  "name": "Crique des Pêcheurs",
+                  "text": "Eine kleine, felsige Bucht in Monaco unterhalb des Fort Antoine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427891,
+                        43.731934
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Ein künstlicher Badebereich in Monaco, der direkt in das tiefe Meer führt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428846,
+                        43.733435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crique des Pêcheurs",
+                  "text": "Kicsi, sziklás öböl Monacóban, a Fort Antoine alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427891,
+                        43.731934
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Mesterséges fürdőhely Monacóban, amely közvetlenül a mély tengerbe vezet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428846,
+                        43.733435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crique des Pêcheurs",
+                  "text": "Un mic golf stâncos în Monaco, situat sub Fort Antoine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427891,
+                        43.731934
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "O zonă de plajă artificială în Monaco, care duce direct în marea adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428846,
+                        43.733435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crique des Pêcheurs",
+                  "text": "A small, rocky cove in Monaco located below Fort Antoine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427891,
+                        43.731934
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "An artificial bathing area in Monaco that leads directly into the deep sea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428846,
+                        43.733435
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "country-monaco",
     coords: [7.4271, 43.7311],

@@ -112,6 +112,15 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                         19.434555,
                         49.107144
                   ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "Ein Strandresort am Liptauer Stausee in der Nähe der archäologischen Fundstätte Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
+                  ]
             }
       ],
       "hu": [
@@ -176,6 +185,15 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   "coords": [
                         19.434555,
                         49.107144
+                  ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "Strand és üdülőhely a Szentmáriai-víztározó partján, Havránok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
                   ]
             }
       ],
@@ -242,6 +260,15 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                         19.434555,
                         49.107144
                   ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "O stațiune de plajă pe malul lacului de acumulare Liptovská Mara, în apropiere de Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
+                  ]
             }
       ],
       "en": [
@@ -306,6 +333,15 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   "coords": [
                         19.434555,
                         49.107144
+                  ]
+            },
+            {
+                  "name": "Pláž Trnovec",
+                  "text": "A beach resort on the shores of the Liptovská Mara reservoir near Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545698,
+                        49.109071
                   ]
             }
       ]
@@ -2056,6 +2092,15 @@ imageHint: "Sklabina castle ruins Turiec",
                         17.880358,
                         48.658646
                   ]
+            },
+            {
+                  "name": "Zoo farma Modrová",
+                  "text": "Ein Tierpark und Bauernhof in der Nähe der Burgruine Tematín.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911265,
+                        48.637267
+                  ]
             }
       ],
       "hu": [
@@ -2084,6 +2129,15 @@ imageHint: "Sklabina castle ruins Turiec",
                   "coords": [
                         17.880358,
                         48.658646
+                  ]
+            },
+            {
+                  "name": "Zoo farma Modrová",
+                  "text": "Állatpark és farm a Tematín várrom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911265,
+                        48.637267
                   ]
             }
       ],
@@ -2114,6 +2168,15 @@ imageHint: "Sklabina castle ruins Turiec",
                         17.880358,
                         48.658646
                   ]
+            },
+            {
+                  "name": "Zoo farma Modrová",
+                  "text": "Un parc cu animale și fermă în apropierea ruinelor castelului Tematín.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911265,
+                        48.637267
+                  ]
             }
       ],
       "en": [
@@ -2142,6 +2205,15 @@ imageHint: "Sklabina castle ruins Turiec",
                   "coords": [
                         17.880358,
                         48.658646
+                  ]
+            },
+            {
+                  "name": "Zoo farma Modrová",
+                  "text": "An animal park and farm located near the Tematín castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        17.911265,
+                        48.637267
                   ]
             }
       ]
@@ -4262,6 +4334,15 @@ imageHint: "Mirbach Palace Bratislava facade",
                         20.235985,
                         48.630868
                   ]
+            },
+            {
+                  "name": "Mini farma Hrádok",
+                  "text": "Ein Zoo beim Schloss Jelšava.",
+                  "category": "recreational",
+                  "coords": [
+                        20.302109,
+                        48.649605
+                  ]
             }
       ],
       "hu": [
@@ -4317,6 +4398,15 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         20.235985,
                         48.630868
+                  ]
+            },
+            {
+                  "name": "Mini farma Hrádok",
+                  "text": "Állatkert a jelšavai várnál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.302109,
+                        48.649605
                   ]
             }
       ],
@@ -4374,6 +4464,15 @@ imageHint: "Mirbach Palace Bratislava facade",
                         20.235985,
                         48.630868
                   ]
+            },
+            {
+                  "name": "Mini farma Hrádok",
+                  "text": "O grădină zoologică lângă Castelul Jelšava.",
+                  "category": "recreational",
+                  "coords": [
+                        20.302109,
+                        48.649605
+                  ]
             }
       ],
       "en": [
@@ -4429,6 +4528,15 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         20.235985,
                         48.630868
+                  ]
+            },
+            {
+                  "name": "Mini farma Hrádok",
+                  "text": "A zoo near Jelšava Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        20.302109,
+                        48.649605
                   ]
             }
       ]

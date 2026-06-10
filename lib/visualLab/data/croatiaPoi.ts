@@ -1013,6 +1013,15 @@ export const croatiaAllPoi = [
                         18.108726,
                         42.641662
                   ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein beliebter Badebereich in Dubrovnik für Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.062981,
+                        42.649338
+                  ]
             }
       ],
       "hu": [
@@ -1104,6 +1113,15 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.108726,
                         42.641662
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Népszerű fürdőhely Dubrovnikban a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.062981,
+                        42.649338
                   ]
             }
       ],
@@ -1197,6 +1215,15 @@ export const croatiaAllPoi = [
                         18.108726,
                         42.641662
                   ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O zonă de înot populară în Dubrovnik pentru recreere la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        18.062981,
+                        42.649338
+                  ]
             }
       ],
       "en": [
@@ -1288,6 +1315,15 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.108726,
                         42.641662
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A popular swimming area in Dubrovnik for seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.062981,
+                        42.649338
                   ]
             }
       ]
@@ -1437,7 +1473,52 @@ export const croatiaAllPoi = [
     image: "/images/visualLab/croatia/plitvice.jpg"
   },
   {
-    id: "hr-hvar",
+    id: "hr-hvar", "sights": {
+      "de": [
+            {
+                  "name": "BONJ",
+                  "text": "Ein exklusiver Strandclub in der Nähe des Hafens von Hvar.",
+                  "category": "recreational",
+                  "coords": [
+                        16.435074,
+                        43.171224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BONJ",
+                  "text": "Exkluzív strandklub Hvar kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.435074,
+                        43.171224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BONJ",
+                  "text": "Un club de plajă exclusivist situat lângă portul Hvar.",
+                  "category": "recreational",
+                  "coords": [
+                        16.435074,
+                        43.171224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BONJ",
+                  "text": "An exclusive beach club located near the port of Hvar.",
+                  "category": "recreational",
+                  "coords": [
+                        16.435074,
+                        43.171224
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "hr-country",
     coords: [16.4400, 43.1700],

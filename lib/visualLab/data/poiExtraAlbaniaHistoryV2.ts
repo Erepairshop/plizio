@@ -1578,6 +1578,15 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
                         20.016122,
                         39.866578
                   ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "Ein öffentlicher Strand in Saranda, in der Nähe des Klosters der vierzig Heiligen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
+                  ]
             }
       ],
       "hu": [
@@ -1588,6 +1597,15 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
                   "coords": [
                         20.016122,
                         39.866578
+                  ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "Nyilvános strand Sarandában, a Negyven Szent kolostora közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
                   ]
             }
       ],
@@ -1600,6 +1618,15 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
                         20.016122,
                         39.866578
                   ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "O plajă publică în Saranda, situată în apropierea Mănăstirii celor Patruzeci de Sfinți.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
+                  ]
             }
       ],
       "en": [
@@ -1610,6 +1637,15 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
                   "coords": [
                         20.016122,
                         39.866578
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "A public beach in Saranda, located near the Monastery of the Forty Saints.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
                   ]
             }
       ]
@@ -2639,7 +2675,52 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     image: "/poi-images/albania-albulena-battlefield-history-v2.webp",
   },
   {
-    id: "albania-vlora-1920-battlefield-history-v2",
+    id: "albania-vlora-1920-battlefield-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yacht Hotel Beach Chairs",
+                  "text": "Eine Strandeinrichtung mit Liegestühlen am Standort Battle of Vlora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.493586,
+                        40.430912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yacht Hotel Beach Chairs",
+                  "text": "Strandhely nyugágyakkal a Battle of Vlora helyszínén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.493586,
+                        40.430912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yacht Hotel Beach Chairs",
+                  "text": "O facilitate de plajă cu șezlonguri în situl Battle of Vlora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.493586,
+                        40.430912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yacht Hotel Beach Chairs",
+                  "text": "A beach facility with lounge chairs at the Battle of Vlora Site.",
+                  "category": "recreational",
+                  "coords": [
+                        19.493586,
+                        40.430912
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "AL",
     name: { de: "Schlachtfeld von Vlora 1920", hu: "Vlorai csatatér 1920", ro: "Câmpul de luptă Vlora 1920", en: "Battle of Vlora Site" },

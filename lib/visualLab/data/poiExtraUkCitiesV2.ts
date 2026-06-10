@@ -5928,6 +5928,15 @@ imageHint: "Manchester Town Hall and Albert Square",
                         -4.263285,
                         55.862583
                   ]
+            },
+            {
+                  "name": "3d Health and Fitness",
+                  "text": "Ein Fitnesscenter mit eigenem Schwimmbad in Glasgow.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.259676,
+                        55.865939
+                  ]
             }
       ],
       "hu": [
@@ -6559,6 +6568,15 @@ imageHint: "Manchester Town Hall and Albert Square",
                   "coords": [
                         -4.263285,
                         55.862583
+                  ]
+            },
+            {
+                  "name": "3d Health and Fitness",
+                  "text": "Fitneszközpont saját úszómedencével Glasgow-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.259676,
+                        55.865939
                   ]
             }
       ],
@@ -7192,6 +7210,15 @@ imageHint: "Manchester Town Hall and Albert Square",
                         -4.263285,
                         55.862583
                   ]
+            },
+            {
+                  "name": "3d Health and Fitness",
+                  "text": "Un centru de fitness cu piscină proprie în Glasgow.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.259676,
+                        55.865939
+                  ]
             }
       ],
       "en": [
@@ -7823,6 +7850,15 @@ imageHint: "Manchester Town Hall and Albert Square",
                   "coords": [
                         -4.263285,
                         55.862583
+                  ]
+            },
+            {
+                  "name": "3d Health and Fitness",
+                  "text": "A health and fitness center with its own swimming pool in Glasgow.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.259676,
+                        55.865939
                   ]
             }
       ]
@@ -15435,6 +15471,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.472444,
                         53.380864
                   ]
+            },
+            {
+                  "name": "Rivelin Valley Paddling Pools",
+                  "text": "Öffentliche Planschbecken für Kinder im Rivelin Valley von Sheffield.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.517505,
+                        53.391737
+                  ]
+            },
+            {
+                  "name": "Surf City",
+                  "text": "Ein Hallenbad mit Wellenreit-Möglichkeiten und Wasserpark-Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.461538,
+                        53.382243
+                  ]
+            },
+            {
+                  "name": "Graves Park Animal Farm",
+                  "text": "Ein städtischer Bauernhof im Graves Park von Sheffield, der heimische Tiere zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463022,
+                        53.338259
+                  ]
             }
       ],
       "hu": [
@@ -15703,6 +15766,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.472444,
                         53.380864
+                  ]
+            },
+            {
+                  "name": "Rivelin Valley Paddling Pools",
+                  "text": "Nyilvános pancsolómedencék gyerekeknek Sheffield Rivelin-völgyében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.517505,
+                        53.391737
+                  ]
+            },
+            {
+                  "name": "Surf City",
+                  "text": "Fedett uszoda hullámlovaglási lehetőséggel és víziparki élményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.461538,
+                        53.382243
+                  ]
+            },
+            {
+                  "name": "Graves Park Animal Farm",
+                  "text": "Városi gazdaság Sheffield Graves parkjában, amely hazai állatokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463022,
+                        53.338259
                   ]
             }
       ],
@@ -15973,6 +16063,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.472444,
                         53.380864
                   ]
+            },
+            {
+                  "name": "Rivelin Valley Paddling Pools",
+                  "text": "Piscine publice pentru copii în valea Rivelin din Sheffield.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.517505,
+                        53.391737
+                  ]
+            },
+            {
+                  "name": "Surf City",
+                  "text": "O piscină interioară cu facilități pentru surf și atracții de parc acvatic.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.461538,
+                        53.382243
+                  ]
+            },
+            {
+                  "name": "Graves Park Animal Farm",
+                  "text": "O fermă urbană în parcul Graves din Sheffield, care prezintă animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463022,
+                        53.338259
+                  ]
             }
       ],
       "en": [
@@ -16241,6 +16358,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.472444,
                         53.380864
+                  ]
+            },
+            {
+                  "name": "Rivelin Valley Paddling Pools",
+                  "text": "Public paddling pools for children in Sheffield's Rivelin Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.517505,
+                        53.391737
+                  ]
+            },
+            {
+                  "name": "Surf City",
+                  "text": "An indoor swimming pool with surfing facilities and water park attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.461538,
+                        53.382243
+                  ]
+            },
+            {
+                  "name": "Graves Park Animal Farm",
+                  "text": "A public animal farm in Sheffield's Graves Park showcasing domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463022,
+                        53.338259
                   ]
             }
       ]
@@ -20752,6 +20896,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.131815,
                         52.637548
                   ]
+            },
+            {
+                  "name": "Pets Corner",
+                  "text": "Ein kleiner Streichelzoo in Leicester, ideal für Familien und Kinder, um Tiere hautnah zu erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138894,
+                        52.649729
+                  ]
             }
       ],
       "hu": [
@@ -21316,6 +21469,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.131815,
                         52.637548
+                  ]
+            },
+            {
+                  "name": "Pets Corner",
+                  "text": "Kis állatsimogató Leicesterben, ahol a családok és gyerekek közelről ismerkedhetnek meg az állatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138894,
+                        52.649729
                   ]
             }
       ],
@@ -21882,6 +22044,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.131815,
                         52.637548
                   ]
+            },
+            {
+                  "name": "Pets Corner",
+                  "text": "O mică grădină zoologică în Leicester, ideală pentru familii și copii pentru a vedea animalele de aproape.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138894,
+                        52.649729
+                  ]
             }
       ],
       "en": [
@@ -22446,6 +22617,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.131815,
                         52.637548
+                  ]
+            },
+            {
+                  "name": "Pets Corner",
+                  "text": "A small petting zoo in Leicester, ideal for families and children to experience animals up close.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138894,
+                        52.649729
                   ]
             }
       ]
@@ -31449,6 +31629,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.054531,
                         57.132907
                   ]
+            },
+            {
+                  "name": "Aberdeen Grammar School Swimming Pool",
+                  "text": "Das schuleigene Schwimmbad der Aberdeen Grammar School.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116687,
+                        57.146857
+                  ]
             }
       ],
       "hu": [
@@ -32245,6 +32434,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.054531,
                         57.132907
+                  ]
+            },
+            {
+                  "name": "Aberdeen Grammar School Swimming Pool",
+                  "text": "Az Aberdeen Grammar School saját úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116687,
+                        57.146857
                   ]
             }
       ],
@@ -33043,6 +33241,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.054531,
                         57.132907
                   ]
+            },
+            {
+                  "name": "Aberdeen Grammar School Swimming Pool",
+                  "text": "Piscina școlii Aberdeen Grammar School.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116687,
+                        57.146857
+                  ]
             }
       ],
       "en": [
@@ -33839,6 +34046,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.054531,
                         57.132907
+                  ]
+            },
+            {
+                  "name": "Aberdeen Grammar School Swimming Pool",
+                  "text": "The private swimming pool of the Aberdeen Grammar School.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116687,
+                        57.146857
                   ]
             }
       ]
@@ -38208,6 +38424,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.310991,
                         51.375944
                   ]
+            },
+            {
+                  "name": "Staff outdoor swimming pool",
+                  "text": "Ein Freibad für Personal in Bath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.391793,
+                        51.393049
+                  ]
+            },
+            {
+                  "name": "Cleveland Pools",
+                  "text": "Das Cleveland Pools ist ein historisches Freibad in Bath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.347369,
+                        51.390921
+                  ]
             }
       ],
       "hu": [
@@ -38842,6 +39076,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.310991,
                         51.375944
+                  ]
+            },
+            {
+                  "name": "Staff outdoor swimming pool",
+                  "text": "Kültéri úszómedence személyzetnek Bath-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.391793,
+                        51.393049
+                  ]
+            },
+            {
+                  "name": "Cleveland Pools",
+                  "text": "A Cleveland Pools egy történelmi kültéri úszóhely Bath-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.347369,
+                        51.390921
                   ]
             }
       ],
@@ -39478,6 +39730,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.310991,
                         51.375944
                   ]
+            },
+            {
+                  "name": "Staff outdoor swimming pool",
+                  "text": "O piscină în aer liber pentru personal în Bath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.391793,
+                        51.393049
+                  ]
+            },
+            {
+                  "name": "Cleveland Pools",
+                  "text": "Cleveland Pools este un ștrand istoric în Bath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.347369,
+                        51.390921
+                  ]
             }
       ],
       "en": [
@@ -40112,6 +40382,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.310991,
                         51.375944
+                  ]
+            },
+            {
+                  "name": "Staff outdoor swimming pool",
+                  "text": "An outdoor swimming pool for staff in Bath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.391793,
+                        51.393049
+                  ]
+            },
+            {
+                  "name": "Cleveland Pools",
+                  "text": "Cleveland Pools is a historic outdoor swimming pool in Bath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.347369,
+                        51.390921
                   ]
             }
       ]
@@ -56654,6 +56942,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.531868,
                         50.729251
                   ]
+            },
+            {
+                  "name": "Riverside Leisure Centre Pool",
+                  "text": "Ein Schwimmbad im Riverside Freizeitzentrum in Exeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.536506,
+                        50.716478
+                  ]
+            },
+            {
+                  "name": "Cornwall House Swimming Pool",
+                  "text": "Das Cornwall House Schwimmbad befindet sich in Exeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.529338,
+                        50.734501
+                  ]
             }
       ],
       "hu": [
@@ -57363,6 +57669,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.531868,
                         50.729251
+                  ]
+            },
+            {
+                  "name": "Riverside Leisure Centre Pool",
+                  "text": "Úszómedence az exeteri Riverside szabadidőközpontban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.536506,
+                        50.716478
+                  ]
+            },
+            {
+                  "name": "Cornwall House Swimming Pool",
+                  "text": "A Cornwall House úszómedence Exeterben található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.529338,
+                        50.734501
                   ]
             }
       ],
@@ -58074,6 +58398,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.531868,
                         50.729251
                   ]
+            },
+            {
+                  "name": "Riverside Leisure Centre Pool",
+                  "text": "O piscină în centrul de agrement Riverside din Exeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.536506,
+                        50.716478
+                  ]
+            },
+            {
+                  "name": "Cornwall House Swimming Pool",
+                  "text": "Piscina Cornwall House se află în Exeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.529338,
+                        50.734501
+                  ]
             }
       ],
       "en": [
@@ -58783,6 +59125,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.531868,
                         50.729251
+                  ]
+            },
+            {
+                  "name": "Riverside Leisure Centre Pool",
+                  "text": "A swimming pool at the Riverside Leisure Centre in Exeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.536506,
+                        50.716478
+                  ]
+            },
+            {
+                  "name": "Cornwall House Swimming Pool",
+                  "text": "The Cornwall House swimming pool is located in Exeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.529338,
+                        50.734501
                   ]
             }
       ]
@@ -68895,7 +69255,772 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
 }
   },
   {
-    id: "uk-st-davids-cities-v2", "sights": {"de": [{"name": "Caerfai Beach", "text": "Dramatische Klippen rahmen den malerischen Caerfai Beach nahe der walisischen Kleinstadt St Davids ein. Diese geschützte Bucht besticht durch ihre natürliche Kulisse, die bei Ebbe herrlichen Sand und faszinierende Felsenpools freigibt. Der steile Zugang wird mit einem unvergleichlichen Naturerlebnis belohnt.", "category": "recreational", "coords": [-5.254008, 51.872475]}, {"name": "Caerbwdy Bay", "text": "Caerbwdy Bay ist eine kleine Bucht nahe St Davids.", "category": "recreational", "coords": [-5.245379, 51.873468]}, {"name": "Whitesands Beach", "text": "Einer der bekanntesten Strände rund um St Davids ist Whitesands Beach, der sich weit an der walisischen Küste öffnet. Sein breiter Sandstreifen zieht Familien, Surfer und Naturliebhaber gleichermaßen an, um die brechenden Wellen zu bewundern. Die Weitläufigkeit bietet auch an gut besuchten Sommertagen ausreichend Platz.", "category": "recreational", "coords": [-5.298146, 51.894118]}, {"name": "Porthselau Beach", "text": "Ein wahrer Geheimtipp in der Nähe von St Davids ist der idyllische Porthselau Beach. Diese intime Sandbucht bietet eine wundervoll ruhige Atmosphäre, die ideal zum Entspannen abseits der bekannteren Hauptstrände ist. Wer ein bisschen Fußweg über den Küstenpfad auf sich nimmt, findet hier sein persönliches Paradies.", "category": "recreational", "coords": [-5.304952, 51.886509]}, {"name": "Castell Heinif", "text": "Eine archäologische Stätte in St Davids, die Überreste einer alten Festungsanlage umfasst.", "category": "historical", "coords": [-5.30818, 51.874271]}, {"name": "Clegyr Boia", "text": "Eine bedeutende Ausgrabungsstätte in St Davids mit Siedlungsspuren aus der Jungsteinzeit und Eisenzeit.", "category": "historical", "coords": [-5.288571, 51.878492]}, {"name": "Caerfai Camp", "text": "Überreste einer eisenzeitlichen Küstenfestung oberhalb der Caerfai-Bucht.", "category": "historical", "coords": [-5.251325, 51.869501]}, {"name": "Menapia Roman Station", "text": "Eine archäologische Fundstätte in St Davids, die mit einer römischen Station in Verbindung gebracht wird.", "category": "historical", "coords": [-5.294015, 51.895651]}, {"name": "Standing Stone", "text": "Ein prähistorischer Menhir in der Nähe von St Davids.", "category": "historical", "coords": [-5.24678, 51.88549]}, {"name": "Treasury of the Cathedral", "text": "Ein Museum, das wertvolle religiöse Artefakte und Schätze der Kathedrale von St Davids ausstellt.", "category": "museum", "coords": [-5.268397, 51.882115]}, {"name": "Ring and Bailey", "text": "Eine historische archäologische Stätte mit Überresten einer Wallanlage in St Davids.", "category": "historical", "coords": [-5.278258, 51.879384]}, {"name": "St David's Airfield", "text": "Ein ehemaliger Militärflugplatz, der heute als Naturschutzgebiet dient.", "category": "natural", "coords": [-5.212871, 51.886268]}, {"name": "Lime Kiln Ruins", "text": "Überreste historischer Kalköfen in der Nähe der Küste von St Davids.", "category": "historical", "coords": [-5.283274, 51.870327]}, {"name": "Carn Trefeiddan", "text": "Ein markanter Hügel in der Nähe von St Davids mit weitem Blick über die Küste.", "category": "natural", "coords": [-5.300469, 51.877643]}, {"name": "Caerfai Bay", "text": "Eine malerische Bucht an der Küste von Pembrokeshire bei St Davids.", "category": "landmark", "coords": [-5.255992, 51.870331]}, {"name": "St Non's Chapel (ruins)", "text": "Die Ruinen einer Kapelle an der Küste, die als traditioneller Geburtsort des Heiligen David gilt.", "category": "historical", "coords": [-5.268831, 51.872215]}, {"name": "Aquaphobia", "text": "Ein Anbieter von Bootstouren in St Davids, der Ausflüge zur Küste und zu den Inseln anbietet.", "category": "landmark", "coords": [-5.261648, 51.880798]}, {"name": "Voyages of Discovery", "text": "Ein Unternehmen in St Davids, das geführte Bootssafaris zur Beobachtung der Tierwelt anbietet.", "category": "landmark", "coords": [-5.264921, 51.881149]}, {"name": "Ebenezer", "text": "Eine historische Kapelle der kongregationalistischen Gemeinde in St Davids.", "category": "religious", "coords": [-5.265445, 51.882543]}, {"name": "Seion Capel y Bedyddwyr", "text": "Ein walisisches baptistisches Gotteshaus im Zentrum von St Davids.", "category": "religious", "coords": [-5.264259, 51.882127]}], "hu": [{"name": "Caerfai Beach", "text": "Drámai sziklák ölelik körbe a festői Caerfai Beach strandot a walesi kisváros, St Davids közelében. Ez a védett öböl természetes díszletével hódít, amely apálykor gyönyörű homokot és lenyűgöző sziklamedencéket tár fel. A meredek lejutást egy páratlan természeti élmény jutalmazza.", "category": "recreational", "coords": [-5.254008, 51.872475]}, {"name": "Caerbwdy Bay", "text": "A Caerbwdy Bay egy kis öböl St Davids közelében.", "category": "recreational", "coords": [-5.245379, 51.873468]}, {"name": "Whitesands Beach", "text": "A St Davids környéki strandok egyike a híres Whitesands Beach, amely szélesen nyílik a walesi tengerparton. Széles homoksávja egyaránt vonzza a családokat, a szörfösöket és a természet szerelmeseit, hogy megcsodálják a megtörő hullámokat. A tágasság még a forgalmas nyári napokon is elegendő teret biztosít.", "category": "recreational", "coords": [-5.298146, 51.894118]}, {"name": "Porthselau Beach", "text": "A St Davids közelében található idilli Porthselau Beach igazi rejtett kincs. Ez a meghitt homokos öböl csodálatosan nyugodt légkört kínál, amely ideális a pihenésre a közismertebb főbb strandoktól távol. Aki vállalja a parti ösvényen tett rövid sétát, itt meglelheti személyes paradicsomát.", "category": "recreational", "coords": [-5.304952, 51.886509]}, {"name": "Castell Heinif", "text": "Régészeti lelőhely St Davidsben, amely egy ősi erődítmény maradványait tartalmazza.", "category": "historical", "coords": [-5.30818, 51.874271]}, {"name": "Clegyr Boia", "text": "Jelentős régészeti lelőhely St Davidsben, neolitikumi és vaskori településnyomokkal.", "category": "historical", "coords": [-5.288571, 51.878492]}, {"name": "Caerfai Camp", "text": "Vaskori parti erőd maradványai a Caerfai-öböl felett.", "category": "historical", "coords": [-5.251325, 51.869501]}, {"name": "Menapia Roman Station", "text": "Régészeti lelőhely St Davidsben, amelyet egy római állomással azonosítanak.", "category": "historical", "coords": [-5.294015, 51.895651]}, {"name": "Standing Stone", "text": "Egy őskori menhir St Davids közelében.", "category": "historical", "coords": [-5.24678, 51.88549]}, {"name": "Treasury of the Cathedral", "text": "Múzeum, amely a St Davids-székesegyház értékes vallási tárgyait és kincseit mutatja be.", "category": "museum", "coords": [-5.268397, 51.882115]}, {"name": "Ring and Bailey", "text": "Történelmi régészeti lelőhely egy sáncvár maradványaival St Davidsben.", "category": "historical", "coords": [-5.278258, 51.879384]}, {"name": "St David's Airfield", "text": "Egykori katonai repülőtér, amely ma természetvédelmi területként működik.", "category": "natural", "coords": [-5.212871, 51.886268]}, {"name": "Lime Kiln Ruins", "text": "Történelmi mészégető kemencék maradványai St Davids partjai közelében.", "category": "historical", "coords": [-5.283274, 51.870327]}, {"name": "Carn Trefeiddan", "text": "Jellegzetes domb St Davids közelében, széles kilátással a tengerpartra.", "category": "natural", "coords": [-5.300469, 51.877643]}, {"name": "Caerfai Bay", "text": "Festői öböl Pembrokeshire partjainál, St Davids közelében.", "category": "landmark", "coords": [-5.255992, 51.870331]}, {"name": "St Non's Chapel (ruins)", "text": "Egy tengerparti kápolna romjai, amely a hagyomány szerint Szent Dávid szülőhelye.", "category": "historical", "coords": [-5.268831, 51.872215]}, {"name": "Aquaphobia", "text": "Hajókirándulásokat szervező cég St Davidsben, amely a partvidék és a szigetek felfedezését kínálja.", "category": "landmark", "coords": [-5.261648, 51.880798]}, {"name": "Voyages of Discovery", "text": "Vadvilág-megfigyelő hajós szafarikat kínáló vállalkozás St Davidsben.", "category": "landmark", "coords": [-5.264921, 51.881149]}, {"name": "Ebenezer", "text": "A kongregacionalista közösség történelmi kápolnája St Davidsben.", "category": "religious", "coords": [-5.265445, 51.882543]}, {"name": "Seion Capel y Bedyddwyr", "text": "Walesi baptista imaház St Davids központjában.", "category": "religious", "coords": [-5.264259, 51.882127]}], "ro": [{"name": "Caerfai Beach", "text": "Stânci dramatice încadrează pitoreasca Caerfai Beach din apropierea micului oraș galez St Davids. Acest golf adăpostit captivează cu decorul său natural, care la reflux dezvăluie un nisip minunat și bazine fermecătoare în stâncă. Accesul abrupt este răsplătit cu o experiență naturală inegalabilă.", "category": "recreational", "coords": [-5.254008, 51.872475]}, {"name": "Caerbwdy Bay", "text": "Caerbwdy Bay este un golfuleț de lângă St Davids.", "category": "recreational", "coords": [-5.245379, 51.873468]}, {"name": "Whitesands Beach", "text": "Una dintre cele mai faimoase plaje din jurul orașului St Davids este Whitesands Beach, care se deschide larg pe coasta galeză. Fâșia sa lată de nisip atrage familii, surferi și iubitori de natură deopotrivă pentru a admira valurile sparte. Vasta sa întindere oferă spațiu suficient chiar și în zilele aglomerate de vară.", "category": "recreational", "coords": [-5.298146, 51.894118]}, {"name": "Porthselau Beach", "text": "Un adevărat pont secret în apropiere de St Davids este idilica plajă Porthselau Beach. Acest golf intim de nisip oferă o atmosferă minunat de liniștită, ideală pentru relaxare departe de plajele principale mai cunoscute. Cei care parcurg o mică bucată de drum pe cărarea de coastă își vor găsi aici paradisul personal.", "category": "recreational", "coords": [-5.304952, 51.886509]}, {"name": "Castell Heinif", "text": "Un sit arheologic din St Davids, cuprinzând vestigiile unei vechi fortificații.", "category": "historical", "coords": [-5.30818, 51.874271]}, {"name": "Clegyr Boia", "text": "Un sit arheologic important din St Davids, cu urme de așezări din neolitic și epoca fierului.", "category": "historical", "coords": [-5.288571, 51.878492]}, {"name": "Caerfai Camp", "text": "Rămășițele unei fortărețe de coastă din epoca fierului, situată deasupra golfului Caerfai.", "category": "historical", "coords": [-5.251325, 51.869501]}, {"name": "Menapia Roman Station", "text": "Un sit arheologic din St Davids, asociat cu o stație romană.", "category": "historical", "coords": [-5.294015, 51.895651]}, {"name": "Standing Stone", "text": "Un menhir preistoric situat în apropiere de St Davids.", "category": "historical", "coords": [-5.24678, 51.88549]}, {"name": "Treasury of the Cathedral", "text": "Un muzeu care expune artefacte religioase prețioase și comori ale catedralei din St Davids.", "category": "museum", "coords": [-5.268397, 51.882115]}, {"name": "Ring and Bailey", "text": "Un sit arheologic istoric cu rămășițele unei fortificații în St Davids.", "category": "historical", "coords": [-5.278258, 51.879384]}, {"name": "St David's Airfield", "text": "Un fost aerodrom militar care servește astăzi ca rezervație naturală.", "category": "natural", "coords": [-5.212871, 51.886268]}, {"name": "Lime Kiln Ruins", "text": "Rămășițele unor cuptoare de var istorice lângă coasta din St Davids.", "category": "historical", "coords": [-5.283274, 51.870327]}, {"name": "Carn Trefeiddan", "text": "Un deal distinctiv lângă St Davids, oferind o vedere panoramică asupra coastei.", "category": "natural", "coords": [-5.300469, 51.877643]}, {"name": "Caerfai Bay", "text": "Un golf pitoresc pe coasta Pembrokeshire, lângă St Davids.", "category": "landmark", "coords": [-5.255992, 51.870331]}, {"name": "St Non's Chapel (ruins)", "text": "Ruinele unei capele de coastă, considerată locul tradițional de naștere al Sfântului David.", "category": "historical", "coords": [-5.268831, 51.872215]}, {"name": "Aquaphobia", "text": "Un furnizor de tururi cu barca din St Davids, care oferă excursii către coastă și insule.", "category": "landmark", "coords": [-5.261648, 51.880798]}, {"name": "Voyages of Discovery", "text": "O companie din St Davids care oferă safariuri cu barca pentru observarea faunei sălbatice.", "category": "landmark", "coords": [-5.264921, 51.881149]}, {"name": "Ebenezer", "text": "O capelă istorică a comunității congregaționaliste din St Davids.", "category": "religious", "coords": [-5.265445, 51.882543]}, {"name": "Seion Capel y Bedyddwyr", "text": "O casă de cult baptistă galeză în centrul orașului St Davids.", "category": "religious", "coords": [-5.264259, 51.882127]}], "en": [{"name": "Caerfai Beach", "text": "Dramatic cliffs frame the picturesque Caerfai Beach near the small Welsh city of St Davids. This sheltered bay captivates with its natural backdrop, which reveals wonderful sand and fascinating rock pools at low tide. The steep access is rewarded with an unparalleled natural experience.", "category": "recreational", "coords": [-5.254008, 51.872475]}, {"name": "Caerbwdy Bay", "text": "Caerbwdy Bay is a small bay near St Davids.", "category": "recreational", "coords": [-5.245379, 51.873468]}, {"name": "Whitesands Beach", "text": "One of the most famous beaches around St Davids is Whitesands Beach, which opens widely onto the Welsh coast. Its broad stretch of sand attracts families, surfers, and nature lovers alike to admire the crashing waves. Its vastness provides ample space even on busy summer days.", "category": "recreational", "coords": [-5.298146, 51.894118]}, {"name": "Porthselau Beach", "text": "A true hidden gem near St Davids is the idyllic Porthselau Beach. This intimate sandy cove offers a wonderfully quiet atmosphere that is ideal for relaxing away from the more famous main beaches. Those willing to take a short walk along the coastal path will find their personal paradise here.", "category": "recreational", "coords": [-5.304952, 51.886509]}, {"name": "Castell Heinif", "text": "An archaeological site in St Davids comprising the remains of an ancient fortification.", "category": "historical", "coords": [-5.30818, 51.874271]}, {"name": "Clegyr Boia", "text": "A significant archaeological site in St Davids with traces of Neolithic and Iron Age settlement.", "category": "historical", "coords": [-5.288571, 51.878492]}, {"name": "Caerfai Camp", "text": "Remains of an Iron Age coastal hillfort overlooking Caerfai Bay.", "category": "historical", "coords": [-5.251325, 51.869501]}, {"name": "Menapia Roman Station", "text": "An archaeological site in St Davids associated with a Roman station.", "category": "historical", "coords": [-5.294015, 51.895651]}, {"name": "Standing Stone", "text": "A prehistoric standing stone located near St Davids.", "category": "historical", "coords": [-5.24678, 51.88549]}, {"name": "Treasury of the Cathedral", "text": "A museum displaying valuable religious artifacts and treasures of St Davids Cathedral.", "category": "museum", "coords": [-5.268397, 51.882115]}, {"name": "Ring and Bailey", "text": "A historic archaeological site featuring the remains of an earthwork fortification in St Davids.", "category": "historical", "coords": [-5.278258, 51.879384]}, {"name": "St David's Airfield", "text": "A former military airfield that now serves as a nature reserve.", "category": "natural", "coords": [-5.212871, 51.886268]}, {"name": "Lime Kiln Ruins", "text": "Remains of historic lime kilns near the coast of St Davids.", "category": "historical", "coords": [-5.283274, 51.870327]}, {"name": "Carn Trefeiddan", "text": "A prominent hill near St Davids offering wide views over the coast.", "category": "natural", "coords": [-5.300469, 51.877643]}, {"name": "Caerfai Bay", "text": "A picturesque bay on the Pembrokeshire coast near St Davids.", "category": "landmark", "coords": [-5.255992, 51.870331]}, {"name": "St Non's Chapel (ruins)", "text": "The ruins of a coastal chapel, considered the traditional birthplace of Saint David.", "category": "historical", "coords": [-5.268831, 51.872215]}, {"name": "Aquaphobia", "text": "A boat tour provider in St Davids offering trips to the coast and islands.", "category": "landmark", "coords": [-5.261648, 51.880798]}, {"name": "Voyages of Discovery", "text": "A business in St Davids providing guided boat safaris for wildlife watching.", "category": "landmark", "coords": [-5.264921, 51.881149]}, {"name": "Ebenezer Congregational Chapel", "text": "A historic chapel of the congregational community in St Davids.", "category": "religious", "coords": [-5.265445, 51.882543]}, {"name": "Seion Capel y Bedyddwyr", "text": "A Welsh Baptist place of worship in the center of St Davids.", "category": "religious", "coords": [-5.264259, 51.882127]}]},
+    id: "uk-st-davids-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Dramatische Klippen rahmen den malerischen Caerfai Beach nahe der walisischen Kleinstadt St Davids ein. Diese geschützte Bucht besticht durch ihre natürliche Kulisse, die bei Ebbe herrlichen Sand und faszinierende Felsenpools freigibt. Der steile Zugang wird mit einem unvergleichlichen Naturerlebnis belohnt.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "Caerbwdy Bay ist eine kleine Bucht nahe St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "Einer der bekanntesten Strände rund um St Davids ist Whitesands Beach, der sich weit an der walisischen Küste öffnet. Sein breiter Sandstreifen zieht Familien, Surfer und Naturliebhaber gleichermaßen an, um die brechenden Wellen zu bewundern. Die Weitläufigkeit bietet auch an gut besuchten Sommertagen ausreichend Platz.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "Ein wahrer Geheimtipp in der Nähe von St Davids ist der idyllische Porthselau Beach. Diese intime Sandbucht bietet eine wundervoll ruhige Atmosphäre, die ideal zum Entspannen abseits der bekannteren Hauptstrände ist. Wer ein bisschen Fußweg über den Küstenpfad auf sich nimmt, findet hier sein persönliches Paradies.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            },
+            {
+                  "name": "Castell Heinif",
+                  "text": "Eine archäologische Stätte in St Davids, die Überreste einer alten Festungsanlage umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        -5.30818,
+                        51.874271
+                  ]
+            },
+            {
+                  "name": "Clegyr Boia",
+                  "text": "Eine bedeutende Ausgrabungsstätte in St Davids mit Siedlungsspuren aus der Jungsteinzeit und Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        -5.288571,
+                        51.878492
+                  ]
+            },
+            {
+                  "name": "Caerfai Camp",
+                  "text": "Überreste einer eisenzeitlichen Küstenfestung oberhalb der Caerfai-Bucht.",
+                  "category": "historical",
+                  "coords": [
+                        -5.251325,
+                        51.869501
+                  ]
+            },
+            {
+                  "name": "Menapia Roman Station",
+                  "text": "Eine archäologische Fundstätte in St Davids, die mit einer römischen Station in Verbindung gebracht wird.",
+                  "category": "historical",
+                  "coords": [
+                        -5.294015,
+                        51.895651
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Ein prähistorischer Menhir in der Nähe von St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.24678,
+                        51.88549
+                  ]
+            },
+            {
+                  "name": "Treasury of the Cathedral",
+                  "text": "Ein Museum, das wertvolle religiöse Artefakte und Schätze der Kathedrale von St Davids ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -5.268397,
+                        51.882115
+                  ]
+            },
+            {
+                  "name": "Ring and Bailey",
+                  "text": "Eine historische archäologische Stätte mit Überresten einer Wallanlage in St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.278258,
+                        51.879384
+                  ]
+            },
+            {
+                  "name": "St David's Airfield",
+                  "text": "Ein ehemaliger Militärflugplatz, der heute als Naturschutzgebiet dient.",
+                  "category": "natural",
+                  "coords": [
+                        -5.212871,
+                        51.886268
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Ruins",
+                  "text": "Überreste historischer Kalköfen in der Nähe der Küste von St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.283274,
+                        51.870327
+                  ]
+            },
+            {
+                  "name": "Carn Trefeiddan",
+                  "text": "Ein markanter Hügel in der Nähe von St Davids mit weitem Blick über die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -5.300469,
+                        51.877643
+                  ]
+            },
+            {
+                  "name": "Caerfai Bay",
+                  "text": "Eine malerische Bucht an der Küste von Pembrokeshire bei St Davids.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.255992,
+                        51.870331
+                  ]
+            },
+            {
+                  "name": "St Non's Chapel (ruins)",
+                  "text": "Die Ruinen einer Kapelle an der Küste, die als traditioneller Geburtsort des Heiligen David gilt.",
+                  "category": "historical",
+                  "coords": [
+                        -5.268831,
+                        51.872215
+                  ]
+            },
+            {
+                  "name": "Aquaphobia",
+                  "text": "Ein Anbieter von Bootstouren in St Davids, der Ausflüge zur Küste und zu den Inseln anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261648,
+                        51.880798
+                  ]
+            },
+            {
+                  "name": "Voyages of Discovery",
+                  "text": "Ein Unternehmen in St Davids, das geführte Bootssafaris zur Beobachtung der Tierwelt anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.264921,
+                        51.881149
+                  ]
+            },
+            {
+                  "name": "Ebenezer",
+                  "text": "Eine historische Kapelle der kongregationalistischen Gemeinde in St Davids.",
+                  "category": "religious",
+                  "coords": [
+                        -5.265445,
+                        51.882543
+                  ]
+            },
+            {
+                  "name": "Seion Capel y Bedyddwyr",
+                  "text": "Ein walisisches baptistisches Gotteshaus im Zentrum von St Davids.",
+                  "category": "religious",
+                  "coords": [
+                        -5.264259,
+                        51.882127
+                  ]
+            },
+            {
+                  "name": "Porthlysgi Bay",
+                  "text": "Eine ruhige und abgelegene Bucht bei St Davids, die eine wunderschöne Küstenlandschaft bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.297246,
+                        51.865569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Drámai sziklák ölelik körbe a festői Caerfai Beach strandot a walesi kisváros, St Davids közelében. Ez a védett öböl természetes díszletével hódít, amely apálykor gyönyörű homokot és lenyűgöző sziklamedencéket tár fel. A meredek lejutást egy páratlan természeti élmény jutalmazza.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "A Caerbwdy Bay egy kis öböl St Davids közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "A St Davids környéki strandok egyike a híres Whitesands Beach, amely szélesen nyílik a walesi tengerparton. Széles homoksávja egyaránt vonzza a családokat, a szörfösöket és a természet szerelmeseit, hogy megcsodálják a megtörő hullámokat. A tágasság még a forgalmas nyári napokon is elegendő teret biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "A St Davids közelében található idilli Porthselau Beach igazi rejtett kincs. Ez a meghitt homokos öböl csodálatosan nyugodt légkört kínál, amely ideális a pihenésre a közismertebb főbb strandoktól távol. Aki vállalja a parti ösvényen tett rövid sétát, itt meglelheti személyes paradicsomát.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            },
+            {
+                  "name": "Castell Heinif",
+                  "text": "Régészeti lelőhely St Davidsben, amely egy ősi erődítmény maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        -5.30818,
+                        51.874271
+                  ]
+            },
+            {
+                  "name": "Clegyr Boia",
+                  "text": "Jelentős régészeti lelőhely St Davidsben, neolitikumi és vaskori településnyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -5.288571,
+                        51.878492
+                  ]
+            },
+            {
+                  "name": "Caerfai Camp",
+                  "text": "Vaskori parti erőd maradványai a Caerfai-öböl felett.",
+                  "category": "historical",
+                  "coords": [
+                        -5.251325,
+                        51.869501
+                  ]
+            },
+            {
+                  "name": "Menapia Roman Station",
+                  "text": "Régészeti lelőhely St Davidsben, amelyet egy római állomással azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        -5.294015,
+                        51.895651
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Egy őskori menhir St Davids közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.24678,
+                        51.88549
+                  ]
+            },
+            {
+                  "name": "Treasury of the Cathedral",
+                  "text": "Múzeum, amely a St Davids-székesegyház értékes vallási tárgyait és kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.268397,
+                        51.882115
+                  ]
+            },
+            {
+                  "name": "Ring and Bailey",
+                  "text": "Történelmi régészeti lelőhely egy sáncvár maradványaival St Davidsben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.278258,
+                        51.879384
+                  ]
+            },
+            {
+                  "name": "St David's Airfield",
+                  "text": "Egykori katonai repülőtér, amely ma természetvédelmi területként működik.",
+                  "category": "natural",
+                  "coords": [
+                        -5.212871,
+                        51.886268
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Ruins",
+                  "text": "Történelmi mészégető kemencék maradványai St Davids partjai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.283274,
+                        51.870327
+                  ]
+            },
+            {
+                  "name": "Carn Trefeiddan",
+                  "text": "Jellegzetes domb St Davids közelében, széles kilátással a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.300469,
+                        51.877643
+                  ]
+            },
+            {
+                  "name": "Caerfai Bay",
+                  "text": "Festői öböl Pembrokeshire partjainál, St Davids közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.255992,
+                        51.870331
+                  ]
+            },
+            {
+                  "name": "St Non's Chapel (ruins)",
+                  "text": "Egy tengerparti kápolna romjai, amely a hagyomány szerint Szent Dávid szülőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -5.268831,
+                        51.872215
+                  ]
+            },
+            {
+                  "name": "Aquaphobia",
+                  "text": "Hajókirándulásokat szervező cég St Davidsben, amely a partvidék és a szigetek felfedezését kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261648,
+                        51.880798
+                  ]
+            },
+            {
+                  "name": "Voyages of Discovery",
+                  "text": "Vadvilág-megfigyelő hajós szafarikat kínáló vállalkozás St Davidsben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.264921,
+                        51.881149
+                  ]
+            },
+            {
+                  "name": "Ebenezer",
+                  "text": "A kongregacionalista közösség történelmi kápolnája St Davidsben.",
+                  "category": "religious",
+                  "coords": [
+                        -5.265445,
+                        51.882543
+                  ]
+            },
+            {
+                  "name": "Seion Capel y Bedyddwyr",
+                  "text": "Walesi baptista imaház St Davids központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.264259,
+                        51.882127
+                  ]
+            },
+            {
+                  "name": "Porthlysgi Bay",
+                  "text": "Csendes és távoli öböl St Davids közelében, amely gyönyörű tengerparti tájat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.297246,
+                        51.865569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Stânci dramatice încadrează pitoreasca Caerfai Beach din apropierea micului oraș galez St Davids. Acest golf adăpostit captivează cu decorul său natural, care la reflux dezvăluie un nisip minunat și bazine fermecătoare în stâncă. Accesul abrupt este răsplătit cu o experiență naturală inegalabilă.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "Caerbwdy Bay este un golfuleț de lângă St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "Una dintre cele mai faimoase plaje din jurul orașului St Davids este Whitesands Beach, care se deschide larg pe coasta galeză. Fâșia sa lată de nisip atrage familii, surferi și iubitori de natură deopotrivă pentru a admira valurile sparte. Vasta sa întindere oferă spațiu suficient chiar și în zilele aglomerate de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "Un adevărat pont secret în apropiere de St Davids este idilica plajă Porthselau Beach. Acest golf intim de nisip oferă o atmosferă minunat de liniștită, ideală pentru relaxare departe de plajele principale mai cunoscute. Cei care parcurg o mică bucată de drum pe cărarea de coastă își vor găsi aici paradisul personal.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            },
+            {
+                  "name": "Castell Heinif",
+                  "text": "Un sit arheologic din St Davids, cuprinzând vestigiile unei vechi fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        -5.30818,
+                        51.874271
+                  ]
+            },
+            {
+                  "name": "Clegyr Boia",
+                  "text": "Un sit arheologic important din St Davids, cu urme de așezări din neolitic și epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        -5.288571,
+                        51.878492
+                  ]
+            },
+            {
+                  "name": "Caerfai Camp",
+                  "text": "Rămășițele unei fortărețe de coastă din epoca fierului, situată deasupra golfului Caerfai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.251325,
+                        51.869501
+                  ]
+            },
+            {
+                  "name": "Menapia Roman Station",
+                  "text": "Un sit arheologic din St Davids, asociat cu o stație romană.",
+                  "category": "historical",
+                  "coords": [
+                        -5.294015,
+                        51.895651
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Un menhir preistoric situat în apropiere de St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.24678,
+                        51.88549
+                  ]
+            },
+            {
+                  "name": "Treasury of the Cathedral",
+                  "text": "Un muzeu care expune artefacte religioase prețioase și comori ale catedralei din St Davids.",
+                  "category": "museum",
+                  "coords": [
+                        -5.268397,
+                        51.882115
+                  ]
+            },
+            {
+                  "name": "Ring and Bailey",
+                  "text": "Un sit arheologic istoric cu rămășițele unei fortificații în St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.278258,
+                        51.879384
+                  ]
+            },
+            {
+                  "name": "St David's Airfield",
+                  "text": "Un fost aerodrom militar care servește astăzi ca rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -5.212871,
+                        51.886268
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Ruins",
+                  "text": "Rămășițele unor cuptoare de var istorice lângă coasta din St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.283274,
+                        51.870327
+                  ]
+            },
+            {
+                  "name": "Carn Trefeiddan",
+                  "text": "Un deal distinctiv lângă St Davids, oferind o vedere panoramică asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        -5.300469,
+                        51.877643
+                  ]
+            },
+            {
+                  "name": "Caerfai Bay",
+                  "text": "Un golf pitoresc pe coasta Pembrokeshire, lângă St Davids.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.255992,
+                        51.870331
+                  ]
+            },
+            {
+                  "name": "St Non's Chapel (ruins)",
+                  "text": "Ruinele unei capele de coastă, considerată locul tradițional de naștere al Sfântului David.",
+                  "category": "historical",
+                  "coords": [
+                        -5.268831,
+                        51.872215
+                  ]
+            },
+            {
+                  "name": "Aquaphobia",
+                  "text": "Un furnizor de tururi cu barca din St Davids, care oferă excursii către coastă și insule.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261648,
+                        51.880798
+                  ]
+            },
+            {
+                  "name": "Voyages of Discovery",
+                  "text": "O companie din St Davids care oferă safariuri cu barca pentru observarea faunei sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.264921,
+                        51.881149
+                  ]
+            },
+            {
+                  "name": "Ebenezer",
+                  "text": "O capelă istorică a comunității congregaționaliste din St Davids.",
+                  "category": "religious",
+                  "coords": [
+                        -5.265445,
+                        51.882543
+                  ]
+            },
+            {
+                  "name": "Seion Capel y Bedyddwyr",
+                  "text": "O casă de cult baptistă galeză în centrul orașului St Davids.",
+                  "category": "religious",
+                  "coords": [
+                        -5.264259,
+                        51.882127
+                  ]
+            },
+            {
+                  "name": "Porthlysgi Bay",
+                  "text": "Un golf liniștit și izolat lângă St Davids, oferind un peisaj de coastă superb.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.297246,
+                        51.865569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Dramatic cliffs frame the picturesque Caerfai Beach near the small Welsh city of St Davids. This sheltered bay captivates with its natural backdrop, which reveals wonderful sand and fascinating rock pools at low tide. The steep access is rewarded with an unparalleled natural experience.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "Caerbwdy Bay is a small bay near St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "One of the most famous beaches around St Davids is Whitesands Beach, which opens widely onto the Welsh coast. Its broad stretch of sand attracts families, surfers, and nature lovers alike to admire the crashing waves. Its vastness provides ample space even on busy summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "A true hidden gem near St Davids is the idyllic Porthselau Beach. This intimate sandy cove offers a wonderfully quiet atmosphere that is ideal for relaxing away from the more famous main beaches. Those willing to take a short walk along the coastal path will find their personal paradise here.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            },
+            {
+                  "name": "Castell Heinif",
+                  "text": "An archaeological site in St Davids comprising the remains of an ancient fortification.",
+                  "category": "historical",
+                  "coords": [
+                        -5.30818,
+                        51.874271
+                  ]
+            },
+            {
+                  "name": "Clegyr Boia",
+                  "text": "A significant archaeological site in St Davids with traces of Neolithic and Iron Age settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -5.288571,
+                        51.878492
+                  ]
+            },
+            {
+                  "name": "Caerfai Camp",
+                  "text": "Remains of an Iron Age coastal hillfort overlooking Caerfai Bay.",
+                  "category": "historical",
+                  "coords": [
+                        -5.251325,
+                        51.869501
+                  ]
+            },
+            {
+                  "name": "Menapia Roman Station",
+                  "text": "An archaeological site in St Davids associated with a Roman station.",
+                  "category": "historical",
+                  "coords": [
+                        -5.294015,
+                        51.895651
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "A prehistoric standing stone located near St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.24678,
+                        51.88549
+                  ]
+            },
+            {
+                  "name": "Treasury of the Cathedral",
+                  "text": "A museum displaying valuable religious artifacts and treasures of St Davids Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        -5.268397,
+                        51.882115
+                  ]
+            },
+            {
+                  "name": "Ring and Bailey",
+                  "text": "A historic archaeological site featuring the remains of an earthwork fortification in St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.278258,
+                        51.879384
+                  ]
+            },
+            {
+                  "name": "St David's Airfield",
+                  "text": "A former military airfield that now serves as a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -5.212871,
+                        51.886268
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Ruins",
+                  "text": "Remains of historic lime kilns near the coast of St Davids.",
+                  "category": "historical",
+                  "coords": [
+                        -5.283274,
+                        51.870327
+                  ]
+            },
+            {
+                  "name": "Carn Trefeiddan",
+                  "text": "A prominent hill near St Davids offering wide views over the coast.",
+                  "category": "natural",
+                  "coords": [
+                        -5.300469,
+                        51.877643
+                  ]
+            },
+            {
+                  "name": "Caerfai Bay",
+                  "text": "A picturesque bay on the Pembrokeshire coast near St Davids.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.255992,
+                        51.870331
+                  ]
+            },
+            {
+                  "name": "St Non's Chapel (ruins)",
+                  "text": "The ruins of a coastal chapel, considered the traditional birthplace of Saint David.",
+                  "category": "historical",
+                  "coords": [
+                        -5.268831,
+                        51.872215
+                  ]
+            },
+            {
+                  "name": "Aquaphobia",
+                  "text": "A boat tour provider in St Davids offering trips to the coast and islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261648,
+                        51.880798
+                  ]
+            },
+            {
+                  "name": "Voyages of Discovery",
+                  "text": "A business in St Davids providing guided boat safaris for wildlife watching.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.264921,
+                        51.881149
+                  ]
+            },
+            {
+                  "name": "Ebenezer Congregational Chapel",
+                  "text": "A historic chapel of the congregational community in St Davids.",
+                  "category": "religious",
+                  "coords": [
+                        -5.265445,
+                        51.882543
+                  ]
+            },
+            {
+                  "name": "Seion Capel y Bedyddwyr",
+                  "text": "A Welsh Baptist place of worship in the center of St Davids.",
+                  "category": "religious",
+                  "coords": [
+                        -5.264259,
+                        51.882127
+                  ]
+            },
+            {
+                  "name": "Porthlysgi Bay",
+                  "text": "A quiet and remote bay near St Davids, offering beautiful coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.297246,
+                        51.865569
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "city",
     name: { de: "St Davids", hu: "St Davids", ro: "St Davids", en: "St Davids"},
@@ -69576,6 +70701,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.357355,
                         53.774405
                   ]
+            },
+            {
+                  "name": "Beverley Road Baths",
+                  "text": "Ein historisches Schwimmbad in Kingston upon Hull, das traditionelle Bademöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.349015,
+                        53.759262
+                  ]
+            },
+            {
+                  "name": "Animal Education centre",
+                  "text": "Ein Zoo in Kingston upon Hull, der Bildungsangebote und Einblicke in die Tierwelt ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.298459,
+                        53.76584
+                  ]
             }
       ],
       "hu": [
@@ -70165,6 +71308,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.357355,
                         53.774405
+                  ]
+            },
+            {
+                  "name": "Beverley Road Baths",
+                  "text": "Történelmi úszómedence Kingston upon Hullban, amely hagyományos fürdőzési lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.349015,
+                        53.759262
+                  ]
+            },
+            {
+                  "name": "Animal Education centre",
+                  "text": "Állatkert Kingston upon Hullban, amely oktatási programokat és betekintést nyújt az állatvilágba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.298459,
+                        53.76584
                   ]
             }
       ],
@@ -70756,6 +71917,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.357355,
                         53.774405
                   ]
+            },
+            {
+                  "name": "Beverley Road Baths",
+                  "text": "O piscină istorică în Kingston upon Hull, care oferă facilități tradiționale de baie.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.349015,
+                        53.759262
+                  ]
+            },
+            {
+                  "name": "Animal Education centre",
+                  "text": "O grădină zoologică în Kingston upon Hull, care oferă programe educaționale și informații despre lumea animală.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.298459,
+                        53.76584
+                  ]
             }
       ],
       "en": [
@@ -71345,6 +72524,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.357355,
                         53.774405
+                  ]
+            },
+            {
+                  "name": "Beverley Road Baths",
+                  "text": "A historic swimming pool in Kingston upon Hull offering traditional swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.349015,
+                        53.759262
+                  ]
+            },
+            {
+                  "name": "Animal Education centre",
+                  "text": "A zoo in Kingston upon Hull providing educational programs and insights into the animal world.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.298459,
+                        53.76584
                   ]
             }
       ]
@@ -89354,7 +90551,2428 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
   }
 ,
   {
-    id: "uk-chester-cities-v2", "sights": {"de": [{"name": "Minerva Roman rock shrine", "text": "Ein seltenes römisches Heiligtum der Göttin Minerva, das in Chester in einen Felsen gehauen wurde.", "category": "historical", "coords": [-2.889336, 53.184226]}, {"name": "Sick To Death", "text": "Ein Museum in Chester, das die schaurige Geschichte von Medizin und Krankheiten erforscht.", "category": "museum", "coords": [-2.890771, 53.18867]}, {"name": "Roman Amphitheatre", "text": "Die Überreste des größten jemals in Britannien erbauten römischen Amphitheaters.", "category": "historical", "coords": [-2.886969, 53.189345]}, {"name": "Chester Castle", "text": "Eine historische Schlossanlage in Chester mit einer fast tausendjährigen Geschichte.", "category": "castle", "coords": [-2.892441, 53.185343]}, {"name": "Cheshire Military Museum", "text": "Das in der historischen Stadt Chester untergebrachte Cheshire Military Museum bietet einen tiefen Einblick in das Erbe der lokalen Regimenter. Museumsgäste können umfangreiche Ausstellungen erkunden, die Jahrhunderte von Militärdienst und Geschichte detailliert darstellen. Es ist ein Pflichtbesuch für jeden, der sich für das Vermächtnis der Streitkräfte interessiert.", "category": "museum", "coords": [-2.891982, 53.186524]}, {"name": "Roman Angle Tower", "text": "Überreste eines Verteidigungsturms, der Teil der römischen Stadtmauer von Chester war.", "category": "historical", "coords": [-2.888119, 53.189214]}, {"name": "Dewa Roman Experience", "text": "Ein interaktives Museum, das einen Einblick in das Leben im römischen Chester bietet.", "category": "museum", "coords": [-2.892138, 53.189233]}, {"name": "Donkey Field Nature Reserve", "text": "Ein lokales Naturschutzgebiet in Chester, das einen friedlichen Lebensraum für Wildtiere bietet.", "category": "natural", "coords": [-2.878384, 53.210071]}, {"name": "Storyhouse", "text": "Ein Kulturzentrum in Chester mit Theater, Kino und Bibliothek.", "category": "cultural", "coords": [-2.893484, 53.192665]}, {"name": "Chester Forum Theatre", "text": "Ein Veranstaltungsort in Chester, der dem lokalen Theater und der darstellenden Kunst gewidmet ist.", "category": "cultural", "coords": [-2.893608, 53.19106]}, {"name": "Caldy Nature Park", "text": "Ein Gemeinschaftspark und Naturschutzgebiet mit Grünflächen in Chester.", "category": "natural", "coords": [-2.863277, 53.178962]}, {"name": "War Memorial", "text": "Ein Denkmal im Stadtzentrum von Chester, das an die in Weltkonflikten Gefallenen erinnert.", "category": "historical", "coords": [-2.890849, 53.191591]}, {"name": "Grosvenor Park", "text": "Ein weitläufiger öffentlicher Park in Chester mit Gärten und Freizeiteinrichtungen.", "category": "park", "coords": [-2.882317, 53.190133]}, {"name": "Roman Gardens", "text": "Eine Gartenanlage mit römischen Ruinen und archäologischen Funden in Chester.", "category": "park", "coords": [-2.887592, 53.188257]}, {"name": "Lead Shot Tower", "text": "Ein markanter historischer Backsteinturm, der einst zur Schrotkugelherstellung diente.", "category": "historical", "coords": [-2.878084, 53.19421]}, {"name": "Cheshire Regiment Memorial Garden", "text": "Ein Gedenkgarten in Chester, der dem Cheshire-Regiment gewidmet ist.", "category": "park", "coords": [-2.889785, 53.191679]}, {"name": "The Belvedere", "text": "Ein Aussichtspunkt in Chester, der einen weiten Blick auf die Umgebung bietet.", "category": "natural", "coords": [-2.880859, 53.189688]}, {"name": "The Carlton Gallery", "text": "Eine Kunstgalerie in Chester, die verschiedene zeitgenössische Werke ausstellt.", "category": "museum", "coords": [-2.893711, 53.189768]}, {"name": "Roman Strongroom", "text": "Eine historische Stätte in Chester, die eine römische Schatzkammer zeigt.", "category": "landmark", "coords": [-2.892225, 53.191215]}, {"name": "The Quarry Garden", "text": "Ein gepflegter Garten in Chester, der zum Entspannen einlädt.", "category": "landmark", "coords": [-2.883541, 53.189008]}, {"name": "Euphoric arts", "text": "Eine Galerie in Chester, die sich auf lokale Kunst und kreative Projekte konzentriert.", "category": "museum", "coords": [-2.892878, 53.193853]}, {"name": "Water Tower", "text": "Ein mittelalterlicher Turm, der Teil der historischen Stadtmauer von Chester ist.", "category": "tower", "coords": [-2.89955, 53.192593]}, {"name": "The Watergate", "text": "Ein Abschnitt der historischen Stadtmauer von Chester am Watergate.", "category": "landmark", "coords": [-2.897385, 53.189382]}, {"name": "St. Columba's RC Church", "text": "Eine römisch-katholische Kirche in Chester mit einer markanten Architektur.", "category": "religious", "coords": [-2.875303, 53.210342]}, {"name": "City Road Presbyterian Church", "text": "Ein historisches Kirchengebäude der Presbyterianer in der City Road von Chester.", "category": "religious", "coords": [-2.882084, 53.192983]}, {"name": "St. Olave's Church", "text": "Eine kleine historische Kirche in Chester, die dem heiligen Olaf gewidmet ist.", "category": "religious", "coords": [-2.889903, 53.187315]}, {"name": "Welsh Presbyterian Church", "text": "Ein markantes Kirchengebäude in Chester, das der walisischen presbyterianischen Gemeinde diente.", "category": "religious", "coords": [-2.887588, 53.190267]}, {"name": "Catholic Church of Saint Francis of Assisi", "text": "Eine katholische Kirche in Chester, die dem heiligen Franz von Assisi gewidmet ist.", "category": "religious", "coords": [-2.892636, 53.18774]}, {"name": "Christ Church", "text": "Ein historisches Kirchengebäude in Chester, das der lokalen Gemeinde dient.", "category": "religious", "coords": [-2.888483, 53.196929]}, {"name": "Saint Werburgh's", "text": "Eine bedeutende katholische Kirche in Chester, die nach der heiligen Werburgh benannt ist.", "category": "religious", "coords": [-2.88243, 53.191133]}, {"name": "Church of Saint Thomas of Canterbury", "text": "Eine anglikanische Kirche in Chester, die Thomas von Canterbury gewidmet ist.", "category": "religious", "coords": [-2.896362, 53.19838]}, {"name": "Northgate Church", "text": "Eine moderne christliche Kirche im Bereich des Northgate in Chester.", "category": "religious", "coords": [-2.894568, 53.195802]}, {"name": "Parish Church of the Holy Ascension", "text": "Eine Pfarrkirche in Chester, die der Himmelfahrt Christi gewidmet ist.", "category": "religious", "coords": [-2.887922, 53.21575]}, {"name": "St Lukes", "text": "Eine lokale Kirche in Chester, die der Gemeinde als Ort des Gottesdienstes dient.", "category": "religious", "coords": [-2.867598, 53.176998]}, {"name": "St. Mark's Parish Church Saltney", "text": "Eine anglikanische Pfarrkirche in Saltney bei Chester.", "category": "religious", "coords": [-2.915193, 53.178984]}, {"name": "Old Dee Bridge", "text": "Eine mittelalterliche Steinbrücke über den Fluss Dee in Chester.", "category": "landmark", "coords": [-2.88881, 53.185621]}, {"name": "All Saints", "text": "Eine anglikanische Kirche im Stadtteil Hoole in Chester.", "category": "religious", "coords": [-2.872722, 53.201278]}, {"name": "King Charles Tower", "text": "Ein Eckturm der Stadtmauer von Chester, benannt nach König Karl I.", "category": "tower", "coords": [-2.890405, 53.194173]}, {"name": "Queens Park Bridge", "text": "Eine Fußgängerbrücke über den Fluss Dee, die zum Queens Park in Chester führt.", "category": "landmark", "coords": [-2.884253, 53.187978]}, {"name": "St. Michael's", "text": "Ein historisches Kirchengebäude in Chester, das heute als Kulturzentrum genutzt wird.", "category": "religious", "coords": [-2.870791, 53.210238]}, {"name": "Saint Mary Without-the-Walls", "text": "Eine ehemalige Kirche in Chester, die für ihre Lage außerhalb der alten Stadtmauern bekannt ist.", "category": "religious", "coords": [-2.888974, 53.182932]}, {"name": "St John the Baptist", "text": "Eine der ältesten Kirchen Englands in Chester mit beeindruckenden normannischen Ruinen.", "category": "religious", "coords": [-2.885641, 53.189021]}, {"name": "Grosvenor Bridge", "text": "Eine monumentale Steinbogenbrücke über den Dee in Chester.", "category": "landmark", "coords": [-2.89615, 53.183603]}, {"name": "Hoole Bank Acid Tar Lagoon", "text": "Die Hoole Bank Acid Tar Lagoon in Chester ist ein ehemaliges Industriegelände, das sich renaturiert.", "category": "natural", "coords": [-2.848094, 53.217099]}, {"name": "Black Diamond Park", "text": "Der Spielplatz im Black Diamond Park in Chester ist ein beliebter Ort für Familienausflüge.", "category": "family", "coords": [-2.886178, 53.19795]}, {"name": "Upton-by-Chester Playground", "text": "Der Upton-by-Chester Playground in Chester bietet verschiedene Spielgeräte für Kinder.", "category": "family", "coords": [-2.885376, 53.212326]}, {"name": "Blacon adventure playground", "text": "Der Abenteuerspielplatz in Blacon in Chester ist ein spannender Ort für Kinder, um Neues zu entdecken.", "category": "family", "coords": [-2.916647, 53.208649]}, {"name": "Walker Street Community Gardens", "text": "Der Spielplatz in den Walker Street Community Gardens in Chester bietet eine grüne Oase für Familien.", "category": "family", "coords": [-2.876376, 53.198454]}, {"name": "Neville Road Play Area", "text": "Der Neville Road Play Area in Chester ist ein übersichtlicher Spielplatz für Kinder aus der Nachbarschaft.", "category": "family", "coords": [-2.861055, 53.188378]}, {"name": "Vaughans Lane Play Area", "text": "Der Vaughans Lane Play Area in Chester bietet Kindern eine sichere Umgebung zum Spielen.", "category": "family", "coords": [-2.864919, 53.182766]}, {"name": "Hoole Lane Play Area", "text": "Der Hoole Lane Play Area in Chester ist ein beliebter Spielort für kleine und große Kinder.", "category": "family", "coords": [-2.866418, 53.197929]}, {"name": "Dryersfield Play Area", "text": "Der Dryersfield Play Area in Chester ist ein schön angelegter Spielplatz für Familien.", "category": "family", "coords": [-2.864862, 53.187333]}, {"name": "Lime Wood Fields Play Area", "text": "Der Spielplatz in den Lime Wood Fields in Chester bietet viel Raum für aktive Freizeitgestaltung.", "category": "family", "coords": [-2.870463, 53.206788]}, {"name": "Melrose Park Play Area", "text": "Der Melrose Park Play Area in Chester lädt Kinder zum Klettern und Toben ein.", "category": "family", "coords": [-2.869813, 53.194949]}, {"name": "Thackeray Forest Playground", "text": "Der Thackeray Forest Playground in Chester ist ein idyllischer Spielplatz am Waldrand.", "category": "family", "coords": [-2.850341, 53.198535]}, {"name": "Alma Street Play Area", "text": "Der Alma Street Play Area in Chester ist ein kleiner, gepflegter Spielplatz in der Stadt.", "category": "family", "coords": [-2.87258, 53.192774]}, {"name": "Pipers Court Play Area", "text": "Der Pipers Court Play Area in Chester bietet eine ruhige Spielgelegenheit für Kleinkinder.", "category": "family", "coords": [-2.859471, 53.203954]}, {"name": "Appleyards Lane Play Area", "text": "Der Appleyards Lane Play Area in Chester ist ein lebhafter Treffpunkt für Familien aus dem Viertel.", "category": "family", "coords": [-2.879011, 53.182701]}, {"name": "Chesterton Court Play Area", "text": "Der Chesterton Court Play Area in Chester ist ideal für Kinder, um sich nachmittags auszutoben.", "category": "family", "coords": [-2.885883, 53.202035]}, {"name": "Dicksons Field Play Area", "text": "Der Dicksons Field Play Area in Chester bietet weitläufige Grünflächen rund um die Spielgeräte.", "category": "family", "coords": [-2.887244, 53.205257]}, {"name": "Queens Road Park Playground", "text": "Der Spielplatz im Queens Road Park in Chester ist ein beliebter Ort für sonnige Familienausflüge.", "category": "family", "coords": [-2.859321, 53.198243]}, {"name": "Duke's Manor", "text": "Der Spielplatz am Duke's Manor in Chester bietet eine familiäre Atmosphäre zum Spielen.", "category": "family", "coords": [-2.892721, 53.201527]}, {"name": "Upton Dene Play Area", "text": "Der Upton Dene Play Area in Chester ist ein moderner Spielplatz mit vielfältigen Klettermöglichkeiten.", "category": "family", "coords": [-2.902642, 53.21353]}, {"name": "Francis Street Play Area", "text": "Der Francis Street Play Area in Chester ist ein praktischer Spielplatz im städtischen Wohngebiet.", "category": "family", "coords": [-2.883164, 53.195099]}, {"name": "Cathedral Roads Play Area", "text": "Der Cathedral Roads Play Area in Chester bietet Kindern eine schöne Spielfläche nahe dem Zentrum.", "category": "family", "coords": [-2.916302, 53.205457]}, {"name": "Hop Pole Paddock Play Area", "text": "Der Hop Pole Paddock Play Area in Chester ist ein gemütlicher Ort für Familien mit kleinen Kindern.", "category": "family", "coords": [-2.888966, 53.19271]}], "hu": [{"name": "Minerva Roman rock shrine", "text": "Ritka római szentély Minerva istennőnek, kősziklába faragva Chesterben.", "category": "historical", "coords": [-2.889336, 53.184226]}, {"name": "Sick To Death", "text": "Múzeum Chesterben, amely az orvostudomány és a betegségek borzalmas történetét mutatja be.", "category": "museum", "coords": [-2.890771, 53.18867]}, {"name": "Roman Amphitheatre", "text": "A Britanniában valaha épült legnagyobb római amfiteátrum maradványai.", "category": "historical", "coords": [-2.886969, 53.189345]}, {"name": "Chester Castle", "text": "Történelmi várkomplexum Chesterben, közel ezeréves múltra visszatekintve.", "category": "castle", "coords": [-2.892441, 53.185343]}, {"name": "Cheshire Military Museum", "text": "A történelmi Chester városában található Cheshire Military Museum mélyreható bepillantást nyújt a helyi ezredek örökségébe. A múzeum vendégei kiterjedt kiállításokat fedezhetnek fel, amelyek a katonai szolgálat és történelem évszázadait részletezik. Kötelező látnivaló mindazok számára, akik érdeklődnek a fegyveres erők hagyatéka iránt.", "category": "museum", "coords": [-2.891982, 53.186524]}, {"name": "Roman Angle Tower", "text": "Egy védőtorony maradványai, amely Chester római városfalának része volt.", "category": "historical", "coords": [-2.888119, 53.189214]}, {"name": "Dewa Roman Experience", "text": "Interaktív múzeum, amely betekintést nyújt a római kori Chester életébe.", "category": "museum", "coords": [-2.892138, 53.189233]}, {"name": "Donkey Field Nature Reserve", "text": "Helyi természetvédelmi terület Chesterben, nyugodt élőhelyet biztosítva a vadvilágnak.", "category": "natural", "coords": [-2.878384, 53.210071]}, {"name": "Storyhouse", "text": "Kulturális központ Chesterben színházzal, mozival és könyvtárral.", "category": "cultural", "coords": [-2.893484, 53.192665]}, {"name": "Chester Forum Theatre", "text": "Helyszín Chesterben, amely a helyi színháznak és előadóművészetnek van szentelve.", "category": "cultural", "coords": [-2.893608, 53.19106]}, {"name": "Caldy Nature Park", "text": "Közösségi park és természetvédelmi terület zöldfelülettel Chesterben.", "category": "natural", "coords": [-2.863277, 53.178962]}, {"name": "War Memorial", "text": "Emlékmű Chester városközpontjában, a világháborús áldozatok emlékére.", "category": "historical", "coords": [-2.890849, 53.191591]}, {"name": "Grosvenor Park", "text": "Kiterjedt közpark Chesterben kertekkel és szabadidős létesítményekkel.", "category": "park", "coords": [-2.882317, 53.190133]}, {"name": "Roman Gardens", "text": "Római kori romokat és régészeti leleteket bemutató kert Chesterben.", "category": "park", "coords": [-2.887592, 53.188257]}, {"name": "Lead Shot Tower", "text": "Jellegzetes történelmi téglabelépítmény, amely egykor sörétgyártásra szolgált.", "category": "historical", "coords": [-2.878084, 53.19421]}, {"name": "Cheshire Regiment Memorial Garden", "text": "A Cheshire-ezred tiszteletére kialakított emlékkert Chesterben.", "category": "park", "coords": [-2.889785, 53.191679]}, {"name": "The Belvedere", "text": "Kilátópont Chesterben, ahonnan panorámás kilátás nyílik a környékre.", "category": "natural", "coords": [-2.880859, 53.189688]}, {"name": "The Carlton Gallery", "text": "Kortárs művészeti alkotásokat bemutató galéria Chesterben.", "category": "museum", "coords": [-2.893711, 53.189768]}, {"name": "Roman Strongroom", "text": "Történelmi helyszín Chesterben, amely egy római kori kincstárat mutat be.", "category": "landmark", "coords": [-2.892225, 53.191215]}, {"name": "The Quarry Garden", "text": "Gondozott kert Chesterben, amely kellemes környezetet biztosít a pihenéshez.", "category": "landmark", "coords": [-2.883541, 53.189008]}, {"name": "Euphoric arts", "text": "Helyi művészetre és kreatív projektekre összpontosító galéria Chesterben.", "category": "museum", "coords": [-2.892878, 53.193853]}, {"name": "Water Tower", "text": "Chester történelmi városfalának részét képező középkori torony.", "category": "tower", "coords": [-2.89955, 53.192593]}, {"name": "The Watergate", "text": "Chester történelmi városfalának egy szakasza a Watergate közelében.", "category": "landmark", "coords": [-2.897385, 53.189382]}, {"name": "St. Columba's RC Church", "text": "Jellegzetes építészetű római katolikus templom Chesterben.", "category": "religious", "coords": [-2.875303, 53.210342]}, {"name": "City Road Presbyterian Church", "text": "Történelmi presbiteriánus templomépület Chester City Road nevű utcájában.", "category": "religious", "coords": [-2.882084, 53.192983]}, {"name": "St. Olave's Church", "text": "Szent Olafnak szentelt kisméretű történelmi templom Chesterben.", "category": "religious", "coords": [-2.889903, 53.187315]}, {"name": "Welsh Presbyterian Church", "text": "Jellegzetes templomépület Chesterben, amely a walesi presbiteriánus közösséget szolgálta.", "category": "religious", "coords": [-2.887588, 53.190267]}, {"name": "Catholic Church of Saint Francis of Assisi", "text": "Assisi Szent Ferencnek szentelt katolikus templom Chesterben.", "category": "religious", "coords": [-2.892636, 53.18774]}, {"name": "Christ Church", "text": "Történelmi templomépület Chesterben, amely a helyi közösséget szolgálja.", "category": "religious", "coords": [-2.888483, 53.196929]}, {"name": "Saint Werburgh's", "text": "Szent Werburgh-ról elnevezett jelentős katolikus templom Chesterben.", "category": "religious", "coords": [-2.88243, 53.191133]}, {"name": "Church of Saint Thomas of Canterbury", "text": "Canterburyi Szent Tamásnak szentelt anglikán templom Chesterben.", "category": "religious", "coords": [-2.896362, 53.19838]}, {"name": "Northgate Church", "text": "Modern keresztény templom Chester Northgate negyedében.", "category": "religious", "coords": [-2.894568, 53.195802]}, {"name": "Parish Church of the Holy Ascension", "text": "Krisztus mennybemenetelének szentelt plébániatemplom Chesterben.", "category": "religious", "coords": [-2.887922, 53.21575]}, {"name": "St Lukes", "text": "Helyi templom Chesterben, amely istentiszteleti helyként szolgál a közösség számára.", "category": "religious", "coords": [-2.867598, 53.176998]}, {"name": "St. Mark's Parish Church Saltney", "text": "Anglikán plébániatemplom a Chester melletti Saltneyben.", "category": "religious", "coords": [-2.915193, 53.178984]}, {"name": "Old Dee Bridge", "text": "Középkori kőhíd a Dee folyó felett Chesterben.", "category": "landmark", "coords": [-2.88881, 53.185621]}, {"name": "All Saints", "text": "Anglikán templom Chester Hoole városrészében.", "category": "religious", "coords": [-2.872722, 53.201278]}, {"name": "King Charles Tower", "text": "Chester városfalának saroktornya, amelyet I. Károly királyról neveztek el.", "category": "tower", "coords": [-2.890405, 53.194173]}, {"name": "Queens Park Bridge", "text": "A Dee folyón átívelő gyalogoshíd, amely a chesteri Queens Parkhoz vezet.", "category": "landmark", "coords": [-2.884253, 53.187978]}, {"name": "St. Michael's", "text": "Történelmi templomépület Chesterben, amely ma kulturális központként működik.", "category": "religious", "coords": [-2.870791, 53.210238]}, {"name": "Saint Mary Without-the-Walls", "text": "Egykori templom Chesterben, amely a régi városfalakon kívüli elhelyezkedéséről ismert.", "category": "religious", "coords": [-2.888974, 53.182932]}, {"name": "St John the Baptist", "text": "Anglia egyik legrégebbi temploma Chesterben, lenyűgöző normann kori romokkal.", "category": "religious", "coords": [-2.885641, 53.189021]}, {"name": "Grosvenor Bridge", "text": "Monumentális kőívhíd a Dee folyó felett Chesterben.", "category": "landmark", "coords": [-2.89615, 53.183603]}, {"name": "Hoole Bank Acid Tar Lagoon", "text": "A chesteri Hoole Bank Acid Tar Lagoon egykori ipari terület, amely most regenerálódik.", "category": "natural", "coords": [-2.848094, 53.217099]}, {"name": "Black Diamond Park", "text": "A chesteri Black Diamond Park játszótere népszerű helyszín családi kirándulásokhoz.", "category": "family", "coords": [-2.886178, 53.19795]}, {"name": "Upton-by-Chester Playground", "text": "A chesteri Upton-by-Chester Playground különféle játékeszközöket kínál a gyerekeknek.", "category": "family", "coords": [-2.885376, 53.212326]}, {"name": "Blacon adventure playground", "text": "A chesteri Blacon kalandpark izgalmas helyszín a gyerekek számára az új felfedezésekhez.", "category": "family", "coords": [-2.916647, 53.208649]}, {"name": "Walker Street Community Gardens", "text": "A chesteri Walker Street Community Gardens játszótere zöld oázist kínál a családoknak.", "category": "family", "coords": [-2.876376, 53.198454]}, {"name": "Neville Road Play Area", "text": "A chesteri Neville Road Play Area egy átlátható játszótér a környékbeli gyerekek számára.", "category": "family", "coords": [-2.861055, 53.188378]}, {"name": "Vaughans Lane Play Area", "text": "A chesteri Vaughans Lane Play Area biztonságos környezetet nyújt a gyerekeknek a játékhoz.", "category": "family", "coords": [-2.864919, 53.182766]}, {"name": "Hoole Lane Play Area", "text": "A chesteri Hoole Lane Play Area népszerű játszóhely kicsiknek és nagyoknak.", "category": "family", "coords": [-2.866418, 53.197929]}, {"name": "Dryersfield Play Area", "text": "A chesteri Dryersfield Play Area egy szépen kialakított játszótér családok számára.", "category": "family", "coords": [-2.864862, 53.187333]}, {"name": "Lime Wood Fields Play Area", "text": "A chesteri Lime Wood Fields játszótere rengeteg teret kínál az aktív kikapcsolódáshoz.", "category": "family", "coords": [-2.870463, 53.206788]}, {"name": "Melrose Park Play Area", "text": "A chesteri Melrose Park Play Area mászásra és hancúrozásra hívja a gyerekeket.", "category": "family", "coords": [-2.869813, 53.194949]}, {"name": "Thackeray Forest Playground", "text": "A chesteri Thackeray Forest Playground egy idilli játszótér az erdő szélén.", "category": "family", "coords": [-2.850341, 53.198535]}, {"name": "Alma Street Play Area", "text": "A chesteri Alma Street Play Area egy kis, gondozott városi játszótér.", "category": "family", "coords": [-2.87258, 53.192774]}, {"name": "Pipers Court Play Area", "text": "A chesteri Pipers Court Play Area nyugodt játéklehetőséget kínál a kisgyermekek számára.", "category": "family", "coords": [-2.859471, 53.203954]}, {"name": "Appleyards Lane Play Area", "text": "A chesteri Appleyards Lane Play Area egy élettel teli találkozóhely a negyedbeli családok számára.", "category": "family", "coords": [-2.879011, 53.182701]}, {"name": "Chesterton Court Play Area", "text": "A chesteri Chesterton Court Play Area ideális a gyerekek délutáni energiáinak levezetésére.", "category": "family", "coords": [-2.885883, 53.202035]}, {"name": "Dicksons Field Play Area", "text": "A chesteri Dicksons Field Play Area kiterjedt zöldterületeket kínál a játékeszközök körül.", "category": "family", "coords": [-2.887244, 53.205257]}, {"name": "Queens Road Park Playground", "text": "A chesteri Queens Road Park játszótere kedvelt célpontja a napos családi kirándulásoknak.", "category": "family", "coords": [-2.859321, 53.198243]}, {"name": "Duke's Manor", "text": "A chesteri Duke's Manor játszótere családias hangulatot kínál a játékhoz.", "category": "family", "coords": [-2.892721, 53.201527]}, {"name": "Upton Dene Play Area", "text": "A chesteri Upton Dene Play Area egy modern játszótér sokféle mászási lehetőséggel.", "category": "family", "coords": [-2.902642, 53.21353]}, {"name": "Francis Street Play Area", "text": "A chesteri Francis Street Play Area egy praktikus játszótér a városi lakóövezetben.", "category": "family", "coords": [-2.883164, 53.195099]}, {"name": "Cathedral Roads Play Area", "text": "A chesteri Cathedral Roads Play Area szép játszóterületet kínál a gyerekeknek a központ közelében.", "category": "family", "coords": [-2.916302, 53.205457]}, {"name": "Hop Pole Paddock Play Area", "text": "A chesteri Hop Pole Paddock Play Area egy hangulatos hely kisgyermekes családok számára.", "category": "family", "coords": [-2.888966, 53.19271]}], "ro": [{"name": "Minerva Roman rock shrine", "text": "Un sanctuar roman rar dedicat zeiței Minerva, sculptat într-o stâncă din Chester.", "category": "historical", "coords": [-2.889336, 53.184226]}, {"name": "Sick To Death", "text": "Un muzeu din Chester care explorează istoria îngrozitoare a medicinei și a bolilor.", "category": "museum", "coords": [-2.890771, 53.18867]}, {"name": "Roman Amphitheatre", "text": "Rămășițele celui mai mare amfiteatru roman construit vreodată în Britania.", "category": "historical", "coords": [-2.886969, 53.189345]}, {"name": "Chester Castle", "text": "Un complex istoric de castel din Chester, cu o istorie de aproape o mie de ani.", "category": "castle", "coords": [-2.892441, 53.185343]}, {"name": "Cheshire Military Museum", "text": "Găzduit în orașul istoric Chester, Cheshire Military Museum oferă o incursiune profundă în moștenirea regimentelor locale. Oaspeții muzeului pot explora expoziții ample care detaliază secole de serviciu și istorie militară. Este o vizită obligatorie pentru oricine este interesat de moștenirea forțelor armate.", "category": "museum", "coords": [-2.891982, 53.186524]}, {"name": "Roman Angle Tower", "text": "Rămășițele unui turn de apărare care a făcut parte din zidurile romane ale orașului Chester.", "category": "historical", "coords": [-2.888119, 53.189214]}, {"name": "Dewa Roman Experience", "text": "Un muzeu interactiv care oferă o perspectivă asupra vieții din Chesterul roman.", "category": "museum", "coords": [-2.892138, 53.189233]}, {"name": "Donkey Field Nature Reserve", "text": "O rezervație naturală locală din Chester care oferă un habitat liniștit pentru fauna sălbatică.", "category": "natural", "coords": [-2.878384, 53.210071]}, {"name": "Storyhouse", "text": "Un centru cultural din Chester care include un teatru, un cinematograf și o bibliotecă.", "category": "cultural", "coords": [-2.893484, 53.192665]}, {"name": "Chester Forum Theatre", "text": "O locație din Chester dedicată teatrului local și artelor spectacolului.", "category": "cultural", "coords": [-2.893608, 53.19106]}, {"name": "Caldy Nature Park", "text": "Un parc comunitar și o rezervație naturală care oferă spațiu verde în Chester.", "category": "natural", "coords": [-2.863277, 53.178962]}, {"name": "War Memorial", "text": "Un monument din centrul orașului Chester care îi comemorează pe cei pierduți în conflictele mondiale.", "category": "historical", "coords": [-2.890849, 53.191591]}, {"name": "Grosvenor Park", "text": "Un parc public vast în Chester, cu grădini și facilități de recreere.", "category": "park", "coords": [-2.882317, 53.190133]}, {"name": "Roman Gardens", "text": "O grădină ce expune ruine romane și vestigii arheologice în Chester.", "category": "park", "coords": [-2.887592, 53.188257]}, {"name": "Lead Shot Tower", "text": "Un turn istoric din cărămidă, folosit în trecut pentru fabricarea alicelor.", "category": "historical", "coords": [-2.878084, 53.19421]}, {"name": "Cheshire Regiment Memorial Garden", "text": "O grădină memorială în Chester dedicată Regimentului Cheshire.", "category": "park", "coords": [-2.889785, 53.191679]}, {"name": "The Belvedere", "text": "Un punct de observație în Chester ce oferă vederi panoramice asupra împrejurimilor.", "category": "natural", "coords": [-2.880859, 53.189688]}, {"name": "The Carlton Gallery", "text": "O galerie de artă în Chester care expune diverse lucrări contemporane.", "category": "museum", "coords": [-2.893711, 53.189768]}, {"name": "Roman Strongroom", "text": "Un sit istoric în Chester care prezintă o tezaurerie romană.", "category": "landmark", "coords": [-2.892225, 53.191215]}, {"name": "The Quarry Garden", "text": "O grădină amenajată în Chester, oferind un cadru liniștit pentru relaxare.", "category": "landmark", "coords": [-2.883541, 53.189008]}, {"name": "Euphoric arts", "text": "O galerie în Chester axată pe artă locală și proiecte creative.", "category": "museum", "coords": [-2.892878, 53.193853]}, {"name": "Water Tower", "text": "Un turn medieval care face parte din zidurile istorice ale orașului Chester.", "category": "tower", "coords": [-2.89955, 53.192593]}, {"name": "The Watergate", "text": "O secțiune a zidurilor istorice ale orașului Chester, în zona Watergate.", "category": "landmark", "coords": [-2.897385, 53.189382]}, {"name": "St. Columba's RC Church", "text": "O biserică romano-catolică în Chester, cu o arhitectură distinctivă.", "category": "religious", "coords": [-2.875303, 53.210342]}, {"name": "City Road Presbyterian Church", "text": "O clădire istorică a bisericii presbiteriene pe City Road în Chester.", "category": "religious", "coords": [-2.882084, 53.192983]}, {"name": "St. Olave's Church", "text": "O mică biserică istorică în Chester, dedicată Sfântului Olaf.", "category": "religious", "coords": [-2.889903, 53.187315]}, {"name": "Welsh Presbyterian Church", "text": "O clădire distinctivă de biserică în Chester, care a servit comunitatea presbiteriană galeză.", "category": "religious", "coords": [-2.887588, 53.190267]}, {"name": "Catholic Church of Saint Francis of Assisi", "text": "O biserică catolică în Chester dedicată Sfântului Francisc de Assisi.", "category": "religious", "coords": [-2.892636, 53.18774]}, {"name": "Christ Church", "text": "O clădire istorică de biserică în Chester, care deservește comunitatea locală.", "category": "religious", "coords": [-2.888483, 53.196929]}, {"name": "Saint Werburgh's", "text": "O biserică catolică importantă în Chester, numită după Sfânta Werburgh.", "category": "religious", "coords": [-2.88243, 53.191133]}, {"name": "Church of Saint Thomas of Canterbury", "text": "O biserică anglicană în Chester dedicată lui Thomas Becket.", "category": "religious", "coords": [-2.896362, 53.19838]}, {"name": "Northgate Church", "text": "O biserică creștină modernă situată în zona Northgate din Chester.", "category": "religious", "coords": [-2.894568, 53.195802]}, {"name": "Parish Church of the Holy Ascension", "text": "O biserică parohială în Chester dedicată Înălțării Domnului.", "category": "religious", "coords": [-2.887922, 53.21575]}, {"name": "St Lukes", "text": "O biserică locală în Chester care servește ca loc de cult pentru comunitate.", "category": "religious", "coords": [-2.867598, 53.176998]}, {"name": "St. Mark's Parish Church Saltney", "text": "O biserică parohială anglicană în Saltney, lângă Chester.", "category": "religious", "coords": [-2.915193, 53.178984]}, {"name": "Old Dee Bridge", "text": "Un pod medieval din piatră peste râul Dee în Chester.", "category": "landmark", "coords": [-2.88881, 53.185621]}, {"name": "All Saints", "text": "O biserică anglicană situată în cartierul Hoole din Chester.", "category": "religious", "coords": [-2.872722, 53.201278]}, {"name": "King Charles Tower", "text": "Un turn de colț al zidurilor orașului Chester, numit după Regele Carol I.", "category": "tower", "coords": [-2.890405, 53.194173]}, {"name": "Queens Park Bridge", "text": "Un pod pietonal peste râul Dee care duce către Queens Park în Chester.", "category": "landmark", "coords": [-2.884253, 53.187978]}, {"name": "St. Michael's", "text": "O clădire istorică de biserică în Chester, utilizată astăzi ca centru cultural.", "category": "religious", "coords": [-2.870791, 53.210238]}, {"name": "Saint Mary Without-the-Walls", "text": "O fostă biserică în Chester, cunoscută pentru locația sa în afara zidurilor vechi ale orașului.", "category": "religious", "coords": [-2.888974, 53.182932]}, {"name": "St John the Baptist", "text": "Una dintre cele mai vechi biserici din Anglia, situată în Chester, cu impresionante ruine normande.", "category": "religious", "coords": [-2.885641, 53.189021]}, {"name": "Grosvenor Bridge", "text": "Un pod monumental cu arc din piatră peste râul Dee în Chester.", "category": "landmark", "coords": [-2.89615, 53.183603]}, {"name": "Hoole Bank Acid Tar Lagoon", "text": "Hoole Bank Acid Tar Lagoon din Chester este un fost sit industrial care se află într-un proces de renaturare.", "category": "natural", "coords": [-2.848094, 53.217099]}, {"name": "Black Diamond Park", "text": "Locul de joacă din Black Diamond Park din Chester este o destinație populară pentru ieșirile în familie.", "category": "family", "coords": [-2.886178, 53.19795]}, {"name": "Upton-by-Chester Playground", "text": "Upton-by-Chester Playground din Chester oferă diverse echipamente de joacă pentru copii.", "category": "family", "coords": [-2.885376, 53.212326]}, {"name": "Blacon adventure playground", "text": "Locul de joacă de aventură Blacon din Chester este un loc captivant pentru copii.", "category": "family", "coords": [-2.916647, 53.208649]}, {"name": "Walker Street Community Gardens", "text": "Locul de joacă din Walker Street Community Gardens din Chester oferă o oază verde pentru familii.", "category": "family", "coords": [-2.876376, 53.198454]}, {"name": "Neville Road Play Area", "text": "Neville Road Play Area din Chester este un loc de joacă accesibil pentru copiii din cartier.", "category": "family", "coords": [-2.861055, 53.188378]}, {"name": "Vaughans Lane Play Area", "text": "Vaughans Lane Play Area din Chester oferă copiilor un mediu sigur pentru joacă.", "category": "family", "coords": [-2.864919, 53.182766]}, {"name": "Hoole Lane Play Area", "text": "Hoole Lane Play Area din Chester este un loc de joacă popular pentru copiii mici și mari.", "category": "family", "coords": [-2.866418, 53.197929]}, {"name": "Dryersfield Play Area", "text": "Dryersfield Play Area din Chester este un loc de joacă frumos amenajat pentru familii.", "category": "family", "coords": [-2.864862, 53.187333]}, {"name": "Lime Wood Fields Play Area", "text": "Locul de joacă din Lime Wood Fields din Chester oferă mult spațiu pentru activități recreative.", "category": "family", "coords": [-2.870463, 53.206788]}, {"name": "Melrose Park Play Area", "text": "Melrose Park Play Area din Chester invită copiii la cățărat și zburdălnicie.", "category": "family", "coords": [-2.869813, 53.194949]}, {"name": "Thackeray Forest Playground", "text": "Thackeray Forest Playground din Chester este un loc de joacă idilic situat la marginea pădurii.", "category": "family", "coords": [-2.850341, 53.198535]}, {"name": "Alma Street Play Area", "text": "Alma Street Play Area din Chester este un mic loc de joacă bine întreținut în oraș.", "category": "family", "coords": [-2.87258, 53.192774]}, {"name": "Pipers Court Play Area", "text": "Pipers Court Play Area din Chester oferă o oportunitate liniștită de joacă pentru copii mici.", "category": "family", "coords": [-2.859471, 53.203954]}, {"name": "Appleyards Lane Play Area", "text": "Appleyards Lane Play Area din Chester este un loc de întâlnire animat pentru familiile din cartier.", "category": "family", "coords": [-2.879011, 53.182701]}, {"name": "Chesterton Court Play Area", "text": "Chesterton Court Play Area din Chester este ideal pentru ca cei mici să își consume energia după-amiaza.", "category": "family", "coords": [-2.885883, 53.202035]}, {"name": "Dicksons Field Play Area", "text": "Dicksons Field Play Area din Chester oferă spații verzi întinse în jurul echipamentelor de joacă.", "category": "family", "coords": [-2.887244, 53.205257]}, {"name": "Queens Road Park Playground", "text": "Locul de joacă din Queens Road Park din Chester este o destinație populară pentru ieșirile însorite în familie.", "category": "family", "coords": [-2.859321, 53.198243]}, {"name": "Duke's Manor", "text": "Locul de joacă de la Duke's Manor din Chester oferă o atmosferă familială pentru joacă.", "category": "family", "coords": [-2.892721, 53.201527]}, {"name": "Upton Dene Play Area", "text": "Upton Dene Play Area din Chester este un loc de joacă modern, cu diverse opțiuni de cățărat.", "category": "family", "coords": [-2.902642, 53.21353]}, {"name": "Francis Street Play Area", "text": "Francis Street Play Area din Chester este un loc de joacă practic în zona rezidențială urbană.", "category": "family", "coords": [-2.883164, 53.195099]}, {"name": "Cathedral Roads Play Area", "text": "Cathedral Roads Play Area din Chester oferă copiilor o zonă de joacă frumoasă aproape de centru.", "category": "family", "coords": [-2.916302, 53.205457]}, {"name": "Hop Pole Paddock Play Area", "text": "Hop Pole Paddock Play Area din Chester este un loc confortabil pentru familiile cu copii mici.", "category": "family", "coords": [-2.888966, 53.19271]}], "en": [{"name": "Minerva Roman rock shrine", "text": "A rare Roman shrine dedicated to the goddess Minerva, carved into a rock face in Chester.", "category": "historical", "coords": [-2.889336, 53.184226]}, {"name": "Sick To Death", "text": "A museum in Chester exploring the gruesome history of medicine and disease.", "category": "museum", "coords": [-2.890771, 53.18867]}, {"name": "Roman Amphitheatre", "text": "The remains of the largest Roman amphitheatre ever built in Britain.", "category": "historical", "coords": [-2.886969, 53.189345]}, {"name": "Chester Castle", "text": "A historic castle complex in Chester with a history spanning nearly a thousand years.", "category": "castle", "coords": [-2.892441, 53.185343]}, {"name": "Cheshire Military Museum", "text": "Housed in the historic city of Chester, the Cheshire Military Museum offers a deep dive into the heritage of the local regiments. Museum guests can explore extensive exhibits that detail centuries of military service and history. It is a must-visit for anyone interested in the armed forces' legacy.", "category": "museum", "coords": [-2.891982, 53.186524]}, {"name": "Roman Angle Tower", "text": "Remains of a defensive tower that was part of the Roman city walls of Chester.", "category": "historical", "coords": [-2.888119, 53.189214]}, {"name": "Dewa Roman Experience", "text": "An interactive museum offering an insight into life in Roman Chester.", "category": "museum", "coords": [-2.892138, 53.189233]}, {"name": "Donkey Field Nature Reserve", "text": "A local nature reserve in Chester providing a peaceful habitat for wildlife.", "category": "natural", "coords": [-2.878384, 53.210071]}, {"name": "Storyhouse", "text": "A cultural hub in Chester featuring a theatre, cinema, and library.", "category": "cultural", "coords": [-2.893484, 53.192665]}, {"name": "Chester Forum Theatre", "text": "A venue in Chester dedicated to local theatre and performing arts.", "category": "cultural", "coords": [-2.893608, 53.19106]}, {"name": "Caldy Nature Park", "text": "A community park and nature reserve offering green space in Chester.", "category": "natural", "coords": [-2.863277, 53.178962]}, {"name": "War Memorial", "text": "A monument in Chester city centre commemorating those lost in world conflicts.", "category": "historical", "coords": [-2.890849, 53.191591]}, {"name": "Grosvenor Park", "text": "A large public park in Chester featuring gardens and leisure facilities.", "category": "park", "coords": [-2.882317, 53.190133]}, {"name": "Roman Gardens", "text": "A garden display of Roman ruins and archaeological finds in Chester.", "category": "park", "coords": [-2.887592, 53.188257]}, {"name": "Lead Shot Tower", "text": "A prominent historic brick tower formerly used for manufacturing lead shot.", "category": "historical", "coords": [-2.878084, 53.19421]}, {"name": "Cheshire Regiment Memorial Garden", "text": "A memorial garden in Chester dedicated to the Cheshire Regiment.", "category": "park", "coords": [-2.889785, 53.191679]}, {"name": "The Belvedere", "text": "A viewpoint in Chester providing scenic vistas of the surrounding area.", "category": "natural", "coords": [-2.880859, 53.189688]}, {"name": "The Carlton Gallery", "text": "An art gallery in Chester showcasing various contemporary works.", "category": "museum", "coords": [-2.893711, 53.189768]}, {"name": "Roman Strongroom", "text": "A historical site in Chester featuring a Roman strongroom.", "category": "landmark", "coords": [-2.892225, 53.191215]}, {"name": "The Quarry Garden", "text": "A landscaped garden in Chester providing a peaceful setting for relaxation.", "category": "landmark", "coords": [-2.883541, 53.189008]}, {"name": "Euphoric arts", "text": "A gallery in Chester focused on local art and creative projects.", "category": "museum", "coords": [-2.892878, 53.193853]}, {"name": "Water Tower", "text": "A medieval tower forming part of Chester's historic city walls.", "category": "tower", "coords": [-2.89955, 53.192593]}, {"name": "The Watergate", "text": "A section of Chester's historic city walls located at the Watergate.", "category": "landmark", "coords": [-2.897385, 53.189382]}, {"name": "St. Columba's RC Church", "text": "A Roman Catholic church in Chester featuring distinctive architecture.", "category": "religious", "coords": [-2.875303, 53.210342]}, {"name": "City Road Presbyterian Church", "text": "A historic Presbyterian church building located on City Road in Chester.", "category": "religious", "coords": [-2.882084, 53.192983]}, {"name": "St. Olave's Church", "text": "A small historic church in Chester dedicated to Saint Olave.", "category": "religious", "coords": [-2.889903, 53.187315]}, {"name": "Welsh Presbyterian Church", "text": "A distinctive church building in Chester that served the Welsh Presbyterian community.", "category": "religious", "coords": [-2.887588, 53.190267]}, {"name": "Catholic Church of Saint Francis of Assisi", "text": "A Catholic church in Chester dedicated to Saint Francis of Assisi.", "category": "religious", "coords": [-2.892636, 53.18774]}, {"name": "Christ Church", "text": "A historic church building in Chester serving the local community.", "category": "religious", "coords": [-2.888483, 53.196929]}, {"name": "Saint Werburgh's", "text": "A prominent Catholic church in Chester named after Saint Werburgh.", "category": "religious", "coords": [-2.88243, 53.191133]}, {"name": "Church of Saint Thomas of Canterbury", "text": "An Anglican church in Chester dedicated to Saint Thomas of Canterbury.", "category": "religious", "coords": [-2.896362, 53.19838]}, {"name": "Northgate Church", "text": "A modern Christian church located in the Northgate area of Chester.", "category": "religious", "coords": [-2.894568, 53.195802]}, {"name": "Parish Church of the Holy Ascension", "text": "A parish church in Chester dedicated to the Holy Ascension.", "category": "religious", "coords": [-2.887922, 53.21575]}, {"name": "St Lukes", "text": "A local church in Chester serving as a place of worship for the community.", "category": "religious", "coords": [-2.867598, 53.176998]}, {"name": "St. Mark's Parish Church Saltney", "text": "An Anglican parish church located in Saltney, near Chester.", "category": "religious", "coords": [-2.915193, 53.178984]}, {"name": "Old Dee Bridge", "text": "A medieval stone bridge crossing the River Dee in Chester.", "category": "landmark", "coords": [-2.88881, 53.185621]}, {"name": "All Saints", "text": "An Anglican church located in the Hoole district of Chester.", "category": "religious", "coords": [-2.872722, 53.201278]}, {"name": "King Charles Tower", "text": "A corner tower of Chester's city walls named after King Charles I.", "category": "tower", "coords": [-2.890405, 53.194173]}, {"name": "Queens Park Bridge", "text": "A footbridge over the River Dee leading to Queens Park in Chester.", "category": "landmark", "coords": [-2.884253, 53.187978]}, {"name": "St. Michael's", "text": "A historic church building in Chester now used as a cultural center.", "category": "religious", "coords": [-2.870791, 53.210238]}, {"name": "Saint Mary Without-the-Walls", "text": "A former church in Chester known for its location outside the old city walls.", "category": "religious", "coords": [-2.888974, 53.182932]}, {"name": "St John the Baptist", "text": "One of the oldest churches in England, located in Chester, featuring impressive Norman ruins.", "category": "religious", "coords": [-2.885641, 53.189021]}, {"name": "Grosvenor Bridge", "text": "A monumental stone arch bridge crossing the River Dee in Chester.", "category": "landmark", "coords": [-2.89615, 53.183603]}, {"name": "Hoole Bank Acid Tar Lagoon", "text": "Hoole Bank Acid Tar Lagoon in Chester is a former industrial site undergoing renaturation.", "category": "natural", "coords": [-2.848094, 53.217099]}, {"name": "Black Diamond Park", "text": "The playground in Black Diamond Park in Chester is a popular spot for family outings.", "category": "family", "coords": [-2.886178, 53.19795]}, {"name": "Upton-by-Chester Playground", "text": "Upton-by-Chester Playground in Chester offers various play equipment for children.", "category": "family", "coords": [-2.885376, 53.212326]}, {"name": "Blacon adventure playground", "text": "Blacon adventure playground in Chester is an exciting place for children to explore.", "category": "family", "coords": [-2.916647, 53.208649]}, {"name": "Walker Street Community Gardens", "text": "The playground in Walker Street Community Gardens in Chester provides a green oasis for families.", "category": "family", "coords": [-2.876376, 53.198454]}, {"name": "Neville Road Play Area", "text": "Neville Road Play Area in Chester is an accessible playground for children from the neighbourhood.", "category": "family", "coords": [-2.861055, 53.188378]}, {"name": "Vaughans Lane Play Area", "text": "Vaughans Lane Play Area in Chester offers a safe environment for children to play.", "category": "family", "coords": [-2.864919, 53.182766]}, {"name": "Hoole Lane Play Area", "text": "Hoole Lane Play Area in Chester is a popular play area for both young and older children.", "category": "family", "coords": [-2.866418, 53.197929]}, {"name": "Dryersfield Play Area", "text": "Dryersfield Play Area in Chester is a nicely designed playground for families.", "category": "family", "coords": [-2.864862, 53.187333]}, {"name": "Lime Wood Fields Play Area", "text": "The Lime Wood Fields Play Area in Chester provides plenty of room for active recreation.", "category": "family", "coords": [-2.870463, 53.206788]}, {"name": "Melrose Park Play Area", "text": "Melrose Park Play Area in Chester invites children to climb and run around.", "category": "family", "coords": [-2.869813, 53.194949]}, {"name": "Thackeray Forest Playground", "text": "Thackeray Forest Playground in Chester is an idyllic playground situated at the edge of the forest.", "category": "family", "coords": [-2.850341, 53.198535]}, {"name": "Alma Street Play Area", "text": "Alma Street Play Area in Chester is a small, well-maintained city playground.", "category": "family", "coords": [-2.87258, 53.192774]}, {"name": "Pipers Court Play Area", "text": "Pipers Court Play Area in Chester offers a quiet play opportunity for toddlers.", "category": "family", "coords": [-2.859471, 53.203954]}, {"name": "Appleyards Lane Play Area", "text": "Appleyards Lane Play Area in Chester is a lively meeting spot for families in the neighborhood.", "category": "family", "coords": [-2.879011, 53.182701]}, {"name": "Chesterton Court Play Area", "text": "Chesterton Court Play Area in Chester is ideal for kids to burn off energy in the afternoon.", "category": "family", "coords": [-2.885883, 53.202035]}, {"name": "Dicksons Field Play Area", "text": "Dicksons Field Play Area in Chester offers extensive green spaces around the play equipment.", "category": "family", "coords": [-2.887244, 53.205257]}, {"name": "Queens Road Park Playground", "text": "Queens Road Park Playground in Chester is a popular destination for sunny family outings.", "category": "family", "coords": [-2.859321, 53.198243]}, {"name": "Duke's Manor", "text": "The Duke's Manor playground in Chester provides a familiar atmosphere for playing.", "category": "family", "coords": [-2.892721, 53.201527]}, {"name": "Upton Dene Play Area", "text": "Upton Dene Play Area in Chester is a modern playground with various climbing options.", "category": "family", "coords": [-2.902642, 53.21353]}, {"name": "Francis Street Play Area", "text": "Francis Street Play Area in Chester is a practical playground in the urban residential area.", "category": "family", "coords": [-2.883164, 53.195099]}, {"name": "Cathedral Roads Play Area", "text": "Cathedral Roads Play Area in Chester offers children a nice play area near the center.", "category": "family", "coords": [-2.916302, 53.205457]}, {"name": "Hop Pole Paddock Play Area", "text": "Hop Pole Paddock Play Area in Chester is a cozy spot for families with small children.", "category": "family", "coords": [-2.888966, 53.19271]}]},
+    id: "uk-chester-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Minerva Roman rock shrine",
+                  "text": "Ein seltenes römisches Heiligtum der Göttin Minerva, das in Chester in einen Felsen gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -2.889336,
+                        53.184226
+                  ]
+            },
+            {
+                  "name": "Sick To Death",
+                  "text": "Ein Museum in Chester, das die schaurige Geschichte von Medizin und Krankheiten erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        -2.890771,
+                        53.18867
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Die Überreste des größten jemals in Britannien erbauten römischen Amphitheaters.",
+                  "category": "historical",
+                  "coords": [
+                        -2.886969,
+                        53.189345
+                  ]
+            },
+            {
+                  "name": "Chester Castle",
+                  "text": "Eine historische Schlossanlage in Chester mit einer fast tausendjährigen Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        -2.892441,
+                        53.185343
+                  ]
+            },
+            {
+                  "name": "Cheshire Military Museum",
+                  "text": "Das in der historischen Stadt Chester untergebrachte Cheshire Military Museum bietet einen tiefen Einblick in das Erbe der lokalen Regimenter. Museumsgäste können umfangreiche Ausstellungen erkunden, die Jahrhunderte von Militärdienst und Geschichte detailliert darstellen. Es ist ein Pflichtbesuch für jeden, der sich für das Vermächtnis der Streitkräfte interessiert.",
+                  "category": "museum",
+                  "coords": [
+                        -2.891982,
+                        53.186524
+                  ]
+            },
+            {
+                  "name": "Roman Angle Tower",
+                  "text": "Überreste eines Verteidigungsturms, der Teil der römischen Stadtmauer von Chester war.",
+                  "category": "historical",
+                  "coords": [
+                        -2.888119,
+                        53.189214
+                  ]
+            },
+            {
+                  "name": "Dewa Roman Experience",
+                  "text": "Ein interaktives Museum, das einen Einblick in das Leben im römischen Chester bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892138,
+                        53.189233
+                  ]
+            },
+            {
+                  "name": "Donkey Field Nature Reserve",
+                  "text": "Ein lokales Naturschutzgebiet in Chester, das einen friedlichen Lebensraum für Wildtiere bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.878384,
+                        53.210071
+                  ]
+            },
+            {
+                  "name": "Storyhouse",
+                  "text": "Ein Kulturzentrum in Chester mit Theater, Kino und Bibliothek.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893484,
+                        53.192665
+                  ]
+            },
+            {
+                  "name": "Chester Forum Theatre",
+                  "text": "Ein Veranstaltungsort in Chester, der dem lokalen Theater und der darstellenden Kunst gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893608,
+                        53.19106
+                  ]
+            },
+            {
+                  "name": "Caldy Nature Park",
+                  "text": "Ein Gemeinschaftspark und Naturschutzgebiet mit Grünflächen in Chester.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863277,
+                        53.178962
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "Ein Denkmal im Stadtzentrum von Chester, das an die in Weltkonflikten Gefallenen erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -2.890849,
+                        53.191591
+                  ]
+            },
+            {
+                  "name": "Grosvenor Park",
+                  "text": "Ein weitläufiger öffentlicher Park in Chester mit Gärten und Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        -2.882317,
+                        53.190133
+                  ]
+            },
+            {
+                  "name": "Roman Gardens",
+                  "text": "Eine Gartenanlage mit römischen Ruinen und archäologischen Funden in Chester.",
+                  "category": "park",
+                  "coords": [
+                        -2.887592,
+                        53.188257
+                  ]
+            },
+            {
+                  "name": "Lead Shot Tower",
+                  "text": "Ein markanter historischer Backsteinturm, der einst zur Schrotkugelherstellung diente.",
+                  "category": "historical",
+                  "coords": [
+                        -2.878084,
+                        53.19421
+                  ]
+            },
+            {
+                  "name": "Cheshire Regiment Memorial Garden",
+                  "text": "Ein Gedenkgarten in Chester, der dem Cheshire-Regiment gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        -2.889785,
+                        53.191679
+                  ]
+            },
+            {
+                  "name": "The Belvedere",
+                  "text": "Ein Aussichtspunkt in Chester, der einen weiten Blick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.880859,
+                        53.189688
+                  ]
+            },
+            {
+                  "name": "The Carlton Gallery",
+                  "text": "Eine Kunstgalerie in Chester, die verschiedene zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.893711,
+                        53.189768
+                  ]
+            },
+            {
+                  "name": "Roman Strongroom",
+                  "text": "Eine historische Stätte in Chester, die eine römische Schatzkammer zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.892225,
+                        53.191215
+                  ]
+            },
+            {
+                  "name": "The Quarry Garden",
+                  "text": "Ein gepflegter Garten in Chester, der zum Entspannen einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.883541,
+                        53.189008
+                  ]
+            },
+            {
+                  "name": "Euphoric arts",
+                  "text": "Eine Galerie in Chester, die sich auf lokale Kunst und kreative Projekte konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892878,
+                        53.193853
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Ein mittelalterlicher Turm, der Teil der historischen Stadtmauer von Chester ist.",
+                  "category": "tower",
+                  "coords": [
+                        -2.89955,
+                        53.192593
+                  ]
+            },
+            {
+                  "name": "The Watergate",
+                  "text": "Ein Abschnitt der historischen Stadtmauer von Chester am Watergate.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.897385,
+                        53.189382
+                  ]
+            },
+            {
+                  "name": "St. Columba's RC Church",
+                  "text": "Eine römisch-katholische Kirche in Chester mit einer markanten Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -2.875303,
+                        53.210342
+                  ]
+            },
+            {
+                  "name": "City Road Presbyterian Church",
+                  "text": "Ein historisches Kirchengebäude der Presbyterianer in der City Road von Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.882084,
+                        53.192983
+                  ]
+            },
+            {
+                  "name": "St. Olave's Church",
+                  "text": "Eine kleine historische Kirche in Chester, die dem heiligen Olaf gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.889903,
+                        53.187315
+                  ]
+            },
+            {
+                  "name": "Welsh Presbyterian Church",
+                  "text": "Ein markantes Kirchengebäude in Chester, das der walisischen presbyterianischen Gemeinde diente.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887588,
+                        53.190267
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Saint Francis of Assisi",
+                  "text": "Eine katholische Kirche in Chester, die dem heiligen Franz von Assisi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.892636,
+                        53.18774
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Ein historisches Kirchengebäude in Chester, das der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888483,
+                        53.196929
+                  ]
+            },
+            {
+                  "name": "Saint Werburgh's",
+                  "text": "Eine bedeutende katholische Kirche in Chester, die nach der heiligen Werburgh benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.88243,
+                        53.191133
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas of Canterbury",
+                  "text": "Eine anglikanische Kirche in Chester, die Thomas von Canterbury gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.896362,
+                        53.19838
+                  ]
+            },
+            {
+                  "name": "Northgate Church",
+                  "text": "Eine moderne christliche Kirche im Bereich des Northgate in Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.894568,
+                        53.195802
+                  ]
+            },
+            {
+                  "name": "Parish Church of the Holy Ascension",
+                  "text": "Eine Pfarrkirche in Chester, die der Himmelfahrt Christi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887922,
+                        53.21575
+                  ]
+            },
+            {
+                  "name": "St Lukes",
+                  "text": "Eine lokale Kirche in Chester, die der Gemeinde als Ort des Gottesdienstes dient.",
+                  "category": "religious",
+                  "coords": [
+                        -2.867598,
+                        53.176998
+                  ]
+            },
+            {
+                  "name": "St. Mark's Parish Church Saltney",
+                  "text": "Eine anglikanische Pfarrkirche in Saltney bei Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.915193,
+                        53.178984
+                  ]
+            },
+            {
+                  "name": "Old Dee Bridge",
+                  "text": "Eine mittelalterliche Steinbrücke über den Fluss Dee in Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.88881,
+                        53.185621
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Eine anglikanische Kirche im Stadtteil Hoole in Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.872722,
+                        53.201278
+                  ]
+            },
+            {
+                  "name": "King Charles Tower",
+                  "text": "Ein Eckturm der Stadtmauer von Chester, benannt nach König Karl I.",
+                  "category": "tower",
+                  "coords": [
+                        -2.890405,
+                        53.194173
+                  ]
+            },
+            {
+                  "name": "Queens Park Bridge",
+                  "text": "Eine Fußgängerbrücke über den Fluss Dee, die zum Queens Park in Chester führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.884253,
+                        53.187978
+                  ]
+            },
+            {
+                  "name": "St. Michael's",
+                  "text": "Ein historisches Kirchengebäude in Chester, das heute als Kulturzentrum genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -2.870791,
+                        53.210238
+                  ]
+            },
+            {
+                  "name": "Saint Mary Without-the-Walls",
+                  "text": "Eine ehemalige Kirche in Chester, die für ihre Lage außerhalb der alten Stadtmauern bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888974,
+                        53.182932
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "Eine der ältesten Kirchen Englands in Chester mit beeindruckenden normannischen Ruinen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.885641,
+                        53.189021
+                  ]
+            },
+            {
+                  "name": "Grosvenor Bridge",
+                  "text": "Eine monumentale Steinbogenbrücke über den Dee in Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.89615,
+                        53.183603
+                  ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "Die Hoole Bank Acid Tar Lagoon in Chester ist ein ehemaliges Industriegelände, das sich renaturiert.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "Der Spielplatz im Black Diamond Park in Chester ist ein beliebter Ort für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "Der Upton-by-Chester Playground in Chester bietet verschiedene Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "Der Abenteuerspielplatz in Blacon in Chester ist ein spannender Ort für Kinder, um Neues zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "Der Spielplatz in den Walker Street Community Gardens in Chester bietet eine grüne Oase für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "Der Neville Road Play Area in Chester ist ein übersichtlicher Spielplatz für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "Der Vaughans Lane Play Area in Chester bietet Kindern eine sichere Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "Der Hoole Lane Play Area in Chester ist ein beliebter Spielort für kleine und große Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "Der Dryersfield Play Area in Chester ist ein schön angelegter Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "Der Spielplatz in den Lime Wood Fields in Chester bietet viel Raum für aktive Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "Der Melrose Park Play Area in Chester lädt Kinder zum Klettern und Toben ein.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "Der Thackeray Forest Playground in Chester ist ein idyllischer Spielplatz am Waldrand.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "Der Alma Street Play Area in Chester ist ein kleiner, gepflegter Spielplatz in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "Der Pipers Court Play Area in Chester bietet eine ruhige Spielgelegenheit für Kleinkinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "Der Appleyards Lane Play Area in Chester ist ein lebhafter Treffpunkt für Familien aus dem Viertel.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "Der Chesterton Court Play Area in Chester ist ideal für Kinder, um sich nachmittags auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "Der Dicksons Field Play Area in Chester bietet weitläufige Grünflächen rund um die Spielgeräte.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "Der Spielplatz im Queens Road Park in Chester ist ein beliebter Ort für sonnige Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "Der Spielplatz am Duke's Manor in Chester bietet eine familiäre Atmosphäre zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "Der Upton Dene Play Area in Chester ist ein moderner Spielplatz mit vielfältigen Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "Der Francis Street Play Area in Chester ist ein praktischer Spielplatz im städtischen Wohngebiet.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "Der Cathedral Roads Play Area in Chester bietet Kindern eine schöne Spielfläche nahe dem Zentrum.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "Der Hop Pole Paddock Play Area in Chester ist ein gemütlicher Ort für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
+                  ]
+            },
+            {
+                  "name": "Get Wet Swim School",
+                  "text": "Eine professionelle Schwimmschule und Schwimmbadanlage mit Unterricht in Chester.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.897108,
+                        53.199392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Minerva Roman rock shrine",
+                  "text": "Ritka római szentély Minerva istennőnek, kősziklába faragva Chesterben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.889336,
+                        53.184226
+                  ]
+            },
+            {
+                  "name": "Sick To Death",
+                  "text": "Múzeum Chesterben, amely az orvostudomány és a betegségek borzalmas történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.890771,
+                        53.18867
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "A Britanniában valaha épült legnagyobb római amfiteátrum maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -2.886969,
+                        53.189345
+                  ]
+            },
+            {
+                  "name": "Chester Castle",
+                  "text": "Történelmi várkomplexum Chesterben, közel ezeréves múltra visszatekintve.",
+                  "category": "castle",
+                  "coords": [
+                        -2.892441,
+                        53.185343
+                  ]
+            },
+            {
+                  "name": "Cheshire Military Museum",
+                  "text": "A történelmi Chester városában található Cheshire Military Museum mélyreható bepillantást nyújt a helyi ezredek örökségébe. A múzeum vendégei kiterjedt kiállításokat fedezhetnek fel, amelyek a katonai szolgálat és történelem évszázadait részletezik. Kötelező látnivaló mindazok számára, akik érdeklődnek a fegyveres erők hagyatéka iránt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.891982,
+                        53.186524
+                  ]
+            },
+            {
+                  "name": "Roman Angle Tower",
+                  "text": "Egy védőtorony maradványai, amely Chester római városfalának része volt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.888119,
+                        53.189214
+                  ]
+            },
+            {
+                  "name": "Dewa Roman Experience",
+                  "text": "Interaktív múzeum, amely betekintést nyújt a római kori Chester életébe.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892138,
+                        53.189233
+                  ]
+            },
+            {
+                  "name": "Donkey Field Nature Reserve",
+                  "text": "Helyi természetvédelmi terület Chesterben, nyugodt élőhelyet biztosítva a vadvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        -2.878384,
+                        53.210071
+                  ]
+            },
+            {
+                  "name": "Storyhouse",
+                  "text": "Kulturális központ Chesterben színházzal, mozival és könyvtárral.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893484,
+                        53.192665
+                  ]
+            },
+            {
+                  "name": "Chester Forum Theatre",
+                  "text": "Helyszín Chesterben, amely a helyi színháznak és előadóművészetnek van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893608,
+                        53.19106
+                  ]
+            },
+            {
+                  "name": "Caldy Nature Park",
+                  "text": "Közösségi park és természetvédelmi terület zöldfelülettel Chesterben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863277,
+                        53.178962
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "Emlékmű Chester városközpontjában, a világháborús áldozatok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -2.890849,
+                        53.191591
+                  ]
+            },
+            {
+                  "name": "Grosvenor Park",
+                  "text": "Kiterjedt közpark Chesterben kertekkel és szabadidős létesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        -2.882317,
+                        53.190133
+                  ]
+            },
+            {
+                  "name": "Roman Gardens",
+                  "text": "Római kori romokat és régészeti leleteket bemutató kert Chesterben.",
+                  "category": "park",
+                  "coords": [
+                        -2.887592,
+                        53.188257
+                  ]
+            },
+            {
+                  "name": "Lead Shot Tower",
+                  "text": "Jellegzetes történelmi téglabelépítmény, amely egykor sörétgyártásra szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -2.878084,
+                        53.19421
+                  ]
+            },
+            {
+                  "name": "Cheshire Regiment Memorial Garden",
+                  "text": "A Cheshire-ezred tiszteletére kialakított emlékkert Chesterben.",
+                  "category": "park",
+                  "coords": [
+                        -2.889785,
+                        53.191679
+                  ]
+            },
+            {
+                  "name": "The Belvedere",
+                  "text": "Kilátópont Chesterben, ahonnan panorámás kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.880859,
+                        53.189688
+                  ]
+            },
+            {
+                  "name": "The Carlton Gallery",
+                  "text": "Kortárs művészeti alkotásokat bemutató galéria Chesterben.",
+                  "category": "museum",
+                  "coords": [
+                        -2.893711,
+                        53.189768
+                  ]
+            },
+            {
+                  "name": "Roman Strongroom",
+                  "text": "Történelmi helyszín Chesterben, amely egy római kori kincstárat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.892225,
+                        53.191215
+                  ]
+            },
+            {
+                  "name": "The Quarry Garden",
+                  "text": "Gondozott kert Chesterben, amely kellemes környezetet biztosít a pihenéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.883541,
+                        53.189008
+                  ]
+            },
+            {
+                  "name": "Euphoric arts",
+                  "text": "Helyi művészetre és kreatív projektekre összpontosító galéria Chesterben.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892878,
+                        53.193853
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Chester történelmi városfalának részét képező középkori torony.",
+                  "category": "tower",
+                  "coords": [
+                        -2.89955,
+                        53.192593
+                  ]
+            },
+            {
+                  "name": "The Watergate",
+                  "text": "Chester történelmi városfalának egy szakasza a Watergate közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.897385,
+                        53.189382
+                  ]
+            },
+            {
+                  "name": "St. Columba's RC Church",
+                  "text": "Jellegzetes építészetű római katolikus templom Chesterben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.875303,
+                        53.210342
+                  ]
+            },
+            {
+                  "name": "City Road Presbyterian Church",
+                  "text": "Történelmi presbiteriánus templomépület Chester City Road nevű utcájában.",
+                  "category": "religious",
+                  "coords": [
+                        -2.882084,
+                        53.192983
+                  ]
+            },
+            {
+                  "name": "St. Olave's Church",
+                  "text": "Szent Olafnak szentelt kisméretű történelmi templom Chesterben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.889903,
+                        53.187315
+                  ]
+            },
+            {
+                  "name": "Welsh Presbyterian Church",
+                  "text": "Jellegzetes templomépület Chesterben, amely a walesi presbiteriánus közösséget szolgálta.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887588,
+                        53.190267
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Saint Francis of Assisi",
+                  "text": "Assisi Szent Ferencnek szentelt katolikus templom Chesterben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.892636,
+                        53.18774
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Történelmi templomépület Chesterben, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888483,
+                        53.196929
+                  ]
+            },
+            {
+                  "name": "Saint Werburgh's",
+                  "text": "Szent Werburgh-ról elnevezett jelentős katolikus templom Chesterben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.88243,
+                        53.191133
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas of Canterbury",
+                  "text": "Canterburyi Szent Tamásnak szentelt anglikán templom Chesterben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.896362,
+                        53.19838
+                  ]
+            },
+            {
+                  "name": "Northgate Church",
+                  "text": "Modern keresztény templom Chester Northgate negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.894568,
+                        53.195802
+                  ]
+            },
+            {
+                  "name": "Parish Church of the Holy Ascension",
+                  "text": "Krisztus mennybemenetelének szentelt plébániatemplom Chesterben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887922,
+                        53.21575
+                  ]
+            },
+            {
+                  "name": "St Lukes",
+                  "text": "Helyi templom Chesterben, amely istentiszteleti helyként szolgál a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -2.867598,
+                        53.176998
+                  ]
+            },
+            {
+                  "name": "St. Mark's Parish Church Saltney",
+                  "text": "Anglikán plébániatemplom a Chester melletti Saltneyben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.915193,
+                        53.178984
+                  ]
+            },
+            {
+                  "name": "Old Dee Bridge",
+                  "text": "Középkori kőhíd a Dee folyó felett Chesterben.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.88881,
+                        53.185621
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Anglikán templom Chester Hoole városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.872722,
+                        53.201278
+                  ]
+            },
+            {
+                  "name": "King Charles Tower",
+                  "text": "Chester városfalának saroktornya, amelyet I. Károly királyról neveztek el.",
+                  "category": "tower",
+                  "coords": [
+                        -2.890405,
+                        53.194173
+                  ]
+            },
+            {
+                  "name": "Queens Park Bridge",
+                  "text": "A Dee folyón átívelő gyalogoshíd, amely a chesteri Queens Parkhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.884253,
+                        53.187978
+                  ]
+            },
+            {
+                  "name": "St. Michael's",
+                  "text": "Történelmi templomépület Chesterben, amely ma kulturális központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -2.870791,
+                        53.210238
+                  ]
+            },
+            {
+                  "name": "Saint Mary Without-the-Walls",
+                  "text": "Egykori templom Chesterben, amely a régi városfalakon kívüli elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888974,
+                        53.182932
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "Anglia egyik legrégebbi temploma Chesterben, lenyűgöző normann kori romokkal.",
+                  "category": "religious",
+                  "coords": [
+                        -2.885641,
+                        53.189021
+                  ]
+            },
+            {
+                  "name": "Grosvenor Bridge",
+                  "text": "Monumentális kőívhíd a Dee folyó felett Chesterben.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.89615,
+                        53.183603
+                  ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "A chesteri Hoole Bank Acid Tar Lagoon egykori ipari terület, amely most regenerálódik.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "A chesteri Black Diamond Park játszótere népszerű helyszín családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "A chesteri Upton-by-Chester Playground különféle játékeszközöket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "A chesteri Blacon kalandpark izgalmas helyszín a gyerekek számára az új felfedezésekhez.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "A chesteri Walker Street Community Gardens játszótere zöld oázist kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "A chesteri Neville Road Play Area egy átlátható játszótér a környékbeli gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "A chesteri Vaughans Lane Play Area biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "A chesteri Hoole Lane Play Area népszerű játszóhely kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "A chesteri Dryersfield Play Area egy szépen kialakított játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "A chesteri Lime Wood Fields játszótere rengeteg teret kínál az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "A chesteri Melrose Park Play Area mászásra és hancúrozásra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "A chesteri Thackeray Forest Playground egy idilli játszótér az erdő szélén.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "A chesteri Alma Street Play Area egy kis, gondozott városi játszótér.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "A chesteri Pipers Court Play Area nyugodt játéklehetőséget kínál a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "A chesteri Appleyards Lane Play Area egy élettel teli találkozóhely a negyedbeli családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "A chesteri Chesterton Court Play Area ideális a gyerekek délutáni energiáinak levezetésére.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "A chesteri Dicksons Field Play Area kiterjedt zöldterületeket kínál a játékeszközök körül.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "A chesteri Queens Road Park játszótere kedvelt célpontja a napos családi kirándulásoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "A chesteri Duke's Manor játszótere családias hangulatot kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "A chesteri Upton Dene Play Area egy modern játszótér sokféle mászási lehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "A chesteri Francis Street Play Area egy praktikus játszótér a városi lakóövezetben.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "A chesteri Cathedral Roads Play Area szép játszóterületet kínál a gyerekeknek a központ közelében.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "A chesteri Hop Pole Paddock Play Area egy hangulatos hely kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
+                  ]
+            },
+            {
+                  "name": "Get Wet Swim School",
+                  "text": "Professzionális úszóiskola és uszoda, amely oktatást kínál Chesterben.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.897108,
+                        53.199392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Minerva Roman rock shrine",
+                  "text": "Un sanctuar roman rar dedicat zeiței Minerva, sculptat într-o stâncă din Chester.",
+                  "category": "historical",
+                  "coords": [
+                        -2.889336,
+                        53.184226
+                  ]
+            },
+            {
+                  "name": "Sick To Death",
+                  "text": "Un muzeu din Chester care explorează istoria îngrozitoare a medicinei și a bolilor.",
+                  "category": "museum",
+                  "coords": [
+                        -2.890771,
+                        53.18867
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Rămășițele celui mai mare amfiteatru roman construit vreodată în Britania.",
+                  "category": "historical",
+                  "coords": [
+                        -2.886969,
+                        53.189345
+                  ]
+            },
+            {
+                  "name": "Chester Castle",
+                  "text": "Un complex istoric de castel din Chester, cu o istorie de aproape o mie de ani.",
+                  "category": "castle",
+                  "coords": [
+                        -2.892441,
+                        53.185343
+                  ]
+            },
+            {
+                  "name": "Cheshire Military Museum",
+                  "text": "Găzduit în orașul istoric Chester, Cheshire Military Museum oferă o incursiune profundă în moștenirea regimentelor locale. Oaspeții muzeului pot explora expoziții ample care detaliază secole de serviciu și istorie militară. Este o vizită obligatorie pentru oricine este interesat de moștenirea forțelor armate.",
+                  "category": "museum",
+                  "coords": [
+                        -2.891982,
+                        53.186524
+                  ]
+            },
+            {
+                  "name": "Roman Angle Tower",
+                  "text": "Rămășițele unui turn de apărare care a făcut parte din zidurile romane ale orașului Chester.",
+                  "category": "historical",
+                  "coords": [
+                        -2.888119,
+                        53.189214
+                  ]
+            },
+            {
+                  "name": "Dewa Roman Experience",
+                  "text": "Un muzeu interactiv care oferă o perspectivă asupra vieții din Chesterul roman.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892138,
+                        53.189233
+                  ]
+            },
+            {
+                  "name": "Donkey Field Nature Reserve",
+                  "text": "O rezervație naturală locală din Chester care oferă un habitat liniștit pentru fauna sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        -2.878384,
+                        53.210071
+                  ]
+            },
+            {
+                  "name": "Storyhouse",
+                  "text": "Un centru cultural din Chester care include un teatru, un cinematograf și o bibliotecă.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893484,
+                        53.192665
+                  ]
+            },
+            {
+                  "name": "Chester Forum Theatre",
+                  "text": "O locație din Chester dedicată teatrului local și artelor spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893608,
+                        53.19106
+                  ]
+            },
+            {
+                  "name": "Caldy Nature Park",
+                  "text": "Un parc comunitar și o rezervație naturală care oferă spațiu verde în Chester.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863277,
+                        53.178962
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "Un monument din centrul orașului Chester care îi comemorează pe cei pierduți în conflictele mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        -2.890849,
+                        53.191591
+                  ]
+            },
+            {
+                  "name": "Grosvenor Park",
+                  "text": "Un parc public vast în Chester, cu grădini și facilități de recreere.",
+                  "category": "park",
+                  "coords": [
+                        -2.882317,
+                        53.190133
+                  ]
+            },
+            {
+                  "name": "Roman Gardens",
+                  "text": "O grădină ce expune ruine romane și vestigii arheologice în Chester.",
+                  "category": "park",
+                  "coords": [
+                        -2.887592,
+                        53.188257
+                  ]
+            },
+            {
+                  "name": "Lead Shot Tower",
+                  "text": "Un turn istoric din cărămidă, folosit în trecut pentru fabricarea alicelor.",
+                  "category": "historical",
+                  "coords": [
+                        -2.878084,
+                        53.19421
+                  ]
+            },
+            {
+                  "name": "Cheshire Regiment Memorial Garden",
+                  "text": "O grădină memorială în Chester dedicată Regimentului Cheshire.",
+                  "category": "park",
+                  "coords": [
+                        -2.889785,
+                        53.191679
+                  ]
+            },
+            {
+                  "name": "The Belvedere",
+                  "text": "Un punct de observație în Chester ce oferă vederi panoramice asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -2.880859,
+                        53.189688
+                  ]
+            },
+            {
+                  "name": "The Carlton Gallery",
+                  "text": "O galerie de artă în Chester care expune diverse lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -2.893711,
+                        53.189768
+                  ]
+            },
+            {
+                  "name": "Roman Strongroom",
+                  "text": "Un sit istoric în Chester care prezintă o tezaurerie romană.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.892225,
+                        53.191215
+                  ]
+            },
+            {
+                  "name": "The Quarry Garden",
+                  "text": "O grădină amenajată în Chester, oferind un cadru liniștit pentru relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.883541,
+                        53.189008
+                  ]
+            },
+            {
+                  "name": "Euphoric arts",
+                  "text": "O galerie în Chester axată pe artă locală și proiecte creative.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892878,
+                        53.193853
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Un turn medieval care face parte din zidurile istorice ale orașului Chester.",
+                  "category": "tower",
+                  "coords": [
+                        -2.89955,
+                        53.192593
+                  ]
+            },
+            {
+                  "name": "The Watergate",
+                  "text": "O secțiune a zidurilor istorice ale orașului Chester, în zona Watergate.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.897385,
+                        53.189382
+                  ]
+            },
+            {
+                  "name": "St. Columba's RC Church",
+                  "text": "O biserică romano-catolică în Chester, cu o arhitectură distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        -2.875303,
+                        53.210342
+                  ]
+            },
+            {
+                  "name": "City Road Presbyterian Church",
+                  "text": "O clădire istorică a bisericii presbiteriene pe City Road în Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.882084,
+                        53.192983
+                  ]
+            },
+            {
+                  "name": "St. Olave's Church",
+                  "text": "O mică biserică istorică în Chester, dedicată Sfântului Olaf.",
+                  "category": "religious",
+                  "coords": [
+                        -2.889903,
+                        53.187315
+                  ]
+            },
+            {
+                  "name": "Welsh Presbyterian Church",
+                  "text": "O clădire distinctivă de biserică în Chester, care a servit comunitatea presbiteriană galeză.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887588,
+                        53.190267
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Saint Francis of Assisi",
+                  "text": "O biserică catolică în Chester dedicată Sfântului Francisc de Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        -2.892636,
+                        53.18774
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "O clădire istorică de biserică în Chester, care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888483,
+                        53.196929
+                  ]
+            },
+            {
+                  "name": "Saint Werburgh's",
+                  "text": "O biserică catolică importantă în Chester, numită după Sfânta Werburgh.",
+                  "category": "religious",
+                  "coords": [
+                        -2.88243,
+                        53.191133
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas of Canterbury",
+                  "text": "O biserică anglicană în Chester dedicată lui Thomas Becket.",
+                  "category": "religious",
+                  "coords": [
+                        -2.896362,
+                        53.19838
+                  ]
+            },
+            {
+                  "name": "Northgate Church",
+                  "text": "O biserică creștină modernă situată în zona Northgate din Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.894568,
+                        53.195802
+                  ]
+            },
+            {
+                  "name": "Parish Church of the Holy Ascension",
+                  "text": "O biserică parohială în Chester dedicată Înălțării Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887922,
+                        53.21575
+                  ]
+            },
+            {
+                  "name": "St Lukes",
+                  "text": "O biserică locală în Chester care servește ca loc de cult pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -2.867598,
+                        53.176998
+                  ]
+            },
+            {
+                  "name": "St. Mark's Parish Church Saltney",
+                  "text": "O biserică parohială anglicană în Saltney, lângă Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.915193,
+                        53.178984
+                  ]
+            },
+            {
+                  "name": "Old Dee Bridge",
+                  "text": "Un pod medieval din piatră peste râul Dee în Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.88881,
+                        53.185621
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "O biserică anglicană situată în cartierul Hoole din Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.872722,
+                        53.201278
+                  ]
+            },
+            {
+                  "name": "King Charles Tower",
+                  "text": "Un turn de colț al zidurilor orașului Chester, numit după Regele Carol I.",
+                  "category": "tower",
+                  "coords": [
+                        -2.890405,
+                        53.194173
+                  ]
+            },
+            {
+                  "name": "Queens Park Bridge",
+                  "text": "Un pod pietonal peste râul Dee care duce către Queens Park în Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.884253,
+                        53.187978
+                  ]
+            },
+            {
+                  "name": "St. Michael's",
+                  "text": "O clădire istorică de biserică în Chester, utilizată astăzi ca centru cultural.",
+                  "category": "religious",
+                  "coords": [
+                        -2.870791,
+                        53.210238
+                  ]
+            },
+            {
+                  "name": "Saint Mary Without-the-Walls",
+                  "text": "O fostă biserică în Chester, cunoscută pentru locația sa în afara zidurilor vechi ale orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888974,
+                        53.182932
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "Una dintre cele mai vechi biserici din Anglia, situată în Chester, cu impresionante ruine normande.",
+                  "category": "religious",
+                  "coords": [
+                        -2.885641,
+                        53.189021
+                  ]
+            },
+            {
+                  "name": "Grosvenor Bridge",
+                  "text": "Un pod monumental cu arc din piatră peste râul Dee în Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.89615,
+                        53.183603
+                  ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "Hoole Bank Acid Tar Lagoon din Chester este un fost sit industrial care se află într-un proces de renaturare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "Locul de joacă din Black Diamond Park din Chester este o destinație populară pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "Upton-by-Chester Playground din Chester oferă diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "Locul de joacă de aventură Blacon din Chester este un loc captivant pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "Locul de joacă din Walker Street Community Gardens din Chester oferă o oază verde pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "Neville Road Play Area din Chester este un loc de joacă accesibil pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "Vaughans Lane Play Area din Chester oferă copiilor un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "Hoole Lane Play Area din Chester este un loc de joacă popular pentru copiii mici și mari.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "Dryersfield Play Area din Chester este un loc de joacă frumos amenajat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "Locul de joacă din Lime Wood Fields din Chester oferă mult spațiu pentru activități recreative.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "Melrose Park Play Area din Chester invită copiii la cățărat și zburdălnicie.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "Thackeray Forest Playground din Chester este un loc de joacă idilic situat la marginea pădurii.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "Alma Street Play Area din Chester este un mic loc de joacă bine întreținut în oraș.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "Pipers Court Play Area din Chester oferă o oportunitate liniștită de joacă pentru copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "Appleyards Lane Play Area din Chester este un loc de întâlnire animat pentru familiile din cartier.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "Chesterton Court Play Area din Chester este ideal pentru ca cei mici să își consume energia după-amiaza.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "Dicksons Field Play Area din Chester oferă spații verzi întinse în jurul echipamentelor de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "Locul de joacă din Queens Road Park din Chester este o destinație populară pentru ieșirile însorite în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "Locul de joacă de la Duke's Manor din Chester oferă o atmosferă familială pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "Upton Dene Play Area din Chester este un loc de joacă modern, cu diverse opțiuni de cățărat.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "Francis Street Play Area din Chester este un loc de joacă practic în zona rezidențială urbană.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "Cathedral Roads Play Area din Chester oferă copiilor o zonă de joacă frumoasă aproape de centru.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "Hop Pole Paddock Play Area din Chester este un loc confortabil pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
+                  ]
+            },
+            {
+                  "name": "Get Wet Swim School",
+                  "text": "O școală de înot profesională și o facilitate cu piscină care oferă cursuri în Chester.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.897108,
+                        53.199392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Minerva Roman rock shrine",
+                  "text": "A rare Roman shrine dedicated to the goddess Minerva, carved into a rock face in Chester.",
+                  "category": "historical",
+                  "coords": [
+                        -2.889336,
+                        53.184226
+                  ]
+            },
+            {
+                  "name": "Sick To Death",
+                  "text": "A museum in Chester exploring the gruesome history of medicine and disease.",
+                  "category": "museum",
+                  "coords": [
+                        -2.890771,
+                        53.18867
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "The remains of the largest Roman amphitheatre ever built in Britain.",
+                  "category": "historical",
+                  "coords": [
+                        -2.886969,
+                        53.189345
+                  ]
+            },
+            {
+                  "name": "Chester Castle",
+                  "text": "A historic castle complex in Chester with a history spanning nearly a thousand years.",
+                  "category": "castle",
+                  "coords": [
+                        -2.892441,
+                        53.185343
+                  ]
+            },
+            {
+                  "name": "Cheshire Military Museum",
+                  "text": "Housed in the historic city of Chester, the Cheshire Military Museum offers a deep dive into the heritage of the local regiments. Museum guests can explore extensive exhibits that detail centuries of military service and history. It is a must-visit for anyone interested in the armed forces' legacy.",
+                  "category": "museum",
+                  "coords": [
+                        -2.891982,
+                        53.186524
+                  ]
+            },
+            {
+                  "name": "Roman Angle Tower",
+                  "text": "Remains of a defensive tower that was part of the Roman city walls of Chester.",
+                  "category": "historical",
+                  "coords": [
+                        -2.888119,
+                        53.189214
+                  ]
+            },
+            {
+                  "name": "Dewa Roman Experience",
+                  "text": "An interactive museum offering an insight into life in Roman Chester.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892138,
+                        53.189233
+                  ]
+            },
+            {
+                  "name": "Donkey Field Nature Reserve",
+                  "text": "A local nature reserve in Chester providing a peaceful habitat for wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -2.878384,
+                        53.210071
+                  ]
+            },
+            {
+                  "name": "Storyhouse",
+                  "text": "A cultural hub in Chester featuring a theatre, cinema, and library.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893484,
+                        53.192665
+                  ]
+            },
+            {
+                  "name": "Chester Forum Theatre",
+                  "text": "A venue in Chester dedicated to local theatre and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.893608,
+                        53.19106
+                  ]
+            },
+            {
+                  "name": "Caldy Nature Park",
+                  "text": "A community park and nature reserve offering green space in Chester.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863277,
+                        53.178962
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "A monument in Chester city centre commemorating those lost in world conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        -2.890849,
+                        53.191591
+                  ]
+            },
+            {
+                  "name": "Grosvenor Park",
+                  "text": "A large public park in Chester featuring gardens and leisure facilities.",
+                  "category": "park",
+                  "coords": [
+                        -2.882317,
+                        53.190133
+                  ]
+            },
+            {
+                  "name": "Roman Gardens",
+                  "text": "A garden display of Roman ruins and archaeological finds in Chester.",
+                  "category": "park",
+                  "coords": [
+                        -2.887592,
+                        53.188257
+                  ]
+            },
+            {
+                  "name": "Lead Shot Tower",
+                  "text": "A prominent historic brick tower formerly used for manufacturing lead shot.",
+                  "category": "historical",
+                  "coords": [
+                        -2.878084,
+                        53.19421
+                  ]
+            },
+            {
+                  "name": "Cheshire Regiment Memorial Garden",
+                  "text": "A memorial garden in Chester dedicated to the Cheshire Regiment.",
+                  "category": "park",
+                  "coords": [
+                        -2.889785,
+                        53.191679
+                  ]
+            },
+            {
+                  "name": "The Belvedere",
+                  "text": "A viewpoint in Chester providing scenic vistas of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -2.880859,
+                        53.189688
+                  ]
+            },
+            {
+                  "name": "The Carlton Gallery",
+                  "text": "An art gallery in Chester showcasing various contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -2.893711,
+                        53.189768
+                  ]
+            },
+            {
+                  "name": "Roman Strongroom",
+                  "text": "A historical site in Chester featuring a Roman strongroom.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.892225,
+                        53.191215
+                  ]
+            },
+            {
+                  "name": "The Quarry Garden",
+                  "text": "A landscaped garden in Chester providing a peaceful setting for relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.883541,
+                        53.189008
+                  ]
+            },
+            {
+                  "name": "Euphoric arts",
+                  "text": "A gallery in Chester focused on local art and creative projects.",
+                  "category": "museum",
+                  "coords": [
+                        -2.892878,
+                        53.193853
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "A medieval tower forming part of Chester's historic city walls.",
+                  "category": "tower",
+                  "coords": [
+                        -2.89955,
+                        53.192593
+                  ]
+            },
+            {
+                  "name": "The Watergate",
+                  "text": "A section of Chester's historic city walls located at the Watergate.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.897385,
+                        53.189382
+                  ]
+            },
+            {
+                  "name": "St. Columba's RC Church",
+                  "text": "A Roman Catholic church in Chester featuring distinctive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -2.875303,
+                        53.210342
+                  ]
+            },
+            {
+                  "name": "City Road Presbyterian Church",
+                  "text": "A historic Presbyterian church building located on City Road in Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.882084,
+                        53.192983
+                  ]
+            },
+            {
+                  "name": "St. Olave's Church",
+                  "text": "A small historic church in Chester dedicated to Saint Olave.",
+                  "category": "religious",
+                  "coords": [
+                        -2.889903,
+                        53.187315
+                  ]
+            },
+            {
+                  "name": "Welsh Presbyterian Church",
+                  "text": "A distinctive church building in Chester that served the Welsh Presbyterian community.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887588,
+                        53.190267
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Saint Francis of Assisi",
+                  "text": "A Catholic church in Chester dedicated to Saint Francis of Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        -2.892636,
+                        53.18774
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A historic church building in Chester serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888483,
+                        53.196929
+                  ]
+            },
+            {
+                  "name": "Saint Werburgh's",
+                  "text": "A prominent Catholic church in Chester named after Saint Werburgh.",
+                  "category": "religious",
+                  "coords": [
+                        -2.88243,
+                        53.191133
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas of Canterbury",
+                  "text": "An Anglican church in Chester dedicated to Saint Thomas of Canterbury.",
+                  "category": "religious",
+                  "coords": [
+                        -2.896362,
+                        53.19838
+                  ]
+            },
+            {
+                  "name": "Northgate Church",
+                  "text": "A modern Christian church located in the Northgate area of Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.894568,
+                        53.195802
+                  ]
+            },
+            {
+                  "name": "Parish Church of the Holy Ascension",
+                  "text": "A parish church in Chester dedicated to the Holy Ascension.",
+                  "category": "religious",
+                  "coords": [
+                        -2.887922,
+                        53.21575
+                  ]
+            },
+            {
+                  "name": "St Lukes",
+                  "text": "A local church in Chester serving as a place of worship for the community.",
+                  "category": "religious",
+                  "coords": [
+                        -2.867598,
+                        53.176998
+                  ]
+            },
+            {
+                  "name": "St. Mark's Parish Church Saltney",
+                  "text": "An Anglican parish church located in Saltney, near Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.915193,
+                        53.178984
+                  ]
+            },
+            {
+                  "name": "Old Dee Bridge",
+                  "text": "A medieval stone bridge crossing the River Dee in Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.88881,
+                        53.185621
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "An Anglican church located in the Hoole district of Chester.",
+                  "category": "religious",
+                  "coords": [
+                        -2.872722,
+                        53.201278
+                  ]
+            },
+            {
+                  "name": "King Charles Tower",
+                  "text": "A corner tower of Chester's city walls named after King Charles I.",
+                  "category": "tower",
+                  "coords": [
+                        -2.890405,
+                        53.194173
+                  ]
+            },
+            {
+                  "name": "Queens Park Bridge",
+                  "text": "A footbridge over the River Dee leading to Queens Park in Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.884253,
+                        53.187978
+                  ]
+            },
+            {
+                  "name": "St. Michael's",
+                  "text": "A historic church building in Chester now used as a cultural center.",
+                  "category": "religious",
+                  "coords": [
+                        -2.870791,
+                        53.210238
+                  ]
+            },
+            {
+                  "name": "Saint Mary Without-the-Walls",
+                  "text": "A former church in Chester known for its location outside the old city walls.",
+                  "category": "religious",
+                  "coords": [
+                        -2.888974,
+                        53.182932
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "One of the oldest churches in England, located in Chester, featuring impressive Norman ruins.",
+                  "category": "religious",
+                  "coords": [
+                        -2.885641,
+                        53.189021
+                  ]
+            },
+            {
+                  "name": "Grosvenor Bridge",
+                  "text": "A monumental stone arch bridge crossing the River Dee in Chester.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.89615,
+                        53.183603
+                  ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "Hoole Bank Acid Tar Lagoon in Chester is a former industrial site undergoing renaturation.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "The playground in Black Diamond Park in Chester is a popular spot for family outings.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "Upton-by-Chester Playground in Chester offers various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "Blacon adventure playground in Chester is an exciting place for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "The playground in Walker Street Community Gardens in Chester provides a green oasis for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "Neville Road Play Area in Chester is an accessible playground for children from the neighbourhood.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "Vaughans Lane Play Area in Chester offers a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "Hoole Lane Play Area in Chester is a popular play area for both young and older children.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "Dryersfield Play Area in Chester is a nicely designed playground for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "The Lime Wood Fields Play Area in Chester provides plenty of room for active recreation.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "Melrose Park Play Area in Chester invites children to climb and run around.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "Thackeray Forest Playground in Chester is an idyllic playground situated at the edge of the forest.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "Alma Street Play Area in Chester is a small, well-maintained city playground.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "Pipers Court Play Area in Chester offers a quiet play opportunity for toddlers.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "Appleyards Lane Play Area in Chester is a lively meeting spot for families in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "Chesterton Court Play Area in Chester is ideal for kids to burn off energy in the afternoon.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "Dicksons Field Play Area in Chester offers extensive green spaces around the play equipment.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "Queens Road Park Playground in Chester is a popular destination for sunny family outings.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "The Duke's Manor playground in Chester provides a familiar atmosphere for playing.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "Upton Dene Play Area in Chester is a modern playground with various climbing options.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "Francis Street Play Area in Chester is a practical playground in the urban residential area.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "Cathedral Roads Play Area in Chester offers children a nice play area near the center.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "Hop Pole Paddock Play Area in Chester is a cozy spot for families with small children.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
+                  ]
+            },
+            {
+                  "name": "Get Wet Swim School",
+                  "text": "A professional swimming school and pool facility providing lessons in Chester.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.897108,
+                        53.199392
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GB",
     name: { de: "Chester", hu: "Chester", ro: "Chester", en: "Chester" },

@@ -1072,6 +1072,15 @@ export const czechrepublicAllPoi: POI[] = [
                         16.05577,
                         48.857476
                   ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Lázně ist ein Wasserpark in der Weinregion Znojmo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
+                  ]
             }
       ],
       "hu": [
@@ -1136,6 +1145,15 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         16.05577,
                         48.857476
+                  ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Lázně egy vízipark a Znojmói borvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
                   ]
             }
       ],
@@ -1202,6 +1220,15 @@ export const czechrepublicAllPoi: POI[] = [
                         16.05577,
                         48.857476
                   ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Lázně este un parc acvatic situat în regiunea viticolă Znojmo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
+                  ]
             }
       ],
       "en": [
@@ -1266,6 +1293,15 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         16.05577,
                         48.857476
+                  ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Lázně is a water park located in the Znojmo wine region.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
                   ]
             }
       ]
@@ -1384,6 +1420,24 @@ export const czechrepublicAllPoi: POI[] = [
                         16.668353,
                         48.783553
                   ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "Ein kleiner Streichelzoo in der Weinregion Mikulov.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "Ein Schwimmbad und Wasserpark in der Nähe von Mikulov.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
+                  ]
             }
       ],
       "hu": [
@@ -1457,6 +1511,24 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         16.668353,
                         48.783553
+                  ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "Egy kis állatkert a Mikulovi borvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "Úszómedence és vízipark Mikulov közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
                   ]
             }
       ],
@@ -1532,6 +1604,24 @@ export const czechrepublicAllPoi: POI[] = [
                         16.668353,
                         48.783553
                   ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "O mică grădină zoologică în regiunea viticolă Mikulov.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "O piscină și parc acvatic situat lângă Mikulov.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
+                  ]
             }
       ],
       "en": [
@@ -1605,6 +1695,24 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         16.668353,
                         48.783553
+                  ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "A small zoo located in the Mikulov wine region.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "A swimming pool and water park located near Mikulov.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
                   ]
             }
       ]
@@ -1765,6 +1873,24 @@ export const czechrepublicAllPoi: POI[] = [
                         14.007348,
                         50.662144
                   ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "Ein Freibad und Wasserpark im Ortsteil Brná von Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "Ein Schwimmbadkomplex in Ústí nad Labem mit Innen- und Außenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
+                  ]
             }
       ],
       "hu": [
@@ -1838,6 +1964,24 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         14.007348,
                         50.662144
+                  ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "Szabadtéri uszoda és élményfürdő Ústí nad Labem Brná városrészében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "Úszókomplexum Ústí nad Labemben, fedett és szabadtéri medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
                   ]
             }
       ],
@@ -1913,6 +2057,24 @@ export const czechrepublicAllPoi: POI[] = [
                         14.007348,
                         50.662144
                   ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "O piscină în aer liber și parc acvatic în cartierul Brná din Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "Un complex de natație din Ústí nad Labem care oferă piscine interioare și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
+                  ]
             }
       ],
       "en": [
@@ -1986,6 +2148,24 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         14.007348,
                         50.662144
+                  ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "An outdoor swimming pool and water park in the Brná district of Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "A swimming complex in Ústí nad Labem offering indoor and outdoor pools.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
                   ]
             }
       ]
@@ -2230,6 +2410,24 @@ export const czechrepublicAllPoi: POI[] = [
                         14.571556,
                         50.007441
                   ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "Das Familienzentrum Čtyřlístek bietet im Aquapalace Prag vielfältige Wasserattraktionen und Aktivitäten für Groß und Klein.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "Floret ist eine Schwimmbadanlage im Bereich des Aquapalace Prag, die zum sportlichen Schwimmen und Relaxen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
+                  ]
             }
       ],
       "hu": [
@@ -2303,6 +2501,24 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         14.571556,
                         50.007441
+                  ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "A Čtyřlístek családi központ a prágai Aquapalace-ban változatos vízi attrakciókat és tevékenységeket kínál kicsiknek és nagyoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "A Floret egy úszómedencés létesítmény a prágai Aquapalace területén, amely sportolásra és pihenésre hívja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
                   ]
             }
       ],
@@ -2378,6 +2594,24 @@ export const czechrepublicAllPoi: POI[] = [
                         14.571556,
                         50.007441
                   ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "Centrul de familie Čtyřlístek oferă diverse atracții acvatice și activități pentru toate vârstele în cadrul Aquapalace Praga.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "Floret este o facilitate cu piscină în zona Aquapalace Praga, invitând vizitatorii la înot sportiv și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
+                  ]
             }
       ],
       "en": [
@@ -2451,6 +2685,24 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         14.571556,
                         50.007441
+                  ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "The Čtyřlístek family center provides various water attractions and activities for all ages within Aquapalace Prague.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "Floret is a swimming pool facility in the Aquapalace Prague area, inviting visitors for lap swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
                   ]
             }
       ]
@@ -2956,6 +3208,15 @@ export const czechrepublicAllPoi: POI[] = [
                         14.079317,
                         48.716394
                   ]
+            },
+            {
+                  "name": "Pláž převlikarna",
+                  "text": "Pláž převlikarna ist ein Badeort am Lipno-Stausee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.101042,
+                        48.738133
+                  ]
             }
       ],
       "hu": [
@@ -2993,6 +3254,15 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         14.079317,
                         48.716394
+                  ]
+            },
+            {
+                  "name": "Pláž převlikarna",
+                  "text": "A Pláž převlikarna egy tengerparti üdülőhely a Lipno-gátnál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.101042,
+                        48.738133
                   ]
             }
       ],
@@ -3032,6 +3302,15 @@ export const czechrepublicAllPoi: POI[] = [
                         14.079317,
                         48.716394
                   ]
+            },
+            {
+                  "name": "Pláž převlikarna",
+                  "text": "Pláž převlikarna este o zonă de stațiune balneară situată la barajul Lipno.",
+                  "category": "recreational",
+                  "coords": [
+                        14.101042,
+                        48.738133
+                  ]
             }
       ],
       "en": [
@@ -3069,6 +3348,15 @@ export const czechrepublicAllPoi: POI[] = [
                   "coords": [
                         14.079317,
                         48.716394
+                  ]
+            },
+            {
+                  "name": "Pláž převlikarna",
+                  "text": "Pláž převlikarna is a beach resort area located at the Lipno Dam.",
+                  "category": "recreational",
+                  "coords": [
+                        14.101042,
+                        48.738133
                   ]
             }
       ]

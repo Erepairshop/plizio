@@ -8054,6 +8054,15 @@ export const bosniaPois: POI[] = [
                         18.294975,
                         43.682869
                   ]
+            },
+            {
+                  "name": "WELLNESS & SPA",
+                  "text": "Dieses Wellness- und Spa-Zentrum auf der Bjelašnica bietet einen Schwimmbadbereich zur Erholung nach sportlichen Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.282775,
+                        43.720632
+                  ]
             }
       ],
       "hu": [
@@ -8091,6 +8100,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.294975,
                         43.682869
+                  ]
+            },
+            {
+                  "name": "WELLNESS & SPA",
+                  "text": "Ez a Bjelašnica-hegyi wellness és spa központ úszómedencét kínál a sportolás utáni kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.282775,
+                        43.720632
                   ]
             }
       ],
@@ -8130,6 +8148,15 @@ export const bosniaPois: POI[] = [
                         18.294975,
                         43.682869
                   ]
+            },
+            {
+                  "name": "WELLNESS & SPA",
+                  "text": "Acest centru wellness și spa de pe Bjelašnica oferă o zonă cu piscină pentru relaxare după activitățile sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        18.282775,
+                        43.720632
+                  ]
             }
       ],
       "en": [
@@ -8167,6 +8194,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.294975,
                         43.682869
+                  ]
+            },
+            {
+                  "name": "WELLNESS & SPA",
+                  "text": "This wellness and spa center on Bjelašnica features a swimming pool area for relaxation after outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.282775,
+                        43.720632
                   ]
             }
       ]

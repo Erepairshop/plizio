@@ -380,6 +380,42 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                         28.087828,
                         36.085871
                   ]
+            },
+            {
+                  "name": "Indoorpool",
+                  "text": "Ein Hallenbad für Besucher in der Nähe der Akropolis von Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.064312,
+                        36.125787
+                  ]
+            },
+            {
+                  "name": "Kalathos Beach",
+                  "text": "Ein langer Strandabschnitt bei Lindos, bekannt für seine Kieselsteine und das klare Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        28.069934,
+                        36.125385
+                  ]
+            },
+            {
+                  "name": "Akanthos pool bar",
+                  "text": "Ein Freizeitlokal mit Schwimmbad in der Nähe der Akropolis von Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.054626,
+                        36.073992
+                  ]
+            },
+            {
+                  "name": "Lindos View Hotel",
+                  "text": "Hotelanlage mit Schwimmbad und Aussicht in der Nähe der Akropolis von Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08229,
+                        36.089452
+                  ]
             }
       ],
       "hu": [
@@ -435,6 +471,42 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                   "coords": [
                         28.087828,
                         36.085871
+                  ]
+            },
+            {
+                  "name": "Indoorpool",
+                  "text": "Fedett úszómedence látogatók számára a lindoszi akropolisz közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.064312,
+                        36.125787
+                  ]
+            },
+            {
+                  "name": "Kalathos Beach",
+                  "text": "Hosszú tengerparti szakasz Lindos közelében, kavicsos partjáról és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        28.069934,
+                        36.125385
+                  ]
+            },
+            {
+                  "name": "Akanthos pool bar",
+                  "text": "Szabadidős helyszín úszómedencével a lindoszi akropolisz közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.054626,
+                        36.073992
+                  ]
+            },
+            {
+                  "name": "Lindos View Hotel",
+                  "text": "Szálloda úszómedencével és kilátással a lindoszi akropolisz közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08229,
+                        36.089452
                   ]
             }
       ],
@@ -492,6 +564,42 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                         28.087828,
                         36.085871
                   ]
+            },
+            {
+                  "name": "Indoorpool",
+                  "text": "O facilitate de înot interioară pentru vizitatori lângă Acropola din Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.064312,
+                        36.125787
+                  ]
+            },
+            {
+                  "name": "Kalathos Beach",
+                  "text": "O zonă lungă de plajă lângă Lindos, cunoscută pentru pietricele și apele limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        28.069934,
+                        36.125385
+                  ]
+            },
+            {
+                  "name": "Akanthos pool bar",
+                  "text": "Un loc de petrecere a timpului liber cu piscină lângă Acropola din Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.054626,
+                        36.073992
+                  ]
+            },
+            {
+                  "name": "Lindos View Hotel",
+                  "text": "Unitate hotelieră cu piscină și vedere în apropierea Acropolei din Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08229,
+                        36.089452
+                  ]
             }
       ],
       "en": [
@@ -547,6 +655,42 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                   "coords": [
                         28.087828,
                         36.085871
+                  ]
+            },
+            {
+                  "name": "Indoorpool",
+                  "text": "An indoor swimming facility for visitors near the Lindos Acropolis.",
+                  "category": "recreational",
+                  "coords": [
+                        28.064312,
+                        36.125787
+                  ]
+            },
+            {
+                  "name": "Kalathos Beach",
+                  "text": "A long beach area near Lindos known for its pebbles and clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        28.069934,
+                        36.125385
+                  ]
+            },
+            {
+                  "name": "Akanthos pool bar",
+                  "text": "A leisure venue featuring a swimming pool near the Lindos Acropolis.",
+                  "category": "recreational",
+                  "coords": [
+                        28.054626,
+                        36.073992
+                  ]
+            },
+            {
+                  "name": "Lindos View Hotel",
+                  "text": "Hotel facility with a swimming pool and views near the Lindos Acropolis.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08229,
+                        36.089452
                   ]
             }
       ]
@@ -1629,7 +1773,88 @@ imageHint: "Medieval town of Monemvasia on a rock island",
     },
     image: "/poi-images/greece-castle-monemvasia-landmarks-v2.webp",
 },  {
-    id: "greece-achilleion-palace-landmarks-v2",
+    id: "greece-achilleion-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Benitses beach",
+                  "text": "Ein beliebter Kieselstrand auf Korfu, unweit des Achilleion-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        19.914659,
+                        39.542861
+                  ]
+            },
+            {
+                  "name": "Ποντικονήσι",
+                  "text": "Ein Küstenbereich nahe der berühmten Mäuseinsel Pontikonisi bei Korfu.",
+                  "category": "recreational",
+                  "coords": [
+                        19.915067,
+                        39.587944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Benitses beach",
+                  "text": "Népszerű kavicsos strand Korfun, nem messze az Achilleion-palotától.",
+                  "category": "recreational",
+                  "coords": [
+                        19.914659,
+                        39.542861
+                  ]
+            },
+            {
+                  "name": "Ποντικονήσι",
+                  "text": "Tengerparti terület a híres korfui Pontikonisi-sziget közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.915067,
+                        39.587944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Benitses beach",
+                  "text": "O plajă populară cu pietriș în Corfu, nu departe de palatul Achilleion.",
+                  "category": "recreational",
+                  "coords": [
+                        19.914659,
+                        39.542861
+                  ]
+            },
+            {
+                  "name": "Ποντικονήσι",
+                  "text": "O zonă de coastă lângă faimoasa insulă Pontikonisi de lângă Corfu.",
+                  "category": "recreational",
+                  "coords": [
+                        19.915067,
+                        39.587944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Benitses beach",
+                  "text": "A popular pebble beach in Corfu, not far from the Achilleion Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        19.914659,
+                        39.542861
+                  ]
+            },
+            {
+                  "name": "Pontikonisi",
+                  "text": "A coastal area near the famous Mouse Island Pontikonisi by Corfu.",
+                  "category": "recreational",
+                  "coords": [
+                        19.915067,
+                        39.587944
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "palace",
     name: { de: "Achilleion", hu: "Achilleion-palota", ro: "Palatul Achilleion", en: "Achilleion Palace"},
@@ -2033,6 +2258,15 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                         21.696416,
                         36.83617
                   ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "Schwimmbadanlage in der Nähe der historischen Festung Methoni.",
+                  "category": "recreational",
+                  "coords": [
+                        21.747825,
+                        36.82895
+                  ]
             }
       ],
       "hu": [
@@ -2070,6 +2304,15 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   "coords": [
                         21.696416,
                         36.83617
+                  ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "Úszómedence-létesítmény a történelmi Methoni vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.747825,
+                        36.82895
                   ]
             }
       ],
@@ -2109,6 +2352,15 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                         21.696416,
                         36.83617
                   ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "Facilitate cu piscină situată lângă fortăreața istorică Methoni.",
+                  "category": "recreational",
+                  "coords": [
+                        21.747825,
+                        36.82895
+                  ]
             }
       ],
       "en": [
@@ -2146,6 +2398,15 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   "coords": [
                         21.696416,
                         36.83617
+                  ]
+            },
+            {
+                  "name": "zwembad",
+                  "text": "Swimming pool facility located near the historic Methoni Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        21.747825,
+                        36.82895
                   ]
             }
       ]
@@ -2966,6 +3227,42 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                         21.150141,
                         37.918733
                   ]
+            },
+            {
+                  "name": "Roman thermae of Kyllini",
+                  "text": "Antike römische Badruinen in der Region Kyllini in der Nähe der Burg Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117122,
+                        37.859189
+                  ]
+            },
+            {
+                  "name": "Ruhepool",
+                  "text": "Ein Freizeitschwimmbecken in einer Resortanlage in der Nähe der Burg Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.109852,
+                        37.854903
+                  ]
+            },
+            {
+                  "name": "Meerwasser-Pool",
+                  "text": "Ein mit Meerwasser gefülltes Schwimmbecken in der Nähe der historischen Stätte Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10879,
+                        37.85485
+                  ]
+            },
+            {
+                  "name": "Olympia Aqua Park",
+                  "text": "Ein großer Wasser-Themenpark mit verschiedenen Attraktionen in der Nähe der Burg Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.111728,
+                        37.858779
+                  ]
             }
       ],
       "hu": [
@@ -3003,6 +3300,42 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   "coords": [
                         21.150141,
                         37.918733
+                  ]
+            },
+            {
+                  "name": "Roman thermae of Kyllini",
+                  "text": "Ókori római fürdőromok Kyllini régiójában, a Chlemoutsi-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117122,
+                        37.859189
+                  ]
+            },
+            {
+                  "name": "Relaxing Pool",
+                  "text": "Pihenésre szolgáló úszómedence egy üdülőközpontban, a Chlemoutsi-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.109852,
+                        37.854903
+                  ]
+            },
+            {
+                  "name": "Seawater Pool",
+                  "text": "Tengervízzel töltött úszómedence Chlemoutsi történelmi helyszínének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10879,
+                        37.85485
+                  ]
+            },
+            {
+                  "name": "Olympia Aqua Park",
+                  "text": "Nagy vízi élménypark különféle attrakciókkal a Chlemoutsi-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.111728,
+                        37.858779
                   ]
             }
       ],
@@ -3042,6 +3375,42 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                         21.150141,
                         37.918733
                   ]
+            },
+            {
+                  "name": "Roman thermae of Kyllini",
+                  "text": "Ruine ale băilor romane antice situate în regiunea Kyllini, lângă castelul Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117122,
+                        37.859189
+                  ]
+            },
+            {
+                  "name": "Relaxing Pool",
+                  "text": "O piscină de agrement situată într-un complex hotelier lângă castelul Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.109852,
+                        37.854903
+                  ]
+            },
+            {
+                  "name": "Seawater Pool",
+                  "text": "O piscină cu apă de mare situată lângă situl istoric Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10879,
+                        37.85485
+                  ]
+            },
+            {
+                  "name": "Olympia Aqua Park",
+                  "text": "Un mare parc tematic acvatic care oferă diverse atracții lângă castelul Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.111728,
+                        37.858779
+                  ]
             }
       ],
       "en": [
@@ -3079,6 +3448,42 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   "coords": [
                         21.150141,
                         37.918733
+                  ]
+            },
+            {
+                  "name": "Roman thermae of Kyllini",
+                  "text": "Ancient Roman bath ruins located in the Kyllini region near Chlemoutsi Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117122,
+                        37.859189
+                  ]
+            },
+            {
+                  "name": "Relaxing Pool",
+                  "text": "A leisure swimming pool situated within a resort complex near Chlemoutsi Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        21.109852,
+                        37.854903
+                  ]
+            },
+            {
+                  "name": "Seawater Pool",
+                  "text": "A swimming pool filled with seawater located near the historic site of Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10879,
+                        37.85485
+                  ]
+            },
+            {
+                  "name": "Olympia Aqua Park",
+                  "text": "A large water theme park offering various attractions near Chlemoutsi Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        21.111728,
+                        37.858779
                   ]
             }
       ]
@@ -3125,7 +3530,124 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       fr: ["Le début de la construction de la forteresse date de 1220 sous Geoffroi Ier de Villehardouin.", "L'ensemble dispose d'un plan hexagonal marqué pour le château central.", "Le nom de Castel Tornese dérive de l'atelier monétaire pour les deniers tournois.", "En 1460, la forteresse tomba aux mains de l'Empire ottoman après une longue résistance.", "Les Vénitiens ont contrôlé l'édifice pendant la période de 1687 à 1715.", "Le château est situé dans une position stratégique à 226 mètres d'altitude."],
     }, image: "/poi-images/greece-chlemoutsi-castle-landmarks-v2.webp"},
   {
-    id: "greece-castle-nafpaktos-landmarks-v2",
+    id: "greece-castle-nafpaktos-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "Ein organisierter Strandabschnitt unterhalb der Burg von Nafpaktos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Ψανή",
+                  "text": "Ein langer Kiesstrand mit schattenspendenden Bäumen in Nafpaktos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.823178,
+                        38.38864
+                  ]
+            },
+            {
+                  "name": "Γρίμποβο",
+                  "text": "Ein beliebter Stadtstrand mit vielen Cafés und Platanen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.835864,
+                        38.39201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "Kiépített strand szakasz a nafpaktoszi vár alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Ψανή",
+                  "text": "Hosszú, kavicsos tengerpart árnyékot adó fákkal Nafpaktoszban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.823178,
+                        38.38864
+                  ]
+            },
+            {
+                  "name": "Γρίμποβο",
+                  "text": "Népszerű városi strand számos kávézóval és platánfákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.835864,
+                        38.39201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "O secțiune de plajă amenajată sub castelul din Nafpaktos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Ψανή",
+                  "text": "O plajă lungă cu pietriș și copaci care oferă umbră în Nafpaktos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.823178,
+                        38.38864
+                  ]
+            },
+            {
+                  "name": "Γρίμποβο",
+                  "text": "O plajă urbană populară, cu numeroase cafenele și platani.",
+                  "category": "recreational",
+                  "coords": [
+                        21.835864,
+                        38.39201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "An organized beach section below the Castle of Nafpaktos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Ψανή",
+                  "text": "A long pebble beach with shade-providing trees in Nafpaktos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.823178,
+                        38.38864
+                  ]
+            },
+            {
+                  "name": "Γρίμποβο",
+                  "text": "A popular city beach with many cafes and plane trees.",
+                  "category": "recreational",
+                  "coords": [
+                        21.835864,
+                        38.39201
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "castle",
     name: { de: "Burg von Nafpaktos", hu: "Nafpaktosz vára", ro: "Castelul din Nafpaktos", en: "Castle of Nafpaktos" },
@@ -3241,6 +3763,24 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                         25.145629,
                         37.081874
                   ]
+            },
+            {
+                  "name": "Tango Mar",
+                  "text": "Ein Strandresort in der Nähe der Kirche Panagia Ekatontapyliani auf Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.154411,
+                        37.094512
+                  ]
+            },
+            {
+                  "name": "Agia Eirene",
+                  "text": "Ein Strandresort in der Umgebung von Panagia Ekatontapyliani.",
+                  "category": "recreational",
+                  "coords": [
+                        25.109719,
+                        37.058462
+                  ]
             }
       ],
       "hu": [
@@ -3314,6 +3854,24 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   "coords": [
                         25.145629,
                         37.081874
+                  ]
+            },
+            {
+                  "name": "Tango Mar",
+                  "text": "Tengerparti üdülőhely a pároszi Panagia Ekatontapyliani-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.154411,
+                        37.094512
+                  ]
+            },
+            {
+                  "name": "Agia Eirene",
+                  "text": "Tengerparti üdülőhely Panagia Ekatontapyliani közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.109719,
+                        37.058462
                   ]
             }
       ],
@@ -3389,6 +3947,24 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                         25.145629,
                         37.081874
                   ]
+            },
+            {
+                  "name": "Tango Mar",
+                  "text": "O stațiune de plajă lângă biserica Panagia Ekatontapyliani din Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.154411,
+                        37.094512
+                  ]
+            },
+            {
+                  "name": "Agia Eirene",
+                  "text": "O stațiune la plajă aflată în apropiere de Panagia Ekatontapyliani.",
+                  "category": "recreational",
+                  "coords": [
+                        25.109719,
+                        37.058462
+                  ]
             }
       ],
       "en": [
@@ -3462,6 +4038,24 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   "coords": [
                         25.145629,
                         37.081874
+                  ]
+            },
+            {
+                  "name": "Tango Mar",
+                  "text": "A beach resort located near the Panagia Ekatontapyliani church on Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.154411,
+                        37.094512
+                  ]
+            },
+            {
+                  "name": "Agia Eirene",
+                  "text": "A beach resort area located in the vicinity of Panagia Ekatontapyliani.",
+                  "category": "recreational",
+                  "coords": [
+                        25.109719,
+                        37.058462
                   ]
             }
       ]

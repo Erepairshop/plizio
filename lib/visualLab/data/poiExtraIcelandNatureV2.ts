@@ -1554,7 +1554,52 @@ imageHint: "Jokulsarlon glacier lagoon icebergs",
     },
     image: "/poi-images/iceland-jokulsarlon-nature-v2.webp",
 },  {
-    id: "iceland-reynisfjara-nature-v2",
+    id: "iceland-reynisfjara-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reynisfjara Strand",
+                  "text": "Ein weltberühmter schwarzer Sandstrand mit beeindruckenden Basaltsäulen in Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.070225,
+                        63.405339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reynisfjara",
+                  "text": "Világhírű fekete homokos tengerpart lenyűgöző bazaltoszlopokkal Izlandon.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.070225,
+                        63.405339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reynisfjara",
+                  "text": "O plajă cu nisip negru celebră în întreaga lume, cu coloane de bazalt impresionante.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.070225,
+                        63.405339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reynisfjara Beach",
+                  "text": "A world-famous black sand beach with impressive basalt columns in Iceland.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.070225,
+                        63.405339
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Reynisfjara", hu: "Reynisfjara", ro: "Reynisfjara", en: "Reynisfjara"},
@@ -2090,7 +2135,52 @@ imageHint: "Fjadrargljufur canyon Iceland green cliffs",
     },
     image: "/poi-images/iceland-fjadrargljufur-nature-v2.webp",
 },  {
-    id: "iceland-askja-nature-v2",
+    id: "iceland-askja-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Víti",
+                  "text": "Ein bekannter geothermischer Kratersee in der Askja, berühmt für sein warmes, milchig-blaues Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725882,
+                        65.046754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Víti",
+                  "text": "Egy híres geotermikus krátertó az Askja-vulkánnál, amely meleg, tejeskék vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725882,
+                        65.046754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Víti",
+                  "text": "Un faimos lac geotermal situat într-un crater din Askja, cunoscut pentru apa sa caldă și albastru-lăptoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725882,
+                        65.046754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Víti",
+                  "text": "A famous geothermal crater lake in Askja, known for its warm, milky-blue water.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725882,
+                        65.046754
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "peak",
     name: { de: "Askja", hu: "Askja", ro: "Askja", en: "Askja"},

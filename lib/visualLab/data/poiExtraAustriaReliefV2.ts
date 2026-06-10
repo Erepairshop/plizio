@@ -1723,6 +1723,15 @@ export const austriaReliefV2: POI[] = [
                         13.081973,
                         46.733045
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Ein Schwimmbad in den Gailtaler Alpen, malerisch im Wald gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.07842,
+                        46.730259
+                  ]
             }
       ],
       "hu": [
@@ -1769,6 +1778,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.081973,
                         46.733045
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Erdei strandfürdő a Gailtali-Alpokban, festői környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.07842,
+                        46.730259
                   ]
             }
       ],
@@ -1817,6 +1835,15 @@ export const austriaReliefV2: POI[] = [
                         13.081973,
                         46.733045
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "O piscină în Alpii Gailtal, situată pitoresc în apropierea pădurii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.07842,
+                        46.730259
+                  ]
             }
       ],
       "en": [
@@ -1863,6 +1890,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.081973,
                         46.733045
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "A swimming pool in the Gailtal Alps, scenically located near the forest.",
+                  "category": "recreational",
+                  "coords": [
+                        13.07842,
+                        46.730259
                   ]
             }
       ]
@@ -5080,6 +5116,15 @@ export const austriaReliefV2: POI[] = [
                         14.105217,
                         47.553048
                   ]
+            },
+            {
+                  "name": "Standbad Puttersee",
+                  "text": "Ein Naturbadeplatz am Puttersee mit Blick auf den Grimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.137309,
+                        47.518743
+                  ]
             }
       ],
       "hu": [
@@ -5153,6 +5198,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         14.105217,
                         47.553048
+                  ]
+            },
+            {
+                  "name": "Standbad Puttersee",
+                  "text": "Természetes fürdőhely a Puttersee-nél, kilátással a Grimming-hegyre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.137309,
+                        47.518743
                   ]
             }
       ],
@@ -5228,6 +5282,15 @@ export const austriaReliefV2: POI[] = [
                         14.105217,
                         47.553048
                   ]
+            },
+            {
+                  "name": "Standbad Puttersee",
+                  "text": "Un loc de scăldat natural la Puttersee, cu vedere spre muntele Grimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.137309,
+                        47.518743
+                  ]
             }
       ],
       "en": [
@@ -5301,6 +5364,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         14.105217,
                         47.553048
+                  ]
+            },
+            {
+                  "name": "Standbad Puttersee",
+                  "text": "A natural lakeside swimming area at Puttersee with views of the Grimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.137309,
+                        47.518743
                   ]
             }
       ]
@@ -5422,6 +5494,15 @@ export const austriaReliefV2: POI[] = [
                         11.005791,
                         47.438804
                   ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "Ein malerischer Badeplatz am kristallklaren Eibsee am Fuße der Zugspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
+                  ]
             }
       ],
       "hu": [
@@ -5495,6 +5576,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         11.005791,
                         47.438804
+                  ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "Gleccser vízű, kristálytiszta fürdőhely az Eibsee-nél, a Zugspitze lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
                   ]
             }
       ],
@@ -5570,6 +5660,15 @@ export const austriaReliefV2: POI[] = [
                         11.005791,
                         47.438804
                   ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "Un loc pitoresc de scăldat pe malul lacului Eibsee, la poalele vârfului Zugspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
+                  ]
             }
       ],
       "en": [
@@ -5643,6 +5742,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         11.005791,
                         47.438804
+                  ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "A scenic swimming spot at the crystal-clear Eibsee at the foot of the Zugspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
                   ]
             }
       ]
@@ -6241,6 +6349,15 @@ export const austriaReliefV2: POI[] = [
                         13.722222,
                         47.844167
                   ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Ein Hallenbad und Wasserpark in der Bergregion des Feuerkogels.",
+                  "category": "recreational",
+                  "coords": [
+                        13.773694,
+                        47.812211
+                  ]
             }
       ],
       "hu": [
@@ -6314,6 +6431,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.722222,
                         47.844167
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Fedett uszoda és vízi park a Feuerkogel hegyvidéki területén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.773694,
+                        47.812211
                   ]
             }
       ],
@@ -6389,6 +6515,15 @@ export const austriaReliefV2: POI[] = [
                         13.722222,
                         47.844167
                   ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "O piscină acoperită și un parc acvatic în regiunea montană Feuerkogel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.773694,
+                        47.812211
+                  ]
             }
       ],
       "en": [
@@ -6462,6 +6597,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.722222,
                         47.844167
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "An indoor swimming pool and water park located in the Feuerkogel mountain area.",
+                  "category": "recreational",
+                  "coords": [
+                        13.773694,
+                        47.812211
                   ]
             }
       ]
@@ -6619,6 +6763,15 @@ export const austriaReliefV2: POI[] = [
                         13.387117,
                         47.714264
                   ]
+            },
+            {
+                  "name": "Strandbad St.Gilgen",
+                  "text": "Ein traditionsreiches Strandbad in St. Gilgen am Schafberg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.367955,
+                        47.76869
+                  ]
             }
       ],
       "hu": [
@@ -6683,6 +6836,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.387117,
                         47.714264
+                  ]
+            },
+            {
+                  "name": "Strandbad St.Gilgen",
+                  "text": "Hagyományos strandfürdő St. Gilgenben, a Schafberg lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.367955,
+                        47.76869
                   ]
             }
       ],
@@ -6749,6 +6911,15 @@ export const austriaReliefV2: POI[] = [
                         13.387117,
                         47.714264
                   ]
+            },
+            {
+                  "name": "Strandbad St.Gilgen",
+                  "text": "O baie publică tradițională în St. Gilgen, lângă muntele Schafberg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.367955,
+                        47.76869
+                  ]
             }
       ],
       "en": [
@@ -6813,6 +6984,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.387117,
                         47.714264
+                  ]
+            },
+            {
+                  "name": "Strandbad St.Gilgen",
+                  "text": "A traditional lakeside public bath in St. Gilgen, located near the Schafberg mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        13.367955,
+                        47.76869
                   ]
             }
       ]
@@ -7636,6 +7816,15 @@ export const austriaReliefV2: POI[] = [
                         13.813265,
                         47.384
                   ]
+            },
+            {
+                  "name": "Freizeitsee Aich",
+                  "text": "Ein Badesee mit familienfreundlichen Einrichtungen in der Nähe des Hauser Kaibling.",
+                  "category": "recreational",
+                  "coords": [
+                        13.819065,
+                        47.422655
+                  ]
             }
       ],
       "hu": [
@@ -7709,6 +7898,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.813265,
                         47.384
+                  ]
+            },
+            {
+                  "name": "Freizeitsee Aich",
+                  "text": "Szabadidős tó családbarát létesítményekkel a Hauser Kaibling közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.819065,
+                        47.422655
                   ]
             }
       ],
@@ -7784,6 +7982,15 @@ export const austriaReliefV2: POI[] = [
                         13.813265,
                         47.384
                   ]
+            },
+            {
+                  "name": "Freizeitsee Aich",
+                  "text": "Un lac de agrement cu facilități pentru familii lângă Hauser Kaibling.",
+                  "category": "recreational",
+                  "coords": [
+                        13.819065,
+                        47.422655
+                  ]
             }
       ],
       "en": [
@@ -7857,6 +8064,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.813265,
                         47.384
+                  ]
+            },
+            {
+                  "name": "Freizeitsee Aich",
+                  "text": "A recreational swimming lake with family-friendly facilities near Hauser Kaibling.",
+                  "category": "recreational",
+                  "coords": [
+                        13.819065,
+                        47.422655
                   ]
             }
       ]
@@ -8554,6 +8770,15 @@ export const austriaReliefV2: POI[] = [
                         13.584846,
                         47.267143
                   ]
+            },
+            {
+                  "name": "Alpenspa",
+                  "text": "Eine Wellness-Einrichtung in den Radstädter Tauern, ideal zur Entspannung in den Bergen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.559022,
+                        47.248836
+                  ]
             }
       ],
       "hu": [
@@ -8627,6 +8852,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.584846,
                         47.267143
+                  ]
+            },
+            {
+                  "name": "Alpenspa",
+                  "text": "Wellness-létesítmény a Radstadti-Tauernben, ideális pihenésre a hegyekben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.559022,
+                        47.248836
                   ]
             }
       ],
@@ -8702,6 +8936,15 @@ export const austriaReliefV2: POI[] = [
                         13.584846,
                         47.267143
                   ]
+            },
+            {
+                  "name": "Alpenspa",
+                  "text": "O facilitate spa în Radstadt Tauern, ideală pentru relaxare în zona montană.",
+                  "category": "recreational",
+                  "coords": [
+                        13.559022,
+                        47.248836
+                  ]
             }
       ],
       "en": [
@@ -8775,6 +9018,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.584846,
                         47.267143
+                  ]
+            },
+            {
+                  "name": "Alpenspa",
+                  "text": "A spa facility in the Radstadt Tauern, offering relaxation in a mountain setting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.559022,
+                        47.248836
                   ]
             }
       ]
@@ -9472,6 +9724,15 @@ export const austriaReliefV2: POI[] = [
                         10.552188,
                         46.850106
                   ]
+            },
+            {
+                  "name": "Panorma-Sky-Pool",
+                  "text": "Ein Panoramaschwimmbad mit Blick auf die umliegende Bergwelt der Rötelspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.501322,
+                        46.889187
+                  ]
             }
       ],
       "hu": [
@@ -9545,6 +9806,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         10.552188,
                         46.850106
+                  ]
+            },
+            {
+                  "name": "Panorma-Sky-Pool",
+                  "text": "Panorámás úszómedence kilátással a Rötelspitze környéki hegyekre.",
+                  "category": "recreational",
+                  "coords": [
+                        10.501322,
+                        46.889187
                   ]
             }
       ],
@@ -9620,6 +9890,15 @@ export const austriaReliefV2: POI[] = [
                         10.552188,
                         46.850106
                   ]
+            },
+            {
+                  "name": "Panorma-Sky-Pool",
+                  "text": "O piscină panoramică cu vedere spre munții din jurul vârfului Rötelspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.501322,
+                        46.889187
+                  ]
             }
       ],
       "en": [
@@ -9693,6 +9972,15 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         10.552188,
                         46.850106
+                  ]
+            },
+            {
+                  "name": "Panorma-Sky-Pool",
+                  "text": "A panoramic swimming pool with views of the mountains surrounding the Rötelspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.501322,
+                        46.889187
                   ]
             }
       ]

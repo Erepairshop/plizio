@@ -2065,6 +2065,15 @@ export const italyReliefV2: POI[] = [
                         10.361103,
                         44.121165
                   ]
+            },
+            {
+                  "name": "Parco Avventura Selva del Buffardello",
+                  "text": "Ein Abenteuerpark in der Gegend von Monte Cinto, der verschiedene Kletterparcours im Wald bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340044,
+                        44.174356
+                  ]
             }
       ],
       "hu": [
@@ -2120,6 +2129,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         10.361103,
                         44.121165
+                  ]
+            },
+            {
+                  "name": "Parco Avventura Selva del Buffardello",
+                  "text": "Kalandpark Monte Cinto környékén, amely erdei kötélpályákat és szabadtéri kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340044,
+                        44.174356
                   ]
             }
       ],
@@ -2177,6 +2195,15 @@ export const italyReliefV2: POI[] = [
                         10.361103,
                         44.121165
                   ]
+            },
+            {
+                  "name": "Parco Avventura Selva del Buffardello",
+                  "text": "Un parc de aventură în zona Monte Cinto, care oferă diverse trasee de cățărare în pădure.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340044,
+                        44.174356
+                  ]
             }
       ],
       "en": [
@@ -2232,6 +2259,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         10.361103,
                         44.121165
+                  ]
+            },
+            {
+                  "name": "Parco Avventura Selva del Buffardello",
+                  "text": "An adventure park near Monte Cinto offering various forest climbing courses and outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.340044,
+                        44.174356
                   ]
             }
       ]
@@ -5340,7 +5376,52 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-camicia-relief-v2.webp",
   },
   {
-    id: "italy-monte-brencola-relief-v2",
+    id: "italy-monte-brencola-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Evergreen Summer Village",
+                  "text": "Ein Schwimmbad am Monte Brencola, das Erfrischung in der Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.877297,
+                        43.585652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Evergreen Summer Village",
+                  "text": "Úszómedence a Monte Brencola hegyen, frissítő kikapcsolódást kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        12.877297,
+                        43.585652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Evergreen Summer Village",
+                  "text": "O piscină pe Monte Brencola, oferind relaxare în mijlocul naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        12.877297,
+                        43.585652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Evergreen Summer Village",
+                  "text": "A swimming pool at Monte Brencola, providing a refreshing spot in a natural environment.",
+                  "category": "recreational",
+                  "coords": [
+                        12.877297,
+                        43.585652
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Brencola", hu: "Monte Brencola", ro: "Monte Brencola", en: "Monte Brencola" },
@@ -7654,6 +7735,15 @@ export const italyReliefV2: POI[] = [
                         8.776491,
                         44.588631
                   ]
+            },
+            {
+                  "name": "Piscine Comunali",
+                  "text": "Öffentliche Schwimmbecken am Monte Tobbio für sportliche Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.716056,
+                        44.635194
+                  ]
             }
       ],
       "hu": [
@@ -7709,6 +7799,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         8.776491,
                         44.588631
+                  ]
+            },
+            {
+                  "name": "Piscine Comunali",
+                  "text": "Nyilvános uszoda a Monte Tobbio területén, sportolásra alkalmas helyszín.",
+                  "category": "recreational",
+                  "coords": [
+                        8.716056,
+                        44.635194
                   ]
             }
       ],
@@ -7766,6 +7865,15 @@ export const italyReliefV2: POI[] = [
                         8.776491,
                         44.588631
                   ]
+            },
+            {
+                  "name": "Piscine Comunali",
+                  "text": "Piscine comunale situate pe Monte Tobbio, ideale pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        8.716056,
+                        44.635194
+                  ]
             }
       ],
       "en": [
@@ -7821,6 +7929,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         8.776491,
                         44.588631
+                  ]
+            },
+            {
+                  "name": "Piscine Comunali",
+                  "text": "Communal swimming pools at Monte Tobbio providing space for aquatic sports.",
+                  "category": "recreational",
+                  "coords": [
+                        8.716056,
+                        44.635194
                   ]
             }
       ]
@@ -7942,6 +8059,15 @@ export const italyReliefV2: POI[] = [
                         7.208779,
                         44.198522
                   ]
+            },
+            {
+                  "name": "Terme di Valdieri",
+                  "text": "Ein bekannter Kurort und Wasserpark am Fuße des Monte Matto, berühmt für seine Thermalquellen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.271753,
+                        44.206927
+                  ]
             }
       ],
       "hu": [
@@ -8015,6 +8141,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         7.208779,
                         44.198522
+                  ]
+            },
+            {
+                  "name": "Terme di Valdieri",
+                  "text": "Ismert gyógyfürdő és vízipark a Monte Matto lábánál, amely termálvizeiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        7.271753,
+                        44.206927
                   ]
             }
       ],
@@ -8090,6 +8225,15 @@ export const italyReliefV2: POI[] = [
                         7.208779,
                         44.198522
                   ]
+            },
+            {
+                  "name": "Terme di Valdieri",
+                  "text": "O stațiune termală și parc acvatic la poalele Monte Matto, faimoasă pentru izvoarele sale.",
+                  "category": "recreational",
+                  "coords": [
+                        7.271753,
+                        44.206927
+                  ]
             }
       ],
       "en": [
@@ -8163,6 +8307,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         7.208779,
                         44.198522
+                  ]
+            },
+            {
+                  "name": "Terme di Valdieri",
+                  "text": "A well-known thermal resort and water park at the foot of Monte Matto, famous for its springs.",
+                  "category": "recreational",
+                  "coords": [
+                        7.271753,
+                        44.206927
                   ]
             }
       ]
@@ -9445,6 +9598,15 @@ export const italyReliefV2: POI[] = [
                         12.703999,
                         42.311036
                   ]
+            },
+            {
+                  "name": "Piscina palestra",
+                  "text": "Piscina palestra ist eine Schwimm- und Turnhalle am Monte Tancia.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750391,
+                        42.257245
+                  ]
             }
       ],
       "hu": [
@@ -9491,6 +9653,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         12.703999,
                         42.311036
+                  ]
+            },
+            {
+                  "name": "Piscina palestra",
+                  "text": "A Piscina palestra egy uszoda és tornaterem a Monte Tancia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750391,
+                        42.257245
                   ]
             }
       ],
@@ -9539,6 +9710,15 @@ export const italyReliefV2: POI[] = [
                         12.703999,
                         42.311036
                   ]
+            },
+            {
+                  "name": "Piscina palestra",
+                  "text": "Piscina palestra este o piscină și sală de sport situată în zona Monte Tancia.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750391,
+                        42.257245
+                  ]
             }
       ],
       "en": [
@@ -9585,6 +9765,15 @@ export const italyReliefV2: POI[] = [
                   "coords": [
                         12.703999,
                         42.311036
+                  ]
+            },
+            {
+                  "name": "Piscina palestra",
+                  "text": "Piscina palestra is a swimming pool and gym facility located near Monte Tancia.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750391,
+                        42.257245
                   ]
             }
       ]

@@ -76,6 +76,15 @@ export const polandAllPoi: POI[] = [
                         16.393544,
                         50.702565
                   ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "Ein lokales Schwimmbad, das Sport- und Erholungsmöglichkeiten in der Nähe der historischen Anlage Projekt Riese bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366895,
+                        50.685245
+                  ]
             }
       ],
       "hu": [
@@ -149,6 +158,15 @@ export const polandAllPoi: POI[] = [
                   "coords": [
                         16.393544,
                         50.702565
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "Helyi uszoda, amely sportolási és kikapcsolódási lehetőséget kínál a történelmi Project Riese közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366895,
+                        50.685245
                   ]
             }
       ],
@@ -224,6 +242,15 @@ export const polandAllPoi: POI[] = [
                         16.393544,
                         50.702565
                   ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "O piscină locală care oferă facilități sportive și de recreere în apropierea sitului istoric Project Riese.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366895,
+                        50.685245
+                  ]
             }
       ],
       "en": [
@@ -297,6 +324,15 @@ export const polandAllPoi: POI[] = [
                   "coords": [
                         16.393544,
                         50.702565
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "A local swimming pool providing sports and recreation facilities near the historical Project Riese site.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366895,
+                        50.685245
                   ]
             }
       ]

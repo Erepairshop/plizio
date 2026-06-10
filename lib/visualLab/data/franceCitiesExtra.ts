@@ -14928,6 +14928,15 @@ const citySeeds: CitySeed[] = [
                         1.902735,
                         47.903549
                   ]
+            },
+            {
+                  "name": "l'O",
+                  "text": "Ein modernes Wassersportzentrum in Orléans mit verschiedenen Schwimmeinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        1.908735,
+                        47.912952
+                  ]
             }
       ],
       "hu": [
@@ -15240,6 +15249,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.902735,
                         47.903549
+                  ]
+            },
+            {
+                  "name": "l'O",
+                  "text": "Kortárs vízi központ Orléans-ban, amely különféle úszási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.908735,
+                        47.912952
                   ]
             }
       ],
@@ -15554,6 +15572,15 @@ const citySeeds: CitySeed[] = [
                         1.902735,
                         47.903549
                   ]
+            },
+            {
+                  "name": "l'O",
+                  "text": "Un centru acvatic contemporan în Orléans, care oferă diverse facilități de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        1.908735,
+                        47.912952
+                  ]
             }
       ],
       "en": [
@@ -15866,6 +15893,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.902735,
                         47.903549
+                  ]
+            },
+            {
+                  "name": "l'O",
+                  "text": "A contemporary aquatic center in Orléans offering various swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        1.908735,
+                        47.912952
                   ]
             }
       ],
@@ -18296,6 +18332,15 @@ const citySeeds: CitySeed[] = [
                         -0.375148,
                         49.181215
                   ]
+            },
+            {
+                  "name": "Festyland",
+                  "text": "Ein bekannter Freizeitpark in der Normandie mit historischem Fokus.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.424022,
+                        49.182965
+                  ]
             }
       ],
       "hu": [
@@ -18789,6 +18834,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.375148,
                         49.181215
+                  ]
+            },
+            {
+                  "name": "Festyland",
+                  "text": "Ismert vidámpark Normandiában, amely történelmi témákra épül.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.424022,
+                        49.182965
                   ]
             }
       ],
@@ -19284,6 +19338,15 @@ const citySeeds: CitySeed[] = [
                         -0.375148,
                         49.181215
                   ]
+            },
+            {
+                  "name": "Festyland",
+                  "text": "Un parc de distracții cunoscut în Normandia, cu tematică istorică.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.424022,
+                        49.182965
+                  ]
             }
       ],
       "en": [
@@ -19777,6 +19840,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.375148,
                         49.181215
+                  ]
+            },
+            {
+                  "name": "Festyland",
+                  "text": "A well-known theme park in Normandy with a focus on local history.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.424022,
+                        49.182965
                   ]
             }
       ],
@@ -27212,6 +27284,15 @@ const citySeeds: CitySeed[] = [
                         5.940542,
                         43.152824
                   ]
+            },
+            {
+                  "name": "Plage de la Mitre",
+                  "text": "Ein Strand in Toulon, der für seine markante Felsformation bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930985,
+                        43.102978
+                  ]
             }
       ],
       "hu": [
@@ -27402,6 +27483,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.940542,
                         43.152824
+                  ]
+            },
+            {
+                  "name": "Plage de la Mitre",
+                  "text": "Strand Toulonban, amely jellegzetes sziklaformációjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930985,
+                        43.102978
                   ]
             }
       ],
@@ -27594,6 +27684,15 @@ const citySeeds: CitySeed[] = [
                         5.940542,
                         43.152824
                   ]
+            },
+            {
+                  "name": "Plage de la Mitre",
+                  "text": "O plajă în Toulon cunoscută pentru formațiunea sa stâncoasă distinctivă.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930985,
+                        43.102978
+                  ]
             }
       ],
       "en": [
@@ -27784,6 +27883,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.940542,
                         43.152824
+                  ]
+            },
+            {
+                  "name": "Plage de la Mitre",
+                  "text": "A beach in Toulon known for its distinctive rock formation.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930985,
+                        43.102978
                   ]
             }
       ],
@@ -30635,6 +30743,24 @@ const citySeeds: CitySeed[] = [
                         -1.193429,
                         46.150334
                   ]
+            },
+            {
+                  "name": "Plage de Port Neuf",
+                  "text": "Ein lokaler Strandbereich im Hafenviertel von La Rochelle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.187509,
+                        46.153198
+                  ]
+            },
+            {
+                  "name": "Plage de la Concurrence",
+                  "text": "Ein Stadtstrand in der Nähe des historischen Zentrums von La Rochelle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.160527,
+                        46.154931
+                  ]
             }
       ],
       "hu": [
@@ -31000,6 +31126,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.193429,
                         46.150334
+                  ]
+            },
+            {
+                  "name": "Plage de Port Neuf",
+                  "text": "Helyi strandterület La Rochelle kikötői negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.187509,
+                        46.153198
+                  ]
+            },
+            {
+                  "name": "Plage de la Concurrence",
+                  "text": "Városi strand La Rochelle történelmi központjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.160527,
+                        46.154931
                   ]
             }
       ],
@@ -31367,6 +31511,24 @@ const citySeeds: CitySeed[] = [
                         -1.193429,
                         46.150334
                   ]
+            },
+            {
+                  "name": "Plage de Port Neuf",
+                  "text": "O zonă de plajă locală situată în districtul portului din La Rochelle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.187509,
+                        46.153198
+                  ]
+            },
+            {
+                  "name": "Plage de la Concurrence",
+                  "text": "O plajă a orașului situată în apropierea centrului istoric din La Rochelle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.160527,
+                        46.154931
+                  ]
             }
       ],
       "en": [
@@ -31732,6 +31894,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.193429,
                         46.150334
+                  ]
+            },
+            {
+                  "name": "Plage de Port Neuf",
+                  "text": "A description for the local beach area situated in the port district of La Rochelle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.187509,
+                        46.153198
+                  ]
+            },
+            {
+                  "name": "Plage de la Concurrence",
+                  "text": "A city beach located near the historic center of La Rochelle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.160527,
+                        46.154931
                   ]
             }
       ],
@@ -32114,6 +32294,15 @@ const citySeeds: CitySeed[] = [
                         -0.365086,
                         43.298728
                   ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Ein Zentrum für Aquafitness und Entspannung in der Stadt Pau.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.357271,
+                        43.329883
+                  ]
             }
       ],
       "hu": [
@@ -32358,6 +32547,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.365086,
                         43.298728
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Aquafitnesz- és relaxációs központ Pau városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.357271,
+                        43.329883
                   ]
             }
       ],
@@ -32604,6 +32802,15 @@ const citySeeds: CitySeed[] = [
                         -0.365086,
                         43.298728
                   ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Un centru de aquafitness și relaxare în orașul Pau.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.357271,
+                        43.329883
+                  ]
             }
       ],
       "en": [
@@ -32848,6 +33055,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.365086,
                         43.298728
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "A center for aqua fitness and relaxation in the city of Pau.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.357271,
+                        43.329883
                   ]
             }
       ],
@@ -39708,6 +39924,15 @@ const citySeeds: CitySeed[] = [
                         -2.751055,
                         48.524722
                   ]
+            },
+            {
+                  "name": "Plage du Valais",
+                  "text": "Ein Naturstrand in der Bucht von Saint-Brieuc, umgeben von Wildnis.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.716843,
+                        48.526745
+                  ]
             }
       ],
       "hu": [
@@ -39759,6 +39984,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.751055,
                         48.524722
+                  ]
+            },
+            {
+                  "name": "Plage du Valais",
+                  "text": "Természetes strand a Saint-Brieuc-öbölben, vadvilággal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.716843,
+                        48.526745
                   ]
             }
       ],
@@ -39812,6 +40046,15 @@ const citySeeds: CitySeed[] = [
                         -2.751055,
                         48.524722
                   ]
+            },
+            {
+                  "name": "Plage du Valais",
+                  "text": "O plajă naturală în golful Saint-Brieuc, înconjurată de natură sălbatică.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.716843,
+                        48.526745
+                  ]
             }
       ],
       "en": [
@@ -39863,6 +40106,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.751055,
                         48.524722
+                  ]
+            },
+            {
+                  "name": "Plage du Valais",
+                  "text": "A natural beach in the Bay of Saint-Brieuc, surrounded by wilderness.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.716843,
+                        48.526745
                   ]
             }
       ],
@@ -41459,6 +41711,15 @@ const citySeeds: CitySeed[] = [
                         -2.249243,
                         47.257424
                   ]
+            },
+            {
+                  "name": "plage du Grand Traict",
+                  "text": "Plage du Grand Traict ist ein Küstenstrand in Saint-Nazaire an der Loire-Mündung.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.219733,
+                        47.265662
+                  ]
             }
       ],
       "hu": [
@@ -41700,6 +41961,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.249243,
                         47.257424
+                  ]
+            },
+            {
+                  "name": "plage du Grand Traict",
+                  "text": "A Plage du Grand Traict egy tengerparti strand Saint-Nazaire-ben, a Loire torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.219733,
+                        47.265662
                   ]
             }
       ],
@@ -41943,6 +42213,15 @@ const citySeeds: CitySeed[] = [
                         -2.249243,
                         47.257424
                   ]
+            },
+            {
+                  "name": "plage du Grand Traict",
+                  "text": "Plage du Grand Traict este o plajă în Saint-Nazaire, situată la estuarul Loarei.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.219733,
+                        47.265662
+                  ]
             }
       ],
       "en": [
@@ -42184,6 +42463,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.249243,
                         47.257424
+                  ]
+            },
+            {
+                  "name": "plage du Grand Traict",
+                  "text": "Plage du Grand Traict is a coastal beach in Saint-Nazaire at the Loire estuary.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.219733,
+                        47.265662
                   ]
             }
       ],
@@ -43622,6 +43910,24 @@ const citySeeds: CitySeed[] = [
                         2.408795,
                         47.047881
                   ]
+            },
+            {
+                  "name": "Bassin de 25m Intérieur",
+                  "text": "Ein 25-Meter-Hallenbecken in Bourges, das für sportliches Schwimmen und Training geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        2.421056,
+                        47.101047
+                  ]
+            },
+            {
+                  "name": "Plage du Lac d'Auron",
+                  "text": "Ein Strandbad am Lac d'Auron in Bourges, das im Sommer zum Baden und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        2.397705,
+                        47.055217
+                  ]
             }
       ],
       "hu": [
@@ -43998,6 +44304,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.408795,
                         47.047881
+                  ]
+            },
+            {
+                  "name": "Bassin de 25m Intérieur",
+                  "text": "25 méteres fedett medence Bourges-ban, amely sportúszásra és edzésre alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        2.421056,
+                        47.101047
+                  ]
+            },
+            {
+                  "name": "Plage du Lac d'Auron",
+                  "text": "Strand a Lac d'Auron partján Bourges-ban, amely nyáron fürdőzésre és pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        2.397705,
+                        47.055217
                   ]
             }
       ],
@@ -44376,6 +44700,24 @@ const citySeeds: CitySeed[] = [
                         2.408795,
                         47.047881
                   ]
+            },
+            {
+                  "name": "Bassin de 25m Intérieur",
+                  "text": "O piscină interioară de 25 de metri în Bourges, potrivită pentru înot sportiv și antrenament.",
+                  "category": "recreational",
+                  "coords": [
+                        2.421056,
+                        47.101047
+                  ]
+            },
+            {
+                  "name": "Plage du Lac d'Auron",
+                  "text": "Un ștrand pe malul lacului Auron din Bourges, care invită la scăldat și relaxare în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        2.397705,
+                        47.055217
+                  ]
             }
       ],
       "en": [
@@ -44752,6 +45094,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.408795,
                         47.047881
+                  ]
+            },
+            {
+                  "name": "Bassin de 25m Intérieur",
+                  "text": "An indoor 25-meter pool in Bourges suitable for lap swimming and training.",
+                  "category": "recreational",
+                  "coords": [
+                        2.421056,
+                        47.101047
+                  ]
+            },
+            {
+                  "name": "Plage du Lac d'Auron",
+                  "text": "A beach resort at Lake Auron in Bourges, inviting visitors to swim and relax during summer.",
+                  "category": "recreational",
+                  "coords": [
+                        2.397705,
+                        47.055217
                   ]
             }
       ],
@@ -50731,7 +51091,721 @@ const citySeeds: CitySeed[] = [
       fr: ["Sète a été officiellement fondée le 29 juillet 1666 avec le premier coup de pioche pour le môle du port.", "Le mont Saint-Clair offre une vue qui, par temps clair, s'étend jusqu'aux Pyrénées.", "L'étang de Thau est célèbre pour son élevage d'huîtres et de moules.", "La fête annuelle de la Saint-Louis en août est le point d'orgue de la saison des joutes.", "Sète possède douze kilomètres de plages de sable qui s'étendent entre la mer et la lagune.", "Le musée Paul Valéry se trouve dans un bâtiment surplombant le cimetière marin."],
     },
     image: "/poi-images/sete.webp",
-    "sights": {"de": [{"name": "Mont Saint-Clair", "text": "Der Hausberg von Sète bietet von seinem Gipfel aus ein atemberaubendes Panorama über die Stadt, das Meer und den Etang de Thau.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Le Quartier Haut", "text": "Das älteste Viertel der Stadt, oft 'kleines Neapel' genannt, ist geprägt von Künstlern, steilen Gassen und italienischem Flair.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Musée Paul Valéry", "text": "Das am Fuße des Mont Saint-Clair gelegene Museum ist dem berühmten Dichter gewidmet und zeigt beeindruckende Kunstsammlungen.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "Ein ehemaliges Fort direkt am Wasser, das heute als Freilichtbühne für Konzerte mit Blick auf das Mittelmeer dient.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Phare de la Méditerranée", "text": "Der Leuchtturm am Môle Saint-Louis markiert den Eingang zum Hafen und bietet einen weiten Blick über die Küste des Languedoc.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Cimetière Marin", "text": "Der Friedhof am Meer ist die letzte Ruhestätte von Paul Valéry und bietet eine melancholische Schönheit direkt über den Klippen.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "Die im 17. Jahrhundert erbaute Mole schützt den Hafen und ist ein beliebter Ort für Spaziergänge zwischen Stadt und Meer.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "Der Plage de la Fontaine bietet ein ruhiges Stranderlebnis in der charmanten Ortschaft Loupian bei Sete. Das ruhige Wasser lädt die Besucher zu erfrischendem Schwimmen und leisem Sonnenbaden abseits der geschäftigen Stadtzentren ein. Es ist ein idealer Ort, um den entspannten Rhythmus der südfranzösischen Küste aufzusaugen. Ein Besuch am Morgen ist sehr zu empfehlen, um die friedliche Atmosphäre zu genießen, bevor der Tag wärmer wird.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "Ruhig in Loupian in der Region Sete gelegen, bietet der Plage du Tambourin einen reizvollen Zufluchtsort am Wasser. Besucher erwartet eine einfache, natürliche Küstenlinie, die sich perfekt für gemütliche Spaziergänge und ungezwungenes Baden eignet. Das unaufgeregte Tempo hier macht es zu einem wunderbaren Ort, um sich wieder mit der maritimen Umgebung zu verbinden. Wenn Sie einen leichten Snack einpacken und am Vormittag anreisen, schaffen Sie die perfekten Voraussetzungen für einen entspannten Tag im Freien.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "Der Plage du Thalassa ist ein angenehmes Strandgebiet, das darauf wartet, in der Gegend von Loupian nahe Sete entdeckt zu werden. Das einladende Ufer bietet eine hervorragende Kulisse, um ein Handtuch auszubreiten und die sanfte Meeresbrise aufzunehmen. Es entsteht eine Atmosphäre, die sich hervorragend für ruhige Nachmittage in Wassernähe eignet. Ein gutes Buch oder gute Gesellschaft mitzubringen, ist der beste Weg, diesen friedlichen Ort zu genießen.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Als wunderschönes Tor zur Küste dienend, ist der Plage du Lido ein feiner Strand im Bezirk Loupian nahe Sete. Die sandige Umgebung zieht natürlich all jene an, die entspanntes Strandgut-Sammeln und erfrischende Badegänge genießen möchten. Er verkörpert ein fröhliches und doch nicht überlaufenes lokales Flair. Ein Besuch am frühen Abend bietet eine wunderbare Gelegenheit, die prächtigen Farbwechsel am Himmel zu beobachten.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "Für diejenigen, die einen stillen Rückzugsort suchen, bietet der Plage du Lazaret einen ruhigen Strandabschnitt in Loupian, Frankreich. Die gelassene Atmosphäre wird besonders von Besuchern geschätzt, die dem Lärm entfliehen und einfach dem sanften Plätschern der Wellen lauschen möchten. Es ist ein exquisiter Ort für erholsame Spaziergänge oder stille Meditation am Wasser. Sonnencreme und eine bequeme Strandmatte sind alles, was Sie für einen Nachmittag mit friedlichem Sonnenbaden benötigen.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Der Plage de la Corniche schmückt die Küste von Loupian und ist ein malerischer Strand, der bemerkenswerte Aussichten in der Nähe von Sete bietet. Die landschaftlich reizvolle Umgebung macht ihn zu einer ausgezeichneten Wahl für Fotobegeisterte und Gelegenheitsschwimmer gleichermaßen. Es entsteht ganz natürlich eine romantische und inspirierende Atmosphäre entlang des Ufers. Ein sanfter Spaziergang bei Sonnenuntergang rundet einen Tag der französischen Küstenerkundung perfekt ab.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "Der Plage de la Trémie liegt in der einladenden Küstengegend von Loupian und ist ein angenehmes Ziel für Sonnenanbeter in Frankreich. Die freundliche, offene Küstenlinie ist ideal für Familien und Paare, die einen entspannten Tag am Meer verbringen möchten. Besucher können fröhlich zwischen einer Abkühlung im Wasser und dem Ausruhen auf dem warmen Sand wechseln. Achten Sie darauf, ausreichend Flüssigkeit und Sonnenschutz mitzubringen, um auch in der Mittagshitze komfortabel zu bleiben.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "Der Plage de la Pyramide ist ein hübscher, sandiger Küstenabschnitt, versteckt in Loupian, der einen klassischen Strandausflug verspricht. Das einladende Terrain ermutigt zu nackten Füßen, langen Spaziergängen und fröhlichem Spielen in der sanften Küstenbrandung. Er versprüht eine mühelos entspannte Atmosphäre, in der die Zeit langsamer zu vergehen scheint. Mit einer leichten Strandmatte anzureisen ist ideal, um seinen Platz auf dem weichen Sand einzunehmen.", "category": "recreational", "coords": [3.663155, 43.446962]}], "hu": [{"name": "Mont Saint-Clair", "text": "Sète jellegzetes hegye, amelynek 183 méteres csúcsáról lenyűgöző kilátás nyílik a lagúnára és a Földközi-tengerre.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Felső negyed (Quartier Haut)", "text": "A művészek és halászok lakta történelmi negyed szűk utcáival és színes házaival az olasz városok hangulatát idézi.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Paul Valéry Múzeum", "text": "A híres költő nevét viselő múzeum képzőművészeti gyűjteményeknek ad otthont a Mont Saint-Clair oldalában.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Tengeri Színház (Théâtre de la Mer)", "text": "Egy egykori erődben kialakított szabadtéri amfiteátrum, ahol a koncertek hátterét közvetlenül a tenger adja.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Môle Saint-Louis világítótorony", "text": "A kikötő bejáratánál álló történelmi világítótorony a 17. századi móló végén található, ma is fontos jelzőpont.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Tengeri temető (Cimetière Marin)", "text": "Paul Valéry végső nyughelye; a tengerparti sziklákon fekvő temető egyedülálló hangulatú és panorámájú helyszín.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis móló", "text": "XIV. Lajos idején épült monumentális gát, amely a kikötőt védi és Sète egyik legnépszerűbb sétaútvonala.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "A Plage de la Fontaine nyugodt tengerparti élményt nyújt Sete közelében, a bájos Loupian városában. A békés vizek frissítő úszásra és csendes napozásra csábítják a látogatókat, távol a nyüzsgő városközpontoktól. Ideális hely a dél-franciaországi laza tengerparti ritmus megtapasztalására. A reggeli látogatás kifejezetten ajánlott, hogy élvezhessük a békés légkört, mielőtt a nap felmelegszik.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "A Sete régióban, Loupianban csendesen fekvő Plage du Tambourin elragadó menedéket nyújt a víz partján. A látogatók egy egyszerű, természetes partvonalra számíthatnak, amely tökéletes a ráérős sétákhoz és az alkalmi fürdőzéshez. Az itteni nyugodt tempó csodálatos hellyé teszi a tengerparti környezettel való kapcsolat újrateremtéséhez. Könnyű harapnivalóval felszerelkezve és a délelőtt közepén érkezve tökéletes alapot teremthet egy pihentető szabadtéri naphoz.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "A Plage du Thalassa egy kellemes strandterület, amely csak arra vár, hogy felfedezzék a Sete melletti Loupian környékén. A hívogató part kiváló környezetet kínál egy törölköző kiterítéséhez és a lágy tengeri szellő élvezetéhez. Olyan légkört teremt, amely nagyszerűen illik a víz közelében eltöltött nyugodt délutánokhoz. Egy jó könyv vagy jó társaság magunkkal vitele a legjobb módja ennek a békés helynek az élvezetére.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Gyönyörű tengerparti kapuként szolgál a Plage du Lido, egy finom strand Sete közelében, a Loupian kerületben. A homokos környezet természetesen vonzza azokat, akik szeretnének elmerülni a nyugodt parti sétákban és a frissítő csobbanásokban. A vidám, de mégsem túlzsúfolt helyi ízvilágot testesíti meg. A kora esti látogatás csodálatos lehetőséget kínál arra, hogy szemtanúi legyünk az égbolt gyönyörűen változó színeinek.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "Azok számára, akik egy csendes menedéket keresnek, a Plage du Lazaret egy nyugodt strandszakaszt kínál a franciaországi Loupianban. A derűs légkört különösen azok a látogatók kedvelik, akik szeretnének elmenekülni a zaj elől, és egyszerűen csak a lágyan hullámzó vizet hallgatni. Kiváló helyszín egy pihentető sétához vagy csendes meditációhoz a víz partján. Egy naptej és egy kényelmes strandmatrac minden, amire szüksége van egy békés napozással töltött délutánhoz.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Loupian partvidékét díszítve, a Plage de la Corniche egy festői strand, amely lenyűgöző kilátást kínál Sete közelében. A látványos környezet kiváló választássá teszi a fotózás szerelmesei és az alkalmi úszók számára egyaránt. Természetes módon romantikus és inspiráló légkört teremt a part mentén. Egy finom séta itt naplementekor tökéletesen megkoronázza a francia tengerpart felfedezésének napját.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "A Loupian hívogató partvidékén fekvő Plage de la Trémie kellemes úti cél a napfény szerelmeseinek Franciaországban. A barátságos, nyitott partvonal kiválóan alkalmas családok és párok számára, akik egy pihentető napot szeretnének a tengerparton tölteni. A látogatók boldogan válthatnak a vízben való hűsölés és a meleg homokon való pihenés között. Gondoskodjon megfelelő folyadékpótlásról és árnyékról, hogy a déli hőségben is jól érezze magát.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "A Plage de la Pyramide egy kedves homokos tengerparti szakasz Loupianban elrejtve, amely klasszikus tengerparti kiruccanást ígér. A hívogató terep mezítlábas sétákra és vidám játékra csábít a lágy parti hullámokban. Erőfeszítés nélküli, nyugodt légkört áraszt, ahol mintha lelassulna az idő. Érdemes egy könnyű strandmatraccal érkezni, hogy biztosítsa a helyét a puha homokban.", "category": "recreational", "coords": [3.663155, 43.446962]}], "ro": [{"name": "Muntele Saint-Clair", "text": "Un deal dominant de 183 metri înălțime care oferă o vedere panoramică spectaculoasă asupra orașului și lagunei Thau.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Quartier Haut", "text": "Cunoscut ca 'Mica Neapole', acest cartier istoric este inima artistică a orașului, cu străzi abrupte și fațade colorate.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Muzeul Paul Valéry", "text": "Situat lângă cimitirul marin, muzeul este dedicat scriitorului și expune opere de artă modernă și istorie locală.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "Un fost fort militar transformat într-o scenă de spectacole în aer liber, oferind un cadru magic direct pe malul mării.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Farul de la Môle Saint-Louis", "text": "O construcție istorică situată la capătul digului, care ghidează navele în portul Sète încă din secolul al XVII-lea.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Cimitirul Marin", "text": "Un loc de o frumusețe melancolică unde este înmormântat poetul Paul Valéry, având vedere directă spre Marea Mediterană.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "Primul dig construit la Sète în 1666, acesta oferă o promenadă relaxantă între portul vechi și largul mării.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "Plage de la Fontaine oferă o experiență de plajă liniștită, situată în fermecătoarea localitate Loupian de lângă Sete. Apele senine invită vizitatorii la înot revigorant și plajă în liniște, departe de centrele urbane aglomerate. Este un loc ideal pentru a absorbi ritmul de coastă relaxat al sudului Franței. O vizită de dimineață este foarte recomandată pentru a savura atmosfera pașnică înainte ca ziua să se încălzească.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "Odihnindu-se liniștită în Loupian, în regiunea Sete, Plage du Tambourin oferă o evadare încântătoare lângă apă. Vizitatorii pot anticipa o linie de coastă simplă, naturală, perfectă pentru plimbări pe îndelete și băi relaxate. Ritmul lent de aici îl face un loc minunat pentru a vă reconecta cu mediul de coastă. Împachetarea unei gustări ușoare și sosirea la mijlocul dimineții creează contextul perfect pentru o zi relaxantă în aer liber.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "Plage du Thalassa este o zonă de plajă plăcută care așteaptă să fie descoperită în zona Loupian din apropiere de Sete. Țărmul îmbietor oferă un cadru excelent pentru a întinde un prosop și a savura briza blândă a mării. Se creează o atmosferă foarte potrivită pentru după-amiezi calme petrecute lângă apă. Aducerea unei cărți bune sau o companie plăcută este cel mai bun mod de a vă bucura de acest loc liniștit.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Servind ca o frumoasă poartă de coastă, Plage du Lido este o plajă fină situată în districtul Loupian de lângă Sete. Mediul nisipos îi atrage firesc pe cei care doresc să se lase absorbiți de căutarea de scoici și de băi răcoritoare. Aceasta întruchipează o aromă locală veselă, dar deloc aglomerată. O vizită la începutul serii oferă o oportunitate minunată de a asista la culorile superbe și schimbătoare ale cerului.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "Pentru cei care caută un refugiu liniștit, Plage du Lazaret oferă un sector de plajă calm în Loupian, Franța. Atmosfera senină este apreciată în mod deosebit de vizitatorii care doresc să scape de zgomot și pur și simplu să asculte valurile care se sparg ușor. Este o locație rafinată pentru plimbări revigorante sau meditație tăcută lângă apă. Crema de protecție solară și un covoraș de plajă confortabil sunt tot ce aveți nevoie pentru o după-amiază de plajă pașnică.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Înnobilând linia de coastă din Loupian, Plage de la Corniche este o plajă pitorească ce oferă priveliști impresionante lângă Sete. Împrejurimile pitorești o fac o alegere excelentă atât pentru pasionații de fotografie, cât și pentru înotătorii de ocazie. Cultivă în mod natural o atmosferă romantică și plină de inspirație de-a lungul țărmului. O plimbare ușoară aici, la apus, completează perfect o zi de explorare a coastei franceze.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "Situată în zona de coastă primitoare a localității Loupian, Plage de la Trémie este o destinație plăcută pentru iubitorii de soare din Franța. Litoralul deschis și prietenos este foarte potrivit pentru familii și cupluri care doresc să petreacă o zi relaxantă la mare. Vizitatorii pot alterna cu bucurie între răcorirea în apă și odihna pe nisipul cald. Asigurați-vă că aduceți suficientă apă și o umbrelă pentru a vă menține confortul pe durata căldurii de la amiază.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "Plage de la Pyramide este o porțiune de coastă nisipoasă minunată, ascunsă în Loupian, promițând o ieșire clasică la plajă. Terenul primitor încurajează mersul desculț, plimbările lungi și jocul vesel în valurile blânde. Susține o atmosferă de o relaxare naturală, unde timpul pare să încetinească. Sosirea cu un covoraș de plajă ușor este ideală pentru a vă revendica locul pe nisipul moale.", "category": "recreational", "coords": [3.663155, 43.446962]}], "en": [{"name": "Mont Saint-Clair", "text": "The iconic hill of Sète offering breathtaking 360-degree views of the Mediterranean Sea and the Thau lagoon.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Quartier Haut", "text": "The historic upper district, nicknamed 'Little Naples', known for its fishing heritage, steep alleys, and street art.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Paul Valéry Museum", "text": "Nestled on the slopes of Mont Saint-Clair, this museum celebrates the poet's work and showcases fine arts collections.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "A former fort turned into an open-air amphitheater, offering unique concert experiences with the sea as a backdrop.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Môle Saint-Louis Lighthouse", "text": "A historic lighthouse marking the entrance to the old port, standing at the end of the 17th-century breakwater.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Seaside Cemetery (Cimetière Marin)", "text": "The final resting place of Paul Valéry, this beautiful cemetery overlooks the cliffs and the shimmering Mediterranean.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "The massive pier protecting the harbor since 1666, it is a favorite spot for locals and tourists to enjoy a sea breeze.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "Plage de la Fontaine offers a tranquil beach experience situated in the charming town of Loupian near Sete. The serene waters invite visitors for refreshing swims and quiet sunbathing away from bustling city centers. It is an ideal spot to absorb the laid-back coastal rhythm of the French south. A morning visit is highly recommended to enjoy the peaceful atmosphere before the day warms up.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "Resting quietly in Loupian within the Sete region, Plage du Tambourin provides a delightful escape by the water. Visitors can anticipate a simple, natural shoreline perfect for leisurely walks and casual bathing. The unhurried pace here makes it a wonderful place to reconnect with the coastal environment. Packing a light snack and arriving mid-morning creates a perfect setup for a relaxing day outdoors.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "Plage du Thalassa is a pleasant beach area waiting to be discovered in the Loupian area near Sete. The inviting shore offers an excellent setting for spreading out a towel and taking in the gentle sea breeze. It creates an atmosphere well-suited for calm afternoons spent near the water. Bringing along a good book or good company is the best way to enjoy this tranquil spot.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Serving as a beautiful coastal gateway, Plage du Lido is a fine beach located in the Loupian district near Sete. The sandy environment naturally draws those looking to immerse themselves in relaxed beachcombing and refreshing dips. It embodies a cheerful yet uncrowded local flavor. Visiting during the early evening presents a wonderful opportunity to witness gorgeous shifting colors across the sky.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "For those seeking a hushed retreat, Plage du Lazaret provides a quiet beach sector in Loupian, France. The serene atmosphere is particularly favored by visitors wanting to escape the noise and simply listen to the gently lapping waves. It is an exquisite location for restorative walks or quiet meditation by the water. Sunscreen and a comfortable beach mat are all you need for an afternoon of peaceful sunbathing.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Gracing the coastline of Loupian, Plage de la Corniche is a picturesque beach offering striking views near Sete. The scenic surroundings make it an excellent choice for photography enthusiasts and casual swimmers alike. It naturally cultivates a romantic and inspiring atmosphere along the shore. Taking a gentle stroll here at sunset perfectly rounds off a day of French coastal exploration.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "Situated in the welcoming coastal area of Loupian, Plage de la Trémie is a pleasant destination for sun seekers in France. The friendly, open shoreline is well-suited for families and couples wishing to spend a relaxing day by the sea. Visitors can happily transition between cooling off in the water and resting on the warm sand. Ensure you bring sufficient hydration and shade to stay comfortable throughout the midday heat.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "Plage de la Pyramide is a lovely sandy coastal stretch tucked away in Loupian, promising a classic beach outing. The inviting terrain encourages bare feet, long walks, and joyful play in the gentle coastal surf. It sustains an effortlessly relaxed vibe where time seems to slow down. Arriving with a light beach mat is ideal to claim your spot on the soft sand.", "category": "recreational", "coords": [3.663155, 43.446962]}], "fr": [{"name": "Mont Saint-Clair", "text": "Le point culminant de Sète offre un panorama époustouflant sur la ville, la mer et l'étang de Thau.", "category": "natural", "coords": [3.696667, 43.404444]}, {"name": "Le Quartier Haut", "text": "Le plus vieux quartier de la ville, aux ruelles pentues, reflète l'âme artistique et l'influence italienne de Sète.", "category": "historical", "coords": [3.693788, 43.401105]}, {"name": "Musée Paul Valéry", "text": "Situé au pied du mont Saint-Clair, ce musée est dédié au poète et présente des collections artistiques variées.", "category": "cultural", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "Ancien fort situé en bord de mer, transformé en scène à ciel ouvert offrant une vue imprenable sur la Méditerranée.", "category": "cultural", "coords": [3.6925, 43.3936]}, {"name": "Phare de la Méditerranée", "text": "Ce phare sur le môle Saint-Louis signale l'entrée du port et offre une vue étendue sur la côte languedocienne.", "category": "historical", "coords": [3.701722, 43.396889]}, {"name": "Cimetière Marin", "text": "Dernière demeure de Paul Valéry, ce cimetière surplombant la mer offre une beauté mélancolique au sommet des falaises.", "category": "historical", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "Construit au XVIIe siècle pour protéger le port, ce môle est un lieu de promenade privilégié entre ville et mer.", "category": "civic", "coords": [3.701722, 43.396889]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Mont Saint-Clair",
+                  "text": "Der Hausberg von Sète bietet von seinem Gipfel aus ein atemberaubendes Panorama über die Stadt, das Meer und den Etang de Thau.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.696667,
+                        43.404444
+                  ]
+            },
+            {
+                  "name": "Le Quartier Haut",
+                  "text": "Das älteste Viertel der Stadt, oft 'kleines Neapel' genannt, ist geprägt von Künstlern, steilen Gassen und italienischem Flair.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.693788,
+                        43.401105
+                  ]
+            },
+            {
+                  "name": "Musée Paul Valéry",
+                  "text": "Das am Fuße des Mont Saint-Clair gelegene Museum ist dem berühmten Dichter gewidmet und zeigt beeindruckende Kunstsammlungen.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.691083,
+                        43.395467
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Mer",
+                  "text": "Ein ehemaliges Fort direkt am Wasser, das heute als Freilichtbühne für Konzerte mit Blick auf das Mittelmeer dient.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.6925,
+                        43.3936
+                  ]
+            },
+            {
+                  "name": "Phare de la Méditerranée",
+                  "text": "Der Leuchtturm am Môle Saint-Louis markiert den Eingang zum Hafen und bietet einen weiten Blick über die Küste des Languedoc.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Cimetière Marin",
+                  "text": "Der Friedhof am Meer ist die letzte Ruhestätte von Paul Valéry und bietet eine melancholische Schönheit direkt über den Klippen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.6917,
+                        43.3947
+                  ]
+            },
+            {
+                  "name": "Môle Saint-Louis",
+                  "text": "Die im 17. Jahrhundert erbaute Mole schützt den Hafen und ist ein beliebter Ort für Spaziergänge zwischen Stadt und Meer.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "Der Plage de la Fontaine bietet ein ruhiges Stranderlebnis in der charmanten Ortschaft Loupian bei Sete. Das ruhige Wasser lädt die Besucher zu erfrischendem Schwimmen und leisem Sonnenbaden abseits der geschäftigen Stadtzentren ein. Es ist ein idealer Ort, um den entspannten Rhythmus der südfranzösischen Küste aufzusaugen. Ein Besuch am Morgen ist sehr zu empfehlen, um die friedliche Atmosphäre zu genießen, bevor der Tag wärmer wird.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "Ruhig in Loupian in der Region Sete gelegen, bietet der Plage du Tambourin einen reizvollen Zufluchtsort am Wasser. Besucher erwartet eine einfache, natürliche Küstenlinie, die sich perfekt für gemütliche Spaziergänge und ungezwungenes Baden eignet. Das unaufgeregte Tempo hier macht es zu einem wunderbaren Ort, um sich wieder mit der maritimen Umgebung zu verbinden. Wenn Sie einen leichten Snack einpacken und am Vormittag anreisen, schaffen Sie die perfekten Voraussetzungen für einen entspannten Tag im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "Der Plage du Thalassa ist ein angenehmes Strandgebiet, das darauf wartet, in der Gegend von Loupian nahe Sete entdeckt zu werden. Das einladende Ufer bietet eine hervorragende Kulisse, um ein Handtuch auszubreiten und die sanfte Meeresbrise aufzunehmen. Es entsteht eine Atmosphäre, die sich hervorragend für ruhige Nachmittage in Wassernähe eignet. Ein gutes Buch oder gute Gesellschaft mitzubringen, ist der beste Weg, diesen friedlichen Ort zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "Als wunderschönes Tor zur Küste dienend, ist der Plage du Lido ein feiner Strand im Bezirk Loupian nahe Sete. Die sandige Umgebung zieht natürlich all jene an, die entspanntes Strandgut-Sammeln und erfrischende Badegänge genießen möchten. Er verkörpert ein fröhliches und doch nicht überlaufenes lokales Flair. Ein Besuch am frühen Abend bietet eine wunderbare Gelegenheit, die prächtigen Farbwechsel am Himmel zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Für diejenigen, die einen stillen Rückzugsort suchen, bietet der Plage du Lazaret einen ruhigen Strandabschnitt in Loupian, Frankreich. Die gelassene Atmosphäre wird besonders von Besuchern geschätzt, die dem Lärm entfliehen und einfach dem sanften Plätschern der Wellen lauschen möchten. Es ist ein exquisiter Ort für erholsame Spaziergänge oder stille Meditation am Wasser. Sonnencreme und eine bequeme Strandmatte sind alles, was Sie für einen Nachmittag mit friedlichem Sonnenbaden benötigen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "Der Plage de la Corniche schmückt die Küste von Loupian und ist ein malerischer Strand, der bemerkenswerte Aussichten in der Nähe von Sete bietet. Die landschaftlich reizvolle Umgebung macht ihn zu einer ausgezeichneten Wahl für Fotobegeisterte und Gelegenheitsschwimmer gleichermaßen. Es entsteht ganz natürlich eine romantische und inspirierende Atmosphäre entlang des Ufers. Ein sanfter Spaziergang bei Sonnenuntergang rundet einen Tag der französischen Küstenerkundung perfekt ab.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "Der Plage de la Trémie liegt in der einladenden Küstengegend von Loupian und ist ein angenehmes Ziel für Sonnenanbeter in Frankreich. Die freundliche, offene Küstenlinie ist ideal für Familien und Paare, die einen entspannten Tag am Meer verbringen möchten. Besucher können fröhlich zwischen einer Abkühlung im Wasser und dem Ausruhen auf dem warmen Sand wechseln. Achten Sie darauf, ausreichend Flüssigkeit und Sonnenschutz mitzubringen, um auch in der Mittagshitze komfortabel zu bleiben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "Der Plage de la Pyramide ist ein hübscher, sandiger Küstenabschnitt, versteckt in Loupian, der einen klassischen Strandausflug verspricht. Das einladende Terrain ermutigt zu nackten Füßen, langen Spaziergängen und fröhlichem Spielen in der sanften Küstenbrandung. Er versprüht eine mühelos entspannte Atmosphäre, in der die Zeit langsamer zu vergehen scheint. Mit einer leichten Strandmatte anzureisen ist ideal, um seinen Platz auf dem weichen Sand einzunehmen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
+                  ]
+            },
+            {
+                  "name": "Plage de la Nau",
+                  "text": "Plage de la Nau ist ein Strand in Sète am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        3.682163,
+                        43.393483
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigie",
+                  "text": "Plage de la Vigie ist ein Strandabschnitt in der Hafenstadt Sète.",
+                  "category": "recreational",
+                  "coords": [
+                        3.67932,
+                        43.392604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Saint-Clair",
+                  "text": "Sète jellegzetes hegye, amelynek 183 méteres csúcsáról lenyűgöző kilátás nyílik a lagúnára és a Földközi-tengerre.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.696667,
+                        43.404444
+                  ]
+            },
+            {
+                  "name": "Felső negyed (Quartier Haut)",
+                  "text": "A művészek és halászok lakta történelmi negyed szűk utcáival és színes házaival az olasz városok hangulatát idézi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.693788,
+                        43.401105
+                  ]
+            },
+            {
+                  "name": "Paul Valéry Múzeum",
+                  "text": "A híres költő nevét viselő múzeum képzőművészeti gyűjteményeknek ad otthont a Mont Saint-Clair oldalában.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.691083,
+                        43.395467
+                  ]
+            },
+            {
+                  "name": "Tengeri Színház (Théâtre de la Mer)",
+                  "text": "Egy egykori erődben kialakított szabadtéri amfiteátrum, ahol a koncertek hátterét közvetlenül a tenger adja.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.6925,
+                        43.3936
+                  ]
+            },
+            {
+                  "name": "Môle Saint-Louis világítótorony",
+                  "text": "A kikötő bejáratánál álló történelmi világítótorony a 17. századi móló végén található, ma is fontos jelzőpont.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Tengeri temető (Cimetière Marin)",
+                  "text": "Paul Valéry végső nyughelye; a tengerparti sziklákon fekvő temető egyedülálló hangulatú és panorámájú helyszín.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.6917,
+                        43.3947
+                  ]
+            },
+            {
+                  "name": "Môle Saint-Louis móló",
+                  "text": "XIV. Lajos idején épült monumentális gát, amely a kikötőt védi és Sète egyik legnépszerűbb sétaútvonala.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "A Plage de la Fontaine nyugodt tengerparti élményt nyújt Sete közelében, a bájos Loupian városában. A békés vizek frissítő úszásra és csendes napozásra csábítják a látogatókat, távol a nyüzsgő városközpontoktól. Ideális hely a dél-franciaországi laza tengerparti ritmus megtapasztalására. A reggeli látogatás kifejezetten ajánlott, hogy élvezhessük a békés légkört, mielőtt a nap felmelegszik.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "A Sete régióban, Loupianban csendesen fekvő Plage du Tambourin elragadó menedéket nyújt a víz partján. A látogatók egy egyszerű, természetes partvonalra számíthatnak, amely tökéletes a ráérős sétákhoz és az alkalmi fürdőzéshez. Az itteni nyugodt tempó csodálatos hellyé teszi a tengerparti környezettel való kapcsolat újrateremtéséhez. Könnyű harapnivalóval felszerelkezve és a délelőtt közepén érkezve tökéletes alapot teremthet egy pihentető szabadtéri naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "A Plage du Thalassa egy kellemes strandterület, amely csak arra vár, hogy felfedezzék a Sete melletti Loupian környékén. A hívogató part kiváló környezetet kínál egy törölköző kiterítéséhez és a lágy tengeri szellő élvezetéhez. Olyan légkört teremt, amely nagyszerűen illik a víz közelében eltöltött nyugodt délutánokhoz. Egy jó könyv vagy jó társaság magunkkal vitele a legjobb módja ennek a békés helynek az élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "Gyönyörű tengerparti kapuként szolgál a Plage du Lido, egy finom strand Sete közelében, a Loupian kerületben. A homokos környezet természetesen vonzza azokat, akik szeretnének elmerülni a nyugodt parti sétákban és a frissítő csobbanásokban. A vidám, de mégsem túlzsúfolt helyi ízvilágot testesíti meg. A kora esti látogatás csodálatos lehetőséget kínál arra, hogy szemtanúi legyünk az égbolt gyönyörűen változó színeinek.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Azok számára, akik egy csendes menedéket keresnek, a Plage du Lazaret egy nyugodt strandszakaszt kínál a franciaországi Loupianban. A derűs légkört különösen azok a látogatók kedvelik, akik szeretnének elmenekülni a zaj elől, és egyszerűen csak a lágyan hullámzó vizet hallgatni. Kiváló helyszín egy pihentető sétához vagy csendes meditációhoz a víz partján. Egy naptej és egy kényelmes strandmatrac minden, amire szüksége van egy békés napozással töltött délutánhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "Loupian partvidékét díszítve, a Plage de la Corniche egy festői strand, amely lenyűgöző kilátást kínál Sete közelében. A látványos környezet kiváló választássá teszi a fotózás szerelmesei és az alkalmi úszók számára egyaránt. Természetes módon romantikus és inspiráló légkört teremt a part mentén. Egy finom séta itt naplementekor tökéletesen megkoronázza a francia tengerpart felfedezésének napját.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "A Loupian hívogató partvidékén fekvő Plage de la Trémie kellemes úti cél a napfény szerelmeseinek Franciaországban. A barátságos, nyitott partvonal kiválóan alkalmas családok és párok számára, akik egy pihentető napot szeretnének a tengerparton tölteni. A látogatók boldogan válthatnak a vízben való hűsölés és a meleg homokon való pihenés között. Gondoskodjon megfelelő folyadékpótlásról és árnyékról, hogy a déli hőségben is jól érezze magát.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "A Plage de la Pyramide egy kedves homokos tengerparti szakasz Loupianban elrejtve, amely klasszikus tengerparti kiruccanást ígér. A hívogató terep mezítlábas sétákra és vidám játékra csábít a lágy parti hullámokban. Erőfeszítés nélküli, nyugodt légkört áraszt, ahol mintha lelassulna az idő. Érdemes egy könnyű strandmatraccal érkezni, hogy biztosítsa a helyét a puha homokban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
+                  ]
+            },
+            {
+                  "name": "Plage de la Nau",
+                  "text": "Plage de la Nau egy strand Sète-ben, a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.682163,
+                        43.393483
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigie",
+                  "text": "Plage de la Vigie egy strandrész Sète kikötővárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.67932,
+                        43.392604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muntele Saint-Clair",
+                  "text": "Un deal dominant de 183 metri înălțime care oferă o vedere panoramică spectaculoasă asupra orașului și lagunei Thau.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.696667,
+                        43.404444
+                  ]
+            },
+            {
+                  "name": "Quartier Haut",
+                  "text": "Cunoscut ca 'Mica Neapole', acest cartier istoric este inima artistică a orașului, cu străzi abrupte și fațade colorate.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.693788,
+                        43.401105
+                  ]
+            },
+            {
+                  "name": "Muzeul Paul Valéry",
+                  "text": "Situat lângă cimitirul marin, muzeul este dedicat scriitorului și expune opere de artă modernă și istorie locală.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.691083,
+                        43.395467
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Mer",
+                  "text": "Un fost fort militar transformat într-o scenă de spectacole în aer liber, oferind un cadru magic direct pe malul mării.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.6925,
+                        43.3936
+                  ]
+            },
+            {
+                  "name": "Farul de la Môle Saint-Louis",
+                  "text": "O construcție istorică situată la capătul digului, care ghidează navele în portul Sète încă din secolul al XVII-lea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Cimitirul Marin",
+                  "text": "Un loc de o frumusețe melancolică unde este înmormântat poetul Paul Valéry, având vedere directă spre Marea Mediterană.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.6917,
+                        43.3947
+                  ]
+            },
+            {
+                  "name": "Môle Saint-Louis",
+                  "text": "Primul dig construit la Sète în 1666, acesta oferă o promenadă relaxantă între portul vechi și largul mării.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "Plage de la Fontaine oferă o experiență de plajă liniștită, situată în fermecătoarea localitate Loupian de lângă Sete. Apele senine invită vizitatorii la înot revigorant și plajă în liniște, departe de centrele urbane aglomerate. Este un loc ideal pentru a absorbi ritmul de coastă relaxat al sudului Franței. O vizită de dimineață este foarte recomandată pentru a savura atmosfera pașnică înainte ca ziua să se încălzească.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "Odihnindu-se liniștită în Loupian, în regiunea Sete, Plage du Tambourin oferă o evadare încântătoare lângă apă. Vizitatorii pot anticipa o linie de coastă simplă, naturală, perfectă pentru plimbări pe îndelete și băi relaxate. Ritmul lent de aici îl face un loc minunat pentru a vă reconecta cu mediul de coastă. Împachetarea unei gustări ușoare și sosirea la mijlocul dimineții creează contextul perfect pentru o zi relaxantă în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "Plage du Thalassa este o zonă de plajă plăcută care așteaptă să fie descoperită în zona Loupian din apropiere de Sete. Țărmul îmbietor oferă un cadru excelent pentru a întinde un prosop și a savura briza blândă a mării. Se creează o atmosferă foarte potrivită pentru după-amiezi calme petrecute lângă apă. Aducerea unei cărți bune sau o companie plăcută este cel mai bun mod de a vă bucura de acest loc liniștit.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "Servind ca o frumoasă poartă de coastă, Plage du Lido este o plajă fină situată în districtul Loupian de lângă Sete. Mediul nisipos îi atrage firesc pe cei care doresc să se lase absorbiți de căutarea de scoici și de băi răcoritoare. Aceasta întruchipează o aromă locală veselă, dar deloc aglomerată. O vizită la începutul serii oferă o oportunitate minunată de a asista la culorile superbe și schimbătoare ale cerului.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Pentru cei care caută un refugiu liniștit, Plage du Lazaret oferă un sector de plajă calm în Loupian, Franța. Atmosfera senină este apreciată în mod deosebit de vizitatorii care doresc să scape de zgomot și pur și simplu să asculte valurile care se sparg ușor. Este o locație rafinată pentru plimbări revigorante sau meditație tăcută lângă apă. Crema de protecție solară și un covoraș de plajă confortabil sunt tot ce aveți nevoie pentru o după-amiază de plajă pașnică.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "Înnobilând linia de coastă din Loupian, Plage de la Corniche este o plajă pitorească ce oferă priveliști impresionante lângă Sete. Împrejurimile pitorești o fac o alegere excelentă atât pentru pasionații de fotografie, cât și pentru înotătorii de ocazie. Cultivă în mod natural o atmosferă romantică și plină de inspirație de-a lungul țărmului. O plimbare ușoară aici, la apus, completează perfect o zi de explorare a coastei franceze.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "Situată în zona de coastă primitoare a localității Loupian, Plage de la Trémie este o destinație plăcută pentru iubitorii de soare din Franța. Litoralul deschis și prietenos este foarte potrivit pentru familii și cupluri care doresc să petreacă o zi relaxantă la mare. Vizitatorii pot alterna cu bucurie între răcorirea în apă și odihna pe nisipul cald. Asigurați-vă că aduceți suficientă apă și o umbrelă pentru a vă menține confortul pe durata căldurii de la amiază.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "Plage de la Pyramide este o porțiune de coastă nisipoasă minunată, ascunsă în Loupian, promițând o ieșire clasică la plajă. Terenul primitor încurajează mersul desculț, plimbările lungi și jocul vesel în valurile blânde. Susține o atmosferă de o relaxare naturală, unde timpul pare să încetinească. Sosirea cu un covoraș de plajă ușor este ideală pentru a vă revendica locul pe nisipul moale.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
+                  ]
+            },
+            {
+                  "name": "Plage de la Nau",
+                  "text": "Plage de la Nau este o plajă din Sète, la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        3.682163,
+                        43.393483
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigie",
+                  "text": "Plage de la Vigie este o porțiune de plajă din orașul port Sète.",
+                  "category": "recreational",
+                  "coords": [
+                        3.67932,
+                        43.392604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Saint-Clair",
+                  "text": "The iconic hill of Sète offering breathtaking 360-degree views of the Mediterranean Sea and the Thau lagoon.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.696667,
+                        43.404444
+                  ]
+            },
+            {
+                  "name": "Quartier Haut",
+                  "text": "The historic upper district, nicknamed 'Little Naples', known for its fishing heritage, steep alleys, and street art.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.693788,
+                        43.401105
+                  ]
+            },
+            {
+                  "name": "Paul Valéry Museum",
+                  "text": "Nestled on the slopes of Mont Saint-Clair, this museum celebrates the poet's work and showcases fine arts collections.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.691083,
+                        43.395467
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Mer",
+                  "text": "A former fort turned into an open-air amphitheater, offering unique concert experiences with the sea as a backdrop.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        3.6925,
+                        43.3936
+                  ]
+            },
+            {
+                  "name": "Môle Saint-Louis Lighthouse",
+                  "text": "A historic lighthouse marking the entrance to the old port, standing at the end of the 17th-century breakwater.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Seaside Cemetery (Cimetière Marin)",
+                  "text": "The final resting place of Paul Valéry, this beautiful cemetery overlooks the cliffs and the shimmering Mediterranean.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.6917,
+                        43.3947
+                  ]
+            },
+            {
+                  "name": "Môle Saint-Louis",
+                  "text": "The massive pier protecting the harbor since 1666, it is a favorite spot for locals and tourists to enjoy a sea breeze.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "Plage de la Fontaine offers a tranquil beach experience situated in the charming town of Loupian near Sete. The serene waters invite visitors for refreshing swims and quiet sunbathing away from bustling city centers. It is an ideal spot to absorb the laid-back coastal rhythm of the French south. A morning visit is highly recommended to enjoy the peaceful atmosphere before the day warms up.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "Resting quietly in Loupian within the Sete region, Plage du Tambourin provides a delightful escape by the water. Visitors can anticipate a simple, natural shoreline perfect for leisurely walks and casual bathing. The unhurried pace here makes it a wonderful place to reconnect with the coastal environment. Packing a light snack and arriving mid-morning creates a perfect setup for a relaxing day outdoors.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "Plage du Thalassa is a pleasant beach area waiting to be discovered in the Loupian area near Sete. The inviting shore offers an excellent setting for spreading out a towel and taking in the gentle sea breeze. It creates an atmosphere well-suited for calm afternoons spent near the water. Bringing along a good book or good company is the best way to enjoy this tranquil spot.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "Serving as a beautiful coastal gateway, Plage du Lido is a fine beach located in the Loupian district near Sete. The sandy environment naturally draws those looking to immerse themselves in relaxed beachcombing and refreshing dips. It embodies a cheerful yet uncrowded local flavor. Visiting during the early evening presents a wonderful opportunity to witness gorgeous shifting colors across the sky.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "For those seeking a hushed retreat, Plage du Lazaret provides a quiet beach sector in Loupian, France. The serene atmosphere is particularly favored by visitors wanting to escape the noise and simply listen to the gently lapping waves. It is an exquisite location for restorative walks or quiet meditation by the water. Sunscreen and a comfortable beach mat are all you need for an afternoon of peaceful sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "Gracing the coastline of Loupian, Plage de la Corniche is a picturesque beach offering striking views near Sete. The scenic surroundings make it an excellent choice for photography enthusiasts and casual swimmers alike. It naturally cultivates a romantic and inspiring atmosphere along the shore. Taking a gentle stroll here at sunset perfectly rounds off a day of French coastal exploration.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "Situated in the welcoming coastal area of Loupian, Plage de la Trémie is a pleasant destination for sun seekers in France. The friendly, open shoreline is well-suited for families and couples wishing to spend a relaxing day by the sea. Visitors can happily transition between cooling off in the water and resting on the warm sand. Ensure you bring sufficient hydration and shade to stay comfortable throughout the midday heat.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "Plage de la Pyramide is a lovely sandy coastal stretch tucked away in Loupian, promising a classic beach outing. The inviting terrain encourages bare feet, long walks, and joyful play in the gentle coastal surf. It sustains an effortlessly relaxed vibe where time seems to slow down. Arriving with a light beach mat is ideal to claim your spot on the soft sand.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
+                  ]
+            },
+            {
+                  "name": "Plage de la Nau",
+                  "text": "Plage de la Nau is a beach in Sète by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        3.682163,
+                        43.393483
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigie",
+                  "text": "Plage de la Vigie is a beach section in the port city of Sète.",
+                  "category": "recreational",
+                  "coords": [
+                        3.67932,
+                        43.392604
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Mont Saint-Clair",
+                  "text": "Le point culminant de Sète offre un panorama époustouflant sur la ville, la mer et l'étang de Thau.",
+                  "category": "natural",
+                  "coords": [
+                        3.696667,
+                        43.404444
+                  ]
+            },
+            {
+                  "name": "Le Quartier Haut",
+                  "text": "Le plus vieux quartier de la ville, aux ruelles pentues, reflète l'âme artistique et l'influence italienne de Sète.",
+                  "category": "historical",
+                  "coords": [
+                        3.693788,
+                        43.401105
+                  ]
+            },
+            {
+                  "name": "Musée Paul Valéry",
+                  "text": "Situé au pied du mont Saint-Clair, ce musée est dédié au poète et présente des collections artistiques variées.",
+                  "category": "cultural",
+                  "coords": [
+                        3.691083,
+                        43.395467
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Mer",
+                  "text": "Ancien fort situé en bord de mer, transformé en scène à ciel ouvert offrant une vue imprenable sur la Méditerranée.",
+                  "category": "cultural",
+                  "coords": [
+                        3.6925,
+                        43.3936
+                  ]
+            },
+            {
+                  "name": "Phare de la Méditerranée",
+                  "text": "Ce phare sur le môle Saint-Louis signale l'entrée du port et offre une vue étendue sur la côte languedocienne.",
+                  "category": "historical",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            },
+            {
+                  "name": "Cimetière Marin",
+                  "text": "Dernière demeure de Paul Valéry, ce cimetière surplombant la mer offre une beauté mélancolique au sommet des falaises.",
+                  "category": "historical",
+                  "coords": [
+                        3.6917,
+                        43.3947
+                  ]
+            },
+            {
+                  "name": "Môle Saint-Louis",
+                  "text": "Construit au XVIIe siècle pour protéger le port, ce môle est un lieu de promenade privilégié entre ville et mer.",
+                  "category": "civic",
+                  "coords": [
+                        3.701722,
+                        43.396889
+                  ]
+            }
+      ]
+}
   },
   {
     id: "tarbes", population: 44529,
@@ -60390,7 +61464,384 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus ancienne station balnéaire de France, fondée en 1824", "Lieu principal de l'Opération Jubilee le 19 août 1942", "Le musée du château possède une collection d'ivoires de renommée mondiale", "Premier port français pour la coquille Saint-Jacques", "Point de départ de la colonisation de la Nouvelle-France (Canada)", "Hôte du plus grand festival international de cerf-volant"],
     },
     image: "/poi-images/dieppe.webp",
-    "sights": {"de": [{"name": "Château de Dieppe", "text": "Eine imposante Burg auf den Klippen, die heute ein Museum mit einer berühmten Elfenbeinsammlung beherbergt.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Eine prächtige gotische Kirche, die eine wichtige Station auf dem Jakobsweg nach Santiago de Compostela ist.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Ein Meereszentrum, das sich mit Fischerei, Schiffbau und der maritimen Umwelt der Küste befasst.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Umrahmt von markanten weißen Kreidefelsen, bietet der ausgedehnte Kiesstrand von Dieppe ein dramatisches und atemberaubendes Küstenpanorama. Die Meeresbrise verleiht dem Ufer eine dynamische Energie, die unter anderem das berühmte internationale Drachenfestival beflügelt. Ein Spaziergang über die charakteristischen Kieselsteine oder der bloße Blick in den drachenerfüllten Himmel bieten ein höchst einzigartiges Stranderlebnis. Festes Schuhwerk ist eine kluge Wahl bei der Erkundung dieser bemerkenswerten Küste.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "Eine Kapelle auf den Klippen, die den Seeleuten gewidmet ist und einen herrlichen Blick auf die Stadt bietet.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Die letzte große Drehbrücke Europas aus dem 19. Jahrhundert, die noch mit ihrem ursprünglichen hydraulischen System funktioniert.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "Les Bains ist ein Schwimmbad in Dieppe. Besucher können hier ein erfrischendes Bad nehmen.", "category": "family", "coords": [1.07105, 49.926667]}], "hu": [{"name": "Château de Dieppe", "text": "A sziklákon magasodó impozáns várkastély, amelyben várostörténeti múzeum és híres elefántcsont-gyűjtemény található.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Pompás gótikus templom, amely fontos megállóhely a Szent Jakab-úton a zarándokok számára.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Tengerészeti központ, amely a halászatot, a hajóépítést és a tengeri élővilágot mutatja be interaktív módon.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "A lenyűgöző fehér krétasziklákkal szegélyezett, kiterjedt dieppe-i kavicsos strand drámai és lélegzetelállító partvidéki panorámát nyújt. A tengeri szellő dinamikus energiát hoz a partra, amely egy híres színes nemzetközi sárkányfesztiválnak ad otthont. A jellegzetes kavicsokon sétálni, vagy egyszerűen csak a sárkányokkal teli eget nézni rendkívül egyedi tengerparti élményt nyújt. Érdemes masszív lábbelit választani e figyelemre méltó vízpart felfedezéséhez.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "A sziklafalon álló kápolna a tengerészek emlékére, ahonnan lenyűgöző panoráma nyílik Dieppe városára.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Európa utolsó nagy 19. századi forgóhídja, amely ma is az eredeti hidraulikus rendszerrel működik.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "A Les Bains egy uszoda Dieppe-ben. A látogatók itt frissítő úszást élvezhetnek.", "category": "family", "coords": [1.07105, 49.926667]}], "ro": [{"name": "Château de Dieppe", "text": "Castel impunător situat pe faleză, adăpostind un muzeu cu o faimoasă colecție de sculpturi în fildeș.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Biserică gotică superbă, un punct de reper istoric și religios important pe drumul pelerinilor spre Santiago.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Centru de descoperire maritimă axat pe pescuit, navigație și protejarea ecosistemelor litorale.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Mărginită de stânci albe izbitoare din cretă, plaja extinsă cu pietriș din Dieppe prezintă o panoramă de coastă dramatică și uluitoare. Briza de coastă aduce o energie dinamică țărmului, găzduind în mod faimos un festival internațional de zmee plin de culoare. Mersul pe pietricelele distincte sau pur și simplu privind cerul plin de zmee oferă o experiență extrem de unică pe litoral. Încălțămintea robustă este o alegere rațională atunci când explorați acest mal remarcabil.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "Capelă pitorească pe vârful stâncii, dedicată marinarilor, oferind o priveliște superbă asupra coastei.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Ultimul pod pivotant mare din Europa, o capodoperă a ingineriei hidraulice de la sfârșitul secolului XIX.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "Les Bains este o piscină în Dieppe. Vizitatorii se pot bucura de o baie răcoritoare aici.", "category": "family", "coords": [1.07105, 49.926667]}], "en": [{"name": "Château de Dieppe", "text": "A fortified castle on the cliffs housing a museum with a renowned collection of ivory carvings and maritime history.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "A magnificent Gothic church that serves as a historic stop for pilgrims on the Way of Saint James.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "A maritime discovery center focusing on fishing, shipbuilding, and the sea life of the Channel coast.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Bordered by striking white chalk cliffs, the expansive pebble beach of Dieppe presents a dramatic and breathtaking coastal panorama. The coastal breeze brings a dynamic energy to the shore, famously hosting a colorful international kite festival. Walking along the distinct pebbles or simply watching the sky filled with kites provides a highly unique seaside experience. Sturdy footwear is a sensible choice when exploring this remarkable waterfront.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "A cliffside chapel dedicated to lost sailors, offering one of the best viewpoints over the town and harbor.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "The last large swing bridge in Europe to still operate with its original 19th-century hydraulic system.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "Les Bains is a swimming pool in Dieppe. Visitors can enjoy a refreshing swim here.", "category": "family", "coords": [1.07105, 49.926667]}], "fr": [{"name": "Château de Dieppe", "text": "Forteresse imposante sur les falaises abritant un musée avec une célèbre collection d'ivoires.", "category": "museum", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Somptueuse église gothique, étape importante sur le chemin de Saint-Jacques-de-Compostelle.", "category": "religious", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Centre maritime dédié à la pêche, à la construction navale et à l'environnement marin côtier.", "category": "museum", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Bordée de falaises de craie blanche saisissantes, la vaste plage de galets de Dieppe présente un panorama côtier dramatique et à couper le souffle. La brise côtière apporte une énergie dynamique au rivage, qui accueille d'ailleurs un célèbre festival international de cerfs-volants. Marcher sur ces galets caractéristiques ou simplement regarder le ciel rempli de cerfs-volants offre une expérience balnéaire tout à fait unique. Des chaussures robustes sont un choix judicieux pour explorer ce front de mer remarquable.", "category": "natural", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "Chapelle située sur les falaises, dédiée aux marins, offrant une vue magnifique sur la ville.", "category": "religious", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Dernier grand pont tournant d'Europe du XIXe siècle, fonctionnant toujours avec son mécanisme hydraulique d'origine.", "category": "historical", "coords": [1.085139, 49.927268]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "Eine imposante Burg auf den Klippen, die heute ein Museum mit einer berühmten Elfenbeinsammlung beherbergt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.07026,
+                        49.92473
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Eine prächtige gotische Kirche, die eine wichtige Station auf dem Jakobsweg nach Santiago de Compostela ist.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.078503,
+                        49.925558
+                  ]
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "Ein Meereszentrum, das sich mit Fischerei, Schiffbau und der maritimen Umwelt der Küste befasst.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0836,
+                        49.9304
+                  ]
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "Umrahmt von markanten weißen Kreidefelsen, bietet der ausgedehnte Kiesstrand von Dieppe ein dramatisches und atemberaubendes Küstenpanorama. Die Meeresbrise verleiht dem Ufer eine dynamische Energie, die unter anderem das berühmte internationale Drachenfestival beflügelt. Ein Spaziergang über die charakteristischen Kieselsteine oder der bloße Blick in den drachenerfüllten Himmel bieten ein höchst einzigartiges Stranderlebnis. Festes Schuhwerk ist eine kluge Wahl bei der Erkundung dieser bemerkenswerten Küste.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0753,
+                        49.92914
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "Eine Kapelle auf den Klippen, die den Seeleuten gewidmet ist und einen herrlichen Blick auf die Stadt bietet.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.083956,
+                        49.928745
+                  ]
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "Die letzte große Drehbrücke Europas aus dem 19. Jahrhundert, die noch mit ihrem ursprünglichen hydraulischen System funktioniert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.085139,
+                        49.927268
+                  ]
+            },
+            {
+                  "name": "Les Bains",
+                  "text": "Les Bains ist ein Schwimmbad in Dieppe. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        1.07105,
+                        49.926667
+                  ]
+            },
+            {
+                  "name": "Dieppe - plage de la piscine",
+                  "text": "Ein zentraler Strand in Dieppe, direkt an der Promenade gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        1.062423,
+                        49.924965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "A sziklákon magasodó impozáns várkastély, amelyben várostörténeti múzeum és híres elefántcsont-gyűjtemény található.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.07026,
+                        49.92473
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Pompás gótikus templom, amely fontos megállóhely a Szent Jakab-úton a zarándokok számára.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.078503,
+                        49.925558
+                  ]
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "Tengerészeti központ, amely a halászatot, a hajóépítést és a tengeri élővilágot mutatja be interaktív módon.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0836,
+                        49.9304
+                  ]
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "A lenyűgöző fehér krétasziklákkal szegélyezett, kiterjedt dieppe-i kavicsos strand drámai és lélegzetelállító partvidéki panorámát nyújt. A tengeri szellő dinamikus energiát hoz a partra, amely egy híres színes nemzetközi sárkányfesztiválnak ad otthont. A jellegzetes kavicsokon sétálni, vagy egyszerűen csak a sárkányokkal teli eget nézni rendkívül egyedi tengerparti élményt nyújt. Érdemes masszív lábbelit választani e figyelemre méltó vízpart felfedezéséhez.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0753,
+                        49.92914
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "A sziklafalon álló kápolna a tengerészek emlékére, ahonnan lenyűgöző panoráma nyílik Dieppe városára.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.083956,
+                        49.928745
+                  ]
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "Európa utolsó nagy 19. századi forgóhídja, amely ma is az eredeti hidraulikus rendszerrel működik.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.085139,
+                        49.927268
+                  ]
+            },
+            {
+                  "name": "Les Bains",
+                  "text": "A Les Bains egy uszoda Dieppe-ben. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        1.07105,
+                        49.926667
+                  ]
+            },
+            {
+                  "name": "Dieppe - plage de la piscine",
+                  "text": "Központi strand Dieppe-ben, közvetlenül a sétány mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        1.062423,
+                        49.924965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "Castel impunător situat pe faleză, adăpostind un muzeu cu o faimoasă colecție de sculpturi în fildeș.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.07026,
+                        49.92473
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Biserică gotică superbă, un punct de reper istoric și religios important pe drumul pelerinilor spre Santiago.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.078503,
+                        49.925558
+                  ]
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "Centru de descoperire maritimă axat pe pescuit, navigație și protejarea ecosistemelor litorale.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0836,
+                        49.9304
+                  ]
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "Mărginită de stânci albe izbitoare din cretă, plaja extinsă cu pietriș din Dieppe prezintă o panoramă de coastă dramatică și uluitoare. Briza de coastă aduce o energie dinamică țărmului, găzduind în mod faimos un festival internațional de zmee plin de culoare. Mersul pe pietricelele distincte sau pur și simplu privind cerul plin de zmee oferă o experiență extrem de unică pe litoral. Încălțămintea robustă este o alegere rațională atunci când explorați acest mal remarcabil.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0753,
+                        49.92914
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "Capelă pitorească pe vârful stâncii, dedicată marinarilor, oferind o priveliște superbă asupra coastei.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.083956,
+                        49.928745
+                  ]
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "Ultimul pod pivotant mare din Europa, o capodoperă a ingineriei hidraulice de la sfârșitul secolului XIX.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.085139,
+                        49.927268
+                  ]
+            },
+            {
+                  "name": "Les Bains",
+                  "text": "Les Bains este o piscină în Dieppe. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        1.07105,
+                        49.926667
+                  ]
+            },
+            {
+                  "name": "Dieppe - plage de la piscine",
+                  "text": "O plajă centrală în Dieppe, situată chiar pe promenadă.",
+                  "category": "recreational",
+                  "coords": [
+                        1.062423,
+                        49.924965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "A fortified castle on the cliffs housing a museum with a renowned collection of ivory carvings and maritime history.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.07026,
+                        49.92473
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "A magnificent Gothic church that serves as a historic stop for pilgrims on the Way of Saint James.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.078503,
+                        49.925558
+                  ]
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "A maritime discovery center focusing on fishing, shipbuilding, and the sea life of the Channel coast.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.0836,
+                        49.9304
+                  ]
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "Bordered by striking white chalk cliffs, the expansive pebble beach of Dieppe presents a dramatic and breathtaking coastal panorama. The coastal breeze brings a dynamic energy to the shore, famously hosting a colorful international kite festival. Walking along the distinct pebbles or simply watching the sky filled with kites provides a highly unique seaside experience. Sturdy footwear is a sensible choice when exploring this remarkable waterfront.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.0753,
+                        49.92914
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "A cliffside chapel dedicated to lost sailors, offering one of the best viewpoints over the town and harbor.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.083956,
+                        49.928745
+                  ]
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "The last large swing bridge in Europe to still operate with its original 19th-century hydraulic system.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.085139,
+                        49.927268
+                  ]
+            },
+            {
+                  "name": "Les Bains",
+                  "text": "Les Bains is a swimming pool in Dieppe. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        1.07105,
+                        49.926667
+                  ]
+            },
+            {
+                  "name": "Dieppe - plage de la piscine",
+                  "text": "A central beach in Dieppe, located right along the promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        1.062423,
+                        49.924965
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Château de Dieppe",
+                  "text": "Forteresse imposante sur les falaises abritant un musée avec une célèbre collection d'ivoires.",
+                  "category": "museum",
+                  "coords": [
+                        1.07026,
+                        49.92473
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Somptueuse église gothique, étape importante sur le chemin de Saint-Jacques-de-Compostelle.",
+                  "category": "religious",
+                  "coords": [
+                        1.078503,
+                        49.925558
+                  ]
+            },
+            {
+                  "name": "Estran Cité de la Mer",
+                  "text": "Centre maritime dédié à la pêche, à la construction navale et à l'environnement marin côtier.",
+                  "category": "museum",
+                  "coords": [
+                        1.0836,
+                        49.9304
+                  ]
+            },
+            {
+                  "name": "Plage de Dieppe",
+                  "text": "Bordée de falaises de craie blanche saisissantes, la vaste plage de galets de Dieppe présente un panorama côtier dramatique et à couper le souffle. La brise côtière apporte une énergie dynamique au rivage, qui accueille d'ailleurs un célèbre festival international de cerfs-volants. Marcher sur ces galets caractéristiques ou simplement regarder le ciel rempli de cerfs-volants offre une expérience balnéaire tout à fait unique. Des chaussures robustes sont un choix judicieux pour explorer ce front de mer remarquable.",
+                  "category": "natural",
+                  "coords": [
+                        1.0753,
+                        49.92914
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bonsecours",
+                  "text": "Chapelle située sur les falaises, dédiée aux marins, offrant une vue magnifique sur la ville.",
+                  "category": "religious",
+                  "coords": [
+                        1.083956,
+                        49.928745
+                  ]
+            },
+            {
+                  "name": "Pont Colbert",
+                  "text": "Dernier grand pont tournant d'Europe du XIXe siècle, fonctionnant toujours avec son mécanisme hydraulique d'origine.",
+                  "category": "historical",
+                  "coords": [
+                        1.085139,
+                        49.927268
+                  ]
+            }
+      ]
+}
   },
   {
     id: "evreux", population: 51560,
@@ -61271,6 +62722,15 @@ const citySeeds: CitySeed[] = [
                         1.609594,
                         50.724681
                   ]
+            },
+            {
+                  "name": "Plage de Boulogne-sur-Mer",
+                  "text": "Plage de Boulogne-sur-Mer ist ein Sandstrand in der Küstenstadt Boulogne-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        1.591982,
+                        50.739543
+                  ]
             }
       ],
       "hu": [
@@ -61342,6 +62802,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.609594,
                         50.724681
+                  ]
+            },
+            {
+                  "name": "Plage de Boulogne-sur-Mer",
+                  "text": "A Plage de Boulogne-sur-Mer egy strand Boulogne-sur-Merben.",
+                  "category": "recreational",
+                  "coords": [
+                        1.591982,
+                        50.739543
                   ]
             }
       ],
@@ -61415,6 +62884,15 @@ const citySeeds: CitySeed[] = [
                         1.609594,
                         50.724681
                   ]
+            },
+            {
+                  "name": "Plage de Boulogne-sur-Mer",
+                  "text": "Plage de Boulogne-sur-Mer este o plajă din Boulogne-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        1.591982,
+                        50.739543
+                  ]
             }
       ],
       "en": [
@@ -61486,6 +62964,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.609594,
                         50.724681
+                  ]
+            },
+            {
+                  "name": "Plage de Boulogne-sur-Mer",
+                  "text": "Plage de Boulogne-sur-Mer is a beach in Boulogne-sur-Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        1.591982,
+                        50.739543
                   ]
             }
       ]

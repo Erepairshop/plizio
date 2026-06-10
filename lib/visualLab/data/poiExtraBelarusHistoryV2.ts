@@ -49,6 +49,15 @@ export const belarusHistoryV2: POI[] = [
                         26.480971,
                         53.44894
                   ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "Eine Saunaanlage in der Nähe des historischen Schloss Mir.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469325,
+                        53.454936
+                  ]
             }
       ],
       "hu": [
@@ -95,6 +104,15 @@ export const belarusHistoryV2: POI[] = [
                   "coords": [
                         26.480971,
                         53.44894
+                  ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "Szauna a történelmi Miri vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469325,
+                        53.454936
                   ]
             }
       ],
@@ -143,6 +161,15 @@ export const belarusHistoryV2: POI[] = [
                         26.480971,
                         53.44894
                   ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "O saună situată lângă istoricul Castel Mir.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469325,
+                        53.454936
+                  ]
             }
       ],
       "en": [
@@ -189,6 +216,15 @@ export const belarusHistoryV2: POI[] = [
                   "coords": [
                         26.480971,
                         53.44894
+                  ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "A sauna facility located near the historic Mir Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469325,
+                        53.454936
                   ]
             }
       ]
@@ -609,6 +645,15 @@ export const belarusHistoryV2: POI[] = [
                         24.895943,
                         52.86066
                   ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "Ein kleiner Zoo beim Ruzhany-Palast, der verschiedene Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
+                  ]
             }
       ],
       "hu": [
@@ -619,6 +664,15 @@ export const belarusHistoryV2: POI[] = [
                   "coords": [
                         24.895943,
                         52.86066
+                  ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "Kisebb állatkert a Ruzsani-palotánál, amely különféle állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
                   ]
             }
       ],
@@ -631,6 +685,15 @@ export const belarusHistoryV2: POI[] = [
                         24.895943,
                         52.86066
                   ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "O mică grădină zoologică la Palatul Ruzhany, care găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
+                  ]
             }
       ],
       "en": [
@@ -641,6 +704,15 @@ export const belarusHistoryV2: POI[] = [
                   "coords": [
                         24.895943,
                         52.86066
+                  ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "A small zoo at Ruzhany Palace housing various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
                   ]
             }
       ]

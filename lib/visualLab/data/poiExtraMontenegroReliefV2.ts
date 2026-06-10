@@ -76,6 +76,60 @@ export const montenegroReliefV2: POI[] = [
                         18.864324,
                         42.283247
                   ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Ein Strandresort auf dem malerischen Milocer-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Schwimmbecken auf dem Milocer-Plateau für Hotelgäste.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein Schwimmclub mit Infinity-Pool auf dem Milocer-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Ein für seine Schönheit bekannter Strandabschnitt auf dem Milocer-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Ein Hawaii genannter Strandabschnitt auf dem Milocer-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "Teil des Hawaii-Strandgebiets auf dem Milocer-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
             }
       ],
       "hu": [
@@ -149,6 +203,60 @@ export const montenegroReliefV2: POI[] = [
                   "coords": [
                         18.864324,
                         42.283247
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A festői Milocer-fennsíkon található tengerparti üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A Milocer-fennsíkon található úszómedence a szállóvendégek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Feszített víztükrű medencével rendelkező úszóklub a Milocer-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Szépségéről ismert tengerparti üdülőhely a Milocer-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Hawaii nevű tengerparti szakasz a Milocer-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "A Milocer-fennsíkon található Hawaii strandterület része.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
                   ]
             }
       ],
@@ -224,6 +332,60 @@ export const montenegroReliefV2: POI[] = [
                         18.864324,
                         42.283247
                   ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O stațiune de plajă situată pe pitoreasca platformă Milocer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină situată pe platforma Milocer pentru oaspeții hotelului.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Un club de înot cu o piscină infinită pe platforma Milocer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "O zonă de stațiune de plajă cunoscută pentru frumusețea sa de pe platforma Milocer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "O secțiune de stațiune de plajă numită Hawaii situată pe platforma Milocer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "Parte a zonei stațiunii de plajă Hawaii de pe platforma Milocer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
             }
       ],
       "en": [
@@ -297,6 +459,60 @@ export const montenegroReliefV2: POI[] = [
                   "coords": [
                         18.864324,
                         42.283247
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A beach resort situated on the scenic Milocer Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A swimming pool located on the Milocer Plateau for hotel guests.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "A swimming club featuring an infinity pool on the Milocer Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "A beach resort area known for its beauty on the Milocer Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "A beach resort section called Hawaii located on the Milocer Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "Part of the Hawaii beach resort area on the Milocer Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
                   ]
             }
       ]

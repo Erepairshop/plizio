@@ -91,6 +91,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         27.146457,
                         37.693062
                   ]
+            },
+            {
+                  "name": "Aydınlık Kıyısı",
+                  "text": "Ein ruhiger Strand in Dilek Peninsula National Park, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.176536,
+                        37.700415
+                  ]
+            },
+            {
+                  "name": "Karasu Plajı",
+                  "text": "Ein ruhiger Strand in Dilek Peninsula National Park, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.129138,
+                        37.689716
+                  ]
             }
       ],
       "hu": [
@@ -119,6 +137,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                   "coords": [
                         27.146457,
                         37.693062
+                  ]
+            },
+            {
+                  "name": "Aydınlık Kıyısı",
+                  "text": "Egy nyugodt tengerpart Dilek Peninsula National Park területén, amely kiváló kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        27.176536,
+                        37.700415
+                  ]
+            },
+            {
+                  "name": "Karasu Plajı",
+                  "text": "Egy nyugodt tengerpart Dilek Peninsula National Park területén, amely kiváló kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        27.129138,
+                        37.689716
                   ]
             }
       ],
@@ -149,6 +185,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         27.146457,
                         37.693062
                   ]
+            },
+            {
+                  "name": "Aydınlık Kıyısı",
+                  "text": "O plajă liniștită în Dilek Peninsula National Park, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        27.176536,
+                        37.700415
+                  ]
+            },
+            {
+                  "name": "Karasu Plajı",
+                  "text": "O plajă liniștită în Dilek Peninsula National Park, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        27.129138,
+                        37.689716
+                  ]
             }
       ],
       "en": [
@@ -177,6 +231,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                   "coords": [
                         27.146457,
                         37.693062
+                  ]
+            },
+            {
+                  "name": "Aydınlık Kıyısı",
+                  "text": "A calm beach in Dilek Peninsula National Park, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        27.176536,
+                        37.700415
+                  ]
+            },
+            {
+                  "name": "Karasu Plajı",
+                  "text": "A calm beach in Dilek Peninsula National Park, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        27.129138,
+                        37.689716
                   ]
             }
       ]
@@ -415,6 +487,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         40.518442,
                         41.028776
                   ]
+            },
+            {
+                  "name": "Rize Olimpik Havuz",
+                  "text": "Ein olympisches Schwimmbecken in der Nähe der Teeplantagen von Rize.",
+                  "category": "recreational",
+                  "coords": [
+                        40.55931,
+                        41.035095
+                  ]
             }
       ],
       "hu": [
@@ -470,6 +551,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                   "coords": [
                         40.518442,
                         41.028776
+                  ]
+            },
+            {
+                  "name": "Rize Olimpik Havuz",
+                  "text": "Olimpiai méretű úszómedence a rizei teaültetvények közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        40.55931,
+                        41.035095
                   ]
             }
       ],
@@ -527,6 +617,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         40.518442,
                         41.028776
                   ]
+            },
+            {
+                  "name": "Rize Olimpik Havuz",
+                  "text": "O piscină olimpică situată lângă plantațiile de ceai din Rize.",
+                  "category": "recreational",
+                  "coords": [
+                        40.55931,
+                        41.035095
+                  ]
             }
       ],
       "en": [
@@ -582,6 +681,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                   "coords": [
                         40.518442,
                         41.028776
+                  ]
+            },
+            {
+                  "name": "Rize Olimpik Havuz",
+                  "text": "An Olympic-sized swimming pool located near the Rize tea plantations.",
+                  "category": "recreational",
+                  "coords": [
+                        40.55931,
+                        41.035095
                   ]
             }
       ]
@@ -838,6 +946,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         29.056572,
                         41.089253
                   ]
+            },
+            {
+                  "name": "Tarihi Beykoz Hamamı",
+                  "text": "Ein historisches türkisches Bad, das traditionelle Badekultur pflegt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.091956,
+                        41.134617
+                  ]
+            },
+            {
+                  "name": "Enka Acik ve Kapali Havuz",
+                  "text": "Eine Sportanlage mit sowohl Innen- als auch Außenbecken zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        29.035795,
+                        41.112809
+                  ]
             }
       ],
       "hu": [
@@ -911,6 +1037,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                   "coords": [
                         29.056572,
                         41.089253
+                  ]
+            },
+            {
+                  "name": "Tarihi Beykoz Hamamı",
+                  "text": "Történelmi törökfürdő, amely a hagyományos fürdőkultúrát ápolja.",
+                  "category": "recreational",
+                  "coords": [
+                        29.091956,
+                        41.134617
+                  ]
+            },
+            {
+                  "name": "Enka Acik ve Kapali Havuz",
+                  "text": "Sportlétesítmény beltéri és kültéri úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        29.035795,
+                        41.112809
                   ]
             }
       ],
@@ -986,6 +1130,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         29.056572,
                         41.089253
                   ]
+            },
+            {
+                  "name": "Tarihi Beykoz Hamamı",
+                  "text": "O baie turcească istorică ce păstrează cultura tradițională a scăldatului.",
+                  "category": "recreational",
+                  "coords": [
+                        29.091956,
+                        41.134617
+                  ]
+            },
+            {
+                  "name": "Enka Acik ve Kapali Havuz",
+                  "text": "O facilitate sportivă cu bazine de înot atât interioare, cât și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        29.035795,
+                        41.112809
+                  ]
             }
       ],
       "en": [
@@ -1060,6 +1222,24 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         29.056572,
                         41.089253
                   ]
+            },
+            {
+                  "name": "Tarihi Beykoz Hamamı",
+                  "text": "A historical Turkish bath preserving traditional bathing culture.",
+                  "category": "recreational",
+                  "coords": [
+                        29.091956,
+                        41.134617
+                  ]
+            },
+            {
+                  "name": "Enka Acik ve Kapali Havuz",
+                  "text": "A sports facility featuring both indoor and outdoor swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        29.035795,
+                        41.112809
+                  ]
             }
       ]
 },
@@ -1122,7 +1302,268 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "antalya-aquarium-life-v2", "sights": {"de": [{"name": "Dubai Beach Lounge", "text": "Die Dubai Beach Lounge bietet einen entspannten Strandbereich direkt am Aquarium Life in Antalya. Besucher können hier die angenehme Küstenatmosphäre der Türkei in einem gepflegten Rahmen genießen. Ein idealer Ort, um nach einem Ausflug ans Wasser zur Ruhe zu kommen.", "category": "recreational", "coords": [30.640069, 36.862105]}, {"name": "Lavanta Beach Lounge", "text": "Als reizvoller Strandabschnitt präsentiert sich die Lavanta Beach Lounge im Bereich des Aquarium Life in Antalya. Gäste erwartet eine ruhige Umgebung, die zum Verweilen und Sonnenbaden einlädt. Besonders in den warmen Monaten ist dieser Ort ein schöner Rückzugsort.", "category": "recreational", "coords": [30.668661, 36.879577]}], "hu": [{"name": "Dubai Beach Lounge", "text": "A Dubai Beach Lounge egy kellemes strandterület az antalyai Aquarium Life közelében. A látogatók egy gondozott környezetben élvezhetik a török tengerparti hangulatot. Tökéletes helyszín a pihenésre egy hosszú nap után.", "category": "recreational", "coords": [30.640069, 36.862105]}, {"name": "Lavanta Beach Lounge", "text": "A Lavanta Beach Lounge egy vonzó strandszakasz az antalyai Aquarium Life területén. A vendégeket nyugodt környezet várja, amely hosszas időtöltésre és napozásra csábít. Különösen a melegebb hónapokban kiváló menedék.", "category": "recreational", "coords": [30.668661, 36.879577]}], "ro": [{"name": "Dubai Beach Lounge", "text": "Dubai Beach Lounge oferă o zonă de plajă relaxantă situată direct la Aquarium Life din Antalya. Vizitatorii se pot bucura aici de atmosfera plăcută de coastă a Turciei, într-un cadru bine îngrijit. Este locul perfect pentru a vă liniști după o zi plină.", "category": "recreational", "coords": [30.640069, 36.862105]}, {"name": "Lavanta Beach Lounge", "text": "Lavanta Beach Lounge se prezintă ca o porțiune atractivă de plajă în zona Aquarium Life din Antalya. Oaspeții sunt întâmpinați de un mediu liniștit, ideal pentru a zăbovi și a face băi de soare. Mai ales în lunile calde, acesta este un refugiu minunat.", "category": "recreational", "coords": [30.668661, 36.879577]}], "en": [{"name": "Dubai Beach Lounge", "text": "The Dubai Beach Lounge provides a relaxing beach area right by Aquarium Life in Antalya. Visitors can enjoy the pleasant coastal atmosphere of Turkey in a well-maintained setting. It is a perfect spot to unwind and take in the surroundings.", "category": "recreational", "coords": [30.640069, 36.862105]}, {"name": "Lavanta Beach Lounge", "text": "Lavanta Beach Lounge presents itself as an attractive beach section within the Aquarium Life area in Antalya. Guests are welcomed by a tranquil environment that invites lingering and sunbathing. Especially during the warmer months, this spot is a wonderful retreat.", "category": "recreational", "coords": [30.668661, 36.879577]}]},
+    id: "antalya-aquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "Die Dubai Beach Lounge bietet einen entspannten Strandbereich direkt am Aquarium Life in Antalya. Besucher können hier die angenehme Küstenatmosphäre der Türkei in einem gepflegten Rahmen genießen. Ein idealer Ort, um nach einem Ausflug ans Wasser zur Ruhe zu kommen.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "Als reizvoller Strandabschnitt präsentiert sich die Lavanta Beach Lounge im Bereich des Aquarium Life in Antalya. Gäste erwartet eine ruhige Umgebung, die zum Verweilen und Sonnenbaden einlädt. Besonders in den warmen Monaten ist dieser Ort ein schöner Rückzugsort.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            },
+            {
+                  "name": "Öz Mert Otel",
+                  "text": "Ein Strandresort beim Öz Mert Hotel am Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643543,
+                        36.87373
+                  ]
+            },
+            {
+                  "name": "Roxy Beach Club",
+                  "text": "Ein moderner Strandclub am Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.672314,
+                        36.881914
+                  ]
+            },
+            {
+                  "name": "Boğaçayı manzara terası",
+                  "text": "Ein Strandbereich mit Aussichtsterrasse beim Boğaçayı am Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.624875,
+                        36.852089
+                  ]
+            },
+            {
+                  "name": "Babil",
+                  "text": "Ein Strandresort namens Babil am Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.653949,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Konyaaltı Sahili",
+                  "text": "Ein großer und beliebter Strand am Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.649784,
+                        36.867768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "A Dubai Beach Lounge egy kellemes strandterület az antalyai Aquarium Life közelében. A látogatók egy gondozott környezetben élvezhetik a török tengerparti hangulatot. Tökéletes helyszín a pihenésre egy hosszú nap után.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "A Lavanta Beach Lounge egy vonzó strandszakasz az antalyai Aquarium Life területén. A vendégeket nyugodt környezet várja, amely hosszas időtöltésre és napozásra csábít. Különösen a melegebb hónapokban kiváló menedék.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            },
+            {
+                  "name": "Öz Mert Otel",
+                  "text": "Tengerparti üdülőhely az Öz Mert Hotelnél az Antalya Akváriumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643543,
+                        36.87373
+                  ]
+            },
+            {
+                  "name": "Roxy Beach Club",
+                  "text": "Modern tengerparti klub az Antalya Akváriumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.672314,
+                        36.881914
+                  ]
+            },
+            {
+                  "name": "Boğaçayı manzara terası",
+                  "text": "Strandterület kilátóterasszal a Boğaçayı folyónál az Antalya Akváriumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.624875,
+                        36.852089
+                  ]
+            },
+            {
+                  "name": "Babil",
+                  "text": "Babil nevű tengerparti üdülőhely az Antalya Akváriumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.653949,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Konyaaltı Sahili",
+                  "text": "Hatalmas és népszerű strand az Antalya Akváriumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        30.649784,
+                        36.867768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "Dubai Beach Lounge oferă o zonă de plajă relaxantă situată direct la Aquarium Life din Antalya. Vizitatorii se pot bucura aici de atmosfera plăcută de coastă a Turciei, într-un cadru bine îngrijit. Este locul perfect pentru a vă liniști după o zi plină.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "Lavanta Beach Lounge se prezintă ca o porțiune atractivă de plajă în zona Aquarium Life din Antalya. Oaspeții sunt întâmpinați de un mediu liniștit, ideal pentru a zăbovi și a face băi de soare. Mai ales în lunile calde, acesta este un refugiu minunat.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            },
+            {
+                  "name": "Öz Mert Otel",
+                  "text": "O stațiune de plajă la hotelul Öz Mert din Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643543,
+                        36.87373
+                  ]
+            },
+            {
+                  "name": "Roxy Beach Club",
+                  "text": "Un club de plajă modern în Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.672314,
+                        36.881914
+                  ]
+            },
+            {
+                  "name": "Boğaçayı manzara terası",
+                  "text": "O zonă de plajă cu terasă panoramică la Boğaçayı în Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.624875,
+                        36.852089
+                  ]
+            },
+            {
+                  "name": "Babil",
+                  "text": "O stațiune de plajă numită Babil în Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.653949,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Konyaaltı Sahili",
+                  "text": "O plajă mare și populară în Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.649784,
+                        36.867768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "The Dubai Beach Lounge provides a relaxing beach area right by Aquarium Life in Antalya. Visitors can enjoy the pleasant coastal atmosphere of Turkey in a well-maintained setting. It is a perfect spot to unwind and take in the surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "Lavanta Beach Lounge presents itself as an attractive beach section within the Aquarium Life area in Antalya. Guests are welcomed by a tranquil environment that invites lingering and sunbathing. Especially during the warmer months, this spot is a wonderful retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            },
+            {
+                  "name": "Öz Mert Otel",
+                  "text": "A beach resort at the Öz Mert Hotel in Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643543,
+                        36.87373
+                  ]
+            },
+            {
+                  "name": "Roxy Beach Club",
+                  "text": "A modern beach club located in Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.672314,
+                        36.881914
+                  ]
+            },
+            {
+                  "name": "Boğaçayı manzara terası",
+                  "text": "A beach area with a viewing terrace at the Boğaçayı in Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.624875,
+                        36.852089
+                  ]
+            },
+            {
+                  "name": "Babil",
+                  "text": "A beach resort named Babil in Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.653949,
+                        36.871058
+                  ]
+            },
+            {
+                  "name": "Konyaaltı Sahili",
+                  "text": "A large and popular beach located in Antalya Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        30.649784,
+                        36.867768
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "TR-07",
     coords: [30.6550, 36.8828],
@@ -1323,7 +1764,88 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "igneada-floodplain-life-v2",
+    id: "igneada-floodplain-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "İğneada Resort Hotel",
+                  "text": "Ein Hotelresort mit Strandzugang am Rande des Nationalparks İğneada.",
+                  "category": "recreational",
+                  "coords": [
+                        27.987848,
+                        41.876369
+                  ]
+            },
+            {
+                  "name": "İl Özel İdaresi Kampı",
+                  "text": "Ein Campingplatz mit Strand am Schwarzen Meer bei İğneada.",
+                  "category": "recreational",
+                  "coords": [
+                        27.981102,
+                        41.869597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "İğneada Resort Hotel",
+                  "text": "Szálloda és üdülőhely az İğneada Nemzeti Park szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.987848,
+                        41.876369
+                  ]
+            },
+            {
+                  "name": "İl Özel İdaresi Kampı",
+                  "text": "Tengerparti kemping a Fekete-tengernél İğneada közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.981102,
+                        41.869597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "İğneada Resort Hotel",
+                  "text": "Un hotel și complex cu acces la plajă la marginea Parcului Național İğneada.",
+                  "category": "recreational",
+                  "coords": [
+                        27.987848,
+                        41.876369
+                  ]
+            },
+            {
+                  "name": "İl Özel İdaresi Kampı",
+                  "text": "Un camping cu plajă la Marea Neagră lângă İğneada.",
+                  "category": "recreational",
+                  "coords": [
+                        27.981102,
+                        41.869597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "İğneada Resort Hotel",
+                  "text": "A hotel resort with beach access on the edge of the İğneada National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        27.987848,
+                        41.876369
+                  ]
+            },
+            {
+                  "name": "İl Özel İdaresi Kampı",
+                  "text": "A seaside campsite with a beach on the Black Sea near İğneada.",
+                  "category": "recreational",
+                  "coords": [
+                        27.981102,
+                        41.869597
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TR-39",
     coords: [27.9833, 41.8667],
@@ -2056,6 +2578,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         28.621952,
                         36.788509
                   ]
+            },
+            {
+                  "name": "İztuzu Plajı",
+                  "text": "Ein geschützter Strand in Dalyan, der als wichtiger Eiablageplatz für Karettschildkröten dient.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628667,
+                        36.785498
+                  ]
             }
       ],
       "hu": [
@@ -2075,6 +2606,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                   "coords": [
                         28.621952,
                         36.788509
+                  ]
+            },
+            {
+                  "name": "İztuzu Plajı",
+                  "text": "Védett strand Dalyanban, amely az álcserepesteknősök fontos tojásrakó helye.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628667,
+                        36.785498
                   ]
             }
       ],
@@ -2096,6 +2636,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                         28.621952,
                         36.788509
                   ]
+            },
+            {
+                  "name": "İztuzu Plajı",
+                  "text": "O plajă protejată în Dalyan, un loc important de depunere a ouălor pentru țestoasele Caretta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628667,
+                        36.785498
+                  ]
             }
       ],
       "en": [
@@ -2115,6 +2664,15 @@ export const poiExtraTurkeyLifeV2: POI[] = [
                   "coords": [
                         28.621952,
                         36.788509
+                  ]
+            },
+            {
+                  "name": "Iztuzu Beach",
+                  "text": "A protected beach in Dalyan serving as a vital nesting ground for loggerhead sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628667,
+                        36.785498
                   ]
             }
       ]

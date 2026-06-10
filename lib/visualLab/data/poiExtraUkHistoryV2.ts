@@ -1687,6 +1687,15 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
                         -4.3399,
                         53.137803
                   ]
+            },
+            {
+                  "name": "Traeth Gwyllt",
+                  "text": "Traeth Gwyllt ist ein Küstenabschnitt bei Caernarfon Castle, der historische Ansichten mit maritimem Flair verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.289336,
+                        53.150596
+                  ]
             }
       ],
       "hu": [
@@ -1697,6 +1706,15 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
                   "coords": [
                         -4.3399,
                         53.137803
+                  ]
+            },
+            {
+                  "name": "Traeth Gwyllt",
+                  "text": "A Traeth Gwyllt egy tengerparti szakasz Caernarfon váránál, amely a történelmi látványt ötvözi a tengeri hangulattal.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.289336,
+                        53.150596
                   ]
             }
       ],
@@ -1709,6 +1727,15 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
                         -4.3399,
                         53.137803
                   ]
+            },
+            {
+                  "name": "Traeth Gwyllt",
+                  "text": "Traeth Gwyllt este o secțiune de coastă lângă Castelul Caernarfon, îmbinând priveliștile istorice cu farmecul maritim.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.289336,
+                        53.150596
+                  ]
             }
       ],
       "en": [
@@ -1719,6 +1746,15 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
                   "coords": [
                         -4.3399,
                         53.137803
+                  ]
+            },
+            {
+                  "name": "Traeth Gwyllt",
+                  "text": "Traeth Gwyllt is a coastal area near Caernarfon Castle combining historical views with maritime flair.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.289336,
+                        53.150596
                   ]
             }
       ]
@@ -4502,6 +4538,15 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                         -4.12541,
                         52.835841
                   ]
+            },
+            {
+                  "name": "Harlech & Ardudwy Leisure (closed)",
+                  "text": "Eine lokale Schwimmbadanlage in der Nähe von Harlech Castle, die derzeit geschlossen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.112336,
+                        52.859802
+                  ]
             }
       ],
       "hu": [
@@ -4539,6 +4584,15 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                   "coords": [
                         -4.12541,
                         52.835841
+                  ]
+            },
+            {
+                  "name": "Harlech & Ardudwy Leisure (closed)",
+                  "text": "Helyi úszómedence Harlech vára közelében, amely jelenleg zárva tart.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.112336,
+                        52.859802
                   ]
             }
       ],
@@ -4578,6 +4632,15 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                         -4.12541,
                         52.835841
                   ]
+            },
+            {
+                  "name": "Harlech & Ardudwy Leisure (closed)",
+                  "text": "O facilitate locală cu piscină lângă Castelul Harlech, care este în prezent închisă.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.112336,
+                        52.859802
+                  ]
             }
       ],
       "en": [
@@ -4615,6 +4678,15 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                   "coords": [
                         -4.12541,
                         52.835841
+                  ]
+            },
+            {
+                  "name": "Harlech & Ardudwy Leisure (closed)",
+                  "text": "A local swimming pool facility near Harlech Castle that is currently closed.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.112336,
+                        52.859802
                   ]
             }
       ]

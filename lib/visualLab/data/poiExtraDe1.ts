@@ -3020,6 +3020,15 @@ export const poiExtraDe1: POI[] = [
                         12.021357,
                         47.705008
                   ]
+            },
+            {
+                  "name": "Warmfreibad Fischbachau",
+                  "text": "Ein beheiztes Freibad in Fischbachau mit Blick auf das Wendelstein-Massiv.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94678,
+                        47.723388
+                  ]
             }
       ],
       "hu": [
@@ -3093,6 +3102,15 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         12.021357,
                         47.705008
+                  ]
+            },
+            {
+                  "name": "Warmfreibad Fischbachau",
+                  "text": "Fűtött szabadtéri strand Fischbachauban, kilátással a Wendelstein-hegységre.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94678,
+                        47.723388
                   ]
             }
       ],
@@ -3168,6 +3186,15 @@ export const poiExtraDe1: POI[] = [
                         12.021357,
                         47.705008
                   ]
+            },
+            {
+                  "name": "Warmfreibad Fischbachau",
+                  "text": "O piscină exterioară încălzită în Fischbachau, cu vedere spre masivul Wendelstein.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94678,
+                        47.723388
+                  ]
             }
       ],
       "en": [
@@ -3241,6 +3268,15 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         12.021357,
                         47.705008
+                  ]
+            },
+            {
+                  "name": "Warmfreibad Fischbachau",
+                  "text": "A heated outdoor swimming pool in Fischbachau with views of the Wendelstein massif.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94678,
+                        47.723388
                   ]
             }
       ]
@@ -3461,6 +3497,15 @@ export const poiExtraDe1: POI[] = [
                         11.303638,
                         47.598624
                   ]
+            },
+            {
+                  "name": "Badewiese Familienbereich",
+                  "text": "Die Badewiese Familienbereich ist ein familienfreundlicher Badeplatz am Walchensee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.318567,
+                        47.593361
+                  ]
             }
       ],
       "hu": [
@@ -3534,6 +3579,15 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         11.303638,
                         47.598624
+                  ]
+            },
+            {
+                  "name": "Badewiese Familienbereich",
+                  "text": "A Badewiese Familienbereich egy családbarát fürdőhely a Walchensee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        11.318567,
+                        47.593361
                   ]
             }
       ],
@@ -3609,6 +3663,15 @@ export const poiExtraDe1: POI[] = [
                         11.303638,
                         47.598624
                   ]
+            },
+            {
+                  "name": "Badewiese Familienbereich",
+                  "text": "Badewiese Familienbereich este o zonă de înot orientată spre familii pe malul lacului Walchensee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.318567,
+                        47.593361
+                  ]
             }
       ],
       "en": [
@@ -3682,6 +3745,15 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         11.303638,
                         47.598624
+                  ]
+            },
+            {
+                  "name": "Badewiese Familienbereich",
+                  "text": "Badewiese Familienbereich is a family-oriented swimming area on the Walchensee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.318567,
+                        47.593361
                   ]
             }
       ]
@@ -4407,6 +4479,15 @@ export const poiExtraDe1: POI[] = [
                         11.719895,
                         48.579136
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Ein Waldbad und Wasserpark in der Hopfenregion Hallertau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.814428,
+                        48.538156
+                  ]
             }
       ],
       "hu": [
@@ -4471,6 +4552,15 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         11.719895,
                         48.579136
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Erdei strand és aquapark a Hallertau komlótermesztő vidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        11.814428,
+                        48.538156
                   ]
             }
       ],
@@ -4537,6 +4627,15 @@ export const poiExtraDe1: POI[] = [
                         11.719895,
                         48.579136
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Un ștrand în pădure și parc acvatic în regiunea Hallertau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.814428,
+                        48.538156
+                  ]
             }
       ],
       "en": [
@@ -4601,6 +4700,15 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         11.719895,
                         48.579136
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "A forest swimming pool and water park in the Hallertau hop-growing region.",
+                  "category": "recreational",
+                  "coords": [
+                        11.814428,
+                        48.538156
                   ]
             }
       ]

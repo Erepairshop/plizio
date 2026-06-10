@@ -247,6 +247,15 @@ export const slovakiaCities: POI[] = [
                         19.126938,
                         48.734614
                   ]
+            },
+            {
+                  "name": "L",
+                  "text": "Ein öffentliches Schwimmbecken in der Stadt Banská Bystrica.",
+                  "category": "recreational",
+                  "coords": [
+                        19.129343,
+                        48.735328
+                  ]
             }
       ],
       "hu": [
@@ -491,6 +500,15 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         19.126938,
                         48.734614
+                  ]
+            },
+            {
+                  "name": "L",
+                  "text": "Egy nyilvános úszómedence Besztercebánya (Banská Bystrica) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.129343,
+                        48.735328
                   ]
             }
       ],
@@ -737,6 +755,15 @@ export const slovakiaCities: POI[] = [
                         19.126938,
                         48.734614
                   ]
+            },
+            {
+                  "name": "L",
+                  "text": "O piscină publică situată în orașul Banská Bystrica.",
+                  "category": "recreational",
+                  "coords": [
+                        19.129343,
+                        48.735328
+                  ]
             }
       ],
       "en": [
@@ -981,6 +1008,15 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         19.126938,
                         48.734614
+                  ]
+            },
+            {
+                  "name": "L",
+                  "text": "A public swimming pool located in the city of Banská Bystrica.",
+                  "category": "recreational",
+                  "coords": [
+                        19.129343,
+                        48.735328
                   ]
             }
       ]

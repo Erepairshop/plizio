@@ -183,7 +183,52 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-piazza-dei-miracoli-history-v2.webp",
   },
   {
-    id: "italy-parco-archeologico-di-ercolano-history-v2",
+    id: "italy-parco-archeologico-di-ercolano-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spiaggia delle Mortelle",
+                  "text": "Ein Küstenabschnitt zum Baden und Entspannen nahe dem Archäologischen Park Herculaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.335766,
+                        40.806417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiaggia delle Mortelle",
+                  "text": "Tengerparti fürdőhely a Herculaneum régészeti park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.335766,
+                        40.806417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiaggia delle Mortelle",
+                  "text": "O zonă de coastă pentru înot și relaxare lângă Parcul Arheologic Herculaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.335766,
+                        40.806417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiaggia delle Mortelle",
+                  "text": "A coastal area for swimming and relaxation near the Archaeological Park of Herculaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.335766,
+                        40.806417
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IT",
     name: { de: "Archäologischer Park Herculaneum", hu: "Herculaneum régészeti parkja", ro: "Parcul Arheologic Herculaneum", en: "Archaeological Park of Herculaneum" },
@@ -436,6 +481,24 @@ export const italyHistoryV2: POI[] = [
                         9.037285,
                         39.724394
                   ]
+            },
+            {
+                  "name": "Parco dei dinosauri",
+                  "text": "Ein Dinosaurierpark beim Nuraghe Su Nuraxi.",
+                  "category": "park",
+                  "coords": [
+                        8.981518,
+                        39.702678
+                  ]
+            },
+            {
+                  "name": "Sardegna in miniatura",
+                  "text": "Ein Themenpark mit Miniaturen Sardiniens beim Nuraghe Su Nuraxi.",
+                  "category": "park",
+                  "coords": [
+                        8.979843,
+                        39.702288
+                  ]
             }
       ],
       "hu": [
@@ -509,6 +572,24 @@ export const italyHistoryV2: POI[] = [
                   "coords": [
                         9.037285,
                         39.724394
+                  ]
+            },
+            {
+                  "name": "Parco dei dinosauri",
+                  "text": "Dinoszaurusz-park a Su Nuraxi nurágé közelében.",
+                  "category": "park",
+                  "coords": [
+                        8.981518,
+                        39.702678
+                  ]
+            },
+            {
+                  "name": "Sardegna in miniatura",
+                  "text": "Miniatűr Szardínia park a Su Nuraxi nurágé közelében.",
+                  "category": "park",
+                  "coords": [
+                        8.979843,
+                        39.702288
                   ]
             }
       ],
@@ -584,6 +665,24 @@ export const italyHistoryV2: POI[] = [
                         9.037285,
                         39.724394
                   ]
+            },
+            {
+                  "name": "Parco dei dinosauri",
+                  "text": "Un parc de dinozauri lângă Nuraghe Su Nuraxi.",
+                  "category": "park",
+                  "coords": [
+                        8.981518,
+                        39.702678
+                  ]
+            },
+            {
+                  "name": "Sardegna in miniatura",
+                  "text": "Un parc tematic cu machete ale Sardiniei lângă Nuraghe Su Nuraxi.",
+                  "category": "park",
+                  "coords": [
+                        8.979843,
+                        39.702288
+                  ]
             }
       ],
       "en": [
@@ -658,6 +757,24 @@ export const italyHistoryV2: POI[] = [
                         9.037285,
                         39.724394
                   ]
+            },
+            {
+                  "name": "Parco dei dinosauri",
+                  "text": "A dinosaur park located near Nuraghe Su Nuraxi.",
+                  "category": "park",
+                  "coords": [
+                        8.981518,
+                        39.702678
+                  ]
+            },
+            {
+                  "name": "Sardegna in miniatura",
+                  "text": "A theme park featuring miniature Sardinian landmarks near Nuraghe Su Nuraxi.",
+                  "category": "park",
+                  "coords": [
+                        8.979843,
+                        39.702288
+                  ]
             }
       ]
 },
@@ -705,7 +822,52 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-nuraghe-su-nuraxi-history-v2.webp",
   },
   {
-    id: "italy-teatro-di-taormina-history-v2",
+    id: "italy-teatro-di-taormina-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lido Conchiglie",
+                  "text": "Lido Conchiglie ist ein bekannter Strandabschnitt in der Nähe des antiken Theaters von Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297334,
+                        37.846152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lido Conchiglie",
+                  "text": "Lido Conchiglie egy ismert tengerparti szakasz a taorminai antik színház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297334,
+                        37.846152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lido Conchiglie",
+                  "text": "Lido Conchiglie este o secțiune de plajă cunoscută lângă Teatrul Antic din Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297334,
+                        37.846152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lido Conchiglie",
+                  "text": "Lido Conchiglie is a well-known beach area located near the Ancient Theatre of Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297334,
+                        37.846152
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "IT",
     name: { de: "Antikes Theater von Taormina", hu: "Taorminai ókori színház", ro: "Teatrul antic din Taormina", en: "Ancient Theatre of Taormina" },
@@ -796,6 +958,105 @@ export const italyHistoryV2: POI[] = [
                         15.0054,
                         40.41991
                   ]
+            },
+            {
+                  "name": "Lido Fulgor",
+                  "text": "Lido Fulgor ist ein Strandbad in der Nähe der archäologischen Stätte von Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.994624,
+                        40.40282
+                  ]
+            },
+            {
+                  "name": "Lido Internazionale",
+                  "text": "Das Lido Internazionale bietet Strandeinrichtungen an der Küste beim archäologischen Park von Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996606,
+                        40.399252
+                  ]
+            },
+            {
+                  "name": "Lido Marilena",
+                  "text": "Lido Marilena ist ein Strandresort in der historischen Umgebung von Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.995976,
+                        40.400626
+                  ]
+            },
+            {
+                  "name": "Lido La Siesta Maresca",
+                  "text": "Das Lido La Siesta Maresca ist ein Strandbad an der Küste der archäologischen Zone von Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.993331,
+                        40.406836
+                  ]
+            },
+            {
+                  "name": "Lido Eden Bleu",
+                  "text": "Lido Eden Bleu bietet Besuchern der Region Paestum Zugang zum Sandstrand und Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.992619,
+                        40.407892
+                  ]
+            },
+            {
+                  "name": "Lido Cinzia",
+                  "text": "Lido Cinzia ist ein lokales Strandbad in der Gemeinde der archäologischen Stätte von Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.988617,
+                        40.415795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Casina d'Amato",
+                  "text": "Die Spiaggia Casina d'Amato ist ein Sandstrand bei der antiken Stadt Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.978071,
+                        40.432358
+                  ]
+            },
+            {
+                  "name": "Spiaggia Ponte di ferro",
+                  "text": "Spiaggia Ponte di ferro ist ein Küstenabschnitt in der Region der archäologischen Stätten von Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.985034,
+                        40.421031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Foce Acqua dei Ranci",
+                  "text": "Die Spiaggia Foce Acqua dei Ranci befindet sich an der Mündung eines Wasserlaufs in Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.999702,
+                        40.388
+                  ]
+            },
+            {
+                  "name": "Spiagga Licinella",
+                  "text": "Die Spiagga Licinella ist ein strand in Paestum, der für seinen feinen Sand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.991691,
+                        40.408464
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Ein öffentlicher freier Strandabschnitt in der Region Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.968718,
+                        40.44615
+                  ]
             }
       ],
       "hu": [
@@ -842,6 +1103,105 @@ export const italyHistoryV2: POI[] = [
                   "coords": [
                         15.0054,
                         40.41991
+                  ]
+            },
+            {
+                  "name": "Lido Fulgor",
+                  "text": "A Lido Fulgor egy strandfürdő Paestum régészeti lelőhelyének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.994624,
+                        40.40282
+                  ]
+            },
+            {
+                  "name": "Lido Internazionale",
+                  "text": "A Lido Internazionale strandolási lehetőséget kínál Paestum régészeti parkjának partján.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996606,
+                        40.399252
+                  ]
+            },
+            {
+                  "name": "Lido Marilena",
+                  "text": "A Lido Marilena egy tengerparti üdülőhely Paestum történelmi környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.995976,
+                        40.400626
+                  ]
+            },
+            {
+                  "name": "Lido La Siesta Maresca",
+                  "text": "A Lido La Siesta Maresca egy strand Paestum régészeti övezetének partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.993331,
+                        40.406836
+                  ]
+            },
+            {
+                  "name": "Lido Eden Bleu",
+                  "text": "A Lido Eden Bleu homokos tengerparti hozzáférést kínál Paestum látogatói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.992619,
+                        40.407892
+                  ]
+            },
+            {
+                  "name": "Lido Cinzia",
+                  "text": "A Lido Cinzia egy helyi strandfürdő Paestum régészeti lelőhelyének környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.988617,
+                        40.415795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Casina d'Amato",
+                  "text": "A Spiaggia Casina d'Amato egy homokos tengerpart az ókori Paestum városa mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        14.978071,
+                        40.432358
+                  ]
+            },
+            {
+                  "name": "Spiaggia Ponte di ferro",
+                  "text": "A Spiaggia Ponte di ferro egy tengerparti szakasz Paestum régészeti lelőhelyeinek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.985034,
+                        40.421031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Foce Acqua dei Ranci",
+                  "text": "A Spiaggia Foce Acqua dei Ranci egy vízfolyás torkolatánál található strand Paestumban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.999702,
+                        40.388
+                  ]
+            },
+            {
+                  "name": "Spiagga Licinella",
+                  "text": "A Spiagga Licinella egy strand Paestumban, amely finom homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.991691,
+                        40.408464
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Ingyenes nyilvános strandrész Paestum régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.968718,
+                        40.44615
                   ]
             }
       ],
@@ -890,6 +1250,105 @@ export const italyHistoryV2: POI[] = [
                         15.0054,
                         40.41991
                   ]
+            },
+            {
+                  "name": "Lido Fulgor",
+                  "text": "Lido Fulgor este o stațiune de plajă situată în apropierea sitului arheologic din Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.994624,
+                        40.40282
+                  ]
+            },
+            {
+                  "name": "Lido Internazionale",
+                  "text": "Lido Internazionale oferă facilități de plajă pe coasta de lângă parcul arheologic din Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996606,
+                        40.399252
+                  ]
+            },
+            {
+                  "name": "Lido Marilena",
+                  "text": "Lido Marilena este o stațiune de plajă în cadrul istoric din Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.995976,
+                        40.400626
+                  ]
+            },
+            {
+                  "name": "Lido La Siesta Maresca",
+                  "text": "Lido La Siesta Maresca este o stațiune de plajă pe coasta zonei arheologice din Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.993331,
+                        40.406836
+                  ]
+            },
+            {
+                  "name": "Lido Eden Bleu",
+                  "text": "Lido Eden Bleu oferă vizitatorilor regiunii Paestum acces la plaja cu nisip și mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.992619,
+                        40.407892
+                  ]
+            },
+            {
+                  "name": "Lido Cinzia",
+                  "text": "Lido Cinzia este o stațiune de plajă locală din zona sitului arheologic Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.988617,
+                        40.415795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Casina d'Amato",
+                  "text": "Spiaggia Casina d'Amato este o plajă cu nisip lângă orașul antic Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.978071,
+                        40.432358
+                  ]
+            },
+            {
+                  "name": "Spiaggia Ponte di ferro",
+                  "text": "Spiaggia Ponte di ferro este o porțiune de coastă în regiunea siturilor arheologice din Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.985034,
+                        40.421031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Foce Acqua dei Ranci",
+                  "text": "Spiaggia Foce Acqua dei Ranci se află la gura de vărsare a unui curs de apă din Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.999702,
+                        40.388
+                  ]
+            },
+            {
+                  "name": "Spiagga Licinella",
+                  "text": "Spiagga Licinella este o plajă din Paestum cunoscută pentru nisipul său fin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.991691,
+                        40.408464
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "O secțiune de plajă publică liberă în regiunea Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.968718,
+                        40.44615
+                  ]
             }
       ],
       "en": [
@@ -936,6 +1395,105 @@ export const italyHistoryV2: POI[] = [
                   "coords": [
                         15.0054,
                         40.41991
+                  ]
+            },
+            {
+                  "name": "Lido Fulgor",
+                  "text": "Lido Fulgor is a beach resort located near the archaeological site of Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.994624,
+                        40.40282
+                  ]
+            },
+            {
+                  "name": "Lido Internazionale",
+                  "text": "Lido Internazionale offers beach facilities on the coast near the archaeological park of Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.996606,
+                        40.399252
+                  ]
+            },
+            {
+                  "name": "Lido Marilena",
+                  "text": "Lido Marilena is a beach resort within the historical setting of Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.995976,
+                        40.400626
+                  ]
+            },
+            {
+                  "name": "Lido La Siesta Maresca",
+                  "text": "Lido La Siesta Maresca is a beach resort on the coast of the archaeological zone of Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.993331,
+                        40.406836
+                  ]
+            },
+            {
+                  "name": "Lido Eden Bleu",
+                  "text": "Lido Eden Bleu provides visitors to the Paestum region with access to the sandy beach and sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.992619,
+                        40.407892
+                  ]
+            },
+            {
+                  "name": "Lido Cinzia",
+                  "text": "Lido Cinzia is a local beach resort in the area of the archaeological site of Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.988617,
+                        40.415795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Casina d'Amato",
+                  "text": "Spiaggia Casina d'Amato is a sandy beach near the ancient city of Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.978071,
+                        40.432358
+                  ]
+            },
+            {
+                  "name": "Spiaggia Ponte di ferro",
+                  "text": "Spiaggia Ponte di ferro is a coastal stretch in the region of the archaeological sites of Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.985034,
+                        40.421031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Foce Acqua dei Ranci",
+                  "text": "Spiaggia Foce Acqua dei Ranci is located at the mouth of a watercourse in Paestum.",
+                  "category": "recreational",
+                  "coords": [
+                        14.999702,
+                        40.388
+                  ]
+            },
+            {
+                  "name": "Spiagga Licinella",
+                  "text": "Spiagga Licinella is a beach in Paestum known for its fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.991691,
+                        40.408464
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "A free public beach section in the Paestum region.",
+                  "category": "recreational",
+                  "coords": [
+                        14.968718,
+                        40.44615
                   ]
             }
       ]
@@ -1048,6 +1606,24 @@ export const italyHistoryV2: POI[] = [
                         12.773662,
                         41.940844
                   ]
+            },
+            {
+                  "name": "Ulpia scuola nuoto",
+                  "text": "Eine Schwimmschule in der Nähe der Villa Adriana, die Schwimmkurse und Training anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.782653,
+                        41.97387
+                  ]
+            },
+            {
+                  "name": "Polo Natatorio",
+                  "text": "Ein Schwimmzentrum in der Nähe der Villa Adriana für sportliche Aktivitäten im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        12.832485,
+                        41.948552
+                  ]
             }
       ],
       "hu": [
@@ -1112,6 +1688,24 @@ export const italyHistoryV2: POI[] = [
                   "coords": [
                         12.773662,
                         41.940844
+                  ]
+            },
+            {
+                  "name": "Ulpia scuola nuoto",
+                  "text": "Úszóiskola a Villa Adriana közelében, amely oktatást és edzési lehetőséget biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        12.782653,
+                        41.97387
+                  ]
+            },
+            {
+                  "name": "Polo Natatorio",
+                  "text": "Úszóközpont a Villa Adriana közelében, sportolási lehetőséget biztosítva a vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.832485,
+                        41.948552
                   ]
             }
       ],
@@ -1178,6 +1772,24 @@ export const italyHistoryV2: POI[] = [
                         12.773662,
                         41.940844
                   ]
+            },
+            {
+                  "name": "Ulpia scuola nuoto",
+                  "text": "O școală de înot lângă Villa Adriana, care oferă cursuri și antrenamente de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.782653,
+                        41.97387
+                  ]
+            },
+            {
+                  "name": "Polo Natatorio",
+                  "text": "Un centru de înot lângă Villa Adriana, destinat activităților sportive acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.832485,
+                        41.948552
+                  ]
             }
       ],
       "en": [
@@ -1242,6 +1854,24 @@ export const italyHistoryV2: POI[] = [
                   "coords": [
                         12.773662,
                         41.940844
+                  ]
+            },
+            {
+                  "name": "Ulpia scuola nuoto",
+                  "text": "A swimming school near Villa Adriana offering swimming lessons and training facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        12.782653,
+                        41.97387
+                  ]
+            },
+            {
+                  "name": "Polo Natatorio",
+                  "text": "A swimming facility near Villa Adriana designed for aquatic sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        12.832485,
+                        41.948552
                   ]
             }
       ]
@@ -2163,7 +2793,160 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-teatro-massimo-palermo-history-v2.webp",
   },
   {
-    id: "italy-borgo-di-vico-equense-history-v2",
+    id: "italy-borgo-di-vico-equense-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marina di Vico",
+                  "text": "Ein charakteristischer Strand am Yachthafen von Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.427738,
+                        40.665498
+                  ]
+            },
+            {
+                  "name": "Garden Beach",
+                  "text": "Ein organisierter Strandbereich an der Küste von Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456275,
+                        40.689117
+                  ]
+            },
+            {
+                  "name": "Bagno Conte",
+                  "text": "Ein privater Strandabschnitt mit Serviceeinrichtungen in Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455112,
+                        40.688633
+                  ]
+            },
+            {
+                  "name": "La Palombara",
+                  "text": "Ein kleiner Küstenplatz bei Vico Equense, der für sein klares Wasser geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.453368,
+                        40.688187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marina di Vico",
+                  "text": "Jellegzetes strand Vico Equense jachtkikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        14.427738,
+                        40.665498
+                  ]
+            },
+            {
+                  "name": "Garden Beach",
+                  "text": "Kiépített strandterület Vico Equense partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456275,
+                        40.689117
+                  ]
+            },
+            {
+                  "name": "Bagno Conte",
+                  "text": "Privát strandszakasz szolgáltatásokkal Vico Equensében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455112,
+                        40.688633
+                  ]
+            },
+            {
+                  "name": "La Palombara",
+                  "text": "Kis tengerparti hely Vico Equense közelében, amelyet tiszta vizéért kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        14.453368,
+                        40.688187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marina di Vico",
+                  "text": "O plajă caracteristică situată lângă portul de agrement din Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.427738,
+                        40.665498
+                  ]
+            },
+            {
+                  "name": "Garden Beach",
+                  "text": "O zonă de plajă organizată pe coasta din Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456275,
+                        40.689117
+                  ]
+            },
+            {
+                  "name": "Bagno Conte",
+                  "text": "O porțiune de plajă privată cu facilități în Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455112,
+                        40.688633
+                  ]
+            },
+            {
+                  "name": "La Palombara",
+                  "text": "Un mic loc la țărm lângă Vico Equense, apreciat pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        14.453368,
+                        40.688187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marina di Vico",
+                  "text": "A characteristic beach at the marina of Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.427738,
+                        40.665498
+                  ]
+            },
+            {
+                  "name": "Garden Beach",
+                  "text": "An organized beach area on the coast of Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456275,
+                        40.689117
+                  ]
+            },
+            {
+                  "name": "Bagno Conte",
+                  "text": "A private stretch of beach with facilities in Vico Equense.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455112,
+                        40.688633
+                  ]
+            },
+            {
+                  "name": "La Palombara",
+                  "text": "A small coastal spot near Vico Equense appreciated for its clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.453368,
+                        40.688187
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IT",
     name: { de: "Vico Equense", hu: "Vico Equense", ro: "Vico Equense", en: "Vico Equense" },
@@ -2208,7 +2991,52 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-borgo-di-vico-equense-history-v2.webp",
   },
   {
-    id: "italy-templi-di-agrigento-history-v2",
+    id: "italy-templi-di-agrigento-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spiaggia di San Leone Libera Accessibile",
+                  "text": "Ein Strand bei Agrigento.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588215,
+                        37.260075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiaggia di San Leone Libera Accessibile",
+                  "text": "Egy strand Agrigento közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588215,
+                        37.260075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiaggia di San Leone Libera Accessibile",
+                  "text": "O plajă lângă Agrigento.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588215,
+                        37.260075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiaggia di San Leone Libera Accessibile",
+                  "text": "A beach near Agrigento.",
+                  "category": "recreational",
+                  "coords": [
+                        13.588215,
+                        37.260075
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Tempel von Agrigent", hu: "Agrigento templomai", ro: "Templele din Agrigento", en: "Temples of Agrigento" },

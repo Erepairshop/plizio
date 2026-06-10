@@ -166,6 +166,15 @@ export const serbiaCitiesV2: POI[] = [
                         22.064219,
                         42.719362
                   ]
+            },
+            {
+                  "name": "Bazen, Vladičin Han",
+                  "text": "Das öffentliche Schwimmbad von Vladičin Han bietet Badevergnügen für Bewohner und Gäste.",
+                  "category": "recreational",
+                  "coords": [
+                        22.063092,
+                        42.703456
+                  ]
             }
       ],
       "hu": [
@@ -194,6 +203,15 @@ export const serbiaCitiesV2: POI[] = [
                   "coords": [
                         22.064219,
                         42.719362
+                  ]
+            },
+            {
+                  "name": "Bazen, Vladičin Han",
+                  "text": "Vladičin Han nyilvános uszodája, amely a helyieknek és a látogatóknak is fürdőzési lehetőséget nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        22.063092,
+                        42.703456
                   ]
             }
       ],
@@ -224,6 +242,15 @@ export const serbiaCitiesV2: POI[] = [
                         22.064219,
                         42.719362
                   ]
+            },
+            {
+                  "name": "Bazen, Vladičin Han",
+                  "text": "Piscina publică din Vladičin Han oferă facilități de înot pentru locuitori și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        22.063092,
+                        42.703456
+                  ]
             }
       ],
       "en": [
@@ -252,6 +279,15 @@ export const serbiaCitiesV2: POI[] = [
                   "coords": [
                         22.064219,
                         42.719362
+                  ]
+            },
+            {
+                  "name": "Bazen, Vladičin Han",
+                  "text": "The public swimming pool of Vladičin Han provides bathing facilities for residents and guests.",
+                  "category": "recreational",
+                  "coords": [
+                        22.063092,
+                        42.703456
                   ]
             }
       ]

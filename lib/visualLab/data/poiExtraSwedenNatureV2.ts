@@ -837,6 +837,15 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
                         18.497132,
                         57.510896
                   ]
+            },
+            {
+                  "name": "Simbassäng",
+                  "text": "Ein Schwimmbecken auf der Insel Gotland für sportliche Aktivitäten und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        18.445531,
+                        57.507515
+                  ]
             }
       ],
       "hu": [
@@ -901,6 +910,15 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
                   "coords": [
                         18.497132,
                         57.510896
+                  ]
+            },
+            {
+                  "name": "Simbassäng",
+                  "text": "Úszómedence Gotland szigetén sportoláshoz és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.445531,
+                        57.507515
                   ]
             }
       ],
@@ -967,6 +985,15 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
                         18.497132,
                         57.510896
                   ]
+            },
+            {
+                  "name": "Simbassäng",
+                  "text": "O piscină pe insula Gotland pentru activități sportive și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        18.445531,
+                        57.507515
+                  ]
             }
       ],
       "en": [
@@ -1031,6 +1058,15 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
                   "coords": [
                         18.497132,
                         57.510896
+                  ]
+            },
+            {
+                  "name": "Simbassäng",
+                  "text": "A swimming pool on the island of Gotland for sports activities and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.445531,
+                        57.507515
                   ]
             }
       ]
@@ -3473,6 +3509,15 @@ imageHint: "Scenic view of the island of Ven with green fields and coastal cliff
                         17.059637,
                         57.244506
                   ]
+            },
+            {
+                  "name": "Böda Sand Beach Resort",
+                  "text": "Ein bekanntes Strandresort und Wasserpark auf der schwedischen Insel Öland.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05404,
+                        57.273842
+                  ]
             }
       ],
       "hu": [
@@ -3492,6 +3537,15 @@ imageHint: "Scenic view of the island of Ven with green fields and coastal cliff
                   "coords": [
                         17.059637,
                         57.244506
+                  ]
+            },
+            {
+                  "name": "Böda Sand Beach Resort",
+                  "text": "Népszerű tengerparti üdülőhely és vízipark a svédországi Öland szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05404,
+                        57.273842
                   ]
             }
       ],
@@ -3513,6 +3567,15 @@ imageHint: "Scenic view of the island of Ven with green fields and coastal cliff
                         17.059637,
                         57.244506
                   ]
+            },
+            {
+                  "name": "Böda Sand Beach Resort",
+                  "text": "O stațiune de plajă renumită și un parc acvatic pe insula suedeză Öland.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05404,
+                        57.273842
+                  ]
             }
       ],
       "en": [
@@ -3532,6 +3595,15 @@ imageHint: "Scenic view of the island of Ven with green fields and coastal cliff
                   "coords": [
                         17.059637,
                         57.244506
+                  ]
+            },
+            {
+                  "name": "Böda Sand Beach Resort",
+                  "text": "A well-known beach resort and water park on the Swedish island of Öland.",
+                  "category": "recreational",
+                  "coords": [
+                        17.05404,
+                        57.273842
                   ]
             }
       ]
@@ -3897,6 +3969,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         23.145129,
                         65.855619
                   ]
+            },
+            {
+                  "name": "Strandängsbadet",
+                  "text": "Strandängsbadet ist eine öffentliche Badeanstalt am Fluss Kalix River.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141846,
+                        65.852294
+                  ]
             }
       ],
       "hu": [
@@ -3943,6 +4024,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                   "coords": [
                         23.145129,
                         65.855619
+                  ]
+            },
+            {
+                  "name": "Strandängsbadet",
+                  "text": "A Strandängsbadet egy nyilvános fürdőhely a Kalix-folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141846,
+                        65.852294
                   ]
             }
       ],
@@ -3991,6 +4081,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         23.145129,
                         65.855619
                   ]
+            },
+            {
+                  "name": "Strandängsbadet",
+                  "text": "Strandängsbadet este o baie publică situată lângă râul Kalix.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141846,
+                        65.852294
+                  ]
             }
       ],
       "en": [
@@ -4037,6 +4136,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                   "coords": [
                         23.145129,
                         65.855619
+                  ]
+            },
+            {
+                  "name": "Strandängsbadet",
+                  "text": "Strandängsbadet is a public bathing facility located by the Kalix River.",
+                  "category": "recreational",
+                  "coords": [
+                        23.141846,
+                        65.852294
                   ]
             }
       ]
@@ -4464,6 +4572,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         21.210502,
                         64.692681
                   ]
+            },
+            {
+                  "name": "Harrbäckssandsbadet",
+                  "text": "Ein Freizeitgelände am Fluss Skellefte älv, das verschiedene Wasseraktivitäten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.232068,
+                        64.717646
+                  ]
             }
       ],
       "hu": [
@@ -4510,6 +4627,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                   "coords": [
                         21.210502,
                         64.692681
+                  ]
+            },
+            {
+                  "name": "Harrbäckssandsbadet",
+                  "text": "Szabadidős terület a Skellefte-folyó mentén, amely különféle vízi tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        21.232068,
+                        64.717646
                   ]
             }
       ],
@@ -4558,6 +4684,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         21.210502,
                         64.692681
                   ]
+            },
+            {
+                  "name": "Harrbäckssandsbadet",
+                  "text": "O zonă de agrement pe râul Skellefte, care oferă diverse activități acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.232068,
+                        64.717646
+                  ]
             }
       ],
       "en": [
@@ -4604,6 +4739,15 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                   "coords": [
                         21.210502,
                         64.692681
+                  ]
+            },
+            {
+                  "name": "Harrbäckssandsbadet",
+                  "text": "A recreational area along the Skellefte River offering various water activities.",
+                  "category": "recreational",
+                  "coords": [
+                        21.232068,
+                        64.717646
                   ]
             }
       ]

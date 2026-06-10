@@ -229,6 +229,24 @@ export const finlandNatureV2: POI[] = [
                         23.657114,
                         66.390827
                   ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "Ein öffentliches Schwimmbad in der Region Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "Ein umweltfreundliches Schwimmbad in Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
+                  ]
             }
       ],
       "hu": [
@@ -275,6 +293,24 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         23.657114,
                         66.390827
+                  ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "Nyilvános fürdő Aavasaksa területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "Környezetbarát úszómedence Aavasaksa területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
                   ]
             }
       ],
@@ -323,6 +359,24 @@ export const finlandNatureV2: POI[] = [
                         23.657114,
                         66.390827
                   ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "O baie publică în regiunea Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "O piscină ecologică situată în Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
+                  ]
             }
       ],
       "en": [
@@ -369,6 +423,24 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         23.657114,
                         66.390827
+                  ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "A public bath offering swimming facilities in Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "An environmentally friendly swimming pool located in Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
                   ]
             }
       ]

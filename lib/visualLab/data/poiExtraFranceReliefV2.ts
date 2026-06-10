@@ -1417,6 +1417,15 @@ export const franceReliefV2: POI[] = [
                         6.353541,
                         46.751187
                   ]
+            },
+            {
+                  "name": "Métabief aventure",
+                  "text": "Ein Abenteuerpark mit verschiedenen Aktivitäten in der Nähe des Mont d'Or.",
+                  "category": "recreational",
+                  "coords": [
+                        6.347613,
+                        46.762998
+                  ]
             }
       ],
       "hu": [
@@ -1481,6 +1490,15 @@ export const franceReliefV2: POI[] = [
                   "coords": [
                         6.353541,
                         46.751187
+                  ]
+            },
+            {
+                  "name": "Métabief aventure",
+                  "text": "Különféle tevékenységeket kínáló kalandpark a Mont d'Or közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.347613,
+                        46.762998
                   ]
             }
       ],
@@ -1547,6 +1565,15 @@ export const franceReliefV2: POI[] = [
                         6.353541,
                         46.751187
                   ]
+            },
+            {
+                  "name": "Métabief aventure",
+                  "text": "Un parc de aventură cu diverse activități situat în apropiere de Mont d'Or.",
+                  "category": "recreational",
+                  "coords": [
+                        6.347613,
+                        46.762998
+                  ]
             }
       ],
       "en": [
@@ -1611,6 +1638,15 @@ export const franceReliefV2: POI[] = [
                   "coords": [
                         6.353541,
                         46.751187
+                  ]
+            },
+            {
+                  "name": "Métabief aventure",
+                  "text": "An adventure park offering various outdoor activities near Mont d'Or.",
+                  "category": "recreational",
+                  "coords": [
+                        6.347613,
+                        46.762998
                   ]
             }
       ]
@@ -2659,6 +2695,15 @@ export const franceReliefV2: POI[] = [
                         5.79988,
                         45.343931
                   ]
+            },
+            {
+                  "name": "Oréade Balnéo et Restaurant",
+                  "text": "Ein Wellnessbad mit Restaurant im Chartreuse-Massiv.",
+                  "category": "recreational",
+                  "coords": [
+                        5.817902,
+                        45.341199
+                  ]
             }
       ],
       "hu": [
@@ -2732,6 +2777,15 @@ export const franceReliefV2: POI[] = [
                   "coords": [
                         5.79988,
                         45.343931
+                  ]
+            },
+            {
+                  "name": "Oréade Balnéo et Restaurant",
+                  "text": "Wellness fürdő és étterem a Chartreuse-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.817902,
+                        45.341199
                   ]
             }
       ],
@@ -2807,6 +2861,15 @@ export const franceReliefV2: POI[] = [
                         5.79988,
                         45.343931
                   ]
+            },
+            {
+                  "name": "Oréade Balnéo et Restaurant",
+                  "text": "O baie de wellness și restaurant în masivul Chartreuse.",
+                  "category": "recreational",
+                  "coords": [
+                        5.817902,
+                        45.341199
+                  ]
             }
       ],
       "en": [
@@ -2880,6 +2943,15 @@ export const franceReliefV2: POI[] = [
                   "coords": [
                         5.79988,
                         45.343931
+                  ]
+            },
+            {
+                  "name": "Oréade Balnéo et Restaurant",
+                  "text": "A wellness bath and restaurant facility in the Chartreuse Massif.",
+                  "category": "recreational",
+                  "coords": [
+                        5.817902,
+                        45.341199
                   ]
             }
       ]
@@ -4198,6 +4270,15 @@ export const franceReliefV2: POI[] = [
                         4.426737,
                         44.407059
                   ]
+            },
+            {
+                  "name": "piscine de la bergerie de la lauze",
+                  "text": "Dieses Schwimmbad befindet sich in der Bergerie de la Lauze in der Ardèche-Schlucht.",
+                  "category": "recreational",
+                  "coords": [
+                        4.420659,
+                        44.347597
+                  ]
             }
       ],
       "hu": [
@@ -4262,6 +4343,15 @@ export const franceReliefV2: POI[] = [
                   "coords": [
                         4.426737,
                         44.407059
+                  ]
+            },
+            {
+                  "name": "piscine de la bergerie de la lauze",
+                  "text": "Ez az úszómedence az Ardeche-szurdokban található Bergerie de la Lauze területén van.",
+                  "category": "recreational",
+                  "coords": [
+                        4.420659,
+                        44.347597
                   ]
             }
       ],
@@ -4328,6 +4418,15 @@ export const franceReliefV2: POI[] = [
                         4.426737,
                         44.407059
                   ]
+            },
+            {
+                  "name": "piscine de la bergerie de la lauze",
+                  "text": "Această piscină este situată la Bergerie de la Lauze, în Defileul Ardeche.",
+                  "category": "recreational",
+                  "coords": [
+                        4.420659,
+                        44.347597
+                  ]
             }
       ],
       "en": [
@@ -4392,6 +4491,15 @@ export const franceReliefV2: POI[] = [
                   "coords": [
                         4.426737,
                         44.407059
+                  ]
+            },
+            {
+                  "name": "piscine de la bergerie de la lauze",
+                  "text": "This swimming pool is located at the Bergerie de la Lauze in the Ardeche Gorge.",
+                  "category": "recreational",
+                  "coords": [
+                        4.420659,
+                        44.347597
                   ]
             }
       ]

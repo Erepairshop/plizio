@@ -1003,6 +1003,33 @@ export const finlandEconomicV2: POI[] = [
                         24.255591,
                         64.468325
                   ]
+            },
+            {
+                  "name": "Pyhäluodon uimaranta",
+                  "text": "Ein öffentlicher Badestrand in der Gegend von Pyhäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.196828,
+                        64.472277
+                  ]
+            },
+            {
+                  "name": "Vaaranlahden ranta",
+                  "text": "Ein Erholungsbadebereich am Ufer in der Region Pyhäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.17964,
+                        64.458773
+                  ]
+            },
+            {
+                  "name": "Avanto",
+                  "text": "Eine Schwimmstätte in Pyhäjoki, möglicherweise spezialisiert auf Winterschwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.233145,
+                        64.44365
+                  ]
             }
       ],
       "hu": [
@@ -1031,6 +1058,33 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.255591,
                         64.468325
+                  ]
+            },
+            {
+                  "name": "Pyhäluodon uimaranta",
+                  "text": "Nyilvános fürdőhely Pyhäjoki környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.196828,
+                        64.472277
+                  ]
+            },
+            {
+                  "name": "Vaaranlahden ranta",
+                  "text": "Pihenésre alkalmas fürdőhely Pyhäjoki régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.17964,
+                        64.458773
+                  ]
+            },
+            {
+                  "name": "Avanto",
+                  "text": "Pyhäjokiban található úszólétesítmény, amely esetleg a téli úszásra szakosodott.",
+                  "category": "recreational",
+                  "coords": [
+                        24.233145,
+                        64.44365
                   ]
             }
       ],
@@ -1061,6 +1115,33 @@ export const finlandEconomicV2: POI[] = [
                         24.255591,
                         64.468325
                   ]
+            },
+            {
+                  "name": "Pyhäluodon uimaranta",
+                  "text": "O plajă publică pentru înot situată în zona Pyhäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.196828,
+                        64.472277
+                  ]
+            },
+            {
+                  "name": "Vaaranlahden ranta",
+                  "text": "O zonă de înot recreativă pe malul râului din regiunea Pyhäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.17964,
+                        64.458773
+                  ]
+            },
+            {
+                  "name": "Avanto",
+                  "text": "O facilitate de înot în Pyhäjoki, posibil specializată în înotul de iarnă.",
+                  "category": "recreational",
+                  "coords": [
+                        24.233145,
+                        64.44365
+                  ]
             }
       ],
       "en": [
@@ -1089,6 +1170,33 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.255591,
                         64.468325
+                  ]
+            },
+            {
+                  "name": "Pyhäluodon uimaranta",
+                  "text": "A public swimming beach located in the Pyhäjoki area.",
+                  "category": "recreational",
+                  "coords": [
+                        24.196828,
+                        64.472277
+                  ]
+            },
+            {
+                  "name": "Vaaranlahden ranta",
+                  "text": "A recreational swimming area on the shore in the Pyhäjoki region.",
+                  "category": "recreational",
+                  "coords": [
+                        24.17964,
+                        64.458773
+                  ]
+            },
+            {
+                  "name": "Avanto",
+                  "text": "A swimming facility in Pyhäjoki, possibly specializing in winter swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        24.233145,
+                        64.44365
                   ]
             }
       ]
@@ -2650,6 +2758,33 @@ export const finlandEconomicV2: POI[] = [
                         24.855404,
                         60.261765
                   ]
+            },
+            {
+                  "name": "Vetokannas, talviuinti",
+                  "text": "Ein Platz für Winterschwimmen in der Nähe des Logistikzentrums von Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.881082,
+                        60.270179
+                  ]
+            },
+            {
+                  "name": "Palettilampi",
+                  "text": "Ein lokaler Schwimmbereich im Freien für Erholung und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        24.900347,
+                        60.261486
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Ein großes öffentliches Schwimmbecken für Schwimmer aller Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851141,
+                        60.265118
+                  ]
             }
       ],
       "hu": [
@@ -2723,6 +2858,33 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.855404,
                         60.261765
+                  ]
+            },
+            {
+                  "name": "Vetokannas, talviuinti",
+                  "text": "Téli úszóhely a vantaai logisztikai központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.881082,
+                        60.270179
+                  ]
+            },
+            {
+                  "name": "Palettilampi",
+                  "text": "Helyi szabadtéri fürdőhely kikapcsolódásra és szabadidős tevékenységekre.",
+                  "category": "recreational",
+                  "coords": [
+                        24.900347,
+                        60.261486
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Nagy nyilvános úszómedence minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851141,
+                        60.265118
                   ]
             }
       ],
@@ -2798,6 +2960,33 @@ export const finlandEconomicV2: POI[] = [
                         24.855404,
                         60.261765
                   ]
+            },
+            {
+                  "name": "Vetokannas, talviuinti",
+                  "text": "Un loc pentru înot de iarnă lângă centrul logistic din Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.881082,
+                        60.270179
+                  ]
+            },
+            {
+                  "name": "Palettilampi",
+                  "text": "O zonă locală de înot în aer liber pentru recreere și petrecerea timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        24.900347,
+                        60.261486
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "O piscină publică mare pentru înotători de toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851141,
+                        60.265118
+                  ]
             }
       ],
       "en": [
@@ -2871,6 +3060,33 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.855404,
                         60.261765
+                  ]
+            },
+            {
+                  "name": "Vetokannas, talviuinti",
+                  "text": "A winter swimming spot located near the Vantaa Logistics Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        24.881082,
+                        60.270179
+                  ]
+            },
+            {
+                  "name": "Palettilampi",
+                  "text": "A local outdoor swimming area for recreation and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        24.900347,
+                        60.261486
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "A large public swimming pool for swimmers of all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851141,
+                        60.265118
                   ]
             }
       ]

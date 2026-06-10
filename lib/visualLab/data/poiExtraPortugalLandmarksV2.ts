@@ -166,6 +166,15 @@ export const portugalLandmarksV2: POI[] = [
                         -9.443843,
                         38.794013
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "Ein vom örtlichen Feuerwehrverband betriebenes Schwimmbad in Colares.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
+                  ]
             }
       ],
       "hu": [
@@ -239,6 +248,15 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -9.443843,
                         38.794013
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "A helyi tűzoltóság által üzemeltetett úszómedence Colaresben.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
                   ]
             }
       ],
@@ -314,6 +332,15 @@ export const portugalLandmarksV2: POI[] = [
                         -9.443843,
                         38.794013
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "O piscină administrată de departamentul local de pompieri din Colares.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
+                  ]
             }
       ],
       "en": [
@@ -387,6 +414,15 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -9.443843,
                         38.794013
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "A swimming pool operated by the local fire department in Colares.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
                   ]
             }
       ]
@@ -499,6 +535,15 @@ export const portugalLandmarksV2: POI[] = [
                         -8.31954,
                         41.431152
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "Ein Schwimmbad, das von der Freiwilligen Feuerwehr von Guimarães verwaltet wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
+                  ]
             }
       ],
       "hu": [
@@ -563,6 +608,15 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -8.31954,
                         41.431152
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "A guimarãesi önkéntes tűzoltók által kezelt úszólétesítmény.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
                   ]
             }
       ],
@@ -629,6 +683,15 @@ export const portugalLandmarksV2: POI[] = [
                         -8.31954,
                         41.431152
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "O unitate de înot administrată de pompierii voluntari din Guimarães.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
+                  ]
             }
       ],
       "en": [
@@ -693,6 +756,15 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -8.31954,
                         41.431152
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "A swimming pool facility managed by the voluntary firefighters of Guimarães.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
                   ]
             }
       ]

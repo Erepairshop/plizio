@@ -10559,6 +10559,42 @@ export const belgiumCitiesV2: POI[] = [
                         4.471477,
                         51.046313
                   ]
+            },
+            {
+                  "name": "Michielsbad",
+                  "text": "Ein städtisches Schwimmbad in Mechelen für Sport und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        4.486697,
+                        51.060514
+                  ]
+            },
+            {
+                  "name": "De Nekkerpool",
+                  "text": "Ein modernes Hallenbad in Mechelen, das zum Sport- und Erholungszentrum De Nekker gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        4.502767,
+                        51.02502
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tivoli",
+                  "text": "Ein Kinderbauernhof im Tivoli-Park von Mechelen, wo Kinder Hoftiere kennenlernen können.",
+                  "category": "recreational",
+                  "coords": [
+                        4.473349,
+                        51.046405
+                  ]
+            },
+            {
+                  "name": "Zwemzone Keerdok",
+                  "text": "Ein ausgewiesener Bereich für das Schwimmen im Freien am Keerdok in Mechelen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.469961,
+                        51.032721
+                  ]
             }
       ],
       "hu": [
@@ -10839,6 +10875,42 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.471477,
                         51.046313
+                  ]
+            },
+            {
+                  "name": "Michielsbad",
+                  "text": "Városi úszómedence Mechelenben sportoláshoz és szabadidőhöz.",
+                  "category": "recreational",
+                  "coords": [
+                        4.486697,
+                        51.060514
+                  ]
+            },
+            {
+                  "name": "De Nekkerpool",
+                  "text": "Modern fedett uszoda Mechelenben, a De Nekker sport- és rekreációs központ része.",
+                  "category": "recreational",
+                  "coords": [
+                        4.502767,
+                        51.02502
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tivoli",
+                  "text": "Gyermekfarm a mecheleni Tivoli parkban, ahol a gyerekek tanyasi állatokkal ismerkedhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        4.473349,
+                        51.046405
+                  ]
+            },
+            {
+                  "name": "Zwemzone Keerdok",
+                  "text": "Kültéri úszásra kijelölt terület a mecheleni Keerdoknál.",
+                  "category": "recreational",
+                  "coords": [
+                        4.469961,
+                        51.032721
                   ]
             }
       ],
@@ -11121,6 +11193,42 @@ export const belgiumCitiesV2: POI[] = [
                         4.471477,
                         51.046313
                   ]
+            },
+            {
+                  "name": "Michielsbad",
+                  "text": "O piscină municipală în Mechelen pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        4.486697,
+                        51.060514
+                  ]
+            },
+            {
+                  "name": "De Nekkerpool",
+                  "text": "O piscină modernă acoperită în Mechelen, parte a centrului de sport și agrement De Nekker.",
+                  "category": "recreational",
+                  "coords": [
+                        4.502767,
+                        51.02502
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tivoli",
+                  "text": "O fermă educațională pentru copii în parcul Tivoli din Mechelen, unde aceștia pot vedea animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        4.473349,
+                        51.046405
+                  ]
+            },
+            {
+                  "name": "Zwemzone Keerdok",
+                  "text": "O zonă special amenajată pentru înot în aer liber la Keerdok, în Mechelen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.469961,
+                        51.032721
+                  ]
             }
       ],
       "en": [
@@ -11401,6 +11509,42 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.471477,
                         51.046313
+                  ]
+            },
+            {
+                  "name": "Michielsbad",
+                  "text": "A municipal swimming pool in Mechelen for sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        4.486697,
+                        51.060514
+                  ]
+            },
+            {
+                  "name": "De Nekkerpool",
+                  "text": "A modern indoor swimming pool in Mechelen, part of the De Nekker sports and recreation center.",
+                  "category": "recreational",
+                  "coords": [
+                        4.502767,
+                        51.02502
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tivoli",
+                  "text": "A children's farm in Mechelen's Tivoli Park where kids can interact with farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        4.473349,
+                        51.046405
+                  ]
+            },
+            {
+                  "name": "Zwemzone Keerdok",
+                  "text": "A designated outdoor swimming area at the Keerdok in Mechelen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.469961,
+                        51.032721
                   ]
             }
       ]
@@ -24635,6 +24779,24 @@ export const belgiumCitiesV2: POI[] = [
                         4.41035,
                         50.916657
                   ]
+            },
+            {
+                  "name": "Thermae Boetfort",
+                  "text": "Ein Wellness- und Saunazentrum in einem historischen Schlossgelände in Vilvoorde.",
+                  "category": "recreational",
+                  "coords": [
+                        4.48125,
+                        50.916088
+                  ]
+            },
+            {
+                  "name": "De Ark Brussel",
+                  "text": "Ein Tiergehege in Vilvoorde mit verschiedenen Haustieren.",
+                  "category": "recreational",
+                  "coords": [
+                        4.422191,
+                        50.894642
+                  ]
             }
       ],
       "hu": [
@@ -24735,6 +24897,24 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.41035,
                         50.916657
+                  ]
+            },
+            {
+                  "name": "Thermae Boetfort",
+                  "text": "Wellness- és szaunaközpont egy történelmi kastély területén Vilvoordében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.48125,
+                        50.916088
+                  ]
+            },
+            {
+                  "name": "De Ark Brussel",
+                  "text": "Vilvoordei állatpark különböző háziállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        4.422191,
+                        50.894642
                   ]
             }
       ],
@@ -24837,6 +25017,24 @@ export const belgiumCitiesV2: POI[] = [
                         4.41035,
                         50.916657
                   ]
+            },
+            {
+                  "name": "Thermae Boetfort",
+                  "text": "Un centru de saună și wellness situat pe domeniul unui castel istoric din Vilvoorde.",
+                  "category": "recreational",
+                  "coords": [
+                        4.48125,
+                        50.916088
+                  ]
+            },
+            {
+                  "name": "De Ark Brussel",
+                  "text": "Un spațiu zoologic în Vilvoorde ce găzduiește diverse animale.",
+                  "category": "recreational",
+                  "coords": [
+                        4.422191,
+                        50.894642
+                  ]
             }
       ],
       "en": [
@@ -24937,6 +25135,24 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.41035,
                         50.916657
+                  ]
+            },
+            {
+                  "name": "Thermae Boetfort",
+                  "text": "A sauna and wellness center located on a historical castle estate in Vilvoorde.",
+                  "category": "recreational",
+                  "coords": [
+                        4.48125,
+                        50.916088
+                  ]
+            },
+            {
+                  "name": "De Ark Brussel",
+                  "text": "A zoological area in Vilvoorde featuring various animals.",
+                  "category": "recreational",
+                  "coords": [
+                        4.422191,
+                        50.894642
                   ]
             }
       ]
@@ -49520,6 +49736,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.118539,
                         51.292336
                   ]
+            },
+            {
+                  "name": "Instructiebad",
+                  "text": "Das Instructiebad in Blankenberge ist ein Schwimmbecken, das hauptsächlich für Schwimmunterricht genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14394,
+                        51.316582
+                  ]
             }
       ],
       "hu": [
@@ -49674,6 +49899,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.118539,
                         51.292336
+                  ]
+            },
+            {
+                  "name": "Instructiebad",
+                  "text": "A Blankenberge-i Instructiebad egy úszómedence, amelyet elsősorban úszásoktatásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14394,
+                        51.316582
                   ]
             }
       ],
@@ -49830,6 +50064,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.118539,
                         51.292336
                   ]
+            },
+            {
+                  "name": "Instructiebad",
+                  "text": "Instructiebad din Blankenberge este o piscină utilizată în principal pentru lecții de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14394,
+                        51.316582
+                  ]
             }
       ],
       "en": [
@@ -49984,6 +50227,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.118539,
                         51.292336
+                  ]
+            },
+            {
+                  "name": "Instructiebad",
+                  "text": "The Instructiebad in Blankenberge is a swimming pool primarily used for swimming lessons.",
+                  "category": "recreational",
+                  "coords": [
+                        3.14394,
+                        51.316582
                   ]
             }
       ]

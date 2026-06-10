@@ -409,6 +409,15 @@ export const belarusNatureV2: POI[] = [
                         28.1569,
                         52.115251
                   ]
+            },
+            {
+                  "name": "Kryty basein",
+                  "text": "Ein Hallenbad am Fluss Pripjat, das ehemals der Erholung diente.",
+                  "category": "recreational",
+                  "coords": [
+                        28.160394,
+                        52.115822
+                  ]
             }
       ],
       "hu": [
@@ -419,6 +428,15 @@ export const belarusNatureV2: POI[] = [
                   "coords": [
                         28.1569,
                         52.115251
+                  ]
+            },
+            {
+                  "name": "Kryty basein",
+                  "text": "Fedett uszoda a Pripjaty-folyónál, amely korábban pihenésre szolgált.",
+                  "category": "recreational",
+                  "coords": [
+                        28.160394,
+                        52.115822
                   ]
             }
       ],
@@ -431,6 +449,15 @@ export const belarusNatureV2: POI[] = [
                         28.1569,
                         52.115251
                   ]
+            },
+            {
+                  "name": "Kryty basein",
+                  "text": "O piscină acoperită lângă râul Pripeat, care servea anterior pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        28.160394,
+                        52.115822
+                  ]
             }
       ],
       "en": [
@@ -441,6 +468,15 @@ export const belarusNatureV2: POI[] = [
                   "coords": [
                         28.1569,
                         52.115251
+                  ]
+            },
+            {
+                  "name": "Kryty basein",
+                  "text": "An indoor swimming pool by the Pripyat River, formerly used for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        28.160394,
+                        52.115822
                   ]
             }
       ]

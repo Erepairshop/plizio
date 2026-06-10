@@ -1507,6 +1507,24 @@ export const franceCities: POI[] = [
                         5.374462,
                         43.307678
                   ]
+            },
+            {
+                  "name": "Plage des Catalans",
+                  "text": "Ein historischer und beliebter Stadtstrand in der Nähe des Zentrums von Marseille.",
+                  "category": "recreational",
+                  "coords": [
+                        5.355469,
+                        43.290707
+                  ]
+            },
+            {
+                  "name": "Plage de Maldormé",
+                  "text": "Ein öffentlicher Strand in Marseille, der für seinen einfachen Zugang bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        5.350195,
+                        43.280462
+                  ]
             }
       ],
       "hu": [
@@ -1650,6 +1668,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         5.374462,
                         43.307678
+                  ]
+            },
+            {
+                  "name": "Plage des Catalans",
+                  "text": "Történelmi és népszerű városi strand Marseille központjához közel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.355469,
+                        43.290707
+                  ]
+            },
+            {
+                  "name": "Plage de Maldormé",
+                  "text": "Nyilvános strand Marseille-ben, amely könnyű megközelíthetőségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        5.350195,
+                        43.280462
                   ]
             }
       ],
@@ -1795,6 +1831,24 @@ export const franceCities: POI[] = [
                         5.374462,
                         43.307678
                   ]
+            },
+            {
+                  "name": "Plage des Catalans",
+                  "text": "O plajă urbană istorică și populară lângă centrul orașului Marsilia.",
+                  "category": "recreational",
+                  "coords": [
+                        5.355469,
+                        43.290707
+                  ]
+            },
+            {
+                  "name": "Plage de Maldormé",
+                  "text": "O plajă publică din Marsilia, cunoscută pentru accesul său ușor.",
+                  "category": "recreational",
+                  "coords": [
+                        5.350195,
+                        43.280462
+                  ]
             }
       ],
       "en": [
@@ -1938,6 +1992,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         5.374462,
                         43.307678
+                  ]
+            },
+            {
+                  "name": "Plage des Catalans",
+                  "text": "A historic and popular city beach near the center of Marseille.",
+                  "category": "recreational",
+                  "coords": [
+                        5.355469,
+                        43.290707
+                  ]
+            },
+            {
+                  "name": "24 Hour Beach",
+                  "text": "A public beach in Marseille known for its easy access.",
+                  "category": "recreational",
+                  "coords": [
+                        5.350195,
+                        43.280462
                   ]
             }
       ],
@@ -14020,6 +14092,24 @@ export const franceCities: POI[] = [
                         6.473352,
                         45.520617
                   ]
+            },
+            {
+                  "name": "Thermes de Salins",
+                  "text": "Ein öffentliches Bad in den französischen Alpen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.528644,
+                        45.472335
+                  ]
+            },
+            {
+                  "name": "Thermes de La Léchère",
+                  "text": "Eine Kureinrichtung in den französischen Alpen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.482148,
+                        45.517173
+                  ]
             }
       ],
       "hu": [
@@ -14093,6 +14183,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.473352,
                         45.520617
+                  ]
+            },
+            {
+                  "name": "Thermes de Salins",
+                  "text": "Nyilvános fürdő a francia Alpokban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.528644,
+                        45.472335
+                  ]
+            },
+            {
+                  "name": "Thermes de La Léchère",
+                  "text": "Gyógyfürdő a francia Alpokban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.482148,
+                        45.517173
                   ]
             }
       ],
@@ -14168,6 +14276,24 @@ export const franceCities: POI[] = [
                         6.473352,
                         45.520617
                   ]
+            },
+            {
+                  "name": "Thermes de Salins",
+                  "text": "O baie publică în Alpii Francezi.",
+                  "category": "recreational",
+                  "coords": [
+                        6.528644,
+                        45.472335
+                  ]
+            },
+            {
+                  "name": "Thermes de La Léchère",
+                  "text": "O stațiune balneară în Alpii Francezi.",
+                  "category": "recreational",
+                  "coords": [
+                        6.482148,
+                        45.517173
+                  ]
             }
       ],
       "en": [
@@ -14241,6 +14367,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.473352,
                         45.520617
+                  ]
+            },
+            {
+                  "name": "Thermes de Salins",
+                  "text": "A public bath located in the French Alps.",
+                  "category": "recreational",
+                  "coords": [
+                        6.528644,
+                        45.472335
+                  ]
+            },
+            {
+                  "name": "Thermes de La Léchère",
+                  "text": "A thermal bath facility in the French Alps.",
+                  "category": "recreational",
+                  "coords": [
+                        6.482148,
+                        45.517173
                   ]
             }
       ]
@@ -18086,6 +18230,24 @@ export const franceCities: POI[] = [
                         1.167186,
                         45.053702
                   ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "Ein Tier- und Archäologiepark in der Nähe der Höhle von Lascaux.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "Ein kleines Schwimmbecken in der Umgebung der Höhle von Lascaux.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
+                  ]
             }
       ],
       "hu": [
@@ -18132,6 +18294,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
+                  ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "Állat- és régészeti park a Lascaux-barlang közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "Egy kisméretű úszómedence a Lascaux-barlang környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
                   ]
             }
       ],
@@ -18180,6 +18360,24 @@ export const franceCities: POI[] = [
                         1.167186,
                         45.053702
                   ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "Un parc de animale și arheologie situat lângă peștera Lascaux.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "O piscină de dimensiuni mici în zona peșterii Lascaux.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
+                  ]
             }
       ],
       "en": [
@@ -18226,6 +18424,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
+                  ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "An animal and archaeology park located near the Lascaux cave.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "A small swimming pool facility in the vicinity of the Lascaux cave.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
                   ]
             }
       ]

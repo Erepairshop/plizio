@@ -119,6 +119,15 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                         13.184762,
                         49.168656
                   ]
+            },
+            {
+                  "name": "Naturbad Huber Weiher",
+                  "text": "Das Naturbad Huber Weiher ist ein Naturbad in der Nähe des Bayerwald-Tierparks Lohberg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.108135,
+                        49.175729
+                  ]
             }
       ],
       "hu": [
@@ -192,6 +201,15 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                   "coords": [
                         13.184762,
                         49.168656
+                  ]
+            },
+            {
+                  "name": "Naturbad Huber Weiher",
+                  "text": "A Naturbad Huber Weiher egy természetes fürdőhely a Lohbergi Bajor Erdei Állatkert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.108135,
+                        49.175729
                   ]
             }
       ],
@@ -267,6 +285,15 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                         13.184762,
                         49.168656
                   ]
+            },
+            {
+                  "name": "Naturbad Huber Weiher",
+                  "text": "Naturbad Huber Weiher este o zonă naturală de înot situată lângă Grădina Zoologică Lohberg din Pădurea Bavareză.",
+                  "category": "recreational",
+                  "coords": [
+                        13.108135,
+                        49.175729
+                  ]
             }
       ],
       "en": [
@@ -340,6 +367,15 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                   "coords": [
                         13.184762,
                         49.168656
+                  ]
+            },
+            {
+                  "name": "Naturbad Huber Weiher",
+                  "text": "Naturbad Huber Weiher is a natural swimming area located near the Bavarian Forest Zoo Lohberg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.108135,
+                        49.175729
                   ]
             }
       ]
@@ -1357,7 +1393,52 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Ouverture pour la BUGA 1999.", "Superficie totale de 90 hectares.", "La Tour du millénaire mesure 60 mètres de haut.", "Plus de 200 espèces de papillons dans la serre aux papillons.", "Présence d'une luge d'été.", "La tyrolienne \"Elbauen-Zip\" mesure 400 mètres de long."],
     }, image: "/poi-images/kid-landmark-elbauenpark-extra.webp"},
   {
-    id: "kid-landmark-hansa-park-extra",
+    id: "kid-landmark-hansa-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hundestrand / Naturstrand",
+                  "text": "Dieser Strandabschnitt in Sierksdorf bietet Bereiche für Hunde und Naturfreunde in der Nähe des Hansa-Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        10.793225,
+                        54.078201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hundestrand / Naturstrand",
+                  "text": "Ez a sierksdorfi strandszakasz kutyás és natúr övezeteket kínál a Hansa-Park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.793225,
+                        54.078201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hundestrand / Naturstrand",
+                  "text": "Această secțiune de plajă din Sierksdorf oferă zone pentru câini și pentru iubitorii de natură lângă Hansa-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        10.793225,
+                        54.078201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hundestrand / Naturstrand",
+                  "text": "This beach section in Sierksdorf offers areas for dogs and nature lovers near Hansa-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        10.793225,
+                        54.078201
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-SH",
     coords: [10.780, 54.075],

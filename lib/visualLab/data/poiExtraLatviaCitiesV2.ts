@@ -823,6 +823,15 @@ export const latviaCitiesV2: POI[] = [
                         26.300299,
                         56.813163
                   ]
+            },
+            {
+                  "name": "Peldvieta",
+                  "text": "Ein Schwimmbecken in Madona für die sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        26.220482,
+                        56.831788
+                  ]
             }
       ],
       "hu": [
@@ -959,6 +968,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.300299,
                         56.813163
+                  ]
+            },
+            {
+                  "name": "Peldvieta",
+                  "text": "Úszómedence Madonában a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        26.220482,
+                        56.831788
                   ]
             }
       ],
@@ -1097,6 +1115,15 @@ export const latviaCitiesV2: POI[] = [
                         26.300299,
                         56.813163
                   ]
+            },
+            {
+                  "name": "Peldvieta",
+                  "text": "O piscină în Madona pentru recreere pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        26.220482,
+                        56.831788
+                  ]
             }
       ],
       "en": [
@@ -1233,6 +1260,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         26.300299,
                         56.813163
+                  ]
+            },
+            {
+                  "name": "Peldvieta",
+                  "text": "A swimming pool in Madona used for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        26.220482,
+                        56.831788
                   ]
             }
       ]

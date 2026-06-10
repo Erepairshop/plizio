@@ -823,6 +823,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.602795,
                         59.319553
                   ]
+            },
+            {
+                  "name": "Saue ujula",
+                  "text": "Ein öffentliches Schwimmbad in der Stadt Saue.",
+                  "category": "recreational",
+                  "coords": [
+                        24.5609,
+                        59.319956
+                  ]
             }
       ],
       "hu": [
@@ -851,6 +860,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.602795,
                         59.319553
+                  ]
+            },
+            {
+                  "name": "Saue ujula",
+                  "text": "Nyilvános úszómedence Saue városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.5609,
+                        59.319956
                   ]
             }
       ],
@@ -881,6 +899,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.602795,
                         59.319553
                   ]
+            },
+            {
+                  "name": "Saue ujula",
+                  "text": "O piscină publică în orașul Saue.",
+                  "category": "recreational",
+                  "coords": [
+                        24.5609,
+                        59.319956
+                  ]
             }
       ],
       "en": [
@@ -909,6 +936,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.602795,
                         59.319553
+                  ]
+            },
+            {
+                  "name": "Saue ujula",
+                  "text": "A public swimming pool in the town of Saue.",
+                  "category": "recreational",
+                  "coords": [
+                        24.5609,
+                        59.319956
                   ]
             }
       ]

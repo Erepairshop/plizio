@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const ukraineLifeV2: POI[] = [
 
   {
-    id: "ukraine-askaniya-nova-life-v2",
+    id: "ukraine-askaniya-nova-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "Ein Zoo innerhalb des Biosphärenreservats Askarija-Nowa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "Állatkert az Aszkanyija-Nova bioszféra-rezervátumban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "O grădină zoologică în cadrul Rezervației de Biosferă Askania-Nova.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "A zoo within the Askaniya-Nova Biosphere Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "wildlife",
     name: { de: "Biosphärenreservat Askanija-Nowa", hu: "Aszkanyija-Nova Bioszféra-rezervátum", ro: "Rezervația Biosferei Askania-Nova", en: "Askaniya-Nova Biosphere Reserve"},
@@ -1486,7 +1531,52 @@ imageHint: "European bison in Zalissia forest",
     },
     image: "/poi-images/ukraine-zalissia-life-v2.webp",
 },  {
-    id: "ukraine-bugs-guard-life-v2",
+    id: "ukraine-bugs-guard-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tarzanka",
+                  "text": "Ein Wasserpark im Nationalpark Bug-Gard, der Wasserspaß in der Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        31.032815,
+                        47.971896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tarzanka",
+                  "text": "A Bug-Gárda Nemzeti Parkban található vízipark, amely vízi szórakozást kínál a természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        31.032815,
+                        47.971896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tarzanka",
+                  "text": "Un parc acvatic în Parcul Național Bug-Gard, oferind distracție în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        31.032815,
+                        47.971896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tarzanka",
+                  "text": "A water park in the Bug's Guard National Nature Park, offering water fun in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        31.032815,
+                        47.971896
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "river",
     name: { de: "Nationalpark Buzkyj Hard", hu: "Buzkij Hard Nemzeti Park", ro: "Parcul Național Buzki Hard", en: "National Nature Park Bug's Guard"},

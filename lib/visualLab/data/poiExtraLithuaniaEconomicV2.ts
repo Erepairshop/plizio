@@ -2031,6 +2031,15 @@ export const lithuaniaEconomicV2: POI[] = [
                         24.100612,
                         54.912656
                   ]
+            },
+            {
+                  "name": "Perlinių danielių parkas",
+                  "text": "Ein Wildgehege beim Kaunas Intermodal Terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        24.154733,
+                        54.91842
+                  ]
             }
       ],
       "hu": [
@@ -2104,6 +2113,15 @@ export const lithuaniaEconomicV2: POI[] = [
                   "coords": [
                         24.100612,
                         54.912656
+                  ]
+            },
+            {
+                  "name": "Perlinių danielių parkas",
+                  "text": "Állatkert a kaunasi intermodális terminálnál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.154733,
+                        54.91842
                   ]
             }
       ],
@@ -2179,6 +2197,15 @@ export const lithuaniaEconomicV2: POI[] = [
                         24.100612,
                         54.912656
                   ]
+            },
+            {
+                  "name": "Perlinių danielių parkas",
+                  "text": "O grădină zoologică lângă Terminalul Intermodal Kaunas.",
+                  "category": "recreational",
+                  "coords": [
+                        24.154733,
+                        54.91842
+                  ]
             }
       ],
       "en": [
@@ -2252,6 +2279,15 @@ export const lithuaniaEconomicV2: POI[] = [
                   "coords": [
                         24.100612,
                         54.912656
+                  ]
+            },
+            {
+                  "name": "Perlinių danielių parkas",
+                  "text": "A zoo near the Kaunas Intermodal Terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        24.154733,
+                        54.91842
                   ]
             }
       ]
@@ -2490,7 +2526,124 @@ export const lithuaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "lithuania-nordbalt-cable-economic-v2",
+    id: "lithuania-nordbalt-cable-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Senosios Smiltynės perkėlos paplūdymys",
+                  "text": "Dieser Strand liegt in der Nähe der alten Fähre von Smiltynė und ist ein beliebter Anlaufpunkt für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        21.098885,
+                        55.699466
+                  ]
+            },
+            {
+                  "name": "Smiltynės vyrų paplūdymys",
+                  "text": "Ein Sandstrand für Männer im Erholungsgebiet von Smiltynė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100608,
+                        55.691105
+                  ]
+            },
+            {
+                  "name": "Smiltynė nudistų paplūdimys",
+                  "text": "Ein ausgewiesener FKK-Strand in der Dünenlandschaft von Smiltynė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10109,
+                        55.688314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Senosios Smiltynės perkėlos paplūdymys",
+                  "text": "Ez a strand Smiltynė régi kompkikötője közelében található, és népszerű célpont a látogatók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.098885,
+                        55.699466
+                  ]
+            },
+            {
+                  "name": "Smiltynės vyrų paplūdymys",
+                  "text": "Homokos férfistrand Smiltynė üdülőövezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100608,
+                        55.691105
+                  ]
+            },
+            {
+                  "name": "Smiltynė nudistų paplūdimys",
+                  "text": "Kijelölt nudista strand Smiltynė dűnéi között.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10109,
+                        55.688314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Senosios Smiltynės perkėlos paplūdymys",
+                  "text": "Această plajă se află lângă vechiul terminal de feribot din Smiltynė, fiind un loc popular pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        21.098885,
+                        55.699466
+                  ]
+            },
+            {
+                  "name": "Smiltynės vyrų paplūdymys",
+                  "text": "O plajă cu nisip pentru bărbați în zona de recreere Smiltynė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100608,
+                        55.691105
+                  ]
+            },
+            {
+                  "name": "Smiltynė nudistų paplūdimys",
+                  "text": "O plajă de nudiști amenajată printre dunele din Smiltynė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10109,
+                        55.688314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Senosios Smiltynės perkėlos paplūdymys",
+                  "text": "This beach is located near the old Smiltynė ferry terminal and is a popular spot for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        21.098885,
+                        55.699466
+                  ]
+            },
+            {
+                  "name": "Smiltynės vyrų paplūdymys",
+                  "text": "A sandy men's beach located in the Smiltynė recreation area.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100608,
+                        55.691105
+                  ]
+            },
+            {
+                  "name": "Smiltynė nudist beach",
+                  "text": "A designated nudist beach set among the dunes of Smiltynė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.10109,
+                        55.688314
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "landmark",
     name: { de: "NordBalt Stromverbindung", hu: "NordBalt áramvezeték", ro: "Conexiunea electrică NordBalt", en: "NordBalt Power Connection"},
@@ -2677,7 +2830,52 @@ export const lithuaniaEconomicV2: POI[] = [
   }
 ,
   {
-    id: "lithuania-klaipeda-seaport-economic-v2",
+    id: "lithuania-klaipeda-seaport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naujosios Smiltynės Perkėlos paplūdymys",
+                  "text": "Ein Strand in der Nähe des neuen Fährterminals von Klaipėda in Smiltynė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.102713,
+                        55.676721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naujosios Smiltynės Perkėlos paplūdymys",
+                  "text": "Strand Smiltynėben, a klaipėdai új kompkikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.102713,
+                        55.676721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naujosios Smiltynės Perkėlos paplūdymys",
+                  "text": "O plajă în Smiltynė, situată aproape de noul terminal de feribot din Klaipėda.",
+                  "category": "recreational",
+                  "coords": [
+                        21.102713,
+                        55.676721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naujosios Smiltynės Perkėlos paplūdymys",
+                  "text": "A beach in Smiltynė located near the new Klaipėda ferry terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.102713,
+                        55.676721
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LT",
     name: { de: "Seehafen Klaipėda", hu: "Klaipėdai tengeri kikötő", ro: "Portul maritim Klaipėda", en: "Klaipėda Seaport" },

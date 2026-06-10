@@ -1017,6 +1017,15 @@ export const germanyReliefV2: POI[] = [
                         11.875358,
                         50.031554
                   ]
+            },
+            {
+                  "name": "Naturmoorbad Fleckl",
+                  "text": "Ein natürliches Moorbad und Wasserpark im Fichtelgebirge.",
+                  "category": "recreational",
+                  "coords": [
+                        11.79907,
+                        50.013215
+                  ]
             }
       ],
       "hu": [
@@ -1081,6 +1090,15 @@ export const germanyReliefV2: POI[] = [
                   "coords": [
                         11.875358,
                         50.031554
+                  ]
+            },
+            {
+                  "name": "Naturmoorbad Fleckl",
+                  "text": "Természetes lápfürdő és vízi park a Fichtel-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.79907,
+                        50.013215
                   ]
             }
       ],
@@ -1147,6 +1165,15 @@ export const germanyReliefV2: POI[] = [
                         11.875358,
                         50.031554
                   ]
+            },
+            {
+                  "name": "Naturmoorbad Fleckl",
+                  "text": "O baie naturală de nămol și parc acvatic în Munții Fichtel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.79907,
+                        50.013215
+                  ]
             }
       ],
       "en": [
@@ -1211,6 +1238,15 @@ export const germanyReliefV2: POI[] = [
                   "coords": [
                         11.875358,
                         50.031554
+                  ]
+            },
+            {
+                  "name": "Naturmoorbad Fleckl",
+                  "text": "A natural moor bath and water park located in the Fichtel Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        11.79907,
+                        50.013215
                   ]
             }
       ]

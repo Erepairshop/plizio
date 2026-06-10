@@ -841,6 +841,15 @@ export const bulgariaLifeV2: POI[] = [
                         25.393366,
                         42.619776
                   ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Ein Wasserpark zur Erholung in der Nähe des Rosenparks in Kasanlak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
+                  ]
             }
       ],
       "hu": [
@@ -896,6 +905,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         25.393366,
                         42.619776
+                  ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Szabadidős vízi park a kazanlaki Rózsák parkja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
                   ]
             }
       ],
@@ -953,6 +971,15 @@ export const bulgariaLifeV2: POI[] = [
                         25.393366,
                         42.619776
                   ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Un parc acvatic recreativ situat lângă Parcul Rozelor din Kazanlak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
+                  ]
             }
       ],
       "en": [
@@ -1008,6 +1035,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         25.393366,
                         42.619776
+                  ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "A recreational water park located near the Rose Park in Kazanlak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
                   ]
             }
       ]
@@ -1102,6 +1138,15 @@ export const bulgariaLifeV2: POI[] = [
                         27.63312,
                         42.602869
                   ]
+            },
+            {
+                  "name": "Сънсет Аквапарк",
+                  "text": "Einer der größten Wasserparks an der bulgarischen Schwarzmeerküste mit zahlreichen Rutschen und Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.599422,
+                        42.564724
+                  ]
             }
       ],
       "hu": [
@@ -1148,6 +1193,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.63312,
                         42.602869
+                  ]
+            },
+            {
+                  "name": "Сънсет Аквапарк",
+                  "text": "A bolgár fekete-tengeri partvidék egyik legnagyobb vízi parkja számos csúszdával és látnivalóval.",
+                  "category": "recreational",
+                  "coords": [
+                        27.599422,
+                        42.564724
                   ]
             }
       ],
@@ -1196,6 +1250,15 @@ export const bulgariaLifeV2: POI[] = [
                         27.63312,
                         42.602869
                   ]
+            },
+            {
+                  "name": "Сънсет Аквапарк",
+                  "text": "Unul dintre cele mai mari parcuri acvatice de pe coasta bulgară a Mării Negre, cu numeroase tobogane și atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        27.599422,
+                        42.564724
+                  ]
             }
       ],
       "en": [
@@ -1242,6 +1305,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.63312,
                         42.602869
+                  ]
+            },
+            {
+                  "name": "Sunset Aquapark",
+                  "text": "One of the largest water parks on the Bulgarian Black Sea coast, featuring numerous slides and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        27.599422,
+                        42.564724
                   ]
             }
       ]
@@ -1345,6 +1417,15 @@ export const bulgariaLifeV2: POI[] = [
                         27.885681,
                         43.022272
                   ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "Ein Freizeitpark im Naturschutzgebiet Kamtschia.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
+                  ]
             }
       ],
       "hu": [
@@ -1400,6 +1481,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.885681,
                         43.022272
+                  ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "Szórakoztató park a Kamcsija-rezervátum területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
                   ]
             }
       ],
@@ -1457,6 +1547,15 @@ export const bulgariaLifeV2: POI[] = [
                         27.885681,
                         43.022272
                   ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "Un parc tematic în Rezervația Kamchia.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
+                  ]
             }
       ],
       "en": [
@@ -1512,6 +1611,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.885681,
                         43.022272
+                  ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "A theme park located within the Kamchia Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
                   ]
             }
       ]
@@ -1588,6 +1696,15 @@ export const bulgariaLifeV2: POI[] = [
                         23.418747,
                         42.596979
                   ]
+            },
+            {
+                  "name": "voden park \"B'breka\"",
+                  "text": "Ein Wasserpark in der Nähe des Bistritsa-Waldes, der Wasserspaß in der Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.433581,
+                        42.572518
+                  ]
             }
       ],
       "hu": [
@@ -1616,6 +1733,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         23.418747,
                         42.596979
+                  ]
+            },
+            {
+                  "name": "voden park \"B'breka\"",
+                  "text": "Vízi park a Bisztrica-erdő közelében, amely erdei környezetben kínál szórakozást.",
+                  "category": "recreational",
+                  "coords": [
+                        23.433581,
+                        42.572518
                   ]
             }
       ],
@@ -1646,6 +1772,15 @@ export const bulgariaLifeV2: POI[] = [
                         23.418747,
                         42.596979
                   ]
+            },
+            {
+                  "name": "voden park \"B'breka\"",
+                  "text": "Un parc acvatic lângă Pădurea Bistrița, oferind distracție în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        23.433581,
+                        42.572518
+                  ]
             }
       ],
       "en": [
@@ -1674,6 +1809,15 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         23.418747,
                         42.596979
+                  ]
+            },
+            {
+                  "name": "voden park \"B'breka\"",
+                  "text": "A water park near the Bistritsa Forest, offering aquatic attractions in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        23.433581,
+                        42.572518
                   ]
             }
       ]
@@ -1939,6 +2083,60 @@ export const bulgariaLifeV2: POI[] = [
                         28.042788,
                         43.275418
                   ]
+            },
+            {
+                  "name": "Нуди",
+                  "text": "Ein inoffizieller FKK-Strand im Naturpark Goldstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038075,
+                        43.268089
+                  ]
+            },
+            {
+                  "name": "Poseidon Villas",
+                  "text": "Ein Schwimmbad, das zu den Poseidon Villas im Naturpark gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        28.046296,
+                        43.30492
+                  ]
+            },
+            {
+                  "name": "Акваполис",
+                  "text": "Ein großer Wasserpark mit zahlreichen Rutschen und Freizeitbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035621,
+                        43.281354
+                  ]
+            },
+            {
+                  "name": "Sport-palas",
+                  "text": "Ein Schwimmbad für sportliche Aktivitäten im Naturpark Goldstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035149,
+                        43.268512
+                  ]
+            },
+            {
+                  "name": "Vodna p'rzalka",
+                  "text": "Eine Wasserrutsche im Naturpark Goldstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        28.047118,
+                        43.294184
+                  ]
+            },
+            {
+                  "name": "Konna baza kv. Vinitsa",
+                  "text": "Eine Reitbasis im Naturpark Goldstrand, die Ausritte anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        27.990237,
+                        43.252067
+                  ]
             }
       ],
       "hu": [
@@ -2021,6 +2219,60 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         28.042788,
                         43.275418
+                  ]
+            },
+            {
+                  "name": "Нуди",
+                  "text": "Egy nem hivatalos nudista strand az Aranyhomok Natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038075,
+                        43.268089
+                  ]
+            },
+            {
+                  "name": "Poseidon Villas",
+                  "text": "A natúrpark területén található Poseidon Villas-hoz tartozó úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        28.046296,
+                        43.30492
+                  ]
+            },
+            {
+                  "name": "Акваполис",
+                  "text": "Nagy vízi park számos csúszdával és élménymedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035621,
+                        43.281354
+                  ]
+            },
+            {
+                  "name": "Sport-palas",
+                  "text": "Sportolásra alkalmas úszómedence az Aranyhomok Natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035149,
+                        43.268512
+                  ]
+            },
+            {
+                  "name": "Vodna p'rzalka",
+                  "text": "Vízicsúszda az Aranyhomok Natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.047118,
+                        43.294184
+                  ]
+            },
+            {
+                  "name": "Konna baza kv. Vinitsa",
+                  "text": "Lovasbázis az Aranyhomok Natúrparkban, amely lovaglási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.990237,
+                        43.252067
                   ]
             }
       ],
@@ -2105,6 +2357,60 @@ export const bulgariaLifeV2: POI[] = [
                         28.042788,
                         43.275418
                   ]
+            },
+            {
+                  "name": "Нуди",
+                  "text": "O plajă de nudiști neoficială în Parcul Natural Nisipurile de Aur.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038075,
+                        43.268089
+                  ]
+            },
+            {
+                  "name": "Poseidon Villas",
+                  "text": "O piscină aparținând complexului Poseidon Villas din parcul natural.",
+                  "category": "recreational",
+                  "coords": [
+                        28.046296,
+                        43.30492
+                  ]
+            },
+            {
+                  "name": "Акваполис",
+                  "text": "Un parc acvatic mare, cu numeroase tobogane și bazine de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035621,
+                        43.281354
+                  ]
+            },
+            {
+                  "name": "Sport-palas",
+                  "text": "O piscină pentru activități sportive în Parcul Natural Nisipurile de Aur.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035149,
+                        43.268512
+                  ]
+            },
+            {
+                  "name": "Vodna p'rzalka",
+                  "text": "Un tobogan acvatic situat în Parcul Natural Nisipurile de Aur.",
+                  "category": "recreational",
+                  "coords": [
+                        28.047118,
+                        43.294184
+                  ]
+            },
+            {
+                  "name": "Konna baza kv. Vinitsa",
+                  "text": "O bază de echitație în Parcul Natural Nisipurile de Aur, care oferă plimbări cu calul.",
+                  "category": "recreational",
+                  "coords": [
+                        27.990237,
+                        43.252067
+                  ]
             }
       ],
       "en": [
@@ -2187,6 +2493,60 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         28.042788,
                         43.275418
+                  ]
+            },
+            {
+                  "name": "Нуди",
+                  "text": "An unofficial nudist beach in the Golden Sands Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038075,
+                        43.268089
+                  ]
+            },
+            {
+                  "name": "Poseidon Villas",
+                  "text": "A swimming pool belonging to the Poseidon Villas in the nature park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.046296,
+                        43.30492
+                  ]
+            },
+            {
+                  "name": "Aquapolis",
+                  "text": "A large water park with numerous slides and leisure pools.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035621,
+                        43.281354
+                  ]
+            },
+            {
+                  "name": "Sport-palas",
+                  "text": "A swimming pool for sports activities in the Golden Sands Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.035149,
+                        43.268512
+                  ]
+            },
+            {
+                  "name": "Vodna p'rzalka",
+                  "text": "A water slide located in the Golden Sands Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.047118,
+                        43.294184
+                  ]
+            },
+            {
+                  "name": "Konna baza kv. Vinitsa",
+                  "text": "A horse riding base in the Golden Sands Nature Park offering rides.",
+                  "category": "recreational",
+                  "coords": [
+                        27.990237,
+                        43.252067
                   ]
             }
       ]

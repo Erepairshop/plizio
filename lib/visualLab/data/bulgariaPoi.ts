@@ -1156,6 +1156,15 @@ export const bulgariaCulture: POI[] = [
                         27.486573,
                         42.516976
                   ]
+            },
+            {
+                  "name": "Неохраняем плаж",
+                  "text": "Ein naturbelassener, unbewachter Strandabschnitt in der Nähe des Hafens von Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482142,
+                        42.488598
+                  ]
             }
       ],
       "hu": [
@@ -1184,6 +1193,15 @@ export const bulgariaCulture: POI[] = [
                   "coords": [
                         27.486573,
                         42.516976
+                  ]
+            },
+            {
+                  "name": "Felügyelet nélküli strand",
+                  "text": "Természetes, nem őrzött tengerparti szakasz Burgasz kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482142,
+                        42.488598
                   ]
             }
       ],
@@ -1214,6 +1232,15 @@ export const bulgariaCulture: POI[] = [
                         27.486573,
                         42.516976
                   ]
+            },
+            {
+                  "name": "Неохраняем плаж",
+                  "text": "O zonă de plajă naturală, nesupravegheată, situată în apropierea Portului Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482142,
+                        42.488598
+                  ]
             }
       ],
       "en": [
@@ -1242,6 +1269,15 @@ export const bulgariaCulture: POI[] = [
                   "coords": [
                         27.486573,
                         42.516976
+                  ]
+            },
+            {
+                  "name": "Неохраняем плаж",
+                  "text": "A natural, unmonitored beach area located near the Port of Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482142,
+                        42.488598
                   ]
             }
       ]
@@ -1447,6 +1483,15 @@ export const bulgariaCulture: POI[] = [
                         25.393366,
                         42.619776
                   ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Ein Wasserpark mit verschiedenen Becken und Rutschen in der Region Kasanlak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
+                  ]
             }
       ],
       "hu": [
@@ -1502,6 +1547,15 @@ export const bulgariaCulture: POI[] = [
                   "coords": [
                         25.393366,
                         42.619776
+                  ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Vízividámpark különféle medencékkel és csúszdákkal Kazanlak környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
                   ]
             }
       ],
@@ -1559,6 +1613,15 @@ export const bulgariaCulture: POI[] = [
                         25.393366,
                         42.619776
                   ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "Un parc acvatic cu diverse piscine și tobogane în regiunea Kazanlak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
+                  ]
             }
       ],
       "en": [
@@ -1614,6 +1677,15 @@ export const bulgariaCulture: POI[] = [
                   "coords": [
                         25.393366,
                         42.619776
+                  ]
+            },
+            {
+                  "name": "Akvapark Waterland",
+                  "text": "A water park featuring various pools and slides in the Kazanlak region.",
+                  "category": "recreational",
+                  "coords": [
+                        25.426717,
+                        42.580391
                   ]
             }
       ]
@@ -2889,6 +2961,15 @@ export const bulgariaNature: POI[] = [
                         27.494754,
                         42.53422
                   ]
+            },
+            {
+                  "name": "Плаж",
+                  "text": "Ein Strandabschnitt am Atanasovsko-See bei Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.521543,
+                        42.556836
+                  ]
             }
       ],
       "hu": [
@@ -2908,6 +2989,15 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         27.494754,
                         42.53422
+                  ]
+            },
+            {
+                  "name": "Плаж",
+                  "text": "Strandszakasz a Burgasz melletti Atanaszovszko-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.521543,
+                        42.556836
                   ]
             }
       ],
@@ -2929,6 +3019,15 @@ export const bulgariaNature: POI[] = [
                         27.494754,
                         42.53422
                   ]
+            },
+            {
+                  "name": "Плаж",
+                  "text": "O secțiune de plajă la lacul Atanasovsko, lângă Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.521543,
+                        42.556836
+                  ]
             }
       ],
       "en": [
@@ -2948,6 +3047,15 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         27.494754,
                         42.53422
+                  ]
+            },
+            {
+                  "name": "Плаж",
+                  "text": "A beach section at Atanasovsko Lake near Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.521543,
+                        42.556836
                   ]
             }
       ]

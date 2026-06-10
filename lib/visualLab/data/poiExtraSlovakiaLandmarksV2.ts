@@ -405,6 +405,24 @@ export const slovakiaLandmarksV2: POI[] = [
                         17.014424,
                         48.153992
                   ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "Eine Schwimmakademie, die Kurse und Becken für verschiedene Altersgruppen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "Ein flaches Schwimmbecken, das speziell für die Sicherheit und den Spaß von Babys konzipiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
+                  ]
             }
       ],
       "hu": [
@@ -478,6 +496,24 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.014424,
                         48.153992
+                  ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "Úszóakadémia, amely tanfolyamokat és medencéket kínál különböző korosztályok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "Sekély úszómedence, amelyet kifejezetten a babák biztonsága és szórakozása érdekében alakítottak ki.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
                   ]
             }
       ],
@@ -553,6 +589,24 @@ export const slovakiaLandmarksV2: POI[] = [
                         17.014424,
                         48.153992
                   ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "O academie de înot care oferă cursuri și bazine pentru diverse grupe de vârstă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "O piscină puțin adâncă concepută special pentru siguranța și distracția bebelușilor.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
+                  ]
             }
       ],
       "en": [
@@ -626,6 +680,24 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.014424,
                         48.153992
+                  ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "A swimming academy offering courses and pools for various age groups.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "A shallow swimming pool designed specifically for the safety and fun of babies.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
                   ]
             }
       ]
@@ -1245,6 +1317,24 @@ export const slovakiaLandmarksV2: POI[] = [
                         17.87001,
                         48.821157
                   ]
+            },
+            {
+                  "name": "Pláž Koliba",
+                  "text": "Ein Strandbad am See mit Freizeitaktivitäten in der Nähe der Burg Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.859425,
+                        48.769291
+                  ]
+            },
+            {
+                  "name": "Zelená voda",
+                  "text": "Ein beliebtes Erholungsgebiet und Resort an einem See in der Nähe von Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.856368,
+                        48.766373
+                  ]
             }
       ],
       "hu": [
@@ -1318,6 +1408,24 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.87001,
                         48.821157
+                  ]
+            },
+            {
+                  "name": "Pláž Koliba",
+                  "text": "Tóparti strand üdülőhely szabadidős tevékenységekkel a beckói vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.859425,
+                        48.769291
+                  ]
+            },
+            {
+                  "name": "Zelená voda",
+                  "text": "Népszerű üdülő- és pihenőhely egy tó körül, Beckó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.856368,
+                        48.766373
                   ]
             }
       ],
@@ -1393,6 +1501,24 @@ export const slovakiaLandmarksV2: POI[] = [
                         17.87001,
                         48.821157
                   ]
+            },
+            {
+                  "name": "Pláž Koliba",
+                  "text": "O stațiune la plajă pe malul lacului, care oferă activități recreative lângă Castelul Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.859425,
+                        48.769291
+                  ]
+            },
+            {
+                  "name": "Zelená voda",
+                  "text": "O zonă de recreere și o stațiune populară centrată în jurul unui lac de lângă Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.856368,
+                        48.766373
+                  ]
             }
       ],
       "en": [
@@ -1466,6 +1592,24 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.87001,
                         48.821157
+                  ]
+            },
+            {
+                  "name": "Pláž Koliba",
+                  "text": "A lakeside beach resort offering recreational activities near Beckov Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.859425,
+                        48.769291
+                  ]
+            },
+            {
+                  "name": "Zelená voda",
+                  "text": "A popular recreation area and resort centered around a lake near Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.856368,
+                        48.766373
                   ]
             }
       ]
@@ -1683,6 +1827,24 @@ export const slovakiaLandmarksV2: POI[] = [
                         18.881305,
                         49.168246
                   ]
+            },
+            {
+                  "name": "Jungle park",
+                  "text": "Ein Abenteuerpark in der Nähe der Burg Strečno.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82575,
+                        49.204537
+                  ]
+            },
+            {
+                  "name": "Starý bazén pod Jedľovinou",
+                  "text": "Ein lokales Schwimmbad am Fuße des Jedľovina-Hügels.",
+                  "category": "recreational",
+                  "coords": [
+                        18.903142,
+                        49.193742
+                  ]
             }
       ],
       "hu": [
@@ -1756,6 +1918,24 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         18.881305,
                         49.168246
+                  ]
+            },
+            {
+                  "name": "Jungle park",
+                  "text": "Kalandpark Sztrecsény vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82575,
+                        49.204537
+                  ]
+            },
+            {
+                  "name": "Starý bazén pod Jedľovinou",
+                  "text": "Helyi úszómedence a Jedľovina-hegy lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.903142,
+                        49.193742
                   ]
             }
       ],
@@ -1831,6 +2011,24 @@ export const slovakiaLandmarksV2: POI[] = [
                         18.881305,
                         49.168246
                   ]
+            },
+            {
+                  "name": "Jungle park",
+                  "text": "Un parc de aventură situat în apropierea castelului Strečno.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82575,
+                        49.204537
+                  ]
+            },
+            {
+                  "name": "Starý bazén pod Jedľovinou",
+                  "text": "O piscină locală la poalele dealului Jedľovina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.903142,
+                        49.193742
+                  ]
             }
       ],
       "en": [
@@ -1904,6 +2102,24 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         18.881305,
                         49.168246
+                  ]
+            },
+            {
+                  "name": "Jungle park",
+                  "text": "An adventure park located near Strečno Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82575,
+                        49.204537
+                  ]
+            },
+            {
+                  "name": "Starý bazén pod Jedľovinou",
+                  "text": "A local swimming pool at the foot of the Jedľovina hill.",
+                  "category": "recreational",
+                  "coords": [
+                        18.903142,
+                        49.193742
                   ]
             }
       ]

@@ -228,7 +228,124 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-obostnik-history-v2.webp",
   },
   {
-    id: "montenegro-vranjina-history-v2",
+    id: "montenegro-vranjina-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lesendro",
+                  "text": "Eine historische Inselfestung im Skutarisee.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Kom",
+                  "text": "Ein serbisch-orthodoxes Kloster aus dem 15. Jahrhundert auf einer Insel im See.",
+                  "category": "religious",
+                  "coords": [
+                        19.128205,
+                        42.310081
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "Ein historisches Kloster auf der Insel Vranjina im Skutarisee.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lesendro",
+                  "text": "Történelmi szigetvár a Skadar-tavon.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Kom",
+                  "text": "15. századi szerb ortodox kolostor a tó egyik szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        19.128205,
+                        42.310081
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "Történelmi monostor a Vranjina-szigeten a Skadar-tavon.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lesendro",
+                  "text": "O fortăreață istorică situată pe o insulă în lacul Skadar.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Kom",
+                  "text": "O mănăstire ortodoxă sârbă din secolul al XV-lea pe o insulă din lac.",
+                  "category": "religious",
+                  "coords": [
+                        19.128205,
+                        42.310081
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "O mănăstire istorică pe insula Vranjina din lacul Skadar.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lesendro",
+                  "text": "A historic island fortress located in Lake Skadar.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Kom Monastry",
+                  "text": "A 15th-century Serbian Orthodox monastery on an island in the lake.",
+                  "category": "religious",
+                  "coords": [
+                        19.128205,
+                        42.310081
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "A historic monastery on Vranjina island in Lake Skadar.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ME",
     name: { de: "Vranjina", hu: "Vranjina", ro: "Vranjina", en: "Vranjina" },
@@ -463,6 +580,60 @@ export const montenegroHistoryV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Ein Strandresort an der Küste von Budva, bekannt für seine entspannte Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Eine Freizeiteinrichtung am Strand in der Nähe der historischen Altstadt von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Schwimmbadbereich in Meeresnähe für Hotelgäste und Besucher in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein exklusiver Club mit einem Infinity-Pool und Blick auf die Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Ein beliebter Badebereich direkt neben der alten Stadtmauer von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Einer der größten Wasserparks an der montenegrinischen Küste mit zahlreichen Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "hu": [
@@ -518,6 +689,60 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Tengerparti klub Budva partjainál, amely kellemes kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti szabadidős létesítmény Budva történelmi óvárosának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Tengerparti medencekomplexum szállóvendégek és látogatók számára Budván.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Exkluzív klub feszített víztükrű medencével és kilátással az Adriai-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Népszerű fürdőhely közvetlenül Budva óvárosának falai mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Montenegró partvidékének egyik legnagyobb aquaparkja számos csúszdával.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ],
@@ -575,6 +800,60 @@ export const montenegroHistoryV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Un club de plajă pe coasta Budvei, cunoscut pentru atmosfera sa relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O unitate de agrement pe plajă situată lângă centrul istoric al Budvei.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O zonă cu piscină situată aproape de mare pentru oaspeții hotelului și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Un club exclusivist cu o piscină de tip „infinity” și vedere la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "O zonă populară pentru scăldat situată chiar lângă zidurile cetății Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Unul dintre cele mai mari parcuri acvatice de pe coasta muntenegreană, cu numeroase tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "en": [
@@ -630,6 +909,60 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A beach resort on the Budva coast known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A seaside leisure facility located on the beach near Budva's historic Old Town.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A swimming pool area near the sea for hotel guests and visitors in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "An exclusive club featuring an infinity pool with views over the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A popular swimming area located right next to the city walls of Budva's Old Town.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "One of the largest water parks on the Montenegrin coast, featuring numerous slides.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ]
@@ -994,6 +1327,15 @@ export const montenegroHistoryV2: POI[] = [
                         18.902366,
                         42.234524
                   ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Ein Strandresort in der Nähe des Klosters Reževići an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
             }
       ],
       "hu": [
@@ -1058,6 +1400,15 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.902366,
                         42.234524
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Tengerparti üdülőhely a tengerparton, a Reževići-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
                   ]
             }
       ],
@@ -1124,6 +1475,15 @@ export const montenegroHistoryV2: POI[] = [
                         18.902366,
                         42.234524
                   ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "O stațiune de plajă pe coastă, situată lângă Mănăstirea Reževići.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
             }
       ],
       "en": [
@@ -1188,6 +1548,15 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.902366,
                         42.234524
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "A beach resort on the coast, located near the Reževići Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
                   ]
             }
       ]
@@ -1309,6 +1678,60 @@ export const montenegroHistoryV2: POI[] = [
                         18.886945,
                         42.275283
                   ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Plaža Miločer ist ein exklusiver Strand in Montenegro, der von einem wunderschönen Park und Olivenhainen umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Beach House ist ein Strandresort beim Kloster Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Hotels Pool ist ein Schwimmbecken beim Kloster Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Der Dudley Infinity Pool Club ist ein Schwimmbecken beim Kloster Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Pizana ist ein Schwimmbecken beim Kloster Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Plaža Hawaii (5A) ist ein Strandresort beim Kloster Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
             }
       ],
       "hu": [
@@ -1382,6 +1805,60 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.886945,
                         42.275283
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "A Plaža Miločer egy exkluzív tengerpart Montenegróban, amelyet egy gyönyörű park és olajfaligetek vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A Beach House egy strandüdülőhely a Praskvica-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A Hotels pool egy úszómedence a Praskvica-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "A Dudley Infinity Pool Club egy úszómedence a Praskvica-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A pizana egy úszómedence a Praskvica-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Plaža Hawaii (5A) egy strandüdülőhely a Praskvica-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
                   ]
             }
       ],
@@ -1457,6 +1934,60 @@ export const montenegroHistoryV2: POI[] = [
                         18.886945,
                         42.275283
                   ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Plaža Miločer este o plajă exclusivistă din Muntenegru, înconjurată de un parc superb și livezi de măslini.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Beach House este o stațiune de plajă situată lângă mănăstirea Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Hotels pool este o piscină situată lângă mănăstirea Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Dudley Infinity Pool Club este o piscină situată lângă mănăstirea Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Pizana este o piscină situată lângă mănăstirea Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Plaža Hawaii (5A) este o stațiune de plajă situată lângă mănăstirea Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
             }
       ],
       "en": [
@@ -1530,6 +2061,60 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.886945,
                         42.275283
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Plaža Miločer is an exclusive beach in Montenegro, surrounded by a beautiful park and olive groves.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Beach House is a beach resort located near Praskvica Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Hotels pool is a swimming pool located near Praskvica Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Dudley Infinity Pool Club is a swimming pool located near Praskvica Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "pizana is a swimming pool located near Praskvica Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Plaža Hawaii (5A) is a beach resort located near Praskvica Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
                   ]
             }
       ]
@@ -1660,6 +2245,51 @@ export const montenegroHistoryV2: POI[] = [
                         18.786074,
                         42.274076
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Ein Strandclub in der Nähe des Klosters Podlastva, der Entspannung am Meer ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Ein Schwimmbecken in der Nähe des Klosters Podlastva für eine erfrischende Pause.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Bazen Rondo",
+                  "text": "Ein Schwimmbad der gehobenen Kategorie in der Nähe des Klosters Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846386,
+                        42.286079
+                  ]
+            },
+            {
+                  "name": "Kids' pool",
+                  "text": "Ein hochwertiges 4-Sterne-Schwimmbad in der Umgebung des Klosters Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.847645,
+                        42.28584
+                  ]
+            },
+            {
+                  "name": "Torch Beach Club",
+                  "text": "Ein moderner Strandclub in der Nähe des Klosters Podlastva mit Küstenzugang.",
+                  "category": "recreational",
+                  "coords": [
+                        18.843854,
+                        42.284849
+                  ]
             }
       ],
       "hu": [
@@ -1742,6 +2372,51 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.786074,
                         42.274076
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Strandklub a Podlastva-kolostor közelében, kikapcsolódást kínálva a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Úszómedence a Podlastva-kolostor közelében, frissítő kikapcsolódást kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Bazen Rondo",
+                  "text": "3 csillagos kategóriájú úszómedence a Podlastva-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846386,
+                        42.286079
+                  ]
+            },
+            {
+                  "name": "Kids' pool",
+                  "text": "4 csillagos minőségű úszómedence a Podlastva-kolostor környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.847645,
+                        42.28584
+                  ]
+            },
+            {
+                  "name": "Torch Beach Club",
+                  "text": "Modern strandklub a Podlastva-kolostor közelében, hozzáféréssel a parthoz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.843854,
+                        42.284849
                   ]
             }
       ],
@@ -1826,6 +2501,51 @@ export const montenegroHistoryV2: POI[] = [
                         18.786074,
                         42.274076
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Un club de plajă lângă Mănăstirea Podlastva, oferind relaxare pe țărmul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "O piscină situată lângă Mănăstirea Podlastva, oferind o pauză revigorantă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Bazen Rondo",
+                  "text": "O piscină de categoria 3 stele plus situată lângă Mănăstirea Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846386,
+                        42.286079
+                  ]
+            },
+            {
+                  "name": "Kids' pool",
+                  "text": "O piscină de 4 stele situată în apropierea Mănăstirii Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.847645,
+                        42.28584
+                  ]
+            },
+            {
+                  "name": "Torch Beach Club",
+                  "text": "Un club de plajă modern lângă Mănăstirea Podlastva, cu acces la zona de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.843854,
+                        42.284849
+                  ]
             }
       ],
       "en": [
@@ -1908,6 +2628,51 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.786074,
                         42.274076
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A beach club near Podlastva Monastery, providing leisure facilities by the seaside.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A swimming pool located near Podlastva Monastery, offering a place for a refreshing break.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Pool 3+ star",
+                  "text": "A 3+ star category swimming pool located near Podlastva Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846386,
+                        42.286079
+                  ]
+            },
+            {
+                  "name": "Pool 4 star",
+                  "text": "A 4-star quality swimming pool located in the vicinity of Podlastva Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.847645,
+                        42.28584
+                  ]
+            },
+            {
+                  "name": "Torch Beach Club",
+                  "text": "A modern beach club near Podlastva Monastery, offering access to the shore and amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.843854,
+                        42.284849
                   ]
             }
       ]
@@ -4009,6 +4774,24 @@ export const montenegroHistoryV2: POI[] = [
                         18.964806,
                         42.193025
                   ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Ein familienorientierter Erholungspark in der Nähe des Klosters Gradište.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Ein Strandresort in der Nähe des Klosters Gradište, bekannt für seine Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
             }
       ],
       "hu": [
@@ -4082,6 +4865,24 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.964806,
                         42.193025
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "A Gradište-kolostor közelében található családi szabadidőpark.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "A Gradište-kolostor közelében található tengerparti üdülőhely, amely partvidéki tájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
                   ]
             }
       ],
@@ -4157,6 +4958,24 @@ export const montenegroHistoryV2: POI[] = [
                         18.964806,
                         42.193025
                   ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Un parc de recreere orientat spre familie situat lângă Mănăstirea Gradište.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "O zonă de stațiune de plajă lângă Mănăstirea Gradište, cunoscută pentru peisajul de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
             }
       ],
       "en": [
@@ -4230,6 +5049,24 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.964806,
                         42.193025
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "A family-oriented recreation park located near the Gradište Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "A beach resort area near the Gradište Monastery known for its coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
                   ]
             }
       ]
@@ -4423,6 +5260,42 @@ export const montenegroHistoryV2: POI[] = [
                         19.172067,
                         42.118057
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Öffentliche Badebecken in der Altstadt von Bar, die zur Entspannung und Abkühlung einladen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Ein Strandabschnitt in Bar mit touristischen Einrichtungen für einen angenehmen Aufenthalt am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Der städtische Hauptstrand in der Altstadt von Bar, ein beliebter Ort für Badegäste und Touristen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "Ein weitläufiger Strandabschnitt bei Bar, bekannt für seine entspannte Atmosphäre an der Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        19.086382,
+                        42.109047
+                  ]
             }
       ],
       "hu": [
@@ -4478,6 +5351,42 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.172067,
                         42.118057
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Nyilvános fürdőmedencék Bar óvárosában, amelyek pihenésre és felfrissülésre invitálnak.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Strandszakasz Bar közelében turisztikai szolgáltatásokkal a kellemes tengerparti időtöltéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Bar óvárosának központi strandja, amely a fürdőzők és a turisták kedvelt helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "Kiterjedt strandszakasz Bar közelében, amely az adriai partvidék nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        19.086382,
+                        42.109047
                   ]
             }
       ],
@@ -4535,6 +5444,42 @@ export const montenegroHistoryV2: POI[] = [
                         19.172067,
                         42.118057
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Bazine publice de baie în orașul vechi Bar, care invită la relaxare și răcorire.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "O secțiune de plajă în Bar, cu facilități turistice pentru un sejur plăcut la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Plaja principală a orașului în centrul vechi din Bar, un loc popular pentru înotători și turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "O secțiune extinsă de plajă lângă Bar, cunoscută pentru atmosfera sa relaxată de pe coasta Adriaticii.",
+                  "category": "recreational",
+                  "coords": [
+                        19.086382,
+                        42.109047
+                  ]
             }
       ],
       "en": [
@@ -4590,6 +5535,42 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.172067,
                         42.118057
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Public bathing pools in the Old Town of Bar, inviting visitors to relax and cool off.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "A beach section in Bar with tourist facilities for a pleasant stay by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "The main city beach in the Old Town of Bar, a popular spot for swimmers and tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "An extensive beach section near Bar, known for its relaxed atmosphere on the Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        19.086382,
+                        42.109047
                   ]
             }
       ]
@@ -5097,7 +6078,52 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-stari-grad-risan-history-v2.webp",
   },
   {
-    id: "montenegro-tvrđava-kanli-kula-gornja-history-v2",
+    id: "montenegro-tvrđava-kanli-kula-gornja-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yachting Club 32",
+                  "text": "Ein exklusiver Strandabschnitt in Herceg Novi, unterhalb der Kanli Kula Festung.",
+                  "category": "recreational",
+                  "coords": [
+                        18.531294,
+                        42.451719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yachting Club 32",
+                  "text": "Exkluzív tengerparti szakasz Herceg Noviban, a Kanli Kula erőd alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.531294,
+                        42.451719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yachting Club 32",
+                  "text": "O secțiune exclusivistă de plajă în Herceg Novi, situată sub cetatea Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.531294,
+                        42.451719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yachting Club 32",
+                  "text": "An exclusive beach section in Herceg Novi, located below the Kanli Kula fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.531294,
+                        42.451719
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Oberes Kanli Kula", hu: "Felső Kanli Kula", ro: "Kanli Kula de sus", en: "Upper Kanli Kula" },
@@ -5404,6 +6430,42 @@ export const montenegroHistoryV2: POI[] = [
                         19.123301,
                         42.133887
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Eine öffentliche Badeanlage in der Nähe des Klosters Donja Briska.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Ein Küstenabschnitt am Meer in der Nähe der Stadt Bar.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Der Hauptstrand der Stadt mit verschiedenen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "Ein für seinen roten Kies bekannter Strand an der Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        19.070483,
+                        42.120104
+                  ]
             }
       ],
       "hu": [
@@ -5459,6 +6521,42 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.123301,
                         42.133887
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Nyilvános fürdőhely a Donja Briska-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Tengerparti szakasz Bar városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "A város fő strandja, különféle szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "Vöröses kavicsairól ismert strand az adriai parton.",
+                  "category": "recreational",
+                  "coords": [
+                        19.070483,
+                        42.120104
                   ]
             }
       ],
@@ -5516,6 +6614,42 @@ export const montenegroHistoryV2: POI[] = [
                         19.123301,
                         42.133887
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "O instalație publică de scăldat situată lângă mănăstirea Donja Briska.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "O porțiune de plajă la mare situată în apropierea orașului Bar.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Plaja principală a orașului, cu diverse facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "O plajă de pe coasta Adriaticii, cunoscută pentru pietrișul său roșiatic.",
+                  "category": "recreational",
+                  "coords": [
+                        19.070483,
+                        42.120104
+                  ]
             }
       ],
       "en": [
@@ -5571,6 +6705,42 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.123301,
                         42.133887
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "A public bathing facility located near the Donja Briska Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "A coastal beach section located near the city of Bar.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "The main city beach featuring various recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "A beach on the Adriatic coast known for its reddish pebbles.",
+                  "category": "recreational",
+                  "coords": [
+                        19.070483,
+                        42.120104
                   ]
             }
       ]

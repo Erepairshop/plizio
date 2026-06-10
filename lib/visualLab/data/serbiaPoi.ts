@@ -307,6 +307,15 @@ export const serbiaNature: POI[] = [
                         19.862035,
                         45.158429
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Thermalschwimmbad-Komplex in der Region Fruška Gora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "hu": [
@@ -344,6 +353,15 @@ export const serbiaNature: POI[] = [
                   "coords": [
                         19.862035,
                         45.158429
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Termálvizes úszómedence-komplexum a Fruška Gora vidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ],
@@ -383,6 +401,15 @@ export const serbiaNature: POI[] = [
                         19.862035,
                         45.158429
                   ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Complex de piscine termale în regiunea Fruška Gora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
+                  ]
             }
       ],
       "en": [
@@ -420,6 +447,15 @@ export const serbiaNature: POI[] = [
                   "coords": [
                         19.862035,
                         45.158429
+                  ]
+            },
+            {
+                  "name": "Termal Vrdnik",
+                  "text": "Thermal swimming pool complex in the Fruška Gora region.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793038,
+                        45.136032
                   ]
             }
       ]
@@ -542,6 +578,51 @@ export const serbiaRivers: POI[] = [
                         20.464321,
                         44.80749
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Ein Schwimm- und Wellnessclub in der Nähe der Donau.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein Aquarium in Belgrad, das eine große Vielfalt an Fischen, Reptilien und tropischen Pflanzen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Abenteuerpark zum Thema Dinosaurier in der Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein beliebter Flussstrand auf der Großen Kriegsinsel in der Donau.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Einer der ältesten Zoos Europas, gelegen in der Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -615,6 +696,51 @@ export const serbiaRivers: POI[] = [
                   "coords": [
                         20.464321,
                         44.80749
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Úszó- és wellnessklub a Duna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi akvárium, amely halak, hüllők és trópusi növények széles választékát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dinoszaurusz-témájú kalandpark a Kalemegdan-erődben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Népszerű folyami strand a Dunán, a Nagy Hadi-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Európa egyik legrégebbi állatkertje, amely a Kalemegdan-erődben található.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -690,6 +816,51 @@ export const serbiaRivers: POI[] = [
                         20.464321,
                         44.80749
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Un club de înot și wellness situat lângă Dunăre.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu din Belgrad care prezintă o mare varietate de pești, reptile și plante tropicale.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc de aventură cu tematică dinozauri situat în cetatea Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă fluvială populară situată pe Insula Mare a Războiului de pe Dunăre.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Europa, situată în cetatea Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -763,6 +934,51 @@ export const serbiaRivers: POI[] = [
                   "coords": [
                         20.464321,
                         44.80749
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "A swimming and wellness club located near the Danube River.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "An aquarium in Belgrade showcasing a wide variety of fish, reptiles, and tropical plants.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A popular river beach located on the Great War Island in the Danube.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -3703,7 +3919,232 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-011 Toplicki
   {
-    id: "RS-011-prokuplje", "sights": {"de": [{"name": "Rimsko kupatilo", "text": "Die Überreste historischer römischer Thermen in Prokuplje.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "Ein Denkmal für die gefallenen Soldaten der Region Toplica.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "Ein historisches türkisches Bad aus der osmanischen Zeit.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "Ein Denkmal für den serbischen Politiker Zoran Đinđić.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "Der Rastovničko-See in Prokuplje ist ein friedliches Ausflugsziel mit schöner Aussicht auf die umliegende Natur.", "category": "natural", "coords": [21.604272, 43.210776]}], "hu": [{"name": "Rimsko kupatilo", "text": "Történelmi római fürdők maradványai Prokupljében.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "Emlékmű a Toplica régió elesett katonáinak.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "Történelmi török fürdő az oszmán korszakból.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "Emlékmű Zoran Đinđić szerb politikus tiszteletére.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "A Prokuplje-i Rastovničko-tó egy békés kirándulóhely, szép kilátással a környező természetre.", "category": "natural", "coords": [21.604272, 43.210776]}], "ro": [{"name": "Rimsko kupatilo", "text": "Rămășițele unor băi romane istorice în Prokuplje.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "Un monument dedicat soldaților căzuți din regiunea Toplica.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "O baie turcească istorică din perioada otomană.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "Un monument dedicat politicianului sârb Zoran Đinđić.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "Lacul Rastovničko din Prokuplje este o destinație de excursie pașnică, cu o priveliște frumoasă asupra naturii înconjurătoare.", "category": "natural", "coords": [21.604272, 43.210776]}], "en": [{"name": "Rimsko kupatilo", "text": "The remains of historical Roman baths in Prokuplje.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "A monument to the fallen soldiers of the Toplica region.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "A historic Turkish bath from the Ottoman era.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "A monument to the Serbian politician Zoran Đinđić.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "Rastovničko Lake in Prokuplje is a peaceful excursion destination with a beautiful view of the surrounding nature.", "category": "natural", "coords": [21.604272, 43.210776]}]},
+    id: "RS-011-prokuplje", "sights": {
+      "de": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "Die Überreste historischer römischer Thermen in Prokuplje.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "Ein Denkmal für die gefallenen Soldaten der Region Toplica.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Ein historisches türkisches Bad aus der osmanischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "Ein Denkmal für den serbischen Politiker Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "Der Rastovničko-See in Prokuplje ist ein friedliches Ausflugsziel mit schöner Aussicht auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Gradski Bazen",
+                  "text": "Das städtische Hauptschwimmbad in Prokuplje für Sport und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        21.579336,
+                        43.229989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "Történelmi római fürdők maradványai Prokupljében.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "Emlékmű a Toplica régió elesett katonáinak.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Történelmi török fürdő az oszmán korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "Emlékmű Zoran Đinđić szerb politikus tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "A Prokuplje-i Rastovničko-tó egy békés kirándulóhely, szép kilátással a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Gradski Bazen",
+                  "text": "Prokuplje fő városi uszodája sportolásra és kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        21.579336,
+                        43.229989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "Rămășițele unor băi romane istorice în Prokuplje.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "Un monument dedicat soldaților căzuți din regiunea Toplica.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "O baie turcească istorică din perioada otomană.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "Un monument dedicat politicianului sârb Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "Lacul Rastovničko din Prokuplje este o destinație de excursie pașnică, cu o priveliște frumoasă asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Gradski Bazen",
+                  "text": "Piscina principală a orașului Prokuplje pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        21.579336,
+                        43.229989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "The remains of historical Roman baths in Prokuplje.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "A monument to the fallen soldiers of the Toplica region.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "A historic Turkish bath from the Ottoman era.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "A monument to the Serbian politician Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "Rastovničko Lake in Prokuplje is a peaceful excursion destination with a beautiful view of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Gradski Bazen",
+                  "text": "The main municipal swimming pool in Prokuplje for sports and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        21.579336,
+                        43.229989
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-011",
     coords: [21.5889, 43.2339],
@@ -5822,6 +6263,15 @@ export const serbiaDistrictPoi: POI[] = [
                         20.997936,
                         43.65173
                   ]
+            },
+            {
+                  "name": "Gradski bazen ,,Trstenik\"",
+                  "text": "Das städtische Schwimmbad von Trstenik nahe dem Kloster Ljubostinja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.001651,
+                        43.622922
+                  ]
             }
       ],
       "hu": [
@@ -5832,6 +6282,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.997936,
                         43.65173
+                  ]
+            },
+            {
+                  "name": "Gradski bazen ,,Trstenik\"",
+                  "text": "Trstenik városi uszodája a Ljubostinja-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.001651,
+                        43.622922
                   ]
             }
       ],
@@ -5844,6 +6303,15 @@ export const serbiaDistrictPoi: POI[] = [
                         20.997936,
                         43.65173
                   ]
+            },
+            {
+                  "name": "Gradski bazen ,,Trstenik\"",
+                  "text": "Piscina municipală din Trstenik, situată lângă Mănăstirea Ljubostinja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.001651,
+                        43.622922
+                  ]
             }
       ],
       "en": [
@@ -5854,6 +6322,15 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.997936,
                         43.65173
+                  ]
+            },
+            {
+                  "name": "Gradski bazen ,,Trstenik\"",
+                  "text": "The municipal swimming pool of Trstenik, located near the Ljubostinja Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        21.001651,
+                        43.622922
                   ]
             }
       ]

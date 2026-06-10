@@ -2469,6 +2469,33 @@ imageHint: "Alder fen forest in Šúr",
                         17.030842,
                         48.188175
                   ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "Eine Schwimmakademie, die Kurse und Becken für verschiedene Altersgruppen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "Eine Falknerei und ein kleiner Zoo, in dem Greifvögel und andere Tiere beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "Ein flaches Schwimmbecken, das speziell für die Sicherheit und den Spaß von Babys konzipiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
+                  ]
             }
       ],
       "hu": [
@@ -2542,6 +2569,33 @@ imageHint: "Alder fen forest in Šúr",
                   "coords": [
                         17.030842,
                         48.188175
+                  ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "Úszóakadémia, amely tanfolyamokat és medencéket kínál különböző korosztályok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "Solymászat és kis állatkert, ahol ragadozó madarak és más állatok láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "Sekély úszómedence, amelyet kifejezetten a babák biztonsága és szórakozása érdekében alakítottak ki.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
                   ]
             }
       ],
@@ -2617,6 +2671,33 @@ imageHint: "Alder fen forest in Šúr",
                         17.030842,
                         48.188175
                   ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "O academie de înot care oferă cursuri și bazine pentru diverse grupe de vârstă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "O șoimărie și o mică grădină zoologică unde pot fi văzute păsări de pradă și alte animale.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "O piscină puțin adâncă concepută special pentru siguranța și distracția bebelușilor.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
+                  ]
             }
       ],
       "en": [
@@ -2690,6 +2771,33 @@ imageHint: "Alder fen forest in Šúr",
                   "coords": [
                         17.030842,
                         48.188175
+                  ]
+            },
+            {
+                  "name": "Plavecká akadémia",
+                  "text": "A swimming academy offering courses and pools for various age groups.",
+                  "category": "recreational",
+                  "coords": [
+                        16.984145,
+                        48.204521
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "A falconry and small zoo where birds of prey and other animals can be observed.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "A shallow swimming pool designed specifically for the safety and fun of babies.",
+                  "category": "recreational",
+                  "coords": [
+                        16.947512,
+                        48.151542
                   ]
             }
       ]
@@ -3175,6 +3283,15 @@ imageHint: "Poľana mountain forest landscape",
                         18.829123,
                         49.344061
                   ]
+            },
+            {
+                  "name": "Detský vodný park",
+                  "text": "Ein Wasserpark für Kinder im Landschaftsschutzgebiet Kysuce.",
+                  "category": "recreational",
+                  "coords": [
+                        18.829946,
+                        49.39291
+                  ]
             }
       ],
       "hu": [
@@ -3248,6 +3365,15 @@ imageHint: "Poľana mountain forest landscape",
                   "coords": [
                         18.829123,
                         49.344061
+                  ]
+            },
+            {
+                  "name": "Detský vodný park",
+                  "text": "Gyermek vízipark a Kiszucai Tájvédelmi Körzet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.829946,
+                        49.39291
                   ]
             }
       ],
@@ -3323,6 +3449,15 @@ imageHint: "Poľana mountain forest landscape",
                         18.829123,
                         49.344061
                   ]
+            },
+            {
+                  "name": "Detský vodný park",
+                  "text": "Un parc acvatic pentru copii în zona protejată Kysuce.",
+                  "category": "recreational",
+                  "coords": [
+                        18.829946,
+                        49.39291
+                  ]
             }
       ],
       "en": [
@@ -3396,6 +3531,15 @@ imageHint: "Poľana mountain forest landscape",
                   "coords": [
                         18.829123,
                         49.344061
+                  ]
+            },
+            {
+                  "name": "Detský vodný park",
+                  "text": "A children's water park located in the Kysuce Protected Landscape Area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.829946,
+                        49.39291
                   ]
             }
       ]

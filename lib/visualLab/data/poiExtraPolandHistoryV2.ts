@@ -4495,6 +4495,15 @@ export const polandHistoryV2: POI[] = [
                         18.940345,
                         49.980964
                   ]
+            },
+            {
+                  "name": "Clara",
+                  "text": "Eine Schwimmbadanlage in der Gegend von Pszczyna.",
+                  "category": "recreational",
+                  "coords": [
+                        18.889569,
+                        49.97844
+                  ]
             }
       ],
       "hu": [
@@ -4559,6 +4568,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.940345,
                         49.980964
+                  ]
+            },
+            {
+                  "name": "Clara",
+                  "text": "Úszómedence Pszczyna környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.889569,
+                        49.97844
                   ]
             }
       ],
@@ -4625,6 +4643,15 @@ export const polandHistoryV2: POI[] = [
                         18.940345,
                         49.980964
                   ]
+            },
+            {
+                  "name": "Clara",
+                  "text": "O unitate de înot situată în zona Pszczyna.",
+                  "category": "recreational",
+                  "coords": [
+                        18.889569,
+                        49.97844
+                  ]
             }
       ],
       "en": [
@@ -4689,6 +4716,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.940345,
                         49.980964
+                  ]
+            },
+            {
+                  "name": "Clara",
+                  "text": "A swimming pool facility located in the Pszczyna area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.889569,
+                        49.97844
                   ]
             }
       ]
@@ -5791,6 +5827,24 @@ export const polandHistoryV2: POI[] = [
                         19.789425,
                         50.013387
                   ]
+            },
+            {
+                  "name": "Basen OSiR \"Kolna\"",
+                  "text": "Ein Schwimmbad bei der Abtei Tyniec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.828285,
+                        50.030701
+                  ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "Ein Schwimmbad bei der Abtei Tyniec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
+                  ]
             }
       ],
       "hu": [
@@ -5873,6 +5927,24 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.789425,
                         50.013387
+                  ]
+            },
+            {
+                  "name": "Basen OSiR \"Kolna\"",
+                  "text": "Úszómedence a tynieci apátságnál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.828285,
+                        50.030701
+                  ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "Úszómedence a tynieci apátságnál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
                   ]
             }
       ],
@@ -5957,6 +6029,24 @@ export const polandHistoryV2: POI[] = [
                         19.789425,
                         50.013387
                   ]
+            },
+            {
+                  "name": "Basen OSiR \"Kolna\"",
+                  "text": "O piscină lângă Abația Tyniec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.828285,
+                        50.030701
+                  ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "O piscină lângă Abația Tyniec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
+                  ]
             }
       ],
       "en": [
@@ -6039,6 +6129,24 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.789425,
                         50.013387
+                  ]
+            },
+            {
+                  "name": "Basen OSiR \"Kolna\"",
+                  "text": "A swimming pool near Tyniec Abbey.",
+                  "category": "recreational",
+                  "coords": [
+                        19.828285,
+                        50.030701
+                  ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "A swimming pool near Tyniec Abbey.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
                   ]
             }
       ]
@@ -9321,6 +9429,15 @@ export const polandHistoryV2: POI[] = [
                         19.744914,
                         49.998613
                   ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "Eine Schwimmeinrichtung im Stadtteil Piekary in der Nähe des Schlosses Tyniec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
+                  ]
             }
       ],
       "hu": [
@@ -9349,6 +9466,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.744914,
                         49.998613
+                  ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "Úszólétesítmény Piekary kerületben, a tyinieci vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
                   ]
             }
       ],
@@ -9379,6 +9505,15 @@ export const polandHistoryV2: POI[] = [
                         19.744914,
                         49.998613
                   ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "O facilitate de înot situată în districtul Piekary, lângă Castelul Tyniec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
+                  ]
             }
       ],
       "en": [
@@ -9407,6 +9542,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.744914,
                         49.998613
+                  ]
+            },
+            {
+                  "name": "Basen Piekary",
+                  "text": "A swimming facility located in the Piekary district near Tyniec Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.787985,
+                        50.019935
                   ]
             }
       ]
@@ -10194,6 +10338,33 @@ export const polandHistoryV2: POI[] = [
                         21.713056,
                         50.584635
                   ]
+            },
+            {
+                  "name": "Teren kąpielowy A",
+                  "text": "Dieser Badebereich A befindet sich beim Tarnowski-Schloss in Tarnobrzeg und bietet Erholung am Seeufer.",
+                  "category": "recreational",
+                  "coords": [
+                        21.650556,
+                        50.553054
+                  ]
+            },
+            {
+                  "name": "Ranczo Reni na Jagodniku",
+                  "text": "Ranczo Reni ist ein Freizeitpark beim Tarnowski-Schloss, der ländliches Flair mit verschiedenen Attraktionen verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.717414,
+                        50.545104
+                  ]
+            },
+            {
+                  "name": "Teren kąpielowy B",
+                  "text": "Der Badebereich B beim Tarnowski-Schloss ergänzt das Freizeitangebot am See mit weiteren Schwimm- und Liegemöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        21.634837,
+                        50.548757
+                  ]
             }
       ],
       "hu": [
@@ -10276,6 +10447,33 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.713056,
                         50.584635
+                  ]
+            },
+            {
+                  "name": "Teren kąpielowy A",
+                  "text": "Ez az „A” jelű fürdőhely a tarnobrzegi Tarnowski-kastélynál található, és vízparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        21.650556,
+                        50.553054
+                  ]
+            },
+            {
+                  "name": "Ranczo Reni na Jagodniku",
+                  "text": "A Ranczo Reni egy szabadidőpark a Tarnowski-kastélynál, amely vidéki hangulatot ötvöz különféle attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.717414,
+                        50.545104
+                  ]
+            },
+            {
+                  "name": "Teren kąpielowy B",
+                  "text": "A Tarnowski-kastélynál lévő „B” jelű fürdőhely további úszási és napozási lehetőségekkel egészíti ki a tóparti kínálatot.",
+                  "category": "recreational",
+                  "coords": [
+                        21.634837,
+                        50.548757
                   ]
             }
       ],
@@ -10360,6 +10558,33 @@ export const polandHistoryV2: POI[] = [
                         21.713056,
                         50.584635
                   ]
+            },
+            {
+                  "name": "Teren kąpielowy A",
+                  "text": "Această zonă de scăldat A se află lângă Castelul Tarnowski din Tarnobrzeg, oferind relaxare pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        21.650556,
+                        50.553054
+                  ]
+            },
+            {
+                  "name": "Ranczo Reni na Jagodniku",
+                  "text": "Ranczo Reni este un parc tematic lângă Castelul Tarnowski, îmbinând farmecul rural cu diverse atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        21.717414,
+                        50.545104
+                  ]
+            },
+            {
+                  "name": "Teren kąpielowy B",
+                  "text": "Zona de scăldat B de lângă Castelul Tarnowski completează oferta de agrement la lac cu spații suplimentare pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        21.634837,
+                        50.548757
+                  ]
             }
       ],
       "en": [
@@ -10442,6 +10667,33 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.713056,
                         50.584635
+                  ]
+            },
+            {
+                  "name": "Teren kąpielowy A",
+                  "text": "This swimming area A is located near the Tarnowski Castle in Tarnobrzeg, offering lakeshore relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        21.650556,
+                        50.553054
+                  ]
+            },
+            {
+                  "name": "Ranczo Reni na Jagodniku",
+                  "text": "Ranczo Reni is a theme park near the Tarnowski Castle, combining rural flair with various attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        21.717414,
+                        50.545104
+                  ]
+            },
+            {
+                  "name": "Teren kąpielowy B",
+                  "text": "Swimming area B near the Tarnowski Castle complements the leisure options at the lake with further swimming and sunbathing spots.",
+                  "category": "recreational",
+                  "coords": [
+                        21.634837,
+                        50.548757
                   ]
             }
       ]
@@ -12363,6 +12615,15 @@ export const polandHistoryV2: POI[] = [
                         21.219904,
                         51.982244
                   ]
+            },
+            {
+                  "name": "Ośrodek Wypoczynkowy \"Brzanka\"",
+                  "text": "Ein Erholungszentrum und Strandresort in der Nähe der Burg Czersk.",
+                  "category": "recreational",
+                  "coords": [
+                        21.233374,
+                        51.98664
+                  ]
             }
       ],
       "hu": [
@@ -12436,6 +12697,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.219904,
                         51.982244
+                  ]
+            },
+            {
+                  "name": "Ośrodek Wypoczynkowy \"Brzanka\"",
+                  "text": "Üdülőközpont és tengerparti pihenőhely a czerski vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.233374,
+                        51.98664
                   ]
             }
       ],
@@ -12511,6 +12781,15 @@ export const polandHistoryV2: POI[] = [
                         21.219904,
                         51.982244
                   ]
+            },
+            {
+                  "name": "Ośrodek Wypoczynkowy \"Brzanka\"",
+                  "text": "Un centru de recreere și stațiune de plajă în apropierea Castelului Czersk.",
+                  "category": "recreational",
+                  "coords": [
+                        21.233374,
+                        51.98664
+                  ]
             }
       ],
       "en": [
@@ -12584,6 +12863,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.219904,
                         51.982244
+                  ]
+            },
+            {
+                  "name": "Ośrodek Wypoczynkowy \"Brzanka\"",
+                  "text": "A recreational center and beach resort located near Czersk Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        21.233374,
+                        51.98664
                   ]
             }
       ]
@@ -14181,6 +14469,15 @@ export const polandHistoryV2: POI[] = [
                         16.167904,
                         51.203811
                   ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "Ein Hallenbad in der Altstadt von Legnica, das zum Schwimmen und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.183652,
+                        51.208595
+                  ]
             }
       ],
       "hu": [
@@ -14272,6 +14569,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         16.167904,
                         51.203811
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "Fedett uszoda Legnica óvárosában, amely úszásra és pihenésre hívja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        16.183652,
+                        51.208595
                   ]
             }
       ],
@@ -14365,6 +14671,15 @@ export const polandHistoryV2: POI[] = [
                         16.167904,
                         51.203811
                   ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "O piscină interioară în centrul vechi din Legnica, potrivită pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        16.183652,
+                        51.208595
+                  ]
             }
       ],
       "en": [
@@ -14456,6 +14771,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         16.167904,
                         51.203811
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "An indoor swimming pool in Legnica's Old Town, perfect for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.183652,
+                        51.208595
                   ]
             }
       ]
@@ -18951,6 +19275,51 @@ export const polandHistoryV2: POI[] = [
                         17.971933,
                         53.115923
                   ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "Ein Trampolinpark in der Altstadt von Bydgoszcz, der aktive Unterhaltung für alle Altersgruppen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "Ein Schwimmbad in Bydgoszcz, das Trainings- und Freizeitschwimmen ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        17.967243,
+                        53.12037
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "Eine Schwimmeinrichtung in der Altstadt von Bydgoszcz, benannt nach dem Meeresgott.",
+                  "category": "recreational",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "Ein lokales Schwimmbad in Bydgoszcz, das Möglichkeiten zur sportlichen Betätigung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034332,
+                        53.111145
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "Ein öffentliches Schwimmbad in Bydgoszcz, ideal für eine Erfrischung im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        18.000211,
+                        53.110723
+                  ]
             }
       ],
       "hu": [
@@ -19393,6 +19762,51 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.971933,
                         53.115923
+                  ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "Trambulinpark Bydgoszcz óvárosában, amely aktív szórakozást nyújt minden korosztálynak.",
+                  "category": "recreational",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "Uszoda Bydgoszczban, amely lehetőséget biztosít edzésre és szabadidős úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        17.967243,
+                        53.12037
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "Uszoda Bydgoszcz óvárosában, amelyet a tenger istenéről neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "Helyi uszoda Bydgoszczban, amely sportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034332,
+                        53.111145
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "Nyilvános uszoda Bydgoszczban, amely ideális egy frissítő csobbanáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.000211,
+                        53.110723
                   ]
             }
       ],
@@ -19837,6 +20251,51 @@ export const polandHistoryV2: POI[] = [
                         17.971933,
                         53.115923
                   ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "Un parc de trambuline în centrul vechi din Bydgoszcz, oferind divertisment activ pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "O piscină în Bydgoszcz care permite înotul recreativ și de antrenament.",
+                  "category": "recreational",
+                  "coords": [
+                        17.967243,
+                        53.12037
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "O facilitate de înot în centrul vechi din Bydgoszcz, numită după zeul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "O piscină locală în Bydgoszcz, oferind oportunități pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034332,
+                        53.111145
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "O piscină publică în Bydgoszcz, ideală pentru o baie răcoritoare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.000211,
+                        53.110723
+                  ]
             }
       ],
       "en": [
@@ -20279,6 +20738,51 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.971933,
                         53.115923
+                  ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "A trampoline park in Bydgoszcz's Old Town offering active entertainment for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "A swimming pool in Bydgoszcz that facilitates training and recreational swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        17.967243,
+                        53.12037
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "A swimming facility in Bydgoszcz's Old Town, named after the god of the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "A local swimming pool in Bydgoszcz offering opportunities for sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034332,
+                        53.111145
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "A public swimming pool in Bydgoszcz, ideal for a refreshing dip.",
+                  "category": "recreational",
+                  "coords": [
+                        18.000211,
+                        53.110723
                   ]
             }
       ]

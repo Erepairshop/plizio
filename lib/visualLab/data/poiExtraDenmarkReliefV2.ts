@@ -67,6 +67,15 @@ export const denmarkReliefV2: POI[] = [
                         9.825099,
                         55.974775
                   ]
+            },
+            {
+                  "name": "Hem Odde",
+                  "text": "Hem Odde ist eine öffentliche Badeeinrichtung in der Nähe von Yding Skovhøj, die Erholung am Wasser ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        9.793324,
+                        56.029128
+                  ]
             }
       ],
       "hu": [
@@ -131,6 +140,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.825099,
                         55.974775
+                  ]
+            },
+            {
+                  "name": "Hem Odde",
+                  "text": "Hem Odde egy nyilvános fürdőhely Yding Skovhøj közelében, amely kikapcsolódást nyújt a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        9.793324,
+                        56.029128
                   ]
             }
       ],
@@ -197,6 +215,15 @@ export const denmarkReliefV2: POI[] = [
                         9.825099,
                         55.974775
                   ]
+            },
+            {
+                  "name": "Hem Odde",
+                  "text": "Hem Odde este o facilitate de baie publică lângă Yding Skovhøj, permițând relaxarea la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        9.793324,
+                        56.029128
+                  ]
             }
       ],
       "en": [
@@ -261,6 +288,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.825099,
                         55.974775
+                  ]
+            },
+            {
+                  "name": "Hem Odde",
+                  "text": "Hem Odde is a public bathing facility near Yding Skovhøj, providing relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        9.793324,
+                        56.029128
                   ]
             }
       ]
@@ -2164,6 +2200,15 @@ export const denmarkReliefV2: POI[] = [
                         9.427221,
                         56.253154
                   ]
+            },
+            {
+                  "name": "Hinge Søbad",
+                  "text": "Ein Badeplatz am See in der Nähe der Hügel von Kragelund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.488186,
+                        56.257695
+                  ]
             }
       ],
       "hu": [
@@ -2201,6 +2246,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.427221,
                         56.253154
+                  ]
+            },
+            {
+                  "name": "Hinge Søbad",
+                  "text": "Tóparti fürdőhely a Kragelund-dombok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.488186,
+                        56.257695
                   ]
             }
       ],
@@ -2240,6 +2294,15 @@ export const denmarkReliefV2: POI[] = [
                         9.427221,
                         56.253154
                   ]
+            },
+            {
+                  "name": "Hinge Søbad",
+                  "text": "O zonă de înot pe malul lacului, lângă dealurile din Kragelund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.488186,
+                        56.257695
+                  ]
             }
       ],
       "en": [
@@ -2277,6 +2340,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.427221,
                         56.253154
+                  ]
+            },
+            {
+                  "name": "Hinge Søbad",
+                  "text": "A lakeside swimming spot located near the Kragelund hills.",
+                  "category": "recreational",
+                  "coords": [
+                        9.488186,
+                        56.257695
                   ]
             }
       ]
@@ -3469,6 +3541,15 @@ export const denmarkReliefV2: POI[] = [
                         12.49056,
                         55.007743
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Ein Wasserpark in Borre Bakkekam mit Schwimmbecken und Freizeitangeboten.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
+                  ]
             }
       ],
       "hu": [
@@ -3542,6 +3623,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         12.49056,
                         55.007743
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Vízi park Borre Bakkekamban úszómedencékkel és szabadidős szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
                   ]
             }
       ],
@@ -3617,6 +3707,15 @@ export const denmarkReliefV2: POI[] = [
                         12.49056,
                         55.007743
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Un parc acvatic în Borre Bakkekam cu piscine și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
+                  ]
             }
       ],
       "en": [
@@ -3690,6 +3789,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         12.49056,
                         55.007743
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "A water park in Borre Bakkekam featuring swimming pools and leisure options.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
                   ]
             }
       ]
@@ -4495,6 +4603,15 @@ export const denmarkReliefV2: POI[] = [
                         9.654765,
                         56.5479
                   ]
+            },
+            {
+                  "name": "Bigum Søbad",
+                  "text": "Ein ruhiger Badeplatz am See in der Region Dovre Høje, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        9.6553,
+                        56.539575
+                  ]
             }
       ],
       "hu": [
@@ -4568,6 +4685,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.654765,
                         56.5479
+                  ]
+            },
+            {
+                  "name": "Bigum Søbad",
+                  "text": "Nyugodt tóparti fürdőhely a Dovre Høje régióban, ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        9.6553,
+                        56.539575
                   ]
             }
       ],
@@ -4643,6 +4769,15 @@ export const denmarkReliefV2: POI[] = [
                         9.654765,
                         56.5479
                   ]
+            },
+            {
+                  "name": "Bigum Søbad",
+                  "text": "Un loc liniștit de scăldat pe malul lacului în regiunea Dovre Høje, ideal pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        9.6553,
+                        56.539575
+                  ]
             }
       ],
       "en": [
@@ -4716,6 +4851,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.654765,
                         56.5479
+                  ]
+            },
+            {
+                  "name": "Bigum Søbad",
+                  "text": "A quiet lakeside swimming area in the Dovre Høje region, ideal for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        9.6553,
+                        56.539575
                   ]
             }
       ]
@@ -6988,6 +7132,15 @@ export const denmarkReliefV2: POI[] = [
                         10.186838,
                         57.538877
                   ]
+            },
+            {
+                  "name": "Vandland",
+                  "text": "Dieser Swimmingpool bei Bindslev Bakke bietet eine willkommene Erfrischung in der dänischen Landschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183335,
+                        57.585077
+                  ]
             }
       ],
       "hu": [
@@ -7043,6 +7196,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.186838,
                         57.538877
+                  ]
+            },
+            {
+                  "name": "Vandland",
+                  "text": "Ez a Bindslev Bakke melletti úszómedence kellemes felfrissülést kínál a dán tájon.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183335,
+                        57.585077
                   ]
             }
       ],
@@ -7100,6 +7262,15 @@ export const denmarkReliefV2: POI[] = [
                         10.186838,
                         57.538877
                   ]
+            },
+            {
+                  "name": "Vandland",
+                  "text": "Această piscină de lângă Bindslev Bakke oferă o răcorire binevenită în peisajul danez.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183335,
+                        57.585077
+                  ]
             }
       ],
       "en": [
@@ -7155,6 +7326,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.186838,
                         57.538877
+                  ]
+            },
+            {
+                  "name": "Swimmingpool",
+                  "text": "This swimming pool near Bindslev Bakke offers a welcome refreshment in the Danish countryside.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183335,
+                        57.585077
                   ]
             }
       ]
@@ -7402,6 +7582,24 @@ export const denmarkReliefV2: POI[] = [
                         11.559103,
                         55.438875
                   ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "Ein Badestrand in der Nähe von Sorø Bakke für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "Ein Seebad, das Möglichkeiten zum Schwimmen in natürlicher Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
+                  ]
             }
       ],
       "hu": [
@@ -7466,6 +7664,24 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.559103,
                         55.438875
+                  ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "Fürdőstrand Sorø Bakke közelében a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "Tavi fürdőhely, amely természetes környezetben kínál úszási lehetőséget.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
                   ]
             }
       ],
@@ -7532,6 +7748,24 @@ export const denmarkReliefV2: POI[] = [
                         11.559103,
                         55.438875
                   ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "O plajă pentru scăldat lângă Sorø Bakke pentru recreere de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "O baie la lac ce oferă oportunități de înot într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
+                  ]
             }
       ],
       "en": [
@@ -7596,6 +7830,24 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.559103,
                         55.438875
+                  ]
+            },
+            {
+                  "name": "Skjolden badestrand",
+                  "text": "A swimming beach near Sorø Bakke for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        11.548755,
+                        55.44153
+                  ]
+            },
+            {
+                  "name": "Søbadet ved Parnas",
+                  "text": "A lake bath offering swimming opportunities in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        11.537671,
+                        55.425073
                   ]
             }
       ]
@@ -7906,6 +8158,15 @@ export const denmarkReliefV2: POI[] = [
                         11.657499,
                         55.896871
                   ]
+            },
+            {
+                  "name": "Den Blå Lagune",
+                  "text": "Ein Wasserpark mit Wasserspaß in der Region Odsherred Bakke.",
+                  "category": "recreational",
+                  "coords": [
+                        11.6052,
+                        55.897279
+                  ]
             }
       ],
       "hu": [
@@ -7988,6 +8249,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.657499,
                         55.896871
+                  ]
+            },
+            {
+                  "name": "Den Blå Lagune",
+                  "text": "Vízi élményeket kínáló aquapark Odsherred Bakke régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        11.6052,
+                        55.897279
                   ]
             }
       ],
@@ -8072,6 +8342,15 @@ export const denmarkReliefV2: POI[] = [
                         11.657499,
                         55.896871
                   ]
+            },
+            {
+                  "name": "Den Blå Lagune",
+                  "text": "Un parc acvatic care oferă distracție în regiunea Odsherred Bakke.",
+                  "category": "recreational",
+                  "coords": [
+                        11.6052,
+                        55.897279
+                  ]
             }
       ],
       "en": [
@@ -8154,6 +8433,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.657499,
                         55.896871
+                  ]
+            },
+            {
+                  "name": "Den Blå Lagune",
+                  "text": "A water park offering aquatic fun in the Odsherred Bakke region.",
+                  "category": "recreational",
+                  "coords": [
+                        11.6052,
+                        55.897279
                   ]
             }
       ]
@@ -8617,6 +8905,15 @@ export const denmarkReliefV2: POI[] = [
                         11.977478,
                         54.770377
                   ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "Ein Tierpark auf der dänischen Insel Falster mit verschiedenen Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
+                  ]
             }
       ],
       "hu": [
@@ -8681,6 +8978,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.977478,
                         54.770377
+                  ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "Állatpark a dániai Falster szigetén, különféle állatfajokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
                   ]
             }
       ],
@@ -8747,6 +9053,15 @@ export const denmarkReliefV2: POI[] = [
                         11.977478,
                         54.770377
                   ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "Un parc de animale pe insula daneză Falster, cu diverse specii.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
+                  ]
             }
       ],
       "en": [
@@ -8811,6 +9126,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.977478,
                         54.770377
+                  ]
+            },
+            {
+                  "name": "Pangea Park Falster",
+                  "text": "An animal park on the Danish island of Falster featuring various species.",
+                  "category": "recreational",
+                  "coords": [
+                        11.892815,
+                        54.767223
                   ]
             }
       ]
@@ -8923,6 +9247,24 @@ export const denmarkReliefV2: POI[] = [
                         11.345307,
                         54.735195
                   ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "Ein Zoo in der Region Lolland Bakke, der Einblicke in die Tierwelt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.336462,
+                        54.665562
+                  ]
+            },
+            {
+                  "name": "AquaDome",
+                  "text": "Ein Wasserpark in Lolland Bakke mit verschiedenen Schwimm- und Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.331369,
+                        54.666206
+                  ]
             }
       ],
       "hu": [
@@ -8987,6 +9329,24 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.345307,
                         54.735195
+                  ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "Állatkert Lolland Bakke régiójában, amely az állatvilág megismerését kínálja.",
+                  "category": "recreational",
+                  "coords": [
+                        11.336462,
+                        54.665562
+                  ]
+            },
+            {
+                  "name": "AquaDome",
+                  "text": "Vízipark Lolland Bakke területén, különböző úszási és szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.331369,
+                        54.666206
                   ]
             }
       ],
@@ -9053,6 +9413,24 @@ export const denmarkReliefV2: POI[] = [
                         11.345307,
                         54.735195
                   ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "O grădină zoologică în regiunea Lolland Bakke, oferind contact cu lumea animală.",
+                  "category": "recreational",
+                  "coords": [
+                        11.336462,
+                        54.665562
+                  ]
+            },
+            {
+                  "name": "AquaDome",
+                  "text": "Un parc acvatic în Lolland Bakke, cu diverse facilități de înot și agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        11.331369,
+                        54.666206
+                  ]
             }
       ],
       "en": [
@@ -9117,6 +9495,24 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.345307,
                         54.735195
+                  ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "A zoo in the Lolland Bakke region, offering a glimpse into wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        11.336462,
+                        54.665562
+                  ]
+            },
+            {
+                  "name": "AquaDome",
+                  "text": "A water park in Lolland Bakke, featuring various swimming and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        11.331369,
+                        54.666206
                   ]
             }
       ]
@@ -9202,6 +9598,15 @@ export const denmarkReliefV2: POI[] = [
                         14.80492,
                         55.137054
                   ]
+            },
+            {
+                  "name": "Klemensker Svømmebad",
+                  "text": "Ein öffentliches Schwimmbad in Klemensker auf Bornholm.",
+                  "category": "recreational",
+                  "coords": [
+                        14.812205,
+                        55.174594
+                  ]
             }
       ],
       "hu": [
@@ -9239,6 +9644,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         14.80492,
                         55.137054
+                  ]
+            },
+            {
+                  "name": "Klemensker Svømmebad",
+                  "text": "Nyilvános úszómedence Bornholm szigetén, Klemenskerben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.812205,
+                        55.174594
                   ]
             }
       ],
@@ -9278,6 +9692,15 @@ export const denmarkReliefV2: POI[] = [
                         14.80492,
                         55.137054
                   ]
+            },
+            {
+                  "name": "Klemensker Svømmebad",
+                  "text": "O piscină publică în Klemensker, pe insula Bornholm.",
+                  "category": "recreational",
+                  "coords": [
+                        14.812205,
+                        55.174594
+                  ]
             }
       ],
       "en": [
@@ -9315,6 +9738,15 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         14.80492,
                         55.137054
+                  ]
+            },
+            {
+                  "name": "Klemensker Svømmebad",
+                  "text": "A public swimming pool in Klemensker on Bornholm.",
+                  "category": "recreational",
+                  "coords": [
+                        14.812205,
+                        55.174594
                   ]
             }
       ]

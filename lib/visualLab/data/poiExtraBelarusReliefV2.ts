@@ -1404,7 +1404,52 @@ imageHint: "Steep moraine ridge in Oshmyany",
     },
     image: "/poi-images/belarus-ashmyany-ridge-relief-v2.webp",
 },  {
-    id: "belarus-surazh-lowland-relief-v2",
+    id: "belarus-surazh-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laznia",
+                  "text": "Eine traditionelle öffentliche Badeanstalt in der Region Surasch.",
+                  "category": "recreational",
+                  "coords": [
+                        30.724403,
+                        55.406951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laznia",
+                  "text": "Hagyományos nyilvános fürdő a Szurazs régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        30.724403,
+                        55.406951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laznia",
+                  "text": "O baie publică tradițională situată în regiunea Suraș.",
+                  "category": "recreational",
+                  "coords": [
+                        30.724403,
+                        55.406951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laznia",
+                  "text": "A traditional public bathhouse located in the Surazh region.",
+                  "category": "recreational",
+                  "coords": [
+                        30.724403,
+                        55.406951
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "valley",
     name: { de: "Surasch-Tiefland", hu: "Szurazsi-alföld", ro: "Câmpia Suraj", en: "Surazh Lowland"},

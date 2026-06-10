@@ -418,6 +418,51 @@ export const cyprusNatureV2: POI[] = [
                         32.773221,
                         35.159251
                   ]
+            },
+            {
+                  "name": "Yeşilırmak Çilekleri",
+                  "text": "Ein bekannter Erdbeergarten im Limnitis-Flusstal, der für seine frischen Erzeugnisse geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        32.74745,
+                        35.165668
+                  ]
+            },
+            {
+                  "name": "Luman Çilekleri",
+                  "text": "Ein lokaler Betrieb im Limnitis-Flusstal, der sich auf den Anbau von Erdbeeren spezialisiert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        32.745087,
+                        35.167292
+                  ]
+            },
+            {
+                  "name": "R.H. Çilekleri",
+                  "text": "Eine lokale Erdbeerplantage im Limnitis-Flusstal, die für Besucher zugänglich ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.746546,
+                        35.166418
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "Ein beliebtes Ziel für Erdbeerliebhaber in der fruchtbaren Region des Limnitis-Flusstals.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Historische Überreste und Felsformationen in der Nähe der Ortschaft Yeşilırmak.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
+                  ]
             }
       ],
       "hu": [
@@ -428,6 +473,51 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.773221,
                         35.159251
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Çilekleri",
+                  "text": "Ismert eperkert a Limnitis-folyó völgyében, amelyet friss terményeiért kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.74745,
+                        35.165668
+                  ]
+            },
+            {
+                  "name": "Luman Çilekleri",
+                  "text": "Helyi gazdaság a Limnitis-folyó völgyében, amely epertermesztésre szakosodott.",
+                  "category": "landmark",
+                  "coords": [
+                        32.745087,
+                        35.167292
+                  ]
+            },
+            {
+                  "name": "R.H. Çilekleri",
+                  "text": "Egy helyi eperültetvény a Limnitis-folyó völgyében, amely látogatható.",
+                  "category": "landmark",
+                  "coords": [
+                        32.746546,
+                        35.166418
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "Népszerű célpont az eper kedvelői számára a Limnitis-folyó völgyének termékeny vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Történelmi maradványok és sziklaalakzatok Yeşilırmak település közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
                   ]
             }
       ],
@@ -440,6 +530,51 @@ export const cyprusNatureV2: POI[] = [
                         32.773221,
                         35.159251
                   ]
+            },
+            {
+                  "name": "Yeşilırmak Çilekleri",
+                  "text": "O grădină de căpșuni cunoscută în Valea Râului Limnitis, apreciată pentru produsele sale proaspete.",
+                  "category": "landmark",
+                  "coords": [
+                        32.74745,
+                        35.165668
+                  ]
+            },
+            {
+                  "name": "Luman Çilekleri",
+                  "text": "O fermă locală din Valea Râului Limnitis, specializată în cultivarea căpșunilor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.745087,
+                        35.167292
+                  ]
+            },
+            {
+                  "name": "R.H. Çilekleri",
+                  "text": "O plantație locală de căpșuni în Valea Râului Limnitis, deschisă vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.746546,
+                        35.166418
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "O destinație populară pentru iubitorii de căpșuni în regiunea fertilă a Văii Râului Limnitis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Vestigii istorice și formațiuni stâncoase în apropierea localității Yeşilırmak.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
+                  ]
             }
       ],
       "en": [
@@ -450,6 +585,51 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.773221,
                         35.159251
+                  ]
+            },
+            {
+                  "name": "Yesilirmak Strawberries Garden",
+                  "text": "A well-known strawberry garden in the Limnitis River Valley, valued for its fresh produce.",
+                  "category": "landmark",
+                  "coords": [
+                        32.74745,
+                        35.165668
+                  ]
+            },
+            {
+                  "name": "Luman Çilekleri",
+                  "text": "A local farm in the Limnitis River Valley specializing in strawberry cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        32.745087,
+                        35.167292
+                  ]
+            },
+            {
+                  "name": "R.H. Çilekleri",
+                  "text": "A local strawberry plantation in the Limnitis River Valley open to visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        32.746546,
+                        35.166418
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "A popular destination for strawberry lovers in the fertile region of the Limnitis River Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Historical remains and rock formations located near the village of Yeşilırmak.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
                   ]
             }
       ]

@@ -65643,6 +65643,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.547733,
                         47.253876
                   ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Ein idyllisch gelegener Wasserpark in Hinterschellenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
+                  ]
             }
       ],
       "hu": [
@@ -65941,6 +65950,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.547733,
                         47.253876
+                  ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Idilli fekvésű vízi park Hinterschellenbergben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
                   ]
             }
       ],
@@ -66241,6 +66259,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.547733,
                         47.253876
                   ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Un parc acvatic situat idilic în Hinterschellenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
+                  ]
             }
       ],
       "en": [
@@ -66539,6 +66566,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.547733,
                         47.253876
+                  ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "An idyllically located water park in Hinterschellenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
                   ]
             }
       ]
@@ -71206,6 +71242,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.599797,
                         47.246983
                   ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Ein im Wald gelegenes Freibad in Gantenstein mit verschiedenen Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
+                  ]
             }
       ],
       "hu": [
@@ -71513,6 +71558,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.599797,
                         47.246983
+                  ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Gantenstein erdei környezetében található strandfürdő több medencével.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
                   ]
             }
       ],
@@ -71822,6 +71876,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.599797,
                         47.246983
                   ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Un ștrand situat în pădure în Gantenstein, dotat cu diverse bazine.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
+                  ]
             }
       ],
       "en": [
@@ -72129,6 +72192,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.599797,
                         47.246983
+                  ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "An outdoor pool located in a forest area in Gantenstein with various basins.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
                   ]
             }
       ]
@@ -79715,6 +79787,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.550738,
                         47.215569
                   ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Das Waldbad Gisingen ist ein öffentliches Freibad und Wasserpark in Nofels.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
+                  ]
             }
       ],
       "hu": [
@@ -79977,6 +80058,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.550738,
                         47.215569
+                  ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "A Waldbad Gisingen egy nyilvános vízipark és úszómedence Nofels határában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
                   ]
             }
       ],
@@ -80241,6 +80331,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.550738,
                         47.215569
                   ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Waldbad Gisingen este un parc acvatic public și o facilitate de înot în Nofels.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
+                  ]
             }
       ],
       "en": [
@@ -80503,6 +80602,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.550738,
                         47.215569
+                  ]
+            },
+            {
+                  "name": "Waldbad Gisingen",
+                  "text": "Waldbad Gisingen is a public water park and swimming facility in Nofels.",
+                  "category": "recreational",
+                  "coords": [
+                        9.582124,
+                        47.258338
                   ]
             }
       ]

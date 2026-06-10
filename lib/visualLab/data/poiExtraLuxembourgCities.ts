@@ -724,6 +724,15 @@ export const luxembourgExtraCities: POI[] = [
                         6.134458,
                         49.604048
                   ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "Das städtische Schwimmbad von Bonnevoie in Luxemburg-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
+                  ]
             }
       ],
       "hu": [
@@ -1445,6 +1454,15 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.134458,
                         49.604048
+                  ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "Bonnevoie városi úszómedencéje Luxemburg városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
                   ]
             }
       ],
@@ -2168,6 +2186,15 @@ export const luxembourgExtraCities: POI[] = [
                         6.134458,
                         49.604048
                   ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "Piscina municipală din Bonnevoie în orașul Luxemburg.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
+                  ]
             }
       ],
       "en": [
@@ -2889,6 +2916,15 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.134458,
                         49.604048
+                  ]
+            },
+            {
+                  "name": "Piscine Municipale de Bonnevoie",
+                  "text": "The municipal swimming pool of Bonnevoie in Luxembourg City.",
+                  "category": "recreational",
+                  "coords": [
+                        6.136472,
+                        49.596257
                   ]
             }
       ]

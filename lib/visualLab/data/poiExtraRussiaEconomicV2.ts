@@ -279,7 +279,88 @@ imageHint: "Massive open-pit Mir diamond mine in Siberia",
     },
     image: "/poi-images/russia-mir-mine-economic-v2.webp",
 },  {
-    id: "russia-port-novorossiysk-economic-v2",
+    id: "russia-port-novorossiysk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Центральный пляж",
+                  "text": "Der Hauptstrand der Stadt Noworossijsk am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        37.785286,
+                        44.714948
+                  ]
+            },
+            {
+                  "name": "Пляж Нептун",
+                  "text": "Der Strand Neptun ist ein beliebter Küstenabschnitt in der Nähe des Hafens von Noworossijsk.",
+                  "category": "recreational",
+                  "coords": [
+                        37.789078,
+                        44.699174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Центральный пляж",
+                  "text": "Novorosszijszk városának fő strandja a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        37.785286,
+                        44.714948
+                  ]
+            },
+            {
+                  "name": "Пляж Нептун",
+                  "text": "A Neptun-strand egy népszerű tengerparti szakasz Novorosszijszk kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        37.789078,
+                        44.699174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Центральный пляж",
+                  "text": "Principala plajă a orașului Novorossiisk de la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        37.785286,
+                        44.714948
+                  ]
+            },
+            {
+                  "name": "Пляж Нептун",
+                  "text": "Plaja Neptun este un loc popular de coastă situat lângă Portul Novorossiysk.",
+                  "category": "recreational",
+                  "coords": [
+                        37.789078,
+                        44.699174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Центральный пляж",
+                  "text": "The main city beach of Novorossiysk on the Black Sea coast.",
+                  "category": "recreational",
+                  "coords": [
+                        37.785286,
+                        44.714948
+                  ]
+            },
+            {
+                  "name": "Пляж Нептун",
+                  "text": "Neptune Beach is a popular coastal spot located near the Port of Novorossiysk.",
+                  "category": "recreational",
+                  "coords": [
+                        37.789078,
+                        44.699174
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "port",
     name: { de: "Seehafen von Noworossijsk", hu: "Novorosszijszki tengeri kikötő", ro: "Portul maritim Novorossiisk", en: "Port of Novorossiysk"},

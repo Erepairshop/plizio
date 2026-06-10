@@ -421,6 +421,15 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                         21.62959,
                         37.643462
                   ]
+            },
+            {
+                  "name": "Splash Water Park",
+                  "text": "Der Splash Water Park ist ein Wasservergnügungspark in der Nähe des antiken Olympia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.592611,
+                        37.661248
+                  ]
             }
       ],
       "hu": [
@@ -476,6 +485,15 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   "coords": [
                         21.62959,
                         37.643462
+                  ]
+            },
+            {
+                  "name": "Splash Water Park",
+                  "text": "A Splash Water Park egy vízi vidámpark az ókori Olümpiában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.592611,
+                        37.661248
                   ]
             }
       ],
@@ -533,6 +551,15 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                         21.62959,
                         37.643462
                   ]
+            },
+            {
+                  "name": "Splash Water Park",
+                  "text": "Splash Water Park este un parc de distracții acvatic situat în Vechea Olimpie.",
+                  "category": "recreational",
+                  "coords": [
+                        21.592611,
+                        37.661248
+                  ]
             }
       ],
       "en": [
@@ -588,6 +615,15 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   "coords": [
                         21.62959,
                         37.643462
+                  ]
+            },
+            {
+                  "name": "Splash Water Park",
+                  "text": "Splash Water Park is a water-based amusement park located in Ancient Olympia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.592611,
+                        37.661248
                   ]
             }
       ]
@@ -1174,7 +1210,52 @@ imageHint: "Byzantine church and ruins in Mystras",
     },
     image: "/poi-images/greece-mystras-history-v2.webp",
 },  {
-    id: "greece-delos-history-v2",
+    id: "greece-delos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πατέρα Πλάκα",
+                  "text": "Patera Plaka ist ein kleiner Küstenbereich auf der geschichtsträchtigen Insel Delos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.312717,
+                        37.407663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πατέρα Πλάκα",
+                  "text": "Patera Plaka egy kis tengerparti szakasz a történelmi jelentőségű Délosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.312717,
+                        37.407663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πατέρα Πλάκα",
+                  "text": "Patera Plaka este o mică zonă de coastă de pe insula istorică Delos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.312717,
+                        37.407663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Patera Plaka",
+                  "text": "Patera Plaka is a small coastal area on the historically significant island of Delos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.312717,
+                        37.407663
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "ruins",
     name: { de: "Insel Delos", hu: "Délosz szigete", ro: "Insula Delos", en: "Delos Island"},
@@ -1710,6 +1791,15 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                         25.737779,
                         35.296215
                   ]
+            },
+            {
+                  "name": "Domes Aulus Elounda, Curio Collection by Hilton",
+                  "text": "Ein exklusiver Poolbereich für Gäste des Hotels in der Nähe von Spinalonga.",
+                  "category": "recreational",
+                  "coords": [
+                        25.723694,
+                        35.277252
+                  ]
             }
       ],
       "hu": [
@@ -1765,6 +1855,15 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                   "coords": [
                         25.737779,
                         35.296215
+                  ]
+            },
+            {
+                  "name": "Domes Aulus Elounda, Curio Collection by Hilton",
+                  "text": "Exkluzív medencerészleg a Spinalonga közeli szálloda vendégei számára.",
+                  "category": "recreational",
+                  "coords": [
+                        25.723694,
+                        35.277252
                   ]
             }
       ],
@@ -1822,6 +1921,15 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                         25.737779,
                         35.296215
                   ]
+            },
+            {
+                  "name": "Domes Aulus Elounda, Curio Collection by Hilton",
+                  "text": "O zonă de piscină exclusivistă pentru oaspeții hotelului de lângă Spinalonga.",
+                  "category": "recreational",
+                  "coords": [
+                        25.723694,
+                        35.277252
+                  ]
             }
       ],
       "en": [
@@ -1877,6 +1985,15 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                   "coords": [
                         25.737779,
                         35.296215
+                  ]
+            },
+            {
+                  "name": "Domes Aulus Elounda, Curio Collection by Hilton",
+                  "text": "An exclusive pool area for guests of the hotel near Spinalonga.",
+                  "category": "recreational",
+                  "coords": [
+                        25.723694,
+                        35.277252
                   ]
             }
       ]
@@ -3022,6 +3139,15 @@ imageHint: "Ruins of the ancient theater of Dodona",
                         24.311247,
                         41.012135
                   ]
+            },
+            {
+                  "name": "Parko Kuklophoriakes Agoges",
+                  "text": "Ein Verkehrserziehungspark für Kinder in der Nähe der antiken Stadt Philippi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.275606,
+                        41.035568
+                  ]
             }
       ],
       "hu": [
@@ -3086,6 +3212,15 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   "coords": [
                         24.311247,
                         41.012135
+                  ]
+            },
+            {
+                  "name": "Parko Kuklophoriakes Agoges",
+                  "text": "KRESZ-park gyermekeknek az ókori Philippi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.275606,
+                        41.035568
                   ]
             }
       ],
@@ -3152,6 +3287,15 @@ imageHint: "Ruins of the ancient theater of Dodona",
                         24.311247,
                         41.012135
                   ]
+            },
+            {
+                  "name": "Parko Kuklophoriakes Agoges",
+                  "text": "Un parc de educație rutieră pentru copii situat lângă orașul antic Filippi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.275606,
+                        41.035568
+                  ]
             }
       ],
       "en": [
@@ -3216,6 +3360,15 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   "coords": [
                         24.311247,
                         41.012135
+                  ]
+            },
+            {
+                  "name": "Parko Kuklophoriakes Agoges",
+                  "text": "A traffic education park for children located near the ancient city of Philippi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.275606,
+                        41.035568
                   ]
             }
       ]
@@ -3777,7 +3930,124 @@ imageHint: "Monument of the battle of Salamis near the coast",
   }
 ,
   {
-    id: "greece-ancient-thira-history-v2",
+    id: "greece-ancient-thira-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kamari Beach",
+                  "text": "Ein berühmter schwarzer Sandstrand auf Santorin, unterhalb des antiken Thera.",
+                  "category": "recreational",
+                  "coords": [
+                        25.48499,
+                        36.376331
+                  ]
+            },
+            {
+                  "name": "Περίβολος",
+                  "text": "Ein ruhiger Strand in Ancient Thera, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.462973,
+                        36.344322
+                  ]
+            },
+            {
+                  "name": "Perissa beach",
+                  "text": "Ein beliebter Badeort auf Santorin mit markantem schwarzem Vulkansand am Fuße des Mesa Vouno.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47193,
+                        36.352158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kamari Beach",
+                  "text": "Szantorini híres fekete homokos strandja az ókori Théra hegyének lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.48499,
+                        36.376331
+                  ]
+            },
+            {
+                  "name": "Περίβολος",
+                  "text": "Egy nyugodt tengerpart Ancient Thera területén, amely kiváló kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.462973,
+                        36.344322
+                  ]
+            },
+            {
+                  "name": "Perissa beach",
+                  "text": "Népszerű üdülőhely Szantoriniben, jellegzetes fekete vulkáni homokkal a Mesza Vouno lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47193,
+                        36.352158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kamari Beach",
+                  "text": "O celebră plajă cu nisip negru din Santorini, situată sub situl arheologic Ancient Thera.",
+                  "category": "recreational",
+                  "coords": [
+                        25.48499,
+                        36.376331
+                  ]
+            },
+            {
+                  "name": "Περίβολος",
+                  "text": "O plajă liniștită în Ancient Thera, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        25.462973,
+                        36.344322
+                  ]
+            },
+            {
+                  "name": "Perissa beach",
+                  "text": "O stațiune populară din Santorini, cu nisip vulcanic negru la poalele muntelui Mesa Vouno.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47193,
+                        36.352158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kamari Beach",
+                  "text": "A famous black sand beach on Santorini, located below Ancient Thera.",
+                  "category": "recreational",
+                  "coords": [
+                        25.48499,
+                        36.376331
+                  ]
+            },
+            {
+                  "name": "Perivolos",
+                  "text": "A calm beach in Ancient Thera, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        25.462973,
+                        36.344322
+                  ]
+            },
+            {
+                  "name": "Perissa beach",
+                  "text": "A popular resort beach on Santorini with distinctive black volcanic sand at the foot of Mesa Vouno.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47193,
+                        36.352158
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "GR",
     name: { de: "Antikes Thera", hu: "Ókori Théra", ro: "Anticul Thera", en: "Ancient Thera" },
@@ -3868,6 +4138,15 @@ imageHint: "Monument of the battle of Salamis near the coast",
                         20.67133,
                         39.133116
                   ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "Ein öffentliches Schwimmbad in der Nähe der antiken Stätte Kassopi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668166,
+                        39.083676
+                  ]
             }
       ],
       "hu": [
@@ -3914,6 +4193,15 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   "coords": [
                         20.67133,
                         39.133116
+                  ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "Nyilvános úszómedence az ókori Kasszópé közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668166,
+                        39.083676
                   ]
             }
       ],
@@ -3962,6 +4250,15 @@ imageHint: "Monument of the battle of Salamis near the coast",
                         20.67133,
                         39.133116
                   ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "O piscină publică situată lângă situl antic Kassopi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668166,
+                        39.083676
+                  ]
             }
       ],
       "en": [
@@ -4008,6 +4305,15 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   "coords": [
                         20.67133,
                         39.133116
+                  ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "A public swimming pool facility located near the ancient site of Kassopi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668166,
+                        39.083676
                   ]
             }
       ]
@@ -4444,6 +4750,24 @@ imageHint: "Monument of the battle of Salamis near the coast",
                         23.995213,
                         37.924163
                   ]
+            },
+            {
+                  "name": "Παραλία Χαμολιά",
+                  "text": "Παραλία Χαμολιά ist ein Strand in der Nähe von Brauron.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013878,
+                        37.92173
+                  ]
+            },
+            {
+                  "name": "Μικρή Χαμολιά",
+                  "text": "Μικρή Χαμολιά ist eine kleine Strandbucht in Brauron.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028471,
+                        37.923349
+                  ]
             }
       ],
       "hu": [
@@ -4481,6 +4805,24 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   "coords": [
                         23.995213,
                         37.924163
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαμολιά",
+                  "text": "A Παραλία Χαμολιά egy tengerparti strand Brauron közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013878,
+                        37.92173
+                  ]
+            },
+            {
+                  "name": "Μικρή Χαμολιά",
+                  "text": "A Μικρή Χαμολιά egy kisebb tengerparti strand Brauron közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028471,
+                        37.923349
                   ]
             }
       ],
@@ -4520,6 +4862,24 @@ imageHint: "Monument of the battle of Salamis near the coast",
                         23.995213,
                         37.924163
                   ]
+            },
+            {
+                  "name": "Παραλία Χαμολιά",
+                  "text": "Παραλία Χαμολιά este o plajă situată lângă Brauron.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013878,
+                        37.92173
+                  ]
+            },
+            {
+                  "name": "Μικρή Χαμολιά",
+                  "text": "Μικρή Χαμολιά este o plajă situată lângă Brauron.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028471,
+                        37.923349
+                  ]
             }
       ],
       "en": [
@@ -4557,6 +4917,24 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   "coords": [
                         23.995213,
                         37.924163
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαμολιά",
+                  "text": "Παραλία Χαμολιά is a beach located near Brauron.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013878,
+                        37.92173
+                  ]
+            },
+            {
+                  "name": "Μικρή Χαμολιά",
+                  "text": "Μικρή Χαμολιά is a beach located near Brauron.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028471,
+                        37.923349
                   ]
             }
       ]
@@ -4920,7 +5298,160 @@ imageHint: "Monument of the battle of Salamis near the coast",
     image: "/poi-images/greece-tyrnavos-battle-history-v2.webp",
   },
   {
-    id: "greece-akrotiri-thira-history-v2",
+    id: "greece-akrotiri-thira-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "White Beach",
+                  "text": "Ein markanter Strand auf Santorini mit dunklem vulkanischem Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        25.376422,
+                        36.35409
+                  ]
+            },
+            {
+                  "name": "Παραλία Κερκέζου",
+                  "text": "Ein Küstenbereich bei Akrotiri auf der griechischen Insel Santorini.",
+                  "category": "recreational",
+                  "coords": [
+                        25.371837,
+                        36.364132
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "Ein malerischer Strand mit hellen Felsen in der Nähe von Akrotiri.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382375,
+                        36.350443
+                  ]
+            },
+            {
+                  "name": "Roter Strand",
+                  "text": "Ein berühmter vulkanischer Strand bei Akrotiri, bekannt für seine roten Felsen und den dunklen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        25.393212,
+                        36.349062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "White Beach",
+                  "text": "Szantorini jellegzetes strandja, sötét vulkáni homokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        25.376422,
+                        36.35409
+                  ]
+            },
+            {
+                  "name": "Παραλία Κερκέζου",
+                  "text": "Tengerparti terület Akrotiri közelében, a görögországi Szantorini szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.371837,
+                        36.364132
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "Festői, világos sziklákkal övezett strand Akrotiri közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382375,
+                        36.350443
+                  ]
+            },
+            {
+                  "name": "Κόκκινη Παραλία",
+                  "text": "Híres vulkanikus strand Akrotiri közelében, amely vörös szikláiról és sötét homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        25.393212,
+                        36.349062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "White Beach",
+                  "text": "O plajă distinctivă în Santorini, cu nisip vulcanic închis la culoare.",
+                  "category": "recreational",
+                  "coords": [
+                        25.376422,
+                        36.35409
+                  ]
+            },
+            {
+                  "name": "Παραλία Κερκέζου",
+                  "text": "O zonă de coastă lângă Akrotiri, pe insula grecească Santorini.",
+                  "category": "recreational",
+                  "coords": [
+                        25.371837,
+                        36.364132
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "O plajă pitorească cu stânci deschise la culoare lângă Akrotiri.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382375,
+                        36.350443
+                  ]
+            },
+            {
+                  "name": "Κόκκινη Παραλία",
+                  "text": "O plajă vulcanică faimoasă lângă Akrotiri, cunoscută pentru stâncile roșii și nisipul închis la culoare.",
+                  "category": "recreational",
+                  "coords": [
+                        25.393212,
+                        36.349062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black Beach",
+                  "text": "A distinctive beach in Santorini with dark volcanic sand.",
+                  "category": "recreational",
+                  "coords": [
+                        25.376422,
+                        36.35409
+                  ]
+            },
+            {
+                  "name": "Kerkezu Beach",
+                  "text": "A coastal area near Akrotiri on the Greek island of Santorini.",
+                  "category": "recreational",
+                  "coords": [
+                        25.371837,
+                        36.364132
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "A picturesque beach with light-colored cliffs near Akrotiri.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382375,
+                        36.350443
+                  ]
+            },
+            {
+                  "name": "Red Beach",
+                  "text": "A famous volcanic beach near Akrotiri, known for its red cliffs and dark sand.",
+                  "category": "recreational",
+                  "coords": [
+                        25.393212,
+                        36.349062
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "GR",
     name: { de: "Akrotiri (Thira)", hu: "Akrotiri (Théra)", ro: "Akrotiri (Thira)", en: "Akrotiri (Thira)" },

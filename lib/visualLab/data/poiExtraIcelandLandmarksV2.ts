@@ -141,7 +141,52 @@ imageHint: "Sun Voyager sculpture Reykjavik",
     },
     image: "/poi-images/iceland-sun-voyager-landmarks-v2.webp",
 },  {
-    id: "iceland-perlan-landmarks-v2",
+    id: "iceland-perlan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ylströndin í Nauthólsvík",
+                  "text": "Ein künstlich angelegter Strand in Reykjavik, der mit geothermischem Wasser beheizt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.929956,
+                        64.121328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ylströndin í Nauthólsvík",
+                  "text": "Mesterséges tengerpart Reykjavíkban, amelyet geotermikus vízzel melegítenek.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.929956,
+                        64.121328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ylströndin í Nauthólsvík",
+                  "text": "O plajă artificială din Reykjavik, încălzită cu apă geotermală.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.929956,
+                        64.121328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ylströndin í Nauthólsvík",
+                  "text": "A man-made beach in Reykjavik heated with geothermal water.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.929956,
+                        64.121328
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "museum",
     name: { de: "Perlan", hu: "Perlan", ro: "Perlan", en: "Perlan"},
@@ -353,6 +398,15 @@ imageHint: "Hofdi House Reykjavik summit",
                         -20.603757,
                         64.126833
                   ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "Die Laugarás-Lagune ist ein öffentliches Bad bei der Kathedrale von Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
+                  ]
             }
       ],
       "hu": [
@@ -381,6 +435,15 @@ imageHint: "Hofdi House Reykjavik summit",
                   "coords": [
                         -20.603757,
                         64.126833
+                  ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "A Laugarás lagúna egy nyilvános fürdő a skálholti székesegyház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
                   ]
             }
       ],
@@ -411,6 +474,15 @@ imageHint: "Hofdi House Reykjavik summit",
                         -20.603757,
                         64.126833
                   ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "Laguna Laugarás este o baie publică situată lângă Catedrala Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
+                  ]
             }
       ],
       "en": [
@@ -439,6 +511,15 @@ imageHint: "Hofdi House Reykjavik summit",
                   "coords": [
                         -20.603757,
                         64.126833
+                  ]
+            },
+            {
+                  "name": "Laugarás Lagoon",
+                  "text": "Laugarás Lagoon is a public bath located near Skálholt Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.507482,
+                        64.112979
                   ]
             }
       ]
@@ -1191,7 +1272,52 @@ imageHint: "Arbaer Open Air Museum Reykjavik houses",
     },
     image: "/poi-images/iceland-arbaer-open-air-museum-landmarks-v2.webp",
 },  {
-    id: "iceland-imagine-peace-tower-landmarks-v2",
+    id: "iceland-imagine-peace-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandsteinsfjara",
+                  "text": "Sandsteinsfjara ist ein natürlicher Strandabschnitt in der Nähe des Imagine Peace Towers bei Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.860206,
+                        64.169424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandsteinsfjara",
+                  "text": "Sandsteinsfjara egy természetes tengerparti szakasz az Imagine Peace Tower közelében, Reykjavík mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.860206,
+                        64.169424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandsteinsfjara",
+                  "text": "Sandsteinsfjara este o secțiune de plajă naturală situată lângă Imagine Peace Tower, în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.860206,
+                        64.169424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandsteinsfjara",
+                  "text": "Sandsteinsfjara is a natural beach stretch located near the Imagine Peace Tower near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.860206,
+                        64.169424
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "monument",
     name: { de: "Imagine Peace Tower", hu: "Imagine Peace Tower", ro: "Imagine Peace Tower", en: "Imagine Peace Tower"},
@@ -1328,7 +1454,340 @@ imageHint: "Borgarvirki natural fortress Iceland",
     },
     image: "/poi-images/iceland-borgarvirki-landmarks-v2.webp",
 },  {
-    id: "iceland-videyjarkirkja-landmarks-v2",
+    id: "iceland-videyjarkirkja-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skarfaklettur",
+                  "text": "Ein naturbelassener Küstenabschnitt auf der Insel Viðey bei Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.86885,
+                        64.155772
+                  ]
+            },
+            {
+                  "name": "Eiðsgrandi",
+                  "text": "Ein Küstenstreifen in Reykjavík mit Panoramablick auf die Bucht Faxaflói.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.790359,
+                        64.158038
+                  ]
+            },
+            {
+                  "name": "Hulduvör",
+                  "text": "Hulduvör ist ein naturbelassener Strand auf der Insel Viðey in der Nähe von Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.856865,
+                        64.161874
+                  ]
+            },
+            {
+                  "name": "Virkisfjara",
+                  "text": "Virkisfjara ist ein naturbelassener Strand auf der Insel Viðey in der Nähe von Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.859523,
+                        64.163015
+                  ]
+            },
+            {
+                  "name": "Áttæringsvör",
+                  "text": "Áttæringsvör ist ein naturbelassener Strand auf der Insel Viðey in der Nähe von Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.861959,
+                        64.163715
+                  ]
+            },
+            {
+                  "name": "Kríusandur",
+                  "text": "Kríusandur ist ein naturbelassener Strand auf der Insel Viðey in der Nähe von Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.838343,
+                        64.155841
+                  ]
+            },
+            {
+                  "name": "Kapalfjara",
+                  "text": "Kapalfjara ist ein naturbelassener Strand auf der Insel Viðey in der Nähe von Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.846591,
+                        64.156841
+                  ]
+            },
+            {
+                  "name": "Kapalsandur",
+                  "text": "Kapalsandur ist ein naturbelassener Strand auf der Insel Viðey in der Nähe von Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.850315,
+                        64.15989
+                  ]
+            },
+            {
+                  "name": "Bæjarvör",
+                  "text": "Bæjarvör ist ein naturbelassener Strand auf der Insel Viðey in der Nähe von Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.853724,
+                        64.161198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skarfaklettur",
+                  "text": "Természetes tengerparti szakasz a Reykjavík melletti Viðey-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.86885,
+                        64.155772
+                  ]
+            },
+            {
+                  "name": "Eiðsgrandi",
+                  "text": "Reykjavíki tengerparti szakasz, panorámás kilátással a Faxaflói-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.790359,
+                        64.158038
+                  ]
+            },
+            {
+                  "name": "Hulduvör",
+                  "text": "A Hulduvör egy természetközeli tengerpart Viðey szigetén, Reykjavík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.856865,
+                        64.161874
+                  ]
+            },
+            {
+                  "name": "Virkisfjara",
+                  "text": "A Virkisfjara egy természetközeli tengerpart Viðey szigetén, Reykjavík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.859523,
+                        64.163015
+                  ]
+            },
+            {
+                  "name": "Áttæringsvör",
+                  "text": "A Áttæringsvör egy természetközeli tengerpart Viðey szigetén, Reykjavík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.861959,
+                        64.163715
+                  ]
+            },
+            {
+                  "name": "Kríusandur",
+                  "text": "A Kríusandur egy természetközeli tengerpart Viðey szigetén, Reykjavík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.838343,
+                        64.155841
+                  ]
+            },
+            {
+                  "name": "Kapalfjara",
+                  "text": "A Kapalfjara egy természetközeli tengerpart Viðey szigetén, Reykjavík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.846591,
+                        64.156841
+                  ]
+            },
+            {
+                  "name": "Kapalsandur",
+                  "text": "A Kapalsandur egy természetközeli tengerpart Viðey szigetén, Reykjavík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.850315,
+                        64.15989
+                  ]
+            },
+            {
+                  "name": "Bæjarvör",
+                  "text": "A Bæjarvör egy természetközeli tengerpart Viðey szigetén, Reykjavík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.853724,
+                        64.161198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skarfaklettur",
+                  "text": "O secțiune de coastă naturală pe insula Viðey, lângă Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.86885,
+                        64.155772
+                  ]
+            },
+            {
+                  "name": "Eiðsgrandi",
+                  "text": "O fâșie de coastă în Reykjavík, cu vedere panoramică spre golful Faxaflói.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.790359,
+                        64.158038
+                  ]
+            },
+            {
+                  "name": "Hulduvör",
+                  "text": "Hulduvör este o plajă naturală pe insula Viðey, situată în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.856865,
+                        64.161874
+                  ]
+            },
+            {
+                  "name": "Virkisfjara",
+                  "text": "Virkisfjara este o plajă naturală pe insula Viðey, situată în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.859523,
+                        64.163015
+                  ]
+            },
+            {
+                  "name": "Áttæringsvör",
+                  "text": "Áttæringsvör este o plajă naturală pe insula Viðey, situată în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.861959,
+                        64.163715
+                  ]
+            },
+            {
+                  "name": "Kríusandur",
+                  "text": "Kríusandur este o plajă naturală pe insula Viðey, situată în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.838343,
+                        64.155841
+                  ]
+            },
+            {
+                  "name": "Kapalfjara",
+                  "text": "Kapalfjara este o plajă naturală pe insula Viðey, situată în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.846591,
+                        64.156841
+                  ]
+            },
+            {
+                  "name": "Kapalsandur",
+                  "text": "Kapalsandur este o plajă naturală pe insula Viðey, situată în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.850315,
+                        64.15989
+                  ]
+            },
+            {
+                  "name": "Bæjarvör",
+                  "text": "Bæjarvör este o plajă naturală pe insula Viðey, situată în apropiere de Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.853724,
+                        64.161198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skarfaklettur",
+                  "text": "A natural coastal stretch on Viðey Island near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.86885,
+                        64.155772
+                  ]
+            },
+            {
+                  "name": "Eiðsgrandi",
+                  "text": "A coastal strip in Reykjavík offering panoramic views of Faxaflói Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.790359,
+                        64.158038
+                  ]
+            },
+            {
+                  "name": "Hulduvör",
+                  "text": "Hulduvör is a natural beach on Viðey Island, located near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.856865,
+                        64.161874
+                  ]
+            },
+            {
+                  "name": "Virkisfjara",
+                  "text": "Virkisfjara is a natural beach on Viðey Island, located near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.859523,
+                        64.163015
+                  ]
+            },
+            {
+                  "name": "Áttæringsvör",
+                  "text": "Áttæringsvör is a natural beach on Viðey Island, located near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.861959,
+                        64.163715
+                  ]
+            },
+            {
+                  "name": "Kríusandur",
+                  "text": "Kríusandur is a natural beach on Viðey Island, located near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.838343,
+                        64.155841
+                  ]
+            },
+            {
+                  "name": "Kapalfjara",
+                  "text": "Kapalfjara is a natural beach on Viðey Island, located near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.846591,
+                        64.156841
+                  ]
+            },
+            {
+                  "name": "Kapalsandur",
+                  "text": "Kapalsandur is a natural beach on Viðey Island, located near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.850315,
+                        64.15989
+                  ]
+            },
+            {
+                  "name": "Bæjarvör",
+                  "text": "Bæjarvör is a natural beach on Viðey Island, located near Reykjavík.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.853724,
+                        64.161198
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "church",
     name: { de: "Viðeyjarkirkja", hu: "Viðeyjarkirkja", ro: "Viðeyjarkirkja", en: "Viðeyjarkirkja"},

@@ -214,6 +214,33 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                         29.930925,
                         59.880645
                   ]
+            },
+            {
+                  "name": "Золотой пляж",
+                  "text": "Ein Sandstrand am Finnischen Meerbusen, in der Nähe der Schlossanlage Peterhof gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        29.939208,
+                        59.885144
+                  ]
+            },
+            {
+                  "name": "Шуваловка",
+                  "text": "Ein Kultur-Themenpark bei Peterhof, der traditionelles russisches Handwerk zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.982149,
+                        59.868154
+                  ]
+            },
+            {
+                  "name": "Skotnyi dvor",
+                  "text": "Ein historischer Wirtschaftshof mit Tieren auf dem Gelände des Schlosses Peterhof.",
+                  "category": "recreational",
+                  "coords": [
+                        29.983605,
+                        59.86806
+                  ]
             }
       ],
       "hu": [
@@ -287,6 +314,33 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   "coords": [
                         29.930925,
                         59.880645
+                  ]
+            },
+            {
+                  "name": "Золотой пляж",
+                  "text": "Homokos strand a Finn-öbölben, a Peterhof-palotaegyüttes közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.939208,
+                        59.885144
+                  ]
+            },
+            {
+                  "name": "Шуваловка",
+                  "text": "Kulturális élménypark Peterhof közelében, amely az orosz kézművességet mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        29.982149,
+                        59.868154
+                  ]
+            },
+            {
+                  "name": "Skotnyi dvor",
+                  "text": "Egy történelmi állatudvar a Peterhof palotakomplexum területén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.983605,
+                        59.86806
                   ]
             }
       ],
@@ -362,6 +416,33 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                         29.930925,
                         59.880645
                   ]
+            },
+            {
+                  "name": "Золотой пляж",
+                  "text": "O plajă cu nisip la Golful Finlandei, situată lângă complexul Palatului Peterhof.",
+                  "category": "recreational",
+                  "coords": [
+                        29.939208,
+                        59.885144
+                  ]
+            },
+            {
+                  "name": "Шуваловка",
+                  "text": "Un parc tematic cultural lângă Peterhof, care prezintă meșteșuguri tradiționale rusești.",
+                  "category": "recreational",
+                  "coords": [
+                        29.982149,
+                        59.868154
+                  ]
+            },
+            {
+                  "name": "Skotnyi dvor",
+                  "text": "O curte istorică cu animale situată în complexul Palatului Peterhof.",
+                  "category": "recreational",
+                  "coords": [
+                        29.983605,
+                        59.86806
+                  ]
             }
       ],
       "en": [
@@ -435,6 +516,33 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   "coords": [
                         29.930925,
                         59.880645
+                  ]
+            },
+            {
+                  "name": "Золотой пляж",
+                  "text": "A sandy beach on the Gulf of Finland, located near the Peterhof Palace complex.",
+                  "category": "recreational",
+                  "coords": [
+                        29.939208,
+                        59.885144
+                  ]
+            },
+            {
+                  "name": "Russian village 'Shuvalovka'",
+                  "text": "A cultural and ethnographic theme park near Peterhof showcasing traditional Russian crafts.",
+                  "category": "recreational",
+                  "coords": [
+                        29.982149,
+                        59.868154
+                  ]
+            },
+            {
+                  "name": "Skotnyi dvor",
+                  "text": "A historic animal courtyard located within the Peterhof Palace complex.",
+                  "category": "recreational",
+                  "coords": [
+                        29.983605,
+                        59.86806
                   ]
             }
       ]
@@ -1737,6 +1845,15 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                         28.735483,
                         60.732234
                   ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Ein Vergnügungspark bei der Burg Wyborg.",
+                  "category": "recreational",
+                  "coords": [
+                        28.742364,
+                        60.711369
+                  ]
             }
       ],
       "hu": [
@@ -1810,6 +1927,15 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   "coords": [
                         28.735483,
                         60.732234
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Vidámpark a viborgi várnál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.742364,
+                        60.711369
                   ]
             }
       ],
@@ -1885,6 +2011,15 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                         28.735483,
                         60.732234
                   ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Un parc de distracții lângă Castelul Vîborg.",
+                  "category": "recreational",
+                  "coords": [
+                        28.742364,
+                        60.711369
+                  ]
             }
       ],
       "en": [
@@ -1958,6 +2093,15 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   "coords": [
                         28.735483,
                         60.732234
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "A theme park located by the Vyborg Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        28.742364,
+                        60.711369
                   ]
             }
       ]
@@ -2117,6 +2261,33 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                         30.406938,
                         59.720547
                   ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Ein Schwimmbad in der Nähe des Katharinenpalasts, das Erholung in historischer Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "Ein kleiner Tierbereich mit Pfauen und Enten in der Nähe des Katharinenpalasts.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "Ein öffentliches Bad in der Nähe des Katharinenpalasts, bekannt für seine traditionellen Einrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
+                  ]
             }
       ],
       "hu": [
@@ -2181,6 +2352,33 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   "coords": [
                         30.406938,
                         59.720547
+                  ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Úszómedence a Katalin-palota közelében, amely történelmi környezetben kínál pihenést.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "Kis állatkert pávákkal és kacsákkal a Katalin-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "Nyilvános fürdő a Katalin-palota közelében, amely hagyományos szolgáltatásairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
                   ]
             }
       ],
@@ -2247,6 +2445,33 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                         30.406938,
                         59.720547
                   ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "O piscină lângă Palatul Ecaterina, oferind recreere într-un cadru istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "O mică zonă cu animale, cu păuni și rațe, în apropierea Palatului Ecaterina.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "O baie publică lângă Palatul Ecaterina, cunoscută pentru facilitățile sale tradiționale.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
+                  ]
             }
       ],
       "en": [
@@ -2311,6 +2536,33 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   "coords": [
                         30.406938,
                         59.720547
+                  ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "A swimming pool near the Catherine Palace, offering recreation in a historic setting.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
+            },
+            {
+                  "name": "Pavliny i utki",
+                  "text": "A small animal area featuring peacocks and ducks near the Catherine Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        30.380007,
+                        59.726912
+                  ]
+            },
+            {
+                  "name": "Bania No. 5",
+                  "text": "A public bath near the Catherine Palace, known for its traditional facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        30.345846,
+                        59.72929
                   ]
             }
       ]
@@ -3025,6 +3277,15 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                         29.76566,
                         59.968824
                   ]
+            },
+            {
+                  "name": "Fort Konstantin",
+                  "text": "Ein Themenpark bei der Marinekathedrale in Kronstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.703504,
+                        59.995484
+                  ]
             }
       ],
       "hu": [
@@ -3098,6 +3359,15 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   "coords": [
                         29.76566,
                         59.968824
+                  ]
+            },
+            {
+                  "name": "Fort Konstantin",
+                  "text": "Tematikus park a kronstadti tengerészeti székesegyháznál.",
+                  "category": "recreational",
+                  "coords": [
+                        29.703504,
+                        59.995484
                   ]
             }
       ],
@@ -3173,6 +3443,15 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                         29.76566,
                         59.968824
                   ]
+            },
+            {
+                  "name": "Fort Konstantin",
+                  "text": "Un parc tematic lângă Catedrala Navală din Kronstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        29.703504,
+                        59.995484
+                  ]
             }
       ],
       "en": [
@@ -3246,6 +3525,15 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   "coords": [
                         29.76566,
                         59.968824
+                  ]
+            },
+            {
+                  "name": "Fort Konstantin",
+                  "text": "A theme park located near the Kronstadt Naval Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        29.703504,
+                        59.995484
                   ]
             }
       ]
@@ -3369,6 +3657,15 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                         30.107402,
                         59.567701
                   ]
+            },
+            {
+                  "name": "Rancho \"Zolotaia podkova\"",
+                  "text": "Ein Freizeitpark in der Nähe des Gattschina-Palastes, der Unterhaltung für die ganze Familie bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        30.062081,
+                        59.586048
+                  ]
             }
       ],
       "hu": [
@@ -3397,6 +3694,15 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   "coords": [
                         30.107402,
                         59.567701
+                  ]
+            },
+            {
+                  "name": "Rancho \"Zolotaia podkova\"",
+                  "text": "Családi szórakozást kínáló élménypark a Gatcsina-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.062081,
+                        59.586048
                   ]
             }
       ],
@@ -3427,6 +3733,15 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                         30.107402,
                         59.567701
                   ]
+            },
+            {
+                  "name": "Rancho \"Zolotaia podkova\"",
+                  "text": "Un parc tematic situat lângă Palatul Gatchina, oferind divertisment pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        30.062081,
+                        59.586048
+                  ]
             }
       ],
       "en": [
@@ -3455,6 +3770,15 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   "coords": [
                         30.107402,
                         59.567701
+                  ]
+            },
+            {
+                  "name": "Rancho \"Zolotaia podkova\"",
+                  "text": "A theme park near Gatchina Palace offering entertainment for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        30.062081,
+                        59.586048
                   ]
             }
       ]
@@ -3550,6 +3874,15 @@ imageHint: "Gatchina Palace and park St Petersburg",
                         30.453334,
                         59.689112
                   ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Schwimmbecken in der Nähe des Pawlowsker Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
             }
       ],
       "hu": [
@@ -3596,6 +3929,15 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   "coords": [
                         30.453334,
                         59.689112
+                  ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Úszómedence a Pavlovszki-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
                   ]
             }
       ],
@@ -3644,6 +3986,15 @@ imageHint: "Gatchina Palace and park St Petersburg",
                         30.453334,
                         59.689112
                   ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Piscină situată în apropierea Palatului Pavlovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
+                  ]
             }
       ],
       "en": [
@@ -3690,6 +4041,15 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   "coords": [
                         30.453334,
                         59.689112
+                  ]
+            },
+            {
+                  "name": "Bassein",
+                  "text": "Swimming pool facility located near the Pavlovsk Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        30.413535,
+                        59.697937
                   ]
             }
       ]
@@ -4948,6 +5308,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Ein Virtual-Reality-Club beim Tulaer Samowar-Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Ein Exotarium mit Reptilien beim Samowar-Museum in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Ein Freizeitpark beim Samowar-Museum in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Ein Freizeitpark beim Samowar-Museum in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
+            },
+            {
+                  "name": "Komnata iarosti Raznos",
+                  "text": "Ein Wutraum-Erlebnis beim Tulaer Samowar-Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.613326,
+                        54.188358
+                  ]
             }
       ],
       "hu": [
@@ -5021,6 +5426,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Virtuális valóság klub a Tula-szamovár Múzeumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Egzotikus állatkert a Tula-szamovár Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Szórakoztató park a Tula-szamovár Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Szórakoztató park a Tula-szamovár Múzeumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
+            },
+            {
+                  "name": "Komnata iarosti Raznos",
+                  "text": "Dühöngő szoba a Tula-szamovár Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        37.613326,
+                        54.188358
                   ]
             }
       ],
@@ -5096,6 +5546,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Un club de realitate virtuală lângă Muzeul Samovarelor din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Un exotarium lângă Muzeul Samovarelor din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Un parc tematic lângă Muzeul Samovarelor din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Un parc tematic lângă Muzeul Samovarelor din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
+            },
+            {
+                  "name": "Komnata iarosti Raznos",
+                  "text": "O cameră de eliberare a furiei lângă Muzeul Samovarelor din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.613326,
+                        54.188358
+                  ]
             }
       ],
       "en": [
@@ -5169,6 +5664,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "A virtual reality club near the Tula Samovar Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "An exotarium featuring reptiles near the Tula Samovar Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "A theme park located near the Tula Samovar Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "A theme park situated near the Tula Samovar Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
+            },
+            {
+                  "name": "Komnata iarosti Raznos",
+                  "text": "A rage room experience near the Tula Samovar Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.613326,
+                        54.188358
                   ]
             }
       ]
@@ -5290,6 +5830,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "Ein Streichelzoo beim staatlichen Waffenmuseum in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Ein Virtual-Reality-Erlebnispark in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Die neue Ausstellung des Exotariums in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Ein Freizeit- und Erlebnispark im Zentrum von Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Ein Vergnügungspark in der Nähe des Waffenmuseums in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
             }
       ],
       "hu": [
@@ -5363,6 +5948,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "Állatsimogató a tulai Állami Fegyvermuzeumnál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Virtuális valóság élménypark Tulában.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "A tulai exotikus állatkert (exotarium) új kiállítása.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Szórakoztató és élménypark Tula központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Vidámpark a tulai fegyvermuzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
                   ]
             }
       ],
@@ -5438,6 +6068,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "O grădină zoologică interactivă lângă Muzeul de Arme din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Un parc de distracții cu realitate virtuală în Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Noua expoziție a exotariului din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Un parc de distracții și recreere în centrul orașului Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Un parc de distracții situat lângă Muzeul de Arme din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
             }
       ],
       "en": [
@@ -5511,6 +6186,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "A petting zoo located by the Tula State Arms Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "A virtual reality theme park club in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "The new exhibition of the Tula Exotarium zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "A leisure and entertainment theme park in Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "A theme park situated near the Tula State Arms Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
                   ]
             }
       ]
@@ -6658,6 +7378,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "Ein Streichelzoo beim Turm des Tulaer Kremls.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Ein Virtual-Reality-Club beim Turm des Tulaer Kremls.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Ein Exotarium beim Turm des Tulaer Kremls.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Ein Freizeitpark beim Turm des Tulaer Kremls.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Ein Freizeitpark beim Turm des Tulaer Kremls.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
             }
       ],
       "hu": [
@@ -6731,6 +7496,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "Állatsimogató a Tulai Kreml tornyánál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Virtuális valóság klub a Tulai Kreml tornyánál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Egzotikus állatkert a Tulai Kreml tornyánál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Szórakoztató park a Tulai Kreml tornyánál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Szórakoztató park a Tulai Kreml tornyánál.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
                   ]
             }
       ],
@@ -6806,6 +7616,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.626177,
                         54.191998
                   ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "O grădină zoologică cu animale de mângâiat lângă Turnul Kremlinului din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "Un club de realitate virtuală lângă Turnul Kremlinului din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "Un exotarium lângă Turnul Kremlinului din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "Un parc tematic lângă Turnul Kremlinului din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "Un parc tematic lângă Turnul Kremlinului din Tula.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
+                  ]
             }
       ],
       "en": [
@@ -6879,6 +7734,51 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.626177,
                         54.191998
+                  ]
+            },
+            {
+                  "name": "Trogatel'nyi zoopark",
+                  "text": "A petting zoo located near the Tula Kremlin Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        37.596199,
+                        54.179942
+                  ]
+            },
+            {
+                  "name": "Fabrika - Klub virtual'noi real'nosti",
+                  "text": "A virtual reality club near the Tula Kremlin Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        37.599277,
+                        54.175531
+                  ]
+            },
+            {
+                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
+                  "text": "An exotarium located near the Tula Kremlin Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        37.588762,
+                        54.180884
+                  ]
+            },
+            {
+                  "name": "Kharakter",
+                  "text": "A theme park near the Tula Kremlin Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        37.593657,
+                        54.197341
+                  ]
+            },
+            {
+                  "name": "Otryv",
+                  "text": "A theme park situated near the Tula Kremlin Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        37.602294,
+                        54.197773
                   ]
             }
       ]

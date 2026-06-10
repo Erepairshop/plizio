@@ -1333,6 +1333,33 @@ export const poiExtraRoV1: POI[] = [
                         21.313727,
                         46.171169
                   ]
+            },
+            {
+                  "name": "Băile termale GAI",
+                  "text": "Ein Thermalbad im Arader Stadtteil Gai, bekannt für sein mineralreiches Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        21.28339,
+                        46.202212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Neptun",
+                  "text": "Eines der größten Freizeitzentren Rumäniens am Ufer der Maros mit zahlreichen Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        21.326097,
+                        46.174504
+                  ]
+            },
+            {
+                  "name": "Piscina - Baza Sportivă C.E.T. Arad",
+                  "text": "Ein Schwimmbad innerhalb der Sportbasis C.E.T. in Arad, das für sportliche Aktivitäten genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        21.34305,
+                        46.16691
+                  ]
             }
       ],
       "hu": [
@@ -1416,6 +1443,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.313727,
                         46.171169
+                  ]
+            },
+            {
+                  "name": "Băile termale GAI",
+                  "text": "Termálfürdő Arad Gáj negyedében, amely ásványi anyagokban gazdag vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        21.28339,
+                        46.202212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Neptun",
+                  "text": "Románia egyik legnagyobb szabadidőközpontja a Maros partján, számos medencével.",
+                  "category": "recreational",
+                  "coords": [
+                        21.326097,
+                        46.174504
+                  ]
+            },
+            {
+                  "name": "Piscina - Baza Sportivă C.E.T. Arad",
+                  "text": "Az aradi C.E.T. sportbázishoz tartozó uszoda, amelyet sporttevékenységekre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        21.34305,
+                        46.16691
                   ]
             }
       ],
@@ -1501,6 +1555,33 @@ export const poiExtraRoV1: POI[] = [
                         21.313727,
                         46.171169
                   ]
+            },
+            {
+                  "name": "Băile termale GAI",
+                  "text": "Băile termale din cartierul Gai al Aradului, cunoscute pentru apa bogată în minerale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.28339,
+                        46.202212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Neptun",
+                  "text": "Unul dintre cele mai mari complexe de agrement din România, situat pe malul Mureșului.",
+                  "category": "recreational",
+                  "coords": [
+                        21.326097,
+                        46.174504
+                  ]
+            },
+            {
+                  "name": "Piscina - Baza Sportivă C.E.T. Arad",
+                  "text": "O piscină în cadrul bazei sportive C.E.T. din Arad, utilizată pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        21.34305,
+                        46.16691
+                  ]
             }
       ],
       "en": [
@@ -1584,6 +1665,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.313727,
                         46.171169
+                  ]
+            },
+            {
+                  "name": "Băile termale GAI",
+                  "text": "Thermal baths in the Gai district of Arad, known for their mineral-rich water.",
+                  "category": "recreational",
+                  "coords": [
+                        21.28339,
+                        46.202212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Neptun",
+                  "text": "One of the largest leisure complexes in Romania, located on the banks of the Mureș River.",
+                  "category": "recreational",
+                  "coords": [
+                        21.326097,
+                        46.174504
+                  ]
+            },
+            {
+                  "name": "Piscina - Baza Sportivă C.E.T. Arad",
+                  "text": "A swimming pool within the C.E.T. sports base in Arad, used for sporting activities.",
+                  "category": "recreational",
+                  "coords": [
+                        21.34305,
+                        46.16691
                   ]
             }
       ]
@@ -7796,6 +7904,60 @@ export const poiExtraRoV1: POI[] = [
                         26.1056,
                         44.4075
                   ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "Ein Wellnessbereich und Wasserpark in Bukarest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Piscina Lido",
+                  "text": "Ein öffentliches Schwimmbad in Bukarest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.098644,
+                        44.441286
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "Ein olympisches Schwimmbad in Bukarest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "Ein Wasserpark in Bukarest mit Bereichen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        26.115853,
+                        44.402456
+                  ]
+            },
+            {
+                  "name": "Orășelul Copiilor",
+                  "text": "Ein beliebter Freizeitpark für Familien in Bukarest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.109078,
+                        44.401337
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Ein öffentliches Schwimmbad in Bukarest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.159568,
+                        44.417735
+                  ]
             }
       ],
       "hu": [
@@ -8037,6 +8199,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.1056,
                         44.4075
+                  ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "Wellness-részleg és vízi park Bukarestben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Piscina Lido",
+                  "text": "Nyilvános úszómedence Bukarestben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.098644,
+                        44.441286
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "Olimpiai méretű úszómedence Bukarestben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "Vízi park Bukarestben, gyermekeknek kialakított részekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.115853,
+                        44.402456
+                  ]
+            },
+            {
+                  "name": "Orășelul Copiilor",
+                  "text": "Népszerű családi élménypark Bukarestben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.109078,
+                        44.401337
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Nyilvános úszómedence Bukarestben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.159568,
+                        44.417735
                   ]
             }
       ],
@@ -8280,6 +8496,60 @@ export const poiExtraRoV1: POI[] = [
                         26.1056,
                         44.4075
                   ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "O zonă de wellness și parc acvatic în București.",
+                  "category": "recreational",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Piscina Lido",
+                  "text": "O piscină publică în București.",
+                  "category": "recreational",
+                  "coords": [
+                        26.098644,
+                        44.441286
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "O piscină olimpică în București.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "Un parc acvatic în București, cu zone pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        26.115853,
+                        44.402456
+                  ]
+            },
+            {
+                  "name": "Orășelul Copiilor",
+                  "text": "Un parc de distracții popular pentru familii în București.",
+                  "category": "recreational",
+                  "coords": [
+                        26.109078,
+                        44.401337
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "O piscină publică în București.",
+                  "category": "recreational",
+                  "coords": [
+                        26.159568,
+                        44.417735
+                  ]
             }
       ],
       "en": [
@@ -8521,6 +8791,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.1056,
                         44.4075
+                  ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "A wellness area and water park in Bucharest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Piscina Lido",
+                  "text": "A public swimming pool in Bucharest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.098644,
+                        44.441286
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "An Olympic-sized swimming pool in Bucharest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "A water park in Bucharest with areas for children.",
+                  "category": "recreational",
+                  "coords": [
+                        26.115853,
+                        44.402456
+                  ]
+            },
+            {
+                  "name": "Children's Town",
+                  "text": "A popular theme park for families in Bucharest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.109078,
+                        44.401337
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "A public swimming pool in Bucharest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.159568,
+                        44.417735
                   ]
             }
       ]
@@ -9028,6 +9352,24 @@ export const poiExtraRoV1: POI[] = [
                         26.843034,
                         45.151804
                   ]
+            },
+            {
+                  "name": "Piscină",
+                  "text": "Eine Schwimmanlage in Buzău, die der lokalen Bevölkerung Möglichkeiten zur Freizeitgestaltung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        26.818552,
+                        45.168375
+                  ]
+            },
+            {
+                  "name": "Ștrandul Parcul Tineretului",
+                  "text": "Ein Freibad im Jugendpark von Buzău, ein beliebter Treffpunkt während der Sommermonate.",
+                  "category": "recreational",
+                  "coords": [
+                        26.83438,
+                        45.163659
+                  ]
             }
       ],
       "hu": [
@@ -9221,6 +9563,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.843034,
                         45.151804
+                  ]
+            },
+            {
+                  "name": "Piscină",
+                  "text": "Buzău városi úszómedencéje, amely kikapcsolódási lehetőséget nyújt a helyieknek.",
+                  "category": "recreational",
+                  "coords": [
+                        26.818552,
+                        45.168375
+                  ]
+            },
+            {
+                  "name": "Ștrandul Parcul Tineretului",
+                  "text": "Buzău Ifjúsági parkjában található strand, népszerű találkozóhely a nyári hónapokban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.83438,
+                        45.163659
                   ]
             }
       ],
@@ -9416,6 +9776,24 @@ export const poiExtraRoV1: POI[] = [
                         26.843034,
                         45.151804
                   ]
+            },
+            {
+                  "name": "Piscină",
+                  "text": "O facilitate de înot în Buzău care oferă localnicilor opțiuni pentru petrecerea timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        26.818552,
+                        45.168375
+                  ]
+            },
+            {
+                  "name": "Ștrandul Parcul Tineretului",
+                  "text": "Un ștrand situat în Parcul Tineretului din Buzău, un loc popular de întâlnire în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        26.83438,
+                        45.163659
+                  ]
             }
       ],
       "en": [
@@ -9609,6 +9987,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.843034,
                         45.151804
+                  ]
+            },
+            {
+                  "name": "Piscină",
+                  "text": "A swimming facility in Buzău providing leisure options for the local community.",
+                  "category": "recreational",
+                  "coords": [
+                        26.818552,
+                        45.168375
+                  ]
+            },
+            {
+                  "name": "Ștrandul Parcul Tineretului",
+                  "text": "An outdoor pool in the Youth Park of Buzău, a popular spot during the summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        26.83438,
+                        45.163659
                   ]
             }
       ]
@@ -9904,6 +10300,15 @@ export const poiExtraRoV1: POI[] = [
                         23.004741,
                         45.753175
                   ]
+            },
+            {
+                  "name": "Bazinul Copiilor 1m",
+                  "text": "Ein flaches Kinderbecken in Călan mit einer Wassertiefe von einem Meter.",
+                  "category": "recreational",
+                  "coords": [
+                        23.003087,
+                        45.753727
+                  ]
             }
       ],
       "hu": [
@@ -9934,6 +10339,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.004741,
                         45.753175
+                  ]
+            },
+            {
+                  "name": "Bazinul Copiilor 1m",
+                  "text": "Egy méter mély gyermekmedence Călan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.003087,
+                        45.753727
                   ]
             }
       ],
@@ -9966,6 +10380,15 @@ export const poiExtraRoV1: POI[] = [
                         23.004741,
                         45.753175
                   ]
+            },
+            {
+                  "name": "Bazinul Copiilor 1m",
+                  "text": "Un bazin pentru copii în Călan, cu o adâncime a apei de un metru.",
+                  "category": "recreational",
+                  "coords": [
+                        23.003087,
+                        45.753727
+                  ]
             }
       ],
       "en": [
@@ -9996,6 +10419,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.004741,
                         45.753175
+                  ]
+            },
+            {
+                  "name": "Bazinul Copiilor 1m",
+                  "text": "A children's pool in Călan with a water depth of one meter.",
+                  "category": "recreational",
+                  "coords": [
+                        23.003087,
+                        45.753727
                   ]
             }
       ]
@@ -13936,6 +14368,15 @@ export const poiExtraRoV1: POI[] = [
                         21.308305,
                         46.339898
                   ]
+            },
+            {
+                  "name": "Ștrandul Termal Curtici",
+                  "text": "Ein Wasserpark mit Thermalbecken in Curtici.",
+                  "category": "recreational",
+                  "coords": [
+                        21.303633,
+                        46.340243
+                  ]
             }
       ],
       "hu": [
@@ -13974,6 +14415,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.308305,
                         46.339898
+                  ]
+            },
+            {
+                  "name": "Ștrandul Termal Curtici",
+                  "text": "Vízi park termálvizes medencékkel Kürtösön.",
+                  "category": "recreational",
+                  "coords": [
+                        21.303633,
+                        46.340243
                   ]
             }
       ],
@@ -14014,6 +14464,15 @@ export const poiExtraRoV1: POI[] = [
                         21.308305,
                         46.339898
                   ]
+            },
+            {
+                  "name": "Ștrandul Termal Curtici",
+                  "text": "Un parc acvatic cu bazine termale în Curtici.",
+                  "category": "recreational",
+                  "coords": [
+                        21.303633,
+                        46.340243
+                  ]
             }
       ],
       "en": [
@@ -14052,6 +14511,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.308305,
                         46.339898
+                  ]
+            },
+            {
+                  "name": "Ștrandul Termal Curtici",
+                  "text": "A water park with thermal pools in Curtici.",
+                  "category": "recreational",
+                  "coords": [
+                        21.303633,
+                        46.340243
                   ]
             }
       ]
@@ -14827,6 +15295,24 @@ export const poiExtraRoV1: POI[] = [
                         26.16355,
                         44.456786
                   ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "Ein olympisches Schwimmbad in Dobroești.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Ein öffentliches Schwimmbad in Dobroești.",
+                  "category": "recreational",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
             }
       ],
       "hu": [
@@ -14902,6 +15388,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.16355,
                         44.456786
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "Olimpiai méretű úszómedence Dobroești-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Nyilvános úszómedence Dobroești-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        26.134851,
+                        44.454321
                   ]
             }
       ],
@@ -14979,6 +15483,24 @@ export const poiExtraRoV1: POI[] = [
                         26.16355,
                         44.456786
                   ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "O piscină olimpică în Dobroești.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "O piscină publică în Dobroești.",
+                  "category": "recreational",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
             }
       ],
       "en": [
@@ -15054,6 +15576,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.16355,
                         44.456786
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "An Olympic-sized swimming pool in Dobroești.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "A public swimming pool in Dobroești.",
+                  "category": "recreational",
+                  "coords": [
+                        26.134851,
+                        44.454321
                   ]
             }
       ]
@@ -15482,6 +16022,24 @@ export const poiExtraRoV1: POI[] = [
                         25.985959,
                         44.443562
                   ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "Ein Freibad in Dudu, das während der Badesaison Erholung und Abkühlung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        26.030045,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Eine Freizeitanlage in Dudu mit einem Schwimmbecken für Spiel und Spaß im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987581,
+                        44.431493
+                  ]
             }
       ],
       "hu": [
@@ -15556,6 +16114,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.985959,
                         44.443562
+                  ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "Dudu település strandja, amely a fürdőszezonban nyújt kikapcsolódást és hűsölést.",
+                  "category": "recreational",
+                  "coords": [
+                        26.030045,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Szabadidős létesítmény Duduban, úszómedencével a vízi szórakozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987581,
+                        44.431493
                   ]
             }
       ],
@@ -15632,6 +16208,24 @@ export const poiExtraRoV1: POI[] = [
                         25.985959,
                         44.443562
                   ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "Un ștrand în Dudu care oferă recreere și răcorire în timpul sezonului de scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        26.030045,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "O facilitate de agrement în Dudu cu o piscină pentru distracție în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987581,
+                        44.431493
+                  ]
             }
       ],
       "en": [
@@ -15706,6 +16300,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.985959,
                         44.443562
+                  ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "An outdoor swimming pool in Dudu offering recreation and cooling off during the bathing season.",
+                  "category": "recreational",
+                  "coords": [
+                        26.030045,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "A leisure facility in Dudu featuring a swimming pool for water fun.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987581,
+                        44.431493
                   ]
             }
       ]
@@ -15880,6 +16492,15 @@ export const poiExtraRoV1: POI[] = [
                         21.22492,
                         45.788059
                   ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "Ein Wasserpark mit verschiedenen Freizeitaktivitäten in Dumbrăvița.",
+                  "category": "recreational",
+                  "coords": [
+                        21.25445,
+                        45.770485
+                  ]
             }
       ],
       "hu": [
@@ -15918,6 +16539,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.22492,
                         45.788059
+                  ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "Vízi park különféle szabadidős tevékenységekkel Újszentesen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.25445,
+                        45.770485
                   ]
             }
       ],
@@ -15958,6 +16588,15 @@ export const poiExtraRoV1: POI[] = [
                         21.22492,
                         45.788059
                   ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "Un parc acvatic cu diverse activități de agrement în Dumbrăvița.",
+                  "category": "recreational",
+                  "coords": [
+                        21.25445,
+                        45.770485
+                  ]
             }
       ],
       "en": [
@@ -15996,6 +16635,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.22492,
                         45.788059
+                  ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "A water park with various leisure activities in Dumbrăvița.",
+                  "category": "recreational",
+                  "coords": [
+                        21.25445,
+                        45.770485
                   ]
             }
       ]
@@ -16152,6 +16800,15 @@ export const poiExtraRoV1: POI[] = [
                         28.661881,
                         44.021309
                   ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Ein Strandresort in Eforie, das Unterkünfte und direkten Zugang zu den Stränden des Schwarzen Meeres bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
             }
       ],
       "hu": [
@@ -16301,6 +16958,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.661881,
                         44.021309
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Eforie-i tengerparti üdülőhely, amely szállást és közvetlen hozzáférést biztosít a fekete-tengeri strandokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
                   ]
             }
       ],
@@ -16452,6 +17118,15 @@ export const poiExtraRoV1: POI[] = [
                         28.661881,
                         44.021309
                   ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Un complex de plajă în Eforie care oferă cazare și acces direct la plajele Mării Negre.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
             }
       ],
       "en": [
@@ -16601,6 +17276,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.661881,
                         44.021309
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "A beach resort in Eforie offering accommodation and direct access to the Black Sea beaches.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
                   ]
             }
       ]
@@ -29879,6 +30563,15 @@ export const poiExtraRoV1: POI[] = [
                         25.790752,
                         46.582861
                   ]
+            },
+            {
+                  "name": "Baia Sfânta Ana",
+                  "text": "Ein öffentliches Bad in Sândominic zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        25.76382,
+                        46.561199
+                  ]
             }
       ],
       "hu": [
@@ -29935,6 +30628,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.790752,
                         46.582861
+                  ]
+            },
+            {
+                  "name": "Szent Anna feredő",
+                  "text": "Nyilvános fürdő Csíkszentdomokoson a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        25.76382,
+                        46.561199
                   ]
             }
       ],
@@ -29993,6 +30695,15 @@ export const poiExtraRoV1: POI[] = [
                         25.790752,
                         46.582861
                   ]
+            },
+            {
+                  "name": "Baia Sfânta Ana",
+                  "text": "O baie publică în Sândominic pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        25.76382,
+                        46.561199
+                  ]
             }
       ],
       "en": [
@@ -30049,6 +30760,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.790752,
                         46.582861
+                  ]
+            },
+            {
+                  "name": "Baia Sfânta Ana",
+                  "text": "A public bath in Sândominic for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        25.76382,
+                        46.561199
                   ]
             }
       ]
@@ -30581,6 +31301,15 @@ export const poiExtraRoV1: POI[] = [
                         21.78146,
                         47.112752
                   ]
+            },
+            {
+                  "name": "Standul Iosia Nord",
+                  "text": "Ein öffentliches Schwimmbad in Sântandrei.",
+                  "category": "recreational",
+                  "coords": [
+                        21.904918,
+                        47.068761
+                  ]
             }
       ],
       "hu": [
@@ -30600,6 +31329,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.78146,
                         47.112752
+                  ]
+            },
+            {
+                  "name": "Standul Iosia Nord",
+                  "text": "Nyilvános úszómedence Biharszentandráson.",
+                  "category": "recreational",
+                  "coords": [
+                        21.904918,
+                        47.068761
                   ]
             }
       ],
@@ -30621,6 +31359,15 @@ export const poiExtraRoV1: POI[] = [
                         21.78146,
                         47.112752
                   ]
+            },
+            {
+                  "name": "Standul Iosia Nord",
+                  "text": "O piscină publică în Sântandrei.",
+                  "category": "recreational",
+                  "coords": [
+                        21.904918,
+                        47.068761
+                  ]
             }
       ],
       "en": [
@@ -30640,6 +31387,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.78146,
                         47.112752
+                  ]
+            },
+            {
+                  "name": "Standul Iosia Nord",
+                  "text": "A public swimming pool in Sântandrei.",
+                  "category": "recreational",
+                  "coords": [
+                        21.904918,
+                        47.068761
                   ]
             }
       ]
@@ -31847,6 +32603,15 @@ export const poiExtraRoV1: POI[] = [
                         26.232279,
                         47.621113
                   ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "Ein Schwimmbad in Sfântu Ilie, das Besuchern in der Region Bademöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        26.20284,
+                        47.651669
+                  ]
             }
       ],
       "hu": [
@@ -31884,6 +32649,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.232279,
                         47.621113
+                  ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "Uszoda Sfântu Ilie településen, amely fürdőzési lehetőséget kínál a régió látogatóinak.",
+                  "category": "recreational",
+                  "coords": [
+                        26.20284,
+                        47.651669
                   ]
             }
       ],
@@ -31923,6 +32697,15 @@ export const poiExtraRoV1: POI[] = [
                         26.232279,
                         47.621113
                   ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "Un ștrand în Sfântu Ilie, care oferă facilități de scăldat pentru vizitatorii din regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        26.20284,
+                        47.651669
+                  ]
             }
       ],
       "en": [
@@ -31960,6 +32743,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.232279,
                         47.621113
+                  ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "A swimming pool in Sfântu Ilie providing bathing facilities for visitors in the region.",
+                  "category": "recreational",
+                  "coords": [
+                        26.20284,
+                        47.651669
                   ]
             }
       ]

@@ -582,6 +582,33 @@ imageHint: "Novo Mesto historic center on Krka river loop",
                         15.867819,
                         46.431495
                   ]
+            },
+            {
+                  "name": "Terme Ptuj",
+                  "text": "Ein großer Thermal-Wasserpark in Ptuj mit zahlreichen Innen- und Außenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        15.856254,
+                        46.421877
+                  ]
+            },
+            {
+                  "name": "Termalni park - zunanji zimski bazen",
+                  "text": "Ein Außenbecken des Terme Ptuj Wasserparks, das auch im Winter zum Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.855256,
+                        46.421832
+                  ]
+            },
+            {
+                  "name": "Rimski kamp Poetovio",
+                  "text": "Ein historischer Themenpark in Ptuj, der das Leben in einem antiken römischen Lager veranschaulicht.",
+                  "category": "recreational",
+                  "coords": [
+                        15.85974,
+                        46.441408
+                  ]
             }
       ],
       "hu": [
@@ -628,6 +655,33 @@ imageHint: "Novo Mesto historic center on Krka river loop",
                   "coords": [
                         15.867819,
                         46.431495
+                  ]
+            },
+            {
+                  "name": "Terme Ptuj",
+                  "text": "Hatalmas termálvizes park Ptujban, számos beltéri és kültéri medencével.",
+                  "category": "recreational",
+                  "coords": [
+                        15.856254,
+                        46.421877
+                  ]
+            },
+            {
+                  "name": "Termalni park - zunanji zimski bazen",
+                  "text": "A Terme Ptuj vízipark külső téli medencéje, amely hidegebb időben is használható.",
+                  "category": "recreational",
+                  "coords": [
+                        15.855256,
+                        46.421832
+                  ]
+            },
+            {
+                  "name": "Rimski kamp Poetovio",
+                  "text": "Történelmi élménypark Ptujban, amely az ókori római táborok életét mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        15.85974,
+                        46.441408
                   ]
             }
       ],
@@ -676,6 +730,33 @@ imageHint: "Novo Mesto historic center on Krka river loop",
                         15.867819,
                         46.431495
                   ]
+            },
+            {
+                  "name": "Terme Ptuj",
+                  "text": "Un mare parc acvatic termal în Ptuj, cu numeroase piscine interioare și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        15.856254,
+                        46.421877
+                  ]
+            },
+            {
+                  "name": "Termalni park - zunanji zimski bazen",
+                  "text": "O piscină exterioară de iarnă a parcului acvatic Terme Ptuj, deschisă pentru baie și în sezonul rece.",
+                  "category": "recreational",
+                  "coords": [
+                        15.855256,
+                        46.421832
+                  ]
+            },
+            {
+                  "name": "Rimski kamp Poetovio",
+                  "text": "Un parc tematic istoric din Ptuj, care ilustrează viața într-un vechi lagăr roman.",
+                  "category": "recreational",
+                  "coords": [
+                        15.85974,
+                        46.441408
+                  ]
             }
       ],
       "en": [
@@ -722,6 +803,33 @@ imageHint: "Novo Mesto historic center on Krka river loop",
                   "coords": [
                         15.867819,
                         46.431495
+                  ]
+            },
+            {
+                  "name": "Terme Ptuj",
+                  "text": "A large thermal water park in Ptuj featuring numerous indoor and outdoor pools.",
+                  "category": "recreational",
+                  "coords": [
+                        15.856254,
+                        46.421877
+                  ]
+            },
+            {
+                  "name": "Termalni park - zunanji zimski bazen",
+                  "text": "An outdoor winter pool at the Terme Ptuj water park, open for swimming during the colder months.",
+                  "category": "recreational",
+                  "coords": [
+                        15.855256,
+                        46.421832
+                  ]
+            },
+            {
+                  "name": "Roman camp Poetovio",
+                  "text": "A historical theme park in Ptuj that showcases life in an ancient Roman camp.",
+                  "category": "recreational",
+                  "coords": [
+                        15.85974,
+                        46.441408
                   ]
             }
       ]

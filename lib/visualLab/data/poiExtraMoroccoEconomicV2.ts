@@ -312,6 +312,51 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                         -2.936537,
                         35.294079
                   ]
+            },
+            {
+                  "name": "Playa de San Lorenzo",
+                  "text": "Der Strand San Lorenzo ist ein zentraler Küstenabschnitt in der spanischen Exklave Melilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.937257,
+                        35.286836
+                  ]
+            },
+            {
+                  "name": "Playa Los Militares",
+                  "text": "Ein städtischer Strand in Melilla, der häufig von Einheimischen und Besuchern genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.936084,
+                        35.29753
+                  ]
+            },
+            {
+                  "name": "Playa del Hipódromo",
+                  "text": "Ein Sandstrand in Melilla, der direkt an das Stadtgebiet angrenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.934823,
+                        35.277571
+                  ]
+            },
+            {
+                  "name": "Playa de los Cárabos",
+                  "text": "Dieser Strand in Melilla ist für seine gute Erreichbarkeit und die Uferpromenade bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.93774,
+                        35.283606
+                  ]
+            },
+            {
+                  "name": "Playa de la Hípica",
+                  "text": "Playa de la Hípica ist ein bekannter Stadtstrand in Melilla, nahe der Grenze gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.930912,
+                        35.274754
+                  ]
             }
       ],
       "hu": [
@@ -376,6 +421,51 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   "coords": [
                         -2.936537,
                         35.294079
+                  ]
+            },
+            {
+                  "name": "Playa de San Lorenzo",
+                  "text": "A San Lorenzo-strand Melilla spanyol exklávé egyik központi tengerparti szakasza.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.937257,
+                        35.286836
+                  ]
+            },
+            {
+                  "name": "Playa Los Militares",
+                  "text": "Városi strand Melillában, amelyet a helyiek és a látogatók egyaránt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.936084,
+                        35.29753
+                  ]
+            },
+            {
+                  "name": "Playa del Hipódromo",
+                  "text": "Homokos strand Melillában, amely közvetlenül a városi terület mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.934823,
+                        35.277571
+                  ]
+            },
+            {
+                  "name": "Playa de los Cárabos",
+                  "text": "Ez a melillai strand könnyű megközelíthetőségéről és parti sétányáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.93774,
+                        35.283606
+                  ]
+            },
+            {
+                  "name": "Playa de la Hípica",
+                  "text": "A Playa de la Hípica egy ismert városi strand Melillában, a határ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.930912,
+                        35.274754
                   ]
             }
       ],
@@ -442,6 +532,51 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                         -2.936537,
                         35.294079
                   ]
+            },
+            {
+                  "name": "Playa de San Lorenzo",
+                  "text": "Plaja San Lorenzo este o secțiune centrală de coastă din exclava spaniolă Melilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.937257,
+                        35.286836
+                  ]
+            },
+            {
+                  "name": "Playa Los Militares",
+                  "text": "O plajă urbană în Melilla, frecventată atât de localnici, cât și de vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.936084,
+                        35.29753
+                  ]
+            },
+            {
+                  "name": "Playa del Hipódromo",
+                  "text": "O plajă cu nisip în Melilla, situată chiar lângă zona urbană.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.934823,
+                        35.277571
+                  ]
+            },
+            {
+                  "name": "Playa de los Cárabos",
+                  "text": "Această plajă din Melilla este cunoscută pentru accesibilitate și promenada de la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.93774,
+                        35.283606
+                  ]
+            },
+            {
+                  "name": "Playa de la Hípica",
+                  "text": "Playa de la Hípica este o plajă urbană cunoscută în Melilla, situată aproape de graniță.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.930912,
+                        35.274754
+                  ]
             }
       ],
       "en": [
@@ -506,6 +641,51 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   "coords": [
                         -2.936537,
                         35.294079
+                  ]
+            },
+            {
+                  "name": "Playa de San Lorenzo",
+                  "text": "San Lorenzo Beach is a central coastal section in the Spanish enclave of Melilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.937257,
+                        35.286836
+                  ]
+            },
+            {
+                  "name": "Playa Los Militares",
+                  "text": "An urban beach in Melilla, frequently used by locals and visitors alike.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.936084,
+                        35.29753
+                  ]
+            },
+            {
+                  "name": "Playa del Hipódromo",
+                  "text": "A sandy beach in Melilla located right next to the urban area.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.934823,
+                        35.277571
+                  ]
+            },
+            {
+                  "name": "Playa de los Cárabos",
+                  "text": "This beach in Melilla is known for its accessibility and seaside promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.93774,
+                        35.283606
+                  ]
+            },
+            {
+                  "name": "Playa de la Hípica",
+                  "text": "Playa de la Hípica is a well-known urban beach in Melilla, located near the border.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.930912,
+                        35.274754
                   ]
             }
       ]

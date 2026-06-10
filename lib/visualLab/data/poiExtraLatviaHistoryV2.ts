@@ -481,6 +481,15 @@ export const latviaHistoryV2: POI[] = [
                         25.2162,
                         57.553392
                   ]
+            },
+            {
+                  "name": "Mini Zoo Mežiņi",
+                  "text": "Der Mini Zoo Mežiņi ist ein kleiner Tierpark bei der Rubene-Kirche, der besonders für Familien mit Kindern attraktiv ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.11666,
+                        57.546999
+                  ]
             }
       ],
       "hu": [
@@ -518,6 +527,15 @@ export const latviaHistoryV2: POI[] = [
                   "coords": [
                         25.2162,
                         57.553392
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Mežiņi",
+                  "text": "A Mežiņi Mini Zoo egy kis állatkert a Rubene-templom közelében, amely különösen vonzó a gyermekes családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        25.11666,
+                        57.546999
                   ]
             }
       ],
@@ -557,6 +575,15 @@ export const latviaHistoryV2: POI[] = [
                         25.2162,
                         57.553392
                   ]
+            },
+            {
+                  "name": "Mini Zoo Mežiņi",
+                  "text": "Mini Zoo Mežiņi este un mic parc zoologic lângă Biserica Rubene, fiind atractiv în special pentru familiile cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        25.11666,
+                        57.546999
+                  ]
             }
       ],
       "en": [
@@ -594,6 +621,15 @@ export const latviaHistoryV2: POI[] = [
                   "coords": [
                         25.2162,
                         57.553392
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Mežiņi",
+                  "text": "Mini Zoo Mežiņi is a small animal park near Rubene Church, particularly attractive for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        25.11666,
+                        57.546999
                   ]
             }
       ]

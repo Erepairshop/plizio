@@ -1144,6 +1144,15 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                         5.1835,
                         50.100108
                   ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "Ein weitläufiges Naturschutzgebiet in der Nähe von Han-sur-Lesse, das für seine Höhlensysteme bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
+                  ]
             }
       ],
       "hu": [
@@ -1217,6 +1226,15 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                   "coords": [
                         5.1835,
                         50.100108
+                  ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "Kiterjedt természetvédelmi terület Han-sur-Lesse közelében, amely barlangrendszeréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
                   ]
             }
       ],
@@ -1292,6 +1310,15 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                         5.1835,
                         50.100108
                   ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "O rezervație naturală vastă lângă Han-sur-Lesse, cunoscută pentru sistemul său de peșteri.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
+                  ]
             }
       ],
       "en": [
@@ -1365,6 +1392,15 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                   "coords": [
                         5.1835,
                         50.100108
+                  ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "A vast nature reserve near Han-sur-Lesse, famous for its impressive cave systems.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
                   ]
             }
       ]
@@ -1895,6 +1931,15 @@ imageHint: "Wild orchids growing on a limestone slope",
                         2.598347,
                         51.081171
                   ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "Ein Themenbereich oder Park im Naturschutzgebiet Westhoek.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
+                  ]
             }
       ],
       "hu": [
@@ -1968,6 +2013,15 @@ imageHint: "Wild orchids growing on a limestone slope",
                   "coords": [
                         2.598347,
                         51.081171
+                  ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "Tematikus részleg vagy park a Westhoek természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
                   ]
             }
       ],
@@ -2043,6 +2097,15 @@ imageHint: "Wild orchids growing on a limestone slope",
                         2.598347,
                         51.081171
                   ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "O zonă tematică sau un parc în rezervația naturală Westhoek.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
+                  ]
             }
       ],
       "en": [
@@ -2116,6 +2179,15 @@ imageHint: "Wild orchids growing on a limestone slope",
                   "coords": [
                         2.598347,
                         51.081171
+                  ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "A themed area or park located within the Westhoek Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
                   ]
             }
       ]

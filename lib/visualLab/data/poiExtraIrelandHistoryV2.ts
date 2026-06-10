@@ -2082,7 +2082,88 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-kells-priory-history-v2.webp",
   },
   {
-    id: "ireland-asdee-history-v2", "sights": {"de": [{"name": "Littor Strand", "text": "Nahe dem kleinen Dorf Asdee gelegen, ist Littor Strand ein friedlicher und weitläufiger Sandstrand in Irland. Der Küstenabschnitt bietet eine idyllische Kulisse für ruhige Spaziergänge und lädt dazu ein, die maritime Umgebung in sich aufzunehmen. Wer unberührte Natur ohne große Menschenmassen schätzt, wird diesen Ort lieben. An einem sonnigen Tag kommt das schimmernde Wasser der Flussmündung besonders gut zur Geltung.", "category": "recreational", "coords": [-9.572781, 52.571966]}], "hu": [{"name": "Littor Strand", "text": "Az Asdee kis falu közelében fekvő Littor Strand egy békés és tágas homokos partszakasz Írországban. A strand idilli környezetet teremt a csendes parti sétákhoz és a derűs tengeri környezet élvezetéhez. Különösen kedvelt azok körében, akik értékelik az érintetlen természeti szépséget tömeg nélkül. Egy napsütéses napon a torkolat csillogó vize lenyűgöző látványt nyújt.", "category": "recreational", "coords": [-9.572781, 52.571966]}], "ro": [{"name": "Littor Strand", "text": "Situată în apropiere de micul sat Asdee, Littor Strand este o întindere de nisip pașnică și expansivă din Irlanda. Plaja oferă un cadru idilic pentru plimbări liniștite și pentru a vă bucura de mediul maritim senin. Este favorită printre cei care apreciază frumusețea naturală neatinsă, departe de aglomerație. O vizită într-o zi însorită evidențiază apele strălucitoare ale estuarului.", "category": "recreational", "coords": [-9.572781, 52.571966]}], "en": [{"name": "Littor Strand", "text": "Situated near the small village of Asdee, Littor Strand is a peaceful and expansive stretch of sand in Ireland. The beach provides an idyllic setting for quiet coastal walks and enjoying the serene maritime environment. It is a favorite among those who appreciate unspoiled natural beauty without the crowds. Arriving on a sunny day highlights the shimmering waters of the estuary.", "category": "recreational", "coords": [-9.572781, 52.571966]}]},
+    id: "ireland-asdee-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Littor Strand",
+                  "text": "Nahe dem kleinen Dorf Asdee gelegen, ist Littor Strand ein friedlicher und weitläufiger Sandstrand in Irland. Der Küstenabschnitt bietet eine idyllische Kulisse für ruhige Spaziergänge und lädt dazu ein, die maritime Umgebung in sich aufzunehmen. Wer unberührte Natur ohne große Menschenmassen schätzt, wird diesen Ort lieben. An einem sonnigen Tag kommt das schimmernde Wasser der Flussmündung besonders gut zur Geltung.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            },
+            {
+                  "name": "Beale Strand",
+                  "text": "Ein sandiger Strandbereich an der Küste in der Nähe von Asdee.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.611299,
+                        52.578004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Littor Strand",
+                  "text": "Az Asdee kis falu közelében fekvő Littor Strand egy békés és tágas homokos partszakasz Írországban. A strand idilli környezetet teremt a csendes parti sétákhoz és a derűs tengeri környezet élvezetéhez. Különösen kedvelt azok körében, akik értékelik az érintetlen természeti szépséget tömeg nélkül. Egy napsütéses napon a torkolat csillogó vize lenyűgöző látványt nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            },
+            {
+                  "name": "Beale Strand",
+                  "text": "Homokos strandterület Asdee közelében a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.611299,
+                        52.578004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Littor Strand",
+                  "text": "Situată în apropiere de micul sat Asdee, Littor Strand este o întindere de nisip pașnică și expansivă din Irlanda. Plaja oferă un cadru idilic pentru plimbări liniștite și pentru a vă bucura de mediul maritim senin. Este favorită printre cei care apreciază frumusețea naturală neatinsă, departe de aglomerație. O vizită într-o zi însorită evidențiază apele strălucitoare ale estuarului.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            },
+            {
+                  "name": "Beale Strand",
+                  "text": "O zonă de plajă cu nisip situată pe coastă, în apropiere de Asdee.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.611299,
+                        52.578004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Littor Strand",
+                  "text": "Situated near the small village of Asdee, Littor Strand is a peaceful and expansive stretch of sand in Ireland. The beach provides an idyllic setting for quiet coastal walks and enjoying the serene maritime environment. It is a favorite among those who appreciate unspoiled natural beauty without the crowds. Arriving on a sunny day highlights the shimmering waters of the estuary.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            },
+            {
+                  "name": "Beale Strand",
+                  "text": "A sandy beach area located on the coast near Asdee.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.611299,
+                        52.578004
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "IE",
     name: { de: "Asdee", hu: "Asdee", ro: "Asdee", en: "Asdee" },
@@ -3019,6 +3100,15 @@ export const irelandHistoryV2: POI[] = [
                         -8.5193,
                         54.089083
                   ]
+            },
+            {
+                  "name": "Eagles Flying - Irish Raptor Research Centre",
+                  "text": "Irlands größtes Greifvogelzentrum bei Schloss Ballymote mit täglichen Flugvorführungen und einem Streichelzoo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.571949,
+                        54.101669
+                  ]
             }
       ],
       "hu": [
@@ -3092,6 +3182,15 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -8.5193,
                         54.089083
+                  ]
+            },
+            {
+                  "name": "Eagles Flying - Irish Raptor Research Centre",
+                  "text": "Írország legnagyobb ragadozómadár-központja Ballymote kastélyánál, napi repítési bemutatókkal és állatsimogatóval.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.571949,
+                        54.101669
                   ]
             }
       ],
@@ -3167,6 +3266,15 @@ export const irelandHistoryV2: POI[] = [
                         -8.5193,
                         54.089083
                   ]
+            },
+            {
+                  "name": "Eagles Flying - Irish Raptor Research Centre",
+                  "text": "Cel mai mare centru de păsări răpitoare din Irlanda, lângă Castelul Ballymote, cu demonstrații zilnice de zbor și grădină zoologică.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.571949,
+                        54.101669
+                  ]
             }
       ],
       "en": [
@@ -3240,6 +3348,15 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -8.5193,
                         54.089083
+                  ]
+            },
+            {
+                  "name": "Eagles Flying - Irish Raptor Research Centre",
+                  "text": "Ireland's largest bird of prey center near Ballymote Castle, featuring daily flying demonstrations and a petting zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.571949,
+                        54.101669
                   ]
             }
       ]

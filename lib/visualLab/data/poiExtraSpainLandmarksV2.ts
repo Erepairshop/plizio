@@ -509,7 +509,52 @@ imageHint: "Hanging Houses of Cuenca overlooking the gorge",
     },
     image: "/poi-images/spain-hanging-houses-cuenca-landmarks-v2.webp",
 },  {
-    id: "spain-palau-musica-catalana-landmarks-v2",
+    id: "spain-palau-musica-catalana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Platja de la Barceloneta",
+                  "text": "Der berühmteste Strand Barcelonas, der direkt an das historische Fischerviertel grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        2.193203,
+                        41.379434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Platja de la Barceloneta",
+                  "text": "Barcelona leghíresebb strandja, amely közvetlenül a történelmi halásznegyed mellett fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        2.193203,
+                        41.379434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Platja de la Barceloneta",
+                  "text": "Cea mai faimoasă plajă din Barcelona, situată chiar lângă cartierul istoric al pescarilor.",
+                  "category": "recreational",
+                  "coords": [
+                        2.193203,
+                        41.379434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Platja de la Barceloneta",
+                  "text": "Barcelona's most famous beach, located right next to the historic fishing district.",
+                  "category": "recreational",
+                  "coords": [
+                        2.193203,
+                        41.379434
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "theater",
     name: { de: "Palau de la Música Catalana", hu: "Palau de la Música Catalana", ro: "Palatul Muzicii Catalane", en: "Palau de la Música Catalana"},
@@ -757,6 +802,15 @@ imageHint: "City of Arts and Sciences Valencia at night",
                         1.862035,
                         41.619272
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Ein lokales städtisches Schwimmbad in der Umgebung von Montserrat.",
+                  "category": "recreational",
+                  "coords": [
+                        1.857085,
+                        41.631749
+                  ]
             }
       ],
       "hu": [
@@ -821,6 +875,15 @@ imageHint: "City of Arts and Sciences Valencia at night",
                   "coords": [
                         1.862035,
                         41.619272
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Helyi önkormányzati úszómedence Montserrat környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.857085,
+                        41.631749
                   ]
             }
       ],
@@ -887,6 +950,15 @@ imageHint: "City of Arts and Sciences Valencia at night",
                         1.862035,
                         41.619272
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "O piscină municipală locală care deservește zona din jurul Montserrat.",
+                  "category": "recreational",
+                  "coords": [
+                        1.857085,
+                        41.631749
+                  ]
             }
       ],
       "en": [
@@ -951,6 +1023,15 @@ imageHint: "City of Arts and Sciences Valencia at night",
                   "coords": [
                         1.862035,
                         41.619272
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "A local municipal swimming pool serving the area around Montserrat.",
+                  "category": "recreational",
+                  "coords": [
+                        1.857085,
+                        41.631749
                   ]
             }
       ]
@@ -1276,7 +1357,52 @@ imageHint: "Castillo de Loarre fortress on a rocky hill",
     },
     image: "/poi-images/spain-castillo-loarre-landmarks-v2.webp",
 },  {
-    id: "spain-palma-cathedral-landmarks-v2",
+    id: "spain-palma-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Platja de Cala Major",
+                  "text": "Ein bekannter Strand in Palma, in der Nähe des Marivent-Palastes gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        2.606428,
+                        39.552165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Platja de Cala Major",
+                  "text": "Palma egyik legismertebb strandja, amely a Marivent-palota közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        2.606428,
+                        39.552165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Platja de Cala Major",
+                  "text": "O plajă renumită în Palma, situată în apropierea Palatului Marivent.",
+                  "category": "recreational",
+                  "coords": [
+                        2.606428,
+                        39.552165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Platja de Cala Major",
+                  "text": "A well-known beach in Palma, located close to the Marivent Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        2.606428,
+                        39.552165
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "cathedral",
     name: { de: "Kathedrale von Palma", hu: "Palmai székesegyház", ro: "Catedrala din Palma", en: "Palma Cathedral"},
@@ -1441,6 +1567,15 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                         1.08568,
                         41.367739
                   ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "Ein großes Schwimmbecken zur Erholung in der Nähe des Klosters von Poblet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
+                  ]
             }
       ],
       "hu": [
@@ -1514,6 +1649,15 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   "coords": [
                         1.08568,
                         41.367739
+                  ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "Nagy úszómedence, amely kikapcsolódást nyújt a pobleti kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
                   ]
             }
       ],
@@ -1589,6 +1733,15 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                         1.08568,
                         41.367739
                   ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "O piscină mare care oferă recreere lângă Mănăstirea Poblet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
+                  ]
             }
       ],
       "en": [
@@ -1662,6 +1815,15 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   "coords": [
                         1.08568,
                         41.367739
+                  ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "A large swimming pool providing recreation near the Monastery of Poblet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
                   ]
             }
       ]

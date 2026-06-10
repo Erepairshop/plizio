@@ -2374,6 +2374,15 @@ export const spainReliefV2: POI[] = [
                         -4.521754,
                         39.495297
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Navas de Estena",
+                  "text": "Das städtische Schwimmbad von Navas de Estena in den Bergen von Toledo.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.526922,
+                        39.490815
+                  ]
             }
       ],
       "hu": [
@@ -2393,6 +2402,15 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -4.521754,
                         39.495297
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Navas de Estena",
+                  "text": "Navas de Estena önkormányzati uszodája a Toledói-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.526922,
+                        39.490815
                   ]
             }
       ],
@@ -2414,6 +2432,15 @@ export const spainReliefV2: POI[] = [
                         -4.521754,
                         39.495297
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Navas de Estena",
+                  "text": "Piscina municipală din Navas de Estena, în Munții Toledo.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.526922,
+                        39.490815
+                  ]
             }
       ],
       "en": [
@@ -2433,6 +2460,15 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -4.521754,
                         39.495297
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Navas de Estena",
+                  "text": "The municipal swimming pool of Navas de Estena in the Mountains of Toledo.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.526922,
+                        39.490815
                   ]
             }
       ]
@@ -4896,6 +4932,24 @@ export const spainReliefV2: POI[] = [
                         1.496358,
                         41.517159
                   ]
+            },
+            {
+                  "name": "Castell de la Roqueta",
+                  "text": "Die Ruinen einer mittelalterlichen Burg im katalanischen Küstengebirge.",
+                  "category": "castle",
+                  "coords": [
+                        1.484816,
+                        41.528409
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Ein städtisches Schwimmbad in der Region der katalanischen Küstenkette.",
+                  "category": "recreational",
+                  "coords": [
+                        1.530449,
+                        41.470548
+                  ]
             }
       ],
       "hu": [
@@ -4960,6 +5014,24 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         1.496358,
                         41.517159
+                  ]
+            },
+            {
+                  "name": "Castell de la Roqueta",
+                  "text": "Középkori várrom a Katalán-partvidéki hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        1.484816,
+                        41.528409
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Városi úszómedence a Katalán-partvidéki hegység területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.530449,
+                        41.470548
                   ]
             }
       ],
@@ -5026,6 +5098,24 @@ export const spainReliefV2: POI[] = [
                         1.496358,
                         41.517159
                   ]
+            },
+            {
+                  "name": "Castell de la Roqueta",
+                  "text": "Ruinele unui castel medieval din lanțul muntos de coastă catalan.",
+                  "category": "castle",
+                  "coords": [
+                        1.484816,
+                        41.528409
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "O piscină municipală situată în zona lanțului muntos litoral catalan.",
+                  "category": "recreational",
+                  "coords": [
+                        1.530449,
+                        41.470548
+                  ]
             }
       ],
       "en": [
@@ -5090,6 +5180,24 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         1.496358,
                         41.517159
+                  ]
+            },
+            {
+                  "name": "Castell de la Roqueta",
+                  "text": "The ruins of a medieval castle in the Catalan Coastal Range.",
+                  "category": "castle",
+                  "coords": [
+                        1.484816,
+                        41.528409
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "A municipal swimming pool located in the Catalan Coastal Range area.",
+                  "category": "recreational",
+                  "coords": [
+                        1.530449,
+                        41.470548
                   ]
             }
       ]
@@ -7726,6 +7834,15 @@ export const spainReliefV2: POI[] = [
                         -2.491313,
                         38.663864
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Das städtische Schwimmbad der Region Sierra de Alcaraz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.503284,
+                        38.632076
+                  ]
             }
       ],
       "hu": [
@@ -7772,6 +7889,15 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -2.491313,
                         38.663864
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Sierra de Alcaraz régió önkormányzati úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.503284,
+                        38.632076
                   ]
             }
       ],
@@ -7820,6 +7946,15 @@ export const spainReliefV2: POI[] = [
                         -2.491313,
                         38.663864
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Piscina municipală din regiunea Sierra de Alcaraz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.503284,
+                        38.632076
+                  ]
             }
       ],
       "en": [
@@ -7866,6 +8001,15 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -2.491313,
                         38.663864
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "The municipal swimming pool of the Sierra de Alcaraz region.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.503284,
+                        38.632076
                   ]
             }
       ]
@@ -7924,6 +8068,33 @@ export const spainReliefV2: POI[] = [
                         -6.685774,
                         40.233478
                   ]
+            },
+            {
+                  "name": "Piscina municipal de Gata",
+                  "text": "Das öffentliche Schwimmbad von Gata in der Sierra de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.592453,
+                        40.237508
+                  ]
+            },
+            {
+                  "name": "Piscina Camping",
+                  "text": "Ein Schwimmbad auf einem Campingplatz in der Region Sierra de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642246,
+                        40.214028
+                  ]
+            },
+            {
+                  "name": "Piscinas Naturales La Huerta",
+                  "text": "Natürliche Flussbadebecken in der Nähe der Ortschaft Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642927,
+                        40.212767
+                  ]
             }
       ],
       "hu": [
@@ -7934,6 +8105,33 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -6.685774,
                         40.233478
+                  ]
+            },
+            {
+                  "name": "Piscina municipal de Gata",
+                  "text": "Gata közösségi úszómedencéje a Sierra de Gata hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.592453,
+                        40.237508
+                  ]
+            },
+            {
+                  "name": "Piscina Camping",
+                  "text": "Egy kemping területén található úszómedence a Sierra de Gata régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642246,
+                        40.214028
+                  ]
+            },
+            {
+                  "name": "Piscinas Naturales La Huerta",
+                  "text": "Természetes folyóvízi medencék Gata települése közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642927,
+                        40.212767
                   ]
             }
       ],
@@ -7946,6 +8144,33 @@ export const spainReliefV2: POI[] = [
                         -6.685774,
                         40.233478
                   ]
+            },
+            {
+                  "name": "Piscina municipal de Gata",
+                  "text": "Piscina publică din Gata, în Sierra de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.592453,
+                        40.237508
+                  ]
+            },
+            {
+                  "name": "Piscina Camping",
+                  "text": "O piscină situată într-un camping din regiunea Sierra de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642246,
+                        40.214028
+                  ]
+            },
+            {
+                  "name": "Piscinas Naturales La Huerta",
+                  "text": "Piscine naturale în râu situate în apropierea localității Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642927,
+                        40.212767
+                  ]
             }
       ],
       "en": [
@@ -7956,6 +8181,33 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -6.685774,
                         40.233478
+                  ]
+            },
+            {
+                  "name": "Piscina municipal de Gata",
+                  "text": "The public swimming pool of Gata in the Sierra de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.592453,
+                        40.237508
+                  ]
+            },
+            {
+                  "name": "Piscina Camping",
+                  "text": "A swimming pool located within a campsite in the Sierra de Gata region.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642246,
+                        40.214028
+                  ]
+            },
+            {
+                  "name": "Piscinas Naturales La Huerta",
+                  "text": "Natural river swimming pools located near the town of Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.642927,
+                        40.212767
                   ]
             }
       ]
@@ -8014,6 +8266,15 @@ export const spainReliefV2: POI[] = [
                         -2.585293,
                         38.316263
                   ]
+            },
+            {
+                  "name": "Piscina de Amurjo",
+                  "text": "Ein großes öffentliches Schwimmbad in der Bergregion Sierra de Segura.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.647599,
+                        38.319716
+                  ]
             }
       ],
       "hu": [
@@ -8024,6 +8285,15 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -2.585293,
                         38.316263
+                  ]
+            },
+            {
+                  "name": "Piscina de Amurjo",
+                  "text": "Egy nagy nyilvános úszómedence a Sierra de Segura hegyvidéki régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.647599,
+                        38.319716
                   ]
             }
       ],
@@ -8036,6 +8306,15 @@ export const spainReliefV2: POI[] = [
                         -2.585293,
                         38.316263
                   ]
+            },
+            {
+                  "name": "Piscina de Amurjo",
+                  "text": "O piscină publică mare în regiunea montană Sierra de Segura.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.647599,
+                        38.319716
+                  ]
             }
       ],
       "en": [
@@ -8046,6 +8325,15 @@ export const spainReliefV2: POI[] = [
                   "coords": [
                         -2.585293,
                         38.316263
+                  ]
+            },
+            {
+                  "name": "Piscina de Amurjo",
+                  "text": "A large public swimming pool in the Sierra de Segura mountain region.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.647599,
+                        38.319716
                   ]
             }
       ]

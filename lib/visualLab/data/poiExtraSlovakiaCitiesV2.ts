@@ -29977,6 +29977,15 @@ imageHint: "Modern X-Bionic Sphere sports complex in Šamorín",
                         18.399317,
                         48.380769
                   ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "Ein städtisches Schwimmbad in Zlaté Moravce für Sport und Erholung im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.396308,
+                        48.388846
+                  ]
             }
       ],
       "hu": [
@@ -29996,6 +30005,15 @@ imageHint: "Modern X-Bionic Sphere sports complex in Šamorín",
                   "coords": [
                         18.399317,
                         48.380769
+                  ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "Városi uszoda Zlaté Moravce településen, sportolási és nyári kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        18.396308,
+                        48.388846
                   ]
             }
       ],
@@ -30017,6 +30035,15 @@ imageHint: "Modern X-Bionic Sphere sports complex in Šamorín",
                         18.399317,
                         48.380769
                   ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "O piscină municipală în Zlaté Moravce pentru sport și recreere pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        18.396308,
+                        48.388846
+                  ]
             }
       ],
       "en": [
@@ -30036,6 +30063,15 @@ imageHint: "Modern X-Bionic Sphere sports complex in Šamorín",
                   "coords": [
                         18.399317,
                         48.380769
+                  ]
+            },
+            {
+                  "name": "Kúpalisko",
+                  "text": "A municipal swimming pool in Zlaté Moravce for sports and summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.396308,
+                        48.388846
                   ]
             }
       ]

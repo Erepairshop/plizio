@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const spainEconomicV2: POI[] = [
 
   {
-    id: "spain-port-algeciras-economic-v2",
+    id: "spain-port-algeciras-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa del Rinconcillo",
+                  "text": "Ein weitläufiger Strand bei Algeciras, der einen Blick auf den Felsen von Gibraltar bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.438499,
+                        36.165255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa del Rinconcillo",
+                  "text": "Tágas tengerpart Algeciras mellett, ahonnan kilátás nyílik a Gibraltári-sziklára.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.438499,
+                        36.165255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa del Rinconcillo",
+                  "text": "O plajă întinsă lângă Algeciras, care oferă o vedere spre Stânca Gibraltar.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.438499,
+                        36.165255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa del Rinconcillo",
+                  "text": "A spacious beach near Algeciras offering a view of the Rock of Gibraltar.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.438499,
+                        36.165255
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "port",
     name: { de: "Hafen von Algeciras", hu: "Algeciras kikötője", ro: "Portul Algeciras", en: "Port of Algeciras"},
@@ -122,6 +167,78 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                         -0.355916,
                         39.458044
                   ]
+            },
+            {
+                  "name": "Platja del Cabanyal",
+                  "text": "Ein weitläufiger Stadtstrand in Valencia, bekannt für seine Nähe zum alten Fischerviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.322309,
+                        39.468218
+                  ]
+            },
+            {
+                  "name": "Platja de la Malva-rosa",
+                  "text": "Der berühmteste Strand Valencias mit einer breiten Promenade und zahlreichen Restaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323725,
+                        39.478941
+                  ]
+            },
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "Ein historisches Thermalbad in Valencia mit langer Tradition.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein städtisches Schwimmbad, das der Öffentlichkeit für Sport zur Verfügung steht.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.365387,
+                        39.451995
+                  ]
+            },
+            {
+                  "name": "Piscina Trafalgar",
+                  "text": "Ein öffentliches Schwimmbad für Freizeit und sportliche Betätigung.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.345516,
+                        39.4612
+                  ]
+            },
+            {
+                  "name": "Piscina Poliesportiu Malilla",
+                  "text": "Ein Schwimmbecken innerhalb einer städtischen Sportanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.374497,
+                        39.451391
+                  ]
+            },
+            {
+                  "name": "Acuarios Verdemar",
+                  "text": "Ein Aquarium, das verschiedene Meeresbewohner in Schauaquarien präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.338273,
+                        39.46908
+                  ]
+            },
+            {
+                  "name": "Balneario Resort Las Arenas",
+                  "text": "Ein gehobenes Resort und Bad am Strand von Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.324473,
+                        39.467516
+                  ]
             }
       ],
       "hu": [
@@ -195,6 +312,78 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                   "coords": [
                         -0.355916,
                         39.458044
+                  ]
+            },
+            {
+                  "name": "Platja del Cabanyal",
+                  "text": "Valencia tágas városi strandja, amely a régi halásznegyed közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.322309,
+                        39.468218
+                  ]
+            },
+            {
+                  "name": "Platja de la Malva-rosa",
+                  "text": "Valencia leghíresebb strandja, széles sétánnyal és számos étteremmel.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323725,
+                        39.478941
+                  ]
+            },
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "Nagy múltú, történelmi termálfürdő Valenciában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Városi uszoda, amely sportolási célra áll a közönség rendelkezésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.365387,
+                        39.451995
+                  ]
+            },
+            {
+                  "name": "Piscina Trafalgar",
+                  "text": "Közösségi úszómedence szabadidős és sporttevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.345516,
+                        39.4612
+                  ]
+            },
+            {
+                  "name": "Piscina Poliesportiu Malilla",
+                  "text": "Városi sportlétesítményen belül található úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.374497,
+                        39.451391
+                  ]
+            },
+            {
+                  "name": "Acuarios Verdemar",
+                  "text": "Akvárium, amely különféle tengeri élőlényeket mutat be bemutatómedencékben.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.338273,
+                        39.46908
+                  ]
+            },
+            {
+                  "name": "Balneario Resort Las Arenas",
+                  "text": "Színvonalas üdülőhely és fürdő Valencia tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.324473,
+                        39.467516
                   ]
             }
       ],
@@ -270,6 +459,78 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                         -0.355916,
                         39.458044
                   ]
+            },
+            {
+                  "name": "Platja del Cabanyal",
+                  "text": "O plajă urbană extinsă în Valencia, cunoscută pentru proximitatea față de vechiul cartier pescăresc.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.322309,
+                        39.468218
+                  ]
+            },
+            {
+                  "name": "Platja de la Malva-rosa",
+                  "text": "Cea mai celebră plajă din Valencia, cu o faleză largă și numeroase restaurante.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323725,
+                        39.478941
+                  ]
+            },
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "O baie termală istorică din Valencia, cu o lungă tradiție.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină municipală disponibilă publicului pentru sport.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.365387,
+                        39.451995
+                  ]
+            },
+            {
+                  "name": "Piscina Trafalgar",
+                  "text": "O piscină publică pentru recreere și activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.345516,
+                        39.4612
+                  ]
+            },
+            {
+                  "name": "Piscina Poliesportiu Malilla",
+                  "text": "O piscină situată în cadrul unui complex sportiv municipal.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.374497,
+                        39.451391
+                  ]
+            },
+            {
+                  "name": "Acuarios Verdemar",
+                  "text": "Un acvariu care prezintă diverse viețuitoare marine în bazine de expoziție.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.338273,
+                        39.46908
+                  ]
+            },
+            {
+                  "name": "Balneario Resort Las Arenas",
+                  "text": "O stațiune și baie de lux situată pe plaja din Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.324473,
+                        39.467516
+                  ]
             }
       ],
       "en": [
@@ -343,6 +604,78 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                   "coords": [
                         -0.355916,
                         39.458044
+                  ]
+            },
+            {
+                  "name": "Platja del Cabanyal",
+                  "text": "A spacious urban beach in Valencia, known for its proximity to the old fishing quarter.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.322309,
+                        39.468218
+                  ]
+            },
+            {
+                  "name": "La Malvarrosa Beach",
+                  "text": "The most famous beach in Valencia, featuring a wide promenade and numerous restaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.323725,
+                        39.478941
+                  ]
+            },
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "A historical thermal bath in Valencia with a long tradition.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A municipal swimming pool available to the public for sports.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.365387,
+                        39.451995
+                  ]
+            },
+            {
+                  "name": "Piscina Trafalgar",
+                  "text": "A public swimming pool for leisure and sporting activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.345516,
+                        39.4612
+                  ]
+            },
+            {
+                  "name": "Piscina Poliesportiu Malilla",
+                  "text": "A swimming pool located within a municipal sports complex.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.374497,
+                        39.451391
+                  ]
+            },
+            {
+                  "name": "Acuarios Verdemar",
+                  "text": "An aquarium presenting various marine life in display tanks.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.338273,
+                        39.46908
+                  ]
+            },
+            {
+                  "name": "Balneario Resort Las Arenas",
+                  "text": "An upscale resort and bath located on the beach of Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.324473,
+                        39.467516
                   ]
             }
       ]
@@ -494,6 +827,33 @@ imageHint: "Barcelona port logistics area and cruise terminal",
                         -3.019785,
                         43.355805
                   ]
+            },
+            {
+                  "name": "Portuzarra hondartza",
+                  "text": "Ein lokaler Strand im Bereich des Hafens von Bilbao im Baskenland.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.015219,
+                        43.348999
+                  ]
+            },
+            {
+                  "name": "Playa de la Bola",
+                  "text": "Ein kleiner Küstenabschnitt in der Nähe der industriellen Hafenanlagen von Bilbao.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.010365,
+                        43.337412
+                  ]
+            },
+            {
+                  "name": "Igerilekua",
+                  "text": "Ein Schwimmbad im Hafen von Bilbao.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022176,
+                        43.326334
+                  ]
             }
       ],
       "hu": [
@@ -549,6 +909,33 @@ imageHint: "Barcelona port logistics area and cruise terminal",
                   "coords": [
                         -3.019785,
                         43.355805
+                  ]
+            },
+            {
+                  "name": "Portuzarra hondartza",
+                  "text": "Helyi strand a bilbaói kikötő területén, Baszkföldön.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.015219,
+                        43.348999
+                  ]
+            },
+            {
+                  "name": "Playa de la Bola",
+                  "text": "Kis tengerparti szakasz Bilbao ipari kikötői létesítményei közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.010365,
+                        43.337412
+                  ]
+            },
+            {
+                  "name": "Igerilekua",
+                  "text": "Úszómedence Bilbao kikötőjében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022176,
+                        43.326334
                   ]
             }
       ],
@@ -606,6 +993,33 @@ imageHint: "Barcelona port logistics area and cruise terminal",
                         -3.019785,
                         43.355805
                   ]
+            },
+            {
+                  "name": "Portuzarra hondartza",
+                  "text": "O plajă locală în zona Portului Bilbao din Țara Bascilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.015219,
+                        43.348999
+                  ]
+            },
+            {
+                  "name": "Playa de la Bola",
+                  "text": "O mică secțiune de coastă lângă facilitățile portuare industriale din Bilbao.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.010365,
+                        43.337412
+                  ]
+            },
+            {
+                  "name": "Igerilekua",
+                  "text": "O piscină în Portul Bilbao.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022176,
+                        43.326334
+                  ]
             }
       ],
       "en": [
@@ -661,6 +1075,33 @@ imageHint: "Barcelona port logistics area and cruise terminal",
                   "coords": [
                         -3.019785,
                         43.355805
+                  ]
+            },
+            {
+                  "name": "Portuzarra hondartza",
+                  "text": "A local beach in the area of the Port of Bilbao in the Basque Country.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.015219,
+                        43.348999
+                  ]
+            },
+            {
+                  "name": "Playa de la Bola",
+                  "text": "A small coastal section near the industrial port facilities of Bilbao.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.010365,
+                        43.337412
+                  ]
+            },
+            {
+                  "name": "Igerilekua",
+                  "text": "A swimming pool in the Port of Bilbao.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022176,
+                        43.326334
                   ]
             }
       ]
@@ -756,7 +1197,268 @@ imageHint: "Industrial docks of Port of Bilbao",
     }
   },
   {
-    id: "spain-stellantis-vigo-economic-v2",
+    id: "spain-stellantis-vigo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Portiño de Bouzas",
+                  "text": "Ein Küstenstrand in der Nähe von Vigo mit Blick auf den Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.754239,
+                        42.226165
+                  ]
+            },
+            {
+                  "name": "Praia de Fontoura",
+                  "text": "Ein kleiner Sandstrand an der galicischen Küste bei Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.759032,
+                        42.223454
+                  ]
+            },
+            {
+                  "name": "Praia do Cocho das Dornas",
+                  "text": "Ein ruhiger Strandabschnitt am Rande der Stadt Vigo in Spanien.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77725,
+                        42.218279
+                  ]
+            },
+            {
+                  "name": "Praia das Fontes",
+                  "text": "Ein lokaler Küstenstreifen in der Provinz Pontevedra bei Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772861,
+                        42.222831
+                  ]
+            },
+            {
+                  "name": "Praia do Pincho do Gato",
+                  "text": "Ein malerischer Strandabschnitt an der Ria de Vigo in Galicien.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.775961,
+                        42.22032
+                  ]
+            },
+            {
+                  "name": "Praia da Mourisca",
+                  "text": "Ein natürlicher Strand in der Umgebung des Industriegebiets von Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770815,
+                        42.224281
+                  ]
+            },
+            {
+                  "name": "Praia da Espedrigada",
+                  "text": "Ein kleiner Strand an der Atlantikküste in der Nähe von Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777094,
+                        42.219433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Portiño de Bouzas",
+                  "text": "Partmenti strand Vigo közelében, kilátással az Atlanti-óceánra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.754239,
+                        42.226165
+                  ]
+            },
+            {
+                  "name": "Praia de Fontoura",
+                  "text": "Kis homokos strand a galíciai tengerparton, Vigo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.759032,
+                        42.223454
+                  ]
+            },
+            {
+                  "name": "Praia do Cocho das Dornas",
+                  "text": "Csendes strandrész a spanyolországi Vigo városának szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77725,
+                        42.218279
+                  ]
+            },
+            {
+                  "name": "Praia das Fontes",
+                  "text": "Helyi tengerparti szakasz Pontevedra tartományban, Vigo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772861,
+                        42.222831
+                  ]
+            },
+            {
+                  "name": "Praia do Pincho do Gato",
+                  "text": "Gleccservölgy-öböl menti festői strandrész a galíciai Vigo-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.775961,
+                        42.22032
+                  ]
+            },
+            {
+                  "name": "Praia da Mourisca",
+                  "text": "Természetes strand Vigo ipari övezetének környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770815,
+                        42.224281
+                  ]
+            },
+            {
+                  "name": "Praia da Espedrigada",
+                  "text": "Kis strand az atlanti-parton, Vigo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777094,
+                        42.219433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Portiño de Bouzas",
+                  "text": "O plajă de coastă lângă Vigo, cu vedere la Oceanul Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.754239,
+                        42.226165
+                  ]
+            },
+            {
+                  "name": "Praia de Fontoura",
+                  "text": "O mică plajă cu nisip pe coasta galiciană lângă Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.759032,
+                        42.223454
+                  ]
+            },
+            {
+                  "name": "Praia do Cocho das Dornas",
+                  "text": "O secțiune de plajă liniștită la marginea orașului Vigo din Spania.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77725,
+                        42.218279
+                  ]
+            },
+            {
+                  "name": "Praia das Fontes",
+                  "text": "O fâșie de coastă locală în provincia Pontevedra, lângă Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772861,
+                        42.222831
+                  ]
+            },
+            {
+                  "name": "Praia do Pincho do Gato",
+                  "text": "O secțiune de plajă pitorească pe Ria de Vigo din Galicia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.775961,
+                        42.22032
+                  ]
+            },
+            {
+                  "name": "Praia da Mourisca",
+                  "text": "O plajă naturală în împrejurimile zonei industriale din Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770815,
+                        42.224281
+                  ]
+            },
+            {
+                  "name": "Praia da Espedrigada",
+                  "text": "O plajă mică pe coasta atlantică, lângă Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777094,
+                        42.219433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Portiño de Bouzas",
+                  "text": "A coastal beach near Vigo with views of the Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.754239,
+                        42.226165
+                  ]
+            },
+            {
+                  "name": "Praia de Fontoura",
+                  "text": "A small sandy beach on the Galician coast near Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.759032,
+                        42.223454
+                  ]
+            },
+            {
+                  "name": "Praia do Cocho das Dornas",
+                  "text": "A quiet beach section on the outskirts of Vigo, Spain.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77725,
+                        42.218279
+                  ]
+            },
+            {
+                  "name": "Praia das Fontes",
+                  "text": "A local coastal strip in the province of Pontevedra near Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772861,
+                        42.222831
+                  ]
+            },
+            {
+                  "name": "Praia do Pincho do Gato",
+                  "text": "A picturesque beach section on the Ria de Vigo in Galicia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.775961,
+                        42.22032
+                  ]
+            },
+            {
+                  "name": "Praia da Mourisca",
+                  "text": "A natural beach in the surroundings of the Vigo industrial area.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770815,
+                        42.224281
+                  ]
+            },
+            {
+                  "name": "Praia da Espedrigada",
+                  "text": "A small beach on the Atlantic coast near Vigo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777094,
+                        42.219433
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "factory",
     name: { de: "Stellantis-Werk Vigo", hu: "Stellantis Vigo gyár", ro: "Fabrica Stellantis Vigo", en: "Stellantis Vigo Plant"},
@@ -848,6 +1550,15 @@ imageHint: "Stellantis Vigo automobile factory exterior",
                         -2.79741,
                         36.775915
                   ]
+            },
+            {
+                  "name": "Piscina Municipal Cubierta",
+                  "text": "Piscina Municipal Cubierta ist ein Hallenbad im Gebiet der Almería-Gewächshäuser.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.809721,
+                        36.770681
+                  ]
             }
       ],
       "hu": [
@@ -894,6 +1605,15 @@ imageHint: "Stellantis Vigo automobile factory exterior",
                   "coords": [
                         -2.79741,
                         36.775915
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal Cubierta",
+                  "text": "A Piscina Municipal Cubierta egy fedett úszómedence az almeríai üvegházak területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.809721,
+                        36.770681
                   ]
             }
       ],
@@ -942,6 +1662,15 @@ imageHint: "Stellantis Vigo automobile factory exterior",
                         -2.79741,
                         36.775915
                   ]
+            },
+            {
+                  "name": "Piscina Municipal Cubierta",
+                  "text": "Piscina Municipal Cubierta este o piscină interioară situată în zona serelor din Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.809721,
+                        36.770681
+                  ]
             }
       ],
       "en": [
@@ -988,6 +1717,15 @@ imageHint: "Stellantis Vigo automobile factory exterior",
                   "coords": [
                         -2.79741,
                         36.775915
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal Cubierta",
+                  "text": "Piscina Municipal Cubierta is an indoor swimming pool located in the Almería Greenhouses area.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.809721,
+                        36.770681
                   ]
             }
       ]
@@ -1037,7 +1775,412 @@ imageHint: "Stellantis Vigo automobile factory exterior",
     }
   },
   {
-    id: "spain-inditex-hq-economic-v2",
+    id: "spain-inditex-hq-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Arbosa",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.525272,
+                        43.320602
+                  ]
+            },
+            {
+                  "name": "Praia dos Ripibelos",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.524176,
+                        43.321485
+                  ]
+            },
+            {
+                  "name": "A Santa Baia",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522923,
+                        43.322172
+                  ]
+            },
+            {
+                  "name": "O Carreiro",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.51874,
+                        43.325653
+                  ]
+            },
+            {
+                  "name": "Praia dos Cacheiros",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.517601,
+                        43.327033
+                  ]
+            },
+            {
+                  "name": "Praia de Alba",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.508055,
+                        43.32925
+                  ]
+            },
+            {
+                  "name": "Praia de Barrañán",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.552374,
+                        43.311198
+                  ]
+            },
+            {
+                  "name": "Praia da Area Grande",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.533051,
+                        43.315482
+                  ]
+            },
+            {
+                  "name": "Praia da Salsa",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.521415,
+                        43.323075
+                  ]
+            },
+            {
+                  "name": "Praia de Area Pequena",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.530121,
+                        43.317605
+                  ]
+            },
+            {
+                  "name": "Praia das Combouzas",
+                  "text": "Ein schöner Strand in Inditex Headquarters, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.543433,
+                        43.312506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Arbosa",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.525272,
+                        43.320602
+                  ]
+            },
+            {
+                  "name": "Praia dos Ripibelos",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.524176,
+                        43.321485
+                  ]
+            },
+            {
+                  "name": "A Santa Baia",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522923,
+                        43.322172
+                  ]
+            },
+            {
+                  "name": "O Carreiro",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.51874,
+                        43.325653
+                  ]
+            },
+            {
+                  "name": "Praia dos Cacheiros",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.517601,
+                        43.327033
+                  ]
+            },
+            {
+                  "name": "Praia de Alba",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.508055,
+                        43.32925
+                  ]
+            },
+            {
+                  "name": "Praia de Barrañán",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.552374,
+                        43.311198
+                  ]
+            },
+            {
+                  "name": "Praia da Area Grande",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.533051,
+                        43.315482
+                  ]
+            },
+            {
+                  "name": "Praia da Salsa",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.521415,
+                        43.323075
+                  ]
+            },
+            {
+                  "name": "Praia de Area Pequena",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.530121,
+                        43.317605
+                  ]
+            },
+            {
+                  "name": "Praia das Combouzas",
+                  "text": "Kellemes tengerpart Inditex Headquarters területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.543433,
+                        43.312506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Arbosa",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.525272,
+                        43.320602
+                  ]
+            },
+            {
+                  "name": "Praia dos Ripibelos",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.524176,
+                        43.321485
+                  ]
+            },
+            {
+                  "name": "A Santa Baia",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522923,
+                        43.322172
+                  ]
+            },
+            {
+                  "name": "O Carreiro",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.51874,
+                        43.325653
+                  ]
+            },
+            {
+                  "name": "Praia dos Cacheiros",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.517601,
+                        43.327033
+                  ]
+            },
+            {
+                  "name": "Praia de Alba",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.508055,
+                        43.32925
+                  ]
+            },
+            {
+                  "name": "Praia de Barrañán",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.552374,
+                        43.311198
+                  ]
+            },
+            {
+                  "name": "Praia da Area Grande",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.533051,
+                        43.315482
+                  ]
+            },
+            {
+                  "name": "Praia da Salsa",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.521415,
+                        43.323075
+                  ]
+            },
+            {
+                  "name": "Praia de Area Pequena",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.530121,
+                        43.317605
+                  ]
+            },
+            {
+                  "name": "Praia das Combouzas",
+                  "text": "O plajă plăcută situată în Inditex Headquarters, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.543433,
+                        43.312506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Arbosa",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.525272,
+                        43.320602
+                  ]
+            },
+            {
+                  "name": "Praia dos Ripibelos",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.524176,
+                        43.321485
+                  ]
+            },
+            {
+                  "name": "A Santa Baia",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522923,
+                        43.322172
+                  ]
+            },
+            {
+                  "name": "O Carreiro",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.51874,
+                        43.325653
+                  ]
+            },
+            {
+                  "name": "Praia dos Cacheiros",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.517601,
+                        43.327033
+                  ]
+            },
+            {
+                  "name": "Praia de Alba",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.508055,
+                        43.32925
+                  ]
+            },
+            {
+                  "name": "Praia de Barrañán",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.552374,
+                        43.311198
+                  ]
+            },
+            {
+                  "name": "Area Grande/Valcovo Beach",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.533051,
+                        43.315482
+                  ]
+            },
+            {
+                  "name": "Praia da Salsa",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.521415,
+                        43.323075
+                  ]
+            },
+            {
+                  "name": "Area Pequena/A Ucha Beach",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.530121,
+                        43.317605
+                  ]
+            },
+            {
+                  "name": "Praia das Combouzas",
+                  "text": "A pleasant beach located in Inditex Headquarters, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.543433,
+                        43.312506
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "industry",
     name: { de: "Inditex-Hauptsitz", hu: "Inditex központ", ro: "Sediul Inditex", en: "Inditex Headquarters"},
@@ -1175,7 +2318,196 @@ imageHint: "AZCA business district skyscrapers in Madrid",
     },
     image: "/poi-images/spain-azca-district-economic-v2.webp",
 },  {
-    id: "spain-22-arrob-barcelona-economic-v2",
+    id: "spain-22-arrob-barcelona-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Platja de la Nova Mar Bella",
+                  "text": "Platja de la Nova Mar Bella ist ein moderner Stadtstrand in Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21535,
+                        41.401966
+                  ]
+            },
+            {
+                  "name": "Platja de la Mar Bella",
+                  "text": "Mar Bella beach ist ein bekannter Strand im Stadtteil Sant Martí in Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21222,
+                        41.398368
+                  ]
+            },
+            {
+                  "name": "Platja del Bogatell",
+                  "text": "Platja del Bogatell ist einer der beliebtesten Stadtstrände von Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.207073,
+                        41.394092
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant",
+                  "text": "Platja de Llevant ist der nördlichste Strandabschnitt der Stadt Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.218165,
+                        41.404459
+                  ]
+            },
+            {
+                  "name": "Platja de la Nova Icària",
+                  "text": "Platja de la Nova Icària ist ein ruhigerer Strand in der Nähe des Olympischen Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        2.20219,
+                        41.390302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Platja de la Nova Mar Bella",
+                  "text": "A Platja de la Nova Mar Bella egy modern városi tengerpart Barcelonában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21535,
+                        41.401966
+                  ]
+            },
+            {
+                  "name": "Platja de la Mar Bella",
+                  "text": "A Mar Bella beach egy ismert tengerpart Barcelona Sant Martí negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21222,
+                        41.398368
+                  ]
+            },
+            {
+                  "name": "Platja del Bogatell",
+                  "text": "A Platja del Bogatell Barcelona egyik legnépszerűbb városi tengerpartja.",
+                  "category": "recreational",
+                  "coords": [
+                        2.207073,
+                        41.394092
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant",
+                  "text": "A Platja de Llevant Barcelona városának legészakibb tengerparti szakasza.",
+                  "category": "recreational",
+                  "coords": [
+                        2.218165,
+                        41.404459
+                  ]
+            },
+            {
+                  "name": "Platja de la Nova Icària",
+                  "text": "A Platja de la Nova Icària egy nyugodtabb tengerpart az olimpiai kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.20219,
+                        41.390302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Platja de la Nova Mar Bella",
+                  "text": "Platja de la Nova Mar Bella este o plajă urbană modernă din Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21535,
+                        41.401966
+                  ]
+            },
+            {
+                  "name": "Platja de la Mar Bella",
+                  "text": "Plaja Mar Bella este o plajă cunoscută din cartierul Sant Martí din Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21222,
+                        41.398368
+                  ]
+            },
+            {
+                  "name": "Platja del Bogatell",
+                  "text": "Platja del Bogatell este una dintre cele mai populare plaje urbane din Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.207073,
+                        41.394092
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant",
+                  "text": "Platja de Llevant este cea mai nordică secțiune de plajă a orașului Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.218165,
+                        41.404459
+                  ]
+            },
+            {
+                  "name": "Platja de la Nova Icària",
+                  "text": "Platja de la Nova Icària este o plajă mai liniștită, situată lângă Portul Olimpic.",
+                  "category": "recreational",
+                  "coords": [
+                        2.20219,
+                        41.390302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Platja de la Nova Mar Bella",
+                  "text": "Platja de la Nova Mar Bella is a modern urban beach in Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21535,
+                        41.401966
+                  ]
+            },
+            {
+                  "name": "Mar Bella beach",
+                  "text": "Mar Bella beach is a well-known beach in the Sant Martí district of Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.21222,
+                        41.398368
+                  ]
+            },
+            {
+                  "name": "Platja del Bogatell",
+                  "text": "Platja del Bogatell is one of the most popular urban beaches in Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.207073,
+                        41.394092
+                  ]
+            },
+            {
+                  "name": "Platja de Llevant",
+                  "text": "Platja de Llevant is the northernmost beach section of Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.218165,
+                        41.404459
+                  ]
+            },
+            {
+                  "name": "Platja de la Nova Icària",
+                  "text": "Platja de la Nova Icària is a quieter beach located near the Olympic Port.",
+                  "category": "recreational",
+                  "coords": [
+                        2.20219,
+                        41.390302
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "industry",
     name: { de: "22@ Barcelona", hu: "22@ Barcelona", ro: "22@ Barcelona", en: "22@ Barcelona"},
@@ -1984,6 +3316,15 @@ imageHint: "Entrance to historical Almadén mercury mine",
                         -0.220389,
                         39.679526
                   ]
+            },
+            {
+                  "name": "Piscina AGH Canet",
+                  "text": "Ein Schwimmbad im Industriehafengebiet von Sagunto.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.205646,
+                        39.68052
+                  ]
             }
       ],
       "hu": [
@@ -2057,6 +3398,15 @@ imageHint: "Entrance to historical Almadén mercury mine",
                   "coords": [
                         -0.220389,
                         39.679526
+                  ]
+            },
+            {
+                  "name": "Piscina AGH Canet",
+                  "text": "Egy úszómedence Sagunto ipari kikötőjének területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.205646,
+                        39.68052
                   ]
             }
       ],
@@ -2132,6 +3482,15 @@ imageHint: "Entrance to historical Almadén mercury mine",
                         -0.220389,
                         39.679526
                   ]
+            },
+            {
+                  "name": "Piscina AGH Canet",
+                  "text": "O piscină situată în zona portului industrial Sagunto.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.205646,
+                        39.68052
+                  ]
             }
       ],
       "en": [
@@ -2205,6 +3564,15 @@ imageHint: "Entrance to historical Almadén mercury mine",
                   "coords": [
                         -0.220389,
                         39.679526
+                  ]
+            },
+            {
+                  "name": "Piscina AGH Canet",
+                  "text": "A swimming pool located in the industrial port area of Sagunto.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.205646,
+                        39.68052
                   ]
             }
       ]

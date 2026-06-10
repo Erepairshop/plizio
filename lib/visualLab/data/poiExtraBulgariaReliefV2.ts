@@ -1731,7 +1731,52 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-pirin-granite-peak-zone-relief-v2.webp",
   },
   {
-    id: "bulgaria-struma-valley-relief-v2",
+    id: "bulgaria-struma-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mineralna bania",
+                  "text": "Öffentliches Mineralbad im Struma-Tal, das für seine erholsame Wirkung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.108164,
+                        41.890148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mineralna bania",
+                  "text": "Nyilvános ásványvizes fürdő a Sztruma-völgyben, amely pihentető hatásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.108164,
+                        41.890148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mineralna bania",
+                  "text": "O baie minerală publică în valea râului Struma, cunoscută pentru efectul său relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        23.108164,
+                        41.890148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mineralna bania",
+                  "text": "A public mineral bath in the Struma river valley, known for its relaxing effects.",
+                  "category": "recreational",
+                  "coords": [
+                        23.108164,
+                        41.890148
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BG",
     name: { de: "Struma-Tal", hu: "Sztruma-völgy", ro: "Valea râului Struma", en: "Struma River Valley" },
@@ -1885,6 +1930,15 @@ export const bulgariaReliefV2: POI[] = [
                         23.795372,
                         41.596517
                   ]
+            },
+            {
+                  "name": "Dolnoto miro",
+                  "text": "Ein öffentliches Bad im Mesta-Tal, das lokale Badetraditionen pflegt.",
+                  "category": "recreational",
+                  "coords": [
+                        23.798864,
+                        41.620179
+                  ]
             }
       ],
       "hu": [
@@ -1904,6 +1958,15 @@ export const bulgariaReliefV2: POI[] = [
                   "coords": [
                         23.795372,
                         41.596517
+                  ]
+            },
+            {
+                  "name": "Dolnoto miro",
+                  "text": "Nyilvános fürdő a Mesta-folyó völgyében, amely a helyi fürdőhagyományokat őrzi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.798864,
+                        41.620179
                   ]
             }
       ],
@@ -1925,6 +1988,15 @@ export const bulgariaReliefV2: POI[] = [
                         23.795372,
                         41.596517
                   ]
+            },
+            {
+                  "name": "Dolnoto miro",
+                  "text": "O baie publică în Valea Râului Mesta, care păstrează tradițiile locale de scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        23.798864,
+                        41.620179
+                  ]
             }
       ],
       "en": [
@@ -1944,6 +2016,15 @@ export const bulgariaReliefV2: POI[] = [
                   "coords": [
                         23.795372,
                         41.596517
+                  ]
+            },
+            {
+                  "name": "Dolnoto miro",
+                  "text": "A public bath in the Mesta River Valley, maintaining local bathing traditions.",
+                  "category": "recreational",
+                  "coords": [
+                        23.798864,
+                        41.620179
                   ]
             }
       ]

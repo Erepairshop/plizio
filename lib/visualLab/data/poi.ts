@@ -43762,6 +43762,15 @@ export const pois: POI[] = [
                         8.552004,
                         52.020197
                   ]
+            },
+            {
+                  "name": "Freibad Gadderbaum",
+                  "text": "Ein Wasserpark in Bielefeld, der Erholung und Badespaß für Besucher im Freien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.52341,
+                        52.002398
+                  ]
             }
       ],
       "hu": [
@@ -44320,6 +44329,15 @@ export const pois: POI[] = [
                   "coords": [
                         8.552004,
                         52.020197
+                  ]
+            },
+            {
+                  "name": "Freibad Gadderbaum",
+                  "text": "Vízipark Bielefeldben, amely kikapcsolódást és fürdőzési élményt nyújt a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        8.52341,
+                        52.002398
                   ]
             }
       ],
@@ -44880,6 +44898,15 @@ export const pois: POI[] = [
                         8.552004,
                         52.020197
                   ]
+            },
+            {
+                  "name": "Freibad Gadderbaum",
+                  "text": "Un parc acvatic în Bielefeld, care oferă relaxare și distracție la scăldat în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        8.52341,
+                        52.002398
+                  ]
             }
       ],
       "en": [
@@ -45439,6 +45466,15 @@ export const pois: POI[] = [
                         8.552004,
                         52.020197
                   ]
+            },
+            {
+                  "name": "Freibad Gadderbaum",
+                  "text": "A water park in Bielefeld offering recreation and swimming fun for visitors outdoors.",
+                  "category": "recreational",
+                  "coords": [
+                        8.52341,
+                        52.002398
+                  ]
             }
       ],
       "tr": [
@@ -45582,6 +45618,33 @@ export const pois: POI[] = [
                         7.73141,
                         50.142582
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Ein Hallenbad in der Loreleyschule.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Ein Freibad in Werlau mit Blick auf den Rhein.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "Eine Sommerrodelbahn auf dem berühmten Loreley-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
+                  ]
             }
       ],
       "hu": [
@@ -45646,6 +45709,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.73141,
                         50.142582
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Fedett uszoda a Loreley iskolában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Szabadtéri élményfürdő Werlauban, kilátással a Rajnára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "Nyári bobpálya a híres Loreley-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
                   ]
             }
       ],
@@ -45712,6 +45802,33 @@ export const pois: POI[] = [
                         7.73141,
                         50.142582
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "O piscină interioară situată la școala Loreley.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Un parc acvatic în aer liber în Werlau, cu vedere la Rin.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "O pistă de bob de vară situată pe faimosul platou Loreley.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
+                  ]
             }
       ],
       "en": [
@@ -45776,6 +45893,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.73141,
                         50.142582
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "An indoor swimming pool located at the Loreley School.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "An outdoor water park in Werlau offering views of the Rhine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "A summer toboggan run located on the famous Loreley plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
                   ]
             }
       ]
@@ -46308,6 +46452,15 @@ export const pois: POI[] = [
                         11.023294,
                         47.446204
                   ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "Ein idyllischer Badeplatz am klaren Wasser des Eibsees am Fuße der Zugspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
+                  ]
             }
       ],
       "hu": [
@@ -46381,6 +46534,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.023294,
                         47.446204
+                  ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "Idilli fürdőhely az Eibsee tiszta vizénél, a Zugspitze lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
                   ]
             }
       ],
@@ -46456,6 +46618,15 @@ export const pois: POI[] = [
                         11.023294,
                         47.446204
                   ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "Un loc de scăldat idilic pe malul apei limpezi a lacului Eibsee, la poalele Zugspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
+                  ]
             }
       ],
       "en": [
@@ -46529,6 +46700,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.023294,
                         47.446204
+                  ]
+            },
+            {
+                  "name": "Badestelle Eibsee",
+                  "text": "An idyllic swimming spot on the clear waters of Lake Eibsee at the foot of the Zugspitze.",
+                  "category": "recreational",
+                  "coords": [
+                        10.985015,
+                        47.45592
                   ]
             }
       ]
@@ -48111,6 +48291,15 @@ export const pois: POI[] = [
                         12.51863,
                         47.859035
                   ]
+            },
+            {
+                  "name": "Strandbad Gollenshausen",
+                  "text": "Ein Strandbad am Chiemsee mit Liegewiesen und Seezugang.",
+                  "category": "recreational",
+                  "coords": [
+                        12.437733,
+                        47.913343
+                  ]
             }
       ],
       "hu": [
@@ -48184,6 +48373,15 @@ export const pois: POI[] = [
                   "coords": [
                         12.51863,
                         47.859035
+                  ]
+            },
+            {
+                  "name": "Strandbad Gollenshausen",
+                  "text": "Strandfürdő a Chiemsee-nél napozópázsittal és tavi belépővel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.437733,
+                        47.913343
                   ]
             }
       ],
@@ -48259,6 +48457,15 @@ export const pois: POI[] = [
                         12.51863,
                         47.859035
                   ]
+            },
+            {
+                  "name": "Strandbad Gollenshausen",
+                  "text": "O baie pe plaja lacului Chiemsee cu peluze și acces la lac.",
+                  "category": "recreational",
+                  "coords": [
+                        12.437733,
+                        47.913343
+                  ]
             }
       ],
       "en": [
@@ -48332,6 +48539,15 @@ export const pois: POI[] = [
                   "coords": [
                         12.51863,
                         47.859035
+                  ]
+            },
+            {
+                  "name": "Strandbad Gollenshausen",
+                  "text": "A lakeside beach at Chiemsee with sunbathing lawns and lake access.",
+                  "category": "recreational",
+                  "coords": [
+                        12.437733,
+                        47.913343
                   ]
             }
       ]
@@ -48812,6 +49028,24 @@ export const pois: POI[] = [
                         8.316328,
                         54.871887
                   ]
+            },
+            {
+                  "name": "Qiara",
+                  "text": "Ein öffentliches Bad auf der Insel Sylt zur Entspannung an der Nordsee.",
+                  "category": "recreational",
+                  "coords": [
+                        8.305387,
+                        54.909327
+                  ]
+            },
+            {
+                  "name": "Tierpark Tinnum",
+                  "text": "Ein kleiner Tierpark auf der Insel Sylt mit einheimischen und exotischen Tieren.",
+                  "category": "recreational",
+                  "coords": [
+                        8.328386,
+                        54.891443
+                  ]
             }
       ],
       "hu": [
@@ -48885,6 +49119,24 @@ export const pois: POI[] = [
                   "coords": [
                         8.316328,
                         54.871887
+                  ]
+            },
+            {
+                  "name": "Qiara",
+                  "text": "Nyilvános fürdő Sylt szigetén, pihenésre az Északi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        8.305387,
+                        54.909327
+                  ]
+            },
+            {
+                  "name": "Tierpark Tinnum",
+                  "text": "Kisméretű állatkert Sylt szigetén hazai és egzotikus állatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        8.328386,
+                        54.891443
                   ]
             }
       ],
@@ -48960,6 +49212,24 @@ export const pois: POI[] = [
                         8.316328,
                         54.871887
                   ]
+            },
+            {
+                  "name": "Qiara",
+                  "text": "O baie publică pe insula Sylt pentru relaxare la Marea Nordului.",
+                  "category": "recreational",
+                  "coords": [
+                        8.305387,
+                        54.909327
+                  ]
+            },
+            {
+                  "name": "Tierpark Tinnum",
+                  "text": "Un mic parc zoologic pe insula Sylt, cu animale native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        8.328386,
+                        54.891443
+                  ]
             }
       ],
       "en": [
@@ -49033,6 +49303,24 @@ export const pois: POI[] = [
                   "coords": [
                         8.316328,
                         54.871887
+                  ]
+            },
+            {
+                  "name": "Qiara",
+                  "text": "A public bath on the island of Sylt for relaxation by the North Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        8.305387,
+                        54.909327
+                  ]
+            },
+            {
+                  "name": "Tierpark Tinnum",
+                  "text": "A small zoo on the island of Sylt featuring native and exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        8.328386,
+                        54.891443
                   ]
             }
       ]
@@ -53877,6 +54165,15 @@ export const pois: POI[] = [
                         12.594241,
                         47.43172
                   ]
+            },
+            {
+                  "name": "Außenpool AlpenParks Hotel & Apartment Sonnleiten Saalbach",
+                  "text": "Ein Außenpool in Saalbach, der zur Entspannung in der alpinen Landschaft einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.637562,
+                        47.3952
+                  ]
             }
       ],
       "hu": [
@@ -53941,6 +54238,15 @@ export const pois: POI[] = [
                   "coords": [
                         12.594241,
                         47.43172
+                  ]
+            },
+            {
+                  "name": "Außenpool AlpenParks Hotel & Apartment Sonnleiten Saalbach",
+                  "text": "Szabadtéri medence Saalbachban, amely pihenésre invitál az alpesi tájban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.637562,
+                        47.3952
                   ]
             }
       ],
@@ -54007,6 +54313,15 @@ export const pois: POI[] = [
                         12.594241,
                         47.43172
                   ]
+            },
+            {
+                  "name": "Außenpool AlpenParks Hotel & Apartment Sonnleiten Saalbach",
+                  "text": "O piscină exterioară în Saalbach, care invită la relaxare în peisajul alpin.",
+                  "category": "recreational",
+                  "coords": [
+                        12.637562,
+                        47.3952
+                  ]
             }
       ],
       "en": [
@@ -54071,6 +54386,15 @@ export const pois: POI[] = [
                   "coords": [
                         12.594241,
                         47.43172
+                  ]
+            },
+            {
+                  "name": "Außenpool AlpenParks Hotel & Apartment Sonnleiten Saalbach",
+                  "text": "An outdoor pool in Saalbach inviting relaxation within the Alpine landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        12.637562,
+                        47.3952
                   ]
             }
       ]
@@ -54208,6 +54532,33 @@ export const pois: POI[] = [
                         7.73207,
                         50.101005
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Ein Hallenbad in der Loreleyschule.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Ein Freibad in Werlau mit Blick auf den Rhein.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "Eine Sommerrodelbahn auf dem berühmten Loreley-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
+                  ]
             }
       ],
       "hu": [
@@ -54272,6 +54623,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.73207,
                         50.101005
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Fedett uszoda a Loreley iskolában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Szabadtéri élményfürdő Werlauban, kilátással a Rajnára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "Nyári bobpálya a híres Loreley-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
                   ]
             }
       ],
@@ -54338,6 +54716,33 @@ export const pois: POI[] = [
                         7.73207,
                         50.101005
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "O piscină interioară situată la școala Loreley.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Un parc acvatic în aer liber în Werlau, cu vedere la Rin.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "O pistă de bob de vară situată pe faimosul platou Loreley.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
+                  ]
             }
       ],
       "en": [
@@ -54402,6 +54807,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.73207,
                         50.101005
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "An indoor swimming pool located at the Loreley School.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "An outdoor water park in Werlau offering views of the Rhine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "A summer toboggan run located on the famous Loreley plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
                   ]
             }
       ]
@@ -57919,6 +58351,24 @@ export const pois: POI[] = [
                         7.069815,
                         49.543933
                   ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "Ein kleines Tiergehege am Bostalsee, in dem Besucher Ziegen beobachten und füttern können.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "Ein großes Strandbad am Bostalsee mit Sandstrand, Liegewiesen und vielfältigen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
+                  ]
             }
       ],
       "hu": [
@@ -57992,6 +58442,24 @@ export const pois: POI[] = [
                   "coords": [
                         7.069815,
                         49.543933
+                  ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "Kisméretű állatkifutó a Bostalsee-nél, ahol a látogatók kecskéket figyelhetnek meg és etethetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "Nagy strandfürdő a Bostalsee-nél homokos parttal, napozópázsittal és változatos szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
                   ]
             }
       ],
@@ -58067,6 +58535,24 @@ export const pois: POI[] = [
                         7.069815,
                         49.543933
                   ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "O mică împrejmuire pentru animale la lacul Bostal, unde vizitatorii pot observa și hrăni caprele.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "O zonă mare de plajă la lacul Bostal, cu nisip, gazon pentru plajă și diverse opțiuni de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
+                  ]
             }
       ],
       "en": [
@@ -58140,6 +58626,24 @@ export const pois: POI[] = [
                   "coords": [
                         7.069815,
                         49.543933
+                  ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "A small animal enclosure at Lake Bostal where visitors can observe and feed goats.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "A large beach bath at Lake Bostal featuring a sandy shore, sunbathing lawns, and diverse leisure options.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
                   ]
             }
       ]
@@ -65606,6 +66110,15 @@ export const pois: POI[] = [
                         13.615335,
                         54.402165
                   ]
+            },
+            {
+                  "name": "Vitamar",
+                  "text": "Ein Schwimmbad in Prora auf Rügen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598017,
+                        54.411614
+                  ]
             }
       ],
       "hu": [
@@ -65679,6 +66192,15 @@ export const pois: POI[] = [
                   "coords": [
                         13.615335,
                         54.402165
+                  ]
+            },
+            {
+                  "name": "Vitamar",
+                  "text": "Úszómedence Prorában, Rügen szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598017,
+                        54.411614
                   ]
             }
       ],
@@ -65754,6 +66276,15 @@ export const pois: POI[] = [
                         13.615335,
                         54.402165
                   ]
+            },
+            {
+                  "name": "Vitamar",
+                  "text": "O piscină în Prora pe insula Rügen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598017,
+                        54.411614
+                  ]
             }
       ],
       "en": [
@@ -65827,6 +66358,15 @@ export const pois: POI[] = [
                   "coords": [
                         13.615335,
                         54.402165
+                  ]
+            },
+            {
+                  "name": "Vitamar",
+                  "text": "A swimming pool in Prora on Rügen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598017,
+                        54.411614
                   ]
             }
       ]
@@ -68189,6 +68729,24 @@ export const pois: POI[] = [
                         7.306369,
                         50.188182
                   ]
+            },
+            {
+                  "name": "Erlebnisbad Münstermaifeld",
+                  "text": "Ein lokaler Wasserpark mit verschiedenen Freizeitbecken in der Nähe der Burg Eltz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.35781,
+                        50.245669
+                  ]
+            },
+            {
+                  "name": "Freibad Treis",
+                  "text": "Ein öffentliches Freibad und Wasserpark für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        7.297369,
+                        50.169067
+                  ]
             }
       ],
       "hu": [
@@ -68253,6 +68811,24 @@ export const pois: POI[] = [
                   "coords": [
                         7.306369,
                         50.188182
+                  ]
+            },
+            {
+                  "name": "Erlebnisbad Münstermaifeld",
+                  "text": "Helyi élményfürdő különféle medencékkel az Eltz-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.35781,
+                        50.245669
+                  ]
+            },
+            {
+                  "name": "Freibad Treis",
+                  "text": "Nyilvános szabadtéri strand és élményfürdő nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.297369,
+                        50.169067
                   ]
             }
       ],
@@ -68319,6 +68895,24 @@ export const pois: POI[] = [
                         7.306369,
                         50.188182
                   ]
+            },
+            {
+                  "name": "Erlebnisbad Münstermaifeld",
+                  "text": "Un parc acvatic local cu diverse bazine de agrement lângă Castelul Eltz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.35781,
+                        50.245669
+                  ]
+            },
+            {
+                  "name": "Freibad Treis",
+                  "text": "Un ștrand public și parc acvatic pentru recreere pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        7.297369,
+                        50.169067
+                  ]
             }
       ],
       "en": [
@@ -68383,6 +68977,24 @@ export const pois: POI[] = [
                   "coords": [
                         7.306369,
                         50.188182
+                  ]
+            },
+            {
+                  "name": "Erlebnisbad Münstermaifeld",
+                  "text": "A local water park with various leisure pools near Eltz Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        7.35781,
+                        50.245669
+                  ]
+            },
+            {
+                  "name": "Freibad Treis",
+                  "text": "A public outdoor swimming pool and water park for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        7.297369,
+                        50.169067
                   ]
             }
       ]
@@ -71125,6 +71737,33 @@ export const pois: POI[] = [
                         7.73141,
                         50.142582
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Ein Hallenbad in der Nähe der Loreley, das wetterunabhängiges Schwimmvergnügen für Schüler und Gäste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Dieses Freibad in Werlau bietet Schwimmern einen weiten Ausblick über das Rheintal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "Eine rasante Sommerrodelbahn auf dem Loreley-Plateau, die Spaß und Ausblick kombiniert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
+                  ]
             }
       ],
       "hu": [
@@ -71189,6 +71828,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.73141,
                         50.142582
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Fedett uszoda a Loreley közelében, amely időjárástól független úszási lehetőséget biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Ez a werlau-i strandfürdő tágas kilátást nyújt az úszóknak a Rajna völgyére.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "Gyors tempójú nyári bobpálya a Loreley-fennsíkon, amely ötvözi a szórakozást és a kilátást.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
                   ]
             }
       ],
@@ -71255,6 +71921,33 @@ export const pois: POI[] = [
                         7.73141,
                         50.142582
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "O piscină acoperită lângă Loreley, care oferă posibilități de înot indiferent de condițiile meteorologice.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Această piscină în aer liber din Werlau oferă înotătorilor o vedere panoramică asupra văii Rinului.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "Un tobogan de vară rapid pe platoul Loreley, care combină distracția cu priveliștea spectaculoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
+                  ]
             }
       ],
       "en": [
@@ -71319,6 +72012,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.73141,
                         50.142582
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "An indoor swimming pool near the Loreley, providing swimming opportunities regardless of the weather.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "This outdoor pool in Werlau offers swimmers a wide view over the Rhine Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
+            },
+            {
+                  "name": "Sommerrodelbahn Loreley-Bob",
+                  "text": "A fast-paced summer toboggan run on the Loreley plateau, combining fun with great views.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734987,
+                        50.144147
                   ]
             }
       ]
@@ -71635,6 +72355,15 @@ export const pois: POI[] = [
                         11.005791,
                         47.438804
                   ]
+            },
+            {
+                  "name": "Familienbad und Sauna Ehrwald",
+                  "text": "Ein Wasserpark mit Sauna beim Zugspitzplatt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.918325,
+                        47.401327
+                  ]
             }
       ],
       "hu": [
@@ -71708,6 +72437,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.005791,
                         47.438804
+                  ]
+            },
+            {
+                  "name": "Familienbad und Sauna Ehrwald",
+                  "text": "Vízi park és szauna a Zugspitzplattnál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.918325,
+                        47.401327
                   ]
             }
       ],
@@ -71783,6 +72521,15 @@ export const pois: POI[] = [
                         11.005791,
                         47.438804
                   ]
+            },
+            {
+                  "name": "Familienbad und Sauna Ehrwald",
+                  "text": "Un parc acvatic și saună la Zugspitzplatt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.918325,
+                        47.401327
+                  ]
             }
       ],
       "en": [
@@ -71856,6 +72603,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.005791,
                         47.438804
+                  ]
+            },
+            {
+                  "name": "Familienbad und Sauna Ehrwald",
+                  "text": "A water park and sauna at Zugspitzplatt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.918325,
+                        47.401327
                   ]
             }
       ]
@@ -72288,7 +73044,268 @@ export const pois: POI[] = [
       "tr": ["Beatles, ilk Hamburg performansını 17 Ağustos 1960'ta Indra Club'da sergiledi.", "Grup Hamburg'da başlangıçta Stuart Sutcliffe dahil beş üyeden oluşuyordu.", "Beatles-Platz 29 metre çapındadır ve bir plak şekline benzer.", "John Lennon efsanevi bir şekilde: 'Liverpool'da doğdum ama Hamburg'da yetişkin oldum' demiştir.", "Star-Club 13 Nisan 1962'de açılmıştır ve bugün bir anma yeridir.", "Astrid Kirchherr, grubun ilk profesyonel portre fotoğraflarını Hamburg'da çekmiştir."]},
   },
   {
-    id: "kid-landmark-serengeti-park",
+    id: "kid-landmark-serengeti-park", "sights": {
+      "de": [
+            {
+                  "name": "Bunkenburg",
+                  "text": "Eine archäologische Stätte mit den Überresten einer historischen Erdburg bei Hodenhagen.",
+                  "category": "historical",
+                  "coords": [
+                        9.558748,
+                        52.761467
+                  ]
+            },
+            {
+                  "name": "Serengeti-Park",
+                  "text": "Ein bekannter Tier- und Freizeitpark in Hodenhagen mit Großwild-Safari.",
+                  "category": "recreational",
+                  "coords": [
+                        9.61656,
+                        52.748497
+                  ]
+            },
+            {
+                  "name": "Schloss Ahlden",
+                  "text": "Ein historisches Schloss in Ahlden, bekannt für seine Fachwerkarchitektur und Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        9.557948,
+                        52.759234
+                  ]
+            },
+            {
+                  "name": "Afrikanischer Elefant",
+                  "text": "Ein Bereich im Serengeti-Park, in dem afrikanische Elefanten beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        9.620534,
+                        52.745548
+                  ]
+            },
+            {
+                  "name": "Schimpansen",
+                  "text": "Eine Attraktion im Serengeti-Park, die der Beobachtung von Schimpansen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.618564,
+                        52.749089
+                  ]
+            },
+            {
+                  "name": "Putu Moto Riesenrad",
+                  "text": "Ein Riesenrad im Serengeti-Park, das einen weiten Ausblick über das Gelände bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624366,
+                        52.749548
+                  ]
+            },
+            {
+                  "name": "Mokora Wildwasserfahrt",
+                  "text": "Eine Wildwasserfahrt im afrikanischen Stil im Serengeti-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624686,
+                        52.751394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bunkenburg",
+                  "text": "Régészeti lelőhely egy történelmi földvár maradványaival Hodenhagen közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.558748,
+                        52.761467
+                  ]
+            },
+            {
+                  "name": "Serengeti-Park",
+                  "text": "Ismert állat- és szabadidőpark Hodenhagenben, nagyvad-szafarival.",
+                  "category": "recreational",
+                  "coords": [
+                        9.61656,
+                        52.748497
+                  ]
+            },
+            {
+                  "name": "Schloss Ahlden",
+                  "text": "Történelmi kastély Ahldenben, amely gerendavázas építészetéről és történelméről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        9.557948,
+                        52.759234
+                  ]
+            },
+            {
+                  "name": "Afrikanischer Elefant",
+                  "text": "A Serengeti-Park egyik területe, ahol afrikai elefántok láthatóak.",
+                  "category": "landmark",
+                  "coords": [
+                        9.620534,
+                        52.745548
+                  ]
+            },
+            {
+                  "name": "Schimpansen",
+                  "text": "A Serengeti-Park látványossága, amely a csimpánzok megfigyelésére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        9.618564,
+                        52.749089
+                  ]
+            },
+            {
+                  "name": "Putu Moto Riesenrad",
+                  "text": "Óriáskerék a Serengeti-Parkban, amely kilátást nyújt a park területére.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624366,
+                        52.749548
+                  ]
+            },
+            {
+                  "name": "Mokora Wildwasserfahrt",
+                  "text": "Afrikai stílusú vadvízi hajózás a Serengeti-Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624686,
+                        52.751394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bunkenburg",
+                  "text": "Un sit arheologic conținând rămășițele unei cetăți istorice de pământ lângă Hodenhagen.",
+                  "category": "historical",
+                  "coords": [
+                        9.558748,
+                        52.761467
+                  ]
+            },
+            {
+                  "name": "Serengeti-Park",
+                  "text": "Un cunoscut parc zoologic și de agrement în Hodenhagen, cu safari pentru animale mari.",
+                  "category": "recreational",
+                  "coords": [
+                        9.61656,
+                        52.748497
+                  ]
+            },
+            {
+                  "name": "Schloss Ahlden",
+                  "text": "Un castel istoric în Ahlden, cunoscut pentru arhitectura sa în stil fachwerk și istoria sa.",
+                  "category": "castle",
+                  "coords": [
+                        9.557948,
+                        52.759234
+                  ]
+            },
+            {
+                  "name": "Afrikanischer Elefant",
+                  "text": "O zonă din Serengeti-Park unde pot fi observați elefanți africani.",
+                  "category": "landmark",
+                  "coords": [
+                        9.620534,
+                        52.745548
+                  ]
+            },
+            {
+                  "name": "Schimpansen",
+                  "text": "O atracție din Serengeti-Park dedicată observării cimpanzeilor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.618564,
+                        52.749089
+                  ]
+            },
+            {
+                  "name": "Putu Moto Riesenrad",
+                  "text": "O roată panoramică din Serengeti-Park care oferă o vedere asupra parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624366,
+                        52.749548
+                  ]
+            },
+            {
+                  "name": "Mokora Wildwasserfahrt",
+                  "text": "O cursă pe apă în stil african în cadrul Serengeti-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624686,
+                        52.751394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunkenburg",
+                  "text": "An archaeological site featuring the remains of a historic earthwork castle near Hodenhagen.",
+                  "category": "historical",
+                  "coords": [
+                        9.558748,
+                        52.761467
+                  ]
+            },
+            {
+                  "name": "Serengeti Park",
+                  "text": "A well-known zoo and leisure park in Hodenhagen featuring big-game safari.",
+                  "category": "recreational",
+                  "coords": [
+                        9.61656,
+                        52.748497
+                  ]
+            },
+            {
+                  "name": "Schloss Ahlden",
+                  "text": "A historic castle in Ahlden known for its half-timbered architecture and history.",
+                  "category": "castle",
+                  "coords": [
+                        9.557948,
+                        52.759234
+                  ]
+            },
+            {
+                  "name": "Afrikanischer Elefant",
+                  "text": "An area within Serengeti-Park where visitors can observe African elephants.",
+                  "category": "landmark",
+                  "coords": [
+                        9.620534,
+                        52.745548
+                  ]
+            },
+            {
+                  "name": "Schimpansen",
+                  "text": "An attraction in Serengeti-Park dedicated to the observation of chimpanzees.",
+                  "category": "landmark",
+                  "coords": [
+                        9.618564,
+                        52.749089
+                  ]
+            },
+            {
+                  "name": "Putu Moto Riesenrad",
+                  "text": "A Ferris wheel in Serengeti-Park offering views over the park grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624366,
+                        52.749548
+                  ]
+            },
+            {
+                  "name": "Mokora Wildwasserfahrt",
+                  "text": "An African-themed log flume ride in Serengeti-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        9.624686,
+                        52.751394
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-NI",
     coords: [9.61, 52.75],

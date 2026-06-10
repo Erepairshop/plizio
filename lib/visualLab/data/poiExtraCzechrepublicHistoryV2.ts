@@ -4100,6 +4100,33 @@ export const czechrepublicHistoryV2: POI[] = [
                         12.360142,
                         50.109768
                   ]
+            },
+            {
+                  "name": "plavecký bazén Chetes",
+                  "text": "Ein öffentliches Schwimmbad in der Nähe der Burg Cheb für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        12.375382,
+                        50.073027
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Ein großer Wasserpark mit zahlreichen Innen- und Außenbecken sowie Wellnessangeboten.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
+            },
+            {
+                  "name": "Zookoutek Amerika",
+                  "text": "Ein kleiner Tierpark in einer Parkanlage, der heimische Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.333576,
+                        50.111729
+                  ]
             }
       ],
       "hu": [
@@ -4173,6 +4200,33 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         12.360142,
                         50.109768
+                  ]
+            },
+            {
+                  "name": "plavecký bazén Chetes",
+                  "text": "Nyilvános úszómedence a chebi vár közelében sportoláshoz és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.375382,
+                        50.073027
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Nagy vízi park számos beltéri és kültéri medencével, valamint wellness-szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
+            },
+            {
+                  "name": "Zookoutek Amerika",
+                  "text": "Kis állatkert egy parkosított területen, amely helyi állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        12.333576,
+                        50.111729
                   ]
             }
       ],
@@ -4248,6 +4302,33 @@ export const czechrepublicHistoryV2: POI[] = [
                         12.360142,
                         50.109768
                   ]
+            },
+            {
+                  "name": "plavecký bazén Chetes",
+                  "text": "O piscină publică lângă castelul Cheb pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        12.375382,
+                        50.073027
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Un parc acvatic mare cu numeroase bazine interioare și exterioare, plus facilități de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
+            },
+            {
+                  "name": "Zookoutek Amerika",
+                  "text": "O mică grădină zoologică într-o zonă de parc, care prezintă specii locale.",
+                  "category": "recreational",
+                  "coords": [
+                        12.333576,
+                        50.111729
+                  ]
             }
       ],
       "en": [
@@ -4321,6 +4402,33 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         12.360142,
                         50.109768
+                  ]
+            },
+            {
+                  "name": "plavecký bazén Chetes",
+                  "text": "A public swimming pool near Cheb Castle for sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        12.375382,
+                        50.073027
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "A large water park with numerous indoor and outdoor pools and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
+            },
+            {
+                  "name": "Zookoutek Amerika",
+                  "text": "A small zoo located in a park area, showcasing local animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        12.333576,
+                        50.111729
                   ]
             }
       ]
@@ -5629,6 +5737,60 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.458426,
                         49.273093
                   ]
+            },
+            {
+                  "name": "Na přehradě",
+                  "text": "Ein Freizeitpark in der Nähe der Burg Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.521174,
+                        49.228756
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "Ein Freibad in der Umgebung der Burg Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.515578,
+                        49.243082
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Osada",
+                  "text": "Ein Badeplatz an der Brünner Talsperre in der Nähe der Burg Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.499457,
+                        49.24663
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Sokolské koupaliště",
+                  "text": "Ein beliebter Badeplatz an der Brünner Talsperre bei der Burg Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.509752,
+                        49.242884
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Rakovec",
+                  "text": "Ein öffentlicher Badeplatz an der Brünner Talsperre nahe der Burg Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.512292,
+                        49.229161
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Kozí horka",
+                  "text": "Ein Erholungs- und Badeplatz an der Brünner Talsperre bei der Burg Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.506673,
+                        49.235645
+                  ]
             }
       ],
       "hu": [
@@ -5702,6 +5864,60 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.458426,
                         49.273093
+                  ]
+            },
+            {
+                  "name": "Na přehradě",
+                  "text": "A Veveří vár közelében található vidámpark.",
+                  "category": "recreational",
+                  "coords": [
+                        16.521174,
+                        49.228756
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "Szabadtéri úszómedence a Veveří vár környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.515578,
+                        49.243082
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Osada",
+                  "text": "Fürdőhely a Brnói-víztározónál, a Veveří vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.499457,
+                        49.24663
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Sokolské koupaliště",
+                  "text": "Népszerű fürdőhely a Brnói-víztározónál, Veveří váránál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.509752,
+                        49.242884
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Rakovec",
+                  "text": "Nyilvános fürdőhely a Brnói-víztározónál, Veveří vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.512292,
+                        49.229161
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Kozí horka",
+                  "text": "Rekreációs fürdőhely a Brnói-víztározónál, Veveří váránál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.506673,
+                        49.235645
                   ]
             }
       ],
@@ -5777,6 +5993,60 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.458426,
                         49.273093
                   ]
+            },
+            {
+                  "name": "Na přehradě",
+                  "text": "Un parc de distracții situat lângă Castelul Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.521174,
+                        49.228756
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "O piscină în aer liber în apropierea Castelului Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.515578,
+                        49.243082
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Osada",
+                  "text": "O zonă de înot la lacul de acumulare Brno, lângă Castelul Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.499457,
+                        49.24663
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Sokolské koupaliště",
+                  "text": "O zonă de înot populară la lacul de acumulare Brno, lângă Castelul Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.509752,
+                        49.242884
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Rakovec",
+                  "text": "O zonă publică de înot la lacul de acumulare Brno, lângă Castelul Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.512292,
+                        49.229161
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Kozí horka",
+                  "text": "O zonă de recreere și înot la lacul de acumulare Brno, lângă Castelul Veveří.",
+                  "category": "recreational",
+                  "coords": [
+                        16.506673,
+                        49.235645
+                  ]
             }
       ],
       "en": [
@@ -5850,6 +6120,60 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.458426,
                         49.273093
+                  ]
+            },
+            {
+                  "name": "Na přehradě",
+                  "text": "A theme park located near Veveří Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        16.521174,
+                        49.228756
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "An outdoor swimming pool located near Veveří Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        16.515578,
+                        49.243082
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Osada",
+                  "text": "A swimming area at the Brno Reservoir near Veveří Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        16.499457,
+                        49.24663
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Sokolské koupaliště",
+                  "text": "A popular swimming area at the Brno Reservoir near Veveří Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        16.509752,
+                        49.242884
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Rakovec",
+                  "text": "A public swimming area at the Brno Reservoir near Veveří Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        16.512292,
+                        49.229161
+                  ]
+            },
+            {
+                  "name": "Brněnská přehrada - Kozí horka",
+                  "text": "A recreational swimming area at the Brno Reservoir near Veveří Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        16.506673,
+                        49.235645
                   ]
             }
       ]
@@ -5962,6 +6286,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.589361,
                         50.455241
                   ]
+            },
+            {
+                  "name": "ehemaliges Bad",
+                  "text": "Ein ehemaliges Schwimmbad in der Nähe der Burg Kokořín.",
+                  "category": "recreational",
+                  "coords": [
+                        14.580517,
+                        50.438972
+                  ]
             }
       ],
       "hu": [
@@ -6026,6 +6359,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.589361,
                         50.455241
+                  ]
+            },
+            {
+                  "name": "Bývalé koupaliště Kokořín",
+                  "text": "Egy egykori úszómedence a Kokořín-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.580517,
+                        50.438972
                   ]
             }
       ],
@@ -6092,6 +6434,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.589361,
                         50.455241
                   ]
+            },
+            {
+                  "name": "Bývalé koupaliště Kokořín",
+                  "text": "O fostă piscină situată în apropierea Castelului Kokořín.",
+                  "category": "recreational",
+                  "coords": [
+                        14.580517,
+                        50.438972
+                  ]
             }
       ],
       "en": [
@@ -6156,6 +6507,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.589361,
                         50.455241
+                  ]
+            },
+            {
+                  "name": "Bývalé koupaliště Kokořín",
+                  "text": "A former swimming pool located near Kokořín Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        14.580517,
+                        50.438972
                   ]
             }
       ]
@@ -6529,6 +6889,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.05577,
                         48.857476
                   ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Ein Wasserpark in der Nähe des Burgwalls Hradiště u Znojma.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
+                  ]
             }
       ],
       "hu": [
@@ -6593,6 +6962,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.05577,
                         48.857476
+                  ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Vízipark a Hradiště u Znojma várhely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
                   ]
             }
       ],
@@ -6659,6 +7037,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.05577,
                         48.857476
                   ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Un parc acvatic situat în apropierea cetății Hradiště u Znojma.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
+                  ]
             }
       ],
       "en": [
@@ -6723,6 +7110,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.05577,
                         48.857476
+                  ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "A water park located near the Hradiště u Znojma hillfort.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
                   ]
             }
       ]
@@ -7456,6 +7852,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         13.783901,
                         49.821329
                   ]
+            },
+            {
+                  "name": "Koupaliště Týček",
+                  "text": "Ein öffentliches Freibad im Dorf Týček in der Nähe von Zbiroh.",
+                  "category": "recreational",
+                  "coords": [
+                        13.789209,
+                        49.869438
+                  ]
             }
       ],
       "hu": [
@@ -7520,6 +7925,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         13.783901,
                         49.821329
+                  ]
+            },
+            {
+                  "name": "Koupaliště Týček",
+                  "text": "Nyilvános szabadtéri úszómedence Týček faluban, Zbiroh közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.789209,
+                        49.869438
                   ]
             }
       ],
@@ -7586,6 +8000,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         13.783901,
                         49.821329
                   ]
+            },
+            {
+                  "name": "Koupaliště Týček",
+                  "text": "O piscină publică în aer liber situată în satul Týček, lângă Zbiroh.",
+                  "category": "recreational",
+                  "coords": [
+                        13.789209,
+                        49.869438
+                  ]
             }
       ],
       "en": [
@@ -7650,6 +8073,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         13.783901,
                         49.821329
+                  ]
+            },
+            {
+                  "name": "Koupaliště Týček",
+                  "text": "A public outdoor swimming pool located in the village of Týček near Zbiroh.",
+                  "category": "recreational",
+                  "coords": [
+                        13.789209,
+                        49.869438
                   ]
             }
       ]
@@ -8158,6 +8590,33 @@ export const czechrepublicHistoryV2: POI[] = [
                         17.165848,
                         49.081561
                   ]
+            },
+            {
+                  "name": "Koupaliště Koryčany",
+                  "text": "Öffentliches Freibad in Koryčany nahe Schloss Buchlovice für sommerliches Badevergnügen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183931,
+                        49.1158
+                  ]
+            },
+            {
+                  "name": "brouzdaliště",
+                  "text": "Ein kleines Planschbecken für Kinder in der Nähe des Schlosses Buchlovice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184882,
+                        49.11605
+                  ]
+            },
+            {
+                  "name": "Zarostlé koupaliště",
+                  "text": "Ein ehemaliges, heute zugewachsenes Schwimmbad in der Umgebung von Schloss Buchlovice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246337,
+                        49.05887
+                  ]
             }
       ],
       "hu": [
@@ -8222,6 +8681,33 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         17.165848,
                         49.081561
+                  ]
+            },
+            {
+                  "name": "Koupaliště Koryčany",
+                  "text": "Nyilvános strandfürdő Koryčanyban, a buchlovicei kastély közelében a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183931,
+                        49.1158
+                  ]
+            },
+            {
+                  "name": "brouzdaliště",
+                  "text": "Kisméretű gyermekpancsoló medence a buchlovicei kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184882,
+                        49.11605
+                  ]
+            },
+            {
+                  "name": "Zarostlé koupaliště",
+                  "text": "Egykori, mára benőtt úszómedence a buchlovicei kastély környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246337,
+                        49.05887
                   ]
             }
       ],
@@ -8288,6 +8774,33 @@ export const czechrepublicHistoryV2: POI[] = [
                         17.165848,
                         49.081561
                   ]
+            },
+            {
+                  "name": "Koupaliště Koryčany",
+                  "text": "O piscină publică în aer liber în Koryčany, lângă Castelul Buchlovice, pentru distracție estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183931,
+                        49.1158
+                  ]
+            },
+            {
+                  "name": "brouzdaliště",
+                  "text": "O piscină mică pentru copii în apropierea Castelului Buchlovice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184882,
+                        49.11605
+                  ]
+            },
+            {
+                  "name": "Zarostlé koupaliště",
+                  "text": "O fostă piscină, astăzi acoperită de vegetație, în împrejurimile Castelului Buchlovice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246337,
+                        49.05887
+                  ]
             }
       ],
       "en": [
@@ -8352,6 +8865,33 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         17.165848,
                         49.081561
+                  ]
+            },
+            {
+                  "name": "Koupaliště Koryčany",
+                  "text": "A public outdoor swimming pool in Koryčany near Buchlovice Chateau for summer leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183931,
+                        49.1158
+                  ]
+            },
+            {
+                  "name": "brouzdaliště",
+                  "text": "A small wading pool for children located near the Buchlovice Chateau.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184882,
+                        49.11605
+                  ]
+            },
+            {
+                  "name": "Zarostlé koupaliště",
+                  "text": "A former, now overgrown swimming pool located in the vicinity of Buchlovice Chateau.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246337,
+                        49.05887
                   ]
             }
       ]
@@ -8806,6 +9346,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.47537,
                         49.302184
                   ]
+            },
+            {
+                  "name": "Koupaliště Bechyně",
+                  "text": "Ein Freibad beim Schloss Bechyně, das im Sommer zur Abkühlung dient.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464017,
+                        49.30147
+                  ]
             }
       ],
       "hu": [
@@ -8879,6 +9428,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.47537,
                         49.302184
+                  ]
+            },
+            {
+                  "name": "Koupaliště Bechyně",
+                  "text": "Szabadtéri strandfürdő a bechyněi kastély közelében, nyári felfrissülést kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464017,
+                        49.30147
                   ]
             }
       ],
@@ -8954,6 +9512,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.47537,
                         49.302184
                   ]
+            },
+            {
+                  "name": "Koupaliště Bechyně",
+                  "text": "O piscină în aer liber lângă Castelul Bechyně, oferind răcoare pe timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464017,
+                        49.30147
+                  ]
             }
       ],
       "en": [
@@ -9027,6 +9594,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.47537,
                         49.302184
+                  ]
+            },
+            {
+                  "name": "Koupaliště Bechyně",
+                  "text": "An outdoor swimming pool near Bechyně Chateau, providing a place to cool off in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464017,
+                        49.30147
                   ]
             }
       ]
@@ -9400,6 +9976,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "Ein Schwimmbad bei den Stadtbefestigungen von Třeboň, das Erholung in historischer Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
+                  ]
             }
       ],
       "hu": [
@@ -9455,6 +10040,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.7681,
                         49.016188
+                  ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "Úszómedence Třeboň városi erődítményei mellett, amely pihenést kínál történelmi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
                   ]
             }
       ],
@@ -9512,6 +10106,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "O piscină lângă fortificațiile orașului Třeboň, oferind recreere într-un cadru istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
+                  ]
             }
       ],
       "en": [
@@ -9567,6 +10170,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.7681,
                         49.016188
+                  ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "A swimming pool by the Třeboň city fortifications, offering recreation in a historical setting.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
                   ]
             }
       ]
@@ -10075,6 +10687,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.404406,
                         49.988221
                   ]
+            },
+            {
+                  "name": "Action park",
+                  "text": "Ein Freizeitpark in Zbraslav, der verschiedene Attraktionen und Aktivitäten für aktive Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393308,
+                        49.995017
+                  ]
             }
       ],
       "hu": [
@@ -10148,6 +10769,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.404406,
                         49.988221
+                  ]
+            },
+            {
+                  "name": "Action park",
+                  "text": "Szabadidőpark Zbraslavban, amely különféle attrakciókat és tevékenységeket kínál az aktív látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393308,
+                        49.995017
                   ]
             }
       ],
@@ -10223,6 +10853,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.404406,
                         49.988221
                   ]
+            },
+            {
+                  "name": "Action park",
+                  "text": "Un parc de distracții în Zbraslav, care oferă diverse atracții și activități pentru vizitatorii activi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393308,
+                        49.995017
+                  ]
             }
       ],
       "en": [
@@ -10296,6 +10935,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.404406,
                         49.988221
+                  ]
+            },
+            {
+                  "name": "Action park",
+                  "text": "An action park in Zbraslav offering various attractions and activities for active visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        14.393308,
+                        49.995017
                   ]
             }
       ]
@@ -10588,6 +11236,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.05577,
                         48.857476
                   ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Ein Bade- und Wellnessbereich an den historischen Stadtbefestigungen von Znaim.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
+                  ]
             }
       ],
       "hu": [
@@ -10652,6 +11309,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.05577,
                         48.857476
+                  ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "Fürdő- és wellnessrészleg Znojmo történelmi városfalainál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
                   ]
             }
       ],
@@ -10718,6 +11384,15 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.05577,
                         48.857476
                   ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "O zonă de băi și relaxare situată lângă fortificațiile istorice ale orașului Znojmo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
+                  ]
             }
       ],
       "en": [
@@ -10782,6 +11457,15 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.05577,
                         48.857476
+                  ]
+            },
+            {
+                  "name": "Lázně",
+                  "text": "A bathing and wellness area located by the historic city fortifications of Znojmo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.048834,
+                        48.860124
                   ]
             }
       ]

@@ -6428,6 +6428,24 @@ export const poiExtraHu1: POI[] = [
                         20.246299,
                         46.652888
                   ]
+            },
+            {
+                  "name": "Termál Gyógyfürdő",
+                  "text": "Ein öffentliches Thermalbad in Szentes, bekannt für sein entspannendes Heilwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        20.255765,
+                        46.659018
+                  ]
+            },
+            {
+                  "name": "Dr. Rébeli Szabó József Városi Sportuszoda",
+                  "text": "Das städtische Sportbad in Szentes, das für Training und Erholung genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248722,
+                        46.651819
+                  ]
             }
       ],
       "hu": [
@@ -6576,6 +6594,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         20.246299,
                         46.652888
+                  ]
+            },
+            {
+                  "name": "Termál Gyógyfürdő",
+                  "text": "Szentesi termál gyógyfürdő, amely pihentető gyógyvizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.255765,
+                        46.659018
+                  ]
+            },
+            {
+                  "name": "Dr. Rébeli Szabó József Városi Sportuszoda",
+                  "text": "Szentes városi sportuszodája, amely edzéseknek és kikapcsolódásnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248722,
+                        46.651819
                   ]
             }
       ],
@@ -6726,6 +6762,24 @@ export const poiExtraHu1: POI[] = [
                         20.246299,
                         46.652888
                   ]
+            },
+            {
+                  "name": "Termál Gyógyfürdő",
+                  "text": "O baie termală publică în Szentes, cunoscută pentru apele sale medicinale relaxante.",
+                  "category": "recreational",
+                  "coords": [
+                        20.255765,
+                        46.659018
+                  ]
+            },
+            {
+                  "name": "Dr. Rébeli Szabó József Városi Sportuszoda",
+                  "text": "Piscina sportivă municipală din Szentes, utilizată pentru antrenament și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248722,
+                        46.651819
+                  ]
             }
       ],
       "en": [
@@ -6874,6 +6928,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         20.246299,
                         46.652888
+                  ]
+            },
+            {
+                  "name": "Termál Gyógyfürdő",
+                  "text": "A public thermal bath in Szentes known for its relaxing medicinal waters.",
+                  "category": "recreational",
+                  "coords": [
+                        20.255765,
+                        46.659018
+                  ]
+            },
+            {
+                  "name": "Dr. Rébeli Szabó József Városi Sportuszoda",
+                  "text": "The municipal sports swimming pool in Szentes, used for training and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248722,
+                        46.651819
                   ]
             }
       ]
@@ -14052,6 +14124,24 @@ export const poiExtraHu1: POI[] = [
                         18.300093,
                         46.641695
                   ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Ein Wildpark in Tamási, der einheimische Tierarten der Region präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        18.28042,
+                        46.610571
+                  ]
+            },
+            {
+                  "name": "Tamási Termálfürdő",
+                  "text": "Ein Thermalbad und Wasserpark in Tamási mit Wellnessangeboten und Innenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        18.284593,
+                        46.624371
+                  ]
             }
       ],
       "hu": [
@@ -14126,6 +14216,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.300093,
                         46.641695
+                  ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Tamási vadaspark, ahol a környék vadállománya tekinthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        18.28042,
+                        46.610571
+                  ]
+            },
+            {
+                  "name": "Tamási Termálfürdő",
+                  "text": "Tamási termálfürdő és vízi park wellness szolgáltatásokkal és fedett medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        18.284593,
+                        46.624371
                   ]
             }
       ],
@@ -14202,6 +14310,24 @@ export const poiExtraHu1: POI[] = [
                         18.300093,
                         46.641695
                   ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Un parc de animale sălbatice în Tamási, care prezintă specii locale de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        18.28042,
+                        46.610571
+                  ]
+            },
+            {
+                  "name": "Tamási Termálfürdő",
+                  "text": "O baie termală și parc acvatic în Tamási, care oferă wellness și piscine interioare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.284593,
+                        46.624371
+                  ]
             }
       ],
       "en": [
@@ -14276,6 +14402,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.300093,
                         46.641695
+                  ]
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "A wildlife park in Tamási showcasing local animal species of the region.",
+                  "category": "recreational",
+                  "coords": [
+                        18.28042,
+                        46.610571
+                  ]
+            },
+            {
+                  "name": "Tamási Termálfürdő",
+                  "text": "A thermal bath and water park in Tamási offering wellness and indoor pools.",
+                  "category": "recreational",
+                  "coords": [
+                        18.284593,
+                        46.624371
                   ]
             }
       ]
@@ -16106,6 +16250,15 @@ export const poiExtraHu1: POI[] = [
                         18.123514,
                         47.165
                   ]
+            },
+            {
+                  "name": "Egykori Peremartoni strand",
+                  "text": "Ein ehemaliges Schwimmbad in Berhida, das der Erholung diente.",
+                  "category": "recreational",
+                  "coords": [
+                        18.10238,
+                        47.128786
+                  ]
             }
       ],
       "hu": [
@@ -16158,6 +16311,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.123514,
                         47.165
+                  ]
+            },
+            {
+                  "name": "Egykori Peremartoni strand",
+                  "text": "Egykori úszómedence Berhidán, amely korábban a kikapcsolódást szolgálta.",
+                  "category": "recreational",
+                  "coords": [
+                        18.10238,
+                        47.128786
                   ]
             }
       ],
@@ -16212,6 +16374,15 @@ export const poiExtraHu1: POI[] = [
                         18.123514,
                         47.165
                   ]
+            },
+            {
+                  "name": "Egykori Peremartoni strand",
+                  "text": "O fostă piscină în Berhida care servea recreerii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.10238,
+                        47.128786
+                  ]
             }
       ],
       "en": [
@@ -16264,6 +16435,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.123514,
                         47.165
+                  ]
+            },
+            {
+                  "name": "Egykori Peremartoni strand",
+                  "text": "A former swimming pool in Berhida previously used for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.10238,
+                        47.128786
                   ]
             }
       ]

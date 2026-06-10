@@ -3,7 +3,2572 @@ import { POI } from "./poi";
 
 export const poiExtraBulgariaCities: POI[] = [
   {
-    id: "city-sofia", "sights": {"de": [{"name": "Nationale Kunstgalerie", "text": "Bulgariens größtes Kunstmuseum im ehemaligen Königspalast von Sofia.", "category": "museum", "coords": [23.326764, 42.696517]}, {"name": "Historisches Museum", "text": "Ein Museum zur Geschichte Sofias im Gebäude der Zentralen Mineralbäder.", "category": "museum", "coords": [23.323648, 42.699337]}, {"name": "Kashta muzei \"Ivan Vazov\"", "text": "Das ehemalige Wohnhaus des berühmten bulgarischen Schriftstellers Ivan Vazov.", "category": "museum", "coords": [23.327604, 42.692976]}, {"name": "Natsionalniya literaturen muzei", "text": "Ein Museum zur Literaturgeschichte Bulgariens in Sofia.", "category": "museum", "coords": [23.323108, 42.689495]}, {"name": "Nationalmuseum der Militärgeschichte", "text": "Eine umfangreiche Sammlung militärischer Artefakte und Geschichte in Sofia.", "category": "museum", "coords": [23.350469, 42.688525]}, {"name": "Natsionalen muzei \"Zemyata i horata\"", "text": "Ein einzigartiges mineralogisches Museum in Sofia.", "category": "museum", "coords": [23.320516, 42.679758]}, {"name": "Nationales Archäologisches Museum", "text": "Ein Museum mit bedeutenden archäologischen Funden in Sofia.", "category": "museum", "coords": [23.324562, 42.696429]}, {"name": "Sofiiska gradska hudozhestvena galeriya", "text": "Ein Kunstmuseum zum künstlerischen Erbe der Stadt Sofia.", "category": "museum", "coords": [23.324359, 42.694431]}, {"name": "Natsionalen politehnicheski muzei", "text": "Ein Museum für Wissenschaft und Technologie in Sofia.", "category": "museum", "coords": [23.311986, 42.704054]}, {"name": "Amphitheater von Serdica", "text": "Archäologische Stätte mit den Ruinen eines römischen Amphitheaters.", "category": "historical", "coords": [23.328222, 42.697473]}, {"name": "Rimska stena", "text": "Überreste der antiken Stadtmauer und Befestigungsanlagen.", "category": "historical", "coords": [23.330102, 42.683914]}, {"name": "Tsar Osvoboditel", "text": "Denkmal zu Ehren des russischen Kaisers Alexander II.", "category": "historical", "coords": [23.332318, 42.693743]}, {"name": "Natsionalna opera i balet", "text": "Das bedeutendste Opern- und Balletthaus der Hauptstadt.", "category": "cultural", "coords": [23.330434, 42.697767]}, {"name": "Teatar \"Balgarska armiya\"", "text": "Ein etabliertes professionelles Theater im Stadtzentrum.", "category": "cultural", "coords": [23.328854, 42.69478]}, {"name": "Teatar-Laboratoriya “Alma Alter”", "text": "Raum für experimentelles und alternatives Theater.", "category": "cultural", "coords": [23.335345, 42.692859]}, {"name": "Teatralna rabotilnitsa Sfumato", "text": "Innovative Theaterwerkstatt und Labor für Schauspielkunst.", "category": "cultural", "coords": [23.346113, 42.697912]}, {"name": "Nationaler Kulturpalast", "text": "Großer multifunktionaler Komplex für Ausstellungen und Kulturveranstaltungen.", "category": "cultural", "coords": [23.318964, 42.684758]}, {"name": "Sveti Sedmochislenitsi", "text": "Historische orthodoxe Kirche, die ursprünglich eine osmanische Moschee war.", "category": "religious", "coords": [23.327598, 42.68995]}, {"name": "Sofioter Synagoge", "text": "Eine der größten und prächtigsten Synagogen in ganz Europa.", "category": "religious", "coords": [23.320941, 42.700249]}, {"name": "Sophienkirche", "text": "Antike byzantinische Kirche, nach der die Stadt benannt wurde.", "category": "religious", "coords": [23.331434, 42.696549]}, {"name": "Kathedrale Sweta Nedelja", "text": "Mittelalterliche Kathedrale im Herzen der Stadt.", "category": "religious", "coords": [23.321383, 42.696714]}, {"name": "Sveta Paraskeva", "text": "Bulgarisch-orthodoxe Kirche, die der Heiligen Paraskeva gewidmet ist.", "category": "religious", "coords": [23.328846, 42.701224]}, {"name": "Katedralen hram “Uspenie Bogorodichno”", "text": "Kathedrale Maria Himmelfahrt, ein ostkatholisches Gotteshaus.", "category": "religious", "coords": [23.313143, 42.691045]}, {"name": "Armenska tsarkva \"Sv. Bogoroditsa\"", "text": "Traditionelle armenische Kirche im Stadtzentrum.", "category": "religious", "coords": [23.31396, 42.692743]}, {"name": "Sveti Iosif", "text": "Die wichtigste katholische Kathedrale in der bulgarischen Hauptstadt.", "category": "religious", "coords": [23.319775, 42.698743]}, {"name": "Sv. Nikolai Sofiiski", "text": "Orthodoxe Kirche, die dem Heiligen Nikolaus von Sofia gewidmet ist.", "category": "religious", "coords": [23.310065, 42.701583]}, {"name": "Sv. Georgi Pobedonosets", "text": "Antike römische Rotunde, das älteste erhaltene Gebäude der Stadt.", "category": "religious", "coords": [23.322881, 42.696909]}, {"name": "Pokrov Bogorodichen", "text": "Orthodoxe Kirche, die dem Schutz der Gottesmutter gewidmet ist.", "category": "religious", "coords": [23.307815, 42.692602]}, {"name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”", "text": "Orthodoxe Kirche zu Ehren des Heiligen Nikolaus des Wundertäters.", "category": "religious", "coords": [23.32284, 42.695969]}, {"name": "Sv. Petka Samardzhiiska", "text": "Kleine mittelalterliche Kirche in einer zentralen Fußgängerunterführung.", "category": "religious", "coords": [23.322175, 42.697867]}, {"name": "Wassil Lewski", "text": "Denkmal zum Gedenken an den bulgarischen Nationalhelden Wassil Lewski.", "category": "landmark", "coords": [23.335329, 42.696665]}, {"name": "Petko i Pencho Slaveikovi", "text": "Skulptur der Dichter Petko und Pentscho Slawejkow auf einer Parkbank.", "category": "landmark", "coords": [23.323834, 42.692389]}, {"name": "Banja-Baschi-Moschee", "text": "Historische osmanische Moschee, entworfen vom Architekten Mimar Sinan.", "category": "landmark", "coords": [23.322561, 42.699506]}, {"name": "Alexander-Newski-Kathedrale", "text": "Ikonische neobyzantinische Kathedrale und Wahrzeichen der Stadt.", "category": "landmark", "coords": [23.332795, 42.695818]}, {"name": "Sv. Nikolai Chudotvorets", "text": "Russisch-orthodoxe Kirche, bekannt für ihre goldenen Kuppeln.", "category": "landmark", "coords": [23.328937, 42.695696]}, {"name": "Russisches Denkmal", "text": "Obelisk zum Gedenken an die Befreiung des Landes.", "category": "landmark", "coords": [23.31042, 42.692254]}, {"name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya", "text": "Historischer astronomischer Beobachtungspunkt und geodätischer Markierungspunkt.", "category": "landmark", "coords": [23.330317, 42.695656]}, {"name": "Televizionna kula „Sofiya“", "text": "Markanter Fernsehturm, der die gesamte Stadt versorgt.", "category": "tower", "coords": [23.341722, 42.676761]}, {"name": "Adlerbrücke", "text": "Berühmte Brücke mit vier markanten Bronzeadlern.", "category": "landmark", "coords": [23.337501, 42.690552]}, {"name": "Löwenbrücke", "text": "Historische Brücke, die mit vier bronzenen Löwenfiguren geschmückt ist.", "category": "landmark", "coords": [23.32388, 42.704918]}, {"name": "Park Sv. Sv. Petar i Pavel", "text": "Öffentliche Parkanlage, benannt nach den Heiligen Peter und Paul.", "category": "park", "coords": [23.2938, 42.696253]}, {"name": "park Oborishte", "text": "Beliebter Stadtpark mit Grünflächen und Denkmälern.", "category": "park", "coords": [23.342462, 42.697527]}, {"name": "Knyazheska gradina", "text": "Städtische Grünanlage in der Nähe des Stadtzentrums.", "category": "park", "coords": [23.334207, 42.690807]}, {"name": "Stadtgarten", "text": "Der älteste öffentliche Park der Stadt vor dem Nationaltheater.", "category": "park", "coords": [23.325502, 42.695182]}, {"name": "Doktorska gradina", "text": "Landschaftspark zum Gedenken an das im Krieg verstorbene medizinische Personal.", "category": "park", "coords": [23.338488, 42.694424]}, {"name": "Gradina Kyulutsite", "text": "Kleiner angelegter Garten und Erholungsbereich.", "category": "park", "coords": [23.334823, 42.702027]}, {"name": "Muzei Nikola Tanev", "text": "Museum, das dem Leben und Werk des Malers Nikola Tanew gewidmet ist.", "category": "museum", "coords": [23.332129, 42.687652]}, {"name": "Kashta muzei \"Ivan Lazarov\"", "text": "Gedenkhaus und Museum des bulgarischen Bildhauers Iwan Lazarow.", "category": "museum", "coords": [23.327557, 42.687234]}, {"name": "Vodna kula", "text": "Ehemaliger Wasserturm, der heute als Galerie für zeitgenössische Kunst dient.", "category": "museum", "coords": [23.326236, 42.672744]}, {"name": "Théatro", "text": "Moderne Spielstätte für verschiedene Theateraufführungen.", "category": "cultural", "coords": [23.345949, 42.6954]}, {"name": "Darzhaven satirichen teatar “Aleko Konstantinov”", "text": "Theater, das auf satirische und komödiantische Produktionen spezialisiert ist.", "category": "cultural", "coords": [23.326319, 42.691616]}, {"name": "Zelenite ezera", "text": "Malerische Seen in Sofia, ideal für Spaziergänge in der Natur.", "category": "natural", "coords": [23.307553, 42.663662]}, {"name": "Baroko", "text": "Ein ruhiger See in Sofia, der eine angenehme Atmosphäre bietet.", "category": "natural", "coords": [23.354239, 42.651179]}, {"name": "Druzhbensko ezero", "text": "Ein bekannter See in Sofia, der zu entspannten Stunden am Wasser einlädt.", "category": "natural", "coords": [23.400871, 42.664249]}, {"name": "Malak Pencho", "text": "Ein kleiner, gemütlicher Spielplatz in Sofia für junge Besucher.", "category": "family", "coords": [23.328953, 42.676603]}, {"name": "Casita", "text": "Ein einladender Spielbereich in Sofia für Familien with Kindern.", "category": "family", "coords": [23.318842, 42.691913]}, {"name": "Kosha", "text": "Ein beliebter Spielplatz in Sofia, der viel Platz zum Spielen bietet.", "category": "family", "coords": [23.355642, 42.690762]}, {"name": "Red Zone", "text": "Eine aufregende Spielhalle in Sofia mit Unterhaltung für alle Altersgruppen.", "category": "family", "coords": [23.321258, 42.683625]}, {"name": "Fun Box", "text": "Ein moderner Unterhaltungsbereich in Sofia für Fans von Videospielen.", "category": "family", "coords": [23.308682, 42.698426]}, {"name": "Retro Gaming Bar", "text": "Ein Ort in Sofia, der klassische Videospiele in geselliger Runde bietet.", "category": "family", "coords": [23.318226, 42.696898]}, {"name": "Kostenurka", "text": "Ein fantasievoll gestalteter Spielplatz in Sofia für Kinder.", "category": "family", "coords": [23.344365, 42.697401]}, {"name": "Vrooms", "text": "Ein Ort für virtuellen Spielspaß in Sofia für technikbegeisterte Besucher.", "category": "family", "coords": [23.321732, 42.706983]}, {"name": "Capella Play", "text": "Ein großer Indoor-Spielplatz in Sofia, ideal für Kindergeburtstage.", "category": "family", "coords": [23.319837, 42.678366]}, {"name": "Halmcheto", "text": "Ein schön gelegener Spielplatz in Sofia mit verschiedenen Spielgeräten.", "category": "family", "coords": [23.353169, 42.694199]}, {"name": "Detska ploshtadka „Slona“", "text": "Ein thematischer Spielplatz in Sofia, der Kindern viel Freude bereitet.", "category": "family", "coords": [23.339276, 42.687382]}, {"name": "Detsata s zhivotni", "text": "Ein kinderfreundlicher Spielplatz in Sofia mit liebevollen Details.", "category": "family", "coords": [23.304141, 42.680514]}], "hu": [{"name": "Natsionalna hudozhestvena galeriya", "text": "Bulgária legnagyobb művészeti múzeuma a szófiai volt királyi palotában.", "category": "museum", "coords": [23.326764, 42.696517]}, {"name": "Muzei za istoriya na Sofiya", "text": "Szófia történetét bemutató múzeum a Központi Ásványvizes Fürdő épületében.", "category": "museum", "coords": [23.323648, 42.699337]}, {"name": "Kashta muzei \"Ivan Vazov\"", "text": "Ivan Vazov híres bolgár író egykori otthona Szófiában.", "category": "museum", "coords": [23.327604, 42.692976]}, {"name": "Nemzeti Irodalmi Múzeum", "text": "Bulgária irodalomtörténetének szentelt múzeum Szófiában.", "category": "museum", "coords": [23.323108, 42.689495]}, {"name": "Natsionalen voennoistoricheski muzei", "text": "Katonai tárgyak és történelem kiterjedt gyűjteménye Szófiában.", "category": "museum", "coords": [23.350469, 42.688525]}, {"name": "Natsionalen muzei \"Zemyata i horata\"", "text": "Egyedülálló ásványtani múzeum Szófiában.", "category": "museum", "coords": [23.320516, 42.679758]}, {"name": "Natsionalen arheologicheski institut s muzei", "text": "Jelentős régészeti leleteket bemutató múzeum Szófiában.", "category": "museum", "coords": [23.324562, 42.696429]}, {"name": "Sofiiska gradska hudozhestvena galeriya", "text": "Szófia város művészeti örökségére fókuszáló múzeum.", "category": "museum", "coords": [23.324359, 42.694431]}, {"name": "Natsionalen politehnicheski muzei", "text": "A tudománynak és technológiának szentelt múzeum Szófiában.", "category": "museum", "coords": [23.311986, 42.704054]}, {"name": "Sofiiski rimski amfiteatar", "text": "Római kori amfiteátrum romait bemutató régészeti lelőhely.", "category": "historical", "coords": [23.328222, 42.697473]}, {"name": "Rimska stena", "text": "Az ókori városfal és erődítmények maradványai.", "category": "historical", "coords": [23.330102, 42.683914]}, {"name": "Tsar Osvoboditel", "text": "II. Sándor orosz cár tiszteletére emelt emlékmű.", "category": "historical", "coords": [23.332318, 42.693743]}, {"name": "Natsionalna opera i balet", "text": "A főváros legjelentősebb opera- és balettháza.", "category": "cultural", "coords": [23.330434, 42.697767]}, {"name": "Teatar \"Balgarska armiya\"", "text": "A városközpontban található neves hivatásos színház.", "category": "cultural", "coords": [23.328854, 42.69478]}, {"name": "Teatar-Laboratoriya “Alma Alter”", "text": "Kísérleti és alternatív színházi előadások helyszíne.", "category": "cultural", "coords": [23.335345, 42.692859]}, {"name": "Teatralna rabotilnitsa Sfumato", "text": "Innovatív színházi laboratórium és műhely.", "category": "cultural", "coords": [23.346113, 42.697912]}, {"name": "Natsionalen dvorets na kulturata", "text": "Nagyméretű multifunkcionális központ kiállítások és kulturális események számára.", "category": "cultural", "coords": [23.318964, 42.684758]}, {"name": "Sveti Sedmochislenitsi", "text": "Történelmi ortodox templom, amely eredetileg oszmán mecset volt.", "category": "religious", "coords": [23.327598, 42.68995]}, {"name": "Sofiiska sinagoga", "text": "Európa egyik legnagyobb és legdíszesebb zsinagógája.", "category": "religious", "coords": [23.320941, 42.700249]}, {"name": "Sv. Sofiya", "text": "Ókori bizánci templom, amelyről a várost elnevezték.", "category": "religious", "coords": [23.331434, 42.696549]}, {"name": "Sveta Nedelya", "text": "A város szívében található középkori székesegyház.", "category": "religious", "coords": [23.321383, 42.696714]}, {"name": "Sveta Paraskeva", "text": "Szent Paraszkevának szentelt bolgár ortodox templom.", "category": "religious", "coords": [23.328846, 42.701224]}, {"name": "Katedralen hram “Uspenie Bogorodichno”", "text": "Mária Mennybevétele székesegyház, keleti katolikus templom.", "category": "religious", "coords": [23.313143, 42.691045]}, {"name": "Armenska tsarkva \"Sv. Bogoroditsa\"", "text": "Hagyományos örmény templom a városközpontban.", "category": "religious", "coords": [23.31396, 42.692743]}, {"name": "Sveti Iosif", "text": "A főváros legfontosabb katolikus székesegyháza.", "category": "religious", "coords": [23.319775, 42.698743]}, {"name": "Sv. Nikolai Sofiiski", "text": "Szófiai Szent Miklósnak szentelt ortodox templom.", "category": "religious", "coords": [23.310065, 42.701583]}, {"name": "Sv. Georgi Pobedonosets", "text": "Ókori római rotunda, a város legrégebbi épségben maradt épülete.", "category": "religious", "coords": [23.322881, 42.696909]}, {"name": "Pokrov Bogorodichen", "text": "Az Istenanya oltalmazásának szentelt ortodox templom.", "category": "religious", "coords": [23.307815, 42.692602]}, {"name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”", "text": "Csodatevő Szent Miklós tiszteletére emelt ortodox templom.", "category": "religious", "coords": [23.32284, 42.695969]}, {"name": "Sv. Petka Samardzhiiska", "text": "Egy közpanti gyalogos aluljáróban található kisméretű középkori templom.", "category": "religious", "coords": [23.322175, 42.697867]}, {"name": "Vasil Levski", "text": "Vaszil Levszki bolgár nemzeti hős emlékére állított emlékmű.", "category": "landmark", "coords": [23.335329, 42.696665]}, {"name": "Petko és Pencso Szlavejkov", "text": "Petko és Pencso Szlavejkov költőket ábrázoló köztéri szobor egy padon.", "category": "landmark", "coords": [23.323834, 42.692389]}, {"name": "Banya Basi mecset", "text": "Mimar Sinan által tervezett történelmi oszmán mecset.", "category": "landmark", "coords": [23.322561, 42.699506]}, {"name": "Hram-pametnik Sv. Aleksandar Nevski", "text": "Ikonikus neobizánci székesegyház, a város jelképe.", "category": "landmark", "coords": [23.332795, 42.695818]}, {"name": "Sv. Nikolai Chudotvorets", "text": "Aranykupoláiról ismert orosz ortodox templom.", "category": "landmark", "coords": [23.328937, 42.695696]}, {"name": "Ruski pametnik", "text": "Az ország felszabadulásának emlékére emelt obeliszk.", "category": "landmark", "coords": [23.31042, 42.692254]}, {"name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya", "text": "Történelmi csillagászati megfigyelőpont és geodéziai jelzés.", "category": "landmark", "coords": [23.330317, 42.695656]}, {"name": "Televizionna kula „Sofiya“", "text": "Kiemelkedő távközlési torony, amely az egész várost kiszolgálja.", "category": "tower", "coords": [23.341722, 42.676761]}, {"name": "Orlov most", "text": "Híres híd, amelyet négy bronz sas szobra díszít.", "category": "landmark", "coords": [23.337501, 42.690552]}, {"name": "Lavov most", "text": "Történelmi híd négy bronz oroszlánfigurával díszítve.", "category": "landmark", "coords": [23.32388, 42.704918]}, {"name": "Park Sv. Sv. Petar i Pavel", "text": "Szent Péter és Pál apostolokról elnevezett közpark.", "category": "park", "coords": [23.2938, 42.696253]}, {"name": "park Oborishte", "text": "Népszerű városi park zöldfelületekkel és emlékművekkel.", "category": "park", "coords": [23.342462, 42.697527]}, {"name": "Knyazheska gradina", "text": "A városközpont közelében fekvő városi park.", "category": "park", "coords": [23.334207, 42.690807]}, {"name": "Gradska gradina", "text": "A város legrégebbi közparkja a Nemzeti Színház előtt.", "category": "park", "coords": [23.325502, 42.695182]}, {"name": "Doktorska gradina", "text": "A háborúban elhunyt egészségügyi dolgozók emlékére kialakított park.", "category": "park", "coords": [23.338488, 42.694424]}, {"name": "Gradina Kyulutsite", "text": "Kisméretű gondozott kert és pihenőhely.", "category": "park", "coords": [23.334823, 42.702027]}, {"name": "Muzei Nikola Tanev", "text": "Nikola Tanev festőművész életét és munkásságát bemutató múzeum.", "category": "museum", "coords": [23.332129, 42.687652]}, {"name": "Ivan Lazarov múzeum", "text": "Ivan Lazarov bolgár szobrászművész emlékháza és múzeuma.", "category": "museum", "coords": [23.327557, 42.687234]}, {"name": "Vodna kula", "text": "Kortárs művészeti galériaként működő egykori víztorony.", "category": "museum", "coords": [23.326236, 42.672744]}, {"name": "Théatro", "text": "Modern színházi helyszín, amely különféle előadásoknak ad otthont.", "category": "cultural", "coords": [23.345949, 42.6954]}, {"name": "Darzhaven satirichen teatar “Aleko Konstantinov”", "text": "Szatirikus és komikus darabokra szakosodott színház.", "category": "cultural", "coords": [23.326319, 42.691616]}, {"name": "Zelenite ezera", "text": "Festői tavak Szófiában, ideálisak természeti sétákhoz.", "category": "natural", "coords": [23.307553, 42.663662]}, {"name": "Baroko", "text": "Csendes tó Szófiában, amely kellemes légkört biztosít.", "category": "natural", "coords": [23.354239, 42.651179]}, {"name": "Druzhbensko ezero", "text": "Ismert tó Szófiában, amely pihentető órákra hív a vízparton.", "category": "natural", "coords": [23.400871, 42.664249]}, {"name": "Malak Pencho", "text": "Kicsi, hangulatos játszótér Szófiában a fiatal látogatók számára.", "category": "family", "coords": [23.328953, 42.676603]}, {"name": "Casita", "text": "Hívogató játszóterület Szófiában gyermekes családok számára.", "category": "family", "coords": [23.318842, 42.691913]}, {"name": "Kosha", "text": "Népszerű játszótér Szófiában, amely tágas helyet kínál a játékhoz.", "category": "family", "coords": [23.355642, 42.690762]}, {"name": "Red Zone", "text": "Izgalmas játékterem Szófiában szórakozással minden korosztálynak.", "category": "family", "coords": [23.321258, 42.683625]}, {"name": "Fun Box", "text": "Modern szórakoztató központ Szófiában a videojátékok kedvelőinek.", "category": "family", "coords": [23.308682, 42.698426]}, {"name": "Retro Gaming Bar", "text": "Hely Szófiában, amely klasszikus videojátékokat kínál baráti társaságban.", "category": "family", "coords": [23.318226, 42.696898]}, {"name": "Kostenurka", "text": "Ötletesen kialakított játszótér Szófiában gyermekeknek.", "category": "family", "coords": [23.344365, 42.697401]}, {"name": "Vrooms", "text": "Hely a virtuális játékélményhez Szófiában a technika iránt érdeklődőknek.", "category": "family", "coords": [23.321732, 42.706983]}, {"name": "Capella Play", "text": "Nagy fedett játszóház Szófiában, ideális gyerekzsúrokhoz.", "category": "family", "coords": [23.319837, 42.678366]}, {"name": "Halmcheto", "text": "Szép fekvésű játszótér Szófiában különféle játékeszközökkel.", "category": "family", "coords": [23.353169, 42.694199]}, {"name": "Detska ploshtadka „Slona“", "text": "Tematikus játszótér Szófiában, amely sok örömet okoz a gyerekeknek.", "category": "family", "coords": [23.339276, 42.687382]}, {"name": "Detsata s zhivotni", "text": "Gyermekbarát játszótér Szófiában kedves részletekkel.", "category": "family", "coords": [23.304141, 42.680514]}], "ro": [{"name": "Natsionalna hudozhestvena galeriya", "text": "Cel mai mare muzeu de artă din Bulgaria, situat în fostul Palat Regal din Sofia.", "category": "museum", "coords": [23.326764, 42.696517]}, {"name": "Muzei za istoriya na Sofiya", "text": "Muzeu care detaliază istoria lungă a Sofiei, situat în Băile Minerale Centrale.", "category": "museum", "coords": [23.323648, 42.699337]}, {"name": "Casa-muzeu Ivan Vazov", "text": "Fosta casă a celebrului scriitor bulgar Ivan Vazov din Sofia.", "category": "museum", "coords": [23.327604, 42.692976]}, {"name": "Natsionalniya literaturen muzei", "text": "Un muzeu dedicat istoriei literare a Bulgariei, situat în Sofia.", "category": "museum", "coords": [23.323108, 42.689495]}, {"name": "Natsionalen voennoistoricheski muzei", "text": "O colecție extinsă de artefacte militare și istorie în Sofia.", "category": "museum", "coords": [23.350469, 42.688525]}, {"name": "Natsionalen muzei \"Zemyata i horata\"", "text": "Un muzeu mineralogic unic situat în Sofia.", "category": "museum", "coords": [23.320516, 42.679758]}, {"name": "Natsionalen arheologicheski institut s muzei", "text": "Un muzeu care adăpostește descoperiri arheologice semnificative în Sofia.", "category": "museum", "coords": [23.324562, 42.696429]}, {"name": "Sofiiska gradska hudozhestvena galeriya", "text": "Un muzeu de artă axat pe moștenirea artistică a orașului Sofia.", "category": "museum", "coords": [23.324359, 42.694431]}, {"name": "Natsionalen politehnicheski muzei", "text": "Un muzeu dedicat științei și tehnologiei în Sofia.", "category": "museum", "coords": [23.311986, 42.704054]}, {"name": "Sofiiski rimski amfiteatar", "text": "Sit arheologic ce cuprinde ruinele unui amfiteatru roman.", "category": "historical", "coords": [23.328222, 42.697473]}, {"name": "Rimska stena", "text": "Vestigii ale fortificațiilor și zidurilor vechiului oraș.", "category": "historical", "coords": [23.330102, 42.683914]}, {"name": "Tsar Osvoboditel", "text": "Monument dedicat împăratului rus Alexandru al II-lea.", "category": "historical", "coords": [23.332318, 42.693743]}, {"name": "Natsionalna opera i balet", "text": "Cea mai importantă instituție de operă și balet din capitală.", "category": "cultural", "coords": [23.330434, 42.697767]}, {"name": "Teatar \"Balgarska armiya\"", "text": "Un teatru profesionist consacrat situat în centrul orașului.", "category": "cultural", "coords": [23.328854, 42.69478]}, {"name": "Teatar-Laboratoriya “Alma Alter”", "text": "Spațiu dedicat spectacolelor de teatru experimental și alternativ.", "category": "cultural", "coords": [23.335345, 42.692859]}, {"name": "Teatralna rabotilnitsa Sfumato", "text": "Laborator și atelier teatral inovator pentru arta spectacolului.", "category": "cultural", "coords": [23.346113, 42.697912]}, {"name": "Natsionalen dvorets na kulturata", "text": "Complex multifuncțional vast pentru expoziții și evenimente culturale.", "category": "cultural", "coords": [23.318964, 42.684758]}, {"name": "Sveti Sedmocisleniți", "text": "Biserică ortodoxă istorică, fostă moschee otomană.", "category": "religious", "coords": [23.327598, 42.68995]}, {"name": "Sofiiska sinagoga", "text": "Una dintre cele mai mari și mai bogat decorate sinagogi din Europa.", "category": "religious", "coords": [23.320941, 42.700249]}, {"name": "Sv. Sofiya", "text": "Veche biserică bizantină care a dat numele orașului Sofia.", "category": "religious", "coords": [23.331434, 42.696549]}, {"name": "Catedrala Sfânta Nedelia", "text": "Catedrală medievală situată în inima orașului.", "category": "religious", "coords": [23.321383, 42.696714]}, {"name": "Sveta Paraskeva", "text": "Biserică ortodoxă bulgară dedicată Sfintei Parascheva.", "category": "religious", "coords": [23.328846, 42.701224]}, {"name": "Katedralen hram “Uspenie Bogorodichno”", "text": "Catedrala Adormirea Maicii Domnului, lăcaș de cult greco-catolic.", "category": "religious", "coords": [23.313143, 42.691045]}, {"name": "Armenska tsarkva \"Sv. Bogoroditsa\"", "text": "Biserică armenească tradițională situată în centrul orașului.", "category": "religious", "coords": [23.31396, 42.692743]}, {"name": "Sveti Iosif", "text": "Principala catedrală catolică din capitala Bulgariei.", "category": "religious", "coords": [23.319775, 42.698743]}, {"name": "Sv. Nikolai Sofiiski", "text": "Biserică ortodoxă dedicată Sfântului Nicolae din Sofia.", "category": "religious", "coords": [23.310065, 42.701583]}, {"name": "Sv. Georgi Pobedonosets", "text": "Rotondă romană antică, cea mai veche clădire conservată din oraș.", "category": "religious", "coords": [23.322881, 42.696909]}, {"name": "Pokrov Bogorodichen", "text": "Biserică ortodoxă dedicată Acoperământului Maicii Domnului.", "category": "religious", "coords": [23.307815, 42.692602]}, {"name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”", "text": "Biserică ortodoxă închinată Sfântului Nicolae Făcătorul de Minuni.", "category": "religious", "coords": [23.32284, 42.695969]}, {"name": "Sv. Petka Samardzhiiska", "text": "Mică biserică medievală situată într-un pasaj pietonal central.", "category": "religious", "coords": [23.322175, 42.697867]}, {"name": "Vasil Levski", "text": "Monument dedicat eroului național bulgar Vasil Levski.", "category": "landmark", "coords": [23.335329, 42.696665]}, {"name": "Petko i Pencho Slaveikovi", "text": "Monument sculptural reprezentându-i pe poeții Petko și Pencho Slaveykov pe o bancă.", "category": "landmark", "coords": [23.323834, 42.692389]}, {"name": "Banya bashi dzhamiya", "text": "Moschee otomană istorică proiectată de arhitectul Mimar Sinan.", "category": "landmark", "coords": [23.322561, 42.699506]}, {"name": "Hram-pametnik Sv. Aleksandar Nevski", "text": "Catedrală neobizantină iconică și simbol al orașului.", "category": "landmark", "coords": [23.332795, 42.695818]}, {"name": "Sv. Nikolai Chudotvorets", "text": "Biserică ortodoxă rusă cunoscută pentru cupolele sale aurite.", "category": "landmark", "coords": [23.328937, 42.695696]}, {"name": "Ruski pametnik", "text": "Obelisc dedicat eliberării țării de sub stăpânirea otomană.", "category": "landmark", "coords": [23.31042, 42.692254]}, {"name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya", "text": "Punct istoric de observație astronomică și reper geodezic.", "category": "landmark", "coords": [23.330317, 42.695656]}, {"name": "Televizionna kula „Sofiya“", "text": "Turn de telecomunicații proeminent care deservește întreaga capitală.", "category": "tower", "coords": [23.341722, 42.676761]}, {"name": "Orlov most", "text": "Pod faimos decorat cu patru statui de vulturi din bronz.", "category": "landmark", "coords": [23.337501, 42.690552]}, {"name": "Lavov most", "text": "Pod istoric decorat cu patru figuri de lei din bronz.", "category": "landmark", "coords": [23.32388, 42.704918]}, {"name": "Park Sv. Sv. Petar i Pavel", "text": "Parc public numit după Sfinții Apostoli Petru și Pavel.", "category": "park", "coords": [23.2938, 42.696253]}, {"name": "park Oborishte", "text": "Parc orășenesc popular cu spații verzi și monumente.", "category": "park", "coords": [23.342462, 42.697527]}, {"name": "Knyazheska gradina", "text": "Grădină publică urbană situată în apropierea centrului orașului.", "category": "park", "coords": [23.334207, 42.690807]}, {"name": "Gradska gradina", "text": "Cel mai vechi parc public din oraș, situat în fața Teatrului Național.", "category": "park", "coords": [23.325502, 42.695182]}, {"name": "Doktorska gradina", "text": "Parc peisagistic dedicat personalului medical căzut în război.", "category": "park", "coords": [23.338488, 42.694424]}, {"name": "Gradina Kyulutsite", "text": "Mică grădină amenajată și zonă de recreere.", "category": "park", "coords": [23.334823, 42.702027]}, {"name": "Muzei Nikola Tanev", "text": "Muzeu dedicat vieții și operei pictorului Nikola Tanev.", "category": "museum", "coords": [23.332129, 42.687652]}, {"name": "Kashta muzei \"Ivan Lazarov\"", "text": "Casă memorială și muzeu al sculptorului bulgar Ivan Lazarov.", "category": "museum", "coords": [23.327557, 42.687234]}, {"name": "Vodna kula", "text": "Fost turn de apă transformat în galerie de artă contemporană.", "category": "museum", "coords": [23.326236, 42.672744]}, {"name": "Théatro", "text": "Spațiu teatral modern care găzduiește diverse spectacole.", "category": "cultural", "coords": [23.345949, 42.6954]}, {"name": "Teatrul Satic de Stat \"Aleko Konstantinov\"", "text": "Teatru specializat în producții satirice și de comedie.", "category": "cultural", "coords": [23.326319, 42.691616]}, {"name": "Zelenite ezera", "text": "Lacuri pitorești în Sofia, ideale pentru plimbări în natură.", "category": "natural", "coords": [23.307553, 42.663662]}, {"name": "Baroko", "text": "Un lac liniștit în Sofia, care oferă o atmosferă plăcută.", "category": "natural", "coords": [23.354239, 42.651179]}, {"name": "Druzhbensko ezero", "text": "Un lac cunoscut în Sofia, care invită la ore de relaxare pe malul apei.", "category": "natural", "coords": [23.400871, 42.664249]}, {"name": "Malak Pencho", "text": "Un teren de joacă mic și primitor în Sofia pentru micii vizitatori.", "category": "family", "coords": [23.328953, 42.676603]}, {"name": "Casita", "text": "O zonă de joacă primitoare în Sofia pentru familiile cu copii.", "category": "family", "coords": [23.318842, 42.691913]}, {"name": "Kosha", "text": "Un teren de joacă popular în Sofia, care oferă mult spațiu pentru joacă.", "category": "family", "coords": [23.355642, 42.690762]}, {"name": "Red Zone", "text": "O sală de jocuri captivantă în Sofia cu divertisment pentru toate vârstele.", "category": "family", "coords": [23.321258, 42.683625]}, {"name": "Fun Box", "text": "O zonă de divertisment modernă în Sofia pentru fanii jocurilor video.", "category": "family", "coords": [23.308682, 42.698426]}, {"name": "Retro Gaming Bar", "text": "Un loc în Sofia care oferă jocuri video clasice într-o atmosferă sociabilă.", "category": "family", "coords": [23.318226, 42.696898]}, {"name": "Kostenurka", "text": "Un teren de joacă conceput cu imaginație în Sofia pentru copii.", "category": "family", "coords": [23.344365, 42.697401]}, {"name": "Vrooms", "text": "Un loc pentru distracție virtuală în Sofia pentru vizitatorii pasionați de tehnologie.", "category": "family", "coords": [23.321732, 42.706983]}, {"name": "Capella Play", "text": "Un teren de joacă interior mare în Sofia, ideal pentru aniversările copiilor.", "category": "family", "coords": [23.319837, 42.678366]}, {"name": "Halmcheto", "text": "Un teren de joacă frumos situat în Sofia, cu diverse echipamente de joacă.", "category": "family", "coords": [23.353169, 42.694199]}, {"name": "Detska ploshtadka „Slona“", "text": "Un teren de joacă tematic în Sofia, care aduce multă bucurie copiilor.", "category": "family", "coords": [23.339276, 42.687382]}, {"name": "Detsata s zhivotni", "text": "Un teren de joacă prietenos pentru copii în Sofia, cu detalii atractive.", "category": "family", "coords": [23.304141, 42.680514]}], "en": [{"name": "National Art Gallery", "text": "Bulgaria's largest art museum, located in the former Royal Palace in Sofia.", "category": "museum", "coords": [23.326764, 42.696517]}, {"name": "Sofia History Museum", "text": "A museum detailing the long history of Sofia, located in the Central Mineral Baths.", "category": "museum", "coords": [23.323648, 42.699337]}, {"name": "House museum \"Ivan Vazov\"", "text": "The former home of the famous Bulgarian writer Ivan Vazov in Sofia.", "category": "museum", "coords": [23.327604, 42.692976]}, {"name": "National Literary Museum", "text": "A museum dedicated to the literary history of Bulgaria, located in Sofia.", "category": "museum", "coords": [23.323108, 42.689495]}, {"name": "National Museum of Military History", "text": "An extensive collection of military artifacts and history in Sofia.", "category": "museum", "coords": [23.350469, 42.688525]}, {"name": "Earth and Man National Museum", "text": "A unique mineralogical museum located in Sofia.", "category": "museum", "coords": [23.320516, 42.679758]}, {"name": "National Archaeological Institute with Museum", "text": "A museum housing significant archaeological finds in Sofia.", "category": "museum", "coords": [23.324562, 42.696429]}, {"name": "Sofia City Art Gallery", "text": "An art museum focused on the artistic heritage of the city of Sofia.", "category": "museum", "coords": [23.324359, 42.694431]}, {"name": "National Polytechnic Museum", "text": "A museum dedicated to science and technology in Sofia.", "category": "museum", "coords": [23.311986, 42.704054]}, {"name": "Amphitheatre of Serdica", "text": "Archaeological site featuring ruins of a Roman amphitheatre.", "category": "historical", "coords": [23.328222, 42.697473]}, {"name": "Roman Wall", "text": "Remains of ancient city fortifications.", "category": "historical", "coords": [23.330102, 42.683914]}, {"name": "Monument to the Tsar Liberator", "text": "Monument dedicated to Emperor Alexander II of Russia.", "category": "historical", "coords": [23.332318, 42.693743]}, {"name": "National Opera and Ballet", "text": "Leading opera house and ballet venue in the capital.", "category": "cultural", "coords": [23.330434, 42.697767]}, {"name": "Theatre Bulgarian Army", "text": "Established professional theatre located in the city center.", "category": "cultural", "coords": [23.328854, 42.69478]}, {"name": "@lma @lter - alternative theatre", "text": "Experimental and alternative theatre space.", "category": "cultural", "coords": [23.335345, 42.692859]}, {"name": "Sfumato Theatre Workshop", "text": "Innovative theatre laboratory and workshop.", "category": "cultural", "coords": [23.346113, 42.697912]}, {"name": "National Palace of Culture", "text": "Large multifunctional complex for exhibitions and cultural events.", "category": "cultural", "coords": [23.318964, 42.684758]}, {"name": "Sveti Sedmochislenitsi Church", "text": "Historic Orthodox church, formerly an Ottoman mosque.", "category": "religious", "coords": [23.327598, 42.68995]}, {"name": "Sofia Synagogue", "text": "One of the largest and most ornate synagogues in Europe.", "category": "religious", "coords": [23.320941, 42.700249]}, {"name": "St. Sophia", "text": "Ancient Byzantine church that gave the city its name.", "category": "religious", "coords": [23.331434, 42.696549]}, {"name": "Holy Nedelya Church", "text": "Medieval cathedral located in the heart of the city.", "category": "religious", "coords": [23.321383, 42.696714]}, {"name": "Sveta Paraskeva", "text": "Eastern Orthodox church dedicated to Saint Paraskeva.", "category": "religious", "coords": [23.328846, 42.701224]}, {"name": "Katedralen hram “Uspenie Bogorodichno”", "text": "Cathedral of the Dormition, an Eastern Catholic place of worship.", "category": "religious", "coords": [23.313143, 42.691045]}, {"name": "Armenska tsarkva \"Sv. Bogoroditsa\"", "text": "Traditional Armenian church in the city center.", "category": "religious", "coords": [23.31396, 42.692743]}, {"name": "St Joseph", "text": "The main Catholic cathedral in the capital.", "category": "religious", "coords": [23.319775, 42.698743]}, {"name": "Sv. Nikolai Sofiiski", "text": "Orthodox church dedicated to Saint Nicholas of Sofia.", "category": "religious", "coords": [23.310065, 42.701583]}, {"name": "Saint George Rotunda", "text": "Ancient Roman rotunda, the city's oldest preserved building.", "category": "religious", "coords": [23.322881, 42.696909]}, {"name": "Intercession of the Mother of God", "text": "Orthodox church dedicated to the Intercession of the Mother of God.", "category": "religious", "coords": [23.307815, 42.692602]}, {"name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”", "text": "Orthodox church dedicated to Saint Nicholas the Miracle-Maker.", "category": "religious", "coords": [23.32284, 42.695969]}, {"name": "Church of St Petka of the Saddlers", "text": "Small medieval church located in a central pedestrian underpass.", "category": "religious", "coords": [23.322175, 42.697867]}, {"name": "Vasil Levski", "text": "Monument commemorating the Bulgarian national hero Vasil Levski.", "category": "landmark", "coords": [23.335329, 42.696665]}, {"name": "Petko i Pencho Slaveikovi", "text": "Sculptural monument of the poets Petko and Pencho Slaveykov on a bench.", "category": "landmark", "coords": [23.323834, 42.692389]}, {"name": "Banya Bashi Mosque", "text": "Historic Ottoman mosque designed by Mimar Sinan.", "category": "landmark", "coords": [23.322561, 42.699506]}, {"name": "Alexander Nevsky Cathedral", "text": "Iconic neo-Byzantine cathedral and symbol of the city.", "category": "landmark", "coords": [23.332795, 42.695818]}, {"name": "St Nicholas the Miracle-Maker", "text": "Russian Orthodox church known for its golden domes.", "category": "landmark", "coords": [23.328937, 42.695696]}, {"name": "Russian Monument", "text": "Obelisk dedicated to the liberation of the country.", "category": "landmark", "coords": [23.31042, 42.692254]}, {"name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya", "text": "Historic astronomical observation point and geodetic marker.", "category": "landmark", "coords": [23.330317, 42.695656]}, {"name": "Sofia TV Tower", "text": "Prominent telecommunications tower providing city-wide coverage.", "category": "tower", "coords": [23.341722, 42.676761]}, {"name": "Eagles' Bridge", "text": "Famous bridge featuring four bronze eagle statues.", "category": "landmark", "coords": [23.337501, 42.690552]}, {"name": "Lions' Bridge", "text": "Historic bridge decorated with four bronze lion figures.", "category": "landmark", "coords": [23.32388, 42.704918]}, {"name": "Park „St. St. Peter & Pavel“", "text": "Public park named after Saints Peter and Paul.", "category": "park", "coords": [23.2938, 42.696253]}, {"name": "park Oborishte", "text": "Popular city park featuring green spaces and monuments.", "category": "park", "coords": [23.342462, 42.697527]}, {"name": "Prince's Garden", "text": "Urban park located near the city center.", "category": "park", "coords": [23.334207, 42.690807]}, {"name": "City Garden", "text": "The city's oldest public park, situated in front of the National Theatre.", "category": "park", "coords": [23.325502, 42.695182]}, {"name": "Doctors' Garden", "text": "Landscaped park dedicated to medical personnel who died in the war.", "category": "park", "coords": [23.338488, 42.694424]}, {"name": "Kyulutsite Park", "text": "Small landscaped garden and recreational area.", "category": "park", "coords": [23.334823, 42.702027]}, {"name": "Muzei Nikola Tanev", "text": "Museum dedicated to the life and work of the artist Nikola Tanev.", "category": "museum", "coords": [23.332129, 42.687652]}, {"name": "House museum \"Ivan Lazarov\"", "text": "Memorial house and museum of the Bulgarian sculptor Ivan Lazarov.", "category": "museum", "coords": [23.327557, 42.687234]}, {"name": "Vodna kula", "text": "Former water tower repurposed as a contemporary art gallery.", "category": "museum", "coords": [23.326236, 42.672744]}, {"name": "Théatro", "text": "Modern theatre venue hosting various performances.", "category": "cultural", "coords": [23.345949, 42.6954]}, {"name": "Darzhaven satirichen teatar “Aleko Konstantinov”", "text": "Theatre specializing in satirical and comedic productions.", "category": "cultural", "coords": [23.326319, 42.691616]}, {"name": "The Green Lakes", "text": "Scenic lakes in Sofia, perfect for nature walks.", "category": "natural", "coords": [23.307553, 42.663662]}, {"name": "Baroko", "text": "A quiet lake in Sofia offering a pleasant atmosphere.", "category": "natural", "coords": [23.354239, 42.651179]}, {"name": "Druzhbensko ezero", "text": "A well-known lake in Sofia, perfect for relaxing hours by the water.", "category": "natural", "coords": [23.400871, 42.664249]}, {"name": "Malak Pencho", "text": "A small, cozy playground in Sofia for young visitors.", "category": "family", "coords": [23.328953, 42.676603]}, {"name": "Casita", "text": "An inviting play area in Sofia for families with children.", "category": "family", "coords": [23.318842, 42.691913]}, {"name": "Kosha", "text": "A popular playground in Sofia offering plenty of space for play.", "category": "family", "coords": [23.355642, 42.690762]}, {"name": "Red Zone", "text": "An exciting amusement arcade in Sofia with entertainment for all ages.", "category": "family", "coords": [23.321258, 42.683625]}, {"name": "Fun Box", "text": "A modern entertainment area in Sofia for video game fans.", "category": "family", "coords": [23.308682, 42.698426]}, {"name": "Retro Gaming Bar", "text": "A venue in Sofia offering classic video games in a social setting.", "category": "family", "coords": [23.318226, 42.696898]}, {"name": "Kostenurka", "text": "An imaginatively designed playground in Sofia for children.", "category": "family", "coords": [23.344365, 42.697401]}, {"name": "Vrooms", "text": "A venue for virtual gaming fun in Sofia for tech-savvy visitors.", "category": "family", "coords": [23.321732, 42.706983]}, {"name": "Capella Play", "text": "A large indoor playground in Sofia, ideal for children's birthdays.", "category": "family", "coords": [23.319837, 42.678366]}, {"name": "Halmcheto", "text": "A nicely located playground in Sofia with various play equipment.", "category": "family", "coords": [23.353169, 42.694199]}, {"name": "Playground \"Elephant\"", "text": "A themed playground in Sofia that brings a lot of joy to children.", "category": "family", "coords": [23.339276, 42.687382]}, {"name": "Detsata s zhivotni", "text": "A child-friendly playground in Sofia with charming details.", "category": "family", "coords": [23.304141, 42.680514]}]},
+    id: "city-sofia", "sights": {
+      "de": [
+            {
+                  "name": "Nationale Kunstgalerie",
+                  "text": "Bulgariens größtes Kunstmuseum im ehemaligen Königspalast von Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.326764,
+                        42.696517
+                  ]
+            },
+            {
+                  "name": "Historisches Museum",
+                  "text": "Ein Museum zur Geschichte Sofias im Gebäude der Zentralen Mineralbäder.",
+                  "category": "museum",
+                  "coords": [
+                        23.323648,
+                        42.699337
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Ivan Vazov\"",
+                  "text": "Das ehemalige Wohnhaus des berühmten bulgarischen Schriftstellers Ivan Vazov.",
+                  "category": "museum",
+                  "coords": [
+                        23.327604,
+                        42.692976
+                  ]
+            },
+            {
+                  "name": "Natsionalniya literaturen muzei",
+                  "text": "Ein Museum zur Literaturgeschichte Bulgariens in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.323108,
+                        42.689495
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum der Militärgeschichte",
+                  "text": "Eine umfangreiche Sammlung militärischer Artefakte und Geschichte in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.350469,
+                        42.688525
+                  ]
+            },
+            {
+                  "name": "Natsionalen muzei \"Zemyata i horata\"",
+                  "text": "Ein einzigartiges mineralogisches Museum in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.320516,
+                        42.679758
+                  ]
+            },
+            {
+                  "name": "Nationales Archäologisches Museum",
+                  "text": "Ein Museum mit bedeutenden archäologischen Funden in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.324562,
+                        42.696429
+                  ]
+            },
+            {
+                  "name": "Sofiiska gradska hudozhestvena galeriya",
+                  "text": "Ein Kunstmuseum zum künstlerischen Erbe der Stadt Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.324359,
+                        42.694431
+                  ]
+            },
+            {
+                  "name": "Natsionalen politehnicheski muzei",
+                  "text": "Ein Museum für Wissenschaft und Technologie in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.311986,
+                        42.704054
+                  ]
+            },
+            {
+                  "name": "Amphitheater von Serdica",
+                  "text": "Archäologische Stätte mit den Ruinen eines römischen Amphitheaters.",
+                  "category": "historical",
+                  "coords": [
+                        23.328222,
+                        42.697473
+                  ]
+            },
+            {
+                  "name": "Rimska stena",
+                  "text": "Überreste der antiken Stadtmauer und Befestigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        23.330102,
+                        42.683914
+                  ]
+            },
+            {
+                  "name": "Tsar Osvoboditel",
+                  "text": "Denkmal zu Ehren des russischen Kaisers Alexander II.",
+                  "category": "historical",
+                  "coords": [
+                        23.332318,
+                        42.693743
+                  ]
+            },
+            {
+                  "name": "Natsionalna opera i balet",
+                  "text": "Das bedeutendste Opern- und Balletthaus der Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        23.330434,
+                        42.697767
+                  ]
+            },
+            {
+                  "name": "Teatar \"Balgarska armiya\"",
+                  "text": "Ein etabliertes professionelles Theater im Stadtzentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        23.328854,
+                        42.69478
+                  ]
+            },
+            {
+                  "name": "Teatar-Laboratoriya “Alma Alter”",
+                  "text": "Raum für experimentelles und alternatives Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        23.335345,
+                        42.692859
+                  ]
+            },
+            {
+                  "name": "Teatralna rabotilnitsa Sfumato",
+                  "text": "Innovative Theaterwerkstatt und Labor für Schauspielkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        23.346113,
+                        42.697912
+                  ]
+            },
+            {
+                  "name": "Nationaler Kulturpalast",
+                  "text": "Großer multifunktionaler Komplex für Ausstellungen und Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318964,
+                        42.684758
+                  ]
+            },
+            {
+                  "name": "Sveti Sedmochislenitsi",
+                  "text": "Historische orthodoxe Kirche, die ursprünglich eine osmanische Moschee war.",
+                  "category": "religious",
+                  "coords": [
+                        23.327598,
+                        42.68995
+                  ]
+            },
+            {
+                  "name": "Sofioter Synagoge",
+                  "text": "Eine der größten und prächtigsten Synagogen in ganz Europa.",
+                  "category": "religious",
+                  "coords": [
+                        23.320941,
+                        42.700249
+                  ]
+            },
+            {
+                  "name": "Sophienkirche",
+                  "text": "Antike byzantinische Kirche, nach der die Stadt benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        23.331434,
+                        42.696549
+                  ]
+            },
+            {
+                  "name": "Kathedrale Sweta Nedelja",
+                  "text": "Mittelalterliche Kathedrale im Herzen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        23.321383,
+                        42.696714
+                  ]
+            },
+            {
+                  "name": "Sveta Paraskeva",
+                  "text": "Bulgarisch-orthodoxe Kirche, die der Heiligen Paraskeva gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.328846,
+                        42.701224
+                  ]
+            },
+            {
+                  "name": "Katedralen hram “Uspenie Bogorodichno”",
+                  "text": "Kathedrale Maria Himmelfahrt, ein ostkatholisches Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        23.313143,
+                        42.691045
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva \"Sv. Bogoroditsa\"",
+                  "text": "Traditionelle armenische Kirche im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        23.31396,
+                        42.692743
+                  ]
+            },
+            {
+                  "name": "Sveti Iosif",
+                  "text": "Die wichtigste katholische Kathedrale in der bulgarischen Hauptstadt.",
+                  "category": "religious",
+                  "coords": [
+                        23.319775,
+                        42.698743
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai Sofiiski",
+                  "text": "Orthodoxe Kirche, die dem Heiligen Nikolaus von Sofia gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.310065,
+                        42.701583
+                  ]
+            },
+            {
+                  "name": "Sv. Georgi Pobedonosets",
+                  "text": "Antike römische Rotunde, das älteste erhaltene Gebäude der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        23.322881,
+                        42.696909
+                  ]
+            },
+            {
+                  "name": "Pokrov Bogorodichen",
+                  "text": "Orthodoxe Kirche, die dem Schutz der Gottesmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.307815,
+                        42.692602
+                  ]
+            },
+            {
+                  "name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”",
+                  "text": "Orthodoxe Kirche zu Ehren des Heiligen Nikolaus des Wundertäters.",
+                  "category": "religious",
+                  "coords": [
+                        23.32284,
+                        42.695969
+                  ]
+            },
+            {
+                  "name": "Sv. Petka Samardzhiiska",
+                  "text": "Kleine mittelalterliche Kirche in einer zentralen Fußgängerunterführung.",
+                  "category": "religious",
+                  "coords": [
+                        23.322175,
+                        42.697867
+                  ]
+            },
+            {
+                  "name": "Wassil Lewski",
+                  "text": "Denkmal zum Gedenken an den bulgarischen Nationalhelden Wassil Lewski.",
+                  "category": "landmark",
+                  "coords": [
+                        23.335329,
+                        42.696665
+                  ]
+            },
+            {
+                  "name": "Petko i Pencho Slaveikovi",
+                  "text": "Skulptur der Dichter Petko und Pentscho Slawejkow auf einer Parkbank.",
+                  "category": "landmark",
+                  "coords": [
+                        23.323834,
+                        42.692389
+                  ]
+            },
+            {
+                  "name": "Banja-Baschi-Moschee",
+                  "text": "Historische osmanische Moschee, entworfen vom Architekten Mimar Sinan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.322561,
+                        42.699506
+                  ]
+            },
+            {
+                  "name": "Alexander-Newski-Kathedrale",
+                  "text": "Ikonische neobyzantinische Kathedrale und Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.332795,
+                        42.695818
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai Chudotvorets",
+                  "text": "Russisch-orthodoxe Kirche, bekannt für ihre goldenen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        23.328937,
+                        42.695696
+                  ]
+            },
+            {
+                  "name": "Russisches Denkmal",
+                  "text": "Obelisk zum Gedenken an die Befreiung des Landes.",
+                  "category": "landmark",
+                  "coords": [
+                        23.31042,
+                        42.692254
+                  ]
+            },
+            {
+                  "name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya",
+                  "text": "Historischer astronomischer Beobachtungspunkt und geodätischer Markierungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.330317,
+                        42.695656
+                  ]
+            },
+            {
+                  "name": "Televizionna kula „Sofiya“",
+                  "text": "Markanter Fernsehturm, der die gesamte Stadt versorgt.",
+                  "category": "tower",
+                  "coords": [
+                        23.341722,
+                        42.676761
+                  ]
+            },
+            {
+                  "name": "Adlerbrücke",
+                  "text": "Berühmte Brücke mit vier markanten Bronzeadlern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.337501,
+                        42.690552
+                  ]
+            },
+            {
+                  "name": "Löwenbrücke",
+                  "text": "Historische Brücke, die mit vier bronzenen Löwenfiguren geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32388,
+                        42.704918
+                  ]
+            },
+            {
+                  "name": "Park Sv. Sv. Petar i Pavel",
+                  "text": "Öffentliche Parkanlage, benannt nach den Heiligen Peter und Paul.",
+                  "category": "park",
+                  "coords": [
+                        23.2938,
+                        42.696253
+                  ]
+            },
+            {
+                  "name": "park Oborishte",
+                  "text": "Beliebter Stadtpark mit Grünflächen und Denkmälern.",
+                  "category": "park",
+                  "coords": [
+                        23.342462,
+                        42.697527
+                  ]
+            },
+            {
+                  "name": "Knyazheska gradina",
+                  "text": "Städtische Grünanlage in der Nähe des Stadtzentrums.",
+                  "category": "park",
+                  "coords": [
+                        23.334207,
+                        42.690807
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "Der älteste öffentliche Park der Stadt vor dem Nationaltheater.",
+                  "category": "park",
+                  "coords": [
+                        23.325502,
+                        42.695182
+                  ]
+            },
+            {
+                  "name": "Doktorska gradina",
+                  "text": "Landschaftspark zum Gedenken an das im Krieg verstorbene medizinische Personal.",
+                  "category": "park",
+                  "coords": [
+                        23.338488,
+                        42.694424
+                  ]
+            },
+            {
+                  "name": "Gradina Kyulutsite",
+                  "text": "Kleiner angelegter Garten und Erholungsbereich.",
+                  "category": "park",
+                  "coords": [
+                        23.334823,
+                        42.702027
+                  ]
+            },
+            {
+                  "name": "Muzei Nikola Tanev",
+                  "text": "Museum, das dem Leben und Werk des Malers Nikola Tanew gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.332129,
+                        42.687652
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Ivan Lazarov\"",
+                  "text": "Gedenkhaus und Museum des bulgarischen Bildhauers Iwan Lazarow.",
+                  "category": "museum",
+                  "coords": [
+                        23.327557,
+                        42.687234
+                  ]
+            },
+            {
+                  "name": "Vodna kula",
+                  "text": "Ehemaliger Wasserturm, der heute als Galerie für zeitgenössische Kunst dient.",
+                  "category": "museum",
+                  "coords": [
+                        23.326236,
+                        42.672744
+                  ]
+            },
+            {
+                  "name": "Théatro",
+                  "text": "Moderne Spielstätte für verschiedene Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.345949,
+                        42.6954
+                  ]
+            },
+            {
+                  "name": "Darzhaven satirichen teatar “Aleko Konstantinov”",
+                  "text": "Theater, das auf satirische und komödiantische Produktionen spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        23.326319,
+                        42.691616
+                  ]
+            },
+            {
+                  "name": "Zelenite ezera",
+                  "text": "Malerische Seen in Sofia, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Baroko",
+                  "text": "Ein ruhiger See in Sofia, der eine angenehme Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Druzhbensko ezero",
+                  "text": "Ein bekannter See in Sofia, der zu entspannten Stunden am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Malak Pencho",
+                  "text": "Ein kleiner, gemütlicher Spielplatz in Sofia für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "Ein einladender Spielbereich in Sofia für Familien with Kindern.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Kosha",
+                  "text": "Ein beliebter Spielplatz in Sofia, der viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "Eine aufregende Spielhalle in Sofia mit Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "Ein moderner Unterhaltungsbereich in Sofia für Fans von Videospielen.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "Ein Ort in Sofia, der klassische Videospiele in geselliger Runde bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Kostenurka",
+                  "text": "Ein fantasievoll gestalteter Spielplatz in Sofia für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "Ein Ort für virtuellen Spielspaß in Sofia für technikbegeisterte Besucher.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "Ein großer Indoor-Spielplatz in Sofia, ideal für Kindergeburtstage.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Halmcheto",
+                  "text": "Ein schön gelegener Spielplatz in Sofia mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Detska ploshtadka „Slona“",
+                  "text": "Ein thematischer Spielplatz in Sofia, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Detsata s zhivotni",
+                  "text": "Ein kinderfreundlicher Spielplatz in Sofia mit liebevollen Details.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
+                  ]
+            },
+            {
+                  "name": "Yoni Spa",
+                  "text": "Eine Wellness-Einrichtung in Sofia, die verschiedene Sauna- und Entspannungsdienste anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333963,
+                        42.671132
+                  ]
+            },
+            {
+                  "name": "Salt room",
+                  "text": "Ein Therapieraum in Sofia zur Inhalation von salzhaltiger Luft zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        23.316994,
+                        42.673007
+                  ]
+            },
+            {
+                  "name": "SunFest Sofia",
+                  "text": "Ein Veranstaltungsort oder Park in Sofia, der für Freizeitaktivitäten und Events genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        23.335618,
+                        42.691364
+                  ]
+            },
+            {
+                  "name": "Аквапарк „Възраждане“",
+                  "text": "Ein moderner Wasserpark im Vazrazhdane-Viertel von Sofia mit Rutschen und Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        23.305864,
+                        42.695255
+                  ]
+            },
+            {
+                  "name": "Solna peshchera",
+                  "text": "Eine künstliche Salzhöhle in Sofia zur Entspannung und für Wellness-Anwendungen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.29859,
+                        42.673939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Natsionalna hudozhestvena galeriya",
+                  "text": "Bulgária legnagyobb művészeti múzeuma a szófiai volt királyi palotában.",
+                  "category": "museum",
+                  "coords": [
+                        23.326764,
+                        42.696517
+                  ]
+            },
+            {
+                  "name": "Muzei za istoriya na Sofiya",
+                  "text": "Szófia történetét bemutató múzeum a Központi Ásványvizes Fürdő épületében.",
+                  "category": "museum",
+                  "coords": [
+                        23.323648,
+                        42.699337
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Ivan Vazov\"",
+                  "text": "Ivan Vazov híres bolgár író egykori otthona Szófiában.",
+                  "category": "museum",
+                  "coords": [
+                        23.327604,
+                        42.692976
+                  ]
+            },
+            {
+                  "name": "Nemzeti Irodalmi Múzeum",
+                  "text": "Bulgária irodalomtörténetének szentelt múzeum Szófiában.",
+                  "category": "museum",
+                  "coords": [
+                        23.323108,
+                        42.689495
+                  ]
+            },
+            {
+                  "name": "Natsionalen voennoistoricheski muzei",
+                  "text": "Katonai tárgyak és történelem kiterjedt gyűjteménye Szófiában.",
+                  "category": "museum",
+                  "coords": [
+                        23.350469,
+                        42.688525
+                  ]
+            },
+            {
+                  "name": "Natsionalen muzei \"Zemyata i horata\"",
+                  "text": "Egyedülálló ásványtani múzeum Szófiában.",
+                  "category": "museum",
+                  "coords": [
+                        23.320516,
+                        42.679758
+                  ]
+            },
+            {
+                  "name": "Natsionalen arheologicheski institut s muzei",
+                  "text": "Jelentős régészeti leleteket bemutató múzeum Szófiában.",
+                  "category": "museum",
+                  "coords": [
+                        23.324562,
+                        42.696429
+                  ]
+            },
+            {
+                  "name": "Sofiiska gradska hudozhestvena galeriya",
+                  "text": "Szófia város művészeti örökségére fókuszáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.324359,
+                        42.694431
+                  ]
+            },
+            {
+                  "name": "Natsionalen politehnicheski muzei",
+                  "text": "A tudománynak és technológiának szentelt múzeum Szófiában.",
+                  "category": "museum",
+                  "coords": [
+                        23.311986,
+                        42.704054
+                  ]
+            },
+            {
+                  "name": "Sofiiski rimski amfiteatar",
+                  "text": "Római kori amfiteátrum romait bemutató régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        23.328222,
+                        42.697473
+                  ]
+            },
+            {
+                  "name": "Rimska stena",
+                  "text": "Az ókori városfal és erődítmények maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        23.330102,
+                        42.683914
+                  ]
+            },
+            {
+                  "name": "Tsar Osvoboditel",
+                  "text": "II. Sándor orosz cár tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        23.332318,
+                        42.693743
+                  ]
+            },
+            {
+                  "name": "Natsionalna opera i balet",
+                  "text": "A főváros legjelentősebb opera- és balettháza.",
+                  "category": "cultural",
+                  "coords": [
+                        23.330434,
+                        42.697767
+                  ]
+            },
+            {
+                  "name": "Teatar \"Balgarska armiya\"",
+                  "text": "A városközpontban található neves hivatásos színház.",
+                  "category": "cultural",
+                  "coords": [
+                        23.328854,
+                        42.69478
+                  ]
+            },
+            {
+                  "name": "Teatar-Laboratoriya “Alma Alter”",
+                  "text": "Kísérleti és alternatív színházi előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        23.335345,
+                        42.692859
+                  ]
+            },
+            {
+                  "name": "Teatralna rabotilnitsa Sfumato",
+                  "text": "Innovatív színházi laboratórium és műhely.",
+                  "category": "cultural",
+                  "coords": [
+                        23.346113,
+                        42.697912
+                  ]
+            },
+            {
+                  "name": "Natsionalen dvorets na kulturata",
+                  "text": "Nagyméretű multifunkcionális központ kiállítások és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318964,
+                        42.684758
+                  ]
+            },
+            {
+                  "name": "Sveti Sedmochislenitsi",
+                  "text": "Történelmi ortodox templom, amely eredetileg oszmán mecset volt.",
+                  "category": "religious",
+                  "coords": [
+                        23.327598,
+                        42.68995
+                  ]
+            },
+            {
+                  "name": "Sofiiska sinagoga",
+                  "text": "Európa egyik legnagyobb és legdíszesebb zsinagógája.",
+                  "category": "religious",
+                  "coords": [
+                        23.320941,
+                        42.700249
+                  ]
+            },
+            {
+                  "name": "Sv. Sofiya",
+                  "text": "Ókori bizánci templom, amelyről a várost elnevezték.",
+                  "category": "religious",
+                  "coords": [
+                        23.331434,
+                        42.696549
+                  ]
+            },
+            {
+                  "name": "Sveta Nedelya",
+                  "text": "A város szívében található középkori székesegyház.",
+                  "category": "religious",
+                  "coords": [
+                        23.321383,
+                        42.696714
+                  ]
+            },
+            {
+                  "name": "Sveta Paraskeva",
+                  "text": "Szent Paraszkevának szentelt bolgár ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.328846,
+                        42.701224
+                  ]
+            },
+            {
+                  "name": "Katedralen hram “Uspenie Bogorodichno”",
+                  "text": "Mária Mennybevétele székesegyház, keleti katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.313143,
+                        42.691045
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva \"Sv. Bogoroditsa\"",
+                  "text": "Hagyományos örmény templom a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        23.31396,
+                        42.692743
+                  ]
+            },
+            {
+                  "name": "Sveti Iosif",
+                  "text": "A főváros legfontosabb katolikus székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        23.319775,
+                        42.698743
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai Sofiiski",
+                  "text": "Szófiai Szent Miklósnak szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.310065,
+                        42.701583
+                  ]
+            },
+            {
+                  "name": "Sv. Georgi Pobedonosets",
+                  "text": "Ókori római rotunda, a város legrégebbi épségben maradt épülete.",
+                  "category": "religious",
+                  "coords": [
+                        23.322881,
+                        42.696909
+                  ]
+            },
+            {
+                  "name": "Pokrov Bogorodichen",
+                  "text": "Az Istenanya oltalmazásának szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.307815,
+                        42.692602
+                  ]
+            },
+            {
+                  "name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”",
+                  "text": "Csodatevő Szent Miklós tiszteletére emelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.32284,
+                        42.695969
+                  ]
+            },
+            {
+                  "name": "Sv. Petka Samardzhiiska",
+                  "text": "Egy közpanti gyalogos aluljáróban található kisméretű középkori templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.322175,
+                        42.697867
+                  ]
+            },
+            {
+                  "name": "Vasil Levski",
+                  "text": "Vaszil Levszki bolgár nemzeti hős emlékére állított emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        23.335329,
+                        42.696665
+                  ]
+            },
+            {
+                  "name": "Petko és Pencso Szlavejkov",
+                  "text": "Petko és Pencso Szlavejkov költőket ábrázoló köztéri szobor egy padon.",
+                  "category": "landmark",
+                  "coords": [
+                        23.323834,
+                        42.692389
+                  ]
+            },
+            {
+                  "name": "Banya Basi mecset",
+                  "text": "Mimar Sinan által tervezett történelmi oszmán mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        23.322561,
+                        42.699506
+                  ]
+            },
+            {
+                  "name": "Hram-pametnik Sv. Aleksandar Nevski",
+                  "text": "Ikonikus neobizánci székesegyház, a város jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        23.332795,
+                        42.695818
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai Chudotvorets",
+                  "text": "Aranykupoláiról ismert orosz ortodox templom.",
+                  "category": "landmark",
+                  "coords": [
+                        23.328937,
+                        42.695696
+                  ]
+            },
+            {
+                  "name": "Ruski pametnik",
+                  "text": "Az ország felszabadulásának emlékére emelt obeliszk.",
+                  "category": "landmark",
+                  "coords": [
+                        23.31042,
+                        42.692254
+                  ]
+            },
+            {
+                  "name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya",
+                  "text": "Történelmi csillagászati megfigyelőpont és geodéziai jelzés.",
+                  "category": "landmark",
+                  "coords": [
+                        23.330317,
+                        42.695656
+                  ]
+            },
+            {
+                  "name": "Televizionna kula „Sofiya“",
+                  "text": "Kiemelkedő távközlési torony, amely az egész várost kiszolgálja.",
+                  "category": "tower",
+                  "coords": [
+                        23.341722,
+                        42.676761
+                  ]
+            },
+            {
+                  "name": "Orlov most",
+                  "text": "Híres híd, amelyet négy bronz sas szobra díszít.",
+                  "category": "landmark",
+                  "coords": [
+                        23.337501,
+                        42.690552
+                  ]
+            },
+            {
+                  "name": "Lavov most",
+                  "text": "Történelmi híd négy bronz oroszlánfigurával díszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32388,
+                        42.704918
+                  ]
+            },
+            {
+                  "name": "Park Sv. Sv. Petar i Pavel",
+                  "text": "Szent Péter és Pál apostolokról elnevezett közpark.",
+                  "category": "park",
+                  "coords": [
+                        23.2938,
+                        42.696253
+                  ]
+            },
+            {
+                  "name": "park Oborishte",
+                  "text": "Népszerű városi park zöldfelületekkel és emlékművekkel.",
+                  "category": "park",
+                  "coords": [
+                        23.342462,
+                        42.697527
+                  ]
+            },
+            {
+                  "name": "Knyazheska gradina",
+                  "text": "A városközpont közelében fekvő városi park.",
+                  "category": "park",
+                  "coords": [
+                        23.334207,
+                        42.690807
+                  ]
+            },
+            {
+                  "name": "Gradska gradina",
+                  "text": "A város legrégebbi közparkja a Nemzeti Színház előtt.",
+                  "category": "park",
+                  "coords": [
+                        23.325502,
+                        42.695182
+                  ]
+            },
+            {
+                  "name": "Doktorska gradina",
+                  "text": "A háborúban elhunyt egészségügyi dolgozók emlékére kialakított park.",
+                  "category": "park",
+                  "coords": [
+                        23.338488,
+                        42.694424
+                  ]
+            },
+            {
+                  "name": "Gradina Kyulutsite",
+                  "text": "Kisméretű gondozott kert és pihenőhely.",
+                  "category": "park",
+                  "coords": [
+                        23.334823,
+                        42.702027
+                  ]
+            },
+            {
+                  "name": "Muzei Nikola Tanev",
+                  "text": "Nikola Tanev festőművész életét és munkásságát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.332129,
+                        42.687652
+                  ]
+            },
+            {
+                  "name": "Ivan Lazarov múzeum",
+                  "text": "Ivan Lazarov bolgár szobrászművész emlékháza és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        23.327557,
+                        42.687234
+                  ]
+            },
+            {
+                  "name": "Vodna kula",
+                  "text": "Kortárs művészeti galériaként működő egykori víztorony.",
+                  "category": "museum",
+                  "coords": [
+                        23.326236,
+                        42.672744
+                  ]
+            },
+            {
+                  "name": "Théatro",
+                  "text": "Modern színházi helyszín, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        23.345949,
+                        42.6954
+                  ]
+            },
+            {
+                  "name": "Darzhaven satirichen teatar “Aleko Konstantinov”",
+                  "text": "Szatirikus és komikus darabokra szakosodott színház.",
+                  "category": "cultural",
+                  "coords": [
+                        23.326319,
+                        42.691616
+                  ]
+            },
+            {
+                  "name": "Zelenite ezera",
+                  "text": "Festői tavak Szófiában, ideálisak természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Baroko",
+                  "text": "Csendes tó Szófiában, amely kellemes légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Druzhbensko ezero",
+                  "text": "Ismert tó Szófiában, amely pihentető órákra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Malak Pencho",
+                  "text": "Kicsi, hangulatos játszótér Szófiában a fiatal látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "Hívogató játszóterület Szófiában gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Kosha",
+                  "text": "Népszerű játszótér Szófiában, amely tágas helyet kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "Izgalmas játékterem Szófiában szórakozással minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "Modern szórakoztató központ Szófiában a videojátékok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "Hely Szófiában, amely klasszikus videojátékokat kínál baráti társaságban.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Kostenurka",
+                  "text": "Ötletesen kialakított játszótér Szófiában gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "Hely a virtuális játékélményhez Szófiában a technika iránt érdeklődőknek.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "Nagy fedett játszóház Szófiában, ideális gyerekzsúrokhoz.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Halmcheto",
+                  "text": "Szép fekvésű játszótér Szófiában különféle játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Detska ploshtadka „Slona“",
+                  "text": "Tematikus játszótér Szófiában, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Detsata s zhivotni",
+                  "text": "Gyermekbarát játszótér Szófiában kedves részletekkel.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
+                  ]
+            },
+            {
+                  "name": "Yoni Spa",
+                  "text": "Wellness-létesítmény Szófiában, amely különféle szauna- és relaxációs szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333963,
+                        42.671132
+                  ]
+            },
+            {
+                  "name": "Salt room",
+                  "text": "Terápiás szoba Szófiában sós levegő belélegzésére a relaxáció érdekében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.316994,
+                        42.673007
+                  ]
+            },
+            {
+                  "name": "SunFest Sofia",
+                  "text": "Rendezvényhelyszín vagy park Szófiában, amelyet szabadidős tevékenységekre és eseményekre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        23.335618,
+                        42.691364
+                  ]
+            },
+            {
+                  "name": "Аквапарк „Възраждане“",
+                  "text": "Modern vízi park Szófia Vazrazsdane negyedében, csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        23.305864,
+                        42.695255
+                  ]
+            },
+            {
+                  "name": "Solna peshchera",
+                  "text": "Mesterséges sóbarlang Szófiában pihenés és wellness céljából.",
+                  "category": "recreational",
+                  "coords": [
+                        23.29859,
+                        42.673939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Natsionalna hudozhestvena galeriya",
+                  "text": "Cel mai mare muzeu de artă din Bulgaria, situat în fostul Palat Regal din Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.326764,
+                        42.696517
+                  ]
+            },
+            {
+                  "name": "Muzei za istoriya na Sofiya",
+                  "text": "Muzeu care detaliază istoria lungă a Sofiei, situat în Băile Minerale Centrale.",
+                  "category": "museum",
+                  "coords": [
+                        23.323648,
+                        42.699337
+                  ]
+            },
+            {
+                  "name": "Casa-muzeu Ivan Vazov",
+                  "text": "Fosta casă a celebrului scriitor bulgar Ivan Vazov din Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.327604,
+                        42.692976
+                  ]
+            },
+            {
+                  "name": "Natsionalniya literaturen muzei",
+                  "text": "Un muzeu dedicat istoriei literare a Bulgariei, situat în Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.323108,
+                        42.689495
+                  ]
+            },
+            {
+                  "name": "Natsionalen voennoistoricheski muzei",
+                  "text": "O colecție extinsă de artefacte militare și istorie în Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.350469,
+                        42.688525
+                  ]
+            },
+            {
+                  "name": "Natsionalen muzei \"Zemyata i horata\"",
+                  "text": "Un muzeu mineralogic unic situat în Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.320516,
+                        42.679758
+                  ]
+            },
+            {
+                  "name": "Natsionalen arheologicheski institut s muzei",
+                  "text": "Un muzeu care adăpostește descoperiri arheologice semnificative în Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.324562,
+                        42.696429
+                  ]
+            },
+            {
+                  "name": "Sofiiska gradska hudozhestvena galeriya",
+                  "text": "Un muzeu de artă axat pe moștenirea artistică a orașului Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.324359,
+                        42.694431
+                  ]
+            },
+            {
+                  "name": "Natsionalen politehnicheski muzei",
+                  "text": "Un muzeu dedicat științei și tehnologiei în Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.311986,
+                        42.704054
+                  ]
+            },
+            {
+                  "name": "Sofiiski rimski amfiteatar",
+                  "text": "Sit arheologic ce cuprinde ruinele unui amfiteatru roman.",
+                  "category": "historical",
+                  "coords": [
+                        23.328222,
+                        42.697473
+                  ]
+            },
+            {
+                  "name": "Rimska stena",
+                  "text": "Vestigii ale fortificațiilor și zidurilor vechiului oraș.",
+                  "category": "historical",
+                  "coords": [
+                        23.330102,
+                        42.683914
+                  ]
+            },
+            {
+                  "name": "Tsar Osvoboditel",
+                  "text": "Monument dedicat împăratului rus Alexandru al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        23.332318,
+                        42.693743
+                  ]
+            },
+            {
+                  "name": "Natsionalna opera i balet",
+                  "text": "Cea mai importantă instituție de operă și balet din capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        23.330434,
+                        42.697767
+                  ]
+            },
+            {
+                  "name": "Teatar \"Balgarska armiya\"",
+                  "text": "Un teatru profesionist consacrat situat în centrul orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        23.328854,
+                        42.69478
+                  ]
+            },
+            {
+                  "name": "Teatar-Laboratoriya “Alma Alter”",
+                  "text": "Spațiu dedicat spectacolelor de teatru experimental și alternativ.",
+                  "category": "cultural",
+                  "coords": [
+                        23.335345,
+                        42.692859
+                  ]
+            },
+            {
+                  "name": "Teatralna rabotilnitsa Sfumato",
+                  "text": "Laborator și atelier teatral inovator pentru arta spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        23.346113,
+                        42.697912
+                  ]
+            },
+            {
+                  "name": "Natsionalen dvorets na kulturata",
+                  "text": "Complex multifuncțional vast pentru expoziții și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318964,
+                        42.684758
+                  ]
+            },
+            {
+                  "name": "Sveti Sedmocisleniți",
+                  "text": "Biserică ortodoxă istorică, fostă moschee otomană.",
+                  "category": "religious",
+                  "coords": [
+                        23.327598,
+                        42.68995
+                  ]
+            },
+            {
+                  "name": "Sofiiska sinagoga",
+                  "text": "Una dintre cele mai mari și mai bogat decorate sinagogi din Europa.",
+                  "category": "religious",
+                  "coords": [
+                        23.320941,
+                        42.700249
+                  ]
+            },
+            {
+                  "name": "Sv. Sofiya",
+                  "text": "Veche biserică bizantină care a dat numele orașului Sofia.",
+                  "category": "religious",
+                  "coords": [
+                        23.331434,
+                        42.696549
+                  ]
+            },
+            {
+                  "name": "Catedrala Sfânta Nedelia",
+                  "text": "Catedrală medievală situată în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        23.321383,
+                        42.696714
+                  ]
+            },
+            {
+                  "name": "Sveta Paraskeva",
+                  "text": "Biserică ortodoxă bulgară dedicată Sfintei Parascheva.",
+                  "category": "religious",
+                  "coords": [
+                        23.328846,
+                        42.701224
+                  ]
+            },
+            {
+                  "name": "Katedralen hram “Uspenie Bogorodichno”",
+                  "text": "Catedrala Adormirea Maicii Domnului, lăcaș de cult greco-catolic.",
+                  "category": "religious",
+                  "coords": [
+                        23.313143,
+                        42.691045
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva \"Sv. Bogoroditsa\"",
+                  "text": "Biserică armenească tradițională situată în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        23.31396,
+                        42.692743
+                  ]
+            },
+            {
+                  "name": "Sveti Iosif",
+                  "text": "Principala catedrală catolică din capitala Bulgariei.",
+                  "category": "religious",
+                  "coords": [
+                        23.319775,
+                        42.698743
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai Sofiiski",
+                  "text": "Biserică ortodoxă dedicată Sfântului Nicolae din Sofia.",
+                  "category": "religious",
+                  "coords": [
+                        23.310065,
+                        42.701583
+                  ]
+            },
+            {
+                  "name": "Sv. Georgi Pobedonosets",
+                  "text": "Rotondă romană antică, cea mai veche clădire conservată din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        23.322881,
+                        42.696909
+                  ]
+            },
+            {
+                  "name": "Pokrov Bogorodichen",
+                  "text": "Biserică ortodoxă dedicată Acoperământului Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        23.307815,
+                        42.692602
+                  ]
+            },
+            {
+                  "name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”",
+                  "text": "Biserică ortodoxă închinată Sfântului Nicolae Făcătorul de Minuni.",
+                  "category": "religious",
+                  "coords": [
+                        23.32284,
+                        42.695969
+                  ]
+            },
+            {
+                  "name": "Sv. Petka Samardzhiiska",
+                  "text": "Mică biserică medievală situată într-un pasaj pietonal central.",
+                  "category": "religious",
+                  "coords": [
+                        23.322175,
+                        42.697867
+                  ]
+            },
+            {
+                  "name": "Vasil Levski",
+                  "text": "Monument dedicat eroului național bulgar Vasil Levski.",
+                  "category": "landmark",
+                  "coords": [
+                        23.335329,
+                        42.696665
+                  ]
+            },
+            {
+                  "name": "Petko i Pencho Slaveikovi",
+                  "text": "Monument sculptural reprezentându-i pe poeții Petko și Pencho Slaveykov pe o bancă.",
+                  "category": "landmark",
+                  "coords": [
+                        23.323834,
+                        42.692389
+                  ]
+            },
+            {
+                  "name": "Banya bashi dzhamiya",
+                  "text": "Moschee otomană istorică proiectată de arhitectul Mimar Sinan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.322561,
+                        42.699506
+                  ]
+            },
+            {
+                  "name": "Hram-pametnik Sv. Aleksandar Nevski",
+                  "text": "Catedrală neobizantină iconică și simbol al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        23.332795,
+                        42.695818
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai Chudotvorets",
+                  "text": "Biserică ortodoxă rusă cunoscută pentru cupolele sale aurite.",
+                  "category": "landmark",
+                  "coords": [
+                        23.328937,
+                        42.695696
+                  ]
+            },
+            {
+                  "name": "Ruski pametnik",
+                  "text": "Obelisc dedicat eliberării țării de sub stăpânirea otomană.",
+                  "category": "landmark",
+                  "coords": [
+                        23.31042,
+                        42.692254
+                  ]
+            },
+            {
+                  "name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya",
+                  "text": "Punct istoric de observație astronomică și reper geodezic.",
+                  "category": "landmark",
+                  "coords": [
+                        23.330317,
+                        42.695656
+                  ]
+            },
+            {
+                  "name": "Televizionna kula „Sofiya“",
+                  "text": "Turn de telecomunicații proeminent care deservește întreaga capitală.",
+                  "category": "tower",
+                  "coords": [
+                        23.341722,
+                        42.676761
+                  ]
+            },
+            {
+                  "name": "Orlov most",
+                  "text": "Pod faimos decorat cu patru statui de vulturi din bronz.",
+                  "category": "landmark",
+                  "coords": [
+                        23.337501,
+                        42.690552
+                  ]
+            },
+            {
+                  "name": "Lavov most",
+                  "text": "Pod istoric decorat cu patru figuri de lei din bronz.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32388,
+                        42.704918
+                  ]
+            },
+            {
+                  "name": "Park Sv. Sv. Petar i Pavel",
+                  "text": "Parc public numit după Sfinții Apostoli Petru și Pavel.",
+                  "category": "park",
+                  "coords": [
+                        23.2938,
+                        42.696253
+                  ]
+            },
+            {
+                  "name": "park Oborishte",
+                  "text": "Parc orășenesc popular cu spații verzi și monumente.",
+                  "category": "park",
+                  "coords": [
+                        23.342462,
+                        42.697527
+                  ]
+            },
+            {
+                  "name": "Knyazheska gradina",
+                  "text": "Grădină publică urbană situată în apropierea centrului orașului.",
+                  "category": "park",
+                  "coords": [
+                        23.334207,
+                        42.690807
+                  ]
+            },
+            {
+                  "name": "Gradska gradina",
+                  "text": "Cel mai vechi parc public din oraș, situat în fața Teatrului Național.",
+                  "category": "park",
+                  "coords": [
+                        23.325502,
+                        42.695182
+                  ]
+            },
+            {
+                  "name": "Doktorska gradina",
+                  "text": "Parc peisagistic dedicat personalului medical căzut în război.",
+                  "category": "park",
+                  "coords": [
+                        23.338488,
+                        42.694424
+                  ]
+            },
+            {
+                  "name": "Gradina Kyulutsite",
+                  "text": "Mică grădină amenajată și zonă de recreere.",
+                  "category": "park",
+                  "coords": [
+                        23.334823,
+                        42.702027
+                  ]
+            },
+            {
+                  "name": "Muzei Nikola Tanev",
+                  "text": "Muzeu dedicat vieții și operei pictorului Nikola Tanev.",
+                  "category": "museum",
+                  "coords": [
+                        23.332129,
+                        42.687652
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Ivan Lazarov\"",
+                  "text": "Casă memorială și muzeu al sculptorului bulgar Ivan Lazarov.",
+                  "category": "museum",
+                  "coords": [
+                        23.327557,
+                        42.687234
+                  ]
+            },
+            {
+                  "name": "Vodna kula",
+                  "text": "Fost turn de apă transformat în galerie de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        23.326236,
+                        42.672744
+                  ]
+            },
+            {
+                  "name": "Théatro",
+                  "text": "Spațiu teatral modern care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        23.345949,
+                        42.6954
+                  ]
+            },
+            {
+                  "name": "Teatrul Satic de Stat \"Aleko Konstantinov\"",
+                  "text": "Teatru specializat în producții satirice și de comedie.",
+                  "category": "cultural",
+                  "coords": [
+                        23.326319,
+                        42.691616
+                  ]
+            },
+            {
+                  "name": "Zelenite ezera",
+                  "text": "Lacuri pitorești în Sofia, ideale pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Baroko",
+                  "text": "Un lac liniștit în Sofia, care oferă o atmosferă plăcută.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Druzhbensko ezero",
+                  "text": "Un lac cunoscut în Sofia, care invită la ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Malak Pencho",
+                  "text": "Un teren de joacă mic și primitor în Sofia pentru micii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "O zonă de joacă primitoare în Sofia pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Kosha",
+                  "text": "Un teren de joacă popular în Sofia, care oferă mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "O sală de jocuri captivantă în Sofia cu divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "O zonă de divertisment modernă în Sofia pentru fanii jocurilor video.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "Un loc în Sofia care oferă jocuri video clasice într-o atmosferă sociabilă.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Kostenurka",
+                  "text": "Un teren de joacă conceput cu imaginație în Sofia pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "Un loc pentru distracție virtuală în Sofia pentru vizitatorii pasionați de tehnologie.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "Un teren de joacă interior mare în Sofia, ideal pentru aniversările copiilor.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Halmcheto",
+                  "text": "Un teren de joacă frumos situat în Sofia, cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Detska ploshtadka „Slona“",
+                  "text": "Un teren de joacă tematic în Sofia, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Detsata s zhivotni",
+                  "text": "Un teren de joacă prietenos pentru copii în Sofia, cu detalii atractive.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
+                  ]
+            },
+            {
+                  "name": "Yoni Spa",
+                  "text": "O facilitate de wellness în Sofia, oferind diverse servicii de saună și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333963,
+                        42.671132
+                  ]
+            },
+            {
+                  "name": "Salt room",
+                  "text": "O cameră terapeutică în Sofia pentru inhalarea aerului salin în scopul relaxării.",
+                  "category": "recreational",
+                  "coords": [
+                        23.316994,
+                        42.673007
+                  ]
+            },
+            {
+                  "name": "SunFest Sofia",
+                  "text": "Un loc de evenimente sau parc în Sofia, utilizat pentru activități de agrement și festivaluri.",
+                  "category": "recreational",
+                  "coords": [
+                        23.335618,
+                        42.691364
+                  ]
+            },
+            {
+                  "name": "Аквапарк „Възраждане“",
+                  "text": "Un parc acvatic modern în cartierul Vazrazhdane din Sofia, dotată cu tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.305864,
+                        42.695255
+                  ]
+            },
+            {
+                  "name": "Solna peshchera",
+                  "text": "O salină artificială în Sofia pentru relaxare și tratamente wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        23.29859,
+                        42.673939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Art Gallery",
+                  "text": "Bulgaria's largest art museum, located in the former Royal Palace in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.326764,
+                        42.696517
+                  ]
+            },
+            {
+                  "name": "Sofia History Museum",
+                  "text": "A museum detailing the long history of Sofia, located in the Central Mineral Baths.",
+                  "category": "museum",
+                  "coords": [
+                        23.323648,
+                        42.699337
+                  ]
+            },
+            {
+                  "name": "House museum \"Ivan Vazov\"",
+                  "text": "The former home of the famous Bulgarian writer Ivan Vazov in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.327604,
+                        42.692976
+                  ]
+            },
+            {
+                  "name": "National Literary Museum",
+                  "text": "A museum dedicated to the literary history of Bulgaria, located in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.323108,
+                        42.689495
+                  ]
+            },
+            {
+                  "name": "National Museum of Military History",
+                  "text": "An extensive collection of military artifacts and history in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.350469,
+                        42.688525
+                  ]
+            },
+            {
+                  "name": "Earth and Man National Museum",
+                  "text": "A unique mineralogical museum located in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.320516,
+                        42.679758
+                  ]
+            },
+            {
+                  "name": "National Archaeological Institute with Museum",
+                  "text": "A museum housing significant archaeological finds in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.324562,
+                        42.696429
+                  ]
+            },
+            {
+                  "name": "Sofia City Art Gallery",
+                  "text": "An art museum focused on the artistic heritage of the city of Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.324359,
+                        42.694431
+                  ]
+            },
+            {
+                  "name": "National Polytechnic Museum",
+                  "text": "A museum dedicated to science and technology in Sofia.",
+                  "category": "museum",
+                  "coords": [
+                        23.311986,
+                        42.704054
+                  ]
+            },
+            {
+                  "name": "Amphitheatre of Serdica",
+                  "text": "Archaeological site featuring ruins of a Roman amphitheatre.",
+                  "category": "historical",
+                  "coords": [
+                        23.328222,
+                        42.697473
+                  ]
+            },
+            {
+                  "name": "Roman Wall",
+                  "text": "Remains of ancient city fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        23.330102,
+                        42.683914
+                  ]
+            },
+            {
+                  "name": "Monument to the Tsar Liberator",
+                  "text": "Monument dedicated to Emperor Alexander II of Russia.",
+                  "category": "historical",
+                  "coords": [
+                        23.332318,
+                        42.693743
+                  ]
+            },
+            {
+                  "name": "National Opera and Ballet",
+                  "text": "Leading opera house and ballet venue in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        23.330434,
+                        42.697767
+                  ]
+            },
+            {
+                  "name": "Theatre Bulgarian Army",
+                  "text": "Established professional theatre located in the city center.",
+                  "category": "cultural",
+                  "coords": [
+                        23.328854,
+                        42.69478
+                  ]
+            },
+            {
+                  "name": "@lma @lter - alternative theatre",
+                  "text": "Experimental and alternative theatre space.",
+                  "category": "cultural",
+                  "coords": [
+                        23.335345,
+                        42.692859
+                  ]
+            },
+            {
+                  "name": "Sfumato Theatre Workshop",
+                  "text": "Innovative theatre laboratory and workshop.",
+                  "category": "cultural",
+                  "coords": [
+                        23.346113,
+                        42.697912
+                  ]
+            },
+            {
+                  "name": "National Palace of Culture",
+                  "text": "Large multifunctional complex for exhibitions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318964,
+                        42.684758
+                  ]
+            },
+            {
+                  "name": "Sveti Sedmochislenitsi Church",
+                  "text": "Historic Orthodox church, formerly an Ottoman mosque.",
+                  "category": "religious",
+                  "coords": [
+                        23.327598,
+                        42.68995
+                  ]
+            },
+            {
+                  "name": "Sofia Synagogue",
+                  "text": "One of the largest and most ornate synagogues in Europe.",
+                  "category": "religious",
+                  "coords": [
+                        23.320941,
+                        42.700249
+                  ]
+            },
+            {
+                  "name": "St. Sophia",
+                  "text": "Ancient Byzantine church that gave the city its name.",
+                  "category": "religious",
+                  "coords": [
+                        23.331434,
+                        42.696549
+                  ]
+            },
+            {
+                  "name": "Holy Nedelya Church",
+                  "text": "Medieval cathedral located in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        23.321383,
+                        42.696714
+                  ]
+            },
+            {
+                  "name": "Sveta Paraskeva",
+                  "text": "Eastern Orthodox church dedicated to Saint Paraskeva.",
+                  "category": "religious",
+                  "coords": [
+                        23.328846,
+                        42.701224
+                  ]
+            },
+            {
+                  "name": "Katedralen hram “Uspenie Bogorodichno”",
+                  "text": "Cathedral of the Dormition, an Eastern Catholic place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        23.313143,
+                        42.691045
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva \"Sv. Bogoroditsa\"",
+                  "text": "Traditional Armenian church in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        23.31396,
+                        42.692743
+                  ]
+            },
+            {
+                  "name": "St Joseph",
+                  "text": "The main Catholic cathedral in the capital.",
+                  "category": "religious",
+                  "coords": [
+                        23.319775,
+                        42.698743
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai Sofiiski",
+                  "text": "Orthodox church dedicated to Saint Nicholas of Sofia.",
+                  "category": "religious",
+                  "coords": [
+                        23.310065,
+                        42.701583
+                  ]
+            },
+            {
+                  "name": "Saint George Rotunda",
+                  "text": "Ancient Roman rotunda, the city's oldest preserved building.",
+                  "category": "religious",
+                  "coords": [
+                        23.322881,
+                        42.696909
+                  ]
+            },
+            {
+                  "name": "Intercession of the Mother of God",
+                  "text": "Orthodox church dedicated to the Intercession of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        23.307815,
+                        42.692602
+                  ]
+            },
+            {
+                  "name": "Hram “Sv. Nikolai Mirlikiiski Chudotvorets”",
+                  "text": "Orthodox church dedicated to Saint Nicholas the Miracle-Maker.",
+                  "category": "religious",
+                  "coords": [
+                        23.32284,
+                        42.695969
+                  ]
+            },
+            {
+                  "name": "Church of St Petka of the Saddlers",
+                  "text": "Small medieval church located in a central pedestrian underpass.",
+                  "category": "religious",
+                  "coords": [
+                        23.322175,
+                        42.697867
+                  ]
+            },
+            {
+                  "name": "Vasil Levski",
+                  "text": "Monument commemorating the Bulgarian national hero Vasil Levski.",
+                  "category": "landmark",
+                  "coords": [
+                        23.335329,
+                        42.696665
+                  ]
+            },
+            {
+                  "name": "Petko i Pencho Slaveikovi",
+                  "text": "Sculptural monument of the poets Petko and Pencho Slaveykov on a bench.",
+                  "category": "landmark",
+                  "coords": [
+                        23.323834,
+                        42.692389
+                  ]
+            },
+            {
+                  "name": "Banya Bashi Mosque",
+                  "text": "Historic Ottoman mosque designed by Mimar Sinan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.322561,
+                        42.699506
+                  ]
+            },
+            {
+                  "name": "Alexander Nevsky Cathedral",
+                  "text": "Iconic neo-Byzantine cathedral and symbol of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        23.332795,
+                        42.695818
+                  ]
+            },
+            {
+                  "name": "St Nicholas the Miracle-Maker",
+                  "text": "Russian Orthodox church known for its golden domes.",
+                  "category": "landmark",
+                  "coords": [
+                        23.328937,
+                        42.695696
+                  ]
+            },
+            {
+                  "name": "Russian Monument",
+                  "text": "Obelisk dedicated to the liberation of the country.",
+                  "category": "landmark",
+                  "coords": [
+                        23.31042,
+                        42.692254
+                  ]
+            },
+            {
+                  "name": "Osnovnata astronomicheska tochka na darzhavnata triangulatsiya na Balgariya",
+                  "text": "Historic astronomical observation point and geodetic marker.",
+                  "category": "landmark",
+                  "coords": [
+                        23.330317,
+                        42.695656
+                  ]
+            },
+            {
+                  "name": "Sofia TV Tower",
+                  "text": "Prominent telecommunications tower providing city-wide coverage.",
+                  "category": "tower",
+                  "coords": [
+                        23.341722,
+                        42.676761
+                  ]
+            },
+            {
+                  "name": "Eagles' Bridge",
+                  "text": "Famous bridge featuring four bronze eagle statues.",
+                  "category": "landmark",
+                  "coords": [
+                        23.337501,
+                        42.690552
+                  ]
+            },
+            {
+                  "name": "Lions' Bridge",
+                  "text": "Historic bridge decorated with four bronze lion figures.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32388,
+                        42.704918
+                  ]
+            },
+            {
+                  "name": "Park „St. St. Peter & Pavel“",
+                  "text": "Public park named after Saints Peter and Paul.",
+                  "category": "park",
+                  "coords": [
+                        23.2938,
+                        42.696253
+                  ]
+            },
+            {
+                  "name": "park Oborishte",
+                  "text": "Popular city park featuring green spaces and monuments.",
+                  "category": "park",
+                  "coords": [
+                        23.342462,
+                        42.697527
+                  ]
+            },
+            {
+                  "name": "Prince's Garden",
+                  "text": "Urban park located near the city center.",
+                  "category": "park",
+                  "coords": [
+                        23.334207,
+                        42.690807
+                  ]
+            },
+            {
+                  "name": "City Garden",
+                  "text": "The city's oldest public park, situated in front of the National Theatre.",
+                  "category": "park",
+                  "coords": [
+                        23.325502,
+                        42.695182
+                  ]
+            },
+            {
+                  "name": "Doctors' Garden",
+                  "text": "Landscaped park dedicated to medical personnel who died in the war.",
+                  "category": "park",
+                  "coords": [
+                        23.338488,
+                        42.694424
+                  ]
+            },
+            {
+                  "name": "Kyulutsite Park",
+                  "text": "Small landscaped garden and recreational area.",
+                  "category": "park",
+                  "coords": [
+                        23.334823,
+                        42.702027
+                  ]
+            },
+            {
+                  "name": "Muzei Nikola Tanev",
+                  "text": "Museum dedicated to the life and work of the artist Nikola Tanev.",
+                  "category": "museum",
+                  "coords": [
+                        23.332129,
+                        42.687652
+                  ]
+            },
+            {
+                  "name": "House museum \"Ivan Lazarov\"",
+                  "text": "Memorial house and museum of the Bulgarian sculptor Ivan Lazarov.",
+                  "category": "museum",
+                  "coords": [
+                        23.327557,
+                        42.687234
+                  ]
+            },
+            {
+                  "name": "Vodna kula",
+                  "text": "Former water tower repurposed as a contemporary art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        23.326236,
+                        42.672744
+                  ]
+            },
+            {
+                  "name": "Théatro",
+                  "text": "Modern theatre venue hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.345949,
+                        42.6954
+                  ]
+            },
+            {
+                  "name": "Darzhaven satirichen teatar “Aleko Konstantinov”",
+                  "text": "Theatre specializing in satirical and comedic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        23.326319,
+                        42.691616
+                  ]
+            },
+            {
+                  "name": "The Green Lakes",
+                  "text": "Scenic lakes in Sofia, perfect for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        23.307553,
+                        42.663662
+                  ]
+            },
+            {
+                  "name": "Baroko",
+                  "text": "A quiet lake in Sofia offering a pleasant atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        23.354239,
+                        42.651179
+                  ]
+            },
+            {
+                  "name": "Druzhbensko ezero",
+                  "text": "A well-known lake in Sofia, perfect for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        23.400871,
+                        42.664249
+                  ]
+            },
+            {
+                  "name": "Malak Pencho",
+                  "text": "A small, cozy playground in Sofia for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        23.328953,
+                        42.676603
+                  ]
+            },
+            {
+                  "name": "Casita",
+                  "text": "An inviting play area in Sofia for families with children.",
+                  "category": "family",
+                  "coords": [
+                        23.318842,
+                        42.691913
+                  ]
+            },
+            {
+                  "name": "Kosha",
+                  "text": "A popular playground in Sofia offering plenty of space for play.",
+                  "category": "family",
+                  "coords": [
+                        23.355642,
+                        42.690762
+                  ]
+            },
+            {
+                  "name": "Red Zone",
+                  "text": "An exciting amusement arcade in Sofia with entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        23.321258,
+                        42.683625
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "A modern entertainment area in Sofia for video game fans.",
+                  "category": "family",
+                  "coords": [
+                        23.308682,
+                        42.698426
+                  ]
+            },
+            {
+                  "name": "Retro Gaming Bar",
+                  "text": "A venue in Sofia offering classic video games in a social setting.",
+                  "category": "family",
+                  "coords": [
+                        23.318226,
+                        42.696898
+                  ]
+            },
+            {
+                  "name": "Kostenurka",
+                  "text": "An imaginatively designed playground in Sofia for children.",
+                  "category": "family",
+                  "coords": [
+                        23.344365,
+                        42.697401
+                  ]
+            },
+            {
+                  "name": "Vrooms",
+                  "text": "A venue for virtual gaming fun in Sofia for tech-savvy visitors.",
+                  "category": "family",
+                  "coords": [
+                        23.321732,
+                        42.706983
+                  ]
+            },
+            {
+                  "name": "Capella Play",
+                  "text": "A large indoor playground in Sofia, ideal for children's birthdays.",
+                  "category": "family",
+                  "coords": [
+                        23.319837,
+                        42.678366
+                  ]
+            },
+            {
+                  "name": "Halmcheto",
+                  "text": "A nicely located playground in Sofia with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        23.353169,
+                        42.694199
+                  ]
+            },
+            {
+                  "name": "Playground \"Elephant\"",
+                  "text": "A themed playground in Sofia that brings a lot of joy to children.",
+                  "category": "family",
+                  "coords": [
+                        23.339276,
+                        42.687382
+                  ]
+            },
+            {
+                  "name": "Detsata s zhivotni",
+                  "text": "A child-friendly playground in Sofia with charming details.",
+                  "category": "family",
+                  "coords": [
+                        23.304141,
+                        42.680514
+                  ]
+            },
+            {
+                  "name": "Yoni Spa",
+                  "text": "A wellness facility in Sofia offering various sauna and relaxation services.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333963,
+                        42.671132
+                  ]
+            },
+            {
+                  "name": "Salt room",
+                  "text": "A therapeutic salt room in Sofia used for relaxation and salt-air inhalation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.316994,
+                        42.673007
+                  ]
+            },
+            {
+                  "name": "SunFest Sofia",
+                  "text": "An event venue or park in Sofia used for leisure activities and seasonal festivals.",
+                  "category": "recreational",
+                  "coords": [
+                        23.335618,
+                        42.691364
+                  ]
+            },
+            {
+                  "name": "Vazrazhdane Aquapark",
+                  "text": "A modern water park in the Vazrazhdane district of Sofia featuring slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        23.305864,
+                        42.695255
+                  ]
+            },
+            {
+                  "name": "Solna peshchera",
+                  "text": "An artificial salt cave in Sofia for relaxation and wellness treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        23.29859,
+                        42.673939
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [23.3219, 42.6977],
@@ -83,7 +2648,1384 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-sofia.webp"
   },
   {
-    id: "city-plovdiv", "sights": {"de": [{"name": "Regionalen etnografski muzei – Plovdiv", "text": "Das Regional Ethnographic Museum - Plovdiv ist das regionale ethnografische Museum in Plowdiw.", "category": "museum", "coords": [24.753207, 42.14999]}, {"name": "Bischofsbasilika von Philippopolis", "text": "Die Episcopal Basilica of Philippopolis ist die große Basilika von Philippopolis in Plowdiw.", "category": "museum", "coords": [24.752595, 42.144064]}, {"name": "Regionalen istoricheski muzei - Plovdiv", "text": "Das Plovdiv Regional History Museum ist das regionale historische Museum in Plowdiw.", "category": "museum", "coords": [24.745252, 42.1514]}, {"name": "Regionalen prirodonauchen muzei – Plovdiv", "text": "Das Regional Natural History Museum - Plovdiv ist das regionale naturhistorische Museum in Plowdiw.", "category": "museum", "coords": [24.742816, 42.149107]}, {"name": "Balabanova kashta", "text": "Das Balabanov house ist ein Museum, das als Balabanov-Haus in Plowdiw bekannt ist.", "category": "museum", "coords": [24.751793, 42.14999]}, {"name": "kashta na Veren Stambolyan", "text": "Das Veren Stambolyan house ist ein Museum im Haus von Veren Stambolyan in Plowdiw.", "category": "museum", "coords": [24.753197, 42.148853]}, {"name": "Kashta Klianti", "text": "Das Klianti House ist ein als Klianti-Haus bekanntes Museum in Plowdiw.", "category": "museum", "coords": [24.752336, 42.147525]}, {"name": "Antichna biblioteka", "text": "Die Ancient Library ist die antike Bibliothek in Plowdiw.", "category": "historical", "coords": [24.750148, 42.143349]}, {"name": "Iztochnata porta na Filipopolis", "text": "Eastern gate of Philippopolis ist die Ausgrabungsstätte des östlichen Tors von Philippopolis in Plowdiw.", "category": "historical", "coords": [24.755931, 42.148748]}, {"name": "Nebet tepe", "text": "Nebet Tepe ist eine archäologische Stätte auf dem gleichnamigen Hügel in Plowdiw.", "category": "historical", "coords": [24.752, 42.151235]}, {"name": "Theater von Philippopolis", "text": "Das Roman theatre of Philippopolis ist das antike Theater in Plowdiw.", "category": "historical", "coords": [24.751082, 42.146974]}, {"name": "Bratskata mogila", "text": "Bratska mogila ist ein als Brudermondän bekanntes Denkmal in Plowdiw.", "category": "historical", "coords": [24.717258, 42.143016]}, {"name": "Plovdiv Synagogue", "text": "Die Plovdiv Synagogue ist eine Andachtsstätte in Plowdiw.", "category": "religious", "coords": [24.740772, 42.150615]}, {"name": "Dzhumaya Dzhamiya", "text": "Die Dzhumaya Mosque ist die Dschumaja-Moschee in Plowdiw.", "category": "religious", "coords": [24.748337, 42.147932]}, {"name": "Uspenie Bogorodichno", "text": "Assumption of the Virgin Mary ist die Kirche Mariä Himmelfahrt in Plowdiw.", "category": "religious", "coords": [24.750726, 42.147897]}, {"name": "Shahbedinova Imaret Dzhamiya", "text": "Die Шахбединова Имарет Джамия ist die Shahbedin Imaret Moschee in Plowdiw.", "category": "religious", "coords": [24.746693, 42.152446]}, {"name": "Sv. Sv. Kiril i Metodii", "text": "St. St. Kiril & Metodiy ist die Kirche der Heiligen Kyrill und Method in Plowdiw.", "category": "religious", "coords": [24.748931, 42.152182]}, {"name": "Sveta Nedelya", "text": "Sveta Nedelya ist die Kirche der Heiligen Nedelja in Plowdiw.", "category": "religious", "coords": [24.754783, 42.149595]}, {"name": "Chetvartak pazar", "text": "Der Thursday market ist der Donnerstagmarkt in Plowdiw.", "category": "landmark", "coords": [24.742798, 42.150666]}, {"name": "park „Tsar Simeonovata gradina“", "text": "Der \"Tsar Simeon Garden\" Park ist der Zar-Simeon-Garten in Plowdiw.", "category": "park", "coords": [24.746774, 42.141324]}, {"name": "Zhiten Pazar", "text": "Житен Пазар ist ein Parkbereich beim ehemaligen Getreidemarkt in Plowdiw.", "category": "park", "coords": [24.754907, 42.151156]}, {"name": "Malkata bazilika", "text": "Die Small Basilica ist eine archäologische Stätte in Plowdiw.", "category": "historical", "coords": [24.75798, 42.146378]}, {"name": "Alosha", "text": "Альоша ist ein bekanntes Denkmal in Plowdiw.", "category": "historical", "coords": [24.737756, 42.143742]}, {"name": "Chasovnikova Kula", "text": "The Clock Tower ist ein historisches Denkmal in Plowdiw.", "category": "historical", "coords": [24.746305, 42.14634]}, {"name": "Dramatichen teatar Plovdiv", "text": "Das Драматичен театър Пловдив ist ein lokales Theater in Plowdiw.", "category": "cultural", "coords": [24.749121, 42.145083]}, {"name": "Dom na kulturata \"Boris Hristov\"", "text": "Dom na kulturata \"Борис Христов\" ist ein Veranstaltungsort für Theateraufführungen in Plowdiw.", "category": "cultural", "coords": [24.743253, 42.141939]}, {"name": "Sv. Troitsa", "text": "Sv. Troitsa ist eine religiöse Kultstätte in Plowdiw.", "category": "religious", "coords": [24.748309, 42.130654]}, {"name": "Mladezhki halm", "text": "Der Youth hill ist ein markanter Gipfel in Plowdiw.", "category": "natural", "coords": [24.731963, 42.136929]}, {"name": "Grozdov pazar", "text": "Гроздов пазар ist ein öffentlicher Park in Plowdiw.", "category": "park", "coords": [24.745219, 42.144255]}, {"name": "Plovdivski Zoopark", "text": "Der Plovdiv Zoo ist ein zoologischer Garten in Plowdiw.", "category": "family", "coords": [24.711208, 42.144666]}, {"name": "Muzeina apteka Hipokrat", "text": "Die Hippocrates Museum Pharmacy ist ein historisches Museum in Plowdiw.", "category": "museum", "coords": [24.752253, 42.14894]}, {"name": "Kashta Krikor Mesrobovich", "text": "Das Krikor Mesrobovich house fungiert als Museum in Plowdiw.", "category": "museum", "coords": [24.750883, 42.150418]}, {"name": "Galeriya Dzhurkovi", "text": "Die Djurkovi gallery ist ein Museum in Plowdiw.", "category": "museum", "coords": [24.749617, 42.148138]}, {"name": "Spätantikes Gebäude \"Irini\" aus Philippopolis", "text": "Das Late Antiquity Building Irene ist eine museale Einrichtung in Plowdiw.", "category": "museum", "coords": [24.751777, 42.145007]}, {"name": "Fotini", "text": "Fotini ist eine Galerie in Plowdiw.", "category": "museum", "coords": [24.74458, 42.148408]}, {"name": "Nexus games, eSports centre", "text": "Ein E-Sport-Zentrum und eine Spielhalle in Plowdiw mit Unterhaltung für die Familie.", "category": "family", "coords": [24.749335, 42.141205]}, {"name": "Sankt Peterburg", "text": "Ein Wasserpark in Plowdiw mit Außenpools und sonnigen Loungebereichen.", "category": "family", "coords": [24.735886, 42.157641]}], "hu": [{"name": "Regionalen etnografski muzei – Plovdiv", "text": "A Regional Ethnographic Museum - Plovdiv a regionális néprajzi múzeum Plowdiw városában.", "category": "museum", "coords": [24.753207, 42.14999]}, {"name": "Episkopska bazilika na Filipopol", "text": "Az Episcopal Basilica of Philippopolis Philippopolis nagy bazilikája Plowdiw városában.", "category": "museum", "coords": [24.752595, 42.144064]}, {"name": "Regionalen istoricheski muzei - Plovdiv", "text": "A Plovdiv Regional History Museum a regionális történelmi múzeum Plowdiw városában.", "category": "museum", "coords": [24.745252, 42.1514]}, {"name": "Regionalen prirodonauchen muzei – Plovdiv", "text": "A Regional Natural History Museum - Plovdiv a regionális természettudományi múzeum Plowdiw városában.", "category": "museum", "coords": [24.742816, 42.149107]}, {"name": "Balabanova kashta", "text": "A Balabanov house egy Balabanov-házként ismert múzeum Plowdiw városában.", "category": "museum", "coords": [24.751793, 42.14999]}, {"name": "kashta na Veren Stambolyan", "text": "A Veren Stambolyan house egy múzeum Veren Stambolyan házában, Plowdiw városában.", "category": "museum", "coords": [24.753197, 42.148853]}, {"name": "Kashta Klianti", "text": "A Klianti House egy Klianti-házként ismert múzeum Plowdiw városában.", "category": "museum", "coords": [24.752336, 42.147525]}, {"name": "Antichna biblioteka", "text": "Az Ancient Library az ókori könyvtár Plowdiw városában.", "category": "historical", "coords": [24.750148, 42.143349]}, {"name": "Iztochnata porta na Filipopolis", "text": "Az Eastern gate of Philippopolis Philippopolis keleti kapujának régészeti lelőhelye Plowdiw városában.", "category": "historical", "coords": [24.755931, 42.148748]}, {"name": "Nebet tepe", "text": "A Nebet Tepe egy régészeti lelőhely az azonos nevű dombon Plowdiw városában.", "category": "historical", "coords": [24.752, 42.151235]}, {"name": "Antichen teatar", "text": "A Roman theatre of Philippopolis az ókori színház Plowdiw városában.", "category": "historical", "coords": [24.751082, 42.146974]}, {"name": "Bratskata mogila", "text": "A Bratska mogila egy testvérsíremlék Plowdiw városában.", "category": "historical", "coords": [24.717258, 42.143016]}, {"name": "Plovdiv Synagogue", "text": "A Plovdiv Synagogue egy zsinagóga és istentiszteleti hely Plowdiw városában.", "category": "religious", "coords": [24.740772, 42.150615]}, {"name": "Dzhumaya Dzhamiya", "text": "A Dzhumaya Mosque a Dzsumaja mecset Plowdiw városában.", "category": "religious", "coords": [24.748337, 42.147932]}, {"name": "Uspenie Bogorodichno", "text": "Az Assumption of the Virgin Mary az Istenszülő elszenderedése templom Plowdiw városában.", "category": "religious", "coords": [24.750726, 42.147897]}, {"name": "Shahbedinova Imaret Dzhamiya", "text": "A Шахбединова Имарет Джамия a Sahbedin Imaret mecset Plowdiw városában.", "category": "religious", "coords": [24.746693, 42.152446]}, {"name": "Sv. Sv. Kiril i Metodii", "text": "A St. St. Kiril & Metodiy a Szent Cirill és Metód-templom Plowdiw városában.", "category": "religious", "coords": [24.748931, 42.152182]}, {"name": "Sveta Nedelya", "text": "A Sveta Nedelya a Szent Nedelja-templom Plowdiw városában.", "category": "religious", "coords": [24.754783, 42.149595]}, {"name": "Chetvartak pazar", "text": "A Thursday market a csütörtöki piac Plowdiw városában.", "category": "landmark", "coords": [24.742798, 42.150666]}, {"name": "park „Tsar Simeonovata gradina“", "text": "A \"Tsar Simeon Garden\" Park a Simeon cár kertje Plowdiw városában.", "category": "park", "coords": [24.746774, 42.141324]}, {"name": "Zhiten Pazar", "text": "A Житен Пазар egy park az egykori gabonapiacnál Plowdiw városában.", "category": "park", "coords": [24.754907, 42.151156]}, {"name": "Malkata bazilika", "text": "A Small Basilica egy régészeti lelőhely Plowdiwban.", "category": "historical", "coords": [24.75798, 42.146378]}, {"name": "Alosha", "text": "Az Альоша egy ismert emlékmű Plowdiwban.", "category": "historical", "coords": [24.737756, 42.143742]}, {"name": "Chasovnikova Kula", "text": "A The Clock Tower egy történelmi emlékmű Plowdiwban.", "category": "historical", "coords": [24.746305, 42.14634]}, {"name": "Dramatichen teatar Plovdiv", "text": "A Драматичен театър Пловдив egy helyi színház Plowdiwban.", "category": "cultural", "coords": [24.749121, 42.145083]}, {"name": "Dom na kulturata \"Boris Hristov\"", "text": "A Dom na kulturata \"Борис Христов\" egy színházi előadóhely Plowdiwban.", "category": "cultural", "coords": [24.743253, 42.141939]}, {"name": "Sv. Troitsa", "text": "A Sv. Troitsa egy vallási istentiszteleti hely Plowdiwban.", "category": "religious", "coords": [24.748309, 42.130654]}, {"name": "Mladezhki halm", "text": "A Youth hill egy kiemelkedő hegycsúcs Plowdiwban.", "category": "natural", "coords": [24.731963, 42.136929]}, {"name": "Grozdov pazar", "text": "A Гроздов пазар egy nyilvános park Plowdiwban.", "category": "park", "coords": [24.745219, 42.144255]}, {"name": "Plovdivski Zoopark", "text": "A Plovdiv Zoo egy állatkert Plowdiwban.", "category": "family", "coords": [24.711208, 42.144666]}, {"name": "Muzeina apteka Hipokrat", "text": "A Hippocrates Museum Pharmacy egy történelmi múzeum Plowdiwban.", "category": "museum", "coords": [24.752253, 42.14894]}, {"name": "Kashta Krikor Mesrobovich", "text": "A Krikor Mesrobovich house múzeumként működik Plowdiwban.", "category": "museum", "coords": [24.750883, 42.150418]}, {"name": "Galeriya Dzhurkovi", "text": "A Djurkovi gallery egy múzeum Plowdiwban.", "category": "museum", "coords": [24.749617, 42.148138]}, {"name": "Kasnoantichna sgrada \"Irini\"", "text": "A Late Antiquity Building Irene egy múzeumi intézmény Plowdiwban.", "category": "museum", "coords": [24.751777, 42.145007]}, {"name": "Fotini", "text": "A Fotini egy galéria Plowdiwban.", "category": "museum", "coords": [24.74458, 42.148408]}, {"name": "Nexus games, eSports centre", "text": "Egy e-sport központ és játékterem Plovdivban, szórakozással a család számára.", "category": "family", "coords": [24.749335, 42.141205]}, {"name": "Sankt Peterburg", "text": "Vízipark Plovdivban szabadtéri úszómedencékkel és napozóteraszokkal.", "category": "family", "coords": [24.735886, 42.157641]}], "ro": [{"name": "Regionalen etnografski muzei – Plovdiv", "text": "Regional Ethnographic Museum - Plovdiv este muzeul etnografic regional din Plowdiw.", "category": "museum", "coords": [24.753207, 42.14999]}, {"name": "Episkopska bazilika na Filipopol", "text": "Episcopal Basilica of Philippopolis este marea bazilică din Philippopolis, în Plowdiw.", "category": "museum", "coords": [24.752595, 42.144064]}, {"name": "Regionalen istoricheski muzei - Plovdiv", "text": "Plovdiv Regional History Museum este muzeul de istorie regională din Plowdiw.", "category": "museum", "coords": [24.745252, 42.1514]}, {"name": "Regionalen prirodonauchen muzei – Plovdiv", "text": "Regional Natural History Museum - Plovdiv este muzeul regional de istorie naturală din Plowdiw.", "category": "museum", "coords": [24.742816, 42.149107]}, {"name": "Balabanova kashta", "text": "Balabanov house este un muzeu cunoscut sub numele de Casa Balabanov din Plowdiw.", "category": "museum", "coords": [24.751793, 42.14999]}, {"name": "kashta na Veren Stambolyan", "text": "Veren Stambolyan house este un muzeu în casa lui Veren Stambolyan din Plowdiw.", "category": "museum", "coords": [24.753197, 42.148853]}, {"name": "Kashta Klianti", "text": "Klianti House este un muzeu cunoscut sub numele de Casa Klianti din Plowdiw.", "category": "museum", "coords": [24.752336, 42.147525]}, {"name": "Antichna biblioteka", "text": "Ancient Library este biblioteca antică din Plowdiw.", "category": "historical", "coords": [24.750148, 42.143349]}, {"name": "Iztochnata porta na Filipopolis", "text": "Eastern gate of Philippopolis este situl arheologic al porții de est a lui Philippopolis din Plowdiw.", "category": "historical", "coords": [24.755931, 42.148748]}, {"name": "Nebet tepe", "text": "Nebet Tepe este un sit arheologic de pe dealul omonim din Plowdiw.", "category": "historical", "coords": [24.752, 42.151235]}, {"name": "Antichen teatar", "text": "Roman theatre of Philippopolis este teatrul antic din Plowdiw.", "category": "historical", "coords": [24.751082, 42.146974]}, {"name": "Bratskata mogila", "text": "Bratska mogila este un monument dedicat frăției din Plowdiw.", "category": "historical", "coords": [24.717258, 42.143016]}, {"name": "Plovdiv Synagogue", "text": "Plovdiv Synagogue este o sinagogă și un lăcaș de cult din Plowdiw.", "category": "religious", "coords": [24.740772, 42.150615]}, {"name": "Dzhumaya Dzhamiya", "text": "Dzhumaya Mosque este moscheea Djumaia din Plowdiw.", "category": "religious", "coords": [24.748337, 42.147932]}, {"name": "Uspenie Bogorodichno", "text": "Assumption of the Virgin Mary este biserica Adormirea Maicii Domnului din Plowdiw.", "category": "religious", "coords": [24.750726, 42.147897]}, {"name": "Shahbedinova Imaret Dzhamiya", "text": "Шахбединова Имарет Джамия este moscheea Șahbedin Imaret din Plowdiw.", "category": "religious", "coords": [24.746693, 42.152446]}, {"name": "Sv. Sv. Kiril i Metodii", "text": "St. St. Kiril & Metodiy este biserica Sfinților Chiril și Metodiu din Plowdiw.", "category": "religious", "coords": [24.748931, 42.152182]}, {"name": "Sveta Nedelya", "text": "Sveta Nedelya este biserica Sfânta Nedelia din Plowdiw.", "category": "religious", "coords": [24.754783, 42.149595]}, {"name": "Chetvartak pazar", "text": "Thursday market este piața de joi din Plowdiw.", "category": "landmark", "coords": [24.742798, 42.150666]}, {"name": "park „Tsar Simeonovata gradina“", "text": "\"Tsar Simeon Garden\" Park este Grădina Țarului Simeon din Plowdiw.", "category": "park", "coords": [24.746774, 42.141324]}, {"name": "Zhiten Pazar", "text": "Житен Пазар este un parc de lângă fosta piață de cereale din Plowdiw.", "category": "park", "coords": [24.754907, 42.151156]}, {"name": "Malkata bazilika", "text": "Small Basilica este un sit arheologic în Plowdiw.", "category": "historical", "coords": [24.75798, 42.146378]}, {"name": "Alosha", "text": "Альоша este un monument cunoscut în Plowdiw.", "category": "historical", "coords": [24.737756, 42.143742]}, {"name": "Chasovnikova Kula", "text": "The Clock Tower este un monument istoric în Plowdiw.", "category": "historical", "coords": [24.746305, 42.14634]}, {"name": "Dramatichen teatar Plovdiv", "text": "Драматичен театър Пловдив este un teatru local din Plowdiw.", "category": "cultural", "coords": [24.749121, 42.145083]}, {"name": "Dom na kulturata \"Boris Hristov\"", "text": "Dom na kulturata \"Борис Христов\" este o sală de teatru în Plowdiw.", "category": "cultural", "coords": [24.743253, 42.141939]}, {"name": "Sv. Troitsa", "text": "Sv. Troitsa este un lăcaș de cult religios în Plowdiw.", "category": "religious", "coords": [24.748309, 42.130654]}, {"name": "Mladezhki halm", "text": "Youth hill este un vârf proeminent în Plowdiw.", "category": "natural", "coords": [24.731963, 42.136929]}, {"name": "Grozdov pazar", "text": "Гроздов пазар este un parc public în Plowdiw.", "category": "park", "coords": [24.745219, 42.144255]}, {"name": "Plovdivski Zoopark", "text": "Plovdiv Zoo este o grădină zoologică în Plowdiw.", "category": "family", "coords": [24.711208, 42.144666]}, {"name": "Muzeina apteka Hipokrat", "text": "Hippocrates Museum Pharmacy este un muzeu istoric în Plowdiw.", "category": "museum", "coords": [24.752253, 42.14894]}, {"name": "Kashta Krikor Mesrobovich", "text": "Krikor Mesrobovich house funcționează ca muzeu în Plowdiw.", "category": "museum", "coords": [24.750883, 42.150418]}, {"name": "Galeriya Dzhurkovi", "text": "Djurkovi gallery este un muzeu în Plowdiw.", "category": "museum", "coords": [24.749617, 42.148138]}, {"name": "Kasnoantichna sgrada \"Irini\"", "text": "Late Antiquity Building Irene este o instituție muzeală în Plowdiw.", "category": "museum", "coords": [24.751777, 42.145007]}, {"name": "Fotini", "text": "Fotini este o galerie în Plowdiw.", "category": "museum", "coords": [24.74458, 42.148408]}, {"name": "Nexus games, eSports centre", "text": "Un centru de eSports și sală de jocuri în Plovdiv, cu divertisment pentru familie.", "category": "family", "coords": [24.749335, 42.141205]}, {"name": "Sankt Peterburg", "text": "Un parc acvatic în Plovdiv, cu piscine exterioare și zone de relaxare însorite.", "category": "family", "coords": [24.735886, 42.157641]}], "en": [{"name": "Regional Ethnographic Museum - Plovdiv", "text": "The Regional Ethnographic Museum - Plovdiv is the regional ethnographic museum in Plowdiw.", "category": "museum", "coords": [24.753207, 42.14999]}, {"name": "Episcopal Basilica of Philippopolis", "text": "The Episcopal Basilica of Philippopolis is the great basilica of Philippopolis in Plowdiw.", "category": "museum", "coords": [24.752595, 42.144064]}, {"name": "Plovdiv Regional History Museum", "text": "The Plovdiv Regional History Museum is the regional historical museum in Plowdiw.", "category": "museum", "coords": [24.745252, 42.1514]}, {"name": "Regional Natural History Museum - Plovdiv", "text": "The Regional Natural History Museum - Plovdiv is the regional natural history museum in Plowdiw.", "category": "museum", "coords": [24.742816, 42.149107]}, {"name": "Balabanov house", "text": "The Balabanov house is a museum known as the Balabanov House in Plowdiw.", "category": "museum", "coords": [24.751793, 42.14999]}, {"name": "Veren Stambolyan house", "text": "The Veren Stambolyan house is a museum located in the house of Veren Stambolyan in Plowdiw.", "category": "museum", "coords": [24.753197, 42.148853]}, {"name": "Klianti House", "text": "The Klianti House is a museum known as the Klianti House in Plowdiw.", "category": "museum", "coords": [24.752336, 42.147525]}, {"name": "Ancient Library", "text": "The Ancient Library is the ancient library in Plowdiw.", "category": "historical", "coords": [24.750148, 42.143349]}, {"name": "Eastern gate of Philippopolis", "text": "The Eastern gate of Philippopolis is the archaeological site of the eastern gate of Philippopolis in Plowdiw.", "category": "historical", "coords": [24.755931, 42.148748]}, {"name": "Nebet Tepe", "text": "Nebet Tepe is an archaeological site on the eponymous hill in Plowdiw.", "category": "historical", "coords": [24.752, 42.151235]}, {"name": "Roman theatre of Philippopolis", "text": "The Roman theatre of Philippopolis is the ancient theatre in Plowdiw.", "category": "historical", "coords": [24.751082, 42.146974]}, {"name": "Bratska mogila", "text": "Bratska mogila is a brotherhood monument in Plowdiw.", "category": "historical", "coords": [24.717258, 42.143016]}, {"name": "Plovdiv Synagogue", "text": "The Plovdiv Synagogue is a place of worship in Plowdiw.", "category": "religious", "coords": [24.740772, 42.150615]}, {"name": "Dzhumaya Mosque", "text": "The Dzhumaya Mosque is the Dzhumaya mosque in Plowdiw.", "category": "religious", "coords": [24.748337, 42.147932]}, {"name": "Assumption of the Virgin Mary", "text": "Assumption of the Virgin Mary is the Dormition of the Mother of God church in Plowdiw.", "category": "religious", "coords": [24.750726, 42.147897]}, {"name": "Shahbedinova Imaret Dzhamiya", "text": "Шахбединова Имарет Джамия is the Shahbedin Imaret Mosque in Plowdiw.", "category": "religious", "coords": [24.746693, 42.152446]}, {"name": "St. St. Kiril & Metodiy", "text": "St. St. Kiril & Metodiy is the church of Saints Cyril and Methodius in Plowdiw.", "category": "religious", "coords": [24.748931, 42.152182]}, {"name": "Sveta Nedelya", "text": "Sveta Nedelya is the church of Saint Nedelya in Plowdiw.", "category": "religious", "coords": [24.754783, 42.149595]}, {"name": "Thursday market", "text": "The Thursday market is the Thursday market in Plowdiw.", "category": "landmark", "coords": [24.742798, 42.150666]}, {"name": "\"Tsar Simeon Garden\" Park", "text": "The \"Tsar Simeon Garden\" Park is the Tsar Simeon Garden in Plowdiw.", "category": "park", "coords": [24.746774, 42.141324]}, {"name": "Zhiten Pazar", "text": "Житен Пазар is a park at the former grain market in Plowdiw.", "category": "park", "coords": [24.754907, 42.151156]}, {"name": "Small Basilica", "text": "The Small Basilica is an archaeological site in Plowdiw.", "category": "historical", "coords": [24.75798, 42.146378]}, {"name": "Alosha", "text": "Альоша is a well-known monument in Plowdiw.", "category": "historical", "coords": [24.737756, 42.143742]}, {"name": "The Clock Tower", "text": "The Clock Tower is a historical monument in Plowdiw.", "category": "historical", "coords": [24.746305, 42.14634]}, {"name": "Dramatichen teatar Plovdiv", "text": "Драматичен театър Пловдив is a local theatre in Plowdiw.", "category": "cultural", "coords": [24.749121, 42.145083]}, {"name": "Dom na kulturata \"Boris Hristov\"", "text": "Dom na kulturata \"Борис Христов\" is a theatre venue in Plowdiw.", "category": "cultural", "coords": [24.743253, 42.141939]}, {"name": "Sv. Troitsa", "text": "Sv. Troitsa is a religious place of worship in Plowdiw.", "category": "religious", "coords": [24.748309, 42.130654]}, {"name": "Youth hill", "text": "Youth hill is a prominent peak in Plowdiw.", "category": "natural", "coords": [24.731963, 42.136929]}, {"name": "Grozdov pazar", "text": "Гроздов пазар is a public park in Plowdiw.", "category": "park", "coords": [24.745219, 42.144255]}, {"name": "Plovdiv Zoo", "text": "Plovdiv Zoo is a zoological garden in Plowdiw.", "category": "family", "coords": [24.711208, 42.144666]}, {"name": "Hippocrates Museum Pharmacy", "text": "Hippocrates Museum Pharmacy is a historical museum in Plowdiw.", "category": "museum", "coords": [24.752253, 42.14894]}, {"name": "Krikor Mesrobovich house", "text": "Krikor Mesrobovich house operates as a museum in Plowdiw.", "category": "museum", "coords": [24.750883, 42.150418]}, {"name": "Djurkovi gallery", "text": "Djurkovi gallery is a museum in Plowdiw.", "category": "museum", "coords": [24.749617, 42.148138]}, {"name": "Late Antiquity Building Irene", "text": "Late Antiquity Building Irene is a museum facility in Plowdiw.", "category": "museum", "coords": [24.751777, 42.145007]}, {"name": "Fotini", "text": "Fotini is a gallery in Plowdiw.", "category": "museum", "coords": [24.74458, 42.148408]}, {"name": "Nexus games, eSports centre", "text": "An eSports centre and amusement arcade in Plovdiv with entertainment for the family.", "category": "family", "coords": [24.749335, 42.141205]}, {"name": "Sankt Peterburg", "text": "A water park in Plovdiv featuring outdoor swimming pools and sunny lounge areas.", "category": "family", "coords": [24.735886, 42.157641]}]},
+    id: "city-plovdiv", "sights": {
+      "de": [
+            {
+                  "name": "Regionalen etnografski muzei – Plovdiv",
+                  "text": "Das Regional Ethnographic Museum - Plovdiv ist das regionale ethnografische Museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.753207,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "Bischofsbasilika von Philippopolis",
+                  "text": "Die Episcopal Basilica of Philippopolis ist die große Basilika von Philippopolis in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752595,
+                        42.144064
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei - Plovdiv",
+                  "text": "Das Plovdiv Regional History Museum ist das regionale historische Museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.745252,
+                        42.1514
+                  ]
+            },
+            {
+                  "name": "Regionalen prirodonauchen muzei – Plovdiv",
+                  "text": "Das Regional Natural History Museum - Plovdiv ist das regionale naturhistorische Museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.742816,
+                        42.149107
+                  ]
+            },
+            {
+                  "name": "Balabanova kashta",
+                  "text": "Das Balabanov house ist ein Museum, das als Balabanov-Haus in Plowdiw bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.751793,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "kashta na Veren Stambolyan",
+                  "text": "Das Veren Stambolyan house ist ein Museum im Haus von Veren Stambolyan in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.753197,
+                        42.148853
+                  ]
+            },
+            {
+                  "name": "Kashta Klianti",
+                  "text": "Das Klianti House ist ein als Klianti-Haus bekanntes Museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752336,
+                        42.147525
+                  ]
+            },
+            {
+                  "name": "Antichna biblioteka",
+                  "text": "Die Ancient Library ist die antike Bibliothek in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.750148,
+                        42.143349
+                  ]
+            },
+            {
+                  "name": "Iztochnata porta na Filipopolis",
+                  "text": "Eastern gate of Philippopolis ist die Ausgrabungsstätte des östlichen Tors von Philippopolis in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.755931,
+                        42.148748
+                  ]
+            },
+            {
+                  "name": "Nebet tepe",
+                  "text": "Nebet Tepe ist eine archäologische Stätte auf dem gleichnamigen Hügel in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.752,
+                        42.151235
+                  ]
+            },
+            {
+                  "name": "Theater von Philippopolis",
+                  "text": "Das Roman theatre of Philippopolis ist das antike Theater in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.751082,
+                        42.146974
+                  ]
+            },
+            {
+                  "name": "Bratskata mogila",
+                  "text": "Bratska mogila ist ein als Brudermondän bekanntes Denkmal in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.717258,
+                        42.143016
+                  ]
+            },
+            {
+                  "name": "Plovdiv Synagogue",
+                  "text": "Die Plovdiv Synagogue ist eine Andachtsstätte in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.740772,
+                        42.150615
+                  ]
+            },
+            {
+                  "name": "Dzhumaya Dzhamiya",
+                  "text": "Die Dzhumaya Mosque ist die Dschumaja-Moschee in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748337,
+                        42.147932
+                  ]
+            },
+            {
+                  "name": "Uspenie Bogorodichno",
+                  "text": "Assumption of the Virgin Mary ist die Kirche Mariä Himmelfahrt in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.750726,
+                        42.147897
+                  ]
+            },
+            {
+                  "name": "Shahbedinova Imaret Dzhamiya",
+                  "text": "Die Шахбединова Имарет Джамия ist die Shahbedin Imaret Moschee in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.746693,
+                        42.152446
+                  ]
+            },
+            {
+                  "name": "Sv. Sv. Kiril i Metodii",
+                  "text": "St. St. Kiril & Metodiy ist die Kirche der Heiligen Kyrill und Method in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748931,
+                        42.152182
+                  ]
+            },
+            {
+                  "name": "Sveta Nedelya",
+                  "text": "Sveta Nedelya ist die Kirche der Heiligen Nedelja in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.754783,
+                        42.149595
+                  ]
+            },
+            {
+                  "name": "Chetvartak pazar",
+                  "text": "Der Thursday market ist der Donnerstagmarkt in Plowdiw.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742798,
+                        42.150666
+                  ]
+            },
+            {
+                  "name": "park „Tsar Simeonovata gradina“",
+                  "text": "Der \"Tsar Simeon Garden\" Park ist der Zar-Simeon-Garten in Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.746774,
+                        42.141324
+                  ]
+            },
+            {
+                  "name": "Zhiten Pazar",
+                  "text": "Житен Пазар ist ein Parkbereich beim ehemaligen Getreidemarkt in Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.754907,
+                        42.151156
+                  ]
+            },
+            {
+                  "name": "Malkata bazilika",
+                  "text": "Die Small Basilica ist eine archäologische Stätte in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.75798,
+                        42.146378
+                  ]
+            },
+            {
+                  "name": "Alosha",
+                  "text": "Альоша ist ein bekanntes Denkmal in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.737756,
+                        42.143742
+                  ]
+            },
+            {
+                  "name": "Chasovnikova Kula",
+                  "text": "The Clock Tower ist ein historisches Denkmal in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.746305,
+                        42.14634
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Plovdiv",
+                  "text": "Das Драматичен театър Пловдив ist ein lokales Theater in Plowdiw.",
+                  "category": "cultural",
+                  "coords": [
+                        24.749121,
+                        42.145083
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Boris Hristov\"",
+                  "text": "Dom na kulturata \"Борис Христов\" ist ein Veranstaltungsort für Theateraufführungen in Plowdiw.",
+                  "category": "cultural",
+                  "coords": [
+                        24.743253,
+                        42.141939
+                  ]
+            },
+            {
+                  "name": "Sv. Troitsa",
+                  "text": "Sv. Troitsa ist eine religiöse Kultstätte in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748309,
+                        42.130654
+                  ]
+            },
+            {
+                  "name": "Mladezhki halm",
+                  "text": "Der Youth hill ist ein markanter Gipfel in Plowdiw.",
+                  "category": "natural",
+                  "coords": [
+                        24.731963,
+                        42.136929
+                  ]
+            },
+            {
+                  "name": "Grozdov pazar",
+                  "text": "Гроздов пазар ist ein öffentlicher Park in Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.745219,
+                        42.144255
+                  ]
+            },
+            {
+                  "name": "Plovdivski Zoopark",
+                  "text": "Der Plovdiv Zoo ist ein zoologischer Garten in Plowdiw.",
+                  "category": "family",
+                  "coords": [
+                        24.711208,
+                        42.144666
+                  ]
+            },
+            {
+                  "name": "Muzeina apteka Hipokrat",
+                  "text": "Die Hippocrates Museum Pharmacy ist ein historisches Museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752253,
+                        42.14894
+                  ]
+            },
+            {
+                  "name": "Kashta Krikor Mesrobovich",
+                  "text": "Das Krikor Mesrobovich house fungiert als Museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.750883,
+                        42.150418
+                  ]
+            },
+            {
+                  "name": "Galeriya Dzhurkovi",
+                  "text": "Die Djurkovi gallery ist ein Museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.749617,
+                        42.148138
+                  ]
+            },
+            {
+                  "name": "Spätantikes Gebäude \"Irini\" aus Philippopolis",
+                  "text": "Das Late Antiquity Building Irene ist eine museale Einrichtung in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.751777,
+                        42.145007
+                  ]
+            },
+            {
+                  "name": "Fotini",
+                  "text": "Fotini ist eine Galerie in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.74458,
+                        42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "Ein E-Sport-Zentrum und eine Spielhalle in Plowdiw mit Unterhaltung für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
+                  ]
+            },
+            {
+                  "name": "Sankt Peterburg",
+                  "text": "Ein Wasserpark in Plowdiw mit Außenpools und sonnigen Loungebereichen.",
+                  "category": "family",
+                  "coords": [
+                        24.735886,
+                        42.157641
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Neptun\"",
+                  "text": "Der Kompleks Neptun ist ein moderner Wasserpark in Plovdiv.",
+                  "category": "recreational",
+                  "coords": [
+                        24.754114,
+                        42.12164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Regionalen etnografski muzei – Plovdiv",
+                  "text": "A Regional Ethnographic Museum - Plovdiv a regionális néprajzi múzeum Plowdiw városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.753207,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "Episkopska bazilika na Filipopol",
+                  "text": "Az Episcopal Basilica of Philippopolis Philippopolis nagy bazilikája Plowdiw városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.752595,
+                        42.144064
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei - Plovdiv",
+                  "text": "A Plovdiv Regional History Museum a regionális történelmi múzeum Plowdiw városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.745252,
+                        42.1514
+                  ]
+            },
+            {
+                  "name": "Regionalen prirodonauchen muzei – Plovdiv",
+                  "text": "A Regional Natural History Museum - Plovdiv a regionális természettudományi múzeum Plowdiw városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.742816,
+                        42.149107
+                  ]
+            },
+            {
+                  "name": "Balabanova kashta",
+                  "text": "A Balabanov house egy Balabanov-házként ismert múzeum Plowdiw városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.751793,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "kashta na Veren Stambolyan",
+                  "text": "A Veren Stambolyan house egy múzeum Veren Stambolyan házában, Plowdiw városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.753197,
+                        42.148853
+                  ]
+            },
+            {
+                  "name": "Kashta Klianti",
+                  "text": "A Klianti House egy Klianti-házként ismert múzeum Plowdiw városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.752336,
+                        42.147525
+                  ]
+            },
+            {
+                  "name": "Antichna biblioteka",
+                  "text": "Az Ancient Library az ókori könyvtár Plowdiw városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.750148,
+                        42.143349
+                  ]
+            },
+            {
+                  "name": "Iztochnata porta na Filipopolis",
+                  "text": "Az Eastern gate of Philippopolis Philippopolis keleti kapujának régészeti lelőhelye Plowdiw városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.755931,
+                        42.148748
+                  ]
+            },
+            {
+                  "name": "Nebet tepe",
+                  "text": "A Nebet Tepe egy régészeti lelőhely az azonos nevű dombon Plowdiw városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.752,
+                        42.151235
+                  ]
+            },
+            {
+                  "name": "Antichen teatar",
+                  "text": "A Roman theatre of Philippopolis az ókori színház Plowdiw városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.751082,
+                        42.146974
+                  ]
+            },
+            {
+                  "name": "Bratskata mogila",
+                  "text": "A Bratska mogila egy testvérsíremlék Plowdiw városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.717258,
+                        42.143016
+                  ]
+            },
+            {
+                  "name": "Plovdiv Synagogue",
+                  "text": "A Plovdiv Synagogue egy zsinagóga és istentiszteleti hely Plowdiw városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.740772,
+                        42.150615
+                  ]
+            },
+            {
+                  "name": "Dzhumaya Dzhamiya",
+                  "text": "A Dzhumaya Mosque a Dzsumaja mecset Plowdiw városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.748337,
+                        42.147932
+                  ]
+            },
+            {
+                  "name": "Uspenie Bogorodichno",
+                  "text": "Az Assumption of the Virgin Mary az Istenszülő elszenderedése templom Plowdiw városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.750726,
+                        42.147897
+                  ]
+            },
+            {
+                  "name": "Shahbedinova Imaret Dzhamiya",
+                  "text": "A Шахбединова Имарет Джамия a Sahbedin Imaret mecset Plowdiw városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.746693,
+                        42.152446
+                  ]
+            },
+            {
+                  "name": "Sv. Sv. Kiril i Metodii",
+                  "text": "A St. St. Kiril & Metodiy a Szent Cirill és Metód-templom Plowdiw városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.748931,
+                        42.152182
+                  ]
+            },
+            {
+                  "name": "Sveta Nedelya",
+                  "text": "A Sveta Nedelya a Szent Nedelja-templom Plowdiw városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.754783,
+                        42.149595
+                  ]
+            },
+            {
+                  "name": "Chetvartak pazar",
+                  "text": "A Thursday market a csütörtöki piac Plowdiw városában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742798,
+                        42.150666
+                  ]
+            },
+            {
+                  "name": "park „Tsar Simeonovata gradina“",
+                  "text": "A \"Tsar Simeon Garden\" Park a Simeon cár kertje Plowdiw városában.",
+                  "category": "park",
+                  "coords": [
+                        24.746774,
+                        42.141324
+                  ]
+            },
+            {
+                  "name": "Zhiten Pazar",
+                  "text": "A Житен Пазар egy park az egykori gabonapiacnál Plowdiw városában.",
+                  "category": "park",
+                  "coords": [
+                        24.754907,
+                        42.151156
+                  ]
+            },
+            {
+                  "name": "Malkata bazilika",
+                  "text": "A Small Basilica egy régészeti lelőhely Plowdiwban.",
+                  "category": "historical",
+                  "coords": [
+                        24.75798,
+                        42.146378
+                  ]
+            },
+            {
+                  "name": "Alosha",
+                  "text": "Az Альоша egy ismert emlékmű Plowdiwban.",
+                  "category": "historical",
+                  "coords": [
+                        24.737756,
+                        42.143742
+                  ]
+            },
+            {
+                  "name": "Chasovnikova Kula",
+                  "text": "A The Clock Tower egy történelmi emlékmű Plowdiwban.",
+                  "category": "historical",
+                  "coords": [
+                        24.746305,
+                        42.14634
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Plovdiv",
+                  "text": "A Драматичен театър Пловдив egy helyi színház Plowdiwban.",
+                  "category": "cultural",
+                  "coords": [
+                        24.749121,
+                        42.145083
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Boris Hristov\"",
+                  "text": "A Dom na kulturata \"Борис Христов\" egy színházi előadóhely Plowdiwban.",
+                  "category": "cultural",
+                  "coords": [
+                        24.743253,
+                        42.141939
+                  ]
+            },
+            {
+                  "name": "Sv. Troitsa",
+                  "text": "A Sv. Troitsa egy vallási istentiszteleti hely Plowdiwban.",
+                  "category": "religious",
+                  "coords": [
+                        24.748309,
+                        42.130654
+                  ]
+            },
+            {
+                  "name": "Mladezhki halm",
+                  "text": "A Youth hill egy kiemelkedő hegycsúcs Plowdiwban.",
+                  "category": "natural",
+                  "coords": [
+                        24.731963,
+                        42.136929
+                  ]
+            },
+            {
+                  "name": "Grozdov pazar",
+                  "text": "A Гроздов пазар egy nyilvános park Plowdiwban.",
+                  "category": "park",
+                  "coords": [
+                        24.745219,
+                        42.144255
+                  ]
+            },
+            {
+                  "name": "Plovdivski Zoopark",
+                  "text": "A Plovdiv Zoo egy állatkert Plowdiwban.",
+                  "category": "family",
+                  "coords": [
+                        24.711208,
+                        42.144666
+                  ]
+            },
+            {
+                  "name": "Muzeina apteka Hipokrat",
+                  "text": "A Hippocrates Museum Pharmacy egy történelmi múzeum Plowdiwban.",
+                  "category": "museum",
+                  "coords": [
+                        24.752253,
+                        42.14894
+                  ]
+            },
+            {
+                  "name": "Kashta Krikor Mesrobovich",
+                  "text": "A Krikor Mesrobovich house múzeumként működik Plowdiwban.",
+                  "category": "museum",
+                  "coords": [
+                        24.750883,
+                        42.150418
+                  ]
+            },
+            {
+                  "name": "Galeriya Dzhurkovi",
+                  "text": "A Djurkovi gallery egy múzeum Plowdiwban.",
+                  "category": "museum",
+                  "coords": [
+                        24.749617,
+                        42.148138
+                  ]
+            },
+            {
+                  "name": "Kasnoantichna sgrada \"Irini\"",
+                  "text": "A Late Antiquity Building Irene egy múzeumi intézmény Plowdiwban.",
+                  "category": "museum",
+                  "coords": [
+                        24.751777,
+                        42.145007
+                  ]
+            },
+            {
+                  "name": "Fotini",
+                  "text": "A Fotini egy galéria Plowdiwban.",
+                  "category": "museum",
+                  "coords": [
+                        24.74458,
+                        42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "Egy e-sport központ és játékterem Plovdivban, szórakozással a család számára.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
+                  ]
+            },
+            {
+                  "name": "Sankt Peterburg",
+                  "text": "Vízipark Plovdivban szabadtéri úszómedencékkel és napozóteraszokkal.",
+                  "category": "family",
+                  "coords": [
+                        24.735886,
+                        42.157641
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Neptun\"",
+                  "text": "A Kompleks Neptun egy modern vízipark Plovdiv városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.754114,
+                        42.12164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Regionalen etnografski muzei – Plovdiv",
+                  "text": "Regional Ethnographic Museum - Plovdiv este muzeul etnografic regional din Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.753207,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "Episkopska bazilika na Filipopol",
+                  "text": "Episcopal Basilica of Philippopolis este marea bazilică din Philippopolis, în Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752595,
+                        42.144064
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei - Plovdiv",
+                  "text": "Plovdiv Regional History Museum este muzeul de istorie regională din Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.745252,
+                        42.1514
+                  ]
+            },
+            {
+                  "name": "Regionalen prirodonauchen muzei – Plovdiv",
+                  "text": "Regional Natural History Museum - Plovdiv este muzeul regional de istorie naturală din Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.742816,
+                        42.149107
+                  ]
+            },
+            {
+                  "name": "Balabanova kashta",
+                  "text": "Balabanov house este un muzeu cunoscut sub numele de Casa Balabanov din Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.751793,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "kashta na Veren Stambolyan",
+                  "text": "Veren Stambolyan house este un muzeu în casa lui Veren Stambolyan din Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.753197,
+                        42.148853
+                  ]
+            },
+            {
+                  "name": "Kashta Klianti",
+                  "text": "Klianti House este un muzeu cunoscut sub numele de Casa Klianti din Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752336,
+                        42.147525
+                  ]
+            },
+            {
+                  "name": "Antichna biblioteka",
+                  "text": "Ancient Library este biblioteca antică din Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.750148,
+                        42.143349
+                  ]
+            },
+            {
+                  "name": "Iztochnata porta na Filipopolis",
+                  "text": "Eastern gate of Philippopolis este situl arheologic al porții de est a lui Philippopolis din Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.755931,
+                        42.148748
+                  ]
+            },
+            {
+                  "name": "Nebet tepe",
+                  "text": "Nebet Tepe este un sit arheologic de pe dealul omonim din Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.752,
+                        42.151235
+                  ]
+            },
+            {
+                  "name": "Antichen teatar",
+                  "text": "Roman theatre of Philippopolis este teatrul antic din Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.751082,
+                        42.146974
+                  ]
+            },
+            {
+                  "name": "Bratskata mogila",
+                  "text": "Bratska mogila este un monument dedicat frăției din Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.717258,
+                        42.143016
+                  ]
+            },
+            {
+                  "name": "Plovdiv Synagogue",
+                  "text": "Plovdiv Synagogue este o sinagogă și un lăcaș de cult din Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.740772,
+                        42.150615
+                  ]
+            },
+            {
+                  "name": "Dzhumaya Dzhamiya",
+                  "text": "Dzhumaya Mosque este moscheea Djumaia din Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748337,
+                        42.147932
+                  ]
+            },
+            {
+                  "name": "Uspenie Bogorodichno",
+                  "text": "Assumption of the Virgin Mary este biserica Adormirea Maicii Domnului din Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.750726,
+                        42.147897
+                  ]
+            },
+            {
+                  "name": "Shahbedinova Imaret Dzhamiya",
+                  "text": "Шахбединова Имарет Джамия este moscheea Șahbedin Imaret din Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.746693,
+                        42.152446
+                  ]
+            },
+            {
+                  "name": "Sv. Sv. Kiril i Metodii",
+                  "text": "St. St. Kiril & Metodiy este biserica Sfinților Chiril și Metodiu din Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748931,
+                        42.152182
+                  ]
+            },
+            {
+                  "name": "Sveta Nedelya",
+                  "text": "Sveta Nedelya este biserica Sfânta Nedelia din Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.754783,
+                        42.149595
+                  ]
+            },
+            {
+                  "name": "Chetvartak pazar",
+                  "text": "Thursday market este piața de joi din Plowdiw.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742798,
+                        42.150666
+                  ]
+            },
+            {
+                  "name": "park „Tsar Simeonovata gradina“",
+                  "text": "\"Tsar Simeon Garden\" Park este Grădina Țarului Simeon din Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.746774,
+                        42.141324
+                  ]
+            },
+            {
+                  "name": "Zhiten Pazar",
+                  "text": "Житен Пазар este un parc de lângă fosta piață de cereale din Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.754907,
+                        42.151156
+                  ]
+            },
+            {
+                  "name": "Malkata bazilika",
+                  "text": "Small Basilica este un sit arheologic în Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.75798,
+                        42.146378
+                  ]
+            },
+            {
+                  "name": "Alosha",
+                  "text": "Альоша este un monument cunoscut în Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.737756,
+                        42.143742
+                  ]
+            },
+            {
+                  "name": "Chasovnikova Kula",
+                  "text": "The Clock Tower este un monument istoric în Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.746305,
+                        42.14634
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Plovdiv",
+                  "text": "Драматичен театър Пловдив este un teatru local din Plowdiw.",
+                  "category": "cultural",
+                  "coords": [
+                        24.749121,
+                        42.145083
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Boris Hristov\"",
+                  "text": "Dom na kulturata \"Борис Христов\" este o sală de teatru în Plowdiw.",
+                  "category": "cultural",
+                  "coords": [
+                        24.743253,
+                        42.141939
+                  ]
+            },
+            {
+                  "name": "Sv. Troitsa",
+                  "text": "Sv. Troitsa este un lăcaș de cult religios în Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748309,
+                        42.130654
+                  ]
+            },
+            {
+                  "name": "Mladezhki halm",
+                  "text": "Youth hill este un vârf proeminent în Plowdiw.",
+                  "category": "natural",
+                  "coords": [
+                        24.731963,
+                        42.136929
+                  ]
+            },
+            {
+                  "name": "Grozdov pazar",
+                  "text": "Гроздов пазар este un parc public în Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.745219,
+                        42.144255
+                  ]
+            },
+            {
+                  "name": "Plovdivski Zoopark",
+                  "text": "Plovdiv Zoo este o grădină zoologică în Plowdiw.",
+                  "category": "family",
+                  "coords": [
+                        24.711208,
+                        42.144666
+                  ]
+            },
+            {
+                  "name": "Muzeina apteka Hipokrat",
+                  "text": "Hippocrates Museum Pharmacy este un muzeu istoric în Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752253,
+                        42.14894
+                  ]
+            },
+            {
+                  "name": "Kashta Krikor Mesrobovich",
+                  "text": "Krikor Mesrobovich house funcționează ca muzeu în Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.750883,
+                        42.150418
+                  ]
+            },
+            {
+                  "name": "Galeriya Dzhurkovi",
+                  "text": "Djurkovi gallery este un muzeu în Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.749617,
+                        42.148138
+                  ]
+            },
+            {
+                  "name": "Kasnoantichna sgrada \"Irini\"",
+                  "text": "Late Antiquity Building Irene este o instituție muzeală în Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.751777,
+                        42.145007
+                  ]
+            },
+            {
+                  "name": "Fotini",
+                  "text": "Fotini este o galerie în Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.74458,
+                        42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "Un centru de eSports și sală de jocuri în Plovdiv, cu divertisment pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
+                  ]
+            },
+            {
+                  "name": "Sankt Peterburg",
+                  "text": "Un parc acvatic în Plovdiv, cu piscine exterioare și zone de relaxare însorite.",
+                  "category": "family",
+                  "coords": [
+                        24.735886,
+                        42.157641
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Neptun\"",
+                  "text": "Kompleks Neptun este un parc acvatic modern situat în Plovdiv.",
+                  "category": "recreational",
+                  "coords": [
+                        24.754114,
+                        42.12164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regional Ethnographic Museum - Plovdiv",
+                  "text": "The Regional Ethnographic Museum - Plovdiv is the regional ethnographic museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.753207,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "Episcopal Basilica of Philippopolis",
+                  "text": "The Episcopal Basilica of Philippopolis is the great basilica of Philippopolis in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752595,
+                        42.144064
+                  ]
+            },
+            {
+                  "name": "Plovdiv Regional History Museum",
+                  "text": "The Plovdiv Regional History Museum is the regional historical museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.745252,
+                        42.1514
+                  ]
+            },
+            {
+                  "name": "Regional Natural History Museum - Plovdiv",
+                  "text": "The Regional Natural History Museum - Plovdiv is the regional natural history museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.742816,
+                        42.149107
+                  ]
+            },
+            {
+                  "name": "Balabanov house",
+                  "text": "The Balabanov house is a museum known as the Balabanov House in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.751793,
+                        42.14999
+                  ]
+            },
+            {
+                  "name": "Veren Stambolyan house",
+                  "text": "The Veren Stambolyan house is a museum located in the house of Veren Stambolyan in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.753197,
+                        42.148853
+                  ]
+            },
+            {
+                  "name": "Klianti House",
+                  "text": "The Klianti House is a museum known as the Klianti House in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752336,
+                        42.147525
+                  ]
+            },
+            {
+                  "name": "Ancient Library",
+                  "text": "The Ancient Library is the ancient library in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.750148,
+                        42.143349
+                  ]
+            },
+            {
+                  "name": "Eastern gate of Philippopolis",
+                  "text": "The Eastern gate of Philippopolis is the archaeological site of the eastern gate of Philippopolis in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.755931,
+                        42.148748
+                  ]
+            },
+            {
+                  "name": "Nebet Tepe",
+                  "text": "Nebet Tepe is an archaeological site on the eponymous hill in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.752,
+                        42.151235
+                  ]
+            },
+            {
+                  "name": "Roman theatre of Philippopolis",
+                  "text": "The Roman theatre of Philippopolis is the ancient theatre in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.751082,
+                        42.146974
+                  ]
+            },
+            {
+                  "name": "Bratska mogila",
+                  "text": "Bratska mogila is a brotherhood monument in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.717258,
+                        42.143016
+                  ]
+            },
+            {
+                  "name": "Plovdiv Synagogue",
+                  "text": "The Plovdiv Synagogue is a place of worship in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.740772,
+                        42.150615
+                  ]
+            },
+            {
+                  "name": "Dzhumaya Mosque",
+                  "text": "The Dzhumaya Mosque is the Dzhumaya mosque in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748337,
+                        42.147932
+                  ]
+            },
+            {
+                  "name": "Assumption of the Virgin Mary",
+                  "text": "Assumption of the Virgin Mary is the Dormition of the Mother of God church in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.750726,
+                        42.147897
+                  ]
+            },
+            {
+                  "name": "Shahbedinova Imaret Dzhamiya",
+                  "text": "Шахбединова Имарет Джамия is the Shahbedin Imaret Mosque in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.746693,
+                        42.152446
+                  ]
+            },
+            {
+                  "name": "St. St. Kiril & Metodiy",
+                  "text": "St. St. Kiril & Metodiy is the church of Saints Cyril and Methodius in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748931,
+                        42.152182
+                  ]
+            },
+            {
+                  "name": "Sveta Nedelya",
+                  "text": "Sveta Nedelya is the church of Saint Nedelya in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.754783,
+                        42.149595
+                  ]
+            },
+            {
+                  "name": "Thursday market",
+                  "text": "The Thursday market is the Thursday market in Plowdiw.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742798,
+                        42.150666
+                  ]
+            },
+            {
+                  "name": "\"Tsar Simeon Garden\" Park",
+                  "text": "The \"Tsar Simeon Garden\" Park is the Tsar Simeon Garden in Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.746774,
+                        42.141324
+                  ]
+            },
+            {
+                  "name": "Zhiten Pazar",
+                  "text": "Житен Пазар is a park at the former grain market in Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.754907,
+                        42.151156
+                  ]
+            },
+            {
+                  "name": "Small Basilica",
+                  "text": "The Small Basilica is an archaeological site in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.75798,
+                        42.146378
+                  ]
+            },
+            {
+                  "name": "Alosha",
+                  "text": "Альоша is a well-known monument in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.737756,
+                        42.143742
+                  ]
+            },
+            {
+                  "name": "The Clock Tower",
+                  "text": "The Clock Tower is a historical monument in Plowdiw.",
+                  "category": "historical",
+                  "coords": [
+                        24.746305,
+                        42.14634
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Plovdiv",
+                  "text": "Драматичен театър Пловдив is a local theatre in Plowdiw.",
+                  "category": "cultural",
+                  "coords": [
+                        24.749121,
+                        42.145083
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Boris Hristov\"",
+                  "text": "Dom na kulturata \"Борис Христов\" is a theatre venue in Plowdiw.",
+                  "category": "cultural",
+                  "coords": [
+                        24.743253,
+                        42.141939
+                  ]
+            },
+            {
+                  "name": "Sv. Troitsa",
+                  "text": "Sv. Troitsa is a religious place of worship in Plowdiw.",
+                  "category": "religious",
+                  "coords": [
+                        24.748309,
+                        42.130654
+                  ]
+            },
+            {
+                  "name": "Youth hill",
+                  "text": "Youth hill is a prominent peak in Plowdiw.",
+                  "category": "natural",
+                  "coords": [
+                        24.731963,
+                        42.136929
+                  ]
+            },
+            {
+                  "name": "Grozdov pazar",
+                  "text": "Гроздов пазар is a public park in Plowdiw.",
+                  "category": "park",
+                  "coords": [
+                        24.745219,
+                        42.144255
+                  ]
+            },
+            {
+                  "name": "Plovdiv Zoo",
+                  "text": "Plovdiv Zoo is a zoological garden in Plowdiw.",
+                  "category": "family",
+                  "coords": [
+                        24.711208,
+                        42.144666
+                  ]
+            },
+            {
+                  "name": "Hippocrates Museum Pharmacy",
+                  "text": "Hippocrates Museum Pharmacy is a historical museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.752253,
+                        42.14894
+                  ]
+            },
+            {
+                  "name": "Krikor Mesrobovich house",
+                  "text": "Krikor Mesrobovich house operates as a museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.750883,
+                        42.150418
+                  ]
+            },
+            {
+                  "name": "Djurkovi gallery",
+                  "text": "Djurkovi gallery is a museum in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.749617,
+                        42.148138
+                  ]
+            },
+            {
+                  "name": "Late Antiquity Building Irene",
+                  "text": "Late Antiquity Building Irene is a museum facility in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.751777,
+                        42.145007
+                  ]
+            },
+            {
+                  "name": "Fotini",
+                  "text": "Fotini is a gallery in Plowdiw.",
+                  "category": "museum",
+                  "coords": [
+                        24.74458,
+                        42.148408
+                  ]
+            },
+            {
+                  "name": "Nexus games, eSports centre",
+                  "text": "An eSports centre and amusement arcade in Plovdiv with entertainment for the family.",
+                  "category": "family",
+                  "coords": [
+                        24.749335,
+                        42.141205
+                  ]
+            },
+            {
+                  "name": "Sankt Peterburg",
+                  "text": "A water park in Plovdiv featuring outdoor swimming pools and sunny lounge areas.",
+                  "category": "family",
+                  "coords": [
+                        24.735886,
+                        42.157641
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Neptun\"",
+                  "text": "Kompleks Neptun is a modern water park located in Plovdiv.",
+                  "category": "recreational",
+                  "coords": [
+                        24.754114,
+                        42.12164
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [24.7453, 42.1354],
@@ -2124,7 +6066,1096 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-varna.webp"
   },
   {
-    id: "city-burgas", "sights": {"de": [{"name": "Arheologicheski muzei", "text": "Museum mit antiken Artefakten aus der Schwarzmeerregion.", "category": "museum", "coords": [27.475491, 42.493638]}, {"name": "Etnografski muzei", "text": "Museum, das regionale Volkstraditionen und Trachten präsentiert.", "category": "museum", "coords": [27.475013, 42.496184]}, {"name": "Dramatichen teatar Adriana Budevska", "text": "Etabliertes Dramentheater, benannt nach einer berühmten bulgarischen Schauspielerin.", "category": "cultural", "coords": [27.46776, 42.492015]}, {"name": "Darzhavna Opera Burgas", "text": "Bedeutender Veranstaltungsort für Opern- und klassische Musikaufführungen.", "category": "cultural", "coords": [27.469444, 42.494179]}, {"name": "Kontsertna zala", "text": "Kulturstätte, in der Konzerte und musikalische Veranstaltungen stattfinden.", "category": "cultural", "coords": [27.473608, 42.496793]}, {"name": "Vhoden far Burgas - cherven", "text": "Navigationsfeuer an der Einfahrt zum Hafen von Burgas.", "category": "landmark", "coords": [27.479357, 42.483525]}, {"name": "Vhoden far Burgas - zelen", "text": "Grünes Navigationsfeuer für den Schiffsverkehr im Hafen.", "category": "landmark", "coords": [27.481911, 42.483525]}, {"name": "Biletna kasa", "text": "Zentrale Verkaufsstelle für Theater- und Kulturkarten.", "category": "cultural", "coords": [27.471889, 42.494017]}, {"name": "Otkrita stsena \"Ohlyuva\"", "text": "Freilichtbühne in Form einer Schnecke im Meeresgarten.", "category": "cultural", "coords": [27.482248, 42.494756]}, {"name": "Tsentralen plazh", "text": "Der zentrale Sandstrand in der Nähe des Stadtzentrums.", "category": "recreational", "coords": [27.482548, 42.492607]}, {"name": "Neohranyaem plazh", "text": "Ein naturbelassener Strandabschnitt in Burgas für Erholung an der Küste.", "category": "recreational", "coords": [27.482011, 42.488748]}, {"name": "Severen Plazh", "text": "Ein beliebter Sandstrand im nördlichen Teil der Stadt Burgas.", "category": "recreational", "coords": [27.484204, 42.502895]}, {"name": "Plazh Solnitsi", "text": "Ein Strand in Burgas, der für seine Nähe zu den Salzpfannen bekannt ist.", "category": "recreational", "coords": [27.486573, 42.516976]}, {"name": "Leten teatar", "text": "Ein Freilichttheater im Meeresgarten von Burgas für kulturelle Veranstaltungen.", "category": "cultural", "coords": [27.482537, 42.498493]}, {"name": "Istoricheski muzei", "text": "Das Museum präsentiert die reiche Geschichte und das kulturelle Erbe der Stadt Burgas.", "category": "museum", "coords": [27.474459, 42.494588]}, {"name": "Meeresgarten", "text": "Ein weitläufiger Park am Meer in Burgas mit Denkmälern und Spazierwegen.", "category": "park", "coords": [27.481854, 42.499483]}, {"name": "Alosha", "text": "Ein markantes Denkmal in Burgas, das an historische Ereignisse erinnert.", "category": "historical", "coords": [27.470647, 42.497915]}, {"name": "Festival na pyasachnite figuri", "text": "Ein jährliches Ereignis in Burgas, bei dem beeindruckende Skulpturen aus Sand ausgestellt werden.", "category": "landmark", "coords": [27.481237, 42.510753]}, {"name": "Ekspozitsionen tsentar FLORA", "text": "Ein Ausstellungszentrum in Burgas, das für Blumenmessen und Kunstausstellungen genutzt wird.", "category": "cultural", "coords": [27.48234, 42.504287]}, {"name": "Druzhestvo na hudozhnitsite", "text": "Ein lokales Kunstzentrum, das die Werke regionaler Künstler in Burgas präsentiert.", "category": "cultural", "coords": [27.472545, 42.492793]}, {"name": "Pametnik na Vladimir Pavlov", "text": "Ein Denkmal zu Ehren von Vladimir Pavlov in der Stadt Burgas.", "category": "historical", "coords": [27.457216, 42.503149]}, {"name": "Petko Blagoev - Pandira", "text": "Eine Attraktion in Burgas, die einer lokalen Persönlichkeit gewidmet ist.", "category": "landmark", "coords": [27.483325, 42.49559]}, {"name": "Korab", "text": "Ein Denkmal in Form eines Schiffes, das die maritime Tradition von Burgas symbolisiert.", "category": "historical", "coords": [27.460857, 42.517251]}, {"name": "PlanetUM", "text": "Ein interaktives Wissenschaftszentrum und Planetarium für Besucher in Burgas.", "category": "landmark", "coords": [27.48262, 42.484638]}, {"name": "Paraklis \"Sveti Georgi\"", "text": "Eine kleine christliche Kapelle, die dem Heiligen Georg in Burgas gewidmet ist.", "category": "religious", "coords": [27.483161, 42.507942]}, {"name": "Iztochno katolicheska tsarkva Uspenie Bogorodichno", "text": "Ein religiöses Gebäude der katholischen Gemeinde in Burgas.", "category": "religious", "coords": [27.470041, 42.491278]}, {"name": "Armenska pravoslavna tsarkva Sv. Hach", "text": "Ein historisches Gotteshaus der armenischen Gemeinde in Burgas.", "category": "religious", "coords": [27.473964, 42.493194]}, {"name": "Sv. Bogoroditsa", "text": "Eine orthodoxe Kirche in Burgas, die der Jungfrau Maria gewidmet ist.", "category": "religious", "coords": [27.475101, 42.492312]}, {"name": "Hram Sv. Ivan Rilski", "text": "Eine der bedeutenden orthodoxen Kirchen in der Stadt Burgas.", "category": "religious", "coords": [27.469551, 42.503222]}], "hu": [{"name": "Arheologicheski muzei", "text": "A Fekete-tenger vidékének ókori leleteit bemutató múzeum.", "category": "museum", "coords": [27.475491, 42.493638]}, {"name": "Etnografski muzei", "text": "Regionális népi hagyományokat és viseleteket bemutató múzeum.", "category": "museum", "coords": [27.475013, 42.496184]}, {"name": "Dramatichen teatar Adriana Budevska", "text": "Híres bolgár színésznőről elnevezett neves drámai színház.", "category": "cultural", "coords": [27.46776, 42.492015]}, {"name": "Darzhavna Opera Burgas", "text": "Operaelőadások és komolyzenei koncertek fontos helyszíne.", "category": "cultural", "coords": [27.469444, 42.494179]}, {"name": "Kontsertna zala", "text": "Koncerteknek és zenei eseményeknek otthont adó kulturális központ.", "category": "cultural", "coords": [27.473608, 42.496793]}, {"name": "Vhoden far Burgas - cherven", "text": "A burgaszi kikötő bejáratánál található vörös fényű világítótorony.", "category": "landmark", "coords": [27.479357, 42.483525]}, {"name": "Vhoden far Burgas - zelen", "text": "Zöld fényű tengeri navigációs jelzőfény a kikötőben.", "category": "landmark", "coords": [27.481911, 42.483525]}, {"name": "Biletna kasa", "text": "Színházi és kulturális események központi jegyirodája.", "category": "cultural", "coords": [27.471889, 42.494017]}, {"name": "Otkrita stsena \"Ohlyuva\"", "text": "Csigát formázó szabadtéri színpad a Tengeri Kertben.", "category": "cultural", "coords": [27.482248, 42.494756]}, {"name": "Központi strand", "text": "A városközpont közelében található központi homokos strand.", "category": "recreational", "coords": [27.482548, 42.492607]}, {"name": "Felügyelet nélküli strand", "text": "Természetes tengerparti szakasz Burgaszban a kikapcsolódáshoz.", "category": "recreational", "coords": [27.482011, 42.488748]}, {"name": "Severen Plazh", "text": "Népszerű homokos tengerpart Burgasz északi részén.", "category": "recreational", "coords": [27.484204, 42.502895]}, {"name": "Plazh Solnitsi", "text": "Burgaszi tengerpart, amely a sólepárlók közelségéről ismert.", "category": "recreational", "coords": [27.486573, 42.516976]}, {"name": "Leten teatar", "text": "Szabadtéri színpad Burgasz tengerparti parkjában kulturális eseményekhez.", "category": "cultural", "coords": [27.482537, 42.498493]}, {"name": "Istoricheski muzei", "text": "A múzeum Burgasz városának gazdag történelmét és kulturális örökségét mutatja be.", "category": "museum", "coords": [27.474459, 42.494588]}, {"name": "Morska gradina", "text": "Kiterjedt tengerparti park Burgaszban emlékművekkel és sétányokkal.", "category": "park", "coords": [27.481854, 42.499483]}, {"name": "Aljosa", "text": "Jellegzetes emlékmű Burgaszban, amely történelmi eseményekre emlékeztet.", "category": "historical", "coords": [27.470647, 42.497915]}, {"name": "Festival na pyasachnite figuri", "text": "Évente megrendezett esemény Burgaszban, ahol lenyűgöző homokszobrokat mutatnak be.", "category": "landmark", "coords": [27.481237, 42.510753]}, {"name": "Ekspozitsionen tsentar FLORA", "text": "Burgaszi kiállítóhely, amely virágkiállításoknak és művészeti tárlatoknak ad otthont.", "category": "cultural", "coords": [27.48234, 42.504287]}, {"name": "Druzhestvo na hudozhnitsite", "text": "Helyi művészeti központ, amely regionális művészek munkáit mutatja be Burgaszban.", "category": "cultural", "coords": [27.472545, 42.492793]}, {"name": "Pametnik na Vladimir Pavlov", "text": "Vlagyimir Pavlov tiszteletére emelt emlékmű Burgasz városában.", "category": "historical", "coords": [27.457216, 42.503149]}, {"name": "Petko Blagoev - Pandira", "text": "Egy helyi személyiségnek szentelt látnivaló Burgaszban.", "category": "landmark", "coords": [27.483325, 42.49559]}, {"name": "Korab", "text": "Hajót formázó emlékmű, amely Burgasz tengerészeti hagyományait jelképezi.", "category": "historical", "coords": [27.460857, 42.517251]}, {"name": "PlanetUM", "text": "Interaktív tudományos központ és planetárium a Burgaszba látogatók számára.", "category": "landmark", "coords": [27.48262, 42.484638]}, {"name": "Paraklis \"Sveti Georgi\"", "text": "Szent Györgynek szentelt kis keresztény kápolna Burgaszban.", "category": "religious", "coords": [27.483161, 42.507942]}, {"name": "Iztochno katolicheska tsarkva Uspenie Bogorodichno", "text": "A burgaszi katolikus közösség vallási épülete.", "category": "religious", "coords": [27.470041, 42.491278]}, {"name": "Armenska pravoslavna tsarkva Sv. Hach", "text": "A burgaszi örmény közösség történelmi temploma.", "category": "religious", "coords": [27.473964, 42.493194]}, {"name": "Sv. Bogoroditsa", "text": "Szűz Máriának szentelt ortodox templom Burgaszban.", "category": "religious", "coords": [27.475101, 42.492312]}, {"name": "Hram Sv. Ivan Rilski", "text": "Burgasz városának egyik jelentős ortodox temploma.", "category": "religious", "coords": [27.469551, 42.503222]}], "ro": [{"name": "Arheologicheski muzei", "text": "Muzeu care expune artefacte antice din regiunea Mării Negre.", "category": "museum", "coords": [27.475491, 42.493638]}, {"name": "Etnografski muzei", "text": "Muzeu care prezintă tradițiile populare și costumele regionale.", "category": "museum", "coords": [27.475013, 42.496184]}, {"name": "Dramatichen teatar Adriana Budevska", "text": "Teatru dramatic de renume, numit după o celebră actriță bulgară.", "category": "cultural", "coords": [27.46776, 42.492015]}, {"name": "Darzhavna Opera Burgas", "text": "Sediu important pentru spectacole de operă și muzică clasică.", "category": "cultural", "coords": [27.469444, 42.494179]}, {"name": "Kontsertna zala", "text": "Centru cultural care găzduiește concerte și evenimente muzicale.", "category": "cultural", "coords": [27.473608, 42.496793]}, {"name": "Vhoden far Burgas - cherven", "text": "Far de navigație de culoare roșie situat la intrarea în port.", "category": "landmark", "coords": [27.479357, 42.483525]}, {"name": "Vhoden far Burgas - zelen", "text": "Far de navigație cu lumină verde pentru traficul maritim.", "category": "landmark", "coords": [27.481911, 42.483525]}, {"name": "Biletna kasa", "text": "Casă centrală de bilete pentru evenimente teatrale și culturale.", "category": "cultural", "coords": [27.471889, 42.494017]}, {"name": "Otkrita stsena \"Ohlyuva\"", "text": "Scenă în aer liber în formă de melc situată în Grădina Mării.", "category": "cultural", "coords": [27.482248, 42.494756]}, {"name": "Tsentralen plazh", "text": "Principala plajă cu nisip situată în apropierea centrului orașului.", "category": "recreational", "coords": [27.482548, 42.492607]}, {"name": "Neohranyaem plazh", "text": "O zonă de plajă naturală situată în Burgas pentru relaxare la malul mării.", "category": "recreational", "coords": [27.482011, 42.488748]}, {"name": "Severen Plazh", "text": "O plajă de nisip populară situată în partea de nord a orașului Burgas.", "category": "recreational", "coords": [27.484204, 42.502895]}, {"name": "Plazh Solnitsi", "text": "O plajă din Burgas cunoscută pentru proximitatea sa față de saline.", "category": "recreational", "coords": [27.486573, 42.516976]}, {"name": "Leten teatar", "text": "Un teatru în aer liber situat în Grădina Mării din Burgas pentru evenimente culturale.", "category": "cultural", "coords": [27.482537, 42.498493]}, {"name": "Istoricheski muzei", "text": "Muzeul prezintă istoria bogată și moștenirea culturală a orașului Burgas.", "category": "museum", "coords": [27.474459, 42.494588]}, {"name": "Morska gradina", "text": "Un parc vast pe malul mării în Burgas, cu monumente și alei de promenadă.", "category": "park", "coords": [27.481854, 42.499483]}, {"name": "Alosha", "text": "Un monument proeminent din Burgas care comemorează evenimente istorice.", "category": "historical", "coords": [27.470647, 42.497915]}, {"name": "Festival na pyasachnite figuri", "text": "Un eveniment anual în Burgas care prezintă sculpturi impresionante realizate din nisip.", "category": "landmark", "coords": [27.481237, 42.510753]}, {"name": "Ekspozitsionen tsentar FLORA", "text": "Un centru expozițional din Burgas utilizat pentru expoziții de flori și artă.", "category": "cultural", "coords": [27.48234, 42.504287]}, {"name": "Druzhestvo na hudozhnitsite", "text": "Un centru de artă local care prezintă lucrările artiștilor regionali în Burgas.", "category": "cultural", "coords": [27.472545, 42.492793]}, {"name": "Pametnik na Vladimir Pavlov", "text": "Un monument ridicat în onoarea lui Vladimir Pavlov în orașul Burgas.", "category": "historical", "coords": [27.457216, 42.503149]}, {"name": "Petko Blagoev - Pandira", "text": "O atracție în Burgas dedicată unei personalități locale.", "category": "landmark", "coords": [27.483325, 42.49559]}, {"name": "Korab", "text": "Un monument sub formă de navă care simbolizează tradiția maritimă a orașului Burgas.", "category": "historical", "coords": [27.460857, 42.517251]}, {"name": "PlanetUM", "text": "Un centru științific interactiv și planetariu pentru vizitatorii din Burgas.", "category": "landmark", "coords": [27.48262, 42.484638]}, {"name": "Paraklis \"Sveti Georgi\"", "text": "O mică chapelă creștină dedicată Sfântului Gheorghe în Burgas.", "category": "religious", "coords": [27.483161, 42.507942]}, {"name": "Iztochno katolicheska tsarkva Uspenie Bogorodichno", "text": "Un edificiu religios al comunității catolice din Burgas.", "category": "religious", "coords": [27.470041, 42.491278]}, {"name": "Armenska pravoslavna tsarkva Sv. Hach", "text": "Un lăcaș de cult istoric al comunității armene din Burgas.", "category": "religious", "coords": [27.473964, 42.493194]}, {"name": "Sv. Bogoroditsa", "text": "O biserică ortodoxă din Burgas dedicată Fecioarei Maria.", "category": "religious", "coords": [27.475101, 42.492312]}, {"name": "Hram Sv. Ivan Rilski", "text": "Una dintre bisericile ortodoxe importante din orașul Burgas.", "category": "religious", "coords": [27.469551, 42.503222]}], "en": [{"name": "Archaeological Museum - Burgas", "text": "Archaeological Museum featuring ancient artifacts from the region.", "category": "museum", "coords": [27.475491, 42.493638]}, {"name": "Ethnographical museum", "text": "Museum showcasing regional folk traditions and costumes.", "category": "museum", "coords": [27.475013, 42.496184]}, {"name": "Drama Theater Adriana Budevska", "text": "Established drama theatre named after a famous Bulgarian actress.", "category": "cultural", "coords": [27.46776, 42.492015]}, {"name": "State Opera Bourgas", "text": "Major venue for opera and classical music performances.", "category": "cultural", "coords": [27.469444, 42.494179]}, {"name": "Concert Hall", "text": "Cultural venue hosting concerts and musical events.", "category": "cultural", "coords": [27.473608, 42.496793]}, {"name": "Vhoden far Burgas - cherven", "text": "Navigational beacon located at the entrance to the port.", "category": "landmark", "coords": [27.479357, 42.483525]}, {"name": "Vhoden far Burgas - zelen", "text": "Green-light navigational beacon for maritime traffic.", "category": "landmark", "coords": [27.481911, 42.483525]}, {"name": "Ticket office", "text": "Central ticket office for local theatre and cultural events.", "category": "cultural", "coords": [27.471889, 42.494017]}, {"name": "Otkrita stsena \"Ohlyuva\"", "text": "Open-air stage shaped like a snail in the Sea Garden.", "category": "cultural", "coords": [27.482248, 42.494756]}, {"name": "Tsentralen plazh", "text": "The main sandy beach located near the city center.", "category": "recreational", "coords": [27.482548, 42.492607]}, {"name": "Neohranyaem plazh", "text": "A natural beach area located in Burgas for coastal relaxation.", "category": "recreational", "coords": [27.482011, 42.488748]}, {"name": "Severen Plazh", "text": "A popular sandy beach located in the northern part of Burgas.", "category": "recreational", "coords": [27.484204, 42.502895]}, {"name": "Plazh Solnitsi", "text": "A beach in Burgas known for its proximity to the salt pans.", "category": "recreational", "coords": [27.486573, 42.516976]}, {"name": "Summer Theater", "text": "An open-air theater in the Sea Garden of Burgas for cultural events.", "category": "cultural", "coords": [27.482537, 42.498493]}, {"name": "Historical Museum of Burgas", "text": "The museum presents the rich history and cultural heritage of the city of Burgas.", "category": "museum", "coords": [27.474459, 42.494588]}, {"name": "Sea Garden", "text": "A vast seaside park in Burgas featuring monuments and walking paths.", "category": "park", "coords": [27.481854, 42.499483]}, {"name": "Alyosha", "text": "A prominent monument in Burgas commemorating historical events.", "category": "historical", "coords": [27.470647, 42.497915]}, {"name": "Festival of sand sculptures", "text": "An annual event in Burgas showcasing impressive sculptures made from sand.", "category": "landmark", "coords": [27.481237, 42.510753]}, {"name": "Flora", "text": "An exhibition center in Burgas used for flower shows and art exhibitions.", "category": "cultural", "coords": [27.48234, 42.504287]}, {"name": "Druzhestvo na hudozhnitsite", "text": "A local arts center showcasing the works of regional artists in Burgas.", "category": "cultural", "coords": [27.472545, 42.492793]}, {"name": "Monument of Vladimir Pavlov", "text": "A monument dedicated to the honor of Vladimir Pavlov in the city of Burgas.", "category": "historical", "coords": [27.457216, 42.503149]}, {"name": "Petko Blagoev - Pandira", "text": "An attraction in Burgas dedicated to a local personality.", "category": "landmark", "coords": [27.483325, 42.49559]}, {"name": "Korab", "text": "A monument in the shape of a ship symbolizing the maritime tradition of Burgas.", "category": "historical", "coords": [27.460857, 42.517251]}, {"name": "PlanetUM", "text": "An interactive science center and planetarium for visitors in Burgas.", "category": "landmark", "coords": [27.48262, 42.484638]}, {"name": "St. George Chapel", "text": "A small Christian chapel dedicated to Saint George in Burgas.", "category": "religious", "coords": [27.483161, 42.507942]}, {"name": "Eastern Catholic Church of Assumption", "text": "A religious building of the Catholic community in Burgas.", "category": "religious", "coords": [27.470041, 42.491278]}, {"name": "Armenian Orthodox Church of St. Hach", "text": "A historical place of worship for the Armenian community in Burgas.", "category": "religious", "coords": [27.473964, 42.493194]}, {"name": "Hram Sv. Bogorodica", "text": "An Orthodox church in Burgas dedicated to the Virgin Mary.", "category": "religious", "coords": [27.475101, 42.492312]}, {"name": "St. Ivan Rilski Church", "text": "One of the significant Orthodox churches in the city of Burgas.", "category": "religious", "coords": [27.469551, 42.503222]}]},
+    id: "city-burgas", "sights": {
+      "de": [
+            {
+                  "name": "Arheologicheski muzei",
+                  "text": "Museum mit antiken Artefakten aus der Schwarzmeerregion.",
+                  "category": "museum",
+                  "coords": [
+                        27.475491,
+                        42.493638
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Museum, das regionale Volkstraditionen und Trachten präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        27.475013,
+                        42.496184
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Adriana Budevska",
+                  "text": "Etabliertes Dramentheater, benannt nach einer berühmten bulgarischen Schauspielerin.",
+                  "category": "cultural",
+                  "coords": [
+                        27.46776,
+                        42.492015
+                  ]
+            },
+            {
+                  "name": "Darzhavna Opera Burgas",
+                  "text": "Bedeutender Veranstaltungsort für Opern- und klassische Musikaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        27.469444,
+                        42.494179
+                  ]
+            },
+            {
+                  "name": "Kontsertna zala",
+                  "text": "Kulturstätte, in der Konzerte und musikalische Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        27.473608,
+                        42.496793
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - cherven",
+                  "text": "Navigationsfeuer an der Einfahrt zum Hafen von Burgas.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479357,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - zelen",
+                  "text": "Grünes Navigationsfeuer für den Schiffsverkehr im Hafen.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481911,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Biletna kasa",
+                  "text": "Zentrale Verkaufsstelle für Theater- und Kulturkarten.",
+                  "category": "cultural",
+                  "coords": [
+                        27.471889,
+                        42.494017
+                  ]
+            },
+            {
+                  "name": "Otkrita stsena \"Ohlyuva\"",
+                  "text": "Freilichtbühne in Form einer Schnecke im Meeresgarten.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482248,
+                        42.494756
+                  ]
+            },
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "Der zentrale Sandstrand in der Nähe des Stadtzentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Neohranyaem plazh",
+                  "text": "Ein naturbelassener Strandabschnitt in Burgas für Erholung an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482011,
+                        42.488748
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "Ein beliebter Sandstrand im nördlichen Teil der Stadt Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "Ein Strand in Burgas, der für seine Nähe zu den Salzpfannen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Ein Freilichttheater im Meeresgarten von Burgas für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482537,
+                        42.498493
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Das Museum präsentiert die reiche Geschichte und das kulturelle Erbe der Stadt Burgas.",
+                  "category": "museum",
+                  "coords": [
+                        27.474459,
+                        42.494588
+                  ]
+            },
+            {
+                  "name": "Meeresgarten",
+                  "text": "Ein weitläufiger Park am Meer in Burgas mit Denkmälern und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        27.481854,
+                        42.499483
+                  ]
+            },
+            {
+                  "name": "Alosha",
+                  "text": "Ein markantes Denkmal in Burgas, das an historische Ereignisse erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        27.470647,
+                        42.497915
+                  ]
+            },
+            {
+                  "name": "Festival na pyasachnite figuri",
+                  "text": "Ein jährliches Ereignis in Burgas, bei dem beeindruckende Skulpturen aus Sand ausgestellt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481237,
+                        42.510753
+                  ]
+            },
+            {
+                  "name": "Ekspozitsionen tsentar FLORA",
+                  "text": "Ein Ausstellungszentrum in Burgas, das für Blumenmessen und Kunstausstellungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        27.48234,
+                        42.504287
+                  ]
+            },
+            {
+                  "name": "Druzhestvo na hudozhnitsite",
+                  "text": "Ein lokales Kunstzentrum, das die Werke regionaler Künstler in Burgas präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        27.472545,
+                        42.492793
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vladimir Pavlov",
+                  "text": "Ein Denkmal zu Ehren von Vladimir Pavlov in der Stadt Burgas.",
+                  "category": "historical",
+                  "coords": [
+                        27.457216,
+                        42.503149
+                  ]
+            },
+            {
+                  "name": "Petko Blagoev - Pandira",
+                  "text": "Eine Attraktion in Burgas, die einer lokalen Persönlichkeit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.483325,
+                        42.49559
+                  ]
+            },
+            {
+                  "name": "Korab",
+                  "text": "Ein Denkmal in Form eines Schiffes, das die maritime Tradition von Burgas symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        27.460857,
+                        42.517251
+                  ]
+            },
+            {
+                  "name": "PlanetUM",
+                  "text": "Ein interaktives Wissenschaftszentrum und Planetarium für Besucher in Burgas.",
+                  "category": "landmark",
+                  "coords": [
+                        27.48262,
+                        42.484638
+                  ]
+            },
+            {
+                  "name": "Paraklis \"Sveti Georgi\"",
+                  "text": "Eine kleine christliche Kapelle, die dem Heiligen Georg in Burgas gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.483161,
+                        42.507942
+                  ]
+            },
+            {
+                  "name": "Iztochno katolicheska tsarkva Uspenie Bogorodichno",
+                  "text": "Ein religiöses Gebäude der katholischen Gemeinde in Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.470041,
+                        42.491278
+                  ]
+            },
+            {
+                  "name": "Armenska pravoslavna tsarkva Sv. Hach",
+                  "text": "Ein historisches Gotteshaus der armenischen Gemeinde in Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.473964,
+                        42.493194
+                  ]
+            },
+            {
+                  "name": "Sv. Bogoroditsa",
+                  "text": "Eine orthodoxe Kirche in Burgas, die der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.475101,
+                        42.492312
+                  ]
+            },
+            {
+                  "name": "Hram Sv. Ivan Rilski",
+                  "text": "Eine der bedeutenden orthodoxen Kirchen in der Stadt Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.469551,
+                        42.503222
+                  ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "Ein öffentliches Schwimmbecken in Burgas für Schwimmer und Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        27.466263,
+                        42.496287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arheologicheski muzei",
+                  "text": "A Fekete-tenger vidékének ókori leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.475491,
+                        42.493638
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Regionális népi hagyományokat és viseleteket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.475013,
+                        42.496184
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Adriana Budevska",
+                  "text": "Híres bolgár színésznőről elnevezett neves drámai színház.",
+                  "category": "cultural",
+                  "coords": [
+                        27.46776,
+                        42.492015
+                  ]
+            },
+            {
+                  "name": "Darzhavna Opera Burgas",
+                  "text": "Operaelőadások és komolyzenei koncertek fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        27.469444,
+                        42.494179
+                  ]
+            },
+            {
+                  "name": "Kontsertna zala",
+                  "text": "Koncerteknek és zenei eseményeknek otthont adó kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        27.473608,
+                        42.496793
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - cherven",
+                  "text": "A burgaszi kikötő bejáratánál található vörös fényű világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479357,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - zelen",
+                  "text": "Zöld fényű tengeri navigációs jelzőfény a kikötőben.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481911,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Biletna kasa",
+                  "text": "Színházi és kulturális események központi jegyirodája.",
+                  "category": "cultural",
+                  "coords": [
+                        27.471889,
+                        42.494017
+                  ]
+            },
+            {
+                  "name": "Otkrita stsena \"Ohlyuva\"",
+                  "text": "Csigát formázó szabadtéri színpad a Tengeri Kertben.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482248,
+                        42.494756
+                  ]
+            },
+            {
+                  "name": "Központi strand",
+                  "text": "A városközpont közelében található központi homokos strand.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Felügyelet nélküli strand",
+                  "text": "Természetes tengerparti szakasz Burgaszban a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482011,
+                        42.488748
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "Népszerű homokos tengerpart Burgasz északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "Burgaszi tengerpart, amely a sólepárlók közelségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Szabadtéri színpad Burgasz tengerparti parkjában kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482537,
+                        42.498493
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "A múzeum Burgasz városának gazdag történelmét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.474459,
+                        42.494588
+                  ]
+            },
+            {
+                  "name": "Morska gradina",
+                  "text": "Kiterjedt tengerparti park Burgaszban emlékművekkel és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        27.481854,
+                        42.499483
+                  ]
+            },
+            {
+                  "name": "Aljosa",
+                  "text": "Jellegzetes emlékmű Burgaszban, amely történelmi eseményekre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        27.470647,
+                        42.497915
+                  ]
+            },
+            {
+                  "name": "Festival na pyasachnite figuri",
+                  "text": "Évente megrendezett esemény Burgaszban, ahol lenyűgöző homokszobrokat mutatnak be.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481237,
+                        42.510753
+                  ]
+            },
+            {
+                  "name": "Ekspozitsionen tsentar FLORA",
+                  "text": "Burgaszi kiállítóhely, amely virágkiállításoknak és művészeti tárlatoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        27.48234,
+                        42.504287
+                  ]
+            },
+            {
+                  "name": "Druzhestvo na hudozhnitsite",
+                  "text": "Helyi művészeti központ, amely regionális művészek munkáit mutatja be Burgaszban.",
+                  "category": "cultural",
+                  "coords": [
+                        27.472545,
+                        42.492793
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vladimir Pavlov",
+                  "text": "Vlagyimir Pavlov tiszteletére emelt emlékmű Burgasz városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.457216,
+                        42.503149
+                  ]
+            },
+            {
+                  "name": "Petko Blagoev - Pandira",
+                  "text": "Egy helyi személyiségnek szentelt látnivaló Burgaszban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.483325,
+                        42.49559
+                  ]
+            },
+            {
+                  "name": "Korab",
+                  "text": "Hajót formázó emlékmű, amely Burgasz tengerészeti hagyományait jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        27.460857,
+                        42.517251
+                  ]
+            },
+            {
+                  "name": "PlanetUM",
+                  "text": "Interaktív tudományos központ és planetárium a Burgaszba látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        27.48262,
+                        42.484638
+                  ]
+            },
+            {
+                  "name": "Paraklis \"Sveti Georgi\"",
+                  "text": "Szent Györgynek szentelt kis keresztény kápolna Burgaszban.",
+                  "category": "religious",
+                  "coords": [
+                        27.483161,
+                        42.507942
+                  ]
+            },
+            {
+                  "name": "Iztochno katolicheska tsarkva Uspenie Bogorodichno",
+                  "text": "A burgaszi katolikus közösség vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        27.470041,
+                        42.491278
+                  ]
+            },
+            {
+                  "name": "Armenska pravoslavna tsarkva Sv. Hach",
+                  "text": "A burgaszi örmény közösség történelmi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        27.473964,
+                        42.493194
+                  ]
+            },
+            {
+                  "name": "Sv. Bogoroditsa",
+                  "text": "Szűz Máriának szentelt ortodox templom Burgaszban.",
+                  "category": "religious",
+                  "coords": [
+                        27.475101,
+                        42.492312
+                  ]
+            },
+            {
+                  "name": "Hram Sv. Ivan Rilski",
+                  "text": "Burgasz városának egyik jelentős ortodox temploma.",
+                  "category": "religious",
+                  "coords": [
+                        27.469551,
+                        42.503222
+                  ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "Nyilvános úszómedence Burgaszban az úszni vágyók und látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        27.466263,
+                        42.496287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arheologicheski muzei",
+                  "text": "Muzeu care expune artefacte antice din regiunea Mării Negre.",
+                  "category": "museum",
+                  "coords": [
+                        27.475491,
+                        42.493638
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Muzeu care prezintă tradițiile populare și costumele regionale.",
+                  "category": "museum",
+                  "coords": [
+                        27.475013,
+                        42.496184
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Adriana Budevska",
+                  "text": "Teatru dramatic de renume, numit după o celebră actriță bulgară.",
+                  "category": "cultural",
+                  "coords": [
+                        27.46776,
+                        42.492015
+                  ]
+            },
+            {
+                  "name": "Darzhavna Opera Burgas",
+                  "text": "Sediu important pentru spectacole de operă și muzică clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        27.469444,
+                        42.494179
+                  ]
+            },
+            {
+                  "name": "Kontsertna zala",
+                  "text": "Centru cultural care găzduiește concerte și evenimente muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.473608,
+                        42.496793
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - cherven",
+                  "text": "Far de navigație de culoare roșie situat la intrarea în port.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479357,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - zelen",
+                  "text": "Far de navigație cu lumină verde pentru traficul maritim.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481911,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Biletna kasa",
+                  "text": "Casă centrală de bilete pentru evenimente teatrale și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.471889,
+                        42.494017
+                  ]
+            },
+            {
+                  "name": "Otkrita stsena \"Ohlyuva\"",
+                  "text": "Scenă în aer liber în formă de melc situată în Grădina Mării.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482248,
+                        42.494756
+                  ]
+            },
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "Principala plajă cu nisip situată în apropierea centrului orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Neohranyaem plazh",
+                  "text": "O zonă de plajă naturală situată în Burgas pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482011,
+                        42.488748
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "O plajă de nisip populară situată în partea de nord a orașului Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "O plajă din Burgas cunoscută pentru proximitatea sa față de saline.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Un teatru în aer liber situat în Grădina Mării din Burgas pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482537,
+                        42.498493
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Muzeul prezintă istoria bogată și moștenirea culturală a orașului Burgas.",
+                  "category": "museum",
+                  "coords": [
+                        27.474459,
+                        42.494588
+                  ]
+            },
+            {
+                  "name": "Morska gradina",
+                  "text": "Un parc vast pe malul mării în Burgas, cu monumente și alei de promenadă.",
+                  "category": "park",
+                  "coords": [
+                        27.481854,
+                        42.499483
+                  ]
+            },
+            {
+                  "name": "Alosha",
+                  "text": "Un monument proeminent din Burgas care comemorează evenimente istorice.",
+                  "category": "historical",
+                  "coords": [
+                        27.470647,
+                        42.497915
+                  ]
+            },
+            {
+                  "name": "Festival na pyasachnite figuri",
+                  "text": "Un eveniment anual în Burgas care prezintă sculpturi impresionante realizate din nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481237,
+                        42.510753
+                  ]
+            },
+            {
+                  "name": "Ekspozitsionen tsentar FLORA",
+                  "text": "Un centru expozițional din Burgas utilizat pentru expoziții de flori și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        27.48234,
+                        42.504287
+                  ]
+            },
+            {
+                  "name": "Druzhestvo na hudozhnitsite",
+                  "text": "Un centru de artă local care prezintă lucrările artiștilor regionali în Burgas.",
+                  "category": "cultural",
+                  "coords": [
+                        27.472545,
+                        42.492793
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vladimir Pavlov",
+                  "text": "Un monument ridicat în onoarea lui Vladimir Pavlov în orașul Burgas.",
+                  "category": "historical",
+                  "coords": [
+                        27.457216,
+                        42.503149
+                  ]
+            },
+            {
+                  "name": "Petko Blagoev - Pandira",
+                  "text": "O atracție în Burgas dedicată unei personalități locale.",
+                  "category": "landmark",
+                  "coords": [
+                        27.483325,
+                        42.49559
+                  ]
+            },
+            {
+                  "name": "Korab",
+                  "text": "Un monument sub formă de navă care simbolizează tradiția maritimă a orașului Burgas.",
+                  "category": "historical",
+                  "coords": [
+                        27.460857,
+                        42.517251
+                  ]
+            },
+            {
+                  "name": "PlanetUM",
+                  "text": "Un centru științific interactiv și planetariu pentru vizitatorii din Burgas.",
+                  "category": "landmark",
+                  "coords": [
+                        27.48262,
+                        42.484638
+                  ]
+            },
+            {
+                  "name": "Paraklis \"Sveti Georgi\"",
+                  "text": "O mică chapelă creștină dedicată Sfântului Gheorghe în Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.483161,
+                        42.507942
+                  ]
+            },
+            {
+                  "name": "Iztochno katolicheska tsarkva Uspenie Bogorodichno",
+                  "text": "Un edificiu religios al comunității catolice din Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.470041,
+                        42.491278
+                  ]
+            },
+            {
+                  "name": "Armenska pravoslavna tsarkva Sv. Hach",
+                  "text": "Un lăcaș de cult istoric al comunității armene din Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.473964,
+                        42.493194
+                  ]
+            },
+            {
+                  "name": "Sv. Bogoroditsa",
+                  "text": "O biserică ortodoxă din Burgas dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        27.475101,
+                        42.492312
+                  ]
+            },
+            {
+                  "name": "Hram Sv. Ivan Rilski",
+                  "text": "Una dintre bisericile ortodoxe importante din orașul Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.469551,
+                        42.503222
+                  ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "O piscină publică în Burgas pentru înotători și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        27.466263,
+                        42.496287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum - Burgas",
+                  "text": "Archaeological Museum featuring ancient artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        27.475491,
+                        42.493638
+                  ]
+            },
+            {
+                  "name": "Ethnographical museum",
+                  "text": "Museum showcasing regional folk traditions and costumes.",
+                  "category": "museum",
+                  "coords": [
+                        27.475013,
+                        42.496184
+                  ]
+            },
+            {
+                  "name": "Drama Theater Adriana Budevska",
+                  "text": "Established drama theatre named after a famous Bulgarian actress.",
+                  "category": "cultural",
+                  "coords": [
+                        27.46776,
+                        42.492015
+                  ]
+            },
+            {
+                  "name": "State Opera Bourgas",
+                  "text": "Major venue for opera and classical music performances.",
+                  "category": "cultural",
+                  "coords": [
+                        27.469444,
+                        42.494179
+                  ]
+            },
+            {
+                  "name": "Concert Hall",
+                  "text": "Cultural venue hosting concerts and musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.473608,
+                        42.496793
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - cherven",
+                  "text": "Navigational beacon located at the entrance to the port.",
+                  "category": "landmark",
+                  "coords": [
+                        27.479357,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Vhoden far Burgas - zelen",
+                  "text": "Green-light navigational beacon for maritime traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481911,
+                        42.483525
+                  ]
+            },
+            {
+                  "name": "Ticket office",
+                  "text": "Central ticket office for local theatre and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.471889,
+                        42.494017
+                  ]
+            },
+            {
+                  "name": "Otkrita stsena \"Ohlyuva\"",
+                  "text": "Open-air stage shaped like a snail in the Sea Garden.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482248,
+                        42.494756
+                  ]
+            },
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "The main sandy beach located near the city center.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Neohranyaem plazh",
+                  "text": "A natural beach area located in Burgas for coastal relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482011,
+                        42.488748
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "A popular sandy beach located in the northern part of Burgas.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "A beach in Burgas known for its proximity to the salt pans.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            },
+            {
+                  "name": "Summer Theater",
+                  "text": "An open-air theater in the Sea Garden of Burgas for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.482537,
+                        42.498493
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Burgas",
+                  "text": "The museum presents the rich history and cultural heritage of the city of Burgas.",
+                  "category": "museum",
+                  "coords": [
+                        27.474459,
+                        42.494588
+                  ]
+            },
+            {
+                  "name": "Sea Garden",
+                  "text": "A vast seaside park in Burgas featuring monuments and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        27.481854,
+                        42.499483
+                  ]
+            },
+            {
+                  "name": "Alyosha",
+                  "text": "A prominent monument in Burgas commemorating historical events.",
+                  "category": "historical",
+                  "coords": [
+                        27.470647,
+                        42.497915
+                  ]
+            },
+            {
+                  "name": "Festival of sand sculptures",
+                  "text": "An annual event in Burgas showcasing impressive sculptures made from sand.",
+                  "category": "landmark",
+                  "coords": [
+                        27.481237,
+                        42.510753
+                  ]
+            },
+            {
+                  "name": "Flora",
+                  "text": "An exhibition center in Burgas used for flower shows and art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        27.48234,
+                        42.504287
+                  ]
+            },
+            {
+                  "name": "Druzhestvo na hudozhnitsite",
+                  "text": "A local arts center showcasing the works of regional artists in Burgas.",
+                  "category": "cultural",
+                  "coords": [
+                        27.472545,
+                        42.492793
+                  ]
+            },
+            {
+                  "name": "Monument of Vladimir Pavlov",
+                  "text": "A monument dedicated to the honor of Vladimir Pavlov in the city of Burgas.",
+                  "category": "historical",
+                  "coords": [
+                        27.457216,
+                        42.503149
+                  ]
+            },
+            {
+                  "name": "Petko Blagoev - Pandira",
+                  "text": "An attraction in Burgas dedicated to a local personality.",
+                  "category": "landmark",
+                  "coords": [
+                        27.483325,
+                        42.49559
+                  ]
+            },
+            {
+                  "name": "Korab",
+                  "text": "A monument in the shape of a ship symbolizing the maritime tradition of Burgas.",
+                  "category": "historical",
+                  "coords": [
+                        27.460857,
+                        42.517251
+                  ]
+            },
+            {
+                  "name": "PlanetUM",
+                  "text": "An interactive science center and planetarium for visitors in Burgas.",
+                  "category": "landmark",
+                  "coords": [
+                        27.48262,
+                        42.484638
+                  ]
+            },
+            {
+                  "name": "St. George Chapel",
+                  "text": "A small Christian chapel dedicated to Saint George in Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.483161,
+                        42.507942
+                  ]
+            },
+            {
+                  "name": "Eastern Catholic Church of Assumption",
+                  "text": "A religious building of the Catholic community in Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.470041,
+                        42.491278
+                  ]
+            },
+            {
+                  "name": "Armenian Orthodox Church of St. Hach",
+                  "text": "A historical place of worship for the Armenian community in Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.473964,
+                        42.493194
+                  ]
+            },
+            {
+                  "name": "Hram Sv. Bogorodica",
+                  "text": "An Orthodox church in Burgas dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        27.475101,
+                        42.492312
+                  ]
+            },
+            {
+                  "name": "St. Ivan Rilski Church",
+                  "text": "One of the significant Orthodox churches in the city of Burgas.",
+                  "category": "religious",
+                  "coords": [
+                        27.469551,
+                        42.503222
+                  ]
+            },
+            {
+                  "name": "Basein",
+                  "text": "A public swimming pool in Burgas for swimmers and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        27.466263,
+                        42.496287
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [27.4626, 42.5048],
@@ -2553,7 +7584,340 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-vidin.webp"
   },
   {
-    id: "city-vratsa", "sights": {"de": [{"name": "Regionalen istoricheski muzei - Vratsa", "text": "Das Museum bewahrt archäologische und historische Schätze aus der Region Vratsa auf.", "category": "museum", "coords": [23.547638, 43.20076]}, {"name": "Mogilanska mogila", "text": "Eine antike thrakische Grabstätte in Vratsa mit bedeutenden archäologischen Funden.", "category": "historical", "coords": [23.550737, 43.200698]}, {"name": "Kulata na Meshchiite", "text": "Ein historischer Wehrturm aus dem 16. Jahrhundert im Zentrum von Vratsa.", "category": "castle", "coords": [23.547783, 43.202483]}, {"name": "Starata ZhP gara", "text": "Ein historisches Bahnhofsgebäude in Vratsa, das heute als Museum dient.", "category": "museum", "coords": [23.556075, 43.209264]}, {"name": "Kashtata na Ivan Zambin", "text": "Ein Museum in Vratsa, das im ehemaligen Wohnhaus einer historischen Persönlichkeit untergebracht ist.", "category": "museum", "coords": [23.550809, 43.20209]}, {"name": "pametnik na Vestitelya na svobodata", "text": "Ein Denkmal in Vratsa zu Ehren des Boten, der die Befreiung der Stadt ankündigte.", "category": "historical", "coords": [23.55129, 43.198062]}, {"name": "Vasil Levski", "text": "Ein Denkmal für Vasil Levski, den bulgarischen Nationalhelden, in Vratsa.", "category": "historical", "coords": [23.54912, 43.204572]}, {"name": "Pametnikat na Vasil Levski", "text": "Eine Gedenkstätte für den Freiheitskämpfer Vasil Levski in Vratsa.", "category": "historical", "coords": [23.56376, 43.196736]}], "hu": [{"name": "Regionalen istoricheski muzei - Vratsa", "text": "A múzeum Vratsa régiójának régészeti és történelmi kincseit őrzi.", "category": "museum", "coords": [23.547638, 43.20076]}, {"name": "Mogilanska mogila", "text": "Ókori traák sírhely Vratsában, jelentős régészeti leletekkel.", "category": "historical", "coords": [23.550737, 43.200698]}, {"name": "Kulata na Meshchiite", "text": "16. századi történelmi védőtorony Vratsa központjában.", "category": "castle", "coords": [23.547783, 43.202483]}, {"name": "Starata ZhP gara", "text": "Vratsa történelmi vasútállomása, amely ma múzeumként működik.", "category": "museum", "coords": [23.556075, 43.209264]}, {"name": "Kashtata na Ivan Zambin", "text": "Vratsai múzeum, amely egy történelmi személyiség egykori lakóházában kapott helyet.", "category": "museum", "coords": [23.550809, 43.20209]}, {"name": "pametnik na Vestitelya na svobodata", "text": "Vratsai emlékmű a hírnök tiszteletére, aki bejelentette a város felszabadítását.", "category": "historical", "coords": [23.55129, 43.198062]}, {"name": "Vasil Levski", "text": "Vaszil Levszki bolgár nemzeti hős emlékműve Vratsában.", "category": "historical", "coords": [23.54912, 43.204572]}, {"name": "Pametnikat na Vasil Levski", "text": "Emlékhely Vaszil Levszki szabadságharcos tiszteletére Vratsában.", "category": "historical", "coords": [23.56376, 43.196736]}], "ro": [{"name": "Regionalen istoricheski muzei - Vratsa", "text": "Muzeul păstrează comori arheologice și istorice din regiunea Vrața.", "category": "museum", "coords": [23.547638, 43.20076]}, {"name": "Mogilanska mogila", "text": "Un sit funerar trac antic în Vrața, cu descoperiri arheologice importante.", "category": "historical", "coords": [23.550737, 43.200698]}, {"name": "Kulata na Meshchiite", "text": "Un turn defensiv istoric din secolul al XVI-lea, situat în centrul orașului Vrața.", "category": "castle", "coords": [23.547783, 43.202483]}, {"name": "Starata ZhP gara", "text": "Clădirea istorică a gării din Vrața, care astăzi servește drept muzeu.", "category": "museum", "coords": [23.556075, 43.209264]}, {"name": "Kashtata na Ivan Zambin", "text": "Un muzeu din Vrața situat în fosta casă a unei personalități istorice.", "category": "museum", "coords": [23.550809, 43.20209]}, {"name": "pametnik na Vestitelya na svobodata", "text": "Un monument în Vrața în onoarea vestitorului care a anunțat eliberarea orașului.", "category": "historical", "coords": [23.55129, 43.198062]}, {"name": "Vasil Levski", "text": "Un monument dedicat lui Vasil Levski, eroul național bulgar, în Vrața.", "category": "historical", "coords": [23.54912, 43.204572]}, {"name": "Pametnikat na Vasil Levski", "text": "Un loc memorial dedicat luptătorului pentru libertate Vasil Levski în Vrața.", "category": "historical", "coords": [23.56376, 43.196736]}], "en": [{"name": "Regional Historical Museum - Vratsa", "text": "The museum preserves archaeological and historical treasures from the Vratsa region.", "category": "museum", "coords": [23.547638, 43.20076]}, {"name": "Mogilanska mogila", "text": "An ancient Thracian burial site in Vratsa with significant archaeological finds.", "category": "historical", "coords": [23.550737, 43.200698]}, {"name": "Kulata na Meshchiite", "text": "A historical defensive tower from the 16th century in the center of Vratsa.", "category": "castle", "coords": [23.547783, 43.202483]}, {"name": "Starata ZhP gara", "text": "The historical railway station building in Vratsa, now serving as a museum.", "category": "museum", "coords": [23.556075, 43.209264]}, {"name": "Kashtata na Ivan Zambin", "text": "A museum in Vratsa located in the former house of a historical figure.", "category": "museum", "coords": [23.550809, 43.20209]}, {"name": "pametnik na Vestitelya na svobodata", "text": "A monument in Vratsa honoring the herald who announced the city's liberation.", "category": "historical", "coords": [23.55129, 43.198062]}, {"name": "Vasil Levski", "text": "A monument to Vasil Levski, the Bulgarian national hero, in Vratsa.", "category": "historical", "coords": [23.54912, 43.204572]}, {"name": "Pametnikat na Vasil Levski", "text": "A memorial site dedicated to the freedom fighter Vasil Levski in Vratsa.", "category": "historical", "coords": [23.56376, 43.196736]}]},
+    id: "city-vratsa", "sights": {
+      "de": [
+            {
+                  "name": "Regionalen istoricheski muzei - Vratsa",
+                  "text": "Das Museum bewahrt archäologische und historische Schätze aus der Region Vratsa auf.",
+                  "category": "museum",
+                  "coords": [
+                        23.547638,
+                        43.20076
+                  ]
+            },
+            {
+                  "name": "Mogilanska mogila",
+                  "text": "Eine antike thrakische Grabstätte in Vratsa mit bedeutenden archäologischen Funden.",
+                  "category": "historical",
+                  "coords": [
+                        23.550737,
+                        43.200698
+                  ]
+            },
+            {
+                  "name": "Kulata na Meshchiite",
+                  "text": "Ein historischer Wehrturm aus dem 16. Jahrhundert im Zentrum von Vratsa.",
+                  "category": "castle",
+                  "coords": [
+                        23.547783,
+                        43.202483
+                  ]
+            },
+            {
+                  "name": "Starata ZhP gara",
+                  "text": "Ein historisches Bahnhofsgebäude in Vratsa, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        23.556075,
+                        43.209264
+                  ]
+            },
+            {
+                  "name": "Kashtata na Ivan Zambin",
+                  "text": "Ein Museum in Vratsa, das im ehemaligen Wohnhaus einer historischen Persönlichkeit untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.550809,
+                        43.20209
+                  ]
+            },
+            {
+                  "name": "pametnik na Vestitelya na svobodata",
+                  "text": "Ein Denkmal in Vratsa zu Ehren des Boten, der die Befreiung der Stadt ankündigte.",
+                  "category": "historical",
+                  "coords": [
+                        23.55129,
+                        43.198062
+                  ]
+            },
+            {
+                  "name": "Vasil Levski",
+                  "text": "Ein Denkmal für Vasil Levski, den bulgarischen Nationalhelden, in Vratsa.",
+                  "category": "historical",
+                  "coords": [
+                        23.54912,
+                        43.204572
+                  ]
+            },
+            {
+                  "name": "Pametnikat na Vasil Levski",
+                  "text": "Eine Gedenkstätte für den Freiheitskämpfer Vasil Levski in Vratsa.",
+                  "category": "historical",
+                  "coords": [
+                        23.56376,
+                        43.196736
+                  ]
+            },
+            {
+                  "name": "OP Sport and Tourism Swimming Pool",
+                  "text": "Eine öffentliche Schwimmstätte in Vratsa für sportliche Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        23.56647,
+                        43.202099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Regionalen istoricheski muzei - Vratsa",
+                  "text": "A múzeum Vratsa régiójának régészeti és történelmi kincseit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        23.547638,
+                        43.20076
+                  ]
+            },
+            {
+                  "name": "Mogilanska mogila",
+                  "text": "Ókori traák sírhely Vratsában, jelentős régészeti leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        23.550737,
+                        43.200698
+                  ]
+            },
+            {
+                  "name": "Kulata na Meshchiite",
+                  "text": "16. századi történelmi védőtorony Vratsa központjában.",
+                  "category": "castle",
+                  "coords": [
+                        23.547783,
+                        43.202483
+                  ]
+            },
+            {
+                  "name": "Starata ZhP gara",
+                  "text": "Vratsa történelmi vasútállomása, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        23.556075,
+                        43.209264
+                  ]
+            },
+            {
+                  "name": "Kashtata na Ivan Zambin",
+                  "text": "Vratsai múzeum, amely egy történelmi személyiség egykori lakóházában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        23.550809,
+                        43.20209
+                  ]
+            },
+            {
+                  "name": "pametnik na Vestitelya na svobodata",
+                  "text": "Vratsai emlékmű a hírnök tiszteletére, aki bejelentette a város felszabadítását.",
+                  "category": "historical",
+                  "coords": [
+                        23.55129,
+                        43.198062
+                  ]
+            },
+            {
+                  "name": "Vasil Levski",
+                  "text": "Vaszil Levszki bolgár nemzeti hős emlékműve Vratsában.",
+                  "category": "historical",
+                  "coords": [
+                        23.54912,
+                        43.204572
+                  ]
+            },
+            {
+                  "name": "Pametnikat na Vasil Levski",
+                  "text": "Emlékhely Vaszil Levszki szabadságharcos tiszteletére Vratsában.",
+                  "category": "historical",
+                  "coords": [
+                        23.56376,
+                        43.196736
+                  ]
+            },
+            {
+                  "name": "OP Sport and Tourism Swimming Pool",
+                  "text": "Nyilvános úszóhely Vraca városában sportolási célokra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.56647,
+                        43.202099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Regionalen istoricheski muzei - Vratsa",
+                  "text": "Muzeul păstrează comori arheologice și istorice din regiunea Vrața.",
+                  "category": "museum",
+                  "coords": [
+                        23.547638,
+                        43.20076
+                  ]
+            },
+            {
+                  "name": "Mogilanska mogila",
+                  "text": "Un sit funerar trac antic în Vrața, cu descoperiri arheologice importante.",
+                  "category": "historical",
+                  "coords": [
+                        23.550737,
+                        43.200698
+                  ]
+            },
+            {
+                  "name": "Kulata na Meshchiite",
+                  "text": "Un turn defensiv istoric din secolul al XVI-lea, situat în centrul orașului Vrața.",
+                  "category": "castle",
+                  "coords": [
+                        23.547783,
+                        43.202483
+                  ]
+            },
+            {
+                  "name": "Starata ZhP gara",
+                  "text": "Clădirea istorică a gării din Vrața, care astăzi servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        23.556075,
+                        43.209264
+                  ]
+            },
+            {
+                  "name": "Kashtata na Ivan Zambin",
+                  "text": "Un muzeu din Vrața situat în fosta casă a unei personalități istorice.",
+                  "category": "museum",
+                  "coords": [
+                        23.550809,
+                        43.20209
+                  ]
+            },
+            {
+                  "name": "pametnik na Vestitelya na svobodata",
+                  "text": "Un monument în Vrața în onoarea vestitorului care a anunțat eliberarea orașului.",
+                  "category": "historical",
+                  "coords": [
+                        23.55129,
+                        43.198062
+                  ]
+            },
+            {
+                  "name": "Vasil Levski",
+                  "text": "Un monument dedicat lui Vasil Levski, eroul național bulgar, în Vrața.",
+                  "category": "historical",
+                  "coords": [
+                        23.54912,
+                        43.204572
+                  ]
+            },
+            {
+                  "name": "Pametnikat na Vasil Levski",
+                  "text": "Un loc memorial dedicat luptătorului pentru libertate Vasil Levski în Vrața.",
+                  "category": "historical",
+                  "coords": [
+                        23.56376,
+                        43.196736
+                  ]
+            },
+            {
+                  "name": "OP Sport and Tourism Swimming Pool",
+                  "text": "O facilitate publică de înot în Vrața pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        23.56647,
+                        43.202099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regional Historical Museum - Vratsa",
+                  "text": "The museum preserves archaeological and historical treasures from the Vratsa region.",
+                  "category": "museum",
+                  "coords": [
+                        23.547638,
+                        43.20076
+                  ]
+            },
+            {
+                  "name": "Mogilanska mogila",
+                  "text": "An ancient Thracian burial site in Vratsa with significant archaeological finds.",
+                  "category": "historical",
+                  "coords": [
+                        23.550737,
+                        43.200698
+                  ]
+            },
+            {
+                  "name": "Kulata na Meshchiite",
+                  "text": "A historical defensive tower from the 16th century in the center of Vratsa.",
+                  "category": "castle",
+                  "coords": [
+                        23.547783,
+                        43.202483
+                  ]
+            },
+            {
+                  "name": "Starata ZhP gara",
+                  "text": "The historical railway station building in Vratsa, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.556075,
+                        43.209264
+                  ]
+            },
+            {
+                  "name": "Kashtata na Ivan Zambin",
+                  "text": "A museum in Vratsa located in the former house of a historical figure.",
+                  "category": "museum",
+                  "coords": [
+                        23.550809,
+                        43.20209
+                  ]
+            },
+            {
+                  "name": "pametnik na Vestitelya na svobodata",
+                  "text": "A monument in Vratsa honoring the herald who announced the city's liberation.",
+                  "category": "historical",
+                  "coords": [
+                        23.55129,
+                        43.198062
+                  ]
+            },
+            {
+                  "name": "Vasil Levski",
+                  "text": "A monument to Vasil Levski, the Bulgarian national hero, in Vratsa.",
+                  "category": "historical",
+                  "coords": [
+                        23.54912,
+                        43.204572
+                  ]
+            },
+            {
+                  "name": "Pametnikat na Vasil Levski",
+                  "text": "A memorial site dedicated to the freedom fighter Vasil Levski in Vratsa.",
+                  "category": "historical",
+                  "coords": [
+                        23.56376,
+                        43.196736
+                  ]
+            },
+            {
+                  "name": "OP Sport and Tourism Swimming Pool",
+                  "text": "A public swimming facility in Vratsa used for sports and tourism activities.",
+                  "category": "recreational",
+                  "coords": [
+                        23.56647,
+                        43.202099
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [23.5588, 43.2105],
@@ -2793,7 +8157,772 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-dobrich.webp"
   },
   {
-    id: "city-sliven", "sights": {"de": [{"name": "Kashta muzei \"Hadzhi Dimitar\"", "text": "Das Geburtshaus des bulgarischen Revolutionärs Hadji Dimitar in Sliwen.", "category": "museum", "coords": [26.311726, 42.678447]}, {"name": "Natsionalen muzei na tekstilnata industriya", "text": "Das Museum dokumentiert die Geschichte der Textilherstellung in Bulgarien.", "category": "museum", "coords": [26.318222, 42.688762]}, {"name": "Regionalen istoricheski muzei Sliven", "text": "Ein Museum in Sliwen, das archäologische und ethnografische Exponate der Region zeigt.", "category": "museum", "coords": [26.317961, 42.680293]}, {"name": "Teatar \"Zora\"", "text": "Ein historisches Theatergebäude in Sliwen für verschiedene Aufführungen.", "category": "cultural", "coords": [26.316184, 42.681134]}, {"name": "Kashta muzei \"D-r Mirkovich\"", "text": "Das Hausmuseum \"Dr. Mirkovich\" liegt im Herzen der bulgarischen Stadt Sliwen. Diese kulturelle Einrichtung beleuchtet das Leben und die Errungenschaften der namensgebenden Persönlichkeit. Bei einem Rundgang durch die Räumlichkeiten lässt sich die regionale Geschichte hautnah erleben.", "category": "museum", "coords": [26.310774, 42.681189]}, {"name": "Akva park", "text": "Ein Freizeitzentrum in Sliwen mit Wasserattraktionen und Schwimmbecken.", "category": "family", "coords": [26.329708, 42.676618]}, {"name": "Museumshaus Slivener Volksbräuche", "text": "Ein Museum in Sliwen, das lokale Volksbräuche und Traditionen präsentiert.", "category": "museum", "coords": [26.318837, 42.687396]}, {"name": "Dramatichen teatar Stefan Kirov", "text": "Das Haupttheater von Sliwen, benannt nach dem Schauspieler Stefan Kirov.", "category": "cultural", "coords": [26.313659, 42.68184]}, {"name": "Krepost Tuida", "text": "Die Ruinen einer antiken und mittelalterlichen Festung am Rande von Sliwen.", "category": "historical", "coords": [26.334751, 42.69367]}, {"name": "Hudozhestvena galeriya ”Dimitar Dobrovich“", "text": "Eine Galerie in Sliwen, die Werke klassischer und zeitgenössischer Kunst ausstellt.", "category": "museum", "coords": [26.319665, 42.680473]}, {"name": "Zmeevi dupki", "text": "Eingang zu einem Höhlensystem in der Nähe von Sliwen, bekannt aus lokalen Sagen.", "category": "natural", "coords": [26.357496, 42.698899]}, {"name": "Sliven", "text": "Ein Aussichtspunkt, der einen Panoramablick über die Stadt Sliwen bietet.", "category": "natural", "coords": [26.313042, 42.674022]}, {"name": "Orleto", "text": "Ein markantes Denkmal in Sliwen, das ein lokales Symbol darstellt.", "category": "historical", "coords": [26.326609, 42.677622]}, {"name": "Krast", "text": "Ein religiöses Denkmal in Form eines Kreuzes in der Stadt Sliwen.", "category": "historical", "coords": [26.304438, 42.69475]}, {"name": "Sabi Dimitrov", "text": "Ein Denkmal für die historische Persönlichkeit Sabi Dimitrov in Sliwen.", "category": "historical", "coords": [26.311379, 42.680113]}, {"name": "V pamet na zaginalite pri trudovi zlopoluki", "text": "Eine Gedenkstätte in Sliwen für die Opfer von Arbeitsunfällen.", "category": "historical", "coords": [26.321365, 42.679471]}, {"name": "Dobri Zhelyazkov - Fabrikadzhiyata", "text": "Ein Denkmal in Sliwen für Dobri Zhelyazkov, den Pionier der bulgarischen Textilindustrie.", "category": "historical", "coords": [26.322562, 42.679243]}, {"name": "Pametnik na Tanyu voivoda", "text": "Ein Denkmal für den bulgarischen Wojwoden Tanyu Stoyanov in Sliwen.", "category": "historical", "coords": [26.309481, 42.680368]}, {"name": "Pametnik na zaginalite artileristi v Balkanskite i Parva Svetovna voini", "text": "Ein Denkmal zu Ehren der gefallenen Artilleristen in den Kriegen des frühen 20. Jahrhunderts in Sliwen.", "category": "historical", "coords": [26.331585, 42.673791]}, {"name": "Karandila Lake", "text": "Ein malerischer See in Sliwen, ideal für Erholung in der Natur.", "category": "natural", "coords": [26.376513, 42.717221]}], "hu": [{"name": "Kashta muzei \"Hadzhi Dimitar\"", "text": "Hadzsi Dimitar bolgár forradalmár szülőháza Slivenben.", "category": "museum", "coords": [26.311726, 42.678447]}, {"name": "Natsionalen muzei na tekstilnata industriya", "text": "A múzeum a bulgáriai textilgyártás történetét mutatja be.", "category": "museum", "coords": [26.318222, 42.688762]}, {"name": "Regionalen istoricheski muzei Sliven", "text": "Múzeum Slivenben, amely a régió régészeti és néprajzi emlékeit mutatja be.", "category": "museum", "coords": [26.317961, 42.680293]}, {"name": "Teatar \"Zora\"", "text": "Történelmi színházépület Slivenben különféle előadások számára.", "category": "cultural", "coords": [26.316184, 42.681134]}, {"name": "Kashta muzei \"D-r Mirkovich\"", "text": "A \"Dr. Mirkovich\" emlékmúzeum a bulgáriai Szliven városának szívében található. Ez a kulturális intézmény a névadó személyiség életét és eredményeit mutatja be. A termekben tett séta során a látogatók testközelből élhetik át a regionális történelmet.", "category": "museum", "coords": [26.310774, 42.681189]}, {"name": "Akva park", "text": "Szabadidős központ Slivenben vízi élményekkel és medencékkel.", "category": "family", "coords": [26.329708, 42.676618]}, {"name": "Kashta-muzei Stariyat Sliven", "text": "Múzeum Slivenben, amely a helyi népszokásokat és hagyományokat mutatja be.", "category": "museum", "coords": [26.318837, 42.687396]}, {"name": "Dramatichen teatar Stefan Kirov", "text": "Sliven fő színháza, amely Sztefan Kirov színész nevét viseli.", "category": "cultural", "coords": [26.313659, 42.68184]}, {"name": "Krepost Tuida", "text": "Ókori és középkori erőd romjai Sliven szélén.", "category": "historical", "coords": [26.334751, 42.69367]}, {"name": "Hudozhestvena galeriya ”Dimitar Dobrovich“", "text": "Klasszikus és kortárs művészeti alkotásokat bemutató galéria Slivenben.", "category": "museum", "coords": [26.319665, 42.680473]}, {"name": "Zmeevi dupki", "text": "Helyi legendákból ismert barlangrendszer bejárata Sliven közelében.", "category": "natural", "coords": [26.357496, 42.698899]}, {"name": "Sliven", "text": "Kilátópont, ahonnan panorámás kilátás nyílik Sliven városára.", "category": "natural", "coords": [26.313042, 42.674022]}, {"name": "Orleto", "text": "Jellegzetes emlékmű Slivenben, amely helyi szimbólumot ábrázol.", "category": "historical", "coords": [26.326609, 42.677622]}, {"name": "Krast", "text": "Kereszt alakú vallási emlékmű Sliven városában.", "category": "historical", "coords": [26.304438, 42.69475]}, {"name": "Sabi Dimitrov", "text": "Szabi Dimitrov történelmi személyiség emlékműve Slivenben.", "category": "historical", "coords": [26.311379, 42.680113]}, {"name": "V pamet na zaginalite pri trudovi zlopoluki", "text": "Emlékhely Slivenben a munkabalesetek áldozatainak tiszteletére.", "category": "historical", "coords": [26.321365, 42.679471]}, {"name": "Dobri Zhelyazkov - Fabrikadzhiyata", "text": "Emlékmű Slivenben Dobri Zseljazkov, a bolgár textilipar úttörője tiszteletére.", "category": "historical", "coords": [26.322562, 42.679243]}, {"name": "Pametnik na Tanyu voivoda", "text": "Tanyu Sztojanov bolgár vajda emlékműve Slivenben.", "category": "historical", "coords": [26.309481, 42.680368]}, {"name": "Pametnik na zaginalite artileristi v Balkanskite i Parva Svetovna voini", "text": "A 20. század eleji háborúkban elesett tüzérek tiszteletére emelt emlékmű Slivenben.", "category": "historical", "coords": [26.331585, 42.673791]}, {"name": "Karandila Lake", "text": "Festői tó Szliven területén, ideális természeti kikapcsolódáshoz.", "category": "natural", "coords": [26.376513, 42.717221]}], "ro": [{"name": "Kashta muzei \"Hadzhi Dimitar\"", "text": "Casa natală a revoluționarului bulgar Hagidimităr din Sliven.", "category": "museum", "coords": [26.311726, 42.678447]}, {"name": "Natsionalen muzei na tekstilnata industriya", "text": "Muzeul documentează istoria producției de textile în Bulgaria.", "category": "museum", "coords": [26.318222, 42.688762]}, {"name": "Regionalen istoricheski muzei Sliven", "text": "Un muzeu din Sliven care expune obiecte arheologice și etnografice din regiune.", "category": "museum", "coords": [26.317961, 42.680293]}, {"name": "Teatar \"Zora\"", "text": "O clădire istorică de teatru din Sliven pentru diverse spectacole.", "category": "cultural", "coords": [26.316184, 42.681134]}, {"name": "Kashta muzei \"D-r Mirkovich\"", "text": "Casa-muzeu „Dr. Mirkovici” este situată în inima orașului bulgar Sliven. Această instituție culturală luminează viața și realizările personalității eponime. Printr-un tur al încăperilor, istoria regională poate fi experimentată îndeaproape.", "category": "museum", "coords": [26.310774, 42.681189]}, {"name": "Akva park", "text": "Un centru de recreere în Sliven cu atracții acvatice și piscine.", "category": "family", "coords": [26.329708, 42.676618]}, {"name": "Kashta-muzei Stariyat Sliven", "text": "Un muzeu din Sliven care prezintă obiceiurile și tradițiile populare locale.", "category": "museum", "coords": [26.318837, 42.687396]}, {"name": "Dramatichen teatar Stefan Kirov", "text": "Teatrul principal din Sliven, numit după actorul Ștefan Kirov.", "category": "cultural", "coords": [26.313659, 42.68184]}, {"name": "Krepost Tuida", "text": "Ruinele unei cetăți antice și medievale situate la marginea orașului Sliven.", "category": "historical", "coords": [26.334751, 42.69367]}, {"name": "Hudozhestvena galeriya ”Dimitar Dobrovich“", "text": "O galerie din Sliven care expune lucrări de artă clasică și contemporană.", "category": "museum", "coords": [26.319665, 42.680473]}, {"name": "Zmeevi dupki", "text": "Intrarea într-un sistem de peșteri lângă Sliven, cunoscut din legendele locale.", "category": "natural", "coords": [26.357496, 42.698899]}, {"name": "Sliven", "text": "Un punct de observație care oferă o vedere panoramică asupra orașului Sliven.", "category": "natural", "coords": [26.313042, 42.674022]}, {"name": "Orleto", "text": "Un monument proeminent din Sliven care reprezintă un simbol local.", "category": "historical", "coords": [26.326609, 42.677622]}, {"name": "Krast", "text": "Un monument religios sub formă de cruce în orașul Sliven.", "category": "historical", "coords": [26.304438, 42.69475]}, {"name": "Sabi Dimitrov", "text": "Un monument dedicat personalității istorice Săbi Dimitrov în Sliven.", "category": "historical", "coords": [26.311379, 42.680113]}, {"name": "V pamet na zaginalite pri trudovi zlopoluki", "text": "Un loc memorial în Sliven pentru victimele accidentelor de muncă.", "category": "historical", "coords": [26.321365, 42.679471]}, {"name": "Dobri Zhelyazkov - Fabrikadzhiyata", "text": "Un monument în Sliven dedicat lui Dobri Jeliazkov, pionierul industriei textile bulgare.", "category": "historical", "coords": [26.322562, 42.679243]}, {"name": "Pametnik na Tanyu voivoda", "text": "Un monument dedicat voievodului bulgar Taniu Stoianov în Sliven.", "category": "historical", "coords": [26.309481, 42.680368]}, {"name": "Pametnik na zaginalite artileristi v Balkanskite i Parva Svetovna voini", "text": "Un monument în Sliven în onoarea artileriștilor căzuți în războaiele de la începutul secolului XX.", "category": "historical", "coords": [26.331585, 42.673791]}, {"name": "Karandila Lake", "text": "Un lac pitoresc în Sliven, ideal pentru recreere în natură.", "category": "natural", "coords": [26.376513, 42.717221]}], "en": [{"name": "House-Museum Hadji Dimitar", "text": "The birthplace of the Bulgarian revolutionary Hadji Dimitar in Sliven.", "category": "museum", "coords": [26.311726, 42.678447]}, {"name": "National Museum of Textile Industry", "text": "The museum documents the history of textile production in Bulgaria.", "category": "museum", "coords": [26.318222, 42.688762]}, {"name": "Regional Historical Museum", "text": "A museum in Sliven exhibiting archaeological and ethnographic items from the region.", "category": "museum", "coords": [26.317961, 42.680293]}, {"name": "Teatar \"Zora\"", "text": "A historical theater building in Sliven for various performances.", "category": "cultural", "coords": [26.316184, 42.681134]}, {"name": "Kashta muzei \"D-r Mirkovich\"", "text": "The House Museum \"Dr. Mirkovich\" is situated in the heart of the Bulgarian city of Sliven. This cultural institution illuminates the life and achievements of its namesake personality. Walking through its rooms allows visitors to experience regional history firsthand.", "category": "museum", "coords": [26.310774, 42.681189]}, {"name": "Akva park", "text": "A recreation center in Sliven featuring water attractions and swimming pools.", "category": "family", "coords": [26.329708, 42.676618]}, {"name": "House-museum of the Old Sliven Popular Customs Old Sliwen", "text": "A museum in Sliven showcasing local popular customs and traditions.", "category": "museum", "coords": [26.318837, 42.687396]}, {"name": "Dramatichen teatar Stefan Kirov", "text": "The main theater of Sliven, named after the actor Stefan Kirov.", "category": "cultural", "coords": [26.313659, 42.68184]}, {"name": "Tuida Fortress", "text": "The ruins of an ancient and medieval fortress on the outskirts of Sliven.", "category": "historical", "coords": [26.334751, 42.69367]}, {"name": "Art Gallery Dimitar Dobrovich", "text": "A gallery in Sliven exhibiting works of classical and contemporary art.", "category": "museum", "coords": [26.319665, 42.680473]}, {"name": "Zmeevi dupki", "text": "Entrance to a cave system near Sliven, known from local legends.", "category": "natural", "coords": [26.357496, 42.698899]}, {"name": "Sliven", "text": "A viewpoint offering a panoramic view of the city of Sliven.", "category": "natural", "coords": [26.313042, 42.674022]}, {"name": "Orleto", "text": "A prominent monument in Sliven representing a local symbol.", "category": "historical", "coords": [26.326609, 42.677622]}, {"name": "Sross", "text": "A religious monument in the shape of a cross in the city of Sliven.", "category": "historical", "coords": [26.304438, 42.69475]}, {"name": "Sabi Dimitrov", "text": "A monument to the historical figure Sabi Dimitrov in Sliven.", "category": "historical", "coords": [26.311379, 42.680113]}, {"name": "V pamet na zaginalite pri trudovi zlopoluki", "text": "A memorial site in Sliven for the victims of industrial accidents.", "category": "historical", "coords": [26.321365, 42.679471]}, {"name": "Dobri Zhelyazkov - Fabrikadzhiyata", "text": "A monument in Sliven to Dobri Zhelyazkov, the pioneer of the Bulgarian textile industry.", "category": "historical", "coords": [26.322562, 42.679243]}, {"name": "Pametnik na Tanyu voivoda", "text": "A monument to the Bulgarian voyvoda Tanyu Stoyanov in Sliven.", "category": "historical", "coords": [26.309481, 42.680368]}, {"name": "Monument to the fallen artillerymen in the Balkan Wars and the First World War", "text": "A monument in Sliven honoring the fallen artillerymen in the wars of the early 20th century.", "category": "historical", "coords": [26.331585, 42.673791]}, {"name": "Karandila Lake", "text": "A scenic lake in Sliven, perfect for relaxing in nature.", "category": "natural", "coords": [26.376513, 42.717221]}]},
+    id: "city-sliven", "sights": {
+      "de": [
+            {
+                  "name": "Kashta muzei \"Hadzhi Dimitar\"",
+                  "text": "Das Geburtshaus des bulgarischen Revolutionärs Hadji Dimitar in Sliwen.",
+                  "category": "museum",
+                  "coords": [
+                        26.311726,
+                        42.678447
+                  ]
+            },
+            {
+                  "name": "Natsionalen muzei na tekstilnata industriya",
+                  "text": "Das Museum dokumentiert die Geschichte der Textilherstellung in Bulgarien.",
+                  "category": "museum",
+                  "coords": [
+                        26.318222,
+                        42.688762
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei Sliven",
+                  "text": "Ein Museum in Sliwen, das archäologische und ethnografische Exponate der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.317961,
+                        42.680293
+                  ]
+            },
+            {
+                  "name": "Teatar \"Zora\"",
+                  "text": "Ein historisches Theatergebäude in Sliwen für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.316184,
+                        42.681134
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"D-r Mirkovich\"",
+                  "text": "Das Hausmuseum \"Dr. Mirkovich\" liegt im Herzen der bulgarischen Stadt Sliwen. Diese kulturelle Einrichtung beleuchtet das Leben und die Errungenschaften der namensgebenden Persönlichkeit. Bei einem Rundgang durch die Räumlichkeiten lässt sich die regionale Geschichte hautnah erleben.",
+                  "category": "museum",
+                  "coords": [
+                        26.310774,
+                        42.681189
+                  ]
+            },
+            {
+                  "name": "Akva park",
+                  "text": "Ein Freizeitzentrum in Sliwen mit Wasserattraktionen und Schwimmbecken.",
+                  "category": "family",
+                  "coords": [
+                        26.329708,
+                        42.676618
+                  ]
+            },
+            {
+                  "name": "Museumshaus Slivener Volksbräuche",
+                  "text": "Ein Museum in Sliwen, das lokale Volksbräuche und Traditionen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.318837,
+                        42.687396
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Stefan Kirov",
+                  "text": "Das Haupttheater von Sliwen, benannt nach dem Schauspieler Stefan Kirov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.313659,
+                        42.68184
+                  ]
+            },
+            {
+                  "name": "Krepost Tuida",
+                  "text": "Die Ruinen einer antiken und mittelalterlichen Festung am Rande von Sliwen.",
+                  "category": "historical",
+                  "coords": [
+                        26.334751,
+                        42.69367
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya ”Dimitar Dobrovich“",
+                  "text": "Eine Galerie in Sliwen, die Werke klassischer und zeitgenössischer Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.319665,
+                        42.680473
+                  ]
+            },
+            {
+                  "name": "Zmeevi dupki",
+                  "text": "Eingang zu einem Höhlensystem in der Nähe von Sliwen, bekannt aus lokalen Sagen.",
+                  "category": "natural",
+                  "coords": [
+                        26.357496,
+                        42.698899
+                  ]
+            },
+            {
+                  "name": "Sliven",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick über die Stadt Sliwen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.313042,
+                        42.674022
+                  ]
+            },
+            {
+                  "name": "Orleto",
+                  "text": "Ein markantes Denkmal in Sliwen, das ein lokales Symbol darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        26.326609,
+                        42.677622
+                  ]
+            },
+            {
+                  "name": "Krast",
+                  "text": "Ein religiöses Denkmal in Form eines Kreuzes in der Stadt Sliwen.",
+                  "category": "historical",
+                  "coords": [
+                        26.304438,
+                        42.69475
+                  ]
+            },
+            {
+                  "name": "Sabi Dimitrov",
+                  "text": "Ein Denkmal für die historische Persönlichkeit Sabi Dimitrov in Sliwen.",
+                  "category": "historical",
+                  "coords": [
+                        26.311379,
+                        42.680113
+                  ]
+            },
+            {
+                  "name": "V pamet na zaginalite pri trudovi zlopoluki",
+                  "text": "Eine Gedenkstätte in Sliwen für die Opfer von Arbeitsunfällen.",
+                  "category": "historical",
+                  "coords": [
+                        26.321365,
+                        42.679471
+                  ]
+            },
+            {
+                  "name": "Dobri Zhelyazkov - Fabrikadzhiyata",
+                  "text": "Ein Denkmal in Sliwen für Dobri Zhelyazkov, den Pionier der bulgarischen Textilindustrie.",
+                  "category": "historical",
+                  "coords": [
+                        26.322562,
+                        42.679243
+                  ]
+            },
+            {
+                  "name": "Pametnik na Tanyu voivoda",
+                  "text": "Ein Denkmal für den bulgarischen Wojwoden Tanyu Stoyanov in Sliwen.",
+                  "category": "historical",
+                  "coords": [
+                        26.309481,
+                        42.680368
+                  ]
+            },
+            {
+                  "name": "Pametnik na zaginalite artileristi v Balkanskite i Parva Svetovna voini",
+                  "text": "Ein Denkmal zu Ehren der gefallenen Artilleristen in den Kriegen des frühen 20. Jahrhunderts in Sliwen.",
+                  "category": "historical",
+                  "coords": [
+                        26.331585,
+                        42.673791
+                  ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "Ein malerischer See in Sliwen, ideal für Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
+                  ]
+            },
+            {
+                  "name": "Sport palas",
+                  "text": "Ein Sportzentrum in Sliven mit Schwimmbecken für Training und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        26.339179,
+                        42.679053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kashta muzei \"Hadzhi Dimitar\"",
+                  "text": "Hadzsi Dimitar bolgár forradalmár szülőháza Slivenben.",
+                  "category": "museum",
+                  "coords": [
+                        26.311726,
+                        42.678447
+                  ]
+            },
+            {
+                  "name": "Natsionalen muzei na tekstilnata industriya",
+                  "text": "A múzeum a bulgáriai textilgyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.318222,
+                        42.688762
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei Sliven",
+                  "text": "Múzeum Slivenben, amely a régió régészeti és néprajzi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.317961,
+                        42.680293
+                  ]
+            },
+            {
+                  "name": "Teatar \"Zora\"",
+                  "text": "Történelmi színházépület Slivenben különféle előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        26.316184,
+                        42.681134
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"D-r Mirkovich\"",
+                  "text": "A \"Dr. Mirkovich\" emlékmúzeum a bulgáriai Szliven városának szívében található. Ez a kulturális intézmény a névadó személyiség életét és eredményeit mutatja be. A termekben tett séta során a látogatók testközelből élhetik át a regionális történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.310774,
+                        42.681189
+                  ]
+            },
+            {
+                  "name": "Akva park",
+                  "text": "Szabadidős központ Slivenben vízi élményekkel és medencékkel.",
+                  "category": "family",
+                  "coords": [
+                        26.329708,
+                        42.676618
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei Stariyat Sliven",
+                  "text": "Múzeum Slivenben, amely a helyi népszokásokat és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.318837,
+                        42.687396
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Stefan Kirov",
+                  "text": "Sliven fő színháza, amely Sztefan Kirov színész nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        26.313659,
+                        42.68184
+                  ]
+            },
+            {
+                  "name": "Krepost Tuida",
+                  "text": "Ókori és középkori erőd romjai Sliven szélén.",
+                  "category": "historical",
+                  "coords": [
+                        26.334751,
+                        42.69367
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya ”Dimitar Dobrovich“",
+                  "text": "Klasszikus és kortárs művészeti alkotásokat bemutató galéria Slivenben.",
+                  "category": "museum",
+                  "coords": [
+                        26.319665,
+                        42.680473
+                  ]
+            },
+            {
+                  "name": "Zmeevi dupki",
+                  "text": "Helyi legendákból ismert barlangrendszer bejárata Sliven közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.357496,
+                        42.698899
+                  ]
+            },
+            {
+                  "name": "Sliven",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Sliven városára.",
+                  "category": "natural",
+                  "coords": [
+                        26.313042,
+                        42.674022
+                  ]
+            },
+            {
+                  "name": "Orleto",
+                  "text": "Jellegzetes emlékmű Slivenben, amely helyi szimbólumot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        26.326609,
+                        42.677622
+                  ]
+            },
+            {
+                  "name": "Krast",
+                  "text": "Kereszt alakú vallási emlékmű Sliven városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.304438,
+                        42.69475
+                  ]
+            },
+            {
+                  "name": "Sabi Dimitrov",
+                  "text": "Szabi Dimitrov történelmi személyiség emlékműve Slivenben.",
+                  "category": "historical",
+                  "coords": [
+                        26.311379,
+                        42.680113
+                  ]
+            },
+            {
+                  "name": "V pamet na zaginalite pri trudovi zlopoluki",
+                  "text": "Emlékhely Slivenben a munkabalesetek áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.321365,
+                        42.679471
+                  ]
+            },
+            {
+                  "name": "Dobri Zhelyazkov - Fabrikadzhiyata",
+                  "text": "Emlékmű Slivenben Dobri Zseljazkov, a bolgár textilipar úttörője tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.322562,
+                        42.679243
+                  ]
+            },
+            {
+                  "name": "Pametnik na Tanyu voivoda",
+                  "text": "Tanyu Sztojanov bolgár vajda emlékműve Slivenben.",
+                  "category": "historical",
+                  "coords": [
+                        26.309481,
+                        42.680368
+                  ]
+            },
+            {
+                  "name": "Pametnik na zaginalite artileristi v Balkanskite i Parva Svetovna voini",
+                  "text": "A 20. század eleji háborúkban elesett tüzérek tiszteletére emelt emlékmű Slivenben.",
+                  "category": "historical",
+                  "coords": [
+                        26.331585,
+                        42.673791
+                  ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "Festői tó Szliven területén, ideális természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
+                  ]
+            },
+            {
+                  "name": "Sport palas",
+                  "text": "Sportközpont Slivenben, úszómedencével edzéshez és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        26.339179,
+                        42.679053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kashta muzei \"Hadzhi Dimitar\"",
+                  "text": "Casa natală a revoluționarului bulgar Hagidimităr din Sliven.",
+                  "category": "museum",
+                  "coords": [
+                        26.311726,
+                        42.678447
+                  ]
+            },
+            {
+                  "name": "Natsionalen muzei na tekstilnata industriya",
+                  "text": "Muzeul documentează istoria producției de textile în Bulgaria.",
+                  "category": "museum",
+                  "coords": [
+                        26.318222,
+                        42.688762
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei Sliven",
+                  "text": "Un muzeu din Sliven care expune obiecte arheologice și etnografice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        26.317961,
+                        42.680293
+                  ]
+            },
+            {
+                  "name": "Teatar \"Zora\"",
+                  "text": "O clădire istorică de teatru din Sliven pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        26.316184,
+                        42.681134
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"D-r Mirkovich\"",
+                  "text": "Casa-muzeu „Dr. Mirkovici” este situată în inima orașului bulgar Sliven. Această instituție culturală luminează viața și realizările personalității eponime. Printr-un tur al încăperilor, istoria regională poate fi experimentată îndeaproape.",
+                  "category": "museum",
+                  "coords": [
+                        26.310774,
+                        42.681189
+                  ]
+            },
+            {
+                  "name": "Akva park",
+                  "text": "Un centru de recreere în Sliven cu atracții acvatice și piscine.",
+                  "category": "family",
+                  "coords": [
+                        26.329708,
+                        42.676618
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei Stariyat Sliven",
+                  "text": "Un muzeu din Sliven care prezintă obiceiurile și tradițiile populare locale.",
+                  "category": "museum",
+                  "coords": [
+                        26.318837,
+                        42.687396
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Stefan Kirov",
+                  "text": "Teatrul principal din Sliven, numit după actorul Ștefan Kirov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.313659,
+                        42.68184
+                  ]
+            },
+            {
+                  "name": "Krepost Tuida",
+                  "text": "Ruinele unei cetăți antice și medievale situate la marginea orașului Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.334751,
+                        42.69367
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya ”Dimitar Dobrovich“",
+                  "text": "O galerie din Sliven care expune lucrări de artă clasică și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        26.319665,
+                        42.680473
+                  ]
+            },
+            {
+                  "name": "Zmeevi dupki",
+                  "text": "Intrarea într-un sistem de peșteri lângă Sliven, cunoscut din legendele locale.",
+                  "category": "natural",
+                  "coords": [
+                        26.357496,
+                        42.698899
+                  ]
+            },
+            {
+                  "name": "Sliven",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra orașului Sliven.",
+                  "category": "natural",
+                  "coords": [
+                        26.313042,
+                        42.674022
+                  ]
+            },
+            {
+                  "name": "Orleto",
+                  "text": "Un monument proeminent din Sliven care reprezintă un simbol local.",
+                  "category": "historical",
+                  "coords": [
+                        26.326609,
+                        42.677622
+                  ]
+            },
+            {
+                  "name": "Krast",
+                  "text": "Un monument religios sub formă de cruce în orașul Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.304438,
+                        42.69475
+                  ]
+            },
+            {
+                  "name": "Sabi Dimitrov",
+                  "text": "Un monument dedicat personalității istorice Săbi Dimitrov în Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.311379,
+                        42.680113
+                  ]
+            },
+            {
+                  "name": "V pamet na zaginalite pri trudovi zlopoluki",
+                  "text": "Un loc memorial în Sliven pentru victimele accidentelor de muncă.",
+                  "category": "historical",
+                  "coords": [
+                        26.321365,
+                        42.679471
+                  ]
+            },
+            {
+                  "name": "Dobri Zhelyazkov - Fabrikadzhiyata",
+                  "text": "Un monument în Sliven dedicat lui Dobri Jeliazkov, pionierul industriei textile bulgare.",
+                  "category": "historical",
+                  "coords": [
+                        26.322562,
+                        42.679243
+                  ]
+            },
+            {
+                  "name": "Pametnik na Tanyu voivoda",
+                  "text": "Un monument dedicat voievodului bulgar Taniu Stoianov în Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.309481,
+                        42.680368
+                  ]
+            },
+            {
+                  "name": "Pametnik na zaginalite artileristi v Balkanskite i Parva Svetovna voini",
+                  "text": "Un monument în Sliven în onoarea artileriștilor căzuți în războaiele de la începutul secolului XX.",
+                  "category": "historical",
+                  "coords": [
+                        26.331585,
+                        42.673791
+                  ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "Un lac pitoresc în Sliven, ideal pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
+                  ]
+            },
+            {
+                  "name": "Sport palas",
+                  "text": "Un centru sportiv în Sliven cu piscină pentru antrenament și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        26.339179,
+                        42.679053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House-Museum Hadji Dimitar",
+                  "text": "The birthplace of the Bulgarian revolutionary Hadji Dimitar in Sliven.",
+                  "category": "museum",
+                  "coords": [
+                        26.311726,
+                        42.678447
+                  ]
+            },
+            {
+                  "name": "National Museum of Textile Industry",
+                  "text": "The museum documents the history of textile production in Bulgaria.",
+                  "category": "museum",
+                  "coords": [
+                        26.318222,
+                        42.688762
+                  ]
+            },
+            {
+                  "name": "Regional Historical Museum",
+                  "text": "A museum in Sliven exhibiting archaeological and ethnographic items from the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.317961,
+                        42.680293
+                  ]
+            },
+            {
+                  "name": "Teatar \"Zora\"",
+                  "text": "A historical theater building in Sliven for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        26.316184,
+                        42.681134
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"D-r Mirkovich\"",
+                  "text": "The House Museum \"Dr. Mirkovich\" is situated in the heart of the Bulgarian city of Sliven. This cultural institution illuminates the life and achievements of its namesake personality. Walking through its rooms allows visitors to experience regional history firsthand.",
+                  "category": "museum",
+                  "coords": [
+                        26.310774,
+                        42.681189
+                  ]
+            },
+            {
+                  "name": "Akva park",
+                  "text": "A recreation center in Sliven featuring water attractions and swimming pools.",
+                  "category": "family",
+                  "coords": [
+                        26.329708,
+                        42.676618
+                  ]
+            },
+            {
+                  "name": "House-museum of the Old Sliven Popular Customs Old Sliwen",
+                  "text": "A museum in Sliven showcasing local popular customs and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        26.318837,
+                        42.687396
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Stefan Kirov",
+                  "text": "The main theater of Sliven, named after the actor Stefan Kirov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.313659,
+                        42.68184
+                  ]
+            },
+            {
+                  "name": "Tuida Fortress",
+                  "text": "The ruins of an ancient and medieval fortress on the outskirts of Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.334751,
+                        42.69367
+                  ]
+            },
+            {
+                  "name": "Art Gallery Dimitar Dobrovich",
+                  "text": "A gallery in Sliven exhibiting works of classical and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        26.319665,
+                        42.680473
+                  ]
+            },
+            {
+                  "name": "Zmeevi dupki",
+                  "text": "Entrance to a cave system near Sliven, known from local legends.",
+                  "category": "natural",
+                  "coords": [
+                        26.357496,
+                        42.698899
+                  ]
+            },
+            {
+                  "name": "Sliven",
+                  "text": "A viewpoint offering a panoramic view of the city of Sliven.",
+                  "category": "natural",
+                  "coords": [
+                        26.313042,
+                        42.674022
+                  ]
+            },
+            {
+                  "name": "Orleto",
+                  "text": "A prominent monument in Sliven representing a local symbol.",
+                  "category": "historical",
+                  "coords": [
+                        26.326609,
+                        42.677622
+                  ]
+            },
+            {
+                  "name": "Sross",
+                  "text": "A religious monument in the shape of a cross in the city of Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.304438,
+                        42.69475
+                  ]
+            },
+            {
+                  "name": "Sabi Dimitrov",
+                  "text": "A monument to the historical figure Sabi Dimitrov in Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.311379,
+                        42.680113
+                  ]
+            },
+            {
+                  "name": "V pamet na zaginalite pri trudovi zlopoluki",
+                  "text": "A memorial site in Sliven for the victims of industrial accidents.",
+                  "category": "historical",
+                  "coords": [
+                        26.321365,
+                        42.679471
+                  ]
+            },
+            {
+                  "name": "Dobri Zhelyazkov - Fabrikadzhiyata",
+                  "text": "A monument in Sliven to Dobri Zhelyazkov, the pioneer of the Bulgarian textile industry.",
+                  "category": "historical",
+                  "coords": [
+                        26.322562,
+                        42.679243
+                  ]
+            },
+            {
+                  "name": "Pametnik na Tanyu voivoda",
+                  "text": "A monument to the Bulgarian voyvoda Tanyu Stoyanov in Sliven.",
+                  "category": "historical",
+                  "coords": [
+                        26.309481,
+                        42.680368
+                  ]
+            },
+            {
+                  "name": "Monument to the fallen artillerymen in the Balkan Wars and the First World War",
+                  "text": "A monument in Sliven honoring the fallen artillerymen in the wars of the early 20th century.",
+                  "category": "historical",
+                  "coords": [
+                        26.331585,
+                        42.673791
+                  ]
+            },
+            {
+                  "name": "Karandila Lake",
+                  "text": "A scenic lake in Sliven, perfect for relaxing in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.376513,
+                        42.717221
+                  ]
+            },
+            {
+                  "name": "Sport palas",
+                  "text": "A sports center in Sliven with a swimming pool for training and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        26.339179,
+                        42.679053
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [26.3333, 42.6817],
@@ -4086,7 +10215,520 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-blagoevgrad.webp"
   },
   {
-    id: "city-haskovo", "sights": {"de": [{"name": "Zoopark \"Haskovo\"", "text": "Ein kleiner Zoo in Haskowo, der verschiedene einheimische und exotische Tierarten beherbergt.", "category": "family", "coords": [25.535719, 41.953823]}, {"name": "Kashta na Boyadzhi Oglu", "text": "Ein Museum in Chaskowo, das der lokalen Geschichte und Kultur gewidmet ist.", "category": "museum", "coords": [25.54669, 41.935143]}, {"name": "Kashtata na chorbadzhi Dimitrak", "text": "Ein historisches Hausmuseum, das die traditionelle Architektur der Region zeigt.", "category": "museum", "coords": [25.545152, 41.934594]}, {"name": "Regionalen istoricheski muzei", "text": "Dieses Museum bewahrt das kulturelle Erbe und die Geschichte der Region Chaskowo.", "category": "museum", "coords": [25.558014, 41.932439]}, {"name": "Dramatichen teatar \"Ivan Dimov\"", "text": "Ein bedeutendes Kulturzentrum in Chaskowo für dramatische Darbietungen.", "category": "cultural", "coords": [25.553595, 41.932294]}, {"name": "Kirkovoto uchilishte", "text": "Ein historisches Gebäude in Chaskowo, das heute als Museum dient.", "category": "museum", "coords": [25.550897, 41.93297]}, {"name": "Paskalevata kashta", "text": "Ein ethnographisches Museum, das in einem charmanten alten Wohnhaus untergebracht ist.", "category": "museum", "coords": [25.544458, 41.932447]}, {"name": "Marsa", "text": "Eine archäologische Stätte in Chaskowo mit Überresten einer antiken Festung.", "category": "historical", "coords": [25.552235, 41.923488]}, {"name": "Sveta Bogoroditsa", "text": "Die weltweit höchste Statue der Jungfrau Maria mit dem Jesuskind.", "category": "historical", "coords": [25.554081, 41.928362]}, {"name": "Kapitan Petko voivoda", "text": "Ein Denkmal zu Ehren des bulgarischen Revolutionärs Petko Wojwoda.", "category": "historical", "coords": [25.561506, 41.932352]}, {"name": "1000 godini Haskovo", "text": "Ein Gedenkdenkmal zum 1000-jährigen Bestehen der Stadt Chaskowo.", "category": "historical", "coords": [25.555729, 41.932562]}, {"name": "Feliks Dzerzhinski", "text": "Ein Denkmal in Chaskowo, das einer historischen Persönlichkeit gewidmet ist.", "category": "historical", "coords": [25.561198, 41.92951]}, {"name": "Hudozhestvena galeriya - Haskovo", "text": "Eine Galerie, die zeitgenössische und klassische Kunstwerke in Chaskowo ausstellt.", "category": "cultural", "coords": [25.549172, 41.93244]}], "hu": [{"name": "Zoopark \"Haskovo\"", "text": "Kis állatkert Haszkovóban, amely számos hazai és egzotikus állatfajnak ad otthont.", "category": "family", "coords": [25.535719, 41.953823]}, {"name": "Kashta na Boyadzhi Oglu", "text": "Haszkovó helytörténeti és kulturális múzeuma.", "category": "museum", "coords": [25.54669, 41.935143]}, {"name": "Kashtata na chorbadzhi Dimitrak", "text": "Hagyományos építészeti stílust bemutató történelmi házmúzeum.", "category": "museum", "coords": [25.545152, 41.934594]}, {"name": "Regionalen istoricheski muzei", "text": "A múzeum Haszkovó régiójának kulturális örökségét és történelmét őrzi.", "category": "museum", "coords": [25.558014, 41.932439]}, {"name": "Dramatichen teatar \"Ivan Dimov\"", "text": "Haszkovó jelentős kulturális központja színdarabok előadására.", "category": "cultural", "coords": [25.553595, 41.932294]}, {"name": "Kirkovoto uchilishte", "text": "Haszkovói történelmi épület, amely ma múzeumként működik.", "category": "museum", "coords": [25.550897, 41.93297]}, {"name": "Paskalevata kashta", "text": "Egy bájos régi lakóházban kialakított néprajzi múzeum.", "category": "museum", "coords": [25.544458, 41.932447]}, {"name": "Marsa", "text": "Haszkovói régészeti lelőhely egy ókori erőd maradványaival.", "category": "historical", "coords": [25.552235, 41.923488]}, {"name": "Sveta Bogoroditsa", "text": "A világ legmagasabb Szűz Mária-szobra a gyermek Jézussal.", "category": "historical", "coords": [25.554081, 41.928362]}, {"name": "Kapitan Petko voivoda", "text": "Petko Vojvoda bolgár forradalmár tiszteletére emelt emlékmű.", "category": "historical", "coords": [25.561506, 41.932352]}, {"name": "1000 godini Haskovo", "text": "Haszkovó város ezeréves fennállásának emlékére állított emlékmű.", "category": "historical", "coords": [25.555729, 41.932562]}, {"name": "Feliks Dzerzhinski", "text": "Történelmi személyiségnek szentelt emlékmű Haszkovóban.", "category": "historical", "coords": [25.561198, 41.92951]}, {"name": "Hudozhestvena galeriya - Haskovo", "text": "Kortárs és klasszikus műalkotásokat bemutató galéria Haszkovóban.", "category": "cultural", "coords": [25.549172, 41.93244]}], "ro": [{"name": "Zoopark \"Haskovo\"", "text": "O mică grădină zoologică în Haskovo, care adăpostește diverse specii de animale locale și exotice.", "category": "family", "coords": [25.535719, 41.953823]}, {"name": "Kashta na Boyadzhi Oglu", "text": "Un muzeu din Haskovo dedicat istoriei și culturii locale.", "category": "museum", "coords": [25.54669, 41.935143]}, {"name": "Kashtata na chorbadzhi Dimitrak", "text": "O casă muzeu istorică ce prezintă arhitectura tradițională a regiunii.", "category": "museum", "coords": [25.545152, 41.934594]}, {"name": "Regionalen istoricheski muzei", "text": "Acest muzeu păstrează moștenirea culturală și istoria regiunii Haskovo.", "category": "museum", "coords": [25.558014, 41.932439]}, {"name": "Dramatichen teatar \"Ivan Dimov\"", "text": "Un centru cultural important din Haskovo pentru spectacole dramatice.", "category": "cultural", "coords": [25.553595, 41.932294]}, {"name": "Kirkovoto uchilishte", "text": "O clădire istorică din Haskovo care astăzi servește drept muzeu.", "category": "museum", "coords": [25.550897, 41.93297]}, {"name": "Paskalevata kashta", "text": "Un muzeu etnografic găzduit într-o casă veche fermecătoare.", "category": "museum", "coords": [25.544458, 41.932447]}, {"name": "Marsa", "text": "Un sit arheologic din Haskovo cu vestigii ale unei vechi cetăți.", "category": "historical", "coords": [25.552235, 41.923488]}, {"name": "Sveta Bogoroditsa", "text": "Cea mai înaltă statuie din lume a Fecioarei Maria cu Pruncul Iisus.", "category": "historical", "coords": [25.554081, 41.928362]}, {"name": "Kapitan Petko voivoda", "text": "Un monument ridicat în onoarea revoluționarului bulgar Petko Voivoda.", "category": "historical", "coords": [25.561506, 41.932352]}, {"name": "1000 godini Haskovo", "text": "Un monument comemorativ care marchează 1000 de ani de la înființarea orașului Haskovo.", "category": "historical", "coords": [25.555729, 41.932562]}, {"name": "Feliks Dzerzhinski", "text": "Un monument din Haskovo dedicat unei figuri istorice.", "category": "historical", "coords": [25.561198, 41.92951]}, {"name": "Hudozhestvena galeriya - Haskovo", "text": "O galerie care expune opere de artă contemporană și clasică în Haskovo.", "category": "cultural", "coords": [25.549172, 41.93244]}], "en": [{"name": "Zoopark \"Haskovo\"", "text": "A small zoo in Haskovo housing various domestic and exotic animal species.", "category": "family", "coords": [25.535719, 41.953823]}, {"name": "Kashta na Boyadzhi Oglu", "text": "A museum in Haskovo dedicated to local history and culture.", "category": "museum", "coords": [25.54669, 41.935143]}, {"name": "Kashtata na chorbadzhi Dimitrak", "text": "A historic house museum showcasing the traditional architecture of the region.", "category": "museum", "coords": [25.545152, 41.934594]}, {"name": "Regionalen istoricheski muzei", "text": "This museum preserves the cultural heritage and history of the Haskovo region.", "category": "museum", "coords": [25.558014, 41.932439]}, {"name": "Dramatichen teatar \"Ivan Dimov\"", "text": "A prominent cultural center in Haskovo for dramatic performances.", "category": "cultural", "coords": [25.553595, 41.932294]}, {"name": "Kirkovoto uchilishte", "text": "A historical building in Haskovo that now serves as a museum.", "category": "museum", "coords": [25.550897, 41.93297]}, {"name": "Paskalevata kashta", "text": "An ethnographic museum housed in a charming old residential house.", "category": "museum", "coords": [25.544458, 41.932447]}, {"name": "Marsa", "text": "An archaeological site in Haskovo featuring remains of an ancient fortress.", "category": "historical", "coords": [25.552235, 41.923488]}, {"name": "The Monument of the Holy Mother of God", "text": "The world's tallest statue of the Virgin Mary with the Infant Jesus.", "category": "historical", "coords": [25.554081, 41.928362]}, {"name": "Kapitan Petko voivoda", "text": "A monument honoring the Bulgarian revolutionary Petko Voyvoda.", "category": "historical", "coords": [25.561506, 41.932352]}, {"name": "1000 godini Haskovo", "text": "A commemorative monument marking 1000 years since the founding of Haskovo.", "category": "historical", "coords": [25.555729, 41.932562]}, {"name": "Feliks Dzerzhinski", "text": "A monument in Haskovo dedicated to a historical figure.", "category": "historical", "coords": [25.561198, 41.92951]}, {"name": "Hudozhestvena galeriya - Haskovo", "text": "A gallery exhibiting contemporary and classical artworks in Haskovo.", "category": "cultural", "coords": [25.549172, 41.93244]}]},
+    id: "city-haskovo", "sights": {
+      "de": [
+            {
+                  "name": "Zoopark \"Haskovo\"",
+                  "text": "Ein kleiner Zoo in Haskowo, der verschiedene einheimische und exotische Tierarten beherbergt.",
+                  "category": "family",
+                  "coords": [
+                        25.535719,
+                        41.953823
+                  ]
+            },
+            {
+                  "name": "Kashta na Boyadzhi Oglu",
+                  "text": "Ein Museum in Chaskowo, das der lokalen Geschichte und Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.54669,
+                        41.935143
+                  ]
+            },
+            {
+                  "name": "Kashtata na chorbadzhi Dimitrak",
+                  "text": "Ein historisches Hausmuseum, das die traditionelle Architektur der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.545152,
+                        41.934594
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei",
+                  "text": "Dieses Museum bewahrt das kulturelle Erbe und die Geschichte der Region Chaskowo.",
+                  "category": "museum",
+                  "coords": [
+                        25.558014,
+                        41.932439
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Ivan Dimov\"",
+                  "text": "Ein bedeutendes Kulturzentrum in Chaskowo für dramatische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.553595,
+                        41.932294
+                  ]
+            },
+            {
+                  "name": "Kirkovoto uchilishte",
+                  "text": "Ein historisches Gebäude in Chaskowo, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        25.550897,
+                        41.93297
+                  ]
+            },
+            {
+                  "name": "Paskalevata kashta",
+                  "text": "Ein ethnographisches Museum, das in einem charmanten alten Wohnhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.544458,
+                        41.932447
+                  ]
+            },
+            {
+                  "name": "Marsa",
+                  "text": "Eine archäologische Stätte in Chaskowo mit Überresten einer antiken Festung.",
+                  "category": "historical",
+                  "coords": [
+                        25.552235,
+                        41.923488
+                  ]
+            },
+            {
+                  "name": "Sveta Bogoroditsa",
+                  "text": "Die weltweit höchste Statue der Jungfrau Maria mit dem Jesuskind.",
+                  "category": "historical",
+                  "coords": [
+                        25.554081,
+                        41.928362
+                  ]
+            },
+            {
+                  "name": "Kapitan Petko voivoda",
+                  "text": "Ein Denkmal zu Ehren des bulgarischen Revolutionärs Petko Wojwoda.",
+                  "category": "historical",
+                  "coords": [
+                        25.561506,
+                        41.932352
+                  ]
+            },
+            {
+                  "name": "1000 godini Haskovo",
+                  "text": "Ein Gedenkdenkmal zum 1000-jährigen Bestehen der Stadt Chaskowo.",
+                  "category": "historical",
+                  "coords": [
+                        25.555729,
+                        41.932562
+                  ]
+            },
+            {
+                  "name": "Feliks Dzerzhinski",
+                  "text": "Ein Denkmal in Chaskowo, das einer historischen Persönlichkeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.561198,
+                        41.92951
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya - Haskovo",
+                  "text": "Eine Galerie, die zeitgenössische und klassische Kunstwerke in Chaskowo ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        25.549172,
+                        41.93244
+                  ]
+            },
+            {
+                  "name": "Maiami",
+                  "text": "Ein öffentliches Schwimmbad in Haskovo für sportliche Betätigung und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        25.564988,
+                        41.920339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoopark \"Haskovo\"",
+                  "text": "Kis állatkert Haszkovóban, amely számos hazai és egzotikus állatfajnak ad otthont.",
+                  "category": "family",
+                  "coords": [
+                        25.535719,
+                        41.953823
+                  ]
+            },
+            {
+                  "name": "Kashta na Boyadzhi Oglu",
+                  "text": "Haszkovó helytörténeti és kulturális múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        25.54669,
+                        41.935143
+                  ]
+            },
+            {
+                  "name": "Kashtata na chorbadzhi Dimitrak",
+                  "text": "Hagyományos építészeti stílust bemutató történelmi házmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.545152,
+                        41.934594
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei",
+                  "text": "A múzeum Haszkovó régiójának kulturális örökségét és történelmét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        25.558014,
+                        41.932439
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Ivan Dimov\"",
+                  "text": "Haszkovó jelentős kulturális központja színdarabok előadására.",
+                  "category": "cultural",
+                  "coords": [
+                        25.553595,
+                        41.932294
+                  ]
+            },
+            {
+                  "name": "Kirkovoto uchilishte",
+                  "text": "Haszkovói történelmi épület, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        25.550897,
+                        41.93297
+                  ]
+            },
+            {
+                  "name": "Paskalevata kashta",
+                  "text": "Egy bájos régi lakóházban kialakított néprajzi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.544458,
+                        41.932447
+                  ]
+            },
+            {
+                  "name": "Marsa",
+                  "text": "Haszkovói régészeti lelőhely egy ókori erőd maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        25.552235,
+                        41.923488
+                  ]
+            },
+            {
+                  "name": "Sveta Bogoroditsa",
+                  "text": "A világ legmagasabb Szűz Mária-szobra a gyermek Jézussal.",
+                  "category": "historical",
+                  "coords": [
+                        25.554081,
+                        41.928362
+                  ]
+            },
+            {
+                  "name": "Kapitan Petko voivoda",
+                  "text": "Petko Vojvoda bolgár forradalmár tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        25.561506,
+                        41.932352
+                  ]
+            },
+            {
+                  "name": "1000 godini Haskovo",
+                  "text": "Haszkovó város ezeréves fennállásának emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        25.555729,
+                        41.932562
+                  ]
+            },
+            {
+                  "name": "Feliks Dzerzhinski",
+                  "text": "Történelmi személyiségnek szentelt emlékmű Haszkovóban.",
+                  "category": "historical",
+                  "coords": [
+                        25.561198,
+                        41.92951
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya - Haskovo",
+                  "text": "Kortárs és klasszikus műalkotásokat bemutató galéria Haszkovóban.",
+                  "category": "cultural",
+                  "coords": [
+                        25.549172,
+                        41.93244
+                  ]
+            },
+            {
+                  "name": "Maiami",
+                  "text": "Nyilvános uszoda Haszkovóban sportolási és pihenési lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        25.564988,
+                        41.920339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoopark \"Haskovo\"",
+                  "text": "O mică grădină zoologică în Haskovo, care adăpostește diverse specii de animale locale și exotice.",
+                  "category": "family",
+                  "coords": [
+                        25.535719,
+                        41.953823
+                  ]
+            },
+            {
+                  "name": "Kashta na Boyadzhi Oglu",
+                  "text": "Un muzeu din Haskovo dedicat istoriei și culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        25.54669,
+                        41.935143
+                  ]
+            },
+            {
+                  "name": "Kashtata na chorbadzhi Dimitrak",
+                  "text": "O casă muzeu istorică ce prezintă arhitectura tradițională a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        25.545152,
+                        41.934594
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei",
+                  "text": "Acest muzeu păstrează moștenirea culturală și istoria regiunii Haskovo.",
+                  "category": "museum",
+                  "coords": [
+                        25.558014,
+                        41.932439
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Ivan Dimov\"",
+                  "text": "Un centru cultural important din Haskovo pentru spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        25.553595,
+                        41.932294
+                  ]
+            },
+            {
+                  "name": "Kirkovoto uchilishte",
+                  "text": "O clădire istorică din Haskovo care astăzi servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        25.550897,
+                        41.93297
+                  ]
+            },
+            {
+                  "name": "Paskalevata kashta",
+                  "text": "Un muzeu etnografic găzduit într-o casă veche fermecătoare.",
+                  "category": "museum",
+                  "coords": [
+                        25.544458,
+                        41.932447
+                  ]
+            },
+            {
+                  "name": "Marsa",
+                  "text": "Un sit arheologic din Haskovo cu vestigii ale unei vechi cetăți.",
+                  "category": "historical",
+                  "coords": [
+                        25.552235,
+                        41.923488
+                  ]
+            },
+            {
+                  "name": "Sveta Bogoroditsa",
+                  "text": "Cea mai înaltă statuie din lume a Fecioarei Maria cu Pruncul Iisus.",
+                  "category": "historical",
+                  "coords": [
+                        25.554081,
+                        41.928362
+                  ]
+            },
+            {
+                  "name": "Kapitan Petko voivoda",
+                  "text": "Un monument ridicat în onoarea revoluționarului bulgar Petko Voivoda.",
+                  "category": "historical",
+                  "coords": [
+                        25.561506,
+                        41.932352
+                  ]
+            },
+            {
+                  "name": "1000 godini Haskovo",
+                  "text": "Un monument comemorativ care marchează 1000 de ani de la înființarea orașului Haskovo.",
+                  "category": "historical",
+                  "coords": [
+                        25.555729,
+                        41.932562
+                  ]
+            },
+            {
+                  "name": "Feliks Dzerzhinski",
+                  "text": "Un monument din Haskovo dedicat unei figuri istorice.",
+                  "category": "historical",
+                  "coords": [
+                        25.561198,
+                        41.92951
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya - Haskovo",
+                  "text": "O galerie care expune opere de artă contemporană și clasică în Haskovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.549172,
+                        41.93244
+                  ]
+            },
+            {
+                  "name": "Maiami",
+                  "text": "O piscină publică în Haskovo pentru activități sportive și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        25.564988,
+                        41.920339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoopark \"Haskovo\"",
+                  "text": "A small zoo in Haskovo housing various domestic and exotic animal species.",
+                  "category": "family",
+                  "coords": [
+                        25.535719,
+                        41.953823
+                  ]
+            },
+            {
+                  "name": "Kashta na Boyadzhi Oglu",
+                  "text": "A museum in Haskovo dedicated to local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        25.54669,
+                        41.935143
+                  ]
+            },
+            {
+                  "name": "Kashtata na chorbadzhi Dimitrak",
+                  "text": "A historic house museum showcasing the traditional architecture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        25.545152,
+                        41.934594
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei",
+                  "text": "This museum preserves the cultural heritage and history of the Haskovo region.",
+                  "category": "museum",
+                  "coords": [
+                        25.558014,
+                        41.932439
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Ivan Dimov\"",
+                  "text": "A prominent cultural center in Haskovo for dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        25.553595,
+                        41.932294
+                  ]
+            },
+            {
+                  "name": "Kirkovoto uchilishte",
+                  "text": "A historical building in Haskovo that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        25.550897,
+                        41.93297
+                  ]
+            },
+            {
+                  "name": "Paskalevata kashta",
+                  "text": "An ethnographic museum housed in a charming old residential house.",
+                  "category": "museum",
+                  "coords": [
+                        25.544458,
+                        41.932447
+                  ]
+            },
+            {
+                  "name": "Marsa",
+                  "text": "An archaeological site in Haskovo featuring remains of an ancient fortress.",
+                  "category": "historical",
+                  "coords": [
+                        25.552235,
+                        41.923488
+                  ]
+            },
+            {
+                  "name": "The Monument of the Holy Mother of God",
+                  "text": "The world's tallest statue of the Virgin Mary with the Infant Jesus.",
+                  "category": "historical",
+                  "coords": [
+                        25.554081,
+                        41.928362
+                  ]
+            },
+            {
+                  "name": "Kapitan Petko voivoda",
+                  "text": "A monument honoring the Bulgarian revolutionary Petko Voyvoda.",
+                  "category": "historical",
+                  "coords": [
+                        25.561506,
+                        41.932352
+                  ]
+            },
+            {
+                  "name": "1000 godini Haskovo",
+                  "text": "A commemorative monument marking 1000 years since the founding of Haskovo.",
+                  "category": "historical",
+                  "coords": [
+                        25.555729,
+                        41.932562
+                  ]
+            },
+            {
+                  "name": "Feliks Dzerzhinski",
+                  "text": "A monument in Haskovo dedicated to a historical figure.",
+                  "category": "historical",
+                  "coords": [
+                        25.561198,
+                        41.92951
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya - Haskovo",
+                  "text": "A gallery exhibiting contemporary and classical artworks in Haskovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.549172,
+                        41.93244
+                  ]
+            },
+            {
+                  "name": "Maiami",
+                  "text": "A public swimming pool in Haskovo for sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        25.564988,
+                        41.920339
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [25.5560, 41.9341],

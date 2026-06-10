@@ -58,6 +58,24 @@ export const spainHistoryV2: POI[] = [
                         -0.283188,
                         39.67686
                   ]
+            },
+            {
+                  "name": "Casal Jove de Sagunt",
+                  "text": "Ein Schwimmbad in der Nähe der historischen Burg von Sagunt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.281324,
+                        39.681317
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein städtisches Schwimmbad in der Umgebung der Burg von Sagunt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.277237,
+                        39.684724
+                  ]
             }
       ],
       "hu": [
@@ -113,6 +131,24 @@ export const spainHistoryV2: POI[] = [
                   "coords": [
                         -0.283188,
                         39.67686
+                  ]
+            },
+            {
+                  "name": "Casal Jove de Sagunt",
+                  "text": "Úszómedence a történelmi Sagunto vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.281324,
+                        39.681317
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Városi úszómedence Sagunto vára környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.277237,
+                        39.684724
                   ]
             }
       ],
@@ -170,6 +206,24 @@ export const spainHistoryV2: POI[] = [
                         -0.283188,
                         39.67686
                   ]
+            },
+            {
+                  "name": "Casal Jove de Sagunt",
+                  "text": "O piscină situată în apropierea castelului istoric din Sagunto.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.281324,
+                        39.681317
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină municipală în zona castelului din Sagunto.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.277237,
+                        39.684724
+                  ]
             }
       ],
       "en": [
@@ -225,6 +279,24 @@ export const spainHistoryV2: POI[] = [
                   "coords": [
                         -0.283188,
                         39.67686
+                  ]
+            },
+            {
+                  "name": "Casal Jove de Sagunt",
+                  "text": "A swimming pool located near the historic Sagunto Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.281324,
+                        39.681317
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A municipal swimming pool in the vicinity of Sagunto Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.277237,
+                        39.684724
                   ]
             }
       ]
@@ -674,7 +746,160 @@ imageHint: "The Scaenae frons of the Roman Theatre in Merida",
     },
     image: "/poi-images/spain-merida-theatre-history-v2.webp",
 },  {
-    id: "spain-tarraco-amphitheatre-history-v2",
+    id: "spain-tarraco-amphitheatre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Platja de l'Arrabassada",
+                  "text": "Ein beliebter Stadtstrand in Tarragona mit feinem Sand und gutem Service.",
+                  "category": "recreational",
+                  "coords": [
+                        1.276025,
+                        41.119254
+                  ]
+            },
+            {
+                  "name": "Platja dels Capellans",
+                  "text": "Eine kleine, gemütliche Bucht in Tarragona, ideal für ein ruhiges Bad im Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290941,
+                        41.125268
+                  ]
+            },
+            {
+                  "name": "Platja Savinosa",
+                  "text": "Ein feiner Sandstrand in Tarragona, der für sein klares Wasser geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        1.285364,
+                        41.123134
+                  ]
+            },
+            {
+                  "name": "Platja dels Cossis",
+                  "text": "Eine kleine Felsenbucht in Tarragona, die zum Sonnenbaden und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.269169,
+                        41.113753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Platja de l'Arrabassada",
+                  "text": "Tarragona népszerű városi strandja finom homokkal és jó szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        1.276025,
+                        41.119254
+                  ]
+            },
+            {
+                  "name": "Platja dels Capellans",
+                  "text": "Kicsi, hangulatos öböl Tarragonában, amely ideális egy nyugodt fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290941,
+                        41.125268
+                  ]
+            },
+            {
+                  "name": "Platja Savinosa",
+                  "text": "Finom homokos strand Tarragonában, amelyet tiszta vizéért kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        1.285364,
+                        41.123134
+                  ]
+            },
+            {
+                  "name": "Platja dels Cossis",
+                  "text": "Kicsi sziklás öböl Tarragonában, amely napozásra és pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        1.269169,
+                        41.113753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Platja de l'Arrabassada",
+                  "text": "O plajă urbană populară în Tarragona, cu nisip fin și servicii bune.",
+                  "category": "recreational",
+                  "coords": [
+                        1.276025,
+                        41.119254
+                  ]
+            },
+            {
+                  "name": "Platja dels Capellans",
+                  "text": "Un golf mic și primitor în Tarragona, ideal pentru o baie liniștită în mare.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290941,
+                        41.125268
+                  ]
+            },
+            {
+                  "name": "Platja Savinosa",
+                  "text": "O plajă cu nisip fin în Tarragona, apreciată pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        1.285364,
+                        41.123134
+                  ]
+            },
+            {
+                  "name": "Platja dels Cossis",
+                  "text": "Un mic golf stâncos în Tarragona, care invită la plajă și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        1.269169,
+                        41.113753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Platja de l'Arrabassada",
+                  "text": "A popular urban beach in Tarragona with fine sand and good services.",
+                  "category": "recreational",
+                  "coords": [
+                        1.276025,
+                        41.119254
+                  ]
+            },
+            {
+                  "name": "Platja dels Capellans",
+                  "text": "A small, cozy cove in Tarragona ideal for a quiet swim.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290941,
+                        41.125268
+                  ]
+            },
+            {
+                  "name": "Platja Savinosa",
+                  "text": "A fine sand beach in Tarragona appreciated for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        1.285364,
+                        41.123134
+                  ]
+            },
+            {
+                  "name": "Platja dels Cossis",
+                  "text": "A small rocky cove in Tarragona inviting sunbathing and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        1.269169,
+                        41.113753
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Amphitheater von Tarraco", hu: "Tarraco amfiteátruma", ro: "Amfiteatrul din Tarraco", en: "Tarraco Amphitheatre"},
@@ -887,6 +1112,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                         -4.152541,
                         40.568537
                   ]
+            },
+            {
+                  "name": "Piscina Don Felipe",
+                  "text": "Ein öffentliches Schwimmbad in El Escorial, das Abkühlung und Freizeitspaß bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.123144,
+                        40.579304
+                  ]
             }
       ],
       "hu": [
@@ -960,6 +1194,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                   "coords": [
                         -4.152541,
                         40.568537
+                  ]
+            },
+            {
+                  "name": "Piscina Don Felipe",
+                  "text": "Nyilvános úszómedence El Escorialban, amely felfrissülést és szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.123144,
+                        40.579304
                   ]
             }
       ],
@@ -1035,6 +1278,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                         -4.152541,
                         40.568537
                   ]
+            },
+            {
+                  "name": "Piscina Don Felipe",
+                  "text": "O piscină publică în El Escorial, oferind facilități pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.123144,
+                        40.579304
+                  ]
             }
       ],
       "en": [
@@ -1108,6 +1360,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                   "coords": [
                         -4.152541,
                         40.568537
+                  ]
+            },
+            {
+                  "name": "Piscina Don Felipe",
+                  "text": "A public swimming pool in El Escorial providing cooling and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.123144,
+                        40.579304
                   ]
             }
       ]
@@ -1613,6 +1874,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                         -0.730108,
                         41.292256
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Piscina municipal ist das städtische Schwimmbad von Old Belchite.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.789531,
+                        41.281858
+                  ]
             }
       ],
       "hu": [
@@ -1677,6 +1947,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                   "coords": [
                         -0.730108,
                         41.292256
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "A Piscina municipal Old Belchite városi uszodája.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.789531,
+                        41.281858
                   ]
             }
       ],
@@ -1743,6 +2022,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                         -0.730108,
                         41.292256
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Piscina municipal este piscina municipală din Old Belchite.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.789531,
+                        41.281858
+                  ]
             }
       ],
       "en": [
@@ -1807,6 +2095,15 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
                   "coords": [
                         -0.730108,
                         41.292256
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Piscina municipal is the municipal swimming pool of Old Belchite.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.789531,
+                        41.281858
                   ]
             }
       ]
@@ -2798,7 +3095,340 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
     },
   },
   {
-    id: "spain-tower-hercules-landmark-history-v2",
+    id: "spain-tower-hercules-landmark-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Portiño",
+                  "text": "Ein natürlicher Strand in A Coruña, in der Nähe des Herkulesturms.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446466,
+                        43.372454
+                  ]
+            },
+            {
+                  "name": "Praia das Lapas",
+                  "text": "Ein kleiner, geschützter Sandstrand direkt unterhalb des antiken Herkulesturms.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.406126,
+                        43.383764
+                  ]
+            },
+            {
+                  "name": "Praia de Santo Amaro",
+                  "text": "Ein städtischer Strand in A Coruña, der sich entlang der Promenade erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.39679,
+                        43.381803
+                  ]
+            },
+            {
+                  "name": "Praia do Coído",
+                  "text": "Ein felsiger Küstenabschnitt in der Nähe des Herkulesturms in Galicien.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395714,
+                        43.386175
+                  ]
+            },
+            {
+                  "name": "Praia de Durmideiras",
+                  "text": "Ein ruhiger Strand in A Coruña, ideal für entspannte Stunden am Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393707,
+                        43.383986
+                  ]
+            },
+            {
+                  "name": "Praia do Mouro",
+                  "text": "Ein kleiner Strand in der Nähe der berühmten Sehenswürdigkeiten von A Coruña.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392712,
+                        43.384444
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Cetaria",
+                  "text": "Ein Küstenbereich in A Coruña, der Natur und Meerblick vereint.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.419585,
+                        43.373996
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Lino",
+                  "text": "Ein lokaler Strandabschnitt in A Coruña, nahe dem historischen Herkulesturm.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418827,
+                        43.372331
+                  ]
+            },
+            {
+                  "name": "Praia das Morosas",
+                  "text": "Ein malerischer Ort an der galicischen Küste für ruhige Strandtage.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.408551,
+                        43.379078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Portiño",
+                  "text": "Természetes strand A Coruñában, a Herkules-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446466,
+                        43.372454
+                  ]
+            },
+            {
+                  "name": "Praia das Lapas",
+                  "text": "Kicsi, védett homokos strand közvetlenül az ősi Herkules-torony alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.406126,
+                        43.383764
+                  ]
+            },
+            {
+                  "name": "Praia de Santo Amaro",
+                  "text": "Városi strand A Coruñában, amely a sétány mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.39679,
+                        43.381803
+                  ]
+            },
+            {
+                  "name": "Praia do Coído",
+                  "text": "Sziklás tengerparti szakasz a galíciai Herkules-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395714,
+                        43.386175
+                  ]
+            },
+            {
+                  "name": "Praia de Durmideiras",
+                  "text": "Csendes strand A Coruñában, ideális az Atlanti-óceán partján való pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393707,
+                        43.383986
+                  ]
+            },
+            {
+                  "name": "Praia do Mouro",
+                  "text": "Kis strand A Coruña híres látnivalóinak közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392712,
+                        43.384444
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Cetaria",
+                  "text": "Tengerparti terület A Coruñában, amely egyesíti a természetet és a tengeri kilátást.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.419585,
+                        43.373996
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Lino",
+                  "text": "Helyi strandszakasz A Coruñában, a történelmi Herkules-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418827,
+                        43.372331
+                  ]
+            },
+            {
+                  "name": "Praia das Morosas",
+                  "text": "Festői hely a galíciai tengerparton a csendes strandoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.408551,
+                        43.379078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Portiño",
+                  "text": "O plajă naturală în A Coruña, situată în apropierea Turnului lui Hercule.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446466,
+                        43.372454
+                  ]
+            },
+            {
+                  "name": "Praia das Lapas",
+                  "text": "O plajă mică și protejată de nisip, situată chiar sub anticul Turn al lui Hercule.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.406126,
+                        43.383764
+                  ]
+            },
+            {
+                  "name": "Praia de Santo Amaro",
+                  "text": "O plajă urbană în A Coruña, care se întinde de-a lungul promenadei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.39679,
+                        43.381803
+                  ]
+            },
+            {
+                  "name": "Praia do Coído",
+                  "text": "O secțiune de coastă stâncoasă în apropierea Turnului lui Hercule din Galicia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395714,
+                        43.386175
+                  ]
+            },
+            {
+                  "name": "Praia de Durmideiras",
+                  "text": "O plajă liniștită în A Coruña, ideală pentru momente de relaxare la Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393707,
+                        43.383986
+                  ]
+            },
+            {
+                  "name": "Praia do Mouro",
+                  "text": "O plajă mică situată în apropierea obiectivelor turistice faimoase din A Coruña.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392712,
+                        43.384444
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Cetaria",
+                  "text": "O zonă de coastă în A Coruña, care îmbină natura cu vederea la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.419585,
+                        43.373996
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Lino",
+                  "text": "O secțiune locală de plajă în A Coruña, aproape de istoricul Turn al lui Hercule.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418827,
+                        43.372331
+                  ]
+            },
+            {
+                  "name": "Praia das Morosas",
+                  "text": "Un loc pitoresc pe coasta galiciană pentru zile liniștite la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.408551,
+                        43.379078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Portiño",
+                  "text": "A natural beach in A Coruña, located near the Tower of Hercules.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446466,
+                        43.372454
+                  ]
+            },
+            {
+                  "name": "Praia das Lapas",
+                  "text": "A small, sheltered sandy beach located directly beneath the ancient Tower of Hercules.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.406126,
+                        43.383764
+                  ]
+            },
+            {
+                  "name": "Praia de Santo Amaro",
+                  "text": "An urban beach in A Coruña stretching along the waterfront promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.39679,
+                        43.381803
+                  ]
+            },
+            {
+                  "name": "Praia do Coído",
+                  "text": "A rocky stretch of coastline near the Tower of Hercules in Galicia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395714,
+                        43.386175
+                  ]
+            },
+            {
+                  "name": "Praia de Durmideiras",
+                  "text": "A quiet beach in A Coruña, ideal for relaxing moments by the Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393707,
+                        43.383986
+                  ]
+            },
+            {
+                  "name": "Praia do Mouro",
+                  "text": "A small beach located near the famous landmarks of A Coruña.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392712,
+                        43.384444
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Cetaria",
+                  "text": "A coastal area in A Coruña combining nature and sea views.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.419585,
+                        43.373996
+                  ]
+            },
+            {
+                  "name": "Praia de San Roque-Lino",
+                  "text": "A local beach section in A Coruña, near the historic Tower of Hercules.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418827,
+                        43.372331
+                  ]
+            },
+            {
+                  "name": "Praia das Morosas",
+                  "text": "A scenic spot on the Galician coast for quiet beach days.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.408551,
+                        43.379078
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "tower",
     name: { de: "Herkulesturm", hu: "Herkules-torony", ro: "Turnul lui Hercule", en: "Tower of Hercules"},
@@ -2964,6 +3594,15 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                         1.08568,
                         41.367739
                   ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "Das große Schwimmbecken in der Nähe des Klosters Poblet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
+                  ]
             }
       ],
       "hu": [
@@ -3037,6 +3676,15 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   "coords": [
                         1.08568,
                         41.367739
+                  ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "A Poblet-kolostor közelében található nagy úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
                   ]
             }
       ],
@@ -3112,6 +3760,15 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                         1.08568,
                         41.367739
                   ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "Piscina mare situată în apropierea mănăstirii Poblet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
+                  ]
             }
       ],
       "en": [
@@ -3185,6 +3842,15 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   "coords": [
                         1.08568,
                         41.367739
+                  ]
+            },
+            {
+                  "name": "Piscina gran",
+                  "text": "The large swimming pool located near the Poblet Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        1.041053,
+                        41.403929
                   ]
             }
       ]
@@ -3299,6 +3965,33 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                         -5.699025,
                         40.129352
                   ]
+            },
+            {
+                  "name": "Garganta de Pedro Chate",
+                  "text": "Ein natürliches Schwimmbecken in der Nähe des Klosters von Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.748596,
+                        40.079972
+                  ]
+            },
+            {
+                  "name": "Piscina Vieja",
+                  "text": "Ein Schwimmbad in der Umgebung des historischen Klosters von Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.695536,
+                        40.134792
+                  ]
+            },
+            {
+                  "name": "Piscina natural Las Pilatillas",
+                  "text": "Natürliche Badebecken, die eine malerische Badestelle beim Kloster von Yuste bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.777439,
+                        40.116968
+                  ]
             }
       ],
       "hu": [
@@ -3363,6 +4056,33 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   "coords": [
                         -5.699025,
                         40.129352
+                  ]
+            },
+            {
+                  "name": "Garganta de Pedro Chate",
+                  "text": "Egy természetes úszómedence a Yuste-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.748596,
+                        40.079972
+                  ]
+            },
+            {
+                  "name": "Piscina Vieja",
+                  "text": "Egy úszómedence a történelmi Yuste-kolostor környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.695536,
+                        40.134792
+                  ]
+            },
+            {
+                  "name": "Piscina natural Las Pilatillas",
+                  "text": "Természetes medencék, amelyek festői fürdőhelyet kínálnak a Yuste-kolostornál.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.777439,
+                        40.116968
                   ]
             }
       ],
@@ -3429,6 +4149,33 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                         -5.699025,
                         40.129352
                   ]
+            },
+            {
+                  "name": "Garganta de Pedro Chate",
+                  "text": "O piscină naturală situată în apropierea Mănăstirii Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.748596,
+                        40.079972
+                  ]
+            },
+            {
+                  "name": "Piscina Vieja",
+                  "text": "O piscină situată în zona mănăstirii istorice Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.695536,
+                        40.134792
+                  ]
+            },
+            {
+                  "name": "Piscina natural Las Pilatillas",
+                  "text": "Piscine naturale care oferă un loc de scăldat pitoresc la Mănăstirea Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.777439,
+                        40.116968
+                  ]
             }
       ],
       "en": [
@@ -3493,6 +4240,33 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   "coords": [
                         -5.699025,
                         40.129352
+                  ]
+            },
+            {
+                  "name": "Garganta de Pedro Chate",
+                  "text": "A natural swimming pool located near the Monastery of Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.748596,
+                        40.079972
+                  ]
+            },
+            {
+                  "name": "Piscina Vieja",
+                  "text": "A swimming pool located in the area of the historic Monastery of Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.695536,
+                        40.134792
+                  ]
+            },
+            {
+                  "name": "Piscina natural Las Pilatillas",
+                  "text": "Natural pools providing a scenic swimming spot at the Monastery of Yuste.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.777439,
+                        40.116968
                   ]
             }
       ]
@@ -3851,7 +4625,124 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
     },
   },
   {
-    id: "spain-baelo-claudia-ruins-history-v2",
+    id: "spain-baelo-claudia-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de los Alemanes",
+                  "text": "Ein malerischer Strand mit feinem Sand in der Nähe von Zahara de los Atunes.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.814458,
+                        36.096189
+                  ]
+            },
+            {
+                  "name": "Playa de Bolonia",
+                  "text": "Ein berühmter Strand, bekannt für seine riesige Wanderdüne und die römischen Ruinen.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.773839,
+                        36.085407
+                  ]
+            },
+            {
+                  "name": "Playa del Cañuelo",
+                  "text": "Ein kleiner, naturbelassener Strand in einer unberührten Umgebung bei Baelo Claudia.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.804777,
+                        36.088086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de los Alemanes",
+                  "text": "Festői, finomhomokos strand Zahara de los Atunes közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.814458,
+                        36.096189
+                  ]
+            },
+            {
+                  "name": "Playa de Bolonia",
+                  "text": "Híres strand, amely hatalmas vándoridűnéjéről és a római kori romokról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.773839,
+                        36.085407
+                  ]
+            },
+            {
+                  "name": "Playa del Cañuelo",
+                  "text": "Kicsi, érintetlen környezetben fekvő természetes strand Baelo Claudia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.804777,
+                        36.088086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de los Alemanes",
+                  "text": "O plajă pitorească cu nisip fin, situată lângă Zahara de los Atunes.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.814458,
+                        36.096189
+                  ]
+            },
+            {
+                  "name": "Playa de Bolonia",
+                  "text": "O plajă celebră, cunoscută pentru duna sa uriașă și ruinele romane.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.773839,
+                        36.085407
+                  ]
+            },
+            {
+                  "name": "Playa del Cañuelo",
+                  "text": "O plajă mică și naturală, situată întrun cadru virgin lângă Baelo Claudia.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.804777,
+                        36.088086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa de los Alemanes",
+                  "text": "A picturesque beach with fine sand, located near Zahara de los Atunes.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.814458,
+                        36.096189
+                  ]
+            },
+            {
+                  "name": "Bolonia Beach",
+                  "text": "A famous beach known for its massive sand dune and nearby Roman ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.773839,
+                        36.085407
+                  ]
+            },
+            {
+                  "name": "Playa del Cañuelo",
+                  "text": "A small, natural beach located in a pristine setting near Baelo Claudia.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.804777,
+                        36.088086
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Baelo Claudia", hu: "Baelo Claudia", ro: "Baelo Claudia", en: "Baelo Claudia"},
@@ -3971,6 +4862,69 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                         3.119758,
                         42.138051
                   ]
+            },
+            {
+                  "name": "Platja des les Dunes",
+                  "text": "Ein langer Sandstrand in Empuries, der direkt an die antiken griechisch-römischen Ruinen grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        3.113985,
+                        42.156219
+                  ]
+            },
+            {
+                  "name": "Platja del Portitxol",
+                  "text": "Ein ikonischer Strand bei Empuries, bekannt als Ort der ersten griechischen Landung in der Region.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122312,
+                        42.131775
+                  ]
+            },
+            {
+                  "name": "Platja del Pedrigolet",
+                  "text": "Eine kleine, felsige Bucht in Empuries, die zwischen den größeren Sandstränden liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124015,
+                        42.130101
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Ein Freizeitpark in Empuries mit verschiedenen Attraktionen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        3.13654,
+                        42.117021
+                  ]
+            },
+            {
+                  "name": "La Bassa de Can Miquel",
+                  "text": "Eine Schwimmeinrichtung in Empuries für lokale Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        3.167917,
+                        42.107475
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Das städtische Schwimmbad von Empuries für Sport und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        3.129215,
+                        42.122693
+                  ]
+            },
+            {
+                  "name": "Platja dels Riells",
+                  "text": "Ein weiter Sandstrand in der Nähe von Empuries, ideal für Familien und Wassersport.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140006,
+                        42.11513
+                  ]
             }
       ],
       "hu": [
@@ -4044,6 +4998,69 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   "coords": [
                         3.119758,
                         42.138051
+                  ]
+            },
+            {
+                  "name": "Platja des les Dunes",
+                  "text": "Hosszú homokos strand Empuriesben, amely közvetlenül az ókori görög-római romok mellett fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        3.113985,
+                        42.156219
+                  ]
+            },
+            {
+                  "name": "Platja del Portitxol",
+                  "text": "Ikonikus strand Empuries közelében, amely a régió első görög partraszállásának helyszíneként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122312,
+                        42.131775
+                  ]
+            },
+            {
+                  "name": "Platja del Pedrigolet",
+                  "text": "Kicsi, sziklás öböl Empuriesben, amely a nagyobb homokos strandok között található.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124015,
+                        42.130101
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Empuries vidámparkja, amely különféle attrakciókkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        3.13654,
+                        42.117021
+                  ]
+            },
+            {
+                  "name": "La Bassa de Can Miquel",
+                  "text": "Úszóhely Empuries területén, amely kikapcsolódást nyújt a helyieknek és látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        3.167917,
+                        42.107475
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Empuries városi úszómedencéje sportolási és szabadidős célokra.",
+                  "category": "recreational",
+                  "coords": [
+                        3.129215,
+                        42.122693
+                  ]
+            },
+            {
+                  "name": "Platja dels Riells",
+                  "text": "Empuries közeli széles, homokos tengerpart, amely ideális családoknak és vízi sportokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140006,
+                        42.11513
                   ]
             }
       ],
@@ -4119,6 +5136,69 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                         3.119758,
                         42.138051
                   ]
+            },
+            {
+                  "name": "Platja des les Dunes",
+                  "text": "O plajă lungă cu nisip în Empuries, adiacentă ruinelor antice greco-romane.",
+                  "category": "recreational",
+                  "coords": [
+                        3.113985,
+                        42.156219
+                  ]
+            },
+            {
+                  "name": "Platja del Portitxol",
+                  "text": "O plajă emblematică lângă Empuries, cunoscută ca locul primei debarcări grecești în regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122312,
+                        42.131775
+                  ]
+            },
+            {
+                  "name": "Platja del Pedrigolet",
+                  "text": "Un mic golf stâncos în Empuries, situat între plajele mai mari cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124015,
+                        42.130101
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Un parc de distracții în Empuries, cu diverse atracții pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        3.13654,
+                        42.117021
+                  ]
+            },
+            {
+                  "name": "La Bassa de Can Miquel",
+                  "text": "O facilitate pentru înot în Empuries, potrivită pentru relaxare locală.",
+                  "category": "recreational",
+                  "coords": [
+                        3.167917,
+                        42.107475
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Piscina municipală din Empuries pentru sport și petrecerea timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        3.129215,
+                        42.122693
+                  ]
+            },
+            {
+                  "name": "Platja dels Riells",
+                  "text": "O plajă întinsă cu nisip lângă Empuries, ideală pentru familii și sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140006,
+                        42.11513
+                  ]
             }
       ],
       "en": [
@@ -4192,6 +5272,69 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   "coords": [
                         3.119758,
                         42.138051
+                  ]
+            },
+            {
+                  "name": "Platja des les Dunes",
+                  "text": "A long sandy beach in Empuries, adjacent to the ancient Greco-Roman ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        3.113985,
+                        42.156219
+                  ]
+            },
+            {
+                  "name": "Platja del Portitxol",
+                  "text": "An iconic beach near Empuries, known as the site of the first Greek landing in the region.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122312,
+                        42.131775
+                  ]
+            },
+            {
+                  "name": "Platja del Pedrigolet",
+                  "text": "A small, rocky cove in Empuries located between the larger sandy beaches.",
+                  "category": "recreational",
+                  "coords": [
+                        3.124015,
+                        42.130101
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "An amusement park in Empuries featuring various attractions for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        3.13654,
+                        42.117021
+                  ]
+            },
+            {
+                  "name": "La Bassa de Can Miquel",
+                  "text": "A swimming facility in Empuries suitable for local recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        3.167917,
+                        42.107475
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "The municipal swimming pool of Empuries for sports and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        3.129215,
+                        42.122693
+                  ]
+            },
+            {
+                  "name": "Platja dels Riells",
+                  "text": "A wide sandy beach near Empuries, ideal for families and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        3.140006,
+                        42.11513
                   ]
             }
       ]
@@ -5840,7 +6983,52 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-monasterio-de-piedra-history-v2.webp",
   },
   {
-    id: "spain-torres-de-serranos-history-v2",
+    id: "spain-torres-de-serranos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "Ein historisches Thermalbad- und Resortgelände in Valencia in der Nähe der Serranos-Türme.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "Történelmi fürdő- és üdülőterület Valenciában, a Serranos-tornyok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "O zonă istorică de spa și stațiune din Valencia, lângă Turnurile Serranos.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balneario La Alameda",
+                  "text": "A historic spa and resort area in Valencia near the Serranos Towers.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.361989,
+                        39.473495
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "ES",
     name: { de: "Serranos-Türme", hu: "Serranos-tornyok", ro: "Turnurile Serranos", en: "Serranos Towers" },
@@ -5885,7 +7073,160 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-torres-de-serranos-history-v2.webp",
   },
   {
-    id: "spain-alcazaba-de-almeria-history-v2",
+    id: "spain-alcazaba-de-almeria-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de Nueva Almería",
+                  "text": "Ein Strand in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.437374,
+                        36.817371
+                  ]
+            },
+            {
+                  "name": "Playa de El Zapillo",
+                  "text": "Ein Strand in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.448094,
+                        36.824574
+                  ]
+            },
+            {
+                  "name": "Playa de San Miguel",
+                  "text": "Ein Strand in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.454128,
+                        36.828298
+                  ]
+            },
+            {
+                  "name": "Playa de la Térmica",
+                  "text": "Ein Strand in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.443308,
+                        36.821568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de Nueva Almería",
+                  "text": "Egy strand Almeríában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.437374,
+                        36.817371
+                  ]
+            },
+            {
+                  "name": "Playa de El Zapillo",
+                  "text": "Egy strand Almeríában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.448094,
+                        36.824574
+                  ]
+            },
+            {
+                  "name": "Playa de San Miguel",
+                  "text": "Egy strand Almeríában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.454128,
+                        36.828298
+                  ]
+            },
+            {
+                  "name": "Playa de la Térmica",
+                  "text": "Egy strand Almeríában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.443308,
+                        36.821568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de Nueva Almería",
+                  "text": "O plajă în Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.437374,
+                        36.817371
+                  ]
+            },
+            {
+                  "name": "Playa de El Zapillo",
+                  "text": "O plajă în Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.448094,
+                        36.824574
+                  ]
+            },
+            {
+                  "name": "Playa de San Miguel",
+                  "text": "O plajă în Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.454128,
+                        36.828298
+                  ]
+            },
+            {
+                  "name": "Playa de la Térmica",
+                  "text": "O plajă în Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.443308,
+                        36.821568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa de Nueva Almería",
+                  "text": "A beach in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.437374,
+                        36.817371
+                  ]
+            },
+            {
+                  "name": "Playa de El Zapillo",
+                  "text": "A beach in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.448094,
+                        36.824574
+                  ]
+            },
+            {
+                  "name": "Playa de San Miguel",
+                  "text": "A beach in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.454128,
+                        36.828298
+                  ]
+            },
+            {
+                  "name": "Playa de la Térmica",
+                  "text": "A beach in Almería.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.443308,
+                        36.821568
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Alcazaba von Almería", hu: "Almería-i Alcazaba", ro: "Alcazaba din Almeria", en: "Alcazaba of Almeria" },
@@ -6417,6 +7758,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -4.68805,
                         41.287236
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Olmedo",
+                  "text": "Piscina Municipal de Olmedo ist ein städtisches Schwimmbad beim Schloss La Mota.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.677017,
+                        41.284966
+                  ]
             }
       ],
       "hu": [
@@ -6472,6 +7822,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -4.68805,
                         41.287236
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Olmedo",
+                  "text": "A Piscina Municipal de Olmedo egy városi uszoda a La Mota vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.677017,
+                        41.284966
                   ]
             }
       ],
@@ -6529,6 +7888,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -4.68805,
                         41.287236
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Olmedo",
+                  "text": "Piscina Municipal de Olmedo este o piscină municipală situată lângă Castelul La Mota.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.677017,
+                        41.284966
+                  ]
             }
       ],
       "en": [
@@ -6584,6 +7952,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -4.68805,
                         41.287236
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Olmedo",
+                  "text": "Piscina Municipal de Olmedo is a municipal swimming pool located near La Mota Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.677017,
+                        41.284966
                   ]
             }
       ]
@@ -6858,6 +8235,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -1.725013,
                         41.824946
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Ein städtisches Schwimmbad in der Nähe des Klosters Veruela.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.695331,
+                        41.78498
+                  ]
             }
       ],
       "hu": [
@@ -6913,6 +8299,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -1.725013,
                         41.824946
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Városi úszómedence a Veruela-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.695331,
+                        41.78498
                   ]
             }
       ],
@@ -6970,6 +8365,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -1.725013,
                         41.824946
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "O piscină municipală situată lângă Mănăstirea Veruela.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.695331,
+                        41.78498
+                  ]
             }
       ],
       "en": [
@@ -7025,6 +8429,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -1.725013,
                         41.824946
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "A municipal swimming pool located near the Veruela Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.695331,
+                        41.78498
                   ]
             }
       ]
@@ -7623,6 +9036,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -3.51967,
                         42.056225
                   ]
+            },
+            {
+                  "name": "río Arlanza",
+                  "text": "Eine Badestelle am Fluss Arlanza beim Kloster San Pedro de Arlanza.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.479144,
+                        42.038956
+                  ]
             }
       ],
       "hu": [
@@ -7687,6 +9109,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -3.51967,
                         42.056225
+                  ]
+            },
+            {
+                  "name": "río Arlanza",
+                  "text": "Fürdőhely az Arlanza-folyónál a San Pedro de Arlanza-kolostornál.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.479144,
+                        42.038956
                   ]
             }
       ],
@@ -7753,6 +9184,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -3.51967,
                         42.056225
                   ]
+            },
+            {
+                  "name": "río Arlanza",
+                  "text": "Un loc de scăldat pe râul Arlanza, lângă mănăstirea San Pedro de Arlanza.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.479144,
+                        42.038956
+                  ]
             }
       ],
       "en": [
@@ -7817,6 +9257,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -3.51967,
                         42.056225
+                  ]
+            },
+            {
+                  "name": "río Arlanza",
+                  "text": "A bathing spot on the Arlanza river by the San Pedro de Arlanza Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.479144,
+                        42.038956
                   ]
             }
       ]
@@ -7929,6 +9378,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -2.705708,
                         39.559006
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Ein städtisches Schwimmbad in der Nähe der historischen Burg von Belmonte.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.669984,
+                        39.597099
+                  ]
             }
       ],
       "hu": [
@@ -7993,6 +9451,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -2.705708,
                         39.559006
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Egy önkormányzati úszómedence a történelmi Belmonte-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.669984,
+                        39.597099
                   ]
             }
       ],
@@ -8059,6 +9526,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -2.705708,
                         39.559006
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "O piscină municipală situată lângă castelul istoric Belmonte.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.669984,
+                        39.597099
+                  ]
             }
       ],
       "en": [
@@ -8123,6 +9599,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -2.705708,
                         39.559006
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "A municipal swimming pool located near the historic Belmonte Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.669984,
+                        39.597099
                   ]
             }
       ]
@@ -8793,6 +10278,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         0.194382,
                         41.910079
                   ]
+            },
+            {
+                  "name": "Parque Acuático de Monzón",
+                  "text": "Ein städtisches Freibad in der Nähe der historischen Burg von Monzón.",
+                  "category": "recreational",
+                  "coords": [
+                        0.185425,
+                        41.901143
+                  ]
             }
       ],
       "hu": [
@@ -8830,6 +10324,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         0.194382,
                         41.910079
+                  ]
+            },
+            {
+                  "name": "Parque Acuático de Monzón",
+                  "text": "Városi strandfürdő a történelmi monzóni vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.185425,
+                        41.901143
                   ]
             }
       ],
@@ -8869,6 +10372,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         0.194382,
                         41.910079
                   ]
+            },
+            {
+                  "name": "Parque Acuático de Monzón",
+                  "text": "O piscină municipală în apropierea castelului istoric din Monzón.",
+                  "category": "recreational",
+                  "coords": [
+                        0.185425,
+                        41.901143
+                  ]
             }
       ],
       "en": [
@@ -8906,6 +10418,15 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         0.194382,
                         41.910079
+                  ]
+            },
+            {
+                  "name": "Parque Acuático de Monzón",
+                  "text": "A municipal outdoor pool located near the historic Monzón Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        0.185425,
+                        41.901143
                   ]
             }
       ]
@@ -9171,6 +10692,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         1.34336,
                         41.35822
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Ein städtisches öffentliches Schwimmbad in der Nähe des Klosters Santes Creus.",
+                  "category": "recreational",
+                  "coords": [
+                        1.360711,
+                        41.386492
+                  ]
+            },
+            {
+                  "name": "Zona Esportiva Plana del Molí",
+                  "text": "Ein Sportgelände mit öffentlichem Schwimmbad nahe dem Santes Creus Kloster.",
+                  "category": "recreational",
+                  "coords": [
+                        1.362148,
+                        41.341447
+                  ]
             }
       ],
       "hu": [
@@ -9217,6 +10756,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         1.34336,
                         41.35822
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "Városi nyilvános úszómedence a Santes Creus-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.360711,
+                        41.386492
+                  ]
+            },
+            {
+                  "name": "Zona Esportiva Plana del Molí",
+                  "text": "Sportközpont nyilvános úszómedencével a Santes Creus-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.362148,
+                        41.341447
                   ]
             }
       ],
@@ -9265,6 +10822,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         1.34336,
                         41.35822
                   ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "O piscină publică municipală situată în apropierea mănăstirii Santes Creus.",
+                  "category": "recreational",
+                  "coords": [
+                        1.360711,
+                        41.386492
+                  ]
+            },
+            {
+                  "name": "Zona Esportiva Plana del Molí",
+                  "text": "O zonă sportivă cu piscină publică situată lângă mănăstirea Santes Creus.",
+                  "category": "recreational",
+                  "coords": [
+                        1.362148,
+                        41.341447
+                  ]
             }
       ],
       "en": [
@@ -9311,6 +10886,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         1.34336,
                         41.35822
+                  ]
+            },
+            {
+                  "name": "Piscina municipal",
+                  "text": "A municipal public swimming pool located near the Santes Creus Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        1.360711,
+                        41.386492
+                  ]
+            },
+            {
+                  "name": "Zona Esportiva Plana del Molí",
+                  "text": "A sports area featuring a public swimming pool near the Santes Creus Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        1.362148,
+                        41.341447
                   ]
             }
       ]
@@ -9864,6 +11457,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -4.321757,
                         37.615674
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Baena",
+                  "text": "Das städtische Schwimmbad von Baena in der Nähe der Burg.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.322535,
+                        37.621276
+                  ]
+            },
+            {
+                  "name": "Piscina Cubierta de Baena",
+                  "text": "Ein Hallenbad in Baena, das sich in der Nähe der Burg befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.323537,
+                        37.621709
+                  ]
             }
       ],
       "hu": [
@@ -9928,6 +11539,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -4.321757,
                         37.615674
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Baena",
+                  "text": "Baena városi úszómedencéje a vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.322535,
+                        37.621276
+                  ]
+            },
+            {
+                  "name": "Piscina Cubierta de Baena",
+                  "text": "Baena fedett uszodája, a vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.323537,
+                        37.621709
                   ]
             }
       ],
@@ -9994,6 +11623,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -4.321757,
                         37.615674
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Baena",
+                  "text": "Piscina municipală din Baena, situată lângă castel.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.322535,
+                        37.621276
+                  ]
+            },
+            {
+                  "name": "Piscina Cubierta de Baena",
+                  "text": "O piscină acoperită în Baena, situată în apropierea castelului.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.323537,
+                        37.621709
+                  ]
             }
       ],
       "en": [
@@ -10058,6 +11705,24 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -4.321757,
                         37.615674
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Baena",
+                  "text": "The municipal swimming pool of Baena, located near the castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.322535,
+                        37.621276
+                  ]
+            },
+            {
+                  "name": "Piscina Cubierta de Baena",
+                  "text": "An indoor swimming pool in Baena, situated near the castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.323537,
+                        37.621709
                   ]
             }
       ]

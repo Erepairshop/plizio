@@ -130,6 +130,15 @@ export const poiExtraIrelandCities: POI[] = [
                         -6.352425,
                         53.715361
                   ]
+            },
+            {
+                  "name": "Aura Leisure & Fitness",
+                  "text": "Eine moderne Freizeit- und Fitnessanlage in Drogheda mit einem öffentlichen Schwimmbad.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.374342,
+                        53.712906
+                  ]
             }
       ],
       "hu": [
@@ -257,6 +266,15 @@ export const poiExtraIrelandCities: POI[] = [
                   "coords": [
                         -6.352425,
                         53.715361
+                  ]
+            },
+            {
+                  "name": "Aura Leisure & Fitness",
+                  "text": "Modern szabadidő- és fitneszlétesítmény Droghedában, közösségi úszómedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.374342,
+                        53.712906
                   ]
             }
       ],
@@ -386,6 +404,15 @@ export const poiExtraIrelandCities: POI[] = [
                         -6.352425,
                         53.715361
                   ]
+            },
+            {
+                  "name": "Aura Leisure & Fitness",
+                  "text": "O facilitate modernă de agrement și fitness în Drogheda, cu o piscină publică.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.374342,
+                        53.712906
+                  ]
             }
       ],
       "en": [
@@ -513,6 +540,15 @@ export const poiExtraIrelandCities: POI[] = [
                   "coords": [
                         -6.352425,
                         53.715361
+                  ]
+            },
+            {
+                  "name": "Aura Leisure & Fitness",
+                  "text": "A modern leisure and fitness facility in Drogheda with a public swimming pool.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.374342,
+                        53.712906
                   ]
             }
       ]

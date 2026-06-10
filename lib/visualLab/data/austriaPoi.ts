@@ -1396,6 +1396,15 @@ export const austriaCities: POI[] = [
                         15.437581,
                         47.068465
                   ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "Ein flaches Schwimmbecken für Kleinkinder in Graz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486159,
+                        47.076851
+                  ]
             }
       ],
       "hu": [
@@ -2081,6 +2090,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.437581,
                         47.068465
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "Sekély úszómedence kisgyermekek számára Grazban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486159,
+                        47.076851
                   ]
             }
       ],
@@ -2768,6 +2786,15 @@ export const austriaCities: POI[] = [
                         15.437581,
                         47.068465
                   ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "O piscină cu apă puțin adâncă pentru copii mici în Graz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486159,
+                        47.076851
+                  ]
             }
       ],
       "en": [
@@ -3453,6 +3480,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.437581,
                         47.068465
+                  ]
+            },
+            {
+                  "name": "Babybecken",
+                  "text": "A shallow swimming pool for toddlers located in Graz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486159,
+                        47.076851
                   ]
             }
       ]
@@ -7187,6 +7223,15 @@ export const austriaCities: POI[] = [
                         11.41715,
                         47.240273
                   ]
+            },
+            {
+                  "name": "H32",
+                  "text": "Ein Schwimmbad in Innsbruck, das Wasserfreunden Möglichkeiten zum Bahnenziehen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
+                  ]
             }
       ],
       "hu": [
@@ -7863,6 +7908,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.41715,
                         47.240273
+                  ]
+            },
+            {
+                  "name": "H32",
+                  "text": "Innsbrucki uszoda, amely lehetőséget biztosít az úszni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
                   ]
             }
       ],
@@ -8541,6 +8595,15 @@ export const austriaCities: POI[] = [
                         11.41715,
                         47.240273
                   ]
+            },
+            {
+                  "name": "H32",
+                  "text": "O piscină în Innsbruck, care oferă facilități pentru înotătorii amatori și profesioniști.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
+                  ]
             }
       ],
       "en": [
@@ -9217,6 +9280,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.41715,
                         47.240273
+                  ]
+            },
+            {
+                  "name": "H32",
+                  "text": "A swimming pool in Innsbruck providing facilities for swimmers and water enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
                   ]
             }
       ]
@@ -13642,6 +13714,15 @@ export const austriaCities: POI[] = [
                         16.52759,
                         47.845964
                   ]
+            },
+            {
+                  "name": "Esterhazysee",
+                  "text": "Ein künstlich angelegter Badesee bei Eisenstadt, der ein beliebtes Ziel für Sommerausflüge ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.582785,
+                        47.829078
+                  ]
             }
       ],
       "hu": [
@@ -13859,6 +13940,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.52759,
                         47.845964
+                  ]
+            },
+            {
+                  "name": "Esterhazysee",
+                  "text": "Eisenstadt melletti mesterséges tó, amely népszerű célpont a nyári fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        16.582785,
+                        47.829078
                   ]
             }
       ],
@@ -14078,6 +14168,15 @@ export const austriaCities: POI[] = [
                         16.52759,
                         47.845964
                   ]
+            },
+            {
+                  "name": "Esterhazysee",
+                  "text": "Un lac de agrement lângă Eisenstadt, fiind o destinație populară pentru scăldat în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.582785,
+                        47.829078
+                  ]
             }
       ],
       "en": [
@@ -14296,6 +14395,15 @@ export const austriaCities: POI[] = [
                         16.52759,
                         47.845964
                   ]
+            },
+            {
+                  "name": "Esterhazysee",
+                  "text": "A recreational lake near Eisenstadt, serving as a popular destination for summer swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        16.582785,
+                        47.829078
+                  ]
             }
       ]
 }, type: "city", parent: "AT-1", coords: [16.5333, 47.8333],
@@ -14445,6 +14553,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus im Burggarten nahe der Hofburg.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein Wellness- und Sportzentrum im Wiener Sonnwendviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein großes öffentliches Aquarium in einem ehemaligen Flakturm in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein traditionelles Hamam und Spa in der Nähe der Hofburg.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein familienfreundliches Freibad am Einsiedlerplatz in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Ein öffentliches Familienbad am Hofferplatz in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "hu": [
@@ -14518,6 +14680,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház a Burggartenben, a Hofburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Wellness- és sportközpont a bécsi Sonnwendviertelben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Hatalmas nyilvános akvárium egy egykori bécsi légvédelmi toronyban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Tradicionális hammam és gyógyfürdő a Hofburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Családbarát strandfürdő a bécsi Einsiedlerplatzon.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Nyilvános családi fürdő a bécsi Hofferplatzon.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ],
@@ -14593,6 +14809,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor în Burggarten, lângă Palatul Hofburg.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru de wellness și sport în cartierul Sonnwendviertel din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu public de mari dimensiuni situat într-un fost turn antiaerian din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hamam și centru spa tradițional situat lângă Palatul Hofburg.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un ștrand pentru familii situat în Einsiedlerplatz, Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Un ștrand public pentru familii în Hofferplatz, Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "en": [
@@ -14666,6 +14936,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house in the Burggarten near Hofburg Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A wellness and sports centre in Vienna's Sonnwendviertel district.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "A large public aquarium located in a former flak tower in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "A traditional hammam and spa located near Hofburg Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A family-friendly outdoor swimming pool at Einsiedlerplatz in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "A family-friendly public swimming pool at Hofferplatz in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ]
@@ -14766,6 +15090,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus im Zentrum Wiens.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Wellness- und Sportzentrum in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein bedeutendes Aquarium in einem historischen Flakturm in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein orientalisches Hamam und Wellnesszentrum in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein öffentliches Bad für Familien im Wiener Einsiedlerplatz-Viertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Ein Sport- und Freizeitzentrum mit Schwimmbad in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "hu": [
@@ -14839,6 +15217,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház Bécs belvárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern wellness- és sportközpont Bécsben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Jelentős akvárium egy történelmi bécsi légvédelmi toronyban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Keleti hangulatú hammam és wellnessközpont Bécsben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Nyilvános családi fürdő a bécsi Einsiedlerplatz környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Sport- és szabadidőközpont úszómedencével Bécsben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ],
@@ -14914,6 +15346,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor în centrul Vienei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru modern de wellness și sport în Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu important situat într-un turn antiaerian istoric din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hamam oriental și centru de wellness în Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un ștrand public pentru familii în zona Einsiedlerplatz din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Un centru sportiv și de agrement cu piscină în Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "en": [
@@ -14987,6 +15473,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house in the center of Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern wellness and sports centre in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "A major aquarium housed in a historic flak tower in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "An oriental hammam and wellness centre in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A public family bath in the Einsiedlerplatz area of Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "A sports and leisure centre with a swimming pool in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ]
@@ -15456,6 +15996,24 @@ export const austriaCities: POI[] = [
                         11.896409,
                         47.221786
                   ]
+            },
+            {
+                  "name": "Farm zoo Gerlossstein",
+                  "text": "Ein Erlebnisbauernhof und Zoo in Gerlosstein im Zillertal, ideal für Familien mit Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        11.91801,
+                        47.201144
+                  ]
+            },
+            {
+                  "name": "Campingdorf Hofer",
+                  "text": "Ein Schwimmbad im Campingdorf Hofer im Zillertal, das Erfrischung für Camper und Gäste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886003,
+                        47.228424
+                  ]
             }
       ],
       "hu": [
@@ -15529,6 +16087,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.896409,
                         47.221786
+                  ]
+            },
+            {
+                  "name": "Farm zoo Gerlossstein",
+                  "text": "Élménygazdaság és állatkert Gerlosssteinben, a Zillertalban, amely ideális gyermekes családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.91801,
+                        47.201144
+                  ]
+            },
+            {
+                  "name": "Campingdorf Hofer",
+                  "text": "Úszómedence a zillertali Hofer kempingfaluban, amely felfrissülést kínál a táborozóknak és vendégeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886003,
+                        47.228424
                   ]
             }
       ],
@@ -15604,6 +16180,24 @@ export const austriaCities: POI[] = [
                         11.896409,
                         47.221786
                   ]
+            },
+            {
+                  "name": "Farm zoo Gerlossstein",
+                  "text": "O fermă de animale și grădină zoologică la Gerlossstein în Zillertal, ideală pentru familii cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        11.91801,
+                        47.201144
+                  ]
+            },
+            {
+                  "name": "Campingdorf Hofer",
+                  "text": "O piscină în satul de camping Hofer din Zillertal, oferind răcorire pentru turiști și oaspeți.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886003,
+                        47.228424
+                  ]
             }
       ],
       "en": [
@@ -15677,6 +16271,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.896409,
                         47.221786
+                  ]
+            },
+            {
+                  "name": "Farm zoo Gerlossstein",
+                  "text": "A farm-style zoo at Gerlossstein in the Zillertal, ideal for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        11.91801,
+                        47.201144
+                  ]
+            },
+            {
+                  "name": "Campingdorf Hofer",
+                  "text": "A swimming pool at Campingdorf Hofer in the Zillertal, providing refreshment for campers and guests.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886003,
+                        47.228424
                   ]
             }
       ]
@@ -17214,6 +17826,15 @@ export const austriaCities: POI[] = [
                         13.647472,
                         47.554774
                   ]
+            },
+            {
+                  "name": "Strandbad Obertraun",
+                  "text": "Ein Strandbad am Hallstätter See in Obertraun, das einen herrlichen Blick auf die Alpen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677771,
+                        47.558193
+                  ]
             }
       ],
       "hu": [
@@ -17449,6 +18070,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.647472,
                         47.554774
+                  ]
+            },
+            {
+                  "name": "Strandbad Obertraun",
+                  "text": "Strand az Obertrauni Hallstatti-tónál, lenyűgöző kilátással az Alpokra.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677771,
+                        47.558193
                   ]
             }
       ],
@@ -17686,6 +18316,15 @@ export const austriaCities: POI[] = [
                         13.647472,
                         47.554774
                   ]
+            },
+            {
+                  "name": "Strandbad Obertraun",
+                  "text": "O zonă de plajă pe malul lacului Hallstatt în Obertraun, oferind o priveliște superbă asupra Alpilor.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677771,
+                        47.558193
+                  ]
             }
       ],
       "en": [
@@ -17922,6 +18561,15 @@ export const austriaCities: POI[] = [
                         13.647472,
                         47.554774
                   ]
+            },
+            {
+                  "name": "Strandbad Obertraun",
+                  "text": "A lakeside bathing area on Lake Hallstatt in Obertraun, offering stunning views of the Alps.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677771,
+                        47.558193
+                  ]
             }
       ]
 }, type: "city", parent: "AT-4", coords: [13.6493, 47.5622],
@@ -18029,6 +18677,15 @@ export const austriaCities: POI[] = [
                         13.476366,
                         47.751684
                   ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz St. Wolfgang",
+                  "text": "Dieser öffentliche Badeplatz in St. Wolfgang bietet direkten Zugang zum klaren Wasser des Wolfgangsees.",
+                  "category": "recreational",
+                  "coords": [
+                        13.454654,
+                        47.734934
+                  ]
             }
       ],
       "hu": [
@@ -18102,6 +18759,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.476366,
                         47.751684
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz St. Wolfgang",
+                  "text": "Ez a Szent Wolfgang-i nyilvános fürdőhely közvetlen hozzáférést biztosít a Wolfgang-tó tiszta vizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        13.454654,
+                        47.734934
                   ]
             }
       ],
@@ -18177,6 +18843,15 @@ export const austriaCities: POI[] = [
                         13.476366,
                         47.751684
                   ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz St. Wolfgang",
+                  "text": "Acest loc public de scăldat din St. Wolfgang oferă acces direct la apele clare ale lacului Wolfgang.",
+                  "category": "recreational",
+                  "coords": [
+                        13.454654,
+                        47.734934
+                  ]
             }
       ],
       "en": [
@@ -18250,6 +18925,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.476366,
                         47.751684
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz St. Wolfgang",
+                  "text": "This public bathing area in St. Wolfgang provides direct access to the clear waters of Lake Wolfgang.",
+                  "category": "recreational",
+                  "coords": [
+                        13.454654,
+                        47.734934
                   ]
             }
       ]
@@ -20170,6 +20854,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus, das eine Vielzahl exotischer Schmetterlingsarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Sport- und Wellnesszentrum, das verschiedene Erholungs- und Fitnessmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Dieses Aquarium ist in einem ehemaligen Flakturm untergebracht und zeigt eine vielfältige Meeresfauna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein orientalisches Hammam und Spa, das Entspannung in einem stilvollen Ambiente bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein familienfreundliches Freibad mit verschiedenen Wasserbecken für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Ein Sportzentrum mit Schwimmbecken und Einrichtungen für sportliche Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "hu": [
@@ -20243,6 +20981,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Egy trópusi lepkeház, amely számos egzotikus lepkefajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern sport- és wellnessközpont, amely különféle kikapcsolódási és fitneszlehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ez az akvárium egy egykori légvédelmi toronyban található, és változatos tengeri élővilágot mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Orientális hammam és fürdő, amely stílusos környezetben kínál pihenést.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Családbarát szabadtéri strand különböző medencékkel gyerekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Sportközpont úszómedencével és különféle sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ],
@@ -20318,6 +21110,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor care adăpostește numeroase specii exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru modern de sport și wellness care oferă diverse facilități de recreere și fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Acest acvariu este situat într-un fost turn antiaerian și prezintă o faună marină diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hamam și spa oriental care oferă relaxare într-un cadru elegant.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un ștrand pentru familii cu diverse bazine destinate copiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Un centru sportiv cu piscină și facilități pentru activități atletice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "en": [
@@ -20391,6 +21237,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house home to numerous exotic species.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern sports and wellness centre offering various recreation and fitness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "This aquarium is housed in a former flak tower and displays a diverse marine fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "An oriental hammam and spa offering relaxation in a stylish setting.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A family-friendly outdoor pool with various basins for children.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "A sports centre with a swimming pool and facilities for athletic activities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ]
@@ -20491,6 +21391,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus in Wien, nahe der Albertina.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Sport- und Wellnesszentrum im Wiener Sonnwendviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein großes Aquarium und Vivarium in einem ehemaligen Flakturm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein traditionelles Hamam und Spa für Entspannung im Herzen Wiens.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein öffentliches Familienbad und eine Wasseranlage am Wiener Einsiedlerplatz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Eine Sport- und Badeanlage, die verschiedene Freizeitaktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "hu": [
@@ -20564,6 +21518,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház Bécsben, az Albertina közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern sport- és wellnessközpont a bécsi Sonnwendviertel negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Hatalmas akvárium és vivárium egy egykori légvédelmi toronyban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Tradicionális hammam és gyógyfürdő Bécs szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Nyilvános családi fürdő és vízi létesítmény a bécsi Einsiedlerplatzon.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Sport- és fürdőlétesítmény, amely különféle szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ],
@@ -20639,6 +21647,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală pentru fluturi în Viena, lângă Albertina.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru modern de sport și wellness în cartierul Sonnwendviertel din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu și vivariu de mari dimensiuni, situat într-un fost turn antiaerian.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hamam și spa tradițional pentru relaxare în inima Vienei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un parc acvatic public și centru de înot pentru familii în Einsiedlerplatz, Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "O facilitate sportivă și de înot care oferă diverse activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "en": [
@@ -20712,6 +21774,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house in Vienna, located near the Albertina.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern sports and wellness center in Vienna's Sonnwendviertel district.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "A large aquarium and vivarium housed in a former anti-aircraft tower.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "A traditional hammam and spa offering relaxation in the heart of Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A public water park and swimming facility for families at Vienna's Einsiedlerplatz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "A sports and swimming facility providing various recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ]
@@ -20812,6 +21928,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus nahe dem Kunsthistorischen Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein Sport- und Wellnesszentrum in der Nähe des Wiener Sonnwendviertels.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein großes Aquarium in Wien, das in einem historischen Flakturm untergebracht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein orientalisches Bad und Spa nahe dem Kunsthistorischen Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein familienfreundliches Wasserbecken am Einsiedlerplatz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Ein öffentliches Familienbad am Hofferplatz in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "hu": [
@@ -20885,6 +22055,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház a Szépművészeti Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Sport- és wellnessközpont a bécsi Sonnwendviertel közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Bécsi akvárium, amely egy történelmi légvédelmi toronyban kapott helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Orientális fürdő és spa a Szépművészeti Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Családbarát medence az Einsiedlerplatzon.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Nyilvános családi fürdő a bécsi Hofferplatzon.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ],
@@ -20960,6 +22184,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală pentru fluturi lângă Muzeul de Istorie a Artei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru de sport și wellness în apropierea cartierului Sonnwendviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu mare din Viena, adăpostit într-un turn antiaerian istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "O baie orientală și spa lângă Muzeul de Istorie a Artei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "O piscină pentru familii situată în Einsiedlerplatz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Un parc acvatic public pentru familii în Hofferplatz, Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "en": [
@@ -21033,6 +22311,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house located near the Kunsthistorisches Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A sports and wellness center near the Sonnwendviertel district in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "A large aquarium in Vienna housed in a historic anti-aircraft tower.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "An oriental bath and spa located near the Kunsthistorisches Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A family-friendly swimming facility located at Einsiedlerplatz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "A public water park for families at Hofferplatz in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ]
@@ -21133,6 +22465,60 @@ export const austriaCities: POI[] = [
                         16.378488,
                         48.218225
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus, das eine Vielzahl exotischer Schmetterlingsarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Kinderfreibad der Stadt Wien",
+                  "text": "Ein speziell auf Kinder ausgerichtetes Freibad mit flachen Becken und Spielbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.44361,
+                        48.243327
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Sport- und Wellnesszentrum, das verschiedene Erholungs- und Fitnessmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Dieses Aquarium ist in einem ehemaligen Flakturm untergebracht und zeigt eine vielfältige Meeresfauna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein orientalisches Hammam und Spa, das Entspannung in einem stilvollen Ambiente bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein familienfreundliches Freibad mit verschiedenen Wasserbecken für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
             }
       ],
       "hu": [
@@ -21206,6 +22592,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.378488,
                         48.218225
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Egy trópusi lepkeház, amely számos egzotikus lepkefajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Kinderfreibad der Stadt Wien",
+                  "text": "Kifejezetten gyerekeknek kialakított strand sekély medencékkel és játszóterekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.44361,
+                        48.243327
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern sport- és wellnessközpont, amely különféle kikapcsolódási és fitneszlehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ez az akvárium egy egykori légvédelmi toronyban található, és változatos tengeri élővilágot mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Orientális hammam és fürdő, amely stílusos környezetben kínál pihenést.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Családbarát szabadtéri strand különböző medencékkel gyerekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
                   ]
             }
       ],
@@ -21281,6 +22721,60 @@ export const austriaCities: POI[] = [
                         16.378488,
                         48.218225
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor care adăpostește numeroase specii exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Kinderfreibad der Stadt Wien",
+                  "text": "Un ștrand special pentru copii, cu bazine puțin adânci și zone de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.44361,
+                        48.243327
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru modern de sport și wellness care oferă diverse facilități de recreere și fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Acest acvariu este situat într-un fost turn antiaerian și prezintă o faună marină diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hamam și spa oriental care oferă relaxare într-un cadru elegant.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un ștrand pentru familii cu diverse bazine destinate copiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
             }
       ],
       "en": [
@@ -21354,6 +22848,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.378488,
                         48.218225
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house home to numerous exotic species.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Kinderfreibad der Stadt Wien",
+                  "text": "An outdoor pool specifically designed for children with shallow basins and play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        16.44361,
+                        48.243327
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern sports and wellness centre offering various recreation and fitness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "This aquarium is housed in a former flak tower and displays a diverse marine fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "An oriental hammam and spa offering relaxation in a stylish setting.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A family-friendly outdoor pool with various basins for children.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
                   ]
             }
       ]
@@ -21538,6 +23086,60 @@ export const austriaCities: POI[] = [
                         10.188968,
                         47.161646
                   ]
+            },
+            {
+                  "name": "Galzig",
+                  "text": "Ein Berggipfel in der Arlberg-Region, der per Seilbahn erreichbar und für den Skisport bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.224577,
+                        47.134039
+                  ]
+            },
+            {
+                  "name": "Valluga",
+                  "text": "Ein hoher Berggipfel und Aussichtspunkt am Arlberg mit weitem Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        10.213094,
+                        47.157575
+                  ]
+            },
+            {
+                  "name": "Trittkopf",
+                  "text": "Ein Berggipfel in der österreichischen Arlberg-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193539,
+                        47.155275
+                  ]
+            },
+            {
+                  "name": "Pazüelfernerspitze",
+                  "text": "Ein Berggipfel im Arlberg-Massiv der österreichischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.200339,
+                        47.154511
+                  ]
+            },
+            {
+                  "name": "Arlberg WellCom",
+                  "text": "Ein Wellness- und Schwimmzentrum in der berühmten Alpenregion Arlberg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.265161,
+                        47.130121
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool im Hotel Arlmont",
+                  "text": "Ein Schwimmbecken auf dem Dach des Hotels Arlmont in Arlberg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272596,
+                        47.135063
+                  ]
             }
       ],
       "hu": [
@@ -21575,6 +23177,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         10.188968,
                         47.161646
+                  ]
+            },
+            {
+                  "name": "Galzig",
+                  "text": "Hegycsúcs az Arlberg-régióban, amely felvonóval elérhető és a síelésről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.224577,
+                        47.134039
+                  ]
+            },
+            {
+                  "name": "Valluga",
+                  "text": "Magas hegycsúcs és kilátópont az Arlbergen, amely tágas kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        10.213094,
+                        47.157575
+                  ]
+            },
+            {
+                  "name": "Trittkopf",
+                  "text": "Hegycsúcs az osztrák Arlberg-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193539,
+                        47.155275
+                  ]
+            },
+            {
+                  "name": "Pazüelfernerspitze",
+                  "text": "Hegycsúcs az osztrák Alpok Arlberg-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.200339,
+                        47.154511
+                  ]
+            },
+            {
+                  "name": "Arlberg WellCom",
+                  "text": "Wellness- és úszóközpont a híres Arlberg-alpesi régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.265161,
+                        47.130121
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool im Hotel Arlmont",
+                  "text": "Az arlbergi Hotel Arlmont tetőterén található úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272596,
+                        47.135063
                   ]
             }
       ],
@@ -21614,6 +23270,60 @@ export const austriaCities: POI[] = [
                         10.188968,
                         47.161646
                   ]
+            },
+            {
+                  "name": "Galzig",
+                  "text": "Un vârf montan din regiunea Arlberg, accesibil cu telecabina și cunoscut pentru schi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.224577,
+                        47.134039
+                  ]
+            },
+            {
+                  "name": "Valluga",
+                  "text": "Un vârf montan înalt și un punct de belvedere în Arlberg, oferind vederi spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        10.213094,
+                        47.157575
+                  ]
+            },
+            {
+                  "name": "Trittkopf",
+                  "text": "Un vârf montan situat în regiunea austriacă Arlberg.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193539,
+                        47.155275
+                  ]
+            },
+            {
+                  "name": "Pazüelfernerspitze",
+                  "text": "Un vârf montan din masivul Arlberg din Alpii Austriaci.",
+                  "category": "landmark",
+                  "coords": [
+                        10.200339,
+                        47.154511
+                  ]
+            },
+            {
+                  "name": "Arlberg WellCom",
+                  "text": "Un centru de wellness și înot situat în celebra regiune alpină Arlberg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.265161,
+                        47.130121
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool im Hotel Arlmont",
+                  "text": "O piscină situată pe acoperișul hotelului Arlmont din Arlberg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272596,
+                        47.135063
+                  ]
             }
       ],
       "en": [
@@ -21651,6 +23361,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         10.188968,
                         47.161646
+                  ]
+            },
+            {
+                  "name": "Galzig",
+                  "text": "A mountain peak in the Arlberg region, accessible by cable car and known for skiing.",
+                  "category": "landmark",
+                  "coords": [
+                        10.224577,
+                        47.134039
+                  ]
+            },
+            {
+                  "name": "Valluga",
+                  "text": "A high mountain peak and viewpoint in the Arlberg, offering expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        10.213094,
+                        47.157575
+                  ]
+            },
+            {
+                  "name": "Trittkopf",
+                  "text": "A mountain peak located in the Austrian Arlberg region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193539,
+                        47.155275
+                  ]
+            },
+            {
+                  "name": "Pazüelfernerspitze",
+                  "text": "A mountain peak in the Arlberg massif of the Austrian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.200339,
+                        47.154511
+                  ]
+            },
+            {
+                  "name": "Arlberg WellCom",
+                  "text": "A wellness and swimming center located in the famous Arlberg alpine region.",
+                  "category": "recreational",
+                  "coords": [
+                        10.265161,
+                        47.130121
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool im Hotel Arlmont",
+                  "text": "A swimming pool located on the rooftop of the Arlmont Hotel in Arlberg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.272596,
+                        47.135063
                   ]
             }
       ]
@@ -23440,6 +25204,24 @@ export const austriaCities: POI[] = [
                         12.799858,
                         47.326452
                   ]
+            },
+            {
+                  "name": "Bademöglichkeit an der Promenade",
+                  "text": "Ein Badebereich an der Promenade von Zell am See.",
+                  "category": "recreational",
+                  "coords": [
+                        12.797913,
+                        47.336111
+                  ]
+            },
+            {
+                  "name": "Schlossbad Bruck",
+                  "text": "Ein Wasserpark in Zell am See.",
+                  "category": "recreational",
+                  "coords": [
+                        12.817225,
+                        47.28705
+                  ]
             }
       ],
       "hu": [
@@ -23504,6 +25286,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.799858,
                         47.326452
+                  ]
+            },
+            {
+                  "name": "Bademöglichkeit an der Promenade",
+                  "text": "Fürdőhely a Zell am See-i sétányon.",
+                  "category": "recreational",
+                  "coords": [
+                        12.797913,
+                        47.336111
+                  ]
+            },
+            {
+                  "name": "Schlossbad Bruck",
+                  "text": "Vízi park Zell am See-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.817225,
+                        47.28705
                   ]
             }
       ],
@@ -23570,6 +25370,24 @@ export const austriaCities: POI[] = [
                         12.799858,
                         47.326452
                   ]
+            },
+            {
+                  "name": "Bademöglichkeit an der Promenade",
+                  "text": "O zonă de scăldat pe promenada din Zell am See.",
+                  "category": "recreational",
+                  "coords": [
+                        12.797913,
+                        47.336111
+                  ]
+            },
+            {
+                  "name": "Schlossbad Bruck",
+                  "text": "Un parc acvatic în Zell am See.",
+                  "category": "recreational",
+                  "coords": [
+                        12.817225,
+                        47.28705
+                  ]
             }
       ],
       "en": [
@@ -23634,6 +25452,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.799858,
                         47.326452
+                  ]
+            },
+            {
+                  "name": "Bademöglichkeit an der Promenade",
+                  "text": "A swimming area on the Zell am See promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        12.797913,
+                        47.336111
+                  ]
+            },
+            {
+                  "name": "Schlossbad Bruck",
+                  "text": "A water park located in Zell am See.",
+                  "category": "recreational",
+                  "coords": [
+                        12.817225,
+                        47.28705
                   ]
             }
       ]
@@ -26204,6 +28040,33 @@ export const austriaCities: POI[] = [
                         14.50487,
                         47.560005
                   ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "Ein Hallenbad in Admont, das ganzjähriges Schwimmvergnügen für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "Ein natürliches Freibad in Admont, das für Entspannung im Freien genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "Ein Wasserpark in der Gemeinde Admont, ideal für Freizeitaktivitäten im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
+                  ]
             }
       ],
       "hu": [
@@ -26268,6 +28131,33 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
+                  ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "Fedett uszoda Admontban, amely egész évben úszási lehetőséget biztosít a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "Természetes szabadtéri fürdő Admontban, amely pihenésre szolgál a szabadban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "Vízi park Admont községben, amely ideális vízi szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
                   ]
             }
       ],
@@ -26334,6 +28224,33 @@ export const austriaCities: POI[] = [
                         14.50487,
                         47.560005
                   ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "O piscină acoperită în Admont, care oferă facilități de înot pe tot parcursul anului.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "O piscină naturală în aer liber în Admont, utilizată pentru relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "Un parc acvatic în comuna Admont, ideal pentru activități recreative în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
+                  ]
             }
       ],
       "en": [
@@ -26398,6 +28315,33 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
+                  ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "An indoor swimming pool in Admont providing year-round swimming facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "A natural outdoor swimming area in Admont used for open-air relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "A water park in the Admont area, ideal for water-based recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
                   ]
             }
       ]
@@ -26669,6 +28613,24 @@ export const austriaCities: POI[] = [
                         13.686358,
                         47.390619
                   ]
+            },
+            {
+                  "name": "Saunapools",
+                  "text": "Wellness-Becken in der Region Schladming-Dachstein, die zur Erholung in den Alpen einladen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.67445,
+                        47.386535
+                  ]
+            },
+            {
+                  "name": "Kobaldhof",
+                  "text": "Ein Schwimmbad beim Kobaldhof in Schladming-Dachstein, das Sport- und Erholungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.63118,
+                        47.405602
+                  ]
             }
       ],
       "hu": [
@@ -26733,6 +28695,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.686358,
                         47.390619
+                  ]
+            },
+            {
+                  "name": "Saunapools",
+                  "text": "Wellness-medencék a Schladming-Dachstein régióban, amelyek alpesi környezetben kínálnak felfrissülést.",
+                  "category": "recreational",
+                  "coords": [
+                        13.67445,
+                        47.386535
+                  ]
+            },
+            {
+                  "name": "Kobaldhof",
+                  "text": "Úszómedence a Kobaldhofnál Schladming-Dachsteinben, amely sportolási és pihenési lehetőséget nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.63118,
+                        47.405602
                   ]
             }
       ],
@@ -26799,6 +28779,24 @@ export const austriaCities: POI[] = [
                         13.686358,
                         47.390619
                   ]
+            },
+            {
+                  "name": "Saunapools",
+                  "text": "Bazine de wellness în regiunea Schladming-Dachstein, care invită la relaxare în Alpi.",
+                  "category": "recreational",
+                  "coords": [
+                        13.67445,
+                        47.386535
+                  ]
+            },
+            {
+                  "name": "Kobaldhof",
+                  "text": "O piscină la Kobaldhof în Schladming-Dachstein, oferind facilități pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        13.63118,
+                        47.405602
+                  ]
             }
       ],
       "en": [
@@ -26863,6 +28861,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.686358,
                         47.390619
+                  ]
+            },
+            {
+                  "name": "Saunapools",
+                  "text": "Wellness pools in the Schladming-Dachstein region, inviting relaxation in the Alps.",
+                  "category": "recreational",
+                  "coords": [
+                        13.67445,
+                        47.386535
+                  ]
+            },
+            {
+                  "name": "Kobaldhof",
+                  "text": "A swimming pool at Kobaldhof in Schladming-Dachstein, providing sports and recreation facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        13.63118,
+                        47.405602
                   ]
             }
       ]
@@ -27348,6 +29364,60 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus im historischen Zentrum von Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Sportzentrum für Wellness und Fitness in Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein orientalisches Hamam und Spa für Entspannung und Wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein beliebter Wasserpark für Familien im Herzen der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Ein Sportzentrum mit Schwimmbad und verschiedenen Fitnesseinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "hu": [
@@ -27421,6 +29491,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.369293,
                         48.20713
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház Bécs történelmi belvárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern sportközpont wellness- és fitneszszolgáltatásokkal Bécsben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Orientális hammam és gyógyfürdő pihenésre és felfrissülésre.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Népszerű családi élményfürdő a város szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Sportközpont úszómedencével és különféle fitneszlétesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ],
@@ -27496,6 +29620,60 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor în centrul istoric al Vienei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru sportiv modern pentru wellness și fitness în Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hammam și spa oriental pentru relaxare și wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un parc acvatic popular pentru familii în inima orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Un centru sportiv cu piscină și diverse facilități de fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "en": [
@@ -27569,6 +29747,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.369293,
                         48.20713
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house in the historic centre of Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern sports center for wellness and fitness in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "An aquarium and zoo housed in a massive former flak tower.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "An oriental hammam and spa for relaxation and wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A popular family-friendly water park in the heart of the city.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "A sports centre with a swimming pool and various fitness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ]
@@ -27803,6 +30035,15 @@ export const austriaCities: POI[] = [
                         15.424888,
                         48.295541
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Ein Waldbad und Wasserpark in der Nähe der Burg Aggstein.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
+                  ]
             }
       ],
       "hu": [
@@ -27858,6 +30099,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.424888,
                         48.295541
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Erdei strand és élményfürdő az aggsteini vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
                   ]
             }
       ],
@@ -27915,6 +30165,15 @@ export const austriaCities: POI[] = [
                         15.424888,
                         48.295541
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "O piscină de pădure și un parc acvatic situate lângă castelul Aggstein.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
+                  ]
             }
       ],
       "en": [
@@ -27970,6 +30229,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.424888,
                         48.295541
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "A forest swimming pool and water park located near Aggstein Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
                   ]
             }
       ]
@@ -30005,6 +32273,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus in der Nähe des Wiener Burgtheaters.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Wellnesszentrum für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein orientalisches Spa, das traditionelle Hamam-Behandlungen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein kinderfreundlicher Wasserpark mit flachen Becken und Spielbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Gudrunstraße",
+                  "text": "Ein öffentliches Freibad für Familien mit Sport- und Spielmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        16.389938,
+                        48.175716
+                  ]
             }
       ],
       "hu": [
@@ -30078,6 +32400,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház a bécsi Burgtheater közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern wellnessközpont sportoláshoz és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Tradicionális hammam kezeléseket kínáló orientális gyógyfürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Gyermekbarát élményfürdő sekély medencékkel és játszóterekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Gudrunstraße",
+                  "text": "Nyilvános családi strand sport- és játéklehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.389938,
+                        48.175716
                   ]
             }
       ],
@@ -30153,6 +32529,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor lângă Burgtheater din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru de wellness modern pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un spa oriental care oferă tratamente tradiționale de hammam.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un parc acvatic pentru copii, cu bazine puțin adânci și zone de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Gudrunstraße",
+                  "text": "Un ștrand public pentru familii, cu facilități sportive și de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.389938,
+                        48.175716
+                  ]
             }
       ],
       "en": [
@@ -30226,6 +32656,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house located near the Burgtheater in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern wellness center for sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "An aquarium and zoo housed in a massive former flak tower.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "An oriental spa offering traditional hammam treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A child-friendly water park with shallow pools and play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Gudrunstraße",
+                  "text": "A public outdoor pool for families with sports and play facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.389938,
+                        48.175716
                   ]
             }
       ]
@@ -30346,6 +32830,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus im Wiener Burggarten.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Sport- und Wellnesszentrum im Sonnwendviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein traditionelles Hamam und Spa, das Entspannung in orientalischer Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein familienfreundlicher Wasserpark mit speziellen Bereichen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Ein öffentliches Freibad für Familien mit verschiedenen Spielmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "hu": [
@@ -30419,6 +32957,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház a bécsi Burggarten területén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern sport- és wellnessközpont a Sonnwendviertel negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Hagyományos hammam és gyógyfürdő, amely keleti hangulatú kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Családbarát élményfürdő speciális gyermekrészlegekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Családi szabadtéri strand különféle játéklehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ],
@@ -30494,6 +33086,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor situată în Burggarten, Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru sportiv și de wellness modern în cartierul Sonnwendviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hammam și spa tradițional care oferă relaxare într-o atmosferă orientală.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un parc acvatic pentru familii, cu zone speciale pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Un ștrand public pentru familii, cu diverse facilități de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "en": [
@@ -30567,6 +33213,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house located in the Burggarten in Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern sports and wellness center in the Sonnwendviertel district.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "An aquarium and zoo housed in a massive former flak tower.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "A traditional hammam and spa offering relaxation in an oriental atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A family-friendly water park with special areas for children.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "A public outdoor pool for families with various play facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ]
@@ -30687,6 +33387,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus, das eine Vielzahl exotischer Schmetterlingsarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Sport- und Wellnesszentrum, das verschiedene Erholungs- und Fitnessmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Dieses Aquarium ist in einem ehemaligen Flakturm untergebracht und zeigt eine vielfältige Meeresfauna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein orientalisches Hammam und Spa, das Entspannung in einem stilvollen Ambiente bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein familienfreundliches Freibad mit verschiedenen Wasserbecken für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Ein öffentliches Bad für Familien mit Wasserbereichen zur aktiven Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "hu": [
@@ -30760,6 +33514,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Egy trópusi lepkeház, amely számos egzotikus lepkefajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern sport- és wellnessközpont, amely különféle kikapcsolódási és fitneszlehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ez az akvárium egy egykori légvédelmi toronyban található, és változatos tengeri élővilágot mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Orientális hammam és fürdő, amely stílusos környezetben kínál pihenést.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Családbarát szabadtéri strand különböző medencékkel gyerekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Nyilvános családi strand vízi területekkel az aktív kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ],
@@ -30835,6 +33643,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor care adăpostește numeroase specii exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru modern de sport și wellness care oferă diverse facilități de recreere și fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Acest acvariu este situat într-un fost turn antiaerian și prezintă o faună marină diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un hamam și spa oriental care oferă relaxare într-un cadru elegant.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un ștrand pentru familii cu diverse bazine destinate copiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "O baie publică pentru familii cu zone acvatice pentru recreere activă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "en": [
@@ -30908,6 +33770,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house home to numerous exotic species.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern sports and wellness centre offering various recreation and fitness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "This aquarium is housed in a former flak tower and displays a diverse marine fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "An oriental hammam and spa offering relaxation in a stylish setting.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A family-friendly outdoor pool with various basins for children.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "A public family bath with water areas for active recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ]
@@ -31028,6 +33944,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein Hamam-Spa im MuseumsQuartier, das Wellnessbehandlungen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus in der Nähe des MuseumsQuartiers.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein modernes Sport- und Fitnesszentrum für aktive Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein öffentlicher Wasserpark für Familien mit verschiedenen Freizeitbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Ein familienfreundliches Freibad am Hofferplatz im Wiener MuseumsQuartier-Viertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "hu": [
@@ -31101,6 +34071,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Hammam gyógyfürdő a MuseumsQuartier területén wellness szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház a MuseumsQuartier közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Modern sport- és fitneszközpont az aktív kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Nyilvános családi élményfürdő különféle szabadidős medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "Családbarát szabadtéri strand a Hofferplatzon, a MuseumsQuartier közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ],
@@ -31176,6 +34200,60 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un centru hammam spa în MuseumsQuartier, care oferă tratamente de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor lângă MuseumsQuartier.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru sportiv și de fitness modern pentru recreere activă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un parc acvatic public pentru familii, cu diverse bazine de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "O piscină în aer liber pentru familii situată în Hofferplatz, lângă cartierul MuseumsQuartier.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
+                  ]
             }
       ],
       "en": [
@@ -31249,6 +34327,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "An aquarium and zoo housed in a massive former flak tower.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "A hammam spa in the MuseumsQuartier offering wellness treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house located near the MuseumsQuartier.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A modern sports and fitness center for active recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A public water park for families with various leisure pools.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Familienbad Hofferplatz",
+                  "text": "A family-friendly outdoor pool located at Hofferplatz in the MuseumsQuartier area.",
+                  "category": "recreational",
+                  "coords": [
+                        16.333431,
+                        48.209064
                   ]
             }
       ]
@@ -31369,6 +34501,60 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein Schmetterlingshaus beim Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein Sportzentrum beim Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein Aquarium im ehemaligen Flakturm, bekannt für seine Haifischbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein öffentliches Bad beim Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein Wasserpark beim Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Ein Sportzentrum beim Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "hu": [
@@ -31442,6 +34628,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.369293,
                         48.20713
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Lepkeház a Haus der Musik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Sportközpont a Haus der Musik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Akvárium egy egykori légvédelmi toronyban, amely cápamedencéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Nyilvános fürdő a Haus der Musik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Vízi park a Haus der Musik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Sportközpont a Haus der Musik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ],
@@ -31517,6 +34757,60 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă a fluturilor lângă Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Un centru sportiv lângă Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu situat într-un fost turn de artilerie, cunoscut pentru bazinele cu rechini.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "O baie publică lângă Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un parc acvatic lângă Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Un centru sportiv lângă Haus der Musik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "en": [
@@ -31590,6 +34884,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.369293,
                         48.20713
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A butterfly house near the House of Music.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A sports centre near the House of Music.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "An aquarium housed in a former flak tower, known for its shark tanks.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "A public bath near the House of Music.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A water park near the House of Music.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "A sports centre near the House of Music.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ]
@@ -31710,6 +35058,60 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "Ein tropisches Schmetterlingshaus unweit der Ankeruhr.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Ein Sport- und Wellnessangebot im Wiener Sonnwendviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Ein Aquarium mit Meeres- und Süßwassertieren in einem Wiener Flakturm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Ein Wellness- und Spa-Zentrum im Herzen von Wien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Ein öffentliches Freibad für Familien im 5. Wiener Bezirk.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Eine Sport- und Schwimmstätte im zentralen Bereich Wiens.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "hu": [
@@ -31783,6 +35185,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.369293,
                         48.20713
+                  ]
+            },
+            {
+                  "name": "Lepkeház",
+                  "text": "Trópusi lepkeház az Anker-óra közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Sport- és wellness-szolgáltatások a bécsi Sonnwendviertelben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Tengeri és édesvízi akvárium egy bécsi légvédelmi toronyban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Wellness- és spa központ Bécs szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Nyilvános családi strandfürdő Bécs 5. kerületében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "Sport- és úszólétesítmény Bécs központi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ],
@@ -31858,6 +35314,60 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
+            },
+            {
+                  "name": "Schmetterlinghaus",
+                  "text": "O casă tropicală a fluturilor situată nu departe de Ceasul Anker.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "Facilități de sport și wellness în cartierul Sonnwendviertel din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "Haus des Meeres",
+                  "text": "Un acvariu cu specii marine și de apă dulce într-un turn antiaerian din Viena.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "Un centru de wellness și spa în inima Vienei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "Un ștrand public pentru familii în districtul 5 al Vienei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "O facilitate sportivă și de înot în zona centrală a Vienei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
+                  ]
             }
       ],
       "en": [
@@ -31931,6 +35441,60 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.369293,
                         48.20713
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A tropical butterfly house located near the Anker Clock.",
+                  "category": "recreational",
+                  "coords": [
+                        16.366445,
+                        48.205459
+                  ]
+            },
+            {
+                  "name": "Wellnessoase Sonnwendviertel",
+                  "text": "A sports and wellness facility in Vienna's Sonnwendviertel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380213,
+                        48.181047
+                  ]
+            },
+            {
+                  "name": "House of the Sea",
+                  "text": "An aquarium with marine and freshwater life in a Vienna flak tower.",
+                  "category": "recreational",
+                  "coords": [
+                        16.352958,
+                        48.197578
+                  ]
+            },
+            {
+                  "name": "Aux Gazelles Hammam-Spa",
+                  "text": "A wellness and spa centre in the heart of Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.360922,
+                        48.201632
+                  ]
+            },
+            {
+                  "name": "Familienbad Einsiedlerplatz",
+                  "text": "A public outdoor family pool in Vienna's 5th district.",
+                  "category": "recreational",
+                  "coords": [
+                        16.349541,
+                        48.18571
+                  ]
+            },
+            {
+                  "name": "Siemens-Bad",
+                  "text": "A sports and swimming facility in the central area of Vienna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.431643,
+                        48.219262
                   ]
             }
       ]
@@ -32219,6 +35783,15 @@ export const austriaCities: POI[] = [
                         15.504381,
                         48.363207
                   ]
+            },
+            {
+                  "name": "Freibad Spitz",
+                  "text": "Ein Freibad inmitten der Weinberge der Wachau.",
+                  "category": "recreational",
+                  "coords": [
+                        15.422773,
+                        48.365949
+                  ]
             }
       ],
       "hu": [
@@ -32283,6 +35856,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.504381,
                         48.363207
+                  ]
+            },
+            {
+                  "name": "Freibad Spitz",
+                  "text": "Strandfürdő a Wachau-völgy szőlőskertjeinek közepén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.422773,
+                        48.365949
                   ]
             }
       ],
@@ -32349,6 +35931,15 @@ export const austriaCities: POI[] = [
                         15.504381,
                         48.363207
                   ]
+            },
+            {
+                  "name": "Freibad Spitz",
+                  "text": "Un ștrand în mijlocul podgoriilor din regiunea Wachau.",
+                  "category": "recreational",
+                  "coords": [
+                        15.422773,
+                        48.365949
+                  ]
             }
       ],
       "en": [
@@ -32413,6 +36004,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.504381,
                         48.363207
+                  ]
+            },
+            {
+                  "name": "Freibad Spitz",
+                  "text": "An outdoor swimming pool set among the Wachau vineyards.",
+                  "category": "recreational",
+                  "coords": [
+                        15.422773,
+                        48.365949
                   ]
             }
       ]

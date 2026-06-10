@@ -13,6 +13,15 @@ export const spainLifeV2: POI[] = [
                         -6.517247,
                         36.974085
                   ]
+            },
+            {
+                  "name": "Piscina para bebes",
+                  "text": "Ein flaches Schwimmbecken speziell für Kleinkinder im Doñana-Gebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.558307,
+                        37.000728
+                  ]
             }
       ],
       "hu": [
@@ -23,6 +32,15 @@ export const spainLifeV2: POI[] = [
                   "coords": [
                         -6.517247,
                         36.974085
+                  ]
+            },
+            {
+                  "name": "Piscina para bebes",
+                  "text": "Sekély úszómedence kifejezetten csecsemők számára a Doñana-vidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.558307,
+                        37.000728
                   ]
             }
       ],
@@ -35,6 +53,15 @@ export const spainLifeV2: POI[] = [
                         -6.517247,
                         36.974085
                   ]
+            },
+            {
+                  "name": "Piscina para bebes",
+                  "text": "O piscină cu apă puțin adâncă special pentru bebeluși în zona Doñana.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.558307,
+                        37.000728
+                  ]
             }
       ],
       "en": [
@@ -45,6 +72,15 @@ export const spainLifeV2: POI[] = [
                   "coords": [
                         -6.517247,
                         36.974085
+                  ]
+            },
+            {
+                  "name": "Piscina para bebes",
+                  "text": "A shallow swimming pool specifically for infants in the Doñana area.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.558307,
+                        37.000728
                   ]
             }
       ]
@@ -3862,6 +3898,15 @@ imageHint: "Ebro Delta rice fields and lagoons",
                         -0.319666,
                         39.31202
                   ]
+            },
+            {
+                  "name": "Piscinas",
+                  "text": "Öffentliche Schwimmbadanlagen in der Nähe der Albufera de Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.387519,
+                        39.361298
+                  ]
             }
       ],
       "hu": [
@@ -3926,6 +3971,15 @@ imageHint: "Ebro Delta rice fields and lagoons",
                   "coords": [
                         -0.319666,
                         39.31202
+                  ]
+            },
+            {
+                  "name": "Piscinas",
+                  "text": "Nyilvános úszómedencék az Albufera de Valencia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.387519,
+                        39.361298
                   ]
             }
       ],
@@ -3992,6 +4046,15 @@ imageHint: "Ebro Delta rice fields and lagoons",
                         -0.319666,
                         39.31202
                   ]
+            },
+            {
+                  "name": "Piscinas",
+                  "text": "Facilități publice de piscină situate lângă Albufera de Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.387519,
+                        39.361298
+                  ]
             }
       ],
       "en": [
@@ -4056,6 +4119,15 @@ imageHint: "Ebro Delta rice fields and lagoons",
                   "coords": [
                         -0.319666,
                         39.31202
+                  ]
+            },
+            {
+                  "name": "Piscinas",
+                  "text": "Public swimming pool facilities located near the Albufera de Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.387519,
+                        39.361298
                   ]
             }
       ]
@@ -4589,7 +4661,196 @@ imageHint: "Royal Botanical Garden Madrid entrance",
     }
   },
   {
-    id: "spain-selwo-aventura-life-v2",
+    id: "spain-selwo-aventura-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de Guadalmansa",
+                  "text": "Der Guadalmansa Beach ist ein Küstenabschnitt bei Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054806,
+                        36.452409
+                  ]
+            },
+            {
+                  "name": "Playa del Sol Villacana",
+                  "text": "Der Sol Villacana Beach befindet sich in der Nähe von Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047414,
+                        36.455179
+                  ]
+            },
+            {
+                  "name": "Playa del Saladillo",
+                  "text": "Saladillo Beach ist ein weitläufiger Strand bei Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.042178,
+                        36.458104
+                  ]
+            },
+            {
+                  "name": "Playa del Padron",
+                  "text": "Die Playa del Padron ist ein Strandabschnitt in der Region Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.103721,
+                        36.437566
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalmansa",
+                  "text": "Playa de Guadalmansa ist ein ruhiger Strand nahe Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.053747,
+                        36.452479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de Guadalmansa",
+                  "text": "A Guadalmansa beach egy tengerparti szakasz Selwo Aventura közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054806,
+                        36.452409
+                  ]
+            },
+            {
+                  "name": "Playa del Sol Villacana",
+                  "text": "A Sol Villacana beach Selwo Aventura közelében található strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047414,
+                        36.455179
+                  ]
+            },
+            {
+                  "name": "Playa del Saladillo",
+                  "text": "A Saladillo Beach egy tágas strand Selwo Aventura közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.042178,
+                        36.458104
+                  ]
+            },
+            {
+                  "name": "Playa del Padron",
+                  "text": "A Playa del Padron egy tengerparti szakasz Selwo Aventura régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.103721,
+                        36.437566
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalmansa",
+                  "text": "A Playa de Guadalmansa egy nyugodt strand Selwo Aventura közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.053747,
+                        36.452479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de Guadalmansa",
+                  "text": "Guadalmansa beach este o zonă de coastă lângă Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054806,
+                        36.452409
+                  ]
+            },
+            {
+                  "name": "Playa del Sol Villacana",
+                  "text": "Sol Villacana beach este o plajă situată în apropiere de Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047414,
+                        36.455179
+                  ]
+            },
+            {
+                  "name": "Playa del Saladillo",
+                  "text": "Saladillo Beach este o plajă întinsă lângă Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.042178,
+                        36.458104
+                  ]
+            },
+            {
+                  "name": "Playa del Padron",
+                  "text": "Playa del Padron este o zonă de plajă în regiunea Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.103721,
+                        36.437566
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalmansa",
+                  "text": "Playa de Guadalmansa este o plajă liniștită lângă Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.053747,
+                        36.452479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guadalmansa beach",
+                  "text": "Guadalmansa beach is a coastal area located near Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054806,
+                        36.452409
+                  ]
+            },
+            {
+                  "name": "Sol Villacana beach",
+                  "text": "Sol Villacana beach is a beach area located near Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.047414,
+                        36.455179
+                  ]
+            },
+            {
+                  "name": "Saladillo Beach",
+                  "text": "Saladillo Beach is a spacious beach located near Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.042178,
+                        36.458104
+                  ]
+            },
+            {
+                  "name": "Playa del Padron",
+                  "text": "Playa del Padron is a beach section in the Selwo Aventura area.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.103721,
+                        36.437566
+                  ]
+            },
+            {
+                  "name": "Playa de Guadalmansa",
+                  "text": "Playa de Guadalmansa is a quiet beach located near Selwo Aventura.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.053747,
+                        36.452479
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "wildlife",
     name: { de: "Selwo Aventura", hu: "Selwo Aventura", ro: "Selwo Aventura", en: "Selwo Aventura"},
@@ -4730,7 +4991,160 @@ imageHint: "Royal Botanical Garden Madrid entrance",
     }
   },
   {
-    id: "spain-marismas-odiel-life-v2",
+    id: "spain-marismas-odiel-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de los Enebrales",
+                  "text": "Die Playa de los Enebrales ist ein Strand im Naturgebiet Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.994404,
+                        37.189696
+                  ]
+            },
+            {
+                  "name": "Playa de La Canaleta",
+                  "text": "Die Playa de La Canaleta ist ein Strand in der Nähe des Naturschutzgebiets Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.952697,
+                        37.170176
+                  ]
+            },
+            {
+                  "name": "Playa Urbana de Punta Umbría",
+                  "text": "Die Playa Urbana de Punta Umbría ist der Hauptstrand des Ortes bei den Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.967362,
+                        37.177182
+                  ]
+            },
+            {
+                  "name": "Playa de La Ría",
+                  "text": "Die Playa de La Ría ist ein Strand am Mündungsgebiet der Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.951927,
+                        37.174902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de los Enebrales",
+                  "text": "A Playa de los Enebrales egy strand a Marismas del Odiel természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.994404,
+                        37.189696
+                  ]
+            },
+            {
+                  "name": "Playa de La Canaleta",
+                  "text": "A Playa de La Canaleta egy strand a Marismas del Odiel természetvédelmi terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.952697,
+                        37.170176
+                  ]
+            },
+            {
+                  "name": "Playa Urbana de Punta Umbría",
+                  "text": "A Playa Urbana de Punta Umbría a város fő strandja a Marismas del Odiel mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.967362,
+                        37.177182
+                  ]
+            },
+            {
+                  "name": "Playa de La Ría",
+                  "text": "A Playa de La Ría egy strand a Marismas del Odiel torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.951927,
+                        37.174902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de los Enebrales",
+                  "text": "Playa de los Enebrales este o plajă situată în aria naturală Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.994404,
+                        37.189696
+                  ]
+            },
+            {
+                  "name": "Playa de La Canaleta",
+                  "text": "Playa de La Canaleta este o plajă situată lângă rezervația naturală Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.952697,
+                        37.170176
+                  ]
+            },
+            {
+                  "name": "Playa Urbana de Punta Umbría",
+                  "text": "Playa Urbana de Punta Umbría este plaja principală a orașului, situată lângă Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.967362,
+                        37.177182
+                  ]
+            },
+            {
+                  "name": "Playa de La Ría",
+                  "text": "Playa de La Ría este o plajă situată la estuarul Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.951927,
+                        37.174902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa de los Enebrales",
+                  "text": "Playa de los Enebrales is a beach located in the Marismas del Odiel natural area.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.994404,
+                        37.189696
+                  ]
+            },
+            {
+                  "name": "Playa de La Canaleta",
+                  "text": "Playa de La Canaleta is a beach located near the Marismas del Odiel natural area.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.952697,
+                        37.170176
+                  ]
+            },
+            {
+                  "name": "Playa Urbana de Punta Umbría",
+                  "text": "Playa Urbana de Punta Umbría is the town's main beach located near Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.967362,
+                        37.177182
+                  ]
+            },
+            {
+                  "name": "Playa de La Ría",
+                  "text": "Playa de La Ría is a beach located at the estuary of Marismas del Odiel.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.951927,
+                        37.174902
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Marismas del Odiel", hu: "Marismas del Odiel", ro: "Marismas del Odiel", en: "Marismas del Odiel"},

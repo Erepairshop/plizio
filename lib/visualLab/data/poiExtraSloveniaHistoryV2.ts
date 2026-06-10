@@ -1860,7 +1860,52 @@ imageHint: "Small fortified church with ancient stone wall and tower",
     },
     image: "/poi-images/slovenia-hrastovlje-church-history-v2.webp",
 },  {
-    id: "slovenia-piran-walls-history-v2",
+    id: "slovenia-piran-walls-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nudist Beach",
+                  "text": "Ein in der Nähe der Stadtmauer von Piran gelegener Strandabschnitt für FKK-Anhänger.",
+                  "category": "recreational",
+                  "coords": [
+                        13.57341,
+                        45.52875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nudist Beach",
+                  "text": "Piran városfalai közelében található tengerparti szakasz naturisták számára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.57341,
+                        45.52875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nudist Beach",
+                  "text": "O secțiune de plajă situată lângă zidurile orașului Piran, destinată nudiștilor.",
+                  "category": "recreational",
+                  "coords": [
+                        13.57341,
+                        45.52875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nudist Beach",
+                  "text": "A beach section located near the Piran city walls for naturists.",
+                  "category": "recreational",
+                  "coords": [
+                        13.57341,
+                        45.52875
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "landmark",
     name: { de: "Stadtmauer von Piran", hu: "Pirani városfal", ro: "Zidurile orașului Piran", en: "Piran City Walls"},

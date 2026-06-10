@@ -2771,6 +2771,15 @@ export const poiExtraHu2: POI[] = [
                         17.407446,
                         47.822932
                   ]
+            },
+            {
+                  "name": "Lipót Thermal -und Erlebnisbad",
+                  "text": "Ein bekanntes Thermalbad und Spa-Resort im Szigetközer Wald.",
+                  "category": "recreational",
+                  "coords": [
+                        17.456342,
+                        47.859749
+                  ]
             }
       ],
       "hu": [
@@ -2781,6 +2790,15 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         17.407446,
                         47.822932
+                  ]
+            },
+            {
+                  "name": "Lipótfürdő",
+                  "text": "Népszerű termálfürdő és élményfürdő a Szigetközben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.456342,
+                        47.859749
                   ]
             }
       ],
@@ -2793,6 +2811,15 @@ export const poiExtraHu2: POI[] = [
                         17.407446,
                         47.822932
                   ]
+            },
+            {
+                  "name": "Lipótfürdő",
+                  "text": "Băi termale și un complex spa renumit în zona Szigetköz.",
+                  "category": "recreational",
+                  "coords": [
+                        17.456342,
+                        47.859749
+                  ]
             }
       ],
       "en": [
@@ -2803,6 +2830,15 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         17.407446,
                         47.822932
+                  ]
+            },
+            {
+                  "name": "Lipót Thermalbath and Spa",
+                  "text": "A well-known thermal bath and spa resort in the Szigetköz region.",
+                  "category": "recreational",
+                  "coords": [
+                        17.456342,
+                        47.859749
                   ]
             }
       ]
@@ -5497,6 +5533,24 @@ export const poiExtraHu2: POI[] = [
                         17.318357,
                         46.712313
                   ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Ein öffentlicher freier Badestrand am Plattensee.",
+                  "category": "recreational",
+                  "coords": [
+                        17.334427,
+                        46.715439
+                  ]
+            },
+            {
+                  "name": "Községi strand",
+                  "text": "Ein lokaler Strandort für Touristen und Einheimische am Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.31905,
+                        46.714648
+                  ]
             }
       ],
       "hu": [
@@ -5570,6 +5624,24 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         17.318357,
                         46.712313
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Nyilvános szabadstrand a Balaton partján.",
+                  "category": "recreational",
+                  "coords": [
+                        17.334427,
+                        46.715439
+                  ]
+            },
+            {
+                  "name": "Községi strand",
+                  "text": "Helyi községi strand a Balatonnál a turisták és helyiek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        17.31905,
+                        46.714648
                   ]
             }
       ],
@@ -5645,6 +5717,24 @@ export const poiExtraHu2: POI[] = [
                         17.318357,
                         46.712313
                   ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "O plajă publică gratuită pe malul lacului Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.334427,
+                        46.715439
+                  ]
+            },
+            {
+                  "name": "Községi strand",
+                  "text": "O plajă locală pentru turiști și localnici la lacul Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.31905,
+                        46.714648
+                  ]
             }
       ],
       "en": [
@@ -5718,6 +5808,24 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         17.318357,
                         46.712313
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "A public free beach on the shores of Lake Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.334427,
+                        46.715439
+                  ]
+            },
+            {
+                  "name": "Községi strand",
+                  "text": "A local municipal beach for tourists and locals at Lake Balaton.",
+                  "category": "recreational",
+                  "coords": [
+                        17.31905,
+                        46.714648
                   ]
             }
       ]

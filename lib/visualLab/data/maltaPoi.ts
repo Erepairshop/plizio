@@ -717,6 +717,15 @@ export const maltaPoi: POI[] = [
                         14.505669,
                         35.915472
                   ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Ein Küstenort in Sliema Promenade mit Strandzugang und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
             }
       ],
       "hu": [
@@ -727,6 +736,15 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.505669,
                         35.915472
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Tengerparti üdülőhely Sliema Promenade közelében, stranddal és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
                   ]
             }
       ],
@@ -739,6 +757,15 @@ export const maltaPoi: POI[] = [
                         14.505669,
                         35.915472
                   ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "O stațiune de coastă în Sliema Promenade care oferă acces la plajă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
             }
       ],
       "en": [
@@ -749,6 +776,15 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.505669,
                         35.915472
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "A coastal resort area in Sliema Promenade offering beach access and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
                   ]
             }
       ]
@@ -2861,7 +2897,52 @@ export const maltaPoi: POI[] = [
 
   // MT-005 Pembroke
   {
-    id: "poi-mt-pembroke-garden",
+    id: "poi-mt-pembroke-garden", "sights": {
+      "de": [
+            {
+                  "name": "Ladder 2",
+                  "text": "Ladder 2 ist ein Zugangspunkt zum Meer im Pembroke Heritage Park auf Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.481316,
+                        35.934159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ladder 2",
+                  "text": "A Ladder 2 egy tengeri hozzáférési pont a máltai Pembroke Heritage Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.481316,
+                        35.934159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ladder 2",
+                  "text": "Ladder 2 este un punct de acces la mare în Pembroke Heritage Park din Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.481316,
+                        35.934159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ladder 2",
+                  "text": "Ladder 2 is a sea access point in Pembroke Heritage Park on Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.481316,
+                        35.934159
+                  ]
+            }
+      ]
+},
     name: { de: "Pembroke Heritage Park", hu: "Pembroke Örökség Park", ro: "Parcul Pembroke Heritage", en: "Pembroke Heritage Park" },
     type: "landmark",
     parent: "MT-005",
@@ -5180,6 +5261,15 @@ export const maltaPoi: POI[] = [
                         14.248085,
                         36.079171
                   ]
+            },
+            {
+                  "name": "Bajja tal-Qbajjar",
+                  "text": "Qbajjar Bay ist ein beliebter Ort zum Schwimmen auf der Insel Gozo, nahe der Salzpfannen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.25236,
+                        36.076615
+                  ]
             }
       ],
       "hu": [
@@ -5190,6 +5280,15 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.248085,
                         36.079171
+                  ]
+            },
+            {
+                  "name": "Bajja tal-Qbajjar",
+                  "text": "A Qbajjar-öböl népszerű fürdőhely Gozo szigetén, a lepárlómedencék közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.25236,
+                        36.076615
                   ]
             }
       ],
@@ -5202,6 +5301,15 @@ export const maltaPoi: POI[] = [
                         14.248085,
                         36.079171
                   ]
+            },
+            {
+                  "name": "Bajja tal-Qbajjar",
+                  "text": "Golful Qbajjar este un loc popular pentru înot pe insula Gozo, lângă saline.",
+                  "category": "recreational",
+                  "coords": [
+                        14.25236,
+                        36.076615
+                  ]
             }
       ],
       "en": [
@@ -5212,6 +5320,15 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.248085,
                         36.079171
+                  ]
+            },
+            {
+                  "name": "Qbajjar Bay",
+                  "text": "Qbajjar Bay is a popular spot for swimming on the island of Gozo near the salt pans.",
+                  "category": "recreational",
+                  "coords": [
+                        14.25236,
+                        36.076615
                   ]
             }
       ]
@@ -10229,6 +10346,42 @@ export const maltaPoi: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "Die Ta' Qali Petting Farm ist ein beliebter Streichelzoo im Gebiet von Ta' Qali.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Das Malta Marriott Lido bietet Schwimm- und Freizeitmöglichkeiten am Marriott-Resort.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Das National Swimming Pool ist eine bedeutende öffentliche Wassersportanlage auf Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            },
+            {
+                  "name": "Neptunes",
+                  "text": "Neptunes ist ein bekannter Schwimmclub und eine Wasserball-Anlage.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493591,
+                        35.915148
+                  ]
             }
       ],
       "hu": [
@@ -10572,6 +10725,42 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "A Ta' Qali Petting Farm egy népszerű állatsimogató a Ta' Qali területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "A Malta Marriott Lido egy úszómedence és szabadidős létesítmény a máltai Marriottnál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "A National Swimming Pool Málta egyik fő nyilvános vízi létesítménye.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            },
+            {
+                  "name": "Neptunes",
+                  "text": "A Neptunes egy jól ismert úszómedence és vízilabda klub létesítménye.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493591,
+                        35.915148
                   ]
             }
       ],
@@ -10917,6 +11106,42 @@ export const maltaPoi: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "Ta' Qali Petting Farm este o grădină zoologică populară situată în zona Ta' Qali.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Malta Marriott Lido este o piscină și o facilitate de agrement la Marriott în Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "National Swimming Pool este o facilitate acvatică publică majoră din Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            },
+            {
+                  "name": "Neptunes",
+                  "text": "Neptunes este o facilitate cunoscută de piscină și club de polo pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493591,
+                        35.915148
+                  ]
             }
       ],
       "en": [
@@ -11260,6 +11485,42 @@ export const maltaPoi: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "Ta' Qali Petting Farm",
+                  "text": "Ta' Qali Petting Farm is a popular petting zoo located in the Ta' Qali area.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Malta Marriott Lido is a swimming pool and leisure facility at the Marriott in Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "National Swimming Pool is a major public aquatic facility in Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            },
+            {
+                  "name": "Neptunes",
+                  "text": "Neptunes is a well-known swimming pool and water polo club facility.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493591,
+                        35.915148
                   ]
             }
       ]

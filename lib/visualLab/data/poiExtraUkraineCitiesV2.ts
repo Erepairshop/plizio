@@ -741,7 +741,52 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
     image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp",
 },  {
-    id: "ukraine-mykolaiv-cities-v2",
+    id: "ukraine-mykolaiv-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Стрілка",
+                  "text": "Ein beliebter Strand am Zusammenfluss der Flüsse Südlicher Bug und Inhul in Mykolajiw.",
+                  "category": "recreational",
+                  "coords": [
+                        31.989854,
+                        46.981065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Стрілка",
+                  "text": "Népszerű strand a Déli-Bug és az Inhul folyók összefolyásánál Mikolajivban.",
+                  "category": "recreational",
+                  "coords": [
+                        31.989854,
+                        46.981065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Стрілка",
+                  "text": "O plajă populară la confluența râurilor Bugul de Sud și Ingul în Nikolaev.",
+                  "category": "recreational",
+                  "coords": [
+                        31.989854,
+                        46.981065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Стрілка",
+                  "text": "A popular beach at the confluence of the Southern Bug and Inhul rivers in Mykolaiv.",
+                  "category": "recreational",
+                  "coords": [
+                        31.989854,
+                        46.981065
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Mykolajiw", hu: "Mikolajiv", ro: "Nikolaev", en: "Mykolaiv"},
@@ -976,7 +1021,232 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-sevastopol-cities-v2",
+    id: "ukraine-sevastopol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Лазурь",
+                  "text": "Ein Badeort in der Nähe von Sewastopol am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        33.535389,
+                        44.643826
+                  ]
+            },
+            {
+                  "name": "Нудистский",
+                  "text": "Ein für Nudisten ausgewiesener Strandabschnitt in Sewastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.528419,
+                        44.639079
+                  ]
+            },
+            {
+                  "name": "Учкуевка",
+                  "text": "Ein weitläufiger Sandstrand im Norden von Sewastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.536134,
+                        44.645357
+                  ]
+            },
+            {
+                  "name": "Толстяк",
+                  "text": "Ein Kieselstrand in der Nähe der Nordseite von Sewastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.522312,
+                        44.638228
+                  ]
+            },
+            {
+                  "name": "Офицерский пляж",
+                  "text": "Ein kleiner Strandabschnitt in der Bucht von Sewastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.51206,
+                        44.630734
+                  ]
+            },
+            {
+                  "name": "Хрустальный пляж",
+                  "text": "Ein betonierter Stadtstrand im Stadtzentrum von Sewastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.517754,
+                        44.61675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Лазурь",
+                  "text": "Üdülőhely a fekete-tengeri Szevasztopol közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.535389,
+                        44.643826
+                  ]
+            },
+            {
+                  "name": "Нудистский",
+                  "text": "Nudisták számára kijelölt strandszakasz Szevasztopolban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.528419,
+                        44.639079
+                  ]
+            },
+            {
+                  "name": "Учкуевка",
+                  "text": "Kiterjedt homokos strand Szevasztopol északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.536134,
+                        44.645357
+                  ]
+            },
+            {
+                  "name": "Толстяк",
+                  "text": "Kavicsos strand Szevasztopol északi oldala közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.522312,
+                        44.638228
+                  ]
+            },
+            {
+                  "name": "Офицерский пляж",
+                  "text": "Kisméretű strandszakasz a Szevasztopoli-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        33.51206,
+                        44.630734
+                  ]
+            },
+            {
+                  "name": "Хрустальный пляж",
+                  "text": "Betonozott városi strand Szevasztopol központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.517754,
+                        44.61675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Лазурь",
+                  "text": "O stațiune balneară lângă Sevastopol, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        33.535389,
+                        44.643826
+                  ]
+            },
+            {
+                  "name": "Нудистский",
+                  "text": "O secțiune de plajă desemnată pentru nudiști în Sevastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.528419,
+                        44.639079
+                  ]
+            },
+            {
+                  "name": "Учкуевка",
+                  "text": "O plajă de nisip întinsă în nordul Sevastopolului.",
+                  "category": "recreational",
+                  "coords": [
+                        33.536134,
+                        44.645357
+                  ]
+            },
+            {
+                  "name": "Толстяк",
+                  "text": "O plajă cu pietriș situată lângă partea de nord a Sevastopolului.",
+                  "category": "recreational",
+                  "coords": [
+                        33.522312,
+                        44.638228
+                  ]
+            },
+            {
+                  "name": "Офицерский пляж",
+                  "text": "O mică secțiune de plajă în golful Sevastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.51206,
+                        44.630734
+                  ]
+            },
+            {
+                  "name": "Хрустальный пляж",
+                  "text": "O plajă urbană betonată în centrul orașului Sevastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.517754,
+                        44.61675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Лазурь",
+                  "text": "A seaside resort area near Sevastopol on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.535389,
+                        44.643826
+                  ]
+            },
+            {
+                  "name": "Нудистский",
+                  "text": "A beach section designated for nudists in Sevastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.528419,
+                        44.639079
+                  ]
+            },
+            {
+                  "name": "Учкуевка",
+                  "text": "A spacious sandy beach located in the northern part of Sevastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.536134,
+                        44.645357
+                  ]
+            },
+            {
+                  "name": "Толстяк",
+                  "text": "A pebble beach located near the north side of Sevastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.522312,
+                        44.638228
+                  ]
+            },
+            {
+                  "name": "Офицерский пляж",
+                  "text": "A small beach section located in the Sevastopol Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        33.51206,
+                        44.630734
+                  ]
+            },
+            {
+                  "name": "Хрустальный пляж",
+                  "text": "A concrete-paved urban beach in the center of Sevastopol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.517754,
+                        44.61675
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Sewastopol", hu: "Szevasztopol", ro: "Sevastopol", en: "Sevastopol"},
@@ -1869,7 +2139,808 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-kerch-cities-v2", "sights": {"de": [{"name": "Pantykapey (IX-IV veka do n.e.)", "text": "Pantikapaion ist eine bedeutende antike griechische archäologische Stätte in Kertsch, die als Hauptstadt des Bosporanischen Reiches diente.", "category": "historical", "coords": [36.468646, 45.351006]}, {"name": "Melek-Chesmenskyy kurhan", "text": "Der Melek-Tschesme-Kurgan ist ein antiker archäologischer Grabhügel in der Stadt Kertsch.", "category": "historical", "coords": [36.470436, 45.363]}, {"name": "Teatr ym. A.S. Pushkyna", "text": "Das Puschkin-Theater ist ein Veranstaltungsort für darstellende Künste in der Stadt Kertsch.", "category": "cultural", "coords": [36.473493, 45.35286]}, {"name": "Muzey Okeanohrafyy", "text": "Das Ozeanographische Museum ist ein lokales Museum für Meereswissenschaften in Kertsch.", "category": "museum", "coords": [36.474285, 45.350221]}, {"name": "Chacha (Cherepashka)", "text": "Chacha (Tscherepaschka) ist ein Strandziel in der Stadt Kertsch.", "category": "recreational", "coords": [36.500718, 45.363868]}, {"name": "Utynka", "text": "Utinka ist ein Küstenstrand in der Stadt Kertsch.", "category": "recreational", "coords": [36.469403, 45.341268]}, {"name": "Obelisk des Ruhms", "text": "Der Obelisk des Ruhms ist ein markantes Gedenkmonument in Kertsch.", "category": "historical", "coords": [36.470576, 45.350408]}, {"name": "Bolshaya Mytrydatskaya lestnytsa", "text": "Die Mithridates-Treppe ist eine bemerkenswerte Attraktion, die den Berg in Kertsch hinaufführt.", "category": "landmark", "coords": [36.472146, 45.350784]}, {"name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey", "text": "Dieses historische und archäologische Museum befindet sich im Mesaksudi-Herrenhaus und zeigt das reiche Erbe von Kertsch.", "category": "historical", "coords": [36.470673, 45.347654]}, {"name": "Khram Yoanna Predtechy", "text": "Die Kirche Johannes des Täufers ist eine alte byzantinische Kirchenattraktion in Kertsch.", "category": "landmark", "coords": [36.476006, 45.351462]}, {"name": "bunker", "text": "Diese Bunkerruinen sind historische Überreste in Kertsch.", "category": "historical", "coords": [36.458258, 45.348217]}, {"name": "Myasokombynat", "text": "Die Ruinen des alten Fleischkombinats befinden sich in der Stadt Kertsch.", "category": "historical", "coords": [36.465082, 45.342102]}, {"name": "Tekhnolohychnaya model sklepa Demetry", "text": "Diese Attraktion ist eine Nachbildung der berühmten Demeter-Krypta in Kertsch.", "category": "landmark", "coords": [36.473375, 45.351056]}, {"name": "Rotonda", "text": "Die Rotunde ist eine architektonische Attraktion in der Stadt Kertsch.", "category": "landmark", "coords": [36.473598, 45.348411]}, {"name": "Ruyny zenytnoy artbatarey", "text": "Die Ruinen der Flak-Batterie dienen als historische Attraktion in Kertsch.", "category": "landmark", "coords": [36.463678, 45.348817]}, {"name": "Dolhaya skala", "text": "Dolgaya Skala (Langer Felsen) ist ein Aussichtspunkt mit Panoramablick in Kertsch.", "category": "natural", "coords": [36.452875, 45.346465]}, {"name": "Sklep Demetry", "text": "Die Demeter-Krypta ist eine antike Grabattraktion in Kertsch.", "category": "landmark", "coords": [36.472351, 45.364948]}, {"name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)", "text": "Die Kirche des Heiligen Apostels Andreas des Erstberufenen aus dem Jahr 1893 ist eine religiöse Attraktion in Kertsch.", "category": "landmark", "coords": [36.505271, 45.365257]}, {"name": "Alleya Slavy", "text": "Die Allee des Ruhms ist ein Gedenkweg und eine Attraktion in der Stadt Kertsch.", "category": "landmark", "coords": [36.474512, 45.352753]}, {"name": "Solnechnye chasy", "text": "Die Sonnenuhr ist eine markante Freiluftattraktion in Kertsch.", "category": "landmark", "coords": [36.458407, 45.339428]}, {"name": "Dzhuma-Dzhamy", "text": "Dschuma-Dschami ist eine historische Moschee und eine islamische Kultstätte in der Stadt Kertsch.", "category": "religious", "coords": [36.446615, 45.35256]}], "hu": [{"name": "Pantykapey (IX-IV veka do n.e.)", "text": "Pantikapaion egy jelentős ókori görög régészeti lelőhely Kertschben, amely a Boszporoszi Királyság fővárosaként szolgált.", "category": "historical", "coords": [36.468646, 45.351006]}, {"name": "Melek-Chesmenskyy kurhan", "text": "A Melek-Cseszme kurgán egy ősi régészeti sírhalom Kertsch városában.", "category": "historical", "coords": [36.470436, 45.363]}, {"name": "Teatr ym. A.S. Pushkyna", "text": "A Puskin Színház egy előadó-művészeti helyszín Kertsch városában.", "category": "cultural", "coords": [36.473493, 45.35286]}, {"name": "Muzey Okeanohrafyy", "text": "Az Oceanográfiai Múzeum egy tengeri tudományoknak szentelt helyi múzeum Kertschben.", "category": "museum", "coords": [36.474285, 45.350221]}, {"name": "Chacha (Cherepashka)", "text": "A Csacsa (Cserepaska) egy strand Kertsch városában.", "category": "recreational", "coords": [36.500718, 45.363868]}, {"name": "Utynka", "text": "Az Utyinka egy part menti strand terület Kertsch városában.", "category": "recreational", "coords": [36.469403, 45.341268]}, {"name": "Obelysk Slavy Bessmertnym Heroyam na hore Mytrydat", "text": "A Dicsőség Obeliszkje egy kiemelkedő emlékmű Kertsch városában.", "category": "historical", "coords": [36.470576, 45.350408]}, {"name": "Bolshaya Mytrydatskaya lestnytsa", "text": "A Mithridatész-lépcső egy figyelemre méltó látványosság, amely a hegyre vezet fel Kertschben.", "category": "landmark", "coords": [36.472146, 45.350784]}, {"name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey", "text": "A Meszakszudi-kúriában található történelmi és régészeti múzeum Kertsch gazdag örökségét mutatja be.", "category": "historical", "coords": [36.470673, 45.347654]}, {"name": "Khram Yoanna Predtechy", "text": "A Keresztelő Szent János-templom egy ősi bizánci templom, amely Kertsch egyik látványossága.", "category": "landmark", "coords": [36.476006, 45.351462]}, {"name": "bunker", "text": "Ezek a bunkerromok történelmi maradványok Kertschben.", "category": "historical", "coords": [36.458258, 45.348217]}, {"name": "Myasokombynat", "text": "A régi húsfeldolgozó üzem romjai Kertsch városában találhatók.", "category": "historical", "coords": [36.465082, 45.342102]}, {"name": "Tekhnolohychnaya model sklepa Demetry", "text": "Ez a látványosság a híres Démétér-kripta másolata Kertschben.", "category": "landmark", "coords": [36.473375, 45.351056]}, {"name": "Rotonda", "text": "A Rotunda egy építészeti látványosság Kertsch városában.", "category": "landmark", "coords": [36.473598, 45.348411]}, {"name": "Ruyny zenytnoy artbatarey", "text": "A légvédelmi tüzérségi üteg romjai történelmi látványosságként szolgálnak Kertschben.", "category": "landmark", "coords": [36.463678, 45.348817]}, {"name": "Dolhaya skala", "text": "A Dolgaja Szkala (Hosszú-szikla) egy festői kilátó Kertschben, amely panorámás kilátást nyújt.", "category": "natural", "coords": [36.452875, 45.346465]}, {"name": "Sklep Demetry", "text": "A Démétér-kripta egy ősi temetkezési látványosság Kertschben.", "category": "landmark", "coords": [36.472351, 45.364948]}, {"name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)", "text": "Az 1893-ban épült Elsőhívott Szent András apostol temploma egy vallási látványosság Kertschben.", "category": "landmark", "coords": [36.505271, 45.365257]}, {"name": "Alleya Slavy", "text": "A Dicsőség Sétánya egy emlékút és látványosság Kertsch városában.", "category": "landmark", "coords": [36.474512, 45.352753]}, {"name": "Solnechnye chasy", "text": "A Napóra egy jellegzetes szabadtéri látványosság Kertschben.", "category": "landmark", "coords": [36.458407, 45.339428]}, {"name": "Dzhuma-Dzhamy", "text": "A Dzsuma-Dzsemi egy történelmi mecset és iszlám istentiszteleti hely Kertsch városában.", "category": "religious", "coords": [36.446615, 45.35256]}], "ro": [{"name": "Pantykapey (IX-IV veka do n.e.)", "text": "Panticapaeum este un important sit arheologic antic grecesc din Kerci, care a servit drept capitală a Regatului Bosporan.", "category": "historical", "coords": [36.468646, 45.351006]}, {"name": "Melek-Chesmenskyy kurhan", "text": "Kurganul Melek-Chesme este un tumul arheologic antic situat în orașul Kerci.", "category": "historical", "coords": [36.470436, 45.363]}, {"name": "Teatr ym. A.S. Pushkyna", "text": "Teatrul Pușkin este o sală de spectacole situată în orașul Kerci.", "category": "cultural", "coords": [36.473493, 45.35286]}, {"name": "Muzey Okeanohrafyy", "text": "Muzeul de Oceanografie este un muzeu local dedicat științelor marine din Kerci.", "category": "museum", "coords": [36.474285, 45.350221]}, {"name": "Chacha (Cherepashka)", "text": "Chacha (Cerepașka) este o plajă situată în orașul Kerci.", "category": "recreational", "coords": [36.500718, 45.363868]}, {"name": "Utynka", "text": "Utinka este o plajă de coastă din orașul Kerci.", "category": "recreational", "coords": [36.469403, 45.341268]}, {"name": "Obelysk Slavy Bessmertnym Heroyam na hore Mytrydat", "text": "Obeliscul Gloriei este un monument comemorativ important situat în Kerci.", "category": "historical", "coords": [36.470576, 45.350408]}, {"name": "Bolshaya Mytrydatskaya lestnytsa", "text": "Scara lui Mitridate este o atracție notabilă care duce spre muntele din Kerci.", "category": "landmark", "coords": [36.472146, 45.350784]}, {"name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey", "text": "Situat în conacul Mesaksudi, acest muzeu istoric și arheologic prezintă bogata moștenire a orașului Kerci.", "category": "historical", "coords": [36.470673, 45.347654]}, {"name": "Khram Yoanna Predtechy", "text": "Biserica Sfântul Ioan Botezătorul este o veche atracție bisericească bizantină din Kerci.", "category": "landmark", "coords": [36.476006, 45.351462]}, {"name": "bunker", "text": "Aceste ruine ale buncărului sunt rămășițe istorice situate în Kerci.", "category": "historical", "coords": [36.458258, 45.348217]}, {"name": "Myasokombynat", "text": "Ruinele vechii fabrici de procesare a cărnii se găsesc în Kerci.", "category": "historical", "coords": [36.465082, 45.342102]}, {"name": "Tekhnolohychnaya model sklepa Demetry", "text": "Această atracție este o replică a celebrei Cripte a lui Demetra din Kerci.", "category": "landmark", "coords": [36.473375, 45.351056]}, {"name": "Rotonda", "text": "Rotonda este o atracție arhitecturală din orașul Kerci.", "category": "landmark", "coords": [36.473598, 45.348411]}, {"name": "Ruyny zenytnoy artbatarey", "text": "Ruinele bateriei de artilerie antiaeriană servesc drept atracție istorică în Kerci.", "category": "landmark", "coords": [36.463678, 45.348817]}, {"name": "Dolhaya skala", "text": "Dolgaya Skala (Stânca Lungă) este un punct de belvedere pitoresc care oferă priveliști panoramice în Kerci.", "category": "natural", "coords": [36.452875, 45.346465]}, {"name": "Sklep Demetry", "text": "Cripta lui Demetra este o atracție funerară antică din Kerci.", "category": "landmark", "coords": [36.472351, 45.364948]}, {"name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)", "text": "Biserica Sfântului Apostol Andrei cel Întâi Chemat, construită în 1893, este o atracție religioasă din Kerci.", "category": "landmark", "coords": [36.505271, 45.365257]}, {"name": "Alleya Slavy", "text": "Aleea Gloriei este o alee memorială și o atracție în orașul Kerci.", "category": "landmark", "coords": [36.474512, 45.352753]}, {"name": "Solnechnye chasy", "text": "Ceasul Solar este o atracție distinctă în aer liber situată în Kerci.", "category": "landmark", "coords": [36.458407, 45.339428]}, {"name": "Dzhuma-Dzhamy", "text": "Juma-Jami este o moschee istorică și un lăcaș de cult islamic din orașul Kerci.", "category": "religious", "coords": [36.446615, 45.35256]}], "en": [{"name": "Panticapaeum (6c B.C. - 3c A.D.)", "text": "Panticapaeum is a significant ancient Greek archaeological site in Kertsch that served as the capital of the Bosporan Kingdom.", "category": "historical", "coords": [36.468646, 45.351006]}, {"name": "Melek-Chesme kurghan", "text": "Melek-Chesme kurghan is an ancient archaeological burial mound located in the city of Kertsch.", "category": "historical", "coords": [36.470436, 45.363]}, {"name": "Pushkin Theater", "text": "The Pushkin Theater is a performing arts venue located in the city of Kertsch.", "category": "cultural", "coords": [36.473493, 45.35286]}, {"name": "Muzey Okeanohrafyy", "text": "The Museum of Oceanography is a local museum dedicated to marine sciences in Kertsch.", "category": "museum", "coords": [36.474285, 45.350221]}, {"name": "Chacha (Cherepashka)", "text": "Chacha (Cherepashka) is a beach destination situated in the city of Kertsch.", "category": "recreational", "coords": [36.500718, 45.363868]}, {"name": "Utynka", "text": "Utinka is a coastal beach area in the city of Kertsch.", "category": "recreational", "coords": [36.469403, 45.341268]}, {"name": "Obelisk of Glory", "text": "The Obelisk of Glory is a prominent commemorative monument located in Kertsch.", "category": "historical", "coords": [36.470576, 45.350408]}, {"name": "Mithridates Staircase", "text": "The Mithridates Staircase is a notable attraction leading up the mountain in Kertsch.", "category": "landmark", "coords": [36.472146, 45.350784]}, {"name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey", "text": "Located in the Mesaksudi Mansion, this historical and archaeological museum showcases the rich heritage of Kertsch.", "category": "historical", "coords": [36.470673, 45.347654]}, {"name": "Khram Yoanna Predtechy", "text": "The Church of John the Baptist is an ancient Byzantine church attraction in Kertsch.", "category": "landmark", "coords": [36.476006, 45.351462]}, {"name": "bunker", "text": "These bunker ruins are historical remnants located in Kertsch.", "category": "historical", "coords": [36.458258, 45.348217]}, {"name": "Myasokombynat", "text": "The ruins of the old meat processing plant can be found in Kertsch.", "category": "historical", "coords": [36.465082, 45.342102]}, {"name": "Copy of the Crypt of Demetra", "text": "This attraction is a replica of the famous Crypt of Demetra in Kertsch.", "category": "landmark", "coords": [36.473375, 45.351056]}, {"name": "Rotunda", "text": "The Rotunda is an architectural attraction in the city of Kertsch.", "category": "landmark", "coords": [36.473598, 45.348411]}, {"name": "Ruyny zenytnoy artbatarey", "text": "The ruins of the anti-aircraft artillery battery serve as a historical attraction in Kertsch.", "category": "landmark", "coords": [36.463678, 45.348817]}, {"name": "Dolhaya skala", "text": "Dolgaya Skala (Long Rock) is a scenic viewpoint offering panoramic sights in Kertsch.", "category": "natural", "coords": [36.452875, 45.346465]}, {"name": "Sklep Demetry", "text": "The Crypt of Demetra is an ancient burial attraction in Kertsch.", "category": "landmark", "coords": [36.472351, 45.364948]}, {"name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)", "text": "The Church of St. Andrew the First-Called, built in 1893, is a religious attraction in Kertsch.", "category": "landmark", "coords": [36.505271, 45.365257]}, {"name": "Alleya Slavy", "text": "The Alley of Glory is a memorial walk and attraction in the city of Kertsch.", "category": "landmark", "coords": [36.474512, 45.352753]}, {"name": "Solnechnye chasy", "text": "The Sundial is a distinctive outdoor attraction located in Kertsch.", "category": "landmark", "coords": [36.458407, 45.339428]}, {"name": "Dzhuma-Dzhamy", "text": "Juma-Jami is a historic mosque and Islamic place of worship in the city of Kertsch.", "category": "religious", "coords": [36.446615, 45.35256]}]},
+    id: "ukraine-kerch-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pantykapey (IX-IV veka do n.e.)",
+                  "text": "Pantikapaion ist eine bedeutende antike griechische archäologische Stätte in Kertsch, die als Hauptstadt des Bosporanischen Reiches diente.",
+                  "category": "historical",
+                  "coords": [
+                        36.468646,
+                        45.351006
+                  ]
+            },
+            {
+                  "name": "Melek-Chesmenskyy kurhan",
+                  "text": "Der Melek-Tschesme-Kurgan ist ein antiker archäologischer Grabhügel in der Stadt Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.470436,
+                        45.363
+                  ]
+            },
+            {
+                  "name": "Teatr ym. A.S. Pushkyna",
+                  "text": "Das Puschkin-Theater ist ein Veranstaltungsort für darstellende Künste in der Stadt Kertsch.",
+                  "category": "cultural",
+                  "coords": [
+                        36.473493,
+                        45.35286
+                  ]
+            },
+            {
+                  "name": "Muzey Okeanohrafyy",
+                  "text": "Das Ozeanographische Museum ist ein lokales Museum für Meereswissenschaften in Kertsch.",
+                  "category": "museum",
+                  "coords": [
+                        36.474285,
+                        45.350221
+                  ]
+            },
+            {
+                  "name": "Chacha (Cherepashka)",
+                  "text": "Chacha (Tscherepaschka) ist ein Strandziel in der Stadt Kertsch.",
+                  "category": "recreational",
+                  "coords": [
+                        36.500718,
+                        45.363868
+                  ]
+            },
+            {
+                  "name": "Utynka",
+                  "text": "Utinka ist ein Küstenstrand in der Stadt Kertsch.",
+                  "category": "recreational",
+                  "coords": [
+                        36.469403,
+                        45.341268
+                  ]
+            },
+            {
+                  "name": "Obelisk des Ruhms",
+                  "text": "Der Obelisk des Ruhms ist ein markantes Gedenkmonument in Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.470576,
+                        45.350408
+                  ]
+            },
+            {
+                  "name": "Bolshaya Mytrydatskaya lestnytsa",
+                  "text": "Die Mithridates-Treppe ist eine bemerkenswerte Attraktion, die den Berg in Kertsch hinaufführt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472146,
+                        45.350784
+                  ]
+            },
+            {
+                  "name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey",
+                  "text": "Dieses historische und archäologische Museum befindet sich im Mesaksudi-Herrenhaus und zeigt das reiche Erbe von Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.470673,
+                        45.347654
+                  ]
+            },
+            {
+                  "name": "Khram Yoanna Predtechy",
+                  "text": "Die Kirche Johannes des Täufers ist eine alte byzantinische Kirchenattraktion in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.476006,
+                        45.351462
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "Diese Bunkerruinen sind historische Überreste in Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.458258,
+                        45.348217
+                  ]
+            },
+            {
+                  "name": "Myasokombynat",
+                  "text": "Die Ruinen des alten Fleischkombinats befinden sich in der Stadt Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.465082,
+                        45.342102
+                  ]
+            },
+            {
+                  "name": "Tekhnolohychnaya model sklepa Demetry",
+                  "text": "Diese Attraktion ist eine Nachbildung der berühmten Demeter-Krypta in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473375,
+                        45.351056
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "Die Rotunde ist eine architektonische Attraktion in der Stadt Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473598,
+                        45.348411
+                  ]
+            },
+            {
+                  "name": "Ruyny zenytnoy artbatarey",
+                  "text": "Die Ruinen der Flak-Batterie dienen als historische Attraktion in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.463678,
+                        45.348817
+                  ]
+            },
+            {
+                  "name": "Dolhaya skala",
+                  "text": "Dolgaya Skala (Langer Felsen) ist ein Aussichtspunkt mit Panoramablick in Kertsch.",
+                  "category": "natural",
+                  "coords": [
+                        36.452875,
+                        45.346465
+                  ]
+            },
+            {
+                  "name": "Sklep Demetry",
+                  "text": "Die Demeter-Krypta ist eine antike Grabattraktion in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472351,
+                        45.364948
+                  ]
+            },
+            {
+                  "name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)",
+                  "text": "Die Kirche des Heiligen Apostels Andreas des Erstberufenen aus dem Jahr 1893 ist eine religiöse Attraktion in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.505271,
+                        45.365257
+                  ]
+            },
+            {
+                  "name": "Alleya Slavy",
+                  "text": "Die Allee des Ruhms ist ein Gedenkweg und eine Attraktion in der Stadt Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.474512,
+                        45.352753
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "Die Sonnenuhr ist eine markante Freiluftattraktion in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.458407,
+                        45.339428
+                  ]
+            },
+            {
+                  "name": "Dzhuma-Dzhamy",
+                  "text": "Dschuma-Dschami ist eine historische Moschee und eine islamische Kultstätte in der Stadt Kertsch.",
+                  "category": "religious",
+                  "coords": [
+                        36.446615,
+                        45.35256
+                  ]
+            },
+            {
+                  "name": "Сморжик",
+                  "text": "Ein lokaler Strand an der Küste von Kertsch auf der Halbinsel Krim.",
+                  "category": "recreational",
+                  "coords": [
+                        36.511724,
+                        45.359483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pantykapey (IX-IV veka do n.e.)",
+                  "text": "Pantikapaion egy jelentős ókori görög régészeti lelőhely Kertschben, amely a Boszporoszi Királyság fővárosaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        36.468646,
+                        45.351006
+                  ]
+            },
+            {
+                  "name": "Melek-Chesmenskyy kurhan",
+                  "text": "A Melek-Cseszme kurgán egy ősi régészeti sírhalom Kertsch városában.",
+                  "category": "historical",
+                  "coords": [
+                        36.470436,
+                        45.363
+                  ]
+            },
+            {
+                  "name": "Teatr ym. A.S. Pushkyna",
+                  "text": "A Puskin Színház egy előadó-művészeti helyszín Kertsch városában.",
+                  "category": "cultural",
+                  "coords": [
+                        36.473493,
+                        45.35286
+                  ]
+            },
+            {
+                  "name": "Muzey Okeanohrafyy",
+                  "text": "Az Oceanográfiai Múzeum egy tengeri tudományoknak szentelt helyi múzeum Kertschben.",
+                  "category": "museum",
+                  "coords": [
+                        36.474285,
+                        45.350221
+                  ]
+            },
+            {
+                  "name": "Chacha (Cherepashka)",
+                  "text": "A Csacsa (Cserepaska) egy strand Kertsch városában.",
+                  "category": "recreational",
+                  "coords": [
+                        36.500718,
+                        45.363868
+                  ]
+            },
+            {
+                  "name": "Utynka",
+                  "text": "Az Utyinka egy part menti strand terület Kertsch városában.",
+                  "category": "recreational",
+                  "coords": [
+                        36.469403,
+                        45.341268
+                  ]
+            },
+            {
+                  "name": "Obelysk Slavy Bessmertnym Heroyam na hore Mytrydat",
+                  "text": "A Dicsőség Obeliszkje egy kiemelkedő emlékmű Kertsch városában.",
+                  "category": "historical",
+                  "coords": [
+                        36.470576,
+                        45.350408
+                  ]
+            },
+            {
+                  "name": "Bolshaya Mytrydatskaya lestnytsa",
+                  "text": "A Mithridatész-lépcső egy figyelemre méltó látványosság, amely a hegyre vezet fel Kertschben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472146,
+                        45.350784
+                  ]
+            },
+            {
+                  "name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey",
+                  "text": "A Meszakszudi-kúriában található történelmi és régészeti múzeum Kertsch gazdag örökségét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        36.470673,
+                        45.347654
+                  ]
+            },
+            {
+                  "name": "Khram Yoanna Predtechy",
+                  "text": "A Keresztelő Szent János-templom egy ősi bizánci templom, amely Kertsch egyik látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        36.476006,
+                        45.351462
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "Ezek a bunkerromok történelmi maradványok Kertschben.",
+                  "category": "historical",
+                  "coords": [
+                        36.458258,
+                        45.348217
+                  ]
+            },
+            {
+                  "name": "Myasokombynat",
+                  "text": "A régi húsfeldolgozó üzem romjai Kertsch városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        36.465082,
+                        45.342102
+                  ]
+            },
+            {
+                  "name": "Tekhnolohychnaya model sklepa Demetry",
+                  "text": "Ez a látványosság a híres Démétér-kripta másolata Kertschben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473375,
+                        45.351056
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "A Rotunda egy építészeti látványosság Kertsch városában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473598,
+                        45.348411
+                  ]
+            },
+            {
+                  "name": "Ruyny zenytnoy artbatarey",
+                  "text": "A légvédelmi tüzérségi üteg romjai történelmi látványosságként szolgálnak Kertschben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.463678,
+                        45.348817
+                  ]
+            },
+            {
+                  "name": "Dolhaya skala",
+                  "text": "A Dolgaja Szkala (Hosszú-szikla) egy festői kilátó Kertschben, amely panorámás kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        36.452875,
+                        45.346465
+                  ]
+            },
+            {
+                  "name": "Sklep Demetry",
+                  "text": "A Démétér-kripta egy ősi temetkezési látványosság Kertschben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472351,
+                        45.364948
+                  ]
+            },
+            {
+                  "name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)",
+                  "text": "Az 1893-ban épült Elsőhívott Szent András apostol temploma egy vallási látványosság Kertschben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.505271,
+                        45.365257
+                  ]
+            },
+            {
+                  "name": "Alleya Slavy",
+                  "text": "A Dicsőség Sétánya egy emlékút és látványosság Kertsch városában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.474512,
+                        45.352753
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "A Napóra egy jellegzetes szabadtéri látványosság Kertschben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.458407,
+                        45.339428
+                  ]
+            },
+            {
+                  "name": "Dzhuma-Dzhamy",
+                  "text": "A Dzsuma-Dzsemi egy történelmi mecset és iszlám istentiszteleti hely Kertsch városában.",
+                  "category": "religious",
+                  "coords": [
+                        36.446615,
+                        45.35256
+                  ]
+            },
+            {
+                  "name": "Сморжик",
+                  "text": "Helyi strand Kercs partjainál a Krím-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        36.511724,
+                        45.359483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pantykapey (IX-IV veka do n.e.)",
+                  "text": "Panticapaeum este un important sit arheologic antic grecesc din Kerci, care a servit drept capitală a Regatului Bosporan.",
+                  "category": "historical",
+                  "coords": [
+                        36.468646,
+                        45.351006
+                  ]
+            },
+            {
+                  "name": "Melek-Chesmenskyy kurhan",
+                  "text": "Kurganul Melek-Chesme este un tumul arheologic antic situat în orașul Kerci.",
+                  "category": "historical",
+                  "coords": [
+                        36.470436,
+                        45.363
+                  ]
+            },
+            {
+                  "name": "Teatr ym. A.S. Pushkyna",
+                  "text": "Teatrul Pușkin este o sală de spectacole situată în orașul Kerci.",
+                  "category": "cultural",
+                  "coords": [
+                        36.473493,
+                        45.35286
+                  ]
+            },
+            {
+                  "name": "Muzey Okeanohrafyy",
+                  "text": "Muzeul de Oceanografie este un muzeu local dedicat științelor marine din Kerci.",
+                  "category": "museum",
+                  "coords": [
+                        36.474285,
+                        45.350221
+                  ]
+            },
+            {
+                  "name": "Chacha (Cherepashka)",
+                  "text": "Chacha (Cerepașka) este o plajă situată în orașul Kerci.",
+                  "category": "recreational",
+                  "coords": [
+                        36.500718,
+                        45.363868
+                  ]
+            },
+            {
+                  "name": "Utynka",
+                  "text": "Utinka este o plajă de coastă din orașul Kerci.",
+                  "category": "recreational",
+                  "coords": [
+                        36.469403,
+                        45.341268
+                  ]
+            },
+            {
+                  "name": "Obelysk Slavy Bessmertnym Heroyam na hore Mytrydat",
+                  "text": "Obeliscul Gloriei este un monument comemorativ important situat în Kerci.",
+                  "category": "historical",
+                  "coords": [
+                        36.470576,
+                        45.350408
+                  ]
+            },
+            {
+                  "name": "Bolshaya Mytrydatskaya lestnytsa",
+                  "text": "Scara lui Mitridate este o atracție notabilă care duce spre muntele din Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472146,
+                        45.350784
+                  ]
+            },
+            {
+                  "name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey",
+                  "text": "Situat în conacul Mesaksudi, acest muzeu istoric și arheologic prezintă bogata moștenire a orașului Kerci.",
+                  "category": "historical",
+                  "coords": [
+                        36.470673,
+                        45.347654
+                  ]
+            },
+            {
+                  "name": "Khram Yoanna Predtechy",
+                  "text": "Biserica Sfântul Ioan Botezătorul este o veche atracție bisericească bizantină din Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.476006,
+                        45.351462
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "Aceste ruine ale buncărului sunt rămășițe istorice situate în Kerci.",
+                  "category": "historical",
+                  "coords": [
+                        36.458258,
+                        45.348217
+                  ]
+            },
+            {
+                  "name": "Myasokombynat",
+                  "text": "Ruinele vechii fabrici de procesare a cărnii se găsesc în Kerci.",
+                  "category": "historical",
+                  "coords": [
+                        36.465082,
+                        45.342102
+                  ]
+            },
+            {
+                  "name": "Tekhnolohychnaya model sklepa Demetry",
+                  "text": "Această atracție este o replică a celebrei Cripte a lui Demetra din Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473375,
+                        45.351056
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "Rotonda este o atracție arhitecturală din orașul Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473598,
+                        45.348411
+                  ]
+            },
+            {
+                  "name": "Ruyny zenytnoy artbatarey",
+                  "text": "Ruinele bateriei de artilerie antiaeriană servesc drept atracție istorică în Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.463678,
+                        45.348817
+                  ]
+            },
+            {
+                  "name": "Dolhaya skala",
+                  "text": "Dolgaya Skala (Stânca Lungă) este un punct de belvedere pitoresc care oferă priveliști panoramice în Kerci.",
+                  "category": "natural",
+                  "coords": [
+                        36.452875,
+                        45.346465
+                  ]
+            },
+            {
+                  "name": "Sklep Demetry",
+                  "text": "Cripta lui Demetra este o atracție funerară antică din Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472351,
+                        45.364948
+                  ]
+            },
+            {
+                  "name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)",
+                  "text": "Biserica Sfântului Apostol Andrei cel Întâi Chemat, construită în 1893, este o atracție religioasă din Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.505271,
+                        45.365257
+                  ]
+            },
+            {
+                  "name": "Alleya Slavy",
+                  "text": "Aleea Gloriei este o alee memorială și o atracție în orașul Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.474512,
+                        45.352753
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "Ceasul Solar este o atracție distinctă în aer liber situată în Kerci.",
+                  "category": "landmark",
+                  "coords": [
+                        36.458407,
+                        45.339428
+                  ]
+            },
+            {
+                  "name": "Dzhuma-Dzhamy",
+                  "text": "Juma-Jami este o moschee istorică și un lăcaș de cult islamic din orașul Kerci.",
+                  "category": "religious",
+                  "coords": [
+                        36.446615,
+                        45.35256
+                  ]
+            },
+            {
+                  "name": "Сморжик",
+                  "text": "O plajă locală pe coasta orașului Kerci de pe peninsula Crimeea.",
+                  "category": "recreational",
+                  "coords": [
+                        36.511724,
+                        45.359483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panticapaeum (6c B.C. - 3c A.D.)",
+                  "text": "Panticapaeum is a significant ancient Greek archaeological site in Kertsch that served as the capital of the Bosporan Kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        36.468646,
+                        45.351006
+                  ]
+            },
+            {
+                  "name": "Melek-Chesme kurghan",
+                  "text": "Melek-Chesme kurghan is an ancient archaeological burial mound located in the city of Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.470436,
+                        45.363
+                  ]
+            },
+            {
+                  "name": "Pushkin Theater",
+                  "text": "The Pushkin Theater is a performing arts venue located in the city of Kertsch.",
+                  "category": "cultural",
+                  "coords": [
+                        36.473493,
+                        45.35286
+                  ]
+            },
+            {
+                  "name": "Muzey Okeanohrafyy",
+                  "text": "The Museum of Oceanography is a local museum dedicated to marine sciences in Kertsch.",
+                  "category": "museum",
+                  "coords": [
+                        36.474285,
+                        45.350221
+                  ]
+            },
+            {
+                  "name": "Chacha (Cherepashka)",
+                  "text": "Chacha (Cherepashka) is a beach destination situated in the city of Kertsch.",
+                  "category": "recreational",
+                  "coords": [
+                        36.500718,
+                        45.363868
+                  ]
+            },
+            {
+                  "name": "Utynka",
+                  "text": "Utinka is a coastal beach area in the city of Kertsch.",
+                  "category": "recreational",
+                  "coords": [
+                        36.469403,
+                        45.341268
+                  ]
+            },
+            {
+                  "name": "Obelisk of Glory",
+                  "text": "The Obelisk of Glory is a prominent commemorative monument located in Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.470576,
+                        45.350408
+                  ]
+            },
+            {
+                  "name": "Mithridates Staircase",
+                  "text": "The Mithridates Staircase is a notable attraction leading up the mountain in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472146,
+                        45.350784
+                  ]
+            },
+            {
+                  "name": "Kerchenskyy ystoryko-arkheolohycheskyy muzey",
+                  "text": "Located in the Mesaksudi Mansion, this historical and archaeological museum showcases the rich heritage of Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.470673,
+                        45.347654
+                  ]
+            },
+            {
+                  "name": "Khram Yoanna Predtechy",
+                  "text": "The Church of John the Baptist is an ancient Byzantine church attraction in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.476006,
+                        45.351462
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "These bunker ruins are historical remnants located in Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.458258,
+                        45.348217
+                  ]
+            },
+            {
+                  "name": "Myasokombynat",
+                  "text": "The ruins of the old meat processing plant can be found in Kertsch.",
+                  "category": "historical",
+                  "coords": [
+                        36.465082,
+                        45.342102
+                  ]
+            },
+            {
+                  "name": "Copy of the Crypt of Demetra",
+                  "text": "This attraction is a replica of the famous Crypt of Demetra in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473375,
+                        45.351056
+                  ]
+            },
+            {
+                  "name": "Rotunda",
+                  "text": "The Rotunda is an architectural attraction in the city of Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.473598,
+                        45.348411
+                  ]
+            },
+            {
+                  "name": "Ruyny zenytnoy artbatarey",
+                  "text": "The ruins of the anti-aircraft artillery battery serve as a historical attraction in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.463678,
+                        45.348817
+                  ]
+            },
+            {
+                  "name": "Dolhaya skala",
+                  "text": "Dolgaya Skala (Long Rock) is a scenic viewpoint offering panoramic sights in Kertsch.",
+                  "category": "natural",
+                  "coords": [
+                        36.452875,
+                        45.346465
+                  ]
+            },
+            {
+                  "name": "Sklep Demetry",
+                  "text": "The Crypt of Demetra is an ancient burial attraction in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.472351,
+                        45.364948
+                  ]
+            },
+            {
+                  "name": "Khram svyatoho apostola Andreya Pervozvannoho (1893)",
+                  "text": "The Church of St. Andrew the First-Called, built in 1893, is a religious attraction in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.505271,
+                        45.365257
+                  ]
+            },
+            {
+                  "name": "Alleya Slavy",
+                  "text": "The Alley of Glory is a memorial walk and attraction in the city of Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.474512,
+                        45.352753
+                  ]
+            },
+            {
+                  "name": "Solnechnye chasy",
+                  "text": "The Sundial is a distinctive outdoor attraction located in Kertsch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.458407,
+                        45.339428
+                  ]
+            },
+            {
+                  "name": "Dzhuma-Dzhamy",
+                  "text": "Juma-Jami is a historic mosque and Islamic place of worship in the city of Kertsch.",
+                  "category": "religious",
+                  "coords": [
+                        36.446615,
+                        45.35256
+                  ]
+            },
+            {
+                  "name": "Сморжик",
+                  "text": "A local beach on the coast of Kerch on the Crimean Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        36.511724,
+                        45.359483
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Kertsch", hu: "Kercs", ro: "Kerci", en: "Kerch"},
@@ -2010,7 +3081,1132 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-berdiansk-cities-v2", "sights": {"de": [{"name": "Leuchtturm Berdjansk Oberfeuer", "text": "Der Obere Berdjansker Leuchtturm ist ein bemerkenswertes nautisches Wahrzeichen in Berdjansk.", "category": "landmark", "coords": [36.764177, 46.766624]}, {"name": "Podvyh", "text": "Podwig (Die Heldentat) ist ein Museum in Berdjansk, das dem lokalen Heldentum und der Geschichte gewidmet ist.", "category": "museum", "coords": [36.790812, 46.748642]}, {"name": "Khudozhniy muzey im. I. Brodskoho", "text": "Das I.-Brodsky-Kunstmuseum ist eine kulturelle Einrichtung, die verschiedene Kunstwerke in Berdjansk ausstellt.", "category": "museum", "coords": [36.793891, 46.753654]}, {"name": "Tsentralnyy miskyy plyazh", "text": "Der zentrale Stadtstrand ist ein beliebtes Küstenerholungsgebiet in Berdjansk.", "category": "recreational", "coords": [36.784624, 46.750873]}, {"name": "Tretiy miskyy plyazh", "text": "Der Dritte Stadtstrand bietet Entspannung am Meer und Bademöglichkeiten in der Stadt Berdjansk.", "category": "recreational", "coords": [36.801169, 46.74054]}, {"name": "plyazh Lisky", "text": "Der Strand Lisky ist ein sandiger Küstenabschnitt in der Stadt Berdjansk.", "category": "recreational", "coords": [36.765349, 46.761881]}, {"name": "Avtodrom", "text": "Das Autodrom ist ein unterhaltsamer Themenpark in der Stadt Berdjansk.", "category": "family", "coords": [36.802106, 46.740539]}, {"name": "Budynok muzey P.P. Shmidta", "text": "Das P.P. Schmidt-Haus-Museum bewahrt die Geschichte von Pjotr Schmidt in Berdjansk.", "category": "museum", "coords": [36.785545, 46.753663]}, {"name": "Muzey istorii mista Berdyanska", "text": "Das Museum der Geschichte der Stadt Berdjansk zeigt das lokale Erbe und die Entwicklung.", "category": "museum", "coords": [36.780191, 46.757069]}, {"name": "Zooklub \"Neon\"", "text": "Der Zooclub Neon ist ein lokaler Zoo mit verschiedenen Tierarten in Berdjansk.", "category": "family", "coords": [36.791073, 46.761028]}, {"name": "Krayeznavchyy muzey", "text": "Dieses Heimatmuseum in Berdjansk präsentiert Ausstellungen zur lokalen Geschichte und Kultur.", "category": "museum", "coords": [36.794452, 46.754567]}, {"name": "Bychkovi-hoduvalnykovi", "text": "Diese Attraktion in Berdjansk ist ein Denkmal, das der Schwarzmund-Grundel gewidmet ist, weil sie die Einheimischen vor einer Hungersnot gerettet hat.", "category": "landmark", "coords": [36.788572, 46.749999]}, {"name": "Nepidyomni sumky turystiv", "text": "\"Unhebbare Touristtaschen\" ist ein eigenartiges und humorvolles Denkmal in Berdjansk.", "category": "historical", "coords": [36.789627, 46.754151]}, {"name": "Byust Khavkinu", "text": "Die Khavkin-Büste ist ein Gedenkmonument in der Stadt Berdjansk.", "category": "historical", "coords": [36.784505, 46.754492]}, {"name": "M. Horkomu", "text": "Dieses Denkmal in Berdjansk ist dem berühmten Schriftsteller Maxim Gorki gewidmet.", "category": "historical", "coords": [36.778004, 46.760138]}, {"name": "Zahyblym voinam-internatsionalistam", "text": "Denkmal für die gefallenen internationalistischen Soldaten in Berdjansk.", "category": "historical", "coords": [36.779201, 46.763281]}, {"name": "Avtomobilistam-trudivnykam", "text": "Denkmal für die arbeitenden Autofahrer in Berdjansk.", "category": "historical", "coords": [36.7805, 46.76775]}, {"name": "Rayonu 8 marta", "text": "Denkmal für den Bezirk 8. März in Berdjansk.", "category": "historical", "coords": [36.810466, 46.764996]}, {"name": "Pomidor – symvol mikrorayonu \"Koloniya\"", "text": "Denkmal als Symbol des Kolonie-Viertels in Berdjansk.", "category": "historical", "coords": [36.812977, 46.753203]}, {"name": "Yakir", "text": "Anker-Denkmal in Berdjansk.", "category": "historical", "coords": [36.797106, 46.749341]}, {"name": "Zhaba", "text": "Die Frosch-Attraktion in Berdjansk.", "category": "landmark", "coords": [36.792977, 46.746433]}, {"name": "Sonyachnyy hodynnyk", "text": "Sonnenuhr-Attraktion in Berdjansk.", "category": "landmark", "coords": [36.789202, 46.749076]}, {"name": "Dytyachyy velosyped", "text": "Kinderfahrrad-Denkmal in Berdjansk.", "category": "historical", "coords": [36.789527, 46.752975]}, {"name": "Ohlyadovyy maydanchyk", "text": "Aussichtsplattform mit Blick in Berdjansk.", "category": "natural", "coords": [36.787587, 46.762388]}, {"name": "Verkhniy ohlyadovyy maydanchyk", "text": "Obere Aussichtsplattform in Berdjansk.", "category": "natural", "coords": [36.788532, 46.762824]}, {"name": "Zhertvam Holodomoru", "text": "Denkmal für die Opfer des Holodomor in Berdjansk.", "category": "historical", "coords": [36.77868, 46.778785]}, {"name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya", "text": "Attraktion Evangelisch-Lutherische Kirche Christi des Erlösers in Berdjansk.", "category": "landmark", "coords": [36.793131, 46.752531]}], "hu": [{"name": "Verkhniy Berdyanskyy", "text": "A Felső-Berdjanszk világítótorony egy jelentős navigációs tájékozódási pont Berdjanszkban.", "category": "landmark", "coords": [36.764177, 46.766624]}, {"name": "Podvyh", "text": "A Podvig (A Hőstett) egy múzeum Berdjanszkban, amelyet a helyi hősiességnek és történelemnek szenteltek.", "category": "museum", "coords": [36.790812, 46.748642]}, {"name": "Khudozhniy muzey im. I. Brodskoho", "text": "Az I. Brodszkij Művészeti Múzeum egy kulturális intézmény, amely különféle műalkotásokat mutat be Berdjanszkban.", "category": "museum", "coords": [36.793891, 46.753654]}, {"name": "Tsentralnyy miskyy plyazh", "text": "A Központi Városi Strand egy népszerű part menti üdülőterület Berdjanszkban.", "category": "recreational", "coords": [36.784624, 46.750873]}, {"name": "Tretiy miskyy plyazh", "text": "A Harmadik Városi Strand tengerparti kikapcsolódást és fürdési lehetőséget kínál Berdjanszk városában.", "category": "recreational", "coords": [36.801169, 46.74054]}, {"name": "plyazh Lisky", "text": "A Liszki strand egy homokos part menti terület Berdjanszk városában.", "category": "recreational", "coords": [36.765349, 46.761881]}, {"name": "Avtodrom", "text": "Az Autodrom egy szórakoztató vidámpark Berdjanszk városában.", "category": "family", "coords": [36.802106, 46.740539]}, {"name": "Budynok muzey P.P. Shmidta", "text": "A P.P. Schmidt Házmúzeum Pjotr Schmidt történetét őrzi Berdjanszkban.", "category": "museum", "coords": [36.785545, 46.753663]}, {"name": "Muzey istorii mista Berdyanska", "text": "A Berdjanszk Város Történeti Múzeuma a helyi örökséget és fejlődést mutatja be.", "category": "museum", "coords": [36.780191, 46.757069]}, {"name": "Zooklub \"Neon\"", "text": "A Neon Állatklub egy helyi állatkert Berdjanszkban, amely különféle állatfajokat mutat be.", "category": "family", "coords": [36.791073, 46.761028]}, {"name": "Krayeznavchyy muzey", "text": "Ez a berdjanszki helytörténeti múzeum a helyi történelemről és kultúráról szóló kiállításokat mutat be.", "category": "museum", "coords": [36.794452, 46.754567]}, {"name": "Bychkovi-hoduvalnykovi", "text": "Ez a látványosság Berdjanszkban egy emlékmű, amelyet a kerekfejű gébnek szenteltek, amiért megmentette a helyieket az éhínségtől.", "category": "landmark", "coords": [36.788572, 46.749999]}, {"name": "Nepidyomni sumky turystiv", "text": "A \"Felemelhetetlen turistatáskák\" egy mókás és humoros emlékmű Berdjanszkban.", "category": "historical", "coords": [36.789627, 46.754151]}, {"name": "Byust Khavkinu", "text": "A Havkin-mellszobor egy emlékmű Berdjanszk városában.", "category": "historical", "coords": [36.784505, 46.754492]}, {"name": "M. Horkomu", "text": "Ezt a berdjanszki emlékművet a híres írónak, Makszim Gorkijnak szentelték.", "category": "historical", "coords": [36.778004, 46.760138]}, {"name": "Zahyblym voinam-internatsionalistam", "text": "Az elesett internacionalista katonák emlékműve Berdjanszkban.", "category": "historical", "coords": [36.779201, 46.763281]}, {"name": "Avtomobilistam-trudivnykam", "text": "A dolgozó autósok emlékműve Berdjanszkban.", "category": "historical", "coords": [36.7805, 46.76775]}, {"name": "Rayonu 8 marta", "text": "A Március 8. kerületnek szentelt emlékmű Berdjanszkban.", "category": "historical", "coords": [36.810466, 46.764996]}, {"name": "Pomidor – symvol mikrorayonu \"Koloniya\"", "text": "A Kolónia negyedet szimbolizáló emlékmű Berdjanszkban.", "category": "historical", "coords": [36.812977, 46.753203]}, {"name": "Yakir", "text": "Horgony emlékmű Berdjanszkban.", "category": "historical", "coords": [36.797106, 46.749341]}, {"name": "Zhaba", "text": "A Béka nevű látványosság Berdjanszkban.", "category": "landmark", "coords": [36.792977, 46.746433]}, {"name": "Sonyachnyy hodynnyk", "text": "Napóra látványosság Berdjanszkban.", "category": "landmark", "coords": [36.789202, 46.749076]}, {"name": "Dytyachyy velosyped", "text": "Gyermekbicikli emlékmű Berdjanszkban.", "category": "historical", "coords": [36.789527, 46.752975]}, {"name": "Ohlyadovyy maydanchyk", "text": "Kilátó, amely kilátást nyújt Berdjanszkban.", "category": "natural", "coords": [36.787587, 46.762388]}, {"name": "Verkhniy ohlyadovyy maydanchyk", "text": "Felső kilátó Berdjanszkban.", "category": "natural", "coords": [36.788532, 46.762824]}, {"name": "Zhertvam Holodomoru", "text": "A holodomor áldozatainak emlékműve Berdjanszkban.", "category": "historical", "coords": [36.77868, 46.778785]}, {"name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya", "text": "Krisztus a Megváltó Evangélikus Evangélikus Templom látványosság Berdjanszkban.", "category": "landmark", "coords": [36.793131, 46.752531]}], "ro": [{"name": "Verkhniy Berdyanskyy", "text": "Farul Superior din Berdeansk este un punct de reper de navigație notabil în Berdeansk.", "category": "landmark", "coords": [36.764177, 46.766624]}, {"name": "Podvyh", "text": "Podvig (Fapta Eroică) este un muzeu din Berdeansk dedicat eroismului local și istoriei.", "category": "museum", "coords": [36.790812, 46.748642]}, {"name": "Khudozhniy muzey im. I. Brodskoho", "text": "Muzeul de Artă I. Brodsky este o instituție culturală care expune diverse opere de artă în Berdeansk.", "category": "museum", "coords": [36.793891, 46.753654]}, {"name": "Tsentralnyy miskyy plyazh", "text": "Plaja Centrală a Orașului este o zonă de recreere populară pe coastă din Berdeansk.", "category": "recreational", "coords": [36.784624, 46.750873]}, {"name": "Tretiy miskyy plyazh", "text": "A Treia Plajă a Orașului oferă relaxare pe litoral și posibilități de înot în orașul Berdeansk.", "category": "recreational", "coords": [36.801169, 46.74054]}, {"name": "plyazh Lisky", "text": "Plaja Liski este un loc de coastă cu nisip situat în orașul Berdeansk.", "category": "recreational", "coords": [36.765349, 46.761881]}, {"name": "Avtodrom", "text": "Autodrom este un parc tematic distractiv din orașul Berdeansk.", "category": "family", "coords": [36.802106, 46.740539]}, {"name": "Budynok muzey P.P. Shmidta", "text": "Muzeul Casa P.P. Schmidt păstrează istoria lui Piotr Schmidt în Berdeansk.", "category": "museum", "coords": [36.785545, 46.753663]}, {"name": "Muzey istorii mista Berdyanska", "text": "Muzeul de Istorie a Orașului Berdeansk prezintă moștenirea și dezvoltarea locală.", "category": "museum", "coords": [36.780191, 46.757069]}, {"name": "Zooklub \"Neon\"", "text": "Zooclub Neon este o grădină zoologică locală care prezintă diverse specii de animale în Berdeansk.", "category": "family", "coords": [36.791073, 46.761028]}, {"name": "Krayeznavchyy muzey", "text": "Acest muzeu regional din Berdeansk prezintă exponate despre istoria și cultura locală.", "category": "museum", "coords": [36.794452, 46.754567]}, {"name": "Bychkovi-hoduvalnykovi", "text": "Această atracție din Berdeansk este un monument dedicat guvidului rotund pentru că a salvat localnicii de foamete.", "category": "landmark", "coords": [36.788572, 46.749999]}, {"name": "Nepidyomni sumky turystiv", "text": "„Gențile de turist de neridicat” este un monument excentric și plin de umor situat în Berdeansk.", "category": "historical", "coords": [36.789627, 46.754151]}, {"name": "Byust Khavkinu", "text": "Bustul lui Khavkin este un monument comemorativ din orașul Berdeansk.", "category": "historical", "coords": [36.784505, 46.754492]}, {"name": "M. Horkomu", "text": "Acest monument din Berdeansk este dedicat celebrului scriitor Maxim Gorki.", "category": "historical", "coords": [36.778004, 46.760138]}, {"name": "Zahyblym voinam-internatsionalistam", "text": "Monumentul soldaților internaționaliști căzuți în Berdeansk.", "category": "historical", "coords": [36.779201, 46.763281]}, {"name": "Avtomobilistam-trudivnykam", "text": "Monumentul automobiliștilor muncitori din Berdeansk.", "category": "historical", "coords": [36.7805, 46.76775]}, {"name": "Rayonu 8 marta", "text": "Monument dedicat raionului 8 Martie din Berdeansk.", "category": "historical", "coords": [36.810466, 46.764996]}, {"name": "Pomidor – symvol mikrorayonu \"Koloniya\"", "text": "Monument ce simbolizează cartierul Colonia din Berdeansk.", "category": "historical", "coords": [36.812977, 46.753203]}, {"name": "Yakir", "text": "Monumentul ancorei din Berdeansk.", "category": "historical", "coords": [36.797106, 46.749341]}, {"name": "Zhaba", "text": "Atracția Broasca din Berdeansk.", "category": "landmark", "coords": [36.792977, 46.746433]}, {"name": "Sonyachnyy hodynnyk", "text": "Ceasul solar din Berdeansk.", "category": "landmark", "coords": [36.789202, 46.749076]}, {"name": "Dytyachyy velosyped", "text": "Monumentul bicicletei pentru copii din Berdeansk.", "category": "historical", "coords": [36.789527, 46.752975]}, {"name": "Ohlyadovyy maydanchyk", "text": "Punte de observație ce oferă priveliști în Berdeansk.", "category": "natural", "coords": [36.787587, 46.762388]}, {"name": "Verkhniy ohlyadovyy maydanchyk", "text": "Puntea de observație superioară din Berdeansk.", "category": "natural", "coords": [36.788532, 46.762824]}, {"name": "Zhertvam Holodomoru", "text": "Monumentul victimelor Holodomorului din Berdeansk.", "category": "historical", "coords": [36.77868, 46.778785]}, {"name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya", "text": "Biserica Evanghelică Luterană a lui Hristos Mântuitorul din Berdeansk.", "category": "landmark", "coords": [36.793131, 46.752531]}], "en": [{"name": "Upper Berdyansk", "text": "The Upper Berdyansk Lighthouse is a notable navigational landmark in Berdjansk.", "category": "landmark", "coords": [36.764177, 46.766624]}, {"name": "Podvyh", "text": "Podvig (The Feat) is a museum in Berdjansk dedicated to local heroism and history.", "category": "museum", "coords": [36.790812, 46.748642]}, {"name": "Khudozhniy muzey im. I. Brodskoho", "text": "The I. Brodsky Art Museum is a cultural institution showcasing various artworks in Berdjansk.", "category": "museum", "coords": [36.793891, 46.753654]}, {"name": "Tsentralnyy miskyy plyazh", "text": "The Central City Beach is a popular coastal recreation area in Berdjansk.", "category": "recreational", "coords": [36.784624, 46.750873]}, {"name": "Tretiy miskyy plyazh", "text": "The Third City Beach offers seaside relaxation and swimming in the city of Berdjansk.", "category": "recreational", "coords": [36.801169, 46.74054]}, {"name": "plyazh Lisky", "text": "Lisky Beach is a sandy coastal spot located in the city of Berdjansk.", "category": "recreational", "coords": [36.765349, 46.761881]}, {"name": "Avtodrom", "text": "Autodrom is a fun theme park destination in the city of Berdjansk.", "category": "family", "coords": [36.802106, 46.740539]}, {"name": "Budynok muzey P.P. Shmidta", "text": "The P.P. Schmidt House Museum preserves the history of Pyotr Schmidt in Berdjansk.", "category": "museum", "coords": [36.785545, 46.753663]}, {"name": "Muzey istorii mista Berdyanska", "text": "The Museum of the History of Berdjansk City showcases the local heritage and development.", "category": "museum", "coords": [36.780191, 46.757069]}, {"name": "Zooklub \"Neon\"", "text": "Zooclub Neon is a local zoo featuring diverse animal species in Berdjansk.", "category": "family", "coords": [36.791073, 46.761028]}, {"name": "Krayeznavchyy muzey", "text": "This regional museum in Berdjansk presents exhibits on local history and culture.", "category": "museum", "coords": [36.794452, 46.754567]}, {"name": "to Round goby fish, for saving the people from famine", "text": "This attraction in Berdjansk is a monument dedicated to the round goby fish for saving locals from famine.", "category": "landmark", "coords": [36.788572, 46.749999]}, {"name": "Nepidyomni sumky turystiv", "text": "\"Unliftable Tourist Bags\" is a quirky and humorous monument located in Berdjansk.", "category": "historical", "coords": [36.789627, 46.754151]}, {"name": "Byust Khavkinu", "text": "The Bust of Khavkin is a commemorative monument in the city of Berdjansk.", "category": "historical", "coords": [36.784505, 46.754492]}, {"name": "M. Horkomu", "text": "This monument in Berdjansk is dedicated to the famous writer Maxim Gorky.", "category": "historical", "coords": [36.778004, 46.760138]}, {"name": "Zahyblym voinam-internatsionalistam", "text": "Monument to the Fallen Internationalist Soldiers in Berdiansk.", "category": "historical", "coords": [36.779201, 46.763281]}, {"name": "Avtomobilistam-trudivnykam", "text": "Monument to the Working Motorists in Berdiansk.", "category": "historical", "coords": [36.7805, 46.76775]}, {"name": "Rayonu 8 marta", "text": "Monument dedicated to the 8th of March district in Berdiansk.", "category": "historical", "coords": [36.810466, 46.764996]}, {"name": "Symbol of the \"Colony\" district", "text": "Monument symbolizing the Colony district in Berdiansk.", "category": "historical", "coords": [36.812977, 46.753203]}, {"name": "Yakir", "text": "Anchor monument in Berdiansk.", "category": "historical", "coords": [36.797106, 46.749341]}, {"name": "Zhaba", "text": "The Frog attraction in Berdiansk.", "category": "landmark", "coords": [36.792977, 46.746433]}, {"name": "Sonyachnyy hodynnyk", "text": "Sundial attraction in Berdiansk.", "category": "landmark", "coords": [36.789202, 46.749076]}, {"name": "Dytyachyy velosyped", "text": "Children's bicycle monument in Berdiansk.", "category": "historical", "coords": [36.789527, 46.752975]}, {"name": "Ohlyadovyy maydanchyk", "text": "Observation deck offering views in Berdiansk.", "category": "natural", "coords": [36.787587, 46.762388]}, {"name": "Verkhniy ohlyadovyy maydanchyk", "text": "Upper observation deck in Berdiansk.", "category": "natural", "coords": [36.788532, 46.762824]}, {"name": "Zhertvam Holodomoru", "text": "Monument to the victims of the Holodomor in Berdiansk.", "category": "historical", "coords": [36.77868, 46.778785]}, {"name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya", "text": "Evangelical Lutheran Church of Christ the Savior attraction in Berdiansk.", "category": "landmark", "coords": [36.793131, 46.752531]}]},
+    id: "ukraine-berdiansk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Berdjansk Oberfeuer",
+                  "text": "Der Obere Berdjansker Leuchtturm ist ein bemerkenswertes nautisches Wahrzeichen in Berdjansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.764177,
+                        46.766624
+                  ]
+            },
+            {
+                  "name": "Podvyh",
+                  "text": "Podwig (Die Heldentat) ist ein Museum in Berdjansk, das dem lokalen Heldentum und der Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        36.790812,
+                        46.748642
+                  ]
+            },
+            {
+                  "name": "Khudozhniy muzey im. I. Brodskoho",
+                  "text": "Das I.-Brodsky-Kunstmuseum ist eine kulturelle Einrichtung, die verschiedene Kunstwerke in Berdjansk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        36.793891,
+                        46.753654
+                  ]
+            },
+            {
+                  "name": "Tsentralnyy miskyy plyazh",
+                  "text": "Der zentrale Stadtstrand ist ein beliebtes Küstenerholungsgebiet in Berdjansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.784624,
+                        46.750873
+                  ]
+            },
+            {
+                  "name": "Tretiy miskyy plyazh",
+                  "text": "Der Dritte Stadtstrand bietet Entspannung am Meer und Bademöglichkeiten in der Stadt Berdjansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.801169,
+                        46.74054
+                  ]
+            },
+            {
+                  "name": "plyazh Lisky",
+                  "text": "Der Strand Lisky ist ein sandiger Küstenabschnitt in der Stadt Berdjansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.765349,
+                        46.761881
+                  ]
+            },
+            {
+                  "name": "Avtodrom",
+                  "text": "Das Autodrom ist ein unterhaltsamer Themenpark in der Stadt Berdjansk.",
+                  "category": "family",
+                  "coords": [
+                        36.802106,
+                        46.740539
+                  ]
+            },
+            {
+                  "name": "Budynok muzey P.P. Shmidta",
+                  "text": "Das P.P. Schmidt-Haus-Museum bewahrt die Geschichte von Pjotr Schmidt in Berdjansk.",
+                  "category": "museum",
+                  "coords": [
+                        36.785545,
+                        46.753663
+                  ]
+            },
+            {
+                  "name": "Muzey istorii mista Berdyanska",
+                  "text": "Das Museum der Geschichte der Stadt Berdjansk zeigt das lokale Erbe und die Entwicklung.",
+                  "category": "museum",
+                  "coords": [
+                        36.780191,
+                        46.757069
+                  ]
+            },
+            {
+                  "name": "Zooklub \"Neon\"",
+                  "text": "Der Zooclub Neon ist ein lokaler Zoo mit verschiedenen Tierarten in Berdjansk.",
+                  "category": "family",
+                  "coords": [
+                        36.791073,
+                        46.761028
+                  ]
+            },
+            {
+                  "name": "Krayeznavchyy muzey",
+                  "text": "Dieses Heimatmuseum in Berdjansk präsentiert Ausstellungen zur lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        36.794452,
+                        46.754567
+                  ]
+            },
+            {
+                  "name": "Bychkovi-hoduvalnykovi",
+                  "text": "Diese Attraktion in Berdjansk ist ein Denkmal, das der Schwarzmund-Grundel gewidmet ist, weil sie die Einheimischen vor einer Hungersnot gerettet hat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.788572,
+                        46.749999
+                  ]
+            },
+            {
+                  "name": "Nepidyomni sumky turystiv",
+                  "text": "\"Unhebbare Touristtaschen\" ist ein eigenartiges und humorvolles Denkmal in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.789627,
+                        46.754151
+                  ]
+            },
+            {
+                  "name": "Byust Khavkinu",
+                  "text": "Die Khavkin-Büste ist ein Gedenkmonument in der Stadt Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.784505,
+                        46.754492
+                  ]
+            },
+            {
+                  "name": "M. Horkomu",
+                  "text": "Dieses Denkmal in Berdjansk ist dem berühmten Schriftsteller Maxim Gorki gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        36.778004,
+                        46.760138
+                  ]
+            },
+            {
+                  "name": "Zahyblym voinam-internatsionalistam",
+                  "text": "Denkmal für die gefallenen internationalistischen Soldaten in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.779201,
+                        46.763281
+                  ]
+            },
+            {
+                  "name": "Avtomobilistam-trudivnykam",
+                  "text": "Denkmal für die arbeitenden Autofahrer in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.7805,
+                        46.76775
+                  ]
+            },
+            {
+                  "name": "Rayonu 8 marta",
+                  "text": "Denkmal für den Bezirk 8. März in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.810466,
+                        46.764996
+                  ]
+            },
+            {
+                  "name": "Pomidor – symvol mikrorayonu \"Koloniya\"",
+                  "text": "Denkmal als Symbol des Kolonie-Viertels in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.812977,
+                        46.753203
+                  ]
+            },
+            {
+                  "name": "Yakir",
+                  "text": "Anker-Denkmal in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.797106,
+                        46.749341
+                  ]
+            },
+            {
+                  "name": "Zhaba",
+                  "text": "Die Frosch-Attraktion in Berdjansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.792977,
+                        46.746433
+                  ]
+            },
+            {
+                  "name": "Sonyachnyy hodynnyk",
+                  "text": "Sonnenuhr-Attraktion in Berdjansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.789202,
+                        46.749076
+                  ]
+            },
+            {
+                  "name": "Dytyachyy velosyped",
+                  "text": "Kinderfahrrad-Denkmal in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.789527,
+                        46.752975
+                  ]
+            },
+            {
+                  "name": "Ohlyadovyy maydanchyk",
+                  "text": "Aussichtsplattform mit Blick in Berdjansk.",
+                  "category": "natural",
+                  "coords": [
+                        36.787587,
+                        46.762388
+                  ]
+            },
+            {
+                  "name": "Verkhniy ohlyadovyy maydanchyk",
+                  "text": "Obere Aussichtsplattform in Berdjansk.",
+                  "category": "natural",
+                  "coords": [
+                        36.788532,
+                        46.762824
+                  ]
+            },
+            {
+                  "name": "Zhertvam Holodomoru",
+                  "text": "Denkmal für die Opfer des Holodomor in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.77868,
+                        46.778785
+                  ]
+            },
+            {
+                  "name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya",
+                  "text": "Attraktion Evangelisch-Lutherische Kirche Christi des Erlösers in Berdjansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.793131,
+                        46.752531
+                  ]
+            },
+            {
+                  "name": "Центральний міський пляж",
+                  "text": "Der zentrale Stadtstrand von Berdjansk am Asowschen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        36.787159,
+                        46.749859
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "Ein beliebter Strand im Viertel Liski in Berdjansk, ideal für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        36.766384,
+                        46.761455
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "Ein beliebter Strand im Viertel Liski in Berdjansk, ideal für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        36.771674,
+                        46.758554
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "Ein beliebter Strand im Viertel Liski in Berdjansk, ideal für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        36.761373,
+                        46.764012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Verkhniy Berdyanskyy",
+                  "text": "A Felső-Berdjanszk világítótorony egy jelentős navigációs tájékozódási pont Berdjanszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.764177,
+                        46.766624
+                  ]
+            },
+            {
+                  "name": "Podvyh",
+                  "text": "A Podvig (A Hőstett) egy múzeum Berdjanszkban, amelyet a helyi hősiességnek és történelemnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        36.790812,
+                        46.748642
+                  ]
+            },
+            {
+                  "name": "Khudozhniy muzey im. I. Brodskoho",
+                  "text": "Az I. Brodszkij Művészeti Múzeum egy kulturális intézmény, amely különféle műalkotásokat mutat be Berdjanszkban.",
+                  "category": "museum",
+                  "coords": [
+                        36.793891,
+                        46.753654
+                  ]
+            },
+            {
+                  "name": "Tsentralnyy miskyy plyazh",
+                  "text": "A Központi Városi Strand egy népszerű part menti üdülőterület Berdjanszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        36.784624,
+                        46.750873
+                  ]
+            },
+            {
+                  "name": "Tretiy miskyy plyazh",
+                  "text": "A Harmadik Városi Strand tengerparti kikapcsolódást és fürdési lehetőséget kínál Berdjanszk városában.",
+                  "category": "recreational",
+                  "coords": [
+                        36.801169,
+                        46.74054
+                  ]
+            },
+            {
+                  "name": "plyazh Lisky",
+                  "text": "A Liszki strand egy homokos part menti terület Berdjanszk városában.",
+                  "category": "recreational",
+                  "coords": [
+                        36.765349,
+                        46.761881
+                  ]
+            },
+            {
+                  "name": "Avtodrom",
+                  "text": "Az Autodrom egy szórakoztató vidámpark Berdjanszk városában.",
+                  "category": "family",
+                  "coords": [
+                        36.802106,
+                        46.740539
+                  ]
+            },
+            {
+                  "name": "Budynok muzey P.P. Shmidta",
+                  "text": "A P.P. Schmidt Házmúzeum Pjotr Schmidt történetét őrzi Berdjanszkban.",
+                  "category": "museum",
+                  "coords": [
+                        36.785545,
+                        46.753663
+                  ]
+            },
+            {
+                  "name": "Muzey istorii mista Berdyanska",
+                  "text": "A Berdjanszk Város Történeti Múzeuma a helyi örökséget és fejlődést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        36.780191,
+                        46.757069
+                  ]
+            },
+            {
+                  "name": "Zooklub \"Neon\"",
+                  "text": "A Neon Állatklub egy helyi állatkert Berdjanszkban, amely különféle állatfajokat mutat be.",
+                  "category": "family",
+                  "coords": [
+                        36.791073,
+                        46.761028
+                  ]
+            },
+            {
+                  "name": "Krayeznavchyy muzey",
+                  "text": "Ez a berdjanszki helytörténeti múzeum a helyi történelemről és kultúráról szóló kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        36.794452,
+                        46.754567
+                  ]
+            },
+            {
+                  "name": "Bychkovi-hoduvalnykovi",
+                  "text": "Ez a látványosság Berdjanszkban egy emlékmű, amelyet a kerekfejű gébnek szenteltek, amiért megmentette a helyieket az éhínségtől.",
+                  "category": "landmark",
+                  "coords": [
+                        36.788572,
+                        46.749999
+                  ]
+            },
+            {
+                  "name": "Nepidyomni sumky turystiv",
+                  "text": "A \"Felemelhetetlen turistatáskák\" egy mókás és humoros emlékmű Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.789627,
+                        46.754151
+                  ]
+            },
+            {
+                  "name": "Byust Khavkinu",
+                  "text": "A Havkin-mellszobor egy emlékmű Berdjanszk városában.",
+                  "category": "historical",
+                  "coords": [
+                        36.784505,
+                        46.754492
+                  ]
+            },
+            {
+                  "name": "M. Horkomu",
+                  "text": "Ezt a berdjanszki emlékművet a híres írónak, Makszim Gorkijnak szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        36.778004,
+                        46.760138
+                  ]
+            },
+            {
+                  "name": "Zahyblym voinam-internatsionalistam",
+                  "text": "Az elesett internacionalista katonák emlékműve Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.779201,
+                        46.763281
+                  ]
+            },
+            {
+                  "name": "Avtomobilistam-trudivnykam",
+                  "text": "A dolgozó autósok emlékműve Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.7805,
+                        46.76775
+                  ]
+            },
+            {
+                  "name": "Rayonu 8 marta",
+                  "text": "A Március 8. kerületnek szentelt emlékmű Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.810466,
+                        46.764996
+                  ]
+            },
+            {
+                  "name": "Pomidor – symvol mikrorayonu \"Koloniya\"",
+                  "text": "A Kolónia negyedet szimbolizáló emlékmű Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.812977,
+                        46.753203
+                  ]
+            },
+            {
+                  "name": "Yakir",
+                  "text": "Horgony emlékmű Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.797106,
+                        46.749341
+                  ]
+            },
+            {
+                  "name": "Zhaba",
+                  "text": "A Béka nevű látványosság Berdjanszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.792977,
+                        46.746433
+                  ]
+            },
+            {
+                  "name": "Sonyachnyy hodynnyk",
+                  "text": "Napóra látványosság Berdjanszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.789202,
+                        46.749076
+                  ]
+            },
+            {
+                  "name": "Dytyachyy velosyped",
+                  "text": "Gyermekbicikli emlékmű Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.789527,
+                        46.752975
+                  ]
+            },
+            {
+                  "name": "Ohlyadovyy maydanchyk",
+                  "text": "Kilátó, amely kilátást nyújt Berdjanszkban.",
+                  "category": "natural",
+                  "coords": [
+                        36.787587,
+                        46.762388
+                  ]
+            },
+            {
+                  "name": "Verkhniy ohlyadovyy maydanchyk",
+                  "text": "Felső kilátó Berdjanszkban.",
+                  "category": "natural",
+                  "coords": [
+                        36.788532,
+                        46.762824
+                  ]
+            },
+            {
+                  "name": "Zhertvam Holodomoru",
+                  "text": "A holodomor áldozatainak emlékműve Berdjanszkban.",
+                  "category": "historical",
+                  "coords": [
+                        36.77868,
+                        46.778785
+                  ]
+            },
+            {
+                  "name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya",
+                  "text": "Krisztus a Megváltó Evangélikus Evangélikus Templom látványosság Berdjanszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.793131,
+                        46.752531
+                  ]
+            },
+            {
+                  "name": "Центральний міський пляж",
+                  "text": "Bergyanszk központi városi strandja az Azovi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        36.787159,
+                        46.749859
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "Népszerű strand Bergyanszk Liszki negyedében, amely ideális családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        36.766384,
+                        46.761455
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "Népszerű strand Bergyanszk Liszki negyedében, amely ideális családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        36.771674,
+                        46.758554
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "Népszerű strand Bergyanszk Liszki negyedében, amely ideális családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        36.761373,
+                        46.764012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Verkhniy Berdyanskyy",
+                  "text": "Farul Superior din Berdeansk este un punct de reper de navigație notabil în Berdeansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.764177,
+                        46.766624
+                  ]
+            },
+            {
+                  "name": "Podvyh",
+                  "text": "Podvig (Fapta Eroică) este un muzeu din Berdeansk dedicat eroismului local și istoriei.",
+                  "category": "museum",
+                  "coords": [
+                        36.790812,
+                        46.748642
+                  ]
+            },
+            {
+                  "name": "Khudozhniy muzey im. I. Brodskoho",
+                  "text": "Muzeul de Artă I. Brodsky este o instituție culturală care expune diverse opere de artă în Berdeansk.",
+                  "category": "museum",
+                  "coords": [
+                        36.793891,
+                        46.753654
+                  ]
+            },
+            {
+                  "name": "Tsentralnyy miskyy plyazh",
+                  "text": "Plaja Centrală a Orașului este o zonă de recreere populară pe coastă din Berdeansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.784624,
+                        46.750873
+                  ]
+            },
+            {
+                  "name": "Tretiy miskyy plyazh",
+                  "text": "A Treia Plajă a Orașului oferă relaxare pe litoral și posibilități de înot în orașul Berdeansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.801169,
+                        46.74054
+                  ]
+            },
+            {
+                  "name": "plyazh Lisky",
+                  "text": "Plaja Liski este un loc de coastă cu nisip situat în orașul Berdeansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.765349,
+                        46.761881
+                  ]
+            },
+            {
+                  "name": "Avtodrom",
+                  "text": "Autodrom este un parc tematic distractiv din orașul Berdeansk.",
+                  "category": "family",
+                  "coords": [
+                        36.802106,
+                        46.740539
+                  ]
+            },
+            {
+                  "name": "Budynok muzey P.P. Shmidta",
+                  "text": "Muzeul Casa P.P. Schmidt păstrează istoria lui Piotr Schmidt în Berdeansk.",
+                  "category": "museum",
+                  "coords": [
+                        36.785545,
+                        46.753663
+                  ]
+            },
+            {
+                  "name": "Muzey istorii mista Berdyanska",
+                  "text": "Muzeul de Istorie a Orașului Berdeansk prezintă moștenirea și dezvoltarea locală.",
+                  "category": "museum",
+                  "coords": [
+                        36.780191,
+                        46.757069
+                  ]
+            },
+            {
+                  "name": "Zooklub \"Neon\"",
+                  "text": "Zooclub Neon este o grădină zoologică locală care prezintă diverse specii de animale în Berdeansk.",
+                  "category": "family",
+                  "coords": [
+                        36.791073,
+                        46.761028
+                  ]
+            },
+            {
+                  "name": "Krayeznavchyy muzey",
+                  "text": "Acest muzeu regional din Berdeansk prezintă exponate despre istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        36.794452,
+                        46.754567
+                  ]
+            },
+            {
+                  "name": "Bychkovi-hoduvalnykovi",
+                  "text": "Această atracție din Berdeansk este un monument dedicat guvidului rotund pentru că a salvat localnicii de foamete.",
+                  "category": "landmark",
+                  "coords": [
+                        36.788572,
+                        46.749999
+                  ]
+            },
+            {
+                  "name": "Nepidyomni sumky turystiv",
+                  "text": "„Gențile de turist de neridicat” este un monument excentric și plin de umor situat în Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.789627,
+                        46.754151
+                  ]
+            },
+            {
+                  "name": "Byust Khavkinu",
+                  "text": "Bustul lui Khavkin este un monument comemorativ din orașul Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.784505,
+                        46.754492
+                  ]
+            },
+            {
+                  "name": "M. Horkomu",
+                  "text": "Acest monument din Berdeansk este dedicat celebrului scriitor Maxim Gorki.",
+                  "category": "historical",
+                  "coords": [
+                        36.778004,
+                        46.760138
+                  ]
+            },
+            {
+                  "name": "Zahyblym voinam-internatsionalistam",
+                  "text": "Monumentul soldaților internaționaliști căzuți în Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.779201,
+                        46.763281
+                  ]
+            },
+            {
+                  "name": "Avtomobilistam-trudivnykam",
+                  "text": "Monumentul automobiliștilor muncitori din Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.7805,
+                        46.76775
+                  ]
+            },
+            {
+                  "name": "Rayonu 8 marta",
+                  "text": "Monument dedicat raionului 8 Martie din Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.810466,
+                        46.764996
+                  ]
+            },
+            {
+                  "name": "Pomidor – symvol mikrorayonu \"Koloniya\"",
+                  "text": "Monument ce simbolizează cartierul Colonia din Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.812977,
+                        46.753203
+                  ]
+            },
+            {
+                  "name": "Yakir",
+                  "text": "Monumentul ancorei din Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.797106,
+                        46.749341
+                  ]
+            },
+            {
+                  "name": "Zhaba",
+                  "text": "Atracția Broasca din Berdeansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.792977,
+                        46.746433
+                  ]
+            },
+            {
+                  "name": "Sonyachnyy hodynnyk",
+                  "text": "Ceasul solar din Berdeansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.789202,
+                        46.749076
+                  ]
+            },
+            {
+                  "name": "Dytyachyy velosyped",
+                  "text": "Monumentul bicicletei pentru copii din Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.789527,
+                        46.752975
+                  ]
+            },
+            {
+                  "name": "Ohlyadovyy maydanchyk",
+                  "text": "Punte de observație ce oferă priveliști în Berdeansk.",
+                  "category": "natural",
+                  "coords": [
+                        36.787587,
+                        46.762388
+                  ]
+            },
+            {
+                  "name": "Verkhniy ohlyadovyy maydanchyk",
+                  "text": "Puntea de observație superioară din Berdeansk.",
+                  "category": "natural",
+                  "coords": [
+                        36.788532,
+                        46.762824
+                  ]
+            },
+            {
+                  "name": "Zhertvam Holodomoru",
+                  "text": "Monumentul victimelor Holodomorului din Berdeansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.77868,
+                        46.778785
+                  ]
+            },
+            {
+                  "name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya",
+                  "text": "Biserica Evanghelică Luterană a lui Hristos Mântuitorul din Berdeansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.793131,
+                        46.752531
+                  ]
+            },
+            {
+                  "name": "Центральний міський пляж",
+                  "text": "Plaja centrală a orașului Berdiansk, pe malul mării Azov.",
+                  "category": "recreational",
+                  "coords": [
+                        36.787159,
+                        46.749859
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "O plajă populară în cartierul Liski din Berdiansk, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        36.766384,
+                        46.761455
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "O plajă populară în cartierul Liski din Berdiansk, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        36.771674,
+                        46.758554
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "O plajă populară în cartierul Liski din Berdiansk, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        36.761373,
+                        46.764012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Upper Berdyansk",
+                  "text": "The Upper Berdyansk Lighthouse is a notable navigational landmark in Berdjansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.764177,
+                        46.766624
+                  ]
+            },
+            {
+                  "name": "Podvyh",
+                  "text": "Podvig (The Feat) is a museum in Berdjansk dedicated to local heroism and history.",
+                  "category": "museum",
+                  "coords": [
+                        36.790812,
+                        46.748642
+                  ]
+            },
+            {
+                  "name": "Khudozhniy muzey im. I. Brodskoho",
+                  "text": "The I. Brodsky Art Museum is a cultural institution showcasing various artworks in Berdjansk.",
+                  "category": "museum",
+                  "coords": [
+                        36.793891,
+                        46.753654
+                  ]
+            },
+            {
+                  "name": "Tsentralnyy miskyy plyazh",
+                  "text": "The Central City Beach is a popular coastal recreation area in Berdjansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.784624,
+                        46.750873
+                  ]
+            },
+            {
+                  "name": "Tretiy miskyy plyazh",
+                  "text": "The Third City Beach offers seaside relaxation and swimming in the city of Berdjansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.801169,
+                        46.74054
+                  ]
+            },
+            {
+                  "name": "plyazh Lisky",
+                  "text": "Lisky Beach is a sandy coastal spot located in the city of Berdjansk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.765349,
+                        46.761881
+                  ]
+            },
+            {
+                  "name": "Avtodrom",
+                  "text": "Autodrom is a fun theme park destination in the city of Berdjansk.",
+                  "category": "family",
+                  "coords": [
+                        36.802106,
+                        46.740539
+                  ]
+            },
+            {
+                  "name": "Budynok muzey P.P. Shmidta",
+                  "text": "The P.P. Schmidt House Museum preserves the history of Pyotr Schmidt in Berdjansk.",
+                  "category": "museum",
+                  "coords": [
+                        36.785545,
+                        46.753663
+                  ]
+            },
+            {
+                  "name": "Muzey istorii mista Berdyanska",
+                  "text": "The Museum of the History of Berdjansk City showcases the local heritage and development.",
+                  "category": "museum",
+                  "coords": [
+                        36.780191,
+                        46.757069
+                  ]
+            },
+            {
+                  "name": "Zooklub \"Neon\"",
+                  "text": "Zooclub Neon is a local zoo featuring diverse animal species in Berdjansk.",
+                  "category": "family",
+                  "coords": [
+                        36.791073,
+                        46.761028
+                  ]
+            },
+            {
+                  "name": "Krayeznavchyy muzey",
+                  "text": "This regional museum in Berdjansk presents exhibits on local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        36.794452,
+                        46.754567
+                  ]
+            },
+            {
+                  "name": "to Round goby fish, for saving the people from famine",
+                  "text": "This attraction in Berdjansk is a monument dedicated to the round goby fish for saving locals from famine.",
+                  "category": "landmark",
+                  "coords": [
+                        36.788572,
+                        46.749999
+                  ]
+            },
+            {
+                  "name": "Nepidyomni sumky turystiv",
+                  "text": "\"Unliftable Tourist Bags\" is a quirky and humorous monument located in Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.789627,
+                        46.754151
+                  ]
+            },
+            {
+                  "name": "Byust Khavkinu",
+                  "text": "The Bust of Khavkin is a commemorative monument in the city of Berdjansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.784505,
+                        46.754492
+                  ]
+            },
+            {
+                  "name": "M. Horkomu",
+                  "text": "This monument in Berdjansk is dedicated to the famous writer Maxim Gorky.",
+                  "category": "historical",
+                  "coords": [
+                        36.778004,
+                        46.760138
+                  ]
+            },
+            {
+                  "name": "Zahyblym voinam-internatsionalistam",
+                  "text": "Monument to the Fallen Internationalist Soldiers in Berdiansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.779201,
+                        46.763281
+                  ]
+            },
+            {
+                  "name": "Avtomobilistam-trudivnykam",
+                  "text": "Monument to the Working Motorists in Berdiansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.7805,
+                        46.76775
+                  ]
+            },
+            {
+                  "name": "Rayonu 8 marta",
+                  "text": "Monument dedicated to the 8th of March district in Berdiansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.810466,
+                        46.764996
+                  ]
+            },
+            {
+                  "name": "Symbol of the \"Colony\" district",
+                  "text": "Monument symbolizing the Colony district in Berdiansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.812977,
+                        46.753203
+                  ]
+            },
+            {
+                  "name": "Yakir",
+                  "text": "Anchor monument in Berdiansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.797106,
+                        46.749341
+                  ]
+            },
+            {
+                  "name": "Zhaba",
+                  "text": "The Frog attraction in Berdiansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.792977,
+                        46.746433
+                  ]
+            },
+            {
+                  "name": "Sonyachnyy hodynnyk",
+                  "text": "Sundial attraction in Berdiansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.789202,
+                        46.749076
+                  ]
+            },
+            {
+                  "name": "Dytyachyy velosyped",
+                  "text": "Children's bicycle monument in Berdiansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.789527,
+                        46.752975
+                  ]
+            },
+            {
+                  "name": "Ohlyadovyy maydanchyk",
+                  "text": "Observation deck offering views in Berdiansk.",
+                  "category": "natural",
+                  "coords": [
+                        36.787587,
+                        46.762388
+                  ]
+            },
+            {
+                  "name": "Verkhniy ohlyadovyy maydanchyk",
+                  "text": "Upper observation deck in Berdiansk.",
+                  "category": "natural",
+                  "coords": [
+                        36.788532,
+                        46.762824
+                  ]
+            },
+            {
+                  "name": "Zhertvam Holodomoru",
+                  "text": "Monument to the victims of the Holodomor in Berdiansk.",
+                  "category": "historical",
+                  "coords": [
+                        36.77868,
+                        46.778785
+                  ]
+            },
+            {
+                  "name": "Yevanhelichno-lyuteranska Kirkha Khrysta Spasytelya",
+                  "text": "Evangelical Lutheran Church of Christ the Savior attraction in Berdiansk.",
+                  "category": "landmark",
+                  "coords": [
+                        36.793131,
+                        46.752531
+                  ]
+            },
+            {
+                  "name": "Центральний міський пляж",
+                  "text": "The central city beach of Berdiansk on the Sea of Azov.",
+                  "category": "recreational",
+                  "coords": [
+                        36.787159,
+                        46.749859
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "A popular beach in the Liski district of Berdiansk, ideal for families.",
+                  "category": "recreational",
+                  "coords": [
+                        36.766384,
+                        46.761455
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "A popular beach in the Liski district of Berdiansk, ideal for families.",
+                  "category": "recreational",
+                  "coords": [
+                        36.771674,
+                        46.758554
+                  ]
+            },
+            {
+                  "name": "пляж Ліски",
+                  "text": "A popular beach in the Liski district of Berdiansk, ideal for families.",
+                  "category": "recreational",
+                  "coords": [
+                        36.761373,
+                        46.764012
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Berdjansk", hu: "Bergyanszk", ro: "Berdiansk", en: "Berdiansk"},
@@ -2292,7 +4488,412 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-yevpatoria-cities-v2",
+    id: "ukraine-yevpatoria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Пляж «Родничок»",
+                  "text": "Der Strand Rodnichok in Jewpatorija ist ein beliebtes Ziel für einen erholsamen Badeurlaub.",
+                  "category": "recreational",
+                  "coords": [
+                        33.32487,
+                        45.17494
+                  ]
+            },
+            {
+                  "name": "Пляж ГБУ РК \"ЦПРИ\"",
+                  "text": "Dieser Strandresort-Bereich in Jewpatorija gehört zu einer spezialisierten Einrichtung für Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        33.325792,
+                        45.174823
+                  ]
+            },
+            {
+                  "name": "Пляж детского лагеря «Огонёк» и санатория «Евпатория»",
+                  "text": "Dieser Strandbereich in Jewpatorija wird gemeinschaftlich von spezialisierten Ferienlagern genutzt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.327193,
+                        45.174559
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата им. Ю. А. Гагарина",
+                  "text": "Ein Strandresort des Gagarin-Pensionats in Jewpatorija.",
+                  "category": "recreational",
+                  "coords": [
+                        33.329918,
+                        45.173579
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Мрия»",
+                  "text": "Ein Strandresort des Sanatoriums Mrija in Jewpatorija.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331538,
+                        45.172936
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Буревестник\"",
+                  "text": "Ein Strandresort des Sanatoriums Burewestnik in Jewpatorija.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3329,
+                        45.172917
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Евпатория»",
+                  "text": "Ein Strandresort des Sanatoriums Jewpatorija in der gleichnamigen Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3345,
+                        45.1732
+                  ]
+            },
+            {
+                  "name": "Пляж отеля Романова",
+                  "text": "Ein Strandresort des Romanov-Hotels in Jewpatorija.",
+                  "category": "recreational",
+                  "coords": [
+                        33.336923,
+                        45.173647
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Таврия»",
+                  "text": "Ein Strandresort des Sanatoriums Tawrija in Jewpatorija.",
+                  "category": "recreational",
+                  "coords": [
+                        33.338715,
+                        45.173768
+                  ]
+            },
+            {
+                  "name": "Солярис",
+                  "text": "Ein beliebter Sandstrand namens Solaris in Jewpatorija.",
+                  "category": "recreational",
+                  "coords": [
+                        33.387809,
+                        45.198186
+                  ]
+            },
+            {
+                  "name": "Золотой берег",
+                  "text": "Ein langer Sandstrand namens Goldstrand in Jewpatorija.",
+                  "category": "recreational",
+                  "coords": [
+                        33.35733,
+                        45.178871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Пляж «Родничок»",
+                  "text": "A Rodnyicsok strand Jevpatorijában népszerű célpont a pihentető tengerparti nyaraláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        33.32487,
+                        45.17494
+                  ]
+            },
+            {
+                  "name": "Пляж ГБУ РК \"ЦПРИ\"",
+                  "text": "Ez a jevpatorijai strandterület egy speciális üdülőközponthoz tartozik.",
+                  "category": "recreational",
+                  "coords": [
+                        33.325792,
+                        45.174823
+                  ]
+            },
+            {
+                  "name": "Пляж детского лагеря «Огонёк» и санатория «Евпатория»",
+                  "text": "Ezt a jevpatorijai strandterületet speciális üdülőtáborok közösen használják.",
+                  "category": "recreational",
+                  "coords": [
+                        33.327193,
+                        45.174559
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата им. Ю. А. Гагарина",
+                  "text": "A Gagarin panzió tengerparti üdülőhelye Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.329918,
+                        45.173579
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Мрия»",
+                  "text": "A Mrija szanatórium tengerparti üdülőhelye Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331538,
+                        45.172936
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Буревестник\"",
+                  "text": "A Burevesztnyik szanatórium tengerparti üdülőhelye Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3329,
+                        45.172917
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Евпатория»",
+                  "text": "A Jevpatorija szanatórium tengerparti üdülőhelye Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3345,
+                        45.1732
+                  ]
+            },
+            {
+                  "name": "Пляж отеля Романова",
+                  "text": "A Romanov szálloda tengerparti üdülőhelye Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.336923,
+                        45.173647
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Таврия»",
+                  "text": "A Tavrija szanatórium tengerparti üdülőhelye Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.338715,
+                        45.173768
+                  ]
+            },
+            {
+                  "name": "Солярис",
+                  "text": "Solaris nevű népszerű homokos strand Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.387809,
+                        45.198186
+                  ]
+            },
+            {
+                  "name": "Золотой берег",
+                  "text": "Aranypart nevű hosszú homokos strand Jevpatorijában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.35733,
+                        45.178871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Пляж «Родничок»",
+                  "text": "Plaja Rodniciok din Eupatoria este o destinație populară pentru o vacanță relaxantă la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        33.32487,
+                        45.17494
+                  ]
+            },
+            {
+                  "name": "Пляж ГБУ РК \"ЦПРИ\"",
+                  "text": "Această zonă de plajă din Eupatoria aparține unei instituții specializate pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        33.325792,
+                        45.174823
+                  ]
+            },
+            {
+                  "name": "Пляж детского лагеря «Огонёк» и санатория «Евпатория»",
+                  "text": "Această zonă de plajă din Eupatoria este utilizată în comun de tabere de vacanță specializate.",
+                  "category": "recreational",
+                  "coords": [
+                        33.327193,
+                        45.174559
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата им. Ю. А. Гагарина",
+                  "text": "O stațiune de plajă a pensiunii Gagarin din Eupatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.329918,
+                        45.173579
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Мрия»",
+                  "text": "O stațiune de plajă a sanatoriului Mria din Eupatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331538,
+                        45.172936
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Буревестник\"",
+                  "text": "O stațiune de plajă a sanatoriului Burevestnik din Eupatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3329,
+                        45.172917
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Евпатория»",
+                  "text": "O stațiune de plajă a sanatoriului Eupatoria din orașul cu același nume.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3345,
+                        45.1732
+                  ]
+            },
+            {
+                  "name": "Пляж отеля Романова",
+                  "text": "O stațiune de plajă a hotelului Romanov din Eupatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.336923,
+                        45.173647
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Таврия»",
+                  "text": "O stațiune de plajă a sanatoriului Tavria din Eupatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.338715,
+                        45.173768
+                  ]
+            },
+            {
+                  "name": "Солярис",
+                  "text": "O plajă de nisip populară numită Solaris în Eupatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.387809,
+                        45.198186
+                  ]
+            },
+            {
+                  "name": "Золотой берег",
+                  "text": "O plajă lungă de nisip numită Coasta de Aur în Eupatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.35733,
+                        45.178871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Пляж «Родничок»",
+                  "text": "The Rodnichok beach in Yevpatoria is a popular destination for a relaxing seaside holiday.",
+                  "category": "recreational",
+                  "coords": [
+                        33.32487,
+                        45.17494
+                  ]
+            },
+            {
+                  "name": "Пляж ГБУ РК \"ЦПРИ\"",
+                  "text": "This beach resort area in Yevpatoria belongs to a specialized facility for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        33.325792,
+                        45.174823
+                  ]
+            },
+            {
+                  "name": "Пляж детского лагеря «Огонёк» и санатория «Евпатория»",
+                  "text": "This beach area in Yevpatoria is used jointly by specialized holiday camps.",
+                  "category": "recreational",
+                  "coords": [
+                        33.327193,
+                        45.174559
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата им. Ю. А. Гагарина",
+                  "text": "A beach resort area of the Gagarin pension in Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.329918,
+                        45.173579
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Мрия»",
+                  "text": "A beach resort area of the Mriya sanatorium in Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331538,
+                        45.172936
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Буревестник\"",
+                  "text": "A beach resort area of the Burevestnik sanatorium in Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3329,
+                        45.172917
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Евпатория»",
+                  "text": "A beach resort area of the Yevpatoria sanatorium in the city of Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.3345,
+                        45.1732
+                  ]
+            },
+            {
+                  "name": "Пляж отеля Романова",
+                  "text": "A beach resort area of the Romanov hotel in Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.336923,
+                        45.173647
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Таврия»",
+                  "text": "A beach resort area of the Tavria sanatorium in Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.338715,
+                        45.173768
+                  ]
+            },
+            {
+                  "name": "Солярис",
+                  "text": "A popular sandy beach named Solaris in Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.387809,
+                        45.198186
+                  ]
+            },
+            {
+                  "name": "Золотой берег",
+                  "text": "A long sandy beach named Golden Coast in Yevpatoria.",
+                  "category": "recreational",
+                  "coords": [
+                        33.35733,
+                        45.178871
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Jewpatorija", hu: "Jevpatorija", ro: "Eupatoria", en: "Yevpatoria"},
@@ -3044,7 +5645,1636 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-yalta-cities-v2", "sights": {"de": [{"name": "Dom-muzey A. P. Chekhova", "text": "Das ehemalige Wohnhaus des Schriftstellers Anton Tschechow in Jalta, in dem er viele seiner berühmten Werke schrieb.", "category": "museum", "coords": [34.142383, 44.491249]}, {"name": "Muzey Lesy Ukraynky", "text": "Ein Museum in Jalta, das dem Leben und dem literarischen Erbe der berühmten ukrainischen Dichterin Lessja Ukrajinka gewidmet ist.", "category": "museum", "coords": [34.161826, 44.491999]}, {"name": "Dvorets hrafa Mordvynova", "text": "Ein eleganter Palast aus dem frühen 20. Jahrhundert in Jalta, der einst dem Grafen Mordwinow gehörte.", "category": "castle", "coords": [34.172627, 44.504062]}, {"name": "Dom-muzey N.Z. Byryukova", "text": "Ein Gedenkmuseum in Jalta, das dem Leben und Werk des sowjetischen Schriftstellers Nikolai Birjukow gewidmet ist.", "category": "museum", "coords": [34.152535, 44.490111]}, {"name": "Alexander Newski Kirche", "text": "Eine bedeutende orthodoxe Kathedrale in Jalta, die im neorussischen Architekturstil erbaut wurde.", "category": "religious", "coords": [34.163869, 44.495385]}, {"name": "Derekoy Dzhami (Dereköy Cami)", "text": "Eine historische Moschee in Jalta, die als wichtiges geistliches Zentrum für die örtliche Gemeinde dient.", "category": "religious", "coords": [34.168332, 44.508904]}, {"name": "Tserkov Svyatoy Rypsyme", "text": "Eine wunderschöne armenische Kirche in Jalta, die Anfang des 20. Jahrhunderts im traditionellen armenischen Stil erbaut wurde.", "category": "landmark", "coords": [34.165325, 44.50112]}, {"name": "Prymorskyy park ym. Yu. A. Haharyna", "text": "Ein großer Park am Meer in Jalta mit malerischen Wanderwegen und Blick auf das Schwarze Meer.", "category": "park", "coords": [34.158117, 44.484681]}, {"name": "Kontsertnyy zal «Yubyleynyy»", "text": "Ein großer Open-Air-Konzertsaal in Jalta, in dem Festivals und Musikaufführungen stattfinden.", "category": "cultural", "coords": [34.163792, 44.492877]}, {"name": "Ystoryko-lyteraturnyy muzey", "text": "Ein Museum in Jalta, das das reiche historische und literarische Erbe der Krim-Region präsentiert.", "category": "museum", "coords": [34.161036, 44.490173]}, {"name": "Dacha \"Omyur\"", "text": "Eine historische Villa in Jalta, die als Wohnsitz für bedeutende Kulturschaffende diente und heute ein Museum ist.", "category": "museum", "coords": [34.156894, 44.493403]}, {"name": "Osobnyak knyahyny Baryatynskoy Uch-Cham", "text": "Ein elegantes neoklassizistisches Herrenhaus in Jalta, das einst der Adelsfamilie Barjatinski gehörte.", "category": "castle", "coords": [34.176672, 44.507211]}, {"name": "Muzey Treneva K.A. y Pavlenko P.A.", "text": "Ein Gedenkmuseum in Jalta, das den sowjetischen Schriftstellern Konstantin Trenjow und Pjotr Pawlenko gewidmet ist.", "category": "museum", "coords": [34.164315, 44.49966]}, {"name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya", "text": "Ein Denkmal in Jalta zur Erinnerung an das sowjetische Dekret von 1920 über die Nutzung der Krim für medizinische Behandlungen.", "category": "historical", "coords": [34.16057, 44.48758]}, {"name": "Dom s syney bashney", "text": "Die Ruinen eines markanten historischen Gebäudes in Jalta, das für seinen einst prachtvollen blauen Turm bekannt war.", "category": "historical", "coords": [34.15971, 44.493367]}, {"name": "Memoryalnyy kompleks «Kholm Slavy»", "text": "Ein bedeutender Gedenkkomplex in Jalta, der den Helden des Großen Vaterländischen Krieges gewidmet ist.", "category": "historical", "coords": [34.161372, 44.500116]}, {"name": "Kontsertnyy zal \"Khrustalnyy\"", "text": "Ein moderner Veranstaltungsort in Jalta, der für Konzerte und kulturelle Veranstaltungen genutzt wird.", "category": "cultural", "coords": [34.191255, 44.50301]}, {"name": "Letnyy kynoteatr", "text": "Ein Open-Air-Kino in Jalta, in dem Besucher an warmen Sommerabenden Filme genießen können.", "category": "cultural", "coords": [34.190008, 44.502033]}, {"name": "Orhannyy zal «Lyvadyya»", "text": "Ein Konzertsaal in Jalta, der in einem historischen Gebäude untergebracht ist und für seine großen Orgelkonzerte bekannt ist.", "category": "cultural", "coords": [34.143159, 44.475487]}, {"name": "Studyya abstraktnykh yskusstv", "text": "Ein kreativer Raum und Fotostudio in Jalta, das künstlerische Dienstleistungen und Ausstellungen anbietet.", "category": "cultural", "coords": [34.160696, 44.491963]}, {"name": "Karavella \"Bryhantyna\"", "text": "Eine einzigartige Attraktion am Meer in Jalta, die in Form eines historischen Segelschiffs gestaltet ist.", "category": "landmark", "coords": [34.162523, 44.489204]}, {"name": "Vystavka tropycheskykh babochek", "text": "Eine lebendige Ausstellung in Jalta mit einer Vielzahl lebender tropischer Schmetterlinge.", "category": "landmark", "coords": [34.172626, 44.495918]}, {"name": "Kolyzey", "text": "Ein Veranstaltungsort oder Wahrzeichen in Jalta, inspiriert vom Architekturstil klassischer Kolosseen.", "category": "landmark", "coords": [34.155294, 44.489691]}, {"name": "Tys Lesy ukraynky", "text": "Eine historische Eibe in Jalta, die mit dem Leben der Dichterin Lessja Ukrajinka verbunden ist.", "category": "landmark", "coords": [34.187584, 44.505832]}, {"name": "Yaltynskye zontyky", "text": "Kultige schirmförmige Unterstände an der Uferpromenade von Jalta, die den Besuchern Schatten spenden.", "category": "landmark", "coords": [34.163527, 44.490373]}, {"name": "Eyfeleva bashnya", "text": "Eine dekorative, maßstabsgetreue Nachbildung des Eiffelturms in Jalta.", "category": "landmark", "coords": [34.178859, 44.497565]}, {"name": "Dokhodnyy dom doktora Shyryaeva", "text": "Ein bemerkenswertes historisches Mietshaus in Jalta, das einst dem Arzt Schirjajew gehörte.", "category": "landmark", "coords": [34.164074, 44.494436]}, {"name": "Dom arkhytektora", "text": "Ein historisches Gebäude in Jalta, das für sein einzigartiges architektonisches Design bekannt ist und früher ein Architektenhaus war.", "category": "landmark", "coords": [34.177101, 44.50926]}, {"name": "Zhyloy dom XIX veka", "text": "Ein historisches Wohngebäude aus dem 19. Jahrhundert, das zur klassischen Atmosphäre von Jalta beiträgt.", "category": "landmark", "coords": [34.16183, 44.49302]}, {"name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza", "text": "Ein vornehmendes historisches Herrenhaus in Jalta, das der Wohnsitz von Fürst Achmed-Girej Tschingis war.", "category": "landmark", "coords": [34.159324, 44.491345]}, {"name": "rozaryy", "text": "Eine wunderschöne Blumengalerie in Jalta, die eine große Vielfalt an Rosen präsentiert.", "category": "landmark", "coords": [34.187191, 44.503653]}, {"name": "Vkhod na turystycheskuyu tropu Yohraf", "text": "Der Ausgangspunkt des malerischen Wanderwegs Iograf, der in die Berge oberhalb von Jalta führt.", "category": "landmark", "coords": [34.139862, 44.508024]}, {"name": "Tsarskyy harazh", "text": "Ein historisches Gebäude aus dem frühen 20. Jahrhundert in Jalta, das für die Kraftfahrzeuge der russischen kaiserlichen Familie gebaut wurde.", "category": "landmark", "coords": [34.144191, 44.478954]}, {"name": "Svaty 4", "text": "Ein Drehort in Jalta, der für die beliebte Fernsehserie „Swaty 4“ genutzt wurde.", "category": "landmark", "coords": [34.190641, 44.508148]}, {"name": "Rotonda", "text": "Diese Rotunde in Jalta ist ein malerischer Aussichtspunkt mit Blick auf das Schwarze Meer.", "category": "natural", "coords": [34.183348, 44.499555]}, {"name": "Darsan", "text": "Der Darsan-Hügel bietet einen Panoramablick über Jalta und ist mit einer Seilbahn erreichbar.", "category": "natural", "coords": [34.160813, 44.498665]}, {"name": "Chystaya zhenshchyna", "text": "Ein lokaler Aussichtspunkt in Jalta, der einen weiten Blick über die Küstenlandschaft bietet.", "category": "natural", "coords": [34.167448, 44.49614]}, {"name": "Vyd na Yaltu", "text": "Ein Aussichtspunkt in Jalta, der für seinen beeindruckenden Blick auf das Stadtzentrum bekannt ist.", "category": "natural", "coords": [34.179723, 44.499947]}, {"name": "Krokodylyaryum", "text": "Dieser Zoo beherbergt eine große Sammlung von Krokodilen und anderen Reptilien.", "category": "family", "coords": [34.170859, 44.49706]}, {"name": "Akvaryum Kubyk", "text": "Ein Aquarium in Jalta, das verschiedene Arten von Meeresbewohnern in modernen Becken zeigt.", "category": "family", "coords": [34.156917, 44.490648]}, {"name": "Detskyy akvapark", "text": "Ein familienfreundlicher Wasserpark in Jalta mit Rutschen und Becken für Kinder.", "category": "family", "coords": [34.191521, 44.501769]}, {"name": "Horodskoy plyazh", "text": "Der zentrale Stadtstrand von Jalta ist ein beliebter Ort zum Schwimmen und Sonnenbaden.", "category": "recreational", "coords": [34.161794, 44.488066]}, {"name": "Plyazh \"Opera Prima\"", "text": "Ein moderner Strandkomplex in Jalta mit hochwertigen Einrichtungen für Besucher.", "category": "recreational", "coords": [34.160687, 44.486197]}], "hu": [{"name": "Dom-muzey A. P. Chekhova", "text": "Anton Csehov író egykori jaltai lakóhelye, ahol számos híres művét írta.", "category": "museum", "coords": [34.142383, 44.491249]}, {"name": "Muzey Lesy Ukraynky", "text": "A híres ukrán költőnő, Leszja Ukrajinka életének és irodalmi örökségének szentelt múzeum Jaltában.", "category": "museum", "coords": [34.161826, 44.491999]}, {"name": "Dvorets hrafa Mordvynova", "text": "Elegáns, 20. század eleji palota Jaltában, amely egykor Mordvinov gróf tulajdona volt.", "category": "castle", "coords": [34.172627, 44.504062]}, {"name": "Dom-muzey N.Z. Byryukova", "text": "Nyikolaj Birjukov szovjet író életének és munkásságának szentelt emlékmúzeum Jaltában.", "category": "museum", "coords": [34.152535, 44.490111]}, {"name": "Sobor Aleksandra Nevskoho", "text": "Jalta egyik jelentős ortodox székesegyháza, amely neoorosz építészeti stílusban épült.", "category": "religious", "coords": [34.163869, 44.495385]}, {"name": "Derekoy Dzhami (Dereköy Cami)", "text": "Jalta történelmi mecsete, amely a helyi közösség fontos lelki központjaként szolgál.", "category": "religious", "coords": [34.168332, 44.508904]}, {"name": "Tserkov Svyatoy Rypsyme", "text": "Gyönyörű örmény templom Jaltában, amely a 20. század elején épült hagyományos örmény stílusban.", "category": "landmark", "coords": [34.165325, 44.50112]}, {"name": "Prymorskyy park ym. Yu. A. Haharyna", "text": "Jalta nagy tengerparti parkja, amely festői sétautakat és kilátást kínál a Fekete-tengerre.", "category": "park", "coords": [34.158117, 44.484681]}, {"name": "Kontsertnyy zal «Yubyleynyy»", "text": "Jalta jelentős szabadtéri koncertterme, amely fesztiváloknak és zenei előadásoknak ad otthont.", "category": "cultural", "coords": [34.163792, 44.492877]}, {"name": "Ystoryko-lyteraturnyy muzey", "text": "Jaltai múzeum, amely a Krím-félsziget gazdag történelmi és irodalmi örökségét mutatja be.", "category": "museum", "coords": [34.161036, 44.490173]}, {"name": "Dacha \"Omyur\"", "text": "Történelmi villa Jaltában, amely neves kulturális személyiségek lakhelyéül szolgált, ma múzeum.", "category": "museum", "coords": [34.156894, 44.493403]}, {"name": "Osobnyak knyahyny Baryatynskoy Uch-Cham", "text": "Elegáns neoklasszicista kúria Jaltában, amely egykor a nemesi Barjatyinszkij család tulajdonában volt.", "category": "castle", "coords": [34.176672, 44.507211]}, {"name": "Muzey Treneva K.A. y Pavlenko P.A.", "text": "Konsztantyin Trenyov és Pjotr Pavlenko szovjet íróknak szentelt emlékmúzeum Jaltában.", "category": "museum", "coords": [34.164315, 44.49966]}, {"name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya", "text": "Emlékmű Jaltában az 1920-as szovjet dekrétum emlékére, amely a Krímet az orvosi kezelések helyszínévé nyilvánította.", "category": "historical", "coords": [34.16057, 44.48758]}, {"name": "Dom s syney bashney", "text": "Egy jellegzetes történelmi épület romjai Jaltában, amely egykori feltűnő kék tornyáról ismert.", "category": "historical", "coords": [34.15971, 44.493367]}, {"name": "Memoryalnyy kompleks «Kholm Slavy»", "text": "Jalta jelentős emlékkomplexuma, amelyet a Nagy Honvédő Háború hőseinek szenteltek.", "category": "historical", "coords": [34.161372, 44.500116]}, {"name": "Kontsertnyy zal \"Khrustalnyy\"", "text": "Modern előadóhely Jaltában, amelyet koncertekre és kulturális eseményekre használnak.", "category": "cultural", "coords": [34.191255, 44.50301]}, {"name": "Letnyy kynoteatr", "text": "Szabadtéri mozi Jaltában, ahol a látogatók meleg nyári estéken élvezhetik a filmeket.", "category": "cultural", "coords": [34.190008, 44.502033]}, {"name": "Orhannyy zal «Lyvadyya»", "text": "Történelmi épületben található koncertterem Jaltában, amely híres orgonaelőadásairól.", "category": "cultural", "coords": [34.143159, 44.475487]}, {"name": "Studyya abstraktnykh yskusstv", "text": "Kreatív tér és fotóstúdió Jaltában, amely művészeti szolgáltatásokat és kiállításokat kínál.", "category": "cultural", "coords": [34.160696, 44.491963]}, {"name": "Karavella \"Bryhantyna\"", "text": "Egyedülálló tengerparti látványosság Jaltában, amelyet egy történelmi vitorláshajó formájára terveztek.", "category": "landmark", "coords": [34.162523, 44.489204]}, {"name": "Vystavka tropycheskykh babochek", "text": "Élénk kiállítás Jaltában, amely különféle élő trópusi lepkéket mutat be.", "category": "landmark", "coords": [34.172626, 44.495918]}, {"name": "Kolyzey", "text": "Szórakozóhely vagy nevezetesség Jaltában, amelyet a klasszikus kolosszeumok építészeti stílusa ihletett.", "category": "landmark", "coords": [34.155294, 44.489691]}, {"name": "Tys Lesy ukraynky", "text": "Történelmi tiszafa Jaltában, amely Leszja Ukrajinka költőnő életéhez kapcsolódik.", "category": "landmark", "coords": [34.187584, 44.505832]}, {"name": "Yaltynskye zontyky", "text": "Ikonikus ernyő alakú menedékek a jaltai rakparton, amelyek árnyékot nyújtanak a látogatóknak.", "category": "landmark", "coords": [34.163527, 44.490373]}, {"name": "Eyfeleva bashnya", "text": "Az Eiffel-torony dekoratív, kisméretű másolata Jaltában.", "category": "landmark", "coords": [34.178859, 44.497565]}, {"name": "Dokhodnyy dom doktora Shyryaeva", "text": "Nevezetes történelmi bérház Jaltában, amely egykor Shiryaev doktor tulajdonában volt.", "category": "landmark", "coords": [34.164074, 44.494436]}, {"name": "Dom arkhytektora", "text": "Egyedülálló építészeti kialakításáról ismert történelmi épület Jaltában, amely korábban építészlakás volt.", "category": "landmark", "coords": [34.177101, 44.50926]}, {"name": "Zhyloy dom XIX veka", "text": "Történelmi 19. századi lakóépület, amely hozzájárul Jalta klasszikus hangulatához.", "category": "landmark", "coords": [34.16183, 44.49302]}, {"name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza", "text": "Előkelő történelmi kúria Jaltában, amely Ahmed-Girej Csingiz herceg lakhelye volt.", "category": "landmark", "coords": [34.159324, 44.491345]}, {"name": "rozaryy", "text": "Gyönyörű virággaléria Jaltában, amely a rózsák széles választékát mutatja be.", "category": "landmark", "coords": [34.187191, 44.503653]}, {"name": "Vkhod na turystycheskuyu tropu Yohraf", "text": "A festői Iograf túraútvonal kiindulópontja, amely a Jalta feletti hegyekbe vezet.", "category": "landmark", "coords": [34.139862, 44.508024]}, {"name": "Tsarskyy harazh", "text": "Történelmi, 20. század eleji épület Jaltában, amelyet az orosz cári család gépjárműveinek elhelyezésére építettek.", "category": "landmark", "coords": [34.144191, 44.478954]}, {"name": "Svaty 4", "text": "Jaltai forgatási helyszín, amelyet a népszerű „Svaty 4” televíziós sorozathoz használtak.", "category": "landmark", "coords": [34.190641, 44.508148]}, {"name": "Rotonda", "text": "Ez a jaltai rotunda festői kilátópont, ahonnan kilátás nyílik a Fekete-tengerre.", "category": "natural", "coords": [34.183348, 44.499555]}, {"name": "Darsan", "text": "A Darszan-hegy panorámás kilátást nyújt Jaltára, és kötélpályán érhető el.", "category": "natural", "coords": [34.160813, 44.498665]}, {"name": "Chystaya zhenshchyna", "text": "Helyi kilátópont Jaltán, ahonnan tágas kilátás nyílik a tengerparti tájra.", "category": "natural", "coords": [34.167448, 44.49614]}, {"name": "Vyd na Yaltu", "text": "Kilátópont Jaltán, amely a városközpontra nyíló lenyűgöző kilátásáról ismert.", "category": "natural", "coords": [34.179723, 44.499947]}, {"name": "Krokodylyaryum", "text": "Ez az állatkert krokodilok és más hüllők nagy gyűjteményének ad otthont.", "category": "family", "coords": [34.170859, 44.49706]}, {"name": "Akvaryum Kubyk", "text": "Jaltai akvárium, amely különféle tengeri élőlényeket mutat be modern tartályokban.", "category": "family", "coords": [34.156917, 44.490648]}, {"name": "Detskyy akvapark", "text": "Családbarát vízipark Jaltán, csúszdákkal és medencékkel gyermekek számára.", "category": "family", "coords": [34.191521, 44.501769]}, {"name": "Horodskoy plyazh", "text": "Jalta központi strandja népszerű hely az úszáshoz és a napozáshoz.", "category": "recreational", "coords": [34.161794, 44.488066]}, {"name": "Plyazh \"Opera Prima\"", "text": "Modern strandkomplexum Jaltán, magas színvonalú létesítményekkel a látogatók számára.", "category": "recreational", "coords": [34.160687, 44.486197]}], "ro": [{"name": "Dom-muzey A. P. Chekhova", "text": "Fosta reședință a scriitorului Anton Cehov din Ialta, unde a scris multe dintre operele sale celebre.", "category": "museum", "coords": [34.142383, 44.491249]}, {"name": "Muzey Lesy Ukraynky", "text": "Un muzeu din Ialta dedicat vieții și moștenirii literare a celebrei poete ucrainene Lesia Ukrainka.", "category": "museum", "coords": [34.161826, 44.491999]}, {"name": "Dvorets hrafa Mordvynova", "text": "Un palat elegant de la începutul secolului al XX-lea din Ialta, deținut anterior de contele Mordvinov.", "category": "castle", "coords": [34.172627, 44.504062]}, {"name": "Dom-muzey N.Z. Byryukova", "text": "Un muzeu memorial din Ialta dedicat vieții și operei scriitorului sovietic Nikolai Biriukov.", "category": "museum", "coords": [34.152535, 44.490111]}, {"name": "Sobor Aleksandra Nevskoho", "text": "O catedrală ortodoxă proeminentă din Ialta, construită în stil arhitectural neorus.", "category": "religious", "coords": [34.163869, 44.495385]}, {"name": "Derekoy Dzhami (Dereköy Cami)", "text": "O moschee istorică din Ialta, care servește ca un important centru spiritual pentru comunitatea locală.", "category": "religious", "coords": [34.168332, 44.508904]}, {"name": "Tserkov Svyatoy Rypsyme", "text": "O frumoasă biserică armeană din Ialta, construită la începutul secolului al XX-lea în stil tradițional armenesc.", "category": "landmark", "coords": [34.165325, 44.50112]}, {"name": "Prymorskyy park ym. Yu. A. Haharyna", "text": "Un parc mare de pe malul mării din Ialta, care oferă poteci pitorești de plimbare și vederi spre Marea Neagră.", "category": "park", "coords": [34.158117, 44.484681]}, {"name": "Kontsertnyy zal «Yubyleynyy»", "text": "O sală de concerte importantă în aer liber din Ialta, care găzduiește festivaluri și spectacole muzicale.", "category": "cultural", "coords": [34.163792, 44.492877]}, {"name": "Ystoryko-lyteraturnyy muzey", "text": "Un muzeu din Ialta care prezintă bogata moștenire istorică și literară a regiunii Crimeea.", "category": "museum", "coords": [34.161036, 44.490173]}, {"name": "Dacha \"Omyur\"", "text": "O vilă istorică din Ialta care a servit drept reședință pentru figuri culturale notabile, acum muzeu.", "category": "museum", "coords": [34.156894, 44.493403]}, {"name": "Osobnyak knyahyny Baryatynskoy Uch-Cham", "text": "Un conac neoclasic elegant din Ialta, deținut anterior de nobila familie Bariatinski.", "category": "castle", "coords": [34.176672, 44.507211]}, {"name": "Muzey Treneva K.A. y Pavlenko P.A.", "text": "Un muzeu memorial din Ialta dedicat scriitorilor sovietici Konstantin Trenev și Piotr Pavlenko.", "category": "museum", "coords": [34.164315, 44.49966]}, {"name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya", "text": "Un monument din Ialta care comemorează decretul sovietic din 1920 privind utilizarea Crimeei pentru tratament medical.", "category": "historical", "coords": [34.16057, 44.48758]}, {"name": "Dom s syney bashney", "text": "Ruinele unei clădiri istorice distinctive din Ialta, cunoscută pentru turnul său albastru odinioară izbitor.", "category": "historical", "coords": [34.15971, 44.493367]}, {"name": "Memoryalnyy kompleks «Kholm Slavy»", "text": "Un complex memorial major din Ialta dedicat eroilor Marelui Război pentru Apărarea Patriei.", "category": "historical", "coords": [34.161372, 44.500116]}, {"name": "Kontsertnyy zal \"Khrustalnyy\"", "text": "O sală modernă de spectacole din Ialta, utilizată pentru concerte și evenimente culturale.", "category": "cultural", "coords": [34.191255, 44.50301]}, {"name": "Letnyy kynoteatr", "text": "Un cinematograf în aer liber din Ialta, unde vizitatorii se pot bucura de filme în serile calde de vară.", "category": "cultural", "coords": [34.190008, 44.502033]}, {"name": "Orhannyy zal «Lyvadyya»", "text": "O sală de concerte din Ialta, găzduită într-o clădire istorică, faimoasă pentru spectacolele sale de orgă.", "category": "cultural", "coords": [34.143159, 44.475487]}, {"name": "Studyya abstraktnykh yskusstv", "text": "Un spațiu creativ și studio de fotografie din Ialta, care oferă servicii artistice și expoziții.", "category": "cultural", "coords": [34.160696, 44.491963]}, {"name": "Karavella \"Bryhantyna\"", "text": "O atracție unică de pe malul mării din Ialta, proiectată sub forma unei nave istorice cu pânze.", "category": "landmark", "coords": [34.162523, 44.489204]}, {"name": "Vystavka tropycheskykh babochek", "text": "O expoziție vibrantă din Ialta care prezintă o varietate de fluturi tropicali vii.", "category": "landmark", "coords": [34.172626, 44.495918]}, {"name": "Kolyzey", "text": "Un loc de recreere sau un punct de reper din Ialta, inspirat de stilul arhitectural al coloseumurilor clasice.", "category": "landmark", "coords": [34.155294, 44.489691]}, {"name": "Tys Lesy ukraynky", "text": "Un tisa istoric din Ialta, asociat cu viața poetei Lesia Ukrainka.", "category": "landmark", "coords": [34.187584, 44.505832]}, {"name": "Yaltynskye zontyky", "text": "Adăposturi iconice în formă de umbrelă situate de-a lungul falezei din Ialta, oferind umbră vizitatorilor.", "category": "landmark", "coords": [34.163527, 44.490373]}, {"name": "Eyfeleva bashnya", "text": "O replică decorativă la scară mică a Turnului Eiffel situată în Ialta.", "category": "landmark", "coords": [34.178859, 44.497565]}, {"name": "Dokhodnyy dom doktora Shyryaeva", "text": "O clădire istorică de apartamente notabilă din Ialta, deținută cândva de doctorul Șiriaev.", "category": "landmark", "coords": [34.164074, 44.494436]}, {"name": "Dom arkhytektora", "text": "O clădire istorică din Ialta cunoscută pentru designul său arhitectural unic, fostă reședință a unui arhitect.", "category": "landmark", "coords": [34.177101, 44.50926]}, {"name": "Zhyloy dom XIX veka", "text": "O clădire rezidențială istorică din secolul al XIX-lea care contribuie la atmosfera clasică a Ialtei.", "category": "landmark", "coords": [34.16183, 44.49302]}, {"name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza", "text": "Un conac istoric distins din Ialta, care a fost reședința prințului Ahmed-Girey Chingiz.", "category": "landmark", "coords": [34.159324, 44.491345]}, {"name": "rozaryy", "text": "O frumoasă galerie florală din Ialta care prezintă o mare varietate de trandafiri.", "category": "landmark", "coords": [34.187191, 44.503653]}, {"name": "Vkhod na turystycheskuyu tropu Yohraf", "text": "Punctul de plecare al traseului pitoresc de drumeție Iograf, care duce în munții de deasupra Ialtei.", "category": "landmark", "coords": [34.139862, 44.508024]}, {"name": "Tsarskyy harazh", "text": "O clădire istorică de la începutul secolului al XX-lea din Ialta, construită pentru a adăposti autovehiculele familiei imperiale ruse.", "category": "landmark", "coords": [34.144191, 44.478954]}, {"name": "Svaty 4", "text": "O locație de filmare din Ialta, utilizată pentru popularul serial de televiziune „Svaty 4”.", "category": "landmark", "coords": [34.190641, 44.508148]}, {"name": "Rotonda", "text": "Această rotundă din Jalta este un punct de observație pitoresc cu vedere la Marea Neagră.", "category": "natural", "coords": [34.183348, 44.499555]}, {"name": "Darsan", "text": "Dealul Darsan oferă o vedere panoramică asupra Jaltei și este accesibil cu o teleferic.", "category": "natural", "coords": [34.160813, 44.498665]}, {"name": "Chystaya zhenshchyna", "text": "Un punct de observație local din Jalta, care oferă o vedere largă asupra peisajului de coastă.", "category": "natural", "coords": [34.167448, 44.49614]}, {"name": "Vyd na Yaltu", "text": "Un punct de observație din Jalta, cunoscut pentru vederea sa impresionantă asupra centrului orașului.", "category": "natural", "coords": [34.179723, 44.499947]}, {"name": "Krokodylyaryum", "text": "Această grădină zoologică găzduiește o colecție mare de crocodili și alte reptile.", "category": "family", "coords": [34.170859, 44.49706]}, {"name": "Akvaryum Kubyk", "text": "Un acvariu din Jalta care prezintă diverse specii de viețuitoare marine în bazine moderne.", "category": "family", "coords": [34.156917, 44.490648]}, {"name": "Detskyy akvapark", "text": "Un parc acvatic pentru familii din Jalta, cu tobogane și piscine pentru copii.", "category": "family", "coords": [34.191521, 44.501769]}, {"name": "Horodskoy plyazh", "text": "Plaja centrală a orașului Jalta este un loc popular pentru înot și plajă.", "category": "recreational", "coords": [34.161794, 44.488066]}, {"name": "Plyazh \"Opera Prima\"", "text": "Un complex de plajă modern din Jalta, cu facilități de înaltă calitate pentru vizitatori.", "category": "recreational", "coords": [34.160687, 44.486197]}], "en": [{"name": "Dom-muzey A. P. Chekhova", "text": "The former residence of writer Anton Chekhov in Yalta, where he wrote many of his famous works.", "category": "museum", "coords": [34.142383, 44.491249]}, {"name": "Muzey Lesy Ukraynky", "text": "A museum in Yalta dedicated to the life and literary legacy of the famous Ukrainian poet Lesya Ukrainka.", "category": "museum", "coords": [34.161826, 44.491999]}, {"name": "Earl Mordovinov Castle", "text": "An elegant early 20th-century palace in Yalta, formerly owned by Count Mordvinov.", "category": "castle", "coords": [34.172627, 44.504062]}, {"name": "Dom-muzey N.Z. Byryukova", "text": "A memorial museum in Yalta dedicated to the life and work of the Soviet writer Nikolay Biryukov.", "category": "museum", "coords": [34.152535, 44.490111]}, {"name": "Alexander Nevsky Cathedral", "text": "A prominent Orthodox cathedral in Yalta, built in the Neo-Russian architectural style.", "category": "religious", "coords": [34.163869, 44.495385]}, {"name": "Derekoy Dzhami (Dereköy Cami)", "text": "A historic mosque in Yalta, serving as an important spiritual center for the local community.", "category": "religious", "coords": [34.168332, 44.508904]}, {"name": "Tserkov Svyatoy Rypsyme", "text": "A beautiful Armenian church in Yalta, built in the early 20th century in traditional Armenian style.", "category": "landmark", "coords": [34.165325, 44.50112]}, {"name": "Primorsky park", "text": "A large seaside park in Yalta offering scenic walking paths and views of the Black Sea.", "category": "park", "coords": [34.158117, 44.484681]}, {"name": "Kontsertnyy zal «Yubyleynyy»", "text": "A major open-air concert hall in Yalta that hosts festivals and musical performances.", "category": "cultural", "coords": [34.163792, 44.492877]}, {"name": "Ystoryko-lyteraturnyy muzey", "text": "A museum in Yalta showcasing the rich historical and literary heritage of the Crimean region.", "category": "museum", "coords": [34.161036, 44.490173]}, {"name": "Dacha \"Omyur\"", "text": "A historic villa in Yalta that served as a residence for notable cultural figures, now a museum.", "category": "museum", "coords": [34.156894, 44.493403]}, {"name": "Osobnyak knyahyny Baryatynskoy Uch-Cham", "text": "An elegant neoclassical mansion in Yalta, formerly owned by the noble Baryatinsky family.", "category": "castle", "coords": [34.176672, 44.507211]}, {"name": "Muzey Treneva K.A. y Pavlenko P.A.", "text": "A museum of Trenev and Pavlenko in Yalta dedicated to the Soviet writers Konstantin Trenev and Pyotr Pavlenko.", "category": "museum", "coords": [34.164315, 44.49966]}, {"name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya", "text": "A monument in Yalta commemorating the 1920 Soviet decree on the use of Crimea for medical treatment.", "category": "historical", "coords": [34.16057, 44.48758]}, {"name": "Dom s syney bashney", "text": "The ruins of a distinctive historic building in Yalta, known for its once-striking blue tower.", "category": "historical", "coords": [34.15971, 44.493367]}, {"name": "Memoryalnyy kompleks «Kholm Slavy»", "text": "A major memorial complex in Yalta dedicated to the heroes of the Great Patriotic War.", "category": "historical", "coords": [34.161372, 44.500116]}, {"name": "Kontsertnyy zal \"Khrustalnyy\"", "text": "A modern performance venue in Yalta used for concerts and cultural events.", "category": "cultural", "coords": [34.191255, 44.50301]}, {"name": "Letnyy kynoteatr", "text": "An open-air cinema in Yalta where visitors can enjoy movies during the warm summer evenings.", "category": "cultural", "coords": [34.190008, 44.502033]}, {"name": "Orhannyy zal «Lyvadyya»", "text": "A concert hall in Yalta housed in a historic building, famous for its grand organ performances.", "category": "cultural", "coords": [34.143159, 44.475487]}, {"name": "MyLife Photostudio", "text": "A creative space and photography studio in Yalta offering artistic services and exhibitions.", "category": "cultural", "coords": [34.160696, 44.491963]}, {"name": "Karavella \"Bryhantyna\"", "text": "A unique seaside attraction in Yalta designed in the shape of a historic sailing vessel.", "category": "landmark", "coords": [34.162523, 44.489204]}, {"name": "Vystavka tropycheskykh babochek", "text": "A vibrant exhibition in Yalta featuring a variety of live tropical butterflies.", "category": "landmark", "coords": [34.172626, 44.495918]}, {"name": "Kolyzey", "text": "A recreational venue or landmark in Yalta inspired by the architectural style of classical colosseums.", "category": "landmark", "coords": [34.155294, 44.489691]}, {"name": "Tys Lesy ukraynky", "text": "A historic yew tree in Yalta associated with the life of the poet Lesya Ukrainka.", "category": "landmark", "coords": [34.187584, 44.505832]}, {"name": "Yaltynskye zontyky", "text": "Iconic umbrella-shaped shelters located along the Yalta embankment, providing shade for visitors.", "category": "landmark", "coords": [34.163527, 44.490373]}, {"name": "Eyfeleva bashnya", "text": "A decorative small-scale replica of the Eiffel Tower located in Yalta.", "category": "landmark", "coords": [34.178859, 44.497565]}, {"name": "Dokhodnyy dom doktora Shyryaeva", "text": "A notable historic apartment building in Yalta, once owned by Doctor Shiryaev.", "category": "landmark", "coords": [34.164074, 44.494436]}, {"name": "Dom arkhytektora", "text": "A historic building in Yalta known for its unique architectural design, formerly an architect's residence.", "category": "landmark", "coords": [34.177101, 44.50926]}, {"name": "Zhyloy dom XIX veka", "text": "A historic 19th-century residential building contributing to the classic atmosphere of Yalta.", "category": "landmark", "coords": [34.16183, 44.49302]}, {"name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza", "text": "A distinguished historic mansion in Yalta that was the residence of Prince Akhmed-Girey Chingiz.", "category": "landmark", "coords": [34.159324, 44.491345]}, {"name": "Roses gallery", "text": "A beautiful floral gallery in Yalta showcasing a wide variety of roses.", "category": "landmark", "coords": [34.187191, 44.503653]}, {"name": "Vkhod na turystycheskuyu tropu Yohraf", "text": "The starting point of the scenic Iograf hiking trail, leading into the mountains above Yalta.", "category": "landmark", "coords": [34.139862, 44.508024]}, {"name": "Tsarskyy harazh", "text": "A historic early 20th-century building in Yalta built to house the motor vehicles of the Russian Imperial family.", "category": "landmark", "coords": [34.144191, 44.478954]}, {"name": "Svaty 4", "text": "A filming location in Yalta used for the popular television series \"Svaty 4\".", "category": "landmark", "coords": [34.190641, 44.508148]}, {"name": "Rotonda", "text": "This rotunda in Yalta is a scenic viewpoint overlooking the Black Sea.", "category": "natural", "coords": [34.183348, 44.499555]}, {"name": "Darsan", "text": "Darsan Hill offers a panoramic view over Yalta and is accessible by a cable car.", "category": "natural", "coords": [34.160813, 44.498665]}, {"name": "Pure woman", "text": "A local viewpoint in Yalta offering a wide view over the coastal landscape.", "category": "natural", "coords": [34.167448, 44.49614]}, {"name": "Vyd na Yaltu", "text": "A viewpoint in Yalta known for its impressive view of the city center.", "category": "natural", "coords": [34.179723, 44.499947]}, {"name": "Krokodylyaryum", "text": "This zoo houses a large collection of crocodiles and other reptiles.", "category": "family", "coords": [34.170859, 44.49706]}, {"name": "Akvaryum Kubyk", "text": "An aquarium in Yalta showcasing various species of marine life in modern tanks.", "category": "family", "coords": [34.156917, 44.490648]}, {"name": "Detskyy akvapark", "text": "A family-friendly water park in Yalta with slides and pools for children.", "category": "family", "coords": [34.191521, 44.501769]}, {"name": "Horodskoy plyazh", "text": "The central city beach of Yalta is a popular spot for swimming and sunbathing.", "category": "recreational", "coords": [34.161794, 44.488066]}, {"name": "Plyazh \"Opera Prima\"", "text": "A modern beach complex in Yalta with high-quality facilities for visitors.", "category": "recreational", "coords": [34.160687, 44.486197]}]},
+    id: "ukraine-yalta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom-muzey A. P. Chekhova",
+                  "text": "Das ehemalige Wohnhaus des Schriftstellers Anton Tschechow in Jalta, in dem er viele seiner berühmten Werke schrieb.",
+                  "category": "museum",
+                  "coords": [
+                        34.142383,
+                        44.491249
+                  ]
+            },
+            {
+                  "name": "Muzey Lesy Ukraynky",
+                  "text": "Ein Museum in Jalta, das dem Leben und dem literarischen Erbe der berühmten ukrainischen Dichterin Lessja Ukrajinka gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.161826,
+                        44.491999
+                  ]
+            },
+            {
+                  "name": "Dvorets hrafa Mordvynova",
+                  "text": "Ein eleganter Palast aus dem frühen 20. Jahrhundert in Jalta, der einst dem Grafen Mordwinow gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        34.172627,
+                        44.504062
+                  ]
+            },
+            {
+                  "name": "Dom-muzey N.Z. Byryukova",
+                  "text": "Ein Gedenkmuseum in Jalta, das dem Leben und Werk des sowjetischen Schriftstellers Nikolai Birjukow gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.152535,
+                        44.490111
+                  ]
+            },
+            {
+                  "name": "Alexander Newski Kirche",
+                  "text": "Eine bedeutende orthodoxe Kathedrale in Jalta, die im neorussischen Architekturstil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        34.163869,
+                        44.495385
+                  ]
+            },
+            {
+                  "name": "Derekoy Dzhami (Dereköy Cami)",
+                  "text": "Eine historische Moschee in Jalta, die als wichtiges geistliches Zentrum für die örtliche Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        34.168332,
+                        44.508904
+                  ]
+            },
+            {
+                  "name": "Tserkov Svyatoy Rypsyme",
+                  "text": "Eine wunderschöne armenische Kirche in Jalta, die Anfang des 20. Jahrhunderts im traditionellen armenischen Stil erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.165325,
+                        44.50112
+                  ]
+            },
+            {
+                  "name": "Prymorskyy park ym. Yu. A. Haharyna",
+                  "text": "Ein großer Park am Meer in Jalta mit malerischen Wanderwegen und Blick auf das Schwarze Meer.",
+                  "category": "park",
+                  "coords": [
+                        34.158117,
+                        44.484681
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal «Yubyleynyy»",
+                  "text": "Ein großer Open-Air-Konzertsaal in Jalta, in dem Festivals und Musikaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        34.163792,
+                        44.492877
+                  ]
+            },
+            {
+                  "name": "Ystoryko-lyteraturnyy muzey",
+                  "text": "Ein Museum in Jalta, das das reiche historische und literarische Erbe der Krim-Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        34.161036,
+                        44.490173
+                  ]
+            },
+            {
+                  "name": "Dacha \"Omyur\"",
+                  "text": "Eine historische Villa in Jalta, die als Wohnsitz für bedeutende Kulturschaffende diente und heute ein Museum ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.156894,
+                        44.493403
+                  ]
+            },
+            {
+                  "name": "Osobnyak knyahyny Baryatynskoy Uch-Cham",
+                  "text": "Ein elegantes neoklassizistisches Herrenhaus in Jalta, das einst der Adelsfamilie Barjatinski gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        34.176672,
+                        44.507211
+                  ]
+            },
+            {
+                  "name": "Muzey Treneva K.A. y Pavlenko P.A.",
+                  "text": "Ein Gedenkmuseum in Jalta, das den sowjetischen Schriftstellern Konstantin Trenjow und Pjotr Pawlenko gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.164315,
+                        44.49966
+                  ]
+            },
+            {
+                  "name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya",
+                  "text": "Ein Denkmal in Jalta zur Erinnerung an das sowjetische Dekret von 1920 über die Nutzung der Krim für medizinische Behandlungen.",
+                  "category": "historical",
+                  "coords": [
+                        34.16057,
+                        44.48758
+                  ]
+            },
+            {
+                  "name": "Dom s syney bashney",
+                  "text": "Die Ruinen eines markanten historischen Gebäudes in Jalta, das für seinen einst prachtvollen blauen Turm bekannt war.",
+                  "category": "historical",
+                  "coords": [
+                        34.15971,
+                        44.493367
+                  ]
+            },
+            {
+                  "name": "Memoryalnyy kompleks «Kholm Slavy»",
+                  "text": "Ein bedeutender Gedenkkomplex in Jalta, der den Helden des Großen Vaterländischen Krieges gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        34.161372,
+                        44.500116
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal \"Khrustalnyy\"",
+                  "text": "Ein moderner Veranstaltungsort in Jalta, der für Konzerte und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        34.191255,
+                        44.50301
+                  ]
+            },
+            {
+                  "name": "Letnyy kynoteatr",
+                  "text": "Ein Open-Air-Kino in Jalta, in dem Besucher an warmen Sommerabenden Filme genießen können.",
+                  "category": "cultural",
+                  "coords": [
+                        34.190008,
+                        44.502033
+                  ]
+            },
+            {
+                  "name": "Orhannyy zal «Lyvadyya»",
+                  "text": "Ein Konzertsaal in Jalta, der in einem historischen Gebäude untergebracht ist und für seine großen Orgelkonzerte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        34.143159,
+                        44.475487
+                  ]
+            },
+            {
+                  "name": "Studyya abstraktnykh yskusstv",
+                  "text": "Ein kreativer Raum und Fotostudio in Jalta, das künstlerische Dienstleistungen und Ausstellungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        34.160696,
+                        44.491963
+                  ]
+            },
+            {
+                  "name": "Karavella \"Bryhantyna\"",
+                  "text": "Eine einzigartige Attraktion am Meer in Jalta, die in Form eines historischen Segelschiffs gestaltet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.162523,
+                        44.489204
+                  ]
+            },
+            {
+                  "name": "Vystavka tropycheskykh babochek",
+                  "text": "Eine lebendige Ausstellung in Jalta mit einer Vielzahl lebender tropischer Schmetterlinge.",
+                  "category": "landmark",
+                  "coords": [
+                        34.172626,
+                        44.495918
+                  ]
+            },
+            {
+                  "name": "Kolyzey",
+                  "text": "Ein Veranstaltungsort oder Wahrzeichen in Jalta, inspiriert vom Architekturstil klassischer Kolosseen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.155294,
+                        44.489691
+                  ]
+            },
+            {
+                  "name": "Tys Lesy ukraynky",
+                  "text": "Eine historische Eibe in Jalta, die mit dem Leben der Dichterin Lessja Ukrajinka verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187584,
+                        44.505832
+                  ]
+            },
+            {
+                  "name": "Yaltynskye zontyky",
+                  "text": "Kultige schirmförmige Unterstände an der Uferpromenade von Jalta, die den Besuchern Schatten spenden.",
+                  "category": "landmark",
+                  "coords": [
+                        34.163527,
+                        44.490373
+                  ]
+            },
+            {
+                  "name": "Eyfeleva bashnya",
+                  "text": "Eine dekorative, maßstabsgetreue Nachbildung des Eiffelturms in Jalta.",
+                  "category": "landmark",
+                  "coords": [
+                        34.178859,
+                        44.497565
+                  ]
+            },
+            {
+                  "name": "Dokhodnyy dom doktora Shyryaeva",
+                  "text": "Ein bemerkenswertes historisches Mietshaus in Jalta, das einst dem Arzt Schirjajew gehörte.",
+                  "category": "landmark",
+                  "coords": [
+                        34.164074,
+                        44.494436
+                  ]
+            },
+            {
+                  "name": "Dom arkhytektora",
+                  "text": "Ein historisches Gebäude in Jalta, das für sein einzigartiges architektonisches Design bekannt ist und früher ein Architektenhaus war.",
+                  "category": "landmark",
+                  "coords": [
+                        34.177101,
+                        44.50926
+                  ]
+            },
+            {
+                  "name": "Zhyloy dom XIX veka",
+                  "text": "Ein historisches Wohngebäude aus dem 19. Jahrhundert, das zur klassischen Atmosphäre von Jalta beiträgt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.16183,
+                        44.49302
+                  ]
+            },
+            {
+                  "name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza",
+                  "text": "Ein vornehmendes historisches Herrenhaus in Jalta, das der Wohnsitz von Fürst Achmed-Girej Tschingis war.",
+                  "category": "landmark",
+                  "coords": [
+                        34.159324,
+                        44.491345
+                  ]
+            },
+            {
+                  "name": "rozaryy",
+                  "text": "Eine wunderschöne Blumengalerie in Jalta, die eine große Vielfalt an Rosen präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187191,
+                        44.503653
+                  ]
+            },
+            {
+                  "name": "Vkhod na turystycheskuyu tropu Yohraf",
+                  "text": "Der Ausgangspunkt des malerischen Wanderwegs Iograf, der in die Berge oberhalb von Jalta führt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.139862,
+                        44.508024
+                  ]
+            },
+            {
+                  "name": "Tsarskyy harazh",
+                  "text": "Ein historisches Gebäude aus dem frühen 20. Jahrhundert in Jalta, das für die Kraftfahrzeuge der russischen kaiserlichen Familie gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.144191,
+                        44.478954
+                  ]
+            },
+            {
+                  "name": "Svaty 4",
+                  "text": "Ein Drehort in Jalta, der für die beliebte Fernsehserie „Swaty 4“ genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        34.190641,
+                        44.508148
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "Diese Rotunde in Jalta ist ein malerischer Aussichtspunkt mit Blick auf das Schwarze Meer.",
+                  "category": "natural",
+                  "coords": [
+                        34.183348,
+                        44.499555
+                  ]
+            },
+            {
+                  "name": "Darsan",
+                  "text": "Der Darsan-Hügel bietet einen Panoramablick über Jalta und ist mit einer Seilbahn erreichbar.",
+                  "category": "natural",
+                  "coords": [
+                        34.160813,
+                        44.498665
+                  ]
+            },
+            {
+                  "name": "Chystaya zhenshchyna",
+                  "text": "Ein lokaler Aussichtspunkt in Jalta, der einen weiten Blick über die Küstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.167448,
+                        44.49614
+                  ]
+            },
+            {
+                  "name": "Vyd na Yaltu",
+                  "text": "Ein Aussichtspunkt in Jalta, der für seinen beeindruckenden Blick auf das Stadtzentrum bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        34.179723,
+                        44.499947
+                  ]
+            },
+            {
+                  "name": "Krokodylyaryum",
+                  "text": "Dieser Zoo beherbergt eine große Sammlung von Krokodilen und anderen Reptilien.",
+                  "category": "family",
+                  "coords": [
+                        34.170859,
+                        44.49706
+                  ]
+            },
+            {
+                  "name": "Akvaryum Kubyk",
+                  "text": "Ein Aquarium in Jalta, das verschiedene Arten von Meeresbewohnern in modernen Becken zeigt.",
+                  "category": "family",
+                  "coords": [
+                        34.156917,
+                        44.490648
+                  ]
+            },
+            {
+                  "name": "Detskyy akvapark",
+                  "text": "Ein familienfreundlicher Wasserpark in Jalta mit Rutschen und Becken für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        34.191521,
+                        44.501769
+                  ]
+            },
+            {
+                  "name": "Horodskoy plyazh",
+                  "text": "Der zentrale Stadtstrand von Jalta ist ein beliebter Ort zum Schwimmen und Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        34.161794,
+                        44.488066
+                  ]
+            },
+            {
+                  "name": "Plyazh \"Opera Prima\"",
+                  "text": "Ein moderner Strandkomplex in Jalta mit hochwertigen Einrichtungen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160687,
+                        44.486197
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Der zentrale öffentliche Strand der Stadt Jalta auf der Krim.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160075,
+                        44.485128
+                  ]
+            },
+            {
+                  "name": "Приморский пляж",
+                  "text": "Ein beliebter Kiesstrand im Zentrum von Jalta.",
+                  "category": "recreational",
+                  "coords": [
+                        34.159468,
+                        44.484007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom-muzey A. P. Chekhova",
+                  "text": "Anton Csehov író egykori jaltai lakóhelye, ahol számos híres művét írta.",
+                  "category": "museum",
+                  "coords": [
+                        34.142383,
+                        44.491249
+                  ]
+            },
+            {
+                  "name": "Muzey Lesy Ukraynky",
+                  "text": "A híres ukrán költőnő, Leszja Ukrajinka életének és irodalmi örökségének szentelt múzeum Jaltában.",
+                  "category": "museum",
+                  "coords": [
+                        34.161826,
+                        44.491999
+                  ]
+            },
+            {
+                  "name": "Dvorets hrafa Mordvynova",
+                  "text": "Elegáns, 20. század eleji palota Jaltában, amely egykor Mordvinov gróf tulajdona volt.",
+                  "category": "castle",
+                  "coords": [
+                        34.172627,
+                        44.504062
+                  ]
+            },
+            {
+                  "name": "Dom-muzey N.Z. Byryukova",
+                  "text": "Nyikolaj Birjukov szovjet író életének és munkásságának szentelt emlékmúzeum Jaltában.",
+                  "category": "museum",
+                  "coords": [
+                        34.152535,
+                        44.490111
+                  ]
+            },
+            {
+                  "name": "Sobor Aleksandra Nevskoho",
+                  "text": "Jalta egyik jelentős ortodox székesegyháza, amely neoorosz építészeti stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        34.163869,
+                        44.495385
+                  ]
+            },
+            {
+                  "name": "Derekoy Dzhami (Dereköy Cami)",
+                  "text": "Jalta történelmi mecsete, amely a helyi közösség fontos lelki központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        34.168332,
+                        44.508904
+                  ]
+            },
+            {
+                  "name": "Tserkov Svyatoy Rypsyme",
+                  "text": "Gyönyörű örmény templom Jaltában, amely a 20. század elején épült hagyományos örmény stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.165325,
+                        44.50112
+                  ]
+            },
+            {
+                  "name": "Prymorskyy park ym. Yu. A. Haharyna",
+                  "text": "Jalta nagy tengerparti parkja, amely festői sétautakat és kilátást kínál a Fekete-tengerre.",
+                  "category": "park",
+                  "coords": [
+                        34.158117,
+                        44.484681
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal «Yubyleynyy»",
+                  "text": "Jalta jelentős szabadtéri koncertterme, amely fesztiváloknak és zenei előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        34.163792,
+                        44.492877
+                  ]
+            },
+            {
+                  "name": "Ystoryko-lyteraturnyy muzey",
+                  "text": "Jaltai múzeum, amely a Krím-félsziget gazdag történelmi és irodalmi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        34.161036,
+                        44.490173
+                  ]
+            },
+            {
+                  "name": "Dacha \"Omyur\"",
+                  "text": "Történelmi villa Jaltában, amely neves kulturális személyiségek lakhelyéül szolgált, ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        34.156894,
+                        44.493403
+                  ]
+            },
+            {
+                  "name": "Osobnyak knyahyny Baryatynskoy Uch-Cham",
+                  "text": "Elegáns neoklasszicista kúria Jaltában, amely egykor a nemesi Barjatyinszkij család tulajdonában volt.",
+                  "category": "castle",
+                  "coords": [
+                        34.176672,
+                        44.507211
+                  ]
+            },
+            {
+                  "name": "Muzey Treneva K.A. y Pavlenko P.A.",
+                  "text": "Konsztantyin Trenyov és Pjotr Pavlenko szovjet íróknak szentelt emlékmúzeum Jaltában.",
+                  "category": "museum",
+                  "coords": [
+                        34.164315,
+                        44.49966
+                  ]
+            },
+            {
+                  "name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya",
+                  "text": "Emlékmű Jaltában az 1920-as szovjet dekrétum emlékére, amely a Krímet az orvosi kezelések helyszínévé nyilvánította.",
+                  "category": "historical",
+                  "coords": [
+                        34.16057,
+                        44.48758
+                  ]
+            },
+            {
+                  "name": "Dom s syney bashney",
+                  "text": "Egy jellegzetes történelmi épület romjai Jaltában, amely egykori feltűnő kék tornyáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        34.15971,
+                        44.493367
+                  ]
+            },
+            {
+                  "name": "Memoryalnyy kompleks «Kholm Slavy»",
+                  "text": "Jalta jelentős emlékkomplexuma, amelyet a Nagy Honvédő Háború hőseinek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        34.161372,
+                        44.500116
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal \"Khrustalnyy\"",
+                  "text": "Modern előadóhely Jaltában, amelyet koncertekre és kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        34.191255,
+                        44.50301
+                  ]
+            },
+            {
+                  "name": "Letnyy kynoteatr",
+                  "text": "Szabadtéri mozi Jaltában, ahol a látogatók meleg nyári estéken élvezhetik a filmeket.",
+                  "category": "cultural",
+                  "coords": [
+                        34.190008,
+                        44.502033
+                  ]
+            },
+            {
+                  "name": "Orhannyy zal «Lyvadyya»",
+                  "text": "Történelmi épületben található koncertterem Jaltában, amely híres orgonaelőadásairól.",
+                  "category": "cultural",
+                  "coords": [
+                        34.143159,
+                        44.475487
+                  ]
+            },
+            {
+                  "name": "Studyya abstraktnykh yskusstv",
+                  "text": "Kreatív tér és fotóstúdió Jaltában, amely művészeti szolgáltatásokat és kiállításokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        34.160696,
+                        44.491963
+                  ]
+            },
+            {
+                  "name": "Karavella \"Bryhantyna\"",
+                  "text": "Egyedülálló tengerparti látványosság Jaltában, amelyet egy történelmi vitorláshajó formájára terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        34.162523,
+                        44.489204
+                  ]
+            },
+            {
+                  "name": "Vystavka tropycheskykh babochek",
+                  "text": "Élénk kiállítás Jaltában, amely különféle élő trópusi lepkéket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        34.172626,
+                        44.495918
+                  ]
+            },
+            {
+                  "name": "Kolyzey",
+                  "text": "Szórakozóhely vagy nevezetesség Jaltában, amelyet a klasszikus kolosszeumok építészeti stílusa ihletett.",
+                  "category": "landmark",
+                  "coords": [
+                        34.155294,
+                        44.489691
+                  ]
+            },
+            {
+                  "name": "Tys Lesy ukraynky",
+                  "text": "Történelmi tiszafa Jaltában, amely Leszja Ukrajinka költőnő életéhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187584,
+                        44.505832
+                  ]
+            },
+            {
+                  "name": "Yaltynskye zontyky",
+                  "text": "Ikonikus ernyő alakú menedékek a jaltai rakparton, amelyek árnyékot nyújtanak a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        34.163527,
+                        44.490373
+                  ]
+            },
+            {
+                  "name": "Eyfeleva bashnya",
+                  "text": "Az Eiffel-torony dekoratív, kisméretű másolata Jaltában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.178859,
+                        44.497565
+                  ]
+            },
+            {
+                  "name": "Dokhodnyy dom doktora Shyryaeva",
+                  "text": "Nevezetes történelmi bérház Jaltában, amely egykor Shiryaev doktor tulajdonában volt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.164074,
+                        44.494436
+                  ]
+            },
+            {
+                  "name": "Dom arkhytektora",
+                  "text": "Egyedülálló építészeti kialakításáról ismert történelmi épület Jaltában, amely korábban építészlakás volt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.177101,
+                        44.50926
+                  ]
+            },
+            {
+                  "name": "Zhyloy dom XIX veka",
+                  "text": "Történelmi 19. századi lakóépület, amely hozzájárul Jalta klasszikus hangulatához.",
+                  "category": "landmark",
+                  "coords": [
+                        34.16183,
+                        44.49302
+                  ]
+            },
+            {
+                  "name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza",
+                  "text": "Előkelő történelmi kúria Jaltában, amely Ahmed-Girej Csingiz herceg lakhelye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.159324,
+                        44.491345
+                  ]
+            },
+            {
+                  "name": "rozaryy",
+                  "text": "Gyönyörű virággaléria Jaltában, amely a rózsák széles választékát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187191,
+                        44.503653
+                  ]
+            },
+            {
+                  "name": "Vkhod na turystycheskuyu tropu Yohraf",
+                  "text": "A festői Iograf túraútvonal kiindulópontja, amely a Jalta feletti hegyekbe vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.139862,
+                        44.508024
+                  ]
+            },
+            {
+                  "name": "Tsarskyy harazh",
+                  "text": "Történelmi, 20. század eleji épület Jaltában, amelyet az orosz cári család gépjárműveinek elhelyezésére építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        34.144191,
+                        44.478954
+                  ]
+            },
+            {
+                  "name": "Svaty 4",
+                  "text": "Jaltai forgatási helyszín, amelyet a népszerű „Svaty 4” televíziós sorozathoz használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        34.190641,
+                        44.508148
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "Ez a jaltai rotunda festői kilátópont, ahonnan kilátás nyílik a Fekete-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        34.183348,
+                        44.499555
+                  ]
+            },
+            {
+                  "name": "Darsan",
+                  "text": "A Darszan-hegy panorámás kilátást nyújt Jaltára, és kötélpályán érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        34.160813,
+                        44.498665
+                  ]
+            },
+            {
+                  "name": "Chystaya zhenshchyna",
+                  "text": "Helyi kilátópont Jaltán, ahonnan tágas kilátás nyílik a tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        34.167448,
+                        44.49614
+                  ]
+            },
+            {
+                  "name": "Vyd na Yaltu",
+                  "text": "Kilátópont Jaltán, amely a városközpontra nyíló lenyűgöző kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        34.179723,
+                        44.499947
+                  ]
+            },
+            {
+                  "name": "Krokodylyaryum",
+                  "text": "Ez az állatkert krokodilok és más hüllők nagy gyűjteményének ad otthont.",
+                  "category": "family",
+                  "coords": [
+                        34.170859,
+                        44.49706
+                  ]
+            },
+            {
+                  "name": "Akvaryum Kubyk",
+                  "text": "Jaltai akvárium, amely különféle tengeri élőlényeket mutat be modern tartályokban.",
+                  "category": "family",
+                  "coords": [
+                        34.156917,
+                        44.490648
+                  ]
+            },
+            {
+                  "name": "Detskyy akvapark",
+                  "text": "Családbarát vízipark Jaltán, csúszdákkal és medencékkel gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        34.191521,
+                        44.501769
+                  ]
+            },
+            {
+                  "name": "Horodskoy plyazh",
+                  "text": "Jalta központi strandja népszerű hely az úszáshoz és a napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.161794,
+                        44.488066
+                  ]
+            },
+            {
+                  "name": "Plyazh \"Opera Prima\"",
+                  "text": "Modern strandkomplexum Jaltán, magas színvonalú létesítményekkel a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160687,
+                        44.486197
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Jalta város központi nyilvános strandja a Krím-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160075,
+                        44.485128
+                  ]
+            },
+            {
+                  "name": "Приморский пляж",
+                  "text": "Népszerű kavicsos strand Jalta központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        34.159468,
+                        44.484007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dom-muzey A. P. Chekhova",
+                  "text": "Fosta reședință a scriitorului Anton Cehov din Ialta, unde a scris multe dintre operele sale celebre.",
+                  "category": "museum",
+                  "coords": [
+                        34.142383,
+                        44.491249
+                  ]
+            },
+            {
+                  "name": "Muzey Lesy Ukraynky",
+                  "text": "Un muzeu din Ialta dedicat vieții și moștenirii literare a celebrei poete ucrainene Lesia Ukrainka.",
+                  "category": "museum",
+                  "coords": [
+                        34.161826,
+                        44.491999
+                  ]
+            },
+            {
+                  "name": "Dvorets hrafa Mordvynova",
+                  "text": "Un palat elegant de la începutul secolului al XX-lea din Ialta, deținut anterior de contele Mordvinov.",
+                  "category": "castle",
+                  "coords": [
+                        34.172627,
+                        44.504062
+                  ]
+            },
+            {
+                  "name": "Dom-muzey N.Z. Byryukova",
+                  "text": "Un muzeu memorial din Ialta dedicat vieții și operei scriitorului sovietic Nikolai Biriukov.",
+                  "category": "museum",
+                  "coords": [
+                        34.152535,
+                        44.490111
+                  ]
+            },
+            {
+                  "name": "Sobor Aleksandra Nevskoho",
+                  "text": "O catedrală ortodoxă proeminentă din Ialta, construită în stil arhitectural neorus.",
+                  "category": "religious",
+                  "coords": [
+                        34.163869,
+                        44.495385
+                  ]
+            },
+            {
+                  "name": "Derekoy Dzhami (Dereköy Cami)",
+                  "text": "O moschee istorică din Ialta, care servește ca un important centru spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        34.168332,
+                        44.508904
+                  ]
+            },
+            {
+                  "name": "Tserkov Svyatoy Rypsyme",
+                  "text": "O frumoasă biserică armeană din Ialta, construită la începutul secolului al XX-lea în stil tradițional armenesc.",
+                  "category": "landmark",
+                  "coords": [
+                        34.165325,
+                        44.50112
+                  ]
+            },
+            {
+                  "name": "Prymorskyy park ym. Yu. A. Haharyna",
+                  "text": "Un parc mare de pe malul mării din Ialta, care oferă poteci pitorești de plimbare și vederi spre Marea Neagră.",
+                  "category": "park",
+                  "coords": [
+                        34.158117,
+                        44.484681
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal «Yubyleynyy»",
+                  "text": "O sală de concerte importantă în aer liber din Ialta, care găzduiește festivaluri și spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        34.163792,
+                        44.492877
+                  ]
+            },
+            {
+                  "name": "Ystoryko-lyteraturnyy muzey",
+                  "text": "Un muzeu din Ialta care prezintă bogata moștenire istorică și literară a regiunii Crimeea.",
+                  "category": "museum",
+                  "coords": [
+                        34.161036,
+                        44.490173
+                  ]
+            },
+            {
+                  "name": "Dacha \"Omyur\"",
+                  "text": "O vilă istorică din Ialta care a servit drept reședință pentru figuri culturale notabile, acum muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        34.156894,
+                        44.493403
+                  ]
+            },
+            {
+                  "name": "Osobnyak knyahyny Baryatynskoy Uch-Cham",
+                  "text": "Un conac neoclasic elegant din Ialta, deținut anterior de nobila familie Bariatinski.",
+                  "category": "castle",
+                  "coords": [
+                        34.176672,
+                        44.507211
+                  ]
+            },
+            {
+                  "name": "Muzey Treneva K.A. y Pavlenko P.A.",
+                  "text": "Un muzeu memorial din Ialta dedicat scriitorilor sovietici Konstantin Trenev și Piotr Pavlenko.",
+                  "category": "museum",
+                  "coords": [
+                        34.164315,
+                        44.49966
+                  ]
+            },
+            {
+                  "name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya",
+                  "text": "Un monument din Ialta care comemorează decretul sovietic din 1920 privind utilizarea Crimeei pentru tratament medical.",
+                  "category": "historical",
+                  "coords": [
+                        34.16057,
+                        44.48758
+                  ]
+            },
+            {
+                  "name": "Dom s syney bashney",
+                  "text": "Ruinele unei clădiri istorice distinctive din Ialta, cunoscută pentru turnul său albastru odinioară izbitor.",
+                  "category": "historical",
+                  "coords": [
+                        34.15971,
+                        44.493367
+                  ]
+            },
+            {
+                  "name": "Memoryalnyy kompleks «Kholm Slavy»",
+                  "text": "Un complex memorial major din Ialta dedicat eroilor Marelui Război pentru Apărarea Patriei.",
+                  "category": "historical",
+                  "coords": [
+                        34.161372,
+                        44.500116
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal \"Khrustalnyy\"",
+                  "text": "O sală modernă de spectacole din Ialta, utilizată pentru concerte și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        34.191255,
+                        44.50301
+                  ]
+            },
+            {
+                  "name": "Letnyy kynoteatr",
+                  "text": "Un cinematograf în aer liber din Ialta, unde vizitatorii se pot bucura de filme în serile calde de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        34.190008,
+                        44.502033
+                  ]
+            },
+            {
+                  "name": "Orhannyy zal «Lyvadyya»",
+                  "text": "O sală de concerte din Ialta, găzduită într-o clădire istorică, faimoasă pentru spectacolele sale de orgă.",
+                  "category": "cultural",
+                  "coords": [
+                        34.143159,
+                        44.475487
+                  ]
+            },
+            {
+                  "name": "Studyya abstraktnykh yskusstv",
+                  "text": "Un spațiu creativ și studio de fotografie din Ialta, care oferă servicii artistice și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        34.160696,
+                        44.491963
+                  ]
+            },
+            {
+                  "name": "Karavella \"Bryhantyna\"",
+                  "text": "O atracție unică de pe malul mării din Ialta, proiectată sub forma unei nave istorice cu pânze.",
+                  "category": "landmark",
+                  "coords": [
+                        34.162523,
+                        44.489204
+                  ]
+            },
+            {
+                  "name": "Vystavka tropycheskykh babochek",
+                  "text": "O expoziție vibrantă din Ialta care prezintă o varietate de fluturi tropicali vii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.172626,
+                        44.495918
+                  ]
+            },
+            {
+                  "name": "Kolyzey",
+                  "text": "Un loc de recreere sau un punct de reper din Ialta, inspirat de stilul arhitectural al coloseumurilor clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        34.155294,
+                        44.489691
+                  ]
+            },
+            {
+                  "name": "Tys Lesy ukraynky",
+                  "text": "Un tisa istoric din Ialta, asociat cu viața poetei Lesia Ukrainka.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187584,
+                        44.505832
+                  ]
+            },
+            {
+                  "name": "Yaltynskye zontyky",
+                  "text": "Adăposturi iconice în formă de umbrelă situate de-a lungul falezei din Ialta, oferind umbră vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        34.163527,
+                        44.490373
+                  ]
+            },
+            {
+                  "name": "Eyfeleva bashnya",
+                  "text": "O replică decorativă la scară mică a Turnului Eiffel situată în Ialta.",
+                  "category": "landmark",
+                  "coords": [
+                        34.178859,
+                        44.497565
+                  ]
+            },
+            {
+                  "name": "Dokhodnyy dom doktora Shyryaeva",
+                  "text": "O clădire istorică de apartamente notabilă din Ialta, deținută cândva de doctorul Șiriaev.",
+                  "category": "landmark",
+                  "coords": [
+                        34.164074,
+                        44.494436
+                  ]
+            },
+            {
+                  "name": "Dom arkhytektora",
+                  "text": "O clădire istorică din Ialta cunoscută pentru designul său arhitectural unic, fostă reședință a unui arhitect.",
+                  "category": "landmark",
+                  "coords": [
+                        34.177101,
+                        44.50926
+                  ]
+            },
+            {
+                  "name": "Zhyloy dom XIX veka",
+                  "text": "O clădire rezidențială istorică din secolul al XIX-lea care contribuie la atmosfera clasică a Ialtei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.16183,
+                        44.49302
+                  ]
+            },
+            {
+                  "name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza",
+                  "text": "Un conac istoric distins din Ialta, care a fost reședința prințului Ahmed-Girey Chingiz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.159324,
+                        44.491345
+                  ]
+            },
+            {
+                  "name": "rozaryy",
+                  "text": "O frumoasă galerie florală din Ialta care prezintă o mare varietate de trandafiri.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187191,
+                        44.503653
+                  ]
+            },
+            {
+                  "name": "Vkhod na turystycheskuyu tropu Yohraf",
+                  "text": "Punctul de plecare al traseului pitoresc de drumeție Iograf, care duce în munții de deasupra Ialtei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.139862,
+                        44.508024
+                  ]
+            },
+            {
+                  "name": "Tsarskyy harazh",
+                  "text": "O clădire istorică de la începutul secolului al XX-lea din Ialta, construită pentru a adăposti autovehiculele familiei imperiale ruse.",
+                  "category": "landmark",
+                  "coords": [
+                        34.144191,
+                        44.478954
+                  ]
+            },
+            {
+                  "name": "Svaty 4",
+                  "text": "O locație de filmare din Ialta, utilizată pentru popularul serial de televiziune „Svaty 4”.",
+                  "category": "landmark",
+                  "coords": [
+                        34.190641,
+                        44.508148
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "Această rotundă din Jalta este un punct de observație pitoresc cu vedere la Marea Neagră.",
+                  "category": "natural",
+                  "coords": [
+                        34.183348,
+                        44.499555
+                  ]
+            },
+            {
+                  "name": "Darsan",
+                  "text": "Dealul Darsan oferă o vedere panoramică asupra Jaltei și este accesibil cu o teleferic.",
+                  "category": "natural",
+                  "coords": [
+                        34.160813,
+                        44.498665
+                  ]
+            },
+            {
+                  "name": "Chystaya zhenshchyna",
+                  "text": "Un punct de observație local din Jalta, care oferă o vedere largă asupra peisajului de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        34.167448,
+                        44.49614
+                  ]
+            },
+            {
+                  "name": "Vyd na Yaltu",
+                  "text": "Un punct de observație din Jalta, cunoscut pentru vederea sa impresionantă asupra centrului orașului.",
+                  "category": "natural",
+                  "coords": [
+                        34.179723,
+                        44.499947
+                  ]
+            },
+            {
+                  "name": "Krokodylyaryum",
+                  "text": "Această grădină zoologică găzduiește o colecție mare de crocodili și alte reptile.",
+                  "category": "family",
+                  "coords": [
+                        34.170859,
+                        44.49706
+                  ]
+            },
+            {
+                  "name": "Akvaryum Kubyk",
+                  "text": "Un acvariu din Jalta care prezintă diverse specii de viețuitoare marine în bazine moderne.",
+                  "category": "family",
+                  "coords": [
+                        34.156917,
+                        44.490648
+                  ]
+            },
+            {
+                  "name": "Detskyy akvapark",
+                  "text": "Un parc acvatic pentru familii din Jalta, cu tobogane și piscine pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        34.191521,
+                        44.501769
+                  ]
+            },
+            {
+                  "name": "Horodskoy plyazh",
+                  "text": "Plaja centrală a orașului Jalta este un loc popular pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.161794,
+                        44.488066
+                  ]
+            },
+            {
+                  "name": "Plyazh \"Opera Prima\"",
+                  "text": "Un complex de plajă modern din Jalta, cu facilități de înaltă calitate pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160687,
+                        44.486197
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Plaja publică centrală a orașului Ialta din Crimeea.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160075,
+                        44.485128
+                  ]
+            },
+            {
+                  "name": "Приморский пляж",
+                  "text": "O plajă populară cu pietriș în centrul orașului Ialta.",
+                  "category": "recreational",
+                  "coords": [
+                        34.159468,
+                        44.484007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dom-muzey A. P. Chekhova",
+                  "text": "The former residence of writer Anton Chekhov in Yalta, where he wrote many of his famous works.",
+                  "category": "museum",
+                  "coords": [
+                        34.142383,
+                        44.491249
+                  ]
+            },
+            {
+                  "name": "Muzey Lesy Ukraynky",
+                  "text": "A museum in Yalta dedicated to the life and literary legacy of the famous Ukrainian poet Lesya Ukrainka.",
+                  "category": "museum",
+                  "coords": [
+                        34.161826,
+                        44.491999
+                  ]
+            },
+            {
+                  "name": "Earl Mordovinov Castle",
+                  "text": "An elegant early 20th-century palace in Yalta, formerly owned by Count Mordvinov.",
+                  "category": "castle",
+                  "coords": [
+                        34.172627,
+                        44.504062
+                  ]
+            },
+            {
+                  "name": "Dom-muzey N.Z. Byryukova",
+                  "text": "A memorial museum in Yalta dedicated to the life and work of the Soviet writer Nikolay Biryukov.",
+                  "category": "museum",
+                  "coords": [
+                        34.152535,
+                        44.490111
+                  ]
+            },
+            {
+                  "name": "Alexander Nevsky Cathedral",
+                  "text": "A prominent Orthodox cathedral in Yalta, built in the Neo-Russian architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        34.163869,
+                        44.495385
+                  ]
+            },
+            {
+                  "name": "Derekoy Dzhami (Dereköy Cami)",
+                  "text": "A historic mosque in Yalta, serving as an important spiritual center for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        34.168332,
+                        44.508904
+                  ]
+            },
+            {
+                  "name": "Tserkov Svyatoy Rypsyme",
+                  "text": "A beautiful Armenian church in Yalta, built in the early 20th century in traditional Armenian style.",
+                  "category": "landmark",
+                  "coords": [
+                        34.165325,
+                        44.50112
+                  ]
+            },
+            {
+                  "name": "Primorsky park",
+                  "text": "A large seaside park in Yalta offering scenic walking paths and views of the Black Sea.",
+                  "category": "park",
+                  "coords": [
+                        34.158117,
+                        44.484681
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal «Yubyleynyy»",
+                  "text": "A major open-air concert hall in Yalta that hosts festivals and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.163792,
+                        44.492877
+                  ]
+            },
+            {
+                  "name": "Ystoryko-lyteraturnyy muzey",
+                  "text": "A museum in Yalta showcasing the rich historical and literary heritage of the Crimean region.",
+                  "category": "museum",
+                  "coords": [
+                        34.161036,
+                        44.490173
+                  ]
+            },
+            {
+                  "name": "Dacha \"Omyur\"",
+                  "text": "A historic villa in Yalta that served as a residence for notable cultural figures, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        34.156894,
+                        44.493403
+                  ]
+            },
+            {
+                  "name": "Osobnyak knyahyny Baryatynskoy Uch-Cham",
+                  "text": "An elegant neoclassical mansion in Yalta, formerly owned by the noble Baryatinsky family.",
+                  "category": "castle",
+                  "coords": [
+                        34.176672,
+                        44.507211
+                  ]
+            },
+            {
+                  "name": "Muzey Treneva K.A. y Pavlenko P.A.",
+                  "text": "A museum of Trenev and Pavlenko in Yalta dedicated to the Soviet writers Konstantin Trenev and Pyotr Pavlenko.",
+                  "category": "museum",
+                  "coords": [
+                        34.164315,
+                        44.49966
+                  ]
+            },
+            {
+                  "name": "Obelysk v chest dekreta SNK ob yspolzovanyy Kryma dlya lechenyya trudyashchykhsya",
+                  "text": "A monument in Yalta commemorating the 1920 Soviet decree on the use of Crimea for medical treatment.",
+                  "category": "historical",
+                  "coords": [
+                        34.16057,
+                        44.48758
+                  ]
+            },
+            {
+                  "name": "Dom s syney bashney",
+                  "text": "The ruins of a distinctive historic building in Yalta, known for its once-striking blue tower.",
+                  "category": "historical",
+                  "coords": [
+                        34.15971,
+                        44.493367
+                  ]
+            },
+            {
+                  "name": "Memoryalnyy kompleks «Kholm Slavy»",
+                  "text": "A major memorial complex in Yalta dedicated to the heroes of the Great Patriotic War.",
+                  "category": "historical",
+                  "coords": [
+                        34.161372,
+                        44.500116
+                  ]
+            },
+            {
+                  "name": "Kontsertnyy zal \"Khrustalnyy\"",
+                  "text": "A modern performance venue in Yalta used for concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        34.191255,
+                        44.50301
+                  ]
+            },
+            {
+                  "name": "Letnyy kynoteatr",
+                  "text": "An open-air cinema in Yalta where visitors can enjoy movies during the warm summer evenings.",
+                  "category": "cultural",
+                  "coords": [
+                        34.190008,
+                        44.502033
+                  ]
+            },
+            {
+                  "name": "Orhannyy zal «Lyvadyya»",
+                  "text": "A concert hall in Yalta housed in a historic building, famous for its grand organ performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.143159,
+                        44.475487
+                  ]
+            },
+            {
+                  "name": "MyLife Photostudio",
+                  "text": "A creative space and photography studio in Yalta offering artistic services and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        34.160696,
+                        44.491963
+                  ]
+            },
+            {
+                  "name": "Karavella \"Bryhantyna\"",
+                  "text": "A unique seaside attraction in Yalta designed in the shape of a historic sailing vessel.",
+                  "category": "landmark",
+                  "coords": [
+                        34.162523,
+                        44.489204
+                  ]
+            },
+            {
+                  "name": "Vystavka tropycheskykh babochek",
+                  "text": "A vibrant exhibition in Yalta featuring a variety of live tropical butterflies.",
+                  "category": "landmark",
+                  "coords": [
+                        34.172626,
+                        44.495918
+                  ]
+            },
+            {
+                  "name": "Kolyzey",
+                  "text": "A recreational venue or landmark in Yalta inspired by the architectural style of classical colosseums.",
+                  "category": "landmark",
+                  "coords": [
+                        34.155294,
+                        44.489691
+                  ]
+            },
+            {
+                  "name": "Tys Lesy ukraynky",
+                  "text": "A historic yew tree in Yalta associated with the life of the poet Lesya Ukrainka.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187584,
+                        44.505832
+                  ]
+            },
+            {
+                  "name": "Yaltynskye zontyky",
+                  "text": "Iconic umbrella-shaped shelters located along the Yalta embankment, providing shade for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        34.163527,
+                        44.490373
+                  ]
+            },
+            {
+                  "name": "Eyfeleva bashnya",
+                  "text": "A decorative small-scale replica of the Eiffel Tower located in Yalta.",
+                  "category": "landmark",
+                  "coords": [
+                        34.178859,
+                        44.497565
+                  ]
+            },
+            {
+                  "name": "Dokhodnyy dom doktora Shyryaeva",
+                  "text": "A notable historic apartment building in Yalta, once owned by Doctor Shiryaev.",
+                  "category": "landmark",
+                  "coords": [
+                        34.164074,
+                        44.494436
+                  ]
+            },
+            {
+                  "name": "Dom arkhytektora",
+                  "text": "A historic building in Yalta known for its unique architectural design, formerly an architect's residence.",
+                  "category": "landmark",
+                  "coords": [
+                        34.177101,
+                        44.50926
+                  ]
+            },
+            {
+                  "name": "Zhyloy dom XIX veka",
+                  "text": "A historic 19th-century residential building contributing to the classic atmosphere of Yalta.",
+                  "category": "landmark",
+                  "coords": [
+                        34.16183,
+                        44.49302
+                  ]
+            },
+            {
+                  "name": "Dom knyazya Akhmed-Hyreya Dzhamharovycha Chynhyza",
+                  "text": "A distinguished historic mansion in Yalta that was the residence of Prince Akhmed-Girey Chingiz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.159324,
+                        44.491345
+                  ]
+            },
+            {
+                  "name": "Roses gallery",
+                  "text": "A beautiful floral gallery in Yalta showcasing a wide variety of roses.",
+                  "category": "landmark",
+                  "coords": [
+                        34.187191,
+                        44.503653
+                  ]
+            },
+            {
+                  "name": "Vkhod na turystycheskuyu tropu Yohraf",
+                  "text": "The starting point of the scenic Iograf hiking trail, leading into the mountains above Yalta.",
+                  "category": "landmark",
+                  "coords": [
+                        34.139862,
+                        44.508024
+                  ]
+            },
+            {
+                  "name": "Tsarskyy harazh",
+                  "text": "A historic early 20th-century building in Yalta built to house the motor vehicles of the Russian Imperial family.",
+                  "category": "landmark",
+                  "coords": [
+                        34.144191,
+                        44.478954
+                  ]
+            },
+            {
+                  "name": "Svaty 4",
+                  "text": "A filming location in Yalta used for the popular television series \"Svaty 4\".",
+                  "category": "landmark",
+                  "coords": [
+                        34.190641,
+                        44.508148
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "This rotunda in Yalta is a scenic viewpoint overlooking the Black Sea.",
+                  "category": "natural",
+                  "coords": [
+                        34.183348,
+                        44.499555
+                  ]
+            },
+            {
+                  "name": "Darsan",
+                  "text": "Darsan Hill offers a panoramic view over Yalta and is accessible by a cable car.",
+                  "category": "natural",
+                  "coords": [
+                        34.160813,
+                        44.498665
+                  ]
+            },
+            {
+                  "name": "Pure woman",
+                  "text": "A local viewpoint in Yalta offering a wide view over the coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        34.167448,
+                        44.49614
+                  ]
+            },
+            {
+                  "name": "Vyd na Yaltu",
+                  "text": "A viewpoint in Yalta known for its impressive view of the city center.",
+                  "category": "natural",
+                  "coords": [
+                        34.179723,
+                        44.499947
+                  ]
+            },
+            {
+                  "name": "Krokodylyaryum",
+                  "text": "This zoo houses a large collection of crocodiles and other reptiles.",
+                  "category": "family",
+                  "coords": [
+                        34.170859,
+                        44.49706
+                  ]
+            },
+            {
+                  "name": "Akvaryum Kubyk",
+                  "text": "An aquarium in Yalta showcasing various species of marine life in modern tanks.",
+                  "category": "family",
+                  "coords": [
+                        34.156917,
+                        44.490648
+                  ]
+            },
+            {
+                  "name": "Detskyy akvapark",
+                  "text": "A family-friendly water park in Yalta with slides and pools for children.",
+                  "category": "family",
+                  "coords": [
+                        34.191521,
+                        44.501769
+                  ]
+            },
+            {
+                  "name": "Horodskoy plyazh",
+                  "text": "The central city beach of Yalta is a popular spot for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        34.161794,
+                        44.488066
+                  ]
+            },
+            {
+                  "name": "Plyazh \"Opera Prima\"",
+                  "text": "A modern beach complex in Yalta with high-quality facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160687,
+                        44.486197
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "The central public beach of the city of Yalta in Crimea.",
+                  "category": "recreational",
+                  "coords": [
+                        34.160075,
+                        44.485128
+                  ]
+            },
+            {
+                  "name": "Приморский пляж",
+                  "text": "A popular pebble beach in the center of Yalta.",
+                  "category": "recreational",
+                  "coords": [
+                        34.159468,
+                        44.484007
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Jalta", hu: "Jalta", ro: "Ialta", en: "Yalta"},
@@ -4172,7 +8402,88 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-chornomorsk-cities-v2",
+    id: "ukraine-chornomorsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Нудистський пляж",
+                  "text": "Ein ausgewiesener FKK-Strandabschnitt in der ukrainischen Hafenstadt Tschornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643581,
+                        46.269121
+                  ]
+            },
+            {
+                  "name": "пляж Ювілейний",
+                  "text": "Der Jubiläumsstrand ist ein beliebter Ort für Einheimische in Tschornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.646454,
+                        46.27382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Нудистський пляж",
+                  "text": "Kijelölt naturista strandrész az ukrajnai Tschornomorszk kikötővárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643581,
+                        46.269121
+                  ]
+            },
+            {
+                  "name": "пляж Ювілейний",
+                  "text": "A Jubileumi strand a helyiek kedvelt kikapcsolódási helye Tschornomorszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        30.646454,
+                        46.27382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Нудистський пляж",
+                  "text": "O secțiune de plajă naturistă desemnată în orașul portuar ucrainean Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643581,
+                        46.269121
+                  ]
+            },
+            {
+                  "name": "пляж Ювілейний",
+                  "text": "Plaja Jubiliară este un loc popular pentru localnici în Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.646454,
+                        46.27382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nudist beach",
+                  "text": "A designated nudist beach section in the Ukrainian port city of Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.643581,
+                        46.269121
+                  ]
+            },
+            {
+                  "name": "пляж Ювілейний",
+                  "text": "Jubilee Beach is a popular spot for locals in Chornomorsk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.646454,
+                        46.27382
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Tschornomorsk", hu: "Csornomorszk", ro: "Ciornomorsk", en: "Chornomorsk"},

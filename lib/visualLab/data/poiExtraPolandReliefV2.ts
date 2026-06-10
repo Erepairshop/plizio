@@ -7874,6 +7874,15 @@ export const polandReliefV2: POI[] = [
                         19.940536,
                         49.828737
                   ]
+            },
+            {
+                  "name": "Basen Aquarius",
+                  "text": "Ein modernes öffentliches Schwimmbad in der Nähe des Berges Chełm.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936972,
+                        49.830416
+                  ]
             }
       ],
       "hu": [
@@ -7938,6 +7947,15 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         19.940536,
                         49.828737
+                  ]
+            },
+            {
+                  "name": "Basen Aquarius",
+                  "text": "Modern nyilvános úszómedence a Chełm-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936972,
+                        49.830416
                   ]
             }
       ],
@@ -8004,6 +8022,15 @@ export const polandReliefV2: POI[] = [
                         19.940536,
                         49.828737
                   ]
+            },
+            {
+                  "name": "Basen Aquarius",
+                  "text": "O piscină publică modernă situată în apropiere de vârful Chełm.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936972,
+                        49.830416
+                  ]
             }
       ],
       "en": [
@@ -8068,6 +8095,15 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         19.940536,
                         49.828737
+                  ]
+            },
+            {
+                  "name": "Basen Aquarius",
+                  "text": "A modern public swimming pool facility located near the Chełm Peak.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936972,
+                        49.830416
                   ]
             }
       ]
@@ -8180,6 +8216,24 @@ export const polandReliefV2: POI[] = [
                         16.832215,
                         50.719658
                   ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Basen kryty ist ein Hallenbad im Sudetenvorland.",
+                  "category": "recreational",
+                  "coords": [
+                        16.795114,
+                        50.738228
+                  ]
+            },
+            {
+                  "name": "Arboretum Wojslawice w Niemczy",
+                  "text": "Botanischer Garten, der für seine große Sammlung an Rhododendren bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        16.862415,
+                        50.711358
+                  ]
             }
       ],
       "hu": [
@@ -8244,6 +8298,24 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         16.832215,
                         50.719658
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "A Basen kryty egy fedett uszoda a Szudéta-előhegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.795114,
+                        50.738228
+                  ]
+            },
+            {
+                  "name": "Arboretum Wojslawice w Niemczy",
+                  "text": "Botanikus kert, amely hatalmas rododendron- és azáleagyűjteményéről híres.",
+                  "category": "park",
+                  "coords": [
+                        16.862415,
+                        50.711358
                   ]
             }
       ],
@@ -8310,6 +8382,24 @@ export const polandReliefV2: POI[] = [
                         16.832215,
                         50.719658
                   ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Basen kryty este o piscină interioară situată în Podișul Sudet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.795114,
+                        50.738228
+                  ]
+            },
+            {
+                  "name": "Arboretum Wojslawice w Niemczy",
+                  "text": "Grădină botanică renumită pentru colecția sa mare de rododendroni.",
+                  "category": "park",
+                  "coords": [
+                        16.862415,
+                        50.711358
+                  ]
             }
       ],
       "en": [
@@ -8374,6 +8464,24 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         16.832215,
                         50.719658
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Basen kryty is an indoor swimming pool located in the Sudetes Piedmont.",
+                  "category": "recreational",
+                  "coords": [
+                        16.795114,
+                        50.738228
+                  ]
+            },
+            {
+                  "name": "Arboretum Wojslawice w Niemczy",
+                  "text": "Botanical garden famous for its extensive collection of rhododendrons and azaleas.",
+                  "category": "park",
+                  "coords": [
+                        16.862415,
+                        50.711358
                   ]
             }
       ]
@@ -8828,6 +8936,15 @@ export const polandReliefV2: POI[] = [
                         15.287878,
                         52.341299
                   ]
+            },
+            {
+                  "name": "Przystań Wodna ZSMP",
+                  "text": "Przystań Wodna ZSMP ist ein Badebereich in der Lebuser Seenplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        15.287248,
+                        52.333799
+                  ]
             }
       ],
       "hu": [
@@ -8892,6 +9009,15 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         15.287878,
                         52.341299
+                  ]
+            },
+            {
+                  "name": "Przystań Wodna ZSMP",
+                  "text": "A Przystań Wodna ZSMP egy fürdőhely a Lubusi-tóhátságon.",
+                  "category": "recreational",
+                  "coords": [
+                        15.287248,
+                        52.333799
                   ]
             }
       ],
@@ -8958,6 +9084,15 @@ export const polandReliefV2: POI[] = [
                         15.287878,
                         52.341299
                   ]
+            },
+            {
+                  "name": "Przystań Wodna ZSMP",
+                  "text": "Przystań Wodna ZSMP este o zonă de scăldat situată în regiunea lacurilor Lubusz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.287248,
+                        52.333799
+                  ]
             }
       ],
       "en": [
@@ -9022,6 +9157,15 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         15.287878,
                         52.341299
+                  ]
+            },
+            {
+                  "name": "Przystań Wodna ZSMP",
+                  "text": "Przystań Wodna ZSMP is a swimming area located in the Lubusz Lake District.",
+                  "category": "recreational",
+                  "coords": [
+                        15.287248,
+                        52.333799
                   ]
             }
       ]

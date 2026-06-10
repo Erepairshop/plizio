@@ -490,6 +490,24 @@ export const estoniaEconomicV2: POI[] = [
                         25.021103,
                         59.485089
                   ]
+            },
+            {
+                  "name": "Maardu järve vabaõhuujula",
+                  "text": "Ein Freibad am Maardu-See, das zur Erholung im Freien einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        24.997524,
+                        59.450853
+                  ]
+            },
+            {
+                  "name": "Saviranna ujumiskoht",
+                  "text": "Ein lokaler Badeplatz in der Nähe von Maardu für eine Erfrischung im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        25.04881,
+                        59.50159
+                  ]
             }
       ],
       "hu": [
@@ -545,6 +563,24 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         25.021103,
                         59.485089
+                  ]
+            },
+            {
+                  "name": "Maardu järve vabaõhuujula",
+                  "text": "Szabadtéri úszóhely a Maardu-tónál, amely kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.997524,
+                        59.450853
+                  ]
+            },
+            {
+                  "name": "Saviranna ujumiskoht",
+                  "text": "Helyi fürdőhely Maardu közelében egy nyári felfrissüléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        25.04881,
+                        59.50159
                   ]
             }
       ],
@@ -602,6 +638,24 @@ export const estoniaEconomicV2: POI[] = [
                         25.021103,
                         59.485089
                   ]
+            },
+            {
+                  "name": "Maardu järve vabaõhuujula",
+                  "text": "O zonă de înot în aer liber la lacul Maardu, invitând la recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        24.997524,
+                        59.450853
+                  ]
+            },
+            {
+                  "name": "Saviranna ujumiskoht",
+                  "text": "Un loc local de scăldat lângă Maardu pentru o revigorare de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        25.04881,
+                        59.50159
+                  ]
             }
       ],
       "en": [
@@ -657,6 +711,24 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         25.021103,
                         59.485089
+                  ]
+            },
+            {
+                  "name": "Maardu järve vabaõhuujula",
+                  "text": "An outdoor swimming area at Lake Maardu, inviting for outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.997524,
+                        59.450853
+                  ]
+            },
+            {
+                  "name": "Saviranna ujumiskoht",
+                  "text": "A local swimming spot near Maardu for a summer refreshment.",
+                  "category": "recreational",
+                  "coords": [
+                        25.04881,
+                        59.50159
                   ]
             }
       ]
@@ -1003,6 +1075,15 @@ export const estoniaEconomicV2: POI[] = [
                         24.579657,
                         58.384859
                   ]
+            },
+            {
+                  "name": "Pärnu jõe väliujula ujumiskoht",
+                  "text": "Ein Freibad am Fluss Pärnu, das sommerliches Badevergnügen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.514607,
+                        58.390759
+                  ]
             }
       ],
       "hu": [
@@ -1031,6 +1112,15 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         24.579657,
                         58.384859
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe väliujula ujumiskoht",
+                  "text": "Szabadtéri fürdőhely a Pärnu-folyónál, amely nyári fürdőzést kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.514607,
+                        58.390759
                   ]
             }
       ],
@@ -1061,6 +1151,15 @@ export const estoniaEconomicV2: POI[] = [
                         24.579657,
                         58.384859
                   ]
+            },
+            {
+                  "name": "Pärnu jõe väliujula ujumiskoht",
+                  "text": "O zonă de scăldat în aer liber pe râul Pärnu, oferind distracție estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        24.514607,
+                        58.390759
+                  ]
             }
       ],
       "en": [
@@ -1089,6 +1188,15 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         24.579657,
                         58.384859
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe väliujula ujumiskoht",
+                  "text": "An outdoor swimming area on the Pärnu River offering summer bathing fun.",
+                  "category": "recreational",
+                  "coords": [
+                        24.514607,
+                        58.390759
                   ]
             }
       ]
@@ -2101,6 +2209,15 @@ export const estoniaEconomicV2: POI[] = [
                         24.908277,
                         59.504308
                   ]
+            },
+            {
+                  "name": "Randvere ujumiskoht",
+                  "text": "Ein Badeplatz in Randvere, der Möglichkeiten zur Abkühlung im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.920915,
+                        59.501359
+                  ]
             }
       ],
       "hu": [
@@ -2147,6 +2264,15 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         24.908277,
                         59.504308
+                  ]
+            },
+            {
+                  "name": "Randvere ujumiskoht",
+                  "text": "Fürdőhely Randverében, amely lehetőséget kínál a hűsölésre.",
+                  "category": "recreational",
+                  "coords": [
+                        24.920915,
+                        59.501359
                   ]
             }
       ],
@@ -2195,6 +2321,15 @@ export const estoniaEconomicV2: POI[] = [
                         24.908277,
                         59.504308
                   ]
+            },
+            {
+                  "name": "Randvere ujumiskoht",
+                  "text": "Un loc de scăldat în Randvere, care oferă posibilități de răcorire în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        24.920915,
+                        59.501359
+                  ]
             }
       ],
       "en": [
@@ -2241,6 +2376,15 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         24.908277,
                         59.504308
+                  ]
+            },
+            {
+                  "name": "Randvere ujumiskoht",
+                  "text": "A swimming spot in Randvere offering opportunities for a cool dip.",
+                  "category": "recreational",
+                  "coords": [
+                        24.920915,
+                        59.501359
                   ]
             }
       ]

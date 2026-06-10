@@ -436,6 +436,24 @@ export const polandLandmarksV2: POI[] = [
                         20.316798,
                         49.417138
                   ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "Eine Whirlpool-Anlage bei der Burg Niedzica.",
+                  "category": "recreational",
+                  "coords": [
+                        20.303001,
+                        49.444368
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "Ein Miniaturpark mit Marienheiligtümern in der Nähe der Burg Niedzica.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
+                  ]
             }
       ],
       "hu": [
@@ -509,6 +527,24 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         20.316798,
                         49.417138
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "Jacuzzi a Niedzica-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.303001,
+                        49.444368
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "Mária-kegyhelyeket bemutató miniatűrpark a Niedzica-várnál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
                   ]
             }
       ],
@@ -584,6 +620,24 @@ export const polandLandmarksV2: POI[] = [
                         20.316798,
                         49.417138
                   ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "O facilitate tip jacuzzi situată lângă Castelul Niedzica.",
+                  "category": "recreational",
+                  "coords": [
+                        20.303001,
+                        49.444368
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "Un parc de miniaturi reprezentând sanctuare mariane, lângă Castelul Niedzica.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
+                  ]
             }
       ],
       "en": [
@@ -657,6 +711,24 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         20.316798,
                         49.417138
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "A jacuzzi facility located near Niedzica Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        20.303001,
+                        49.444368
+                  ]
+            },
+            {
+                  "name": "Park Miniatur - Sanktuaria Maryjne",
+                  "text": "A miniature park featuring Marian sanctuaries, located near Niedzica Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        20.318632,
+                        49.418605
                   ]
             }
       ]
@@ -913,6 +985,24 @@ export const polandLandmarksV2: POI[] = [
                         19.547964,
                         50.455109
                   ]
+            },
+            {
+                  "name": "Kąpielisko na Krępie",
+                  "text": "Ein Schwimmbad in der Nähe der Burg Ogrodzieniec, das zur Erholung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509293,
+                        50.430643
+                  ]
+            },
+            {
+                  "name": "Park Kolejowy",
+                  "text": "Park mit Eisenbahnthemen in der Nähe der Burg Ogrodzieniec.",
+                  "category": "park",
+                  "coords": [
+                        19.494024,
+                        50.461048
+                  ]
             }
       ],
       "hu": [
@@ -986,6 +1076,24 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         19.547964,
                         50.455109
+                  ]
+            },
+            {
+                  "name": "Kąpielisko na Krępie",
+                  "text": "Egy úszómedence Ogrodzieniec vára közelében, amely kikapcsolódási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509293,
+                        50.430643
+                  ]
+            },
+            {
+                  "name": "Park Kolejowy",
+                  "text": "Vasúti tematikájú park az ogrodzienieci vár közelében.",
+                  "category": "park",
+                  "coords": [
+                        19.494024,
+                        50.461048
                   ]
             }
       ],
@@ -1061,6 +1169,24 @@ export const polandLandmarksV2: POI[] = [
                         19.547964,
                         50.455109
                   ]
+            },
+            {
+                  "name": "Kąpielisko na Krępie",
+                  "text": "O piscină situată lângă castelul Ogrodzieniec, oferind facilități de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509293,
+                        50.430643
+                  ]
+            },
+            {
+                  "name": "Park Kolejowy",
+                  "text": "Parc tematic feroviar lângă Castelul Ogrodzieniec.",
+                  "category": "park",
+                  "coords": [
+                        19.494024,
+                        50.461048
+                  ]
             }
       ],
       "en": [
@@ -1134,6 +1260,24 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         19.547964,
                         50.455109
+                  ]
+            },
+            {
+                  "name": "Kąpielisko na Krępie",
+                  "text": "A swimming pool located near Ogrodzieniec Castle, offering recreation for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509293,
+                        50.430643
+                  ]
+            },
+            {
+                  "name": "Park Kolejowy",
+                  "text": "Railway-themed park located near Ogrodzieniec Castle.",
+                  "category": "park",
+                  "coords": [
+                        19.494024,
+                        50.461048
                   ]
             }
       ]
@@ -1255,6 +1399,15 @@ export const polandLandmarksV2: POI[] = [
                         15.304976,
                         51.031666
                   ]
+            },
+            {
+                  "name": "LUKS Kwisa",
+                  "text": "Ein Schwimmbad in der Nähe der Burg Czocha.",
+                  "category": "recreational",
+                  "coords": [
+                        15.273208,
+                        51.019446
+                  ]
             }
       ],
       "hu": [
@@ -1328,6 +1481,15 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         15.304976,
                         51.031666
+                  ]
+            },
+            {
+                  "name": "LUKS Kwisa",
+                  "text": "Egy úszómedence a Czocha-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.273208,
+                        51.019446
                   ]
             }
       ],
@@ -1403,6 +1565,15 @@ export const polandLandmarksV2: POI[] = [
                         15.304976,
                         51.031666
                   ]
+            },
+            {
+                  "name": "LUKS Kwisa",
+                  "text": "O piscină situată în apropierea Castelului Czocha.",
+                  "category": "recreational",
+                  "coords": [
+                        15.273208,
+                        51.019446
+                  ]
             }
       ],
       "en": [
@@ -1476,6 +1647,15 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         15.304976,
                         51.031666
+                  ]
+            },
+            {
+                  "name": "LUKS Kwisa",
+                  "text": "A swimming pool located near Czocha Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        15.273208,
+                        51.019446
                   ]
             }
       ]
@@ -1931,6 +2111,15 @@ export const polandLandmarksV2: POI[] = [
                         17.094151,
                         52.240436
                   ]
+            },
+            {
+                  "name": "kąpielisko OSiR Kórnik",
+                  "text": "Ein Badeplatz beim Schloss Kórnik, der Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.078625,
+                        52.250647
+                  ]
             }
       ],
       "hu": [
@@ -1995,6 +2184,15 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         17.094151,
                         52.240436
+                  ]
+            },
+            {
+                  "name": "kąpielisko OSiR Kórnik",
+                  "text": "Fürdőhely a kórniki vár közelében, vízi kikapcsolódást kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        17.078625,
+                        52.250647
                   ]
             }
       ],
@@ -2061,6 +2259,15 @@ export const polandLandmarksV2: POI[] = [
                         17.094151,
                         52.240436
                   ]
+            },
+            {
+                  "name": "kąpielisko OSiR Kórnik",
+                  "text": "Un loc de scăldat lângă Castelul Kórnik, oferind recreere pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        17.078625,
+                        52.250647
+                  ]
             }
       ],
       "en": [
@@ -2125,6 +2332,15 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         17.094151,
                         52.240436
+                  ]
+            },
+            {
+                  "name": "kąpielisko OSiR Kórnik",
+                  "text": "A swimming area near Kórnik Castle, offering water-based recreation for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        17.078625,
+                        52.250647
                   ]
             }
       ]
@@ -2642,6 +2858,15 @@ export const polandLandmarksV2: POI[] = [
                         16.657614,
                         50.425658
                   ]
+            },
+            {
+                  "name": "Kryta pływalnia",
+                  "text": "Ein modernes Hallenbad in Kłodzko, das ganzjährig Sport- und Freizeitmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.645921,
+                        50.437286
+                  ]
             }
       ],
       "hu": [
@@ -2715,6 +2940,15 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         16.657614,
                         50.425658
+                  ]
+            },
+            {
+                  "name": "Kryta pływalnia",
+                  "text": "Modern fedett uszoda Kłodzkóban, amely egész évben sportolási és szabadidős lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.645921,
+                        50.437286
                   ]
             }
       ],
@@ -2790,6 +3024,15 @@ export const polandLandmarksV2: POI[] = [
                         16.657614,
                         50.425658
                   ]
+            },
+            {
+                  "name": "Kryta pływalnia",
+                  "text": "O piscină acoperită modernă în Kłodzko, oferind facilități sportive și de agrement tot anul.",
+                  "category": "recreational",
+                  "coords": [
+                        16.645921,
+                        50.437286
+                  ]
             }
       ],
       "en": [
@@ -2863,6 +3106,15 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         16.657614,
                         50.425658
+                  ]
+            },
+            {
+                  "name": "Kryta pływalnia",
+                  "text": "A modern indoor swimming pool in Kłodzko providing year-round sports and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.645921,
+                        50.437286
                   ]
             }
       ]
@@ -3174,7 +3426,268 @@ export const polandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "poland-baranow-sandomierski-castle-landmarks-v2",
+    id: "poland-baranow-sandomierski-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Teatru Polskiego Radia",
+                  "text": "Ein einzigartiges Museum im Schloss Baranów Sandomierski, das der Geschichte des Radio-Theaters gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.532581,
+                        50.500985
+                  ]
+            },
+            {
+                  "name": "Zamek w Baranowie Sandomierskim",
+                  "text": "Dieses prächtige Renaissanceschloss wird aufgrund seiner Architektur oft als „kleiner Wawel“ bezeichnet.",
+                  "category": "castle",
+                  "coords": [
+                        21.53562,
+                        50.501958
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein Freilichttheater für kulturelle Veranstaltungen auf dem Gelände des Schlosses.",
+                  "category": "cultural",
+                  "coords": [
+                        21.540405,
+                        50.501525
+                  ]
+            },
+            {
+                  "name": "Kopiec",
+                  "text": "Eine lokale Sehenswürdigkeit in Baranów Sandomierski, oft mit Gedenk- oder Aussichtscharakter.",
+                  "category": "landmark",
+                  "coords": [
+                        21.510593,
+                        50.482911
+                  ]
+            },
+            {
+                  "name": "MGOK",
+                  "text": "Das städtische Kulturzentrum von Baranów Sandomierski, ein Ort für regionale Kunst und Bildung.",
+                  "category": "cultural",
+                  "coords": [
+                        21.544659,
+                        50.49584
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "Ein Park- oder Erholungsgebiet in der Nähe des Schlosses, das zur Freizeitgestaltung einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.534632,
+                        50.492922
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "Die spätgotische Pfarrkirche von Baranów Sandomierski mit einer reichen Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        21.540487,
+                        50.498426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Teatru Polskiego Radia",
+                  "text": "Egyedülálló múzeum a baranów sandomierski-i kastélyban, amely a rádiószínház történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.532581,
+                        50.500985
+                  ]
+            },
+            {
+                  "name": "Zamek w Baranowie Sandomierskim",
+                  "text": "Ezt a pompás reneszánsz kastélyt építészete miatt gyakran „kis Wawel”-nek nevezik.",
+                  "category": "castle",
+                  "coords": [
+                        21.53562,
+                        50.501958
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Szabadtéri színház kulturális rendezvények számára a kastély területén.",
+                  "category": "cultural",
+                  "coords": [
+                        21.540405,
+                        50.501525
+                  ]
+            },
+            {
+                  "name": "Kopiec",
+                  "text": "Helyi látnivaló Baranów Sandomierskiben, gyakran emlék- vagy kilátóhely jellegű.",
+                  "category": "landmark",
+                  "coords": [
+                        21.510593,
+                        50.482911
+                  ]
+            },
+            {
+                  "name": "MGOK",
+                  "text": "Baranów Sandomierski városi kulturális központja, a helyi művészet és oktatás helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        21.544659,
+                        50.49584
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "A kastély közeli park- vagy pihenőhely, amely kikapcsolódásra hívogat.",
+                  "category": "landmark",
+                  "coords": [
+                        21.534632,
+                        50.492922
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "Baranów Sandomierski késő gótikus plébániatemploma, gazdag belső berendezéssel.",
+                  "category": "religious",
+                  "coords": [
+                        21.540487,
+                        50.498426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Teatru Polskiego Radia",
+                  "text": "Un muzeu unic în castelul din Baranów Sandomierski, dedicat istoriei teatrului radiofonic.",
+                  "category": "museum",
+                  "coords": [
+                        21.532581,
+                        50.500985
+                  ]
+            },
+            {
+                  "name": "Zamek w Baranowie Sandomierskim",
+                  "text": "Acest castel renascentist magnific este adesea numit „micul Wawel” datorită arhitecturii sale.",
+                  "category": "castle",
+                  "coords": [
+                        21.53562,
+                        50.501958
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un amfiteatru în aer liber pentru evenimente culturale, situat pe domeniul castelului.",
+                  "category": "cultural",
+                  "coords": [
+                        21.540405,
+                        50.501525
+                  ]
+            },
+            {
+                  "name": "Kopiec",
+                  "text": "O atracție locală în Baranów Sandomierski, având adesea caracter memorial sau de punct de observare.",
+                  "category": "landmark",
+                  "coords": [
+                        21.510593,
+                        50.482911
+                  ]
+            },
+            {
+                  "name": "MGOK",
+                  "text": "Centrul cultural municipal din Baranów Sandomierski, un loc pentru artă și educație regională.",
+                  "category": "cultural",
+                  "coords": [
+                        21.544659,
+                        50.49584
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "O zonă de parc sau recreere lângă castel, ideală pentru petrecerea timpului liber.",
+                  "category": "landmark",
+                  "coords": [
+                        21.534632,
+                        50.492922
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "Biserica parohială târziu-gotică din Baranów Sandomierski, cu un interior bogat decorat.",
+                  "category": "religious",
+                  "coords": [
+                        21.540487,
+                        50.498426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Teatru Polskiego Radia",
+                  "text": "A unique museum in the Baranów Sandomierski Castle dedicated to the history of radio theatre.",
+                  "category": "museum",
+                  "coords": [
+                        21.532581,
+                        50.500985
+                  ]
+            },
+            {
+                  "name": "Zamek w Baranowie Sandomierskim",
+                  "text": "This magnificent Renaissance castle is often referred to as the 'Little Wawel' due to its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        21.53562,
+                        50.501958
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "An open-air theatre for cultural events located on the castle grounds.",
+                  "category": "cultural",
+                  "coords": [
+                        21.540405,
+                        50.501525
+                  ]
+            },
+            {
+                  "name": "Kopiec",
+                  "text": "A local attraction in Baranów Sandomierski, often serving as a memorial or viewpoint.",
+                  "category": "landmark",
+                  "coords": [
+                        21.510593,
+                        50.482911
+                  ]
+            },
+            {
+                  "name": "MGOK",
+                  "text": "The municipal cultural centre of Baranów Sandomierski, a hub for regional arts and education.",
+                  "category": "cultural",
+                  "coords": [
+                        21.544659,
+                        50.49584
+                  ]
+            },
+            {
+                  "name": "Małpi gaj",
+                  "text": "A park or recreation area near the castle, inviting for leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        21.534632,
+                        50.492922
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "The late Gothic parish church of Baranów Sandomierski featuring rich interior decorations.",
+                  "category": "religious",
+                  "coords": [
+                        21.540487,
+                        50.498426
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle"},

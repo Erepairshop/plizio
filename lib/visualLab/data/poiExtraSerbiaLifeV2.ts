@@ -265,6 +265,24 @@ export const serbiaLifeV2: POI[] = [
                         19.756743,
                         46.101029
                   ]
+            },
+            {
+                  "name": "Akva park Palitsh",
+                  "text": "Ein Wasserpark in Palić, der Rutschen und verschiedene Becken für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766593,
+                        46.092311
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Palitsh",
+                  "text": "Ein traditionsreicher Zoo in Palić, der im Jahr 1950 gegründet wurde und zahlreiche Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749259,
+                        46.099543
+                  ]
             }
       ],
       "hu": [
@@ -275,6 +293,24 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.756743,
                         46.101029
+                  ]
+            },
+            {
+                  "name": "Akva park Palitsh",
+                  "text": "Vízi park Palicson, amely csúszdákkal és különböző medencékkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766593,
+                        46.092311
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Palitsh",
+                  "text": "Hagyományokban gazdag állatkert Palicson, amelyet 1950-ben alapítottak.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749259,
+                        46.099543
                   ]
             }
       ],
@@ -287,6 +323,24 @@ export const serbiaLifeV2: POI[] = [
                         19.756743,
                         46.101029
                   ]
+            },
+            {
+                  "name": "Akva park Palitsh",
+                  "text": "Un parc acvatic în Palić, care oferă tobogane și diverse bazine pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766593,
+                        46.092311
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Palitsh",
+                  "text": "O grădină zoologică cu tradiție în Palić, fondată în 1950, care adăpostește numeroase specii.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749259,
+                        46.099543
+                  ]
             }
       ],
       "en": [
@@ -297,6 +351,24 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.756743,
                         46.101029
+                  ]
+            },
+            {
+                  "name": "Akva park Palitsh",
+                  "text": "A water park in Palić, featuring slides and various pools for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766593,
+                        46.092311
+                  ]
+            },
+            {
+                  "name": "Zoo vrt Palitsh",
+                  "text": "A long-standing zoo in Palić, founded in 1950, home to a wide variety of animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749259,
+                        46.099543
                   ]
             }
       ]
@@ -463,6 +535,51 @@ export const serbiaLifeV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Dieses öffentliche Aquarium befindet sich beim Botanischen Garten Jevremovac in Belgrad und zeigt exotische Fischarten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Der Dino Park Kalemegdan in der Nähe des Botanischen Gartens bietet spannende Einblicke in die Welt der Urzeitriesen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Der Belgrader Zoo, nahe dem Botanischen Garten gelegen, ist eine der ältesten Kultureinrichtungen der serbischen Hauptstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
+            },
+            {
+                  "name": "Dechji bazen",
+                  "text": "Ein Kinderbecken in der Nähe des Botanischen Gartens Jevremovac in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.452345,
+                        44.830222
+                  ]
+            },
+            {
+                  "name": "Luna park",
+                  "text": "Ein kleiner Vergnügungspark in der Nähe des Botanischen Gartens Jevremovac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.454907,
+                        44.824533
+                  ]
             }
       ],
       "hu": [
@@ -536,6 +653,51 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ez a nyilvános akvárium a belgrádi Jevremovac Botanikus Kertnél található, és egzotikus halfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "A botanikus kert közelében található Kalemegdan Dino Park izgalmas betekintést nyújt az őskori óriások világába.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "A botanikus kert közelében fekvő Belgrádi Állatkert a szerb főváros egyik legrégebbi kulturális intézménye.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
+            },
+            {
+                  "name": "Dechji bazen",
+                  "text": "Gyermekmedence a belgrádi Jevremovac Botanikus Kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.452345,
+                        44.830222
+                  ]
+            },
+            {
+                  "name": "Luna park",
+                  "text": "Kisebb vidámpark a Jevremovac Botanikus Kert szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.454907,
+                        44.824533
                   ]
             }
       ],
@@ -611,6 +773,51 @@ export const serbiaLifeV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Acest acvariu public este situat lângă Grădina Botanică Jevremovac din Belgrad și prezintă specii exotice de pești.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Dino Park Kalemegdan, situat lângă grădina botanică, oferă perspective fascinante asupra lumii giganților preistorici.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Grădina Zoologică din Belgrad, situată aproape de grădina botanică, este una dintre cele mai vechi instituții culturale din capitala Serbiei.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
+            },
+            {
+                  "name": "Dechji bazen",
+                  "text": "O piscină pentru copii situată lângă Grădina Botanică Jevremovac din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.452345,
+                        44.830222
+                  ]
+            },
+            {
+                  "name": "Luna park",
+                  "text": "Un mic parc de distracții situat lângă Grădina Botanică Jevremovac.",
+                  "category": "recreational",
+                  "coords": [
+                        20.454907,
+                        44.824533
+                  ]
             }
       ],
       "en": [
@@ -684,6 +891,51 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "This public aquarium is located near the Jevremovac Botanical Garden in Belgrade and showcases exotic fish species.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "Dino Park Kalemegdan, located near the botanical garden, offers exciting insights into the world of prehistoric giants.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "The Belgrade Zoo, located near the botanical garden, is one of the oldest cultural institutions in the Serbian capital.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
+            },
+            {
+                  "name": "Dechji bazen",
+                  "text": "A children's swimming pool located near the Jevremovac Botanical Garden in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.452345,
+                        44.830222
+                  ]
+            },
+            {
+                  "name": "Luna park",
+                  "text": "A small amusement park located near the Jevremovac Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        20.454907,
+                        44.824533
                   ]
             }
       ]
@@ -1174,6 +1426,51 @@ export const serbiaLifeV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Der Aqua Termal Club ist eine Schwimmbadanlage auf der Großen Kriegsinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Dieses Aquarium zeigt eine Vielfalt an Fischen und Reptilien aus tropischen Regionen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Ein Themenpark mit lebensgroßen Dinosaurier-Modellen in der Nähe der Festung Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Ein beliebter Sandstrand an der Spitze der Großen Kriegsinsel in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrader Zoo",
+                  "text": "Einer der ältesten Zoos in Europa, der sich innerhalb der Festung Kalemegdan befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "hu": [
@@ -1247,6 +1544,51 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Az Aqua Termal Club egy úszómedence-létesítmény a Nagy Hadi-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ez az akvárium trópusi vidékekről származó halak és hüllők változatos kínálatát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Élethű dinoszaurusz-modelleket bemutató élménypark a Kalemegdan-erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "Népszerű homokos strand a belgrádi Nagy Hadi-sziget csúcsán.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Európa egyik legrégebbi állatkertje, amely a Kalemegdan-erőd területén található.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ],
@@ -1322,6 +1664,51 @@ export const serbiaLifeV2: POI[] = [
                         20.468044,
                         44.812585
                   ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Aqua Termal Club este o unitate de înot situată pe Insula Mare a Războiului.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Acest acvariu prezintă o varietate de pești și reptile din regiuni tropicale.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Дино парк Калемегдан – Јура авантура",
+                  "text": "Un parc tematic cu modele de dinozauri în mărime naturală lângă Cetatea Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Лидо",
+                  "text": "O plajă de nisip populară situată în vârful Insulei Marele Război din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Бео зоо врт",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Europa, situată în interiorul Cetății Kalemegdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
+                  ]
             }
       ],
       "en": [
@@ -1395,6 +1782,51 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         20.468044,
                         44.812585
+                  ]
+            },
+            {
+                  "name": "Aqua Termal Club",
+                  "text": "Aqua Termal Club is a swimming pool facility located on Great War Island.",
+                  "category": "recreational",
+                  "coords": [
+                        20.401016,
+                        44.812019
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "This aquarium displays a variety of fish and reptiles from tropical regions.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Dino Park Kalemegdan – Jura Avantura",
+                  "text": "A theme park featuring life-sized dinosaur models near the Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450851,
+                        44.822126
+                  ]
+            },
+            {
+                  "name": "Lido",
+                  "text": "A popular sandy beach located at the tip of the Great War Island in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.424264,
+                        44.840025
+                  ]
+            },
+            {
+                  "name": "Belgrade Zoo",
+                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.453527,
+                        44.825754
                   ]
             }
       ]
@@ -2164,6 +2596,15 @@ export const serbiaLifeV2: POI[] = [
                         20.488699,
                         44.800088
                   ]
+            },
+            {
+                  "name": "Olimp",
+                  "text": "Ein Schwimmbecken in Belgrad, das Freizeitmöglichkeiten in der Nähe der Rospi Ćuprija Feuchtgebiete bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.509775,
+                        44.793757
+                  ]
             }
       ],
       "hu": [
@@ -2237,6 +2678,15 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         20.488699,
                         44.800088
+                  ]
+            },
+            {
+                  "name": "Olimp",
+                  "text": "Uszoda Belgrádban, amely kikapcsolódási lehetőséget kínál a Rospi Ćuprija mocsárvidék közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.509775,
+                        44.793757
                   ]
             }
       ],
@@ -2312,6 +2762,15 @@ export const serbiaLifeV2: POI[] = [
                         20.488699,
                         44.800088
                   ]
+            },
+            {
+                  "name": "Olimp",
+                  "text": "O piscină în Belgrad, care oferă facilități de recreere lângă zonele umede Rospi Ćuprija.",
+                  "category": "recreational",
+                  "coords": [
+                        20.509775,
+                        44.793757
+                  ]
             }
       ],
       "en": [
@@ -2385,6 +2844,15 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         20.488699,
                         44.800088
+                  ]
+            },
+            {
+                  "name": "Olimp",
+                  "text": "A swimming pool in Belgrade offering recreational facilities near the Rospi Ćuprija wetlands.",
+                  "category": "recreational",
+                  "coords": [
+                        20.509775,
+                        44.793757
                   ]
             }
       ]
@@ -3613,6 +4081,24 @@ export const serbiaLifeV2: POI[] = [
                         21.19389,
                         42.653943
                   ]
+            },
+            {
+                  "name": "Bärenwald Pristina",
+                  "text": "Ein Schutzzentrum im Grmija-Wald, das geretteten Braunbären ein naturnahes Zuhause bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.259151,
+                        42.638289
+                  ]
+            },
+            {
+                  "name": "Gërmia Schwimmbecken",
+                  "text": "Ein großes öffentliches Freibad im Grmija-Park bei Pristina.",
+                  "category": "recreational",
+                  "coords": [
+                        21.201189,
+                        42.673691
+                  ]
             }
       ],
       "hu": [
@@ -3686,6 +4172,24 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         21.19389,
                         42.653943
+                  ]
+            },
+            {
+                  "name": "Pylli i Arinjve Prishtina",
+                  "text": "A Grmija-erdőben található menhely, amely mentett barna medvéknek nyújt biztonságos otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.259151,
+                        42.638289
+                  ]
+            },
+            {
+                  "name": "Pishina e Gërmisë",
+                  "text": "Egy nagy nyilvános szabadtéri úszómedence a Pristina melletti Grmija-parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.201189,
+                        42.673691
                   ]
             }
       ],
@@ -3761,6 +4265,24 @@ export const serbiaLifeV2: POI[] = [
                         21.19389,
                         42.653943
                   ]
+            },
+            {
+                  "name": "Pylli i Arinjve Prishtina",
+                  "text": "Un sanctuar în pădurea Grmija care oferă un cămin natural urșilor bruni salvați.",
+                  "category": "recreational",
+                  "coords": [
+                        21.259151,
+                        42.638289
+                  ]
+            },
+            {
+                  "name": "Pishina e Gërmisë",
+                  "text": "O piscină publică în aer liber de mari dimensiuni, situată în parcul Grmija.",
+                  "category": "recreational",
+                  "coords": [
+                        21.201189,
+                        42.673691
+                  ]
             }
       ],
       "en": [
@@ -3834,6 +4356,24 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         21.19389,
                         42.653943
+                  ]
+            },
+            {
+                  "name": "Bear Sanctuary Prishtina",
+                  "text": "A sanctuary in the Grmija Forest providing a natural home for rescued brown bears.",
+                  "category": "recreational",
+                  "coords": [
+                        21.259151,
+                        42.638289
+                  ]
+            },
+            {
+                  "name": "Gërmia Swiming Pool",
+                  "text": "A large public outdoor swimming pool located within Grmija Park.",
+                  "category": "recreational",
+                  "coords": [
+                        21.201189,
+                        42.673691
                   ]
             }
       ]

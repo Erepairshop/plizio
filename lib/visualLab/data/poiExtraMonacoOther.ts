@@ -51,7 +51,124 @@ export const poiExtraMonacoOther: POI[] = [
       fr: ["Le parc s'étend sur une surface de 7 hectares.", "La serre \"Diamant vert\" est l'une des plus grandes d'Europe.", "Abrite plus de 2 500 espèces animales différentes.", "Propose des zones thématiques spéciales comme le jardin tropical.", "Un centre d'éducation à l'environnement et de protection des espèces.", "Événements réguliers autour de la nature.", "Compte parmi les parcs les plus visités de la région."],
     }, image: "/poi-images/mc-animal-habitat-parc-phoenix-extra.webp"},
   {
-    id: "mc-animal-habitat-marineland-antibes-extra",
+    id: "mc-animal-habitat-marineland-antibes-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plage publique de la Fighière",
+                  "text": "Ein öffentlicher Strand in Antibes, der einen Blick auf das Mittelmeer und einfache Ausstattung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.140236,
+                        43.636692
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Batterie",
+                  "text": "Ein zugänglicher öffentlicher Strandabschnitt an der Küste von Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136183,
+                        43.631245
+                  ]
+            },
+            {
+                  "name": "Plage publique de Marina",
+                  "text": "Ein Strand in Antibes, der in der Nähe des Marina-Viertels liegt und zum Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.137475,
+                        43.632629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage publique de la Fighière",
+                  "text": "Nyilvános strand Antibes-ban, kilátással a Földközi-tengerre és alapvető szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.140236,
+                        43.636692
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Batterie",
+                  "text": "Szabadon hozzáférhető nyilvános tengerparti szakasz Antibes partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136183,
+                        43.631245
+                  ]
+            },
+            {
+                  "name": "Plage publique de Marina",
+                  "text": "Antibes egyik strandja a Marina negyed közelében, amely fürdőzésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.137475,
+                        43.632629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage publique de la Fighière",
+                  "text": "O plajă publică din Antibes, care oferă vedere la Marea Mediterană și facilități de bază.",
+                  "category": "recreational",
+                  "coords": [
+                        7.140236,
+                        43.636692
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Batterie",
+                  "text": "O secțiune de plajă publică accesibilă pe coasta din Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136183,
+                        43.631245
+                  ]
+            },
+            {
+                  "name": "Plage publique de Marina",
+                  "text": "O plajă din Antibes situată lângă zona Marina, potrivită pentru scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.137475,
+                        43.632629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage publique de la Fighière",
+                  "text": "A public beach in Antibes offering views of the Mediterranean and basic facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.140236,
+                        43.636692
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Batterie",
+                  "text": "An accessible public beach section on the coast of Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136183,
+                        43.631245
+                  ]
+            },
+            {
+                  "name": "Plage publique de Marina",
+                  "text": "A beach in Antibes located near the Marina area, suitable for bathing.",
+                  "category": "recreational",
+                  "coords": [
+                        7.137475,
+                        43.632629
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MC",
     coords: [7.1265, 43.616],
@@ -1071,7 +1188,88 @@ export const poiExtraMonacoOther: POI[] = [
       fr: ["Plus petite et l'une des plus anciennes zones AOC de France.", "Terroir unique dans les collines au-dessus de Nice.", "Spécialisation dans des cépages rares comme la \"Folle Noire\".", "Des domaines comme le \"Château de Crémant\" sont historiquement importants.", "Allie la proximité de la mer au climat alpin.", "Vin exclusif de haute qualité.", "Patrimoine culturel majeur de la région."],
     }, image: "/poi-images/mc-agriculture-vignoble-de-bellet-extra.webp"},
   {
-    id: "mc-agriculture-marche-aux-fleurs-nice-extra",
+    id: "mc-agriculture-marche-aux-fleurs-nice-extra", "sights": {
+      "de": [
+            {
+                  "name": "Opera Plage",
+                  "text": "Opera Plage ist ein bekannter Privatstrand am Blumenmarkt in Nizza.",
+                  "category": "recreational",
+                  "coords": [
+                        7.272178,
+                        43.694695
+                  ]
+            },
+            {
+                  "name": "Plage Castel",
+                  "text": "Plage Castel ist ein strandabschnitt in der Nähe des Blumenmarktes in Nizza.",
+                  "category": "recreational",
+                  "coords": [
+                        7.276273,
+                        43.694588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Opera Plage",
+                  "text": "Az Opera Plage egy strand a nizzai virágpiac közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.272178,
+                        43.694695
+                  ]
+            },
+            {
+                  "name": "Plage Castel",
+                  "text": "A Plage Castel egy strand a nizzai virágpiac közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.276273,
+                        43.694588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Opera Plage",
+                  "text": "Opera Plage este o plajă situată în zona pieței de flori din Nisa.",
+                  "category": "recreational",
+                  "coords": [
+                        7.272178,
+                        43.694695
+                  ]
+            },
+            {
+                  "name": "Plage Castel",
+                  "text": "Plage Castel este o plajă situată lângă piața de flori din Nisa.",
+                  "category": "recreational",
+                  "coords": [
+                        7.276273,
+                        43.694588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Opera Plage",
+                  "text": "Opera Plage is a beach located near the Flower Market in Nice.",
+                  "category": "recreational",
+                  "coords": [
+                        7.272178,
+                        43.694695
+                  ]
+            },
+            {
+                  "name": "Plage Castel",
+                  "text": "Plage Castel is a beach located near the Flower Market in Nice.",
+                  "category": "recreational",
+                  "coords": [
+                        7.276273,
+                        43.694588
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MC",
     coords: [7.272, 43.695],

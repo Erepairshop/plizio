@@ -265,6 +265,24 @@ export const northmacedoniaReliefV2: POI[] = [
                         21.219523,
                         41.010206
                   ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "Der Dihovo-Flusspool ist ein Schwimmbecken am Pelister-Gipfel.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "Basen Dihovo ist ein Schwimmbecken am Pelister-Gipfel.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
+                  ]
             }
       ],
       "hu": [
@@ -320,6 +338,24 @@ export const northmacedoniaReliefV2: POI[] = [
                   "coords": [
                         21.219523,
                         41.010206
+                  ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "A Dihovo folyómenti medence egy úszóhely a Pelister-csúcsnál.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "A Basen Dihovo egy úszómedence a Pelister-csúcsnál.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
                   ]
             }
       ],
@@ -377,6 +413,24 @@ export const northmacedoniaReliefV2: POI[] = [
                         21.219523,
                         41.010206
                   ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "Piscina fluvială Dihovo este o piscină situată lângă vârful Pelister.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "Basen Dihovo este o piscină situată lângă vârful Pelister.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
+                  ]
             }
       ],
       "en": [
@@ -432,6 +486,24 @@ export const northmacedoniaReliefV2: POI[] = [
                   "coords": [
                         21.219523,
                         41.010206
+                  ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "Dihovo river pool is a swimming area located near Pelister Peak.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "Basen Dihovo is a swimming pool located near Pelister Peak.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
                   ]
             }
       ]
@@ -1218,7 +1290,88 @@ export const northmacedoniaReliefV2: POI[] = [
     image: "/poi-images/northmacedonia-kozjak-mountain-relief-v2.webp",
   },
   {
-    id: "northmacedonia-pcinja-valley-relief-v2",
+    id: "northmacedonia-pcinja-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Ein Schwimmbad im Pcinja-Tal für Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Das öffentliche städtische Schwimmbad in der Region Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Úszómedence a Pcinja-völgyben kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "A kumanovói régió nyilvános városi úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazen FZTs",
+                  "text": "O piscină în Valea Pcinja pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Piscina municipală publică din regiunea Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazen FZTs",
+                  "text": "A swimming pool in the Pcinja Valley for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "The public municipal swimming pool in the Kumanovo region.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "MK",
     name: { de: "Pčinja-Tal", hu: "Pčinja-völgy", ro: "Valea Pčinja", en: "Pcinja Valley" },
@@ -2803,6 +2956,24 @@ export const northmacedoniaReliefV2: POI[] = [
                         21.219523,
                         41.010206
                   ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "Ein Schwimmbereich am Fluss Dihovo in der Nähe des Baba-Gipfels.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "Eine Schwimmstätte im Gebiet Dihovo in der Nähe des Baba-Gipfels.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
+                  ]
             }
       ],
       "hu": [
@@ -2858,6 +3029,24 @@ export const northmacedoniaReliefV2: POI[] = [
                   "coords": [
                         21.219523,
                         41.010206
+                  ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "A Baba-csúcs közelében, a Dihovo-folyó mellett található úszóhely.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "A Baba-csúcs közelében, Dihovo területén található úszólétesítmény.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
                   ]
             }
       ],
@@ -2915,6 +3104,24 @@ export const northmacedoniaReliefV2: POI[] = [
                         21.219523,
                         41.010206
                   ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "O zonă cu piscină situată lângă Vârful Baba, lângă râul Dihovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "O facilitate de înot situată în zona Dihovo, lângă Vârful Baba.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
+                  ]
             }
       ],
       "en": [
@@ -2970,6 +3177,24 @@ export const northmacedoniaReliefV2: POI[] = [
                   "coords": [
                         21.219523,
                         41.010206
+                  ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "A swimming pool area located near Baba Peak by the Dihovo river.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "A swimming facility situated in the Dihovo area near Baba Peak.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
                   ]
             }
       ]

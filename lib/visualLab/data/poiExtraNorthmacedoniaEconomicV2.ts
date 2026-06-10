@@ -76,6 +76,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Eine große Schwimmeinrichtung mit olympischen Maßen in der Industriezone von Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "hu": [
@@ -149,6 +158,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Nagyméretű, olimpiai méretű úszólétesítmény Bitola ipari negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ],
@@ -224,6 +242,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "O unitate mare de înot de dimensiuni olimpice situată în zona industrială din Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "en": [
@@ -297,6 +324,15 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "A large Olympic-sized swimming facility located in the Bitola Industrial Zone.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ]
@@ -598,6 +634,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Ein Dinosaurier-Themenpark in Skopje mit lebensgroßen Modellen prähistorischer Kreaturen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Ein olympisches Schwimmbecken im Zentrum von Skopje für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Ein Wasserpark in Skopje mit verschiedenen Rutschen und Unterhaltungsmöglichkeiten für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Eine Schwimmbadanlage in der Nähe des Technologieparks Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "hu": [
@@ -671,6 +743,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Dinoszaurusz-tematikus park Szkopjéban, élethű őskori állatmodellekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olimpiai méretű úszómedence Szkopje központjában, sportolásra és kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Aquapark Szkopjéban különféle csúszdákkal és szórakozási lehetőségekkel a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Úszómedence-létesítmény a szkopjei technológiai park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ],
@@ -746,6 +854,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Un parc tematic cu dinozauri în Skopje, oferind replici în mărime naturală ale creaturilor preistorice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "O piscină olimpică situată în centrul orașului Skopje, destinată sportului și recreerii.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Un parc acvatic în Skopje, dotat cu diverse tobogane și facilități de divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "O piscină situată lângă Parcul Tehnologic Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "en": [
@@ -819,6 +963,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "A dinosaur-themed park in Skopje featuring life-sized models of prehistoric creatures.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "An Olympic-sized swimming pool in the center of Skopje used for sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A water park in Skopje offering various slides and entertainment facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "A swimming pool facility located near the Skopje Technology Park.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ]
@@ -2128,6 +2308,24 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.714727,
                         42.137461
                   ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Ein Schwimmbad im Industriegebiet von Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Das öffentliche Schwimmbad der Stadt Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
             }
       ],
       "hu": [
@@ -2147,6 +2345,24 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.714727,
                         42.137461
+                  ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Úszómedence Kumanovo ipari területén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Kumanovo városi nyilvános úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
                   ]
             }
       ],
@@ -2168,6 +2384,24 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.714727,
                         42.137461
                   ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "O piscină situată în zona industrială din Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Piscina publică a orașului situată în Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
             }
       ],
       "en": [
@@ -2187,6 +2421,24 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.714727,
                         42.137461
+                  ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "A swimming pool located in the industrial area of Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "The city's public swimming pool located in Kumanovo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
                   ]
             }
       ]
@@ -2510,6 +2762,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.429044,
                         41.990916
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Der Dinosaur Park Skopje ist ein Themenpark im Industriegebiet Gazi Baba.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olympic swimming pool - Centar ist ein Schwimmbad im Industriegebiet Gazi Baba.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "Der Zoo von Skopje beherbergt eine Vielzahl von Tierarten in der Nähe der Gazi Baba Zone.",
+                  "category": "park",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Bazen Aerodrom",
+                  "text": "Ein lokales Schwimmbad in Skopje, das Möglichkeiten zum Schwimmen und Entspannen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458799,
+                        41.983143
+                  ]
             }
       ],
       "hu": [
@@ -2574,6 +2862,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.429044,
                         41.990916
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "A Dinosaur Park Skopje egy tematikus park a Gazi Baba ipari övezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Az Olympic swimming pool - Centar egy uszoda a Gazi Baba ipari övezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "A szkopjei állatkert számos állatfajnak ad otthont a Gazi Baba övezet közelében.",
+                  "category": "park",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Bazen Aerodrom",
+                  "text": "Helyi úszómedence Szkopjéban, amely úszási és pihenési lehetőséget nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458799,
+                        41.983143
                   ]
             }
       ],
@@ -2640,6 +2964,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                         21.429044,
                         41.990916
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Dinosaur Park Skopje este un parc tematic situat în zona industrială Gazi Baba.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olympic swimming pool - Centar este o piscină situată în zona industrială Gazi Baba.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "Grădina Zoologică din Skopje găzduiește o varietate de specii de animale lângă zona Gazi Baba.",
+                  "category": "park",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Bazen Aerodrom",
+                  "text": "O piscină locală din Skopje, oferind facilități pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458799,
+                        41.983143
+                  ]
             }
       ],
       "en": [
@@ -2704,6 +3064,42 @@ export const northmacedoniaEconomicV2: POI[] = [
                   "coords": [
                         21.429044,
                         41.990916
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "Dinosaur Park Skopje is a theme park located in the Gazi Baba Industrial Zone.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "Olympic swimming pool - Centar is a swimming pool located in the Gazi Baba Industrial Zone.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The Skopje Zoo houses a variety of animal species near the Gazi Baba zone.",
+                  "category": "park",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Bazen Aerodrom",
+                  "text": "A local swimming pool in Skopje offering swimming and relaxation facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458799,
+                        41.983143
                   ]
             }
       ]

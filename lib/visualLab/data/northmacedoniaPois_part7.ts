@@ -1186,6 +1186,42 @@ export const mkPoisPart7: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Der Dinosaur Park Skopje ist ein Themenpark bei der Festung Kale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olympic swimming pool - Centar ist ein Schwimmbad bei der Festung Kale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Aquapark ist ein Wasserpark bei der Festung Kale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Ein Sportbad in Skopje, das sich unweit der historischen Festung Kale befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "hu": [
@@ -1259,6 +1295,42 @@ export const mkPoisPart7: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "A Dinosaur Park Skopje egy tematikus park a Kale erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Az Olympic swimming pool - Centar egy uszoda a Kale erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Az Aquapark egy vízi park a Kale erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Sportuszoda Szkopjéban, nem messze a történelmi Kale erődtől.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ],
@@ -1334,6 +1406,42 @@ export const mkPoisPart7: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Dinosaur Park Skopje este un parc tematic situat lângă Cetatea Kale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olympic swimming pool - Centar este o piscină situată lângă Cetatea Kale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Aquapark este un parc acvatic situat lângă Cetatea Kale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "O piscină sportivă din Skopje, situată nu departe de fortăreața istorică Kale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "en": [
@@ -1407,6 +1515,42 @@ export const mkPoisPart7: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "Dinosaur Park Skopje is a theme park located near the Kale Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "Olympic swimming pool - Centar is a swimming pool located near the Kale Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Aquapark is a water park located near the Kale Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "A sports pool in Skopje, located not far from the historic Kale Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ]
@@ -1527,6 +1671,33 @@ export const mkPoisPart7: POI[] = [
                         21.422056,
                         41.984711
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Ein familienfreundlicher Themenpark in Skopje mit lebensgroßen Dinosaurier-Modellen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Ein bedeutender Hallensportkomplex in Skopje mit einem olympischen Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Ein Schwimmbad im Stadtteil Karposh, das für Sport genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "hu": [
@@ -1600,6 +1771,33 @@ export const mkPoisPart7: POI[] = [
                   "coords": [
                         21.422056,
                         41.984711
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Családbarát tematikus park Szkopjéban, élethű dinoszaurusz-modellekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Szkopje jelentős fedett sportkomplexuma, olimpiai méretű úszómedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Sportolásra használt úszómedence Karpos negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ],
@@ -1675,6 +1873,33 @@ export const mkPoisPart7: POI[] = [
                         21.422056,
                         41.984711
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Un parc tematic pentru familii din Skopje, cu modele de dinozauri în mărime naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Un important complex sportiv acoperit din Skopje, cu o piscină olimpică.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "O piscină în cartierul Karpos utilizată pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "en": [
@@ -1748,6 +1973,33 @@ export const mkPoisPart7: POI[] = [
                   "coords": [
                         21.422056,
                         41.984711
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "A family-friendly theme park in Skopje with life-sized dinosaur models.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "A major indoor sports complex in Skopje featuring an Olympic-sized swimming pool.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "A swimming pool in the Karpos neighborhood used for sports.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ]

@@ -148,6 +148,15 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                         29.121413,
                         37.933459
                   ]
+            },
+            {
+                  "name": "Kleopatra Yüzme Havuzları",
+                  "text": "Antike Thermalbecken in Pamukkale, die für ihr mineralreiches Thermalwasser bekannt sind.",
+                  "category": "recreational",
+                  "coords": [
+                        29.110541,
+                        37.921956
+                  ]
             }
       ],
       "hu": [
@@ -185,6 +194,15 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   "coords": [
                         29.121413,
                         37.933459
+                  ]
+            },
+            {
+                  "name": "Kleopatra Yüzme Havuzları",
+                  "text": "Ősi termálmedencék Pamukkaléban, amelyek ásványi anyagokban gazdag vizükről ismertek.",
+                  "category": "recreational",
+                  "coords": [
+                        29.110541,
+                        37.921956
                   ]
             }
       ],
@@ -224,6 +242,15 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                         29.121413,
                         37.933459
                   ]
+            },
+            {
+                  "name": "Kleopatra Yüzme Havuzları",
+                  "text": "Piscine termale antice în Pamukkale, cunoscute pentru apa lor bogată în minerale.",
+                  "category": "recreational",
+                  "coords": [
+                        29.110541,
+                        37.921956
+                  ]
             }
       ],
       "en": [
@@ -261,6 +288,15 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   "coords": [
                         29.121413,
                         37.933459
+                  ]
+            },
+            {
+                  "name": "Kleopatra Yüzme Havuzları",
+                  "text": "Ancient thermal pools in Pamukkale, known for their mineral-rich waters.",
+                  "category": "recreational",
+                  "coords": [
+                        29.110541,
+                        37.921956
                   ]
             }
       ]
@@ -1344,7 +1380,520 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bodrum-castle-landmarks-v2", "sights": {"de": [{"name": "Almera Beach", "text": "In der Nähe der ikonischen Umgebung von Bodrum Castle gelegen, bringt der Almera Beach Küstencharme in die historische Landschaft der Türkei. Die Gegend lebt von einer lebhaften, touristischen Energie, perfekt für diejenigen, die sich sonnen und mit Blick auf alte Wahrzeichen schwimmen möchten. Wer im Sommer früh ankommt, kann sich einen erstklassigen Platz sichern, bevor die lebhaften Menschenmassen eintreffen.", "category": "recreational", "coords": [27.37767, 37.027932]}, {"name": "WOW Beach", "text": "Der WOW Beach bringt einen Hauch von Modernität in die Nähe von Bodrum Castle und ist ein energiegeladenes Wassersportziel in der Türkei. Besucher strömen wegen der äußerst geselligen Atmosphäre hierher, die von Sonnenbaden, erfrischendem Schwimmen und lebendiger Küstenunterhaltung geprägt ist. Wer sich auf einen lebhaften Nachmittag einstellt, wird den dynamischen Geist dieses resortähnlichen Küstenstreifens voll und ganz genießen.", "category": "recreational", "coords": [27.395459, 37.028141]}, {"name": "Bodrum Halk Plajı", "text": "Bodrum Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.", "category": "recreational", "coords": [27.435683, 37.032294]}, {"name": "Kumbahçe Halk Plajı", "text": "Kumbahçe Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.", "category": "recreational", "coords": [27.439865, 37.029269]}, {"name": "Kumbahçe Plajı", "text": "Kumbahçe Plajı ist ein Strand in Castle Landmarks.", "category": "recreational", "coords": [27.440175, 37.027052]}], "hu": [{"name": "Almera Beach", "text": "A Bodrumi vár ikonikus környezete közelében fekvő Almera Beach tengerparti bájt visz Törökország történelmi tájába. A terület egy nyüzsgő, turisztikai energiából él, tökéletes azok számára, akik napozni és úszni szeretnének, miközben ősi nevezetességekre tekintenek. A nyár eleji korai érkezés lehetővé teszi, hogy lefoglaljon egy kiváló helyet, mielőtt megérkezik a vibráló tömeg.", "category": "recreational", "coords": [27.37767, 37.027932]}, {"name": "WOW Beach", "text": "A Bodrumi vár közelében egy csipetnyi modernséget nyújtó WOW Beach egy energikus vízparti úti cél Törökországban. A látogatók a rendkívül társaságkedvelő légkör miatt özönlenek ide, amelyet a napozás, a frissítő úszások és az élénk tengerparti szórakozás vezérel. Egy nyüzsgő délutánra való felkészülés biztosítja, hogy alaposan élvezze ennek az üdülőhelyi stílusú partvonalnak a dinamikus szellemét.", "category": "recreational", "coords": [27.395459, 37.028141]}, {"name": "Bodrum Halk Plajı", "text": "A Bodrum Halk Plajı egy nyilvános strand Castle Landmarks területén.", "category": "recreational", "coords": [27.435683, 37.032294]}, {"name": "Kumbahçe Halk Plajı", "text": "A Kumbahçe Halk Plajı egy nyilvános strand Castle Landmarks területén.", "category": "recreational", "coords": [27.439865, 37.029269]}, {"name": "Kumbahçe Plajı", "text": "A Kumbahçe Plajı egy tengerpart Castle Landmarks területén.", "category": "recreational", "coords": [27.440175, 37.027052]}], "ro": [{"name": "Almera Beach", "text": "Poziționată în apropierea împrejurimilor emblematice ale Castelului Bodrum, Almera Beach injectează farmecul de coastă în peisajul istoric al Turciei. Zona prosperă dintr-o energie turistică plină de viață, perfectă pentru cei care doresc să facă plajă și să înoate cu vedere la repere antice. Ajungând devreme vara vă permite să revendicați un loc excelent înainte de a se aduna mulțimile vibrante.", "category": "recreational", "coords": [27.37767, 37.027932]}, {"name": "WOW Beach", "text": "Adăugând o pată de modernitate lângă Castelul Bodrum, WOW Beach este o destinație energică pe malul apei din Turcia. Vizitatorii se adună aici pentru o atmosferă extrem de sociabilă, condusă de plajă, înot răcoritor și divertisment vibrant pe coastă. Pregătirea pentru o după-amiază plină de viață vă asigură că vă veți bucura din plin de spiritul dinamic al acestui țărm în stil stațiune.", "category": "recreational", "coords": [27.395459, 37.028141]}, {"name": "Bodrum Halk Plajı", "text": "Bodrum Halk Plajı este o plajă publică situată în Castle Landmarks.", "category": "recreational", "coords": [27.435683, 37.032294]}, {"name": "Kumbahçe Halk Plajı", "text": "Kumbahçe Halk Plajı este o plajă publică situată în Castle Landmarks.", "category": "recreational", "coords": [27.439865, 37.029269]}, {"name": "Kumbahçe Plajı", "text": "Kumbahçe Plajı este o plajă situată în Castle Landmarks.", "category": "recreational", "coords": [27.440175, 37.027052]}], "en": [{"name": "Almera Beach", "text": "Positioned near the iconic surroundings of Bodrum Castle, Almera Beach injects coastal charm into Turkey's historical landscape. The area thrives on a lively, touristic energy, perfect for those wanting to sunbathe and swim with a view of ancient landmarks. Arriving early in the summer allows you to claim a prime spot before the vibrant crowds roll in.", "category": "recreational", "coords": [27.37767, 37.027932]}, {"name": "WOW Beach", "text": "Adding a splash of modernity near Bodrum Castle, WOW Beach is an energetic waterside destination in Turkey. Visitors flock here for a highly sociable atmosphere, driven by sunbathing, refreshing swims, and vibrant coastal entertainment. Preparing for a lively afternoon out ensures you will thoroughly enjoy the dynamic spirit of this resort-style shoreline.", "category": "recreational", "coords": [27.395459, 37.028141]}, {"name": "Bodrum Halk Plajı", "text": "Bodrum Halk Plajı is a public beach situated in Castle Landmarks.", "category": "recreational", "coords": [27.435683, 37.032294]}, {"name": "Kumbahçe Halk Plajı", "text": "Kumbahçe Halk Plajı is a public beach located in Castle Landmarks.", "category": "recreational", "coords": [27.439865, 37.029269]}, {"name": "Kumbahçe Plajı", "text": "Kumbahçe Plajı is a beach destination found in Castle Landmarks.", "category": "recreational", "coords": [27.440175, 37.027052]}]},
+    id: "bodrum-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Almera Beach",
+                  "text": "In der Nähe der ikonischen Umgebung von Bodrum Castle gelegen, bringt der Almera Beach Küstencharme in die historische Landschaft der Türkei. Die Gegend lebt von einer lebhaften, touristischen Energie, perfekt für diejenigen, die sich sonnen und mit Blick auf alte Wahrzeichen schwimmen möchten. Wer im Sommer früh ankommt, kann sich einen erstklassigen Platz sichern, bevor die lebhaften Menschenmassen eintreffen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "Der WOW Beach bringt einen Hauch von Modernität in die Nähe von Bodrum Castle und ist ein energiegeladenes Wassersportziel in der Türkei. Besucher strömen wegen der äußerst geselligen Atmosphäre hierher, die von Sonnenbaden, erfrischendem Schwimmen und lebendiger Küstenunterhaltung geprägt ist. Wer sich auf einen lebhaften Nachmittag einstellt, wird den dynamischen Geist dieses resortähnlichen Küstenstreifens voll und ganz genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "Bodrum Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "Kumbahçe Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "Kumbahçe Plajı ist ein Strand in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            },
+            {
+                  "name": "Aktur D Plajı",
+                  "text": "Ein Sandstrand in der Gegend von Bodrum, der beliebt zum Schwimmen und Entspannen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        27.368403,
+                        37.023698
+                  ]
+            },
+            {
+                  "name": "Movenpick Plaj",
+                  "text": "Ein gepflegter Strand in Bodrum mit klarem Wasser und Blick auf die Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        27.371836,
+                        37.022754
+                  ]
+            },
+            {
+                  "name": "Ortakent Plaj",
+                  "text": "Ein beliebter Strand in Ortakent bei Bodrum, bekannt für seinen langen Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        27.349049,
+                        37.020716
+                  ]
+            },
+            {
+                  "name": "Mor Plaj",
+                  "text": "Ein Ort am Meer in Bodrum, ideal zum Sonnenbaden und Genießen der Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        27.372739,
+                        37.023475
+                  ]
+            },
+            {
+                  "name": "Yeşil Plaj",
+                  "text": "Ein Strand in der Gegend von Bodrum, der den Besuchern eine friedliche Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        27.365392,
+                        37.022509
+                  ]
+            },
+            {
+                  "name": "Children Pool",
+                  "text": "Ein Kinderbecken in der Nähe des Kastells von Bodrum für junge Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394519,
+                        37.028512
+                  ]
+            },
+            {
+                  "name": "Relax Pool",
+                  "text": "Ein Ruhebecken beim Kastell von Bodrum, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394606,
+                        37.03058
+                  ]
+            },
+            {
+                  "name": "Sunset Sitesi",
+                  "text": "Ein Schwimmbad in der Nähe des Kastells von Bodrum innerhalb einer Wohnanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        27.387052,
+                        37.024267
+                  ]
+            },
+            {
+                  "name": "Casa porto site havuzu",
+                  "text": "Ein privater Pool in der Nähe des Kastells von Bodrum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.41563,
+                        37.032692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Almera Beach",
+                  "text": "A Bodrumi vár ikonikus környezete közelében fekvő Almera Beach tengerparti bájt visz Törökország történelmi tájába. A terület egy nyüzsgő, turisztikai energiából él, tökéletes azok számára, akik napozni és úszni szeretnének, miközben ősi nevezetességekre tekintenek. A nyár eleji korai érkezés lehetővé teszi, hogy lefoglaljon egy kiváló helyet, mielőtt megérkezik a vibráló tömeg.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "A Bodrumi vár közelében egy csipetnyi modernséget nyújtó WOW Beach egy energikus vízparti úti cél Törökországban. A látogatók a rendkívül társaságkedvelő légkör miatt özönlenek ide, amelyet a napozás, a frissítő úszások és az élénk tengerparti szórakozás vezérel. Egy nyüzsgő délutánra való felkészülés biztosítja, hogy alaposan élvezze ennek az üdülőhelyi stílusú partvonalnak a dinamikus szellemét.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "A Bodrum Halk Plajı egy nyilvános strand Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "A Kumbahçe Halk Plajı egy nyilvános strand Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "A Kumbahçe Plajı egy tengerpart Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            },
+            {
+                  "name": "Aktur D Plajı",
+                  "text": "Bodrum környékén található homokos strand, amely népszerű úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        27.368403,
+                        37.023698
+                  ]
+            },
+            {
+                  "name": "Movenpick Plaj",
+                  "text": "Jól karbantartott strand Bodrumban, tiszta vízzel és tengerparti kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        27.371836,
+                        37.022754
+                  ]
+            },
+            {
+                  "name": "Ortakent Plaj",
+                  "text": "Népszerű strand Ortakentben, Bodrum közelében, hosszú homokos partjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        27.349049,
+                        37.020716
+                  ]
+            },
+            {
+                  "name": "Mor Plaj",
+                  "text": "Tengerparti hely Bodrumban, amely ideális napozáshoz és a parti táj élvezetéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        27.372739,
+                        37.023475
+                  ]
+            },
+            {
+                  "name": "Yeşil Plaj",
+                  "text": "Strand Bodrum környékén, amely nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        27.365392,
+                        37.022509
+                  ]
+            },
+            {
+                  "name": "Children Pool",
+                  "text": "Gyermekmedence a bodrumi vár közelében a legfiatalabb látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394519,
+                        37.028512
+                  ]
+            },
+            {
+                  "name": "Relax Pool",
+                  "text": "Pihenőmedence a bodrumi vár közelében, ideális relaxációra.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394606,
+                        37.03058
+                  ]
+            },
+            {
+                  "name": "Sunset Sitesi",
+                  "text": "Úszómedence a bodrumi vár közelében, egy lakópark területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.387052,
+                        37.024267
+                  ]
+            },
+            {
+                  "name": "Casa porto site havuzu",
+                  "text": "Magánmedence a bodrumi vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.41563,
+                        37.032692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Almera Beach",
+                  "text": "Poziționată în apropierea împrejurimilor emblematice ale Castelului Bodrum, Almera Beach injectează farmecul de coastă în peisajul istoric al Turciei. Zona prosperă dintr-o energie turistică plină de viață, perfectă pentru cei care doresc să facă plajă și să înoate cu vedere la repere antice. Ajungând devreme vara vă permite să revendicați un loc excelent înainte de a se aduna mulțimile vibrante.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "Adăugând o pată de modernitate lângă Castelul Bodrum, WOW Beach este o destinație energică pe malul apei din Turcia. Vizitatorii se adună aici pentru o atmosferă extrem de sociabilă, condusă de plajă, înot răcoritor și divertisment vibrant pe coastă. Pregătirea pentru o după-amiază plină de viață vă asigură că vă veți bucura din plin de spiritul dinamic al acestui țărm în stil stațiune.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "Bodrum Halk Plajı este o plajă publică situată în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "Kumbahçe Halk Plajı este o plajă publică situată în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "Kumbahçe Plajı este o plajă situată în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            },
+            {
+                  "name": "Aktur D Plajı",
+                  "text": "O plajă cu nisip situată în zona Bodrum, populară pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        27.368403,
+                        37.023698
+                  ]
+            },
+            {
+                  "name": "Movenpick Plaj",
+                  "text": "O plajă bine întreținută din Bodrum, oferind ape limpezi și vedere la coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        27.371836,
+                        37.022754
+                  ]
+            },
+            {
+                  "name": "Ortakent Plaj",
+                  "text": "O plajă populară din Ortakent, lângă Bodrum, cunoscută pentru țărmul său lung de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        27.349049,
+                        37.020716
+                  ]
+            },
+            {
+                  "name": "Mor Plaj",
+                  "text": "Un loc la malul mării în Bodrum, ideal pentru plajă și pentru a te bucura de peisajul de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        27.372739,
+                        37.023475
+                  ]
+            },
+            {
+                  "name": "Yeşil Plaj",
+                  "text": "O plajă din zona Bodrum care oferă un mediu liniștit pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        27.365392,
+                        37.022509
+                  ]
+            },
+            {
+                  "name": "Children Pool",
+                  "text": "O piscină pentru copii lângă Castelul Bodrum, destinată celor mici.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394519,
+                        37.028512
+                  ]
+            },
+            {
+                  "name": "Relax Pool",
+                  "text": "O piscină de relaxare lângă Castelul Bodrum, ideală pentru odihnă.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394606,
+                        37.03058
+                  ]
+            },
+            {
+                  "name": "Sunset Sitesi",
+                  "text": "O piscină situată lângă Castelul Bodrum, în cadrul unui complex rezidențial.",
+                  "category": "recreational",
+                  "coords": [
+                        27.387052,
+                        37.024267
+                  ]
+            },
+            {
+                  "name": "Casa porto site havuzu",
+                  "text": "O piscină privată situată în apropierea Castelului Bodrum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.41563,
+                        37.032692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almera Beach",
+                  "text": "Positioned near the iconic surroundings of Bodrum Castle, Almera Beach injects coastal charm into Turkey's historical landscape. The area thrives on a lively, touristic energy, perfect for those wanting to sunbathe and swim with a view of ancient landmarks. Arriving early in the summer allows you to claim a prime spot before the vibrant crowds roll in.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "Adding a splash of modernity near Bodrum Castle, WOW Beach is an energetic waterside destination in Turkey. Visitors flock here for a highly sociable atmosphere, driven by sunbathing, refreshing swims, and vibrant coastal entertainment. Preparing for a lively afternoon out ensures you will thoroughly enjoy the dynamic spirit of this resort-style shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "Bodrum Halk Plajı is a public beach situated in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "Kumbahçe Halk Plajı is a public beach located in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "Kumbahçe Plajı is a beach destination found in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            },
+            {
+                  "name": "Aktur D Plajı",
+                  "text": "A sandy beach located in the Bodrum area, popular for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        27.368403,
+                        37.023698
+                  ]
+            },
+            {
+                  "name": "Movenpick Plaj",
+                  "text": "A well-maintained beach in Bodrum offering clear waters and coastal views.",
+                  "category": "recreational",
+                  "coords": [
+                        27.371836,
+                        37.022754
+                  ]
+            },
+            {
+                  "name": "Ortakent Plaj",
+                  "text": "A popular beach in Ortakent near Bodrum, known for its long sandy shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        27.349049,
+                        37.020716
+                  ]
+            },
+            {
+                  "name": "Mor Plaj",
+                  "text": "A seaside spot in Bodrum ideal for sunbathing and enjoying the coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        27.372739,
+                        37.023475
+                  ]
+            },
+            {
+                  "name": "Yeşil Plaj",
+                  "text": "A beach in the Bodrum area offering a peaceful environment for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        27.365392,
+                        37.022509
+                  ]
+            },
+            {
+                  "name": "Children Pool",
+                  "text": "A children's swimming pool located near Bodrum Castle for young visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394519,
+                        37.028512
+                  ]
+            },
+            {
+                  "name": "Relax Pool",
+                  "text": "A relax pool near Bodrum Castle, providing a quiet space for leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        27.394606,
+                        37.03058
+                  ]
+            },
+            {
+                  "name": "Sunset Sitesi",
+                  "text": "A swimming pool located near Bodrum Castle within a residential complex.",
+                  "category": "recreational",
+                  "coords": [
+                        27.387052,
+                        37.024267
+                  ]
+            },
+            {
+                  "name": "Casa porto site havuzu",
+                  "text": "A private swimming pool located in the vicinity of Bodrum Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        27.41563,
+                        37.032692
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TR-48",
     coords: [27.4284, 37.0319],

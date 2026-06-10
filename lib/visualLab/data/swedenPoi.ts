@@ -799,6 +799,15 @@ export const swedenRegions: POI[] = [
                         18.072063,
                         59.304763
                   ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "Ein beliebter Sandstrand im Stadtteil Kungsholmen in Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
+                  ]
             }
       ],
       "hu": [
@@ -1556,6 +1565,15 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.072063,
                         59.304763
+                  ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "Népszerű homokos strand Stockholm Kungsholmen negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
                   ]
             }
       ],
@@ -2315,6 +2333,15 @@ export const swedenRegions: POI[] = [
                         18.072063,
                         59.304763
                   ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "O plajă populară cu nisip în districtul Kungsholmen din Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
+                  ]
             }
       ],
       "en": [
@@ -3073,6 +3100,15 @@ export const swedenRegions: POI[] = [
                         18.072063,
                         59.304763
                   ]
+            },
+            {
+                  "name": "Smedsuddbadet",
+                  "text": "A popular sandy beach in the Kungsholmen district of Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.021073,
+                        59.324945
+                  ]
             }
       ]
 },
@@ -3659,6 +3695,33 @@ export const swedenRegions: POI[] = [
                         11.963313,
                         57.706553
                   ]
+            },
+            {
+                  "name": "Barnens zoo",
+                  "text": "Ein Streichelzoo im Slottskogen-Park in Göteborg, der sich besonders an Familien mit Kindern richtet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.942346,
+                        57.68507
+                  ]
+            },
+            {
+                  "name": "Säldammen",
+                  "text": "Das Seehundbecken im Slottskogen-Park in Göteborg, wo Besucher die Fütterung der Robben beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94204,
+                        57.684044
+                  ]
+            },
+            {
+                  "name": "Allmänna badet",
+                  "text": "Eine öffentliche Badeanlage in Göteborg, die verschiedene Schwimm- und Erholungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.957117,
+                        57.716626
+                  ]
             }
       ],
       "hu": [
@@ -4182,6 +4245,33 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         11.963313,
                         57.706553
+                  ]
+            },
+            {
+                  "name": "Barnens zoo",
+                  "text": "Gyerekállatkert a göteborgi Slottskogen parkban, ahol a kicsik állatokat simogathatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.942346,
+                        57.68507
+                  ]
+            },
+            {
+                  "name": "Säldammen",
+                  "text": "Fóka-medence a göteborgi Slottskogen parkban, ahol a látogatók megnézhetik a fókák etetését is.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94204,
+                        57.684044
+                  ]
+            },
+            {
+                  "name": "Allmänna badet",
+                  "text": "Nyilvános fürdőhely Göteborgban, amely különféle úszási és pihenési lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        11.957117,
+                        57.716626
                   ]
             }
       ],
@@ -4707,6 +4797,33 @@ export const swedenRegions: POI[] = [
                         11.963313,
                         57.706553
                   ]
+            },
+            {
+                  "name": "Barnens zoo",
+                  "text": "O grădină zoologică pentru copii în parcul Slottskogen din Göteborg, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        11.942346,
+                        57.68507
+                  ]
+            },
+            {
+                  "name": "Säldammen",
+                  "text": "Bazinul focilor din parcul Slottskogen din Göteborg, unde vizitatorii pot urmări hrănirea focilor.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94204,
+                        57.684044
+                  ]
+            },
+            {
+                  "name": "Allmänna badet",
+                  "text": "O facilitate de înot publică în Göteborg care oferă diverse opțiuni de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        11.957117,
+                        57.716626
+                  ]
             }
       ],
       "en": [
@@ -5230,6 +5347,33 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         11.963313,
                         57.706553
+                  ]
+            },
+            {
+                  "name": "Barnens zoo",
+                  "text": "A children's zoo in Gothenburg's Slottskogen park where kids can interact with animals.",
+                  "category": "recreational",
+                  "coords": [
+                        11.942346,
+                        57.68507
+                  ]
+            },
+            {
+                  "name": "Säldammen",
+                  "text": "The seal pond in Gothenburg's Slottskogen park where visitors can watch the seals being fed.",
+                  "category": "recreational",
+                  "coords": [
+                        11.94204,
+                        57.684044
+                  ]
+            },
+            {
+                  "name": "Allmänna badet",
+                  "text": "A public bathing facility in Gothenburg offering various swimming and recreation options.",
+                  "category": "recreational",
+                  "coords": [
+                        11.957117,
+                        57.716626
                   ]
             }
       ]
@@ -6009,6 +6153,15 @@ export const swedenRegions: POI[] = [
                         12.947465,
                         55.598178
                   ]
+            },
+            {
+                  "name": "Ribersborgs Kallbadhus",
+                  "text": "Ein historisches Freiluft-Kaltbadehaus in Malmö, das direkt am Öresund liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.965452,
+                        55.605148
+                  ]
             }
       ],
       "hu": [
@@ -6721,6 +6874,15 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         12.947465,
                         55.598178
+                  ]
+            },
+            {
+                  "name": "Ribersborgs Kallbadhus",
+                  "text": "Történelmi szabadtéri hidegvizes fürdő Malmőben, közvetlenül az Öresund partján.",
+                  "category": "recreational",
+                  "coords": [
+                        12.965452,
+                        55.605148
                   ]
             }
       ],
@@ -7435,6 +7597,15 @@ export const swedenRegions: POI[] = [
                         12.947465,
                         55.598178
                   ]
+            },
+            {
+                  "name": "Ribersborgs Kallbadhus",
+                  "text": "O baie publică istorică în aer liber din Malmö, situată direct pe malul strâmtorii Öresund.",
+                  "category": "recreational",
+                  "coords": [
+                        12.965452,
+                        55.605148
+                  ]
             }
       ],
       "en": [
@@ -8147,6 +8318,15 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         12.947465,
                         55.598178
+                  ]
+            },
+            {
+                  "name": "Ribersborgs Kallbadhus",
+                  "text": "A historic open-air cold bath house in Malmö, located directly on the Öresund.",
+                  "category": "recreational",
+                  "coords": [
+                        12.965452,
+                        55.605148
                   ]
             }
       ]
@@ -26545,6 +26725,24 @@ export const swedenCulture: POI[] = [
                         18.251428,
                         57.607681
                   ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "Ein traditionelles Kaltbadehaus am Meer, das ein klassisches schwedisches Badeerlebnis bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "Ein abenteuerlicher Schwimmbereich mit Wasserattraktionen für Spiel und Spaß.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
+                  ]
             }
       ],
       "hu": [
@@ -26609,6 +26807,24 @@ export const swedenCulture: POI[] = [
                   "coords": [
                         18.251428,
                         57.607681
+                  ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "Hagyományos tengerparti hidegfürdő, amely klasszikus svéd fürdőélményt kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "Kalandos úszóterület vízi attrakciókkal a játék és szórakozás érdekében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
                   ]
             }
       ],
@@ -26675,6 +26891,24 @@ export const swedenCulture: POI[] = [
                         18.251428,
                         57.607681
                   ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "O baie tradițională rece la malul mării, oferind o experiență clasică de scăldat suedeză.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "O zonă de înot de aventură cu atracții acvatice pentru joacă și distracție.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
+                  ]
             }
       ],
       "en": [
@@ -26739,6 +26973,24 @@ export const swedenCulture: POI[] = [
                   "coords": [
                         18.251428,
                         57.607681
+                  ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "A traditional cold bath house by the sea, offering a classic Swedish bathing experience.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "An adventurous swimming area with water attractions for play and fun.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
                   ]
             }
       ]
@@ -26875,6 +27127,15 @@ export const swedenCulture: POI[] = [
                         17.925189,
                         59.300219
                   ]
+            },
+            {
+                  "name": "Kärsöns naturistbad",
+                  "text": "Der Nacktbadestrand Kärsön ist ein diskreter Badeplatz auf einer Insel in der Nähe des Schlosses Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.892151,
+                        59.331985
+                  ]
             }
       ],
       "hu": [
@@ -26885,6 +27146,15 @@ export const swedenCulture: POI[] = [
                   "coords": [
                         17.925189,
                         59.300219
+                  ]
+            },
+            {
+                  "name": "Kärsöns naturistbad",
+                  "text": "A Kärsön nudista strand egy diszkrét fürdőhely egy szigeten, a Drottningholm-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.892151,
+                        59.331985
                   ]
             }
       ],
@@ -26897,6 +27167,15 @@ export const swedenCulture: POI[] = [
                         17.925189,
                         59.300219
                   ]
+            },
+            {
+                  "name": "Kärsöns naturistbad",
+                  "text": "Plaja de nudiști Kärsön este un loc de scăldat discret pe o insulă de lângă Palatul Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.892151,
+                        59.331985
+                  ]
             }
       ],
       "en": [
@@ -26907,6 +27186,15 @@ export const swedenCulture: POI[] = [
                   "coords": [
                         17.925189,
                         59.300219
+                  ]
+            },
+            {
+                  "name": "Kärsön nudist beach",
+                  "text": "Kärsön nudist beach is a discrete swimming spot on an island near Drottningholm Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        17.892151,
+                        59.331985
                   ]
             }
       ]
@@ -27254,6 +27542,15 @@ export const swedenCulture: POI[] = [
                         14.569271,
                         60.980261
                   ]
+            },
+            {
+                  "name": "Sandabadet",
+                  "text": "Eine öffentliche Badeanlage in der Provinz Dalarna.",
+                  "category": "recreational",
+                  "coords": [
+                        14.573968,
+                        60.999696
+                  ]
             }
       ],
       "hu": [
@@ -27327,6 +27624,15 @@ export const swedenCulture: POI[] = [
                   "coords": [
                         14.569271,
                         60.980261
+                  ]
+            },
+            {
+                  "name": "Sandabadet",
+                  "text": "Nyilvános fürdőhely Dalarna tartományban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.573968,
+                        60.999696
                   ]
             }
       ],
@@ -27402,6 +27708,15 @@ export const swedenCulture: POI[] = [
                         14.569271,
                         60.980261
                   ]
+            },
+            {
+                  "name": "Sandabadet",
+                  "text": "O facilitate publică de scăldat în provincia Dalarna.",
+                  "category": "recreational",
+                  "coords": [
+                        14.573968,
+                        60.999696
+                  ]
             }
       ],
       "en": [
@@ -27475,6 +27790,15 @@ export const swedenCulture: POI[] = [
                   "coords": [
                         14.569271,
                         60.980261
+                  ]
+            },
+            {
+                  "name": "Sandabadet",
+                  "text": "A public bathing facility in the Dalarna province.",
+                  "category": "recreational",
+                  "coords": [
+                        14.573968,
+                        60.999696
                   ]
             }
       ]
@@ -27924,6 +28248,24 @@ export const swedenNature: POI[] = [
                         18.251428,
                         57.607681
                   ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "Ein traditionelles Kaltbadehaus an der Küste von Gotland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "Ein Abenteuerschwimmbad mit Freizeitaktivitäten auf Gotland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
+                  ]
             }
       ],
       "hu": [
@@ -27988,6 +28330,24 @@ export const swedenNature: POI[] = [
                   "coords": [
                         18.251428,
                         57.607681
+                  ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "Tradicionális hidegfürdő Gotland partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "Élményfürdő szabadidős tevékenységekkel Gotland szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
                   ]
             }
       ],
@@ -28054,6 +28414,24 @@ export const swedenNature: POI[] = [
                         18.251428,
                         57.607681
                   ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "O baie tradițională cu apă rece pe coasta insulei Gotland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "O piscină de aventură cu activități recreative în Gotland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
+                  ]
             }
       ],
       "en": [
@@ -28118,6 +28496,24 @@ export const swedenNature: POI[] = [
                   "coords": [
                         18.251428,
                         57.607681
+                  ]
+            },
+            {
+                  "name": "Kallbadhuset",
+                  "text": "A traditional open-air cold bathhouse on the coast of Gotland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287149,
+                        57.640435
+                  ]
+            },
+            {
+                  "name": "Äventyrsträsket",
+                  "text": "An adventure swimming pool with recreational activities on Gotland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.244321,
+                        57.608743
                   ]
             }
       ]

@@ -45655,6 +45655,15 @@ export const poiExtraDeCities: POI[] = [
                         8.711589,
                         53.871729
                   ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "Ein geschützter Badebereich in der Grimmershörnbucht in Cuxhaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.693302,
+                        53.876701
+                  ]
             }
       ],
       "hu": [
@@ -45706,6 +45715,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         8.711589,
                         53.871729
+                  ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "Védett fürdőhely a cuxhaveni Grimmershörn-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.693302,
+                        53.876701
                   ]
             }
       ],
@@ -45759,6 +45777,15 @@ export const poiExtraDeCities: POI[] = [
                         8.711589,
                         53.871729
                   ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "O zonă de scăldat protejată în golful Grimmershörn din Cuxhaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.693302,
+                        53.876701
+                  ]
             }
       ],
       "en": [
@@ -45810,6 +45837,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         8.711589,
                         53.871729
+                  ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "A protected swimming area in the Grimmershörn bay in Cuxhaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.693302,
+                        53.876701
                   ]
             }
       ],
@@ -77257,6 +77293,15 @@ export const poiExtraDeCities: POI[] = [
                         9.840101,
                         54.46543
                   ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Ein spezieller Strandbereich für Hunde und ihre Besitzer im Ostseebad Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.846621,
+                        54.457512
+                  ]
             }
       ],
       "hu": [
@@ -77398,6 +77443,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.840101,
                         54.46543
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Speciális strandterület kutyák és gazdáik számára Eckernförde balti-tengeri üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        9.846621,
+                        54.457512
                   ]
             }
       ],
@@ -77541,6 +77595,15 @@ export const poiExtraDeCities: POI[] = [
                         9.840101,
                         54.46543
                   ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "O zonă specială de plajă pentru câini și stăpânii lor în stațiunea Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.846621,
+                        54.457512
+                  ]
             }
       ],
       "en": [
@@ -77682,6 +77745,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.840101,
                         54.46543
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "A special beach area for dogs and their owners in the Baltic resort of Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.846621,
+                        54.457512
                   ]
             }
       ],

@@ -247,6 +247,15 @@ export const portugalNatureV2: POI[] = [
                         -7.910787,
                         40.093584
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein öffentliches Schwimmbad, das Freizeitmöglichkeiten in Lagoa da Pampilhosa bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.949736,
+                        40.046835
+                  ]
             }
       ],
       "hu": [
@@ -257,6 +266,15 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -7.910787,
                         40.093584
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Helyi közösségi úszómedence, amely kikapcsolódási lehetőséget nyújt Lagoa da Pampilhosa területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.949736,
+                        40.046835
                   ]
             }
       ],
@@ -269,6 +287,15 @@ export const portugalNatureV2: POI[] = [
                         -7.910787,
                         40.093584
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină publică locală care oferă facilități de recreere în Lagoa da Pampilhosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.949736,
+                        40.046835
+                  ]
             }
       ],
       "en": [
@@ -279,6 +306,15 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -7.910787,
                         40.093584
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A local public swimming pool providing recreational facilities in Lagoa da Pampilhosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.949736,
+                        40.046835
                   ]
             }
       ]
@@ -400,6 +436,24 @@ export const portugalNatureV2: POI[] = [
                         -8.082045,
                         41.180368
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein öffentliches Schwimmbad in der Nähe des Flusses Tâmega.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.145469,
+                        41.194826
+                  ]
+            },
+            {
+                  "name": "Caldas de Canavezes",
+                  "text": "Ein traditionelles Thermalbad am Ufer des Flusses Tâmega.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.154692,
+                        41.198422
+                  ]
             }
       ],
       "hu": [
@@ -473,6 +527,24 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -8.082045,
                         41.180368
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Közösségi úszómedence a Tâmega-folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.145469,
+                        41.194826
+                  ]
+            },
+            {
+                  "name": "Caldas de Canavezes",
+                  "text": "Hagyományos termálfürdő a Tâmega-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.154692,
+                        41.198422
                   ]
             }
       ],
@@ -548,6 +620,24 @@ export const portugalNatureV2: POI[] = [
                         -8.082045,
                         41.180368
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină publică situată în apropierea râului Tâmega.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.145469,
+                        41.194826
+                  ]
+            },
+            {
+                  "name": "Caldas de Canavezes",
+                  "text": "O baie publică tradițională situată pe malul râului Tâmega.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.154692,
+                        41.198422
+                  ]
             }
       ],
       "en": [
@@ -621,6 +711,24 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -8.082045,
                         41.180368
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A public swimming pool located near the Tâmega River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.145469,
+                        41.194826
+                  ]
+            },
+            {
+                  "name": "Caldas de Canavezes",
+                  "text": "A traditional public bath located on the banks of the Tâmega River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.154692,
+                        41.198422
                   ]
             }
       ]
@@ -1075,6 +1183,51 @@ export const portugalNatureV2: POI[] = [
                         -7.922408,
                         40.247945
                   ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "Ein Flussbad in Sobral Magro, das natürliche Erholung im Wald von Margaraça bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Pomares",
+                  "text": "Ein natürlicher Badeplatz am Fluss in Pomares innerhalb der Mata da Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.897395,
+                        40.269223
+                  ]
+            },
+            {
+                  "name": "Piscina de Porto Castanheiro",
+                  "text": "Das Schwimmbad von Porto Castanheiro in der waldreichen Region Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.924299,
+                        40.194707
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Benfeita",
+                  "text": "Ein Flussstrand in Benfeita, ideal zum Baden in der geschützten Natur von Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.945284,
+                        40.229153
+                  ]
+            },
+            {
+                  "name": "Piscina Grande",
+                  "text": "Ein großes Schwimmbecken zur Erholung in der Mata da Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.935618,
+                        40.208343
+                  ]
             }
       ],
       "hu": [
@@ -1130,6 +1283,51 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -7.922408,
                         40.247945
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "Folyóparti medence Sobral Magróban, amely természetes kikapcsolódást kínál a Margaraça-erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Pomares",
+                  "text": "Természetes folyóparti fürdőhely Pomaresben, a Mata da Margaraça területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.897395,
+                        40.269223
+                  ]
+            },
+            {
+                  "name": "Piscina de Porto Castanheiro",
+                  "text": "Porto Castanheiro úszómedencéje a Margaraça erdős régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.924299,
+                        40.194707
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Benfeita",
+                  "text": "Folyóparti strand Benfeitában, amely ideális fürdőzésre Margaraça védett természetében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.945284,
+                        40.229153
+                  ]
+            },
+            {
+                  "name": "Piscina Grande",
+                  "text": "Nagy méretű úszómedence kikapcsolódásra a Mata da Margaraça területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.935618,
+                        40.208343
                   ]
             }
       ],
@@ -1187,6 +1385,51 @@ export const portugalNatureV2: POI[] = [
                         -7.922408,
                         40.247945
                   ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "O piscină fluvială în Sobral Magro, oferind recreere naturală în pădurea Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Pomares",
+                  "text": "Un loc natural de scăldat la râu în Pomares, în interiorul Mata da Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.897395,
+                        40.269223
+                  ]
+            },
+            {
+                  "name": "Piscina de Porto Castanheiro",
+                  "text": "Piscina din Porto Castanheiro, situată în regiunea împădurită Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.924299,
+                        40.194707
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Benfeita",
+                  "text": "O plajă fluvială în Benfeita, ideală pentru scăldat în natura protejată din Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.945284,
+                        40.229153
+                  ]
+            },
+            {
+                  "name": "Piscina Grande",
+                  "text": "O piscină mare pentru recreere situată în Mata da Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.935618,
+                        40.208343
+                  ]
             }
       ],
       "en": [
@@ -1242,6 +1485,51 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -7.922408,
                         40.247945
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "A river pool in Sobral Magro offering natural recreation in the Margaraça Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Pomares",
+                  "text": "A natural river bathing spot in Pomares within the Mata da Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.897395,
+                        40.269223
+                  ]
+            },
+            {
+                  "name": "Piscina de Porto Castanheiro",
+                  "text": "The swimming pool of Porto Castanheiro in the forested Margaraça region.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.924299,
+                        40.194707
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Benfeita",
+                  "text": "A river beach in Benfeita, ideal for bathing in the protected nature of Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.945284,
+                        40.229153
+                  ]
+            },
+            {
+                  "name": "Piscina Grande",
+                  "text": "A large swimming pool for recreation located in Mata da Margaraça.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.935618,
+                        40.208343
                   ]
             }
       ]
@@ -1345,6 +1633,15 @@ export const portugalNatureV2: POI[] = [
                         -7.993317,
                         41.513809
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein städtisches Schwimmbad in der Region Serra do Maroi.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.986586,
+                        41.514222
+                  ]
             }
       ],
       "hu": [
@@ -1400,6 +1697,15 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -7.993317,
                         41.513809
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Városi úszómedence a Serra do Maroi régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.986586,
+                        41.514222
                   ]
             }
       ],
@@ -1457,6 +1763,15 @@ export const portugalNatureV2: POI[] = [
                         -7.993317,
                         41.513809
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină municipală situată în regiunea Serra do Maroi.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.986586,
+                        41.514222
+                  ]
             }
       ],
       "en": [
@@ -1512,6 +1827,15 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -7.993317,
                         41.513809
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A municipal swimming pool located in the Serra do Maroi region.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.986586,
+                        41.514222
                   ]
             }
       ]

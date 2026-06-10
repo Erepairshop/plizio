@@ -273,7 +273,52 @@ imageHint: "Ljubljana Botanic Garden greenhouse and plants",
     },
     image: "/poi-images/slovenia-ljubljana-botanic-garden-life-v2.webp",
 },  {
-    id: "slovenia-strunjan-nature-park-life-v2",
+    id: "slovenia-strunjan-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kopališče Strunjan / Spiaggia di Strugnano",
+                  "text": "Ein beliebter Badebereich im Naturpark Strunjan an der slowenischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.601001,
+                        45.530435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kopališče Strunjan / Spiaggia di Strugnano",
+                  "text": "Népszerű fürdőhely a Strunjan Natúrparkban, a szlovén tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        13.601001,
+                        45.530435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kopališče Strunjan / Spiaggia di Strugnano",
+                  "text": "O zonă populară de înot situată în Parcul Natural Strunjan de pe coasta slovenă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.601001,
+                        45.530435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kopališče Strunjan / Spiaggia di Strugnano",
+                  "text": "A popular swimming area located in the Strunjan Nature Park on the Slovenian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        13.601001,
+                        45.530435
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Strunjan", hu: "Strunjan Tájvédelmi Park", ro: "Parcul Peisagistic Strunjan", en: "Strunjan Nature Park"},
@@ -318,7 +363,160 @@ imageHint: "Strunjan cliffs and Adriatic sea",
     },
     image: "/poi-images/slovenia-strunjan-nature-park-life-v2.webp",
 },  {
-    id: "slovenia-debeli-rtic-life-v2", "sights": {"de": [{"name": "Debeli rtič", "text": "Strand Debeli rtič.", "category": "recreational", "coords": [13.707962, 45.587764]}, {"name": "Plaža Debeli rtič", "text": "Eingerahmt von der geschützten Natur des Landschaftsparks Debeli Rtič, ist dieser slowenische Küstenabschnitt ein wahres grünes Refugium. Der Strand bewahrt sich eine durchweg friedliche und familienorientierte Atmosphäre, die gänzlich vom städtischen Lärm abgeschirmt ist. Gäste können unbeschwert im klaren Meer schwimmen, im Schatten der Bäume entspannen oder landschaftliche Spaziergänge unternehmen. Ein leichtes Picknick ergänzt den unberührten natürlichen Charme dieses wunderschönen Ortes geradezu perfekt.", "category": "recreational", "coords": [13.706548, 45.593022]}], "hu": [{"name": "Debeli rtič", "text": "Debeli rtič strand.", "category": "recreational", "coords": [13.707962, 45.587764]}, {"name": "Plaža Debeli rtič", "text": "A Debeli Rtič Tájvédelmi Körzet védett természeti környezete által keretezett tengerparti szakasz igazi zöld szentélyként funkcionál Szlovéniában. A strand folyamatosan békés és családias légkört áraszt, amely teljesen védettnek tűnik a súlyos városi zajoktól. A vendégek bátran úszhatnak a tengerben, megpihenhetnek a fák árnyékában, és festői sétákat tehetnek. Egy könnyű piknik tökéletesen kiegészíti ennek a gyönyörű helyszínnek az érintetlen, természetes varázsát.", "category": "recreational", "coords": [13.706548, 45.593022]}], "ro": [{"name": "Debeli rtič", "text": "Plaja Debeli rtič.", "category": "recreational", "coords": [13.707962, 45.587764]}, {"name": "Plaža Debeli rtič", "text": "Încadrat de mediul natural protejat al Parcului Peisagistic Debeli Rtič, acest loc de coastă acționează ca un adevărat sanctuar verde în Slovenia. Plaja menține în mod constant o atmosferă pașnică și orientată spre familie, simțindu-se complet protejată de zgomotul urban intens. Oaspeții sunt foarte bineveniți să înoate în mare, să se relaxeze la umbra copacilor și să se bucure de plimbări pitorești. Aducerea unui picnic ușor completează perfect farmecul natural neatins al acestei locații frumoase.", "category": "recreational", "coords": [13.706548, 45.593022]}], "en": [{"name": "Debeli rtič", "text": "Debeli rtič Beach.", "category": "recreational", "coords": [13.707962, 45.587764]}, {"name": "Plaža Debeli rtič", "text": "Framed by the protected natural environment of the Debeli Rtič Landscape Park, this coastal spot acts as a true green sanctuary in Slovenia. The beach consistently maintains a peaceful and family-oriented vibe, feeling completely shielded from heavy urban noise. Guests are very welcome to swim in the sea, relax beneath the shade of the trees, and enjoy scenic walks. Bringing along a light picnic perfectly complements the unspoiled natural charm of this beautiful location.", "category": "recreational", "coords": [13.706548, 45.593022]}]},
+    id: "slovenia-debeli-rtic-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Strand Debeli rtič.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "Eingerahmt von der geschützten Natur des Landschaftsparks Debeli Rtič, ist dieser slowenische Küstenabschnitt ein wahres grünes Refugium. Der Strand bewahrt sich eine durchweg friedliche und familienorientierte Atmosphäre, die gänzlich vom städtischen Lärm abgeschirmt ist. Gäste können unbeschwert im klaren Meer schwimmen, im Schatten der Bäume entspannen oder landschaftliche Spaziergänge unternehmen. Ein leichtes Picknick ergänzt den unberührten natürlichen Charme dieses wunderschönen Ortes geradezu perfekt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Gabriele",
+                  "text": "Ein Strandbad im Landschaftspark Debeli Rtič an der slowenischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.719536,
+                        45.605294
+                  ]
+            },
+            {
+                  "name": "Boa Beach",
+                  "text": "Ein Strandbereich im Naturschutzgebiet Debeli Rtič bei Ancaran.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729049,
+                        45.607441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Debeli rtič strand.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "A Debeli Rtič Tájvédelmi Körzet védett természeti környezete által keretezett tengerparti szakasz igazi zöld szentélyként funkcionál Szlovéniában. A strand folyamatosan békés és családias légkört áraszt, amely teljesen védettnek tűnik a súlyos városi zajoktól. A vendégek bátran úszhatnak a tengerben, megpihenhetnek a fák árnyékában, és festői sétákat tehetnek. Egy könnyű piknik tökéletesen kiegészíti ennek a gyönyörű helyszínnek az érintetlen, természetes varázsát.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Gabriele",
+                  "text": "Strandfürdő a szlovén tengerparton, a Debeli Rtič tájparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.719536,
+                        45.605294
+                  ]
+            },
+            {
+                  "name": "Boa Beach",
+                  "text": "Strandterület a Debeli Rtič természetvédelmi területen, Ancaran közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729049,
+                        45.607441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Plaja Debeli rtič.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "Încadrat de mediul natural protejat al Parcului Peisagistic Debeli Rtič, acest loc de coastă acționează ca un adevărat sanctuar verde în Slovenia. Plaja menține în mod constant o atmosferă pașnică și orientată spre familie, simțindu-se complet protejată de zgomotul urban intens. Oaspeții sunt foarte bineveniți să înoate în mare, să se relaxeze la umbra copacilor și să se bucure de plimbări pitorești. Aducerea unui picnic ușor completează perfect farmecul natural neatins al acestei locații frumoase.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Gabriele",
+                  "text": "O stațiune balneară în Parcul Peisajistic Debeli Rtič de pe coasta slovenă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.719536,
+                        45.605294
+                  ]
+            },
+            {
+                  "name": "Boa Beach",
+                  "text": "O zonă de plajă în rezervația naturală Debeli Rtič de lângă Ancaran.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729049,
+                        45.607441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Debeli rtič Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "Framed by the protected natural environment of the Debeli Rtič Landscape Park, this coastal spot acts as a true green sanctuary in Slovenia. The beach consistently maintains a peaceful and family-oriented vibe, feeling completely shielded from heavy urban noise. Guests are very welcome to swim in the sea, relax beneath the shade of the trees, and enjoy scenic walks. Bringing along a light picnic perfectly complements the unspoiled natural charm of this beautiful location.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Gabriele",
+                  "text": "A beach resort in the Debeli Rtič Landscape Park on the Slovenian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        13.719536,
+                        45.605294
+                  ]
+            },
+            {
+                  "name": "Boa Beach",
+                  "text": "A beach area in the Debeli Rtič nature reserve near Ancaran.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729049,
+                        45.607441
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Debeli Rtič", hu: "Debeli Rtič Tájvédelmi Park", ro: "Parcul Peisagistic Debeli Rtič", en: "Debeli Rtič Landscape Park"},
@@ -1093,6 +1291,15 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
                         16.225473,
                         46.407022
                   ]
+            },
+            {
+                  "name": "Zimski bazen Hardek",
+                  "text": "Eine Hallenbadanlage in Ormož.",
+                  "category": "recreational",
+                  "coords": [
+                        16.153949,
+                        46.410303
+                  ]
             }
       ],
       "hu": [
@@ -1121,6 +1328,15 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
                   "coords": [
                         16.225473,
                         46.407022
+                  ]
+            },
+            {
+                  "name": "Zimski bazen Hardek",
+                  "text": "Fedett uszodakomplexum Ormožban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.153949,
+                        46.410303
                   ]
             }
       ],
@@ -1151,6 +1367,15 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
                         16.225473,
                         46.407022
                   ]
+            },
+            {
+                  "name": "Zimski bazen Hardek",
+                  "text": "O facilitate de înot acoperită situată în Ormož.",
+                  "category": "recreational",
+                  "coords": [
+                        16.153949,
+                        46.410303
+                  ]
             }
       ],
       "en": [
@@ -1179,6 +1404,15 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
                   "coords": [
                         16.225473,
                         46.407022
+                  ]
+            },
+            {
+                  "name": "Zimski bazen Hardek",
+                  "text": "An indoor swimming facility located in Ormož.",
+                  "category": "recreational",
+                  "coords": [
+                        16.153949,
+                        46.410303
                   ]
             }
       ]

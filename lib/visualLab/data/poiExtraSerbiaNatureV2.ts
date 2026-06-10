@@ -40,6 +40,15 @@ export const serbiaNatureV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "Ein olympisches Schwimmbecken am Fluss Raška für sportliche Wettbewerbe.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
+                  ]
             }
       ],
       "hu": [
@@ -77,6 +86,15 @@ export const serbiaNatureV2: POI[] = [
                   "coords": [
                         20.527643,
                         43.161378
+                  ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "Olimpiai méretű úszómedence a Raška-folyó mellett sportversenyekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
                   ]
             }
       ],
@@ -116,6 +134,15 @@ export const serbiaNatureV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "O piscină olimpică lângă râul Raška pentru competiții sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
+                  ]
             }
       ],
       "en": [
@@ -153,6 +180,15 @@ export const serbiaNatureV2: POI[] = [
                   "coords": [
                         20.527643,
                         43.161378
+                  ]
+            },
+            {
+                  "name": "olimpijski bazen",
+                  "text": "An Olympic-sized swimming pool by the Raška River for sports competitions.",
+                  "category": "recreational",
+                  "coords": [
+                        20.515877,
+                        43.138816
                   ]
             }
       ]
@@ -1192,6 +1228,33 @@ export const serbiaNatureV2: POI[] = [
                         20.449112,
                         44.770184
                   ]
+            },
+            {
+                  "name": "Нудистичка плажа Ада Циганлија",
+                  "text": "Ein FKK-Strand auf der Insel Ada Ciganlija in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.376493,
+                        44.779926
+                  ]
+            },
+            {
+                  "name": "RZS Zatvoreni Bazen",
+                  "text": "Ein Hallenbad im Waldpark Košutnjak in Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.428444,
+                        44.764569
+                  ]
+            },
+            {
+                  "name": "Zabavni park Maksimovitsh",
+                  "text": "Ein Freizeit- und Vergnügungsparkgelände im Košutnjak-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        20.418313,
+                        44.779702
+                  ]
             }
       ],
       "hu": [
@@ -1265,6 +1328,33 @@ export const serbiaNatureV2: POI[] = [
                   "coords": [
                         20.449112,
                         44.770184
+                  ]
+            },
+            {
+                  "name": "Нудистичка плажа Ада Циганлија",
+                  "text": "Nudista strand az Ada Ciganlija szigeten, Belgrádban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.376493,
+                        44.779926
+                  ]
+            },
+            {
+                  "name": "RZS Zatvoreni Bazen",
+                  "text": "Fedett uszoda a belgrádi Košutnjak erdőparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.428444,
+                        44.764569
+                  ]
+            },
+            {
+                  "name": "Zabavni park Maksimovitsh",
+                  "text": "Szabadidős és vidámpark a Košutnjak park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.418313,
+                        44.779702
                   ]
             }
       ],
@@ -1340,6 +1430,33 @@ export const serbiaNatureV2: POI[] = [
                         20.449112,
                         44.770184
                   ]
+            },
+            {
+                  "name": "Нудистичка плажа Ада Циганлија",
+                  "text": "O plajă pentru nudiști pe Ada Ciganlija, în Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.376493,
+                        44.779926
+                  ]
+            },
+            {
+                  "name": "RZS Zatvoreni Bazen",
+                  "text": "O piscină acoperită situată în parcul-pădure Košutnjak din Belgrad.",
+                  "category": "recreational",
+                  "coords": [
+                        20.428444,
+                        44.764569
+                  ]
+            },
+            {
+                  "name": "Zabavni park Maksimovitsh",
+                  "text": "O zonă de parc de distracții și agrement situată în parcul Košutnjak.",
+                  "category": "recreational",
+                  "coords": [
+                        20.418313,
+                        44.779702
+                  ]
             }
       ],
       "en": [
@@ -1413,6 +1530,33 @@ export const serbiaNatureV2: POI[] = [
                   "coords": [
                         20.449112,
                         44.770184
+                  ]
+            },
+            {
+                  "name": "Nudist Beach Ada Ciganlija",
+                  "text": "A nudist beach on Ada Ciganlija island in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.376493,
+                        44.779926
+                  ]
+            },
+            {
+                  "name": "RZS Zatvoreni Bazen",
+                  "text": "An indoor swimming pool facility located in the Košutnjak forest park in Belgrade.",
+                  "category": "recreational",
+                  "coords": [
+                        20.428444,
+                        44.764569
+                  ]
+            },
+            {
+                  "name": "Zabavni park Maksimovitsh",
+                  "text": "A leisure and amusement park area located within the Košutnjak park.",
+                  "category": "recreational",
+                  "coords": [
+                        20.418313,
+                        44.779702
                   ]
             }
       ]

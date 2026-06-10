@@ -164,6 +164,60 @@ export const montenegroAllPoi: POI[] = [
                         18.864324,
                         42.283247
                   ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Ein Strandresort in Sveti Stefan, das exklusiven Zugang zur Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Schwimmbad in der Ferienregion Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein Pool-Club in Sveti Stefan mit Blick auf das Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Ein Schwimmbecken in der Küstenstadt Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Ein renommiertes Strandresort bei Sveti Stefan, eingebettet in eine malerische Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Ein Strandresort in der Nähe von Sveti Stefan, bekannt für seine Urlaubsatmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
             }
       ],
       "hu": [
@@ -237,6 +291,60 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.864324,
                         42.283247
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti üdülőhely Sveti Stefanban, amely exkluzív tengerparti kapcsolatot kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Úszómedence Sveti Stefan üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Medenceklub Sveti Stefanban, kilátással a tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Úszómedence Sveti Stefan tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Neves tengerparti üdülőhely Sveti Stefan közelében, egy festői öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Tengerparti üdülőhely Sveti Stefan közelében, amely nyaralóhelyi hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
                   ]
             }
       ],
@@ -312,6 +420,60 @@ export const montenegroAllPoi: POI[] = [
                         18.864324,
                         42.283247
                   ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O stațiune de plajă în Sveti Stefan, oferind acces exclusiv la țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină situată în stațiunea Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Un club cu piscină în Sveti Stefan, cu vedere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "O piscină în orașul de coastă Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "O stațiune de plajă renumită lângă Sveti Stefan, situată într-un golf pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "O stațiune de plajă lângă Sveti Stefan, cunoscută pentru atmosfera sa de vacanță.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
             }
       ],
       "en": [
@@ -386,6 +548,60 @@ export const montenegroAllPoi: POI[] = [
                         18.864324,
                         42.283247
                   ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A beach resort in Sveti Stefan, offering exclusive access to the coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A swimming pool located in the Sveti Stefan resort area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "A pool club in Sveti Stefan, offering views of the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A swimming pool in the coastal town of Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "A renowned beach resort near Sveti Stefan, nestled in a picturesque bay.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "A beach resort near Sveti Stefan, known for its holiday atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
             }
       ]
 },
@@ -431,7 +647,88 @@ export const montenegroAllPoi: POI[] = [
     },
   },
   {
-    id: "me-ada-bojana", "sights": {"de": [{"name": "Nudistička plaža Ada Bojana", "text": "Auf der idyllischen Flussinsel Ada Bojana in Montenegro bietet dieser Nudistenstrand ein naturnahes Badeerlebnis an der Küste. Die weitläufige Umgebung ist geprägt von einer entspannten, toleranten Atmosphäre, die Freikörperkultur und Erholung am Wasser vereint. Die warmen Sommermonate sind die ideale Zeit, um das besondere Flair dieser Badebucht zu genießen.", "category": "recreational", "coords": [19.3417, 41.863216]}], "hu": [{"name": "Nudistička plaža Ada Bojana", "text": "Montenegróban, az idilli Ada Bojana folyami szigeten található nudista strand természetközeli fürdőzési élményt kínál a tengerparton. A tágas környezetet egy nyugodt, toleráns légkör jellemzi, amely egyesíti a naturizmust és a vízparti kikapcsolódást. A meleg nyári hónapok jelentik az ideális időszakot ennek a fürdőöbölnek a különleges hangulatának kiélvezésére.", "category": "recreational", "coords": [19.3417, 41.863216]}], "ro": [{"name": "Nudistička plaža Ada Bojana", "text": "Pe insula fluvială idilică Ada Bojana din Muntenegru, această plajă de nudiști oferă o experiență de baie apropiată de natură pe coastă. Zona spațioasă este caracterizată de o atmosferă relaxată și tolerantă, care combină naturismul cu relaxarea la malul apei. Lunile calde de vară sunt momentul ideal pentru a vă bucura de flerul special al acestui golf de baie.", "category": "recreational", "coords": [19.3417, 41.863216]}], "en": [{"name": "Nudistička plaža Ada Bojana", "text": "On the idyllic river island of Ada Bojana in Montenegro, this naturist beach offers a natural bathing experience on the coast. The spacious environment is characterized by a relaxed, tolerant atmosphere that combines naturism and relaxation by the water. The warm summer months are the ideal time to enjoy the special flair of this bathing bay.", "category": "recreational", "coords": [19.3417, 41.863216]}]},
+    id: "me-ada-bojana", "sights": {
+      "de": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "Auf der idyllischen Flussinsel Ada Bojana in Montenegro bietet dieser Nudistenstrand ein naturnahes Badeerlebnis an der Küste. Die weitläufige Umgebung ist geprägt von einer entspannten, toleranten Atmosphäre, die Freikörperkultur und Erholung am Wasser vereint. Die warmen Sommermonate sind die ideale Zeit, um das besondere Flair dieser Badebucht zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein bekannter FKK-Badeort auf der Insel Ada Bojana in Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        19.338851,
+                        41.863584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "Montenegróban, az idilli Ada Bojana folyami szigeten található nudista strand természetközeli fürdőzési élményt kínál a tengerparton. A tágas környezetet egy nyugodt, toleráns légkör jellemzi, amely egyesíti a naturizmust és a vízparti kikapcsolódást. A meleg nyári hónapok jelentik az ideális időszakot ennek a fürdőöbölnek a különleges hangulatának kiélvezésére.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ismert naturista fürdőhely a montenegrói Ada Bojana szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.338851,
+                        41.863584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "Pe insula fluvială idilică Ada Bojana din Muntenegru, această plajă de nudiști oferă o experiență de baie apropiată de natură pe coastă. Zona spațioasă este caracterizată de o atmosferă relaxată și tolerantă, care combină naturismul cu relaxarea la malul apei. Lunile calde de vară sunt momentul ideal pentru a vă bucura de flerul special al acestui golf de baie.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O locație cunoscută pentru nudism pe insula Ada Bojana din Muntenegru.",
+                  "category": "recreational",
+                  "coords": [
+                        19.338851,
+                        41.863584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "On the idyllic river island of Ada Bojana in Montenegro, this naturist beach offers a natural bathing experience on the coast. The spacious environment is characterized by a relaxed, tolerant atmosphere that combines naturism and relaxation by the water. The warm summer months are the ideal time to enjoy the special flair of this bathing bay.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A well-known nudist swimming location on the island of Ada Bojana in Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        19.338851,
+                        41.863584
+                  ]
+            }
+      ]
+},
     name: { de: "Ada Bojana", hu: "Ada Bojana", ro: "Ada Bojana", en: "Ada Bojana" },
     type: "island",
     coords: [19.3486, 41.8617],
@@ -3272,6 +3569,15 @@ export const montenegroAllPoi: POI[] = [
                         18.725035,
                         42.504409
                   ]
+            },
+            {
+                  "name": "Plaža 2B",
+                  "text": "Ein Strandresort in Perast, das Liegeflächen am Wasser und gastronomische Angebote bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676267,
+                        42.483354
+                  ]
             }
       ],
       "hu": [
@@ -3345,6 +3651,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.725035,
                         42.504409
+                  ]
+            },
+            {
+                  "name": "Plaža 2B",
+                  "text": "Perasti tengerparti üdülőhely, amely vízparti pihenőhelyeket és vendéglátást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676267,
+                        42.483354
                   ]
             }
       ],
@@ -3420,6 +3735,15 @@ export const montenegroAllPoi: POI[] = [
                         18.725035,
                         42.504409
                   ]
+            },
+            {
+                  "name": "Plaža 2B",
+                  "text": "O stațiune balneară în Perast, care oferă zone de plajă pe malul apei și servicii gastronomice.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676267,
+                        42.483354
+                  ]
             }
       ],
       "en": [
@@ -3493,6 +3817,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.725035,
                         42.504409
+                  ]
+            },
+            {
+                  "name": "Plaža 2B",
+                  "text": "A beach resort in Perast offering waterfront lounging and dining options.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676267,
+                        42.483354
                   ]
             }
       ]

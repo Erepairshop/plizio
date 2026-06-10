@@ -688,6 +688,15 @@ export const portugalHistoryV2: POI[] = [
                         -7.397372,
                         38.616764
                   ]
+            },
+            {
+                  "name": "Piscina Biológica",
+                  "text": "Dieses biologische Schwimmbad bietet ein naturnahes Badeerlebnis in der Nähe der römischen Ruinen von Caladinho.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.402879,
+                        38.677239
+                  ]
             }
       ],
       "hu": [
@@ -725,6 +734,15 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -7.397372,
                         38.616764
+                  ]
+            },
+            {
+                  "name": "Piscina Biológica",
+                  "text": "Ez a biológiai úszómedence természetközeli fürdőzési élményt nyújt a Caladinho római romok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.402879,
+                        38.677239
                   ]
             }
       ],
@@ -764,6 +782,15 @@ export const portugalHistoryV2: POI[] = [
                         -7.397372,
                         38.616764
                   ]
+            },
+            {
+                  "name": "Piscina Biológica",
+                  "text": "Această piscină biologică oferă o experiență de înot naturală în apropierea ruinelor romane de la Caladinho.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.402879,
+                        38.677239
+                  ]
             }
       ],
       "en": [
@@ -801,6 +828,15 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -7.397372,
                         38.616764
+                  ]
+            },
+            {
+                  "name": "Piscina Biológica",
+                  "text": "This biological swimming pool offers a nature-based bathing experience near the Caladinho Roman ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.402879,
+                        38.677239
                   ]
             }
       ]
@@ -894,7 +930,52 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-fortaleza-de-valenca-history-v2.webp",
   },
   {
-    id: "portugal-castelo-de-pousaflores-history-v2",
+    id: "portugal-castelo-de-pousaflores-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina Municipal de Ansião",
+                  "text": "Das städtische Schwimmbad von Ansião in der Nähe der Burg Pousaflores.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.43417,
+                        39.912711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina Municipal de Ansião",
+                  "text": "Ansião városi úszómedencéje a Pousaflores-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.43417,
+                        39.912711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina Municipal de Ansião",
+                  "text": "Piscina municipală din Ansião, situată lângă Castelul Pousaflores.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.43417,
+                        39.912711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina Municipal de Ansião",
+                  "text": "The municipal swimming pool of Ansião, located near Pousaflores Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.43417,
+                        39.912711
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg Pousaflores", hu: "Pousaflores vára", ro: "Castelul Pousaflores", en: "Pousaflores Castle" },
@@ -985,6 +1066,15 @@ export const portugalHistoryV2: POI[] = [
                         -8.945141,
                         39.003408
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Vila Franca de Xira",
+                  "text": "Die Piscina Municipal de Vila Franca de Xira ist ein Schwimmbecken am Torre de Pancas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.986065,
+                        38.965186
+                  ]
             }
       ],
       "hu": [
@@ -1031,6 +1121,15 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -8.945141,
                         39.003408
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Vila Franca de Xira",
+                  "text": "A Piscina Municipal de Vila Franca de Xira egy úszómedence a Torre de Pancas közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.986065,
+                        38.965186
                   ]
             }
       ],
@@ -1079,6 +1178,15 @@ export const portugalHistoryV2: POI[] = [
                         -8.945141,
                         39.003408
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Vila Franca de Xira",
+                  "text": "Piscina Municipal de Vila Franca de Xira este o piscină situată lângă Torre de Pancas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.986065,
+                        38.965186
+                  ]
             }
       ],
       "en": [
@@ -1125,6 +1233,15 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -8.945141,
                         39.003408
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Vila Franca de Xira",
+                  "text": "Piscina Municipal de Vila Franca de Xira is a swimming pool located near Torre de Pancas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.986065,
+                        38.965186
                   ]
             }
       ]
@@ -2145,7 +2262,376 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-ruinas-de-roman-villa-of-pisoes-history-v2.webp",
   },
   {
-    id: "portugal-castelo-de-valadares-history-v2",
+    id: "portugal-castelo-de-valadares-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Canidelo Norte",
+                  "text": "Ein Strand an der Atlantikküste bei Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664472,
+                        41.118979
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Sul",
+                  "text": "Ein beliebter Strand an der Südküste von Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657079,
+                        41.088215
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Norte",
+                  "text": "Ein Strand an der Nordseite des Ufers von Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657916,
+                        41.092376
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueiros",
+                  "text": "Ein Strand bei Valadares, bekannt für seine Felslandschaft und zum Surfen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.666199,
+                        41.121179
+                  ]
+            },
+            {
+                  "name": "Praia Sereia da Costa Verde",
+                  "text": "Ein Küstenstrand im Gebiet von Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664044,
+                        41.116699
+                  ]
+            },
+            {
+                  "name": "Praia Canide Sul",
+                  "text": "Ein Sandstrand an der Atlantikküste bei Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664276,
+                        41.114236
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "Ein kleiner Strandbereich in der Region Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.659251,
+                        41.095927
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Sul",
+                  "text": "Ein Strand im südlichen Teil des Gebiets Madalena.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.660372,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Norte",
+                  "text": "Ein Strand im nördlichen Teil der Küste von Madalena.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.661936,
+                        41.103623
+                  ]
+            },
+            {
+                  "name": "Praia de Marbelo",
+                  "text": "Ein Strand an der Küste bei Valadares und Madalena.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.663683,
+                        41.10752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Canidelo Norte",
+                  "text": "Strand az atlanti parton, Valadares közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664472,
+                        41.118979
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Sul",
+                  "text": "Népszerű strand Valadares déli partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657079,
+                        41.088215
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Norte",
+                  "text": "Strand Valadares partvonalának északi oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657916,
+                        41.092376
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueiros",
+                  "text": "Valadares közeli strand, amely sziklás partjáról és a szörfözésről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.666199,
+                        41.121179
+                  ]
+            },
+            {
+                  "name": "Praia Sereia da Costa Verde",
+                  "text": "Tengerparti strand Valadares környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664044,
+                        41.116699
+                  ]
+            },
+            {
+                  "name": "Praia Canide Sul",
+                  "text": "Homokos strand az atlanti part mentén, Valadares közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664276,
+                        41.114236
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "Kis tengerparti szakasz Valadares régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.659251,
+                        41.095927
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Sul",
+                  "text": "Strand Madalena déli részén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.660372,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Norte",
+                  "text": "Strand Madalena partvonalának északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.661936,
+                        41.103623
+                  ]
+            },
+            {
+                  "name": "Praia de Marbelo",
+                  "text": "Strand a tengerpart mentén, Valadares és Madalena közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.663683,
+                        41.10752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Canidelo Norte",
+                  "text": "O plajă situată pe coasta Atlanticului, lângă Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664472,
+                        41.118979
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Sul",
+                  "text": "O plajă populară situată pe coasta de sud a localității Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657079,
+                        41.088215
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Norte",
+                  "text": "O plajă situată în partea de nord a țărmului din Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657916,
+                        41.092376
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueiros",
+                  "text": "O plajă lângă Valadares, cunoscută pentru peisajul stâncos și surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.666199,
+                        41.121179
+                  ]
+            },
+            {
+                  "name": "Praia Sereia da Costa Verde",
+                  "text": "O plajă de coastă situată în zona Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664044,
+                        41.116699
+                  ]
+            },
+            {
+                  "name": "Praia Canide Sul",
+                  "text": "O plajă cu nisip situată de-a lungul țărmului Atlanticului, lângă Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664276,
+                        41.114236
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "O mică zonă de plajă situată în regiunea Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.659251,
+                        41.095927
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Sul",
+                  "text": "O plajă situată în partea de sud a zonei Madalena.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.660372,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Norte",
+                  "text": "O plajă situată în partea de nord a coastei Madalena.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.661936,
+                        41.103623
+                  ]
+            },
+            {
+                  "name": "Praia de Marbelo",
+                  "text": "O plajă situată pe coastă, lângă Valadares și Madalena.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.663683,
+                        41.10752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Canidelo Norte",
+                  "text": "A beach located on the Atlantic coast near Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664472,
+                        41.118979
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Sul",
+                  "text": "A popular beach situated on the southern coast of Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657079,
+                        41.088215
+                  ]
+            },
+            {
+                  "name": "Praia Valadares Norte",
+                  "text": "A beach located on the northern side of the Valadares shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657916,
+                        41.092376
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueiros",
+                  "text": "A beach known for its rocky landscape and surfing near Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.666199,
+                        41.121179
+                  ]
+            },
+            {
+                  "name": "Praia Sereia da Costa Verde",
+                  "text": "A coastal beach located in the Valadares area.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664044,
+                        41.116699
+                  ]
+            },
+            {
+                  "name": "Praia Canide Sul",
+                  "text": "A sandy beach situated along the Atlantic shoreline near Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.664276,
+                        41.114236
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "A small beach area located in the Valadares region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.659251,
+                        41.095927
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Sul",
+                  "text": "A beach located in the southern part of the Madalena area.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.660372,
+                        41.099691
+                  ]
+            },
+            {
+                  "name": "Praia de Madalena Norte",
+                  "text": "A beach situated in the northern part of the Madalena coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.661936,
+                        41.103623
+                  ]
+            },
+            {
+                  "name": "Praia de Marbelo",
+                  "text": "A beach located along the coast near Valadares and Madalena.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.663683,
+                        41.10752
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg Valadares", hu: "Valadares vára", ro: "Castelul Valadares", en: "Valadares Castle" },
@@ -2308,6 +2794,33 @@ export const portugalHistoryV2: POI[] = [
                         -8.114929,
                         40.747491
                   ]
+            },
+            {
+                  "name": "Piscína dos Maristas",
+                  "text": "Piscína dos Maristas ist ein Schwimmbad in der Nähe der historischen Burg Vouzela.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.107442,
+                        40.723385
+                  ]
+            },
+            {
+                  "name": "Piscinas do Gerós",
+                  "text": "Piscinas do Gerós bietet Schwimmmöglichkeiten in der Umgebung der Burg Vouzela.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.084661,
+                        40.741575
+                  ]
+            },
+            {
+                  "name": "Píscina Municipal",
+                  "text": "Die Píscina Municipal ist ein lokales öffentliches Schwimmbad in der Nähe der Burg Vouzela.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.110381,
+                        40.721822
+                  ]
             }
       ],
       "hu": [
@@ -2381,6 +2894,33 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -8.114929,
                         40.747491
+                  ]
+            },
+            {
+                  "name": "Piscína dos Maristas",
+                  "text": "A Piscína dos Maristas egy úszómedence a történelmi Vouzela vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.107442,
+                        40.723385
+                  ]
+            },
+            {
+                  "name": "Piscinas do Gerós",
+                  "text": "A Piscinas do Gerós úszási lehetőséget biztosít Vouzela vára környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.084661,
+                        40.741575
+                  ]
+            },
+            {
+                  "name": "Píscina Municipal",
+                  "text": "A Píscina Municipal egy helyi nyilvános úszómedence Vouzela vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.110381,
+                        40.721822
                   ]
             }
       ],
@@ -2456,6 +2996,33 @@ export const portugalHistoryV2: POI[] = [
                         -8.114929,
                         40.747491
                   ]
+            },
+            {
+                  "name": "Piscína dos Maristas",
+                  "text": "Piscína dos Maristas este o piscină situată lângă castelul istoric Vouzela.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.107442,
+                        40.723385
+                  ]
+            },
+            {
+                  "name": "Piscinas do Gerós",
+                  "text": "Piscinas do Gerós oferă facilități de înot în vecinătatea castelului Vouzela.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.084661,
+                        40.741575
+                  ]
+            },
+            {
+                  "name": "Píscina Municipal",
+                  "text": "Píscina Municipal este o piscină publică locală situată lângă castelul Vouzela.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.110381,
+                        40.721822
+                  ]
             }
       ],
       "en": [
@@ -2529,6 +3096,33 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -8.114929,
                         40.747491
+                  ]
+            },
+            {
+                  "name": "Piscína dos Maristas",
+                  "text": "Piscína dos Maristas is a swimming pool located near the historic Vouzela Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.107442,
+                        40.723385
+                  ]
+            },
+            {
+                  "name": "Piscinas do Gerós",
+                  "text": "Piscinas do Gerós provides swimming facilities in the vicinity of Vouzela Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.084661,
+                        40.741575
+                  ]
+            },
+            {
+                  "name": "Píscina Municipal",
+                  "text": "Píscina Municipal is a local public swimming pool situated near Vouzela Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.110381,
+                        40.721822
                   ]
             }
       ]
@@ -2713,6 +3307,24 @@ export const portugalHistoryV2: POI[] = [
                         -7.050279,
                         41.172185
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Ar Livre de Torre de Moncorvo",
+                  "text": "Öffentliche Freibäder und ein Freizeitbereich in Torre de Moncorvo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.040937,
+                        41.181094
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
+                  "text": "Eine öffentliche Hallenschwimmanlage in Torre de Moncorvo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.057749,
+                        41.175104
+                  ]
             }
       ],
       "hu": [
@@ -2759,6 +3371,24 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -7.050279,
                         41.172185
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Ar Livre de Torre de Moncorvo",
+                  "text": "Nyilvános szabadtéri úszómedencék és szabadidős terület Torre de Moncorvóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.040937,
+                        41.181094
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
+                  "text": "Nyilvános fedett úszólétesítmény Torre de Moncorvóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.057749,
+                        41.175104
                   ]
             }
       ],
@@ -2807,6 +3437,24 @@ export const portugalHistoryV2: POI[] = [
                         -7.050279,
                         41.172185
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Ar Livre de Torre de Moncorvo",
+                  "text": "Piscine publice în aer liber și zonă de agrement în Torre de Moncorvo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.040937,
+                        41.181094
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
+                  "text": "O unitate publică de înot acoperită situată în Torre de Moncorvo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.057749,
+                        41.175104
+                  ]
             }
       ],
       "en": [
@@ -2853,6 +3501,24 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -7.050279,
                         41.172185
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Ar Livre de Torre de Moncorvo",
+                  "text": "Public outdoor swimming pools and leisure area in Torre de Moncorvo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.040937,
+                        41.181094
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais Cobertas de Torre de Moncorvo",
+                  "text": "A public indoor swimming facility located in Torre de Moncorvo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.057749,
+                        41.175104
                   ]
             }
       ]
@@ -3253,6 +3919,15 @@ export const portugalHistoryV2: POI[] = [
                         -8.678445,
                         40.548642
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "Städtische Schwimmbäder in Vagos in der Nähe von Paço de Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
+                  ]
             }
       ],
       "hu": [
@@ -3290,6 +3965,15 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -8.678445,
                         40.548642
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "Városi uszodák Vagosban, a Paço de Valadares közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
                   ]
             }
       ],
@@ -3329,6 +4013,15 @@ export const portugalHistoryV2: POI[] = [
                         -8.678445,
                         40.548642
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "Piscine municipale în Vagos, în apropiere de Paço de Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
+                  ]
             }
       ],
       "en": [
@@ -3366,6 +4059,15 @@ export const portugalHistoryV2: POI[] = [
                   "coords": [
                         -8.678445,
                         40.548642
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "Municipal swimming pools in Vagos, located near Paço de Valadares.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
                   ]
             }
       ]

@@ -1183,6 +1183,15 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                         29.977582,
                         36.220398
                   ]
+            },
+            {
+                  "name": "Çakıl Plajı",
+                  "text": "Ein Kiesstrand an der lykischen Küste in der Nähe von Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.921888,
+                        36.233836
+                  ]
             }
       ],
       "hu": [
@@ -1202,6 +1211,15 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                   "coords": [
                         29.977582,
                         36.220398
+                  ]
+            },
+            {
+                  "name": "Çakıl Plajı",
+                  "text": "Kavicsos strand a lükiai parton, Myra közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.921888,
+                        36.233836
                   ]
             }
       ],
@@ -1223,6 +1241,15 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                         29.977582,
                         36.220398
                   ]
+            },
+            {
+                  "name": "Çakıl Plajı",
+                  "text": "O plajă cu pietriș pe coasta liciană, în apropiere de Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.921888,
+                        36.233836
+                  ]
             }
       ],
       "en": [
@@ -1242,6 +1269,15 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                   "coords": [
                         29.977582,
                         36.220398
+                  ]
+            },
+            {
+                  "name": "Çakıl Plajı",
+                  "text": "A pebble beach on the Lycian coast near Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.921888,
+                        36.233836
                   ]
             }
       ]

@@ -9848,7 +9848,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville industrielle développée suite à l'exploitation des phosphates.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-youssoufia-cities-v2.webp"},
   {
-    id: "ma-fnideq-cities-v2", "sights": {"de": [{"name": "El Tarajal", "text": "El Tarajal ist ein bekannter Strand in Fnideq.", "category": "recreational", "coords": [-5.343396, 35.871829]}, {"name": "Plage riffiine", "text": "In der Stadt Fnideq gelegen, bietet der Plage riffiine einen leicht zugänglichen und einladenden Abschnitt der marokkanischen Küste. Er ist ein gastfreundlicher Ort für Einheimische und Reisende, um ins Wasser zu springen, im Sand zu entspannen und den Tag im Freien zu genießen. Die unkomplizierte Atmosphäre macht den Strand zu einem stressfreien Ausflugsziel für Familien. An warmen Sommertagen herrschen hier hervorragende Bedingungen für ein ausgiebiges Bad.", "category": "recreational", "coords": [-5.351646, 35.81568]}], "hu": [{"name": "El Tarajal", "text": "Az El Tarajal egy ismert strand Fnideq városában.", "category": "recreational", "coords": [-5.343396, 35.871829]}, {"name": "Plage riffiine", "text": "A Fnideq városában található Plage riffiine egy könnyen megközelíthető és hívogató marokkói partszakaszt kínál. Barátságos hely a helyiek és az utazók számára egyaránt, ahol belemerülhetnek a vízbe, pihenhetnek a homokban és élvezhetik a szabadban töltött napot. A laza légkör miatt a családok számára egy egyszerű, stresszmentes célpont. A meleg nyári napokon kiváló környezetet biztosít a hűsítő úszáshoz.", "category": "recreational", "coords": [-5.351646, 35.81568]}], "ro": [{"name": "El Tarajal", "text": "El Tarajal este o plajă cunoscută din Fnideq.", "category": "recreational", "coords": [-5.343396, 35.871829]}, {"name": "Plage riffiine", "text": "Situată în orașul Fnideq, Plage riffiine oferă o porțiune accesibilă și primitoare de pe coasta Marocului. Este un loc confortabil, unde localnicii și turiștii pot face o baie, se pot relaxa pe nisip și pot petrece o zi în aer liber. Atmosfera relaxată o transformă într-o destinație simplă și fără stres pentru familii. Vizitele în zilele calde de vară garantează un mediu excelent pentru înot.", "category": "recreational", "coords": [-5.351646, 35.81568]}], "en": [{"name": "El Tarajal", "text": "El Tarajal is a notable beach located in Fnideq.", "category": "recreational", "coords": [-5.343396, 35.871829]}, {"name": "Plage riffiine", "text": "Located in the city of Fnideq, Plage riffiine offers an accessible and inviting stretch of Moroccan coastline. It is a welcoming place for locals and travelers to dip into the water, relax on the sand, and enjoy a day outdoors. The easygoing atmosphere makes it a simple, stress-free destination for families. Visiting during the warm summer days ensures an excellent environment for swimming.", "category": "recreational", "coords": [-5.351646, 35.81568]}]},
+    id: "ma-fnideq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Tarajal",
+                  "text": "El Tarajal ist ein bekannter Strand in Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "In der Stadt Fnideq gelegen, bietet der Plage riffiine einen leicht zugänglichen und einladenden Abschnitt der marokkanischen Küste. Er ist ein gastfreundlicher Ort für Einheimische und Reisende, um ins Wasser zu springen, im Sand zu entspannen und den Tag im Freien zu genießen. Die unkomplizierte Atmosphäre macht den Strand zu einem stressfreien Ausflugsziel für Familien. An warmen Sommertagen herrschen hier hervorragende Bedingungen für ein ausgiebiges Bad.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            },
+            {
+                  "name": "Playa de Tramaguera",
+                  "text": "Playa de Tramaguera ist ein Küstenstrand in der Nähe der Stadt Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.34177,
+                        35.874331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Tarajal",
+                  "text": "Az El Tarajal egy ismert strand Fnideq városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "A Fnideq városában található Plage riffiine egy könnyen megközelíthető és hívogató marokkói partszakaszt kínál. Barátságos hely a helyiek és az utazók számára egyaránt, ahol belemerülhetnek a vízbe, pihenhetnek a homokban és élvezhetik a szabadban töltött napot. A laza légkör miatt a családok számára egy egyszerű, stresszmentes célpont. A meleg nyári napokon kiváló környezetet biztosít a hűsítő úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            },
+            {
+                  "name": "Playa de Tramaguera",
+                  "text": "A Playa de Tramaguera egy tengerparti strand Fnideq városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.34177,
+                        35.874331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Tarajal",
+                  "text": "El Tarajal este o plajă cunoscută din Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "Situată în orașul Fnideq, Plage riffiine oferă o porțiune accesibilă și primitoare de pe coasta Marocului. Este un loc confortabil, unde localnicii și turiștii pot face o baie, se pot relaxa pe nisip și pot petrece o zi în aer liber. Atmosfera relaxată o transformă într-o destinație simplă și fără stres pentru familii. Vizitele în zilele calde de vară garantează un mediu excelent pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            },
+            {
+                  "name": "Playa de Tramaguera",
+                  "text": "Playa de Tramaguera este o plajă de coastă situată în apropierea orașului Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.34177,
+                        35.874331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Tarajal",
+                  "text": "El Tarajal is a notable beach located in Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "Located in the city of Fnideq, Plage riffiine offers an accessible and inviting stretch of Moroccan coastline. It is a welcoming place for locals and travelers to dip into the water, relax on the sand, and enjoy a day outdoors. The easygoing atmosphere makes it a simple, stress-free destination for families. Visiting during the warm summer days ensures an excellent environment for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            },
+            {
+                  "name": "Playa de Tramaguera",
+                  "text": "Playa de Tramaguera is a coastal beach located near the town of Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.34177,
+                        35.874331
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.3522, 35.8453],

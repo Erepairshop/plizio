@@ -27274,6 +27274,15 @@ export const austriaCitiesV2: POI[] = [
                         13.586778,
                         47.719238
                   ]
+            },
+            {
+                  "name": "Sole-Außenbecken",
+                  "text": "Ein Sole-Außenbecken in Bad Ischl.",
+                  "category": "recreational",
+                  "coords": [
+                        13.624808,
+                        47.713026
+                  ]
             }
       ],
       "hu": [
@@ -27554,6 +27563,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.586778,
                         47.719238
+                  ]
+            },
+            {
+                  "name": "Sole-Außenbecken",
+                  "text": "Szabadtéri sós vizű medence Bad Ischlben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.624808,
+                        47.713026
                   ]
             }
       ],
@@ -27836,6 +27854,15 @@ export const austriaCitiesV2: POI[] = [
                         13.586778,
                         47.719238
                   ]
+            },
+            {
+                  "name": "Sole-Außenbecken",
+                  "text": "O piscină exterioară cu apă sărată în Bad Ischl.",
+                  "category": "recreational",
+                  "coords": [
+                        13.624808,
+                        47.713026
+                  ]
             }
       ],
       "en": [
@@ -28116,6 +28143,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.586778,
                         47.719238
+                  ]
+            },
+            {
+                  "name": "Sole-Außenbecken",
+                  "text": "An outdoor brine pool in Bad Ischl.",
+                  "category": "recreational",
+                  "coords": [
+                        13.624808,
+                        47.713026
                   ]
             }
       ]

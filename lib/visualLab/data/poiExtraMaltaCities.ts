@@ -3,7 +3,2212 @@ import type { POI } from "./poi";
 
 export const poiExtraMaltaCities: POI[] = [
   {
-    id: "city-valletta-extra", "sights": {"de": [{"name": "Palast des Inquisitors", "text": "Einst Sitz der maltesischen Inquisition, beherbergt der Palast heute ein Museum für Volkskunde.", "category": "museum", "coords": [14.522479, 35.887192]}, {"name": "Saluting Battery", "text": "Eine historische Geschützbatterie in Valletta mit Blick auf den Großen Hafen.", "category": "museum", "coords": [14.512546, 35.894602]}, {"name": "Fort Rinella", "text": "Eine Festung aus dem 19. Jahrhundert, die das berühmte 100-Tonnen-Geschütz beherbergt.", "category": "museum", "coords": [14.531472, 35.893786]}, {"name": "Malta at War Museum", "text": "Dieses Museum dokumentiert Maltas heldenhafte Rolle während der Weltkriege.", "category": "museum", "coords": [14.522372, 35.885419]}, {"name": "Armerija tal-Palazz", "text": "Eine der weltweit bedeutendsten Sammlungen historischer Waffen und Rüstungen im Großmeisterpalast.", "category": "museum", "coords": [14.514341, 35.898515]}, {"name": "National War Museum", "text": "Das im Fort St. Elmo untergebrachte Museum zeigt Maltas Militärgeschichte von der Bronzezeit bis heute.", "category": "museum", "coords": [14.518741, 35.90197]}, {"name": "National Museum of Archaeology", "text": "Das Museum präsentiert eine beeindruckende Sammlung prähistorischer Artefakte Maltas.", "category": "museum", "coords": [14.511157, 35.897513]}, {"name": "Casa Rocca Piccola", "text": "Ein Palast aus dem 16. Jahrhundert in Valletta, der als Museum das aristokratische Leben Maltas zeigt.", "category": "museum", "coords": [14.515326, 35.899827]}, {"name": "Fortizza Sant’ Anġlu", "text": "Eine historische Festung im Zentrum des Grand Harbour, die eine zentrale Rolle in der Geschichte Maltas spielte.", "category": "castle", "coords": [14.518206, 35.89182]}, {"name": "Mużew Marittimu ta' Malta", "text": "Dieses Museum in Birgu zeigt die reiche Seefahrtsgeschichte der maltesischen Inseln.", "category": "museum", "coords": [14.52081, 35.88775]}, {"name": "The Fortress Builders - Fortifications Interpretation Centre", "text": "Ein Museum in Valletta, das sich der Architektur und Geschichte der maltesischen Befestigungsanlagen widmet.", "category": "museum", "coords": [14.509059, 35.899546]}, {"name": "Fort Ricasoli", "text": "Eine große Bastionärfestung in Kalkara, die den Eingang zum Grand Harbour bewacht.", "category": "castle", "coords": [14.526926, 35.896752]}, {"name": "Forti San Salvatore", "text": "Eine historische Verteidigungsanlage in Valletta, die Teil der Befestigungslinien der Stadt ist.", "category": "fortress", "coords": [14.528396, 35.886072]}, {"name": "Saint Barbara Bastion", "text": "Eine Bastion in Valletta mit Panoramablick über den Grand Harbour und die Drei Städte.", "category": "fortress", "coords": [14.514597, 35.896447]}, {"name": "Tempji ta' Kordin", "text": "Eine archäologische Ausgrabungsstätte mit Überresten megalithischer Tempelanlagen in Paola.", "category": "historical", "coords": [14.509039, 35.877082]}, {"name": "Cambridge Battery", "text": "Eine viktorianische Küstenbatterie in Sliema, die einst ein massives 100-Tonnen-Geschütz beherbergte.", "category": "fortress", "coords": [14.509673, 35.909025]}, {"name": "Fort Verdala", "text": "Eine im 19. Jahrhundert von den Briten erbaute Festung in Cospicua.", "category": "fortress", "coords": [14.524082, 35.880803]}, {"name": "Forti Santu Rokku", "text": "Eine Küstenfestung in Kalkara, die Ende des 19. Jahrhunderts zum Schutz der Insel errichtet wurde.", "category": "fortress", "coords": [14.537776, 35.892584]}, {"name": "Il-Monument ta' Spencer", "text": "Ein Denkmal in Blata l-Bajda, das Kapitän Sir Robert Spencer gewidmet ist.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "Bieb is-Sultan", "text": "Ein monumentales Tor in Vittoriosa, das als Haupteingang zu den Cottonera Lines diente.", "category": "historical", "coords": [14.529325, 35.880369]}, {"name": "Malta Memorial", "text": "Ein Denkmal in Floriana zur Erinnerung an die im Zweiten Weltkrieg gefallenen Commonwealth-Luftstreitkräfte.", "category": "historical", "coords": [14.507819, 35.894559]}, {"name": "Auberge d’Auvergne et de Provence", "text": "Ein historisches Gebäude des Johanniterordens in Valletta, das einst Ritter aus der Auvergne und Provence beherbergte.", "category": "historical", "coords": [14.52258, 35.888463]}, {"name": "Victoria Gate", "text": "Ein im 19. Jahrhundert erbautes Stadttor in Valletta, das zum Hafen führt.", "category": "fortress", "coords": [14.513644, 35.895982]}, {"name": "Teatru Manoel", "text": "Eines der ältesten noch bespielten Theater Europas, bekannt für seine barocke Architektur.", "category": "cultural", "coords": [14.512574, 35.899765]}, {"name": "Holy Trinity Church", "text": "Eine anglikanische Kirche in Sliema, die durch ihre neugotische Architektur besticht.", "category": "religious", "coords": [14.495537, 35.909751]}, {"name": "Il-Knisja ta' San Pawl Nawfraġju", "text": "Eine bedeutende Barockkirche in Valletta, die an den Schiffbruch des Apostels Paulus erinnert.", "category": "religious", "coords": [14.513855, 35.897397]}, {"name": "Il-Knisja ta' Santa Katerina ta' Lixandra", "text": "Eine reich verzierte Barockkirche in Valletta, die ursprünglich für die italienischen Ritter des Ordens erbaut wurde.", "category": "religious", "coords": [14.51104, 35.896237]}, {"name": "Il-Parroċċa tal-Gżira (Monte Karmeli)", "text": "Eine markante Pfarrkirche in Gżira, die dem Karmeliterorden gewidmet ist.", "category": "religious", "coords": [14.494775, 35.904982]}, {"name": "Knisja tas-Sarria", "text": "Eine von Mattia Preti entworfene Rundkirche in Floriana, die nach einer Pestepidemie erbaut wurde.", "category": "religious", "coords": [14.503691, 35.891918]}, {"name": "Il-Moskea Mariam Al-Batool", "text": "Die einzige offiziell anerkannte Moschee auf den maltesischen Inseln, gelegen in Paola.", "category": "religious", "coords": [14.508842, 35.875888]}, {"name": "Knisja tal-Karmnu", "text": "Eine moderne Pfarrkirche in Fgura, bekannt für ihre einzigartige zeitgenössische Architektur.", "category": "religious", "coords": [14.520882, 35.872951]}, {"name": "Collegiate Church of the Immaculate Conception", "text": "Eine bedeutende Kirche in Cospicua, die für ihre religiösen Kunstwerke bekannt ist.", "category": "religious", "coords": [14.520862, 35.881199]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "Die imposante Pfarrkirche von Ħamrun, die dem heiligen Cajetan gewidmet ist.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Knisja tal-Ġiżwiti", "text": "Einer der ältesten Kirchenkomplexe in Valletta, ursprünglich von den Jesuiten im 16. Jahrhundert gegründet.", "category": "religious", "coords": [14.515288, 35.898369]}, {"name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor", "text": "Eine bedeutende Pfarrkirche in Sliema, die dem Heiligsten Herzen Jesu gewidmet ist.", "category": "religious", "coords": [14.50076, 35.91065]}, {"name": "Our Lady of Mount Carmel", "text": "Eine markante neugotische Kirche an der Balluta Bay in St. Julian's.", "category": "religious", "coords": [14.495108, 35.914594]}, {"name": "Bible Baptist Church", "text": "Eine Baptistenkirche in Gżira, die der christlichen Gemeinschaft vor Ort dient.", "category": "religious", "coords": [14.490594, 35.908597]}, {"name": "Il-Madonna tad-Duluri", "text": "Eine kleine Kirche in Pietà, bekannt für ihre traditionelle maltesische Architektur.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Saint Andrew's Scots Church", "text": "Die erste presbyterianische Kirche Maltas, gelegen in Valletta und erbaut im neugotischen Stil.", "category": "religious", "coords": [14.509798, 35.897624]}, {"name": "Il-Port il-Kbir", "text": "Maltas größter Naturhafen, Schauplatz vieler historischer Ereignisse seit der Antike.", "category": "landmark", "coords": [14.51869, 35.895023]}, {"name": "Il-Port ta' Marsamxett", "text": "Ein natürlicher Hafen nördlich von Valletta, der für seine Jachthäfen und Ausblicke bekannt ist.", "category": "landmark", "coords": [14.502336, 35.906957]}, {"name": "Il-Batterija tas-Sliema", "text": "Eine ehemalige britische Artillerie-Batterie in Sliema, heute als Restaurant genutzt.", "category": "landmark", "coords": [14.507173, 35.914119]}, {"name": "Il-Monument ta' Sir Alexander Ball", "text": "Ein Denkmal in Form eines dorischen Tempels in den Lower Barrakka Gardens von Valletta.", "category": "landmark", "coords": [14.517551, 35.897489]}, {"name": "Co-Kathedrale St. Johannes", "text": "Eine prachtvolle Barockkathedrale in Valletta, berühmt für ihre kunstvollen Marmorböden und Caravaggio-Gemälde.", "category": "landmark", "coords": [14.512623, 35.897697]}, {"name": "Il-Katidral Anglikan ta' San Pawl", "text": "Eine markante anglikanische Kathedrale, deren Turm die Skyline von Valletta prägt.", "category": "landmark", "coords": [14.512013, 35.900696]}, {"name": "Stella Maris Sliema Parish Church", "text": "Die erste Pfarrkirche von Sliema, bekannt für ihre religiöse Bedeutung in der Gemeinde.", "category": "landmark", "coords": [14.50416, 35.911983]}, {"name": "Il-Berġa ta' Bavjera", "text": "Ein prachtvoller Palast aus dem 18. Jahrhundert in Valletta, der heute Regierungsstellen beherbergt.", "category": "landmark", "coords": [14.514179, 35.901531]}, {"name": "Il-Knisja ta' Santu Wistin", "text": "Eine historische Kirche in Valletta, die dem heiligen Augustinus gewidmet ist.", "category": "landmark", "coords": [14.510831, 35.898701]}, {"name": "Ġibjun Navali ta' Ħal Farruġ", "text": "Das in Valletta gelegene Ġibjun Navali ta' Ħal Farruġ ist ein natürliches Reservoir mit einer malerischen Umgebung. Dieses maltesische Gewässer bietet eine friedliche Atmosphäre abseits der belebten Straßen. Es ist ein idealer Ort für Besucher, die einen entspannten Spaziergang am Wasser unternehmen möchten.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Ġibjun ta' Santa Marija", "text": "Ġibjun ta' Santa Marija ist eine malerische Seenlandschaft inmitten von Valletta. Diese natürliche Besonderheit verleiht der maltesischen Hauptstadt einen Hauch von Ruhe. Gäste können einen ruhigen und entspannenden Spaziergang entlang der friedlichen Ufer genießen.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "Die St Helen's Naval Reservoirs in der Hauptstadt Valletta bieten eine ruhige Naturlandschaft. Diese historischen maltesischen Wasserbecken dienen heute als malerisches Naherholungsgebiet. Ein Besuch hier verspricht ein ruhiges und entspannendes Spaziergangserlebnis.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Il-Ġibjun ta' Kordin", "text": "Die ruhigen Gewässer von Il-Ġibjun ta' Kordin können in der Stadt Valletta bewundert werden. Dieser Ort in der Natur zeichnet sich als charmanter Platz in Malta für den Genuss im Freien aus. Er eignet sich hervorragend für alle, die während ihrer Stadtbesichtigung einen friedlichen Spaziergang suchen.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Johnny Agius Memorial", "text": "Das Johnny Agius Memorial dient als familienfreundlicher Spielplatz direkt in Valletta. Dieser maltesische Freizeitbereich bietet eine tolle Umgebung, in der Kinder frei spielen können. Familien, die die Gegend besuchen, finden hier einen wunderbaren Ort für eine nachmittägliche Pause.", "category": "family", "coords": [14.487401, 35.912991]}, {"name": "Spazju Rikreattiv il-Mandraġġ", "text": "Spazju Rikreattiv il-Mandraġġ ist ein lokaler Spielplatz in Valletta. Er wurde für Familienausflüge in Malta konzipiert und bietet jüngeren Besuchern verschiedene spielerische Aktivitäten. Es ist ein ausgezeichnetes Ziel für Eltern, die ihre Kinder sich ein wenig austoben lassen möchten.", "category": "family", "coords": [14.510907, 35.900522]}, {"name": "SAC Lower Ground", "text": "Der SAC Lower Ground in Valletta ist ein einladender Spielplatz für Kinder. Diese maltesische Familienattraktion ist gut für aktives Spielen und Spaß im Freien ausgestattet. Er ist ein perfekter Treffpunkt für einen herrlichen Tag mit den Kindern.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "Der SAC Upper Ground ist ein lokaler Spielplatz in Valletta, der einen tollen Bereich für die Kleinen bietet. Er bringt einen Hauch von Freude in die Familienspaziergänge durch die maltesische Hauptstadt. Kinder finden hier leicht Platz, um an lustigen Aktivitäten und Spielen teilzunehmen.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Spazju Rikreattiv George Dingli", "text": "Spazju Rikreattiv George Dingli ist ein fröhliches Familien-Erholungsgebiet in Valletta. Mit seinem speziellen Spielplatz richtet es sich besonders an Kinder, die Malta besuchen. Der Ort garantiert eine sichere und unterhaltsame Pause während der Stadterkundungen.", "category": "family", "coords": [14.517244, 35.888912]}], "hu": [{"name": "Inquisitor's Palace", "text": "Egykor a máltai inkvizíció székhelye, ma néprajzi múzeumnak ad otthont.", "category": "museum", "coords": [14.522479, 35.887192]}, {"name": "Saluting Battery", "text": "Történelmi ágyúüteg Vallettában, kilátással a Nagy Kikötőre.", "category": "museum", "coords": [14.512546, 35.894602]}, {"name": "Fort Rinella", "text": "19. századi erődítmény, amely a híres 100 tonnás ágyúnak ad otthont.", "category": "museum", "coords": [14.531472, 35.893786]}, {"name": "Malta at War Museum", "text": "A múzeum Málta világháborúkban betöltött hősies szerepét mutatja be.", "category": "museum", "coords": [14.522372, 35.885419]}, {"name": "Armerija tal-Palazz", "text": "A világ egyik legjelentősebb történelmi fegyver- és páncélgyűjteménye a Nagymesteri Palotában.", "category": "museum", "coords": [14.514341, 35.898515]}, {"name": "National War Museum", "text": "A Szent Elmo-erődben található múzeum Málta hadtörténetét mutatja be a bronzkortól napjainkig.", "category": "museum", "coords": [14.518741, 35.90197]}, {"name": "National Museum of Archaeology", "text": "A múzeum Málta prehisztorikus műtárgyainak lenyűgöző gyűjteményét mutatja be.", "category": "museum", "coords": [14.511157, 35.897513]}, {"name": "Casa Rocca Piccola", "text": "16. századi palota Vallettában, amely múzeumként mutatja be a máltai arisztokrácia életét.", "category": "museum", "coords": [14.515326, 35.899827]}, {"name": "Fortizza Sant’ Anġlu", "text": "Történelmi erőd a Nagy Kikötő központjában, amely központi szerepet játszott Málta történelmében.", "category": "castle", "coords": [14.518206, 35.89182]}, {"name": "Mużew Marittimu ta' Malta", "text": "Ez a birgui múzeum a máltai szigetek gazdag tengerészeti történelmét mutatja be.", "category": "museum", "coords": [14.52081, 35.88775]}, {"name": "The Fortress Builders - Fortifications Interpretation Centre", "text": "Vallettai múzeum, amely a máltai erődítmények építészetének és történelmének szentelt.", "category": "museum", "coords": [14.509059, 35.899546]}, {"name": "Fort Ricasoli", "text": "Hatalmas bástyás erőd Kalkarában, amely a Nagy Kikötő bejáratát őrzi.", "category": "castle", "coords": [14.526926, 35.896752]}, {"name": "Forti San Salvatore", "text": "Történelmi védelmi létesítmény Vallettában, amely a város erődítményrendszerének része.", "category": "fortress", "coords": [14.528396, 35.886072]}, {"name": "Saint Barbara Bastion", "text": "Bástya Vallettában, ahonnan panorámás kilátás nyílik a Nagy Kikötőre és a Három Városra.", "category": "fortress", "coords": [14.514597, 35.896447]}, {"name": "Tempji ta' Kordin", "text": "Régészeti lelőhely megalitikus templomok maradványaival Paolában.", "category": "historical", "coords": [14.509039, 35.877082]}, {"name": "Cambridge Battery", "text": "Viktoriánus kori parti üteg Sliemában, amely egykor egy hatalmas, 100 tonnás ágyúnak adott otthont.", "category": "fortress", "coords": [14.509673, 35.909025]}, {"name": "Fort Verdala", "text": "A britek által a 19. században épített erőd Cospicuában.", "category": "fortress", "coords": [14.524082, 35.880803]}, {"name": "Forti Santu Rokku", "text": "Parti erőd Kalkarában, amelyet a 19. század végén építettek a sziget védelmére.", "category": "fortress", "coords": [14.537776, 35.892584]}, {"name": "Il-Monument ta' Spencer", "text": "Emlékmű Blata l-Bajdában, amelyet Sir Robert Spencer kapitánynak szenteltek.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "Bieb is-Sultan", "text": "Monumentális kapu Vittoriosában, amely a Cottonera-vonalak főbejárataként szolgált.", "category": "historical", "coords": [14.529325, 35.880369]}, {"name": "Malta Memorial", "text": "Emlékmű Florianában a második világháborúban elesett Nemzetközösségi légierő katonáinak emlékére.", "category": "historical", "coords": [14.507819, 35.894559]}, {"name": "Auberge d’Auvergne et de Provence", "text": "A máltai lovagrend történelmi épülete Vallettában, amely egykor az Auvergne-ből és Provence-ból származó lovagok szállása volt.", "category": "historical", "coords": [14.52258, 35.888463]}, {"name": "Victoria Gate", "text": "19. században épült városkapu Vallettában, amely a kikötőhöz vezet.", "category": "fortress", "coords": [14.513644, 35.895982]}, {"name": "Teatru Manoel", "text": "Európa egyik legrégebbi, ma is működő színháza, amely barokk építészetéről ismert.", "category": "cultural", "coords": [14.512574, 35.899765]}, {"name": "Holy Trinity Church", "text": "Anglikán templom Sliemában, amely neogótikus építészetével tűnik ki.", "category": "religious", "coords": [14.495537, 35.909751]}, {"name": "Il-Knisja ta' San Pawl Nawfraġju", "text": "Jelentős barokk templom Vallettában, amely Szent Pál apostol hajótörésének állít emléket.", "category": "religious", "coords": [14.513855, 35.897397]}, {"name": "Il-Knisja ta' Santa Katerina ta' Lixandra", "text": "Gazdagon díszített barokk templom Vallettában, amelyet eredetileg a rend olasz lovagjai számára építettek.", "category": "religious", "coords": [14.51104, 35.896237]}, {"name": "Il-Parroċċa tal-Gżira (Monte Karmeli)", "text": "Jellegzetes plébániatemplom Gżirában, amelyet a karmelita rendnek szenteltek.", "category": "religious", "coords": [14.494775, 35.904982]}, {"name": "Knisja tas-Sarria", "text": "Mattia Preti által tervezett körtemplom Florianában, amelyet egy pestisjárvány után építettek.", "category": "religious", "coords": [14.503691, 35.891918]}, {"name": "Il-Moskea Mariam Al-Batool", "text": "A máltai szigetek egyetlen hivatalosan elismert mecsete Paolában.", "category": "religious", "coords": [14.508842, 35.875888]}, {"name": "Knisja tal-Karmnu", "text": "Modern plébániatemplom Fgurában, amely egyedülálló kortárs építészetéről ismert.", "category": "religious", "coords": [14.520882, 35.872951]}, {"name": "Collegiate Church of the Immaculate Conception", "text": "Jelentős templom Cospicuában, amely vallási műalkotásairól ismert.", "category": "religious", "coords": [14.520862, 35.881199]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "Ħamrun impozáns plébániatemploma, amelyet Szent Kajetánnak szenteltek.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Knisja tal-Ġiżwiti", "text": "Valletta egyik legrégebbi templomegyüttese, amelyet eredetileg a jezsuiták alapítottak a 16. században.", "category": "religious", "coords": [14.515288, 35.898369]}, {"name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor", "text": "Jelentős plébániatemplom Sliemában, amelyet Jézus Szent Szívének szenteltek.", "category": "religious", "coords": [14.50076, 35.91065]}, {"name": "Our Lady of Mount Carmel", "text": "Jellegzetes neogótikus templom a St. Julian's-i Balluta-öbölnél.", "category": "religious", "coords": [14.495108, 35.914594]}, {"name": "Bible Baptist Church", "text": "Baptista templom Gżirában, amely a helyi keresztény közösséget szolgálja.", "category": "religious", "coords": [14.490594, 35.908597]}, {"name": "Il-Madonna tad-Duluri", "text": "Kicsi templom Pietàban, amely hagyományos máltai építészetéről ismert.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Saint Andrew's Scots Church", "text": "Málta első presbiteriánus temploma Vallettában, amely neogótikus stílusban épült.", "category": "religious", "coords": [14.509798, 35.897624]}, {"name": "Il-Port il-Kbir", "text": "Málta legnagyobb természetes kikötője, számos történelmi esemény helyszíne az ókor óta.", "category": "landmark", "coords": [14.51869, 35.895023]}, {"name": "Il-Port ta' Marsamxett", "text": "Természetes kikötő Vallettától északra, amely jachtkikötőiről és kilátásáról ismert.", "category": "landmark", "coords": [14.502336, 35.906957]}, {"name": "Il-Batterija tas-Sliema", "text": "Egykori brit tüzérségi üteg Sliemában, ma étteremként működik.", "category": "landmark", "coords": [14.507173, 35.914119]}, {"name": "Il-Monument ta' Sir Alexander Ball", "text": "Dór templom formájú emlékmű a vallettai Alsó Barrakka-kertekben.", "category": "landmark", "coords": [14.517551, 35.897489]}, {"name": "Saint John's Co-Cathedral", "text": "Pompás barokk katedrális Vallettában, amely díszes márványpadlójáról és Caravaggio-festményeiről híres.", "category": "landmark", "coords": [14.512623, 35.897697]}, {"name": "Il-Katidral Anglikan ta' San Pawl", "text": "Jellegzetes anglikán székesegyház, amelynek tornya meghatározza Valletta látképét.", "category": "landmark", "coords": [14.512013, 35.900696]}, {"name": "Stella Maris Sliema Parish Church", "text": "Sliema első plébániatemploma, amely a közösségben betöltött vallási jelentőségéről ismert.", "category": "landmark", "coords": [14.50416, 35.911983]}, {"name": "Il-Berġa ta' Bavjera", "text": "Pompás 18. századi palota Vallettában, amely ma kormányzati hivataloknak ad otthont.", "category": "landmark", "coords": [14.514179, 35.901531]}, {"name": "Il-Knisja ta' Santu Wistin", "text": "Történelmi templom Vallettában, amelyet Szent Ágostonnak szenteltek.", "category": "landmark", "coords": [14.510831, 35.898701]}, {"name": "Ġibjun Navali ta' Ħal Farruġ", "text": "A Valletta városában található Ġibjun Navali ta' Ħal Farruġ egy természetes víztározó, amely festői környezetet kínál. Ez a máltai vízfelület békés atmoszférát biztosít a forgalmas utcáktól távol. Ideális hely azoknak a látogatóknak, akik egy pihentető sétára vágynak a vízparton.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Ġibjun ta' Santa Marija", "text": "A Ġibjun ta' Santa Marija egy festői tó, amely Valletta szívében helyezkedik el. Ez a természeti kincs egy kis nyugalmat csempész a máltai fővárosba. A vendégek csendes és pihentető sétát tehetnek a nyugodt part mentén.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "A fővárosban, Vallettában található St Helen's Naval Reservoirs egy békés természeti tájat tár a látogatók elé. Ezek a történelmi máltai medencék ma festői rekreációs területként szolgálnak. Az itteni látogatás nyugodt és pihentető sétaélményt ígér.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Il-Ġibjun ta' Kordin", "text": "Az Il-Ġibjun ta' Kordin nyugodt vizei Valletta városában csodálhatók meg. Ez a természeti helyszín Málta egyik bájos pontja a szabadtéri kikapcsolódáshoz. Tökéletesen alkalmas azok számára, akik egy békés sétára vágynak városnézés közben.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Johnny Agius Memorial", "text": "A Johnny Agius Memorial egy családbarát játszótérként működik közvetlenül Vallettában. Ez a máltai rekreációs tér nagyszerű környezetet kínál, ahol a gyerekek szabadon játszhatnak. A környékre látogató családok csodálatos helynek fogják találni egy délutáni pihenéshez.", "category": "family", "coords": [14.487401, 35.912991]}, {"name": "Spazju Rikreattiv il-Mandraġġ", "text": "A Spazju Rikreattiv il-Mandraġġ egy dedikált helyi játszótér Valletta területén. A máltai családi kirándulásokhoz tervezve különféle játékos tevékenységeket biztosít a fiatalabb látogatóknak. Kiváló célpont azoknak a szülőknek, akik szeretnék, ha gyermekeik levezethetnék az energiájukat.", "category": "family", "coords": [14.510907, 35.900522]}, {"name": "SAC Lower Ground", "text": "A Vallettában található SAC Lower Ground hívogató játszótérként szolgál a gyermekek számára. Ez a máltai családi látványosság jól felszerelt az aktív játékhoz és a szabadtéri szórakozáshoz. Tökéletes gyülekezőhely egy kellemes gyerekekkel töltött naphoz.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "A fiatalok számára nagyszerű területet biztosító SAC Upper Ground egy helyi játszótér Vallettában. Egy kis örömet csempész a máltai főváros körüli családi sétákba. A gyerekek itt könnyen találhatnak teret a szórakoztató tevékenységekhez és játékokhoz.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Spazju Rikreattiv George Dingli", "text": "A Spazju Rikreattiv George Dingli egy vidám családi rekreációs terület Valletta szívében. A kifejezetten játszótérként működő hely a Máltára látogató gyermekeket szolgálja ki. Ez a pont biztonságos és szórakoztató pihenést garantál a városi felfedezések során.", "category": "family", "coords": [14.517244, 35.888912]}], "ro": [{"name": "Inquisitor's Palace", "text": "Fost sediu al Inchiziției malteze, palatul găzduiește astăzi un muzeu de etnografie.", "category": "museum", "coords": [14.522479, 35.887192]}, {"name": "Saluting Battery", "text": "O baterie istorică de artilerie din Valletta, cu vedere spre Marele Port.", "category": "museum", "coords": [14.512546, 35.894602]}, {"name": "Fort Rinella", "text": "O fortificație din secolul al XIX-lea care găzduiește celebrul tun de 100 de tone.", "category": "museum", "coords": [14.531472, 35.893786]}, {"name": "Malta at War Museum", "text": "Acest muzeu documentează rolul eroic al Maltei în timpul războaielor mondiale.", "category": "museum", "coords": [14.522372, 35.885419]}, {"name": "Armerija tal-Palazz", "text": "Una dintre cele mai importante colecții de arme și armuri istorice din lume, situată în Palatul Marilor Maeștri.", "category": "museum", "coords": [14.514341, 35.898515]}, {"name": "National War Museum", "text": "Găzduit în Fortul St. Elmo, muzeul prezintă istoria militară a Maltei din epoca bronzului până în prezent.", "category": "museum", "coords": [14.518741, 35.90197]}, {"name": "National Museum of Archaeology", "text": "Muzeul prezintă o colecție impresionantă de artefacte preistorice din Malta.", "category": "museum", "coords": [14.511157, 35.897513]}, {"name": "Casa Rocca Piccola", "text": "Un palat din secolul al XVI-lea din Valletta, care funcționează ca muzeu ce prezintă viața aristocratică malteză.", "category": "museum", "coords": [14.515326, 35.899827]}, {"name": "Fortizza Sant’ Anġlu", "text": "O fortăreață istorică în centrul Marelui Port, care a jucat un rol central în istoria Maltei.", "category": "castle", "coords": [14.518206, 35.89182]}, {"name": "Mużew Marittimu ta' Malta", "text": "Acest muzeu din Birgu prezintă bogata istorie maritimă a insulelor malteze.", "category": "museum", "coords": [14.52081, 35.88775]}, {"name": "The Fortress Builders - Fortifications Interpretation Centre", "text": "Un muzeu din Valletta dedicat arhitecturii și istoriei fortificațiilor malteze.", "category": "museum", "coords": [14.509059, 35.899546]}, {"name": "Fort Ricasoli", "text": "O mare fortăreață cu bastioane în Kalkara, care păzește intrarea în Marele Port.", "category": "castle", "coords": [14.526926, 35.896752]}, {"name": "Forti San Salvatore", "text": "O structură de apărare istorică din Valletta, parte a liniilor de fortificații ale orașului.", "category": "fortress", "coords": [14.528396, 35.886072]}, {"name": "Saint Barbara Bastion", "text": "Un bastion în Valletta care oferă vedere panoramică asupra Marelui Port și a celor Trei Orașe.", "category": "fortress", "coords": [14.514597, 35.896447]}, {"name": "Tempji ta' Kordin", "text": "Un sit arheologic cu vestigii ale unor temple megalitice în Paola.", "category": "historical", "coords": [14.509039, 35.877082]}, {"name": "Cambridge Battery", "text": "O baterie de coastă victoriană în Sliema, care găzduia odinioară un tun masiv de 100 de tone.", "category": "fortress", "coords": [14.509673, 35.909025]}, {"name": "Fort Verdala", "text": "O fortăreață construită de britanici în secolul al XIX-lea în Cospicua.", "category": "fortress", "coords": [14.524082, 35.880803]}, {"name": "Forti Santu Rokku", "text": "Un fort de coastă în Kalkara, construit la sfârșitul secolului al XIX-lea pentru a proteja insula.", "category": "fortress", "coords": [14.537776, 35.892584]}, {"name": "Il-Monument ta' Spencer", "text": "Un monument în Blata l-Bajda, dedicat căpitanului Sir Robert Spencer.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "Bieb is-Sultan", "text": "O poartă monumentală în Vittoriosa, care servea drept intrare principală în Liniile Cottonera.", "category": "historical", "coords": [14.529325, 35.880369]}, {"name": "Malta Memorial", "text": "Un monument în Floriana care comemorează forțele aeriene ale Commonwealth-ului căzute în al Doilea Război Mondial.", "category": "historical", "coords": [14.507819, 35.894559]}, {"name": "Auberge d’Auvergne et de Provence", "text": "O clădire istorică a Ordinului Sfântului Ioan din Valletta, care adăpostea cavalerii din Auvergne și Provence.", "category": "historical", "coords": [14.52258, 35.888463]}, {"name": "Victoria Gate", "text": "O poartă a orașului construită în secolul al XIX-lea în Valletta, care duce spre port.", "category": "fortress", "coords": [14.513644, 35.895982]}, {"name": "Teatru Manoel", "text": "Unul dintre cele mai vechi teatre funcționale din Europa, cunoscut pentru arhitectura sa barocă.", "category": "cultural", "coords": [14.512574, 35.899765]}, {"name": "Holy Trinity Church", "text": "O biserică anglicană din Sliema, remarcabilă prin arhitectura sa neogotică.", "category": "religious", "coords": [14.495537, 35.909751]}, {"name": "Il-Knisja ta' San Pawl Nawfraġju", "text": "O biserică barocă importantă din Valletta, care comemorează naufragiul Sfântului Apostol Pavel.", "category": "religious", "coords": [14.513855, 35.897397]}, {"name": "Il-Knisja ta' Santa Katerina ta' Lixandra", "text": "O biserică barocă bogat decorată din Valletta, construită inițial pentru cavalerii italieni ai ordinului.", "category": "religious", "coords": [14.51104, 35.896237]}, {"name": "Il-Parroċċa tal-Gżira (Monte Karmeli)", "text": "O biserică parohială distinctivă în Gżira, dedicată ordinului carmelit.", "category": "religious", "coords": [14.494775, 35.904982]}, {"name": "Knisja tas-Sarria", "text": "O biserică circulară în Floriana proiectată de Mattia Preti, construită după o epidemie de ciumă.", "category": "religious", "coords": [14.503691, 35.891918]}, {"name": "Il-Moskea Mariam Al-Batool", "text": "Singura moschee recunoscută oficial din insulele malteze, situată în Paola.", "category": "religious", "coords": [14.508842, 35.875888]}, {"name": "Knisja tal-Karmnu", "text": "O biserică parohială modernă în Fgura, cunoscută pentru arhitectura sa contemporană unică.", "category": "religious", "coords": [14.520882, 35.872951]}, {"name": "Collegiate Church of the Immaculate Conception", "text": "O biserică importantă din Cospicua, cunoscută pentru operele sale de artă religioasă.", "category": "religious", "coords": [14.520862, 35.881199]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "Impozanta biserică parohială din Ħamrun, dedicată Sfântului Cajetan.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Knisja tal-Ġiżwiti", "text": "Unul dintre cele mai vechi complexe bisericești din Valletta, fondat inițial de iezuiți în secolul al XVI-lea.", "category": "religious", "coords": [14.515288, 35.898369]}, {"name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor", "text": "O biserică parohială importantă din Sliema, dedicată Inimii Preasfinte a lui Isus.", "category": "religious", "coords": [14.50076, 35.91065]}, {"name": "Our Lady of Mount Carmel", "text": "O biserică neogotică distinctivă situată în Golful Balluta din St. Julian's.", "category": "religious", "coords": [14.495108, 35.914594]}, {"name": "Bible Baptist Church", "text": "O biserică baptistă în Gżira, care deservește comunitatea creștină locală.", "category": "religious", "coords": [14.490594, 35.908597]}, {"name": "Il-Madonna tad-Duluri", "text": "O biserică mică din Pietà, cunoscută pentru arhitectura sa tradițională malteză.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Saint Andrew's Scots Church", "text": "Prima biserică presbiteriană din Malta, situată în Valletta și construită în stil neogotic.", "category": "religious", "coords": [14.509798, 35.897624]}, {"name": "Il-Port il-Kbir", "text": "Cel mai mare port natural al Maltei, locul multor evenimente istorice încă din antichitate.", "category": "landmark", "coords": [14.51869, 35.895023]}, {"name": "Il-Port ta' Marsamxett", "text": "Un port natural la nord de Valletta, cunoscut pentru porturile sale de agrement și priveliști.", "category": "landmark", "coords": [14.502336, 35.906957]}, {"name": "Il-Batterija tas-Sliema", "text": "O fostă baterie de artilerie britanică în Sliema, utilizată astăzi ca restaurant.", "category": "landmark", "coords": [14.507173, 35.914119]}, {"name": "Il-Monument ta' Sir Alexander Ball", "text": "Un monument sub formă de templu doric în Grădinile Barrakka de Jos din Valletta.", "category": "landmark", "coords": [14.517551, 35.897489]}, {"name": "Catedrala catolică „Sf. Ioan”", "text": "O magnifică catedrală barocă din Valletta, faimoasă pentru podelele de marmură elaborate și picturile lui Caravaggio.", "category": "landmark", "coords": [14.512623, 35.897697]}, {"name": "Il-Katidral Anglikan ta' San Pawl", "text": "O catedrală anglicană proeminentă, a cărei turlă domină orizontul orașului Valletta.", "category": "landmark", "coords": [14.512013, 35.900696]}, {"name": "Stella Maris Sliema Parish Church", "text": "Prima biserică parohială din Sliema, cunoscută pentru importanța sa religioasă în comunitate.", "category": "landmark", "coords": [14.50416, 35.911983]}, {"name": "Il-Berġa ta' Bavjera", "text": "Un palat magnific din secolul al XVIII-lea din Valletta, care adăpostește astăzi birouri guvernamentale.", "category": "landmark", "coords": [14.514179, 35.901531]}, {"name": "Il-Knisja ta' Santu Wistin", "text": "O biserică istorică din Valletta dedicată Sfântului Augustin.", "category": "landmark", "coords": [14.510831, 35.898701]}, {"name": "Ġibjun Navali ta' Ħal Farruġ", "text": "Situat în Valletta, Ġibjun Navali ta' Ħal Farruġ este un rezervor natural care oferă un cadru pitoresc. Acest ochi de apă maltez asigură o atmosferă liniștită, departe de străzile aglomerate. Este un loc ideal pentru vizitatorii care doresc să facă o plimbare relaxantă lângă apă.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Ġibjun ta' Santa Marija", "text": "Ġibjun ta' Santa Marija este un lac pitoresc situat în interiorul orașului Valletta. Această caracteristică naturală adaugă o notă de liniște capitalei malteze. Oaspeții se pot bucura de o plimbare liniștită și relaxantă de-a lungul malurilor sale calme.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "Situate în capitala Valletta, St Helen's Naval Reservoirs prezintă un peisaj natural senin. Aceste bazine de apă istorice din Malta servesc acum ca o zonă de recreere pitorească. O vizită aici promite o experiență de plimbare calmă și relaxantă.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Il-Ġibjun ta' Kordin", "text": "Apele liniștite de la Il-Ġibjun ta' Kordin pot fi admirate în orașul Valletta. Acest sit natural se remarcă ca un loc fermecător în Malta pentru bucuria în aer liber. Este perfect potrivit pentru cei care caută o plimbare pașnică în timpul turului lor prin oraș.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Johnny Agius Memorial", "text": "Johnny Agius Memorial funcționează ca un loc de joacă potrivit pentru familii, chiar în Valletta. Acest spațiu de recreere maltez oferă un mediu excelent în care copiii se pot juca liber. Familiile care vizitează zona îl vor considera un loc minunat pentru o pauză de după-amiază.", "category": "family", "coords": [14.487401, 35.912991]}, {"name": "Spazju Rikreattiv il-Mandraġġ", "text": "Spazju Rikreattiv il-Mandraġġ este un loc de joacă local dedicat, situat în Valletta. Conceput pentru ieșirile în familie în Malta, acesta oferă diverse activități jucăușe pentru vizitatorii mai tineri. Este o destinație excelentă pentru părinții care doresc să își lase copiii să își consume energia.", "category": "family", "coords": [14.510907, 35.900522]}, {"name": "SAC Lower Ground", "text": "Situat în Valletta, SAC Lower Ground servește drept un loc de joacă primitor pentru copii. Această atracție de familie din Malta este bine echipată pentru joc activ și distracție în aer liber. Reprezintă un loc de întâlnire perfect pentru o zi încântătoare petrecută cu copiii.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "Oferind o zonă excelentă pentru cei mici, SAC Upper Ground este un loc de joacă local în Valletta. Acesta aduce o notă de bucurie plimbărilor în familie prin capitala malteză. Copiii pot găsi cu ușurință spațiu aici pentru a se implica în activități distractive și jocuri.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Spazju Rikreattiv George Dingli", "text": "Spazju Rikreattiv George Dingli este o zonă de recreere veselă pentru familii, amplasată în Valletta. Oferind un loc de joacă dedicat, acesta se adresează în mod special copiilor care vizitează Malta. Locul garantează o pauză sigură și distractivă în timpul explorărilor urbane.", "category": "family", "coords": [14.517244, 35.888912]}], "en": [{"name": "Inquisitor's Palace", "text": "Once the seat of the Maltese Inquisition, the palace now houses an ethnography museum.", "category": "museum", "coords": [14.522479, 35.887192]}, {"name": "Saluting Battery", "text": "A historic artillery battery in Valletta overlooking the Grand Harbour.", "category": "museum", "coords": [14.512546, 35.894602]}, {"name": "Fort Rinella", "text": "A 19th-century fortification housing the famous 100-ton gun.", "category": "museum", "coords": [14.531472, 35.893786]}, {"name": "Malta at War Museum", "text": "This museum documents Malta's heroic role during the World Wars.", "category": "museum", "coords": [14.522372, 35.885419]}, {"name": "Palace Armoury", "text": "One of the world's most significant collections of historic arms and armour located in the Grandmaster's Palace.", "category": "museum", "coords": [14.514341, 35.898515]}, {"name": "National War Museum", "text": "Housed in Fort St. Elmo, the museum displays Malta's military history from the Bronze Age to the present.", "category": "museum", "coords": [14.518741, 35.90197]}, {"name": "National Museum of Archaeology", "text": "The museum exhibits an impressive collection of prehistoric artifacts from Malta.", "category": "museum", "coords": [14.511157, 35.897513]}, {"name": "Casa Rocca Piccola", "text": "A 16th-century palace in Valletta that serves as a museum showcasing Maltese aristocratic life.", "category": "museum", "coords": [14.515326, 35.899827]}, {"name": "Fort Saint Angelo", "text": "A historic fortress in the center of the Grand Harbour that played a central role in Malta's history.", "category": "castle", "coords": [14.518206, 35.89182]}, {"name": "Malta Maritime Museum", "text": "This museum in Birgu illustrates the rich maritime history of the Maltese Islands.", "category": "museum", "coords": [14.52081, 35.88775]}, {"name": "The Fortress Builders - Fortifications Interpretation Centre", "text": "A museum in Valletta dedicated to the architecture and history of Malta's fortifications.", "category": "museum", "coords": [14.509059, 35.899546]}, {"name": "Fort Ricasoli", "text": "A large bastioned fort in Kalkara guarding the entrance to the Grand Harbour.", "category": "castle", "coords": [14.526926, 35.896752]}, {"name": "Fort San Salvatore", "text": "A historic defensive structure in Valletta, part of the city's fortification lines.", "category": "fortress", "coords": [14.528396, 35.886072]}, {"name": "Saint Barbara Bastion", "text": "A bastion in Valletta offering panoramic views over the Grand Harbour and the Three Cities.", "category": "fortress", "coords": [14.514597, 35.896447]}, {"name": "Tempji ta' Kordin", "text": "An archaeological site featuring remains of megalithic temples in Paola.", "category": "historical", "coords": [14.509039, 35.877082]}, {"name": "Cambridge Battery", "text": "A Victorian coastal battery in Sliema that once housed a massive 100-ton gun.", "category": "fortress", "coords": [14.509673, 35.909025]}, {"name": "Fort Verdala", "text": "A fort built by the British in the 19th century located in Cospicua.", "category": "fortress", "coords": [14.524082, 35.880803]}, {"name": "Forti Santu Rokku", "text": "A coastal fort in Kalkara built in the late 19th century to protect the island.", "category": "fortress", "coords": [14.537776, 35.892584]}, {"name": "Spencer Monument", "text": "A monument in Blata l-Bajda dedicated to Captain Sir Robert Spencer.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "Bieb is-Sultan", "text": "A monumental gate in Vittoriosa that served as the main entrance to the Cottonera Lines.", "category": "historical", "coords": [14.529325, 35.880369]}, {"name": "Malta Memorial", "text": "A memorial in Floriana commemorating Commonwealth aircrews who died in World War II.", "category": "historical", "coords": [14.507819, 35.894559]}, {"name": "Auberge d’Auvergne et de Provence", "text": "A historic building of the Order of Saint John in Valletta that once housed knights from Auvergne and Provence.", "category": "historical", "coords": [14.52258, 35.888463]}, {"name": "Victoria Gate", "text": "A city gate built in the 19th century in Valletta leading to the harbour.", "category": "fortress", "coords": [14.513644, 35.895982]}, {"name": "Manoel Theatre", "text": "One of the oldest working theatres in Europe, renowned for its Baroque architecture.", "category": "cultural", "coords": [14.512574, 35.899765]}, {"name": "Holy Trinity Church", "text": "An Anglican church in Sliema, notable for its Neo-Gothic architecture.", "category": "religious", "coords": [14.495537, 35.909751]}, {"name": "Church of Saint Paul's Shipwreck", "text": "An important Baroque church in Valletta commemorating the shipwreck of Saint Paul the Apostle.", "category": "religious", "coords": [14.513855, 35.897397]}, {"name": "Church of Saint Catherine of Alexandria", "text": "An ornately decorated Baroque church in Valletta, originally built for the Italian knights of the Order.", "category": "religious", "coords": [14.51104, 35.896237]}, {"name": "Gżira Parish Church", "text": "A prominent parish church in Gżira dedicated to the Carmelite order.", "category": "religious", "coords": [14.494775, 35.904982]}, {"name": "Knisja tas-Sarria", "text": "A circular church in Floriana designed by Mattia Preti, built following a plague epidemic.", "category": "religious", "coords": [14.503691, 35.891918]}, {"name": "Mariam Al-Batool Mosque", "text": "The only officially recognized mosque in the Maltese Islands, located in Paola.", "category": "religious", "coords": [14.508842, 35.875888]}, {"name": "Parish Church of Our Lady of Mount Carmel", "text": "A modern parish church in Fgura, known for its unique contemporary architecture.", "category": "religious", "coords": [14.520882, 35.872951]}, {"name": "Collegiate Church of the Immaculate Conception", "text": "A significant church in Cospicua known for its religious artworks.", "category": "religious", "coords": [14.520862, 35.881199]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "The imposing parish church of Ħamrun, dedicated to Saint Cajetan.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Jesuit Church", "text": "One of the oldest church complexes in Valletta, originally founded by the Jesuits in the 16th century.", "category": "religious", "coords": [14.515288, 35.898369]}, {"name": "Parish Church Of Sacre Cuor", "text": "A significant parish church in Sliema dedicated to the Sacred Heart of Jesus.", "category": "religious", "coords": [14.50076, 35.91065]}, {"name": "Our Lady of Mount Carmel", "text": "A prominent Neo-Gothic church located at Balluta Bay in St. Julian's.", "category": "religious", "coords": [14.495108, 35.914594]}, {"name": "Bible Baptist Church", "text": "A Baptist church in Gżira serving the local Christian community.", "category": "religious", "coords": [14.490594, 35.908597]}, {"name": "Our Lady of Sorrows", "text": "A small church in Pietà known for its traditional Maltese architecture.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Saint Andrew's Scots Church", "text": "Malta's first Presbyterian church, located in Valletta and built in the Neo-Gothic style.", "category": "religious", "coords": [14.509798, 35.897624]}, {"name": "Il-Port il-Kbir", "text": "Malta's largest natural harbour, site of many historical events since antiquity.", "category": "landmark", "coords": [14.51869, 35.895023]}, {"name": "Il-Port ta' Marsamxett", "text": "A natural harbour north of Valletta, known for its marinas and scenic views.", "category": "landmark", "coords": [14.502336, 35.906957]}, {"name": "Sliema Point Battery", "text": "A former British artillery battery in Sliema, now repurposed as a restaurant.", "category": "landmark", "coords": [14.507173, 35.914119]}, {"name": "Il-Monument ta' Sir Alexander Ball", "text": "A monument in the form of a Doric temple located in the Lower Barrakka Gardens of Valletta.", "category": "landmark", "coords": [14.517551, 35.897489]}, {"name": "Saint John's Co-Cathedral", "text": "A magnificent Baroque cathedral in Valletta, famous for its ornate marble floors and Caravaggio paintings.", "category": "landmark", "coords": [14.512623, 35.897697]}, {"name": "Saint Paul's Anglican Cathedral", "text": "A prominent Anglican cathedral whose spire is a major landmark in the Valletta skyline.", "category": "landmark", "coords": [14.512013, 35.900696]}, {"name": "Stella Maris Parish Church", "text": "The first parish church of Sliema, known for its religious significance in the community.", "category": "landmark", "coords": [14.50416, 35.911983]}, {"name": "Auberge of Bavière", "text": "A magnificent 18th-century palace in Valletta that now houses government offices.", "category": "landmark", "coords": [14.514179, 35.901531]}, {"name": "Church of Saint Augustine", "text": "A historic church in Valletta dedicated to Saint Augustine.", "category": "landmark", "coords": [14.510831, 35.898701]}, {"name": "Ħal Farruġ Naval Reservoir", "text": "Found in Valletta, Ġibjun Navali ta' Ħal Farruġ is a natural reservoir offering a scenic environment. This Maltese water body provides a peaceful atmosphere away from the busy streets. It is an ideal spot for visitors looking to take a relaxing walk near the water.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Saint Mary Reservoir", "text": "Ġibjun ta' Santa Marija is a picturesque lake setting situated within Valletta. This natural feature adds a touch of tranquility to the Maltese capital. Guests can enjoy a quiet and relaxing stroll along its calm edges.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "Located in the capital city of Valletta, St Helen's Naval Reservoirs present a serene natural landscape. These historical Maltese water basins now serve as a picturesque recreational area. A visit here promises a calm and relaxing walking experience.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Kordin Reservoir", "text": "The tranquil waters of Il-Ġibjun ta' Kordin can be admired in the city of Valletta. This natural site stands out as a charming spot in Malta for outdoor enjoyment. It is perfectly suited for those seeking a peaceful stroll during their city tour.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Johnny Agius Memorial", "text": "Johnny Agius Memorial operates as a family-friendly playground right in Valletta. This Maltese recreational space offers a great environment where kids can play freely. Families visiting the area will find it a wonderful spot for an afternoon break.", "category": "family", "coords": [14.487401, 35.912991]}, {"name": "Mandraġġ Recreational Space", "text": "Spazju Rikreattiv il-Mandraġġ is a dedicated local playground situated in Valletta. Designed for family outings in Malta, it provides various playful activities for younger visitors. It is an excellent destination for parents looking to let their children burn off some energy.", "category": "family", "coords": [14.510907, 35.900522]}, {"name": "SAC Lower Ground", "text": "Located in Valletta, SAC Lower Ground serves as an inviting playground for children. This Maltese family attraction is well-equipped for active play and outdoor fun. It stands as a perfect gathering place for a delightful day out with the kids.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "Providing a great area for youngsters, SAC Upper Ground is a local playground in Valletta. It brings a touch of joy to family walks around the Maltese capital. Children can easily find space here to engage in fun activities and games.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Spazju Rikreattiv George Dingli", "text": "Spazju Rikreattiv George Dingli is a cheerful family recreation area set within Valletta. Offering a dedicated playground, it caters specifically to children visiting Malta. The spot guarantees a safe and entertaining break during urban explorations.", "category": "family", "coords": [14.517244, 35.888912]}]},
+    id: "city-valletta-extra", "sights": {
+      "de": [
+            {
+                  "name": "Palast des Inquisitors",
+                  "text": "Einst Sitz der maltesischen Inquisition, beherbergt der Palast heute ein Museum für Volkskunde.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "Eine historische Geschützbatterie in Valletta mit Blick auf den Großen Hafen.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "Eine Festung aus dem 19. Jahrhundert, die das berühmte 100-Tonnen-Geschütz beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Dieses Museum dokumentiert Maltas heldenhafte Rolle während der Weltkriege.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Armerija tal-Palazz",
+                  "text": "Eine der weltweit bedeutendsten Sammlungen historischer Waffen und Rüstungen im Großmeisterpalast.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "Das im Fort St. Elmo untergebrachte Museum zeigt Maltas Militärgeschichte von der Bronzezeit bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "Das Museum präsentiert eine beeindruckende Sammlung prähistorischer Artefakte Maltas.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "Ein Palast aus dem 16. Jahrhundert in Valletta, der als Museum das aristokratische Leben Maltas zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fortizza Sant’ Anġlu",
+                  "text": "Eine historische Festung im Zentrum des Grand Harbour, die eine zentrale Rolle in der Geschichte Maltas spielte.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Mużew Marittimu ta' Malta",
+                  "text": "Dieses Museum in Birgu zeigt die reiche Seefahrtsgeschichte der maltesischen Inseln.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "Ein Museum in Valletta, das sich der Architektur und Geschichte der maltesischen Befestigungsanlagen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "Eine große Bastionärfestung in Kalkara, die den Eingang zum Grand Harbour bewacht.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Forti San Salvatore",
+                  "text": "Eine historische Verteidigungsanlage in Valletta, die Teil der Befestigungslinien der Stadt ist.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "Eine Bastion in Valletta mit Panoramablick über den Grand Harbour und die Drei Städte.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Tempji ta' Kordin",
+                  "text": "Eine archäologische Ausgrabungsstätte mit Überresten megalithischer Tempelanlagen in Paola.",
+                  "category": "historical",
+                  "coords": [
+                        14.509039,
+                        35.877082
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "Eine viktorianische Küstenbatterie in Sliema, die einst ein massives 100-Tonnen-Geschütz beherbergte.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Fort Verdala",
+                  "text": "Eine im 19. Jahrhundert von den Briten erbaute Festung in Cospicua.",
+                  "category": "fortress",
+                  "coords": [
+                        14.524082,
+                        35.880803
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "Eine Küstenfestung in Kalkara, die Ende des 19. Jahrhunderts zum Schutz der Insel errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Ein Denkmal in Blata l-Bajda, das Kapitän Sir Robert Spencer gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Bieb is-Sultan",
+                  "text": "Ein monumentales Tor in Vittoriosa, das als Haupteingang zu den Cottonera Lines diente.",
+                  "category": "historical",
+                  "coords": [
+                        14.529325,
+                        35.880369
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "Ein Denkmal in Floriana zur Erinnerung an die im Zweiten Weltkrieg gefallenen Commonwealth-Luftstreitkräfte.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "Ein historisches Gebäude des Johanniterordens in Valletta, das einst Ritter aus der Auvergne und Provence beherbergte.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "Ein im 19. Jahrhundert erbautes Stadttor in Valletta, das zum Hafen führt.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Teatru Manoel",
+                  "text": "Eines der ältesten noch bespielten Theater Europas, bekannt für seine barocke Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Eine anglikanische Kirche in Sliema, die durch ihre neugotische Architektur besticht.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Pawl Nawfraġju",
+                  "text": "Eine bedeutende Barockkirche in Valletta, die an den Schiffbruch des Apostels Paulus erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
+                  "text": "Eine reich verzierte Barockkirche in Valletta, die ursprünglich für die italienischen Ritter des Ordens erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa tal-Gżira (Monte Karmeli)",
+                  "text": "Eine markante Pfarrkirche in Gżira, die dem Karmeliterorden gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "Eine von Mattia Preti entworfene Rundkirche in Floriana, die nach einer Pestepidemie erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Il-Moskea Mariam Al-Batool",
+                  "text": "Die einzige offiziell anerkannte Moschee auf den maltesischen Inseln, gelegen in Paola.",
+                  "category": "religious",
+                  "coords": [
+                        14.508842,
+                        35.875888
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Karmnu",
+                  "text": "Eine moderne Pfarrkirche in Fgura, bekannt für ihre einzigartige zeitgenössische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        14.520882,
+                        35.872951
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of the Immaculate Conception",
+                  "text": "Eine bedeutende Kirche in Cospicua, die für ihre religiösen Kunstwerke bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.520862,
+                        35.881199
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "Die imposante Pfarrkirche von Ħamrun, die dem heiligen Cajetan gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Ġiżwiti",
+                  "text": "Einer der ältesten Kirchenkomplexe in Valletta, ursprünglich von den Jesuiten im 16. Jahrhundert gegründet.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor",
+                  "text": "Eine bedeutende Pfarrkirche in Sliema, die dem Heiligsten Herzen Jesu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "Eine markante neugotische Kirche an der Balluta Bay in St. Julian's.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "Eine Baptistenkirche in Gżira, die der christlichen Gemeinschaft vor Ort dient.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "Eine kleine Kirche in Pietà, bekannt für ihre traditionelle maltesische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "Die erste presbyterianische Kirche Maltas, gelegen in Valletta und erbaut im neugotischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "Maltas größter Naturhafen, Schauplatz vieler historischer Ereignisse seit der Antike.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "Ein natürlicher Hafen nördlich von Valletta, der für seine Jachthäfen und Ausblicke bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Il-Batterija tas-Sliema",
+                  "text": "Eine ehemalige britische Artillerie-Batterie in Sliema, heute als Restaurant genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "Ein Denkmal in Form eines dorischen Tempels in den Lower Barrakka Gardens von Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Co-Kathedrale St. Johannes",
+                  "text": "Eine prachtvolle Barockkathedrale in Valletta, berühmt für ihre kunstvollen Marmorböden und Caravaggio-Gemälde.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Il-Katidral Anglikan ta' San Pawl",
+                  "text": "Eine markante anglikanische Kathedrale, deren Turm die Skyline von Valletta prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Sliema Parish Church",
+                  "text": "Die erste Pfarrkirche von Sliema, bekannt für ihre religiöse Bedeutung in der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Il-Berġa ta' Bavjera",
+                  "text": "Ein prachtvoller Palast aus dem 18. Jahrhundert in Valletta, der heute Regierungsstellen beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santu Wistin",
+                  "text": "Eine historische Kirche in Valletta, die dem heiligen Augustinus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das in Valletta gelegene Ġibjun Navali ta' Ħal Farruġ ist ein natürliches Reservoir mit einer malerischen Umgebung. Dieses maltesische Gewässer bietet eine friedliche Atmosphäre abseits der belebten Straßen. Es ist ein idealer Ort für Besucher, die einen entspannten Spaziergang am Wasser unternehmen möchten.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ġibjun ta' Santa Marija ist eine malerische Seenlandschaft inmitten von Valletta. Diese natürliche Besonderheit verleiht der maltesischen Hauptstadt einen Hauch von Ruhe. Gäste können einen ruhigen und entspannenden Spaziergang entlang der friedlichen Ufer genießen.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs in der Hauptstadt Valletta bieten eine ruhige Naturlandschaft. Diese historischen maltesischen Wasserbecken dienen heute als malerisches Naherholungsgebiet. Ein Besuch hier verspricht ein ruhiges und entspannendes Spaziergangserlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Die ruhigen Gewässer von Il-Ġibjun ta' Kordin können in der Stadt Valletta bewundert werden. Dieser Ort in der Natur zeichnet sich als charmanter Platz in Malta für den Genuss im Freien aus. Er eignet sich hervorragend für alle, die während ihrer Stadtbesichtigung einen friedlichen Spaziergang suchen.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Das Johnny Agius Memorial dient als familienfreundlicher Spielplatz direkt in Valletta. Dieser maltesische Freizeitbereich bietet eine tolle Umgebung, in der Kinder frei spielen können. Familien, die die Gegend besuchen, finden hier einen wunderbaren Ort für eine nachmittägliche Pause.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Spazju Rikreattiv il-Mandraġġ ist ein lokaler Spielplatz in Valletta. Er wurde für Familienausflüge in Malta konzipiert und bietet jüngeren Besuchern verschiedene spielerische Aktivitäten. Es ist ein ausgezeichnetes Ziel für Eltern, die ihre Kinder sich ein wenig austoben lassen möchten.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Der SAC Lower Ground in Valletta ist ein einladender Spielplatz für Kinder. Diese maltesische Familienattraktion ist gut für aktives Spielen und Spaß im Freien ausgestattet. Er ist ein perfekter Treffpunkt für einen herrlichen Tag mit den Kindern.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Der SAC Upper Ground ist ein lokaler Spielplatz in Valletta, der einen tollen Bereich für die Kleinen bietet. Er bringt einen Hauch von Freude in die Familienspaziergänge durch die maltesische Hauptstadt. Kinder finden hier leicht Platz, um an lustigen Aktivitäten und Spielen teilzunehmen.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli ist ein fröhliches Familien-Erholungsgebiet in Valletta. Mit seinem speziellen Spielplatz richtet es sich besonders an Kinder, die Malta besuchen. Der Ort garantiert eine sichere und unterhaltsame Pause während der Stadterkundungen.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "Eine Badezone an der Küste von Valletta mit Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Eine Poolanlage am Meer, die zum entspannten Schwimmen in der Nähe der Hauptstadt einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Ein Hallenbad in der Cottonera-Region, das für Training und Freizeit genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "Ein beliebter Badeort an der felsigen Küste von Sliema mit Freibadbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Egykor a máltai inkvizíció székhelye, ma néprajzi múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "Történelmi ágyúüteg Vallettában, kilátással a Nagy Kikötőre.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "19. századi erődítmény, amely a híres 100 tonnás ágyúnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "A múzeum Málta világháborúkban betöltött hősies szerepét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Armerija tal-Palazz",
+                  "text": "A világ egyik legjelentősebb történelmi fegyver- és páncélgyűjteménye a Nagymesteri Palotában.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "A Szent Elmo-erődben található múzeum Málta hadtörténetét mutatja be a bronzkortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "A múzeum Málta prehisztorikus műtárgyainak lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "16. századi palota Vallettában, amely múzeumként mutatja be a máltai arisztokrácia életét.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fortizza Sant’ Anġlu",
+                  "text": "Történelmi erőd a Nagy Kikötő központjában, amely központi szerepet játszott Málta történelmében.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Mużew Marittimu ta' Malta",
+                  "text": "Ez a birgui múzeum a máltai szigetek gazdag tengerészeti történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "Vallettai múzeum, amely a máltai erődítmények építészetének és történelmének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "Hatalmas bástyás erőd Kalkarában, amely a Nagy Kikötő bejáratát őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Forti San Salvatore",
+                  "text": "Történelmi védelmi létesítmény Vallettában, amely a város erődítményrendszerének része.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "Bástya Vallettában, ahonnan panorámás kilátás nyílik a Nagy Kikötőre és a Három Városra.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Tempji ta' Kordin",
+                  "text": "Régészeti lelőhely megalitikus templomok maradványaival Paolában.",
+                  "category": "historical",
+                  "coords": [
+                        14.509039,
+                        35.877082
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "Viktoriánus kori parti üteg Sliemában, amely egykor egy hatalmas, 100 tonnás ágyúnak adott otthont.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Fort Verdala",
+                  "text": "A britek által a 19. században épített erőd Cospicuában.",
+                  "category": "fortress",
+                  "coords": [
+                        14.524082,
+                        35.880803
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "Parti erőd Kalkarában, amelyet a 19. század végén építettek a sziget védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Emlékmű Blata l-Bajdában, amelyet Sir Robert Spencer kapitánynak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Bieb is-Sultan",
+                  "text": "Monumentális kapu Vittoriosában, amely a Cottonera-vonalak főbejárataként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        14.529325,
+                        35.880369
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "Emlékmű Florianában a második világháborúban elesett Nemzetközösségi légierő katonáinak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "A máltai lovagrend történelmi épülete Vallettában, amely egykor az Auvergne-ből és Provence-ból származó lovagok szállása volt.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "19. században épült városkapu Vallettában, amely a kikötőhöz vezet.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Teatru Manoel",
+                  "text": "Európa egyik legrégebbi, ma is működő színháza, amely barokk építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Anglikán templom Sliemában, amely neogótikus építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Pawl Nawfraġju",
+                  "text": "Jelentős barokk templom Vallettában, amely Szent Pál apostol hajótörésének állít emléket.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
+                  "text": "Gazdagon díszített barokk templom Vallettában, amelyet eredetileg a rend olasz lovagjai számára építettek.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa tal-Gżira (Monte Karmeli)",
+                  "text": "Jellegzetes plébániatemplom Gżirában, amelyet a karmelita rendnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "Mattia Preti által tervezett körtemplom Florianában, amelyet egy pestisjárvány után építettek.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Il-Moskea Mariam Al-Batool",
+                  "text": "A máltai szigetek egyetlen hivatalosan elismert mecsete Paolában.",
+                  "category": "religious",
+                  "coords": [
+                        14.508842,
+                        35.875888
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Karmnu",
+                  "text": "Modern plébániatemplom Fgurában, amely egyedülálló kortárs építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        14.520882,
+                        35.872951
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of the Immaculate Conception",
+                  "text": "Jelentős templom Cospicuában, amely vallási műalkotásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        14.520862,
+                        35.881199
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "Ħamrun impozáns plébániatemploma, amelyet Szent Kajetánnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Ġiżwiti",
+                  "text": "Valletta egyik legrégebbi templomegyüttese, amelyet eredetileg a jezsuiták alapítottak a 16. században.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor",
+                  "text": "Jelentős plébániatemplom Sliemában, amelyet Jézus Szent Szívének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "Jellegzetes neogótikus templom a St. Julian's-i Balluta-öbölnél.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "Baptista templom Gżirában, amely a helyi keresztény közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "Kicsi templom Pietàban, amely hagyományos máltai építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "Málta első presbiteriánus temploma Vallettában, amely neogótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "Málta legnagyobb természetes kikötője, számos történelmi esemény helyszíne az ókor óta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "Természetes kikötő Vallettától északra, amely jachtkikötőiről és kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Il-Batterija tas-Sliema",
+                  "text": "Egykori brit tüzérségi üteg Sliemában, ma étteremként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "Dór templom formájú emlékmű a vallettai Alsó Barrakka-kertekben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Saint John's Co-Cathedral",
+                  "text": "Pompás barokk katedrális Vallettában, amely díszes márványpadlójáról és Caravaggio-festményeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Il-Katidral Anglikan ta' San Pawl",
+                  "text": "Jellegzetes anglikán székesegyház, amelynek tornya meghatározza Valletta látképét.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Sliema Parish Church",
+                  "text": "Sliema első plébániatemploma, amely a közösségben betöltött vallási jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Il-Berġa ta' Bavjera",
+                  "text": "Pompás 18. századi palota Vallettában, amely ma kormányzati hivataloknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santu Wistin",
+                  "text": "Történelmi templom Vallettában, amelyet Szent Ágostonnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Valletta városában található Ġibjun Navali ta' Ħal Farruġ egy természetes víztározó, amely festői környezetet kínál. Ez a máltai vízfelület békés atmoszférát biztosít a forgalmas utcáktól távol. Ideális hely azoknak a látogatóknak, akik egy pihentető sétára vágynak a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Ġibjun ta' Santa Marija egy festői tó, amely Valletta szívében helyezkedik el. Ez a természeti kincs egy kis nyugalmat csempész a máltai fővárosba. A vendégek csendes és pihentető sétát tehetnek a nyugodt part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A fővárosban, Vallettában található St Helen's Naval Reservoirs egy békés természeti tájat tár a látogatók elé. Ezek a történelmi máltai medencék ma festői rekreációs területként szolgálnak. Az itteni látogatás nyugodt és pihentető sétaélményt ígér.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Az Il-Ġibjun ta' Kordin nyugodt vizei Valletta városában csodálhatók meg. Ez a természeti helyszín Málta egyik bájos pontja a szabadtéri kikapcsolódáshoz. Tökéletesen alkalmas azok számára, akik egy békés sétára vágynak városnézés közben.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "A Johnny Agius Memorial egy családbarát játszótérként működik közvetlenül Vallettában. Ez a máltai rekreációs tér nagyszerű környezetet kínál, ahol a gyerekek szabadon játszhatnak. A környékre látogató családok csodálatos helynek fogják találni egy délutáni pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "A Spazju Rikreattiv il-Mandraġġ egy dedikált helyi játszótér Valletta területén. A máltai családi kirándulásokhoz tervezve különféle játékos tevékenységeket biztosít a fiatalabb látogatóknak. Kiváló célpont azoknak a szülőknek, akik szeretnék, ha gyermekeik levezethetnék az energiájukat.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A Vallettában található SAC Lower Ground hívogató játszótérként szolgál a gyermekek számára. Ez a máltai családi látványosság jól felszerelt az aktív játékhoz és a szabadtéri szórakozáshoz. Tökéletes gyülekezőhely egy kellemes gyerekekkel töltött naphoz.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A fiatalok számára nagyszerű területet biztosító SAC Upper Ground egy helyi játszótér Vallettában. Egy kis örömet csempész a máltai főváros körüli családi sétákba. A gyerekek itt könnyen találhatnak teret a szórakoztató tevékenységekhez és játékokhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "A Spazju Rikreattiv George Dingli egy vidám családi rekreációs terület Valletta szívében. A kifejezetten játszótérként működő hely a Máltára látogató gyermekeket szolgálja ki. Ez a pont biztonságos és szórakoztató pihenést garantál a városi felfedezések során.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "Fürdőhely Valletta tengerpartján, közvetlen hozzáféréssel a tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Tengerparti medencekomplexum, amely pihentető úszásra várja a látogatókat a főváros közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "A Cottonera régióban található fedett uszoda, amelyet edzésre és szabadidőre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "Népszerű fürdőhely Sliema sziklás tengerpartján, nyitott medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Fost sediu al Inchiziției malteze, palatul găzduiește astăzi un muzeu de etnografie.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "O baterie istorică de artilerie din Valletta, cu vedere spre Marele Port.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "O fortificație din secolul al XIX-lea care găzduiește celebrul tun de 100 de tone.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Acest muzeu documentează rolul eroic al Maltei în timpul războaielor mondiale.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Armerija tal-Palazz",
+                  "text": "Una dintre cele mai importante colecții de arme și armuri istorice din lume, situată în Palatul Marilor Maeștri.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "Găzduit în Fortul St. Elmo, muzeul prezintă istoria militară a Maltei din epoca bronzului până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "Muzeul prezintă o colecție impresionantă de artefacte preistorice din Malta.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "Un palat din secolul al XVI-lea din Valletta, care funcționează ca muzeu ce prezintă viața aristocratică malteză.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fortizza Sant’ Anġlu",
+                  "text": "O fortăreață istorică în centrul Marelui Port, care a jucat un rol central în istoria Maltei.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Mużew Marittimu ta' Malta",
+                  "text": "Acest muzeu din Birgu prezintă bogata istorie maritimă a insulelor malteze.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "Un muzeu din Valletta dedicat arhitecturii și istoriei fortificațiilor malteze.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "O mare fortăreață cu bastioane în Kalkara, care păzește intrarea în Marele Port.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Forti San Salvatore",
+                  "text": "O structură de apărare istorică din Valletta, parte a liniilor de fortificații ale orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "Un bastion în Valletta care oferă vedere panoramică asupra Marelui Port și a celor Trei Orașe.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Tempji ta' Kordin",
+                  "text": "Un sit arheologic cu vestigii ale unor temple megalitice în Paola.",
+                  "category": "historical",
+                  "coords": [
+                        14.509039,
+                        35.877082
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "O baterie de coastă victoriană în Sliema, care găzduia odinioară un tun masiv de 100 de tone.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Fort Verdala",
+                  "text": "O fortăreață construită de britanici în secolul al XIX-lea în Cospicua.",
+                  "category": "fortress",
+                  "coords": [
+                        14.524082,
+                        35.880803
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "Un fort de coastă în Kalkara, construit la sfârșitul secolului al XIX-lea pentru a proteja insula.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Un monument în Blata l-Bajda, dedicat căpitanului Sir Robert Spencer.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Bieb is-Sultan",
+                  "text": "O poartă monumentală în Vittoriosa, care servea drept intrare principală în Liniile Cottonera.",
+                  "category": "historical",
+                  "coords": [
+                        14.529325,
+                        35.880369
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "Un monument în Floriana care comemorează forțele aeriene ale Commonwealth-ului căzute în al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "O clădire istorică a Ordinului Sfântului Ioan din Valletta, care adăpostea cavalerii din Auvergne și Provence.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "O poartă a orașului construită în secolul al XIX-lea în Valletta, care duce spre port.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Teatru Manoel",
+                  "text": "Unul dintre cele mai vechi teatre funcționale din Europa, cunoscut pentru arhitectura sa barocă.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "O biserică anglicană din Sliema, remarcabilă prin arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Pawl Nawfraġju",
+                  "text": "O biserică barocă importantă din Valletta, care comemorează naufragiul Sfântului Apostol Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
+                  "text": "O biserică barocă bogat decorată din Valletta, construită inițial pentru cavalerii italieni ai ordinului.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa tal-Gżira (Monte Karmeli)",
+                  "text": "O biserică parohială distinctivă în Gżira, dedicată ordinului carmelit.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "O biserică circulară în Floriana proiectată de Mattia Preti, construită după o epidemie de ciumă.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Il-Moskea Mariam Al-Batool",
+                  "text": "Singura moschee recunoscută oficial din insulele malteze, situată în Paola.",
+                  "category": "religious",
+                  "coords": [
+                        14.508842,
+                        35.875888
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Karmnu",
+                  "text": "O biserică parohială modernă în Fgura, cunoscută pentru arhitectura sa contemporană unică.",
+                  "category": "religious",
+                  "coords": [
+                        14.520882,
+                        35.872951
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of the Immaculate Conception",
+                  "text": "O biserică importantă din Cospicua, cunoscută pentru operele sale de artă religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        14.520862,
+                        35.881199
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "Impozanta biserică parohială din Ħamrun, dedicată Sfântului Cajetan.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Ġiżwiti",
+                  "text": "Unul dintre cele mai vechi complexe bisericești din Valletta, fondat inițial de iezuiți în secolul al XVI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor",
+                  "text": "O biserică parohială importantă din Sliema, dedicată Inimii Preasfinte a lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "O biserică neogotică distinctivă situată în Golful Balluta din St. Julian's.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "O biserică baptistă în Gżira, care deservește comunitatea creștină locală.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "O biserică mică din Pietà, cunoscută pentru arhitectura sa tradițională malteză.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "Prima biserică presbiteriană din Malta, situată în Valletta și construită în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "Cel mai mare port natural al Maltei, locul multor evenimente istorice încă din antichitate.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "Un port natural la nord de Valletta, cunoscut pentru porturile sale de agrement și priveliști.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Il-Batterija tas-Sliema",
+                  "text": "O fostă baterie de artilerie britanică în Sliema, utilizată astăzi ca restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "Un monument sub formă de templu doric în Grădinile Barrakka de Jos din Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Catedrala catolică „Sf. Ioan”",
+                  "text": "O magnifică catedrală barocă din Valletta, faimoasă pentru podelele de marmură elaborate și picturile lui Caravaggio.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Il-Katidral Anglikan ta' San Pawl",
+                  "text": "O catedrală anglicană proeminentă, a cărei turlă domină orizontul orașului Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Sliema Parish Church",
+                  "text": "Prima biserică parohială din Sliema, cunoscută pentru importanța sa religioasă în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Il-Berġa ta' Bavjera",
+                  "text": "Un palat magnific din secolul al XVIII-lea din Valletta, care adăpostește astăzi birouri guvernamentale.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santu Wistin",
+                  "text": "O biserică istorică din Valletta dedicată Sfântului Augustin.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Situat în Valletta, Ġibjun Navali ta' Ħal Farruġ este un rezervor natural care oferă un cadru pitoresc. Acest ochi de apă maltez asigură o atmosferă liniștită, departe de străzile aglomerate. Este un loc ideal pentru vizitatorii care doresc să facă o plimbare relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Ġibjun ta' Santa Marija este un lac pitoresc situat în interiorul orașului Valletta. Această caracteristică naturală adaugă o notă de liniște capitalei malteze. Oaspeții se pot bucura de o plimbare liniștită și relaxantă de-a lungul malurilor sale calme.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Situate în capitala Valletta, St Helen's Naval Reservoirs prezintă un peisaj natural senin. Aceste bazine de apă istorice din Malta servesc acum ca o zonă de recreere pitorească. O vizită aici promite o experiență de plimbare calmă și relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Apele liniștite de la Il-Ġibjun ta' Kordin pot fi admirate în orașul Valletta. Acest sit natural se remarcă ca un loc fermecător în Malta pentru bucuria în aer liber. Este perfect potrivit pentru cei care caută o plimbare pașnică în timpul turului lor prin oraș.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial funcționează ca un loc de joacă potrivit pentru familii, chiar în Valletta. Acest spațiu de recreere maltez oferă un mediu excelent în care copiii se pot juca liber. Familiile care vizitează zona îl vor considera un loc minunat pentru o pauză de după-amiază.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv il-Mandraġġ",
+                  "text": "Spazju Rikreattiv il-Mandraġġ este un loc de joacă local dedicat, situat în Valletta. Conceput pentru ieșirile în familie în Malta, acesta oferă diverse activități jucăușe pentru vizitatorii mai tineri. Este o destinație excelentă pentru părinții care doresc să își lase copiii să își consume energia.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Situat în Valletta, SAC Lower Ground servește drept un loc de joacă primitor pentru copii. Această atracție de familie din Malta este bine echipată pentru joc activ și distracție în aer liber. Reprezintă un loc de întâlnire perfect pentru o zi încântătoare petrecută cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Oferind o zonă excelentă pentru cei mici, SAC Upper Ground este un loc de joacă local în Valletta. Acesta aduce o notă de bucurie plimbărilor în familie prin capitala malteză. Copiii pot găsi cu ușurință spațiu aici pentru a se implica în activități distractive și jocuri.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli este o zonă de recreere veselă pentru familii, amplasată în Valletta. Oferind un loc de joacă dedicat, acesta se adresează în mod special copiilor care vizitează Malta. Locul garantează o pauză sigură și distractivă în timpul explorărilor urbane.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "O zonă de scăldat pe coasta Vallettei, cu acces direct la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Un complex cu piscină la malul mării, ideal pentru înot relaxant în apropierea capitalei.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "O piscină interioară în regiunea Cottonera, utilizată pentru antrenamente și agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "Un loc popular pentru scăldat pe coasta stâncoasă din Sliema, dotat cu bazine în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Once the seat of the Maltese Inquisition, the palace now houses an ethnography museum.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "A historic artillery battery in Valletta overlooking the Grand Harbour.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "A 19th-century fortification housing the famous 100-ton gun.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "This museum documents Malta's heroic role during the World Wars.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Palace Armoury",
+                  "text": "One of the world's most significant collections of historic arms and armour located in the Grandmaster's Palace.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "Housed in Fort St. Elmo, the museum displays Malta's military history from the Bronze Age to the present.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "The museum exhibits an impressive collection of prehistoric artifacts from Malta.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "A 16th-century palace in Valletta that serves as a museum showcasing Maltese aristocratic life.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fort Saint Angelo",
+                  "text": "A historic fortress in the center of the Grand Harbour that played a central role in Malta's history.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Malta Maritime Museum",
+                  "text": "This museum in Birgu illustrates the rich maritime history of the Maltese Islands.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "A museum in Valletta dedicated to the architecture and history of Malta's fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "A large bastioned fort in Kalkara guarding the entrance to the Grand Harbour.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Fort San Salvatore",
+                  "text": "A historic defensive structure in Valletta, part of the city's fortification lines.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "A bastion in Valletta offering panoramic views over the Grand Harbour and the Three Cities.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Tempji ta' Kordin",
+                  "text": "An archaeological site featuring remains of megalithic temples in Paola.",
+                  "category": "historical",
+                  "coords": [
+                        14.509039,
+                        35.877082
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "A Victorian coastal battery in Sliema that once housed a massive 100-ton gun.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Fort Verdala",
+                  "text": "A fort built by the British in the 19th century located in Cospicua.",
+                  "category": "fortress",
+                  "coords": [
+                        14.524082,
+                        35.880803
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "A coastal fort in Kalkara built in the late 19th century to protect the island.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Spencer Monument",
+                  "text": "A monument in Blata l-Bajda dedicated to Captain Sir Robert Spencer.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Bieb is-Sultan",
+                  "text": "A monumental gate in Vittoriosa that served as the main entrance to the Cottonera Lines.",
+                  "category": "historical",
+                  "coords": [
+                        14.529325,
+                        35.880369
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "A memorial in Floriana commemorating Commonwealth aircrews who died in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "A historic building of the Order of Saint John in Valletta that once housed knights from Auvergne and Provence.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "A city gate built in the 19th century in Valletta leading to the harbour.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Manoel Theatre",
+                  "text": "One of the oldest working theatres in Europe, renowned for its Baroque architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "An Anglican church in Sliema, notable for its Neo-Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Church of Saint Paul's Shipwreck",
+                  "text": "An important Baroque church in Valletta commemorating the shipwreck of Saint Paul the Apostle.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Church of Saint Catherine of Alexandria",
+                  "text": "An ornately decorated Baroque church in Valletta, originally built for the Italian knights of the Order.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Gżira Parish Church",
+                  "text": "A prominent parish church in Gżira dedicated to the Carmelite order.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "A circular church in Floriana designed by Mattia Preti, built following a plague epidemic.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Mariam Al-Batool Mosque",
+                  "text": "The only officially recognized mosque in the Maltese Islands, located in Paola.",
+                  "category": "religious",
+                  "coords": [
+                        14.508842,
+                        35.875888
+                  ]
+            },
+            {
+                  "name": "Parish Church of Our Lady of Mount Carmel",
+                  "text": "A modern parish church in Fgura, known for its unique contemporary architecture.",
+                  "category": "religious",
+                  "coords": [
+                        14.520882,
+                        35.872951
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of the Immaculate Conception",
+                  "text": "A significant church in Cospicua known for its religious artworks.",
+                  "category": "religious",
+                  "coords": [
+                        14.520862,
+                        35.881199
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "The imposing parish church of Ħamrun, dedicated to Saint Cajetan.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Jesuit Church",
+                  "text": "One of the oldest church complexes in Valletta, originally founded by the Jesuits in the 16th century.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Parish Church Of Sacre Cuor",
+                  "text": "A significant parish church in Sliema dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "A prominent Neo-Gothic church located at Balluta Bay in St. Julian's.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "A Baptist church in Gżira serving the local Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows",
+                  "text": "A small church in Pietà known for its traditional Maltese architecture.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "Malta's first Presbyterian church, located in Valletta and built in the Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "Malta's largest natural harbour, site of many historical events since antiquity.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "A natural harbour north of Valletta, known for its marinas and scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Sliema Point Battery",
+                  "text": "A former British artillery battery in Sliema, now repurposed as a restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "A monument in the form of a Doric temple located in the Lower Barrakka Gardens of Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Saint John's Co-Cathedral",
+                  "text": "A magnificent Baroque cathedral in Valletta, famous for its ornate marble floors and Caravaggio paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Saint Paul's Anglican Cathedral",
+                  "text": "A prominent Anglican cathedral whose spire is a major landmark in the Valletta skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Parish Church",
+                  "text": "The first parish church of Sliema, known for its religious significance in the community.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Auberge of Bavière",
+                  "text": "A magnificent 18th-century palace in Valletta that now houses government offices.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Church of Saint Augustine",
+                  "text": "A historic church in Valletta dedicated to Saint Augustine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "Found in Valletta, Ġibjun Navali ta' Ħal Farruġ is a natural reservoir offering a scenic environment. This Maltese water body provides a peaceful atmosphere away from the busy streets. It is an ideal spot for visitors looking to take a relaxing walk near the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Ġibjun ta' Santa Marija is a picturesque lake setting situated within Valletta. This natural feature adds a touch of tranquility to the Maltese capital. Guests can enjoy a quiet and relaxing stroll along its calm edges.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Located in the capital city of Valletta, St Helen's Naval Reservoirs present a serene natural landscape. These historical Maltese water basins now serve as a picturesque recreational area. A visit here promises a calm and relaxing walking experience.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "The tranquil waters of Il-Ġibjun ta' Kordin can be admired in the city of Valletta. This natural site stands out as a charming spot in Malta for outdoor enjoyment. It is perfectly suited for those seeking a peaceful stroll during their city tour.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Johnny Agius Memorial",
+                  "text": "Johnny Agius Memorial operates as a family-friendly playground right in Valletta. This Maltese recreational space offers a great environment where kids can play freely. Families visiting the area will find it a wonderful spot for an afternoon break.",
+                  "category": "family",
+                  "coords": [
+                        14.487401,
+                        35.912991
+                  ]
+            },
+            {
+                  "name": "Mandraġġ Recreational Space",
+                  "text": "Spazju Rikreattiv il-Mandraġġ is a dedicated local playground situated in Valletta. Designed for family outings in Malta, it provides various playful activities for younger visitors. It is an excellent destination for parents looking to let their children burn off some energy.",
+                  "category": "family",
+                  "coords": [
+                        14.510907,
+                        35.900522
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Located in Valletta, SAC Lower Ground serves as an inviting playground for children. This Maltese family attraction is well-equipped for active play and outdoor fun. It stands as a perfect gathering place for a delightful day out with the kids.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Providing a great area for youngsters, SAC Upper Ground is a local playground in Valletta. It brings a touch of joy to family walks around the Maltese capital. Children can easily find space here to engage in fun activities and games.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Spazju Rikreattiv George Dingli",
+                  "text": "Spazju Rikreattiv George Dingli is a cheerful family recreation area set within Valletta. Offering a dedicated playground, it caters specifically to children visiting Malta. The spot guarantees a safe and entertaining break during urban explorations.",
+                  "category": "family",
+                  "coords": [
+                        14.517244,
+                        35.888912
+                  ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "A swimming area on the coast of Valletta with access to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "A seaside pool complex offering relaxing swimming near the capital city.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "An indoor swimming pool in the Cottonera region used for training and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Qui-si-Sana Beach, Sliema",
+                  "text": "A popular bathing spot on the rocky coast of Sliema featuring outdoor swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-60",
     coords: [14.5146, 35.8989],
@@ -595,6 +2800,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.522982,
                         35.899329
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Das nationale Schwimmbad in Sliema für Wettkämpfe und Training.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -1145,6 +3359,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.522982,
                         35.899329
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Nemzeti úszómedence Sliemában versenyekhez és edzésekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -1697,6 +3920,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.522982,
                         35.899329
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Piscina națională din Sliema pentru competiții și antrenamente.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -2247,6 +4479,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.522982,
                         35.899329
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "The national swimming pool in Sliema for competitions and training.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -5170,6 +7411,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Eine staatliche Schwimmanlage, die für sportliche Wettkämpfe und öffentliches Schwimmen genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -5765,6 +8015,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Állami úszólétesítmény, amelyet sportversenyekre és lakossági úszásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -6362,6 +8621,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "O facilitate națională de înot utilizată pentru competiții sportive și înot public.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -6957,6 +9225,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "A national swimming facility used for sports competitions and public swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -7597,6 +9874,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.505552,
                         35.915448
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Die nationale Schwimmeinrichtung in Msida für Profis und Amateure.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -8192,6 +10478,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.505552,
                         35.915448
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Nemzeti úszólétesítmény Msidában profik és amatőrök számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -8789,6 +11084,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.505552,
                         35.915448
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Baza națională de înot din Msida pentru profesioniști și amatori.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -9384,6 +11688,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.505552,
                         35.915448
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "The national swimming facility in Msida for professionals and amateurs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -16765,6 +19078,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Splash and Fun ist ein beliebter Wasserpark in San Ġwann mit Rutschen und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
             }
       ],
       "hu": [
@@ -17252,6 +19574,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "A Splash and Fun egy népszerű vízipark San Ġwannban, különféle csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
                   ]
             }
       ],
@@ -17741,6 +20072,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Splash and Fun este un parc acvatic popular în San Ġwann, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
             }
       ],
       "en": [
@@ -18228,6 +20568,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Splash and Fun is a popular water park in San Ġwann featuring various slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
                   ]
             }
       ]
@@ -21304,6 +23653,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.473135,
                         35.897774
                   ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Ein Schwimmbecken in Ħamrun, das Teil einer Hotelanlage ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Eine Hallenschwimmbadanlage in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Ein Strandclub und Schwimmclub in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "Eine Badeanlage und Strandbereich in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Eine öffentliche Schwimmbadanlage in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -21836,6 +24230,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.473135,
                         35.897774
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Egy szállodakomplexumhoz tartozó úszómedence Ħamrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Egy fedett úszómedence Ħamrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Strandklub és úszóhely Ħamrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "Úszóhely és tengerparti létesítmény Ħamrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Közösségi úszómedence-komplexum Ħamrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -22370,6 +24809,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.473135,
                         35.897774
                   ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "O piscină în Ħamrun care face parte dintr-un complex hotelier.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "O facilitate de înot în interior situată în Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Un club de plajă și facilități de înot în Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "O zonă de înot și facilități de plajă în Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "O facilitate publică de înot în Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -22902,6 +25386,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.473135,
                         35.897774
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "A swimming pool in Ħamrun that is part of a hotel complex.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "An indoor swimming facility located in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "A beach club and swimming facility in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui-si-Sana Beach, Sliema",
+                  "text": "A swimming area and beach facility in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "A public swimming pool facility in Ħamrun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -23506,6 +26035,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510519,
                         35.900852
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Das National Swimming Pool ist eine öffentliche Schwimmanlage in Marsa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -24065,6 +26603,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510519,
                         35.900852
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "A National Swimming Pool egy Marsa városában található nyilvános uszoda.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -24626,6 +27173,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510519,
                         35.900852
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "National Swimming Pool este o facilitate publică de înot situată în Marsa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -25185,6 +27741,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510519,
                         35.900852
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "National Swimming Pool is a public swimming facility located in Marsa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -33321,6 +35886,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.523667,
                         35.883005
                   ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Eine Hallenschwimmbadanlage in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Ein Strandclub und Schwimmbereich in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "Ein Badebereich und Küstenanlage in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "Eine Schwimmbadanlage in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Eine nationale Sportstätte mit Schwimmbecken in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -33862,6 +36472,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.523667,
                         35.883005
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Fedett úszómedence Cospicua (Bormla) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Strandklub és úszóhely Cospicua (Bormla) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "Úszóhely és tengerparti létesítmény Cospicua (Bormla) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "Úszómedence Cospicua (Bormla) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Nemzeti sportlétesítmény úszómedencékkel Cospicua (Bormla) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -34405,6 +37060,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.523667,
                         35.883005
                   ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "O facilitate de înot în interior în Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "Un club de plajă și zonă de înot în Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui Si Sana",
+                  "text": "O zonă de înot și facilitate de coastă în Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "O facilitate de înot situată în Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "O facilitate sportivă națională cu piscine în Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -34946,6 +37646,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.523667,
                         35.883005
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "An indoor swimming facility located in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "The Preluna Beach Club",
+                  "text": "A beach club and swimming facility in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.506825,
+                        35.914473
+                  ]
+            },
+            {
+                  "name": "Qui-si-Sana Beach, Sliema",
+                  "text": "A swimming area and coastal facility in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.510502,
+                        35.910452
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "A swimming pool facility located in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "A national sports facility with swimming pools in Cospicua (Bormla).",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -36134,6 +38879,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Eine staatliche Schwimmanlage, die für sportliche Wettkämpfe und öffentliches Schwimmen genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -36684,6 +39438,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Állami úszólétesítmény, amelyet sportversenyekre és lakossági úszásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -37236,6 +39999,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "O facilitate națională de înot utilizată pentru competiții sportive și înot public.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -37786,6 +40558,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "A national swimming facility used for sports competitions and public swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -44480,6 +47261,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.517244,
                         35.888912
                   ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "Der Montekristo Animal Park ist ein Zoo in Santa Luċija mit vielfältigen Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Das Cottonera Indoor Swimming Pool ist eine öffentliche Hallenschwimmanlage in Santa Luċija.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Valletta United Water Polo Club",
+                  "text": "Der Valletta United Water Polo Club ist eine Sportstätte mit Schwimmbecken in Santa Luċija.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510519,
+                        35.900851
+                  ]
             }
       ],
       "hu": [
@@ -44985,6 +47793,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.517244,
                         35.888912
+                  ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "A Montekristo Animal Park egy állatkert Santa Luċijában, ahol számos állatfaj látható.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "A Cottonera Indoor Swimming Pool egy nyilvános fedett uszoda Santa Luċijában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Valletta United Water Polo Club",
+                  "text": "A Valletta United Water Polo Club egy sportlétesítmény és úszómedence Santa Luċijában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510519,
+                        35.900851
                   ]
             }
       ],
@@ -45492,6 +48327,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.517244,
                         35.888912
                   ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "Montekristo Animal Park este o grădină zoologică din Santa Luċija care găzduiește o varietate de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Cottonera Indoor Swimming Pool este o facilitate acvatică publică acoperită din Santa Luċija.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Valletta United Water Polo Club",
+                  "text": "Valletta United Water Polo Club este o facilitate sportivă și o piscină din Santa Luċija.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510519,
+                        35.900851
+                  ]
             }
       ],
       "en": [
@@ -45998,6 +48860,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.517244,
                         35.888912
                   ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "Montekristo Animal Park is a zoo in Santa Luċija featuring a variety of animals.",
+                  "category": "recreational",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Cottonera Indoor Swimming Pool is a public indoor aquatic facility in Santa Luċija.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Valletta United Water Polo Club",
+                  "text": "Valletta United Water Polo Club is a sports facility and swimming pool in Santa Luċija.",
+                  "category": "recreational",
+                  "coords": [
+                        14.510519,
+                        35.900851
+                  ]
             }
       ]
 },
@@ -46340,6 +49229,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.592398,
                         35.874566
                   ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "Ein Hallenbad in der Cottonera-Region, das für Training und Freizeit genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "Ein lokales Schwimmbad in Marsaskala für Freizeit und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
+                  ]
             }
       ],
       "hu": [
@@ -46638,6 +49545,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.592398,
                         35.874566
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "A Cottonera régióban található fedett uszoda, amelyet edzésre és szabadidőre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "Helyi úszómedence Marsaskalában szabadidős tevékenységekhez és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
                   ]
             }
       ],
@@ -46938,6 +49863,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.592398,
                         35.874566
                   ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "O piscină interioară în regiunea Cottonera, utilizată pentru antrenamente și agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "O piscină locală în Marsaskala pentru petrecerea timpului liber și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
+                  ]
             }
       ],
       "en": [
@@ -47236,6 +50179,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.592398,
                         35.874566
+                  ]
+            },
+            {
+                  "name": "Cottonera Indoor Swimming Pool",
+                  "text": "An indoor swimming pool in the Cottonera region used for training and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526866,
+                        35.879944
+                  ]
+            },
+            {
+                  "name": "Il-Banju",
+                  "text": "A local swimming pool in Marsaskala for leisure and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.55246,
+                        35.885811
                   ]
             }
       ]
@@ -47734,6 +50695,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.518991,
                         35.847702
                   ]
+            },
+            {
+                  "name": "Birżebbuġa Aquatic Sports Club",
+                  "text": "Ein Sportclub mit Schwimmgelegenheiten in Marsaxlokk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530887,
+                        35.825483
+                  ]
             }
       ],
       "hu": [
@@ -48185,6 +51155,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.518991,
                         35.847702
+                  ]
+            },
+            {
+                  "name": "Birżebbuġa Aquatic Sports Club",
+                  "text": "Sportklub úszási lehetőségekkel Marsaxlokkban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530887,
+                        35.825483
                   ]
             }
       ],
@@ -48638,6 +51617,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.518991,
                         35.847702
                   ]
+            },
+            {
+                  "name": "Birżebbuġa Aquatic Sports Club",
+                  "text": "Un club sportiv cu facilități de înot în Marsaxlokk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530887,
+                        35.825483
+                  ]
             }
       ],
       "en": [
@@ -49089,6 +52077,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.518991,
                         35.847702
+                  ]
+            },
+            {
+                  "name": "Birżebbuġa Aquatic Sports Club",
+                  "text": "A sports club with swimming facilities in Marsaxlokk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530887,
+                        35.825483
                   ]
             }
       ]
@@ -59446,7 +62443,2068 @@ export const poiExtraMaltaCities: POI[] = [
     image: "/poi-images/city-zebbug-malta-extra.webp",
   },
   {
-    id: "city-qormi-extra", "sights": {"de": [{"name": "Palazz ta' Sant'Anton", "text": "Ein historischer Palast und offizielle Residenz in der Gegend von Qormi.", "category": "castle", "coords": [14.446321, 35.896538]}, {"name": "Tespi performance space", "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und kulturelle Veranstaltungen in Qormi.", "category": "cultural", "coords": [14.48196, 35.902679]}, {"name": "Ta' Raddiena Megalithic Wall", "text": "Antike megalithische Überreste, die die frühe Geschichte der Region Qormi zeigen.", "category": "historical", "coords": [14.463078, 35.904612]}, {"name": "Mużew tal-Bambini", "text": "Ein Museum in Qormi, das der Geschichte und Kunst von Jesuskind-Figuren gewidmet ist.", "category": "museum", "coords": [14.458132, 35.896626]}, {"name": "Teatru Malta Rehearsal Room", "text": "Ein spezieller Raum für Theaterproben und kreative Künste in Qormi.", "category": "cultural", "coords": [14.50486, 35.877625]}, {"name": "Montekristo Animal Park", "text": "Ein privater Tierpark und Zoo auf dem Anwesen Montekristo in Qormi.", "category": "family", "coords": [14.464958, 35.855724]}, {"name": "Il-Palazz ta' Montekristo", "text": "Ein moderner Veranstaltungsort im Palaststil für Events und Ausstellungen in Qormi.", "category": "castle", "coords": [14.462563, 35.855463]}, {"name": "Malta Amateur Drama Company Clubrooms", "text": "Der Hauptsitz und Probenraum der Malta Amateur Drama Company in Qormi.", "category": "cultural", "coords": [14.477563, 35.891042]}, {"name": "Monument ta' Ħal Luqa", "text": "Ein markantes Denkmal in der Gegend von Luqa in der Nähe von Qormi.", "category": "historical", "coords": [14.484058, 35.860512]}, {"name": "Il-Monument ta' Spencer", "text": "Ein Obelisk-Denkmal, das Kapitän Sir Robert Cavendish Spencer gewidmet ist.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "Il-Ġonna ta' Sant' Anton", "text": "Schöne öffentliche Gärten mit Springbrunnen, Teichen und einer Vielzahl exotischer Pflanzen.", "category": "landmark", "coords": [14.448123, 35.896122]}, {"name": "Villa Bologna", "text": "Ein herrschaftliches Haus, das für seine historischen mediterranen Gärten bekannt ist.", "category": "park", "coords": [14.443829, 35.894832]}, {"name": "L-Akwedott ta’ Wignacourt", "text": "Ein Aquädukt aus dem 17. Jahrhundert, das gebaut wurde, um Wasser nach Valletta zu transportieren.", "category": "landmark", "coords": [14.45675, 35.893147]}, {"name": "L-Arkata ta' Wignacourt", "text": "Ein zeremonieller Torbogen, der als Teil des Wignacourt-Aquäduktsystems erbaut wurde.", "category": "historical", "coords": [14.47293, 35.889992]}, {"name": "Ġnien San Filippu", "text": "Ein friedlicher öffentlicher Garten mit Grünflächen und Freizeitbereichen in Qormi.", "category": "park", "coords": [14.502453, 35.891591]}, {"name": "Racecourse", "text": "Ein Veranstaltungsort für Pferderennen und Sportveranstaltungen im Bezirk Qormi.", "category": "landmark", "coords": [14.488666, 35.879165]}, {"name": "Madonna ta' Lourdes", "text": "Ein religiöses Denkmal, das der Muttergottes von Lourdes in Qormi gewidmet ist.", "category": "historical", "coords": [14.444558, 35.870185]}, {"name": "The Shipwreck", "text": "Ein lokaler Orientierungspunkt und eine Attraktion im Herzen von Qormi.", "category": "landmark", "coords": [14.468833, 35.897874]}, {"name": "Id-Daħla l-Qadima tal-Gżira", "text": "Die Überreste eines historischen Tores, das einst die Gegend von Gżira bediente.", "category": "historical", "coords": [14.490931, 35.901339]}, {"name": "Cash point", "text": "Ein interessanter Ort und lokaler Treffpunkt in der Gegend von Qormi.", "category": "landmark", "coords": [14.47184, 35.894126]}, {"name": "Joe Sciberras", "text": "Ein Denkmal, das dem Andenken an Joe Sciberras in Qormi gewidmet ist.", "category": "historical", "coords": [14.492628, 35.895377]}, {"name": "Monument għall-Ħaddiema", "text": "Ein Denkmal in Qormi, das an die Beiträge und Opfer der Arbeiter erinnert.", "category": "historical", "coords": [14.489135, 35.895604]}, {"name": "Is-Salib Rajt ma Rajtx", "text": "Ein historisches Steinkreuz in Qormi, das von lokaler Folklore und Legenden umwoben ist.", "category": "historical", "coords": [14.4728, 35.902577]}, {"name": "Monument Għal Dun Karm", "text": "Ein Denkmal zu Ehren von Dun Karm Psaila, dem Nationaldichter Maltas.", "category": "historical", "coords": [14.483172, 35.901549]}, {"name": "Rosa Kwir", "text": "Eine Kunstgalerie und ein Kulturraum, der zeitgenössische Werke in Qormi präsentiert.", "category": "museum", "coords": [14.454997, 35.897209]}, {"name": "Kuċċarda ta' Ħaż-Żebbuġ", "text": "Ein lokales Denkmal, das das kulturelle Erbe der Region Żebbuġ darstellt.", "category": "historical", "coords": [14.446323, 35.868369]}, {"name": "Firetech", "text": "Ein modernes Denkmal oder Wahrzeichen im Industriegebiet von Qormi.", "category": "historical", "coords": [14.474462, 35.885332]}, {"name": "Fondazzjoni Gabriel Caruana", "text": "Eine Kunststiftung und Galerie, die moderne maltesische Kunst fördert.", "category": "museum", "coords": [14.455952, 35.899963]}, {"name": "Good Shepherd Convent", "text": "Ein Kloster und Gebetsort, der dem Guten Hirten in Qormi gewidmet ist.", "category": "religious", "coords": [14.451512, 35.897255]}, {"name": "Il-Knisja ta' San Filep t'Agira, Iż-Żebbuġ", "text": "Eine prächtige barocke Pfarrkirche, die dem heiligen Philipp von Agira gewidmet ist.", "category": "religious", "coords": [14.442208, 35.871262]}, {"name": "Il-Bieb tal-Bombi", "text": "Ein verziertes bogenförmiges Stadttor, das ursprünglich als Teil der Floriana Lines erbaut wurde.", "category": "fortress", "coords": [14.502113, 35.890453]}, {"name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża", "text": "Eine Kapelle, die der Muttergottes der Wunderbaren Medaille in Qormi gewidmet ist.", "category": "religious", "coords": [14.496676, 35.886838]}, {"name": "Luqa Church", "text": "Eine historische Pfarrkirche, die dem heiligen Andreas im Dorf Luqa gewidmet ist.", "category": "religious", "coords": [14.488935, 35.860307]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "Eine markante neugotische und barocke Kirche, die dem heiligen Kajetan in Ħamrun gewidmet ist.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Il-Knisja tat-Trinità Mqaddsa", "text": "Eine Pfarrkirche aus dem 20. Jahrhundert, die der Heiligen Dreifaltigkeit gewidmet ist.", "category": "religious", "coords": [14.494105, 35.882749]}, {"name": "Our Lady of Sorrows Chapel", "text": "Eine kleine und friedliche Kapelle, die der Schmerzensmutter in Qormi gewidmet ist.", "category": "religious", "coords": [14.440711, 35.871901]}, {"name": "Balzan Parish Church", "text": "Ein historisches Erbe und eine Pfarrkirche, die der Verkündigung gewidmet ist.", "category": "landmark", "coords": [14.451331, 35.89869]}, {"name": "Il-Knisja Parrokkjali ta' Santa Marija", "text": "Eine historische Pfarrkirche aus dem 17. Jahrhundert in Birkirkara, die der heiligen Maria gewidmet ist.", "category": "landmark", "coords": [14.463, 35.895057]}, {"name": "Sant' Elena", "text": "Eine prunkvolle Barock-Basilika in Birkirkara, die der heiligen Helena gewidmet ist.", "category": "landmark", "coords": [14.465354, 35.899989]}, {"name": "Il-Parroċċa ta' Santa Venera", "text": "Eine Pfarrkirche aus dem 20. Jahrhundert, die der heiligen Venera gewidmet ist.", "category": "religious", "coords": [14.479932, 35.887934]}, {"name": "Sant' Anna", "text": "Ein Gebetsort, der der heiligen Anna in der Gegend von Qormi gewidmet ist.", "category": "religious", "coords": [14.442865, 35.892147]}, {"name": "Knisja tal-Madonna ta' Lourdes", "text": "Eine religiöse Stätte, die der Madonna von Lourdes in der Region Qormi gewidmet ist.", "category": "religious", "coords": [14.502937, 35.874227]}, {"name": "Madonna tal-Ħerba", "text": "Ein bekanntes Heiligtum in Birkirkara, das der Muttergottes von Tal-Ħerba gewidmet ist.", "category": "religious", "coords": [14.464864, 35.901175]}, {"name": "Il-Madonna tad-Duluri", "text": "Eine historische Kirche in Pietà, die der Schmerzensmutter gewidmet ist.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Knisja Arċipretali ta' San Ġorġ", "text": "Eine historische Erzpriesterkirche, die dem heiligen Georg in Qormi gewidmet ist.", "category": "landmark", "coords": [14.468347, 35.882234]}, {"name": "Ġibjun San Niklaw", "text": "Ġibjun San Niklaw in Qormi ist ein ruhiges Gewässer, das sich für eine kurze Rast eignet.", "category": "natural", "coords": [14.447871, 35.837219]}, {"name": "Ġibjun Navali ta' Ħal Farruġ", "text": "Das Ħal Farruġ Naval Reservoir in Qormi ist ein funktionales Wasserbecken in der Stadt.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Ġibjun ta' Santa Marija", "text": "Das Saint Mary Reservoir in Qormi bietet einen friedlichen Anblick inmitten der Umgebung.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "Die St Helen's Naval Reservoirs in Qormi sind ruhige Gewässer, ideal für eine Pause.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Il-Ġibjun ta' Kordin", "text": "Dieser See in Qormi Citta Pinto bietet eine ruhige Atmosphäre und schöne Ausblicke.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Campus Hub Games Room", "text": "Diese Spielhalle in Qormi Citta Pinto bietet eine Vielzahl von Spielen für die Familienunterhaltung.", "category": "family", "coords": [14.480471, 35.901978]}, {"name": "Bandli Tumas Fenech", "text": "Bandli Tumas Fenech ist ein beliebter, familienfreundlicher Spielplatz in Qormi Citta Pinto. Kinder finden hier viel Platz zum Spielen an der frischen Luft, was ihn zu einem sehr empfehlenswerten Zwischenstopp für junge Familien macht.", "category": "family", "coords": [14.463253, 35.877303]}, {"name": "Ġnien Anton Buttigieg", "text": "Der in Qormi Citta Pinto gelegene Ġnien Anton Buttigieg dient als lebendiger Außenspielplatz. Er bietet eine ideale Umgebung für Familien und verfügt über diverse Spielgeräte sowie reichlich Platz für Kinder.", "category": "family", "coords": [14.484838, 35.883646]}, {"name": "SAC Lower Ground", "text": "Das in Qormi Citta Pinto befindliche SAC Lower Ground ist ein Freizeitzentrum, das speziell für Kinder konzipiert wurde. Dieser offene Spielplatz gibt Familien einen einladenden Ort, um entspannte Stunden im Freien zu verbringen, während der Nachwuchs aktiv bleibt.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "Das SAC Upper Ground bietet einen weitläufigen Familienspielplatz innerhalb der Gemeinde Qormi Citta Pinto. Mit einer Vielzahl von Freizeitmöglichkeiten ist er perfekt für Kinder geeignet, die in einer sicheren Umgebung draußen spielen möchten.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Gnien Nazju Falzon", "text": "Gnien Nazju Falzon ist ein schön angelegter Garten mit Spielplatz in Qormi Citta Pinto. Das Gelände richtet sich an Familien mit Kindern und bietet Grünflächen sowie Spielzonen für ein hervorragendes Freilufterlebnis.", "category": "family", "coords": [14.473135, 35.897774]}], "hu": [{"name": "Palazz ta' Sant'Anton", "text": "Történelmi palota és hivatalos rezidencia Qormi környékén.", "category": "castle", "coords": [14.446321, 35.896538]}, {"name": "Tespi performance space", "text": "Helyi színházi előadások és kulturális események helyszíne Qormiban.", "category": "cultural", "coords": [14.48196, 35.902679]}, {"name": "Ta' Raddiena Megalithic Wall", "text": "Ősi megalitikus maradványok, amelyek Qormi régió korai történelmét mutatják be.", "category": "historical", "coords": [14.463078, 35.904612]}, {"name": "Mużew tal-Bambini", "text": "Egy múzeum Qormiban, amely a Jézuska-szobrok történetének és művészetének szentelt.", "category": "museum", "coords": [14.458132, 35.896626]}, {"name": "Teatru Malta Rehearsal Room", "text": "Színházi próbáknak és kreatív művészeteknek szentelt helyszín Qormiban.", "category": "cultural", "coords": [14.50486, 35.877625]}, {"name": "Montekristo Animal Park", "text": "Magán állatpark és állatkert a Montekristo birtokon, Qormiban.", "category": "family", "coords": [14.464958, 35.855724]}, {"name": "Il-Palazz ta' Montekristo", "text": "Modern, palota stílusú helyszín rendezvények és kiállítások számára Qormiban.", "category": "castle", "coords": [14.462563, 35.855463]}, {"name": "Malta Amateur Drama Company Clubrooms", "text": "A Máltai Amatőr Drámatársulat székháza és próbaterme Qormiban.", "category": "cultural", "coords": [14.477563, 35.891042]}, {"name": "Monument ta' Ħal Luqa", "text": "Egy jelentős emlékmű Luqa környékén, Qormi közelében.", "category": "historical", "coords": [14.484058, 35.860512]}, {"name": "Il-Monument ta' Spencer", "text": "Kapitány Sir Robert Cavendish Spencer emlékére emelt obeliszk.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "Il-Ġonna ta' Sant' Anton", "text": "Gyönyörű nyilvános kertek szökőkutakkal, tavakkal és különféle egzotikus növényekkel.", "category": "landmark", "coords": [14.448123, 35.896122]}, {"name": "Villa Bologna", "text": "Egy patinás kúria, amely történelmi mediterrán kertjeiről ismert.", "category": "park", "coords": [14.443829, 35.894832]}, {"name": "L-Akwedott ta’ Wignacourt", "text": "Egy 17. századi vízvezeték, amely Vallettába szállította a vizet.", "category": "landmark", "coords": [14.45675, 35.893147]}, {"name": "L-Arkata ta' Wignacourt", "text": "Egy díszes kapu, amely a Wignacourt-vízvezetékrendszer részeként épült.", "category": "historical", "coords": [14.47293, 35.889992]}, {"name": "Ġnien San Filippu", "text": "Egy békés nyilvános kert zöldfelületekkel és pihenőhelyekkel Qormiban.", "category": "park", "coords": [14.502453, 35.891591]}, {"name": "Racecourse", "text": "Lóversenyek és sportesemények helyszíne Qormi negyedében.", "category": "landmark", "coords": [14.488666, 35.879165]}, {"name": "Madonna ta' Lourdes", "text": "A lourdes-i Miasszonyunknak szentelt vallási emlékmű Qormiban.", "category": "historical", "coords": [14.444558, 35.870185]}, {"name": "The Shipwreck", "text": "Helyi nevezetesség és látnivaló Qormi szívében.", "category": "landmark", "coords": [14.468833, 35.897874]}, {"name": "Id-Daħla l-Qadima tal-Gżira", "text": "Egy történelmi kapu maradványai, amely egykor Gżira területét szolgálta.", "category": "historical", "coords": [14.490931, 35.901339]}, {"name": "Cash point", "text": "Érdekes helyszín és helyi találkozóhely Qormi környékén.", "category": "landmark", "coords": [14.47184, 35.894126]}, {"name": "Joe Sciberras", "text": "Joe Sciberras emlékének szentelt emlékmű Qormiban.", "category": "historical", "coords": [14.492628, 35.895377]}, {"name": "Monument għall-Ħaddiema", "text": "A munkások hozzájárulásának és áldozatának emléket állító emlékmű Qormiban.", "category": "historical", "coords": [14.489135, 35.895604]}, {"name": "Is-Salib Rajt ma Rajtx", "text": "Egy történelmi kőkereszt Qormiban, amelyet helyi folklór és legendák öveznek.", "category": "historical", "coords": [14.4728, 35.902577]}, {"name": "Monument Għal Dun Karm", "text": "Emlékmű Dun Karm Psaila, Málta nemzeti költőjének tiszteletére.", "category": "historical", "coords": [14.483172, 35.901549]}, {"name": "Rosa Kwir", "text": "Kortárs műveket bemutató művészeti galéria és kulturális tér Qormiban.", "category": "museum", "coords": [14.454997, 35.897209]}, {"name": "Kuċċarda ta' Ħaż-Żebbuġ", "text": "A Żebbuġ régió kulturális örökségét jelképező helyi emlékmű.", "category": "historical", "coords": [14.446323, 35.868369]}, {"name": "Firetech", "text": "Modern emlékmű vagy nevezetesség Qormi ipari területén.", "category": "historical", "coords": [14.474462, 35.885332]}, {"name": "Fondazzjoni Gabriel Caruana", "text": "Modern máltai művészetet népszerűsítő művészeti alapítvány és galéria.", "category": "museum", "coords": [14.455952, 35.899963]}, {"name": "Good Shepherd Convent", "text": "A Jó Pásztornak szentelt kolostor és imaház Qormiban.", "category": "religious", "coords": [14.451512, 35.897255]}, {"name": "Il-Knisja ta' San Filep t'Agira, Iż-Żebbuġ", "text": "Szent Philipposz Agirának szentelt impozáns barokk plébániatemplom.", "category": "religious", "coords": [14.442208, 35.871262]}, {"name": "Il-Bieb tal-Bombi", "text": "Egy díszes íves városkapu, amely eredetileg a Floriana-vonalak részeként épült.", "category": "fortress", "coords": [14.502113, 35.890453]}, {"name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża", "text": "A Csodás Érem Miasszonyunknak szentelt kápolna Qormiban.", "category": "religious", "coords": [14.496676, 35.886838]}, {"name": "Luqa Church", "text": "Szent Andrásnak szentelt történelmi plébániatemplom Luqa falujában.", "category": "religious", "coords": [14.488935, 35.860307]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "Szent Kajetánnak szentelt jelentős neogótikus és barokk templom Ħamrunban.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Il-Knisja tat-Trinità Mqaddsa", "text": "A Szentháromságnak szentelt 20. századi plébániatemplom.", "category": "religious", "coords": [14.494105, 35.882749]}, {"name": "Our Lady of Sorrows Chapel", "text": "A Fájdalmas Miasszonyunknak szentelt kis és békés kápolna Qormiban.", "category": "religious", "coords": [14.440711, 35.871901]}, {"name": "Balzan Parish Church", "text": "Történelmi örökségi helyszín és az Angyali üdvözletnek szentelt plébániatemplom.", "category": "landmark", "coords": [14.451331, 35.89869]}, {"name": "Il-Knisja Parrokkjali ta' Santa Marija", "text": "Egy történelmi, 17. századi plébániatemplom Birkirkarában, amelyet Szűz Máriának szenteltek.", "category": "landmark", "coords": [14.463, 35.895057]}, {"name": "Sant' Elena", "text": "Díszes barokk bazilika Birkirkarában, amelyet Szent Ilonának szenteltek.", "category": "landmark", "coords": [14.465354, 35.899989]}, {"name": "Il-Parroċċa ta' Santa Venera", "text": "Szent Venerának szentelt 20. századi plébániatemplom.", "category": "religious", "coords": [14.479932, 35.887934]}, {"name": "Sant' Anna", "text": "Szent Annának szentelt imaház Qormi környékén.", "category": "religious", "coords": [14.442865, 35.892147]}, {"name": "Knisja tal-Madonna ta' Lourdes", "text": "A lourdes-i Madonnának szentelt vallási helyszín Qormi régiójában.", "category": "religious", "coords": [14.502937, 35.874227]}, {"name": "Madonna tal-Ħerba", "text": "Egy ismert szentély Birkirkarában, amelyet a Tal-Ħerba-i Miasszonyunknak szenteltek.", "category": "religious", "coords": [14.464864, 35.901175]}, {"name": "Il-Madonna tad-Duluri", "text": "Egy történelmi templom Pietàban, amelyet a Fájdalmas Miasszonyunknak szenteltek.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Knisja Arċipretali ta' San Ġorġ", "text": "Szent Györgynek szentelt történelmi főesperesi templom Qormiban.", "category": "landmark", "coords": [14.468347, 35.882234]}, {"name": "Ġibjun San Niklaw", "text": "A Qormi-ban található Ġibjun San Niklaw egy nyugodt vízfelület, amely alkalmas egy rövid pihenőre.", "category": "natural", "coords": [14.447871, 35.837219]}, {"name": "Ġibjun Navali ta' Ħal Farruġ", "text": "A Qormi-i Ħal Farruġ Naval Reservoir egy funkcionális víztározó a városban.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Ġibjun ta' Santa Marija", "text": "A Qormi-i Saint Mary Reservoir békés látványt nyújt a környezetében.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "A Qormi-ban található St Helen's Naval Reservoirs nyugodt vízfelületek, ideálisak egy pihenőre.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Il-Ġibjun ta' Kordin", "text": "Ez a Qormi Citta Pinto városában található tó nyugodt környezetet és szép kilátást kínál.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Campus Hub Games Room", "text": "Ez a Qormi Citta Pinto városában található játékterem különféle játékokat kínál a család szórakoztatására.", "category": "family", "coords": [14.480471, 35.901978]}, {"name": "Bandli Tumas Fenech", "text": "A Bandli Tumas Fenech egy népszerű családbarát játszótér Qormi Citta Pinto területén. A gyerekek rengeteg helyet találnak itt a friss levegőn való játékhoz, így kifejezetten ajánlott megálló a kisgyermekes családoknak.", "category": "family", "coords": [14.463253, 35.877303]}, {"name": "Ġnien Anton Buttigieg", "text": "A Ġnien Anton Buttigieg Qormi Citta Pinto-i része egy élettel teli szabadtéri játszótér. Ideális környezetet teremt a családok számára, különféle játékokat és bőséges helyet kínálva a gyerekeknek.", "category": "family", "coords": [14.484838, 35.883646]}, {"name": "SAC Lower Ground", "text": "A Qormi Citta Pinto városában található SAC Lower Ground egy kifejezetten gyermekek számára tervezett rekreációs központ. Ez a nyitott játszótér barátságos helyet biztosít a családoknak a szabadtéri pihenéshez.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "A SAC Upper Ground egy tágas családi játszóteret biztosít Qormi Citta Pinto közösségében. Számos rekreációs lehetőségével tökéletesen alkalmas arra, hogy a gyermekek biztonságos környezetben játsszanak a szabadban.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Gnien Nazju Falzon", "text": "A Gnien Nazju Falzon egy szépen kialakított kert és játszótér Qormi Citta Pinto városában. A helyszín a gyermekes családokat szolgálja ki, zöldterületeket és játszóövezeteket kínálva egy kiváló szabadtéri élményhez.", "category": "family", "coords": [14.473135, 35.897774]}], "ro": [{"name": "Palazz ta' Sant'Anton", "text": "Un palat istoric și reședință oficială situată în zona Qormi.", "category": "castle", "coords": [14.446321, 35.896538]}, {"name": "Tespi performance space", "text": "Un loc local pentru spectacole de teatru și evenimente culturale în Qormi.", "category": "cultural", "coords": [14.48196, 35.902679]}, {"name": "Ta' Raddiena Megalithic Wall", "text": "Vestigii megalitice antice care prezintă istoria timpurie a regiunii Qormi.", "category": "historical", "coords": [14.463078, 35.904612]}, {"name": "Mużew tal-Bambini", "text": "Un muzeu din Qormi dedicat istoriei și artei figurinelor cu Pruncul Isus.", "category": "museum", "coords": [14.458132, 35.896626]}, {"name": "Teatru Malta Rehearsal Room", "text": "Un spațiu dedicat repetițiilor de teatru și artelor creative din Qormi.", "category": "cultural", "coords": [14.50486, 35.877625]}, {"name": "Montekristo Animal Park", "text": "Un parc zoologic privat situat pe domeniul Montekristo din Qormi.", "category": "family", "coords": [14.464958, 35.855724]}, {"name": "Il-Palazz ta' Montekristo", "text": "Un loc modern în stil palat, utilizat pentru evenimente și expoziții în Qormi.", "category": "castle", "coords": [14.462563, 35.855463]}, {"name": "Malta Amateur Drama Company Clubrooms", "text": "Sediul și spațiul de repetiții al Companiei de Teatru Amator din Malta în Qormi.", "category": "cultural", "coords": [14.477563, 35.891042]}, {"name": "Monument ta' Ħal Luqa", "text": "Un monument proeminent situat în zona Luqa, lângă Qormi.", "category": "historical", "coords": [14.484058, 35.860512]}, {"name": "Il-Monument ta' Spencer", "text": "Un monument de tip obelisc dedicat căpitanului Sir Robert Cavendish Spencer.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "Il-Ġonna ta' Sant' Anton", "text": "Grădini publice frumoase, cu fântâni, iazuri și o varietate de plante exotice.", "category": "landmark", "coords": [14.448123, 35.896122]}, {"name": "Villa Bologna", "text": "O reședință nobiliară cunoscută pentru grădinile sale mediteraneene istorice.", "category": "park", "coords": [14.443829, 35.894832]}, {"name": "L-Akwedott ta’ Wignacourt", "text": "Un apeduct din secolul al XVII-lea construit pentru a transporta apa către Valletta.", "category": "landmark", "coords": [14.45675, 35.893147]}, {"name": "L-Arkata ta' Wignacourt", "text": "Un arc ceremonial construit ca parte a sistemului de apeducte Wignacourt.", "category": "historical", "coords": [14.47293, 35.889992]}, {"name": "Ġnien San Filippu", "text": "O grădină publică liniștită care oferă spații verzi și zone de agrement în Qormi.", "category": "park", "coords": [14.502453, 35.891591]}, {"name": "Racecourse", "text": "Un loc pentru curse de cai și evenimente sportive situat în districtul Qormi.", "category": "landmark", "coords": [14.488666, 35.879165]}, {"name": "Madonna ta' Lourdes", "text": "Un monument religios dedicat Maicii Domnului din Lourdes în Qormi.", "category": "historical", "coords": [14.444558, 35.870185]}, {"name": "The Shipwreck", "text": "Un punct de reper local și o atracție situată în inima orașului Qormi.", "category": "landmark", "coords": [14.468833, 35.897874]}, {"name": "Id-Daħla l-Qadima tal-Gżira", "text": "Rămășițele unei porți istorice care deservea odinioară zona Gżira.", "category": "historical", "coords": [14.490931, 35.901339]}, {"name": "Cash point", "text": "Un punct de interes și un loc de întâlnire local în zona Qormi.", "category": "landmark", "coords": [14.47184, 35.894126]}, {"name": "Joe Sciberras", "text": "Un monument dedicat memoriei lui Joe Sciberras în Qormi.", "category": "historical", "coords": [14.492628, 35.895377]}, {"name": "Monument għall-Ħaddiema", "text": "Un monument din Qormi care comemorează contribuțiile și sacrificiile lucrătorilor.", "category": "historical", "coords": [14.489135, 35.895604]}, {"name": "Is-Salib Rajt ma Rajtx", "text": "O cruce istorică de piatră din Qormi, învăluită în folclor și legende locale.", "category": "historical", "coords": [14.4728, 35.902577]}, {"name": "Monument Għal Dun Karm", "text": "Un monument în cinstea lui Dun Karm Psaila, poetul național al Maltei.", "category": "historical", "coords": [14.483172, 35.901549]}, {"name": "Rosa Kwir", "text": "O galerie de artă și spațiu cultural care prezintă lucrări contemporane în Qormi.", "category": "museum", "coords": [14.454997, 35.897209]}, {"name": "Kuċċarda ta' Ħaż-Żebbuġ", "text": "Un monument local care reprezintă moștenirea culturală a regiunii Żebbuġ.", "category": "historical", "coords": [14.446323, 35.868369]}, {"name": "Firetech", "text": "Un monument sau punct de reper modern situat în zona industrială din Qormi.", "category": "historical", "coords": [14.474462, 35.885332]}, {"name": "Fondazzjoni Gabriel Caruana", "text": "O fundație de artă și galerie care promovează arta malteză modernă.", "category": "museum", "coords": [14.455952, 35.899963]}, {"name": "Good Shepherd Convent", "text": "O mănăstire și un lăcaș de cult dedicat Bunului Păstor din Qormi.", "category": "religious", "coords": [14.451512, 35.897255]}, {"name": "Il-Knisja ta' San Filep t'Agira, Iż-Żebbuġ", "text": "O biserică parohială barocă impunătoare dedicată Sfântului Filip din Agira.", "category": "religious", "coords": [14.442208, 35.871262]}, {"name": "Il-Bieb tal-Bombi", "text": "O poartă ornamentală a orașului, construită inițial ca parte a Liniilor Floriana.", "category": "fortress", "coords": [14.502113, 35.890453]}, {"name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża", "text": "O capelă dedicată Maicii Domnului a Medaliei Miraculoase din Qormi.", "category": "religious", "coords": [14.496676, 35.886838]}, {"name": "Luqa Church", "text": "O biserică parohială istorică dedicată Sfântului Andrei din satul Luqa.", "category": "religious", "coords": [14.488935, 35.860307]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "O biserică proeminentă în stil neogotic și baroc dedicată Sfântului Cajetan din Ħamrun.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Il-Knisja tat-Trinità Mqaddsa", "text": "O biserică parohială din secolul al XX-lea dedicată Sfintei Treimi.", "category": "religious", "coords": [14.494105, 35.882749]}, {"name": "Our Lady of Sorrows Chapel", "text": "O capelă mică și liniștită dedicată Maicii Domnului a Îndurerate din Qormi.", "category": "religious", "coords": [14.440711, 35.871901]}, {"name": "Balzan Parish Church", "text": "Un sit istoric de patrimoniu și biserică parohială dedicată Bunei Vestiri.", "category": "landmark", "coords": [14.451331, 35.89869]}, {"name": "Il-Knisja Parrokkjali ta' Santa Marija", "text": "O biserică parohială istorică din secolul al XVII-lea din Birkirkara, dedicată Sfintei Maria.", "category": "landmark", "coords": [14.463, 35.895057]}, {"name": "Sant' Elena", "text": "O bazilică barocă ornamentată din Birkirkara, dedicată Sfintei Elena.", "category": "landmark", "coords": [14.465354, 35.899989]}, {"name": "Il-Parroċċa ta' Santa Venera", "text": "O biserică parohială din secolul al XX-lea dedicată Sfintei Venera.", "category": "religious", "coords": [14.479932, 35.887934]}, {"name": "Sant' Anna", "text": "Un lăcaș de cult dedicat Sfintei Ana din zona Qormi.", "category": "religious", "coords": [14.442865, 35.892147]}, {"name": "Knisja tal-Madonna ta' Lourdes", "text": "Un sit religios dedicat Madonei din Lourdes în regiunea Qormi.", "category": "religious", "coords": [14.502937, 35.874227]}, {"name": "Madonna tal-Ħerba", "text": "Un sanctuar binecunoscut din Birkirkara dedicat Maicii Domnului din Tal-Ħerba.", "category": "religious", "coords": [14.464864, 35.901175]}, {"name": "Il-Madonna tad-Duluri", "text": "O biserică istorică din Pietà dedicată Maicii Domnului a Îndurerate.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Knisja Arċipretali ta' San Ġorġ", "text": "O biserică arhiepiscopală istorică dedicată Sfântului Gheorghe din Qormi.", "category": "landmark", "coords": [14.468347, 35.882234]}, {"name": "Ġibjun San Niklaw", "text": "Ġibjun San Niklaw din Qormi este o întindere de apă liniștită, potrivită pentru un scurt repaus.", "category": "natural", "coords": [14.447871, 35.837219]}, {"name": "Ġibjun Navali ta' Ħal Farruġ", "text": "Ħal Farruġ Naval Reservoir din Qormi este un bazin de apă funcțional situat în oraș.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Ġibjun ta' Santa Marija", "text": "Saint Mary Reservoir din Qormi oferă o priveliște pașnică în mijlocul împrejurimilor.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "St Helen's Naval Reservoirs din Qormi sunt rezervoare de apă liniștite, ideale pentru o pauză.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Il-Ġibjun ta' Kordin", "text": "Acest lac din Qormi Citta Pinto oferă o atmosferă liniștită și priveliști frumoase.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Campus Hub Games Room", "text": "Această sală de jocuri din Qormi Citta Pinto oferă o varietate de jocuri pentru divertismentul familiei.", "category": "family", "coords": [14.480471, 35.901978]}, {"name": "Bandli Tumas Fenech", "text": "Bandli Tumas Fenech este un loc de joacă popular pentru familii, situat în Qormi Citta Pinto. Copiii vor găsi aici mult spațiu pentru a se juca în aer liber, fiind o oprire foarte recomandată pentru tinerele familii.", "category": "family", "coords": [14.463253, 35.877303]}, {"name": "Ġnien Anton Buttigieg", "text": "Filiala din Qormi Citta Pinto a Ġnien Anton Buttigieg servește ca un loc de joacă vibrant în aer liber. Prezintă un mediu ideal pentru familii, oferind diverse echipamente de joacă și spațiu amplu pentru copii.", "category": "family", "coords": [14.484838, 35.883646]}, {"name": "SAC Lower Ground", "text": "Aflat în Qormi Citta Pinto, SAC Lower Ground este un centru de recreere conceput special pentru copii. Acest loc de joacă deschis oferă familiilor un spațiu primitor pentru a petrece ore relaxante în aer liber.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "SAC Upper Ground oferă un loc de joacă spațios pentru familii în cadrul comunității din Qormi Citta Pinto. Cu o serie de opțiuni de recreere, este perfect adaptat pentru copiii dornici să se joace afară într-un mediu sigur.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Gnien Nazju Falzon", "text": "Gnien Nazju Falzon este o grădină și un loc de joacă frumos amenajat, situat în Qormi Citta Pinto. Locația se adresează familiilor cu copii, oferind spații verzi și zone de joacă pentru o experiență excelentă în aer liber.", "category": "family", "coords": [14.473135, 35.897774]}], "en": [{"name": "San Anton Palace", "text": "A historic palace and official residence located in the Qormi area.", "category": "castle", "coords": [14.446321, 35.896538]}, {"name": "Tespi performance space", "text": "A local venue for theatrical performances and cultural events in Qormi.", "category": "cultural", "coords": [14.48196, 35.902679]}, {"name": "Ta' Raddiena Megalithic Wall", "text": "Ancient megalithic remains showcasing the early history of the Qormi region.", "category": "historical", "coords": [14.463078, 35.904612]}, {"name": "Baby Jesus Museum", "text": "A museum in Qormi dedicated to the history and art of Baby Jesus figurines.", "category": "museum", "coords": [14.458132, 35.896626]}, {"name": "Teatru Malta Rehearsal Room", "text": "A dedicated space for theatrical rehearsals and creative arts in Qormi.", "category": "cultural", "coords": [14.50486, 35.877625]}, {"name": "Montekristo Animal Park", "text": "A private animal park and zoo located within the Montekristo estate in Qormi.", "category": "family", "coords": [14.464958, 35.855724]}, {"name": "Montekristo Palace", "text": "A modern palace-style venue used for events and exhibitions in Qormi.", "category": "castle", "coords": [14.462563, 35.855463]}, {"name": "Malta Amateur Drama Company Clubrooms", "text": "The headquarters and rehearsal space for the Malta Amateur Drama Company in Qormi.", "category": "cultural", "coords": [14.477563, 35.891042]}, {"name": "Monument ta' Ħal Luqa", "text": "A prominent monument located in the Luqa area near Qormi.", "category": "historical", "coords": [14.484058, 35.860512]}, {"name": "Spencer Monument", "text": "An obelisk monument dedicated to Captain Sir Robert Cavendish Spencer.", "category": "historical", "coords": [14.497654, 35.887453]}, {"name": "San Anton Gardens", "text": "Beautiful public gardens featuring fountains, ponds, and a variety of exotic plants.", "category": "landmark", "coords": [14.448123, 35.896122]}, {"name": "Villa Bologna", "text": "A stately home known for its historic Mediterranean gardens.", "category": "park", "coords": [14.443829, 35.894832]}, {"name": "Wignacourt Aqueduct", "text": "A 17th-century aqueduct built to transport water to Valletta.", "category": "landmark", "coords": [14.45675, 35.893147]}, {"name": "Wignacourt Arch", "text": "A ceremonial archway built as part of the Wignacourt Aqueduct system.", "category": "historical", "coords": [14.47293, 35.889992]}, {"name": "Saint Philip Garden", "text": "A peaceful public garden offering green space and leisure areas in Qormi.", "category": "park", "coords": [14.502453, 35.891591]}, {"name": "Racecourse", "text": "A venue for horse racing and sporting events located in the Qormi district.", "category": "landmark", "coords": [14.488666, 35.879165]}, {"name": "Our Lady of Lourdes", "text": "A religious monument dedicated to Our Lady of Lourdes in Qormi.", "category": "historical", "coords": [14.444558, 35.870185]}, {"name": "The Shipwreck", "text": "A local landmark and attraction located in the heart of Qormi.", "category": "landmark", "coords": [14.468833, 35.897874]}, {"name": "Gżira's Old Gate", "text": "The remains of a historic gate that once served the Gżira area.", "category": "historical", "coords": [14.490931, 35.901339]}, {"name": "Cash point", "text": "A point of interest and local meeting spot in the Qormi area.", "category": "landmark", "coords": [14.47184, 35.894126]}, {"name": "Joe Sciberras", "text": "A monument dedicated to the memory of Joe Sciberras in Qormi.", "category": "historical", "coords": [14.492628, 35.895377]}, {"name": "Workers' Memorial", "text": "A monument in Qormi commemorating the contributions and sacrifices of workers.", "category": "historical", "coords": [14.489135, 35.895604]}, {"name": "Is-Salib Rajt ma Rajtx", "text": "A historic stone cross in Qormi shrouded in local folklore and legends.", "category": "historical", "coords": [14.4728, 35.902577]}, {"name": "Dun Karm Monument", "text": "A monument honoring Dun Karm Psaila, the national poet of Malta.", "category": "historical", "coords": [14.483172, 35.901549]}, {"name": "Rosa Kwir", "text": "An art gallery and cultural space showcasing contemporary works in Qormi.", "category": "museum", "coords": [14.454997, 35.897209]}, {"name": "Kuċċarda ta' Ħaż-Żebbuġ", "text": "A local monument representing the cultural heritage of the Żebbuġ region.", "category": "historical", "coords": [14.446323, 35.868369]}, {"name": "Firetech", "text": "A modern monument or landmark situated in the industrial area of Qormi.", "category": "historical", "coords": [14.474462, 35.885332]}, {"name": "Gabriel Caruana Foundation", "text": "An art foundation and gallery promoting modern Maltese art.", "category": "museum", "coords": [14.455952, 35.899963]}, {"name": "Good Shepherd Convent", "text": "A convent and place of worship dedicated to the Good Shepherd in Qormi.", "category": "religious", "coords": [14.451512, 35.897255]}, {"name": "Żebbuġ Parish Church", "text": "A grand Baroque parish church dedicated to Saint Philip of Agira.", "category": "religious", "coords": [14.442208, 35.871262]}, {"name": "Il-Bieb tal-Bombi", "text": "An ornamental arched city gate originally built as part of the Floriana Lines.", "category": "fortress", "coords": [14.502113, 35.890453]}, {"name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża", "text": "A chapel dedicated to Our Lady of the Miraculous Medal in Qormi.", "category": "religious", "coords": [14.496676, 35.886838]}, {"name": "Luqa Church", "text": "A historic parish church dedicated to Saint Andrew in the village of Luqa.", "category": "religious", "coords": [14.488935, 35.860307]}, {"name": "Il-Knisja ta' San Gejtanu", "text": "A prominent Neo-Gothic and Baroque church dedicated to Saint Cajetan in Ħamrun.", "category": "religious", "coords": [14.487224, 35.886557]}, {"name": "Holy Trinity Church", "text": "A 20th-century parish church dedicated to the Holy Trinity.", "category": "religious", "coords": [14.494105, 35.882749]}, {"name": "Our Lady of Sorrows Chapel", "text": "A small and peaceful chapel dedicated to Our Lady of Sorrows in Qormi.", "category": "religious", "coords": [14.440711, 35.871901]}, {"name": "Parish Church of Our Lady of Annunciation", "text": "A historic heritage site and parish church dedicated to the Annunciation.", "category": "landmark", "coords": [14.451331, 35.89869]}, {"name": "Saint Mary's Parish Church", "text": "A historic 17th-century parish church in Birkirkara dedicated to Saint Mary.", "category": "landmark", "coords": [14.463, 35.895057]}, {"name": "Parish Church of Saint Helen", "text": "An ornate Baroque basilica in Birkirkara dedicated to Saint Helen.", "category": "landmark", "coords": [14.465354, 35.899989]}, {"name": "Saint Venera Parish Church", "text": "A 20th-century parish church dedicated to Saint Venera.", "category": "religious", "coords": [14.479932, 35.887934]}, {"name": "Saint Anne", "text": "A place of worship dedicated to Saint Anne in the Qormi area.", "category": "religious", "coords": [14.442865, 35.892147]}, {"name": "Church of the Madonna of Lourdes", "text": "A religious site dedicated to the Madonna of Lourdes in the Qormi region.", "category": "religious", "coords": [14.502937, 35.874227]}, {"name": "Madonna tal-Ħerba", "text": "A well-known sanctuary in Birkirkara dedicated to Our Lady of Tal-Ħerba.", "category": "religious", "coords": [14.464864, 35.901175]}, {"name": "Our Lady of Sorrows", "text": "A historic church in Pietà dedicated to Our Lady of Sorrows.", "category": "religious", "coords": [14.496775, 35.890957]}, {"name": "Knisja Arċipretali ta' San Ġorġ", "text": "A historic archipretal church dedicated to Saint George in Qormi.", "category": "landmark", "coords": [14.468347, 35.882234]}, {"name": "Ġibjun San Niklaw", "text": "Ġibjun San Niklaw in Qormi is a calm body of water suitable for a short rest.", "category": "natural", "coords": [14.447871, 35.837219]}, {"name": "Ħal Farruġ Naval Reservoir", "text": "The Ħal Farruġ Naval Reservoir in Qormi is a functional water basin in the city.", "category": "natural", "coords": [14.481676, 35.861448]}, {"name": "Saint Mary Reservoir", "text": "Saint Mary Reservoir in Qormi offers a peaceful sight amidst the surroundings.", "category": "natural", "coords": [14.427789, 35.892759]}, {"name": "St Helen's Naval Reservoirs", "text": "St Helen's Naval Reservoirs in Qormi are calm bodies of water ideal for a break.", "category": "natural", "coords": [14.520406, 35.87897]}, {"name": "Kordin Reservoir", "text": "This lake in Qormi Citta Pinto offers a calm atmosphere and scenic views.", "category": "natural", "coords": [14.508328, 35.883375]}, {"name": "Campus Hub Games Room", "text": "This amusement arcade in Qormi Citta Pinto provides a variety of games for family entertainment.", "category": "family", "coords": [14.480471, 35.901978]}, {"name": "Bandli Tumas Fenech", "text": "Bandli Tumas Fenech is a popular family-friendly playground situated in Qormi Citta Pinto. Children will find plenty of space to play in the fresh air, making it a highly recommended stop for young families.", "category": "family", "coords": [14.463253, 35.877303]}, {"name": "Anton Buttigieg Garden", "text": "The Qormi Citta Pinto branch of Ġnien Anton Buttigieg serves as a vibrant outdoor playground. It presents an ideal environment for families, offering various play equipment and ample room for children to enjoy their day.", "category": "family", "coords": [14.484838, 35.883646]}, {"name": "SAC Lower Ground", "text": "Found in Qormi Citta Pinto, the SAC Lower Ground is a recreational hub designed with children in mind. This open playground gives families a welcoming spot to spend relaxing hours outdoors while the kids stay active.", "category": "family", "coords": [14.496219, 35.892497]}, {"name": "SAC Upper Ground", "text": "SAC Upper Ground provides a spacious family playground within the community of Qormi Citta Pinto. With an array of recreational options, it is perfectly suited for children looking to play outside in a safe environment.", "category": "family", "coords": [14.495255, 35.892951]}, {"name": "Gnien Nazju Falzon", "text": "Gnien Nazju Falzon is a beautifully laid out garden and playground situated in Qormi Citta Pinto. The site caters to families with children, offering green spaces and play zones for an excellent outdoor experience.", "category": "family", "coords": [14.473135, 35.897774]}]},
+    id: "city-qormi-extra", "sights": {
+      "de": [
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Ein historischer Palast und offizielle Residenz in der Gegend von Qormi.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und kulturelle Veranstaltungen in Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Antike megalithische Überreste, die die frühe Geschichte der Region Qormi zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "Mużew tal-Bambini",
+                  "text": "Ein Museum in Qormi, das der Geschichte und Kunst von Jesuskind-Figuren gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Teatru Malta Rehearsal Room",
+                  "text": "Ein spezieller Raum für Theaterproben und kreative Künste in Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.50486,
+                        35.877625
+                  ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "Ein privater Tierpark und Zoo auf dem Anwesen Montekristo in Qormi.",
+                  "category": "family",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Il-Palazz ta' Montekristo",
+                  "text": "Ein moderner Veranstaltungsort im Palaststil für Events und Ausstellungen in Qormi.",
+                  "category": "castle",
+                  "coords": [
+                        14.462563,
+                        35.855463
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "Der Hauptsitz und Probenraum der Malta Amateur Drama Company in Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "Monument ta' Ħal Luqa",
+                  "text": "Ein markantes Denkmal in der Gegend von Luqa in der Nähe von Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.484058,
+                        35.860512
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Ein Obelisk-Denkmal, das Kapitän Sir Robert Cavendish Spencer gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Schöne öffentliche Gärten mit Springbrunnen, Teichen und einer Vielzahl exotischer Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "Ein herrschaftliches Haus, das für seine historischen mediterranen Gärten bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "Ein Aquädukt aus dem 17. Jahrhundert, das gebaut wurde, um Wasser nach Valletta zu transportieren.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "L-Arkata ta' Wignacourt",
+                  "text": "Ein zeremonieller Torbogen, der als Teil des Wignacourt-Aquäduktsystems erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Ġnien San Filippu",
+                  "text": "Ein friedlicher öffentlicher Garten mit Grünflächen und Freizeitbereichen in Qormi.",
+                  "category": "park",
+                  "coords": [
+                        14.502453,
+                        35.891591
+                  ]
+            },
+            {
+                  "name": "Racecourse",
+                  "text": "Ein Veranstaltungsort für Pferderennen und Sportveranstaltungen im Bezirk Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.488666,
+                        35.879165
+                  ]
+            },
+            {
+                  "name": "Madonna ta' Lourdes",
+                  "text": "Ein religiöses Denkmal, das der Muttergottes von Lourdes in Qormi gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.444558,
+                        35.870185
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "Ein lokaler Orientierungspunkt und eine Attraktion im Herzen von Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Id-Daħla l-Qadima tal-Gżira",
+                  "text": "Die Überreste eines historischen Tores, das einst die Gegend von Gżira bediente.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "Ein interessanter Ort und lokaler Treffpunkt in der Gegend von Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "Ein Denkmal, das dem Andenken an Joe Sciberras in Qormi gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Monument għall-Ħaddiema",
+                  "text": "Ein Denkmal in Qormi, das an die Beiträge und Opfer der Arbeiter erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "Ein historisches Steinkreuz in Qormi, das von lokaler Folklore und Legenden umwoben ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Monument Għal Dun Karm",
+                  "text": "Ein Denkmal zu Ehren von Dun Karm Psaila, dem Nationaldichter Maltas.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "Eine Kunstgalerie und ein Kulturraum, der zeitgenössische Werke in Qormi präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Kuċċarda ta' Ħaż-Żebbuġ",
+                  "text": "Ein lokales Denkmal, das das kulturelle Erbe der Region Żebbuġ darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        14.446323,
+                        35.868369
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "Ein modernes Denkmal oder Wahrzeichen im Industriegebiet von Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "Eine Kunststiftung und Galerie, die moderne maltesische Kunst fördert.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "Ein Kloster und Gebetsort, der dem Guten Hirten in Qormi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Filep t'Agira, Iż-Żebbuġ",
+                  "text": "Eine prächtige barocke Pfarrkirche, die dem heiligen Philipp von Agira gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.442208,
+                        35.871262
+                  ]
+            },
+            {
+                  "name": "Il-Bieb tal-Bombi",
+                  "text": "Ein verziertes bogenförmiges Stadttor, das ursprünglich als Teil der Floriana Lines erbaut wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        14.502113,
+                        35.890453
+                  ]
+            },
+            {
+                  "name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża",
+                  "text": "Eine Kapelle, die der Muttergottes der Wunderbaren Medaille in Qormi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.496676,
+                        35.886838
+                  ]
+            },
+            {
+                  "name": "Luqa Church",
+                  "text": "Eine historische Pfarrkirche, die dem heiligen Andreas im Dorf Luqa gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.488935,
+                        35.860307
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "Eine markante neugotische und barocke Kirche, die dem heiligen Kajetan in Ħamrun gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Il-Knisja tat-Trinità Mqaddsa",
+                  "text": "Eine Pfarrkirche aus dem 20. Jahrhundert, die der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.494105,
+                        35.882749
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Chapel",
+                  "text": "Eine kleine und friedliche Kapelle, die der Schmerzensmutter in Qormi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.440711,
+                        35.871901
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Ein historisches Erbe und eine Pfarrkirche, die der Verkündigung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokkjali ta' Santa Marija",
+                  "text": "Eine historische Pfarrkirche aus dem 17. Jahrhundert in Birkirkara, die der heiligen Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Sant' Elena",
+                  "text": "Eine prunkvolle Barock-Basilika in Birkirkara, die der heiligen Helena gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Santa Venera",
+                  "text": "Eine Pfarrkirche aus dem 20. Jahrhundert, die der heiligen Venera gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Sant' Anna",
+                  "text": "Ein Gebetsort, der der heiligen Anna in der Gegend von Qormi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Madonna ta' Lourdes",
+                  "text": "Eine religiöse Stätte, die der Madonna von Lourdes in der Region Qormi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.502937,
+                        35.874227
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "Ein bekanntes Heiligtum in Birkirkara, das der Muttergottes von Tal-Ħerba gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "Eine historische Kirche in Pietà, die der Schmerzensmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "Eine historische Erzpriesterkirche, die dem heiligen Georg in Qormi gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Qormi ist ein ruhiges Gewässer, das sich für eine kurze Rast eignet.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Das Ħal Farruġ Naval Reservoir in Qormi ist ein funktionales Wasserbecken in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Das Saint Mary Reservoir in Qormi bietet einen friedlichen Anblick inmitten der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "Die St Helen's Naval Reservoirs in Qormi sind ruhige Gewässer, ideal für eine Pause.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Dieser See in Qormi Citta Pinto bietet eine ruhige Atmosphäre und schöne Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Diese Spielhalle in Qormi Citta Pinto bietet eine Vielzahl von Spielen für die Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech ist ein beliebter, familienfreundlicher Spielplatz in Qormi Citta Pinto. Kinder finden hier viel Platz zum Spielen an der frischen Luft, was ihn zu einem sehr empfehlenswerten Zwischenstopp für junge Familien macht.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Der in Qormi Citta Pinto gelegene Ġnien Anton Buttigieg dient als lebendiger Außenspielplatz. Er bietet eine ideale Umgebung für Familien und verfügt über diverse Spielgeräte sowie reichlich Platz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Das in Qormi Citta Pinto befindliche SAC Lower Ground ist ein Freizeitzentrum, das speziell für Kinder konzipiert wurde. Dieser offene Spielplatz gibt Familien einen einladenden Ort, um entspannte Stunden im Freien zu verbringen, während der Nachwuchs aktiv bleibt.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "Das SAC Upper Ground bietet einen weitläufigen Familienspielplatz innerhalb der Gemeinde Qormi Citta Pinto. Mit einer Vielzahl von Freizeitmöglichkeiten ist er perfekt für Kinder geeignet, die in einer sicheren Umgebung draußen spielen möchten.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon ist ein schön angelegter Garten mit Spielplatz in Qormi Citta Pinto. Das Gelände richtet sich an Familien mit Kindern und bietet Grünflächen sowie Spielzonen für ein hervorragendes Freilufterlebnis.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Ein Schwimmbadkomplex in Qormi (Città Pinto).",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Történelmi palota és hivatalos rezidencia Qormi környékén.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "Helyi színházi előadások és kulturális események helyszíne Qormiban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Ősi megalitikus maradványok, amelyek Qormi régió korai történelmét mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "Mużew tal-Bambini",
+                  "text": "Egy múzeum Qormiban, amely a Jézuska-szobrok történetének és művészetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Teatru Malta Rehearsal Room",
+                  "text": "Színházi próbáknak és kreatív művészeteknek szentelt helyszín Qormiban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.50486,
+                        35.877625
+                  ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "Magán állatpark és állatkert a Montekristo birtokon, Qormiban.",
+                  "category": "family",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Il-Palazz ta' Montekristo",
+                  "text": "Modern, palota stílusú helyszín rendezvények és kiállítások számára Qormiban.",
+                  "category": "castle",
+                  "coords": [
+                        14.462563,
+                        35.855463
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "A Máltai Amatőr Drámatársulat székháza és próbaterme Qormiban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "Monument ta' Ħal Luqa",
+                  "text": "Egy jelentős emlékmű Luqa környékén, Qormi közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.484058,
+                        35.860512
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Kapitány Sir Robert Cavendish Spencer emlékére emelt obeliszk.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Gyönyörű nyilvános kertek szökőkutakkal, tavakkal és különféle egzotikus növényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "Egy patinás kúria, amely történelmi mediterrán kertjeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "Egy 17. századi vízvezeték, amely Vallettába szállította a vizet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "L-Arkata ta' Wignacourt",
+                  "text": "Egy díszes kapu, amely a Wignacourt-vízvezetékrendszer részeként épült.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Ġnien San Filippu",
+                  "text": "Egy békés nyilvános kert zöldfelületekkel és pihenőhelyekkel Qormiban.",
+                  "category": "park",
+                  "coords": [
+                        14.502453,
+                        35.891591
+                  ]
+            },
+            {
+                  "name": "Racecourse",
+                  "text": "Lóversenyek és sportesemények helyszíne Qormi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.488666,
+                        35.879165
+                  ]
+            },
+            {
+                  "name": "Madonna ta' Lourdes",
+                  "text": "A lourdes-i Miasszonyunknak szentelt vallási emlékmű Qormiban.",
+                  "category": "historical",
+                  "coords": [
+                        14.444558,
+                        35.870185
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "Helyi nevezetesség és látnivaló Qormi szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Id-Daħla l-Qadima tal-Gżira",
+                  "text": "Egy történelmi kapu maradványai, amely egykor Gżira területét szolgálta.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "Érdekes helyszín és helyi találkozóhely Qormi környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "Joe Sciberras emlékének szentelt emlékmű Qormiban.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Monument għall-Ħaddiema",
+                  "text": "A munkások hozzájárulásának és áldozatának emléket állító emlékmű Qormiban.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "Egy történelmi kőkereszt Qormiban, amelyet helyi folklór és legendák öveznek.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Monument Għal Dun Karm",
+                  "text": "Emlékmű Dun Karm Psaila, Málta nemzeti költőjének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "Kortárs műveket bemutató művészeti galéria és kulturális tér Qormiban.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Kuċċarda ta' Ħaż-Żebbuġ",
+                  "text": "A Żebbuġ régió kulturális örökségét jelképező helyi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        14.446323,
+                        35.868369
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "Modern emlékmű vagy nevezetesség Qormi ipari területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "Modern máltai művészetet népszerűsítő művészeti alapítvány és galéria.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "A Jó Pásztornak szentelt kolostor és imaház Qormiban.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Filep t'Agira, Iż-Żebbuġ",
+                  "text": "Szent Philipposz Agirának szentelt impozáns barokk plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        14.442208,
+                        35.871262
+                  ]
+            },
+            {
+                  "name": "Il-Bieb tal-Bombi",
+                  "text": "Egy díszes íves városkapu, amely eredetileg a Floriana-vonalak részeként épült.",
+                  "category": "fortress",
+                  "coords": [
+                        14.502113,
+                        35.890453
+                  ]
+            },
+            {
+                  "name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża",
+                  "text": "A Csodás Érem Miasszonyunknak szentelt kápolna Qormiban.",
+                  "category": "religious",
+                  "coords": [
+                        14.496676,
+                        35.886838
+                  ]
+            },
+            {
+                  "name": "Luqa Church",
+                  "text": "Szent Andrásnak szentelt történelmi plébániatemplom Luqa falujában.",
+                  "category": "religious",
+                  "coords": [
+                        14.488935,
+                        35.860307
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "Szent Kajetánnak szentelt jelentős neogótikus és barokk templom Ħamrunban.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Il-Knisja tat-Trinità Mqaddsa",
+                  "text": "A Szentháromságnak szentelt 20. századi plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        14.494105,
+                        35.882749
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Chapel",
+                  "text": "A Fájdalmas Miasszonyunknak szentelt kis és békés kápolna Qormiban.",
+                  "category": "religious",
+                  "coords": [
+                        14.440711,
+                        35.871901
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Történelmi örökségi helyszín és az Angyali üdvözletnek szentelt plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokkjali ta' Santa Marija",
+                  "text": "Egy történelmi, 17. századi plébániatemplom Birkirkarában, amelyet Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Sant' Elena",
+                  "text": "Díszes barokk bazilika Birkirkarában, amelyet Szent Ilonának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Santa Venera",
+                  "text": "Szent Venerának szentelt 20. századi plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Sant' Anna",
+                  "text": "Szent Annának szentelt imaház Qormi környékén.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Madonna ta' Lourdes",
+                  "text": "A lourdes-i Madonnának szentelt vallási helyszín Qormi régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        14.502937,
+                        35.874227
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "Egy ismert szentély Birkirkarában, amelyet a Tal-Ħerba-i Miasszonyunknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "Egy történelmi templom Pietàban, amelyet a Fájdalmas Miasszonyunknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "Szent Györgynek szentelt történelmi főesperesi templom Qormiban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "A Qormi-ban található Ġibjun San Niklaw egy nyugodt vízfelület, amely alkalmas egy rövid pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "A Qormi-i Ħal Farruġ Naval Reservoir egy funkcionális víztározó a városban.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "A Qormi-i Saint Mary Reservoir békés látványt nyújt a környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "A Qormi-ban található St Helen's Naval Reservoirs nyugodt vízfelületek, ideálisak egy pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Ez a Qormi Citta Pinto városában található tó nyugodt környezetet és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Ez a Qormi Citta Pinto városában található játékterem különféle játékokat kínál a család szórakoztatására.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "A Bandli Tumas Fenech egy népszerű családbarát játszótér Qormi Citta Pinto területén. A gyerekek rengeteg helyet találnak itt a friss levegőn való játékhoz, így kifejezetten ajánlott megálló a kisgyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "A Ġnien Anton Buttigieg Qormi Citta Pinto-i része egy élettel teli szabadtéri játszótér. Ideális környezetet teremt a családok számára, különféle játékokat és bőséges helyet kínálva a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "A Qormi Citta Pinto városában található SAC Lower Ground egy kifejezetten gyermekek számára tervezett rekreációs központ. Ez a nyitott játszótér barátságos helyet biztosít a családoknak a szabadtéri pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "A SAC Upper Ground egy tágas családi játszóteret biztosít Qormi Citta Pinto közösségében. Számos rekreációs lehetőségével tökéletesen alkalmas arra, hogy a gyermekek biztonságos környezetben játsszanak a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "A Gnien Nazju Falzon egy szépen kialakított kert és játszótér Qormi Citta Pinto városában. A helyszín a gyermekes családokat szolgálja ki, zöldterületeket és játszóövezeteket kínálva egy kiváló szabadtéri élményhez.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Úszómedence-komplexum Qormi (Città Pinto) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Un palat istoric și reședință oficială situată în zona Qormi.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "Un loc local pentru spectacole de teatru și evenimente culturale în Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Vestigii megalitice antice care prezintă istoria timpurie a regiunii Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "Mużew tal-Bambini",
+                  "text": "Un muzeu din Qormi dedicat istoriei și artei figurinelor cu Pruncul Isus.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Teatru Malta Rehearsal Room",
+                  "text": "Un spațiu dedicat repetițiilor de teatru și artelor creative din Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.50486,
+                        35.877625
+                  ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "Un parc zoologic privat situat pe domeniul Montekristo din Qormi.",
+                  "category": "family",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Il-Palazz ta' Montekristo",
+                  "text": "Un loc modern în stil palat, utilizat pentru evenimente și expoziții în Qormi.",
+                  "category": "castle",
+                  "coords": [
+                        14.462563,
+                        35.855463
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "Sediul și spațiul de repetiții al Companiei de Teatru Amator din Malta în Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "Monument ta' Ħal Luqa",
+                  "text": "Un monument proeminent situat în zona Luqa, lângă Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.484058,
+                        35.860512
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Un monument de tip obelisc dedicat căpitanului Sir Robert Cavendish Spencer.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Grădini publice frumoase, cu fântâni, iazuri și o varietate de plante exotice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "O reședință nobiliară cunoscută pentru grădinile sale mediteraneene istorice.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "Un apeduct din secolul al XVII-lea construit pentru a transporta apa către Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "L-Arkata ta' Wignacourt",
+                  "text": "Un arc ceremonial construit ca parte a sistemului de apeducte Wignacourt.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Ġnien San Filippu",
+                  "text": "O grădină publică liniștită care oferă spații verzi și zone de agrement în Qormi.",
+                  "category": "park",
+                  "coords": [
+                        14.502453,
+                        35.891591
+                  ]
+            },
+            {
+                  "name": "Racecourse",
+                  "text": "Un loc pentru curse de cai și evenimente sportive situat în districtul Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.488666,
+                        35.879165
+                  ]
+            },
+            {
+                  "name": "Madonna ta' Lourdes",
+                  "text": "Un monument religios dedicat Maicii Domnului din Lourdes în Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.444558,
+                        35.870185
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "Un punct de reper local și o atracție situată în inima orașului Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Id-Daħla l-Qadima tal-Gżira",
+                  "text": "Rămășițele unei porți istorice care deservea odinioară zona Gżira.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "Un punct de interes și un loc de întâlnire local în zona Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "Un monument dedicat memoriei lui Joe Sciberras în Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Monument għall-Ħaddiema",
+                  "text": "Un monument din Qormi care comemorează contribuțiile și sacrificiile lucrătorilor.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "O cruce istorică de piatră din Qormi, învăluită în folclor și legende locale.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Monument Għal Dun Karm",
+                  "text": "Un monument în cinstea lui Dun Karm Psaila, poetul național al Maltei.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "O galerie de artă și spațiu cultural care prezintă lucrări contemporane în Qormi.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Kuċċarda ta' Ħaż-Żebbuġ",
+                  "text": "Un monument local care reprezintă moștenirea culturală a regiunii Żebbuġ.",
+                  "category": "historical",
+                  "coords": [
+                        14.446323,
+                        35.868369
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "Un monument sau punct de reper modern situat în zona industrială din Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "O fundație de artă și galerie care promovează arta malteză modernă.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "O mănăstire și un lăcaș de cult dedicat Bunului Păstor din Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Filep t'Agira, Iż-Żebbuġ",
+                  "text": "O biserică parohială barocă impunătoare dedicată Sfântului Filip din Agira.",
+                  "category": "religious",
+                  "coords": [
+                        14.442208,
+                        35.871262
+                  ]
+            },
+            {
+                  "name": "Il-Bieb tal-Bombi",
+                  "text": "O poartă ornamentală a orașului, construită inițial ca parte a Liniilor Floriana.",
+                  "category": "fortress",
+                  "coords": [
+                        14.502113,
+                        35.890453
+                  ]
+            },
+            {
+                  "name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża",
+                  "text": "O capelă dedicată Maicii Domnului a Medaliei Miraculoase din Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.496676,
+                        35.886838
+                  ]
+            },
+            {
+                  "name": "Luqa Church",
+                  "text": "O biserică parohială istorică dedicată Sfântului Andrei din satul Luqa.",
+                  "category": "religious",
+                  "coords": [
+                        14.488935,
+                        35.860307
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "O biserică proeminentă în stil neogotic și baroc dedicată Sfântului Cajetan din Ħamrun.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Il-Knisja tat-Trinità Mqaddsa",
+                  "text": "O biserică parohială din secolul al XX-lea dedicată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        14.494105,
+                        35.882749
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Chapel",
+                  "text": "O capelă mică și liniștită dedicată Maicii Domnului a Îndurerate din Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.440711,
+                        35.871901
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Un sit istoric de patrimoniu și biserică parohială dedicată Bunei Vestiri.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokkjali ta' Santa Marija",
+                  "text": "O biserică parohială istorică din secolul al XVII-lea din Birkirkara, dedicată Sfintei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Sant' Elena",
+                  "text": "O bazilică barocă ornamentată din Birkirkara, dedicată Sfintei Elena.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Santa Venera",
+                  "text": "O biserică parohială din secolul al XX-lea dedicată Sfintei Venera.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Sant' Anna",
+                  "text": "Un lăcaș de cult dedicat Sfintei Ana din zona Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Madonna ta' Lourdes",
+                  "text": "Un sit religios dedicat Madonei din Lourdes în regiunea Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.502937,
+                        35.874227
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "Un sanctuar binecunoscut din Birkirkara dedicat Maicii Domnului din Tal-Ħerba.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "O biserică istorică din Pietà dedicată Maicii Domnului a Îndurerate.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "O biserică arhiepiscopală istorică dedicată Sfântului Gheorghe din Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw din Qormi este o întindere de apă liniștită, potrivită pentru un scurt repaus.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ġibjun Navali ta' Ħal Farruġ",
+                  "text": "Ħal Farruġ Naval Reservoir din Qormi este un bazin de apă funcțional situat în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Ġibjun ta' Santa Marija",
+                  "text": "Saint Mary Reservoir din Qormi oferă o priveliște pașnică în mijlocul împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs din Qormi sunt rezervoare de apă liniștite, ideale pentru o pauză.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Il-Ġibjun ta' Kordin",
+                  "text": "Acest lac din Qormi Citta Pinto oferă o atmosferă liniștită și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "Această sală de jocuri din Qormi Citta Pinto oferă o varietate de jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech este un loc de joacă popular pentru familii, situat în Qormi Citta Pinto. Copiii vor găsi aici mult spațiu pentru a se juca în aer liber, fiind o oprire foarte recomandată pentru tinerele familii.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Ġnien Anton Buttigieg",
+                  "text": "Filiala din Qormi Citta Pinto a Ġnien Anton Buttigieg servește ca un loc de joacă vibrant în aer liber. Prezintă un mediu ideal pentru familii, oferind diverse echipamente de joacă și spațiu amplu pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Aflat în Qormi Citta Pinto, SAC Lower Ground este un centru de recreere conceput special pentru copii. Acest loc de joacă deschis oferă familiilor un spațiu primitor pentru a petrece ore relaxante în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground oferă un loc de joacă spațios pentru familii în cadrul comunității din Qormi Citta Pinto. Cu o serie de opțiuni de recreere, este perfect adaptat pentru copiii dornici să se joace afară într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon este o grădină și un loc de joacă frumos amenajat, situat în Qormi Citta Pinto. Locația se adresează familiilor cu copii, oferind spații verzi și zone de joacă pentru o experiență excelentă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Un complex de piscine situat în Qormi (Città Pinto).",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Anton Palace",
+                  "text": "A historic palace and official residence located in the Qormi area.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "A local venue for theatrical performances and cultural events in Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Ancient megalithic remains showcasing the early history of the Qormi region.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "Baby Jesus Museum",
+                  "text": "A museum in Qormi dedicated to the history and art of Baby Jesus figurines.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Teatru Malta Rehearsal Room",
+                  "text": "A dedicated space for theatrical rehearsals and creative arts in Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.50486,
+                        35.877625
+                  ]
+            },
+            {
+                  "name": "Montekristo Animal Park",
+                  "text": "A private animal park and zoo located within the Montekristo estate in Qormi.",
+                  "category": "family",
+                  "coords": [
+                        14.464958,
+                        35.855724
+                  ]
+            },
+            {
+                  "name": "Montekristo Palace",
+                  "text": "A modern palace-style venue used for events and exhibitions in Qormi.",
+                  "category": "castle",
+                  "coords": [
+                        14.462563,
+                        35.855463
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "The headquarters and rehearsal space for the Malta Amateur Drama Company in Qormi.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "Monument ta' Ħal Luqa",
+                  "text": "A prominent monument located in the Luqa area near Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.484058,
+                        35.860512
+                  ]
+            },
+            {
+                  "name": "Spencer Monument",
+                  "text": "An obelisk monument dedicated to Captain Sir Robert Cavendish Spencer.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "San Anton Gardens",
+                  "text": "Beautiful public gardens featuring fountains, ponds, and a variety of exotic plants.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "A stately home known for its historic Mediterranean gardens.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "Wignacourt Aqueduct",
+                  "text": "A 17th-century aqueduct built to transport water to Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "Wignacourt Arch",
+                  "text": "A ceremonial archway built as part of the Wignacourt Aqueduct system.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Saint Philip Garden",
+                  "text": "A peaceful public garden offering green space and leisure areas in Qormi.",
+                  "category": "park",
+                  "coords": [
+                        14.502453,
+                        35.891591
+                  ]
+            },
+            {
+                  "name": "Racecourse",
+                  "text": "A venue for horse racing and sporting events located in the Qormi district.",
+                  "category": "landmark",
+                  "coords": [
+                        14.488666,
+                        35.879165
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes",
+                  "text": "A religious monument dedicated to Our Lady of Lourdes in Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.444558,
+                        35.870185
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "A local landmark and attraction located in the heart of Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Gżira's Old Gate",
+                  "text": "The remains of a historic gate that once served the Gżira area.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "A point of interest and local meeting spot in the Qormi area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "A monument dedicated to the memory of Joe Sciberras in Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Workers' Memorial",
+                  "text": "A monument in Qormi commemorating the contributions and sacrifices of workers.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "A historic stone cross in Qormi shrouded in local folklore and legends.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Dun Karm Monument",
+                  "text": "A monument honoring Dun Karm Psaila, the national poet of Malta.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "An art gallery and cultural space showcasing contemporary works in Qormi.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Kuċċarda ta' Ħaż-Żebbuġ",
+                  "text": "A local monument representing the cultural heritage of the Żebbuġ region.",
+                  "category": "historical",
+                  "coords": [
+                        14.446323,
+                        35.868369
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "A modern monument or landmark situated in the industrial area of Qormi.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Gabriel Caruana Foundation",
+                  "text": "An art foundation and gallery promoting modern Maltese art.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "A convent and place of worship dedicated to the Good Shepherd in Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Żebbuġ Parish Church",
+                  "text": "A grand Baroque parish church dedicated to Saint Philip of Agira.",
+                  "category": "religious",
+                  "coords": [
+                        14.442208,
+                        35.871262
+                  ]
+            },
+            {
+                  "name": "Il-Bieb tal-Bombi",
+                  "text": "An ornamental arched city gate originally built as part of the Floriana Lines.",
+                  "category": "fortress",
+                  "coords": [
+                        14.502113,
+                        35.890453
+                  ]
+            },
+            {
+                  "name": "Il-Kappella tal-Madonna tal-Medalja Mirakoluża",
+                  "text": "A chapel dedicated to Our Lady of the Miraculous Medal in Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.496676,
+                        35.886838
+                  ]
+            },
+            {
+                  "name": "Luqa Church",
+                  "text": "A historic parish church dedicated to Saint Andrew in the village of Luqa.",
+                  "category": "religious",
+                  "coords": [
+                        14.488935,
+                        35.860307
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "A prominent Neo-Gothic and Baroque church dedicated to Saint Cajetan in Ħamrun.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A 20th-century parish church dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        14.494105,
+                        35.882749
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Chapel",
+                  "text": "A small and peaceful chapel dedicated to Our Lady of Sorrows in Qormi.",
+                  "category": "religious",
+                  "coords": [
+                        14.440711,
+                        35.871901
+                  ]
+            },
+            {
+                  "name": "Parish Church of Our Lady of Annunciation",
+                  "text": "A historic heritage site and parish church dedicated to the Annunciation.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Parish Church",
+                  "text": "A historic 17th-century parish church in Birkirkara dedicated to Saint Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Parish Church of Saint Helen",
+                  "text": "An ornate Baroque basilica in Birkirkara dedicated to Saint Helen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Saint Venera Parish Church",
+                  "text": "A 20th-century parish church dedicated to Saint Venera.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Saint Anne",
+                  "text": "A place of worship dedicated to Saint Anne in the Qormi area.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Church of the Madonna of Lourdes",
+                  "text": "A religious site dedicated to the Madonna of Lourdes in the Qormi region.",
+                  "category": "religious",
+                  "coords": [
+                        14.502937,
+                        35.874227
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "A well-known sanctuary in Birkirkara dedicated to Our Lady of Tal-Ħerba.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows",
+                  "text": "A historic church in Pietà dedicated to Our Lady of Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "A historic archipretal church dedicated to Saint George in Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            },
+            {
+                  "name": "Ġibjun San Niklaw",
+                  "text": "Ġibjun San Niklaw in Qormi is a calm body of water suitable for a short rest.",
+                  "category": "natural",
+                  "coords": [
+                        14.447871,
+                        35.837219
+                  ]
+            },
+            {
+                  "name": "Ħal Farruġ Naval Reservoir",
+                  "text": "The Ħal Farruġ Naval Reservoir in Qormi is a functional water basin in the city.",
+                  "category": "natural",
+                  "coords": [
+                        14.481676,
+                        35.861448
+                  ]
+            },
+            {
+                  "name": "Saint Mary Reservoir",
+                  "text": "Saint Mary Reservoir in Qormi offers a peaceful sight amidst the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        14.427789,
+                        35.892759
+                  ]
+            },
+            {
+                  "name": "St Helen's Naval Reservoirs",
+                  "text": "St Helen's Naval Reservoirs in Qormi are calm bodies of water ideal for a break.",
+                  "category": "natural",
+                  "coords": [
+                        14.520406,
+                        35.87897
+                  ]
+            },
+            {
+                  "name": "Kordin Reservoir",
+                  "text": "This lake in Qormi Citta Pinto offers a calm atmosphere and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        14.508328,
+                        35.883375
+                  ]
+            },
+            {
+                  "name": "Campus Hub Games Room",
+                  "text": "This amusement arcade in Qormi Citta Pinto provides a variety of games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.480471,
+                        35.901978
+                  ]
+            },
+            {
+                  "name": "Bandli Tumas Fenech",
+                  "text": "Bandli Tumas Fenech is a popular family-friendly playground situated in Qormi Citta Pinto. Children will find plenty of space to play in the fresh air, making it a highly recommended stop for young families.",
+                  "category": "family",
+                  "coords": [
+                        14.463253,
+                        35.877303
+                  ]
+            },
+            {
+                  "name": "Anton Buttigieg Garden",
+                  "text": "The Qormi Citta Pinto branch of Ġnien Anton Buttigieg serves as a vibrant outdoor playground. It presents an ideal environment for families, offering various play equipment and ample room for children to enjoy their day.",
+                  "category": "family",
+                  "coords": [
+                        14.484838,
+                        35.883646
+                  ]
+            },
+            {
+                  "name": "SAC Lower Ground",
+                  "text": "Found in Qormi Citta Pinto, the SAC Lower Ground is a recreational hub designed with children in mind. This open playground gives families a welcoming spot to spend relaxing hours outdoors while the kids stay active.",
+                  "category": "family",
+                  "coords": [
+                        14.496219,
+                        35.892497
+                  ]
+            },
+            {
+                  "name": "SAC Upper Ground",
+                  "text": "SAC Upper Ground provides a spacious family playground within the community of Qormi Citta Pinto. With an array of recreational options, it is perfectly suited for children looking to play outside in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        14.495255,
+                        35.892951
+                  ]
+            },
+            {
+                  "name": "Gnien Nazju Falzon",
+                  "text": "Gnien Nazju Falzon is a beautifully laid out garden and playground situated in Qormi Citta Pinto. The site caters to families with children, offering green spaces and play zones for an excellent outdoor experience.",
+                  "category": "family",
+                  "coords": [
+                        14.473135,
+                        35.897774
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "A swimming pool complex located in Qormi (Città Pinto).",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MT-44",
     coords: [14.4719, 35.8797],
@@ -61851,6 +66909,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.492317,
                         35.913625
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Das National Swimming Pool ist ein öffentliches Wassersportzentrum in Balzan.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -62410,6 +67477,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.492317,
                         35.913625
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "A National Swimming Pool egy Balzanban található nyilvános vízi központ.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -62971,6 +68047,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.492317,
                         35.913625
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "National Swimming Pool este un centru acvatic public situat în Balzan.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -63531,6 +68616,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.492317,
                         35.913625
                   ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "National Swimming Pool is a public aquatic center located in Balzan.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ]
 },
@@ -63729,6 +68823,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.420648,
                         35.890724
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Eine staatliche Schwimmanlage, die für sportliche Wettkämpfe und öffentliches Schwimmen genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -63883,6 +68986,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.420648,
                         35.890724
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Állami úszólétesítmény, amelyet sportversenyekre és lakossági úszásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -64039,6 +69151,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.420648,
                         35.890724
                   ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "O facilitate națională de înot utilizată pentru competiții sportive și înot public.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -64193,6 +69314,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.420648,
                         35.890724
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "A national swimming facility used for sports competitions and public swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ]
@@ -64671,6 +69801,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "Ein Bade- und Erholungsbereich in Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Ein Freibad und Schwimmbecken in Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Sea Lions Show",
+                  "text": "Eine Schwimmanlage in Iklin, in der Seelöwenshows stattfinden.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457114,
+                        35.939346
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Ein Wasserpark mit Rutschen und Schwimmbecken in Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "Dolphins Show",
+                  "text": "Eine Anlage in Iklin, die für ihre Delfinvorführungen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458063,
+                        35.93981
+                  ]
             }
       ],
       "hu": [
@@ -65104,6 +70279,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "Úszó- és szabadidős terület Iklinben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Lido és úszómedence Iklinben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Sea Lions Show",
+                  "text": "Úszómedence Iklinben, ahol oroszlánfóka-bemutatókat tartanak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457114,
+                        35.939346
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Vízi park csúszdákkal és medencékkel Iklinben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "Dolphins Show",
+                  "text": "Delfinbemutatóiról ismert létesítmény Iklinben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458063,
+                        35.93981
                   ]
             }
       ],
@@ -65539,6 +70759,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.468347,
                         35.882234
                   ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "O zonă de înot și agrement situată în Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "Un lido și o piscină în Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Sea Lions Show",
+                  "text": "O facilitate cu piscină în Iklin unde au loc spectacole cu lei de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457114,
+                        35.939346
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Un parc acvatic cu tobogane și piscine în Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "Dolphins Show",
+                  "text": "O facilitate în Iklin cunoscută pentru prezentările cu delfini.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458063,
+                        35.93981
+                  ]
             }
       ],
       "en": [
@@ -65972,6 +71237,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.468347,
                         35.882234
+                  ]
+            },
+            {
+                  "name": "The Reef Club",
+                  "text": "A swimming and leisure area located in Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Malta Marriott Lido",
+                  "text": "A lido and swimming pool facility in Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492317,
+                        35.913625
+                  ]
+            },
+            {
+                  "name": "Sea Lions Show",
+                  "text": "A swimming pool facility in Iklin where sea lion shows are held.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457114,
+                        35.939346
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "A water park featuring slides and swimming pools in Iklin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "Dolphins Show",
+                  "text": "A facility in Iklin known for its dolphin presentations.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458063,
+                        35.93981
                   ]
             }
       ]
@@ -68049,6 +73359,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.419681,
                         35.941235
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Ein beliebter Wasserpark mit Rutschen, Wellenbad und Unterhaltungsangeboten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Eine staatliche Schwimmanlage, die für sportliche Wettkämpfe and öffentliches Schwimmen genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "hu": [
@@ -68554,6 +73882,24 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.419681,
                         35.941235
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Népszerű vízi park csúszdákkal, hullámmedencével és családi szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "Állami úszólétesítmény, amelyet sportversenyekre és lakossági úszásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
                   ]
             }
       ],
@@ -69061,6 +74407,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.419681,
                         35.941235
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Un parc acvatic popular cu tobogane, bazin cu valuri și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "Pixxina Nazzjonali",
+                  "text": "O facilitate națională de înot utilizată pentru competiții sportive și înot public.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ],
       "en": [
@@ -69567,6 +74931,24 @@ export const poiExtraMaltaCities: POI[] = [
                         14.419681,
                         35.941235
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "A popular water park featuring slides, a wave pool, and family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
+            },
+            {
+                  "name": "National Swimming Pool",
+                  "text": "A national swimming facility used for sports competitions and public swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487359,
+                        35.903123
+                  ]
             }
       ]
 },
@@ -70062,6 +75444,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.426628,
                         35.922578
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Ein beliebter Wasserpark mit verschiedenen Becken und Rutschen in Għargħur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
             }
       ],
       "hu": [
@@ -70513,6 +75904,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.426628,
                         35.922578
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Népszerű vízi park különféle medencékkel és csúszdákkal Għargħurban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
                   ]
             }
       ],
@@ -70966,6 +76366,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.426628,
                         35.922578
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Un parc acvatic popular cu diverse piscine și tobogane în Għargħur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
             }
       ],
       "en": [
@@ -71417,6 +76826,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.426628,
                         35.922578
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "A popular water park with various pools and slides in Għargħur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
                   ]
             }
       ]
@@ -76296,6 +81714,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.389209,
                         35.951829
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Splash and Fun ist ein Wasserpark in Qawra, der Unterhaltung und Pools bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
             }
       ],
       "hu": [
@@ -76621,6 +82048,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.389209,
                         35.951829
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "A Splash and Fun egy vízipark Qawrában, amely szórakozást és medencéket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
                   ]
             }
       ],
@@ -76948,6 +82384,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.389209,
                         35.951829
                   ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Splash and Fun este un parc acvatic din Qawra care oferă divertisment și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
+                  ]
             }
       ],
       "en": [
@@ -77273,6 +82718,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.389209,
                         35.951829
+                  ]
+            },
+            {
+                  "name": "Splash and Fun",
+                  "text": "Splash and Fun is a water park in Qawra offering entertainment and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        14.458381,
+                        35.93803
                   ]
             }
       ]
@@ -89885,6 +95339,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.241364,
                         36.043657
                   ]
+            },
+            {
+                  "name": "Hillocks residences communal pool",
+                  "text": "Ein Gemeinschaftspool für Anwohner und Besucher in der Gemeinde Kerċem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.255627,
+                        36.07282
+                  ]
             }
       ],
       "hu": [
@@ -90192,6 +95655,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.241364,
                         36.043657
+                  ]
+            },
+            {
+                  "name": "Hillocks residences communal pool",
+                  "text": "Közösségi úszómedence lakók és látogatók számára Kerċem településen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.255627,
+                        36.07282
                   ]
             }
       ],
@@ -90501,6 +95973,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.241364,
                         36.043657
                   ]
+            },
+            {
+                  "name": "Hillocks residences communal pool",
+                  "text": "O piscină comună pentru rezidenți și vizitatori în localitatea Kerċem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.255627,
+                        36.07282
+                  ]
             }
       ],
       "en": [
@@ -90808,6 +96289,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.241364,
                         36.043657
+                  ]
+            },
+            {
+                  "name": "Hillocks residences communal pool",
+                  "text": "A communal swimming pool for residents and visitors in the village of Kerċem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.255627,
+                        36.07282
                   ]
             }
       ]

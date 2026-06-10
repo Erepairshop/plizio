@@ -462,7 +462,160 @@ export const italyLandmarksV2: POI[] = [
     image: "/poi-images/italy-duomo-di-milano-landmarks-v2.webp",
   },
   {
-    id: "italy-tempio-malatestiano-landmarks-v2",
+    id: "italy-tempio-malatestiano-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalima Beach Club 17",
+                  "text": "Kalima Beach Club 17 ist ein Strandbad in der Nähe des Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547334,
+                        44.082428
+                  ]
+            },
+            {
+                  "name": "Anna 22",
+                  "text": "Anna 22 bietet Stranddienstleistungen im Küstenbereich beim Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.543614,
+                        44.084972
+                  ]
+            },
+            {
+                  "name": "Bagno 4 Amaracmand",
+                  "text": "Bagno 4 Amaracmand ist ein gut ausgestattetes Strandbad beim Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556303,
+                        44.077242
+                  ]
+            },
+            {
+                  "name": "Bagno 10 Vatikaki",
+                  "text": "Bagno 10 Vatikaki ist ein Strandresort in der Umgebung des Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551684,
+                        44.079305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalima Beach Club 17",
+                  "text": "A Kalima Beach Club 17 egy strandfürdő a Tempio Malatestiano közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547334,
+                        44.082428
+                  ]
+            },
+            {
+                  "name": "Anna 22",
+                  "text": "Az Anna 22 strandszolgáltatásokat kínál a Tempio Malatestiano tengerparti részén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.543614,
+                        44.084972
+                  ]
+            },
+            {
+                  "name": "Bagno 4 Amaracmand",
+                  "text": "A Bagno 4 Amaracmand egy jól felszerelt strandfürdő a Tempio Malatestiano közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556303,
+                        44.077242
+                  ]
+            },
+            {
+                  "name": "Bagno 10 Vatikaki",
+                  "text": "A Bagno 10 Vatikaki egy strandüdülő a Tempio Malatestiano környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551684,
+                        44.079305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalima Beach Club 17",
+                  "text": "Kalima Beach Club 17 este o stațiune balneară situată lângă Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547334,
+                        44.082428
+                  ]
+            },
+            {
+                  "name": "Anna 22",
+                  "text": "Anna 22 oferă servicii de plajă în zona de coastă de lângă Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.543614,
+                        44.084972
+                  ]
+            },
+            {
+                  "name": "Bagno 4 Amaracmand",
+                  "text": "Bagno 4 Amaracmand este o stațiune balneară bine echipată lângă Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556303,
+                        44.077242
+                  ]
+            },
+            {
+                  "name": "Bagno 10 Vatikaki",
+                  "text": "Bagno 10 Vatikaki este o stațiune de plajă din apropierea Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551684,
+                        44.079305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalima Beach Club 17",
+                  "text": "Kalima Beach Club 17 is a beach resort located near Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547334,
+                        44.082428
+                  ]
+            },
+            {
+                  "name": "Anna 22",
+                  "text": "Anna 22 offers beach services in the coastal area by Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.543614,
+                        44.084972
+                  ]
+            },
+            {
+                  "name": "Bagno 4 Amaracmand",
+                  "text": "Bagno 4 Amaracmand is a well-equipped beach resort near Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556303,
+                        44.077242
+                  ]
+            },
+            {
+                  "name": "Bagno 10 Vatikaki",
+                  "text": "Bagno 10 Vatikaki is a beach resort in the vicinity of Tempio Malatestiano.",
+                  "category": "recreational",
+                  "coords": [
+                        12.551684,
+                        44.079305
+                  ]
+            }
+      ]
+},
     type: "cathedral",
     parent: "IT",
     name: { de: "Tempio Malatestiano", hu: "Tempio Malatestiano", ro: "Tempio Malatestiano", en: "Tempio Malatestiano" },

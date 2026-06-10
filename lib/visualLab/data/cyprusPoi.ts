@@ -225,6 +225,15 @@ export const cyprusRegions: POI[] = [
                         33.049844,
                         34.682367
                   ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "Ein bekannter Strandort in Limassol, der für seine entspannte Atmosphäre geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
+                  ]
             }
       ],
       "hu": [
@@ -352,6 +361,15 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.049844,
                         34.682367
+                  ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "Ismert tengerparti hely Limassolban, amelyet nyugodt légköre miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
                   ]
             }
       ],
@@ -481,6 +499,15 @@ export const cyprusRegions: POI[] = [
                         33.049844,
                         34.682367
                   ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "O destinație de plajă cunoscută în Limassol, apreciată pentru atmosfera sa relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
+                  ]
             }
       ],
       "en": [
@@ -608,6 +635,15 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.049844,
                         34.682367
+                  ]
+            },
+            {
+                  "name": "NOA",
+                  "text": "A well-known beach destination in Limassol popular for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        33.0748,
+                        34.689777
                   ]
             }
       ]
@@ -4568,6 +4604,15 @@ export const cyprusRegions: POI[] = [
                         32.341594,
                         34.89173
                   ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "Lara Beach ist ein geschützter Sandstrand in Zypern, der als wichtiger Nistplatz für Meeresschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        32.312923,
+                        34.947343
+                  ]
             }
       ],
       "hu": [
@@ -4632,6 +4677,15 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         32.341594,
                         34.89173
+                  ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "A Lara Beach egy védett homokos tengerpart Cipruson, amely a tengeri teknősök fontos fészkelőhelyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        32.312923,
+                        34.947343
                   ]
             }
       ],
@@ -4698,6 +4752,15 @@ export const cyprusRegions: POI[] = [
                         32.341594,
                         34.89173
                   ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "Lara Beach este o plajă de nisip protejată din Cipru, cunoscută ca un important loc de cuibărit pentru țestoasele marine.",
+                  "category": "recreational",
+                  "coords": [
+                        32.312923,
+                        34.947343
+                  ]
             }
       ],
       "en": [
@@ -4762,6 +4825,15 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         32.341594,
                         34.89173
+                  ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "Lara Beach is a protected sandy beach in Cyprus, famous as an important nesting site for sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        32.312923,
+                        34.947343
                   ]
             }
       ]
@@ -5557,7 +5629,52 @@ export const cyprusRegions: POI[] = [
       fr: ["La forteresse fut érigée en 1625 par les Ottomans sur des ruines byzantines.", "Une inscription au-dessus de l'entrée rappelle la restauration par les Turcs.", "Les Britanniques utilisèrent le château comme prison centrale jusqu'en 1948.", "Des inscriptions et blasons vénitiens sont encastrés dans le mur nord.", "Le musée expose des découvertes de l'ancienne Kition.", "En été, la cour accueille des spectacles du festival d'été de Larnaca."],
     }, image: "/poi-images/CY-001-larnaca-fort.webp"},
   {
-    id: "CY-002-varosha",
+    id: "CY-002-varosha", "sights": {
+      "de": [
+            {
+                  "name": "Glossa Beach",
+                  "text": "Ein Strand in der Nähe der verlassenen Geisterstadt Varosha auf Zypern.",
+                  "category": "recreational",
+                  "coords": [
+                        33.969657,
+                        35.097135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glossa Beach",
+                  "text": "Tengerpart a ciprusi Varosha elhagyatott szellemvárosa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.969657,
+                        35.097135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glossa Beach",
+                  "text": "O plajă situată lângă orașul fantomă abandonat Varosha din Cipru.",
+                  "category": "recreational",
+                  "coords": [
+                        33.969657,
+                        35.097135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glossa Beach",
+                  "text": "A beach located near the abandoned ghost town of Varosha in Cyprus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.969657,
+                        35.097135
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-002",
     coords: [33.9553, 35.1097],
@@ -5599,7 +5716,196 @@ export const cyprusRegions: POI[] = [
       fr: ["Varosha était le principal centre touristique de Chypre avant 1974.", "Des célébrités comme Elizabeth Taylor y passaient leurs vacances.", "La résolution 550 de l'ONU demande la remise de la zone aux Nations Unies.", "L'avenue Demokratias est partiellement accessible depuis octobre 2020.", "Les bâtiments menacent ruine en raison du manque d'entretien.", "Des visites guidées à vélo sont organisées dans les zones ouvertes."],
     }, image: "/poi-images/CY-002-varosha.webp"},
   {
-    id: "CY-002-fig-tree-bay", "sights": {"de": [{"name": "Nissia Bay Beach", "text": "In der direkten Nachbarschaft zur berühmten Fig Tree Bay entfaltet der Nissia Bay Beach seinen ganz eigenen, ruhigen Charme. Dieser malerische Strandabschnitt ist prädestiniert für ausgedehnte Schwimmrunden und erholsames Sonnenbaden am Mittelmeer. Abseits der großen Menschenmengen kann man hier das sanfte Rauschen des Wassers genießen. Ein Besuch am frühen Vormittag sichert die besten Plätze im Sand.", "category": "recreational", "coords": [34.066714, 34.999617]}, {"name": "Fig Tree Bay", "text": "Bekannter Strand mit Feigenbäumen.", "category": "recreational", "coords": [34.05871, 35.012827]}, {"name": "Paralia Vyzakia", "text": "Παραλία Βυζακιά ist ein Strand bei der Fig Tree Bay.", "category": "recreational", "coords": [34.063173, 35.003375]}, {"name": "Glifades (Mimosa Beach)", "text": "Der zauberhafte Strand Glifades, auch als Mimosa Beach bekannt, schmiegt sich an die Küste in der Nähe der Fig Tree Bay. Besucher erwartet hier eine idyllische Szenerie, die zum entspannten Schwimmen und Verweilen am Meer einlädt. Die Atmosphäre ist angenehm unaufgeregt und zieht vor allem Naturliebhaber und Ruhesuchende an. Wer Erholung pur sucht, sollte genügend Zeit für einen langen Aufenthalt einplanen.", "category": "recreational", "coords": [34.068915, 34.996546]}], "hu": [{"name": "Nissia Bay Beach", "text": "A híres Fig Tree Bay közvetlen szomszédságában a Nissia Bay Beach egyedi, csendes varázsával hódít. Ez a festői strandszakasz kifejezetten alkalmas hosszas úszásokra és pihentető napozásra a Földközi-tenger partján. A nagy tömegektől távol itt zavartalanul élvezhetjük a víz lágy csobogását. Kora délelőtti érkezéssel biztosíthatjuk a legjobb helyeket a homokban.", "category": "recreational", "coords": [34.066714, 34.999617]}, {"name": "Fig Tree Bay", "text": "Népszerű strand fügefákkal.", "category": "recreational", "coords": [34.05871, 35.012827]}, {"name": "Paralia Vyzakia", "text": "A Παραλία Βυζακιά egy strand a Fig Tree Bay közelében.", "category": "recreational", "coords": [34.063173, 35.003375]}, {"name": "Glifades (Mimosa Beach)", "text": "A varázslatos Glifades strand, mely Mimosa Beach néven is ismert, a Fig Tree Bay közelében simul a parthoz. A látogatókat idilli környezet várja, amely nyugodt úszásra és a tenger melletti időtöltésre ösztönöz. A hangulat kellemesen csendes, ami elsősorban a természetkedvelőket és a pihenni vágyókat vonzza. Aki tiszta feltöltődésre vágyik, tervezzen be elegendő időt egy hosszú látogatásra.", "category": "recreational", "coords": [34.068915, 34.996546]}], "ro": [{"name": "Nissia Bay Beach", "text": "În imediata vecinătate a celebrei Fig Tree Bay, Nissia Bay Beach își dezvăluie propriul farmec liniștit. Această porțiune pitorească de plajă este ideală pentru sesiuni lungi de înot și plajă relaxantă la Marea Mediterană. Departe de mulțimile mari, te poți bucura aici de sunetul blând al apei. O vizită la mijlocul dimineții asigură cele mai bune locuri pe nisip.", "category": "recreational", "coords": [34.066714, 34.999617]}, {"name": "Fig Tree Bay", "text": "Plajă populară cu smochini.", "category": "recreational", "coords": [34.05871, 35.012827]}, {"name": "Paralia Vyzakia", "text": "Παραλία Βυζακιά este o plajă lângă Fig Tree Bay.", "category": "recreational", "coords": [34.063173, 35.003375]}, {"name": "Glifades (Mimosa Beach)", "text": "Plaja fermecătoare Glifades, cunoscută și sub numele de Mimosa Beach, se cuibărește pe coasta din apropiere de Fig Tree Bay. Oaspeții sunt așteptați de un peisaj idilic, care îi invită la înot relaxant și la zăbovire la malul mării. Atmosfera este plăcut de calmă și atrage în special iubitorii de natură și pe cei care caută liniște. Oricine caută relaxare pură ar trebui să rezerve suficient timp pentru o ședere lungă.", "category": "recreational", "coords": [34.068915, 34.996546]}], "en": [{"name": "Nissia Bay Beach", "text": "In the immediate vicinity of the famous Fig Tree Bay, Nissia Bay Beach unfolds its very own quiet charm. This picturesque stretch of beach is highly suited for extended swimming sessions and relaxing sunbathing by the Mediterranean. Away from the larger crowds, visitors can peacefully enjoy the gentle sound of the water. A mid-morning visit typically secures the best spots on the sand.", "category": "recreational", "coords": [34.066714, 34.999617]}, {"name": "Fig Tree Bay", "text": "Popular beach known for fig trees.", "category": "recreational", "coords": [34.05871, 35.012827]}, {"name": "Paralia Vyzakia", "text": "Παραλία Βυζακιά is a beach near Fig Tree Bay.", "category": "recreational", "coords": [34.063173, 35.003375]}, {"name": "Glifades (Mimosa Beach)", "text": "The enchanting Glifades beach, also known as Mimosa Beach, nestles along the coast near Fig Tree Bay. Visitors are greeted by an idyllic scene that readily invites them for relaxing swims and seaside lingering. The atmosphere is pleasantly calm, primarily attracting nature lovers and those seeking peace. Anyone looking for pure relaxation should allocate plenty of time for a lengthy stay.", "category": "recreational", "coords": [34.068915, 34.996546]}]},
+    id: "CY-002-fig-tree-bay", "sights": {
+      "de": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "In der direkten Nachbarschaft zur berühmten Fig Tree Bay entfaltet der Nissia Bay Beach seinen ganz eigenen, ruhigen Charme. Dieser malerische Strandabschnitt ist prädestiniert für ausgedehnte Schwimmrunden und erholsames Sonnenbaden am Mittelmeer. Abseits der großen Menschenmengen kann man hier das sanfte Rauschen des Wassers genießen. Ein Besuch am frühen Vormittag sichert die besten Plätze im Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Bekannter Strand mit Feigenbäumen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Paralia Vyzakia",
+                  "text": "Παραλία Βυζακιά ist ein Strand bei der Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "Der zauberhafte Strand Glifades, auch als Mimosa Beach bekannt, schmiegt sich an die Küste in der Nähe der Fig Tree Bay. Besucher erwartet hier eine idyllische Szenerie, die zum entspannten Schwimmen und Verweilen am Meer einlädt. Die Atmosphäre ist angenehm unaufgeregt und zieht vor allem Naturliebhaber und Ruhesuchende an. Wer Erholung pur sucht, sollte genügend Zeit für einen langen Aufenthalt einplanen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            },
+            {
+                  "name": "Nisia Loumbardi Beach",
+                  "text": "Nisia Loumbardi Beach ist ein ruhig gelegener Strand in der Nähe der Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.065343,
+                        35.001266
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "A híres Fig Tree Bay közvetlen szomszédságában a Nissia Bay Beach egyedi, csendes varázsával hódít. Ez a festői strandszakasz kifejezetten alkalmas hosszas úszásokra és pihentető napozásra a Földközi-tenger partján. A nagy tömegektől távol itt zavartalanul élvezhetjük a víz lágy csobogását. Kora délelőtti érkezéssel biztosíthatjuk a legjobb helyeket a homokban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Népszerű strand fügefákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Paralia Vyzakia",
+                  "text": "A Παραλία Βυζακιά egy strand a Fig Tree Bay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "A varázslatos Glifades strand, mely Mimosa Beach néven is ismert, a Fig Tree Bay közelében simul a parthoz. A látogatókat idilli környezet várja, amely nyugodt úszásra és a tenger melletti időtöltésre ösztönöz. A hangulat kellemesen csendes, ami elsősorban a természetkedvelőket és a pihenni vágyókat vonzza. Aki tiszta feltöltődésre vágyik, tervezzen be elegendő időt egy hosszú látogatásra.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            },
+            {
+                  "name": "Nisia Loumbardi Beach",
+                  "text": "A Nisia Loumbardi Beach egy csendes tengerparti szakasz a Fig Tree Bay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.065343,
+                        35.001266
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "În imediata vecinătate a celebrei Fig Tree Bay, Nissia Bay Beach își dezvăluie propriul farmec liniștit. Această porțiune pitorească de plajă este ideală pentru sesiuni lungi de înot și plajă relaxantă la Marea Mediterană. Departe de mulțimile mari, te poți bucura aici de sunetul blând al apei. O vizită la mijlocul dimineții asigură cele mai bune locuri pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Plajă populară cu smochini.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Paralia Vyzakia",
+                  "text": "Παραλία Βυζακιά este o plajă lângă Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "Plaja fermecătoare Glifades, cunoscută și sub numele de Mimosa Beach, se cuibărește pe coasta din apropiere de Fig Tree Bay. Oaspeții sunt așteptați de un peisaj idilic, care îi invită la înot relaxant și la zăbovire la malul mării. Atmosfera este plăcut de calmă și atrage în special iubitorii de natură și pe cei care caută liniște. Oricine caută relaxare pură ar trebui să rezerve suficient timp pentru o ședere lungă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            },
+            {
+                  "name": "Nisia Loumbardi Beach",
+                  "text": "Nisia Loumbardi Beach este o plajă liniștită situată în apropiere de Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.065343,
+                        35.001266
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "In the immediate vicinity of the famous Fig Tree Bay, Nissia Bay Beach unfolds its very own quiet charm. This picturesque stretch of beach is highly suited for extended swimming sessions and relaxing sunbathing by the Mediterranean. Away from the larger crowds, visitors can peacefully enjoy the gentle sound of the water. A mid-morning visit typically secures the best spots on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Popular beach known for fig trees.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Paralia Vyzakia",
+                  "text": "Παραλία Βυζακιά is a beach near Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "The enchanting Glifades beach, also known as Mimosa Beach, nestles along the coast near Fig Tree Bay. Visitors are greeted by an idyllic scene that readily invites them for relaxing swims and seaside lingering. The atmosphere is pleasantly calm, primarily attracting nature lovers and those seeking peace. Anyone looking for pure relaxation should allocate plenty of time for a lengthy stay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            },
+            {
+                  "name": "Nisia Loumbardi Beach",
+                  "text": "Nisia Loumbardi Beach is a quiet beach area located near Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.065343,
+                        35.001266
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-002",
     coords: [34.0583, 35.0125],

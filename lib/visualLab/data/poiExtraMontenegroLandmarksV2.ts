@@ -157,6 +157,87 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Plaža Hawaii ist ein beliebter Strand auf der Insel Sveti Nikola vor der Küste von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Školj (5A-1)",
+                  "text": "Plaža Školj ist ein malerischer Küstenabschnitt auf der Insel Sveti Nikola bei Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846905,
+                        42.272349
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "Dieser Abschnitt der Plaža Hawaii bietet kristallklares Wasser und eine felsige Umgebung auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Ein Strandresort in Budva, direkt an der Adria bei der Zitadelle.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Ein moderner Beach Club in der Nähe der historischen Zitadelle von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Hotelschwimmbad in Budva mit Blick auf die umliegende Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein exklusiver Pool-Club in Budva, der Entspannung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Ein Schwimmbereich in Budva in unmittelbarer Nähe der Altstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Ein großer Wasserpark in Budva mit verschiedenen Attraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "hu": [
@@ -221,6 +302,87 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "A Plaža Hawaii egy népszerű tengerpart a Budva partjainál fekvő Sveti Nikola-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Školj (5A-1)",
+                  "text": "A Plaža Školj egy festői tengerparti rész a Budva melletti Sveti Nikola-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846905,
+                        42.272349
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "A Plaža Hawaii ezen szakasza kristálytiszta vizet és sziklás környezetet kínál a Sveti Nikola-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti üdülőhely Budvában, az Adria partján a citadella közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Modern strandklub Budva történelmi citadellájának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Szállodai medence Budvában, kilátással a környező tengerpartra.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Exkluzív medenceklub Budvában, amely kikapcsolódást nyújt a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Úszóhely Budvában, az óváros közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Nagy vízipark Budvában, különféle attrakciókkal családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ],
@@ -287,6 +449,87 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Plaža Hawaii este o plajă populară de pe insula Sveti Nikola, situată în largul coastei orașului Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Školj (5A-1)",
+                  "text": "Plaža Školj este un segment de coastă pitoresc de pe insula Sveti Nikola de lângă Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846905,
+                        42.272349
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "Această secțiune a plajei Hawaii oferă ape cristaline și un cadru stâncos pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O stațiune de plajă în Budva, situată la Marea Adriatică lângă citadelă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Un club de plajă modern situat lângă citadela istorică din Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină de hotel în Budva, oferind vedere spre coasta înconjurătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Un club exclusivist cu piscină în Budva, oferind relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "O zonă de înot în Budva, aflată în imediata apropiere a orașului vechi.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Un parc acvatic mare în Budva, cu diverse atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "en": [
@@ -351,6 +594,87 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Plaža Hawaii is a popular beach on Sveti Nikola Island, located off the coast of Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Školj (5A-1)",
+                  "text": "Plaža Školj is a scenic coastal area on Sveti Nikola Island near Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846905,
+                        42.272349
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "This section of Plaža Hawaii offers crystal clear waters and a rocky setting on Sveti Nikola Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A beach resort in Budva, located along the Adriatic coast near the citadel.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A modern beach club situated near the historic Citadel of Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A hotel swimming pool in Budva with views of the surrounding coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "An exclusive pool club in Budva providing relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A swimming area in Budva located in close proximity to the old town.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "A large water park in Budva featuring various attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ]
@@ -481,6 +805,24 @@ export const montenegroLandmarksV2: POI[] = [
                         18.964806,
                         42.193025
                   ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Der Light Land Family Recreation Park ist ein Freizeitpark bei der Festung Kastio.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Lučice ist ein Strandresort bei der Festung Kastio.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
             }
       ],
       "hu": [
@@ -563,6 +905,24 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.964806,
                         42.193025
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "A Light Land Family Recreation Park egy élménypark a Kastio erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Lučice egy strandüdülőhely a Kastio erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
                   ]
             }
       ],
@@ -647,6 +1007,24 @@ export const montenegroLandmarksV2: POI[] = [
                         18.964806,
                         42.193025
                   ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Light Land Family Recreation Park este un parc tematic situat lângă cetatea Kastio.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Lučice este o stațiune de plajă situată lângă cetatea Kastio.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
             }
       ],
       "en": [
@@ -729,6 +1107,24 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.964806,
                         42.193025
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Light Land Family Recreation Park is a theme park located near Kastio Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Lučice is a beach resort located near Kastio Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
                   ]
             }
       ]
@@ -877,6 +1273,33 @@ export const montenegroLandmarksV2: POI[] = [
                         19.094723,
                         42.071282
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Öffentliche Badebecken in der Nähe des Palastes von König Nikola, die zur Abkühlung einladen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Ein Strandresort beim Palast von König Nikola, ideal für einen Tag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Der Stadtstrand in der Nähe des Palastes von König Nikola bietet Zugang zur Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "hu": [
@@ -932,6 +1355,33 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         19.094723,
                         42.071282
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Nyilvános fürdőmedencék Nikola király palotája közelében, pihenési lehetőséget kínálva.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "Tengerparti üdülőhely Nikola király palotája közelében, ideális pihenésre a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Városi strand Nikola király palotája közelében, hozzáférést biztosítva a tengerparthoz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ],
@@ -989,6 +1439,33 @@ export const montenegroLandmarksV2: POI[] = [
                         19.094723,
                         42.071282
                   ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Bazine publice lângă Palatul Regelui Nikola, oferind o oportunitate de relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "O stațiune de plajă lângă Palatul Regelui Nikola, ideală pentru relaxare pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "Plaja orașului situată lângă Palatul Regelui Nikola, oferind acces la zona de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
+                  ]
             }
       ],
       "en": [
@@ -1044,6 +1521,33 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         19.094723,
                         42.071282
+                  ]
+            },
+            {
+                  "name": "Bazeni Bartula",
+                  "text": "Public swimming pools located near King Nikola's Palace, providing a place for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141481,
+                        42.083662
+                  ]
+            },
+            {
+                  "name": "Plaža Žukotorlica 7C",
+                  "text": "A beach resort near King Nikola's Palace, offering facilities for a day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.083607,
+                        42.112782
+                  ]
+            },
+            {
+                  "name": "Gradska Plaža",
+                  "text": "The city beach located near King Nikola's Palace, providing public access to the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        19.090319,
+                        42.100011
                   ]
             }
       ]
@@ -2182,6 +2686,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.864324,
                         42.283247
                   ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Ein Strandresort mit Unterkünften auf der Insel Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein hoteleigener Pool auf der ikonischen Insel Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein Club mit Infinity-Pool und Aussicht von der Insel Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Ein bekannter Strandabschnitt in der Nähe der historischen Insel Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "Ein als Hawaii bekannter Strandabschnitt in der Nähe von Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "Ein Abschnitt des Hawaii-Strandresorts in der Nähe der Insel Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
             }
       ],
       "hu": [
@@ -2264,6 +2822,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.864324,
                         42.283247
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti üdülőhely szálláslehetőséggel Sveti Stefan szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Egy szállodai úszómedence az ikonikus Sveti Stefan-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Egy feszített víztükrű medencével rendelkező klub Sveti Stefan szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "Híres tengerparti üdülőhely a történelmi Sveti Stefan-sziget közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "A Sveti Stefan közelében található, Hawaii néven ismert tengerparti rész.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "A Hawaii strandüdülő egy szakasza Sveti Stefan szigete közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
                   ]
             }
       ],
@@ -2348,6 +2960,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.864324,
                         42.283247
                   ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O stațiune de plajă care oferă cazare pe insula Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină de hotel pe emblematica insulă Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Un club cu piscină infinită care oferă priveliști de pe insula Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "O zonă renumită de stațiune de plajă lângă istorica insulă Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "O zonă de stațiune de plajă cunoscută popular sub numele de Hawaii, lângă Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "O secțiune a stațiunii de plajă Hawaii, lângă insula Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
+                  ]
             }
       ],
       "en": [
@@ -2430,6 +3096,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.864324,
                         42.283247
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A beach resort providing accommodation on Sveti Stefan Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A swimming pool belonging to a hotel on the iconic Sveti Stefan Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "An infinity pool club offering views from Sveti Stefan Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "Plaža Miločer",
+                  "text": "A renowned beach resort area near the historic Sveti Stefan Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.893254,
+                        42.260645
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A)",
+                  "text": "A beach resort area popularly known as Hawaii near Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846258,
+                        42.270918
+                  ]
+            },
+            {
+                  "name": "Plaža Hawaii (5A-2)",
+                  "text": "A section of the Hawaii beach resort near the island of Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.846718,
+                        42.269745
                   ]
             }
       ]
@@ -2551,6 +3271,24 @@ export const montenegroLandmarksV2: POI[] = [
                         18.964806,
                         42.193025
                   ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Ein malerischer Strand in Petrovac, umgeben von Pinienwäldern.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Der Light Land Family Recreation Park ist ein Freizeitpark bei den römischen Mosaiken von Petrovac.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
             }
       ],
       "hu": [
@@ -2624,6 +3362,24 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.964806,
                         42.193025
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "Festői tengerpart Petrovacban, fenyőerdőkkel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "A Light Land Family Recreation Park egy élménypark a petrovaci római mozaikok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
                   ]
             }
       ],
@@ -2699,6 +3455,24 @@ export const montenegroLandmarksV2: POI[] = [
                         18.964806,
                         42.193025
                   ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "O plajă pitorească în Petrovac, înconjurată de păduri de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Light Land Family Recreation Park este un parc tematic situat lângă mozaicurile romane din Petrovac.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
+                  ]
             }
       ],
       "en": [
@@ -2772,6 +3546,24 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.964806,
                         42.193025
+                  ]
+            },
+            {
+                  "name": "Lučice",
+                  "text": "A scenic beach in Petrovac, surrounded by pine forests.",
+                  "category": "recreational",
+                  "coords": [
+                        18.950787,
+                        42.200496
+                  ]
+            },
+            {
+                  "name": "Light Land Family Recreation Park",
+                  "text": "Light Land Family Recreation Park is a theme park located near the Roman Mosaics of Petrovac.",
+                  "category": "recreational",
+                  "coords": [
+                        18.995831,
+                        42.216188
                   ]
             }
       ]
@@ -2865,7 +3657,52 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-podgorica-st-george-landmarks-v2.webp",
   },
   {
-    id: "montenegro-tivat-buja-palace-landmarks-v2",
+    id: "montenegro-tivat-buja-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "FKK",
+                  "text": "Dieser FKK-Strand bietet einen abgelegenen Bereich für Badegäste in der Nähe der Region Buca.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685683,
+                        42.411024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FKK",
+                  "text": "Ez a nudista strand félreeső területet biztosít a fürdőzők számára Buca régiója közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685683,
+                        42.411024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FKK",
+                  "text": "Această plajă de nudiști oferă o zonă retrasă pentru scăldat în apropierea regiunii Buca.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685683,
+                        42.411024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nude beach",
+                  "text": "This nudist beach provides a secluded area for bathers near the Buca region.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685683,
+                        42.411024
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "ME",
     name: { de: "Sommerpalast Buca", hu: "Buca nyári palota", ro: "Palatul de vară Buca", en: "Buca Summer Palace" },
@@ -3388,6 +4225,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Der Malaya Beach Club ist ein Strandresort in der Nähe der Ballerina-Statue in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Ein Resort am Meer in Budva, nahe dem Wahrzeichen der tanzenden Ballerina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Hotelpool in Budva in der Nähe der Küstenpromenade.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein Infinity-Pool-Club in Budva mit Panoramablick auf die Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Ein kleinerer Schwimmplatz an der Küste von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Wasserpark mit Rutschen und Pools in der Nähe der Ballerina-Statue.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "hu": [
@@ -3461,6 +4352,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A Malaya Beach Club egy tengerparti klub Budvában, a Ballerina-szobor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti üdülő Budvában, a táncoló balerina szobor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Szállodai medence Budvában, a tengerparti sétány közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Infinity medenceklub Budvában, panorámás kilátással az öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Kisebb fürdőhely Budva tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Vízipark csúszdákkal és medencékkel a balerina szobor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ],
@@ -3536,6 +4481,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Malaya Beach Club este o stațiune de plajă lângă statuia Balerinei din Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O stațiune la mare în Budva, lângă simbolul balerinei care dansează.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină de hotel în Budva, situată în apropierea falezii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Un club cu piscină infinită în Budva, cu vedere panoramică asupra golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Un loc de scăldat mai mic pe coasta orașului Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Parc acvatic cu tobogane și piscine în apropierea statuii balerinei.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "en": [
@@ -3609,6 +4608,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Malaya Beach Club is a beach resort located near the Ballerina Statue in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A seaside resort in Budva, close to the dancing ballerina landmark.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A hotel swimming pool in Budva located near the coastal promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "An infinity pool club in Budva offering panoramic views of the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A smaller swimming spot located on the coast of Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Water park with slides and pools located near the Ballerina Statue.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ]
@@ -3792,7 +4845,340 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-perast-st-nicholas-landmarks-v2.webp",
   },
   {
-    id: "montenegro-ulcinj-fortress-landmarks-v2", "sights": {"de": [{"name": "Mala plaža - Plazhi i Vogël", "text": "Direkt bei der historischen Festung von Ulcinj erstreckt sich die charmante Mala plaža an der montenegrinischen Küste. Dieser Küstenabschnitt lädt zum vergnügten Schwimmen und zu entspannten Spaziergängen am Wasser ein. Die lebhafte, lokale Atmosphäre macht den Strand für Familien und Einzelreisende gleichermaßen attraktiv. Ein Besuch in den späten Nachmittagsstunden lohnt sich besonders.", "category": "recreational", "coords": [19.204553, 41.923261]}, {"name": "Liman 1", "text": "Liman 1 befindet sich bei der Festung Ulcinj.", "category": "recreational", "coords": [19.199358, 41.925504]}, {"name": "Liman 2", "text": "Liman 2 befindet sich bei der Festung Ulcinj.", "category": "recreational", "coords": [19.196985, 41.927078]}, {"name": "Ludvig", "text": "Der Strand Ludvig befindet sich unterhalb der Festung Ulcinj.", "category": "recreational", "coords": [19.204942, 41.920773]}, {"name": "Plazhi i Lugut të Xhemiles", "text": "Plazhi i Lugut të Xhemiles liegt bei der Festung Ulcinj.", "category": "recreational", "coords": [19.180481, 41.934313]}, {"name": "Plazhi i Bashbylykut", "text": "Plazhi i Bashbylykut liegt bei der Festung Ulcinj.", "category": "recreational", "coords": [19.191454, 41.928838]}, {"name": "Plazhi Paneuropa", "text": "Plazhi Paneuropa liegt bei der Festung Ulcinj.", "category": "recreational", "coords": [19.206526, 41.920689]}, {"name": "Far Beach", "text": "In der Nähe der imposanten Festung von Ulcinj bietet Far Beach einen reizvollen Rückzugsort am Meer. Hier erwartet die Besucher eine lebhafte Umgebung, die ideal zum Sonnenbaden und für erfrischende Badegänge ist. Die Kulisse der historischen Anlage verleiht dem Strandaufenthalt eine ganz besondere Note. Am besten plant man seinen Besuch für den entspannten Vormittag.", "category": "recreational", "coords": [19.208478, 41.920834]}], "hu": [{"name": "Mala plaža - Plazhi i Vogël", "text": "A történelmi ulcinji erőd közvetlen közelében található Mala plaža egy bájos montenegrói partszakasz. A strand kellemes úszásra és pihentető tengerparti sétákra csábítja a látogatókat. Életteli, helyi hangulata miatt családok és egyéni utazók számára egyaránt vonzó célpont. A késő délutáni órákban különösen varázslatos itt a tengerpart.", "category": "recreational", "coords": [19.204553, 41.923261]}, {"name": "Liman 1", "text": "Liman 1 az Ulcinji erődnél található.", "category": "recreational", "coords": [19.199358, 41.925504]}, {"name": "Liman 2", "text": "Liman 2 az Ulcinji erődnél található.", "category": "recreational", "coords": [19.196985, 41.927078]}, {"name": "Ludvig", "text": "A Ludvig strand az Ulcinji erőd alatt található.", "category": "recreational", "coords": [19.204942, 41.920773]}, {"name": "Plazhi i Lugut të Xhemiles", "text": "A Plazhi i Lugut të Xhemiles az Ulcinji erőd közelében található.", "category": "recreational", "coords": [19.180481, 41.934313]}, {"name": "Plazhi i Bashbylykut", "text": "A Plazhi i Bashbylykut az Ulcinji erőd közelében található.", "category": "recreational", "coords": [19.191454, 41.928838]}, {"name": "Plazhi Paneuropa", "text": "A Plazhi Paneuropa az Ulcinji erőd közelében található.", "category": "recreational", "coords": [19.206526, 41.920689]}, {"name": "Far Beach", "text": "Az impozáns ulcinji erőd közelében fekvő Far Beach egy lenyűgöző tengerparti menedék Montenegróban. A vibráló környezet tökéletes a napozáshoz és a tengeri fürdőzéshez. A történelmi látkép különleges atmoszférát kölcsönöz a vizes kikapcsolódásnak. Érdemes a déli hőség előtt érkezni, hogy a legkellemesebb arcát mutassa a part.", "category": "recreational", "coords": [19.208478, 41.920834]}], "ro": [{"name": "Mala plaža - Plazhi i Vogël", "text": "Aflată chiar lângă istorica Cetate din Ulcinj, Mala plaža este un loc de coastă plin de farmec în Muntenegru. Această plajă își invită oaspeții la înot și la plimbări liniștite sub soarele generos. Atmosfera sa locală și plină de viață o face perfectă atât pentru familii, cât și pentru călătorii solitari. Apusurile de soare oferă aici un spectacol deosebit.", "category": "recreational", "coords": [19.204553, 41.923261]}, {"name": "Liman 1", "text": "Liman 1 se află lângă fortăreața Ulcinj.", "category": "recreational", "coords": [19.199358, 41.925504]}, {"name": "Liman 2", "text": "Liman 2 se află lângă fortăreața Ulcinj.", "category": "recreational", "coords": [19.196985, 41.927078]}, {"name": "Ludvig", "text": "Plaja Ludvig se află sub fortăreața din Ulcinj.", "category": "recreational", "coords": [19.204942, 41.920773]}, {"name": "Plazhi i Lugut të Xhemiles", "text": "Plazhi i Lugut të Xhemiles se află lângă fortăreața din Ulcinj.", "category": "recreational", "coords": [19.180481, 41.934313]}, {"name": "Plazhi i Bashbylykut", "text": "Plazhi i Bashbylykut se află lângă fortăreața din Ulcinj.", "category": "recreational", "coords": [19.191454, 41.928838]}, {"name": "Plazhi Paneuropa", "text": "Plazhi Paneuropa se află lângă fortăreața din Ulcinj.", "category": "recreational", "coords": [19.206526, 41.920689]}, {"name": "Far Beach", "text": "Amplasată lângă impresionanta Cetate din Ulcinj, Far Beach este o destinație de coastă captivantă în Muntenegru. Acest loc vibrant este ideal pentru a vă bucura de razele soarelui și de bălăceli răcoroase. Panoramele istorice din fundal adaugă un farmec aparte orelor petrecute la plajă. O vizită în prima parte a zilei este întotdeauna o decizie înțeleaptă.", "category": "recreational", "coords": [19.208478, 41.920834]}], "en": [{"name": "Mala plaža - Plazhi i Vogël", "text": "Located just steps from the historic Fortress of Ulcinj, Mala plaža presents a charming coastal spot in Montenegro. The beach invites guests to enjoy leisurely swims and relaxing walks under the sun. Its lively local ambiance makes it a lovely destination for families and solo travelers alike. Sunset hours here are particularly magical.", "category": "recreational", "coords": [19.204553, 41.923261]}, {"name": "Liman 1", "text": "Liman 1 is located by the Ulcinj fortress.", "category": "recreational", "coords": [19.199358, 41.925504]}, {"name": "Liman 2", "text": "Liman 2 is located by the Ulcinj fortress.", "category": "recreational", "coords": [19.196985, 41.927078]}, {"name": "Ludvig", "text": "Ludvig beach is located below the Ulcinj fortress.", "category": "recreational", "coords": [19.204942, 41.920773]}, {"name": "Plazhi i Lugut të Xhemiles", "text": "Plazhi i Lugut të Xhemiles is located near the Ulcinj fortress.", "category": "recreational", "coords": [19.180481, 41.934313]}, {"name": "Plazhi i Bashbylykut", "text": "Plazhi i Bashbylykut is located near the Ulcinj fortress.", "category": "recreational", "coords": [19.191454, 41.928838]}, {"name": "Plazhi Paneuropa", "text": "Plazhi Paneuropa is located near the Ulcinj fortress.", "category": "recreational", "coords": [19.206526, 41.920689]}, {"name": "Far Beach", "text": "Positioned near the commanding Fortress of Ulcinj, Far Beach is a captivating seaside escape in Montenegro. Visitors will find a vibrant setting ideal for basking in the sun and enjoying the coastal waters. The surrounding historical views add a unique touch to a day of swimming and relaxation. Bringing a comfortable towel and arriving before the midday heat is a great plan.", "category": "recreational", "coords": [19.208478, 41.920834]}]},
+    id: "montenegro-ulcinj-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "Direkt bei der historischen Festung von Ulcinj erstreckt sich die charmante Mala plaža an der montenegrinischen Küste. Dieser Küstenabschnitt lädt zum vergnügten Schwimmen und zu entspannten Spaziergängen am Wasser ein. Die lebhafte, lokale Atmosphäre macht den Strand für Familien und Einzelreisende gleichermaßen attraktiv. Ein Besuch in den späten Nachmittagsstunden lohnt sich besonders.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 befindet sich bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 befindet sich bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "Der Strand Ludvig befindet sich unterhalb der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "Plazhi i Lugut të Xhemiles liegt bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "Plazhi i Bashbylykut liegt bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "Plazhi Paneuropa liegt bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "In der Nähe der imposanten Festung von Ulcinj bietet Far Beach einen reizvollen Rückzugsort am Meer. Hier erwartet die Besucher eine lebhafte Umgebung, die ideal zum Sonnenbaden und für erfrischende Badegänge ist. Die Kulisse der historischen Anlage verleiht dem Strandaufenthalt eine ganz besondere Note. Am besten plant man seinen Besuch für den entspannten Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            },
+            {
+                  "name": "Plazhi i Opalikës",
+                  "text": "Plazhi i Opalikës ist ein ruhiger Strandabschnitt in der Nähe der historischen Festung von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.185127,
+                        41.931685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "A történelmi ulcinji erőd közvetlen közelében található Mala plaža egy bájos montenegrói partszakasz. A strand kellemes úszásra és pihentető tengerparti sétákra csábítja a látogatókat. Életteli, helyi hangulata miatt családok és egyéni utazók számára egyaránt vonzó célpont. A késő délutáni órákban különösen varázslatos itt a tengerpart.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 az Ulcinji erődnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 az Ulcinji erődnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "A Ludvig strand az Ulcinji erőd alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "A Plazhi i Lugut të Xhemiles az Ulcinji erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "A Plazhi i Bashbylykut az Ulcinji erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "A Plazhi Paneuropa az Ulcinji erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "Az impozáns ulcinji erőd közelében fekvő Far Beach egy lenyűgöző tengerparti menedék Montenegróban. A vibráló környezet tökéletes a napozáshoz és a tengeri fürdőzéshez. A történelmi látkép különleges atmoszférát kölcsönöz a vizes kikapcsolódásnak. Érdemes a déli hőség előtt érkezni, hogy a legkellemesebb arcát mutassa a part.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            },
+            {
+                  "name": "Plazhi i Opalikës",
+                  "text": "A Plazhi i Opalikës egy nyugodt tengerparti szakasz Ulcinj történelmi erődje közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.185127,
+                        41.931685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "Aflată chiar lângă istorica Cetate din Ulcinj, Mala plaža este un loc de coastă plin de farmec în Muntenegru. Această plajă își invită oaspeții la înot și la plimbări liniștite sub soarele generos. Atmosfera sa locală și plină de viață o face perfectă atât pentru familii, cât și pentru călătorii solitari. Apusurile de soare oferă aici un spectacol deosebit.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 se află lângă fortăreața Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 se află lângă fortăreața Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "Plaja Ludvig se află sub fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "Plazhi i Lugut të Xhemiles se află lângă fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "Plazhi i Bashbylykut se află lângă fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "Plazhi Paneuropa se află lângă fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "Amplasată lângă impresionanta Cetate din Ulcinj, Far Beach este o destinație de coastă captivantă în Muntenegru. Acest loc vibrant este ideal pentru a vă bucura de razele soarelui și de bălăceli răcoroase. Panoramele istorice din fundal adaugă un farmec aparte orelor petrecute la plajă. O vizită în prima parte a zilei este întotdeauna o decizie înțeleaptă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            },
+            {
+                  "name": "Plazhi i Opalikës",
+                  "text": "Plazhi i Opalikës este o secțiune de plajă liniștită situată în apropierea fortăreței istorice din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.185127,
+                        41.931685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "Located just steps from the historic Fortress of Ulcinj, Mala plaža presents a charming coastal spot in Montenegro. The beach invites guests to enjoy leisurely swims and relaxing walks under the sun. Its lively local ambiance makes it a lovely destination for families and solo travelers alike. Sunset hours here are particularly magical.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 is located by the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 is located by the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "Ludvig beach is located below the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "Plazhi i Lugut të Xhemiles is located near the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "Plazhi i Bashbylykut is located near the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "Plazhi Paneuropa is located near the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "Positioned near the commanding Fortress of Ulcinj, Far Beach is a captivating seaside escape in Montenegro. Visitors will find a vibrant setting ideal for basking in the sun and enjoying the coastal waters. The surrounding historical views add a unique touch to a day of swimming and relaxation. Bringing a comfortable towel and arriving before the midday heat is a great plan.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            },
+            {
+                  "name": "Plazhi i Opalikës",
+                  "text": "Plazhi i Opalikës is a quiet beach stretch located near the historic Fortress of Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.185127,
+                        41.931685
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung von Ulcinj", hu: "Ulcinji erőd", ro: "Fortăreața din Ulcinj", en: "Fortress of Ulcinj" },
@@ -4027,6 +5413,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Ein Strandclub an der Küste in der Nähe der Dreifaltigkeitskirche in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Eine Küsteneinrichtung mit Strandannehmlichkeiten in der Nähe der Dreifaltigkeitskirche.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Freizeitschwimmbecken in der Nähe der Altstadt von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Eine stilvolle Poolanlage in der Nähe des historischen Zentrums von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Ein öffentlicher Schwimmbereich oder Pool direkt an der Stadtmauer von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Ein großer Wasserpark mit Unterhaltungsangeboten und Wasserrutschen in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "hu": [
@@ -4082,6 +5522,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Strandklub a tengerparton, a budvai Szentháromság-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti létesítmény strand kényelmi szolgáltatásokkal a Szentháromság-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Rekreációs úszómedence Budva óvárosának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Stílusos medence létesítmény Budva történelmi központja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Közösségi fürdőhely vagy medence Budva városfalai mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Nagy vízi park szórakozási lehetőségekkel és csúszdákkal Budvában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ],
@@ -4139,6 +5633,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Un club de plajă situat lângă biserica istorică Sfânta Treime din Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O unitate de coastă care oferă facilități de plajă lângă Biserica Sfânta Treime.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină recreativă situată lângă zona centrului vechi din Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "O piscină elegantă situată lângă centrul istoric al orașului Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "O zonă de înot publică sau piscină situată lângă zidurile orașului Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Un parc acvatic mare care oferă divertisment și tobogane cu apă în Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "en": [
@@ -4194,6 +5742,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A beach club located along the coast near the Church of the Holy Trinity in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A coastal establishment offering beach amenities near the Church of the Holy Trinity.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A recreational swimming pool situated near the old town area of Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "A stylish pool facility located near the historical center of Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A public swimming area or pool located by the city walls of Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "A large water park providing entertainment and water slides in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ]
@@ -4702,6 +6304,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Ein Strandclub in Küstennähe unweit der Johanneskirche in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Ein Erholungsbereich am Meer in der Nähe des historischen Stadtkerns.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Ein Außenpool in der Nähe der Johanneskirche, der zum Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Ein gehobener Pool-Club mit weitem Blick über die Bucht von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Eine kleine Bucht und Badestelle unterhalb der Festungsmauern.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Ein weitläufiger Wasserpark auf dem Hügel Topliš über der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "hu": [
@@ -4757,6 +6413,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Tengerparti klub a budvai Szent János-templom közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Tengerparti pihenőhely a történelmi városközpont közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Szabadtéri medence a Szent János-templom közelében, amely kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Színvonalas medenceklub széles kilátással a Budvai-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Kis öböl és fürdőhely a várfalak tövében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Kiterjedt aquapark a város feletti Topliš-dombon.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ],
@@ -4814,6 +6524,60 @@ export const montenegroLandmarksV2: POI[] = [
                         18.848868,
                         42.284759
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Un club de plajă situat la malul mării, aproape de biserica Sfântul Ioan din Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "O zonă de recreere la malul mării, situată lângă centrul istoric al orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "O piscină în aer liber situată lângă biserica Sfântul Ioan, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Un club cu piscină de nivel superior, oferind o vedere panoramică asupra golfului Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Un mic golf și loc pentru scăldat situat la poalele zidurilor cetății.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Un parc acvatic vast situat pe dealul Topliš, deasupra orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "en": [
@@ -4869,6 +6633,60 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.848868,
                         42.284759
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A beach club located by the sea near the Church of St. John in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A seaside recreation area located near the historic city center.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "An outdoor swimming pool located near the Church of St. John, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "A high-end pool club offering wide views over the Bay of Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A small bay and swimming spot located at the base of the fortress walls.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "A large water park located on Topliš hill overlooking the city.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ]

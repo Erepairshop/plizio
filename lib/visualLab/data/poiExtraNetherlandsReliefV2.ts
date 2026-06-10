@@ -732,7 +732,88 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-kootwijkerzand-relief-v2.webp",
   },
   {
-    id: "netherlands-duin-en-kruidberg-relief-v2",
+    id: "netherlands-duin-en-kruidberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "'t Wed",
+                  "text": "Ein beliebter Süßwasser-Badesee im Nationalpark Kennemerland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.589982,
+                        52.39932
+                  ]
+            },
+            {
+                  "name": "Oosterplas",
+                  "text": "Ein Erholungssee in den Dünen bei Bloemendaal, ideal zum Schwimmen und Entspannen.",
+                  "category": "landmark",
+                  "coords": [
+                        4.603972,
+                        52.417019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "'t Wed",
+                  "text": "Népszerű édesvizű fürdőtó a Kennemerland Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.589982,
+                        52.39932
+                  ]
+            },
+            {
+                  "name": "Oosterplas",
+                  "text": "Szabadidős tó a dűnék között Bloemendaal közelében, amely ideális úszásra és pihenésre.",
+                  "category": "landmark",
+                  "coords": [
+                        4.603972,
+                        52.417019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "'t Wed",
+                  "text": "Un lac de înot cu apă dulce popular situat în Parcul Național Kennemerland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.589982,
+                        52.39932
+                  ]
+            },
+            {
+                  "name": "Oosterplas",
+                  "text": "O zonă de lac recreativ în dunele de lângă Bloemendaal, ideală pentru înot și relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        4.603972,
+                        52.417019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "'t Wed",
+                  "text": "A popular freshwater swimming lake located in the Kennemerland National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        4.589982,
+                        52.39932
+                  ]
+            },
+            {
+                  "name": "Oosterplas",
+                  "text": "A recreational lake area in the dunes near Bloemendaal, ideal for swimming and relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        4.603972,
+                        52.417019
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Duin- en Kruidberg", hu: "Duin- en Kruidberg", ro: "Duin- en Kruidberg", en: "Duin- en Kruidberg" },
@@ -895,6 +976,15 @@ export const netherlandsReliefV2: POI[] = [
                         6.011934,
                         52.010201
                   ]
+            },
+            {
+                  "name": "Dierense Speeltuin",
+                  "text": "Ein Spielplatz in der Region Veluwezoom Moraine.",
+                  "category": "recreational",
+                  "coords": [
+                        6.09657,
+                        52.051675
+                  ]
             }
       ],
       "hu": [
@@ -968,6 +1058,15 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         6.011934,
                         52.010201
+                  ]
+            },
+            {
+                  "name": "Dierense Speeltuin",
+                  "text": "Játszótér a Veluwezoom Moraine régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.09657,
+                        52.051675
                   ]
             }
       ],
@@ -1043,6 +1142,15 @@ export const netherlandsReliefV2: POI[] = [
                         6.011934,
                         52.010201
                   ]
+            },
+            {
+                  "name": "Dierense Speeltuin",
+                  "text": "Un teren de joacă în regiunea Veluwezoom Moraine.",
+                  "category": "recreational",
+                  "coords": [
+                        6.09657,
+                        52.051675
+                  ]
             }
       ],
       "en": [
@@ -1116,6 +1224,15 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         6.011934,
                         52.010201
+                  ]
+            },
+            {
+                  "name": "Dierense Speeltuin",
+                  "text": "A playground in the Veluwezoom Moraine region.",
+                  "category": "recreational",
+                  "coords": [
+                        6.09657,
+                        52.051675
                   ]
             }
       ]
@@ -2668,6 +2785,15 @@ export const netherlandsReliefV2: POI[] = [
                         5.445067,
                         51.615362
                   ]
+            },
+            {
+                  "name": "Zwembad De Neul",
+                  "text": "Ein öffentliches Hallenbad in Sint-Oedenrode in der Nähe von Esberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.458792,
+                        51.5663
+                  ]
             }
       ],
       "hu": [
@@ -2741,6 +2867,15 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         5.445067,
                         51.615362
+                  ]
+            },
+            {
+                  "name": "Zwembad De Neul",
+                  "text": "Nyilvános fedett uszoda Sint-Oedenrode-ban, Esberg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.458792,
+                        51.5663
                   ]
             }
       ],
@@ -2816,6 +2951,15 @@ export const netherlandsReliefV2: POI[] = [
                         5.445067,
                         51.615362
                   ]
+            },
+            {
+                  "name": "Zwembad De Neul",
+                  "text": "O piscină publică interioară situată în Sint-Oedenrode, lângă Esberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.458792,
+                        51.5663
+                  ]
             }
       ],
       "en": [
@@ -2889,6 +3033,15 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         5.445067,
                         51.615362
+                  ]
+            },
+            {
+                  "name": "Zwembad De Neul",
+                  "text": "A public indoor swimming pool located in Sint-Oedenrode near Esberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.458792,
+                        51.5663
                   ]
             }
       ]
@@ -3055,6 +3208,33 @@ export const netherlandsReliefV2: POI[] = [
                         5.830968,
                         50.864719
                   ]
+            },
+            {
+                  "name": "Attractiepark Kabelbaan Valkenburg",
+                  "text": "Ein Freizeitpark mit einer Seilbahn, die Aussicht auf Valkenburg bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.832398,
+                        50.859152
+                  ]
+            },
+            {
+                  "name": "Thermae 2000",
+                  "text": "Ein bekanntes Thermalbad und Wellnesszentrum auf dem Cauberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.823804,
+                        50.860079
+                  ]
+            },
+            {
+                  "name": "Sprookjesbos Valkenburg",
+                  "text": "Ein märchenhafter Themenpark für Kinder in der Nähe von Schaelsberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.83361,
+                        50.857193
+                  ]
             }
       ],
       "hu": [
@@ -3128,6 +3308,33 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         5.830968,
                         50.864719
+                  ]
+            },
+            {
+                  "name": "Attractiepark Kabelbaan Valkenburg",
+                  "text": "Vidámpark felvonóval, amely kilátást nyújt Valkenburgra.",
+                  "category": "recreational",
+                  "coords": [
+                        5.832398,
+                        50.859152
+                  ]
+            },
+            {
+                  "name": "Thermae 2000",
+                  "text": "Ismert termálfürdő és wellnessközpont a Cauberg-hegyen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.823804,
+                        50.860079
+                  ]
+            },
+            {
+                  "name": "Sprookjesbos Valkenburg",
+                  "text": "Mese-témájú vidámpark gyermekeknek a Schaelsberg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.83361,
+                        50.857193
                   ]
             }
       ],
@@ -3203,6 +3410,33 @@ export const netherlandsReliefV2: POI[] = [
                         5.830968,
                         50.864719
                   ]
+            },
+            {
+                  "name": "Attractiepark Kabelbaan Valkenburg",
+                  "text": "Un parc de distracții cu o telecabină ce oferă vedere spre Valkenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.832398,
+                        50.859152
+                  ]
+            },
+            {
+                  "name": "Thermae 2000",
+                  "text": "Un centru balnear și de wellness cunoscut, situat pe dealul Cauberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.823804,
+                        50.860079
+                  ]
+            },
+            {
+                  "name": "Sprookjesbos Valkenburg",
+                  "text": "Un parc tematic cu povești pentru copii, situat lângă Schaelsberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.83361,
+                        50.857193
+                  ]
             }
       ],
       "en": [
@@ -3276,6 +3510,33 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         5.830968,
                         50.864719
+                  ]
+            },
+            {
+                  "name": "Attractiepark Kabelbaan Valkenburg",
+                  "text": "An amusement park featuring a cable car with views over Valkenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.832398,
+                        50.859152
+                  ]
+            },
+            {
+                  "name": "Thermae 2000",
+                  "text": "A well-known thermal bath and wellness center located on the Cauberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.823804,
+                        50.860079
+                  ]
+            },
+            {
+                  "name": "Sprookjesbos Valkenburg",
+                  "text": "A fairy-tale themed amusement park for children near Schaelsberg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.83361,
+                        50.857193
                   ]
             }
       ]

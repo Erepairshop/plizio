@@ -157,6 +157,15 @@ export const cyprusLandmarksV2: POI[] = [
                         32.341594,
                         34.89173
                   ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "Ein beliebter Sandstrand bei Pegeia, bekannt für sein kristallklares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
+                  ]
             }
       ],
       "hu": [
@@ -221,6 +230,15 @@ export const cyprusLandmarksV2: POI[] = [
                   "coords": [
                         32.341594,
                         34.89173
+                  ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "Népszerű homokos strand Pegeia közelében, kristálytiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
                   ]
             }
       ],
@@ -287,6 +305,15 @@ export const cyprusLandmarksV2: POI[] = [
                         32.341594,
                         34.89173
                   ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "O plajă populară cu nisip lângă Pegeia, renumită pentru apele sale cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
+                  ]
             }
       ],
       "en": [
@@ -351,6 +378,15 @@ export const cyprusLandmarksV2: POI[] = [
                   "coords": [
                         32.341594,
                         34.89173
+                  ]
+            },
+            {
+                  "name": "Coral bay",
+                  "text": "A popular sandy beach near Pegeia, famous for its crystal clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        32.369338,
+                        34.854116
                   ]
             }
       ]
@@ -579,7 +615,88 @@ export const cyprusLandmarksV2: POI[] = [
     image: "/poi-images/cyprus-agios-sozomenos-ruins-landmarks-v2.webp",
   },
   {
-    id: "cyprus-agios-andronikos-church-landmarks-v2", "sights": {"de": [{"name": "Glapsides Beach", "text": "Glapsides Beach begrüßt seine Gäste unweit der Kirche Agios Andronikos mit einem einladenden Küstenstreifen auf Zypern. Die Gegend besticht durch ihre angenehme Strandatmosphäre, die zum Verweilen einlädt. Besucher können sich auf erfrischendes Schwimmen und ausgiebige Sonnenbäder freuen. Für einen unbeschwerten Tag am Meer packt man am besten ausreichend Sonnenschutz ein.", "category": "recreational", "coords": [33.915624, 35.160188]}], "hu": [{"name": "Glapsides Beach", "text": "Az Agios Andronikos templom közelében húzódó Glapsides Beach hívogató partszakasszal várja a Cipruson nyaralókat. A környék kellemes strandolási lehetőségeket kínál, amely hosszabb maradásra ösztönöz. A fürdőzők frissítő úszásra és hosszas napozásra számíthatnak ezen a békés helyen. Érdemes megfelelő napvédelemmel készülni egy felhőtlen tengerparti napra.", "category": "recreational", "coords": [33.915624, 35.160188]}], "ro": [{"name": "Glapsides Beach", "text": "Plaja Glapsides își întâmpină oaspeții nu departe de biserica Agios Andronikos, cu o fâșie de coastă primitoare în Cipru. Zona impresionează prin atmosfera sa plăcută, ideală pentru a zăbovi la soare. Vizitatorii se pot bucura de înot revigorant și de relaxare îndelungată pe țărm. Pentru o zi fără griji la mare, este bine să vă aduceți protecție solară adecvată.", "category": "recreational", "coords": [33.915624, 35.160188]}], "en": [{"name": "Glapsides Beach", "text": "Welcoming guests near the Agios Andronikos Church, Glapsides Beach features an inviting stretch of coastline in Cyprus. The area boasts a pleasant beach atmosphere that encourages visitors to linger and relax. Swimmers and sunbathers can look forward to refreshing dips and long, lazy afternoons by the water. Packing adequate sun protection is advised for a carefree day at the sea.", "category": "recreational", "coords": [33.915624, 35.160188]}]},
+    id: "cyprus-agios-andronikos-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Glapsides Beach begrüßt seine Gäste unweit der Kirche Agios Andronikos mit einem einladenden Küstenstreifen auf Zypern. Die Gegend besticht durch ihre angenehme Strandatmosphäre, die zum Verweilen einlädt. Besucher können sich auf erfrischendes Schwimmen und ausgiebige Sonnenbäder freuen. Für einen unbeschwerten Tag am Meer packt man am besten ausreichend Sonnenschutz ein.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            },
+            {
+                  "name": "Beach Club",
+                  "text": "Ein moderner Strandclub in der Nähe der Agios Andronikos Kirche.",
+                  "category": "recreational",
+                  "coords": [
+                        33.910025,
+                        35.166611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Az Agios Andronikos templom közelében húzódó Glapsides Beach hívogató partszakasszal várja a Cipruson nyaralókat. A környék kellemes strandolási lehetőségeket kínál, amely hosszabb maradásra ösztönöz. A fürdőzők frissítő úszásra és hosszas napozásra számíthatnak ezen a békés helyen. Érdemes megfelelő napvédelemmel készülni egy felhőtlen tengerparti napra.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            },
+            {
+                  "name": "Beach Club",
+                  "text": "Modern strandklub az Agiosz Andronikosz-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.910025,
+                        35.166611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Plaja Glapsides își întâmpină oaspeții nu departe de biserica Agios Andronikos, cu o fâșie de coastă primitoare în Cipru. Zona impresionează prin atmosfera sa plăcută, ideală pentru a zăbovi la soare. Vizitatorii se pot bucura de înot revigorant și de relaxare îndelungată pe țărm. Pentru o zi fără griji la mare, este bine să vă aduceți protecție solară adecvată.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            },
+            {
+                  "name": "Beach Club",
+                  "text": "Un club de plajă modern în apropierea bisericii Agios Andronikos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.910025,
+                        35.166611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Welcoming guests near the Agios Andronikos Church, Glapsides Beach features an inviting stretch of coastline in Cyprus. The area boasts a pleasant beach atmosphere that encourages visitors to linger and relax. Swimmers and sunbathers can look forward to refreshing dips and long, lazy afternoons by the water. Packing adequate sun protection is advised for a carefree day at the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            },
+            {
+                  "name": "Beach Club",
+                  "text": "A modern beach club located near the Agios Andronikos Church.",
+                  "category": "recreational",
+                  "coords": [
+                        33.910025,
+                        35.166611
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Andronikos", hu: "Agios Andronikos-templom", ro: "Biserica Agios Andronikos", en: "Agios Andronikos Church" },

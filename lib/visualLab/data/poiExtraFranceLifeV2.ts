@@ -13,6 +13,15 @@ export const franceLifeV2: POI[] = [
                         3.528208,
                         44.299871
                   ]
+            },
+            {
+                  "name": "Przewalski-Pferde",
+                  "text": "Ein Naturschutzprojekt im Nationalpark Cevennen zur Erhaltung der seltenen Przewalski-Pferde.",
+                  "category": "recreational",
+                  "coords": [
+                        3.474451,
+                        44.254036
+                  ]
             }
       ],
       "hu": [
@@ -23,6 +32,15 @@ export const franceLifeV2: POI[] = [
                   "coords": [
                         3.528208,
                         44.299871
+                  ]
+            },
+            {
+                  "name": "Parc des chevaux de Przewalski",
+                  "text": "Természetvédelmi terület a Cevennek Nemzeti Parkban a ritka Przewalski-lovak megőrzésére.",
+                  "category": "recreational",
+                  "coords": [
+                        3.474451,
+                        44.254036
                   ]
             }
       ],
@@ -35,6 +53,15 @@ export const franceLifeV2: POI[] = [
                         3.528208,
                         44.299871
                   ]
+            },
+            {
+                  "name": "Parc des chevaux de Przewalski",
+                  "text": "O zonă de conservare din Parcul Național Cévennes pentru protejarea cailor Przewalski.",
+                  "category": "recreational",
+                  "coords": [
+                        3.474451,
+                        44.254036
+                  ]
             }
       ],
       "en": [
@@ -45,6 +72,15 @@ export const franceLifeV2: POI[] = [
                   "coords": [
                         3.528208,
                         44.299871
+                  ]
+            },
+            {
+                  "name": "Przewalski horses",
+                  "text": "A conservation area in the Cévennes National Park dedicated to the rare Przewalski's horses.",
+                  "category": "recreational",
+                  "coords": [
+                        3.474451,
+                        44.254036
                   ]
             }
       ]
@@ -166,6 +202,24 @@ export const franceLifeV2: POI[] = [
                         6.392682,
                         43.012663
                   ]
+            },
+            {
+                  "name": "Bain de Diane",
+                  "text": "Ein natürlicher Badeplatz im Nationalpark Port-Cros, bekannt für seine unberührte Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433719,
+                        43.018141
+                  ]
+            },
+            {
+                  "name": "Les Pierres-Plates",
+                  "text": "Felsiger Badebereich im Nationalpark Port-Cros mit klarem Wasser und reicher Meeresflora.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433658,
+                        43.01997
+                  ]
             }
       ],
       "hu": [
@@ -239,6 +293,24 @@ export const franceLifeV2: POI[] = [
                   "coords": [
                         6.392682,
                         43.012663
+                  ]
+            },
+            {
+                  "name": "Bain de Diane",
+                  "text": "Természetes fürdőhely a Port-Cros Nemzeti Parkban, amely érintetlen természetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433719,
+                        43.018141
+                  ]
+            },
+            {
+                  "name": "Les Pierres-Plates",
+                  "text": "Sziklás fürdőhely a Port-Cros Nemzeti Parkban, tiszta vízzel és gazdag tengeri élővilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433658,
+                        43.01997
                   ]
             }
       ],
@@ -314,6 +386,24 @@ export const franceLifeV2: POI[] = [
                         6.392682,
                         43.012663
                   ]
+            },
+            {
+                  "name": "Bain de Diane",
+                  "text": "Un loc natural de scăldat în Parcul Național Port-Cros, cunoscut pentru natura sa curată.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433719,
+                        43.018141
+                  ]
+            },
+            {
+                  "name": "Les Pierres-Plates",
+                  "text": "Zonă stâncoasă de scăldat în Parcul Național Port-Cros, cu apă limpede și floră marină bogată.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433658,
+                        43.01997
+                  ]
             }
       ],
       "en": [
@@ -387,6 +477,24 @@ export const franceLifeV2: POI[] = [
                   "coords": [
                         6.392682,
                         43.012663
+                  ]
+            },
+            {
+                  "name": "Bain de Diane",
+                  "text": "A natural swimming spot in Port-Cros National Park, known for its pristine nature.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433719,
+                        43.018141
+                  ]
+            },
+            {
+                  "name": "Les Pierres-Plates",
+                  "text": "A rocky swimming area in Port-Cros National Park with clear water and rich marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        6.433658,
+                        43.01997
                   ]
             }
       ]

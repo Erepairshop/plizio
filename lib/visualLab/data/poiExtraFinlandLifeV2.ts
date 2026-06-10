@@ -2767,6 +2767,15 @@ export const finlandLifeV2: POI[] = [
                         24.543581,
                         60.30593
                   ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "Ein Badestrand am Solvalla-Sportinstitut im Nuuksio-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
+                  ]
             }
       ],
       "hu": [
@@ -2858,6 +2867,15 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.543581,
                         60.30593
+                  ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "A Solvalla Sportintézet strandja a Nuuksio Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
                   ]
             }
       ],
@@ -2951,6 +2969,15 @@ export const finlandLifeV2: POI[] = [
                         24.543581,
                         60.30593
                   ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "O plajă la institutul de sport Solvalla din Parcul Național Nuuksio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
+                  ]
             }
       ],
       "en": [
@@ -3042,6 +3069,15 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.543581,
                         60.30593
+                  ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "A swimming beach at the Solvalla Sports Institute in Nuuksio National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
                   ]
             }
       ]

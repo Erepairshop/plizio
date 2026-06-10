@@ -76,6 +76,15 @@ export const greeceCitiesV2: POI[] = [
                         21.735499,
                         38.24663
                   ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "Ein öffentliches Schwimmbad in der Stadt Patras.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
+                  ]
             }
       ],
       "hu": [
@@ -149,6 +158,15 @@ export const greeceCitiesV2: POI[] = [
                   "coords": [
                         21.735499,
                         38.24663
+                  ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "Nyilvános úszómedence Patrasz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
                   ]
             }
       ],
@@ -224,6 +242,15 @@ export const greeceCitiesV2: POI[] = [
                         21.735499,
                         38.24663
                   ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "O piscină publică în orașul Patras.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
+                  ]
             }
       ],
       "en": [
@@ -297,6 +324,15 @@ export const greeceCitiesV2: POI[] = [
                   "coords": [
                         21.735499,
                         38.24663
+                  ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "A public swimming pool in the city of Patras.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
                   ]
             }
       ]
@@ -2432,6 +2468,96 @@ imageHint: "Katerini city park and Olympus in background",
                         24.006215,
                         35.51387
                   ]
+            },
+            {
+                  "name": "Κουλούρα",
+                  "text": "Ein ruhiger Strandabschnitt in der Region Chania, ideal zum Entspannen abseits der großen Massen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040977,
+                        35.521694
+                  ]
+            },
+            {
+                  "name": "Παραλία Κούμ Καπί (Kum Kapisi)",
+                  "text": "Ein städtischer Strand in Chania, der von Einheimischen und Touristen gleichermaßen besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028726,
+                        35.516003
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαλέπα",
+                  "text": "Ein kleiner Strand im historischen Viertel Chalepa in Chania, bekannt für seine Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044055,
+                        35.521531
+                  ]
+            },
+            {
+                  "name": "Χρυσή Ακτή",
+                  "text": "Ein beliebter Sandstrand bei Chania, der flaches Wasser und gute Bedingungen für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.989777,
+                        35.512584
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Ein malerischer Strand in Chania, der besonders für die Aussicht bei Sonnenuntergang geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        23.974654,
+                        35.512384
+                  ]
+            },
+            {
+                  "name": "Παραλία Αγίων Αποστόλων",
+                  "text": "Ein bekannter Strand in der Nähe von Chania, der für seine geschützten Buchten und feinen Sand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.978782,
+                        35.513945
+                  ]
+            },
+            {
+                  "name": "Eastern Gulf",
+                  "text": "Ein Küstenbereich bei Chania, der Besuchern eine natürliche Umgebung für einen Strandtag bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983121,
+                        35.514025
+                  ]
+            },
+            {
+                  "name": "Aptera",
+                  "text": "Ein ruhiger Strandabschnitt in der Region Chania, der sich durch seine natürliche Schönheit auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.993915,
+                        35.511056
+                  ]
+            },
+            {
+                  "name": "Παραλία Νέα Χώρα",
+                  "text": "Ein traditioneller Strand in Chania, der sich in unmittelbarer Nähe zum Stadtzentrum befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.998254,
+                        35.511628
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio Khanion",
+                  "text": "Das städtische Schwimmbad von Chania bietet Einrichtungen für Schwimmtraining und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009737,
+                        35.517576
+                  ]
             }
       ],
       "hu": [
@@ -2514,6 +2640,96 @@ imageHint: "Katerini city park and Olympus in background",
                   "coords": [
                         24.006215,
                         35.51387
+                  ]
+            },
+            {
+                  "name": "Κουλούρα",
+                  "text": "Csendes tengerparti szakasz Chania régiójában, amely ideális a tömegtől távoli pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040977,
+                        35.521694
+                  ]
+            },
+            {
+                  "name": "Παραλία Κούμ Καπί (Kum Kapisi)",
+                  "text": "Chania városi strandja, amelyet a helyiek és a turisták egyaránt látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028726,
+                        35.516003
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαλέπα",
+                  "text": "Kis tengerpart Chania történelmi Chalepa negyedében, amely hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044055,
+                        35.521531
+                  ]
+            },
+            {
+                  "name": "Χρυσή Ακτή",
+                  "text": "Népszerű homokos tengerpart Chania közelében, amely sekély vizet és jó feltételeket kínál családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        23.989777,
+                        35.512584
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Festői tengerpart Chaniában, amelyet különösen a naplementekor nyíló kilátás miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        23.974654,
+                        35.512384
+                  ]
+            },
+            {
+                  "name": "Παραλία Αγίων Αποστόλων",
+                  "text": "Ismert tengerpart Chania közelében, amely védett öbleiről és finom homokjáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        23.978782,
+                        35.513945
+                  ]
+            },
+            {
+                  "name": "Eastern Gulf",
+                  "text": "Part menti terület Chania közelében, amely természetes környezetet kínál a látogatóknak egy strandoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983121,
+                        35.514025
+                  ]
+            },
+            {
+                  "name": "Aptera",
+                  "text": "Csendes tengerparti szakasz Chania régiójában, amelyet természeti szépsége jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        23.993915,
+                        35.511056
+                  ]
+            },
+            {
+                  "name": "Παραλία Νέα Χώρα",
+                  "text": "Hagyományos tengerpart Chaniában, amely a városközpont közvetlen közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.998254,
+                        35.511628
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio Khanion",
+                  "text": "Haniá városi úszómedencéje edzési és szabadidős úszási lehetőségeket biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009737,
+                        35.517576
                   ]
             }
       ],
@@ -2598,6 +2814,96 @@ imageHint: "Katerini city park and Olympus in background",
                         24.006215,
                         35.51387
                   ]
+            },
+            {
+                  "name": "Κουλούρα",
+                  "text": "O porțiune liniștită de plajă în regiunea Chania, ideală pentru relaxare departe de mulțimile mari.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040977,
+                        35.521694
+                  ]
+            },
+            {
+                  "name": "Παραλία Κούμ Καπί (Kum Kapisi)",
+                  "text": "O plajă urbană în Chania, frecventată atât de localnici, cât și de turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028726,
+                        35.516003
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαλέπα",
+                  "text": "O plajă mică în cartierul istoric Chalepa din Chania, cunoscută pentru atmosfera sa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044055,
+                        35.521531
+                  ]
+            },
+            {
+                  "name": "Χρυσή Ακτή",
+                  "text": "O plajă de nisip populară lângă Chania, care oferă ape puțin adânci și condiții bune pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        23.989777,
+                        35.512584
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "O plajă pitorească din Chania, apreciată în mod special pentru priveliștea la apus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.974654,
+                        35.512384
+                  ]
+            },
+            {
+                  "name": "Παραλία Αγίων Αποστόλων",
+                  "text": "O plajă cunoscută lângă Chania, renumită pentru golful său protejat și nisipul fin.",
+                  "category": "recreational",
+                  "coords": [
+                        23.978782,
+                        35.513945
+                  ]
+            },
+            {
+                  "name": "Eastern Gulf",
+                  "text": "O zonă de coastă lângă Chania, care oferă vizitatorilor un cadru natural pentru o zi la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983121,
+                        35.514025
+                  ]
+            },
+            {
+                  "name": "Aptera",
+                  "text": "O porțiune liniștită de plajă în regiunea Chania, caracterizată prin frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        23.993915,
+                        35.511056
+                  ]
+            },
+            {
+                  "name": "Παραλία Νέα Χώρα",
+                  "text": "O plajă tradițională în Chania, situată în imediata apropiere a centrului orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        23.998254,
+                        35.511628
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio Khanion",
+                  "text": "Piscina municipală din Chania oferă facilități pentru antrenamente de înot și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009737,
+                        35.517576
+                  ]
             }
       ],
       "en": [
@@ -2681,6 +2987,96 @@ imageHint: "Katerini city park and Olympus in background",
                         24.006215,
                         35.51387
                   ]
+            },
+            {
+                  "name": "Κουλούρα",
+                  "text": "A quiet stretch of beach in the Chania region, ideal for relaxing away from large crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040977,
+                        35.521694
+                  ]
+            },
+            {
+                  "name": "Παραλία Κούμ Καπί (Kum Kapisi)",
+                  "text": "An urban beach in Chania, frequented by locals and tourists alike.",
+                  "category": "recreational",
+                  "coords": [
+                        24.028726,
+                        35.516003
+                  ]
+            },
+            {
+                  "name": "Chalepa Beach",
+                  "text": "A small beach in the historic Chalepa district of Chania, known for its atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044055,
+                        35.521531
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "A popular sandy beach near Chania, offering shallow waters and good conditions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        23.989777,
+                        35.512584
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "A scenic beach in Chania, especially valued for its sunset views.",
+                  "category": "recreational",
+                  "coords": [
+                        23.974654,
+                        35.512384
+                  ]
+            },
+            {
+                  "name": "Παραλία Αγίων Αποστόλων",
+                  "text": "A well-known beach near Chania, famous for its sheltered bays and fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        23.978782,
+                        35.513945
+                  ]
+            },
+            {
+                  "name": "Eastern Gulf",
+                  "text": "A coastal area near Chania, offering visitors a natural setting for a beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983121,
+                        35.514025
+                  ]
+            },
+            {
+                  "name": "Aptera",
+                  "text": "A quiet stretch of beach in the Chania region, characterized by its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        23.993915,
+                        35.511056
+                  ]
+            },
+            {
+                  "name": "Παραλία Νέα Χώρα",
+                  "text": "A traditional beach in Chania, located in close proximity to the city center.",
+                  "category": "recreational",
+                  "coords": [
+                        23.998254,
+                        35.511628
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio Khanion",
+                  "text": "The municipal swimming pool of Chania offers facilities for swim training and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009737,
+                        35.517576
+                  ]
             }
       ]
 },
@@ -2729,7 +3125,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
     image: "/poi-images/greece-chania-cities-v2.webp",
 },  {
-    id: "greece-kalamata-cities-v2",
+    id: "greece-kalamata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalamata Beach",
+                  "text": "Ein Küstenabschnitt zum Baden und Entspannen in Kalamata.",
+                  "category": "recreational",
+                  "coords": [
+                        22.119251,
+                        37.02431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalamata Beach",
+                  "text": "Tengerparti fürdő- és pihenőhely Kalamata területén.",
+                  "category": "recreational",
+                  "coords": [
+                        22.119251,
+                        37.02431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalamata Beach",
+                  "text": "O zonă de coastă pentru înot și relaxare în Kalamata.",
+                  "category": "recreational",
+                  "coords": [
+                        22.119251,
+                        37.02431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalamata Beach",
+                  "text": "A coastal area for swimming and relaxation in Kalamata.",
+                  "category": "recreational",
+                  "coords": [
+                        22.119251,
+                        37.02431
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "port",
     name: { de: "Kalamata", hu: "Kalamáta", ro: "Kalamata", en: "Kalamata"},
@@ -5627,6 +6068,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.427915,
                         38.368405
                   ]
+            },
+            {
+                  "name": "Παραλία Αγίας Τριάδας",
+                  "text": "Ein Sandstrand in der Nähe der Lagune von Mesolongi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.429288,
+                        38.347554
+                  ]
+            },
+            {
+                  "name": "Laspoloutra Agias Triadas",
+                  "text": "Laspoloutra Agias Triadas ist ein öffentliches Bad in Mesolonghi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.428122,
+                        38.347583
+                  ]
             }
       ],
       "hu": [
@@ -5682,6 +6141,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.427915,
                         38.368405
+                  ]
+            },
+            {
+                  "name": "Παραλία Αγίας Τριάδας",
+                  "text": "Homokos strand a Meszolongi-lagúna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.429288,
+                        38.347554
+                  ]
+            },
+            {
+                  "name": "Laspoloutra Agias Triadas",
+                  "text": "A Laspoloutra Agias Triadas egy nyilvános fürdő Mesolonghiban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.428122,
+                        38.347583
                   ]
             }
       ],
@@ -5739,6 +6216,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.427915,
                         38.368405
                   ]
+            },
+            {
+                  "name": "Παραλία Αγίας Τριάδας",
+                  "text": "O plajă de nisip situată lângă laguna Mesolonghi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.429288,
+                        38.347554
+                  ]
+            },
+            {
+                  "name": "Laspoloutra Agias Triadas",
+                  "text": "Laspoloutra Agias Triadas este o baie publică în Mesolonghi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.428122,
+                        38.347583
+                  ]
             }
       ],
       "en": [
@@ -5794,6 +6289,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.427915,
                         38.368405
+                  ]
+            },
+            {
+                  "name": "Παραλία Αγίας Τριάδας",
+                  "text": "A sandy beach located near the Mesolonghi lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.429288,
+                        38.347554
+                  ]
+            },
+            {
+                  "name": "Laspoloutra Agias Triadas",
+                  "text": "Laspoloutra Agias Triadas is a public bath facility in Mesolonghi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.428122,
+                        38.347583
                   ]
             }
       ]
@@ -6636,6 +7149,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         23.492756,
                         37.964801
                   ]
+            },
+            {
+                  "name": "Μικρό Λαμπρανό",
+                  "text": "Mikro Lambrano ist ein kleiner Strand auf der Insel Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.42816,
+                        37.888974
+                  ]
             }
       ],
       "hu": [
@@ -6763,6 +7285,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         23.492756,
                         37.964801
+                  ]
+            },
+            {
+                  "name": "Μικρό Λαμπρανό",
+                  "text": "A Mikro Lambrano egy kis strand Szalamina szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.42816,
+                        37.888974
                   ]
             }
       ],
@@ -6892,6 +7423,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         23.492756,
                         37.964801
                   ]
+            },
+            {
+                  "name": "Μικρό Λαμπρανό",
+                  "text": "Mikro Lambrano este o plajă mică pe insula Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.42816,
+                        37.888974
+                  ]
             }
       ],
       "en": [
@@ -7019,6 +7559,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         23.492756,
                         37.964801
+                  ]
+            },
+            {
+                  "name": "Μικρό Λαμπρανό",
+                  "text": "Mikro Lambrano is a small beach on the island of Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.42816,
+                        37.888974
                   ]
             }
       ]
@@ -8904,7 +9453,268 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-sofades-cities-v2.webp",
   },
   {
-    id: "greece-neanemoudania-cities-v2", "sights": {"de": [{"name": "Lagoon", "text": "Lagoon ist ein wunderschöner Strandort in Nea Moudania.", "category": "recreational", "coords": [23.332155, 40.213758]}, {"name": "Portes Beach", "text": "In der Küstenstadt Nea Moudania gelegen, heißt der Portes Beach seine Besucher mit angenehmen Sandstränden und dem leuchtenden Wasser der Ägäis willkommen. Die Menschen kommen hierher, um lange Tage mit Schwimmen, barfüßigen Strandspaziergängen und dem Genuss des griechischen Klimas zu verbringen. Die Stimmung ist eine fröhliche Mischung aus lokalem Charme und urlaubshafter Entspannung. Der späte Nachmittag ist besonders reizvoll, wenn die Hitze über dem Meer langsam nachlässt.", "category": "recreational", "coords": [23.315593, 40.217322]}, {"name": "Plagia-Flogita Beach", "text": "Der sich an der Küste von Nea Moudania erstreckende Plagia-Flogita Beach ist ein weitläufiges Ziel für alle, die das Meer lieben. Die breite Uferlinie macht es unglaublich einfach, einen Platz zum Sonnenbaden zu finden, während das klare Meerwasser zu einer Abkühlung ruft. Der Strand verbindet auf harmonische Weise die lebendige Energie der Badegäste mit wunderschönen Ausblicken auf den Horizont. Eigene Strandspiele oder ein gutes Buch runden das Erlebnis hier perfekt ab.", "category": "recreational", "coords": [23.213397, 40.254921]}, {"name": "agjio mama", "text": "Agjio mama ist ein Strand in der Nähe von Nea Moudania.", "category": "recreational", "coords": [23.358468, 40.248353]}, {"name": "Pomegranate Spa Hotel", "text": "Der Strand am Pomegranate Spa Hotel bietet Zugang zur Küste in Nea Moudania.", "category": "recreational", "coords": [23.321448, 40.206775]}, {"name": "Portes Beach Hotel", "text": "Der zum Portes Beach Hotel in Nea Moudania gehörende Strandbereich bringt den Komfort direkt ans Ufer. Gäste erfreuen sich an einem leicht zugänglichen Sandstreifen, an dem sie mühelos vom Faulenzen zum Schwimmen in der Ägäis wechseln können. Die Atmosphäre ist ganz natürlich auf Entspannung und unbeschwerten Urlaubsgenuss ausgerichtet. Ein morgendlicher Besuch sichert einen ruhigen Start, bevor die Küstenbrise etwas auffrischt.", "category": "recreational", "coords": [23.319264, 40.21401]}], "hu": [{"name": "Lagoon", "text": "A Lagoon egy gyönyörű tengerparti hely Nea Moudaniában.", "category": "recreational", "coords": [23.332155, 40.213758]}, {"name": "Portes Beach", "text": "A Nea Moudania tengerparti városában fekvő Portes Beach kellemes homokos szakaszokkal és a ragyogó égei-tengeri vízzel várja a látogatókat. Az emberek azért járnak ide, hogy élvezzék a hosszas úszásokat, a mezítlábas parti sétákat és a kellemes görög klímát. A hangulat a helyi varázs és a nyaralási ellazulás vidám keveréke. A késő délutánok különösen szépek, ahogy a hőség lágyan eloszlik a tenger felett.", "category": "recreational", "coords": [23.315593, 40.217322]}, {"name": "Plagia-Flogita Beach", "text": "A Nea Moudania partvidékén végighúzódó Plagia-Flogita Beach kiterjedt célpont a tenger szerelmeseinek. A széles partvonalnak köszönhetően hihetetlenül könnyű helyet találni a napozáshoz, míg a tiszta víz frissítő csobbanásra csábít. Zökkenőmentesen ötvözi az élénk strandoló energiát a horizont gyönyörű kilátásával. A kedvenc tengerparti játékok vagy egy jó könyv magunkkal vitele tökéletesen teljessé teszi az élményt.", "category": "recreational", "coords": [23.213397, 40.254921]}, {"name": "agjio mama", "text": "Az agjio mama egy strand Nea Moudania közelében.", "category": "recreational", "coords": [23.358468, 40.248353]}, {"name": "Pomegranate Spa Hotel", "text": "A Pomegranate Spa Hotel strandja parti hozzáférést biztosít Nea Moudaniában.", "category": "recreational", "coords": [23.321448, 40.206775]}, {"name": "Portes Beach Hotel", "text": "A Nea Moudania-i Portes Beach Hotel strandrésze a kényelmet egyenesen a partra hozza. A vendégek egy könnyen megközelíthető homoksávot élvezhetnek, ahol a heverészésből könnyedén átválthatnak az égei-tengeri úszásra. A hangulat természetes módon a pihenésre és a gondtalan nyaralási élvezetekre irányul. A reggeli érkezés nyugodt kezdést biztosít, mielőtt a tengerparti szél feltámadna.", "category": "recreational", "coords": [23.319264, 40.21401]}], "ro": [{"name": "Lagoon", "text": "Lagoon este o locație frumoasă de plajă în Nea Moudania.", "category": "recreational", "coords": [23.332155, 40.213758]}, {"name": "Portes Beach", "text": "Situată în orașul de coastă Nea Moudania, Portes Beach își întâmpină vizitatorii cu întinderi plăcute de nisip și apele luminoase ale Mării Egee. Oamenii vin aici pentru a savura zile lungi de înot, pentru a se plimba desculți pe țărm și pentru a se bucura de clima grecească. Atmosfera este un amestec vesel de farmec local și relaxare de vacanță. După-amiezile târzii sunt deosebit de frumoase, deoarece căldura se domolește deasupra mării.", "category": "recreational", "coords": [23.315593, 40.217322]}, {"name": "Plagia-Flogita Beach", "text": "Întinzându-se de-a lungul coastei din Nea Moudania, Plagia-Flogita Beach este o destinație vastă pentru cei care iubesc marea. Litoralul larg face ca găsirea unui loc pentru plajă să fie incredibil de ușoară, în timp ce marea limpede vă cheamă la o baie răcoritoare. Aceasta combină perfect energia plină de viață a celor care merg la plajă cu priveliști frumoase ale orizontului. Aducerea jocurilor preferate de plajă sau a unei cărți bune va completa perfect experiența.", "category": "recreational", "coords": [23.213397, 40.254921]}, {"name": "agjio mama", "text": "Agjio mama este o plajă aflată lângă Nea Moudania.", "category": "recreational", "coords": [23.358468, 40.248353]}, {"name": "Pomegranate Spa Hotel", "text": "Plaja de la Pomegranate Spa Hotel oferă acces la coastă în Nea Moudania.", "category": "recreational", "coords": [23.321448, 40.206775]}, {"name": "Portes Beach Hotel", "text": "Atașată unei proprietăți primitoare din Nea Moudania, zona de plajă de la Portes Beach Hotel aduce confortul direct pe țărm. Oaspeții sunt tratați cu o fâșie de nisip accesibilă, unde pot trece fără efort de la lenevire la înot în Marea Egee. Atmosfera este orientată în mod natural spre relaxare și plăcerea unei vacanțe fără efort. Sosirea dimineața asigură un început calm înainte ca briza de coastă să se întețească.", "category": "recreational", "coords": [23.319264, 40.21401]}], "en": [{"name": "Lagoon", "text": "Lagoon is a beautiful beach location in Nea Moudania.", "category": "recreational", "coords": [23.332155, 40.213758]}, {"name": "Portes Beach", "text": "Set in the coastal town of Nea Moudania, Portes Beach welcomes visitors with its pleasant sandy stretches and bright Aegean waters. People come here to savor long days of swimming, walking barefoot on the shore, and enjoying the Grecian climate. The vibe is a cheerful mix of local charm and holiday relaxation. Late afternoons are particularly lovely as the heat mellows out over the sea.", "category": "recreational", "coords": [23.315593, 40.217322]}, {"name": "Plagia-Flogita Beach", "text": "Sweeping along the coast of Nea Moudania, Plagia-Flogita Beach is an expansive destination for those who love the sea. The broad shoreline makes it incredibly easy to find a spot for sunbathing, while the clear sea calls out for a refreshing dip. It seamlessly combines a lively beachgoer energy with beautiful vistas of the horizon. Bringing along your favorite beach games or a good book will round out the experience perfectly.", "category": "recreational", "coords": [23.213397, 40.254921]}, {"name": "agjio mama", "text": "Agjio mama is a beach located near Nea Moudania.", "category": "recreational", "coords": [23.358468, 40.248353]}, {"name": "Pomegranate Spa Hotel", "text": "The beach at Pomegranate Spa Hotel offers coastal access in Nea Moudania.", "category": "recreational", "coords": [23.321448, 40.206775]}, {"name": "Portes Beach Hotel", "text": "Attached to a welcoming property in Nea Moudania, the beach area at Portes Beach Hotel brings comfort directly to the shore. Guests are treated to an accessible strip of sand where they can effortlessly transition from lounging to swimming in the Aegean. The atmosphere is naturally geared towards relaxation and effortless holiday enjoyment. Arriving in the morning ensures a calm start before the coastal breeze picks up.", "category": "recreational", "coords": [23.319264, 40.21401]}]},
+    id: "greece-neanemoudania-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lagoon",
+                  "text": "Lagoon ist ein wunderschöner Strandort in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "In der Küstenstadt Nea Moudania gelegen, heißt der Portes Beach seine Besucher mit angenehmen Sandstränden und dem leuchtenden Wasser der Ägäis willkommen. Die Menschen kommen hierher, um lange Tage mit Schwimmen, barfüßigen Strandspaziergängen und dem Genuss des griechischen Klimas zu verbringen. Die Stimmung ist eine fröhliche Mischung aus lokalem Charme und urlaubshafter Entspannung. Der späte Nachmittag ist besonders reizvoll, wenn die Hitze über dem Meer langsam nachlässt.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "Der sich an der Küste von Nea Moudania erstreckende Plagia-Flogita Beach ist ein weitläufiges Ziel für alle, die das Meer lieben. Die breite Uferlinie macht es unglaublich einfach, einen Platz zum Sonnenbaden zu finden, während das klare Meerwasser zu einer Abkühlung ruft. Der Strand verbindet auf harmonische Weise die lebendige Energie der Badegäste mit wunderschönen Ausblicken auf den Horizont. Eigene Strandspiele oder ein gutes Buch runden das Erlebnis hier perfekt ab.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Agjio mama ist ein Strand in der Nähe von Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "Der Strand am Pomegranate Spa Hotel bietet Zugang zur Küste in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "Der zum Portes Beach Hotel in Nea Moudania gehörende Strandbereich bringt den Komfort direkt ans Ufer. Gäste erfreuen sich an einem leicht zugänglichen Sandstreifen, an dem sie mühelos vom Faulenzen zum Schwimmen in der Ägäis wechseln können. Die Atmosphäre ist ganz natürlich auf Entspannung und unbeschwerten Urlaubsgenuss ausgerichtet. Ein morgendlicher Besuch sichert einen ruhigen Start, bevor die Küstenbrise etwas auffrischt.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            },
+            {
+                  "name": "Παραλία Γυμνιστών",
+                  "text": "Ein ausgewiesener Strandbereich in Nea Moudania für Naturisten und Sonnenanbeter.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333608,
+                        40.217268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lagoon",
+                  "text": "A Lagoon egy gyönyörű tengerparti hely Nea Moudaniában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "A Nea Moudania tengerparti városában fekvő Portes Beach kellemes homokos szakaszokkal és a ragyogó égei-tengeri vízzel várja a látogatókat. Az emberek azért járnak ide, hogy élvezzék a hosszas úszásokat, a mezítlábas parti sétákat és a kellemes görög klímát. A hangulat a helyi varázs és a nyaralási ellazulás vidám keveréke. A késő délutánok különösen szépek, ahogy a hőség lágyan eloszlik a tenger felett.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "A Nea Moudania partvidékén végighúzódó Plagia-Flogita Beach kiterjedt célpont a tenger szerelmeseinek. A széles partvonalnak köszönhetően hihetetlenül könnyű helyet találni a napozáshoz, míg a tiszta víz frissítő csobbanásra csábít. Zökkenőmentesen ötvözi az élénk strandoló energiát a horizont gyönyörű kilátásával. A kedvenc tengerparti játékok vagy egy jó könyv magunkkal vitele tökéletesen teljessé teszi az élményt.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Az agjio mama egy strand Nea Moudania közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "A Pomegranate Spa Hotel strandja parti hozzáférést biztosít Nea Moudaniában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "A Nea Moudania-i Portes Beach Hotel strandrésze a kényelmet egyenesen a partra hozza. A vendégek egy könnyen megközelíthető homoksávot élvezhetnek, ahol a heverészésből könnyedén átválthatnak az égei-tengeri úszásra. A hangulat természetes módon a pihenésre és a gondtalan nyaralási élvezetekre irányul. A reggeli érkezés nyugodt kezdést biztosít, mielőtt a tengerparti szél feltámadna.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            },
+            {
+                  "name": "Παραλία Γυμνιστών",
+                  "text": "Naturisták számára kijelölt strandrész Nea Moudania területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333608,
+                        40.217268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lagoon",
+                  "text": "Lagoon este o locație frumoasă de plajă în Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "Situată în orașul de coastă Nea Moudania, Portes Beach își întâmpină vizitatorii cu întinderi plăcute de nisip și apele luminoase ale Mării Egee. Oamenii vin aici pentru a savura zile lungi de înot, pentru a se plimba desculți pe țărm și pentru a se bucura de clima grecească. Atmosfera este un amestec vesel de farmec local și relaxare de vacanță. După-amiezile târzii sunt deosebit de frumoase, deoarece căldura se domolește deasupra mării.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "Întinzându-se de-a lungul coastei din Nea Moudania, Plagia-Flogita Beach este o destinație vastă pentru cei care iubesc marea. Litoralul larg face ca găsirea unui loc pentru plajă să fie incredibil de ușoară, în timp ce marea limpede vă cheamă la o baie răcoritoare. Aceasta combină perfect energia plină de viață a celor care merg la plajă cu priveliști frumoase ale orizontului. Aducerea jocurilor preferate de plajă sau a unei cărți bune va completa perfect experiența.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Agjio mama este o plajă aflată lângă Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "Plaja de la Pomegranate Spa Hotel oferă acces la coastă în Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "Atașată unei proprietăți primitoare din Nea Moudania, zona de plajă de la Portes Beach Hotel aduce confortul direct pe țărm. Oaspeții sunt tratați cu o fâșie de nisip accesibilă, unde pot trece fără efort de la lenevire la înot în Marea Egee. Atmosfera este orientată în mod natural spre relaxare și plăcerea unei vacanțe fără efort. Sosirea dimineața asigură un început calm înainte ca briza de coastă să se întețească.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            },
+            {
+                  "name": "Παραλία Γυμνιστών",
+                  "text": "O zonă de plajă desemnată în Nea Moudania pentru naturiști și iubitorii de soare.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333608,
+                        40.217268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lagoon",
+                  "text": "Lagoon is a beautiful beach location in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "Set in the coastal town of Nea Moudania, Portes Beach welcomes visitors with its pleasant sandy stretches and bright Aegean waters. People come here to savor long days of swimming, walking barefoot on the shore, and enjoying the Grecian climate. The vibe is a cheerful mix of local charm and holiday relaxation. Late afternoons are particularly lovely as the heat mellows out over the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "Sweeping along the coast of Nea Moudania, Plagia-Flogita Beach is an expansive destination for those who love the sea. The broad shoreline makes it incredibly easy to find a spot for sunbathing, while the clear sea calls out for a refreshing dip. It seamlessly combines a lively beachgoer energy with beautiful vistas of the horizon. Bringing along your favorite beach games or a good book will round out the experience perfectly.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Agjio mama is a beach located near Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "The beach at Pomegranate Spa Hotel offers coastal access in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "Attached to a welcoming property in Nea Moudania, the beach area at Portes Beach Hotel brings comfort directly to the shore. Guests are treated to an accessible strip of sand where they can effortlessly transition from lounging to swimming in the Aegean. The atmosphere is naturally geared towards relaxation and effortless holiday enjoyment. Arriving in the morning ensures a calm start before the coastal breeze picks up.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "A designated beach area in Nea Moudania for naturists and sun seekers.",
+                  "category": "recreational",
+                  "coords": [
+                        23.333608,
+                        40.217268
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Nea Moudania", hu: "Nea Moudania", ro: "Nea Moudania", en: "Nea Moudania" },
@@ -9247,6 +10057,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.105905,
                         35.20892
                   ]
+            },
+            {
+                  "name": "Trachilias Beach",
+                  "text": "Trachilias Beach ist ein abgelegener Strand in der Nähe von Sitia im Osten Kretas.",
+                  "category": "recreational",
+                  "coords": [
+                        26.06725,
+                        35.221206
+                  ]
             }
       ],
       "hu": [
@@ -9302,6 +10121,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.105905,
                         35.20892
+                  ]
+            },
+            {
+                  "name": "Trachilias Beach",
+                  "text": "A Trachilias Beach egy eldugott strand Sitia közelében, Kelet-Krétán.",
+                  "category": "recreational",
+                  "coords": [
+                        26.06725,
+                        35.221206
                   ]
             }
       ],
@@ -9359,6 +10187,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.105905,
                         35.20892
                   ]
+            },
+            {
+                  "name": "Trachilias Beach",
+                  "text": "Trachilias Beach este o plajă retrasă în apropiere de Sitia, în estul Cretei.",
+                  "category": "recreational",
+                  "coords": [
+                        26.06725,
+                        35.221206
+                  ]
             }
       ],
       "en": [
@@ -9414,6 +10251,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.105905,
                         35.20892
+                  ]
+            },
+            {
+                  "name": "Trachilias Beach",
+                  "text": "Trachilias Beach is a secluded beach near Sitia in eastern Crete.",
+                  "category": "recreational",
+                  "coords": [
+                        26.06725,
+                        35.221206
                   ]
             }
       ]
@@ -10101,7 +10947,340 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-kyparissia-cities-v2.webp",
   },
   {
-    id: "greece-lefkimmi-cities-v2", "sights": {"de": [{"name": "Filarmoniki Etairia Leykimmis", "text": "Eine Kulturinstitution und ein Veranstaltungsort für Musik- und Theaterereignisse in Lefkimmi.", "category": "cultural", "coords": [20.079639, 39.421028]}, {"name": "Akra Levkimnis", "text": "Ein Leuchtturm am Kap Levkimmi, der den Schiffsverkehr in der Nähe von Korfu leitet.", "category": "landmark", "coords": [20.071938, 39.458583]}, {"name": "Moyseio Koyri", "text": "Ein lokales Museum in Lefkimmi, das regionale Geschichte und kulturelle Artefakte präsentiert.", "category": "museum", "coords": [20.073965, 39.423867]}, {"name": "Moysiki Kallitechniki Enosi Leykimmaion", "text": "Ein Veranstaltungsort der Musik- und Künstlervereinigung, der kulturellen Aufführungen in Lefkimmi gewidmet ist.", "category": "cultural", "coords": [20.061844, 39.42239]}, {"name": "Paralia Mpoyka", "text": "Ein Sandstrand in der Nähe von Lefkimmi, bekannt für sein seichtes Wasser und seine entspannte Atmosphäre.", "category": "recreational", "coords": [20.086777, 39.434524]}], "hu": [{"name": "Filarmoniki Etairia Leykimmis", "text": "Kulturális intézmény és rendezvényhelyszín, amely zenei és színházi eseményeknek ad otthont Lefkimmiben.", "category": "cultural", "coords": [20.079639, 39.421028]}, {"name": "Akra Levkimnis", "text": "A Lefkimmi-fokon található világítótorony, amely a Korfu közeli tengeri forgalmat irányítja.", "category": "landmark", "coords": [20.071938, 39.458583]}, {"name": "Moyseio Koyri", "text": "Helyi múzeum Lefkimmiben, amely a regionális történelmet és kulturális tárgyakat mutatja be.", "category": "museum", "coords": [20.073965, 39.423867]}, {"name": "Moysiki Kallitechniki Enosi Leykimmaion", "text": "Zenei és művészeti egyesületi helyszín, amelyet kulturális előadásoknak szenteltek Lefkimmiben.", "category": "cultural", "coords": [20.061844, 39.42239]}, {"name": "Paralia Mpoyka", "text": "Homokos strand Lefkimmi közelében, amely sekély vizéről és nyugodt légköréről ismert.", "category": "recreational", "coords": [20.086777, 39.434524]}], "ro": [{"name": "Filarmoniki Etairia Leykimmis", "text": "O instituție culturală și loc de desfășurare a spectacolelor care găzduiește evenimente muzicale și teatrale în Lefkimmi.", "category": "cultural", "coords": [20.079639, 39.421028]}, {"name": "Akra Levkimnis", "text": "Un far situat pe capul Lefkimmi, care ghidează traficul maritim în apropiere de Corfu.", "category": "landmark", "coords": [20.071938, 39.458583]}, {"name": "Moyseio Koyri", "text": "Un muzeu local din Lefkimmi care prezintă istoria regională și artefacte culturale.", "category": "museum", "coords": [20.073965, 39.423867]}, {"name": "Moysiki Kallitechniki Enosi Leykimmaion", "text": "Un sediu al unei societăți muzicale și artistice dedicat spectacolelor culturale din Lefkimmi.", "category": "cultural", "coords": [20.061844, 39.42239]}, {"name": "Paralia Mpoyka", "text": "O plajă cu nisip lângă Lefkimmi, cunoscută pentru apele sale puțin adânci și atmosfera relaxată.", "category": "recreational", "coords": [20.086777, 39.434524]}], "en": [{"name": "Filarmoniki Etairia Leykimmis", "text": "A cultural institution and performance venue hosting musical and theatrical events in Lefkimmi.", "category": "cultural", "coords": [20.079639, 39.421028]}, {"name": "Akra Levkimnis", "text": "A lighthouse located on the Levkimmi cape, guiding maritime traffic near Corfu.", "category": "landmark", "coords": [20.071938, 39.458583]}, {"name": "Museum Kouris", "text": "A local museum in Lefkimmi showcasing regional history and cultural artifacts.", "category": "museum", "coords": [20.073965, 39.423867]}, {"name": "Moysiki Kallitechniki Enosi Leykimmaion", "text": "A musical and artistic society venue dedicated to cultural performances in Lefkimmi.", "category": "cultural", "coords": [20.061844, 39.42239]}, {"name": "Bouka Beach", "text": "A sandy beach near Lefkimmi known for its shallow waters and relaxed atmosphere.", "category": "recreational", "coords": [20.086777, 39.434524]}]},
+    id: "greece-lefkimmi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Filarmoniki Etairia Leykimmis",
+                  "text": "Eine Kulturinstitution und ein Veranstaltungsort für Musik- und Theaterereignisse in Lefkimmi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.079639,
+                        39.421028
+                  ]
+            },
+            {
+                  "name": "Akra Levkimnis",
+                  "text": "Ein Leuchtturm am Kap Levkimmi, der den Schiffsverkehr in der Nähe von Korfu leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.071938,
+                        39.458583
+                  ]
+            },
+            {
+                  "name": "Moyseio Koyri",
+                  "text": "Ein lokales Museum in Lefkimmi, das regionale Geschichte und kulturelle Artefakte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.073965,
+                        39.423867
+                  ]
+            },
+            {
+                  "name": "Moysiki Kallitechniki Enosi Leykimmaion",
+                  "text": "Ein Veranstaltungsort der Musik- und Künstlervereinigung, der kulturellen Aufführungen in Lefkimmi gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        20.061844,
+                        39.42239
+                  ]
+            },
+            {
+                  "name": "Paralia Mpoyka",
+                  "text": "Ein Sandstrand in der Nähe von Lefkimmi, bekannt für sein seichtes Wasser und seine entspannte Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        20.086777,
+                        39.434524
+                  ]
+            },
+            {
+                  "name": "Παραλία Σκάλομα",
+                  "text": "Ein Strand in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.095545,
+                        39.416557
+                  ]
+            },
+            {
+                  "name": "Καλυβιώτης",
+                  "text": "Ein Strand in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021699,
+                        39.433642
+                  ]
+            },
+            {
+                  "name": "Μώλος",
+                  "text": "Ein Strand in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.037371,
+                        39.436926
+                  ]
+            },
+            {
+                  "name": "Παραλία Παρακλάδι",
+                  "text": "Ein Strand in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.097843,
+                        39.407015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Filarmoniki Etairia Leykimmis",
+                  "text": "Kulturális intézmény és rendezvényhelyszín, amely zenei és színházi eseményeknek ad otthont Lefkimmiben.",
+                  "category": "cultural",
+                  "coords": [
+                        20.079639,
+                        39.421028
+                  ]
+            },
+            {
+                  "name": "Akra Levkimnis",
+                  "text": "A Lefkimmi-fokon található világítótorony, amely a Korfu közeli tengeri forgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.071938,
+                        39.458583
+                  ]
+            },
+            {
+                  "name": "Moyseio Koyri",
+                  "text": "Helyi múzeum Lefkimmiben, amely a regionális történelmet és kulturális tárgyakat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.073965,
+                        39.423867
+                  ]
+            },
+            {
+                  "name": "Moysiki Kallitechniki Enosi Leykimmaion",
+                  "text": "Zenei és művészeti egyesületi helyszín, amelyet kulturális előadásoknak szenteltek Lefkimmiben.",
+                  "category": "cultural",
+                  "coords": [
+                        20.061844,
+                        39.42239
+                  ]
+            },
+            {
+                  "name": "Paralia Mpoyka",
+                  "text": "Homokos strand Lefkimmi közelében, amely sekély vizéről és nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.086777,
+                        39.434524
+                  ]
+            },
+            {
+                  "name": "Παραλία Σκάλομα",
+                  "text": "Egy strand Lefkimmi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.095545,
+                        39.416557
+                  ]
+            },
+            {
+                  "name": "Καλυβιώτης",
+                  "text": "Egy strand Lefkimmi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021699,
+                        39.433642
+                  ]
+            },
+            {
+                  "name": "Μώλος",
+                  "text": "Egy strand Lefkimmi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.037371,
+                        39.436926
+                  ]
+            },
+            {
+                  "name": "Παραλία Παρακλάδι",
+                  "text": "Egy strand Lefkimmi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.097843,
+                        39.407015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Filarmoniki Etairia Leykimmis",
+                  "text": "O instituție culturală și loc de desfășurare a spectacolelor care găzduiește evenimente muzicale și teatrale în Lefkimmi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.079639,
+                        39.421028
+                  ]
+            },
+            {
+                  "name": "Akra Levkimnis",
+                  "text": "Un far situat pe capul Lefkimmi, care ghidează traficul maritim în apropiere de Corfu.",
+                  "category": "landmark",
+                  "coords": [
+                        20.071938,
+                        39.458583
+                  ]
+            },
+            {
+                  "name": "Moyseio Koyri",
+                  "text": "Un muzeu local din Lefkimmi care prezintă istoria regională și artefacte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        20.073965,
+                        39.423867
+                  ]
+            },
+            {
+                  "name": "Moysiki Kallitechniki Enosi Leykimmaion",
+                  "text": "Un sediu al unei societăți muzicale și artistice dedicat spectacolelor culturale din Lefkimmi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.061844,
+                        39.42239
+                  ]
+            },
+            {
+                  "name": "Paralia Mpoyka",
+                  "text": "O plajă cu nisip lângă Lefkimmi, cunoscută pentru apele sale puțin adânci și atmosfera relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        20.086777,
+                        39.434524
+                  ]
+            },
+            {
+                  "name": "Παραλία Σκάλομα",
+                  "text": "O plajă în Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.095545,
+                        39.416557
+                  ]
+            },
+            {
+                  "name": "Καλυβιώτης",
+                  "text": "O plajă în Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021699,
+                        39.433642
+                  ]
+            },
+            {
+                  "name": "Μώλος",
+                  "text": "O plajă în Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.037371,
+                        39.436926
+                  ]
+            },
+            {
+                  "name": "Παραλία Παρακλάδι",
+                  "text": "O plajă în Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.097843,
+                        39.407015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Filarmoniki Etairia Leykimmis",
+                  "text": "A cultural institution and performance venue hosting musical and theatrical events in Lefkimmi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.079639,
+                        39.421028
+                  ]
+            },
+            {
+                  "name": "Akra Levkimnis",
+                  "text": "A lighthouse located on the Levkimmi cape, guiding maritime traffic near Corfu.",
+                  "category": "landmark",
+                  "coords": [
+                        20.071938,
+                        39.458583
+                  ]
+            },
+            {
+                  "name": "Museum Kouris",
+                  "text": "A local museum in Lefkimmi showcasing regional history and cultural artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        20.073965,
+                        39.423867
+                  ]
+            },
+            {
+                  "name": "Moysiki Kallitechniki Enosi Leykimmaion",
+                  "text": "A musical and artistic society venue dedicated to cultural performances in Lefkimmi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.061844,
+                        39.42239
+                  ]
+            },
+            {
+                  "name": "Bouka Beach",
+                  "text": "A sandy beach near Lefkimmi known for its shallow waters and relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        20.086777,
+                        39.434524
+                  ]
+            },
+            {
+                  "name": "Skaloma Beach",
+                  "text": "A beach in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.095545,
+                        39.416557
+                  ]
+            },
+            {
+                  "name": "Kaliviotis",
+                  "text": "A beach in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.021699,
+                        39.433642
+                  ]
+            },
+            {
+                  "name": "Molos",
+                  "text": "A beach in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.037371,
+                        39.436926
+                  ]
+            },
+            {
+                  "name": "Parakladi Beach",
+                  "text": "A beach in Lefkimmi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.097843,
+                        39.407015
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Lefkimmi", hu: "Lefkimmi", ro: "Lefkimmi", en: "Lefkimmi" },
@@ -10605,7 +11784,880 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-amfilochia-cities-v2.webp",
   },
   {
-    id: "greece-lefkada-cities-v2", "sights": {"de": [{"name": "Archaiologiko Moyseio Leykadas", "text": "Ein Museum in Lefkada, das Funde von der Insel von der Steinzeit bis zur römischen Ära zeigt.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Kastro Agias Mayras", "text": "Eine beeindruckende mittelalterliche Festung, die den Eingang zur Insel Lefkada bewacht.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "Ein privates Museum in Lefkada mit einer Sammlung historischer Grammophone und Radios.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "Ein langer Sandstrand in der Nähe der Stadt Lefkada, bekannt für seine Windmühlen.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "Ein beliebter Strand auf Lefkada, ideal für Kitesurfer aufgrund der günstigen Winde.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "Ein markanter Leuchtturm an der Küste von Lefkada, der Schiffen den Weg weist.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "Die Überreste einer historischen Befestigungsanlage auf der Insel Lefkada.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Ai Giannis", "text": "Ein malerischer Küstenbereich auf Lefkada, der für sein kristallklares Wasser bekannt ist.", "category": "recreational", "coords": [20.669874, 38.831586]}, {"name": "Kastro", "text": "Ein Strandabschnitt in Lefkada, der in unmittelbarer Nähe der historischen Festung liegt.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "Ein Museum in Lefkada, das dem Leben und Werk des Dichters Angelos Sikelianos gewidmet ist.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Kryoneri", "text": "Ein Strandbereich auf Lefkada, der für sein erfrischendes und sauberes Meerwasser geschätzt wird.", "category": "recreational", "coords": [20.665734, 38.832887]}, {"name": "Ereipia Ag.Gorgioy", "text": "Die Ruinen einer dem Heiligen Georg geweihten Stätte auf der Insel Lefkada.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Überreste einer historischen anglikanischen Kirche in Lefkada.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ereipia archaias polis", "text": "Antike Ruinen einer ehemaligen Siedlung in Lefkada.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "Die archäologische Stätte des antiken Nirikos auf Lefkada.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "Agios Ioannis toy Antzoysi", "text": "Eine historische Kapelle, die Johannes dem Täufer gewidmet ist und in der Nähe von Lefkada liegt.", "category": "religious", "coords": [20.666989, 38.83155]}, {"name": "Agios Charalampos", "text": "Eine dem Heiligen Charalambos gewidmete Kirche in Lefkada.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "Eine griechisch-orthodoxe Kirche in Lefkada mit religiöser Bedeutung.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "Eine markante Kirche in Lefkada, die dem Heiligen Minas gewidmet ist.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "Eine kleine Kirche in Lefkada, die den Heiligen Anargyroi gewidmet ist.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alykes Alexandroy", "text": "Die Salinen von Alexandros auf Lefkada sind ein Seengebiet, das sich durch einzigartige Küstenlandschaften auszeichnet.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Limnothalassa Gyras", "text": "Der Gyra-See ist ein wunderschönes Gewässer auf Lefkada, das sich perfekt dazu eignet, die friedliche Landschaft zu genießen.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "Der Marina Playground ist ein Außenbereich auf Lefkada, wo Familien mit ihren Kindern aktiv Spaß haben können.", "category": "family", "coords": [20.711158, 38.829357]}], "hu": [{"name": "Archaiologiko Moyseio Leykadas", "text": "Lefkada múzeuma, amely a kőkorszaktól a római korig mutat be leleteket a szigetről.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Kastro Agias Mayras", "text": "Lenyűgöző középkori erődítmény, amely Lefkada szigetének bejáratát őrzi.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "Magánmúzeum Lefkadán, amely történelmi gramofonok és rádiók gyűjteményét mutatja be.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "Hosszú homokos strand Lefkada városa közelében, amely szélmalmairól ismert.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "Népszerű strand Lefkadán, amely a kedvező szelek miatt a kiteszörfösök kedvence.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "Jellegzetes világítótorony Lefkada partjainál, amely a hajók navigálását segíti.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "Történelmi erődítmény maradványai Lefkada szigetén.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Ai Giannis", "text": "Gleccserkék vizéről ismert festői tengerparti szakasz Lefkadán.", "category": "recreational", "coords": [20.669874, 38.831586]}, {"name": "Kastro", "text": "Tengerparti szakasz Lefkadán, közvetlenül a történelmi erőd szomszédságában.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "Múzeum Lefkadán, amely Angelos Sikelianos költő életének és munkásságának állít emléket.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Kryoneri", "text": "Lefkadai tengerparti rész, amely frissítő és tiszta vizéről kedvelt a látogatók körében.", "category": "recreational", "coords": [20.665734, 38.832887]}, {"name": "Ereipia Ag.Gorgioy", "text": "Szent György tiszteletére szentelt egykori épület romjai Lefkada szigetén.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Egy történelmi anglikán templom maradványai Lefkada városában.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ereipia archaias polis", "text": "Egy egykori település ókori romjai Lefkada területén.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "Az ókori Nirikosz régészeti lelőhelye Lefkada szigetén.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "Agios Ioannis toy Antzoysi", "text": "Keresztelő Szent Jánosnak szentelt történelmi kápolna Lefkada közelében.", "category": "religious", "coords": [20.666989, 38.83155]}, {"name": "Agios Charalampos", "text": "Szent Charalambosznak szentelt templom Lefkada városában.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "Vallási jelentőségű görög ortodox templom Lefkada városában.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "Szent Ménasznak szentelt jellegzetes templom Lefkada városában.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "Szent Anargüroi tiszteletére emelt kis templom Lefkadán.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alykes Alexandroy", "text": "A lefkadai Alexandros sólepárló egy egyedülálló partmenti tájakkal rendelkező tóvidék.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Limnothalassa Gyras", "text": "A Gyra-tó egy gyönyörű vízfelület Lefkadán, amely tökéletes a békés táj élvezetéhez.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "A Marina Playground egy lefkadai szabadtéri terület, ahol a családok aktív szórakozásra vihetik el gyermekeiket.", "category": "family", "coords": [20.711158, 38.829357]}], "ro": [{"name": "Archaiologiko Moyseio Leykadas", "text": "Un muzeu din Lefkada care expune descoperiri de pe insulă din epoca pietrei până în epoca romană.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Kastro Agias Mayras", "text": "O fortăreață medievală impresionantă care străjuiește intrarea pe insula Lefkada.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "Un muzeu privat din Lefkada care adăpostește o colecție de gramofoane și aparate de radio istorice.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "O plajă lungă de nisip lângă orașul Lefkada, cunoscută pentru morile sale de vânt.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "O plajă populară din Lefkada, ideală pentru kitesurfing datorită vânturilor favorabile.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "Un far distinctiv pe coasta insulei Lefkada, care ghidează navigația vaselor.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "Rămășițele unei fortificații istorice pe insula Lefkada.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Ai Giannis", "text": "O zonă de coastă pitorească din Lefkada, cunoscută pentru apa sa cristalină.", "category": "recreational", "coords": [20.669874, 38.831586]}, {"name": "Kastro", "text": "O secțiune de plajă din Lefkada situată în imediata apropiere a fortăreței istorice.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "Un muzeu din Lefkada dedicat vieții și operei poetului Angelos Sikelianos.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Kryoneri", "text": "O zonă de plajă din Lefkada, apreciată pentru apa mării răcoritoare și curată.", "category": "recreational", "coords": [20.665734, 38.832887]}, {"name": "Ereipia Ag.Gorgioy", "text": "Ruinele unui lăcaș dedicat Sfântului Gheorghe pe insula Lefkada.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Rămășițele unei biserici anglicane istorice din Lefkada.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ereipia archaias polis", "text": "Ruinele antice ale unei foste așezări din Lefkada.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "Situl arheologic al anticului Nirikos din Lefkada.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "Agios Ioannis toy Antzoysi", "text": "O capelă istorică dedicată Sfântului Ioan Botezătorul, situată lângă Lefkada.", "category": "religious", "coords": [20.666989, 38.83155]}, {"name": "Agios Charalampos", "text": "O biserică dedicată Sfântului Haralambie din Lefkada.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "O biserică ortodoxă greacă din Lefkada, cu semnificație religioasă.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "O biserică distinctivă din Lefkada, dedicată Sfântului Mina.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "O mică biserică din Lefkada dedicată Sfinților Anargyroi.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alykes Alexandroy", "text": "Salinele Alexandros din Lefkada reprezintă o zonă de lac cu peisaje de coastă unice.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Limnothalassa Gyras", "text": "Lacul Gyra este un corp de apă frumos din Lefkada, perfect pentru a vă bucura de peisajul liniștit.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "Marina Playground este un spațiu în aer liber din Lefkada, unde familiile își pot aduce copiii pentru distracție activă.", "category": "family", "coords": [20.711158, 38.829357]}], "en": [{"name": "Archaeological Museum of Lefkada", "text": "A museum in Lefkada showcasing finds from the island from the Stone Age to the Roman era.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Agia Mavra Castle", "text": "An impressive medieval fortress guarding the entrance to the island of Lefkada.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "A private museum in Lefkada featuring a collection of historical phonographs and radios.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "A long sandy beach near Lefkada town, known for its windmills.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "A popular beach on Lefkada, ideal for kitesurfers due to the favorable winds.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "A distinctive lighthouse on the coast of Lefkada, guiding the navigation of ships.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "The remains of a historical fortification on the island of Lefkada.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Ai Giannis", "text": "A picturesque coastal area on Lefkada known for its crystal-clear water.", "category": "recreational", "coords": [20.669874, 38.831586]}, {"name": "Kastro", "text": "A beach section in Lefkada located in the immediate vicinity of the historical fortress.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "A museum in Lefkada dedicated to the life and work of the poet Angelos Sikelianos.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Kryoneri", "text": "A beach area on Lefkada valued for its refreshing and clean sea water.", "category": "recreational", "coords": [20.665734, 38.832887]}, {"name": "Ereipia Ag.Gorgioy", "text": "The ruins of a site dedicated to Saint George on the island of Lefkada.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Remains of a historical Anglican church in Lefkada.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ancient City Ruins", "text": "Ancient ruins of a former settlement in Lefkada.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "The archaeological site of ancient Nirikos in Lefkada.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "St John of Antzousi", "text": "A historical chapel dedicated to St John the Baptist, located near Lefkada.", "category": "religious", "coords": [20.666989, 38.83155]}, {"name": "Agios Charalampos", "text": "A church dedicated to Saint Charalambos in Lefkada.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "A Greek Orthodox church in Lefkada with religious significance.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "A prominent church in Lefkada dedicated to Saint Minas.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "A small church in Lefkada dedicated to the Holy Anargyroi.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alexandros salt pans", "text": "Alexandros salt pans in Lefkada is a lake area featuring unique coastal landscapes.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Gyra Lake", "text": "Gyra Lake is a beautiful water body in Lefkada, perfect for enjoying peaceful scenery.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "Marina Playground is an outdoor space in Lefkada where families can bring their kids for some active fun.", "category": "family", "coords": [20.711158, 38.829357]}]},
+    id: "greece-lefkada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologiko Moyseio Leykadas",
+                  "text": "Ein Museum in Lefkada, das Funde von der Insel von der Steinzeit bis zur römischen Ära zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Kastro Agias Mayras",
+                  "text": "Eine beeindruckende mittelalterliche Festung, die den Eingang zur Insel Lefkada bewacht.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "Ein privates Museum in Lefkada mit einer Sammlung historischer Grammophone und Radios.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "Ein langer Sandstrand in der Nähe der Stadt Lefkada, bekannt für seine Windmühlen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Ein beliebter Strand auf Lefkada, ideal für Kitesurfer aufgrund der günstigen Winde.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Ein markanter Leuchtturm an der Küste von Lefkada, der Schiffen den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "Die Überreste einer historischen Befestigungsanlage auf der Insel Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Ai Giannis",
+                  "text": "Ein malerischer Küstenbereich auf Lefkada, der für sein kristallklares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.669874,
+                        38.831586
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "Ein Strandabschnitt in Lefkada, der in unmittelbarer Nähe der historischen Festung liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "Ein Museum in Lefkada, das dem Leben und Werk des Dichters Angelos Sikelianos gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Kryoneri",
+                  "text": "Ein Strandbereich auf Lefkada, der für sein erfrischendes und sauberes Meerwasser geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        20.665734,
+                        38.832887
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "Die Ruinen einer dem Heiligen Georg geweihten Stätte auf der Insel Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Überreste einer historischen anglikanischen Kirche in Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ereipia archaias polis",
+                  "text": "Antike Ruinen einer ehemaligen Siedlung in Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Die archäologische Stätte des antiken Nirikos auf Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis toy Antzoysi",
+                  "text": "Eine historische Kapelle, die Johannes dem Täufer gewidmet ist und in der Nähe von Lefkada liegt.",
+                  "category": "religious",
+                  "coords": [
+                        20.666989,
+                        38.83155
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Eine dem Heiligen Charalambos gewidmete Kirche in Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Eine griechisch-orthodoxe Kirche in Lefkada mit religiöser Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "Eine markante Kirche in Lefkada, die dem Heiligen Minas gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Eine kleine Kirche in Lefkada, die den Heiligen Anargyroi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alykes Alexandroy",
+                  "text": "Die Salinen von Alexandros auf Lefkada sind ein Seengebiet, das sich durch einzigartige Küstenlandschaften auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Gyras",
+                  "text": "Der Gyra-See ist ein wunderschönes Gewässer auf Lefkada, das sich perfekt dazu eignet, die friedliche Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Der Marina Playground ist ein Außenbereich auf Lefkada, wo Familien mit ihren Kindern aktiv Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Καμίνια",
+                  "text": "Ein ruhiger Strand auf Lefkada, bekannt für seine natürliche Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        20.661804,
+                        38.833817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologiko Moyseio Leykadas",
+                  "text": "Lefkada múzeuma, amely a kőkorszaktól a római korig mutat be leleteket a szigetről.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Kastro Agias Mayras",
+                  "text": "Lenyűgöző középkori erődítmény, amely Lefkada szigetének bejáratát őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "Magánmúzeum Lefkadán, amely történelmi gramofonok és rádiók gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "Hosszú homokos strand Lefkada városa közelében, amely szélmalmairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Népszerű strand Lefkadán, amely a kedvező szelek miatt a kiteszörfösök kedvence.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Jellegzetes világítótorony Lefkada partjainál, amely a hajók navigálását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "Történelmi erődítmény maradványai Lefkada szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Ai Giannis",
+                  "text": "Gleccserkék vizéről ismert festői tengerparti szakasz Lefkadán.",
+                  "category": "recreational",
+                  "coords": [
+                        20.669874,
+                        38.831586
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "Tengerparti szakasz Lefkadán, közvetlenül a történelmi erőd szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "Múzeum Lefkadán, amely Angelos Sikelianos költő életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Kryoneri",
+                  "text": "Lefkadai tengerparti rész, amely frissítő és tiszta vizéről kedvelt a látogatók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.665734,
+                        38.832887
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "Szent György tiszteletére szentelt egykori épület romjai Lefkada szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Egy történelmi anglikán templom maradványai Lefkada városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ereipia archaias polis",
+                  "text": "Egy egykori település ókori romjai Lefkada területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Az ókori Nirikosz régészeti lelőhelye Lefkada szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis toy Antzoysi",
+                  "text": "Keresztelő Szent Jánosnak szentelt történelmi kápolna Lefkada közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.666989,
+                        38.83155
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Szent Charalambosznak szentelt templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Vallási jelentőségű görög ortodox templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "Szent Ménasznak szentelt jellegzetes templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Szent Anargüroi tiszteletére emelt kis templom Lefkadán.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alykes Alexandroy",
+                  "text": "A lefkadai Alexandros sólepárló egy egyedülálló partmenti tájakkal rendelkező tóvidék.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Gyras",
+                  "text": "A Gyra-tó egy gyönyörű vízfelület Lefkadán, amely tökéletes a békés táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "A Marina Playground egy lefkadai szabadtéri terület, ahol a családok aktív szórakozásra vihetik el gyermekeiket.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Καμίνια",
+                  "text": "Csendes strand Lefkadán, amely természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.661804,
+                        38.833817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologiko Moyseio Leykadas",
+                  "text": "Un muzeu din Lefkada care expune descoperiri de pe insulă din epoca pietrei până în epoca romană.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Kastro Agias Mayras",
+                  "text": "O fortăreață medievală impresionantă care străjuiește intrarea pe insula Lefkada.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "Un muzeu privat din Lefkada care adăpostește o colecție de gramofoane și aparate de radio istorice.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "O plajă lungă de nisip lângă orașul Lefkada, cunoscută pentru morile sale de vânt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "O plajă populară din Lefkada, ideală pentru kitesurfing datorită vânturilor favorabile.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Un far distinctiv pe coasta insulei Lefkada, care ghidează navigația vaselor.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "Rămășițele unei fortificații istorice pe insula Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Ai Giannis",
+                  "text": "O zonă de coastă pitorească din Lefkada, cunoscută pentru apa sa cristalină.",
+                  "category": "recreational",
+                  "coords": [
+                        20.669874,
+                        38.831586
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "O secțiune de plajă din Lefkada situată în imediata apropiere a fortăreței istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "Un muzeu din Lefkada dedicat vieții și operei poetului Angelos Sikelianos.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Kryoneri",
+                  "text": "O zonă de plajă din Lefkada, apreciată pentru apa mării răcoritoare și curată.",
+                  "category": "recreational",
+                  "coords": [
+                        20.665734,
+                        38.832887
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "Ruinele unui lăcaș dedicat Sfântului Gheorghe pe insula Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Rămășițele unei biserici anglicane istorice din Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ereipia archaias polis",
+                  "text": "Ruinele antice ale unei foste așezări din Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Situl arheologic al anticului Nirikos din Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis toy Antzoysi",
+                  "text": "O capelă istorică dedicată Sfântului Ioan Botezătorul, situată lângă Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.666989,
+                        38.83155
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "O biserică dedicată Sfântului Haralambie din Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "O biserică ortodoxă greacă din Lefkada, cu semnificație religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "O biserică distinctivă din Lefkada, dedicată Sfântului Mina.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "O mică biserică din Lefkada dedicată Sfinților Anargyroi.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alykes Alexandroy",
+                  "text": "Salinele Alexandros din Lefkada reprezintă o zonă de lac cu peisaje de coastă unice.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Gyras",
+                  "text": "Lacul Gyra este un corp de apă frumos din Lefkada, perfect pentru a vă bucura de peisajul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Marina Playground este un spațiu în aer liber din Lefkada, unde familiile își pot aduce copiii pentru distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Καμίνια",
+                  "text": "O plajă liniștită pe Lefkada, cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        20.661804,
+                        38.833817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Lefkada",
+                  "text": "A museum in Lefkada showcasing finds from the island from the Stone Age to the Roman era.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Agia Mavra Castle",
+                  "text": "An impressive medieval fortress guarding the entrance to the island of Lefkada.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "A private museum in Lefkada featuring a collection of historical phonographs and radios.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "A long sandy beach near Lefkada town, known for its windmills.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "A popular beach on Lefkada, ideal for kitesurfers due to the favorable winds.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "A distinctive lighthouse on the coast of Lefkada, guiding the navigation of ships.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "The remains of a historical fortification on the island of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Ai Giannis",
+                  "text": "A picturesque coastal area on Lefkada known for its crystal-clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        20.669874,
+                        38.831586
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "A beach section in Lefkada located in the immediate vicinity of the historical fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "A museum in Lefkada dedicated to the life and work of the poet Angelos Sikelianos.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Kryoneri",
+                  "text": "A beach area on Lefkada valued for its refreshing and clean sea water.",
+                  "category": "recreational",
+                  "coords": [
+                        20.665734,
+                        38.832887
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "The ruins of a site dedicated to Saint George on the island of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Remains of a historical Anglican church in Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ancient City Ruins",
+                  "text": "Ancient ruins of a former settlement in Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "The archaeological site of ancient Nirikos in Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "St John of Antzousi",
+                  "text": "A historical chapel dedicated to St John the Baptist, located near Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.666989,
+                        38.83155
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "A church dedicated to Saint Charalambos in Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "A Greek Orthodox church in Lefkada with religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "A prominent church in Lefkada dedicated to Saint Minas.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "A small church in Lefkada dedicated to the Holy Anargyroi.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alexandros salt pans",
+                  "text": "Alexandros salt pans in Lefkada is a lake area featuring unique coastal landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Gyra Lake",
+                  "text": "Gyra Lake is a beautiful water body in Lefkada, perfect for enjoying peaceful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Marina Playground is an outdoor space in Lefkada where families can bring their kids for some active fun.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Kaminia",
+                  "text": "A quiet beach on Lefkada, known for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        20.661804,
+                        38.833817
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Lefkada", hu: "Lefkáda", ro: "Lefkada", en: "Lefkada" },
@@ -10804,6 +12856,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.961434,
                         37.750048
                   ]
+            },
+            {
+                  "name": "Ροδίτσες",
+                  "text": "Ροδίτσες ist ein Küstenabschnitt in Vathy.",
+                  "category": "recreational",
+                  "coords": [
+                        26.967918,
+                        37.762615
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "Γάγγου ist ein Strand in der Ortschaft Vathy.",
+                  "category": "recreational",
+                  "coords": [
+                        26.964886,
+                        37.765268
+                  ]
             }
       ],
       "hu": [
@@ -10823,6 +12893,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.961434,
                         37.750048
+                  ]
+            },
+            {
+                  "name": "Ροδίτσες",
+                  "text": "A Ροδίτσες egy tengerparti strand Vathyban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.967918,
+                        37.762615
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "A Γάγγου egy tengerparti strand Vathyban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.964886,
+                        37.765268
                   ]
             }
       ],
@@ -10844,6 +12932,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.961434,
                         37.750048
                   ]
+            },
+            {
+                  "name": "Ροδίτσες",
+                  "text": "Ροδίτσες este o plajă situată în Vathy.",
+                  "category": "recreational",
+                  "coords": [
+                        26.967918,
+                        37.762615
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "Γάγγου este o plajă situată în Vathy.",
+                  "category": "recreational",
+                  "coords": [
+                        26.964886,
+                        37.765268
+                  ]
             }
       ],
       "en": [
@@ -10863,6 +12969,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.961434,
                         37.750048
+                  ]
+            },
+            {
+                  "name": "Ροδίτσες",
+                  "text": "Ροδίτσες is a beach located in Vathy.",
+                  "category": "recreational",
+                  "coords": [
+                        26.967918,
+                        37.762615
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "Γάγγου is a beach located in Vathy.",
+                  "category": "recreational",
+                  "coords": [
+                        26.964886,
+                        37.765268
                   ]
             }
       ]
@@ -10911,7 +13035,628 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-samos-vathy-cities-v2.webp",
   },
   {
-    id: "greece-mykonos-town-cities-v2", "sights": {"de": [{"name": "Archaeological Museum Of Mykonos", "text": "Ein Museum mit bedeutenden antiken Funden von der Insel Mykonos.", "category": "museum", "coords": [25.329408, 37.450145]}, {"name": "Naytiko Moyseio Aigaioy", "text": "Ein Museum, das die maritime Geschichte der Ägäis in Mykonos-Stadt dokumentiert.", "category": "museum", "coords": [25.328485, 37.445343]}, {"name": "Agia Anna", "text": "Ein charmanter Strand in Mykonos-Stadt mit klarem Wasser.", "category": "recreational", "coords": [25.329809, 37.448855]}, {"name": "Korfos", "text": "Ein Strand in Mykonos-Stadt, der besonders bei Windsurfern beliebt ist.", "category": "recreational", "coords": [25.321816, 37.426563]}, {"name": "Agios Stefanos", "text": "Ein schöner und familienfreundlicher Strand in Mykonos-Stadt.", "category": "recreational", "coords": [25.318358, 37.468892]}, {"name": "Agios Charalampos", "text": "Ein kleiner, ruhiger Strandabschnitt in Mykonos-Stadt.", "category": "recreational", "coords": [25.325668, 37.443587]}, {"name": "Megali Ammos", "text": "Ein beliebter Sandstrand in der Nähe des Zentrums von Mykonos-Stadt.", "category": "recreational", "coords": [25.326313, 37.438949]}, {"name": "Amphiteatre", "text": "Ein Freilichttheater in Mykonos-Stadt für kulturelle Veranstaltungen.", "category": "cultural", "coords": [25.330009, 37.444097]}, {"name": "Toyrlos", "text": "Ein Strand in Mykonos-Stadt in der Nähe des neuen Hafens.", "category": "recreational", "coords": [25.328684, 37.46064]}, {"name": "Mykinaikos Tholotos Tafos Mykonoy", "text": "Ein antikes mykenisches Kuppelgrab in Mykonos-Stadt.", "category": "historical", "coords": [25.329025, 37.434813]}, {"name": "Kato Myloi", "text": "Die ikonischen Windmühlen von Mykonos sind ein weltberühmtes Wahrzeichen der Insel.", "category": "landmark", "coords": [25.325605, 37.444599]}, {"name": "Panagia Paraportiani", "text": "Eine berühmte weiße Kirche in Mykonos-Stadt, bekannt für ihre Architektur.", "category": "landmark", "coords": [25.325716, 37.447104]}, {"name": "Melpo Axioti Statue", "text": "Eine Statue und ein Aussichtspunkt mit Blick über Mykonos-Stadt.", "category": "natural", "coords": [25.326962, 37.445197]}, {"name": "Tafos Mermelecha Agia Sotira", "text": "Ein historisches Grabmal in der Gegend von Agia Sotira in Mykonos-Stadt.", "category": "landmark", "coords": [25.326658, 37.446306]}, {"name": "Maoy", "text": "Der Maou in Mykonos Town ist ein ruhiger See für Naturfreunde.", "category": "natural", "coords": [25.409414, 37.471289]}, {"name": "Marathi", "text": "Der Marathi in Mykonos Town ist ein schöner Ort zum Entspannen.", "category": "natural", "coords": [25.357699, 37.465543]}], "hu": [{"name": "Archaeological Museum Of Mykonos", "text": "Mükonosz szigetéről származó jelentős antik leleteket bemutató múzeum.", "category": "museum", "coords": [25.329408, 37.450145]}, {"name": "Naytiko Moyseio Aigaioy", "text": "Az Égei-tenger tengerészeti történelmét dokumentáló múzeum Mükonosz városában.", "category": "museum", "coords": [25.328485, 37.445343]}, {"name": "Agia Anna", "text": "Bájos tengerpart tiszta vízzel Mükonosz városában.", "category": "recreational", "coords": [25.329809, 37.448855]}, {"name": "Korfos", "text": "Mükonosz városának strandja, amely különösen népszerű a szörfösök körében.", "category": "recreational", "coords": [25.321816, 37.426563]}, {"name": "Agios Stefanos", "text": "Szép és családbarát tengerparti strand Mükonosz városában.", "category": "recreational", "coords": [25.318358, 37.468892]}, {"name": "Agios Charalampos", "text": "Egy apró, nyugodt tengerparti szakasz Mükonosz városában.", "category": "recreational", "coords": [25.325668, 37.443587]}, {"name": "Megali Ammos", "text": "Népszerű homokos strand Mükonosz városközpontjának közelében.", "category": "recreational", "coords": [25.326313, 37.438949]}, {"name": "Amphiteatre", "text": "Szabadtéri színház Mükonosz városában kulturális események számára.", "category": "cultural", "coords": [25.330009, 37.444097]}, {"name": "Toyrlos", "text": "Mükonosz városának strandja az új kikötő közelében.", "category": "recreational", "coords": [25.328684, 37.46064]}, {"name": "Mykinaikos Tholotos Tafos Mykonoy", "text": "Egy ókori mükénéi kupolasír Mükonosz városában.", "category": "historical", "coords": [25.329025, 37.434813]}, {"name": "Kato Myloi", "text": "Mükonosz ikonikus szélmalmai a sziget világhírű jelképei.", "category": "landmark", "coords": [25.325605, 37.444599]}, {"name": "Panagia Paraportiani", "text": "Mükonosz híres fehér temploma, amely különleges építészetéről ismert.", "category": "landmark", "coords": [25.325716, 37.447104]}, {"name": "Melpo Axioti Statue", "text": "Szobor és kilátóhely, ahonnan pazar kilátás nyílik Mükonosz városára.", "category": "natural", "coords": [25.326962, 37.445197]}, {"name": "Tafos Mermelecha Agia Sotira", "text": "Történelmi síremlék Mükonosz városának Agia Sotira negyedében.", "category": "landmark", "coords": [25.326658, 37.446306]}, {"name": "Maoy", "text": "A Maou Mykonos Townban csendes tó a természetbarátoknak.", "category": "natural", "coords": [25.409414, 37.471289]}, {"name": "Marathi", "text": "A Marathi Mykonos Townban kellemes hely a pihenéshez.", "category": "natural", "coords": [25.357699, 37.465543]}], "ro": [{"name": "Archaeological Museum Of Mykonos", "text": "Un muzeu care găzduiește descoperiri antice importante de pe insula Mykonos.", "category": "museum", "coords": [25.329408, 37.450145]}, {"name": "Naytiko Moyseio Aigaioy", "text": "Un muzeu care documentează istoria maritimă a Mării Egee în orașul Mykonos.", "category": "museum", "coords": [25.328485, 37.445343]}, {"name": "Agia Anna", "text": "O plajă fermecătoare cu ape limpezi în orașul Mykonos.", "category": "recreational", "coords": [25.329809, 37.448855]}, {"name": "Korfos", "text": "O plajă din orașul Mykonos, populară în special pentru windsurfing.", "category": "recreational", "coords": [25.321816, 37.426563]}, {"name": "Agios Stefanos", "text": "O plajă frumoasă și potrivită pentru familii în orașul Mykonos.", "category": "recreational", "coords": [25.318358, 37.468892]}, {"name": "Agios Charalampos", "text": "O mică secțiune de plajă liniștită în orașul Mykonos.", "category": "recreational", "coords": [25.325668, 37.443587]}, {"name": "Megali Ammos", "text": "O plajă cu nisip populară situată aproape de centrul orașului Mykonos.", "category": "recreational", "coords": [25.326313, 37.438949]}, {"name": "Amphiteatre", "text": "Un teatru în aer liber din orașul Mykonos pentru evenimente culturale.", "category": "cultural", "coords": [25.330009, 37.444097]}, {"name": "Toyrlos", "text": "O plajă din orașul Mykonos situată în apropierea noului port.", "category": "recreational", "coords": [25.328684, 37.46064]}, {"name": "Mykinaikos Tholotos Tafos Mykonoy", "text": "Un mormânt antic micenian de tip tholos în orașul Mykonos.", "category": "historical", "coords": [25.329025, 37.434813]}, {"name": "Kato Myloi", "text": "Morile de vânt emblematice din Mykonos sunt un simbol faimos al insulei.", "category": "landmark", "coords": [25.325605, 37.444599]}, {"name": "Panagia Paraportiani", "text": "O faimoasă biserică albă din orașul Mykonos, cunoscută pentru arhitectura sa.", "category": "landmark", "coords": [25.325716, 37.447104]}, {"name": "Melpo Axioti Statue", "text": "O statuie și un punct de belvedere cu vedere peste orașul Mykonos.", "category": "natural", "coords": [25.326962, 37.445197]}, {"name": "Tafos Mermelecha Agia Sotira", "text": "Un mormânt istoric în zona Agia Sotira din orașul Mykonos.", "category": "landmark", "coords": [25.326658, 37.446306]}, {"name": "Maoy", "text": "Maou din Mykonos Town este un lac liniștit pentru iubitorii de natură.", "category": "natural", "coords": [25.409414, 37.471289]}, {"name": "Marathi", "text": "Marathi din Mykonos Town este un loc plăcut pentru relaxare.", "category": "natural", "coords": [25.357699, 37.465543]}], "en": [{"name": "Archaeological Museum Of Mykonos", "text": "A museum housing significant ancient finds from the island of Mykonos.", "category": "museum", "coords": [25.329408, 37.450145]}, {"name": "Aegean Maritime Museum", "text": "A museum documenting the maritime history of the Aegean in Mykonos Town.", "category": "museum", "coords": [25.328485, 37.445343]}, {"name": "Agia Anna", "text": "A charming beach with clear waters in Mykonos Town.", "category": "recreational", "coords": [25.329809, 37.448855]}, {"name": "Korfos", "text": "A beach in Mykonos Town that is particularly popular with windsurfers.", "category": "recreational", "coords": [25.321816, 37.426563]}, {"name": "Agios Stefanos", "text": "A beautiful and family-friendly beach in Mykonos Town.", "category": "recreational", "coords": [25.318358, 37.468892]}, {"name": "Agios Charalabos", "text": "A small and quiet beach section in Mykonos Town.", "category": "recreational", "coords": [25.325668, 37.443587]}, {"name": "Megali Ammos", "text": "A popular sandy beach located close to the center of Mykonos Town.", "category": "recreational", "coords": [25.326313, 37.438949]}, {"name": "Amphiteatre", "text": "An open-air theatre in Mykonos Town for cultural events.", "category": "cultural", "coords": [25.330009, 37.444097]}, {"name": "Tourlos", "text": "A beach in Mykonos Town located near the new port.", "category": "recreational", "coords": [25.328684, 37.46064]}, {"name": "Mykinaikos Tholotos Tafos Mykonoy", "text": "An ancient Mycenaean tholos tomb in Mykonos Town.", "category": "historical", "coords": [25.329025, 37.434813]}, {"name": "Windmills", "text": "The iconic windmills of Mykonos are a world-famous landmark of the island.", "category": "landmark", "coords": [25.325605, 37.444599]}, {"name": "Panagia Paraportiani", "text": "A famous white church in Mykonos Town, known for its unique architecture.", "category": "landmark", "coords": [25.325716, 37.447104]}, {"name": "Melpo Axioti Statue", "text": "A statue and viewpoint offering views over Mykonos Town.", "category": "natural", "coords": [25.326962, 37.445197]}, {"name": "Tafos Mermelecha Agia Sotira", "text": "A historic tomb in the Agia Sotira area of Mykonos Town.", "category": "landmark", "coords": [25.326658, 37.446306]}, {"name": "Maou", "text": "Maou in Mykonos Town is a quiet lake for nature lovers.", "category": "natural", "coords": [25.409414, 37.471289]}, {"name": "Marathi", "text": "Marathi in Mykonos Town is a nice place for relaxing.", "category": "natural", "coords": [25.357699, 37.465543]}]},
+    id: "greece-mykonos-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archaeological Museum Of Mykonos",
+                  "text": "Ein Museum mit bedeutenden antiken Funden von der Insel Mykonos.",
+                  "category": "museum",
+                  "coords": [
+                        25.329408,
+                        37.450145
+                  ]
+            },
+            {
+                  "name": "Naytiko Moyseio Aigaioy",
+                  "text": "Ein Museum, das die maritime Geschichte der Ägäis in Mykonos-Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.328485,
+                        37.445343
+                  ]
+            },
+            {
+                  "name": "Agia Anna",
+                  "text": "Ein charmanter Strand in Mykonos-Stadt mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        25.329809,
+                        37.448855
+                  ]
+            },
+            {
+                  "name": "Korfos",
+                  "text": "Ein Strand in Mykonos-Stadt, der besonders bei Windsurfern beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.321816,
+                        37.426563
+                  ]
+            },
+            {
+                  "name": "Agios Stefanos",
+                  "text": "Ein schöner und familienfreundlicher Strand in Mykonos-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.318358,
+                        37.468892
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Ein kleiner, ruhiger Strandabschnitt in Mykonos-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.325668,
+                        37.443587
+                  ]
+            },
+            {
+                  "name": "Megali Ammos",
+                  "text": "Ein beliebter Sandstrand in der Nähe des Zentrums von Mykonos-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.326313,
+                        37.438949
+                  ]
+            },
+            {
+                  "name": "Amphiteatre",
+                  "text": "Ein Freilichttheater in Mykonos-Stadt für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.330009,
+                        37.444097
+                  ]
+            },
+            {
+                  "name": "Toyrlos",
+                  "text": "Ein Strand in Mykonos-Stadt in der Nähe des neuen Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        25.328684,
+                        37.46064
+                  ]
+            },
+            {
+                  "name": "Mykinaikos Tholotos Tafos Mykonoy",
+                  "text": "Ein antikes mykenisches Kuppelgrab in Mykonos-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        25.329025,
+                        37.434813
+                  ]
+            },
+            {
+                  "name": "Kato Myloi",
+                  "text": "Die ikonischen Windmühlen von Mykonos sind ein weltberühmtes Wahrzeichen der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325605,
+                        37.444599
+                  ]
+            },
+            {
+                  "name": "Panagia Paraportiani",
+                  "text": "Eine berühmte weiße Kirche in Mykonos-Stadt, bekannt für ihre Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325716,
+                        37.447104
+                  ]
+            },
+            {
+                  "name": "Melpo Axioti Statue",
+                  "text": "Eine Statue und ein Aussichtspunkt mit Blick über Mykonos-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        25.326962,
+                        37.445197
+                  ]
+            },
+            {
+                  "name": "Tafos Mermelecha Agia Sotira",
+                  "text": "Ein historisches Grabmal in der Gegend von Agia Sotira in Mykonos-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.326658,
+                        37.446306
+                  ]
+            },
+            {
+                  "name": "Maoy",
+                  "text": "Der Maou in Mykonos Town ist ein ruhiger See für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "Der Marathi in Mykonos Town ist ein schöner Ort zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
+                  ]
+            },
+            {
+                  "name": "Κάπαρη",
+                  "text": "Kapari ist ein ruhiger, abgelegener Strand in der Nähe von Mykonos-Stadt mit Blick auf Delos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304646,
+                        37.425514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaeological Museum Of Mykonos",
+                  "text": "Mükonosz szigetéről származó jelentős antik leleteket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.329408,
+                        37.450145
+                  ]
+            },
+            {
+                  "name": "Naytiko Moyseio Aigaioy",
+                  "text": "Az Égei-tenger tengerészeti történelmét dokumentáló múzeum Mükonosz városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.328485,
+                        37.445343
+                  ]
+            },
+            {
+                  "name": "Agia Anna",
+                  "text": "Bájos tengerpart tiszta vízzel Mükonosz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.329809,
+                        37.448855
+                  ]
+            },
+            {
+                  "name": "Korfos",
+                  "text": "Mükonosz városának strandja, amely különösen népszerű a szörfösök körében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.321816,
+                        37.426563
+                  ]
+            },
+            {
+                  "name": "Agios Stefanos",
+                  "text": "Szép és családbarát tengerparti strand Mükonosz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.318358,
+                        37.468892
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Egy apró, nyugodt tengerparti szakasz Mükonosz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.325668,
+                        37.443587
+                  ]
+            },
+            {
+                  "name": "Megali Ammos",
+                  "text": "Népszerű homokos strand Mükonosz városközpontjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.326313,
+                        37.438949
+                  ]
+            },
+            {
+                  "name": "Amphiteatre",
+                  "text": "Szabadtéri színház Mükonosz városában kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        25.330009,
+                        37.444097
+                  ]
+            },
+            {
+                  "name": "Toyrlos",
+                  "text": "Mükonosz városának strandja az új kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.328684,
+                        37.46064
+                  ]
+            },
+            {
+                  "name": "Mykinaikos Tholotos Tafos Mykonoy",
+                  "text": "Egy ókori mükénéi kupolasír Mükonosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.329025,
+                        37.434813
+                  ]
+            },
+            {
+                  "name": "Kato Myloi",
+                  "text": "Mükonosz ikonikus szélmalmai a sziget világhírű jelképei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325605,
+                        37.444599
+                  ]
+            },
+            {
+                  "name": "Panagia Paraportiani",
+                  "text": "Mükonosz híres fehér temploma, amely különleges építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325716,
+                        37.447104
+                  ]
+            },
+            {
+                  "name": "Melpo Axioti Statue",
+                  "text": "Szobor és kilátóhely, ahonnan pazar kilátás nyílik Mükonosz városára.",
+                  "category": "natural",
+                  "coords": [
+                        25.326962,
+                        37.445197
+                  ]
+            },
+            {
+                  "name": "Tafos Mermelecha Agia Sotira",
+                  "text": "Történelmi síremlék Mükonosz városának Agia Sotira negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.326658,
+                        37.446306
+                  ]
+            },
+            {
+                  "name": "Maoy",
+                  "text": "A Maou Mykonos Townban csendes tó a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "A Marathi Mykonos Townban kellemes hely a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
+                  ]
+            },
+            {
+                  "name": "Κάπαρη",
+                  "text": "Kapari egy nyugodt, eldugott strand Mykonos városa közelében, kilátással Déloszra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304646,
+                        37.425514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaeological Museum Of Mykonos",
+                  "text": "Un muzeu care găzduiește descoperiri antice importante de pe insula Mykonos.",
+                  "category": "museum",
+                  "coords": [
+                        25.329408,
+                        37.450145
+                  ]
+            },
+            {
+                  "name": "Naytiko Moyseio Aigaioy",
+                  "text": "Un muzeu care documentează istoria maritimă a Mării Egee în orașul Mykonos.",
+                  "category": "museum",
+                  "coords": [
+                        25.328485,
+                        37.445343
+                  ]
+            },
+            {
+                  "name": "Agia Anna",
+                  "text": "O plajă fermecătoare cu ape limpezi în orașul Mykonos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.329809,
+                        37.448855
+                  ]
+            },
+            {
+                  "name": "Korfos",
+                  "text": "O plajă din orașul Mykonos, populară în special pentru windsurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        25.321816,
+                        37.426563
+                  ]
+            },
+            {
+                  "name": "Agios Stefanos",
+                  "text": "O plajă frumoasă și potrivită pentru familii în orașul Mykonos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.318358,
+                        37.468892
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "O mică secțiune de plajă liniștită în orașul Mykonos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.325668,
+                        37.443587
+                  ]
+            },
+            {
+                  "name": "Megali Ammos",
+                  "text": "O plajă cu nisip populară situată aproape de centrul orașului Mykonos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.326313,
+                        37.438949
+                  ]
+            },
+            {
+                  "name": "Amphiteatre",
+                  "text": "Un teatru în aer liber din orașul Mykonos pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        25.330009,
+                        37.444097
+                  ]
+            },
+            {
+                  "name": "Toyrlos",
+                  "text": "O plajă din orașul Mykonos situată în apropierea noului port.",
+                  "category": "recreational",
+                  "coords": [
+                        25.328684,
+                        37.46064
+                  ]
+            },
+            {
+                  "name": "Mykinaikos Tholotos Tafos Mykonoy",
+                  "text": "Un mormânt antic micenian de tip tholos în orașul Mykonos.",
+                  "category": "historical",
+                  "coords": [
+                        25.329025,
+                        37.434813
+                  ]
+            },
+            {
+                  "name": "Kato Myloi",
+                  "text": "Morile de vânt emblematice din Mykonos sunt un simbol faimos al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325605,
+                        37.444599
+                  ]
+            },
+            {
+                  "name": "Panagia Paraportiani",
+                  "text": "O faimoasă biserică albă din orașul Mykonos, cunoscută pentru arhitectura sa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325716,
+                        37.447104
+                  ]
+            },
+            {
+                  "name": "Melpo Axioti Statue",
+                  "text": "O statuie și un punct de belvedere cu vedere peste orașul Mykonos.",
+                  "category": "natural",
+                  "coords": [
+                        25.326962,
+                        37.445197
+                  ]
+            },
+            {
+                  "name": "Tafos Mermelecha Agia Sotira",
+                  "text": "Un mormânt istoric în zona Agia Sotira din orașul Mykonos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.326658,
+                        37.446306
+                  ]
+            },
+            {
+                  "name": "Maoy",
+                  "text": "Maou din Mykonos Town este un lac liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "Marathi din Mykonos Town este un loc plăcut pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
+                  ]
+            },
+            {
+                  "name": "Κάπαρη",
+                  "text": "Kapari este o plajă liniștită și retrasă lângă orașul Mykonos, cu vedere spre Delos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304646,
+                        37.425514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum Of Mykonos",
+                  "text": "A museum housing significant ancient finds from the island of Mykonos.",
+                  "category": "museum",
+                  "coords": [
+                        25.329408,
+                        37.450145
+                  ]
+            },
+            {
+                  "name": "Aegean Maritime Museum",
+                  "text": "A museum documenting the maritime history of the Aegean in Mykonos Town.",
+                  "category": "museum",
+                  "coords": [
+                        25.328485,
+                        37.445343
+                  ]
+            },
+            {
+                  "name": "Agia Anna",
+                  "text": "A charming beach with clear waters in Mykonos Town.",
+                  "category": "recreational",
+                  "coords": [
+                        25.329809,
+                        37.448855
+                  ]
+            },
+            {
+                  "name": "Korfos",
+                  "text": "A beach in Mykonos Town that is particularly popular with windsurfers.",
+                  "category": "recreational",
+                  "coords": [
+                        25.321816,
+                        37.426563
+                  ]
+            },
+            {
+                  "name": "Agios Stefanos",
+                  "text": "A beautiful and family-friendly beach in Mykonos Town.",
+                  "category": "recreational",
+                  "coords": [
+                        25.318358,
+                        37.468892
+                  ]
+            },
+            {
+                  "name": "Agios Charalabos",
+                  "text": "A small and quiet beach section in Mykonos Town.",
+                  "category": "recreational",
+                  "coords": [
+                        25.325668,
+                        37.443587
+                  ]
+            },
+            {
+                  "name": "Megali Ammos",
+                  "text": "A popular sandy beach located close to the center of Mykonos Town.",
+                  "category": "recreational",
+                  "coords": [
+                        25.326313,
+                        37.438949
+                  ]
+            },
+            {
+                  "name": "Amphiteatre",
+                  "text": "An open-air theatre in Mykonos Town for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        25.330009,
+                        37.444097
+                  ]
+            },
+            {
+                  "name": "Tourlos",
+                  "text": "A beach in Mykonos Town located near the new port.",
+                  "category": "recreational",
+                  "coords": [
+                        25.328684,
+                        37.46064
+                  ]
+            },
+            {
+                  "name": "Mykinaikos Tholotos Tafos Mykonoy",
+                  "text": "An ancient Mycenaean tholos tomb in Mykonos Town.",
+                  "category": "historical",
+                  "coords": [
+                        25.329025,
+                        37.434813
+                  ]
+            },
+            {
+                  "name": "Windmills",
+                  "text": "The iconic windmills of Mykonos are a world-famous landmark of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325605,
+                        37.444599
+                  ]
+            },
+            {
+                  "name": "Panagia Paraportiani",
+                  "text": "A famous white church in Mykonos Town, known for its unique architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        25.325716,
+                        37.447104
+                  ]
+            },
+            {
+                  "name": "Melpo Axioti Statue",
+                  "text": "A statue and viewpoint offering views over Mykonos Town.",
+                  "category": "natural",
+                  "coords": [
+                        25.326962,
+                        37.445197
+                  ]
+            },
+            {
+                  "name": "Tafos Mermelecha Agia Sotira",
+                  "text": "A historic tomb in the Agia Sotira area of Mykonos Town.",
+                  "category": "landmark",
+                  "coords": [
+                        25.326658,
+                        37.446306
+                  ]
+            },
+            {
+                  "name": "Maou",
+                  "text": "Maou in Mykonos Town is a quiet lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "Marathi in Mykonos Town is a nice place for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
+                  ]
+            },
+            {
+                  "name": "Kapari",
+                  "text": "Kapari is a quiet, secluded beach near Mykonos Town offering views toward Delos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304646,
+                        37.425514
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Mykonos Stadt", hu: "Mükonosz város", ro: "Mykonos Town", en: "Mykonos Town" },
@@ -10956,7 +13701,268 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-mykonos-town-cities-v2.webp",
   },
   {
-    id: "greece-skopelos-town-cities-v2", "sights": {"de": [{"name": "Kastro Skopeloy", "text": "Die Ruinen einer venezianischen Festung, die an der Stelle einer antiken Akropolis in Skopelos errichtet wurde.", "category": "castle", "coords": [23.727314, 39.12464]}, {"name": "Oikia Vakratsa", "text": "Ein traditionelles Herrenhaus in Skopelos-Stadt, das als Heimat- und Volkskundemuseum dient.", "category": "museum", "coords": [23.72783, 39.122545]}, {"name": "Glyfoneri", "text": "Ein beliebter Strand in der Nähe von Skopelos-Stadt mit smaragdgrünem Wasser und üppiger Umgebung.", "category": "recreational", "coords": [23.722348, 39.130787]}, {"name": "Plaka", "text": "Ein ruhiger und naturbelassener Strand auf der Insel Skopelos, der über einen malerischen Weg erreichbar ist.", "category": "recreational", "coords": [23.72958, 39.124817]}, {"name": "Monastiri Egaggelismoy", "text": "Ein historisches Kloster auf der Insel Skopelos, das einen Panoramablick und religiöse Kunst bietet.", "category": "religious", "coords": [23.750416, 39.122302]}, {"name": "I.N. Episkopis tis Skopeloy", "text": "Eine befestigte Kirche aus dem 16. Jahrhundert und ehemaliger Sitz des Bischofs von Skopelos.", "category": "religious", "coords": [23.72604, 39.115926]}], "hu": [{"name": "Kastro Skopeloy", "text": "Egy velencei erőd romjai, amely egy ókori akropolisz helyén épült Szkopeloszban.", "category": "castle", "coords": [23.727314, 39.12464]}, {"name": "Oikia Vakratsa", "text": "Hagyományos udvarház Szkopelosz városában, amely helytörténeti és néprajzi múzeumként működik.", "category": "museum", "coords": [23.72783, 39.122545]}, {"name": "Glyfoneri", "text": "Népszerű strand Szkopelosz városának közelében, smaragdzöld vízzel és buja környezettel.", "category": "recreational", "coords": [23.722348, 39.130787]}, {"name": "Plaka", "text": "Csendes és természetes strand Szkopelosz szigetén, amely egy festői ösvényen érhető el.", "category": "recreational", "coords": [23.72958, 39.124817]}, {"name": "Monastiri Egaggelismoy", "text": "Történelmi kolostor Szkopelosz szigetén, amely panorámás kilátást és vallási művészetet kínál.", "category": "religious", "coords": [23.750416, 39.122302]}, {"name": "I.N. Episkopis tis Skopeloy", "text": "Egy 16. századi megerődített templom, Szkopelosz püspökének egykori székhelye.", "category": "religious", "coords": [23.72604, 39.115926]}], "ro": [{"name": "Kastro Skopeloy", "text": "Ruinele unei cetăți venețiene construite pe locul unei foste acropole antice din Skopelos.", "category": "castle", "coords": [23.727314, 39.12464]}, {"name": "Oikia Vakratsa", "text": "Un conac tradițional din orașul Skopelos care funcționează ca muzeu local de istorie și folclor.", "category": "museum", "coords": [23.72783, 39.122545]}, {"name": "Glyfoneri", "text": "O plajă populară lângă orașul Skopelos, cu ape de smarald și împrejurimi luxuriante.", "category": "recreational", "coords": [23.722348, 39.130787]}, {"name": "Plaka", "text": "O plajă liniștită și naturală de pe insula Skopelos, accesibilă printr-o potecă pitorească.", "category": "recreational", "coords": [23.72958, 39.124817]}, {"name": "Monastiri Egaggelismoy", "text": "O mănăstire istorică de pe insula Skopelos, oferind vederi panoramice și artă religioasă.", "category": "religious", "coords": [23.750416, 39.122302]}, {"name": "I.N. Episkopis tis Skopeloy", "text": "O biserică fortificată din secolul al XVI-lea și fostul sediu al Episcopului de Skopelos.", "category": "religious", "coords": [23.72604, 39.115926]}], "en": [{"name": "Castle of Skopelos", "text": "The ruins of a Venetian fortress built on the site of an ancient acropolis in Skopelos.", "category": "castle", "coords": [23.727314, 39.12464]}, {"name": "Oikia Vakratsa", "text": "A traditional mansion in Skopelos Town functioning as a local history and folklore museum.", "category": "museum", "coords": [23.72783, 39.122545]}, {"name": "Glyfoneri", "text": "A popular beach near Skopelos Town with emerald waters and lush surroundings.", "category": "recreational", "coords": [23.722348, 39.130787]}, {"name": "Plaka", "text": "A quiet and natural beach on Skopelos island, accessible via a scenic trail.", "category": "recreational", "coords": [23.72958, 39.124817]}, {"name": "Monastary Evagelismos", "text": "A historic monastery on Skopelos island offering panoramic views and religious art.", "category": "religious", "coords": [23.750416, 39.122302]}, {"name": "I.N. Episkopis tis Skopeloy", "text": "A fortified 16th-century church and former seat of the Bishop of Skopelos.", "category": "religious", "coords": [23.72604, 39.115926]}]},
+    id: "greece-skopelos-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kastro Skopeloy",
+                  "text": "Die Ruinen einer venezianischen Festung, die an der Stelle einer antiken Akropolis in Skopelos errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        23.727314,
+                        39.12464
+                  ]
+            },
+            {
+                  "name": "Oikia Vakratsa",
+                  "text": "Ein traditionelles Herrenhaus in Skopelos-Stadt, das als Heimat- und Volkskundemuseum dient.",
+                  "category": "museum",
+                  "coords": [
+                        23.72783,
+                        39.122545
+                  ]
+            },
+            {
+                  "name": "Glyfoneri",
+                  "text": "Ein beliebter Strand in der Nähe von Skopelos-Stadt mit smaragdgrünem Wasser und üppiger Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        23.722348,
+                        39.130787
+                  ]
+            },
+            {
+                  "name": "Plaka",
+                  "text": "Ein ruhiger und naturbelassener Strand auf der Insel Skopelos, der über einen malerischen Weg erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.72958,
+                        39.124817
+                  ]
+            },
+            {
+                  "name": "Monastiri Egaggelismoy",
+                  "text": "Ein historisches Kloster auf der Insel Skopelos, das einen Panoramablick und religiöse Kunst bietet.",
+                  "category": "religious",
+                  "coords": [
+                        23.750416,
+                        39.122302
+                  ]
+            },
+            {
+                  "name": "I.N. Episkopis tis Skopeloy",
+                  "text": "Eine befestigte Kirche aus dem 16. Jahrhundert und ehemaliger Sitz des Bischofs von Skopelos.",
+                  "category": "religious",
+                  "coords": [
+                        23.72604,
+                        39.115926
+                  ]
+            },
+            {
+                  "name": "Limnonari",
+                  "text": "Limnonari ist ein geschützter Strand in der Nähe von Skopelos-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        23.698213,
+                        39.089437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kastro Skopeloy",
+                  "text": "Egy velencei erőd romjai, amely egy ókori akropolisz helyén épült Szkopeloszban.",
+                  "category": "castle",
+                  "coords": [
+                        23.727314,
+                        39.12464
+                  ]
+            },
+            {
+                  "name": "Oikia Vakratsa",
+                  "text": "Hagyományos udvarház Szkopelosz városában, amely helytörténeti és néprajzi múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        23.72783,
+                        39.122545
+                  ]
+            },
+            {
+                  "name": "Glyfoneri",
+                  "text": "Népszerű strand Szkopelosz városának közelében, smaragdzöld vízzel és buja környezettel.",
+                  "category": "recreational",
+                  "coords": [
+                        23.722348,
+                        39.130787
+                  ]
+            },
+            {
+                  "name": "Plaka",
+                  "text": "Csendes és természetes strand Szkopelosz szigetén, amely egy festői ösvényen érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        23.72958,
+                        39.124817
+                  ]
+            },
+            {
+                  "name": "Monastiri Egaggelismoy",
+                  "text": "Történelmi kolostor Szkopelosz szigetén, amely panorámás kilátást és vallási művészetet kínál.",
+                  "category": "religious",
+                  "coords": [
+                        23.750416,
+                        39.122302
+                  ]
+            },
+            {
+                  "name": "I.N. Episkopis tis Skopeloy",
+                  "text": "Egy 16. századi megerődített templom, Szkopelosz püspökének egykori székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        23.72604,
+                        39.115926
+                  ]
+            },
+            {
+                  "name": "Limnonari",
+                  "text": "A Limnonari egy tengerparti strand Skopelos városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.698213,
+                        39.089437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kastro Skopeloy",
+                  "text": "Ruinele unei cetăți venețiene construite pe locul unei foste acropole antice din Skopelos.",
+                  "category": "castle",
+                  "coords": [
+                        23.727314,
+                        39.12464
+                  ]
+            },
+            {
+                  "name": "Oikia Vakratsa",
+                  "text": "Un conac tradițional din orașul Skopelos care funcționează ca muzeu local de istorie și folclor.",
+                  "category": "museum",
+                  "coords": [
+                        23.72783,
+                        39.122545
+                  ]
+            },
+            {
+                  "name": "Glyfoneri",
+                  "text": "O plajă populară lângă orașul Skopelos, cu ape de smarald și împrejurimi luxuriante.",
+                  "category": "recreational",
+                  "coords": [
+                        23.722348,
+                        39.130787
+                  ]
+            },
+            {
+                  "name": "Plaka",
+                  "text": "O plajă liniștită și naturală de pe insula Skopelos, accesibilă printr-o potecă pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        23.72958,
+                        39.124817
+                  ]
+            },
+            {
+                  "name": "Monastiri Egaggelismoy",
+                  "text": "O mănăstire istorică de pe insula Skopelos, oferind vederi panoramice și artă religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        23.750416,
+                        39.122302
+                  ]
+            },
+            {
+                  "name": "I.N. Episkopis tis Skopeloy",
+                  "text": "O biserică fortificată din secolul al XVI-lea și fostul sediu al Episcopului de Skopelos.",
+                  "category": "religious",
+                  "coords": [
+                        23.72604,
+                        39.115926
+                  ]
+            },
+            {
+                  "name": "Limnonari",
+                  "text": "Limnonari este o plajă situată lângă orașul Skopelos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.698213,
+                        39.089437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Skopelos",
+                  "text": "The ruins of a Venetian fortress built on the site of an ancient acropolis in Skopelos.",
+                  "category": "castle",
+                  "coords": [
+                        23.727314,
+                        39.12464
+                  ]
+            },
+            {
+                  "name": "Oikia Vakratsa",
+                  "text": "A traditional mansion in Skopelos Town functioning as a local history and folklore museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.72783,
+                        39.122545
+                  ]
+            },
+            {
+                  "name": "Glyfoneri",
+                  "text": "A popular beach near Skopelos Town with emerald waters and lush surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        23.722348,
+                        39.130787
+                  ]
+            },
+            {
+                  "name": "Plaka",
+                  "text": "A quiet and natural beach on Skopelos island, accessible via a scenic trail.",
+                  "category": "recreational",
+                  "coords": [
+                        23.72958,
+                        39.124817
+                  ]
+            },
+            {
+                  "name": "Monastary Evagelismos",
+                  "text": "A historic monastery on Skopelos island offering panoramic views and religious art.",
+                  "category": "religious",
+                  "coords": [
+                        23.750416,
+                        39.122302
+                  ]
+            },
+            {
+                  "name": "I.N. Episkopis tis Skopeloy",
+                  "text": "A fortified 16th-century church and former seat of the Bishop of Skopelos.",
+                  "category": "religious",
+                  "coords": [
+                        23.72604,
+                        39.115926
+                  ]
+            },
+            {
+                  "name": "Limnonari",
+                  "text": "Limnonari is a beach located near Skopelos Town.",
+                  "category": "recreational",
+                  "coords": [
+                        23.698213,
+                        39.089437
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Skopelos Stadt", hu: "Szopelosz város", ro: "Skopelos Town", en: "Skopelos Town" },
@@ -11001,7 +14007,520 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-skopelos-town-cities-v2.webp",
   },
   {
-    id: "greece-tinos-town-cities-v2", "sights": {"de": [{"name": "Archaiologiko Moyseio Tinoy", "text": "Das Museum beherbergt bedeutende Funde von Ausgrabungen auf der Insel Tinos.", "category": "museum", "coords": [25.161989, 37.540451]}, {"name": "Vryokastro", "text": "Eine antike Siedlung und archäologische Stätte auf der Insel Tinos.", "category": "historical", "coords": [25.188996, 37.526693]}, {"name": "Naos Poseidonos kai Amfitritis", "text": "Die Überreste eines Heiligtums, das Poseidon und Amphitrite gewidmet war.", "category": "historical", "coords": [25.142901, 37.551744]}, {"name": "Paralia Stayros", "text": "Ein beliebter Strandabschnitt mit klarem Wasser auf Tinos.", "category": "recreational", "coords": [25.149099, 37.545139]}, {"name": "Agkali", "text": "Ein ruhiger Strand in der Umgebung von Tinos Stadt.", "category": "recreational", "coords": [25.166114, 37.53233]}, {"name": "Agios Fokas", "text": "Ein weitläufiger Sandstrand in der Nähe der Hauptstadt von Tinos.", "category": "recreational", "coords": [25.179638, 37.529797]}, {"name": "Kaktos", "text": "Eine traditionelle Windmühle, die als lokales Wahrzeichen in Tinos Stadt dient.", "category": "landmark", "coords": [25.16747, 37.54331]}, {"name": "Sun Dial", "text": "Eine historische Sonnenuhr im öffentlichen Raum von Tinos Stadt.", "category": "historical", "coords": [25.165646, 37.536685]}, {"name": "Plateia Pantanassis (Exedra)", "text": "Ein zentraler Platz und Aussichtspunkt in Tinos Stadt.", "category": "historical", "coords": [25.161355, 37.537813]}, {"name": "Ieros Naos Eyaggelistrias", "text": "Eine der wichtigsten griechisch-orthodoxen Wallfahrtskirchen, berühmt für ihre Marienikone.", "category": "religious", "coords": [25.162715, 37.542398]}, {"name": "Paidiki Chara Myloy", "text": "Παιδική Χαρά Μύλου ist ein charmanter Spielplatz in Tinos Stadt, der Kindern einen ansprechenden Ort zum Spielen und Interagieren bietet.", "category": "family", "coords": [25.158516, 37.540862]}, {"name": "Paidiki Chara Palladas", "text": "Παιδική Χαρά Παλλάδας ist ein beliebter Spielplatz in Tinos Stadt, ideal für Familien, die mit ihren Kleinen eine Pause einlegen möchten.", "category": "family", "coords": [25.159767, 37.539064]}], "hu": [{"name": "Archaiologiko Moyseio Tinoy", "text": "A múzeum a Tinosz szigetén végzett ásatások jelentős leleteit őrzi.", "category": "museum", "coords": [25.161989, 37.540451]}, {"name": "Vryokastro", "text": "Ókori település és régészeti lelőhely Tinosz szigetén.", "category": "historical", "coords": [25.188996, 37.526693]}, {"name": "Naos Poseidonos kai Amfitritis", "text": "Poszeidónnak és Amfitritének szentelt ókori szentély maradványai.", "category": "historical", "coords": [25.142901, 37.551744]}, {"name": "Paralia Stayros", "text": "Népszerű tengerparti szakasz tiszta vízzel Tinosz szigetén.", "category": "recreational", "coords": [25.149099, 37.545139]}, {"name": "Agkali", "text": "Nyugodt tengerpart Tinosz városának környékén.", "category": "recreational", "coords": [25.166114, 37.53233]}, {"name": "Agios Fokas", "text": "Tágas homokos tengerpart Tinosz fővárosának közelében.", "category": "recreational", "coords": [25.179638, 37.529797]}, {"name": "Kaktos", "text": "Hagyományos szélmalom, amely Tinosz városának egyik helyi jelképe.", "category": "landmark", "coords": [25.16747, 37.54331]}, {"name": "Sun Dial", "text": "Történelmi napóra Tinosz városának közterületén.", "category": "historical", "coords": [25.165646, 37.536685]}, {"name": "Plateia Pantanassis (Exedra)", "text": "Központi tér és kilátóhely Tinosz városában.", "category": "historical", "coords": [25.161355, 37.537813]}, {"name": "Ieros Naos Eyaggelistrias", "text": "Az egyik legfontosabb görög ortodox zarándokhely, amely a csodatévő Mária-ikonjáról híres.", "category": "religious", "coords": [25.162715, 37.542398]}, {"name": "Paidiki Chara Myloy", "text": "A Παιδική Χαρά Μύλου egy hangulatos játszótér Tinos Townban, amely vonzó teret kínál a gyerekek interakciójához és játékához.", "category": "family", "coords": [25.158516, 37.540862]}, {"name": "Paidiki Chara Palladas", "text": "A Παιδική Χαρά Παλλάδας egy népszerű játszótér Tinos Townban, amely ideális a kisgyermekes családok pihenésére.", "category": "family", "coords": [25.159767, 37.539064]}], "ro": [{"name": "Archaiologiko Moyseio Tinoy", "text": "Muzeul adăpostește descoperiri importante din săpăturile efectuate pe insula Tinos.", "category": "museum", "coords": [25.161989, 37.540451]}, {"name": "Vryokastro", "text": "O așezare antică și sit arheologic pe insula Tinos.", "category": "historical", "coords": [25.188996, 37.526693]}, {"name": "Naos Poseidonos kai Amfitritis", "text": "Rămășițele unui sanctuar antic dedicat lui Poseidon și Amfitritei.", "category": "historical", "coords": [25.142901, 37.551744]}, {"name": "Paralia Stayros", "text": "O zonă de plajă populară, cu ape limpezi, pe insula Tinos.", "category": "recreational", "coords": [25.149099, 37.545139]}, {"name": "Agkali", "text": "O plajă liniștită în împrejurimile orașului Tinos.", "category": "recreational", "coords": [25.166114, 37.53233]}, {"name": "Agios Fokas", "text": "O plajă întinsă cu nisip situată lângă capitala insulei Tinos.", "category": "recreational", "coords": [25.179638, 37.529797]}, {"name": "Kaktos", "text": "O moară de vânt tradițională ce servește drept punct de reper local în orașul Tinos.", "category": "landmark", "coords": [25.16747, 37.54331]}, {"name": "Sun Dial", "text": "Un ceas solar istoric situat într-un spațiu public din orașul Tinos.", "category": "historical", "coords": [25.165646, 37.536685]}, {"name": "Plateia Pantanassis (Exedra)", "text": "O piață centrală și punct de observație în orașul Tinos.", "category": "historical", "coords": [25.161355, 37.537813]}, {"name": "Ieros Naos Eyaggelistrias", "text": "Una dintre cele mai importante biserici de pelerinaj ortodoxe, renumită pentru icoana Fecioarei Maria.", "category": "religious", "coords": [25.162715, 37.542398]}, {"name": "Paidiki Chara Myloy", "text": "Παιδική Χαρά Μύλου este un loc de joacă fermecător din orașul Tinos, oferind un spațiu captivant pentru ca cei mici să interacționeze și să se joace.", "category": "family", "coords": [25.158516, 37.540862]}, {"name": "Paidiki Chara Palladas", "text": "Παιδική Χαρά Παλλάδας este un loc de joacă popular din orașul Tinos, ideal pentru familiile care fac o pauză alături de cei mici.", "category": "family", "coords": [25.159767, 37.539064]}], "en": [{"name": "Archaeological Museum of Tinos", "text": "The museum houses significant finds from excavations on the island of Tinos.", "category": "museum", "coords": [25.161989, 37.540451]}, {"name": "Vryokastro", "text": "An ancient settlement and archaeological site on the island of Tinos.", "category": "historical", "coords": [25.188996, 37.526693]}, {"name": "Naos Poseidonos kai Amfitritis", "text": "The remains of an ancient sanctuary dedicated to Poseidon and Amphitrite.", "category": "historical", "coords": [25.142901, 37.551744]}, {"name": "Paralia Stayros", "text": "A popular beach area with clear waters on Tinos island.", "category": "recreational", "coords": [25.149099, 37.545139]}, {"name": "Agkali", "text": "A quiet beach in the surroundings of Tinos town.", "category": "recreational", "coords": [25.166114, 37.53233]}, {"name": "Agios Fokas", "text": "A spacious sandy beach located near the capital of Tinos.", "category": "recreational", "coords": [25.179638, 37.529797]}, {"name": "Kaktos", "text": "A traditional windmill serving as a local landmark in Tinos town.", "category": "landmark", "coords": [25.16747, 37.54331]}, {"name": "Sun Dial", "text": "A historical sun dial located in a public area of Tinos town.", "category": "historical", "coords": [25.165646, 37.536685]}, {"name": "Plateia Pantanassis (Exedra)", "text": "A central square and viewpoint in Tinos town.", "category": "historical", "coords": [25.161355, 37.537813]}, {"name": "Ieros Naos Eyaggelistrias", "text": "One of the most important Greek Orthodox pilgrimage sites, famous for its icon of the Virgin Mary.", "category": "religious", "coords": [25.162715, 37.542398]}, {"name": "Paidiki Chara Myloy", "text": "Παιδική Χαρά Μύλου is a charming playground in Tinos Town offering an engaging space for children to interact and play.", "category": "family", "coords": [25.158516, 37.540862]}, {"name": "Paidiki Chara Palladas", "text": "Παιδική Χαρά Παλλάδας is a popular playground in Tinos Town, ideal for families taking a break with their little ones.", "category": "family", "coords": [25.159767, 37.539064]}]},
+    id: "greece-tinos-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologiko Moyseio Tinoy",
+                  "text": "Das Museum beherbergt bedeutende Funde von Ausgrabungen auf der Insel Tinos.",
+                  "category": "museum",
+                  "coords": [
+                        25.161989,
+                        37.540451
+                  ]
+            },
+            {
+                  "name": "Vryokastro",
+                  "text": "Eine antike Siedlung und archäologische Stätte auf der Insel Tinos.",
+                  "category": "historical",
+                  "coords": [
+                        25.188996,
+                        37.526693
+                  ]
+            },
+            {
+                  "name": "Naos Poseidonos kai Amfitritis",
+                  "text": "Die Überreste eines Heiligtums, das Poseidon und Amphitrite gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        25.142901,
+                        37.551744
+                  ]
+            },
+            {
+                  "name": "Paralia Stayros",
+                  "text": "Ein beliebter Strandabschnitt mit klarem Wasser auf Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.149099,
+                        37.545139
+                  ]
+            },
+            {
+                  "name": "Agkali",
+                  "text": "Ein ruhiger Strand in der Umgebung von Tinos Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166114,
+                        37.53233
+                  ]
+            },
+            {
+                  "name": "Agios Fokas",
+                  "text": "Ein weitläufiger Sandstrand in der Nähe der Hauptstadt von Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.179638,
+                        37.529797
+                  ]
+            },
+            {
+                  "name": "Kaktos",
+                  "text": "Eine traditionelle Windmühle, die als lokales Wahrzeichen in Tinos Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        25.16747,
+                        37.54331
+                  ]
+            },
+            {
+                  "name": "Sun Dial",
+                  "text": "Eine historische Sonnenuhr im öffentlichen Raum von Tinos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        25.165646,
+                        37.536685
+                  ]
+            },
+            {
+                  "name": "Plateia Pantanassis (Exedra)",
+                  "text": "Ein zentraler Platz und Aussichtspunkt in Tinos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        25.161355,
+                        37.537813
+                  ]
+            },
+            {
+                  "name": "Ieros Naos Eyaggelistrias",
+                  "text": "Eine der wichtigsten griechisch-orthodoxen Wallfahrtskirchen, berühmt für ihre Marienikone.",
+                  "category": "religious",
+                  "coords": [
+                        25.162715,
+                        37.542398
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Myloy",
+                  "text": "Παιδική Χαρά Μύλου ist ein charmanter Spielplatz in Tinos Stadt, der Kindern einen ansprechenden Ort zum Spielen und Interagieren bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Palladas",
+                  "text": "Παιδική Χαρά Παλλάδας ist ein beliebter Spielplatz in Tinos Stadt, ideal für Familien, die mit ihren Kleinen eine Pause einlegen möchten.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
+                  ]
+            },
+            {
+                  "name": "Αγιος Φωκάς",
+                  "text": "Agios Fokas ist ein langer Strand mit Blick auf Delos, nahe der Stadt Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.181063,
+                        37.529714
+                  ]
+            },
+            {
+                  "name": "Άγιος Σώστης",
+                  "text": "Ein charmanter Strand auf Tinos, der für sein kristallklares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.211465,
+                        37.532303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologiko Moyseio Tinoy",
+                  "text": "A múzeum a Tinosz szigetén végzett ásatások jelentős leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        25.161989,
+                        37.540451
+                  ]
+            },
+            {
+                  "name": "Vryokastro",
+                  "text": "Ókori település és régészeti lelőhely Tinosz szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        25.188996,
+                        37.526693
+                  ]
+            },
+            {
+                  "name": "Naos Poseidonos kai Amfitritis",
+                  "text": "Poszeidónnak és Amfitritének szentelt ókori szentély maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        25.142901,
+                        37.551744
+                  ]
+            },
+            {
+                  "name": "Paralia Stayros",
+                  "text": "Népszerű tengerparti szakasz tiszta vízzel Tinosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.149099,
+                        37.545139
+                  ]
+            },
+            {
+                  "name": "Agkali",
+                  "text": "Nyugodt tengerpart Tinosz városának környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166114,
+                        37.53233
+                  ]
+            },
+            {
+                  "name": "Agios Fokas",
+                  "text": "Tágas homokos tengerpart Tinosz fővárosának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.179638,
+                        37.529797
+                  ]
+            },
+            {
+                  "name": "Kaktos",
+                  "text": "Hagyományos szélmalom, amely Tinosz városának egyik helyi jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.16747,
+                        37.54331
+                  ]
+            },
+            {
+                  "name": "Sun Dial",
+                  "text": "Történelmi napóra Tinosz városának közterületén.",
+                  "category": "historical",
+                  "coords": [
+                        25.165646,
+                        37.536685
+                  ]
+            },
+            {
+                  "name": "Plateia Pantanassis (Exedra)",
+                  "text": "Központi tér és kilátóhely Tinosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.161355,
+                        37.537813
+                  ]
+            },
+            {
+                  "name": "Ieros Naos Eyaggelistrias",
+                  "text": "Az egyik legfontosabb görög ortodox zarándokhely, amely a csodatévő Mária-ikonjáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        25.162715,
+                        37.542398
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Myloy",
+                  "text": "A Παιδική Χαρά Μύλου egy hangulatos játszótér Tinos Townban, amely vonzó teret kínál a gyerekek interakciójához és játékához.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Palladas",
+                  "text": "A Παιδική Χαρά Παλλάδας egy népszerű játszótér Tinos Townban, amely ideális a kisgyermekes családok pihenésére.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
+                  ]
+            },
+            {
+                  "name": "Αγιος Φωκάς",
+                  "text": "Agios Fokas egy hosszú strand Tinos városa mellett, kilátással Delosz szigetére.",
+                  "category": "recreational",
+                  "coords": [
+                        25.181063,
+                        37.529714
+                  ]
+            },
+            {
+                  "name": "Άγιος Σώστης",
+                  "text": "Bájos strand Tinosz szigetén, amely kristálytiszta vizéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        25.211465,
+                        37.532303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologiko Moyseio Tinoy",
+                  "text": "Muzeul adăpostește descoperiri importante din săpăturile efectuate pe insula Tinos.",
+                  "category": "museum",
+                  "coords": [
+                        25.161989,
+                        37.540451
+                  ]
+            },
+            {
+                  "name": "Vryokastro",
+                  "text": "O așezare antică și sit arheologic pe insula Tinos.",
+                  "category": "historical",
+                  "coords": [
+                        25.188996,
+                        37.526693
+                  ]
+            },
+            {
+                  "name": "Naos Poseidonos kai Amfitritis",
+                  "text": "Rămășițele unui sanctuar antic dedicat lui Poseidon și Amfitritei.",
+                  "category": "historical",
+                  "coords": [
+                        25.142901,
+                        37.551744
+                  ]
+            },
+            {
+                  "name": "Paralia Stayros",
+                  "text": "O zonă de plajă populară, cu ape limpezi, pe insula Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.149099,
+                        37.545139
+                  ]
+            },
+            {
+                  "name": "Agkali",
+                  "text": "O plajă liniștită în împrejurimile orașului Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166114,
+                        37.53233
+                  ]
+            },
+            {
+                  "name": "Agios Fokas",
+                  "text": "O plajă întinsă cu nisip situată lângă capitala insulei Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.179638,
+                        37.529797
+                  ]
+            },
+            {
+                  "name": "Kaktos",
+                  "text": "O moară de vânt tradițională ce servește drept punct de reper local în orașul Tinos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.16747,
+                        37.54331
+                  ]
+            },
+            {
+                  "name": "Sun Dial",
+                  "text": "Un ceas solar istoric situat într-un spațiu public din orașul Tinos.",
+                  "category": "historical",
+                  "coords": [
+                        25.165646,
+                        37.536685
+                  ]
+            },
+            {
+                  "name": "Plateia Pantanassis (Exedra)",
+                  "text": "O piață centrală și punct de observație în orașul Tinos.",
+                  "category": "historical",
+                  "coords": [
+                        25.161355,
+                        37.537813
+                  ]
+            },
+            {
+                  "name": "Ieros Naos Eyaggelistrias",
+                  "text": "Una dintre cele mai importante biserici de pelerinaj ortodoxe, renumită pentru icoana Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        25.162715,
+                        37.542398
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Myloy",
+                  "text": "Παιδική Χαρά Μύλου este un loc de joacă fermecător din orașul Tinos, oferind un spațiu captivant pentru ca cei mici să interacționeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Palladas",
+                  "text": "Παιδική Χαρά Παλλάδας este un loc de joacă popular din orașul Tinos, ideal pentru familiile care fac o pauză alături de cei mici.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
+                  ]
+            },
+            {
+                  "name": "Αγιος Φωκάς",
+                  "text": "Agios Fokas este o plajă lungă cu vedere spre Delos, situată lângă orașul Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.181063,
+                        37.529714
+                  ]
+            },
+            {
+                  "name": "Άγιος Σώστης",
+                  "text": "O plajă fermecătoare pe insula Tinos, cunoscută pentru apele sale cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        25.211465,
+                        37.532303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Tinos",
+                  "text": "The museum houses significant finds from excavations on the island of Tinos.",
+                  "category": "museum",
+                  "coords": [
+                        25.161989,
+                        37.540451
+                  ]
+            },
+            {
+                  "name": "Vryokastro",
+                  "text": "An ancient settlement and archaeological site on the island of Tinos.",
+                  "category": "historical",
+                  "coords": [
+                        25.188996,
+                        37.526693
+                  ]
+            },
+            {
+                  "name": "Naos Poseidonos kai Amfitritis",
+                  "text": "The remains of an ancient sanctuary dedicated to Poseidon and Amphitrite.",
+                  "category": "historical",
+                  "coords": [
+                        25.142901,
+                        37.551744
+                  ]
+            },
+            {
+                  "name": "Paralia Stayros",
+                  "text": "A popular beach area with clear waters on Tinos island.",
+                  "category": "recreational",
+                  "coords": [
+                        25.149099,
+                        37.545139
+                  ]
+            },
+            {
+                  "name": "Agkali",
+                  "text": "A quiet beach in the surroundings of Tinos town.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166114,
+                        37.53233
+                  ]
+            },
+            {
+                  "name": "Agios Fokas",
+                  "text": "A spacious sandy beach located near the capital of Tinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.179638,
+                        37.529797
+                  ]
+            },
+            {
+                  "name": "Kaktos",
+                  "text": "A traditional windmill serving as a local landmark in Tinos town.",
+                  "category": "landmark",
+                  "coords": [
+                        25.16747,
+                        37.54331
+                  ]
+            },
+            {
+                  "name": "Sun Dial",
+                  "text": "A historical sun dial located in a public area of Tinos town.",
+                  "category": "historical",
+                  "coords": [
+                        25.165646,
+                        37.536685
+                  ]
+            },
+            {
+                  "name": "Plateia Pantanassis (Exedra)",
+                  "text": "A central square and viewpoint in Tinos town.",
+                  "category": "historical",
+                  "coords": [
+                        25.161355,
+                        37.537813
+                  ]
+            },
+            {
+                  "name": "Ieros Naos Eyaggelistrias",
+                  "text": "One of the most important Greek Orthodox pilgrimage sites, famous for its icon of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        25.162715,
+                        37.542398
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Myloy",
+                  "text": "Παιδική Χαρά Μύλου is a charming playground in Tinos Town offering an engaging space for children to interact and play.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Palladas",
+                  "text": "Παιδική Χαρά Παλλάδας is a popular playground in Tinos Town, ideal for families taking a break with their little ones.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
+                  ]
+            },
+            {
+                  "name": "Αγιος Φωκάς",
+                  "text": "Agios Fokas is a long beach near Tinos Town, offering views toward Delos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.181063,
+                        37.529714
+                  ]
+            },
+            {
+                  "name": "Άγιος Σώστης",
+                  "text": "A charming beach on Tinos island, known for its crystal-clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        25.211465,
+                        37.532303
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Tinos Stadt", hu: "Tínosz város", ro: "Tinos Town", en: "Tinos Town" },
@@ -12072,7 +15591,304 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-hydra-town-cities-v2.webp",
   },
   {
-    id: "greece-agios-kirykos-cities-v2", "sights": {"de": [{"name": "Archaiologiko Moyseio Agioy Kirykoy", "text": "Ein Museum in Agios Kirykos mit Funden aus der antiken Geschichte Ikarias.", "category": "museum", "coords": [26.291874, 37.613568]}, {"name": "Kapsalino Kastro", "text": "Die Überreste einer Festung in der Nähe von Agios Kirykos.", "category": "castle", "coords": [26.266858, 37.627062]}, {"name": "Laografiko Moyseio Agioy Kirykoy", "text": "Ein Museum in Agios Kirykos, das die lokale Volkskultur dokumentiert.", "category": "museum", "coords": [26.290927, 37.61139]}, {"name": "Prioni", "text": "Ein felsiger Strand in Agios Kirykos mit klarem, tiefem Wasser.", "category": "recreational", "coords": [26.303736, 37.619313]}, {"name": "Syrtiko", "text": "Ein malerischer Küstenabschnitt in Agios Kirykos, ideal zum Schwimmen.", "category": "recreational", "coords": [26.268285, 37.599929]}, {"name": "Moni Leykados Eyaggelismos", "text": "Ein orthodoxes Kloster in Agios Kirykos, bekannt als Ort der Andacht.", "category": "religious", "coords": [26.264847, 37.598772]}], "hu": [{"name": "Archaiologiko Moyseio Agioy Kirykoy", "text": "Agios Kirykos múzeuma Ikaría ókori történelmének leleteivel.", "category": "museum", "coords": [26.291874, 37.613568]}, {"name": "Kapsalino Kastro", "text": "Egy erődítmény maradványai Agios Kirykos közelében.", "category": "castle", "coords": [26.266858, 37.627062]}, {"name": "Laografiko Moyseio Agioy Kirykoy", "text": "Agios Kirykos helyi népi kultúráját dokumentáló múzeum.", "category": "museum", "coords": [26.290927, 37.61139]}, {"name": "Prioni", "text": "Sziklás tengerpart Agios Kirykosban, tiszta és mély vízzel.", "category": "recreational", "coords": [26.303736, 37.619313]}, {"name": "Syrtiko", "text": "Festői tengerparti szakasz Agios Kirykosban, amely ideális az úszáshoz.", "category": "recreational", "coords": [26.268285, 37.599929]}, {"name": "Moni Leykados Eyaggelismos", "text": "Agios Kirykos-i ortodox kolostor, amely a vallási áhítat helyszíne.", "category": "religious", "coords": [26.264847, 37.598772]}], "ro": [{"name": "Archaiologiko Moyseio Agioy Kirykoy", "text": "Un muzeu din Agios Kirykos cu descoperiri din istoria antică a insulei Ikaria.", "category": "museum", "coords": [26.291874, 37.613568]}, {"name": "Kapsalino Kastro", "text": "Vestigiile unei fortărețe situate în apropiere de Agios Kirykos.", "category": "castle", "coords": [26.266858, 37.627062]}, {"name": "Laografiko Moyseio Agioy Kirykoy", "text": "Un muzeu din Agios Kirykos care documentează cultura populară locală.", "category": "museum", "coords": [26.290927, 37.61139]}, {"name": "Prioni", "text": "O plajă stâncoasă în Agios Kirykos, cu ape limpezi și adânci.", "category": "recreational", "coords": [26.303736, 37.619313]}, {"name": "Syrtiko", "text": "O porțiune de coastă pitorească în Agios Kirykos, ideală pentru înot.", "category": "recreational", "coords": [26.268285, 37.599929]}, {"name": "Moni Leykados Eyaggelismos", "text": "O mănăstire ortodoxă din Agios Kirykos, cunoscută ca loc de rugăciune.", "category": "religious", "coords": [26.264847, 37.598772]}], "en": [{"name": "Archaeological Museum of Agios Kirikos", "text": "A museum in Agios Kirykos featuring finds from the ancient history of Ikaria.", "category": "museum", "coords": [26.291874, 37.613568]}, {"name": "Kapsalino Kastro", "text": "The remains of a fortress located near Agios Kirykos.", "category": "castle", "coords": [26.266858, 37.627062]}, {"name": "Laografiko Moyseio Agioy Kirykoy", "text": "A museum in Agios Kirykos documenting local folk culture.", "category": "museum", "coords": [26.290927, 37.61139]}, {"name": "Prioni", "text": "A rocky beach in Agios Kirykos with clear and deep waters.", "category": "recreational", "coords": [26.303736, 37.619313]}, {"name": "Syrtiko", "text": "A scenic coastal spot in Agios Kirykos, perfect for swimming.", "category": "recreational", "coords": [26.268285, 37.599929]}, {"name": "Moni Leykados Eyaggelismos", "text": "An Orthodox monastery in Agios Kirykos, known as a place of devotion.", "category": "religious", "coords": [26.264847, 37.598772]}]},
+    id: "greece-agios-kirykos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologiko Moyseio Agioy Kirykoy",
+                  "text": "Ein Museum in Agios Kirykos mit Funden aus der antiken Geschichte Ikarias.",
+                  "category": "museum",
+                  "coords": [
+                        26.291874,
+                        37.613568
+                  ]
+            },
+            {
+                  "name": "Kapsalino Kastro",
+                  "text": "Die Überreste einer Festung in der Nähe von Agios Kirykos.",
+                  "category": "castle",
+                  "coords": [
+                        26.266858,
+                        37.627062
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Agioy Kirykoy",
+                  "text": "Ein Museum in Agios Kirykos, das die lokale Volkskultur dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.290927,
+                        37.61139
+                  ]
+            },
+            {
+                  "name": "Prioni",
+                  "text": "Ein felsiger Strand in Agios Kirykos mit klarem, tiefem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        26.303736,
+                        37.619313
+                  ]
+            },
+            {
+                  "name": "Syrtiko",
+                  "text": "Ein malerischer Küstenabschnitt in Agios Kirykos, ideal zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        26.268285,
+                        37.599929
+                  ]
+            },
+            {
+                  "name": "Moni Leykados Eyaggelismos",
+                  "text": "Ein orthodoxes Kloster in Agios Kirykos, bekannt als Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        26.264847,
+                        37.598772
+                  ]
+            },
+            {
+                  "name": "παραλία",
+                  "text": "Dieser Strand in Agios Kirykos bietet kristallklares Wasser und eine natürliche Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        26.25354,
+                        37.590154
+                  ]
+            },
+            {
+                  "name": "Αγάλιασμα",
+                  "text": "Agaliasma ist ein malerischer Strand in der Nähe von Agios Kirykos auf der Insel Ikaria.",
+                  "category": "recreational",
+                  "coords": [
+                        26.315633,
+                        37.631493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologiko Moyseio Agioy Kirykoy",
+                  "text": "Agios Kirykos múzeuma Ikaría ókori történelmének leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        26.291874,
+                        37.613568
+                  ]
+            },
+            {
+                  "name": "Kapsalino Kastro",
+                  "text": "Egy erődítmény maradványai Agios Kirykos közelében.",
+                  "category": "castle",
+                  "coords": [
+                        26.266858,
+                        37.627062
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Agioy Kirykoy",
+                  "text": "Agios Kirykos helyi népi kultúráját dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.290927,
+                        37.61139
+                  ]
+            },
+            {
+                  "name": "Prioni",
+                  "text": "Sziklás tengerpart Agios Kirykosban, tiszta és mély vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.303736,
+                        37.619313
+                  ]
+            },
+            {
+                  "name": "Syrtiko",
+                  "text": "Festői tengerparti szakasz Agios Kirykosban, amely ideális az úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        26.268285,
+                        37.599929
+                  ]
+            },
+            {
+                  "name": "Moni Leykados Eyaggelismos",
+                  "text": "Agios Kirykos-i ortodox kolostor, amely a vallási áhítat helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        26.264847,
+                        37.598772
+                  ]
+            },
+            {
+                  "name": "παραλία",
+                  "text": "Ez az Agios Kirykos-i strand kristálytiszta vizet és természetes környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.25354,
+                        37.590154
+                  ]
+            },
+            {
+                  "name": "Αγάλιασμα",
+                  "text": "Az Agaliasma egy festői strand Agios Kirykos közelében, Ikaria szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.315633,
+                        37.631493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologiko Moyseio Agioy Kirykoy",
+                  "text": "Un muzeu din Agios Kirykos cu descoperiri din istoria antică a insulei Ikaria.",
+                  "category": "museum",
+                  "coords": [
+                        26.291874,
+                        37.613568
+                  ]
+            },
+            {
+                  "name": "Kapsalino Kastro",
+                  "text": "Vestigiile unei fortărețe situate în apropiere de Agios Kirykos.",
+                  "category": "castle",
+                  "coords": [
+                        26.266858,
+                        37.627062
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Agioy Kirykoy",
+                  "text": "Un muzeu din Agios Kirykos care documentează cultura populară locală.",
+                  "category": "museum",
+                  "coords": [
+                        26.290927,
+                        37.61139
+                  ]
+            },
+            {
+                  "name": "Prioni",
+                  "text": "O plajă stâncoasă în Agios Kirykos, cu ape limpezi și adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        26.303736,
+                        37.619313
+                  ]
+            },
+            {
+                  "name": "Syrtiko",
+                  "text": "O porțiune de coastă pitorească în Agios Kirykos, ideală pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        26.268285,
+                        37.599929
+                  ]
+            },
+            {
+                  "name": "Moni Leykados Eyaggelismos",
+                  "text": "O mănăstire ortodoxă din Agios Kirykos, cunoscută ca loc de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        26.264847,
+                        37.598772
+                  ]
+            },
+            {
+                  "name": "παραλία",
+                  "text": "Această plajă din Agios Kirykos oferă ape cristaline și un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        26.25354,
+                        37.590154
+                  ]
+            },
+            {
+                  "name": "Αγάλιασμα",
+                  "text": "Agaliasma este o plajă pitorească lângă Agios Kirykos, pe insula Ikaria.",
+                  "category": "recreational",
+                  "coords": [
+                        26.315633,
+                        37.631493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Agios Kirikos",
+                  "text": "A museum in Agios Kirykos featuring finds from the ancient history of Ikaria.",
+                  "category": "museum",
+                  "coords": [
+                        26.291874,
+                        37.613568
+                  ]
+            },
+            {
+                  "name": "Kapsalino Kastro",
+                  "text": "The remains of a fortress located near Agios Kirykos.",
+                  "category": "castle",
+                  "coords": [
+                        26.266858,
+                        37.627062
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Agioy Kirykoy",
+                  "text": "A museum in Agios Kirykos documenting local folk culture.",
+                  "category": "museum",
+                  "coords": [
+                        26.290927,
+                        37.61139
+                  ]
+            },
+            {
+                  "name": "Prioni",
+                  "text": "A rocky beach in Agios Kirykos with clear and deep waters.",
+                  "category": "recreational",
+                  "coords": [
+                        26.303736,
+                        37.619313
+                  ]
+            },
+            {
+                  "name": "Syrtiko",
+                  "text": "A scenic coastal spot in Agios Kirykos, perfect for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        26.268285,
+                        37.599929
+                  ]
+            },
+            {
+                  "name": "Moni Leykados Eyaggelismos",
+                  "text": "An Orthodox monastery in Agios Kirykos, known as a place of devotion.",
+                  "category": "religious",
+                  "coords": [
+                        26.264847,
+                        37.598772
+                  ]
+            },
+            {
+                  "name": "παραλία",
+                  "text": "This beach in Agios Kirykos offers crystal-clear waters and a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        26.25354,
+                        37.590154
+                  ]
+            },
+            {
+                  "name": "Αγάλιασμα",
+                  "text": "Agaliasma is a picturesque beach near Agios Kirykos on the island of Ikaria.",
+                  "category": "recreational",
+                  "coords": [
+                        26.315633,
+                        37.631493
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Agios Kirykos", hu: "Ájosz Kirikósz", ro: "Agios Kirykos", en: "Agios Kirykos" },
@@ -12145,6 +15961,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         27.211922,
                         35.507593
                   ]
+            },
+            {
+                  "name": "Amopi",
+                  "text": "Ein malerischer Strand auf Karpathos, bekannt für sein klares ägäisches Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195956,
+                        35.474673
+                  ]
+            },
+            {
+                  "name": "Kastellia Beach",
+                  "text": "Ein Küstenabschnitt auf Karpathos mit klarem Wasser und felsigen Buchten.",
+                  "category": "recreational",
+                  "coords": [
+                        27.194087,
+                        35.472689
+                  ]
+            },
+            {
+                  "name": "Lakki Beach",
+                  "text": "Ein Strand in der Nähe von Karpathos-Stadt, der zum Schwimmen in der Ägäis einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195043,
+                        35.474349
+                  ]
             }
       ],
       "hu": [
@@ -12173,6 +16016,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         27.211922,
                         35.507593
+                  ]
+            },
+            {
+                  "name": "Amopi",
+                  "text": "Festői strand Karpathoson, amely tiszta égei-tengeri vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195956,
+                        35.474673
+                  ]
+            },
+            {
+                  "name": "Kastellia Beach",
+                  "text": "Karpathos tengerparti szakasza tiszta vízzel és sziklás öblökkel.",
+                  "category": "recreational",
+                  "coords": [
+                        27.194087,
+                        35.472689
+                  ]
+            },
+            {
+                  "name": "Lakki Beach",
+                  "text": "Strand Karpathos város közelében, amely úszásra csábít az Égei-tengerben.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195043,
+                        35.474349
                   ]
             }
       ],
@@ -12203,6 +16073,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         27.211922,
                         35.507593
                   ]
+            },
+            {
+                  "name": "Amopi",
+                  "text": "O plajă pitorească din Karpathos, cunoscută pentru apele limpezi ale Egeei.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195956,
+                        35.474673
+                  ]
+            },
+            {
+                  "name": "Kastellia Beach",
+                  "text": "O porțiune de coastă din Karpathos, cu ape limpezi și golfuri stâncoase.",
+                  "category": "recreational",
+                  "coords": [
+                        27.194087,
+                        35.472689
+                  ]
+            },
+            {
+                  "name": "Lakki Beach",
+                  "text": "O plajă lângă orașul Karpathos, care invită la înot în Marea Egee.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195043,
+                        35.474349
+                  ]
             }
       ],
       "en": [
@@ -12231,6 +16128,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         27.211922,
                         35.507593
+                  ]
+            },
+            {
+                  "name": "Amopi",
+                  "text": "A scenic beach in Karpathos known for its clear Aegean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195956,
+                        35.474673
+                  ]
+            },
+            {
+                  "name": "Kastellia Beach",
+                  "text": "A coastal stretch in Karpathos featuring clear waters and rocky coves.",
+                  "category": "recreational",
+                  "coords": [
+                        27.194087,
+                        35.472689
+                  ]
+            },
+            {
+                  "name": "Lakki Beach",
+                  "text": "A beach near Karpathos Town inviting for swimming in the Aegean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.195043,
+                        35.474349
                   ]
             }
       ]
@@ -13486,6 +17410,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         24.592603,
                         36.81618
                   ]
+            },
+            {
+                  "name": "Klema",
+                  "text": "Ein Küstenresort in Kimolos-Stadt mit Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        24.589779,
+                        36.799285
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "Ein Küstenort in Kimolos-Stadt, bekannt für seine maritime Landschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        24.590024,
+                        36.805936
+                  ]
             }
       ],
       "hu": [
@@ -13505,6 +17447,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         24.592603,
                         36.81618
+                  ]
+            },
+            {
+                  "name": "Klema",
+                  "text": "Tengerparti üdülőhely Kimolosz városában, közvetlen kijárattal a tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        24.589779,
+                        36.799285
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "Kimolosz városának tengerparti üdülőhelye, amely part menti tájairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        24.590024,
+                        36.805936
                   ]
             }
       ],
@@ -13526,6 +17486,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         24.592603,
                         36.81618
                   ]
+            },
+            {
+                  "name": "Klema",
+                  "text": "O stațiune de coastă în orașul Kimolos, oferind acces la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        24.589779,
+                        36.799285
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "O zonă de stațiune pe malul mării în orașul Kimolos, cunoscută pentru peisajele sale de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        24.590024,
+                        36.805936
+                  ]
             }
       ],
       "en": [
@@ -13545,6 +17523,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         24.592603,
                         36.81618
+                  ]
+            },
+            {
+                  "name": "Klema",
+                  "text": "A coastal resort area in Kimolos Town offering access to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        24.589779,
+                        36.799285
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "A seaside resort area in Kimolos Town known for its coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        24.590024,
+                        36.805936
                   ]
             }
       ]
@@ -14098,6 +18094,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.301893,
                         36.694261
                   ]
+            },
+            {
+                  "name": "Μυλοπότας",
+                  "text": "Der bekannteste und lebhafteste Strand der Insel Ios mit goldenem Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        25.2948,
+                        36.713276
+                  ]
+            },
+            {
+                  "name": "Βαλμάς",
+                  "text": "Ein schöner Küstenabschnitt bei Ios Town, der zum Schwimmen im Ägäischen Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.269659,
+                        36.715715
+                  ]
+            },
+            {
+                  "name": "Το αυλάκι τού Βηζίρη",
+                  "text": "Ein schöner Küstenabschnitt bei Ios Town, der zum Schwimmen im Ägäischen Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.25882,
+                        36.738443
+                  ]
+            },
+            {
+                  "name": "Περάμμος",
+                  "text": "Ein schöner Küstenabschnitt bei Ios Town, der zum Schwimmen im Ägäischen Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.27198,
+                        36.7266
+                  ]
+            },
+            {
+                  "name": "Κουμπάρα",
+                  "text": "Ein schöner Küstenabschnitt bei Ios Town, der zum Schwimmen im Ägäischen Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.256159,
+                        36.725311
+                  ]
+            },
+            {
+                  "name": "Αλμυρός",
+                  "text": "Ein schöner Küstenabschnitt bei Ios Town, der zum Schwimmen im Ägäischen Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.263798,
+                        36.745899
+                  ]
             }
       ],
       "hu": [
@@ -14171,6 +18221,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.301893,
                         36.694261
+                  ]
+            },
+            {
+                  "name": "Μυλοπότας",
+                  "text": "Iosz szigetének legismertebb és legélénkebb aranyhomokos tengerpartja.",
+                  "category": "recreational",
+                  "coords": [
+                        25.2948,
+                        36.713276
+                  ]
+            },
+            {
+                  "name": "Βαλμάς",
+                  "text": "Szép tengerparti szakasz Iosz városa közelében, amely úszásra csábít az Égei-tengerben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.269659,
+                        36.715715
+                  ]
+            },
+            {
+                  "name": "Το αυλάκι τού Βηζίρη",
+                  "text": "Szép tengerparti szakasz Iosz városa közelében, amely úszásra csábít az Égei-tengerben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.25882,
+                        36.738443
+                  ]
+            },
+            {
+                  "name": "Περάμμος",
+                  "text": "Szép tengerparti szakasz Iosz városa közelében, amely úszásra csábít az Égei-tengerben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.27198,
+                        36.7266
+                  ]
+            },
+            {
+                  "name": "Κουμπάρα",
+                  "text": "Szép tengerparti szakasz Iosz városa közelében, amely úszásra csábít az Égei-tengerben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.256159,
+                        36.725311
+                  ]
+            },
+            {
+                  "name": "Αλμυρός",
+                  "text": "Szép tengerparti szakasz Iosz városa közelében, amely úszásra csábít az Égei-tengerben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.263798,
+                        36.745899
                   ]
             }
       ],
@@ -14246,6 +18350,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.301893,
                         36.694261
                   ]
+            },
+            {
+                  "name": "Μυλοπότας",
+                  "text": "Cea mai cunoscută și animată plajă de pe insula Ios, cu nisip auriu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.2948,
+                        36.713276
+                  ]
+            },
+            {
+                  "name": "Βαλμάς",
+                  "text": "O porțiune frumoasă de coastă lângă Ios Town, ideală pentru înot în Marea Egee.",
+                  "category": "recreational",
+                  "coords": [
+                        25.269659,
+                        36.715715
+                  ]
+            },
+            {
+                  "name": "Το αυλάκι τού Βηζίρη",
+                  "text": "O porțiune frumoasă de coastă lângă Ios Town, ideală pentru înot în Marea Egee.",
+                  "category": "recreational",
+                  "coords": [
+                        25.25882,
+                        36.738443
+                  ]
+            },
+            {
+                  "name": "Περάμμος",
+                  "text": "O porțiune frumoasă de coastă lângă Ios Town, ideală pentru înot în Marea Egee.",
+                  "category": "recreational",
+                  "coords": [
+                        25.27198,
+                        36.7266
+                  ]
+            },
+            {
+                  "name": "Κουμπάρα",
+                  "text": "O porțiune frumoasă de coastă lângă Ios Town, ideală pentru înot în Marea Egee.",
+                  "category": "recreational",
+                  "coords": [
+                        25.256159,
+                        36.725311
+                  ]
+            },
+            {
+                  "name": "Αλμυρός",
+                  "text": "O porțiune frumoasă de coastă lângă Ios Town, ideală pentru înot în Marea Egee.",
+                  "category": "recreational",
+                  "coords": [
+                        25.263798,
+                        36.745899
+                  ]
             }
       ],
       "en": [
@@ -14319,6 +18477,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.301893,
                         36.694261
+                  ]
+            },
+            {
+                  "name": "Μυλοπότας",
+                  "text": "The most famous and lively golden sand beach on the island of Ios.",
+                  "category": "recreational",
+                  "coords": [
+                        25.2948,
+                        36.713276
+                  ]
+            },
+            {
+                  "name": "Βαλμάς",
+                  "text": "A beautiful stretch of coast near Ios Town, inviting for swimming in the Aegean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        25.269659,
+                        36.715715
+                  ]
+            },
+            {
+                  "name": "Viziri",
+                  "text": "A beautiful stretch of coast near Ios Town, inviting for swimming in the Aegean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        25.25882,
+                        36.738443
+                  ]
+            },
+            {
+                  "name": "Περάμμος",
+                  "text": "A beautiful stretch of coast near Ios Town, inviting for swimming in the Aegean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        25.27198,
+                        36.7266
+                  ]
+            },
+            {
+                  "name": "Κουμπάρα",
+                  "text": "A beautiful stretch of coast near Ios Town, inviting for swimming in the Aegean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        25.256159,
+                        36.725311
+                  ]
+            },
+            {
+                  "name": "Almyros",
+                  "text": "A beautiful stretch of coast near Ios Town, inviting for swimming in the Aegean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        25.263798,
+                        36.745899
                   ]
             }
       ]

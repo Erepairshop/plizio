@@ -2741,6 +2741,15 @@ imageHint: "Mirador Steinfort nature center building",
                         6.184108,
                         49.949911
                   ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "Ein Wasserpark im Naturgebiet Stolzembourg.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
+                  ]
             }
       ],
       "hu": [
@@ -2814,6 +2823,15 @@ imageHint: "Mirador Steinfort nature center building",
                   "coords": [
                         6.184108,
                         49.949911
+                  ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "Vízi park a Stolzembourg natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
                   ]
             }
       ],
@@ -2889,6 +2907,15 @@ imageHint: "Mirador Steinfort nature center building",
                         6.184108,
                         49.949911
                   ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "Un parc acvatic în zona naturală Stolzembourg.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
+                  ]
             }
       ],
       "en": [
@@ -2962,6 +2989,15 @@ imageHint: "Mirador Steinfort nature center building",
                   "coords": [
                         6.184108,
                         49.949911
+                  ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "A water park in the Stolzembourg nature area.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
                   ]
             }
       ]

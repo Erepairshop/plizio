@@ -499,6 +499,15 @@ export const bulgariaNatureV2: POI[] = [
                         27.885681,
                         43.022272
                   ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "Ein Freizeitpark am Fluss Kamtschiya.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
+                  ]
             }
       ],
       "hu": [
@@ -545,6 +554,15 @@ export const bulgariaNatureV2: POI[] = [
                   "coords": [
                         27.885681,
                         43.022272
+                  ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "Vidámpark a Kamcsija folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
                   ]
             }
       ],
@@ -593,6 +611,15 @@ export const bulgariaNatureV2: POI[] = [
                         27.885681,
                         43.022272
                   ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "Un parc de distracții situat pe râul Kamchia.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
+                  ]
             }
       ],
       "en": [
@@ -639,6 +666,15 @@ export const bulgariaNatureV2: POI[] = [
                   "coords": [
                         27.885681,
                         43.022272
+                  ]
+            },
+            {
+                  "name": "Khepilend",
+                  "text": "A theme park located along the Kamchia River.",
+                  "category": "recreational",
+                  "coords": [
+                        27.83986,
+                        43.026727
                   ]
             }
       ]
@@ -1336,6 +1372,42 @@ export const bulgariaNatureV2: POI[] = [
                         26.534344,
                         41.702253
                   ]
+            },
+            {
+                  "name": "Kum Kasrı Hamamı",
+                  "text": "Ein historisches öffentliches Bad am Ufer des Flusses Mariza.",
+                  "category": "recreational",
+                  "coords": [
+                        26.556433,
+                        41.691129
+                  ]
+            },
+            {
+                  "name": "Mahmudiye Kışlası Hamamı",
+                  "text": "Ein traditionelles Bad am Fluss Mariza, das mit der ehemaligen Kaserne verbunden ist.",
+                  "category": "recreational",
+                  "coords": [
+                        26.5415,
+                        41.69482
+                  ]
+            },
+            {
+                  "name": "Topkapı Hamamı",
+                  "text": "Ein öffentliches Bad in der Nähe des Flusses Mariza für traditionelle Reinigung.",
+                  "category": "recreational",
+                  "coords": [
+                        26.548337,
+                        41.677785
+                  ]
+            },
+            {
+                  "name": "Beylerbeyi Hamamı",
+                  "text": "Ein historisches Hamam in der Gegend des Flusses Mariza.",
+                  "category": "recreational",
+                  "coords": [
+                        26.554038,
+                        41.682853
+                  ]
             }
       ],
       "hu": [
@@ -1391,6 +1463,42 @@ export const bulgariaNatureV2: POI[] = [
                   "coords": [
                         26.534344,
                         41.702253
+                  ]
+            },
+            {
+                  "name": "Kum Kasrı Hamamı",
+                  "text": "Történelmi nyilvános fürdő a Marica-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        26.556433,
+                        41.691129
+                  ]
+            },
+            {
+                  "name": "Mahmudiye Kışlası Hamamı",
+                  "text": "Hagyományos fürdő a Marica-folyónál, amely a korábbi laktanyához kapcsolódik.",
+                  "category": "recreational",
+                  "coords": [
+                        26.5415,
+                        41.69482
+                  ]
+            },
+            {
+                  "name": "Topkapı Hamamı",
+                  "text": "Nyilvános fürdő a Marica-folyó közelében, hagyományos tisztálkodási lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.548337,
+                        41.677785
+                  ]
+            },
+            {
+                  "name": "Beylerbeyi Hamamı",
+                  "text": "Történelmi hamam a Marica-folyó környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.554038,
+                        41.682853
                   ]
             }
       ],
@@ -1448,6 +1556,42 @@ export const bulgariaNatureV2: POI[] = [
                         26.534344,
                         41.702253
                   ]
+            },
+            {
+                  "name": "Kum Kasrı Hamamı",
+                  "text": "O baie publică istorică situată pe malul râului Marița.",
+                  "category": "recreational",
+                  "coords": [
+                        26.556433,
+                        41.691129
+                  ]
+            },
+            {
+                  "name": "Mahmudiye Kışlası Hamamı",
+                  "text": "O baie tradițională lângă râul Marița, asociată cu fosta cazarmă.",
+                  "category": "recreational",
+                  "coords": [
+                        26.5415,
+                        41.69482
+                  ]
+            },
+            {
+                  "name": "Topkapı Hamamı",
+                  "text": "O baie publică lângă râul Marița, oferind facilități tradiționale de relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        26.548337,
+                        41.677785
+                  ]
+            },
+            {
+                  "name": "Beylerbeyi Hamamı",
+                  "text": "Un hamam istoric situat în zona râului Marița.",
+                  "category": "recreational",
+                  "coords": [
+                        26.554038,
+                        41.682853
+                  ]
             }
       ],
       "en": [
@@ -1503,6 +1647,42 @@ export const bulgariaNatureV2: POI[] = [
                   "coords": [
                         26.534344,
                         41.702253
+                  ]
+            },
+            {
+                  "name": "Kum Kasrı Hamamı",
+                  "text": "A historical public bath located on the banks of the Maritsa River.",
+                  "category": "recreational",
+                  "coords": [
+                        26.556433,
+                        41.691129
+                  ]
+            },
+            {
+                  "name": "Mahmudiye Kışlası Hamamı",
+                  "text": "A traditional bath near the Maritsa River, associated with the former barracks.",
+                  "category": "recreational",
+                  "coords": [
+                        26.5415,
+                        41.69482
+                  ]
+            },
+            {
+                  "name": "Topkapı Hamamı",
+                  "text": "A public bath near the Maritsa River, providing traditional bathing facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        26.548337,
+                        41.677785
+                  ]
+            },
+            {
+                  "name": "Beylerbeyi Hamamı",
+                  "text": "A historical hammam located in the vicinity of the Maritsa River.",
+                  "category": "recreational",
+                  "coords": [
+                        26.554038,
+                        41.682853
                   ]
             }
       ]

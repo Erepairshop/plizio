@@ -2759,7 +2759,124 @@ export const poiExtraRo2: POI[] = [
       fr: ["Sibiu a ouvert en 1929 le premier jardin zoologique de Roumanie.", "Le parc est situé au cœur de la réserve naturelle de la forêt de Dumbrava.", "Un imposant chêne de 600 ans se dresse juste à l'entrée du zoo.", "Un grand lac au sein du parc permet de faire des balades en barque.", "Le zoo abrite des espèces rares comme des tigres blancs et des jaguars.", "La proximité immédiate du musée Astra rend le site très attractif.", "Il dispose de vastes aires de jeux et d'offres pédagogiques pour les enfants.", "Le zoo est réputé pour ses programmes de reproduction réussis pour certaines espèces."],
     }, image: "/poi-images/animal-habitat-sibiu-zoo-extra.webp"},
   {
-    id: "animal-habitat-dolphinarium-ct-extra", "sights": {"de": [{"name": "Plaja Tataia", "text": "Nicht weit vom Delfinarium in Constanța empfängt die Plaja Tataia ihre Gäste mit sanftem Meeresrauschen. Dieser stadtnahe Strandabschnitt ist ein beliebter Rückzugsort, um Sonne zu tanken und im Wasser Erfrischung zu finden. Die familiäre Atmosphäre macht ihn zu einem angenehmen Ziel für Jung und Alt. An den Wochenenden empfiehlt es sich, zeitig vor Ort zu sein.", "category": "recreational", "coords": [28.654571, 44.205939]}, {"name": "Plaja Trei Papuci", "text": "Eingebettet in die Küstenlinie nahe dem Delfinarium von Constanța verspricht die Plaja Trei Papuci erholsame Strandtage. Einheimische und Reisende kommen hier zusammen, um die Weite des Meeres bei einem Spaziergang oder beim Schwimmen zu genießen. Die unkomplizierte Stimmung sorgt für unmittelbare Entspannung vom städtischen Trubel. Ein idealer Ort, um einen sommerlichen Nachmittag gemütlich ausklingen zu lassen.", "category": "recreational", "coords": [28.657678, 44.195547]}], "hu": [{"name": "Plaja Tataia", "text": "A konstancai Delfináriumtól nem messze a Plaja Tataia szelíd tengerzúgással fogadja vendégeit. Ez a városközeli partszakasz kedvelt menedékhely a napozásra és a frissítő vizes kikapcsolódásra. A családias hangulat kellemes úti céllá teszi kicsik és nagyok számára egyaránt. Hétvégéken ajánlott időben a helyszínre érkezni.", "category": "recreational", "coords": [28.654571, 44.205939]}, {"name": "Plaja Trei Papuci", "text": "A konstancai Delfináriumhoz közeli partvonalba ágyazódó Plaja Trei Papuci pihentető strandolós napokat ígér. Helyiek és utazók gyűlnek itt össze, hogy séta vagy úszás közben élvezzék a tenger végtelenségét. A könnyed hangulat azonnali kikapcsolódást nyújt a városi nyüzsgésből. Ideális hely egy nyári délután kényelmes lezárásához.", "category": "recreational", "coords": [28.657678, 44.195547]}], "ro": [{"name": "Plaja Tataia", "text": "Nu departe de Delfinariul din Constanța, Plaja Tataia își întâmpină oaspeții cu murmurul blând al mării. Această porțiune de plajă apropiată de oraș este un refugiu popular pentru a te bucura de soare și a găsi răcoare în apă. Atmosfera familiară o face o destinație plăcută pentru tineri și vârstnici deopotrivă. În weekenduri, este recomandat să fiți prezenți din timp.", "category": "recreational", "coords": [28.654571, 44.205939]}, {"name": "Plaja Trei Papuci", "text": "Încastrată în linia de coastă de lângă Delfinariul din Constanța, Plaja Trei Papuci promite zile de plajă odihnitoare. Localnicii și călătorii se adună aici pentru a se bucura de imensitatea mării printr-o plimbare sau înot. Atmosfera necomplicată asigură o relaxare imediată departe de agitația urbană. Un loc ideal pentru a încheia o după-amiază de vară în liniște.", "category": "recreational", "coords": [28.657678, 44.195547]}], "en": [{"name": "Plaja Tataia", "text": "Not far from the Constanța Dolphinarium, Plaja Tataia welcomes its guests with the gentle sound of the sea. This near-city beach stretch is a popular retreat to soak up the sun and find refreshment in the water. The familiar atmosphere makes it a pleasant destination for young and old alike. On weekends, it is highly recommended to arrive early.", "category": "recreational", "coords": [28.654571, 44.205939]}, {"name": "Plaja Trei Papuci", "text": "Nestled in the coastline near the Constanța Dolphinarium, Plaja Trei Papuci promises restful beach days. Locals and travelers gather here to enjoy the vastness of the sea during a walk or a swim. The uncomplicated mood ensures immediate relaxation from the urban hustle. It is an ideal spot to comfortably wind down a summer afternoon.", "category": "recreational", "coords": [28.657678, 44.195547]}]},
+    id: "animal-habitat-dolphinarium-ct-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "Nicht weit vom Delfinarium in Constanța empfängt die Plaja Tataia ihre Gäste mit sanftem Meeresrauschen. Dieser stadtnahe Strandabschnitt ist ein beliebter Rückzugsort, um Sonne zu tanken und im Wasser Erfrischung zu finden. Die familiäre Atmosphäre macht ihn zu einem angenehmen Ziel für Jung und Alt. An den Wochenenden empfiehlt es sich, zeitig vor Ort zu sein.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "Eingebettet in die Küstenlinie nahe dem Delfinarium von Constanța verspricht die Plaja Trei Papuci erholsame Strandtage. Einheimische und Reisende kommen hier zusammen, um die Weite des Meeres bei einem Spaziergang oder beim Schwimmen zu genießen. Die unkomplizierte Stimmung sorgt für unmittelbare Entspannung vom städtischen Trubel. Ein idealer Ort, um einen sommerlichen Nachmittag gemütlich ausklingen zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            },
+            {
+                  "name": "Pescărie",
+                  "text": "Ein Strandabschnitt im Norden von Constanța, in der Nähe des Delphinariums.",
+                  "category": "recreational",
+                  "coords": [
+                        28.644924,
+                        44.216181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "A konstancai Delfináriumtól nem messze a Plaja Tataia szelíd tengerzúgással fogadja vendégeit. Ez a városközeli partszakasz kedvelt menedékhely a napozásra és a frissítő vizes kikapcsolódásra. A családias hangulat kellemes úti céllá teszi kicsik és nagyok számára egyaránt. Hétvégéken ajánlott időben a helyszínre érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "A konstancai Delfináriumhoz közeli partvonalba ágyazódó Plaja Trei Papuci pihentető strandolós napokat ígér. Helyiek és utazók gyűlnek itt össze, hogy séta vagy úszás közben élvezzék a tenger végtelenségét. A könnyed hangulat azonnali kikapcsolódást nyújt a városi nyüzsgésből. Ideális hely egy nyári délután kényelmes lezárásához.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            },
+            {
+                  "name": "Pescărie",
+                  "text": "Tengerparti szakasz Konstanca északi részén, a delfinárium közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.644924,
+                        44.216181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "Nu departe de Delfinariul din Constanța, Plaja Tataia își întâmpină oaspeții cu murmurul blând al mării. Această porțiune de plajă apropiată de oraș este un refugiu popular pentru a te bucura de soare și a găsi răcoare în apă. Atmosfera familiară o face o destinație plăcută pentru tineri și vârstnici deopotrivă. În weekenduri, este recomandat să fiți prezenți din timp.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "Încastrată în linia de coastă de lângă Delfinariul din Constanța, Plaja Trei Papuci promite zile de plajă odihnitoare. Localnicii și călătorii se adună aici pentru a se bucura de imensitatea mării printr-o plimbare sau înot. Atmosfera necomplicată asigură o relaxare imediată departe de agitația urbană. Un loc ideal pentru a încheia o după-amiază de vară în liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            },
+            {
+                  "name": "Pescărie",
+                  "text": "O secțiune de plajă în nordul Constanței, situată lângă Delfinariu.",
+                  "category": "recreational",
+                  "coords": [
+                        28.644924,
+                        44.216181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "Not far from the Constanța Dolphinarium, Plaja Tataia welcomes its guests with the gentle sound of the sea. This near-city beach stretch is a popular retreat to soak up the sun and find refreshment in the water. The familiar atmosphere makes it a pleasant destination for young and old alike. On weekends, it is highly recommended to arrive early.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "Nestled in the coastline near the Constanța Dolphinarium, Plaja Trei Papuci promises restful beach days. Locals and travelers gather here to enjoy the vastness of the sea during a walk or a swim. The uncomplicated mood ensures immediate relaxation from the urban hustle. It is an ideal spot to comfortably wind down a summer afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            },
+            {
+                  "name": "Pescărie",
+                  "text": "A beach section in the north of Constanța, located near the Dolphinarium.",
+                  "category": "recreational",
+                  "coords": [
+                        28.644924,
+                        44.216181
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "RO-CT",
     coords: [28.64, 44.21],
@@ -4455,7 +4572,124 @@ export const poiExtraRo2: POI[] = [
       fr: ["Le lac Sinoe est réputé pour son emplacement juste à côté des ruines d'Histria.", "C'est un lac d'eau saumâtre dont la salinité varie selon la connexion avec la mer.", "Le lac fait partie de la réserve de biosphère du delta du Danube, classée au patrimoine mondial de l'UNESCO.", "Il sert de quartier d'hivernage important pour la rare bernache à cou roux.", "La profondeur de l'eau du lac est très faible et dépasse rarement les deux mètres.", "Le lac est séparé de la mer Noire par des dunes de sable et des cordons littoraux.", "Dans l'Antiquité, la zone était un golfe navigable qui permettait l'accès à Histria.", "La faune piscicole est composée d'un mélange d'espèces d'eau douce et d'eau de mer."],
     }, image: "/poi-images/lake-sinoe-extra.webp"},
   {
-    id: "lake-techirghiol-extra", "sights": {"de": [{"name": "Citadel", "text": "Strand am Techirghiol-See.", "category": "recreational", "coords": [28.643395, 44.051062]}, {"name": "Plaja Șincai", "text": "Bekannt für seinen Heilschlamm, lädt die Plaja Șincai am Techirghiol-See zu erholsamen Gesundheits- und Badetagen ein. Besucher nutzen das mineralstoffreiche Wasser und die ruhigen Uferzonen, um Körper und Geist etwas Gutes zu tun. Ein entspanntes und auf Wohlbefinden ausgerichtetes Ambiente herrscht hier vor. Es ist der perfekte Ort, um einen Sommertag voller Entschleunigung zu erleben.", "category": "recreational", "coords": [28.621084, 44.057625]}], "hu": [{"name": "Citadel", "text": "Strand a Techirghiol-tónál.", "category": "recreational", "coords": [28.643395, 44.051062]}, {"name": "Plaja Șincai", "text": "A gyógyiszapjáról híres Techirghiol-tó menti Plaja Șincai pihentető egészségügyi és fürdőzős napokra hívogat. A látogatók kihasználják az ásványi anyagokban gazdag vizet és a csendes partszakaszokat, hogy testüket és lelküket ápolják. Kellemes, jólétre fókuszáló hangulat uralkodik itt. Ez a tökéletes hely arra, hogy átéljünk egy teljesen lelassult nyári napot.", "category": "recreational", "coords": [28.621084, 44.057625]}], "ro": [{"name": "Citadel", "text": "Plajă situată la Lacul Techirghiol.", "category": "recreational", "coords": [28.643395, 44.051062]}, {"name": "Plaja Șincai", "text": "Renumită pentru nămolul său curativ, Plaja Șincai de la Lacul Techirghiol te invită la zile relaxante de sănătate și bălăceală. Vizitatorii folosesc apele bogate în minerale și zonele liniștite de pe țărm pentru a face bine corpului și minții. Un ambient relaxat și axat pe bunăstare predomină aici. Este locul perfect pentru a experimenta o zi de vară plină de calm.", "category": "recreational", "coords": [28.621084, 44.057625]}], "en": [{"name": "Citadel", "text": "Beach located at Lake Techirghiol.", "category": "recreational", "coords": [28.643395, 44.051062]}, {"name": "Plaja Șincai", "text": "Known for its healing mud, Plaja Șincai at Lake Techirghiol invites visitors to relaxing days of health and bathing. Guests utilize the mineral-rich waters and quiet shore zones to benefit their body and mind. A relaxed, wellness-focused ambiance prevails here. It is the perfect place to experience a thoroughly unhurried summer day.", "category": "recreational", "coords": [28.621084, 44.057625]}]},
+    id: "lake-techirghiol-extra", "sights": {
+      "de": [
+            {
+                  "name": "Citadel",
+                  "text": "Strand am Techirghiol-See.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Bekannt für seinen Heilschlamm, lädt die Plaja Șincai am Techirghiol-See zu erholsamen Gesundheits- und Badetagen ein. Besucher nutzen das mineralstoffreiche Wasser und die ruhigen Uferzonen, um Körper und Geist etwas Gutes zu tun. Ein entspanntes und auf Wohlbefinden ausgerichtetes Ambiente herrscht hier vor. Es ist der perfekte Ort, um einen Sommertag voller Entschleunigung zu erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Plaja Eforie",
+                  "text": "Ein Sandstrand am Schwarzen Meer bei Eforie, bekannt für den nahegelegenen Techirghiol-See.",
+                  "category": "recreational",
+                  "coords": [
+                        28.647992,
+                        44.045073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Citadel",
+                  "text": "Strand a Techirghiol-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "A gyógyiszapjáról híres Techirghiol-tó menti Plaja Șincai pihentető egészségügyi és fürdőzős napokra hívogat. A látogatók kihasználják az ásványi anyagokban gazdag vizet és a csendes partszakaszokat, hogy testüket és lelküket ápolják. Kellemes, jólétre fókuszáló hangulat uralkodik itt. Ez a tökéletes hely arra, hogy átéljünk egy teljesen lelassult nyári napot.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Plaja Eforie",
+                  "text": "Homokos strand a Fekete-tenger partján Eforie-nál, a közeli Techirghiol-tóról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        28.647992,
+                        44.045073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Citadel",
+                  "text": "Plajă situată la Lacul Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Renumită pentru nămolul său curativ, Plaja Șincai de la Lacul Techirghiol te invită la zile relaxante de sănătate și bălăceală. Vizitatorii folosesc apele bogate în minerale și zonele liniștite de pe țărm pentru a face bine corpului și minții. Un ambient relaxat și axat pe bunăstare predomină aici. Este locul perfect pentru a experimenta o zi de vară plină de calm.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Plaja Eforie",
+                  "text": "O plajă de nisip la Marea Neagră lângă Eforie, cunoscută pentru apropierea de lacul Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.647992,
+                        44.045073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citadel",
+                  "text": "Beach located at Lake Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Known for its healing mud, Plaja Șincai at Lake Techirghiol invites visitors to relaxing days of health and bathing. Guests utilize the mineral-rich waters and quiet shore zones to benefit their body and mind. A relaxed, wellness-focused ambiance prevails here. It is the perfect place to experience a thoroughly unhurried summer day.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Plaja Eforie",
+                  "text": "A sandy beach on the Black Sea near Eforie, known for the nearby Techirghiol Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        28.647992,
+                        44.045073
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RO-CT",
     coords: [28.63, 44.05],

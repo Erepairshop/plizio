@@ -679,6 +679,15 @@ export const portugalEconomicV2: POI[] = [
                         -8.455147,
                         38.677904
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Städtische Schwimmbäder für das Gebiet von Vendas Novas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.46174,
+                        38.673721
+                  ]
             }
       ],
       "hu": [
@@ -698,6 +707,15 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.455147,
                         38.677904
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Vendas Novas körzetét kiszolgáló önkormányzati úszómedencék.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.46174,
+                        38.673721
                   ]
             }
       ],
@@ -719,6 +737,15 @@ export const portugalEconomicV2: POI[] = [
                         -8.455147,
                         38.677904
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Piscine municipale care deservesc zona Vendas Novas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.46174,
+                        38.673721
+                  ]
             }
       ],
       "en": [
@@ -738,6 +765,15 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.455147,
                         38.677904
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Municipal swimming pools serving the Vendas Novas area.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.46174,
+                        38.673721
                   ]
             }
       ]
@@ -1309,6 +1345,42 @@ export const portugalEconomicV2: POI[] = [
                         -8.792024,
                         41.548036
                   ]
+            },
+            {
+                  "name": "Praia Suave Mar (Centro)",
+                  "text": "Zentraler Strandabschnitt in Esposende mit guten Bademöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79225,
+                        41.546467
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Sul)",
+                  "text": "Südlicher Teil des Suave Mar Strandes in Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79258,
+                        41.544928
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "Ein Gemeinschaftszentrum mit Schwimmbad in der Nähe der Fischereien von Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "Freizeit-Schwimmbecken in Esposende für Sport und Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
+                  ]
             }
       ],
       "hu": [
@@ -1373,6 +1445,42 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.792024,
                         41.548036
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Centro)",
+                  "text": "Központi strandrész Esposendében, jó fürdési lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79225,
+                        41.546467
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Sul)",
+                  "text": "A Suave Mar strand déli része Esposendében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79258,
+                        41.544928
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "Közösségi központ úszómedencével Esposende halászati övezetének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "Szabadidős úszómedencék Esposendében sportoláshoz és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
                   ]
             }
       ],
@@ -1439,6 +1547,42 @@ export const portugalEconomicV2: POI[] = [
                         -8.792024,
                         41.548036
                   ]
+            },
+            {
+                  "name": "Praia Suave Mar (Centro)",
+                  "text": "Secțiune centrală de plajă în Esposende, cu bune condiții de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79225,
+                        41.546467
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Sul)",
+                  "text": "Partea de sud a plajei Suave Mar în Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79258,
+                        41.544928
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "Un centru comunitar cu piscină lângă zona de pescuit din Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "Piscine de agrement în Esposende pentru sport și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
+                  ]
             }
       ],
       "en": [
@@ -1503,6 +1647,42 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.792024,
                         41.548036
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Centro)",
+                  "text": "Central beach section in Esposende with good swimming conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79225,
+                        41.546467
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Sul)",
+                  "text": "Southern part of the Suave Mar beach in Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.79258,
+                        41.544928
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "A community center with a swimming pool near the Esposende fisheries.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "Leisure swimming pools in Esposende for sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
                   ]
             }
       ]
@@ -1885,6 +2065,15 @@ export const portugalEconomicV2: POI[] = [
                         -8.678445,
                         40.548642
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "Die städtischen Schwimmbäder von Vagos in Portugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
+                  ]
             }
       ],
       "hu": [
@@ -1922,6 +2111,15 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.678445,
                         40.548642
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "Vagos városi úszómedencéi Portugáliában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
                   ]
             }
       ],
@@ -1961,6 +2159,15 @@ export const portugalEconomicV2: POI[] = [
                         -8.678445,
                         40.548642
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "Piscinele municipale din Vagos, Portugalia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
+                  ]
             }
       ],
       "en": [
@@ -1998,6 +2205,15 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.678445,
                         40.548642
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Vagos",
+                  "text": "The municipal swimming pools of Vagos in Portugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683236,
+                        40.546989
                   ]
             }
       ]
@@ -2155,6 +2371,15 @@ export const portugalEconomicV2: POI[] = [
                         -8.462433,
                         40.609444
                   ]
+            },
+            {
+                  "name": "Piscina do Centro Social e Paroquial de Recardães",
+                  "text": "Dieses Schwimmbad gehört zum Centro Social e Paroquial im Bereich der Fahrradindustrie von Águeda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.465259,
+                        40.562091
+                  ]
             }
       ],
       "hu": [
@@ -2219,6 +2444,15 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.462433,
                         40.609444
+                  ]
+            },
+            {
+                  "name": "Piscina do Centro Social e Paroquial de Recardães",
+                  "text": "Ez az úszómedence a Centro Social e Paroquial része az Águeda kerékpáripari negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.465259,
+                        40.562091
                   ]
             }
       ],
@@ -2285,6 +2519,15 @@ export const portugalEconomicV2: POI[] = [
                         -8.462433,
                         40.609444
                   ]
+            },
+            {
+                  "name": "Piscina do Centro Social e Paroquial de Recardães",
+                  "text": "Această piscină face parte din Centro Social e Paroquial din zona industriei de biciclete Águeda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.465259,
+                        40.562091
+                  ]
             }
       ],
       "en": [
@@ -2349,6 +2592,15 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.462433,
                         40.609444
+                  ]
+            },
+            {
+                  "name": "Piscina do Centro Social e Paroquial de Recardães",
+                  "text": "This swimming pool is part of the Centro Social e Paroquial in the Águeda Bicycle Industry area.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.465259,
+                        40.562091
                   ]
             }
       ]
@@ -2577,7 +2829,232 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-mafra-dairy-economic-v2.webp",
   },
   {
-    id: "portugal-tavira-salt-economic-v2",
+    id: "portugal-tavira-salt-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Rato",
+                  "text": "Ein Strand in der Nähe der Salinen von Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.62473,
+                        37.118322
+                  ]
+            },
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "Ein Strand auf der Insel Tavira in der Nähe der Salinen.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639369,
+                        37.098758
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "Ein beliebter Strand auf der Insel Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.621066,
+                        37.110102
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Ein Strandabschnitt an der Ria Formosa in Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623792,
+                        37.115113
+                  ]
+            },
+            {
+                  "name": "Praia de Cabanas",
+                  "text": "Ein Strand im Viertel Cabanas bei Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.590938,
+                        37.132927
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "Ein Strand in der Nähe des historischen Festungsgeländes in Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.612359,
+                        37.120576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Rato",
+                  "text": "Strand a Tavira sólepárlók közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.62473,
+                        37.118322
+                  ]
+            },
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "Strand a Tavira-szigeten, a sólepárlók közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639369,
+                        37.098758
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "Népszerű strand a Tavira-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.621066,
+                        37.110102
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Strandterület a Ria Formosa mentén Taviránál.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623792,
+                        37.115113
+                  ]
+            },
+            {
+                  "name": "Praia de Cabanas",
+                  "text": "Strand Cabanas területén, Tavira közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.590938,
+                        37.132927
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "Strand a történelmi erőd közelében Taviránál.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.612359,
+                        37.120576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Rato",
+                  "text": "O plajă situată lângă salinele din Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.62473,
+                        37.118322
+                  ]
+            },
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "O plajă situată pe insula Tavira, lângă saline.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639369,
+                        37.098758
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "O plajă populară pe insula Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.621066,
+                        37.110102
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "O zonă de plajă situată de-a lungul Ria Formosa în Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623792,
+                        37.115113
+                  ]
+            },
+            {
+                  "name": "Praia de Cabanas",
+                  "text": "O plajă situată în zona Cabanas, lângă Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.590938,
+                        37.132927
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "O plajă situată lângă zona cetății istorice din Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.612359,
+                        37.120576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Rato",
+                  "text": "A beach located near the Tavira Salt Pans.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.62473,
+                        37.118322
+                  ]
+            },
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "A beach located on the Tavira Island near the salt pans.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639369,
+                        37.098758
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "A popular beach on Tavira Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.621066,
+                        37.110102
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "A beach area situated along the Ria Formosa in Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623792,
+                        37.115113
+                  ]
+            },
+            {
+                  "name": "Praia de Cabanas",
+                  "text": "A beach located in the Cabanas area near Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.590938,
+                        37.132927
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "A beach located near the historical fort area in Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.612359,
+                        37.120576
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Salinen von Tavira", hu: "Tavira Sóbányák", ro: "Salinele Tavira", en: "Tavira Salt Pans" },

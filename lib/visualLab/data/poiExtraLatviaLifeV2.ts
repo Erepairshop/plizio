@@ -634,6 +634,15 @@ export const latviaLifeV2: POI[] = [
                         23.458559,
                         57.035231
                   ]
+            },
+            {
+                  "name": "Gausās jūdzes Kuplās priedes pludmale",
+                  "text": "Dieser naturbelassene Strand liegt im Dünen-Naturschutzgebiet und bietet Ruhe an der lettischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403706,
+                        57.039191
+                  ]
             }
       ],
       "hu": [
@@ -671,6 +680,15 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         23.458559,
                         57.035231
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Kuplās priedes pludmale",
+                  "text": "Ez a természetes tengerpart a Dűne Természetvédelmi Területen található, nyugalmat árasztva a lett parton.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403706,
+                        57.039191
                   ]
             }
       ],
@@ -710,6 +728,15 @@ export const latviaLifeV2: POI[] = [
                         23.458559,
                         57.035231
                   ]
+            },
+            {
+                  "name": "Gausās jūdzes Kuplās priedes pludmale",
+                  "text": "Această plajă naturală se află în Rezervația Naturală Dune, oferind liniște pe coasta letonă.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403706,
+                        57.039191
+                  ]
             }
       ],
       "en": [
@@ -747,6 +774,15 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         23.458559,
                         57.035231
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Kuplās priedes pludmale",
+                  "text": "This natural beach is located within the Dune Nature Reserve, offering tranquility on the Latvian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403706,
+                        57.039191
                   ]
             }
       ]
@@ -1813,6 +1849,15 @@ export const latviaLifeV2: POI[] = [
                         27.411997,
                         56.277962
                   ]
+            },
+            {
+                  "name": "Rāznas publiskā pludmale Lipuškos",
+                  "text": "Ein öffentlicher Strand am Rāzna-See im Nationalpark, der Bade- und Erholungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        27.438945,
+                        56.29161
+                  ]
             }
       ],
       "hu": [
@@ -1832,6 +1877,15 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         27.411997,
                         56.277962
+                  ]
+            },
+            {
+                  "name": "Rāznas publiskā pludmale Lipuškos",
+                  "text": "Nyilvános strand a Rāzna-tónál a nemzeti parkban, amely fürdési és pihenési lehetőséget biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        27.438945,
+                        56.29161
                   ]
             }
       ],
@@ -1853,6 +1907,15 @@ export const latviaLifeV2: POI[] = [
                         27.411997,
                         56.277962
                   ]
+            },
+            {
+                  "name": "Rāznas publiskā pludmale Lipuškos",
+                  "text": "O plajă publică pe lacul Rāzna în parcul național, oferind oportunități de scăldat și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        27.438945,
+                        56.29161
+                  ]
             }
       ],
       "en": [
@@ -1872,6 +1935,15 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         27.411997,
                         56.277962
+                  ]
+            },
+            {
+                  "name": "Rāznas publiskā pludmale Lipuškos",
+                  "text": "A public beach on Lake Rāzna in the national park, offering swimming and recreation opportunities.",
+                  "category": "recreational",
+                  "coords": [
+                        27.438945,
+                        56.29161
                   ]
             }
       ]

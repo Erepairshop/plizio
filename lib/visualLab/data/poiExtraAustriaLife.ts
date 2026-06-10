@@ -441,6 +441,42 @@ export const poiExtraAustriaLife: POI[] = [
                         12.609279,
                         47.497651
                   ]
+            },
+            {
+                  "name": "Alpensportbad",
+                  "text": "Ein Sport- und Freizeitbad in den Alpen mit verschiedenen Wasserbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574484,
+                        47.528331
+                  ]
+            },
+            {
+                  "name": "Kleintierpark Großlehen",
+                  "text": "Ein kleiner Tierpark, der besonders für Kinder und Familien geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.525533,
+                        47.485122
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "Ein öffentliches Freibad für sommerliches Schwimmvergnügen im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        12.537615,
+                        47.482411
+                  ]
+            },
+            {
+                  "name": "Freibad Lauchsee",
+                  "text": "Ein Moorbad am Lauchsee, das für sein heilkräftiges Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.534873,
+                        47.471012
+                  ]
             }
       ],
       "hu": [
@@ -514,6 +550,42 @@ export const poiExtraAustriaLife: POI[] = [
                   "coords": [
                         12.609279,
                         47.497651
+                  ]
+            },
+            {
+                  "name": "Alpensportbad",
+                  "text": "Alpesi sport- és élményfürdő különféle vizes medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574484,
+                        47.528331
+                  ]
+            },
+            {
+                  "name": "Kleintierpark Großlehen",
+                  "text": "Kisebb állatpark, amely különösen gyerekek és családok számára ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        12.525533,
+                        47.485122
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "Nyilvános szabadtéri fürdő a nyári úszás öröméért.",
+                  "category": "recreational",
+                  "coords": [
+                        12.537615,
+                        47.482411
+                  ]
+            },
+            {
+                  "name": "Freibad Lauchsee",
+                  "text": "Lápos vizű fürdőhely a Lauchsee-nél, amely gyógyhatású vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        12.534873,
+                        47.471012
                   ]
             }
       ],
@@ -589,6 +661,42 @@ export const poiExtraAustriaLife: POI[] = [
                         12.609279,
                         47.497651
                   ]
+            },
+            {
+                  "name": "Alpensportbad",
+                  "text": "O piscină de sport și agrement în Alpi, cu diverse bazine.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574484,
+                        47.528331
+                  ]
+            },
+            {
+                  "name": "Kleintierpark Großlehen",
+                  "text": "Un mic parc de animale, potrivit în special pentru copii și familii.",
+                  "category": "recreational",
+                  "coords": [
+                        12.525533,
+                        47.485122
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "O piscină publică în aer liber pentru plăcerea înotului pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        12.537615,
+                        47.482411
+                  ]
+            },
+            {
+                  "name": "Freibad Lauchsee",
+                  "text": "O baie de turbă la Lauchsee, cunoscută pentru proprietățile curative ale apei.",
+                  "category": "recreational",
+                  "coords": [
+                        12.534873,
+                        47.471012
+                  ]
             }
       ],
       "en": [
@@ -662,6 +770,42 @@ export const poiExtraAustriaLife: POI[] = [
                   "coords": [
                         12.609279,
                         47.497651
+                  ]
+            },
+            {
+                  "name": "Alpensportbad",
+                  "text": "A sports and leisure pool in the Alps with various water basins.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574484,
+                        47.528331
+                  ]
+            },
+            {
+                  "name": "Kleintierpark Großlehen",
+                  "text": "A small animal park, especially suitable for children and families.",
+                  "category": "recreational",
+                  "coords": [
+                        12.525533,
+                        47.485122
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "A public outdoor pool for summer swimming enjoyment.",
+                  "category": "recreational",
+                  "coords": [
+                        12.537615,
+                        47.482411
+                  ]
+            },
+            {
+                  "name": "Freibad Lauchsee",
+                  "text": "A moor bath at Lauchsee known for its healing water properties.",
+                  "category": "recreational",
+                  "coords": [
+                        12.534873,
+                        47.471012
                   ]
             }
       ]

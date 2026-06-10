@@ -2797,7 +2797,1204 @@ image: "/poi-images/ge-poti-cities-v2.webp",
     },
   },
   {
-    id: "ge-sokhumi-cities-v2", "sights": {"de": [{"name": "Abchasisches Staatsmuseum", "text": "Das Abchasische Staatsmuseum ist das Hauptmuseum in Sochumi, das die reiche Geschichte und Kultur der Region dokumentiert.", "category": "museum", "coords": [41.022939, 43.00396]}, {"name": "Russisches Fasil-Iskander-Dramatheater", "text": "Das Russische Dramatheater Fasil Iskander ist eine bedeutende Theaterinstitution in Sochumi.", "category": "cultural", "coords": [41.024254, 43.00003]}, {"name": "Abchasisches Staatliches Dramentheater", "text": "Das Abchasische Staatliche Dramatheater ist ein führender Veranstaltungsort für dramatische Künste in Sochumi.", "category": "cultural", "coords": [41.025311, 42.999825]}, {"name": "Literaturno-memorialnyi muzei D. Gulia", "text": "Das Literatur- und Gedenkmuseum D. Gulia in Sochumi widmet sich dem Erbe des abchasischen Schriftstellers Dmitri Gulia.", "category": "museum", "coords": [41.01646, 43.002974]}, {"name": "Yakhont", "text": "Yakhont ist ein bemerkenswertes historisches Schlossgebäude in der Stadt Sochumi.", "category": "castle", "coords": [41.020404, 42.998433]}, {"name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii", "text": "Das Staatliche Ensemble für Volksgesang und Tanz Abchasiens präsentiert traditionelle Künste an diesem Theater in Sochumi.", "category": "cultural", "coords": [41.026681, 43.00043]}, {"name": "Nauchno-issledovatelskii institut eksperimentalnoi patologii i terapii AN Abkhazii (NIIEPiT)", "text": "Dieses Forschungsinstitut in Sochumi unterhält ein bekanntes Primatenschutzgebiet, das ähnlich wie ein spezialisierter Zoo betrieben wird.", "category": "family", "coords": [41.021931, 43.010344]}, {"name": "Fasil-Iskander-Museum", "text": "Das Fazil-Iskander-Museum in Sochumi feiert das Leben und die literarischen Werke des berühmten Autors Fazil Iskander.", "category": "museum", "coords": [41.01595, 43.006025]}, {"name": "plyazh Aitar", "text": "пляж Айтар ist ein Strand in Sochumi.", "category": "recreational", "coords": [41.052178, 42.987688]}, {"name": "Dioskuriada", "text": "Dioscurias ist eine archäologische Stätte in Sochumi.", "category": "historical", "coords": [41.018169, 42.995354]}, {"name": "Tsentralnyi plyazh", "text": "Центральный пляж ist ein Strand in Sochumi.", "category": "recreational", "coords": [41.005912, 42.995539]}, {"name": "Plyazh sanatoriya \"Sukhum\"", "text": "Пляж санатория \"Сухум\" ist ein Strand in Sochumi.", "category": "recreational", "coords": [41.034531, 42.998063]}, {"name": "Plyazh sanatoriya MVO", "text": "Пляж санатория МВО ist ein Strand in Sochumi.", "category": "recreational", "coords": [41.039558, 42.996661]}, {"name": "\"Sobachii\" plyazh", "text": "\"Собачий\" пляж ist ein Strand in Sochumi.", "category": "recreational", "coords": [41.026722, 42.998811]}, {"name": "Plyazh Lokomotiv", "text": "Пляж Локомотив ist ein Strand in Sochumi.", "category": "recreational", "coords": [41.042897, 42.995137]}, {"name": "Sukhumskaya gora", "text": "Сухумская гора ist ein Berggipfel in Sochumi. Dieser Berg ist bekannt für seine schöne Aussicht und den Fernsehturm.", "category": "natural", "coords": [41.032739, 43.0112]}, {"name": "Bagrat-Festung", "text": "Bagrat Fortress sind historische Ruinen in Sochumi. Die Festung wurde im 10. bis 11. Jahrhundert erbaut.", "category": "historical", "coords": [41.046119, 43.000133]}, {"name": "Gostinitsa Abkhaziya", "text": "Гостиница Абхазия sind Ruinen in Sochumi.", "category": "historical", "coords": [41.023683, 42.998994]}, {"name": "krasivyi vid na g. Sukhum", "text": "красивый вид на г. Сухум ist ein Aussichtspunkt in Sochumi.", "category": "natural", "coords": [41.033654, 43.005201]}, {"name": "Zarosshaya ploshchadka", "text": "Заросшая площадка ist ein Aussichtspunkt in Sochumi.", "category": "natural", "coords": [41.032063, 43.009734]}, {"name": "Yakht-Klub", "text": "Яхт-Клуб ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.024324, 42.997472]}, {"name": "Naberezhnaya Dioskurov", "text": "Набережная Диоскуров ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.019256, 42.995828]}, {"name": "Dom i pekarnya S.Kh. Alkhazova", "text": "Дом и пекарня С.Х. Алхазова ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.030399, 43.000817]}, {"name": "Zelenyi dom Konstantina Tuzhba", "text": "Зелёный дом Константина Тужба ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.026402, 43.003305]}, {"name": "Ogromnaya lipa", "text": "Огромная липа ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.022838, 43.006473]}, {"name": "Dacha A. S. Averkieva", "text": "Дача А. С. Аверкиева ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.036066, 43.004266]}, {"name": "Villa Aloizi", "text": "Вилла Алоизи ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.029699, 43.00548]}, {"name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach", "text": "Детская школа искусств № 1 имени К.В. Ковач ist ein Kunstzentrum in Sochumi.", "category": "cultural", "coords": [41.031532, 43.005574]}, {"name": "Dom gofmeistera G.D. Chachba", "text": "Дом гофмейстера Г.Д. Чачба ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.031596, 43.003579]}, {"name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki", "text": "Здание Верховного совета Абхазской Советской Социалистической Республики ist eine Attraktion in Sochumi.", "category": "landmark", "coords": [41.019093, 43.004169]}, {"name": "Sukhumskii Kafedralnyi sobor Blagoveshcheniya Presvyatoi Bogoroditsy", "text": "Sukhumi Cathedral of the Annunciation ist eine Kultstätte in Sochumi. Die Kathedrale wurde 1915 im byzantinischen Stil erbaut.", "category": "religious", "coords": [41.014524, 43.006065]}], "hu": [{"name": "Abház Állami Múzeum Szohumi legfőbb múzeuma, amely", "text": "Az Abház Állami Múzeum Szohumi legfőbb múzeuma, amely a régió gazdag történelmét és kultúráját mutatja be.", "category": "museum", "coords": [41.022939, 43.00396]}, {"name": "Russkii dramaticheskii teatr im. F. A. Iskandera", "text": "A Fazil Iszkander Orosz Drámaszínház egy kiemelkedő színházi intézmény Szohumiban.", "category": "cultural", "coords": [41.024254, 43.00003]}, {"name": "Abkhazskii dramaticheskii teatr im. S. Chanba", "text": "Az Abház Állami Drámaszínház egy vezető előadóhely Szohumiban, amelyet a drámaművészeteknek szenteltek.", "category": "cultural", "coords": [41.025311, 42.999825]}, {"name": "Literaturno-memorialnyi muzei D. Gulia", "text": "A D. Gulia Irodalmi és Emlékmúzeum Szohumiban az abház író, Dmitrij Gulia örökségének állít emléket.", "category": "museum", "coords": [41.01646, 43.002974]}, {"name": "Yakhont", "text": "A Yakhont egy figyelemre méltó történelmi kastélyépület Szohumi városában.", "category": "castle", "coords": [41.020404, 42.998433]}, {"name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii", "text": "Az Abház Állami Népdal- és Táncegyüttes hagyományos művészeti előadásokat tart ebben a szohumi színházban.", "category": "cultural", "coords": [41.026681, 43.00043]}, {"name": "Nauchno-issledovatelskii institut eksperimentalnoi patologii i terapii AN Abkhazii (NIIEPiT)", "text": "Ez a szohumi kutatóintézet egy híres főemlős-rezervátumot tart fenn, amely egy specializált állatkerthez hasonlóan működik.", "category": "family", "coords": [41.021931, 43.010344]}, {"name": "Fazil Iszkander Múzeum Szohumiban", "text": "A Fazil Iszkander Múzeum Szohumiban a híres író, Fazil Iszkander életét és irodalmi munkásságát ünnepli.", "category": "museum", "coords": [41.01595, 43.006025]}, {"name": "plyazh Aitar", "text": "A пляж Айтар egy strand Sochumi városában.", "category": "recreational", "coords": [41.052178, 42.987688]}, {"name": "Dioskuriada", "text": "Dioscurias egy régészeti lelőhely Sochumi városában.", "category": "historical", "coords": [41.018169, 42.995354]}, {"name": "Tsentralnyi plyazh", "text": "A Центральный пляж egy strand Sochumi városában.", "category": "recreational", "coords": [41.005912, 42.995539]}, {"name": "Plyazh sanatoriya \"Sukhum\"", "text": "A Пляж санатория \"Сухум\" egy strand Sochumi városában.", "category": "recreational", "coords": [41.034531, 42.998063]}, {"name": "Plyazh sanatoriya MVO", "text": "A Пляж санатория МВО egy strand Sochumi városában.", "category": "recreational", "coords": [41.039558, 42.996661]}, {"name": "\"Sobachii\" plyazh", "text": "A \"Собачий\" пляж egy strand Sochumi városában.", "category": "recreational", "coords": [41.026722, 42.998811]}, {"name": "Plyazh Lokomotiv", "text": "A Пляж Локомотив egy strand Sochumi városában.", "category": "recreational", "coords": [41.042897, 42.995137]}, {"name": "Sukhumskaya gora", "text": "A Сухумская гора egy hegycsúcs Sochumi városában. A hegy ismert a gyönyörű kilátásról és a tévétoronyról.", "category": "natural", "coords": [41.032739, 43.0112]}, {"name": "Zamok Bagrata", "text": "A Bagrat Fortress egy történelmi rom Sochumi városában. Az erődöt a 10-11. században építették.", "category": "historical", "coords": [41.046119, 43.000133]}, {"name": "Gostinitsa Abkhaziya", "text": "A Гостиница Абхазия egy rom Sochumi városában.", "category": "historical", "coords": [41.023683, 42.998994]}, {"name": "krasivyi vid na g. Sukhum", "text": "A красивый вид на г. Сухум egy kilátópont Sochumi városában.", "category": "natural", "coords": [41.033654, 43.005201]}, {"name": "Zarosshaya ploshchadka", "text": "A Заросшая площадка egy kilátópont Sochumi városában.", "category": "natural", "coords": [41.032063, 43.009734]}, {"name": "Yakht-Klub", "text": "A Яхт-Клуб egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.024324, 42.997472]}, {"name": "Naberezhnaya Dioskurov", "text": "A Набережная Диоскуров egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.019256, 42.995828]}, {"name": "Dom i pekarnya S.Kh. Alkhazova", "text": "A Дом и пекарня С.Х. Алхазова egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.030399, 43.000817]}, {"name": "Zelenyi dom Konstantina Tuzhba", "text": "A Зелёный дом Константина Тужба egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.026402, 43.003305]}, {"name": "Ogromnaya lipa", "text": "Az Огромная липа egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.022838, 43.006473]}, {"name": "Dacha A. S. Averkieva", "text": "A Дача А. С. Аверкиева egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.036066, 43.004266]}, {"name": "Villa Aloizi", "text": "A Вилла Алоизи egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.029699, 43.00548]}, {"name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach", "text": "A Детская школа искусств № 1 имени К.В. Ковач egy művészeti központ Sochumi városában.", "category": "cultural", "coords": [41.031532, 43.005574]}, {"name": "Dom gofmeistera G.D. Chachba", "text": "A Дом гофмейстера Г.Д. Чачба egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.031596, 43.003579]}, {"name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki", "text": "A Здание Верховного совета Абхазской Советской Социалистической Республики egy látványosság Sochumi városában.", "category": "landmark", "coords": [41.019093, 43.004169]}, {"name": "Sukhumskii Kafedralnyi sobor Blagoveshcheniya Presvyatoi Bogoroditsy", "text": "A Sukhumi Cathedral of the Annunciation egy vallási épület Sochumi városában. A katedrálist 1915-ben építették bizánci stílusban.", "category": "religious", "coords": [41.014524, 43.006065]}], "ro": [{"name": "Muzeul de Stat Abhaz", "text": "Muzeul de Stat Abhaz este principalul muzeu din Sochumi care detaliază bogata istorie și cultură a regiunii.", "category": "museum", "coords": [41.022939, 43.00396]}, {"name": "Russkii dramaticheskii teatr im. F. A. Iskandera", "text": "Teatrul Dramatic Rus Fazil Iskander este o instituție teatrală proeminentă din Sochumi.", "category": "cultural", "coords": [41.024254, 43.00003]}, {"name": "Abkhazskii dramaticheskii teatr im. S. Chanba", "text": "Teatrul Dramatic de Stat Abhaz este un spațiu de spectacol de top din Sochumi dedicat artelor dramatice.", "category": "cultural", "coords": [41.025311, 42.999825]}, {"name": "Literaturno-memorialnyi muzei D. Gulia", "text": "Muzeul Literar-Memorial D. Gulia din Sochumi este dedicat moștenirii scriitorului abhaz Dmitri Gulia.", "category": "museum", "coords": [41.01646, 43.002974]}, {"name": "Yakhont", "text": "Yakhont este o structură notabilă a unui castel istoric, situată în orașul Sochumi.", "category": "castle", "coords": [41.020404, 42.998433]}, {"name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii", "text": "Ansamblul de Stat de Cântece și Dansuri Populare al Abhaziei interpretează arte tradiționale la acest teatru din Sochumi.", "category": "cultural", "coords": [41.026681, 43.00043]}, {"name": "Nauchno-issledovatelskii institut eksperimentalnoi patologii i terapii AN Abkhazii (NIIEPiT)", "text": "Acest institut de cercetare din Sochumi menține un faimos sanctuar de primate care funcționează similar cu o grădină zoologică specializată.", "category": "family", "coords": [41.021931, 43.010344]}, {"name": "Fazil Iskander Museum", "text": "Muzeul Fazil Iskander din Sochumi celebrează viața și operele literare ale celebrului autor Fazil Iskander.", "category": "museum", "coords": [41.01595, 43.006025]}, {"name": "plyazh Aitar", "text": "пляж Айтар este o plajă în Sochumi.", "category": "recreational", "coords": [41.052178, 42.987688]}, {"name": "Dioskuriada", "text": "Dioscurias este un sit arheologic în Sochumi.", "category": "historical", "coords": [41.018169, 42.995354]}, {"name": "Tsentralnyi plyazh", "text": "Центральный пляж este o plajă în Sochumi.", "category": "recreational", "coords": [41.005912, 42.995539]}, {"name": "Plyazh sanatoriya \"Sukhum\"", "text": "Пляж санатория \"Сухум\" este o plajă în Sochumi.", "category": "recreational", "coords": [41.034531, 42.998063]}, {"name": "Plyazh sanatoriya MVO", "text": "Пляж санатория МВО este o plajă în Sochumi.", "category": "recreational", "coords": [41.039558, 42.996661]}, {"name": "\"Sobachii\" plyazh", "text": "\"Собачий\" пляж este o plajă în Sochumi.", "category": "recreational", "coords": [41.026722, 42.998811]}, {"name": "Plyazh Lokomotiv", "text": "Пляж Локомотив este o plajă în Sochumi.", "category": "recreational", "coords": [41.042897, 42.995137]}, {"name": "Sukhumskaya gora", "text": "Сухумская гора este un vârf montan în Sochumi. Acest munte este cunoscut pentru priveliștile sale frumoase și turnul TV.", "category": "natural", "coords": [41.032739, 43.0112]}, {"name": "Zamok Bagrata", "text": "Bagrat Fortress reprezintă ruine istorice în Sochumi. Fortăreața a fost construită în secolele X-XI.", "category": "historical", "coords": [41.046119, 43.000133]}, {"name": "Gostinitsa Abkhaziya", "text": "Гостиница Абхазия reprezintă ruine în Sochumi.", "category": "historical", "coords": [41.023683, 42.998994]}, {"name": "krasivyi vid na g. Sukhum", "text": "красивый вид на г. Сухум este un punct de belvedere în Sochumi.", "category": "natural", "coords": [41.033654, 43.005201]}, {"name": "Zarosshaya ploshchadka", "text": "Заросшая площадка este un punct de belvedere în Sochumi.", "category": "natural", "coords": [41.032063, 43.009734]}, {"name": "Yakht-Klub", "text": "Яхт-Клуб este o atracție în Sochumi.", "category": "landmark", "coords": [41.024324, 42.997472]}, {"name": "Naberezhnaya Dioskurov", "text": "Набережная Диоскуров este o atracție în Sochumi.", "category": "landmark", "coords": [41.019256, 42.995828]}, {"name": "Dom i pekarnya S.Kh. Alkhazova", "text": "Дом и пекарня С.Х. Алхазова este o atracție în Sochumi.", "category": "landmark", "coords": [41.030399, 43.000817]}, {"name": "Zelenyi dom Konstantina Tuzhba", "text": "Зелёный дом Константина Тужба este o atracție în Sochumi.", "category": "landmark", "coords": [41.026402, 43.003305]}, {"name": "Ogromnaya lipa", "text": "Огромная липа este o atracție în Sochumi.", "category": "landmark", "coords": [41.022838, 43.006473]}, {"name": "Dacha A. S. Averkieva", "text": "Дача А. С. Аверкиева este o atracție în Sochumi.", "category": "landmark", "coords": [41.036066, 43.004266]}, {"name": "Villa Aloizi", "text": "Вилла Алоизи este o atracție în Sochumi.", "category": "landmark", "coords": [41.029699, 43.00548]}, {"name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach", "text": "Детская школа искусств № 1 имени К.В. Ковач este un centru de arte în Sochumi.", "category": "cultural", "coords": [41.031532, 43.005574]}, {"name": "Dom gofmeistera G.D. Chachba", "text": "Дом гофмейстера Г.Д. Чачба este o atracție în Sochumi.", "category": "landmark", "coords": [41.031596, 43.003579]}, {"name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki", "text": "Здание Верховного совета Абхазской Советской Социалистической Республики este o atracție în Sochumi.", "category": "landmark", "coords": [41.019093, 43.004169]}, {"name": "Sukhumskii Kafedralnyi sobor Blagoveshcheniya Presvyatoi Bogoroditsy", "text": "Sukhumi Cathedral of the Annunciation este un lăcaș de cult în Sochumi. Catedrala a fost construită în 1915 în stil bizantin.", "category": "religious", "coords": [41.014524, 43.006065]}], "en": [{"name": "Abkhazian State Museum", "text": "The Abkhazian State Museum is the principal museum in Sochumi detailing the region's rich history and culture.", "category": "museum", "coords": [41.022939, 43.00396]}, {"name": "Fazil Iskander Russian Drama Theatre", "text": "The Fazil Iskander Russian Drama Theatre is a prominent theatrical institution in Sochumi.", "category": "cultural", "coords": [41.024254, 43.00003]}, {"name": "Abkhaz State Drama Theatre", "text": "The Abkhaz State Drama Theatre is a leading performance space in Sochumi dedicated to the dramatic arts.", "category": "cultural", "coords": [41.025311, 42.999825]}, {"name": "Literaturno-memorialnyi muzei D. Gulia", "text": "The D. Gulia Literary-Memorial Museum in Sochumi is dedicated to the legacy of the Abkhazian writer Dmitry Gulia.", "category": "museum", "coords": [41.01646, 43.002974]}, {"name": "Yakhont", "text": "Yakhont is a notable historic castle structure located in the city of Sochumi.", "category": "castle", "coords": [41.020404, 42.998433]}, {"name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii", "text": "The State Ensemble of Folk Song and Dance of Abkhazia performs traditional arts at this theatre in Sochumi.", "category": "cultural", "coords": [41.026681, 43.00043]}, {"name": "Research Institute of Experimental Pathology and Therapy, Academy of Sciences of Abkhazia", "text": "This research institute in Sochumi famously maintains a primate sanctuary that operates similar to a specialized zoo.", "category": "family", "coords": [41.021931, 43.010344]}, {"name": "Fazil Iskander Museum", "text": "The Fazil Iskander Museum in Sochumi celebrates the life and literary works of the famous author Fazil Iskander.", "category": "museum", "coords": [41.01595, 43.006025]}, {"name": "plyazh Aitar", "text": "пляж Айтар is a beach in Sochumi.", "category": "recreational", "coords": [41.052178, 42.987688]}, {"name": "Dioscurias", "text": "Dioscurias is an archaeological site in Sochumi.", "category": "historical", "coords": [41.018169, 42.995354]}, {"name": "Tsentralnyi plyazh", "text": "Центральный пляж is a beach in Sochumi.", "category": "recreational", "coords": [41.005912, 42.995539]}, {"name": "Plyazh sanatoriya \"Sukhum\"", "text": "Пляж санатория \"Сухум\" is a beach in Sochumi.", "category": "recreational", "coords": [41.034531, 42.998063]}, {"name": "Plyazh sanatoriya MVO", "text": "Пляж санатория МВО is a beach in Sochumi.", "category": "recreational", "coords": [41.039558, 42.996661]}, {"name": "\"Sobachii\" plyazh", "text": "\"Собачий\" пляж is a beach in Sochumi.", "category": "recreational", "coords": [41.026722, 42.998811]}, {"name": "Plyazh Lokomotiv", "text": "Пляж Локомотив is a beach in Sochumi.", "category": "recreational", "coords": [41.042897, 42.995137]}, {"name": "Sukhumskaya gora", "text": "Сухумская гора is a mountain peak in Sochumi. This mountain is known for its beautiful views and TV tower.", "category": "natural", "coords": [41.032739, 43.0112]}, {"name": "Bagrat Fortress", "text": "Bagrat Fortress is a historic ruin in Sochumi. The fortress was built in the 10th to 11th centuries.", "category": "historical", "coords": [41.046119, 43.000133]}, {"name": "Gostinitsa Abkhaziya", "text": "Гостиница Абхазия is a ruin in Sochumi.", "category": "historical", "coords": [41.023683, 42.998994]}, {"name": "krasivyi vid na g. Sukhum", "text": "красивый вид на г. Сухум is a viewpoint in Sochumi.", "category": "natural", "coords": [41.033654, 43.005201]}, {"name": "Zarosshaya ploshchadka", "text": "Заросшая площадка is a viewpoint in Sochumi.", "category": "natural", "coords": [41.032063, 43.009734]}, {"name": "Yakht-Klub", "text": "Яхт-Клуб is an attraction in Sochumi.", "category": "landmark", "coords": [41.024324, 42.997472]}, {"name": "Naberezhnaya Dioskurov", "text": "Набережная Диоскуров is an attraction in Sochumi.", "category": "landmark", "coords": [41.019256, 42.995828]}, {"name": "Dom i pekarnya S.Kh. Alkhazova", "text": "Дом и пекарня С.Х. Алхазова is an attraction in Sochumi.", "category": "landmark", "coords": [41.030399, 43.000817]}, {"name": "Zelenyi dom Konstantina Tuzhba", "text": "Зелёный дом Константина Тужба is an attraction in Sochumi.", "category": "landmark", "coords": [41.026402, 43.003305]}, {"name": "Ogromnaya lipa", "text": "Огромная липа is an attraction in Sochumi.", "category": "landmark", "coords": [41.022838, 43.006473]}, {"name": "Dacha A. S. Averkieva", "text": "Дача А. С. Аверкиева is an attraction in Sochumi.", "category": "landmark", "coords": [41.036066, 43.004266]}, {"name": "Villa Aloizi", "text": "Вилла Алоизи is an attraction in Sochumi.", "category": "landmark", "coords": [41.029699, 43.00548]}, {"name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach", "text": "Детская школа искусств № 1 имени К.В. Ковач is an arts centre in Sochumi.", "category": "cultural", "coords": [41.031532, 43.005574]}, {"name": "Dom gofmeistera G.D. Chachba", "text": "Дом гофмейстера Г.Д. Чачба is an attraction in Sochumi.", "category": "landmark", "coords": [41.031596, 43.003579]}, {"name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki", "text": "Здание Верховного совета Абхазской Советской Социалистической Республики is an attraction in Sochumi.", "category": "landmark", "coords": [41.019093, 43.004169]}, {"name": "Sukhumi Cathedral of the Annunciation", "text": "Sukhumi Cathedral of the Annunciation is a place of worship in Sochumi. The cathedral was built in 1915 in the Byzantine style.", "category": "religious", "coords": [41.014524, 43.006065]}]},
+    id: "ge-sokhumi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abchasisches Staatsmuseum",
+                  "text": "Das Abchasische Staatsmuseum ist das Hauptmuseum in Sochumi, das die reiche Geschichte und Kultur der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        41.022939,
+                        43.00396
+                  ]
+            },
+            {
+                  "name": "Russisches Fasil-Iskander-Dramatheater",
+                  "text": "Das Russische Dramatheater Fasil Iskander ist eine bedeutende Theaterinstitution in Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.024254,
+                        43.00003
+                  ]
+            },
+            {
+                  "name": "Abchasisches Staatliches Dramentheater",
+                  "text": "Das Abchasische Staatliche Dramatheater ist ein führender Veranstaltungsort für dramatische Künste in Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.025311,
+                        42.999825
+                  ]
+            },
+            {
+                  "name": "Literaturno-memorialnyi muzei D. Gulia",
+                  "text": "Das Literatur- und Gedenkmuseum D. Gulia in Sochumi widmet sich dem Erbe des abchasischen Schriftstellers Dmitri Gulia.",
+                  "category": "museum",
+                  "coords": [
+                        41.01646,
+                        43.002974
+                  ]
+            },
+            {
+                  "name": "Yakhont",
+                  "text": "Yakhont ist ein bemerkenswertes historisches Schlossgebäude in der Stadt Sochumi.",
+                  "category": "castle",
+                  "coords": [
+                        41.020404,
+                        42.998433
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii",
+                  "text": "Das Staatliche Ensemble für Volksgesang und Tanz Abchasiens präsentiert traditionelle Künste an diesem Theater in Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.026681,
+                        43.00043
+                  ]
+            },
+            {
+                  "name": "Nauchno-issledovatelskii institut eksperimentalnoi patologii i terapii AN Abkhazii (NIIEPiT)",
+                  "text": "Dieses Forschungsinstitut in Sochumi unterhält ein bekanntes Primatenschutzgebiet, das ähnlich wie ein spezialisierter Zoo betrieben wird.",
+                  "category": "family",
+                  "coords": [
+                        41.021931,
+                        43.010344
+                  ]
+            },
+            {
+                  "name": "Fasil-Iskander-Museum",
+                  "text": "Das Fazil-Iskander-Museum in Sochumi feiert das Leben und die literarischen Werke des berühmten Autors Fazil Iskander.",
+                  "category": "museum",
+                  "coords": [
+                        41.01595,
+                        43.006025
+                  ]
+            },
+            {
+                  "name": "plyazh Aitar",
+                  "text": "пляж Айтар ist ein Strand in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.052178,
+                        42.987688
+                  ]
+            },
+            {
+                  "name": "Dioskuriada",
+                  "text": "Dioscurias ist eine archäologische Stätte in Sochumi.",
+                  "category": "historical",
+                  "coords": [
+                        41.018169,
+                        42.995354
+                  ]
+            },
+            {
+                  "name": "Tsentralnyi plyazh",
+                  "text": "Центральный пляж ist ein Strand in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.005912,
+                        42.995539
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya \"Sukhum\"",
+                  "text": "Пляж санатория \"Сухум\" ist ein Strand in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.034531,
+                        42.998063
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya MVO",
+                  "text": "Пляж санатория МВО ist ein Strand in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.039558,
+                        42.996661
+                  ]
+            },
+            {
+                  "name": "\"Sobachii\" plyazh",
+                  "text": "\"Собачий\" пляж ist ein Strand in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.026722,
+                        42.998811
+                  ]
+            },
+            {
+                  "name": "Plyazh Lokomotiv",
+                  "text": "Пляж Локомотив ist ein Strand in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.042897,
+                        42.995137
+                  ]
+            },
+            {
+                  "name": "Sukhumskaya gora",
+                  "text": "Сухумская гора ist ein Berggipfel in Sochumi. Dieser Berg ist bekannt für seine schöne Aussicht und den Fernsehturm.",
+                  "category": "natural",
+                  "coords": [
+                        41.032739,
+                        43.0112
+                  ]
+            },
+            {
+                  "name": "Bagrat-Festung",
+                  "text": "Bagrat Fortress sind historische Ruinen in Sochumi. Die Festung wurde im 10. bis 11. Jahrhundert erbaut.",
+                  "category": "historical",
+                  "coords": [
+                        41.046119,
+                        43.000133
+                  ]
+            },
+            {
+                  "name": "Gostinitsa Abkhaziya",
+                  "text": "Гостиница Абхазия sind Ruinen in Sochumi.",
+                  "category": "historical",
+                  "coords": [
+                        41.023683,
+                        42.998994
+                  ]
+            },
+            {
+                  "name": "krasivyi vid na g. Sukhum",
+                  "text": "красивый вид на г. Сухум ist ein Aussichtspunkt in Sochumi.",
+                  "category": "natural",
+                  "coords": [
+                        41.033654,
+                        43.005201
+                  ]
+            },
+            {
+                  "name": "Zarosshaya ploshchadka",
+                  "text": "Заросшая площадка ist ein Aussichtspunkt in Sochumi.",
+                  "category": "natural",
+                  "coords": [
+                        41.032063,
+                        43.009734
+                  ]
+            },
+            {
+                  "name": "Yakht-Klub",
+                  "text": "Яхт-Клуб ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.024324,
+                        42.997472
+                  ]
+            },
+            {
+                  "name": "Naberezhnaya Dioskurov",
+                  "text": "Набережная Диоскуров ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019256,
+                        42.995828
+                  ]
+            },
+            {
+                  "name": "Dom i pekarnya S.Kh. Alkhazova",
+                  "text": "Дом и пекарня С.Х. Алхазова ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.030399,
+                        43.000817
+                  ]
+            },
+            {
+                  "name": "Zelenyi dom Konstantina Tuzhba",
+                  "text": "Зелёный дом Константина Тужба ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.026402,
+                        43.003305
+                  ]
+            },
+            {
+                  "name": "Ogromnaya lipa",
+                  "text": "Огромная липа ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.022838,
+                        43.006473
+                  ]
+            },
+            {
+                  "name": "Dacha A. S. Averkieva",
+                  "text": "Дача А. С. Аверкиева ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.036066,
+                        43.004266
+                  ]
+            },
+            {
+                  "name": "Villa Aloizi",
+                  "text": "Вилла Алоизи ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.029699,
+                        43.00548
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
+                  "text": "Детская школа искусств № 1 имени К.В. Ковач ist ein Kunstzentrum in Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.031532,
+                        43.005574
+                  ]
+            },
+            {
+                  "name": "Dom gofmeistera G.D. Chachba",
+                  "text": "Дом гофмейстера Г.Д. Чачба ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.031596,
+                        43.003579
+                  ]
+            },
+            {
+                  "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
+                  "text": "Здание Верховного совета Абхазской Советской Социалистической Республики ist eine Attraktion in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019093,
+                        43.004169
+                  ]
+            },
+            {
+                  "name": "Sukhumskii Kafedralnyi sobor Blagoveshcheniya Presvyatoi Bogoroditsy",
+                  "text": "Sukhumi Cathedral of the Annunciation ist eine Kultstätte in Sochumi. Die Kathedrale wurde 1915 im byzantinischen Stil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        41.014524,
+                        43.006065
+                  ]
+            },
+            {
+                  "name": "Мокко (песчаный)",
+                  "text": "Mokko Beach ist ein Strand in Sokhumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.055551,
+                        42.985253
+                  ]
+            },
+            {
+                  "name": "пляж Айтар",
+                  "text": "пляж Айтар ist ein Strand in Sokhumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.05383,
+                        42.986912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abház Állami Múzeum Szohumi legfőbb múzeuma, amely",
+                  "text": "Az Abház Állami Múzeum Szohumi legfőbb múzeuma, amely a régió gazdag történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        41.022939,
+                        43.00396
+                  ]
+            },
+            {
+                  "name": "Russkii dramaticheskii teatr im. F. A. Iskandera",
+                  "text": "A Fazil Iszkander Orosz Drámaszínház egy kiemelkedő színházi intézmény Szohumiban.",
+                  "category": "cultural",
+                  "coords": [
+                        41.024254,
+                        43.00003
+                  ]
+            },
+            {
+                  "name": "Abkhazskii dramaticheskii teatr im. S. Chanba",
+                  "text": "Az Abház Állami Drámaszínház egy vezető előadóhely Szohumiban, amelyet a drámaművészeteknek szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        41.025311,
+                        42.999825
+                  ]
+            },
+            {
+                  "name": "Literaturno-memorialnyi muzei D. Gulia",
+                  "text": "A D. Gulia Irodalmi és Emlékmúzeum Szohumiban az abház író, Dmitrij Gulia örökségének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        41.01646,
+                        43.002974
+                  ]
+            },
+            {
+                  "name": "Yakhont",
+                  "text": "A Yakhont egy figyelemre méltó történelmi kastélyépület Szohumi városában.",
+                  "category": "castle",
+                  "coords": [
+                        41.020404,
+                        42.998433
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii",
+                  "text": "Az Abház Állami Népdal- és Táncegyüttes hagyományos művészeti előadásokat tart ebben a szohumi színházban.",
+                  "category": "cultural",
+                  "coords": [
+                        41.026681,
+                        43.00043
+                  ]
+            },
+            {
+                  "name": "Nauchno-issledovatelskii institut eksperimentalnoi patologii i terapii AN Abkhazii (NIIEPiT)",
+                  "text": "Ez a szohumi kutatóintézet egy híres főemlős-rezervátumot tart fenn, amely egy specializált állatkerthez hasonlóan működik.",
+                  "category": "family",
+                  "coords": [
+                        41.021931,
+                        43.010344
+                  ]
+            },
+            {
+                  "name": "Fazil Iszkander Múzeum Szohumiban",
+                  "text": "A Fazil Iszkander Múzeum Szohumiban a híres író, Fazil Iszkander életét és irodalmi munkásságát ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        41.01595,
+                        43.006025
+                  ]
+            },
+            {
+                  "name": "plyazh Aitar",
+                  "text": "A пляж Айтар egy strand Sochumi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        41.052178,
+                        42.987688
+                  ]
+            },
+            {
+                  "name": "Dioskuriada",
+                  "text": "Dioscurias egy régészeti lelőhely Sochumi városában.",
+                  "category": "historical",
+                  "coords": [
+                        41.018169,
+                        42.995354
+                  ]
+            },
+            {
+                  "name": "Tsentralnyi plyazh",
+                  "text": "A Центральный пляж egy strand Sochumi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        41.005912,
+                        42.995539
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya \"Sukhum\"",
+                  "text": "A Пляж санатория \"Сухум\" egy strand Sochumi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        41.034531,
+                        42.998063
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya MVO",
+                  "text": "A Пляж санатория МВО egy strand Sochumi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        41.039558,
+                        42.996661
+                  ]
+            },
+            {
+                  "name": "\"Sobachii\" plyazh",
+                  "text": "A \"Собачий\" пляж egy strand Sochumi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        41.026722,
+                        42.998811
+                  ]
+            },
+            {
+                  "name": "Plyazh Lokomotiv",
+                  "text": "A Пляж Локомотив egy strand Sochumi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        41.042897,
+                        42.995137
+                  ]
+            },
+            {
+                  "name": "Sukhumskaya gora",
+                  "text": "A Сухумская гора egy hegycsúcs Sochumi városában. A hegy ismert a gyönyörű kilátásról és a tévétoronyról.",
+                  "category": "natural",
+                  "coords": [
+                        41.032739,
+                        43.0112
+                  ]
+            },
+            {
+                  "name": "Zamok Bagrata",
+                  "text": "A Bagrat Fortress egy történelmi rom Sochumi városában. Az erődöt a 10-11. században építették.",
+                  "category": "historical",
+                  "coords": [
+                        41.046119,
+                        43.000133
+                  ]
+            },
+            {
+                  "name": "Gostinitsa Abkhaziya",
+                  "text": "A Гостиница Абхазия egy rom Sochumi városában.",
+                  "category": "historical",
+                  "coords": [
+                        41.023683,
+                        42.998994
+                  ]
+            },
+            {
+                  "name": "krasivyi vid na g. Sukhum",
+                  "text": "A красивый вид на г. Сухум egy kilátópont Sochumi városában.",
+                  "category": "natural",
+                  "coords": [
+                        41.033654,
+                        43.005201
+                  ]
+            },
+            {
+                  "name": "Zarosshaya ploshchadka",
+                  "text": "A Заросшая площадка egy kilátópont Sochumi városában.",
+                  "category": "natural",
+                  "coords": [
+                        41.032063,
+                        43.009734
+                  ]
+            },
+            {
+                  "name": "Yakht-Klub",
+                  "text": "A Яхт-Клуб egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.024324,
+                        42.997472
+                  ]
+            },
+            {
+                  "name": "Naberezhnaya Dioskurov",
+                  "text": "A Набережная Диоскуров egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019256,
+                        42.995828
+                  ]
+            },
+            {
+                  "name": "Dom i pekarnya S.Kh. Alkhazova",
+                  "text": "A Дом и пекарня С.Х. Алхазова egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.030399,
+                        43.000817
+                  ]
+            },
+            {
+                  "name": "Zelenyi dom Konstantina Tuzhba",
+                  "text": "A Зелёный дом Константина Тужба egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.026402,
+                        43.003305
+                  ]
+            },
+            {
+                  "name": "Ogromnaya lipa",
+                  "text": "Az Огромная липа egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.022838,
+                        43.006473
+                  ]
+            },
+            {
+                  "name": "Dacha A. S. Averkieva",
+                  "text": "A Дача А. С. Аверкиева egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.036066,
+                        43.004266
+                  ]
+            },
+            {
+                  "name": "Villa Aloizi",
+                  "text": "A Вилла Алоизи egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.029699,
+                        43.00548
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
+                  "text": "A Детская школа искусств № 1 имени К.В. Ковач egy művészeti központ Sochumi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        41.031532,
+                        43.005574
+                  ]
+            },
+            {
+                  "name": "Dom gofmeistera G.D. Chachba",
+                  "text": "A Дом гофмейстера Г.Д. Чачба egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.031596,
+                        43.003579
+                  ]
+            },
+            {
+                  "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
+                  "text": "A Здание Верховного совета Абхазской Советской Социалистической Республики egy látványosság Sochumi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019093,
+                        43.004169
+                  ]
+            },
+            {
+                  "name": "Sukhumskii Kafedralnyi sobor Blagoveshcheniya Presvyatoi Bogoroditsy",
+                  "text": "A Sukhumi Cathedral of the Annunciation egy vallási épület Sochumi városában. A katedrálist 1915-ben építették bizánci stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        41.014524,
+                        43.006065
+                  ]
+            },
+            {
+                  "name": "Мокко (песчаный)",
+                  "text": "A Mokko Beach egy strand Sokhumi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        41.055551,
+                        42.985253
+                  ]
+            },
+            {
+                  "name": "пляж Айтар",
+                  "text": "A пляж Айтар egy strand Sokhumi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        41.05383,
+                        42.986912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Stat Abhaz",
+                  "text": "Muzeul de Stat Abhaz este principalul muzeu din Sochumi care detaliază bogata istorie și cultură a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        41.022939,
+                        43.00396
+                  ]
+            },
+            {
+                  "name": "Russkii dramaticheskii teatr im. F. A. Iskandera",
+                  "text": "Teatrul Dramatic Rus Fazil Iskander este o instituție teatrală proeminentă din Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.024254,
+                        43.00003
+                  ]
+            },
+            {
+                  "name": "Abkhazskii dramaticheskii teatr im. S. Chanba",
+                  "text": "Teatrul Dramatic de Stat Abhaz este un spațiu de spectacol de top din Sochumi dedicat artelor dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        41.025311,
+                        42.999825
+                  ]
+            },
+            {
+                  "name": "Literaturno-memorialnyi muzei D. Gulia",
+                  "text": "Muzeul Literar-Memorial D. Gulia din Sochumi este dedicat moștenirii scriitorului abhaz Dmitri Gulia.",
+                  "category": "museum",
+                  "coords": [
+                        41.01646,
+                        43.002974
+                  ]
+            },
+            {
+                  "name": "Yakhont",
+                  "text": "Yakhont este o structură notabilă a unui castel istoric, situată în orașul Sochumi.",
+                  "category": "castle",
+                  "coords": [
+                        41.020404,
+                        42.998433
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii",
+                  "text": "Ansamblul de Stat de Cântece și Dansuri Populare al Abhaziei interpretează arte tradiționale la acest teatru din Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.026681,
+                        43.00043
+                  ]
+            },
+            {
+                  "name": "Nauchno-issledovatelskii institut eksperimentalnoi patologii i terapii AN Abkhazii (NIIEPiT)",
+                  "text": "Acest institut de cercetare din Sochumi menține un faimos sanctuar de primate care funcționează similar cu o grădină zoologică specializată.",
+                  "category": "family",
+                  "coords": [
+                        41.021931,
+                        43.010344
+                  ]
+            },
+            {
+                  "name": "Fazil Iskander Museum",
+                  "text": "Muzeul Fazil Iskander din Sochumi celebrează viața și operele literare ale celebrului autor Fazil Iskander.",
+                  "category": "museum",
+                  "coords": [
+                        41.01595,
+                        43.006025
+                  ]
+            },
+            {
+                  "name": "plyazh Aitar",
+                  "text": "пляж Айтар este o plajă în Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.052178,
+                        42.987688
+                  ]
+            },
+            {
+                  "name": "Dioskuriada",
+                  "text": "Dioscurias este un sit arheologic în Sochumi.",
+                  "category": "historical",
+                  "coords": [
+                        41.018169,
+                        42.995354
+                  ]
+            },
+            {
+                  "name": "Tsentralnyi plyazh",
+                  "text": "Центральный пляж este o plajă în Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.005912,
+                        42.995539
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya \"Sukhum\"",
+                  "text": "Пляж санатория \"Сухум\" este o plajă în Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.034531,
+                        42.998063
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya MVO",
+                  "text": "Пляж санатория МВО este o plajă în Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.039558,
+                        42.996661
+                  ]
+            },
+            {
+                  "name": "\"Sobachii\" plyazh",
+                  "text": "\"Собачий\" пляж este o plajă în Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.026722,
+                        42.998811
+                  ]
+            },
+            {
+                  "name": "Plyazh Lokomotiv",
+                  "text": "Пляж Локомотив este o plajă în Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.042897,
+                        42.995137
+                  ]
+            },
+            {
+                  "name": "Sukhumskaya gora",
+                  "text": "Сухумская гора este un vârf montan în Sochumi. Acest munte este cunoscut pentru priveliștile sale frumoase și turnul TV.",
+                  "category": "natural",
+                  "coords": [
+                        41.032739,
+                        43.0112
+                  ]
+            },
+            {
+                  "name": "Zamok Bagrata",
+                  "text": "Bagrat Fortress reprezintă ruine istorice în Sochumi. Fortăreața a fost construită în secolele X-XI.",
+                  "category": "historical",
+                  "coords": [
+                        41.046119,
+                        43.000133
+                  ]
+            },
+            {
+                  "name": "Gostinitsa Abkhaziya",
+                  "text": "Гостиница Абхазия reprezintă ruine în Sochumi.",
+                  "category": "historical",
+                  "coords": [
+                        41.023683,
+                        42.998994
+                  ]
+            },
+            {
+                  "name": "krasivyi vid na g. Sukhum",
+                  "text": "красивый вид на г. Сухум este un punct de belvedere în Sochumi.",
+                  "category": "natural",
+                  "coords": [
+                        41.033654,
+                        43.005201
+                  ]
+            },
+            {
+                  "name": "Zarosshaya ploshchadka",
+                  "text": "Заросшая площадка este un punct de belvedere în Sochumi.",
+                  "category": "natural",
+                  "coords": [
+                        41.032063,
+                        43.009734
+                  ]
+            },
+            {
+                  "name": "Yakht-Klub",
+                  "text": "Яхт-Клуб este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.024324,
+                        42.997472
+                  ]
+            },
+            {
+                  "name": "Naberezhnaya Dioskurov",
+                  "text": "Набережная Диоскуров este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019256,
+                        42.995828
+                  ]
+            },
+            {
+                  "name": "Dom i pekarnya S.Kh. Alkhazova",
+                  "text": "Дом и пекарня С.Х. Алхазова este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.030399,
+                        43.000817
+                  ]
+            },
+            {
+                  "name": "Zelenyi dom Konstantina Tuzhba",
+                  "text": "Зелёный дом Константина Тужба este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.026402,
+                        43.003305
+                  ]
+            },
+            {
+                  "name": "Ogromnaya lipa",
+                  "text": "Огромная липа este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.022838,
+                        43.006473
+                  ]
+            },
+            {
+                  "name": "Dacha A. S. Averkieva",
+                  "text": "Дача А. С. Аверкиева este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.036066,
+                        43.004266
+                  ]
+            },
+            {
+                  "name": "Villa Aloizi",
+                  "text": "Вилла Алоизи este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.029699,
+                        43.00548
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
+                  "text": "Детская школа искусств № 1 имени К.В. Ковач este un centru de arte în Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.031532,
+                        43.005574
+                  ]
+            },
+            {
+                  "name": "Dom gofmeistera G.D. Chachba",
+                  "text": "Дом гофмейстера Г.Д. Чачба este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.031596,
+                        43.003579
+                  ]
+            },
+            {
+                  "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
+                  "text": "Здание Верховного совета Абхазской Советской Социалистической Республики este o atracție în Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019093,
+                        43.004169
+                  ]
+            },
+            {
+                  "name": "Sukhumskii Kafedralnyi sobor Blagoveshcheniya Presvyatoi Bogoroditsy",
+                  "text": "Sukhumi Cathedral of the Annunciation este un lăcaș de cult în Sochumi. Catedrala a fost construită în 1915 în stil bizantin.",
+                  "category": "religious",
+                  "coords": [
+                        41.014524,
+                        43.006065
+                  ]
+            },
+            {
+                  "name": "Мокко (песчаный)",
+                  "text": "Mokko Beach este o plajă din Sokhumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.055551,
+                        42.985253
+                  ]
+            },
+            {
+                  "name": "пляж Айтар",
+                  "text": "пляж Айтар este o plajă din Sokhumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.05383,
+                        42.986912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abkhazian State Museum",
+                  "text": "The Abkhazian State Museum is the principal museum in Sochumi detailing the region's rich history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        41.022939,
+                        43.00396
+                  ]
+            },
+            {
+                  "name": "Fazil Iskander Russian Drama Theatre",
+                  "text": "The Fazil Iskander Russian Drama Theatre is a prominent theatrical institution in Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.024254,
+                        43.00003
+                  ]
+            },
+            {
+                  "name": "Abkhaz State Drama Theatre",
+                  "text": "The Abkhaz State Drama Theatre is a leading performance space in Sochumi dedicated to the dramatic arts.",
+                  "category": "cultural",
+                  "coords": [
+                        41.025311,
+                        42.999825
+                  ]
+            },
+            {
+                  "name": "Literaturno-memorialnyi muzei D. Gulia",
+                  "text": "The D. Gulia Literary-Memorial Museum in Sochumi is dedicated to the legacy of the Abkhazian writer Dmitry Gulia.",
+                  "category": "museum",
+                  "coords": [
+                        41.01646,
+                        43.002974
+                  ]
+            },
+            {
+                  "name": "Yakhont",
+                  "text": "Yakhont is a notable historic castle structure located in the city of Sochumi.",
+                  "category": "castle",
+                  "coords": [
+                        41.020404,
+                        42.998433
+                  ]
+            },
+            {
+                  "name": "Gosudarstvennyi ansambl narodnoi pesni i tantsa Abkhazii",
+                  "text": "The State Ensemble of Folk Song and Dance of Abkhazia performs traditional arts at this theatre in Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.026681,
+                        43.00043
+                  ]
+            },
+            {
+                  "name": "Research Institute of Experimental Pathology and Therapy, Academy of Sciences of Abkhazia",
+                  "text": "This research institute in Sochumi famously maintains a primate sanctuary that operates similar to a specialized zoo.",
+                  "category": "family",
+                  "coords": [
+                        41.021931,
+                        43.010344
+                  ]
+            },
+            {
+                  "name": "Fazil Iskander Museum",
+                  "text": "The Fazil Iskander Museum in Sochumi celebrates the life and literary works of the famous author Fazil Iskander.",
+                  "category": "museum",
+                  "coords": [
+                        41.01595,
+                        43.006025
+                  ]
+            },
+            {
+                  "name": "plyazh Aitar",
+                  "text": "пляж Айтар is a beach in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.052178,
+                        42.987688
+                  ]
+            },
+            {
+                  "name": "Dioscurias",
+                  "text": "Dioscurias is an archaeological site in Sochumi.",
+                  "category": "historical",
+                  "coords": [
+                        41.018169,
+                        42.995354
+                  ]
+            },
+            {
+                  "name": "Tsentralnyi plyazh",
+                  "text": "Центральный пляж is a beach in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.005912,
+                        42.995539
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya \"Sukhum\"",
+                  "text": "Пляж санатория \"Сухум\" is a beach in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.034531,
+                        42.998063
+                  ]
+            },
+            {
+                  "name": "Plyazh sanatoriya MVO",
+                  "text": "Пляж санатория МВО is a beach in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.039558,
+                        42.996661
+                  ]
+            },
+            {
+                  "name": "\"Sobachii\" plyazh",
+                  "text": "\"Собачий\" пляж is a beach in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.026722,
+                        42.998811
+                  ]
+            },
+            {
+                  "name": "Plyazh Lokomotiv",
+                  "text": "Пляж Локомотив is a beach in Sochumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.042897,
+                        42.995137
+                  ]
+            },
+            {
+                  "name": "Sukhumskaya gora",
+                  "text": "Сухумская гора is a mountain peak in Sochumi. This mountain is known for its beautiful views and TV tower.",
+                  "category": "natural",
+                  "coords": [
+                        41.032739,
+                        43.0112
+                  ]
+            },
+            {
+                  "name": "Bagrat Fortress",
+                  "text": "Bagrat Fortress is a historic ruin in Sochumi. The fortress was built in the 10th to 11th centuries.",
+                  "category": "historical",
+                  "coords": [
+                        41.046119,
+                        43.000133
+                  ]
+            },
+            {
+                  "name": "Gostinitsa Abkhaziya",
+                  "text": "Гостиница Абхазия is a ruin in Sochumi.",
+                  "category": "historical",
+                  "coords": [
+                        41.023683,
+                        42.998994
+                  ]
+            },
+            {
+                  "name": "krasivyi vid na g. Sukhum",
+                  "text": "красивый вид на г. Сухум is a viewpoint in Sochumi.",
+                  "category": "natural",
+                  "coords": [
+                        41.033654,
+                        43.005201
+                  ]
+            },
+            {
+                  "name": "Zarosshaya ploshchadka",
+                  "text": "Заросшая площадка is a viewpoint in Sochumi.",
+                  "category": "natural",
+                  "coords": [
+                        41.032063,
+                        43.009734
+                  ]
+            },
+            {
+                  "name": "Yakht-Klub",
+                  "text": "Яхт-Клуб is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.024324,
+                        42.997472
+                  ]
+            },
+            {
+                  "name": "Naberezhnaya Dioskurov",
+                  "text": "Набережная Диоскуров is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019256,
+                        42.995828
+                  ]
+            },
+            {
+                  "name": "Dom i pekarnya S.Kh. Alkhazova",
+                  "text": "Дом и пекарня С.Х. Алхазова is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.030399,
+                        43.000817
+                  ]
+            },
+            {
+                  "name": "Zelenyi dom Konstantina Tuzhba",
+                  "text": "Зелёный дом Константина Тужба is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.026402,
+                        43.003305
+                  ]
+            },
+            {
+                  "name": "Ogromnaya lipa",
+                  "text": "Огромная липа is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.022838,
+                        43.006473
+                  ]
+            },
+            {
+                  "name": "Dacha A. S. Averkieva",
+                  "text": "Дача А. С. Аверкиева is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.036066,
+                        43.004266
+                  ]
+            },
+            {
+                  "name": "Villa Aloizi",
+                  "text": "Вилла Алоизи is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.029699,
+                        43.00548
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv № 1 imeni K.V. Kovach",
+                  "text": "Детская школа искусств № 1 имени К.В. Ковач is an arts centre in Sochumi.",
+                  "category": "cultural",
+                  "coords": [
+                        41.031532,
+                        43.005574
+                  ]
+            },
+            {
+                  "name": "Dom gofmeistera G.D. Chachba",
+                  "text": "Дом гофмейстера Г.Д. Чачба is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.031596,
+                        43.003579
+                  ]
+            },
+            {
+                  "name": "Zdanie Verkhovnogo soveta Abkhazskoi Sovetskoi Sotsialisticheskoi Respubliki",
+                  "text": "Здание Верховного совета Абхазской Советской Социалистической Республики is an attraction in Sochumi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.019093,
+                        43.004169
+                  ]
+            },
+            {
+                  "name": "Sukhumi Cathedral of the Annunciation",
+                  "text": "Sukhumi Cathedral of the Annunciation is a place of worship in Sochumi. The cathedral was built in 1915 in the Byzantine style.",
+                  "category": "religious",
+                  "coords": [
+                        41.014524,
+                        43.006065
+                  ]
+            },
+            {
+                  "name": "Mokko Beach",
+                  "text": "Mokko Beach is a beach in Sokhumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.055551,
+                        42.985253
+                  ]
+            },
+            {
+                  "name": "пляж Айтар",
+                  "text": "пляж Айтар is a beach in Sokhumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.05383,
+                        42.986912
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GE-AB",
     coords: [41.0167, 43.0000],

@@ -328,6 +328,24 @@ export const northmacedoniaLifeV2: POI[] = [
                         21.219523,
                         41.010206
                   ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "Ein Schwimmbecken am Fluss im Nationalpark Pelister, ideal für ein erfrischendes Bad.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "Ein Schwimmbad in der natürlichen Umgebung des Pelister Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
+                  ]
             }
       ],
       "hu": [
@@ -383,6 +401,24 @@ export const northmacedoniaLifeV2: POI[] = [
                   "coords": [
                         21.219523,
                         41.010206
+                  ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "Folyóparti úszómedence a Pelister Nemzeti Parkban, ideális egy frissítő fürdőhöz.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "Úszómedence a Pelister Nemzeti Park természetes környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
                   ]
             }
       ],
@@ -440,6 +476,24 @@ export const northmacedoniaLifeV2: POI[] = [
                         21.219523,
                         41.010206
                   ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "O piscină la râu în Parcul Național Pelister, ideală pentru o baie revigorantă.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "O piscină situată în cadrul natural al Parcului Național Pelister.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
+                  ]
             }
       ],
       "en": [
@@ -495,6 +549,24 @@ export const northmacedoniaLifeV2: POI[] = [
                   "coords": [
                         21.219523,
                         41.010206
+                  ]
+            },
+            {
+                  "name": "Dihovo river pool",
+                  "text": "A river swimming pool in the Pelister National Park, ideal for a refreshing dip.",
+                  "category": "recreational",
+                  "coords": [
+                        21.255515,
+                        41.021581
+                  ]
+            },
+            {
+                  "name": "Basen Dihovo",
+                  "text": "A swimming pool located within the natural environment of the Pelister National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        21.257966,
+                        41.025937
                   ]
             }
       ]
@@ -3055,6 +3127,24 @@ export const northmacedoniaLifeV2: POI[] = [
                         22.710967,
                         41.205172
                   ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "Ein Schwimmbad und Barbereich in der Nähe des Dojran-Feuchtgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "Ein Schwimmbad am Rande des Dojran-Feuchtgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
+                  ]
             }
       ],
       "hu": [
@@ -3101,6 +3191,24 @@ export const northmacedoniaLifeV2: POI[] = [
                   "coords": [
                         22.710967,
                         41.205172
+                  ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "Úszómedence és bár a Dojran-mocsárvidék közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "Úszómedence a Dojran-mocsárvidék szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
                   ]
             }
       ],
@@ -3149,6 +3257,24 @@ export const northmacedoniaLifeV2: POI[] = [
                         22.710967,
                         41.205172
                   ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "O piscină și o zonă de bar situată lângă zona umedă Dojran.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "O piscină situată la marginea zonei umede Dojran.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
+                  ]
             }
       ],
       "en": [
@@ -3195,6 +3321,24 @@ export const northmacedoniaLifeV2: POI[] = [
                   "coords": [
                         22.710967,
                         41.205172
+                  ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "A swimming pool and bar area located near the Dojran Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "A swimming pool located at the edge of the Dojran Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
                   ]
             }
       ]

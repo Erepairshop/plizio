@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const swedenCitiesV2: POI[] = [
 
   {
-    id: "sweden-helsingborg-cities-v2", "sights": {"de": [{"name": "Fria Bad", "text": "Fria Bad ist ein beliebter Stadtstrand in Helsingborg.", "category": "recreational", "coords": [12.681009, 56.05844]}, {"name": "Tropical Beach", "text": "Unerwartet exotisch präsentiert sich dieser charmante Strandabschnitt in der schwedischen Hafenstadt Helsingborg. Weicher Sand und eine entspannte Küstenatmosphäre bringen ein Stück südliches Lebensgefühl an den Öresund. Hier lassen sich sonnige skandinavische Sommertage wunderbar mit einem Picknick oder einem Spaziergang am Ufer verbringen. Für den besten Platz im Sand empfiehlt es sich, an sonnigen Tagen rechtzeitig zu erscheinen.", "category": "recreational", "coords": [12.686914, 56.044109]}, {"name": "BGK Viskan", "text": "BGK Viskan ist eine Minigolfanlage in Helsingborg, die Familienspaß für alle Altersgruppen bietet.", "category": "family", "coords": [12.715613, 56.04196]}, {"name": "Surflekan", "text": "Surflekan ist ein Spielplatz in Helsingborg, auf dem Kinder verschiedene Spielaktivitäten im Freien genießen können.", "category": "family", "coords": [12.682687, 56.055241]}, {"name": "Gott och blandat", "text": "Gott och blandat ist ein Spielplatz in Helsingborg, der einen unterhaltsamen Raum zum Spielen für Kinder bietet.", "category": "family", "coords": [12.712408, 56.071182]}, {"name": "Dinosaurielekan", "text": "Dinosaurielekan ist ein thematischer Spielplatz in Helsingborg, der Familienunterhaltung im Freien bietet.", "category": "family", "coords": [12.727249, 56.057752]}], "hu": [{"name": "Fria Bad", "text": "Fria Bad egy népszerű városi strand Helsingborgban.", "category": "recreational", "coords": [12.681009, 56.05844]}, {"name": "Tropical Beach", "text": "Váratlanul egzotikusan mutatkozik be ez a bájos partszakasz a svéd Helsingborg kikötővárosában. A puha homok és a laza tengerparti hangulat a déli életérzés egy darabját hozza el az Öresund partjára. A napos skandináv nyári napokat itt csodálatosan el lehet tölteni egy piknikkel vagy egy sétával a parton. A legjobb hely megszerzéséhez a homokban érdemes napsütéses napokon időben érkezni.", "category": "recreational", "coords": [12.686914, 56.044109]}, {"name": "BGK Viskan", "text": "A BGK Viskan egy minigolfpálya Helsingborgban, amely minden korosztály számára családi szórakozást kínál.", "category": "family", "coords": [12.715613, 56.04196]}, {"name": "Surflekan", "text": "A Surflekan egy játszótér Helsingborgban, ahol a gyerekek különféle szabadtéri játékokat élvezhetnek.", "category": "family", "coords": [12.682687, 56.055241]}, {"name": "Gott och blandat", "text": "A Gott och blandat egy játszótér Helsingborgban, amely szórakoztató helyet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [12.712408, 56.071182]}, {"name": "Dinosaurielekan", "text": "A Dinosaurielekan egy tematikus játszótér Helsingborgban, amely szabadtéri szórakozást kínál a családoknak.", "category": "family", "coords": [12.727249, 56.057752]}], "ro": [{"name": "Fria Bad", "text": "Fria Bad este o plajă urbană populară în Helsingborg.", "category": "recreational", "coords": [12.681009, 56.05844]}, {"name": "Tropical Beach", "text": "Această porțiune fermecătoare de plajă din orașul-port suedez Helsingborg se prezintă neașteptat de exotic. Nisipul moale și o atmosferă de coastă relaxată aduc o bucată de fler sudic la strâmtoarea Øresund. Zilele însorite de vară scandinavă pot fi petrecute minunat aici cu un picnic sau o plimbare pe mal. Pentru cel mai bun loc pe nisip, se recomandă să ajungeți din timp în zilele însorite.", "category": "recreational", "coords": [12.686914, 56.044109]}, {"name": "BGK Viskan", "text": "BGK Viskan este un teren de minigolf în Helsingborg, oferind distracție în familie pentru toate vârstele.", "category": "family", "coords": [12.715613, 56.04196]}, {"name": "Surflekan", "text": "Surflekan este un teren de joacă în Helsingborg, unde copiii se pot bucura de diverse activități de joacă în aer liber.", "category": "family", "coords": [12.682687, 56.055241]}, {"name": "Gott och blandat", "text": "Gott och blandat este un teren de joacă în Helsingborg, oferind un spațiu distractiv de joacă pentru copii.", "category": "family", "coords": [12.712408, 56.071182]}, {"name": "Dinosaurielekan", "text": "Dinosaurielekan este un teren de joacă tematic în Helsingborg, oferind divertisment în aer liber pentru familii.", "category": "family", "coords": [12.727249, 56.057752]}], "en": [{"name": "Fria Bad", "text": "Fria Bad is a popular city beach in Helsingborg.", "category": "recreational", "coords": [12.681009, 56.05844]}, {"name": "Tropical Beach", "text": "Unexpectedly exotic, this charming stretch of beach presents itself beautifully in the Swedish port city of Helsingborg. Soft sand and a relaxed coastal atmosphere effectively bring a slice of southern flair to the Øresund strait. Sunny Scandinavian summer days can be wonderfully spent here with a delightful picnic or a stroll along the shore. Arriving early on sunny days is highly recommended to secure the best spot on the sand.", "category": "recreational", "coords": [12.686914, 56.044109]}, {"name": "BGK Viskan", "text": "BGK Viskan is a miniature golf course in Helsingborg, offering family fun for all ages.", "category": "family", "coords": [12.715613, 56.04196]}, {"name": "Surflekan", "text": "Surflekan is a playground in Helsingborg where children can enjoy various outdoor play activities.", "category": "family", "coords": [12.682687, 56.055241]}, {"name": "Gott och blandat", "text": "Gott och blandat is a playground in Helsingborg providing a fun space for kids to play.", "category": "family", "coords": [12.712408, 56.071182]}, {"name": "Dinosaurielekan", "text": "Dinosaurielekan is a themed playground in Helsingborg offering outdoor entertainment for families.", "category": "family", "coords": [12.727249, 56.057752]}]},
+    id: "sweden-helsingborg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad ist ein beliebter Stadtstrand in Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Unerwartet exotisch präsentiert sich dieser charmante Strandabschnitt in der schwedischen Hafenstadt Helsingborg. Weicher Sand und eine entspannte Küstenatmosphäre bringen ein Stück südliches Lebensgefühl an den Öresund. Hier lassen sich sonnige skandinavische Sommertage wunderbar mit einem Picknick oder einem Spaziergang am Ufer verbringen. Für den besten Platz im Sand empfiehlt es sich, an sonnigen Tagen rechtzeitig zu erscheinen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "BGK Viskan ist eine Minigolfanlage in Helsingborg, die Familienspaß für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "Surflekan ist ein Spielplatz in Helsingborg, auf dem Kinder verschiedene Spielaktivitäten im Freien genießen können.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "Gott och blandat ist ein Spielplatz in Helsingborg, der einen unterhaltsamen Raum zum Spielen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "Dinosaurielekan ist ein thematischer Spielplatz in Helsingborg, der Familienunterhaltung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
+                  ]
+            },
+            {
+                  "name": "Tropikariet",
+                  "text": "Ein Indoor-Zoo in Helsingborg mit exotischen Tieren wie Lemuren, Affen und Haien.",
+                  "category": "recreational",
+                  "coords": [
+                        12.70598,
+                        56.058988
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "Eine historische Schwimmanlage in Helsingborg, die verschiedene Becken und Saunen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702312,
+                        56.039075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad egy népszerű városi strand Helsingborgban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Váratlanul egzotikusan mutatkozik be ez a bájos partszakasz a svéd Helsingborg kikötővárosában. A puha homok és a laza tengerparti hangulat a déli életérzés egy darabját hozza el az Öresund partjára. A napos skandináv nyári napokat itt csodálatosan el lehet tölteni egy piknikkel vagy egy sétával a parton. A legjobb hely megszerzéséhez a homokban érdemes napsütéses napokon időben érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "A BGK Viskan egy minigolfpálya Helsingborgban, amely minden korosztály számára családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "A Surflekan egy játszótér Helsingborgban, ahol a gyerekek különféle szabadtéri játékokat élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "A Gott och blandat egy játszótér Helsingborgban, amely szórakoztató helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "A Dinosaurielekan egy tematikus játszótér Helsingborgban, amely szabadtéri szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
+                  ]
+            },
+            {
+                  "name": "Tropikariet",
+                  "text": "Beltéri állatkert Helsingborgban egzotikus állatokkal, például lemúrokkal, majmokkal és cápákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.70598,
+                        56.058988
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "Történelmi úszókomplexum Helsingborgban, amely különféle medencéket és szaunákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702312,
+                        56.039075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad este o plajă urbană populară în Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Această porțiune fermecătoare de plajă din orașul-port suedez Helsingborg se prezintă neașteptat de exotic. Nisipul moale și o atmosferă de coastă relaxată aduc o bucată de fler sudic la strâmtoarea Øresund. Zilele însorite de vară scandinavă pot fi petrecute minunat aici cu un picnic sau o plimbare pe mal. Pentru cel mai bun loc pe nisip, se recomandă să ajungeți din timp în zilele însorite.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "BGK Viskan este un teren de minigolf în Helsingborg, oferind distracție în familie pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "Surflekan este un teren de joacă în Helsingborg, unde copiii se pot bucura de diverse activități de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "Gott och blandat este un teren de joacă în Helsingborg, oferind un spațiu distractiv de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "Dinosaurielekan este un teren de joacă tematic în Helsingborg, oferind divertisment în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
+                  ]
+            },
+            {
+                  "name": "Tropikariet",
+                  "text": "O grădină zoologică interioară din Helsingborg cu animale exotice, precum lemuri, maimuțe și rechini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.70598,
+                        56.058988
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "O facilitate de înot istorică din Helsingborg, oferind diverse bazine și saune.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702312,
+                        56.039075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad is a popular city beach in Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Unexpectedly exotic, this charming stretch of beach presents itself beautifully in the Swedish port city of Helsingborg. Soft sand and a relaxed coastal atmosphere effectively bring a slice of southern flair to the Øresund strait. Sunny Scandinavian summer days can be wonderfully spent here with a delightful picnic or a stroll along the shore. Arriving early on sunny days is highly recommended to secure the best spot on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            },
+            {
+                  "name": "BGK Viskan",
+                  "text": "BGK Viskan is a miniature golf course in Helsingborg, offering family fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        12.715613,
+                        56.04196
+                  ]
+            },
+            {
+                  "name": "Surflekan",
+                  "text": "Surflekan is a playground in Helsingborg where children can enjoy various outdoor play activities.",
+                  "category": "family",
+                  "coords": [
+                        12.682687,
+                        56.055241
+                  ]
+            },
+            {
+                  "name": "Gott och blandat",
+                  "text": "Gott och blandat is a playground in Helsingborg providing a fun space for kids to play.",
+                  "category": "family",
+                  "coords": [
+                        12.712408,
+                        56.071182
+                  ]
+            },
+            {
+                  "name": "Dinosaurielekan",
+                  "text": "Dinosaurielekan is a themed playground in Helsingborg offering outdoor entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        12.727249,
+                        56.057752
+                  ]
+            },
+            {
+                  "name": "Tropikariet",
+                  "text": "An indoor zoo in Helsingborg featuring exotic animals like lemurs, monkeys, and sharks.",
+                  "category": "recreational",
+                  "coords": [
+                        12.70598,
+                        56.058988
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "A historic swimming facility in Helsingborg offering various pools and saunas.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702312,
+                        56.039075
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Helsingborg", hu: "Helsingborg", ro: "Helsingborg", en: "Helsingborg"},
@@ -11491,6 +11788,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.880626,
                         58.415682
                   ]
+            },
+            {
+                  "name": "Boulognersjön",
+                  "text": "Ein natürlicher Badebereich am See in Skövde.",
+                  "category": "recreational",
+                  "coords": [
+                        13.860611,
+                        58.391026
+                  ]
             }
       ],
       "hu": [
@@ -11636,6 +11942,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.880626,
                         58.415682
+                  ]
+            },
+            {
+                  "name": "Boulognersjön",
+                  "text": "Természetes tavi fürdőhely Skövde városában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.860611,
+                        58.391026
                   ]
             }
       ],
@@ -11783,6 +12098,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.880626,
                         58.415682
                   ]
+            },
+            {
+                  "name": "Boulognersjön",
+                  "text": "O zonă naturală de scăldat pe lac în Skövde.",
+                  "category": "recreational",
+                  "coords": [
+                        13.860611,
+                        58.391026
+                  ]
             }
       ],
       "en": [
@@ -11928,6 +12252,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.880626,
                         58.415682
+                  ]
+            },
+            {
+                  "name": "Boulognersjön",
+                  "text": "A natural lakeside swimming area in Skövde.",
+                  "category": "recreational",
+                  "coords": [
+                        13.860611,
+                        58.391026
                   ]
             }
       ]
@@ -13902,6 +14235,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.543773,
                         56.167573
                   ]
+            },
+            {
+                  "name": "Dragsö Badplats",
+                  "text": "Ein beliebter Badestrand auf der Insel Dragsö in der Nähe von Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.566508,
+                        56.173696
+                  ]
             }
       ],
       "hu": [
@@ -14047,6 +14389,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.543773,
                         56.167573
+                  ]
+            },
+            {
+                  "name": "Dragsö Badplats",
+                  "text": "Népszerű fürdőhely Dragsö szigetén, Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.566508,
+                        56.173696
                   ]
             }
       ],
@@ -14194,6 +14545,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.543773,
                         56.167573
                   ]
+            },
+            {
+                  "name": "Dragsö Badplats",
+                  "text": "O plajă populară pentru înot pe insula Dragsö, lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.566508,
+                        56.173696
+                  ]
             }
       ],
       "en": [
@@ -14339,6 +14699,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.543773,
                         56.167573
+                  ]
+            },
+            {
+                  "name": "Dragsö Badplats",
+                  "text": "A popular swimming beach located on the island of Dragsö near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.566508,
+                        56.173696
                   ]
             }
       ]
@@ -15688,6 +16057,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.279503,
                         57.118457
                   ]
+            },
+            {
+                  "name": "Kåsa",
+                  "text": "Ein öffentlicher Badebereich an der Küste von Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
+                  ]
             }
       ],
       "hu": [
@@ -15923,6 +16301,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.279503,
                         57.118457
+                  ]
+            },
+            {
+                  "name": "Kåsa",
+                  "text": "Nyilvános tengerparti fürdőhely Varbergben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
                   ]
             }
       ],
@@ -16160,6 +16547,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.279503,
                         57.118457
                   ]
+            },
+            {
+                  "name": "Kåsa",
+                  "text": "O zonă publică de scăldat pe coasta din Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
+                  ]
             }
       ],
       "en": [
@@ -16395,6 +16791,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.279503,
                         57.118457
+                  ]
+            },
+            {
+                  "name": "Kåsa",
+                  "text": "A public swimming area on the coast of Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
                   ]
             }
       ]
@@ -18398,6 +18803,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         21.446976,
                         65.371762
                   ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Ein malerischer Strand in Piteå, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.549452,
+                        65.297727
+                  ]
             }
       ],
       "hu": [
@@ -18687,6 +19101,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         21.446976,
                         65.371762
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Festői tengerpart Piteå területén, amely ideális napozásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        21.549452,
+                        65.297727
                   ]
             }
       ],
@@ -18978,6 +19401,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         21.446976,
                         65.371762
                   ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "O plajă pitorească în Piteå, ideală pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        21.549452,
+                        65.297727
+                  ]
             }
       ],
       "en": [
@@ -19268,6 +19700,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         21.446976,
                         65.371762
                   ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "A scenic beach in Piteå, ideal for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        21.549452,
+                        65.297727
+                  ]
             }
       ]
 },
@@ -19444,6 +19885,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         20.92799,
                         64.763094
                   ]
+            },
+            {
+                  "name": "Vitbergsbadet",
+                  "text": "Ein Wasserpark in Skellefteå mit verschiedenen Pools und Rutschen für die ganze Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        20.971146,
+                        64.762892
+                  ]
             }
       ],
       "hu": [
@@ -19571,6 +20021,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         20.92799,
                         64.763094
+                  ]
+            },
+            {
+                  "name": "Vitbergsbadet",
+                  "text": "Vízipark Skellefteå városában, amely medencékkel és csúszdákkal várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        20.971146,
+                        64.762892
                   ]
             }
       ],
@@ -19700,6 +20159,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         20.92799,
                         64.763094
                   ]
+            },
+            {
+                  "name": "Vitbergsbadet",
+                  "text": "Un parc acvatic din Skellefteå, dotat cu piscine și tobogane pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        20.971146,
+                        64.762892
+                  ]
             }
       ],
       "en": [
@@ -19827,6 +20295,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         20.92799,
                         64.763094
+                  ]
+            },
+            {
+                  "name": "Vitbergsbadet",
+                  "text": "A water park in Skellefteå featuring various pools and slides for family recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.971146,
+                        64.762892
                   ]
             }
       ]
@@ -36053,6 +36530,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.41412,
                         59.390465
                   ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Badplats ist eine öffentliche Badestelle in der Schärengartenstadt Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.38393,
+                        59.381792
+                  ]
+            },
+            {
+                  "name": "Fridhemsbadet",
+                  "text": "Ein öffentlicher Badebereich in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.286764,
+                        59.388289
+                  ]
             }
       ],
       "hu": [
@@ -36108,6 +36603,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.41412,
                         59.390465
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "A Badplats egy nyilvános fürdőhely Vaxholm szigetvilágában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.38393,
+                        59.381792
+                  ]
+            },
+            {
+                  "name": "Fridhemsbadet",
+                  "text": "Nyilvános fürdőhely Vaxholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.286764,
+                        59.388289
                   ]
             }
       ],
@@ -36165,6 +36678,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.41412,
                         59.390465
                   ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Badplats este un loc public de scăldat în orașul arhipelag Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.38393,
+                        59.381792
+                  ]
+            },
+            {
+                  "name": "Fridhemsbadet",
+                  "text": "O zonă publică de scăldat în Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.286764,
+                        59.388289
+                  ]
             }
       ],
       "en": [
@@ -36220,6 +36751,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.41412,
                         59.390465
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Badplats is a public swimming area in the archipelago town of Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.38393,
+                        59.381792
+                  ]
+            },
+            {
+                  "name": "Fridhemsbadet",
+                  "text": "A public bathing area in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.286764,
+                        59.388289
                   ]
             }
       ]
@@ -39329,6 +39878,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.999288,
                         59.378419
                   ]
+            },
+            {
+                  "name": "Augustendals 4H-gård",
+                  "text": "Ein kleiner Zoo in Solna, der besonders für Kinder konzipiert ist und heimische Bauernhoftiere zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
+                  ]
+            },
+            {
+                  "name": "Svedenbadet",
+                  "text": "Ein familienfreundlicher Wasserpark in Solna mit Außenbecken für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        18.030973,
+                        59.385006
+                  ]
             }
       ],
       "hu": [
@@ -40104,6 +40671,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.999288,
                         59.378419
+                  ]
+            },
+            {
+                  "name": "Augustendals 4H-gård",
+                  "text": "Gyerekbarát állatkert Solnában, ahol a látogatók háztáji állatokkal ismerkedhetnek meg.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
+                  ]
+            },
+            {
+                  "name": "Svedenbadet",
+                  "text": "Családbarát vízipark Solnában, amely szabadtéri medencékkel várja a nyári pihenésre vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.030973,
+                        59.385006
                   ]
             }
       ],
@@ -40881,6 +41466,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.999288,
                         59.378419
                   ]
+            },
+            {
+                  "name": "Augustendals 4H-gård",
+                  "text": "O mică grădină zoologică în Solna, concepută pentru copii, care prezintă animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
+                  ]
+            },
+            {
+                  "name": "Svedenbadet",
+                  "text": "Un parc acvatic în Solna, ideal pentru familii, oferind bazine în aer liber pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        18.030973,
+                        59.385006
+                  ]
             }
       ],
       "en": [
@@ -41657,6 +42260,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.999288,
                         59.378419
                   ]
+            },
+            {
+                  "name": "Augustendals 4H-gård",
+                  "text": "A small zoo in Solna designed for children, featuring domestic farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
+                  ]
+            },
+            {
+                  "name": "Svedenbadet",
+                  "text": "A family-friendly water park in Solna with outdoor pools for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.030973,
+                        59.385006
+                  ]
             }
       ]
 },
@@ -42128,6 +42749,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.095925,
                         59.343755
                   ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "Sandviksbadet ist ein familienfreundlicher Badestrand auf der Insel Lidingö in der Nähe von Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.111591,
+                        59.389625
+                  ]
             }
       ],
       "hu": [
@@ -42552,6 +43182,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.095925,
                         59.343755
+                  ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "A Sandviksbadet egy családbarát strand Lidingö szigetén, Stockholm közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.111591,
+                        59.389625
                   ]
             }
       ],
@@ -42978,6 +43617,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.095925,
                         59.343755
                   ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "Sandviksbadet este o plajă pentru familii situată pe insula Lidingö, lângă Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.111591,
+                        59.389625
+                  ]
             }
       ],
       "en": [
@@ -43402,6 +44050,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.095925,
                         59.343755
+                  ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "Sandviksbadet is a family-friendly swimming beach located on the island of Lidingö near Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.111591,
+                        59.389625
                   ]
             }
       ]
@@ -49427,6 +50084,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.811042,
                         59.428172
                   ]
+            },
+            {
+                  "name": "Järfällabadet",
+                  "text": "Ein öffentliches Bad in Järfälla, das Einrichtungen zum Schwimmen und Trainieren bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.824394,
+                        59.419108
+                  ]
+            },
+            {
+                  "name": "Görvälnsbadet",
+                  "text": "Ein öffentliches Strandbad am Mälaren-See in Järfälla, ideal zum Schwimmen in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        17.770667,
+                        59.427772
+                  ]
             }
       ],
       "hu": [
@@ -49608,6 +50283,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.811042,
                         59.428172
+                  ]
+            },
+            {
+                  "name": "Järfällabadet",
+                  "text": "Közfürdő Järfälla városában, amely úszási és edzési lehetőségeket biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        17.824394,
+                        59.419108
+                  ]
+            },
+            {
+                  "name": "Görvälnsbadet",
+                  "text": "Nyilvános strand Järfällában a Mälaren-tó partján, amely természetközeli úszási élményt nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.770667,
+                        59.427772
                   ]
             }
       ],
@@ -49791,6 +50484,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.811042,
                         59.428172
                   ]
+            },
+            {
+                  "name": "Järfällabadet",
+                  "text": "O baie publică în Järfälla, care oferă facilități pentru înot și antrenament.",
+                  "category": "recreational",
+                  "coords": [
+                        17.824394,
+                        59.419108
+                  ]
+            },
+            {
+                  "name": "Görvälnsbadet",
+                  "text": "O zonă de scăldat publică pe malul lacului Mälaren în Järfälla, ideală pentru înot în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        17.770667,
+                        59.427772
+                  ]
             }
       ],
       "en": [
@@ -49972,6 +50683,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.811042,
                         59.428172
+                  ]
+            },
+            {
+                  "name": "Järfällabadet",
+                  "text": "A public bath in Järfälla providing facilities for swimming and exercise.",
+                  "category": "recreational",
+                  "coords": [
+                        17.824394,
+                        59.419108
+                  ]
+            },
+            {
+                  "name": "Görvälnsbadet",
+                  "text": "A public lakeside bathing area on Lake Mälaren in Järfälla, ideal for outdoor swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        17.770667,
+                        59.427772
                   ]
             }
       ]
@@ -50804,6 +51533,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.830894,
                         59.220745
                   ]
+            },
+            {
+                  "name": "Hågelby 4H",
+                  "text": "Ein Tierhof in Botkyrka, der Teil des Hågelby-Parks ist und verschiedene Nutztierrassen beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.828097,
+                        59.220656
+                  ]
+            },
+            {
+                  "name": "Möllebadet",
+                  "text": "Ein beliebter Badeplatz am See Aspen in Botkyrka mit Sandstrand und Stegen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.782484,
+                        59.191602
+                  ]
+            },
+            {
+                  "name": "Säby Sim- och Sporthall",
+                  "text": "Eine Sport- und Schwimmhalle in Botkyrka mit Einrichtungen für verschiedene Indoor-Sportarten.",
+                  "category": "recreational",
+                  "coords": [
+                        17.766092,
+                        59.203006
+                  ]
+            },
+            {
+                  "name": "Plaskis",
+                  "text": "Ein kleines Planschbecken in Botkyrka, das besonders für Kleinkinder im Sommer geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        17.765836,
+                        59.200998
+                  ]
             }
       ],
       "hu": [
@@ -50958,6 +51723,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.830894,
                         59.220745
+                  ]
+            },
+            {
+                  "name": "Hågelby 4H",
+                  "text": "Botkyrkai állatfarm a Hågelby parkban, ahol különféle háziállatokat gondoznak.",
+                  "category": "recreational",
+                  "coords": [
+                        17.828097,
+                        59.220656
+                  ]
+            },
+            {
+                  "name": "Möllebadet",
+                  "text": "Népszerű fürdőhely a Botkyrka melletti Aspen-tónál, homokos stranddal és stégekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.782484,
+                        59.191602
+                  ]
+            },
+            {
+                  "name": "Säby Sim- och Sporthall",
+                  "text": "Botkyrkai sport- és úszócsarnok, különféle beltéri sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.766092,
+                        59.203006
+                  ]
+            },
+            {
+                  "name": "Plaskis",
+                  "text": "Kisméretű pancsolómedence Botkyrkában, amely nyáron ideális a legkisebbeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        17.765836,
+                        59.200998
                   ]
             }
       ],
@@ -51114,6 +51915,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.830894,
                         59.220745
                   ]
+            },
+            {
+                  "name": "Hågelby 4H",
+                  "text": "O fermă de animale în Botkyrka, parte a parcului Hågelby, unde pot fi văzute diverse animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.828097,
+                        59.220656
+                  ]
+            },
+            {
+                  "name": "Möllebadet",
+                  "text": "Un loc popular de scăldat la lacul Aspen din Botkyrka, cu plajă de nisip și pontoane.",
+                  "category": "recreational",
+                  "coords": [
+                        17.782484,
+                        59.191602
+                  ]
+            },
+            {
+                  "name": "Säby Sim- och Sporthall",
+                  "text": "O sală de sport și înot în Botkyrka cu facilități pentru diverse sporturi de interior.",
+                  "category": "recreational",
+                  "coords": [
+                        17.766092,
+                        59.203006
+                  ]
+            },
+            {
+                  "name": "Plaskis",
+                  "text": "O mică piscină pentru copii în Botkyrka, ideală pentru cei mici în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        17.765836,
+                        59.200998
+                  ]
             }
       ],
       "en": [
@@ -51269,6 +52106,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.830894,
                         59.220745
                   ]
+            },
+            {
+                  "name": "Hågelby 4H",
+                  "text": "An animal farm in Botkyrka, part of Hågelby Park, home to various domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        17.828097,
+                        59.220656
+                  ]
+            },
+            {
+                  "name": "Möllebadet",
+                  "text": "A popular bathing spot at Lake Aspen in Botkyrka with a sandy beach and jetties.",
+                  "category": "recreational",
+                  "coords": [
+                        17.782484,
+                        59.191602
+                  ]
+            },
+            {
+                  "name": "Säby Sim- och Sporthall",
+                  "text": "A sports and swimming hall in Botkyrka providing facilities for various indoor sports.",
+                  "category": "recreational",
+                  "coords": [
+                        17.766092,
+                        59.203006
+                  ]
+            },
+            {
+                  "name": "Plaskis",
+                  "text": "A small splashing pool in Botkyrka, ideal for young children during the summer.",
+                  "category": "recreational",
+                  "coords": [
+                        17.765836,
+                        59.200998
+                  ]
             }
       ]
 },
@@ -51316,7 +52189,1168 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-botkyrka-cities-v2.webp",
   },
   {
-    id: "sweden-haninge-cities-v2", "sights": {"de": [{"name": "Rudan strand", "text": "Umgeben von tiefen Wäldern und klarem Wasser ist dieser Strand im Naherholungsgebiet Rudan bei Haninge ein idyllisches Ziel für Naturfreunde. Die ruhige Atmosphäre am Seeufer lädt dazu ein, nach einer kleinen Wanderung die Füße ins kühle Nass zu tauchen. Hier lässt es sich wunderbar abschalten und den Blick über die sanften Wellen schweifen. Ein Rucksack mit Erfrischungen macht den Aufenthalt im Grünen perfekt.", "category": "recreational", "coords": [18.131471, 59.165904]}, {"name": "Rudan norra strand (Lillrudan)", "text": "Am nördlichen Ufer des Rudan-Sees offenbart sich dieser charmante, kleine Sandstrand, der oft liebevoll Lillrudan genannt wird. Die familiäre und überschaubare Badestelle ist besonders bei Familien mit kleinen Kindern sehr geschätzt. Zwischen Waldrand und Seeufer findet jeder schnell ein schönes Plätzchen für sein Handtuch. An warmen Wochenenden ist es ratsam, das Auto stehen zu lassen und mit dem Fahrrad anzureisen.", "category": "recreational", "coords": [18.136389, 59.171387]}, {"name": "Hundbadet", "text": "Hundestrand in Haninge.", "category": "recreational", "coords": [18.155166, 59.201872]}, {"name": "Norrby Holme", "text": "Norrby Holme ist eine Badestelle in Haninge.", "category": "recreational", "coords": [18.157183, 59.200596]}, {"name": "Lilla rudan badplats", "text": "Lilla Rudan ist eine Badestelle in der Nähe von Haninge.", "category": "recreational", "coords": [18.128561, 59.161733]}, {"name": "Ådran", "text": "Ådran ist ein friedlicher See in Haninge, umgeben von schöner Natur für entspannte Spaziergänge.", "category": "natural", "coords": [18.01708, 59.159932]}, {"name": "Nedre Rudansjön", "text": "Nedre Rudansjön ist ein klarer See in Haninge, ideal für Erholung und Spaziergänge am Wasser.", "category": "natural", "coords": [18.127041, 59.159713]}, {"name": "Övre Rudansjön", "text": "Övre Rudansjön ist ein malerischer See in Haninge, der eine ruhige Kulisse für Naturliebhaber bietet.", "category": "natural", "coords": [18.133796, 59.170011]}, {"name": "Kvarnsjön", "text": "Kvarnsjön ist ein kleiner, ruhiger See in Haninge, perfekt für eine kurze Pause im Grünen.", "category": "natural", "coords": [18.08028, 59.191211]}, {"name": "Lillsjön", "text": "Lillsjön ist ein idyllischer See in Haninge, ideal für einen erholsamen Tag in der Natur.", "category": "natural", "coords": [18.123105, 59.149883]}, {"name": "Gammeldammen", "text": "Gammeldammen ist ein friedlicher Teich in Haninge, der zu ruhigen Spaziergängen einlädt.", "category": "natural", "coords": [18.269949, 59.192411]}, {"name": "Årsjötjärnen", "text": "Årsjötjärnen ist ein kleiner Waldsee in Haninge, der eine unberührte Naturkulisse bietet.", "category": "natural", "coords": [18.264833, 59.184419]}, {"name": "Bylsjön", "text": "Bylsjön ist ein schöner See in Haninge, ideal für Wanderungen und das Genießen der Aussicht.", "category": "natural", "coords": [18.261344, 59.177195]}, {"name": "Mörtsjön", "text": "Mörtsjön ist ein ruhiger See in Haninge, der eine friedliche Atmosphäre für Besucher bietet.", "category": "natural", "coords": [18.030277, 59.213256]}, {"name": "Barnsjön", "text": "Barnsjön ist ein familienfreundlicher See in Haninge, ideal für Spaziergänge und Naturerlebnisse.", "category": "natural", "coords": [18.235695, 59.226533]}, {"name": "Lissmasjön", "text": "Lissmasjön ist ein idyllischer See in Haninge, perfekt für eine Auszeit in der Natur.", "category": "natural", "coords": [18.067544, 59.175662]}, {"name": "Trylen", "text": "Trylen ist ein kleiner, friedlicher See in Haninge, umgeben von schöner Waldlandschaft.", "category": "natural", "coords": [18.107123, 59.16669]}, {"name": "Flaten", "text": "Flaten ist ein beliebter See in Haninge, der gute Möglichkeiten für Spaziergänge im Grünen bietet.", "category": "natural", "coords": [18.153482, 59.249155]}, {"name": "Rudträsket", "text": "Rudträsket ist ein ruhiges Gewässer in Haninge, ideal für eine entspannte Zeit in der Natur.", "category": "natural", "coords": [18.019182, 59.172965]}, {"name": "Drevviken", "text": "Drevviken ist ein großer See in Haninge, der weite Ausblicke und schöne Uferwege bietet.", "category": "natural", "coords": [18.156202, 59.222505]}, {"name": "Magelungen", "text": "Magelungen ist ein malerischer See in Haninge, ideal für ausgedehnte Spaziergänge am Wasser.", "category": "natural", "coords": [18.089156, 59.234972]}, {"name": "Orlången", "text": "Orlången ist ein weitläufiger See in Haninge, der eine abwechslungsreiche Naturlandschaft bietet.", "category": "natural", "coords": [18.02832, 59.202051]}, {"name": "Lycksjön", "text": "Lycksjön ist ein schöner See in Haninge, ideal für einen erholsamen Nachmittag im Freien.", "category": "natural", "coords": [18.213162, 59.18267]}, {"name": "Svartsjön", "text": "Svartsjön ist ein ruhiger Waldsee in Haninge, perfekt für Naturliebhaber und Wanderer.", "category": "natural", "coords": [18.203264, 59.174885]}, {"name": "Ramsjön", "text": "Ramsjön ist ein friedlicher See in Haninge, der zu Entspannung und Naturbeobachtung einlädt.", "category": "natural", "coords": [18.202294, 59.180774]}, {"name": "Årsjön", "text": "Årsjön ist ein idyllischer See in Haninge, ideal für Wanderungen in einer ruhigen Umgebung.", "category": "natural", "coords": [18.272348, 59.189879]}, {"name": "Tyresö-Flaten", "text": "Tyresö-Flaten ist ein malerischer See in Haninge, der schöne Ausblicke auf die Landschaft bietet.", "category": "natural", "coords": [18.261321, 59.22102]}, {"name": "Öran", "text": "Öran ist ein ruhiger See in Haninge, ideal für einen entspannten Tag in der Natur.", "category": "natural", "coords": [18.068592, 59.149099]}, {"name": "Trehörningen", "text": "Trehörningen ist ein kleiner See in Haninge, der eine friedliche Atmosphäre zum Verweilen bietet.", "category": "natural", "coords": [18.034275, 59.150719]}, {"name": "Långsjön", "text": "Långsjön ist ein schöner, langer See in Haninge, ideal für Spaziergänge entlang des Wassers.", "category": "natural", "coords": [18.037396, 59.143715]}], "hu": [{"name": "Rudan strand", "text": "A mély erdőkkel és tiszta vízzel körülvett Haninge melletti Rudan rekreációs terület strandja idilli célpont a természetkedvelők számára. A tópart csendes légköre arra hívogat, hogy egy rövid túra után belemártsa a lábát a hűvös vízbe. Itt csodálatosan ki lehet kapcsolódni, és a tekintetét a szelíd hullámokon pihentetheti. Egy frissítőkkel teli hátizsák teszi igazán tökéletessé a természetben eltöltött időt.", "category": "recreational", "coords": [18.131471, 59.165904]}, {"name": "Rudan norra strand (Lillrudan)", "text": "A Rudan-tó északi partján tárul elénk ez a bájos, apró homokos strand, amelyet gyakran kedvesen Lillrudannak is neveznek. Ezt a családias és átlátható fürdőhelyet különösen a kisgyermekes családok értékelik nagyra. Az erdő széle és a tópart között mindenki gyorsan talál egy szép helyet a törölközőjének. A meleg nyári hétvégéken érdemes otthon hagyni az autót, és inkább kerékpárral érkezni a partra.", "category": "recreational", "coords": [18.136389, 59.171387]}, {"name": "Hundbadet", "text": "Kutyastrand Haningében.", "category": "recreational", "coords": [18.155166, 59.201872]}, {"name": "Norrby Holme", "text": "Norrby Holme egy strandfürdő Haningében.", "category": "recreational", "coords": [18.157183, 59.200596]}, {"name": "Lilla rudan badplats", "text": "Lilla Rudan egy strandfürdő Haninge közelében.", "category": "recreational", "coords": [18.128561, 59.161733]}, {"name": "Ådran", "text": "Az Ådran egy békés tó Haninge területén, amelyet szép természet övez a pihentető sétákhoz.", "category": "natural", "coords": [18.01708, 59.159932]}, {"name": "Nedre Rudansjön", "text": "A Nedre Rudansjön egy tiszta vizű tó Haninge városában, amely ideális kikapcsolódásra és vízparti sétákra.", "category": "natural", "coords": [18.127041, 59.159713]}, {"name": "Övre Rudansjön", "text": "Az Övre Rudansjön egy festői tó Haninge területén, amely nyugodt környezetet nyújt a természetkedvelőknek.", "category": "natural", "coords": [18.133796, 59.170011]}, {"name": "Kvarnsjön", "text": "A Kvarnsjön egy kis, nyugodt tó Haninge városában, amely tökéletes egy rövid zöldövezeti pihenőhöz.", "category": "natural", "coords": [18.08028, 59.191211]}, {"name": "Lillsjön", "text": "A Lillsjön egy idilli tó Haninge területén, amely ideális egy pihentető naphoz a szabadban.", "category": "natural", "coords": [18.123105, 59.149883]}, {"name": "Gammeldammen", "text": "A Gammeldammen egy békés tó Haninge városában, amely nyugodt sétákra hívogat.", "category": "natural", "coords": [18.269949, 59.192411]}, {"name": "Årsjötjärnen", "text": "Az Årsjötjärnen egy kis erdei tó Haninge területén, amely érintetlen természeti környezetet kínál.", "category": "natural", "coords": [18.264833, 59.184419]}, {"name": "Bylsjön", "text": "A Bylsjön egy szép tó Haninge városában, amely ideális túrázáshoz és a kilátás élvezetéhez.", "category": "natural", "coords": [18.261344, 59.177195]}, {"name": "Mörtsjön", "text": "A Mörtsjön egy nyugodt tó Haninge területén, amely békés hangulatot áraszt.", "category": "natural", "coords": [18.030277, 59.213256]}, {"name": "Barnsjön", "text": "A Barnsjön egy családbarát tó Haninge városában, amely kiváló sétákhoz és természetjáráshoz.", "category": "natural", "coords": [18.235695, 59.226533]}, {"name": "Lissmasjön", "text": "A Lissmasjön egy idilli tó Haninge területén, amely tökéletes egy kis természeti kikapcsolódáshoz.", "category": "natural", "coords": [18.067544, 59.175662]}, {"name": "Trylen", "text": "A Trylen egy kis, békés tó Haninge városában, amelyet szép erdei táj vesz körül.", "category": "natural", "coords": [18.107123, 59.16669]}, {"name": "Flaten", "text": "A Flaten egy népszerű tó Haninge területén, amely remek lehetőségeket kínál a zöldben való sétáláshoz.", "category": "natural", "coords": [18.153482, 59.249155]}, {"name": "Rudträsket", "text": "A Rudträsket egy nyugodt vízfelület Haninge városában, amely ideális a természetben való pihenéshez.", "category": "natural", "coords": [18.019182, 59.172965]}, {"name": "Drevviken", "text": "A Drevviken egy nagy tó Haninge területén, amely tágas kilátást és szép partmenti utakat kínál.", "category": "natural", "coords": [18.156202, 59.222505]}, {"name": "Magelungen", "text": "A Magelungen egy festői tó Haninge városában, amely ideális hosszú vízparti sétákhoz.", "category": "natural", "coords": [18.089156, 59.234972]}, {"name": "Orlången", "text": "Az Orlången egy kiterjedt tó Haninge területén, amely változatos természeti tájat kínál.", "category": "natural", "coords": [18.02832, 59.202051]}, {"name": "Lycksjön", "text": "A Lycksjön egy szép tó Haninge városában, amely ideális egy pihentető délutánhoz a szabadban.", "category": "natural", "coords": [18.213162, 59.18267]}, {"name": "Svartsjön", "text": "A Svartsjön egy nyugodt erdei tó Haninge területén, amely tökéletes a természetkedvelőknek.", "category": "natural", "coords": [18.203264, 59.174885]}, {"name": "Ramsjön", "text": "A Ramsjön egy békés tó Haninge városában, amely pihenésre és természetfigyelésre hívogat.", "category": "natural", "coords": [18.202294, 59.180774]}, {"name": "Årsjön", "text": "Az Årsjön egy idilli tó Haninge területén, amely ideális túrázáshoz nyugodt környezetben.", "category": "natural", "coords": [18.272348, 59.189879]}, {"name": "Tyresö-Flaten", "text": "A Tyresö-Flaten egy festői tó Haninge városában, amely szép kilátást nyújt a tájra.", "category": "natural", "coords": [18.261321, 59.22102]}, {"name": "Öran", "text": "Az Öran egy nyugodt tó Haninge területén, amely ideális egy pihentető naphoz a szabadban.", "category": "natural", "coords": [18.068592, 59.149099]}, {"name": "Trehörningen", "text": "A Trehörningen egy kis tó Haninge városában, amely békés környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [18.034275, 59.150719]}, {"name": "Långsjön", "text": "A Långsjön egy szép, hosszú tó Haninge területén, amely ideális vízparti sétákhoz.", "category": "natural", "coords": [18.037396, 59.143715]}], "ro": [{"name": "Rudan strand", "text": "Înconjurată de păduri adânci și apă limpede, această plajă din zona de recreere Rudan de lângă Haninge este o destinație idilică pentru iubitorii de natură. Atmosfera liniștită de pe malul lacului te invită să-ți scufunzi picioarele în apa rece după o scurtă drumeție. Aici vă puteți opri minunat și vă lăsați privirea să rătăcească peste valurile blânde. Un rucsac cu răcoritoare face ca șederea dumneavoastră în verdeață să fie absolut perfectă.", "category": "recreational", "coords": [18.131471, 59.165904]}, {"name": "Rudan norra strand (Lillrudan)", "text": "Pe malul nordic al lacului Rudan se află această mică plajă fermecătoare cu nisip, care este adesea numită cu afecțiune Lillrudan. Locul de scăldat familiar și ușor de gestionat este deosebit de apreciat de familiile cu copii mici. Între marginea pădurii și malul lacului, fiecare poate găsi rapid un loc frumos pentru prosopul său. În weekendurile calde, este indicat să lăsați mașina și să ajungeți aici cu bicicleta.", "category": "recreational", "coords": [18.136389, 59.171387]}, {"name": "Hundbadet", "text": "Plajă pentru câini în Haninge.", "category": "recreational", "coords": [18.155166, 59.201872]}, {"name": "Norrby Holme", "text": "Norrby Holme este o zonă de plajă în Haninge.", "category": "recreational", "coords": [18.157183, 59.200596]}, {"name": "Lilla rudan badplats", "text": "Lilla Rudan este o zonă de plajă lângă Haninge.", "category": "recreational", "coords": [18.128561, 59.161733]}, {"name": "Ådran", "text": "Ådran este un lac liniștit în Haninge, înconjurat de natură frumoasă pentru plimbări relaxante.", "category": "natural", "coords": [18.01708, 59.159932]}, {"name": "Nedre Rudansjön", "text": "Nedre Rudansjön este un lac cu apă limpede în Haninge, ideal pentru recreere și plimbări pe mal.", "category": "natural", "coords": [18.127041, 59.159713]}, {"name": "Övre Rudansjön", "text": "Övre Rudansjön este un lac pitoresc în Haninge, oferind un cadru liniștit pentru iubitorii de natură.", "category": "natural", "coords": [18.133796, 59.170011]}, {"name": "Kvarnsjön", "text": "Kvarnsjön este un lac mic și liniștit în Haninge, perfect pentru o scurtă pauză în natură.", "category": "natural", "coords": [18.08028, 59.191211]}, {"name": "Lillsjön", "text": "Lillsjön este un lac idilic în Haninge, ideal pentru o zi de relaxare în mijlocul naturii.", "category": "natural", "coords": [18.123105, 59.149883]}, {"name": "Gammeldammen", "text": "Gammeldammen este un lac liniștit în Haninge, care invită la plimbări relaxante.", "category": "natural", "coords": [18.269949, 59.192411]}, {"name": "Årsjötjärnen", "text": "Årsjötjärnen este un lac mic de pădure în Haninge, oferind un cadru natural nealterat.", "category": "natural", "coords": [18.264833, 59.184419]}, {"name": "Bylsjön", "text": "Bylsjön este un lac frumos în Haninge, ideal pentru drumeții și admirarea peisajului.", "category": "natural", "coords": [18.261344, 59.177195]}, {"name": "Mörtsjön", "text": "Mörtsjön este un lac liniștit în Haninge, oferind o atmosferă pașnică vizitatorilor.", "category": "natural", "coords": [18.030277, 59.213256]}, {"name": "Barnsjön", "text": "Barnsjön este un lac prietenos pentru familii în Haninge, ideal pentru plimbări și relaxare.", "category": "natural", "coords": [18.235695, 59.226533]}, {"name": "Lissmasjön", "text": "Lissmasjön este un lac idilic în Haninge, perfect pentru o evadare în natură.", "category": "natural", "coords": [18.067544, 59.175662]}, {"name": "Trylen", "text": "Trylen este un lac mic și liniștit în Haninge, înconjurat de un peisaj forestier frumos.", "category": "natural", "coords": [18.107123, 59.16669]}, {"name": "Flaten", "text": "Flaten este un lac popular în Haninge, oferind oportunități bune pentru plimbări în aer liber.", "category": "natural", "coords": [18.153482, 59.249155]}, {"name": "Rudträsket", "text": "Rudträsket este o zonă de apă liniștită în Haninge, ideală pentru momente de relaxare în natură.", "category": "natural", "coords": [18.019182, 59.172965]}, {"name": "Drevviken", "text": "Drevviken este un lac mare în Haninge, oferind priveliști vaste și trasee frumoase pe mal.", "category": "natural", "coords": [18.156202, 59.222505]}, {"name": "Magelungen", "text": "Magelungen este un lac pitoresc în Haninge, ideal pentru plimbări lungi pe malul apei.", "category": "natural", "coords": [18.089156, 59.234972]}, {"name": "Orlången", "text": "Orlången este un lac întins în Haninge, oferind un peisaj natural variat.", "category": "natural", "coords": [18.02832, 59.202051]}, {"name": "Lycksjön", "text": "Lycksjön este un lac frumos în Haninge, ideal pentru o după-amiază de relaxare în aer liber.", "category": "natural", "coords": [18.213162, 59.18267]}, {"name": "Svartsjön", "text": "Svartsjön este un lac de pădure liniștit în Haninge, perfect pentru iubitorii de natură.", "category": "natural", "coords": [18.203264, 59.174885]}, {"name": "Ramsjön", "text": "Ramsjön este un lac liniștit în Haninge, care invită la relaxare și observarea naturii.", "category": "natural", "coords": [18.202294, 59.180774]}, {"name": "Årsjön", "text": "Årsjön este un lac idilic în Haninge, ideal pentru drumeții într-un cadru liniștit.", "category": "natural", "coords": [18.272348, 59.189879]}, {"name": "Tyresö-Flaten", "text": "Tyresö-Flaten este un lac pitoresc în Haninge, oferind priveliști frumoase asupra peisajului.", "category": "natural", "coords": [18.261321, 59.22102]}, {"name": "Öran", "text": "Öran este un lac liniștit în Haninge, ideal pentru o zi de relaxare în mijlocul naturii.", "category": "natural", "coords": [18.068592, 59.149099]}, {"name": "Trehörningen", "text": "Trehörningen este un lac mic în Haninge, oferind o atmosferă pașnică pentru relaxare.", "category": "natural", "coords": [18.034275, 59.150719]}, {"name": "Långsjön", "text": "Långsjön este un lac frumos și lung în Haninge, ideal pentru plimbări de-a lungul apei.", "category": "natural", "coords": [18.037396, 59.143715]}], "en": [{"name": "Rudan strand", "text": "Surrounded by deep forests and exceptionally clear water, this beach in the Rudan recreation area near Haninge is an idyllic destination for nature lovers. The quiet atmosphere on the lakeshore invites you to dip your toes in the cool water after a brief hike. Here, one can wonderfully switch off and let their gaze wander over the gentle, rolling waves. Packing a backpack with refreshing snacks makes a stay in this green oasis absolutely perfect.", "category": "recreational", "coords": [18.131471, 59.165904]}, {"name": "Rudan norra strand (Lillrudan)", "text": "On the northern shore of Lake Rudan lies this exceptionally charming little sandy beach, which is often affectionately called Lillrudan. This very familiar and manageable bathing spot is especially highly appreciated by families with small children. Between the edge of the forest and the lakeshore, everyone can quickly find a beautiful spot for their towel. On warm weekends, it is highly advisable to leave the car behind and travel here by bicycle.", "category": "recreational", "coords": [18.136389, 59.171387]}, {"name": "Hundbadet", "text": "Dog beach in Haninge.", "category": "recreational", "coords": [18.155166, 59.201872]}, {"name": "Norrby Holme", "text": "Norrby Holme is a swimming area in Haninge.", "category": "recreational", "coords": [18.157183, 59.200596]}, {"name": "Lilla rudan badplats", "text": "Lilla Rudan is a swimming area near Haninge.", "category": "recreational", "coords": [18.128561, 59.161733]}, {"name": "Ådran", "text": "Ådran is a peaceful lake in Haninge, surrounded by beautiful nature for relaxing walks.", "category": "natural", "coords": [18.01708, 59.159932]}, {"name": "Nedre Rudansjön", "text": "Nedre Rudansjön is a clear lake in Haninge, perfect for recreation and walks by the water.", "category": "natural", "coords": [18.127041, 59.159713]}, {"name": "Övre Rudansjön", "text": "Övre Rudansjön is a scenic lake in Haninge, providing a peaceful setting for nature lovers.", "category": "natural", "coords": [18.133796, 59.170011]}, {"name": "Kvarnsjön", "text": "Kvarnsjön is a small, quiet lake in Haninge, perfect for a short break in the greenery.", "category": "natural", "coords": [18.08028, 59.191211]}, {"name": "Lillsjön", "text": "Lillsjön is an idyllic lake in Haninge, perfect for a relaxing day outdoors.", "category": "natural", "coords": [18.123105, 59.149883]}, {"name": "Gammeldammen", "text": "Gammeldammen is a peaceful pond in Haninge, inviting visitors for quiet walks.", "category": "natural", "coords": [18.269949, 59.192411]}, {"name": "Årsjötjärnen", "text": "Årsjötjärnen is a small forest lake in Haninge, offering a pristine natural setting.", "category": "natural", "coords": [18.264833, 59.184419]}, {"name": "Bylsjön", "text": "Bylsjön is a lovely lake in Haninge, perfect for hiking and enjoying the views.", "category": "natural", "coords": [18.261344, 59.177195]}, {"name": "Mörtsjön", "text": "Mörtsjön is a quiet lake in Haninge, offering a peaceful atmosphere for visitors.", "category": "natural", "coords": [18.030277, 59.213256]}, {"name": "Barnsjön", "text": "Barnsjön is a family-friendly lake in Haninge, ideal for walks and enjoying nature.", "category": "natural", "coords": [18.235695, 59.226533]}, {"name": "Lissmasjön", "text": "Lissmasjön is an idyllic lake in Haninge, perfect for a quiet getaway in nature.", "category": "natural", "coords": [18.067544, 59.175662]}, {"name": "Trylen", "text": "Trylen is a small, peaceful lake in Haninge, surrounded by beautiful woodland.", "category": "natural", "coords": [18.107123, 59.16669]}, {"name": "Flaten", "text": "Flaten is a popular lake in Haninge, offering great opportunities for walks in the greenery.", "category": "natural", "coords": [18.153482, 59.249155]}, {"name": "Rudträsket", "text": "Rudträsket is a calm body of water in Haninge, ideal for a relaxing time in nature.", "category": "natural", "coords": [18.019182, 59.172965]}, {"name": "Drevviken", "text": "Drevviken is a large lake in Haninge, offering wide views and beautiful shoreline paths.", "category": "natural", "coords": [18.156202, 59.222505]}, {"name": "Magelungen", "text": "Magelungen is a scenic lake in Haninge, perfect for long walks by the water.", "category": "natural", "coords": [18.089156, 59.234972]}, {"name": "Orlången", "text": "Orlången is a spacious lake in Haninge, offering a diverse natural landscape.", "category": "natural", "coords": [18.02832, 59.202051]}, {"name": "Lycksjön", "text": "Lycksjön is a lovely lake in Haninge, perfect for a relaxing afternoon outdoors.", "category": "natural", "coords": [18.213162, 59.18267]}, {"name": "Svartsjön", "text": "Svartsjön is a quiet forest lake in Haninge, perfect for nature lovers and hikers.", "category": "natural", "coords": [18.203264, 59.174885]}, {"name": "Ramsjön", "text": "Ramsjön is a peaceful lake in Haninge, inviting relaxation and nature observation.", "category": "natural", "coords": [18.202294, 59.180774]}, {"name": "Årsjön", "text": "Årsjön is an idyllic lake in Haninge, perfect for hiking in a peaceful environment.", "category": "natural", "coords": [18.272348, 59.189879]}, {"name": "Tyresö-Flaten", "text": "Tyresö-Flaten is a scenic lake in Haninge, offering beautiful views of the landscape.", "category": "natural", "coords": [18.261321, 59.22102]}, {"name": "Öran", "text": "Öran is a quiet lake in Haninge, perfect for a relaxing day in nature.", "category": "natural", "coords": [18.068592, 59.149099]}, {"name": "Trehörningen", "text": "Trehörningen is a small lake in Haninge, providing a peaceful atmosphere for a break.", "category": "natural", "coords": [18.034275, 59.150719]}, {"name": "Långsjön", "text": "Långsjön is a lovely, long lake in Haninge, perfect for walks along the water.", "category": "natural", "coords": [18.037396, 59.143715]}]},
+    id: "sweden-haninge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rudan strand",
+                  "text": "Umgeben von tiefen Wäldern und klarem Wasser ist dieser Strand im Naherholungsgebiet Rudan bei Haninge ein idyllisches Ziel für Naturfreunde. Die ruhige Atmosphäre am Seeufer lädt dazu ein, nach einer kleinen Wanderung die Füße ins kühle Nass zu tauchen. Hier lässt es sich wunderbar abschalten und den Blick über die sanften Wellen schweifen. Ein Rucksack mit Erfrischungen macht den Aufenthalt im Grünen perfekt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "Am nördlichen Ufer des Rudan-Sees offenbart sich dieser charmante, kleine Sandstrand, der oft liebevoll Lillrudan genannt wird. Die familiäre und überschaubare Badestelle ist besonders bei Familien mit kleinen Kindern sehr geschätzt. Zwischen Waldrand und Seeufer findet jeder schnell ein schönes Plätzchen für sein Handtuch. An warmen Wochenenden ist es ratsam, das Auto stehen zu lassen und mit dem Fahrrad anzureisen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Hundestrand in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme ist eine Badestelle in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan ist eine Badestelle in der Nähe von Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Ådran ist ein friedlicher See in Haninge, umgeben von schöner Natur für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "Nedre Rudansjön ist ein klarer See in Haninge, ideal für Erholung und Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Övre Rudansjön ist ein malerischer See in Haninge, der eine ruhige Kulisse für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön ist ein kleiner, ruhiger See in Haninge, perfekt für eine kurze Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön ist ein idyllischer See in Haninge, ideal für einen erholsamen Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen ist ein friedlicher Teich in Haninge, der zu ruhigen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen ist ein kleiner Waldsee in Haninge, der eine unberührte Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön ist ein schöner See in Haninge, ideal für Wanderungen und das Genießen der Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön ist ein ruhiger See in Haninge, der eine friedliche Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön ist ein familienfreundlicher See in Haninge, ideal für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "Lissmasjön ist ein idyllischer See in Haninge, perfekt für eine Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "Trylen ist ein kleiner, friedlicher See in Haninge, umgeben von schöner Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten ist ein beliebter See in Haninge, der gute Möglichkeiten für Spaziergänge im Grünen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "Rudträsket ist ein ruhiges Gewässer in Haninge, ideal für eine entspannte Zeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken ist ein großer See in Haninge, der weite Ausblicke und schöne Uferwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen ist ein malerischer See in Haninge, ideal für ausgedehnte Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Orlången ist ein weitläufiger See in Haninge, der eine abwechslungsreiche Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "Lycksjön ist ein schöner See in Haninge, ideal für einen erholsamen Nachmittag im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Svartsjön ist ein ruhiger Waldsee in Haninge, perfekt für Naturliebhaber und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "Ramsjön ist ein friedlicher See in Haninge, der zu Entspannung und Naturbeobachtung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Årsjön ist ein idyllischer See in Haninge, ideal für Wanderungen in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "Tyresö-Flaten ist ein malerischer See in Haninge, der schöne Ausblicke auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Öran ist ein ruhiger See in Haninge, ideal für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen ist ein kleiner See in Haninge, der eine friedliche Atmosphäre zum Verweilen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön ist ein schöner, langer See in Haninge, ideal für Spaziergänge entlang des Wassers.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
+                  ]
+            },
+            {
+                  "name": "Höglundabadet",
+                  "text": "Ein Schwimmbad in Haninge mit Angeboten für Sport und Freizeitgestaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136679,
+                        59.139738
+                  ]
+            },
+            {
+                  "name": "Brandbergsbadet",
+                  "text": "Ein beliebtes Schwimmbad in Haninge, das für Freizeitschwimmen und Erholung genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        18.173945,
+                        59.170277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rudan strand",
+                  "text": "A mély erdőkkel és tiszta vízzel körülvett Haninge melletti Rudan rekreációs terület strandja idilli célpont a természetkedvelők számára. A tópart csendes légköre arra hívogat, hogy egy rövid túra után belemártsa a lábát a hűvös vízbe. Itt csodálatosan ki lehet kapcsolódni, és a tekintetét a szelíd hullámokon pihentetheti. Egy frissítőkkel teli hátizsák teszi igazán tökéletessé a természetben eltöltött időt.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "A Rudan-tó északi partján tárul elénk ez a bájos, apró homokos strand, amelyet gyakran kedvesen Lillrudannak is neveznek. Ezt a családias és átlátható fürdőhelyet különösen a kisgyermekes családok értékelik nagyra. Az erdő széle és a tópart között mindenki gyorsan talál egy szép helyet a törölközőjének. A meleg nyári hétvégéken érdemes otthon hagyni az autót, és inkább kerékpárral érkezni a partra.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Kutyastrand Haningében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme egy strandfürdő Haningében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan egy strandfürdő Haninge közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Az Ådran egy békés tó Haninge területén, amelyet szép természet övez a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "A Nedre Rudansjön egy tiszta vizű tó Haninge városában, amely ideális kikapcsolódásra és vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Az Övre Rudansjön egy festői tó Haninge területén, amely nyugodt környezetet nyújt a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A Kvarnsjön egy kis, nyugodt tó Haninge városában, amely tökéletes egy rövid zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Lillsjön egy idilli tó Haninge területén, amely ideális egy pihentető naphoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "A Gammeldammen egy békés tó Haninge városában, amely nyugodt sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Az Årsjötjärnen egy kis erdei tó Haninge területén, amely érintetlen természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "A Bylsjön egy szép tó Haninge városában, amely ideális túrázáshoz és a kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "A Mörtsjön egy nyugodt tó Haninge területén, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "A Barnsjön egy családbarát tó Haninge városában, amely kiváló sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "A Lissmasjön egy idilli tó Haninge területén, amely tökéletes egy kis természeti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "A Trylen egy kis, békés tó Haninge városában, amelyet szép erdei táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "A Flaten egy népszerű tó Haninge területén, amely remek lehetőségeket kínál a zöldben való sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "A Rudträsket egy nyugodt vízfelület Haninge városában, amely ideális a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "A Drevviken egy nagy tó Haninge területén, amely tágas kilátást és szép partmenti utakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "A Magelungen egy festői tó Haninge városában, amely ideális hosszú vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Az Orlången egy kiterjedt tó Haninge területén, amely változatos természeti tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "A Lycksjön egy szép tó Haninge városában, amely ideális egy pihentető délutánhoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "A Svartsjön egy nyugodt erdei tó Haninge területén, amely tökéletes a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "A Ramsjön egy békés tó Haninge városában, amely pihenésre és természetfigyelésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Az Årsjön egy idilli tó Haninge területén, amely ideális túrázáshoz nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "A Tyresö-Flaten egy festői tó Haninge városában, amely szép kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Az Öran egy nyugodt tó Haninge területén, amely ideális egy pihentető naphoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "A Trehörningen egy kis tó Haninge városában, amely békés környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "A Långsjön egy szép, hosszú tó Haninge területén, amely ideális vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
+                  ]
+            },
+            {
+                  "name": "Höglundabadet",
+                  "text": "Uszoda Haninge városában, amely sportolási és szabadidős lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136679,
+                        59.139738
+                  ]
+            },
+            {
+                  "name": "Brandbergsbadet",
+                  "text": "Népszerű uszoda Haninge városában, amely alkalmas szabadidős úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.173945,
+                        59.170277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rudan strand",
+                  "text": "Înconjurată de păduri adânci și apă limpede, această plajă din zona de recreere Rudan de lângă Haninge este o destinație idilică pentru iubitorii de natură. Atmosfera liniștită de pe malul lacului te invită să-ți scufunzi picioarele în apa rece după o scurtă drumeție. Aici vă puteți opri minunat și vă lăsați privirea să rătăcească peste valurile blânde. Un rucsac cu răcoritoare face ca șederea dumneavoastră în verdeață să fie absolut perfectă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "Pe malul nordic al lacului Rudan se află această mică plajă fermecătoare cu nisip, care este adesea numită cu afecțiune Lillrudan. Locul de scăldat familiar și ușor de gestionat este deosebit de apreciat de familiile cu copii mici. Între marginea pădurii și malul lacului, fiecare poate găsi rapid un loc frumos pentru prosopul său. În weekendurile calde, este indicat să lăsați mașina și să ajungeți aici cu bicicleta.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Plajă pentru câini în Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme este o zonă de plajă în Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan este o zonă de plajă lângă Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Ådran este un lac liniștit în Haninge, înconjurat de natură frumoasă pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "Nedre Rudansjön este un lac cu apă limpede în Haninge, ideal pentru recreere și plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Övre Rudansjön este un lac pitoresc în Haninge, oferind un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön este un lac mic și liniștit în Haninge, perfect pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön este un lac idilic în Haninge, ideal pentru o zi de relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen este un lac liniștit în Haninge, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen este un lac mic de pădure în Haninge, oferind un cadru natural nealterat.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön este un lac frumos în Haninge, ideal pentru drumeții și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön este un lac liniștit în Haninge, oferind o atmosferă pașnică vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön este un lac prietenos pentru familii în Haninge, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "Lissmasjön este un lac idilic în Haninge, perfect pentru o evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "Trylen este un lac mic și liniștit în Haninge, înconjurat de un peisaj forestier frumos.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten este un lac popular în Haninge, oferind oportunități bune pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "Rudträsket este o zonă de apă liniștită în Haninge, ideală pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken este un lac mare în Haninge, oferind priveliști vaste și trasee frumoase pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen este un lac pitoresc în Haninge, ideal pentru plimbări lungi pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Orlången este un lac întins în Haninge, oferind un peisaj natural variat.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "Lycksjön este un lac frumos în Haninge, ideal pentru o după-amiază de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Svartsjön este un lac de pădure liniștit în Haninge, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "Ramsjön este un lac liniștit în Haninge, care invită la relaxare și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Årsjön este un lac idilic în Haninge, ideal pentru drumeții într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "Tyresö-Flaten este un lac pitoresc în Haninge, oferind priveliști frumoase asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Öran este un lac liniștit în Haninge, ideal pentru o zi de relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen este un lac mic în Haninge, oferind o atmosferă pașnică pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön este un lac frumos și lung în Haninge, ideal pentru plimbări de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
+                  ]
+            },
+            {
+                  "name": "Höglundabadet",
+                  "text": "O piscină în Haninge care oferă facilități pentru sport și activități de petrecere a timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136679,
+                        59.139738
+                  ]
+            },
+            {
+                  "name": "Brandbergsbadet",
+                  "text": "O piscină populară în Haninge, utilizată pentru înot recreativ și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        18.173945,
+                        59.170277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rudan strand",
+                  "text": "Surrounded by deep forests and exceptionally clear water, this beach in the Rudan recreation area near Haninge is an idyllic destination for nature lovers. The quiet atmosphere on the lakeshore invites you to dip your toes in the cool water after a brief hike. Here, one can wonderfully switch off and let their gaze wander over the gentle, rolling waves. Packing a backpack with refreshing snacks makes a stay in this green oasis absolutely perfect.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "On the northern shore of Lake Rudan lies this exceptionally charming little sandy beach, which is often affectionately called Lillrudan. This very familiar and manageable bathing spot is especially highly appreciated by families with small children. Between the edge of the forest and the lakeshore, everyone can quickly find a beautiful spot for their towel. On warm weekends, it is highly advisable to leave the car behind and travel here by bicycle.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Dog beach in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme is a swimming area in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan is a swimming area near Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            },
+            {
+                  "name": "Ådran",
+                  "text": "Ådran is a peaceful lake in Haninge, surrounded by beautiful nature for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.01708,
+                        59.159932
+                  ]
+            },
+            {
+                  "name": "Nedre Rudansjön",
+                  "text": "Nedre Rudansjön is a clear lake in Haninge, perfect for recreation and walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.127041,
+                        59.159713
+                  ]
+            },
+            {
+                  "name": "Övre Rudansjön",
+                  "text": "Övre Rudansjön is a scenic lake in Haninge, providing a peaceful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.133796,
+                        59.170011
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön is a small, quiet lake in Haninge, perfect for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.08028,
+                        59.191211
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön is an idyllic lake in Haninge, perfect for a relaxing day outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.123105,
+                        59.149883
+                  ]
+            },
+            {
+                  "name": "Gammeldammen",
+                  "text": "Gammeldammen is a peaceful pond in Haninge, inviting visitors for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.269949,
+                        59.192411
+                  ]
+            },
+            {
+                  "name": "Årsjötjärnen",
+                  "text": "Årsjötjärnen is a small forest lake in Haninge, offering a pristine natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.264833,
+                        59.184419
+                  ]
+            },
+            {
+                  "name": "Bylsjön",
+                  "text": "Bylsjön is a lovely lake in Haninge, perfect for hiking and enjoying the views.",
+                  "category": "natural",
+                  "coords": [
+                        18.261344,
+                        59.177195
+                  ]
+            },
+            {
+                  "name": "Mörtsjön",
+                  "text": "Mörtsjön is a quiet lake in Haninge, offering a peaceful atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.030277,
+                        59.213256
+                  ]
+            },
+            {
+                  "name": "Barnsjön",
+                  "text": "Barnsjön is a family-friendly lake in Haninge, ideal for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.235695,
+                        59.226533
+                  ]
+            },
+            {
+                  "name": "Lissmasjön",
+                  "text": "Lissmasjön is an idyllic lake in Haninge, perfect for a quiet getaway in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.067544,
+                        59.175662
+                  ]
+            },
+            {
+                  "name": "Trylen",
+                  "text": "Trylen is a small, peaceful lake in Haninge, surrounded by beautiful woodland.",
+                  "category": "natural",
+                  "coords": [
+                        18.107123,
+                        59.16669
+                  ]
+            },
+            {
+                  "name": "Flaten",
+                  "text": "Flaten is a popular lake in Haninge, offering great opportunities for walks in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.153482,
+                        59.249155
+                  ]
+            },
+            {
+                  "name": "Rudträsket",
+                  "text": "Rudträsket is a calm body of water in Haninge, ideal for a relaxing time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.019182,
+                        59.172965
+                  ]
+            },
+            {
+                  "name": "Drevviken",
+                  "text": "Drevviken is a large lake in Haninge, offering wide views and beautiful shoreline paths.",
+                  "category": "natural",
+                  "coords": [
+                        18.156202,
+                        59.222505
+                  ]
+            },
+            {
+                  "name": "Magelungen",
+                  "text": "Magelungen is a scenic lake in Haninge, perfect for long walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.089156,
+                        59.234972
+                  ]
+            },
+            {
+                  "name": "Orlången",
+                  "text": "Orlången is a spacious lake in Haninge, offering a diverse natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.02832,
+                        59.202051
+                  ]
+            },
+            {
+                  "name": "Lycksjön",
+                  "text": "Lycksjön is a lovely lake in Haninge, perfect for a relaxing afternoon outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.213162,
+                        59.18267
+                  ]
+            },
+            {
+                  "name": "Svartsjön",
+                  "text": "Svartsjön is a quiet forest lake in Haninge, perfect for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        18.203264,
+                        59.174885
+                  ]
+            },
+            {
+                  "name": "Ramsjön",
+                  "text": "Ramsjön is a peaceful lake in Haninge, inviting relaxation and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        18.202294,
+                        59.180774
+                  ]
+            },
+            {
+                  "name": "Årsjön",
+                  "text": "Årsjön is an idyllic lake in Haninge, perfect for hiking in a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.272348,
+                        59.189879
+                  ]
+            },
+            {
+                  "name": "Tyresö-Flaten",
+                  "text": "Tyresö-Flaten is a scenic lake in Haninge, offering beautiful views of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.261321,
+                        59.22102
+                  ]
+            },
+            {
+                  "name": "Öran",
+                  "text": "Öran is a quiet lake in Haninge, perfect for a relaxing day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.068592,
+                        59.149099
+                  ]
+            },
+            {
+                  "name": "Trehörningen",
+                  "text": "Trehörningen is a small lake in Haninge, providing a peaceful atmosphere for a break.",
+                  "category": "natural",
+                  "coords": [
+                        18.034275,
+                        59.150719
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön is a lovely, long lake in Haninge, perfect for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.037396,
+                        59.143715
+                  ]
+            },
+            {
+                  "name": "Höglundabadet",
+                  "text": "A swimming pool in Haninge offering facilities for sports and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136679,
+                        59.139738
+                  ]
+            },
+            {
+                  "name": "Brandbergsbadet",
+                  "text": "A popular swimming pool in Haninge used for recreational swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.173945,
+                        59.170277
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Haninge", hu: "Haninge", ro: "Haninge", en: "Haninge" },

@@ -15073,6 +15073,15 @@ export const poiExtraDe2: POI[] = [
                         6.736503,
                         50.339239
                   ]
+            },
+            {
+                  "name": "Schmetterlingsgarten \"Eifalia\"",
+                  "text": "Dieser Schmetterlingsgarten in der Eifel bietet Besuchern die Möglichkeit, zahlreiche exotische Schmetterlingsarten in einem tropischen Ambiente zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73524,
+                        50.389519
+                  ]
             }
       ],
       "hu": [
@@ -15146,6 +15155,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         6.736503,
                         50.339239
+                  ]
+            },
+            {
+                  "name": "Schmetterlingsgarten \"Eifalia\"",
+                  "text": "Ez az eifeli pillangókert lehetőséget nyújt a látogatóknak, hogy számos egzotikus lepkefajt figyeljenek meg trópusi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73524,
+                        50.389519
                   ]
             }
       ],
@@ -15221,6 +15239,15 @@ export const poiExtraDe2: POI[] = [
                         6.736503,
                         50.339239
                   ]
+            },
+            {
+                  "name": "Schmetterlingsgarten \"Eifalia\"",
+                  "text": "Această grădină de fluturi din regiunea Eifel oferă vizitatorilor șansa de a observa numeroase specii exotice de fluturi într-un cadru tropical.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73524,
+                        50.389519
+                  ]
             }
       ],
       "en": [
@@ -15294,6 +15321,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         6.736503,
                         50.339239
+                  ]
+            },
+            {
+                  "name": "Schmetterlingsgarten \"Eifalia\"",
+                  "text": "This butterfly garden in the Eifel region offers visitors the chance to observe numerous exotic butterfly species in a tropical setting.",
+                  "category": "recreational",
+                  "coords": [
+                        6.73524,
+                        50.389519
                   ]
             }
       ]
@@ -15499,6 +15535,24 @@ export const poiExtraDe2: POI[] = [
                         7.73207,
                         50.101005
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Ein Hallenbad in der Loreleyschule.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Ein Freibad in Werlau mit Blick auf den Rhein.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
             }
       ],
       "hu": [
@@ -15563,6 +15617,24 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.73207,
                         50.101005
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "Fedett uszoda a Loreley iskolában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Szabadtéri élményfürdő Werlauban, kilátással a Rajnára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
                   ]
             }
       ],
@@ -15629,6 +15701,24 @@ export const poiExtraDe2: POI[] = [
                         7.73207,
                         50.101005
                   ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "O piscină interioară situată la școala Loreley.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "Un parc acvatic în aer liber în Werlau, cu vedere la Rin.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
+                  ]
             }
       ],
       "en": [
@@ -15693,6 +15783,24 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.73207,
                         50.101005
+                  ]
+            },
+            {
+                  "name": "Hallenbad der Loreleyschule",
+                  "text": "An indoor swimming pool located at the Loreley School.",
+                  "category": "recreational",
+                  "coords": [
+                        7.7289,
+                        50.152661
+                  ]
+            },
+            {
+                  "name": "Rheingoldbad Werlau",
+                  "text": "An outdoor water park in Werlau offering views of the Rhine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.695637,
+                        50.153712
                   ]
             }
       ]

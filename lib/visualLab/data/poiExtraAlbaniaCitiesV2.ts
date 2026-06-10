@@ -11045,7 +11045,232 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-konispol-cities-v2", "sights": {"de": [{"name": "Vendbanimi Rrënojë i Qafës së Stismave", "text": "Vendbanimi Rrënojë i Qafës së Stismave ist eine archäologische Stätte mit antiken Ruinen in Konispol.", "category": "historical", "coords": [20.162202, 39.677078]}, {"name": "Arkoudi", "text": "Arkoudi ist ein Berggipfel in der Nähe von Konispol.", "category": "natural", "coords": [20.153852, 39.647561]}, {"name": "Lykogianni", "text": "Lykogianni ist ein markanter natürlicher Gipfel in der Region Konispol.", "category": "natural", "coords": [20.205568, 39.645886]}, {"name": "Altes Sagiada", "text": "Old Sagiada enthält historische Ruinen in der Nähe der Stadt Konispol.", "category": "historical", "coords": [20.201731, 39.637312]}], "hu": [{"name": "Vendbanimi Rrënojë i Qafës së Stismave", "text": "A Vendbanimi Rrënojë i Qafës së Stismave egy régészeti lelőhely ősi romokkal Konispol területén.", "category": "historical", "coords": [20.162202, 39.677078]}, {"name": "Arkoydi", "text": "Az Arkoudi egy hegycsúcs Konispol közelében.", "category": "natural", "coords": [20.153852, 39.647561]}, {"name": "Lykogianni", "text": "A Lykogianni egy figyelemre méltó természetes hegycsúcs Konispol régiójában.", "category": "natural", "coords": [20.205568, 39.645886]}, {"name": "Palia Sagiada", "text": "Az Old Sagiada történelmi romokat rejt Konispol városa közelében.", "category": "historical", "coords": [20.201731, 39.637312]}], "ro": [{"name": "Vendbanimi Rrënojë i Qafës së Stismave", "text": "Vendbanimi Rrënojë i Qafës së Stismave este un sit arheologic cu ruine antice în Konispol.", "category": "historical", "coords": [20.162202, 39.677078]}, {"name": "Arkoydi", "text": "Arkoudi este un vârf montan situat în apropiere de Konispol.", "category": "natural", "coords": [20.153852, 39.647561]}, {"name": "Lykogianni", "text": "Lykogianni este un vârf natural notabil situat în regiunea Konispol.", "category": "natural", "coords": [20.205568, 39.645886]}, {"name": "Palia Sagiada", "text": "Old Sagiada conține ruine istorice accesibile în apropierea orașului Konispol.", "category": "historical", "coords": [20.201731, 39.637312]}], "en": [{"name": "Vendbanimi Rrënojë i Qafës së Stismave", "text": "Vendbanimi Rrënojë i Qafës së Stismave is an archaeological site revealing ancient ruins in Konispol.", "category": "historical", "coords": [20.162202, 39.677078]}, {"name": "Arkoudi", "text": "Arkoudi is a mountain peak situated near Konispol.", "category": "natural", "coords": [20.153852, 39.647561]}, {"name": "Lykogianni", "text": "Lykogianni is a notable natural peak located in the region of Konispol.", "category": "natural", "coords": [20.205568, 39.645886]}, {"name": "Old Sagiada", "text": "Old Sagiada contains historic ruins accessible near the city of Konispol.", "category": "historical", "coords": [20.201731, 39.637312]}]},
+    id: "albania-konispol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "Vendbanimi Rrënojë i Qafës së Stismave ist eine archäologische Stätte mit antiken Ruinen in Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Arkoudi",
+                  "text": "Arkoudi ist ein Berggipfel in der Nähe von Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Lykogianni",
+                  "text": "Lykogianni ist ein markanter natürlicher Gipfel in der Region Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Altes Sagiada",
+                  "text": "Old Sagiada enthält historische Ruinen in der Nähe der Stadt Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            },
+            {
+                  "name": "Keramidi Beach",
+                  "text": "Ein ruhiger Strand in der Nähe von Konispol an der ionischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        20.156804,
+                        39.639225
+                  ]
+            },
+            {
+                  "name": "Sagiada Strand",
+                  "text": "Ein Küstenstrand in der Gegend von Sagiada in Grenznähe.",
+                  "category": "recreational",
+                  "coords": [
+                        20.178402,
+                        39.627335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "A Vendbanimi Rrënojë i Qafës së Stismave egy régészeti lelőhely ősi romokkal Konispol területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Arkoydi",
+                  "text": "Az Arkoudi egy hegycsúcs Konispol közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Lykogianni",
+                  "text": "A Lykogianni egy figyelemre méltó természetes hegycsúcs Konispol régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Palia Sagiada",
+                  "text": "Az Old Sagiada történelmi romokat rejt Konispol városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            },
+            {
+                  "name": "Keramidi Beach",
+                  "text": "Csendes strand Konispol közelében a Jón-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        20.156804,
+                        39.639225
+                  ]
+            },
+            {
+                  "name": "Παραλία Σαγιάδας",
+                  "text": "Tengerparti strand Sagiada területén, a határ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.178402,
+                        39.627335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "Vendbanimi Rrënojë i Qafës së Stismave este un sit arheologic cu ruine antice în Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Arkoydi",
+                  "text": "Arkoudi este un vârf montan situat în apropiere de Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Lykogianni",
+                  "text": "Lykogianni este un vârf natural notabil situat în regiunea Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Palia Sagiada",
+                  "text": "Old Sagiada conține ruine istorice accesibile în apropierea orașului Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            },
+            {
+                  "name": "Keramidi Beach",
+                  "text": "O plajă liniștită situată lângă Konispol pe coasta ionică.",
+                  "category": "recreational",
+                  "coords": [
+                        20.156804,
+                        39.639225
+                  ]
+            },
+            {
+                  "name": "Παραλία Σαγιάδας",
+                  "text": "O plajă de coastă situată în zona Sagiada, lângă graniță.",
+                  "category": "recreational",
+                  "coords": [
+                        20.178402,
+                        39.627335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "Vendbanimi Rrënojë i Qafës së Stismave is an archaeological site revealing ancient ruins in Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Arkoudi",
+                  "text": "Arkoudi is a mountain peak situated near Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Lykogianni",
+                  "text": "Lykogianni is a notable natural peak located in the region of Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Old Sagiada",
+                  "text": "Old Sagiada contains historic ruins accessible near the city of Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            },
+            {
+                  "name": "Keramidi Beach",
+                  "text": "A quiet beach located near Konispol on the Ionian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        20.156804,
+                        39.639225
+                  ]
+            },
+            {
+                  "name": "Sagiada Beach",
+                  "text": "A coastal beach located in the Sagiada area near the border.",
+                  "category": "recreational",
+                  "coords": [
+                        20.178402,
+                        39.627335
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Konispol", hu: "Konispol", ro: "Konispol", en: "Konispol"},
@@ -11938,7 +12163,484 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-dimal-cities-v2.webp",
   },
   {
-    id: "albania-golem-cities-v2", "sights": {"de": [{"name": "Plazhi i Golemit", "text": "Plazhi i Golemit ist ein bekannter Sandstrand, der sich entlang der Küste von Golem erstreckt.", "category": "recreational", "coords": [19.514761, 41.258011]}, {"name": "Plazh Publik", "text": "Public Beach ist ein zugänglicher Strandbereich, der in Golem Entspannung an der Küste bietet.", "category": "recreational", "coords": [19.51856, 41.244742]}, {"name": "Kalaja e Zigxhafajt", "text": "Kalaja e Zigxhafajt ist eine bedeutende archäologische Stätte in der Region Golem.", "category": "historical", "coords": [19.564992, 41.199567]}, {"name": "AQUAPARK", "text": "AQUAPARK ist ein Wasserpark in der Stadt Golem, der Unterhaltung im Wasser bietet.", "category": "family", "coords": [19.517739, 41.231887]}, {"name": "Lapidar", "text": "Lapidar ist ein lokales Denkmal in Golem.", "category": "historical", "coords": [19.530871, 41.245644]}, {"name": "Enera Beach", "text": "Das Strandresort Enera Beach in Golem ist ein beliebtes Ziel für Küstenliebhaber. Mit seinen einladenden Sandabschnitten bietet es fantastische Bedingungen für einen ausgedehnten Tag am Wasser. Die lebhafte Stimmung zieht sowohl Familien als auch junge Reisende an. Vergessen Sie nicht, ausreichend Sonnencreme für die sonnenverwöhnten Nachmittage mitzubringen.", "category": "recreational", "coords": [19.51615, 41.239138]}, {"name": "Klajdi Resort", "text": "Das Klajdi Resort ist ein Strandresort in Golem, das Unterkünfte am Meer bietet.", "category": "recreational", "coords": [19.515468, 41.237228]}, {"name": "Fafa Beach", "text": "Fafa Beach ist ein bekanntes Küstenresort in Golem, das Urlaubsträume wahr werden lässt. Hier verschmelzen Badespaß und erholsame Strandspaziergänge zu einem perfekten Tag. Die Szenerie wird oft von einem geselligen Treiben begleitet. Kommen Sie am besten während der Sommermonate, um das volle Küstenerlebnis auszukosten.", "category": "recreational", "coords": [19.515193, 41.236302]}, {"name": "Kastrati Beach", "text": "Eingebettet in die städtische Struktur von Golem präsentiert sich das Resort Kastrati Beach. Lange Sandstrände laden Besucher ein, sich beim Schwimmen oder Sonnenbaden zu entspannen. Die Atmosphäre ist von einem freundlichen und gastfreundlichen Charakter geprägt. Ein früher Strandbesuch ist ideal, um in Ruhe dem Wellenschlag zuzuhören.", "category": "recreational", "coords": [19.514245, 41.233871]}, {"name": "Prestige Beach", "text": "An der sonnigen Küste von Golem bietet das Resort Prestige Beach eine wunderbare Auszeit vom Alltag. Das Rauschen des Meeres und der weiche Sand bilden die perfekte Kulisse für ausgiebiges Sonnenbaden. Gäste können hier entspannte Spaziergänge unternehmen und das warme Wasser genießen. Für den maximalen Komfort empfiehlt sich leichte Strandkleidung und ein gutes Buch.", "category": "recreational", "coords": [19.513773, 41.232615]}, {"name": "Golems Beach", "text": "Der Hauptstrand von Golem ist das pulsierende Herz der lokalen Küstenlinie. Seine weite Ausdehnung bietet viel Platz für alle Arten von Strandaktivitäten, von entspanntem Sonnen bis hin zu lebhaften Spielen. Hier mischen sich Einheimische und Urlauber zu einem bunten Publikum. Wenn Sie Menschenaufläufe meiden möchten, sollten Sie in den frühen Morgenstunden anreisen.", "category": "recreational", "coords": [19.518471, 41.266998]}, {"name": "Playa Del Este", "text": "Playa Del Este fängt die lebendige Strandkultur von Golem gekonnt ein. Dieser Strandabschnitt verspricht entspannte Stunden am Wasser und gemütliche Spaziergänge im Sand. Die freundliche Atmosphäre macht es leicht, den Alltagsstress hinter sich zu lassen. Ein Besuch zum Sonnenuntergang bietet oft ein besonders schönes Fotomotiv.", "category": "recreational", "coords": [19.495886, 41.208414]}], "hu": [{"name": "Plazhi i Golemit", "text": "A Plazhi i Golemit egy jól ismert homokos strand, amely Golem partja mentén húzódik.", "category": "recreational", "coords": [19.514761, 41.258011]}, {"name": "Plazh Publik", "text": "A Public Beach egy könnyen megközelíthető strand, amely tengerparti kikapcsolódást kínál Golemben.", "category": "recreational", "coords": [19.51856, 41.244742]}, {"name": "Kalaja e Zigxhafajt", "text": "A Kalaja e Zigxhafajt egy figyelemre méltó régészeti lelőhely Golem régiójában.", "category": "historical", "coords": [19.564992, 41.199567]}, {"name": "AQUAPARK", "text": "Az AQUAPARK egy vízi vidámpark, amely szórakozási lehetőségeket kínál Golem városában.", "category": "family", "coords": [19.517739, 41.231887]}, {"name": "Lapidar", "text": "A Lapidar egy helyi emlékmű Golem városában.", "category": "historical", "coords": [19.530871, 41.245644]}, {"name": "Enera Beach", "text": "A golemi Enera Beach strandüdülő népszerű úti cél a partvidék szerelmeseinek. Hívogató homokos szakaszaival fantasztikus feltételeket kínál egy hosszú vízparti naphoz. A nyüzsgő hangulat egyaránt vonzza a családokat és a fiatal utazókat. Ne felejtsen el elegendő naptejet hozni a napsütötte délutánokra.", "category": "recreational", "coords": [19.51615, 41.239138]}, {"name": "Klajdi Resort", "text": "A Klajdi Resort egy tengerparti üdülőhely, amely tengerparti hozzáférést biztosít Golemben.", "category": "recreational", "coords": [19.515468, 41.237228]}, {"name": "Fafa Beach", "text": "A Fafa Beach egy jól ismert tengerparti üdülőhely Golemben, amely valóra váltja a nyaralási álmokat. Itt a fürdőzés öröme és a pihentető tengerparti séták egy tökéletes nappá olvadnak össze. A helyszínt gyakran társasági nyüzsgés kíséri. A legjobb, ha a nyári hónapokban érkezik, hogy kiélvezhesse a teljes tengerparti élményt.", "category": "recreational", "coords": [19.515193, 41.236302]}, {"name": "Kastrati Beach", "text": "A Kastrati Beach üdülőhely Golem városi szerkezetébe ágyazva mutatkozik be. A hosszú homokos strandok arra csábítják a látogatókat, hogy úszással vagy napozással pihenjenek. A légkört barátságos és vendégszerető jelleg hatja át. Egy korai strandlátogatás ideális arra, hogy békében hallgassuk a hullámok verődését.", "category": "recreational", "coords": [19.514245, 41.233871]}, {"name": "Prestige Beach", "text": "Golem napsütötte partján a Prestige Beach üdülőhely csodálatos kikapcsolódást kínál a mindennapokból. A tenger zúgása és a puha homok tökéletes hátteret biztosít a kiadós napozáshoz. A vendégek pihentető sétákat tehetnek és élvezhetik a meleg vizet. A maximális kényelem érdekében könnyű strandruházat és egy jó könyv ajánlott.", "category": "recreational", "coords": [19.513773, 41.232615]}, {"name": "Golems Beach", "text": "Golem fő strandja a helyi partvidék lüktető szíve. Hatalmas kiterjedése rengeteg helyet kínál mindenféle strandtevékenységhez, a pihentető napozástól az élénk játékokig. A helyiek és a nyaralók itt egy színes közönséggé keverednek. Ha szeretné elkerülni a tömeget, érkezzen a kora reggeli órákban.", "category": "recreational", "coords": [19.518471, 41.266998]}, {"name": "Playa Del Este", "text": "A Playa Del Este ügyesen ragadja meg Golem élénk strandkultúráját. Ez a partszakasz pihentető órákat ígér a vízparton és kényelmes sétákat a homokban. A barátságos légkör megkönnyíti a mindennapi stressz hátrahagyását. A naplementekor tett látogatás gyakran különösen szép fotótémát kínál.", "category": "recreational", "coords": [19.495886, 41.208414]}], "ro": [{"name": "Plazhi i Golemit", "text": "Plazhi i Golemit este o plajă cu nisip binecunoscută care se întinde de-a lungul coastei Golemului.", "category": "recreational", "coords": [19.514761, 41.258011]}, {"name": "Plazh Publik", "text": "Public Beach este o zonă de plajă accesibilă care oferă relaxare pe coastă în Golem.", "category": "recreational", "coords": [19.51856, 41.244742]}, {"name": "Kalaja e Zigxhafajt", "text": "Kalaja e Zigxhafajt este un sit arheologic notabil situat în regiunea Golem.", "category": "historical", "coords": [19.564992, 41.199567]}, {"name": "AQUAPARK", "text": "AQUAPARK este un parc acvatic care oferă divertisment în orașul Golem.", "category": "family", "coords": [19.517739, 41.231887]}, {"name": "Lapidar", "text": "Lapidar este un monument local situat în Golem.", "category": "historical", "coords": [19.530871, 41.245644]}, {"name": "Enera Beach", "text": "Stațiunea Enera Beach din Golem este o destinație populară pentru iubitorii litoralului. Cu zonele sale primitoare de nisip, oferă condiții fantastice pentru o zi lungă la apă. Atmosfera plină de viață atrage atât familiile, cât și tinerii călători. Nu uitați să aduceți suficientă cremă de protecție solară pentru după-amiezele însorite.", "category": "recreational", "coords": [19.51615, 41.239138]}, {"name": "Klajdi Resort", "text": "Klajdi Resort este o stațiune balneară ce oferă cazare pe litoral în Golem.", "category": "recreational", "coords": [19.515468, 41.237228]}, {"name": "Fafa Beach", "text": "Fafa Beach este o renumită stațiune de coastă în Golem, unde visele de vacanță devin realitate. Aici, distracția la scăldat și plimbările relaxante pe plajă se contopesc într-o zi perfectă. Scena este adesea însoțită de o agitație socială plăcută. Cel mai bine este să veniți în lunile de vară pentru a vă bucura de experiența completă de coastă.", "category": "recreational", "coords": [19.515193, 41.236302]}, {"name": "Kastrati Beach", "text": "Încorporată în structura urbană din Golem, se prezintă stațiunea Kastrati Beach. Plajele lungi de nisip invită vizitatorii să se relaxeze înotând sau făcând plajă. Atmosfera este caracterizată de o natură prietenoasă și ospitalieră. O vizită timpurie la plajă este ideală pentru a asculta liniștit sunetul valurilor.", "category": "recreational", "coords": [19.514245, 41.233871]}, {"name": "Prestige Beach", "text": "Pe coasta însorită din Golem, stațiunea Prestige Beach oferă o pauză minunată de la viața de zi cu zi. Sunetul mării și nisipul fin formează fundalul perfect pentru o plajă prelungită. Oaspeții pot face plimbări relaxante aici și se pot bucura de apa caldă. Pentru un confort maxim, se recomandă îmbrăcăminte ușoară de plajă și o carte bună.", "category": "recreational", "coords": [19.513773, 41.232615]}, {"name": "Golems Beach", "text": "Plaja principală din Golem este inima pulsantă a coastei locale. Întinderea sa vastă oferă mult spațiu pentru tot felul de activități pe plajă, de la soare relaxant la jocuri pline de viață. Aici, localnicii și turiștii se amestecă într-o mulțime colorată. Dacă doriți să evitați aglomerația, ar trebui să ajungeți la primele ore ale dimineții.", "category": "recreational", "coords": [19.518471, 41.266998]}, {"name": "Playa Del Este", "text": "Playa Del Este surprinde cu pricepere cultura vibrantă a plajei din Golem. Această porțiune de plajă promite ore de relaxare pe malul apei și plimbări confortabile pe nisip. Atmosfera prietenoasă face ușoară lăsarea în urmă a stresului zilnic. O vizită la apus oferă adesea un subiect foto deosebit de frumos.", "category": "recreational", "coords": [19.495886, 41.208414]}], "en": [{"name": "Plazhi i Golemit", "text": "Plazhi i Golemit is a well-known sandy beach stretching along the coast of Golem.", "category": "recreational", "coords": [19.514761, 41.258011]}, {"name": "Public Beach", "text": "Public Beach is an accessible beach area offering coastal relaxation in Golem.", "category": "recreational", "coords": [19.51856, 41.244742]}, {"name": "Kalaja e Zigxhafajt", "text": "Kalaja e Zigxhafajt is a notable archaeological site located within the region of Golem.", "category": "historical", "coords": [19.564992, 41.199567]}, {"name": "AQUAPARK", "text": "AQUAPARK is a water park offering aquatic entertainment in the city of Golem.", "category": "family", "coords": [19.517739, 41.231887]}, {"name": "Lapidar", "text": "Lapidar is a local monument situated in Golem.", "category": "historical", "coords": [19.530871, 41.245644]}, {"name": "Enera Beach", "text": "The Enera Beach resort in Golem is a popular destination for coastal lovers. With its inviting sandy stretches, it offers fantastic conditions for an extended day by the water. The lively mood attracts families and young travelers alike. Don't forget to bring plenty of sunscreen for the sun-drenched afternoons.", "category": "recreational", "coords": [19.51615, 41.239138]}, {"name": "Klajdi Resort", "text": "Klajdi Resort is a beach resort offering accommodation and coastal access in Golem.", "category": "recreational", "coords": [19.515468, 41.237228]}, {"name": "Fafa Beach", "text": "Fafa Beach is a well-known coastal resort in Golem that makes holiday dreams come true. Bathing fun and relaxing beach walks merge into a perfect day here. The scenery is often accompanied by a sociable bustle. It is best to arrive during the summer months to enjoy the full coastal experience.", "category": "recreational", "coords": [19.515193, 41.236302]}, {"name": "Kastrati Beach", "text": "Embedded in the urban structure of Golem, the Kastrati Beach resort presents itself. Long sandy beaches invite visitors to relax by swimming or sunbathing. The atmosphere is characterized by a friendly and hospitable nature. An early beach visit is ideal to quietly listen to the crashing waves.", "category": "recreational", "coords": [19.514245, 41.233871]}, {"name": "Prestige Beach", "text": "On the sunny coast of Golem, the Prestige Beach resort offers a wonderful break from everyday life. The sound of the sea and the soft sand form the perfect backdrop for extensive sunbathing. Guests can take relaxing walks here and enjoy the warm water. For maximum comfort, light beachwear and a good book are recommended.", "category": "recreational", "coords": [19.513773, 41.232615]}, {"name": "Golems Beach", "text": "The main beach of Golem is the pulsating heart of the local coastline. Its vast expanse offers plenty of space for all kinds of beach activities, from relaxed sunning to lively games. Here, locals and vacationers mix into a colorful crowd. If you want to avoid crowds, you should plan to arrive in the early morning hours.", "category": "recreational", "coords": [19.518471, 41.266998]}, {"name": "Playa Del Este", "text": "Playa Del Este skillfully captures the vibrant beach culture of Golem. This stretch of beach promises relaxing hours by the water and cozy walks in the sand. The friendly atmosphere makes it easy to leave everyday stress behind. A visit at sunset often provides a particularly beautiful photo opportunity.", "category": "recreational", "coords": [19.495886, 41.208414]}]},
+    id: "albania-golem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "Plazhi i Golemit ist ein bekannter Sandstrand, der sich entlang der Küste von Golem erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "Public Beach ist ein zugänglicher Strandbereich, der in Golem Entspannung an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt ist eine bedeutende archäologische Stätte in der Region Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "AQUAPARK ist ein Wasserpark in der Stadt Golem, der Unterhaltung im Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar ist ein lokales Denkmal in Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "Das Strandresort Enera Beach in Golem ist ein beliebtes Ziel für Küstenliebhaber. Mit seinen einladenden Sandabschnitten bietet es fantastische Bedingungen für einen ausgedehnten Tag am Wasser. Die lebhafte Stimmung zieht sowohl Familien als auch junge Reisende an. Vergessen Sie nicht, ausreichend Sonnencreme für die sonnenverwöhnten Nachmittage mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "Das Klajdi Resort ist ein Strandresort in Golem, das Unterkünfte am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "Fafa Beach ist ein bekanntes Küstenresort in Golem, das Urlaubsträume wahr werden lässt. Hier verschmelzen Badespaß und erholsame Strandspaziergänge zu einem perfekten Tag. Die Szenerie wird oft von einem geselligen Treiben begleitet. Kommen Sie am besten während der Sommermonate, um das volle Küstenerlebnis auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "Eingebettet in die städtische Struktur von Golem präsentiert sich das Resort Kastrati Beach. Lange Sandstrände laden Besucher ein, sich beim Schwimmen oder Sonnenbaden zu entspannen. Die Atmosphäre ist von einem freundlichen und gastfreundlichen Charakter geprägt. Ein früher Strandbesuch ist ideal, um in Ruhe dem Wellenschlag zuzuhören.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "An der sonnigen Küste von Golem bietet das Resort Prestige Beach eine wunderbare Auszeit vom Alltag. Das Rauschen des Meeres und der weiche Sand bilden die perfekte Kulisse für ausgiebiges Sonnenbaden. Gäste können hier entspannte Spaziergänge unternehmen und das warme Wasser genießen. Für den maximalen Komfort empfiehlt sich leichte Strandkleidung und ein gutes Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "Der Hauptstrand von Golem ist das pulsierende Herz der lokalen Küstenlinie. Seine weite Ausdehnung bietet viel Platz für alle Arten von Strandaktivitäten, von entspanntem Sonnen bis hin zu lebhaften Spielen. Hier mischen sich Einheimische und Urlauber zu einem bunten Publikum. Wenn Sie Menschenaufläufe meiden möchten, sollten Sie in den frühen Morgenstunden anreisen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "Playa Del Este fängt die lebendige Strandkultur von Golem gekonnt ein. Dieser Strandabschnitt verspricht entspannte Stunden am Wasser und gemütliche Spaziergänge im Sand. Die freundliche Atmosphäre macht es leicht, den Alltagsstress hinter sich zu lassen. Ein Besuch zum Sonnenuntergang bietet oft ein besonders schönes Fotomotiv.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "Eine Schwimmbadanlage in Golem, die einen Ort zum Schwimmen und Entspannen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.520391,
+                        41.26214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "A Plazhi i Golemit egy jól ismert homokos strand, amely Golem partja mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "A Public Beach egy könnyen megközelíthető strand, amely tengerparti kikapcsolódást kínál Golemben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "A Kalaja e Zigxhafajt egy figyelemre méltó régészeti lelőhely Golem régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "Az AQUAPARK egy vízi vidámpark, amely szórakozási lehetőségeket kínál Golem városában.",
+                  "category": "family",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "A Lapidar egy helyi emlékmű Golem városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "A golemi Enera Beach strandüdülő népszerű úti cél a partvidék szerelmeseinek. Hívogató homokos szakaszaival fantasztikus feltételeket kínál egy hosszú vízparti naphoz. A nyüzsgő hangulat egyaránt vonzza a családokat és a fiatal utazókat. Ne felejtsen el elegendő naptejet hozni a napsütötte délutánokra.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "A Klajdi Resort egy tengerparti üdülőhely, amely tengerparti hozzáférést biztosít Golemben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "A Fafa Beach egy jól ismert tengerparti üdülőhely Golemben, amely valóra váltja a nyaralási álmokat. Itt a fürdőzés öröme és a pihentető tengerparti séták egy tökéletes nappá olvadnak össze. A helyszínt gyakran társasági nyüzsgés kíséri. A legjobb, ha a nyári hónapokban érkezik, hogy kiélvezhesse a teljes tengerparti élményt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "A Kastrati Beach üdülőhely Golem városi szerkezetébe ágyazva mutatkozik be. A hosszú homokos strandok arra csábítják a látogatókat, hogy úszással vagy napozással pihenjenek. A légkört barátságos és vendégszerető jelleg hatja át. Egy korai strandlátogatás ideális arra, hogy békében hallgassuk a hullámok verődését.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "Golem napsütötte partján a Prestige Beach üdülőhely csodálatos kikapcsolódást kínál a mindennapokból. A tenger zúgása és a puha homok tökéletes hátteret biztosít a kiadós napozáshoz. A vendégek pihentető sétákat tehetnek és élvezhetik a meleg vizet. A maximális kényelem érdekében könnyű strandruházat és egy jó könyv ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "Golem fő strandja a helyi partvidék lüktető szíve. Hatalmas kiterjedése rengeteg helyet kínál mindenféle strandtevékenységhez, a pihentető napozástól az élénk játékokig. A helyiek és a nyaralók itt egy színes közönséggé keverednek. Ha szeretné elkerülni a tömeget, érkezzen a kora reggeli órákban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "A Playa Del Este ügyesen ragadja meg Golem élénk strandkultúráját. Ez a partszakasz pihentető órákat ígér a vízparton és kényelmes sétákat a homokban. A barátságos légkör megkönnyíti a mindennapi stressz hátrahagyását. A naplementekor tett látogatás gyakran különösen szép fotótémát kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "Uszoda Golemben, amely úszásra és pihenésre kínál lehetőséget.",
+                  "category": "recreational",
+                  "coords": [
+                        19.520391,
+                        41.26214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "Plazhi i Golemit este o plajă cu nisip binecunoscută care se întinde de-a lungul coastei Golemului.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "Public Beach este o zonă de plajă accesibilă care oferă relaxare pe coastă în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt este un sit arheologic notabil situat în regiunea Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "AQUAPARK este un parc acvatic care oferă divertisment în orașul Golem.",
+                  "category": "family",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar este un monument local situat în Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "Stațiunea Enera Beach din Golem este o destinație populară pentru iubitorii litoralului. Cu zonele sale primitoare de nisip, oferă condiții fantastice pentru o zi lungă la apă. Atmosfera plină de viață atrage atât familiile, cât și tinerii călători. Nu uitați să aduceți suficientă cremă de protecție solară pentru după-amiezele însorite.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "Klajdi Resort este o stațiune balneară ce oferă cazare pe litoral în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "Fafa Beach este o renumită stațiune de coastă în Golem, unde visele de vacanță devin realitate. Aici, distracția la scăldat și plimbările relaxante pe plajă se contopesc într-o zi perfectă. Scena este adesea însoțită de o agitație socială plăcută. Cel mai bine este să veniți în lunile de vară pentru a vă bucura de experiența completă de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "Încorporată în structura urbană din Golem, se prezintă stațiunea Kastrati Beach. Plajele lungi de nisip invită vizitatorii să se relaxeze înotând sau făcând plajă. Atmosfera este caracterizată de o natură prietenoasă și ospitalieră. O vizită timpurie la plajă este ideală pentru a asculta liniștit sunetul valurilor.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "Pe coasta însorită din Golem, stațiunea Prestige Beach oferă o pauză minunată de la viața de zi cu zi. Sunetul mării și nisipul fin formează fundalul perfect pentru o plajă prelungită. Oaspeții pot face plimbări relaxante aici și se pot bucura de apa caldă. Pentru un confort maxim, se recomandă îmbrăcăminte ușoară de plajă și o carte bună.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "Plaja principală din Golem este inima pulsantă a coastei locale. Întinderea sa vastă oferă mult spațiu pentru tot felul de activități pe plajă, de la soare relaxant la jocuri pline de viață. Aici, localnicii și turiștii se amestecă într-o mulțime colorată. Dacă doriți să evitați aglomerația, ar trebui să ajungeți la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "Playa Del Este surprinde cu pricepere cultura vibrantă a plajei din Golem. Această porțiune de plajă promite ore de relaxare pe malul apei și plimbări confortabile pe nisip. Atmosfera prietenoasă face ușoară lăsarea în urmă a stresului zilnic. O vizită la apus oferă adesea un subiect foto deosebit de frumos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "O facilitate cu piscină în Golem, care oferă un loc pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.520391,
+                        41.26214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "Plazhi i Golemit is a well-known sandy beach stretching along the coast of Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach is an accessible beach area offering coastal relaxation in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt is a notable archaeological site located within the region of Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "AQUAPARK is a water park offering aquatic entertainment in the city of Golem.",
+                  "category": "family",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar is a local monument situated in Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "The Enera Beach resort in Golem is a popular destination for coastal lovers. With its inviting sandy stretches, it offers fantastic conditions for an extended day by the water. The lively mood attracts families and young travelers alike. Don't forget to bring plenty of sunscreen for the sun-drenched afternoons.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "Klajdi Resort is a beach resort offering accommodation and coastal access in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "Fafa Beach is a well-known coastal resort in Golem that makes holiday dreams come true. Bathing fun and relaxing beach walks merge into a perfect day here. The scenery is often accompanied by a sociable bustle. It is best to arrive during the summer months to enjoy the full coastal experience.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "Embedded in the urban structure of Golem, the Kastrati Beach resort presents itself. Long sandy beaches invite visitors to relax by swimming or sunbathing. The atmosphere is characterized by a friendly and hospitable nature. An early beach visit is ideal to quietly listen to the crashing waves.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "On the sunny coast of Golem, the Prestige Beach resort offers a wonderful break from everyday life. The sound of the sea and the soft sand form the perfect backdrop for extensive sunbathing. Guests can take relaxing walks here and enjoy the warm water. For maximum comfort, light beachwear and a good book are recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "The main beach of Golem is the pulsating heart of the local coastline. Its vast expanse offers plenty of space for all kinds of beach activities, from relaxed sunning to lively games. Here, locals and vacationers mix into a colorful crowd. If you want to avoid crowds, you should plan to arrive in the early morning hours.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "Playa Del Este skillfully captures the vibrant beach culture of Golem. This stretch of beach promises relaxing hours by the water and cozy walks in the sand. The friendly atmosphere makes it easy to leave everyday stress behind. A visit at sunset often provides a particularly beautiful photo opportunity.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "A swimming pool facility in Golem offering a place for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.520391,
+                        41.26214
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Golem", hu: "Golem", ro: "Golem", en: "Golem" },
@@ -13585,7 +14287,196 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-postribe-cities-v2.webp",
   },
   {
-    id: "albania-velipoje-town-cities-v2", "sights": {"de": [{"name": "Plazhi Mario", "text": "Plazhi Mario Strand in Velipoje.", "category": "recreational", "coords": [19.432824, 41.86048]}, {"name": "Faro", "text": "Faro Strand in Velipoje.", "category": "recreational", "coords": [19.438111, 41.859962]}, {"name": "Royal Beach", "text": "Am Royal Beach in Velipoje erwartet Besucher eine majestätische Küstenlandschaft. Das weitläufige Ufer ist ideal, um die Seele baumeln zu lassen und im warmen Sand Sonne zu tanken. Es zieht sowohl Erholungssuchende als auch Familien an, die den flachen Einstieg ins Wasser schätzen. Packen Sie Badeschuhe ein, um die Natur am Ufer unbeschwert erkunden zu können.", "category": "recreational", "coords": [19.439223, 41.859594]}, {"name": "Viluni Beach", "text": "Viluni Beach bringt eine besonders unberührte Atmosphäre nach Velipoje. Die natürliche Schönheit der Umgebung lädt zu ausgedehnten Erkundungstouren am Strand ein. Man kann wunderbar im klaren Wasser schwimmen oder einfach dem Meeresrauschen zuhören. Dieser Ort ist ein Geheimtipp für alle, die eine Auszeit abseits der ganz großen Massen suchen.", "category": "recreational", "coords": [19.445435, 41.858698]}], "hu": [{"name": "Plazhi Mario", "text": "Plazhi Mario strand Velipojéban.", "category": "recreational", "coords": [19.432824, 41.86048]}, {"name": "Faro", "text": "Faro strand Velipojéban.", "category": "recreational", "coords": [19.438111, 41.859962]}, {"name": "Royal Beach", "text": "A velipojei Royal Beach-en fenséges parti táj várja a látogatókat. A tágas partvidék ideális a pihenésre és a napozásra a meleg homokban. Egyaránt vonzza a kikapcsolódni vágyókat és a családokat, akik értékelik a vízbe jutás sekélyességét. Csomagoljon fürdőcipőt, hogy gondtalanul felfedezhesse a parti természetet.", "category": "recreational", "coords": [19.439223, 41.859594]}, {"name": "Viluni Beach", "text": "A Viluni Beach különösen érintetlen légkört hoz Velipojéba. A környék természeti szépsége hosszú strandfelfedezésekre hív. Csodálatosan lehet úszni a tiszta vízben, vagy egyszerűen csak hallgatni a tenger zúgását. Ez a hely egy titkos tipp mindazok számára, akik a nagy tömegektől távol keresnek kikapcsolódást.", "category": "recreational", "coords": [19.445435, 41.858698]}], "ro": [{"name": "Plazhi Mario", "text": "Plaja Plazhi Mario în Velipoje.", "category": "recreational", "coords": [19.432824, 41.86048]}, {"name": "Faro", "text": "Plaja Faro în Velipoje.", "category": "recreational", "coords": [19.438111, 41.859962]}, {"name": "Royal Beach", "text": "Un peisaj de coastă maiestuos îi așteaptă pe vizitatori la Royal Beach din Velipoje. Țărmul extins este ideal pentru relaxare și plajă în nisipul cald. Atrage atât persoanele în căutare de relaxare, cât și familiile care apreciază intrarea lină în apă. Împachetați încălțăminte de baie pentru a putea explora natura de pe mal fără griji.", "category": "recreational", "coords": [19.439223, 41.859594]}, {"name": "Viluni Beach", "text": "Viluni Beach aduce o atmosferă deosebit de virgină în Velipoje. Frumusețea naturală a împrejurimilor invită la excursii ample de explorare pe plajă. Poți înota minunat în apa limpede sau pur și simplu poți asculta sunetul mării. Acest loc este un pont secret pentru oricine caută o pauză departe de marile aglomerații.", "category": "recreational", "coords": [19.445435, 41.858698]}], "en": [{"name": "Plazhi Mario", "text": "Plazhi Mario beach in Velipoje.", "category": "recreational", "coords": [19.432824, 41.86048]}, {"name": "Faro", "text": "Faro beach in Velipoje.", "category": "recreational", "coords": [19.438111, 41.859962]}, {"name": "Royal Beach", "text": "A majestic coastal landscape awaits visitors at Royal Beach in Velipoje. The expansive shore is ideal for unwinding and soaking up the sun in the warm sand. It attracts both relaxation seekers and families who appreciate the shallow entry into the water. Pack bathing shoes to freely explore the nature along the shore.", "category": "recreational", "coords": [19.439223, 41.859594]}, {"name": "Viluni Beach", "text": "Viluni Beach brings a particularly pristine atmosphere to Velipoje. The natural beauty of the surroundings invites visitors to extended explorations along the beach. You can wonderfully swim in the clear water or simply listen to the ocean's roar. This place is an insider tip for anyone looking for a break away from the very big crowds.", "category": "recreational", "coords": [19.445435, 41.858698]}]},
+    id: "albania-velipoje-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plazhi Mario Strand in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Faro Strand in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Am Royal Beach in Velipoje erwartet Besucher eine majestätische Küstenlandschaft. Das weitläufige Ufer ist ideal, um die Seele baumeln zu lassen und im warmen Sand Sonne zu tanken. Es zieht sowohl Erholungssuchende als auch Familien an, die den flachen Einstieg ins Wasser schätzen. Packen Sie Badeschuhe ein, um die Natur am Ufer unbeschwert erkunden zu können.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "Viluni Beach bringt eine besonders unberührte Atmosphäre nach Velipoje. Die natürliche Schönheit der Umgebung lädt zu ausgedehnten Erkundungstouren am Strand ein. Man kann wunderbar im klaren Wasser schwimmen oder einfach dem Meeresrauschen zuhören. Dieser Ort ist ein Geheimtipp für alle, die eine Auszeit abseits der ganz großen Massen suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "Der Public Beach ist der öffentliche Hauptstrand von Velipojë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.436157,
+                        41.860154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plazhi Mario strand Velipojéban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Faro strand Velipojéban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "A velipojei Royal Beach-en fenséges parti táj várja a látogatókat. A tágas partvidék ideális a pihenésre és a napozásra a meleg homokban. Egyaránt vonzza a kikapcsolódni vágyókat és a családokat, akik értékelik a vízbe jutás sekélyességét. Csomagoljon fürdőcipőt, hogy gondtalanul felfedezhesse a parti természetet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "A Viluni Beach különösen érintetlen légkört hoz Velipojéba. A környék természeti szépsége hosszú strandfelfedezésekre hív. Csodálatosan lehet úszni a tiszta vízben, vagy egyszerűen csak hallgatni a tenger zúgását. Ez a hely egy titkos tipp mindazok számára, akik a nagy tömegektől távol keresnek kikapcsolódást.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "A Public Beach Velipojë nyilvános strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        19.436157,
+                        41.860154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plaja Plazhi Mario în Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Plaja Faro în Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Un peisaj de coastă maiestuos îi așteaptă pe vizitatori la Royal Beach din Velipoje. Țărmul extins este ideal pentru relaxare și plajă în nisipul cald. Atrage atât persoanele în căutare de relaxare, cât și familiile care apreciază intrarea lină în apă. Împachetați încălțăminte de baie pentru a putea explora natura de pe mal fără griji.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "Viluni Beach aduce o atmosferă deosebit de virgină în Velipoje. Frumusețea naturală a împrejurimilor invită la excursii ample de explorare pe plajă. Poți înota minunat în apa limpede sau pur și simplu poți asculta sunetul mării. Acest loc este un pont secret pentru oricine caută o pauză departe de marile aglomerații.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "Public Beach este plaja publică din Velipojë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.436157,
+                        41.860154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plazhi Mario beach in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Faro beach in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "A majestic coastal landscape awaits visitors at Royal Beach in Velipoje. The expansive shore is ideal for unwinding and soaking up the sun in the warm sand. It attracts both relaxation seekers and families who appreciate the shallow entry into the water. Pack bathing shoes to freely explore the nature along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "Viluni Beach brings a particularly pristine atmosphere to Velipoje. The natural beauty of the surroundings invites visitors to extended explorations along the beach. You can wonderfully swim in the clear water or simply listen to the ocean's roar. This place is an insider tip for anyone looking for a break away from the very big crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach is the main public beach in Velipojë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.436157,
+                        41.860154
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Velipojë", hu: "Velipojë", ro: "Velipojë", en: "Velipojë" },
@@ -13640,6 +14531,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.577448,
                         41.685941
                   ]
+            },
+            {
+                  "name": "Plazhi i Tales",
+                  "text": "Tale Beach ist ein weitläufiger Sandstrand an der albanischen Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        19.578992,
+                        41.687312
+                  ]
             }
       ],
       "hu": [
@@ -13650,6 +14550,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.577448,
                         41.685941
+                  ]
+            },
+            {
+                  "name": "Plazhi i Tales",
+                  "text": "Tale strandja egy tágas, homokos tengerpart az albán Adria-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        19.578992,
+                        41.687312
                   ]
             }
       ],
@@ -13662,6 +14571,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.577448,
                         41.685941
                   ]
+            },
+            {
+                  "name": "Plazhi i Tales",
+                  "text": "Plaja Tale este o plajă de nisip întinsă pe coasta adriatică a Albaniei.",
+                  "category": "recreational",
+                  "coords": [
+                        19.578992,
+                        41.687312
+                  ]
             }
       ],
       "en": [
@@ -13672,6 +14590,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.577448,
                         41.685941
+                  ]
+            },
+            {
+                  "name": "Tale Beach",
+                  "text": "Tale Beach is a spacious sandy beach located on the Albanian Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        19.578992,
+                        41.687312
                   ]
             }
       ]
@@ -15403,7 +16330,88 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-borie-cities-v2.webp",
   },
   {
-    id: "albania-arapaj-cities-v2", "sights": {"de": [{"name": "Beach of Durrës", "text": "In der Nähe von Arapaj gelegen, gewährt dieser Strandabschnitt Zugang zur berühmten Küste von Durrës. Der feine Sand und das weite Meer laden zu stundenlangem Badespaß und entspanntem Liegen in der Sonne ein. Die Gegend ist lebhaft und bietet die typische albanische Strandkultur. Es empfiehlt sich, Wasser und kleine Snacks für den Strandtag mitzubringen.", "category": "recreational", "coords": [19.485036, 41.306404]}], "hu": [{"name": "Beach of Durrës", "text": "Az Arapaj közelében fekvő partszakasz hozzáférést biztosít Durrës híres tengerpartjához. A finom homok és a tágas tenger órákig tartó fürdőzésre és pihentető napozásra csábít. A környék nyüzsgő, és a tipikus albán strandkultúrát kínálja. Érdemes vizet és kisebb harapnivalókat hozni a tengerparti napra.", "category": "recreational", "coords": [19.485036, 41.306404]}], "ro": [{"name": "Beach of Durrës", "text": "Situată în apropiere de Arapaj, această porțiune de plajă oferă acces la faimoasa coastă a orașului Durrës. Nisipul fin și marea vastă te invită la ore întregi de distracție la scăldat și relaxare la soare. Zona este plină de viață și oferă cultura tipică a plajelor albaneze. Se recomandă să aduceți apă și mici gustări pentru ziua de plajă.", "category": "recreational", "coords": [19.485036, 41.306404]}], "en": [{"name": "Beach of Durrës", "text": "Located near Arapaj, this stretch of beach grants access to the famous coast of Durrës. The fine sand and the vast sea invite for hours of bathing fun and relaxing lying in the sun. The area is lively and offers the typical Albanian beach culture. It is advisable to bring water and small snacks for the beach day.", "category": "recreational", "coords": [19.485036, 41.306404]}]},
+    id: "albania-arapaj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "In der Nähe von Arapaj gelegen, gewährt dieser Strandabschnitt Zugang zur berühmten Küste von Durrës. Der feine Sand und das weite Meer laden zu stundenlangem Badespaß und entspanntem Liegen in der Sonne ein. Die Gegend ist lebhaft und bietet die typische albanische Strandkultur. Es empfiehlt sich, Wasser und kleine Snacks für den Strandtag mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Green Park Beach",
+                  "text": "Green Park Beach ist ein Strandabschnitt in Arapaj, der für seine entspannte Atmosphäre an der albanischen Küste bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509796,
+                        41.284685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Az Arapaj közelében fekvő partszakasz hozzáférést biztosít Durrës híres tengerpartjához. A finom homok és a tágas tenger órákig tartó fürdőzésre és pihentető napozásra csábít. A környék nyüzsgő, és a tipikus albán strandkultúrát kínálja. Érdemes vizet és kisebb harapnivalókat hozni a tengerparti napra.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Green Park Beach",
+                  "text": "A Green Park Beach egy strandrész Arapajban, amely az albán tengerpart nyugodt hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509796,
+                        41.284685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Situată în apropiere de Arapaj, această porțiune de plajă oferă acces la faimoasa coastă a orașului Durrës. Nisipul fin și marea vastă te invită la ore întregi de distracție la scăldat și relaxare la soare. Zona este plină de viață și oferă cultura tipică a plajelor albaneze. Se recomandă să aduceți apă și mici gustări pentru ziua de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Green Park Beach",
+                  "text": "Green Park Beach este o porțiune de plajă în Arapaj, cunoscută pentru atmosfera sa relaxată de pe coasta albaneză.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509796,
+                        41.284685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Located near Arapaj, this stretch of beach grants access to the famous coast of Durrës. The fine sand and the vast sea invite for hours of bathing fun and relaxing lying in the sun. The area is lively and offers the typical Albanian beach culture. It is advisable to bring water and small snacks for the beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Green Park Beach",
+                  "text": "Green Park Beach is a beach area in Arapaj, known for its relaxed atmosphere on the Albanian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        19.509796,
+                        41.284685
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Arapaj", hu: "Arapaj", ro: "Arapaj", en: "Arapaj" },

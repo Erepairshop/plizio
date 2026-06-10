@@ -463,6 +463,15 @@ export const finlandReliefV2: POI[] = [
                         24.224625,
                         67.564709
                   ]
+            },
+            {
+                  "name": "Saaga kylpylä",
+                  "text": "Ein modernes Spa- und Wellnesszentrum am Berg Yllästunturi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.250646,
+                        67.551054
+                  ]
             }
       ],
       "hu": [
@@ -527,6 +536,15 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         24.224625,
                         67.564709
+                  ]
+            },
+            {
+                  "name": "Saaga kylpylä",
+                  "text": "Modern gyógyfürdő és wellnessközpont az Yllästunturi-hegynél.",
+                  "category": "recreational",
+                  "coords": [
+                        24.250646,
+                        67.551054
                   ]
             }
       ],
@@ -593,6 +611,15 @@ export const finlandReliefV2: POI[] = [
                         24.224625,
                         67.564709
                   ]
+            },
+            {
+                  "name": "Saaga kylpylä",
+                  "text": "Un centru modern de spa și wellness la muntele Yllästunturi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.250646,
+                        67.551054
+                  ]
             }
       ],
       "en": [
@@ -657,6 +684,15 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         24.224625,
                         67.564709
+                  ]
+            },
+            {
+                  "name": "Saaga Spa",
+                  "text": "A modern spa and wellness center located at the Yllästunturi fell.",
+                  "category": "recreational",
+                  "coords": [
+                        24.250646,
+                        67.551054
                   ]
             }
       ]
@@ -1668,7 +1704,52 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-aukusti-vaara-relief-v2.webp",
   },
   {
-    id: "finland-luostotunturi-relief-v2",
+    id: "finland-luostotunturi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Luoston uimaranta",
+                  "text": "Eine öffentliche Badestelle und ein Strand in der Fjellregion Luosto in Finnland.",
+                  "category": "landmark",
+                  "coords": [
+                        26.931593,
+                        67.144776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luoston uimaranta",
+                  "text": "Nyilvános fürdőhely és strand a finnországi Luosto-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        26.931593,
+                        67.144776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luoston uimaranta",
+                  "text": "O zonă publică de înot și o plajă situată în regiunea muntoasă Luosto din Finlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.931593,
+                        67.144776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luosto public beach",
+                  "text": "A public swimming area and beach located in the Luosto fell region of Finland.",
+                  "category": "landmark",
+                  "coords": [
+                        26.931593,
+                        67.144776
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Luostotunturi", hu: "Luostotunturi", ro: "Luostotunturi", en: "Luostotunturi" },
@@ -2119,6 +2200,24 @@ export const finlandReliefV2: POI[] = [
                         23.657114,
                         66.390827
                   ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "Eine öffentliche Badeanstalt in der Nähe des Aavasaksa-Hügels.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "Ein Schwimmbad im Bereich des Aavasaksa-Hügels.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
+                  ]
             }
       ],
       "hu": [
@@ -2165,6 +2264,24 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         23.657114,
                         66.390827
+                  ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "Egy nyilvános fürdő az Aavasaksa-domb közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "Egy úszómedence az Aavasaksa-domb környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
                   ]
             }
       ],
@@ -2213,6 +2330,24 @@ export const finlandReliefV2: POI[] = [
                         23.657114,
                         66.390827
                   ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "O baie publică situată lângă dealul Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "O piscină situată în zona dealului Aavasaksa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
+                  ]
             }
       ],
       "en": [
@@ -2259,6 +2394,24 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         23.657114,
                         66.390827
+                  ]
+            },
+            {
+                  "name": "Polar-Badet",
+                  "text": "A public bath facility located near Aavasaksa Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        23.649941,
+                        66.38635
+                  ]
+            },
+            {
+                  "name": "Ekobadet",
+                  "text": "A swimming pool facility located in the Aavasaksa Hill area.",
+                  "category": "recreational",
+                  "coords": [
+                        23.641891,
+                        66.394787
                   ]
             }
       ]
@@ -2614,6 +2767,15 @@ export const finlandReliefV2: POI[] = [
                         27.502533,
                         68.341441
                   ]
+            },
+            {
+                  "name": "Kuurakaltio",
+                  "text": "Eine öffentliche Badeanstalt in der finnischen Region Ahjokero.",
+                  "category": "recreational",
+                  "coords": [
+                        27.45823,
+                        68.346437
+                  ]
             }
       ],
       "hu": [
@@ -2624,6 +2786,15 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         27.502533,
                         68.341441
+                  ]
+            },
+            {
+                  "name": "Kuurakaltio",
+                  "text": "Nyilvános fürdőhely a finnországi Ahjokero régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.45823,
+                        68.346437
                   ]
             }
       ],
@@ -2636,6 +2807,15 @@ export const finlandReliefV2: POI[] = [
                         27.502533,
                         68.341441
                   ]
+            },
+            {
+                  "name": "Kuurakaltio",
+                  "text": "O instalație publică de scăldat în regiunea Ahjokero din Finlanda.",
+                  "category": "recreational",
+                  "coords": [
+                        27.45823,
+                        68.346437
+                  ]
             }
       ],
       "en": [
@@ -2646,6 +2826,15 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         27.502533,
                         68.341441
+                  ]
+            },
+            {
+                  "name": "Kuurakaltio",
+                  "text": "A public bathing facility in the Ahjokero region of Finland.",
+                  "category": "recreational",
+                  "coords": [
+                        27.45823,
+                        68.346437
                   ]
             }
       ]

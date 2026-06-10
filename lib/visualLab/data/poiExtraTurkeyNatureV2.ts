@@ -856,6 +856,15 @@ export const poiExtraTurkeyNatureV2: POI[] = [
                         28.964405,
                         41.191919
                   ]
+            },
+            {
+                  "name": "Forest Kemerburgaz Macera Parkı",
+                  "text": "Ein Abenteuerpark im Belgrader Wald, der verschiedene Kletter- und Freizeitaktivitäten im Freien anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912936,
+                        41.198411
+                  ]
             }
       ],
       "hu": [
@@ -920,6 +929,15 @@ export const poiExtraTurkeyNatureV2: POI[] = [
                   "coords": [
                         28.964405,
                         41.191919
+                  ]
+            },
+            {
+                  "name": "Forest Kemerburgaz Macera Parkı",
+                  "text": "Kalandpark a Belgrád-erdőben, amely különféle szabadtéri mászó- és szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912936,
+                        41.198411
                   ]
             }
       ],
@@ -986,6 +1004,15 @@ export const poiExtraTurkeyNatureV2: POI[] = [
                         28.964405,
                         41.191919
                   ]
+            },
+            {
+                  "name": "Forest Kemerburgaz Macera Parkı",
+                  "text": "Un parc de aventură în Pădurea Belgrad, care oferü diverse activități de cățărare și recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912936,
+                        41.198411
+                  ]
             }
       ],
       "en": [
@@ -1050,6 +1077,15 @@ export const poiExtraTurkeyNatureV2: POI[] = [
                   "coords": [
                         28.964405,
                         41.191919
+                  ]
+            },
+            {
+                  "name": "Forest Kemerburgaz Macera Parkı",
+                  "text": "An adventure park in the Belgrad Forest, offering various outdoor climbing and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        28.912936,
+                        41.198411
                   ]
             }
       ]

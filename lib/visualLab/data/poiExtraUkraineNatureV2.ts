@@ -257,6 +257,15 @@ imageHint: "Hoverla mountain peak with Ukrainian flag",
                         23.663789,
                         48.609726
                   ]
+            },
+            {
+                  "name": "Basein poriad z chanom",
+                  "text": "Ein Schwimmbad bei den traditionellen Holzzubern am Synevir-See.",
+                  "category": "recreational",
+                  "coords": [
+                        23.695574,
+                        48.596539
+                  ]
             }
       ],
       "hu": [
@@ -276,6 +285,15 @@ imageHint: "Hoverla mountain peak with Ukrainian flag",
                   "coords": [
                         23.663789,
                         48.609726
+                  ]
+            },
+            {
+                  "name": "Basein poriad z chanom",
+                  "text": "Úszómedence a Szineviri-tó melletti üstös fürdőnél.",
+                  "category": "recreational",
+                  "coords": [
+                        23.695574,
+                        48.596539
                   ]
             }
       ],
@@ -297,6 +315,15 @@ imageHint: "Hoverla mountain peak with Ukrainian flag",
                         23.663789,
                         48.609726
                   ]
+            },
+            {
+                  "name": "Basein poriad z chanom",
+                  "text": "O piscină situată lângă băile tradiționale de la lacul Sinevir.",
+                  "category": "recreational",
+                  "coords": [
+                        23.695574,
+                        48.596539
+                  ]
             }
       ],
       "en": [
@@ -316,6 +343,15 @@ imageHint: "Hoverla mountain peak with Ukrainian flag",
                   "coords": [
                         23.663789,
                         48.609726
+                  ]
+            },
+            {
+                  "name": "Basein poriad z chanom",
+                  "text": "A swimming pool located by the traditional vats near Synevyr Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        23.695574,
+                        48.596539
                   ]
             }
       ]
@@ -548,7 +584,52 @@ imageHint: "Lake Svityaz crystal clear water and beach",
     },
     image: "/poi-images/ukraine-svityaz-nature-v2.webp",
 },  {
-    id: "ukraine-askania-nova-nature-v2",
+    id: "ukraine-askania-nova-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "Ein berühmtes Naturschutzgebiet und Zoo in Askarija-Nowa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "Híres bioszféra-rezervátum és állatkert Aszkanyija-Nova területén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "O faimoasă rezervație de biosferă și grădină zoologică în Askania-Nova.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Askaniia-Nova",
+                  "text": "A famous biosphere reserve and zoo located in Askania-Nova.",
+                  "category": "recreational",
+                  "coords": [
+                        33.87282,
+                        46.458825
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "park",
     name: { de: "Askanija-Nowa", hu: "Aszkanyija-Nova", ro: "Askania-Nova", en: "Askania-Nova"},
@@ -1482,7 +1563,52 @@ imageHint: "Tuzly Lagoons national park aerial view",
     },
     image: "/poi-images/ukraine-tuzly-lagoons-nature-v2.webp",
 },    {
-    id: "ukraine-southern-bug-nature-v2",
+    id: "ukraine-southern-bug-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Прибій",
+                  "text": "Der Strand am Südlichen Bug bietet Erholungsmöglichkeiten am Flussufer in einer natürlichen Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        31.955222,
+                        46.989135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Прибій",
+                  "text": "A Déli-Bug folyó partján fekvő strand kikapcsolódási lehetőséget kínál természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        31.955222,
+                        46.989135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Прибій",
+                  "text": "Plaja de pe Bugul de Sud oferă facilități de recreere pe malul râului într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        31.955222,
+                        46.989135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Прибій",
+                  "text": "The beach on the Southern Bug offers recreational opportunities along the riverbank in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        31.955222,
+                        46.989135
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "river",
     name: { de: "Südlicher Bug", hu: "Déli-Bug", ro: "Bugul de Sud", en: "Southern Bug"},
@@ -2249,6 +2375,33 @@ imageHint: "Nesamovyte lake in the mountains",
                         30.557659,
                         50.530155
                   ]
+            },
+            {
+                  "name": "Bania \"Poplavok\"",
+                  "text": "Ein traditionelles Badehaus am Fluss Desna, das für seine russischen Dampfbäder bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        30.526338,
+                        50.536064
+                  ]
+            },
+            {
+                  "name": "Park dinozavriv",
+                  "text": "Ein Themenpark mit Dinosaurierfiguren am Fluss Desna, ein beliebtes Ziel für Familienausflüge.",
+                  "category": "recreational",
+                  "coords": [
+                        30.488978,
+                        50.532679
+                  ]
+            },
+            {
+                  "name": "Oseshchina",
+                  "text": "Ein Erholungsgebiet und Strand am Fluss Desna, das im Sommer zum Baden und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        30.541973,
+                        50.571568
+                  ]
             }
       ],
       "hu": [
@@ -2277,6 +2430,33 @@ imageHint: "Nesamovyte lake in the mountains",
                   "coords": [
                         30.557659,
                         50.530155
+                  ]
+            },
+            {
+                  "name": "Bania \"Poplavok\"",
+                  "text": "Hagyományos fürdőház a Deszna-folyónál, amely az orosz gőzfürdőiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        30.526338,
+                        50.536064
+                  ]
+            },
+            {
+                  "name": "Park dinozavriv",
+                  "text": "Dinoszaurusz-figurákkal díszített tematikus park a Deszna-folyónál, népszerű családi kirándulóhely.",
+                  "category": "recreational",
+                  "coords": [
+                        30.488978,
+                        50.532679
+                  ]
+            },
+            {
+                  "name": "Oseshchina",
+                  "text": "Üdülőterület és strand a Deszna-folyónál, amely nyáron fürdésre és pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        30.541973,
+                        50.571568
                   ]
             }
       ],
@@ -2307,6 +2487,33 @@ imageHint: "Nesamovyte lake in the mountains",
                         30.557659,
                         50.530155
                   ]
+            },
+            {
+                  "name": "Bania \"Poplavok\"",
+                  "text": "O baie tradițională pe malul râului Desna, cunoscută pentru băile sale de aburi rusești.",
+                  "category": "recreational",
+                  "coords": [
+                        30.526338,
+                        50.536064
+                  ]
+            },
+            {
+                  "name": "Park dinozavriv",
+                  "text": "Un parc tematic cu figurine de dinozauri pe malul râului Desna, o destinație populară pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        30.488978,
+                        50.532679
+                  ]
+            },
+            {
+                  "name": "Oseshchina",
+                  "text": "O zonă de recreere și plajă pe malul râului Desna, care invită la scăldat și relaxare pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        30.541973,
+                        50.571568
+                  ]
             }
       ],
       "en": [
@@ -2335,6 +2542,33 @@ imageHint: "Nesamovyte lake in the mountains",
                   "coords": [
                         30.557659,
                         50.530155
+                  ]
+            },
+            {
+                  "name": "Bania \"Poplavok\"",
+                  "text": "A traditional bathhouse on the Desna River, known for its Russian-style steam baths.",
+                  "category": "recreational",
+                  "coords": [
+                        30.526338,
+                        50.536064
+                  ]
+            },
+            {
+                  "name": "Park dinozavriv",
+                  "text": "A theme park featuring dinosaur figures on the Desna River, a popular destination for family outings.",
+                  "category": "recreational",
+                  "coords": [
+                        30.488978,
+                        50.532679
+                  ]
+            },
+            {
+                  "name": "Oseshchina",
+                  "text": "A recreation area and beach on the Desna River, inviting visitors for swimming and relaxation in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        30.541973,
+                        50.571568
                   ]
             }
       ]
@@ -2686,6 +2920,33 @@ imageHint: "Bakota bay Dniester river and cliffs",
                         24.545476,
                         48.432976
                   ]
+            },
+            {
+                  "name": "Vol'ierne gospodarstvo",
+                  "text": "Ein Gehege am Probiy-Wasserfall, in dem Besucher lokale Wildtiere beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        24.539452,
+                        48.446136
+                  ]
+            },
+            {
+                  "name": "Ribolovlia \"Posered Karpat\"",
+                  "text": "Eine Anlage zum Fischen und Beobachten von Fischen in der Karpatenregion.",
+                  "category": "recreational",
+                  "coords": [
+                        24.566565,
+                        48.457873
+                  ]
+            },
+            {
+                  "name": "Karpati v miniatiuri",
+                  "text": "Ein Park, der bedeutende Bauwerke der Karpaten im Miniaturformat zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        24.537118,
+                        48.444878
+                  ]
             }
       ],
       "hu": [
@@ -2759,6 +3020,33 @@ imageHint: "Bakota bay Dniester river and cliffs",
                   "coords": [
                         24.545476,
                         48.432976
+                  ]
+            },
+            {
+                  "name": "Vol'ierne gospodarstvo",
+                  "text": "Vadaspark a Probij-vízesésnél, ahol a látogatók helyi vadállatokat láthatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.539452,
+                        48.446136
+                  ]
+            },
+            {
+                  "name": "Ribolovlia \"Posered Karpat\"",
+                  "text": "Horgászati és halmegfigyelési lehetőség a Kárpátok régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.566565,
+                        48.457873
+                  ]
+            },
+            {
+                  "name": "Karpati v miniatiuri",
+                  "text": "A Kárpátok jelentős építményeit miniatűr formában bemutató park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.537118,
+                        48.444878
                   ]
             }
       ],
@@ -2834,6 +3122,33 @@ imageHint: "Bakota bay Dniester river and cliffs",
                         24.545476,
                         48.432976
                   ]
+            },
+            {
+                  "name": "Vol'ierne gospodarstvo",
+                  "text": "O menajerie la Cascada Probiy, unde vizitatorii pot observa animale sălbatice locale.",
+                  "category": "recreational",
+                  "coords": [
+                        24.539452,
+                        48.446136
+                  ]
+            },
+            {
+                  "name": "Ribolovlia \"Posered Karpat\"",
+                  "text": "O facilitate pentru pescuit și observarea peștilor în regiunea Carpaților.",
+                  "category": "recreational",
+                  "coords": [
+                        24.566565,
+                        48.457873
+                  ]
+            },
+            {
+                  "name": "Karpati v miniatiuri",
+                  "text": "Un parc care prezintă structuri importante din Carpați în format miniatură.",
+                  "category": "recreational",
+                  "coords": [
+                        24.537118,
+                        48.444878
+                  ]
             }
       ],
       "en": [
@@ -2907,6 +3222,33 @@ imageHint: "Bakota bay Dniester river and cliffs",
                   "coords": [
                         24.545476,
                         48.432976
+                  ]
+            },
+            {
+                  "name": "Vol'ierne gospodarstvo",
+                  "text": "An enclosure at Probiy Waterfall where visitors can observe local wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        24.539452,
+                        48.446136
+                  ]
+            },
+            {
+                  "name": "Ribolovlia \"Posered Karpat\"",
+                  "text": "A facility for fishing and observing fish in the Carpathian region.",
+                  "category": "recreational",
+                  "coords": [
+                        24.566565,
+                        48.457873
+                  ]
+            },
+            {
+                  "name": "Karpati v miniatiuri",
+                  "text": "A park showcasing significant structures of the Carpathians in miniature form.",
+                  "category": "recreational",
+                  "coords": [
+                        24.537118,
+                        48.444878
                   ]
             }
       ]

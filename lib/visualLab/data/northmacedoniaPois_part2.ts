@@ -41,6 +41,24 @@ export const mkPoisPart2: POI[] = [
                         22.710967,
                         41.205172
                   ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "Romantique Pool & Bar bietet ein Schwimmbad und einen Erholungsbereich am Dojran-See.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "Ein Schwimmbad in der Nähe des Dojran-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
+                  ]
             }
       ],
       "hu": [
@@ -78,6 +96,24 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.710967,
                         41.205172
+                  ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "A Romantique Pool & Bar úszómedencét és pihenőhelyet kínál a Dojran-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "Úszómedence a Dojran-tó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
                   ]
             }
       ],
@@ -117,6 +153,24 @@ export const mkPoisPart2: POI[] = [
                         22.710967,
                         41.205172
                   ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "Romantique Pool & Bar oferă o piscină și o zonă de relaxare lângă lacul Dojran.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "O piscină situată lângă lacul Dojran.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
+                  ]
             }
       ],
       "en": [
@@ -154,6 +208,24 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.710967,
                         41.205172
+                  ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "Romantique Pool & Bar offers a swimming pool and relaxation area by Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "A swimming pool located near Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
                   ]
             }
       ]
@@ -256,6 +328,24 @@ export const mkPoisPart2: POI[] = [
                         22.710967,
                         41.205172
                   ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "Ein Schwimmbad mit Bar in der Nähe der St.-Elias-Kirche, das Entspannung in modernem Ambiente bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "Ein Schwimmbad in der Nähe der Kirche des Heiligen Elias.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
+                  ]
             }
       ],
       "hu": [
@@ -311,6 +401,24 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.710967,
                         41.205172
+                  ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "Úszómedence és bár a Szent Illés-templom közelében, amely modern környezetben kínál kikapcsolódást.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "Úszómedence a Szent Illés-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
                   ]
             }
       ],
@@ -368,6 +476,24 @@ export const mkPoisPart2: POI[] = [
                         22.710967,
                         41.205172
                   ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "O piscină cu bar lângă Biserica Sfântul Ilie, oferind relaxare într-o ambianță modernă.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "O piscină situată în apropierea Bisericii Sfântul Ilie.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
+                  ]
             }
       ],
       "en": [
@@ -423,6 +549,24 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.710967,
                         41.205172
+                  ]
+            },
+            {
+                  "name": "Romantique Pool & Bar",
+                  "text": "A swimming pool and bar near the Church of Saint Elijah, offering relaxation in a modern ambiance.",
+                  "category": "recreational",
+                  "coords": [
+                        22.723201,
+                        41.185247
+                  ]
+            },
+            {
+                  "name": "Bazen Istatov",
+                  "text": "A swimming pool located near the Church of Saint Elijah.",
+                  "category": "recreational",
+                  "coords": [
+                        22.699098,
+                        41.226974
                   ]
             }
       ]
@@ -668,6 +812,15 @@ export const mkPoisPart2: POI[] = [
                         22.548031,
                         41.140654
                   ]
+            },
+            {
+                  "name": "Фатаморгана",
+                  "text": "Ein Schwimmbad im Bereich des Windparks Bogdanci.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
+                  ]
             }
       ],
       "hu": [
@@ -687,6 +840,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.548031,
                         41.140654
+                  ]
+            },
+            {
+                  "name": "Фатаморгана",
+                  "text": "Úszómedence a bogdanci szélerőműpark területén.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
                   ]
             }
       ],
@@ -708,6 +870,15 @@ export const mkPoisPart2: POI[] = [
                         22.548031,
                         41.140654
                   ]
+            },
+            {
+                  "name": "Фатаморгана",
+                  "text": "O piscină situată în zona parcului eolian Bogdanci.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
+                  ]
             }
       ],
       "en": [
@@ -727,6 +898,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.548031,
                         41.140654
+                  ]
+            },
+            {
+                  "name": "Fatamorgana",
+                  "text": "A swimming pool located in the area of the Bogdanci Wind Park.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
                   ]
             }
       ]
@@ -848,6 +1028,15 @@ export const mkPoisPart2: POI[] = [
                         22.548031,
                         41.140654
                   ]
+            },
+            {
+                  "name": "Фатаморгана",
+                  "text": "Ein Schwimmbad bei Vardarski Rid, das Besuchern der Region Erholung im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
+                  ]
             }
       ],
       "hu": [
@@ -876,6 +1065,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.548031,
                         41.140654
+                  ]
+            },
+            {
+                  "name": "Фатаморгана",
+                  "text": "Úszómedence Vardarski Ridnél, amely vízi kikapcsolódást kínál a régió látogatóinak.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
                   ]
             }
       ],
@@ -906,6 +1104,15 @@ export const mkPoisPart2: POI[] = [
                         22.548031,
                         41.140654
                   ]
+            },
+            {
+                  "name": "Фатаморгана",
+                  "text": "O piscină la Vardarski Rid, oferind recreere acvatică vizitatorilor regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
+                  ]
             }
       ],
       "en": [
@@ -934,6 +1141,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         22.548031,
                         41.140654
+                  ]
+            },
+            {
+                  "name": "Fatamorgana",
+                  "text": "A swimming pool at Vardarski Rid, offering water-based recreation for visitors to the region.",
+                  "category": "recreational",
+                  "coords": [
+                        22.525998,
+                        41.146079
                   ]
             }
       ]
@@ -1663,6 +1879,15 @@ export const mkPoisPart2: POI[] = [
                         21.499788,
                         41.383538
                   ]
+            },
+            {
+                  "name": "Комплекс Варош",
+                  "text": "Ein Freizeitkomplex in der Nähe des Treskavec-Klosters.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
+                  ]
             }
       ],
       "hu": [
@@ -1691,6 +1916,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         21.499788,
                         41.383538
+                  ]
+            },
+            {
+                  "name": "Комплекс Варош",
+                  "text": "Szabadidős komplexum a Treskavec-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
                   ]
             }
       ],
@@ -1721,6 +1955,15 @@ export const mkPoisPart2: POI[] = [
                         21.499788,
                         41.383538
                   ]
+            },
+            {
+                  "name": "Комплекс Варош",
+                  "text": "Un complex de agrement situat în apropierea mănăstirii Treskavec.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
+                  ]
             }
       ],
       "en": [
@@ -1749,6 +1992,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         21.499788,
                         41.383538
+                  ]
+            },
+            {
+                  "name": "Complex Varosh",
+                  "text": "A leisure complex located in the vicinity of the Treskavec Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
                   ]
             }
       ]
@@ -1870,6 +2122,15 @@ export const mkPoisPart2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Ein großes olympisches Schwimmbecken und Wasserpark in der Nähe der antiken Stätte Heraclea Lyncestis.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "hu": [
@@ -1943,6 +2204,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Nagyméretű olimpiai medence és vízi park az ókori Heraclea Lyncestis közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ],
@@ -2018,6 +2288,15 @@ export const mkPoisPart2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "O piscină olimpică mare și parc acvatic situat lângă situl antic Heraclea Lyncestis.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "en": [
@@ -2091,6 +2370,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "A large Olympic swimming pool and water park facility located near the ancient site of Heraclea Lyncestis.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ]
@@ -2211,6 +2499,15 @@ export const mkPoisPart2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Olympischer Wasserpark in der Nähe der Shirok-Sokak-Straße in Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "hu": [
@@ -2284,6 +2581,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Olimpiai vízipark Bitolában, a Shirok Sokak közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ],
@@ -2359,6 +2665,15 @@ export const mkPoisPart2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Parc acvatic olimpic situat în Bitola, lângă Shirok Sokak.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "en": [
@@ -2432,6 +2747,15 @@ export const mkPoisPart2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Olympic water park located in Bitola near Shirok Sokak.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ]

@@ -3,7 +3,340 @@ import { POI } from './poi';
 export const ukraineHistoryV2: POI[] = [
 
   {
-    id: "ukraine-chersonesus-history-v2",
+    id: "ukraine-chersonesus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Скалки",
+                  "text": "Скалки ist ein Strandabschnitt in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.487929,
+                        44.612596
+                  ]
+            },
+            {
+                  "name": "Средние скалки",
+                  "text": "Средние скалки ist ein Strandbereich in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.486733,
+                        44.61232
+                  ]
+            },
+            {
+                  "name": "Малые скалки",
+                  "text": "Малые скалки ist ein kleiner Strand in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485671,
+                        44.611311
+                  ]
+            },
+            {
+                  "name": "Яхт-Клуб Юг",
+                  "text": "Яхт-Клуб Юг ist ein Strandbereich am Yachtclub in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448973,
+                        44.603313
+                  ]
+            },
+            {
+                  "name": "Пляж \"Парк Победы\"",
+                  "text": "Der Beach \"Victory Park\" ist ein beliebter Strand in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.45635,
+                        44.609085
+                  ]
+            },
+            {
+                  "name": "Солнечный",
+                  "text": "Ein lokaler Strand im Gebiet von Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485017,
+                        44.609123
+                  ]
+            },
+            {
+                  "name": "Песочный",
+                  "text": "Ein Sandstrand in der Region Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.481237,
+                        44.608039
+                  ]
+            },
+            {
+                  "name": "Дикий пляж",
+                  "text": "Ein natürlicher wilder Strand in Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.451398,
+                        44.608758
+                  ]
+            },
+            {
+                  "name": "Вертолётка",
+                  "text": "Ein Küstenstrandabschnitt in Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448104,
+                        44.60743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Скалки",
+                  "text": "A Скалки egy tengerparti strand Chersonesusban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.487929,
+                        44.612596
+                  ]
+            },
+            {
+                  "name": "Средние скалки",
+                  "text": "A Средние скалки egy tengerparti strand Chersonesusban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.486733,
+                        44.61232
+                  ]
+            },
+            {
+                  "name": "Малые скалки",
+                  "text": "A Малые скалки egy kisebb tengerparti strand Chersonesusban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485671,
+                        44.611311
+                  ]
+            },
+            {
+                  "name": "Яхт-Клуб Юг",
+                  "text": "A Яхт-Клуб Юг egy tengerparti strand Chersonesusban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448973,
+                        44.603313
+                  ]
+            },
+            {
+                  "name": "Пляж \"Парк Победы\"",
+                  "text": "A Beach \"Victory Park\" egy tengerparti strand Chersonesusban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.45635,
+                        44.609085
+                  ]
+            },
+            {
+                  "name": "Солнечный",
+                  "text": "Egy helyi strand Herszonészosz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485017,
+                        44.609123
+                  ]
+            },
+            {
+                  "name": "Песочный",
+                  "text": "Homokos strand Herszonészosz régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.481237,
+                        44.608039
+                  ]
+            },
+            {
+                  "name": "Дикий пляж",
+                  "text": "Természetes vadvízi strand Herszonészoszban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.451398,
+                        44.608758
+                  ]
+            },
+            {
+                  "name": "Вертолётка",
+                  "text": "Tengerparti strandterület Herszonészoszban.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448104,
+                        44.60743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Скалки",
+                  "text": "Скалки este o plajă situată în Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.487929,
+                        44.612596
+                  ]
+            },
+            {
+                  "name": "Средние скалки",
+                  "text": "Средние скалки este o plajă situată în Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.486733,
+                        44.61232
+                  ]
+            },
+            {
+                  "name": "Малые скалки",
+                  "text": "Малые скалки este o plajă situată în Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485671,
+                        44.611311
+                  ]
+            },
+            {
+                  "name": "Яхт-Клуб Юг",
+                  "text": "Яхт-Клуб Юг este o plajă situată în Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448973,
+                        44.603313
+                  ]
+            },
+            {
+                  "name": "Пляж \"Парк Победы\"",
+                  "text": "Beach \"Victory Park\" este o plajă situată în Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.45635,
+                        44.609085
+                  ]
+            },
+            {
+                  "name": "Солнечный",
+                  "text": "O plajă locală situată în zona Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485017,
+                        44.609123
+                  ]
+            },
+            {
+                  "name": "Песочный",
+                  "text": "O plajă cu nisip situată în regiunea Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.481237,
+                        44.608039
+                  ]
+            },
+            {
+                  "name": "Дикий пляж",
+                  "text": "O plajă sălbatică naturală situată în Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.451398,
+                        44.608758
+                  ]
+            },
+            {
+                  "name": "Вертолётка",
+                  "text": "O zonă de plajă de coastă în Chersones.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448104,
+                        44.60743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Скалки",
+                  "text": "Скалки is a beach located in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.487929,
+                        44.612596
+                  ]
+            },
+            {
+                  "name": "Средние скалки",
+                  "text": "Средние скалки is a beach located in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.486733,
+                        44.61232
+                  ]
+            },
+            {
+                  "name": "Малые скалки",
+                  "text": "Малые скалки is a beach located in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485671,
+                        44.611311
+                  ]
+            },
+            {
+                  "name": "Яхт-Клуб Юг",
+                  "text": "Яхт-Клуб Юг is a beach located in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448973,
+                        44.603313
+                  ]
+            },
+            {
+                  "name": "Beach \"Victory Park\"",
+                  "text": "Beach \"Victory Park\" is a beach located in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.45635,
+                        44.609085
+                  ]
+            },
+            {
+                  "name": "Солнечный",
+                  "text": "A local beach located in the Chersonesus area.",
+                  "category": "recreational",
+                  "coords": [
+                        33.485017,
+                        44.609123
+                  ]
+            },
+            {
+                  "name": "Песочный",
+                  "text": "A sandy beach situated in the Chersonesus region.",
+                  "category": "recreational",
+                  "coords": [
+                        33.481237,
+                        44.608039
+                  ]
+            },
+            {
+                  "name": "Wild beach",
+                  "text": "A natural wild beach located in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.451398,
+                        44.608758
+                  ]
+            },
+            {
+                  "name": "Vertoletka",
+                  "text": "A coastal beach area in Chersonesus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.448104,
+                        44.60743
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "ruins",
     name: { de: "Chersones", hu: "Herszonészosz", ro: "Chersones", en: "Chersonesus"},
@@ -1228,6 +1561,87 @@ imageHint: "Central square of Zhovkva with Renaissance castle and church",
                         34.917716,
                         44.8229
                   ]
+            },
+            {
+                  "name": "Черепашья бухта",
+                  "text": "Eine ruhige Bucht in der Nähe der genuesischen Festung von Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.940251,
+                        44.836386
+                  ]
+            },
+            {
+                  "name": "Мохито",
+                  "text": "Ein moderner Strandabschnitt in Sudak, bekannt für seine entspannte Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        34.960433,
+                        44.839092
+                  ]
+            },
+            {
+                  "name": "Центральный городской пляж",
+                  "text": "Der zentrale Strand von Sudak, der direkt an der Strandpromenade liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974104,
+                        44.83984
+                  ]
+            },
+            {
+                  "name": "Пляж ТОК «Горизонт»",
+                  "text": "Ein Strandabschnitt in Sudak, der zum Gelände des Komplexes Gorizont gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965752,
+                        44.841009
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата «Звездный»",
+                  "text": "Ein gepflegter Strand in Sudak, der den Gästen der Pension Swjosdny zur Verfügung steht.",
+                  "category": "recreational",
+                  "coords": [
+                        34.971375,
+                        44.840418
+                  ]
+            },
+            {
+                  "name": "Пляжи ТОК «Судак»",
+                  "text": "Die Strände des Touristenkomplexes Sudak bieten vielfältige Erholungsmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        34.968286,
+                        44.840815
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Ein Bereich mit Jahrmarktsattraktionen nahe der Genuesischen Festung in Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.973883,
+                        44.84142
+                  ]
+            },
+            {
+                  "name": "Pliazh za Alchakom",
+                  "text": "Ein Strandabschnitt hinter dem Kap Altschak in Sudak für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        35.0015,
+                        44.835577
+                  ]
+            },
+            {
+                  "name": "Akvapark Sudak",
+                  "text": "Der Wasserpark von Sudak, der Unterhaltung direkt an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.984024,
+                        44.838425
+                  ]
             }
       ],
       "hu": [
@@ -1283,6 +1697,87 @@ imageHint: "Central square of Zhovkva with Renaissance castle and church",
                   "coords": [
                         34.917716,
                         44.8229
+                  ]
+            },
+            {
+                  "name": "Черепашья бухта",
+                  "text": "Csendes öböl a szudaki genovai erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.940251,
+                        44.836386
+                  ]
+            },
+            {
+                  "name": "Мохито",
+                  "text": "Modern strandrész Szudakban, amely közkedvelt a kikapcsolódni vágyók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.960433,
+                        44.839092
+                  ]
+            },
+            {
+                  "name": "Центральный городской пляж",
+                  "text": "Szudak központi strandja, amely közvetlenül a tengerparti sétány mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974104,
+                        44.83984
+                  ]
+            },
+            {
+                  "name": "Пляж ТОК «Горизонт»",
+                  "text": "Szudaki strandrész, amely a Horizont komplexum területéhez tartozik.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965752,
+                        44.841009
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата «Звездный»",
+                  "text": "Gondozott strand Szudakban, amely a Csillag (Zvjozdnij) panzió vendégei számára elérhető.",
+                  "category": "recreational",
+                  "coords": [
+                        34.971375,
+                        44.840418
+                  ]
+            },
+            {
+                  "name": "Пляжи ТОК «Судак»",
+                  "text": "A Szudak turistakomplexum strandjai változatos kikapcsolódási lehetőségeket kínálnak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.968286,
+                        44.840815
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Vidámparki attrakciók a szudaki genovai erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.973883,
+                        44.84142
+                  ]
+            },
+            {
+                  "name": "Pliazh za Alchakom",
+                  "text": "Strandszakasz az Alcsak-fok mögött Szudakban a fürdőzők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        35.0015,
+                        44.835577
+                  ]
+            },
+            {
+                  "name": "Akvapark Sudak",
+                  "text": "Szudak víziparkja, amely szórakozást kínál közvetlenül a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        34.984024,
+                        44.838425
                   ]
             }
       ],
@@ -1340,6 +1835,87 @@ imageHint: "Central square of Zhovkva with Renaissance castle and church",
                         34.917716,
                         44.8229
                   ]
+            },
+            {
+                  "name": "Черепашья бухта",
+                  "text": "Un golf liniștit în apropierea cetății genoveze din Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.940251,
+                        44.836386
+                  ]
+            },
+            {
+                  "name": "Мохито",
+                  "text": "O secțiune modernă de plajă în Sudak, cunoscută pentru atmosfera sa relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        34.960433,
+                        44.839092
+                  ]
+            },
+            {
+                  "name": "Центральный городской пляж",
+                  "text": "Plaja centrală din Sudak, situată direct lângă faleza orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974104,
+                        44.83984
+                  ]
+            },
+            {
+                  "name": "Пляж ТОК «Горизонт»",
+                  "text": "O secțiune de plajă în Sudak, aparținând complexului Gorizont.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965752,
+                        44.841009
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата «Звездный»",
+                  "text": "O plajă îngrijită în Sudak, disponibilă oaspeților pensiunii Zvjozdny.",
+                  "category": "recreational",
+                  "coords": [
+                        34.971375,
+                        44.840418
+                  ]
+            },
+            {
+                  "name": "Пляжи ТОК «Судак»",
+                  "text": "Plajele complexului turistic Sudak oferă diverse posibilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        34.968286,
+                        44.840815
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "O zonă cu atracții de bâlci lângă Cetatea Genoheză din Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.973883,
+                        44.84142
+                  ]
+            },
+            {
+                  "name": "Pliazh za Alchakom",
+                  "text": "O secțiune de plajă în spatele Capului Alciak din Sudak pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        35.0015,
+                        44.835577
+                  ]
+            },
+            {
+                  "name": "Akvapark Sudak",
+                  "text": "Parcul acvatic din Sudak, oferind divertisment direct pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.984024,
+                        44.838425
+                  ]
             }
       ],
       "en": [
@@ -1395,6 +1971,87 @@ imageHint: "Central square of Zhovkva with Renaissance castle and church",
                   "coords": [
                         34.917716,
                         44.8229
+                  ]
+            },
+            {
+                  "name": "Черепашья бухта",
+                  "text": "A quiet bay located near the Genoese Fortress of Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.940251,
+                        44.836386
+                  ]
+            },
+            {
+                  "name": "Мохито",
+                  "text": "A modern beach section in Sudak, known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        34.960433,
+                        44.839092
+                  ]
+            },
+            {
+                  "name": "Центральный городской пляж",
+                  "text": "The central beach of Sudak, located directly by the city's promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        34.974104,
+                        44.83984
+                  ]
+            },
+            {
+                  "name": "Пляж ТОК «Горизонт»",
+                  "text": "A beach section in Sudak, part of the Gorizont complex area.",
+                  "category": "recreational",
+                  "coords": [
+                        34.965752,
+                        44.841009
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата «Звездный»",
+                  "text": "A well-maintained beach in Sudak, available to guests of the Zvjozdny guesthouse.",
+                  "category": "recreational",
+                  "coords": [
+                        34.971375,
+                        44.840418
+                  ]
+            },
+            {
+                  "name": "Пляжи ТОК «Судак»",
+                  "text": "The beaches of the Sudak tourist complex offer various recreational opportunities.",
+                  "category": "recreational",
+                  "coords": [
+                        34.968286,
+                        44.840815
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "An area with fairground attractions near the Genoese Fortress in Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.973883,
+                        44.84142
+                  ]
+            },
+            {
+                  "name": "Pliazh za Alchakom",
+                  "text": "A beach section behind Cape Alchak in Sudak for bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        35.0015,
+                        44.835577
+                  ]
+            },
+            {
+                  "name": "Akvapark Sudak",
+                  "text": "The Sudak water park, offering entertainment right on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        34.984024,
+                        44.838425
                   ]
             }
       ]
@@ -1554,6 +2211,186 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                         34.01309,
                         44.405355
                   ]
+            },
+            {
+                  "name": "VIP-Пляж комплекса Respect Hall",
+                  "text": "Ein VIP-Strand des Respect Hall Komplexes beim Woronzow-Palast mit gehobenem Komfort.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Дикий пляж",
+                  "text": "Ein naturbelassener Wildstrand in der Nähe des Woronzow-Palastes, der Ruhe und Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.087161,
+                        44.426369
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Белоруссия",
+                  "text": "Der Strand des Sanatoriums Belarus beim Woronzow-Palast, der für Kurgäste zugänglich ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Дикий пляж \"Имени монаха Бертольда Шварца\"",
+                  "text": "Ein felsiger Wildstrand beim Woronzow-Palast, benannt nach dem Mönch Berthold Schwarz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.039045,
+                        44.408955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория им. Семашко",
+                  "text": "Ein Küstenabschnitt beim Semaschko-Sanatorium in der Nähe des Woronzow-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011444,
+                        44.40458
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Симеиз\"",
+                  "text": "Strände des Simeis-Sanatoriums an der Schwarzmeerküste beim Woronzow-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        34.014111,
+                        44.406219
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Москва\"",
+                  "text": "Die Strände des Sanatoriums Moskau befinden sich in der Nähe des Woronzow-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015165,
+                        44.406856
+                  ]
+            },
+            {
+                  "name": "Городской пляж Алупки",
+                  "text": "Der öffentliche Stadtstrand von Alupka liegt unterhalb des Woronzow-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Зелёный мыс",
+                  "text": "Ein malerischer Strandabschnitt am Grünen Kap in der Nähe des Woronzow-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040251,
+                        44.409932
+                  ]
+            },
+            {
+                  "name": "Лягушка",
+                  "text": "Dieser Strand bei Alupka ist nach einem markanten froschförmigen Felsen benannt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.0302,
+                        44.40536
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Южнобережный»",
+                  "text": "Ein Sanatoriumsstrand an der Südküste der Krim beim Woronzow-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        34.037348,
+                        44.407946
+                  ]
+            },
+            {
+                  "name": "Горное солнце",
+                  "text": "Der Strand Gornoje Solnze bietet Erholung an der Küste beim Woronzow-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Министерства Обороны",
+                  "text": "Ein Strandabschnitt, der zum Sanatorium des Verteidigungsministeriums gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        34.06215,
+                        44.421671
+                  ]
+            },
+            {
+                  "name": "Сковородка (Лазурный берег)",
+                  "text": "Ein kleiner, geschützter Strandabschnitt in der Nähe des Woronzow-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        34.048343,
+                        44.415955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Ай-Петри»",
+                  "text": "Der Strand des Sanatoriums Ai-Petri liegt an der malerischen Küste von Koreis.",
+                  "category": "recreational",
+                  "coords": [
+                        34.076115,
+                        44.423142
+                  ]
+            },
+            {
+                  "name": "Пляж Русалка",
+                  "text": "Ein bekannter Strand in Mischor, benannt nach der markanten Meerjungfrau-Skulptur im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        34.090014,
+                        44.427395
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата Беларусь",
+                  "text": "Der Küstenbereich des Sanatoriums Belarus befindet sich im Ort Mischor.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Ай-Тодор",
+                  "text": "Ein Strandbad beim Sanatorium Ai-Todor an der Südküste der Krim.",
+                  "category": "recreational",
+                  "coords": [
+                        34.085329,
+                        44.425831
+                  ]
+            },
+            {
+                  "name": "Ай-Панда",
+                  "text": "Eine Ferienanlage am Strand beim Woronzow-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004454,
+                        44.402705
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Ein Wasserpark in Alupka in der Nähe des Woronzow-Palastes, der verschiedene Becken und Rutschen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.025533,
+                        44.40628
+                  ]
             }
       ],
       "hu": [
@@ -1618,6 +2455,186 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                   "coords": [
                         34.01309,
                         44.405355
+                  ]
+            },
+            {
+                  "name": "VIP-Пляж комплекса Respect Hall",
+                  "text": "A Respect Hall komplexum VIP-strandja a Voroncov-palotánál, emelt szintű kényelemmel.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Дикий пляж",
+                  "text": "Természetes szabadstrand a Voroncov-palota közelében, amely nyugalmat és természetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        34.087161,
+                        44.426369
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Белоруссия",
+                  "text": "A Belorusszija szanatórium strandja a Voroncov-palotánál, amely a kúrvendégek számára elérhető.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Дикий пляж \"Имени монаха Бертольда Шварца\"",
+                  "text": "Sziklás szabadstrand a Voroncov-palotánál, amelyet Berthold Schwarz szerzetesről neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        34.039045,
+                        44.408955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория им. Семашко",
+                  "text": "A Szemasko szanatórium strandja a Voroncov-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011444,
+                        44.40458
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Симеиз\"",
+                  "text": "A Szimeiz szanatórium strandjai a Fekete-tenger partján, a Voroncov-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.014111,
+                        44.406219
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Москва\"",
+                  "text": "A Moszkva szanatórium strandjai a Voroncov-palota közelében találhatók.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015165,
+                        44.406856
+                  ]
+            },
+            {
+                  "name": "Городской пляж Алупки",
+                  "text": "Alupka városi strandja a Voroncov-palota alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Зелёный мыс",
+                  "text": "Gleccserparti szakasz a Zöld-foknál, a Voroncov-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040251,
+                        44.409932
+                  ]
+            },
+            {
+                  "name": "Лягушка",
+                  "text": "Ez az Alupka melletti strand egy jellegzetes béka alakú szikláról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        34.0302,
+                        44.40536
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Южнобережный»",
+                  "text": "Szanatóriumi strand a Krím déli partján, a Voroncov-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.037348,
+                        44.407946
+                  ]
+            },
+            {
+                  "name": "Горное солнце",
+                  "text": "A Gornoje Szolnce strand pihenési lehetőséget kínál a tengerparton a Voroncov-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Министерства Обороны",
+                  "text": "A Védelmi Minisztérium szanatóriumához tartozó strandrész.",
+                  "category": "recreational",
+                  "coords": [
+                        34.06215,
+                        44.421671
+                  ]
+            },
+            {
+                  "name": "Сковородка (Лазурный берег)",
+                  "text": "Kicsi, védett strandrész a Voroncov-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.048343,
+                        44.415955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Ай-Петри»",
+                  "text": "Az Aj-Petri szanatórium strandja Koreiz festői partján található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.076115,
+                        44.423142
+                  ]
+            },
+            {
+                  "name": "Пляж Русалка",
+                  "text": "Ismert strand Miszhorban, a vízben található jellegzetes hableány-szoborról nevezték el.",
+                  "category": "recreational",
+                  "coords": [
+                        34.090014,
+                        44.427395
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата Беларусь",
+                  "text": "A Belarusz szanatórium tengerparti területe Miszhor településen található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Ай-Тодор",
+                  "text": "Strandfürdő az Aj-Todor szanatóriumnál a Krím déli partján.",
+                  "category": "recreational",
+                  "coords": [
+                        34.085329,
+                        44.425831
+                  ]
+            },
+            {
+                  "name": "Ай-Панда",
+                  "text": "Tengerparti üdülőhely a Voroncov-palotánál.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004454,
+                        44.402705
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Vízi park Alupkában, a Voroncov-palota közelében, amely különféle medencéket és csúszdákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        34.025533,
+                        44.40628
                   ]
             }
       ],
@@ -1684,6 +2701,186 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                         34.01309,
                         44.405355
                   ]
+            },
+            {
+                  "name": "VIP-Пляж комплекса Respect Hall",
+                  "text": "O plajă VIP a complexului Respect Hall de la Palatul Voronțov, oferind un confort sporit.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Дикий пляж",
+                  "text": "O plajă sălbatică naturală lângă Palatul Voronțov, care oferă liniște și natură.",
+                  "category": "recreational",
+                  "coords": [
+                        34.087161,
+                        44.426369
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Белоруссия",
+                  "text": "Plaja sanatoriului Belarus de la Palatul Voronțov, accesibilă pentru pacienții sanatoriului.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Дикий пляж \"Имени монаха Бертольда Шварца\"",
+                  "text": "O plajă sălbatică stâncoasă la Palatul Voronțov, numită după călugărul Berthold Schwarz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.039045,
+                        44.408955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория им. Семашко",
+                  "text": "O zonă de coastă lângă sanatoriul Semașko, în apropiere de Palatul Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011444,
+                        44.40458
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Симеиз\"",
+                  "text": "Plajele sanatoriului Simeiz de pe coasta Mării Negre, lângă Palatul Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.014111,
+                        44.406219
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Москва\"",
+                  "text": "Plajele sanatoriului Moscova situate în apropierea Palatului Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015165,
+                        44.406856
+                  ]
+            },
+            {
+                  "name": "Городской пляж Алупки",
+                  "text": "Plaja publică a orașului Alupka situată sub Palatul Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Зелёный мыс",
+                  "text": "O secțiune pitorească de plajă la Capul Verde, lângă Palatul Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040251,
+                        44.409932
+                  ]
+            },
+            {
+                  "name": "Лягушка",
+                  "text": "Această plajă de lângă Alupka este numită după o stâncă proeminentă în formă de broască.",
+                  "category": "recreational",
+                  "coords": [
+                        34.0302,
+                        44.40536
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Южнобережный»",
+                  "text": "O plajă de sanatoriu pe coasta de sud a Crimeei, lângă Palatul Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.037348,
+                        44.407946
+                  ]
+            },
+            {
+                  "name": "Горное солнце",
+                  "text": "Plaja Gornoie Solnțe oferă recreere pe coastă, lângă Palatul Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Министерства Обороны",
+                  "text": "O secțiune de plajă aparținând sanatoriului Ministerului Apărării.",
+                  "category": "recreational",
+                  "coords": [
+                        34.06215,
+                        44.421671
+                  ]
+            },
+            {
+                  "name": "Сковородка (Лазурный берег)",
+                  "text": "O mică secțiune protejată de plajă în apropierea Palatului Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.048343,
+                        44.415955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Ай-Петри»",
+                  "text": "Plaja sanatoriului Ai-Petri situată pe coasta pitorească din Koreiz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.076115,
+                        44.423142
+                  ]
+            },
+            {
+                  "name": "Пляж Русалка",
+                  "text": "O plajă cunoscută în Mișor, numită după sculptura distinctivă a sirenei din apă.",
+                  "category": "recreational",
+                  "coords": [
+                        34.090014,
+                        44.427395
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата Беларусь",
+                  "text": "Zona de coastă a sanatoriului Belarus situată în localitatea Mișor.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Ай-Тодор",
+                  "text": "O zonă de îmbăiere la sanatoriul Ai-Todor de pe coasta de sud a Crimeei.",
+                  "category": "recreational",
+                  "coords": [
+                        34.085329,
+                        44.425831
+                  ]
+            },
+            {
+                  "name": "Ай-Панда",
+                  "text": "O stațiune de plajă lângă Palatul Voronțov.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004454,
+                        44.402705
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Un parc acvatic în Alupka, lângă Palatul Voronțov, care oferă diverse piscine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        34.025533,
+                        44.40628
+                  ]
             }
       ],
       "en": [
@@ -1749,6 +2946,186 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                         34.01309,
                         44.405355
                   ]
+            },
+            {
+                  "name": "VIP-Пляж комплекса Respect Hall",
+                  "text": "A VIP beach of the Respect Hall complex at the Vorontsov Palace, offering high-end comfort.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Дикий пляж",
+                  "text": "A natural wild beach near the Vorontsov Palace, offering peace and nature.",
+                  "category": "recreational",
+                  "coords": [
+                        34.087161,
+                        44.426369
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Белоруссия",
+                  "text": "The beach of the Belarus sanatorium at the Vorontsov Palace, accessible to resort guests.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Дикий пляж \"Имени монаха Бертольда Шварца\"",
+                  "text": "A rocky wild beach at the Vorontsov Palace, named after the monk Berthold Schwarz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.039045,
+                        44.408955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория им. Семашко",
+                  "text": "A coastal beach area at the Semashko Sanatorium near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.011444,
+                        44.40458
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Симеиз\"",
+                  "text": "Beaches of the Simeiz Sanatorium on the Black Sea coast near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.014111,
+                        44.406219
+                  ]
+            },
+            {
+                  "name": "Пляжи санатория \"Москва\"",
+                  "text": "The beaches of the Moskva Sanatorium located near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.015165,
+                        44.406856
+                  ]
+            },
+            {
+                  "name": "Городской пляж Алупки",
+                  "text": "The public city beach of Alupka located below the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Зелёный мыс",
+                  "text": "A scenic beach section at the Green Cape near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.040251,
+                        44.409932
+                  ]
+            },
+            {
+                  "name": "Лягушка",
+                  "text": "This beach near Alupka is named after a prominent frog-shaped rock.",
+                  "category": "recreational",
+                  "coords": [
+                        34.0302,
+                        44.40536
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Южнобережный»",
+                  "text": "A sanatorium beach on the southern coast of Crimea near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.037348,
+                        44.407946
+                  ]
+            },
+            {
+                  "name": "Горное солнце",
+                  "text": "Gornoye Solntse beach offers recreation on the coast near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Министерства Обороны",
+                  "text": "A beach section belonging to the Ministry of Defense sanatorium.",
+                  "category": "recreational",
+                  "coords": [
+                        34.06215,
+                        44.421671
+                  ]
+            },
+            {
+                  "name": "Сковородка (Лазурный берег)",
+                  "text": "A small, sheltered beach section near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.048343,
+                        44.415955
+                  ]
+            },
+            {
+                  "name": "Пляж санатория «Ай-Петри»",
+                  "text": "The beach of the Ai-Petri Sanatorium located on the scenic coast of Koreiz.",
+                  "category": "recreational",
+                  "coords": [
+                        34.076115,
+                        44.423142
+                  ]
+            },
+            {
+                  "name": "Пляж Русалка",
+                  "text": "A well-known beach in Mishor named after the distinctive mermaid sculpture in the water.",
+                  "category": "recreational",
+                  "coords": [
+                        34.090014,
+                        44.427395
+                  ]
+            },
+            {
+                  "name": "Belarussia sanatorium beach",
+                  "text": "The coastal area of the Belarus Sanatorium located in the settlement of Mishor.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "Пляж санатория Ай-Тодор",
+                  "text": "A bathing area at the Ai-Todor Sanatorium on the southern coast of Crimea.",
+                  "category": "recreational",
+                  "coords": [
+                        34.085329,
+                        44.425831
+                  ]
+            },
+            {
+                  "name": "Ai-Panda",
+                  "text": "A beach resort near the Vorontsov Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004454,
+                        44.402705
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "A water park in Alupka near the Vorontsov Palace, featuring various pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        34.025533,
+                        44.40628
+                  ]
             }
       ]
 },
@@ -1797,7 +3174,124 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
     },
     image: "/poi-images/ukraine-vorontsov-palace-history-v2.webp",
 },  {
-    id: "ukraine-livadia-palace-history-v2",
+    id: "ukraine-livadia-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Пляж Санатория Узбекистан",
+                  "text": "Ein privater Strandabschnitt unterhalb des Liwadija-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        34.154751,
+                        44.474448
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Ein bekannter Strandabschnitt an der Küste von Liwadija.",
+                  "category": "recreational",
+                  "coords": [
+                        34.156657,
+                        44.477182
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Ein weiterer Küstenabschnitt für Badegäste in Liwadija.",
+                  "category": "recreational",
+                  "coords": [
+                        34.155828,
+                        44.476208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Пляж Санатория Узбекистан",
+                  "text": "Privát strandszakasz a Livadia-palota alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.154751,
+                        44.474448
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Ismert strandszakasz Livadia partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        34.156657,
+                        44.477182
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Egy másik tengerparti szakasz fürdőzőknek Livadiában.",
+                  "category": "recreational",
+                  "coords": [
+                        34.155828,
+                        44.476208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Пляж Санатория Узбекистан",
+                  "text": "O secțiune de plajă privată sub Palatul Livadia.",
+                  "category": "recreational",
+                  "coords": [
+                        34.154751,
+                        44.474448
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "O porțiune de plajă cunoscută pe coasta din Livadia.",
+                  "category": "recreational",
+                  "coords": [
+                        34.156657,
+                        44.477182
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "O altă secțiune de coastă pentru scăldat în Livadia.",
+                  "category": "recreational",
+                  "coords": [
+                        34.155828,
+                        44.476208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Пляж Санатория Узбекистан",
+                  "text": "A private beach section located below the Livadia Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.154751,
+                        44.474448
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "A well-known beach section on the coast of Livadia.",
+                  "category": "recreational",
+                  "coords": [
+                        34.156657,
+                        44.477182
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Another coastal section for bathers in Livadia.",
+                  "category": "recreational",
+                  "coords": [
+                        34.155828,
+                        44.476208
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "palace",
     name: { de: "Liwadija-Palast", hu: "Livádiai palota", ro: "Palatul Livadia", en: "Livadia Palace"},
@@ -1843,7 +3337,88 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
     },
     image: "/poi-images/ukraine-livadia-palace-history-v2.webp",
 },  {
-    id: "ukraine-massandra-palace-history-v2",
+    id: "ukraine-massandra-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Изумрудный",
+                  "text": "Izumrudny ist ein Strand in der Nähe des Massandra-Palastes.",
+                  "category": "recreational",
+                  "coords": [
+                        34.195261,
+                        44.499998
+                  ]
+            },
+            {
+                  "name": "\"НЕБО beach\"",
+                  "text": "Das NEBO beach ist ein Strandresort in Massandra Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.191218,
+                        44.500519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Изумрудный",
+                  "text": "Az Izumrudnij egy strand a Masszandra-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.195261,
+                        44.499998
+                  ]
+            },
+            {
+                  "name": "\"НЕБО beach\"",
+                  "text": "A NEBO beach egy strandüdülőhely Massandra Palace-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.191218,
+                        44.500519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Изумрудный",
+                  "text": "Izumrudny este o plajă situată în apropierea Palatului Massandra.",
+                  "category": "recreational",
+                  "coords": [
+                        34.195261,
+                        44.499998
+                  ]
+            },
+            {
+                  "name": "\"НЕБО beach\"",
+                  "text": "NEBO beach este o stațiune de plajă în Massandra Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.191218,
+                        44.500519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Изумрудный",
+                  "text": "Izumrudny is a beach located near the Massandra Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.195261,
+                        44.499998
+                  ]
+            },
+            {
+                  "name": "\"НЕБО beach\"",
+                  "text": "NEBO beach is a beach resort located in Massandra Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        34.191218,
+                        44.500519
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "palace",
     name: { de: "Schloss Massandra", hu: "Masszandrai palota", ro: "Palatul Massandra", en: "Massandra Palace"},
@@ -2546,6 +4121,15 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                         23.656342,
                         48.429556
                   ]
+            },
+            {
+                  "name": "Reabilitatsiinii tsentr olenia Blagorodnogo",
+                  "text": "Ein Rehabilitationszentrum für Rotwild in der Nähe der Dowbusch-Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.682054,
+                        48.409167
+                  ]
             }
       ],
       "hu": [
@@ -2583,6 +4167,15 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                   "coords": [
                         23.656342,
                         48.429556
+                  ]
+            },
+            {
+                  "name": "Reabilitatsiinii tsentr olenia Blagorodnogo",
+                  "text": "Gímszarvas-rehabilitációs központ a Dovbus-sziklák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.682054,
+                        48.409167
                   ]
             }
       ],
@@ -2622,6 +4215,15 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                         23.656342,
                         48.429556
                   ]
+            },
+            {
+                  "name": "Reabilitatsiinii tsentr olenia Blagorodnogo",
+                  "text": "Un centru de reabilitare pentru cerbi nobili lângă Stâncile Dovbuș.",
+                  "category": "recreational",
+                  "coords": [
+                        23.682054,
+                        48.409167
+                  ]
             }
       ],
       "en": [
@@ -2659,6 +4261,15 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                   "coords": [
                         23.656342,
                         48.429556
+                  ]
+            },
+            {
+                  "name": "Reabilitatsiinii tsentr olenia Blagorodnogo",
+                  "text": "A rehabilitation center for noble deer near the Dovbush Rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        23.682054,
+                        48.409167
                   ]
             }
       ]
@@ -2752,7 +4363,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-st-barbara-cathedral-berdychiv-history-v2.webp",
   },
   {
-    id: "ukraine-zbarazh-castle-history-v2",
+    id: "ukraine-zbarazh-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grinvich",
+                  "text": "Ein Strandresort in der Nähe der Burg von Sbarasch.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grinvich",
+                  "text": "Tengerparti üdülőhely a zbarazsi vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grinvich",
+                  "text": "O stațiune la plajă situată lângă Castelul Zbaraj.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grinvich",
+                  "text": "A beach resort situated near Zbarazh Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "UA",
     name: { de: "Burg Sbarasch", hu: "Zbarzsi vár", ro: "Castelul Zbaraj", en: "Zbarazh Castle" },
@@ -3716,6 +5372,24 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                         24.193678,
                         49.701748
                   ]
+            },
+            {
+                  "name": "URURU",
+                  "text": "Ein Freizeitpark bei Schloss Stare Selo, der Unterhaltung für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "Ein Seilgarten in der Nähe von Schloss Stare Selo für sportliche Abenteuer.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
+                  ]
             }
       ],
       "hu": [
@@ -3726,6 +5400,24 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                   "coords": [
                         24.193678,
                         49.701748
+                  ]
+            },
+            {
+                  "name": "URURU",
+                  "text": "Vidámpark a Stare Selo-kastélynál, amely szórakozást nyújt családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "Kötélpálya a Stare Selo-kastély közelében sportos kalandokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
                   ]
             }
       ],
@@ -3738,6 +5430,24 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                         24.193678,
                         49.701748
                   ]
+            },
+            {
+                  "name": "URURU",
+                  "text": "Un parc tematic la Castelul Stare Selo, care oferă divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "Un parc de frânghii lângă Castelul Stare Selo pentru aventuri sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
+                  ]
             }
       ],
       "en": [
@@ -3748,6 +5458,24 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                   "coords": [
                         24.193678,
                         49.701748
+                  ]
+            },
+            {
+                  "name": "URURU",
+                  "text": "A theme park at Stare Selo Castle, offering entertainment for families.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "A rope park near Stare Selo Castle for athletic adventures.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
                   ]
             }
       ]
@@ -5110,7 +6838,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-starokostiantyniv-castle-history-v2.webp",
   },
   {
-    id: "ukraine-zbarazh-synagogue-history-v2",
+    id: "ukraine-zbarazh-synagogue-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grinvich",
+                  "text": "Ein Strandresort in der Nähe der Synagoge von Sbarasch.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grinvich",
+                  "text": "Tengerparti üdülőhely a zbarazsi zsinagóga közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grinvich",
+                  "text": "O stațiune la plajă situată lângă Sinagoga din Zbaraj.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grinvich",
+                  "text": "A beach resort located near the Zbarazh Synagogue.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750467,
+                        49.66519
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "UA",
     name: { de: "Synagoge Sbarasch", hu: "Zbarzsi zsinagóga", ro: "Sinagoga Zbaraj", en: "Zbarazh Synagogue" },

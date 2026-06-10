@@ -1327,6 +1327,15 @@ export const switzerlandHistoryV2: POI[] = [
                         7.089962,
                         47.428458
                   ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "Ein Hallenbad beim Schloss Pruntrut.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
+                  ]
             }
       ],
       "hu": [
@@ -1400,6 +1409,15 @@ export const switzerlandHistoryV2: POI[] = [
                   "coords": [
                         7.089962,
                         47.428458
+                  ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "Fedett uszoda a porrentruy-i kastélynál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
                   ]
             }
       ],
@@ -1475,6 +1493,15 @@ export const switzerlandHistoryV2: POI[] = [
                         7.089962,
                         47.428458
                   ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "O piscină acoperită lângă Castelul Porrentruy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
+                  ]
             }
       ],
       "en": [
@@ -1548,6 +1575,15 @@ export const switzerlandHistoryV2: POI[] = [
                   "coords": [
                         7.089962,
                         47.428458
+                  ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "An indoor swimming pool near Porrentruy Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
                   ]
             }
       ]

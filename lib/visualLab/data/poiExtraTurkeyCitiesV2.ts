@@ -4606,6 +4606,24 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         30.729001,
                         36.859828
                   ]
+            },
+            {
+                  "name": "Falez Halk",
+                  "text": "Ein öffentlicher Strand in Antalya, der an den malerischen Klippen der Stadt liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        30.756805,
+                        36.846864
+                  ]
+            },
+            {
+                  "name": "Korsan koyu",
+                  "text": "Ein Küstenstrand in Antalya, der für seine Freizeiteinrichtungen und Meeresatmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        30.745726,
+                        36.853554
+                  ]
             }
       ],
       "hu": [
@@ -4616,6 +4634,24 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         30.729001,
                         36.859828
+                  ]
+            },
+            {
+                  "name": "Falez Halk",
+                  "text": "Antalya nyilvános strandja, amely a város látványos sziklafalai mentén található.",
+                  "category": "recreational",
+                  "coords": [
+                        30.756805,
+                        36.846864
+                  ]
+            },
+            {
+                  "name": "Korsan koyu",
+                  "text": "Tengerparti strand Antalyában, amely szabadidős szolgáltatásairól és tengeri hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        30.745726,
+                        36.853554
                   ]
             }
       ],
@@ -4628,6 +4664,24 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         30.729001,
                         36.859828
                   ]
+            },
+            {
+                  "name": "Falez Halk",
+                  "text": "O plajă publică din Antalya, situată de-a lungul stâncilor pitorești ale orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        30.756805,
+                        36.846864
+                  ]
+            },
+            {
+                  "name": "Korsan koyu",
+                  "text": "O plajă de coastă din Antalya, cunoscută pentru facilitățile de agrement și atmosfera marină.",
+                  "category": "recreational",
+                  "coords": [
+                        30.745726,
+                        36.853554
+                  ]
             }
       ],
       "en": [
@@ -4638,6 +4692,24 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         30.729001,
                         36.859828
+                  ]
+            },
+            {
+                  "name": "Falez Halk",
+                  "text": "A public beach in Antalya situated along the city's scenic cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        30.756805,
+                        36.846864
+                  ]
+            },
+            {
+                  "name": "Pirate`s Beach",
+                  "text": "A coastal beach in Antalya known for its leisure facilities and seaside atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        30.745726,
+                        36.853554
                   ]
             }
       ]
@@ -13435,6 +13507,15 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         27.514708,
                         40.978218
                   ]
+            },
+            {
+                  "name": "Değirmenaltı Halk Plajı",
+                  "text": "Değirmenaltı Halk Plajı ist ein öffentlicher Strand in Tekirdağ.",
+                  "category": "recreational",
+                  "coords": [
+                        27.576646,
+                        40.984452
+                  ]
             }
       ],
       "hu": [
@@ -13517,6 +13598,15 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         27.514708,
                         40.978218
+                  ]
+            },
+            {
+                  "name": "Değirmenaltı Halk Plajı",
+                  "text": "A Değirmenaltı Halk Plajı egy nyilvános strand Tekirdağban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.576646,
+                        40.984452
                   ]
             }
       ],
@@ -13601,6 +13691,15 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         27.514708,
                         40.978218
                   ]
+            },
+            {
+                  "name": "Değirmenaltı Halk Plajı",
+                  "text": "Değirmenaltı Halk Plajı este o plajă publică în Tekirdağ.",
+                  "category": "recreational",
+                  "coords": [
+                        27.576646,
+                        40.984452
+                  ]
             }
       ],
       "en": [
@@ -13683,6 +13782,15 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         27.514708,
                         40.978218
+                  ]
+            },
+            {
+                  "name": "Değirmenaltı Halk Plajı",
+                  "text": "Değirmenaltı Halk Plajı is a public beach in Tekirdağ.",
+                  "category": "recreational",
+                  "coords": [
+                        27.576646,
+                        40.984452
                   ]
             }
       ]

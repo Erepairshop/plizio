@@ -13,6 +13,24 @@ export const estoniaLifeV2: POI[] = [
                         26.49005,
                         57.732545
                   ]
+            },
+            {
+                  "name": "Ähijärve Veski lõkkekoha ujumiskoht",
+                  "text": "Eine Naturbadestelle im Karula-Nationalpark, die sich bei einem ausgewiesenen Lagerfeuerplatz befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        26.499967,
+                        57.719049
+                  ]
+            },
+            {
+                  "name": "Ähijärve Alakonnu lõkkekoha ujumiskoht",
+                  "text": "Ein am Ähijärve-See gelegener Badeplatz im Karula-Nationalpark für Besucher der Naturregion.",
+                  "category": "recreational",
+                  "coords": [
+                        26.493146,
+                        57.717446
+                  ]
             }
       ],
       "hu": [
@@ -23,6 +41,24 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         26.49005,
                         57.732545
+                  ]
+            },
+            {
+                  "name": "Ähijärve Veski lõkkekoha ujumiskoht",
+                  "text": "Természetes fürdőhely a Karula Nemzeti Parkban, amely egy kijelölt tűzrakóhely mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        26.499967,
+                        57.719049
+                  ]
+            },
+            {
+                  "name": "Ähijärve Alakonnu lõkkekoha ujumiskoht",
+                  "text": "Az Ähijärve-tónál található fürdőhely a Karula Nemzeti Parkban a természetkedvelők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        26.493146,
+                        57.717446
                   ]
             }
       ],
@@ -35,6 +71,24 @@ export const estoniaLifeV2: POI[] = [
                         26.49005,
                         57.732545
                   ]
+            },
+            {
+                  "name": "Ähijärve Veski lõkkekoha ujumiskoht",
+                  "text": "Un loc natural de scăldat în Parcul Național Karula, situat lângă un loc de foc de tabără amenajat.",
+                  "category": "recreational",
+                  "coords": [
+                        26.499967,
+                        57.719049
+                  ]
+            },
+            {
+                  "name": "Ähijärve Alakonnu lõkkekoha ujumiskoht",
+                  "text": "Un loc de scăldat situat pe malul lacului Ähijärve în Parcul Național Karula, pentru vizitatorii regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        26.493146,
+                        57.717446
+                  ]
             }
       ],
       "en": [
@@ -45,6 +99,24 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         26.49005,
                         57.732545
+                  ]
+            },
+            {
+                  "name": "Ähijärve Veski lõkkekoha ujumiskoht",
+                  "text": "A natural swimming spot in the Karula National Park, located near a designated campfire site.",
+                  "category": "recreational",
+                  "coords": [
+                        26.499967,
+                        57.719049
+                  ]
+            },
+            {
+                  "name": "Ähijärve Alakonnu lõkkekoha ujumiskoht",
+                  "text": "A swimming spot located by Lake Ähijärve in the Karula National Park for visitors to the nature region.",
+                  "category": "recreational",
+                  "coords": [
+                        26.493146,
+                        57.717446
                   ]
             }
       ]
@@ -517,6 +589,15 @@ export const estoniaLifeV2: POI[] = [
                         27.583753,
                         57.852224
                   ]
+            },
+            {
+                  "name": "Nedsaja ujumiskoht",
+                  "text": "Eine ruhige Badestelle im Mustoja-Landschaftsschutzgebiet, umgeben von unberührter Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        27.587518,
+                        57.893686
+                  ]
             }
       ],
       "hu": [
@@ -545,6 +626,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         27.583753,
                         57.852224
+                  ]
+            },
+            {
+                  "name": "Nedsaja ujumiskoht",
+                  "text": "Csendes fürdőhely a Mustoja tájvédelmi körzetben, érintetlen természet által körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        27.587518,
+                        57.893686
                   ]
             }
       ],
@@ -575,6 +665,15 @@ export const estoniaLifeV2: POI[] = [
                         27.583753,
                         57.852224
                   ]
+            },
+            {
+                  "name": "Nedsaja ujumiskoht",
+                  "text": "Un loc de scăldat liniștit în rezervația peisajística Mustoja, înconjurat de natură virgină.",
+                  "category": "recreational",
+                  "coords": [
+                        27.587518,
+                        57.893686
+                  ]
             }
       ],
       "en": [
@@ -603,6 +702,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         27.583753,
                         57.852224
+                  ]
+            },
+            {
+                  "name": "Nedsaja ujumiskoht",
+                  "text": "A peaceful swimming spot in the Mustoja Landscape Reserve, surrounded by untouched nature.",
+                  "category": "recreational",
+                  "coords": [
+                        27.587518,
+                        57.893686
                   ]
             }
       ]
@@ -661,6 +769,15 @@ export const estoniaLifeV2: POI[] = [
                         26.04218,
                         59.374221
                   ]
+            },
+            {
+                  "name": "Ohepalu ujumiskoht",
+                  "text": "Ein Badeplatz im Landschaftsschutzgebiet Neeruti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.960144,
+                        59.347604
+                  ]
             }
       ],
       "hu": [
@@ -671,6 +788,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         26.04218,
                         59.374221
+                  ]
+            },
+            {
+                  "name": "Ohepalu ujumiskoht",
+                  "text": "Fürdőhely a Neeruti tájvédelmi körzetben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.960144,
+                        59.347604
                   ]
             }
       ],
@@ -683,6 +809,15 @@ export const estoniaLifeV2: POI[] = [
                         26.04218,
                         59.374221
                   ]
+            },
+            {
+                  "name": "Ohepalu ujumiskoht",
+                  "text": "Un loc pentru scăldat în Rezervația Neeruti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.960144,
+                        59.347604
+                  ]
             }
       ],
       "en": [
@@ -693,6 +828,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         26.04218,
                         59.374221
+                  ]
+            },
+            {
+                  "name": "Ohepalu ujumiskoht",
+                  "text": "A swimming area in the Neeruti Landscape Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        25.960144,
+                        59.347604
                   ]
             }
       ]
@@ -1579,6 +1723,15 @@ export const estoniaLifeV2: POI[] = [
                         22.332405,
                         58.216665
                   ]
+            },
+            {
+                  "name": "Nasva ranna ujumiskoht",
+                  "text": "Ein ruhiger Badeplatz am Nasva-Strand in Estland.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397586,
+                        58.216837
+                  ]
             }
       ],
       "hu": [
@@ -1607,6 +1760,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         22.332405,
                         58.216665
+                  ]
+            },
+            {
+                  "name": "Nasva ranna ujumiskoht",
+                  "text": "Nyugodt fürdőhely az észtországi Nasva-strandon.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397586,
+                        58.216837
                   ]
             }
       ],
@@ -1637,6 +1799,15 @@ export const estoniaLifeV2: POI[] = [
                         22.332405,
                         58.216665
                   ]
+            },
+            {
+                  "name": "Nasva ranna ujumiskoht",
+                  "text": "Un loc de scăldat liniștit pe plaja Nasva din Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397586,
+                        58.216837
+                  ]
             }
       ],
       "en": [
@@ -1665,6 +1836,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         22.332405,
                         58.216665
+                  ]
+            },
+            {
+                  "name": "Nasva ranna ujumiskoht",
+                  "text": "A quiet swimming spot at Nasva beach in Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397586,
+                        58.216837
                   ]
             }
       ]
@@ -1750,6 +1930,24 @@ export const estoniaLifeV2: POI[] = [
                         23.452745,
                         58.944611
                   ]
+            },
+            {
+                  "name": "Österby ujumiskoht",
+                  "text": "Ein ruhiger Badeplatz in Österby, ideal für eine Erfrischung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        23.517609,
+                        58.975462
+                  ]
+            },
+            {
+                  "name": "Haapsalu talisupluskoht",
+                  "text": "Ein bekannter Ort für das Winterschwimmen in Haapsalu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.523511,
+                        58.960615
+                  ]
             }
       ],
       "hu": [
@@ -1787,6 +1985,24 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         23.452745,
                         58.944611
+                  ]
+            },
+            {
+                  "name": "Österby ujumiskoht",
+                  "text": "Nyugodt fürdőhely Österbyben, amely ideális a szabadtéri felfrissüléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        23.517609,
+                        58.975462
+                  ]
+            },
+            {
+                  "name": "Haapsalu talisupluskoht",
+                  "text": "Ismert téli úszóhely Haapsaluban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.523511,
+                        58.960615
                   ]
             }
       ],
@@ -1826,6 +2042,24 @@ export const estoniaLifeV2: POI[] = [
                         23.452745,
                         58.944611
                   ]
+            },
+            {
+                  "name": "Österby ujumiskoht",
+                  "text": "Un loc de scăldat liniștit în Österby, ideal pentru o răcorire în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        23.517609,
+                        58.975462
+                  ]
+            },
+            {
+                  "name": "Haapsalu talisupluskoht",
+                  "text": "Un loc cunoscut pentru înotul de iarnă în Haapsalu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.523511,
+                        58.960615
+                  ]
             }
       ],
       "en": [
@@ -1863,6 +2097,24 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         23.452745,
                         58.944611
+                  ]
+            },
+            {
+                  "name": "Österby ujumiskoht",
+                  "text": "A quiet swimming spot in Österby, ideal for outdoor refreshment.",
+                  "category": "recreational",
+                  "coords": [
+                        23.517609,
+                        58.975462
+                  ]
+            },
+            {
+                  "name": "Haapsalu talisupluskoht",
+                  "text": "A well-known spot for winter swimming in Haapsalu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.523511,
+                        58.960615
                   ]
             }
       ]

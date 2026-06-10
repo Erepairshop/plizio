@@ -581,6 +581,15 @@ imageHint: "Sindos industrial park aerial with warehouses",
                         22.940106,
                         39.363402
                   ]
+            },
+            {
+                  "name": "Kolumbeterio",
+                  "text": "Ein Schwimmbad im Hafen von Volos, das der Öffentlichkeit für sportliche Zwecke zur Verfügung steht.",
+                  "category": "recreational",
+                  "coords": [
+                        22.966384,
+                        39.354817
+                  ]
             }
       ],
       "hu": [
@@ -654,6 +663,15 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   "coords": [
                         22.940106,
                         39.363402
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio",
+                  "text": "Úszómedence Volos kikötőjében, amely sportolási célokra áll a nyilvánosság rendelkezésére.",
+                  "category": "recreational",
+                  "coords": [
+                        22.966384,
+                        39.354817
                   ]
             }
       ],
@@ -729,6 +747,15 @@ imageHint: "Sindos industrial park aerial with warehouses",
                         22.940106,
                         39.363402
                   ]
+            },
+            {
+                  "name": "Kolumbeterio",
+                  "text": "O piscină în Portul Volos, disponibilă publicului pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        22.966384,
+                        39.354817
+                  ]
             }
       ],
       "en": [
@@ -802,6 +829,15 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   "coords": [
                         22.940106,
                         39.363402
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio",
+                  "text": "A swimming pool in the Port of Volos, available to the public for sports purposes.",
+                  "category": "recreational",
+                  "coords": [
+                        22.966384,
+                        39.354817
                   ]
             }
       ]
@@ -970,6 +1006,15 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                         21.753437,
                         38.246971
                   ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "Ein Schwimmbad im Hafenbereich von Patras.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
+                  ]
             }
       ],
       "hu": [
@@ -1043,6 +1088,15 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   "coords": [
                         21.753437,
                         38.246971
+                  ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "Egy úszómedence Patrasz kikötői negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
                   ]
             }
       ],
@@ -1118,6 +1172,15 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                         21.753437,
                         38.246971
                   ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "O piscină situată în zona portului din Patras.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
+                  ]
             }
       ],
       "en": [
@@ -1192,6 +1255,15 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                         21.753437,
                         38.246971
                   ]
+            },
+            {
+                  "name": "N.O.P",
+                  "text": "A swimming pool located in the port area of Patras.",
+                  "category": "recreational",
+                  "coords": [
+                        21.725148,
+                        38.238812
+                  ]
             }
       ]
 },
@@ -1240,7 +1312,88 @@ imageHint: "Patras port with large international ferries docked",
     },
     image: "/poi-images/greece-patras-port-economic-v2.webp",
 },  {
-    id: "greece-igoumenitsa-port-economic-v2",
+    id: "greece-igoumenitsa-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Παραλία Κόκκινος Βράχος",
+                  "text": "Ein Strand bei Igoumenitsa, der nach seinen markanten roten Felsen benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251791,
+                        39.464238
+                  ]
+            },
+            {
+                  "name": "Παραλία Δρέπανο",
+                  "text": "Ein langer, schmaler Sandstrand auf einer Halbinsel in der Nähe von Igoumenitsa.",
+                  "category": "recreational",
+                  "coords": [
+                        20.218082,
+                        39.511178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Παραλία Κόκκινος Βράχος",
+                  "text": "Igumeníca melletti strand, amely jellegzetes vörös szikláiról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251791,
+                        39.464238
+                  ]
+            },
+            {
+                  "name": "Παραλία Δρέπανο",
+                  "text": "Hosszú, keskeny homokos strand egy félszigeten, Igumeníca közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.218082,
+                        39.511178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Παραλία Κόκκινος Βράχος",
+                  "text": "O plajă lângă Igoumenitsa, numită după stâncile sale roșii distinctive.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251791,
+                        39.464238
+                  ]
+            },
+            {
+                  "name": "Παραλία Δρέπανο",
+                  "text": "O plajă lungă și îngustă de nisip pe o peninsulă lângă Igoumenitsa.",
+                  "category": "recreational",
+                  "coords": [
+                        20.218082,
+                        39.511178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Παραλία Κόκκινος Βράχος",
+                  "text": "A beach near Igoumenitsa named after its distinctive red rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        20.251791,
+                        39.464238
+                  ]
+            },
+            {
+                  "name": "Παραλία Δρέπανο",
+                  "text": "A long, narrow sandy beach on a peninsula near Igoumenitsa.",
+                  "category": "recreational",
+                  "coords": [
+                        20.218082,
+                        39.511178
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "port",
     name: { de: "Hafen von Igoumenitsa", hu: "Igumeníca kikötője", ro: "Portul Igoumenitsa", en: "Port of Igoumenitsa"},
@@ -1413,7 +1566,124 @@ imageHint: "Aliveri power plant smoke stacks and sea",
     },
     image: "/poi-images/greece-aliveri-power-plant-economic-v2.webp",
 },  {
-    id: "greece-naxos-emery-mines-economic-v2",
+    id: "greece-naxos-emery-mines-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Λίωνας",
+                  "text": "Ein Kieselstrand an der Nordostküste von Naxos bei den Schmirgelminen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.586469,
+                        37.137492
+                  ]
+            },
+            {
+                  "name": "Παραλία Ψωφαγριλιά",
+                  "text": "Ein ruhiges Küstengebiet auf der Insel Naxos in der Nähe der Schmirgelminen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.593876,
+                        37.103849
+                  ]
+            },
+            {
+                  "name": "Παραλία Λιμνάρι",
+                  "text": "Ein kleiner Strand an der Ostküste von Naxos, erreichbar aus der Bergbauregion.",
+                  "category": "recreational",
+                  "coords": [
+                        25.591306,
+                        37.125374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λίωνας",
+                  "text": "Kavicsos strand Naxosz északkeleti partján, a smirgelbányák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.586469,
+                        37.137492
+                  ]
+            },
+            {
+                  "name": "Παραλία Ψωφαγριλιά",
+                  "text": "Csendes tengerparti rész Naxosz szigetén, a smirgelbányák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.593876,
+                        37.103849
+                  ]
+            },
+            {
+                  "name": "Παραλία Λιμνάρι",
+                  "text": "Kis strand Naxosz keleti partján, amely a bányászati régióból érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        25.591306,
+                        37.125374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λίωνας",
+                  "text": "O plajă cu pietriș pe coasta de nord-est a insulei Naxos, lângă minele de emeri.",
+                  "category": "recreational",
+                  "coords": [
+                        25.586469,
+                        37.137492
+                  ]
+            },
+            {
+                  "name": "Παραλία Ψωφαγριλιά",
+                  "text": "O zonă de coastă liniștită pe insula Naxos, lângă minele de emeri.",
+                  "category": "recreational",
+                  "coords": [
+                        25.593876,
+                        37.103849
+                  ]
+            },
+            {
+                  "name": "Παραλία Λιμνάρι",
+                  "text": "O plajă mică pe coasta de est a insulei Naxos, accesibilă din regiunea minieră.",
+                  "category": "recreational",
+                  "coords": [
+                        25.591306,
+                        37.125374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Λίωνας",
+                  "text": "A pebble beach on the northeastern coast of Naxos near the emery mines.",
+                  "category": "recreational",
+                  "coords": [
+                        25.586469,
+                        37.137492
+                  ]
+            },
+            {
+                  "name": "Παραλία Ψωφαγριλιά",
+                  "text": "A quiet coastal area on the island of Naxos near the emery mines.",
+                  "category": "recreational",
+                  "coords": [
+                        25.593876,
+                        37.103849
+                  ]
+            },
+            {
+                  "name": "Παραλία Λιμνάρι",
+                  "text": "A small beach on the eastern coast of Naxos accessible from the mining region.",
+                  "category": "recreational",
+                  "coords": [
+                        25.591306,
+                        37.125374
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mine",
     name: { de: "Schmirgelminen von Naxos", hu: "Naxoszi smergelbányák", ro: "Minele de smirghel din Naxos", en: "Naxos Emery Mines"},
@@ -1646,7 +1916,88 @@ imageHint: "Aliveri power plant smoke stacks and sea",
     },
   },
   {
-    id: "greece-motor-oil-refinery-economic-v2",
+    id: "greece-motor-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Καλαμάκι",
+                  "text": "Kalamaki ist ein Strand in der Nähe der Raffinerie von Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010735,
+                        37.919624
+                  ]
+            },
+            {
+                  "name": "Κρυφή",
+                  "text": "Krifi ist ein Strand in der Nähe der Raffinerie von Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        23.008297,
+                        37.913717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Καλαμάκι",
+                  "text": "Kalamaki egy strand a korinthoszi finomító közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010735,
+                        37.919624
+                  ]
+            },
+            {
+                  "name": "Κρυφή",
+                  "text": "Krifi egy strand a korinthoszi finomító közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.008297,
+                        37.913717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Καλαμάκι",
+                  "text": "Kalamaki este o plajă situată în apropierea rafinăriei din Corint.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010735,
+                        37.919624
+                  ]
+            },
+            {
+                  "name": "Κρυφή",
+                  "text": "Krifi este o plajă situată în apropierea rafinăriei din Corint.",
+                  "category": "recreational",
+                  "coords": [
+                        23.008297,
+                        37.913717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Καλαμάκι",
+                  "text": "Kalamaki is a beach located near the Corinth refinery.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010735,
+                        37.919624
+                  ]
+            },
+            {
+                  "name": "Κρυφή",
+                  "text": "Krifi is a beach located near the Corinth refinery.",
+                  "category": "recreational",
+                  "coords": [
+                        23.008297,
+                        37.913717
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "industry",
     name: { de: "Motor Oil Raffinerie Korinth", hu: "Motor Oil Korinthoszi finomító", ro: "Rafinăria Motor Oil Corint", en: "Motor Oil Corinth Refinery"},

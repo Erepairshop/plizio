@@ -7658,6 +7658,24 @@ export const poiExtraDe4b: POI[] = [
                         7.065432,
                         49.573892
                   ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "Ein beliebtes Strandbad am Bostalsee, ideal zum Schwimmen, Surfen und für Familienausflüge.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Peterberg",
+                  "text": "Ein Freizeitzentrum am Peterberg mit einer Sommerrodelbahn und weiteren Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        7.003496,
+                        49.578706
+                  ]
             }
       ],
       "hu": [
@@ -7722,6 +7740,24 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.065432,
                         49.573892
+                  ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "Népszerű strandfürdő a Bostalsee-nél, amely ideális úszáshoz, szörfözéshez és családi kirándulásokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Peterberg",
+                  "text": "Szabadidőközpont a Peterbergen nyári bobpályával és további gyermekattrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.003496,
+                        49.578706
                   ]
             }
       ],
@@ -7788,6 +7824,24 @@ export const poiExtraDe4b: POI[] = [
                         7.065432,
                         49.573892
                   ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "O zonă de plajă populară la lacul Bostal, ideală pentru înot, surfing și excursii în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Peterberg",
+                  "text": "Un centru de agrement pe muntele Peterberg, cu un tobogan de vară și alte atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        7.003496,
+                        49.578706
+                  ]
             }
       ],
       "en": [
@@ -7852,6 +7906,24 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.065432,
                         49.573892
+                  ]
+            },
+            {
+                  "name": "Strandbad Bosen",
+                  "text": "A popular beach bath at Lake Bostal, ideal for swimming, surfing, and family outings.",
+                  "category": "recreational",
+                  "coords": [
+                        7.065724,
+                        49.567594
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Peterberg",
+                  "text": "A leisure center at Peterberg featuring a summer toboggan run and further attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        7.003496,
+                        49.578706
                   ]
             }
       ]

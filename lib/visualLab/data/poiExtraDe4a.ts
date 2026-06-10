@@ -2772,7 +2772,304 @@ export const poiExtraDe4a: POI[] = [
       "tr": ["Krämerbrücke'nin toplam uzunluğu 120 metredir.", "Bugünkü taş yapı 1325 yılından kalmadır.", "Köprünün uçlarında başlangıçta iki kilise vardı; Ägidien Kilisesi günümüze ulaşmıştır.", "32 evde bugün yaklaşık 80 kişi yaşamaktadır.", "Köprü, Gera nehrini altı taş kemerle geçer.", "Her yıl Haziran ayında Thüringen'in en büyük eski şehir festivali olan Krämerbrückenfest düzenlenir."]}, image: "/poi-images/landmark-kraemerbrue-erfurt-extra.webp"},
 
   {
-    id: "river-werra-th-extra",
+    id: "river-werra-th-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hügelgräberfeld Eichig",
+                  "text": "Ein archäologisches Feld mit Grabhügeln in der Nähe der Werra.",
+                  "category": "historical",
+                  "coords": [
+                        10.32622,
+                        50.582449
+                  ]
+            },
+            {
+                  "name": "Neuberg",
+                  "text": "Ein markanter Gipfel in der Region an der Werra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353033,
+                        50.53143
+                  ]
+            },
+            {
+                  "name": "Dippersberg",
+                  "text": "Ein Gipfel im Werratal, beliebt bei Wanderern für seine Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        10.358678,
+                        50.543153
+                  ]
+            },
+            {
+                  "name": "Dornkopf",
+                  "text": "Ein Bergipfel an der Werra, der die lokale Landschaft prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.325947,
+                        50.549926
+                  ]
+            },
+            {
+                  "name": "Mockenberg",
+                  "text": "Ein bewaldeter Gipfel in der Nähe des Flusses Werra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.312509,
+                        50.547683
+                  ]
+            },
+            {
+                  "name": "Henriettenplatz",
+                  "text": "Ein Aussichtspunkt an der Werra, der weite Blicke über das Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.394983,
+                        50.571539
+                  ]
+            },
+            {
+                  "name": "Kreuzberghäuschen",
+                  "text": "Ein kleiner Aussichtspunkt mit Hütte in der Region Werra.",
+                  "category": "natural",
+                  "coords": [
+                        10.404069,
+                        50.558446
+                  ]
+            },
+            {
+                  "name": "Untere Linde",
+                  "text": "Ein markanter Baum oder Platz an der Werra, oft als lokales Ziel genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.387532,
+                        50.559673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hügelgräberfeld Eichig",
+                  "text": "Régészeti terület halomsírokkal a Werra folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.32622,
+                        50.582449
+                  ]
+            },
+            {
+                  "name": "Neuberg",
+                  "text": "Egy jellegzetes hegycsúcs a Werra-folyó vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353033,
+                        50.53143
+                  ]
+            },
+            {
+                  "name": "Dippersberg",
+                  "text": "Hegycsúcs a Werra-völgyben, a túrázók körében népszerű kilátóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        10.358678,
+                        50.543153
+                  ]
+            },
+            {
+                  "name": "Dornkopf",
+                  "text": "Hegycsúcs a Werra mentén, amely meghatározza a helyi tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        10.325947,
+                        50.549926
+                  ]
+            },
+            {
+                  "name": "Mockenberg",
+                  "text": "Erdős hegycsúcs a Werra folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.312509,
+                        50.547683
+                  ]
+            },
+            {
+                  "name": "Henriettenplatz",
+                  "text": "Kilátópont a Werra mentén, ahonnan messzire ellátni a völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        10.394983,
+                        50.571539
+                  ]
+            },
+            {
+                  "name": "Kreuzberghäuschen",
+                  "text": "Kis kilátóhely kunyhóval a Werra-vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        10.404069,
+                        50.558446
+                  ]
+            },
+            {
+                  "name": "Untere Linde",
+                  "text": "Jellegzetes fa vagy pihenőhely a Werra mentén, népszerű kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        10.387532,
+                        50.559673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hügelgräberfeld Eichig",
+                  "text": "Un sit arheologic cu tumuli situat în apropierea râului Werra.",
+                  "category": "historical",
+                  "coords": [
+                        10.32622,
+                        50.582449
+                  ]
+            },
+            {
+                  "name": "Neuberg",
+                  "text": "Un vârf montan proeminent din regiunea râului Werra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353033,
+                        50.53143
+                  ]
+            },
+            {
+                  "name": "Dippersberg",
+                  "text": "Un vârf în valea Werra, apreciat de drumeți pentru priveliștile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        10.358678,
+                        50.543153
+                  ]
+            },
+            {
+                  "name": "Dornkopf",
+                  "text": "Un vârf montan de-a lungul râului Werra, reprezentativ pentru peisajul local.",
+                  "category": "landmark",
+                  "coords": [
+                        10.325947,
+                        50.549926
+                  ]
+            },
+            {
+                  "name": "Mockenberg",
+                  "text": "Un vârf împădurit situat în apropierea râului Werra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.312509,
+                        50.547683
+                  ]
+            },
+            {
+                  "name": "Henriettenplatz",
+                  "text": "Un punct de observație pe malul râului Werra, oferind vederi largi asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        10.394983,
+                        50.571539
+                  ]
+            },
+            {
+                  "name": "Kreuzberghäuschen",
+                  "text": "Un mic punct de observație cu un foișor în regiunea Werra.",
+                  "category": "natural",
+                  "coords": [
+                        10.404069,
+                        50.558446
+                  ]
+            },
+            {
+                  "name": "Untere Linde",
+                  "text": "Un copac remarcabil sau un loc de popas pe Werra, punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        10.387532,
+                        50.559673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hügelgräberfeld Eichig",
+                  "text": "An archaeological site featuring burial mounds near the Werra River.",
+                  "category": "historical",
+                  "coords": [
+                        10.32622,
+                        50.582449
+                  ]
+            },
+            {
+                  "name": "Neuberg",
+                  "text": "A prominent mountain peak in the Werra River region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353033,
+                        50.53143
+                  ]
+            },
+            {
+                  "name": "Dippersberg",
+                  "text": "A mountain peak in the Werra valley, popular among hikers for its views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.358678,
+                        50.543153
+                  ]
+            },
+            {
+                  "name": "Dornkopf",
+                  "text": "A mountain peak along the Werra, shaping the local landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.325947,
+                        50.549926
+                  ]
+            },
+            {
+                  "name": "Mockenberg",
+                  "text": "A forested mountain peak located near the Werra River.",
+                  "category": "landmark",
+                  "coords": [
+                        10.312509,
+                        50.547683
+                  ]
+            },
+            {
+                  "name": "Henriettenplatz",
+                  "text": "A viewpoint along the Werra, offering wide views over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        10.394983,
+                        50.571539
+                  ]
+            },
+            {
+                  "name": "Kreuzberghäuschen",
+                  "text": "A small viewpoint with a shelter in the Werra region.",
+                  "category": "natural",
+                  "coords": [
+                        10.404069,
+                        50.558446
+                  ]
+            },
+            {
+                  "name": "Untere Linde",
+                  "text": "A notable tree or landmark area along the Werra, used as a local destination.",
+                  "category": "landmark",
+                  "coords": [
+                        10.387532,
+                        50.559673
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE-TH",
     coords: [10.3500, 50.5500],

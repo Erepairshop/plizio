@@ -1066,6 +1066,33 @@ export const polandNatureV2: POI[] = [
                         17.541104,
                         54.766612
                   ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein FKK-Strand im Słowiński-Nationalpark bei den Wanderdünen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.52513,
+                        54.764595
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "Ein kleiner Zoo in der Nähe der Wanderdünen des Słowiński-Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        17.57408,
+                        54.742513
+                  ]
+            },
+            {
+                  "name": "Discovery Park Łeba",
+                  "text": "Ein Freizeitpark in Łeba mit interaktiven Attraktionen bei den Wanderdünen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.558065,
+                        54.766146
+                  ]
             }
       ],
       "hu": [
@@ -1139,6 +1166,33 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         17.541104,
                         54.766612
+                  ]
+            },
+            {
+                  "name": "plaża nudystów",
+                  "text": "Naturista strand a Słowiński Nemzeti Parkban, a vándorló dűnéknél.",
+                  "category": "recreational",
+                  "coords": [
+                        17.52513,
+                        54.764595
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "Egy kis állatkert a Słowiński Nemzeti Park vándorló dűnéi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.57408,
+                        54.742513
+                  ]
+            },
+            {
+                  "name": "Discovery Park Łeba",
+                  "text": "Élménypark Łebában, interaktív látnivalókkal a vándorló dűnék közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.558065,
+                        54.766146
                   ]
             }
       ],
@@ -1214,6 +1268,33 @@ export const polandNatureV2: POI[] = [
                         17.541104,
                         54.766612
                   ]
+            },
+            {
+                  "name": "plaża nudystów",
+                  "text": "O plajă de naturiști în Parcul Național Słowiński, lângă dunele mișcătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.52513,
+                        54.764595
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "O mică grădină zoologică lângă dunele mișcătoare din Parcul Național Słowiński.",
+                  "category": "recreational",
+                  "coords": [
+                        17.57408,
+                        54.742513
+                  ]
+            },
+            {
+                  "name": "Discovery Park Łeba",
+                  "text": "Un parc de distracții în Łeba cu atracții interactive lângă dunele mișcătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.558065,
+                        54.766146
+                  ]
             }
       ],
       "en": [
@@ -1287,6 +1368,33 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         17.541104,
                         54.766612
+                  ]
+            },
+            {
+                  "name": "plaża nudystów",
+                  "text": "A naturist beach in Słowiński National Park near the moving dunes.",
+                  "category": "recreational",
+                  "coords": [
+                        17.52513,
+                        54.764595
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "A small zoo located near the moving dunes of Słowiński National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        17.57408,
+                        54.742513
+                  ]
+            },
+            {
+                  "name": "Discovery Park Łeba",
+                  "text": "A theme park in Łeba with interactive attractions near the moving dunes.",
+                  "category": "recreational",
+                  "coords": [
+                        17.558065,
+                        54.766146
                   ]
             }
       ]
@@ -1408,6 +1516,24 @@ export const polandNatureV2: POI[] = [
                         20.476806,
                         49.418694
                   ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Ein Abenteuerpark in der Nähe des Dunajec-Durchbruchs.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Ein familienfreundlicher Freizeitpark in der Nähe der malerischen Dunajec-Schlucht.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
             }
       ],
       "hu": [
@@ -1481,6 +1607,24 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.476806,
                         49.418694
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Kalandpark a Dunajec-áttörés közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Családbarát vidámpark a látványos Dunajec-áttörés közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
                   ]
             }
       ],
@@ -1556,6 +1700,24 @@ export const polandNatureV2: POI[] = [
                         20.476806,
                         49.418694
                   ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Un parc de aventură situat în apropierea Cheilor Dunajecului.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Un parc de distracții pentru familii situat lângă pitorescul defileu al râului Dunajec.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
             }
       ],
       "en": [
@@ -1629,6 +1791,24 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.476806,
                         49.418694
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "An adventure park located near the Dunajec River Gorge.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "A family-friendly theme park located near the scenic Dunajec River Gorge.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
                   ]
             }
       ]
@@ -5458,6 +5638,15 @@ export const polandNatureV2: POI[] = [
                         21.448505,
                         53.706648
                   ]
+            },
+            {
+                  "name": "Park Dzikich Zwierząt w Kadzidłowie",
+                  "text": "Ein Wildtierpark in Masuren, der sich auf den Schutz und die Zucht seltener polnischer Tierarten spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        21.491008,
+                        53.713537
+                  ]
             }
       ],
       "hu": [
@@ -5495,6 +5684,15 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         21.448505,
                         53.706648
+                  ]
+            },
+            {
+                  "name": "Park Dzikich Zwierząt w Kadzidłowie",
+                  "text": "Vadaspark Mazúriában, amely ritka lengyel állatfajok védelmére és tenyésztésére specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        21.491008,
+                        53.713537
                   ]
             }
       ],
@@ -5534,6 +5732,15 @@ export const polandNatureV2: POI[] = [
                         21.448505,
                         53.706648
                   ]
+            },
+            {
+                  "name": "Park Dzikich Zwierząt w Kadzidłowie",
+                  "text": "Un parc de animale sălbatice în Mazuria, specializat în protejarea și creșterea speciilor rare din Polonia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.491008,
+                        53.713537
+                  ]
             }
       ],
       "en": [
@@ -5571,6 +5778,15 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         21.448505,
                         53.706648
+                  ]
+            },
+            {
+                  "name": "Park Dzikich Zwierząt w Kadzidłowie",
+                  "text": "A wildlife park in Masuria specializing in the protection and breeding of rare Polish animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        21.491008,
+                        53.713537
                   ]
             }
       ]
@@ -6115,6 +6331,24 @@ export const polandNatureV2: POI[] = [
                         22.438486,
                         49.371575
                   ]
+            },
+            {
+                  "name": "WZW Jawor",
+                  "text": "Eine Erholungsschwimmbadanlage in der Nähe des Ufers des Solina-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        22.464212,
+                        49.36887
+                  ]
+            },
+            {
+                  "name": "Wiejskie \"ZOO\"",
+                  "text": "Ein charmanter lokaler Zoo am Solina-See mit Haus- und Wildtieren.",
+                  "category": "recreational",
+                  "coords": [
+                        22.39775,
+                        49.388459
+                  ]
             }
       ],
       "hu": [
@@ -6188,6 +6422,24 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         22.438486,
                         49.371575
+                  ]
+            },
+            {
+                  "name": "WZW Jawor",
+                  "text": "Szabadidős úszómedence-létesítmény a Solina-tó partjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.464212,
+                        49.36887
+                  ]
+            },
+            {
+                  "name": "Wiejskie \"ZOO\"",
+                  "text": "Hangulatos helyi állatkert a Solina-tónál, házi- és vadállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        22.39775,
+                        49.388459
                   ]
             }
       ],
@@ -6263,6 +6515,24 @@ export const polandNatureV2: POI[] = [
                         22.438486,
                         49.371575
                   ]
+            },
+            {
+                  "name": "WZW Jawor",
+                  "text": "O facilitate de înot recreativă situată în apropierea malului lacului Solina.",
+                  "category": "recreational",
+                  "coords": [
+                        22.464212,
+                        49.36887
+                  ]
+            },
+            {
+                  "name": "Wiejskie \"ZOO\"",
+                  "text": "O grădină zoologică locală fermecătoare lângă lacul Solina, cu animale domestice și sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        22.39775,
+                        49.388459
+                  ]
             }
       ],
       "en": [
@@ -6336,6 +6606,24 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         22.438486,
                         49.371575
+                  ]
+            },
+            {
+                  "name": "WZW Jawor",
+                  "text": "A recreational swimming pool facility located near the shores of Solina Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.464212,
+                        49.36887
+                  ]
+            },
+            {
+                  "name": "Wiejskie \"ZOO\"",
+                  "text": "A charming local zoo near Solina Lake featuring domestic animals and wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        22.39775,
+                        49.388459
                   ]
             }
       ]
@@ -7141,6 +7429,42 @@ export const polandNatureV2: POI[] = [
                         14.534718,
                         53.952302
                   ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "Öffentlicher Badebereich am östlichen Teil des Strandes bei den Kliffen von Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "Öffentlicher Badebereich am westlichen Teil des Strandes bei den Kliffen von Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Oceanarium Międzyzdroje",
+                  "text": "Ein Aquarium in Międzyzdroje, das eine Vielzahl von Meereslebewesen und Fischen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44593,
+                        53.930309
+                  ]
+            },
+            {
+                  "name": "Aqua Resort aquapark",
+                  "text": "Freizeit-Wasserpark mit Rutschen und Becken in der Nähe der Kliffe von Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.446564,
+                        53.925669
+                  ]
             }
       ],
       "hu": [
@@ -7214,6 +7538,42 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         14.534718,
                         53.952302
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "Nyilvános fürdőhely a wolini sziklák melletti strand keleti részén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "Nyilvános fürdőhely a wolini sziklák melletti strand nyugati részén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Oceanarium Międzyzdroje",
+                  "text": "Akvárium Międzyzdrojében, amely különféle tengeri élőlényeket és halakat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44593,
+                        53.930309
+                  ]
+            },
+            {
+                  "name": "Aqua Resort aquapark",
+                  "text": "Szabadidős vízi park csúszdákkal és medencékkel a wolini sziklák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.446564,
+                        53.925669
                   ]
             }
       ],
@@ -7289,6 +7649,42 @@ export const polandNatureV2: POI[] = [
                         14.534718,
                         53.952302
                   ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "Zonă publică de scăldat situată pe partea de est a plajei de lângă stâncile Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "Zonă publică de scăldat situată pe partea de vest a plajei de lângă stâncile Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Oceanarium Międzyzdroje",
+                  "text": "Un acvariu din Międzyzdroje care expune o varietate de creaturi marine și pești.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44593,
+                        53.930309
+                  ]
+            },
+            {
+                  "name": "Aqua Resort aquapark",
+                  "text": "Parc acvatic de recreere cu tobogane și piscine lângă stâncile Wolin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.446564,
+                        53.925669
+                  ]
             }
       ],
       "en": [
@@ -7362,6 +7758,42 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         14.534718,
                         53.952302
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Wschód",
+                  "text": "Public swimming area on the eastern part of the beach near the Wolin Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.451027,
+                        53.93526
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Zachód",
+                  "text": "Public swimming area on the western part of the beach near the Wolin Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.437445,
+                        53.929471
+                  ]
+            },
+            {
+                  "name": "Oceanarium Międzyzdroje",
+                  "text": "An aquarium in Międzyzdroje showcasing a variety of marine life and fish.",
+                  "category": "recreational",
+                  "coords": [
+                        14.44593,
+                        53.930309
+                  ]
+            },
+            {
+                  "name": "Aqua Resort aquapark",
+                  "text": "Recreational water park with slides and pools near the Wolin Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.446564,
+                        53.925669
                   ]
             }
       ]

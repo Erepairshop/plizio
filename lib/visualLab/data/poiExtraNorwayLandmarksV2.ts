@@ -166,6 +166,15 @@ export const norwayLandmarksV2: POI[] = [
                         10.381771,
                         60.23801
                   ]
+            },
+            {
+                  "name": "Toso skole - Svømmehall",
+                  "text": "Toso skole - Svømmehall ist eine Schwimmhalle bei den Hadeland Glassworks.",
+                  "category": "recreational",
+                  "coords": [
+                        10.424862,
+                        60.237958
+                  ]
             }
       ],
       "hu": [
@@ -239,6 +248,15 @@ export const norwayLandmarksV2: POI[] = [
                   "coords": [
                         10.381771,
                         60.23801
+                  ]
+            },
+            {
+                  "name": "Toso skole - Svømmehall",
+                  "text": "A Toso skole - Svømmehall egy uszoda a Hadeland Glassworks közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.424862,
+                        60.237958
                   ]
             }
       ],
@@ -314,6 +332,15 @@ export const norwayLandmarksV2: POI[] = [
                         10.381771,
                         60.23801
                   ]
+            },
+            {
+                  "name": "Toso skole - Svømmehall",
+                  "text": "Toso skole - Svømmehall este o piscină situată lângă fabrica de sticlă Hadeland.",
+                  "category": "recreational",
+                  "coords": [
+                        10.424862,
+                        60.237958
+                  ]
             }
       ],
       "en": [
@@ -387,6 +414,15 @@ export const norwayLandmarksV2: POI[] = [
                   "coords": [
                         10.381771,
                         60.23801
+                  ]
+            },
+            {
+                  "name": "Toso skole - Svømmehall",
+                  "text": "Toso skole - Svømmehall is a swimming hall located near Hadeland Glassworks.",
+                  "category": "recreational",
+                  "coords": [
+                        10.424862,
+                        60.237958
                   ]
             }
       ]
@@ -1848,7 +1884,124 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-bergen-museum-landmarks-v2.webp",
   },
   {
-    id: "norway-trondheim-fortress-landmarks-v2",
+    id: "norway-trondheim-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Korsvika",
+                  "text": "Ein beliebter lokaler Strand und Badeplatz in der Nähe der Festung Kristiansten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.432409,
+                        63.449969
+                  ]
+            },
+            {
+                  "name": "Fagerheimbukta",
+                  "text": "Eine ruhige Bucht mit Strandcharakter nahe der Festung Kristiansten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.466411,
+                        63.448281
+                  ]
+            },
+            {
+                  "name": "Ringvebukta",
+                  "text": "Ein charmanter Badeplatz an der Küste bei der Festung Kristiansten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.462505,
+                        63.452776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korsvika",
+                  "text": "Népszerű helyi strand és fürdőhely a Kristiansten erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.432409,
+                        63.449969
+                  ]
+            },
+            {
+                  "name": "Fagerheimbukta",
+                  "text": "Csendes öböl stranddal a Kristiansten erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.466411,
+                        63.448281
+                  ]
+            },
+            {
+                  "name": "Ringvebukta",
+                  "text": "Hangulatos fürdőhely a tengerparton a Kristiansten erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.462505,
+                        63.452776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korsvika",
+                  "text": "O plajă locală populară și loc de scăldat lângă Cetatea Kristiansten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.432409,
+                        63.449969
+                  ]
+            },
+            {
+                  "name": "Fagerheimbukta",
+                  "text": "Un golf liniștit cu plajă în apropiere de Cetatea Kristiansten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.466411,
+                        63.448281
+                  ]
+            },
+            {
+                  "name": "Ringvebukta",
+                  "text": "Un loc de scăldat fermecător pe coastă, lângă Cetatea Kristiansten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.462505,
+                        63.452776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korsvika",
+                  "text": "A popular local beach and bathing spot near the Kristiansten Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        10.432409,
+                        63.449969
+                  ]
+            },
+            {
+                  "name": "Fagerheimbukta",
+                  "text": "A quiet bay with a beach character near the Kristiansten Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        10.466411,
+                        63.448281
+                  ]
+            },
+            {
+                  "name": "Ringvebukta",
+                  "text": "A charming bathing spot on the coast near the Kristiansten Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        10.462505,
+                        63.452776
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NO",
     name: { de: "Festung Kristiansten", hu: "Kristiansten erőd", ro: "Fortăreața Kristiansten", en: "Kristiansten Fortress" },
@@ -2325,7 +2478,268 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-astrup-fearnley-museum-landmarks-v2.webp",
   },
   {
-    id: "norway-stiklestad-church-landmarks-v2",
+    id: "norway-stiklestad-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stiklestad Nasjonale Kultursenter",
+                  "text": "Ein nationales Kulturzentrum und Museum, das an die Schlacht von 1030 und den Tod des Heiligen Olaf erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        11.562824,
+                        63.795933
+                  ]
+            },
+            {
+                  "name": "Spelamfiet",
+                  "text": "Ein Freilichttheater in Stiklestad, das für historische Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        11.566075,
+                        63.796952
+                  ]
+            },
+            {
+                  "name": "Stikladstadir",
+                  "text": "Ein Freilichtmuseum in Stiklestad mit rekonstruierten historischen Gebäuden und ländlichem Leben.",
+                  "category": "museum",
+                  "coords": [
+                        11.565752,
+                        63.798593
+                  ]
+            },
+            {
+                  "name": "Verdalsraset",
+                  "text": "Ein Aussichtspunkt in Stiklestad mit Blick auf die Stelle eines bedeutenden historischen Erdrutschs.",
+                  "category": "natural",
+                  "coords": [
+                        11.631642,
+                        63.794856
+                  ]
+            },
+            {
+                  "name": "Hellig Olavs ortodokse kapell",
+                  "text": "Eine kleine orthodoxe Kapelle in Stiklestad, die dem Heiligen Olaf geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.562149,
+                        63.797659
+                  ]
+            },
+            {
+                  "name": "Vinne kyrkje",
+                  "text": "Eine historische Kirche in Stiklestad.",
+                  "category": "religious",
+                  "coords": [
+                        11.526195,
+                        63.772247
+                  ]
+            },
+            {
+                  "name": "Stiklestad",
+                  "text": "Diese Kirche aus dem 12. Jahrhundert steht an der Stelle, an der König Olaf II. fiel.",
+                  "category": "religious",
+                  "coords": [
+                        11.560208,
+                        63.796913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stiklestad Nasjonale Kultursenter",
+                  "text": "Nemzeti kulturális központ és múzeum, amely az 1030-as csatának és Szent Olaf halálának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        11.562824,
+                        63.795933
+                  ]
+            },
+            {
+                  "name": "Spelamfiet",
+                  "text": "Szabadteri színház Stiklestadban, amelyet történelmi játékokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        11.566075,
+                        63.796952
+                  ]
+            },
+            {
+                  "name": "Stikladstadir",
+                  "text": "Néprajzi múzeum Stiklestadban, amely rekonstruált történelmi épületeket és a vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.565752,
+                        63.798593
+                  ]
+            },
+            {
+                  "name": "Verdalsraset",
+                  "text": "Kilátópont Stiklestadban, ahonnan rálátni egy jelentős történelmi földcsuszamlás helyszínére.",
+                  "category": "natural",
+                  "coords": [
+                        11.631642,
+                        63.794856
+                  ]
+            },
+            {
+                  "name": "Hellig Olavs ortodokse kapell",
+                  "text": "Kicsi ortodox kápolna Stiklestadban, amelyet Szent Olafnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.562149,
+                        63.797659
+                  ]
+            },
+            {
+                  "name": "Vinne kyrkje",
+                  "text": "Történelmi templom Stiklestadban.",
+                  "category": "religious",
+                  "coords": [
+                        11.526195,
+                        63.772247
+                  ]
+            },
+            {
+                  "name": "Stiklestad",
+                  "text": "Ez a 12. századi kőtemplom azon a helyen épült, ahol II. Olaf király elesett.",
+                  "category": "religious",
+                  "coords": [
+                        11.560208,
+                        63.796913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stiklestad Nasjonale Kultursenter",
+                  "text": "Un centru cultural național și un muzeu care comemorează bătălia din 1030 și moartea Sfântului Olaf.",
+                  "category": "museum",
+                  "coords": [
+                        11.562824,
+                        63.795933
+                  ]
+            },
+            {
+                  "name": "Spelamfiet",
+                  "text": "Un teatru în aer liber din Stiklestad folosit pentru piese istorice.",
+                  "category": "cultural",
+                  "coords": [
+                        11.566075,
+                        63.796952
+                  ]
+            },
+            {
+                  "name": "Stikladstadir",
+                  "text": "Un muzeu popular din Stiklestad care prezintă clădiri istorice reconstruite și viața rurală.",
+                  "category": "museum",
+                  "coords": [
+                        11.565752,
+                        63.798593
+                  ]
+            },
+            {
+                  "name": "Verdalsraset",
+                  "text": "Un punct de belvedere din Stiklestad cu vedere la locul unei alunecări de teren istorice majore.",
+                  "category": "natural",
+                  "coords": [
+                        11.631642,
+                        63.794856
+                  ]
+            },
+            {
+                  "name": "Hellig Olavs ortodokse kapell",
+                  "text": "O mică chapelă ortodoxă din Stiklestad dedicată Sfântului Olaf.",
+                  "category": "religious",
+                  "coords": [
+                        11.562149,
+                        63.797659
+                  ]
+            },
+            {
+                  "name": "Vinne kyrkje",
+                  "text": "O biserică istorică din Stiklestad.",
+                  "category": "religious",
+                  "coords": [
+                        11.526195,
+                        63.772247
+                  ]
+            },
+            {
+                  "name": "Stiklestad",
+                  "text": "Această biserică de piatră din secolul al XII-lea este construită pe locul unde a căzut regele Olaf al II-lea.",
+                  "category": "religious",
+                  "coords": [
+                        11.560208,
+                        63.796913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stiklestad Nasjonale Kultursenter",
+                  "text": "A national cultural centre and museum commemorating the 1030 battle and the death of Saint Olaf.",
+                  "category": "museum",
+                  "coords": [
+                        11.562824,
+                        63.795933
+                  ]
+            },
+            {
+                  "name": "Spelamfiet",
+                  "text": "An open-air theatre in Stiklestad used for historical plays.",
+                  "category": "cultural",
+                  "coords": [
+                        11.566075,
+                        63.796952
+                  ]
+            },
+            {
+                  "name": "Stikladstadir",
+                  "text": "A folk museum in Stiklestad showcasing reconstructed historic buildings and rural life.",
+                  "category": "museum",
+                  "coords": [
+                        11.565752,
+                        63.798593
+                  ]
+            },
+            {
+                  "name": "Verdalsraset",
+                  "text": "A viewpoint in Stiklestad overlooking the site of a major historic landslide.",
+                  "category": "natural",
+                  "coords": [
+                        11.631642,
+                        63.794856
+                  ]
+            },
+            {
+                  "name": "Hellig Olavs ortodokse kapell",
+                  "text": "A small Orthodox chapel in Stiklestad dedicated to Saint Olaf.",
+                  "category": "religious",
+                  "coords": [
+                        11.562149,
+                        63.797659
+                  ]
+            },
+            {
+                  "name": "Vinne kyrkje",
+                  "text": "A historic church located in Stiklestad.",
+                  "category": "religious",
+                  "coords": [
+                        11.526195,
+                        63.772247
+                  ]
+            },
+            {
+                  "name": "Stiklestad",
+                  "text": "This 12th-century stone church is built on the site where King Olaf II fell.",
+                  "category": "religious",
+                  "coords": [
+                        11.560208,
+                        63.796913
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "NO",
     name: { de: "Stiklestad Kirche", hu: "Stiklestadi templom", ro: "Biserica din Stiklestad", en: "Stiklestad Church" },
@@ -2460,7 +2874,88 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-bergen-fortress-museum-landmarks-v2.webp",
   },
   {
-    id: "norway-trondheim-maritime-museum-landmarks-v2",
+    id: "norway-trondheim-maritime-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brænnebukta",
+                  "text": "Eine Badebucht in Trondheim in der Nähe des Schifffahrtsmuseums.",
+                  "category": "recreational",
+                  "coords": [
+                        10.329523,
+                        63.447569
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Ein öffentlicher Badeplatz im Hafenbereich von Trondheim.",
+                  "category": "recreational",
+                  "coords": [
+                        10.390955,
+                        63.435763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brænnebukta",
+                  "text": "Fürdőöböl Trondheimben, a tengerészeti múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.329523,
+                        63.447569
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Nyilvános fürdőhely Trondheim kikötői negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.390955,
+                        63.435763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brænnebukta",
+                  "text": "Un golf pentru scăldat în Trondheim, situat lângă muzeul maritim.",
+                  "category": "recreational",
+                  "coords": [
+                        10.329523,
+                        63.447569
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "O zonă publică de scăldat în zona portuară a orașului Trondheim.",
+                  "category": "recreational",
+                  "coords": [
+                        10.390955,
+                        63.435763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brænnebukta",
+                  "text": "A swimming bay in Trondheim located near the maritime museum.",
+                  "category": "recreational",
+                  "coords": [
+                        10.329523,
+                        63.447569
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "A public swimming area in the harbor area of Trondheim.",
+                  "category": "recreational",
+                  "coords": [
+                        10.390955,
+                        63.435763
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "NO",
     name: { de: "Maritimes Museum Trondheim", hu: "Trondheimi Tengerészeti Múzeum", ro: "Muzeul Maritim din Trondheim", en: "Trondheim Maritime Museum" },

@@ -607,6 +607,15 @@ export const romaniaReliefV2: POI[] = [
                         24.609369,
                         45.571721
                   ]
+            },
+            {
+                  "name": "Fresh-meat",
+                  "text": "Ein kleiner Freizeitbereich in der Bergregion, der einfache Unterhaltung für Wanderer und Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
+                  ]
             }
       ],
       "hu": [
@@ -671,6 +680,15 @@ export const romaniaReliefV2: POI[] = [
                   "coords": [
                         24.609369,
                         45.571721
+                  ]
+            },
+            {
+                  "name": "Fresh-meat",
+                  "text": "Kisméretű szabadidős terület a hegyvidéken, amely egyszerű kikapcsolódást kínál a túrázóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
                   ]
             }
       ],
@@ -737,6 +755,15 @@ export const romaniaReliefV2: POI[] = [
                         24.609369,
                         45.571721
                   ]
+            },
+            {
+                  "name": "Fresh-meat",
+                  "text": "O mică zonă de agrement în regiunea montană, care oferă divertisment simplu pentru turiști și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
+                  ]
             }
       ],
       "en": [
@@ -801,6 +828,15 @@ export const romaniaReliefV2: POI[] = [
                   "coords": [
                         24.609369,
                         45.571721
+                  ]
+            },
+            {
+                  "name": "Fresh-meat",
+                  "text": "A small leisure area in the mountain region, offering simple entertainment for hikers and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
                   ]
             }
       ]

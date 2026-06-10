@@ -518,6 +518,15 @@ export const belarusLandmarksV2: POI[] = [
                         24.895943,
                         52.86066
                   ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "Ein kleiner Tierpark in der Nähe der Schlossruine von Ruschany.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
+                  ]
             }
       ],
       "hu": [
@@ -528,6 +537,15 @@ export const belarusLandmarksV2: POI[] = [
                   "coords": [
                         24.895943,
                         52.86066
+                  ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "Kis állatkert a ruzsanyi palotaromok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
                   ]
             }
       ],
@@ -540,6 +558,15 @@ export const belarusLandmarksV2: POI[] = [
                         24.895943,
                         52.86066
                   ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "O mică grădină zoologică lângă ruinele palatului Rujani.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
+                  ]
             }
       ],
       "en": [
@@ -550,6 +577,15 @@ export const belarusLandmarksV2: POI[] = [
                   "coords": [
                         24.895943,
                         52.86066
+                  ]
+            },
+            {
+                  "name": "Zalaty fazan",
+                  "text": "A small zoo located near the Ruzhany Palace ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84863,
+                        52.836871
                   ]
             }
       ]

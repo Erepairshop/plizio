@@ -67,6 +67,24 @@ export const poiExtraPolandCities: POI[] = [
                         15.763761,
                         50.92295
                   ]
+            },
+            {
+                  "name": "Basen kryty przy SP nr 11",
+                  "text": "Ein Hallenbad in Jelenia Góra, das an eine Schule angeschlossen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.757702,
+                        50.914014
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia KANS",
+                  "text": "Ein Hallenbad auf dem Campus der KANS in Jelenia Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732342,
+                        50.913976
+                  ]
             }
       ],
       "hu": [
@@ -131,6 +149,24 @@ export const poiExtraPolandCities: POI[] = [
                   "coords": [
                         15.763761,
                         50.92295
+                  ]
+            },
+            {
+                  "name": "Basen kryty przy SP nr 11",
+                  "text": "Iskolához kapcsolódó fedett uszoda Jelenia Górátban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.757702,
+                        50.914014
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia KANS",
+                  "text": "Fedett uszoda a KANS campusán Jelenia Górátban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732342,
+                        50.913976
                   ]
             }
       ],
@@ -197,6 +233,24 @@ export const poiExtraPolandCities: POI[] = [
                         15.763761,
                         50.92295
                   ]
+            },
+            {
+                  "name": "Basen kryty przy SP nr 11",
+                  "text": "O piscină acoperită din Jelenia Góra, atașată unei școli.",
+                  "category": "recreational",
+                  "coords": [
+                        15.757702,
+                        50.914014
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia KANS",
+                  "text": "O piscină acoperită în campusul KANS din Jelenia Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732342,
+                        50.913976
+                  ]
             }
       ],
       "en": [
@@ -261,6 +315,24 @@ export const poiExtraPolandCities: POI[] = [
                   "coords": [
                         15.763761,
                         50.92295
+                  ]
+            },
+            {
+                  "name": "Basen kryty przy SP nr 11",
+                  "text": "An indoor swimming pool in Jelenia Góra attached to a school.",
+                  "category": "recreational",
+                  "coords": [
+                        15.757702,
+                        50.914014
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia KANS",
+                  "text": "An indoor swimming pool on the KANS campus in Jelenia Góra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732342,
+                        50.913976
                   ]
             }
       ]

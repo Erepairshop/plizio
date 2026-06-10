@@ -413,6 +413,15 @@ export const moldovaPoi: POI[] = [
                         28.824961,
                         47.396079
                   ]
+            },
+            {
+                  "name": "OrheiLand",
+                  "text": "Ein großer Vergnügungspark in Orhei mit verschiedenen Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        28.828865,
+                        47.388037
+                  ]
             }
       ],
       "hu": [
@@ -486,6 +495,15 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.824961,
                         47.396079
+                  ]
+            },
+            {
+                  "name": "OrheiLand",
+                  "text": "Nagy vidámpark Orhei városában, különféle játékokkal és attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        28.828865,
+                        47.388037
                   ]
             }
       ],
@@ -561,6 +579,15 @@ export const moldovaPoi: POI[] = [
                         28.824961,
                         47.396079
                   ]
+            },
+            {
+                  "name": "OrheiLand",
+                  "text": "Un parc de distracții major în Orhei, oferind diverse atracții și divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        28.828865,
+                        47.388037
+                  ]
             }
       ],
       "en": [
@@ -634,6 +661,15 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.824961,
                         47.396079
+                  ]
+            },
+            {
+                  "name": "OrheiLand",
+                  "text": "A major amusement park in Orhei featuring various rides and entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        28.828865,
+                        47.388037
                   ]
             }
       ]

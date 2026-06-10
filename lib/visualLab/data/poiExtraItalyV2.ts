@@ -777,7 +777,528 @@ export const poiExtraItalyV2: POI[] = [
             }
       ]
 }},
-  {"id": "amalfi", "type": "city", "parent": "IT-72", "coords": [14.6027, 40.634], "population": 4900, "tier": 1, "name": {"de": "Amalfi", "hu": "Amalfi", "ro": "Amalfi", "en": "Amalfi"}, "description": {"de": "Das Herz der Amalfiküste, berühmt für seine mittelalterliche Architektur, die majestätische Kathedrale und die lange Seefahrertradition in einer dramatischen Felsenkulisse.", "hu": "Az Amalfi-part névadó központja, amely lenyűgöző dómjával, szűk sikátoraival és a Tirrén-tenger kékjével a középkori tengeri köztársaságok dicsőségét hirdeti.", "ro": "Inima coastei Amalfi, renumită pentru arhitectura sa medievală, catedrala maiestuoasă și lunga tradiție maritimă, situată într-un cadru stâncos spectaculos.", "en": "The heart of the Amalfi Coast, famous for its medieval architecture, the majestic cathedral, and a long maritime tradition set against a dramatic cliffside backdrop."}, "facts": {"de": ["Einstige mächtige Seerepublik", "Prachtvoller Dom St. Andreas", "Zentrum der Papierherstellung", "Berühmt für Amalfi-Zitronen", "UNESCO-Welterbe seit 1997", "Steile Treppen statt Straßen", "Arabisch-normannischer Baustil", "Malerischer Hafen Marina Grande"], "hu": ["Egykori hatalmas tengeri hatalom", "Szent András-székesegyház", "Híres kézműves papírgyártás", "Az Amalfi-citrom hazája", "UNESCO Világörökségi helyszín", "Lépcsőzetes építkezési mód", "Arab-normann építészeti stílus", "Hangulatos tengerparti sétány"], "ro": ["Fosta republică maritimă puternică", "Catedrala Sfântul Andrei", "Centru de fabricare a hârtiei", "Faimoasă pentru lămâile Amalfi", "Patrimoniu UNESCO din 1997", "Scări abrupte în loc de străzi", "Stil arhitectural arab-normand", "Port pitoresc Marina Grande"], "en": ["Former powerful maritime republic", "St. Andrew's Cathedral", "Center of handmade paper making", "Famous for Amalfi lemons", "UNESCO World Heritage since 1997", "Steep stairs instead of roads", "Arab-Norman architectural style", "Picturesque Marina Grande port"]}, "image": "/poi-images/amalfi.webp", "imageHint": "Amalfi Cathedral and the colorful town square in the sunshine", "descriptionAdvanced": {"de": "Amalfi war im 10. und 11. Jahrhundert eine der vier dominierenden Seerepubliken Italiens und beherrschte weite Teile des Mittelmeerhandels. Heute besticht die Stadt durch ihre vertikale Struktur, bei der sich die weiß getünchten Häuser eng an die Klippen schmiegen. Das architektonische Juwel ist der Dom von Amalfi (Cattedrale di Sant'Andrea) mit seiner prachtvollen Fassade und dem Kreuzgang Paradiso. Die Stadt ist zudem für ihre 'Bambagina'-Papierherstellung bekannt, die bis ins 12. Jahrhundert zurückreicht. In den steilen Gassen duftet es überall nach den riesigen Sfusato Amalfitano Zitronen, aus denen der berühmte Limoncello gewonnen wird. Trotz des Tourismus hat sich Amalfi seinen authentischen Charme und die Eleganz einer vergangenen Ära bewahrt.", "hu": "Amalfi a 10. és 11. században Itália egyik vezető tengeri köztársasága volt, kereskedelmi flottái a Földközi-tenger keleti részéig értek. A város ma a függőleges építészet mintapéldája: a fehérre meszelt házak szorosan tapadnak a meredek sziklafalakhoz. Központi látványossága a Szent András-székesegyház, amelynek díszes homlokzata és Paradicsom-kolostora az arab és a bizánci művészet hatásait ötvözi. A település a papírgyártás ősi központja is, a közeli Malmok völgyében még ma is láthatók a régi manufaktúrák nyomai. Az utcákon mindenütt érezni a híres, hatalmas méretű Amalfi-citromok illatát. Bár ma már elsősorban a turizmusból él, a város megőrizte méltóságteljes, történelmi hangulatát és középkori szerkezetét.", "ro": "Amalfi a fost una dintre cele patru republici maritime dominante ale Italiei în secolele X și XI, controlând o mare parte din comerțul mediteranean. Astăzi, orașul impresionează prin structura sa verticală, cu case albe lipite strâns de stânci. Bijuteria arhitecturală este Catedrala Sfântul Andrei, cu fațada sa magnifică și claustrul Paradiso, reflectând influențe maure. Orașul este, de asemenea, cunoscut pentru fabricarea hârtiei manuale 'Bambagina', o tradiție care datează din secolul al XII-lea. Pe străzile înguste se simte pretutindeni parfumul lămâilor uriașe Sfusato Amalfitano, folosite pentru faimosul lichior Limoncello. În ciuda fluxului mare de turiști, Amalfi își păstrează farmecul autentic și eleganța unei epoci de aur apuse.", "en": "Amalfi was one of Italy's four dominant maritime republics in the 10th and 11th centuries, controlling much of the Mediterranean trade. Today, the town captivates visitors with its vertical structure, where whitewashed houses cling tightly to the cliffs. The architectural jewel is the Amalfi Cathedral (Cattedrale di Sant'Andrea), featuring a magnificent facade and the Cloister of Paradise. The town is also renowned for its 'Bambagina' paper-making tradition, which dates back to the 12th century. The scent of the giant Sfusato Amalfitano lemons fills the steep alleys, providing the base for the world-famous Limoncello. Despite its popularity, Amalfi has managed to preserve its authentic charm and the quiet elegance of a bygone era."}, "factsAdvanced": {"de": ["Gegründet im Jahr 339 nach Christus als römischer Posten", "Wirtschaftlicher Höhepunkt im 11. Jahrhundert mit 70.000 Einwohnern", "Entstehungsort der Tabula Amalphitana, dem ältesten Seerechtskodex", "Die Reliquien des Apostels Andreas ruhen seit 1208 in der Krypta des Doms", "Schwere Zerstörung durch einen Tsunami im Jahr 1343", "Der Sfusato Amalfitano-Zitronenanbau umfasst etwa 400 Hektar Terrassen"], "hu": ["A várost 339-ben alapították római katonai állomásként", "Gazdasági fénykorában, a 11. században 70 000 lakosa volt", "Itt alkották meg a Tabula Amalphitana-t, a világ legrégebbi tengerjogi kódexét", "Szent András apostol ereklyéi 1208 óta a dóm kriptájában nyugszanak", "1343-ban egy pusztító szökőár a város jelentős részét romba döntötte", "Az Amalfi-citromot mintegy 400 hektárnyi teraszos ültetvényen termesztik"], "ro": ["Fondat în anul 339 d.Hr. ca un avanpost roman strategic", "Vârful economic în secolul al XI-lea cu o populație de 70.000 de locuitori", "Locul de origine al Tabula Amalphitana, cel mai vechi cod de legi maritime", "Moaștele Apostolului Andrei se află în cripta catedralei din anul 1208", "Distrugere majoră cauzată de un tsunami devastator în anul 1343", "Cultivarea lămâilor Sfusato ocupă aproximativ 400 de hectare de terase"], "en": ["Founded in 339 AD as a strategic Roman outpost", "Economic peak in the 11th century with 70,000 inhabitants", "Origin of the Tabula Amalphitana, the oldest maritime law code", "The relics of Saint Andrew have rested in the cathedral crypt since 1208", "Severe destruction caused by a massive tsunami in 1343", "Sfusato Amalfitano lemon cultivation covers about 400 hectares of terraces"]}, "sights": {"de": [{"name": "Kathedrale von Amalfi", "text": "Die prachtvolle Kathedrale St. Andreas aus dem 9. Jahrhundert besticht durch ihre markante Treppe und arabisch-normannische Architektur.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp", "coords": [14.603056, 40.634444]}, {"name": "Chiostro del Paradiso", "text": "Dieser maurische Kreuzgang aus dem 13. Jahrhundert diente einst als Friedhof für die Adelsfamilien der Seerepublik Amalfi.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp", "coords": [14.603179, 40.634789]}, {"name": "Museo della Carta", "text": "In einer alten Mühle untergebracht, zeigt dieses Museum die lange Tradition der Papierherstellung in Amalfi seit dem Mittelalter.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/amalfi-museo-della-carta.webp", "coords": [14.600144, 40.63971]}, {"name": "Arsenale della Repubblica", "text": "In diesem gotischen Gebäude wurden einst die mächtigen Galeeren der Seerepublik Amalfi gebaut und für den Handel ausgestattet.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp", "coords": [14.602051, 40.633809]}, {"name": "Valle delle Ferriere", "text": "Ein malerisches Naturschutzgebiet mit Wasserfällen und Ruinen alter Eisenhütten, das ideal für Wanderungen im kühlen Hinterland ist.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp", "coords": [14.5742, 40.6495]}, {"name": "Fontana di Sant'Andrea", "text": "Der barocke Brunnen auf der Piazza del Duomo zeigt den Schutzpatron der Stadt und ist ein zentraler Treffpunkt für Besucher.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp", "coords": [14.602571, 40.634123]}, {"name": "Torre dello Ziro", "text": "Dieser historische Wachturm bietet einen spektakulären Panoramablick über Amalfi und die Nachbarstadt Atrani an der Küste.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp", "coords": [14.605667, 40.635917]}, {"name": "Spiaggia Grande di Amalfi", "text": "Die Spiaggia Grande di Amalfi bildet als Hauptstrand direkt am Hafen das pulsierende Herz der Küstenstadt. Vor der malerischen Kulisse der steil aufragenden, farbenfrohen Häuser bietet das klare Wasser eine spektakuläre Badeumgebung. Da dieser ikonische Strand schnell voll wird, sichern Sie sich am besten früh morgens einen Liegeplatz mit Traumausblick.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp", "coords": [14.487181, 40.627778]}, {"name": "Piazza del Duomo", "text": "Das lebendige Herz der Stadt, dominiert von der imposanten Kathedrale, Cafés und kleinen Geschäften in den engen Gassen.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp", "coords": [14.603222, 40.634607]}, {"name": "Grotta dello Smeraldo", "text": "Diese nahegelegene Meereshöhle ist für ihr smaragdgrünes Wasser bekannt, das durch das unterirdisch einfallende Sonnenlicht leuchtet.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp", "coords": [14.566944, 40.615]}], "hu": [{"name": "Amalfi székesegyház", "text": "A Szent Andrásnak szentelt dóm a 9. században épült, arab-normann homlokzata és monumentális lépcsősora a város jelképe.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp", "coords": [14.603056, 40.634444]}, {"name": "Paradicsom-kolostor", "text": "A 13. századi mór stílusú kerengő fehér oszlopaival és trópusi kertjével Amalfi előkelőségeinek egykori temetkezési helye.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp", "coords": [14.603179, 40.634789]}, {"name": "Papírmúzeum", "text": "Egy középkori papírmalomban található tárlat, amely bemutatja a híres amalfi kézműves papírkészítés évszázados technológiáját.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/amalfi-museo-della-carta.webp", "coords": [14.600144, 40.63971]}, {"name": "A Köztársaság Arzenálja", "text": "Ebben a gótikus kőépületben építették egykor az Amalfi Tengeri Köztársaság hatalmas gályáit a Földközi-tengeri kereskedelemhez.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp", "coords": [14.602051, 40.633809]}, {"name": "Valle delle Ferriere", "text": "Különleges mikroklímájú völgy vízesésekkel és régi vashámorok romjaival, amely ritka páfrányfajoknak ad otthont az erdőben.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp", "coords": [14.5742, 40.6495]}, {"name": "Szent András-kút", "text": "A főtéren álló barokk díszkút a város védőszentjét ábrázolja, és a helyi közösségi élet egyik legfontosabb találkozópontja.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp", "coords": [14.602571, 40.634123]}, {"name": "Ziro-torony", "text": "Egy ősi őrtorony Amalfi felett, amelynek romjaitól lenyűgöző kilátás nyílik a tengerre és az egész partvidékre.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp", "coords": [14.605667, 40.635917]}, {"name": "Spiaggia Grande", "text": "A kikötő mellett elterülő Spiaggia Grande di Amalfi a város fő strandjaként az amalfi partvidék lüktető szíve. A meredek sziklafalakra épült, színpompás házak lenyűgöző háttere előtt a kristálytiszta víz felejthetetlen élményt nyújt. Mivel ez az ikonikus tengerpart hamar megtelik, érdemes kora reggel érkezni, hogy biztosítson magának egy mesés kilátású helyet.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp", "coords": [14.487181, 40.627778]}, {"name": "Piazza del Duomo", "text": "A város nyüzsgő főtere, ahol a turisták és helyiek élvezik a napsütést a dóm tövében fekvő hangulatos kávézókban.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp", "coords": [14.603222, 40.634607]}, {"name": "Smaragd-barlang", "text": "A közeli tengeri barlang nevét a víz különleges smaragdzöld fényéről kapta, amely a víz alatti sziklahasadékokon át jut be.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp", "coords": [14.566944, 40.615]}], "ro": [{"name": "Catedrala din Amalfi", "text": "Dedicată Sfântului Andrei, această catedrală din secolul IX impresionează prin scările monumentale și stilul arabo-normand.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp", "coords": [14.603056, 40.634444]}, {"name": "Chiostro del Paradiso", "text": "Un claustru în stil maur din secolul XIII, cu arcade albe elegante, ce a servit drept cimitir pentru nobilimea locală.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp", "coords": [14.603179, 40.634789]}, {"name": "Muzeul Hârtiei", "text": "Situat într-o veche moară de hârtie, muzeul expune metodele tradiționale de fabricare a celebrei hârtii de Amalfi.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/amalfi-museo-della-carta.webp", "coords": [14.600144, 40.63971]}, {"name": "Arsenalul Republicii", "text": "O structură gotică rară unde erau construite odinioară galerele puternicei Republici Maritime Amalfi pentru comerț.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp", "coords": [14.602051, 40.633809]}, {"name": "Valle delle Ferriere", "text": "O rezervație naturală cu cascade și ruine de fierării, oferind un traseu de drumeție răcoros printre ferigi rare.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp", "coords": [14.5742, 40.6495]}, {"name": "Fântâna Sfântului Andrei", "text": "Fântâna barocă din Piazza del Duomo îl înfățișează pe patronul orașului și este un reper central pentru toți turiștii.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp", "coords": [14.602571, 40.634123]}, {"name": "Torre dello Ziro", "text": "Un turn de veghe istoric ce oferă o panoramă spectaculoasă asupra orașelor Amalfi și Atrani de la înălțimea stâncilor.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp", "coords": [14.605667, 40.635917]}, {"name": "Spiaggia Grande di Amalfi", "text": "Spiaggia Grande di Amalfi este plaja principală aflată direct la port, fiind inima vibrantă a acestui oraș de coastă. Apa cristalină oferă un cadru spectaculos pentru înot, având ca fundal clădirile colorate ce se înalță pitoresc pe stânci. Fiind un loc iconic foarte aglomerat, cel mai bine este să veniți la primele ore pentru a prinde un loc cu vedere de vis.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp", "coords": [14.487181, 40.627778]}, {"name": "Piazza del Duomo", "text": "Inima socială a orașului Amalfi, plină de cafenele și magazine, dominată de fațada strălucitoare a marii catedrale.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp", "coords": [14.603222, 40.634607]}, {"name": "Grotta dello Smeraldo", "text": "O peșteră marină faimoasă pentru culoarea smarald a apei, creată de lumina soarelui ce pătrunde prin deschiderile subacvatice.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp", "coords": [14.566944, 40.615]}], "en": [{"name": "Amalfi Cathedral", "text": "This 9th-century Duomo dedicated to St. Andrew features a striking Arab-Norman facade and a grand flight of 62 steps.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp", "coords": [14.603056, 40.634444]}, {"name": "Chiostro del Paradiso", "text": "A 13th-century Moorish-style cloister with slender white columns, built as a burial ground for Amalfi's noble citizens.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp", "coords": [14.603179, 40.634789]}, {"name": "Paper Museum", "text": "Located in a medieval mill, this museum showcases the historic production of 'bambagina' paper, a major local industry.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/amalfi-museo-della-carta.webp", "coords": [14.600144, 40.63971]}, {"name": "Arsenal of the Republic", "text": "This gothic stone building is where the powerful Maritime Republic once built its large galleys for Mediterranean trade.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp", "coords": [14.602051, 40.633809]}, {"name": "Valle delle Ferriere", "text": "A lush nature reserve with waterfalls and ancient ironworks ruins, home to rare ferns and offering scenic hiking paths.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp", "coords": [14.5742, 40.6495]}, {"name": "St. Andrew's Fountain", "text": "A baroque fountain in the main square depicting the city's patron saint, serving as a central meeting point for locals.", "category": "monuments/statues", "confidence": "high", "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp", "coords": [14.602571, 40.634123]}, {"name": "Torre dello Ziro", "text": "A historic watchtower perched on a cliff, famous for its panoramic views over Amalfi and the neighboring town of Atrani.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp", "coords": [14.605667, 40.635917]}, {"name": "Spiaggia Grande", "text": "Acting as the town's main beach right by the harbor, the Spiaggia Grande di Amalfi is the beating heart of this stunning coastal destination. The clear waters offer a spectacular swimming environment, beautifully framed by the dramatically steep and colorful house fronts. Because this iconic beach fills up quickly, securing a spot early in the morning guarantees a day with a dreamlike view.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp", "coords": [14.487181, 40.627778]}, {"name": "Piazza del Duomo", "text": "The vibrant heart of the city, lined with outdoor cafes and dominated by the majestic steps of the cathedral.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp", "coords": [14.603222, 40.634607]}, {"name": "Emerald Grotto", "text": "A sea cave nearby famous for the brilliant emerald light caused by sunlight filtering through underwater fissures.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp", "coords": [14.566944, 40.615]}]}},
+  {"id": "amalfi", "type": "city", "parent": "IT-72", "coords": [14.6027, 40.634], "population": 4900, "tier": 1, "name": {"de": "Amalfi", "hu": "Amalfi", "ro": "Amalfi", "en": "Amalfi"}, "description": {"de": "Das Herz der Amalfiküste, berühmt für seine mittelalterliche Architektur, die majestätische Kathedrale und die lange Seefahrertradition in einer dramatischen Felsenkulisse.", "hu": "Az Amalfi-part névadó központja, amely lenyűgöző dómjával, szűk sikátoraival és a Tirrén-tenger kékjével a középkori tengeri köztársaságok dicsőségét hirdeti.", "ro": "Inima coastei Amalfi, renumită pentru arhitectura sa medievală, catedrala maiestuoasă și lunga tradiție maritimă, situată într-un cadru stâncos spectaculos.", "en": "The heart of the Amalfi Coast, famous for its medieval architecture, the majestic cathedral, and a long maritime tradition set against a dramatic cliffside backdrop."}, "facts": {"de": ["Einstige mächtige Seerepublik", "Prachtvoller Dom St. Andreas", "Zentrum der Papierherstellung", "Berühmt für Amalfi-Zitronen", "UNESCO-Welterbe seit 1997", "Steile Treppen statt Straßen", "Arabisch-normannischer Baustil", "Malerischer Hafen Marina Grande"], "hu": ["Egykori hatalmas tengeri hatalom", "Szent András-székesegyház", "Híres kézműves papírgyártás", "Az Amalfi-citrom hazája", "UNESCO Világörökségi helyszín", "Lépcsőzetes építkezési mód", "Arab-normann építészeti stílus", "Hangulatos tengerparti sétány"], "ro": ["Fosta republică maritimă puternică", "Catedrala Sfântul Andrei", "Centru de fabricare a hârtiei", "Faimoasă pentru lămâile Amalfi", "Patrimoniu UNESCO din 1997", "Scări abrupte în loc de străzi", "Stil arhitectural arab-normand", "Port pitoresc Marina Grande"], "en": ["Former powerful maritime republic", "St. Andrew's Cathedral", "Center of handmade paper making", "Famous for Amalfi lemons", "UNESCO World Heritage since 1997", "Steep stairs instead of roads", "Arab-Norman architectural style", "Picturesque Marina Grande port"]}, "image": "/poi-images/amalfi.webp", "imageHint": "Amalfi Cathedral and the colorful town square in the sunshine", "descriptionAdvanced": {"de": "Amalfi war im 10. und 11. Jahrhundert eine der vier dominierenden Seerepubliken Italiens und beherrschte weite Teile des Mittelmeerhandels. Heute besticht die Stadt durch ihre vertikale Struktur, bei der sich die weiß getünchten Häuser eng an die Klippen schmiegen. Das architektonische Juwel ist der Dom von Amalfi (Cattedrale di Sant'Andrea) mit seiner prachtvollen Fassade und dem Kreuzgang Paradiso. Die Stadt ist zudem für ihre 'Bambagina'-Papierherstellung bekannt, die bis ins 12. Jahrhundert zurückreicht. In den steilen Gassen duftet es überall nach den riesigen Sfusato Amalfitano Zitronen, aus denen der berühmte Limoncello gewonnen wird. Trotz des Tourismus hat sich Amalfi seinen authentischen Charme und die Eleganz einer vergangenen Ära bewahrt.", "hu": "Amalfi a 10. és 11. században Itália egyik vezető tengeri köztársasága volt, kereskedelmi flottái a Földközi-tenger keleti részéig értek. A város ma a függőleges építészet mintapéldája: a fehérre meszelt házak szorosan tapadnak a meredek sziklafalakhoz. Központi látványossága a Szent András-székesegyház, amelynek díszes homlokzata és Paradicsom-kolostora az arab és a bizánci művészet hatásait ötvözi. A település a papírgyártás ősi központja is, a közeli Malmok völgyében még ma is láthatók a régi manufaktúrák nyomai. Az utcákon mindenütt érezni a híres, hatalmas méretű Amalfi-citromok illatát. Bár ma már elsősorban a turizmusból él, a város megőrizte méltóságteljes, történelmi hangulatát és középkori szerkezetét.", "ro": "Amalfi a fost una dintre cele patru republici maritime dominante ale Italiei în secolele X și XI, controlând o mare parte din comerțul mediteranean. Astăzi, orașul impresionează prin structura sa verticală, cu case albe lipite strâns de stânci. Bijuteria arhitecturală este Catedrala Sfântul Andrei, cu fațada sa magnifică și claustrul Paradiso, reflectând influențe maure. Orașul este, de asemenea, cunoscut pentru fabricarea hârtiei manuale 'Bambagina', o tradiție care datează din secolul al XII-lea. Pe străzile înguste se simte pretutindeni parfumul lămâilor uriașe Sfusato Amalfitano, folosite pentru faimosul lichior Limoncello. În ciuda fluxului mare de turiști, Amalfi își păstrează farmecul autentic și eleganța unei epoci de aur apuse.", "en": "Amalfi was one of Italy's four dominant maritime republics in the 10th and 11th centuries, controlling much of the Mediterranean trade. Today, the town captivates visitors with its vertical structure, where whitewashed houses cling tightly to the cliffs. The architectural jewel is the Amalfi Cathedral (Cattedrale di Sant'Andrea), featuring a magnificent facade and the Cloister of Paradise. The town is also renowned for its 'Bambagina' paper-making tradition, which dates back to the 12th century. The scent of the giant Sfusato Amalfitano lemons fills the steep alleys, providing the base for the world-famous Limoncello. Despite its popularity, Amalfi has managed to preserve its authentic charm and the quiet elegance of a bygone era."}, "factsAdvanced": {"de": ["Gegründet im Jahr 339 nach Christus als römischer Posten", "Wirtschaftlicher Höhepunkt im 11. Jahrhundert mit 70.000 Einwohnern", "Entstehungsort der Tabula Amalphitana, dem ältesten Seerechtskodex", "Die Reliquien des Apostels Andreas ruhen seit 1208 in der Krypta des Doms", "Schwere Zerstörung durch einen Tsunami im Jahr 1343", "Der Sfusato Amalfitano-Zitronenanbau umfasst etwa 400 Hektar Terrassen"], "hu": ["A várost 339-ben alapították római katonai állomásként", "Gazdasági fénykorában, a 11. században 70 000 lakosa volt", "Itt alkották meg a Tabula Amalphitana-t, a világ legrégebbi tengerjogi kódexét", "Szent András apostol ereklyéi 1208 óta a dóm kriptájában nyugszanak", "1343-ban egy pusztító szökőár a város jelentős részét romba döntötte", "Az Amalfi-citromot mintegy 400 hektárnyi teraszos ültetvényen termesztik"], "ro": ["Fondat în anul 339 d.Hr. ca un avanpost roman strategic", "Vârful economic în secolul al XI-lea cu o populație de 70.000 de locuitori", "Locul de origine al Tabula Amalphitana, cel mai vechi cod de legi maritime", "Moaștele Apostolului Andrei se află în cripta catedralei din anul 1208", "Distrugere majoră cauzată de un tsunami devastator în anul 1343", "Cultivarea lămâilor Sfusato ocupă aproximativ 400 de hectare de terase"], "en": ["Founded in 339 AD as a strategic Roman outpost", "Economic peak in the 11th century with 70,000 inhabitants", "Origin of the Tabula Amalphitana, the oldest maritime law code", "The relics of Saint Andrew have rested in the cathedral crypt since 1208", "Severe destruction caused by a massive tsunami in 1343", "Sfusato Amalfitano lemon cultivation covers about 400 hectares of terraces"]}, "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Amalfi",
+                  "text": "Die prachtvolle Kathedrale St. Andreas aus dem 9. Jahrhundert besticht durch ihre markante Treppe und arabisch-normannische Architektur.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp",
+                  "coords": [
+                        14.603056,
+                        40.634444
+                  ]
+            },
+            {
+                  "name": "Chiostro del Paradiso",
+                  "text": "Dieser maurische Kreuzgang aus dem 13. Jahrhundert diente einst als Friedhof für die Adelsfamilien der Seerepublik Amalfi.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp",
+                  "coords": [
+                        14.603179,
+                        40.634789
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "In einer alten Mühle untergebracht, zeigt dieses Museum die lange Tradition der Papierherstellung in Amalfi seit dem Mittelalter.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-museo-della-carta.webp",
+                  "coords": [
+                        14.600144,
+                        40.63971
+                  ]
+            },
+            {
+                  "name": "Arsenale della Repubblica",
+                  "text": "In diesem gotischen Gebäude wurden einst die mächtigen Galeeren der Seerepublik Amalfi gebaut und für den Handel ausgestattet.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Valle delle Ferriere",
+                  "text": "Ein malerisches Naturschutzgebiet mit Wasserfällen und Ruinen alter Eisenhütten, das ideal für Wanderungen im kühlen Hinterland ist.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp",
+                  "coords": [
+                        14.5742,
+                        40.6495
+                  ]
+            },
+            {
+                  "name": "Fontana di Sant'Andrea",
+                  "text": "Der barocke Brunnen auf der Piazza del Duomo zeigt den Schutzpatron der Stadt und ist ein zentraler Treffpunkt für Besucher.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp",
+                  "coords": [
+                        14.602571,
+                        40.634123
+                  ]
+            },
+            {
+                  "name": "Torre dello Ziro",
+                  "text": "Dieser historische Wachturm bietet einen spektakulären Panoramablick über Amalfi und die Nachbarstadt Atrani an der Küste.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp",
+                  "coords": [
+                        14.605667,
+                        40.635917
+                  ]
+            },
+            {
+                  "name": "Spiaggia Grande di Amalfi",
+                  "text": "Die Spiaggia Grande di Amalfi bildet als Hauptstrand direkt am Hafen das pulsierende Herz der Küstenstadt. Vor der malerischen Kulisse der steil aufragenden, farbenfrohen Häuser bietet das klare Wasser eine spektakuläre Badeumgebung. Da dieser ikonische Strand schnell voll wird, sichern Sie sich am besten früh morgens einen Liegeplatz mit Traumausblick.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Piazza del Duomo",
+                  "text": "Das lebendige Herz der Stadt, dominiert von der imposanten Kathedrale, Cafés und kleinen Geschäften in den engen Gassen.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp",
+                  "coords": [
+                        14.603222,
+                        40.634607
+                  ]
+            },
+            {
+                  "name": "Grotta dello Smeraldo",
+                  "text": "Diese nahegelegene Meereshöhle ist für ihr smaragdgrünes Wasser bekannt, das durch das unterirdisch einfallende Sonnenlicht leuchtet.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp",
+                  "coords": [
+                        14.566944,
+                        40.615
+                  ]
+            },
+            {
+                  "name": "Tonino's Beach",
+                  "text": "Ein charmantes Strandbad in Amalfi, das exklusiven Zugang zum Meer und Komfort bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.604419,
+                        40.63382
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "Ein malerischer, von Klippen umgebener Strand in Amalfi, der nur über Treppen oder per Boot erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.61083,
+                        40.636867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amalfi székesegyház",
+                  "text": "A Szent Andrásnak szentelt dóm a 9. században épült, arab-normann homlokzata és monumentális lépcsősora a város jelképe.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp",
+                  "coords": [
+                        14.603056,
+                        40.634444
+                  ]
+            },
+            {
+                  "name": "Paradicsom-kolostor",
+                  "text": "A 13. századi mór stílusú kerengő fehér oszlopaival és trópusi kertjével Amalfi előkelőségeinek egykori temetkezési helye.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp",
+                  "coords": [
+                        14.603179,
+                        40.634789
+                  ]
+            },
+            {
+                  "name": "Papírmúzeum",
+                  "text": "Egy középkori papírmalomban található tárlat, amely bemutatja a híres amalfi kézműves papírkészítés évszázados technológiáját.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-museo-della-carta.webp",
+                  "coords": [
+                        14.600144,
+                        40.63971
+                  ]
+            },
+            {
+                  "name": "A Köztársaság Arzenálja",
+                  "text": "Ebben a gótikus kőépületben építették egykor az Amalfi Tengeri Köztársaság hatalmas gályáit a Földközi-tengeri kereskedelemhez.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Valle delle Ferriere",
+                  "text": "Különleges mikroklímájú völgy vízesésekkel és régi vashámorok romjaival, amely ritka páfrányfajoknak ad otthont az erdőben.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp",
+                  "coords": [
+                        14.5742,
+                        40.6495
+                  ]
+            },
+            {
+                  "name": "Szent András-kút",
+                  "text": "A főtéren álló barokk díszkút a város védőszentjét ábrázolja, és a helyi közösségi élet egyik legfontosabb találkozópontja.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp",
+                  "coords": [
+                        14.602571,
+                        40.634123
+                  ]
+            },
+            {
+                  "name": "Ziro-torony",
+                  "text": "Egy ősi őrtorony Amalfi felett, amelynek romjaitól lenyűgöző kilátás nyílik a tengerre és az egész partvidékre.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp",
+                  "coords": [
+                        14.605667,
+                        40.635917
+                  ]
+            },
+            {
+                  "name": "Spiaggia Grande",
+                  "text": "A kikötő mellett elterülő Spiaggia Grande di Amalfi a város fő strandjaként az amalfi partvidék lüktető szíve. A meredek sziklafalakra épült, színpompás házak lenyűgöző háttere előtt a kristálytiszta víz felejthetetlen élményt nyújt. Mivel ez az ikonikus tengerpart hamar megtelik, érdemes kora reggel érkezni, hogy biztosítson magának egy mesés kilátású helyet.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Piazza del Duomo",
+                  "text": "A város nyüzsgő főtere, ahol a turisták és helyiek élvezik a napsütést a dóm tövében fekvő hangulatos kávézókban.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp",
+                  "coords": [
+                        14.603222,
+                        40.634607
+                  ]
+            },
+            {
+                  "name": "Smaragd-barlang",
+                  "text": "A közeli tengeri barlang nevét a víz különleges smaragdzöld fényéről kapta, amely a víz alatti sziklahasadékokon át jut be.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp",
+                  "coords": [
+                        14.566944,
+                        40.615
+                  ]
+            },
+            {
+                  "name": "Tonino's Beach",
+                  "text": "Bájos strandkomplexum Amalfiban, amely exkluzív hozzáférést biztosít a tengerhez és kényelmet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.604419,
+                        40.63382
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "Sziklákkal körülvett festői strand Amalfiban, amely csak lépcsőn vagy hajóval érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        14.61083,
+                        40.636867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Amalfi",
+                  "text": "Dedicată Sfântului Andrei, această catedrală din secolul IX impresionează prin scările monumentale și stilul arabo-normand.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp",
+                  "coords": [
+                        14.603056,
+                        40.634444
+                  ]
+            },
+            {
+                  "name": "Chiostro del Paradiso",
+                  "text": "Un claustru în stil maur din secolul XIII, cu arcade albe elegante, ce a servit drept cimitir pentru nobilimea locală.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp",
+                  "coords": [
+                        14.603179,
+                        40.634789
+                  ]
+            },
+            {
+                  "name": "Muzeul Hârtiei",
+                  "text": "Situat într-o veche moară de hârtie, muzeul expune metodele tradiționale de fabricare a celebrei hârtii de Amalfi.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-museo-della-carta.webp",
+                  "coords": [
+                        14.600144,
+                        40.63971
+                  ]
+            },
+            {
+                  "name": "Arsenalul Republicii",
+                  "text": "O structură gotică rară unde erau construite odinioară galerele puternicei Republici Maritime Amalfi pentru comerț.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Valle delle Ferriere",
+                  "text": "O rezervație naturală cu cascade și ruine de fierării, oferind un traseu de drumeție răcoros printre ferigi rare.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp",
+                  "coords": [
+                        14.5742,
+                        40.6495
+                  ]
+            },
+            {
+                  "name": "Fântâna Sfântului Andrei",
+                  "text": "Fântâna barocă din Piazza del Duomo îl înfățișează pe patronul orașului și este un reper central pentru toți turiștii.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp",
+                  "coords": [
+                        14.602571,
+                        40.634123
+                  ]
+            },
+            {
+                  "name": "Torre dello Ziro",
+                  "text": "Un turn de veghe istoric ce oferă o panoramă spectaculoasă asupra orașelor Amalfi și Atrani de la înălțimea stâncilor.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp",
+                  "coords": [
+                        14.605667,
+                        40.635917
+                  ]
+            },
+            {
+                  "name": "Spiaggia Grande di Amalfi",
+                  "text": "Spiaggia Grande di Amalfi este plaja principală aflată direct la port, fiind inima vibrantă a acestui oraș de coastă. Apa cristalină oferă un cadru spectaculos pentru înot, având ca fundal clădirile colorate ce se înalță pitoresc pe stânci. Fiind un loc iconic foarte aglomerat, cel mai bine este să veniți la primele ore pentru a prinde un loc cu vedere de vis.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Piazza del Duomo",
+                  "text": "Inima socială a orașului Amalfi, plină de cafenele și magazine, dominată de fațada strălucitoare a marii catedrale.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp",
+                  "coords": [
+                        14.603222,
+                        40.634607
+                  ]
+            },
+            {
+                  "name": "Grotta dello Smeraldo",
+                  "text": "O peșteră marină faimoasă pentru culoarea smarald a apei, creată de lumina soarelui ce pătrunde prin deschiderile subacvatice.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp",
+                  "coords": [
+                        14.566944,
+                        40.615
+                  ]
+            },
+            {
+                  "name": "Tonino's Beach",
+                  "text": "O stațiune de plajă fermecătoare în Amalfi, care oferă acces exclusiv la mare și confort.",
+                  "category": "recreational",
+                  "coords": [
+                        14.604419,
+                        40.63382
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "O plajă pitorească în Amalfi, înconjurată de stânci, accesibilă doar pe scări sau cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        14.61083,
+                        40.636867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amalfi Cathedral",
+                  "text": "This 9th-century Duomo dedicated to St. Andrew features a striking Arab-Norman facade and a grand flight of 62 steps.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-kathedrale-von-amalfi.webp",
+                  "coords": [
+                        14.603056,
+                        40.634444
+                  ]
+            },
+            {
+                  "name": "Chiostro del Paradiso",
+                  "text": "A 13th-century Moorish-style cloister with slender white columns, built as a burial ground for Amalfi's noble citizens.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-chiostro-del-paradiso.webp",
+                  "coords": [
+                        14.603179,
+                        40.634789
+                  ]
+            },
+            {
+                  "name": "Paper Museum",
+                  "text": "Located in a medieval mill, this museum showcases the historic production of 'bambagina' paper, a major local industry.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-museo-della-carta.webp",
+                  "coords": [
+                        14.600144,
+                        40.63971
+                  ]
+            },
+            {
+                  "name": "Arsenal of the Republic",
+                  "text": "This gothic stone building is where the powerful Maritime Republic once built its large galleys for Mediterranean trade.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-arsenale-della-repubblica.webp",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Valle delle Ferriere",
+                  "text": "A lush nature reserve with waterfalls and ancient ironworks ruins, home to rare ferns and offering scenic hiking paths.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-valle-delle-ferriere.webp",
+                  "coords": [
+                        14.5742,
+                        40.6495
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Fountain",
+                  "text": "A baroque fountain in the main square depicting the city's patron saint, serving as a central meeting point for locals.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-fontana-di-santandrea.webp",
+                  "coords": [
+                        14.602571,
+                        40.634123
+                  ]
+            },
+            {
+                  "name": "Torre dello Ziro",
+                  "text": "A historic watchtower perched on a cliff, famous for its panoramic views over Amalfi and the neighboring town of Atrani.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp",
+                  "coords": [
+                        14.605667,
+                        40.635917
+                  ]
+            },
+            {
+                  "name": "Spiaggia Grande",
+                  "text": "Acting as the town's main beach right by the harbor, the Spiaggia Grande di Amalfi is the beating heart of this stunning coastal destination. The clear waters offer a spectacular swimming environment, beautifully framed by the dramatically steep and colorful house fronts. Because this iconic beach fills up quickly, securing a spot early in the morning guarantees a day with a dreamlike view.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Piazza del Duomo",
+                  "text": "The vibrant heart of the city, lined with outdoor cafes and dominated by the majestic steps of the cathedral.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-piazza-del-duomo.webp",
+                  "coords": [
+                        14.603222,
+                        40.634607
+                  ]
+            },
+            {
+                  "name": "Emerald Grotto",
+                  "text": "A sea cave nearby famous for the brilliant emerald light caused by sunlight filtering through underwater fissures.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/amalfi-grotta-dello-smeraldo.webp",
+                  "coords": [
+                        14.566944,
+                        40.615
+                  ]
+            },
+            {
+                  "name": "Tonino's Beach",
+                  "text": "A charming beach resort in Amalfi offering exclusive access to the sea and comfort.",
+                  "category": "recreational",
+                  "coords": [
+                        14.604419,
+                        40.63382
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "A picturesque beach in Amalfi surrounded by cliffs, accessible via stairs or by boat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.61083,
+                        40.636867
+                  ]
+            }
+      ]
+}},
   {"id": "assisi", "type": "city", "parent": "IT-55", "coords": [12.6196, 43.0707], "population": 28000, "tier": 1, "name": {"de": "Assisi", "hu": "Assisi", "ro": "Assisi", "en": "Assisi"}, "description": {"de": "Als Geburtsort des Heiligen Franziskus ist Assisi ein weltweit bedeutender Wallfahrtsort mit einer atemberaubenden Basilika und friedvoller Atmosphäre.", "hu": "Szent Ferenc szülőhelyeként Assisi világszerte jelentős zarándokhely, lenyűgöző bazilikával és békés, áhítatos légkörrel.", "ro": "Locul de naștere al Sfântului Francisc, Assisi este un centru de pelerinaj mondial, renumit pentru bazilica sa uluitoare și atmosfera de liniște.", "en": "As the birthplace of St. Francis, Assisi is a world-renowned pilgrimage site featuring a stunning basilica and a peaceful, spiritual atmosphere."}, "facts": {"de": ["Geburtsort des Heiligen Franziskus", "UNESCO-Weltkulturerbe seit 2000", "Basilika San Francesco mit Fresken von Giotto", "Dominante Festung: Rocca Maggiore", "Liegt an den Hängen des Monte Subasio", "Römischer Tempel der Minerva am Hauptplatz", "Wichtiger spiritueller Ort der Christenheit", "Geburtsort der Heiligen Klara"], "hu": ["Szent Ferenc szülőhelye", "2000 óta UNESCO világörökségi helyszín", "Szent Ferenc-bazilika Giotto freskóival", "A várost uraló Rocca Maggiore erőd", "A Monte Subasio lankáin fekszik", "Római Minerva-templom a főtéren", "A kereszténység fontos spirituális központja", "Szent Klára szülőhelye is egyben"], "ro": ["Locul de naștere al Sfântului Francisc", "Sit UNESCO din anul 2000", "Bazilica San Francesco cu fresce de Giotto", "Cetatea Rocca Maggiore domină panorama", "Situat pe pantele Muntelui Subasio", "Templul roman al Minervei în piața centrală", "Centru spiritual major al lumii creștine", "Locul de naștere al Sfintei Clara"], "en": ["Birthplace of St. Francis of Assisi", "UNESCO World Heritage site since 2000", "Basilica of St. Francis with Giotto frescoes", "Imposing Rocca Maggiore fortress on the hill", "Nestled on the slopes of Mount Subasio", "Ancient Roman Temple of Minerva in the square", "Significant spiritual hub for Christianity", "Birthplace of St. Clare as well"]}, "image": "/poi-images/assisi.webp", "imageHint": "The grand Basilica of Saint Francis overlooking the Umbrian valley", "descriptionAdvanced": {"de": "Assisi, eingebettet in die sanften Hügel Umbriens, ist untrennbar mit dem Leben und Wirken des Heiligen Franziskus verbunden. Die Stadt aus hellem, rosafarbenem Stein des Monte Subasio strahlt eine besondere Ruhe aus. Die Basilika San Francesco, ein Meisterwerk der italienischen Gotik, besteht aus zwei übereinander liegenden Kirchen und der Krypta mit dem Grab des Heiligen. Die Freskenzyklen von Giotto und Cimabue gelten als Meilensteine der Kunstgeschichte. Neben der christlichen Bedeutung bietet Assisi auch antike Schätze wie den Minerva-Tempel, dessen römische Fassade perfekt erhalten ist. Die Rocca Maggiore, eine mittelalterliche Festung hoch über der Stadt, bietet einen weiten Blick über das umbrische Tal. Trotz des stetigen Pilgerstroms hat sich Assisi einen bescheidenen, fast klösterlichen Charme bewahrt, der Besucher aller Glaubensrichtungen in seinen Bann zieht.", "hu": "Assisi, Umbria lankás dombjai között fekve, elválaszthatatlan Szent Ferenc életétől és munkásságától. A Monte Subasio jellegzetes, rózsaszínes árnyalatú kövéből épült város különös nyugalmat áraszt. A Szent Ferenc-bazilika, az olasz gótika remekműve, két egymás fölé épült templomból és a szent sírját őrző kriptából áll. Giotto és Cimabue freskóciklusai a művészettörténet mérföldkövei. A keresztény jelentőség mellett Assisi antik kincseket is rejt, mint például a Minerva-templom, melynek római homlokzata tökéletesen épen maradt. A város felett magasodó Rocca Maggiore középkori erődje pazar kilátást nyújt az umbriai völgyre. A folyamatos zarándokáradat ellenére Assisi megőrizte szerény, szinte kolostori báját, amely minden látogatót magával ragad.", "ro": "Assisi, cuibărit pe colinele domoale ale Umbriei, este inseparabil legat de viața și moștenirea Sfântului Francisc. Construit din piatra rozalie extrasă de pe Muntele Subasio, orașul emană o liniște spirituală rară. Bazilica San Francesco, o capodoperă a goticului italian, este formată din două biserici suprapuse și cripta care adăpostește mormântul sfântului. Ciclurile de fresce realizate de Giotto și Cimabue sunt considerate pietre de hotar în istoria artei universale. Dincolo de latura religioasă, Assisi oferă vestigii antice uimitoare, precum Templul Minervei, a cărui fațadă romană este intactă. Cetatea Rocca Maggiore, cocoțată deasupra orașului, oferă o panoramă spectaculoasă asupra văii. În ciuda fluxului constant de pelerini, Assisi și-a păstrat un farmec modest și autentic, captivând vizitatorii prin simplitate și frumusețe.", "en": "Assisi, nestled in the rolling hills of Umbria, is forever linked to the life and legacy of St. Francis. Built from the distinctive pink-hued stone of Mount Subasio, the city radiates a unique sense of peace. The Basilica of St. Francis, a masterpiece of Italian Gothic architecture, comprises two stacked churches and a crypt containing the saint's tomb. Its fresco cycles by Giotto and Cimabue are pivotal milestones in the history of Western art. Beyond its spiritual significance, Assisi harbors ancient treasures like the Temple of Minerva, whose Roman facade remains perfectly intact. The Rocca Maggiore fortress, towering over the town, offers sweeping views of the Umbrian valley. Despite the constant flow of pilgrims, Assisi retains a modest, almost monastic charm that enchants visitors of all backgrounds."}, "factsAdvanced": {"de": ["Szent Ferenc wurde hier im Jahr 1182 geboren", "Die Basilika wurde ab 1228 erbaut", "Die Stadt liegt auf etwa 424 Metern Höhe", "UNESCO-Welterbe-Status seit dem Jahr 2000", "Assisi hat heute etwa 28.000 Einwohner", "Giotto malte hier 28 berühmte Fresken"], "hu": ["Szent Ferenc 1182-ben született itt", "A bazilika építése 1228-ban kezdődött", "A város körülbelül 424 méter magasságban fekszik", "2000 óta UNESCO világörökségi helyszín", "Assisi lakossága körülbelül 28 000 fő", "Giotto 28 híres freskót festett a bazilikában"], "ro": ["Sfântul Francisc s-a născut aici în anul 1182", "Construcția bazilicii a început în 1228", "Orașul este situat la o altitudine de circa 424 metri", "Statut de patrimoniu mondial UNESCO din anul 2000", "Populația orașului este de aproximativ 28.000 de locuitori", "Giotto a realizat aici un ciclu celebru de 28 de fresce"], "en": ["St. Francis was born here in the year 1182", "The Basilica's construction started in 1228", "The city sits at an elevation of about 424 meters", "UNESCO World Heritage status granted in 2000", "Assisi has a population of approximately 28,000", "Giotto painted 28 iconic frescoes in the upper church"]}, "sights": {
       "de": [
             {
@@ -1317,6 +1838,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.262205,
                         45.985361
                   ]
+            },
+            {
+                  "name": "Water-On-the-Water",
+                  "text": "Ein einzigartiger schwimmender Pool auf dem Comer See in Bellagio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.228909,
+                        45.984444
+                  ]
+            },
+            {
+                  "name": "Piscina dei Fiori",
+                  "text": "Ein malerischer Außenpool in Bellagio, umgeben von Gärten.",
+                  "category": "recreational",
+                  "coords": [
+                        9.227805,
+                        45.985145
+                  ]
             }
       ],
       "hu": [
@@ -1406,6 +1945,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.262205,
                         45.985361
+                  ]
+            },
+            {
+                  "name": "Water-On-the-Water",
+                  "text": "Egyedülálló úszómedence a Comói-tavon, Bellagio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.228909,
+                        45.984444
+                  ]
+            },
+            {
+                  "name": "Piscina dei Fiori",
+                  "text": "Festői szabadtéri úszómedence Bellagióban, kertekkel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        9.227805,
+                        45.985145
                   ]
             }
       ],
@@ -1497,6 +2054,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.262205,
                         45.985361
                   ]
+            },
+            {
+                  "name": "Water-On-the-Water",
+                  "text": "O piscină plutitoare unică pe Lacul Como, în Bellagio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.228909,
+                        45.984444
+                  ]
+            },
+            {
+                  "name": "Piscina dei Fiori",
+                  "text": "O piscină în aer liber pitorească în Bellagio, înconjurată de grădini.",
+                  "category": "recreational",
+                  "coords": [
+                        9.227805,
+                        45.985145
+                  ]
             }
       ],
       "en": [
@@ -1586,6 +2161,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.262205,
                         45.985361
+                  ]
+            },
+            {
+                  "name": "Water-On-the-Water",
+                  "text": "A unique floating swimming pool on Lake Como in Bellagio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.228909,
+                        45.984444
+                  ]
+            },
+            {
+                  "name": "Piscina dei Fiori",
+                  "text": "A scenic outdoor swimming pool in Bellagio surrounded by gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        9.227805,
+                        45.985145
                   ]
             }
       ]
@@ -7427,6 +8020,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.827496,
                         46.229523
                   ]
+            },
+            {
+                  "name": "Wellness Spa Oberosler",
+                  "text": "Eine Spa- und Wellness-Einrichtung mit Schwimmbad in Madonna di Campiglio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829049,
+                        46.229001
+                  ]
             }
       ],
       "hu": [
@@ -7660,6 +8262,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.827496,
                         46.229523
+                  ]
+            },
+            {
+                  "name": "Wellness Spa Oberosler",
+                  "text": "Fürdő- és wellness-létesítmény úszómedencével Madonna di Campiglióban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829049,
+                        46.229001
                   ]
             }
       ],
@@ -7895,6 +8506,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.827496,
                         46.229523
                   ]
+            },
+            {
+                  "name": "Wellness Spa Oberosler",
+                  "text": "O facilitate de spa și wellness cu piscină în Madonna di Campiglio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829049,
+                        46.229001
+                  ]
             }
       ],
       "en": [
@@ -8128,6 +8748,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.827496,
                         46.229523
+                  ]
+            },
+            {
+                  "name": "Wellness Spa Oberosler",
+                  "text": "A spa and wellness facility with a swimming pool in Madonna di Campiglio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.829049,
+                        46.229001
                   ]
             }
       ]
@@ -8599,6 +9228,33 @@ export const poiExtraItalyV2: POI[] = [
                         16.620706,
                         40.658934
                   ]
+            },
+            {
+                  "name": "Aquaworld",
+                  "text": "Ein Schwimmbad in Matera, das Abkühlung und Freizeitspaß bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.572431,
+                        40.677525
+                  ]
+            },
+            {
+                  "name": "Area Piscina \"Masseria San Francesco\"",
+                  "text": "Ein Poolbereich in Matera innerhalb einer historischen Anlage.",
+                  "category": "recreational",
+                  "coords": [
+                        16.616756,
+                        40.642724
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Palasassi\"",
+                  "text": "Ein städtisches Schwimmbad in Matera für die lokale Bevölkerung.",
+                  "category": "recreational",
+                  "coords": [
+                        16.595995,
+                        40.666116
+                  ]
             }
       ],
       "hu": [
@@ -8800,6 +9456,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.620706,
                         40.658934
+                  ]
+            },
+            {
+                  "name": "Aquaworld",
+                  "text": "Úszómedence Materában, amely felfrissülést és szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.572431,
+                        40.677525
+                  ]
+            },
+            {
+                  "name": "Area Piscina \"Masseria San Francesco\"",
+                  "text": "Medence Materában egy történelmi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.616756,
+                        40.642724
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Palasassi\"",
+                  "text": "Városi úszómedence Materában a helyi lakosok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.595995,
+                        40.666116
                   ]
             }
       ],
@@ -9003,6 +9686,33 @@ export const poiExtraItalyV2: POI[] = [
                         16.620706,
                         40.658934
                   ]
+            },
+            {
+                  "name": "Aquaworld",
+                  "text": "O piscină în Matera care oferă relaxare și divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        16.572431,
+                        40.677525
+                  ]
+            },
+            {
+                  "name": "Area Piscina \"Masseria San Francesco\"",
+                  "text": "O zonă de piscină în Matera situată într-un cadru istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        16.616756,
+                        40.642724
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Palasassi\"",
+                  "text": "O piscină municipală în Matera destinată publicului larg.",
+                  "category": "recreational",
+                  "coords": [
+                        16.595995,
+                        40.666116
+                  ]
             }
       ],
       "en": [
@@ -9205,6 +9915,33 @@ export const poiExtraItalyV2: POI[] = [
                         16.620706,
                         40.658934
                   ]
+            },
+            {
+                  "name": "Aquaworld",
+                  "text": "A swimming pool in Matera providing refreshment and leisure fun.",
+                  "category": "recreational",
+                  "coords": [
+                        16.572431,
+                        40.677525
+                  ]
+            },
+            {
+                  "name": "Area Piscina \"Masseria San Francesco\"",
+                  "text": "A swimming pool area in Matera located within a historic complex.",
+                  "category": "recreational",
+                  "coords": [
+                        16.616756,
+                        40.642724
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale \"Palasassi\"",
+                  "text": "A municipal swimming pool in Matera serving the local community.",
+                  "category": "recreational",
+                  "coords": [
+                        16.595995,
+                        40.666116
+                  ]
             }
       ]
 }},
@@ -9293,6 +10030,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.655943,
                         44.145824
                   ]
+            },
+            {
+                  "name": "Portiglione",
+                  "text": "Ein Strandabschnitt in Monterosso al Mare, Teil des Nationalparks Cinque Terre.",
+                  "category": "recreational",
+                  "coords": [
+                        9.642586,
+                        44.143268
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Fegina",
+                  "text": "Der größte Strand von Monterosso al Mare, bekannt für die markante Giganten-Statue.",
+                  "category": "recreational",
+                  "coords": [
+                        9.649098,
+                        44.145338
+                  ]
             }
       ],
       "hu": [
@@ -9378,6 +10133,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.655943,
                         44.145824
+                  ]
+            },
+            {
+                  "name": "Portiglione",
+                  "text": "Strandszakasz Monterosso al Maréban, a Cinque Terre Nemzeti Park része.",
+                  "category": "recreational",
+                  "coords": [
+                        9.642586,
+                        44.143268
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Fegina",
+                  "text": "Monterosso al Mare legnagyobb strandja, amely a monumentális Óriás-szoborról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        9.649098,
+                        44.145338
                   ]
             }
       ],
@@ -9465,6 +10238,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.655943,
                         44.145824
                   ]
+            },
+            {
+                  "name": "Portiglione",
+                  "text": "O secțiune de plajă în Monterosso al Mare, parte a Parcului Național Cinque Terre.",
+                  "category": "recreational",
+                  "coords": [
+                        9.642586,
+                        44.143268
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Fegina",
+                  "text": "Cea mai mare plajă din Monterosso al Mare, cunoscută pentru statuia monumentală a Gigantului.",
+                  "category": "recreational",
+                  "coords": [
+                        9.649098,
+                        44.145338
+                  ]
             }
       ],
       "en": [
@@ -9550,6 +10341,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.655943,
                         44.145824
+                  ]
+            },
+            {
+                  "name": "Portiglione",
+                  "text": "A beach section in Monterosso al Mare, part of the Cinque Terre National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        9.642586,
+                        44.143268
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Fegina",
+                  "text": "The largest beach in Monterosso al Mare, known for its distinctive Giant statue.",
+                  "category": "recreational",
+                  "coords": [
+                        9.649098,
+                        44.145338
                   ]
             }
       ]
@@ -9665,6 +10474,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.108801,
                         42.71823
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Das städtische öffentliche Schwimmbad, das der Gemeinde Orvieto dient.",
+                  "category": "recreational",
+                  "coords": [
+                        12.123908,
+                        42.73832
+                  ]
             }
       ],
       "hu": [
@@ -9776,6 +10594,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.108801,
                         42.71823
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Orvieto városi közösségi úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        12.123908,
+                        42.73832
                   ]
             }
       ],
@@ -9889,6 +10716,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.108801,
                         42.71823
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Piscina publică municipală care deservește comunitatea din Orvieto.",
+                  "category": "recreational",
+                  "coords": [
+                        12.123908,
+                        42.73832
+                  ]
             }
       ],
       "en": [
@@ -10000,6 +10836,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.108801,
                         42.71823
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "The municipal public swimming pool serving the community of Orvieto.",
+                  "category": "recreational",
+                  "coords": [
+                        12.123908,
+                        42.73832
                   ]
             }
       ]
@@ -11140,6 +11985,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.432633,
                         43.701326
                   ]
+            },
+            {
+                  "name": "Il Piccolo Mondo",
+                  "text": "Ein familienfreundlicher Wasser- und Vergnügungspark in der Nähe von Pisa.",
+                  "category": "recreational",
+                  "coords": [
+                        10.387448,
+                        43.747523
+                  ]
+            },
+            {
+                  "name": "Piscina La Fornace",
+                  "text": "Ein öffentliches Schwimmbad in Pisa mit Möglichkeiten zum Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        10.459339,
+                        43.724185
+                  ]
             }
       ],
       "hu": [
@@ -11236,6 +12099,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.432633,
                         43.701326
+                  ]
+            },
+            {
+                  "name": "Il Piccolo Mondo",
+                  "text": "Családbarát vízi- és vidámpark Pisa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.387448,
+                        43.747523
+                  ]
+            },
+            {
+                  "name": "Piscina La Fornace",
+                  "text": "Pisai nyilvános úszómedence úszási és napozási lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.459339,
+                        43.724185
                   ]
             }
       ],
@@ -11334,6 +12215,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.432633,
                         43.701326
                   ]
+            },
+            {
+                  "name": "Il Piccolo Mondo",
+                  "text": "Un parc acvatic și de distracții pentru familii situat lângă Pisa.",
+                  "category": "recreational",
+                  "coords": [
+                        10.387448,
+                        43.747523
+                  ]
+            },
+            {
+                  "name": "Piscina La Fornace",
+                  "text": "O piscină publică în Pisa care oferă facilități pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.459339,
+                        43.724185
+                  ]
             }
       ],
       "en": [
@@ -11430,6 +12329,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.432633,
                         43.701326
+                  ]
+            },
+            {
+                  "name": "Il Piccolo Mondo",
+                  "text": "A family-friendly water and amusement park located near Pisa.",
+                  "category": "recreational",
+                  "coords": [
+                        10.387448,
+                        43.747523
+                  ]
+            },
+            {
+                  "name": "Piscina La Fornace",
+                  "text": "A public swimming pool in Pisa providing facilities for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        10.459339,
+                        43.724185
                   ]
             }
       ]
@@ -12239,6 +13156,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.214514,
                         44.335147
                   ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Diese Spiaggia Libera in Portofino bietet einen öffentlich zugänglichen Bereich am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        9.211313,
+                        44.305243
+                  ]
             }
       ],
       "hu": [
@@ -12358,6 +13284,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.214514,
                         44.335147
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Ez a portofinói Spiaggia Libera egy nyilvánosan elérhető partszakaszt kínál a tenger mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        9.211313,
+                        44.305243
                   ]
             }
       ],
@@ -12479,6 +13414,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.214514,
                         44.335147
                   ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Această Spiaggia Libera din Portofino oferă o zonă accesibilă publicului la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        9.211313,
+                        44.305243
+                  ]
             }
       ],
       "en": [
@@ -12599,10 +13543,648 @@ export const poiExtraItalyV2: POI[] = [
                         9.214514,
                         44.335147
                   ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "This Spiaggia Libera in Portofino offers a publicly accessible area by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        9.211313,
+                        44.305243
+                  ]
             }
       ]
 }},
-  {"id": "positano", "type": "city", "parent": "IT-72", "coords": [14.4844, 40.628], "population": 3950, "tier": 1, "name": {"de": "Positano", "hu": "Positano", "ro": "Positano", "en": "Positano"}, "description": {"de": "Das vertikale Dorf der Amalfiküste, bekannt für seine bunten Häuser, die steil zum türkisfarbenen Meer abfallen, und seine exklusive Mode.", "hu": "Az Amalfi-part „függőleges városa”, ahol a pasztellszínű házak meredeken ereszkednek alá a türkizkék tengerhez, megteremtve a világ egyik legszebb látképét.", "ro": "Satul vertical de pe coasta Amalfi, cunoscut pentru casele sale colorate care coboară abrupt spre marea turcoaz și pentru moda sa exclusivistă.", "en": "The vertical village of the Amalfi Coast, famous for its colorful houses cascading down to the turquoise sea and its exclusive local fashion."}, "facts": {"de": ["Spektakuläre Hanglage", "Kirche Santa Maria Assunta", "Heimat der 'Moda Positano'", "Beliebt bei Prominenten", "Schwarzer Kieselstrand Spiaggia Grande", "Autofreie, schmale Gassen", "Blick auf die Li Galli Inseln", "Zahlreiche Kunstgalerien"], "hu": ["Meredek sziklafalra épült város", "Santa Maria Assunta templom", "Híres helyi divat (Moda Positano)", "Hírességek kedvelt pihenőhelye", "Spiaggia Grande fekete kavicsos strand", "Autómentes, szűk sikátorok", "Kilátás a Li Galli-szigetekre", "Számos művészeti galéria"], "ro": ["Locație spectaculoasă pe versant", "Biserica Santa Maria Assunta", "Patria stilului 'Moda Positano'", "Destinație preferată a celebrităților", "Plaja cu pietriș negru Spiaggia Grande", "Străzi înguste fără mașini", "Vedere spre insulele Li Galli", "Numeroase galerii de artă"], "en": ["Spectacular hillside location", "Church of Santa Maria Assunta", "Home of the 'Moda Positano' style", "Favorite destination for celebrities", "Black pebble beach Spiaggia Grande", "Car-free, narrow alleyways", "View of the Li Galli islands", "Numerous art galleries"]}, "image": "/poi-images/positano.webp", "imageHint": "Positano's colorful houses on the cliff overlooking the Mediterranean", "descriptionAdvanced": {"de": "Positano ist der Inbegriff des italienischen Chic und der Inbegriff für vertikale Architektur. Die Stadt ist so steil gebaut, dass man sich fast ausschließlich über Treppen fortbewegt. Bis in die 1950er Jahre war Positano ein armes Fischerdorf, bevor John Steinbeck es durch einen Artikel weltbekannt machte. Die charakteristische Silhouette wird von der goldenen Majolika-Kuppel der Kirche Santa Maria Assunta gekrönt. Neben der atemberaubenden Kulisse ist der Ort für seine maßgeschneiderten Sandalen und die luftige Leinenmode bekannt. Wer die Ruhe sucht, wandert auf dem 'Pfad der Götter' (Sentiero degli Dei) oberhalb der Stadt, der spektakuläre Ausblicke über die gesamte Küste bietet. Positano ist ein Ort zum Sehen und Gesehenwerden, ohne dabei seine romantische Seele zu verlieren.", "hu": "Positano az olasz elegancia és a függőleges építészet szimbóluma. A város annyira meredek, hogy szinte csak lépcsőkön lehet közlekedni, a házak egymás tetejére épültek. Az 1950-es évekig szegény halászfalu volt, mígnem John Steinbeck írása világhírnevet hozott neki. A városkép jellegzetessége a Santa Maria Assunta templom sárga-zöld majolika kupolája, amely a tengerpart fölé magasodik. A látvány mellett Positano a kézzel készített szandáljairól és a könnyű vászonruháiról (Moda Positano) híres. A túrázók számára innen indul (vagy ide érkezik) az Istenek ösvénye, amely a világ egyik legszebb gyalogtúrája. Positano egyszerre luxusüdülőhely és romantikus halászfalu, amely minden napszakban más arcát mutatja.", "ro": "Positano este chintesența stilului șic italian și a arhitecturii verticale. Orașul este construit atât de abrupt încât deplasarea se face aproape exclusiv pe scări. Până în anii 1950, a fost un sat de pescari sărac, înainte ca John Steinbeck să îl facă celebru la nivel mondial. Silueta caracteristică este dominată de cupola din majolică aurie a bisericii Santa Maria Assunta. Pe lângă decorul uluitor, locul este cunoscut pentru sandalele făcute la comandă și moda din in. Pentru cei care caută liniștea, 'Cărarea Zeilor' (Sentiero degli Dei) de deasupra orașului oferă vederi spectaculoase peste întreaga coastă. Positano este un loc unde merită să vezi și să fii văzut, fără a-și pierde sufletul romantic.", "en": "Positano is the epitome of Italian chic and vertical architecture. The town is built so steeply that movement is almost exclusively via stairs. Until the 1950s, Positano was a poor fishing village before John Steinbeck made it world-famous through his writing. Its characteristic skyline is crowned by the golden majolica dome of the Church of Santa Maria Assunta. Beyond the breathtaking scenery, the town is famous for its custom-made sandals and breezy linen fashion (Moda Positano). Those seeking tranquility can hike the 'Path of the Gods' (Sentiero degli Dei) above the town, which offers spectacular views over the entire coast. Positano is a place to see and be seen, yet it never loses its romantic soul."}, "factsAdvanced": {"de": ["Eine römische Villa aus dem 1. Jahrhundert liegt direkt unter der Hauptkirche", "Wurde im 9. Jahrhundert um ein Benediktinerkloster herum gegründet", "John Steinbecks Essay in Harper's Bazaar (1953) löste den Tourismusboom aus", "Die Li Galli Inseln vor der Küste galten in der Mythologie als Heimat der Sirenen", "Die Kirche Santa Maria Assunta beherbergt eine schwarze Madonna aus dem 12. Jahrhundert", "Die Stadt hat über 1.000 Stufen von der Hauptstraße bis zum Strand"], "hu": ["Egy 1. századi római villa maradványai fekszenek a főtemplom alatt", "A 9. században alapították egy bencés kolostor köré", "John Steinbeck 1953-as cikke indította el a nemzetközi turisztikai boomot", "A közeli Li Galli-szigeteket a mitológia a szirének otthonának tartotta", "A Santa Maria Assunta templom egy 12. századi bizánci Fekete Madonnát őriz", "A városon keresztül több mint 1000 lépcsőfok vezet a főúttól a strandig"], "ro": ["O vilă romană din secolul I se află chiar sub biserica principală", "Fondat în secolul al IX-lea în jurul unei mănăstiri benedictine", "Eseul lui John Steinbeck din 1953 a declanșat boom-ul turistic", "Insulele Li Galli erau considerate în mitologie casa sirenelor", "Biserica Santa Maria Assunta adăpostește o Madonă Neagră din secolul XII", "Orașul are peste 1.000 de trepte de la strada principală până la plajă"], "en": ["A 1st-century Roman villa lies directly beneath the main church", "Founded in the 9th century around a Benedictine monastery", "John Steinbeck's 1953 essay triggered the international tourism boom", "The Li Galli islands offshore were considered the home of Sirens in mythology", "The Church of Santa Maria Assunta houses a 12th-century Byzantine Black Madonna", "The town features over 1,000 steps from the main road down to the beach"]}, "sights": {"de": [{"name": "Spiaggia Grande", "text": "Die Spiaggia Grande ist unbestritten der schillernde Mittelpunkt von Positano und der Dreh- und Angelpunkt des örtlichen Strandlebens. Vom warmen Sand aus hat man einen atemberaubenden, geradezu ikonischen Blick auf die steil aufragenden Terrassenhäuser der Amalfiküste. Ein Besuch hier verspricht ein unvergessliches Erlebnis, bei dem man das mediterrane Lebensgefühl hautnah einatmen kann.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-spiaggia-grande.webp", "coords": [14.487181, 40.627778]}, {"name": "Fornillo-Strand", "text": "Nur einen malerischen Spaziergang über einen Küstenpfad entfernt, präsentiert sich der Fornillo-Strand als ruhigere Alternative im lebhaften Positano. Das außergewöhnlich klare Wasser in dieser kleinen Bucht lädt zu ausgedehnten, entspannten Schwimmrunden ein. Wer den Massen entfliehen möchte, findet hier an der Amalfiküste eine wahre Oase der Erholung.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-fornillo-strand.webp", "coords": [14.48155, 40.62622]}, {"name": "Sentiero degli Dei", "text": "Der 'Pfad der Götter' beginnt oberhalb von Positano und bietet atemberaubende Ausblicke auf die gesamte Amalfiküste.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-sentiero-degli-dei.webp", "coords": [14.534884, 40.625074]}, {"name": "Torre Trasita", "text": "Einer der historischen Wachtürme von Positano, der heute als exklusive Residenz dient und die Küstenlinie dominiert.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [14.484229, 40.626734]}, {"name": "Li Galli Inseln", "text": "Dieser kleine Archipel vor der Küste ist sagenumwoben als Heimat der Sirenen und bietet einen wunderschönen Anblick vom Land.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-li-galli-inseln.webp", "coords": [14.533262, 40.639717]}, {"name": "Via Pasitea", "text": "Die Hauptstraße von Positano windet sich durch den Ort und ist gesäumt von eleganten Boutiquen und Kunstgalerien.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/positano-via-pasitea.webp", "coords": [14.484158, 40.62833]}, {"name": "Spiaggia grande di Tordigliano", "text": "Der Spiaggia grande di Tordigliano bietet eine herrliche Küstenkulisse an den Ufern von Positano. Besucher erwartet ein einladender Ort für entspanntes Sonnenbaden und Schwimmen in den italienischen Gewässern. Es ist eine ausgezeichnete Wahl für einen friedlichen Nachmittag am Meer. Für das beste Erlebnis empfiehlt es sich, in den geschäftigen Sommermonaten frühzeitig anzureisen.", "category": "recreational", "coords": [14.452247, 40.619145]}, {"name": "Spiaggia d'Arienzo", "text": "Gelegen in der malerischen Gegend von Positano, ist der Spiaggia d'Arienzo ein reizvolles Ziel für Strandliebhaber. Die schönen Ufer laden die Gäste ein, ein erfrischendes Bad zu nehmen oder sich einfach unter der mediterranen Sonne zu sonnen. Seine Atmosphäre bietet eine charmante Flucht aus den belebten Straßen der Stadt. Ein Besuch hier ist besonders an den wärmeren Tagen des Jahres sehr zu empfehlen.", "category": "recreational", "coords": [14.4958, 40.62684]}], "hu": [{"name": "Spiaggia Grande", "text": "A Spiaggia Grande vitathatatlanul Positano ragyogó középpontja, és a helyi tengerparti élet legfőbb színtere. A meleg homokból lélegzetelállító, ikonikus kilátás nyílik az Amalfi-part meredeken emelkedő, teraszos házaira. Egy itteni látogatás felejthetetlen élményt garantál, ahol testközelből szívhatja magába a hamisítatlan mediterrán életérzést.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-spiaggia-grande.webp", "coords": [14.487181, 40.627778]}, {"name": "Fornillo-strand", "text": "A Fornillo-strand egy festői szépségű, tengerparti ösvényen át közelíthető meg, és nyugodtabb alternatívát nyújt a nyüzsgő Positanóban. Ennek a kis öbölnek a kivételesen tiszta vize hosszú, pihentető úszásokra ösztönöz. Aki a hatalmas tömeg elől menekülne, az egy igazi pihentető oázisra lelhet itt az Amalfi-parton.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-fornillo-strand.webp", "coords": [14.48155, 40.62622]}, {"name": "Istenek ösvénye", "text": "A Positano feletti sziklákon húzódó túraútvonal, amely a világ egyik legszebb tengeri panorámáját kínálja a kirándulóknak.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-sentiero-degli-dei.webp", "coords": [14.534884, 40.625074]}, {"name": "Trasita-torony", "text": "Egy középkori partmenti őrtorony, amely ma is büszkén emelkedik a tenger fölé két strand között.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [14.484229, 40.626734]}, {"name": "Li Galli-szigetek", "text": "A parttól nem messze fekvő apró szigetcsoport, amelyet a mitológia a szirének otthonaként tart számon.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-li-galli-inseln.webp", "coords": [14.533262, 40.639717]}, {"name": "Via Pasitea", "text": "Positano kacskaringós főutcája, ahol a híres helyi divat, a 'Moda Positano' butikjai és galériák sorakoznak.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/positano-via-pasitea.webp", "coords": [14.484158, 40.62833]}, {"name": "Spiaggia grande di Tordigliano", "text": "A Positano partjainál fekvő Spiaggia grande di Tordigliano csodálatos tengerparti környezetet kínál. A látogatókra egy hívogató helyszín vár, ahol pihentető napozásra és úszásra nyílik lehetőség az olasz vizekben. Kiváló választás egy békés tengerparti délután eltöltéséhez. A legkellemesebb élmény érdekében érdemes a forgalmas nyári hónapokban korán érkezni.", "category": "recreational", "coords": [14.452247, 40.619145]}, {"name": "Spiaggia d'Arienzo", "text": "A festői Positano területén található Spiaggia d'Arienzo elragadó úti cél a strandolás szerelmeseinek. A gyönyörű partok frissítő úszásra vagy egyszerűen csak a mediterrán nap alatti pihenésre csábítják a vendégeket. Hangulata varázslatos menedéket nyújt a nyüzsgő városi utcák elől. Egy itteni látogatás kifejezetten ajánlott az év melegebb napjain.", "category": "recreational", "coords": [14.4958, 40.62684]}], "ro": [{"name": "Spiaggia Grande", "text": "Spiaggia Grande este fără îndoială punctul central strălucitor al orașului Positano și centrul vieții de plajă locale. De pe nisipul cald, priveliștea iconică asupra caselor terasate și abrupte de pe Coasta Amalfi este absolut uluitoare. O vizită aici promite o experiență memorabilă, lăsându-vă să respirați atmosfera vibrantă, specific mediteraneană.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-spiaggia-grande.webp", "coords": [14.487181, 40.627778]}, {"name": "Plaja Fornillo", "text": "La doar o plimbare pitorească pe un traseu de coastă distanță, plaja Fornillo se prezintă ca o alternativă mult mai liniștită la Positano-ul aglomerat. Apa extraordinar de limpede din acest mic golf te invită la partide lungi și relaxante de înot. Cei care doresc să scape de mulțimile de turiști vor găsi aici o adevărată oază de recuperare pe Coasta Amalfi.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-fornillo-strand.webp", "coords": [14.48155, 40.62622]}, {"name": "Sentiero degli Dei", "text": "Cunoscută drept 'Cărarea Zeilor', această rută de drumeție oferă panorame uluitoare asupra întregii Costiere Amalfitane.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-sentiero-degli-dei.webp", "coords": [14.534884, 40.625074]}, {"name": "Torre Trasita", "text": "Unul dintre vechile turnuri de apărare sarazine care străjuiesc coasta, astăzi transformat într-o locație de lux.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [14.484229, 40.626734]}, {"name": "Insulele Li Galli", "text": "Un mic arhipelag vizibil de pe țărm, legendar ca fiind casa sirenelor care l-au tentat pe Ulise în epopeea homerică.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-li-galli-inseln.webp", "coords": [14.533262, 40.639717]}, {"name": "Via Pasitea", "text": "Strada principală care coboară prin oraș, faimoasă pentru magazinele de sandale artizanale și moda locală specifică.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/positano-via-pasitea.webp", "coords": [14.484158, 40.62833]}, {"name": "Spiaggia grande di Tordigliano", "text": "Spiaggia grande di Tordigliano oferă un cadru de coastă magnific pe țărmurile din Positano. Vizitatorii se pot aștepta la un loc primitor pentru băi de soare relaxante și înot în apele italiene. Este o alegere excelentă pentru o după-amiază liniștită la malul mării. Pentru a vă asigura cel mai bun loc, este indicat să sosiți devreme în timpul lunilor aglomerate de vară.", "category": "recreational", "coords": [14.452247, 40.619145]}, {"name": "Spiaggia d'Arienzo", "text": "Situată în zona pitorească din Positano, Spiaggia d'Arienzo este o destinație încântătoare pentru iubitorii de plajă. Țărmurile minunate invită oaspeții să se bucure de o baie răcoritoare sau pur și simplu să se relaxeze sub soarele mediteranean. Atmosfera sa oferă o evadare fermecătoare de pe străzile pline de viață ale orașului. O vizită aici este foarte recomandată în timpul zilelor mai calde ale anului.", "category": "recreational", "coords": [14.4958, 40.62684]}], "en": [{"name": "Spiaggia Grande", "text": "The Spiaggia Grande is undoubtedly the glamorous centerpiece of Positano and the absolute hub of local beach life. From the warmth of the sand, visitors are treated to a breathtaking, iconic view of the steeply rising, terraced houses of the Amalfi Coast. A visit here promises an unforgettable experience, allowing you to completely soak in the Mediterranean way of life.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-spiaggia-grande.webp", "coords": [14.487181, 40.627778]}, {"name": "Fornillo Beach", "text": "Reached via a highly picturesque coastal path, Fornillo Beach serves as a quieter alternative within the bustling town of Positano. The exceptionally clear waters in this small cove invite extended, deeply relaxing swimming sessions. Those looking to escape the main crowds will discover a true oasis of tranquility right on the Amalfi Coast.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/positano-fornillo-strand.webp", "coords": [14.48155, 40.62622]}, {"name": "Path of the Gods", "text": "The 'Sentiero degli Dei' is a world-renowned hiking trail above Positano offering breathtaking views of the coastline.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-sentiero-degli-dei.webp", "coords": [14.534884, 40.625074]}, {"name": "Torre Trasita", "text": "A medieval defense tower overlooking the sea, standing as a reminder of the coast's historical struggle against pirates.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [14.484229, 40.626734]}, {"name": "Li Galli Islands", "text": "A small archipelago off the coast, mythical home of the sirens, once owned by the dancer Rudolf Nureyev.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/positano-li-galli-inseln.webp", "coords": [14.533262, 40.639717]}, {"name": "Via Pasitea", "text": "The winding main street of Positano, lined with art galleries and boutiques selling famous 'Positano Fashion'.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/positano-via-pasitea.webp", "coords": [14.484158, 40.62833]}, {"name": "Spiaggia grande di Tordigliano", "text": "Spiaggia grande di Tordigliano offers a magnificent coastal setting along the shores of Positano. Visitors can expect an inviting spot for relaxed sunbathing and swimming in the Italian waters. It is an excellent choice for a peaceful afternoon by the sea. For the best experience, consider arriving early during the busy summer months.", "category": "recreational", "coords": [14.452247, 40.619145]}, {"name": "Spiaggia d'Arienzo", "text": "Located in the picturesque area of Positano, Spiaggia d'Arienzo is a delightful destination for beach lovers. The lovely shores invite guests to enjoy a refreshing swim or simply bask under the Mediterranean sun. Its atmosphere provides a charming escape from the bustling city streets. A visit here is highly recommended during the warmer days of the year.", "category": "recreational", "coords": [14.4958, 40.62684]}]}},
+  {"id": "positano", "type": "city", "parent": "IT-72", "coords": [14.4844, 40.628], "population": 3950, "tier": 1, "name": {"de": "Positano", "hu": "Positano", "ro": "Positano", "en": "Positano"}, "description": {"de": "Das vertikale Dorf der Amalfiküste, bekannt für seine bunten Häuser, die steil zum türkisfarbenen Meer abfallen, und seine exklusive Mode.", "hu": "Az Amalfi-part „függőleges városa”, ahol a pasztellszínű házak meredeken ereszkednek alá a türkizkék tengerhez, megteremtve a világ egyik legszebb látképét.", "ro": "Satul vertical de pe coasta Amalfi, cunoscut pentru casele sale colorate care coboară abrupt spre marea turcoaz și pentru moda sa exclusivistă.", "en": "The vertical village of the Amalfi Coast, famous for its colorful houses cascading down to the turquoise sea and its exclusive local fashion."}, "facts": {"de": ["Spektakuläre Hanglage", "Kirche Santa Maria Assunta", "Heimat der 'Moda Positano'", "Beliebt bei Prominenten", "Schwarzer Kieselstrand Spiaggia Grande", "Autofreie, schmale Gassen", "Blick auf die Li Galli Inseln", "Zahlreiche Kunstgalerien"], "hu": ["Meredek sziklafalra épült város", "Santa Maria Assunta templom", "Híres helyi divat (Moda Positano)", "Hírességek kedvelt pihenőhelye", "Spiaggia Grande fekete kavicsos strand", "Autómentes, szűk sikátorok", "Kilátás a Li Galli-szigetekre", "Számos művészeti galéria"], "ro": ["Locație spectaculoasă pe versant", "Biserica Santa Maria Assunta", "Patria stilului 'Moda Positano'", "Destinație preferată a celebrităților", "Plaja cu pietriș negru Spiaggia Grande", "Străzi înguste fără mașini", "Vedere spre insulele Li Galli", "Numeroase galerii de artă"], "en": ["Spectacular hillside location", "Church of Santa Maria Assunta", "Home of the 'Moda Positano' style", "Favorite destination for celebrities", "Black pebble beach Spiaggia Grande", "Car-free, narrow alleyways", "View of the Li Galli islands", "Numerous art galleries"]}, "image": "/poi-images/positano.webp", "imageHint": "Positano's colorful houses on the cliff overlooking the Mediterranean", "descriptionAdvanced": {"de": "Positano ist der Inbegriff des italienischen Chic und der Inbegriff für vertikale Architektur. Die Stadt ist so steil gebaut, dass man sich fast ausschließlich über Treppen fortbewegt. Bis in die 1950er Jahre war Positano ein armes Fischerdorf, bevor John Steinbeck es durch einen Artikel weltbekannt machte. Die charakteristische Silhouette wird von der goldenen Majolika-Kuppel der Kirche Santa Maria Assunta gekrönt. Neben der atemberaubenden Kulisse ist der Ort für seine maßgeschneiderten Sandalen und die luftige Leinenmode bekannt. Wer die Ruhe sucht, wandert auf dem 'Pfad der Götter' (Sentiero degli Dei) oberhalb der Stadt, der spektakuläre Ausblicke über die gesamte Küste bietet. Positano ist ein Ort zum Sehen und Gesehenwerden, ohne dabei seine romantische Seele zu verlieren.", "hu": "Positano az olasz elegancia és a függőleges építészet szimbóluma. A város annyira meredek, hogy szinte csak lépcsőkön lehet közlekedni, a házak egymás tetejére épültek. Az 1950-es évekig szegény halászfalu volt, mígnem John Steinbeck írása világhírnevet hozott neki. A városkép jellegzetessége a Santa Maria Assunta templom sárga-zöld majolika kupolája, amely a tengerpart fölé magasodik. A látvány mellett Positano a kézzel készített szandáljairól és a könnyű vászonruháiról (Moda Positano) híres. A túrázók számára innen indul (vagy ide érkezik) az Istenek ösvénye, amely a világ egyik legszebb gyalogtúrája. Positano egyszerre luxusüdülőhely és romantikus halászfalu, amely minden napszakban más arcát mutatja.", "ro": "Positano este chintesența stilului șic italian și a arhitecturii verticale. Orașul este construit atât de abrupt încât deplasarea se face aproape exclusiv pe scări. Până în anii 1950, a fost un sat de pescari sărac, înainte ca John Steinbeck să îl facă celebru la nivel mondial. Silueta caracteristică este dominată de cupola din majolică aurie a bisericii Santa Maria Assunta. Pe lângă decorul uluitor, locul este cunoscut pentru sandalele făcute la comandă și moda din in. Pentru cei care caută liniștea, 'Cărarea Zeilor' (Sentiero degli Dei) de deasupra orașului oferă vederi spectaculoase peste întreaga coastă. Positano este un loc unde merită să vezi și să fii văzut, fără a-și pierde sufletul romantic.", "en": "Positano is the epitome of Italian chic and vertical architecture. The town is built so steeply that movement is almost exclusively via stairs. Until the 1950s, Positano was a poor fishing village before John Steinbeck made it world-famous through his writing. Its characteristic skyline is crowned by the golden majolica dome of the Church of Santa Maria Assunta. Beyond the breathtaking scenery, the town is famous for its custom-made sandals and breezy linen fashion (Moda Positano). Those seeking tranquility can hike the 'Path of the Gods' (Sentiero degli Dei) above the town, which offers spectacular views over the entire coast. Positano is a place to see and be seen, yet it never loses its romantic soul."}, "factsAdvanced": {"de": ["Eine römische Villa aus dem 1. Jahrhundert liegt direkt unter der Hauptkirche", "Wurde im 9. Jahrhundert um ein Benediktinerkloster herum gegründet", "John Steinbecks Essay in Harper's Bazaar (1953) löste den Tourismusboom aus", "Die Li Galli Inseln vor der Küste galten in der Mythologie als Heimat der Sirenen", "Die Kirche Santa Maria Assunta beherbergt eine schwarze Madonna aus dem 12. Jahrhundert", "Die Stadt hat über 1.000 Stufen von der Hauptstraße bis zum Strand"], "hu": ["Egy 1. századi római villa maradványai fekszenek a főtemplom alatt", "A 9. században alapították egy bencés kolostor köré", "John Steinbeck 1953-as cikke indította el a nemzetközi turisztikai boomot", "A közeli Li Galli-szigeteket a mitológia a szirének otthonának tartotta", "A Santa Maria Assunta templom egy 12. századi bizánci Fekete Madonnát őriz", "A városon keresztül több mint 1000 lépcsőfok vezet a főúttól a strandig"], "ro": ["O vilă romană din secolul I se află chiar sub biserica principală", "Fondat în secolul al IX-lea în jurul unei mănăstiri benedictine", "Eseul lui John Steinbeck din 1953 a declanșat boom-ul turistic", "Insulele Li Galli erau considerate în mitologie casa sirenelor", "Biserica Santa Maria Assunta adăpostește o Madonă Neagră din secolul XII", "Orașul are peste 1.000 de trepte de la strada principală până la plajă"], "en": ["A 1st-century Roman villa lies directly beneath the main church", "Founded in the 9th century around a Benedictine monastery", "John Steinbeck's 1953 essay triggered the international tourism boom", "The Li Galli islands offshore were considered the home of Sirens in mythology", "The Church of Santa Maria Assunta houses a 12th-century Byzantine Black Madonna", "The town features over 1,000 steps from the main road down to the beach"]}, "sights": {
+      "de": [
+            {
+                  "name": "Spiaggia Grande",
+                  "text": "Die Spiaggia Grande ist unbestritten der schillernde Mittelpunkt von Positano und der Dreh- und Angelpunkt des örtlichen Strandlebens. Vom warmen Sand aus hat man einen atemberaubenden, geradezu ikonischen Blick auf die steil aufragenden Terrassenhäuser der Amalfiküste. Ein Besuch hier verspricht ein unvergessliches Erlebnis, bei dem man das mediterrane Lebensgefühl hautnah einatmen kann.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-spiaggia-grande.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Fornillo-Strand",
+                  "text": "Nur einen malerischen Spaziergang über einen Küstenpfad entfernt, präsentiert sich der Fornillo-Strand als ruhigere Alternative im lebhaften Positano. Das außergewöhnlich klare Wasser in dieser kleinen Bucht lädt zu ausgedehnten, entspannten Schwimmrunden ein. Wer den Massen entfliehen möchte, findet hier an der Amalfiküste eine wahre Oase der Erholung.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-fornillo-strand.webp",
+                  "coords": [
+                        14.48155,
+                        40.62622
+                  ]
+            },
+            {
+                  "name": "Sentiero degli Dei",
+                  "text": "Der 'Pfad der Götter' beginnt oberhalb von Positano und bietet atemberaubende Ausblicke auf die gesamte Amalfiküste.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-sentiero-degli-dei.webp",
+                  "coords": [
+                        14.534884,
+                        40.625074
+                  ]
+            },
+            {
+                  "name": "Torre Trasita",
+                  "text": "Einer der historischen Wachtürme von Positano, der heute als exklusive Residenz dient und die Küstenlinie dominiert.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        14.484229,
+                        40.626734
+                  ]
+            },
+            {
+                  "name": "Li Galli Inseln",
+                  "text": "Dieser kleine Archipel vor der Küste ist sagenumwoben als Heimat der Sirenen und bietet einen wunderschönen Anblick vom Land.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-li-galli-inseln.webp",
+                  "coords": [
+                        14.533262,
+                        40.639717
+                  ]
+            },
+            {
+                  "name": "Via Pasitea",
+                  "text": "Die Hauptstraße von Positano windet sich durch den Ort und ist gesäumt von eleganten Boutiquen und Kunstgalerien.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-via-pasitea.webp",
+                  "coords": [
+                        14.484158,
+                        40.62833
+                  ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "Der Spiaggia grande di Tordigliano bietet eine herrliche Küstenkulisse an den Ufern von Positano. Besucher erwartet ein einladender Ort für entspanntes Sonnenbaden und Schwimmen in den italienischen Gewässern. Es ist eine ausgezeichnete Wahl für einen friedlichen Nachmittag am Meer. Für das beste Erlebnis empfiehlt es sich, in den geschäftigen Sommermonaten frühzeitig anzureisen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "Gelegen in der malerischen Gegend von Positano, ist der Spiaggia d'Arienzo ein reizvolles Ziel für Strandliebhaber. Die schönen Ufer laden die Gäste ein, ein erfrischendes Bad zu nehmen oder sich einfach unter der mediterranen Sonne zu sonnen. Seine Atmosphäre bietet eine charmante Flucht aus den belebten Straßen der Stadt. Ein Besuch hier ist besonders an den wärmeren Tagen des Jahres sehr zu empfehlen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera Fornillo",
+                  "text": "Ein charmanter Kiesstrand in Positano, der über Treppen erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.480394,
+                        40.625905
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "Ein kleiner, ruhiger Strandabschnitt an der Amalfiküste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502911,
+                        40.623293
+                  ]
+            },
+            {
+                  "name": "Remmese",
+                  "text": "Ein schmaler Küstenstreifen unterhalb der Klippen von Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.476432,
+                        40.624275
+                  ]
+            },
+            {
+                  "name": "Tordigliano",
+                  "text": "Ein naturbelassener und wilder Strand an der Küste von Sorrent.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455271,
+                        40.61956
+                  ]
+            },
+            {
+                  "name": "Lo Scaricatore",
+                  "text": "Ein abgelegener Ort am Meer mit Blick auf die Amalfiküste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.441847,
+                        40.616132
+                  ]
+            },
+            {
+                  "name": "Laurito",
+                  "text": "Eine exklusive kleine Bucht, die oft mit dem Boot besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.507084,
+                        40.62239
+                  ]
+            },
+            {
+                  "name": "La Porta",
+                  "text": "Ein kleiner, versteckter Strandabschnitt in der Nähe von Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492191,
+                        40.62739
+                  ]
+            },
+            {
+                  "name": "Gavitella beach",
+                  "text": "Ein bekannter Strand, der für seine langen Sonnenuntergänge berühmt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520518,
+                        40.613984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiaggia Grande",
+                  "text": "A Spiaggia Grande vitathatatlanul Positano ragyogó középpontja, és a helyi tengerparti élet legfőbb színtere. A meleg homokból lélegzetelállító, ikonikus kilátás nyílik az Amalfi-part meredeken emelkedő, teraszos házaira. Egy itteni látogatás felejthetetlen élményt garantál, ahol testközelből szívhatja magába a hamisítatlan mediterrán életérzést.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-spiaggia-grande.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Fornillo-strand",
+                  "text": "A Fornillo-strand egy festői szépségű, tengerparti ösvényen át közelíthető meg, és nyugodtabb alternatívát nyújt a nyüzsgő Positanóban. Ennek a kis öbölnek a kivételesen tiszta vize hosszú, pihentető úszásokra ösztönöz. Aki a hatalmas tömeg elől menekülne, az egy igazi pihentető oázisra lelhet itt az Amalfi-parton.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-fornillo-strand.webp",
+                  "coords": [
+                        14.48155,
+                        40.62622
+                  ]
+            },
+            {
+                  "name": "Istenek ösvénye",
+                  "text": "A Positano feletti sziklákon húzódó túraútvonal, amely a világ egyik legszebb tengeri panorámáját kínálja a kirándulóknak.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-sentiero-degli-dei.webp",
+                  "coords": [
+                        14.534884,
+                        40.625074
+                  ]
+            },
+            {
+                  "name": "Trasita-torony",
+                  "text": "Egy középkori partmenti őrtorony, amely ma is büszkén emelkedik a tenger fölé két strand között.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        14.484229,
+                        40.626734
+                  ]
+            },
+            {
+                  "name": "Li Galli-szigetek",
+                  "text": "A parttól nem messze fekvő apró szigetcsoport, amelyet a mitológia a szirének otthonaként tart számon.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-li-galli-inseln.webp",
+                  "coords": [
+                        14.533262,
+                        40.639717
+                  ]
+            },
+            {
+                  "name": "Via Pasitea",
+                  "text": "Positano kacskaringós főutcája, ahol a híres helyi divat, a 'Moda Positano' butikjai és galériák sorakoznak.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-via-pasitea.webp",
+                  "coords": [
+                        14.484158,
+                        40.62833
+                  ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "A Positano partjainál fekvő Spiaggia grande di Tordigliano csodálatos tengerparti környezetet kínál. A látogatókra egy hívogató helyszín vár, ahol pihentető napozásra és úszásra nyílik lehetőség az olasz vizekben. Kiváló választás egy békés tengerparti délután eltöltéséhez. A legkellemesebb élmény érdekében érdemes a forgalmas nyári hónapokban korán érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "A festői Positano területén található Spiaggia d'Arienzo elragadó úti cél a strandolás szerelmeseinek. A gyönyörű partok frissítő úszásra vagy egyszerűen csak a mediterrán nap alatti pihenésre csábítják a vendégeket. Hangulata varázslatos menedéket nyújt a nyüzsgő városi utcák elől. Egy itteni látogatás kifejezetten ajánlott az év melegebb napjain.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera Fornillo",
+                  "text": "Bájos kavicsos strand Positanóban, amely lépcsőkön érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        14.480394,
+                        40.625905
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "Kicsi, csendes tengerparti szakasz az Amalfi-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502911,
+                        40.623293
+                  ]
+            },
+            {
+                  "name": "Remmese",
+                  "text": "Keskeny tengerparti sáv Positano sziklái alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.476432,
+                        40.624275
+                  ]
+            },
+            {
+                  "name": "Tordigliano",
+                  "text": "Természetes és vadregényes tengerpart a Sorrentói-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455271,
+                        40.61956
+                  ]
+            },
+            {
+                  "name": "Lo Scaricatore",
+                  "text": "Félreeső tengerparti helyszín kilátással az Amalfi-partra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.441847,
+                        40.616132
+                  ]
+            },
+            {
+                  "name": "Laurito",
+                  "text": "Exkluzív kis öböl, amelyet gyakran hajóval látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.507084,
+                        40.62239
+                  ]
+            },
+            {
+                  "name": "La Porta",
+                  "text": "Kicsi, rejtett tengerparti szakasz Positano közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492191,
+                        40.62739
+                  ]
+            },
+            {
+                  "name": "Gavitella beach",
+                  "text": "Ismert tengerpart, amely a hosszú naplementéiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520518,
+                        40.613984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiaggia Grande",
+                  "text": "Spiaggia Grande este fără îndoială punctul central strălucitor al orașului Positano și centrul vieții de plajă locale. De pe nisipul cald, priveliștea iconică asupra caselor terasate și abrupte de pe Coasta Amalfi este absolut uluitoare. O vizită aici promite o experiență memorabilă, lăsându-vă să respirați atmosfera vibrantă, specific mediteraneană.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-spiaggia-grande.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Plaja Fornillo",
+                  "text": "La doar o plimbare pitorească pe un traseu de coastă distanță, plaja Fornillo se prezintă ca o alternativă mult mai liniștită la Positano-ul aglomerat. Apa extraordinar de limpede din acest mic golf te invită la partide lungi și relaxante de înot. Cei care doresc să scape de mulțimile de turiști vor găsi aici o adevărată oază de recuperare pe Coasta Amalfi.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-fornillo-strand.webp",
+                  "coords": [
+                        14.48155,
+                        40.62622
+                  ]
+            },
+            {
+                  "name": "Sentiero degli Dei",
+                  "text": "Cunoscută drept 'Cărarea Zeilor', această rută de drumeție oferă panorame uluitoare asupra întregii Costiere Amalfitane.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-sentiero-degli-dei.webp",
+                  "coords": [
+                        14.534884,
+                        40.625074
+                  ]
+            },
+            {
+                  "name": "Torre Trasita",
+                  "text": "Unul dintre vechile turnuri de apărare sarazine care străjuiesc coasta, astăzi transformat într-o locație de lux.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        14.484229,
+                        40.626734
+                  ]
+            },
+            {
+                  "name": "Insulele Li Galli",
+                  "text": "Un mic arhipelag vizibil de pe țărm, legendar ca fiind casa sirenelor care l-au tentat pe Ulise în epopeea homerică.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-li-galli-inseln.webp",
+                  "coords": [
+                        14.533262,
+                        40.639717
+                  ]
+            },
+            {
+                  "name": "Via Pasitea",
+                  "text": "Strada principală care coboară prin oraș, faimoasă pentru magazinele de sandale artizanale și moda locală specifică.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-via-pasitea.webp",
+                  "coords": [
+                        14.484158,
+                        40.62833
+                  ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "Spiaggia grande di Tordigliano oferă un cadru de coastă magnific pe țărmurile din Positano. Vizitatorii se pot aștepta la un loc primitor pentru băi de soare relaxante și înot în apele italiene. Este o alegere excelentă pentru o după-amiază liniștită la malul mării. Pentru a vă asigura cel mai bun loc, este indicat să sosiți devreme în timpul lunilor aglomerate de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "Situată în zona pitorească din Positano, Spiaggia d'Arienzo este o destinație încântătoare pentru iubitorii de plajă. Țărmurile minunate invită oaspeții să se bucure de o baie răcoritoare sau pur și simplu să se relaxeze sub soarele mediteranean. Atmosfera sa oferă o evadare fermecătoare de pe străzile pline de viață ale orașului. O vizită aici este foarte recomandată în timpul zilelor mai calde ale anului.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera Fornillo",
+                  "text": "O plajă fermecătoare cu pietriș în Positano, accesibilă pe scări.",
+                  "category": "recreational",
+                  "coords": [
+                        14.480394,
+                        40.625905
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "O mică secțiune de plajă liniștită pe coasta Amalfi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502911,
+                        40.623293
+                  ]
+            },
+            {
+                  "name": "Remmese",
+                  "text": "O fâșie îngustă de coastă sub stâncile din Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.476432,
+                        40.624275
+                  ]
+            },
+            {
+                  "name": "Tordigliano",
+                  "text": "O plajă naturală și sălbatică pe coasta Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455271,
+                        40.61956
+                  ]
+            },
+            {
+                  "name": "Lo Scaricatore",
+                  "text": "Un loc retras la mare cu vedere spre coasta Amalfi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.441847,
+                        40.616132
+                  ]
+            },
+            {
+                  "name": "Laurito",
+                  "text": "Un golfuleț exclusivist, vizitat adesea cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        14.507084,
+                        40.62239
+                  ]
+            },
+            {
+                  "name": "La Porta",
+                  "text": "O mică secțiune de plajă ascunsă în apropiere de Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492191,
+                        40.62739
+                  ]
+            },
+            {
+                  "name": "Gavitella beach",
+                  "text": "O plajă cunoscută, faimoasă pentru apusurile sale lungi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520518,
+                        40.613984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiaggia Grande",
+                  "text": "The Spiaggia Grande is undoubtedly the glamorous centerpiece of Positano and the absolute hub of local beach life. From the warmth of the sand, visitors are treated to a breathtaking, iconic view of the steeply rising, terraced houses of the Amalfi Coast. A visit here promises an unforgettable experience, allowing you to completely soak in the Mediterranean way of life.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-spiaggia-grande.webp",
+                  "coords": [
+                        14.487181,
+                        40.627778
+                  ]
+            },
+            {
+                  "name": "Fornillo Beach",
+                  "text": "Reached via a highly picturesque coastal path, Fornillo Beach serves as a quieter alternative within the bustling town of Positano. The exceptionally clear waters in this small cove invite extended, deeply relaxing swimming sessions. Those looking to escape the main crowds will discover a true oasis of tranquility right on the Amalfi Coast.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-fornillo-strand.webp",
+                  "coords": [
+                        14.48155,
+                        40.62622
+                  ]
+            },
+            {
+                  "name": "Path of the Gods",
+                  "text": "The 'Sentiero degli Dei' is a world-renowned hiking trail above Positano offering breathtaking views of the coastline.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-sentiero-degli-dei.webp",
+                  "coords": [
+                        14.534884,
+                        40.625074
+                  ]
+            },
+            {
+                  "name": "Torre Trasita",
+                  "text": "A medieval defense tower overlooking the sea, standing as a reminder of the coast's historical struggle against pirates.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        14.484229,
+                        40.626734
+                  ]
+            },
+            {
+                  "name": "Li Galli Islands",
+                  "text": "A small archipelago off the coast, mythical home of the sirens, once owned by the dancer Rudolf Nureyev.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-li-galli-inseln.webp",
+                  "coords": [
+                        14.533262,
+                        40.639717
+                  ]
+            },
+            {
+                  "name": "Via Pasitea",
+                  "text": "The winding main street of Positano, lined with art galleries and boutiques selling famous 'Positano Fashion'.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/positano-via-pasitea.webp",
+                  "coords": [
+                        14.484158,
+                        40.62833
+                  ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "Spiaggia grande di Tordigliano offers a magnificent coastal setting along the shores of Positano. Visitors can expect an inviting spot for relaxed sunbathing and swimming in the Italian waters. It is an excellent choice for a peaceful afternoon by the sea. For the best experience, consider arriving early during the busy summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "Located in the picturesque area of Positano, Spiaggia d'Arienzo is a delightful destination for beach lovers. The lovely shores invite guests to enjoy a refreshing swim or simply bask under the Mediterranean sun. Its atmosphere provides a charming escape from the bustling city streets. A visit here is highly recommended during the warmer days of the year.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
+                  ]
+            },
+            {
+                  "name": "Fornillo free beach",
+                  "text": "A charming pebble beach in Positano accessible via stairs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.480394,
+                        40.625905
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "A small, quiet beach section on the Amalfi Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.502911,
+                        40.623293
+                  ]
+            },
+            {
+                  "name": "Remmese",
+                  "text": "A narrow coastal strip below the cliffs of Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.476432,
+                        40.624275
+                  ]
+            },
+            {
+                  "name": "Tordigliano",
+                  "text": "A natural and wild beach on the Sorrento coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455271,
+                        40.61956
+                  ]
+            },
+            {
+                  "name": "Lo Scaricatore",
+                  "text": "A secluded seaside spot with views of the Amalfi Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.441847,
+                        40.616132
+                  ]
+            },
+            {
+                  "name": "Laurito",
+                  "text": "An exclusive small cove often visited by boat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.507084,
+                        40.62239
+                  ]
+            },
+            {
+                  "name": "La Porta",
+                  "text": "A small, hidden beach section near Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492191,
+                        40.62739
+                  ]
+            },
+            {
+                  "name": "Gavitella beach",
+                  "text": "A well-known beach famous for its long sunsets.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520518,
+                        40.613984
+                  ]
+            }
+      ]
+}},
   {"id": "riva-del-garda", "type": "city", "parent": "IT-32", "coords": [10.8401, 45.8869], "population": 17800, "tier": 1, "name": {"de": "Riva del Garda", "hu": "Riva del Garda", "ro": "Riva del Garda", "en": "Riva del Garda"}, "description": {"de": "Das Juwel am Nordufer des Gardasees, eingekesselt von steilen Felswänden, ideal für Segler, Surfer und Aktivurlauber.", "hu": "A Garda-tó északi csücskének ékköve, ahol meredek sziklafalak találkoznak a kristálytiszta vízzel, a szörfösök paradicsoma.", "ro": "Perla malului nordic al Lacului Garda, înconjurată de stânci abrupte, fiind un paradis pentru navigație și sporturi nautice.", "en": "The jewel of Lake Garda's northern shore, nestled between steep cliffs and crystal-clear waters, a paradise for active travelers."}, "facts": {"de": ["Nördlichste Stadt am Gardasee", "Zentrum für Windsurfen und Segeln", "Historische Festung La Rocca", "Torre Apponale Stadtturm", "Beliebtes Ziel für Mountainbiker", "Mediterranes Klima trotz Alpengipfeln", "Früherer österreichischer Stützpunkt", "Nahe der Varone Wasserfälle"], "hu": ["A Garda-tó legészakibb városa", "Windszörf és vitorlás központ", "A La Rocca középkori várkastély", "A 34 méter magas Torre Apponale", "Mountainbike túrák népszerű kiindulópontja", "Mediterrán klíma az Alpok lábánál", "Egykor az Osztrák-Magyar Monarchia része", "A közeli Varone-vízesés látványossága"], "ro": ["Cel mai nordic oraș de pe Lacul Garda", "Centru mondial pentru windsurfing", "Cetatea medievală La Rocca", "Turnul civic Torre Apponale", "Destinație favorită pentru mountain biking", "Microclimat mediteranean sub Alpi", "Fostă garnizoană austro-ungară", "Aproape de cascada Varone"], "en": ["Northernmost town on Lake Garda", "Global hub for windsurfing and sailing", "Medieval fortress La Rocca", "34-meter high Torre Apponale tower", "Popular base for mountain biking", "Mediterranean climate at the Alpine edge", "Former Austro-Hungarian stronghold", "Near the spectacular Varone Waterfall"]}, "image": "/poi-images/riva-del-garda.webp", "imageHint": "Riva del Garda waterfront with colorful buildings and Monte Oro in background", "descriptionAdvanced": {"de": "Riva del Garda beeindruckt durch seine dramatische Lage am schmalen, fjordähnlichen Nordende des Gardasees. Die Stadt wird im Westen vom steilen Monte Oro und im Osten vom Monte Brione flankiert. Diese Geografie sorgt für die beständigen Winde 'Ora' und 'Peler', die Riva zu einem Mekka für Segler und Windsurfer machen. Die Altstadt ist geprägt von pastellfarbenen Fassaden und engen Gassen, die zur Piazza III Novembre führen. Hier steht der schiefe Torre Apponale, ein Wahrzeichen aus dem Jahr 1220. Die von Wassergräben umgebene Festung 'Rocca' beherbergt heute das Stadtmuseum. Riva war bis 1918 Teil Österreich-Ungarns, was sich noch heute in der Architektur und der lokalen Küche widerspiegelt. Neben Wassersport ist die Region für Klettersteige und spektakuläre Radwege wie die Ponalestraße weltberühmt.", "hu": "Riva del Garda lenyűgöző látványt nyújt a Garda-tó fjord-szerű északi végén, ahol a víz és a függőleges sziklafalak találkoznak. Nyugatról a Monte Oro, keletről a Monte Brione határolja, ez a különleges földrajzi helyzet pedig garantálja az állandó szeleket (Ora és Peler), amelyek a vitorlázók és szörfösök Mekkájává teszik a várost. Az óváros pasztellszínű homlokzatai és szűk utcái a Piazza III Novembre térre vezetnek, ahol az 1220-ból származó Torre Apponale torony magasodik. A vizesárokkal körülvett 'Rocca' erőd ma a városi múzeumnak ad otthont. Riva 1918-ig az Osztrák-Magyar Monarchia része volt, ami építészetén és gasztronómiáján is nyomot hagyott. A vízi sportok mellett a környék via ferrata útvonalai és a panorámás Ponale-út kerékpárosai körében is világhírű.", "ro": "Riva del Garda impresionează prin locația sa dramatică la capătul nordic, asemănător unui fiord, al Lacului Garda. Orașul este flancat la vest de abruptul Monte Oro și la est de Monte Brione. Această geografie generează vânturile constante 'Ora' și 'Peler', care fac din Riva o Mecca pentru navigatori și windsurferi. Centrul vechi este marcat de fațade în culori pastelate și străzi înguste care duc spre Piazza III Novembre. Aici se ridică Torre Apponale, un turn înclinat construit în 1220. Cetatea 'Rocca', înconjurată de șanțuri cu apă, găzduiește astăzi muzeul orașului. Până în 1918, Riva a făcut parte din Austro-Ungaria, influență vizibilă în arhitectură și gastronomie. Pe lângă sporturile nautice, regiunea este celebră pentru traseele de via ferrata și drumul panoramic Ponale, preferat de cicliști.", "en": "Riva del Garda stuns with its dramatic setting at the narrow, fjord-like northern tip of Lake Garda. Flanked by the precipitous Monte Oro to the west and Monte Brione to the east, its geography channels the consistent 'Ora' and 'Peler' winds, making Riva a global Mecca for sailors and windsurfers. The historic center features pastel-colored facades and narrow alleys leading to Piazza III Novembre, home to the leaning Torre Apponale tower dating back to 1220. The 'Rocca' fortress, encircled by water-filled moats, now houses the city museum. Riva remained part of the Austro-Hungarian Empire until 1918, a history still reflected in its architecture and local cuisine. Beyond water sports, the area is world-renowned for its via ferratas and the spectacular Ponale road, a favorite for hikers and mountain bikers."}, "factsAdvanced": {"de": ["Torre Apponale ist 34 Meter hoch", "Wichtigster Hafen am nördlichen See", "Ehemals österreichische Festungsstadt", "Varone Wasserfall liegt 3km nördlich", "Austragungsort bedeutender Regatten", "Startpunkt der Ponalestraße (Panoramaweg)"], "hu": ["A Torre Apponale magassága 34 méter", "Az északi tópart legfontosabb kikötője", "Egykori osztrák erődváros", "A Varone-vízesés mindössze 3 km-re van", "Nemzetközi vitorlásversenyek helyszíne", "A panorámás Ponale-út kiindulópontja"], "ro": ["Turnul Torre Apponale are 34 m înălțime", "Cel mai important port din nordul lacului", "Fost oraș-fortăreață austriac", "Cascada Varone se află la 3 km distanță", "Gazda multor regate internaționale", "Punct de plecare pentru drumul Ponale"], "en": ["Torre Apponale stands 34 meters tall", "Most important port on northern Lake Garda", "Former Austrian fortress town", "Varone Waterfall is just 3km away", "Host to prestigious international regattas", "Starting point of the scenic Ponale Road"]}, "sights": {
       "de": [
             {
@@ -16187,6 +17769,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.340813,
                         40.627289
                   ]
+            },
+            {
+                  "name": "Bagni Regina Giovanna",
+                  "text": "Ein berühmtes natürliches Becken am Meer, umgeben von römischen Ruinen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351209,
+                        40.634182
+                  ]
+            },
+            {
+                  "name": "Puolo",
+                  "text": "Ein malerischer Strand in einem traditionellen Fischerdorf bei Sorrent.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346376,
+                        40.626759
+                  ]
             }
       ],
       "hu": [
@@ -16433,6 +18033,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.340813,
                         40.627289
+                  ]
+            },
+            {
+                  "name": "Bagni Regina Giovanna",
+                  "text": "Híres természetes medence a tengerparton, római kori romok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351209,
+                        40.634182
+                  ]
+            },
+            {
+                  "name": "Puolo",
+                  "text": "Festői tengerpart egy hagyományos halászfaluban Sorrento mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346376,
+                        40.626759
                   ]
             }
       ],
@@ -16681,6 +18299,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.340813,
                         40.627289
                   ]
+            },
+            {
+                  "name": "Bagni Regina Giovanna",
+                  "text": "O celebră piscină naturală la malul mării, înconjurată de ruine romane.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351209,
+                        40.634182
+                  ]
+            },
+            {
+                  "name": "Puolo",
+                  "text": "O plajă pitorească într-un sat tradițional de pescari de lângă Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346376,
+                        40.626759
+                  ]
             }
       ],
       "en": [
@@ -16927,6 +18563,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.340813,
                         40.627289
+                  ]
+            },
+            {
+                  "name": "Bagni Regina Giovanna",
+                  "text": "A famous natural pool by the sea surrounded by Roman ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351209,
+                        40.634182
+                  ]
+            },
+            {
+                  "name": "Puolo",
+                  "text": "A scenic beach in a traditional fishing village near Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.346376,
+                        40.626759
                   ]
             }
       ]
@@ -18237,7 +19891,556 @@ export const poiExtraItalyV2: POI[] = [
             }
       ]
 }},
-  {"id": "taormina", "type": "city", "parent": "IT-82", "coords": [15.2917, 37.8536], "population": 10800, "tier": 1, "name": {"de": "Taormina", "hu": "Taormina", "ro": "Taormina", "en": "Taormina"}, "description": {"de": "Taormina thront spektakulär auf einem Felsen über dem Ionischen Meer und bietet einen unvergleichlichen Blick auf den Ätna.", "hu": "A Jón-tenger feletti sziklán trónoló Taormina Szicília legszebb városa, ahol az antik görög színház hátterét maga az Etna adja.", "ro": "Taormina este cocoțată spectaculos pe o stâncă deasupra Mării Ionice, oferind o vedere legendară spre muntele Etna.", "en": "Perched on a cliff high above the Ionian Sea, Taormina is Sicily's premier resort, famous for its ancient theater and Etna views."}, "facts": {"de": ["Antikes Theater", "Blick auf den Ätna", "Isola Bella Insel", "Corso Umberto", "Gärten der Villa Comunale", "Gegründet 396 v. Chr."], "hu": ["Görög színház", "Kilátás az Etnára", "Isola Bella sziget", "Corso Umberto sétálóutca", "Városi park (Villa Comunale)", "Alapítva: i.e. 396"], "ro": ["Teatrul Antic", "Vedere spre Etna", "Insula Isola Bella", "Corso Umberto", "Grădinile Villa Comunale", "Fondat în 396 î.Hr."], "en": ["Ancient Greek Theater", "Mount Etna views", "Isola Bella island", "Corso Umberto main street", "Villa Comunale gardens", "Founded in 396 BC"]}, "image": "/poi-images/taormina.webp", "imageHint": "Ancient Greek theater of Taormina with Mount Etna in the background", "descriptionAdvanced": {"de": "Taormina, die 'Perle Siziliens', blickt auf eine über 2000-jährige Geschichte zurück und liegt auf dem Monte Tauro. Das berühmteste Wahrzeichen ist das Teatro Antico, ein griechisch-römisches Theater, das für seine perfekte Akustik und die dramatische Kulisse mit dem rauchenden Ätna bekannt ist. Die Hauptstraße Corso Umberto führt durch das historische Zentrum, gesäumt von mittelalterlichen Toren und barocken Kirchen. Unterhalb der Stadt liegt die malerische Isola Bella, eine winzige Insel, die über eine schmale Sandbank mit dem Festland verbunden ist. Die Gärten der Villa Comunale bieten eine exotische Oase der Ruhe mit seltenen Pflanzen und viktorianischen Gebäuden. Seit dem 19. Jahrhundert ist Taormina ein Magnet für Schriftsteller wie Oscar Wilde und Filmstars, was dem Ort ein mondänes, zeitloses Flair verleiht. Der Ätna brach 2024 mehrfach zwischen Juli und November aus, mit veränderten Tour-Zonen und zeitweisen Sperrungen oberhalb von 2.500 Metern. Geführte Touren oberhalb der Bergstation sind seither strenger reguliert.", "hu": "Taormina, Szicília ékszerdoboza, a Monte Tauro teraszán fekszik, 200 méterrel a tenger felett. Legismertebb nevezetessége az i.e. 3. században épült görög-római színház, amelynek romjai közül lenyűgöző panoráma nyílik az Etnára és a tengerpartra. A város lüktető szíve a Corso Umberto sétálóutca, ahol elegáns üzletek, cukrászdák és hangulatos terek, mint a Piazza IX Aprile várják a turistákat. A part mentén található Isola Bella apró szigete ma természetvédelmi terület, és apálykor gyalog is megközelíthető. A Villa Comunale közparkja különleges, egzotikus növényvilágával és furcsa építményeivel kínál felfrissülést. A város kulturális jelentőségét növeli a Taormina Film Fest, amely minden évben nemzetközi sztárokat vonz a történelmi falak közé. Az Etna 2024 július-novembere között többször kitört, a túrázható zónák módosultak, 2500 méter felett időnként lezárások voltak. A felső állomás feletti túrák azóta szigorúbban szabályozottak.", "ro": "Taormina, supranumită 'perla Siciliei', este situată pe o terasă naturală a Muntelui Tauro, la 200 de metri deasupra mării. Atractia principală este Teatrul Antic, construit de greci și extins de romani, care oferă unul dintre cele mai fotografiate decoruri din lume: coloanele antice încadrate de vulcanul Etna. Inima orașului este Corso Umberto, o stradă pietonală plină de viață, porți medievale și piațete panoramice precum Piazza IX Aprile. La baza stâncii se află Isola Bella, o rezervație naturală legată de uscat printr-o fâșie subțire de nisip. Grădinile publice Villa Comunale sunt renumite pentru stilul lor eclectic și speciile botanice rare. Încă din perioada Grand Tour, Taormina a fascinat elitele intelectuale europene, rămânând până astăzi cea mai sofisticată destinație siciliană. Etna a erupt de mai multe ori în iulie-noiembrie 2024, cu zone de tură modificate și închideri temporare peste 2.500 de metri. Excursiile ghidate deasupra stației superioare sunt acum reglementate mai strict.", "en": "Taormina, often called the 'Pearl of Sicily', sits on a natural terrace of Mount Tauro, 200 meters above the sea. Its crown jewel is the Ancient Theater, a 3rd-century BC Greco-Roman structure that still hosts performances today, set against the breathtaking backdrop of Mount Etna. The town's social life revolves around Corso Umberto, a vibrant pedestrian street filled with luxury boutiques, cafes, and historic gates like Porta Messina. Below the cliffs lies Isola Bella, a tiny island and nature reserve connected to the shore by a narrow strip of sand. The Villa Comunale public gardens offer a lush retreat with exotic plants and unique architectural follies. A magnet for celebrities and writers since the 19th century, Taormina combines ancient history with a glamorous, cosmopolitan atmosphere. Mount Etna erupted multiple times between July and November 2024, with shifting tour zones and temporary closures above 2,500 metres. Guided tours above the upper station are now more strictly regulated."}, "factsAdvanced": {"de": ["Gegründet von Griechen (396 v. Chr.)", "Teatro Antico Kapazität: 5000", "Höhe: 204 Meter über dem Meer", "10.800 Einwohner", "Isola Bella Naturschutzgebiet", "Blick auf den höchsten Vulkan Europas", "Palazzo Corvaia (14. Jh.)", "Gastgeber des G7-Gipfels 2017"], "hu": ["Görög alapítás: i.e. 396", "Görög színház befogadóképessége: 5000 fő", "Tengerszint feletti magasság: 204m", "Lakosság: kb. 10.800 fő", "Isola Bella: természetvédelmi terület", "Kilátás Európa legmagasabb vulkánjára", "Palazzo Corvaia: 14. század", "Híres filmfesztivál helyszíne"], "ro": ["Fondat de greci (396 î.Hr.)", "Capacitate Teatrul Antic: 5000 locuri", "Altitudine: 204 metri", "Populație: 10.800 locuitori", "Isola Bella: rezervație naturală", "Vedere spre cel mai înalt vulcan activ", "Palazzo Corvaia (sec. XIV)", "Gazda summitului G7 din 2017"], "en": ["Founded by Greeks (396 BC)", "Ancient Theater capacity: 5,000", "Elevation: 204 meters", "Population: approx. 10,800", "Isola Bella nature reserve", "Views of Europe's highest volcano", "14th-century Palazzo Corvaia", "Hosted the 2017 G7 summit"]}, "sights": {"de": [{"name": "Antikes Theater von Taormina", "text": "Dieses gut erhaltene griechisch-römische Theater aus dem 3. Jh. v. Chr. bietet eine spektakuläre Kulisse mit Blick auf den Ätna.", "category": "theatres", "confidence": "high", "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp", "coords": [15.292124, 37.852453]}, {"name": "Isola Bella", "text": "Eine kleine Insel in einer Bucht am Fuße der Stadt, die durch eine Sandbank mit dem Festland verbunden und ein Naturschutzgebiet ist.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/taormina-isola-bella.webp", "coords": [15.3, 37.85]}, {"name": "Piazza IX Aprile", "text": "Der eleganteste Platz der Stadt mit einer Aussichtsterrasse, von der man das Meer und die Berge überblicken kann.", "category": "squares", "confidence": "high", "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp", "coords": [15.285785, 37.851591]}, {"name": "Corso Umberto", "text": "Die charmante Hauptstraße Taorminas führt durch die Altstadt und ist gesäumt von Palästen, Boutiquen und gemütlichen Cafés.", "category": "old-town", "confidence": "high", "image": "/poi-images/sights/taormina-corso-umberto.webp", "coords": [15.288715, 37.8541]}, {"name": "Palazzo Corvaja", "text": "Ein prächtiger mittelalterlicher Palast aus dem 14. Jahrhundert, der heute als Museum für sizilianische Kunst und Traditionen dient.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/taormina-palazzo-corvaja.webp", "coords": [15.28848, 37.85394]}, {"name": "Villa Comunale", "text": "Der öffentliche Garten der Stadt ist eine grüne Oase mit seltenen Pflanzen, viktorianischen Bauwerken und herrlichen Aussichtspunkten.", "category": "parks", "confidence": "high", "image": "/poi-images/sights/taormina-villa-comunale.webp", "coords": [15.289979, 37.850946]}, {"name": "Dom von Taormina", "text": "Die im 13. Jahrhundert erbaute Kathedrale San Nicolò ähnelt einer Festung und steht stolz auf einem kleinen Platz am Corso.", "category": "cathedrals", "confidence": "high", "image": "/poi-images/sights/taormina-dom-von-taormina.webp", "coords": [15.2828, 37.851]}, {"name": "Naumachie", "text": "Eine monumentale römische Mauer mit Nischen, die einst Teil einer Wasseranlage war und eines der ältesten Zeugnisse der Stadt ist.", "category": "monuments", "confidence": "high", "image": "/poi-images/sights/taormina-naumachie.webp", "coords": [15.287516, 37.852611]}, {"name": "Castello Saraceno", "text": "Diese Ruine einer arabisch-normannischen Burg liegt auf dem Berg Tauro und bietet einen Panoramablick über die gesamte Küste.", "category": "castles", "confidence": "high", "image": "/poi-images/sights/taormina-castello-saraceno.webp", "coords": [15.284557, 37.854525]}, {"name": "Spiaggetta delle Sirene", "text": "Die Spiaggetta delle Sirene ist ein kleiner Strand in Taormina.", "category": "recreational", "coords": [15.300485, 37.857774]}, {"name": "Spiaggia dei Greci", "text": "In der atemberaubenden Region von Taormina gelegen, ist die Spiaggia dei Greci ein charmanter Strand, der herrliche Momente am Meer bietet. Besucher lassen sich von den rhythmischen Wellen und der Möglichkeit, in einer solch historischen Küstenkulisse zu schwimmen, in den Bann ziehen. Die Atmosphäre balanciert lokale Lebendigkeit mit Plätzen für ruhiges Ausruhen am Wasser. Um den größten Andrang zu vermeiden, ist ein Besuch am frühen Morgen immer eine großartige Wahl.", "category": "recreational", "coords": [15.271024, 37.818481]}], "hu": [{"name": "Taorminai görög színház", "text": "Ez a Kr. e. 3. századból származó görög-római színház kiváló állapotban maradt fenn, háttérben az Etna fenséges vonulataival.", "category": "theatres", "confidence": "high", "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp", "coords": [15.292124, 37.852453]}, {"name": "Isola Bella", "text": "A város lábánál fekvő apró sziget egy keskeny homokszakaszon érhető el, és gazdag élővilága miatt természetvédelmi terület.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/taormina-isola-bella.webp", "coords": [15.3, 37.85]}, {"name": "Piazza IX Aprile", "text": "A város legelegánsabb tere egy tágas panorámaterasszal, ahonnan csodás kilátás nyílik a Jón-tengerre és a környező tájra.", "category": "squares", "confidence": "high", "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp", "coords": [15.285785, 37.851591]}, {"name": "Corso Umberto", "text": "Taormina nyüzsgő főutcája a történelmi belvároson vezet keresztül, teli elegáns palotákkal, üzletekkel és hangulatos kávézókkal.", "category": "old-town", "confidence": "high", "image": "/poi-images/sights/taormina-corso-umberto.webp", "coords": [15.288715, 37.8541]}, {"name": "Palazzo Corvaja", "text": "A 14. századi lenyűgöző középkori palota ma a szicíliai népművészeti múzeumnak ad otthont, építészete az arab hatásokat tükrözi.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/taormina-palazzo-corvaja.webp", "coords": [15.28848, 37.85394]}, {"name": "Villa Comunale", "text": "A város közparkja egy igazi botanikai ritkaságokkal teli zöld oázis, melyet angol stílusú építmények és kilátók díszítenek.", "category": "parks", "confidence": "high", "image": "/poi-images/sights/taormina-villa-comunale.webp", "coords": [15.289979, 37.850946]}, {"name": "Taorminai dóm", "text": "A 13. században épült Szent Miklós székesegyház erődtemplomra emlékeztet, és a Corso egyik hangulatos terén magasodik.", "category": "cathedrals", "confidence": "high", "image": "/poi-images/sights/taormina-dom-von-taormina.webp", "coords": [15.2828, 37.851]}, {"name": "Naumachie", "text": "Hatalmas római kori fal fülkékkel, mely egykor egy víztározó rendszer része volt, a város egyik legfontosabb antik emléke.", "category": "monuments", "confidence": "high", "image": "/poi-images/sights/taormina-naumachie.webp", "coords": [15.287516, 37.852611]}, {"name": "Saraceno vár", "text": "A Tauro-hegy csúcsán álló arab-normann erőd romjaihoz meredek út vezet, de a kilátás kárpótolja az ide látogatókat.", "category": "castles", "confidence": "high", "image": "/poi-images/sights/taormina-castello-saraceno.webp", "coords": [15.284557, 37.854525]}, {"name": "Spiaggetta delle Sirene", "text": "A Spiaggetta delle Sirene egy kis strand Taorminában.", "category": "recreational", "coords": [15.300485, 37.857774]}, {"name": "Spiaggia dei Greci", "text": "A lenyűgöző Taormina régiójában található Spiaggia dei Greci egy bájos strand, amely nagyszerű tengerparti pillanatokat kínál. A látogatókat rabul ejtik a ritmikusan ringatózó hullámok és az úszás lehetősége egy ilyen történelmi partvidéki környezetben. A hangulat egyensúlyt teremt a helyi pezsgés és a vízparti csendes pihenés terei között. A legnagyobb tömeg elkerülése érdekében egy kora reggeli látogatás mindig kiváló választás.", "category": "recreational", "coords": [15.271024, 37.818481]}], "ro": [{"name": "Teatrul Antic din Taormina", "text": "Acest teatru greco-roman bine conservat din secolul III î.Hr. oferă un decor spectaculos cu Vulcanul Etna în fundal.", "category": "theatres", "confidence": "high", "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp", "coords": [15.292124, 37.852453]}, {"name": "Isola Bella", "text": "O mică insulă situată într-un golf la baza orașului, legată de țărm printr-o fâșie de nisip, fiind o rezervație naturală protejată.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/taormina-isola-bella.webp", "coords": [15.3, 37.85]}, {"name": "Piazza IX Aprile", "text": "Cea mai elegantă piață a orașului, dotată cu o terasă panoramică ce oferă vederi uimitoare asupra mării și munților.", "category": "squares", "confidence": "high", "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp", "coords": [15.285785, 37.851591]}, {"name": "Corso Umberto", "text": "Principala arteră pietonală din Taormina traversează centrul istoric, fiind plină de palate vechi, buticuri și cafenele cochete.", "category": "old-town", "confidence": "high", "image": "/poi-images/sights/taormina-corso-umberto.webp", "coords": [15.288715, 37.8541]}, {"name": "Palazzo Corvaja", "text": "Un palat medieval splendid din secolul al XIV-lea, care găzduiește azi un muzeu de artă și tradiții populare siciliene.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/taormina-palazzo-corvaja.webp", "coords": [15.28848, 37.85394]}, {"name": "Villa Comunale", "text": "Grădina publică a orașului este o oază verde cu plante rare, structuri victoriene și puncte de belvedere superbe.", "category": "parks", "confidence": "high", "image": "/poi-images/sights/taormina-villa-comunale.webp", "coords": [15.289979, 37.850946]}, {"name": "Domul din Taormina", "text": "Catedrala San Nicolò, construită în secolul al XIII-lea, are aspectul unei fortărețe și domină o piață mică de pe Corso.", "category": "cathedrals", "confidence": "high", "image": "/poi-images/sights/taormina-dom-von-taormina.webp", "coords": [15.2828, 37.851]}, {"name": "Naumachie", "text": "Un zid roman monumental cu nișe, care făcea parte dintr-un sistem de apă, fiind unul dintre cele mai vechi vestigii ale orașului.", "category": "monuments", "confidence": "high", "image": "/poi-images/sights/taormina-naumachie.webp", "coords": [15.287516, 37.852611]}, {"name": "Castello Saraceno", "text": "Ruinele castelului arabo-normand situat pe Muntele Tauro oferă o panoramă completă asupra întregii coaste siciliene.", "category": "castles", "confidence": "high", "image": "/poi-images/sights/taormina-castello-saraceno.webp", "coords": [15.284557, 37.854525]}, {"name": "Spiaggetta delle Sirene", "text": "Spiaggetta delle Sirene este o plajă mică din Taormina.", "category": "recreational", "coords": [15.300485, 37.857774]}, {"name": "Spiaggia dei Greci", "text": "Situată în regiunea uimitoare Taormina, Spiaggia dei Greci este o plajă fermecătoare care oferă momente splendide pe litoral. Vizitatorii sunt captivați de valurile ritmice și de oportunitatea de a înota într-un cadru de coastă atât de plin de istorie. Atmosfera echilibrează vibrația locală cu spații pentru a te odihni în liniște lângă apă. Pentru a evita aglomerația de vârf, o vizită dimineața devreme este întotdeauna o alegere excelentă.", "category": "recreational", "coords": [15.271024, 37.818481]}], "en": [{"name": "Ancient Theatre of Taormina", "text": "This well-preserved Greek-Roman theatre from the 3rd century BC hosts summer events with Mount Etna as a dramatic backdrop.", "category": "theatres", "confidence": "high", "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp", "coords": [15.292124, 37.852453]}, {"name": "Isola Bella", "text": "A tiny island in a cove at the foot of the city, connected to the mainland by a sandbar and designated as a nature reserve.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/taormina-isola-bella.webp", "coords": [15.3, 37.85]}, {"name": "Piazza IX Aprile", "text": "The city's most elegant square features a wide panoramic terrace overlooking the Ionian Sea and the surrounding mountains.", "category": "squares", "confidence": "high", "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp", "coords": [15.285785, 37.851591]}, {"name": "Corso Umberto", "text": "Taormina's charming main street runs through the historic center, lined with historic palaces, boutiques, and cozy cafes.", "category": "old-town", "confidence": "high", "image": "/poi-images/sights/taormina-corso-umberto.webp", "coords": [15.288715, 37.8541]}, {"name": "Palazzo Corvaja", "text": "A magnificent 14th-century medieval palace that now houses the Museum of Sicilian Arts and Popular Traditions.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/taormina-palazzo-corvaja.webp", "coords": [15.28848, 37.85394]}, {"name": "Villa Comunale", "text": "The city's public garden is a green oasis filled with rare plants, Victorian structures, and magnificent lookout points.", "category": "parks", "confidence": "high", "image": "/poi-images/sights/taormina-villa-comunale.webp", "coords": [15.289979, 37.850946]}, {"name": "Duomo di Taormina", "text": "Built in the 13th century, the Cathedral of San Nicolò has a fortress-like appearance and stands in a quiet square off the Corso.", "category": "cathedrals", "confidence": "high", "image": "/poi-images/sights/taormina-dom-von-taormina.webp", "coords": [15.2828, 37.851]}, {"name": "Naumachie", "text": "A monumental Roman wall with niches that was once part of a water storage system, one of the oldest relics in the city.", "category": "monuments", "confidence": "high", "image": "/poi-images/sights/taormina-naumachie.webp", "coords": [15.287516, 37.852611]}, {"name": "Saraceno Castle", "text": "The ruins of an Arab-Norman fortress located on Mount Tauro offer a breathtaking panoramic view over the entire coastline.", "category": "castles", "confidence": "high", "image": "/poi-images/sights/taormina-castello-saraceno.webp", "coords": [15.284557, 37.854525]}, {"name": "Spiaggetta delle Sirene", "text": "Spiaggetta delle Sirene is a small beach in Taormina.", "category": "recreational", "coords": [15.300485, 37.857774]}, {"name": "Spiaggia dei Greci", "text": "Located in the stunning region of Taormina, Spiaggia dei Greci is a charming beach offering splendid seaside moments. Visitors are captivated by the rhythmic waves and the opportunity to swim in such a historic coastal setting. The atmosphere balances local vibrancy with spaces to rest quietly by the water. To avoid the peak crowds, an early morning visit is always a great choice.", "category": "recreational", "coords": [15.271024, 37.818481]}]}},
+  {"id": "taormina", "type": "city", "parent": "IT-82", "coords": [15.2917, 37.8536], "population": 10800, "tier": 1, "name": {"de": "Taormina", "hu": "Taormina", "ro": "Taormina", "en": "Taormina"}, "description": {"de": "Taormina thront spektakulär auf einem Felsen über dem Ionischen Meer und bietet einen unvergleichlichen Blick auf den Ätna.", "hu": "A Jón-tenger feletti sziklán trónoló Taormina Szicília legszebb városa, ahol az antik görög színház hátterét maga az Etna adja.", "ro": "Taormina este cocoțată spectaculos pe o stâncă deasupra Mării Ionice, oferind o vedere legendară spre muntele Etna.", "en": "Perched on a cliff high above the Ionian Sea, Taormina is Sicily's premier resort, famous for its ancient theater and Etna views."}, "facts": {"de": ["Antikes Theater", "Blick auf den Ätna", "Isola Bella Insel", "Corso Umberto", "Gärten der Villa Comunale", "Gegründet 396 v. Chr."], "hu": ["Görög színház", "Kilátás az Etnára", "Isola Bella sziget", "Corso Umberto sétálóutca", "Városi park (Villa Comunale)", "Alapítva: i.e. 396"], "ro": ["Teatrul Antic", "Vedere spre Etna", "Insula Isola Bella", "Corso Umberto", "Grădinile Villa Comunale", "Fondat în 396 î.Hr."], "en": ["Ancient Greek Theater", "Mount Etna views", "Isola Bella island", "Corso Umberto main street", "Villa Comunale gardens", "Founded in 396 BC"]}, "image": "/poi-images/taormina.webp", "imageHint": "Ancient Greek theater of Taormina with Mount Etna in the background", "descriptionAdvanced": {"de": "Taormina, die 'Perle Siziliens', blickt auf eine über 2000-jährige Geschichte zurück und liegt auf dem Monte Tauro. Das berühmteste Wahrzeichen ist das Teatro Antico, ein griechisch-römisches Theater, das für seine perfekte Akustik und die dramatische Kulisse mit dem rauchenden Ätna bekannt ist. Die Hauptstraße Corso Umberto führt durch das historische Zentrum, gesäumt von mittelalterlichen Toren und barocken Kirchen. Unterhalb der Stadt liegt die malerische Isola Bella, eine winzige Insel, die über eine schmale Sandbank mit dem Festland verbunden ist. Die Gärten der Villa Comunale bieten eine exotische Oase der Ruhe mit seltenen Pflanzen und viktorianischen Gebäuden. Seit dem 19. Jahrhundert ist Taormina ein Magnet für Schriftsteller wie Oscar Wilde und Filmstars, was dem Ort ein mondänes, zeitloses Flair verleiht. Der Ätna brach 2024 mehrfach zwischen Juli und November aus, mit veränderten Tour-Zonen und zeitweisen Sperrungen oberhalb von 2.500 Metern. Geführte Touren oberhalb der Bergstation sind seither strenger reguliert.", "hu": "Taormina, Szicília ékszerdoboza, a Monte Tauro teraszán fekszik, 200 méterrel a tenger felett. Legismertebb nevezetessége az i.e. 3. században épült görög-római színház, amelynek romjai közül lenyűgöző panoráma nyílik az Etnára és a tengerpartra. A város lüktető szíve a Corso Umberto sétálóutca, ahol elegáns üzletek, cukrászdák és hangulatos terek, mint a Piazza IX Aprile várják a turistákat. A part mentén található Isola Bella apró szigete ma természetvédelmi terület, és apálykor gyalog is megközelíthető. A Villa Comunale közparkja különleges, egzotikus növényvilágával és furcsa építményeivel kínál felfrissülést. A város kulturális jelentőségét növeli a Taormina Film Fest, amely minden évben nemzetközi sztárokat vonz a történelmi falak közé. Az Etna 2024 július-novembere között többször kitört, a túrázható zónák módosultak, 2500 méter felett időnként lezárások voltak. A felső állomás feletti túrák azóta szigorúbban szabályozottak.", "ro": "Taormina, supranumită 'perla Siciliei', este situată pe o terasă naturală a Muntelui Tauro, la 200 de metri deasupra mării. Atractia principală este Teatrul Antic, construit de greci și extins de romani, care oferă unul dintre cele mai fotografiate decoruri din lume: coloanele antice încadrate de vulcanul Etna. Inima orașului este Corso Umberto, o stradă pietonală plină de viață, porți medievale și piațete panoramice precum Piazza IX Aprile. La baza stâncii se află Isola Bella, o rezervație naturală legată de uscat printr-o fâșie subțire de nisip. Grădinile publice Villa Comunale sunt renumite pentru stilul lor eclectic și speciile botanice rare. Încă din perioada Grand Tour, Taormina a fascinat elitele intelectuale europene, rămânând până astăzi cea mai sofisticată destinație siciliană. Etna a erupt de mai multe ori în iulie-noiembrie 2024, cu zone de tură modificate și închideri temporare peste 2.500 de metri. Excursiile ghidate deasupra stației superioare sunt acum reglementate mai strict.", "en": "Taormina, often called the 'Pearl of Sicily', sits on a natural terrace of Mount Tauro, 200 meters above the sea. Its crown jewel is the Ancient Theater, a 3rd-century BC Greco-Roman structure that still hosts performances today, set against the breathtaking backdrop of Mount Etna. The town's social life revolves around Corso Umberto, a vibrant pedestrian street filled with luxury boutiques, cafes, and historic gates like Porta Messina. Below the cliffs lies Isola Bella, a tiny island and nature reserve connected to the shore by a narrow strip of sand. The Villa Comunale public gardens offer a lush retreat with exotic plants and unique architectural follies. A magnet for celebrities and writers since the 19th century, Taormina combines ancient history with a glamorous, cosmopolitan atmosphere. Mount Etna erupted multiple times between July and November 2024, with shifting tour zones and temporary closures above 2,500 metres. Guided tours above the upper station are now more strictly regulated."}, "factsAdvanced": {"de": ["Gegründet von Griechen (396 v. Chr.)", "Teatro Antico Kapazität: 5000", "Höhe: 204 Meter über dem Meer", "10.800 Einwohner", "Isola Bella Naturschutzgebiet", "Blick auf den höchsten Vulkan Europas", "Palazzo Corvaia (14. Jh.)", "Gastgeber des G7-Gipfels 2017"], "hu": ["Görög alapítás: i.e. 396", "Görög színház befogadóképessége: 5000 fő", "Tengerszint feletti magasság: 204m", "Lakosság: kb. 10.800 fő", "Isola Bella: természetvédelmi terület", "Kilátás Európa legmagasabb vulkánjára", "Palazzo Corvaia: 14. század", "Híres filmfesztivál helyszíne"], "ro": ["Fondat de greci (396 î.Hr.)", "Capacitate Teatrul Antic: 5000 locuri", "Altitudine: 204 metri", "Populație: 10.800 locuitori", "Isola Bella: rezervație naturală", "Vedere spre cel mai înalt vulcan activ", "Palazzo Corvaia (sec. XIV)", "Gazda summitului G7 din 2017"], "en": ["Founded by Greeks (396 BC)", "Ancient Theater capacity: 5,000", "Elevation: 204 meters", "Population: approx. 10,800", "Isola Bella nature reserve", "Views of Europe's highest volcano", "14th-century Palazzo Corvaia", "Hosted the 2017 G7 summit"]}, "sights": {
+      "de": [
+            {
+                  "name": "Antikes Theater von Taormina",
+                  "text": "Dieses gut erhaltene griechisch-römische Theater aus dem 3. Jh. v. Chr. bietet eine spektakuläre Kulisse mit Blick auf den Ätna.",
+                  "category": "theatres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp",
+                  "coords": [
+                        15.292124,
+                        37.852453
+                  ]
+            },
+            {
+                  "name": "Isola Bella",
+                  "text": "Eine kleine Insel in einer Bucht am Fuße der Stadt, die durch eine Sandbank mit dem Festland verbunden und ein Naturschutzgebiet ist.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-isola-bella.webp",
+                  "coords": [
+                        15.3,
+                        37.85
+                  ]
+            },
+            {
+                  "name": "Piazza IX Aprile",
+                  "text": "Der eleganteste Platz der Stadt mit einer Aussichtsterrasse, von der man das Meer und die Berge überblicken kann.",
+                  "category": "squares",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp",
+                  "coords": [
+                        15.285785,
+                        37.851591
+                  ]
+            },
+            {
+                  "name": "Corso Umberto",
+                  "text": "Die charmante Hauptstraße Taorminas führt durch die Altstadt und ist gesäumt von Palästen, Boutiquen und gemütlichen Cafés.",
+                  "category": "old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-corso-umberto.webp",
+                  "coords": [
+                        15.288715,
+                        37.8541
+                  ]
+            },
+            {
+                  "name": "Palazzo Corvaja",
+                  "text": "Ein prächtiger mittelalterlicher Palast aus dem 14. Jahrhundert, der heute als Museum für sizilianische Kunst und Traditionen dient.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-palazzo-corvaja.webp",
+                  "coords": [
+                        15.28848,
+                        37.85394
+                  ]
+            },
+            {
+                  "name": "Villa Comunale",
+                  "text": "Der öffentliche Garten der Stadt ist eine grüne Oase mit seltenen Pflanzen, viktorianischen Bauwerken und herrlichen Aussichtspunkten.",
+                  "category": "parks",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-villa-comunale.webp",
+                  "coords": [
+                        15.289979,
+                        37.850946
+                  ]
+            },
+            {
+                  "name": "Dom von Taormina",
+                  "text": "Die im 13. Jahrhundert erbaute Kathedrale San Nicolò ähnelt einer Festung und steht stolz auf einem kleinen Platz am Corso.",
+                  "category": "cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-dom-von-taormina.webp",
+                  "coords": [
+                        15.2828,
+                        37.851
+                  ]
+            },
+            {
+                  "name": "Naumachie",
+                  "text": "Eine monumentale römische Mauer mit Nischen, die einst Teil einer Wasseranlage war und eines der ältesten Zeugnisse der Stadt ist.",
+                  "category": "monuments",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-naumachie.webp",
+                  "coords": [
+                        15.287516,
+                        37.852611
+                  ]
+            },
+            {
+                  "name": "Castello Saraceno",
+                  "text": "Diese Ruine einer arabisch-normannischen Burg liegt auf dem Berg Tauro und bietet einen Panoramablick über die gesamte Küste.",
+                  "category": "castles",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-castello-saraceno.webp",
+                  "coords": [
+                        15.284557,
+                        37.854525
+                  ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "Die Spiaggetta delle Sirene ist ein kleiner Strand in Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "In der atemberaubenden Region von Taormina gelegen, ist die Spiaggia dei Greci ein charmanter Strand, der herrliche Momente am Meer bietet. Besucher lassen sich von den rhythmischen Wellen und der Möglichkeit, in einer solch historischen Küstenkulisse zu schwimmen, in den Bann ziehen. Die Atmosphäre balanciert lokale Lebendigkeit mit Plätzen für ruhiges Ausruhen am Wasser. Um den größten Andrang zu vermeiden, ist ein Besuch am frühen Morgen immer eine großartige Wahl.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
+                  ]
+            },
+            {
+                  "name": "Mazzaro",
+                  "text": "Ein bekannter Kiesstrand in Taormina, der unterhalb des historischen Zentrums liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301494,
+                        37.855606
+                  ]
+            },
+            {
+                  "name": "Spisone",
+                  "text": "Ein weitläufiger Strandbereich in Taormina, der für sein klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297,
+                        37.864438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taorminai görög színház",
+                  "text": "Ez a Kr. e. 3. századból származó görög-római színház kiváló állapotban maradt fenn, háttérben az Etna fenséges vonulataival.",
+                  "category": "theatres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp",
+                  "coords": [
+                        15.292124,
+                        37.852453
+                  ]
+            },
+            {
+                  "name": "Isola Bella",
+                  "text": "A város lábánál fekvő apró sziget egy keskeny homokszakaszon érhető el, és gazdag élővilága miatt természetvédelmi terület.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-isola-bella.webp",
+                  "coords": [
+                        15.3,
+                        37.85
+                  ]
+            },
+            {
+                  "name": "Piazza IX Aprile",
+                  "text": "A város legelegánsabb tere egy tágas panorámaterasszal, ahonnan csodás kilátás nyílik a Jón-tengerre és a környező tájra.",
+                  "category": "squares",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp",
+                  "coords": [
+                        15.285785,
+                        37.851591
+                  ]
+            },
+            {
+                  "name": "Corso Umberto",
+                  "text": "Taormina nyüzsgő főutcája a történelmi belvároson vezet keresztül, teli elegáns palotákkal, üzletekkel és hangulatos kávézókkal.",
+                  "category": "old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-corso-umberto.webp",
+                  "coords": [
+                        15.288715,
+                        37.8541
+                  ]
+            },
+            {
+                  "name": "Palazzo Corvaja",
+                  "text": "A 14. századi lenyűgöző középkori palota ma a szicíliai népművészeti múzeumnak ad otthont, építészete az arab hatásokat tükrözi.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-palazzo-corvaja.webp",
+                  "coords": [
+                        15.28848,
+                        37.85394
+                  ]
+            },
+            {
+                  "name": "Villa Comunale",
+                  "text": "A város közparkja egy igazi botanikai ritkaságokkal teli zöld oázis, melyet angol stílusú építmények és kilátók díszítenek.",
+                  "category": "parks",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-villa-comunale.webp",
+                  "coords": [
+                        15.289979,
+                        37.850946
+                  ]
+            },
+            {
+                  "name": "Taorminai dóm",
+                  "text": "A 13. században épült Szent Miklós székesegyház erődtemplomra emlékeztet, és a Corso egyik hangulatos terén magasodik.",
+                  "category": "cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-dom-von-taormina.webp",
+                  "coords": [
+                        15.2828,
+                        37.851
+                  ]
+            },
+            {
+                  "name": "Naumachie",
+                  "text": "Hatalmas római kori fal fülkékkel, mely egykor egy víztározó rendszer része volt, a város egyik legfontosabb antik emléke.",
+                  "category": "monuments",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-naumachie.webp",
+                  "coords": [
+                        15.287516,
+                        37.852611
+                  ]
+            },
+            {
+                  "name": "Saraceno vár",
+                  "text": "A Tauro-hegy csúcsán álló arab-normann erőd romjaihoz meredek út vezet, de a kilátás kárpótolja az ide látogatókat.",
+                  "category": "castles",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-castello-saraceno.webp",
+                  "coords": [
+                        15.284557,
+                        37.854525
+                  ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "A Spiaggetta delle Sirene egy kis strand Taorminában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "A lenyűgöző Taormina régiójában található Spiaggia dei Greci egy bájos strand, amely nagyszerű tengerparti pillanatokat kínál. A látogatókat rabul ejtik a ritmikusan ringatózó hullámok és az úszás lehetősége egy ilyen történelmi partvidéki környezetben. A hangulat egyensúlyt teremt a helyi pezsgés és a vízparti csendes pihenés terei között. A legnagyobb tömeg elkerülése érdekében egy kora reggeli látogatás mindig kiváló választás.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
+                  ]
+            },
+            {
+                  "name": "Mazzaro",
+                  "text": "Taormina híres kavicsos strandja, amely a történelmi városközpont alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301494,
+                        37.855606
+                  ]
+            },
+            {
+                  "name": "Spisone",
+                  "text": "Taormina tágas tengerparti szakasza, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297,
+                        37.864438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatrul Antic din Taormina",
+                  "text": "Acest teatru greco-roman bine conservat din secolul III î.Hr. oferă un decor spectaculos cu Vulcanul Etna în fundal.",
+                  "category": "theatres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp",
+                  "coords": [
+                        15.292124,
+                        37.852453
+                  ]
+            },
+            {
+                  "name": "Isola Bella",
+                  "text": "O mică insulă situată într-un golf la baza orașului, legată de țărm printr-o fâșie de nisip, fiind o rezervație naturală protejată.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-isola-bella.webp",
+                  "coords": [
+                        15.3,
+                        37.85
+                  ]
+            },
+            {
+                  "name": "Piazza IX Aprile",
+                  "text": "Cea mai elegantă piață a orașului, dotată cu o terasă panoramică ce oferă vederi uimitoare asupra mării și munților.",
+                  "category": "squares",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp",
+                  "coords": [
+                        15.285785,
+                        37.851591
+                  ]
+            },
+            {
+                  "name": "Corso Umberto",
+                  "text": "Principala arteră pietonală din Taormina traversează centrul istoric, fiind plină de palate vechi, buticuri și cafenele cochete.",
+                  "category": "old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-corso-umberto.webp",
+                  "coords": [
+                        15.288715,
+                        37.8541
+                  ]
+            },
+            {
+                  "name": "Palazzo Corvaja",
+                  "text": "Un palat medieval splendid din secolul al XIV-lea, care găzduiește azi un muzeu de artă și tradiții populare siciliene.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-palazzo-corvaja.webp",
+                  "coords": [
+                        15.28848,
+                        37.85394
+                  ]
+            },
+            {
+                  "name": "Villa Comunale",
+                  "text": "Grădina publică a orașului este o oază verde cu plante rare, structuri victoriene și puncte de belvedere superbe.",
+                  "category": "parks",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-villa-comunale.webp",
+                  "coords": [
+                        15.289979,
+                        37.850946
+                  ]
+            },
+            {
+                  "name": "Domul din Taormina",
+                  "text": "Catedrala San Nicolò, construită în secolul al XIII-lea, are aspectul unei fortărețe și domină o piață mică de pe Corso.",
+                  "category": "cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-dom-von-taormina.webp",
+                  "coords": [
+                        15.2828,
+                        37.851
+                  ]
+            },
+            {
+                  "name": "Naumachie",
+                  "text": "Un zid roman monumental cu nișe, care făcea parte dintr-un sistem de apă, fiind unul dintre cele mai vechi vestigii ale orașului.",
+                  "category": "monuments",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-naumachie.webp",
+                  "coords": [
+                        15.287516,
+                        37.852611
+                  ]
+            },
+            {
+                  "name": "Castello Saraceno",
+                  "text": "Ruinele castelului arabo-normand situat pe Muntele Tauro oferă o panoramă completă asupra întregii coaste siciliene.",
+                  "category": "castles",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-castello-saraceno.webp",
+                  "coords": [
+                        15.284557,
+                        37.854525
+                  ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "Spiaggetta delle Sirene este o plajă mică din Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "Situată în regiunea uimitoare Taormina, Spiaggia dei Greci este o plajă fermecătoare care oferă momente splendide pe litoral. Vizitatorii sunt captivați de valurile ritmice și de oportunitatea de a înota într-un cadru de coastă atât de plin de istorie. Atmosfera echilibrează vibrația locală cu spații pentru a te odihni în liniște lângă apă. Pentru a evita aglomerația de vârf, o vizită dimineața devreme este întotdeauna o alegere excelentă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
+                  ]
+            },
+            {
+                  "name": "Mazzaro",
+                  "text": "O plajă faimoasă cu pietriș în Taormina, situată sub centrul istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301494,
+                        37.855606
+                  ]
+            },
+            {
+                  "name": "Spisone",
+                  "text": "O zonă de plajă spațioasă în Taormina, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297,
+                        37.864438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancient Theatre of Taormina",
+                  "text": "This well-preserved Greek-Roman theatre from the 3rd century BC hosts summer events with Mount Etna as a dramatic backdrop.",
+                  "category": "theatres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-antikes-theater-von-taormina.webp",
+                  "coords": [
+                        15.292124,
+                        37.852453
+                  ]
+            },
+            {
+                  "name": "Isola Bella",
+                  "text": "A tiny island in a cove at the foot of the city, connected to the mainland by a sandbar and designated as a nature reserve.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-isola-bella.webp",
+                  "coords": [
+                        15.3,
+                        37.85
+                  ]
+            },
+            {
+                  "name": "Piazza IX Aprile",
+                  "text": "The city's most elegant square features a wide panoramic terrace overlooking the Ionian Sea and the surrounding mountains.",
+                  "category": "squares",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-piazza-ix-aprile.webp",
+                  "coords": [
+                        15.285785,
+                        37.851591
+                  ]
+            },
+            {
+                  "name": "Corso Umberto",
+                  "text": "Taormina's charming main street runs through the historic center, lined with historic palaces, boutiques, and cozy cafes.",
+                  "category": "old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-corso-umberto.webp",
+                  "coords": [
+                        15.288715,
+                        37.8541
+                  ]
+            },
+            {
+                  "name": "Palazzo Corvaja",
+                  "text": "A magnificent 14th-century medieval palace that now houses the Museum of Sicilian Arts and Popular Traditions.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-palazzo-corvaja.webp",
+                  "coords": [
+                        15.28848,
+                        37.85394
+                  ]
+            },
+            {
+                  "name": "Villa Comunale",
+                  "text": "The city's public garden is a green oasis filled with rare plants, Victorian structures, and magnificent lookout points.",
+                  "category": "parks",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-villa-comunale.webp",
+                  "coords": [
+                        15.289979,
+                        37.850946
+                  ]
+            },
+            {
+                  "name": "Duomo di Taormina",
+                  "text": "Built in the 13th century, the Cathedral of San Nicolò has a fortress-like appearance and stands in a quiet square off the Corso.",
+                  "category": "cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-dom-von-taormina.webp",
+                  "coords": [
+                        15.2828,
+                        37.851
+                  ]
+            },
+            {
+                  "name": "Naumachie",
+                  "text": "A monumental Roman wall with niches that was once part of a water storage system, one of the oldest relics in the city.",
+                  "category": "monuments",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-naumachie.webp",
+                  "coords": [
+                        15.287516,
+                        37.852611
+                  ]
+            },
+            {
+                  "name": "Saraceno Castle",
+                  "text": "The ruins of an Arab-Norman fortress located on Mount Tauro offer a breathtaking panoramic view over the entire coastline.",
+                  "category": "castles",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/taormina-castello-saraceno.webp",
+                  "coords": [
+                        15.284557,
+                        37.854525
+                  ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "Spiaggetta delle Sirene is a small beach in Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "Located in the stunning region of Taormina, Spiaggia dei Greci is a charming beach offering splendid seaside moments. Visitors are captivated by the rhythmic waves and the opportunity to swim in such a historic coastal setting. The atmosphere balances local vibrancy with spaces to rest quietly by the water. To avoid the peak crowds, an early morning visit is always a great choice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
+                  ]
+            },
+            {
+                  "name": "Mazzaro beach",
+                  "text": "A famous pebbly beach in Taormina located below the historic town center.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301494,
+                        37.855606
+                  ]
+            },
+            {
+                  "name": "Spisone",
+                  "text": "A spacious beach area in Taormina known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297,
+                        37.864438
+                  ]
+            }
+      ]
+}},
   {"id": "torino", "type": "city", "parent": "IT-21", "coords": [7.6869, 45.0703], "population": 848000, "tier": 1, "name": {"de": "Turin", "hu": "Torino", "ro": "Torino", "en": "Turin"}, "description": {"de": "Turin ist das elegante Zentrum des Piemonts, bekannt für seine barocke Architektur, die Automobilindustrie und als erste Hauptstadt Italiens.", "hu": "Torino az észak-olaszországi Piemont régió fővárosa, a barokk építészet, a Fiat autógyártás és az olasz egység történelmi bölcsője.", "ro": "Torino este capitala regiunii Piemont, un oraș elegant renumit pentru palatele sale baroce, industria auto Fiat și istoria sa regală.", "en": "Turin is the sophisticated capital of Piedmont, famous for its baroque architecture, the Fiat automotive industry, and as Italy's first capital."}, "facts": {"de": ["Hauptstadt der Region Piemont", "Erste Hauptstadt Italiens (1861)", "Heimat der Automarke FIAT", "Sitz des Ägyptischen Museums", "Austragungsort der Winterspiele 2006", "Bekannt für Gianduja-Schokolade", "Standort der Mole Antonelliana", "Liegt am Fluss Po"], "hu": ["Piemont régió központja", "Az egyesült Olaszország első fővárosa", "A FIAT autógyár székhelye", "Itt található az Egyiptomi Múzeum", "A 2006-os téli olimpia helyszíne", "A mogyorós csokoládé hazája", "A 167 méteres Mole Antonelliana városa", "A Pó folyó partján fekszik"], "ro": ["Capitala regiunii Piemont", "Prima capitală a Italiei unite", "Sediul constructorului auto FIAT", "Găzduiește Muzeul Egiptean", "Gazda Jocurilor Olimpice de Iarnă 2006", "Renumit pentru ciocolata Gianduja", "Simbolul orașului este Mole Antonelliana", "Traversat de râul Po"], "en": ["Capital city of the Piedmont region", "First capital of unified Italy", "Headquarters of FIAT automobiles", "Home to the Egyptian Museum", "Host of the 2006 Winter Olympics", "Birthplace of Gianduja chocolate", "Site of the iconic Mole Antonelliana", "Located on the banks of the Po River"]}, "image": "/poi-images/torino.webp", "imageHint": "Elegant piazza in Turin with baroque architecture and the Mole Antonelliana", "descriptionAdvanced": {"de": "Turin, die Hauptstadt der Region Piemont, ist eine Stadt von aristokratischer Eleganz und industrieller Stärke. Oft im Schatten von Rom oder Mailand übersehen, besitzt Turin einen einzigartigen Charme mit seinen barocken Palästen, von Arkaden gesäumten Straßen und historischen Cafés. Als erste Hauptstadt des vereinten Italiens und Stammsitz des Hauses Savoyen ist die Stadt reich an Geschichte. Die Mole Antonelliana, ein Wahrzeichen der Stadt, beherbergt das Nationale Kinomuseum und bietet von ihrer Spitze einen Panoramablick. Turin ist auch die Heimat des weltberühmten Ägyptischen Museums, das die zweitgrößte Sammlung ägyptischer Altertümer nach Kairo besitzt. Die Stadt ist untrennbar mit der Automobilindustrie verbunden, als Geburtsort von Fiat; das ehemalige Lingotto-Werk mit seiner Teststrecke auf dem Dach ist ein beeindruckendes Beispiel für Industriearchitektur. Feinschmecker schätzen Turin als Hauptstadt des Aperitifs und der Schokolade, insbesondere des Gianduiotto. Die Atmosphäre ist eine Mischung aus königlicher Gelassenheit und urbaner Dynamik, was die Stadt zu einem faszinierenden Ziel für Kultur-, Geschichts- und Genussliebhaber macht.", "hu": "Torinó, Piemont régió fővárosa, az arisztokratikus elegancia és az ipari erő városa. Gyakran Róma vagy Milánó árnyékában marad, pedig Torinó egyedi bájjal rendelkezik barokk palotáival, árkádos utcáival és történelmi kávéházaival. Az egyesült Olaszország első fővárosaként és a Savoyai-ház székhelyeként a város gazdag történelemmel büszkélkedhet. A Mole Antonelliana, a város jelképe, a Nemzeti Filmmúzeumnak ad otthont, és csúcsáról panorámás kilátást nyújt. Torinó ad otthont a világhírű Egyiptomi Múzeumnak is, amely Kairó után a második legnagyobb egyiptomi régiséggyűjteménnyel rendelkezik. A város elválaszthatatlanul kötődik az autóiparhoz, mint a Fiat szülőhelye; a korábbi Lingotto-gyár a tetőn lévő tesztpályájával az ipari építészet lenyűgöző példája. Az ínyencek Torinót az aperitif és a csokoládé, különösen a gianduiotto fővárosaként tartják számon. A hangulat a királyi nyugalom és a városi dinamizmus keveréke, ami a várost a kultúra, a történelem és az ízek szerelmeseinek lenyűgöző célpontjává teszi.", "ro": "Torino, capitala regiunii Piemont, este un oraș de o eleganță aristocratică și putere industrială. Adesea trecut cu vederea în umbra Romei sau a Milanului, Torino posedă un farmec unic, cu palatele sale baroce, străzile mărginite de arcade și cafenelele istorice. Fiind prima capitală a Italiei unite și sediul Casei de Savoia, orașul este bogat în istorie. Mole Antonelliana, un simbol al orașului, găzduiește Muzeul Național al Cinematografiei și oferă vederi panoramice de la vârf. Torino este, de asemenea, casa faimosului Muzeu Egiptean, care deține a doua cea mai mare colecție de antichități egiptene după Cairo. Orașul este indisolubil legat de industria auto, fiind locul de naștere al Fiat; fosta fabrică Lingotto, cu pista sa de testare de pe acoperiș, este un exemplu impresionant de arhitectură industrială. Gurmanzii apreciază Torino ca fiind capitala aperitivului și a ciocolatei, în special a gianduiotto. Atmosfera este un amestec de seninătate regală și dinamism urban, făcând din oraș o destinație fascinantă pentru iubitorii de cultură, istorie și gastronomie.", "en": "Turin, the capital of the Piedmont region, is a city of aristocratic elegance and industrial might. Often overlooked in favour of Rome or Milan, Turin possesses a unique charm with its Baroque palaces, arcaded streets, and historic cafés. As the first capital of unified Italy and the seat of the House of Savoy, the city is steeped in history. The Mole Antonelliana, a landmark building, houses the National Cinema Museum and offers panoramic views from its summit. Turin is also home to the world-renowned Egyptian Museum, which boasts the second-largest collection of Egyptian antiquities after Cairo. The city is inextricably linked to the automotive industry as the birthplace of Fiat; the former Lingotto factory with its rooftop test track is an impressive example of industrial architecture. Food lovers cherish Turin as the capital of the aperitivo and for its chocolate, particularly the gianduiotto. The atmosphere is a blend of regal composure and urban dynamism, making it a captivating destination for enthusiasts of culture, history, and fine food."}, "factsAdvanced": {"de": ["Mole Antonelliana ist 167,5 Meter hoch", "FIAT wurde hier im Jahr 1899 gegründet", "Das Ägyptische Museum besteht seit 1824", "18 km Arkadengänge im Stadtzentrum", "Sitz der Universität Turin (gegr. 1404)", "Entfernung zu Mailand: ca. 140 Kilometer"], "hu": ["A Mole Antonelliana magassága 167,5 méter", "A FIAT gyárat 1899-ben alapították itt", "Az Egyiptomi Múzeum 1824 óta működik", "18 kilométernyi fedett árkádos sétány", "Egyetemét 1404-ben alapították", "Milánótól való távolsága kb. 140 km"], "ro": ["Mole Antonelliana are o înălțime de 167,5 metri", "Compania FIAT a fost fondată aici în 1899", "Muzeul Egiptean a fost inaugurat în 1824", "Orașul are 18 km de galerii cu arcade", "Universitatea locală a fost fondată în 1404", "Distanța până la Milano este de circa 140 km"], "en": ["Mole Antonelliana stands 167.5 meters tall", "FIAT was founded here in the year 1899", "The Egyptian Museum was established in 1824", "18 km of covered arcades in the center", "University of Turin founded in 1404", "Distance to Milan: approximately 140 km"]}, "sights": {
       "de": [
             {
@@ -19120,7 +21323,692 @@ export const poiExtraItalyV2: POI[] = [
             }
       ]
 }},
-  {"id": "tropea", "type": "city", "parent": "IT-78", "coords": [15.8967, 38.6772], "population": 6300, "tier": 1, "name": {"de": "Tropea", "hu": "Tropea", "ro": "Tropea", "en": "Tropea"}, "description": {"de": "Die Perle des Tyrrhenischen Meeres beeindruckt mit ihrer auf einem Felsen erbauten Altstadt und der ikonischen Wallfahrtskirche auf einer Inselklippe.", "hu": "A Tirrén-tenger gyöngyszeme, amely egy magas sziklataszon elterülő óvárosáról és a tengerből kiemelkedő zátonyon álló kegytemplomáról híres.", "ro": "Perla Marii Tireniene impresionează prin centrul său istoric construit pe o stâncă înaltă și prin biserica iconică situată pe un promontoriu stâncos.", "en": "The Pearl of the Tyrrhenian Sea is famous for its cliff-top historic center and the iconic Santa Maria dell'Isola church perched on a rocky outcrop."}, "facts": {"de": ["Süße rote Zwiebeln", "Santa Maria dell'Isola", "Türkisblaues Wasser", "Blick auf Stromboli", "Antike Herkules-Legende", "Normannische Kathedrale", "Steile Felsklippen", "Sonnige Kalabrien-Küste"], "hu": ["Édes vöröshagyma", "Santa Maria dell'Isola", "Türkiszkék víz", "Kilátás a Strombolira", "Herkules alapítási legenda", "Normann katedrális", "Függőleges sziklafalak", "Kalábriai napsütés"], "ro": ["Ceapă roșie dulce", "Santa Maria dell'Isola", "Ape turcoaz", "Vedere către Stromboli", "Legenda lui Hercule", "Catedrală normandă", "Stânci abrupte", "Costa degli Dei"], "en": ["Sweet red onions", "Santa Maria dell'Isola", "Turquoise waters", "View of Stromboli", "Legendary Hercules origin", "Norman Cathedral", "Sheer vertical cliffs", "Costa degli Dei location"]}, "image": "/poi-images/tropea.webp", "imageHint": "Sanctuary of Santa Maria dell'Isola on a rock surrounded by turquoise sea", "descriptionAdvanced": {"de": "Tropea gilt als einer der schönsten Orte Kalabriens und wird oft als die \"Perle des Tyrrhenischen Meeres\" bezeichnet. Die Stadt thront auf einem etwa 60 Meter hohen Tuffsteinfelsen direkt an der Küste der Götter (Costa degli Dei). Das Wahrzeichen ist die Wallfahrtskirche Santa Maria dell'Isola, die auf einem vorgelagerten Sandsteinfelsen steht, der einst eine Insel war. Die Altstadt ist geprägt von prachtvollen Adelspalästen aus dem 17. und 18. Jahrhundert, die direkt an den Abgrund gebaut wurden. Berühmt ist Tropea auch für seine Gastronomie, insbesondere für die \"Cipolla Rossa di Tropea\", eine süße rote Zwiebel, die weltweit geschätzt wird. Von den zahlreichen Aussichtspunkten der Stadt, wie dem Largo Migliarese, hat man an klaren Tagen einen spektakulären Blick auf die Vulkaninsel Stromboli. Die Kombination aus antiker Geschichte, kristallklarem Wasser und dramatischer Geografie macht Tropea zu einem Magneten für Reisende aus aller Welt.", "hu": "Tropea Kalábria tartományának legfényesebb ékköve, amelyet méltán neveznek a Tirrén-tenger gyöngyszemének. A város egy lenyűgöző, 60 méter magas tufasziklára épült, amely függőlegesen szakad le a fehér homokos partokhoz. Legismertebb jelképe a Santa Maria dell'Isola bencés kegytemplom, amely egy magányos sziklaszigeten áll a tengerben. Az óváros nemesi palotái szinte a szakadék szélén egyensúlyoznak, szűk utcáikban pedig ott terjeng a híres „Cipolla Rossa di Tropea”, azaz a helyi édes vöröshagyma illata. Tiszta időben a város panoráma-teraszaiból jól látható az Aeoli-szigetek és a pöfögő Stromboli vulkán. A legenda szerint maga Herkules alapította a várost, amikor visszatért Spanyolországból. A kristálytiszta, azúrkék víz és a drámai sziklafalak találkozása Tropeát Olaszország egyik legfotogénebb és legkedveltebb tengerparti célpontjává tette.", "ro": "Tropea este considerată bijuteria Calabriei și este adesea numită \"Perla Marii Tireniene\". Orașul este situat pe o stâncă de tuf de 60 de metri înălțime, oferind o vedere spectaculoasă asupra plajelor cu nisip alb și a apei cristaline de pe Costa degli Dei. Simbolul orașului este sanctuarul Santa Maria dell'Isola, cocoțat pe un promontoriu care în trecut era o insulă. Centrul istoric este plin de palate nobiliare din secolele XVII-XVIII, construite chiar pe marginea prăpastiei. Gastronomia locală este renumită pentru \"Cipolla Rossa di Tropea\", o ceapă roșie dulce protejată IGP, care se regăsește în majoritatea preparatelor locale. De pe terasele panoramice ale orașului, în zilele senine, se pot vedea Insulele Eoliene și vulcanul Stromboli. Cu o istorie ce se pierde în legendele despre Hercule, Tropea îmbină perfect farmecul medieval cu frumusețea naturală brută a coastei italiene.", "en": "Tropea is arguably Calabria's most beautiful town, earning the title \"Pearl of the Tyrrhenian Sea\". The city is built upon a 60-meter-high tuff rock plateau that drops vertically into the white sandy beaches below. Its most famous landmark is the Sanctuary of Santa Maria dell'Isola, a Benedictine church standing on a rocky outcrop that was once an island. The historic center features grand 17th and 18th-century noble palaces that lean precariously over the cliff's edge. Tropea is also a culinary hotspot, famous for its sweet red onions, \"Cipolla Rossa di Tropea,\" which are celebrated with their own festival. On clear days, the town's numerous viewing points offer stunning vistas across the sea to the volcanic island of Stromboli. Combining mythical origins—legend says it was founded by Hercules—with dramatic geography and vibrant Mediterranean life, Tropea is a cornerstone of southern Italian tourism."}, "factsAdvanced": {"de": ["Die Stadt liegt auf einem 60 Meter hohen Tuffsteinfelsen über dem Meer.", "Die Cipolla Rossa di Tropea (rote Zwiebel) besitzt seit 2008 den EU-Schutzstatus IGP.", "Die Kathedrale von Tropea wurde im 12. Jahrhundert von den Normannen erbaut.", "Der Stromboli-Vulkan ist etwa 60 Kilometer Luftlinie von der Küste entfernt.", "Im Jahr 2021 wurde Tropea zum schönsten Dorf Italiens (Borgo dei Borghi) gewählt.", "Die Küstenlinie wird offiziell als Costa degli Dei (Küste der Götter) bezeichnet."], "hu": ["A város egy 60 méter magas tufasziklán fekszik a tengerpart felett.", "A troperai vöröshagyma 2008 óta élvez európai uniós eredetvédelmet (IGP).", "A város normann katedrálisa a 12. századból származik.", "A Stromboli-vulkán körülbelül 60 kilométerre található a parttól.", "2021-ben Tropeát választották Olaszország legszebb falvának (Borgo dei Borghi).", "A partvidék hivatalos neve Costa degli Dei, azaz az Istenek partja."], "ro": ["Orașul este situat pe o stâncă de tuf înaltă de 60 de metri.", "Ceapa roșie de Tropea deține statutul de protecție IGP din anul 2008.", "Catedrala normandă din oraș a fost construită în secolul al XII-lea.", "Vulcanul Stromboli se află la o distanță de aproximativ 60 km în linie dreaptă.", "În 2021, Tropea a fost desemnat cel mai frumos sat din Italia (Borgo dei Borghi).", "Linia de coastă pe care se află orașul este cunoscută sub numele de Costa degli Dei."], "en": ["The town sits on a tuff rock plateau 60 meters above sea level.", "The Tropea red onion has held the EU's PGI (IGP) protected status since 2008.", "The Norman Cathedral of Tropea dates back to the 12th century.", "Mount Stromboli is approximately 60 kilometers away across the sea.", "Tropea was voted Italy's most beautiful village (Borgo dei Borghi) in 2021.", "The local coastline is officially known as the Costa degli Dei (Coast of the Gods)."]}, "sights": {"de": [{"name": "Santa Maria dell'Isola", "text": "Die ikonische Wallfahrtskirche thront auf einem markanten Sandsteinfelsen direkt am Tyrrhenischen Meer und ist das Wahrzeichen von Tropea.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp", "coords": [15.895542, 38.679978]}, {"name": "Cattedrale di Tropea", "text": "Die normannische Kathedrale aus dem 12. Jahrhundert beherbergt das verehrte Bildnis der Madonna di Romania, der Schutzpatronin der Stadt.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp", "coords": [15.898874, 38.677872]}, {"name": "Affaccio Raf Vallone", "text": "Dieser Aussichtspunkt bietet ein atemberaubendes Panorama auf den Strand und das azurblaue Meer bis hin zur Insel Stromboli.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp", "coords": [15.897612, 38.679673]}, {"name": "Museo Diocesano", "text": "Das Museum im alten Bischofspalast zeigt eine wertvolle Sammlung sakraler Kunst, Silberwaren und Statuen aus verschiedenen Epochen.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/tropea-museo-diocesano.webp", "coords": [15.898426, 38.678151]}, {"name": "Grotta del Palombaro", "text": "Eine wunderschöne Meereshöhle am Fuße des Kaps, die nur schwimmend oder mit dem Boot erreichbar ist und klares Wasser bietet.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp", "coords": [15.895821, 38.680561]}, {"name": "Corso Vittorio Emanuele", "text": "Die lebhafte Hauptstraße der Altstadt lädt mit vielen Boutiquen, Restaurants und dem Duft der berühmten roten Zwiebeln zum Bummeln ein.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp", "coords": [15.897335, 38.677263]}, {"name": "Spiaggia della Rotonda", "text": "Einer der schönsten Strände der Stadt, direkt unter den steilen Klippen gelegen, bekannt für seinen feinen weißen Sand und türkisfarbenes Wasser.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp", "coords": [15.899377, 38.680749]}, {"name": "Palazzo Toraldo", "text": "Ein prächtiger historischer Adelspalast in der Altstadt, der auf den Ruinen einer alten Festung errichtet wurde.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/tropea-palazzo-toraldo.webp", "coords": [15.897597, 38.677523]}, {"name": "Spiaggia del Convento", "text": "Gelegen in der berühmten Küstenstadt Tropea, ist der Spiaggia del Convento ein spektakulärer Ort für Meerliebhaber. Das einladende Wasser und die charmante Küstenlinie machen ihn zu einem wunderbaren Schauplatz, um einen sonnigen Tag zu verbringen. Die Gäste erwartet eine Mischung aus pulsierender Strandenergie und ausgezeichneten Bedingungen zum Schwimmen und Faulenzen. Es wird empfohlen, bis zum späten Nachmittag zu bleiben, um das atemberaubende Küstenlicht in vollen Zügen zu genießen.", "category": "recreational", "coords": [15.890055, 38.676916]}, {"name": "Spiaggia del Cannone", "text": "Der Spiaggia del Cannone präsentiert einen wunderschönen Sandabschnitt vor der dramatischen Kulisse von Tropea. Er bietet ein etwas versteckteres Ambiente, das Besucher einlädt, das ruhige Mittelmeer in Frieden zu genießen. Die gelassene Umgebung ist einfach perfekt für alle, die abschalten und sich sonnen möchten. Bringen Sie einige grundlegende Annehmlichkeiten mit und genießen Sie eine zutiefst entspannende Flucht ans Meer.", "category": "recreational", "coords": [15.900828, 38.68071]}, {"name": "Spiaggia di Riaci", "text": "Entlang der funkelnden Küste bei Tropea gelegen, ist der Spiaggia di Riaci ein bezauberndes Ziel für Sonnenanbeter. Die markanten Felsformationen schaffen eine unvergessliche Kulisse für alle, die schwimmen oder die Küstenlinie erkunden. Sie finden hier eine angenehme Mischung aus begeisterten Reisenden und entspannten Einheimischen, die das warme Wetter genießen. Ein Besuch unter der Woche kann ein unbeschwerteres und geräumigeres Erlebnis am Meer bieten.", "category": "recreational", "coords": [15.870746, 38.671878]}, {"name": "Spiaggia Michelino", "text": "Berühmt für seinen beeindruckend feinen Sand, ist der Spiaggia Michelino ein äußerst malerischer Ort in der Gegend von Tropea. Der Abstieg zum Strand belohnt die Besucher mit kristallklarem Wasser, das makellos für eine ausgedehnte Schwimmeinheit ist. Seine unberührte Atmosphäre macht ihn zu einer ruhigen Oase abseits von stark kommerzialisierten Zonen. Denken Sie daran, eigene Snacks und einen Sonnenschirm mitzubringen, da der natürliche Rahmen anmutig bewahrt wird.", "category": "recreational", "coords": [15.919756, 38.684835]}, {"name": "Spiaggia Vardanello", "text": "Der Spiaggia Vardanello präsentiert sich als reizvoller Küstenstreifen, der knapp außerhalb von Tropea liegt. Diese friedliche Umgebung verspricht entspannte Tage, die man mit Schwimmen und Faulenzen unter der mediterranen Sonne verbringt. Familien und Paare gleichermaßen werden seinen ruhigen Charme für eine einfache Flucht ans Meer äußerst ansprechend finden. Einen Picknickkorb zu packen ist eine wunderbare Idee, um den Besuch bis in den frühen Abend auszudehnen.", "category": "recreational", "coords": [15.91653, 38.683861]}, {"name": "Spiaggia l'Occhiale", "text": "Voller idyllischem Küstencharme ist der Spiaggia l'Occhiale eine sanfte Oase in der Nähe von Tropea. Seine atemberaubende Lage direkt am Wasser lädt dazu ein, für ein erfrischendes Bad einzutauchen oder sich einfach am Ufer zu entspannen. Die heitere Atmosphäre ist perfekt, um den Alltagsstress loszulassen und sich auf das Rauschen des Meeres einzustimmen. Ein Besuch an einem sonnigen Nachmittag stellt sicher, dass Sie das absolute Maximum seiner Naturschönheit einfangen.", "category": "recreational", "coords": [15.8787, 38.672526]}, {"name": "Spiaggia della Mandorla", "text": "Bekannt für sein erholsames Ambiente, ist der Spiaggia della Mandorla ein wunderbar ruhiger Abschnitt an der Küste von Tropea. Besucher entdecken hier einen friedlichen Ort, der sich wunderbar zum Lesen, Sonnenbaden und für kurze, angenehme Schwimmeinheiten eignet. Er dient als intimer Rückzugsort von den typischerweise überfüllten Küstenzentren der Region. Wenn Sie mit leichtem Gepäck reisen, aber ausreichend Wasser mitbringen, ist ein ungestörter und heiterer Tag garantiert.", "category": "recreational", "coords": [15.882179, 38.67277]}], "hu": [{"name": "Santa Maria dell'Isola", "text": "Az ikonikus zarándoktemplom egy jellegzetes homokkősziklán trónol a Tirrén-tenger partján, Tropea jelképeként.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp", "coords": [15.895542, 38.679978]}, {"name": "Cattedrale di Tropea", "text": "A 12. századi normann katedrális ad otthont a város védőszentjének, a Romania-i Madonnának tisztelt kegyképének.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp", "coords": [15.898874, 38.677872]}, {"name": "Affaccio Raf Vallone", "text": "Ez a kilátópont lélegzetelállító panorámát nyújt a strandra és az azúr kék tengerre, egészen a Stromboli-szigetig.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp", "coords": [15.897612, 38.679673]}, {"name": "Museo Diocesano", "text": "A régi püspöki palotában található múzeum szakrális művészeti alkotások, ezüsttárgyak és szobrok értékes gyűjteményét mutatja be.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/tropea-museo-diocesano.webp", "coords": [15.898426, 38.678151]}, {"name": "Grotta del Palombaro", "text": "Egy gyönyörű tengeri barlang a fok lábánál, amely csak úszva vagy hajóval érhető el, és kristálytiszta vízzel várja a látogatókat.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp", "coords": [15.895821, 38.680561]}, {"name": "Corso Vittorio Emanuele", "text": "Az óváros élénk főutcája butikokkal, éttermekkel és a híres vöröshagyma illatával csábít sétára.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp", "coords": [15.897335, 38.677263]}, {"name": "Spiaggia della Rotonda", "text": "A város egyik legszebb strandja, közvetlenül a meredek sziklák alatt, finom fehér homokjáról és türkizkék vizéről ismert.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp", "coords": [15.899377, 38.680749]}, {"name": "Palazzo Toraldo", "text": "Pompás történelmi nemesi palota az óvárosban, amely egy régi erődítmény romjaira épült.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/tropea-palazzo-toraldo.webp", "coords": [15.897597, 38.677523]}, {"name": "Spiaggia del Convento", "text": "A híres tengerparti városban, Tropeában található Spiaggia del Convento látványos hely a tenger szerelmeseinek. A hívogató vizek és a bájos partvonal csodálatos helyszínné teszik egy napos nap eltöltéséhez. A vendégeket a vibráló strandenergia és az úszáshoz, valamint a pihenéshez kiváló feltételek keveréke várja. Érdemes késő délutánig maradni, hogy teljes mértékben értékelni tudjuk a lenyűgöző part menti fényeket.", "category": "recreational", "coords": [15.890055, 38.676916]}, {"name": "Spiaggia del Cannone", "text": "A Spiaggia del Cannone egy gyönyörű homokos partszakaszt tár elénk Tropea drámai háttere előtt. Kissé eldugottabb hangulatot áraszt, arra hívogatva a látogatókat, hogy békében élvezzék a nyugodt Földközi-tengert. A csendes környezet egyszerűen tökéletes azok számára, akik szeretnének kikapcsolódni és napozni. Hozzon magával némi alapvető felszerelést, és élvezze a mélyen pihentető tengerparti kikapcsolódást.", "category": "recreational", "coords": [15.900828, 38.68071]}, {"name": "Spiaggia di Riaci", "text": "A Tropea közelében, a csillogó partvonal mentén elterülő Spiaggia di Riaci varázslatos úti cél a napfény szerelmeseinek. A lenyűgöző sziklaalakzatok emlékezetes tájat teremtenek az úszók és a partvonalat felfedezők számára. A meleg időjárást élvező lelkes utazók és a laza helyiek kellemes keverékével fog találkozni. Egy hétközi látogatás nyugodtabb és tágasabb élményt nyújthat a tengerparton.", "category": "recreational", "coords": [15.870746, 38.671878]}, {"name": "Spiaggia Michelino", "text": "Lenyűgözően finom homokjáról híres a Spiaggia Michelino, amely egy rendkívül festői hely a Tropea térségében. A strandra való leereszkedés kristálytiszta vízzel jutalmazza a látogatókat, amely hibátlan egy hosszabb úszáshoz. Érintetlen hangulata békés oázissá teszi a túlzottan elüzletiesedett övezetektől távol. Feltétlenül hozzon magával saját rágcsálnivalót és napernyőt, mivel a természetes környezet hűen megőrzött.", "category": "recreational", "coords": [15.919756, 38.684835]}, {"name": "Spiaggia Vardanello", "text": "A Spiaggia Vardanello egy szép partszakaszként terül el Tropea közvetlen közelében. Ez a békés környezet pihentető napokat ígér, amelyeket a mediterrán nap alatti fürdőzéssel és heverészéssel tölthetünk. A családok és a párok egyaránt rendkívül vonzónak találják majd csendes báját egy egyszerű tengerparti kiruccanáshoz. Egy piknikkosár összekészítése csodálatos ötlet arra, hogy a látogatást kora estig elnyújtsuk.", "category": "recreational", "coords": [15.91653, 38.683861]}, {"name": "Spiaggia l'Occhiale", "text": "Az idilli tengerparti bájjal teli Spiaggia l'Occhiale egy szelíd menedék Tropea közelében. Lenyűgöző vízparti elhelyezkedése arra csábít, hogy belevessük magunkat egy frissítő úszásba, vagy pusztán pihenjünk a partvonalon. A békés légkör tökéletes arra, hogy elengedjük a mindennapi stresszt, és ráhangolódjunk a tenger zúgására. Egy napos délutáni látogatás garantálja, hogy természeti szépségének legjavát tapasztaljuk meg.", "category": "recreational", "coords": [15.8787, 38.672526]}, {"name": "Spiaggia della Mandorla", "text": "A pihentető hangulatáról ismert Spiaggia della Mandorla a tropea-i partvonal egy csodálatosan csendes szakasza. A látogatók egy olyan békés helyet fedezhetnek fel, amely gyönyörűen alkalmas olvasásra, napozásra és rövid, kellemes úszásokra. Bensőséges menedékként szolgál a régió jellemzően zsúfolt part menti központjaitól. Ha könnyű csomaggal utazunk, de elegendő vizet viszünk magunkkal, az garantálja a nyugodt és zavartalan kikapcsolódást.", "category": "recreational", "coords": [15.882179, 38.67277]}], "ro": [{"name": "Santa Maria dell'Isola", "text": "Biserica iconică de pelerinaj se află pe o stâncă de gresie chiar pe malul Mării Tireniene și este simbolul orașului Tropea.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp", "coords": [15.895542, 38.679978]}, {"name": "Cattedrale di Tropea", "text": "Catedrala normandă din secolul al XII-lea găzduiește efigia venerată a Madonnei di Romania, patroana orașului.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp", "coords": [15.898874, 38.677872]}, {"name": "Affaccio Raf Vallone", "text": "Acest punct de observare oferă o panoramă uluitoare asupra plajei și a mării azurii, până la insula Stromboli.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp", "coords": [15.897612, 38.679673]}, {"name": "Museo Diocesano", "text": "Muzeul din vechiul palat episcopal expune o colecție valoroasă de artă sacră, obiecte din argint și statui din diverse epoci.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/tropea-museo-diocesano.webp", "coords": [15.898426, 38.678151]}, {"name": "Grotta del Palombaro", "text": "O peșteră marină superbă la baza capului, accesibilă doar prin înot sau cu barca, oferind ape cristaline.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp", "coords": [15.895821, 38.680561]}, {"name": "Corso Vittorio Emanuele", "text": "Strada principală animată din centrul vechi invită la plimbare cu numeroase buticuri, restaurante și parfumul celebrei cepe roșii.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp", "coords": [15.897335, 38.677263]}, {"name": "Spiaggia della Rotonda", "text": "Una dintre cele mai frumoase plaje, situată direct sub stâncile abrupte, cunoscută pentru nisipul alb fin și apa turcoaz.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp", "coords": [15.899377, 38.680749]}, {"name": "Palazzo Toraldo", "text": "Un palat nobiliar istoric grandios în orașul vechi, construit pe ruinele unei vechi fortărețe.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/tropea-palazzo-toraldo.webp", "coords": [15.897597, 38.677523]}, {"name": "Spiaggia del Convento", "text": "Situată în faimosul oraș de coastă Tropea, Spiaggia del Convento este un loc spectaculos pentru iubitorii de mare. Apele primitoare și țărmul fermecător o fac un loc minunat pentru a petrece o zi însorită. Oaspeții se pot aștepta la un amestec de energie vibrantă a plajei și condiții excelente pentru înot și relaxare. Se recomandă să rămâneți până târziu în după-amiaza pentru a aprecia pe deplin lumina uimitoare a coastei.", "category": "recreational", "coords": [15.890055, 38.676916]}, {"name": "Spiaggia del Cannone", "text": "Spiaggia del Cannone prezintă o întindere frumoasă de nisip pe fundalul dramatic al orașului Tropea. Oferă o ambianță ceva mai ascunsă, invitând vizitatorii să se bucure în pace de calma Mare Mediterană. Mediul liniștit este pur și simplu perfect pentru cei care doresc să se deconecteze și să facă plajă. Aduceți cu voi câteva conforturi de bază și bucurați-vă de o evadare la malul mării profund relaxantă.", "category": "recreational", "coords": [15.900828, 38.68071]}, {"name": "Spiaggia di Riaci", "text": "Așezată de-a lungul coastei strălucitoare de lângă Tropea, Spiaggia di Riaci este o destinație încântătoare pentru căutătorii de soare. Formațiunile stâncoase izbitoare creează un peisaj memorabil pentru cei care înoată sau explorează țărmul. Veți găsi un amestec plăcut de călători entuziaști și localnici relaxați care se bucură de vremea caldă. O vizită la mijlocul săptămânii poate oferi o experiență mai liniștită și mai spațioasă la malul mării.", "category": "recreational", "coords": [15.870746, 38.671878]}, {"name": "Spiaggia Michelino", "text": "Celebrată pentru nisipul său impresionant de fin, Spiaggia Michelino este un loc extrem de pitoresc în zona Tropea. Coborârea la plajă răsplătește vizitatorii cu ape cristaline, care sunt impecabile pentru o sesiune prelungită de înot. Vibrația sa neatinsă o face o oază senină, departe de zonele puternic comercializate. Asigurați-vă că purtați propriile gustări și umbrelă, deoarece cadrul natural este păstrat cu grație.", "category": "recreational", "coords": [15.919756, 38.684835]}, {"name": "Spiaggia Vardanello", "text": "Spiaggia Vardanello se prezintă ca o fâșie de coastă minunată ce se odihnește chiar în afara orașului Tropea. Acest mediu pașnic promite zile relaxante petrecute înotând și lenevind sub soarele mediteranean. Familiile, la fel ca și cuplurile, vor găsi farmecul său liniștit extrem de atrăgător pentru o simplă evadare la malul mării. Împachetarea unui coș de picnic este o idee minunată pentru a vă prelungi vizita până la începutul serii.", "category": "recreational", "coords": [15.91653, 38.683861]}, {"name": "Spiaggia l'Occhiale", "text": "Debordând de un idilic farmec de coastă, Spiaggia l'Occhiale este un refugiu blând aproape de Tropea. Cadrul său uimitor de la malul apei vă invită să vă scufundați pentru o înotare revigorantă sau pur și simplu să vă relaxați pe țărm. Atmosfera senină este perfectă pentru a renunța la stresul de zi cu zi și pentru a vă acorda la sunetul mării. O vizită într-o după-amiază însorită vă asigură că veți capta cel mai bun aspect absolut al frumuseții sale naturale.", "category": "recreational", "coords": [15.8787, 38.672526]}, {"name": "Spiaggia della Mandorla", "text": "Cunoscută pentru ambianța sa odihnitoare, Spiaggia della Mandorla este o secțiune minunat de liniștită a țărmului Tropea. Vizitatorii vor descoperi un loc pașnic care este frumos potrivit pentru lectură, băi de soare și înoturi scurte și plăcute. Acționează ca o evadare intimă din centrele de coastă de obicei aglomerate din regiune. Călătorind cu bagaje puține, dar aducând suficientă apă, veți garanta o zi senină și neîntreruptă de ieșire.", "category": "recreational", "coords": [15.882179, 38.67277]}], "en": [{"name": "Santa Maria dell'Isola", "text": "The iconic pilgrimage church sits on a striking sandstone cliff overlooking the Tyrrhenian Sea and is the symbol of Tropea.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp", "coords": [15.895542, 38.679978]}, {"name": "Cattedrale di Tropea", "text": "The 12th-century Norman cathedral houses the venerated image of the Madonna di Romania, the patron saint of the city.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp", "coords": [15.898874, 38.677872]}, {"name": "Affaccio Raf Vallone", "text": "This viewpoint offers a breathtaking panorama of the beach and the azure sea stretching out to the island of Stromboli.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp", "coords": [15.897612, 38.679673]}, {"name": "Museo Diocesano", "text": "The museum in the old bishop's palace displays a valuable collection of sacred art, silverware, and statues from various eras.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/tropea-museo-diocesano.webp", "coords": [15.898426, 38.678151]}, {"name": "Grotta del Palombaro", "text": "A beautiful sea cave at the base of the cape, accessible only by swimming or boat, featuring crystal clear waters.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp", "coords": [15.895821, 38.680561]}, {"name": "Corso Vittorio Emanuele", "text": "The lively main street of the old town invites strolling with many boutiques, restaurants, and the scent of famous red onions.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp", "coords": [15.897335, 38.677263]}, {"name": "Spiaggia della Rotonda", "text": "One of the city's most beautiful beaches, located right under the steep cliffs, known for its fine white sand and turquoise water.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp", "coords": [15.899377, 38.680749]}, {"name": "Palazzo Toraldo", "text": "A grand historic noble palace in the old town, built upon the ruins of an ancient fortress.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/tropea-palazzo-toraldo.webp", "coords": [15.897597, 38.677523]}, {"name": "Spiaggia del Convento", "text": "Located in the famous coastal town of Tropea, Spiaggia del Convento is a spectacular spot for sea lovers. The inviting waters and charming shoreline make it a wonderful venue to spend a sunny day. Guests can expect a mix of vibrant beach energy and excellent conditions for swimming and lounging. It is recommended to stay until late afternoon to fully appreciate the stunning coastal light.", "category": "recreational", "coords": [15.890055, 38.676916]}, {"name": "Spiaggia del Cannone", "text": "Spiaggia del Cannone presents a beautiful stretch of sand against the dramatic backdrop of Tropea. It provides a slightly more tucked-away ambiance, inviting visitors to enjoy the calm Mediterranean sea in peace. The tranquil environment is simply perfect for those wishing to disconnect and sunbathe. Bring along some basic comforts and enjoy a deeply relaxing seaside escape.", "category": "recreational", "coords": [15.900828, 38.68071]}, {"name": "Spiaggia di Riaci", "text": "Set along the sparkling coastline near Tropea, Spiaggia di Riaci is an enchanting destination for sunseekers. The striking rock formations create a memorable scenery for those swimming or exploring the shoreline. You will find a pleasant mix of enthusiastic travelers and relaxed locals enjoying the warm weather. Visiting mid-week can provide a more unhurried and spacious experience by the sea.", "category": "recreational", "coords": [15.870746, 38.671878]}, {"name": "Spiaggia Michelino", "text": "Celebrated for its impressively fine sand, Spiaggia Michelino is a highly picturesque spot in the Tropea area. The descent to the beach rewards visitors with crystalline waters that are flawless for an extended swimming session. Its untouched vibe makes it a serene oasis away from heavily commercialized zones. Be sure to carry your own snacks and umbrella, as the natural setting is gracefully preserved.", "category": "recreational", "coords": [15.919756, 38.684835]}, {"name": "Spiaggia Vardanello", "text": "Spiaggia Vardanello stands as a lovely coastal strip resting just outside of Tropea. This peaceful environment promises relaxing days spent swimming and lounging beneath the Mediterranean sun. Families and couples alike will find its quiet charm highly appealing for a simple seaside escape. Packing a picnic basket is a wonderful idea to stretch your visit into the early evening.", "category": "recreational", "coords": [15.91653, 38.683861]}, {"name": "Spiaggia l'Occhiale", "text": "Brimming with an idyllic coastal charm, Spiaggia l'Occhiale is a gentle haven close to Tropea. Its stunning waterfront setting invites you to dive in for an invigorating swim or merely relax on the shoreline. The serene atmosphere is perfect for letting go of everyday stress and tuning into the sound of the sea. Visiting on a sunny afternoon ensures you will capture the absolute best of its natural beauty.", "category": "recreational", "coords": [15.8787, 38.672526]}, {"name": "Spiaggia della Mandorla", "text": "Known for its restful ambiance, Spiaggia della Mandorla is a wonderfully quiet section of the Tropea shoreline. Visitors will discover a peaceful spot that is beautifully suited for reading, sunbathing, and taking short, pleasant swims. It acts as an intimate escape from the typically crowded coastal hubs in the region. Traveling light but bringing enough water will guarantee a serene and uninterrupted day out.", "category": "recreational", "coords": [15.882179, 38.67277]}]}},
+  {"id": "tropea", "type": "city", "parent": "IT-78", "coords": [15.8967, 38.6772], "population": 6300, "tier": 1, "name": {"de": "Tropea", "hu": "Tropea", "ro": "Tropea", "en": "Tropea"}, "description": {"de": "Die Perle des Tyrrhenischen Meeres beeindruckt mit ihrer auf einem Felsen erbauten Altstadt und der ikonischen Wallfahrtskirche auf einer Inselklippe.", "hu": "A Tirrén-tenger gyöngyszeme, amely egy magas sziklataszon elterülő óvárosáról és a tengerből kiemelkedő zátonyon álló kegytemplomáról híres.", "ro": "Perla Marii Tireniene impresionează prin centrul său istoric construit pe o stâncă înaltă și prin biserica iconică situată pe un promontoriu stâncos.", "en": "The Pearl of the Tyrrhenian Sea is famous for its cliff-top historic center and the iconic Santa Maria dell'Isola church perched on a rocky outcrop."}, "facts": {"de": ["Süße rote Zwiebeln", "Santa Maria dell'Isola", "Türkisblaues Wasser", "Blick auf Stromboli", "Antike Herkules-Legende", "Normannische Kathedrale", "Steile Felsklippen", "Sonnige Kalabrien-Küste"], "hu": ["Édes vöröshagyma", "Santa Maria dell'Isola", "Türkiszkék víz", "Kilátás a Strombolira", "Herkules alapítási legenda", "Normann katedrális", "Függőleges sziklafalak", "Kalábriai napsütés"], "ro": ["Ceapă roșie dulce", "Santa Maria dell'Isola", "Ape turcoaz", "Vedere către Stromboli", "Legenda lui Hercule", "Catedrală normandă", "Stânci abrupte", "Costa degli Dei"], "en": ["Sweet red onions", "Santa Maria dell'Isola", "Turquoise waters", "View of Stromboli", "Legendary Hercules origin", "Norman Cathedral", "Sheer vertical cliffs", "Costa degli Dei location"]}, "image": "/poi-images/tropea.webp", "imageHint": "Sanctuary of Santa Maria dell'Isola on a rock surrounded by turquoise sea", "descriptionAdvanced": {"de": "Tropea gilt als einer der schönsten Orte Kalabriens und wird oft als die \"Perle des Tyrrhenischen Meeres\" bezeichnet. Die Stadt thront auf einem etwa 60 Meter hohen Tuffsteinfelsen direkt an der Küste der Götter (Costa degli Dei). Das Wahrzeichen ist die Wallfahrtskirche Santa Maria dell'Isola, die auf einem vorgelagerten Sandsteinfelsen steht, der einst eine Insel war. Die Altstadt ist geprägt von prachtvollen Adelspalästen aus dem 17. und 18. Jahrhundert, die direkt an den Abgrund gebaut wurden. Berühmt ist Tropea auch für seine Gastronomie, insbesondere für die \"Cipolla Rossa di Tropea\", eine süße rote Zwiebel, die weltweit geschätzt wird. Von den zahlreichen Aussichtspunkten der Stadt, wie dem Largo Migliarese, hat man an klaren Tagen einen spektakulären Blick auf die Vulkaninsel Stromboli. Die Kombination aus antiker Geschichte, kristallklarem Wasser und dramatischer Geografie macht Tropea zu einem Magneten für Reisende aus aller Welt.", "hu": "Tropea Kalábria tartományának legfényesebb ékköve, amelyet méltán neveznek a Tirrén-tenger gyöngyszemének. A város egy lenyűgöző, 60 méter magas tufasziklára épült, amely függőlegesen szakad le a fehér homokos partokhoz. Legismertebb jelképe a Santa Maria dell'Isola bencés kegytemplom, amely egy magányos sziklaszigeten áll a tengerben. Az óváros nemesi palotái szinte a szakadék szélén egyensúlyoznak, szűk utcáikban pedig ott terjeng a híres „Cipolla Rossa di Tropea”, azaz a helyi édes vöröshagyma illata. Tiszta időben a város panoráma-teraszaiból jól látható az Aeoli-szigetek és a pöfögő Stromboli vulkán. A legenda szerint maga Herkules alapította a várost, amikor visszatért Spanyolországból. A kristálytiszta, azúrkék víz és a drámai sziklafalak találkozása Tropeát Olaszország egyik legfotogénebb és legkedveltebb tengerparti célpontjává tette.", "ro": "Tropea este considerată bijuteria Calabriei și este adesea numită \"Perla Marii Tireniene\". Orașul este situat pe o stâncă de tuf de 60 de metri înălțime, oferind o vedere spectaculoasă asupra plajelor cu nisip alb și a apei cristaline de pe Costa degli Dei. Simbolul orașului este sanctuarul Santa Maria dell'Isola, cocoțat pe un promontoriu care în trecut era o insulă. Centrul istoric este plin de palate nobiliare din secolele XVII-XVIII, construite chiar pe marginea prăpastiei. Gastronomia locală este renumită pentru \"Cipolla Rossa di Tropea\", o ceapă roșie dulce protejată IGP, care se regăsește în majoritatea preparatelor locale. De pe terasele panoramice ale orașului, în zilele senine, se pot vedea Insulele Eoliene și vulcanul Stromboli. Cu o istorie ce se pierde în legendele despre Hercule, Tropea îmbină perfect farmecul medieval cu frumusețea naturală brută a coastei italiene.", "en": "Tropea is arguably Calabria's most beautiful town, earning the title \"Pearl of the Tyrrhenian Sea\". The city is built upon a 60-meter-high tuff rock plateau that drops vertically into the white sandy beaches below. Its most famous landmark is the Sanctuary of Santa Maria dell'Isola, a Benedictine church standing on a rocky outcrop that was once an island. The historic center features grand 17th and 18th-century noble palaces that lean precariously over the cliff's edge. Tropea is also a culinary hotspot, famous for its sweet red onions, \"Cipolla Rossa di Tropea,\" which are celebrated with their own festival. On clear days, the town's numerous viewing points offer stunning vistas across the sea to the volcanic island of Stromboli. Combining mythical origins—legend says it was founded by Hercules—with dramatic geography and vibrant Mediterranean life, Tropea is a cornerstone of southern Italian tourism."}, "factsAdvanced": {"de": ["Die Stadt liegt auf einem 60 Meter hohen Tuffsteinfelsen über dem Meer.", "Die Cipolla Rossa di Tropea (rote Zwiebel) besitzt seit 2008 den EU-Schutzstatus IGP.", "Die Kathedrale von Tropea wurde im 12. Jahrhundert von den Normannen erbaut.", "Der Stromboli-Vulkan ist etwa 60 Kilometer Luftlinie von der Küste entfernt.", "Im Jahr 2021 wurde Tropea zum schönsten Dorf Italiens (Borgo dei Borghi) gewählt.", "Die Küstenlinie wird offiziell als Costa degli Dei (Küste der Götter) bezeichnet."], "hu": ["A város egy 60 méter magas tufasziklán fekszik a tengerpart felett.", "A troperai vöröshagyma 2008 óta élvez európai uniós eredetvédelmet (IGP).", "A város normann katedrálisa a 12. századból származik.", "A Stromboli-vulkán körülbelül 60 kilométerre található a parttól.", "2021-ben Tropeát választották Olaszország legszebb falvának (Borgo dei Borghi).", "A partvidék hivatalos neve Costa degli Dei, azaz az Istenek partja."], "ro": ["Orașul este situat pe o stâncă de tuf înaltă de 60 de metri.", "Ceapa roșie de Tropea deține statutul de protecție IGP din anul 2008.", "Catedrala normandă din oraș a fost construită în secolul al XII-lea.", "Vulcanul Stromboli se află la o distanță de aproximativ 60 km în linie dreaptă.", "În 2021, Tropea a fost desemnat cel mai frumos sat din Italia (Borgo dei Borghi).", "Linia de coastă pe care se află orașul este cunoscută sub numele de Costa degli Dei."], "en": ["The town sits on a tuff rock plateau 60 meters above sea level.", "The Tropea red onion has held the EU's PGI (IGP) protected status since 2008.", "The Norman Cathedral of Tropea dates back to the 12th century.", "Mount Stromboli is approximately 60 kilometers away across the sea.", "Tropea was voted Italy's most beautiful village (Borgo dei Borghi) in 2021.", "The local coastline is officially known as the Costa degli Dei (Coast of the Gods)."]}, "sights": {
+      "de": [
+            {
+                  "name": "Santa Maria dell'Isola",
+                  "text": "Die ikonische Wallfahrtskirche thront auf einem markanten Sandsteinfelsen direkt am Tyrrhenischen Meer und ist das Wahrzeichen von Tropea.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp",
+                  "coords": [
+                        15.895542,
+                        38.679978
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Tropea",
+                  "text": "Die normannische Kathedrale aus dem 12. Jahrhundert beherbergt das verehrte Bildnis der Madonna di Romania, der Schutzpatronin der Stadt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp",
+                  "coords": [
+                        15.898874,
+                        38.677872
+                  ]
+            },
+            {
+                  "name": "Affaccio Raf Vallone",
+                  "text": "Dieser Aussichtspunkt bietet ein atemberaubendes Panorama auf den Strand und das azurblaue Meer bis hin zur Insel Stromboli.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp",
+                  "coords": [
+                        15.897612,
+                        38.679673
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Das Museum im alten Bischofspalast zeigt eine wertvolle Sammlung sakraler Kunst, Silberwaren und Statuen aus verschiedenen Epochen.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-museo-diocesano.webp",
+                  "coords": [
+                        15.898426,
+                        38.678151
+                  ]
+            },
+            {
+                  "name": "Grotta del Palombaro",
+                  "text": "Eine wunderschöne Meereshöhle am Fuße des Kaps, die nur schwimmend oder mit dem Boot erreichbar ist und klares Wasser bietet.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp",
+                  "coords": [
+                        15.895821,
+                        38.680561
+                  ]
+            },
+            {
+                  "name": "Corso Vittorio Emanuele",
+                  "text": "Die lebhafte Hauptstraße der Altstadt lädt mit vielen Boutiquen, Restaurants und dem Duft der berühmten roten Zwiebeln zum Bummeln ein.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp",
+                  "coords": [
+                        15.897335,
+                        38.677263
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Rotonda",
+                  "text": "Einer der schönsten Strände der Stadt, direkt unter den steilen Klippen gelegen, bekannt für seinen feinen weißen Sand und türkisfarbenes Wasser.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp",
+                  "coords": [
+                        15.899377,
+                        38.680749
+                  ]
+            },
+            {
+                  "name": "Palazzo Toraldo",
+                  "text": "Ein prächtiger historischer Adelspalast in der Altstadt, der auf den Ruinen einer alten Festung errichtet wurde.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-palazzo-toraldo.webp",
+                  "coords": [
+                        15.897597,
+                        38.677523
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "Gelegen in der berühmten Küstenstadt Tropea, ist der Spiaggia del Convento ein spektakulärer Ort für Meerliebhaber. Das einladende Wasser und die charmante Küstenlinie machen ihn zu einem wunderbaren Schauplatz, um einen sonnigen Tag zu verbringen. Die Gäste erwartet eine Mischung aus pulsierender Strandenergie und ausgezeichneten Bedingungen zum Schwimmen und Faulenzen. Es wird empfohlen, bis zum späten Nachmittag zu bleiben, um das atemberaubende Küstenlicht in vollen Zügen zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "Der Spiaggia del Cannone präsentiert einen wunderschönen Sandabschnitt vor der dramatischen Kulisse von Tropea. Er bietet ein etwas versteckteres Ambiente, das Besucher einlädt, das ruhige Mittelmeer in Frieden zu genießen. Die gelassene Umgebung ist einfach perfekt für alle, die abschalten und sich sonnen möchten. Bringen Sie einige grundlegende Annehmlichkeiten mit und genießen Sie eine zutiefst entspannende Flucht ans Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "Entlang der funkelnden Küste bei Tropea gelegen, ist der Spiaggia di Riaci ein bezauberndes Ziel für Sonnenanbeter. Die markanten Felsformationen schaffen eine unvergessliche Kulisse für alle, die schwimmen oder die Küstenlinie erkunden. Sie finden hier eine angenehme Mischung aus begeisterten Reisenden und entspannten Einheimischen, die das warme Wetter genießen. Ein Besuch unter der Woche kann ein unbeschwerteres und geräumigeres Erlebnis am Meer bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "Berühmt für seinen beeindruckend feinen Sand, ist der Spiaggia Michelino ein äußerst malerischer Ort in der Gegend von Tropea. Der Abstieg zum Strand belohnt die Besucher mit kristallklarem Wasser, das makellos für eine ausgedehnte Schwimmeinheit ist. Seine unberührte Atmosphäre macht ihn zu einer ruhigen Oase abseits von stark kommerzialisierten Zonen. Denken Sie daran, eigene Snacks und einen Sonnenschirm mitzubringen, da der natürliche Rahmen anmutig bewahrt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "Der Spiaggia Vardanello präsentiert sich als reizvoller Küstenstreifen, der knapp außerhalb von Tropea liegt. Diese friedliche Umgebung verspricht entspannte Tage, die man mit Schwimmen und Faulenzen unter der mediterranen Sonne verbringt. Familien und Paare gleichermaßen werden seinen ruhigen Charme für eine einfache Flucht ans Meer äußerst ansprechend finden. Einen Picknickkorb zu packen ist eine wunderbare Idee, um den Besuch bis in den frühen Abend auszudehnen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "Voller idyllischem Küstencharme ist der Spiaggia l'Occhiale eine sanfte Oase in der Nähe von Tropea. Seine atemberaubende Lage direkt am Wasser lädt dazu ein, für ein erfrischendes Bad einzutauchen oder sich einfach am Ufer zu entspannen. Die heitere Atmosphäre ist perfekt, um den Alltagsstress loszulassen und sich auf das Rauschen des Meeres einzustimmen. Ein Besuch an einem sonnigen Nachmittag stellt sicher, dass Sie das absolute Maximum seiner Naturschönheit einfangen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "Bekannt für sein erholsames Ambiente, ist der Spiaggia della Mandorla ein wunderbar ruhiger Abschnitt an der Küste von Tropea. Besucher entdecken hier einen friedlichen Ort, der sich wunderbar zum Lesen, Sonnenbaden und für kurze, angenehme Schwimmeinheiten eignet. Er dient als intimer Rückzugsort von den typischerweise überfüllten Küstenzentren der Region. Wenn Sie mit leichtem Gepäck reisen, aber ausreichend Wasser mitbringen, ist ein ungestörter und heiterer Tag garantiert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
+                  ]
+            },
+            {
+                  "name": "Lido La Grazia",
+                  "text": "Lido La Grazia ist ein Strandbad am Fuße von Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.910452,
+                        38.681138
+                  ]
+            },
+            {
+                  "name": "Sunset beach club",
+                  "text": "Sunset beach club ist ein bekannter Treffpunkt am Strand von Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.889046,
+                        38.675505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa Maria dell'Isola",
+                  "text": "Az ikonikus zarándoktemplom egy jellegzetes homokkősziklán trónol a Tirrén-tenger partján, Tropea jelképeként.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp",
+                  "coords": [
+                        15.895542,
+                        38.679978
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Tropea",
+                  "text": "A 12. századi normann katedrális ad otthont a város védőszentjének, a Romania-i Madonnának tisztelt kegyképének.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp",
+                  "coords": [
+                        15.898874,
+                        38.677872
+                  ]
+            },
+            {
+                  "name": "Affaccio Raf Vallone",
+                  "text": "Ez a kilátópont lélegzetelállító panorámát nyújt a strandra és az azúr kék tengerre, egészen a Stromboli-szigetig.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp",
+                  "coords": [
+                        15.897612,
+                        38.679673
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "A régi püspöki palotában található múzeum szakrális művészeti alkotások, ezüsttárgyak és szobrok értékes gyűjteményét mutatja be.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-museo-diocesano.webp",
+                  "coords": [
+                        15.898426,
+                        38.678151
+                  ]
+            },
+            {
+                  "name": "Grotta del Palombaro",
+                  "text": "Egy gyönyörű tengeri barlang a fok lábánál, amely csak úszva vagy hajóval érhető el, és kristálytiszta vízzel várja a látogatókat.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp",
+                  "coords": [
+                        15.895821,
+                        38.680561
+                  ]
+            },
+            {
+                  "name": "Corso Vittorio Emanuele",
+                  "text": "Az óváros élénk főutcája butikokkal, éttermekkel és a híres vöröshagyma illatával csábít sétára.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp",
+                  "coords": [
+                        15.897335,
+                        38.677263
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Rotonda",
+                  "text": "A város egyik legszebb strandja, közvetlenül a meredek sziklák alatt, finom fehér homokjáról és türkizkék vizéről ismert.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp",
+                  "coords": [
+                        15.899377,
+                        38.680749
+                  ]
+            },
+            {
+                  "name": "Palazzo Toraldo",
+                  "text": "Pompás történelmi nemesi palota az óvárosban, amely egy régi erődítmény romjaira épült.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-palazzo-toraldo.webp",
+                  "coords": [
+                        15.897597,
+                        38.677523
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "A híres tengerparti városban, Tropeában található Spiaggia del Convento látványos hely a tenger szerelmeseinek. A hívogató vizek és a bájos partvonal csodálatos helyszínné teszik egy napos nap eltöltéséhez. A vendégeket a vibráló strandenergia és az úszáshoz, valamint a pihenéshez kiváló feltételek keveréke várja. Érdemes késő délutánig maradni, hogy teljes mértékben értékelni tudjuk a lenyűgöző part menti fényeket.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "A Spiaggia del Cannone egy gyönyörű homokos partszakaszt tár elénk Tropea drámai háttere előtt. Kissé eldugottabb hangulatot áraszt, arra hívogatva a látogatókat, hogy békében élvezzék a nyugodt Földközi-tengert. A csendes környezet egyszerűen tökéletes azok számára, akik szeretnének kikapcsolódni és napozni. Hozzon magával némi alapvető felszerelést, és élvezze a mélyen pihentető tengerparti kikapcsolódást.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "A Tropea közelében, a csillogó partvonal mentén elterülő Spiaggia di Riaci varázslatos úti cél a napfény szerelmeseinek. A lenyűgöző sziklaalakzatok emlékezetes tájat teremtenek az úszók és a partvonalat felfedezők számára. A meleg időjárást élvező lelkes utazók és a laza helyiek kellemes keverékével fog találkozni. Egy hétközi látogatás nyugodtabb és tágasabb élményt nyújthat a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "Lenyűgözően finom homokjáról híres a Spiaggia Michelino, amely egy rendkívül festői hely a Tropea térségében. A strandra való leereszkedés kristálytiszta vízzel jutalmazza a látogatókat, amely hibátlan egy hosszabb úszáshoz. Érintetlen hangulata békés oázissá teszi a túlzottan elüzletiesedett övezetektől távol. Feltétlenül hozzon magával saját rágcsálnivalót és napernyőt, mivel a természetes környezet hűen megőrzött.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "A Spiaggia Vardanello egy szép partszakaszként terül el Tropea közvetlen közelében. Ez a békés környezet pihentető napokat ígér, amelyeket a mediterrán nap alatti fürdőzéssel és heverészéssel tölthetünk. A családok és a párok egyaránt rendkívül vonzónak találják majd csendes báját egy egyszerű tengerparti kiruccanáshoz. Egy piknikkosár összekészítése csodálatos ötlet arra, hogy a látogatást kora estig elnyújtsuk.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "Az idilli tengerparti bájjal teli Spiaggia l'Occhiale egy szelíd menedék Tropea közelében. Lenyűgöző vízparti elhelyezkedése arra csábít, hogy belevessük magunkat egy frissítő úszásba, vagy pusztán pihenjünk a partvonalon. A békés légkör tökéletes arra, hogy elengedjük a mindennapi stresszt, és ráhangolódjunk a tenger zúgására. Egy napos délutáni látogatás garantálja, hogy természeti szépségének legjavát tapasztaljuk meg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "A pihentető hangulatáról ismert Spiaggia della Mandorla a tropea-i partvonal egy csodálatosan csendes szakasza. A látogatók egy olyan békés helyet fedezhetnek fel, amely gyönyörűen alkalmas olvasásra, napozásra és rövid, kellemes úszásokra. Bensőséges menedékként szolgál a régió jellemzően zsúfolt part menti központjaitól. Ha könnyű csomaggal utazunk, de elegendő vizet viszünk magunkkal, az garantálja a nyugodt és zavartalan kikapcsolódást.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
+                  ]
+            },
+            {
+                  "name": "Lido La Grazia",
+                  "text": "A Lido La Grazia egy strandüdülő Tropea lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.910452,
+                        38.681138
+                  ]
+            },
+            {
+                  "name": "Sunset beach club",
+                  "text": "A Sunset beach club egy népszerű találkozóhely Tropea strandján.",
+                  "category": "recreational",
+                  "coords": [
+                        15.889046,
+                        38.675505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santa Maria dell'Isola",
+                  "text": "Biserica iconică de pelerinaj se află pe o stâncă de gresie chiar pe malul Mării Tireniene și este simbolul orașului Tropea.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp",
+                  "coords": [
+                        15.895542,
+                        38.679978
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Tropea",
+                  "text": "Catedrala normandă din secolul al XII-lea găzduiește efigia venerată a Madonnei di Romania, patroana orașului.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp",
+                  "coords": [
+                        15.898874,
+                        38.677872
+                  ]
+            },
+            {
+                  "name": "Affaccio Raf Vallone",
+                  "text": "Acest punct de observare oferă o panoramă uluitoare asupra plajei și a mării azurii, până la insula Stromboli.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp",
+                  "coords": [
+                        15.897612,
+                        38.679673
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Muzeul din vechiul palat episcopal expune o colecție valoroasă de artă sacră, obiecte din argint și statui din diverse epoci.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-museo-diocesano.webp",
+                  "coords": [
+                        15.898426,
+                        38.678151
+                  ]
+            },
+            {
+                  "name": "Grotta del Palombaro",
+                  "text": "O peșteră marină superbă la baza capului, accesibilă doar prin înot sau cu barca, oferind ape cristaline.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp",
+                  "coords": [
+                        15.895821,
+                        38.680561
+                  ]
+            },
+            {
+                  "name": "Corso Vittorio Emanuele",
+                  "text": "Strada principală animată din centrul vechi invită la plimbare cu numeroase buticuri, restaurante și parfumul celebrei cepe roșii.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp",
+                  "coords": [
+                        15.897335,
+                        38.677263
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Rotonda",
+                  "text": "Una dintre cele mai frumoase plaje, situată direct sub stâncile abrupte, cunoscută pentru nisipul alb fin și apa turcoaz.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp",
+                  "coords": [
+                        15.899377,
+                        38.680749
+                  ]
+            },
+            {
+                  "name": "Palazzo Toraldo",
+                  "text": "Un palat nobiliar istoric grandios în orașul vechi, construit pe ruinele unei vechi fortărețe.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-palazzo-toraldo.webp",
+                  "coords": [
+                        15.897597,
+                        38.677523
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "Situată în faimosul oraș de coastă Tropea, Spiaggia del Convento este un loc spectaculos pentru iubitorii de mare. Apele primitoare și țărmul fermecător o fac un loc minunat pentru a petrece o zi însorită. Oaspeții se pot aștepta la un amestec de energie vibrantă a plajei și condiții excelente pentru înot și relaxare. Se recomandă să rămâneți până târziu în după-amiaza pentru a aprecia pe deplin lumina uimitoare a coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "Spiaggia del Cannone prezintă o întindere frumoasă de nisip pe fundalul dramatic al orașului Tropea. Oferă o ambianță ceva mai ascunsă, invitând vizitatorii să se bucure în pace de calma Mare Mediterană. Mediul liniștit este pur și simplu perfect pentru cei care doresc să se deconecteze și să facă plajă. Aduceți cu voi câteva conforturi de bază și bucurați-vă de o evadare la malul mării profund relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "Așezată de-a lungul coastei strălucitoare de lângă Tropea, Spiaggia di Riaci este o destinație încântătoare pentru căutătorii de soare. Formațiunile stâncoase izbitoare creează un peisaj memorabil pentru cei care înoată sau explorează țărmul. Veți găsi un amestec plăcut de călători entuziaști și localnici relaxați care se bucură de vremea caldă. O vizită la mijlocul săptămânii poate oferi o experiență mai liniștită și mai spațioasă la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "Celebrată pentru nisipul său impresionant de fin, Spiaggia Michelino este un loc extrem de pitoresc în zona Tropea. Coborârea la plajă răsplătește vizitatorii cu ape cristaline, care sunt impecabile pentru o sesiune prelungită de înot. Vibrația sa neatinsă o face o oază senină, departe de zonele puternic comercializate. Asigurați-vă că purtați propriile gustări și umbrelă, deoarece cadrul natural este păstrat cu grație.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "Spiaggia Vardanello se prezintă ca o fâșie de coastă minunată ce se odihnește chiar în afara orașului Tropea. Acest mediu pașnic promite zile relaxante petrecute înotând și lenevind sub soarele mediteranean. Familiile, la fel ca și cuplurile, vor găsi farmecul său liniștit extrem de atrăgător pentru o simplă evadare la malul mării. Împachetarea unui coș de picnic este o idee minunată pentru a vă prelungi vizita până la începutul serii.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "Debordând de un idilic farmec de coastă, Spiaggia l'Occhiale este un refugiu blând aproape de Tropea. Cadrul său uimitor de la malul apei vă invită să vă scufundați pentru o înotare revigorantă sau pur și simplu să vă relaxați pe țărm. Atmosfera senină este perfectă pentru a renunța la stresul de zi cu zi și pentru a vă acorda la sunetul mării. O vizită într-o după-amiază însorită vă asigură că veți capta cel mai bun aspect absolut al frumuseții sale naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "Cunoscută pentru ambianța sa odihnitoare, Spiaggia della Mandorla este o secțiune minunat de liniștită a țărmului Tropea. Vizitatorii vor descoperi un loc pașnic care este frumos potrivit pentru lectură, băi de soare și înoturi scurte și plăcute. Acționează ca o evadare intimă din centrele de coastă de obicei aglomerate din regiune. Călătorind cu bagaje puține, dar aducând suficientă apă, veți garanta o zi senină și neîntreruptă de ieșire.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
+                  ]
+            },
+            {
+                  "name": "Lido La Grazia",
+                  "text": "Lido La Grazia este o stațiune de plajă la poalele orașului Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.910452,
+                        38.681138
+                  ]
+            },
+            {
+                  "name": "Sunset beach club",
+                  "text": "Sunset beach club este un loc de întâlnire popular pe plaja din Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.889046,
+                        38.675505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa Maria dell'Isola",
+                  "text": "The iconic pilgrimage church sits on a striking sandstone cliff overlooking the Tyrrhenian Sea and is the symbol of Tropea.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-santa-maria-dellisola.webp",
+                  "coords": [
+                        15.895542,
+                        38.679978
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Tropea",
+                  "text": "The 12th-century Norman cathedral houses the venerated image of the Madonna di Romania, the patron saint of the city.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-cattedrale-di-tropea.webp",
+                  "coords": [
+                        15.898874,
+                        38.677872
+                  ]
+            },
+            {
+                  "name": "Affaccio Raf Vallone",
+                  "text": "This viewpoint offers a breathtaking panorama of the beach and the azure sea stretching out to the island of Stromboli.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-affaccio-raf-vallone.webp",
+                  "coords": [
+                        15.897612,
+                        38.679673
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "The museum in the old bishop's palace displays a valuable collection of sacred art, silverware, and statues from various eras.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-museo-diocesano.webp",
+                  "coords": [
+                        15.898426,
+                        38.678151
+                  ]
+            },
+            {
+                  "name": "Grotta del Palombaro",
+                  "text": "A beautiful sea cave at the base of the cape, accessible only by swimming or boat, featuring crystal clear waters.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-grotta-del-palombaro.webp",
+                  "coords": [
+                        15.895821,
+                        38.680561
+                  ]
+            },
+            {
+                  "name": "Corso Vittorio Emanuele",
+                  "text": "The lively main street of the old town invites strolling with many boutiques, restaurants, and the scent of famous red onions.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-corso-vittorio-emanuele.webp",
+                  "coords": [
+                        15.897335,
+                        38.677263
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Rotonda",
+                  "text": "One of the city's most beautiful beaches, located right under the steep cliffs, known for its fine white sand and turquoise water.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-spiaggia-della-rotonda.webp",
+                  "coords": [
+                        15.899377,
+                        38.680749
+                  ]
+            },
+            {
+                  "name": "Palazzo Toraldo",
+                  "text": "A grand historic noble palace in the old town, built upon the ruins of an ancient fortress.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/tropea-palazzo-toraldo.webp",
+                  "coords": [
+                        15.897597,
+                        38.677523
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "Located in the famous coastal town of Tropea, Spiaggia del Convento is a spectacular spot for sea lovers. The inviting waters and charming shoreline make it a wonderful venue to spend a sunny day. Guests can expect a mix of vibrant beach energy and excellent conditions for swimming and lounging. It is recommended to stay until late afternoon to fully appreciate the stunning coastal light.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "Spiaggia del Cannone presents a beautiful stretch of sand against the dramatic backdrop of Tropea. It provides a slightly more tucked-away ambiance, inviting visitors to enjoy the calm Mediterranean sea in peace. The tranquil environment is simply perfect for those wishing to disconnect and sunbathe. Bring along some basic comforts and enjoy a deeply relaxing seaside escape.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "Set along the sparkling coastline near Tropea, Spiaggia di Riaci is an enchanting destination for sunseekers. The striking rock formations create a memorable scenery for those swimming or exploring the shoreline. You will find a pleasant mix of enthusiastic travelers and relaxed locals enjoying the warm weather. Visiting mid-week can provide a more unhurried and spacious experience by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "Celebrated for its impressively fine sand, Spiaggia Michelino is a highly picturesque spot in the Tropea area. The descent to the beach rewards visitors with crystalline waters that are flawless for an extended swimming session. Its untouched vibe makes it a serene oasis away from heavily commercialized zones. Be sure to carry your own snacks and umbrella, as the natural setting is gracefully preserved.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "Spiaggia Vardanello stands as a lovely coastal strip resting just outside of Tropea. This peaceful environment promises relaxing days spent swimming and lounging beneath the Mediterranean sun. Families and couples alike will find its quiet charm highly appealing for a simple seaside escape. Packing a picnic basket is a wonderful idea to stretch your visit into the early evening.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "Brimming with an idyllic coastal charm, Spiaggia l'Occhiale is a gentle haven close to Tropea. Its stunning waterfront setting invites you to dive in for an invigorating swim or merely relax on the shoreline. The serene atmosphere is perfect for letting go of everyday stress and tuning into the sound of the sea. Visiting on a sunny afternoon ensures you will capture the absolute best of its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "Known for its restful ambiance, Spiaggia della Mandorla is a wonderfully quiet section of the Tropea shoreline. Visitors will discover a peaceful spot that is beautifully suited for reading, sunbathing, and taking short, pleasant swims. It acts as an intimate escape from the typically crowded coastal hubs in the region. Traveling light but bringing enough water will guarantee a serene and uninterrupted day out.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
+                  ]
+            },
+            {
+                  "name": "Lido La Grazia",
+                  "text": "Lido La Grazia is a beach resort at the foot of Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.910452,
+                        38.681138
+                  ]
+            },
+            {
+                  "name": "Sunset beach club",
+                  "text": "Sunset beach club is a popular spot on the beach of Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.889046,
+                        38.675505
+                  ]
+            }
+      ]
+}},
   {"id": "vernazza", "type": "city", "parent": "IT-42", "coords": [9.6839, 44.1352], "population": 800, "tier": 1, "name": {"de": "Vernazza", "hu": "Vernazza", "ro": "Vernazza", "en": "Vernazza"}, "description": {"de": "Vernazza gilt als das juwelenartigste der fünf Dörfer der Cinque Terre, bekannt für seinen Naturhafen und die bunten Häuser.", "hu": "A Cinque Terre leglátványosabb faluja, mely természetes kikötőjével és a tengerbe nyúló sziklás kiszögellésével ejti rabul a látogatókat.", "ro": "Vernazza este considerată cea mai pitorească localitate din Cinque Terre, faimoasă pentru portul său natural și casele colorate.", "en": "Vernazza is often called the most beautiful village of the Cinque Terre, distinguished by its natural harbor and narrow alleys."}, "facts": {"de": ["Naturhafen", "Doria-Burg", "Santa Margherita Kirche", "Keine Autos", "Weinbau-Terrassen", "UNESCO-Welterbe"], "hu": ["Természetes kikötő", "Doria-kastély", "Autómentes övezet", "UNESCO világörökség", "Sziklába vájt utak", "Halászati hagyományok"], "ro": ["Port natural", "Castelul Doria", "Fără mașini", "Patrimoniu UNESCO", "Biserica Santa Margherita", "Terase viticole"], "en": ["Natural harbor", "Doria Castle", "Car-free zone", "UNESCO World Heritage", "Cliffside houses", "Vineyard terraces"]}, "image": "/poi-images/vernazza.webp", "imageHint": "Vernazza colorful houses and harbor from a high viewpoint", "descriptionAdvanced": {"de": "Vernazza ist das einzige Dorf der Cinque Terre mit einem echten Naturhafen. Die Geschichte des Ortes reicht bis ins Jahr 1080 zurück, als er als strategischer Militärstützpunkt gegen Piraten diente. Das Stadtbild wird vom markanten Turm der Burg Doria beherrscht, der über der Bucht thront. Die Kirche Santa Margherita d'Antiochia, direkt am Wasser gelegen, besticht durch ihre untypische Ausrichtung und den achteckigen Glockenturm. Trotz der schweren Überschwemmungen im Jahr 2011 wurde der Ort liebevoll restauriert und bewahrt seinen authentischen Charme. Die steilen, terrassierten Hänge rund um das Dorf werden bis heute für den Anbau von Wein und Oliven genutzt, was die einzigartige Kulturlandschaft der ligurischen Küste prägt. Der Sentiero Azzurro Richtung Monterosso und Corniglia kostet seit 2024 ab 7,50 Euro täglich, mit Spitzenpreisen von 15 Euro in der Hochsaison. Vernazzas farbenfroher Hafen bleibt das meistfotografierte Motiv der Cinque Terre.", "hu": "Vernazza a Cinque Terre egyetlen olyan települése, amely természetes kikötővel rendelkezik. Első írásos említése 1080-ból származik, amikor tengeri bázisként fontos védelmi szerepet töltött be a kalózok ellen. A falu látképét a kikötő fölé magasodó Doria-kastély hengeres tornya uralja, amely egykor a térség védelmét szolgálta. A part szélén álló Szent Margit-templom különlegessége az alapzataként szolgáló sziklafal és a nyolcszögletű harangtorony. A látogatók számára az autómentes főutca és a labirintusszerű szűk sikátorok (caruggi) kínálnak felfedezni valót. A környező domboldalakon kézzel művelt szőlőteraszok találhatók, ahol a híres helyi borok alapanyaga terem a meredek lejtőkön. A Sentiero Azzurro Monterosso és Corniglia felé 2024-től napi 7,50 eurótól indul, csúcsszezonban 15 euró. Vernazza színes kikötője továbbra is a Cinque Terre legtöbbet fotózott helyszíne.", "ro": "Vernazza este singura localitate din Cinque Terre care posedă un port natural protejat de o peninsulă stâncoasă. Documentată încă din anul 1080, a servit ca bază navală strategică pentru apărarea împotriva piraților sarazini. Simbolul orașului este Castelul Doria, cu turnul său cilindric ce oferă o panoramă spectaculoasă asupra Golfului Genova. Biserica Santa Margherita d'Antiochia, construită în 1318 pe o stâncă la marginea apei, este un exemplu rar de arhitectură gotic-ligurică. Deși a fost grav afectată de inundațiile din 2011, comunitatea a reconstruit totul cu o precizie uimitoare. Astăzi, Vernazza rămâne o destinație exclusiv pietonală, unde vizitatorii pot explora străduțele înguste ce urcă spre podgoriile faimoase din regiune. Sentiero Azzurro spre Monterosso și Corniglia costă din 2024 de la 7,50 euro pe zi, până la 15 euro în vârf de sezon. Portul colorat al Vernazzei rămâne cel mai fotografiat motiv din Cinque Terre.", "en": "Vernazza is the only village in the Cinque Terre with a true natural harbor. Its history dates back to 1080, when it served as a strategic military base against pirate raids. The skyline is dominated by the circular tower of the Doria Castle, which sits on a rocky outcrop overlooking the bay. The Church of Santa Margherita d'Antiochia, built in 1318 directly on the water's edge, features a unique octagonal bell tower and a simple, atmospheric interior. Despite facing a devastating flood in 2011, the village has been meticulously restored to its former glory. The surrounding hills are carved into steep terraces used for centuries to produce local wines and olive oil, accessible via a network of ancient hiking trails. The Sentiero Azzurro toward Monterosso and Corniglia costs from 7.50 euros per day since 2024, peaking at 15 euros in high season. Vernazza's colourful harbour remains the most photographed spot in the Cinque Terre."}, "factsAdvanced": {"de": ["Gegründet um 1080", "Doria-Turm aus dem 15. Jahrhundert", "Santa Margherita Kirche (1318)", "Höhe: 3 Meter über dem Meer", "800 feste Einwohner", "Erreichbar nur per Bahn oder Boot", "Teil des Nationalparks Cinque Terre", "Wiederaufbau nach Flut 2011"], "hu": ["Alapítás: 1080 körül", "Doria-torony: 15. század", "Szent Margit-templom: 1318", "Tengerszint feletti magasság: 3m", "Lakosság: kb. 800 fő", "Csak vonattal vagy hajóval elérhető", "UNESCO listán 1997 óta", "Híres a Sciacchetrã desszertborról"], "ro": ["Fondat în jurul anului 1080", "Turnul Doria din secolul XV", "Biserica Santa Margherita (1318)", "Altitudine: 3 metri", "Populație: 800 locuitori", "Acces doar cu trenul sau vaporul", "Parte din Parcul Național Cinque Terre", "Restaurat complet după 2011"], "en": ["Founded circa 1080", "15th-century Doria tower", "Church of St. Margaret (1318)", "Elevation: 3 meters", "Population: approx. 800", "Accessible only by train or sea", "UNESCO listed since 1997", "Famous for Sciacchetrà dessert wine"]}, "sights": {
       "de": [
             {
@@ -22021,6 +24909,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.662957,
                         45.701209
                   ]
+            },
+            {
+                  "name": "Parco Avventura di Torre Boldone",
+                  "text": "Ein Abenteuerpark in der Nähe von Bergamo mit Kletterparcours und Aktivitäten im Freien.",
+                  "category": "park",
+                  "coords": [
+                        9.703926,
+                        45.713347
+                  ]
             }
       ],
       "hu": [
@@ -22121,6 +25018,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.662957,
                         45.701209
+                  ]
+            },
+            {
+                  "name": "Parco Avventura di Torre Boldone",
+                  "text": "Bergamo melletti kalandpark kötélpályákkal és szabadtéri tevékenységekkel.",
+                  "category": "park",
+                  "coords": [
+                        9.703926,
+                        45.713347
                   ]
             }
       ],
@@ -22223,6 +25129,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.662957,
                         45.701209
                   ]
+            },
+            {
+                  "name": "Parco Avventura di Torre Boldone",
+                  "text": "Un parc de aventură lângă Bergamo, oferind trasee de cățărare și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        9.703926,
+                        45.713347
+                  ]
             }
       ],
       "en": [
@@ -22323,6 +25238,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.662957,
                         45.701209
+                  ]
+            },
+            {
+                  "name": "Parco Avventura di Torre Boldone",
+                  "text": "An adventure park near Bergamo offering climbing courses and outdoor activities.",
+                  "category": "park",
+                  "coords": [
+                        9.703926,
+                        45.713347
                   ]
             }
       ]
@@ -23640,6 +26564,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.97859,
                         43.259129
                   ]
+            },
+            {
+                  "name": "Centro Nuoto Cortona",
+                  "text": "Ein Schwimmzentrum in Cortona mit Innen- und Außenbecken für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.98498,
+                        43.261553
+                  ]
             }
       ],
       "hu": [
@@ -23760,6 +26693,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.97859,
                         43.259129
+                  ]
+            },
+            {
+                  "name": "Centro Nuoto Cortona",
+                  "text": "Cortonai úszóközpont fedett és szabadtéri medencékkel minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        11.98498,
+                        43.261553
                   ]
             }
       ],
@@ -23882,6 +26824,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.97859,
                         43.259129
                   ]
+            },
+            {
+                  "name": "Centro Nuoto Cortona",
+                  "text": "Un centru de înot în Cortona, care oferă piscine interioare și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        11.98498,
+                        43.261553
+                  ]
             }
       ],
       "en": [
@@ -24002,6 +26953,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.97859,
                         43.259129
+                  ]
+            },
+            {
+                  "name": "Centro Nuoto Cortona",
+                  "text": "A swimming center in Cortona offering indoor and outdoor pools for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        11.98498,
+                        43.261553
                   ]
             }
       ]
@@ -25194,7 +28154,1168 @@ export const poiExtraItalyV2: POI[] = [
             }
       ]
 }},
-  {"id": "forte-dei-marmi", "type": "city", "parent": "IT-52", "coords": [10.1672, 43.9594], "population": 7400, "tier": 2, "name": {"de": "Forte dei Marmi", "hu": "Forte dei Marmi", "ro": "Forte dei Marmi", "en": "Forte dei Marmi"}, "description": {"de": "Ein exklusiver Badeort in der Versilia, bekannt für seine luxuriösen Villen, erstklassigen Boutiquen und den ikonischen Marmorsteg.", "hu": "Exkluzív toszkán üdülőhely a Versilia-parton, amely fényűző villáiról, elegáns divatüzleteiről és híres márványkikötőjéről ismert.", "ro": "O stațiune balneară exclusivistă din Versilia, renumită pentru vilele sale luxoase, buticurile de designer și pontonul istoric.", "en": "An exclusive seaside resort in Versilia, famous for its luxury villas, high-end fashion boutiques, and the iconic marble pier."}, "facts": {"de": ["Luxus-Badeort", "Versilia-Küste", "Marmorhandel-Erbe", "Wochenmarkt-Fokus", "Exklusive Clubs", "Breite Sandstrände", "Apuanische Alpen Sicht", "Prominenten-Hotspot"], "hu": ["Luxus üdülőhely", "Versilia partvidék", "Márványkereskedelem", "Híres heti piac", "Exkluzív klubok", "Széles homokos strand", "Apuan-Alpok közelsége", "Sztárok kedvence"], "ro": ["Stațiune de lux", "Coasta Versilia", "Istoric în marmură", "Piață săptămânală", "Cluburi exclusiviste", "Plaje late cu nisip", "Vedere spre Alpii Apuani", "Destinație VIP"], "en": ["Luxury resort", "Versilia coast", "Marble trade heritage", "Famous weekly market", "Exclusive beach clubs", "Wide sandy beaches", "Apuan Alps views", "Celebrity hotspot"]}, "image": "/poi-images/forte-dei-marmi.webp", "imageHint": "Elegant beach club umbrellas and the historical pier in Forte dei Marmi", "descriptionAdvanced": {"de": "Forte dei Marmi ist das Juwel der toskanischen Riviera. Der Name leitet sich von der Festung im Stadtzentrum und dem Marmor ab, der hier von den Apuanischen Alpen zum Meer transportiert wurde. Heute ist die Stadt ein Synonym für italienischen Glamour und diskreten Luxus. Die von Pinien gesäumten Alleen beherbergen einige der teuersten Immobilien Italiens. Besucher schätzen die makellos gepflegten Strandbäder (Bagni), in denen Service auf höchstem Niveau geboten wird. Neben dem Badevergnügen ist Forte dei Marmi für seinen Mittwochsmarkt bekannt, auf dem hochwertige Kaschmirwaren und Lederartikel verkauft werden. Die Kombination aus maritimem Flair und der dramatischen Kulisse der nahen Berge macht diesen Ort einzigartig.", "hu": "Forte dei Marmi a toszkán tengerpart, a Versilia egyik legelegánsabb és legkeresettebb üdülőhelye. A város nevét arról az erődről kapta, amelyet I. Lipót nagyherceg építtetett 1788-ban a környéken bányászott márvány védelmére. A település történelme szorosan összefonódik a közeli Apuan-Alpokkal, ahonnan a világhírű carrarai márványt szállították ide, hogy a tengeren keresztül juttassák el a világ minden pontjára. A híres móló, a Pontile, eredetileg a súlyos márványtömbök hajóra rakodását szolgálta, ma azonban a turisták kedvelt sétatere, ahonnan páratlan kilátás nyílik a tengerre és a hegycsúcsokra. A város híres a fenyőerdők közé ékelt luxusvilláiról, az exkluzív strandklubjairól, ahol a híres színes napernyők sorakoznak, valamint a szerdai piacáról, amely a legmagasabb minőségű olasz bőrárut és divatcikkeket kínálja. A kulturális élet központja a Villa Bertelli, a gasztronómiai élményeket pedig a Michelin-csillagos éttermek garantálják.", "ro": "Forte dei Marmi este perla rivierei toscane, numele său provenind de la fortăreața din centrul orașului și de la marmura transportată aici din Munții Alpii Apuani. Astăzi, localitatea este sinonimă cu rafinamentul italian și luxul discret, străzile sale umbrite de pini adăpostind unele dintre cele mai scumpe proprietăți din Italia. Vizitatorii sunt atrași de cluburile de plajă (Bagni) impecabil organizate, care oferă servicii de top. Pe lângă plajă, orașul este celebru pentru piața de miercuri, unde se găsesc articole de cașmir și piele de cea mai bună calitate. Combinația dintre briza mării și fundalul dramatic al munților din apropiere creează o experiență de vacanță inegalabilă în Europa.", "en": "Forte dei Marmi is the jewel of the Tuscan Riviera, taking its name from the fortress in the town center and the marble once transported here from the Apuan Alps. Today, the town is a synonym for Italian glamour and discreet luxury, with pine-lined avenues housing some of Italy's most expensive real estate. Visitors cherish the impeccably maintained beach clubs (Bagni), where high-end service meets seaside relaxation. Beyond the beach, Forte dei Marmi is renowned for its Wednesday market, offering premium cashmere and leather goods. The combination of maritime flair and the dramatic backdrop of the nearby mountains creates a unique atmosphere that has attracted the international elite for decades."}, "factsAdvanced": {"de": ["Bau der Festung: 1788", "Steglänge: ca. 300 Meter", "Entfernung nach Lucca: 35 km", "Teil der Versilia-Region", "Sitz von Luxusmarken", "Bekannt für Radtourismus"], "hu": ["Az erőd építése: 1788", "Móló hossza: kb. 300 méter", "Távolság Luccától: 35 km", "A Versilia régió része", "Luxusmárkák központja", "Népszerű a kerékpárosok körében"], "ro": ["Construcția cetății: 1788", "Lungime ponton: cca. 300 m", "Distanța până la Lucca: 35 km", "Parte a regiunii Versilia", "Sediu al brandurilor de lux", "Popular pentru ciclismul urban"], "en": ["Fortress built: 1788", "Pier length: approx. 300m", "Distance to Lucca: 35 km", "Part of the Versilia region", "Home to luxury fashion houses", "Renowned for cycling tourism"]}, "sights": {"de": [{"name": "Pontile di Forte dei Marmi", "text": "Die historische Seebrücke erstreckt sich 300 Meter weit in das Ligurische Meer und bietet Ausblick auf die Küste.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp", "coords": [10.163506, 43.955643]}, {"name": "Il Fortino", "text": "Die im Jahr 1788 erbaute Festung im Stadtzentrum beherbergt heute das Museum für Satire und Karikatur.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp", "coords": [10.169636, 43.95952]}, {"name": "Piazza Garibaldi", "text": "Der zentrale Platz ist das Herz des gesellschaftlichen Lebens mit exklusiven Boutiquen und historischen Cafés.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp", "coords": [10.169292, 43.959741]}, {"name": "Chiesa di Sant'Ermete", "text": "Die Hauptkirche der Stadt wurde zu Ehren des Schutzpatrons errichtet und besticht durch ihre klassische Fassade.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp", "coords": [10.17101, 43.96043]}, {"name": "Mercato del Forte", "text": "Ein weltberühmter Wochenmarkt auf der Piazza Marconi, der für hochwertige italienische Mode und Lederwaren bekannt ist.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp", "coords": [10.169989, 43.9575]}, {"name": "Villa Bertelli", "text": "Ein kulturelles Zentrum in einer historischen Residenz, in dem regelmäßig Konzerte, Ausstellungen und Theateraufführungen stattfinden.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp", "coords": [10.15839, 43.96884]}, {"name": "Museo della Satira e della Caricatura", "text": "Ein einzigartiges Museum im Fortino, das sich der Geschichte der grafischen Satire aus aller Welt widmet.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp", "coords": [10.16956, 43.959537]}, {"name": "Parco della Versiliana", "text": "Ein weitläufiger Pinienwald in der Nähe, der im Sommer Schauplatz für renommierte Kulturfestivals und Lesungen ist.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp", "coords": [10.190912, 43.943879]}, {"name": "Vittoria Apuana", "text": "Ein ruhigeres Wohnviertel im Norden mit eleganten Villen und üppigen Gärten, ideal für entspannte Spaziergänge.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp", "coords": [10.159397, 43.968866]}, {"name": "Spiaggia del Cinquale", "text": "Die Spiaggia del Cinquale, gelegen an den eleganten Ufern von Forte Dei Marmi, ist ein einladender Küstenstreifen, der zur vollkommenen Entspannung einlädt. Der Strand zeichnet sich durch ein fröhliches Ambiente aus, das sowohl ausgedehnte Schwimmrunden als auch angenehmes Faulenzen am Nachmittag fördert. Sommergäste genießen diesen Ort am meisten, wenn sie einen morgendlichen Besuch einplanen, solange die Meeresbrise noch frisch und kühl ist.", "category": "recreational", "coords": [10.141055, 43.978811]}, {"name": "Spiaggia Colonia Casalmaggiore", "text": "Die Spiaggia Colonia Casalmaggiore bietet einen reizvollen Uferbereich in der schicken Stadt Forte Dei Marmi. Sie schafft eine einladende Atmosphäre für alle Besucher, die sich im Sand ausstrecken und in den italienischen Küstenlebensstil eintauchen möchten. Sonnenbaden und sanfte Spaziergänge sind hier die Hauptattraktionen, was diesen Ort zu einer tollen Wahl für einen entspannten Wochenendausflug macht.", "category": "recreational", "coords": [10.144751, 43.974898]}], "hu": [{"name": "Pontile di Forte dei Marmi", "text": "A történelmi móló 300 méter hosszan nyúlik be a Ligur-tengerbe, panorámás kilátást nyújtva az Apuan-Alpokra.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp", "coords": [10.163506, 43.955643]}, {"name": "Il Fortino", "text": "Az 1788-ban épült kis erőd a város központjában található, ma a szatíra és karikatúra múzeumának ad otthont.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp", "coords": [10.169636, 43.95952]}, {"name": "Piazza Garibaldi", "text": "A város főtere, ahol elegáns üzletek, éttermek és a helyi közösségi élet központja található.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp", "coords": [10.169292, 43.959741]}, {"name": "Chiesa di Sant'Ermete", "text": "A város védőszentjének szentelt templom, amely letisztult építészetével és spirituális jelentőségével emelkedik ki.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp", "coords": [10.17101, 43.96043]}, {"name": "Mercato del Forte", "text": "Világhírű heti piac a Piazza Marconin, ahol prémium olasz ruházati cikkek és kézműves termékek kaphatók.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp", "coords": [10.169989, 43.9575]}, {"name": "Villa Bertelli", "text": "Egy történelmi rezidenciából kialakított kulturális központ, amely koncerteknek és időszaki kiállításoknak ad helyet.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp", "coords": [10.15839, 43.96884]}, {"name": "Museo della Satira e della Caricatura", "text": "Egyedülálló múzeum az erődben, amely a grafikai humor és a politikai szatíra történetét mutatja be.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp", "coords": [10.16956, 43.959537]}, {"name": "Parco della Versiliana", "text": "Hatalmas fenyőerdő a város szélén, amely nyaranta neves kulturális fesztiválok és irodalmi estek helyszíne.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp", "coords": [10.190912, 43.943879]}, {"name": "Vittoria Apuana", "text": "A város északi, csendesebb lakónegyede, ahol pazar villák és gondozott kertek között sétálhatunk.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp", "coords": [10.159397, 43.968866]}, {"name": "Spiaggia del Cinquale", "text": "A Forte Dei Marmi elegáns partjai mentén fekvő Spiaggia del Cinquale egy barátságos tengerparti szakasz, amely tökéletes a pihenésre. A strand általában vidám hangulatot áraszt, és egyaránt ösztönöz a kiadós úszásra, valamint a kellemes délutáni heverészésre. A nyári látogatók akkor fogják a leginkább élvezni, ha reggeli kiruccanást terveznek, amikor a tengeri szellő még hűvös és frissítő.", "category": "recreational", "coords": [10.141055, 43.978811]}, {"name": "Spiaggia Colonia Casalmaggiore", "text": "A Spiaggia Colonia Casalmaggiore egy elragadó part menti területet kínál az elegáns Forte Dei Marmi városában. Hívogató atmoszférát teremt a látogatóknak, hogy elnyúljanak a homokban és elmerüljenek az olasz partvidéki életmódban. A napozás és a kényelmes séták jelentik itt a fő vonzerőt, így nagyszerű választás egy pihentető hétvégi kiránduláshoz.", "category": "recreational", "coords": [10.144751, 43.974898]}], "ro": [{"name": "Pontile di Forte dei Marmi", "text": "Acest dig istoric se întinde pe 300 de metri în Marea Ligurică, oferind o vedere superbă asupra coastei.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp", "coords": [10.163506, 43.955643]}, {"name": "Il Fortino", "text": "Construit în 1788, acest fort mic din centrul orașului găzduiește astăzi Muzeul Satirei și Caricaturii.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp", "coords": [10.169636, 43.95952]}, {"name": "Piazza Garibaldi", "text": "Piața centrală a orașului, un loc elegant unde se găsesc cafenele istorice și buticuri de lux.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp", "coords": [10.169292, 43.959741]}, {"name": "Chiesa di Sant'Ermete", "text": "Principala biserică a localității, dedicată sfântului patron, remarcabilă prin simplitatea fațadei sale clasice.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp", "coords": [10.17101, 43.96043]}, {"name": "Mercato del Forte", "text": "O piață săptămânală celebră în întreaga lume, situată în Piazza Marconi, cunoscută pentru modă și marochinărie.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp", "coords": [10.169989, 43.9575]}, {"name": "Villa Bertelli", "text": "O vilă istorică transformată în centru cultural, unde au loc expoziții de artă și concerte de vară.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp", "coords": [10.15839, 43.96884]}, {"name": "Museo della Satira e della Caricatura", "text": "Un muzeu inedit situat în interiorul fortului, dedicat istoriei satirei grafice internaționale.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp", "coords": [10.16956, 43.959537]}, {"name": "Parco della Versiliana", "text": "O vastă pădure de pini care găzduiește un festival cultural renumit în timpul sezonului estival.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp", "coords": [10.190912, 43.943879]}, {"name": "Vittoria Apuana", "text": "Un cartier rezidențial liniștit situat în partea de nord, plin de vile elegante și grădini luxuriante.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp", "coords": [10.159397, 43.968866]}, {"name": "Spiaggia del Cinquale", "text": "Aflată de-a lungul coastelor elegante din Forte Dei Marmi, Spiaggia del Cinquale este o fâșie de coastă primitoare, perfectă pentru relaxare pe litoral. Plaja are de obicei o ambianță veselă, încurajând atât înotul prelungit, cât și leneveala plăcută de după-amiază. Vizitatorii de vară o vor găsi cea mai plăcută dacă planifică o vizită de dimineață, când briza mării este proaspătă și răcoroasă.", "category": "recreational", "coords": [10.141055, 43.978811]}, {"name": "Spiaggia Colonia Casalmaggiore", "text": "Spiaggia Colonia Casalmaggiore prezintă un spațiu minunat pe țărm în cochetul oraș Forte Dei Marmi. Aceasta creează o atmosferă primitoare pentru vizitatorii care doresc să se întindă pe nisip și să se cufunde în stilul de viață al coastei italiene. Plaja la soare și plimbările ușoare sunt principalele atracții aici, transformând-o într-o alegere excelentă pentru o ieșire relaxată de weekend.", "category": "recreational", "coords": [10.144751, 43.974898]}], "en": [{"name": "Pontile di Forte dei Marmi", "text": "This historic pier stretches 300 meters into the Ligurian Sea, offering panoramic views of the Apuan Alps.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp", "coords": [10.163506, 43.955643]}, {"name": "Il Fortino", "text": "Built in 1788, this small fortress in the town center now houses the Museum of Satire and Caricature.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp", "coords": [10.169636, 43.95952]}, {"name": "Piazza Garibaldi", "text": "The central square is the heart of social life, featuring exclusive boutiques and historic cafes.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp", "coords": [10.169292, 43.959741]}, {"name": "Chiesa di Sant'Ermete", "text": "The main church of the town, dedicated to its patron saint, known for its elegant and classic facade.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp", "coords": [10.17101, 43.96043]}, {"name": "Mercato del Forte", "text": "A world-famous weekly market in Piazza Marconi, renowned for high-end Italian fashion and leather goods.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp", "coords": [10.169989, 43.9575]}, {"name": "Villa Bertelli", "text": "A cultural center set in a historic villa, hosting regular concerts, art exhibitions, and theater events.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp", "coords": [10.15839, 43.96884]}, {"name": "Museo della Satira e della Caricatura", "text": "A unique museum located within the Fortino, dedicated to the history of graphic satire from around the world.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp", "coords": [10.16956, 43.959537]}, {"name": "Parco della Versiliana", "text": "A vast pine forest nearby that becomes a venue for prestigious cultural festivals and readings in summer.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp", "coords": [10.190912, 43.943879]}, {"name": "Vittoria Apuana", "text": "A quiet residential area in the north with elegant villas and lush gardens, perfect for a relaxing walk.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp", "coords": [10.159397, 43.968866]}, {"name": "Spiaggia del Cinquale", "text": "Found along the elegant shores of Forte Dei Marmi, Spiaggia del Cinquale is a welcoming coastal stretch perfect for seaside relaxation. The beach typically hums with a cheerful ambiance, encouraging both extensive swimming and pleasant afternoon lounging. Summer visitors will find it most enjoyable by planning a morning visit when the sea breeze is crisp and refreshing.", "category": "recreational", "coords": [10.141055, 43.978811]}, {"name": "Spiaggia Colonia Casalmaggiore", "text": "Spiaggia Colonia Casalmaggiore presents a delightful shoreline space within the chic town of Forte Dei Marmi. It creates an inviting atmosphere for visitors to stretch out on the sand and immerse themselves in the Italian coastal lifestyle. Sunbathing and gentle strolls are the main attractions here, making it a great choice for a relaxed weekend outing.", "category": "recreational", "coords": [10.144751, 43.974898]}]}},
+  {"id": "forte-dei-marmi", "type": "city", "parent": "IT-52", "coords": [10.1672, 43.9594], "population": 7400, "tier": 2, "name": {"de": "Forte dei Marmi", "hu": "Forte dei Marmi", "ro": "Forte dei Marmi", "en": "Forte dei Marmi"}, "description": {"de": "Ein exklusiver Badeort in der Versilia, bekannt für seine luxuriösen Villen, erstklassigen Boutiquen und den ikonischen Marmorsteg.", "hu": "Exkluzív toszkán üdülőhely a Versilia-parton, amely fényűző villáiról, elegáns divatüzleteiről és híres márványkikötőjéről ismert.", "ro": "O stațiune balneară exclusivistă din Versilia, renumită pentru vilele sale luxoase, buticurile de designer și pontonul istoric.", "en": "An exclusive seaside resort in Versilia, famous for its luxury villas, high-end fashion boutiques, and the iconic marble pier."}, "facts": {"de": ["Luxus-Badeort", "Versilia-Küste", "Marmorhandel-Erbe", "Wochenmarkt-Fokus", "Exklusive Clubs", "Breite Sandstrände", "Apuanische Alpen Sicht", "Prominenten-Hotspot"], "hu": ["Luxus üdülőhely", "Versilia partvidék", "Márványkereskedelem", "Híres heti piac", "Exkluzív klubok", "Széles homokos strand", "Apuan-Alpok közelsége", "Sztárok kedvence"], "ro": ["Stațiune de lux", "Coasta Versilia", "Istoric în marmură", "Piață săptămânală", "Cluburi exclusiviste", "Plaje late cu nisip", "Vedere spre Alpii Apuani", "Destinație VIP"], "en": ["Luxury resort", "Versilia coast", "Marble trade heritage", "Famous weekly market", "Exclusive beach clubs", "Wide sandy beaches", "Apuan Alps views", "Celebrity hotspot"]}, "image": "/poi-images/forte-dei-marmi.webp", "imageHint": "Elegant beach club umbrellas and the historical pier in Forte dei Marmi", "descriptionAdvanced": {"de": "Forte dei Marmi ist das Juwel der toskanischen Riviera. Der Name leitet sich von der Festung im Stadtzentrum und dem Marmor ab, der hier von den Apuanischen Alpen zum Meer transportiert wurde. Heute ist die Stadt ein Synonym für italienischen Glamour und diskreten Luxus. Die von Pinien gesäumten Alleen beherbergen einige der teuersten Immobilien Italiens. Besucher schätzen die makellos gepflegten Strandbäder (Bagni), in denen Service auf höchstem Niveau geboten wird. Neben dem Badevergnügen ist Forte dei Marmi für seinen Mittwochsmarkt bekannt, auf dem hochwertige Kaschmirwaren und Lederartikel verkauft werden. Die Kombination aus maritimem Flair und der dramatischen Kulisse der nahen Berge macht diesen Ort einzigartig.", "hu": "Forte dei Marmi a toszkán tengerpart, a Versilia egyik legelegánsabb és legkeresettebb üdülőhelye. A város nevét arról az erődről kapta, amelyet I. Lipót nagyherceg építtetett 1788-ban a környéken bányászott márvány védelmére. A település történelme szorosan összefonódik a közeli Apuan-Alpokkal, ahonnan a világhírű carrarai márványt szállították ide, hogy a tengeren keresztül juttassák el a világ minden pontjára. A híres móló, a Pontile, eredetileg a súlyos márványtömbök hajóra rakodását szolgálta, ma azonban a turisták kedvelt sétatere, ahonnan páratlan kilátás nyílik a tengerre és a hegycsúcsokra. A város híres a fenyőerdők közé ékelt luxusvilláiról, az exkluzív strandklubjairól, ahol a híres színes napernyők sorakoznak, valamint a szerdai piacáról, amely a legmagasabb minőségű olasz bőrárut és divatcikkeket kínálja. A kulturális élet központja a Villa Bertelli, a gasztronómiai élményeket pedig a Michelin-csillagos éttermek garantálják.", "ro": "Forte dei Marmi este perla rivierei toscane, numele său provenind de la fortăreața din centrul orașului și de la marmura transportată aici din Munții Alpii Apuani. Astăzi, localitatea este sinonimă cu rafinamentul italian și luxul discret, străzile sale umbrite de pini adăpostind unele dintre cele mai scumpe proprietăți din Italia. Vizitatorii sunt atrași de cluburile de plajă (Bagni) impecabil organizate, care oferă servicii de top. Pe lângă plajă, orașul este celebru pentru piața de miercuri, unde se găsesc articole de cașmir și piele de cea mai bună calitate. Combinația dintre briza mării și fundalul dramatic al munților din apropiere creează o experiență de vacanță inegalabilă în Europa.", "en": "Forte dei Marmi is the jewel of the Tuscan Riviera, taking its name from the fortress in the town center and the marble once transported here from the Apuan Alps. Today, the town is a synonym for Italian glamour and discreet luxury, with pine-lined avenues housing some of Italy's most expensive real estate. Visitors cherish the impeccably maintained beach clubs (Bagni), where high-end service meets seaside relaxation. Beyond the beach, Forte dei Marmi is renowned for its Wednesday market, offering premium cashmere and leather goods. The combination of maritime flair and the dramatic backdrop of the nearby mountains creates a unique atmosphere that has attracted the international elite for decades."}, "factsAdvanced": {"de": ["Bau der Festung: 1788", "Steglänge: ca. 300 Meter", "Entfernung nach Lucca: 35 km", "Teil der Versilia-Region", "Sitz von Luxusmarken", "Bekannt für Radtourismus"], "hu": ["Az erőd építése: 1788", "Móló hossza: kb. 300 méter", "Távolság Luccától: 35 km", "A Versilia régió része", "Luxusmárkák központja", "Népszerű a kerékpárosok körében"], "ro": ["Construcția cetății: 1788", "Lungime ponton: cca. 300 m", "Distanța până la Lucca: 35 km", "Parte a regiunii Versilia", "Sediu al brandurilor de lux", "Popular pentru ciclismul urban"], "en": ["Fortress built: 1788", "Pier length: approx. 300m", "Distance to Lucca: 35 km", "Part of the Versilia region", "Home to luxury fashion houses", "Renowned for cycling tourism"]}, "sights": {
+      "de": [
+            {
+                  "name": "Pontile di Forte dei Marmi",
+                  "text": "Die historische Seebrücke erstreckt sich 300 Meter weit in das Ligurische Meer und bietet Ausblick auf die Küste.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp",
+                  "coords": [
+                        10.163506,
+                        43.955643
+                  ]
+            },
+            {
+                  "name": "Il Fortino",
+                  "text": "Die im Jahr 1788 erbaute Festung im Stadtzentrum beherbergt heute das Museum für Satire und Karikatur.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp",
+                  "coords": [
+                        10.169636,
+                        43.95952
+                  ]
+            },
+            {
+                  "name": "Piazza Garibaldi",
+                  "text": "Der zentrale Platz ist das Herz des gesellschaftlichen Lebens mit exklusiven Boutiquen und historischen Cafés.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp",
+                  "coords": [
+                        10.169292,
+                        43.959741
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Ermete",
+                  "text": "Die Hauptkirche der Stadt wurde zu Ehren des Schutzpatrons errichtet und besticht durch ihre klassische Fassade.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp",
+                  "coords": [
+                        10.17101,
+                        43.96043
+                  ]
+            },
+            {
+                  "name": "Mercato del Forte",
+                  "text": "Ein weltberühmter Wochenmarkt auf der Piazza Marconi, der für hochwertige italienische Mode und Lederwaren bekannt ist.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp",
+                  "coords": [
+                        10.169989,
+                        43.9575
+                  ]
+            },
+            {
+                  "name": "Villa Bertelli",
+                  "text": "Ein kulturelles Zentrum in einer historischen Residenz, in dem regelmäßig Konzerte, Ausstellungen und Theateraufführungen stattfinden.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp",
+                  "coords": [
+                        10.15839,
+                        43.96884
+                  ]
+            },
+            {
+                  "name": "Museo della Satira e della Caricatura",
+                  "text": "Ein einzigartiges Museum im Fortino, das sich der Geschichte der grafischen Satire aus aller Welt widmet.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp",
+                  "coords": [
+                        10.16956,
+                        43.959537
+                  ]
+            },
+            {
+                  "name": "Parco della Versiliana",
+                  "text": "Ein weitläufiger Pinienwald in der Nähe, der im Sommer Schauplatz für renommierte Kulturfestivals und Lesungen ist.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp",
+                  "coords": [
+                        10.190912,
+                        43.943879
+                  ]
+            },
+            {
+                  "name": "Vittoria Apuana",
+                  "text": "Ein ruhigeres Wohnviertel im Norden mit eleganten Villen und üppigen Gärten, ideal für entspannte Spaziergänge.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp",
+                  "coords": [
+                        10.159397,
+                        43.968866
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "Die Spiaggia del Cinquale, gelegen an den eleganten Ufern von Forte Dei Marmi, ist ein einladender Küstenstreifen, der zur vollkommenen Entspannung einlädt. Der Strand zeichnet sich durch ein fröhliches Ambiente aus, das sowohl ausgedehnte Schwimmrunden als auch angenehmes Faulenzen am Nachmittag fördert. Sommergäste genießen diesen Ort am meisten, wenn sie einen morgendlichen Besuch einplanen, solange die Meeresbrise noch frisch und kühl ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "Die Spiaggia Colonia Casalmaggiore bietet einen reizvollen Uferbereich in der schicken Stadt Forte Dei Marmi. Sie schafft eine einladende Atmosphäre für alle Besucher, die sich im Sand ausstrecken und in den italienischen Küstenlebensstil eintauchen möchten. Sonnenbaden und sanfte Spaziergänge sind hier die Hauptattraktionen, was diesen Ort zu einer tollen Wahl für einen entspannten Wochenendausflug macht.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
+                  ]
+            },
+            {
+                  "name": "Bagno Tirreno",
+                  "text": "Ein gepflegtes Strandbad im eleganten Badeort Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.192702,
+                        43.93227
+                  ]
+            },
+            {
+                  "name": "Sacro Cuore",
+                  "text": "Ein traditionelles Strandbad an der Küste der Versilia in Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.159586,
+                        43.963341
+                  ]
+            },
+            {
+                  "name": "Ondamarina 2",
+                  "text": "Ein Strandclub in Forte dei Marmi, der Entspannung am Mittelmeer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.158101,
+                        43.964633
+                  ]
+            },
+            {
+                  "name": "Margherita",
+                  "text": "Ein familienfreundliches Strandbad an der Küste von Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.160735,
+                        43.962336
+                  ]
+            },
+            {
+                  "name": "Remo Beach Club",
+                  "text": "Ein moderner Strandclub in Forte dei Marmi mit umfassender Ausstattung.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164391,
+                        43.959161
+                  ]
+            },
+            {
+                  "name": "Montecristo levante",
+                  "text": "Ein Strandbad am östlichen Abschnitt der Küste von Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.165305,
+                        43.958341
+                  ]
+            },
+            {
+                  "name": "Laura",
+                  "text": "Ein gepflegtes Strandbad für erholsame Stunden in Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.166426,
+                        43.957001
+                  ]
+            },
+            {
+                  "name": "Bagno Gioconda",
+                  "text": "Ein privates Bad in Forte dei Marmi, das für seinen exzellenten Service bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.182277,
+                        43.942689
+                  ]
+            },
+            {
+                  "name": "Bagno Pietrasanta",
+                  "text": "Ein Strandbad in Forte dei Marmi, das Erholung pur am Mittelmeer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183416,
+                        43.941637
+                  ]
+            },
+            {
+                  "name": "Bagno Liù",
+                  "text": "Ein privates Strandbad mit gepflegter Anlage in Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.186577,
+                        43.93853
+                  ]
+            },
+            {
+                  "name": "Bagno Biagi",
+                  "text": "Dieses Strandbad in Forte dei Marmi bietet klassische italienische Meeresatmosphäre und Service.",
+                  "category": "recreational",
+                  "coords": [
+                        10.184407,
+                        43.9407
+                  ]
+            },
+            {
+                  "name": "Bagno Bonanza",
+                  "text": "Ein traditionelles Strandbad in Forte dei Marmi mit umfassendem Service für Strandbesucher.",
+                  "category": "recreational",
+                  "coords": [
+                        10.185383,
+                        43.939757
+                  ]
+            },
+            {
+                  "name": "Bagno Genzianella",
+                  "text": "Dieses Strandbad in Forte dei Marmi bietet komfortable Einrichtungen für einen erholsamen Strandtag.",
+                  "category": "recreational",
+                  "coords": [
+                        10.188287,
+                        43.93709
+                  ]
+            },
+            {
+                  "name": "Bagno La Versiliana",
+                  "text": "Ein renommiertes Strandbad in Forte dei Marmi, das an den historischen Versiliana-Wald grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.18998,
+                        43.935178
+                  ]
+            },
+            {
+                  "name": "Bagno Roma 94",
+                  "text": "Ein gut besuchtes Strandbad in Forte dei Marmi, ideal für Schwimmen und Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        10.191113,
+                        43.93402
+                  ]
+            },
+            {
+                  "name": "Bagno Nettuno",
+                  "text": "Ein gut geführtes Strandbad in Forte dei Marmi mit Blick auf das Tyrrhenische Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        10.193477,
+                        43.93122
+                  ]
+            },
+            {
+                  "name": "Bagno Europa",
+                  "text": "Ein internationales Strandbad in Forte dei Marmi, das Gäste aus aller Welt empfängt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.1944,
+                        43.930342
+                  ]
+            },
+            {
+                  "name": "Bagno Belmare",
+                  "text": "Ein angenehmes Strandbad in Forte dei Marmi mit guter Infrastruktur für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        10.143857,
+                        43.976629
+                  ]
+            },
+            {
+                  "name": "Versilpark",
+                  "text": "Ein Vergnügungspark in Forte dei Marmi mit Unterhaltung für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        10.135574,
+                        43.985486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pontile di Forte dei Marmi",
+                  "text": "A történelmi móló 300 méter hosszan nyúlik be a Ligur-tengerbe, panorámás kilátást nyújtva az Apuan-Alpokra.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp",
+                  "coords": [
+                        10.163506,
+                        43.955643
+                  ]
+            },
+            {
+                  "name": "Il Fortino",
+                  "text": "Az 1788-ban épült kis erőd a város központjában található, ma a szatíra és karikatúra múzeumának ad otthont.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp",
+                  "coords": [
+                        10.169636,
+                        43.95952
+                  ]
+            },
+            {
+                  "name": "Piazza Garibaldi",
+                  "text": "A város főtere, ahol elegáns üzletek, éttermek és a helyi közösségi élet központja található.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp",
+                  "coords": [
+                        10.169292,
+                        43.959741
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Ermete",
+                  "text": "A város védőszentjének szentelt templom, amely letisztult építészetével és spirituális jelentőségével emelkedik ki.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp",
+                  "coords": [
+                        10.17101,
+                        43.96043
+                  ]
+            },
+            {
+                  "name": "Mercato del Forte",
+                  "text": "Világhírű heti piac a Piazza Marconin, ahol prémium olasz ruházati cikkek és kézműves termékek kaphatók.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp",
+                  "coords": [
+                        10.169989,
+                        43.9575
+                  ]
+            },
+            {
+                  "name": "Villa Bertelli",
+                  "text": "Egy történelmi rezidenciából kialakított kulturális központ, amely koncerteknek és időszaki kiállításoknak ad helyet.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp",
+                  "coords": [
+                        10.15839,
+                        43.96884
+                  ]
+            },
+            {
+                  "name": "Museo della Satira e della Caricatura",
+                  "text": "Egyedülálló múzeum az erődben, amely a grafikai humor és a politikai szatíra történetét mutatja be.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp",
+                  "coords": [
+                        10.16956,
+                        43.959537
+                  ]
+            },
+            {
+                  "name": "Parco della Versiliana",
+                  "text": "Hatalmas fenyőerdő a város szélén, amely nyaranta neves kulturális fesztiválok és irodalmi estek helyszíne.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp",
+                  "coords": [
+                        10.190912,
+                        43.943879
+                  ]
+            },
+            {
+                  "name": "Vittoria Apuana",
+                  "text": "A város északi, csendesebb lakónegyede, ahol pazar villák és gondozott kertek között sétálhatunk.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp",
+                  "coords": [
+                        10.159397,
+                        43.968866
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "A Forte Dei Marmi elegáns partjai mentén fekvő Spiaggia del Cinquale egy barátságos tengerparti szakasz, amely tökéletes a pihenésre. A strand általában vidám hangulatot áraszt, és egyaránt ösztönöz a kiadós úszásra, valamint a kellemes délutáni heverészésre. A nyári látogatók akkor fogják a leginkább élvezni, ha reggeli kiruccanást terveznek, amikor a tengeri szellő még hűvös és frissítő.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "A Spiaggia Colonia Casalmaggiore egy elragadó part menti területet kínál az elegáns Forte Dei Marmi városában. Hívogató atmoszférát teremt a látogatóknak, hogy elnyúljanak a homokban és elmerüljenek az olasz partvidéki életmódban. A napozás és a kényelmes séták jelentik itt a fő vonzerőt, így nagyszerű választás egy pihentető hétvégi kiránduláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
+                  ]
+            },
+            {
+                  "name": "Bagno Tirreno",
+                  "text": "Gondozott strandfürdő Forte dei Marmi elegáns üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.192702,
+                        43.93227
+                  ]
+            },
+            {
+                  "name": "Sacro Cuore",
+                  "text": "Hagyományos strandfürdő a Versilia-parton, Forte dei Marmi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.159586,
+                        43.963341
+                  ]
+            },
+            {
+                  "name": "Ondamarina 2",
+                  "text": "Strandklub Forte dei Marmi városában, amely pihenést kínál a Földközi-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.158101,
+                        43.964633
+                  ]
+            },
+            {
+                  "name": "Margherita",
+                  "text": "Családbarát strandfürdő Forte dei Marmi tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.160735,
+                        43.962336
+                  ]
+            },
+            {
+                  "name": "Remo Beach Club",
+                  "text": "Modern strandklub Forte dei Marmi városában, teljes felszereltséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164391,
+                        43.959161
+                  ]
+            },
+            {
+                  "name": "Montecristo levante",
+                  "text": "Strandfürdő Forte dei Marmi tengerpartjának keleti szakaszán.",
+                  "category": "recreational",
+                  "coords": [
+                        10.165305,
+                        43.958341
+                  ]
+            },
+            {
+                  "name": "Laura",
+                  "text": "Gondozott strandfürdő a pihentető órákért Forte dei Marmi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.166426,
+                        43.957001
+                  ]
+            },
+            {
+                  "name": "Bagno Gioconda",
+                  "text": "Magánstrand Forte dei Marmi városában, amely kiváló szolgáltatásairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.182277,
+                        43.942689
+                  ]
+            },
+            {
+                  "name": "Bagno Pietrasanta",
+                  "text": "Strandfürdő Forte dei Marmi városában, amely tiszta kikapcsolódást kínál a Földközi-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183416,
+                        43.941637
+                  ]
+            },
+            {
+                  "name": "Bagno Liù",
+                  "text": "Magánstrand gondozott területtel Forte dei Marmi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.186577,
+                        43.93853
+                  ]
+            },
+            {
+                  "name": "Bagno Biagi",
+                  "text": "Ez a Forte dei Marmi-i strandkomplexum klasszikus olasz tengerparti hangulatot és szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.184407,
+                        43.9407
+                  ]
+            },
+            {
+                  "name": "Bagno Bonanza",
+                  "text": "Hagyományos strandkomplexum Forte dei Marmi településen, teljes körű szolgáltatással a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.185383,
+                        43.939757
+                  ]
+            },
+            {
+                  "name": "Bagno Genzianella",
+                  "text": "Ez a Forte dei Marmi-i strandkomplexum kényelmes létesítményeket kínál egy pihentető strandoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.188287,
+                        43.93709
+                  ]
+            },
+            {
+                  "name": "Bagno La Versiliana",
+                  "text": "Neves strandkomplexum Forte dei Marmi településen, amely a történelmi Versiliana-erdővel határos.",
+                  "category": "recreational",
+                  "coords": [
+                        10.18998,
+                        43.935178
+                  ]
+            },
+            {
+                  "name": "Bagno Roma 94",
+                  "text": "Kedvelt strandkomplexum Forte dei Marmi településen, amely ideális úszáshoz és napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.191113,
+                        43.93402
+                  ]
+            },
+            {
+                  "name": "Bagno Nettuno",
+                  "text": "Jól vezetett strandkomplexum Forte dei Marmi településen, kilátással a Tirrén-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        10.193477,
+                        43.93122
+                  ]
+            },
+            {
+                  "name": "Bagno Europa",
+                  "text": "Nemzetközi strandkomplexum Forte dei Marmi településen, amely a világ minden tájáról fogad vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        10.1944,
+                        43.930342
+                  ]
+            },
+            {
+                  "name": "Bagno Belmare",
+                  "text": "Kellemes strandkomplexum Forte dei Marmi településen, jó infrastruktúrával a fürdőzők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.143857,
+                        43.976629
+                  ]
+            },
+            {
+                  "name": "Versilpark",
+                  "text": "Vidámpark Forte dei Marmiban, játékokkal és szórakozással gyermekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        10.135574,
+                        43.985486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pontile di Forte dei Marmi",
+                  "text": "Acest dig istoric se întinde pe 300 de metri în Marea Ligurică, oferind o vedere superbă asupra coastei.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp",
+                  "coords": [
+                        10.163506,
+                        43.955643
+                  ]
+            },
+            {
+                  "name": "Il Fortino",
+                  "text": "Construit în 1788, acest fort mic din centrul orașului găzduiește astăzi Muzeul Satirei și Caricaturii.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp",
+                  "coords": [
+                        10.169636,
+                        43.95952
+                  ]
+            },
+            {
+                  "name": "Piazza Garibaldi",
+                  "text": "Piața centrală a orașului, un loc elegant unde se găsesc cafenele istorice și buticuri de lux.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp",
+                  "coords": [
+                        10.169292,
+                        43.959741
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Ermete",
+                  "text": "Principala biserică a localității, dedicată sfântului patron, remarcabilă prin simplitatea fațadei sale clasice.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp",
+                  "coords": [
+                        10.17101,
+                        43.96043
+                  ]
+            },
+            {
+                  "name": "Mercato del Forte",
+                  "text": "O piață săptămânală celebră în întreaga lume, situată în Piazza Marconi, cunoscută pentru modă și marochinărie.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp",
+                  "coords": [
+                        10.169989,
+                        43.9575
+                  ]
+            },
+            {
+                  "name": "Villa Bertelli",
+                  "text": "O vilă istorică transformată în centru cultural, unde au loc expoziții de artă și concerte de vară.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp",
+                  "coords": [
+                        10.15839,
+                        43.96884
+                  ]
+            },
+            {
+                  "name": "Museo della Satira e della Caricatura",
+                  "text": "Un muzeu inedit situat în interiorul fortului, dedicat istoriei satirei grafice internaționale.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp",
+                  "coords": [
+                        10.16956,
+                        43.959537
+                  ]
+            },
+            {
+                  "name": "Parco della Versiliana",
+                  "text": "O vastă pădure de pini care găzduiește un festival cultural renumit în timpul sezonului estival.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp",
+                  "coords": [
+                        10.190912,
+                        43.943879
+                  ]
+            },
+            {
+                  "name": "Vittoria Apuana",
+                  "text": "Un cartier rezidențial liniștit situat în partea de nord, plin de vile elegante și grădini luxuriante.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp",
+                  "coords": [
+                        10.159397,
+                        43.968866
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "Aflată de-a lungul coastelor elegante din Forte Dei Marmi, Spiaggia del Cinquale este o fâșie de coastă primitoare, perfectă pentru relaxare pe litoral. Plaja are de obicei o ambianță veselă, încurajând atât înotul prelungit, cât și leneveala plăcută de după-amiază. Vizitatorii de vară o vor găsi cea mai plăcută dacă planifică o vizită de dimineață, când briza mării este proaspătă și răcoroasă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "Spiaggia Colonia Casalmaggiore prezintă un spațiu minunat pe țărm în cochetul oraș Forte Dei Marmi. Aceasta creează o atmosferă primitoare pentru vizitatorii care doresc să se întindă pe nisip și să se cufunde în stilul de viață al coastei italiene. Plaja la soare și plimbările ușoare sunt principalele atracții aici, transformând-o într-o alegere excelentă pentru o ieșire relaxată de weekend.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
+                  ]
+            },
+            {
+                  "name": "Bagno Tirreno",
+                  "text": "Un stabiliment balnear îngrijit în eleganta stațiune Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.192702,
+                        43.93227
+                  ]
+            },
+            {
+                  "name": "Sacro Cuore",
+                  "text": "Un stabiliment balnear tradițional pe coasta Versilia, în Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.159586,
+                        43.963341
+                  ]
+            },
+            {
+                  "name": "Ondamarina 2",
+                  "text": "Un club de plajă în Forte dei Marmi, oferind relaxare la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        10.158101,
+                        43.964633
+                  ]
+            },
+            {
+                  "name": "Margherita",
+                  "text": "Un stabiliment balnear pentru familii pe coasta din Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.160735,
+                        43.962336
+                  ]
+            },
+            {
+                  "name": "Remo Beach Club",
+                  "text": "Un club de plajă modern în Forte dei Marmi, cu dotări complete.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164391,
+                        43.959161
+                  ]
+            },
+            {
+                  "name": "Montecristo levante",
+                  "text": "Un stabiliment balnear pe porțiunea estică a coastei din Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.165305,
+                        43.958341
+                  ]
+            },
+            {
+                  "name": "Laura",
+                  "text": "Un stabiliment balnear îngrijit pentru ore de relaxare în Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.166426,
+                        43.957001
+                  ]
+            },
+            {
+                  "name": "Bagno Gioconda",
+                  "text": "Un stabiliment privat în Forte dei Marmi, cunoscut pentru serviciile sale excelente.",
+                  "category": "recreational",
+                  "coords": [
+                        10.182277,
+                        43.942689
+                  ]
+            },
+            {
+                  "name": "Bagno Pietrasanta",
+                  "text": "Un stabiliment balnear în Forte dei Marmi, oferind relaxare deplină la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183416,
+                        43.941637
+                  ]
+            },
+            {
+                  "name": "Bagno Liù",
+                  "text": "Un stabiliment balnear privat cu o incintă îngrijită în Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.186577,
+                        43.93853
+                  ]
+            },
+            {
+                  "name": "Bagno Biagi",
+                  "text": "Această stațiune balneară din Forte dei Marmi oferă o atmosferă și servicii clasice de litoral italian.",
+                  "category": "recreational",
+                  "coords": [
+                        10.184407,
+                        43.9407
+                  ]
+            },
+            {
+                  "name": "Bagno Bonanza",
+                  "text": "O stațiune balneară tradițională în Forte dei Marmi, cu servicii complete pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        10.185383,
+                        43.939757
+                  ]
+            },
+            {
+                  "name": "Bagno Genzianella",
+                  "text": "Această stațiune balneară din Forte dei Marmi oferă facilități confortabile pentru o zi de plajă relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.188287,
+                        43.93709
+                  ]
+            },
+            {
+                  "name": "Bagno La Versiliana",
+                  "text": "O stațiune balneară renumită în Forte dei Marmi, adiacentă pădurii istorice Versiliana.",
+                  "category": "recreational",
+                  "coords": [
+                        10.18998,
+                        43.935178
+                  ]
+            },
+            {
+                  "name": "Bagno Roma 94",
+                  "text": "O stațiune balneară populară în Forte dei Marmi, ideală pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.191113,
+                        43.93402
+                  ]
+            },
+            {
+                  "name": "Bagno Nettuno",
+                  "text": "O stațiune balneară bine gestionată în Forte dei Marmi, cu vedere la Marea Tireniană.",
+                  "category": "recreational",
+                  "coords": [
+                        10.193477,
+                        43.93122
+                  ]
+            },
+            {
+                  "name": "Bagno Europa",
+                  "text": "O stațiune balneară internațională în Forte dei Marmi, care primește oaspeți din întreaga lume.",
+                  "category": "recreational",
+                  "coords": [
+                        10.1944,
+                        43.930342
+                  ]
+            },
+            {
+                  "name": "Bagno Belmare",
+                  "text": "O stațiune balneară plăcută în Forte dei Marmi, cu o infrastructură bună pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        10.143857,
+                        43.976629
+                  ]
+            },
+            {
+                  "name": "Versilpark",
+                  "text": "Un parc de distracții în Forte dei Marmi, cu divertisment pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        10.135574,
+                        43.985486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pontile di Forte dei Marmi",
+                  "text": "This historic pier stretches 300 meters into the Ligurian Sea, offering panoramic views of the Apuan Alps.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-pontile-di-forte-dei-marmi.webp",
+                  "coords": [
+                        10.163506,
+                        43.955643
+                  ]
+            },
+            {
+                  "name": "Il Fortino",
+                  "text": "Built in 1788, this small fortress in the town center now houses the Museum of Satire and Caricature.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-il-fortino.webp",
+                  "coords": [
+                        10.169636,
+                        43.95952
+                  ]
+            },
+            {
+                  "name": "Piazza Garibaldi",
+                  "text": "The central square is the heart of social life, featuring exclusive boutiques and historic cafes.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-piazza-garibaldi.webp",
+                  "coords": [
+                        10.169292,
+                        43.959741
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Ermete",
+                  "text": "The main church of the town, dedicated to its patron saint, known for its elegant and classic facade.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-chiesa-di-santermete.webp",
+                  "coords": [
+                        10.17101,
+                        43.96043
+                  ]
+            },
+            {
+                  "name": "Mercato del Forte",
+                  "text": "A world-famous weekly market in Piazza Marconi, renowned for high-end Italian fashion and leather goods.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-mercato-del-forte.webp",
+                  "coords": [
+                        10.169989,
+                        43.9575
+                  ]
+            },
+            {
+                  "name": "Villa Bertelli",
+                  "text": "A cultural center set in a historic villa, hosting regular concerts, art exhibitions, and theater events.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-villa-bertelli.webp",
+                  "coords": [
+                        10.15839,
+                        43.96884
+                  ]
+            },
+            {
+                  "name": "Museo della Satira e della Caricatura",
+                  "text": "A unique museum located within the Fortino, dedicated to the history of graphic satire from around the world.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-museo-della-satira-e-della-caricatura.webp",
+                  "coords": [
+                        10.16956,
+                        43.959537
+                  ]
+            },
+            {
+                  "name": "Parco della Versiliana",
+                  "text": "A vast pine forest nearby that becomes a venue for prestigious cultural festivals and readings in summer.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-parco-della-versiliana.webp",
+                  "coords": [
+                        10.190912,
+                        43.943879
+                  ]
+            },
+            {
+                  "name": "Vittoria Apuana",
+                  "text": "A quiet residential area in the north with elegant villas and lush gardens, perfect for a relaxing walk.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/forte-dei-marmi-vittoria-apuana.webp",
+                  "coords": [
+                        10.159397,
+                        43.968866
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "Found along the elegant shores of Forte Dei Marmi, Spiaggia del Cinquale is a welcoming coastal stretch perfect for seaside relaxation. The beach typically hums with a cheerful ambiance, encouraging both extensive swimming and pleasant afternoon lounging. Summer visitors will find it most enjoyable by planning a morning visit when the sea breeze is crisp and refreshing.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "Spiaggia Colonia Casalmaggiore presents a delightful shoreline space within the chic town of Forte Dei Marmi. It creates an inviting atmosphere for visitors to stretch out on the sand and immerse themselves in the Italian coastal lifestyle. Sunbathing and gentle strolls are the main attractions here, making it a great choice for a relaxed weekend outing.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
+                  ]
+            },
+            {
+                  "name": "Bagno Tirreno",
+                  "text": "A well-maintained beach resort in the elegant seaside town of Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.192702,
+                        43.93227
+                  ]
+            },
+            {
+                  "name": "Sacro Cuore",
+                  "text": "A traditional beach resort on the Versilia coast in Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.159586,
+                        43.963341
+                  ]
+            },
+            {
+                  "name": "Ondamarina 2",
+                  "text": "A beach club in Forte dei Marmi offering relaxation by the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        10.158101,
+                        43.964633
+                  ]
+            },
+            {
+                  "name": "Margherita",
+                  "text": "A family-friendly beach resort on the coast of Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.160735,
+                        43.962336
+                  ]
+            },
+            {
+                  "name": "Remo Beach Club",
+                  "text": "A modern beach club in Forte dei Marmi with comprehensive facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164391,
+                        43.959161
+                  ]
+            },
+            {
+                  "name": "Montecristo levante",
+                  "text": "A beach resort on the eastern section of the Forte dei Marmi coast.",
+                  "category": "recreational",
+                  "coords": [
+                        10.165305,
+                        43.958341
+                  ]
+            },
+            {
+                  "name": "Laura",
+                  "text": "A well-kept beach resort for relaxing hours in Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.166426,
+                        43.957001
+                  ]
+            },
+            {
+                  "name": "Bagno Gioconda",
+                  "text": "A private beach establishment in Forte dei Marmi known for its excellent service.",
+                  "category": "recreational",
+                  "coords": [
+                        10.182277,
+                        43.942689
+                  ]
+            },
+            {
+                  "name": "Bagno Pietrasanta",
+                  "text": "A beach resort in Forte dei Marmi offering pure relaxation by the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        10.183416,
+                        43.941637
+                  ]
+            },
+            {
+                  "name": "Bagno Liù",
+                  "text": "A private beach resort with well-maintained facilities in Forte dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.186577,
+                        43.93853
+                  ]
+            },
+            {
+                  "name": "Bagno Biagi",
+                  "text": "This beach resort in Forte dei Marmi offers a classic Italian seaside atmosphere and service.",
+                  "category": "recreational",
+                  "coords": [
+                        10.184407,
+                        43.9407
+                  ]
+            },
+            {
+                  "name": "Bagno Bonanza",
+                  "text": "A traditional beach resort in Forte dei Marmi with full service for beachgoers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.185383,
+                        43.939757
+                  ]
+            },
+            {
+                  "name": "Bagno Genzianella",
+                  "text": "This beach resort in Forte dei Marmi offers comfortable facilities for a relaxing beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        10.188287,
+                        43.93709
+                  ]
+            },
+            {
+                  "name": "Bagno La Versiliana",
+                  "text": "A renowned beach resort in Forte dei Marmi, adjacent to the historic Versiliana forest.",
+                  "category": "recreational",
+                  "coords": [
+                        10.18998,
+                        43.935178
+                  ]
+            },
+            {
+                  "name": "Bagno Roma 94",
+                  "text": "A popular beach resort in Forte dei Marmi, ideal for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        10.191113,
+                        43.93402
+                  ]
+            },
+            {
+                  "name": "Bagno Nettuno",
+                  "text": "A well-managed beach resort in Forte dei Marmi with a view of the Tyrrhenian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        10.193477,
+                        43.93122
+                  ]
+            },
+            {
+                  "name": "Bagno Europa",
+                  "text": "An international beach resort in Forte dei Marmi, welcoming guests from all over the world.",
+                  "category": "recreational",
+                  "coords": [
+                        10.1944,
+                        43.930342
+                  ]
+            },
+            {
+                  "name": "Bagno Belmare",
+                  "text": "A pleasant beach resort in Forte dei Marmi with good infrastructure for bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.143857,
+                        43.976629
+                  ]
+            },
+            {
+                  "name": "Versilpark",
+                  "text": "An amusement park in Forte dei Marmi featuring entertainment for children.",
+                  "category": "recreational",
+                  "coords": [
+                        10.135574,
+                        43.985486
+                  ]
+            }
+      ]
+}},
   {"id": "gallipoli", "type": "city", "parent": "IT-75", "coords": [17.9931, 40.0556], "population": 19700, "tier": 2, "name": {"de": "Gallipoli", "hu": "Gallipoli", "ro": "Gallipoli", "en": "Gallipoli"}, "description": {"de": "Gallipoli, die 'Schöne Stadt' im Salento, besticht durch ihre auf einer Insel gelegene barocke Altstadt und kristallklares Wasser.", "hu": "A Jón-tenger gyöngyszeme a Salentói-félszigeten, melynek barokk óvárosa egy kis szigeten fekszik, amit híd köt össze a szárazfölddel.", "ro": "Un oraș portuar pitoresc din regiunea Puglia, renumit pentru centrul său istoric situat pe o insulă calcaroasă legată de țărm prin poduri.", "en": "Known as the 'Beautiful City', this Salentine gem features a stunning Baroque old town perched on an island in the Ionian Sea."}, "facts": {"de": ["Griechische Gründung", "Salento-Region", "Ionisches Meer", "Barockarchitektur", "Wichtiger Ölhafen", "Insel-Altstadt", "Puglia-Küche", "Feine Sandstrände"], "hu": ["Görög alapítás", "Salento régió", "Jón-tenger partja", "Barokk építészet", "Híres olajkikötő", "Szigetre épült város", "Pugliai gasztronómia", "Kristálytiszta víz"], "ro": ["Origine greacă", "Regiunea Salento", "Marea Ionică", "Arhitectură barocă", "Port istoric de ulei", "Oraș pe insulă", "Bucătărie apuliană", "Plaje renumite"], "en": ["Greek origins", "Salento region", "Ionian Sea coast", "Baroque architecture", "Historical oil port", "Island old town", "Apulian gastronomy", "Crystal clear waters"]}, "image": "/poi-images/gallipoli.webp", "imageHint": "Old town island of Gallipoli with the bridge and fortress", "descriptionAdvanced": {"de": "Gallipoli, dessen Name vom griechischen 'Kallipolis' (schöne Stadt) abstammt, ist ein faszinierendes Juwel an der ionischen Küste Apuliens. Das historische Zentrum liegt auf einer Kalksteininsel, die durch eine Brücke aus dem 16. Jahrhundert mit dem modernen Festland verbunden ist. Die Stadt ist von massiven Mauern und Festungsanlagen umgeben, die einst vor Piratenangriffen schützten. In den engen Gassen der Altstadt finden sich prachtvolle Adelspaläste und zahlreiche Barockkirchen, allen voran die Kathedrale Sant'Agata mit ihrer reich verzierten Fassade. Gallipoli war im 17. und 18. Jahrhundert das wichtigste Zentrum für den Export von Olivenöl in Europa, das damals zur Beleuchtung von Städten wie London und Paris diente. Heute ist die Stadt ein beliebtes Touristenziel, bekannt für ihre lebendige Atmosphäre, die hervorragende Fischküche und die umliegenden Sandstrände von Baia Verde.", "hu": "Gallipoli neve a görög 'Kallipolis' szóból ered, ami stílusosan 'Szép Várost' jelent. A salentói partvidék ezen ékköve egyedülálló szerkezettel bír: az óváros egy mészkőszigeten terül el, amelyet egy 16. századi híd kapcsol össze a modern városrésszel. A várost vastag bástyák és várfalak ölelik körbe, melyek évszázadokon át védték a lakókat a tengeri támadásoktól. A szűk, kanyargós utcák mentén barokk paloták és templomok sorakoznak, köztük a lenyűgöző Szent Ágota-székesegyház. Érdekesség, hogy Gallipoli a 17-18. században Európa legnagyobb olívaolaj-exportőre volt; az innen szállított olajjal világították meg London és Párizs utcáit. Napjainkban a város a pezsgő éjszakai életéről, a friss tengeri fogásokról és a környék smaragdzöld vizű strandjairól híres, melyek Olaszország legszebbjei közé tartoznak.", "ro": "Gallipoli, al cărui nume provine din grecescul 'Kallipolis' (orașul frumos), este o bijuterie a coastei ionice din Puglia. Centrul său istoric este situat pe o insulă de calcar, unită de partea modernă a orașului printr-un pod construit în secolul al XVI-lea. Orașul este protejat de ziduri groase și fortificații impunătoare, ridicate pentru a respinge atacurile piraților. În labirintul de străduțe din orașul vechi se pot admira palate baroce și biserici somptuoase, precum Catedrala Sfânta Agata. În secolele XVII și XVIII, Gallipoli era cel mai mare centru de export al uleiului de măsline din Europa, ulei folosit pentru iluminatul public în metropole precum Londra și Paris. Astăzi, orașul atrage turiștii prin atmosfera sa vibrantă, portul pescăresc activ și plajele cu nisip fin, precum Baia Verde, oferind un amestec perfect de istorie și relaxare mediteraneeană.", "en": "Gallipoli, deriving its name from the Greek 'Kallipolis' meaning 'Beautiful City', is a captivating destination on Puglia's Ionian coast. Its unique layout features a historic center nestled on a limestone island, connected to the mainland by a 16th-century bridge. Surrounded by defensive walls and a massive castle, the old town is a maze of narrow streets, Baroque palaces, and churches, most notably the Cathedral of Sant'Agata. Historically, Gallipoli was Europe's primary hub for olive oil export during the 17th and 18th centuries, providing the fuel that lit the streets of London and Paris. Today, it is a bustling tourist hotspot, famous for its lively harbor, exquisite seafood, and the stunning white sand beaches of the Baia Verde. The city seamlessly blends its rich maritime heritage with a vibrant modern lifestyle, making it one of the highlights of the Salento peninsula."}, "factsAdvanced": {"de": ["Griechische Kolonie seit ca. 700 v. Chr.", "Zentrum des europäischen Olivenölhandels um 1700", "Kathedrale Sant'Agata aus dem 17. Jahrhundert", "Antiker griechischer Brunnen am Brückenkopf", "Umfang der Altstadtinsel beträgt ca. 1,5 km", "Teil der Provinz Lecce im südlichen Apulien"], "hu": ["Görög telepesek alapították i.e. 700 körül", "Az európai olajkereskedelem központja az 1700-as években", "A Szent Ágota-székesegyház 17. századi barokk remekmű", "Ókori görög kút található a hídfőnél", "Az óvárosi sziget kerülete kb. 1,5 km", "Lecce megye része Puglia déli végén"], "ro": ["Fondat ca colonie greacă în jurul anului 700 î.Hr.", "Principal exportator de ulei de măsline în secolul XVIII", "Catedrala Sant'Agata construită în stil baroc leccese", "Fântâna greacă este una dintre cele mai vechi din Italia", "Insula istorică are o circumferință de aproximativ 1,5 km", "Situat în provincia Lecce, în inima Salento"], "en": ["Founded as a Greek colony around 700 BC", "Leading European olive oil trade center in the 1700s", "Cathedral of Sant'Agata is a 17th-century masterpiece", "Ancient Greek fountain located near the bridge", "The old town island has a perimeter of roughly 1.5 km", "Part of the Lecce province in southern Puglia"]}, "sights": {
       "de": [
             {
@@ -25391,6 +29512,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         18.002343,
                         40.06664
+                  ]
+            },
+            {
+                  "name": "Lido Sottovento",
+                  "text": "Ein Strandbad in Gallipoli, das eine entspannte Atmosphäre und Blick auf das Ionische Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.019551,
+                        40.026499
                   ]
             }
       ],
@@ -25590,6 +29720,15 @@ export const poiExtraItalyV2: POI[] = [
                         18.002343,
                         40.06664
                   ]
+            },
+            {
+                  "name": "Lido Sottovento",
+                  "text": "Gallipoli egyik strandja, amely pihentető légkört és kilátást nyújt a Jón-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.019551,
+                        40.026499
+                  ]
             }
       ],
       "ro": [
@@ -25788,6 +29927,15 @@ export const poiExtraItalyV2: POI[] = [
                         18.002343,
                         40.06664
                   ]
+            },
+            {
+                  "name": "Lido Sottovento",
+                  "text": "O stațiune de plajă din Gallipoli, care oferă o atmosferă relaxată și vedere la Marea Ionică.",
+                  "category": "recreational",
+                  "coords": [
+                        18.019551,
+                        40.026499
+                  ]
             }
       ],
       "en": [
@@ -25985,6 +30133,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         18.002343,
                         40.06664
+                  ]
+            },
+            {
+                  "name": "Lido Sottovento",
+                  "text": "A beach resort in Gallipoli offering a relaxed atmosphere and views of the Ionian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        18.019551,
+                        40.026499
                   ]
             }
       ]
@@ -28236,6 +32393,42 @@ export const poiExtraItalyV2: POI[] = [
                         11.195933,
                         46.674263
                   ]
+            },
+            {
+                  "name": "Oberwirtskeller",
+                  "text": "Ein Schwimmbad in Meran, das zur Erholung genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        11.179712,
+                        46.702756
+                  ]
+            },
+            {
+                  "name": "Zirmerhof",
+                  "text": "Ein privates oder hoteleigenes Schwimmbecken in Meran.",
+                  "category": "recreational",
+                  "coords": [
+                        11.178721,
+                        46.702152
+                  ]
+            },
+            {
+                  "name": "Innerhofer",
+                  "text": "Ein Schwimmbecken in Meran zur sportlichen Nutzung.",
+                  "category": "recreational",
+                  "coords": [
+                        11.177398,
+                        46.70106
+                  ]
+            },
+            {
+                  "name": "Schwabl Hubert",
+                  "text": "Ein Schwimmbad in Meran für Erfrischung und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        11.18138,
+                        46.702926
+                  ]
             }
       ],
       "hu": [
@@ -28518,6 +32711,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.195933,
                         46.674263
+                  ]
+            },
+            {
+                  "name": "Oberwirtskeller",
+                  "text": "Úszómedence Meranóban, amelyet kikapcsolódásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.179712,
+                        46.702756
+                  ]
+            },
+            {
+                  "name": "Zirmerhof",
+                  "text": "Magán vagy szállodai úszómedence Meranóban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.178721,
+                        46.702152
+                  ]
+            },
+            {
+                  "name": "Innerhofer",
+                  "text": "Úszómedence Meranóban sportolási célokra.",
+                  "category": "recreational",
+                  "coords": [
+                        11.177398,
+                        46.70106
+                  ]
+            },
+            {
+                  "name": "Schwabl Hubert",
+                  "text": "Úszómedence Meranóban felfrissüléshez és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        11.18138,
+                        46.702926
                   ]
             }
       ],
@@ -28802,6 +33031,42 @@ export const poiExtraItalyV2: POI[] = [
                         11.195933,
                         46.674263
                   ]
+            },
+            {
+                  "name": "Oberwirtskeller",
+                  "text": "O piscină în Merano utilizată pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        11.179712,
+                        46.702756
+                  ]
+            },
+            {
+                  "name": "Zirmerhof",
+                  "text": "O piscină privată sau de hotel în Merano.",
+                  "category": "recreational",
+                  "coords": [
+                        11.178721,
+                        46.702152
+                  ]
+            },
+            {
+                  "name": "Innerhofer",
+                  "text": "O piscină în Merano destinată activităților sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        11.177398,
+                        46.70106
+                  ]
+            },
+            {
+                  "name": "Schwabl Hubert",
+                  "text": "O piscină în Merano pentru răcorire și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        11.18138,
+                        46.702926
+                  ]
             }
       ],
       "en": [
@@ -29084,6 +33349,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.195933,
                         46.674263
+                  ]
+            },
+            {
+                  "name": "Oberwirtskeller",
+                  "text": "A swimming pool in Merano used for recreational purposes.",
+                  "category": "recreational",
+                  "coords": [
+                        11.179712,
+                        46.702756
+                  ]
+            },
+            {
+                  "name": "Zirmerhof",
+                  "text": "A private or hotel-owned swimming pool in Merano.",
+                  "category": "recreational",
+                  "coords": [
+                        11.178721,
+                        46.702152
+                  ]
+            },
+            {
+                  "name": "Innerhofer",
+                  "text": "A swimming pool in Merano used for sporting activities.",
+                  "category": "recreational",
+                  "coords": [
+                        11.177398,
+                        46.70106
+                  ]
+            },
+            {
+                  "name": "Schwabl Hubert",
+                  "text": "A swimming pool in Merano for refreshment and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        11.18138,
+                        46.702926
                   ]
             }
       ]
@@ -29664,6 +33965,123 @@ export const poiExtraItalyV2: POI[] = [
                         17.337452,
                         40.921591
                   ]
+            },
+            {
+                  "name": "Lido Santo Stefano",
+                  "text": "Dieses Strandbad in Monopoli liegt malerisch in der Nähe der historischen Abtei Santo Stefano.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331711,
+                        40.928541
+                  ]
+            },
+            {
+                  "name": "Lido Hotel Clio",
+                  "text": "Ein mit dem Hotel Clio verbundenes Strandbad in Monopoli, das exklusiven Zugang zum Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.296922,
+                        40.958232
+                  ]
+            },
+            {
+                  "name": "Due Onde",
+                  "text": "Ein gemütliches Strandbad in Monopoli, das für klares Wasser und eine familiäre Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        17.324136,
+                        40.936178
+                  ]
+            },
+            {
+                  "name": "Lido Marza'",
+                  "text": "Ein Strandbad in Monopoli, das seinen Gästen Entspannung inmitten der felsigen Küstenlandschaft Apuliens bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.325442,
+                        40.934675
+                  ]
+            },
+            {
+                  "name": "Lido Colonia",
+                  "text": "Ein beliebter Strand in Monopoli, der für seinen einfachen Zugang und das typisch apulische Flair geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317053,
+                        40.939766
+                  ]
+            },
+            {
+                  "name": "Porto Ghiacciolo",
+                  "text": "Eine der bekanntesten Buchten in Monopoli, die direkt unterhalb einer mittelalterlichen Abtei liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331032,
+                        40.92968
+                  ]
+            },
+            {
+                  "name": "Porto Nero (La perla nera)",
+                  "text": "Eine kleine, felsige Bucht in Monopoli mit kristallklarem Wasser, ideal zum Schnorcheln.",
+                  "category": "recreational",
+                  "coords": [
+                        17.310058,
+                        40.946123
+                  ]
+            },
+            {
+                  "name": "Porto Verde",
+                  "text": "Ein versteckter Küstenabschnitt in Monopoli, der für seine natürliche, unberührte Atmosphäre geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        17.312713,
+                        40.944995
+                  ]
+            },
+            {
+                  "name": "Porto Camicia",
+                  "text": "Ein charmanter kleiner Strand in Monopoli, eingebettet in die felsige Kulisse der Region.",
+                  "category": "recreational",
+                  "coords": [
+                        17.320487,
+                        40.937602
+                  ]
+            },
+            {
+                  "name": "Porto Marzano",
+                  "text": "Ein malerischer Strandabschnitt in Monopoli, der typisch für die zerklüftete Küste Apuliens ist.",
+                  "category": "recreational",
+                  "coords": [
+                        17.327919,
+                        40.933291
+                  ]
+            },
+            {
+                  "name": "Scaletta",
+                  "text": "Ein kleiner Zugang zum Meer in Monopoli, der oft von Einheimischen für ein kurzes Bad genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317391,
+                        40.941548
+                  ]
+            },
+            {
+                  "name": "Lido Pantano",
+                  "text": "Ein beliebter Sandstrand in Monopoli, der gute Badebedingungen in Stadtnähe bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.291788,
+                        40.960768
+                  ]
+            },
+            {
+                  "name": "Piscina - Impianto sportivo pericoloso",
+                  "text": "Eine verlassene oder gefährliche Schwimmanlage in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.263013,
+                        40.974174
+                  ]
             }
       ],
       "hu": [
@@ -29834,6 +34252,123 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         17.337452,
                         40.921591
+                  ]
+            },
+            {
+                  "name": "Lido Santo Stefano",
+                  "text": "Ez a monopolii strandfürdő festői környezetben, a történelmi Santo Stefano apátság közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331711,
+                        40.928541
+                  ]
+            },
+            {
+                  "name": "Lido Hotel Clio",
+                  "text": "A Hotel Clio-hoz kapcsolódó strandfürdő Monopoliban, amely exkluzív hozzáférést biztosít a tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        17.296922,
+                        40.958232
+                  ]
+            },
+            {
+                  "name": "Due Onde",
+                  "text": "Hangulatos strandfürdő Monopoliban, amely tiszta vizéről és családias légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        17.324136,
+                        40.936178
+                  ]
+            },
+            {
+                  "name": "Lido Marza'",
+                  "text": "Strandfürdő Monopoliban, amely kikapcsolódást kínál Puglia sziklás tengerparti táján.",
+                  "category": "recreational",
+                  "coords": [
+                        17.325442,
+                        40.934675
+                  ]
+            },
+            {
+                  "name": "Lido Colonia",
+                  "text": "Népszerű strand Monopoliban, amelyet könnyű megközelíthetősége és tipikus pugliai hangulata miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317053,
+                        40.939766
+                  ]
+            },
+            {
+                  "name": "Porto Ghiacciolo",
+                  "text": "Monopoli egyik legismertebb öble, amely közvetlenül egy középkori apátság alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331032,
+                        40.92968
+                  ]
+            },
+            {
+                  "name": "Porto Nero (La perla nera)",
+                  "text": "Kicsi, sziklás öböl Monopoliban kristálytiszta vízzel, ideális búvárkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        17.310058,
+                        40.946123
+                  ]
+            },
+            {
+                  "name": "Porto Verde",
+                  "text": "Rejtett tengerparti szakasz Monopoliban, amelyet természetes, érintetlen légköre miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        17.312713,
+                        40.944995
+                  ]
+            },
+            {
+                  "name": "Porto Camicia",
+                  "text": "Bájos kis strand Monopoliban, a régió sziklás díszletei közé ágyazva.",
+                  "category": "recreational",
+                  "coords": [
+                        17.320487,
+                        40.937602
+                  ]
+            },
+            {
+                  "name": "Porto Marzano",
+                  "text": "Festői tengerparti szakasz Monopoliban, amely jellemző Puglia tagolt partvidékére.",
+                  "category": "recreational",
+                  "coords": [
+                        17.327919,
+                        40.933291
+                  ]
+            },
+            {
+                  "name": "Scaletta",
+                  "text": "Kicsi tengerparti lejáró Monopoliban, amelyet a helyiek gyakran használnak egy rövid fürdőzésre.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317391,
+                        40.941548
+                  ]
+            },
+            {
+                  "name": "Lido Pantano",
+                  "text": "Népszerű homokos strand Monopoliban, amely jó fürdési feltételeket kínál a város közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.291788,
+                        40.960768
+                  ]
+            },
+            {
+                  "name": "Piscina - Impianto sportivo pericoloso",
+                  "text": "Elhagyatott vagy veszélyes úszólétesítmény Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.263013,
+                        40.974174
                   ]
             }
       ],
@@ -30006,6 +34541,123 @@ export const poiExtraItalyV2: POI[] = [
                         17.337452,
                         40.921591
                   ]
+            },
+            {
+                  "name": "Lido Santo Stefano",
+                  "text": "Această stațiune balneară din Monopoli este situată pitoresc în apropierea abației istorice Santo Stefano.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331711,
+                        40.928541
+                  ]
+            },
+            {
+                  "name": "Lido Hotel Clio",
+                  "text": "O stațiune balneară asociată cu Hotelul Clio din Monopoli, care oferă acces exclusiv la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.296922,
+                        40.958232
+                  ]
+            },
+            {
+                  "name": "Due Onde",
+                  "text": "O stațiune balneară primitoare din Monopoli, cunoscută pentru apa limpede și atmosfera familială.",
+                  "category": "recreational",
+                  "coords": [
+                        17.324136,
+                        40.936178
+                  ]
+            },
+            {
+                  "name": "Lido Marza'",
+                  "text": "O stațiune balneară din Monopoli, care oferă relaxare în mijlocul peisajului de coastă stâncos al Pugliei.",
+                  "category": "recreational",
+                  "coords": [
+                        17.325442,
+                        40.934675
+                  ]
+            },
+            {
+                  "name": "Lido Colonia",
+                  "text": "O plajă populară din Monopoli, apreciată pentru accesul ușor și atmosfera tipică din Puglia.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317053,
+                        40.939766
+                  ]
+            },
+            {
+                  "name": "Porto Ghiacciolo",
+                  "text": "Una dintre cele mai cunoscute golfuri din Monopoli, situată chiar sub o abație medievală.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331032,
+                        40.92968
+                  ]
+            },
+            {
+                  "name": "Porto Nero (La perla nera)",
+                  "text": "Un golf mic și stâncos în Monopoli, cu apă cristalină, ideal pentru snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        17.310058,
+                        40.946123
+                  ]
+            },
+            {
+                  "name": "Porto Verde",
+                  "text": "O porțiune de coastă ascunsă în Monopoli, apreciată pentru atmosfera sa naturală și neatinsă.",
+                  "category": "recreational",
+                  "coords": [
+                        17.312713,
+                        40.944995
+                  ]
+            },
+            {
+                  "name": "Porto Camicia",
+                  "text": "O plajă mică și fermecătoare din Monopoli, cuibărită în decorul stâncos al regiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        17.320487,
+                        40.937602
+                  ]
+            },
+            {
+                  "name": "Porto Marzano",
+                  "text": "O porțiune pitorească de plajă din Monopoli, tipică pentru coasta crestată a Pugliei.",
+                  "category": "recreational",
+                  "coords": [
+                        17.327919,
+                        40.933291
+                  ]
+            },
+            {
+                  "name": "Scaletta",
+                  "text": "Un mic acces la mare în Monopoli, folosit adesea de localnici pentru o baie scurtă.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317391,
+                        40.941548
+                  ]
+            },
+            {
+                  "name": "Lido Pantano",
+                  "text": "O plajă cu nisip populară din Monopoli, care oferă condiții bune de înot în apropierea orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        17.291788,
+                        40.960768
+                  ]
+            },
+            {
+                  "name": "Piscina - Impianto sportivo pericoloso",
+                  "text": "O piscină abandonată sau periculoasă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.263013,
+                        40.974174
+                  ]
             }
       ],
       "en": [
@@ -30176,6 +34828,123 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         17.337452,
                         40.921591
+                  ]
+            },
+            {
+                  "name": "Lido Santo Stefano",
+                  "text": "This beach resort in Monopoli is picturesquely located near the historic Abbey of Santo Stefano.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331711,
+                        40.928541
+                  ]
+            },
+            {
+                  "name": "Lido Hotel Clio",
+                  "text": "A beach resort associated with Hotel Clio in Monopoli, offering exclusive access to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        17.296922,
+                        40.958232
+                  ]
+            },
+            {
+                  "name": "Due Onde",
+                  "text": "A cozy beach resort in Monopoli known for clear waters and a family-friendly atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        17.324136,
+                        40.936178
+                  ]
+            },
+            {
+                  "name": "Lido Marza'",
+                  "text": "A beach resort in Monopoli offering relaxation amidst the rocky coastal landscape of Puglia.",
+                  "category": "recreational",
+                  "coords": [
+                        17.325442,
+                        40.934675
+                  ]
+            },
+            {
+                  "name": "Lido Colonia",
+                  "text": "A popular beach in Monopoli valued for its easy access and typical Puglian flair.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317053,
+                        40.939766
+                  ]
+            },
+            {
+                  "name": "Porto Ghiacciolo",
+                  "text": "One of the most famous coves in Monopoli, located directly below a medieval abbey.",
+                  "category": "recreational",
+                  "coords": [
+                        17.331032,
+                        40.92968
+                  ]
+            },
+            {
+                  "name": "Porto Nero (La perla nera)",
+                  "text": "A small, rocky cove in Monopoli with crystal clear water, ideal for snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        17.310058,
+                        40.946123
+                  ]
+            },
+            {
+                  "name": "Porto Verde",
+                  "text": "A hidden stretch of coastline in Monopoli valued for its natural, untouched atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        17.312713,
+                        40.944995
+                  ]
+            },
+            {
+                  "name": "Porto Camicia",
+                  "text": "A charming small beach in Monopoli, nestled in the rocky setting of the region.",
+                  "category": "recreational",
+                  "coords": [
+                        17.320487,
+                        40.937602
+                  ]
+            },
+            {
+                  "name": "Porto Marzano",
+                  "text": "A scenic beach area in Monopoli typical of the rugged Puglian coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        17.327919,
+                        40.933291
+                  ]
+            },
+            {
+                  "name": "Scaletta",
+                  "text": "A small sea access point in Monopoli often used by locals for a quick swim.",
+                  "category": "recreational",
+                  "coords": [
+                        17.317391,
+                        40.941548
+                  ]
+            },
+            {
+                  "name": "Lido Pantano",
+                  "text": "A popular sandy beach in Monopoli offering good bathing conditions near the town.",
+                  "category": "recreational",
+                  "coords": [
+                        17.291788,
+                        40.960768
+                  ]
+            },
+            {
+                  "name": "Piscina - Impianto sportivo pericoloso",
+                  "text": "An abandoned or hazardous swimming pool facility in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.263013,
+                        40.974174
                   ]
             }
       ]
@@ -31289,6 +36058,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.849049,
                         45.383341
                   ]
+            },
+            {
+                  "name": "Piscine Plebiscito",
+                  "text": "Ein Schwimmkomplex in Padua mit verschiedenen Becken für Sport und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        11.901241,
+                        45.433962
+                  ]
             }
       ],
       "hu": [
@@ -31490,6 +36268,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.849049,
                         45.383341
+                  ]
+            },
+            {
+                  "name": "Piscine Plebiscito",
+                  "text": "Úszókomplexum Paduában, amely különféle medencéket kínál sporthoz és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        11.901241,
+                        45.433962
                   ]
             }
       ],
@@ -31693,6 +36480,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.849049,
                         45.383341
                   ]
+            },
+            {
+                  "name": "Piscine Plebiscito",
+                  "text": "Un complex de natație în Padova, oferind diverse bazine pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        11.901241,
+                        45.433962
+                  ]
             }
       ],
       "en": [
@@ -31894,6 +36690,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.849049,
                         45.383341
+                  ]
+            },
+            {
+                  "name": "Piscine Plebiscito",
+                  "text": "A swimming complex in Padua offering various pools for sports and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        11.901241,
+                        45.433962
                   ]
             }
       ]
@@ -32304,7 +37109,488 @@ export const poiExtraItalyV2: POI[] = [
             }
       ]
 }},
-  {"id": "portovenere", "type": "city", "parent": "IT-42", "coords": [9.8378, 44.05], "population": 3700, "tier": 2, "name": {"de": "Portovenere", "hu": "Portovenere", "ro": "Portovenere", "en": "Portovenere"}, "description": {"de": "Ein malerisches Juwel am Golf der Dichter, bekannt für seine bunten Turmhäuser und die spektakuläre Lage auf einer felsigen Landspitze an der ligurischen Riviera.", "hu": "Festői ékszerdoboz a Költők-öblében, amely színes toronyházaival és a sziklás tengerparton álló középkori templomával a ligur partvidék egyik legszebb települése.", "ro": "O bijuterie pitorească în Golful Poeților, renumită pentru casele sale turn colorate și locația spectaculoasă pe un promontoriu stâncos de pe Riviera Ligurică.", "en": "A picturesque jewel on the Gulf of Poets, famous for its colorful tower houses and spectacular location on a rocky headland at the edge of the Ligurian Riviera."}, "facts": {"de": ["UNESCO-Welterbe seit 1997", "Am Golf der Dichter gelegen", "Berühmte Byron-Grotte", "Kirche San Pietro (13. Jh.)", "Mächtige Doria-Festung", "Tor zu den Cinque Terre", "Bunte Häuserfront am Hafen", "Antike römische Wurzeln"], "hu": ["1997 óta UNESCO Világörökség", "A Költők-öblének kapuja", "Híres Byron-barlang", "San Pietro templom (13. sz.)", "Doria-várkastély a dombtetőn", "Cinque Terre szomszédsága", "Színes, keskeny kikötői házak", "Római kori alapítás"], "ro": ["Patrimoniu UNESCO din 1997", "Situat în Golful Poeților", "Celebra Grotă a lui Byron", "Biserica San Pietro (sec. XIII)", "Castelul Doria pe deal", "Poarta către Cinque Terre", "Fațade colorate în port", "Origini romane antice"], "en": ["UNESCO World Heritage (1997)", "Located on the Gulf of Poets", "Famous Lord Byron's Grotto", "St. Peter's Church (13th c.)", "Doria Castle on the hill", "Gateway to Cinque Terre", "Colorful waterfront houses", "Ancient Roman foundations"]}, "image": "/poi-images/portovenere.webp", "imageHint": "Panoramic view of Portovenere harbor and the Church of San Pietro", "descriptionAdvanced": {"de": "Portovenere ist weit mehr als nur ein hübsches Fischerdorf; es ist ein lebendiges Denkmal ligurischer Geschichte. Die markante Häuserzeile am Hafen, die 'Palazzata', diente einst als Verteidigungsmauer gegen Angriffe vom Meer. Über dem Ort thront die majestätische Festung der Doria, ein Meisterwerk der genuesischen Militärarchitektur aus dem 12. Jahrhundert. Das spirituelle Herz ist die gestreifte Kirche San Pietro, die auf den Ruinen eines römischen Venustempels errichtet wurde und einen atemberaubenden Blick über das offene Meer bietet. Die wilde Schönheit der Küste inspirierte schon Lord Byron, nach dem die berühmte Grotte benannt ist, in der er geschwommen sein soll. Zusammen mit den drei vorgelagerten Inseln Palmaria, Tino und Tinetto bildet der Ort einen Nationalpark von unvergleichlicher ökologischer und historischer Bedeutung.", "hu": "Portovenere nem csupán egy bájos halászfalu, hanem a ligur történelem élő emlékműve. A kikötő mentén sorakozó jellegzetes, többszintes színes házak sora, a 'Palazzata' egykor védőfalként szolgált a tenger felőli támadások ellen. A település felett a Doria-család fenséges várkastélya magasodik, amely a 12. századi genovai haditechnika remekműve. A spirituális központ a csíkos márványból épült San Pietro-templom, amely egy római Vénusz-templom romjaira épült a sziklaszirt szélén, páratlan kilátást nyújtva a nyílt tengerre. A partvidék vad szépsége megihlette Lord Byront is, róla nevezték el azt a híres barlangot, ahol a legenda szerint rendszeresen úszott. A szemközti három szigettel (Palmaria, Tino és Tinetto) együtt a település egy különleges nemzeti park részét képezi, amely 1997 óta az UNESCO világörökség része.", "ro": "Portovenere este mult mai mult decât un sat de pescari drăguț; este un monument viu al istoriei ligure. Șirul distinctiv de case colorate din port, 'Palazzata', a servit odinioară ca zid de apărare împotriva atacurilor de pe mare. Deasupra orașului tronează maiestuoasa fortăreață Doria, o capodoperă a arhitecturii militare genoveze din secolul al XII-lea. Inima spirituală este biserica San Pietro, construită în stil gotic genovez cu dungi albe și negre pe ruinele unui templu roman al lui Venus, oferind o vedere uluitoare asupra mării. Frumusețea sălbatică a coastei l-a inspirat pe Lord Byron, după care este numită faimoasa grotă unde se spune că ar fi înotat. Împreună cu cele trei insule din față, Palmaria, Tino și Tinetto, orașul formează un parc național de o importanță ecologică și istorică inegalabilă.", "en": "Portovenere is far more than just a pretty fishing village; it is a living monument to Ligurian history. The distinctive row of colorful multi-story houses along the harbor, known as the 'Palazzata', once served as a defensive wall against maritime attacks. Perched above the town is the majestic Doria Castle, a 12th-century masterpiece of Genoese military architecture. The town's spiritual heart is the striped Church of San Pietro, built on the ruins of a Roman temple of Venus at the very tip of the promontory, offering breathtaking views of the open sea. The wild beauty of the coastline inspired Lord Byron, after whom the famous grotto where he reportedly swam is named. Together with the three offshore islands of Palmaria, Tino, and Tinetto, the town forms a national park of immense ecological and historical significance, recognized by UNESCO in 1997."}, "factsAdvanced": {"de": ["Gegründet im 1. Jahrhundert v. Chr. als Portus Veneris", "Die Kirche San Pietro wurde 1277 eingeweiht", "Die Palazzata-Häuser sind bis zu 8 Stockwerke hoch", "Lord Byron schwamm 1822 von hier nach Lerici", "Das Doria-Schloss stammt aus dem Jahr 1161", "Portovenere liegt 12 km südlich von La Spezia"], "hu": ["I. e. 1. században alapították Portus Veneris néven", "A San Pietro-templomot 1277-ben szentelték fel", "A Palazzata házai akár 8 emelet magasak is lehetnek", "Lord Byron 1822-ben innen úszott át Lerici városába", "A Doria-várkastély építése 1161-ben kezdődött", "A település 12 km-re délre fekszik La Speziától"], "ro": ["Fondat în secolul I î.Hr. sub numele de Portus Veneris", "Biserica San Pietro a fost sfințită în anul 1277", "Casele Palazzata au o înălțime de până la 8 etaje", "Lord Byron a înotat de aici până la Lerici în 1822", "Castelul Doria datează din anul 1161", "Orașul este situat la 12 km sud de La Spezia"], "en": ["Founded in the 1st century BC as Portus Veneris", "The Church of San Pietro was consecrated in 1277", "The Palazzata houses reach up to 8 stories high", "Lord Byron swam from here to Lerici in 1822", "Construction of Doria Castle began in 1161", "Portovenere is located 12 km south of La Spezia"]}, "sights": {"de": [{"name": "Castello Doria", "text": "Eine imposante genuesische Festung, die einen weiten Panoramablick über den Golf der Poeten bietet.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-castello-doria.webp", "coords": [9.83241, 44.051054]}, {"name": "Grotta di Byron", "text": "Eine natürliche Meereshöhle, die nach dem Dichter Lord Byron benannt wurde, der hier geschwommen sein soll.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-grotta-di-byron.webp", "coords": [9.832602, 44.050033]}, {"name": "Torre Capitolare", "text": "Ein mittelalterlicher Wehrturm, der einst Teil der Stadtbefestigung war und heute den Eingang zur Altstadt markiert.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-torre-capitolare.webp", "coords": [9.834706, 44.051573]}, {"name": "Insel Palmaria", "text": "Die größte Insel Liguriens liegt direkt gegenüber und bietet Wanderwege sowie kristallklares Wasser zum Baden.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-insel-palmaria.webp", "coords": [9.844444, 44.041944]}, {"name": "Piazza Bastreri", "text": "Die Piazza Bastreri bildet das lebhafte Zentrum in der Altstadt von Portovenere. Umgeben von einladenden Cafés, fungiert der Platz als historischer Ausgangspunkt für vielfältige Erkundungen. Italienreisende können hier die authentische Atmosphäre der Stadt auf sich wirken lassen.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/portovenere-piazza-bastreri.webp", "coords": [9.835243, 44.051904]}, {"name": "Caletta di Albana", "text": "Kleine Bucht in Portovenere.", "category": "recreational", "coords": [9.803659, 44.064389]}, {"name": "Spiaggia del Persico", "text": "Die Spiaggia del Persico, die sich ihren wilden Charme bewahrt hat, ist ein völlig naturbelassener Strand in der Nähe der wunderschönen Gegend von Portovenere. Naturliebhaber werden die sehr unberührte Atmosphäre zu schätzen wissen, die zu erfrischendem Wildschwimmen und friedlicher Kontemplation an der Küste einlädt. Da es an diesem rauen Ort kaum Annehmlichkeiten gibt, ist ein gut gepackter Rucksack der Schlüssel zu einem großartigen Besuch.", "category": "recreational", "coords": [9.797353, 44.065907]}, {"name": "Spiaggia di Cadimare", "text": "Die Spiaggia di Cadimare bildet einen reizvollen Küstenabschnitt in Portovenere und heißt Reisende mit offenen Armen willkommen. Die sanfte Küstenstimmung hier ist durch und durch für Familienausflüge geeignet, bei denen sich gemütliche Strandspaziergänge mit abkühlenden Bädern abwechseln. Der Ort dient als fantastischer Rückzugsort an heißen Sommernachmittagen, wenn die Meeresbrise am meisten geschätzt wird.", "category": "recreational", "coords": [9.823855, 44.084739]}, {"name": "Spiaggia liberale delle Torezze", "text": "In der Küstenstadt Portovenere bietet die Spiaggia liberale delle Torezze einen frei zugänglichen Platz am Meer. Die Umgebung lädt Besucher dazu ein, die italienische Küste in ihrem eigenen Tempo zu genießen. Dies ist ein wunderbarer Ort zum Sonnenbaden oder für ein erfrischendes Bad. Wer in den Sommermonaten früh ankommt, kann sich leicht einen gemütlichen Platz sichern.", "category": "recreational", "coords": [9.843926, 44.0589]}, {"name": "Spiaggia di Arenella", "text": "Eingebettet in die Nähe der charmanten Stadt Portovenere präsentiert sich die Spiaggia di Arenella als einladender Küstenabschnitt. Besucher können entspannte Stunden beim Schwimmen und Faulenzen unter der italienischen Sonne erwarten. Die Atmosphäre ist im Allgemeinen ruhig und eignet sich gut für friedliche Strandspaziergänge. Ein Besuch während der wärmeren Monate verspricht das beste Erlebnis.", "category": "recreational", "coords": [9.838066, 44.0551]}, {"name": "Spiaggia dell'Olivo", "text": "Die Spiaggia dell'Olivo bildet einen markanten Küstenabschnitt direkt in Portovenere und fängt den lokalen maritimen Charme ein. Diese Gegend ist perfekt für alle, die das Meer durch einfaches Sonnenbaden oder gelegentliches Schwimmen erleben möchten. Ihre leicht erreichbare Lage macht sie zu einem angenehmen Zwischenstopp bei der Erkundung der Stadt. Etwas Schatten und Wasser mitzubringen, ist bei einem Besuch immer praktisch.", "category": "recreational", "coords": [9.840179, 44.058059]}], "hu": [{"name": "Doria vár", "text": "Impozáns genovai erődítmény, amely széles panorámát kínál a Költők öblére és a környező tájra.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-castello-doria.webp", "coords": [9.83241, 44.051054]}, {"name": "Byron barlangja", "text": "Természetes tengeri barlang, amelyet Lord Byron költőről neveztek el, aki állítólag itt úszott át az öblön.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-grotta-di-byron.webp", "coords": [9.832602, 44.050033]}, {"name": "Torre Capitolare", "text": "Középkori védőtorony, amely egykor a városfal része volt, ma pedig az óváros bejáratát jelzi.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-torre-capitolare.webp", "coords": [9.834706, 44.051573]}, {"name": "Palmaria-sziget", "text": "Liguria legnagyobb szigete, amely túraútvonalakat és kristálytiszta vizű strandokat kínál a látogatóknak.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-insel-palmaria.webp", "coords": [9.844444, 44.041944]}, {"name": "Piazza Bastreri", "text": "A Piazza Bastreri Portovenere óvárosának nyüzsgő központját alkotja. A hívogató kávézókkal körülvett tér történelmi kiindulópontként szolgál a különféle felfedezőutakhoz. Az olaszországi utazók itt átadhatják magukat a város autentikus hangulatának.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/portovenere-piazza-bastreri.webp", "coords": [9.835243, 44.051904]}, {"name": "Caletta di Albana", "text": "Kis öböl Portovenere településen.", "category": "recreational", "coords": [9.803659, 44.064389]}, {"name": "Spiaggia del Persico", "text": "Vad báját megőrizve a Spiaggia del Persico egy teljesen természetes strand a gyönyörű Portovenere területének közelében. A természet szerelmesei értékelni fogják a rendkívül érintetlen atmoszférát, amely frissítő vadvízi úszásra és békés elmélkedésre invitál a part mentén. Mivel ezen a zord helyen ritkák a kényelmi szolgáltatások, egy jól felszerelt hátizsák összekészítése a nagyszerű látogatás kulcsa.", "category": "recreational", "coords": [9.797353, 44.065907]}, {"name": "Spiaggia di Cadimare", "text": "A Portovenere partszakaszának egy szép szakaszát alkotó Spiaggia di Cadimare tárt karokkal várja az utazókat. A lágy tengerparti hangulat itt tökéletesen alkalmas a családi kiruccanásokhoz, a kényelmes tengerparti sétákat hűsítő úszással ötvözve. Fantasztikus menedékként szolgál a forró nyári délutánokon, amikor a tengeri szellőt a leginkább értékelik.", "category": "recreational", "coords": [9.823855, 44.084739]}, {"name": "Spiaggia liberale delle Torezze", "text": "A tengerparti Portovenere városában található Spiaggia liberale delle Torezze egy szabadon látogatható tengerparti szakaszt kínál. A környezet arra hívja a látogatókat, hogy saját tempójukban élvezzék az olasz partvidéket. Ez egy csodálatos hely a napozáshoz vagy egy frissítő csobbanáshoz. A nyári hónapokban érdemes korán érkezni, hogy kényelmes helyet találjunk.", "category": "recreational", "coords": [9.843926, 44.0589]}, {"name": "Spiaggia di Arenella", "text": "A bájos Portovenere városának közelében megbúvó Spiaggia di Arenella egy hívogató tengerparti szakaszt tár elénk. A látogatók kellemes órákat tölthetnek úszással és pihenéssel az olasz nap alatt. A hangulat általában nyugodt, így tökéletes választás békés tengerparti sétákhoz. A melegebb hónapokban tett látogatás ígéri a legjobb élményt.", "category": "recreational", "coords": [9.838066, 44.0551]}, {"name": "Spiaggia dell'Olivo", "text": "A Spiaggia dell'Olivo egy jellegzetes partszakaszt alkot közvetlenül Portovenere városában, megragadva a helyi tengeri varázst. Ez a terület tökéletes azok számára, akik egyszerű napozással vagy lazító úszással szeretnék megtapasztalni a tengert. Jól megközelíthető elhelyezkedése miatt kellemes megálló lehet a város felfedezése közben. Egy kevés árnyékot adó eszköz és víz hozatala mindig praktikus a látogatáskor.", "category": "recreational", "coords": [9.840179, 44.058059]}], "ro": [{"name": "Castello Doria", "text": "O fortăreață genoveză impunătoare care oferă o panoramă vastă asupra Golfului Poeților și împrejurimilor.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-castello-doria.webp", "coords": [9.83241, 44.051054]}, {"name": "Grota lui Byron", "text": "O peșteră marină naturală numită după poetul Lord Byron, despre care se spune că ar fi înotat aici.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-grotta-di-byron.webp", "coords": [9.832602, 44.050033]}, {"name": "Torre Capitolare", "text": "Un turn de apărare medieval care a făcut parte din fortificațiile orașului, marcând intrarea în centrul vechi.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-torre-capitolare.webp", "coords": [9.834706, 44.051573]}, {"name": "Insula Palmaria", "text": "Cea mai mare insulă din Liguria, situată chiar vizavi, oferind trasee de drumeție și ape cristaline pentru înot.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-insel-palmaria.webp", "coords": [9.844444, 44.041944]}, {"name": "Piazza Bastreri", "text": "Piazza Bastreri formează centrul plin de viață al orașului vechi din Portovenere. Înconjurată de cafenele primitoare, piața servește drept punct de plecare istoric pentru diverse explorări. Călătorii în Italia se pot bucura aici de atmosfera autentică a orașului.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/portovenere-piazza-bastreri.webp", "coords": [9.835243, 44.051904]}, {"name": "Caletta di Albana", "text": "Golf mic în Portovenere.", "category": "recreational", "coords": [9.803659, 44.064389]}, {"name": "Spiaggia del Persico", "text": "Păstrându-și farmecul sălbatic, Spiaggia del Persico este o plajă complet naturală situată în apropierea frumoasei zone Portovenere. Entuziaștii naturii vor aprecia atmosfera extrem de neatinsă, care îi invită la înot sălbatic revigorant și reflecție pașnică de-a lungul coastei. Deoarece facilitățile sunt rare în acest loc stâncos, pregătirea unui rucsac bine aprovizionat este cheia pentru o vizită excelentă.", "category": "recreational", "coords": [9.797353, 44.065907]}, {"name": "Spiaggia di Cadimare", "text": "Formând o porțiune minunată a coastei în Portovenere, Spiaggia di Cadimare întâmpină călătorii cu brațele deschise. Atmosfera blândă de pe coastă este perfect potrivită pentru zilele de ieșire în familie, îmbinând plimbările relaxante pe malul mării cu băi răcoroase. Servește ca o retragere fantastică în timpul după-amiezelor toride de vară, când briza mării este cea mai apreciată.", "category": "recreational", "coords": [9.823855, 44.084739]}, {"name": "Spiaggia liberale delle Torezze", "text": "Situată în orașul de coastă Portovenere, Spiaggia liberale delle Torezze oferă un loc cu acces liber la malul mării. Cadrul invită vizitatorii să se relaxeze și să se bucure de litoralul italian în propriul ritm. Este o locație minunată pentru a face plajă sau o baie răcoritoare. Sosirea dimineața devreme, în lunile de vară, este o modalitate excelentă de a asigura un loc confortabil.", "category": "recreational", "coords": [9.843926, 44.0589]}, {"name": "Spiaggia di Arenella", "text": "Ascunsă în apropierea fermecătorului oraș Portovenere, Spiaggia di Arenella prezintă o întindere de coastă primitoare. Vizitatorii pot anticipa ore plăcute de înot și relaxare sub soarele italian. Atmosfera este în general liniștită, fiind potrivită pentru plimbări pașnice la malul mării. O vizită în lunile mai calde promite cea mai bună experiență.", "category": "recreational", "coords": [9.838066, 44.0551]}, {"name": "Spiaggia dell'Olivo", "text": "Spiaggia dell'Olivo formează o secțiune distinctă de coastă chiar în Portovenere, surprinzând farmecul maritim local. Această zonă este perfectă pentru cei care doresc să experimenteze marea prin plajă simplă sau înot ocazional. Locația sa accesibilă o face o oprire plăcută în timpul unei zile de explorare a orașului. Aducerea de apă și a unui obiect pentru umbră este întotdeauna practică la vizitare.", "category": "recreational", "coords": [9.840179, 44.058059]}], "en": [{"name": "Doria Castle", "text": "An imposing Genoese fortress that offers wide panoramic views over the Gulf of Poets and beyond.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-castello-doria.webp", "coords": [9.83241, 44.051054]}, {"name": "Byron's Grotto", "text": "A natural sea cave named after the poet Lord Byron, who famously swam across the bay from this point.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-grotta-di-byron.webp", "coords": [9.832602, 44.050033]}, {"name": "Capitolare Tower", "text": "A medieval defensive tower that was once part of the city walls, now marking the entrance to the old town.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/portovenere-torre-capitolare.webp", "coords": [9.834706, 44.051573]}, {"name": "Palmaria Island", "text": "Liguria's largest island, located just across the water, offering hiking trails and crystal-clear beaches.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/portovenere-insel-palmaria.webp", "coords": [9.844444, 44.041944]}, {"name": "Piazza Bastreri", "text": "Piazza Bastreri forms the lively center of the old town of Portovenere. Surrounded by inviting cafes, the square serves as a historic starting point for various explorations. Travelers to Italy can soak in the authentic atmosphere of the city here.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/portovenere-piazza-bastreri.webp", "coords": [9.835243, 44.051904]}, {"name": "Caletta di Albana", "text": "Small cove in Portovenere.", "category": "recreational", "coords": [9.803659, 44.064389]}, {"name": "Spiaggia del Persico", "text": "Preserving its wild charm, Spiaggia del Persico is a completely natural beach located near the beautiful area of Portovenere. Nature enthusiasts will appreciate the highly untouched atmosphere, inviting them for refreshing wild swimming and peaceful reflection along the coast. Since amenities are scarce in this rugged spot, preparing a well-stocked backpack is the key to a great visit.", "category": "recreational", "coords": [9.797353, 44.065907]}, {"name": "Spiaggia di Cadimare", "text": "Forming a lovely stretch of the coastline in Portovenere, Spiaggia di Cadimare welcomes travelers with open arms. The gentle coastal vibe here is thoroughly suited for family days out, mixing leisurely seaside strolls with cooling swims. It serves as a fantastic retreat during the hot summer afternoons when the sea breeze is most appreciated.", "category": "recreational", "coords": [9.823855, 44.084739]}, {"name": "Spiaggia liberale delle Torezze", "text": "Located in the coastal town of Portovenere, Spiaggia liberale delle Torezze offers a freely accessible spot by the sea. The setting invites visitors to relax and enjoy the Italian coastline at their own pace. It is a wonderful location for sunbathing or taking a refreshing dip. Arriving early in the summer months is a great way to secure a comfortable spot.", "category": "recreational", "coords": [9.843926, 44.0589]}, {"name": "Spiaggia di Arenella", "text": "Nestled near the charming town of Portovenere, Spiaggia di Arenella presents a welcoming coastal stretch. Visitors can anticipate pleasant hours of swimming and lounging under the Italian sun. The atmosphere is generally relaxed, making it suitable for peaceful seaside walks. A visit during the warmer months promises the best experience.", "category": "recreational", "coords": [9.838066, 44.0551]}, {"name": "Spiaggia dell'Olivo", "text": "Spiaggia dell'Olivo forms a distinct coastal section right in Portovenere, capturing the local maritime charm. This area is perfect for those looking to experience the sea through simple sunbathing or casual swimming. Its accessible setting makes it a pleasant stop during a day exploring the town. Bringing some shade and water is always practical when visiting.", "category": "recreational", "coords": [9.840179, 44.058059]}]}},
+  {"id": "portovenere", "type": "city", "parent": "IT-42", "coords": [9.8378, 44.05], "population": 3700, "tier": 2, "name": {"de": "Portovenere", "hu": "Portovenere", "ro": "Portovenere", "en": "Portovenere"}, "description": {"de": "Ein malerisches Juwel am Golf der Dichter, bekannt für seine bunten Turmhäuser und die spektakuläre Lage auf einer felsigen Landspitze an der ligurischen Riviera.", "hu": "Festői ékszerdoboz a Költők-öblében, amely színes toronyházaival és a sziklás tengerparton álló középkori templomával a ligur partvidék egyik legszebb települése.", "ro": "O bijuterie pitorească în Golful Poeților, renumită pentru casele sale turn colorate și locația spectaculoasă pe un promontoriu stâncos de pe Riviera Ligurică.", "en": "A picturesque jewel on the Gulf of Poets, famous for its colorful tower houses and spectacular location on a rocky headland at the edge of the Ligurian Riviera."}, "facts": {"de": ["UNESCO-Welterbe seit 1997", "Am Golf der Dichter gelegen", "Berühmte Byron-Grotte", "Kirche San Pietro (13. Jh.)", "Mächtige Doria-Festung", "Tor zu den Cinque Terre", "Bunte Häuserfront am Hafen", "Antike römische Wurzeln"], "hu": ["1997 óta UNESCO Világörökség", "A Költők-öblének kapuja", "Híres Byron-barlang", "San Pietro templom (13. sz.)", "Doria-várkastély a dombtetőn", "Cinque Terre szomszédsága", "Színes, keskeny kikötői házak", "Római kori alapítás"], "ro": ["Patrimoniu UNESCO din 1997", "Situat în Golful Poeților", "Celebra Grotă a lui Byron", "Biserica San Pietro (sec. XIII)", "Castelul Doria pe deal", "Poarta către Cinque Terre", "Fațade colorate în port", "Origini romane antice"], "en": ["UNESCO World Heritage (1997)", "Located on the Gulf of Poets", "Famous Lord Byron's Grotto", "St. Peter's Church (13th c.)", "Doria Castle on the hill", "Gateway to Cinque Terre", "Colorful waterfront houses", "Ancient Roman foundations"]}, "image": "/poi-images/portovenere.webp", "imageHint": "Panoramic view of Portovenere harbor and the Church of San Pietro", "descriptionAdvanced": {"de": "Portovenere ist weit mehr als nur ein hübsches Fischerdorf; es ist ein lebendiges Denkmal ligurischer Geschichte. Die markante Häuserzeile am Hafen, die 'Palazzata', diente einst als Verteidigungsmauer gegen Angriffe vom Meer. Über dem Ort thront die majestätische Festung der Doria, ein Meisterwerk der genuesischen Militärarchitektur aus dem 12. Jahrhundert. Das spirituelle Herz ist die gestreifte Kirche San Pietro, die auf den Ruinen eines römischen Venustempels errichtet wurde und einen atemberaubenden Blick über das offene Meer bietet. Die wilde Schönheit der Küste inspirierte schon Lord Byron, nach dem die berühmte Grotte benannt ist, in der er geschwommen sein soll. Zusammen mit den drei vorgelagerten Inseln Palmaria, Tino und Tinetto bildet der Ort einen Nationalpark von unvergleichlicher ökologischer und historischer Bedeutung.", "hu": "Portovenere nem csupán egy bájos halászfalu, hanem a ligur történelem élő emlékműve. A kikötő mentén sorakozó jellegzetes, többszintes színes házak sora, a 'Palazzata' egykor védőfalként szolgált a tenger felőli támadások ellen. A település felett a Doria-család fenséges várkastélya magasodik, amely a 12. századi genovai haditechnika remekműve. A spirituális központ a csíkos márványból épült San Pietro-templom, amely egy római Vénusz-templom romjaira épült a sziklaszirt szélén, páratlan kilátást nyújtva a nyílt tengerre. A partvidék vad szépsége megihlette Lord Byront is, róla nevezték el azt a híres barlangot, ahol a legenda szerint rendszeresen úszott. A szemközti három szigettel (Palmaria, Tino és Tinetto) együtt a település egy különleges nemzeti park részét képezi, amely 1997 óta az UNESCO világörökség része.", "ro": "Portovenere este mult mai mult decât un sat de pescari drăguț; este un monument viu al istoriei ligure. Șirul distinctiv de case colorate din port, 'Palazzata', a servit odinioară ca zid de apărare împotriva atacurilor de pe mare. Deasupra orașului tronează maiestuoasa fortăreață Doria, o capodoperă a arhitecturii militare genoveze din secolul al XII-lea. Inima spirituală este biserica San Pietro, construită în stil gotic genovez cu dungi albe și negre pe ruinele unui templu roman al lui Venus, oferind o vedere uluitoare asupra mării. Frumusețea sălbatică a coastei l-a inspirat pe Lord Byron, după care este numită faimoasa grotă unde se spune că ar fi înotat. Împreună cu cele trei insule din față, Palmaria, Tino și Tinetto, orașul formează un parc național de o importanță ecologică și istorică inegalabilă.", "en": "Portovenere is far more than just a pretty fishing village; it is a living monument to Ligurian history. The distinctive row of colorful multi-story houses along the harbor, known as the 'Palazzata', once served as a defensive wall against maritime attacks. Perched above the town is the majestic Doria Castle, a 12th-century masterpiece of Genoese military architecture. The town's spiritual heart is the striped Church of San Pietro, built on the ruins of a Roman temple of Venus at the very tip of the promontory, offering breathtaking views of the open sea. The wild beauty of the coastline inspired Lord Byron, after whom the famous grotto where he reportedly swam is named. Together with the three offshore islands of Palmaria, Tino, and Tinetto, the town forms a national park of immense ecological and historical significance, recognized by UNESCO in 1997."}, "factsAdvanced": {"de": ["Gegründet im 1. Jahrhundert v. Chr. als Portus Veneris", "Die Kirche San Pietro wurde 1277 eingeweiht", "Die Palazzata-Häuser sind bis zu 8 Stockwerke hoch", "Lord Byron schwamm 1822 von hier nach Lerici", "Das Doria-Schloss stammt aus dem Jahr 1161", "Portovenere liegt 12 km südlich von La Spezia"], "hu": ["I. e. 1. században alapították Portus Veneris néven", "A San Pietro-templomot 1277-ben szentelték fel", "A Palazzata házai akár 8 emelet magasak is lehetnek", "Lord Byron 1822-ben innen úszott át Lerici városába", "A Doria-várkastély építése 1161-ben kezdődött", "A település 12 km-re délre fekszik La Speziától"], "ro": ["Fondat în secolul I î.Hr. sub numele de Portus Veneris", "Biserica San Pietro a fost sfințită în anul 1277", "Casele Palazzata au o înălțime de până la 8 etaje", "Lord Byron a înotat de aici până la Lerici în 1822", "Castelul Doria datează din anul 1161", "Orașul este situat la 12 km sud de La Spezia"], "en": ["Founded in the 1st century BC as Portus Veneris", "The Church of San Pietro was consecrated in 1277", "The Palazzata houses reach up to 8 stories high", "Lord Byron swam from here to Lerici in 1822", "Construction of Doria Castle began in 1161", "Portovenere is located 12 km south of La Spezia"]}, "sights": {
+      "de": [
+            {
+                  "name": "Castello Doria",
+                  "text": "Eine imposante genuesische Festung, die einen weiten Panoramablick über den Golf der Poeten bietet.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-castello-doria.webp",
+                  "coords": [
+                        9.83241,
+                        44.051054
+                  ]
+            },
+            {
+                  "name": "Grotta di Byron",
+                  "text": "Eine natürliche Meereshöhle, die nach dem Dichter Lord Byron benannt wurde, der hier geschwommen sein soll.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-grotta-di-byron.webp",
+                  "coords": [
+                        9.832602,
+                        44.050033
+                  ]
+            },
+            {
+                  "name": "Torre Capitolare",
+                  "text": "Ein mittelalterlicher Wehrturm, der einst Teil der Stadtbefestigung war und heute den Eingang zur Altstadt markiert.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-torre-capitolare.webp",
+                  "coords": [
+                        9.834706,
+                        44.051573
+                  ]
+            },
+            {
+                  "name": "Insel Palmaria",
+                  "text": "Die größte Insel Liguriens liegt direkt gegenüber und bietet Wanderwege sowie kristallklares Wasser zum Baden.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-insel-palmaria.webp",
+                  "coords": [
+                        9.844444,
+                        44.041944
+                  ]
+            },
+            {
+                  "name": "Piazza Bastreri",
+                  "text": "Die Piazza Bastreri bildet das lebhafte Zentrum in der Altstadt von Portovenere. Umgeben von einladenden Cafés, fungiert der Platz als historischer Ausgangspunkt für vielfältige Erkundungen. Italienreisende können hier die authentische Atmosphäre der Stadt auf sich wirken lassen.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-piazza-bastreri.webp",
+                  "coords": [
+                        9.835243,
+                        44.051904
+                  ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Kleine Bucht in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Die Spiaggia del Persico, die sich ihren wilden Charme bewahrt hat, ist ein völlig naturbelassener Strand in der Nähe der wunderschönen Gegend von Portovenere. Naturliebhaber werden die sehr unberührte Atmosphäre zu schätzen wissen, die zu erfrischendem Wildschwimmen und friedlicher Kontemplation an der Küste einlädt. Da es an diesem rauen Ort kaum Annehmlichkeiten gibt, ist ein gut gepackter Rucksack der Schlüssel zu einem großartigen Besuch.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "Die Spiaggia di Cadimare bildet einen reizvollen Küstenabschnitt in Portovenere und heißt Reisende mit offenen Armen willkommen. Die sanfte Küstenstimmung hier ist durch und durch für Familienausflüge geeignet, bei denen sich gemütliche Strandspaziergänge mit abkühlenden Bädern abwechseln. Der Ort dient als fantastischer Rückzugsort an heißen Sommernachmittagen, wenn die Meeresbrise am meisten geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "In der Küstenstadt Portovenere bietet die Spiaggia liberale delle Torezze einen frei zugänglichen Platz am Meer. Die Umgebung lädt Besucher dazu ein, die italienische Küste in ihrem eigenen Tempo zu genießen. Dies ist ein wunderbarer Ort zum Sonnenbaden oder für ein erfrischendes Bad. Wer in den Sommermonaten früh ankommt, kann sich leicht einen gemütlichen Platz sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "Eingebettet in die Nähe der charmanten Stadt Portovenere präsentiert sich die Spiaggia di Arenella als einladender Küstenabschnitt. Besucher können entspannte Stunden beim Schwimmen und Faulenzen unter der italienischen Sonne erwarten. Die Atmosphäre ist im Allgemeinen ruhig und eignet sich gut für friedliche Strandspaziergänge. Ein Besuch während der wärmeren Monate verspricht das beste Erlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "Die Spiaggia dell'Olivo bildet einen markanten Küstenabschnitt direkt in Portovenere und fängt den lokalen maritimen Charme ein. Diese Gegend ist perfekt für alle, die das Meer durch einfaches Sonnenbaden oder gelegentliches Schwimmen erleben möchten. Ihre leicht erreichbare Lage macht sie zu einem angenehmen Zwischenstopp bei der Erkundung der Stadt. Etwas Schatten und Wasser mitzubringen, ist bei einem Besuch immer praktisch.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
+                  ]
+            },
+            {
+                  "name": "Gabbiano",
+                  "text": "Ein Küstenabschnitt zum Baden und Entspannen in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839177,
+                        44.049058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doria vár",
+                  "text": "Impozáns genovai erődítmény, amely széles panorámát kínál a Költők öblére és a környező tájra.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-castello-doria.webp",
+                  "coords": [
+                        9.83241,
+                        44.051054
+                  ]
+            },
+            {
+                  "name": "Byron barlangja",
+                  "text": "Természetes tengeri barlang, amelyet Lord Byron költőről neveztek el, aki állítólag itt úszott át az öblön.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-grotta-di-byron.webp",
+                  "coords": [
+                        9.832602,
+                        44.050033
+                  ]
+            },
+            {
+                  "name": "Torre Capitolare",
+                  "text": "Középkori védőtorony, amely egykor a városfal része volt, ma pedig az óváros bejáratát jelzi.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-torre-capitolare.webp",
+                  "coords": [
+                        9.834706,
+                        44.051573
+                  ]
+            },
+            {
+                  "name": "Palmaria-sziget",
+                  "text": "Liguria legnagyobb szigete, amely túraútvonalakat és kristálytiszta vizű strandokat kínál a látogatóknak.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-insel-palmaria.webp",
+                  "coords": [
+                        9.844444,
+                        44.041944
+                  ]
+            },
+            {
+                  "name": "Piazza Bastreri",
+                  "text": "A Piazza Bastreri Portovenere óvárosának nyüzsgő központját alkotja. A hívogató kávézókkal körülvett tér történelmi kiindulópontként szolgál a különféle felfedezőutakhoz. Az olaszországi utazók itt átadhatják magukat a város autentikus hangulatának.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-piazza-bastreri.webp",
+                  "coords": [
+                        9.835243,
+                        44.051904
+                  ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Kis öböl Portovenere településen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Vad báját megőrizve a Spiaggia del Persico egy teljesen természetes strand a gyönyörű Portovenere területének közelében. A természet szerelmesei értékelni fogják a rendkívül érintetlen atmoszférát, amely frissítő vadvízi úszásra és békés elmélkedésre invitál a part mentén. Mivel ezen a zord helyen ritkák a kényelmi szolgáltatások, egy jól felszerelt hátizsák összekészítése a nagyszerű látogatás kulcsa.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "A Portovenere partszakaszának egy szép szakaszát alkotó Spiaggia di Cadimare tárt karokkal várja az utazókat. A lágy tengerparti hangulat itt tökéletesen alkalmas a családi kiruccanásokhoz, a kényelmes tengerparti sétákat hűsítő úszással ötvözve. Fantasztikus menedékként szolgál a forró nyári délutánokon, amikor a tengeri szellőt a leginkább értékelik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "A tengerparti Portovenere városában található Spiaggia liberale delle Torezze egy szabadon látogatható tengerparti szakaszt kínál. A környezet arra hívja a látogatókat, hogy saját tempójukban élvezzék az olasz partvidéket. Ez egy csodálatos hely a napozáshoz vagy egy frissítő csobbanáshoz. A nyári hónapokban érdemes korán érkezni, hogy kényelmes helyet találjunk.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "A bájos Portovenere városának közelében megbúvó Spiaggia di Arenella egy hívogató tengerparti szakaszt tár elénk. A látogatók kellemes órákat tölthetnek úszással és pihenéssel az olasz nap alatt. A hangulat általában nyugodt, így tökéletes választás békés tengerparti sétákhoz. A melegebb hónapokban tett látogatás ígéri a legjobb élményt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "A Spiaggia dell'Olivo egy jellegzetes partszakaszt alkot közvetlenül Portovenere városában, megragadva a helyi tengeri varázst. Ez a terület tökéletes azok számára, akik egyszerű napozással vagy lazító úszással szeretnék megtapasztalni a tengert. Jól megközelíthető elhelyezkedése miatt kellemes megálló lehet a város felfedezése közben. Egy kevés árnyékot adó eszköz és víz hozatala mindig praktikus a látogatáskor.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
+                  ]
+            },
+            {
+                  "name": "Gabbiano",
+                  "text": "Tengerparti fürdő- és pihenőhely Portovenere területén.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839177,
+                        44.049058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castello Doria",
+                  "text": "O fortăreață genoveză impunătoare care oferă o panoramă vastă asupra Golfului Poeților și împrejurimilor.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-castello-doria.webp",
+                  "coords": [
+                        9.83241,
+                        44.051054
+                  ]
+            },
+            {
+                  "name": "Grota lui Byron",
+                  "text": "O peșteră marină naturală numită după poetul Lord Byron, despre care se spune că ar fi înotat aici.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-grotta-di-byron.webp",
+                  "coords": [
+                        9.832602,
+                        44.050033
+                  ]
+            },
+            {
+                  "name": "Torre Capitolare",
+                  "text": "Un turn de apărare medieval care a făcut parte din fortificațiile orașului, marcând intrarea în centrul vechi.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-torre-capitolare.webp",
+                  "coords": [
+                        9.834706,
+                        44.051573
+                  ]
+            },
+            {
+                  "name": "Insula Palmaria",
+                  "text": "Cea mai mare insulă din Liguria, situată chiar vizavi, oferind trasee de drumeție și ape cristaline pentru înot.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-insel-palmaria.webp",
+                  "coords": [
+                        9.844444,
+                        44.041944
+                  ]
+            },
+            {
+                  "name": "Piazza Bastreri",
+                  "text": "Piazza Bastreri formează centrul plin de viață al orașului vechi din Portovenere. Înconjurată de cafenele primitoare, piața servește drept punct de plecare istoric pentru diverse explorări. Călătorii în Italia se pot bucura aici de atmosfera autentică a orașului.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-piazza-bastreri.webp",
+                  "coords": [
+                        9.835243,
+                        44.051904
+                  ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Golf mic în Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Păstrându-și farmecul sălbatic, Spiaggia del Persico este o plajă complet naturală situată în apropierea frumoasei zone Portovenere. Entuziaștii naturii vor aprecia atmosfera extrem de neatinsă, care îi invită la înot sălbatic revigorant și reflecție pașnică de-a lungul coastei. Deoarece facilitățile sunt rare în acest loc stâncos, pregătirea unui rucsac bine aprovizionat este cheia pentru o vizită excelentă.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "Formând o porțiune minunată a coastei în Portovenere, Spiaggia di Cadimare întâmpină călătorii cu brațele deschise. Atmosfera blândă de pe coastă este perfect potrivită pentru zilele de ieșire în familie, îmbinând plimbările relaxante pe malul mării cu băi răcoroase. Servește ca o retragere fantastică în timpul după-amiezelor toride de vară, când briza mării este cea mai apreciată.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "Situată în orașul de coastă Portovenere, Spiaggia liberale delle Torezze oferă un loc cu acces liber la malul mării. Cadrul invită vizitatorii să se relaxeze și să se bucure de litoralul italian în propriul ritm. Este o locație minunată pentru a face plajă sau o baie răcoritoare. Sosirea dimineața devreme, în lunile de vară, este o modalitate excelentă de a asigura un loc confortabil.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "Ascunsă în apropierea fermecătorului oraș Portovenere, Spiaggia di Arenella prezintă o întindere de coastă primitoare. Vizitatorii pot anticipa ore plăcute de înot și relaxare sub soarele italian. Atmosfera este în general liniștită, fiind potrivită pentru plimbări pașnice la malul mării. O vizită în lunile mai calde promite cea mai bună experiență.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "Spiaggia dell'Olivo formează o secțiune distinctă de coastă chiar în Portovenere, surprinzând farmecul maritim local. Această zonă este perfectă pentru cei care doresc să experimenteze marea prin plajă simplă sau înot ocazional. Locația sa accesibilă o face o oprire plăcută în timpul unei zile de explorare a orașului. Aducerea de apă și a unui obiect pentru umbră este întotdeauna practică la vizitare.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
+                  ]
+            },
+            {
+                  "name": "Gabbiano",
+                  "text": "O zonă de coastă pentru înot și relaxare în Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839177,
+                        44.049058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doria Castle",
+                  "text": "An imposing Genoese fortress that offers wide panoramic views over the Gulf of Poets and beyond.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-castello-doria.webp",
+                  "coords": [
+                        9.83241,
+                        44.051054
+                  ]
+            },
+            {
+                  "name": "Byron's Grotto",
+                  "text": "A natural sea cave named after the poet Lord Byron, who famously swam across the bay from this point.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-grotta-di-byron.webp",
+                  "coords": [
+                        9.832602,
+                        44.050033
+                  ]
+            },
+            {
+                  "name": "Capitolare Tower",
+                  "text": "A medieval defensive tower that was once part of the city walls, now marking the entrance to the old town.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-torre-capitolare.webp",
+                  "coords": [
+                        9.834706,
+                        44.051573
+                  ]
+            },
+            {
+                  "name": "Palmaria Island",
+                  "text": "Liguria's largest island, located just across the water, offering hiking trails and crystal-clear beaches.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-insel-palmaria.webp",
+                  "coords": [
+                        9.844444,
+                        44.041944
+                  ]
+            },
+            {
+                  "name": "Piazza Bastreri",
+                  "text": "Piazza Bastreri forms the lively center of the old town of Portovenere. Surrounded by inviting cafes, the square serves as a historic starting point for various explorations. Travelers to Italy can soak in the authentic atmosphere of the city here.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/portovenere-piazza-bastreri.webp",
+                  "coords": [
+                        9.835243,
+                        44.051904
+                  ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Small cove in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Preserving its wild charm, Spiaggia del Persico is a completely natural beach located near the beautiful area of Portovenere. Nature enthusiasts will appreciate the highly untouched atmosphere, inviting them for refreshing wild swimming and peaceful reflection along the coast. Since amenities are scarce in this rugged spot, preparing a well-stocked backpack is the key to a great visit.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "Forming a lovely stretch of the coastline in Portovenere, Spiaggia di Cadimare welcomes travelers with open arms. The gentle coastal vibe here is thoroughly suited for family days out, mixing leisurely seaside strolls with cooling swims. It serves as a fantastic retreat during the hot summer afternoons when the sea breeze is most appreciated.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "Located in the coastal town of Portovenere, Spiaggia liberale delle Torezze offers a freely accessible spot by the sea. The setting invites visitors to relax and enjoy the Italian coastline at their own pace. It is a wonderful location for sunbathing or taking a refreshing dip. Arriving early in the summer months is a great way to secure a comfortable spot.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "Nestled near the charming town of Portovenere, Spiaggia di Arenella presents a welcoming coastal stretch. Visitors can anticipate pleasant hours of swimming and lounging under the Italian sun. The atmosphere is generally relaxed, making it suitable for peaceful seaside walks. A visit during the warmer months promises the best experience.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "Spiaggia dell'Olivo forms a distinct coastal section right in Portovenere, capturing the local maritime charm. This area is perfect for those looking to experience the sea through simple sunbathing or casual swimming. Its accessible setting makes it a pleasant stop during a day exploring the town. Bringing some shade and water is always practical when visiting.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
+                  ]
+            },
+            {
+                  "name": "Gabbiano",
+                  "text": "A coastal area for swimming and relaxation in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839177,
+                        44.049058
+                  ]
+            }
+      ]
+}},
   {"id": "procida", "type": "city", "parent": "IT-72", "coords": [14.0188, 40.7588], "population": 10300, "tier": 2, "name": {"de": "Procida", "hu": "Procida", "ro": "Procida", "en": "Procida"}, "description": {"de": "Procida, die kleinste bewohnte Insel im Golf von Neapel, besticht durch ihre bunten Fischerhäuser in Marina Corricella und ihre authentische Atmosphäre.", "hu": "A Nápolyi-öböl legkisebb lakott szigete, Procida színes halászházaival, a Marina Corricella festői látványával és hamisítatlan, autentikus hangulatával bűvöli el a látogatókat.", "ro": "Cea mai mică insulă locuită din Golful Napoli, Procida impresionează prin casele sale colorate din Marina Corricella și atmosfera sa autentică.", "en": "The smallest inhabited island in the Gulf of Naples, Procida charms visitors with its colorful fisherman houses in Marina Corricella and its authentic atmosphere."}, "facts": {"de": ["Italiens Kulturhauptstadt 2022", "Bunte Häuser der Corricella", "Kleinste bewohnte Insel", "Vulkanischen Ursprungs", "Bekannt aus 'Der Postman'", "Abtei San Michele", "Palazzo d'Avalos Festung", "Zitronenanbau"], "hu": ["Olaszország kulturális fővárosa 2022", "Corricella színes házai", "Legkisebb lakott sziget", "Vulkáni eredetű", "A 'Neruda postása' helyszíne", "San Michele apátság", "Palazzo d'Avalos erőd", "Híres citromtermesztés"], "ro": ["Capitala Culturii în Italia 2022", "Casele colorate din Corricella", "Cea mai mică insulă locuită", "Origine vulcanică", "Locația filmului 'Il Postino'", "Abadia San Michele", "Fortăreața Palazzo d'Avalos", "Cultivarea lămâilor"], "en": ["Italy's Capital of Culture 2022", "Colorful Corricella houses", "Smallest inhabited island", "Volcanic origin", "Filming site of 'Il Postino'", "San Michele Abbey", "Palazzo d'Avalos fortress", "Lemon cultivation"]}, "image": "/poi-images/procida.webp", "imageHint": "Vibrant pastel-colored houses of Marina Corricella in Procida", "descriptionAdvanced": {"de": "Procida ist die authentischste der drei Inseln im Golf von Neapel. Während Capri für Luxus und Ischia für Wellness steht, hat Procida seinen Charme als Fischerinsel bewahrt. Das berühmteste Bild der Insel ist die Marina Corricella, ein Amphitheater aus pastellfarbenen Häusern, die sich übereinander stapeln. Diese Architektur diente dazu, dass die Fischer ihre Häuser schon von weitem auf See erkennen konnten. Procida war Italiens Kulturhauptstadt 2022, was die kulturelle Bedeutung dieses kleinen Eilands unterstreicht. Im höchstgelegenen Teil der Insel, Terra Murata, befindet sich der historische Kern mit dem Palazzo d'Avalos, einem ehemaligen Gefängnis, und der Abtei San Michele Arcangelo. Die Insel ist so klein, dass man sie fast vollständig zu Fuß erkunden kann. Bekanntheit erlangte Procida auch als Filmkulisse für Klassiker wie 'Der Postmann' (Il Postino) und 'Der talentierte Mr. Ripley'. Die lokale Spezialität sind die großen Procida-Zitronen, aus denen köstliche Salate bereitet werden.", "hu": "Procida a Nápolyi-öböl legkisebb, de talán legautentikusabb lakott szigete. Míg Capri a luxusról, Ischia a termálvízről szól, Procida megmaradt a halászok és a helyiek szigetének. Világhírű panorámája Marina Corricella, ahol a pasztellszínű házak úgy sorakoznak egymás hegyén-hátán, mint egy színes amfiteátrum. A legenda szerint a házakat azért festették különböző színűre, hogy a halászok messziről, a tengerről is felismerjék saját otthonukat. 2022-ben Procida volt Olaszország Kulturális Fővárosa, ami ráirányította a figyelmet gazdag történelmére. A sziget legmagasabb pontján fekszik Terra Murata, a fallal körülvett óváros, ahol a Palazzo d'Avalos (egykori börtön) és a Szent Mihály apátság található. A mindössze 4 négyzetkilométeres sziget gyalog is könnyen bejárható. Olyan filmeknek szolgált hátteréül, mint a 'Neruda postása' vagy 'A tehetséges Mr. Ripley'. Különlegessége a 'limone pane', egy hatalmas, édes citromfajta, amelyet héjastul is fogyasztanak.", "ro": "Procida este cea mai autentică dintre cele trei insule din Golful Napoli. În timp ce Capri este sinonimă cu luxul și Ischia cu relaxarea termală, Procida și-a păstrat farmecul de insulă pescărească. Imaginea emblematică a insulei este Marina Corricella, un amfiteatru de case în culori pastelate stivuite una peste alta. Această arhitectură permitea pescarilor să își recunoască locuințele de la distanță, de pe mare. Procida a fost Capitala Culturală a Italiei în 2022, subliniind bogăția sa istorică. În cel mai înalt punct al insulei, Terra Murata, se află nucleul istoric cu Palazzo d'Avalos, o fostă închisoare, și Abadia San Michele Arcangelo. Insula este atât de mică încât poate fi explorată aproape integral pe jos. Procida a servit ca decor pentru filme celebre precum „Il Postino” și „Talentatul domn Ripley”. O specialitate locală sunt lămâile mari și dulci de Procida, folosite chiar și în salate proaspete.", "en": "Procida is the most authentic of the three islands in the Gulf of Naples. While Capri is known for luxury and Ischia for wellness, Procida has preserved its charm as a fishing island. The island's most famous image is Marina Corricella, an amphitheater of pastel-colored houses stacked atop one another. Legend has it that the houses were painted different colors so fishermen could recognize their homes from far out at sea. Procida was Italy's Capital of Culture in 2022, highlighting the cultural significance of this small island. In the highest part of the island, Terra Murata, lies the historic core with Palazzo d'Avalos, a former prison, and the Abbey of San Michele Arcangelo. The island is so small that it can be explored almost entirely on foot. Procida gained fame as a filming location for classics like 'The Postman' (Il Postino) and 'The Talented Mr. Ripley.' Local specialties include large, sweet Procida lemons, which are even used in salads."}, "factsAdvanced": {"de": ["Fläche von nur 4,1 km²", "Marina Corricella aus dem 17. Jh.", "Terra Murata liegt 91 m hoch", "Abtei San Michele aus dem 11. Jh.", "Über eine Brücke mit Vivara verbunden", "Italiens Kulturhauptstadt 2022"], "hu": ["Területe mindössze 4,1 km²", "Marina Corricella a 17. századi", "Terra Murata 91 méter magasan van", "A San Michele apátság 11. századi", "Híd köti össze Vivara szigetével", "Olaszország kulturális fővárosa 2022"], "ro": ["Suprafață de doar 4,1 km²", "Marina Corricella datează din sec. XVII", "Terra Murata se află la 91 m înălțime", "Abadia San Michele din secolul al XI-lea", "Conectată prin pod de insula Vivara", "Capitala Culturii în Italia în 2022"], "en": ["Area of only 4.1 sq km", "Marina Corricella dates to 17th century", "Terra Murata stands 91m high", "San Michele Abbey from 11th century", "Connected by bridge to Vivara island", "Italy's Capital of Culture in 2022"]}, "sights": {
       "de": [
             {
@@ -32449,6 +37735,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.008305,
                         40.762401
+                  ]
+            },
+            {
+                  "name": "Ciracciello",
+                  "text": "Ein langer Strandabschnitt auf der italienischen Insel Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.004892,
+                        40.751206
+                  ]
+            },
+            {
+                  "name": "Ciraccio",
+                  "text": "Ein für seinen dunklen Sand bekannter Strand auf Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.008665,
+                        40.757295
                   ]
             }
       ],
@@ -32596,6 +37900,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.008305,
                         40.762401
                   ]
+            },
+            {
+                  "name": "Ciracciello",
+                  "text": "Hosszú strandszakasz az olaszországi Procida szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.004892,
+                        40.751206
+                  ]
+            },
+            {
+                  "name": "Ciraccio",
+                  "text": "Sötét homokjáról ismert strand Procidán.",
+                  "category": "recreational",
+                  "coords": [
+                        14.008665,
+                        40.757295
+                  ]
             }
       ],
       "ro": [
@@ -32742,6 +38064,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.008305,
                         40.762401
                   ]
+            },
+            {
+                  "name": "Ciracciello",
+                  "text": "O secțiune lungă de plajă pe insula italiană Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.004892,
+                        40.751206
+                  ]
+            },
+            {
+                  "name": "Ciraccio",
+                  "text": "O plajă cunoscută pentru nisipul său închis la culoare în Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.008665,
+                        40.757295
+                  ]
             }
       ],
       "en": [
@@ -32887,6 +38227,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.008305,
                         40.762401
+                  ]
+            },
+            {
+                  "name": "Ciracciello",
+                  "text": "A long beach stretch on the Italian island of Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.004892,
+                        40.751206
+                  ]
+            },
+            {
+                  "name": "Ciraccio",
+                  "text": "A beach on Procida known for its dark volcanic sand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.008665,
+                        40.757295
                   ]
             }
       ]
@@ -33884,6 +39242,96 @@ export const poiExtraItalyV2: POI[] = [
                         12.587547,
                         44.062937
                   ]
+            },
+            {
+                  "name": "Bagno 89 Lele",
+                  "text": "Bagno 89 Lele ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60295,
+                        44.048524
+                  ]
+            },
+            {
+                  "name": "Bagno 18 Attilio",
+                  "text": "Bagno 18 Attilio ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.580041,
+                        44.070741
+                  ]
+            },
+            {
+                  "name": "Bagno 9 Mauro",
+                  "text": "Bagno 9 Mauro ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.578528,
+                        44.073104
+                  ]
+            },
+            {
+                  "name": "Bagno 8 Luciano",
+                  "text": "Bagno 8 Luciano ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57738,
+                        44.073833
+                  ]
+            },
+            {
+                  "name": "Bagno 5 Prime Spiagge",
+                  "text": "Bagno 5 Prime Spiagge ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.576748,
+                        44.074816
+                  ]
+            },
+            {
+                  "name": "Bagno 98",
+                  "text": "Bagno 98 ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.606912,
+                        44.045358
+                  ]
+            },
+            {
+                  "name": "Bagno 58 Le Spiagge",
+                  "text": "Bagno 58 Le Spiagge ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.591425,
+                        44.059483
+                  ]
+            },
+            {
+                  "name": "Bagno 55 Le Spiagge",
+                  "text": "Bagno 55 Le Spiagge ist ein gut ausgestattetes Strandbad in Rimini, das verschiedene Dienstleistungen für einen angenehmen Tag am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.590493,
+                        44.060054
+                  ]
+            },
+            {
+                  "name": "Bagno 62 Le Spiagge",
+                  "text": "Ein komfortables Strandbad an der lebhaften Küste von Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592096,
+                        44.058525
+                  ]
+            },
+            {
+                  "name": "Bagno 26 Tiki",
+                  "text": "Ein modernes Strandbad in Rimini, bekannt für seine Tiki-Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581857,
+                        44.068614
+                  ]
             }
       ],
       "hu": [
@@ -34283,6 +39731,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.587547,
                         44.062937
+                  ]
+            },
+            {
+                  "name": "Bagno 89 Lele",
+                  "text": "A Bagno 89 Lele egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60295,
+                        44.048524
+                  ]
+            },
+            {
+                  "name": "Bagno 18 Attilio",
+                  "text": "A Bagno 18 Attilio egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.580041,
+                        44.070741
+                  ]
+            },
+            {
+                  "name": "Bagno 9 Mauro",
+                  "text": "A Bagno 9 Mauro egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.578528,
+                        44.073104
+                  ]
+            },
+            {
+                  "name": "Bagno 8 Luciano",
+                  "text": "A Bagno 8 Luciano egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57738,
+                        44.073833
+                  ]
+            },
+            {
+                  "name": "Bagno 5 Prime Spiagge",
+                  "text": "A Bagno 5 Prime Spiagge egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.576748,
+                        44.074816
+                  ]
+            },
+            {
+                  "name": "Bagno 98",
+                  "text": "A Bagno 98 egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.606912,
+                        44.045358
+                  ]
+            },
+            {
+                  "name": "Bagno 58 Le Spiagge",
+                  "text": "A Bagno 58 Le Spiagge egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.591425,
+                        44.059483
+                  ]
+            },
+            {
+                  "name": "Bagno 55 Le Spiagge",
+                  "text": "A Bagno 55 Le Spiagge egy jól felszerelt strandfürdő Rimini városában, amely különféle szolgáltatásokat kínál egy kellemes tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.590493,
+                        44.060054
+                  ]
+            },
+            {
+                  "name": "Bagno 62 Le Spiagge",
+                  "text": "Kényelmes strandkomplexum Rimini pezsgő tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592096,
+                        44.058525
+                  ]
+            },
+            {
+                  "name": "Bagno 26 Tiki",
+                  "text": "Modern strandkomplexum Riminiben, Tiki-stílusú hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581857,
+                        44.068614
                   ]
             }
       ],
@@ -34684,6 +40222,96 @@ export const poiExtraItalyV2: POI[] = [
                         12.587547,
                         44.062937
                   ]
+            },
+            {
+                  "name": "Bagno 89 Lele",
+                  "text": "Bagno 89 Lele este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60295,
+                        44.048524
+                  ]
+            },
+            {
+                  "name": "Bagno 18 Attilio",
+                  "text": "Bagno 18 Attilio este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.580041,
+                        44.070741
+                  ]
+            },
+            {
+                  "name": "Bagno 9 Mauro",
+                  "text": "Bagno 9 Mauro este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.578528,
+                        44.073104
+                  ]
+            },
+            {
+                  "name": "Bagno 8 Luciano",
+                  "text": "Bagno 8 Luciano este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57738,
+                        44.073833
+                  ]
+            },
+            {
+                  "name": "Bagno 5 Prime Spiagge",
+                  "text": "Bagno 5 Prime Spiagge este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.576748,
+                        44.074816
+                  ]
+            },
+            {
+                  "name": "Bagno 98",
+                  "text": "Bagno 98 este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.606912,
+                        44.045358
+                  ]
+            },
+            {
+                  "name": "Bagno 58 Le Spiagge",
+                  "text": "Bagno 58 Le Spiagge este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.591425,
+                        44.059483
+                  ]
+            },
+            {
+                  "name": "Bagno 55 Le Spiagge",
+                  "text": "Bagno 55 Le Spiagge este o stațiune de plajă bine echipată din Rimini, care oferă diverse servicii pentru o zi plăcută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.590493,
+                        44.060054
+                  ]
+            },
+            {
+                  "name": "Bagno 62 Le Spiagge",
+                  "text": "O stațiune balneară confortabilă pe coasta plină de viață a orașului Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592096,
+                        44.058525
+                  ]
+            },
+            {
+                  "name": "Bagno 26 Tiki",
+                  "text": "O stațiune de plajă modernă în Rimini, cunoscută pentru atmosfera sa Tiki.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581857,
+                        44.068614
+                  ]
             }
       ],
       "en": [
@@ -35083,6 +40711,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.587547,
                         44.062937
+                  ]
+            },
+            {
+                  "name": "Bagno 89 Lele",
+                  "text": "Bagno 89 Lele is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60295,
+                        44.048524
+                  ]
+            },
+            {
+                  "name": "Bagno 18 Attilio",
+                  "text": "Bagno 18 Attilio is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.580041,
+                        44.070741
+                  ]
+            },
+            {
+                  "name": "Bagno 9 Mauro",
+                  "text": "Bagno 9 Mauro is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.578528,
+                        44.073104
+                  ]
+            },
+            {
+                  "name": "Bagno 8 Luciano",
+                  "text": "Bagno 8 Luciano is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57738,
+                        44.073833
+                  ]
+            },
+            {
+                  "name": "Bagno 5 Prime Spiagge",
+                  "text": "Bagno 5 Prime Spiagge is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.576748,
+                        44.074816
+                  ]
+            },
+            {
+                  "name": "Bagno 98",
+                  "text": "Bagno 98 is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.606912,
+                        44.045358
+                  ]
+            },
+            {
+                  "name": "Bagno 58 Le Spiagge",
+                  "text": "Bagno 58 Le Spiagge is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.591425,
+                        44.059483
+                  ]
+            },
+            {
+                  "name": "Bagno 55 Le Spiagge",
+                  "text": "Bagno 55 Le Spiagge is a well-equipped beach resort in Rimini, offering various services for a pleasant day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.590493,
+                        44.060054
+                  ]
+            },
+            {
+                  "name": "Bagno 62 Le Spiagge",
+                  "text": "A comfortable beach resort on the lively coast of Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592096,
+                        44.058525
+                  ]
+            },
+            {
+                  "name": "Bagno 26 Tiki",
+                  "text": "A modern beach resort in Rimini, known for its Tiki-themed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581857,
+                        44.068614
                   ]
             }
       ]
@@ -35737,7 +41455,784 @@ export const poiExtraItalyV2: POI[] = [
             }
       ]
 }},
-  {"id": "santa-margherita-ligure", "type": "city", "parent": "IT-42", "coords": [9.2106, 44.3358], "population": 9000, "tier": 2, "name": {"de": "Santa Margherita Ligure", "hu": "Santa Margherita Ligure", "ro": "Santa Margherita Ligure", "en": "Santa Margherita Ligure"}, "description": {"de": "Eine elegante Hafenstadt am Tigullio-Golf, die den Glanz der Belle Époque mit mediterraner Leichtigkeit und luxuriösen Villen verbindet.", "hu": "Elegáns kikötőváros a Tigullio-öbölben, amely a Belle Époque csillogását ötvözi a mediterrán könnyedséggel és a luxusvillák pompájával.", "ro": "Un oraș portuar elegant în Golful Tigullio, care îmbină strălucirea perioadei Belle Époque cu relaxarea mediteraneană și vilele luxoase.", "en": "An elegant port town on the Tigullio Gulf, blending Belle Époque glamour with Mediterranean ease and luxurious villas."}, "facts": {"de": ["Im Herzen des Tigullio-Golfs", "Elegante Palmenpromenade", "Villa Durazzo aus dem 17. Jh.", "Prächtige Barockbasilika", "Yachthafen für Luxusschiffe", "Historische Korallenindustrie", "Nahe dem mondänen Portofino", "Klassische Liberty-Architektur"], "hu": ["A Tigullio-öböl szívében fekszik", "Elegáns pálmafás sétány", "17. századi Villa Durazzo", "Pompás barokk bazilika", "Luxusjachtok kikötője", "Történelmi korallhalászat", "Közel a felkapott Portofinóhoz", "Klasszikus Liberty-stílusú épületek"], "ro": ["În inima Golfului Tigullio", "Promenadă elegantă cu palmieri", "Villa Durazzo din secolul XVII", "Bazilică barocă somptuoasă", "Port pentru iahturi de lux", "Industrie istorică a coralului", "Aproape de exclusivistul Portofino", "Arhitectură clasică în stil Liberty"], "en": ["In the heart of the Tigullio Gulf", "Elegant palm-lined promenade", "17th-century Villa Durazzo", "Magnificent Baroque basilica", "Marina for luxury yachts", "Historical coral fishing hub", "Near the fashionable Portofino", "Classic Liberty-style architecture"]}, "image": "/poi-images/santa-margherita-ligure.webp", "imageHint": "Harbor view of Santa Margherita Ligure with yachts and historic buildings", "descriptionAdvanced": {"de": "Santa Margherita Ligure, oft liebevoll 'Santa' genannt, ist die elegante Dame der italienischen Riviera. Die Stadt erlebte ihre Blütezeit im späten 19. Jahrhundert, was sich heute noch in den prächtigen Fassaden der Hotels und Wohnhäuser im Liberty-Stil widerspiegelt. Ein kultureller Höhepunkt ist die Villa Durazzo-Centurione, ein prächtiger Palast aus dem 17. Jahrhundert, der inmitten eines botanischen Gartens mit exotischen Pflanzen und Statuen über der Bucht thront. Die barocke Basilika Santa Margherita d'Antiochia besticht durch ihr prunkvolles Inneres, das reich mit Gold und Stuck verziert ist. Entlang der lebhaften Uferpromenade mischen sich Fischerboote mit luxuriösen Yachten, was der Stadt eine charmante Mischung aus bodenständiger Tradition und exklusivem Lifestyle verleiht. Ein besonderes Erlebnis ist der 'Rote Teppich' – ein markierter Wanderweg, der direkt an der Küste entlang ins benachbarte Portofino führt.", "hu": "Santa Margherita Ligure, amelyet a helyiek gyakran csak 'Santa' néven emlegetnek, az olasz riviéra elegáns úrhölgye. A város a 19. század végén élte fénykorát, ami ma is visszaköszön a Liberty-stílusú szállodák és lakóházak pompás homlokzatain. Kulturális fénypontja a Villa Durazzo-Centurione, egy 17. századi hercegi palota, amely egy egzotikus növényekkel és szobrokkal teli botanikus kert közepén magasodik az öböl felett. Az Antiochiai Szent Margit-bazilika belső tere lenyűgöző, arannyal és stukkókkal gazdagon díszített barokk remekmű. A nyüzsgő tengerparti sétányon a hagyományos halászhajók jól megférnek a luxusjachtokkal, ami sajátos keverékét adja a helyi tradíciónak és az exkluzív életmódnak. Különleges élmény a 'Vörös Szőnyeg' sétány, amely a part mentén közvetlenül a szomszédos, világhírű Portofino városába vezet.", "ro": "Santa Margherita Ligure, numită adesea cu afecțiune 'Santa', este doamna elegantă a Rivierei Italiene. Orașul și-a trăit perioada de glorie la sfârșitul secolului al XIX-lea, lucru care se reflectă și astăzi în fațadele somptuoase ale hotelurilor și clădirilor în stil Liberty. Un punct de atracție culturală este Villa Durazzo-Centurione, un palat splendid din secolul al XVII-lea, situat în mijlocul unei grădini botanice cu plante exotice și statui deasupra golfului. Bazilica barocă Santa Margherita d'Antiochia impresionează prin interiorul său fastuos, bogat decorat cu aur și stucaturi. De-a lungul promenadei pline de viață, bărcile de pescuit se amestecă cu iahturile de lux, oferind orașului un mix fermecător de tradiție și stil de viață exclusivist. O experiență deosebită este 'Covorul Roșu' – o potecă marcată care duce direct de-a lungul coastei către satul vecin Portofino.", "en": "Santa Margherita Ligure, often affectionately called 'Santa' by locals, is the elegant lady of the Italian Riviera. The town flourished in the late 19th century, which is still evident in the magnificent Liberty-style facades of its hotels and residences. A cultural highlight is Villa Durazzo-Centurione, a 17th-century palace perched above the bay in a lush botanical garden filled with exotic plants and statues. The Baroque Basilica of Santa Margherita d'Antiochia dazzles visitors with its opulent interior, richly decorated with gold and intricate stucco work. Along the lively waterfront promenade, traditional fishing boats mingle with luxury yachts, giving the town a unique blend of authentic heritage and exclusive lifestyle. A special attraction is the 'Red Carpet' – a literal painted path that serves as a coastal walkway leading directly to the neighboring world-famous Portofino."}, "factsAdvanced": {"de": ["Villa Durazzo wurde 1678 erbaut", "Besitzt eine Burg aus dem Jahr 1550", "Wurde 1813 von Napoleon besucht", "Berühmt für die 'Gambero Rosso' Garnelen", "Etwa 5 km vom Zentrum von Portofino", "Heimat des internationalen Segelcups"], "hu": ["A Villa Durazzo 1678-ban épült", "1550-ből származó vára van", "Napóleon 1813-ban látogatta meg a várost", "Híres a 'Gambero Rosso' vörös rákról", "Kb. 5 km-re fekszik Portofino központjától", "Nemzetközi vitorlásversenyek házigazdája"], "ro": ["Villa Durazzo a fost construită în 1678", "Deține un castel din anul 1550", "Vizitat de Napoleon în anul 1813", "Renumit pentru creveții 'Gambero Rosso'", "La cca. 5 km de centrul orașului Portofino", "Gazda unor cupe internaționale de navigație"], "en": ["Villa Durazzo was built in 1678", "Features a castle dating back to 1550", "Napoleon Bonaparte visited the town in 1813", "Famous for the local 'Gambero Rosso' shrimp", "About 5 km from the center of Portofino", "Host to international sailing regattas"]}, "sights": {"de": [{"name": "Villa Durazzo", "text": "Ein prächtiger Komplex aus dem 17. Jahrhundert mit einem wunderschönen botanischen Park und Museen.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp", "coords": [9.212383, 44.332461]}, {"name": "Castello di Santa Margherita Ligure", "text": "Eine kleine Festung am Meer, die im 16. Jahrhundert zur Verteidigung gegen Piraten erbaut wurde.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp", "coords": [9.213973, 44.332429]}, {"name": "Kirche San Giacomo di Corte", "text": "Diese Kirche bietet einen erhöhten Blick auf die Stadt und beherbergt wertvolle Fresken.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp", "coords": [9.211377, 44.331919]}, {"name": "Hafen von Santa Margherita", "text": "Ein eleganter Yachthafen, an dem Fischerboote und Luxusjachten nebeneinander liegen.", "category": "port", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp", "coords": [9.213968, 44.332446]}, {"name": "Abtei La Cervara", "text": "Ein ehemaliges Kloster mit einem preisgekrönten italienischen Garten direkt über dem Meer.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp", "coords": [9.213007, 44.313561]}, {"name": "Parco del Flauto Magico", "text": "Ein fantasievoller Kinderpark, der dem Thema der Zauberflöte von Mozart gewidmet ist.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp", "coords": [9.210974, 44.336599]}, {"name": "Spiaggia Regina Elena", "text": "In Santa Margherita Ligure gelegen, präsentiert die Spiaggia Regina Elena einen schönen Ort für die Erholung am Meer. Der Strand bietet eine elegante Kulisse für einen Tag, der dem Schwimmen, Sonnenbaden oder Lesen am Wasser gewidmet ist. Mit einer kultivierten lokalen Atmosphäre zieht er Besucher an, die einen anspruchsvollen, aber entspannenden Tag verbringen möchten. Der späte Nachmittag ist eine besonders schöne Zeit, um von hier aus die Aussicht auf die Küste zu genießen.", "category": "recreational", "coords": [9.216081, 44.325633]}, {"name": "Spiaggia di Travello", "text": "Die Spiaggia di Travello bildet einen reizvollen Küstenabschnitt in der Stadt Santa Margherita Ligure. Es ist ein beliebter Ort, um das ruhige Wasser und den warmen Sonnenschein der italienischen Riviera zu genießen. Das Ambiente ist angenehm und bietet oft eine Mischung aus Familien und Alleinreisenden, die die Umgebung auf sich wirken lassen. Ein gutes Buch und einige kalte Getränke mitzubringen, rundet einen perfekten Nachmittag am Meer ab.", "category": "recreational", "coords": [9.224891, 44.33901]}, {"name": "Parco Emilio De Martino", "text": "Ein öffentlicher Spielplatz in Santa Margherita Ligure für Familien.", "category": "family", "coords": [9.227242, 44.351324]}], "hu": [{"name": "Villa Durazzo", "text": "17. századi pompás épületegyüttes gyönyörű botanikus kerttel és művészeti múzeumokkal.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp", "coords": [9.212383, 44.332461]}, {"name": "Santa Margherita Ligure vára", "text": "Kisméretű tengerparti erőd, amelyet a 16. században építettek a kalózok elleni védelemre.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp", "coords": [9.213973, 44.332429]}, {"name": "San Giacomo di Corte templom", "text": "A templom dombtetőn áll, kiváló kilátást nyújtva a városra és értékes freskókat őrizve.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp", "coords": [9.211377, 44.331919]}, {"name": "Santa Margherita kikötője", "text": "Elegáns jachtkikötő, ahol a hagyományos halászhajók és a luxusjachtok jól megférnek egymás mellett.", "category": "port", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp", "coords": [9.213968, 44.332446]}, {"name": "La Cervara apátság", "text": "Egykori kolostor díjnyertes olasz kerttel, amely közvetlenül a tenger felett terül el.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp", "coords": [9.213007, 44.313561]}, {"name": "Parco del Flauto Magico", "text": "Ötletes gyermekpark, amelyet Mozart Varázsfuvola című operájának témája ihletett.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp", "coords": [9.210974, 44.336599]}, {"name": "Spiaggia Regina Elena", "text": "A Santa Margherita Ligure városában található Spiaggia Regina Elena kedves helyszínt nyújt a tengerparti kikapcsolódáshoz. A strand elegáns hátteret biztosít egy úszással, napozással vagy a víz melletti olvasással töltött naphoz. Kifinomult helyi hangulatával vonzza azokat a látogatókat, akik egy ízléses, ugyanakkor pihentető napra vágynak. A késő délután különösen gyönyörű időszak arra, hogy innen élvezzük a tengerparti kilátást.", "category": "recreational", "coords": [9.216081, 44.325633]}, {"name": "Spiaggia di Travello", "text": "A Spiaggia di Travello egy elragadó partszakaszt képez Santa Margherita Ligure városán belül. Kedvelt hely az olasz Riviéra nyugodt vizeinek és meleg napsütésének élvezetére. A hangulat kellemes, és gyakran családok, valamint egyedülálló utazók vegyesen élvezik a környezetet. Egy jó könyv és némi hideg ital hozatala teszi teljessé a tökéletes tengerparti délutánt.", "category": "recreational", "coords": [9.224891, 44.33901]}, {"name": "Parco Emilio De Martino", "text": "Nyilvános játszótér Santa Margherita Ligure városában családoknak.", "category": "family", "coords": [9.227242, 44.351324]}], "ro": [{"name": "Villa Durazzo", "text": "Un complex splendid din secolul al XVII-lea, cu un parc botanic superb și muzee de artă.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp", "coords": [9.212383, 44.332461]}, {"name": "Castello di Santa Margherita Ligure", "text": "O mică fortăreață la malul mării, construită în secolul al XVI-lea pentru apărarea împotriva piraților.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp", "coords": [9.213973, 44.332429]}, {"name": "Biserica San Giacomo di Corte", "text": "Această biserică oferă o vedere panoramică asupra orașului și adăpostește fresce valoroase.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp", "coords": [9.211377, 44.331919]}, {"name": "Portul Santa Margherita", "text": "Un port de iahturi elegant, unde bărcile de pescuit și ambarcațiunile de lux stau alături.", "category": "port", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp", "coords": [9.213968, 44.332446]}, {"name": "Abatia La Cervara", "text": "O fostă mănăstire cu o grădină italiană premiată, situată spectaculos deasupra mării.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp", "coords": [9.213007, 44.313561]}, {"name": "Parco del Flauto Magico", "text": "Un parc imaginativ pentru copii, dedicat temei operei Flautul fermecat de Mozart.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp", "coords": [9.210974, 44.336599]}, {"name": "Spiaggia Regina Elena", "text": "Situată în Santa Margherita Ligure, Spiaggia Regina Elena prezintă un loc minunat pentru recreere la malul mării. Plaja oferă un fundal elegant pentru o zi dedicată înotului, plajei sau lecturii lângă apă. Cu o atmosferă locală rafinată, atrage vizitatorii care caută o zi sofisticată, dar relaxantă. Sfârșitul după-amiezii este un moment deosebit de frumos pentru a vă bucura de priveliștile de coastă de aici.", "category": "recreational", "coords": [9.216081, 44.325633]}, {"name": "Spiaggia di Travello", "text": "Spiaggia di Travello formează o secțiune de coastă încântătoare în orașul Santa Margherita Ligure. Este o locație favorizată pentru a vă bucura de apele calme și de soarele cald al Rivierei Italiene. Ambianta este plăcută și prezintă adesea un mix de familii și călători singuri care absorb cadrul. Aducerea unei cărți bune și a unor băuturi reci va completa o după-amiază perfectă la malul mării.", "category": "recreational", "coords": [9.224891, 44.33901]}, {"name": "Parco Emilio De Martino", "text": "Un teren de joacă public în Santa Margherita Ligure pentru familii.", "category": "family", "coords": [9.227242, 44.351324]}], "en": [{"name": "Villa Durazzo", "text": "A splendid 17th-century complex featuring a beautiful botanical park and art museums.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp", "coords": [9.212383, 44.332461]}, {"name": "Castle of Santa Margherita Ligure", "text": "A small seaside fortress built in the 16th century for defense against pirate attacks.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp", "coords": [9.213973, 44.332429]}, {"name": "Church of San Giacomo di Corte", "text": "This church offers elevated views of the town and houses significant historical frescoes.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp", "coords": [9.211377, 44.331919]}, {"name": "Santa Margherita Harbor", "text": "An elegant marina where traditional fishing boats and luxury yachts share the waterfront.", "category": "port", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp", "coords": [9.213968, 44.332446]}, {"name": "Abbey of La Cervara", "text": "A former monastery with an award-winning Italian garden perched directly above the sea.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp", "coords": [9.213007, 44.313561]}, {"name": "Magic Flute Park", "text": "An imaginative children's park dedicated to the theme of Mozart's Magic Flute opera.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp", "coords": [9.210974, 44.336599]}, {"name": "Spiaggia Regina Elena", "text": "Situated in Santa Margherita Ligure, Spiaggia Regina Elena presents a lovely spot for seaside recreation. The beach provides an elegant backdrop for a day dedicated to swimming, sunbathing, or reading by the water. With a refined local atmosphere, it attracts visitors looking for a sophisticated yet relaxing day out. Late afternoon is a particularly beautiful time to enjoy the coastal views from here.", "category": "recreational", "coords": [9.216081, 44.325633]}, {"name": "Spiaggia di Travello", "text": "Spiaggia di Travello forms a delightful coastal section within the town of Santa Margherita Ligure. It is a favored location for enjoying the calm waters and the warm sunshine of the Italian Riviera. The ambiance is pleasant and often features a mix of families and solo travelers soaking up the setting. Bringing a good book and some cold drinks will complete a perfect seaside afternoon.", "category": "recreational", "coords": [9.224891, 44.33901]}, {"name": "Parco Emilio De Martino", "text": "A public playground in Santa Margherita Ligure for families.", "category": "family", "coords": [9.227242, 44.351324]}]}},
+  {"id": "santa-margherita-ligure", "type": "city", "parent": "IT-42", "coords": [9.2106, 44.3358], "population": 9000, "tier": 2, "name": {"de": "Santa Margherita Ligure", "hu": "Santa Margherita Ligure", "ro": "Santa Margherita Ligure", "en": "Santa Margherita Ligure"}, "description": {"de": "Eine elegante Hafenstadt am Tigullio-Golf, die den Glanz der Belle Époque mit mediterraner Leichtigkeit und luxuriösen Villen verbindet.", "hu": "Elegáns kikötőváros a Tigullio-öbölben, amely a Belle Époque csillogását ötvözi a mediterrán könnyedséggel és a luxusvillák pompájával.", "ro": "Un oraș portuar elegant în Golful Tigullio, care îmbină strălucirea perioadei Belle Époque cu relaxarea mediteraneană și vilele luxoase.", "en": "An elegant port town on the Tigullio Gulf, blending Belle Époque glamour with Mediterranean ease and luxurious villas."}, "facts": {"de": ["Im Herzen des Tigullio-Golfs", "Elegante Palmenpromenade", "Villa Durazzo aus dem 17. Jh.", "Prächtige Barockbasilika", "Yachthafen für Luxusschiffe", "Historische Korallenindustrie", "Nahe dem mondänen Portofino", "Klassische Liberty-Architektur"], "hu": ["A Tigullio-öböl szívében fekszik", "Elegáns pálmafás sétány", "17. századi Villa Durazzo", "Pompás barokk bazilika", "Luxusjachtok kikötője", "Történelmi korallhalászat", "Közel a felkapott Portofinóhoz", "Klasszikus Liberty-stílusú épületek"], "ro": ["În inima Golfului Tigullio", "Promenadă elegantă cu palmieri", "Villa Durazzo din secolul XVII", "Bazilică barocă somptuoasă", "Port pentru iahturi de lux", "Industrie istorică a coralului", "Aproape de exclusivistul Portofino", "Arhitectură clasică în stil Liberty"], "en": ["In the heart of the Tigullio Gulf", "Elegant palm-lined promenade", "17th-century Villa Durazzo", "Magnificent Baroque basilica", "Marina for luxury yachts", "Historical coral fishing hub", "Near the fashionable Portofino", "Classic Liberty-style architecture"]}, "image": "/poi-images/santa-margherita-ligure.webp", "imageHint": "Harbor view of Santa Margherita Ligure with yachts and historic buildings", "descriptionAdvanced": {"de": "Santa Margherita Ligure, oft liebevoll 'Santa' genannt, ist die elegante Dame der italienischen Riviera. Die Stadt erlebte ihre Blütezeit im späten 19. Jahrhundert, was sich heute noch in den prächtigen Fassaden der Hotels und Wohnhäuser im Liberty-Stil widerspiegelt. Ein kultureller Höhepunkt ist die Villa Durazzo-Centurione, ein prächtiger Palast aus dem 17. Jahrhundert, der inmitten eines botanischen Gartens mit exotischen Pflanzen und Statuen über der Bucht thront. Die barocke Basilika Santa Margherita d'Antiochia besticht durch ihr prunkvolles Inneres, das reich mit Gold und Stuck verziert ist. Entlang der lebhaften Uferpromenade mischen sich Fischerboote mit luxuriösen Yachten, was der Stadt eine charmante Mischung aus bodenständiger Tradition und exklusivem Lifestyle verleiht. Ein besonderes Erlebnis ist der 'Rote Teppich' – ein markierter Wanderweg, der direkt an der Küste entlang ins benachbarte Portofino führt.", "hu": "Santa Margherita Ligure, amelyet a helyiek gyakran csak 'Santa' néven emlegetnek, az olasz riviéra elegáns úrhölgye. A város a 19. század végén élte fénykorát, ami ma is visszaköszön a Liberty-stílusú szállodák és lakóházak pompás homlokzatain. Kulturális fénypontja a Villa Durazzo-Centurione, egy 17. századi hercegi palota, amely egy egzotikus növényekkel és szobrokkal teli botanikus kert közepén magasodik az öböl felett. Az Antiochiai Szent Margit-bazilika belső tere lenyűgöző, arannyal és stukkókkal gazdagon díszített barokk remekmű. A nyüzsgő tengerparti sétányon a hagyományos halászhajók jól megférnek a luxusjachtokkal, ami sajátos keverékét adja a helyi tradíciónak és az exkluzív életmódnak. Különleges élmény a 'Vörös Szőnyeg' sétány, amely a part mentén közvetlenül a szomszédos, világhírű Portofino városába vezet.", "ro": "Santa Margherita Ligure, numită adesea cu afecțiune 'Santa', este doamna elegantă a Rivierei Italiene. Orașul și-a trăit perioada de glorie la sfârșitul secolului al XIX-lea, lucru care se reflectă și astăzi în fațadele somptuoase ale hotelurilor și clădirilor în stil Liberty. Un punct de atracție culturală este Villa Durazzo-Centurione, un palat splendid din secolul al XVII-lea, situat în mijlocul unei grădini botanice cu plante exotice și statui deasupra golfului. Bazilica barocă Santa Margherita d'Antiochia impresionează prin interiorul său fastuos, bogat decorat cu aur și stucaturi. De-a lungul promenadei pline de viață, bărcile de pescuit se amestecă cu iahturile de lux, oferind orașului un mix fermecător de tradiție și stil de viață exclusivist. O experiență deosebită este 'Covorul Roșu' – o potecă marcată care duce direct de-a lungul coastei către satul vecin Portofino.", "en": "Santa Margherita Ligure, often affectionately called 'Santa' by locals, is the elegant lady of the Italian Riviera. The town flourished in the late 19th century, which is still evident in the magnificent Liberty-style facades of its hotels and residences. A cultural highlight is Villa Durazzo-Centurione, a 17th-century palace perched above the bay in a lush botanical garden filled with exotic plants and statues. The Baroque Basilica of Santa Margherita d'Antiochia dazzles visitors with its opulent interior, richly decorated with gold and intricate stucco work. Along the lively waterfront promenade, traditional fishing boats mingle with luxury yachts, giving the town a unique blend of authentic heritage and exclusive lifestyle. A special attraction is the 'Red Carpet' – a literal painted path that serves as a coastal walkway leading directly to the neighboring world-famous Portofino."}, "factsAdvanced": {"de": ["Villa Durazzo wurde 1678 erbaut", "Besitzt eine Burg aus dem Jahr 1550", "Wurde 1813 von Napoleon besucht", "Berühmt für die 'Gambero Rosso' Garnelen", "Etwa 5 km vom Zentrum von Portofino", "Heimat des internationalen Segelcups"], "hu": ["A Villa Durazzo 1678-ban épült", "1550-ből származó vára van", "Napóleon 1813-ban látogatta meg a várost", "Híres a 'Gambero Rosso' vörös rákról", "Kb. 5 km-re fekszik Portofino központjától", "Nemzetközi vitorlásversenyek házigazdája"], "ro": ["Villa Durazzo a fost construită în 1678", "Deține un castel din anul 1550", "Vizitat de Napoleon în anul 1813", "Renumit pentru creveții 'Gambero Rosso'", "La cca. 5 km de centrul orașului Portofino", "Gazda unor cupe internaționale de navigație"], "en": ["Villa Durazzo was built in 1678", "Features a castle dating back to 1550", "Napoleon Bonaparte visited the town in 1813", "Famous for the local 'Gambero Rosso' shrimp", "About 5 km from the center of Portofino", "Host to international sailing regattas"]}, "sights": {
+      "de": [
+            {
+                  "name": "Villa Durazzo",
+                  "text": "Ein prächtiger Komplex aus dem 17. Jahrhundert mit einem wunderschönen botanischen Park und Museen.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp",
+                  "coords": [
+                        9.212383,
+                        44.332461
+                  ]
+            },
+            {
+                  "name": "Castello di Santa Margherita Ligure",
+                  "text": "Eine kleine Festung am Meer, die im 16. Jahrhundert zur Verteidigung gegen Piraten erbaut wurde.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp",
+                  "coords": [
+                        9.213973,
+                        44.332429
+                  ]
+            },
+            {
+                  "name": "Kirche San Giacomo di Corte",
+                  "text": "Diese Kirche bietet einen erhöhten Blick auf die Stadt und beherbergt wertvolle Fresken.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp",
+                  "coords": [
+                        9.211377,
+                        44.331919
+                  ]
+            },
+            {
+                  "name": "Hafen von Santa Margherita",
+                  "text": "Ein eleganter Yachthafen, an dem Fischerboote und Luxusjachten nebeneinander liegen.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp",
+                  "coords": [
+                        9.213968,
+                        44.332446
+                  ]
+            },
+            {
+                  "name": "Abtei La Cervara",
+                  "text": "Ein ehemaliges Kloster mit einem preisgekrönten italienischen Garten direkt über dem Meer.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp",
+                  "coords": [
+                        9.213007,
+                        44.313561
+                  ]
+            },
+            {
+                  "name": "Parco del Flauto Magico",
+                  "text": "Ein fantasievoller Kinderpark, der dem Thema der Zauberflöte von Mozart gewidmet ist.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp",
+                  "coords": [
+                        9.210974,
+                        44.336599
+                  ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "In Santa Margherita Ligure gelegen, präsentiert die Spiaggia Regina Elena einen schönen Ort für die Erholung am Meer. Der Strand bietet eine elegante Kulisse für einen Tag, der dem Schwimmen, Sonnenbaden oder Lesen am Wasser gewidmet ist. Mit einer kultivierten lokalen Atmosphäre zieht er Besucher an, die einen anspruchsvollen, aber entspannenden Tag verbringen möchten. Der späte Nachmittag ist eine besonders schöne Zeit, um von hier aus die Aussicht auf die Küste zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "Die Spiaggia di Travello bildet einen reizvollen Küstenabschnitt in der Stadt Santa Margherita Ligure. Es ist ein beliebter Ort, um das ruhige Wasser und den warmen Sonnenschein der italienischen Riviera zu genießen. Das Ambiente ist angenehm und bietet oft eine Mischung aus Familien und Alleinreisenden, die die Umgebung auf sich wirken lassen. Ein gutes Buch und einige kalte Getränke mitzubringen, rundet einen perfekten Nachmittag am Meer ab.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
+                  ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "Ein öffentlicher Spielplatz in Santa Margherita Ligure für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
+                  ]
+            },
+            {
+                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
+                  "text": "Ein exklusiver Strandclub in Santa Margherita Ligure mit direktem Meerzugang.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21521,
+                        44.328985
+                  ]
+            },
+            {
+                  "name": "Bau Bau Beach",
+                  "text": "Ein spezieller Strandabschnitt in Santa Margherita Ligure, der Hunden gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214418,
+                        44.321029
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Ein frei zugänglicher Strandabschnitt in der Gemeinde Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21286,
+                        44.320252
+                  ]
+            },
+            {
+                  "name": "Bagni Vicini",
+                  "text": "Ein komfortables Strandbad in der Bucht von Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214527,
+                        44.335138
+                  ]
+            },
+            {
+                  "name": "Pomaro",
+                  "text": "Ein ruhiger Strandabschnitt in der Nähe von Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224343,
+                        44.340593
+                  ]
+            },
+            {
+                  "name": "Prelo",
+                  "text": "Ein kleiner, charmanter Strand in der Bucht von Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223977,
+                        44.33716
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grand Hotel Miramare",
+                  "text": "Das private Strandbad des Grand Hotels Miramare in Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21568,
+                        44.327434
+                  ]
+            },
+            {
+                  "name": "Giò e Rino Beach",
+                  "text": "Ein beliebter kleiner Strandabschnitt an der Küste von Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216264,
+                        44.322869
+                  ]
+            },
+            {
+                  "name": "Bagni Bristol",
+                  "text": "Ein traditionelles Strandbad in Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.24006,
+                        44.344976
+                  ]
+            },
+            {
+                  "name": "Spiaggia Della Caletta Dei Pescatori",
+                  "text": "Ein kleiner, malerischer Strandbereich in Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.176279,
+                        44.315775
+                  ]
+            },
+            {
+                  "name": "Bagni San Fruttuoso",
+                  "text": "Ein Strandresort in der Bucht von San Fruttuoso bei Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.17484,
+                        44.316032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa Durazzo",
+                  "text": "17. századi pompás épületegyüttes gyönyörű botanikus kerttel és művészeti múzeumokkal.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp",
+                  "coords": [
+                        9.212383,
+                        44.332461
+                  ]
+            },
+            {
+                  "name": "Santa Margherita Ligure vára",
+                  "text": "Kisméretű tengerparti erőd, amelyet a 16. században építettek a kalózok elleni védelemre.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp",
+                  "coords": [
+                        9.213973,
+                        44.332429
+                  ]
+            },
+            {
+                  "name": "San Giacomo di Corte templom",
+                  "text": "A templom dombtetőn áll, kiváló kilátást nyújtva a városra és értékes freskókat őrizve.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp",
+                  "coords": [
+                        9.211377,
+                        44.331919
+                  ]
+            },
+            {
+                  "name": "Santa Margherita kikötője",
+                  "text": "Elegáns jachtkikötő, ahol a hagyományos halászhajók és a luxusjachtok jól megférnek egymás mellett.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp",
+                  "coords": [
+                        9.213968,
+                        44.332446
+                  ]
+            },
+            {
+                  "name": "La Cervara apátság",
+                  "text": "Egykori kolostor díjnyertes olasz kerttel, amely közvetlenül a tenger felett terül el.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp",
+                  "coords": [
+                        9.213007,
+                        44.313561
+                  ]
+            },
+            {
+                  "name": "Parco del Flauto Magico",
+                  "text": "Ötletes gyermekpark, amelyet Mozart Varázsfuvola című operájának témája ihletett.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp",
+                  "coords": [
+                        9.210974,
+                        44.336599
+                  ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "A Santa Margherita Ligure városában található Spiaggia Regina Elena kedves helyszínt nyújt a tengerparti kikapcsolódáshoz. A strand elegáns hátteret biztosít egy úszással, napozással vagy a víz melletti olvasással töltött naphoz. Kifinomult helyi hangulatával vonzza azokat a látogatókat, akik egy ízléses, ugyanakkor pihentető napra vágynak. A késő délután különösen gyönyörű időszak arra, hogy innen élvezzük a tengerparti kilátást.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "A Spiaggia di Travello egy elragadó partszakaszt képez Santa Margherita Ligure városán belül. Kedvelt hely az olasz Riviéra nyugodt vizeinek és meleg napsütésének élvezetére. A hangulat kellemes, és gyakran családok, valamint egyedülálló utazók vegyesen élvezik a környezetet. Egy jó könyv és némi hideg ital hozatala teszi teljessé a tökéletes tengerparti délutánt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
+                  ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "Nyilvános játszótér Santa Margherita Ligure városában családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
+                  ]
+            },
+            {
+                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
+                  "text": "Exkluzív strandklub Santa Margherita Ligure területén, közvetlen tengerparti kapcsolattal.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21521,
+                        44.328985
+                  ]
+            },
+            {
+                  "name": "Bau Bau Beach",
+                  "text": "Kutyáknak fenntartott strandrész Santa Margherita Ligure településen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214418,
+                        44.321029
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Szabadon látogatható strandrész Santa Margherita Ligure községben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21286,
+                        44.320252
+                  ]
+            },
+            {
+                  "name": "Bagni Vicini",
+                  "text": "Kényelmes strandközpont Santa Margherita Ligure öblében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214527,
+                        44.335138
+                  ]
+            },
+            {
+                  "name": "Pomaro",
+                  "text": "Csendes strandrész Santa Margherita Ligure közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224343,
+                        44.340593
+                  ]
+            },
+            {
+                  "name": "Prelo",
+                  "text": "Kicsi, bájos strand Santa Margherita Ligure öblében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223977,
+                        44.33716
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grand Hotel Miramare",
+                  "text": "A Grand Hotel Miramare privát strandja Santa Margherita Ligure településen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21568,
+                        44.327434
+                  ]
+            },
+            {
+                  "name": "Giò e Rino Beach",
+                  "text": "Népszerű kis strandrész Santa Margherita Ligure partján.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216264,
+                        44.322869
+                  ]
+            },
+            {
+                  "name": "Bagni Bristol",
+                  "text": "Hagyományos tengerparti üdülőhely Santa Margherita Ligure-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.24006,
+                        44.344976
+                  ]
+            },
+            {
+                  "name": "Spiaggia Della Caletta Dei Pescatori",
+                  "text": "Kisméretű, festői strandrész Santa Margherita Ligure-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.176279,
+                        44.315775
+                  ]
+            },
+            {
+                  "name": "Bagni San Fruttuoso",
+                  "text": "Strandüdülő a San Fruttuoso-öbölben, Santa Margherita Ligure közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.17484,
+                        44.316032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa Durazzo",
+                  "text": "Un complex splendid din secolul al XVII-lea, cu un parc botanic superb și muzee de artă.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp",
+                  "coords": [
+                        9.212383,
+                        44.332461
+                  ]
+            },
+            {
+                  "name": "Castello di Santa Margherita Ligure",
+                  "text": "O mică fortăreață la malul mării, construită în secolul al XVI-lea pentru apărarea împotriva piraților.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp",
+                  "coords": [
+                        9.213973,
+                        44.332429
+                  ]
+            },
+            {
+                  "name": "Biserica San Giacomo di Corte",
+                  "text": "Această biserică oferă o vedere panoramică asupra orașului și adăpostește fresce valoroase.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp",
+                  "coords": [
+                        9.211377,
+                        44.331919
+                  ]
+            },
+            {
+                  "name": "Portul Santa Margherita",
+                  "text": "Un port de iahturi elegant, unde bărcile de pescuit și ambarcațiunile de lux stau alături.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp",
+                  "coords": [
+                        9.213968,
+                        44.332446
+                  ]
+            },
+            {
+                  "name": "Abatia La Cervara",
+                  "text": "O fostă mănăstire cu o grădină italiană premiată, situată spectaculos deasupra mării.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp",
+                  "coords": [
+                        9.213007,
+                        44.313561
+                  ]
+            },
+            {
+                  "name": "Parco del Flauto Magico",
+                  "text": "Un parc imaginativ pentru copii, dedicat temei operei Flautul fermecat de Mozart.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp",
+                  "coords": [
+                        9.210974,
+                        44.336599
+                  ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "Situată în Santa Margherita Ligure, Spiaggia Regina Elena prezintă un loc minunat pentru recreere la malul mării. Plaja oferă un fundal elegant pentru o zi dedicată înotului, plajei sau lecturii lângă apă. Cu o atmosferă locală rafinată, atrage vizitatorii care caută o zi sofisticată, dar relaxantă. Sfârșitul după-amiezii este un moment deosebit de frumos pentru a vă bucura de priveliștile de coastă de aici.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "Spiaggia di Travello formează o secțiune de coastă încântătoare în orașul Santa Margherita Ligure. Este o locație favorizată pentru a vă bucura de apele calme și de soarele cald al Rivierei Italiene. Ambianta este plăcută și prezintă adesea un mix de familii și călători singuri care absorb cadrul. Aducerea unei cărți bune și a unor băuturi reci va completa o după-amiază perfectă la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
+                  ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "Un teren de joacă public în Santa Margherita Ligure pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
+                  ]
+            },
+            {
+                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
+                  "text": "Un club de plajă exclusivist în Santa Margherita Ligure, cu acces direct la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21521,
+                        44.328985
+                  ]
+            },
+            {
+                  "name": "Bau Bau Beach",
+                  "text": "O zonă de plajă din Santa Margherita Ligure dedicată câinilor.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214418,
+                        44.321029
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "O zonă de plajă accesibilă gratuit în comuna Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21286,
+                        44.320252
+                  ]
+            },
+            {
+                  "name": "Bagni Vicini",
+                  "text": "O stațiune balneară confortabilă în golful Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214527,
+                        44.335138
+                  ]
+            },
+            {
+                  "name": "Pomaro",
+                  "text": "O zonă de plajă liniștită situată lângă Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224343,
+                        44.340593
+                  ]
+            },
+            {
+                  "name": "Prelo",
+                  "text": "O plajă mică și fermecătoare în golful Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223977,
+                        44.33716
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grand Hotel Miramare",
+                  "text": "Plaja privată a Grand Hotel Miramare din Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21568,
+                        44.327434
+                  ]
+            },
+            {
+                  "name": "Giò e Rino Beach",
+                  "text": "O mică zonă de plajă populară pe coasta din Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216264,
+                        44.322869
+                  ]
+            },
+            {
+                  "name": "Bagni Bristol",
+                  "text": "O stațiune balneară tradițională în Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.24006,
+                        44.344976
+                  ]
+            },
+            {
+                  "name": "Spiaggia Della Caletta Dei Pescatori",
+                  "text": "O mică zonă de plajă pitorească în Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.176279,
+                        44.315775
+                  ]
+            },
+            {
+                  "name": "Bagni San Fruttuoso",
+                  "text": "O stațiune balneară situată în golful San Fruttuoso de lângă Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.17484,
+                        44.316032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa Durazzo",
+                  "text": "A splendid 17th-century complex featuring a beautiful botanical park and art museums.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-villa-durazzo.webp",
+                  "coords": [
+                        9.212383,
+                        44.332461
+                  ]
+            },
+            {
+                  "name": "Castle of Santa Margherita Ligure",
+                  "text": "A small seaside fortress built in the 16th century for defense against pirate attacks.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-castello-di-santa-margherita-ligure.webp",
+                  "coords": [
+                        9.213973,
+                        44.332429
+                  ]
+            },
+            {
+                  "name": "Church of San Giacomo di Corte",
+                  "text": "This church offers elevated views of the town and houses significant historical frescoes.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-kirche-san-giacomo-di-corte.webp",
+                  "coords": [
+                        9.211377,
+                        44.331919
+                  ]
+            },
+            {
+                  "name": "Santa Margherita Harbor",
+                  "text": "An elegant marina where traditional fishing boats and luxury yachts share the waterfront.",
+                  "category": "port",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-hafen-von-santa-margherita.webp",
+                  "coords": [
+                        9.213968,
+                        44.332446
+                  ]
+            },
+            {
+                  "name": "Abbey of La Cervara",
+                  "text": "A former monastery with an award-winning Italian garden perched directly above the sea.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-abtei-la-cervara.webp",
+                  "coords": [
+                        9.213007,
+                        44.313561
+                  ]
+            },
+            {
+                  "name": "Magic Flute Park",
+                  "text": "An imaginative children's park dedicated to the theme of Mozart's Magic Flute opera.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/santa-margherita-ligure-parco-del-flauto-magico.webp",
+                  "coords": [
+                        9.210974,
+                        44.336599
+                  ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "Situated in Santa Margherita Ligure, Spiaggia Regina Elena presents a lovely spot for seaside recreation. The beach provides an elegant backdrop for a day dedicated to swimming, sunbathing, or reading by the water. With a refined local atmosphere, it attracts visitors looking for a sophisticated yet relaxing day out. Late afternoon is a particularly beautiful time to enjoy the coastal views from here.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "Spiaggia di Travello forms a delightful coastal section within the town of Santa Margherita Ligure. It is a favored location for enjoying the calm waters and the warm sunshine of the Italian Riviera. The ambiance is pleasant and often features a mix of families and solo travelers soaking up the setting. Bringing a good book and some cold drinks will complete a perfect seaside afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
+                  ]
+            },
+            {
+                  "name": "Parco Emilio De Martino",
+                  "text": "A public playground in Santa Margherita Ligure for families.",
+                  "category": "family",
+                  "coords": [
+                        9.227242,
+                        44.351324
+                  ]
+            },
+            {
+                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
+                  "text": "An exclusive beach club in Santa Margherita Ligure with direct sea access.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21521,
+                        44.328985
+                  ]
+            },
+            {
+                  "name": "Bau Bau Beach",
+                  "text": "A specialized beach area in Santa Margherita Ligure dedicated to dogs.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214418,
+                        44.321029
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "A freely accessible beach area in the commune of Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21286,
+                        44.320252
+                  ]
+            },
+            {
+                  "name": "Bagni Vicini",
+                  "text": "A comfortable beach resort in the bay of Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.214527,
+                        44.335138
+                  ]
+            },
+            {
+                  "name": "Pomaro",
+                  "text": "A quiet beach area located near Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224343,
+                        44.340593
+                  ]
+            },
+            {
+                  "name": "Prelo",
+                  "text": "A small, charming beach in the bay of Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223977,
+                        44.33716
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grand Hotel Miramare",
+                  "text": "The private beach resort of the Grand Hotel Miramare in Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.21568,
+                        44.327434
+                  ]
+            },
+            {
+                  "name": "Giò e Rino Beach",
+                  "text": "A popular small beach area on the coast of Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216264,
+                        44.322869
+                  ]
+            },
+            {
+                  "name": "Bagni Bristol",
+                  "text": "A traditional beach resort in Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.24006,
+                        44.344976
+                  ]
+            },
+            {
+                  "name": "Spiaggia Della Caletta Dei Pescatori",
+                  "text": "A small, scenic beach area in Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.176279,
+                        44.315775
+                  ]
+            },
+            {
+                  "name": "Bagni San Fruttuoso",
+                  "text": "A beach resort located in the San Fruttuoso bay near Santa Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.17484,
+                        44.316032
+                  ]
+            }
+      ]
+}},
   {"id": "trento", "type": "city", "parent": "IT-32", "coords": [11.1218, 46.0664], "population": 119000, "tier": 2, "name": {"de": "Trient", "hu": "Trento", "ro": "Trento", "en": "Trento"}, "description": {"de": "Historische Stadt im Etschtal, berühmt für das Konzil von Trient. Sie vereint italienische Renaissance-Architektur mit mitteleuropäischer Ordnung.", "hu": "Történelmi város az Adige-völgyben, a tridenti zsinat helyszíne. Az olasz reneszánsz építészet és a közép-európai precizitás különleges találkozása.", "ro": "Oraș istoric în Valea Adige, faimos pentru Conciliul de la Trento. Combină arhitectura Renașterii italiene cu ordinea Europei Centrale.", "en": "A historic city in the Adige Valley, famous for the Council of Trent. It blends Italian Renaissance architecture with Central European efficiency."}, "facts": {"de": ["Konzil von Trient", "Schloss Buonconsiglio", "Domplatz", "MUSE-Wissenschaftsmuseum", "Adige-Fluss", "Universitätsstadt", "Neptunbrunnen", "Alpenrandlage"], "hu": ["Tridenti zsinat", "Buonconsiglio kastély", "Dóm tér", "MUSE tudományos múzeum", "Adige-folyó partján", "Egyetemi város", "Neptun-kút", "Alpok kapuja"], "ro": ["Conciliul de la Trento", "Castelul Buonconsiglio", "Piazza Duomo", "Muzeul de științe MUSE", "Pe râul Adige", "Oraș universitar", "Fântâna lui Neptun", "Poarta Alpilor"], "en": ["Council of Trent", "Buonconsiglio Castle", "Piazza Duomo", "MUSE science museum", "On the Adige river", "University city", "Neptune Fountain", "Gateway to the Alps"]}, "image": "/poi-images/trento.webp", "imageHint": "Piazza Duomo with the Cathedral and Neptune Fountain in Trento", "descriptionAdvanced": {"de": "Trient (Trento) ist die Hauptstadt der autonomen Region Trentino-Südtirol und liegt strategisch günstig im Etschtal. Weltgeschichte schrieb die Stadt im 16. Jahrhundert als Austragungsort des Konzils von Trient (1545–1563), das die Gegenreformation einleitete. Die Architektur spiegelt die wechselvolle Geschichte zwischen dem Heiligen Römischen Reich und Italien wider: Prächtige Renaissance-Paläste mit Freskenfassaden säumen die Piazza Duomo, in deren Zentrum der barocke Neptunbrunnen steht. Das Schloss Buonconsiglio, einst Sitz der Fürstbischöfe, beherbergt den berühmten „Zyklus der Monate“, eines der bedeutendsten Beispiele gotischer Profankunst. Heute ist Trento eine moderne Universitätsstadt, die regelmäßig Spitzenplätze in Rankings zur Lebensqualität belegt. Ein architektonisches Highlight der Moderne ist das von Renzo Piano entworfene Wissenschaftsmuseum MUSE, das die alpine Natur und Technik auf innovative Weise präsentiert.", "hu": "Trento (németül Trient) Trentino-Dél-Tirol autonóm régió központja, az Adige-völgy stratégiai pontján fekszik. A város neve elválaszthatatlan az 1545 és 1563 között itt zajlott tridenti zsinattól, amely elindította a katolikus ellenreformációt. Építészeti arculata a Szent Német-római Birodalom és Itália közötti kulturális hidat tükrözi: a Dóm téren reneszánsz paloták és freskókkal díszített homlokzatok fogadják a látogatót. A Buonconsiglio-kastély, a hercegpüspökök egykori székhelye, őrzi a híres „Hónapok ciklusát”, amely a gótikus világi művészet egyik legfontosabb alkotása. Ma Trento pezsgő egyetemi város, amely rendszeresen az olasz életszínvonal-listák élén végez. Modern jelképe a Renzo Piano által tervezett MUSE természettudományi múzeum, amely innovatív módon mutatja be az alpesi környezetet.", "ro": "Trento este capitala regiunii autonome Trentino-Tirolul de Sud, situată strategic în valea râului Adige. Orașul a intrat în istoria mondială în secolul al XVI-lea ca sediu al Conciliului de la Trento (1545–1563), care a lansat Contrareforma. Arhitectura sa reflectă istoria complexă între Sfântul Imperiu Roman și Italia: palate renascentiste somptuoase cu fațade pictate în frescă mărginesc Piazza Duomo, unde se află Fântâna lui Neptun. Castelul Buonconsiglio, fosta reședință a principilor-episcopi, adăpostește celebrul „Ciclu al lunilor”, un exemplu de vârf al artei gotice profane. Astăzi, Trento este un oraș universitar modern, clasându-se constant pe primele locuri în topurile calității vieții din Italia. O capodoperă a arhitecturii contemporane este muzeul de științe MUSE, proiectat de Renzo Piano, care explorează natura alpină.", "en": "Trento is the capital of the autonomous region of Trentino-South Tyrol, strategically positioned in the Adige Valley. The city etched its name into world history in the 16th century as the host of the Council of Trent (1545–1563), which initiated the Counter-Reformation. Its architecture reflects its long history as a bridge between the Holy Roman Empire and Italy: grand Renaissance palaces with frescoed facades line Piazza Duomo, centered around the Baroque Neptune Fountain. The Buonconsiglio Castle, once the seat of prince-bishops, houses the famous 'Cycle of the Months,' one of the most significant examples of Gothic secular art. Today, Trento is a vibrant university city that consistently tops Italian quality-of-life rankings. A modern architectural landmark is the MUSE science museum, designed by Renzo Piano, which innovatively showcases alpine nature and technology."}, "factsAdvanced": {"de": ["Konzilsdauer: 18 Jahre", "Schloss-Fresken: 15. Jh.", "Gründung als Tridentum", "Universität seit 1962", "Neptunbrunnen Bau: 1767", "MUSE-Architekt: Renzo Piano", "Höhe: 194 m ü. d. M.", "Bahnhalt am Brenner"], "hu": ["Zsinat időtartama: 18 év", "Kastélyfreskók: 15. sz.", "Római neve: Tridentum", "Egyetem alapítva: 1962", "Neptun-kút épült: 1767", "MUSE tervezője: Renzo Piano", "Tengerszint feletti magasság: 194 m", "Brenner-vasútvonal megálló"], "ro": ["Durata Conciliului: 18 ani", "Frescele castelului: sec. 15", "Nume roman: Tridentum", "Universitate fondată în 1962", "Fântâna lui Neptun: 1767", "Arhitect MUSE: Renzo Piano", "Altitudine: 194 m", "Stație pe calea ferată Brenner"], "en": ["Council duration: 18 years", "Castle frescoes: 15th c.", "Roman name: Tridentum", "University founded: 1962", "Neptune Fountain built: 1767", "MUSE architect: Renzo Piano", "Elevation: 194 m", "Brenner railway stop"]}, "sights": {
       "de": [
             {
@@ -39697,6 +46192,60 @@ export const poiExtraItalyV2: POI[] = [
                         16.163599,
                         41.88903
                   ]
+            },
+            {
+                  "name": "spiaggia libera",
+                  "text": "Ein öffentlicher Strandabschnitt in Vieste mit freiem Zugang zur Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.160562,
+                        41.893418
+                  ]
+            },
+            {
+                  "name": "Braico",
+                  "text": "Ein kleiner, charmanter Strandabschnitt in der Nähe von Vieste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.15324,
+                        41.901859
+                  ]
+            },
+            {
+                  "name": "Molinella",
+                  "text": "Ein bekannter Sandstrand in einer geschützten Bucht bei Vieste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150943,
+                        41.905877
+                  ]
+            },
+            {
+                  "name": "Dietro San Lorenzo o U Murt",
+                  "text": "Ein naturbelassener Strand in Vieste, der für seine ruhige Lage geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        16.157815,
+                        41.895264
+                  ]
+            },
+            {
+                  "name": "San Lorenzo o Convento",
+                  "text": "Ein weitläufiger Strand in Vieste, der flach ins Wasser abfällt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.167077,
+                        41.888021
+                  ]
+            },
+            {
+                  "name": "Scialara o Castello",
+                  "text": "Der markante Hauptstrand von Vieste, direkt am Fuße der Altstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.175806,
+                        41.866314
+                  ]
             }
       ],
       "hu": [
@@ -39838,6 +46387,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.163599,
                         41.88903
+                  ]
+            },
+            {
+                  "name": "spiaggia libera",
+                  "text": "Ingyenesen látogatható partszakasz Viestében, az adriai tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        16.160562,
+                        41.893418
+                  ]
+            },
+            {
+                  "name": "Braico",
+                  "text": "Kicsi, bájos strandrész Vieste közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.15324,
+                        41.901859
+                  ]
+            },
+            {
+                  "name": "Molinella",
+                  "text": "Ismert homokos strand egy védett öbölben Vieste mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150943,
+                        41.905877
+                  ]
+            },
+            {
+                  "name": "Dietro San Lorenzo o U Murt",
+                  "text": "Természetes strand Viestében, amelyet csendes elhelyezkedése miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        16.157815,
+                        41.895264
+                  ]
+            },
+            {
+                  "name": "San Lorenzo o Convento",
+                  "text": "Tágas strand Viestében, amely lassan mélyül a vízbe.",
+                  "category": "recreational",
+                  "coords": [
+                        16.167077,
+                        41.888021
+                  ]
+            },
+            {
+                  "name": "Scialara o Castello",
+                  "text": "Vieste jellegzetes főstrandja, közvetlenül az óváros lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.175806,
+                        41.866314
                   ]
             }
       ],
@@ -39981,6 +46584,60 @@ export const poiExtraItalyV2: POI[] = [
                         16.163599,
                         41.88903
                   ]
+            },
+            {
+                  "name": "spiaggia libera",
+                  "text": "O zonă de plajă publică în Vieste, cu acces liber la coasta Adriaticii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.160562,
+                        41.893418
+                  ]
+            },
+            {
+                  "name": "Braico",
+                  "text": "O porțiune de plajă mică și fermecătoare lângă Vieste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.15324,
+                        41.901859
+                  ]
+            },
+            {
+                  "name": "Molinella",
+                  "text": "O plajă cu nisip cunoscută, situată într-un golf protejat lângă Vieste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150943,
+                        41.905877
+                  ]
+            },
+            {
+                  "name": "Dietro San Lorenzo o U Murt",
+                  "text": "O plajă naturală în Vieste, apreciată pentru locația sa liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        16.157815,
+                        41.895264
+                  ]
+            },
+            {
+                  "name": "San Lorenzo o Convento",
+                  "text": "O plajă extinsă în Vieste, care coboară lin în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.167077,
+                        41.888021
+                  ]
+            },
+            {
+                  "name": "Scialara o Castello",
+                  "text": "Plaja principală distinctivă din Vieste, situată chiar la poalele orașului vechi.",
+                  "category": "recreational",
+                  "coords": [
+                        16.175806,
+                        41.866314
+                  ]
             }
       ],
       "en": [
@@ -40122,6 +46779,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.163599,
                         41.88903
+                  ]
+            },
+            {
+                  "name": "spiaggia libera",
+                  "text": "A public beach area in Vieste with free access to the Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        16.160562,
+                        41.893418
+                  ]
+            },
+            {
+                  "name": "Braico",
+                  "text": "A small, charming beach section located near Vieste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.15324,
+                        41.901859
+                  ]
+            },
+            {
+                  "name": "Molinella",
+                  "text": "A well-known sandy beach in a sheltered bay near Vieste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150943,
+                        41.905877
+                  ]
+            },
+            {
+                  "name": "Dietro San Lorenzo o U Murt",
+                  "text": "A natural beach in Vieste, valued for its quiet location.",
+                  "category": "recreational",
+                  "coords": [
+                        16.157815,
+                        41.895264
+                  ]
+            },
+            {
+                  "name": "San Lorenzo o Convento",
+                  "text": "A spacious beach in Vieste that slopes gently into the water.",
+                  "category": "recreational",
+                  "coords": [
+                        16.167077,
+                        41.888021
+                  ]
+            },
+            {
+                  "name": "Scialara o Castello",
+                  "text": "The distinctive main beach of Vieste, located right at the foot of the old town.",
+                  "category": "recreational",
+                  "coords": [
+                        16.175806,
+                        41.866314
                   ]
             }
       ]
@@ -41808,6 +48519,78 @@ export const poiExtraItalyV2: POI[] = [
                         11.146774,
                         42.434072
                   ]
+            },
+            {
+                  "name": "La bionda",
+                  "text": "La bionda ist ein Strand in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.135248,
+                        42.43711
+                  ]
+            },
+            {
+                  "name": "Cala Grande",
+                  "text": "Cala Grande ist ein Strand in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.091809,
+                        42.4286
+                  ]
+            },
+            {
+                  "name": "Santa Liberata",
+                  "text": "Santa Liberata ist ein Strand in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.157509,
+                        42.43398
+                  ]
+            },
+            {
+                  "name": "Punta Nera",
+                  "text": "Punta Nera ist ein Strand in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.132671,
+                        42.438278
+                  ]
+            },
+            {
+                  "name": "Bagni di Domiziano",
+                  "text": "Bagni di Domiziano ist ein Strand in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.15317,
+                        42.435088
+                  ]
+            },
+            {
+                  "name": "Il Siluripedio",
+                  "text": "Il Siluripedio ist ein Strand in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.113115,
+                        42.445342
+                  ]
+            },
+            {
+                  "name": "Pozzarello",
+                  "text": "Pozzarello ist ein Strand in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.140152,
+                        42.433919
+                  ]
+            },
+            {
+                  "name": "La Cacciarella",
+                  "text": "Ein schöner Strand in Porto Santo Stefano, ideal zum Entspannen und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.1002,
+                        42.438771
+                  ]
             }
       ],
       "hu": [
@@ -41936,6 +48719,78 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.146774,
                         42.434072
+                  ]
+            },
+            {
+                  "name": "La bionda",
+                  "text": "A La bionda egy strand Porto Santo Stefano (Argentario) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.135248,
+                        42.43711
+                  ]
+            },
+            {
+                  "name": "Cala Grande",
+                  "text": "A Cala Grande egy strand Porto Santo Stefano (Argentario) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.091809,
+                        42.4286
+                  ]
+            },
+            {
+                  "name": "Santa Liberata",
+                  "text": "A Santa Liberata egy strand Porto Santo Stefano (Argentario) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.157509,
+                        42.43398
+                  ]
+            },
+            {
+                  "name": "Punta Nera",
+                  "text": "A Punta Nera egy strand Porto Santo Stefano (Argentario) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.132671,
+                        42.438278
+                  ]
+            },
+            {
+                  "name": "Bagni di Domiziano",
+                  "text": "A Bagni di Domiziano egy strand Porto Santo Stefano (Argentario) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.15317,
+                        42.435088
+                  ]
+            },
+            {
+                  "name": "Il Siluripedio",
+                  "text": "Az Il Siluripedio egy strand Porto Santo Stefano (Argentario) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.113115,
+                        42.445342
+                  ]
+            },
+            {
+                  "name": "Pozzarello",
+                  "text": "A Pozzarello egy strand Porto Santo Stefano (Argentario) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.140152,
+                        42.433919
+                  ]
+            },
+            {
+                  "name": "La Cacciarella",
+                  "text": "Szép tengerpart Porto Santo Stefano területén, amely ideális kikapcsolódásra és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        11.1002,
+                        42.438771
                   ]
             }
       ],
@@ -42066,6 +48921,78 @@ export const poiExtraItalyV2: POI[] = [
                         11.146774,
                         42.434072
                   ]
+            },
+            {
+                  "name": "La bionda",
+                  "text": "La bionda este o plajă din Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.135248,
+                        42.43711
+                  ]
+            },
+            {
+                  "name": "Cala Grande",
+                  "text": "Cala Grande este o plajă din Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.091809,
+                        42.4286
+                  ]
+            },
+            {
+                  "name": "Santa Liberata",
+                  "text": "Santa Liberata este o plajă din Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.157509,
+                        42.43398
+                  ]
+            },
+            {
+                  "name": "Punta Nera",
+                  "text": "Punta Nera este o plajă din Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.132671,
+                        42.438278
+                  ]
+            },
+            {
+                  "name": "Bagni di Domiziano",
+                  "text": "Bagni di Domiziano este o plajă din Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.15317,
+                        42.435088
+                  ]
+            },
+            {
+                  "name": "Il Siluripedio",
+                  "text": "Il Siluripedio este o plajă din Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.113115,
+                        42.445342
+                  ]
+            },
+            {
+                  "name": "Pozzarello",
+                  "text": "Pozzarello este o plajă din Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.140152,
+                        42.433919
+                  ]
+            },
+            {
+                  "name": "La Cacciarella",
+                  "text": "O plajă frumoasă în Porto Santo Stefano, ideală pentru relaxare și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        11.1002,
+                        42.438771
+                  ]
             }
       ],
       "en": [
@@ -42194,6 +49121,78 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.146774,
                         42.434072
+                  ]
+            },
+            {
+                  "name": "La bionda",
+                  "text": "La bionda is a beach in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.135248,
+                        42.43711
+                  ]
+            },
+            {
+                  "name": "Cala Grande",
+                  "text": "Cala Grande is a beach in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.091809,
+                        42.4286
+                  ]
+            },
+            {
+                  "name": "Santa Liberata",
+                  "text": "Santa Liberata is a beach in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.157509,
+                        42.43398
+                  ]
+            },
+            {
+                  "name": "Punta Nera",
+                  "text": "Punta Nera is a beach in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.132671,
+                        42.438278
+                  ]
+            },
+            {
+                  "name": "Bagni di Domiziano",
+                  "text": "Bagni di Domiziano is a beach in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.15317,
+                        42.435088
+                  ]
+            },
+            {
+                  "name": "Il Siluripedio",
+                  "text": "Il Siluripedio is a beach in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.113115,
+                        42.445342
+                  ]
+            },
+            {
+                  "name": "Pozzarello",
+                  "text": "Pozzarello is a beach in Porto Santo Stefano (Argentario).",
+                  "category": "recreational",
+                  "coords": [
+                        11.140152,
+                        42.433919
+                  ]
+            },
+            {
+                  "name": "La Cacciarella",
+                  "text": "A beautiful beach in Porto Santo Stefano, ideal for relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        11.1002,
+                        42.438771
                   ]
             }
       ]
@@ -43074,6 +50073,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.672821,
                         45.577634
                   ]
+            },
+            {
+                  "name": "Samsara Whirlpool",
+                  "text": "Ein entspannendes Whirlpool-Becken in der Stadt Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726365,
+                        45.543086
+                  ]
+            },
+            {
+                  "name": "piscina termale",
+                  "text": "Ein Thermalbecken für erholsames Schwimmen in Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725351,
+                        45.579562
+                  ]
+            },
+            {
+                  "name": "Piscina Pool Smeralda",
+                  "text": "Eine gepflegte Badeanlage für Freizeitaktivitäten in Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.713283,
+                        45.563772
+                  ]
             }
       ],
       "hu": [
@@ -43150,6 +50176,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.672821,
                         45.577634
+                  ]
+            },
+            {
+                  "name": "Samsara Whirlpool",
+                  "text": "Pihentető pezsgőfürdő Bardolino városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726365,
+                        45.543086
+                  ]
+            },
+            {
+                  "name": "piscina termale",
+                  "text": "Termálvizes medence a pihentető úszáshoz Bardolinóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725351,
+                        45.579562
+                  ]
+            },
+            {
+                  "name": "Piscina Pool Smeralda",
+                  "text": "Jól karbantartott úszómedence szabadidős tevékenységekhez Bardolinóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.713283,
+                        45.563772
                   ]
             }
       ],
@@ -43228,6 +50281,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.672821,
                         45.577634
                   ]
+            },
+            {
+                  "name": "Samsara Whirlpool",
+                  "text": "O piscină relaxantă cu hidromasaj în orașul Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726365,
+                        45.543086
+                  ]
+            },
+            {
+                  "name": "piscina termale",
+                  "text": "O piscină termală pentru înot relaxant în Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725351,
+                        45.579562
+                  ]
+            },
+            {
+                  "name": "Piscina Pool Smeralda",
+                  "text": "O piscină bine întreținută pentru activități de agrement în Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.713283,
+                        45.563772
+                  ]
             }
       ],
       "en": [
@@ -43304,6 +50384,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.672821,
                         45.577634
+                  ]
+            },
+            {
+                  "name": "Samsara Whirlpool",
+                  "text": "A relaxing whirlpool bath located in the town of Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726365,
+                        45.543086
+                  ]
+            },
+            {
+                  "name": "piscina termale",
+                  "text": "A thermal pool for relaxing swimming in Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.725351,
+                        45.579562
+                  ]
+            },
+            {
+                  "name": "Piscina Pool Smeralda",
+                  "text": "A well-maintained swimming pool for leisure activities in Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.713283,
+                        45.563772
                   ]
             }
       ]
@@ -43508,6 +50615,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.304824,
                         42.819015
                   ]
+            },
+            {
+                  "name": "Ottonella",
+                  "text": "Ottonella ist ein Strand in der Region Portoferraio auf Elba.",
+                  "category": "recreational",
+                  "coords": [
+                        10.361697,
+                        42.804103
+                  ]
+            },
+            {
+                  "name": "Piscina del Sant'Ann",
+                  "text": "Ein Wasserpark in Portoferraio auf der Insel Elba.",
+                  "category": "recreational",
+                  "coords": [
+                        10.369531,
+                        42.810541
+                  ]
             }
       ],
       "hu": [
@@ -43707,6 +50832,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.304824,
                         42.819015
+                  ]
+            },
+            {
+                  "name": "Ottonella",
+                  "text": "Az Ottonella egy tengerparti strand az elbai Portoferraióban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.361697,
+                        42.804103
+                  ]
+            },
+            {
+                  "name": "Piscina del Sant'Ann",
+                  "text": "Vízi park Portoferraióban, Elba szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.369531,
+                        42.810541
                   ]
             }
       ],
@@ -43908,6 +51051,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.304824,
                         42.819015
                   ]
+            },
+            {
+                  "name": "Ottonella",
+                  "text": "Ottonella este o plajă situată în Portoferraio, pe insula Elba.",
+                  "category": "recreational",
+                  "coords": [
+                        10.361697,
+                        42.804103
+                  ]
+            },
+            {
+                  "name": "Piscina del Sant'Ann",
+                  "text": "Un parc acvatic în Portoferraio, pe insula Elba.",
+                  "category": "recreational",
+                  "coords": [
+                        10.369531,
+                        42.810541
+                  ]
             }
       ],
       "en": [
@@ -44107,6 +51268,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.304824,
                         42.819015
+                  ]
+            },
+            {
+                  "name": "Ottonella",
+                  "text": "Ottonella is a beach located in Portoferraio on Elba island.",
+                  "category": "recreational",
+                  "coords": [
+                        10.361697,
+                        42.804103
+                  ]
+            },
+            {
+                  "name": "Piscina del Sant'Ann",
+                  "text": "A water park located in Portoferraio on the island of Elba.",
+                  "category": "recreational",
+                  "coords": [
+                        10.369531,
+                        42.810541
                   ]
             }
       ]
@@ -45571,6 +52750,24 @@ export const poiExtraItalyV2: POI[] = [
                         15.723124,
                         39.993069
                   ]
+            },
+            {
+                  "name": "Macarro",
+                  "text": "Ein hübscher Kieselstrand in Maratea, umgeben von dunklen Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.730066,
+                        39.96612
+                  ]
+            },
+            {
+                  "name": "Fiumicello",
+                  "text": "Einer der am einfachsten zugänglichen und beliebtesten Strände in Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.699532,
+                        39.997758
+                  ]
             }
       ],
       "hu": [
@@ -45719,6 +52916,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.723124,
                         39.993069
+                  ]
+            },
+            {
+                  "name": "Macarro",
+                  "text": "Szép kavicsos strand Marateában, sötét sziklákkal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        15.730066,
+                        39.96612
+                  ]
+            },
+            {
+                  "name": "Fiumicello",
+                  "text": "Maratea egyik legkönnyebben megközelíthető és legnépszerűbb strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        15.699532,
+                        39.997758
                   ]
             }
       ],
@@ -45869,6 +53084,24 @@ export const poiExtraItalyV2: POI[] = [
                         15.723124,
                         39.993069
                   ]
+            },
+            {
+                  "name": "Macarro",
+                  "text": "O plajă frumoasă cu pietriș în Maratea, înconjurată de stânci întunecate.",
+                  "category": "recreational",
+                  "coords": [
+                        15.730066,
+                        39.96612
+                  ]
+            },
+            {
+                  "name": "Fiumicello",
+                  "text": "Una dintre cele mai accesibile și populare plaje din Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.699532,
+                        39.997758
+                  ]
             }
       ],
       "en": [
@@ -46017,6 +53250,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.723124,
                         39.993069
+                  ]
+            },
+            {
+                  "name": "Macarro",
+                  "text": "A pretty pebble beach in Maratea, surrounded by dark rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        15.730066,
+                        39.96612
+                  ]
+            },
+            {
+                  "name": "Fiumicello",
+                  "text": "One of the most easily accessible and popular beaches in Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.699532,
+                        39.997758
                   ]
             }
       ]
@@ -46786,6 +54037,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.955741,
                         36.822558
                   ]
+            },
+            {
+                  "name": "Harúçia",
+                  "text": "Ein wilder und felsiger Strandabschnitt auf der Vulkaninsel Pantelleria.",
+                  "category": "recreational",
+                  "coords": [
+                        11.969833,
+                        36.835353
+                  ]
             }
       ],
       "hu": [
@@ -46936,6 +54196,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.955741,
                         36.822558
+                  ]
+            },
+            {
+                  "name": "Harúçia",
+                  "text": "Vad és sziklás tengerparti szakasz Pantelleria vulkáni szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.969833,
+                        36.835353
                   ]
             }
       ],
@@ -47088,6 +54357,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.955741,
                         36.822558
                   ]
+            },
+            {
+                  "name": "Harúçia",
+                  "text": "O zonă de plajă sălbatică și stâncoasă pe insula vulcanică Pantelleria.",
+                  "category": "recreational",
+                  "coords": [
+                        11.969833,
+                        36.835353
+                  ]
             }
       ],
       "en": [
@@ -47238,6 +54516,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.955741,
                         36.822558
+                  ]
+            },
+            {
+                  "name": "Harúçia",
+                  "text": "A wild and rocky coastal stretch on the volcanic island of Pantelleria.",
+                  "category": "recreational",
+                  "coords": [
+                        11.969833,
+                        36.835353
                   ]
             }
       ]
@@ -49324,6 +56611,24 @@ export const poiExtraItalyV2: POI[] = [
                         7.815426,
                         43.821983
                   ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "Ein Strand in San Remo, ideal zum Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762917,
+                        43.809133
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Ein Küstenabschnitt in der Stadt San Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761299,
+                        43.808554
+                  ]
             }
       ],
       "hu": [
@@ -49602,6 +56907,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         7.815426,
                         43.821983
+                  ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "Egy strand San Remóban, amely ideális napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762917,
+                        43.809133
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Egy tengerparti szakasz San Remo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761299,
+                        43.808554
                   ]
             }
       ],
@@ -49882,6 +57205,24 @@ export const poiExtraItalyV2: POI[] = [
                         7.815426,
                         43.821983
                   ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "O plajă în San Remo, ideală pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762917,
+                        43.809133
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "O secțiune de coastă în orașul San Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761299,
+                        43.808554
+                  ]
             }
       ],
       "en": [
@@ -50160,6 +57501,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         7.815426,
                         43.821983
+                  ]
+            },
+            {
+                  "name": "Villa Sapienza Beach",
+                  "text": "A beach in San Remo, ideal for sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762917,
+                        43.809133
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "A coastal stretch in the city of San Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761299,
+                        43.808554
                   ]
             }
       ]
@@ -51795,6 +59154,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.221668,
                         40.94989
                   ]
+            },
+            {
+                  "name": "Coscia di Donna",
+                  "text": "Ein felsiger Küstenabschnitt bei Stintino, der klares Wasser und eine wilde Landschaft bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.220591,
+                        40.900011
+                  ]
+            },
+            {
+                  "name": "Il Gabbiano",
+                  "text": "Ein einladender Strand in Stintino, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        8.212805,
+                        40.960748
+                  ]
             }
       ],
       "hu": [
@@ -51916,6 +59293,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.221668,
                         40.94989
+                  ]
+            },
+            {
+                  "name": "Coscia di Donna",
+                  "text": "Sziklás tengerparti szakasz Stintino közelében, tiszta vízzel és vadregényes tájjal.",
+                  "category": "recreational",
+                  "coords": [
+                        8.220591,
+                        40.900011
+                  ]
+            },
+            {
+                  "name": "Il Gabbiano",
+                  "text": "Hívogató tengerpart Stintinóban, amely nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        8.212805,
+                        40.960748
                   ]
             }
       ],
@@ -52039,6 +59434,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.221668,
                         40.94989
                   ]
+            },
+            {
+                  "name": "Coscia di Donna",
+                  "text": "O porțiune de coastă stâncoasă lângă Stintino, oferind apă limpede și un peisaj sălbatic.",
+                  "category": "recreational",
+                  "coords": [
+                        8.220591,
+                        40.900011
+                  ]
+            },
+            {
+                  "name": "Il Gabbiano",
+                  "text": "O plajă primitoare în Stintino, cunoscută pentru atmosfera sa relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        8.212805,
+                        40.960748
+                  ]
             }
       ],
       "en": [
@@ -52160,6 +59573,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.221668,
                         40.94989
+                  ]
+            },
+            {
+                  "name": "Coscia di Donna",
+                  "text": "A rocky stretch of coast near Stintino offering clear water and a wild landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        8.220591,
+                        40.900011
+                  ]
+            },
+            {
+                  "name": "Il Gabbiano",
+                  "text": "An inviting beach in Stintino known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        8.212805,
+                        40.960748
                   ]
             }
       ]
@@ -53168,6 +60599,87 @@ export const poiExtraItalyV2: POI[] = [
                         10.241599,
                         43.853314
                   ]
+            },
+            {
+                  "name": "Bagno Marco Polo",
+                  "text": "Ein historisches Strandbad in Viareggio, das für seine elegante Architektur bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.24098,
+                        43.869426
+                  ]
+            },
+            {
+                  "name": "Lecciona",
+                  "text": "Ein naturbelassener und wilder Sandstrand bei Viareggio, Teil eines geschützten Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        10.247712,
+                        43.838529
+                  ]
+            },
+            {
+                  "name": "Bagno Narcisa",
+                  "text": "Ein einladendes Strandbad an der Promenade von Viareggio mit gutem Service.",
+                  "category": "recreational",
+                  "coords": [
+                        10.237978,
+                        43.874091
+                  ]
+            },
+            {
+                  "name": "Bagno Oceano",
+                  "text": "Ein weitläufiges Strandbad in Viareggio mit Blick auf das Tyrrhenische Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        10.241801,
+                        43.865444
+                  ]
+            },
+            {
+                  "name": "Bagno Bengasi",
+                  "text": "Bagno Bengasi ist eine Badeanlage in Viareggio, die Einrichtungen für die Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.238879,
+                        43.872599
+                  ]
+            },
+            {
+                  "name": "Bagno Rossella",
+                  "text": "Bagno Rossella ist eine Badeanlage in Viareggio, die Einrichtungen für die Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244525,
+                        43.847771
+                  ]
+            },
+            {
+                  "name": "Bagno Arizona",
+                  "text": "Bagno Arizona ist eine Badeanlage in Viareggio, die Einrichtungen für die Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244221,
+                        43.848724
+                  ]
+            },
+            {
+                  "name": "Bagno Aretusa",
+                  "text": "Bagno Aretusa ist eine Badeanlage in Viareggio, die Einrichtungen für die Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.243465,
+                        43.849965
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Free beach ist ein Strand in Viareggio, der für seine Küstenlandschaft bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.239065,
+                        43.854852
+                  ]
             }
       ],
       "hu": [
@@ -53606,6 +61118,87 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.241599,
                         43.853314
+                  ]
+            },
+            {
+                  "name": "Bagno Marco Polo",
+                  "text": "Történelmi strandfürdő Viareggióban, amely elegáns építészetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.24098,
+                        43.869426
+                  ]
+            },
+            {
+                  "name": "Lecciona",
+                  "text": "Természetes és vadregényes homokos strand Viareggio közelében, egy védett park része.",
+                  "category": "recreational",
+                  "coords": [
+                        10.247712,
+                        43.838529
+                  ]
+            },
+            {
+                  "name": "Bagno Narcisa",
+                  "text": "Barátságos strandfürdő Viareggio sétányán, jó szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        10.237978,
+                        43.874091
+                  ]
+            },
+            {
+                  "name": "Bagno Oceano",
+                  "text": "Tágas strandfürdő Viareggióban, kilátással a Tirrén-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        10.241801,
+                        43.865444
+                  ]
+            },
+            {
+                  "name": "Bagno Bengasi",
+                  "text": "A Bagno Bengasi egy strandfürdő Viareggio városában, amely tengerparti kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.238879,
+                        43.872599
+                  ]
+            },
+            {
+                  "name": "Bagno Rossella",
+                  "text": "A Bagno Rossella egy strandfürdő Viareggio városában, amely tengerparti kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244525,
+                        43.847771
+                  ]
+            },
+            {
+                  "name": "Bagno Arizona",
+                  "text": "A Bagno Arizona egy strandfürdő Viareggio városában, amely tengerparti kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244221,
+                        43.848724
+                  ]
+            },
+            {
+                  "name": "Bagno Aretusa",
+                  "text": "A Bagno Aretusa egy strandfürdő Viareggio városában, amely tengerparti kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.243465,
+                        43.849965
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "A Free beach egy strand Viareggio területén, amely part menti tájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.239065,
+                        43.854852
                   ]
             }
       ],
@@ -54046,6 +61639,87 @@ export const poiExtraItalyV2: POI[] = [
                         10.241599,
                         43.853314
                   ]
+            },
+            {
+                  "name": "Bagno Marco Polo",
+                  "text": "O stațiune balneară istorică în Viareggio, cunoscută pentru arhitectura sa elegantă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.24098,
+                        43.869426
+                  ]
+            },
+            {
+                  "name": "Lecciona",
+                  "text": "O plajă cu nisip naturală și sălbatică lângă Viareggio, parte a unui parc protejat.",
+                  "category": "recreational",
+                  "coords": [
+                        10.247712,
+                        43.838529
+                  ]
+            },
+            {
+                  "name": "Bagno Narcisa",
+                  "text": "O stațiune balneară primitoare pe faleza din Viareggio, cu servicii bune.",
+                  "category": "recreational",
+                  "coords": [
+                        10.237978,
+                        43.874091
+                  ]
+            },
+            {
+                  "name": "Bagno Oceano",
+                  "text": "O stațiune balneară întinsă în Viareggio, cu vedere la Marea Tireniană.",
+                  "category": "recreational",
+                  "coords": [
+                        10.241801,
+                        43.865444
+                  ]
+            },
+            {
+                  "name": "Bagno Bengasi",
+                  "text": "Bagno Bengasi este o stațiune balneară din Viareggio, oferind facilități pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        10.238879,
+                        43.872599
+                  ]
+            },
+            {
+                  "name": "Bagno Rossella",
+                  "text": "Bagno Rossella este o stațiune balneară din Viareggio, oferind facilități pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244525,
+                        43.847771
+                  ]
+            },
+            {
+                  "name": "Bagno Arizona",
+                  "text": "Bagno Arizona este o stațiune balneară din Viareggio, oferind facilități pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244221,
+                        43.848724
+                  ]
+            },
+            {
+                  "name": "Bagno Aretusa",
+                  "text": "Bagno Aretusa este o stațiune balneară din Viareggio, oferind facilități pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        10.243465,
+                        43.849965
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera",
+                  "text": "Free beach este o plajă din Viareggio, cunoscută pentru peisajul său de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.239065,
+                        43.854852
+                  ]
             }
       ],
       "en": [
@@ -54484,6 +62158,87 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.241599,
                         43.853314
+                  ]
+            },
+            {
+                  "name": "Bagno Marco Polo",
+                  "text": "A historic beach resort in Viareggio known for its elegant architecture.",
+                  "category": "recreational",
+                  "coords": [
+                        10.24098,
+                        43.869426
+                  ]
+            },
+            {
+                  "name": "Lecciona",
+                  "text": "A natural and wild sandy beach near Viareggio, part of a protected park.",
+                  "category": "recreational",
+                  "coords": [
+                        10.247712,
+                        43.838529
+                  ]
+            },
+            {
+                  "name": "Bagno Narcisa",
+                  "text": "A welcoming beach resort on the Viareggio promenade with good service.",
+                  "category": "recreational",
+                  "coords": [
+                        10.237978,
+                        43.874091
+                  ]
+            },
+            {
+                  "name": "Bagno Oceano",
+                  "text": "A spacious beach resort in Viareggio with views of the Tyrrhenian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        10.241801,
+                        43.865444
+                  ]
+            },
+            {
+                  "name": "Bagno Bengasi",
+                  "text": "Bagno Bengasi is a beach resort in Viareggio offering facilities for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.238879,
+                        43.872599
+                  ]
+            },
+            {
+                  "name": "Bagno Rossella",
+                  "text": "Bagno Rossella is a beach resort in Viareggio offering facilities for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244525,
+                        43.847771
+                  ]
+            },
+            {
+                  "name": "Bagno Arizona",
+                  "text": "Bagno Arizona is a beach resort in Viareggio offering facilities for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.244221,
+                        43.848724
+                  ]
+            },
+            {
+                  "name": "Bagno Aretusa",
+                  "text": "Bagno Aretusa is a beach resort in Viareggio offering facilities for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.243465,
+                        43.849965
+                  ]
+            },
+            {
+                  "name": "Free beach",
+                  "text": "Free beach is a beach in Viareggio known for its coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        10.239065,
+                        43.854852
                   ]
             }
       ]

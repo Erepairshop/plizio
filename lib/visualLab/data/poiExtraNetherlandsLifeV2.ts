@@ -76,6 +76,33 @@ export const netherlandsLifeV2: POI[] = [
                         4.79038,
                         53.062653
                   ]
+            },
+            {
+                  "name": "Texel Zoo",
+                  "text": "Ein Zoo auf der Insel Texel mit Vögeln, Schmetterlingen und regionalen Tieren.",
+                  "category": "recreational",
+                  "coords": [
+                        4.857647,
+                        53.098598
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ein Kinderbauernhof in den Dünen von Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "Ein aktiver Schafbauernhof auf Texel, auf dem man lokale Rassen sehen kann.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
+                  ]
             }
       ],
       "hu": [
@@ -149,6 +176,33 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         4.79038,
                         53.062653
+                  ]
+            },
+            {
+                  "name": "Texel Zoo",
+                  "text": "Állatkert Texel szigetén, ahol madarakat, pillangókat és helyi állatokat mutatnak be.",
+                  "category": "recreational",
+                  "coords": [
+                        4.857647,
+                        53.098598
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Gyermek-állatsimogató a texeli dűnék között.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "Működő juhtenyészet Texelen, ahol helyi fajtákat láthatnak a látogatók.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
                   ]
             }
       ],
@@ -224,6 +278,33 @@ export const netherlandsLifeV2: POI[] = [
                         4.79038,
                         53.062653
                   ]
+            },
+            {
+                  "name": "Texel Zoo",
+                  "text": "O grădină zoologică pe insula Texel care prezintă păsări, fluturi și animale regionale.",
+                  "category": "recreational",
+                  "coords": [
+                        4.857647,
+                        53.098598
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "O fermă de animale pentru copii situată în dunele de pe Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "O fermă de oi activă pe Texel, unde vizitatorii pot vedea rase locale.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
+                  ]
             }
       ],
       "en": [
@@ -297,6 +378,33 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         4.79038,
                         53.062653
+                  ]
+            },
+            {
+                  "name": "Texel Zoo",
+                  "text": "A zoo on Texel island showcasing birds, butterflies, and regional animals.",
+                  "category": "recreational",
+                  "coords": [
+                        4.857647,
+                        53.098598
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "A children's petting farm located within the Texel dunes.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "A working sheep farm on Texel where visitors can see local breeds.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
                   ]
             }
       ]
@@ -1030,6 +1138,24 @@ export const netherlandsLifeV2: POI[] = [
                         6.888206,
                         52.810856
                   ]
+            },
+            {
+                  "name": "Pierenbadje Emmermeer",
+                  "text": "Ein kleines Planschbecken für Kinder im Stadtteil Emmermeer.",
+                  "category": "recreational",
+                  "coords": [
+                        6.889156,
+                        52.799984
+                  ]
+            },
+            {
+                  "name": "Wildlands Adventure Zoo Emmen",
+                  "text": "Ein moderner Themenpark und Zoo in Emmen, der in verschiedene Klimazonen unterteilt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        6.886874,
+                        52.780506
+                  ]
             }
       ],
       "hu": [
@@ -1103,6 +1229,24 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         6.888206,
                         52.810856
+                  ]
+            },
+            {
+                  "name": "Pierenbadje Emmermeer",
+                  "text": "Kisméretű gyermekpancsoló Emmermeer negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.889156,
+                        52.799984
+                  ]
+            },
+            {
+                  "name": "Wildlands Adventure Zoo Emmen",
+                  "text": "Modern élménypark és állatkert Emmenben, amely különböző éghajlati zónákra oszlik.",
+                  "category": "recreational",
+                  "coords": [
+                        6.886874,
+                        52.780506
                   ]
             }
       ],
@@ -1178,6 +1322,24 @@ export const netherlandsLifeV2: POI[] = [
                         6.888206,
                         52.810856
                   ]
+            },
+            {
+                  "name": "Pierenbadje Emmermeer",
+                  "text": "O mică piscină pentru copii situată în cartierul Emmermeer.",
+                  "category": "recreational",
+                  "coords": [
+                        6.889156,
+                        52.799984
+                  ]
+            },
+            {
+                  "name": "Wildlands Adventure Zoo Emmen",
+                  "text": "Un parc tematic și o grădină zoologică modernă în Emmen, împărțită în diferite zone climatice.",
+                  "category": "recreational",
+                  "coords": [
+                        6.886874,
+                        52.780506
+                  ]
             }
       ],
       "en": [
@@ -1251,6 +1413,24 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         6.888206,
                         52.810856
+                  ]
+            },
+            {
+                  "name": "Pierenbadje Emmermeer",
+                  "text": "A small paddling pool for children located in the Emmermeer district.",
+                  "category": "recreational",
+                  "coords": [
+                        6.889156,
+                        52.799984
+                  ]
+            },
+            {
+                  "name": "Wildlands Adventure Zoo Emmen",
+                  "text": "A modern theme park and zoo in Emmen, divided into different climate zones.",
+                  "category": "recreational",
+                  "coords": [
+                        6.886874,
+                        52.780506
                   ]
             }
       ]
@@ -1498,6 +1678,33 @@ export const netherlandsLifeV2: POI[] = [
                         5.396467,
                         52.258497
                   ]
+            },
+            {
+                  "name": "Laakse Strand Naturisten",
+                  "text": "Ein FKK-Strand im Arkemheen-Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.425582,
+                        52.255193
+                  ]
+            },
+            {
+                  "name": "Wildwaterbaan",
+                  "text": "Ein Erlebnisbecken mit Wildwasserbahn im Arkemheen-Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.40213,
+                        52.260034
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "Ein spezielles Kinderbecken im Arkemheen-Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
+                  ]
             }
       ],
       "hu": [
@@ -1562,6 +1769,33 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         5.396467,
                         52.258497
+                  ]
+            },
+            {
+                  "name": "Laakse Strand Naturisten",
+                  "text": "Naturista strand az Arkemheen-polder területén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.425582,
+                        52.255193
+                  ]
+            },
+            {
+                  "name": "Wildwaterbaan",
+                  "text": "Élménymedence vadvízi csúszdával az Arkemheen-polderben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.40213,
+                        52.260034
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "Speciális gyermekmedence az Arkemheen-polderben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
                   ]
             }
       ],
@@ -1628,6 +1862,33 @@ export const netherlandsLifeV2: POI[] = [
                         5.396467,
                         52.258497
                   ]
+            },
+            {
+                  "name": "Laakse Strand Naturisten",
+                  "text": "O plajă pentru naturiști în polderul Arkemheen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.425582,
+                        52.255193
+                  ]
+            },
+            {
+                  "name": "Wildwaterbaan",
+                  "text": "O piscină cu tobogan de apă în polderul Arkemheen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.40213,
+                        52.260034
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "O piscină specială pentru copii în polderul Arkemheen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
+                  ]
             }
       ],
       "en": [
@@ -1692,6 +1953,33 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         5.396467,
                         52.258497
+                  ]
+            },
+            {
+                  "name": "Laakse Strand Naturisten",
+                  "text": "A naturist swimming beach located in the Arkemheen Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.425582,
+                        52.255193
+                  ]
+            },
+            {
+                  "name": "Wildwaterbaan",
+                  "text": "A swimming pool with a wild water slide in the Arkemheen Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.40213,
+                        52.260034
+                  ]
+            },
+            {
+                  "name": "Kinderbad",
+                  "text": "A dedicated children's swimming pool in the Arkemheen Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.4381,
+                        52.274066
                   ]
             }
       ]
@@ -2731,6 +3019,15 @@ export const netherlandsLifeV2: POI[] = [
                         5.960877,
                         52.75863
                   ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Ein kleiner Zoo mit Fokus auf heimische und wasserliebende Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
+                  ]
             }
       ],
       "hu": [
@@ -2759,6 +3056,15 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         5.960877,
                         52.75863
+                  ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "Kisebb állatkert, amely a hazai és vízkedvelő fajokra összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
                   ]
             }
       ],
@@ -2789,6 +3095,15 @@ export const netherlandsLifeV2: POI[] = [
                         5.960877,
                         52.75863
                   ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "O grădină zoologică mică, axată pe specii autohtone și iubitoare de apă.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
+                  ]
             }
       ],
       "en": [
@@ -2817,6 +3132,15 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         5.960877,
                         52.75863
+                  ]
+            },
+            {
+                  "name": "Meerzoo",
+                  "text": "A small zoo focusing on native and water-loving animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        5.90756,
+                        52.718861
                   ]
             }
       ]
@@ -2938,6 +3262,15 @@ export const netherlandsLifeV2: POI[] = [
                         6.373396,
                         52.781535
                   ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "Ein beheiztes Freibad am Rande des Nationalparks Dwingelderveld.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
+                  ]
             }
       ],
       "hu": [
@@ -3011,6 +3344,15 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         6.373396,
                         52.781535
+                  ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "Fűtött szabadtéri strand a Dwingelderveld Nemzeti Park szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
                   ]
             }
       ],
@@ -3086,6 +3428,15 @@ export const netherlandsLifeV2: POI[] = [
                         6.373396,
                         52.781535
                   ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "O piscină în aer liber încălzită, la marginea Parcului Național Dwingelderveld.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
+                  ]
             }
       ],
       "en": [
@@ -3159,6 +3510,15 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         6.373396,
                         52.781535
+                  ]
+            },
+            {
+                  "name": "Zwembad Ruinen",
+                  "text": "A heated outdoor swimming pool at the edge of Dwingelderveld National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        6.368294,
+                        52.773744
                   ]
             }
       ]
@@ -3280,6 +3640,51 @@ export const netherlandsLifeV2: POI[] = [
                         6.588013,
                         53.200785
                   ]
+            },
+            {
+                  "name": "Hoornse Plas Naaktstrand",
+                  "text": "Ein FKK-Strand am Hoornse Plas in der Nähe des Hortus Haren.",
+                  "category": "recreational",
+                  "coords": [
+                        6.55244,
+                        53.175341
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Ein Wildgehege in der Nähe des Hortus Haren, in dem man Hirsche beobachten kann.",
+                  "category": "recreational",
+                  "coords": [
+                        6.614738,
+                        53.169707
+                  ]
+            },
+            {
+                  "name": "Papiermolen",
+                  "text": "Ein Schwimmbad beim Hortus Haren, das Raum für sportliche Betätigung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.569668,
+                        53.203153
+                  ]
+            },
+            {
+                  "name": "5R",
+                  "text": "Ein Schwimmbecken in der Umgebung des Hortus Haren.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58461,
+                        53.132106
+                  ]
+            },
+            {
+                  "name": "Zwembad Lemferdinge",
+                  "text": "Ein Wasserpark in der Nähe des Hortus Haren mit verschiedenen Freizeitbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        6.573213,
+                        53.146042
+                  ]
             }
       ],
       "hu": [
@@ -3353,6 +3758,51 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         6.588013,
                         53.200785
+                  ]
+            },
+            {
+                  "name": "Hoornse Plas Naaktstrand",
+                  "text": "Naturista strand a Hoornse Plas tónál, a Hortus Haren közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.55244,
+                        53.175341
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Szarvaspark a Hortus Haren közelében, ahol vadon élő állatok láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        6.614738,
+                        53.169707
+                  ]
+            },
+            {
+                  "name": "Papiermolen",
+                  "text": "Úszómedence a Hortus Haren közelében, sportolási lehetőséget biztosítva.",
+                  "category": "recreational",
+                  "coords": [
+                        6.569668,
+                        53.203153
+                  ]
+            },
+            {
+                  "name": "5R",
+                  "text": "Úszómedence a Hortus Haren környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58461,
+                        53.132106
+                  ]
+            },
+            {
+                  "name": "Zwembad Lemferdinge",
+                  "text": "Vízi park a Hortus Haren közelében, különféle szabadidős medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.573213,
+                        53.146042
                   ]
             }
       ],
@@ -3428,6 +3878,51 @@ export const netherlandsLifeV2: POI[] = [
                         6.588013,
                         53.200785
                   ]
+            },
+            {
+                  "name": "Hoornse Plas Naaktstrand",
+                  "text": "O plajă de nudiști la Hoornse Plas, în apropiere de Hortus Haren.",
+                  "category": "recreational",
+                  "coords": [
+                        6.55244,
+                        53.175341
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Un parc de căprioare lângă Hortus Haren, unde pot fi observate animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        6.614738,
+                        53.169707
+                  ]
+            },
+            {
+                  "name": "Papiermolen",
+                  "text": "O piscină lângă Hortus Haren, oferind spațiu pentru activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        6.569668,
+                        53.203153
+                  ]
+            },
+            {
+                  "name": "5R",
+                  "text": "O piscină situată în zona Hortus Haren.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58461,
+                        53.132106
+                  ]
+            },
+            {
+                  "name": "Zwembad Lemferdinge",
+                  "text": "Un parc acvatic lângă Hortus Haren, cu diverse bazine de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        6.573213,
+                        53.146042
+                  ]
             }
       ],
       "en": [
@@ -3501,6 +3996,51 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         6.588013,
                         53.200785
+                  ]
+            },
+            {
+                  "name": "Hoornse Plas Naaktstrand",
+                  "text": "A nudist beach at Hoornse Plas, located in the vicinity of Hortus Haren.",
+                  "category": "recreational",
+                  "coords": [
+                        6.55244,
+                        53.175341
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "A deer park near Hortus Haren, where visitors can observe wildlife in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        6.614738,
+                        53.169707
+                  ]
+            },
+            {
+                  "name": "Papiermolen",
+                  "text": "A swimming pool near Hortus Haren, providing facilities for aquatic exercise.",
+                  "category": "recreational",
+                  "coords": [
+                        6.569668,
+                        53.203153
+                  ]
+            },
+            {
+                  "name": "5R",
+                  "text": "A swimming pool located in the area of Hortus Haren.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58461,
+                        53.132106
+                  ]
+            },
+            {
+                  "name": "Zwembad Lemferdinge",
+                  "text": "A water park near Hortus Haren, featuring various recreational pools and facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        6.573213,
+                        53.146042
                   ]
             }
       ]

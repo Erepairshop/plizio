@@ -325,7 +325,196 @@ imageHint: "Potemkin Stairs Odesa looking down towards the sea",
     },
     image: "/poi-images/ukraine-potemkin-stairs-landmarks-v2.webp",
 },  {
-    id: "ukraine-odesa-opera-theater-landmarks-v2",
+    id: "ukraine-odesa-opera-theater-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "True Man Hot Boat",
+                  "text": "Ein Strandresort in Odessa, das Erholung und Freizeitmöglichkeiten am Schwarzen Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        30.768469,
+                        46.454994
+                  ]
+            },
+            {
+                  "name": "Violet beach club",
+                  "text": "Ein moderner Beach Club in Odessa, der für seine entspannte Atmosphäre an der Küste bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763974,
+                        46.470325
+                  ]
+            },
+            {
+                  "name": "Ланжерон",
+                  "text": "Lanzheron ist einer der ältesten und bekanntesten Stadtstrände in Odessa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.765221,
+                        46.474734
+                  ]
+            },
+            {
+                  "name": "Собачий пляж",
+                  "text": "Ein speziell ausgewiesener Strandabschnitt in Odessa, der für Besucher mit Hunden geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        30.766852,
+                        46.457926
+                  ]
+            },
+            {
+                  "name": "Відрада",
+                  "text": "Ein bekannter Strand in Odessa, der für seine Seilbahnverbindung zur Küste charakteristisch ist.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763059,
+                        46.467259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "True Man Hot Boat",
+                  "text": "Tengerparti üdülőhely Odesszában, amely kikapcsolódást és szabadidős lehetőségeket kínál a Fekete-tengernél.",
+                  "category": "recreational",
+                  "coords": [
+                        30.768469,
+                        46.454994
+                  ]
+            },
+            {
+                  "name": "Violet beach club",
+                  "text": "Modern tengerparti klub Odesszában, amely a tengerparti pihenésről és hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763974,
+                        46.470325
+                  ]
+            },
+            {
+                  "name": "Ланжерон",
+                  "text": "A Lanzheron Odessza egyik legrégebbi és legismertebb városi strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        30.765221,
+                        46.474734
+                  ]
+            },
+            {
+                  "name": "Собачий пляж",
+                  "text": "Kifejezetten kutyás látogatók számára kijelölt tengerparti szakasz Odesszában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.766852,
+                        46.457926
+                  ]
+            },
+            {
+                  "name": "Відрада",
+                  "text": "Ismert strand Odesszában, amelynek jellegzetessége a tengerpartra vezető felvonó.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763059,
+                        46.467259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "True Man Hot Boat",
+                  "text": "O stațiune de plajă din Odesa care oferă relaxare și facilități de recreere la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        30.768469,
+                        46.454994
+                  ]
+            },
+            {
+                  "name": "Violet beach club",
+                  "text": "Un club de plajă modern din Odesa, cunoscut pentru atmosfera sa relaxată de la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763974,
+                        46.470325
+                  ]
+            },
+            {
+                  "name": "Ланжерон",
+                  "text": "Lanzheron este una dintre cele mai vechi și mai cunoscute plaje urbane din Odesa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.765221,
+                        46.474734
+                  ]
+            },
+            {
+                  "name": "Собачий пляж",
+                  "text": "O secțiune de plajă special desemnată în Odesa, potrivită pentru vizitatorii cu câini.",
+                  "category": "recreational",
+                  "coords": [
+                        30.766852,
+                        46.457926
+                  ]
+            },
+            {
+                  "name": "Відрада",
+                  "text": "O plajă cunoscută din Odesa, caracterizată prin legătura sa cu telecabina către țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763059,
+                        46.467259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "True Man Hot Boat",
+                  "text": "A beach resort in Odesa offering relaxation and leisure facilities by the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        30.768469,
+                        46.454994
+                  ]
+            },
+            {
+                  "name": "Violet beach club",
+                  "text": "A modern beach club in Odesa known for its relaxed seaside atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763974,
+                        46.470325
+                  ]
+            },
+            {
+                  "name": "Lanzheron Beach",
+                  "text": "Lanzheron is one of the oldest and most famous city beaches in Odesa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.765221,
+                        46.474734
+                  ]
+            },
+            {
+                  "name": "Dog Beach",
+                  "text": "A specifically designated beach section in Odesa suitable for visitors with dogs.",
+                  "category": "recreational",
+                  "coords": [
+                        30.766852,
+                        46.457926
+                  ]
+            },
+            {
+                  "name": "Otrada",
+                  "text": "A well-known beach in Odesa characterized by its cable car connection to the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        30.763059,
+                        46.467259
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "theater",
     name: { de: "Opernhaus Odesa", hu: "Odesszai Operaház", ro: "Opera din Odesa", en: "Odesa Opera and Ballet Theater"},
@@ -601,7 +790,52 @@ imageHint: "Dominican Cathedral Lviv Baroque facade and green dome",
     },
     image: "/poi-images/ukraine-dominican-cathedral-lviv-landmarks-v2.webp",
 },  {
-    id: "ukraine-shenborn-palace-landmarks-v2",
+    id: "ukraine-shenborn-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zagin z sarnami",
+                  "text": "Ein Wildgehege mit Rehen in der Nähe des Schlosses Shenborn.",
+                  "category": "recreational",
+                  "coords": [
+                        22.871689,
+                        48.526151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zagin z sarnami",
+                  "text": "Őzkerítés és vadaspark a Shenborn-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.871689,
+                        48.526151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zagin z sarnami",
+                  "text": "Un țarc cu căprioare situat în apropierea Palatului Shenborn.",
+                  "category": "recreational",
+                  "coords": [
+                        22.871689,
+                        48.526151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zagin z sarnami",
+                  "text": "A deer enclosure and wildlife area located near the Shenborn Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        22.871689,
+                        48.526151
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "palace",
     name: { de: "Schloss Schönborn", hu: "Schönborn-kastély", ro: "Palatul Schonborn", en: "Shenborn Palace"},

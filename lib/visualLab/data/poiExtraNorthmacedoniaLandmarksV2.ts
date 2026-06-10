@@ -76,6 +76,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Ein Dinosaurier-Themenpark nahe der Sultan-Murat-Moschee.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Ein olympisches Schwimmbecken in der Nähe der Sultan-Murat-Moschee.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Ein Wasserpark mit Freizeitanlagen nahe der Sultan-Murat-Moschee.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Eine öffentliche Schwimmanlage in der Umgebung der Sultan-Murat-Moschee.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "hu": [
@@ -149,6 +185,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Dinoszaurusz-park a Szultán Murát-mecset közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olimpiai úszómedence a Szultán Murát-mecset közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Vízipark szabadidős létesítményekkel a Szultán Murát-mecset közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Nyilvános úszólétesítmény a Szultán Murát-mecset környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ],
@@ -224,6 +296,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Un parc cu tematică de dinozauri lângă Moscheea Sultan Murat.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "O piscină olimpică în apropierea Moscheii Sultan Murat.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Un parc acvatic cu facilități de recreere lângă Moscheea Sultan Murat.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "O facilitate de înot publică situată în vecinătatea Moscheii Sultan Murat.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "en": [
@@ -297,6 +405,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "A dinosaur theme park near the Sultan Murat Mosque.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "An Olympic swimming pool near the Sultan Murat Mosque.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A water park with recreational facilities near the Sultan Murat Mosque.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "A public swimming facility located in the vicinity of the Sultan Murat Mosque.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ]
@@ -670,6 +814,24 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.714727,
                         42.137461
                   ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Ein Schwimmbad in Kumanovo in der Nähe des Partisanen-Denkmals.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Das städtische Schwimmbad von Kumanovo für Sport und Freizeitgestaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
             }
       ],
       "hu": [
@@ -689,6 +851,24 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.714727,
                         42.137461
+                  ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "Kumanovói úszómedence a Partizán-emlékmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Kumanovo city úszómedencéje sportoláshoz és szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
                   ]
             }
       ],
@@ -710,6 +890,24 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.714727,
                         42.137461
                   ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "O piscină în Kumanovo, situată lângă Monumentul Partizanilor.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Piscina municipală din Kumanovo pentru sport și activități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
+                  ]
             }
       ],
       "en": [
@@ -729,6 +927,24 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.714727,
                         42.137461
+                  ]
+            },
+            {
+                  "name": "Bazen FZTs",
+                  "text": "A swimming pool in Kumanovo located near the Monument of the Partisans.",
+                  "category": "recreational",
+                  "coords": [
+                        21.742363,
+                        42.121252
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "The municipal swimming pool of Kumanovo for sports and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726818,
+                        42.131642
                   ]
             }
       ]
@@ -850,6 +1066,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Ein Freizeit-Wasserpark und olympisches Schwimmbecken in der Stadt Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "hu": [
@@ -923,6 +1148,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Szabadidős vízi park és olimpiai medence Bitola városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ],
@@ -998,6 +1232,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Un parc acvatic recreativ și piscină olimpică situată în Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "en": [
@@ -1071,6 +1314,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "A recreational water park and Olympic pool situated in Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ]
@@ -1237,6 +1489,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Olympisches Schwimmbad und Wasserpark in der Nähe des Uhrturms von Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "hu": [
@@ -1310,6 +1571,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Olimpiai méretű vízipark és úszómedence a bitolai óratorony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ],
@@ -1385,6 +1655,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.341526,
                         41.006774
                   ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Parc acvatic și piscină olimpică lângă Turnul cu Ceas din Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
+                  ]
             }
       ],
       "en": [
@@ -1458,6 +1737,15 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.341526,
                         41.006774
+                  ]
+            },
+            {
+                  "name": "Olimpiski Bazen",
+                  "text": "Olympic-sized water park and swimming facility near the Clock Tower of Bitola.",
+                  "category": "recreational",
+                  "coords": [
+                        21.339929,
+                        41.017441
                   ]
             }
       ]
@@ -1624,6 +1912,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Ein Dinosaurierpark beim historischen Kurshumli An in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Ein olympisches Schwimmbad im Viertel des Kurshumli An.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Ein Wasserpark in der Umgebung der Karawanserei Kurshumli An.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Ein Schwimmbad in der Nähe des historischen Kurshumli An in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "hu": [
@@ -1697,6 +2021,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Dinoszaurusz-park a történelmi Kursumli An mellett Szkopjéban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olimpiai uszoda a Kursumli An környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Vízipark a Kursumli An karavánszeráj környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Úszómedence a történelmi Kurshumli An közelében Szkopjéban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ],
@@ -1772,6 +2132,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Un parc cu dinozauri lângă istoricul Kurshumli An din Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "O piscină olimpică în zona Kurshumli An.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Un parc acvatic în împrejurimile caravanseraiului Kurshumli An.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "O piscină situată lângă istoricul Kurshumli An din Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "en": [
@@ -1845,6 +2241,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "A dinosaur park by the historic Kurshumli An in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "An Olympic swimming pool in the Kurshumli An area.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A water park in the surroundings of the Kurshumli An caravanserai.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "A swimming pool located near the historic Kurshumli An in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ]
@@ -2011,6 +2443,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.382266,
                         41.963883
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Ein Dinosaurier-Themenpark in der Nähe der historischen Panteleimon-Kirche.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Мал базен",
+                  "text": "Ein kleines Schwimmbecken für Besucher in der Nähe von Gorno Nerezi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341216,
+                        41.999334
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Ein olympisches Schwimmbad in der Umgebung der Kirche des Heiligen Panteleimon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Ein Wasserpark mit Freizeitanlagen nahe der byzantinischen Kirche in Nerezi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
             }
       ],
       "hu": [
@@ -2084,6 +2552,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.382266,
                         41.963883
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Dinoszaurusz-tematikus park a történelmi Szent Panteleimon-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Мал базен",
+                  "text": "Kisméretű úszómedence a látogatók számára Gorno Nerezi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341216,
+                        41.999334
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olimpiai úszómedence a Szent Panteleimon-templom környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Aquapark szabadidős létesítményekkel a nerezi bizánci templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
                   ]
             }
       ],
@@ -2159,6 +2663,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.382266,
                         41.963883
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Un parc tematic cu dinozauri situat în apropierea bisericii istorice Sfântul Panteleimon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Мал базен",
+                  "text": "O piscină mică pentru vizitatori în apropiere de Gorno Nerezi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341216,
+                        41.999334
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "O piscină olimpică situată în împrejurimile bisericii Sfântul Panteleimon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Un parc acvatic cu facilități de agrement lângă biserica bizantină din Nerezi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
             }
       ],
       "en": [
@@ -2232,6 +2772,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.382266,
                         41.963883
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "A dinosaur-themed park located near the historic Saint Panteleimon Church.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Small pool",
+                  "text": "A small swimming pool for visitors near Gorno Nerezi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341216,
+                        41.999334
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "An Olympic swimming pool located in the surroundings of the Saint Panteleimon Church.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A water park with leisure facilities near the Byzantine church in Nerezi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
                   ]
             }
       ]
@@ -2443,6 +3019,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Der Dinosaur Park Skopje ist ein Themenpark beim Karpos-Denkmal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olympic swimming pool - Centar ist ein Schwimmbad beim Karpos-Denkmal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Aquapark ist ein Wasserpark beim Karpos-Denkmal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Ein bekanntes Schwimmbad in Skopje im Stadtteil Karpoš für Wassersport.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "hu": [
@@ -2516,6 +3128,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "A Dinosaur Park Skopje egy tematikus park a Karpos-emlékműnél.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Az Olympic swimming pool - Centar egy uszoda a Karpos-emlékműnél.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Az Aquapark egy vízi park a Karpos-emlékműnél.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "Ismert szkopjei úszómedence a Karpoš negyedben vízi sportokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ],
@@ -2591,6 +3239,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.435724,
                         41.998724
                   ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Dinosaur Park Skopje este un parc tematic situat lângă Monumentul Karpos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Олимписки базен - Центар",
+                  "text": "Olympic swimming pool - Centar este o piscină situată lângă Monumentul Karpos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Аквапарк",
+                  "text": "Aquapark este un parc acvatic situat lângă Monumentul Karpos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "O piscină cunoscută din Skopje, în cartierul Karpoș, pentru sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
+                  ]
             }
       ],
       "en": [
@@ -2664,6 +3348,42 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.435724,
                         41.998724
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "Dinosaur Park Skopje is a theme park located near the Karpos Monument in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Olympic swimming pool - Centar",
+                  "text": "Olympic swimming pool - Centar is a swimming pool located near the Karpos Monument in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.439118,
+                        41.99121
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Aquapark is a water park located near the Karpos Monument in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.40435,
+                        42.011038
+                  ]
+            },
+            {
+                  "name": "Bazen Karposh",
+                  "text": "A well-known swimming pool in Skopje in the Karpoš district for water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        21.405362,
+                        42.009045
                   ]
             }
       ]

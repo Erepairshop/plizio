@@ -1723,6 +1723,15 @@ export const austriaNatureV2: POI[] = [
                         14.941839,
                         47.65613
                   ]
+            },
+            {
+                  "name": "Waldsauna",
+                  "text": "Eine Wellness- und Badeanlage in einem Waldgebiet an der Salza.",
+                  "category": "recreational",
+                  "coords": [
+                        14.986203,
+                        47.6524
+                  ]
             }
       ],
       "hu": [
@@ -1796,6 +1805,15 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         14.941839,
                         47.65613
+                  ]
+            },
+            {
+                  "name": "Waldsauna",
+                  "text": "Wellness- és fürdőhely a Salza folyó menti festői erdős területen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.986203,
+                        47.6524
                   ]
             }
       ],
@@ -1871,6 +1889,15 @@ export const austriaNatureV2: POI[] = [
                         14.941839,
                         47.65613
                   ]
+            },
+            {
+                  "name": "Waldsauna",
+                  "text": "O unitate de wellness și înot situată în zona forestieră pitorească de lângă râul Salza.",
+                  "category": "recreational",
+                  "coords": [
+                        14.986203,
+                        47.6524
+                  ]
             }
       ],
       "en": [
@@ -1944,6 +1971,15 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         14.941839,
                         47.65613
+                  ]
+            },
+            {
+                  "name": "Waldsauna",
+                  "text": "A wellness and swimming facility located in the scenic forest area near the Salza River.",
+                  "category": "recreational",
+                  "coords": [
+                        14.986203,
+                        47.6524
                   ]
             }
       ]
@@ -2110,6 +2146,15 @@ export const austriaNatureV2: POI[] = [
                         12.308277,
                         47.582034
                   ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "Ein Schwimmbad in der malerischen Bergwelt des Wilden Kaisers.",
+                  "category": "recreational",
+                  "coords": [
+                        12.277641,
+                        47.580152
+                  ]
             }
       ],
       "hu": [
@@ -2183,6 +2228,15 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         12.308277,
                         47.582034
+                  ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "Úszómedence a festői Wilder Kaiser-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.277641,
+                        47.580152
                   ]
             }
       ],
@@ -2258,6 +2312,15 @@ export const austriaNatureV2: POI[] = [
                         12.308277,
                         47.582034
                   ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "O piscină situată în pitoreștii munți Wilder Kaiser.",
+                  "category": "recreational",
+                  "coords": [
+                        12.277641,
+                        47.580152
+                  ]
             }
       ],
       "en": [
@@ -2331,6 +2394,15 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         12.308277,
                         47.582034
+                  ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "A swimming pool situated in the scenic Wilder Kaiser Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        12.277641,
+                        47.580152
                   ]
             }
       ]
@@ -2452,6 +2524,42 @@ export const austriaNatureV2: POI[] = [
                         10.762185,
                         47.467776
                   ]
+            },
+            {
+                  "name": "Sport- und Freizeitpark Bichlbach",
+                  "text": "Dieser Freizeitpark am Tiroler Lech bietet verschiedene Outdoor-Aktivitäten und Attraktionen für aktive Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        10.786679,
+                        47.418897
+                  ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "Das Bärenbad ist ein Wasserpark in der Region des Tiroler Lech, der Erfrischung und Wasserspaß in alpiner Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.749437,
+                        47.413382
+                  ]
+            },
+            {
+                  "name": "Alpentherme",
+                  "text": "Die Alpentherme am Tiroler Lech bietet Entspannung in Thermalbecken und verschiedene Wellness-Angebote.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726862,
+                        47.483298
+                  ]
+            },
+            {
+                  "name": "Tier und Spielpark Bichlbach",
+                  "text": "Der Tier- und Spielpark Bichlbach am Tiroler Lech vereint einen Streichelzoo mit abwechslungsreichen Spielmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.796297,
+                        47.421028
+                  ]
             }
       ],
       "hu": [
@@ -2525,6 +2633,42 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         10.762185,
                         47.467776
+                  ]
+            },
+            {
+                  "name": "Sport- und Freizeitpark Bichlbach",
+                  "text": "Ez a tiroli Lech-folyó menti szabadidőpark különféle szabadtéri tevékenységeket és attrakciókat kínál az aktív látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        10.786679,
+                        47.418897
+                  ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "A Bärenbad egy vízipark a tiroli Lech régiójában, amely felfrissülést és vízi szórakozást kínál alpesi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.749437,
+                        47.413382
+                  ]
+            },
+            {
+                  "name": "Alpentherme",
+                  "text": "A tiroli Lech-folyónál található Alpentherme termálmedencés kikapcsolódást és különféle wellness-szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726862,
+                        47.483298
+                  ]
+            },
+            {
+                  "name": "Tier und Spielpark Bichlbach",
+                  "text": "A tiroli Lech-folyó menti Bichlbach Állat- és Játékpark állatsimogatót és változatos játéklehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.796297,
+                        47.421028
                   ]
             }
       ],
@@ -2600,6 +2744,42 @@ export const austriaNatureV2: POI[] = [
                         10.762185,
                         47.467776
                   ]
+            },
+            {
+                  "name": "Sport- und Freizeitpark Bichlbach",
+                  "text": "Acest parc de agrement de pe râul Lech din Tirol oferă diverse activități în aer liber și atracții pentru vizitatorii activi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.786679,
+                        47.418897
+                  ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "Bärenbad este un parc acvatic în regiunea râului Lech din Tirol, oferind răcorire și distracție acvatică într-un cadru alpin.",
+                  "category": "recreational",
+                  "coords": [
+                        10.749437,
+                        47.413382
+                  ]
+            },
+            {
+                  "name": "Alpentherme",
+                  "text": "Alpentherme de pe râul Lech din Tirol oferă relaxare în bazine termale și diverse servicii de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726862,
+                        47.483298
+                  ]
+            },
+            {
+                  "name": "Tier und Spielpark Bichlbach",
+                  "text": "Parcul zoologic și de joacă Bichlbach de pe râul Lech din Tirol îmbină o grădină zoologică cu mângâiere cu diverse opțiuni de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.796297,
+                        47.421028
+                  ]
             }
       ],
       "en": [
@@ -2673,6 +2853,42 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         10.762185,
                         47.467776
+                  ]
+            },
+            {
+                  "name": "Sport- und Freizeitpark Bichlbach",
+                  "text": "This theme park along the Tyrolean Lech River offers various outdoor activities and attractions for active visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        10.786679,
+                        47.418897
+                  ]
+            },
+            {
+                  "name": "Bärenbad",
+                  "text": "Bärenbad is a water park in the Tyrolean Lech region, offering refreshment and water fun in an alpine setting.",
+                  "category": "recreational",
+                  "coords": [
+                        10.749437,
+                        47.413382
+                  ]
+            },
+            {
+                  "name": "Alpentherme",
+                  "text": "Alpentherme along the Tyrolean Lech River offers relaxation in thermal pools and various wellness services.",
+                  "category": "recreational",
+                  "coords": [
+                        10.726862,
+                        47.483298
+                  ]
+            },
+            {
+                  "name": "Tier und Spielpark Bichlbach",
+                  "text": "The Tier und Spielpark Bichlbach along the Tyrolean Lech River combines a petting zoo with diverse play options.",
+                  "category": "recreational",
+                  "coords": [
+                        10.796297,
+                        47.421028
                   ]
             }
       ]

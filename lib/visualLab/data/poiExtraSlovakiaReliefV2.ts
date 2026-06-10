@@ -2361,6 +2361,15 @@ imageHint: "Zahorska Lowland pine forest",
                         17.844338,
                         48.926077
                   ]
+            },
+            {
+                  "name": "Javorec",
+                  "text": "Javorec ist ein natürlicher Badebereich in den Weißen Karpaten, der Erfrischung in einer malerischen Berglandschaft bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.900183,
+                        48.976769
+                  ]
             }
       ],
       "hu": [
@@ -2434,6 +2443,15 @@ imageHint: "Zahorska Lowland pine forest",
                   "coords": [
                         17.844338,
                         48.926077
+                  ]
+            },
+            {
+                  "name": "Javorec",
+                  "text": "Javorec egy természetes fürdőhely a Fehér-Kárpátokban, amely felfrissülést kínál a festői hegyi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.900183,
+                        48.976769
                   ]
             }
       ],
@@ -2509,6 +2527,15 @@ imageHint: "Zahorska Lowland pine forest",
                         17.844338,
                         48.926077
                   ]
+            },
+            {
+                  "name": "Javorec",
+                  "text": "Javorec este o zonă de scăldat naturală în Carpații Albi, oferind răcorire într-un peisaj montan pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        17.900183,
+                        48.976769
+                  ]
             }
       ],
       "en": [
@@ -2582,6 +2609,15 @@ imageHint: "Zahorska Lowland pine forest",
                   "coords": [
                         17.844338,
                         48.926077
+                  ]
+            },
+            {
+                  "name": "Javorec",
+                  "text": "Javorec is a natural swimming area in the White Carpathians, offering refreshment in a scenic mountain landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        17.900183,
+                        48.976769
                   ]
             }
       ]

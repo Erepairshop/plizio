@@ -121,6 +121,24 @@ export const denmarkEconomicV2: POI[] = [
                         9.810177,
                         55.041097
                   ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Ein subtropischer Wasserpark in Nordborg mit verschiedenen Rutschen und Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        9.821087,
+                        55.04524
+                  ]
+            },
+            {
+                  "name": "Besøgsgården",
+                  "text": "Ein Streichelzoo in Nordborg, wo Kinder Nutztieren nahe kommen können.",
+                  "category": "landmark",
+                  "coords": [
+                        9.823455,
+                        55.047466
+                  ]
             }
       ],
       "hu": [
@@ -194,6 +212,24 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         9.810177,
                         55.041097
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Szubtrópusi vízi park Nordborgban, különféle csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.821087,
+                        55.04524
+                  ]
+            },
+            {
+                  "name": "Besøgsgården",
+                  "text": "Állatsimogató Nordborgban, ahol a gyerekek közel kerülhetnek a háztáji állatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.823455,
+                        55.047466
                   ]
             }
       ],
@@ -269,6 +305,24 @@ export const denmarkEconomicV2: POI[] = [
                         9.810177,
                         55.041097
                   ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Un parc acvatic subtropical în Nordborg, cu diverse tobogane și bazine.",
+                  "category": "recreational",
+                  "coords": [
+                        9.821087,
+                        55.04524
+                  ]
+            },
+            {
+                  "name": "Besøgsgården",
+                  "text": "O fermă educațională în Nordborg, unde copiii pot interacționa cu animalele domestice.",
+                  "category": "landmark",
+                  "coords": [
+                        9.823455,
+                        55.047466
+                  ]
             }
       ],
       "en": [
@@ -342,6 +396,24 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         9.810177,
                         55.041097
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "A subtropical water park in Nordborg featuring various slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        9.821087,
+                        55.04524
+                  ]
+            },
+            {
+                  "name": "Kids Farm",
+                  "text": "A petting zoo in Nordborg where children can get close to farm animals.",
+                  "category": "landmark",
+                  "coords": [
+                        9.823455,
+                        55.047466
                   ]
             }
       ]
@@ -940,6 +1012,15 @@ export const denmarkEconomicV2: POI[] = [
                         9.142637,
                         55.718172
                   ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Ein großer Indoor-Wasserpark und Resort in der Nähe des Flughafens Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "hu": [
@@ -1004,6 +1085,15 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         9.142637,
                         55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Nagy fedett vízi park és üdülőhely Billund repülőterének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ],
@@ -1070,6 +1160,15 @@ export const denmarkEconomicV2: POI[] = [
                         9.142637,
                         55.718172
                   ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Un mare parc acvatic interior și o stațiune situată convenabil lângă Aeroportul Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "en": [
@@ -1134,6 +1233,15 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         9.142637,
                         55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "A large indoor water park and resort located conveniently near Billund Airport.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ]
@@ -4225,6 +4333,15 @@ export const denmarkEconomicV2: POI[] = [
                         11.651602,
                         55.864042
                   ]
+            },
+            {
+                  "name": "Sommerland Sjælland",
+                  "text": "Ein familienfreundlicher Freizeitpark in Odsherred mit Wasserpark und zahlreichen Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.605402,
+                        55.896506
+                  ]
             }
       ],
       "hu": [
@@ -4289,6 +4406,15 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         11.651602,
                         55.864042
+                  ]
+            },
+            {
+                  "name": "Sommerland Sjælland",
+                  "text": "Családbarát vidámpark Odsherredben, aquaparkkal és számos egyéb attrakcióval.",
+                  "category": "recreational",
+                  "coords": [
+                        11.605402,
+                        55.896506
                   ]
             }
       ],
@@ -4355,6 +4481,15 @@ export const denmarkEconomicV2: POI[] = [
                         11.651602,
                         55.864042
                   ]
+            },
+            {
+                  "name": "Sommerland Sjælland",
+                  "text": "Un parc de distracții pentru familii în Odsherred, cu un parc acvatic și numeroase atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        11.605402,
+                        55.896506
+                  ]
             }
       ],
       "en": [
@@ -4419,6 +4554,15 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         11.651602,
                         55.864042
+                  ]
+            },
+            {
+                  "name": "Sommerland Sjælland",
+                  "text": "A family-friendly amusement park in Odsherred featuring a water park and many attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        11.605402,
+                        55.896506
                   ]
             }
       ]

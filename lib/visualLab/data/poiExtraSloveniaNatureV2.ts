@@ -456,6 +456,24 @@ imageHint: "Lake Bled with island church at sunrise",
                         13.888905,
                         46.292766
                   ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "Ein Naturbadeplatz am Wocheiner See, bekannt für sein klares Wasser und die Bergkulisse.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Fužinski zaliv",
+                  "text": "Ein öffentlicher Badebereich in der Bucht von Fužina am malerischen Wocheiner See.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
+                  ]
             }
       ],
       "hu": [
@@ -520,6 +538,24 @@ imageHint: "Lake Bled with island church at sunrise",
                   "coords": [
                         13.888905,
                         46.292766
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "Természetes fürdőhely a Bohinji-tónál, amely tiszta vizéről és hegyi panorámájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Fužinski zaliv",
+                  "text": "Nyilvános fürdőhely a Fužina-öbölben, a festői Bohinji-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
                   ]
             }
       ],
@@ -586,6 +622,24 @@ imageHint: "Lake Bled with island church at sunrise",
                         13.888905,
                         46.292766
                   ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "O zonă naturală de scăldat la Lacul Bohinj, cunoscută pentru apa sa limpede și peisajul montan.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Fužinski zaliv",
+                  "text": "O zonă publică de scăldat în Golful Fužina, pe malul pitorescului Lac Bohinj.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
+                  ]
             }
       ],
       "en": [
@@ -650,6 +704,24 @@ imageHint: "Lake Bled with island church at sunrise",
                   "coords": [
                         13.888905,
                         46.292766
+                  ]
+            },
+            {
+                  "name": "Bathing area Ukanc",
+                  "text": "A natural swimming area at Lake Bohinj, known for its clear water and mountain backdrop.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Bathing area Fužinski Bay",
+                  "text": "A public bathing area in Fužina Bay on the shores of the scenic Lake Bohinj.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
                   ]
             }
       ]
@@ -1505,6 +1577,15 @@ imageHint: "Vintgar gorge wooden walkway Radovna river",
                         13.833448,
                         46.282994
                   ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "Ein malerischer Badebereich am Bohinj-See in Ukanc, umgeben von der beeindruckenden Alpenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
             }
       ],
       "hu": [
@@ -1569,6 +1650,15 @@ imageHint: "Vintgar gorge wooden walkway Radovna river",
                   "coords": [
                         13.833448,
                         46.282994
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "Festői fürdőhely a Bohinji-tónál, Ukancban, lenyűgöző alpesi tájjal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
                   ]
             }
       ],
@@ -1635,6 +1725,15 @@ imageHint: "Vintgar gorge wooden walkway Radovna river",
                         13.833448,
                         46.282994
                   ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "O zonă de scăldat pitorească la lacul Bohinj în Ukanc, înconjurată de un peisaj alpin impresionant.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
             }
       ],
       "en": [
@@ -1699,6 +1798,15 @@ imageHint: "Vintgar gorge wooden walkway Radovna river",
                   "coords": [
                         13.833448,
                         46.282994
+                  ]
+            },
+            {
+                  "name": "Bathing area Ukanc",
+                  "text": "A scenic bathing area at Lake Bohinj in Ukanc, surrounded by impressive Alpine scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
                   ]
             }
       ]
@@ -3697,6 +3805,33 @@ imageHint: "Sneznik mountain peak Slovenia forest",
                         15.317652,
                         45.651535
                   ]
+            },
+            {
+                  "name": "Otok",
+                  "text": "Ein Badeplatz am Fluss Kolpa, der zur Erholung im Freien einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.296119,
+                        45.612888
+                  ]
+            },
+            {
+                  "name": "Otok–Paradiž",
+                  "text": "Eine öffentliche Badestätte am Ufer der Kolpa für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        15.305562,
+                        45.618736
+                  ]
+            },
+            {
+                  "name": "Primostek",
+                  "text": "Ein beliebter Badeplatz am Flussufer für sommerliche Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301836,
+                        45.627526
+                  ]
             }
       ],
       "hu": [
@@ -3707,6 +3842,33 @@ imageHint: "Sneznik mountain peak Slovenia forest",
                   "coords": [
                         15.317652,
                         45.651535
+                  ]
+            },
+            {
+                  "name": "Otok",
+                  "text": "Fürdőhely a Kulpa folyónál, amely szabadtéri kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.296119,
+                        45.612888
+                  ]
+            },
+            {
+                  "name": "Otok–Paradiž",
+                  "text": "Nyilvános fürdőhely a Kulpa partján a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        15.305562,
+                        45.618736
+                  ]
+            },
+            {
+                  "name": "Primostek",
+                  "text": "Népszerű folyóparti fürdőhely nyári szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301836,
+                        45.627526
                   ]
             }
       ],
@@ -3719,6 +3881,33 @@ imageHint: "Sneznik mountain peak Slovenia forest",
                         15.317652,
                         45.651535
                   ]
+            },
+            {
+                  "name": "Otok",
+                  "text": "Un loc de scăldat la râul Kolpa, oferind recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        15.296119,
+                        45.612888
+                  ]
+            },
+            {
+                  "name": "Otok–Paradiž",
+                  "text": "O zonă publică de scăldat pe malul râului Kolpa pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        15.305562,
+                        45.618736
+                  ]
+            },
+            {
+                  "name": "Primostek",
+                  "text": "Un loc de scăldat popular pe malul râului pentru activități recreative de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301836,
+                        45.627526
+                  ]
             }
       ],
       "en": [
@@ -3729,6 +3918,33 @@ imageHint: "Sneznik mountain peak Slovenia forest",
                   "coords": [
                         15.317652,
                         45.651535
+                  ]
+            },
+            {
+                  "name": "Otok",
+                  "text": "A bathing spot on the Kolpa River, offering outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.296119,
+                        45.612888
+                  ]
+            },
+            {
+                  "name": "Otok–Paradiž",
+                  "text": "A public bathing area on the banks of the Kolpa River for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        15.305562,
+                        45.618736
+                  ]
+            },
+            {
+                  "name": "Primostek",
+                  "text": "A popular riverside bathing spot for summer recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301836,
+                        45.627526
                   ]
             }
       ]

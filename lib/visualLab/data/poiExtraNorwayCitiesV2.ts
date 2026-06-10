@@ -1012,6 +1012,51 @@ export const norwayCitiesV2: POI[] = [
                         11.110152,
                         60.791862
                   ]
+            },
+            {
+                  "name": "Koigen Badeplass",
+                  "text": "Ein beliebter Stadtstrand und Badebereich am Mjøsa-See in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.059081,
+                        60.792884
+                  ]
+            },
+            {
+                  "name": "Martodden Badeplass",
+                  "text": "Ein öffentlicher Badebereich und Strand in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.023608,
+                        60.80432
+                  ]
+            },
+            {
+                  "name": "Rosenlundvika Badeplass",
+                  "text": "Ein ausgewiesener Badeplatz und Erholungsgebiet in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036562,
+                        60.795073
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda Badeplass",
+                  "text": "Ein malerischer Badebereich und Strand am Wasser in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.0501,
+                        60.792211
+                  ]
+            },
+            {
+                  "name": "HIAS-Stranda Badeplass",
+                  "text": "Ein lokaler Badestrand und Erholungsort in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.074413,
+                        60.767878
+                  ]
             }
       ],
       "hu": [
@@ -1175,6 +1220,51 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.110152,
                         60.791862
+                  ]
+            },
+            {
+                  "name": "Koigen Badeplass",
+                  "text": "Népszerű városi strand és úszóhely a Mjøsa-tó partján Hamarban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.059081,
+                        60.792884
+                  ]
+            },
+            {
+                  "name": "Martodden Badeplass",
+                  "text": "Nyilvános úszóhely és strand Hamarban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.023608,
+                        60.80432
+                  ]
+            },
+            {
+                  "name": "Rosenlundvika Badeplass",
+                  "text": "Kijelölt fürdőhely és pihenőövezet Hamarban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036562,
+                        60.795073
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda Badeplass",
+                  "text": "Festői úszóhely és tengerparti szakasz Hamarban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.0501,
+                        60.792211
+                  ]
+            },
+            {
+                  "name": "HIAS-Stranda Badeplass",
+                  "text": "Helyi fürdőstrand és kikapcsolódási helyszín Hamarban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.074413,
+                        60.767878
                   ]
             }
       ],
@@ -1340,6 +1430,51 @@ export const norwayCitiesV2: POI[] = [
                         11.110152,
                         60.791862
                   ]
+            },
+            {
+                  "name": "Koigen Badeplass",
+                  "text": "O plajă urbană populară și zonă de înot pe malul lacului Mjøsa în Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.059081,
+                        60.792884
+                  ]
+            },
+            {
+                  "name": "Martodden Badeplass",
+                  "text": "O zonă publică de înot și plajă în Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.023608,
+                        60.80432
+                  ]
+            },
+            {
+                  "name": "Rosenlundvika Badeplass",
+                  "text": "Un loc de înot desemnat și zonă de recreere în Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036562,
+                        60.795073
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda Badeplass",
+                  "text": "O zonă pitorească de înot și plajă situată de-a lungul apei în Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.0501,
+                        60.792211
+                  ]
+            },
+            {
+                  "name": "HIAS-Stranda Badeplass",
+                  "text": "O plajă locală pentru înot și sit recreativ în Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.074413,
+                        60.767878
+                  ]
             }
       ],
       "en": [
@@ -1503,6 +1638,51 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         11.110152,
                         60.791862
+                  ]
+            },
+            {
+                  "name": "Koigen Badeplass",
+                  "text": "A popular urban beach and swimming area on the shores of Lake Mjøsa in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.059081,
+                        60.792884
+                  ]
+            },
+            {
+                  "name": "Martodden Badeplass",
+                  "text": "A public swimming area and beach located in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.023608,
+                        60.80432
+                  ]
+            },
+            {
+                  "name": "Rosenlundvika Badeplass",
+                  "text": "A designated swimming spot and recreation area in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.036562,
+                        60.795073
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda Badeplass",
+                  "text": "A scenic swimming area and beach located along the water in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.0501,
+                        60.792211
+                  ]
+            },
+            {
+                  "name": "HIAS-Stranda Badeplass",
+                  "text": "A local swimming beach and recreational site in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.074413,
+                        60.767878
                   ]
             }
       ]
@@ -2551,6 +2731,15 @@ export const norwayCitiesV2: POI[] = [
                         9.604784,
                         59.202469
                   ]
+            },
+            {
+                  "name": "Bad",
+                  "text": "Eine Badeanlage in Skien, die zum Schwimmen und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.595428,
+                        59.18623
+                  ]
             }
       ],
       "hu": [
@@ -2633,6 +2822,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.604784,
                         59.202469
+                  ]
+            },
+            {
+                  "name": "Bad",
+                  "text": "Fürdőlétesítmény Skien városában, amely úszásra és pihenésre alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        9.595428,
+                        59.18623
                   ]
             }
       ],
@@ -2717,6 +2915,15 @@ export const norwayCitiesV2: POI[] = [
                         9.604784,
                         59.202469
                   ]
+            },
+            {
+                  "name": "Bad",
+                  "text": "O facilitate de scăldat în Skien, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        9.595428,
+                        59.18623
+                  ]
             }
       ],
       "en": [
@@ -2799,6 +3006,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.604784,
                         59.202469
+                  ]
+            },
+            {
+                  "name": "Bad",
+                  "text": "A bathing facility in Skien suitable for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        9.595428,
+                        59.18623
                   ]
             }
       ]
@@ -3658,6 +3874,24 @@ export const norwayCitiesV2: POI[] = [
                         10.663949,
                         59.432263
                   ]
+            },
+            {
+                  "name": "Refsnesstranda",
+                  "text": "Ein familienfreundlicher Strand in Moss mit weiten Rasenflächen und Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        10.614949,
+                        59.448239
+                  ]
+            },
+            {
+                  "name": "Vepsen",
+                  "text": "Ein beliebter Badeplatz in Moss, der sowohl Felsen als auch kleine Sandabschnitte bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.693778,
+                        59.430342
+                  ]
             }
       ],
       "hu": [
@@ -3695,6 +3929,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.663949,
                         59.432263
+                  ]
+            },
+            {
+                  "name": "Refsnesstranda",
+                  "text": "Családbarát strand Moss városában, tágas füves területekkel és homokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        10.614949,
+                        59.448239
+                  ]
+            },
+            {
+                  "name": "Vepsen",
+                  "text": "Népszerű fürdőhely Moss városában, sziklákkal és apró homokos szakaszokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        10.693778,
+                        59.430342
                   ]
             }
       ],
@@ -3734,6 +3986,24 @@ export const norwayCitiesV2: POI[] = [
                         10.663949,
                         59.432263
                   ]
+            },
+            {
+                  "name": "Refsnesstranda",
+                  "text": "O plajă potrivită pentru familii în Moss, cu zone verzi întinse și nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        10.614949,
+                        59.448239
+                  ]
+            },
+            {
+                  "name": "Vepsen",
+                  "text": "Un loc de scăldat popular în Moss, oferind atât stânci, cât și porțiuni mici de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        10.693778,
+                        59.430342
+                  ]
             }
       ],
       "en": [
@@ -3771,6 +4041,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.663949,
                         59.432263
+                  ]
+            },
+            {
+                  "name": "Refsnesstranda",
+                  "text": "A family-friendly beach in Moss with wide grassy areas and sand.",
+                  "category": "recreational",
+                  "coords": [
+                        10.614949,
+                        59.448239
+                  ]
+            },
+            {
+                  "name": "Vepsen",
+                  "text": "A popular swimming spot in Moss offering both rocks and small sandy sections.",
+                  "category": "recreational",
+                  "coords": [
+                        10.693778,
+                        59.430342
                   ]
             }
       ]
@@ -4342,6 +4630,33 @@ export const norwayCitiesV2: POI[] = [
                         8.765106,
                         58.458971
                   ]
+            },
+            {
+                  "name": "Bukkevika",
+                  "text": "Ein schöner Strand in Arendal, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        8.812198,
+                        58.439305
+                  ]
+            },
+            {
+                  "name": "EB-Stranda - Tangen strand",
+                  "text": "Ein schöner Strand in Arendal, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        8.721501,
+                        58.438575
+                  ]
+            },
+            {
+                  "name": "Løkholmen",
+                  "text": "Ein schöner Strand in Arendal, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        8.80367,
+                        58.46922
+                  ]
             }
       ],
       "hu": [
@@ -4451,6 +4766,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         8.765106,
                         58.458971
+                  ]
+            },
+            {
+                  "name": "Bukkevika",
+                  "text": "Kellemes tengerpart Arendal területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        8.812198,
+                        58.439305
+                  ]
+            },
+            {
+                  "name": "EB-Stranda - Tangen strand",
+                  "text": "Kellemes tengerpart Arendal területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        8.721501,
+                        58.438575
+                  ]
+            },
+            {
+                  "name": "Løkholmen",
+                  "text": "Kellemes tengerpart Arendal területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        8.80367,
+                        58.46922
                   ]
             }
       ],
@@ -4562,6 +4904,33 @@ export const norwayCitiesV2: POI[] = [
                         8.765106,
                         58.458971
                   ]
+            },
+            {
+                  "name": "Bukkevika",
+                  "text": "O plajă plăcută situată în Arendal, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        8.812198,
+                        58.439305
+                  ]
+            },
+            {
+                  "name": "EB-Stranda - Tangen strand",
+                  "text": "O plajă plăcută situată în Arendal, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        8.721501,
+                        58.438575
+                  ]
+            },
+            {
+                  "name": "Løkholmen",
+                  "text": "O plajă plăcută situată în Arendal, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        8.80367,
+                        58.46922
+                  ]
             }
       ],
       "en": [
@@ -4671,6 +5040,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         8.765106,
                         58.458971
+                  ]
+            },
+            {
+                  "name": "Bukkevika",
+                  "text": "A pleasant beach located in Arendal, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        8.812198,
+                        58.439305
+                  ]
+            },
+            {
+                  "name": "EB-Stranda - Tangen strand",
+                  "text": "A pleasant beach located in Arendal, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        8.721501,
+                        58.438575
+                  ]
+            },
+            {
+                  "name": "Løkholmen",
+                  "text": "A pleasant beach located in Arendal, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        8.80367,
+                        58.46922
                   ]
             }
       ]
@@ -4927,6 +5323,33 @@ export const norwayCitiesV2: POI[] = [
                         10.044009,
                         59.058548
                   ]
+            },
+            {
+                  "name": "Stupebrett",
+                  "text": "Ein Strand in Larvik, der für seine Sprungplattform ins tiefe Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.068027,
+                        59.020295
+                  ]
+            },
+            {
+                  "name": "Støperistranda",
+                  "text": "Ein lokaler Strand in Larvik, ideal für Familien und zum Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        10.025212,
+                        59.022455
+                  ]
+            },
+            {
+                  "name": "Hvittensand",
+                  "text": "Ein beliebter Badeplatz in Larvik mit feinem Sand und klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        10.053647,
+                        59.035656
+                  ]
             }
       ],
       "hu": [
@@ -5135,6 +5558,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.044009,
                         59.058548
+                  ]
+            },
+            {
+                  "name": "Stupebrett",
+                  "text": "Strand Larvikban, amely a mély vízbe nyúló ugródeszkájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.068027,
+                        59.020295
+                  ]
+            },
+            {
+                  "name": "Støperistranda",
+                  "text": "Helyi strand Larvikban, amely ideális családok számára és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        10.025212,
+                        59.022455
+                  ]
+            },
+            {
+                  "name": "Hvittensand",
+                  "text": "Népszerű fürdőhely Larvikban, finom homokkal és tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.053647,
+                        59.035656
                   ]
             }
       ],
@@ -5345,6 +5795,33 @@ export const norwayCitiesV2: POI[] = [
                         10.044009,
                         59.058548
                   ]
+            },
+            {
+                  "name": "Stupebrett",
+                  "text": "O plajă în Larvik, cunoscută pentru platforma sa de sărituri în apă adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.068027,
+                        59.020295
+                  ]
+            },
+            {
+                  "name": "Støperistranda",
+                  "text": "O plajă locală în Larvik, ideală pentru familii și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.025212,
+                        59.022455
+                  ]
+            },
+            {
+                  "name": "Hvittensand",
+                  "text": "Un loc popular pentru înot în Larvik, cu nisip fin și apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        10.053647,
+                        59.035656
+                  ]
             }
       ],
       "en": [
@@ -5553,6 +6030,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.044009,
                         59.058548
+                  ]
+            },
+            {
+                  "name": "Stupebrett",
+                  "text": "A beach in Larvik known for its diving platform into deep water.",
+                  "category": "recreational",
+                  "coords": [
+                        10.068027,
+                        59.020295
+                  ]
+            },
+            {
+                  "name": "Støperistranda",
+                  "text": "A local beach in Larvik, ideal for families and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        10.025212,
+                        59.022455
+                  ]
+            },
+            {
+                  "name": "Hvittensand",
+                  "text": "A popular swimming spot in Larvik with fine sand and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        10.053647,
+                        59.035656
                   ]
             }
       ]
@@ -7096,6 +7600,24 @@ export const norwayCitiesV2: POI[] = [
                         10.478141,
                         59.414184
                   ]
+            },
+            {
+                  "name": "Bastøybukta",
+                  "text": "Bastøybukta ist ein Strand in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522263,
+                        59.386031
+                  ]
+            },
+            {
+                  "name": "Borrestranda",
+                  "text": "Borrestranda ist ein Strand in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.467643,
+                        59.377369
+                  ]
             }
       ],
       "hu": [
@@ -7259,6 +7781,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.478141,
                         59.414184
+                  ]
+            },
+            {
+                  "name": "Bastøybukta",
+                  "text": "Bastøybukta egy strand Horten területén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522263,
+                        59.386031
+                  ]
+            },
+            {
+                  "name": "Borrestranda",
+                  "text": "Borrestranda egy strand Horten területén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.467643,
+                        59.377369
                   ]
             }
       ],
@@ -7424,6 +7964,24 @@ export const norwayCitiesV2: POI[] = [
                         10.478141,
                         59.414184
                   ]
+            },
+            {
+                  "name": "Bastøybukta",
+                  "text": "Bastøybukta este o plajă în Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522263,
+                        59.386031
+                  ]
+            },
+            {
+                  "name": "Borrestranda",
+                  "text": "Borrestranda este o plajă în Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.467643,
+                        59.377369
+                  ]
             }
       ],
       "en": [
@@ -7587,6 +8145,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.478141,
                         59.414184
+                  ]
+            },
+            {
+                  "name": "Bastøybukta",
+                  "text": "Bastøybukta is a beach in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522263,
+                        59.386031
+                  ]
+            },
+            {
+                  "name": "Borrestranda",
+                  "text": "Borrestranda is a beach in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.467643,
+                        59.377369
                   ]
             }
       ]
@@ -9580,6 +10156,15 @@ export const norwayCitiesV2: POI[] = [
                         10.908067,
                         63.44488
                   ]
+            },
+            {
+                  "name": "Svømmehallen",
+                  "text": "Die örtliche Hallenbadanlage in Stjørdal.",
+                  "category": "recreational",
+                  "coords": [
+                        10.930502,
+                        63.473533
+                  ]
             }
       ],
       "hu": [
@@ -9653,6 +10238,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.908067,
                         63.44488
+                  ]
+            },
+            {
+                  "name": "Svømmehallen",
+                  "text": "A helyi fedett uszoda Stjørdalban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.930502,
+                        63.473533
                   ]
             }
       ],
@@ -9728,6 +10322,15 @@ export const norwayCitiesV2: POI[] = [
                         10.908067,
                         63.44488
                   ]
+            },
+            {
+                  "name": "Svømmehallen",
+                  "text": "Facilitatea locală de piscină interioară din Stjørdal.",
+                  "category": "recreational",
+                  "coords": [
+                        10.930502,
+                        63.473533
+                  ]
             }
       ],
       "en": [
@@ -9801,6 +10404,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.908067,
                         63.44488
+                  ]
+            },
+            {
+                  "name": "Svømmehallen",
+                  "text": "The local indoor swimming pool facility in Stjørdal.",
+                  "category": "recreational",
+                  "coords": [
+                        10.930502,
+                        63.473533
                   ]
             }
       ]
@@ -12001,6 +12613,42 @@ export const norwayCitiesV2: POI[] = [
                         6.801748,
                         58.094296
                   ]
+            },
+            {
+                  "name": "Haugestranda",
+                  "text": "Ein ruhiger Strandabschnitt bei Farsund, ideal für Entspannung in der Natur der norwegischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        6.749614,
+                        58.065894
+                  ]
+            },
+            {
+                  "name": "Husebysanden",
+                  "text": "Ein attraktiver Sandstrand in der Gemeinde Farsund, der zum Baden und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.776458,
+                        58.068711
+                  ]
+            },
+            {
+                  "name": "Falkhaugsanden",
+                  "text": "Ein Küstenabschnitt bei Farsund mit Sandstrand, beliebt bei Einheimischen und Touristen gleichermaßen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.757284,
+                        58.066459
+                  ]
+            },
+            {
+                  "name": "Lomsesanden",
+                  "text": "Einer der bekanntesten Sandstrände Südnorwegens bei Farsund, geschätzt für seine familienfreundliche Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        6.794566,
+                        58.065535
+                  ]
             }
       ],
       "hu": [
@@ -12173,6 +12821,42 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.801748,
                         58.094296
+                  ]
+            },
+            {
+                  "name": "Haugestranda",
+                  "text": "Nyugodt tengerparti szakasz Farsund közelében, ideális a kikapcsolódáshoz a norvég partvidék természetében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.749614,
+                        58.065894
+                  ]
+            },
+            {
+                  "name": "Husebysanden",
+                  "text": "Vonzó homokos strand Farsund községben, amely fürdésre és napozásra hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        6.776458,
+                        58.068711
+                  ]
+            },
+            {
+                  "name": "Falkhaugsanden",
+                  "text": "Tengerparti szakasz Farsund közelében homokos stranddal, a helyiek és a turisták körében egyaránt népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        6.757284,
+                        58.066459
+                  ]
+            },
+            {
+                  "name": "Lomsesanden",
+                  "text": "Dél-Norvégia egyik legismertebb homokos strandja Farsund közelében, amely családbarát környezete miatt kedvelt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.794566,
+                        58.065535
                   ]
             }
       ],
@@ -12347,6 +13031,42 @@ export const norwayCitiesV2: POI[] = [
                         6.801748,
                         58.094296
                   ]
+            },
+            {
+                  "name": "Haugestranda",
+                  "text": "O secțiune de plajă liniștită lângă Farsund, ideală pentru relaxare în natura coastei norvegiene.",
+                  "category": "recreational",
+                  "coords": [
+                        6.749614,
+                        58.065894
+                  ]
+            },
+            {
+                  "name": "Husebysanden",
+                  "text": "O plajă de nisip atractivă în comuna Farsund, care invită la scăldat și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        6.776458,
+                        58.068711
+                  ]
+            },
+            {
+                  "name": "Falkhaugsanden",
+                  "text": "O porțiune de coastă lângă Farsund cu plajă de nisip, populară atât printre localnici, cât și printre turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        6.757284,
+                        58.066459
+                  ]
+            },
+            {
+                  "name": "Lomsesanden",
+                  "text": "Una dintre cele mai cunoscute plaje de nisip din sudul Norvegiei, lângă Farsund, apreciată pentru mediul familial.",
+                  "category": "recreational",
+                  "coords": [
+                        6.794566,
+                        58.065535
+                  ]
             }
       ],
       "en": [
@@ -12519,6 +13239,42 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.801748,
                         58.094296
+                  ]
+            },
+            {
+                  "name": "Haugestranda",
+                  "text": "A quiet stretch of beach near Farsund, ideal for relaxation in the nature of the Norwegian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        6.749614,
+                        58.065894
+                  ]
+            },
+            {
+                  "name": "Husebysanden",
+                  "text": "An attractive sandy beach in Farsund municipality, inviting visitors to swim and sunbathe.",
+                  "category": "recreational",
+                  "coords": [
+                        6.776458,
+                        58.068711
+                  ]
+            },
+            {
+                  "name": "Falkhaugsanden",
+                  "text": "A coastal stretch near Farsund with a sandy beach, popular with locals and tourists alike.",
+                  "category": "recreational",
+                  "coords": [
+                        6.757284,
+                        58.066459
+                  ]
+            },
+            {
+                  "name": "Lomsesanden",
+                  "text": "One of Southern Norway's best-known sandy beaches near Farsund, valued for its family-friendly environment.",
+                  "category": "recreational",
+                  "coords": [
+                        6.794566,
+                        58.065535
                   ]
             }
       ]
@@ -12721,6 +13477,15 @@ export const norwayCitiesV2: POI[] = [
                         6.699382,
                         58.306293
                   ]
+            },
+            {
+                  "name": "Nuland besøksgård",
+                  "text": "Ein Besucherbauernhof in Flekkefjord, wo Gäste verschiedene Haustiere treffen können.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718018,
+                        58.28426
+                  ]
             }
       ],
       "hu": [
@@ -12875,6 +13640,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.699382,
                         58.306293
+                  ]
+            },
+            {
+                  "name": "Nuland besøksgård",
+                  "text": "Látogatható farm Flekkefjordban, ahol a vendégek különféle háziállatokkal találkozhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718018,
+                        58.28426
                   ]
             }
       ],
@@ -13031,6 +13805,15 @@ export const norwayCitiesV2: POI[] = [
                         6.699382,
                         58.306293
                   ]
+            },
+            {
+                  "name": "Nuland besøksgård",
+                  "text": "O fermă pentru vizitatori în Flekkefjord, unde oaspeții pot întâlni diverse animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718018,
+                        58.28426
+                  ]
             }
       ],
       "en": [
@@ -13185,6 +13968,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.699382,
                         58.306293
+                  ]
+            },
+            {
+                  "name": "Nuland besøksgård",
+                  "text": "A visitor farm in Flekkefjord where guests can meet various domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718018,
+                        58.28426
                   ]
             }
       ]
@@ -13594,6 +14386,15 @@ export const norwayCitiesV2: POI[] = [
                         5.962459,
                         61.432327
                   ]
+            },
+            {
+                  "name": "Symjehallen i Førdehuset",
+                  "text": "Ein Hallenbad im Kultur- und Sportzentrum Førdehuset in Førde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.866473,
+                        61.453274
+                  ]
             }
       ],
       "hu": [
@@ -13649,6 +14450,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.962459,
                         61.432327
+                  ]
+            },
+            {
+                  "name": "Symjehallen i Førdehuset",
+                  "text": "Fedett uszoda a Førdehuset kulturális és sportközpontban, Førde városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.866473,
+                        61.453274
                   ]
             }
       ],
@@ -13706,6 +14516,15 @@ export const norwayCitiesV2: POI[] = [
                         5.962459,
                         61.432327
                   ]
+            },
+            {
+                  "name": "Symjehallen i Førdehuset",
+                  "text": "O piscină interioară situată în centrul cultural și sportiv Førdehuset din Førde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.866473,
+                        61.453274
+                  ]
             }
       ],
       "en": [
@@ -13761,6 +14580,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.962459,
                         61.432327
+                  ]
+            },
+            {
+                  "name": "Symjehallen i Førdehuset",
+                  "text": "An indoor swimming pool located in the Førdehuset cultural and sports center in Førde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.866473,
+                        61.453274
                   ]
             }
       ]
@@ -14908,6 +15736,15 @@ export const norwayCitiesV2: POI[] = [
                         23.685593,
                         70.634901
                   ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "Ein Badebereich am See Storvannet in Hammerfest, beliebt für Erholung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        23.703509,
+                        70.68188
+                  ]
             }
       ],
       "hu": [
@@ -14963,6 +15800,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         23.685593,
                         70.634901
+                  ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "Fürdőhely a Storvannet-tónál Hammerfestben, amely népszerű a szabadtéri kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        23.703509,
+                        70.68188
                   ]
             }
       ],
@@ -15020,6 +15866,15 @@ export const norwayCitiesV2: POI[] = [
                         23.685593,
                         70.634901
                   ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "O zonă de scăldat la lacul Storvannet din Hammerfest, populară pentru recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        23.703509,
+                        70.68188
+                  ]
             }
       ],
       "en": [
@@ -15075,6 +15930,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         23.685593,
                         70.634901
+                  ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "A swimming area at Lake Storvannet in Hammerfest, popular for outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.703509,
+                        70.68188
                   ]
             }
       ]
@@ -18769,6 +19633,15 @@ export const norwayCitiesV2: POI[] = [
                         9.414378,
                         58.871156
                   ]
+            },
+            {
+                  "name": "Kragerø svømmehall",
+                  "text": "Ein Hallenbad und Sportzentrum in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.408546,
+                        58.867818
+                  ]
             }
       ],
       "hu": [
@@ -18941,6 +19814,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.414378,
                         58.871156
+                  ]
+            },
+            {
+                  "name": "Kragerø svømmehall",
+                  "text": "Fedett uszoda és sportlétesítmény Kragerøben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.408546,
+                        58.867818
                   ]
             }
       ],
@@ -19115,6 +19997,15 @@ export const norwayCitiesV2: POI[] = [
                         9.414378,
                         58.871156
                   ]
+            },
+            {
+                  "name": "Kragerø svømmehall",
+                  "text": "O piscină interioară și facilitate sportivă în Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.408546,
+                        58.867818
+                  ]
             }
       ],
       "en": [
@@ -19287,6 +20178,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.414378,
                         58.871156
+                  ]
+            },
+            {
+                  "name": "Kragerø svømmehall",
+                  "text": "An indoor swimming pool and sports facility in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.408546,
+                        58.867818
                   ]
             }
       ]
@@ -19561,6 +20461,51 @@ export const norwayCitiesV2: POI[] = [
                         9.198739,
                         58.722613
                   ]
+            },
+            {
+                  "name": "Myggbukta",
+                  "text": "Myggbukta ist ein lokaler Strand in Risør, der Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.288578,
+                        58.733616
+                  ]
+            },
+            {
+                  "name": "Østre Randvik",
+                  "text": "Østre Randvik ist ein beliebter Badeplatz an der Küste von Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223161,
+                        58.710068
+                  ]
+            },
+            {
+                  "name": "Perleporten",
+                  "text": "Perleporten ist ein kleiner Strandbereich in Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.295455,
+                        58.733732
+                  ]
+            },
+            {
+                  "name": "Kjæring-skallet",
+                  "text": "Kjæring-skallet ist ein Küstenstreifen in Risør, der zum Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.250139,
+                        58.714306
+                  ]
+            },
+            {
+                  "name": "Breibukt",
+                  "text": "Breibukt ist ein Strand in Risør, umgeben von der typisch norwegischen Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        9.292461,
+                        58.734614
+                  ]
             }
       ],
       "hu": [
@@ -19787,6 +20732,51 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.198739,
                         58.722613
+                  ]
+            },
+            {
+                  "name": "Myggbukta",
+                  "text": "A Myggbukta egy helyi strand Risørben, amely kikapcsolódást kínál a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        9.288578,
+                        58.733616
+                  ]
+            },
+            {
+                  "name": "Østre Randvik",
+                  "text": "Az Østre Randvik egy népszerű fürdőhely Risør partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223161,
+                        58.710068
+                  ]
+            },
+            {
+                  "name": "Perleporten",
+                  "text": "A Perleporten egy kis strandterület Risør városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.295455,
+                        58.733732
+                  ]
+            },
+            {
+                  "name": "Kjæring-skallet",
+                  "text": "A Kjæring-skallet egy tengerparti szakasz Risørben, amely fürdőzésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        9.250139,
+                        58.714306
+                  ]
+            },
+            {
+                  "name": "Breibukt",
+                  "text": "A Breibukt egy strand Risørben, amelyet jellegzetes norvég tengerparti táj vesz körül.",
+                  "category": "recreational",
+                  "coords": [
+                        9.292461,
+                        58.734614
                   ]
             }
       ],
@@ -20015,6 +21005,51 @@ export const norwayCitiesV2: POI[] = [
                         9.198739,
                         58.722613
                   ]
+            },
+            {
+                  "name": "Myggbukta",
+                  "text": "Myggbukta este o plajă locală din Risør, oferind relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        9.288578,
+                        58.733616
+                  ]
+            },
+            {
+                  "name": "Østre Randvik",
+                  "text": "Østre Randvik este un loc de scăldat popular pe coasta orașului Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223161,
+                        58.710068
+                  ]
+            },
+            {
+                  "name": "Perleporten",
+                  "text": "Perleporten este o mică zonă de plajă în Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.295455,
+                        58.733732
+                  ]
+            },
+            {
+                  "name": "Kjæring-skallet",
+                  "text": "Kjæring-skallet este o porțiune de coastă în Risør, ideală pentru scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.250139,
+                        58.714306
+                  ]
+            },
+            {
+                  "name": "Breibukt",
+                  "text": "Breibukt este o plajă din Risør, înconjurată de peisajul de coastă norvegian.",
+                  "category": "recreational",
+                  "coords": [
+                        9.292461,
+                        58.734614
+                  ]
             }
       ],
       "en": [
@@ -20241,6 +21276,51 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.198739,
                         58.722613
+                  ]
+            },
+            {
+                  "name": "Myggbukta",
+                  "text": "Myggbukta is a local beach in Risør, offering relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        9.288578,
+                        58.733616
+                  ]
+            },
+            {
+                  "name": "Østre Randvik",
+                  "text": "Østre Randvik is a popular bathing spot on the coast of Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.223161,
+                        58.710068
+                  ]
+            },
+            {
+                  "name": "Perleporten",
+                  "text": "Perleporten is a small beach area in Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.295455,
+                        58.733732
+                  ]
+            },
+            {
+                  "name": "Kjæring-skallet",
+                  "text": "Kjæring-skallet is a coastal stretch in Risør suitable for bathing.",
+                  "category": "recreational",
+                  "coords": [
+                        9.250139,
+                        58.714306
+                  ]
+            },
+            {
+                  "name": "Breibukt",
+                  "text": "Breibukt is a beach in Risør, surrounded by the typical Norwegian coastal landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        9.292461,
+                        58.734614
                   ]
             }
       ]
@@ -20893,6 +21973,87 @@ export const norwayCitiesV2: POI[] = [
                         8.59258,
                         58.340846
                   ]
+            },
+            {
+                  "name": "Drotningviga",
+                  "text": "Ein idyllischer Badeplatz in Grimstad, der Ruhe und Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648968,
+                        58.345785
+                  ]
+            },
+            {
+                  "name": "Sandum",
+                  "text": "Ein ruhiger Strandabschnitt in Grimstad an der norwegischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        8.638289,
+                        58.342437
+                  ]
+            },
+            {
+                  "name": "Moysanden",
+                  "text": "Ein beliebter Sandstrand in Grimstad, ideal für Sommeraktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.652846,
+                        58.354236
+                  ]
+            },
+            {
+                  "name": "Fugleviga",
+                  "text": "Ein schöner Küstenort in Grimstad für erholsame Stunden am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.651585,
+                        58.351409
+                  ]
+            },
+            {
+                  "name": "Morvigsanden",
+                  "text": "Morvigsanden ist ein Strand in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.545793,
+                        58.312912
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Bystranda ist ein Strand in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593781,
+                        58.335148
+                  ]
+            },
+            {
+                  "name": "Groos",
+                  "text": "Groos ist ein Strand in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.581549,
+                        58.326672
+                  ]
+            },
+            {
+                  "name": "Osterkilen",
+                  "text": "Osterkilen ist ein Strand in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.61354,
+                        58.335595
+                  ]
+            },
+            {
+                  "name": "Roresanden",
+                  "text": "Roresanden ist ein Strand in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.539483,
+                        58.35196
+                  ]
             }
       ],
       "hu": [
@@ -21011,6 +22172,87 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         8.59258,
                         58.340846
+                  ]
+            },
+            {
+                  "name": "Drotningviga",
+                  "text": "Idilli fürdőhely Grimstadban, amely nyugalmat és természetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648968,
+                        58.345785
+                  ]
+            },
+            {
+                  "name": "Sandum",
+                  "text": "Csendes strandszakasz Grimstadban, a norvég tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        8.638289,
+                        58.342437
+                  ]
+            },
+            {
+                  "name": "Moysanden",
+                  "text": "Népszerű homokos strand Grimstadban, ideális nyári tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        8.652846,
+                        58.354236
+                  ]
+            },
+            {
+                  "name": "Fugleviga",
+                  "text": "Szép tengerparti hely Grimstadban a pihentető tengerparti órákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.651585,
+                        58.351409
+                  ]
+            },
+            {
+                  "name": "Morvigsanden",
+                  "text": "Morvigsanden egy strand Grimstad területén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.545793,
+                        58.312912
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Bystranda egy strand Grimstad területén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593781,
+                        58.335148
+                  ]
+            },
+            {
+                  "name": "Groos",
+                  "text": "Groos egy strand Grimstad területén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.581549,
+                        58.326672
+                  ]
+            },
+            {
+                  "name": "Osterkilen",
+                  "text": "Osterkilen egy strand Grimstad területén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.61354,
+                        58.335595
+                  ]
+            },
+            {
+                  "name": "Roresanden",
+                  "text": "Roresanden egy strand Grimstad területén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.539483,
+                        58.35196
                   ]
             }
       ],
@@ -21131,6 +22373,87 @@ export const norwayCitiesV2: POI[] = [
                         8.59258,
                         58.340846
                   ]
+            },
+            {
+                  "name": "Drotningviga",
+                  "text": "Un loc de scăldat idilic în Grimstad, oferind liniște și natură.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648968,
+                        58.345785
+                  ]
+            },
+            {
+                  "name": "Sandum",
+                  "text": "O secțiune liniștită de plajă în Grimstad, pe coasta norvegiană.",
+                  "category": "recreational",
+                  "coords": [
+                        8.638289,
+                        58.342437
+                  ]
+            },
+            {
+                  "name": "Moysanden",
+                  "text": "O plajă de nisip populară în Grimstad, ideală pentru activități de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        8.652846,
+                        58.354236
+                  ]
+            },
+            {
+                  "name": "Fugleviga",
+                  "text": "O locație frumoasă de coastă în Grimstad pentru ore relaxante la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        8.651585,
+                        58.351409
+                  ]
+            },
+            {
+                  "name": "Morvigsanden",
+                  "text": "Morvigsanden este o plajă în Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.545793,
+                        58.312912
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Bystranda este o plajă în Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593781,
+                        58.335148
+                  ]
+            },
+            {
+                  "name": "Groos",
+                  "text": "Groos este o plajă în Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.581549,
+                        58.326672
+                  ]
+            },
+            {
+                  "name": "Osterkilen",
+                  "text": "Osterkilen este o plajă în Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.61354,
+                        58.335595
+                  ]
+            },
+            {
+                  "name": "Roresanden",
+                  "text": "Roresanden este o plajă în Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.539483,
+                        58.35196
+                  ]
             }
       ],
       "en": [
@@ -21249,6 +22572,87 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         8.59258,
                         58.340846
+                  ]
+            },
+            {
+                  "name": "Drotningviga",
+                  "text": "An idyllic bathing spot in Grimstad, offering peace and nature.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648968,
+                        58.345785
+                  ]
+            },
+            {
+                  "name": "Sandum",
+                  "text": "A quiet stretch of beach in Grimstad on the Norwegian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        8.638289,
+                        58.342437
+                  ]
+            },
+            {
+                  "name": "Moysanden",
+                  "text": "A popular sandy beach in Grimstad, ideal for summer activities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.652846,
+                        58.354236
+                  ]
+            },
+            {
+                  "name": "Fugleviga",
+                  "text": "A beautiful coastal spot in Grimstad for relaxing hours by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        8.651585,
+                        58.351409
+                  ]
+            },
+            {
+                  "name": "Morvigsanden",
+                  "text": "Morvigsanden is a beach in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.545793,
+                        58.312912
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Bystranda is a beach in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593781,
+                        58.335148
+                  ]
+            },
+            {
+                  "name": "Groos",
+                  "text": "Groos is a beach in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.581549,
+                        58.326672
+                  ]
+            },
+            {
+                  "name": "Osterkilen",
+                  "text": "Osterkilen is a beach in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.61354,
+                        58.335595
+                  ]
+            },
+            {
+                  "name": "Roresanden",
+                  "text": "Roresanden is a beach in Grimstad.",
+                  "category": "recreational",
+                  "coords": [
+                        8.539483,
+                        58.35196
                   ]
             }
       ]
@@ -22135,6 +23539,33 @@ export const norwayCitiesV2: POI[] = [
                         7.459604,
                         58.031136
                   ]
+            },
+            {
+                  "name": "Dørje",
+                  "text": "Ein schöner Strand in Mandal, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400563,
+                        58.010884
+                  ]
+            },
+            {
+                  "name": "Sjøsanden",
+                  "text": "Ein berühmter weißer Sandstrand in Mandal, bekannt für seine lange Küste und den malerischen Kiefernwald.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448405,
+                        58.019792
+                  ]
+            },
+            {
+                  "name": "Langestranda",
+                  "text": "Ein schöner Strand in Mandal, ideal zum Sonnenbaden und Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        7.432036,
+                        58.022168
+                  ]
             }
       ],
       "hu": [
@@ -22325,6 +23756,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.459604,
                         58.031136
+                  ]
+            },
+            {
+                  "name": "Dørje",
+                  "text": "Kellemes tengerpart Mandal területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400563,
+                        58.010884
+                  ]
+            },
+            {
+                  "name": "Sjøsanden",
+                  "text": "Mandal híres fehér homokos strandja, amely hosszú partvonaláról és festői fenyőerdejéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448405,
+                        58.019792
+                  ]
+            },
+            {
+                  "name": "Langestranda",
+                  "text": "Kellemes tengerpart Mandal területén, amely ideális napozásra és vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        7.432036,
+                        58.022168
                   ]
             }
       ],
@@ -22517,6 +23975,33 @@ export const norwayCitiesV2: POI[] = [
                         7.459604,
                         58.031136
                   ]
+            },
+            {
+                  "name": "Dørje",
+                  "text": "O plajă plăcută situată în Mandal, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400563,
+                        58.010884
+                  ]
+            },
+            {
+                  "name": "Sjøsanden",
+                  "text": "O faimoasă plajă cu nisip alb din Mandal, cunoscută pentru țărmul său lung și pădurea de pini pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448405,
+                        58.019792
+                  ]
+            },
+            {
+                  "name": "Langestranda",
+                  "text": "O plajă plăcută situată în Mandal, ideală pentru plajă și relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        7.432036,
+                        58.022168
+                  ]
             }
       ],
       "en": [
@@ -22707,6 +24192,33 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.459604,
                         58.031136
+                  ]
+            },
+            {
+                  "name": "Dørje",
+                  "text": "A pleasant beach located in Mandal, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400563,
+                        58.010884
+                  ]
+            },
+            {
+                  "name": "Sjøsanden",
+                  "text": "A famous white sandy beach in Mandal, known for its long shoreline and scenic pine forest.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448405,
+                        58.019792
+                  ]
+            },
+            {
+                  "name": "Langestranda",
+                  "text": "A pleasant beach located in Mandal, ideal for sunbathing and relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        7.432036,
+                        58.022168
                   ]
             }
       ]
@@ -23403,7 +24915,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-sogndal-cities-v2.webp",
   },
   {
-    id: "norway-stryn-cities-v2",
+    id: "norway-stryn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stryn symjehall",
+                  "text": "Ein öffentliches Hallenbad in Stryn.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718435,
+                        61.904862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stryn symjehall",
+                  "text": "Nyilvános fedett uszoda Strynben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718435,
+                        61.904862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stryn symjehall",
+                  "text": "O piscină publică interioară situată în Stryn.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718435,
+                        61.904862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stryn symjehall",
+                  "text": "A public indoor swimming pool located in Stryn.",
+                  "category": "recreational",
+                  "coords": [
+                        6.718435,
+                        61.904862
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Stryn", hu: "Stryn", ro: "Stryn", en: "Stryn" },
@@ -26905,6 +28462,24 @@ export const norwayCitiesV2: POI[] = [
                         5.623787,
                         58.998262
                   ]
+            },
+            {
+                  "name": "Harestad stranden",
+                  "text": "Harestad stranden ist ein weitläufiger Sandstrand in Randaberg, ideal für Spaziergänge an der Nordsee.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604655,
+                        59.023791
+                  ]
+            },
+            {
+                  "name": "Vistestranden",
+                  "text": "Vistestranden ist ein beliebter Familienstrand in Randaberg mit guten Badebedingungen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607647,
+                        58.984958
+                  ]
             }
       ],
       "hu": [
@@ -27122,6 +28697,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.623787,
                         58.998262
+                  ]
+            },
+            {
+                  "name": "Harestad stranden",
+                  "text": "A Harestad stranden egy tágas homokos strand Randabergben, amely ideális az északi-tengeri sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604655,
+                        59.023791
+                  ]
+            },
+            {
+                  "name": "Vistestranden",
+                  "text": "A Vistestranden egy népszerű családi strand Randabergben, kiváló fürdőzési lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607647,
+                        58.984958
                   ]
             }
       ],
@@ -27341,6 +28934,24 @@ export const norwayCitiesV2: POI[] = [
                         5.623787,
                         58.998262
                   ]
+            },
+            {
+                  "name": "Harestad stranden",
+                  "text": "Harestad stranden este o plajă lungă de nisip în Randaberg, ideală pentru plimbări la Marea Nordului.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604655,
+                        59.023791
+                  ]
+            },
+            {
+                  "name": "Vistestranden",
+                  "text": "Vistestranden este o plajă populară pentru familii în Randaberg, cu condiții bune pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607647,
+                        58.984958
+                  ]
             }
       ],
       "en": [
@@ -27558,6 +29169,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.623787,
                         58.998262
+                  ]
+            },
+            {
+                  "name": "Harestad stranden",
+                  "text": "Harestad stranden is a spacious sandy beach in Randaberg, ideal for walks along the North Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604655,
+                        59.023791
+                  ]
+            },
+            {
+                  "name": "Vistestranden",
+                  "text": "Vistestranden is a popular family beach in Randaberg with good swimming conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607647,
+                        58.984958
                   ]
             }
       ]

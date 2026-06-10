@@ -108,7 +108,268 @@ export const portugalRegions: POI[] = [
 
 export const portugalCulture: POI[] = [
   {
-    id: "cult-belem-tower",
+    id: "cult-belem-tower", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Segundo Torrão",
+                  "text": "Ein Strandabschnitt in der Nähe des Belém-Turms in der Region Lissabon.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.242918,
+                        38.671673
+                  ]
+            },
+            {
+                  "name": "Praia de Algés",
+                  "text": "Ein Strand im Viertel Algés in der Nähe des Belém-Turms.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.23101,
+                        38.695784
+                  ]
+            },
+            {
+                  "name": "Praia da Trafaria",
+                  "text": "Ein Strand in Trafaria, gegenüber dem Belém-Turm auf der anderen Flussseite.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.233113,
+                        38.673736
+                  ]
+            },
+            {
+                  "name": "Prainha do Porto Brandão",
+                  "text": "Ein kleiner Strandabschnitt bei Porto Brandão am Tejo.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.207239,
+                        38.677204
+                  ]
+            },
+            {
+                  "name": "Praia da Cruz Quebrada",
+                  "text": "Ein Strand im Viertel Cruz Quebrada in der Nähe von Lissabon.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251729,
+                        38.699504
+                  ]
+            },
+            {
+                  "name": "Praia do Dafundo",
+                  "text": "Ein Strand im Stadtteil Dafundo in der Nähe des Belém-Turms.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.238094,
+                        38.697566
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Costa",
+                  "text": "Ein Strand an der Küste in der Nähe des Belém-Viertels.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.220025,
+                        38.67515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Segundo Torrão",
+                  "text": "Strandterület a Belém-torony közelében Lisszabon régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.242918,
+                        38.671673
+                  ]
+            },
+            {
+                  "name": "Praia de Algés",
+                  "text": "Strand Algés területén, a Belém-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.23101,
+                        38.695784
+                  ]
+            },
+            {
+                  "name": "Praia da Trafaria",
+                  "text": "Strand Trafariában, a Belém-toronnyal szemben a folyó túloldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.233113,
+                        38.673736
+                  ]
+            },
+            {
+                  "name": "Prainha do Porto Brandão",
+                  "text": "Egy kis strandterület Porto Brandão közelében a Tejo-folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.207239,
+                        38.677204
+                  ]
+            },
+            {
+                  "name": "Praia da Cruz Quebrada",
+                  "text": "Strand Cruz Quebrada területén, Lisszabon közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251729,
+                        38.699504
+                  ]
+            },
+            {
+                  "name": "Praia do Dafundo",
+                  "text": "Strand Dafundo környékén, a Belém-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.238094,
+                        38.697566
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Costa",
+                  "text": "Strand a part mentén Belém környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.220025,
+                        38.67515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Segundo Torrão",
+                  "text": "O zonă de plajă situată lângă Turnul Belém în regiunea Lisabona.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.242918,
+                        38.671673
+                  ]
+            },
+            {
+                  "name": "Praia de Algés",
+                  "text": "O plajă situată în zona Algés, lângă Turnul Belém.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.23101,
+                        38.695784
+                  ]
+            },
+            {
+                  "name": "Praia da Trafaria",
+                  "text": "O plajă situată în Trafaria, peste râu de Turnul Belém.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.233113,
+                        38.673736
+                  ]
+            },
+            {
+                  "name": "Prainha do Porto Brandão",
+                  "text": "O mică zonă de plajă lângă Porto Brandão, pe malul râului Tejo.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.207239,
+                        38.677204
+                  ]
+            },
+            {
+                  "name": "Praia da Cruz Quebrada",
+                  "text": "O plajă situată în zona Cruz Quebrada, lângă Lisabona.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251729,
+                        38.699504
+                  ]
+            },
+            {
+                  "name": "Praia do Dafundo",
+                  "text": "O plajă situată în cartierul Dafundo, lângă Turnul Belém.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.238094,
+                        38.697566
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Costa",
+                  "text": "O plajă situată de-a lungul coastei lângă zona Belém.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.220025,
+                        38.67515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Segundo Torrão",
+                  "text": "A beach area located near the Belém Tower in the Lisbon region.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.242918,
+                        38.671673
+                  ]
+            },
+            {
+                  "name": "Praia de Algés",
+                  "text": "A beach situated in the Algés area near the Belém Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.23101,
+                        38.695784
+                  ]
+            },
+            {
+                  "name": "Praia da Trafaria",
+                  "text": "A beach located in Trafaria, across the river from the Belém Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.233113,
+                        38.673736
+                  ]
+            },
+            {
+                  "name": "Prainha do Porto Brandão",
+                  "text": "A small beach area near Porto Brandão by the Tagus river.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.207239,
+                        38.677204
+                  ]
+            },
+            {
+                  "name": "Praia da Cruz Quebrada",
+                  "text": "A beach located in the Cruz Quebrada area near Lisbon.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251729,
+                        38.699504
+                  ]
+            },
+            {
+                  "name": "Praia do Dafundo",
+                  "text": "A beach situated in the Dafundo neighborhood near the Belém Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.238094,
+                        38.697566
+                  ]
+            },
+            {
+                  "name": "Praia do Portinho da Costa",
+                  "text": "A beach located along the coast near the Belém area.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.220025,
+                        38.67515
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "city-lisbon",
     coords: [-9.2159, 38.6916],
@@ -269,6 +530,15 @@ export const portugalCulture: POI[] = [
                         -9.382626,
                         38.803381
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "Ein von der Feuerwehr betriebenes Schwimmbad in Colares, Sintra.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
+                  ]
             }
       ],
       "hu": [
@@ -342,6 +612,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.382626,
                         38.803381
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "A colaresi tűzoltók által üzemeltetett úszómedence Sintra területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
                   ]
             }
       ],
@@ -417,6 +696,15 @@ export const portugalCulture: POI[] = [
                         -9.382626,
                         38.803381
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "O piscină operată de pompierii din Colares, Sintra.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
+                  ]
             }
       ],
       "en": [
@@ -490,6 +778,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.382626,
                         38.803381
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "A swimming pool operated by the firefighters of Colares in Sintra.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
                   ]
             }
       ]
@@ -733,6 +1030,15 @@ export const portugalCulture: POI[] = [
                         -8.31954,
                         41.431152
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "Ein öffentliches Schwimmbad, das von der Freiwilligen Feuerwehr in Guimarães verwaltet wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
+                  ]
             }
       ],
       "hu": [
@@ -797,6 +1103,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.31954,
                         41.431152
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "A guimarãesi önkéntes tűzoltóság által kezelt nyilvános uszoda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
                   ]
             }
       ],
@@ -863,6 +1178,15 @@ export const portugalCulture: POI[] = [
                         -8.31954,
                         41.431152
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "O piscină publică gestionată de pompierii voluntari din Guimarães.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
+                  ]
             }
       ],
       "en": [
@@ -927,6 +1251,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.31954,
                         41.431152
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
+                  "text": "A public pool managed by the voluntary fire department in Guimarães.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.298556,
+                        41.447463
                   ]
             }
       ]
@@ -2129,6 +2462,15 @@ export const portugalCulture: POI[] = [
                         -7.392096,
                         39.369892
                   ]
+            },
+            {
+                  "name": "Praia fluvial de Portagem",
+                  "text": "Ein Flussbad und Schwimmbecken in der Nähe der Burg Marvão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.382306,
+                        39.38261
+                  ]
             }
       ],
       "hu": [
@@ -2193,6 +2535,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -7.392096,
                         39.369892
+                  ]
+            },
+            {
+                  "name": "Praia fluvial de Portagem",
+                  "text": "Folyami strand és úszómedence a marvãoi vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.382306,
+                        39.38261
                   ]
             }
       ],
@@ -2259,6 +2610,15 @@ export const portugalCulture: POI[] = [
                         -7.392096,
                         39.369892
                   ]
+            },
+            {
+                  "name": "Praia fluvial de Portagem",
+                  "text": "O plajă fluvială și piscină situată lângă Castelul Marvão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.382306,
+                        39.38261
+                  ]
             }
       ],
       "en": [
@@ -2323,6 +2683,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -7.392096,
                         39.369892
+                  ]
+            },
+            {
+                  "name": "Praia fluvial de Portagem",
+                  "text": "A river beach and swimming pool located near Marvão Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.382306,
+                        39.38261
                   ]
             }
       ]
@@ -3624,7 +3993,232 @@ export const portugalCulture: POI[] = [
     },
   },
   {
-    id: "port-leixoes",
+    id: "port-leixoes", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Leça",
+                  "text": "Praia de Leça ist ein breiter Strand in der Nähe von Porto, bekannt für seine Gezeitenpools.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706135,
+                        41.189063
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "Praia Azul ist ein Sandstrand in Matosinhos am Hafen von Leixões.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.714867,
+                        41.204162
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Nova",
+                  "text": "Praia da Boa Nova ist bekannt für ihre felsige Landschaft und die Kapelle am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.713937,
+                        41.202261
+                  ]
+            },
+            {
+                  "name": "Praia do Aterro",
+                  "text": "Praia do Aterro ist ein weitläufiger Strand in der Nähe des Hafens von Leixões.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715718,
+                        41.209867
+                  ]
+            },
+            {
+                  "name": "Praia de Fuzelhas",
+                  "text": "Praia de Fuzelhas ist ein felsiger Strandabschnitt in Matosinhos.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.710604,
+                        41.197135
+                  ]
+            },
+            {
+                  "name": "Praia dos Beijinhos",
+                  "text": "Praia dos Beijinhos ist ein kleiner Strand in der Nähe der Stadt Leça da Palmeira.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.70925,
+                        41.195293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Leça",
+                  "text": "A Praia de Leça egy széles strand Porto közelében, amely az árapály-medencéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706135,
+                        41.189063
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "A Praia Azul egy homokos strand Matosinhosban, a leixõesi kikötőnél.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.714867,
+                        41.204162
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Nova",
+                  "text": "A Praia da Boa Nova sziklás tájáról és a tengerparti kápolnájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.713937,
+                        41.202261
+                  ]
+            },
+            {
+                  "name": "Praia do Aterro",
+                  "text": "A Praia do Aterro egy tágas strand a leixõesi kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715718,
+                        41.209867
+                  ]
+            },
+            {
+                  "name": "Praia de Fuzelhas",
+                  "text": "A Praia de Fuzelhas egy sziklás tengerparti szakasz Matosinhosban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.710604,
+                        41.197135
+                  ]
+            },
+            {
+                  "name": "Praia dos Beijinhos",
+                  "text": "A Praia dos Beijinhos egy kis strand Leça da Palmeira városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.70925,
+                        41.195293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Leça",
+                  "text": "Praia de Leça este o plajă largă lângă Porto, cunoscută pentru piscinele sale cu apă de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706135,
+                        41.189063
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "Praia Azul este o plajă de nisip în Matosinhos, situată lângă portul Leixões.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.714867,
+                        41.204162
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Nova",
+                  "text": "Praia da Boa Nova este cunoscută pentru peisajul stâncos și capela de la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.713937,
+                        41.202261
+                  ]
+            },
+            {
+                  "name": "Praia do Aterro",
+                  "text": "Praia do Aterro este o plajă întinsă situată lângă portul Leixões.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715718,
+                        41.209867
+                  ]
+            },
+            {
+                  "name": "Praia de Fuzelhas",
+                  "text": "Praia de Fuzelhas este o porțiune de plajă stâncoasă în Matosinhos.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.710604,
+                        41.197135
+                  ]
+            },
+            {
+                  "name": "Praia dos Beijinhos",
+                  "text": "Praia dos Beijinhos este o plajă mică situată lângă orașul Leça da Palmeira.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.70925,
+                        41.195293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Leça",
+                  "text": "Praia de Leça is a wide beach near Porto, known for its tidal swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.706135,
+                        41.189063
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "Praia Azul is a sandy beach in Matosinhos at the Port of Leixões.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.714867,
+                        41.204162
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Nova",
+                  "text": "Praia da Boa Nova is known for its rocky landscape and seaside chapel.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.713937,
+                        41.202261
+                  ]
+            },
+            {
+                  "name": "Praia do Aterro",
+                  "text": "Praia do Aterro is an extensive beach located near the Port of Leixões.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.715718,
+                        41.209867
+                  ]
+            },
+            {
+                  "name": "Praia de Fuzelhas",
+                  "text": "Praia de Fuzelhas is a rocky coastal stretch in Matosinhos.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.710604,
+                        41.197135
+                  ]
+            },
+            {
+                  "name": "Praia dos Beijinhos",
+                  "text": "Praia dos Beijinhos is a small beach near the town of Leça da Palmeira.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.70925,
+                        41.195293
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "portugal",
     coords: [-8.6918, 41.185],
@@ -3758,6 +4352,15 @@ export const portugalCulture: POI[] = [
                         -7.599024,
                         41.122388
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein städtisches Schwimmbad in der Region der Douro-Weinberge für die lokale Bevölkerung und Gäste.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.571745,
+                        41.116896
+                  ]
             }
       ],
       "hu": [
@@ -3804,6 +4407,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -7.599024,
                         41.122388
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Városi úszómedence a Douro-borvidéken a helyi lakosok és a vendégek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.571745,
+                        41.116896
                   ]
             }
       ],
@@ -3852,6 +4464,15 @@ export const portugalCulture: POI[] = [
                         -7.599024,
                         41.122388
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină municipală în regiunea podgoriilor Douro, pentru locuitorii locali și oaspeți.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.571745,
+                        41.116896
+                  ]
             }
       ],
       "en": [
@@ -3898,6 +4519,15 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -7.599024,
                         41.122388
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A municipal swimming pool in the Douro Vineyards region for local residents and guests.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.571745,
+                        41.116896
                   ]
             }
       ]
@@ -4366,6 +4996,42 @@ export const portugalCulture: POI[] = [
                         -9.380199,
                         39.355965
                   ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "Ein Strandbad in der Nähe der Festung Peniche, das eine reizvolle Aussicht auf die Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.357225,
+                        39.360117
+                  ]
+            },
+            {
+                  "name": "Praia do Baleal",
+                  "text": "Ein markanter Strand bei Peniche, der besonders bei Surfern und für seine natürliche Schönheit bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.353523,
+                        39.363203
+                  ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "Piscina Infantil ist ein spezielles Kinderbecken bei der Festung Peniche.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.336102,
+                        39.365463
+                  ]
+            },
+            {
+                  "name": "Piscinas AcquaViva",
+                  "text": "Piscinas AcquaViva ist eine Schwimmbadanlage in der Nähe der Festung Peniche.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35655,
+                        39.32616
+                  ]
             }
       ],
       "hu": [
@@ -4430,6 +5096,42 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.380199,
                         39.355965
+                  ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "Strandüdülő a Peniche-erőd közelében, amely lenyűgöző kilátást nyújt a partra.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.357225,
+                        39.360117
+                  ]
+            },
+            {
+                  "name": "Praia do Baleal",
+                  "text": "Jellegzetes tengerpart Peniche közelében, amely különösen a szörfösök körében és természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.353523,
+                        39.363203
+                  ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "A Piscina Infantil egy kifejezetten gyermekek számára fenntartott úszómedence a Peniche-erődnél.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.336102,
+                        39.365463
+                  ]
+            },
+            {
+                  "name": "Piscinas AcquaViva",
+                  "text": "A Piscinas AcquaViva egy úszómedence-létesítmény a Peniche-erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35655,
+                        39.32616
                   ]
             }
       ],
@@ -4496,6 +5198,42 @@ export const portugalCulture: POI[] = [
                         -9.380199,
                         39.355965
                   ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "O stațiune balneară lângă Cetatea Peniche, care oferă o vedere încântătoare asupra coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.357225,
+                        39.360117
+                  ]
+            },
+            {
+                  "name": "Praia do Baleal",
+                  "text": "O plajă distinctivă lângă Peniche, cunoscută în special printre surferi și pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.353523,
+                        39.363203
+                  ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "Piscina Infantil este o piscină dedicată copiilor, situată la Cetatea Peniche.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.336102,
+                        39.365463
+                  ]
+            },
+            {
+                  "name": "Piscinas AcquaViva",
+                  "text": "Piscinas AcquaViva este o unitate de înot situată lângă Cetatea Peniche.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35655,
+                        39.32616
+                  ]
             }
       ],
       "en": [
@@ -4560,6 +5298,42 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.380199,
                         39.355965
+                  ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "A beach resort near the Peniche Fortress, offering charming views of the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.357225,
+                        39.360117
+                  ]
+            },
+            {
+                  "name": "Praia do Baleal",
+                  "text": "A distinctive beach near Peniche, well-known among surfers and for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.353523,
+                        39.363203
+                  ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "Piscina Infantil is a dedicated children's swimming pool located at Peniche Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.336102,
+                        39.365463
+                  ]
+            },
+            {
+                  "name": "Piscinas AcquaViva",
+                  "text": "Piscinas AcquaViva is a swimming pool facility located near the Peniche Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35655,
+                        39.32616
                   ]
             }
       ]
@@ -5317,6 +6091,87 @@ export const portugalNature: POI[] = [
                         -8.384045,
                         37.097143
                   ]
+            },
+            {
+                  "name": "Praia do Vale Espinhaço",
+                  "text": "Praia do Vale Espinhaço liegt an der Algarve in der Nähe der berühmten Benagil-Höhle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.440778,
+                        37.087808
+                  ]
+            },
+            {
+                  "name": "Praia da Corredoura",
+                  "text": "Praia da Corredoura ist ein abgelegener Strand, der nur vom Meer aus zugänglich ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.421643,
+                        37.087527
+                  ]
+            },
+            {
+                  "name": "Praia do Cão Raivoso",
+                  "text": "Praia do Cão Raivoso ist ein kleiner Strandabschnitt inmitten der Klippen von Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418124,
+                        37.087448
+                  ]
+            },
+            {
+                  "name": "Praia do Barranquinho",
+                  "text": "Praia do Barranquinho ist ein ruhiger Naturbadeplatz an der Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.405591,
+                        37.089882
+                  ]
+            },
+            {
+                  "name": "Praia do Pontal",
+                  "text": "Praia do Pontal bietet einen weiten Blick auf die Felsformationen bei Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392563,
+                        37.093469
+                  ]
+            },
+            {
+                  "name": "Praia da Morena",
+                  "text": "Praia da Morena ist ein Strandabschnitt an der zerklüfteten Küste von Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393995,
+                        37.09307
+                  ]
+            },
+            {
+                  "name": "Praia da Malhada do Baraço",
+                  "text": "Praia da Malhada do Baraço ist ein kleiner Küstenstreifen in der Nähe von Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.407097,
+                        37.090022
+                  ]
+            },
+            {
+                  "name": "Praia do Pau",
+                  "text": "Praia do Pau ist ein naturbelassener Strand in der Region Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.410413,
+                        37.089702
+                  ]
+            },
+            {
+                  "name": "Praia das Fontaínhas",
+                  "text": "Praia das Fontaínhas ist ein abgelegener Strand an der Algarve, umgeben von Steilklippen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395648,
+                        37.091999
+                  ]
             }
       ],
       "hu": [
@@ -5390,6 +6245,87 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.384045,
                         37.097143
+                  ]
+            },
+            {
+                  "name": "Praia do Vale Espinhaço",
+                  "text": "A Praia do Vale Espinhaço az Algarve partján található, a híres Benagil-barlang közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.440778,
+                        37.087808
+                  ]
+            },
+            {
+                  "name": "Praia da Corredoura",
+                  "text": "A Praia da Corredoura egy félreeső strand, amely csak a tenger felől közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.421643,
+                        37.087527
+                  ]
+            },
+            {
+                  "name": "Praia do Cão Raivoso",
+                  "text": "A Praia do Cão Raivoso egy kis strandszakasz a Benagil sziklái között.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418124,
+                        37.087448
+                  ]
+            },
+            {
+                  "name": "Praia do Barranquinho",
+                  "text": "A Praia do Barranquinho egy csendes, természetes fürdőhely az Algarve-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.405591,
+                        37.089882
+                  ]
+            },
+            {
+                  "name": "Praia do Pontal",
+                  "text": "A Praia do Pontal széles kilátást nyújt a Benagil környéki sziklaformációkra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392563,
+                        37.093469
+                  ]
+            },
+            {
+                  "name": "Praia da Morena",
+                  "text": "A Praia da Morena egy strandszakasz a Benagil sziklás partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393995,
+                        37.09307
+                  ]
+            },
+            {
+                  "name": "Praia da Malhada do Baraço",
+                  "text": "A Praia da Malhada do Baraço egy kis tengerparti szakasz Benagil közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.407097,
+                        37.090022
+                  ]
+            },
+            {
+                  "name": "Praia do Pau",
+                  "text": "A Praia do Pau egy természetes állapotban lévő strand Benagil régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.410413,
+                        37.089702
+                  ]
+            },
+            {
+                  "name": "Praia das Fontaínhas",
+                  "text": "A Praia das Fontaínhas egy eldugott strand az Algarve partján, sziklákkal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395648,
+                        37.091999
                   ]
             }
       ],
@@ -5465,6 +6401,87 @@ export const portugalNature: POI[] = [
                         -8.384045,
                         37.097143
                   ]
+            },
+            {
+                  "name": "Praia do Vale Espinhaço",
+                  "text": "Praia do Vale Espinhaço se află pe coasta Algarve, aproape de celebra peșteră Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.440778,
+                        37.087808
+                  ]
+            },
+            {
+                  "name": "Praia da Corredoura",
+                  "text": "Praia da Corredoura este o plajă izolată, accesibilă doar de pe mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.421643,
+                        37.087527
+                  ]
+            },
+            {
+                  "name": "Praia do Cão Raivoso",
+                  "text": "Praia do Cão Raivoso este o mică porțiune de plajă printre stâncile din Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418124,
+                        37.087448
+                  ]
+            },
+            {
+                  "name": "Praia do Barranquinho",
+                  "text": "Praia do Barranquinho este un loc liniștit pentru scăldat situat în Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.405591,
+                        37.089882
+                  ]
+            },
+            {
+                  "name": "Praia do Pontal",
+                  "text": "Praia do Pontal oferă o vedere largă asupra formațiunilor stâncoase de lângă Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392563,
+                        37.093469
+                  ]
+            },
+            {
+                  "name": "Praia da Morena",
+                  "text": "Praia da Morena este o porțiune de plajă pe coasta stâncoasă a zonei Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393995,
+                        37.09307
+                  ]
+            },
+            {
+                  "name": "Praia da Malhada do Baraço",
+                  "text": "Praia da Malhada do Baraço este o mică fâșie de coastă lângă Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.407097,
+                        37.090022
+                  ]
+            },
+            {
+                  "name": "Praia do Pau",
+                  "text": "Praia do Pau este o plajă naturală situată în regiunea Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.410413,
+                        37.089702
+                  ]
+            },
+            {
+                  "name": "Praia das Fontaínhas",
+                  "text": "Praia das Fontaínhas este o plajă retrasă din Algarve, înconjurată de faleze abrupte.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395648,
+                        37.091999
+                  ]
             }
       ],
       "en": [
@@ -5538,6 +6555,87 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.384045,
                         37.097143
+                  ]
+            },
+            {
+                  "name": "Praia do Vale Espinhaço",
+                  "text": "Praia do Vale Espinhaço is located on the Algarve coast near the famous Benagil Cave.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.440778,
+                        37.087808
+                  ]
+            },
+            {
+                  "name": "Praia da Corredoura",
+                  "text": "Praia da Corredoura is a secluded beach accessible only by sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.421643,
+                        37.087527
+                  ]
+            },
+            {
+                  "name": "Praia do Cão Raivoso",
+                  "text": "Praia do Cão Raivoso is a small beach section nestled among the Benagil cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.418124,
+                        37.087448
+                  ]
+            },
+            {
+                  "name": "Praia do Barranquinho",
+                  "text": "Praia do Barranquinho is a quiet natural swimming spot on the Algarve coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.405591,
+                        37.089882
+                  ]
+            },
+            {
+                  "name": "Praia do Pontal",
+                  "text": "Praia do Pontal offers a wide view of the rock formations near Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.392563,
+                        37.093469
+                  ]
+            },
+            {
+                  "name": "Praia da Morena",
+                  "text": "Praia da Morena is a beach section on the rugged coastline of Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.393995,
+                        37.09307
+                  ]
+            },
+            {
+                  "name": "Praia da Malhada do Baraço",
+                  "text": "Praia da Malhada do Baraço is a small coastal stretch near Benagil.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.407097,
+                        37.090022
+                  ]
+            },
+            {
+                  "name": "Praia do Pau",
+                  "text": "Praia do Pau is a natural beach located in the Benagil region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.410413,
+                        37.089702
+                  ]
+            },
+            {
+                  "name": "Praia das Fontaínhas",
+                  "text": "Praia das Fontaínhas is a secluded beach on the Algarve, surrounded by steep cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.395648,
+                        37.091999
                   ]
             }
       ]
@@ -5658,6 +6756,15 @@ export const portugalNature: POI[] = [
                         -9.443843,
                         38.794013
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "Ein öffentliches Schwimmbad, das von der örtlichen Feuerwehr in Colares betrieben wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
+                  ]
             }
       ],
       "hu": [
@@ -5731,6 +6838,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -9.443843,
                         38.794013
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "A helyi tűzoltóság által üzemeltetett nyilvános uszoda Colaresben.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
                   ]
             }
       ],
@@ -5806,6 +6922,15 @@ export const portugalNature: POI[] = [
                         -9.443843,
                         38.794013
                   ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "O piscină publică administrată de pompierii locali din Colares.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
+                  ]
             }
       ],
       "en": [
@@ -5879,6 +7004,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -9.443843,
                         38.794013
+                  ]
+            },
+            {
+                  "name": "Piscina dos Bombeiros de Colares",
+                  "text": "A public swimming pool operated by the local fire brigade in Colares.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.445803,
+                        38.800838
                   ]
             }
       ]
@@ -5999,6 +7133,15 @@ export const portugalNature: POI[] = [
                         -8.141568,
                         41.73321
                   ]
+            },
+            {
+                  "name": "Termas do Gerês",
+                  "text": "Ein Thermalbad im Nationalpark Peneda-Gerês, bekannt für sein Heilwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.161513,
+                        41.729176
+                  ]
             }
       ],
       "hu": [
@@ -6072,6 +7215,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.141568,
                         41.73321
+                  ]
+            },
+            {
+                  "name": "Termas do Gerês",
+                  "text": "Termálfürdő a Peneda-Gerês Nemzeti Parkban, gyógyvizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.161513,
+                        41.729176
                   ]
             }
       ],
@@ -6147,6 +7299,15 @@ export const portugalNature: POI[] = [
                         -8.141568,
                         41.73321
                   ]
+            },
+            {
+                  "name": "Termas do Gerês",
+                  "text": "Băi termale în Parcul Național Peneda-Gerês, cunoscute pentru apele curative.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.161513,
+                        41.729176
+                  ]
             }
       ],
       "en": [
@@ -6220,6 +7381,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.141568,
                         41.73321
+                  ]
+            },
+            {
+                  "name": "Termas do Gerês",
+                  "text": "Thermal baths in Peneda-Gerês National Park, known for their healing waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.161513,
+                        41.729176
                   ]
             }
       ]
@@ -6735,6 +7905,15 @@ export const portugalNature: POI[] = [
                         -25.491846,
                         37.762679
                   ]
+            },
+            {
+                  "name": "Zona Balnear da Caloura",
+                  "text": "Ein Badebereich in Caloura, bekannt für sein klares Wasser und die Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.495695,
+                        37.713344
+                  ]
             }
       ],
       "hu": [
@@ -6808,6 +7987,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -25.491846,
                         37.762679
+                  ]
+            },
+            {
+                  "name": "Zona Balnear da Caloura",
+                  "text": "Caloura fürdőhelye, amely tiszta vizéről és tengerparti tájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.495695,
+                        37.713344
                   ]
             }
       ],
@@ -6883,6 +8071,15 @@ export const portugalNature: POI[] = [
                         -25.491846,
                         37.762679
                   ]
+            },
+            {
+                  "name": "Zona Balnear da Caloura",
+                  "text": "O zonă de scăldat în Caloura, cunoscută pentru apele sale limpezi și peisajul de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.495695,
+                        37.713344
+                  ]
             }
       ],
       "en": [
@@ -6956,6 +8153,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -25.491846,
                         37.762679
+                  ]
+            },
+            {
+                  "name": "Zona Balnear da Caloura",
+                  "text": "A bathing area in Caloura, known for its clear waters and coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.495695,
+                        37.713344
                   ]
             }
       ]
@@ -7685,6 +8891,15 @@ export const portugalNature: POI[] = [
                         -17.026509,
                         32.751859
                   ]
+            },
+            {
+                  "name": "Piscinas do Calamar",
+                  "text": "Piscinas do Calamar ist eine Schwimmbadanlage im Gebiet des Lorbeerwaldes von Madeira.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.04395,
+                        32.811886
+                  ]
             }
       ],
       "hu": [
@@ -7749,6 +8964,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -17.026509,
                         32.751859
+                  ]
+            },
+            {
+                  "name": "Piscinas do Calamar",
+                  "text": "A Piscinas do Calamar egy úszómedence-létesítmény Madeira babérerdőjének területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.04395,
+                        32.811886
                   ]
             }
       ],
@@ -7815,6 +9039,15 @@ export const portugalNature: POI[] = [
                         -17.026509,
                         32.751859
                   ]
+            },
+            {
+                  "name": "Piscinas do Calamar",
+                  "text": "Piscinas do Calamar este o unitate de înot situată în zona pădurii de lauri din Madeira.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.04395,
+                        32.811886
+                  ]
             }
       ],
       "en": [
@@ -7879,6 +9112,15 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -17.026509,
                         32.751859
+                  ]
+            },
+            {
+                  "name": "Piscinas do Calamar",
+                  "text": "Piscinas do Calamar is a swimming pool facility located in the Madeira Laurisilva forest area.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.04395,
+                        32.811886
                   ]
             }
       ]
@@ -8573,6 +9815,24 @@ export const portugalNature: POI[] = [
                         -25.283712,
                         37.787348
                   ]
+            },
+            {
+                  "name": "Open air bath with hot water",
+                  "text": "Dieses Freibad mit heißem Wasser befindet sich am Furnas-See.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.333129,
+                        37.768317
+                  ]
+            },
+            {
+                  "name": "Serena",
+                  "text": "Serenity ist ein Schwimmbecken am Furnas-See.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.320228,
+                        37.769518
+                  ]
             }
       ],
       "hu": [
@@ -8646,6 +9906,24 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -25.283712,
                         37.787348
+                  ]
+            },
+            {
+                  "name": "Open air bath with hot water",
+                  "text": "Ez a meleg vizes szabadtéri fürdő a Furnas-tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.333129,
+                        37.768317
+                  ]
+            },
+            {
+                  "name": "Serena",
+                  "text": "A Serenity egy úszómedence a Furnas-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.320228,
+                        37.769518
                   ]
             }
       ],
@@ -8721,6 +9999,24 @@ export const portugalNature: POI[] = [
                         -25.283712,
                         37.787348
                   ]
+            },
+            {
+                  "name": "Open air bath with hot water",
+                  "text": "Această baie în aer liber cu apă caldă este situată lângă lacul Furnas.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.333129,
+                        37.768317
+                  ]
+            },
+            {
+                  "name": "Serena",
+                  "text": "Serenity este o piscină situată lângă lacul Furnas.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.320228,
+                        37.769518
+                  ]
             }
       ],
       "en": [
@@ -8794,6 +10090,24 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -25.283712,
                         37.787348
+                  ]
+            },
+            {
+                  "name": "Open air bath with hot water",
+                  "text": "This open-air bath with hot water is located by Furnas Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.333129,
+                        37.768317
+                  ]
+            },
+            {
+                  "name": "Serenity",
+                  "text": "Serenity is a swimming pool located by Furnas Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.320228,
+                        37.769518
                   ]
             }
       ]
@@ -9110,7 +10424,232 @@ export const portugalNature: POI[] = [
     },
   },
   {
-    id: "river-rio-minho", "sights": {"de": [{"name": "Area Grande", "text": "Area Grande ist ein Strand in A Guarda.", "category": "recreational", "coords": [-8.876461, 41.910069]}, {"name": "Praia de Fedorento", "text": "In der wunderschönen Region von A Guarda nahe dem Fluss Minho liegt die Praia de Fedorento, ein einladender Küstenabschnitt in Portugal. Dieser Strandbereich bietet meist eine ruhige, lokale Atmosphäre abseits der belebtesten Touristenpfade. Es ist ein hervorragender Ort zum Sonnenbaden, für kurze Badeinlagen und um die malerische Umgebung von Fluss und Ozean auf sich wirken zu lassen. Bringen Sie bequeme Schuhe mit, um die nahegelegenen Uferbereiche zu erkunden.", "category": "recreational", "coords": [-8.876276, 41.908009]}, {"name": "Praia do Muíño", "text": "Praia do Muíño ist ein charmanter, lokaler Strand in der Gegend von A Guarda, der von der Nähe des Flusses Minho geprägt ist. Mit seiner authentischen, lokalen Atmosphäre dient er als wunderbarer Treffpunkt für alle, die einen entspannten Nachmittag verbringen möchten. Besucher können hier wunderbar schwimmen, sich in der Sonne ausruhen oder Spaziergänge an den portugiesischen Gewässern unternehmen. Für das beste Stranderlebnis empfiehlt sich ein Besuch in den Sommermonaten.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Entdecken Sie die Schönheit der Praia da Armona, einem wunderbaren Sandstrand in A Guarda, Portugal. Die allgemeine Stimmung ist friedlich und beruhigend, was es leicht macht, den Stress des Alltags zu vergessen. Sonnenbaden, Schwimmen im erfrischenden Wasser und Strandspaziergänge sind hier die absoluten Höhepunkte. Wer früh am Morgen anreist, kann sich mühelos einen perfekten Platz im Sand sichern.", "category": "recreational", "coords": [-8.856023, 41.882528]}], "hu": [{"name": "Area Grande", "text": "Az Area Grande egy strand A Guardában.", "category": "recreational", "coords": [-8.876461, 41.910069]}, {"name": "Praia de Fedorento", "text": "Az A Guarda gyönyörű régiójában, a Minho folyó közelében található Praia de Fedorento egy hívogató tengerparti terület Portugáliában. Ez a partszakasz általában csendes, helyi hangulatot áraszt, távol a legforgalmasabb turistautaktól. Kiváló helyszínt biztosít a napozáshoz, egy rövid fürdőzéshez és a festői folyami és óceáni környezet befogadásához. Érdemes kényelmes cipőt hozni a közeli partszakasz felfedezéséhez.", "category": "recreational", "coords": [-8.876276, 41.908009]}, {"name": "Praia do Muíño", "text": "A Praia do Muíño egy bájos helyi strand az A Guarda térségben, amelyet a Minho folyó jelenléte tesz különlegessé. Autentikus helyi hangulatával csodálatos találkozóhelyként szolgál azok számára, akik egy laza délutánra vágynak. A látogatók kedvükre úszhatnak, pihenhetnek a napon, vagy sétálhatnak a portugál vizek mentén. A legjobb strandélmény érdekében kifejezetten ajánlott a nyári hónapokban ellátogatni ide.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Fedezze fel a Praia da Armona szépségét, amely egy szép homokos menedék a portugáliai A Guarda-ban. Az általános hangulat békés és megnyugtató, így könnyen elfelejthetjük a mindennapok stresszét. A napozás, a frissítő vízben való úszás és a tengerparti séták jelentik itt a főbb látványosságokat. Érdemes kora reggel érkezni, hogy lefoglaljuk a tökéletes helyet a homokban.", "category": "recreational", "coords": [-8.856023, 41.882528]}], "ro": [{"name": "Area Grande", "text": "Area Grande este o plajă situată în A Guarda.", "category": "recreational", "coords": [-8.876461, 41.910069]}, {"name": "Praia de Fedorento", "text": "Găsită în frumoasa regiune A Guarda, lângă râul Minho, Praia de Fedorento este o zonă de coastă primitoare din Portugalia. Această zonă de plajă oferă de obicei o atmosferă liniștită, locală, departe de cele mai aglomerate trasee turistice. Oferă un cadru excelent pentru plajă, înot scurt și pentru a absorbi împrejurimile pitorești ale râului și oceanului. Aduceți încălțăminte confortabilă pentru a explora elementele din apropierea țărmului.", "category": "recreational", "coords": [-8.876276, 41.908009]}, {"name": "Praia do Muíño", "text": "Praia do Muíño este o plajă locală fermecătoare, amplasată în zona A Guarda, conturată de prezența râului Minho. Cu atmosfera sa locală autentică, servește drept un loc minunat de adunare pentru cei care caută o după-amiază relaxantă. Vizitatorii pot înota fericiți, se pot odihni sub soare sau se pot bucura de plimbări de-a lungul apelor portugheze. Vizitarea în timpul lunilor de vară este foarte recomandată pentru cea mai bună experiență pe plajă.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Descoperiți frumusețea Praia da Armona, un refugiu frumos de nisip situat în A Guarda, Portugalia. Atmosfera generală este pașnică și liniștitoare, fiind ușor să uitați de stresul vieții de zi cu zi. Plaja, înotul în apele răcoritoare și plimbările pe coastă sunt principalele atracții aici. Luați în considerare sosirea dis-de-dimineață pentru a vă asigura un loc perfect pe nisip.", "category": "recreational", "coords": [-8.856023, 41.882528]}], "en": [{"name": "Area Grande", "text": "Area Grande is a beach located in A Guarda.", "category": "recreational", "coords": [-8.876461, 41.910069]}, {"name": "Praia de Fedorento", "text": "Found in the beautiful region of A Guarda near the Minho River, Praia de Fedorento is an inviting coastal area in Portugal. This beach area usually offers a quiet, local vibe away from the busiest tourist trails. It provides an excellent setting for sunbathing, brief swims, and absorbing the scenic river and ocean surroundings. Bring comfortable shoes for exploring the nearby shoreline elements.", "category": "recreational", "coords": [-8.876276, 41.908009]}, {"name": "Praia do Muíño", "text": "Praia do Muíño is a charming local beach nestled in the A Guarda area, shaped by the presence of the Minho River. With its authentic local atmosphere, it serves as a wonderful gathering place for those seeking a laid-back afternoon. Visitors can happily swim, rest under the sun, or enjoy walks along the Portuguese waters. Visiting during the summer months is highly recommended for the best beach experience.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Discover the beauty of Praia da Armona, a lovely sandy retreat located within A Guarda, Portugal. The overall mood is peaceful and soothing, making it easy to forget the stresses of everyday life. Sunbathing, swimming in the refreshing waters, and coastal walks are the main highlights here. Consider arriving early in the morning to claim a perfect spot on the sand.", "category": "recreational", "coords": [-8.856023, 41.882528]}]},
+    id: "river-rio-minho", "sights": {
+      "de": [
+            {
+                  "name": "Area Grande",
+                  "text": "Area Grande ist ein Strand in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "In der wunderschönen Region von A Guarda nahe dem Fluss Minho liegt die Praia de Fedorento, ein einladender Küstenabschnitt in Portugal. Dieser Strandbereich bietet meist eine ruhige, lokale Atmosphäre abseits der belebtesten Touristenpfade. Es ist ein hervorragender Ort zum Sonnenbaden, für kurze Badeinlagen und um die malerische Umgebung von Fluss und Ozean auf sich wirken zu lassen. Bringen Sie bequeme Schuhe mit, um die nahegelegenen Uferbereiche zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Praia do Muíño ist ein charmanter, lokaler Strand in der Gegend von A Guarda, der von der Nähe des Flusses Minho geprägt ist. Mit seiner authentischen, lokalen Atmosphäre dient er als wunderbarer Treffpunkt für alle, die einen entspannten Nachmittag verbringen möchten. Besucher können hier wunderbar schwimmen, sich in der Sonne ausruhen oder Spaziergänge an den portugiesischen Gewässern unternehmen. Für das beste Stranderlebnis empfiehlt sich ein Besuch in den Sommermonaten.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Entdecken Sie die Schönheit der Praia da Armona, einem wunderbaren Sandstrand in A Guarda, Portugal. Die allgemeine Stimmung ist friedlich und beruhigend, was es leicht macht, den Stress des Alltags zu vergessen. Sonnenbaden, Schwimmen im erfrischenden Wasser und Strandspaziergänge sind hier die absoluten Höhepunkte. Wer früh am Morgen anreist, kann sich mühelos einen perfekten Platz im Sand sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "Ein Flussstrand am Minho, der eine erfrischende Bademöglichkeit bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.874449,
+                        41.899432
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro",
+                  "text": "Ein malerischer Ort am Minho, ideal um das natürliche Flussufer zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876398,
+                        41.897821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area Grande",
+                  "text": "Az Area Grande egy strand A Guardában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "Az A Guarda gyönyörű régiójában, a Minho folyó közelében található Praia de Fedorento egy hívogató tengerparti terület Portugáliában. Ez a partszakasz általában csendes, helyi hangulatot áraszt, távol a legforgalmasabb turistautaktól. Kiváló helyszínt biztosít a napozáshoz, egy rövid fürdőzéshez és a festői folyami és óceáni környezet befogadásához. Érdemes kényelmes cipőt hozni a közeli partszakasz felfedezéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "A Praia do Muíño egy bájos helyi strand az A Guarda térségben, amelyet a Minho folyó jelenléte tesz különlegessé. Autentikus helyi hangulatával csodálatos találkozóhelyként szolgál azok számára, akik egy laza délutánra vágynak. A látogatók kedvükre úszhatnak, pihenhetnek a napon, vagy sétálhatnak a portugál vizek mentén. A legjobb strandélmény érdekében kifejezetten ajánlott a nyári hónapokban ellátogatni ide.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Fedezze fel a Praia da Armona szépségét, amely egy szép homokos menedék a portugáliai A Guarda-ban. Az általános hangulat békés és megnyugtató, így könnyen elfelejthetjük a mindennapok stresszét. A napozás, a frissítő vízben való úszás és a tengerparti séták jelentik itt a főbb látványosságokat. Érdemes kora reggel érkezni, hogy lefoglaljuk a tökéletes helyet a homokban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "Folyami strand a Minho-folyónál, amely frissítő fürdőzési lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.874449,
+                        41.899432
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro",
+                  "text": "Festői hely a Minho-folyó mentén, amely alkalmas a természetes folyópart élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876398,
+                        41.897821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area Grande",
+                  "text": "Area Grande este o plajă situată în A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "Găsită în frumoasa regiune A Guarda, lângă râul Minho, Praia de Fedorento este o zonă de coastă primitoare din Portugalia. Această zonă de plajă oferă de obicei o atmosferă liniștită, locală, departe de cele mai aglomerate trasee turistice. Oferă un cadru excelent pentru plajă, înot scurt și pentru a absorbi împrejurimile pitorești ale râului și oceanului. Aduceți încălțăminte confortabilă pentru a explora elementele din apropierea țărmului.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Praia do Muíño este o plajă locală fermecătoare, amplasată în zona A Guarda, conturată de prezența râului Minho. Cu atmosfera sa locală autentică, servește drept un loc minunat de adunare pentru cei care caută o după-amiază relaxantă. Vizitatorii pot înota fericiți, se pot odihni sub soare sau se pot bucura de plimbări de-a lungul apelor portugheze. Vizitarea în timpul lunilor de vară este foarte recomandată pentru cea mai bună experiență pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Descoperiți frumusețea Praia da Armona, un refugiu frumos de nisip situat în A Guarda, Portugalia. Atmosfera generală este pașnică și liniștitoare, fiind ușor să uitați de stresul vieții de zi cu zi. Plaja, înotul în apele răcoritoare și plimbările pe coastă sunt principalele atracții aici. Luați în considerare sosirea dis-de-dimineață pentru a vă asigura un loc perfect pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "O plajă fluvială pe râul Minho, oferind un loc revigorant pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.874449,
+                        41.899432
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro",
+                  "text": "Un loc pitoresc de-a lungul râului Minho, potrivit pentru a te bucura de malul natural al râului.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876398,
+                        41.897821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area Grande",
+                  "text": "Area Grande is a beach located in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "Found in the beautiful region of A Guarda near the Minho River, Praia de Fedorento is an inviting coastal area in Portugal. This beach area usually offers a quiet, local vibe away from the busiest tourist trails. It provides an excellent setting for sunbathing, brief swims, and absorbing the scenic river and ocean surroundings. Bring comfortable shoes for exploring the nearby shoreline elements.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Praia do Muíño is a charming local beach nestled in the A Guarda area, shaped by the presence of the Minho River. With its authentic local atmosphere, it serves as a wonderful gathering place for those seeking a laid-back afternoon. Visitors can happily swim, rest under the sun, or enjoy walks along the Portuguese waters. Visiting during the summer months is highly recommended for the best beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Discover the beauty of Praia da Armona, a lovely sandy retreat located within A Guarda, Portugal. The overall mood is peaceful and soothing, making it easy to forget the stresses of everyday life. Sunbathing, swimming in the refreshing waters, and coastal walks are the main highlights here. Consider arriving early in the morning to claim a perfect spot on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "A river beach on the Minho River, offering a refreshing swimming spot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.874449,
+                        41.899432
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro",
+                  "text": "A scenic spot along the Minho River, suitable for enjoying the natural riverside.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876398,
+                        41.897821
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "city-viana-do-castelo",
     coords: [-8.843, 41.915],
@@ -9209,6 +10748,24 @@ export const portugalNature: POI[] = [
                         -8.684732,
                         40.172637
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Montemor-o-Velho",
+                  "text": "Öffentliche Schwimmbäder der Gemeinde Montemor-o-Velho am Fluss Mondego.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.673404,
+                        40.180699
+                  ]
+            },
+            {
+                  "name": "Europaradise Park",
+                  "text": "Ein öffentlicher Park in der Nähe des Flusses Mondego, der Raum für Spaziergänge und Aktivitäten im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        -8.677339,
+                        40.19654
+                  ]
             }
       ],
       "hu": [
@@ -9264,6 +10821,24 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.684732,
                         40.172637
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Montemor-o-Velho",
+                  "text": "Montemor-o-Velho községi úszómedencéi a Mondego-folyó mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.673404,
+                        40.180699
+                  ]
+            },
+            {
+                  "name": "Europaradise Park",
+                  "text": "A Mondego-folyó közelében fekvő nyilvános park, amely helyet biztosít sétákhoz és szabadtéri tevékenységekhez.",
+                  "category": "park",
+                  "coords": [
+                        -8.677339,
+                        40.19654
                   ]
             }
       ],
@@ -9321,6 +10896,24 @@ export const portugalNature: POI[] = [
                         -8.684732,
                         40.172637
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Montemor-o-Velho",
+                  "text": "Piscinele municipale din Montemor-o-Velho, lângă râul Mondego.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.673404,
+                        40.180699
+                  ]
+            },
+            {
+                  "name": "Europaradise Park",
+                  "text": "Un parc public situat în apropierea râului Mondego, oferind spațiu pentru plimbări și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -8.677339,
+                        40.19654
+                  ]
             }
       ],
       "en": [
@@ -9377,6 +10970,24 @@ export const portugalNature: POI[] = [
                         -8.684732,
                         40.172637
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Montemor-o-Velho",
+                  "text": "Public municipal swimming pools of Montemor-o-Velho near the Mondego River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.673404,
+                        40.180699
+                  ]
+            },
+            {
+                  "name": "Europaradise Park",
+                  "text": "A public park located near the Mondego River, providing space for walks and outdoor activities.",
+                  "category": "park",
+                  "coords": [
+                        -8.677339,
+                        40.19654
+                  ]
             }
       ]
 },
@@ -9423,7 +11034,124 @@ export const portugalNature: POI[] = [
     },
   },
   {
-    id: "island-ilha-da-culatra",
+    id: "island-ilha-da-culatra", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Culatra",
+                  "text": "Ein weitläufiger Sandstrand auf der Insel Culatra an der Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.802258,
+                        37.003242
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "Ein Strandresort-Bereich auf der Insel Armona in der Ria Formosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "Ein wunderschöner Atlantikstrand auf der Insel Armona bei Olhão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.788733,
+                        37.017705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Culatra",
+                  "text": "Kiterjedt homokos strand az Algarve-i Culatra-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.802258,
+                        37.003242
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "Tengerparti üdülőhely az Armona-szigeten, a Ria Formosa területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "Gyönyörű atlanti strand az Olhão melletti Armona-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.788733,
+                        37.017705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Culatra",
+                  "text": "O plajă întinsă de nisip pe insula Culatra din Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.802258,
+                        37.003242
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "O zonă de stațiune de plajă pe insula Armona din Ria Formosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "O plajă frumoasă la Atlantic pe insula Armona de lângă Olhão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.788733,
+                        37.017705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Culatra",
+                  "text": "An extensive sandy beach on Culatra Island in the Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.802258,
+                        37.003242
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "A beach resort area on Armona Island within the Ria Formosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "A beautiful Atlantic beach on Armona Island near Olhão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.788733,
+                        37.017705
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "reg-algarve",
     coords: [-7.808, 36.994],
@@ -10127,6 +11855,24 @@ export const portugalCities: POI[] = [
                         -8.436179,
                         40.203559
                   ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "Ein spezielles Kinderbecken in Coimbra, das für sicheres Schwimmen und Wasserspaß konzipiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.427443,
+                        40.198113
+                  ]
+            },
+            {
+                  "name": "Piscinas do Parque de Campismo",
+                  "text": "Schwimmbecken auf dem Campingplatz von Coimbra, die Erfrischung für Gäste und Besucher bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.400021,
+                        40.188812
+                  ]
             }
       ],
       "hu": [
@@ -10515,6 +12261,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.436179,
                         40.203559
+                  ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "Kifejezetten gyermekeknek kialakított úszómedence Coimbra városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.427443,
+                        40.198113
+                  ]
+            },
+            {
+                  "name": "Piscinas do Parque de Campismo",
+                  "text": "A coimbrai kemping úszómedencéi, amelyek felfrissülést nyújtanak a vendégeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.400021,
+                        40.188812
                   ]
             }
       ],
@@ -10905,6 +12669,24 @@ export const portugalCities: POI[] = [
                         -8.436179,
                         40.203559
                   ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "O piscină specială pentru copii în Coimbra, concepută pentru înot în siguranță și distracție.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.427443,
+                        40.198113
+                  ]
+            },
+            {
+                  "name": "Piscinas do Parque de Campismo",
+                  "text": "Piscine în incinta parcului de camping din Coimbra, oferind relaxare oaspeților și vizitatorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.400021,
+                        40.188812
+                  ]
             }
       ],
       "en": [
@@ -11294,6 +13076,24 @@ export const portugalCities: POI[] = [
                         -8.436179,
                         40.203559
                   ]
+            },
+            {
+                  "name": "Piscina Infantil",
+                  "text": "A dedicated children's swimming pool in Coimbra designed for safe swimming and water fun.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.427443,
+                        40.198113
+                  ]
+            },
+            {
+                  "name": "Piscinas do Parque de Campismo",
+                  "text": "Swimming pools located within the Coimbra camping park, offering refreshment for guests and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.400021,
+                        40.188812
+                  ]
             }
       ]
 },
@@ -11386,6 +13186,15 @@ export const portugalCities: POI[] = [
                         -8.381483,
                         41.548824
                   ]
+            },
+            {
+                  "name": "Quinta Pedagógica de Braga",
+                  "text": "Ein pädagogischer Bauernhof in Braga, auf dem Kinder heimische Tiere kennenlernen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.437971,
+                        41.561262
+                  ]
             }
       ],
       "hu": [
@@ -11432,6 +13241,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.381483,
                         41.548824
+                  ]
+            },
+            {
+                  "name": "Quinta Pedagógica de Braga",
+                  "text": "Oktató jellegű tanya Bragában, ahol a gyerekek megismerkedhetnek a háziállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.437971,
+                        41.561262
                   ]
             }
       ],
@@ -11480,6 +13298,15 @@ export const portugalCities: POI[] = [
                         -8.381483,
                         41.548824
                   ]
+            },
+            {
+                  "name": "Quinta Pedagógica de Braga",
+                  "text": "O fermă pedagogică în Braga, unde copiii pot învăța despre animalele domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.437971,
+                        41.561262
+                  ]
             }
       ],
       "en": [
@@ -11526,6 +13353,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.381483,
                         41.548824
+                  ]
+            },
+            {
+                  "name": "Quinta Pedagógica de Braga",
+                  "text": "An educational farm in Braga where children can learn about domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.437971,
+                        41.561262
                   ]
             }
       ]
@@ -13022,6 +14858,15 @@ export const portugalCities: POI[] = [
                         -8.901084,
                         38.532902
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Setubal",
+                  "text": "Das städtische Schwimmbad von Setubal bietet Einrichtungen für Schwimmtraining und öffentliche Nutzung.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.889376,
+                        38.534
+                  ]
             }
       ],
       "hu": [
@@ -13302,6 +15147,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.901084,
                         38.532902
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Setubal",
+                  "text": "Setubal városi uszodája, amely edzésekre és lakossági használatra is nyitva áll.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.889376,
+                        38.534
                   ]
             }
       ],
@@ -13584,6 +15438,15 @@ export const portugalCities: POI[] = [
                         -8.901084,
                         38.532902
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Setubal",
+                  "text": "Piscina municipală din Setubal oferă facilități pentru antrenamente de înot și uz public.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.889376,
+                        38.534
+                  ]
             }
       ],
       "en": [
@@ -13864,6 +15727,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.901084,
                         38.532902
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Setubal",
+                  "text": "The municipal swimming pool of Setubal offers facilities for swimming training and public use.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.889376,
+                        38.534
                   ]
             }
       ]
@@ -15871,6 +17743,15 @@ export const portugalCities: POI[] = [
                         -7.909812,
                         40.660731
                   ]
+            },
+            {
+                  "name": "Piscinas de Cabanões",
+                  "text": "Ein Wasserpark in Viseu mit verschiedenen Becken für sommerliches Badevergnügen.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.904388,
+                        40.630686
+                  ]
             }
       ],
       "hu": [
@@ -16250,6 +18131,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.909812,
                         40.660731
+                  ]
+            },
+            {
+                  "name": "Piscinas de Cabanões",
+                  "text": "Viseu melletti vízipark különféle medencékkel a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.904388,
+                        40.630686
                   ]
             }
       ],
@@ -16631,6 +18521,15 @@ export const portugalCities: POI[] = [
                         -7.909812,
                         40.660731
                   ]
+            },
+            {
+                  "name": "Piscinas de Cabanões",
+                  "text": "Un parc acvatic în Viseu cu diverse bazine pentru distracție estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.904388,
+                        40.630686
+                  ]
             }
       ],
       "en": [
@@ -17010,6 +18909,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.909812,
                         40.660731
+                  ]
+            },
+            {
+                  "name": "Piscinas de Cabanões",
+                  "text": "A water park in Viseu featuring various pools for summer bathing fun.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.904388,
+                        40.630686
                   ]
             }
       ]
@@ -21193,6 +23101,15 @@ export const portugalCities: POI[] = [
                         -16.932601,
                         32.635576
                   ]
+            },
+            {
+                  "name": "Complexo Balnear da Quinta Calaça",
+                  "text": "Ein Badekomplex in Funchal mit Zugang zum Meer und verschiedenen Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.938937,
+                        32.635423
+                  ]
             }
       ],
       "hu": [
@@ -21680,6 +23597,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -16.932601,
                         32.635576
+                  ]
+            },
+            {
+                  "name": "Complexo Balnear da Quinta Calaça",
+                  "text": "Funchali strandkomplexum tengerparti kapcsolattal és különféle szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.938937,
+                        32.635423
                   ]
             }
       ],
@@ -22169,6 +24095,15 @@ export const portugalCities: POI[] = [
                         -16.932601,
                         32.635576
                   ]
+            },
+            {
+                  "name": "Complexo Balnear da Quinta Calaça",
+                  "text": "Un complex balnear în Funchal cu acces la mare și diverse facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.938937,
+                        32.635423
+                  ]
             }
       ],
       "en": [
@@ -22656,6 +24591,15 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -16.932601,
                         32.635576
+                  ]
+            },
+            {
+                  "name": "Complexo Balnear da Quinta Calaça",
+                  "text": "A bathing complex in Funchal with sea access and various leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.938937,
+                        32.635423
                   ]
             }
       ]
@@ -32137,7 +34081,52 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "land-santa-luzia-sanctuary",
+    id: "land-santa-luzia-sanctuary", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Coral",
+                  "text": "Dieser Strand liegt unterhalb des Heiligtums Santa Luzia an der Nordküste Portugals.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845592,
+                        41.683122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Coral",
+                  "text": "Ez a strand a Santa Luzia-szentély alatt található Portugália északi partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845592,
+                        41.683122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Coral",
+                  "text": "Această plajă este situată sub Sanctuarul Santa Luzia de pe coasta de nord a Portugaliei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845592,
+                        41.683122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Coral",
+                  "text": "This beach is located below the Santa Luzia Sanctuary on the northern coast of Portugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845592,
+                        41.683122
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "city-viana-do-castelo",
     coords: [-8.8387, 41.6975],
@@ -32519,6 +34508,24 @@ export const portugalCities: POI[] = [
                         -8.832458,
                         37.946195
                   ]
+            },
+            {
+                  "name": "Praia da Costa do Norte",
+                  "text": "Ein Sandstrand an der portugiesischen Küste in der Nähe des Industriekomplexes von Sines.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864051,
+                        37.978929
+                  ]
+            },
+            {
+                  "name": "Praia do Canto Mosqueiro",
+                  "text": "Ein ruhiger Küstenabschnitt in Sines, der für seine natürliche Umgebung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86967,
+                        37.971959
+                  ]
             }
       ],
       "hu": [
@@ -32592,6 +34599,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.832458,
                         37.946195
+                  ]
+            },
+            {
+                  "name": "Praia da Costa do Norte",
+                  "text": "Homokos tengerpart a portugál partvidéken, Sines ipari negyedének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864051,
+                        37.978929
+                  ]
+            },
+            {
+                  "name": "Praia do Canto Mosqueiro",
+                  "text": "Egy nyugodt tengerparti szakasz Sinesben, amely természeti környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86967,
+                        37.971959
                   ]
             }
       ],
@@ -32667,6 +34692,24 @@ export const portugalCities: POI[] = [
                         -8.832458,
                         37.946195
                   ]
+            },
+            {
+                  "name": "Praia da Costa do Norte",
+                  "text": "O plajă cu nisip pe coasta portugheză, situată lângă complexul industrial din Sines.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864051,
+                        37.978929
+                  ]
+            },
+            {
+                  "name": "Praia do Canto Mosqueiro",
+                  "text": "O porțiune liniștită de coastă în Sines, cunoscută pentru cadrul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86967,
+                        37.971959
+                  ]
             }
       ],
       "en": [
@@ -32740,6 +34783,24 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.832458,
                         37.946195
+                  ]
+            },
+            {
+                  "name": "Praia da Costa do Norte",
+                  "text": "A sandy beach on the Portuguese coast located near the industrial complex of Sines.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864051,
+                        37.978929
+                  ]
+            },
+            {
+                  "name": "Praia do Canto Mosqueiro",
+                  "text": "A quiet coastal stretch in Sines, known for its natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86967,
+                        37.971959
                   ]
             }
       ]
@@ -32919,7 +34980,88 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "kid-badoca-safari-park",
+    id: "kid-badoca-safari-park", "sights": {
+      "de": [
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Ein Schwimmbecken auf dem Gelände des Badoca Safari Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776647,
+                        38.053282
+                  ]
+            },
+            {
+                  "name": "Badoca Safari Park",
+                  "text": "Ein Safaripark in Portugal, in dem wilde Tiere in weitläufigen Gehegen leben.",
+                  "category": "park",
+                  "coords": [
+                        -8.744009,
+                        38.039258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Egy úszómedence a Badoca Safari Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776647,
+                        38.053282
+                  ]
+            },
+            {
+                  "name": "Badoca Safari Park",
+                  "text": "Szafaripark Portugáliában, ahol vadállatok élnek tágas kifutókban.",
+                  "category": "park",
+                  "coords": [
+                        -8.744009,
+                        38.039258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "O piscină situată în cadrul parcului Badoca Safari.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776647,
+                        38.053282
+                  ]
+            },
+            {
+                  "name": "Badoca Safari Park",
+                  "text": "Un parc safari în Portugalia, unde animalele sălbatice trăiesc în zone spațioase.",
+                  "category": "park",
+                  "coords": [
+                        -8.744009,
+                        38.039258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "A swimming pool located within the Badoca Safari Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776647,
+                        38.053282
+                  ]
+            },
+            {
+                  "name": "Badoca Safari Park",
+                  "text": "A safari park in Portugal where wild animals live in large enclosures.",
+                  "category": "park",
+                  "coords": [
+                        -8.744009,
+                        38.039258
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "city-setubal",
     coords: [-8.784, 38.0088],

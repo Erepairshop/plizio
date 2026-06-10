@@ -13229,6 +13229,24 @@ export const poiExtraFranceCities: POI[] = [
                         1.167186,
                         45.053702
                   ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "Ein prähistorischer Tierpark, der sich der eiszeitlichen Fauna und Flora widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "Ein kleines Schwimmbecken für Erholung und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
+                  ]
             }
       ],
       "hu": [
@@ -13275,6 +13293,24 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
+                  ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "Jégkorszaki faunát és flórát bemutató őskori állatpark.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "Kisebb úszómedence, amely pihenésre és kikapcsolódásra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
                   ]
             }
       ],
@@ -13323,6 +13359,24 @@ export const poiExtraFranceCities: POI[] = [
                         1.167186,
                         45.053702
                   ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "Un parc de animale preistorice dedicat faunei și florei din epoca de gheață.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "O piscină mică pentru recreere și petrecerea timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
+                  ]
             }
       ],
       "en": [
@@ -13369,6 +13423,24 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
+                  ]
+            },
+            {
+                  "name": "Le Parc du Thot",
+                  "text": "A prehistoric animal park dedicated to Ice Age fauna and flora.",
+                  "category": "recreational",
+                  "coords": [
+                        1.122995,
+                        45.036392
+                  ]
+            },
+            {
+                  "name": "Petit bassin",
+                  "text": "A small swimming pool suitable for recreation and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        1.160488,
+                        45.061702
                   ]
             }
       ]

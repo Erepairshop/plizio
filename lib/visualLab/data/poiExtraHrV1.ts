@@ -2133,7 +2133,1041 @@ export const poiExtraHrV1: POI[] = [
       ]
 }},
   {"id": "korcula", "type": "city", "parent": "HR-19", "coords": [17.1357, 42.9602], "population": 5663, "tier": 1, "name": {"de": "Korčula", "hu": "Korčula", "ro": "Korčula", "en": "Korčula"}, "description": {"de": "Korčula, oft als „Klein-Dubrovnik“ bezeichnet, ist eine mittelalterliche Festungsstadt auf der gleichnamigen Insel. Sie ist berühmt für ihr fischgrätenartiges Straßenlayout und als Geburtsort von Marco Polo.", "hu": "Korčula, amelyet gyakran „Kis-Dubrovniknak” neveznek, egy középkori erődváros az azonos nevű szigeten. Híres halszálka szerkezetű utcáiról és mint Marco Polo feltételezett szülőhelye.", "ro": "Korčula, supranumit adesea „Micul Dubrovnik”, este un oraș fortificat medieval situat pe insula cu același nume. Este renumit pentru planul său urbanistic în formă de os de pește.", "en": "Korčula, often called 'Little Dubrovnik', is a medieval fortified town on the island of the same name. It is famous for its fishbone street layout and as the birthplace of Marco Polo."}, "facts": {"de": ["Einwohnerzahl: 5.663 Personen", "Geburtsort von Marco Polo (behauptet)", "St.-Markus-Kathedrale (Gotik-Renaissance)", "Mittelalterliche Stadtmauern und Türme", "Moreška-Schwerttanz-Tradition", "Straßenlayout schützt vor Wind", "Zentrum der Weinherstellung (Grk, Pošip)", "Teil der Gespanschaft Dubrovnik-Neretva"], "hu": ["Lakosság: 5 663 fő", "Marco Polo feltételezett szülőhelye", "Szent Márk-székesegyház (gótikus-reneszánsz)", "Középkori városfalak és bástyák", "Moreška kard tánc hagyománya", "A szél ellen védő halszálkás utcaszerkezet", "Bortermelő központ (Grk, Pošip borok)", "Dubrovnik-Neretva megye része"], "ro": ["Populație: 5.663 de locuitori", "Locul de naștere al lui Marco Polo (atribuit)", "Catedrala Sfântul Marcu (gotic-renascentistă)", "Ziduri și turnuri medievale intacte", "Tradiția dansului cu săbii Moreška", "Străzi dispuse pentru protecție contra vântului", "Centru viticol renumit (vinurile Grk, Pošip)", "Parte a cantonului Dubrovnik-Neretva"], "en": ["Population: 5,663 residents", "Birthplace of Marco Polo (claimed)", "St. Mark's Cathedral (Gothic-Renaissance)", "Medieval city walls and defensive towers", "Moreska sword dance tradition", "Fishbone street layout protects from wind", "Center of winemaking (Grk, Posip)", "Part of Dubrovnik-Neretva County"]}, "image": "/poi-images/korcula.webp", "imageHint": "Korcula old town aerial view fishbone streets", "descriptionAdvanced": {"de": "Die Altstadt von Korčula liegt auf einer ovalen Halbinsel und ist ein Meisterwerk mittelalterlicher Stadtplanung. Das einzigartige Straßendesign in Form einer Fischgräte wurde entwickelt, um die Bewohner vor den starken Winden der Adria zu schützen und gleichzeitig eine gute Belüftung zu ermöglichen. Das Herzstück der Stadt ist die St.-Markus-Kathedrale, erbaut aus lokalem Kalkstein von den berühmten Steinmetzen der Insel. Ein besonderes Highlight ist das vermeintliche Geburtshaus von Marco Polo, das heute ein Museum beherbergt. Korčula ist auch für seine lebendige Kultur bekannt, insbesondere für den Moreška-Schwerttanz, der seit dem 15. Jahrhundert aufgeführt wird. Die umliegende Landschaft ist geprägt von dichten Wäldern und Weinbergen, die einige der besten Weißweine Kroatiens hervorbringen. Die entspannte Atmosphäre und die architektonische Einheitlichkeit machen Korčula zu einem Juwel der süddalmatinischen Küste.", "hu": "Korčula óvárosa egy ovális félszigeten fekszik, és a középkori várostervezés mesterműve. Az egyedülálló, halszálka alakú utcaszerkezetet azért alakították ki, hogy megvédje a lakókat az Adria erős szeleitől, miközben biztosítja a friss levegő áramlását. A város ékköve a Szent Márk-székesegyház, amelyet a sziget híres kőfaragói építettek helyi mészkőből. Különleges látnivaló Marco Polo feltételezett szülőháza, amely ma múzeumnak ad otthont. Korčula híres élő hagyományairól is, különösen a 15. század óta művelt Moreška kard táncról. A várost övező tájat sűrű erdők és szőlőültetvények jellemzik, ahol Horvátország legjobb fehérborai teremnek. A nyugodt hangulat és az építészeti egység Korčulát a dél-dalmát partvidék egyik legvonzóbb kincsévé teszi.", "ro": "Orașul vechi Korčula, situat pe o peninsulă ovală, este o capodoperă a planificării urbane medievale. Designul unic al străzilor, sub formă de os de pește, a fost conceput pentru a proteja locuitorii de vânturile puternice ale Adriaticii, permițând în același timp ventilația naturală. Inima orașului este Catedrala Sfântul Marcu, construită din calcar local de faimoșii pietrari ai insulei. Un punct de atracție major este casa despre care se crede că a fost locul de naștere al lui Marco Polo, transformată astăzi în muzeu. Korčula este faimoasă și pentru cultura sa vie, în special pentru dansul cu săbii Moreška, interpretat încă din secolul al XV-lea. Peisajul înconjurător este dominat de păduri dense și podgorii care produc unele dintre cele mai bune vinuri albe din Croația. Atmosfera relaxată și unitatea arhitecturală fac din Korčula o bijuterie a coastei dalmate.", "en": "The Old Town of Korčula, set on an oval peninsula, is a masterpiece of medieval urban planning. Its unique fishbone street design was specifically engineered to protect residents from harsh Adriatic winds while allowing for natural air circulation. At the heart of the town stands St. Mark's Cathedral, crafted from local limestone by the island's renowned stonemasons. A major highlight is the purported birthplace of Marco Polo, which now houses a museum dedicated to the explorer. Korčula is also famous for its vibrant folk traditions, most notably the Moreška sword dance, performed since the 15th century. The surrounding landscape is characterized by dense pine forests and vineyards producing some of Croatia's finest white wines. The town's relaxed pace and architectural harmony make it a true jewel of the southern Dalmatian coast."}, "factsAdvanced": {"de": ["Die Stadtmauer stammt aus dem 13. und 14. Jahrhundert", "Das Stadtstatut von 1214 ist eines der ältesten in Europa", "Die Kathedrale wurde über 150 Jahre lang gebaut", "Moreška wird traditionell am 29. Juli aufgeführt", "Die Insel Korčula ist 46,8 km lang", "Das Landtor (Veliki Revelin) bewacht den Stadteingang"], "hu": ["A városfalak a 13. és 14. századból származnak", "Az 1214-es városi statútum az egyik legrégebbi Európában", "A katedrális építése több mint 150 évig tartott", "A Moreškát hagyományosan július 29-én adják elő", "Korčula szigete 46,8 kilométer hosszú", "A Szárazföldi kapu (Veliki Revelin) őrzi a bejáratot"], "ro": ["Zidurile orașului datează din secolele XIII și XIV", "Statutul orașului din 1214 este printre cele mai vechi", "Catedrala a fost construită pe parcursul a 150 de ani", "Dansul Moreška se joacă tradițional pe 29 iulie", "Insula Korčula are o lungime de 46,8 km", "Poarta de uscat (Veliki Revelin) păzește intrarea"], "en": ["The city walls date back to the 13th and 14th centuries", "The town statute of 1214 is one of the oldest in Europe", "The cathedral took over 150 years to complete", "Moreska is traditionally performed on July 29th", "The island of Korcula is 46.8 kilometers long", "The Land Gate (Veliki Revelin) guards the main entrance"]}, "sights": {"de": [{"name": "Kathedrale des Heiligen Markus", "text": "Das prächtige Zentrum der Altstadt, bekannt für seine gotisch-renaissancezeitliche Architektur.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/korcula-kathedrale-des-heiligen-markus.webp", "coords": [17.136153, 42.961635]}, {"name": "Marco Polos Geburtshaus", "text": "Ein Turm und Haus, in dem laut lokaler Tradition der berühmte Entdecker geboren wurde.", "category": "museums", "confidence": "medium", "image": "/poi-images/sights/korcula-marco-polos-geburtshaus.webp", "coords": [17.136518, 42.961836]}, {"name": "Stadtmauern von Korčula", "text": "Gut erhaltene Befestigungsanlagen, die die mittelalterliche Fischgrätenstruktur der Stadt schützen.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/korcula-stadtmauern-von-kor-ula.webp", "coords": [17.136506, 42.960235]}, {"name": "Samostan Gospe od Anđela", "text": "Ein franziskanisches Kloster bei Korčula, das einen Panoramablick auf den Archipel bietet.", "category": "religious", "coords": [17.153393, 42.97765]}, {"name": "Tvrđava sv. Vlaha", "text": "Eine Festung auf einem Hügel über Korčula, die im 19. Jahrhundert zur Verteidigung errichtet wurde.", "category": "castle", "coords": [17.130675, 42.958555]}, {"name": "Aminess Vival Port9 beach", "text": "An diesem modernen Hotelstrand in Korčula erwartet Badegäste ein erholsamer Aufenthalt am kristallklaren Wasser. Die Umgebung ist geprägt von einer gepflegten Atmosphäre, die sowohl zum Schwimmen als auch zu verschiedenen Freizeitmöglichkeiten einlädt. Für ein optimales Urlaubserlebnis empfiehlt sich ein Besuch bei sonnigem Wetter.", "category": "recreational", "coords": [17.144349, 42.952619]}, {"name": "Gradska plaža Banje", "text": "Von diesem zentralen Stadtstrand aus eröffnet sich ein beeindruckender Blick auf die historischen Stadtmauern von Korčula. Die lebendige Kulisse zieht sowohl Einheimische als auch Reisende an, die das erfrischende Meerwasser schätzen. An warmen Sommertagen lässt sich hier das städtische Flair wunderbar mit entspanntem Baden verbinden.", "category": "recreational", "coords": [17.137063, 42.956819]}, {"name": "Plaža Medvinjak", "text": "Bekannt für seine günstigen Winde, ist dieser Kieselstrand nahe Korčula ein beliebter Treffpunkt für Windsurfer und Wassersportler. Wer das rege Treiben auf dem Wasser beobachten oder selbst aktiv werden möchte, findet hier den passenden Ort. Ein Besuch in den windigeren Nachmittagsstunden ist besonders lohnenswert.", "category": "recreational", "coords": [17.123332, 42.961657]}, {"name": "Plaža Žrnovska banja", "text": "Etwa drei Kilometer westlich der Stadt Korčula verbirgt sich diese ruhige Bucht mit einem charmanten Kieselstrand. Die friedliche Atmosphäre bietet beste Voraussetzungen für ausgedehnte Schwimmrunden und ungestörte Momente in der Sonne. Für ein erholsames Erlebnis empfiehlt es sich, die frühen Morgenstunden zu nutzen.", "category": "recreational", "coords": [17.111683, 42.958733]}, {"name": "Plaža Dom sam.", "text": "Direkt am östlichen Rand der Stadt Korčula schmiegt sich dieser kleine Kieselstrand vor die historische Kulisse des Dominikanerklosters. Die einzigartige Lage verbindet kulturelles Erbe mit dem unbeschwerten Vergnügen, sich im Mittelmeer zu erfrischen. Ein kurzer Sprung ins Wasser ist hier nach einem Stadtbummel besonders reizvoll.", "category": "recreational", "coords": [17.13163, 42.961511]}, {"name": "Plaža Zamošće", "text": "Gegenüber von Korčula gelegen, beeindruckt dieser Küstenabschnitt mit einer malerischen Aussicht auf den Pelješac-Kanal. Das maritime Umfeld ist wie geschaffen, um in aller Ruhe die Sonne zu genießen und in das klare Wasser einzutauchen. An sommerlichen Tagen lohnt es sich, hier die entspannte Stimmung auf sich wirken zu lassen.", "category": "recreational", "coords": [17.129318, 42.975795]}, {"name": "Galerija Maksimilijana Vanke", "text": "Eine Kunstgalerie in einer historischen Villa, die eine Sammlung des Malers Maksimilijan Vanka beherbergt.", "category": "museum", "coords": [17.130119, 42.962881]}], "hu": [{"name": "Szent Márk-székesegyház", "text": "Az óváros lenyűgöző központja, amely híres gótikus-reneszánsz kőfaragványairól.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/korcula-kathedrale-des-heiligen-markus.webp", "coords": [17.136153, 42.961635]}, {"name": "Marco Polo szülőháza", "text": "A helyi hagyomány szerint ebben a házban született a híres világutazó, ma kilátótorony.", "category": "museums", "confidence": "medium", "image": "/poi-images/sights/korcula-marco-polos-geburtshaus.webp", "coords": [17.136518, 42.961836]}, {"name": "Korčulai városfalak", "text": "Jól megőrzött védelmi rendszer, amely a város különleges halcsont-szerkezetét védi.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/korcula-stadtmauern-von-kor-ula.webp", "coords": [17.136506, 42.960235]}, {"name": "Samostan Gospe od Anđela", "text": "Ferences kolostor Korčula közelében, amely lenyűgöző kilátást nyújt a szigetvilágra.", "category": "religious", "coords": [17.153393, 42.97765]}, {"name": "Tvrđava sv. Vlaha", "text": "A Korčula feletti dombon álló erődítmény, amelyet a 19. században építettek védelmi célokból.", "category": "castle", "coords": [17.130675, 42.958555]}, {"name": "Aminess Vival Port9 beach", "text": "Ezen a modern szállodai strandon Korčulában a fürdőzőket kristálytiszta víz és pihentető környezet várja. A jól gondozott terület úszásra és különféle szabadidős tevékenységekre egyaránt csábít. Az optimális nyaralási élmény érdekében érdemes szép, napos időben idelátogatni.", "category": "recreational", "coords": [17.144349, 42.952619]}, {"name": "Gradska plaža Banje", "text": "Ebből a központi fekvésű városi strandból lenyűgöző kilátás nyílik Korčula történelmi városfalaira. Az életteli környezet vonzza a helyieket és az utazókat, akik vágynak egy kis hűsítő tengeri fürdőzésre. A meleg nyári napokon itt csodásan ötvözhető a városi hangulat a tengerparti pihenéssel.", "category": "recreational", "coords": [17.137063, 42.956819]}, {"name": "Plaža Medvinjak", "text": "A kedvező szeleknek köszönhetően ez a Korčula közeli kavicsos strand a szörfösök és a vízi sportok kedvelőinek népszerű találkozóhelye. Aki szereti nézni a vízi nyüzsgést, vagy maga is aktívan pihenne, itt tökéletes helyre talál. A szelesebb délutáni órákban különösen érdemes kilátogatni ide.", "category": "recreational", "coords": [17.123332, 42.961657]}, {"name": "Plaža Žrnovska banja", "text": "Mintegy három kilométerre nyugatra Korčula városától bújik meg ez a csendes öböl egy hangulatos kavicsos stranddal. A békés atmoszféra tökéletes feltételeket teremt egy hosszú úszáshoz és a zavartalan napozáshoz. Egy igazán pihentető élményhez érdemes a kora reggeli órákat választani.", "category": "recreational", "coords": [17.111683, 42.958733]}, {"name": "Plaža Dom sam.", "text": "Közvetlenül Korčula keleti peremén, a domonkos kolostor történelmi díszletei előtt fekszik ez a kis kavicsos strand. Az egyedülálló elhelyezkedés ötvözi a kulturális örökséget a tengeri felfrissülés gondtalan örömével. Egy városnéző séta után különösen hívogató itt megmártózni a vízben.", "category": "recreational", "coords": [17.13163, 42.961511]}, {"name": "Plaža Zamošće", "text": "A Korčulával szemben elhelyezkedő partszakasz lenyűgöző kilátást nyújt a Pelješac-csatornára. A tengeri környezet mintha csak arra teremtetett volna, hogy nyugodtan élvezzük a napsütést és megmártózzunk a vízben. Egy nyári napon érdemes itt elidőzni és átadni magunkat a laza hangulatnak.", "category": "recreational", "coords": [17.129318, 42.975795]}, {"name": "Galerija Maksimilijana Vanke", "text": "Történelmi villában berendezett galéria, amely Maksimilijan Vanka festőművész gyűjteményének ad otthont.", "category": "museum", "coords": [17.130119, 42.962881]}], "ro": [{"name": "Catedrala Sfântul Marcu", "text": "Centrul magnific al orașului vechi, renumit pentru arhitectura sa gotic-renascentistă.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/korcula-kathedrale-des-heiligen-markus.webp", "coords": [17.136153, 42.961635]}, {"name": "Casa lui Marco Polo", "text": "Un turn și o casă unde, conform tradiției locale, s-ar fi născut celebrul explorator.", "category": "museums", "confidence": "medium", "image": "/poi-images/sights/korcula-marco-polos-geburtshaus.webp", "coords": [17.136518, 42.961836]}, {"name": "Zidurile orașului Korčula", "text": "Fortificații bine conservate ce protejează structura medievală unică a orașului.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/korcula-stadtmauern-von-kor-ula.webp", "coords": [17.136506, 42.960235]}, {"name": "Samostan Gospe od Anđela", "text": "O mănăstire franciscană de lângă Korčula, oferind o vedere panoramică asupra arhipelagului.", "category": "religious", "coords": [17.153393, 42.97765]}, {"name": "Tvrđava sv. Vlaha", "text": "O fortăreață situată pe un deal deasupra orașului Korčula, construită în secolul al XIX-lea.", "category": "castle", "coords": [17.130675, 42.958555]}, {"name": "Aminess Vival Port9 beach", "text": "La această plajă modernă de hotel din Korčula, oaspeții sunt întâmpinați de ape cristaline și un cadru relaxant. Atmosfera îngrijită invită la sesiuni de înot și oferă diverse opțiuni de agrement. Pentru o experiență perfectă de vacanță, o vizită în zilele însorite este ideală.", "category": "recreational", "coords": [17.144349, 42.952619]}, {"name": "Gradska plaža Banje", "text": "De pe această plajă centrală se deschide o vedere impresionantă asupra zidurilor istorice ale orașului Korčula. Decorul animat atrage atât localnici, cât și călători care apreciază o baie răcoritoare în mare. În zilele călduroase de vară, flerul urban se îmbină perfect cu relaxarea pe plajă.", "category": "recreational", "coords": [17.137063, 42.956819]}, {"name": "Plaža Medvinjak", "text": "Cunoscută pentru vânturile sale favorabile, această plajă cu pietriș de lângă Korčula este un loc de întâlnire popular printre iubitorii de windsurf. Cei care doresc să privească activitățile nautice sau să devină ei înșiși activi vor găsi aici locul perfect. O vizită în orele mai vântoase ale după-amiezii este deosebit de plăcută.", "category": "recreational", "coords": [17.123332, 42.961657]}, {"name": "Plaža Žrnovska banja", "text": "La aproximativ trei kilometri vest de orașul Korčula se ascunde acest golf liniștit, care adăpostește o plajă fermecătoare cu pietriș. Atmosfera pașnică oferă condiții excelente pentru înot prelungit și momente netulburate la soare. Pentru o experiență cu adevărat relaxantă, diminețile devreme sunt o alegere excelentă.", "category": "recreational", "coords": [17.111683, 42.958733]}, {"name": "Plaža Dom sam.", "text": "Chiar la marginea estică a orașului Korčula, această mică plajă cu pietriș este așezată în fața peisajului istoric al mănăstirii dominicane. Locația unică îmbină patrimoniul cultural cu plăcerea simplă a unei băi răcoritoare în mare. O scufundare scurtă aici este deosebit de atrăgătoare după o plimbare prin oraș.", "category": "recreational", "coords": [17.13163, 42.961511]}, {"name": "Plaža Zamošće", "text": "Situată vizavi de Korčula, această porțiune de coastă impresionează cu o priveliște pitorească asupra canalului Pelješac. Mediul maritim este perfect pentru a savura soarele în liniște și a înota în voie. În zilele de vară, este o alegere minunată pentru a te lăsa absorbit de atmosfera relaxată.", "category": "recreational", "coords": [17.129318, 42.975795]}, {"name": "Galerija Maksimilijana Vanke", "text": "O galerie de artă situată într-o vilă istorică, ce adăpostește o colecție a pictorului Maksimilijan Vanka.", "category": "museum", "coords": [17.130119, 42.962881]}], "en": [{"name": "St. Mark's Cathedral", "text": "The magnificent center of the Old Town, known for its Gothic-Renaissance stonework.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/korcula-kathedrale-des-heiligen-markus.webp", "coords": [17.136153, 42.961635]}, {"name": "Marco Polo House", "text": "A tower and house where, according to local tradition, the famous explorer was born.", "category": "museums", "confidence": "medium", "image": "/poi-images/sights/korcula-marco-polos-geburtshaus.webp", "coords": [17.136518, 42.961836]}, {"name": "Korčula Town Walls", "text": "Well-preserved defensive walls protecting the town's unique medieval fishbone layout.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/korcula-stadtmauern-von-kor-ula.webp", "coords": [17.136506, 42.960235]}, {"name": "Samostan Gospe od Anđela", "text": "A Franciscan monastery near Korčula, offering panoramic views of the surrounding archipelago.", "category": "religious", "coords": [17.153393, 42.97765]}, {"name": "Tvrđava sv. Vlaha", "text": "A fortress located on a hill above Korčula, built in the 19th century for defense.", "category": "castle", "coords": [17.130675, 42.958555]}, {"name": "Aminess Vival Port9 beach", "text": "At this modern hotel beach in Korčula, guests are welcomed by crystal-clear waters and a deeply relaxing environment. The well-kept setting invites visitors for refreshing swims and various leisure activities by the sea. Planning a visit on a sunny day guarantees an optimal holiday experience.", "category": "recreational", "coords": [17.144349, 42.952619]}, {"name": "Gradska plaža Banje", "text": "This central city beach offers an expansive and impressive view of the historic city walls of Korčula. The lively setting naturally attracts both locals and travelers looking to enjoy a refreshing dip in the sea. Warm summer days are perfect for combining urban exploration with relaxed coastal lounging.", "category": "recreational", "coords": [17.137063, 42.956819]}, {"name": "Plaža Medvinjak", "text": "Renowned for its favorable winds, this pebble beach near Korčula is a popular gathering spot for windsurfers and water sports enthusiasts. Whether you prefer to watch the lively aquatic action or participate yourself, this coastal stretch offers the right atmosphere. Arriving during the windier afternoon hours is highly recommended.", "category": "recreational", "coords": [17.123332, 42.961657]}, {"name": "Plaža Žrnovska banja", "text": "Hidden roughly three kilometers west of Korčula town, this quiet bay features a charming pebble beach. The peaceful atmosphere provides excellent conditions for long swims and undisturbed moments lounging in the sun. Enjoying the early morning hours here is highly recommended for a truly restorative experience.", "category": "recreational", "coords": [17.111683, 42.958733]}, {"name": "Plaža Dom sam.", "text": "Nestled directly against the eastern edge of Korčula town, this small pebble beach rests before the historic backdrop of the Dominican monastery. The unique location flawlessly blends cultural heritage with the carefree pleasure of refreshing Mediterranean swims. Taking a quick dip here is especially delightful after a walk through the town.", "category": "recreational", "coords": [17.13163, 42.961511]}, {"name": "Plaža Zamošće", "text": "Positioned opposite Korčula, this coastal section impresses with its picturesque views of the Pelješac channel. The maritime environment is perfectly suited for quietly enjoying the sun and wading into the inviting waters. During summer days, it is well worth taking the time to absorb the wonderfully relaxed mood here.", "category": "recreational", "coords": [17.129318, 42.975795]}, {"name": "Galerija Maksimilijana Vanke", "text": "An art gallery in a historic villa, housing a collection by the painter Maksimilijan Vanka.", "category": "museum", "coords": [17.130119, 42.962881]}], "hr": [{"name": "Samostan Gospe od Anđela", "text": "Franjevački samostan kod Korčule koji nudi panoramski pogled na okolni arhipelag.", "category": "religious", "coords": [17.153393, 42.97765]}, {"name": "Tvrđava sv. Vlaha", "text": "Utvrda na brdu iznad Korčule, izgrađena u 19. stoljeću za potrebe obrane.", "category": "castle", "coords": [17.130675, 42.958555]}, {"name": "Aminess Vival Port9 beach", "text": "Moderna hotelska plaža u Korčuli s čistim morem i raznim sadržajima za rekreaciju.", "category": "recreational", "coords": [17.144349, 42.952619]}, {"name": "Gradska plaža Banje", "text": "Glavna gradska plaža u Korčuli s koje se pruža pogled na zidine staroga grada.", "category": "recreational", "coords": [17.137063, 42.956819]}, {"name": "Plaža Medvinjak", "text": "Šljunčana plaža u blizini Korčule, popularna među ljubiteljima jedrenja na dasci zbog povoljnih vjetrova.", "category": "recreational", "coords": [17.123332, 42.961657]}, {"name": "Plaža Žrnovska banja", "text": "Mirna šljunčana plaža u uvali, smještena oko tri kilometra zapadno od grada Korčule.", "category": "recreational", "coords": [17.111683, 42.958733]}, {"name": "Plaža Dom sam.", "text": "Mala šljunčana plaža smještena neposredno ispred dominikanskog samostana u Korčuli.", "category": "recreational", "coords": [17.13163, 42.961511]}, {"name": "Plaža Zamošće", "text": "Plaža smještena nasuprot Korčuli, poznata po pogledu na Pelješki kanal.", "category": "recreational", "coords": [17.129318, 42.975795]}, {"name": "Galerija Maksimilijana Vanke", "text": "Umjetnička galerija u povijesnoj vili koja čuva zbirku radova slikara Maksimilijana Vanke.", "category": "museum", "coords": [17.130119, 42.962881]}]}},
-  {"id": "makarska", "type": "city", "parent": "HR-17", "coords": [17.0178, 43.2964], "population": 13834, "tier": 1, "name": {"de": "Makarska", "hu": "Makarska", "ro": "Makarska", "en": "Makarska"}, "description": {"de": "Das pulsierende Herz der Makarska Riviera liegt am Fuße des majestätischen Biokovo-Gebirges und bietet traumhafte Kieselstrände.", "hu": "A Makarskai Riviéra lüktető központja a fenséges Biokovo-hegység lábánál fekszik, és gyönyörű kavicsos strandokat kínál.", "ro": "Inima vibrantă a Rivierei Makarska se află la poalele maiestuosului munte Biokovo și oferă plaje superbe cu pietriș.", "en": "The vibrant heart of the Makarska Riviera lies at the foot of the majestic Biokovo Mountain, offering stunning pebble beaches."}, "facts": {"de": ["13.834 Einwohner", "Zentrum der Makarska Riviera", "Fuße des Biokovo-Gebirges", "Muschelmuseum (über 3000 Arten)", "Halbinsel Sveti Petar", "Markusplatz mit Kathedrale", "Franziskanerkloster", "Lange Kieselstrände"], "hu": ["13 834 lakos", "A Makarskai Riviéra központja", "A Biokovo-hegység lábánál", "Kagylómúzeum (3000+ faj)", "Szent Péter-félsziget", "Szent Márk tér katedrálissal", "Ferences rendi kolostor", "Hosszú kavicsos strandok"], "ro": ["13.834 locuitori", "Centrul Rivierei Makarska", "La poalele muntelui Biokovo", "Muzeu de scoici (peste 3000 specii)", "Peninsula Sfântul Petru", "Piața Sf. Marcu cu catedrala", "Mănăstire franciscană", "Plaje lungi cu pietriș"], "en": ["13,834 residents", "Center of the Makarska Riviera", "At the foot of Biokovo Mountain", "Shell Museum (3,000+ species)", "St. Peter Peninsula", "St. Mark's Square and Cathedral", "Franciscan Monastery", "Long pebble beaches"]}, "image": "/poi-images/makarska.webp", "imageHint": "Makarska harbor with Biokovo mountain massif in the background", "descriptionAdvanced": {"de": "Makarska ist eine der bekanntesten Tourismusdestinationen Dalmatiens, geprägt von der kontrastreichen Lage zwischen dem tiefblauen Meer und dem bis zu 1762 Meter hohen Biokovo-Massiv. Das Stadtzentrum liegt um einen hufeisenförmigen Hafen, an dem die belebte Riva mit zahlreichen Cafés und Restaurants zum Verweilen einlädt. Eine Besonderheit ist das Muschelmuseum im Franziskanerkloster, das eine der weltweit reichsten Sammlungen von Muscheln und Meeresschnecken beherbergt. Der zentrale Markusplatz beherbergt die gleichnamige Barockkirche und ist im Sommer Schauplatz zahlreicher Fischerfeste und Kulturveranstaltungen. Die Halbinsel Sveti Petar schützt den Hafen und ist ein beliebter Park für Spaziergänge mit Blick auf den Leuchtturm. Dank der flach abfallenden Kieselstrände und des kristallklaren Wassers ist Makarska besonders bei Familien beliebt, bietet aber auch für Aktivurlauber ideale Bedingungen für Bergwandern und Gleitschirmfliegen im Naturpark Biokovo.", "hu": "Makarska a dalmát tengerpart egyik legnépszerűbb üdülőhelye, amelynek látképét a 1762 méter magas Biokovo-hegység monumentális sziklafalai uralják. A város egy patkó alakú öböl köré épült, ahol a pálmafás sétány (Riva) mentén kávézók és éttermek sorakoznak. Egyik legkülönlegesebb látnivalója a Ferences-rendi kolostorban található Malakológiai Múzeum, amely a világ egyik leggazdagabb kagyló- és csigagyűjteményével büszkélkedhet. A város főtere a Szent Márk-székesegyháznak ad otthont, mellette pedig a helyi piacon friss gyümölcsöt és olívaolajat vásárolhatunk. A kikötőt a Szent Péter-félsziget védi a hullámoktól, ahol kellemes sétautak és egy világítótorony várja a látogatókat. Makarska strandjai híresek aprókavicsos partjukról és az azúrkék vízről. A város tökéletes kiindulópont a Biokovo Natúrpark felfedezéséhez, ahol a híres Skywalk kilátó kínál szédítő panorámát az Adriára.", "ro": "Makarska este una dintre cele mai cunoscute destinații turistice din Dalmația, definită de locația sa contrastantă între marea azurie și masivul Biokovo, care atinge 1762 metri. Centrul orașului este situat în jurul unui port în formă de potcoavă, unde faleza animată Riva, cu numeroase cafenele și restaurante, invită la relaxare. O atracție deosebită este Muzeul Malacologic din mănăstirea franciscană, care adăpostește una dintre cele mai bogate colecții de scoici și melci marini din lume. Piața centrală Sf. Marcu găzduiește biserica barocă cu același nume și este locul unde vara se organizează numeroase festivaluri pescărești. Peninsula Sfântul Petru protejează portul și este un parc popular pentru plimbări cu vedere la far. Datorită plajelor cu pietriș fin și apei cristaline, Makarska este preferată de familii, oferind în același timp condiții ideale pentru drumeții montane și parapantă în Parcul Natural Biokovo.", "en": "Makarska is one of Dalmatia's premier tourist destinations, set against the dramatic backdrop of the 1,762-meter-high Biokovo mountain massif. The town is built around a horseshoe-shaped bay where the palm-lined promenade (Riva) is packed with vibrant cafes and restaurants. One of its unique features is the Malacological Museum located in the Franciscan Monastery, which holds one of the world's richest collections of shells and sea snails. The central St. Mark's Square is home to the Baroque cathedral and hosts various traditional festivals during the summer months. The town's harbor is naturally protected by the St. Peter Peninsula, a favorite spot for scenic walks leading to a charming lighthouse. Famous for its fine pebble beaches and turquoise waters, Makarska is a family-friendly hub that also serves as a gateway for hikers and adventure seekers visiting the Biokovo Nature Park."}, "factsAdvanced": {"de": ["Das Muschelmuseum zeigt über 3.000 Exponate", "Das Biokovo-Gebirge erreicht seinen Gipfel am Sveti Jure", "Makarska war im 17. Jh. ein wichtiger Stützpunkt gegen die Osmanen", "Die Vepric-Grotte ist ein bekannter Marienwallfahrtsort", "Der Stadtpark auf Sveti Petar hat eine Statue des Hl. Petrus", "Die Skywalk-Plattform liegt nur wenige Kilometer entfernt"], "hu": ["A kagylómúzeumban több mint 3000 kiállítási tárgy látható", "A Biokovo-hegység legmagasabb pontja a Szent György-csúcs", "Makarska a 17. században fontos védőbástya volt az oszmánok ellen", "A Vepric-barlang egy híres Mária-kegyhely a város szélén", "A Szent Péter-félszigeten áll a város védőszentjének szobra", "A Skywalk kilátó csak néhány kilométerre található a várostól"], "ro": ["Muzeul de scoici expune peste 3.000 de piese", "Muntele Biokovo atinge înălțimea maximă pe vârful Sveti Jure", "Makarska a fost un punct strategic important împotriva otomanilor în sec. XVII", "Grota Vepric este un loc de pelerinaj cunoscut dedicat Fecioarei Maria", "Parcul de pe peninsula Sf. Petru are o statuie a Sfântului Petru", "Platforma Skywalk Biokovo se află la doar câțiva kilometri distanță"], "en": ["The Malacological Museum displays over 3,000 shell specimens", "Biokovo Mountain reaches its highest peak at Sveti Jure", "Makarska was a strategic stronghold against the Ottomans in the 17th c.", "The Vepric Shrine is a famous pilgrimage site mimicking Lourdes", "St. Peter's Peninsula features a statue of the town's patron saint", "The famous Biokovo Skywalk is just a short drive from the center"]}, "sights": {"de": [{"name": "Leuchtturm St. Peter", "text": "Erbaut im Jahr 1884 auf der gleichnamigen Halbinsel, bietet er einen tollen Blick auf die Inseln.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp", "coords": [17.009337, 43.294328]}, {"name": "Biokovo-Naturpark", "text": "Eingang zum Gebirgsmassiv mit der berühmten Skywalk-Glasplattform in 1228 Metern Höhe.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/makarska-biokovo-naturpark.webp", "coords": [17.14, 43.25]}, {"name": "Riva Makarska", "text": "Belebte, von Palmen gesäumte Uferpromenade mit zahlreichen Cafés, Restaurants und Ausflugsbooten.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/makarska-riva-makarska.webp", "coords": [17.019411, 43.295106]}, {"name": "Nugal", "text": "Ein abgelegener FKK-Kieselstrand am Fuße steiler Klippen, der über einen Waldweg erreichbar ist.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Cvitačka FKK", "text": "Eine Reihe kleiner Kieselbuchten im Norden von Makarska, die vorwiegend von Naturisten genutzt werden.", "category": "recreational", "coords": [16.998338, 43.311096]}, {"name": "FKK", "text": "Ein ausgewiesener FKK-Abschnitt am Kieselstrand an der Küste von Makarska.", "category": "recreational", "coords": [16.994008, 43.314946]}, {"name": "Papillon", "text": "Ein kleiner Freizeitpark in Makarska, ideal für Familien mit Kindern.", "category": "recreational", "coords": [17.013332, 43.294882]}, {"name": "Malakološki muzej", "text": "Das Museum im Franziskanerkloster beherbergt eine der weltweit bedeutendsten Muschelsammlungen.", "category": "museum", "coords": [17.021823, 43.291915]}, {"name": "Gradski muzej", "text": "Das Stadtmuseum von Makarska präsentiert die lokale Geschichte und das kulturelle Erbe der Region.", "category": "museum", "coords": [17.015972, 43.295174]}, {"name": "Aquapark Sharko", "text": "Ein aufblasbarer Wasserpark im Meer vor Makarska, der Spaß und Erfrischung bietet.", "category": "recreational", "coords": [17.004365, 43.303924]}, {"name": "Biloševac", "text": "Ein bekannter Kiesstrand in Makarska mit kristallklarem Wasser und vielfältigen Freizeitmöglichkeiten.", "category": "recreational", "coords": [17.0024, 43.305321]}, {"name": "Biokovski botanički vrt", "text": "Der in Kotišina gelegene botanische Garten bewahrt die autochthone Pflanzenwelt des Biokovo-Gebirges.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Plaža Ramova", "text": "Am Rande von Makarska bietet dieser ruhigere Kiesstrand eine willkommene Auszeit abseits der belebten Zentren. Schattenspendende Kiefernwälder säumen die Küste und ermöglichen erholsame Stunden nach einem Bad im Meer. Um die friedliche Natur zu genießen, ist ein Besuch am frühen Vormittag ideal.", "category": "recreational", "coords": [16.99607, 43.313332]}, {"name": "Veliki kaštel", "text": "Eine in die Felsen des Biokovo gebaute Festung aus dem 17. Jahrhundert in der Nähe von Kotišina.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Vošac", "text": "Ein markanter Berggipfel im Biokovo-Massiv mit einem beeindruckenden Panoramablick auf Makarska und die Inseln.", "category": "natural", "coords": [17.046233, 43.310795]}, {"name": "Štrbina", "text": "Ein Berggipfel im Biokovo-Gebirge, der über Wanderwege von Makarska aus erreichbar ist.", "category": "natural", "coords": [17.049047, 43.309711]}, {"name": "paragliding take off Przinowac, 1300 m", "text": "Ein bekannter Startplatz für Paragliding auf 1300 Metern Höhe im Biokovo-Gebirge.", "category": "landmark", "coords": [17.052239, 43.303121]}, {"name": "Amazing view on Nugal Beach", "text": "Von diesem herrlichen Aussichtspunkt aus lässt sich das weite Blau der Adria und der darunterliegende Nugal-Strand bewundern. Die faszinierende Perspektive lädt dazu ein, einen Moment innezuhalten und die Schönheit der Makarska-Riviera zu fotografieren. Ein kurzer Halt hier bereichert jeden Spaziergang entlang der Küste.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Svetište Majke Božje Lurdske", "text": "Ein bekannter Marienwallfahrtsort, der in einer natürlichen Felsenhöhle bei Makarska angelegt wurde.", "category": "religious", "coords": [17.004391, 43.315544]}, {"name": "crkva svetog Marka", "text": "Die ehemalige Kathedrale von Makarska, eine barocke Hallenkirche aus dem 18. Jahrhundert am Hauptplatz.", "category": "religious", "coords": [17.021004, 43.293896]}, {"name": "Crkva sv. Martina", "text": "Eine kleine mittelalterliche Kirche in der Nähe der historischen Siedlung Kotišina.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "Eine barocke Kirche im Dorf Kotišina, die Teil des historischen Kulturerbes von Makarska ist.", "category": "religious", "coords": [17.041885, 43.280594]}], "hu": [{"name": "Szent Péter-világítótorony", "text": "1884-ben épült a Szent Péter-félszigeten, csodás kilátást nyújtva a tengerre és a környező szigetekre.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp", "coords": [17.009337, 43.294328]}, {"name": "Biokovo Natúrpark", "text": "A hegyvidék kapuja, ahol a híres üvegaljú Skywalk kilátó található 1228 méteres magasságban.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/makarska-biokovo-naturpark.webp", "coords": [17.14, 43.25]}, {"name": "Makarskai Riva", "text": "Nyüzsgő, pálmafákkal szegélyezett tengerparti sétány számos kávézóval és kirándulóhajóval.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/makarska-riva-makarska.webp", "coords": [17.019411, 43.295106]}, {"name": "Nugal", "text": "Eldugott kavicsos naturista strand meredek sziklák tövében, amely erdei ösvényen érhető el.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Cvitačka FKK", "text": "Makarska északi részén található apró kavicsos öblök, amelyeket főként naturisták látogatnak.", "category": "recreational", "coords": [16.998338, 43.311096]}, {"name": "FKK", "text": "Kijelölt naturista szakasz a makarskai tengerpart kavicsos strandján.", "category": "recreational", "coords": [16.994008, 43.314946]}, {"name": "Papillon", "text": "Egy kis vidámpark Makarskában, amely kikapcsolódást nyújt a családoknak.", "category": "recreational", "coords": [17.013332, 43.294882]}, {"name": "Malakološki muzej", "text": "A ferences kolostorban található múzeum a világ egyik legjelentősebb kagylógyűjteményének ad otthont.", "category": "museum", "coords": [17.021823, 43.291915]}, {"name": "Gradski muzej", "text": "A makarskai városi múzeum a régió helytörténetét és kulturális örökségét mutatja be.", "category": "museum", "coords": [17.015972, 43.295174]}, {"name": "Aquapark Sharko", "text": "Felfújható vízi vidámpark Makarska partjainál, amely szórakozást és felfrissülést kínál.", "category": "recreational", "coords": [17.004365, 43.303924]}, {"name": "Biloševac", "text": "Ismert kavicsos strand Makarskában, amely kristálytiszta vízzel és változatos kikapcsolódási lehetőségekkel várja a látogatókat.", "category": "recreational", "coords": [17.0024, 43.305321]}, {"name": "Biokovski botanički vrt", "text": "A Kotišinában található botanikus kert a Biokovo-hegység őshonos növényvilágát mutatja be és őrzi.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Plaža Ramova", "text": "Makarska szélén ez a csendesebb kavicsos strand kellemes menedéket nyújt a forgalmas központoktól távol. Árnyékot adó fenyőerdők szegélyezik a partot, hűsölési lehetőséget kínálva egy tengeri fürdőzés után. A békés természet élvezetéhez egy kora délelőtti látogatás a legideálisabb.", "category": "recreational", "coords": [16.99607, 43.313332]}, {"name": "Veliki kaštel", "text": "A 17. században épült, a Biokovo szikláiba vájt erődítmény Kotišina közelében.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Vošac", "text": "A Biokovo-hegység egyik jellegzetes csúcsa, ahonnan lenyűgöző panoráma nyílik Makarskára és a szigetekre.", "category": "natural", "coords": [17.046233, 43.310795]}, {"name": "Štrbina", "text": "A Biokovo-hegység egyik csúcsa, amely Makarskából kiinduló túraútvonalakon keresztül érhető el.", "category": "natural", "coords": [17.049047, 43.309711]}, {"name": "paragliding take off Przinowac, 1300 m", "text": "Népszerű siklóernyős starthely a Biokovo-hegységben, 1300 méteres magasságban.", "category": "landmark", "coords": [17.052239, 43.303121]}, {"name": "Amazing view on Nugal Beach", "text": "Ebből a csodás kilátóból megcsodálható az Adria végtelen kékje és a lent elterülő Nugal strand. A lenyűgöző perspektíva arra csábít, hogy megálljunk egy pillanatra, és lencsevégre kapjuk a Makarskai Riviéra szépségét. Egy rövid pihenő itt minden parti sétát emlékezetessé tesz.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Svetište Majke Božje Lurdske", "text": "Népszerű Mária-kegyhely, amelyet egy természetes barlangban alakítottak ki a város közelében.", "category": "religious", "coords": [17.004391, 43.315544]}, {"name": "crkva svetog Marka", "text": "Makarska egykori székesegyháza, egy 18. századi barokk templom a város főterén.", "category": "religious", "coords": [17.021004, 43.293896]}, {"name": "Crkva sv. Martina", "text": "Kisméretű középkori templom a történelmi Kotišina település közelében.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "Barokk stílusú templom Kotišina faluban, amely a környék vallási örökségének része.", "category": "religious", "coords": [17.041885, 43.280594]}], "ro": [{"name": "Farul Sfântul Petru", "text": "Construit în 1884 pe peninsula cu același nume, oferă o vedere splendidă asupra insulelor dalmate.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp", "coords": [17.009337, 43.294328]}, {"name": "Parcul Natural Biokovo", "text": "Poarta către masivul muntos unde se află faimoasa platformă de sticlă Skywalk la 1228m înălțime.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/makarska-biokovo-naturpark.webp", "coords": [17.14, 43.25]}, {"name": "Riva Makarska", "text": "Promenadă vibrantă pe malul mării, mărginită de palmieri, cafenele și numeroase ambarcațiuni.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/makarska-riva-makarska.webp", "coords": [17.019411, 43.295106]}, {"name": "Nugal", "text": "O plajă de nudiști retrasă, cu pietriș, situată la baza unor stânci abrupte și accesibilă printr-o potecă de pădure.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Cvitačka FKK", "text": "O serie de mici golfuri cu pietriș în nordul stațiunii Makarska, frecventate în principal de nudiști.", "category": "recreational", "coords": [16.998338, 43.311096]}, {"name": "FKK", "text": "O secțiune desemnată pentru nudiști pe plaja cu pietriș de pe coasta stațiunii Makarska.", "category": "recreational", "coords": [16.994008, 43.314946]}, {"name": "Papillon", "text": "Un mic parc de distracții în Makarska, ideal pentru familiile cu copii.", "category": "recreational", "coords": [17.013332, 43.294882]}, {"name": "Malakološki muzej", "text": "Muzeul situat în mănăstirea franciscană găzduiește una dintre cele mai importante colecții de scoici din lume.", "category": "museum", "coords": [17.021823, 43.291915]}, {"name": "Gradski muzej", "text": "Muzeul Municipal din Makarska prezintă istoria locală și patrimoniul cultural al regiunii.", "category": "museum", "coords": [17.015972, 43.295174]}, {"name": "Aquapark Sharko", "text": "Un parc acvatic gonflabil pe mare în Makarska, care oferă distracție și răcorire.", "category": "recreational", "coords": [17.004365, 43.303924]}, {"name": "Biloševac", "text": "O plajă cu pietriș cunoscută în Makarska, cu apă cristalină și diverse opțiuni de agrement.", "category": "recreational", "coords": [17.0024, 43.305321]}, {"name": "Biokovski botanički vrt", "text": "Grădina botanică situată în Kotišina păstrează flora autohtonă a masivului Biokovo.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Plaža Ramova", "text": "La marginea orașului Makarska, această plajă mai liniștită cu pietriș oferă o evadare binevenită departe de centrele aglomerate. Pădurile de pini umbroase mărginesc coasta, asigurând ore de relaxare după o baie în mare. Pentru a vă bucura de natura pașnică, o vizită la primele ore ale dimineții este ideală.", "category": "recreational", "coords": [16.99607, 43.313332]}, {"name": "Veliki kaštel", "text": "O fortăreață din secolul al XVII-lea construită în stâncile muntelui Biokovo, lângă Kotišina.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Vošac", "text": "Un vârf montan proeminent în masivul Biokovo, cu o vedere panoramică impresionantă asupra orașului Makarska și a insulelor.", "category": "natural", "coords": [17.046233, 43.310795]}, {"name": "Štrbina", "text": "Un vârf montan în masivul Biokovo, accesibil prin trasee de drumeție care pornesc din Makarska.", "category": "natural", "coords": [17.049047, 43.309711]}, {"name": "paragliding take off Przinowac, 1300 m", "text": "Un punct de lansare pentru parapantă situat la 1300 de metri înălțime în munții Biokovo.", "category": "landmark", "coords": [17.052239, 43.303121]}, {"name": "Amazing view on Nugal Beach", "text": "Din acest punct de belvedere magnific, puteți admira albastrul nesfârșit al Mării Adriatice și plaja Nugal de dedesubt. Perspectiva fascinantă vă invită să vă opriți o clipă și să fotografiați frumusețea Rivierei Makarska. O scurtă oprire aici îmbogățește orice plimbare de-a lungul coastei.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Svetište Majke Božje Lurdske", "text": "Un sanctuar dedicat Maicii Domnului, amenajat într-o grotă naturală lângă Makarska.", "category": "religious", "coords": [17.004391, 43.315544]}, {"name": "crkva svetog Marka", "text": "Fosta catedrală din Makarska, o biserică barocă din secolul al XVIII-lea situată în piața centrală.", "category": "religious", "coords": [17.021004, 43.293896]}, {"name": "Crkva sv. Martina", "text": "O mică biserică medievală situată în apropierea așezării istorice Kotišina.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "O biserică barocă situată în satul Kotišina, făcând parte din patrimoniul cultural local.", "category": "religious", "coords": [17.041885, 43.280594]}], "en": [{"name": "St. Peter Lighthouse", "text": "Built in 1884 on the St. Peter peninsula, offering panoramic views of the sea and the islands.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp", "coords": [17.009337, 43.294328]}, {"name": "Biokovo Nature Park", "text": "Gateway to the mountain range with the famous glass-floored Skywalk platform at 1228 meters.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/makarska-biokovo-naturpark.webp", "coords": [17.14, 43.25]}, {"name": "Makarska Riva", "text": "Bustling palm-fringed waterfront promenade with numerous cafes, restaurants, and excursion boats.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/makarska-riva-makarska.webp", "coords": [17.019411, 43.295106]}, {"name": "Nugal", "text": "A secluded pebble nudist beach at the base of steep cliffs, accessible via a forest path.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Cvitačka FKK", "text": "A series of small pebble coves in northern Makarska, primarily frequented by nudists.", "category": "recreational", "coords": [16.998338, 43.311096]}, {"name": "FKK", "text": "A designated clothing-optional section on the pebble beach along the Makarska coast.", "category": "recreational", "coords": [16.994008, 43.314946]}, {"name": "Papillon", "text": "A small theme park in Makarska, offering entertainment for families with children.", "category": "recreational", "coords": [17.013332, 43.294882]}, {"name": "Malakološki muzej", "text": "Located in the Franciscan monastery, this museum houses one of the world's most significant collections of sea shells.", "category": "museum", "coords": [17.021823, 43.291915]}, {"name": "Municipal Museum", "text": "The Municipal Museum of Makarska showcases the local history and cultural heritage of the region.", "category": "museum", "coords": [17.015972, 43.295174]}, {"name": "Aquapark Sharko", "text": "An inflatable water park on the sea in Makarska, providing fun and refreshment.", "category": "recreational", "coords": [17.004365, 43.303924]}, {"name": "Biloševac", "text": "A well-known pebble beach in Makarska featuring crystal clear water and various recreational facilities.", "category": "recreational", "coords": [17.0024, 43.305321]}, {"name": "Biokovo Botanical Garden", "text": "Located in Kotišina, this botanical garden preserves the indigenous plant life of the Biokovo mountain range.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Plaža Ramova", "text": "On the outskirts of Makarska, this quieter pebble beach offers a welcome escape from the busier town centers. Shade-providing pine forests line the coast, granting a restful retreat after a refreshing swim in the sea. To fully enjoy the peaceful natural surroundings, an early morning visit is ideal.", "category": "recreational", "coords": [16.99607, 43.313332]}, {"name": "Veliki kaštel", "text": "A 17th-century fortress built into the cliffs of Mount Biokovo near the village of Kotišina.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Vošac", "text": "A prominent mountain peak in the Biokovo massif offering an impressive panoramic view of Makarska and the islands.", "category": "natural", "coords": [17.046233, 43.310795]}, {"name": "Štrbina", "text": "A mountain peak in the Biokovo range, accessible via hiking trails leading from Makarska.", "category": "natural", "coords": [17.049047, 43.309711]}, {"name": "paragliding take off Przinowac, 1300 m", "text": "A well-known paragliding take-off point located at 1,300 meters in the Biokovo mountains.", "category": "landmark", "coords": [17.052239, 43.303121]}, {"name": "Amazing view on Nugal Beach", "text": "From this magnificent viewpoint, one can gaze out over the vast blue Adriatic and the Nugal pebble beach below. The fascinating perspective naturally invites visitors to pause for a moment and photograph the beauty of the Makarska Riviera. Making a brief stop here enriches any walk along this scenic coastline.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Svetište Majke Božje Lurdske", "text": "A prominent Marian shrine situated in a natural cave near the town of Makarska.", "category": "religious", "coords": [17.004391, 43.315544]}, {"name": "crkva svetog Marka", "text": "The former cathedral of Makarska, an 18th-century baroque church on the main square.", "category": "religious", "coords": [17.021004, 43.293896]}, {"name": "Crkva sv. Martina", "text": "A small medieval church located near the historic settlement of Kotišina.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "A baroque church in the village of Kotišina, part of the local cultural heritage.", "category": "religious", "coords": [17.041885, 43.280594]}], "hr": [{"name": "Nugal", "text": "Skrivena šljunčana nudistička plaža u podnožju strmih litica, dostupna šumskom stazom.", "category": "recreational", "coords": [17.033842, 43.279337]}, {"name": "Cvitačka FKK", "text": "Niz malih šljunčanih uvala na sjeveru Makarske koje prvenstveno posjećuju nudisti.", "category": "recreational", "coords": [16.998338, 43.311096]}, {"name": "FKK", "text": "Označeni dio za nudiste na šljunčanoj plaži duž makarske obale.", "category": "recreational", "coords": [16.994008, 43.314946]}, {"name": "Papillon", "text": "Mali zabavni park u Makarskoj, idealan za obitelji s djecom.", "category": "recreational", "coords": [17.013332, 43.294882]}, {"name": "Malakološki muzej", "text": "Smješten u franjevačkom samostanu, ovaj muzej čuva jednu od najvažnijih svjetskih zbirki školjaka.", "category": "museum", "coords": [17.021823, 43.291915]}, {"name": "Municipal Museum", "text": "Gradski muzej Makarska predstavlja lokalnu povijest i kulturnu baštinu ove regije.", "category": "museum", "coords": [17.015972, 43.295174]}, {"name": "Aquapark Sharko", "text": "Zabavni vodeni park na napuhavanje u Makarskoj koji nudi zabavu i osvježenje.", "category": "recreational", "coords": [17.004365, 43.303924]}, {"name": "Biloševac", "text": "Poznata šljunčana plaža u Makarskoj s kristalno čistim morem i raznim sadržajima.", "category": "recreational", "coords": [17.0024, 43.305321]}, {"name": "Biokovo Botanical Garden", "text": "Smješten u Kotišini, ovaj botanički vrt čuva i predstavlja autohtonu floru planine Biokovo.", "category": "natural", "coords": [17.047601, 43.291108]}, {"name": "Plaža Ramova", "text": "Mirnija šljunčana plaža na rubu Makarske, okružena sjenovitom borovom šumom.", "category": "recreational", "coords": [16.99607, 43.313332]}, {"name": "Veliki kaštel", "text": "Utvrda iz 17. stoljeća izgrađena u stijenama planine Biokovo u blizini sela Kotišina.", "category": "castle", "coords": [17.04605, 43.291347]}, {"name": "Vošac", "text": "Istaknuti planinski vrh na Biokovu s kojeg se pruža impresivan panoramski pogled na Makarsku i otoke.", "category": "natural", "coords": [17.046233, 43.310795]}, {"name": "Štrbina", "text": "Planinski vrh na Biokovu do kojeg vode pješačke staze iz Makarske.", "category": "natural", "coords": [17.049047, 43.309711]}, {"name": "paragliding take off Przinowac, 1300 m", "text": "Poznato poletište za paragliding smješteno na 1300 metara nadmorske visine na Biokovu.", "category": "landmark", "coords": [17.052239, 43.303121]}, {"name": "Amazing view on Nugal Beach", "text": "Vidikovac s kojeg se pruža prekrasan pogled na poznatu plažu Nugal i Jadransko more.", "category": "natural", "coords": [17.03503, 43.278929]}, {"name": "Svetište Majke Božje Lurdske", "text": "Poznato marijansko svetište Vepric smješteno u prirodnoj spilji u blizini Makarske.", "category": "religious", "coords": [17.004391, 43.315544]}, {"name": "crkva svetog Marka", "text": "Nekadašnja makarska katedrala, barokna crkva iz 18. stoljeća na glavnom gradskom trgu.", "category": "religious", "coords": [17.021004, 43.293896]}, {"name": "Crkva sv. Martina", "text": "Mala srednjovjekovna crkvica smještena u blizini povijesnog sela Kotišina.", "category": "religious", "coords": [17.038487, 43.29251]}, {"name": "sv. Andrije", "text": "Barokna crkvica u selu Kotišina koja pripada lokalnoj kulturnoj baštini.", "category": "religious", "coords": [17.041885, 43.280594]}]}},
+  {"id": "makarska", "type": "city", "parent": "HR-17", "coords": [17.0178, 43.2964], "population": 13834, "tier": 1, "name": {"de": "Makarska", "hu": "Makarska", "ro": "Makarska", "en": "Makarska"}, "description": {"de": "Das pulsierende Herz der Makarska Riviera liegt am Fuße des majestätischen Biokovo-Gebirges und bietet traumhafte Kieselstrände.", "hu": "A Makarskai Riviéra lüktető központja a fenséges Biokovo-hegység lábánál fekszik, és gyönyörű kavicsos strandokat kínál.", "ro": "Inima vibrantă a Rivierei Makarska se află la poalele maiestuosului munte Biokovo și oferă plaje superbe cu pietriș.", "en": "The vibrant heart of the Makarska Riviera lies at the foot of the majestic Biokovo Mountain, offering stunning pebble beaches."}, "facts": {"de": ["13.834 Einwohner", "Zentrum der Makarska Riviera", "Fuße des Biokovo-Gebirges", "Muschelmuseum (über 3000 Arten)", "Halbinsel Sveti Petar", "Markusplatz mit Kathedrale", "Franziskanerkloster", "Lange Kieselstrände"], "hu": ["13 834 lakos", "A Makarskai Riviéra központja", "A Biokovo-hegység lábánál", "Kagylómúzeum (3000+ faj)", "Szent Péter-félsziget", "Szent Márk tér katedrálissal", "Ferences rendi kolostor", "Hosszú kavicsos strandok"], "ro": ["13.834 locuitori", "Centrul Rivierei Makarska", "La poalele muntelui Biokovo", "Muzeu de scoici (peste 3000 specii)", "Peninsula Sfântul Petru", "Piața Sf. Marcu cu catedrala", "Mănăstire franciscană", "Plaje lungi cu pietriș"], "en": ["13,834 residents", "Center of the Makarska Riviera", "At the foot of Biokovo Mountain", "Shell Museum (3,000+ species)", "St. Peter Peninsula", "St. Mark's Square and Cathedral", "Franciscan Monastery", "Long pebble beaches"]}, "image": "/poi-images/makarska.webp", "imageHint": "Makarska harbor with Biokovo mountain massif in the background", "descriptionAdvanced": {"de": "Makarska ist eine der bekanntesten Tourismusdestinationen Dalmatiens, geprägt von der kontrastreichen Lage zwischen dem tiefblauen Meer und dem bis zu 1762 Meter hohen Biokovo-Massiv. Das Stadtzentrum liegt um einen hufeisenförmigen Hafen, an dem die belebte Riva mit zahlreichen Cafés und Restaurants zum Verweilen einlädt. Eine Besonderheit ist das Muschelmuseum im Franziskanerkloster, das eine der weltweit reichsten Sammlungen von Muscheln und Meeresschnecken beherbergt. Der zentrale Markusplatz beherbergt die gleichnamige Barockkirche und ist im Sommer Schauplatz zahlreicher Fischerfeste und Kulturveranstaltungen. Die Halbinsel Sveti Petar schützt den Hafen und ist ein beliebter Park für Spaziergänge mit Blick auf den Leuchtturm. Dank der flach abfallenden Kieselstrände und des kristallklaren Wassers ist Makarska besonders bei Familien beliebt, bietet aber auch für Aktivurlauber ideale Bedingungen für Bergwandern und Gleitschirmfliegen im Naturpark Biokovo.", "hu": "Makarska a dalmát tengerpart egyik legnépszerűbb üdülőhelye, amelynek látképét a 1762 méter magas Biokovo-hegység monumentális sziklafalai uralják. A város egy patkó alakú öböl köré épült, ahol a pálmafás sétány (Riva) mentén kávézók és éttermek sorakoznak. Egyik legkülönlegesebb látnivalója a Ferences-rendi kolostorban található Malakológiai Múzeum, amely a világ egyik leggazdagabb kagyló- és csigagyűjteményével büszkélkedhet. A város főtere a Szent Márk-székesegyháznak ad otthont, mellette pedig a helyi piacon friss gyümölcsöt és olívaolajat vásárolhatunk. A kikötőt a Szent Péter-félsziget védi a hullámoktól, ahol kellemes sétautak és egy világítótorony várja a látogatókat. Makarska strandjai híresek aprókavicsos partjukról és az azúrkék vízről. A város tökéletes kiindulópont a Biokovo Natúrpark felfedezéséhez, ahol a híres Skywalk kilátó kínál szédítő panorámát az Adriára.", "ro": "Makarska este una dintre cele mai cunoscute destinații turistice din Dalmația, definită de locația sa contrastantă între marea azurie și masivul Biokovo, care atinge 1762 metri. Centrul orașului este situat în jurul unui port în formă de potcoavă, unde faleza animată Riva, cu numeroase cafenele și restaurante, invită la relaxare. O atracție deosebită este Muzeul Malacologic din mănăstirea franciscană, care adăpostește una dintre cele mai bogate colecții de scoici și melci marini din lume. Piața centrală Sf. Marcu găzduiește biserica barocă cu același nume și este locul unde vara se organizează numeroase festivaluri pescărești. Peninsula Sfântul Petru protejează portul și este un parc popular pentru plimbări cu vedere la far. Datorită plajelor cu pietriș fin și apei cristaline, Makarska este preferată de familii, oferind în același timp condiții ideale pentru drumeții montane și parapantă în Parcul Natural Biokovo.", "en": "Makarska is one of Dalmatia's premier tourist destinations, set against the dramatic backdrop of the 1,762-meter-high Biokovo mountain massif. The town is built around a horseshoe-shaped bay where the palm-lined promenade (Riva) is packed with vibrant cafes and restaurants. One of its unique features is the Malacological Museum located in the Franciscan Monastery, which holds one of the world's richest collections of shells and sea snails. The central St. Mark's Square is home to the Baroque cathedral and hosts various traditional festivals during the summer months. The town's harbor is naturally protected by the St. Peter Peninsula, a favorite spot for scenic walks leading to a charming lighthouse. Famous for its fine pebble beaches and turquoise waters, Makarska is a family-friendly hub that also serves as a gateway for hikers and adventure seekers visiting the Biokovo Nature Park."}, "factsAdvanced": {"de": ["Das Muschelmuseum zeigt über 3.000 Exponate", "Das Biokovo-Gebirge erreicht seinen Gipfel am Sveti Jure", "Makarska war im 17. Jh. ein wichtiger Stützpunkt gegen die Osmanen", "Die Vepric-Grotte ist ein bekannter Marienwallfahrtsort", "Der Stadtpark auf Sveti Petar hat eine Statue des Hl. Petrus", "Die Skywalk-Plattform liegt nur wenige Kilometer entfernt"], "hu": ["A kagylómúzeumban több mint 3000 kiállítási tárgy látható", "A Biokovo-hegység legmagasabb pontja a Szent György-csúcs", "Makarska a 17. században fontos védőbástya volt az oszmánok ellen", "A Vepric-barlang egy híres Mária-kegyhely a város szélén", "A Szent Péter-félszigeten áll a város védőszentjének szobra", "A Skywalk kilátó csak néhány kilométerre található a várostól"], "ro": ["Muzeul de scoici expune peste 3.000 de piese", "Muntele Biokovo atinge înălțimea maximă pe vârful Sveti Jure", "Makarska a fost un punct strategic important împotriva otomanilor în sec. XVII", "Grota Vepric este un loc de pelerinaj cunoscut dedicat Fecioarei Maria", "Parcul de pe peninsula Sf. Petru are o statuie a Sfântului Petru", "Platforma Skywalk Biokovo se află la doar câțiva kilometri distanță"], "en": ["The Malacological Museum displays over 3,000 shell specimens", "Biokovo Mountain reaches its highest peak at Sveti Jure", "Makarska was a strategic stronghold against the Ottomans in the 17th c.", "The Vepric Shrine is a famous pilgrimage site mimicking Lourdes", "St. Peter's Peninsula features a statue of the town's patron saint", "The famous Biokovo Skywalk is just a short drive from the center"]}, "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm St. Peter",
+                  "text": "Erbaut im Jahr 1884 auf der gleichnamigen Halbinsel, bietet er einen tollen Blick auf die Inseln.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp",
+                  "coords": [
+                        17.009337,
+                        43.294328
+                  ]
+            },
+            {
+                  "name": "Biokovo-Naturpark",
+                  "text": "Eingang zum Gebirgsmassiv mit der berühmten Skywalk-Glasplattform in 1228 Metern Höhe.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-biokovo-naturpark.webp",
+                  "coords": [
+                        17.14,
+                        43.25
+                  ]
+            },
+            {
+                  "name": "Riva Makarska",
+                  "text": "Belebte, von Palmen gesäumte Uferpromenade mit zahlreichen Cafés, Restaurants und Ausflugsbooten.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-riva-makarska.webp",
+                  "coords": [
+                        17.019411,
+                        43.295106
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "Ein abgelegener FKK-Kieselstrand am Fuße steiler Klippen, der über einen Waldweg erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Cvitačka FKK",
+                  "text": "Eine Reihe kleiner Kieselbuchten im Norden von Makarska, die vorwiegend von Naturisten genutzt werden.",
+                  "category": "recreational",
+                  "coords": [
+                        16.998338,
+                        43.311096
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein ausgewiesener FKK-Abschnitt am Kieselstrand an der Küste von Makarska.",
+                  "category": "recreational",
+                  "coords": [
+                        16.994008,
+                        43.314946
+                  ]
+            },
+            {
+                  "name": "Papillon",
+                  "text": "Ein kleiner Freizeitpark in Makarska, ideal für Familien mit Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        17.013332,
+                        43.294882
+                  ]
+            },
+            {
+                  "name": "Malakološki muzej",
+                  "text": "Das Museum im Franziskanerkloster beherbergt eine der weltweit bedeutendsten Muschelsammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        17.021823,
+                        43.291915
+                  ]
+            },
+            {
+                  "name": "Gradski muzej",
+                  "text": "Das Stadtmuseum von Makarska präsentiert die lokale Geschichte und das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        17.015972,
+                        43.295174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sharko",
+                  "text": "Ein aufblasbarer Wasserpark im Meer vor Makarska, der Spaß und Erfrischung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.004365,
+                        43.303924
+                  ]
+            },
+            {
+                  "name": "Biloševac",
+                  "text": "Ein bekannter Kiesstrand in Makarska mit kristallklarem Wasser und vielfältigen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        17.0024,
+                        43.305321
+                  ]
+            },
+            {
+                  "name": "Biokovski botanički vrt",
+                  "text": "Der in Kotišina gelegene botanische Garten bewahrt die autochthone Pflanzenwelt des Biokovo-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Plaža Ramova",
+                  "text": "Am Rande von Makarska bietet dieser ruhigere Kiesstrand eine willkommene Auszeit abseits der belebten Zentren. Schattenspendende Kiefernwälder säumen die Küste und ermöglichen erholsame Stunden nach einem Bad im Meer. Um die friedliche Natur zu genießen, ist ein Besuch am frühen Vormittag ideal.",
+                  "category": "recreational",
+                  "coords": [
+                        16.99607,
+                        43.313332
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "Eine in die Felsen des Biokovo gebaute Festung aus dem 17. Jahrhundert in der Nähe von Kotišina.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Vošac",
+                  "text": "Ein markanter Berggipfel im Biokovo-Massiv mit einem beeindruckenden Panoramablick auf Makarska und die Inseln.",
+                  "category": "natural",
+                  "coords": [
+                        17.046233,
+                        43.310795
+                  ]
+            },
+            {
+                  "name": "Štrbina",
+                  "text": "Ein Berggipfel im Biokovo-Gebirge, der über Wanderwege von Makarska aus erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.049047,
+                        43.309711
+                  ]
+            },
+            {
+                  "name": "paragliding take off Przinowac, 1300 m",
+                  "text": "Ein bekannter Startplatz für Paragliding auf 1300 Metern Höhe im Biokovo-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        17.052239,
+                        43.303121
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "Von diesem herrlichen Aussichtspunkt aus lässt sich das weite Blau der Adria und der darunterliegende Nugal-Strand bewundern. Die faszinierende Perspektive lädt dazu ein, einen Moment innezuhalten und die Schönheit der Makarska-Riviera zu fotografieren. Ein kurzer Halt hier bereichert jeden Spaziergang entlang der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Svetište Majke Božje Lurdske",
+                  "text": "Ein bekannter Marienwallfahrtsort, der in einer natürlichen Felsenhöhle bei Makarska angelegt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        17.004391,
+                        43.315544
+                  ]
+            },
+            {
+                  "name": "crkva svetog Marka",
+                  "text": "Die ehemalige Kathedrale von Makarska, eine barocke Hallenkirche aus dem 18. Jahrhundert am Hauptplatz.",
+                  "category": "religious",
+                  "coords": [
+                        17.021004,
+                        43.293896
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "Eine kleine mittelalterliche Kirche in der Nähe der historischen Siedlung Kotišina.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "Eine barocke Kirche im Dorf Kotišina, die Teil des historischen Kulturerbes von Makarska ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            },
+            {
+                  "name": "Kids Pool Hotel Meteor",
+                  "text": "Ein spezieller Schwimmbereich für Kinder im Hotel Meteor in Makarska.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014911,
+                        43.298585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Péter-világítótorony",
+                  "text": "1884-ben épült a Szent Péter-félszigeten, csodás kilátást nyújtva a tengerre és a környező szigetekre.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp",
+                  "coords": [
+                        17.009337,
+                        43.294328
+                  ]
+            },
+            {
+                  "name": "Biokovo Natúrpark",
+                  "text": "A hegyvidék kapuja, ahol a híres üvegaljú Skywalk kilátó található 1228 méteres magasságban.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-biokovo-naturpark.webp",
+                  "coords": [
+                        17.14,
+                        43.25
+                  ]
+            },
+            {
+                  "name": "Makarskai Riva",
+                  "text": "Nyüzsgő, pálmafákkal szegélyezett tengerparti sétány számos kávézóval és kirándulóhajóval.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-riva-makarska.webp",
+                  "coords": [
+                        17.019411,
+                        43.295106
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "Eldugott kavicsos naturista strand meredek sziklák tövében, amely erdei ösvényen érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Cvitačka FKK",
+                  "text": "Makarska északi részén található apró kavicsos öblök, amelyeket főként naturisták látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.998338,
+                        43.311096
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Kijelölt naturista szakasz a makarskai tengerpart kavicsos strandján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.994008,
+                        43.314946
+                  ]
+            },
+            {
+                  "name": "Papillon",
+                  "text": "Egy kis vidámpark Makarskában, amely kikapcsolódást nyújt a családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        17.013332,
+                        43.294882
+                  ]
+            },
+            {
+                  "name": "Malakološki muzej",
+                  "text": "A ferences kolostorban található múzeum a világ egyik legjelentősebb kagylógyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.021823,
+                        43.291915
+                  ]
+            },
+            {
+                  "name": "Gradski muzej",
+                  "text": "A makarskai városi múzeum a régió helytörténetét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.015972,
+                        43.295174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sharko",
+                  "text": "Felfújható vízi vidámpark Makarska partjainál, amely szórakozást és felfrissülést kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.004365,
+                        43.303924
+                  ]
+            },
+            {
+                  "name": "Biloševac",
+                  "text": "Ismert kavicsos strand Makarskában, amely kristálytiszta vízzel és változatos kikapcsolódási lehetőségekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        17.0024,
+                        43.305321
+                  ]
+            },
+            {
+                  "name": "Biokovski botanički vrt",
+                  "text": "A Kotišinában található botanikus kert a Biokovo-hegység őshonos növényvilágát mutatja be és őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Plaža Ramova",
+                  "text": "Makarska szélén ez a csendesebb kavicsos strand kellemes menedéket nyújt a forgalmas központoktól távol. Árnyékot adó fenyőerdők szegélyezik a partot, hűsölési lehetőséget kínálva egy tengeri fürdőzés után. A békés természet élvezetéhez egy kora délelőtti látogatás a legideálisabb.",
+                  "category": "recreational",
+                  "coords": [
+                        16.99607,
+                        43.313332
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "A 17. században épült, a Biokovo szikláiba vájt erődítmény Kotišina közelében.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Vošac",
+                  "text": "A Biokovo-hegység egyik jellegzetes csúcsa, ahonnan lenyűgöző panoráma nyílik Makarskára és a szigetekre.",
+                  "category": "natural",
+                  "coords": [
+                        17.046233,
+                        43.310795
+                  ]
+            },
+            {
+                  "name": "Štrbina",
+                  "text": "A Biokovo-hegység egyik csúcsa, amely Makarskából kiinduló túraútvonalakon keresztül érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        17.049047,
+                        43.309711
+                  ]
+            },
+            {
+                  "name": "paragliding take off Przinowac, 1300 m",
+                  "text": "Népszerű siklóernyős starthely a Biokovo-hegységben, 1300 méteres magasságban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.052239,
+                        43.303121
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "Ebből a csodás kilátóból megcsodálható az Adria végtelen kékje és a lent elterülő Nugal strand. A lenyűgöző perspektíva arra csábít, hogy megálljunk egy pillanatra, és lencsevégre kapjuk a Makarskai Riviéra szépségét. Egy rövid pihenő itt minden parti sétát emlékezetessé tesz.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Svetište Majke Božje Lurdske",
+                  "text": "Népszerű Mária-kegyhely, amelyet egy természetes barlangban alakítottak ki a város közelében.",
+                  "category": "religious",
+                  "coords": [
+                        17.004391,
+                        43.315544
+                  ]
+            },
+            {
+                  "name": "crkva svetog Marka",
+                  "text": "Makarska egykori székesegyháza, egy 18. századi barokk templom a város főterén.",
+                  "category": "religious",
+                  "coords": [
+                        17.021004,
+                        43.293896
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "Kisméretű középkori templom a történelmi Kotišina település közelében.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "Barokk stílusú templom Kotišina faluban, amely a környék vallási örökségének része.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            },
+            {
+                  "name": "Kids Pool Hotel Meteor",
+                  "text": "Speciális gyermekmedence a makarskai Hotel Meteorban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014911,
+                        43.298585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farul Sfântul Petru",
+                  "text": "Construit în 1884 pe peninsula cu același nume, oferă o vedere splendidă asupra insulelor dalmate.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp",
+                  "coords": [
+                        17.009337,
+                        43.294328
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Biokovo",
+                  "text": "Poarta către masivul muntos unde se află faimoasa platformă de sticlă Skywalk la 1228m înălțime.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-biokovo-naturpark.webp",
+                  "coords": [
+                        17.14,
+                        43.25
+                  ]
+            },
+            {
+                  "name": "Riva Makarska",
+                  "text": "Promenadă vibrantă pe malul mării, mărginită de palmieri, cafenele și numeroase ambarcațiuni.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-riva-makarska.webp",
+                  "coords": [
+                        17.019411,
+                        43.295106
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "O plajă de nudiști retrasă, cu pietriș, situată la baza unor stânci abrupte și accesibilă printr-o potecă de pădure.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Cvitačka FKK",
+                  "text": "O serie de mici golfuri cu pietriș în nordul stațiunii Makarska, frecventate în principal de nudiști.",
+                  "category": "recreational",
+                  "coords": [
+                        16.998338,
+                        43.311096
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O secțiune desemnată pentru nudiști pe plaja cu pietriș de pe coasta stațiunii Makarska.",
+                  "category": "recreational",
+                  "coords": [
+                        16.994008,
+                        43.314946
+                  ]
+            },
+            {
+                  "name": "Papillon",
+                  "text": "Un mic parc de distracții în Makarska, ideal pentru familiile cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        17.013332,
+                        43.294882
+                  ]
+            },
+            {
+                  "name": "Malakološki muzej",
+                  "text": "Muzeul situat în mănăstirea franciscană găzduiește una dintre cele mai importante colecții de scoici din lume.",
+                  "category": "museum",
+                  "coords": [
+                        17.021823,
+                        43.291915
+                  ]
+            },
+            {
+                  "name": "Gradski muzej",
+                  "text": "Muzeul Municipal din Makarska prezintă istoria locală și patrimoniul cultural al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.015972,
+                        43.295174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sharko",
+                  "text": "Un parc acvatic gonflabil pe mare în Makarska, care oferă distracție și răcorire.",
+                  "category": "recreational",
+                  "coords": [
+                        17.004365,
+                        43.303924
+                  ]
+            },
+            {
+                  "name": "Biloševac",
+                  "text": "O plajă cu pietriș cunoscută în Makarska, cu apă cristalină și diverse opțiuni de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        17.0024,
+                        43.305321
+                  ]
+            },
+            {
+                  "name": "Biokovski botanički vrt",
+                  "text": "Grădina botanică situată în Kotišina păstrează flora autohtonă a masivului Biokovo.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Plaža Ramova",
+                  "text": "La marginea orașului Makarska, această plajă mai liniștită cu pietriș oferă o evadare binevenită departe de centrele aglomerate. Pădurile de pini umbroase mărginesc coasta, asigurând ore de relaxare după o baie în mare. Pentru a vă bucura de natura pașnică, o vizită la primele ore ale dimineții este ideală.",
+                  "category": "recreational",
+                  "coords": [
+                        16.99607,
+                        43.313332
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "O fortăreață din secolul al XVII-lea construită în stâncile muntelui Biokovo, lângă Kotišina.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Vošac",
+                  "text": "Un vârf montan proeminent în masivul Biokovo, cu o vedere panoramică impresionantă asupra orașului Makarska și a insulelor.",
+                  "category": "natural",
+                  "coords": [
+                        17.046233,
+                        43.310795
+                  ]
+            },
+            {
+                  "name": "Štrbina",
+                  "text": "Un vârf montan în masivul Biokovo, accesibil prin trasee de drumeție care pornesc din Makarska.",
+                  "category": "natural",
+                  "coords": [
+                        17.049047,
+                        43.309711
+                  ]
+            },
+            {
+                  "name": "paragliding take off Przinowac, 1300 m",
+                  "text": "Un punct de lansare pentru parapantă situat la 1300 de metri înălțime în munții Biokovo.",
+                  "category": "landmark",
+                  "coords": [
+                        17.052239,
+                        43.303121
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "Din acest punct de belvedere magnific, puteți admira albastrul nesfârșit al Mării Adriatice și plaja Nugal de dedesubt. Perspectiva fascinantă vă invită să vă opriți o clipă și să fotografiați frumusețea Rivierei Makarska. O scurtă oprire aici îmbogățește orice plimbare de-a lungul coastei.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Svetište Majke Božje Lurdske",
+                  "text": "Un sanctuar dedicat Maicii Domnului, amenajat într-o grotă naturală lângă Makarska.",
+                  "category": "religious",
+                  "coords": [
+                        17.004391,
+                        43.315544
+                  ]
+            },
+            {
+                  "name": "crkva svetog Marka",
+                  "text": "Fosta catedrală din Makarska, o biserică barocă din secolul al XVIII-lea situată în piața centrală.",
+                  "category": "religious",
+                  "coords": [
+                        17.021004,
+                        43.293896
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "O mică biserică medievală situată în apropierea așezării istorice Kotišina.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "O biserică barocă situată în satul Kotišina, făcând parte din patrimoniul cultural local.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            },
+            {
+                  "name": "Kids Pool Hotel Meteor",
+                  "text": "O zonă de înot dedicată copiilor la Hotelul Meteor din Makarska.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014911,
+                        43.298585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Peter Lighthouse",
+                  "text": "Built in 1884 on the St. Peter peninsula, offering panoramic views of the sea and the islands.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-leuchtturm-st-peter.webp",
+                  "coords": [
+                        17.009337,
+                        43.294328
+                  ]
+            },
+            {
+                  "name": "Biokovo Nature Park",
+                  "text": "Gateway to the mountain range with the famous glass-floored Skywalk platform at 1228 meters.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-biokovo-naturpark.webp",
+                  "coords": [
+                        17.14,
+                        43.25
+                  ]
+            },
+            {
+                  "name": "Makarska Riva",
+                  "text": "Bustling palm-fringed waterfront promenade with numerous cafes, restaurants, and excursion boats.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/makarska-riva-makarska.webp",
+                  "coords": [
+                        17.019411,
+                        43.295106
+                  ]
+            },
+            {
+                  "name": "Nugal",
+                  "text": "A secluded pebble nudist beach at the base of steep cliffs, accessible via a forest path.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Cvitačka FKK",
+                  "text": "A series of small pebble coves in northern Makarska, primarily frequented by nudists.",
+                  "category": "recreational",
+                  "coords": [
+                        16.998338,
+                        43.311096
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A designated clothing-optional section on the pebble beach along the Makarska coast.",
+                  "category": "recreational",
+                  "coords": [
+                        16.994008,
+                        43.314946
+                  ]
+            },
+            {
+                  "name": "Papillon",
+                  "text": "A small theme park in Makarska, offering entertainment for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        17.013332,
+                        43.294882
+                  ]
+            },
+            {
+                  "name": "Malakološki muzej",
+                  "text": "Located in the Franciscan monastery, this museum houses one of the world's most significant collections of sea shells.",
+                  "category": "museum",
+                  "coords": [
+                        17.021823,
+                        43.291915
+                  ]
+            },
+            {
+                  "name": "Municipal Museum",
+                  "text": "The Municipal Museum of Makarska showcases the local history and cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.015972,
+                        43.295174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sharko",
+                  "text": "An inflatable water park on the sea in Makarska, providing fun and refreshment.",
+                  "category": "recreational",
+                  "coords": [
+                        17.004365,
+                        43.303924
+                  ]
+            },
+            {
+                  "name": "Biloševac",
+                  "text": "A well-known pebble beach in Makarska featuring crystal clear water and various recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        17.0024,
+                        43.305321
+                  ]
+            },
+            {
+                  "name": "Biokovo Botanical Garden",
+                  "text": "Located in Kotišina, this botanical garden preserves the indigenous plant life of the Biokovo mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Plaža Ramova",
+                  "text": "On the outskirts of Makarska, this quieter pebble beach offers a welcome escape from the busier town centers. Shade-providing pine forests line the coast, granting a restful retreat after a refreshing swim in the sea. To fully enjoy the peaceful natural surroundings, an early morning visit is ideal.",
+                  "category": "recreational",
+                  "coords": [
+                        16.99607,
+                        43.313332
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "A 17th-century fortress built into the cliffs of Mount Biokovo near the village of Kotišina.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Vošac",
+                  "text": "A prominent mountain peak in the Biokovo massif offering an impressive panoramic view of Makarska and the islands.",
+                  "category": "natural",
+                  "coords": [
+                        17.046233,
+                        43.310795
+                  ]
+            },
+            {
+                  "name": "Štrbina",
+                  "text": "A mountain peak in the Biokovo range, accessible via hiking trails leading from Makarska.",
+                  "category": "natural",
+                  "coords": [
+                        17.049047,
+                        43.309711
+                  ]
+            },
+            {
+                  "name": "paragliding take off Przinowac, 1300 m",
+                  "text": "A well-known paragliding take-off point located at 1,300 meters in the Biokovo mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        17.052239,
+                        43.303121
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "From this magnificent viewpoint, one can gaze out over the vast blue Adriatic and the Nugal pebble beach below. The fascinating perspective naturally invites visitors to pause for a moment and photograph the beauty of the Makarska Riviera. Making a brief stop here enriches any walk along this scenic coastline.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Svetište Majke Božje Lurdske",
+                  "text": "A prominent Marian shrine situated in a natural cave near the town of Makarska.",
+                  "category": "religious",
+                  "coords": [
+                        17.004391,
+                        43.315544
+                  ]
+            },
+            {
+                  "name": "crkva svetog Marka",
+                  "text": "The former cathedral of Makarska, an 18th-century baroque church on the main square.",
+                  "category": "religious",
+                  "coords": [
+                        17.021004,
+                        43.293896
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "A small medieval church located near the historic settlement of Kotišina.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "A baroque church in the village of Kotišina, part of the local cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            },
+            {
+                  "name": "Kids Pool Hotel Meteor",
+                  "text": "A dedicated swimming area for children at the Hotel Meteor in Makarska.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014911,
+                        43.298585
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Nugal",
+                  "text": "Skrivena šljunčana nudistička plaža u podnožju strmih litica, dostupna šumskom stazom.",
+                  "category": "recreational",
+                  "coords": [
+                        17.033842,
+                        43.279337
+                  ]
+            },
+            {
+                  "name": "Cvitačka FKK",
+                  "text": "Niz malih šljunčanih uvala na sjeveru Makarske koje prvenstveno posjećuju nudisti.",
+                  "category": "recreational",
+                  "coords": [
+                        16.998338,
+                        43.311096
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Označeni dio za nudiste na šljunčanoj plaži duž makarske obale.",
+                  "category": "recreational",
+                  "coords": [
+                        16.994008,
+                        43.314946
+                  ]
+            },
+            {
+                  "name": "Papillon",
+                  "text": "Mali zabavni park u Makarskoj, idealan za obitelji s djecom.",
+                  "category": "recreational",
+                  "coords": [
+                        17.013332,
+                        43.294882
+                  ]
+            },
+            {
+                  "name": "Malakološki muzej",
+                  "text": "Smješten u franjevačkom samostanu, ovaj muzej čuva jednu od najvažnijih svjetskih zbirki školjaka.",
+                  "category": "museum",
+                  "coords": [
+                        17.021823,
+                        43.291915
+                  ]
+            },
+            {
+                  "name": "Municipal Museum",
+                  "text": "Gradski muzej Makarska predstavlja lokalnu povijest i kulturnu baštinu ove regije.",
+                  "category": "museum",
+                  "coords": [
+                        17.015972,
+                        43.295174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sharko",
+                  "text": "Zabavni vodeni park na napuhavanje u Makarskoj koji nudi zabavu i osvježenje.",
+                  "category": "recreational",
+                  "coords": [
+                        17.004365,
+                        43.303924
+                  ]
+            },
+            {
+                  "name": "Biloševac",
+                  "text": "Poznata šljunčana plaža u Makarskoj s kristalno čistim morem i raznim sadržajima.",
+                  "category": "recreational",
+                  "coords": [
+                        17.0024,
+                        43.305321
+                  ]
+            },
+            {
+                  "name": "Biokovo Botanical Garden",
+                  "text": "Smješten u Kotišini, ovaj botanički vrt čuva i predstavlja autohtonu floru planine Biokovo.",
+                  "category": "natural",
+                  "coords": [
+                        17.047601,
+                        43.291108
+                  ]
+            },
+            {
+                  "name": "Plaža Ramova",
+                  "text": "Mirnija šljunčana plaža na rubu Makarske, okružena sjenovitom borovom šumom.",
+                  "category": "recreational",
+                  "coords": [
+                        16.99607,
+                        43.313332
+                  ]
+            },
+            {
+                  "name": "Veliki kaštel",
+                  "text": "Utvrda iz 17. stoljeća izgrađena u stijenama planine Biokovo u blizini sela Kotišina.",
+                  "category": "castle",
+                  "coords": [
+                        17.04605,
+                        43.291347
+                  ]
+            },
+            {
+                  "name": "Vošac",
+                  "text": "Istaknuti planinski vrh na Biokovu s kojeg se pruža impresivan panoramski pogled na Makarsku i otoke.",
+                  "category": "natural",
+                  "coords": [
+                        17.046233,
+                        43.310795
+                  ]
+            },
+            {
+                  "name": "Štrbina",
+                  "text": "Planinski vrh na Biokovu do kojeg vode pješačke staze iz Makarske.",
+                  "category": "natural",
+                  "coords": [
+                        17.049047,
+                        43.309711
+                  ]
+            },
+            {
+                  "name": "paragliding take off Przinowac, 1300 m",
+                  "text": "Poznato poletište za paragliding smješteno na 1300 metara nadmorske visine na Biokovu.",
+                  "category": "landmark",
+                  "coords": [
+                        17.052239,
+                        43.303121
+                  ]
+            },
+            {
+                  "name": "Amazing view on Nugal Beach",
+                  "text": "Vidikovac s kojeg se pruža prekrasan pogled na poznatu plažu Nugal i Jadransko more.",
+                  "category": "natural",
+                  "coords": [
+                        17.03503,
+                        43.278929
+                  ]
+            },
+            {
+                  "name": "Svetište Majke Božje Lurdske",
+                  "text": "Poznato marijansko svetište Vepric smješteno u prirodnoj spilji u blizini Makarske.",
+                  "category": "religious",
+                  "coords": [
+                        17.004391,
+                        43.315544
+                  ]
+            },
+            {
+                  "name": "crkva svetog Marka",
+                  "text": "Nekadašnja makarska katedrala, barokna crkva iz 18. stoljeća na glavnom gradskom trgu.",
+                  "category": "religious",
+                  "coords": [
+                        17.021004,
+                        43.293896
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Martina",
+                  "text": "Mala srednjovjekovna crkvica smještena u blizini povijesnog sela Kotišina.",
+                  "category": "religious",
+                  "coords": [
+                        17.038487,
+                        43.29251
+                  ]
+            },
+            {
+                  "name": "sv. Andrije",
+                  "text": "Barokna crkvica u selu Kotišina koja pripada lokalnoj kulturnoj baštini.",
+                  "category": "religious",
+                  "coords": [
+                        17.041885,
+                        43.280594
+                  ]
+            }
+      ]
+}},
   {"id": "mali-losinj", "type": "city", "parent": "HR-08", "coords": [14.4708, 44.5328], "population": 8116, "tier": 1, "name": {"de": "Mali Lošinj", "hu": "Mali Lošinj", "ro": "Mali Lošinj", "en": "Mali Lošinj"}, "description": {"de": "Mali Lošinj liegt in einer tiefen Bucht und ist als 'Insel der Vitalität' bekannt, berühmt für sein heilendes Klima und das Apoxyomenos-Museum.", "hu": "A mély öbölben fekvő Mali Lošinj a 'vitalitás szigeteként' ismert, gyógyító klímájáról és az Apoxüomenosz Múzeumról híres.", "ro": "Mali Lošinj este situat într-un golf adânc și este cunoscut drept 'Insula Vitalității', fiind faimos pentru climatul curativ și Muzeul Apoxyomenos.", "en": "Nestled in a deep bay, Mali Lošinj is known as the 'Island of Vitality,' famous for its healing climate and the unique Apoxyomenos Museum."}, "facts": {"de": ["8.116 Einwohner", "Größte Stadt auf den kroatischen Inseln", "Museum des Apoxyomenos", "Heilklimatischer Kurort seit 1892", "Duftender Inselgarten", "Delfin-Schutzzentrum", "Čikat-Bucht mit Villen", "Reich an Heilkräutern"], "hu": ["8 116 lakos", "A legnagyobb város a horvát szigetvilágban", "Apoxüomenosz Múzeum", "1892 óta gyógyüdülőhely", "Illatos szigeti kert", "Delfinvédelmi központ", "Čikat-öböl elegáns villákkal", "Gazdag gyógynövényvilág"], "ro": ["8.116 locuitori", "Cel mai mare oraș de pe insulele croate", "Muzeul Apoxyomenos", "Stațiune climaterică din 1892", "Grădina aromatică a insulei", "Centru de protecție a delfinilor", "Golful Čikat cu vilele sale", "Bogăție de plante medicinale"], "en": ["8,116 residents", "Largest town on the Croatian islands", "Museum of Apoxyomenos", "Health resort since 1892", "Aromatic Island Garden", "Dolphin protection center", "Čikat Bay with historic villas", "Abundance of medicinal herbs"]}, "image": "/poi-images/mali-losinj.webp", "imageHint": "The colorful harbor of Mali Losinj in a sheltered bay", "descriptionAdvanced": {"de": "Obwohl der Name 'Mali' (Klein) Lošinj lautet, ist die Stadt das größte Siedlungszentrum der kroatischen Inselwelt. Die Stadt entwickelte sich im 19. Jahrhundert zu einem bedeutenden Seehandels- und Schiffbauzentrum. Dank der über 200 Sonnentage und der mit Pinienwäldern angereicherten Meeresluft wurde sie 1892 offiziell zum Luftkurort erklärt. Das kulturelle Highlight ist das Museum des Apoxyomenos, das ausschließlich einer antiken Bronzestatue eines griechischen Athleten gewidmet ist, die 1996 im Meer vor der Insel gefunden wurde. Die Architektur am Hafen ist geprägt von farbenfrohen Kapitänshäusern. In der Bucht Čikat stehen prächtige Villen aus der Zeit der K.u.K. Monarchie, umgeben von dichten Aleppo-Kiefern. Mali Lošinj ist auch ein Zentrum für Ökotourismus; in den Gewässern um die Insel lebt eine dauerhafte Population von etwa 200 Großen Tümmlern, die vom 'Blue World Institute' erforscht und geschützt werden.", "hu": "Bár a neve 'Mali' (kicsi), valójában ez a horvát szigetvilág legnépesebb városa. Mali Lošinj a 19. században vált jelentős tengeri kikötővé és hajóépítő központtá. Kivételes mikroklímája és a fenyőerdők illatával keveredő sós tengeri levegő miatt már 1892-ben hivatalos gyógyüdülőhellyé nyilvánították. A város legnagyobb büszkesége az Apoxüomenosz Múzeum, ahol egy i. e. 2. századi görög bronzszobrot őriznek, amelyet 1996-ban találtak meg a tenger fenekén a közelben. A kikötő körüli színes házak és a Čikat-öböl monarchia-korabeli villái különleges hangulatot árasztanak. A fenntarthatóság jegyében itt található az Adria első delfinvédelmi központja is, hiszen a környék vizeiben egy népes delfinközösség él. A látogatókat ezen kívül az Illatos Kert várja, ahol a sziget több száz őshonos gyógynövényével ismerkedhetnek meg.", "ro": "Deși numele său 'Mali' înseamnă 'mic', Mali Lošinj este cea mai mare așezare de pe insulele croate. Orașul s-a dezvoltat în secolul al XIX-lea ca un centru important de comerț maritim și construcții navale. Datorită celor peste 200 de zile însorite și aerului marin îmbogățit de pădurile de pini, a fost declarat oficial stațiune climaterică în 1892. Atracția culturală majoră este Muzeul Apoxyomenos, dedicat exclusiv unei statui antice din bronz a unui atlet grec, descoperită în mare lângă insulă în 1996. Arhitectura portului este definită de casele colorate ale foștilor căpitani de vase. În golful Čikat se află vile splendide din perioada austro-ungară, înconjurate de pini de Alep deasă. Mali Lošinj este, de asemenea, un centru pentru ecoturism; în apele din jurul insulei trăiește o populație permanentă de aproximativ 200 de delfini, monitorizați de institutul 'Blue World'.", "en": "Despite its name 'Mali' (meaning Little), this town is the largest population center in the Croatian islands. In the 19th century, it flourished as a major maritime trade and shipbuilding hub. Its exceptional microclimate, where sea salt air mixes with the scent of vast pine forests, led to its official designation as a health resort in 1892. The town's cultural centerpiece is the Museum of Apoxyomenos, which houses an extraordinary 2nd-century BC Greek bronze statue found on the seabed nearby in 1996. The harbor is lined with colorful captains' houses, while the nearby Čikat Bay features opulent Austro-Hungarian villas. Mali Lošinj is also a pioneer in eco-tourism; the surrounding waters are home to a resident population of about 200 bottlenose dolphins, studied and protected by the locally based Blue World Institute."}, "factsAdvanced": {"de": ["Die Apoxyomenos-Statue lag fast 2000 Jahre auf dem Meeresgrund", "Die Insel hat über 1200 verschiedene Pflanzenarten", "Mali Lošinj hat eine der längsten Seefahrertraditionen der Adria", "Das Blue World Institut bietet Delfin-Patenschaften an", "Die Bucht Čikat ist bekannt für ihre Luxushotels", "Ein künstlicher Kanal (Privlaka) trennt die Inselteile"], "hu": ["Az Apoxüomenosz-szobor közel 2000 évet töltött a tenger fenekén", "A szigeten több mint 1200 különböző növényfaj honos", "Mali Lošinj az Adria egyik legrégebbi tengerészmúltjával bír", "A Blue World Intézetben lehetőség van delfinek örökbefogadására", "A Čikat-öböl híres luxusszállodáiról és fenyveseiről", "A Privlaka-csatorna mesterségesen vágja ketté a szigetet"], "ro": ["Statuia Apoxyomenos a stat aproape 2000 de ani pe fundul mării", "Insula are peste 1200 de specii diferite de plante", "Mali Lošinj are una dintre cele mai lungi tradiții maritime din Adriatică", "Institutul Blue World permite adoptarea simbolică a delfinilor", "Golful Čikat este renumit pentru hotelurile sale de lux", "Un canal artificial (Privlaka) desparte părțile insulei"], "en": ["The Apoxyomenos statue lay on the seabed for nearly 2,000 years", "The island is home to over 1,200 unique plant species", "Mali Lošinj has one of the richest seafaring heritages in the Adriatic", "The Blue World Institute offers dolphin adoption programs", "Čikat Bay is renowned for its high-end luxury resorts", "A small man-made canal (Privlaka) divides the island segments"]}, "sights": {"de": [{"name": "Museum des Apoxyomenos", "text": "Gewidmet der 2.000 Jahre alten Bronzestatue eines Athleten, die 1996 im Meer bei Lošinj gefunden wurde.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Duftender Inselgarten", "text": "Ein Garten mit über 250 Arten von Wild- und Heilkräutern, die typisch für das milde Klima der Insel sind.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Fritzi-Palast", "text": "Ein Gebäude aus dem 19. Jahrhundert, das heute das Lošinjer Museum mit bedeutenden Kunstsammlungen beherbergt.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Aussichtspunkt Providenca", "text": "Bietet einen 360-Grad-Blick auf den Lošinjer Archipel und ist ein beliebter Ort für Sonnenuntergänge.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Blaues Weltinstitut", "text": "Bildungszentrum, das sich der Erforschung und dem Schutz der Großen Tümmler in der Adria widmet.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "Eine archäologische Fundstätte mit Überresten antiker römischer Dachziegel und Keramik.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Beliebter Kiesstrand mit betonierten Liegeflächen in Mali Lošinj.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Kleine, ruhige Bucht mit kristallklarem Wasser unweit des Stadtzentrums.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Schattige Bucht, die von einem dichten, alten Pinienwald umgeben ist.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Großer Wasserpark mit Meerwasser, der sich im Waldpark Čikat befindet.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "Venezianische Festung aus dem 16. Jahrhundert, die heute ein Museum beherbergt.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Felsstrand am nördlichen Eingang der Stadt mit sehr sauberem Wasser.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Natürlicher Strand in der Nähe des Campingplatzes Poljana mit klarem Meer.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Strand in der Nähe des Kanals, der die Inseln Cres und Lošinj trennt.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Aussichtspunkt auf einem Hügel mit weitem Blick über den Archipel.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Ein Denkmal in Mali Lošinj, das den Opfern des Faschismus und den Widerstandskämpfern des Zweiten Weltkriegs gewidmet ist.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "Ein beliebter Kiesstrand in der Sunčana Uvala bei Mali Lošinj, der für sein kristallklares Wasser und die Blaue Flagge bekannt ist.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Nahe dem Hotel Punta in Veli Lošinj lockt dieser Strandabschnitt mit seinen charakteristischen Beton- und Felsplateaus. Sonnenanbeter finden hier ideale Liegeflächen, um entspannt in den Tag zu starten und sich anschließend im Meer zu erfrischen. Badeschuhe sind für einen bequemen Einstieg in das Wasser zu empfehlen.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "Ein Kiesstrand auf dem Campingplatz Poljana auf der Insel Lošinj mit Blick auf den Kvarner Golf.", "category": "recreational", "coords": [14.444642, 44.557056]}], "hu": [{"name": "Apoxüomenosz Múzeum", "text": "Egyetlen műtárgynak, egy 1996-ban a tengerből kiemelt, 2000 éves görög bronzszobornak szentelt múzeum.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Lošinji Illatos Kert", "text": "Több mint 250 féle őshonos vad- és gyógynövényt bemutató kert, amely a sziget gyógyító klímáját jelképezi.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Fritzi-palota", "text": "19. századi épület, amely a Lošinji Múzeumnak és értékes művészeti gyűjteményeknek ad otthont.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Providenca kilátó", "text": "Pazar panorámát nyújtó pont a sziget felett, ahonnan az egész Lošinj-szigetcsoport belátható.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Kék Világ Intézet", "text": "Oktatási és kutatóközpont, amely az adriai palackorrú delfinek védelmével foglalkozik.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "Régészeti lelőhely, ahol ókori római tetőcserepek (tegula) maradványai láthatók.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Népszerű kavicsos strand betonozott napozórészekkel Mali Lošinjban.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Kicsi, csendes öböl kristálytiszta vízzel, nem messze a városközponttól.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Árnyas öböl, amelyet sűrű, ősi fenyőerdő vesz körül.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Nagy tengervizes aquapark a Čikat erdei park területén.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "16. századi velencei erőd, amely ma múzeumnak ad otthont.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Sziklás strand a város északi bejáratánál, rendkívül tiszta vízzel.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Természetes strand a Poljana kemping közelében, tiszta tengervízzel.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Strand a Cres és Lošinj szigeteket elválasztó csatorna közelében.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Kilátópont egy dombtetőn, ahonnan pazar kilátás nyílik a szigetvilágra.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Mali Lošinjban található emlékmű, melyet a fasizmus áldozatainak és a második világháború ellenállóinak tiszteletére emeltek.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "Népszerű kavicsos strand Mali Lošinj közelében a Sunčana-öbölben, amely tiszta vizéről és Kék Zászló minősítéséről ismert.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Veli Lošinjban, a Hotel Punta közelében található ez a jellegzetes beton- és sziklaplatókkal rendelkező partszakasz. A napozás szerelmesei itt ideális fekvőhelyeket találnak a napindító pihenéshez, amit egy frissítő tengeri fürdőzés követhet. A vízbe való kényelmes bejutáshoz fürdőcipő használata javasolt.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "Kavicsos strand a Poljana kemping területén, Lošinj szigetén, kilátással a Kvarner-öbölre.", "category": "recreational", "coords": [14.444642, 44.557056]}], "ro": [{"name": "Muzeul lui Apoxyomenos", "text": "Dedicat unei statui antice de bronz de 2.000 de ani, descoperită în mare lângă Lošinj în 1996.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Grădina Aromatică a Insulei", "text": "Grădină cu peste 250 de specii de plante medicinale și aromatice tipice pentru clima insulei Lošinj.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Palatul Fritzi", "text": "Clădire din secolul al XIX-lea care găzduiește Muzeul Lošinj și colecții de artă valoroase.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Punctul de Belvedere Providenca", "text": "Oferă o vedere de 360 de grade asupra arhipelagului Lošinj și este locul ideal pentru apusuri.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Institutul Lumea Albastră", "text": "Centru educațional marin dedicat cercetării și protejării delfinilor din marea Adriatică.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "Un sit arheologic unde se pot vedea rămășițele unor țigle romane antice.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Plajă populară cu pietriș și zone betonate pentru plajă în Mali Lošinj.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Golf mic și liniștit cu apă cristalină, situat aproape de centrul orașului.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Golf umbrit, înconjurat de o pădure de pini deasă și străveche.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Parc acvatic mare cu apă de mare, situat în parcul forestier Čikat.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "Cetate venețiană din secolul al XVI-lea, care astăzi găzduiește un muzeu.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Plajă stâncoasă la intrarea de nord a orașului, cu apă foarte curată.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Plajă naturală în apropierea campingului Poljana, cu apă limpede.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Plajă situată lângă canalul care desparte insulele Cres și Lošinj.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Punct de belvedere pe un deal, oferind o vedere largă asupra arhipelagului.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Un monument în Mali Lošinj dedicat victimelor fascismului și luptătorilor din rezistența celui de-al Doilea Război Mondial.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "O plajă populară cu pietriš în Sunčana Uvala lângă Mali Lošinj, cunoscută pentru apa sa cristalină și steagul albastru.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "În apropiere de Hotelul Punta din Veli Lošinj, această porțiune de coastă atrage prin platourile sale stâncoase și de beton. Iubitorii de soare găsesc aici suprafețe ideale pentru a se relaxa, înainte de a se răcori în mare. Pentru a intra confortabil în apă, se recomandă purtarea încălțămintei de baie.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "O plajă cu pietriș situată în incinta campingului Poljana de pe insula Lošinj, oferind vedere spre Golful Kvarner.", "category": "recreational", "coords": [14.444642, 44.557056]}], "en": [{"name": "Museum of Apoxyomenos", "text": "Dedicated to the 2,000-year-old bronze statue of a Greek athlete found in the sea near Lošinj.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-museum-des-apoxyomenos.webp", "coords": [14.46703, 44.534839]}, {"name": "Lošinj Aromatic Garden", "text": "A garden showcasing over 250 species of wild and medicinal herbs typical for the island's mild climate.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mali-losinj-duftender-inselgarten.webp", "coords": [14.470763, 44.526056]}, {"name": "Fritzi Palace", "text": "19th-century building housing the Lošinj Museum and various important art collections.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/mali-losinj-fritzi-palast.webp", "coords": [14.468596, 44.533605]}, {"name": "Providenca Viewpoint", "text": "Offers a 360-degree view of the Lošinj archipelago and is a famous spot for watching the sunset.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mali-losinj-aussichtspunkt-providenca.webp", "coords": [14.481752, 44.522351]}, {"name": "Blue World Institute", "text": "Marine education center focused on research and protection of dolphins in the Adriatic Sea.", "category": "theatres/cultural centres", "confidence": "high", "image": "/poi-images/sights/mali-losinj-blaues-weltinstitut.webp", "coords": [14.500578, 44.521111]}, {"name": "Ostaci tegula", "text": "An archaeological site featuring the remains of ancient Roman roof tiles.", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Popular pebbly beach with concrete sunbathing areas in Mali Lošinj.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Small, quiet cove with crystal clear water not far from the town center.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Shaded cove surrounded by a dense, ancient pine forest.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Large sea water park located within the Čikat forest park.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "16th-century Venetian fortress that now houses a museum.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Rocky beach at the northern entrance of the town with very clean water.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Natural beach near the Poljana campsite with clear sea water.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Beach located near the canal that separates the islands of Cres and Lošinj.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Hilltop viewpoint offering a wide view over the archipelago.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "A monument in Mali Lošinj dedicated to the victims of fascism and the resistance fighters of World War II.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "A popular pebble beach in Sunčana Uvala near Mali Lošinj, known for its crystal clear water and Blue Flag status.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Located near Hotel Punta in Veli Lošinj, this coastal section draws visitors with its characteristic concrete and rocky plateaus. Sun worshipers will find excellent lounging areas to relax before plunging into the refreshing sea. Wearing water shoes is highly recommended for easy access to the water.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "A pebbly beach located within the Poljana campsite on the island of Lošinj, offering views of the Kvarner Gulf.", "category": "recreational", "coords": [14.444642, 44.557056]}], "hr": [{"name": "Ostaci tegula", "text": "Arheološko nalazište s ostacima antičkih rimskih krovnih opeka (tegula).", "category": "historical", "coords": [14.44919, 44.523037]}, {"name": "Zagazinjine", "text": "Popularna šljunčana plaža s betoniranim sunčalištima u Malom Lošinju.", "category": "recreational", "coords": [14.473723, 44.536714]}, {"name": "Male Valdarke", "text": "Mala, mirna uvala s kristalno čistim morem nedaleko od centra grada.", "category": "recreational", "coords": [14.481249, 44.529785]}, {"name": "Valdarke", "text": "Sjenovita uvala okružena gustom, drevnom borovom šumom.", "category": "recreational", "coords": [14.480158, 44.52721]}, {"name": "Aquapark Čikat", "text": "Veliki vodeni park s morskom vodom smješten u park-šumi Čikat.", "category": "recreational", "coords": [14.448708, 44.537159]}, {"name": "Kaštel", "text": "Mletačka utvrda iz 16. stoljeća u kojoj se danas nalazi muzej.", "category": "historical", "coords": [14.472983, 44.532275]}, {"name": "Kadin", "text": "Stjenovita plaža na sjevernom ulazu u grad s iznimno čistim morem.", "category": "recreational", "coords": [14.465588, 44.542961]}, {"name": "Poljana", "text": "Prirodna plaža u blizini kampa Poljana s bistrim morem.", "category": "recreational", "coords": [14.448295, 44.55222]}, {"name": "privlaka", "text": "Plaža smještena u blizini kanala koji razdvaja otoke Cres i Lošinj.", "category": "recreational", "coords": [14.461031, 44.545578]}, {"name": "Vela Straža", "text": "Vidikovac na brežuljku koji nudi širok pogled na arhipelag.", "category": "natural", "coords": [14.450174, 44.540899]}, {"name": "Monument to Victims of Fascism", "text": "Spomenik žrtvama fašizma u Malom Lošinju podignut u čast palim borcima i žrtvama Drugog svjetskog rata.", "category": "historical", "coords": [14.460813, 44.532866]}, {"name": "Veli Žal", "text": "Popularna šljunčana plaža u Sunčanoj uvali kod Malog Lošinja, poznata po čistom moru i Plavoj zastavi.", "category": "recreational", "coords": [14.458205, 44.52421]}, {"name": "Plaza Punta Veli Losinj", "text": "Plaža kod Velog Lošinja u blizini hotela Punta, s uređenim betonskim plohama i stjenovitim dijelovima.", "category": "recreational", "coords": [14.49725, 44.524807]}, {"name": "Poljana (a/c Poljana)", "text": "Šljunčana plaža smještena u sklopu kampa Poljana na otoku Lošinju, s pogledom na Kvarnerski zaljev.", "category": "recreational", "coords": [14.444642, 44.557056]}]}},
   {"id": "novalja-pag", "type": "city", "parent": "HR-09", "coords": [14.883, 44.555], "population": 3663, "tier": 1, "name": {"de": "Novalja (Pag)", "hu": "Novalja (Pag)", "ro": "Novalja (Pag)", "en": "Novalja (Pag)"}, "description": {"de": "Novalja auf der Insel Pag vereint antike römische Geschichte mit dem modernen Party-Lifestyle des berühmten Zrće-Strandes.", "hu": "A Pag-szigeti Novalja az ókori római történelmet ötvözi a modern party-életstílussal, a híres Zrće-strandnak köszönhetően.", "ro": "Novalja, pe insula Pag, îmbină istoria antică romană cu stilul modern de viață de la faimoasa plajă de petreceri Zrće.", "en": "Novalja on Pag Island blends ancient Roman history with the modern party lifestyle of the world-famous Zrće Beach."}, "facts": {"de": ["3.663 Einwohner", "Zrće Beach (bekanntester Party-Strand)", "Antikes römisches Aquädukt", "Olivenhaine von Lun (1000 Jahre alt)", "Pager Käse (Paški sir)", "Pag-Spitze (UNESCO)", "Salzgewinnung auf Pag", "Karge, mondähnliche Landschaft"], "hu": ["3 663 lakos", "Zrće strand (híres bulihelyszín)", "Ókori római vízvezeték", "Luni olajfák (akár 1000 évesek)", "Pági sajt (Paški sir)", "Pági csipke (UNESCO)", "Hagyományos sólepárlás", "Sziklás, holdszerű táj"], "ro": ["3.663 locuitori", "Plaja Zrće (celebră pentru petreceri)", "Apeduct roman antic", "Măslinii din Lun (vechi de 1000 de ani)", "Brânză de Pag (Paški sir)", "Dantela de Pag (UNESCO)", "Producție tradițională de sare", "Peisaj stâncos, selenar"], "en": ["3,663 residents", "Zrće Beach (famed party destination)", "Ancient Roman aqueduct", "Lun Olive Groves (1,000+ years old)", "Pag Cheese (Paški sir)", "Pag Lace (UNESCO)", "Traditional salt production", "Rocky, moon-like landscape"]}, "image": "/poi-images/novalja-pag.webp", "imageHint": "Novalja waterfront and the crystal clear waters of Pag island", "descriptionAdvanced": {"de": "Novalja ist das touristische Zentrum im Norden der Insel Pag und hat sich in den letzten Jahrzehnten von einem verschlafenen Ort zum 'kroatischen Ibiza' gewandelt. Dieser Ruf basiert auf dem nahegelegenen Strand Zrće, wo im Sommer weltbekannte DJs in Open-Air-Clubs auflegen. Doch Novalja hat weit mehr zu bieten als nur Nachtleben. Die Stadt blickt auf eine reiche Geschichte zurück, deren beeindruckendstes Zeugnis das antike römische Aquädukt aus dem 1. Jahrhundert ist, das von den Einheimischen 'Talijanova buža' (Italiener-Loch) genannt wird. Die Umgebung von Novalja ist geprägt von der kargen, durch den Bora-Wind gezeichneten Landschaft der Insel Pag, die an die Oberfläche des Mondes erinnert. Ein Naturphänomen sind die Olivenhaine von Lun am Nordzipfel der Insel, wo über 80.000 Olivenbäume wachsen, von denen einige über 1.000 Jahre alt sind. Kulinarisch ist die Region weltberühmt für den Pager Käse (Paški sir), der seinen besonderen Geschmack durch die salzhaltigen Kräuter erhält, die die Schafe auf den kargen Weiden fressen.", "hu": "Novalja Pag szigetének északi központja, amely az elmúlt években a 'horvát Ibiza' nevet kapta. Ez az elismerés a közeli Zrće-strandnak köszönhető, ahol világhírű klubok és fesztiválok várják a bulizni vágyókat. Novalja azonban sokkal több egy partihelyszínnél. A város alatt egy lenyűgöző ókori római vízvezeték húzódik az 1. századból, amelyet a helyiek 'Talijanova buža'-nak hívnak, és amelynek egy szakasza ma is látogatható. A környék tájképe egyedülálló: a Bóra szél és a sós permet miatt a sziget nagy része kopár és köves, ami holdszerű látványt nyújt. Északra található Lun faluja, ahol több tízezer vad olajfa él, némelyikük kora meghaladja az 1000 évet. Pag szigete híres gasztronómiájáról is; itt készül a Paški sir, a juhsajt, amely az aromás, sós gyógynövényeken legelő juhok tejétől kapja jellegzetes ízét. A város ideális keveréke az ókori örökségnek, a természeti csodáknak és a modern szórakozásnak.", "ro": "Novalja este centrul turistic din nordul insulei Pag și s-a transformat în ultimele decenii dintr-o localitate liniștită în 'Ibiza croată'. Această reputație se bazează pe plaja Zrće din apropiere, unde vara mixează DJ de renume mondial în cluburi în aer liber. Totuși, Novalja are mult mai multe de oferit decât viața de noapte. Orașul are o istorie bogată, cea mai impresionantă mărturie fiind apeductul roman antic din secolul I, numit de localnici 'Talijanova buža'. Împrejurimile localității Novalja sunt marcate de peisajul arid al insulei Pag, modelat de vântul Bora, care amintește de suprafața lunii. Un fenomen natural remarcabil sunt livezile de măslini din Lun, la vârful nordic al insulei, unde cresc peste 80.000 de măslini, unii având o vârstă de peste 1.000 de ani. Din punct de vedere gastronomic, regiunea este celebră pentru brânza de Pag (Paški sir), care își obține gustul deosebit datorită plantelor aromatice sărate consumate de oi pe pășunile aride.", "en": "Novalja is the primary tourist hub in the northern part of Pag Island, having evolved from a quiet village into the 'Croatian Ibiza.' This reputation stems from the nearby Zrće Beach, home to world-class open-air clubs and major electronic music festivals. However, Novalja offers much more than just a nightlife scene. The town boasts a rich ancient heritage, most notably its 1st-century AD Roman aqueduct, known locally as 'Talijanova buža' (The Italian Hole), a section of which can still be explored. The landscape surrounding Novalja is strikingly barren due to the salt-carrying Bora wind, creating a surreal, moon-like environment. To the north lie the Olive Groves of Lun, a botanical reserve with over 80,000 wild olive trees, some older than 1,000 years. The region is also world-famous for its culinary specialty, Pag Cheese (Paški sir), made from the milk of sheep grazing on salt-dusted aromatic herbs."}, "factsAdvanced": {"de": ["Das römische Aquädukt ist 1,2 Kilometer lang", "Die Olivenbäume von Lun gehören zu den ältesten der Welt", "Das 'Pager Dreieck' ist eine mysteriöse Bodenformation in der Nähe", "Paški sir ist einer der meistprämierten Käse Kroatiens", "Novalja war in der Antike ein wichtiger römischer Hafen", "Zrće Beach hat die 'Blaue Flagge' für Wasserqualität"], "hu": ["A római vízvezeték 1,2 kilométer hosszú és kézzel vájták ki", "A luni olajfák között van egy 1600 éves példány is", "A 'Pági-háromszög' egy rejtélyes kőalakzat a város közelében", "A Paški sir többször nyerte el a világ legjobb juhsajtja címet", "Novalja az ókorban Cissa néven fontos római kikötő volt", "A Zrće-strand Kék Zászló minősítéssel rendelkezik a víz tisztasága miatt"], "ro": ["Apeductul roman are o lungime de 1,2 kilometri", "Măslinii din Lun se numără printre cei mai vechi din lume", "Triunghiul de la Pag este o formațiune stâncoasă misterioasă", "Paški sir este una dintre cele mai premiate brânzeturi din Croația", "Novalja a fost un port roman important în antichitate sub numele Cissa", "Plaja Zrće deține Steagul Albastru pentru calitatea apei"], "en": ["The Roman aqueduct is 1.2 kilometers long and hand-carved", "The Lun Olive Groves include trees over 1,600 years old", "The 'Pag Triangle' is a mysterious land formation found nearby", "Paški sir is one of Croatia's most internationally awarded cheeses", "Novalja was an important Roman port known as Cissa in antiquity", "Zrće Beach holds a Blue Flag for its exceptional water quality"]}, "sights": {"de": [{"name": "Pag-Dreieck", "text": "Ein mysteriöses, dreieckiges Mal im Stein auf einem nahen Hügel, das 1999 entdeckt wurde.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "Ein weltweit bekannter Partystrand auf der Insel Pag, der für seine zahlreichen Open-Air-Clubs und Festivals berühmt ist.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "Das Stadtmuseum von Novalja beherbergt bedeutende archäologische Funde, darunter den Zugang zu einer antiken römischen Wasserleitung.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "Ein weitläufiger Kiesstrand und bekannter Campingplatz bei Novalja, umgeben von einem alten Eichen- und Olivenhain.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "Ein schöner Kiesstrand im Ferienort Gajac bei Novalja, der flach ins Meer abfällt und ideal für Familien ist.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "Ein geschichtsträchtiger Strand in einer Bucht bei Novalja, in deren Gewässern Reste einer versunkenen römischen Stadt liegen.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Dieser Sandstrand in Stara Novalja, auch Trinćel genannt, ist besonders bei Familien beliebt und trägt die Blaue Flagge.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Im westlichen Teil von Novalja erstreckt sich dieser flache Küstenstreifen, der für sein außergewöhnlich warmes Badewasser berühmt ist. Tagsüber vergnügen sich hier Badegäste im sanften Gewässer, während der Abend mit einem romantischen Sonnenuntergang lockt. Es lohnt sich, bis in die späten Stunden zu bleiben, um das Farbspektakel am Himmel zu genießen.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Dieser speziell ausgewiesene Bereich in Novalja ist ein wunderbarer Ort, an dem Vierbeiner herzlich willkommen sind. Hunde können hier ausgelassen im Meer baden und gemeinsam mit ihren Besitzern das kühle Nass genießen. Ein Ausflug an diesen Strand macht den Urlaub für Tierfreunde besonders entspannt.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Kunstgalerie in Novalja, die Werke lokaler und zeitgenössischer Künstler präsentiert.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Kleine Galerie in Novalja, die verschiedenen künstlerischen Ausstellungen Raum bietet.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Historische Überreste eines alten Brunnens in der Umgebung von Novalja.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "Ein Strandabschnitt in Novalja auf der Insel Pag.", "category": "recreational", "coords": [14.930435, 44.546586]}], "hu": [{"name": "Paški trokut (Pagi-háromszög)", "text": "Rejtélyes, szabályos háromszög alakú benyomódás a köves talajon, amelyet 1999-ben fedeztek fel.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "Világszerte ismert partistrand Pag szigetén, amely számos szabadtéri klubjáról és nyári fesztiváljáról híres.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "A novaljai városi múzeum jelentős régészeti leleteket őriz, többek között innen nyílik a bejárat az ókori római vízvezetékhez.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "Kiterjedt kavicsos strand és ismert kemping Novalja közelében, amelyet öreg tölgyesek és olajfák vesznek körül.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "Szép kavicsos strand a Novalja melletti Gajac üdülőhelyen, amely lassan mélyülő vize miatt családok számára is ideális.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "Történelmi jelentőségű strand Novalja közelében, amelynek öblében egy elsüllyedt római város maradványai találhatók.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Ez a Stara Novaljában található homokos strand, más néven Trinćel, különösen népszerű a családok körében és Kék Zászlóval büszkélkedhet.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Novalja nyugati részén húzódik ez a sekély partszakasz, amely kivételesen meleg vizéről híres. Nappal a fürdőzők élvezhetik a finoman hullámzó tengert, este pedig a romantikus naplemente nyújt felejthetetlen látványt. Érdemes a késő esti órákig maradni, hogy megcsodálhassuk az égbolt színkavalkádját.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Ez a Novaljában található, kifejezetten kutyák számára kijelölt strand csodás helyszín, ahol a négylábúak is szívesen látott vendégek. A kutyák itt szabadon fürdőzhetnek a tengerben, és gazdáikkal együtt élvezhetik a hűsítő vizet. Az állatbarátok számára egy itteni kirándulás igazán pihentetővé teszi a nyaralást.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Kortárs művészeti galéria Novalja központjában, helyi alkotók műveivel.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Kisméretű galéria Novaljában, amely változatos művészeti kiállításoknak ad otthont.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Egy régi kút történelmi maradványai Novalja területén.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "Strandrész Novalja településen, Pag szigetén.", "category": "recreational", "coords": [14.930435, 44.546586]}], "ro": [{"name": "Triunghiul din Pag", "text": "O amprentă misterioasă în formă de triunghi descoperită pe un deal pietros din apropiere în 1999.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "O plajă de petrecere renumită la nivel mondial pe insula Pag, celebră pentru numeroasele sale cluburi în aer liber și festivaluri.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "Muzeul orașului Novalja adăpostește descoperiri arheologice importante, inclusiv accesul la un apeduct antic roman.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "O plajă întinsă cu pietriš și un camping cunoscut lângă Novalja, înconjurat de o pădure veche de stejari și măslini.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "O plajă frumoasă cu pietriš în stațiunea Gajac de lângă Novalja, cu intrare lină în mare, ideală pentru familii.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "O plajă plină de istorie într-un golf de lângă Novalja, în ale cărei ape se află rămășițele unui oraș roman scufundat.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Această plajă cu nisip din Stara Novalja, numită și Trinćel, este populară în rândul familiilor și deține steagul albastru.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "În partea de vest a orașului Novalja se află această fâșie de plajă plată, renumită pentru apele sale deosebit de calde. În timpul zilei, vizitatorii se bucură de înot în apele blânde, în timp ce seara aduce apusuri de soare romantice. Merită să rămâneți până târziu pentru a privi spectacolul de culori de pe cer.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Această zonă special desemnată din Novalja este un loc minunat în care prietenii cu patru picioare sunt bineveniți. Câinii pot înota liber în mare aici, bucurându-se de apa răcoroasă alături de stăpânii lor. O vizită la această plajă face vacanța deosebit de relaxantă pentru iubitorii de animale.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Galerie de artă din Novalja care expune lucrări ale artiștilor locali și contemporani.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Mică galerie din Novalja care găzduiește diverse expoziții artistice.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Vestigii istorice ale unei vechi fântâni situate în zona Novalja.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "O zonă de plajă situată în Novalja pe insula Pag.", "category": "recreational", "coords": [14.930435, 44.546586]}], "en": [{"name": "Pag Triangle", "text": "A mysterious triangle-shaped mark in the stone found in 1999 on a hill near Novalja.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/novalja-pag-pag-dreieck.webp", "coords": [14.919083, 44.562556]}, {"name": "Zrće", "text": "A world-famous party beach on Pag island, renowned for its numerous open-air clubs and summer festivals.", "category": "recreational", "coords": [14.91619, 44.539334]}, {"name": "Gradski muzej Novalja", "text": "The Novalja City Museum houses significant archaeological finds, including the entrance to an ancient Roman aqueduct.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "An extensive pebble beach and well-known campsite near Novalja, surrounded by an old oak and olive grove.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "A beautiful pebble beach in the resort of Gajac near Novalja, with shallow waters ideal for families.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "A beach rich in history in a bay near Novalja, where remains of a sunken Roman city lie beneath the waters.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "This sandy beach in Stara Novalja, also called Trinćel, is popular with families and holds the Blue Flag award.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Stretching across the western part of Novalja, this flat coastal strip is renowned for its unusually warm bathing waters. By day, visitors splash in the gentle sea, while the evening promises romantic, sweeping views of the sunset. Lingering until the late hours to witness the colorful sky is a wonderful choice.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "This specially designated area in Novalja serves as a wonderful destination where four-legged friends are warmly welcomed. Dogs can splash freely in the sea, allowing both pets and their owners to enjoy the cooling water together. Planning a trip to this beach makes the holiday incredibly relaxed for animal lovers.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Art gallery in Novalja showcasing works by local and contemporary artists.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Small gallery in Novalja providing space for various artistic exhibitions.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Historic remains of an old well located in the Novalja area.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "A beach area located in Novalja on the island of Pag.", "category": "recreational", "coords": [14.930435, 44.546586]}], "hr": [{"name": "Gradski muzej Novalja", "text": "Gradski muzej Novalja čuva bogatu arheološku zbirku, a u njemu se nalazi i ulaz u antički rimski vodovod iz 1. stoljeća.", "category": "museum", "coords": [14.883329, 44.558007]}, {"name": "Straško", "text": "Prostrana šljunčana plaža i poznati kamp kod Novalje, okruženi gustom šumom hrasta medunca i maslina.", "category": "recreational", "coords": [14.880014, 44.539093]}, {"name": "Braničevica", "text": "Lijepa šljunčana plaža u naselju Gajac kod Novalje, s blagim ulazom u more, idealna za obitelji s djecom.", "category": "recreational", "coords": [14.894641, 44.52882]}, {"name": "Caska", "text": "Plaža u povijesnoj uvali kod Novalje, u čijem se podmorju nalaze ostaci potonulog rimskog grada Caske.", "category": "recreational", "coords": [14.916118, 44.547726]}, {"name": "Planjka", "text": "Pješčana plaža u Staroj Novalji, poznata i kao Trinćel, omiljena je među obiteljima i nositeljica je Plave zastave.", "category": "recreational", "coords": [14.888093, 44.571425]}, {"name": "Babe Beach", "text": "Pliitka plaža na zapadnom dijelu Novalje, poznata po toplom moru i lijepom pogledu na zalazak sunca.", "category": "recreational", "coords": [14.866085, 44.567532]}, {"name": "Dog beach", "text": "Posebno označena plaža u Novalji namijenjena vlasnicima pasa i njihovim kućnim ljubimcima za kupanje u moru.", "category": "recreational", "coords": [14.877884, 44.553069]}, {"name": "Galerija Kunkera Novalja", "text": "Umjetnička galerija u Novalji koja izlaže djela lokalnih i suvremenih umjetnika.", "category": "museum", "coords": [14.884678, 44.556758]}, {"name": "Galerija Nevia", "text": "Mala galerija u Novalji koja ugošćuje razne umjetničke izložbe.", "category": "museum", "coords": [14.886327, 44.556913]}, {"name": "Old Well", "text": "Povijesni ostaci starog bunara na području Novalje.", "category": "historical", "coords": [14.883587, 44.556276]}, {"name": "seagulls", "text": "Dio plaže u Novalji na otoku Pagu.", "category": "recreational", "coords": [14.930435, 44.546586]}]}},
   {"id": "opatija", "type": "city", "parent": "HR-08", "coords": [14.305, 45.338], "population": 11659, "tier": 1, "name": {"de": "Opatija", "hu": "Abbázia (Opatija)", "ro": "Opatija", "en": "Opatija"}, "description": {"de": "Einst der exklusivste Kurort der K.u.K. Monarchie, versprüht Opatija heute noch den Glanz der Belle Époque mit seinen prachtvollen Villen.", "hu": "Az Osztrák-Magyar Monarchia egykori legelegánsabb üdülőhelye, ahol ma is érezhető a „boldog békeidők” hangulata a díszes villák között.", "ro": "Cândva cea mai exclusivistă stațiune a Monarhiei Austro-Ungare, Opatija emană și astăzi farmecul Belle Époque prin vilele sale somptuoase.", "en": "Once the most exclusive resort of the Austro-Hungarian Empire, Opatija still radiates Belle Époque glamour with its grand villas."}, "facts": {"de": ["11.659 Einwohner", "Ältester Kurort an der Adria", "12 km Lungomare-Promenade", "Belle-Époque-Architektur", "Mädchen mit der Möwe (Statue)", "Villa Angiolina (1844)", "Park Angiolina mit Kamelien", "Beliebt bei Kaisern und Königen"], "hu": ["11 659 lakos", "Az Adria legrégebbi üdülőhelye", "12 km hosszú Lungomare sétány", "Belle-Époque építészet", "Lány a sirállyal szobor", "Villa Angiolina (1844)", "Angiolina park kaméliákkal", "Császárok és királyok kedvence"], "ro": ["11.659 locuitori", "Cea mai veche stațiune de pe Adriatică", "Faleză Lungomare de 12 km", "Arhitectură Belle Époque", "Statuia Fata cu Pescărușul", "Villa Angiolina (1844)", "Parcul Angiolina cu camelii", "Preferata împăraților și regilor"], "en": ["11,659 residents", "Oldest resort on the Adriatic", "12 km Lungomare promenade", "Belle Époque architecture", "Maiden with the Seagull statue", "Villa Angiolina (1844)", "Angiolina Park with camellias", "Favored by emperors and kings"]}, "image": "/poi-images/opatija.webp", "imageHint": "Opatija waterfront with the Maiden with the Seagull statue and villas", "descriptionAdvanced": {"de": "Opatija, oft als das 'Nizza der Adria' bezeichnet, ist die Wiege des kroatischen Tourismus. Der Aufstieg begann 1844 mit dem Bau der Villa Angiolina durch den Kaufmann Iginio Scarpa. Die Stadt wurde zum Treffpunkt der europäischen Aristokratie; Kaiser Franz Joseph I. und zahlreiche Könige verbrachten hier ihre Wintermonate. Die Architektur ist geprägt von opulenten Hotels und Villen im Stil des Historismus und Jugendstils. Eines der Highlights ist der 12 Kilometer lange Küstenweg 'Lungomare', der sich von Volosko über Opatija bis nach Lovran erstreckt und atemberaubende Ausblicke auf die Kvarner-Bucht bietet. Das Wahrzeichen der Stadt ist die Statue 'Mädchen mit der Möwe', die 1956 vom Bildhauer Zvonko Car geschaffen wurde. Dank des milden Klimas und der üppigen Vegetation mit Kamelien, Palmen und Lorbeerbäumen ist Opatija das ganze Jahr über ein attraktives Reiseziel für Erholungsuchende und Kulturliebhaber.", "hu": "Abbázia (horvátul Opatija) a horvát turizmus bölcsője és az Adria egyik legelegánsabb városa. Felemelkedése 1844-ben kezdődött, amikor Iginio Scarpa fiumei kereskedő felépíttette a Villa Angiolinát. A 19. század végére a város az Osztrák-Magyar Monarchia elitjének kedvenc téli tartózkodási helyévé vált; megfordult itt Ferenc József császár, de számos király és művész is. A városképet a díszes, historizáló és szecessziós stílusú paloták és szállodák határozzák meg. Egyik legfőbb vonzereje a 12 kilométer hosszú tengerparti sétány, a Lungomare, amely Volosko és Lovran között húzódik. A város jelképe a tengerparti sziklán álló 'Lány a sirállyal' szobor. A mikroklímának köszönhetően a kertekben egzotikus növények és a város szimbólumának számító kaméliák virágoznak. Abbázia ma is az exkluzív pihenés és a kulturális rendezvények központja a Kvarner-öbölben.", "ro": "Opatija, supranumită adesea 'Nisa Adriaticii', este leagănul turismului croat. Ascensiunea sa a început în 1844, odată cu construcția Vilei Angiolina de către negustorul Iginio Scarpa. Orașul a devenit locul de întâlnire al aristocrației europene; împăratul Franz Joseph I și numeroși regi își petreceau aici lunile de iarnă. Arhitectura este dominată de hoteluri și vile opulente în stil istoricist și Art Nouveau. Unul dintre punctele de atracție este faleza 'Lungomare', o alee de 12 kilometri care se întinde de la Volosko prin Opatija până la Lovran, oferind priveliști spectaculoase asupra Golfului Kvarner. Simbolul orașului este statuia 'Fata cu Pescărușul', creată în 1956 de sculptorul Zvonko Car. Datorită climatului blând și vegetației luxuriante cu camelii, palmieri și lauri, Opatija este o destinație atractivă pe tot parcursul anului pentru cei care caută relaxare și cultură.", "en": "Opatija, often called the 'Nice of the Adriatic,' is the birthplace of Croatian tourism. Its transformation began in 1844 when merchant Iginio Scarpa built Villa Angiolina. The town quickly became the premier winter retreat for European royalty and aristocracy; Emperor Franz Joseph I and numerous kings were frequent guests. The architecture is defined by grand hotels and villas in Historicist and Art Nouveau styles. A major highlight is the 'Lungomare,' a 12-kilometer coastal promenade stretching from Volosko to Lovran, offering breathtaking views of the Kvarner Gulf. The town's most famous landmark is the 'Maiden with the Seagull' statue, erected in 1956 by sculptor Zvonko Car. Thanks to its mild microclimate and lush parks filled with camellias, palms, and laurels, Opatija remains a top destination for luxury travel and wellness year-round."}, "factsAdvanced": {"de": ["Das Hotel Kvarner war 1884 das erste Hotel an der Adria", "Die Kamelie ist das offizielle Symbol der Stadt Opatija", "Kaiser Franz Joseph I. traf hier 1894 den deutschen Kaiser Wilhelm II.", "Der Name Opatija leitet sich von einer Benediktinerabtei ab", "Isadora Duncan fand hier Inspiration für ihre Tanzbewegungen", "Die Villa Angiolina beherbergt heute das Tourismusmuseum"], "hu": ["A Hotel Kvarner 1884-ben nyílt meg, az Adria első szállodájaként", "A kamélia Abbázia városának hivatalos szimbóluma", "I. Ferenc József 1894-ben itt találkozott II. Vilmos német császárral", "A város neve (Opatija) a bencés apátságra utal", "Isadora Duncan itt talált ihletet híres táncmozdulataihoz", "A Villa Angiolina ma a Horvát Turisztikai Múzeumnak ad otthont"], "ro": ["Hotelul Kvarner, deschis în 1884, a fost primul de pe Adriatică", "Camelia este simbolul oficial al orașului Opatija", "Împăratul Franz Joseph I s-a întâlnit aici cu Wilhelm al II-lea în 1894", "Numele Opatija provine de la o mănăstire benedictină (abație)", "Isadora Duncan a găsit aici inspirație pentru mișcările sale de dans", "Vila Angiolina găzduiește astăzi Muzeul Turismului"], "en": ["Hotel Kvarner, opened in 1884, was the first hotel on the Adriatic", "The camellia flower is the official symbol of Opatija", "Emperor Franz Joseph I met German Kaiser Wilhelm II here in 1894", "The name Opatija is derived from a 15th-century Benedictine abbey", "Isadora Duncan found inspiration for her dance moves here", "Villa Angiolina now houses the Croatian Museum of Tourism"]}, "sights": {
@@ -10893,6 +11927,15 @@ export const poiExtraHrV1: POI[] = [
                         14.748778,
                         44.96748
                   ]
+            },
+            {
+                  "name": "Vela Luka",
+                  "text": "Ein wunderschöner Strand in einer Bucht bei Baška auf Krk, beliebt für Bootsausflüge und klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80042,
+                        44.984615
+                  ]
             }
       ],
       "hu": [
@@ -11304,6 +12347,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.748778,
                         44.96748
+                  ]
+            },
+            {
+                  "name": "Vela Luka",
+                  "text": "Gyönyörű strand egy öbölben Baška közelében, Krk szigetén, amely népszerű a hajókirándulók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80042,
+                        44.984615
                   ]
             }
       ],
@@ -11717,6 +12769,15 @@ export const poiExtraHrV1: POI[] = [
                         14.748778,
                         44.96748
                   ]
+            },
+            {
+                  "name": "Vela Luka",
+                  "text": "O plajă frumoasă într-un golf de lângă Baška pe Krk, populară pentru excursii cu barca și apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80042,
+                        44.984615
+                  ]
             }
       ],
       "en": [
@@ -12128,6 +13189,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.748778,
                         44.96748
+                  ]
+            },
+            {
+                  "name": "Vela Luka",
+                  "text": "A beautiful beach in a bay near Baška on Krk, popular for boat trips and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80042,
+                        44.984615
                   ]
             }
       ],
@@ -15945,6 +17015,42 @@ export const poiExtraHrV1: POI[] = [
                         15.480005,
                         43.93058
                   ]
+            },
+            {
+                  "name": "Slanica",
+                  "text": "Ein bekannter Sandstrand in der Gegend von Pakoštane, beliebt für sein seichtes Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        15.470583,
+                        43.916491
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein spezieller FKK-Badebereich in der Nähe von Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486555,
+                        43.914211
+                  ]
+            },
+            {
+                  "name": "Plaža Kozarica",
+                  "text": "Ein Strandresort an der Küste in der Region Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.497381,
+                        43.907734
+                  ]
+            },
+            {
+                  "name": "Plaža Pakoštane",
+                  "text": "Ein Strandresort für die Stadt Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.502082,
+                        43.90718
+                  ]
             }
       ],
       "hu": [
@@ -16131,6 +17237,42 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.480005,
                         43.93058
+                  ]
+            },
+            {
+                  "name": "Slanica",
+                  "text": "Ismert homokos strand Pakoštane környékén, amely sekély vize miatt népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        15.470583,
+                        43.916491
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Kijelölt naturista fürdőhely Pakoštane közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486555,
+                        43.914211
+                  ]
+            },
+            {
+                  "name": "Plaža Kozarica",
+                  "text": "Tengerparti üdülőhely Pakoštane régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.497381,
+                        43.907734
+                  ]
+            },
+            {
+                  "name": "Plaža Pakoštane",
+                  "text": "Pakoštane városát kiszolgáló tengerparti üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        15.502082,
+                        43.90718
                   ]
             }
       ],
@@ -16319,6 +17461,42 @@ export const poiExtraHrV1: POI[] = [
                         15.480005,
                         43.93058
                   ]
+            },
+            {
+                  "name": "Slanica",
+                  "text": "O plajă cu nisip bine cunoscută în zona Pakoštane, populară pentru apa sa puțin adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.470583,
+                        43.916491
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O zonă de înot specială pentru naturiști, situată lângă Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486555,
+                        43.914211
+                  ]
+            },
+            {
+                  "name": "Plaža Kozarica",
+                  "text": "O stațiune de plajă la coastă situată în regiunea Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.497381,
+                        43.907734
+                  ]
+            },
+            {
+                  "name": "Plaža Pakoštane",
+                  "text": "O zonă de stațiune de plajă care deservește orașul Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.502082,
+                        43.90718
+                  ]
             }
       ],
       "en": [
@@ -16505,6 +17683,42 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.480005,
                         43.93058
+                  ]
+            },
+            {
+                  "name": "Slanica",
+                  "text": "A well-known sandy beach in the Pakoštane area, popular for its shallow water.",
+                  "category": "recreational",
+                  "coords": [
+                        15.470583,
+                        43.916491
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A dedicated naturist swimming area located near Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.486555,
+                        43.914211
+                  ]
+            },
+            {
+                  "name": "Plaža Kozarica",
+                  "text": "A coastal beach resort located in the Pakoštane region.",
+                  "category": "recreational",
+                  "coords": [
+                        15.497381,
+                        43.907734
+                  ]
+            },
+            {
+                  "name": "Plaža Pakoštane",
+                  "text": "A beach resort area serving the town of Pakoštane.",
+                  "category": "recreational",
+                  "coords": [
+                        15.502082,
+                        43.90718
                   ]
             }
       ],
@@ -17128,6 +18342,15 @@ export const poiExtraHrV1: POI[] = [
                         15.60545,
                         43.819613
                   ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein ausgewiesener FKK-Badebereich in Tisno.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607625,
+                        43.793464
+                  ]
             }
       ],
       "hu": [
@@ -17219,6 +18442,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.60545,
                         43.819613
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Kijelölt naturista fürdőhely Tisno területén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607625,
+                        43.793464
                   ]
             }
       ],
@@ -17312,6 +18544,15 @@ export const poiExtraHrV1: POI[] = [
                         15.60545,
                         43.819613
                   ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O zonă de înot pentru nudiști în Tisno.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607625,
+                        43.793464
+                  ]
             }
       ],
       "en": [
@@ -17403,6 +18644,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.60545,
                         43.819613
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A designated clothing-optional swimming area in Tisno.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607625,
+                        43.793464
                   ]
             }
       ],

@@ -670,6 +670,15 @@ export const serbiaEconomicV2: POI[] = [
                         20.389022,
                         45.378373
                   ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "Ein Erholungsgebiet am Wasser nahe dem Industriegebiet von Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
+                  ]
             }
       ],
       "hu": [
@@ -716,6 +725,15 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         20.389022,
                         45.378373
+                  ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "Vízparti pihenőhely Nagybecskerek (Zrenjanin) ipari negyedének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
                   ]
             }
       ],
@@ -764,6 +782,15 @@ export const serbiaEconomicV2: POI[] = [
                         20.389022,
                         45.378373
                   ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "O zonă de recreere pe malul apei lângă zona industrială din Zrenjanin.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
+                  ]
             }
       ],
       "en": [
@@ -810,6 +837,15 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         20.389022,
                         45.378373
+                  ]
+            },
+            {
+                  "name": "Kupalishte Peskara",
+                  "text": "A waterfront recreation area near the Zrenjanin industrial zone.",
+                  "category": "recreational",
+                  "coords": [
+                        20.384494,
+                        45.350045
                   ]
             }
       ]
@@ -2533,6 +2569,15 @@ export const serbiaEconomicV2: POI[] = [
                         19.862205,
                         45.252405
                   ]
+            },
+            {
+                  "name": "Штранд",
+                  "text": "Beliebter Sandstrand an der Donau in Novi Sad, bekannt für Sport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        19.846459,
+                        45.236118
+                  ]
             }
       ],
       "hu": [
@@ -2597,6 +2642,15 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         19.862205,
                         45.252405
+                  ]
+            },
+            {
+                  "name": "Штранд",
+                  "text": "Népszerű homokos strand a Dunán Újvidéken, amely sportolásról és kikapcsolódásról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        19.846459,
+                        45.236118
                   ]
             }
       ],
@@ -2663,6 +2717,15 @@ export const serbiaEconomicV2: POI[] = [
                         19.862205,
                         45.252405
                   ]
+            },
+            {
+                  "name": "Штранд",
+                  "text": "Plajă populară cu nisip pe Dunăre în Novi Sad, cunoscută pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        19.846459,
+                        45.236118
+                  ]
             }
       ],
       "en": [
@@ -2727,6 +2790,15 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         19.862205,
                         45.252405
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "Popular sandy beach on the Danube in Novi Sad, known for sports and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.846459,
+                        45.236118
                   ]
             }
       ]

@@ -311,7 +311,88 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "batumi-botanical-garden-landmarks-v2",
+    id: "batumi-botanical-garden-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "მწვანე კონცხი",
+                  "text": "Ein grünes Strandresort beim Botanischen Garten Batumi, bekannt als 'Grünes Kap'.",
+                  "category": "recreational",
+                  "coords": [
+                        41.705216,
+                        41.691809
+                  ]
+            },
+            {
+                  "name": "Makhinjauri Beach",
+                  "text": "Ein natürlicher Strandabschnitt direkt am Botanischen Garten von Batumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.694975,
+                        41.676991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "მწვანე კონცხი",
+                  "text": "Zöldellő üdülőhely a Batumi Botanikus Kertnél, amelyet 'Zöld-fokként' is ismernek.",
+                  "category": "recreational",
+                  "coords": [
+                        41.705216,
+                        41.691809
+                  ]
+            },
+            {
+                  "name": "Makhinjauri Beach",
+                  "text": "Természetes strandrész közvetlenül a Batumi Botanikus Kert mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        41.694975,
+                        41.676991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "მწვანე კონცხი",
+                  "text": "O stațiune balneară plină de verdeață lângă Grădina Botanică Batumi, cunoscută sub numele de 'Capul Verde'.",
+                  "category": "recreational",
+                  "coords": [
+                        41.705216,
+                        41.691809
+                  ]
+            },
+            {
+                  "name": "Makhinjauri Beach",
+                  "text": "O secțiune de plajă naturală aflată chiar lângă Grădina Botanică din Batumi.",
+                  "category": "recreational",
+                  "coords": [
+                        41.694975,
+                        41.676991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mtsvane-Kontskhi",
+                  "text": "A lush beach resort by the Batumi Botanical Garden, also known as the 'Green Cape'.",
+                  "category": "recreational",
+                  "coords": [
+                        41.705216,
+                        41.691809
+                  ]
+            },
+            {
+                  "name": "Makhinjauri Beach",
+                  "text": "A natural beach section located right next to the Batumi Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        41.694975,
+                        41.676991
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "GE-AJ",
     coords: [41.7208, 41.6939],

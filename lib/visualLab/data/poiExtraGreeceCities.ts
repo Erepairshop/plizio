@@ -564,7 +564,664 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le canal de Corinthe a été officiellement inauguré le 25 juillet 1893 après onze ans de travaux.", "Le temple antique d'Apollon possède encore aujourd'hui sept colonnes monolithiques debout.", "Corinthe a été presque entièrement détruite par de violents séismes en 1858 et à nouveau en 1928.", "L'Acrocorinthe est située à 575 mètres d'altitude et était l'acropole de la cité antique.", "Dans l'Antiquité, les Jeux Isthmiques en l'honneur de Poséidon, dieu de la mer, s'y déroulaient.", "L'apôtre Paul a vécu et œuvré à Corinthe pendant 18 mois au Ier siècle apr. J.-C."],
     }, image: "/poi-images/city-corinth-extra.webp"},
   {
-    id: "city-aigio-extra", "sights": {"de": [{"name": "Archaiologiko Moyseio Aigioy", "text": "Archäologisches Museum in Aigio, das Funde aus der Region zeigt.", "category": "museum", "coords": [22.08781, 38.252695]}, {"name": "Alyki (Aigioy)", "text": "Naturschutzgebiet Aliki bei Aigio, bekannt für seine Lagune.", "category": "natural", "coords": [22.110609, 38.261091]}, {"name": "Faros Aigioy", "text": "Historischer Leuchtturm im Hafen von Aigio.", "category": "landmark", "coords": [22.083189, 38.254349]}, {"name": "Dimotiko Istoriko kai Laografiko Moyseio Aigioy", "text": "Museum in Aigio, das der lokalen Geschichte und Folklore gewidmet ist.", "category": "museum", "coords": [22.085442, 38.251966]}, {"name": "Archontiko Panagiotopoyloy", "text": "Archäologische Stätte des Panagiotopoulos-Herrenhauses in Aigio.", "category": "historical", "coords": [22.086528, 38.25124]}, {"name": "Anoichto Amfitheatro", "text": "Offenes Amphitheater für kulturelle Veranstaltungen in Aigio.", "category": "cultural", "coords": [22.08063, 38.251953]}, {"name": "Oikia Klasikon Chronon", "text": "Archäologische Ausgrabung eines Hauses aus der klassischen Zeit in Aigio.", "category": "historical", "coords": [22.080523, 38.249207]}, {"name": "Paralia Alyki", "text": "Beliebter Strand in der Nähe des Naturschutzgebiets Aliki in Aigio.", "category": "recreational", "coords": [22.100685, 38.260759]}, {"name": "Laografiko Moyseio Koyloyras", "text": "Volkskundemuseum im Viertel Kouloura in Aigio.", "category": "museum", "coords": [22.086656, 38.241062]}, {"name": "Ydroviotopos Alykis", "text": "Naturschutzgebiet Aliki in der Nähe von Aigio.", "category": "natural", "coords": [22.107573, 38.263968]}, {"name": "Oi Dodeka Vryses", "text": "Die 12 Quellen, eine lokale Sehenswürdigkeit in Aigio.", "category": "landmark", "coords": [22.086188, 38.253931]}, {"name": "Palies Apothikes stafidas Aigioy", "text": "Ruinen der alten Korinthenlagerhäuser in Aigio.", "category": "historical", "coords": [22.088082, 38.253993]}, {"name": "Panagia Trypiti", "text": "Eine in einen Felsen gebaute Kirche in Aigio, gewidmet der Jungfrau Maria.", "category": "religious", "coords": [22.077794, 38.253279]}, {"name": "paidiki chara parkoy psila alonia", "text": "Ein schöner Spielplatz im Park Ψηλά Αλώνια in Aigio für Kinder zum Spielen.", "category": "family", "coords": [22.083885, 38.251706]}], "hu": [{"name": "Archaiologiko Moyseio Aigioy", "text": "Régészeti múzeum Aigióban, amely a régió leleteit mutatja be.", "category": "museum", "coords": [22.08781, 38.252695]}, {"name": "Alyki (Aigioy)", "text": "Aliki természetvédelmi terület Aigió mellett, amely lagúnájáról ismert.", "category": "natural", "coords": [22.110609, 38.261091]}, {"name": "Faros Aigioy", "text": "Történelmi világítótorony Aigió kikötőjében.", "category": "landmark", "coords": [22.083189, 38.254349]}, {"name": "Dimotiko Istoriko kai Laografiko Moyseio Aigioy", "text": "Helytörténeti és néprajzi múzeum Aigióban.", "category": "museum", "coords": [22.085442, 38.251966]}, {"name": "Archontiko Panagiotopoyloy", "text": "A Panagiotopoulos-kúria régészeti helyszíne Aigióban.", "category": "historical", "coords": [22.086528, 38.25124]}, {"name": "Anoichto Amfitheatro", "text": "Szabadtéri amfiteátrum kulturális eseményekhez Aigióban.", "category": "cultural", "coords": [22.08063, 38.251953]}, {"name": "Oikia Klasikon Chronon", "text": "Klasszikus kori ház régészeti lelőhelye Aigióban.", "category": "historical", "coords": [22.080523, 38.249207]}, {"name": "Paralia Alyki", "text": "Népszerű tengerpart az Aliki természetvédelmi terület közelében, Aigióban.", "category": "recreational", "coords": [22.100685, 38.260759]}, {"name": "Laografiko Moyseio Koyloyras", "text": "Néprajzi múzeum Kouloura negyedében, Aigióban.", "category": "museum", "coords": [22.086656, 38.241062]}, {"name": "Ydroviotopos Alykis", "text": "Aliki természetvédelmi terület Aigió közelében.", "category": "natural", "coords": [22.107573, 38.263968]}, {"name": "Oi Dodeka Vryses", "text": "A 12 forrás, egy helyi látványosság Aigióban.", "category": "landmark", "coords": [22.086188, 38.253931]}, {"name": "Palies Apothikes stafidas Aigioy", "text": "A régi mazsolaraktárak romjai Aigióban.", "category": "historical", "coords": [22.088082, 38.253993]}, {"name": "Panagia Trypiti", "text": "Egy sziklába épült templom Aigióban, amelyet Szűz Máriának szenteltek.", "category": "religious", "coords": [22.077794, 38.253279]}, {"name": "paidiki chara parkoy psila alonia", "text": "Egy szép játszótér az Aigio-beli Ψηλά Αλώνια parkban, ahol a gyerekek játszhatnak.", "category": "family", "coords": [22.083885, 38.251706]}], "ro": [{"name": "Archaiologiko Moyseio Aigioy", "text": "Muzeu arheologic din Aigio, care expune descoperiri din regiune.", "category": "museum", "coords": [22.08781, 38.252695]}, {"name": "Alyki (Aigioy)", "text": "Rezervația naturală Aliki de lângă Aigio, cunoscută pentru laguna sa.", "category": "natural", "coords": [22.110609, 38.261091]}, {"name": "Faros Aigioy", "text": "Far istoric situat în portul din Aigio.", "category": "landmark", "coords": [22.083189, 38.254349]}, {"name": "Dimotiko Istoriko kai Laografiko Moyseio Aigioy", "text": "Muzeu din Aigio dedicat istoriei și folclorului local.", "category": "museum", "coords": [22.085442, 38.251966]}, {"name": "Archontiko Panagiotopoyloy", "text": "Situl arheologic al conacului Panagiotopoulos din Aigio.", "category": "historical", "coords": [22.086528, 38.25124]}, {"name": "Anoichto Amfitheatro", "text": "Amfiteatru în aer liber pentru evenimente culturale în Aigio.", "category": "cultural", "coords": [22.08063, 38.251953]}, {"name": "Oikia Klasikon Chronon", "text": "Sit arheologic al unei case din perioada clasică în Aigio.", "category": "historical", "coords": [22.080523, 38.249207]}, {"name": "Paralia Alyki", "text": "Plajă populară lângă rezervația naturală Aliki din Aigio.", "category": "recreational", "coords": [22.100685, 38.260759]}, {"name": "Laografiko Moyseio Koyloyras", "text": "Muzeu de folclor în cartierul Kouloura din Aigio.", "category": "museum", "coords": [22.086656, 38.241062]}, {"name": "Ydroviotopos Alykis", "text": "Rezervația naturală Aliki din apropiere de Aigio.", "category": "natural", "coords": [22.107573, 38.263968]}, {"name": "Oi Dodeka Vryses", "text": "Cele 12 izvoare, o atracție locală în Aigio.", "category": "landmark", "coords": [22.086188, 38.253931]}, {"name": "Palies Apothikes stafidas Aigioy", "text": "Ruinele vechilor depozite de stafide din Aigio.", "category": "historical", "coords": [22.088082, 38.253993]}, {"name": "Panagia Trypiti", "text": "O biserică construită într-o stâncă în Aigio, dedicată Fecioarei Maria.", "category": "religious", "coords": [22.077794, 38.253279]}, {"name": "paidiki chara parkoy psila alonia", "text": "Un loc de joacă frumos în parcul Ψηλά Αλώνια din Aigio pentru ca cei mici să se joace.", "category": "family", "coords": [22.083885, 38.251706]}], "en": [{"name": "Archaiologiko Moyseio Aigioy", "text": "Archaeological museum in Aigio exhibiting finds from the local region.", "category": "museum", "coords": [22.08781, 38.252695]}, {"name": "Aliki (Aigio)", "text": "Aliki nature reserve near Aigio, known for its lagoon and birdlife.", "category": "natural", "coords": [22.110609, 38.261091]}, {"name": "Faros Aigioy", "text": "Historic lighthouse located in the port of Aigio.", "category": "landmark", "coords": [22.083189, 38.254349]}, {"name": "The Municipal, Historical and Folklore Museum of Egion", "text": "Museum in Aigio dedicated to local history and folklore.", "category": "museum", "coords": [22.085442, 38.251966]}, {"name": "Archontiko Panagiotopoyloy", "text": "Archaeological site of the Panagiotopoulos mansion in Aigio.", "category": "historical", "coords": [22.086528, 38.25124]}, {"name": "Anoichto Amfitheatro", "text": "Open amphitheatre for cultural events in Aigio.", "category": "cultural", "coords": [22.08063, 38.251953]}, {"name": "Oikia Klasikon Chronon", "text": "Archaeological site of a house from the classical period in Aigio.", "category": "historical", "coords": [22.080523, 38.249207]}, {"name": "Paralia Alyki", "text": "Popular beach located near the Aliki nature reserve in Aigio.", "category": "recreational", "coords": [22.100685, 38.260759]}, {"name": "Laografiko Moyseio Koyloyras", "text": "Folklore museum located in the Kouloura district of Aigio.", "category": "museum", "coords": [22.086656, 38.241062]}, {"name": "Aliki", "text": "Aliki nature reserve located near Aigio.", "category": "natural", "coords": [22.107573, 38.263968]}, {"name": "The 12 Springs", "text": "The 12 Springs, a local tourist attraction in Aigio.", "category": "landmark", "coords": [22.086188, 38.253931]}, {"name": "Palies Apothikes stafidas Aigioy", "text": "Ruins of the old raisin warehouses in Aigio.", "category": "historical", "coords": [22.088082, 38.253993]}, {"name": "Panagia Trypiti", "text": "A church built into a cliffside in Aigio, dedicated to the Virgin Mary.", "category": "religious", "coords": [22.077794, 38.253279]}, {"name": "paidiki chara parkoy psila alonia", "text": "A nice playground in the Ψηλά Αλώνια park in Aigio for children to play.", "category": "family", "coords": [22.083885, 38.251706]}]},
+    id: "city-aigio-extra", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologiko Moyseio Aigioy",
+                  "text": "Archäologisches Museum in Aigio, das Funde aus der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Alyki (Aigioy)",
+                  "text": "Naturschutzgebiet Aliki bei Aigio, bekannt für seine Lagune.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Faros Aigioy",
+                  "text": "Historischer Leuchtturm im Hafen von Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "Dimotiko Istoriko kai Laografiko Moyseio Aigioy",
+                  "text": "Museum in Aigio, das der lokalen Geschichte und Folklore gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Archontiko Panagiotopoyloy",
+                  "text": "Archäologische Stätte des Panagiotopoulos-Herrenhauses in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Anoichto Amfitheatro",
+                  "text": "Offenes Amphitheater für kulturelle Veranstaltungen in Aigio.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Oikia Klasikon Chronon",
+                  "text": "Archäologische Ausgrabung eines Hauses aus der klassischen Zeit in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Paralia Alyki",
+                  "text": "Beliebter Strand in der Nähe des Naturschutzgebiets Aliki in Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Koyloyras",
+                  "text": "Volkskundemuseum im Viertel Kouloura in Aigio.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Ydroviotopos Alykis",
+                  "text": "Naturschutzgebiet Aliki in der Nähe von Aigio.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "Oi Dodeka Vryses",
+                  "text": "Die 12 Quellen, eine lokale Sehenswürdigkeit in Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Palies Apothikes stafidas Aigioy",
+                  "text": "Ruinen der alten Korinthenlagerhäuser in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Panagia Trypiti",
+                  "text": "Eine in einen Felsen gebaute Kirche in Aigio, gewidmet der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            },
+            {
+                  "name": "paidiki chara parkoy psila alonia",
+                  "text": "Ein schöner Spielplatz im Park Ψηλά Αλώνια in Aigio für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Ein ruhiger Strand an einer Lagune in der Nähe von Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.111203,
+                        38.264265
+                  ]
+            },
+            {
+                  "name": "Άκολη",
+                  "text": "Ein Strand mit tiefem, klarem Wasser und kleinen Kieseln.",
+                  "category": "recreational",
+                  "coords": [
+                        22.051574,
+                        38.277041
+                  ]
+            },
+            {
+                  "name": "Διγελιώτικα",
+                  "text": "Ein friedlicher Küstenabschnitt in einem kleinen Dorf bei Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.123627,
+                        38.256145
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Ein malerischer Strandabschnitt an der Korinthischen Lagune.",
+                  "category": "recreational",
+                  "coords": [
+                        22.106325,
+                        38.26375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologiko Moyseio Aigioy",
+                  "text": "Régészeti múzeum Aigióban, amely a régió leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Alyki (Aigioy)",
+                  "text": "Aliki természetvédelmi terület Aigió mellett, amely lagúnájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Faros Aigioy",
+                  "text": "Történelmi világítótorony Aigió kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "Dimotiko Istoriko kai Laografiko Moyseio Aigioy",
+                  "text": "Helytörténeti és néprajzi múzeum Aigióban.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Archontiko Panagiotopoyloy",
+                  "text": "A Panagiotopoulos-kúria régészeti helyszíne Aigióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Anoichto Amfitheatro",
+                  "text": "Szabadtéri amfiteátrum kulturális eseményekhez Aigióban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Oikia Klasikon Chronon",
+                  "text": "Klasszikus kori ház régészeti lelőhelye Aigióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Paralia Alyki",
+                  "text": "Népszerű tengerpart az Aliki természetvédelmi terület közelében, Aigióban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Koyloyras",
+                  "text": "Néprajzi múzeum Kouloura negyedében, Aigióban.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Ydroviotopos Alykis",
+                  "text": "Aliki természetvédelmi terület Aigió közelében.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "Oi Dodeka Vryses",
+                  "text": "A 12 forrás, egy helyi látványosság Aigióban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Palies Apothikes stafidas Aigioy",
+                  "text": "A régi mazsolaraktárak romjai Aigióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Panagia Trypiti",
+                  "text": "Egy sziklába épült templom Aigióban, amelyet Szűz Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            },
+            {
+                  "name": "paidiki chara parkoy psila alonia",
+                  "text": "Egy szép játszótér az Aigio-beli Ψηλά Αλώνια parkban, ahol a gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Nyugodt tengerpart egy lagúna mellett Aigio közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.111203,
+                        38.264265
+                  ]
+            },
+            {
+                  "name": "Άκολη",
+                  "text": "Mély vizű, tiszta tengerpart apró kavicsokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        22.051574,
+                        38.277041
+                  ]
+            },
+            {
+                  "name": "Διγελιώτικα",
+                  "text": "Békés tengerparti szakasz egy Aigio melletti faluban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.123627,
+                        38.256145
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Festői tengerparti szakasz a Korinthoszi-lagúnánál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.106325,
+                        38.26375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologiko Moyseio Aigioy",
+                  "text": "Muzeu arheologic din Aigio, care expune descoperiri din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Alyki (Aigioy)",
+                  "text": "Rezervația naturală Aliki de lângă Aigio, cunoscută pentru laguna sa.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Faros Aigioy",
+                  "text": "Far istoric situat în portul din Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "Dimotiko Istoriko kai Laografiko Moyseio Aigioy",
+                  "text": "Muzeu din Aigio dedicat istoriei și folclorului local.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Archontiko Panagiotopoyloy",
+                  "text": "Situl arheologic al conacului Panagiotopoulos din Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Anoichto Amfitheatro",
+                  "text": "Amfiteatru în aer liber pentru evenimente culturale în Aigio.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Oikia Klasikon Chronon",
+                  "text": "Sit arheologic al unei case din perioada clasică în Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Paralia Alyki",
+                  "text": "Plajă populară lângă rezervația naturală Aliki din Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Koyloyras",
+                  "text": "Muzeu de folclor în cartierul Kouloura din Aigio.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Ydroviotopos Alykis",
+                  "text": "Rezervația naturală Aliki din apropiere de Aigio.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "Oi Dodeka Vryses",
+                  "text": "Cele 12 izvoare, o atracție locală în Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Palies Apothikes stafidas Aigioy",
+                  "text": "Ruinele vechilor depozite de stafide din Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Panagia Trypiti",
+                  "text": "O biserică construită într-o stâncă în Aigio, dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            },
+            {
+                  "name": "paidiki chara parkoy psila alonia",
+                  "text": "Un loc de joacă frumos în parcul Ψηλά Αλώνια din Aigio pentru ca cei mici să se joace.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "O plajă liniștită lângă o lagună în apropiere de Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.111203,
+                        38.264265
+                  ]
+            },
+            {
+                  "name": "Άκολη",
+                  "text": "O plajă cu apă adâncă și limpede, cu pietriș mărunt.",
+                  "category": "recreational",
+                  "coords": [
+                        22.051574,
+                        38.277041
+                  ]
+            },
+            {
+                  "name": "Διγελιώτικα",
+                  "text": "O secțiune de coastă liniștită într-un sat mic de lângă Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.123627,
+                        38.256145
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "O porțiune de plajă pitorească la laguna corintică.",
+                  "category": "recreational",
+                  "coords": [
+                        22.106325,
+                        38.26375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaiologiko Moyseio Aigioy",
+                  "text": "Archaeological museum in Aigio exhibiting finds from the local region.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Aliki (Aigio)",
+                  "text": "Aliki nature reserve near Aigio, known for its lagoon and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Faros Aigioy",
+                  "text": "Historic lighthouse located in the port of Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "The Municipal, Historical and Folklore Museum of Egion",
+                  "text": "Museum in Aigio dedicated to local history and folklore.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Archontiko Panagiotopoyloy",
+                  "text": "Archaeological site of the Panagiotopoulos mansion in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Anoichto Amfitheatro",
+                  "text": "Open amphitheatre for cultural events in Aigio.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Oikia Klasikon Chronon",
+                  "text": "Archaeological site of a house from the classical period in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Paralia Alyki",
+                  "text": "Popular beach located near the Aliki nature reserve in Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Koyloyras",
+                  "text": "Folklore museum located in the Kouloura district of Aigio.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Aliki",
+                  "text": "Aliki nature reserve located near Aigio.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "The 12 Springs",
+                  "text": "The 12 Springs, a local tourist attraction in Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Palies Apothikes stafidas Aigioy",
+                  "text": "Ruins of the old raisin warehouses in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Panagia Trypiti",
+                  "text": "A church built into a cliffside in Aigio, dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            },
+            {
+                  "name": "paidiki chara parkoy psila alonia",
+                  "text": "A nice playground in the Ψηλά Αλώνια park in Aigio for children to play.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "A quiet beach by a lagoon near Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.111203,
+                        38.264265
+                  ]
+            },
+            {
+                  "name": "Άκολη",
+                  "text": "A beach with deep, clear water and small pebbles.",
+                  "category": "recreational",
+                  "coords": [
+                        22.051574,
+                        38.277041
+                  ]
+            },
+            {
+                  "name": "Διγελιώτικα",
+                  "text": "A peaceful coastal stretch in a small village near Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.123627,
+                        38.256145
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "A scenic beach section by the Corinthian lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        22.106325,
+                        38.26375
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-G",
     coords: [22.0831, 38.2536],
@@ -2187,7 +2844,556 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Livadiá fut au XIVe siècle l'un des quatre bastions catalans en Grèce.", "La rivière Erkyna prend sa source aux sources de Krya, au cœur de la zone urbaine.", "L'oracle antique de Trophonios était considéré comme une étape préalable à la visite de Delphes.", "L'indépendance de la Béotie vis-à-vis des Ottomans fut proclamée à Livadiá en 1821.", "La ville est aujourd'hui un centre majeur de la production grecque de coton.", "Les sources de Krya abritent un théâtre de plein air et de nombreux moulins à eau historiques."],
     }, image: "/poi-images/city-livadeia-extra.webp"},
   {
-    id: "city-lamia-extra", "sights": {"de": [{"name": "Archaiologiko Moyseio Lamias", "text": "Das im Schloss der Stadt gelegene Archäologische Museum von Lamia zeigt regionale Artefakte.", "category": "museum", "coords": [22.435174, 38.904517]}, {"name": "Moyseio Radiofonoy", "text": "Das Radiomuseum in Lamia stellt eine einzigartige Sammlung alter Rundfunkgeräte aus.", "category": "museum", "coords": [22.426226, 38.892595]}, {"name": "V' Skini Dimotikoy Theatroy Lamias", "text": "Die Zweite Bühne des Stadttheaters veranstaltet verschiedene kulturelle Aufführungen in Lamia.", "category": "cultural", "coords": [22.42417, 38.920446]}, {"name": "Moyseio Ethnikis Antistasis", "text": "Dieses Museum in Lamia bewahrt die Geschichte des griechischen Nationalen Widerstands.", "category": "museum", "coords": [22.430453, 38.910731]}, {"name": "DIMOTIKO ThEATRO", "text": "Das Stadttheater von Lamia ist ein wichtiger Veranstaltungsort für lokale darstellende Künste.", "category": "cultural", "coords": [22.431731, 38.90423]}, {"name": "Laografiko Moyseio", "text": "Das Folkloremuseum von Lamia präsentiert traditionelle Artefakte und regionales Erbe.", "category": "museum", "coords": [22.433403, 38.901244]}, {"name": "Moyseio Neoteris Ellinikis Istorias", "text": "Das Museum für moderne griechische Geschichte in Lamia dokumentiert die jüngste Vergangenheit der Nation.", "category": "museum", "coords": [22.437682, 38.900937]}, {"name": "Athanasios Diakos", "text": "Dieses Denkmal erinnert an den griechischen Unabhängigkeitshelden Athanasios Diakos in Lamia.", "category": "historical", "coords": [22.431297, 38.899467]}, {"name": "FILARMONIKI LAMIAS", "text": "Die Philharmonie von Lamia ist ein kulturelles Kunstzentrum in der Stadt.", "category": "cultural", "coords": [22.431668, 38.903047]}, {"name": "Mnimeio Genoktonias Pontion", "text": "Dieses Denkmal in Lamia erinnert an die historischen Ereignisse der Pontosgriechen.", "category": "historical", "coords": [22.437945, 38.892497]}, {"name": "Sat Games", "text": "Sat Games ist eine Spielhalle in Lamia, die elektronische Spiele und Unterhaltung für die ganze Familie verspricht.", "category": "family", "coords": [22.432412, 38.901307]}, {"name": "Paidiki Chara Afanoy", "text": "Παιδική Χαρά Αφανού ist ein einladender Spielplatz in Lamia, ein toller Ort für Eltern, um ihre Kinder die Natur genießen zu lassen.", "category": "family", "coords": [22.446163, 38.901229]}], "hu": [{"name": "Archaiologiko Moyseio Lamias", "text": "A város várában található lamiai Régészeti Múzeum regionális leleteket mutat be.", "category": "museum", "coords": [22.435174, 38.904517]}, {"name": "Moyseio Radiofonoy", "text": "A lamiai Rádiómúzeum régi műsorszóró berendezések egyedülálló gyűjteményét állítja ki.", "category": "museum", "coords": [22.426226, 38.892595]}, {"name": "V' Skini Dimotikoy Theatroy Lamias", "text": "A Városi Színház Második Színpada különféle kulturális előadásoknak ad otthont Lamiában.", "category": "cultural", "coords": [22.42417, 38.920446]}, {"name": "Moyseio Ethnikis Antistasis", "text": "Ez a lamiai múzeum a görög nemzeti ellenállás történetét őrzi.", "category": "museum", "coords": [22.430453, 38.910731]}, {"name": "DIMOTIKO ThEATRO", "text": "A lamiai Városi Színház a helyi előadóművészetek elsődleges helyszíne.", "category": "cultural", "coords": [22.431731, 38.90423]}, {"name": "Laografiko Moyseio", "text": "A lamiai Néprajzi Múzeum hagyományos tárgyakat és regionális örökséget mutat be.", "category": "museum", "coords": [22.433403, 38.901244]}, {"name": "Moyseio Neoteris Ellinikis Istorias", "text": "A lamiai Modern Görög Történeti Múzeum a nemzet közelmúltját dokumentálja.", "category": "museum", "coords": [22.437682, 38.900937]}, {"name": "Athanasios Diakos", "text": "Ez az emlékmű a görög szabadságharc hőse, Athanasziosz Diakosz előtt tiszteleg Lamiában.", "category": "historical", "coords": [22.431297, 38.899467]}, {"name": "FILARMONIKI LAMIAS", "text": "A Lamia Filharmonikusok egy kulturális művészeti központ a városban.", "category": "cultural", "coords": [22.431668, 38.903047]}, {"name": "Mnimeio Genoktonias Pontion", "text": "Ez a lamiai emlékmű a pontoszi görögök történelmi eseményeinek állít emléket.", "category": "historical", "coords": [22.437945, 38.892497]}, {"name": "Sat Games", "text": "A Sat Games egy lamiai játékterem, amely szórakoztató elektronikus játékokat és kikapcsolódást ígér az egész családnak.", "category": "family", "coords": [22.432412, 38.901307]}, {"name": "Paidiki Chara Afanoy", "text": "A Παιδική Χαρά Αφανού egy barátságos lamiai játszótér, nagyszerű hely a szülőknek, hogy a szabadba vigyék gyermekeiket.", "category": "family", "coords": [22.446163, 38.901229]}], "ro": [{"name": "Archaiologiko Moyseio Lamias", "text": "Situat în castelul orașului, Muzeul Arheologic din Lamia expune artefacte regionale.", "category": "museum", "coords": [22.435174, 38.904517]}, {"name": "Moyseio Radiofonoy", "text": "Muzeul Radioului din Lamia expune o colecție unică de echipamente de difuzare de epocă.", "category": "museum", "coords": [22.426226, 38.892595]}, {"name": "V' Skini Dimotikoy Theatroy Lamias", "text": "A Doua Scenă a Teatrului Municipal găzduiește diverse spectacole culturale în Lamia.", "category": "cultural", "coords": [22.42417, 38.920446]}, {"name": "Moyseio Ethnikis Antistasis", "text": "Acest muzeu din Lamia păstrează istoria Rezistenței Naționale Grecești.", "category": "museum", "coords": [22.430453, 38.910731]}, {"name": "DIMOTIKO ThEATRO", "text": "Teatrul Municipal din Lamia este un loc principal pentru artele spectacolului local.", "category": "cultural", "coords": [22.431731, 38.90423]}, {"name": "Laografiko Moyseio", "text": "Muzeul de Folclor din Lamia prezintă artefacte tradiționale și patrimoniul regional.", "category": "museum", "coords": [22.433403, 38.901244]}, {"name": "Moyseio Neoteris Ellinikis Istorias", "text": "Muzeul de Istorie Modernă a Greciei din Lamia documentează trecutul recent al națiunii.", "category": "museum", "coords": [22.437682, 38.900937]}, {"name": "Athanasios Diakos", "text": "Acest monument îl comemorează pe eroul independenței elene Athanasios Diakos în Lamia.", "category": "historical", "coords": [22.431297, 38.899467]}, {"name": "FILARMONIKI LAMIAS", "text": "Filarmonica din Lamia este un centru de arte culturale din oraș.", "category": "cultural", "coords": [22.431668, 38.903047]}, {"name": "Mnimeio Genoktonias Pontion", "text": "Acest monument din Lamia comemorează evenimentele istorice ale grecilor pontici.", "category": "historical", "coords": [22.437945, 38.892497]}, {"name": "Sat Games", "text": "Sat Games este o sală de jocuri mecanice din Lamia, care promite jocuri electronice distractive și divertisment pentru întreaga familie.", "category": "family", "coords": [22.432412, 38.901307]}, {"name": "Paidiki Chara Afanoy", "text": "Παιδική Χαρά Αφανού este un loc de joacă primitor din Lamia, un loc minunat unde părinții pot lăsa copiii să se bucure de aer liber.", "category": "family", "coords": [22.446163, 38.901229]}], "en": [{"name": "Archaeological Museum of Lamia", "text": "Located in the city's castle, the Archaeological Museum of Lamia displays regional artifacts.", "category": "museum", "coords": [22.435174, 38.904517]}, {"name": "Radio Museum", "text": "The Radio Museum in Lamia exhibits a unique collection of vintage broadcasting equipment.", "category": "museum", "coords": [22.426226, 38.892595]}, {"name": "V' Skini Dimotikoy Theatroy Lamias", "text": "The Second Stage of the Municipal Theatre hosts various cultural performances in Lamia.", "category": "cultural", "coords": [22.42417, 38.920446]}, {"name": "Moyseio Ethnikis Antistasis", "text": "This museum in Lamia preserves the history of the Greek National Resistance.", "category": "museum", "coords": [22.430453, 38.910731]}, {"name": "DIMOTIKO ThEATRO", "text": "The Municipal Theatre of Lamia is a primary venue for local performing arts.", "category": "cultural", "coords": [22.431731, 38.90423]}, {"name": "Laografiko Moyseio", "text": "The Folklore Museum of Lamia showcases traditional artifacts and regional heritage.", "category": "museum", "coords": [22.433403, 38.901244]}, {"name": "Moyseio Neoteris Ellinikis Istorias", "text": "The Museum of Modern Greek History in Lamia documents the nation's recent past.", "category": "museum", "coords": [22.437682, 38.900937]}, {"name": "Athanasios Diakos", "text": "This monument commemorates the Greek independence hero Athanasios Diakos in Lamia.", "category": "historical", "coords": [22.431297, 38.899467]}, {"name": "FILARMONIKI LAMIAS", "text": "The Philharmonic of Lamia is a cultural arts centre in the city.", "category": "cultural", "coords": [22.431668, 38.903047]}, {"name": "Mnimeio Genoktonias Pontion", "text": "This monument in Lamia commemorates the historical events of the Pontic Greeks.", "category": "historical", "coords": [22.437945, 38.892497]}, {"name": "Sat Games", "text": "Sat Games is an amusement arcade in Lamia, promising fun electronic games and entertainment for the whole family.", "category": "family", "coords": [22.432412, 38.901307]}, {"name": "Paidiki Chara Afanoy", "text": "Παιδική Χαρά Αφανού is a welcoming playground in Lamia, a great spot for parents to let their children enjoy the outdoors.", "category": "family", "coords": [22.446163, 38.901229]}]},
+    id: "city-lamia-extra", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologiko Moyseio Lamias",
+                  "text": "Das im Schloss der Stadt gelegene Archäologische Museum von Lamia zeigt regionale Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Moyseio Radiofonoy",
+                  "text": "Das Radiomuseum in Lamia stellt eine einzigartige Sammlung alter Rundfunkgeräte aus.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "V' Skini Dimotikoy Theatroy Lamias",
+                  "text": "Die Zweite Bühne des Stadttheaters veranstaltet verschiedene kulturelle Aufführungen in Lamia.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "Dieses Museum in Lamia bewahrt die Geschichte des griechischen Nationalen Widerstands.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "DIMOTIKO ThEATRO",
+                  "text": "Das Stadttheater von Lamia ist ein wichtiger Veranstaltungsort für lokale darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio",
+                  "text": "Das Folkloremuseum von Lamia präsentiert traditionelle Artefakte und regionales Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Moyseio Neoteris Ellinikis Istorias",
+                  "text": "Das Museum für moderne griechische Geschichte in Lamia dokumentiert die jüngste Vergangenheit der Nation.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Athanasios Diakos",
+                  "text": "Dieses Denkmal erinnert an den griechischen Unabhängigkeitshelden Athanasios Diakos in Lamia.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "FILARMONIKI LAMIAS",
+                  "text": "Die Philharmonie von Lamia ist ein kulturelles Kunstzentrum in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Mnimeio Genoktonias Pontion",
+                  "text": "Dieses Denkmal in Lamia erinnert an die historischen Ereignisse der Pontosgriechen.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "Sat Games ist eine Spielhalle in Lamia, die elektronische Spiele und Unterhaltung für die ganze Familie verspricht.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Afanoy",
+                  "text": "Παιδική Χαρά Αφανού ist ein einladender Spielplatz in Lamia, ein toller Ort für Eltern, um ihre Kinder die Natur genießen zu lassen.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
+                  ]
+            },
+            {
+                  "name": "KLEISTO KOLUMBETERIO",
+                  "text": "Das KLEISTO KOLUMBETERIO ist eine Hallenschwimmhalle in Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.446938,
+                        38.890089
+                  ]
+            },
+            {
+                  "name": "DEMOTIKO ANOIKTO KOLUMBETERIO",
+                  "text": "Das DEMOTIKO ANOIKTO KOLUMBETERIO ist ein städtisches Freibad in Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.431427,
+                        38.910797
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio TEI Lamias",
+                  "text": "Das Kolumbeterio TEI Lamias ist ein Schwimmbad der technischen Hochschule in Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.437162,
+                        38.875167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologiko Moyseio Lamias",
+                  "text": "A város várában található lamiai Régészeti Múzeum regionális leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Moyseio Radiofonoy",
+                  "text": "A lamiai Rádiómúzeum régi műsorszóró berendezések egyedülálló gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "V' Skini Dimotikoy Theatroy Lamias",
+                  "text": "A Városi Színház Második Színpada különféle kulturális előadásoknak ad otthont Lamiában.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "Ez a lamiai múzeum a görög nemzeti ellenállás történetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "DIMOTIKO ThEATRO",
+                  "text": "A lamiai Városi Színház a helyi előadóművészetek elsődleges helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio",
+                  "text": "A lamiai Néprajzi Múzeum hagyományos tárgyakat és regionális örökséget mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Moyseio Neoteris Ellinikis Istorias",
+                  "text": "A lamiai Modern Görög Történeti Múzeum a nemzet közelmúltját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Athanasios Diakos",
+                  "text": "Ez az emlékmű a görög szabadságharc hőse, Athanasziosz Diakosz előtt tiszteleg Lamiában.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "FILARMONIKI LAMIAS",
+                  "text": "A Lamia Filharmonikusok egy kulturális művészeti központ a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Mnimeio Genoktonias Pontion",
+                  "text": "Ez a lamiai emlékmű a pontoszi görögök történelmi eseményeinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "A Sat Games egy lamiai játékterem, amely szórakoztató elektronikus játékokat és kikapcsolódást ígér az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Afanoy",
+                  "text": "A Παιδική Χαρά Αφανού egy barátságos lamiai játszótér, nagyszerű hely a szülőknek, hogy a szabadba vigyék gyermekeiket.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
+                  ]
+            },
+            {
+                  "name": "KLEISTO KOLUMBETERIO",
+                  "text": "A KLEISTO KOLUMBETERIO egy fedett uszoda Lamiában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.446938,
+                        38.890089
+                  ]
+            },
+            {
+                  "name": "DEMOTIKO ANOIKTO KOLUMBETERIO",
+                  "text": "A DEMOTIKO ANOIKTO KOLUMBETERIO egy városi szabadtéri uszoda Lamiában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.431427,
+                        38.910797
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio TEI Lamias",
+                  "text": "A Kolumbeterio TEI Lamias a laniai főiskola úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        22.437162,
+                        38.875167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologiko Moyseio Lamias",
+                  "text": "Situat în castelul orașului, Muzeul Arheologic din Lamia expune artefacte regionale.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Moyseio Radiofonoy",
+                  "text": "Muzeul Radioului din Lamia expune o colecție unică de echipamente de difuzare de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "V' Skini Dimotikoy Theatroy Lamias",
+                  "text": "A Doua Scenă a Teatrului Municipal găzduiește diverse spectacole culturale în Lamia.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "Acest muzeu din Lamia păstrează istoria Rezistenței Naționale Grecești.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "DIMOTIKO ThEATRO",
+                  "text": "Teatrul Municipal din Lamia este un loc principal pentru artele spectacolului local.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio",
+                  "text": "Muzeul de Folclor din Lamia prezintă artefacte tradiționale și patrimoniul regional.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Moyseio Neoteris Ellinikis Istorias",
+                  "text": "Muzeul de Istorie Modernă a Greciei din Lamia documentează trecutul recent al națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Athanasios Diakos",
+                  "text": "Acest monument îl comemorează pe eroul independenței elene Athanasios Diakos în Lamia.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "FILARMONIKI LAMIAS",
+                  "text": "Filarmonica din Lamia este un centru de arte culturale din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Mnimeio Genoktonias Pontion",
+                  "text": "Acest monument din Lamia comemorează evenimentele istorice ale grecilor pontici.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "Sat Games este o sală de jocuri mecanice din Lamia, care promite jocuri electronice distractive și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Afanoy",
+                  "text": "Παιδική Χαρά Αφανού este un loc de joacă primitor din Lamia, un loc minunat unde părinții pot lăsa copiii să se bucure de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
+                  ]
+            },
+            {
+                  "name": "KLEISTO KOLUMBETERIO",
+                  "text": "KLEISTO KOLUMBETERIO este o piscină acoperită în Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.446938,
+                        38.890089
+                  ]
+            },
+            {
+                  "name": "DEMOTIKO ANOIKTO KOLUMBETERIO",
+                  "text": "DEMOTIKO ANOIKTO KOLUMBETERIO este o piscină municipală în aer liber în Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.431427,
+                        38.910797
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio TEI Lamias",
+                  "text": "Kolumbeterio TEI Lamias este o piscină aparținând universității din Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.437162,
+                        38.875167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Lamia",
+                  "text": "Located in the city's castle, the Archaeological Museum of Lamia displays regional artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Radio Museum",
+                  "text": "The Radio Museum in Lamia exhibits a unique collection of vintage broadcasting equipment.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "V' Skini Dimotikoy Theatroy Lamias",
+                  "text": "The Second Stage of the Municipal Theatre hosts various cultural performances in Lamia.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "This museum in Lamia preserves the history of the Greek National Resistance.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "DIMOTIKO ThEATRO",
+                  "text": "The Municipal Theatre of Lamia is a primary venue for local performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio",
+                  "text": "The Folklore Museum of Lamia showcases traditional artifacts and regional heritage.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Moyseio Neoteris Ellinikis Istorias",
+                  "text": "The Museum of Modern Greek History in Lamia documents the nation's recent past.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Athanasios Diakos",
+                  "text": "This monument commemorates the Greek independence hero Athanasios Diakos in Lamia.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "FILARMONIKI LAMIAS",
+                  "text": "The Philharmonic of Lamia is a cultural arts centre in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Mnimeio Genoktonias Pontion",
+                  "text": "This monument in Lamia commemorates the historical events of the Pontic Greeks.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "Sat Games is an amusement arcade in Lamia, promising fun electronic games and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Afanoy",
+                  "text": "Παιδική Χαρά Αφανού is a welcoming playground in Lamia, a great spot for parents to let their children enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
+                  ]
+            },
+            {
+                  "name": "KLEISTO KOLUMBETERIO",
+                  "text": "KLEISTO KOLUMBETERIO is an indoor swimming pool in Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.446938,
+                        38.890089
+                  ]
+            },
+            {
+                  "name": "DEMOTIKO ANOIKTO KOLUMBETERIO",
+                  "text": "DEMOTIKO ANOIKTO KOLUMBETERIO is a municipal outdoor swimming pool in Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.431427,
+                        38.910797
+                  ]
+            },
+            {
+                  "name": "Kolumbeterio TEI Lamias",
+                  "text": "Kolumbeterio TEI Lamias is a swimming pool located at the technical institute in Lamia.",
+                  "category": "recreational",
+                  "coords": [
+                        22.437162,
+                        38.875167
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-H",
     coords: [22.4333, 38.9000],
@@ -2583,7 +3789,880 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Igoumenitsa a été presque entièrement détruite en 1944 lors du retrait des troupes allemandes.", "Le port accueille environ 2,5 millions de passagers et 250 000 camions par an.", "L'autoroute Egnatia Odos relie directement la ville à la frontière turque située à 670 km.", "Les ruines antiques de Gitani se trouvent à environ 10 kilomètres au nord sur le fleuve Kalamas.", "La distance en ferry jusqu'à l'île de Corfou est d'environ 18 milles nautiques.", "Le musée archéologique d'Igoumenitsa a ouvert en 2009 et expose des découvertes de l'Antiquité."],
     }, image: "/poi-images/city-igoumenitsa-extra.webp"},
   {
-    id: "city-preveza-extra", "sights": {"de": [{"name": "Alonaki", "text": "Alonaki ist ein malerischer Küstenstrand in der Nähe von Preveza.", "category": "recreational", "coords": [20.72402, 38.95452]}, {"name": "Pantokratoras", "text": "Pantokratoras ist ein Strand in der Küstenstadt Preveza.", "category": "recreational", "coords": [20.733261, 38.948042]}, {"name": "Promachonas Vrysoylas", "text": "Die Bastion von Vrysoula ist eine historische Festungsanlage in Preveza.", "category": "castle", "coords": [20.755591, 38.965052]}, {"name": "Pantokrator Burg", "text": "Das Pantokrator-Schloss ist eine Küstenbefestigung in Preveza.", "category": "castle", "coords": [20.738809, 38.945083]}, {"name": "Froyrio Aktioy", "text": "Die Festung von Actium ist eine markante Burganlage in Preveza.", "category": "castle", "coords": [20.761084, 38.945482]}, {"name": "Kastro Agioy Georgioy", "text": "Die Burg des Heiligen Georg ist eine bedeutende Festung in Preveza, die ursprünglich von den Osmanen erbaut wurde, um die lokalen Meerengen zu kontrollieren.", "category": "castle", "coords": [20.749852, 38.948835]}, {"name": "Kastro Agioy Andrea", "text": "Die St. Andrews Burg ist eine bemerkenswerte historische Befestigungsanlage in Preveza.", "category": "castle", "coords": [20.753135, 38.960302]}, {"name": "Anoichto theatraki pyrovolikoy", "text": "Dieses Freilufttheater in Preveza bietet einen Veranstaltungsort für verschiedene kulturelle Aufführungen.", "category": "cultural", "coords": [20.747535, 38.957678]}, {"name": "Naos Aktioy Apollona", "text": "Der Tempel des Apollon Aktios ist eine antike archäologische Stätte in Preveza.", "category": "historical", "coords": [20.768316, 38.950871]}, {"name": "Froyrio Agioy Andrea", "text": "Die Festung Agios Andreas ist eine historische Verteidigungsburg in Preveza.", "category": "castle", "coords": [20.753746, 38.95891]}, {"name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)", "text": "Dieser außer Betrieb befindliche Leuchtturm in Preveza leitete einst den Seeverkehr durch den lokalen Kanal.", "category": "landmark", "coords": [20.761189, 38.944399]}, {"name": "Dimotiko Kipotheatro", "text": "Das städtische Gartentheater ist ein Freiluft-Veranstaltungsort in Preveza.", "category": "cultural", "coords": [20.754386, 38.950999]}, {"name": "GORGONA-MERMAID", "text": "Das Meerjungfrauen-Denkmal ist ein markantes skulpturales Wahrzeichen in Preveza.", "category": "historical", "coords": [20.755228, 38.954615]}, {"name": "I Love Preveza", "text": "„I Love Preveza“ ist eine beliebte Fotoattraktion, die den Namen der Stadt zeigt.", "category": "landmark", "coords": [20.755058, 38.958769]}, {"name": "Agios Nikolaos", "text": "Agios Nikolaos ist eine ruhige Kultstätte in Preveza.", "category": "religious", "coords": [20.752601, 38.952653]}, {"name": "Ag. Ioannis", "text": "Agios Ioannis dient als lokale religiöse Kultstätte in Preveza.", "category": "religious", "coords": [20.753445, 38.955271]}, {"name": "Agios Athanasios", "text": "Agios Athanasios ist eine traditionelle Kirche und Kultstätte in Preveza.", "category": "religious", "coords": [20.752472, 38.957399]}, {"name": "Agios Charalampos", "text": "Agios Charalampos ist eine markante Kultstätte in Preveza.", "category": "religious", "coords": [20.753734, 38.957225]}, {"name": "Mazoma Lagune", "text": "Die Lagune von Mazoma ist ein wunderschöner See in Preveza, der eine ruhige Umgebung für malerische Ausblicke bietet.", "category": "natural", "coords": [20.746603, 39.011687]}, {"name": "Pogonitsa Lagune", "text": "Die Lagune von Pogonitsa ist ein Seengebiet in Preveza, wo Besucher die vielfältige Natur und die ruhigen Gewässer der Region beobachten können.", "category": "natural", "coords": [20.815758, 38.963619]}, {"name": "Saltini See", "text": "Der Saltini-See befindet sich in Preveza und bietet Spaziergängern eine charmante Wasserlandschaft.", "category": "natural", "coords": [20.773034, 38.905554]}, {"name": "Limni Mikri Saltini", "text": "Der See Mikri Saltini in Preveza ist ein kleinerer, ruhiger See, der sich perfekt für leise Entspannung in der Natur eignet.", "category": "natural", "coords": [20.760788, 38.930584]}, {"name": "PAIDIKI ChARA", "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ ist ein klassischer lokaler Spielplatz in Preveza, der Rutschen und Schaukeln für Kinder bietet.", "category": "family", "coords": [20.746355, 38.966792]}], "hu": [{"name": "Alonaki", "text": "Az Alonaki egy festői tengerparti strand Preveza közelében.", "category": "recreational", "coords": [20.72402, 38.95452]}, {"name": "Pantokratoras", "text": "A Pantokratoras egy strand a tengerparti Preveza városában.", "category": "recreational", "coords": [20.733261, 38.948042]}, {"name": "Promachonas Vrysoylas", "text": "A Vrysoula bástya egy történelmi várkastély szerkezet Prevezában.", "category": "castle", "coords": [20.755591, 38.965052]}, {"name": "Kastro Pantokratora", "text": "A Pantokrator kastély egy tengerparti erődítmény Prevezában.", "category": "castle", "coords": [20.738809, 38.945083]}, {"name": "Froyrio Aktioy", "text": "Az Actium erőd egy kiemelkedő várkastély Prevezában.", "category": "castle", "coords": [20.761084, 38.945482]}, {"name": "Kastro Agioy Georgioy", "text": "A Szent György-kastély egy jelentős vár Prevezában, amelyet eredetileg az oszmánok építettek a helyi tengerszorosok ellenőrzésére.", "category": "castle", "coords": [20.749852, 38.948835]}, {"name": "Kastro Agioy Andrea", "text": "A Szent András kastély egy figyelemre méltó történelmi erődítmény Prevezában.", "category": "castle", "coords": [20.753135, 38.960302]}, {"name": "Anoichto theatraki pyrovolikoy", "text": "Ez a prevezai szabadtéri színház különféle kulturális előadások helyszíne.", "category": "cultural", "coords": [20.747535, 38.957678]}, {"name": "Naos Aktioy Apollona", "text": "Az Actiumi Apollón-templom egy ősi régészeti lelőhely Prevezában.", "category": "historical", "coords": [20.768316, 38.950871]}, {"name": "Froyrio Agioy Andrea", "text": "Az Agios Andreas erőd egy történelmi védelmi vár Prevezában.", "category": "castle", "coords": [20.753746, 38.95891]}, {"name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)", "text": "Ez a prevezai használaton kívüli világítótorony egykor a helyi csatornán irányította a tengeri forgalmat.", "category": "landmark", "coords": [20.761189, 38.944399]}, {"name": "Dimotiko Kipotheatro", "text": "A Városi Kertszínház egy szabadtéri előadótér Prevezában.", "category": "cultural", "coords": [20.754386, 38.950999]}, {"name": "GORGONA-MERMAID", "text": "A sellő emlékmű egy jellegzetes szobrászati látványosság Prevezában.", "category": "historical", "coords": [20.755228, 38.954615]}, {"name": "I Love Preveza", "text": "Az „I Love Preveza” egy népszerű fotózkodási látványosság, amely a város nevét mutatja.", "category": "landmark", "coords": [20.755058, 38.958769]}, {"name": "Agios Nikolaos", "text": "Az Agios Nikolaos egy békés istentiszteleti hely Prevezában.", "category": "religious", "coords": [20.752601, 38.952653]}, {"name": "Ag. Ioannis", "text": "Az Agios Ioannis helyi vallási istentiszteleti helyként szolgál Prevezában.", "category": "religious", "coords": [20.753445, 38.955271]}, {"name": "Agios Athanasios", "text": "Az Agios Athanasios egy hagyományos templom és istentiszteleti hely Prevezában.", "category": "religious", "coords": [20.752472, 38.957399]}, {"name": "Agios Charalampos", "text": "Az Agios Charalampos egy kiemelkedő istentiszteleti hely Prevezában.", "category": "religious", "coords": [20.753734, 38.957225]}, {"name": "Limnothalassa Mazoma", "text": "A Mazoma-lagúna egy gyönyörű tó Prevezában, amely nyugodt környezetet biztosít a festői kilátáshoz.", "category": "natural", "coords": [20.746603, 39.011687]}, {"name": "Limnothalassa Pogonitsa", "text": "A Pogonitsa-lagúna egy tóvidék Prevezában, ahol a látogatók megfigyelhetik a régió változatos természetét és nyugodt vizeit.", "category": "natural", "coords": [20.815758, 38.963619]}, {"name": "Limni Saltini", "text": "A Saltini-tó Prevezában található, és bájos vizivilágot tár a sétáló látogatók elé.", "category": "natural", "coords": [20.773034, 38.905554]}, {"name": "Limni Mikri Saltini", "text": "A prevezai Mikri Saltini-tó egy kisebb, csendes tó, amely tökéletes a természetben való békés kikapcsolódásra.", "category": "natural", "coords": [20.760788, 38.930584]}, {"name": "PAIDIKI ChARA", "text": "A ΠΑΙΔΙΚΗ ΧΑΡΑ egy klasszikus helyi játszótér Prevezában, amely csúszdákat és hintákat kínál a gyerekeknek.", "category": "family", "coords": [20.746355, 38.966792]}], "ro": [{"name": "Alonaki", "text": "Alonaki este o plajă pitorească de coastă situată în apropiere de Preveza.", "category": "recreational", "coords": [20.72402, 38.95452]}, {"name": "Pantokratoras", "text": "Pantokratoras este o plajă în orașul de coastă Preveza.", "category": "recreational", "coords": [20.733261, 38.948042]}, {"name": "Promachonas Vrysoylas", "text": "Bastionul Vrysoula este o structură istorică de castel situată în Preveza.", "category": "castle", "coords": [20.755591, 38.965052]}, {"name": "Kastro Pantokratora", "text": "Castelul Pantocrator este o fortificație de coastă situată în Preveza.", "category": "castle", "coords": [20.738809, 38.945083]}, {"name": "Froyrio Aktioy", "text": "Fortăreața Actium este o structură importantă de castel situată în Preveza.", "category": "castle", "coords": [20.761084, 38.945482]}, {"name": "Kastro Agioy Georgioy", "text": "Castelul Sfântului Gheorghe este un castel important din Preveza, construit inițial de otomani pentru a controla strâmtorile locale.", "category": "castle", "coords": [20.749852, 38.948835]}, {"name": "Kastro Agioy Andrea", "text": "Castelul Sf. Andrei este o fortificație istorică notabilă din Preveza.", "category": "castle", "coords": [20.753135, 38.960302]}, {"name": "Anoichto theatraki pyrovolikoy", "text": "Acest teatru în aer liber din Preveza oferă un loc pentru diverse spectacole culturale.", "category": "cultural", "coords": [20.747535, 38.957678]}, {"name": "Naos Aktioy Apollona", "text": "Templul lui Apollo Actius este un sit arheologic antic situat în Preveza.", "category": "historical", "coords": [20.768316, 38.950871]}, {"name": "Froyrio Agioy Andrea", "text": "Fortăreața Agios Andreas este un castel defensiv istoric din Preveza.", "category": "castle", "coords": [20.753746, 38.95891]}, {"name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)", "text": "Acest far scos din funcțiune din Preveza a ghidat odată traficul maritim prin canalul local.", "category": "landmark", "coords": [20.761189, 38.944399]}, {"name": "Dimotiko Kipotheatro", "text": "Teatrul Municipal de Vară este un spațiu de spectacole în aer liber din Preveza.", "category": "cultural", "coords": [20.754386, 38.950999]}, {"name": "GORGONA-MERMAID", "text": "Monumentul Sirenei este un reper sculptural distinctiv din Preveza.", "category": "historical", "coords": [20.755228, 38.954615]}, {"name": "I Love Preveza", "text": "„I Love Preveza” este o atracție foto populară care afișează numele orașului.", "category": "landmark", "coords": [20.755058, 38.958769]}, {"name": "Agios Nikolaos", "text": "Agios Nikolaos este un lăcaș de cult liniștit situat în Preveza.", "category": "religious", "coords": [20.752601, 38.952653]}, {"name": "Ag. Ioannis", "text": "Agios Ioannis servește ca lăcaș de cult religios local în Preveza.", "category": "religious", "coords": [20.753445, 38.955271]}, {"name": "Agios Athanasios", "text": "Agios Athanasios este o biserică tradițională și un lăcaș de cult din Preveza.", "category": "religious", "coords": [20.752472, 38.957399]}, {"name": "Agios Charalampos", "text": "Agios Charalampos este un lăcaș de cult important situat în Preveza.", "category": "religious", "coords": [20.753734, 38.957225]}, {"name": "Limnothalassa Mazoma", "text": "Laguna Mazoma este un lac frumos din Preveza, oferind un mediu senin pentru vederi pitorești.", "category": "natural", "coords": [20.746603, 39.011687]}, {"name": "Limnothalassa Pogonitsa", "text": "Laguna Pogonitsa este o zonă de lac din Preveza unde vizitatorii pot observa natura diversă a regiunii și apele calme.", "category": "natural", "coords": [20.815758, 38.963619]}, {"name": "Limni Saltini", "text": "Lacul Saltini este situat în Preveza și prezintă un peisaj acvatic fermecător pentru vizitatorii care trec pe acolo.", "category": "natural", "coords": [20.773034, 38.905554]}, {"name": "Limni Mikri Saltini", "text": "Lacul Mikri Saltini din Preveza este un lac mai mic, liniștit, perfect pentru relaxare în natură.", "category": "natural", "coords": [20.760788, 38.930584]}, {"name": "PAIDIKI ChARA", "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ este un loc de joacă clasic local din Preveza, care oferă tobogane și leagăne pentru copii.", "category": "family", "coords": [20.746355, 38.966792]}], "en": [{"name": "Alonaki", "text": "Alonaki is a scenic coastal beach located near Preveza.", "category": "recreational", "coords": [20.72402, 38.95452]}, {"name": "Pantokratoras", "text": "Pantokratoras is a beach located in the coastal city of Preveza.", "category": "recreational", "coords": [20.733261, 38.948042]}, {"name": "Bastion of Vrysoula", "text": "The Bastion of Vrysoula is a historic castle structure located in Preveza.", "category": "castle", "coords": [20.755591, 38.965052]}, {"name": "Pantocrator Castle", "text": "Pantocrator Castle is a coastal fortification situated in Preveza.", "category": "castle", "coords": [20.738809, 38.945083]}, {"name": "Fortress of Actium", "text": "The Fortress of Actium is a prominent castle structure located in Preveza.", "category": "castle", "coords": [20.761084, 38.945482]}, {"name": "Castle of Saint George", "text": "The Castle of Saint George is a significant castle in Preveza, originally built by the Ottomans to control the local straits.", "category": "castle", "coords": [20.749852, 38.948835]}, {"name": "St. Andrews Castle", "text": "St. Andrews Castle is a notable historical fortification in Preveza.", "category": "castle", "coords": [20.753135, 38.960302]}, {"name": "Anoichto theatraki pyrovolikoy", "text": "This open-air theatre in Preveza provides a venue for various cultural performances.", "category": "cultural", "coords": [20.747535, 38.957678]}, {"name": "Naos Aktioy Apollona", "text": "The Temple of Apollo Actius is an ancient archaeological site located in Preveza.", "category": "historical", "coords": [20.768316, 38.950871]}, {"name": "Fortress of Agios Andreas", "text": "The Fortress of Agios Andreas is a historic defensive castle in Preveza.", "category": "castle", "coords": [20.753746, 38.95891]}, {"name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)", "text": "This out-of-operation lighthouse in Preveza once guided maritime traffic through the local channel.", "category": "landmark", "coords": [20.761189, 38.944399]}, {"name": "Dimotiko Kipotheatro", "text": "The Municipal Garden Theatre is an outdoor performance space in Preveza.", "category": "cultural", "coords": [20.754386, 38.950999]}, {"name": "GORGONA-MERMAID", "text": "The Mermaid monument is a distinctive sculptural landmark in Preveza.", "category": "historical", "coords": [20.755228, 38.954615]}, {"name": "I Love Preveza", "text": "\"I Love Preveza\" is a popular photo-op attraction displaying the city's name.", "category": "landmark", "coords": [20.755058, 38.958769]}, {"name": "Agios Nikolaos", "text": "Agios Nikolaos is a serene place of worship located in Preveza.", "category": "religious", "coords": [20.752601, 38.952653]}, {"name": "Ag. Ioannis", "text": "Agios Ioannis serves as a local religious place of worship in Preveza.", "category": "religious", "coords": [20.753445, 38.955271]}, {"name": "Agios Athanasios", "text": "Agios Athanasios is a traditional church and place of worship in Preveza.", "category": "religious", "coords": [20.752472, 38.957399]}, {"name": "Agios Charalampos", "text": "Agios Charalampos is a prominent place of worship situated in Preveza.", "category": "religious", "coords": [20.753734, 38.957225]}, {"name": "Mazoma Lagoon", "text": "Mazoma Lagoon is a beautiful lake in Preveza, providing a serene environment for scenic views.", "category": "natural", "coords": [20.746603, 39.011687]}, {"name": "Pogonitsa Lagoon", "text": "Pogonitsa Lagoon is a lake area in Preveza where visitors can observe the region's diverse nature and calm waters.", "category": "natural", "coords": [20.815758, 38.963619]}, {"name": "Saltini Lake", "text": "Saltini Lake is situated in Preveza and presents a charming waterscape for visitors walking by.", "category": "natural", "coords": [20.773034, 38.905554]}, {"name": "Mikri Saltini Lake", "text": "Mikri Saltini Lake in Preveza is a smaller, tranquil lake perfect for quiet relaxation in nature.", "category": "natural", "coords": [20.760788, 38.930584]}, {"name": "PAIDIKI ChARA", "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ is a classic local playground in Preveza, offering slides and swings for children.", "category": "family", "coords": [20.746355, 38.966792]}]},
+    id: "city-preveza-extra", "sights": {
+      "de": [
+            {
+                  "name": "Alonaki",
+                  "text": "Alonaki ist ein malerischer Küstenstrand in der Nähe von Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Pantokratoras ist ein Strand in der Küstenstadt Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            },
+            {
+                  "name": "Promachonas Vrysoylas",
+                  "text": "Die Bastion von Vrysoula ist eine historische Festungsanlage in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Pantokrator Burg",
+                  "text": "Das Pantokrator-Schloss ist eine Küstenbefestigung in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Froyrio Aktioy",
+                  "text": "Die Festung von Actium ist eine markante Burganlage in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Kastro Agioy Georgioy",
+                  "text": "Die Burg des Heiligen Georg ist eine bedeutende Festung in Preveza, die ursprünglich von den Osmanen erbaut wurde, um die lokalen Meerengen zu kontrollieren.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "Kastro Agioy Andrea",
+                  "text": "Die St. Andrews Burg ist eine bemerkenswerte historische Befestigungsanlage in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki pyrovolikoy",
+                  "text": "Dieses Freilufttheater in Preveza bietet einen Veranstaltungsort für verschiedene kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Naos Aktioy Apollona",
+                  "text": "Der Tempel des Apollon Aktios ist eine antike archäologische Stätte in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Froyrio Agioy Andrea",
+                  "text": "Die Festung Agios Andreas ist eine historische Verteidigungsburg in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)",
+                  "text": "Dieser außer Betrieb befindliche Leuchtturm in Preveza leitete einst den Seeverkehr durch den lokalen Kanal.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kipotheatro",
+                  "text": "Das städtische Gartentheater ist ein Freiluft-Veranstaltungsort in Preveza.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "GORGONA-MERMAID",
+                  "text": "Das Meerjungfrauen-Denkmal ist ein markantes skulpturales Wahrzeichen in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "„I Love Preveza“ ist eine beliebte Fotoattraktion, die den Namen der Stadt zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Agios Nikolaos ist eine ruhige Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Ag. Ioannis",
+                  "text": "Agios Ioannis dient als lokale religiöse Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios",
+                  "text": "Agios Athanasios ist eine traditionelle Kirche und Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Agios Charalampos ist eine markante Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
+                  ]
+            },
+            {
+                  "name": "Mazoma Lagune",
+                  "text": "Die Lagune von Mazoma ist ein wunderschöner See in Preveza, der eine ruhige Umgebung für malerische Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Pogonitsa Lagune",
+                  "text": "Die Lagune von Pogonitsa ist ein Seengebiet in Preveza, wo Besucher die vielfältige Natur und die ruhigen Gewässer der Region beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Saltini See",
+                  "text": "Der Saltini-See befindet sich in Preveza und bietet Spaziergängern eine charmante Wasserlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Limni Mikri Saltini",
+                  "text": "Der See Mikri Saltini in Preveza ist ein kleinerer, ruhiger See, der sich perfekt für leise Entspannung in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "PAIDIKI ChARA",
+                  "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ ist ein klassischer lokaler Spielplatz in Preveza, der Rutschen und Schaukeln für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
+                  ]
+            },
+            {
+                  "name": "Κυανή Ακτή",
+                  "text": "Kyani Akti ist ein weitläufiger Strand in Preveza, der von schattenspendenden Eukalyptusbäumen gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        20.747831,
+                        38.946401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alonaki",
+                  "text": "Az Alonaki egy festői tengerparti strand Preveza közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "A Pantokratoras egy strand a tengerparti Preveza városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            },
+            {
+                  "name": "Promachonas Vrysoylas",
+                  "text": "A Vrysoula bástya egy történelmi várkastély szerkezet Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Kastro Pantokratora",
+                  "text": "A Pantokrator kastély egy tengerparti erődítmény Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Froyrio Aktioy",
+                  "text": "Az Actium erőd egy kiemelkedő várkastély Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Kastro Agioy Georgioy",
+                  "text": "A Szent György-kastély egy jelentős vár Prevezában, amelyet eredetileg az oszmánok építettek a helyi tengerszorosok ellenőrzésére.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "Kastro Agioy Andrea",
+                  "text": "A Szent András kastély egy figyelemre méltó történelmi erődítmény Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki pyrovolikoy",
+                  "text": "Ez a prevezai szabadtéri színház különféle kulturális előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Naos Aktioy Apollona",
+                  "text": "Az Actiumi Apollón-templom egy ősi régészeti lelőhely Prevezában.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Froyrio Agioy Andrea",
+                  "text": "Az Agios Andreas erőd egy történelmi védelmi vár Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)",
+                  "text": "Ez a prevezai használaton kívüli világítótorony egykor a helyi csatornán irányította a tengeri forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kipotheatro",
+                  "text": "A Városi Kertszínház egy szabadtéri előadótér Prevezában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "GORGONA-MERMAID",
+                  "text": "A sellő emlékmű egy jellegzetes szobrászati látványosság Prevezában.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "Az „I Love Preveza” egy népszerű fotózkodási látványosság, amely a város nevét mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Az Agios Nikolaos egy békés istentiszteleti hely Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Ag. Ioannis",
+                  "text": "Az Agios Ioannis helyi vallási istentiszteleti helyként szolgál Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios",
+                  "text": "Az Agios Athanasios egy hagyományos templom és istentiszteleti hely Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Az Agios Charalampos egy kiemelkedő istentiszteleti hely Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Mazoma",
+                  "text": "A Mazoma-lagúna egy gyönyörű tó Prevezában, amely nyugodt környezetet biztosít a festői kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Pogonitsa",
+                  "text": "A Pogonitsa-lagúna egy tóvidék Prevezában, ahol a látogatók megfigyelhetik a régió változatos természetét és nyugodt vizeit.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Limni Saltini",
+                  "text": "A Saltini-tó Prevezában található, és bájos vizivilágot tár a sétáló látogatók elé.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Limni Mikri Saltini",
+                  "text": "A prevezai Mikri Saltini-tó egy kisebb, csendes tó, amely tökéletes a természetben való békés kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "PAIDIKI ChARA",
+                  "text": "A ΠΑΙΔΙΚΗ ΧΑΡΑ egy klasszikus helyi játszótér Prevezában, amely csúszdákat és hintákat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
+                  ]
+            },
+            {
+                  "name": "Κυανή Ακτή",
+                  "text": "A Kyani Akti egy tágas tengerpart Prevezában, amelyet árnyékot adó eukaliptuszfák szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        20.747831,
+                        38.946401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alonaki",
+                  "text": "Alonaki este o plajă pitorească de coastă situată în apropiere de Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Pantokratoras este o plajă în orașul de coastă Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            },
+            {
+                  "name": "Promachonas Vrysoylas",
+                  "text": "Bastionul Vrysoula este o structură istorică de castel situată în Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Kastro Pantokratora",
+                  "text": "Castelul Pantocrator este o fortificație de coastă situată în Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Froyrio Aktioy",
+                  "text": "Fortăreața Actium este o structură importantă de castel situată în Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Kastro Agioy Georgioy",
+                  "text": "Castelul Sfântului Gheorghe este un castel important din Preveza, construit inițial de otomani pentru a controla strâmtorile locale.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "Kastro Agioy Andrea",
+                  "text": "Castelul Sf. Andrei este o fortificație istorică notabilă din Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki pyrovolikoy",
+                  "text": "Acest teatru în aer liber din Preveza oferă un loc pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Naos Aktioy Apollona",
+                  "text": "Templul lui Apollo Actius este un sit arheologic antic situat în Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Froyrio Agioy Andrea",
+                  "text": "Fortăreața Agios Andreas este un castel defensiv istoric din Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)",
+                  "text": "Acest far scos din funcțiune din Preveza a ghidat odată traficul maritim prin canalul local.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kipotheatro",
+                  "text": "Teatrul Municipal de Vară este un spațiu de spectacole în aer liber din Preveza.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "GORGONA-MERMAID",
+                  "text": "Monumentul Sirenei este un reper sculptural distinctiv din Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "„I Love Preveza” este o atracție foto populară care afișează numele orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Agios Nikolaos este un lăcaș de cult liniștit situat în Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Ag. Ioannis",
+                  "text": "Agios Ioannis servește ca lăcaș de cult religios local în Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios",
+                  "text": "Agios Athanasios este o biserică tradițională și un lăcaș de cult din Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Agios Charalampos este un lăcaș de cult important situat în Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Mazoma",
+                  "text": "Laguna Mazoma este un lac frumos din Preveza, oferind un mediu senin pentru vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Pogonitsa",
+                  "text": "Laguna Pogonitsa este o zonă de lac din Preveza unde vizitatorii pot observa natura diversă a regiunii și apele calme.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Limni Saltini",
+                  "text": "Lacul Saltini este situat în Preveza și prezintă un peisaj acvatic fermecător pentru vizitatorii care trec pe acolo.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Limni Mikri Saltini",
+                  "text": "Lacul Mikri Saltini din Preveza este un lac mai mic, liniștit, perfect pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "PAIDIKI ChARA",
+                  "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ este un loc de joacă clasic local din Preveza, care oferă tobogane și leagăne pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
+                  ]
+            },
+            {
+                  "name": "Κυανή Ακτή",
+                  "text": "Kyani Akti este o plajă întinsă din Preveza, mărginită de eucalipți care oferă umbră.",
+                  "category": "recreational",
+                  "coords": [
+                        20.747831,
+                        38.946401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alonaki",
+                  "text": "Alonaki is a scenic coastal beach located near Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Pantokratoras is a beach located in the coastal city of Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            },
+            {
+                  "name": "Bastion of Vrysoula",
+                  "text": "The Bastion of Vrysoula is a historic castle structure located in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Pantocrator Castle",
+                  "text": "Pantocrator Castle is a coastal fortification situated in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Fortress of Actium",
+                  "text": "The Fortress of Actium is a prominent castle structure located in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Castle of Saint George",
+                  "text": "The Castle of Saint George is a significant castle in Preveza, originally built by the Ottomans to control the local straits.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "St. Andrews Castle",
+                  "text": "St. Andrews Castle is a notable historical fortification in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki pyrovolikoy",
+                  "text": "This open-air theatre in Preveza provides a venue for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Naos Aktioy Apollona",
+                  "text": "The Temple of Apollo Actius is an ancient archaeological site located in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Fortress of Agios Andreas",
+                  "text": "The Fortress of Agios Andreas is a historic defensive castle in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Fanos Diayloy Amvrakikoy Kolpoy (ektos leitoyrgias)",
+                  "text": "This out-of-operation lighthouse in Preveza once guided maritime traffic through the local channel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kipotheatro",
+                  "text": "The Municipal Garden Theatre is an outdoor performance space in Preveza.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "GORGONA-MERMAID",
+                  "text": "The Mermaid monument is a distinctive sculptural landmark in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "\"I Love Preveza\" is a popular photo-op attraction displaying the city's name.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Agios Nikolaos is a serene place of worship located in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Ag. Ioannis",
+                  "text": "Agios Ioannis serves as a local religious place of worship in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios",
+                  "text": "Agios Athanasios is a traditional church and place of worship in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Agios Charalampos is a prominent place of worship situated in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
+                  ]
+            },
+            {
+                  "name": "Mazoma Lagoon",
+                  "text": "Mazoma Lagoon is a beautiful lake in Preveza, providing a serene environment for scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Pogonitsa Lagoon",
+                  "text": "Pogonitsa Lagoon is a lake area in Preveza where visitors can observe the region's diverse nature and calm waters.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Saltini Lake",
+                  "text": "Saltini Lake is situated in Preveza and presents a charming waterscape for visitors walking by.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Mikri Saltini Lake",
+                  "text": "Mikri Saltini Lake in Preveza is a smaller, tranquil lake perfect for quiet relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "PAIDIKI ChARA",
+                  "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ is a classic local playground in Preveza, offering slides and swings for children.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
+                  ]
+            },
+            {
+                  "name": "Κυανή Ακτή",
+                  "text": "Kyani Akti is a spacious beach in Preveza, lined with shade-providing eucalyptus trees.",
+                  "category": "recreational",
+                  "coords": [
+                        20.747831,
+                        38.946401
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-E",
     coords: [20.7522, 38.9553],
@@ -2625,7 +4704,880 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["La bataille navale d'Actium eut lieu en 31 av. J.-C. juste au large de Préveza.", "Le tunnel sous-marin Aktio-Préveza mesure 910 mètres et a été inauguré en 2002.", "Les ruines de Nicopolis, la 'cité de la victoire', se trouvent à 7 km au nord du centre-ville.", "Préveza n'est passée sous souveraineté grecque qu'en 1912 après les guerres balkaniques.", "Le château Agios Andreas fut construit à l'origine au XVIIIe siècle par les Ottomans.", "Le golfe d'Ambracie abrite environ 150 grands dauphins et plus de 250 espèces d'oiseaux."],
     }, image: "/poi-images/city-preveza-extra.webp"},
   {
-    id: "city-lefkada-extra", "sights": {"de": [{"name": "Archaiologiko Moyseio Leykadas", "text": "Museum in Lefkada-Stadt, das archäologische Funde der Insel präsentiert.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Kastro Agias Mayras", "text": "Eine imposante mittelalterliche Festung am Eingang der Insel Lefkada.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "Kleines Privatmuseum für Grammophone und Raritäten in Lefkada-Stadt.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "Ein langer Sandstrand in der Nähe von Lefkada-Stadt.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "Beliebter Strand bei Lefkada-Stadt, bekannt für seine Windmühlen und zum Kitesurfen.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "Leuchtturm in der Gegend von Lefkada-Stadt.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "Überreste der Festung Konstantinos in Lefkada-Stadt.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Archaio Theatro Leykadas", "text": "Ruinen des antiken Theaters von Nirikos bei Lefkada-Stadt.", "category": "historical", "coords": [20.712453, 38.808029]}, {"name": "Part of ancient city wall", "text": "Erhaltene Abschnitte der antiken Stadtmauer von Lefkada.", "category": "historical", "coords": [20.708416, 38.806946]}, {"name": "Kastro", "text": "Strand in unmittelbarer Nähe der Festung Agia Mavra in Lefkada.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "Museum gewidmet dem Dichter Angelos Sikelianos in seinem Geburtshaus in Lefkada.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Archaios Oikismos Leykadas", "text": "Ausgrabungen der antiken Siedlung von Lefkada.", "category": "historical", "coords": [20.717529, 38.807288]}, {"name": "Ereipia Ag.Gorgioy", "text": "Ruinen der Kirche St. Georg in Lefkada-Stadt.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Überreste der ehemaligen anglikanischen Kirche in Lefkada-Stadt.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ereipia archaias polis", "text": "Ruinen der antiken Stadt Lefkada.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "Archäologische Stätte der antiken Stadt Nirikos auf Lefkada.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "Agios Charalampos", "text": "Orthodoxe Kirche Agios Charalambos in Lefkada-Stadt.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "Historische Kirche Pantokrator in Lefkada-Stadt.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "Orthodoxe Kirche Agios Minas mit barocken Einflüssen in Lefkada-Stadt.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "Ein religiöses Gebäude und Ort der Andacht in Lefkada-Stadt.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alykes Alexandroy", "text": "Die Alexandros-Salinen in Lefkada bieten eine interessante Kulisse.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Limnothalassa Gyras", "text": "Der Gyra-See in Lefkada ist ein idyllischer Ort für einen Spaziergang.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "Der Marina-Spielplatz in Lefkada ist ideal für aktive Kinder.", "category": "family", "coords": [20.711158, 38.829357]}], "hu": [{"name": "Archaiologiko Moyseio Leykadas", "text": "Lefkada városának múzeuma, amely a sziget régészeti leleteit mutatja be.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Kastro Agias Mayras", "text": "Impozáns középkori erődítmény Lefkada szigetének bejáratánál.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "Kis magánmúzeum gramofonokkal és ritkaságokkal Lefkada városában.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "Hosszú homokos tengerpart Lefkada városa közelében.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "Népszerű tengerpart Lefkada városánál, szélmalmairól és kiteszörfözésről ismert.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "Világítótorony Lefkada városa környékén.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "Konsztandinosz erődjének maradványai Lefkada városában.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Archaio Theatro Leykadas", "text": "Az ókori Nirikosz színházának romjai Lefkada városa közelében.", "category": "historical", "coords": [20.712453, 38.808029]}, {"name": "Part of ancient city wall", "text": "Lefkada ókori városfalának megmaradt szakaszai.", "category": "historical", "coords": [20.708416, 38.806946]}, {"name": "Kastro", "text": "Tengerpart közvetlenül az Agia Mavra erőd mellett Lefkadán.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "Angelos Szikelianosz költőnek szentelt múzeum szülőházában, Lefkadán.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Archaios Oikismos Leykadas", "text": "Lefkada ókori településének régészeti feltárásai.", "category": "historical", "coords": [20.717529, 38.807288]}, {"name": "Ereipia Ag.Gorgioy", "text": "Szent György-templom romjai Lefkada városában.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Az egykori anglikán templom maradványai Lefkada városában.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ereipia archaias polis", "text": "Lefkada ókori városának romjai.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "Nirikosz ókori városának régészeti helyszíne Lefkadán.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "Agios Charalampos", "text": "Agios Charalambos ortodox templom Lefkada városában.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "Történelmi Pantokrator-templom Lefkada városában.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "Barokk hatásokat mutató Agios Minas ortodox templom Lefkada városában.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "Vallási épület és istentiszteleti hely Lefkada városában.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alykes Alexandroy", "text": "A Lefkada Town-beli Alexandros sólepárlók érdekes látványt nyújtanak.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Limnothalassa Gyras", "text": "A Lefkada Town-beli Gyra-tó idilli hely egy sétához.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "A Lefkada Town-beli Marina játszótér ideális az aktív gyerekeknek.", "category": "family", "coords": [20.711158, 38.829357]}], "ro": [{"name": "Archaiologiko Moyseio Leykadas", "text": "Muzeu din orașul Lefkada, care prezintă descoperiri arheologice de pe insulă.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Kastro Agias Mayras", "text": "O fortăreață medievală impunătoare la intrarea pe insula Lefkada.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "Mic muzeu privat de fonografe și rarități din orașul Lefkada.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "O plajă lungă de nisip situată în apropiere de orașul Lefkada.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "Plajă populară lângă orașul Lefkada, cunoscută pentru morile de vânt și kitesurfing.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "Far situat în zona orașului Lefkada.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "Rămășițele fortificației Konstantinos din orașul Lefkada.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Archaio Theatro Leykadas", "text": "Ruinele teatrului antic din Nirikos, lângă orașul Lefkada.", "category": "historical", "coords": [20.712453, 38.808029]}, {"name": "Part of ancient city wall", "text": "Secțiuni conservate ale zidului antic al orașului Lefkada.", "category": "historical", "coords": [20.708416, 38.806946]}, {"name": "Kastro", "text": "Plajă aflată în imediata apropiere a cetății Agia Mavra din Lefkada.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "Muzeu dedicat poetului Angelos Sikelianos în casa sa natală din Lefkada.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Archaios Oikismos Leykadas", "text": "Săpături arheologice ale așezării antice din Lefkada.", "category": "historical", "coords": [20.717529, 38.807288]}, {"name": "Ereipia Ag.Gorgioy", "text": "Ruinele bisericii Sfântul Gheorghe din orașul Lefkada.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Rămășițele fostei biserici anglicane din orașul Lefkada.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ereipia archaias polis", "text": "Ruinele orașului antic Lefkada.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "Situl arheologic al orașului antic Nirikos de pe insula Lefkada.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "Agios Charalampos", "text": "Biserica ortodoxă Agios Charalambos din orașul Lefkada.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "Biserica istorică Pantokrator din orașul Lefkada.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "Biserica ortodoxă Agios Minas cu influențe baroce din orașul Lefkada.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "O clădire religioasă și loc de cult în orașul Lefkada.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alykes Alexandroy", "text": "Salinele Alexandros din Lefkada oferă un cadru interesant.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Limnothalassa Gyras", "text": "Lacul Gyra din Lefkada este un loc idilic pentru o plimbare.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "Locul de joacă Marina din Lefkada este ideal pentru copiii activi.", "category": "family", "coords": [20.711158, 38.829357]}], "en": [{"name": "Archaeological Museum of Lefkada", "text": "Museum in Lefkada Town presenting archaeological finds from across the island.", "category": "museum", "coords": [20.704042, 38.835034]}, {"name": "Agia Mavra Castle", "text": "An impressive medieval fortress located at the entrance to Lefkada island.", "category": "castle", "coords": [20.719758, 38.844633]}, {"name": "Moyseio Fonografoy", "text": "Small private museum of phonographs and memorabilia in Lefkada Town.", "category": "museum", "coords": [20.708019, 38.833503]}, {"name": "Gyra (Anna)", "text": "A long sandy beach located near Lefkada Town.", "category": "recreational", "coords": [20.701049, 38.849331]}, {"name": "Agios Ioannis", "text": "Popular beach near Lefkada Town, known for its windmills and kitesurfing.", "category": "recreational", "coords": [20.680637, 38.841876]}, {"name": "Faros", "text": "Lighthouse located in the area of Lefkada Town.", "category": "landmark", "coords": [20.720679, 38.84785]}, {"name": "Ochyro Konstantinos", "text": "Remains of the Konstantinos fortification in Lefkada Town.", "category": "historical", "coords": [20.722099, 38.813235]}, {"name": "Nirikos Ancient Theatre", "text": "Ruins of the ancient theatre of Nirikos near Lefkada Town.", "category": "historical", "coords": [20.712453, 38.808029]}, {"name": "Part of ancient city wall", "text": "Preserved sections of the ancient city wall of Lefkada.", "category": "historical", "coords": [20.708416, 38.806946]}, {"name": "Kastro", "text": "Beach located in the immediate vicinity of the Agia Mavra fortress in Lefkada.", "category": "recreational", "coords": [20.718024, 38.847106]}, {"name": "Moyseio «Aggelos Sikelianos»", "text": "Museum dedicated to the poet Angelos Sikelianos in his birthplace in Lefkada.", "category": "museum", "coords": [20.707023, 38.833576]}, {"name": "Archaios Oikismos Leykadas", "text": "Archaeological excavations of the ancient settlement of Lefkada.", "category": "historical", "coords": [20.717529, 38.807288]}, {"name": "Ereipia Ag.Gorgioy", "text": "Ruins of the St. George church in Lefkada Town.", "category": "historical", "coords": [20.718058, 38.811536]}, {"name": "Agglikaniki Ekklisia Leykados", "text": "Remains of the former Anglican church in Lefkada Town.", "category": "historical", "coords": [20.703254, 38.828804]}, {"name": "Ancient City Ruins", "text": "Ruins of the ancient city of Lefkada.", "category": "historical", "coords": [20.718238, 38.812496]}, {"name": "Ancient Nirikos", "text": "Archaeological site of the ancient city of Nirikos on Lefkada island.", "category": "historical", "coords": [20.709975, 38.810708]}, {"name": "Agios Charalampos", "text": "Agios Charalambos Orthodox church in Lefkada Town.", "category": "religious", "coords": [20.710228, 38.833425]}, {"name": "Pantokratoras", "text": "Historic Pantokrator church in Lefkada Town.", "category": "religious", "coords": [20.706408, 38.832402]}, {"name": "Agios Minas", "text": "Agios Minas Orthodox church featuring Baroque influences in Lefkada Town.", "category": "religious", "coords": [20.704439, 38.830702]}, {"name": "Agioi Anargyroi", "text": "A religious building and place of worship in Lefkada Town.", "category": "religious", "coords": [20.705688, 38.833355]}, {"name": "Alexandros salt pans", "text": "The Alexandros salt pans in Lefkada offer an interesting backdrop.", "category": "natural", "coords": [20.722807, 38.804601]}, {"name": "Gyra Lake", "text": "Gyra Lake in Lefkada is an idyllic place for a walk.", "category": "natural", "coords": [20.699663, 38.842369]}, {"name": "Marina Playground", "text": "The Marina playground in Lefkada is ideal for active children.", "category": "family", "coords": [20.711158, 38.829357]}]},
+    id: "city-lefkada-extra", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologiko Moyseio Leykadas",
+                  "text": "Museum in Lefkada-Stadt, das archäologische Funde der Insel präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Kastro Agias Mayras",
+                  "text": "Eine imposante mittelalterliche Festung am Eingang der Insel Lefkada.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "Kleines Privatmuseum für Grammophone und Raritäten in Lefkada-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "Ein langer Sandstrand in der Nähe von Lefkada-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Beliebter Strand bei Lefkada-Stadt, bekannt für seine Windmühlen und zum Kitesurfen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Leuchtturm in der Gegend von Lefkada-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "Überreste der Festung Konstantinos in Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Archaio Theatro Leykadas",
+                  "text": "Ruinen des antiken Theaters von Nirikos bei Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Erhaltene Abschnitte der antiken Stadtmauer von Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "Strand in unmittelbarer Nähe der Festung Agia Mavra in Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "Museum gewidmet dem Dichter Angelos Sikelianos in seinem Geburtshaus in Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Archaios Oikismos Leykadas",
+                  "text": "Ausgrabungen der antiken Siedlung von Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "Ruinen der Kirche St. Georg in Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Überreste der ehemaligen anglikanischen Kirche in Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ereipia archaias polis",
+                  "text": "Ruinen der antiken Stadt Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Archäologische Stätte der antiken Stadt Nirikos auf Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Orthodoxe Kirche Agios Charalambos in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Historische Kirche Pantokrator in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "Orthodoxe Kirche Agios Minas mit barocken Einflüssen in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Ein religiöses Gebäude und Ort der Andacht in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alykes Alexandroy",
+                  "text": "Die Alexandros-Salinen in Lefkada bieten eine interessante Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Gyras",
+                  "text": "Der Gyra-See in Lefkada ist ein idyllischer Ort für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Der Marina-Spielplatz in Lefkada ist ideal für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Πλάκα (Βαγιά)",
+                  "text": "Ein ruhiger Strandabschnitt in der Nähe von Lefkada-Stadt auf der gleichnamigen Insel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733091,
+                        38.850918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologiko Moyseio Leykadas",
+                  "text": "Lefkada városának múzeuma, amely a sziget régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Kastro Agias Mayras",
+                  "text": "Impozáns középkori erődítmény Lefkada szigetének bejáratánál.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "Kis magánmúzeum gramofonokkal és ritkaságokkal Lefkada városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "Hosszú homokos tengerpart Lefkada városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Népszerű tengerpart Lefkada városánál, szélmalmairól és kiteszörfözésről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Világítótorony Lefkada városa környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "Konsztandinosz erődjének maradványai Lefkada városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Archaio Theatro Leykadas",
+                  "text": "Az ókori Nirikosz színházának romjai Lefkada városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Lefkada ókori városfalának megmaradt szakaszai.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "Tengerpart közvetlenül az Agia Mavra erőd mellett Lefkadán.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "Angelos Szikelianosz költőnek szentelt múzeum szülőházában, Lefkadán.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Archaios Oikismos Leykadas",
+                  "text": "Lefkada ókori településének régészeti feltárásai.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "Szent György-templom romjai Lefkada városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Az egykori anglikán templom maradványai Lefkada városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ereipia archaias polis",
+                  "text": "Lefkada ókori városának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Nirikosz ókori városának régészeti helyszíne Lefkadán.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Agios Charalambos ortodox templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Történelmi Pantokrator-templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "Barokk hatásokat mutató Agios Minas ortodox templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Vallási épület és istentiszteleti hely Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alykes Alexandroy",
+                  "text": "A Lefkada Town-beli Alexandros sólepárlók érdekes látványt nyújtanak.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Gyras",
+                  "text": "A Lefkada Town-beli Gyra-tó idilli hely egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "A Lefkada Town-beli Marina játszótér ideális az aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Πλάκα (Βαγιά)",
+                  "text": "Csendes tengerparti szakasz Lefkada városa közelében, az azonos nevű szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733091,
+                        38.850918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologiko Moyseio Leykadas",
+                  "text": "Muzeu din orașul Lefkada, care prezintă descoperiri arheologice de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Kastro Agias Mayras",
+                  "text": "O fortăreață medievală impunătoare la intrarea pe insula Lefkada.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "Mic muzeu privat de fonografe și rarități din orașul Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "O plajă lungă de nisip situată în apropiere de orașul Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Plajă populară lângă orașul Lefkada, cunoscută pentru morile de vânt și kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Far situat în zona orașului Lefkada.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "Rămășițele fortificației Konstantinos din orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Archaio Theatro Leykadas",
+                  "text": "Ruinele teatrului antic din Nirikos, lângă orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Secțiuni conservate ale zidului antic al orașului Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "Plajă aflată în imediata apropiere a cetății Agia Mavra din Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "Muzeu dedicat poetului Angelos Sikelianos în casa sa natală din Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Archaios Oikismos Leykadas",
+                  "text": "Săpături arheologice ale așezării antice din Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "Ruinele bisericii Sfântul Gheorghe din orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Rămășițele fostei biserici anglicane din orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ereipia archaias polis",
+                  "text": "Ruinele orașului antic Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Situl arheologic al orașului antic Nirikos de pe insula Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Biserica ortodoxă Agios Charalambos din orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Biserica istorică Pantokrator din orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "Biserica ortodoxă Agios Minas cu influențe baroce din orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "O clădire religioasă și loc de cult în orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alykes Alexandroy",
+                  "text": "Salinele Alexandros din Lefkada oferă un cadru interesant.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Gyras",
+                  "text": "Lacul Gyra din Lefkada este un loc idilic pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Locul de joacă Marina din Lefkada este ideal pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Πλάκα (Βαγιά)",
+                  "text": "O secțiune de plajă liniștită lângă orașul Lefkada, pe insula cu același nume.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733091,
+                        38.850918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Lefkada",
+                  "text": "Museum in Lefkada Town presenting archaeological finds from across the island.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Agia Mavra Castle",
+                  "text": "An impressive medieval fortress located at the entrance to Lefkada island.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Moyseio Fonografoy",
+                  "text": "Small private museum of phonographs and memorabilia in Lefkada Town.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "A long sandy beach located near Lefkada Town.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Popular beach near Lefkada Town, known for its windmills and kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Lighthouse located in the area of Lefkada Town.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Ochyro Konstantinos",
+                  "text": "Remains of the Konstantinos fortification in Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Nirikos Ancient Theatre",
+                  "text": "Ruins of the ancient theatre of Nirikos near Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Preserved sections of the ancient city wall of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "Beach located in the immediate vicinity of the Agia Mavra fortress in Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Moyseio «Aggelos Sikelianos»",
+                  "text": "Museum dedicated to the poet Angelos Sikelianos in his birthplace in Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Archaios Oikismos Leykadas",
+                  "text": "Archaeological excavations of the ancient settlement of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ereipia Ag.Gorgioy",
+                  "text": "Ruins of the St. George church in Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Agglikaniki Ekklisia Leykados",
+                  "text": "Remains of the former Anglican church in Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ancient City Ruins",
+                  "text": "Ruins of the ancient city of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Archaeological site of the ancient city of Nirikos on Lefkada island.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Agios Charalampos",
+                  "text": "Agios Charalambos Orthodox church in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Historic Pantokrator church in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Agios Minas",
+                  "text": "Agios Minas Orthodox church featuring Baroque influences in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "A religious building and place of worship in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            },
+            {
+                  "name": "Alexandros salt pans",
+                  "text": "The Alexandros salt pans in Lefkada offer an interesting backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Gyra Lake",
+                  "text": "Gyra Lake in Lefkada is an idyllic place for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "The Marina playground in Lefkada is ideal for active children.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
+            },
+            {
+                  "name": "Πλάκα (Βαγιά)",
+                  "text": "A quiet beach section located near Lefkada Town on the island of Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733091,
+                        38.850918
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [20.7107, 38.8310],
@@ -2667,7 +5619,952 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le pont flottant mobile reliant Lefkada au continent mesure environ 50 mètres de long.", "La forteresse de Santa Maura fut construite en 1300 par Giovanni Orsini.", "Après le séisme de 1948, de nombreuses maisons furent revêtues de tôle ondulée colorée.", "Le Festival international de folklore de Lefkada fut fondé en 1962, le premier du genre en Grèce.", "La lagune de Lefkada fait partie du réseau Natura 2000 pour la protection de la nature.", "La marina de Lefkada est l'une des plus modernes de Méditerranée avec 620 places à quai."],
     }, image: "/poi-images/city-lefkada-extra.webp"},
   {
-    id: "city-argostoli-extra", "sights": {"de": [{"name": "Korgialeneio Istoriko kai Laografiko Moyseio Argostolioy", "text": "Dieses Museum bewahrt die reiche Volkskunst und Geschichte von Kefalonia.", "category": "museum", "coords": [20.486927, 38.176773]}, {"name": "Archaiologiko Moyseio Argostolioy", "text": "Es beherbergt archäologische Schätze von der mykenischen bis zur römischen Zeit.", "category": "museum", "coords": [20.488182, 38.177635]}, {"name": "Platis Gialos", "text": "Ein beliebter, weitläufiger Sandstrand mit kristallklarem Wasser in der Nähe von Argostoli.", "category": "recreational", "coords": [20.48437, 38.15171]}, {"name": "Paliostafida", "text": "Ein ruhiger und malerischer Sandstrand, ideal zum Entspannen.", "category": "recreational", "coords": [20.478687, 38.16044]}, {"name": "Faros Agion Theodoron", "text": "Ein markanter kreisförmiger Leuchtturm mit dorischen Säulen auf einer Halbinsel.", "category": "landmark", "coords": [20.4678, 38.191397]}, {"name": "Archaia Krani", "text": "Die Ruinen einer der vier antiken Städte der Insel Kefalonia.", "category": "historical", "coords": [20.516507, 38.167606]}, {"name": "Oikia Kosmetatoy", "text": "Ein Museum, das Möbel und Artefakte aus der Zeit vor dem großen Erdbeben zeigt.", "category": "museum", "coords": [20.486761, 38.181032]}, {"name": "theatraki sto mpastoyni", "text": "Ein kleiner Veranstaltungsort für Aufführungen unter freiem Himmel am Hafen.", "category": "cultural", "coords": [20.486387, 38.185068]}, {"name": "Vardiola ktimatos Piniatoroy", "text": "Die Überreste eines historischen venezianischen Wachturms.", "category": "castle", "coords": [20.476206, 38.178624]}, {"name": "Aspros Vrachos", "text": "Ein Küstenabschnitt, der für seinen markanten weißen Felsen und klares Wasser bekannt ist.", "category": "recreational", "coords": [20.484767, 38.149374]}, {"name": "Gradakia", "text": "Ein familienfreundlicher Sandstrand mit flachem Wasser in der Nähe der Stadt.", "category": "recreational", "coords": [20.479768, 38.164503]}, {"name": "Kalamia", "text": "Ein Kiesstrand mit sehr klarem Wasser, umgeben von Felsen.", "category": "recreational", "coords": [20.481101, 38.171214]}, {"name": "Paralia Kolpos Kormoranon", "text": "Ein abgelegener Strand in einer kleinen Bucht, der Ruhe bietet.", "category": "recreational", "coords": [20.470235, 38.188601]}, {"name": "Protomi toy Karoloy Napier", "text": "Ein Denkmal für Sir Charles Napier, einen ehemaligen britischen Gouverneur der Insel.", "category": "historical", "coords": [20.48579, 38.178088]}, {"name": "Mnimeio Rizospaston", "text": "Ein Denkmal zur Ehrung der Radikalen, die gegen die britische Herrschaft kämpften.", "category": "historical", "coords": [20.486176, 38.183469]}, {"name": "Pyrgos toy Rologioy", "text": "Ein markanter Uhrturm auf dem Bell-Platz, der nach dem Erdbeben wiederaufgebaut wurde.", "category": "historical", "coords": [20.489974, 38.173951]}, {"name": "The Thalassomilos", "text": "Eine ehemalige Wassermühle am Meer, heute eine historische Sehenswürdigkeit.", "category": "historical", "coords": [20.47784, 38.192512]}, {"name": "Oveliskos Gefyra Devosetoy", "text": "Ein Obelisk auf der historischen De-Bosset-Brücke, der längsten Steinbrücke über dem Meer.", "category": "historical", "coords": [20.495698, 38.175226]}, {"name": "Katavothres", "text": "Ein seltenes geologisches Phänomen, bei dem Meerwasser unterirdisch in Dolinen verschwindet.", "category": "landmark", "coords": [20.474115, 38.19417]}, {"name": "Spilaio-Ermitaz Agioy Gerasimoy", "text": "Eine spirituelle Einsiedelei in einer Höhle nahe Argostoli, die dem Schutzpatron der Insel gewidmet ist.", "category": "landmark", "coords": [20.486276, 38.159986]}, {"name": "Argostoli", "text": "Ein moderner Jachthafen in Argostoli, der Liegeplätze und Dienstleistungen für Segler bietet.", "category": "landmark", "coords": [20.49631, 38.181002]}, {"name": "I Love Kefalonia", "text": "Ein beliebter Fotopunkt in Argostoli mit einem markanten Schild, das die Liebe zur Insel Kefalonia feiert.", "category": "landmark", "coords": [20.489704, 38.177561]}, {"name": "Krane", "text": "Archäologische Überreste der antiken Stadt Krane in der Nähe von Argostoli.", "category": "historical", "coords": [20.521948, 38.171383]}, {"name": "Agios Spyridonas", "text": "Eine orthodoxe Kirche in Argostoli, die dem Heiligen Spyridon gewidmet ist.", "category": "religious", "coords": [20.489073, 38.17665]}, {"name": "Mitropoli Argostolioy", "text": "Die griechisch-orthodoxe Kathedrale von Argostoli, ein wichtiges religiöses Zentrum der Stadt.", "category": "religious", "coords": [20.488832, 38.174732]}], "hu": [{"name": "Korgialeneio Istoriko kai Laografiko Moyseio Argostolioy", "text": "A múzeum Kefalónia gazdag népművészetét és történelmét őrzi.", "category": "museum", "coords": [20.486927, 38.176773]}, {"name": "Archaiologiko Moyseio Argostolioy", "text": "Régészeti kincseket mutat be a mükénéi kortól a római korig.", "category": "museum", "coords": [20.488182, 38.177635]}, {"name": "Platys Gialos", "text": "Népszerű, tágas homokos strand kristálytiszta vízzel Argostoli közelében.", "category": "recreational", "coords": [20.48437, 38.15171]}, {"name": "Paliostafida", "text": "Csendes és festői homokos tengerpart, ideális a kikapcsolódásra.", "category": "recreational", "coords": [20.478687, 38.16044]}, {"name": "Faros Agion Theodoron", "text": "Jellegzetes kör alakú világítótorony dór oszlopokkal egy félszigeten.", "category": "landmark", "coords": [20.4678, 38.191397]}, {"name": "Archaia Krani", "text": "Kefalónia szigetének négy ókori városa egyikének romjai.", "category": "historical", "coords": [20.516507, 38.167606]}, {"name": "Oikia Kosmetatoy", "text": "A nagy földrengés előtti időkből származó bútorokat és tárgyakat bemutató múzeum.", "category": "museum", "coords": [20.486761, 38.181032]}, {"name": "theatraki sto mpastoyni", "text": "Kisméretű szabadtéri előadóhely a kikötőnél.", "category": "cultural", "coords": [20.486387, 38.185068]}, {"name": "Vardiola ktimatos Piniatoroy", "text": "Egy történelmi velencei őrtorony maradványai.", "category": "castle", "coords": [20.476206, 38.178624]}, {"name": "Aspros Vrachos", "text": "Jellegzetes fehér sziklájáról és tiszta vizéről ismert tengerparti rész.", "category": "recreational", "coords": [20.484767, 38.149374]}, {"name": "Gradakia", "text": "Családbarát homokos strand sekély vízzel a város közelében.", "category": "recreational", "coords": [20.479768, 38.164503]}, {"name": "Kalamia", "text": "Kavicsos strand nagyon tiszta vízzel, sziklákkal körülvéve.", "category": "recreational", "coords": [20.481101, 38.171214]}, {"name": "Paralia Kolpos Kormoranon", "text": "Eldugott strand egy kis öbölben, amely nyugalmat kínál.", "category": "recreational", "coords": [20.470235, 38.188601]}, {"name": "Protomi toy Karoloy Napier", "text": "Emlékmű Sir Charles Napiernek, a sziget egykori brit kormányzójának.", "category": "historical", "coords": [20.48579, 38.178088]}, {"name": "Mnimeio Rizospaston", "text": "A brit uralom ellen küzdő radikálisok tiszteletére emelt emlékmű.", "category": "historical", "coords": [20.486176, 38.183469]}, {"name": "Pyrgos toy Rologioy", "text": "Jellegzetes óratorony a Bell téren, amelyet a földrengés után újjáépítettek.", "category": "historical", "coords": [20.489974, 38.173951]}, {"name": "The Thalassomilos", "text": "Egykori tengeri vízimalom, amely ma történelmi látványosság.", "category": "historical", "coords": [20.47784, 38.192512]}, {"name": "Oveliskos Gefyra Devosetoy", "text": "Obeliszk a történelmi De Bosset hídon, a leghosszabb tenger feletti kőhídon.", "category": "historical", "coords": [20.495698, 38.175226]}, {"name": "Katavothres", "text": "Ritka geológiai jelenség, ahol a tengervíz a föld alatt víznyelőkben tűnik el.", "category": "landmark", "coords": [20.474115, 38.19417]}, {"name": "Spilaio-Ermitaz Agioy Gerasimoy", "text": "Spirituális barlangi remetelak Argostoli közelében, amelyet a sziget védőszentjének szenteltek.", "category": "landmark", "coords": [20.486276, 38.159986]}, {"name": "Argostoli", "text": "Modern jachtkikötő Argostoliban, amely horgonyzóhelyeket és szolgáltatásokat kínál a hajósoknak.", "category": "landmark", "coords": [20.49631, 38.181002]}, {"name": "I Love Kefalonia", "text": "Népszerű fotópont Argostoliban egy jellegzetes felirattal, amely a Kefalónia iránti szeretetet hirdeti.", "category": "landmark", "coords": [20.489704, 38.177561]}, {"name": "Krane", "text": "Az ókori Krane városának régészeti maradványai Argostoli közelében.", "category": "historical", "coords": [20.521948, 38.171383]}, {"name": "Agios Spyridonas", "text": "Szent Szpiridon tiszteletére szentelt ortodox templom Argostoliban.", "category": "religious", "coords": [20.489073, 38.17665]}, {"name": "Mitropoli Argostolioy", "text": "Argostoli görög ortodox katedrálisa, a város fontos vallási központja.", "category": "religious", "coords": [20.488832, 38.174732]}], "ro": [{"name": "Korgialeneio Istoriko kai Laografiko Moyseio Argostolioy", "text": "Acest muzeu păstrează bogata artă populară și istoria insulei Kefalonia.", "category": "museum", "coords": [20.486927, 38.176773]}, {"name": "Archaiologiko Moyseio Argostolioy", "text": "Găzduiește comori arheologice din perioada miceniană până în cea romană.", "category": "museum", "coords": [20.488182, 38.177635]}, {"name": "Platys Gialos", "text": "O plajă de nisip populară și spațioasă, cu ape cristaline, lângă Argostoli.", "category": "recreational", "coords": [20.48437, 38.15171]}, {"name": "Paliostafida", "text": "O plajă de nisip liniștită și pitorească, ideală pentru relaxare.", "category": "recreational", "coords": [20.478687, 38.16044]}, {"name": "Faros Agion Theodoron", "text": "Un far circular distinctiv cu coloane dorice, situat pe o peninsulă.", "category": "landmark", "coords": [20.4678, 38.191397]}, {"name": "Archaia Krani", "text": "Ruinele unuia dintre cele patru orașe antice de pe insula Kefalonia.", "category": "historical", "coords": [20.516507, 38.167606]}, {"name": "Oikia Kosmetatoy", "text": "Un muzeu care expune mobilier și artefacte din perioada de dinaintea marelui cutremur.", "category": "museum", "coords": [20.486761, 38.181032]}, {"name": "theatraki sto mpastoyni", "text": "Un mic spațiu pentru spectacole în aer liber situat în port.", "category": "cultural", "coords": [20.486387, 38.185068]}, {"name": "Vardiola ktimatos Piniatoroy", "text": "Rămășițele unui turn de veghe venețian istoric.", "category": "castle", "coords": [20.476206, 38.178624]}, {"name": "Aspros Vrachos", "text": "O porțiune de coastă cunoscută pentru stânca sa albă distinctivă și apa limpede.", "category": "recreational", "coords": [20.484767, 38.149374]}, {"name": "Gradakia", "text": "O plajă de nisip potrivită pentru familii, cu ape puțin adânci, lângă oraș.", "category": "recreational", "coords": [20.479768, 38.164503]}, {"name": "Kalamia", "text": "O plajă cu pietriș și apă foarte limpede, înconjurată de stânci.", "category": "recreational", "coords": [20.481101, 38.171214]}, {"name": "Paralia Kolpos Kormoranon", "text": "O plajă retrasă într-un mic golf, oferind liniște.", "category": "recreational", "coords": [20.470235, 38.188601]}, {"name": "Protomi toy Karoloy Napier", "text": "Un monument dedicat lui Sir Charles Napier, fost guvernator britanic al insulei.", "category": "historical", "coords": [20.48579, 38.178088]}, {"name": "Mnimeio Rizospaston", "text": "Un monument în cinstea radicalilor care au luptat împotriva stăpânirii britanice.", "category": "historical", "coords": [20.486176, 38.183469]}, {"name": "Pyrgos toy Rologioy", "text": "Un turn cu ceas distinctiv în piața Bell, reconstruit după cutremur.", "category": "historical", "coords": [20.489974, 38.173951]}, {"name": "The Thalassomilos", "text": "O fostă moară de apă de mare, astăzi un obiectiv istoric.", "category": "historical", "coords": [20.47784, 38.192512]}, {"name": "Oveliskos Gefyra Devosetoy", "text": "Un obelisc pe podul istoric De Bosset, cel mai lung pod de piatră peste mare.", "category": "historical", "coords": [20.495698, 38.175226]}, {"name": "Katavothres", "text": "Un fenomen geologic rar în care apa mării dispare subteran în doline.", "category": "landmark", "coords": [20.474115, 38.19417]}, {"name": "Spilaio-Ermitaz Agioy Gerasimoy", "text": "O sihăstrie spirituală într-o peșteră lângă Argostoli, dedicată sfântului patron al insulei.", "category": "landmark", "coords": [20.486276, 38.159986]}, {"name": "Argostoli", "text": "Un port modern pentru iahturi în Argostoli, oferind locuri de acostare și servicii pentru navigatori.", "category": "landmark", "coords": [20.49631, 38.181002]}, {"name": "I Love Kefalonia", "text": "Un punct foto popular în Argostoli, cu un semn distinctiv care celebrează dragostea pentru insula Kefalonia.", "category": "landmark", "coords": [20.489704, 38.177561]}, {"name": "Krane", "text": "Rămășițele arheologice ale orașului antic Krane, situate în apropiere de Argostoli.", "category": "historical", "coords": [20.521948, 38.171383]}, {"name": "Agios Spyridonas", "text": "O biserică ortodoxă din Argostoli dedicată Sfântului Spiridon.", "category": "religious", "coords": [20.489073, 38.17665]}, {"name": "Mitropoli Argostolioy", "text": "Catedrala ortodoxă greacă din Argostoli, un centru religios important al orașului.", "category": "religious", "coords": [20.488832, 38.174732]}], "en": [{"name": "Korgialeneio Historic and Folklore Museum of Argostoli", "text": "This museum preserves the rich folk art and history of Cephalonia.", "category": "museum", "coords": [20.486927, 38.176773]}, {"name": "Archaeological Museum of Argostoli", "text": "It houses archaeological treasures from the Mycenaean to the Roman period.", "category": "museum", "coords": [20.488182, 38.177635]}, {"name": "Platis Gialos Beach", "text": "A popular, spacious sandy beach with crystal clear waters near Argostoli.", "category": "recreational", "coords": [20.48437, 38.15171]}, {"name": "Paliostafida", "text": "A quiet and picturesque sandy beach, ideal for relaxation.", "category": "recreational", "coords": [20.478687, 38.16044]}, {"name": "Lighthouse Agion Theodoron", "text": "A distinctive circular lighthouse with Doric columns located on a peninsula.", "category": "landmark", "coords": [20.4678, 38.191397]}, {"name": "Archaia Krani", "text": "The ruins of one of the four ancient cities of the island of Cephalonia.", "category": "historical", "coords": [20.516507, 38.167606]}, {"name": "Kosmetatos' House", "text": "A museum displaying furniture and artifacts from before the great earthquake.", "category": "museum", "coords": [20.486761, 38.181032]}, {"name": "theatraki sto mpastoyni", "text": "A small outdoor performance space located at the harbor.", "category": "cultural", "coords": [20.486387, 38.185068]}, {"name": "Vardiola at Piniatoros’ property", "text": "The remains of a historical Venetian watchtower.", "category": "castle", "coords": [20.476206, 38.178624]}, {"name": "Aspros Vrachos", "text": "A coastal spot known for its distinctive white rock and clear water.", "category": "recreational", "coords": [20.484767, 38.149374]}, {"name": "Gradakia", "text": "A family-friendly sandy beach with shallow waters near the city.", "category": "recreational", "coords": [20.479768, 38.164503]}, {"name": "Kalamia", "text": "A pebbly beach with very clear water, surrounded by rocks.", "category": "recreational", "coords": [20.481101, 38.171214]}, {"name": "Kormoranon Bay Beach", "text": "A secluded beach in a small bay, offering tranquility.", "category": "recreational", "coords": [20.470235, 38.188601]}, {"name": "Bust of Sir Charles Napier", "text": "A monument to Sir Charles Napier, a former British governor of the island.", "category": "historical", "coords": [20.48579, 38.178088]}, {"name": "Radical's Memorial", "text": "A monument honoring the Radicals who fought against British rule.", "category": "historical", "coords": [20.486176, 38.183469]}, {"name": "Bell Tower", "text": "A distinctive clock tower in Bell Square, rebuilt after the earthquake.", "category": "historical", "coords": [20.489974, 38.173951]}, {"name": "The Thalassomilos", "text": "A former sea water mill, now a historical landmark.", "category": "historical", "coords": [20.47784, 38.192512]}, {"name": "De Bosset Bridge Obelisk", "text": "An obelisk on the historic De Bosset Bridge, the longest stone bridge over sea.", "category": "historical", "coords": [20.495698, 38.175226]}, {"name": "The Katavothres Sea Mills", "text": "A rare geological phenomenon where sea water disappears underground into sinkholes.", "category": "landmark", "coords": [20.474115, 38.19417]}, {"name": "Cave-Hermitage St. Gerasimos", "text": "A spiritual cave hermitage near Argostoli dedicated to the patron saint of the island.", "category": "landmark", "coords": [20.486276, 38.159986]}, {"name": "Argostoli Marina", "text": "A modern marina in Argostoli offering berths and services for sailors.", "category": "landmark", "coords": [20.49631, 38.181002]}, {"name": "I Love Kefalonia", "text": "A popular photo spot in Argostoli with a prominent sign celebrating the love for Kefalonia island.", "category": "landmark", "coords": [20.489704, 38.177561]}, {"name": "Krane", "text": "Archaeological remains of the ancient city of Krane located near Argostoli.", "category": "historical", "coords": [20.521948, 38.171383]}, {"name": "St Spyridon", "text": "An Orthodox church in Argostoli dedicated to Saint Spyridon.", "category": "religious", "coords": [20.489073, 38.17665]}, {"name": "Mitropoli Argostolioy", "text": "The Greek Orthodox cathedral of Argostoli, an important religious center of the city.", "category": "religious", "coords": [20.488832, 38.174732]}]},
+    id: "city-argostoli-extra", "sights": {
+      "de": [
+            {
+                  "name": "Korgialeneio Istoriko kai Laografiko Moyseio Argostolioy",
+                  "text": "Dieses Museum bewahrt die reiche Volkskunst und Geschichte von Kefalonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Argostolioy",
+                  "text": "Es beherbergt archäologische Schätze von der mykenischen bis zur römischen Zeit.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Platis Gialos",
+                  "text": "Ein beliebter, weitläufiger Sandstrand mit kristallklarem Wasser in der Nähe von Argostoli.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Paliostafida",
+                  "text": "Ein ruhiger und malerischer Sandstrand, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Faros Agion Theodoron",
+                  "text": "Ein markanter kreisförmiger Leuchtturm mit dorischen Säulen auf einer Halbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Archaia Krani",
+                  "text": "Die Ruinen einer der vier antiken Städte der Insel Kefalonia.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Oikia Kosmetatoy",
+                  "text": "Ein Museum, das Möbel und Artefakte aus der Zeit vor dem großen Erdbeben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "theatraki sto mpastoyni",
+                  "text": "Ein kleiner Veranstaltungsort für Aufführungen unter freiem Himmel am Hafen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Vardiola ktimatos Piniatoroy",
+                  "text": "Die Überreste eines historischen venezianischen Wachturms.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Aspros Vrachos",
+                  "text": "Ein Küstenabschnitt, der für seinen markanten weißen Felsen und klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Gradakia",
+                  "text": "Ein familienfreundlicher Sandstrand mit flachem Wasser in der Nähe der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Kalamia",
+                  "text": "Ein Kiesstrand mit sehr klarem Wasser, umgeben von Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Paralia Kolpos Kormoranon",
+                  "text": "Ein abgelegener Strand in einer kleinen Bucht, der Ruhe bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Protomi toy Karoloy Napier",
+                  "text": "Ein Denkmal für Sir Charles Napier, einen ehemaligen britischen Gouverneur der Insel.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Mnimeio Rizospaston",
+                  "text": "Ein Denkmal zur Ehrung der Radikalen, die gegen die britische Herrschaft kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Pyrgos toy Rologioy",
+                  "text": "Ein markanter Uhrturm auf dem Bell-Platz, der nach dem Erdbeben wiederaufgebaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "Eine ehemalige Wassermühle am Meer, heute eine historische Sehenswürdigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "Oveliskos Gefyra Devosetoy",
+                  "text": "Ein Obelisk auf der historischen De-Bosset-Brücke, der längsten Steinbrücke über dem Meer.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "Katavothres",
+                  "text": "Ein seltenes geologisches Phänomen, bei dem Meerwasser unterirdisch in Dolinen verschwindet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Spilaio-Ermitaz Agioy Gerasimoy",
+                  "text": "Eine spirituelle Einsiedelei in einer Höhle nahe Argostoli, die dem Schutzpatron der Insel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli",
+                  "text": "Ein moderner Jachthafen in Argostoli, der Liegeplätze und Dienstleistungen für Segler bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "Ein beliebter Fotopunkt in Argostoli mit einem markanten Schild, das die Liebe zur Insel Kefalonia feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Archäologische Überreste der antiken Stadt Krane in der Nähe von Argostoli.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "Agios Spyridonas",
+                  "text": "Eine orthodoxe Kirche in Argostoli, die dem Heiligen Spyridon gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Mitropoli Argostolioy",
+                  "text": "Die griechisch-orthodoxe Kathedrale von Argostoli, ein wichtiges religiöses Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio Argostoliou",
+                  "text": "Das städtische Schwimmbad von Argostoli für Einheimische und Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        20.483698,
+                        38.186075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korgialeneio Istoriko kai Laografiko Moyseio Argostolioy",
+                  "text": "A múzeum Kefalónia gazdag népművészetét és történelmét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Argostolioy",
+                  "text": "Régészeti kincseket mutat be a mükénéi kortól a római korig.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Platys Gialos",
+                  "text": "Népszerű, tágas homokos strand kristálytiszta vízzel Argostoli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Paliostafida",
+                  "text": "Csendes és festői homokos tengerpart, ideális a kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Faros Agion Theodoron",
+                  "text": "Jellegzetes kör alakú világítótorony dór oszlopokkal egy félszigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Archaia Krani",
+                  "text": "Kefalónia szigetének négy ókori városa egyikének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Oikia Kosmetatoy",
+                  "text": "A nagy földrengés előtti időkből származó bútorokat és tárgyakat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "theatraki sto mpastoyni",
+                  "text": "Kisméretű szabadtéri előadóhely a kikötőnél.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Vardiola ktimatos Piniatoroy",
+                  "text": "Egy történelmi velencei őrtorony maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Aspros Vrachos",
+                  "text": "Jellegzetes fehér sziklájáról és tiszta vizéről ismert tengerparti rész.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Gradakia",
+                  "text": "Családbarát homokos strand sekély vízzel a város közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Kalamia",
+                  "text": "Kavicsos strand nagyon tiszta vízzel, sziklákkal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Paralia Kolpos Kormoranon",
+                  "text": "Eldugott strand egy kis öbölben, amely nyugalmat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Protomi toy Karoloy Napier",
+                  "text": "Emlékmű Sir Charles Napiernek, a sziget egykori brit kormányzójának.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Mnimeio Rizospaston",
+                  "text": "A brit uralom ellen küzdő radikálisok tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Pyrgos toy Rologioy",
+                  "text": "Jellegzetes óratorony a Bell téren, amelyet a földrengés után újjáépítettek.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "Egykori tengeri vízimalom, amely ma történelmi látványosság.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "Oveliskos Gefyra Devosetoy",
+                  "text": "Obeliszk a történelmi De Bosset hídon, a leghosszabb tenger feletti kőhídon.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "Katavothres",
+                  "text": "Ritka geológiai jelenség, ahol a tengervíz a föld alatt víznyelőkben tűnik el.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Spilaio-Ermitaz Agioy Gerasimoy",
+                  "text": "Spirituális barlangi remetelak Argostoli közelében, amelyet a sziget védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli",
+                  "text": "Modern jachtkikötő Argostoliban, amely horgonyzóhelyeket és szolgáltatásokat kínál a hajósoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "Népszerű fotópont Argostoliban egy jellegzetes felirattal, amely a Kefalónia iránti szeretetet hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Az ókori Krane városának régészeti maradványai Argostoli közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "Agios Spyridonas",
+                  "text": "Szent Szpiridon tiszteletére szentelt ortodox templom Argostoliban.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Mitropoli Argostolioy",
+                  "text": "Argostoli görög ortodox katedrálisa, a város fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio Argostoliou",
+                  "text": "Argostoli városi úszómedencéje, amely a helyieket és a látogatókat szolgálja.",
+                  "category": "recreational",
+                  "coords": [
+                        20.483698,
+                        38.186075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korgialeneio Istoriko kai Laografiko Moyseio Argostolioy",
+                  "text": "Acest muzeu păstrează bogata artă populară și istoria insulei Kefalonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Argostolioy",
+                  "text": "Găzduiește comori arheologice din perioada miceniană până în cea romană.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Platys Gialos",
+                  "text": "O plajă de nisip populară și spațioasă, cu ape cristaline, lângă Argostoli.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Paliostafida",
+                  "text": "O plajă de nisip liniștită și pitorească, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Faros Agion Theodoron",
+                  "text": "Un far circular distinctiv cu coloane dorice, situat pe o peninsulă.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Archaia Krani",
+                  "text": "Ruinele unuia dintre cele patru orașe antice de pe insula Kefalonia.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Oikia Kosmetatoy",
+                  "text": "Un muzeu care expune mobilier și artefacte din perioada de dinaintea marelui cutremur.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "theatraki sto mpastoyni",
+                  "text": "Un mic spațiu pentru spectacole în aer liber situat în port.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Vardiola ktimatos Piniatoroy",
+                  "text": "Rămășițele unui turn de veghe venețian istoric.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Aspros Vrachos",
+                  "text": "O porțiune de coastă cunoscută pentru stânca sa albă distinctivă și apa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Gradakia",
+                  "text": "O plajă de nisip potrivită pentru familii, cu ape puțin adânci, lângă oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Kalamia",
+                  "text": "O plajă cu pietriș și apă foarte limpede, înconjurată de stânci.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Paralia Kolpos Kormoranon",
+                  "text": "O plajă retrasă într-un mic golf, oferind liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Protomi toy Karoloy Napier",
+                  "text": "Un monument dedicat lui Sir Charles Napier, fost guvernator britanic al insulei.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Mnimeio Rizospaston",
+                  "text": "Un monument în cinstea radicalilor care au luptat împotriva stăpânirii britanice.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Pyrgos toy Rologioy",
+                  "text": "Un turn cu ceas distinctiv în piața Bell, reconstruit după cutremur.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "O fostă moară de apă de mare, astăzi un obiectiv istoric.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "Oveliskos Gefyra Devosetoy",
+                  "text": "Un obelisc pe podul istoric De Bosset, cel mai lung pod de piatră peste mare.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "Katavothres",
+                  "text": "Un fenomen geologic rar în care apa mării dispare subteran în doline.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Spilaio-Ermitaz Agioy Gerasimoy",
+                  "text": "O sihăstrie spirituală într-o peșteră lângă Argostoli, dedicată sfântului patron al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli",
+                  "text": "Un port modern pentru iahturi în Argostoli, oferind locuri de acostare și servicii pentru navigatori.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "Un punct foto popular în Argostoli, cu un semn distinctiv care celebrează dragostea pentru insula Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Rămășițele arheologice ale orașului antic Krane, situate în apropiere de Argostoli.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "Agios Spyridonas",
+                  "text": "O biserică ortodoxă din Argostoli dedicată Sfântului Spiridon.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Mitropoli Argostolioy",
+                  "text": "Catedrala ortodoxă greacă din Argostoli, un centru religios important al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio Argostoliou",
+                  "text": "Piscina municipală din Argostoli, care deservește localnicii și vizitatorii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.483698,
+                        38.186075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korgialeneio Historic and Folklore Museum of Argostoli",
+                  "text": "This museum preserves the rich folk art and history of Cephalonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Argostoli",
+                  "text": "It houses archaeological treasures from the Mycenaean to the Roman period.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Platis Gialos Beach",
+                  "text": "A popular, spacious sandy beach with crystal clear waters near Argostoli.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Paliostafida",
+                  "text": "A quiet and picturesque sandy beach, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Lighthouse Agion Theodoron",
+                  "text": "A distinctive circular lighthouse with Doric columns located on a peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Archaia Krani",
+                  "text": "The ruins of one of the four ancient cities of the island of Cephalonia.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Kosmetatos' House",
+                  "text": "A museum displaying furniture and artifacts from before the great earthquake.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "theatraki sto mpastoyni",
+                  "text": "A small outdoor performance space located at the harbor.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Vardiola at Piniatoros’ property",
+                  "text": "The remains of a historical Venetian watchtower.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Aspros Vrachos",
+                  "text": "A coastal spot known for its distinctive white rock and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Gradakia",
+                  "text": "A family-friendly sandy beach with shallow waters near the city.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Kalamia",
+                  "text": "A pebbly beach with very clear water, surrounded by rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Kormoranon Bay Beach",
+                  "text": "A secluded beach in a small bay, offering tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Bust of Sir Charles Napier",
+                  "text": "A monument to Sir Charles Napier, a former British governor of the island.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Radical's Memorial",
+                  "text": "A monument honoring the Radicals who fought against British rule.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Bell Tower",
+                  "text": "A distinctive clock tower in Bell Square, rebuilt after the earthquake.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "A former sea water mill, now a historical landmark.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "De Bosset Bridge Obelisk",
+                  "text": "An obelisk on the historic De Bosset Bridge, the longest stone bridge over sea.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "The Katavothres Sea Mills",
+                  "text": "A rare geological phenomenon where sea water disappears underground into sinkholes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Cave-Hermitage St. Gerasimos",
+                  "text": "A spiritual cave hermitage near Argostoli dedicated to the patron saint of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli Marina",
+                  "text": "A modern marina in Argostoli offering berths and services for sailors.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "A popular photo spot in Argostoli with a prominent sign celebrating the love for Kefalonia island.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Archaeological remains of the ancient city of Krane located near Argostoli.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "St Spyridon",
+                  "text": "An Orthodox church in Argostoli dedicated to Saint Spyridon.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Mitropoli Argostolioy",
+                  "text": "The Greek Orthodox cathedral of Argostoli, an important religious center of the city.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio Argostoliou",
+                  "text": "The municipal swimming pool of Argostoli, serving locals and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        20.483698,
+                        38.186075
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [20.4897, 38.1738],
@@ -4108,6 +8005,15 @@ export const poiExtraGreeceCities: POI[] = [
                         27.330657,
                         36.884438
                   ]
+            },
+            {
+                  "name": "Παραλία Λάμπη",
+                  "text": "Ein lebhafter Sandstrand in der Nähe von Kos-Stadt mit zahlreichen touristischen Einrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.267937,
+                        36.90549
+                  ]
             }
       ],
       "hu": [
@@ -4163,6 +8069,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         27.330657,
                         36.884438
+                  ]
+            },
+            {
+                  "name": "Παραλία Λάμπη",
+                  "text": "Kos város közelében fekvő élénk homokos strand számos turisztikai szolgáltatással.",
+                  "category": "recreational",
+                  "coords": [
+                        27.267937,
+                        36.90549
                   ]
             }
       ],
@@ -4220,6 +8135,15 @@ export const poiExtraGreeceCities: POI[] = [
                         27.330657,
                         36.884438
                   ]
+            },
+            {
+                  "name": "Παραλία Λάμπη",
+                  "text": "O plajă cu nisip plină de viață lângă orașul Kos, cu numeroase facilități turistice.",
+                  "category": "recreational",
+                  "coords": [
+                        27.267937,
+                        36.90549
+                  ]
             }
       ],
       "en": [
@@ -4275,6 +8199,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         27.330657,
                         36.884438
+                  ]
+            },
+            {
+                  "name": "Lambi beach",
+                  "text": "A lively sandy beach near Kos Town with numerous tourist facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        27.267937,
+                        36.90549
                   ]
             }
       ]

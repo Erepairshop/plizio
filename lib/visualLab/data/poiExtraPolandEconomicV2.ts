@@ -473,6 +473,42 @@ export const polandEconomicV2: POI[] = [
                         14.243982,
                         53.921505
                   ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Warszów",
+                  "text": "Beliebter Badebereich in Świnoujście, der Erholungsmöglichkeiten in der Nähe des Hafengebiets bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309255,
+                        53.916785
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam",
+                  "text": "Ein Strandbad in Świnoujście auf der Insel Usedom in der Nähe des LNG-Terminals.",
+                  "category": "recreational",
+                  "coords": [
+                        14.251336,
+                        53.923276
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Wschód",
+                  "text": "Der östliche Badebereich von Świnoujście Uznam am LNG-Terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.256037,
+                        53.922813
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Zachód",
+                  "text": "Der westliche Badebereich von Świnoujście Uznam in der Nähe des Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        14.246981,
+                        53.923777
+                  ]
             }
       ],
       "hu": [
@@ -537,6 +573,42 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         14.243982,
                         53.921505
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Warszów",
+                  "text": "Népszerű fürdőhely Świnoujściében, amely kikapcsolódási lehetőséget kínál a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309255,
+                        53.916785
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam",
+                  "text": "Tengeri fürdőhely Świnoujście Uznam részén, a gázterminál közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.251336,
+                        53.923276
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Wschód",
+                  "text": "Świnoujście Uznam keleti fürdőterülete a gázterminál szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.256037,
+                        53.922813
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Zachód",
+                  "text": "Świnoujście Uznam nyugati fürdőterülete a gázterminál közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.246981,
+                        53.923777
                   ]
             }
       ],
@@ -603,6 +675,42 @@ export const polandEconomicV2: POI[] = [
                         14.243982,
                         53.921505
                   ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Warszów",
+                  "text": "Zonă populară de scăldat în Świnoujście, oferind oportunități de recreere în apropierea zonei portuare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309255,
+                        53.916785
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam",
+                  "text": "O zonă de scăldat pe plaja Uznam din Świnoujście, lângă terminalul LNG.",
+                  "category": "recreational",
+                  "coords": [
+                        14.251336,
+                        53.923276
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Wschód",
+                  "text": "Zona de est a plajei Uznam din Świnoujście, situată lângă terminalul LNG.",
+                  "category": "recreational",
+                  "coords": [
+                        14.256037,
+                        53.922813
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Zachód",
+                  "text": "Zona de vest a plajei Uznam din Świnoujście, în apropierea terminalului LNG.",
+                  "category": "recreational",
+                  "coords": [
+                        14.246981,
+                        53.923777
+                  ]
             }
       ],
       "en": [
@@ -667,6 +775,42 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         14.243982,
                         53.921505
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Warszów",
+                  "text": "Popular swimming area in Świnoujście, offering recreation opportunities near the port area.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309255,
+                        53.916785
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam",
+                  "text": "A maritime swimming area on Uznam island in Świnoujście, near the LNG terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.251336,
+                        53.923276
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Wschód",
+                  "text": "The eastern section of the Uznam swimming area in Świnoujście by the LNG terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.256037,
+                        53.922813
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Morskie Świnoujście Uznam Zachód",
+                  "text": "The western part of the Uznam swimming area in Świnoujście near the LNG terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.246981,
+                        53.923777
                   ]
             }
       ]

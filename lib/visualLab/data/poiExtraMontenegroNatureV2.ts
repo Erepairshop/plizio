@@ -1480,6 +1480,60 @@ export const montenegroNatureV2: POI[] = [
                         18.896433,
                         42.246054
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Der Malaya Beach Club ist ein Strandresort auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Beach House ist ein Strandresort auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Hotels Pool ist ein Schwimmbecken auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Der Dudley Infinity Pool Club ist ein Schwimmbecken auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Pizana ist ein Schwimmbecken auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Der Aquapark Budva ist ein Wasserpark auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "hu": [
@@ -1535,6 +1589,60 @@ export const montenegroNatureV2: POI[] = [
                   "coords": [
                         18.896433,
                         42.246054
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "A Malaya Beach Club egy strandüdülőhely a Szent Miklós-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "A Beach House egy strandüdülőhely a Szent Miklós-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "A Hotels pool egy úszómedence a Szent Miklós-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "A Dudley Infinity Pool Club egy úszómedence a Szent Miklós-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "A pizana egy úszómedence a Szent Miklós-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Az Aquapark Budva egy vízipark a Szent Miklós-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ],
@@ -1592,6 +1700,60 @@ export const montenegroNatureV2: POI[] = [
                         18.896433,
                         42.246054
                   ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Malaya Beach Club este o stațiune de plajă situată pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Beach House este o stațiune de plajă situată pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Hotels pool este o piscină situată pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Dudley Infinity Pool Club este o piscină situată pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "Pizana este o piscină situată pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Aquapark Budva este un parc acvatic situat pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
+                  ]
             }
       ],
       "en": [
@@ -1647,6 +1809,60 @@ export const montenegroNatureV2: POI[] = [
                   "coords": [
                         18.896433,
                         42.246054
+                  ]
+            },
+            {
+                  "name": "Malaya Beach Club",
+                  "text": "Malaya Beach Club is a beach resort located on Sveti Nikola Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.814646,
+                        42.28345
+                  ]
+            },
+            {
+                  "name": "Beach House",
+                  "text": "Beach House is a beach resort located on Sveti Nikola Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.862935,
+                        42.282784
+                  ]
+            },
+            {
+                  "name": "Hotels pool",
+                  "text": "Hotels pool is a swimming pool located on Sveti Nikola Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.88288,
+                        42.279017
+                  ]
+            },
+            {
+                  "name": "Dudley Infnity Pool Club",
+                  "text": "Dudley Infinity Pool Club is a swimming pool located on Sveti Nikola Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.859237,
+                        42.28009
+                  ]
+            },
+            {
+                  "name": "pizana",
+                  "text": "pizana is a swimming pool located on Sveti Nikola Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839957,
+                        42.279157
+                  ]
+            },
+            {
+                  "name": "Aquapark Budva",
+                  "text": "Aquapark Budva is a water park located on Sveti Nikola Island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.821078,
+                        42.293185
                   ]
             }
       ]

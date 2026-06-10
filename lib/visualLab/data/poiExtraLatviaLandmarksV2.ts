@@ -363,7 +363,124 @@ export const latviaLandmarksV2: POI[] = [
     image: "/poi-images/latvia-riga-three-brothers-landmarks-v2.webp",
   },
   {
-    id: "latvia-jurmala-city-museum-landmarks-v2",
+    id: "latvia-jurmala-city-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atpūtas vieta pie Lielupes",
+                  "text": "Ein Erholungsbereich am Ufer des Flusses Lielupe in Lettland.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811263,
+                        56.961227
+                  ]
+            },
+            {
+                  "name": "Bulduru pludmale",
+                  "text": "Ein breiter Sandstrand im traditionsreichen Kurort Jūrmala.",
+                  "category": "recreational",
+                  "coords": [
+                        23.845748,
+                        56.985636
+                  ]
+            },
+            {
+                  "name": "Majoru pludmale",
+                  "text": "Der belebte Hauptstrand von Jūrmala, ideal zum Baden und für Strandaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811092,
+                        56.979123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atpūtas vieta pie Lielupes",
+                  "text": "Pihenőhely a lettországi Lielupe-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811263,
+                        56.961227
+                  ]
+            },
+            {
+                  "name": "Bulduru pludmale",
+                  "text": "Széles homokos tengerpart Jūrmala hagyományos üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.845748,
+                        56.985636
+                  ]
+            },
+            {
+                  "name": "Majoru pludmale",
+                  "text": "Jūrmala forgalmas fő strandja, amely ideális fürdőzéshez és sportoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811092,
+                        56.979123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atpūtas vieta pie Lielupes",
+                  "text": "O zonă de recreere pe malul râului Lielupe din Letonia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811263,
+                        56.961227
+                  ]
+            },
+            {
+                  "name": "Bulduru pludmale",
+                  "text": "O plajă lată cu nisip în stațiunea balneară tradițională Jūrmala.",
+                  "category": "recreational",
+                  "coords": [
+                        23.845748,
+                        56.985636
+                  ]
+            },
+            {
+                  "name": "Majoru pludmale",
+                  "text": "Plaja principală animată din Jūrmala, ideală pentru înot și activități pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811092,
+                        56.979123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atpūtas vieta pie Lielupes",
+                  "text": "A recreational area on the banks of the Lielupe River in Latvia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811263,
+                        56.961227
+                  ]
+            },
+            {
+                  "name": "Bulduru pludmale",
+                  "text": "A wide sandy beach in the traditional seaside resort of Jūrmala.",
+                  "category": "recreational",
+                  "coords": [
+                        23.845748,
+                        56.985636
+                  ]
+            },
+            {
+                  "name": "Majoru pludmale",
+                  "text": "The busy main beach of Jūrmala, ideal for swimming and beach activities.",
+                  "category": "recreational",
+                  "coords": [
+                        23.811092,
+                        56.979123
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "LV",
     name: { de: "Jurmala-Stadtmuseum", hu: "Jūrmalai Városi Múzeum", ro: "Muzeul Orașului Jūrmala", en: "Jurmala City Museum" },

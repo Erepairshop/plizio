@@ -205,6 +205,15 @@ imageHint: "Rolling hills and valleys of the Condroz region",
                         4.9587,
                         50.106281
                   ]
+            },
+            {
+                  "name": "Piscine de Beauraing",
+                  "text": "Das öffentliche Schwimmbad von Beauraing in der Region Calestienne.",
+                  "category": "recreational",
+                  "coords": [
+                        4.94827,
+                        50.110614
+                  ]
             }
       ],
       "hu": [
@@ -269,6 +278,15 @@ imageHint: "Rolling hills and valleys of the Condroz region",
                   "coords": [
                         4.9587,
                         50.106281
+                  ]
+            },
+            {
+                  "name": "Piscine de Beauraing",
+                  "text": "Beauraing nyilvános úszómedencéje a Calestienne régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.94827,
+                        50.110614
                   ]
             }
       ],
@@ -335,6 +353,15 @@ imageHint: "Rolling hills and valleys of the Condroz region",
                         4.9587,
                         50.106281
                   ]
+            },
+            {
+                  "name": "Piscine de Beauraing",
+                  "text": "Piscina publică din Beauraing, situată în regiunea Calestienne.",
+                  "category": "recreational",
+                  "coords": [
+                        4.94827,
+                        50.110614
+                  ]
             }
       ],
       "en": [
@@ -399,6 +426,15 @@ imageHint: "Rolling hills and valleys of the Condroz region",
                   "coords": [
                         4.9587,
                         50.106281
+                  ]
+            },
+            {
+                  "name": "Piscine de Beauraing",
+                  "text": "The public swimming pool of Beauraing located in the Calestienne region.",
+                  "category": "recreational",
+                  "coords": [
+                        4.94827,
+                        50.110614
                   ]
             }
       ]
@@ -2114,6 +2150,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.521442,
                         50.419717
                   ]
+            },
+            {
+                  "name": "Domaine de Palogne",
+                  "text": "Ein Freizeitpark im Ourthe-Tal, der verschiedene Outdoor-Aktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.530832,
+                        50.397806
+                  ]
             }
       ],
       "hu": [
@@ -2187,6 +2232,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.521442,
                         50.419717
+                  ]
+            },
+            {
+                  "name": "Domaine de Palogne",
+                  "text": "Szabadtéri tevékenységeket kínáló szabadidőpark az Ourthe-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.530832,
+                        50.397806
                   ]
             }
       ],
@@ -2262,6 +2316,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.521442,
                         50.419717
                   ]
+            },
+            {
+                  "name": "Domaine de Palogne",
+                  "text": "Un parc de recreere în Valea Ourthe care oferă diverse activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        5.530832,
+                        50.397806
+                  ]
             }
       ],
       "en": [
@@ -2335,6 +2398,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.521442,
                         50.419717
+                  ]
+            },
+            {
+                  "name": "Domaine de Palogne",
+                  "text": "A recreational park in the Ourthe Valley offering various outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        5.530832,
+                        50.397806
                   ]
             }
       ]
@@ -4246,6 +4318,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.870313,
                         50.475835
                   ]
+            },
+            {
+                  "name": "Les Thermes de Spa",
+                  "text": "Ein berühmtes Thermalzentrum in Spa, das für seine Heilquellen und modernen Wellness-Anwendungen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        5.863984,
+                        50.494691
+                  ]
             }
       ],
       "hu": [
@@ -4319,6 +4400,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.870313,
                         50.475835
+                  ]
+            },
+            {
+                  "name": "Les Thermes de Spa",
+                  "text": "Híres termálközpont Spa városában, amely gyógyforrásairól és modern wellness-kezeléseiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        5.863984,
+                        50.494691
                   ]
             }
       ],
@@ -4394,6 +4484,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.870313,
                         50.475835
                   ]
+            },
+            {
+                  "name": "Les Thermes de Spa",
+                  "text": "Un centru termal renumit în Spa, cunoscut pentru izvoarele sale curative și tratamentele moderne de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        5.863984,
+                        50.494691
+                  ]
             }
       ],
       "en": [
@@ -4467,6 +4566,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.870313,
                         50.475835
+                  ]
+            },
+            {
+                  "name": "Les Thermes de Spa",
+                  "text": "A famous thermal center in Spa, known for its healing springs and modern wellness treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        5.863984,
+                        50.494691
                   ]
             }
       ]
@@ -4849,6 +4957,24 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.062864,
                         49.789409
                   ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "Ein natürlicher Flussschwimmbereich in der Semois bei Bouillon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "Ein öffentlicher Platz zum Schwimmen in der Semois in der Nähe der Brücke Pont de France.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
+                  ]
             }
       ],
       "hu": [
@@ -4922,6 +5048,24 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.062864,
                         49.789409
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "Természetes folyami fürdőhely a Semois-folyóban Bouillonban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "Nyilvános fürdőhely a Semois-folyóban a Pont de France híd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
                   ]
             }
       ],
@@ -4997,6 +5141,24 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.062864,
                         49.789409
                   ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "O zonă naturală de scăldat în râul Semois, la Bouillon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "Un loc public pentru înot în râul Semois, lângă podul Pont de France.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
+                  ]
             }
       ],
       "en": [
@@ -5070,6 +5232,24 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.062864,
                         49.789409
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "A natural river swimming area in the Semois River at Bouillon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "A public spot for swimming in the Semois River near the Pont de France bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
                   ]
             }
       ]
@@ -5272,6 +5452,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.25165,
                         49.854619
                   ]
+            },
+            {
+                  "name": "Piscine Communale de Bertrix",
+                  "text": "Das städtische Schwimmbad für die Gemeinde in der Nähe des Ferté-Hügels.",
+                  "category": "recreational",
+                  "coords": [
+                        5.252022,
+                        49.850754
+                  ]
             }
       ],
       "hu": [
@@ -5291,6 +5480,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.25165,
                         49.854619
+                  ]
+            },
+            {
+                  "name": "Piscine Communale de Bertrix",
+                  "text": "A Ferté-domb közelében lévő közösséget kiszolgáló önkormányzati uszoda.",
+                  "category": "recreational",
+                  "coords": [
+                        5.252022,
+                        49.850754
                   ]
             }
       ],
@@ -5312,6 +5510,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.25165,
                         49.854619
                   ]
+            },
+            {
+                  "name": "Piscine Communale de Bertrix",
+                  "text": "Piscina municipală care deservește comunitatea de lângă Dealul Ferté.",
+                  "category": "recreational",
+                  "coords": [
+                        5.252022,
+                        49.850754
+                  ]
             }
       ],
       "en": [
@@ -5331,6 +5538,15 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         5.25165,
                         49.854619
+                  ]
+            },
+            {
+                  "name": "Piscine Communale de Bertrix",
+                  "text": "The municipal swimming pool serving the community near Ferté Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        5.252022,
+                        49.850754
                   ]
             }
       ]

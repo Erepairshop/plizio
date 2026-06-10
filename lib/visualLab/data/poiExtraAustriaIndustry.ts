@@ -152,6 +152,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                         15.574014,
                         46.672006
                   ]
+            },
+            {
+                  "name": "Naturteich",
+                  "text": "Ein naturbelassener Badeteich an der Südsteirischen Weinstraße.",
+                  "category": "recreational",
+                  "coords": [
+                        15.587665,
+                        46.688319
+                  ]
+            },
+            {
+                  "name": "Bärenhof Berghausen",
+                  "text": "Ein Bärenschutzzentrum und Tierpark an der Südsteirischen Weinstraße.",
+                  "category": "recreational",
+                  "coords": [
+                        15.591407,
+                        46.69299
+                  ]
             }
       ],
       "hu": [
@@ -216,6 +234,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                   "coords": [
                         15.574014,
                         46.672006
+                  ]
+            },
+            {
+                  "name": "Naturteich",
+                  "text": "Természetes fürdőtó a dél-stájer borút mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.587665,
+                        46.688319
+                  ]
+            },
+            {
+                  "name": "Bärenhof Berghausen",
+                  "text": "Medvemenhely és állatpark a dél-stájer borút mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.591407,
+                        46.69299
                   ]
             }
       ],
@@ -282,6 +318,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                         15.574014,
                         46.672006
                   ]
+            },
+            {
+                  "name": "Naturteich",
+                  "text": "Un iaz natural pentru înot situat pe drumul vinului din Stiria de Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        15.587665,
+                        46.688319
+                  ]
+            },
+            {
+                  "name": "Bärenhof Berghausen",
+                  "text": "Un sanctuar pentru urși și parc zoologic pe drumul vinului din Stiria de Sud.",
+                  "category": "recreational",
+                  "coords": [
+                        15.591407,
+                        46.69299
+                  ]
             }
       ],
       "en": [
@@ -346,6 +400,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                   "coords": [
                         15.574014,
                         46.672006
+                  ]
+            },
+            {
+                  "name": "Naturteich",
+                  "text": "A natural swimming pond located along the South Styrian Wine Road.",
+                  "category": "recreational",
+                  "coords": [
+                        15.587665,
+                        46.688319
+                  ]
+            },
+            {
+                  "name": "Bärenhof Berghausen",
+                  "text": "A bear sanctuary and zoo located along the South Styrian Wine Road.",
+                  "category": "recreational",
+                  "coords": [
+                        15.591407,
+                        46.69299
                   ]
             }
       ]
@@ -455,6 +527,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                         11.853699,
                         47.317949
                   ]
+            },
+            {
+                  "name": "Freibad Fügen",
+                  "text": "Ein beheiztes Freibad im Zillertal, das Erfrischung und Freizeitmöglichkeiten für die ganze Familie bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.856006,
+                        47.337883
+                  ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "Dieser luxuriöse Infinity-Pool bietet einen spektakulären Blick auf die Tiroler Bergwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
+                  ]
             }
       ],
       "hu": [
@@ -528,6 +618,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                   "coords": [
                         11.853699,
                         47.317949
+                  ]
+            },
+            {
+                  "name": "Freibad Fügen",
+                  "text": "Fűtött szabadtéri strand a Zillertal-völgyben, amely felfrissülést és kikapcsolódást kínál az egész családnak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.856006,
+                        47.337883
+                  ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "Ez a fényűző feszített víztükrű medence látványos kilátást nyújt a tiroli hegyekre.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
                   ]
             }
       ],
@@ -603,6 +711,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                         11.853699,
                         47.317949
                   ]
+            },
+            {
+                  "name": "Freibad Fügen",
+                  "text": "O piscină în aer liber încălzită în valea Zillertal, care oferă răcorire și facilități de agrement pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        11.856006,
+                        47.337883
+                  ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "Această piscină infinită de lux oferă o vedere spectaculoasă asupra munților tirolezi.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
+                  ]
             }
       ],
       "en": [
@@ -676,6 +802,24 @@ export const poiExtraAustriaIndustry: POI[] = [
                   "coords": [
                         11.853699,
                         47.317949
+                  ]
+            },
+            {
+                  "name": "Freibad Fügen",
+                  "text": "A heated outdoor pool in the Zillertal valley, offering refreshment and leisure facilities for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        11.856006,
+                        47.337883
+                  ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "This luxurious infinity pool offers a spectacular view of the Tyrolean mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
                   ]
             }
       ]
@@ -785,6 +929,15 @@ export const poiExtraAustriaIndustry: POI[] = [
                         11.859076,
                         47.298589
                   ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "Dieser Infinity-Pool im Alpine Family Resort Seetal im Zillertal bietet ein exklusives Badeerlebnis mit Bergblick.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
+                  ]
             }
       ],
       "hu": [
@@ -858,6 +1011,15 @@ export const poiExtraAustriaIndustry: POI[] = [
                   "coords": [
                         11.859076,
                         47.298589
+                  ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "Ez a zillertali Alpine Family Resort Seetal infinity medencéje exkluzív fürdőélményt kínál hegyi kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
                   ]
             }
       ],
@@ -933,6 +1095,15 @@ export const poiExtraAustriaIndustry: POI[] = [
                         11.859076,
                         47.298589
                   ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "Această piscină infinity de la Alpine Family Resort Seetal din Zillertal oferă o experiență exclusivistă de înot cu vedere la munți.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
+                  ]
             }
       ],
       "en": [
@@ -1006,6 +1177,15 @@ export const poiExtraAustriaIndustry: POI[] = [
                   "coords": [
                         11.859076,
                         47.298589
+                  ]
+            },
+            {
+                  "name": "Infinity Pool Alpine Family Resort Seetal",
+                  "text": "This infinity pool at Alpine Family Resort Seetal in Zillertal offers an exclusive bathing experience with mountain views.",
+                  "category": "recreational",
+                  "coords": [
+                        11.870585,
+                        47.290831
                   ]
             }
       ]

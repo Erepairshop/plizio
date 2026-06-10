@@ -400,6 +400,24 @@ export const austriaHistoryV2: POI[] = [
                         13.919667,
                         48.231673
                   ]
+            },
+            {
+                  "name": "Zoo Schmiding",
+                  "text": "Ein großer Zoo mit einem bedeutenden Aquazoo und einer Greifvogelanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955546,
+                        48.194292
+                  ]
+            },
+            {
+                  "name": "Samareiner Freibad",
+                  "text": "Ein öffentlicher Wasserpark in der Nähe von Schloss Parz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.928261,
+                        48.264721
+                  ]
             }
       ],
       "hu": [
@@ -455,6 +473,24 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         13.919667,
                         48.231673
+                  ]
+            },
+            {
+                  "name": "Zoo Schmiding",
+                  "text": "Nagy állatkert jelentős akváriummal és ragadozómadár-bemutatóval.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955546,
+                        48.194292
+                  ]
+            },
+            {
+                  "name": "Samareiner Freibad",
+                  "text": "Nyilvános vízi park a Parz-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.928261,
+                        48.264721
                   ]
             }
       ],
@@ -512,6 +548,24 @@ export const austriaHistoryV2: POI[] = [
                         13.919667,
                         48.231673
                   ]
+            },
+            {
+                  "name": "Zoo Schmiding",
+                  "text": "O grădină zoologică mare, cu un acvariu important și o zonă pentru păsări de pradă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955546,
+                        48.194292
+                  ]
+            },
+            {
+                  "name": "Samareiner Freibad",
+                  "text": "Un parc acvatic public în apropierea castelului Parz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.928261,
+                        48.264721
+                  ]
             }
       ],
       "en": [
@@ -567,6 +621,24 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         13.919667,
                         48.231673
+                  ]
+            },
+            {
+                  "name": "Zoo Schmiding",
+                  "text": "A large zoo featuring a significant aquazoo and a birds of prey facility.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955546,
+                        48.194292
+                  ]
+            },
+            {
+                  "name": "Samareiner Freibad",
+                  "text": "A public water park located in the vicinity of Parz Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        13.928261,
+                        48.264721
                   ]
             }
       ]
@@ -688,6 +760,15 @@ export const austriaHistoryV2: POI[] = [
                         14.167959,
                         47.10743
                   ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Hallenbad und Schwimmanlage in der Nähe der Burg Finstergrün.",
+                  "category": "recreational",
+                  "coords": [
+                        14.177107,
+                        47.113022
+                  ]
             }
       ],
       "hu": [
@@ -761,6 +842,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         14.167959,
                         47.10743
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Fedett uszoda és vízi létesítmény Finstergrün vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.177107,
+                        47.113022
                   ]
             }
       ],
@@ -836,6 +926,15 @@ export const austriaHistoryV2: POI[] = [
                         14.167959,
                         47.10743
                   ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Piscină interioară și facilitate de înot lângă Castelul Finstergrün.",
+                  "category": "recreational",
+                  "coords": [
+                        14.177107,
+                        47.113022
+                  ]
             }
       ],
       "en": [
@@ -909,6 +1008,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         14.167959,
                         47.10743
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Indoor swimming facility and pool area near Finstergrün Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        14.177107,
+                        47.113022
                   ]
             }
       ]
@@ -1021,6 +1129,33 @@ export const austriaHistoryV2: POI[] = [
                         14.878588,
                         48.218791
                   ]
+            },
+            {
+                  "name": "Freibad Bad Kreuzen",
+                  "text": "Ein Freibad beim Schloss Greinburg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.808898,
+                        48.262426
+                  ]
+            },
+            {
+                  "name": "Badesee Dornach",
+                  "text": "Ein Badesee beim Schloss Greinburg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.820019,
+                        48.192765
+                  ]
+            },
+            {
+                  "name": "Freibad St. Nikola",
+                  "text": "Ein Freibad in der Nähe des Schlosses Greinburg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.911219,
+                        48.234259
+                  ]
             }
       ],
       "hu": [
@@ -1085,6 +1220,33 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         14.878588,
                         48.218791
+                  ]
+            },
+            {
+                  "name": "Freibad Bad Kreuzen",
+                  "text": "Szabadtéri strand a Greinburg-kastélynál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.808898,
+                        48.262426
+                  ]
+            },
+            {
+                  "name": "Badesee Dornach",
+                  "text": "Fürdőtó a Greinburg-kastélynál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.820019,
+                        48.192765
+                  ]
+            },
+            {
+                  "name": "Freibad St. Nikola",
+                  "text": "Szabadtéri strand a Greinburg-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.911219,
+                        48.234259
                   ]
             }
       ],
@@ -1151,6 +1313,33 @@ export const austriaHistoryV2: POI[] = [
                         14.878588,
                         48.218791
                   ]
+            },
+            {
+                  "name": "Freibad Bad Kreuzen",
+                  "text": "O piscină în aer liber lângă Castelul Greinburg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.808898,
+                        48.262426
+                  ]
+            },
+            {
+                  "name": "Badesee Dornach",
+                  "text": "Un lac pentru scăldat lângă Castelul Greinburg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.820019,
+                        48.192765
+                  ]
+            },
+            {
+                  "name": "Freibad St. Nikola",
+                  "text": "O piscină în aer liber în apropierea Castelului Greinburg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.911219,
+                        48.234259
+                  ]
             }
       ],
       "en": [
@@ -1215,6 +1404,33 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         14.878588,
                         48.218791
+                  ]
+            },
+            {
+                  "name": "Freibad Bad Kreuzen",
+                  "text": "An outdoor swimming pool near Greinburg Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        14.808898,
+                        48.262426
+                  ]
+            },
+            {
+                  "name": "Badesee Dornach",
+                  "text": "A bathing lake near Greinburg Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        14.820019,
+                        48.192765
+                  ]
+            },
+            {
+                  "name": "Freibad St. Nikola",
+                  "text": "An outdoor swimming pool near Greinburg Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        14.911219,
+                        48.234259
                   ]
             }
       ]
@@ -2659,6 +2875,24 @@ export const austriaHistoryV2: POI[] = [
                         15.654709,
                         48.670777
                   ]
+            },
+            {
+                  "name": "Wanzenauer Bad",
+                  "text": "Das Wanzenauer Bad ist ein Badebereich bei der Burgruine Steinegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.589277,
+                        48.627041
+                  ]
+            },
+            {
+                  "name": "Kletterpark",
+                  "text": "Der Kletterpark ist ein Freizeitpark bei der Burgruine Steinegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.630356,
+                        48.628421
+                  ]
             }
       ],
       "hu": [
@@ -2723,6 +2957,24 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.654709,
                         48.670777
+                  ]
+            },
+            {
+                  "name": "Wanzenauer Bad",
+                  "text": "A Wanzenauer Bad egy fürdőhely Steinegg várromainál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.589277,
+                        48.627041
+                  ]
+            },
+            {
+                  "name": "Kletterpark",
+                  "text": "A Kletterpark egy kalandpark Steinegg várromainál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.630356,
+                        48.628421
                   ]
             }
       ],
@@ -2789,6 +3041,24 @@ export const austriaHistoryV2: POI[] = [
                         15.654709,
                         48.670777
                   ]
+            },
+            {
+                  "name": "Wanzenauer Bad",
+                  "text": "Wanzenauer Bad este o zonă de scăldat situată lângă ruinele castelului Steinegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.589277,
+                        48.627041
+                  ]
+            },
+            {
+                  "name": "Kletterpark",
+                  "text": "Kletterpark este un parc tematic situat lângă ruinele castelului Steinegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.630356,
+                        48.628421
+                  ]
             }
       ],
       "en": [
@@ -2853,6 +3123,24 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.654709,
                         48.670777
+                  ]
+            },
+            {
+                  "name": "Wanzenauer Bad",
+                  "text": "Wanzenauer Bad is a swimming area located near the Steinegg Castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        15.589277,
+                        48.627041
+                  ]
+            },
+            {
+                  "name": "Kletterpark",
+                  "text": "Kletterpark is a theme park located near the Steinegg Castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        15.630356,
+                        48.628421
                   ]
             }
       ]
@@ -2965,6 +3253,24 @@ export const austriaHistoryV2: POI[] = [
                         15.773621,
                         48.495842
                   ]
+            },
+            {
+                  "name": "Straußenland",
+                  "text": "Ein spezialisierter Zoo in der Nähe der Burgruine Oedenburg, der sich auf Strauße konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.693358,
+                        48.514502
+                  ]
+            },
+            {
+                  "name": "Kampbad Schönberg-Neustift/Zöbing",
+                  "text": "Ein Naturbadebereich in der Region Oedenburg, ideal für eine Erfrischung im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        15.694257,
+                        48.498497
+                  ]
             }
       ],
       "hu": [
@@ -3029,6 +3335,24 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.773621,
                         48.495842
+                  ]
+            },
+            {
+                  "name": "Straußenland",
+                  "text": "Speciális állatkert az Oedenburg várrom közelében, amely struccokra összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        15.693358,
+                        48.514502
+                  ]
+            },
+            {
+                  "name": "Kampbad Schönberg-Neustift/Zöbing",
+                  "text": "Természetes fürdőhely az Oedenburg régióban, amely ideális nyári felfrissülésre.",
+                  "category": "recreational",
+                  "coords": [
+                        15.694257,
+                        48.498497
                   ]
             }
       ],
@@ -3095,6 +3419,24 @@ export const austriaHistoryV2: POI[] = [
                         15.773621,
                         48.495842
                   ]
+            },
+            {
+                  "name": "Straußenland",
+                  "text": "O grădină zoologică specializată lângă ruinele castelului Oedenburg, concentrată pe struți.",
+                  "category": "recreational",
+                  "coords": [
+                        15.693358,
+                        48.514502
+                  ]
+            },
+            {
+                  "name": "Kampbad Schönberg-Neustift/Zöbing",
+                  "text": "O zonă naturală de scăldat în regiunea Oedenburg, ideală pentru o răcorire de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        15.694257,
+                        48.498497
+                  ]
             }
       ],
       "en": [
@@ -3159,6 +3501,24 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.773621,
                         48.495842
+                  ]
+            },
+            {
+                  "name": "Straußenland",
+                  "text": "A specialized zoo near the Oedenburg castle ruins, focusing on ostriches.",
+                  "category": "recreational",
+                  "coords": [
+                        15.693358,
+                        48.514502
+                  ]
+            },
+            {
+                  "name": "Kampbad Schönberg-Neustift/Zöbing",
+                  "text": "A natural swimming area in the Oedenburg region, ideal for summer refreshment.",
+                  "category": "recreational",
+                  "coords": [
+                        15.694257,
+                        48.498497
                   ]
             }
       ]
@@ -4621,6 +4981,15 @@ export const austriaHistoryV2: POI[] = [
                         15.792105,
                         48.529086
                   ]
+            },
+            {
+                  "name": "ehem. Hallenbad Sauna Solarium Ravelsbach",
+                  "text": "Ehemalige Freizeiteinrichtung mit Schwimmbad und Sauna in der Nähe der Burgruine Neudegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.852326,
+                        48.55316
+                  ]
             }
       ],
       "hu": [
@@ -4676,6 +5045,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.792105,
                         48.529086
+                  ]
+            },
+            {
+                  "name": "ehem. Hallenbad Sauna Solarium Ravelsbach",
+                  "text": "Egykori szabadidős létesítmény úszómedencével és szaunával a neudeggi várrom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.852326,
+                        48.55316
                   ]
             }
       ],
@@ -4733,6 +5111,15 @@ export const austriaHistoryV2: POI[] = [
                         15.792105,
                         48.529086
                   ]
+            },
+            {
+                  "name": "ehem. Hallenbad Sauna Solarium Ravelsbach",
+                  "text": "O fostă facilitate de agrement cu piscină și saună în apropierea ruinelor castelului Neudegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.852326,
+                        48.55316
+                  ]
             }
       ],
       "en": [
@@ -4788,6 +5175,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.792105,
                         48.529086
+                  ]
+            },
+            {
+                  "name": "ehem. Hallenbad Sauna Solarium Ravelsbach",
+                  "text": "A former leisure facility featuring a swimming pool and sauna near the Neudegg castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        15.852326,
+                        48.55316
                   ]
             }
       ]
@@ -4873,6 +5269,15 @@ export const austriaHistoryV2: POI[] = [
                         15.471794,
                         48.306359
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Ein Wasserpark im Wald in der Nähe der Burgruine Gansbach.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
+                  ]
             }
       ],
       "hu": [
@@ -4910,6 +5315,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.471794,
                         48.306359
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Erdei vízi park a gansbachi várrom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
                   ]
             }
       ],
@@ -4949,6 +5363,15 @@ export const austriaHistoryV2: POI[] = [
                         15.471794,
                         48.306359
                   ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "Un parc acvatic în pădure, situat lângă ruinele castelului Gansbach.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
+                  ]
             }
       ],
       "en": [
@@ -4986,6 +5409,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.471794,
                         48.306359
+                  ]
+            },
+            {
+                  "name": "Waldbad",
+                  "text": "A water park located in the forest near the Gansbach castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        15.425094,
+                        48.297226
                   ]
             }
       ]
@@ -5143,6 +5575,15 @@ export const austriaHistoryV2: POI[] = [
                         14.892817,
                         48.700725
                   ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Ein öffentliches Hallenbad beim Schloss Weitra, das ganzjähriges Schwimmvergnügen ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        14.893657,
+                        48.704523
+                  ]
             }
       ],
       "hu": [
@@ -5207,6 +5648,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         14.892817,
                         48.700725
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Nyilvános fedett uszoda a weitrai kastély közelében, amely egész évben lehetőséget biztosít az úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.893657,
+                        48.704523
                   ]
             }
       ],
@@ -5273,6 +5723,15 @@ export const austriaHistoryV2: POI[] = [
                         14.892817,
                         48.700725
                   ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "O piscină acoperită publică lângă Castelul Weitra, care permite înotul pe tot parcursul anului.",
+                  "category": "recreational",
+                  "coords": [
+                        14.893657,
+                        48.704523
+                  ]
             }
       ],
       "en": [
@@ -5337,6 +5796,15 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         14.892817,
                         48.700725
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "A public indoor swimming pool by Weitra Castle, offering year-round swimming opportunities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.893657,
+                        48.704523
                   ]
             }
       ]

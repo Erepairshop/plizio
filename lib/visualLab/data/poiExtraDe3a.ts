@@ -2299,6 +2299,15 @@ export const poiExtraDe3a: POI[] = [
                         8.57495,
                         54.691649
                   ]
+            },
+            {
+                  "name": "Aquaföhr",
+                  "text": "Ein Wasserpark auf der Insel Föhr, der Badespaß für die ganze Familie bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.567295,
+                        54.682988
+                  ]
             }
       ],
       "hu": [
@@ -2372,6 +2381,15 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         8.57495,
                         54.691649
+                  ]
+            },
+            {
+                  "name": "Aquaföhr",
+                  "text": "Vízi park Föhr szigetén, amely fürdőzési élményt nyújt az egész családnak.",
+                  "category": "recreational",
+                  "coords": [
+                        8.567295,
+                        54.682988
                   ]
             }
       ],
@@ -2447,6 +2465,15 @@ export const poiExtraDe3a: POI[] = [
                         8.57495,
                         54.691649
                   ]
+            },
+            {
+                  "name": "Aquaföhr",
+                  "text": "Un parc acvatic pe insula Föhr, oferind distracție la scăldat pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        8.567295,
+                        54.682988
+                  ]
             }
       ],
       "en": [
@@ -2520,6 +2547,15 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         8.57495,
                         54.691649
+                  ]
+            },
+            {
+                  "name": "Aquaföhr",
+                  "text": "A water park on the island of Föhr, offering aquatic fun and recreation for families.",
+                  "category": "recreational",
+                  "coords": [
+                        8.567295,
+                        54.682988
                   ]
             }
       ]

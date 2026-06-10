@@ -1921,6 +1921,24 @@ export const switzerlandLifeV2: POI[] = [
                         7.767715,
                         47.356233
                   ]
+            },
+            {
+                  "name": "Hallenbad Brühl",
+                  "text": "Ein öffentliches Hallenbad in der Region des Naturparks Thal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.698575,
+                        47.34182
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Egerkingen",
+                  "text": "Ein Schwimmbad in Egerkingen innerhalb des Naturparks Thal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.792592,
+                        47.318976
+                  ]
             }
       ],
       "hu": [
@@ -1994,6 +2012,24 @@ export const switzerlandLifeV2: POI[] = [
                   "coords": [
                         7.767715,
                         47.356233
+                  ]
+            },
+            {
+                  "name": "Hallenbad Brühl",
+                  "text": "Nyilvános fedett uszoda a Thal Természetvédelmi Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.698575,
+                        47.34182
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Egerkingen",
+                  "text": "Egerkingeni úszómedence a Thal Természetvédelmi Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.792592,
+                        47.318976
                   ]
             }
       ],
@@ -2069,6 +2105,24 @@ export const switzerlandLifeV2: POI[] = [
                         7.767715,
                         47.356233
                   ]
+            },
+            {
+                  "name": "Hallenbad Brühl",
+                  "text": "O piscină acoperită publică situată în regiunea Parcului Natural Thal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.698575,
+                        47.34182
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Egerkingen",
+                  "text": "O piscină situată în Egerkingen, în cadrul Parcului Natural Thal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.792592,
+                        47.318976
+                  ]
             }
       ],
       "en": [
@@ -2142,6 +2196,24 @@ export const switzerlandLifeV2: POI[] = [
                   "coords": [
                         7.767715,
                         47.356233
+                  ]
+            },
+            {
+                  "name": "Hallenbad Brühl",
+                  "text": "A public indoor swimming pool located in the Thal Nature Park region.",
+                  "category": "recreational",
+                  "coords": [
+                        7.698575,
+                        47.34182
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Egerkingen",
+                  "text": "A swimming pool located in Egerkingen within the Thal Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        7.792592,
+                        47.318976
                   ]
             }
       ]
@@ -2839,6 +2911,15 @@ export const switzerlandLifeV2: POI[] = [
                         7.062818,
                         47.409374
                   ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "Ein Hallenbad, das ganzjähriges Schwimmen unabhängig vom Wetter ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
+                  ]
             }
       ],
       "hu": [
@@ -2912,6 +2993,15 @@ export const switzerlandLifeV2: POI[] = [
                   "coords": [
                         7.062818,
                         47.409374
+                  ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "Fedett uszoda, amely az időjárástól függetlenül egész évben várja az úszókat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
                   ]
             }
       ],
@@ -2987,6 +3077,15 @@ export const switzerlandLifeV2: POI[] = [
                         7.062818,
                         47.409374
                   ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "O piscină acoperită care permite înotul pe tot parcursul anului, indiferent de vreme.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
+                  ]
             }
       ],
       "en": [
@@ -3060,6 +3159,15 @@ export const switzerlandLifeV2: POI[] = [
                   "coords": [
                         7.062818,
                         47.409374
+                  ]
+            },
+            {
+                  "name": "piscine couverte",
+                  "text": "An indoor swimming pool allowing year-round swimming regardless of weather.",
+                  "category": "recreational",
+                  "coords": [
+                        7.076709,
+                        47.42125
                   ]
             }
       ]

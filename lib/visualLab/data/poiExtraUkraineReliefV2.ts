@@ -1170,6 +1170,60 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                         34.055822,
                         44.433044
                   ]
+            },
+            {
+                  "name": "Пляж пансионата Беларусь",
+                  "text": "Ein Strandresort, das zum Belarussia-Sanatorium am Fuße des Ai-Petri gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "VIP-Pliazh kompleksa Respect Hall",
+                  "text": "Ein exklusiver Strandabschnitt des Respect Hall Komplexes am Fuße des Ai-Petri Gebirges.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Pliazh sanatoriia Belorussiia",
+                  "text": "Ein privater Strand des Sanatoriums Belorussiia in der Nähe der Küstenstadt Alupka.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Bassein pri poliklinike",
+                  "text": "Ein Schwimmbecken, das an eine medizinische Einrichtung in der Region Ai-Petri angegliedert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.089594,
+                        44.429244
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Alupki",
+                  "text": "Der öffentliche Stadtstrand von Alupka, der Bademöglichkeiten am Schwarzen Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Gornoe solntse",
+                  "text": "Ein Strandresort in der Region Alupka, bekannt für seine Lage am Fuße des Krimgebirges.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
+                  ]
             }
       ],
       "hu": [
@@ -1234,6 +1288,60 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   "coords": [
                         34.055822,
                         44.433044
+                  ]
+            },
+            {
+                  "name": "Пляж пансионата Беларусь",
+                  "text": "A Belarusszia szanatóriumhoz tartozó strand az Aj-Petri lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "VIP-Pliazh kompleksa Respect Hall",
+                  "text": "A Respect Hall komplexum exkluzív strandja az Ai-Petri hegység lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Pliazh sanatoriia Belorussiia",
+                  "text": "A Belorusszija szanatórium privát strandja Alupka tengerparti városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Bassein pri poliklinike",
+                  "text": "Egy orvosi intézményhez kapcsolódó úszómedence az Ai-Petri régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.089594,
+                        44.429244
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Alupki",
+                  "text": "Alupka nyilvános városi strandja, amely fürdési lehetőséget biztosít a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Gornoe solntse",
+                  "text": "Strandüdülő Alupka térségében, amely a Krími-hegység lábánál fekvő fekvéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
                   ]
             }
       ],
@@ -1300,6 +1408,60 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                         34.055822,
                         44.433044
                   ]
+            },
+            {
+                  "name": "Пляж пансионата Беларусь",
+                  "text": "O plajă ce aparține sanatoriului Belarussia, la poalele muntelui Ai-Petri.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "VIP-Pliazh kompleksa Respect Hall",
+                  "text": "O secțiune de plajă exclusivistă a complexului Respect Hall, situată la poalele muntelui Ai-Petri.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Pliazh sanatoriia Belorussiia",
+                  "text": "O plajă privată a sanatoriului Belorussiia, situată în apropierea orașului de coastă Alupka.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Bassein pri poliklinike",
+                  "text": "O piscină atașată unei unități medicale din regiunea Ai-Petri.",
+                  "category": "recreational",
+                  "coords": [
+                        34.089594,
+                        44.429244
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Alupki",
+                  "text": "Plaja publică a orașului Alupka, oferind acces la apele Mării Negre pentru scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Gornoe solntse",
+                  "text": "O stațiune de plajă în zona Alupka, cunoscută pentru locația sa de la poalele Munților Crimeii.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
+                  ]
             }
       ],
       "en": [
@@ -1364,6 +1526,60 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   "coords": [
                         34.055822,
                         44.433044
+                  ]
+            },
+            {
+                  "name": "Belarussia sanatorium beach",
+                  "text": "A beach resort belonging to the Belarussia sanatorium at the foot of Ai-Petri.",
+                  "category": "recreational",
+                  "coords": [
+                        34.082753,
+                        44.42474
+                  ]
+            },
+            {
+                  "name": "VIP-Pliazh kompleksa Respect Hall",
+                  "text": "An exclusive beach area of the Respect Hall complex, located at the foot of the Ai-Petri mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        34.079098,
+                        44.423355
+                  ]
+            },
+            {
+                  "name": "Pliazh sanatoriia Belorussiia",
+                  "text": "A private beach belonging to the Belorussiia sanatorium near the coastal town of Alupka.",
+                  "category": "recreational",
+                  "coords": [
+                        34.081138,
+                        44.424078
+                  ]
+            },
+            {
+                  "name": "Bassein pri poliklinike",
+                  "text": "A swimming pool attached to a medical facility in the Ai-Petri region.",
+                  "category": "recreational",
+                  "coords": [
+                        34.089594,
+                        44.429244
+                  ]
+            },
+            {
+                  "name": "Gorodskoi pliazh Alupki",
+                  "text": "The public municipal beach of Alupka, providing access to the Black Sea for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        34.059596,
+                        44.420849
+                  ]
+            },
+            {
+                  "name": "Gornoe solntse",
+                  "text": "A beach resort in the Alupka region, known for its location at the foot of the Crimean Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        34.051578,
+                        44.41792
                   ]
             }
       ]
@@ -1749,6 +1965,51 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
                         35.220877,
                         44.932661
                   ]
+            },
+            {
+                  "name": "Пляж у дельфинария",
+                  "text": "Dieser Strand befindet sich beim Delphinarium im Gebiet des Karadag-Naturreservats.",
+                  "category": "recreational",
+                  "coords": [
+                        35.203128,
+                        44.912256
+                  ]
+            },
+            {
+                  "name": "Дельфинарий",
+                  "text": "Ein Zoo und Delfinarium in Karadag, das Vorführungen mit Meerestieren anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.259338,
+                        44.964923
+                  ]
+            },
+            {
+                  "name": "Detskii akvapark",
+                  "text": "Ein kleiner Wasserpark für Kinder im Gebiet des Karadag-Naturreservats.",
+                  "category": "recreational",
+                  "coords": [
+                        35.2539,
+                        44.961638
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Koktebel'\"",
+                  "text": "Ein großer Wasserpark in Koktebel mit vielfältigen Rutschen und Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        35.255426,
+                        44.966647
+                  ]
+            },
+            {
+                  "name": "Dinoterii",
+                  "text": "Ein Vogelpark und Zoo bei Karadag, der verschiedene Tierarten präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.221779,
+                        44.961579
+                  ]
             }
       ],
       "hu": [
@@ -1759,6 +2020,51 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
                   "coords": [
                         35.220877,
                         44.932661
+                  ]
+            },
+            {
+                  "name": "Пляж у дельфинария",
+                  "text": "Ez a strand a Karadag természetvédelmi területen található delfinárium közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        35.203128,
+                        44.912256
+                  ]
+            },
+            {
+                  "name": "Дельфинарий",
+                  "text": "Egy állatkert és delfinárium Karadagban, ahol tengeri állatok bemutatóit láthatják a látogatók.",
+                  "category": "recreational",
+                  "coords": [
+                        35.259338,
+                        44.964923
+                  ]
+            },
+            {
+                  "name": "Detskii akvapark",
+                  "text": "Gyermekeknek szóló kisebb vízipark a Karadag Természetvédelmi Területen.",
+                  "category": "recreational",
+                  "coords": [
+                        35.2539,
+                        44.961638
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Koktebel'\"",
+                  "text": "Nagy vízipark Koktebelben, változatos csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.255426,
+                        44.966647
+                  ]
+            },
+            {
+                  "name": "Dinoterii",
+                  "text": "Madárpark és állatkert Karadag mellett, ahol különböző fajokat mutatnak be.",
+                  "category": "recreational",
+                  "coords": [
+                        35.221779,
+                        44.961579
                   ]
             }
       ],
@@ -1771,6 +2077,51 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
                         35.220877,
                         44.932661
                   ]
+            },
+            {
+                  "name": "Пляж у дельфинария",
+                  "text": "Această plajă este situată lângă delfinariul din zona rezervației naturale Karadag.",
+                  "category": "recreational",
+                  "coords": [
+                        35.203128,
+                        44.912256
+                  ]
+            },
+            {
+                  "name": "Дельфинарий",
+                  "text": "O grădină zoologică și delfinariu situat în Karadag, care oferă spectacole cu animale marine.",
+                  "category": "recreational",
+                  "coords": [
+                        35.259338,
+                        44.964923
+                  ]
+            },
+            {
+                  "name": "Detskii akvapark",
+                  "text": "Un mic parc acvatic pentru copii în zona rezervației naturale Karadag.",
+                  "category": "recreational",
+                  "coords": [
+                        35.2539,
+                        44.961638
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Koktebel'\"",
+                  "text": "Un parc acvatic mare în Koktebel, cu diverse tobogane și bazine.",
+                  "category": "recreational",
+                  "coords": [
+                        35.255426,
+                        44.966647
+                  ]
+            },
+            {
+                  "name": "Dinoterii",
+                  "text": "Un parc de păsări și grădină zoologică lângă Karadag, prezentând diverse specii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.221779,
+                        44.961579
+                  ]
             }
       ],
       "en": [
@@ -1781,6 +2132,51 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
                   "coords": [
                         35.220877,
                         44.932661
+                  ]
+            },
+            {
+                  "name": "Пляж у дельфинария",
+                  "text": "This beach is located by the dolphinarium in the Karadag nature reserve area.",
+                  "category": "recreational",
+                  "coords": [
+                        35.203128,
+                        44.912256
+                  ]
+            },
+            {
+                  "name": "Dolphinarium",
+                  "text": "A zoo and dolphinarium located in Karadag, featuring marine animal shows.",
+                  "category": "recreational",
+                  "coords": [
+                        35.259338,
+                        44.964923
+                  ]
+            },
+            {
+                  "name": "Detskii akvapark",
+                  "text": "A small water park for children located in the Karadag nature reserve area.",
+                  "category": "recreational",
+                  "coords": [
+                        35.2539,
+                        44.961638
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Koktebel'\"",
+                  "text": "A large water park in Koktebel featuring various slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        35.255426,
+                        44.966647
+                  ]
+            },
+            {
+                  "name": "Dinoterii",
+                  "text": "A bird park and zoo near Karadag showcasing various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        35.221779,
+                        44.961579
                   ]
             }
       ]
@@ -2040,6 +2436,15 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                         24.083888,
                         48.529708
                   ]
+            },
+            {
+                  "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
+                  "text": "Ein handgefertigtes öffentliches Bad am Berg Sywulja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.148832,
+                        48.579993
+                  ]
             }
       ],
       "hu": [
@@ -2113,6 +2518,15 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   "coords": [
                         24.083888,
                         48.529708
+                  ]
+            },
+            {
+                  "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
+                  "text": "Kézzel épített közfürdő a Szivulja-hegyen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.148832,
+                        48.579993
                   ]
             }
       ],
@@ -2188,6 +2602,15 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                         24.083888,
                         48.529708
                   ]
+            },
+            {
+                  "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
+                  "text": "O baie publică artizanală pe muntele Syvulia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.148832,
+                        48.579993
+                  ]
             }
       ],
       "en": [
@@ -2261,6 +2684,15 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   "coords": [
                         24.083888,
                         48.529708
+                  ]
+            },
+            {
+                  "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
+                  "text": "A handmade public bath on Mount Syvulia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.148832,
+                        48.579993
                   ]
             }
       ]
@@ -2998,7 +3430,88 @@ imageHint: "Summit obelisk on top of Mount Pikuy",
     },
     image: "/poi-images/ukraine-mount-pikuy-relief-v2.webp",
 },  {
-    id: "ukraine-mount-kamula-relief-v2",
+    id: "ukraine-mount-kamula-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "URURU",
+                  "text": "Ein Freizeitpark in der Nähe des Berges Kamula, der verschiedene Attraktionen für Besucher bereithält.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "Ein Abenteuerpark am Berg Kamula, der Aktivitäten im Freien und Kletterparcours anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "URURU",
+                  "text": "Vidámpark a Kamula-hegy közelében, amely különféle látnivalókat kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "Kalandpark a Kamula-hegyen, amely szabadtéri tevékenységeket és mászópályákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "URURU",
+                  "text": "Un parc tematic lângă Muntele Kamula, care oferă diverse atracții pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "Un parc de aventură pe Muntele Kamula, care oferă activități în aer liber și trasee de cățărare.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "URURU",
+                  "text": "A theme park near Mount Kamula, featuring various attractions for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        24.224698,
+                        49.693935
+                  ]
+            },
+            {
+                  "name": "MOTUZKOVII PARK",
+                  "text": "An adventure park at Mount Kamula, offering outdoor activities and climbing courses.",
+                  "category": "recreational",
+                  "coords": [
+                        24.221375,
+                        49.687664
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "peak",
     name: { de: "Kamula", hu: "Kamula", ro: "Camula", en: "Mount Kamula"},
@@ -3522,6 +4035,15 @@ imageHint: "Rolling plateau of the Azov Upland",
                         24.745154,
                         48.921531
                   ]
+            },
+            {
+                  "name": "Family Club H2O",
+                  "text": "Der Family Club H2O ist ein Schwimmbecken auf dem Iwano-Frankiwsk-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        24.704432,
+                        48.922448
+                  ]
             }
       ],
       "hu": [
@@ -3586,6 +4108,15 @@ imageHint: "Rolling plateau of the Azov Upland",
                   "coords": [
                         24.745154,
                         48.921531
+                  ]
+            },
+            {
+                  "name": "Family Club H2O",
+                  "text": "A Family Club H2O egy úszómedence az Ivano-frankivszki-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        24.704432,
+                        48.922448
                   ]
             }
       ],
@@ -3652,6 +4183,15 @@ imageHint: "Rolling plateau of the Azov Upland",
                         24.745154,
                         48.921531
                   ]
+            },
+            {
+                  "name": "Family Club H2O",
+                  "text": "Family Club H2O este o piscină situată pe platoul Ivano-Frankivsk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.704432,
+                        48.922448
+                  ]
             }
       ],
       "en": [
@@ -3716,6 +4256,15 @@ imageHint: "Rolling plateau of the Azov Upland",
                   "coords": [
                         24.745154,
                         48.921531
+                  ]
+            },
+            {
+                  "name": "Family Club H2O",
+                  "text": "Family Club H2O is a swimming pool located on the Ivano-Frankivsk Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        24.704432,
+                        48.922448
                   ]
             }
       ]
@@ -3926,7 +4475,52 @@ imageHint: "Rolling plateau of the Azov Upland",
     image: "/poi-images/ukraine-mount-tytov-relief-v2.webp",
   },
   {
-    id: "ukraine-burshtyn-lowland-relief-v2",
+    id: "ukraine-burshtyn-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basein",
+                  "text": "Eine lokale Schwimmeinrichtung in der Region der Burschtyn-Niederung.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basein",
+                  "text": "Helyi úszólétesítmény a Burshtyn-alföld területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basein",
+                  "text": "O unitate locală de înot situată în regiunea câmpiei Burștîn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basein",
+                  "text": "A local swimming facility situated in the Burshtyn Lowland region.",
+                  "category": "recreational",
+                  "coords": [
+                        24.635491,
+                        49.251699
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "UA",
     name: { de: "Burschtyner Niederung", hu: "Bursztyni-alföld", ro: "Câmpia Burștîn", en: "Burshtyn Lowland" },
@@ -4296,6 +4890,51 @@ imageHint: "Rolling plateau of the Azov Upland",
                         24.405967,
                         48.359489
                   ]
+            },
+            {
+                  "name": "Bukovel's'ki chani",
+                  "text": "Traditionelle Badebottiche am Berg Dowbuschanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409961,
+                        48.355916
+                  ]
+            },
+            {
+                  "name": "Motuzkovii park",
+                  "text": "Ein Freizeitpark in der Region des Berges Dowbuschanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406992,
+                        48.358092
+                  ]
+            },
+            {
+                  "name": "Ban'ka na drovakh",
+                  "text": "Ein traditionelles öffentliches Badehaus in der Nähe des Berges Dowbuschanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409673,
+                        48.356885
+                  ]
+            },
+            {
+                  "name": "Gutsul Lend",
+                  "text": "Ein Ethno-Freizeitpark in der Region des Berges Dowbuschanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.401911,
+                        48.370732
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Mavka\" Bukovel'",
+                  "text": "Ein moderner Wasserpark im Skigebiet Bukowela in der Nähe des Berges Dowbuschanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.403053,
+                        48.369267
+                  ]
             }
       ],
       "hu": [
@@ -4351,6 +4990,51 @@ imageHint: "Rolling plateau of the Azov Upland",
                   "coords": [
                         24.405967,
                         48.359489
+                  ]
+            },
+            {
+                  "name": "Bukovel's'ki chani",
+                  "text": "Hagyományos fürdődézsák a Dovbusanka-hegyen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409961,
+                        48.355916
+                  ]
+            },
+            {
+                  "name": "Motuzkovii park",
+                  "text": "Egy élménypark a Dovbusanka-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406992,
+                        48.358092
+                  ]
+            },
+            {
+                  "name": "Ban'ka na drovakh",
+                  "text": "Hagyományos nyilvános fürdő a Dovbusanka-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409673,
+                        48.356885
+                  ]
+            },
+            {
+                  "name": "Gutsul Lend",
+                  "text": "Egy néprajzi élménypark a Dovbusanka-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.401911,
+                        48.370732
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Mavka\" Bukovel'",
+                  "text": "Modern vízipark Bukovel üdülőhelyen, a Dovbusanka-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.403053,
+                        48.369267
                   ]
             }
       ],
@@ -4408,6 +5092,51 @@ imageHint: "Rolling plateau of the Azov Upland",
                         24.405967,
                         48.359489
                   ]
+            },
+            {
+                  "name": "Bukovel's'ki chani",
+                  "text": "Băi tradiționale cu ciubere pe muntele Dovbushanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409961,
+                        48.355916
+                  ]
+            },
+            {
+                  "name": "Motuzkovii park",
+                  "text": "Un parc de distracții situat în zona Muntelui Dovbușanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406992,
+                        48.358092
+                  ]
+            },
+            {
+                  "name": "Ban'ka na drovakh",
+                  "text": "O baie publică tradițională situată lângă Muntele Dovbușanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409673,
+                        48.356885
+                  ]
+            },
+            {
+                  "name": "Gutsul Lend",
+                  "text": "Un parc tematic etnografic situat în regiunea Muntelui Dovbușanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.401911,
+                        48.370732
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Mavka\" Bukovel'",
+                  "text": "Un parc acvatic modern situat în stațiunea Bukovel de lângă Muntele Dovbușanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.403053,
+                        48.369267
+                  ]
             }
       ],
       "en": [
@@ -4463,6 +5192,51 @@ imageHint: "Rolling plateau of the Azov Upland",
                   "coords": [
                         24.405967,
                         48.359489
+                  ]
+            },
+            {
+                  "name": "Bukovel's'ki chani",
+                  "text": "Traditional bathing vats on Mount Dovbushanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409961,
+                        48.355916
+                  ]
+            },
+            {
+                  "name": "Motuzkovii park",
+                  "text": "A theme park located in the Mount Dovbushanka area.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406992,
+                        48.358092
+                  ]
+            },
+            {
+                  "name": "Ban'ka na drovakh",
+                  "text": "A traditional public bathhouse situated near Mount Dovbushanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.409673,
+                        48.356885
+                  ]
+            },
+            {
+                  "name": "Gutsul Lend",
+                  "text": "An ethno-theme park located in the Mount Dovbushanka region.",
+                  "category": "recreational",
+                  "coords": [
+                        24.401911,
+                        48.370732
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Mavka\" Bukovel'",
+                  "text": "A modern water park located in the Bukovel resort area near Mount Dovbushanka.",
+                  "category": "recreational",
+                  "coords": [
+                        24.403053,
+                        48.369267
                   ]
             }
       ]

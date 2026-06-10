@@ -7073,6 +7073,15 @@ export const finlandCulture: POI[] = [
                         28.895375,
                         61.871881
                   ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "Das Savonlinnan uimahalli ist eine öffentliche Schwimmhalle in Savonlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
+                  ]
             }
       ],
       "hu": [
@@ -7146,6 +7155,15 @@ export const finlandCulture: POI[] = [
                   "coords": [
                         28.895375,
                         61.871881
+                  ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "A Savonlinnan uimahalli egy nyilvános uszoda Savonlinnában.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
                   ]
             }
       ],
@@ -7221,6 +7239,15 @@ export const finlandCulture: POI[] = [
                         28.895375,
                         61.871881
                   ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "Savonlinnan uimahalli este o piscină publică situată în Savonlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
+                  ]
             }
       ],
       "en": [
@@ -7294,6 +7321,15 @@ export const finlandCulture: POI[] = [
                   "coords": [
                         28.895375,
                         61.871881
+                  ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "Savonlinnan uimahalli is a public swimming pool located in Savonlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
                   ]
             }
       ]
@@ -9342,6 +9378,15 @@ export const finlandCities: POI[] = [
                         25.485783,
                         64.989762
                   ]
+            },
+            {
+                  "name": "Vauhtipuisto",
+                  "text": "Ein familienorientierter Vergnügungspark in Oulu, der speziell für jüngere Kinder konzipiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.419471,
+                        65.028463
+                  ]
             }
       ],
       "hu": [
@@ -9991,6 +10036,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.485783,
                         64.989762
+                  ]
+            },
+            {
+                  "name": "Vauhtipuisto",
+                  "text": "Családbarát vidámpark Ouluban, amelyet kifejezetten kisgyermekek számára terveztek.",
+                  "category": "recreational",
+                  "coords": [
+                        25.419471,
+                        65.028463
                   ]
             }
       ],
@@ -10642,6 +10696,15 @@ export const finlandCities: POI[] = [
                         25.485783,
                         64.989762
                   ]
+            },
+            {
+                  "name": "Vauhtipuisto",
+                  "text": "Un parc de distracții orientat spre familii din Oulu, conceput special pentru copiii mici.",
+                  "category": "recreational",
+                  "coords": [
+                        25.419471,
+                        65.028463
+                  ]
             }
       ],
       "en": [
@@ -11292,6 +11355,15 @@ export const finlandCities: POI[] = [
                         25.485783,
                         64.989762
                   ]
+            },
+            {
+                  "name": "Vauhtipuisto",
+                  "text": "A family-oriented amusement park in Oulu designed especially for younger children.",
+                  "category": "recreational",
+                  "coords": [
+                        25.419471,
+                        65.028463
+                  ]
             }
       ]
 },
@@ -11564,6 +11636,15 @@ export const finlandCities: POI[] = [
                         25.00596,
                         60.281333
                   ]
+            },
+            {
+                  "name": "Koivuhaan lammasaitaus",
+                  "text": "Schafgehege im Stadtteil Koivuhaka von Vantaa, in dem Besucher weidende Tiere sehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        25.011896,
+                        60.30428
+                  ]
             }
       ],
       "hu": [
@@ -11790,6 +11871,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.00596,
                         60.281333
+                  ]
+            },
+            {
+                  "name": "Koivuhaan lammasaitaus",
+                  "text": "Juhkarám Vantaa Koivuhaka negyedében, ahol a látogatók legelésző állatokat láthatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.011896,
+                        60.30428
                   ]
             }
       ],
@@ -12018,6 +12108,15 @@ export const finlandCities: POI[] = [
                         25.00596,
                         60.281333
                   ]
+            },
+            {
+                  "name": "Koivuhaan lammasaitaus",
+                  "text": "Țarc pentru oi în zona Koivuhaka din Vantaa, unde vizitatorii pot vedea animalele la păscut.",
+                  "category": "landmark",
+                  "coords": [
+                        25.011896,
+                        60.30428
+                  ]
             }
       ],
       "en": [
@@ -12244,6 +12343,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.00596,
                         60.281333
+                  ]
+            },
+            {
+                  "name": "Koivuhaan lammasaitaus",
+                  "text": "Sheep enclosure in the Koivuhaka area of Vantaa where visitors can see grazing animals.",
+                  "category": "landmark",
+                  "coords": [
+                        25.011896,
+                        60.30428
                   ]
             }
       ]
@@ -25829,6 +25937,15 @@ export const finlandCultureExtended: POI[] = [
                         28.895375,
                         61.871881
                   ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "Das örtliche Hallenbad in Savonlinna, nahe der Burg Olavinlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
+                  ]
             }
       ],
       "hu": [
@@ -25911,6 +26028,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         28.895375,
                         61.871881
+                  ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "Savonlinna helyi uszodája, az Olavinlinna vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
                   ]
             }
       ],
@@ -25995,6 +26121,15 @@ export const finlandCultureExtended: POI[] = [
                         28.895375,
                         61.871881
                   ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "Piscina interioară locală din Savonlinna, lângă Castelul Olavinlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
+                  ]
             }
       ],
       "en": [
@@ -26078,6 +26213,15 @@ export const finlandCultureExtended: POI[] = [
                         28.895375,
                         61.871881
                   ]
+            },
+            {
+                  "name": "Savonlinnan uimahalli",
+                  "text": "The local indoor swimming pool in Savonlinna, near Olavinlinna Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        28.879587,
+                        61.864424
+                  ]
             }
       ]
 },
@@ -26152,6 +26296,15 @@ export const finlandCultureExtended: POI[] = [
                         24.86749,
                         60.171948
                   ]
+            },
+            {
+                  "name": "Kasinonranta",
+                  "text": "Kasinonranta ist ein beliebter Stadtstrand in Helsinki, der Erholung am Finnischen Meerbusen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.87178,
+                        60.155129
+                  ]
             }
       ],
       "hu": [
@@ -26180,6 +26333,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         24.86749,
                         60.171948
+                  ]
+            },
+            {
+                  "name": "Kasinonranta",
+                  "text": "A Kasinonranta egy népszerű városi strand Helsinkiben, amely kikapcsolódást kínál a Finn-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        24.87178,
+                        60.155129
                   ]
             }
       ],
@@ -26210,6 +26372,15 @@ export const finlandCultureExtended: POI[] = [
                         24.86749,
                         60.171948
                   ]
+            },
+            {
+                  "name": "Kasinonranta",
+                  "text": "Kasinonranta este o plajă urbană populară din Helsinki, oferind relaxare pe malul Golfului Finlandei.",
+                  "category": "recreational",
+                  "coords": [
+                        24.87178,
+                        60.155129
+                  ]
             }
       ],
       "en": [
@@ -26238,6 +26409,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         24.86749,
                         60.171948
+                  ]
+            },
+            {
+                  "name": "Kasinonranta",
+                  "text": "Kasinonranta is a popular urban beach in Helsinki, offering relaxation on the shores of the Gulf of Finland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.87178,
+                        60.155129
                   ]
             }
       ]
@@ -26544,6 +26724,15 @@ export const finlandCultureExtended: POI[] = [
                         25.183938,
                         62.250077
                   ]
+            },
+            {
+                  "name": "Kirkonkylän uimaranta",
+                  "text": "Ein öffentlicher Badestrand am See in der Nähe der alten Kirche von Petäjävesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.164158,
+                        62.262196
+                  ]
             }
       ],
       "hu": [
@@ -26581,6 +26770,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         25.183938,
                         62.250077
+                  ]
+            },
+            {
+                  "name": "Kirkonkylän uimaranta",
+                  "text": "Nyilvános tóparti strand a petäjävesii öregtemplom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.164158,
+                        62.262196
                   ]
             }
       ],
@@ -26620,6 +26818,15 @@ export const finlandCultureExtended: POI[] = [
                         25.183938,
                         62.250077
                   ]
+            },
+            {
+                  "name": "Kirkonkylän uimaranta",
+                  "text": "O plajă publică la lac, situată în apropierea vechii biserici din Petäjävesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.164158,
+                        62.262196
+                  ]
             }
       ],
       "en": [
@@ -26657,6 +26864,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         25.183938,
                         62.250077
+                  ]
+            },
+            {
+                  "name": "Kirkonkylän uimaranta",
+                  "text": "A public lakeside swimming beach located near the Petäjävesi Old Church.",
+                  "category": "recreational",
+                  "coords": [
+                        25.164158,
+                        62.262196
                   ]
             }
       ]
@@ -27099,6 +27315,15 @@ export const finlandCultureExtended: POI[] = [
                         27.703421,
                         60.674358
                   ]
+            },
+            {
+                  "name": "Myllylammen Uimaranta",
+                  "text": "Ein öffentlicher Badestrand am See Myllylampi beim Salpa-Linien-Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68819,
+                        60.680767
+                  ]
             }
       ],
       "hu": [
@@ -27145,6 +27370,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         27.703421,
                         60.674358
+                  ]
+            },
+            {
+                  "name": "Myllylammen Uimaranta",
+                  "text": "Nyilvános strand a Myllylampi-tónál, a Salpa-vonal Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68819,
+                        60.680767
                   ]
             }
       ],
@@ -27193,6 +27427,15 @@ export const finlandCultureExtended: POI[] = [
                         27.703421,
                         60.674358
                   ]
+            },
+            {
+                  "name": "Myllylammen Uimaranta",
+                  "text": "O plajă publică pe lacul Myllylampi, lângă Muzeul Liniei Salpa.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68819,
+                        60.680767
+                  ]
             }
       ],
       "en": [
@@ -27239,6 +27482,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         27.703421,
                         60.674358
+                  ]
+            },
+            {
+                  "name": "Myllylammen Uimaranta",
+                  "text": "A public swimming beach at Lake Myllylampi near the Salpa Line Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68819,
+                        60.680767
                   ]
             }
       ]
@@ -28347,6 +28599,15 @@ export const finlandCultureExtended: POI[] = [
                         22.198131,
                         60.404565
                   ]
+            },
+            {
+                  "name": "Ispoisten uimaranta",
+                  "text": "Ispoisten uimaranta ist ein beliebter Badebereich am Hafen von Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.259451,
+                        60.414407
+                  ]
             }
       ],
       "hu": [
@@ -28384,6 +28645,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         22.198131,
                         60.404565
+                  ]
+            },
+            {
+                  "name": "Ispoisten uimaranta",
+                  "text": "Az Ispoisten uimaranta egy népszerű fürdőhely Turku kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        22.259451,
+                        60.414407
                   ]
             }
       ],
@@ -28423,6 +28693,15 @@ export const finlandCultureExtended: POI[] = [
                         22.198131,
                         60.404565
                   ]
+            },
+            {
+                  "name": "Ispoisten uimaranta",
+                  "text": "Ispoisten uimaranta este o zonă populară de înot situată lângă Portul Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.259451,
+                        60.414407
+                  ]
             }
       ],
       "en": [
@@ -28460,6 +28739,15 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         22.198131,
                         60.404565
+                  ]
+            },
+            {
+                  "name": "Ispoisten uimaranta",
+                  "text": "Ispoisten uimaranta is a popular swimming area located near the Port of Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.259451,
+                        60.414407
                   ]
             }
       ]
@@ -29623,7 +29911,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "nat-oulujoki",
+    id: "nat-oulujoki", "sights": {
+      "de": [
+            {
+                  "name": "Rajahaudan uimaranta",
+                  "text": "Ein Badestrand am Fluss Oulujoki, der lokale Möglichkeiten zur Abkühlung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406157,
+                        65.062749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rajahaudan uimaranta",
+                  "text": "Egy fürdőhely az Oulujoki folyó mentén, amely helyi hűsölési lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406157,
+                        65.062749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rajahaudan uimaranta",
+                  "text": "O plajă pe malul râului Oulujoki, oferind posibilități locale de răcorire.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406157,
+                        65.062749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rajahaudan uimaranta",
+                  "text": "A swimming beach on the Oulujoki River, offering local opportunities for cooling off.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406157,
+                        65.062749
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "FI",
     coords: [25.45, 65.05],
@@ -29784,6 +30117,24 @@ export const finlandCultureExtended: POI[] = [
                         24.535215,
                         60.301541
                   ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "Ein öffentlicher Badestrand am See im Wald von Nuuksio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
+                  ]
+            },
+            {
+                  "name": "Hynkänlammen uintipaikka",
+                  "text": "Ein ruhiger Badeplatz am See Hynkänlampi inmitten der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        24.615268,
+                        60.270105
+                  ]
             }
       ],
       "hu": [
@@ -29857,6 +30208,24 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         24.535215,
                         60.301541
+                  ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "Nyilvános tavi strand a Nuuksio-erdő területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
+                  ]
+            },
+            {
+                  "name": "Hynkänlammen uintipaikka",
+                  "text": "Csendes fürdőhely a Hynkänlampi-tónál, a természet lágy ölén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.615268,
+                        60.270105
                   ]
             }
       ],
@@ -29932,6 +30301,24 @@ export const finlandCultureExtended: POI[] = [
                         24.535215,
                         60.301541
                   ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "O plajă publică la lac situată în pădurea Nuuksio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
+                  ]
+            },
+            {
+                  "name": "Hynkänlammen uintipaikka",
+                  "text": "Un loc liniștit de scăldat la lacul Hynkänlampi, în mijlocul naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        24.615268,
+                        60.270105
+                  ]
             }
       ],
       "en": [
@@ -30005,6 +30392,24 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         24.535215,
                         60.301541
+                  ]
+            },
+            {
+                  "name": "Solvallan urheiluopiston uimaranta",
+                  "text": "A public lakeside beach located in the Nuuksio Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        24.555583,
+                        60.292538
+                  ]
+            },
+            {
+                  "name": "Hynkänlammen uintipaikka",
+                  "text": "A quiet swimming spot at Lake Hynkänlampi in the heart of nature.",
+                  "category": "recreational",
+                  "coords": [
+                        24.615268,
+                        60.270105
                   ]
             }
       ]
@@ -32312,6 +32717,24 @@ export const finlandNatureExtended: POI[] = [
                         24.095801,
                         60.241887
                   ]
+            },
+            {
+                  "name": "Haikarin talviuintipaikka",
+                  "text": "Ein öffentlicher Winterschwimmplatz in Lohja für Liebhaber des Kaltwasserbadens.",
+                  "category": "recreational",
+                  "coords": [
+                        24.02986,
+                        60.243935
+                  ]
+            },
+            {
+                  "name": "Roution uimaranta",
+                  "text": "Ein beliebter öffentlicher Strand und Badebereich im Stadtteil Routio von Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.049596,
+                        60.270314
+                  ]
             }
       ],
       "hu": [
@@ -32619,6 +33042,24 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         24.095801,
                         60.241887
+                  ]
+            },
+            {
+                  "name": "Haikarin talviuintipaikka",
+                  "text": "Nyilvános téli úszóhely Lohjában a hideg vizes fürdőzés kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        24.02986,
+                        60.243935
+                  ]
+            },
+            {
+                  "name": "Roution uimaranta",
+                  "text": "Népszerű nyilvános strand és fürdőhely Lohja Routio negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.049596,
+                        60.270314
                   ]
             }
       ],
@@ -32928,6 +33369,24 @@ export const finlandNatureExtended: POI[] = [
                         24.095801,
                         60.241887
                   ]
+            },
+            {
+                  "name": "Haikarin talviuintipaikka",
+                  "text": "Un loc public de înot pe timp de iarnă în Lohja pentru cei care se bucură de scăldatul în apă rece.",
+                  "category": "recreational",
+                  "coords": [
+                        24.02986,
+                        60.243935
+                  ]
+            },
+            {
+                  "name": "Roution uimaranta",
+                  "text": "O plajă publică și o zonă de înot populară situată în districtul Routio din Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.049596,
+                        60.270314
+                  ]
             }
       ],
       "en": [
@@ -33235,6 +33694,24 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         24.095801,
                         60.241887
+                  ]
+            },
+            {
+                  "name": "Haikarin talviuintipaikka",
+                  "text": "A public winter swimming spot in Lohja for those who enjoy cold water bathing.",
+                  "category": "recreational",
+                  "coords": [
+                        24.02986,
+                        60.243935
+                  ]
+            },
+            {
+                  "name": "Roution uimaranta",
+                  "text": "A popular public beach and swimming area located in the Routio district of Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.049596,
+                        60.270314
                   ]
             }
       ]

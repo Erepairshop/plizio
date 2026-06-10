@@ -528,7 +528,160 @@ imageHint: "Mediterranean monk seal swimming in blue water",
     },
     image: "/poi-images/greece-alonissos-marine-park-life-v2.webp",
 },  {
-    id: "greece-zakynthos-marine-park-life-v2",
+    id: "greece-zakynthos-marine-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dafni Beach",
+                  "text": "Dafni Beach ist ein geschützter Strand im Zakynthos Marine Park, bekannt als Nistplatz für Meeresschildkröten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.954653,
+                        37.720742
+                  ]
+            },
+            {
+                  "name": "Σεκάνια",
+                  "text": "Segania ist ein naturbelassener Strandabschnitt innerhalb des Zakynthos Marine Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        20.938055,
+                        37.724995
+                  ]
+            },
+            {
+                  "name": "Kalamaki Beach",
+                  "text": "Kalamaki Beach ist ein flacher Sandstrand im Zakynthos Marine Park, der zum Schutz von Schildkröten beiträgt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.908213,
+                        37.737165
+                  ]
+            },
+            {
+                  "name": "Laganas beach",
+                  "text": "Laganas Beach ist ein langer Sandstrand und ein wichtiger Nistplatz für die Unechte Karettschildkröte.",
+                  "category": "recreational",
+                  "coords": [
+                        20.881824,
+                        37.730492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dafni Beach",
+                  "text": "A Dafni Beach a Zakynthos Marine Park védett strandja, amely a tengeri teknősök fészkelőhelyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.954653,
+                        37.720742
+                  ]
+            },
+            {
+                  "name": "Σεκάνια",
+                  "text": "A Segania egy természetes tengerparti szakasz a Zakynthos Marine Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.938055,
+                        37.724995
+                  ]
+            },
+            {
+                  "name": "Kalamaki Beach",
+                  "text": "A Kalamaki Beach egy sekély homokos strand a Zakynthos Marine Parkban, amely segíti a teknősök védelmét.",
+                  "category": "recreational",
+                  "coords": [
+                        20.908213,
+                        37.737165
+                  ]
+            },
+            {
+                  "name": "Laganas beach",
+                  "text": "A Laganas Beach egy hosszú homokos strand, amely az álcserepes teknősök fontos fészkelőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        20.881824,
+                        37.730492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dafni Beach",
+                  "text": "Dafni Beach este o plajă protejată din Parcul Marin Zakynthos, cunoscută ca loc de cuibărit pentru țestoase.",
+                  "category": "recreational",
+                  "coords": [
+                        20.954653,
+                        37.720742
+                  ]
+            },
+            {
+                  "name": "Σεκάνια",
+                  "text": "Segania este o secțiune de plajă naturală în cadrul Parcului Marin Zakynthos.",
+                  "category": "recreational",
+                  "coords": [
+                        20.938055,
+                        37.724995
+                  ]
+            },
+            {
+                  "name": "Kalamaki Beach",
+                  "text": "Kalamaki Beach este o plajă de nisip puțin adâncă din Parcul Marin Zakynthos, care contribuie la protejarea țestoaselor.",
+                  "category": "recreational",
+                  "coords": [
+                        20.908213,
+                        37.737165
+                  ]
+            },
+            {
+                  "name": "Laganas beach",
+                  "text": "Laganas Beach este o plajă lungă de nisip și un loc important de cuibărit pentru țestoasele Caretta caretta.",
+                  "category": "recreational",
+                  "coords": [
+                        20.881824,
+                        37.730492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dafni Beach",
+                  "text": "Dafni Beach is a protected beach in the Zakynthos Marine Park, known as a nesting site for sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        20.954653,
+                        37.720742
+                  ]
+            },
+            {
+                  "name": "Segania",
+                  "text": "Segania is a natural beach section within the Zakynthos Marine Park.",
+                  "category": "recreational",
+                  "coords": [
+                        20.938055,
+                        37.724995
+                  ]
+            },
+            {
+                  "name": "Kalamaki Beach",
+                  "text": "Kalamaki Beach is a shallow sandy beach in the Zakynthos Marine Park that supports turtle conservation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.908213,
+                        37.737165
+                  ]
+            },
+            {
+                  "name": "Laganas beach",
+                  "text": "Laganas beach is a long sandy stretch and a major nesting site for Caretta caretta sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        20.881824,
+                        37.730492
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Meeresnationalpark Zakynthos", hu: "Zakinthoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Zakynthos", en: "Zakynthos Marine Park"},
@@ -1545,6 +1698,24 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                         23.911485,
                         37.978673
                   ]
+            },
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "Ein Paintball-Themenpark mit verschiedenen Feldern für Outdoor-Aktivitäten in der Nähe von Athen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            },
+            {
+                  "name": "Magic Paintball Arena",
+                  "text": "Eine Paintball-Arena unter freiem Himmel, die Platz für Wettkampfspiele und Spaß bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.938954,
+                        37.98969
+                  ]
             }
       ],
       "hu": [
@@ -1564,6 +1735,24 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                   "coords": [
                         23.911485,
                         37.978673
+                  ]
+            },
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "Paintball élménypark különféle pályákkal a szabadidő eltöltésére Athén közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            },
+            {
+                  "name": "Magic Paintball Arena",
+                  "text": "Szabadtéri paintball aréna, amely helyet biztosít versenyjátékokhoz és szórakozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        23.938954,
+                        37.98969
                   ]
             }
       ],
@@ -1585,6 +1774,24 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                         23.911485,
                         37.978673
                   ]
+            },
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "Un parc tematic de paintball care oferă diverse terenuri pentru recreere în aer liber lângă Atena.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            },
+            {
+                  "name": "Magic Paintball Arena",
+                  "text": "O arenă de paintball în aer liber care oferă spațiu pentru jocuri competitive și distracție.",
+                  "category": "recreational",
+                  "coords": [
+                        23.938954,
+                        37.98969
+                  ]
             }
       ],
       "en": [
@@ -1604,6 +1811,24 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                   "coords": [
                         23.911485,
                         37.978673
+                  ]
+            },
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "A paintball theme park offering various fields for outdoor recreation near Athens.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            },
+            {
+                  "name": "Magic Paintball Arena",
+                  "text": "An outdoor paintball arena providing space for competitive games and fun.",
+                  "category": "recreational",
+                  "coords": [
+                        23.938954,
+                        37.98969
                   ]
             }
       ]
@@ -1790,6 +2015,24 @@ imageHint: "Nestos river winding through green delta landscape",
                         25.287811,
                         35.32681
                   ]
+            },
+            {
+                  "name": "Freshwater pool",
+                  "text": "Ein Süßwasserpool auf Kreta, der eine erfrischende Alternative zum Meerwasser für Badegäste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304211,
+                        35.336181
+                  ]
+            },
+            {
+                  "name": "Stella Aqua Park",
+                  "text": "Ein Wasserpark auf Kreta mit Rutschen und Wasserattraktionen für Familien und Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        25.337614,
+                        35.332992
+                  ]
             }
       ],
       "hu": [
@@ -1836,6 +2079,24 @@ imageHint: "Nestos river winding through green delta landscape",
                   "coords": [
                         25.287811,
                         35.32681
+                  ]
+            },
+            {
+                  "name": "Freshwater pool",
+                  "text": "Édesvizű medence Krétán, amely frissítő alternatívát kínál a tengerparti fürdőzés mellé.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304211,
+                        35.336181
+                  ]
+            },
+            {
+                  "name": "Stella Aqua Park",
+                  "text": "Vízi park Krétán csúszdákkal és vízi attrakciókkal családok és gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        25.337614,
+                        35.332992
                   ]
             }
       ],
@@ -1884,6 +2145,24 @@ imageHint: "Nestos river winding through green delta landscape",
                         25.287811,
                         35.32681
                   ]
+            },
+            {
+                  "name": "Freshwater pool",
+                  "text": "O piscină cu apă dulce în Creta, care oferă o alternativă răcoritoare la apa de mare pentru înotători.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304211,
+                        35.336181
+                  ]
+            },
+            {
+                  "name": "Stella Aqua Park",
+                  "text": "Un parc acvatic în Creta, cu tobogane și atracții acvatice pentru familii și copii.",
+                  "category": "recreational",
+                  "coords": [
+                        25.337614,
+                        35.332992
+                  ]
             }
       ],
       "en": [
@@ -1930,6 +2209,24 @@ imageHint: "Nestos river winding through green delta landscape",
                   "coords": [
                         25.287811,
                         35.32681
+                  ]
+            },
+            {
+                  "name": "Freshwater pool",
+                  "text": "A freshwater pool in Crete, providing a refreshing alternative to seawater for bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        25.304211,
+                        35.336181
+                  ]
+            },
+            {
+                  "name": "Stella Aqua Park",
+                  "text": "A water park in Crete featuring slides and water attractions for families and children.",
+                  "category": "recreational",
+                  "coords": [
+                        25.337614,
+                        35.332992
                   ]
             }
       ]
@@ -2544,6 +2841,51 @@ imageHint: "Lush green paths in the National Garden of Athens",
                         23.995213,
                         37.924163
                   ]
+            },
+            {
+                  "name": "Πανόραμα",
+                  "text": "Ein Strand im Naturgebiet des Vravrona-Feuchtgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040184,
+                        37.863363
+                  ]
+            },
+            {
+                  "name": "Νησίδα Κεκροπούλα",
+                  "text": "Ein kleiner Strandabschnitt im Vravrona-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.034321,
+                        37.873343
+                  ]
+            },
+            {
+                  "name": "Ερωτοσπηλιά",
+                  "text": "Ein malerischer Strand im Vravrona-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.033027,
+                        37.893366
+                  ]
+            },
+            {
+                  "name": "Παραλία Αράχνες",
+                  "text": "Ein Strand an der Küste des Vravrona-Feuchtgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044941,
+                        37.902794
+                  ]
+            },
+            {
+                  "name": "Αυλάκι",
+                  "text": "Ein Strandabschnitt in der Nähe des Vravrona-Feuchtgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        24.039978,
+                        37.866479
+                  ]
             }
       ],
       "hu": [
@@ -2590,6 +2932,51 @@ imageHint: "Lush green paths in the National Garden of Athens",
                   "coords": [
                         23.995213,
                         37.924163
+                  ]
+            },
+            {
+                  "name": "Πανόραμα",
+                  "text": "Egy strand a Vravrona vizes élőhely természetvédelmi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040184,
+                        37.863363
+                  ]
+            },
+            {
+                  "name": "Νησίδα Κεκροπούλα",
+                  "text": "Egy kis strandrész a Vravrona vizes élőhelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.034321,
+                        37.873343
+                  ]
+            },
+            {
+                  "name": "Ερωτοσπηλιά",
+                  "text": "Egy festői strand a Vravrona vizes élőhelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.033027,
+                        37.893366
+                  ]
+            },
+            {
+                  "name": "Παραλία Αράχνες",
+                  "text": "Egy strand a Vravrona vizes élőhely partján.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044941,
+                        37.902794
+                  ]
+            },
+            {
+                  "name": "Αυλάκι",
+                  "text": "Egy strand szakasz a Vravrona vizes élőhely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.039978,
+                        37.866479
                   ]
             }
       ],
@@ -2638,6 +3025,51 @@ imageHint: "Lush green paths in the National Garden of Athens",
                         23.995213,
                         37.924163
                   ]
+            },
+            {
+                  "name": "Πανόραμα",
+                  "text": "O plajă în zona naturală a mlaștinii Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040184,
+                        37.863363
+                  ]
+            },
+            {
+                  "name": "Νησίδα Κεκροπούλα",
+                  "text": "O mică secțiune de plajă în zona umedă Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.034321,
+                        37.873343
+                  ]
+            },
+            {
+                  "name": "Ερωτοσπηλιά",
+                  "text": "O plajă pitorească în zona umedă Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.033027,
+                        37.893366
+                  ]
+            },
+            {
+                  "name": "Παραλία Αράχνες",
+                  "text": "O plajă pe coasta zonei umede Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044941,
+                        37.902794
+                  ]
+            },
+            {
+                  "name": "Αυλάκι",
+                  "text": "O secțiune de plajă lângă zona umedă Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.039978,
+                        37.866479
+                  ]
             }
       ],
       "en": [
@@ -2684,6 +3116,51 @@ imageHint: "Lush green paths in the National Garden of Athens",
                   "coords": [
                         23.995213,
                         37.924163
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "A beach in the natural area of the Vravrona Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040184,
+                        37.863363
+                  ]
+            },
+            {
+                  "name": "Νησίδα Κεκροπούλα",
+                  "text": "A small beach section in the Vravrona Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.034321,
+                        37.873343
+                  ]
+            },
+            {
+                  "name": "Ερωτοσπηλιά",
+                  "text": "A scenic beach in the Vravrona Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.033027,
+                        37.893366
+                  ]
+            },
+            {
+                  "name": "Παραλία Αράχνες",
+                  "text": "A beach on the coast of the Vravrona Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.044941,
+                        37.902794
+                  ]
+            },
+            {
+                  "name": "Avlaki",
+                  "text": "A beach section near the Vravrona Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.039978,
+                        37.866479
                   ]
             }
       ]
@@ -2806,6 +3283,33 @@ imageHint: "Marshy wetland area near the sea coast",
                         23.745574,
                         37.864963
                   ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Δ",
+                  "text": "Strandabschnitt in Glyfada, in dessen Nähe sich ein Zentrum zur Rettung von Meeresschildkröten befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.747757,
+                        37.860771
+                  ]
+            },
+            {
+                  "name": "Oasis Hotel Apartments",
+                  "text": "Eine Unterkunft mit Schwimmbad in der Nähe des Schildkröten-Rettungszentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740537,
+                        37.869397
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio",
+                  "text": "Ein öffentliches Schwimmbecken in der Nähe des Archelon-Schildkröten-Rettungszentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        23.757316,
+                        37.898084
+                  ]
             }
       ],
       "hu": [
@@ -2879,6 +3383,33 @@ imageHint: "Marshy wetland area near the sea coast",
                   "coords": [
                         23.745574,
                         37.864963
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Δ",
+                  "text": "Glyfada-i strandszakasz, amelynek közelében egy tengeri teknős mentő központ található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.747757,
+                        37.860771
+                  ]
+            },
+            {
+                  "name": "Oasis Hotel Apartments",
+                  "text": "Szálláshely úszómedencével a teknősmentő központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740537,
+                        37.869397
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio",
+                  "text": "Egy nyilvános úszómedence az Archelon tengeri teknősmentő központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.757316,
+                        37.898084
                   ]
             }
       ],
@@ -2954,6 +3485,33 @@ imageHint: "Marshy wetland area near the sea coast",
                         23.745574,
                         37.864963
                   ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Δ",
+                  "text": "Secțiune de plajă în Glyfada, în apropierea căreia se află un centru de salvare a țestoaselor marine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.747757,
+                        37.860771
+                  ]
+            },
+            {
+                  "name": "Oasis Hotel Apartments",
+                  "text": "O unitate de cazare cu piscină situată lângă centrul de salvare a broaștelor țestoase.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740537,
+                        37.869397
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio",
+                  "text": "O piscină publică situată în apropierea Centrului de Salvare a Broaștelor Țestoase Archelon.",
+                  "category": "recreational",
+                  "coords": [
+                        23.757316,
+                        37.898084
+                  ]
             }
       ],
       "en": [
@@ -3028,6 +3586,33 @@ imageHint: "Marshy wetland area near the sea coast",
                         23.745574,
                         37.864963
                   ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Δ",
+                  "text": "Beach section in Glyfada, located near a sea turtle rescue centre.",
+                  "category": "recreational",
+                  "coords": [
+                        23.747757,
+                        37.860771
+                  ]
+            },
+            {
+                  "name": "Oasis Hotel Apartments",
+                  "text": "An accommodation with a swimming pool located near the sea turtle rescue centre.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740537,
+                        37.869397
+                  ]
+            },
+            {
+                  "name": "Demotiko Kolumbeterio",
+                  "text": "A public swimming pool located near the Archelon Sea Turtle Rescue Centre.",
+                  "category": "recreational",
+                  "coords": [
+                        23.757316,
+                        37.898084
+                  ]
             }
       ]
 },
@@ -3095,6 +3680,15 @@ imageHint: "Sea turtle being treated in a rescue tank",
                         24.51692,
                         41.459114
                   ]
+            },
+            {
+                  "name": "Thermia",
+                  "text": "Ein öffentliches Bad im Nationalpark Rhodopen-Gebirge für Wanderer und Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        24.450662,
+                        41.46585
+                  ]
             }
       ],
       "hu": [
@@ -3114,6 +3708,15 @@ imageHint: "Sea turtle being treated in a rescue tank",
                   "coords": [
                         24.51692,
                         41.459114
+                  ]
+            },
+            {
+                  "name": "Thermia",
+                  "text": "Nyilvános fürdő a Rodope-hegység Nemzeti Parkban túrázók és látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        24.450662,
+                        41.46585
                   ]
             }
       ],
@@ -3135,6 +3738,15 @@ imageHint: "Sea turtle being treated in a rescue tank",
                         24.51692,
                         41.459114
                   ]
+            },
+            {
+                  "name": "Thermia",
+                  "text": "O baie publică în Parcul Național Munții Rodopi pentru turiști și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        24.450662,
+                        41.46585
+                  ]
             }
       ],
       "en": [
@@ -3154,6 +3766,15 @@ imageHint: "Sea turtle being treated in a rescue tank",
                   "coords": [
                         24.51692,
                         41.459114
+                  ]
+            },
+            {
+                  "name": "Thermia",
+                  "text": "A public bath in the Rodopi Mountain Range National Park for hikers and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        24.450662,
+                        41.46585
                   ]
             }
       ]
@@ -3413,6 +4034,15 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                         24.024738,
                         37.65417
                   ]
+            },
+            {
+                  "name": "Χάρακας",
+                  "text": "Ein weitläufiger Sandstrand im Sounion-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        23.972302,
+                        37.666208
+                  ]
             }
       ],
       "hu": [
@@ -3486,6 +4116,15 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                   "coords": [
                         24.024738,
                         37.65417
+                  ]
+            },
+            {
+                  "name": "Χάρακας",
+                  "text": "Kiterjedt homokos strand a Szunion-foki Nemzeti Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.972302,
+                        37.666208
                   ]
             }
       ],
@@ -3561,6 +4200,15 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                         24.024738,
                         37.65417
                   ]
+            },
+            {
+                  "name": "Χάρακας",
+                  "text": "O plajă întinsă cu nisip în Parcul Național Sounion.",
+                  "category": "recreational",
+                  "coords": [
+                        23.972302,
+                        37.666208
+                  ]
             }
       ],
       "en": [
@@ -3635,6 +4283,15 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                         24.024738,
                         37.65417
                   ]
+            },
+            {
+                  "name": "Χάρακας",
+                  "text": "A wide sandy beach located within the Sounion National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.972302,
+                        37.666208
+                  ]
             }
       ]
 },
@@ -3683,7 +4340,52 @@ imageHint: "Coastal Mediterranean macchia and pine trees in Sounion",
     },
     image: "/poi-images/greece-sounion-national-park-life-v2.webp",
 },  {
-    id: "greece-messolonghi-lagoon-life-v2",
+    id: "greece-messolonghi-lagoon-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Παραλία Τουρλίδας",
+                  "text": "Ein besonderer Strand auf der Insel Tourlida in der Lagune von Messolongi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.419799,
+                        38.325621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Παραλία Τουρλίδας",
+                  "text": "Különleges strand a Messzolongi-lagúnában található Tourlida-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        21.419799,
+                        38.325621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Παραλία Τουρλίδας",
+                  "text": "O plajă deosebită pe insula Tourlida din laguna Messolonghi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.419799,
+                        38.325621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Παραλία Τουρλίδας",
+                  "text": "A unique beach on the island of Tourlida in the Messolonghi Lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.419799,
+                        38.325621
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Lagune von Messolonghi", hu: "Meszolongi-lagúna", ro: "Laguna Messolonghi", en: "Messolonghi Lagoon"},
@@ -3839,6 +4541,15 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
                         23.864414,
                         39.137623
                   ]
+            },
+            {
+                  "name": "Hotel Nereides Swimming ppol",
+                  "text": "Ein privates Schwimmbecken für Gäste der Hotelanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        23.858832,
+                        39.144339
+                  ]
             }
       ],
       "hu": [
@@ -3903,6 +4614,15 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
                   "coords": [
                         23.864414,
                         39.137623
+                  ]
+            },
+            {
+                  "name": "Hotel Nereides Swimming ppol",
+                  "text": "A szálloda vendégei számára fenntartott privát úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        23.858832,
+                        39.144339
                   ]
             }
       ],
@@ -3969,6 +4689,15 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
                         23.864414,
                         39.137623
                   ]
+            },
+            {
+                  "name": "Hotel Nereides Swimming ppol",
+                  "text": "O piscină privată disponibilă pentru oaspeții hotelului.",
+                  "category": "recreational",
+                  "coords": [
+                        23.858832,
+                        39.144339
+                  ]
             }
       ],
       "en": [
@@ -4033,6 +4762,15 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
                   "coords": [
                         23.864414,
                         39.137623
+                  ]
+            },
+            {
+                  "name": "Hotel Nereides Swimming ppol",
+                  "text": "A private swimming pool available for guests of the hotel complex.",
+                  "category": "recreational",
+                  "coords": [
+                        23.858832,
+                        39.144339
                   ]
             }
       ]
@@ -4319,6 +5057,33 @@ imageHint: "Information center and seal rescue equipment",
                         24.016737,
                         38.113691
                   ]
+            },
+            {
+                  "name": "Rusty Cannon",
+                  "text": "Ein Strandresort im Schinias-Nationalpark, das Erholung in der Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.017824,
+                        38.135575
+                  ]
+            },
+            {
+                  "name": "Salty Wave beach",
+                  "text": "Ein Küstenort im Schinias-Nationalpark, ideal für Wassersport und Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        24.015024,
+                        38.134178
+                  ]
+            },
+            {
+                  "name": "Παραλία Σχινιά",
+                  "text": "Ein weitläufiger Strand im Schinias-Nationalpark, gesäumt von einem Pinienwald.",
+                  "category": "recreational",
+                  "coords": [
+                        24.031706,
+                        38.140268
+                  ]
             }
       ],
       "hu": [
@@ -4383,6 +5148,33 @@ imageHint: "Information center and seal rescue equipment",
                   "coords": [
                         24.016737,
                         38.113691
+                  ]
+            },
+            {
+                  "name": "Rusty Cannon",
+                  "text": "Tengerparti üdülőhely a Schinias Nemzeti Parkban, amely természeti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.017824,
+                        38.135575
+                  ]
+            },
+            {
+                  "name": "Salty Wave beach",
+                  "text": "Tengerparti helyszín a Schinias Nemzeti Parkban, ideális vízi sportokhoz és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        24.015024,
+                        38.134178
+                  ]
+            },
+            {
+                  "name": "Παραλία Σχινιά",
+                  "text": "Kiterjedt strand a Schinias Nemzeti Parkban, fenyőerdővel övezve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.031706,
+                        38.140268
                   ]
             }
       ],
@@ -4449,6 +5241,33 @@ imageHint: "Information center and seal rescue equipment",
                         24.016737,
                         38.113691
                   ]
+            },
+            {
+                  "name": "Rusty Cannon",
+                  "text": "O stațiune de plajă în Parcul Național Schinias, oferind recreere în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        24.017824,
+                        38.135575
+                  ]
+            },
+            {
+                  "name": "Salty Wave beach",
+                  "text": "Un loc de coastă în Parcul Național Schinias, ideal pentru sporturi nautice și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        24.015024,
+                        38.134178
+                  ]
+            },
+            {
+                  "name": "Παραλία Σχινιά",
+                  "text": "O plajă întinsă în Parcul Național Schinias, mărginită de o pădure de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        24.031706,
+                        38.140268
+                  ]
             }
       ],
       "en": [
@@ -4513,6 +5332,33 @@ imageHint: "Information center and seal rescue equipment",
                   "coords": [
                         24.016737,
                         38.113691
+                  ]
+            },
+            {
+                  "name": "Rusty Cannon",
+                  "text": "A beach resort in the Schinias National Park offering recreation in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        24.017824,
+                        38.135575
+                  ]
+            },
+            {
+                  "name": "Salty Wave beach",
+                  "text": "A coastal spot in the Schinias National Park, ideal for water sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.015024,
+                        38.134178
+                  ]
+            },
+            {
+                  "name": "Παραλία Σχινιά",
+                  "text": "A spacious beach in the Schinias National Park bordered by a pine forest.",
+                  "category": "recreational",
+                  "coords": [
+                        24.031706,
+                        38.140268
                   ]
             }
       ]

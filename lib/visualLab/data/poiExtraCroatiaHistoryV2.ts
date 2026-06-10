@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const croatiaHistoryV2: POI[] = [
 
   {
-    id: "croatia-diocletians-palace-history-v2",
+    id: "croatia-diocletians-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Ein exklusiver Beachclub in der Nähe des Diokletianpalastes, der Entspannung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "Ein beliebter Kieselstrand in der Nähe des historischen Diokletianpalastes.",
+                  "category": "recreational",
+                  "coords": [
+                        16.451531,
+                        43.500154
+                  ]
+            },
+            {
+                  "name": "Bačvice",
+                  "text": "Ein berühmter Sandstrand in der Nähe des Diokletianpalastes, der für sein seichtes Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.446995,
+                        43.502278
+                  ]
+            },
+            {
+                  "name": "Trstenik",
+                  "text": "Ein ruhigerer Küstenabschnitt in der Nähe des Diokletianpalastes mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        16.465551,
+                        43.501788
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "Ein weitläufiges Strandareal in der Nähe des Diokletianpalastes, das viel Platz bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477885,
+                        43.502355
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "Ein moderner Strandabschnitt in der Nähe des Diokletianpalastes mit touristischer Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469066,
+                        43.501441
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "Ein malerischer, von Pinien gesäumter Strand in der Nähe des Diokletianpalastes.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453608,
+                        43.500558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Exkluzív strandklub a Diocletianus-palota közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "Népszerű kavicsos strand a történelmi Diocletianus-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.451531,
+                        43.500154
+                  ]
+            },
+            {
+                  "name": "Bačvice",
+                  "text": "Híres homokos strand a Diocletianus-palota közelében, amely sekély vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.446995,
+                        43.502278
+                  ]
+            },
+            {
+                  "name": "Trstenik",
+                  "text": "Nyugodtabb tengerparti szakasz a Diocletianus-palota közelében, tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.465551,
+                        43.501788
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "Tágas strandterület a Diocletianus-palota közelében, amely sok helyet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477885,
+                        43.502355
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "Modern strandrész a Diocletianus-palota közelében, turisztikai infrastruktúrával.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469066,
+                        43.501441
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "Festői, fenyőfákkal szegélyezett strand a Diocletianus-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453608,
+                        43.500558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Un club de plajă exclusivist lângă Palatul lui Dioclețian, care oferă relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "O plajă populară cu pietriș situată în apropierea istoricului Palat al lui Dioclețian.",
+                  "category": "recreational",
+                  "coords": [
+                        16.451531,
+                        43.500154
+                  ]
+            },
+            {
+                  "name": "Bačvice",
+                  "text": "O plajă faimoasă cu nisip lângă Palatul lui Dioclețian, cunoscută pentru apa sa puțin adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.446995,
+                        43.502278
+                  ]
+            },
+            {
+                  "name": "Trstenik",
+                  "text": "O porțiune de coastă mai liniștită lângă Palatul lui Dioclețian, cu apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        16.465551,
+                        43.501788
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "O zonă de plajă extinsă lângă Palatul lui Dioclețian, care oferă mult spațiu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477885,
+                        43.502355
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "O secțiune de plajă modernă lângă Palatul lui Dioclețian, cu infrastructură turistică.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469066,
+                        43.501441
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "O plajă pitorească mărginită de pini, situată lângă Palatul lui Dioclețian.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453608,
+                        43.500558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "An exclusive beach club near Diocletian's Palace offering seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "A popular pebble beach located near the historic Diocletian's Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        16.451531,
+                        43.500154
+                  ]
+            },
+            {
+                  "name": "Bačvice",
+                  "text": "A famous sandy beach near Diocletian's Palace, known for its shallow water.",
+                  "category": "recreational",
+                  "coords": [
+                        16.446995,
+                        43.502278
+                  ]
+            },
+            {
+                  "name": "Trstenik",
+                  "text": "A quieter coastal stretch near Diocletian's Palace with clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        16.465551,
+                        43.501788
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "A spacious beach area near Diocletian's Palace offering plenty of room.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477885,
+                        43.502355
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "A modern beach section near Diocletian's Palace with tourist infrastructure.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469066,
+                        43.501441
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "A picturesque beach lined with pine trees near Diocletian's Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453608,
+                        43.500558
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "palace",
     name: { de: "Diokletianpalast", hu: "Diocletianus palotája", ro: "Palatul lui Dioclețian", en: "Diocletian's Palace"},
@@ -1923,7 +2184,52 @@ imageHint: "Ruins of Small Roman Theater in Pula",
     image: "/poi-images/croatia-djakovo-cathedral-history-v2.webp",
   },
   {
-    id: "croatia-fort-ica-pag-history-v2",
+    id: "croatia-fort-ica-pag-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "Ein natürlicher Strand in der Nähe der Festung Fortica auf der Insel Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022124,
+                        44.46252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "Természetes tengerpart a Pag-szigeti Fortica erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022124,
+                        44.46252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "O plajă naturală lângă fortăreața Fortica de pe insula Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022124,
+                        44.46252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "A natural beach located near the Fortica fortress on Pag Island.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022124,
+                        44.46252
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "HR",
     name: { de: "Fortica Pag", hu: "Fortica Pag", ro: "Fortica Pag", en: "Fortica Pag" },
@@ -2850,7 +3156,52 @@ imageHint: "Ruins of Small Roman Theater in Pula",
     image: "/poi-images/croatia-medvedgrad-castle-history-v2.webp",
   },
   {
-    id: "croatia-church-holy-cross-nin-history-v2",
+    id: "croatia-church-holy-cross-nin-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Pliša",
+                  "text": "Ein flacher Sandstrand in Nin, der besonders für Familien mit kleinen Kindern geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166127,
+                        44.216719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Pliša",
+                  "text": "Sekély homokos strand Ninben, amely különösen alkalmas kisgyermekes családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166127,
+                        44.216719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Pliša",
+                  "text": "O plajă de nisip puțin adâncă în Nin, potrivită în special pentru familiile cu copii mici.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166127,
+                        44.216719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Pliša",
+                  "text": "A shallow sandy beach in Nin, particularly suitable for families with small children.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166127,
+                        44.216719
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "HR",
     name: { de: "Kirche des Heiligen Kreuzes Nin", hu: "Szent Kereszt-templom Nin", ro: "Biserica Sfânta Cruce Nin", en: "Church of the Holy Cross Nin" },
@@ -3120,7 +3471,268 @@ imageHint: "Ruins of Small Roman Theater in Pula",
     image: "/poi-images/croatia-land-gate-zadar-history-v2.webp",
   },
   {
-    id: "croatia-prokurative-split-history-v2",
+    id: "croatia-prokurative-split-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Matejuška",
+                  "text": "Ein traditioneller Treffpunkt am Meer in der Nähe der Prokurative in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434731,
+                        43.507321
+                  ]
+            },
+            {
+                  "name": "Kašjuni",
+                  "text": "Ein beliebter Kieselstrand am Fuße des Marjan-Hügels in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.400035,
+                        43.506553
+                  ]
+            },
+            {
+                  "name": "Strand Jezinac",
+                  "text": "Ein charmanter Strand in Split, der für sein klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.416593,
+                        43.503628
+                  ]
+            },
+            {
+                  "name": "Strand Obojena",
+                  "text": "Ein lebhafter Küstenabschnitt in Split, der oft von Einheimischen besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414951,
+                        43.503293
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "Ein von Kiefern umgebener Strand im Parkwald Marjan in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401528,
+                        43.514264
+                  ]
+            },
+            {
+                  "name": "Strand Zvončac",
+                  "text": "Ein stadtnaher Strand in Split, der Erholung am adriatischen Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422049,
+                        43.503192
+                  ]
+            },
+            {
+                  "name": "Beach for dogs",
+                  "text": "Ein speziell ausgewiesener Strandabschnitt in Split für Besucher mit Hunden.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401611,
+                        43.504785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Matejuška",
+                  "text": "Hagyományos tengerparti találkozóhely a spliti Prokurative közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434731,
+                        43.507321
+                  ]
+            },
+            {
+                  "name": "Kašjuni",
+                  "text": "Népszerű kavicsos strand a spliti Marjan-hegy lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.400035,
+                        43.506553
+                  ]
+            },
+            {
+                  "name": "Plaža Ježinac",
+                  "text": "Bájós strand Splitben, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.416593,
+                        43.503628
+                  ]
+            },
+            {
+                  "name": "Plaža Obojena",
+                  "text": "Élettel teli tengerparti szakasz Splitben, amelyet gyakran látogatnak a helyiek.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414951,
+                        43.503293
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "Fenyőfákkal körülvett strand a spliti Marjan parkerdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401528,
+                        43.514264
+                  ]
+            },
+            {
+                  "name": "Zvončac",
+                  "text": "Városközeli strand Splitben, amely kikapcsolódást nyújt az Adriai-tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422049,
+                        43.503192
+                  ]
+            },
+            {
+                  "name": "Beach for dogs",
+                  "text": "Splitben kijelölt speciális strand szakasz a kutyával érkezők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401611,
+                        43.504785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Matejuška",
+                  "text": "Un loc tradițional de întâlnire la malul mării, lângă Prokurative în Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434731,
+                        43.507321
+                  ]
+            },
+            {
+                  "name": "Kašjuni",
+                  "text": "O plajă cu pietriș populară la poalele dealului Marjan din Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.400035,
+                        43.506553
+                  ]
+            },
+            {
+                  "name": "Plaža Ježinac",
+                  "text": "O plajă fermecătoare în Split, cunoscută pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        16.416593,
+                        43.503628
+                  ]
+            },
+            {
+                  "name": "Plaža Obojena",
+                  "text": "O secțiune de coastă plină de viață în Split, vizitată adesea de localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414951,
+                        43.503293
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "O plajă înconjurată de pini în parcul-pădure Marjan din Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401528,
+                        43.514264
+                  ]
+            },
+            {
+                  "name": "Zvončac",
+                  "text": "O plajă aproape de oraș în Split, oferind relaxare pe malul Mării Adriatice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422049,
+                        43.503192
+                  ]
+            },
+            {
+                  "name": "Beach for dogs",
+                  "text": "O secțiune de plajă special desemnată în Split pentru vizitatorii cu câini.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401611,
+                        43.504785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Matejuška",
+                  "text": "A traditional seaside meeting point near the Prokurative in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434731,
+                        43.507321
+                  ]
+            },
+            {
+                  "name": "Kasuni Beach",
+                  "text": "A popular pebble beach located at the foot of Marjan Hill in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.400035,
+                        43.506553
+                  ]
+            },
+            {
+                  "name": "Beach Jezinac",
+                  "text": "A charming beach in Split, known for its clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        16.416593,
+                        43.503628
+                  ]
+            },
+            {
+                  "name": "Beach Obojena",
+                  "text": "A lively stretch of coast in Split, frequently visited by locals.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414951,
+                        43.503293
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "A beach surrounded by pine trees in the Marjan forest park in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401528,
+                        43.514264
+                  ]
+            },
+            {
+                  "name": "Beach Zvončac",
+                  "text": "A beach near the city center in Split, offering relaxation on the Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422049,
+                        43.503192
+                  ]
+            },
+            {
+                  "name": "Beach for dogs",
+                  "text": "A specially designated beach area in Split for visitors with dogs.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401611,
+                        43.504785
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "HR",
     name: { de: "Prokurative Split", hu: "Prokurative Split", ro: "Prokurative Split", en: "Prokurative Split" },

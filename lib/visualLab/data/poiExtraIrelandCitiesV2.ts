@@ -5746,6 +5746,15 @@ export const irelandCitiesV2: POI[] = [
                         -7.645754,
                         54.355107
                   ]
+            },
+            {
+                  "name": "Lakeland Forum",
+                  "text": "Ein Freizeitzentrum in Enniskillen mit einem öffentlichen Schwimmbad.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.64286,
+                        54.342588
+                  ]
             }
       ],
       "hu": [
@@ -5972,6 +5981,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.645754,
                         54.355107
+                  ]
+            },
+            {
+                  "name": "Lakeland Forum",
+                  "text": "Szabadidős központ Enniskillenben, nyilvános úszómedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.64286,
+                        54.342588
                   ]
             }
       ],
@@ -6200,6 +6218,15 @@ export const irelandCitiesV2: POI[] = [
                         -7.645754,
                         54.355107
                   ]
+            },
+            {
+                  "name": "Lakeland Forum",
+                  "text": "Un centru de agrement în Enniskillen care include o piscină publică.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.64286,
+                        54.342588
+                  ]
             }
       ],
       "en": [
@@ -6426,6 +6453,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.645754,
                         54.355107
+                  ]
+            },
+            {
+                  "name": "Lakeland Forum",
+                  "text": "A leisure center in Enniskillen featuring a public swimming pool.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.64286,
+                        54.342588
                   ]
             }
       ]
@@ -14782,6 +14818,15 @@ export const irelandCitiesV2: POI[] = [
                         -5.531986,
                         54.643692
                   ]
+            },
+            {
+                  "name": "Millisle Lagoon",
+                  "text": "Ein Meerwasser-Schwimmbereich in Donaghadee, der sicheres Baden im Ozean ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.526575,
+                        54.608712
+                  ]
             }
       ],
       "hu": [
@@ -14828,6 +14873,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.531986,
                         54.643692
+                  ]
+            },
+            {
+                  "name": "Millisle Lagoon",
+                  "text": "Tengervizes úszóhely Donaghadee-ben, amely biztonságos fürdőzést tesz lehetővé az óceánban.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.526575,
+                        54.608712
                   ]
             }
       ],
@@ -14876,6 +14930,15 @@ export const irelandCitiesV2: POI[] = [
                         -5.531986,
                         54.643692
                   ]
+            },
+            {
+                  "name": "Millisle Lagoon",
+                  "text": "O zonă de înot cu apă de mare în Donaghadee, care permite scăldatul în siguranță în ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.526575,
+                        54.608712
+                  ]
             }
       ],
       "en": [
@@ -14922,6 +14985,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.531986,
                         54.643692
+                  ]
+            },
+            {
+                  "name": "Millisle Lagoon",
+                  "text": "A seawater swimming area in Donaghadee, allowing for safe bathing in the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.526575,
+                        54.608712
                   ]
             }
       ]
@@ -15438,7 +15510,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-manorhamilton-cities-v2.webp",
   },
   {
-    id: "ireland-miltown-malbay-cities-v2",
+    id: "ireland-miltown-malbay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spanish Point Beach",
+                  "text": "Ein historischer Strand im County Clare, benannt nach den Wracks der Spanischen Armada von 1588.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.433503,
+                        52.838891
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "Ein malerischer Sandstrand bei Miltown Malbay an der Westküste Irlands.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.42773,
+                        52.867509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spanish Point Beach",
+                  "text": "Történelmi strand Clare megyében, amelyet az 1588-as spanyol armada roncsaikról neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.433503,
+                        52.838891
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "Festői homokos tengerpart Miltown Malbay közelében, Írország nyugati partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.42773,
+                        52.867509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spanish Point Beach",
+                  "text": "O plajă istorică în comitatul Clare, numită după epavele Armadei Spaniole din 1588.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.433503,
+                        52.838891
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "O plajă cu nisip pitorească lângă Miltown Malbay, pe coasta de vest a Irlandei.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.42773,
+                        52.867509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spanish Point Beach",
+                  "text": "A historic beach in County Clare, named after the 1588 Spanish Armada wrecks.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.433503,
+                        52.838891
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "A picturesque sandy beach near Miltown Malbay on the west coast of Ireland.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.42773,
+                        52.867509
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Miltown Malbay", hu: "Miltown Malbay", ro: "Miltown Malbay", en: "Miltown Malbay" },

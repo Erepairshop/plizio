@@ -1108,6 +1108,33 @@ export const poiExtraPortugalHistorical: POI[] = [
                         -8.284249,
                         41.479848
                   ]
+            },
+            {
+                  "name": "Termas de Caldas das Taipas",
+                  "text": "Traditionelle Thermalanlagen in Caldas das Taipas nahe der Citânia de Briteiros.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.342483,
+                        41.487958
+                  ]
+            },
+            {
+                  "name": "Complexo de Piscinas Taipas Termal",
+                  "text": "Ein moderner Schwimmbadkomplex in Caldas das Taipas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.343568,
+                        41.483095
+                  ]
+            },
+            {
+                  "name": "Piscinas dos Bombeiros",
+                  "text": "Ein öffentliches Schwimmbad der Feuerwehr in der Nähe von Citânia de Briteiros.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.347851,
+                        41.48706
+                  ]
             }
       ],
       "hu": [
@@ -1181,6 +1208,33 @@ export const poiExtraPortugalHistorical: POI[] = [
                   "coords": [
                         -8.284249,
                         41.479848
+                  ]
+            },
+            {
+                  "name": "Termas de Caldas das Taipas",
+                  "text": "Hagyományos termálfürdő Caldas das Taipasban, a Citânia de Briteiros közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.342483,
+                        41.487958
+                  ]
+            },
+            {
+                  "name": "Complexo de Piscinas Taipas Termal",
+                  "text": "Modern úszómedence-komplexum Caldas das Taipas településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.343568,
+                        41.483095
+                  ]
+            },
+            {
+                  "name": "Piscinas dos Bombeiros",
+                  "text": "A tűzoltóság nyilvános úszómedencéje a Citânia de Briteiros közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.347851,
+                        41.48706
                   ]
             }
       ],
@@ -1256,6 +1310,33 @@ export const poiExtraPortugalHistorical: POI[] = [
                         -8.284249,
                         41.479848
                   ]
+            },
+            {
+                  "name": "Termas de Caldas das Taipas",
+                  "text": "Instalații termale tradiționale în Caldas das Taipas, lângă Citânia de Briteiros.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.342483,
+                        41.487958
+                  ]
+            },
+            {
+                  "name": "Complexo de Piscinas Taipas Termal",
+                  "text": "Un complex modern de piscine situat în localitatea Caldas das Taipas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.343568,
+                        41.483095
+                  ]
+            },
+            {
+                  "name": "Piscinas dos Bombeiros",
+                  "text": "O piscină publică gestionată de pompieri în apropiere de Citânia de Briteiros.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.347851,
+                        41.48706
+                  ]
             }
       ],
       "en": [
@@ -1329,6 +1410,33 @@ export const poiExtraPortugalHistorical: POI[] = [
                   "coords": [
                         -8.284249,
                         41.479848
+                  ]
+            },
+            {
+                  "name": "Termas de Caldas das Taipas",
+                  "text": "Traditional thermal bath facilities in Caldas das Taipas near Citânia de Briteiros.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.342483,
+                        41.487958
+                  ]
+            },
+            {
+                  "name": "Complexo de Piscinas Taipas Termal",
+                  "text": "A modern swimming pool complex located in Caldas das Taipas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.343568,
+                        41.483095
+                  ]
+            },
+            {
+                  "name": "Piscinas dos Bombeiros",
+                  "text": "A public swimming pool managed by the firefighters near Citânia de Briteiros.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.347851,
+                        41.48706
                   ]
             }
       ]
@@ -1438,6 +1546,24 @@ export const poiExtraPortugalHistorical: POI[] = [
                         -8.33588,
                         41.553767
                   ]
+            },
+            {
+                  "name": "Private pool",
+                  "text": "Ein privates Schwimmbecken zur Erholung in der Nähe der historischen Burg.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264073,
+                        41.567214
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais",
+                  "text": "Städtische Schwimmbecken, die öffentliche Schwimm- und Freizeitmöglichkeiten bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.271044,
+                        41.573309
+                  ]
             }
       ],
       "hu": [
@@ -1502,6 +1628,24 @@ export const poiExtraPortugalHistorical: POI[] = [
                   "coords": [
                         -8.33588,
                         41.553767
+                  ]
+            },
+            {
+                  "name": "Private pool",
+                  "text": "Privát úszómedence a kikapcsolódáshoz a történelmi vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264073,
+                        41.567214
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais",
+                  "text": "Városi úszómedencék, amelyek nyilvános úszási és szabadidős lehetőségeket kínálnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.271044,
+                        41.573309
                   ]
             }
       ],
@@ -1568,6 +1712,24 @@ export const poiExtraPortugalHistorical: POI[] = [
                         -8.33588,
                         41.553767
                   ]
+            },
+            {
+                  "name": "Private pool",
+                  "text": "O piscină privată pentru recreere în apropierea castelului istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264073,
+                        41.567214
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais",
+                  "text": "Piscine municipale care oferă facilități publice de înot și agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.271044,
+                        41.573309
+                  ]
             }
       ],
       "en": [
@@ -1632,6 +1794,24 @@ export const poiExtraPortugalHistorical: POI[] = [
                   "coords": [
                         -8.33588,
                         41.553767
+                  ]
+            },
+            {
+                  "name": "Private pool",
+                  "text": "A private swimming pool for relaxation near the historic castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264073,
+                        41.567214
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais",
+                  "text": "Municipal swimming pools providing public swimming and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.271044,
+                        41.573309
                   ]
             }
       ]

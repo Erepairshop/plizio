@@ -527,6 +527,24 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.489427,
                         46.034912
                   ]
+            },
+            {
+                  "name": "Vodno Mesto Atlantis",
+                  "text": "Ein großer Wasserpark in Ljubljana mit zahlreichen Innen- und Außenbecken sowie Wellnessbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.549023,
+                        46.063059
+                  ]
+            },
+            {
+                  "name": "Živalski vrt",
+                  "text": "Der slowenische Nationalzoo am Südhang des Rožnik-Hügels in Ljubljana beherbergt zahlreiche Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.472442,
+                        46.055481
+                  ]
             }
       ],
       "hu": [
@@ -1050,6 +1068,24 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.489427,
                         46.034912
+                  ]
+            },
+            {
+                  "name": "Vodno Mesto Atlantis",
+                  "text": "Egy nagy vízi park Ljubljana városában, amely különféle medencékkel és wellness szolgáltatásokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.549023,
+                        46.063059
+                  ]
+            },
+            {
+                  "name": "Živalski vrt",
+                  "text": "Szlovénia állatkertje, amely a ljubljanai Rožnik-domb déli lejtőjén található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.472442,
+                        46.055481
                   ]
             }
       ],
@@ -1575,6 +1611,24 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.489427,
                         46.034912
                   ]
+            },
+            {
+                  "name": "Vodno Mesto Atlantis",
+                  "text": "Un parc acvatic mare din Ljubljana, care oferă diverse piscine și facilități de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        14.549023,
+                        46.063059
+                  ]
+            },
+            {
+                  "name": "Živalski vrt",
+                  "text": "Grădina zoologică națională a Sloveniei, situată pe versantul sudic al dealului Rožnik din Ljubljana.",
+                  "category": "recreational",
+                  "coords": [
+                        14.472442,
+                        46.055481
+                  ]
             }
       ],
       "en": [
@@ -2098,6 +2152,24 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.489427,
                         46.034912
+                  ]
+            },
+            {
+                  "name": "Vodno Mesto Atlantis",
+                  "text": "A large indoor and outdoor water park in Ljubljana offering various pools and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.549023,
+                        46.063059
+                  ]
+            },
+            {
+                  "name": "Ljubljana ZOO",
+                  "text": "The national zoo of Slovenia, located on the southern slope of Rožnik hill in Ljubljana.",
+                  "category": "recreational",
+                  "coords": [
+                        14.472442,
+                        46.055481
                   ]
             }
       ]
@@ -5129,6 +5201,15 @@ export const poiExtraSloveniaCities: POI[] = [
                         13.710586,
                         45.546495
                   ]
+            },
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "Der Stadtstrand von Koper bietet Bademöglichkeiten und Freizeitflächen direkt an der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
+                  ]
             }
       ],
       "hu": [
@@ -5346,6 +5427,15 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.710586,
                         45.546495
+                  ]
+            },
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "Koper városi strandja közvetlenül az Adriai-tenger partján kínál fürdőzési és pihenési lehetőséget.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
                   ]
             }
       ],
@@ -5565,6 +5655,15 @@ export const poiExtraSloveniaCities: POI[] = [
                         13.710586,
                         45.546495
                   ]
+            },
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "Plaja orașului Koper oferă facilități de scăldat și zone de recreere direct la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
+                  ]
             }
       ],
       "en": [
@@ -5782,6 +5881,15 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.710586,
                         45.546495
+                  ]
+            },
+            {
+                  "name": "Mestno kopališče / Spiaggia cittadina",
+                  "text": "The city beach of Koper offers bathing facilities and leisure areas directly on the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.725772,
+                        45.549893
                   ]
             }
       ]

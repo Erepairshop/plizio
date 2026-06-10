@@ -148,6 +148,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.863159,
                         40.129679
                   ]
+            },
+            {
+                  "name": "Praia da Cova-Gala",
+                  "text": "Ein Sandstrand südlich der Mündung des Mondego-Flusses in Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864017,
+                        40.122777
+                  ]
+            },
+            {
+                  "name": "Praia do Forte",
+                  "text": "Ein beliebter Strand in der Nähe der Festung von Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86736,
+                        40.146898
+                  ]
             }
       ],
       "hu": [
@@ -248,6 +266,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.863159,
                         40.129679
+                  ]
+            },
+            {
+                  "name": "Praia da Cova-Gala",
+                  "text": "Homokos tengerpart a Mondego-folyó torkolatától délre, Figueira da Fozban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864017,
+                        40.122777
+                  ]
+            },
+            {
+                  "name": "Praia do Forte",
+                  "text": "Népszerű tengerpart Figueira da Foz erődjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86736,
+                        40.146898
                   ]
             }
       ],
@@ -350,6 +386,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.863159,
                         40.129679
                   ]
+            },
+            {
+                  "name": "Praia da Cova-Gala",
+                  "text": "O plajă cu nisip la sud de vărsarea râului Mondego în Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864017,
+                        40.122777
+                  ]
+            },
+            {
+                  "name": "Praia do Forte",
+                  "text": "O plajă populară situată lângă fortăreața din Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86736,
+                        40.146898
+                  ]
             }
       ],
       "en": [
@@ -450,6 +504,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.863159,
                         40.129679
+                  ]
+            },
+            {
+                  "name": "Praia da Cova-Gala",
+                  "text": "A sandy beach south of the Mondego River mouth in Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864017,
+                        40.122777
+                  ]
+            },
+            {
+                  "name": "Praia do Forte",
+                  "text": "A popular beach located near the fortress in Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86736,
+                        40.146898
                   ]
             }
       ]
@@ -5954,6 +6026,33 @@ export const portugalCitiesV2: POI[] = [
                         -8.667552,
                         41.181149
                   ]
+            },
+            {
+                  "name": "Praia do Castelo do Queijo",
+                  "text": "Praia do Castelo do Queijo ist ein Strand in Matosinhos bei der Festung.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.689997,
+                        41.16754
+                  ]
+            },
+            {
+                  "name": "Praia de Matosinhos",
+                  "text": "Praia de Matosinhos ist ein großer Sandstrand in Matosinhos.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.693456,
+                        41.177188
+                  ]
+            },
+            {
+                  "name": "Praia Internacional",
+                  "text": "Ein weitläufiger Stadtstrand in Matosinhos, der besonders bei Surfern und Spaziergängern beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.688704,
+                        41.171197
+                  ]
             }
       ],
       "hu": [
@@ -6117,6 +6216,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.667552,
                         41.181149
+                  ]
+            },
+            {
+                  "name": "Praia do Castelo do Queijo",
+                  "text": "Praia do Castelo do Queijo egy strand Matosinhosban az erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.689997,
+                        41.16754
+                  ]
+            },
+            {
+                  "name": "Praia de Matosinhos",
+                  "text": "Praia de Matosinhos egy nagy homokos strand Matosinhosban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.693456,
+                        41.177188
+                  ]
+            },
+            {
+                  "name": "Praia Internacional",
+                  "text": "Tágas városi strand Matosinhosban, amely népszerű a szörfözők és a tengerparti séták kedvelői körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.688704,
+                        41.171197
                   ]
             }
       ],
@@ -6282,6 +6408,33 @@ export const portugalCitiesV2: POI[] = [
                         -8.667552,
                         41.181149
                   ]
+            },
+            {
+                  "name": "Praia do Castelo do Queijo",
+                  "text": "Praia do Castelo do Queijo este o plajă în Matosinhos lângă fortăreață.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.689997,
+                        41.16754
+                  ]
+            },
+            {
+                  "name": "Praia de Matosinhos",
+                  "text": "Praia de Matosinhos este o plajă mare de nisip în Matosinhos.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.693456,
+                        41.177188
+                  ]
+            },
+            {
+                  "name": "Praia Internacional",
+                  "text": "O plajă urbană spațioasă în Matosinhos, populară pentru surfing și plimbări pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.688704,
+                        41.171197
+                  ]
             }
       ],
       "en": [
@@ -6445,6 +6598,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.667552,
                         41.181149
+                  ]
+            },
+            {
+                  "name": "Praia do Castelo do Queijo",
+                  "text": "Praia do Castelo do Queijo is a beach in Matosinhos near the fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.689997,
+                        41.16754
+                  ]
+            },
+            {
+                  "name": "Praia de Matosinhos",
+                  "text": "Praia de Matosinhos is a large sandy beach in Matosinhos.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.693456,
+                        41.177188
+                  ]
+            },
+            {
+                  "name": "Praia Internacional",
+                  "text": "A spacious urban beach in Matosinhos, popular for surfing and coastal walks.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.688704,
+                        41.171197
                   ]
             }
       ]
@@ -8779,7 +8959,1816 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-almada-cities-v2.webp",
   },
   {
-    id: "portugal-amadora-cities-v2", "sights": {"de": [{"name": "Villa Romana da Quinta da Bolacha", "text": "Eine archäologische Stätte mit den Überresten einer römischen Villa.", "category": "historical", "coords": [-9.227388, 38.763234]}, {"name": "Necrópole de Carenque", "text": "Eine prähistorische Begräbnisstätte, bestehend aus drei in den Fels gehauenen Gräbern.", "category": "historical", "coords": [-9.243867, 38.773415]}, {"name": "Monumento megalítico do Pego Longo", "text": "Eine megalithische archäologische Stätte in der Region Amadora.", "category": "historical", "coords": [-9.256445, 38.772864]}, {"name": "Casa Roque Gameiro", "text": "Die Casa Roque Gameiro ist ein inspirierendes Museum in Amadora in Portugal, das dem Leben und Werk des Künstlers Roque Gameiro gewidmet ist. Kunstliebhaber, die diesen kulturellen Ort besuchen, können Ausstellungen rund um das Erbe des Malers erwarten.", "category": "museum", "coords": [-9.24235, 38.757907]}, {"name": "Recreios da Amadora", "text": "Ein historisches Theater und Kulturzentrum in Amadora.", "category": "cultural", "coords": [-9.235064, 38.75833]}, {"name": "Turim", "text": "Ein lokaler Theater- und Kulturveranstaltungsort in Amadora.", "category": "cultural", "coords": [-9.202396, 38.75064]}, {"name": "Adventure Park Pinhal da Paiã", "text": "Ein Outdoor-Themenpark, der verschiedene Abenteueraktivitäten anbietet.", "category": "family", "coords": [-9.20787, 38.776318]}, {"name": "Moinho do Castelinho", "text": "Eine archäologische Stätte mit einer traditionellen Windmühlenstruktur.", "category": "historical", "coords": [-9.224834, 38.764885]}, {"name": "Cineteatro Dom João V", "text": "Ein städtisches Theater und Kino in Amadora.", "category": "cultural", "coords": [-9.218634, 38.745931]}, {"name": "Fórum Luís de Camões", "text": "Ein kulturelles Museum und Ausstellungsraum in Amadora.", "category": "museum", "coords": [-9.213728, 38.764802]}, {"name": "Matinha de Queluz", "text": "Ein kleines Naturschutzgebiet und Waldgebiet in der Nähe von Queluz.", "category": "natural", "coords": [-9.260003, 38.744288]}, {"name": "Palácio Baldaya", "text": "Ein historisches Palastgebäude, das heute als Kulturzentrum dient.", "category": "castle", "coords": [-9.200441, 38.750498]}, {"name": "Palácio da Porcalhota", "text": "Ein historisches Herrenhaus in der Region Amadora.", "category": "castle", "coords": [-9.230661, 38.758098]}, {"name": "Palco", "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Amadora.", "category": "cultural", "coords": [-9.235251, 38.762718]}, {"name": "Parque Delfim Guimarães", "text": "Ein zentraler Stadtpark und Grünanlage in Amadora.", "category": "park", "coords": [-9.236653, 38.758918]}, {"name": "Aqueduto das Águas Livres", "text": "Ein historisches Aquädukt aus dem 18. Jahrhundert, das Wasser nach Lissabon leitete.", "category": "landmark", "coords": [-9.203836, 38.742636]}, {"name": "Eucaliptal de Benfica", "text": "Ein Parkgebiet, das durch seine Eukalyptusbäume geprägt ist.", "category": "park", "coords": [-9.199562, 38.755144]}, {"name": "Jardim Botânico de Queluz", "text": "Ein historischer botanischer Garten, der zum Palast von Queluz gehört.", "category": "park", "coords": [-9.260021, 38.748188]}, {"name": "Centro de Arte Contemporânea da Amadora", "text": "Eine Galerie, die Ausstellungen zeitgenössischer Kunst gewidmet ist.", "category": "cultural", "coords": [-9.226802, 38.737432]}, {"name": "Baloiço Panorâmico da Venteira", "text": "Eine Panoramaschaukel mit Blick über die Region Amadora.", "category": "landmark", "coords": [-9.235824, 38.744776]}, {"name": "Palacete dos Condes de Almeida Araújo", "text": "Ein historisches Herrenhaus in Amadora.", "category": "historical", "coords": [-9.256509, 38.751075]}, {"name": "Câmara Municipal da Amadora", "text": "Der Verwaltungssitz und das Rathaus von Amadora.", "category": "historical", "coords": [-9.236028, 38.760399]}, {"name": "Igreja da Divina Misericórdia - Alfragide", "text": "Eine moderne Kirche im Stadtteil Alfragide.", "category": "religious", "coords": [-9.218156, 38.739672]}, {"name": "Chafariz da Carranca", "text": "Ein historischer, dekorativer öffentlicher Brunnen.", "category": "landmark", "coords": [-9.257147, 38.75009]}, {"name": "Igreja de Nossa Senhora Mãe de Deus", "text": "Ein lokales Gotteshaus in Amadora.", "category": "religious", "coords": [-9.210071, 38.741607]}, {"name": "Ponte Filipina de Carenque de Baixo", "text": "Eine historische Steinbrücke aus der philippinischen Ära.", "category": "landmark", "coords": [-9.248721, 38.756499]}, {"name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976", "text": "Ein Militärpanzer, der als historisches Denkmal ausgestellt ist.", "category": "landmark", "coords": [-9.238784, 38.755154]}, {"name": "Lago Duque de Lafões", "text": "Der Lago Duque de Lafões in Amadora ist ein friedliches Gewässer, das sich ideal für einen entspannten Spaziergang am Ufer eignet.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "Die Lagoa in Amadora bietet eine malerische Kulisse für Besucher, die die Ruhe am Wasser genießen möchten.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "Der Lago parque dos moinhos in Amadora ist ein schöner Ort zum Entspannen und zum Betrachten der lokalen Wasservögel.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Lagoa de Casal de Cambra", "text": "Die Lagoa de Casal de Cambra in Amadora ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [-9.234201, 38.800162]}, {"name": "Tanque do Curral", "text": "Der Tanque do Curral in Amadora ist ein historisches Wasserbecken, das heute als ruhiger Ort in der Stadt dient.", "category": "natural", "coords": [-9.262158, 38.752415]}, {"name": "Tanque da Cascata", "text": "Der Tanque da Cascata in Amadora bietet mit seinem Wasserspiel eine angenehme und erfrischende Atmosphäre.", "category": "natural", "coords": [-9.272853, 38.700376]}, {"name": "Tanque", "text": "Der Tanque in Amadora ist ein schlichtes Gewässer, das die umliegende Landschaft bereichert.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Cisterna", "text": "Die Cisterna in Amadora ist ein funktionales Wasserreservoir, das harmonisch in seine Umgebung eingebettet ist.", "category": "natural", "coords": [-9.25845, 38.749713]}, {"name": "Reservatório da Cascata", "text": "Das Reservatório da Cascata in Amadora dient der Wasserspeicherung und ist ein ruhiger Anblick für Passanten.", "category": "natural", "coords": [-9.271329, 38.700323]}, {"name": "Tanque do Convento de Nossa Senhora da Boa Viagem", "text": "Dieser historische Wassertank in Amadora ist ein Zeugnis lokaler Baukunst und ein ruhiger Ort zum Verweilen.", "category": "natural", "coords": [-9.26129, 38.702382]}, {"name": "Lago Principal", "text": "Der Lago Principal in Amadora ist der zentrale See der Anlage und bietet eine schöne Aussicht für Spaziergänger.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque Silva Porto", "text": "Dieser Spielplatz im Parque Silva Porto in Amadora bietet Kindern vielfältige Möglichkeiten zum Toben und Klettern.", "category": "family", "coords": [-9.204733, 38.748231]}, {"name": "Parque Infantil da Rua João Frederico Ludovice", "text": "Der Parque Infantil da Rua João Frederico Ludovice in Amadora ist ein idealer Ort für Familien mit Kindern in der Nachbarschaft.", "category": "family", "coords": [-9.206789, 38.750158]}, {"name": "Parque Infantil da Rua Maria Violante Vieira", "text": "Dieser Spielplatz in der Rua Maria Violante Vieira in Amadora bietet moderne Spielgeräte für Kinder jeden Alters.", "category": "family", "coords": [-9.206557, 38.74476]}, {"name": "Parque Infantil da Rua Doutor Cunha Seixas 2", "text": "Der Parque Infantil da Rua Doutor Cunha Seixas 2 in Amadora ist eine praktische Freizeitanlage für Kinder in städtischer Lage.", "category": "family", "coords": [-9.210264, 38.749694]}, {"name": "Parque Infantil da Rua Lucilia Simões", "text": "Dieser Spielplatz in der Rua Lucilia Simões in Amadora lädt Kinder dazu ein, draußen aktiv zu sein und neue Freunde zu finden.", "category": "family", "coords": [-9.205121, 38.753071]}, {"name": "Navio Pirata", "text": "Das Navio Pirata in Amadora ist ein thematischer Spielplatz, der die Fantasie der Kinder beim Spielen anregt.", "category": "family", "coords": [-9.223384, 38.743134]}, {"name": "Parque Infantil da Praceta Dona Filipa de Lencastre", "text": "Der Parque Infantil da Praceta Dona Filipa de Lencastre in Amadora bietet einen sicheren Platz für das tägliche Spiel im Freien.", "category": "family", "coords": [-9.241283, 38.75594]}, {"name": "Parque Infantil das Pedralvas", "text": "Dieser Spielplatz in Pedralvas, Amadora, bietet eine freundliche Umgebung, in der Kinder spielen und sich austoben können.", "category": "family", "coords": [-9.206134, 38.754544]}, {"name": "Mini-Golfe", "text": "Die Minigolf-Anlage in Amadora ist ein unterhaltsames Ausflugsziel für Familien, die gemeinsam sportlich aktiv sein möchten.", "category": "family", "coords": [-9.229822, 38.761163]}, {"name": "Parque Infantil da Atalaia", "text": "Dieser Spielplatz in Atalaia, Amadora, bietet Kindern viel Platz zum Spielen an der frischen Luft.", "category": "family", "coords": [-9.2268, 38.746337]}, {"name": "Parque Infantil João Villaret", "text": "Dieser Spielplatz in Amadora ist nach João Villaret benannt und bietet Kindern eine abwechslungsreiche Spiellandschaft.", "category": "family", "coords": [-9.215111, 38.769419]}], "hu": [{"name": "Villa Romana da Quinta da Bolacha", "text": "Régészeti lelőhely, amely egy római villa maradványait tartalmazza.", "category": "historical", "coords": [-9.227388, 38.763234]}, {"name": "Necrópole de Carenque", "text": "Őskori temetkezési hely, amely három sziklába vájt sírból áll.", "category": "historical", "coords": [-9.243867, 38.773415]}, {"name": "Monumento megalítico do Pego Longo", "text": "Megalitikus régészeti lelőhely Amadora régiójában.", "category": "historical", "coords": [-9.256445, 38.772864]}, {"name": "Casa Roque Gameiro", "text": "A Roque Gameiro művész életének és munkásságának szentelt Casa Roque Gameiro egy inspiráló múzeum a portugáliai Amadorában. A kulturális helyszínre látogató művészetkedvelők a festő hagyatékára épülő kiállításokra számíthatnak.", "category": "museum", "coords": [-9.24235, 38.757907]}, {"name": "Recreios da Amadora", "text": "Történelmi színház és kulturális központ Amadorában.", "category": "cultural", "coords": [-9.235064, 38.75833]}, {"name": "Turim", "text": "Helyi színház és kulturális helyszín Amadorában.", "category": "cultural", "coords": [-9.202396, 38.75064]}, {"name": "Adventure Park Pinhal da Paiã", "text": "Szabadtéri élménypark, amely kalandprogramokat kínál.", "category": "family", "coords": [-9.20787, 38.776318]}, {"name": "Moinho do Castelinho", "text": "Régészeti lelőhely egy hagyományos szélmalommal.", "category": "historical", "coords": [-9.224834, 38.764885]}, {"name": "Cineteatro Dom João V", "text": "Városi színház és mozi Amadorában.", "category": "cultural", "coords": [-9.218634, 38.745931]}, {"name": "Fórum Luís de Camões", "text": "Kulturális múzeum és kiállítótér Amadorában.", "category": "museum", "coords": [-9.213728, 38.764802]}, {"name": "Matinha de Queluz", "text": "Kisméretű természetvédelmi terület és erdős rész Queluz közelében.", "category": "natural", "coords": [-9.260003, 38.744288]}, {"name": "Palácio Baldaya", "text": "Történelmi palotaépület, amely ma kulturális központként működik.", "category": "castle", "coords": [-9.200441, 38.750498]}, {"name": "Palácio da Porcalhota", "text": "Történelmi kúria Amadora környékén.", "category": "castle", "coords": [-9.230661, 38.758098]}, {"name": "Palco", "text": "Helyi színházi helyszín Amadorában.", "category": "cultural", "coords": [-9.235251, 38.762718]}, {"name": "Parque Delfim Guimarães", "text": "Központi városi park és zöldterület Amadorában.", "category": "park", "coords": [-9.236653, 38.758918]}, {"name": "Aqueduto das Águas Livres", "text": "18. századi történelmi vízvezeték, amely Lisszabon vízellátását biztosította.", "category": "landmark", "coords": [-9.203836, 38.742636]}, {"name": "Eucaliptal de Benfica", "text": "Eukaliptuszfáiról nevezetes parkterület.", "category": "park", "coords": [-9.199562, 38.755144]}, {"name": "Jardim Botânico de Queluz", "text": "A Queluz-palotához kapcsolódó történelmi botanikus kert.", "category": "park", "coords": [-9.260021, 38.748188]}, {"name": "Centro de Arte Contemporânea da Amadora", "text": "Kortárs művészeti kiállításoknak szentelt galéria.", "category": "cultural", "coords": [-9.226802, 38.737432]}, {"name": "Baloiço Panorâmico da Venteira", "text": "Panorámás hinta, ahonnan kilátás nyílik Amadora környékére.", "category": "landmark", "coords": [-9.235824, 38.744776]}, {"name": "Palacete dos Condes de Almeida Araújo", "text": "Történelmi kúria Amadorában.", "category": "historical", "coords": [-9.256509, 38.751075]}, {"name": "Câmara Municipal da Amadora", "text": "Amadora közigazgatási központja és városházája.", "category": "historical", "coords": [-9.236028, 38.760399]}, {"name": "Igreja da Divina Misericórdia - Alfragide", "text": "Modern templom Alfragide negyedében.", "category": "religious", "coords": [-9.218156, 38.739672]}, {"name": "Chafariz da Carranca", "text": "Történelmi díszes közszökőkút.", "category": "landmark", "coords": [-9.257147, 38.75009]}, {"name": "Igreja de Nossa Senhora Mãe de Deus", "text": "Helyi vallási kegyhely Amadorában.", "category": "religious", "coords": [-9.210071, 38.741607]}, {"name": "Ponte Filipina de Carenque de Baixo", "text": "Történelmi kőhíd a spanyol uralom (filippínó korszak) idejéből.", "category": "landmark", "coords": [-9.248721, 38.756499]}, {"name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976", "text": "Katonai harckocsi, amelyet történelmi emlékműként állítottak ki.", "category": "landmark", "coords": [-9.238784, 38.755154]}, {"name": "Lago Duque de Lafões", "text": "Az amadorai Lago Duque de Lafões egy nyugodt vízfelület, amely ideális egy pihentető parti sétához.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "Az amadorai Lagoa festői hátteret nyújt a látogatóknak, akik szeretnék élvezni a vízparti nyugalmat.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "Az amadorai Lago parque dos moinhos szép helyszín a kikapcsolódáshoz és a helyi vízimadarak megfigyeléséhez.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Lagoa de Casal de Cambra", "text": "Az amadorai Lagoa de Casal de Cambra egy csendes vízfelület, amely természetközeli kikapcsolódásra hívogat.", "category": "natural", "coords": [-9.234201, 38.800162]}, {"name": "Tanque do Curral", "text": "Az amadorai Tanque do Curral egy történelmi vízmedence, amely ma nyugodt pontként szolgál a városban.", "category": "natural", "coords": [-9.262158, 38.752415]}, {"name": "Tanque da Cascata", "text": "Az amadorai Tanque da Cascata vízi látványosságával kellemes és frissítő környezetet biztosít.", "category": "natural", "coords": [-9.272853, 38.700376]}, {"name": "Tanque", "text": "Az amadorai Tanque egy egyszerű vízfelület, amely gazdagítja a környező tájat.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Cisterna", "text": "Az amadorai Cisterna egy funkcionális víztározó, amely harmonikusan illeszkedik környezetébe.", "category": "natural", "coords": [-9.25845, 38.749713]}, {"name": "Reservatório da Cascata", "text": "Az amadorai Reservatório da Cascata víztárolásra szolgál, és nyugodt látványt nyújt az arra járóknak.", "category": "natural", "coords": [-9.271329, 38.700323]}, {"name": "Tanque do Convento de Nossa Senhora da Boa Viagem", "text": "Ez a történelmi amadorai víztartály a helyi építészet emléke és nyugodt hely a pihenésre.", "category": "natural", "coords": [-9.26129, 38.702382]}, {"name": "Lago Principal", "text": "Az amadorai Lago Principal a terület központi tava, amely szép kilátást nyújt a sétálóknak.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque Silva Porto", "text": "Ez az amadorai Parque Silva Portóban található játszótér változatos lehetőségeket kínál a gyerekeknek a játékra és mászásra.", "category": "family", "coords": [-9.204733, 38.748231]}, {"name": "Parque Infantil da Rua João Frederico Ludovice", "text": "Az amadorai Parque Infantil da Rua João Frederico Ludovice ideális hely a környékbeli kisgyermekes családok számára.", "category": "family", "coords": [-9.206789, 38.750158]}, {"name": "Parque Infantil da Rua Maria Violante Vieira", "text": "Ez az amadorai Rua Maria Violante Vieirán található játszótér modern játékokkal várja a minden korosztályú gyermeket.", "category": "family", "coords": [-9.206557, 38.74476]}, {"name": "Parque Infantil da Rua Doutor Cunha Seixas 2", "text": "Az amadorai Parque Infantil da Rua Doutor Cunha Seixas 2 egy praktikus szabadidős terület gyerekeknek városi környezetben.", "category": "family", "coords": [-9.210264, 38.749694]}, {"name": "Parque Infantil da Rua Lucilia Simões", "text": "Ez az amadorai Rua Lucilia Simõesen található játszótér szabadtéri aktivitásra és barátkozásra hívja a gyerekeket.", "category": "family", "coords": [-9.205121, 38.753071]}, {"name": "Navio Pirata", "text": "Az amadorai Navio Pirata egy tematikus játszótér, amely játék közben megmozgatja a gyerekek képzeletét.", "category": "family", "coords": [-9.223384, 38.743134]}, {"name": "Parque Infantil da Praceta Dona Filipa de Lencastre", "text": "Az amadorai Parque Infantil da Praceta Dona Filipa de Lencastre biztonságos helyet nyújt a napi szabadtéri játékhoz.", "category": "family", "coords": [-9.241283, 38.75594]}, {"name": "Parque Infantil das Pedralvas", "text": "Ez a Pedralvasban, Amadorában található játszótér barátságos környezetet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [-9.206134, 38.754544]}, {"name": "Mini-Golfe", "text": "Az amadorai minigolfpálya szórakoztató úti cél azon családok számára, akik közösen szeretnének sportolni.", "category": "family", "coords": [-9.229822, 38.761163]}, {"name": "Parque Infantil da Atalaia", "text": "Ez az atalaiai, amadorai játszótér tágas helyet biztosít a gyerekeknek a friss levegőn való játékhoz.", "category": "family", "coords": [-9.2268, 38.746337]}, {"name": "Parque Infantil João Villaret", "text": "Ez az amadorai játszótér João Villaret nevét viseli, és változatos játéklehetőségeket kínál a gyerekeknek.", "category": "family", "coords": [-9.215111, 38.769419]}], "ro": [{"name": "Villa Romana da Quinta da Bolacha", "text": "Un sit arheologic care conține resturile unei vile romane.", "category": "historical", "coords": [-9.227388, 38.763234]}, {"name": "Necrópole de Carenque", "text": "Un sit funerar preistoric format din trei morminte săpate în stâncă.", "category": "historical", "coords": [-9.243867, 38.773415]}, {"name": "Monumento megalítico do Pego Longo", "text": "Un sit arheologic megalitic situat în regiunea Amadora.", "category": "historical", "coords": [-9.256445, 38.772864]}, {"name": "Casa Roque Gameiro", "text": "Dedicat vieții și operei artistului Roque Gameiro, Casa Roque Gameiro este un muzeu plin de inspirație situat în Amadora, Portugalia. Pasionații de artă care vizitează acest spațiu cultural se pot aștepta să exploreze expoziții centrate pe moștenirea pictorului.", "category": "museum", "coords": [-9.24235, 38.757907]}, {"name": "Recreios da Amadora", "text": "Un teatru istoric și centru cultural în Amadora.", "category": "cultural", "coords": [-9.235064, 38.75833]}, {"name": "Turim", "text": "Un teatru local și spațiu cultural în Amadora.", "category": "cultural", "coords": [-9.202396, 38.75064]}, {"name": "Adventure Park Pinhal da Paiã", "text": "Un parc de distracții în aer liber care oferă activități de aventură.", "category": "family", "coords": [-9.20787, 38.776318]}, {"name": "Moinho do Castelinho", "text": "Un sit arheologic care prezintă o structură tradițională de moară de vânt.", "category": "historical", "coords": [-9.224834, 38.764885]}, {"name": "Cineteatro Dom João V", "text": "Un teatru municipal și cinematograf în Amadora.", "category": "cultural", "coords": [-9.218634, 38.745931]}, {"name": "Fórum Luís de Camões", "text": "Un muzeu cultural și spațiu de expoziții în Amadora.", "category": "museum", "coords": [-9.213728, 38.764802]}, {"name": "Matinha de Queluz", "text": "O mică rezervație naturală și zonă împădurită lângă Queluz.", "category": "natural", "coords": [-9.260003, 38.744288]}, {"name": "Palácio Baldaya", "text": "O clădire istorică de palat care servește acum drept centru cultural.", "category": "castle", "coords": [-9.200441, 38.750498]}, {"name": "Palácio da Porcalhota", "text": "Un conac istoric situat în zona Amadora.", "category": "castle", "coords": [-9.230661, 38.758098]}, {"name": "Palco", "text": "Un spațiu teatral local în Amadora.", "category": "cultural", "coords": [-9.235251, 38.762718]}, {"name": "Parque Delfim Guimarães", "text": "Un parc urban central și spațiu verde în Amadora.", "category": "park", "coords": [-9.236653, 38.758918]}, {"name": "Aqueduto das Águas Livres", "text": "Un apeduct istoric din secolul al XVIII-lea care transporta apa la Lisabona.", "category": "landmark", "coords": [-9.203836, 38.742636]}, {"name": "Eucaliptal de Benfica", "text": "O zonă de parc caracterizată prin arborii săi de eucalipt.", "category": "park", "coords": [-9.199562, 38.755144]}, {"name": "Jardim Botânico de Queluz", "text": "O grădină botanică istorică asociată cu Palatul Queluz.", "category": "park", "coords": [-9.260021, 38.748188]}, {"name": "Centro de Arte Contemporânea da Amadora", "text": "O galerie dedicată expozițiilor de artă contemporană.", "category": "cultural", "coords": [-9.226802, 38.737432]}, {"name": "Baloiço Panorâmico da Venteira", "text": "Un leagăn panoramic care oferă vederi asupra regiunii Amadora.", "category": "landmark", "coords": [-9.235824, 38.744776]}, {"name": "Palacete dos Condes de Almeida Araújo", "text": "Un conac istoric în Amadora.", "category": "historical", "coords": [-9.256509, 38.751075]}, {"name": "Câmara Municipal da Amadora", "text": "Sediul administrativ și primăria din Amadora.", "category": "historical", "coords": [-9.236028, 38.760399]}, {"name": "Igreja da Divina Misericórdia - Alfragide", "text": "O biserică modernă situată în zona Alfragide.", "category": "religious", "coords": [-9.218156, 38.739672]}, {"name": "Chafariz da Carranca", "text": "O fântână publică decorativă istorică.", "category": "landmark", "coords": [-9.257147, 38.75009]}, {"name": "Igreja de Nossa Senhora Mãe de Deus", "text": "Un lăcaș de cult local în Amadora.", "category": "religious", "coords": [-9.210071, 38.741607]}, {"name": "Ponte Filipina de Carenque de Baixo", "text": "Un pod istoric din piatră datând din perioada filipină.", "category": "landmark", "coords": [-9.248721, 38.756499]}, {"name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976", "text": "Un tanc militar expus ca monument istoric.", "category": "landmark", "coords": [-9.238784, 38.755154]}, {"name": "Lago Duque de Lafões", "text": "Lago Duque de Lafões din Amadora este un luciu de apă liniștit, ideal pentru o plimbare relaxantă pe mal.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "Lagoa din Amadora oferă un cadru pitoresc pentru vizitatorii care doresc să se bucure de liniștea de lângă apă.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "Lago parque dos moinhos din Amadora este un loc frumos pentru relaxare și pentru observarea păsărilor de apă locale.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Lagoa de Casal de Cambra", "text": "Lagoa de Casal de Cambra din Amadora este un luciu de apă liniștit care invită la petrecerea timpului în natură.", "category": "natural", "coords": [-9.234201, 38.800162]}, {"name": "Tanque do Curral", "text": "Tanque do Curral din Amadora este un bazin de apă istoric care servește astăzi ca un loc liniștit în oraș.", "category": "natural", "coords": [-9.262158, 38.752415]}, {"name": "Tanque da Cascata", "text": "Tanque da Cascata din Amadora oferă o atmosferă plăcută și răcoritoare datorită jocului său de apă.", "category": "natural", "coords": [-9.272853, 38.700376]}, {"name": "Tanque", "text": "Tanque din Amadora este un luciu de apă simplu care îmbogățește peisajul înconjurător.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Cisterna", "text": "Cisterna din Amadora este un rezervor de apă funcțional, integrat armonios în mediul său.", "category": "natural", "coords": [-9.25845, 38.749713]}, {"name": "Reservatório da Cascata", "text": "Reservatório da Cascata din Amadora servește la stocarea apei și este o priveliște liniștită pentru trecători.", "category": "natural", "coords": [-9.271329, 38.700323]}, {"name": "Tanque do Convento de Nossa Senhora da Boa Viagem", "text": "Acest rezervor de apă istoric din Amadora este o mărturie a arhitecturii locale și un loc liniștit pentru relaxare.", "category": "natural", "coords": [-9.26129, 38.702382]}, {"name": "Lago Principal", "text": "Lago Principal din Amadora este lacul central al zonei și oferă o priveliște frumoasă pentru plimbări.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque Silva Porto", "text": "Acest loc de joacă din Parque Silva Porto, Amadora, oferă copiilor multiple posibilități de mișcare și cățărare.", "category": "family", "coords": [-9.204733, 38.748231]}, {"name": "Parque Infantil da Rua João Frederico Ludovice", "text": "Parque Infantil da Rua João Frederico Ludovice din Amadora este un loc ideal pentru familiile cu copii din vecinătate.", "category": "family", "coords": [-9.206789, 38.750158]}, {"name": "Parque Infantil da Rua Maria Violante Vieira", "text": "Acest loc de joacă de pe Rua Maria Violante Vieira din Amadora oferă echipamente moderne pentru copii de toate vârstele.", "category": "family", "coords": [-9.206557, 38.74476]}, {"name": "Parque Infantil da Rua Doutor Cunha Seixas 2", "text": "Parque Infantil da Rua Doutor Cunha Seixas 2 din Amadora este o facilitate recreativă practică pentru copii într-o zonă urbană.", "category": "family", "coords": [-9.210264, 38.749694]}, {"name": "Parque Infantil da Rua Lucilia Simões", "text": "Acest loc de joacă de pe Rua Lucilia Simões din Amadora invită copiii să fie activi în aer liber și să-și facă prieteni noi.", "category": "family", "coords": [-9.205121, 38.753071]}, {"name": "Navio Pirata", "text": "Navio Pirata din Amadora este un loc de joacă tematic care stimulează imaginația copiilor în timpul jocului.", "category": "family", "coords": [-9.223384, 38.743134]}, {"name": "Parque Infantil da Praceta Dona Filipa de Lencastre", "text": "Parque Infantil da Praceta Dona Filipa de Lencastre din Amadora oferă un spațiu sigur pentru joaca zilnică în aer liber.", "category": "family", "coords": [-9.241283, 38.75594]}, {"name": "Parque Infantil das Pedralvas", "text": "Acest loc de joacă din Pedralvas, Amadora, oferă un mediu prietenos unde copiii se pot juca și consuma energia.", "category": "family", "coords": [-9.206134, 38.754544]}, {"name": "Mini-Golfe", "text": "Terenul de minigolf din Amadora este o destinație distractivă pentru familiile care doresc să fie active împreună.", "category": "family", "coords": [-9.229822, 38.761163]}, {"name": "Parque Infantil da Atalaia", "text": "Acest loc de joacă din Atalaia, Amadora, oferă copiilor mult spațiu pentru joacă în aer liber.", "category": "family", "coords": [-9.2268, 38.746337]}, {"name": "Parque Infantil João Villaret", "text": "Acest loc de joacă din Amadora poartă numele lui João Villaret și oferă copiilor un cadru de joacă variat.", "category": "family", "coords": [-9.215111, 38.769419]}], "en": [{"name": "Villa Romana da Quinta da Bolacha", "text": "An archaeological site containing the remains of a Roman villa.", "category": "historical", "coords": [-9.227388, 38.763234]}, {"name": "Necrópole de Carenque", "text": "A prehistoric burial site consisting of three rock-cut tombs.", "category": "historical", "coords": [-9.243867, 38.773415]}, {"name": "Monumento megalítico do Pego Longo", "text": "A megalithic archaeological site located in the Amadora region.", "category": "historical", "coords": [-9.256445, 38.772864]}, {"name": "Casa Roque Gameiro", "text": "Dedicated to the life and work of the artist Roque Gameiro, Casa Roque Gameiro is an inspiring museum located in Amadora, Portugal. Art enthusiasts visiting this cultural venue can expect to explore exhibits centered around the painter's legacy.", "category": "museum", "coords": [-9.24235, 38.757907]}, {"name": "Recreios da Amadora", "text": "A historic theatre and cultural center in Amadora.", "category": "cultural", "coords": [-9.235064, 38.75833]}, {"name": "Turim", "text": "A local theatre and cultural venue in Amadora.", "category": "cultural", "coords": [-9.202396, 38.75064]}, {"name": "Adventure Park Pinhal da Paiã", "text": "An outdoor theme park offering adventure activities.", "category": "family", "coords": [-9.20787, 38.776318]}, {"name": "Moinho do Castelinho", "text": "An archaeological site featuring a traditional windmill structure.", "category": "historical", "coords": [-9.224834, 38.764885]}, {"name": "Cineteatro Dom João V", "text": "A municipal theatre and cinema venue in Amadora.", "category": "cultural", "coords": [-9.218634, 38.745931]}, {"name": "Fórum Luís de Camões", "text": "A cultural museum and exhibition space in Amadora.", "category": "museum", "coords": [-9.213728, 38.764802]}, {"name": "Matinha de Queluz", "text": "A small nature reserve and wooded area near Queluz.", "category": "natural", "coords": [-9.260003, 38.744288]}, {"name": "Palácio Baldaya", "text": "A historic palace building that now serves as a cultural center.", "category": "castle", "coords": [-9.200441, 38.750498]}, {"name": "Palácio da Porcalhota", "text": "A historic manor house located in the Amadora area.", "category": "castle", "coords": [-9.230661, 38.758098]}, {"name": "Palco", "text": "A local theatre venue in Amadora.", "category": "cultural", "coords": [-9.235251, 38.762718]}, {"name": "Parque Delfim Guimarães", "text": "A central urban park and green space in Amadora.", "category": "park", "coords": [-9.236653, 38.758918]}, {"name": "Aqueduto das Águas Livres", "text": "A historic 18th-century aqueduct that transported water to Lisbon.", "category": "landmark", "coords": [-9.203836, 38.742636]}, {"name": "Eucaliptal de Benfica", "text": "A park area characterized by its eucalyptus trees.", "category": "park", "coords": [-9.199562, 38.755144]}, {"name": "Jardim Botânico de Queluz", "text": "A historic botanical garden associated with the Queluz Palace.", "category": "park", "coords": [-9.260021, 38.748188]}, {"name": "Centro de Arte Contemporânea da Amadora", "text": "A gallery dedicated to contemporary art exhibitions.", "category": "cultural", "coords": [-9.226802, 38.737432]}, {"name": "Baloiço Panorâmico da Venteira", "text": "A panoramic swing offering views over the Amadora region.", "category": "landmark", "coords": [-9.235824, 38.744776]}, {"name": "Palacete dos Condes de Almeida Araújo", "text": "A historic manor house in Amadora.", "category": "historical", "coords": [-9.256509, 38.751075]}, {"name": "Câmara Municipal da Amadora", "text": "The administrative headquarters and town hall of Amadora.", "category": "historical", "coords": [-9.236028, 38.760399]}, {"name": "Igreja da Divina Misericórdia - Alfragide", "text": "A modern church located in the Alfragide area.", "category": "religious", "coords": [-9.218156, 38.739672]}, {"name": "Chafariz da Carranca", "text": "A historic decorative public fountain.", "category": "landmark", "coords": [-9.257147, 38.75009]}, {"name": "Igreja de Nossa Senhora Mãe de Deus", "text": "A local place of worship in Amadora.", "category": "religious", "coords": [-9.210071, 38.741607]}, {"name": "Ponte Filipina de Carenque de Baixo", "text": "A historic stone bridge dating from the Philippine period.", "category": "landmark", "coords": [-9.248721, 38.756499]}, {"name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976", "text": "A military tank on display as a historical monument.", "category": "landmark", "coords": [-9.238784, 38.755154]}, {"name": "Lago Duque de Lafões", "text": "Lago Duque de Lafões in Amadora is a peaceful body of water, ideal for a relaxing stroll along the shore.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "Lagoa in Amadora provides a scenic backdrop for visitors wishing to enjoy the tranquility by the water.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "Lago parque dos moinhos in Amadora is a lovely spot for relaxation and observing local waterfowl.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Lagoa de Casal de Cambra", "text": "Lagoa de Casal de Cambra in Amadora is a quiet body of water that invites visitors to spend time in nature.", "category": "natural", "coords": [-9.234201, 38.800162]}, {"name": "Tanque do Curral", "text": "Tanque do Curral in Amadora is a historical water basin that today serves as a peaceful spot in the city.", "category": "natural", "coords": [-9.262158, 38.752415]}, {"name": "Tanque da Cascata", "text": "Tanque da Cascata in Amadora provides a pleasant and refreshing atmosphere with its water feature.", "category": "natural", "coords": [-9.272853, 38.700376]}, {"name": "Tanque", "text": "Tanque in Amadora is a simple body of water that enhances the surrounding landscape.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Cisterna", "text": "Cisterna in Amadora is a functional water reservoir harmoniously integrated into its surroundings.", "category": "natural", "coords": [-9.25845, 38.749713]}, {"name": "Reservatório da Cascata", "text": "Reservatório da Cascata in Amadora is used for water storage and offers a calm sight for passersby.", "category": "natural", "coords": [-9.271329, 38.700323]}, {"name": "Tanque do Convento de Nossa Senhora da Boa Viagem", "text": "This historical water tank in Amadora is a testament to local architecture and a peaceful place to linger.", "category": "natural", "coords": [-9.26129, 38.702382]}, {"name": "Lago Principal", "text": "Lago Principal in Amadora is the central lake of the area and offers a lovely view for walkers.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque Silva Porto", "text": "This playground in Parque Silva Porto, Amadora, offers children various opportunities for active play and climbing.", "category": "family", "coords": [-9.204733, 38.748231]}, {"name": "Parque Infantil da Rua João Frederico Ludovice", "text": "Parque Infantil da Rua João Frederico Ludovice in Amadora is an ideal spot for local families with children.", "category": "family", "coords": [-9.206789, 38.750158]}, {"name": "Parque Infantil da Rua Maria Violante Vieira", "text": "This playground on Rua Maria Violante Vieira in Amadora features modern play equipment for children of all ages.", "category": "family", "coords": [-9.206557, 38.74476]}, {"name": "Parque Infantil da Rua Doutor Cunha Seixas 2", "text": "Parque Infantil da Rua Doutor Cunha Seixas 2 in Amadora is a practical recreational area for children in an urban setting.", "category": "family", "coords": [-9.210264, 38.749694]}, {"name": "Parque Infantil da Rua Lucilia Simões", "text": "This playground on Rua Lucilia Simões in Amadora invites children to stay active outdoors and make new friends.", "category": "family", "coords": [-9.205121, 38.753071]}, {"name": "Navio Pirata", "text": "Navio Pirata in Amadora is a themed playground that sparks children's imagination during play.", "category": "family", "coords": [-9.223384, 38.743134]}, {"name": "Parque Infantil da Praceta Dona Filipa de Lencastre", "text": "Parque Infantil da Praceta Dona Filipa de Lencastre in Amadora provides a safe space for daily outdoor play.", "category": "family", "coords": [-9.241283, 38.75594]}, {"name": "Parque Infantil das Pedralvas", "text": "This playground in Pedralvas, Amadora, offers a friendly environment where children can play and release energy.", "category": "family", "coords": [-9.206134, 38.754544]}, {"name": "Mini-Golfe", "text": "The miniature golf course in Amadora is a fun destination for families looking to be active together.", "category": "family", "coords": [-9.229822, 38.761163]}, {"name": "Parque Infantil da Atalaia", "text": "This playground in Atalaia, Amadora, offers children plenty of space for playing in the fresh air.", "category": "family", "coords": [-9.2268, 38.746337]}, {"name": "Parque Infantil João Villaret", "text": "This playground in Amadora is named after João Villaret and offers children a diverse play landscape.", "category": "family", "coords": [-9.215111, 38.769419]}]},
+    id: "portugal-amadora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Villa Romana da Quinta da Bolacha",
+                  "text": "Eine archäologische Stätte mit den Überresten einer römischen Villa.",
+                  "category": "historical",
+                  "coords": [
+                        -9.227388,
+                        38.763234
+                  ]
+            },
+            {
+                  "name": "Necrópole de Carenque",
+                  "text": "Eine prähistorische Begräbnisstätte, bestehend aus drei in den Fels gehauenen Gräbern.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243867,
+                        38.773415
+                  ]
+            },
+            {
+                  "name": "Monumento megalítico do Pego Longo",
+                  "text": "Eine megalithische archäologische Stätte in der Region Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256445,
+                        38.772864
+                  ]
+            },
+            {
+                  "name": "Casa Roque Gameiro",
+                  "text": "Die Casa Roque Gameiro ist ein inspirierendes Museum in Amadora in Portugal, das dem Leben und Werk des Künstlers Roque Gameiro gewidmet ist. Kunstliebhaber, die diesen kulturellen Ort besuchen, können Ausstellungen rund um das Erbe des Malers erwarten.",
+                  "category": "museum",
+                  "coords": [
+                        -9.24235,
+                        38.757907
+                  ]
+            },
+            {
+                  "name": "Recreios da Amadora",
+                  "text": "Ein historisches Theater und Kulturzentrum in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235064,
+                        38.75833
+                  ]
+            },
+            {
+                  "name": "Turim",
+                  "text": "Ein lokaler Theater- und Kulturveranstaltungsort in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.202396,
+                        38.75064
+                  ]
+            },
+            {
+                  "name": "Adventure Park Pinhal da Paiã",
+                  "text": "Ein Outdoor-Themenpark, der verschiedene Abenteueraktivitäten anbietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.20787,
+                        38.776318
+                  ]
+            },
+            {
+                  "name": "Moinho do Castelinho",
+                  "text": "Eine archäologische Stätte mit einer traditionellen Windmühlenstruktur.",
+                  "category": "historical",
+                  "coords": [
+                        -9.224834,
+                        38.764885
+                  ]
+            },
+            {
+                  "name": "Cineteatro Dom João V",
+                  "text": "Ein städtisches Theater und Kino in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.218634,
+                        38.745931
+                  ]
+            },
+            {
+                  "name": "Fórum Luís de Camões",
+                  "text": "Ein kulturelles Museum und Ausstellungsraum in Amadora.",
+                  "category": "museum",
+                  "coords": [
+                        -9.213728,
+                        38.764802
+                  ]
+            },
+            {
+                  "name": "Matinha de Queluz",
+                  "text": "Ein kleines Naturschutzgebiet und Waldgebiet in der Nähe von Queluz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.260003,
+                        38.744288
+                  ]
+            },
+            {
+                  "name": "Palácio Baldaya",
+                  "text": "Ein historisches Palastgebäude, das heute als Kulturzentrum dient.",
+                  "category": "castle",
+                  "coords": [
+                        -9.200441,
+                        38.750498
+                  ]
+            },
+            {
+                  "name": "Palácio da Porcalhota",
+                  "text": "Ein historisches Herrenhaus in der Region Amadora.",
+                  "category": "castle",
+                  "coords": [
+                        -9.230661,
+                        38.758098
+                  ]
+            },
+            {
+                  "name": "Palco",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235251,
+                        38.762718
+                  ]
+            },
+            {
+                  "name": "Parque Delfim Guimarães",
+                  "text": "Ein zentraler Stadtpark und Grünanlage in Amadora.",
+                  "category": "park",
+                  "coords": [
+                        -9.236653,
+                        38.758918
+                  ]
+            },
+            {
+                  "name": "Aqueduto das Águas Livres",
+                  "text": "Ein historisches Aquädukt aus dem 18. Jahrhundert, das Wasser nach Lissabon leitete.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.203836,
+                        38.742636
+                  ]
+            },
+            {
+                  "name": "Eucaliptal de Benfica",
+                  "text": "Ein Parkgebiet, das durch seine Eukalyptusbäume geprägt ist.",
+                  "category": "park",
+                  "coords": [
+                        -9.199562,
+                        38.755144
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico de Queluz",
+                  "text": "Ein historischer botanischer Garten, der zum Palast von Queluz gehört.",
+                  "category": "park",
+                  "coords": [
+                        -9.260021,
+                        38.748188
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporânea da Amadora",
+                  "text": "Eine Galerie, die Ausstellungen zeitgenössischer Kunst gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.226802,
+                        38.737432
+                  ]
+            },
+            {
+                  "name": "Baloiço Panorâmico da Venteira",
+                  "text": "Eine Panoramaschaukel mit Blick über die Region Amadora.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.235824,
+                        38.744776
+                  ]
+            },
+            {
+                  "name": "Palacete dos Condes de Almeida Araújo",
+                  "text": "Ein historisches Herrenhaus in Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256509,
+                        38.751075
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Amadora",
+                  "text": "Der Verwaltungssitz und das Rathaus von Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.236028,
+                        38.760399
+                  ]
+            },
+            {
+                  "name": "Igreja da Divina Misericórdia - Alfragide",
+                  "text": "Eine moderne Kirche im Stadtteil Alfragide.",
+                  "category": "religious",
+                  "coords": [
+                        -9.218156,
+                        38.739672
+                  ]
+            },
+            {
+                  "name": "Chafariz da Carranca",
+                  "text": "Ein historischer, dekorativer öffentlicher Brunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.257147,
+                        38.75009
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora Mãe de Deus",
+                  "text": "Ein lokales Gotteshaus in Amadora.",
+                  "category": "religious",
+                  "coords": [
+                        -9.210071,
+                        38.741607
+                  ]
+            },
+            {
+                  "name": "Ponte Filipina de Carenque de Baixo",
+                  "text": "Eine historische Steinbrücke aus der philippinischen Ära.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.248721,
+                        38.756499
+                  ]
+            },
+            {
+                  "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
+                  "text": "Ein Militärpanzer, der als historisches Denkmal ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.238784,
+                        38.755154
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Der Lago Duque de Lafões in Amadora ist ein friedliches Gewässer, das sich ideal für einen entspannten Spaziergang am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Die Lagoa in Amadora bietet eine malerische Kulisse für Besucher, die die Ruhe am Wasser genießen möchten.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Der Lago parque dos moinhos in Amadora ist ein schöner Ort zum Entspannen und zum Betrachten der lokalen Wasservögel.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Lagoa de Casal de Cambra",
+                  "text": "Die Lagoa de Casal de Cambra in Amadora ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.234201,
+                        38.800162
+                  ]
+            },
+            {
+                  "name": "Tanque do Curral",
+                  "text": "Der Tanque do Curral in Amadora ist ein historisches Wasserbecken, das heute als ruhiger Ort in der Stadt dient.",
+                  "category": "natural",
+                  "coords": [
+                        -9.262158,
+                        38.752415
+                  ]
+            },
+            {
+                  "name": "Tanque da Cascata",
+                  "text": "Der Tanque da Cascata in Amadora bietet mit seinem Wasserspiel eine angenehme und erfrischende Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        -9.272853,
+                        38.700376
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Der Tanque in Amadora ist ein schlichtes Gewässer, das die umliegende Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "Die Cisterna in Amadora ist ein funktionales Wasserreservoir, das harmonisch in seine Umgebung eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -9.25845,
+                        38.749713
+                  ]
+            },
+            {
+                  "name": "Reservatório da Cascata",
+                  "text": "Das Reservatório da Cascata in Amadora dient der Wasserspeicherung und ist ein ruhiger Anblick für Passanten.",
+                  "category": "natural",
+                  "coords": [
+                        -9.271329,
+                        38.700323
+                  ]
+            },
+            {
+                  "name": "Tanque do Convento de Nossa Senhora da Boa Viagem",
+                  "text": "Dieser historische Wassertank in Amadora ist ein Zeugnis lokaler Baukunst und ein ruhiger Ort zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.26129,
+                        38.702382
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Der Lago Principal in Amadora ist der zentrale See der Anlage und bietet eine schöne Aussicht für Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Silva Porto",
+                  "text": "Dieser Spielplatz im Parque Silva Porto in Amadora bietet Kindern vielfältige Möglichkeiten zum Toben und Klettern.",
+                  "category": "family",
+                  "coords": [
+                        -9.204733,
+                        38.748231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua João Frederico Ludovice",
+                  "text": "Der Parque Infantil da Rua João Frederico Ludovice in Amadora ist ein idealer Ort für Familien mit Kindern in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        -9.206789,
+                        38.750158
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Maria Violante Vieira",
+                  "text": "Dieser Spielplatz in der Rua Maria Violante Vieira in Amadora bietet moderne Spielgeräte für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -9.206557,
+                        38.74476
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Doutor Cunha Seixas 2",
+                  "text": "Der Parque Infantil da Rua Doutor Cunha Seixas 2 in Amadora ist eine praktische Freizeitanlage für Kinder in städtischer Lage.",
+                  "category": "family",
+                  "coords": [
+                        -9.210264,
+                        38.749694
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Lucilia Simões",
+                  "text": "Dieser Spielplatz in der Rua Lucilia Simões in Amadora lädt Kinder dazu ein, draußen aktiv zu sein und neue Freunde zu finden.",
+                  "category": "family",
+                  "coords": [
+                        -9.205121,
+                        38.753071
+                  ]
+            },
+            {
+                  "name": "Navio Pirata",
+                  "text": "Das Navio Pirata in Amadora ist ein thematischer Spielplatz, der die Fantasie der Kinder beim Spielen anregt.",
+                  "category": "family",
+                  "coords": [
+                        -9.223384,
+                        38.743134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Dona Filipa de Lencastre",
+                  "text": "Der Parque Infantil da Praceta Dona Filipa de Lencastre in Amadora bietet einen sicheren Platz für das tägliche Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -9.241283,
+                        38.75594
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Pedralvas",
+                  "text": "Dieser Spielplatz in Pedralvas, Amadora, bietet eine freundliche Umgebung, in der Kinder spielen und sich austoben können.",
+                  "category": "family",
+                  "coords": [
+                        -9.206134,
+                        38.754544
+                  ]
+            },
+            {
+                  "name": "Mini-Golfe",
+                  "text": "Die Minigolf-Anlage in Amadora ist ein unterhaltsames Ausflugsziel für Familien, die gemeinsam sportlich aktiv sein möchten.",
+                  "category": "family",
+                  "coords": [
+                        -9.229822,
+                        38.761163
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Atalaia",
+                  "text": "Dieser Spielplatz in Atalaia, Amadora, bietet Kindern viel Platz zum Spielen an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        -9.2268,
+                        38.746337
+                  ]
+            },
+            {
+                  "name": "Parque Infantil João Villaret",
+                  "text": "Dieser Spielplatz in Amadora ist nach João Villaret benannt und bietet Kindern eine abwechslungsreiche Spiellandschaft.",
+                  "category": "family",
+                  "coords": [
+                        -9.215111,
+                        38.769419
+                  ]
+            },
+            {
+                  "name": "Espassus Piscina",
+                  "text": "Ein Schwimmbad in Amadora, das der lokalen Bevölkerung Platz für Wassersport bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.186511,
+                        38.760528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa Romana da Quinta da Bolacha",
+                  "text": "Régészeti lelőhely, amely egy római villa maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        -9.227388,
+                        38.763234
+                  ]
+            },
+            {
+                  "name": "Necrópole de Carenque",
+                  "text": "Őskori temetkezési hely, amely három sziklába vájt sírból áll.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243867,
+                        38.773415
+                  ]
+            },
+            {
+                  "name": "Monumento megalítico do Pego Longo",
+                  "text": "Megalitikus régészeti lelőhely Amadora régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256445,
+                        38.772864
+                  ]
+            },
+            {
+                  "name": "Casa Roque Gameiro",
+                  "text": "A Roque Gameiro művész életének és munkásságának szentelt Casa Roque Gameiro egy inspiráló múzeum a portugáliai Amadorában. A kulturális helyszínre látogató művészetkedvelők a festő hagyatékára épülő kiállításokra számíthatnak.",
+                  "category": "museum",
+                  "coords": [
+                        -9.24235,
+                        38.757907
+                  ]
+            },
+            {
+                  "name": "Recreios da Amadora",
+                  "text": "Történelmi színház és kulturális központ Amadorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235064,
+                        38.75833
+                  ]
+            },
+            {
+                  "name": "Turim",
+                  "text": "Helyi színház és kulturális helyszín Amadorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.202396,
+                        38.75064
+                  ]
+            },
+            {
+                  "name": "Adventure Park Pinhal da Paiã",
+                  "text": "Szabadtéri élménypark, amely kalandprogramokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        -9.20787,
+                        38.776318
+                  ]
+            },
+            {
+                  "name": "Moinho do Castelinho",
+                  "text": "Régészeti lelőhely egy hagyományos szélmalommal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.224834,
+                        38.764885
+                  ]
+            },
+            {
+                  "name": "Cineteatro Dom João V",
+                  "text": "Városi színház és mozi Amadorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.218634,
+                        38.745931
+                  ]
+            },
+            {
+                  "name": "Fórum Luís de Camões",
+                  "text": "Kulturális múzeum és kiállítótér Amadorában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.213728,
+                        38.764802
+                  ]
+            },
+            {
+                  "name": "Matinha de Queluz",
+                  "text": "Kisméretű természetvédelmi terület és erdős rész Queluz közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.260003,
+                        38.744288
+                  ]
+            },
+            {
+                  "name": "Palácio Baldaya",
+                  "text": "Történelmi palotaépület, amely ma kulturális központként működik.",
+                  "category": "castle",
+                  "coords": [
+                        -9.200441,
+                        38.750498
+                  ]
+            },
+            {
+                  "name": "Palácio da Porcalhota",
+                  "text": "Történelmi kúria Amadora környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -9.230661,
+                        38.758098
+                  ]
+            },
+            {
+                  "name": "Palco",
+                  "text": "Helyi színházi helyszín Amadorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235251,
+                        38.762718
+                  ]
+            },
+            {
+                  "name": "Parque Delfim Guimarães",
+                  "text": "Központi városi park és zöldterület Amadorában.",
+                  "category": "park",
+                  "coords": [
+                        -9.236653,
+                        38.758918
+                  ]
+            },
+            {
+                  "name": "Aqueduto das Águas Livres",
+                  "text": "18. századi történelmi vízvezeték, amely Lisszabon vízellátását biztosította.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.203836,
+                        38.742636
+                  ]
+            },
+            {
+                  "name": "Eucaliptal de Benfica",
+                  "text": "Eukaliptuszfáiról nevezetes parkterület.",
+                  "category": "park",
+                  "coords": [
+                        -9.199562,
+                        38.755144
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico de Queluz",
+                  "text": "A Queluz-palotához kapcsolódó történelmi botanikus kert.",
+                  "category": "park",
+                  "coords": [
+                        -9.260021,
+                        38.748188
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporânea da Amadora",
+                  "text": "Kortárs művészeti kiállításoknak szentelt galéria.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.226802,
+                        38.737432
+                  ]
+            },
+            {
+                  "name": "Baloiço Panorâmico da Venteira",
+                  "text": "Panorámás hinta, ahonnan kilátás nyílik Amadora környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.235824,
+                        38.744776
+                  ]
+            },
+            {
+                  "name": "Palacete dos Condes de Almeida Araújo",
+                  "text": "Történelmi kúria Amadorában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256509,
+                        38.751075
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Amadora",
+                  "text": "Amadora közigazgatási központja és városházája.",
+                  "category": "historical",
+                  "coords": [
+                        -9.236028,
+                        38.760399
+                  ]
+            },
+            {
+                  "name": "Igreja da Divina Misericórdia - Alfragide",
+                  "text": "Modern templom Alfragide negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -9.218156,
+                        38.739672
+                  ]
+            },
+            {
+                  "name": "Chafariz da Carranca",
+                  "text": "Történelmi díszes közszökőkút.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.257147,
+                        38.75009
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora Mãe de Deus",
+                  "text": "Helyi vallási kegyhely Amadorában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.210071,
+                        38.741607
+                  ]
+            },
+            {
+                  "name": "Ponte Filipina de Carenque de Baixo",
+                  "text": "Történelmi kőhíd a spanyol uralom (filippínó korszak) idejéből.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.248721,
+                        38.756499
+                  ]
+            },
+            {
+                  "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
+                  "text": "Katonai harckocsi, amelyet történelmi emlékműként állítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.238784,
+                        38.755154
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Az amadorai Lago Duque de Lafões egy nyugodt vízfelület, amely ideális egy pihentető parti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Az amadorai Lagoa festői hátteret nyújt a látogatóknak, akik szeretnék élvezni a vízparti nyugalmat.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Az amadorai Lago parque dos moinhos szép helyszín a kikapcsolódáshoz és a helyi vízimadarak megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Lagoa de Casal de Cambra",
+                  "text": "Az amadorai Lagoa de Casal de Cambra egy csendes vízfelület, amely természetközeli kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -9.234201,
+                        38.800162
+                  ]
+            },
+            {
+                  "name": "Tanque do Curral",
+                  "text": "Az amadorai Tanque do Curral egy történelmi vízmedence, amely ma nyugodt pontként szolgál a városban.",
+                  "category": "natural",
+                  "coords": [
+                        -9.262158,
+                        38.752415
+                  ]
+            },
+            {
+                  "name": "Tanque da Cascata",
+                  "text": "Az amadorai Tanque da Cascata vízi látványosságával kellemes és frissítő környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        -9.272853,
+                        38.700376
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Az amadorai Tanque egy egyszerű vízfelület, amely gazdagítja a környező tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "Az amadorai Cisterna egy funkcionális víztározó, amely harmonikusan illeszkedik környezetébe.",
+                  "category": "natural",
+                  "coords": [
+                        -9.25845,
+                        38.749713
+                  ]
+            },
+            {
+                  "name": "Reservatório da Cascata",
+                  "text": "Az amadorai Reservatório da Cascata víztárolásra szolgál, és nyugodt látványt nyújt az arra járóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -9.271329,
+                        38.700323
+                  ]
+            },
+            {
+                  "name": "Tanque do Convento de Nossa Senhora da Boa Viagem",
+                  "text": "Ez a történelmi amadorai víztartály a helyi építészet emléke és nyugodt hely a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        -9.26129,
+                        38.702382
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Az amadorai Lago Principal a terület központi tava, amely szép kilátást nyújt a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Silva Porto",
+                  "text": "Ez az amadorai Parque Silva Portóban található játszótér változatos lehetőségeket kínál a gyerekeknek a játékra és mászásra.",
+                  "category": "family",
+                  "coords": [
+                        -9.204733,
+                        38.748231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua João Frederico Ludovice",
+                  "text": "Az amadorai Parque Infantil da Rua João Frederico Ludovice ideális hely a környékbeli kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -9.206789,
+                        38.750158
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Maria Violante Vieira",
+                  "text": "Ez az amadorai Rua Maria Violante Vieirán található játszótér modern játékokkal várja a minden korosztályú gyermeket.",
+                  "category": "family",
+                  "coords": [
+                        -9.206557,
+                        38.74476
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Doutor Cunha Seixas 2",
+                  "text": "Az amadorai Parque Infantil da Rua Doutor Cunha Seixas 2 egy praktikus szabadidős terület gyerekeknek városi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -9.210264,
+                        38.749694
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Lucilia Simões",
+                  "text": "Ez az amadorai Rua Lucilia Simõesen található játszótér szabadtéri aktivitásra és barátkozásra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -9.205121,
+                        38.753071
+                  ]
+            },
+            {
+                  "name": "Navio Pirata",
+                  "text": "Az amadorai Navio Pirata egy tematikus játszótér, amely játék közben megmozgatja a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        -9.223384,
+                        38.743134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Dona Filipa de Lencastre",
+                  "text": "Az amadorai Parque Infantil da Praceta Dona Filipa de Lencastre biztonságos helyet nyújt a napi szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.241283,
+                        38.75594
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Pedralvas",
+                  "text": "Ez a Pedralvasban, Amadorában található játszótér barátságos környezetet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.206134,
+                        38.754544
+                  ]
+            },
+            {
+                  "name": "Mini-Golfe",
+                  "text": "Az amadorai minigolfpálya szórakoztató úti cél azon családok számára, akik közösen szeretnének sportolni.",
+                  "category": "family",
+                  "coords": [
+                        -9.229822,
+                        38.761163
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Atalaia",
+                  "text": "Ez az atalaiai, amadorai játszótér tágas helyet biztosít a gyerekeknek a friss levegőn való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.2268,
+                        38.746337
+                  ]
+            },
+            {
+                  "name": "Parque Infantil João Villaret",
+                  "text": "Ez az amadorai játszótér João Villaret nevét viseli, és változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -9.215111,
+                        38.769419
+                  ]
+            },
+            {
+                  "name": "Espassus Piscina",
+                  "text": "Uszoda Amadorában, amely vízi sportolási lehetőséget biztosít a helyieknek.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.186511,
+                        38.760528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa Romana da Quinta da Bolacha",
+                  "text": "Un sit arheologic care conține resturile unei vile romane.",
+                  "category": "historical",
+                  "coords": [
+                        -9.227388,
+                        38.763234
+                  ]
+            },
+            {
+                  "name": "Necrópole de Carenque",
+                  "text": "Un sit funerar preistoric format din trei morminte săpate în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243867,
+                        38.773415
+                  ]
+            },
+            {
+                  "name": "Monumento megalítico do Pego Longo",
+                  "text": "Un sit arheologic megalitic situat în regiunea Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256445,
+                        38.772864
+                  ]
+            },
+            {
+                  "name": "Casa Roque Gameiro",
+                  "text": "Dedicat vieții și operei artistului Roque Gameiro, Casa Roque Gameiro este un muzeu plin de inspirație situat în Amadora, Portugalia. Pasionații de artă care vizitează acest spațiu cultural se pot aștepta să exploreze expoziții centrate pe moștenirea pictorului.",
+                  "category": "museum",
+                  "coords": [
+                        -9.24235,
+                        38.757907
+                  ]
+            },
+            {
+                  "name": "Recreios da Amadora",
+                  "text": "Un teatru istoric și centru cultural în Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235064,
+                        38.75833
+                  ]
+            },
+            {
+                  "name": "Turim",
+                  "text": "Un teatru local și spațiu cultural în Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.202396,
+                        38.75064
+                  ]
+            },
+            {
+                  "name": "Adventure Park Pinhal da Paiã",
+                  "text": "Un parc de distracții în aer liber care oferă activități de aventură.",
+                  "category": "family",
+                  "coords": [
+                        -9.20787,
+                        38.776318
+                  ]
+            },
+            {
+                  "name": "Moinho do Castelinho",
+                  "text": "Un sit arheologic care prezintă o structură tradițională de moară de vânt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.224834,
+                        38.764885
+                  ]
+            },
+            {
+                  "name": "Cineteatro Dom João V",
+                  "text": "Un teatru municipal și cinematograf în Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.218634,
+                        38.745931
+                  ]
+            },
+            {
+                  "name": "Fórum Luís de Camões",
+                  "text": "Un muzeu cultural și spațiu de expoziții în Amadora.",
+                  "category": "museum",
+                  "coords": [
+                        -9.213728,
+                        38.764802
+                  ]
+            },
+            {
+                  "name": "Matinha de Queluz",
+                  "text": "O mică rezervație naturală și zonă împădurită lângă Queluz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.260003,
+                        38.744288
+                  ]
+            },
+            {
+                  "name": "Palácio Baldaya",
+                  "text": "O clădire istorică de palat care servește acum drept centru cultural.",
+                  "category": "castle",
+                  "coords": [
+                        -9.200441,
+                        38.750498
+                  ]
+            },
+            {
+                  "name": "Palácio da Porcalhota",
+                  "text": "Un conac istoric situat în zona Amadora.",
+                  "category": "castle",
+                  "coords": [
+                        -9.230661,
+                        38.758098
+                  ]
+            },
+            {
+                  "name": "Palco",
+                  "text": "Un spațiu teatral local în Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235251,
+                        38.762718
+                  ]
+            },
+            {
+                  "name": "Parque Delfim Guimarães",
+                  "text": "Un parc urban central și spațiu verde în Amadora.",
+                  "category": "park",
+                  "coords": [
+                        -9.236653,
+                        38.758918
+                  ]
+            },
+            {
+                  "name": "Aqueduto das Águas Livres",
+                  "text": "Un apeduct istoric din secolul al XVIII-lea care transporta apa la Lisabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.203836,
+                        38.742636
+                  ]
+            },
+            {
+                  "name": "Eucaliptal de Benfica",
+                  "text": "O zonă de parc caracterizată prin arborii săi de eucalipt.",
+                  "category": "park",
+                  "coords": [
+                        -9.199562,
+                        38.755144
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico de Queluz",
+                  "text": "O grădină botanică istorică asociată cu Palatul Queluz.",
+                  "category": "park",
+                  "coords": [
+                        -9.260021,
+                        38.748188
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporânea da Amadora",
+                  "text": "O galerie dedicată expozițiilor de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.226802,
+                        38.737432
+                  ]
+            },
+            {
+                  "name": "Baloiço Panorâmico da Venteira",
+                  "text": "Un leagăn panoramic care oferă vederi asupra regiunii Amadora.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.235824,
+                        38.744776
+                  ]
+            },
+            {
+                  "name": "Palacete dos Condes de Almeida Araújo",
+                  "text": "Un conac istoric în Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256509,
+                        38.751075
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Amadora",
+                  "text": "Sediul administrativ și primăria din Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.236028,
+                        38.760399
+                  ]
+            },
+            {
+                  "name": "Igreja da Divina Misericórdia - Alfragide",
+                  "text": "O biserică modernă situată în zona Alfragide.",
+                  "category": "religious",
+                  "coords": [
+                        -9.218156,
+                        38.739672
+                  ]
+            },
+            {
+                  "name": "Chafariz da Carranca",
+                  "text": "O fântână publică decorativă istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.257147,
+                        38.75009
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora Mãe de Deus",
+                  "text": "Un lăcaș de cult local în Amadora.",
+                  "category": "religious",
+                  "coords": [
+                        -9.210071,
+                        38.741607
+                  ]
+            },
+            {
+                  "name": "Ponte Filipina de Carenque de Baixo",
+                  "text": "Un pod istoric din piatră datând din perioada filipină.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.248721,
+                        38.756499
+                  ]
+            },
+            {
+                  "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
+                  "text": "Un tanc militar expus ca monument istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.238784,
+                        38.755154
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Lago Duque de Lafões din Amadora este un luciu de apă liniștit, ideal pentru o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Lagoa din Amadora oferă un cadru pitoresc pentru vizitatorii care doresc să se bucure de liniștea de lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Lago parque dos moinhos din Amadora este un loc frumos pentru relaxare și pentru observarea păsărilor de apă locale.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Lagoa de Casal de Cambra",
+                  "text": "Lagoa de Casal de Cambra din Amadora este un luciu de apă liniștit care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -9.234201,
+                        38.800162
+                  ]
+            },
+            {
+                  "name": "Tanque do Curral",
+                  "text": "Tanque do Curral din Amadora este un bazin de apă istoric care servește astăzi ca un loc liniștit în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -9.262158,
+                        38.752415
+                  ]
+            },
+            {
+                  "name": "Tanque da Cascata",
+                  "text": "Tanque da Cascata din Amadora oferă o atmosferă plăcută și răcoritoare datorită jocului său de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.272853,
+                        38.700376
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Tanque din Amadora este un luciu de apă simplu care îmbogățește peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "Cisterna din Amadora este un rezervor de apă funcțional, integrat armonios în mediul său.",
+                  "category": "natural",
+                  "coords": [
+                        -9.25845,
+                        38.749713
+                  ]
+            },
+            {
+                  "name": "Reservatório da Cascata",
+                  "text": "Reservatório da Cascata din Amadora servește la stocarea apei și este o priveliște liniștită pentru trecători.",
+                  "category": "natural",
+                  "coords": [
+                        -9.271329,
+                        38.700323
+                  ]
+            },
+            {
+                  "name": "Tanque do Convento de Nossa Senhora da Boa Viagem",
+                  "text": "Acest rezervor de apă istoric din Amadora este o mărturie a arhitecturii locale și un loc liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.26129,
+                        38.702382
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Lago Principal din Amadora este lacul central al zonei și oferă o priveliște frumoasă pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Silva Porto",
+                  "text": "Acest loc de joacă din Parque Silva Porto, Amadora, oferă copiilor multiple posibilități de mișcare și cățărare.",
+                  "category": "family",
+                  "coords": [
+                        -9.204733,
+                        38.748231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua João Frederico Ludovice",
+                  "text": "Parque Infantil da Rua João Frederico Ludovice din Amadora este un loc ideal pentru familiile cu copii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        -9.206789,
+                        38.750158
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Maria Violante Vieira",
+                  "text": "Acest loc de joacă de pe Rua Maria Violante Vieira din Amadora oferă echipamente moderne pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -9.206557,
+                        38.74476
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Doutor Cunha Seixas 2",
+                  "text": "Parque Infantil da Rua Doutor Cunha Seixas 2 din Amadora este o facilitate recreativă practică pentru copii într-o zonă urbană.",
+                  "category": "family",
+                  "coords": [
+                        -9.210264,
+                        38.749694
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Lucilia Simões",
+                  "text": "Acest loc de joacă de pe Rua Lucilia Simões din Amadora invită copiii să fie activi în aer liber și să-și facă prieteni noi.",
+                  "category": "family",
+                  "coords": [
+                        -9.205121,
+                        38.753071
+                  ]
+            },
+            {
+                  "name": "Navio Pirata",
+                  "text": "Navio Pirata din Amadora este un loc de joacă tematic care stimulează imaginația copiilor în timpul jocului.",
+                  "category": "family",
+                  "coords": [
+                        -9.223384,
+                        38.743134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Dona Filipa de Lencastre",
+                  "text": "Parque Infantil da Praceta Dona Filipa de Lencastre din Amadora oferă un spațiu sigur pentru joaca zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.241283,
+                        38.75594
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Pedralvas",
+                  "text": "Acest loc de joacă din Pedralvas, Amadora, oferă un mediu prietenos unde copiii se pot juca și consuma energia.",
+                  "category": "family",
+                  "coords": [
+                        -9.206134,
+                        38.754544
+                  ]
+            },
+            {
+                  "name": "Mini-Golfe",
+                  "text": "Terenul de minigolf din Amadora este o destinație distractivă pentru familiile care doresc să fie active împreună.",
+                  "category": "family",
+                  "coords": [
+                        -9.229822,
+                        38.761163
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Atalaia",
+                  "text": "Acest loc de joacă din Atalaia, Amadora, oferă copiilor mult spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.2268,
+                        38.746337
+                  ]
+            },
+            {
+                  "name": "Parque Infantil João Villaret",
+                  "text": "Acest loc de joacă din Amadora poartă numele lui João Villaret și oferă copiilor un cadru de joacă variat.",
+                  "category": "family",
+                  "coords": [
+                        -9.215111,
+                        38.769419
+                  ]
+            },
+            {
+                  "name": "Espassus Piscina",
+                  "text": "O piscină în Amadora care oferă spațiu pentru sporturi nautice populației locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.186511,
+                        38.760528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa Romana da Quinta da Bolacha",
+                  "text": "An archaeological site containing the remains of a Roman villa.",
+                  "category": "historical",
+                  "coords": [
+                        -9.227388,
+                        38.763234
+                  ]
+            },
+            {
+                  "name": "Necrópole de Carenque",
+                  "text": "A prehistoric burial site consisting of three rock-cut tombs.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243867,
+                        38.773415
+                  ]
+            },
+            {
+                  "name": "Monumento megalítico do Pego Longo",
+                  "text": "A megalithic archaeological site located in the Amadora region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256445,
+                        38.772864
+                  ]
+            },
+            {
+                  "name": "Casa Roque Gameiro",
+                  "text": "Dedicated to the life and work of the artist Roque Gameiro, Casa Roque Gameiro is an inspiring museum located in Amadora, Portugal. Art enthusiasts visiting this cultural venue can expect to explore exhibits centered around the painter's legacy.",
+                  "category": "museum",
+                  "coords": [
+                        -9.24235,
+                        38.757907
+                  ]
+            },
+            {
+                  "name": "Recreios da Amadora",
+                  "text": "A historic theatre and cultural center in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235064,
+                        38.75833
+                  ]
+            },
+            {
+                  "name": "Turim",
+                  "text": "A local theatre and cultural venue in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.202396,
+                        38.75064
+                  ]
+            },
+            {
+                  "name": "Adventure Park Pinhal da Paiã",
+                  "text": "An outdoor theme park offering adventure activities.",
+                  "category": "family",
+                  "coords": [
+                        -9.20787,
+                        38.776318
+                  ]
+            },
+            {
+                  "name": "Moinho do Castelinho",
+                  "text": "An archaeological site featuring a traditional windmill structure.",
+                  "category": "historical",
+                  "coords": [
+                        -9.224834,
+                        38.764885
+                  ]
+            },
+            {
+                  "name": "Cineteatro Dom João V",
+                  "text": "A municipal theatre and cinema venue in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.218634,
+                        38.745931
+                  ]
+            },
+            {
+                  "name": "Fórum Luís de Camões",
+                  "text": "A cultural museum and exhibition space in Amadora.",
+                  "category": "museum",
+                  "coords": [
+                        -9.213728,
+                        38.764802
+                  ]
+            },
+            {
+                  "name": "Matinha de Queluz",
+                  "text": "A small nature reserve and wooded area near Queluz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.260003,
+                        38.744288
+                  ]
+            },
+            {
+                  "name": "Palácio Baldaya",
+                  "text": "A historic palace building that now serves as a cultural center.",
+                  "category": "castle",
+                  "coords": [
+                        -9.200441,
+                        38.750498
+                  ]
+            },
+            {
+                  "name": "Palácio da Porcalhota",
+                  "text": "A historic manor house located in the Amadora area.",
+                  "category": "castle",
+                  "coords": [
+                        -9.230661,
+                        38.758098
+                  ]
+            },
+            {
+                  "name": "Palco",
+                  "text": "A local theatre venue in Amadora.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.235251,
+                        38.762718
+                  ]
+            },
+            {
+                  "name": "Parque Delfim Guimarães",
+                  "text": "A central urban park and green space in Amadora.",
+                  "category": "park",
+                  "coords": [
+                        -9.236653,
+                        38.758918
+                  ]
+            },
+            {
+                  "name": "Aqueduto das Águas Livres",
+                  "text": "A historic 18th-century aqueduct that transported water to Lisbon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.203836,
+                        38.742636
+                  ]
+            },
+            {
+                  "name": "Eucaliptal de Benfica",
+                  "text": "A park area characterized by its eucalyptus trees.",
+                  "category": "park",
+                  "coords": [
+                        -9.199562,
+                        38.755144
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico de Queluz",
+                  "text": "A historic botanical garden associated with the Queluz Palace.",
+                  "category": "park",
+                  "coords": [
+                        -9.260021,
+                        38.748188
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporânea da Amadora",
+                  "text": "A gallery dedicated to contemporary art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.226802,
+                        38.737432
+                  ]
+            },
+            {
+                  "name": "Baloiço Panorâmico da Venteira",
+                  "text": "A panoramic swing offering views over the Amadora region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.235824,
+                        38.744776
+                  ]
+            },
+            {
+                  "name": "Palacete dos Condes de Almeida Araújo",
+                  "text": "A historic manor house in Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.256509,
+                        38.751075
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Amadora",
+                  "text": "The administrative headquarters and town hall of Amadora.",
+                  "category": "historical",
+                  "coords": [
+                        -9.236028,
+                        38.760399
+                  ]
+            },
+            {
+                  "name": "Igreja da Divina Misericórdia - Alfragide",
+                  "text": "A modern church located in the Alfragide area.",
+                  "category": "religious",
+                  "coords": [
+                        -9.218156,
+                        38.739672
+                  ]
+            },
+            {
+                  "name": "Chafariz da Carranca",
+                  "text": "A historic decorative public fountain.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.257147,
+                        38.75009
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora Mãe de Deus",
+                  "text": "A local place of worship in Amadora.",
+                  "category": "religious",
+                  "coords": [
+                        -9.210071,
+                        38.741607
+                  ]
+            },
+            {
+                  "name": "Ponte Filipina de Carenque de Baixo",
+                  "text": "A historic stone bridge dating from the Philippine period.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.248721,
+                        38.756499
+                  ]
+            },
+            {
+                  "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
+                  "text": "A military tank on display as a historical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.238784,
+                        38.755154
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Lago Duque de Lafões in Amadora is a peaceful body of water, ideal for a relaxing stroll along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Lagoa in Amadora provides a scenic backdrop for visitors wishing to enjoy the tranquility by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Lago parque dos moinhos in Amadora is a lovely spot for relaxation and observing local waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Lagoa de Casal de Cambra",
+                  "text": "Lagoa de Casal de Cambra in Amadora is a quiet body of water that invites visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.234201,
+                        38.800162
+                  ]
+            },
+            {
+                  "name": "Tanque do Curral",
+                  "text": "Tanque do Curral in Amadora is a historical water basin that today serves as a peaceful spot in the city.",
+                  "category": "natural",
+                  "coords": [
+                        -9.262158,
+                        38.752415
+                  ]
+            },
+            {
+                  "name": "Tanque da Cascata",
+                  "text": "Tanque da Cascata in Amadora provides a pleasant and refreshing atmosphere with its water feature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.272853,
+                        38.700376
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Tanque in Amadora is a simple body of water that enhances the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "Cisterna in Amadora is a functional water reservoir harmoniously integrated into its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -9.25845,
+                        38.749713
+                  ]
+            },
+            {
+                  "name": "Reservatório da Cascata",
+                  "text": "Reservatório da Cascata in Amadora is used for water storage and offers a calm sight for passersby.",
+                  "category": "natural",
+                  "coords": [
+                        -9.271329,
+                        38.700323
+                  ]
+            },
+            {
+                  "name": "Tanque do Convento de Nossa Senhora da Boa Viagem",
+                  "text": "This historical water tank in Amadora is a testament to local architecture and a peaceful place to linger.",
+                  "category": "natural",
+                  "coords": [
+                        -9.26129,
+                        38.702382
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Lago Principal in Amadora is the central lake of the area and offers a lovely view for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Silva Porto",
+                  "text": "This playground in Parque Silva Porto, Amadora, offers children various opportunities for active play and climbing.",
+                  "category": "family",
+                  "coords": [
+                        -9.204733,
+                        38.748231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua João Frederico Ludovice",
+                  "text": "Parque Infantil da Rua João Frederico Ludovice in Amadora is an ideal spot for local families with children.",
+                  "category": "family",
+                  "coords": [
+                        -9.206789,
+                        38.750158
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Maria Violante Vieira",
+                  "text": "This playground on Rua Maria Violante Vieira in Amadora features modern play equipment for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -9.206557,
+                        38.74476
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Doutor Cunha Seixas 2",
+                  "text": "Parque Infantil da Rua Doutor Cunha Seixas 2 in Amadora is a practical recreational area for children in an urban setting.",
+                  "category": "family",
+                  "coords": [
+                        -9.210264,
+                        38.749694
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua Lucilia Simões",
+                  "text": "This playground on Rua Lucilia Simões in Amadora invites children to stay active outdoors and make new friends.",
+                  "category": "family",
+                  "coords": [
+                        -9.205121,
+                        38.753071
+                  ]
+            },
+            {
+                  "name": "Navio Pirata",
+                  "text": "Navio Pirata in Amadora is a themed playground that sparks children's imagination during play.",
+                  "category": "family",
+                  "coords": [
+                        -9.223384,
+                        38.743134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Dona Filipa de Lencastre",
+                  "text": "Parque Infantil da Praceta Dona Filipa de Lencastre in Amadora provides a safe space for daily outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -9.241283,
+                        38.75594
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Pedralvas",
+                  "text": "This playground in Pedralvas, Amadora, offers a friendly environment where children can play and release energy.",
+                  "category": "family",
+                  "coords": [
+                        -9.206134,
+                        38.754544
+                  ]
+            },
+            {
+                  "name": "Mini-Golfe",
+                  "text": "The miniature golf course in Amadora is a fun destination for families looking to be active together.",
+                  "category": "family",
+                  "coords": [
+                        -9.229822,
+                        38.761163
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Atalaia",
+                  "text": "This playground in Atalaia, Amadora, offers children plenty of space for playing in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -9.2268,
+                        38.746337
+                  ]
+            },
+            {
+                  "name": "Parque Infantil João Villaret",
+                  "text": "This playground in Amadora is named after João Villaret and offers children a diverse play landscape.",
+                  "category": "family",
+                  "coords": [
+                        -9.215111,
+                        38.769419
+                  ]
+            },
+            {
+                  "name": "Espassus Piscina",
+                  "text": "A swimming pool in Amadora providing space for water sports for the local community.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.186511,
+                        38.760528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Amadora", hu: "Amadora", ro: "Amadora", en: "Amadora" },
@@ -12398,6 +14387,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.650456,
                         41.041862
                   ]
+            },
+            {
+                  "name": "Praia da Granja",
+                  "text": "Ein charmanter Sandstrand in Espinho, der bei Einheimischen und Touristen gleichermaßen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650692,
+                        41.040947
+                  ]
+            },
+            {
+                  "name": "Praia Granja",
+                  "text": "Historischer Strandort in Espinho, der einst ein berühmtes Ziel für die portugiesische Aristokratie war.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.648351,
+                        41.035841
+                  ]
             }
       ],
       "hu": [
@@ -12552,6 +14559,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.650456,
                         41.041862
+                  ]
+            },
+            {
+                  "name": "Praia da Granja",
+                  "text": "Bájos homokos tengerpart Espinhóban, amely a helyiek és a turisták körében egyaránt népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650692,
+                        41.040947
+                  ]
+            },
+            {
+                  "name": "Praia Granja",
+                  "text": "Történelmi tengerparti helyszín Espinhóban, amely egykor a portugál arisztokrácia híres célpontja volt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.648351,
+                        41.035841
                   ]
             }
       ],
@@ -12708,6 +14733,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.650456,
                         41.041862
                   ]
+            },
+            {
+                  "name": "Praia da Granja",
+                  "text": "O plajă cu nisip fermecătoare în Espinho, populară atât printre localnici, cât și printre turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650692,
+                        41.040947
+                  ]
+            },
+            {
+                  "name": "Praia Granja",
+                  "text": "Stațiune istorică pe plajă în Espinho, care a fost odată o destinație faimoasă pentru aristocrația portugheză.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.648351,
+                        41.035841
+                  ]
             }
       ],
       "en": [
@@ -12863,6 +14906,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.650456,
                         41.041862
                   ]
+            },
+            {
+                  "name": "Praia da Granja",
+                  "text": "A charming sandy beach in Espinho, popular with both locals and tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650692,
+                        41.040947
+                  ]
+            },
+            {
+                  "name": "Praia Granja",
+                  "text": "Historic beach location in Espinho that was once a famous destination for Portuguese aristocracy.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.648351,
+                        41.035841
+                  ]
             }
       ]
 },
@@ -12910,7 +14971,1456 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-espinho-cities-v2.webp",
   },
   {
-    id: "portugal-povoa-de-varzim-cities-v2", "sights": {"de": [{"name": "Museu Municipal de Etnografia e História da Póvoa de Varzim", "text": "Ein Museum, das die Stadtgeschichte und ethnografischen Traditionen von Póvoa de Varzim dokumentiert.", "category": "museum", "coords": [-8.75812, 41.380538]}, {"name": "Fortaleza de Nossa Senhora da Conceição", "text": "Eine Küstenfestung aus dem 17. Jahrhundert, die zur Verteidigung von Póvoa de Varzim errichtet wurde.", "category": "fortress", "coords": [-8.764174, 41.378013]}, {"name": "Centro de Memória", "text": "Ein Kulturzentrum und Museum, das dem Erbe von Póvoa de Varzim gewidmet ist.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Farol de Regufe", "text": "Ein historischer eiserner Leuchtturm und Wahrzeichen in Póvoa de Varzim.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol da Póvoa de Varzim", "text": "Ein Leuchtturm in Póvoa de Varzim, der der maritimen Navigation dient.", "category": "landmark", "coords": [-8.77122, 41.370731]}, {"name": "Farol do Aguilhão", "text": "Ein lokaler Leuchtturm, der Schiffen den Weg entlang der Küste von Póvoa de Varzim weist.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Cine-Teatro Garrett", "text": "Ein bedeutendes Theater und Veranstaltungsort im Zentrum von Póvoa de Varzim.", "category": "cultural", "coords": [-8.765476, 41.379905]}, {"name": "Praia das Caxinas", "text": "Tief verwurzelt im Fischerviertel von Póvoa de Varzim, versprüht dieser portugiesische Strandabschnitt einen ganz besonderen Charme. Die Atmosphäre ist von der lokalen Kultur geprägt und bietet ein authentisches Bild des Küstenlebens. Strandgänger können sich auf den weichen Sand und die stete Brise des Atlantiks freuen. Ein Spaziergang in den Morgenstunden lässt die traditionelle Stimmung am besten spüren.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Praia de Carvalhido", "text": "Zentral in Póvoa de Varzim gelegen, besticht dieser portugiesische Strand durch seine fantastische Erreichbarkeit. Das lebendige Flair lockt viele Besucher an, die das urbane Küstenleben schätzen. Es ist ein wunderbarer Ort für ein erfrischendes Bad oder ein sonniges Päuschen im weichen Sand. Da es hier gerne mal voller wird, sichert ein zeitiges Eintreffen den besten Platz am Wasser.", "category": "recreational", "coords": [-8.770388, 41.381661]}, {"name": "Praia de Fragosinho", "text": "An der weiten Atlantikküste von Póvoa de Varzim zeigt sich dieser malerische Sandstrand als wunderbares Ausflugsziel. Eine herrliche Meereskulisse verschmilzt mit einer heiteren und erholsamen Grundstimmung. Die feinsandige Küste bietet viel Raum für Spaziergänge, Sandburgen und unbeschwertes Sonnenbaden. An heißen Tagen verspricht die kühle Brise des Ozeans eine stets willkommene Erfrischung.", "category": "recreational", "coords": [-8.777803, 41.394721]}, {"name": "Praia de Redonda", "text": "Wer Entspannung am portugiesischen Meer sucht, findet an diesem idyllischen Strand in Póvoa de Varzim sein Glück. Die friedliche Atmosphäre lädt regelrecht dazu ein, den Alltagsstress im Sand zu vergraben. Schwimmer und Sonnenliebhaber kommen in den weichen Wellen und auf dem warmen Grund voll auf ihre Kosten. Für ein besonders intensives Naturerlebnis bietet sich die ruhigere Nebensaison an.", "category": "recreational", "coords": [-8.769461, 41.380464]}, {"name": "Praia de Loulé", "text": "Dieser Strandabschnitt in Póvoa de Varzim erfreut sich bei Einheimischen und Portugalgästen großer Beliebtheit. Ein familiäres und geselliges Treiben prägt die Stimmung am breiten Meeresufer. Besucher können sich im erfrischenden Nass des Atlantiks abkühlen oder die Sonne in vollen Zügen genießen. Vergessen Sie nicht, bequeme Strandschuhe für die heißesten Stunden des Tages mitzunehmen.", "category": "recreational", "coords": [-8.768641, 41.379147]}, {"name": "Praia de Hotel", "text": "Inmitten der städtischen Zone von Póvoa de Varzim besticht dieser portugiesische Sandstrand durch seine urbane Eleganz. Eine muntere Küstenstimmung verbindet sich harmonisch mit der Nähe zur Stadt. Sonnenbaden und kurze Erfrischungen im Meer lassen sich hier perfekt in einen Stadtbummel integrieren. Am Nachmittag entfaltet der Ort sein lebendigstes und charmantestes Gesicht.", "category": "recreational", "coords": [-8.774828, 41.391736]}, {"name": "Praia de Lada I", "text": "Beliebt bei vielen Strandbesuchern, bietet dieser Küstenabschnitt in Póvoa de Varzim klassischen portugiesischen Badespaß. Die einladende und freundliche Atmosphäre macht es leicht, sich sofort wohlzufühlen. Der weiche Sand und die Atlantikwellen rufen nach vergnügten Stunden voller Schwimmen und Entspannen. Ein Besuch am frühen Morgen verspricht eine ruhige Kulisse vor dem Ansturm der Badegäste.", "category": "recreational", "coords": [-8.774513, 41.389747]}, {"name": "Praia de Lada II", "text": "Als Teil der herrlichen Sandstrände von Póvoa de Varzim ist dieser portugiesische Küstenabschnitt eine wahre Oase. Die Stimmung ist typischerweise ausgelassen, während die sanfte Brandung des Atlantiks den Takt vorgibt. Besucher können sich am weiten Horizont erfreuen oder gemütlich entlang der Wasserkante schlendern. Packen Sie Ihre Badesachen ein und genießen Sie einen unbeschwerten Strandtag am Meer.", "category": "recreational", "coords": [-8.77457, 41.388665]}, {"name": "Praia de Beijinhos", "text": "Entlang der belebten Promenade von Póvoa de Varzim bietet die Praia de Beijinhos einen herrlich gemütlichen Küstenabschnitt. Besucher erwartet hier eine entspannte Atmosphäre, die zum Verweilen direkt am Meer einlädt. Dieser charmante Ort eignet sich wunderbar, um ein Sonnenbad mit einem ausgedehnten Spaziergang zu verbinden. Ein früher Besuch am Morgen verspricht besonders ruhige Momente am Wasser.", "category": "recreational", "coords": [-8.774696, 41.387587]}, {"name": "Praia Verde", "text": "An den malerischen Ufern von Póvoa de Varzim gelegen, ist die Praia Verde ein einladendes Ziel für maritime Freizeitaktivitäten. Die Stimmung vor Ort ist herrlich ungezwungen und lockt sowohl Einheimische als auch Reisende an. Ob für ein entspanntes Sonnenbad oder um einfach die Aussicht auf den Atlantik zu genießen, dieser Strand bietet die perfekte Kulisse. Besonders in den wärmeren Monaten lohnt sich ein Ausflug ans Meer.", "category": "recreational", "coords": [-8.77437, 41.386296]}, {"name": "Praia Azul", "text": "Bekannt für ihr tiefblaues Wasser, bildet die Praia Azul ein markantes Küstenhighlight in Póvoa de Varzim. Die Umgebung wirkt dynamisch und malerisch zugleich, was den wahren Charakter des portugiesischen Meeres perfekt einfängt. Badegäste und Sonnenanbeter werden von der natürlichen Schönheit dieses Uferabschnitts magisch angezogen. Ein sonniger Sommernachmittag ist definitiv die beste Zeit, um die intensiven Farben zu bewundern.", "category": "recreational", "coords": [-8.773029, 41.385186]}, {"name": "Praia de Salgueira", "text": "Als lebendiger Treffpunkt für Meeresliebhaber erstreckt sich die Praia de Salgueira malerisch an der Küste von Póvoa de Varzim. Ihre energiegeladene Atmosphäre macht sie zu einem beliebten Ort für Wassersportler und begeisterte Surfer. Besucher können in die aktive Strandkultur eintauchen oder die anrollenden Wellen entspannt vom Sand aus beobachten. Eine leichte Windjacke ist ein praktischer Begleiter für einen ausgedehnten Nachmittag am Meer.", "category": "recreational", "coords": [-8.771294, 41.383428]}, {"name": "Praia de Pontes", "text": "Die Praia de Pontes definiert die raue Schönheit des Atlantiks und bietet eine weitläufige Sandfläche in Póvoa de Varzim. Der Uferabschnitt versprüht einen ruhigen, aber authentischen maritimen Charme, der ideal für einen klassischen Strandtag ist. Entspannte Spaziergänge an der Wasserkante oder ausgiebiges Sonnenbaden sind wunderbare Möglichkeiten, die Zeit hier zu genießen. Es ist sehr zu empfehlen, vor dem Ausflug an den offenen Strand ausreichend Sonnencreme einzupacken.", "category": "recreational", "coords": [-8.776777, 41.39359]}, {"name": "Praia de Fragosa", "text": "Die Praia de Fragosa präsentiert sich als charmanter Küstenabschnitt direkt an der Meeresfront von Póvoa de Varzim. Der Ort verströmt eine friedliche und besinnliche Stimmung, die Liebhaber offener Küstenlandschaften anzieht. Ausgedehnte Spaziergänge am Meer und das Einatmen der frischen Meeresluft sind die Hauptattraktionen dieses Strandes. Ein Besuch am späten Nachmittag belohnt Spaziergänger oft mit einem wunderbar weichen Licht über dem Ufer.", "category": "recreational", "coords": [-8.778899, 41.397605]}, {"name": "Praia do Peixe", "text": "Tief verwurzelt im lokalen Erbe, bietet die Praia do Peixe einen Einblick in die traditionelle maritime Seele von Póvoa de Varzim. Die Atmosphäre ist authentisch rustikal und spiegelt den historischen Lebensstil der portugischen Fischer wider. Besucher können den einzigartigen Charakter des Ufers genießen, während sie das sanfte Spiel von Ebbe und Flut beobachten. Bequeme Schuhe sind eine gute Wahl, um diesen markanten Küstenbereich ausgiebig zu erkunden.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Praia de Redonda / Leixão", "text": "Geprägt von einer faszinierenden Mischung aus weichem Sand und felsigen Formationen, ist die Praia de Redonda / Leixão ein markanter Teil von Póvoa de Varzim. Das Zusammenspiel der natürlichen Texturen schafft eine leicht dramatische, aber dennoch sehr einladende Küstenatmosphäre. Dieser Ort ist perfekt, um ein entspanntes Sonnenbad mit kleinen Erkundungstouren zwischen den Felsen zu verbinden. Ein Besuch bei Ebbe offenbart oft interessante kleine Gezeitentümpel im Gestein.", "category": "recreational", "coords": [-8.768315, 41.377181]}, {"name": "Aqueduto de Vila do Conde", "text": "Ein historisches Aquädukt aus dem 18. Jahrhundert mit zahlreichen Steinbögen.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Parque da Cidade Póvoa de Varzim", "text": "Der große Stadtpark von Póvoa de Varzim mit Grünflächen und Wanderwegen.", "category": "park", "coords": [-8.754104, 41.400076]}, {"name": "Praça Marquês de Pombal", "text": "Ein öffentlicher Platz und Parkbereich im Herzen von Póvoa de Varzim.", "category": "park", "coords": [-8.760942, 41.381042]}, {"name": "Miúdos e Graúdos", "text": "Ein Kunst- und Kulturzentrum in Póvoa de Varzim, das kreative Aktivitäten anbietet.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "Ein Wandgemälde, das die Fischer des Stadtteils Caxinas ehrt.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Muro de Azulejos", "text": "Eine dekorative Wand in Póvoa de Varzim, die mit traditionellen portugiesischen Fliesen geschmückt ist.", "category": "historical", "coords": [-8.767581, 41.378315]}, {"name": "Baloiço Bolos do Folheta(a Cafe)", "text": "Eine Aussichtsschaukel in der Nähe eines örtlichen Cafés in Póvoa de Varzim.", "category": "landmark", "coords": [-8.772852, 41.394224]}, {"name": "Forcada das Caxinas", "text": "Ein Wahrzeichen oder Sehenswürdigkeit im Stadtteil Caxinas von Póvoa de Varzim.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Norte da Barra de Póvoa de Varzim", "text": "Die nördliche Mole an der Hafeneinfahrt von Póvoa de Varzim.", "category": "landmark", "coords": [-8.770209, 41.372263]}, {"name": "Monumento Circulo dos Deuses", "text": "Eine dekorative Installation oder ein Denkmal mit dem Titel „Kreis der Götter“ in Póvoa de Varzim.", "category": "landmark", "coords": [-8.754531, 41.397549]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "Die südliche Mole, die den Hafen von Póvoa de Varzim schützt.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho da Póvoa", "text": "Ein Pranger aus dem 16. Jahrhundert, der die städtische Autonomie von Póvoa de Varzim symbolisiert.", "category": "landmark", "coords": [-8.7606, 41.378785]}, {"name": "Igreja da Lapa", "text": "Eine historische Kirche in Póvoa de Varzim, bekannt für ihre Verbindung zu den örtlichen Fischern.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "Ein religiöses Wahrzeichen in Póvoa de Varzim, das Unserer Lieben Frau von Lapa gewidmet ist.", "category": "religious", "coords": [-8.737587, 41.359903]}], "hu": [{"name": "Museu Municipal de Etnografia e História da Póvoa de Varzim", "text": "Póvoa de Varzim helytörténetét és néprajzi hagyományait bemutató múzeum.", "category": "museum", "coords": [-8.75812, 41.380538]}, {"name": "Fortaleza de Nossa Senhora da Conceição", "text": "17. századi tengerparti erődítmény Póvoa de Varzim védelmére.", "category": "fortress", "coords": [-8.764174, 41.378013]}, {"name": "Centro de Memória", "text": "Póvoa de Varzim örökségének szentelt kulturális központ és múzeum.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Farol de Regufe", "text": "Történelmi vasból készült világítótorony és jelkép Póvoa de Varzimban.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol da Póvoa de Varzim", "text": "A tengeri hajózást segítő világítótorony Póvoa de Varzimban.", "category": "landmark", "coords": [-8.77122, 41.370731]}, {"name": "Farol do Aguilhão", "text": "Helyi világítótorony a Póvoa de Varzim partjainál közlekedő hajók számára.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Cine-Teatro Garrett", "text": "Póvoa de Varzim központjában található jelentős színház és kulturális helyszín.", "category": "cultural", "coords": [-8.765476, 41.379905]}, {"name": "Praia das Caxinas", "text": "Póvoa de Varzim halásznegyedében mélyen gyökerező portugál partszakasz egészen különleges bájjal bír. A légkört a helyi kultúra formálja, amely a tengerparti élet autentikus képét nyújtja. A strandolók örömmel élvezhetik a puha homokot és az Atlanti-óceán állandó szellőjét. Egy reggeli séta alkalmával érezhető a leginkább a hagyományos hangulat.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Praia de Carvalhido", "text": "A Póvoa de Varzim központjában található portugál strand fantasztikus megközelíthetőségével hódít. Az élénk hangulat sok olyan látogatót vonz, aki értékeli a városi tengerparti életet. Csodálatos hely egy frissítő fürdőzésre vagy egy napos pihenőre a puha homokban. Mivel itt gyakran megnő a tömeg, egy korai érkezés biztosítja a legjobb helyet a víz mellett.", "category": "recreational", "coords": [-8.770388, 41.381661]}, {"name": "Praia de Fragosinho", "text": "Póvoa de Varzim széles atlanti partvidékén ez a festői homokos strand csodálatos kirándulási célpontként mutatkozik be. A pompás tengeri kulissza vidám és pihentető alaphangulattal olvad össze. A finom homokos part bőséges teret kínál sétákhoz, homokvárépítéshez és gondtalan napozáshoz. Forró napokon az óceán hűs szellője mindig szívesen látott felfrissülést ígér.", "category": "recreational", "coords": [-8.777803, 41.394721]}, {"name": "Praia de Redonda", "text": "Aki a portugál tengerparton keres kikapcsolódást, az ezen az idilli póvoa de varzim-i strandon megtalálja a boldogságát. A békés atmoszféra valósággal arra csábít, hogy a mindennapi stresszt elássuk a homokba. Az úszók és a nap szerelmesei a lágy hullámokban és a meleg talajon igazán elemükben érezhetik magukat. Egy különösen intenzív természeti élményhez a csendesebb utószezon kínálkozik.", "category": "recreational", "coords": [-8.769461, 41.380464]}, {"name": "Praia de Loulé", "text": "Ez a Póvoa de Varzim-i partszakasz nagy népszerűségnek örvend a helyiek és a Portugáliába látogatók körében. Családias és társaságkedvelő nyüzsgés jellemzi a széles tengerparti hangulatot. A látogatók lehűthetik magukat az Atlanti-óceán frissítő vizében, vagy maradéktalanul élvezhetik a napsütést. Ne felejtsen el kényelmes strandcipőt vinni a nap legforróbb óráira.", "category": "recreational", "coords": [-8.768641, 41.379147]}, {"name": "Praia de Hotel", "text": "Póvoa de Varzim városi zónájának közepén ez a portugál homokos strand városi eleganciájával hódít. A vidám tengerparti hangulat harmonikusan ötvöződik a város közelségével. A napozás és a rövid tengeri felfrissülések itt tökéletesen beilleszthetők egy városi sétába. A hely délután mutatja meg legélénkebb és legbájosabb arcát.", "category": "recreational", "coords": [-8.774828, 41.391736]}, {"name": "Praia de Lada I", "text": "A sok strandoló körében kedvelt Póvoa de Varzim-i partszakasz klasszikus portugál fürdőélményt nyújt. A hívogató és barátságos légkörnek köszönhetően könnyű azonnal otthonosan érezni magunkat. A puha homok és az atlanti hullámok úszással és pihenéssel teli, vidám órákért kiáltanak. A kora reggeli látogatás csendes hátteret ígér a fürdőzők rohamát megelőzően.", "category": "recreational", "coords": [-8.774513, 41.389747]}, {"name": "Praia de Lada II", "text": "Póvoa de Varzim csodálatos homokos strandjainak részeként ez a portugál partszakasz egy igazi oázis. A hangulat jellemzően felhőtlen, miközben az Atlanti-óceán lágy hullámzása adja meg a ritmust. A látogatók gyönyörködhetnek a széles horizontban, vagy kényelmesen sétálhatnak a víz szélén. Csomagolja be a fürdőruháját, és élvezze a gondtalan strandolást a tengerparton.", "category": "recreational", "coords": [-8.77457, 41.388665]}, {"name": "Praia de Beijinhos", "text": "A Póvoa de Varzim nyüzsgő sétányán elhelyezkedő Praia de Beijinhos egy rendkívül hangulatos és barátságos partszakaszt kínál. Az idelátogatókat nyugodt légkör fogadja, amely tökéletes a tengerparti kikapcsolódáshoz. Ez a bájos helyszín ideális egy kellemes napozásra és egy frissítő tengerparti sétára egyaránt. Érdemes a kora reggeli órákban érkezni, hogy igazán csendes pillanatokat tölthessünk a vízparton.", "category": "recreational", "coords": [-8.774696, 41.387587]}, {"name": "Praia Verde", "text": "A Póvoa de Varzim festői partjainál fekvő Praia Verde egy hívogató úti cél a tengerparti kikapcsolódást keresők számára. A hangulat lazán barátságos, ami a helyieket és az utazókat egyaránt vonzza. Akár napozni szeretne, akár csak az Atlanti-óceán látványában gyönyörködni, ez a partszakasz tökéletes hátteret biztosít. A melegebb hónapokra időzített látogatás garantálja a legjobb élményt a hullámok közelében.", "category": "recreational", "coords": [-8.77437, 41.386296]}, {"name": "Praia Azul", "text": "A feltűnően kék vizéről híres Praia Azul egy kiemelkedő tengerparti látványosság Póvoa de Varzim városában. A környezet egyszerre dinamikus és festői, tökéletesen megragadva a portugál tengerparti életérzést. A napozni és fürdőzni vágyókat egyaránt vonzza a környék természetes szépsége. Egy napsütéses nyári délután kétségtelenül a legalkalmasabb időpont a lenyűgöző színek megcsodálására.", "category": "recreational", "coords": [-8.773029, 41.385186]}, {"name": "Praia de Salgueira", "text": "A tenger szerelmeseinek nyüzsgő központjaként a Praia de Salgueira gyönyörűen terül el Póvoa de Varzim partvidékén. Energikus légköre miatt a vízisportok rajongóinak és a szenvedélyes szörfösöknek is kedvelt találkozóhelye. A látogatók elmerülhetnek az aktív tengerparti kultúrában, vagy a homokból kényelmesen figyelhetik a hullámokat. Egy széldzseki kifejezetten praktikus lehet, ha egy egész délutánt a parton töltünk.", "category": "recreational", "coords": [-8.771294, 41.383428]}, {"name": "Praia de Pontes", "text": "Az Atlanti-óceán zord szépségét megtestesítő Praia de Pontes egy hatalmas homokos partszakaszt kínál Póvoa de Varzim városában. A part békés, mégis nyers tengeri bájjal rendelkezik, amely tökéletes egy autentikus tengerparti naphoz. A vízparti séták vagy a kényelmes napozás csodálatos módjai az itteni időtöltésnek. Mielőtt kiérnénk a nyílt homokos részre, mindenképpen érdemes bőségesen csomagolni naptejet.", "category": "recreational", "coords": [-8.776777, 41.39359]}, {"name": "Praia de Fragosa", "text": "A Praia de Fragosa egy elbűvölő partszakaszt tár elénk Póvoa de Varzim óceánparti sávjában. Békés és elmélkedésre ösztönző hangulatot áraszt, vonzva azokat, akik szeretik a nyitott part menti tájakat. A kényelmes tengerparti séták és a friss óceáni levegő belélegzése jelentik a hely fő vonzerejét. A késő délutáni látogatás során a sétálókat gyakran egy gyönyörű, lágy fényekben fürdő partvonal fogadja.", "category": "recreational", "coords": [-8.778899, 41.397605]}, {"name": "Praia do Peixe", "text": "A helyi örökségben mélyen gyökerező Praia do Peixe bepillantást enged Póvoa de Varzim hagyományos tengeri lelkébe. A hangulat autentikusan rusztikus, visszatükrözve a portugál halászok történelmi életmódját. A látogatók élvezhetik a part egyedi karakterét, miközben megfigyelhetik az árapály lágy játékát. Egy kényelmes séta cipő viselése kifejezetten ajánlott, hogy teljes mértékben felfedezhessük ezt a különleges partszakaszt.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Praia de Redonda / Leixão", "text": "A finom homok és a sziklás képződmények lenyűgöző keveréke által jellemzett Praia de Redonda / Leixão Póvoa de Varzim egyik legszebb része. A természetes textúrák játéka enyhén drámai, mégis hihetetlenül hívogató tengerparti atmoszférát teremt. Ez a helyszín tökéletes azok számára, akik a napozást egy kis sziklák közötti parti felfedezéssel szeretnék ötvözni. Apály idején érdemes érkezni, amikor érdekes árapály-medencék bukkannak elő a víz alól.", "category": "recreational", "coords": [-8.768315, 41.377181]}, {"name": "Aqueduto de Vila do Conde", "text": "18. századi történelmi vízvezeték, amely számos kőívéről ismert.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Parque da Cidade Póvoa de Varzim", "text": "Póvoa de Varzim nagy városi parkja zöldterületekkel és sétautakkal.", "category": "park", "coords": [-8.754104, 41.400076]}, {"name": "Praça Marquês de Pombal", "text": "Póvoa de Varzim szívében található nyilvános tér és parkosított övezet.", "category": "park", "coords": [-8.760942, 41.381042]}, {"name": "Miúdos e Graúdos", "text": "Póvoa de Varzim művészeti és kulturális központja, amely kreatív foglalkozásokat kínál.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "Utcai falfestmény, amely a Caxinas negyed halászai előtt tiszteleg.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Muro de Azulejos", "text": "Hagyományos portugál csempékkel díszített dekoratív fal Póvoa de Varzimban.", "category": "historical", "coords": [-8.767581, 41.378315]}, {"name": "Baloiço Bolos do Folheta(a Cafe)", "text": "Póvoa de Varzim egyik kávézója mellett található panorámás hinta.", "category": "landmark", "coords": [-8.772852, 41.394224]}, {"name": "Forcada das Caxinas", "text": "Jellegzetes pont vagy látnivaló Póvoa de Varzim Caxinas negyedében.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Norte da Barra de Póvoa de Varzim", "text": "A Póvoa de Varzim kikötőbejáratának északi mólója.", "category": "landmark", "coords": [-8.770209, 41.372263]}, {"name": "Monumento Circulo dos Deuses", "text": "Póvoa de Varzim egyik dekoratív emlékműve, az „Istenek köre”.", "category": "landmark", "coords": [-8.754531, 41.397549]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "Póvoa de Varzim kikötőjét védő déli móló.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho da Póvoa", "text": "16. századi kőből készült szégyenfa, amely Póvoa de Varzim városi autonómiáját jelképezi.", "category": "landmark", "coords": [-8.7606, 41.378785]}, {"name": "Igreja da Lapa", "text": "Póvoa de Varzim egyik történelmi temploma, amely a helyi halászokkal való kapcsolatáról ismert.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "Póvoa de Varzim egyik vallási jelképe, amelyet a Lapai Miasszonyunknak szenteltek.", "category": "religious", "coords": [-8.737587, 41.359903]}], "ro": [{"name": "Museu Municipal de Etnografia e História da Póvoa de Varzim", "text": "Un muzeu care explorează istoria locală și tradițiile etnografice din Póvoa de Varzim.", "category": "museum", "coords": [-8.75812, 41.380538]}, {"name": "Fortaleza de Nossa Senhora da Conceição", "text": "O fortăreață de coastă din secolul al XVII-lea construită pentru apărarea orașului Póvoa de Varzim.", "category": "fortress", "coords": [-8.764174, 41.378013]}, {"name": "Centro de Memória", "text": "Un centru cultural și muzeu dedicat patrimoniului orașului Póvoa de Varzim.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Farol de Regufe", "text": "Un far istoric din fier și un punct de reper în Póvoa de Varzim.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol da Póvoa de Varzim", "text": "Un far care servește ca ajutor pentru navigația maritimă în Póvoa de Varzim.", "category": "landmark", "coords": [-8.77122, 41.370731]}, {"name": "Farol do Aguilhão", "text": "Un far local care ghidează ambarcațiunile de-a lungul coastei din Póvoa de Varzim.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Cine-Teatro Garrett", "text": "Un teatru proeminent și un loc cultural situat în centrul orașului Póvoa de Varzim.", "category": "cultural", "coords": [-8.765476, 41.379905]}, {"name": "Praia das Caxinas", "text": "Profund înrădăcinată în cartierul pescăresc din Póvoa de Varzim, această secțiune de plajă portugheză emană un farmec cu totul special. Atmosfera este modelată de cultura locală și oferă o imagine autentică a vieții de coastă. Iubitorii de plajă se pot bucura de nisipul moale și de briza constantă a Atlanticului. O plimbare la orele dimineții vă permite să simțiți cel mai bine ambianța tradițională.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Praia de Carvalhido", "text": "Situată central în Póvoa de Varzim, această plajă portugheză impresionează prin accesibilitatea sa fantastică. Flerul plin de viață atrage mulți vizitatori care apreciază viața de coastă urbană. Este un loc minunat pentru o baie răcoritoare sau o pauză însorită pe nisipul moale. Deoarece tinde să fie aglomerat aici, sosirea timpurie asigură cel mai bun loc lângă apă.", "category": "recreational", "coords": [-8.770388, 41.381661]}, {"name": "Praia de Fragosinho", "text": "Pe coasta vastă a Atlanticului din Póvoa de Varzim, această plajă pitorească de nisip se dovedește a fi o destinație minunată de excursie. Un peisaj marin superb se îmbină cu o atmosferă de bază veselă și relaxantă. Coasta cu nisip fin oferă mult spațiu pentru plimbări, castele de nisip și băi de soare fără griji. În zilele caniculare, briza răcoroasă a oceanului promite o revigorare mereu binevenită.", "category": "recreational", "coords": [-8.777803, 41.394721]}, {"name": "Praia de Redonda", "text": "Cine caută relaxare la marea portugheză își va găsi fericirea pe această plajă idilică din Póvoa de Varzim. Atmosfera pașnică vă invită pur și simplu să îngropați stresul cotidian în nisip. Înotătorii și iubitorii de soare se vor bucura din plin de valurile blânde și de solul cald. Pentru o experiență naturală deosebit de intensă, se recomandă extrasezonul mai liniștit.", "category": "recreational", "coords": [-8.769461, 41.380464]}, {"name": "Praia de Loulé", "text": "Această porțiune de plajă din Póvoa de Varzim este foarte populară printre localnici și oaspeții din Portugalia. O agitație familiară și sociabilă definește atmosfera de pe malul larg al mării. Vizitatorii se pot răcori în apele proaspete ale Atlanticului sau se pot bucura din plin de soare. Nu uitați să luați încălțăminte confortabilă de plajă pentru cele mai fierbinți ore ale zilei.", "category": "recreational", "coords": [-8.768641, 41.379147]}, {"name": "Praia de Hotel", "text": "În mijlocul zonei urbane din Póvoa de Varzim, această plajă portugheză cu nisip impresionează prin eleganța sa urbană. O stare de spirit plină de viață pe coastă se îmbină armonios cu apropierea de oraș. Băile de soare și scutele reîmprospătări în mare pot fi perfect integrate într-o plimbare prin oraș. Locul își dezvăluie cea mai vibrantă și fermecătoare față după-amiaza.", "category": "recreational", "coords": [-8.774828, 41.391736]}, {"name": "Praia de Lada I", "text": "Populară printre mulți iubitori de plajă, această secțiune de coastă din Póvoa de Varzim oferă distracție clasică portugheză la scăldat. Atmosfera primitoare și prietenoasă face ușor să vă simțiți imediat în largul vostru. Nisipul moale și valurile Atlanticului cheamă la ore vesele pline de înot și relaxare. O vizită la primele ore ale dimineții promite un peisaj liniștit înainte de goana înotătorilor.", "category": "recreational", "coords": [-8.774513, 41.389747]}, {"name": "Praia de Lada II", "text": "Ca parte a minunatelor plaje de nisip din Póvoa de Varzim, această porțiune de coastă portugheză este o adevărată oază. Atmosfera este de obicei exuberantă, în timp ce valurile blânde ale Atlanticului stabilesc ritmul. Vizitatorii se pot bucura de orizontul larg sau se pot plimba pe îndelete pe marginea apei. Împachetați-vă costumul de baie și bucurați-vă de o zi de plajă fără griji la mare.", "category": "recreational", "coords": [-8.77457, 41.388665]}, {"name": "Praia de Beijinhos", "text": "Situată de-a lungul promenadei din Póvoa de Varzim, Praia de Beijinhos oferă o porțiune de coastă extrem de confortabilă și primitoare. Vizitatorii se pot bucura de o atmosferă relaxantă, perfectă pentru a petrece clipe liniștite chiar la malul mării. Acest loc fermecător este ideal pentru a îmbina băile de soare cu plimbările revigorante pe țărm. Ajungând devreme dimineața, veți avea parte de un început de zi deosebit de pașnic.", "category": "recreational", "coords": [-8.774696, 41.387587]}, {"name": "Praia Verde", "text": "Aflată pe țărmurile pitorești din Póvoa de Varzim, Praia Verde este o destinație primitoare pentru recreere pe litoral. Atmosfera este degajată, atrăgând atât localnicii, cât și turiștii în căutarea relaxării. Fie că preferați să vă bucurați de soare sau pur și simplu să admirați priveliștea Atlanticului, această plajă oferă un cadru ideal. Planificarea unei vizite în lunile calde asigură cea mai bună experiență la malul mării.", "category": "recreational", "coords": [-8.77437, 41.386296]}, {"name": "Praia Azul", "text": "Renumită pentru apele sale de un albastru izbitor, Praia Azul este un punct de atracție proeminent pe coasta din Póvoa de Varzim. Mediul este deopotrivă dinamic și pitoresc, captând esența autentică a litoralului portughez. Cei care doresc să facă plajă sau să înoate sunt atrași de frumusețea naturală a acestei zone. O după-amiază însorită de vară este, fără îndoială, momentul ideal pentru a-i aprecia culorile vii.", "category": "recreational", "coords": [-8.773029, 41.385186]}, {"name": "Praia de Salgueira", "text": "Un centru vibrant pentru pasionații de ocean, Praia de Salgueira se întinde frumos de-a lungul coastei din Póvoa de Varzim. Atmosfera sa plină de energie o transformă într-un loc de întâlnire celebru printre iubitorii de sporturi nautice și surferi. Vizitatorii se pot integra în cultura activă a litoralului sau pot privi liniștiți valurile de pe nisip. O geacă de vânt poate fi foarte practică pentru o după-amiază întreagă petrecută la malul mării.", "category": "recreational", "coords": [-8.771294, 41.383428]}, {"name": "Praia de Pontes", "text": "Definind frumusețea aspră a Atlanticului, Praia de Pontes oferă o întindere vastă de nisip în Póvoa de Varzim. Țărmul emană un farmec maritim senin, dar autentic, fiind perfect pentru o zi clasică la plajă. O plimbare relaxantă la marginea apei sau o sesiune de bronz pe nisip sunt modalități minunate de a vă petrece timpul aici. Se recomandă să aveți la voi multă cremă de protecție solară înainte de a ieși pe această plajă deschisă.", "category": "recreational", "coords": [-8.776777, 41.39359]}, {"name": "Praia de Fragosa", "text": "Praia de Fragosa reprezintă o porțiune de coastă fermecătoare la marginea oceanului, în Póvoa de Varzim. Locul inspiră o stare de liniște și contemplare, atrăgând persoanele care apreciază peisajele de coastă deschise. Plimbările relaxante pe malul mării și respirarea aerului proaspăt oceanic sunt principalele atracții ale acestei zone. O vizită la sfârșitul după-amiezii îi răsplătește adesea pe plimbăreți cu un țărm scăldat într-o lumină blândă.", "category": "recreational", "coords": [-8.778899, 41.397605]}, {"name": "Praia do Peixe", "text": "Profund înrădăcinată în moștenirea locală, Praia do Peixe oferă o privire asupra sufletului maritim tradițional din Póvoa de Varzim. Atmosfera este autentic rustică, reflectând stilul de viață istoric al pescarilor portughezi. Vizitatorii se pot bucura de caracterul unic al țărmului în timp ce observă fluxul și refluxul blând al mării. Purtarea unor încălțări confortabile este o idee bună pentru a explora pe deplin această zonă de coastă distinctivă.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Praia de Redonda / Leixão", "text": "Caracterizată de un amestec fascinant de nisip fin și formațiuni stâncoase, Praia de Redonda / Leixão este o parte impresionantă din Póvoa de Varzim. Interacțiunea texturilor naturale creează o atmosferă de coastă ușor dramatică, dar incredibil de primitoare. Acest loc este perfect pentru cei care doresc să combine băile de soare cu explorarea țărmului printre stânci. O vizită în timpul refluxului dezvăluie adesea mici piscine naturale interesante care așteaptă să fie descoperite.", "category": "recreational", "coords": [-8.768315, 41.377181]}, {"name": "Aqueduto de Vila do Conde", "text": "Un apeduct istoric din secolul al XVIII-lea, caracterizat prin numeroase arcuri de piatră.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Parque da Cidade Póvoa de Varzim", "text": "Marele parc al orașului Póvoa de Varzim, care oferă spații verzi și trasee.", "category": "park", "coords": [-8.754104, 41.400076]}, {"name": "Praça Marquês de Pombal", "text": "O piață publică și o zonă de parc situată în inima orașului Póvoa de Varzim.", "category": "park", "coords": [-8.760942, 41.381042]}, {"name": "Miúdos e Graúdos", "text": "Un centru de artă și cultură care oferă activități creative în Póvoa de Varzim.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "O pictură murală de artă stradală care onorează pescarii din cartierul Caxinas.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Muro de Azulejos", "text": "Un zid decorativ împodobit cu plăci ceramice tradiționale portugheze în Póvoa de Varzim.", "category": "historical", "coords": [-8.767581, 41.378315]}, {"name": "Baloiço Bolos do Folheta(a Cafe)", "text": "Un leagăn panoramic situat lângă o cafenea locală din Póvoa de Varzim.", "category": "landmark", "coords": [-8.772852, 41.394224]}, {"name": "Forcada das Caxinas", "text": "Un punct de reper sau obiectiv turistic în cartierul Caxinas din Póvoa de Varzim.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Norte da Barra de Póvoa de Varzim", "text": "Digul de nord de la intrarea în portul din Póvoa de Varzim.", "category": "landmark", "coords": [-8.770209, 41.372263]}, {"name": "Monumento Circulo dos Deuses", "text": "O instalație decorativă sau un monument intitulat „Cercul Zeilor” în Póvoa de Varzim.", "category": "landmark", "coords": [-8.754531, 41.397549]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "Digul de sud care protejează portul din Póvoa de Varzim.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho da Póvoa", "text": "Un stâlp al infamiei din secolul al XVI-lea, care simbolizează autonomia municipală a orașului Póvoa de Varzim.", "category": "landmark", "coords": [-8.7606, 41.378785]}, {"name": "Igreja da Lapa", "text": "O biserică istorică din Póvoa de Varzim, cunoscută pentru legătura sa cu pescarii locali.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "Un punct de reper religios în Póvoa de Varzim dedicat Maicii Domnului din Lapa.", "category": "religious", "coords": [-8.737587, 41.359903]}], "en": [{"name": "Museu Municipal de Etnografia e História da Póvoa de Varzim", "text": "A museum exploring the local history and ethnographic traditions of Póvoa de Varzim.", "category": "museum", "coords": [-8.75812, 41.380538]}, {"name": "Fortaleza de Nossa Senhora da Conceição", "text": "A 17th-century coastal fortress built to defend Póvoa de Varzim.", "category": "fortress", "coords": [-8.764174, 41.378013]}, {"name": "Centro de Memória", "text": "A cultural center and museum dedicated to the heritage of Póvoa de Varzim.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Farol de Regufe", "text": "A historic iron lighthouse and landmark in Póvoa de Varzim.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol da Póvoa de Varzim", "text": "A lighthouse serving as a maritime navigation aid in Póvoa de Varzim.", "category": "landmark", "coords": [-8.77122, 41.370731]}, {"name": "Farol do Aguilhão", "text": "A local lighthouse guiding vessels along the coast of Póvoa de Varzim.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Cine-Teatro Garrett", "text": "A prominent theater and cultural venue in the center of Póvoa de Varzim.", "category": "cultural", "coords": [-8.765476, 41.379905]}, {"name": "Praia das Caxinas", "text": "Deeply rooted in the fishing district of Póvoa de Varzim, this Portuguese stretch of beach exudes a very special charm. The atmosphere is shaped by local culture and offers an authentic picture of coastal life. Beachgoers can look forward to the soft sand and the constant breeze of the Atlantic. A walk in the morning hours lets you feel the traditional mood best.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Praia de Carvalhido", "text": "Centrally located in Póvoa de Varzim, this Portuguese beach impresses with its fantastic accessibility. The lively flair attracts many visitors who appreciate urban coastal life. It is a wonderful place for a refreshing dip or a sunny break in the soft sand. Because it tends to get crowded here, an early arrival ensures the best spot by the water.", "category": "recreational", "coords": [-8.770388, 41.381661]}, {"name": "Praia de Fragosinho", "text": "On the vast Atlantic coast of Póvoa de Varzim, this picturesque sandy beach proves to be a wonderful excursion destination. A superb marine backdrop merges with a cheerful and relaxing basic mood. The fine sandy coast offers plenty of space for walks, sandcastles, and carefree sunbathing. On hot days, the cool ocean breeze promises a constantly welcome refreshment.", "category": "recreational", "coords": [-8.777803, 41.394721]}, {"name": "Praia de Redonda", "text": "Anyone seeking relaxation by the Portuguese sea will find their happiness on this idyllic beach in Póvoa de Varzim. The peaceful atmosphere practically invites you to bury everyday stress in the sand. Swimmers and sun lovers will thoroughly enjoy themselves in the soft waves and on the warm ground. For a particularly intense nature experience, the quieter off-season is highly recommended.", "category": "recreational", "coords": [-8.769461, 41.380464]}, {"name": "Praia de Loulé", "text": "This stretch of beach in Póvoa de Varzim is highly popular among locals and guests to Portugal. A familiar and sociable hustle and bustle defines the mood on the wide seashore. Visitors can cool off in the refreshing waters of the Atlantic or enjoy the sun to the fullest. Do not forget to take comfortable beach shoes with you for the hottest hours of the day.", "category": "recreational", "coords": [-8.768641, 41.379147]}, {"name": "Praia de Hotel", "text": "In the middle of the urban zone of Póvoa de Varzim, this sandy Portuguese beach impresses with its urban elegance. A cheerful coastal mood blends harmoniously with the proximity to the city. Sunbathing and short refreshments in the sea can be perfectly integrated into a city stroll here. The location reveals its liveliest and most charming face in the afternoon.", "category": "recreational", "coords": [-8.774828, 41.391736]}, {"name": "Praia de Lada I", "text": "Popular with many beachgoers, this stretch of coast in Póvoa de Varzim offers classic Portuguese bathing fun. The inviting and friendly atmosphere makes it easy to feel comfortable immediately. The soft sand and Atlantic waves call for joyful hours full of swimming and relaxing. An early morning visit promises a quiet backdrop before the rush of bathers.", "category": "recreational", "coords": [-8.774513, 41.389747]}, {"name": "Praia de Lada II", "text": "As part of the wonderful sandy beaches of Póvoa de Varzim, this Portuguese stretch of coast is a true oasis. The mood is typically exuberant, while the gentle surf of the Atlantic sets the pace. Visitors can delight in the wide horizon or stroll leisurely along the water's edge. Pack your swimwear and enjoy a carefree beach day by the sea.", "category": "recreational", "coords": [-8.77457, 41.388665]}, {"name": "Praia de Beijinhos", "text": "Situated along the lively promenade of Povoa De Varzim, Praia de Beijinhos offers a remarkably cozy slice of the Portuguese coast. Visitors can look forward to a relaxed atmosphere that is perfectly suited for unwinding right by the ocean. It is an excellent spot to combine a refreshing seaside stroll with some quiet sunbathing. Arriving early in the morning guarantees a peaceful start to the day by the water.", "category": "recreational", "coords": [-8.774696, 41.387587]}, {"name": "Praia Verde", "text": "Resting on the scenic shores of Povoa De Varzim, Praia Verde is a welcoming destination for seaside recreation. The atmosphere is casually inviting, drawing both locals and travelers looking to engage in coastal leisure. Whether you prefer to soak up the sun or simply admire the Atlantic views, this stretch provides an ideal backdrop. Planning a visit during the warmer months ensures the best experience by the waves.", "category": "recreational", "coords": [-8.77437, 41.386296]}, {"name": "Praia Azul", "text": "Famous for its strikingly blue Atlantic waters, Praia Azul is a prominent coastal highlight in Povoa De Varzim. The environment feels both dynamic and picturesque, capturing the true essence of a Portuguese seaside getaway. Sunbathers and swimmers alike are drawn to its inviting shores to enjoy the natural beauty of the area. A sunny summer afternoon is undoubtedly the prime time to appreciate its vivid colors.", "category": "recreational", "coords": [-8.773029, 41.385186]}, {"name": "Praia de Salgueira", "text": "A vibrant hub for ocean enthusiasts, Praia de Salgueira stretches beautifully along the Povoa De Varzim coastline. Its energetic atmosphere makes it a celebrated gathering place for water sports fans and passionate surfers. Visitors can immerse themselves in the active seaside culture or comfortably watch the waves roll in from the sand. Bringing a windbreaker can be quite practical when spending an entire afternoon by the surf.", "category": "recreational", "coords": [-8.771294, 41.383428]}, {"name": "Praia de Pontes", "text": "Defining the rugged beauty of the Atlantic, Praia de Pontes offers a sweeping sandy expanse in Povoa De Varzim. The shore radiates a serene yet raw maritime charm, perfect for those seeking an authentic beach day. Ambling along the water's edge or setting up a spot for sunbathing are wonderful ways to spend time here. It is highly recommended to pack plenty of sunscreen before heading out to the open sand.", "category": "recreational", "coords": [-8.776777, 41.39359]}, {"name": "Praia de Fragosa", "text": "Praia de Fragosa presents a charming coastal stretch within the oceanfront bounds of Povoa De Varzim. It fosters a peaceful and contemplative mood, drawing people who cherish open coastal landscapes. Taking leisurely strolls by the sea and breathing in the brisk oceanic air are the main draws of this location. A late afternoon visit often rewards walkers with a beautifully softly-lit shoreline.", "category": "recreational", "coords": [-8.778899, 41.397605]}, {"name": "Praia do Peixe", "text": "Deeply rooted in local heritage, Praia do Peixe offers a glimpse into the traditional maritime soul of Povoa De Varzim. The atmosphere is authentically rustic, echoing the historic lifestyle of Portuguese fishermen. Visitors can enjoy the unique character of the shore while observing the gentle ebb and flow of the tide. Wearing comfortable walking shoes is a good idea to fully explore this distinctive coastal area.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Praia de Redonda / Leixão", "text": "Characterized by a fascinating mix of soft sand and rocky formations, Praia de Redonda / Leixão is a striking part of Povoa De Varzim. The interplay of natural textures creates a slightly dramatic yet incredibly inviting coastal atmosphere. This location is perfect for those who want to blend sunbathing with a bit of seaside exploration among the rocks. Visiting during low tide often reveals interesting tidal pools waiting to be discovered.", "category": "recreational", "coords": [-8.768315, 41.377181]}, {"name": "Aqueduto de Vila do Conde", "text": "A historic 18th-century aqueduct featuring numerous stone arches.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Parque da Cidade Póvoa de Varzim", "text": "The large city park of Póvoa de Varzim, offering green spaces and trails.", "category": "park", "coords": [-8.754104, 41.400076]}, {"name": "Praça Marquês de Pombal", "text": "A public square and park area located in the heart of Póvoa de Varzim.", "category": "park", "coords": [-8.760942, 41.381042]}, {"name": "Miúdos e Graúdos", "text": "An arts and cultural center providing creative activities in Póvoa de Varzim.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "A street art mural honoring the fishermen of the Caxinas district.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Muro de Azulejos", "text": "A decorative wall adorned with traditional Portuguese tiles in Póvoa de Varzim.", "category": "historical", "coords": [-8.767581, 41.378315]}, {"name": "Baloiço Bolos do Folheta(a Cafe)", "text": "A scenic swing located near a local cafe in Póvoa de Varzim.", "category": "landmark", "coords": [-8.772852, 41.394224]}, {"name": "Forcada das Caxinas", "text": "A landmark or point of interest in the Caxinas district of Póvoa de Varzim.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Norte da Barra de Póvoa de Varzim", "text": "The northern breakwater of the harbor entrance in Póvoa de Varzim.", "category": "landmark", "coords": [-8.770209, 41.372263]}, {"name": "Monumento Circulo dos Deuses", "text": "A decorative installation or monument titled \"Circle of the Gods\" in Póvoa de Varzim.", "category": "landmark", "coords": [-8.754531, 41.397549]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "The southern breakwater protecting the port of Póvoa de Varzim.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho da Póvoa", "text": "A 16th-century stone pillory symbolizing the municipal autonomy of Póvoa de Varzim.", "category": "landmark", "coords": [-8.7606, 41.378785]}, {"name": "Igreja da Lapa", "text": "A historic church in Póvoa de Varzim known for its connection to the local fishermen.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "A religious landmark in Póvoa de Varzim dedicated to Our Lady of Lapa.", "category": "religious", "coords": [-8.737587, 41.359903]}]},
+    id: "portugal-povoa-de-varzim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Municipal de Etnografia e História da Póvoa de Varzim",
+                  "text": "Ein Museum, das die Stadtgeschichte und ethnografischen Traditionen von Póvoa de Varzim dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.75812,
+                        41.380538
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Nossa Senhora da Conceição",
+                  "text": "Eine Küstenfestung aus dem 17. Jahrhundert, die zur Verteidigung von Póvoa de Varzim errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.764174,
+                        41.378013
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "Ein Kulturzentrum und Museum, das dem Erbe von Póvoa de Varzim gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "Ein historischer eiserner Leuchtturm und Wahrzeichen in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol da Póvoa de Varzim",
+                  "text": "Ein Leuchtturm in Póvoa de Varzim, der der maritimen Navigation dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.77122,
+                        41.370731
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "Ein lokaler Leuchtturm, der Schiffen den Weg entlang der Küste von Póvoa de Varzim weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Garrett",
+                  "text": "Ein bedeutendes Theater und Veranstaltungsort im Zentrum von Póvoa de Varzim.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.765476,
+                        41.379905
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "Tief verwurzelt im Fischerviertel von Póvoa de Varzim, versprüht dieser portugiesische Strandabschnitt einen ganz besonderen Charme. Die Atmosphäre ist von der lokalen Kultur geprägt und bietet ein authentisches Bild des Küstenlebens. Strandgänger können sich auf den weichen Sand und die stete Brise des Atlantiks freuen. Ein Spaziergang in den Morgenstunden lässt die traditionelle Stimmung am besten spüren.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Praia de Carvalhido",
+                  "text": "Zentral in Póvoa de Varzim gelegen, besticht dieser portugiesische Strand durch seine fantastische Erreichbarkeit. Das lebendige Flair lockt viele Besucher an, die das urbane Küstenleben schätzen. Es ist ein wunderbarer Ort für ein erfrischendes Bad oder ein sonniges Päuschen im weichen Sand. Da es hier gerne mal voller wird, sichert ein zeitiges Eintreffen den besten Platz am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770388,
+                        41.381661
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosinho",
+                  "text": "An der weiten Atlantikküste von Póvoa de Varzim zeigt sich dieser malerische Sandstrand als wunderbares Ausflugsziel. Eine herrliche Meereskulisse verschmilzt mit einer heiteren und erholsamen Grundstimmung. Die feinsandige Küste bietet viel Raum für Spaziergänge, Sandburgen und unbeschwertes Sonnenbaden. An heißen Tagen verspricht die kühle Brise des Ozeans eine stets willkommene Erfrischung.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777803,
+                        41.394721
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda",
+                  "text": "Wer Entspannung am portugiesischen Meer sucht, findet an diesem idyllischen Strand in Póvoa de Varzim sein Glück. Die friedliche Atmosphäre lädt regelrecht dazu ein, den Alltagsstress im Sand zu vergraben. Schwimmer und Sonnenliebhaber kommen in den weichen Wellen und auf dem warmen Grund voll auf ihre Kosten. Für ein besonders intensives Naturerlebnis bietet sich die ruhigere Nebensaison an.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.769461,
+                        41.380464
+                  ]
+            },
+            {
+                  "name": "Praia de Loulé",
+                  "text": "Dieser Strandabschnitt in Póvoa de Varzim erfreut sich bei Einheimischen und Portugalgästen großer Beliebtheit. Ein familiäres und geselliges Treiben prägt die Stimmung am breiten Meeresufer. Besucher können sich im erfrischenden Nass des Atlantiks abkühlen oder die Sonne in vollen Zügen genießen. Vergessen Sie nicht, bequeme Strandschuhe für die heißesten Stunden des Tages mitzunehmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768641,
+                        41.379147
+                  ]
+            },
+            {
+                  "name": "Praia de Hotel",
+                  "text": "Inmitten der städtischen Zone von Póvoa de Varzim besticht dieser portugiesische Sandstrand durch seine urbane Eleganz. Eine muntere Küstenstimmung verbindet sich harmonisch mit der Nähe zur Stadt. Sonnenbaden und kurze Erfrischungen im Meer lassen sich hier perfekt in einen Stadtbummel integrieren. Am Nachmittag entfaltet der Ort sein lebendigstes und charmantestes Gesicht.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774828,
+                        41.391736
+                  ]
+            },
+            {
+                  "name": "Praia de Lada I",
+                  "text": "Beliebt bei vielen Strandbesuchern, bietet dieser Küstenabschnitt in Póvoa de Varzim klassischen portugiesischen Badespaß. Die einladende und freundliche Atmosphäre macht es leicht, sich sofort wohlzufühlen. Der weiche Sand und die Atlantikwellen rufen nach vergnügten Stunden voller Schwimmen und Entspannen. Ein Besuch am frühen Morgen verspricht eine ruhige Kulisse vor dem Ansturm der Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774513,
+                        41.389747
+                  ]
+            },
+            {
+                  "name": "Praia de Lada II",
+                  "text": "Als Teil der herrlichen Sandstrände von Póvoa de Varzim ist dieser portugiesische Küstenabschnitt eine wahre Oase. Die Stimmung ist typischerweise ausgelassen, während die sanfte Brandung des Atlantiks den Takt vorgibt. Besucher können sich am weiten Horizont erfreuen oder gemütlich entlang der Wasserkante schlendern. Packen Sie Ihre Badesachen ein und genießen Sie einen unbeschwerten Strandtag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77457,
+                        41.388665
+                  ]
+            },
+            {
+                  "name": "Praia de Beijinhos",
+                  "text": "Entlang der belebten Promenade von Póvoa de Varzim bietet die Praia de Beijinhos einen herrlich gemütlichen Küstenabschnitt. Besucher erwartet hier eine entspannte Atmosphäre, die zum Verweilen direkt am Meer einlädt. Dieser charmante Ort eignet sich wunderbar, um ein Sonnenbad mit einem ausgedehnten Spaziergang zu verbinden. Ein früher Besuch am Morgen verspricht besonders ruhige Momente am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774696,
+                        41.387587
+                  ]
+            },
+            {
+                  "name": "Praia Verde",
+                  "text": "An den malerischen Ufern von Póvoa de Varzim gelegen, ist die Praia Verde ein einladendes Ziel für maritime Freizeitaktivitäten. Die Stimmung vor Ort ist herrlich ungezwungen und lockt sowohl Einheimische als auch Reisende an. Ob für ein entspanntes Sonnenbad oder um einfach die Aussicht auf den Atlantik zu genießen, dieser Strand bietet die perfekte Kulisse. Besonders in den wärmeren Monaten lohnt sich ein Ausflug ans Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77437,
+                        41.386296
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "Bekannt für ihr tiefblaues Wasser, bildet die Praia Azul ein markantes Küstenhighlight in Póvoa de Varzim. Die Umgebung wirkt dynamisch und malerisch zugleich, was den wahren Charakter des portugiesischen Meeres perfekt einfängt. Badegäste und Sonnenanbeter werden von der natürlichen Schönheit dieses Uferabschnitts magisch angezogen. Ein sonniger Sommernachmittag ist definitiv die beste Zeit, um die intensiven Farben zu bewundern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773029,
+                        41.385186
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueira",
+                  "text": "Als lebendiger Treffpunkt für Meeresliebhaber erstreckt sich die Praia de Salgueira malerisch an der Küste von Póvoa de Varzim. Ihre energiegeladene Atmosphäre macht sie zu einem beliebten Ort für Wassersportler und begeisterte Surfer. Besucher können in die aktive Strandkultur eintauchen oder die anrollenden Wellen entspannt vom Sand aus beobachten. Eine leichte Windjacke ist ein praktischer Begleiter für einen ausgedehnten Nachmittag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.771294,
+                        41.383428
+                  ]
+            },
+            {
+                  "name": "Praia de Pontes",
+                  "text": "Die Praia de Pontes definiert die raue Schönheit des Atlantiks und bietet eine weitläufige Sandfläche in Póvoa de Varzim. Der Uferabschnitt versprüht einen ruhigen, aber authentischen maritimen Charme, der ideal für einen klassischen Strandtag ist. Entspannte Spaziergänge an der Wasserkante oder ausgiebiges Sonnenbaden sind wunderbare Möglichkeiten, die Zeit hier zu genießen. Es ist sehr zu empfehlen, vor dem Ausflug an den offenen Strand ausreichend Sonnencreme einzupacken.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776777,
+                        41.39359
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosa",
+                  "text": "Die Praia de Fragosa präsentiert sich als charmanter Küstenabschnitt direkt an der Meeresfront von Póvoa de Varzim. Der Ort verströmt eine friedliche und besinnliche Stimmung, die Liebhaber offener Küstenlandschaften anzieht. Ausgedehnte Spaziergänge am Meer und das Einatmen der frischen Meeresluft sind die Hauptattraktionen dieses Strandes. Ein Besuch am späten Nachmittag belohnt Spaziergänger oft mit einem wunderbar weichen Licht über dem Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.778899,
+                        41.397605
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "Tief verwurzelt im lokalen Erbe, bietet die Praia do Peixe einen Einblick in die traditionelle maritime Seele von Póvoa de Varzim. Die Atmosphäre ist authentisch rustikal und spiegelt den historischen Lebensstil der portugischen Fischer wider. Besucher können den einzigartigen Charakter des Ufers genießen, während sie das sanfte Spiel von Ebbe und Flut beobachten. Bequeme Schuhe sind eine gute Wahl, um diesen markanten Küstenbereich ausgiebig zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda / Leixão",
+                  "text": "Geprägt von einer faszinierenden Mischung aus weichem Sand und felsigen Formationen, ist die Praia de Redonda / Leixão ein markanter Teil von Póvoa de Varzim. Das Zusammenspiel der natürlichen Texturen schafft eine leicht dramatische, aber dennoch sehr einladende Küstenatmosphäre. Dieser Ort ist perfekt, um ein entspanntes Sonnenbad mit kleinen Erkundungstouren zwischen den Felsen zu verbinden. Ein Besuch bei Ebbe offenbart oft interessante kleine Gezeitentümpel im Gestein.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768315,
+                        41.377181
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "Ein historisches Aquädukt aus dem 18. Jahrhundert mit zahlreichen Steinbögen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Parque da Cidade Póvoa de Varzim",
+                  "text": "Der große Stadtpark von Póvoa de Varzim mit Grünflächen und Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        -8.754104,
+                        41.400076
+                  ]
+            },
+            {
+                  "name": "Praça Marquês de Pombal",
+                  "text": "Ein öffentlicher Platz und Parkbereich im Herzen von Póvoa de Varzim.",
+                  "category": "park",
+                  "coords": [
+                        -8.760942,
+                        41.381042
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "Ein Kunst- und Kulturzentrum in Póvoa de Varzim, das kreative Aktivitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "Ein Wandgemälde, das die Fischer des Stadtteils Caxinas ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Muro de Azulejos",
+                  "text": "Eine dekorative Wand in Póvoa de Varzim, die mit traditionellen portugiesischen Fliesen geschmückt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.767581,
+                        41.378315
+                  ]
+            },
+            {
+                  "name": "Baloiço Bolos do Folheta(a Cafe)",
+                  "text": "Eine Aussichtsschaukel in der Nähe eines örtlichen Cafés in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.772852,
+                        41.394224
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "Ein Wahrzeichen oder Sehenswürdigkeit im Stadtteil Caxinas von Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Norte da Barra de Póvoa de Varzim",
+                  "text": "Die nördliche Mole an der Hafeneinfahrt von Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.770209,
+                        41.372263
+                  ]
+            },
+            {
+                  "name": "Monumento Circulo dos Deuses",
+                  "text": "Eine dekorative Installation oder ein Denkmal mit dem Titel „Kreis der Götter“ in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.754531,
+                        41.397549
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "Die südliche Mole, die den Hafen von Póvoa de Varzim schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Póvoa",
+                  "text": "Ein Pranger aus dem 16. Jahrhundert, der die städtische Autonomie von Póvoa de Varzim symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.7606,
+                        41.378785
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Eine historische Kirche in Póvoa de Varzim, bekannt für ihre Verbindung zu den örtlichen Fischern.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "Ein religiöses Wahrzeichen in Póvoa de Varzim, das Unserer Lieben Frau von Lapa gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa II",
+                  "text": "Praia de Lagoa II ist ein Strand in Póvoa de Varzim.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774473,
+                        41.39081
+                  ]
+            },
+            {
+                  "name": "Piscinas CDP",
+                  "text": "Eine Schwimmanlage in Póvoa de Varzim, die für verschiedene Wasseraktivitäten genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772219,
+                        41.386737
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Das städtische Schwimmbad von Póvoa de Varzim bietet moderne Becken für Freizeitsportler.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773307,
+                        41.386512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Municipal de Etnografia e História da Póvoa de Varzim",
+                  "text": "Póvoa de Varzim helytörténetét és néprajzi hagyományait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.75812,
+                        41.380538
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Nossa Senhora da Conceição",
+                  "text": "17. századi tengerparti erődítmény Póvoa de Varzim védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.764174,
+                        41.378013
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "Póvoa de Varzim örökségének szentelt kulturális központ és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "Történelmi vasból készült világítótorony és jelkép Póvoa de Varzimban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol da Póvoa de Varzim",
+                  "text": "A tengeri hajózást segítő világítótorony Póvoa de Varzimban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.77122,
+                        41.370731
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "Helyi világítótorony a Póvoa de Varzim partjainál közlekedő hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Garrett",
+                  "text": "Póvoa de Varzim központjában található jelentős színház és kulturális helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.765476,
+                        41.379905
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "Póvoa de Varzim halásznegyedében mélyen gyökerező portugál partszakasz egészen különleges bájjal bír. A légkört a helyi kultúra formálja, amely a tengerparti élet autentikus képét nyújtja. A strandolók örömmel élvezhetik a puha homokot és az Atlanti-óceán állandó szellőjét. Egy reggeli séta alkalmával érezhető a leginkább a hagyományos hangulat.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Praia de Carvalhido",
+                  "text": "A Póvoa de Varzim központjában található portugál strand fantasztikus megközelíthetőségével hódít. Az élénk hangulat sok olyan látogatót vonz, aki értékeli a városi tengerparti életet. Csodálatos hely egy frissítő fürdőzésre vagy egy napos pihenőre a puha homokban. Mivel itt gyakran megnő a tömeg, egy korai érkezés biztosítja a legjobb helyet a víz mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770388,
+                        41.381661
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosinho",
+                  "text": "Póvoa de Varzim széles atlanti partvidékén ez a festői homokos strand csodálatos kirándulási célpontként mutatkozik be. A pompás tengeri kulissza vidám és pihentető alaphangulattal olvad össze. A finom homokos part bőséges teret kínál sétákhoz, homokvárépítéshez és gondtalan napozáshoz. Forró napokon az óceán hűs szellője mindig szívesen látott felfrissülést ígér.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777803,
+                        41.394721
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda",
+                  "text": "Aki a portugál tengerparton keres kikapcsolódást, az ezen az idilli póvoa de varzim-i strandon megtalálja a boldogságát. A békés atmoszféra valósággal arra csábít, hogy a mindennapi stresszt elássuk a homokba. Az úszók és a nap szerelmesei a lágy hullámokban és a meleg talajon igazán elemükben érezhetik magukat. Egy különösen intenzív természeti élményhez a csendesebb utószezon kínálkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.769461,
+                        41.380464
+                  ]
+            },
+            {
+                  "name": "Praia de Loulé",
+                  "text": "Ez a Póvoa de Varzim-i partszakasz nagy népszerűségnek örvend a helyiek és a Portugáliába látogatók körében. Családias és társaságkedvelő nyüzsgés jellemzi a széles tengerparti hangulatot. A látogatók lehűthetik magukat az Atlanti-óceán frissítő vizében, vagy maradéktalanul élvezhetik a napsütést. Ne felejtsen el kényelmes strandcipőt vinni a nap legforróbb óráira.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768641,
+                        41.379147
+                  ]
+            },
+            {
+                  "name": "Praia de Hotel",
+                  "text": "Póvoa de Varzim városi zónájának közepén ez a portugál homokos strand városi eleganciájával hódít. A vidám tengerparti hangulat harmonikusan ötvöződik a város közelségével. A napozás és a rövid tengeri felfrissülések itt tökéletesen beilleszthetők egy városi sétába. A hely délután mutatja meg legélénkebb és legbájosabb arcát.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774828,
+                        41.391736
+                  ]
+            },
+            {
+                  "name": "Praia de Lada I",
+                  "text": "A sok strandoló körében kedvelt Póvoa de Varzim-i partszakasz klasszikus portugál fürdőélményt nyújt. A hívogató és barátságos légkörnek köszönhetően könnyű azonnal otthonosan érezni magunkat. A puha homok és az atlanti hullámok úszással és pihenéssel teli, vidám órákért kiáltanak. A kora reggeli látogatás csendes hátteret ígér a fürdőzők rohamát megelőzően.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774513,
+                        41.389747
+                  ]
+            },
+            {
+                  "name": "Praia de Lada II",
+                  "text": "Póvoa de Varzim csodálatos homokos strandjainak részeként ez a portugál partszakasz egy igazi oázis. A hangulat jellemzően felhőtlen, miközben az Atlanti-óceán lágy hullámzása adja meg a ritmust. A látogatók gyönyörködhetnek a széles horizontban, vagy kényelmesen sétálhatnak a víz szélén. Csomagolja be a fürdőruháját, és élvezze a gondtalan strandolást a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77457,
+                        41.388665
+                  ]
+            },
+            {
+                  "name": "Praia de Beijinhos",
+                  "text": "A Póvoa de Varzim nyüzsgő sétányán elhelyezkedő Praia de Beijinhos egy rendkívül hangulatos és barátságos partszakaszt kínál. Az idelátogatókat nyugodt légkör fogadja, amely tökéletes a tengerparti kikapcsolódáshoz. Ez a bájos helyszín ideális egy kellemes napozásra és egy frissítő tengerparti sétára egyaránt. Érdemes a kora reggeli órákban érkezni, hogy igazán csendes pillanatokat tölthessünk a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774696,
+                        41.387587
+                  ]
+            },
+            {
+                  "name": "Praia Verde",
+                  "text": "A Póvoa de Varzim festői partjainál fekvő Praia Verde egy hívogató úti cél a tengerparti kikapcsolódást keresők számára. A hangulat lazán barátságos, ami a helyieket és az utazókat egyaránt vonzza. Akár napozni szeretne, akár csak az Atlanti-óceán látványában gyönyörködni, ez a partszakasz tökéletes hátteret biztosít. A melegebb hónapokra időzített látogatás garantálja a legjobb élményt a hullámok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77437,
+                        41.386296
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "A feltűnően kék vizéről híres Praia Azul egy kiemelkedő tengerparti látványosság Póvoa de Varzim városában. A környezet egyszerre dinamikus és festői, tökéletesen megragadva a portugál tengerparti életérzést. A napozni és fürdőzni vágyókat egyaránt vonzza a környék természetes szépsége. Egy napsütéses nyári délután kétségtelenül a legalkalmasabb időpont a lenyűgöző színek megcsodálására.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773029,
+                        41.385186
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueira",
+                  "text": "A tenger szerelmeseinek nyüzsgő központjaként a Praia de Salgueira gyönyörűen terül el Póvoa de Varzim partvidékén. Energikus légköre miatt a vízisportok rajongóinak és a szenvedélyes szörfösöknek is kedvelt találkozóhelye. A látogatók elmerülhetnek az aktív tengerparti kultúrában, vagy a homokból kényelmesen figyelhetik a hullámokat. Egy széldzseki kifejezetten praktikus lehet, ha egy egész délutánt a parton töltünk.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.771294,
+                        41.383428
+                  ]
+            },
+            {
+                  "name": "Praia de Pontes",
+                  "text": "Az Atlanti-óceán zord szépségét megtestesítő Praia de Pontes egy hatalmas homokos partszakaszt kínál Póvoa de Varzim városában. A part békés, mégis nyers tengeri bájjal rendelkezik, amely tökéletes egy autentikus tengerparti naphoz. A vízparti séták vagy a kényelmes napozás csodálatos módjai az itteni időtöltésnek. Mielőtt kiérnénk a nyílt homokos részre, mindenképpen érdemes bőségesen csomagolni naptejet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776777,
+                        41.39359
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosa",
+                  "text": "A Praia de Fragosa egy elbűvölő partszakaszt tár elénk Póvoa de Varzim óceánparti sávjában. Békés és elmélkedésre ösztönző hangulatot áraszt, vonzva azokat, akik szeretik a nyitott part menti tájakat. A kényelmes tengerparti séták és a friss óceáni levegő belélegzése jelentik a hely fő vonzerejét. A késő délutáni látogatás során a sétálókat gyakran egy gyönyörű, lágy fényekben fürdő partvonal fogadja.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.778899,
+                        41.397605
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "A helyi örökségben mélyen gyökerező Praia do Peixe bepillantást enged Póvoa de Varzim hagyományos tengeri lelkébe. A hangulat autentikusan rusztikus, visszatükrözve a portugál halászok történelmi életmódját. A látogatók élvezhetik a part egyedi karakterét, miközben megfigyelhetik az árapály lágy játékát. Egy kényelmes séta cipő viselése kifejezetten ajánlott, hogy teljes mértékben felfedezhessük ezt a különleges partszakaszt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda / Leixão",
+                  "text": "A finom homok és a sziklás képződmények lenyűgöző keveréke által jellemzett Praia de Redonda / Leixão Póvoa de Varzim egyik legszebb része. A természetes textúrák játéka enyhén drámai, mégis hihetetlenül hívogató tengerparti atmoszférát teremt. Ez a helyszín tökéletes azok számára, akik a napozást egy kis sziklák közötti parti felfedezéssel szeretnék ötvözni. Apály idején érdemes érkezni, amikor érdekes árapály-medencék bukkannak elő a víz alól.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768315,
+                        41.377181
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "18. századi történelmi vízvezeték, amely számos kőívéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Parque da Cidade Póvoa de Varzim",
+                  "text": "Póvoa de Varzim nagy városi parkja zöldterületekkel és sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        -8.754104,
+                        41.400076
+                  ]
+            },
+            {
+                  "name": "Praça Marquês de Pombal",
+                  "text": "Póvoa de Varzim szívében található nyilvános tér és parkosított övezet.",
+                  "category": "park",
+                  "coords": [
+                        -8.760942,
+                        41.381042
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "Póvoa de Varzim művészeti és kulturális központja, amely kreatív foglalkozásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "Utcai falfestmény, amely a Caxinas negyed halászai előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Muro de Azulejos",
+                  "text": "Hagyományos portugál csempékkel díszített dekoratív fal Póvoa de Varzimban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.767581,
+                        41.378315
+                  ]
+            },
+            {
+                  "name": "Baloiço Bolos do Folheta(a Cafe)",
+                  "text": "Póvoa de Varzim egyik kávézója mellett található panorámás hinta.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.772852,
+                        41.394224
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "Jellegzetes pont vagy látnivaló Póvoa de Varzim Caxinas negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Norte da Barra de Póvoa de Varzim",
+                  "text": "A Póvoa de Varzim kikötőbejáratának északi mólója.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.770209,
+                        41.372263
+                  ]
+            },
+            {
+                  "name": "Monumento Circulo dos Deuses",
+                  "text": "Póvoa de Varzim egyik dekoratív emlékműve, az „Istenek köre”.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.754531,
+                        41.397549
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "Póvoa de Varzim kikötőjét védő déli móló.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Póvoa",
+                  "text": "16. századi kőből készült szégyenfa, amely Póvoa de Varzim városi autonómiáját jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.7606,
+                        41.378785
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Póvoa de Varzim egyik történelmi temploma, amely a helyi halászokkal való kapcsolatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "Póvoa de Varzim egyik vallási jelképe, amelyet a Lapai Miasszonyunknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa II",
+                  "text": "A Praia de Lagoa II egy tengerparti strand Póvoa de Varzimban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774473,
+                        41.39081
+                  ]
+            },
+            {
+                  "name": "Piscinas CDP",
+                  "text": "Úszókomplexum Póvoa de Varzimban, amelyet különféle vízi tevékenységekre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772219,
+                        41.386737
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Póvoa de Varzim városi uszodája modern medencékkel várja a szabadidős sportolókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773307,
+                        41.386512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Municipal de Etnografia e História da Póvoa de Varzim",
+                  "text": "Un muzeu care explorează istoria locală și tradițiile etnografice din Póvoa de Varzim.",
+                  "category": "museum",
+                  "coords": [
+                        -8.75812,
+                        41.380538
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Nossa Senhora da Conceição",
+                  "text": "O fortăreață de coastă din secolul al XVII-lea construită pentru apărarea orașului Póvoa de Varzim.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.764174,
+                        41.378013
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "Un centru cultural și muzeu dedicat patrimoniului orașului Póvoa de Varzim.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "Un far istoric din fier și un punct de reper în Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol da Póvoa de Varzim",
+                  "text": "Un far care servește ca ajutor pentru navigația maritimă în Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.77122,
+                        41.370731
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "Un far local care ghidează ambarcațiunile de-a lungul coastei din Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Garrett",
+                  "text": "Un teatru proeminent și un loc cultural situat în centrul orașului Póvoa de Varzim.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.765476,
+                        41.379905
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "Profund înrădăcinată în cartierul pescăresc din Póvoa de Varzim, această secțiune de plajă portugheză emană un farmec cu totul special. Atmosfera este modelată de cultura locală și oferă o imagine autentică a vieții de coastă. Iubitorii de plajă se pot bucura de nisipul moale și de briza constantă a Atlanticului. O plimbare la orele dimineții vă permite să simțiți cel mai bine ambianța tradițională.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Praia de Carvalhido",
+                  "text": "Situată central în Póvoa de Varzim, această plajă portugheză impresionează prin accesibilitatea sa fantastică. Flerul plin de viață atrage mulți vizitatori care apreciază viața de coastă urbană. Este un loc minunat pentru o baie răcoritoare sau o pauză însorită pe nisipul moale. Deoarece tinde să fie aglomerat aici, sosirea timpurie asigură cel mai bun loc lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770388,
+                        41.381661
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosinho",
+                  "text": "Pe coasta vastă a Atlanticului din Póvoa de Varzim, această plajă pitorească de nisip se dovedește a fi o destinație minunată de excursie. Un peisaj marin superb se îmbină cu o atmosferă de bază veselă și relaxantă. Coasta cu nisip fin oferă mult spațiu pentru plimbări, castele de nisip și băi de soare fără griji. În zilele caniculare, briza răcoroasă a oceanului promite o revigorare mereu binevenită.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777803,
+                        41.394721
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda",
+                  "text": "Cine caută relaxare la marea portugheză își va găsi fericirea pe această plajă idilică din Póvoa de Varzim. Atmosfera pașnică vă invită pur și simplu să îngropați stresul cotidian în nisip. Înotătorii și iubitorii de soare se vor bucura din plin de valurile blânde și de solul cald. Pentru o experiență naturală deosebit de intensă, se recomandă extrasezonul mai liniștit.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.769461,
+                        41.380464
+                  ]
+            },
+            {
+                  "name": "Praia de Loulé",
+                  "text": "Această porțiune de plajă din Póvoa de Varzim este foarte populară printre localnici și oaspeții din Portugalia. O agitație familiară și sociabilă definește atmosfera de pe malul larg al mării. Vizitatorii se pot răcori în apele proaspete ale Atlanticului sau se pot bucura din plin de soare. Nu uitați să luați încălțăminte confortabilă de plajă pentru cele mai fierbinți ore ale zilei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768641,
+                        41.379147
+                  ]
+            },
+            {
+                  "name": "Praia de Hotel",
+                  "text": "În mijlocul zonei urbane din Póvoa de Varzim, această plajă portugheză cu nisip impresionează prin eleganța sa urbană. O stare de spirit plină de viață pe coastă se îmbină armonios cu apropierea de oraș. Băile de soare și scutele reîmprospătări în mare pot fi perfect integrate într-o plimbare prin oraș. Locul își dezvăluie cea mai vibrantă și fermecătoare față după-amiaza.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774828,
+                        41.391736
+                  ]
+            },
+            {
+                  "name": "Praia de Lada I",
+                  "text": "Populară printre mulți iubitori de plajă, această secțiune de coastă din Póvoa de Varzim oferă distracție clasică portugheză la scăldat. Atmosfera primitoare și prietenoasă face ușor să vă simțiți imediat în largul vostru. Nisipul moale și valurile Atlanticului cheamă la ore vesele pline de înot și relaxare. O vizită la primele ore ale dimineții promite un peisaj liniștit înainte de goana înotătorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774513,
+                        41.389747
+                  ]
+            },
+            {
+                  "name": "Praia de Lada II",
+                  "text": "Ca parte a minunatelor plaje de nisip din Póvoa de Varzim, această porțiune de coastă portugheză este o adevărată oază. Atmosfera este de obicei exuberantă, în timp ce valurile blânde ale Atlanticului stabilesc ritmul. Vizitatorii se pot bucura de orizontul larg sau se pot plimba pe îndelete pe marginea apei. Împachetați-vă costumul de baie și bucurați-vă de o zi de plajă fără griji la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77457,
+                        41.388665
+                  ]
+            },
+            {
+                  "name": "Praia de Beijinhos",
+                  "text": "Situată de-a lungul promenadei din Póvoa de Varzim, Praia de Beijinhos oferă o porțiune de coastă extrem de confortabilă și primitoare. Vizitatorii se pot bucura de o atmosferă relaxantă, perfectă pentru a petrece clipe liniștite chiar la malul mării. Acest loc fermecător este ideal pentru a îmbina băile de soare cu plimbările revigorante pe țărm. Ajungând devreme dimineața, veți avea parte de un început de zi deosebit de pașnic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774696,
+                        41.387587
+                  ]
+            },
+            {
+                  "name": "Praia Verde",
+                  "text": "Aflată pe țărmurile pitorești din Póvoa de Varzim, Praia Verde este o destinație primitoare pentru recreere pe litoral. Atmosfera este degajată, atrăgând atât localnicii, cât și turiștii în căutarea relaxării. Fie că preferați să vă bucurați de soare sau pur și simplu să admirați priveliștea Atlanticului, această plajă oferă un cadru ideal. Planificarea unei vizite în lunile calde asigură cea mai bună experiență la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77437,
+                        41.386296
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "Renumită pentru apele sale de un albastru izbitor, Praia Azul este un punct de atracție proeminent pe coasta din Póvoa de Varzim. Mediul este deopotrivă dinamic și pitoresc, captând esența autentică a litoralului portughez. Cei care doresc să facă plajă sau să înoate sunt atrași de frumusețea naturală a acestei zone. O după-amiază însorită de vară este, fără îndoială, momentul ideal pentru a-i aprecia culorile vii.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773029,
+                        41.385186
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueira",
+                  "text": "Un centru vibrant pentru pasionații de ocean, Praia de Salgueira se întinde frumos de-a lungul coastei din Póvoa de Varzim. Atmosfera sa plină de energie o transformă într-un loc de întâlnire celebru printre iubitorii de sporturi nautice și surferi. Vizitatorii se pot integra în cultura activă a litoralului sau pot privi liniștiți valurile de pe nisip. O geacă de vânt poate fi foarte practică pentru o după-amiază întreagă petrecută la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.771294,
+                        41.383428
+                  ]
+            },
+            {
+                  "name": "Praia de Pontes",
+                  "text": "Definind frumusețea aspră a Atlanticului, Praia de Pontes oferă o întindere vastă de nisip în Póvoa de Varzim. Țărmul emană un farmec maritim senin, dar autentic, fiind perfect pentru o zi clasică la plajă. O plimbare relaxantă la marginea apei sau o sesiune de bronz pe nisip sunt modalități minunate de a vă petrece timpul aici. Se recomandă să aveți la voi multă cremă de protecție solară înainte de a ieși pe această plajă deschisă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776777,
+                        41.39359
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosa",
+                  "text": "Praia de Fragosa reprezintă o porțiune de coastă fermecătoare la marginea oceanului, în Póvoa de Varzim. Locul inspiră o stare de liniște și contemplare, atrăgând persoanele care apreciază peisajele de coastă deschise. Plimbările relaxante pe malul mării și respirarea aerului proaspăt oceanic sunt principalele atracții ale acestei zone. O vizită la sfârșitul după-amiezii îi răsplătește adesea pe plimbăreți cu un țărm scăldat într-o lumină blândă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.778899,
+                        41.397605
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "Profund înrădăcinată în moștenirea locală, Praia do Peixe oferă o privire asupra sufletului maritim tradițional din Póvoa de Varzim. Atmosfera este autentic rustică, reflectând stilul de viață istoric al pescarilor portughezi. Vizitatorii se pot bucura de caracterul unic al țărmului în timp ce observă fluxul și refluxul blând al mării. Purtarea unor încălțări confortabile este o idee bună pentru a explora pe deplin această zonă de coastă distinctivă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda / Leixão",
+                  "text": "Caracterizată de un amestec fascinant de nisip fin și formațiuni stâncoase, Praia de Redonda / Leixão este o parte impresionantă din Póvoa de Varzim. Interacțiunea texturilor naturale creează o atmosferă de coastă ușor dramatică, dar incredibil de primitoare. Acest loc este perfect pentru cei care doresc să combine băile de soare cu explorarea țărmului printre stânci. O vizită în timpul refluxului dezvăluie adesea mici piscine naturale interesante care așteaptă să fie descoperite.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768315,
+                        41.377181
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "Un apeduct istoric din secolul al XVIII-lea, caracterizat prin numeroase arcuri de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Parque da Cidade Póvoa de Varzim",
+                  "text": "Marele parc al orașului Póvoa de Varzim, care oferă spații verzi și trasee.",
+                  "category": "park",
+                  "coords": [
+                        -8.754104,
+                        41.400076
+                  ]
+            },
+            {
+                  "name": "Praça Marquês de Pombal",
+                  "text": "O piață publică și o zonă de parc situată în inima orașului Póvoa de Varzim.",
+                  "category": "park",
+                  "coords": [
+                        -8.760942,
+                        41.381042
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "Un centru de artă și cultură care oferă activități creative în Póvoa de Varzim.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "O pictură murală de artă stradală care onorează pescarii din cartierul Caxinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Muro de Azulejos",
+                  "text": "Un zid decorativ împodobit cu plăci ceramice tradiționale portugheze în Póvoa de Varzim.",
+                  "category": "historical",
+                  "coords": [
+                        -8.767581,
+                        41.378315
+                  ]
+            },
+            {
+                  "name": "Baloiço Bolos do Folheta(a Cafe)",
+                  "text": "Un leagăn panoramic situat lângă o cafenea locală din Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.772852,
+                        41.394224
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "Un punct de reper sau obiectiv turistic în cartierul Caxinas din Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Norte da Barra de Póvoa de Varzim",
+                  "text": "Digul de nord de la intrarea în portul din Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.770209,
+                        41.372263
+                  ]
+            },
+            {
+                  "name": "Monumento Circulo dos Deuses",
+                  "text": "O instalație decorativă sau un monument intitulat „Cercul Zeilor” în Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.754531,
+                        41.397549
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "Digul de sud care protejează portul din Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Póvoa",
+                  "text": "Un stâlp al infamiei din secolul al XVI-lea, care simbolizează autonomia municipală a orașului Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.7606,
+                        41.378785
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "O biserică istorică din Póvoa de Varzim, cunoscută pentru legătura sa cu pescarii locali.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "Un punct de reper religios în Póvoa de Varzim dedicat Maicii Domnului din Lapa.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa II",
+                  "text": "Praia de Lagoa II este o plajă situată în Póvoa de Varzim.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774473,
+                        41.39081
+                  ]
+            },
+            {
+                  "name": "Piscinas CDP",
+                  "text": "O facilitate de înot în Póvoa de Varzim, utilizată pentru diverse activități acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772219,
+                        41.386737
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Piscina municipală din Póvoa de Varzim oferă bazine moderne pentru sportivii amatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773307,
+                        41.386512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Municipal de Etnografia e História da Póvoa de Varzim",
+                  "text": "A museum exploring the local history and ethnographic traditions of Póvoa de Varzim.",
+                  "category": "museum",
+                  "coords": [
+                        -8.75812,
+                        41.380538
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Nossa Senhora da Conceição",
+                  "text": "A 17th-century coastal fortress built to defend Póvoa de Varzim.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.764174,
+                        41.378013
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "A cultural center and museum dedicated to the heritage of Póvoa de Varzim.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "A historic iron lighthouse and landmark in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol da Póvoa de Varzim",
+                  "text": "A lighthouse serving as a maritime navigation aid in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.77122,
+                        41.370731
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "A local lighthouse guiding vessels along the coast of Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Garrett",
+                  "text": "A prominent theater and cultural venue in the center of Póvoa de Varzim.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.765476,
+                        41.379905
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "Deeply rooted in the fishing district of Póvoa de Varzim, this Portuguese stretch of beach exudes a very special charm. The atmosphere is shaped by local culture and offers an authentic picture of coastal life. Beachgoers can look forward to the soft sand and the constant breeze of the Atlantic. A walk in the morning hours lets you feel the traditional mood best.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Praia de Carvalhido",
+                  "text": "Centrally located in Póvoa de Varzim, this Portuguese beach impresses with its fantastic accessibility. The lively flair attracts many visitors who appreciate urban coastal life. It is a wonderful place for a refreshing dip or a sunny break in the soft sand. Because it tends to get crowded here, an early arrival ensures the best spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.770388,
+                        41.381661
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosinho",
+                  "text": "On the vast Atlantic coast of Póvoa de Varzim, this picturesque sandy beach proves to be a wonderful excursion destination. A superb marine backdrop merges with a cheerful and relaxing basic mood. The fine sandy coast offers plenty of space for walks, sandcastles, and carefree sunbathing. On hot days, the cool ocean breeze promises a constantly welcome refreshment.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.777803,
+                        41.394721
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda",
+                  "text": "Anyone seeking relaxation by the Portuguese sea will find their happiness on this idyllic beach in Póvoa de Varzim. The peaceful atmosphere practically invites you to bury everyday stress in the sand. Swimmers and sun lovers will thoroughly enjoy themselves in the soft waves and on the warm ground. For a particularly intense nature experience, the quieter off-season is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.769461,
+                        41.380464
+                  ]
+            },
+            {
+                  "name": "Praia de Loulé",
+                  "text": "This stretch of beach in Póvoa de Varzim is highly popular among locals and guests to Portugal. A familiar and sociable hustle and bustle defines the mood on the wide seashore. Visitors can cool off in the refreshing waters of the Atlantic or enjoy the sun to the fullest. Do not forget to take comfortable beach shoes with you for the hottest hours of the day.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768641,
+                        41.379147
+                  ]
+            },
+            {
+                  "name": "Praia de Hotel",
+                  "text": "In the middle of the urban zone of Póvoa de Varzim, this sandy Portuguese beach impresses with its urban elegance. A cheerful coastal mood blends harmoniously with the proximity to the city. Sunbathing and short refreshments in the sea can be perfectly integrated into a city stroll here. The location reveals its liveliest and most charming face in the afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774828,
+                        41.391736
+                  ]
+            },
+            {
+                  "name": "Praia de Lada I",
+                  "text": "Popular with many beachgoers, this stretch of coast in Póvoa de Varzim offers classic Portuguese bathing fun. The inviting and friendly atmosphere makes it easy to feel comfortable immediately. The soft sand and Atlantic waves call for joyful hours full of swimming and relaxing. An early morning visit promises a quiet backdrop before the rush of bathers.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774513,
+                        41.389747
+                  ]
+            },
+            {
+                  "name": "Praia de Lada II",
+                  "text": "As part of the wonderful sandy beaches of Póvoa de Varzim, this Portuguese stretch of coast is a true oasis. The mood is typically exuberant, while the gentle surf of the Atlantic sets the pace. Visitors can delight in the wide horizon or stroll leisurely along the water's edge. Pack your swimwear and enjoy a carefree beach day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77457,
+                        41.388665
+                  ]
+            },
+            {
+                  "name": "Praia de Beijinhos",
+                  "text": "Situated along the lively promenade of Povoa De Varzim, Praia de Beijinhos offers a remarkably cozy slice of the Portuguese coast. Visitors can look forward to a relaxed atmosphere that is perfectly suited for unwinding right by the ocean. It is an excellent spot to combine a refreshing seaside stroll with some quiet sunbathing. Arriving early in the morning guarantees a peaceful start to the day by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774696,
+                        41.387587
+                  ]
+            },
+            {
+                  "name": "Praia Verde",
+                  "text": "Resting on the scenic shores of Povoa De Varzim, Praia Verde is a welcoming destination for seaside recreation. The atmosphere is casually inviting, drawing both locals and travelers looking to engage in coastal leisure. Whether you prefer to soak up the sun or simply admire the Atlantic views, this stretch provides an ideal backdrop. Planning a visit during the warmer months ensures the best experience by the waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.77437,
+                        41.386296
+                  ]
+            },
+            {
+                  "name": "Praia Azul",
+                  "text": "Famous for its strikingly blue Atlantic waters, Praia Azul is a prominent coastal highlight in Povoa De Varzim. The environment feels both dynamic and picturesque, capturing the true essence of a Portuguese seaside getaway. Sunbathers and swimmers alike are drawn to its inviting shores to enjoy the natural beauty of the area. A sunny summer afternoon is undoubtedly the prime time to appreciate its vivid colors.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773029,
+                        41.385186
+                  ]
+            },
+            {
+                  "name": "Praia de Salgueira",
+                  "text": "A vibrant hub for ocean enthusiasts, Praia de Salgueira stretches beautifully along the Povoa De Varzim coastline. Its energetic atmosphere makes it a celebrated gathering place for water sports fans and passionate surfers. Visitors can immerse themselves in the active seaside culture or comfortably watch the waves roll in from the sand. Bringing a windbreaker can be quite practical when spending an entire afternoon by the surf.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.771294,
+                        41.383428
+                  ]
+            },
+            {
+                  "name": "Praia de Pontes",
+                  "text": "Defining the rugged beauty of the Atlantic, Praia de Pontes offers a sweeping sandy expanse in Povoa De Varzim. The shore radiates a serene yet raw maritime charm, perfect for those seeking an authentic beach day. Ambling along the water's edge or setting up a spot for sunbathing are wonderful ways to spend time here. It is highly recommended to pack plenty of sunscreen before heading out to the open sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.776777,
+                        41.39359
+                  ]
+            },
+            {
+                  "name": "Praia de Fragosa",
+                  "text": "Praia de Fragosa presents a charming coastal stretch within the oceanfront bounds of Povoa De Varzim. It fosters a peaceful and contemplative mood, drawing people who cherish open coastal landscapes. Taking leisurely strolls by the sea and breathing in the brisk oceanic air are the main draws of this location. A late afternoon visit often rewards walkers with a beautifully softly-lit shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.778899,
+                        41.397605
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "Deeply rooted in local heritage, Praia do Peixe offers a glimpse into the traditional maritime soul of Povoa De Varzim. The atmosphere is authentically rustic, echoing the historic lifestyle of Portuguese fishermen. Visitors can enjoy the unique character of the shore while observing the gentle ebb and flow of the tide. Wearing comfortable walking shoes is a good idea to fully explore this distinctive coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Praia de Redonda / Leixão",
+                  "text": "Characterized by a fascinating mix of soft sand and rocky formations, Praia de Redonda / Leixão is a striking part of Povoa De Varzim. The interplay of natural textures creates a slightly dramatic yet incredibly inviting coastal atmosphere. This location is perfect for those who want to blend sunbathing with a bit of seaside exploration among the rocks. Visiting during low tide often reveals interesting tidal pools waiting to be discovered.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.768315,
+                        41.377181
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "A historic 18th-century aqueduct featuring numerous stone arches.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Parque da Cidade Póvoa de Varzim",
+                  "text": "The large city park of Póvoa de Varzim, offering green spaces and trails.",
+                  "category": "park",
+                  "coords": [
+                        -8.754104,
+                        41.400076
+                  ]
+            },
+            {
+                  "name": "Praça Marquês de Pombal",
+                  "text": "A public square and park area located in the heart of Póvoa de Varzim.",
+                  "category": "park",
+                  "coords": [
+                        -8.760942,
+                        41.381042
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "An arts and cultural center providing creative activities in Póvoa de Varzim.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "A street art mural honoring the fishermen of the Caxinas district.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Muro de Azulejos",
+                  "text": "A decorative wall adorned with traditional Portuguese tiles in Póvoa de Varzim.",
+                  "category": "historical",
+                  "coords": [
+                        -8.767581,
+                        41.378315
+                  ]
+            },
+            {
+                  "name": "Baloiço Bolos do Folheta(a Cafe)",
+                  "text": "A scenic swing located near a local cafe in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.772852,
+                        41.394224
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "A landmark or point of interest in the Caxinas district of Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Norte da Barra de Póvoa de Varzim",
+                  "text": "The northern breakwater of the harbor entrance in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.770209,
+                        41.372263
+                  ]
+            },
+            {
+                  "name": "Monumento Circulo dos Deuses",
+                  "text": "A decorative installation or monument titled \"Circle of the Gods\" in Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.754531,
+                        41.397549
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "The southern breakwater protecting the port of Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Póvoa",
+                  "text": "A 16th-century stone pillory symbolizing the municipal autonomy of Póvoa de Varzim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.7606,
+                        41.378785
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "A historic church in Póvoa de Varzim known for its connection to the local fishermen.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "A religious landmark in Póvoa de Varzim dedicated to Our Lady of Lapa.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Praia de Lagoa II",
+                  "text": "Praia de Lagoa II is a beach located in Póvoa de Varzim.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.774473,
+                        41.39081
+                  ]
+            },
+            {
+                  "name": "Piscinas CDP",
+                  "text": "A swimming facility in Póvoa de Varzim used for various water activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.772219,
+                        41.386737
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "The municipal swimming pool of Póvoa de Varzim offers modern pools for recreational athletes.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.773307,
+                        41.386512
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Póvoa de Varzim", hu: "Póvoa de Varzim", ro: "Póvoa de Varzim", en: "Póvoa de Varzim" },
@@ -15557,6 +19067,51 @@ export const portugalCitiesV2: POI[] = [
                         -8.233266,
                         37.086078
                   ]
+            },
+            {
+                  "name": "Praia da Ponta Pequena",
+                  "text": "Ein kleiner, ruhiger Strand in Albufeira, umgeben von den typischen Felsen der Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.285299,
+                        37.073597
+                  ]
+            },
+            {
+                  "name": "Praia da Ponta Grande",
+                  "text": "Ein abgelegener Strandabschnitt bei Albufeira, der nur über den Seeweg oder steile Pfade erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.28745,
+                        37.073338
+                  ]
+            },
+            {
+                  "name": "Praia dos Paradinha",
+                  "text": "Ein ruhiger Küstenbereich in der Region Albufeira, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.282085,
+                        37.074505
+                  ]
+            },
+            {
+                  "name": "Praia de São Rafael",
+                  "text": "Ein bekannter Strand an der Algarve, berühmt für seine markanten Kalksteinformationen und klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.280384,
+                        37.074772
+                  ]
+            },
+            {
+                  "name": "Praia dos Piratas",
+                  "text": "Ein charmanter Strand in Albufeira, der für seine natürliche Umgebung geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.283758,
+                        37.073849
+                  ]
             }
       ],
       "hu": [
@@ -15837,6 +19392,51 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.233266,
                         37.086078
+                  ]
+            },
+            {
+                  "name": "Praia da Ponta Pequena",
+                  "text": "Kicsi, csendes strand Albufeirában, amelyet az Algarve jellegzetes sziklái vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.285299,
+                        37.073597
+                  ]
+            },
+            {
+                  "name": "Praia da Ponta Grande",
+                  "text": "Albufeira közeli eldugott strandrész, amely csak a tenger felől vagy meredek ösvényeken érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.28745,
+                        37.073338
+                  ]
+            },
+            {
+                  "name": "Praia dos Paradinha",
+                  "text": "Csendes tengerparti terület Albufeira régiójában, amely ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.282085,
+                        37.074505
+                  ]
+            },
+            {
+                  "name": "Praia de São Rafael",
+                  "text": "Népszerű Algarve-parti strand, amely jellegzetes mészkőformációiról és tiszta vizéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.280384,
+                        37.074772
+                  ]
+            },
+            {
+                  "name": "Praia dos Piratas",
+                  "text": "Bájos strand Albufeirában, amelyet természetes környezete miatt kedvelnek a látogatók.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.283758,
+                        37.073849
                   ]
             }
       ],
@@ -16119,6 +19719,51 @@ export const portugalCitiesV2: POI[] = [
                         -8.233266,
                         37.086078
                   ]
+            },
+            {
+                  "name": "Praia da Ponta Pequena",
+                  "text": "O plajă mică și liniștită în Albufeira, înconjurată de stâncile tipice regiunii Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.285299,
+                        37.073597
+                  ]
+            },
+            {
+                  "name": "Praia da Ponta Grande",
+                  "text": "O porțiune de plajă retrasă lângă Albufeira, accesibilă doar pe mare sau prin poteci abrupte.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.28745,
+                        37.073338
+                  ]
+            },
+            {
+                  "name": "Praia dos Paradinha",
+                  "text": "O zonă de coastă liniștită în regiunea Albufeira, ideală pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.282085,
+                        37.074505
+                  ]
+            },
+            {
+                  "name": "Praia de São Rafael",
+                  "text": "O plajă faimoasă din Algarve, cunoscută pentru formațiunile sale de calcar și apa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.280384,
+                        37.074772
+                  ]
+            },
+            {
+                  "name": "Praia dos Piratas",
+                  "text": "O plajă fermecătoare în Albufeira, apreciată pentru cadrul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.283758,
+                        37.073849
+                  ]
             }
       ],
       "en": [
@@ -16399,6 +20044,51 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.233266,
                         37.086078
+                  ]
+            },
+            {
+                  "name": "Praia da Ponta Pequena",
+                  "text": "A small, quiet beach in Albufeira, surrounded by the typical cliffs of the Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.285299,
+                        37.073597
+                  ]
+            },
+            {
+                  "name": "Praia da Ponta Grande",
+                  "text": "A secluded beach stretch near Albufeira, accessible only by sea or steep paths.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.28745,
+                        37.073338
+                  ]
+            },
+            {
+                  "name": "Praia dos Paradinha",
+                  "text": "A peaceful coastal area in the Albufeira region, ideal for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.282085,
+                        37.074505
+                  ]
+            },
+            {
+                  "name": "Praia de São Rafael",
+                  "text": "A well-known beach in the Algarve, famous for its striking limestone formations and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.280384,
+                        37.074772
+                  ]
+            },
+            {
+                  "name": "Praia dos Piratas",
+                  "text": "A charming beach in Albufeira, valued for its natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.283758,
+                        37.073849
                   ]
             }
       ]
@@ -19194,6 +22884,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.541788,
                         41.206045
                   ]
+            },
+            {
+                  "name": "CPN",
+                  "text": "Ein öffentliches Schwimmbad in Ermesinde, das für sportliches Schwimmen und Freizeit genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.5567,
+                        41.207913
+                  ]
             }
       ],
       "hu": [
@@ -19312,6 +23011,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.541788,
                         41.206045
+                  ]
+            },
+            {
+                  "name": "CPN",
+                  "text": "Ermesinde nyilvános úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.5567,
+                        41.207913
                   ]
             }
       ],
@@ -19432,6 +23140,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.541788,
                         41.206045
                   ]
+            },
+            {
+                  "name": "CPN",
+                  "text": "O piscină publică în Ermesinde, utilizată pentru înot sportiv și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.5567,
+                        41.207913
+                  ]
             }
       ],
       "en": [
@@ -19550,6 +23267,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.541788,
                         41.206045
+                  ]
+            },
+            {
+                  "name": "CPN",
+                  "text": "A public swimming pool in Ermesinde used for sports and leisure swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.5567,
+                        41.207913
                   ]
             }
       ]
@@ -19869,6 +23595,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.819852,
                         41.892946
                   ]
+            },
+            {
+                  "name": "Praia do Puntal",
+                  "text": "Praia do Puntal ist ein Strand in Caminha.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872541,
+                        41.871001
+                  ]
             }
       ],
       "hu": [
@@ -20095,6 +23830,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.819852,
                         41.892946
+                  ]
+            },
+            {
+                  "name": "Praia do Puntal",
+                  "text": "Praia do Puntal egy strand Caminha területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872541,
+                        41.871001
                   ]
             }
       ],
@@ -20323,6 +24067,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.819852,
                         41.892946
                   ]
+            },
+            {
+                  "name": "Praia do Puntal",
+                  "text": "Praia do Puntal este o plajă în Caminha.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872541,
+                        41.871001
+                  ]
             }
       ],
       "en": [
@@ -20549,6 +24302,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.819852,
                         41.892946
+                  ]
+            },
+            {
+                  "name": "Praia do Puntal",
+                  "text": "Praia do Puntal is a beach in Caminha.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872541,
+                        41.871001
                   ]
             }
       ]
@@ -22461,6 +26223,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.645427,
                         40.746428
                   ]
+            },
+            {
+                  "name": "Spot Mama Prada",
+                  "text": "Spot Mama Prada ist ein Strandbereich in Murtosa, der für seine natürliche Umgebung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678093,
+                        40.745019
+                  ]
             }
       ],
       "hu": [
@@ -22525,6 +26296,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.645427,
                         40.746428
+                  ]
+            },
+            {
+                  "name": "Spot Mama Prada",
+                  "text": "A Spot Mama Prada egy tengerparti terület Murtosában, amely természeti környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678093,
+                        40.745019
                   ]
             }
       ],
@@ -22591,6 +26371,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.645427,
                         40.746428
                   ]
+            },
+            {
+                  "name": "Spot Mama Prada",
+                  "text": "Spot Mama Prada este o zonă de plajă din Murtosa, cunoscută pentru cadrul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678093,
+                        40.745019
+                  ]
             }
       ],
       "en": [
@@ -22656,6 +26445,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.645427,
                         40.746428
                   ]
+            },
+            {
+                  "name": "Spot Mama Prada",
+                  "text": "Spot Mama Prada is a beach area in Murtosa, known for its natural surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678093,
+                        40.745019
+                  ]
             }
       ]
 },
@@ -22703,7 +26501,484 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-murtosa-cities-v2.webp",
   },
   {
-    id: "portugal-esmoriz-cities-v2", "sights": {"de": [{"name": "Praia de Paramos", "text": "Geprägt von sanften Dünen und rauer Natur, erstreckt sich dieser Küstenstrand unweit von Esmoriz. Die weitläufige Kulisse ist wie geschaffen für ausgedehnte Spaziergänge entlang der portugiesischen Küstenlinie. Besonders an warmen Tagen sorgt eine erfrischende Meeresbrise für die nötige Abkühlung.", "category": "recreational", "coords": [-8.650001, 40.973682]}, {"name": "Castro de Ovil", "text": "Castro de Ovil ist eine archäologische Stätte aus der Eisenzeit in Esmoriz mit den Überresten einer alten Wallburg.", "category": "historical", "coords": [-8.620863, 40.979026]}, {"name": "Núcleo Museológico Tanoaria Ramalho", "text": "Dieses Museum in Esmoriz widmet sich dem traditionellen lokalen Handwerk der Fassbinderei (Küferei).", "category": "museum", "coords": [-8.630079, 40.956416]}, {"name": "Núcleo Museológico Tanoaria Farramenta", "text": "Als Teil des Museumnetzwerks von Esmoriz bewahrt dieser Ort Werkzeuge und Geschichte der traditionellen Fassbinderei.", "category": "museum", "coords": [-8.62688, 40.957133]}, {"name": "Praia da Barrinha", "text": "Zwischen dem Atlantik und dem faszinierenden Lagunengebiet Barrinha entfaltet dieser Küstenstrand in Esmoriz seinen maritimen Charme. Das Zusammenspiel von Meer und Lagune schafft eine besondere Atmosphäre für Sonnenbäder und Naturerkundungen. Ein entspannter Nachmittagsausflug verspricht hier unvergessliche Urlaubsmomente in Portugal.", "category": "recreational", "coords": [-8.652133, 40.966064]}, {"name": "Canhão", "text": "Das Canhão ist ein lokales Wahrzeichen oder ein historisches ausgestelltes Geschütz in Esmoriz.", "category": "landmark", "coords": [-8.625089, 40.955974]}, {"name": "Auditório de Santa Marinha - Paróquia de Cortegaça", "text": "Dieses Auditorium in der Gemeinde Cortegaça in Esmoriz dient als Zentrum für lokale Kunst und kulturelle Veranstaltungen.", "category": "cultural", "coords": [-8.625656, 40.942765]}, {"name": "Igreja de São Tiago de Silvalde", "text": "Diese Kirche im Stadtteil Silvalde von Esmoriz ist dem Heiligen Jakobus gewidmet.", "category": "religious", "coords": [-8.626167, 40.991849]}, {"name": "Capela de Nossa Senhora da Penha de França", "text": "Die Kapelle Unserer Lieben Frau von Penha de França ist eine traditionelle lokale religiöse Stätte in Esmoriz.", "category": "religious", "coords": [-8.622306, 40.957257]}], "hu": [{"name": "Praia de Paramos", "text": "A lankás dűnékkel és vad természettel jellemezhető tengerparti strand Esmoriz közelében húzódik. A tágas kulissza tökéletesen alkalmas hosszú sétákra a portugál tengerpart mentén. Különösen a meleg napokon a frissítő tengeri szellő biztosítja a kellemes enyhülést.", "category": "recreational", "coords": [-8.650001, 40.973682]}, {"name": "Castro de Ovil", "text": "A Castro de Ovil egy vaskori régészeti lelőhely Esmorizban, amely egy ősi domberőd maradványait mutatja be.", "category": "historical", "coords": [-8.620863, 40.979026]}, {"name": "Núcleo Museológico Tanoaria Ramalho", "text": "Ez az esmorizi múzeum a hagyományos helyi hordókészítő mesterségnek (kádárság) van szentelve.", "category": "museum", "coords": [-8.630079, 40.956416]}, {"name": "Núcleo Museológico Tanoaria Farramenta", "text": "Az esmorizi múzeumi hálózat részeként ez a helyszín a hagyományos kádársággal kapcsolatos eszközöket és történelmet őrzi.", "category": "museum", "coords": [-8.62688, 40.957133]}, {"name": "Praia da Barrinha", "text": "Az Atlanti-óceán és a lenyűgöző Barrinha lagúnavidék között fekvő esmorizi partvidék különleges tengeri bájjal rendelkezik. Az óceán és a lagúna játéka egyedi hangulatot teremt a napozáshoz és a természet felfedezéséhez. Egy laza délutáni kirándulás felejthetetlen nyaralási pillanatokat ígér itt Portugáliában.", "category": "recreational", "coords": [-8.652133, 40.966064]}, {"name": "Canhão", "text": "A Canhão egy helyi nevezetesség vagy történelmi tüzérségi eszköz Esmorizban.", "category": "landmark", "coords": [-8.625089, 40.955974]}, {"name": "Auditório de Santa Marinha - Paróquia de Cortegaça", "text": "Ez az esmorizi Cortegaça plébánián található auditórium a helyi művészetek és kulturális események központja.", "category": "cultural", "coords": [-8.625656, 40.942765]}, {"name": "Igreja de São Tiago de Silvalde", "text": "Ez az esmorizi Silvalde negyedben található templom Szent Jakab tiszteletére épült.", "category": "religious", "coords": [-8.626167, 40.991849]}, {"name": "Capela de Nossa Senhora da Penha de França", "text": "Az esmorizi Penha de França Miasszonyunk-kápolna egy hagyományos helyi vallási helyszín.", "category": "religious", "coords": [-8.622306, 40.957257]}], "ro": [{"name": "Praia de Paramos", "text": "Caracterizată de dune domoale și natură aspră, această plajă de coastă se întinde nu departe de Esmoriz. Cadrul expansiv este perfect pentru plimbări lungi de-a lungul coastei portugheze. Mai ales în zilele călduroase, briza mării oferă o răcoare revigorantă.", "category": "recreational", "coords": [-8.650001, 40.973682]}, {"name": "Castro de Ovil", "text": "Castro de Ovil este un sit arheologic din epoca fierului din Esmoriz, care prezintă rămășițele unei vechi cetăți.", "category": "historical", "coords": [-8.620863, 40.979026]}, {"name": "Núcleo Museológico Tanoaria Ramalho", "text": "Acest muzeu din Esmoriz este dedicat meșteșugului tradițional local al fabricării butoaielor (dogărie).", "category": "museum", "coords": [-8.630079, 40.956416]}, {"name": "Núcleo Museológico Tanoaria Farramenta", "text": "Parte a rețelei muzeale din Esmoriz, acest sit păstrează unelte și istorie legate de dogăria tradițională.", "category": "museum", "coords": [-8.62688, 40.957133]}, {"name": "Praia da Barrinha", "text": "Între Atlantic și zona fascinantă a lagunei Barrinha, această plajă de coastă din Esmoriz își dezvăluie farmecul maritim. Interacțiunea dintre ocean și lagună creează o atmosferă specială pentru băi de soare și explorarea naturii. O excursie relaxată după-amiaza promite momente de vacanță de neuitat în Portugalia.", "category": "recreational", "coords": [-8.652133, 40.966064]}, {"name": "Canhão", "text": "Canhão este un punct de reper local sau o piesă de artilerie istorică expusă în Esmoriz.", "category": "landmark", "coords": [-8.625089, 40.955974]}, {"name": "Auditório de Santa Marinha - Paróquia de Cortegaça", "text": "Acest auditoriu din parohia Cortegaça din Esmoriz servește ca centru pentru arte locale și evenimente culturale.", "category": "cultural", "coords": [-8.625656, 40.942765]}, {"name": "Igreja de São Tiago de Silvalde", "text": "Această biserică din districtul Silvalde din Esmoriz este dedicată Sfântului Iacob.", "category": "religious", "coords": [-8.626167, 40.991849]}, {"name": "Capela de Nossa Senhora da Penha de França", "text": "Capela Maicii Domnului din Penha de França este un sit religios local tradițional din Esmoriz.", "category": "religious", "coords": [-8.622306, 40.957257]}], "en": [{"name": "Praia de Paramos", "text": "Characterized by rolling dunes and rugged nature, this coastal beach stretches out not far from Esmoriz. The expansive backdrop is perfectly suited for long walks along the Portuguese coastline. Especially on warm days, a refreshing sea breeze provides much-needed relief.", "category": "recreational", "coords": [-8.650001, 40.973682]}, {"name": "Castro de Ovil", "text": "Castro de Ovil is an Iron Age archaeological site in Esmoriz featuring the remains of an ancient hillfort.", "category": "historical", "coords": [-8.620863, 40.979026]}, {"name": "Núcleo Museológico Tanoaria Ramalho", "text": "This museum in Esmoriz is dedicated to the traditional local craft of barrel making (cooperage).", "category": "museum", "coords": [-8.630079, 40.956416]}, {"name": "Núcleo Museológico Tanoaria Farramenta", "text": "Part of Esmoriz's museum network, this site preserves tools and history related to traditional cooperage.", "category": "museum", "coords": [-8.62688, 40.957133]}, {"name": "Praia da Barrinha", "text": "Between the Atlantic and the fascinating Barrinha lagoon area, this coastal beach in Esmoriz unfolds its maritime charm. The interplay of ocean and lagoon creates a special atmosphere for sunbathing and nature exploration. A relaxed afternoon trip here promises unforgettable vacation moments in Portugal.", "category": "recreational", "coords": [-8.652133, 40.966064]}, {"name": "Canhão", "text": "The Canhão is a local landmark or historical artillery piece on display in Esmoriz.", "category": "landmark", "coords": [-8.625089, 40.955974]}, {"name": "Auditório de Santa Marinha - Paróquia de Cortegaça", "text": "This auditorium in the Cortegaça parish of Esmoriz serves as a center for local arts and cultural events.", "category": "cultural", "coords": [-8.625656, 40.942765]}, {"name": "Igreja de São Tiago de Silvalde", "text": "This church in the Silvalde district of Esmoriz is dedicated to Saint James.", "category": "religious", "coords": [-8.626167, 40.991849]}, {"name": "Capela de Nossa Senhora da Penha de França", "text": "The Chapel of Our Lady of Penha de França is a traditional local religious site in Esmoriz.", "category": "religious", "coords": [-8.622306, 40.957257]}]},
+    id: "portugal-esmoriz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Paramos",
+                  "text": "Geprägt von sanften Dünen und rauer Natur, erstreckt sich dieser Küstenstrand unweit von Esmoriz. Die weitläufige Kulisse ist wie geschaffen für ausgedehnte Spaziergänge entlang der portugiesischen Küstenlinie. Besonders an warmen Tagen sorgt eine erfrischende Meeresbrise für die nötige Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650001,
+                        40.973682
+                  ]
+            },
+            {
+                  "name": "Castro de Ovil",
+                  "text": "Castro de Ovil ist eine archäologische Stätte aus der Eisenzeit in Esmoriz mit den Überresten einer alten Wallburg.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620863,
+                        40.979026
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Ramalho",
+                  "text": "Dieses Museum in Esmoriz widmet sich dem traditionellen lokalen Handwerk der Fassbinderei (Küferei).",
+                  "category": "museum",
+                  "coords": [
+                        -8.630079,
+                        40.956416
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Farramenta",
+                  "text": "Als Teil des Museumnetzwerks von Esmoriz bewahrt dieser Ort Werkzeuge und Geschichte der traditionellen Fassbinderei.",
+                  "category": "museum",
+                  "coords": [
+                        -8.62688,
+                        40.957133
+                  ]
+            },
+            {
+                  "name": "Praia da Barrinha",
+                  "text": "Zwischen dem Atlantik und dem faszinierenden Lagunengebiet Barrinha entfaltet dieser Küstenstrand in Esmoriz seinen maritimen Charme. Das Zusammenspiel von Meer und Lagune schafft eine besondere Atmosphäre für Sonnenbäder und Naturerkundungen. Ein entspannter Nachmittagsausflug verspricht hier unvergessliche Urlaubsmomente in Portugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.652133,
+                        40.966064
+                  ]
+            },
+            {
+                  "name": "Canhão",
+                  "text": "Das Canhão ist ein lokales Wahrzeichen oder ein historisches ausgestelltes Geschütz in Esmoriz.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625089,
+                        40.955974
+                  ]
+            },
+            {
+                  "name": "Auditório de Santa Marinha - Paróquia de Cortegaça",
+                  "text": "Dieses Auditorium in der Gemeinde Cortegaça in Esmoriz dient als Zentrum für lokale Kunst und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.625656,
+                        40.942765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "Diese Kirche im Stadtteil Silvalde von Esmoriz ist dem Heiligen Jakobus gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha de França",
+                  "text": "Die Kapelle Unserer Lieben Frau von Penha de França ist eine traditionelle lokale religiöse Stätte in Esmoriz.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622306,
+                        40.957257
+                  ]
+            },
+            {
+                  "name": "Praia Velha",
+                  "text": "Ein weitläufiger Atlantikstrand in Esmoriz, bekannt für seine starken Wellen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656269,
+                        40.955061
+                  ]
+            },
+            {
+                  "name": "Praia do Cantinho",
+                  "text": "Ein kleinerer Strandabschnitt in Esmoriz, beliebt bei Surfern und Einheimischen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.655779,
+                        40.956955
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Ein traditioneller Strand in Esmoriz, an dem oft noch Fischerboote zu sehen sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657059,
+                        40.951305
+                  ]
+            },
+            {
+                  "name": "Piscinas Bombeiros Voluntários de Esmoriz",
+                  "text": "Ein öffentliches Schwimmbad in Esmoriz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.632203,
+                        40.958516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Paramos",
+                  "text": "A lankás dűnékkel és vad természettel jellemezhető tengerparti strand Esmoriz közelében húzódik. A tágas kulissza tökéletesen alkalmas hosszú sétákra a portugál tengerpart mentén. Különösen a meleg napokon a frissítő tengeri szellő biztosítja a kellemes enyhülést.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650001,
+                        40.973682
+                  ]
+            },
+            {
+                  "name": "Castro de Ovil",
+                  "text": "A Castro de Ovil egy vaskori régészeti lelőhely Esmorizban, amely egy ősi domberőd maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620863,
+                        40.979026
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Ramalho",
+                  "text": "Ez az esmorizi múzeum a hagyományos helyi hordókészítő mesterségnek (kádárság) van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -8.630079,
+                        40.956416
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Farramenta",
+                  "text": "Az esmorizi múzeumi hálózat részeként ez a helyszín a hagyományos kádársággal kapcsolatos eszközöket és történelmet őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -8.62688,
+                        40.957133
+                  ]
+            },
+            {
+                  "name": "Praia da Barrinha",
+                  "text": "Az Atlanti-óceán és a lenyűgöző Barrinha lagúnavidék között fekvő esmorizi partvidék különleges tengeri bájjal rendelkezik. Az óceán és a lagúna játéka egyedi hangulatot teremt a napozáshoz és a természet felfedezéséhez. Egy laza délutáni kirándulás felejthetetlen nyaralási pillanatokat ígér itt Portugáliában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.652133,
+                        40.966064
+                  ]
+            },
+            {
+                  "name": "Canhão",
+                  "text": "A Canhão egy helyi nevezetesség vagy történelmi tüzérségi eszköz Esmorizban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625089,
+                        40.955974
+                  ]
+            },
+            {
+                  "name": "Auditório de Santa Marinha - Paróquia de Cortegaça",
+                  "text": "Ez az esmorizi Cortegaça plébánián található auditórium a helyi művészetek és kulturális események központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.625656,
+                        40.942765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "Ez az esmorizi Silvalde negyedben található templom Szent Jakab tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha de França",
+                  "text": "Az esmorizi Penha de França Miasszonyunk-kápolna egy hagyományos helyi vallási helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622306,
+                        40.957257
+                  ]
+            },
+            {
+                  "name": "Praia Velha",
+                  "text": "Tágas atlanti-óceáni strand Esmorizban, amely erős hullámairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656269,
+                        40.955061
+                  ]
+            },
+            {
+                  "name": "Praia do Cantinho",
+                  "text": "Kisebb tengerparti szakasz Esmorizban, a szörfösök és a helyiek körében népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.655779,
+                        40.956955
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Hagyományos strand Esmorizban, ahol gyakran láthatók halászcsónakok.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657059,
+                        40.951305
+                  ]
+            },
+            {
+                  "name": "Piscinas Bombeiros Voluntários de Esmoriz",
+                  "text": "Nyilvános úszómedence Esmorizban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.632203,
+                        40.958516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Paramos",
+                  "text": "Caracterizată de dune domoale și natură aspră, această plajă de coastă se întinde nu departe de Esmoriz. Cadrul expansiv este perfect pentru plimbări lungi de-a lungul coastei portugheze. Mai ales în zilele călduroase, briza mării oferă o răcoare revigorantă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650001,
+                        40.973682
+                  ]
+            },
+            {
+                  "name": "Castro de Ovil",
+                  "text": "Castro de Ovil este un sit arheologic din epoca fierului din Esmoriz, care prezintă rămășițele unei vechi cetăți.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620863,
+                        40.979026
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Ramalho",
+                  "text": "Acest muzeu din Esmoriz este dedicat meșteșugului tradițional local al fabricării butoaielor (dogărie).",
+                  "category": "museum",
+                  "coords": [
+                        -8.630079,
+                        40.956416
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Farramenta",
+                  "text": "Parte a rețelei muzeale din Esmoriz, acest sit păstrează unelte și istorie legate de dogăria tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        -8.62688,
+                        40.957133
+                  ]
+            },
+            {
+                  "name": "Praia da Barrinha",
+                  "text": "Între Atlantic și zona fascinantă a lagunei Barrinha, această plajă de coastă din Esmoriz își dezvăluie farmecul maritim. Interacțiunea dintre ocean și lagună creează o atmosferă specială pentru băi de soare și explorarea naturii. O excursie relaxată după-amiaza promite momente de vacanță de neuitat în Portugalia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.652133,
+                        40.966064
+                  ]
+            },
+            {
+                  "name": "Canhão",
+                  "text": "Canhão este un punct de reper local sau o piesă de artilerie istorică expusă în Esmoriz.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625089,
+                        40.955974
+                  ]
+            },
+            {
+                  "name": "Auditório de Santa Marinha - Paróquia de Cortegaça",
+                  "text": "Acest auditoriu din parohia Cortegaça din Esmoriz servește ca centru pentru arte locale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.625656,
+                        40.942765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "Această biserică din districtul Silvalde din Esmoriz este dedicată Sfântului Iacob.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha de França",
+                  "text": "Capela Maicii Domnului din Penha de França este un sit religios local tradițional din Esmoriz.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622306,
+                        40.957257
+                  ]
+            },
+            {
+                  "name": "Praia Velha",
+                  "text": "O plajă întinsă la Atlantic în Esmoriz, cunoscută pentru valurile sale puternice.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656269,
+                        40.955061
+                  ]
+            },
+            {
+                  "name": "Praia do Cantinho",
+                  "text": "O porțiune mai mică de plajă în Esmoriz, populară printre surferi și localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.655779,
+                        40.956955
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "O plajă tradițională în Esmoriz, unde pot fi văzute adesea bărci de pescuit.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657059,
+                        40.951305
+                  ]
+            },
+            {
+                  "name": "Piscinas Bombeiros Voluntários de Esmoriz",
+                  "text": "O piscină publică în Esmoriz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.632203,
+                        40.958516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Paramos",
+                  "text": "Characterized by rolling dunes and rugged nature, this coastal beach stretches out not far from Esmoriz. The expansive backdrop is perfectly suited for long walks along the Portuguese coastline. Especially on warm days, a refreshing sea breeze provides much-needed relief.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.650001,
+                        40.973682
+                  ]
+            },
+            {
+                  "name": "Castro de Ovil",
+                  "text": "Castro de Ovil is an Iron Age archaeological site in Esmoriz featuring the remains of an ancient hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620863,
+                        40.979026
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Ramalho",
+                  "text": "This museum in Esmoriz is dedicated to the traditional local craft of barrel making (cooperage).",
+                  "category": "museum",
+                  "coords": [
+                        -8.630079,
+                        40.956416
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Tanoaria Farramenta",
+                  "text": "Part of Esmoriz's museum network, this site preserves tools and history related to traditional cooperage.",
+                  "category": "museum",
+                  "coords": [
+                        -8.62688,
+                        40.957133
+                  ]
+            },
+            {
+                  "name": "Praia da Barrinha",
+                  "text": "Between the Atlantic and the fascinating Barrinha lagoon area, this coastal beach in Esmoriz unfolds its maritime charm. The interplay of ocean and lagoon creates a special atmosphere for sunbathing and nature exploration. A relaxed afternoon trip here promises unforgettable vacation moments in Portugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.652133,
+                        40.966064
+                  ]
+            },
+            {
+                  "name": "Canhão",
+                  "text": "The Canhão is a local landmark or historical artillery piece on display in Esmoriz.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625089,
+                        40.955974
+                  ]
+            },
+            {
+                  "name": "Auditório de Santa Marinha - Paróquia de Cortegaça",
+                  "text": "This auditorium in the Cortegaça parish of Esmoriz serves as a center for local arts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.625656,
+                        40.942765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "This church in the Silvalde district of Esmoriz is dedicated to Saint James.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha de França",
+                  "text": "The Chapel of Our Lady of Penha de França is a traditional local religious site in Esmoriz.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622306,
+                        40.957257
+                  ]
+            },
+            {
+                  "name": "Praia Velha",
+                  "text": "An extensive Atlantic beach in Esmoriz, known for its strong waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656269,
+                        40.955061
+                  ]
+            },
+            {
+                  "name": "Praia do Cantinho",
+                  "text": "A smaller beach section in Esmoriz, popular with surfers and locals.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.655779,
+                        40.956955
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "A traditional beach in Esmoriz where fishing boats are often still seen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657059,
+                        40.951305
+                  ]
+            },
+            {
+                  "name": "Piscinas Bombeiros Voluntários de Esmoriz",
+                  "text": "A public swimming pool in Esmoriz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.632203,
+                        40.958516
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Esmoriz", hu: "Esmoriz", ro: "Esmoriz", en: "Esmoriz" },
@@ -22830,6 +27105,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.619855,
                         40.859419
                   ]
+            },
+            {
+                  "name": "Praia fluvial da Azurreira",
+                  "text": "Praia fluvial da Azurreira ist ein Flussstrand in Ovar, der zum Schwimmen und Verweilen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.653735,
+                        40.852217
+                  ]
             }
       ],
       "hu": [
@@ -22912,6 +27196,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.619855,
                         40.859419
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Azurreira",
+                  "text": "A Praia fluvial da Azurreira egy folyóparti strand Ovar területén, amely alkalmas úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.653735,
+                        40.852217
                   ]
             }
       ],
@@ -22996,6 +27289,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.619855,
                         40.859419
                   ]
+            },
+            {
+                  "name": "Praia fluvial da Azurreira",
+                  "text": "Praia fluvial da Azurreira este o plajă fluvială din Ovar, potrivită pentru înot și agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.653735,
+                        40.852217
+                  ]
             }
       ],
       "en": [
@@ -23078,6 +27380,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.619855,
                         40.859419
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Azurreira",
+                  "text": "Praia fluvial da Azurreira is a river beach in Ovar suitable for swimming and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.653735,
+                        40.852217
                   ]
             }
       ]
@@ -23163,6 +27474,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.078715,
                         40.51958
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Tondela",
+                  "text": "Ein öffentlicher Schwimmkomplex in Tondela mit Einrichtungen für Jung und Alt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.081965,
+                        40.519939
+                  ]
             }
       ],
       "hu": [
@@ -23200,6 +27520,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.078715,
                         40.51958
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Tondela",
+                  "text": "Nyilvános úszókomplexum Tondelában, létesítményekkel minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.081965,
+                        40.519939
                   ]
             }
       ],
@@ -23239,6 +27568,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.078715,
                         40.51958
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Tondela",
+                  "text": "Un complex public de înot în Tondela, cu facilități pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.081965,
+                        40.519939
+                  ]
             }
       ],
       "en": [
@@ -23276,6 +27614,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.078715,
                         40.51958
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Tondela",
+                  "text": "A public swimming complex in Tondela with facilities for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.081965,
+                        40.519939
                   ]
             }
       ]
@@ -26510,7 +30857,232 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-trancoso-cities-v2.webp",
   },
   {
-    id: "portugal-meda-cities-v2", "sights": {"de": [{"name": "Pavilhão Multi-Usos da Casa Municipal da Cultura", "text": "Ein vielseitiger Veranstaltungsort in Mêda für kulturelle Ereignisse, Aufführungen und Gemeinschaftstreffen.", "category": "cultural", "coords": [-7.258065, 40.965525]}, {"name": "Quinta da Areeira", "text": "Ein historisches Anwesen oder Herrenhaus in Mêda, das den regionalen Baustil und die Landschaft zeigt.", "category": "historical", "coords": [-7.279099, 40.989872]}, {"name": "Solar das Casas Novas", "text": "Ein historisches Herrenhaus in Mêda.", "category": "historical", "coords": [-7.262738, 40.961726]}, {"name": "Miradouro da Torre do Relógio", "text": "Der Miradouro da Torre do Relógio bietet einen natürlichen Aussichtspunkt mit weitem Blick über Mêda in Portugal. Reisende erwartet an diesem Aussichtspunkt eine wunderbare Gelegenheit, die Landschaft der Stadt zu bewundern.", "category": "natural", "coords": [-7.264036, 40.963166]}, {"name": "Câmara Municipal de Mêda", "text": "Das Verwaltungsgebäude der Stadtverwaltung von Mêda.", "category": "historical", "coords": [-7.261469, 40.963358]}], "hu": [{"name": "Pavilhão Multi-Usos da Casa Municipal da Cultura", "text": "Sokoldalú rendezvényhelyszín Mêdában kulturális események, előadások és közösségi összejövetelek számára.", "category": "cultural", "coords": [-7.258065, 40.965525]}, {"name": "Quinta da Areeira", "text": "Történelmi birtok vagy udvarház Mêdában, amely a regionális építészeti stílust és tájat mutatja be.", "category": "historical", "coords": [-7.279099, 40.989872]}, {"name": "Solar das Casas Novas", "text": "Történelmi udvarház Mêda városában.", "category": "historical", "coords": [-7.262738, 40.961726]}, {"name": "Miradouro da Torre do Relógio", "text": "A Miradouro da Torre do Relógio egy természetes kilátópont, ahonnan széles panoráma nyílik a portugáliai Meda városára. Az utazók nagyszerű lehetőségre számíthatnak, hogy megcsodálják a városi tájat ebből a festői kilátóból.", "category": "natural", "coords": [-7.264036, 40.963166]}, {"name": "Câmara Municipal de Mêda", "text": "Mêda városának városházi épülete.", "category": "historical", "coords": [-7.261469, 40.963358]}], "ro": [{"name": "Pavilhão Multi-Usos da Casa Municipal da Cultura", "text": "Un loc versatil din Mêda pentru evenimente culturale, spectacole și adunări comunitare.", "category": "cultural", "coords": [-7.258065, 40.965525]}, {"name": "Quinta da Areeira", "text": "O proprietate istorică sau conac din Mêda care prezintă stilul arhitectural și peisajul regional.", "category": "historical", "coords": [-7.279099, 40.989872]}, {"name": "Solar das Casas Novas", "text": "Un conac istoric în Mêda.", "category": "historical", "coords": [-7.262738, 40.961726]}, {"name": "Miradouro da Torre do Relógio", "text": "Miradouro da Torre do Relógio oferă un punct de observație natural, cu o priveliște amplă asupra orașului Meda din Portugalia. Călătorii se pot aștepta la o oportunitate minunată de a admira peisajele citadine de la acest punct de belvedere.", "category": "natural", "coords": [-7.264036, 40.963166]}, {"name": "Câmara Municipal de Mêda", "text": "Clădirea administrativă a primăriei din Mêda.", "category": "historical", "coords": [-7.261469, 40.963358]}], "en": [{"name": "Pavilhão Multi-Usos da Casa Municipal da Cultura", "text": "A versatile venue in Mêda for cultural events, performances, and community gatherings.", "category": "cultural", "coords": [-7.258065, 40.965525]}, {"name": "Quinta da Areeira", "text": "A historic estate or manor in Mêda showcasing regional architectural style and landscape.", "category": "historical", "coords": [-7.279099, 40.989872]}, {"name": "Solar das Casas Novas", "text": "A historic manor house in Mêda.", "category": "historical", "coords": [-7.262738, 40.961726]}, {"name": "Miradouro da Torre do Relógio", "text": "The Miradouro da Torre do Relógio offers a natural vantage point with sweeping views across Meda, Portugal. Travelers can expect a wonderful opportunity to admire the city's landscapes from this scenic lookout.", "category": "natural", "coords": [-7.264036, 40.963166]}, {"name": "Câmara Municipal de Mêda", "text": "The administrative building of Mêda's town hall.", "category": "historical", "coords": [-7.261469, 40.963358]}]},
+    id: "portugal-meda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pavilhão Multi-Usos da Casa Municipal da Cultura",
+                  "text": "Ein vielseitiger Veranstaltungsort in Mêda für kulturelle Ereignisse, Aufführungen und Gemeinschaftstreffen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.258065,
+                        40.965525
+                  ]
+            },
+            {
+                  "name": "Quinta da Areeira",
+                  "text": "Ein historisches Anwesen oder Herrenhaus in Mêda, das den regionalen Baustil und die Landschaft zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.279099,
+                        40.989872
+                  ]
+            },
+            {
+                  "name": "Solar das Casas Novas",
+                  "text": "Ein historisches Herrenhaus in Mêda.",
+                  "category": "historical",
+                  "coords": [
+                        -7.262738,
+                        40.961726
+                  ]
+            },
+            {
+                  "name": "Miradouro da Torre do Relógio",
+                  "text": "Der Miradouro da Torre do Relógio bietet einen natürlichen Aussichtspunkt mit weitem Blick über Mêda in Portugal. Reisende erwartet an diesem Aussichtspunkt eine wunderbare Gelegenheit, die Landschaft der Stadt zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264036,
+                        40.963166
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mêda",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung von Mêda.",
+                  "category": "historical",
+                  "coords": [
+                        -7.261469,
+                        40.963358
+                  ]
+            },
+            {
+                  "name": "Piscina descoberta",
+                  "text": "Ein Freibad in Mêda, das besonders in den Sommermonaten zur Erholung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.259148,
+                        40.969053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pavilhão Multi-Usos da Casa Municipal da Cultura",
+                  "text": "Sokoldalú rendezvényhelyszín Mêdában kulturális események, előadások és közösségi összejövetelek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.258065,
+                        40.965525
+                  ]
+            },
+            {
+                  "name": "Quinta da Areeira",
+                  "text": "Történelmi birtok vagy udvarház Mêdában, amely a regionális építészeti stílust és tájat mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -7.279099,
+                        40.989872
+                  ]
+            },
+            {
+                  "name": "Solar das Casas Novas",
+                  "text": "Történelmi udvarház Mêda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.262738,
+                        40.961726
+                  ]
+            },
+            {
+                  "name": "Miradouro da Torre do Relógio",
+                  "text": "A Miradouro da Torre do Relógio egy természetes kilátópont, ahonnan széles panoráma nyílik a portugáliai Meda városára. Az utazók nagyszerű lehetőségre számíthatnak, hogy megcsodálják a városi tájat ebből a festői kilátóból.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264036,
+                        40.963166
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mêda",
+                  "text": "Mêda városának városházi épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -7.261469,
+                        40.963358
+                  ]
+            },
+            {
+                  "name": "Piscina descoberta",
+                  "text": "Szabadtéri strand Mêdában, amely főként a nyári hónapokban várja a kikapcsolódni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.259148,
+                        40.969053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pavilhão Multi-Usos da Casa Municipal da Cultura",
+                  "text": "Un loc versatil din Mêda pentru evenimente culturale, spectacole și adunări comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.258065,
+                        40.965525
+                  ]
+            },
+            {
+                  "name": "Quinta da Areeira",
+                  "text": "O proprietate istorică sau conac din Mêda care prezintă stilul arhitectural și peisajul regional.",
+                  "category": "historical",
+                  "coords": [
+                        -7.279099,
+                        40.989872
+                  ]
+            },
+            {
+                  "name": "Solar das Casas Novas",
+                  "text": "Un conac istoric în Mêda.",
+                  "category": "historical",
+                  "coords": [
+                        -7.262738,
+                        40.961726
+                  ]
+            },
+            {
+                  "name": "Miradouro da Torre do Relógio",
+                  "text": "Miradouro da Torre do Relógio oferă un punct de observație natural, cu o priveliște amplă asupra orașului Meda din Portugalia. Călătorii se pot aștepta la o oportunitate minunată de a admira peisajele citadine de la acest punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264036,
+                        40.963166
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mêda",
+                  "text": "Clădirea administrativă a primăriei din Mêda.",
+                  "category": "historical",
+                  "coords": [
+                        -7.261469,
+                        40.963358
+                  ]
+            },
+            {
+                  "name": "Piscina descoberta",
+                  "text": "O piscină în aer liber în Mêda, care invită la relaxare în special în lunile de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.259148,
+                        40.969053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pavilhão Multi-Usos da Casa Municipal da Cultura",
+                  "text": "A versatile venue in Mêda for cultural events, performances, and community gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.258065,
+                        40.965525
+                  ]
+            },
+            {
+                  "name": "Quinta da Areeira",
+                  "text": "A historic estate or manor in Mêda showcasing regional architectural style and landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -7.279099,
+                        40.989872
+                  ]
+            },
+            {
+                  "name": "Solar das Casas Novas",
+                  "text": "A historic manor house in Mêda.",
+                  "category": "historical",
+                  "coords": [
+                        -7.262738,
+                        40.961726
+                  ]
+            },
+            {
+                  "name": "Miradouro da Torre do Relógio",
+                  "text": "The Miradouro da Torre do Relógio offers a natural vantage point with sweeping views across Meda, Portugal. Travelers can expect a wonderful opportunity to admire the city's landscapes from this scenic lookout.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264036,
+                        40.963166
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mêda",
+                  "text": "The administrative building of Mêda's town hall.",
+                  "category": "historical",
+                  "coords": [
+                        -7.261469,
+                        40.963358
+                  ]
+            },
+            {
+                  "name": "Piscina descoberta",
+                  "text": "An outdoor swimming pool in Mêda, especially popular for relaxation during the summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.259148,
+                        40.969053
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Mêda", hu: "Mêda", ro: "Mêda", en: "Mêda" },
@@ -30444,6 +35016,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.440024,
                         37.216414
                   ]
+            },
+            {
+                  "name": "Praia de Santo António",
+                  "text": "Die Praia de Santo António ist ein Strand in Vila Real de Santo António an der Mündung des Guadiana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.416825,
+                        37.172232
+                  ]
+            },
+            {
+                  "name": "Playa de San Bruno",
+                  "text": "Die Playa de San Bruno ist ein Strand in Vila Real de Santo António.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.392818,
+                        37.17634
+                  ]
             }
       ],
       "hu": [
@@ -30526,6 +35116,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.440024,
                         37.216414
+                  ]
+            },
+            {
+                  "name": "Praia de Santo António",
+                  "text": "A Praia de Santo António egy strand Vila Real de Santo António városában, a Guadiana torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.416825,
+                        37.172232
+                  ]
+            },
+            {
+                  "name": "Playa de San Bruno",
+                  "text": "A Playa de San Bruno egy strand Vila Real de Santo António területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.392818,
+                        37.17634
                   ]
             }
       ],
@@ -30610,6 +35218,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.440024,
                         37.216414
                   ]
+            },
+            {
+                  "name": "Praia de Santo António",
+                  "text": "Praia de Santo António este o plajă din Vila Real de Santo António, la gura de vărsare a râului Guadiana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.416825,
+                        37.172232
+                  ]
+            },
+            {
+                  "name": "Playa de San Bruno",
+                  "text": "Playa de San Bruno este o plajă situată în Vila Real de Santo António.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.392818,
+                        37.17634
+                  ]
             }
       ],
       "en": [
@@ -30692,6 +35318,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.440024,
                         37.216414
+                  ]
+            },
+            {
+                  "name": "Praia de Santo António",
+                  "text": "Praia de Santo António is a beach in Vila Real de Santo António, situated at the mouth of the Guadiana River.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.416825,
+                        37.172232
+                  ]
+            },
+            {
+                  "name": "Playa de San Bruno",
+                  "text": "Playa de San Bruno is a beach located in Vila Real de Santo António.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.392818,
+                        37.17634
                   ]
             }
       ]
@@ -30957,6 +35601,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.835971,
                         37.041666
                   ]
+            },
+            {
+                  "name": "Praia dos Cavacos",
+                  "text": "Praia dos Cavacos ist ein ruhiger Strand in Olhão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795974,
+                        37.036217
+                  ]
             }
       ],
       "hu": [
@@ -31174,6 +35827,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.835971,
                         37.041666
+                  ]
+            },
+            {
+                  "name": "Praia dos Cavacos",
+                  "text": "A Praia dos Cavacos egy tengerparti strand Olhãoban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795974,
+                        37.036217
                   ]
             }
       ],
@@ -31393,6 +36055,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.835971,
                         37.041666
                   ]
+            },
+            {
+                  "name": "Praia dos Cavacos",
+                  "text": "Praia dos Cavacos este o plajă situată în Olhão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795974,
+                        37.036217
+                  ]
             }
       ],
       "en": [
@@ -31610,6 +36281,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.835971,
                         37.041666
+                  ]
+            },
+            {
+                  "name": "Praia dos Cavacos",
+                  "text": "Praia dos Cavacos is a beach located in Olhão.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.795974,
+                        37.036217
                   ]
             }
       ]

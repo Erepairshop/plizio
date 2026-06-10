@@ -1494,6 +1494,24 @@ imageHint: "Stol mountain Karawanks",
                         13.796365,
                         46.242955
                   ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "Ein Badebereich beim Berg Vogel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Fužinski zaliv",
+                  "text": "Ein Badebereich beim Berg Vogel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
+                  ]
             }
       ],
       "hu": [
@@ -1567,6 +1585,24 @@ imageHint: "Stol mountain Karawanks",
                   "coords": [
                         13.796365,
                         46.242955
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "Fürdőhely a Vogel-hegynél.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Fužinski zaliv",
+                  "text": "Fürdőhely a Vogel-hegynél.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
                   ]
             }
       ],
@@ -1642,6 +1678,24 @@ imageHint: "Stol mountain Karawanks",
                         13.796365,
                         46.242955
                   ]
+            },
+            {
+                  "name": "Kopalno območje Ukanc",
+                  "text": "O zonă de scăldat lângă muntele Vogel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Kopalno območje Fužinski zaliv",
+                  "text": "O zonă de scăldat lângă muntele Vogel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
+                  ]
             }
       ],
       "en": [
@@ -1715,6 +1769,24 @@ imageHint: "Stol mountain Karawanks",
                   "coords": [
                         13.796365,
                         46.242955
+                  ]
+            },
+            {
+                  "name": "Bathing area Ukanc",
+                  "text": "A swimming area near Mount Vogel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.836691,
+                        46.279757
+                  ]
+            },
+            {
+                  "name": "Bathing area Fužinski Bay",
+                  "text": "A swimming area near Mount Vogel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.881315,
+                        46.283065
                   ]
             }
       ]

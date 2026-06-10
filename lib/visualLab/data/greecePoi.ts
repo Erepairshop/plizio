@@ -145,6 +145,51 @@ export const greeceRegions: POI[] = [
                         23.735617,
                         37.97693
                   ]
+            },
+            {
+                  "name": "Polis Hammam Spa",
+                  "text": "Polis Hammam Spa ist ein traditionelles öffentliches Badehaus in Athen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.723136,
+                        37.977536
+                  ]
+            },
+            {
+                  "name": "Al Hammam Traditional Baths",
+                  "text": "Al Hammam Traditional Baths bietet ein klassisches öffentliches Badeerlebnis in Athen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.729461,
+                        37.972413
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "Academia 8th. Floor Pool ist ein Dachterrassen-Schwimmbad in Athen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.714505,
+                        37.986065
+                  ]
+            },
+            {
+                  "name": "Συλλογή Ζώων - Φυτών",
+                  "text": "Diese Sammlung in Athen zeigt verschiedene Vogel- und Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        23.739286,
+                        37.973417
+                  ]
+            },
+            {
+                  "name": "ABUSSOS",
+                  "text": "ABUSSOS ist ein Aquarium in Athen, das Meeresbewohner präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730824,
+                        37.994913
+                  ]
             }
       ],
       "hu": [
@@ -209,6 +254,51 @@ export const greeceRegions: POI[] = [
                   "coords": [
                         23.735617,
                         37.97693
+                  ]
+            },
+            {
+                  "name": "Polis Hammam Spa",
+                  "text": "A Polis Hammam Spa egy hagyományos nyilvános fürdő Athénban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.723136,
+                        37.977536
+                  ]
+            },
+            {
+                  "name": "Al Hammam Traditional Baths",
+                  "text": "Az Al Hammam Traditional Baths klasszikus nyilvános fürdőélményt kínál Athénban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.729461,
+                        37.972413
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "Az Academia 8. emeleti medencéje egy tetőtéri úszómedence Athénban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.714505,
+                        37.986065
+                  ]
+            },
+            {
+                  "name": "Συλλογή Ζώων - Φυτών",
+                  "text": "Ez az athéni gyűjtemény különféle madár- és állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        23.739286,
+                        37.973417
+                  ]
+            },
+            {
+                  "name": "ABUSSOS",
+                  "text": "Az ABUSSOS egy akvárium Athénban, amely tengeri élőlényeket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730824,
+                        37.994913
                   ]
             }
       ],
@@ -275,6 +365,51 @@ export const greeceRegions: POI[] = [
                         23.735617,
                         37.97693
                   ]
+            },
+            {
+                  "name": "Polis Hammam Spa",
+                  "text": "Polis Hammam Spa este o baie publică tradițională situată în Atena.",
+                  "category": "recreational",
+                  "coords": [
+                        23.723136,
+                        37.977536
+                  ]
+            },
+            {
+                  "name": "Al Hammam Traditional Baths",
+                  "text": "Al Hammam Traditional Baths oferă o experiență clasică de baie publică în Atena.",
+                  "category": "recreational",
+                  "coords": [
+                        23.729461,
+                        37.972413
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "Academia 8th. Floor Pool este o piscină situată pe acoperiș în Atena.",
+                  "category": "recreational",
+                  "coords": [
+                        23.714505,
+                        37.986065
+                  ]
+            },
+            {
+                  "name": "Συλλογή Ζώων - Φυτών",
+                  "text": "Această colecție din Atena prezintă diverse specii de păsări și animale.",
+                  "category": "recreational",
+                  "coords": [
+                        23.739286,
+                        37.973417
+                  ]
+            },
+            {
+                  "name": "ABUSSOS",
+                  "text": "ABUSSOS este un acvariu din Atena care prezintă viața marină.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730824,
+                        37.994913
+                  ]
             }
       ],
       "en": [
@@ -339,6 +474,51 @@ export const greeceRegions: POI[] = [
                   "coords": [
                         23.735617,
                         37.97693
+                  ]
+            },
+            {
+                  "name": "Polis Hammam Spa",
+                  "text": "Polis Hammam Spa is a traditional public bathhouse located in Athens.",
+                  "category": "recreational",
+                  "coords": [
+                        23.723136,
+                        37.977536
+                  ]
+            },
+            {
+                  "name": "Al Hammam Traditional Baths",
+                  "text": "Al Hammam Traditional Baths offers a classic public bathing experience in Athens.",
+                  "category": "recreational",
+                  "coords": [
+                        23.729461,
+                        37.972413
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "Academia 8th. Floor Pool is a rooftop swimming pool in Athens.",
+                  "category": "recreational",
+                  "coords": [
+                        23.714505,
+                        37.986065
+                  ]
+            },
+            {
+                  "name": "Animal - Bird Collection",
+                  "text": "This collection in Athens features various bird and animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        23.739286,
+                        37.973417
+                  ]
+            },
+            {
+                  "name": "ABUSSOS",
+                  "text": "ABUSSOS is an aquarium in Athens showcasing marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730824,
+                        37.994913
                   ]
             }
       ]

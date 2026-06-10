@@ -1438,6 +1438,24 @@ export const czechrepublicLifeV2: POI[] = [
                         14.058711,
                         50.666335
                   ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "Ein Freibad mit Thermalbecken im Stadtteil Brná von Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "Ein moderner Schwimmkomplex mit Innen- und Außenbecken in Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
+                  ]
             }
       ],
       "hu": [
@@ -1502,6 +1520,24 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         14.058711,
                         50.666335
+                  ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "Szabadtéri fürdő termálvizes medencékkel Ústí nad Labem Brná negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "Modern úszókomplexum fedett és szabadtéri medencékkel Ústí nad Labemben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
                   ]
             }
       ],
@@ -1568,6 +1604,24 @@ export const czechrepublicLifeV2: POI[] = [
                         14.058711,
                         50.666335
                   ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "O facilitate de înot în aer liber cu piscine termale situată în districtul Brná din Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "Un complex de înot modern cu piscine interioare și exterioare în Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
+                  ]
             }
       ],
       "en": [
@@ -1632,6 +1686,24 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         14.058711,
                         50.666335
+                  ]
+            },
+            {
+                  "name": "Koupaliště Brná",
+                  "text": "An outdoor swimming facility with thermal pools located in the Brná district of Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064163,
+                        50.626737
+                  ]
+            },
+            {
+                  "name": "plavecký areál Klíše",
+                  "text": "A modern swimming complex with indoor and outdoor pools in Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.009452,
+                        50.666857
                   ]
             }
       ]
@@ -1755,6 +1827,42 @@ export const czechrepublicLifeV2: POI[] = [
                         14.539689,
                         50.027926
                   ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "Ein Familienzentrum im Průhonice-Park mit Wasserattraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "Ein Schwimmbad in Průhonice, das Teil eines lokalen Freizeitkomplexes ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
+                  ]
+            },
+            {
+                  "name": "Svět plavání",
+                  "text": "Ein modernes Schwimmzentrum in der Nähe des Schlossparks Průhonice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505363,
+                        49.970996
+                  ]
+            },
+            {
+                  "name": "Hostivařská přehrada",
+                  "text": "Ein beliebtes Naherholungsgebiet mit Strand an der Hostivař-Talsperre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.536523,
+                        50.040525
+                  ]
             }
       ],
       "hu": [
@@ -1828,6 +1936,42 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         14.539689,
                         50.027926
+                  ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "Családi központ a Průhonice parkban, vízi attrakciókkal gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "Úszómedence Průhonicében, amely egy helyi szabadidős komplexum része.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
+                  ]
+            },
+            {
+                  "name": "Svět plavání",
+                  "text": "Modern úszóközpont a průhonicei kastélypark közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505363,
+                        49.970996
+                  ]
+            },
+            {
+                  "name": "Hostivařská přehrada",
+                  "text": "Népszerű pihenőövezet stranddal a Hostivař-víztározónál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.536523,
+                        50.040525
                   ]
             }
       ],
@@ -1903,6 +2047,42 @@ export const czechrepublicLifeV2: POI[] = [
                         14.539689,
                         50.027926
                   ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "Un centru familial în Parcul Průhonice, cu atracții acvatice pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "O piscină în Průhonice, parte a unui complex local de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
+                  ]
+            },
+            {
+                  "name": "Svět plavání",
+                  "text": "Un centru modern de înot situat lângă parcul castelului Průhonice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505363,
+                        49.970996
+                  ]
+            },
+            {
+                  "name": "Hostivařská přehrada",
+                  "text": "O zonă populară de recreere cu plajă la barajul Hostivař.",
+                  "category": "recreational",
+                  "coords": [
+                        14.536523,
+                        50.040525
+                  ]
             }
       ],
       "en": [
@@ -1976,6 +2156,42 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         14.539689,
                         50.027926
+                  ]
+            },
+            {
+                  "name": "Rodinné centrum Čtyřlístek",
+                  "text": "A family center in Průhonice Park featuring water attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        14.551259,
+                        50.039599
+                  ]
+            },
+            {
+                  "name": "Floret",
+                  "text": "A swimming pool in Průhonice, part of a local leisure complex.",
+                  "category": "recreational",
+                  "coords": [
+                        14.559627,
+                        50.001148
+                  ]
+            },
+            {
+                  "name": "Svět plavání",
+                  "text": "A modern swimming center located near the Průhonice castle park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505363,
+                        49.970996
+                  ]
+            },
+            {
+                  "name": "Hostivař Dam",
+                  "text": "A popular recreation area with a beach at the Hostivař Dam.",
+                  "category": "recreational",
+                  "coords": [
+                        14.536523,
+                        50.040525
                   ]
             }
       ]
@@ -2072,6 +2288,15 @@ export const czechrepublicLifeV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "Ein Schwimmbereich bei den berühmten Fischteichen von Třeboň, ideal zur Erholung am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
+                  ]
             }
       ],
       "hu": [
@@ -2118,6 +2343,15 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         14.7681,
                         49.016188
+                  ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "Úszóhely Třeboň híres halastavainál, amely ideális a vízparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
                   ]
             }
       ],
@@ -2166,6 +2400,15 @@ export const czechrepublicLifeV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "O zonă de înot lângă faimoasele iazuri de pești din Třeboň, ideală pentru relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
+                  ]
             }
       ],
       "en": [
@@ -2212,6 +2455,15 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         14.7681,
                         49.016188
+                  ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "A swimming area by the famous Třeboň fishponds, ideal for relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
                   ]
             }
       ]
@@ -2717,6 +2969,15 @@ export const czechrepublicLifeV2: POI[] = [
                         12.454136,
                         50.142883
                   ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Ein moderner Wasserpark und Wellnesskomplex in Franzensbad nahe dem Naturschutzgebiet Soos.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
             }
       ],
       "hu": [
@@ -2781,6 +3042,15 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         12.454136,
                         50.142883
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Modern vízi park és wellness-komplexum Františkovy Lázněban, a Soos természetvédelmi terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
                   ]
             }
       ],
@@ -2847,6 +3117,15 @@ export const czechrepublicLifeV2: POI[] = [
                         12.454136,
                         50.142883
                   ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Un parc acvatic modern și complex de wellness în Františkovy Lázně, lângă rezervația naturală Soos.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
             }
       ],
       "en": [
@@ -2911,6 +3190,15 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         12.454136,
                         50.142883
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "A modern water park and wellness complex in Františkovy Lázně near the Soos nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
                   ]
             }
       ]
@@ -3306,6 +3594,15 @@ export const czechrepublicLifeV2: POI[] = [
                         16.140803,
                         50.593518
                   ]
+            },
+            {
+                  "name": "koupaliště",
+                  "text": "Ein lokales Freibad in der Nähe der Felsenstadt Adršpach-Teplice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.164774,
+                        50.595442
+                  ]
             }
       ],
       "hu": [
@@ -3379,6 +3676,15 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         16.140803,
                         50.593518
+                  ]
+            },
+            {
+                  "name": "koupaliště",
+                  "text": "Helyi szabadtéri uszoda az Adršpach-Teplice sziklaváros közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.164774,
+                        50.595442
                   ]
             }
       ],
@@ -3454,6 +3760,15 @@ export const czechrepublicLifeV2: POI[] = [
                         16.140803,
                         50.593518
                   ]
+            },
+            {
+                  "name": "koupaliště",
+                  "text": "O piscină locală în aer liber situată lângă orașul de stâncă Adršpach-Teplice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.164774,
+                        50.595442
+                  ]
             }
       ],
       "en": [
@@ -3527,6 +3842,15 @@ export const czechrepublicLifeV2: POI[] = [
                   "coords": [
                         16.140803,
                         50.593518
+                  ]
+            },
+            {
+                  "name": "koupaliště",
+                  "text": "A local outdoor swimming pool situated near the Adršpach-Teplice Rock City.",
+                  "category": "recreational",
+                  "coords": [
+                        16.164774,
+                        50.595442
                   ]
             }
       ]

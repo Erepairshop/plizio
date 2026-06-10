@@ -31,6 +31,15 @@ export const italyEconomicV2: POI[] = [
                         15.910287,
                         38.414521
                   ]
+            },
+            {
+                  "name": "South Paradise",
+                  "text": "South Paradise ist ein Strandresort am Hafen von Gioia Tauro.",
+                  "category": "recreational",
+                  "coords": [
+                        15.865251,
+                        38.400589
+                  ]
             }
       ],
       "hu": [
@@ -59,6 +68,15 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         15.910287,
                         38.414521
+                  ]
+            },
+            {
+                  "name": "South Paradise",
+                  "text": "A South Paradise egy strandüdülőhely Gioia Tauro kikötőjében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.865251,
+                        38.400589
                   ]
             }
       ],
@@ -89,6 +107,15 @@ export const italyEconomicV2: POI[] = [
                         15.910287,
                         38.414521
                   ]
+            },
+            {
+                  "name": "South Paradise",
+                  "text": "South Paradise este o stațiune de plajă situată în portul Gioia Tauro.",
+                  "category": "recreational",
+                  "coords": [
+                        15.865251,
+                        38.400589
+                  ]
             }
       ],
       "en": [
@@ -117,6 +144,15 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         15.910287,
                         38.414521
+                  ]
+            },
+            {
+                  "name": "South Paradise",
+                  "text": "South Paradise is a beach resort located at the Port of Gioia Tauro.",
+                  "category": "recreational",
+                  "coords": [
+                        15.865251,
+                        38.400589
                   ]
             }
       ]
@@ -210,7 +246,88 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-mirafiori-factory-economic-v2.webp",
   },
   {
-    id: "italy-porto-di-trieste-economic-v2",
+    id: "italy-porto-di-trieste-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Settore Maschile",
+                  "text": "Der Settore Maschile ist der für Männer reservierte Bereich des historischen Pedocin-Strandes in Triest.",
+                  "category": "recreational",
+                  "coords": [
+                        13.754687,
+                        45.648549
+                  ]
+            },
+            {
+                  "name": "Ausonia",
+                  "text": "Ausonia ist ein bekanntes Strandbad am Hafen von Triest.",
+                  "category": "recreational",
+                  "coords": [
+                        13.75265,
+                        45.64731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Settore Maschile",
+                  "text": "A Settore Maschile a triesztki Pedocin strand férfiak számára fenntartott része.",
+                  "category": "recreational",
+                  "coords": [
+                        13.754687,
+                        45.648549
+                  ]
+            },
+            {
+                  "name": "Ausonia",
+                  "text": "Az Ausonia egy ismert strandfürdő Trieszt kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        13.75265,
+                        45.64731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Settore Maschile",
+                  "text": "Settore Maschile este sectorul rezervat bărbaților de pe plaja istorică Pedocin din Trieste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.754687,
+                        45.648549
+                  ]
+            },
+            {
+                  "name": "Ausonia",
+                  "text": "Ausonia este o stațiune de plajă cunoscută în Portul Trieste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.75265,
+                        45.64731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Settore Maschile",
+                  "text": "Settore Maschile is the sector reserved for men at the historic Pedocin beach in Trieste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.754687,
+                        45.648549
+                  ]
+            },
+            {
+                  "name": "Ausonia",
+                  "text": "Ausonia is a well-known beach resort located at the Port of Trieste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.75265,
+                        45.64731
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Hafen Triest", hu: "Trieszti kikötő", ro: "Portul Trieste", en: "Port of Trieste" },
@@ -418,6 +535,15 @@ export const italyEconomicV2: POI[] = [
                         10.773095,
                         44.528911
                   ]
+            },
+            {
+                  "name": "Piscina Fisioterapica",
+                  "text": "Ein therapeutisches Schwimmbecken für Physiotherapie und Rehabilitation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.768028,
+                        44.519101
+                  ]
             }
       ],
       "hu": [
@@ -491,6 +617,15 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         10.773095,
                         44.528911
+                  ]
+            },
+            {
+                  "name": "Piscina Fisioterapica",
+                  "text": "Fizioterápiára és rehabilitációra használt terápiás úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        10.768028,
+                        44.519101
                   ]
             }
       ],
@@ -566,6 +701,15 @@ export const italyEconomicV2: POI[] = [
                         10.773095,
                         44.528911
                   ]
+            },
+            {
+                  "name": "Piscina Fisioterapica",
+                  "text": "O piscină terapeutică utilizată pentru fizioterapie și reabilitare.",
+                  "category": "recreational",
+                  "coords": [
+                        10.768028,
+                        44.519101
+                  ]
             }
       ],
       "en": [
@@ -639,6 +783,15 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         10.773095,
                         44.528911
+                  ]
+            },
+            {
+                  "name": "Piscina Fisioterapica",
+                  "text": "A therapeutic swimming pool used for physiotherapy and rehabilitation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.768028,
+                        44.519101
                   ]
             }
       ]
@@ -805,6 +958,60 @@ export const italyEconomicV2: POI[] = [
                         10.305888,
                         43.535362
                   ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "Ein modern ausgestattetes Strandbad in der Nähe des Hafens von Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "Ein komfortabler Strandclub im Hafenbereich von Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La Tintarelleria",
+                  "text": "Ein beliebtes Strandbad für Besucher des Hafens von Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.291616,
+                        43.599015
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "Ein einladendes Strandbad an der Küste der Hafenstadt Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
+                  ]
+            },
+            {
+                  "name": "La Siesta",
+                  "text": "La Siesta ist ein Badeort im Hafen von Livorno mit Einrichtungen für Strandbesucher.",
+                  "category": "recreational",
+                  "coords": [
+                        10.29136,
+                        43.60035
+                  ]
+            },
+            {
+                  "name": "Bagni Vittorio Emanuele",
+                  "text": "Bagni Vittorio Emanuele ist ein historischer Badeort im Bereich des Hafens von Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.289701,
+                        43.606542
+                  ]
             }
       ],
       "hu": [
@@ -878,6 +1085,60 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         10.305888,
                         43.535362
+                  ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "Modern felszereltségű strandközpont Livorno kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "Kényelmes strandklub Livorno kikötői övezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La Tintarelleria",
+                  "text": "Népszerű strandkomplexum a livornói kikötő látogatói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.291616,
+                        43.599015
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "Barátságos strandkomplexum Livorno kikötővárosának partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
+                  ]
+            },
+            {
+                  "name": "La Siesta",
+                  "text": "A La Siesta egy tengerparti üdülőhely Livorno kikötőjében, amely szolgáltatásokat kínál a strandolóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        10.29136,
+                        43.60035
+                  ]
+            },
+            {
+                  "name": "Bagni Vittorio Emanuele",
+                  "text": "A Bagni Vittorio Emanuele egy történelmi tengerparti üdülőhely Livorno kikötőjének környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.289701,
+                        43.606542
                   ]
             }
       ],
@@ -953,6 +1214,60 @@ export const italyEconomicV2: POI[] = [
                         10.305888,
                         43.535362
                   ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "O stațiune de plajă dotată modern, situată lângă Portul Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "Un club de plajă confortabil în zona portului Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La Tintarelleria",
+                  "text": "O stațiune de plajă populară pentru vizitatorii portului Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.291616,
+                        43.599015
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "O stațiune de plajă primitoare pe coasta orașului portuar Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
+                  ]
+            },
+            {
+                  "name": "La Siesta",
+                  "text": "La Siesta este o stațiune balneară din Portul Livorno, oferind facilități pentru vizitatorii plajei.",
+                  "category": "recreational",
+                  "coords": [
+                        10.29136,
+                        43.60035
+                  ]
+            },
+            {
+                  "name": "Bagni Vittorio Emanuele",
+                  "text": "Bagni Vittorio Emanuele este o stațiune balneară istorică din zona Portului Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.289701,
+                        43.606542
+                  ]
             }
       ],
       "en": [
@@ -1027,6 +1342,60 @@ export const italyEconomicV2: POI[] = [
                         10.305888,
                         43.535362
                   ]
+            },
+            {
+                  "name": "Single fin",
+                  "text": "A modernly equipped beach resort located near the Port of Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.293735,
+                        43.590336
+                  ]
+            },
+            {
+                  "name": "Nirvana",
+                  "text": "A comfortable beach club in the port area of Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.295666,
+                        43.588631
+                  ]
+            },
+            {
+                  "name": "La Tintarelleria",
+                  "text": "A popular beach resort for visitors to the Port of Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.291616,
+                        43.599015
+                  ]
+            },
+            {
+                  "name": "La rondine",
+                  "text": "An inviting beach resort on the coast of the port city of Livorno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296538,
+                        43.585794
+                  ]
+            },
+            {
+                  "name": "La Siesta",
+                  "text": "La Siesta is a beach resort in the Port of Livorno, providing facilities for beach visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        10.29136,
+                        43.60035
+                  ]
+            },
+            {
+                  "name": "Bagni Vittorio Emanuele",
+                  "text": "Bagni Vittorio Emanuele is a historic beach resort in the Port of Livorno area.",
+                  "category": "recreational",
+                  "coords": [
+                        10.289701,
+                        43.606542
+                  ]
             }
       ]
 },
@@ -1074,7 +1443,232 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-porto-di-livorno-economic-v2.webp",
   },
   {
-    id: "italy-zona-industriale-di-bari-economic-v2",
+    id: "italy-zona-industriale-di-bari-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Sandbeach ist ein Sandstrand in der Industriezone von Bari, der für lokale Badegäste zugänglich ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.840309,
+                        41.138653
+                  ]
+            },
+            {
+                  "name": "Lido Adria",
+                  "text": "Lido Adria bietet in der Industriezone von Bari eine organisierte Strandanlage mit verschiedenen Services.",
+                  "category": "recreational",
+                  "coords": [
+                        16.826965,
+                        41.137271
+                  ]
+            },
+            {
+                  "name": "Il Canalone",
+                  "text": "Il Canalone ist ein Küstenabschnitt in der Industriezone von Bari, der als Strand genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        16.828185,
+                        41.136281
+                  ]
+            },
+            {
+                  "name": "Lido San Francesco",
+                  "text": "Lido San Francesco ist ein etabliertes Strandresort in der Küstengegend von Bari.",
+                  "category": "recreational",
+                  "coords": [
+                        16.832643,
+                        41.136166
+                  ]
+            },
+            {
+                  "name": "Lido Il Trampolino",
+                  "text": "Lido Il Trampolino bietet umfangreiche Strandeinrichtungen in der Nähe der Industriezone von Bari.",
+                  "category": "recreational",
+                  "coords": [
+                        16.829262,
+                        41.136689
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Dieser freie Strandabschnitt in der Industriezone von Bari ist öffentlich zugänglich.",
+                  "category": "recreational",
+                  "coords": [
+                        16.834915,
+                        41.136663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiaggia libera",
+                  "text": "A Sandbeach egy homokos strand Bari ipari zónájában, amely nyitva áll a helyi fürdőzők előtt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.840309,
+                        41.138653
+                  ]
+            },
+            {
+                  "name": "Lido Adria",
+                  "text": "A Lido Adria szervezett strandkomplexumot kínál Bari ipari zónájában, különféle szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        16.826965,
+                        41.137271
+                  ]
+            },
+            {
+                  "name": "Il Canalone",
+                  "text": "Az Il Canalone egy tengerparti szakasz Bari ipari zónájában, amelyet strandként használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.828185,
+                        41.136281
+                  ]
+            },
+            {
+                  "name": "Lido San Francesco",
+                  "text": "A Lido San Francesco egy jól kiépített strandkomplexum Bari tengerparti övezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.832643,
+                        41.136166
+                  ]
+            },
+            {
+                  "name": "Lido Il Trampolino",
+                  "text": "A Lido Il Trampolino széleskörű strandlétesítményeket kínál Bari ipari zónájának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.829262,
+                        41.136689
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Ez a szabad strandrész Bari ipari zónájában nyilvánosan hozzáférhető.",
+                  "category": "recreational",
+                  "coords": [
+                        16.834915,
+                        41.136663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Sandbeach este o plajă de nisip în zona industrială din Bari, accesibilă pentru turiștii locali.",
+                  "category": "recreational",
+                  "coords": [
+                        16.840309,
+                        41.138653
+                  ]
+            },
+            {
+                  "name": "Lido Adria",
+                  "text": "Lido Adria oferă un complex de plajă organizat în zona industrială din Bari, cu diverse servicii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.826965,
+                        41.137271
+                  ]
+            },
+            {
+                  "name": "Il Canalone",
+                  "text": "Il Canalone este o porțiune de coastă în zona industrială din Bari, utilizată ca plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.828185,
+                        41.136281
+                  ]
+            },
+            {
+                  "name": "Lido San Francesco",
+                  "text": "Lido San Francesco este un complex de plajă consacrat în zona de coastă din Bari.",
+                  "category": "recreational",
+                  "coords": [
+                        16.832643,
+                        41.136166
+                  ]
+            },
+            {
+                  "name": "Lido Il Trampolino",
+                  "text": "Lido Il Trampolino oferă facilități de plajă extinse în apropierea zonei industriale din Bari.",
+                  "category": "recreational",
+                  "coords": [
+                        16.829262,
+                        41.136689
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Această secțiune de plajă liberă din zona industrială Bari este accesibilă publicului.",
+                  "category": "recreational",
+                  "coords": [
+                        16.834915,
+                        41.136663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandbeach",
+                  "text": "Sandbeach is a sandy beach in the Bari Industrial Zone accessible to local swimmers.",
+                  "category": "recreational",
+                  "coords": [
+                        16.840309,
+                        41.138653
+                  ]
+            },
+            {
+                  "name": "Lido Adria",
+                  "text": "Lido Adria offers an organized beach facility in the Bari Industrial Zone with various services.",
+                  "category": "recreational",
+                  "coords": [
+                        16.826965,
+                        41.137271
+                  ]
+            },
+            {
+                  "name": "Il Canalone",
+                  "text": "Il Canalone is a coastal stretch in the Bari Industrial Zone used as a beach.",
+                  "category": "recreational",
+                  "coords": [
+                        16.828185,
+                        41.136281
+                  ]
+            },
+            {
+                  "name": "Lido San Francesco",
+                  "text": "Lido San Francesco is an established beach resort in the coastal area of Bari.",
+                  "category": "recreational",
+                  "coords": [
+                        16.832643,
+                        41.136166
+                  ]
+            },
+            {
+                  "name": "Lido Il Trampolino",
+                  "text": "Lido Il Trampolino offers extensive beach facilities near the Bari Industrial Zone.",
+                  "category": "recreational",
+                  "coords": [
+                        16.829262,
+                        41.136689
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "This free beach section in the Bari Industrial Zone is publicly accessible.",
+                  "category": "recreational",
+                  "coords": [
+                        16.834915,
+                        41.136663
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IT",
     name: { de: "Industriegebiet Bari", hu: "Bari ipari övezet", ro: "Zona industrială Bari", en: "Bari Industrial Zone" },
@@ -1237,6 +1831,24 @@ export const italyEconomicV2: POI[] = [
                         13.518028,
                         43.612994
                   ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Ein Strandbad in der Nähe des Hafens von Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "Ein Schwimmbad im Viertel Passetto in Ancona, nahe dem Hafen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
+                  ]
             }
       ],
       "hu": [
@@ -1310,6 +1922,24 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         13.518028,
                         43.612994
+                  ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "Egy strandüdülőhely Ancona kikötője közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "Egy úszómedence Ancona Passetto negyedében, a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
                   ]
             }
       ],
@@ -1385,6 +2015,24 @@ export const italyEconomicV2: POI[] = [
                         13.518028,
                         43.612994
                   ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "O stațiune balneară situată lângă portul din Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "O piscină situată în zona Passetto din Ancona, aproape de port.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
+                  ]
             }
       ],
       "en": [
@@ -1458,6 +2106,24 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         13.518028,
                         43.612994
+                  ]
+            },
+            {
+                  "name": "Il Valentino",
+                  "text": "A beach resort facility located near the Port of Ancona.",
+                  "category": "recreational",
+                  "coords": [
+                        13.533558,
+                        43.617171
+                  ]
+            },
+            {
+                  "name": "Piscina del Passetto",
+                  "text": "A swimming pool located in the Passetto area of Ancona, near the port.",
+                  "category": "recreational",
+                  "coords": [
+                        13.536331,
+                        43.612201
                   ]
             }
       ]
@@ -1596,7 +2262,52 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-polo-tecnologico-di-pisa-economic-v2.webp",
   },
   {
-    id: "italy-porto-di-cagliari-economic-v2",
+    id: "italy-porto-di-cagliari-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "Der historische Strand Giorgino liegt in der Nähe des Hafens von Cagliari auf Sardinien.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091549,
+                        39.211944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "A történelmi Giorgino-strand Cagliari kikötőjének közelében található Szardínián.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091549,
+                        39.211944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "Plaja istorică Giorgino este situată lângă Portul Cagliari din Sardinia.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091549,
+                        39.211944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "The historical Giorgino beach is located near the Port of Cagliari in Sardinia.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091549,
+                        39.211944
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Hafen Cagliari", hu: "Cagliari kikötő", ro: "Portul Cagliari", en: "Port of Cagliari" },
@@ -1686,7 +2397,736 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-distretto-del-mobile-brianza-economic-v2.webp",
   },
   {
-    id: "italy-porto-di-ravenna-economic-v2",
+    id: "italy-porto-di-ravenna-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bagno Peter Pan",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28448,
+                        44.477541
+                  ]
+            },
+            {
+                  "name": "Bagno Astoria 66",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28584,
+                        44.469218
+                  ]
+            },
+            {
+                  "name": "Bagno Big Mama Beach",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284094,
+                        44.482213
+                  ]
+            },
+            {
+                  "name": "Bagno Coco Loco",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284677,
+                        44.475724
+                  ]
+            },
+            {
+                  "name": "Bagno Corallo",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28627,
+                        44.468118
+                  ]
+            },
+            {
+                  "name": "Bagno Duna degli Orsi",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285712,
+                        44.470587
+                  ]
+            },
+            {
+                  "name": "Bagno Spiaggiola",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285233,
+                        44.473179
+                  ]
+            },
+            {
+                  "name": "Bagno Hokipa",
+                  "text": "Ein Strandresort im Hafen von Ravenna mit Einrichtungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284578,
+                        44.478721
+                  ]
+            },
+            {
+                  "name": "Bagno Kia Orana",
+                  "text": "Ein privates Strandbad im Bereich des Hafens von Ravenna mit verschiedenen Annehmlichkeiten für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284323,
+                        44.480515
+                  ]
+            },
+            {
+                  "name": "Bagno Marisol",
+                  "text": "Ein familienfreundliches Strandbad in Marina di Ravenna mit Liegestühlen und Sonnenschirmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28672,
+                        44.466492
+                  ]
+            },
+            {
+                  "name": "Bagno Tamerici",
+                  "text": "Ein Strandbad bei Ravenna, das Gästen Liegeflächen und verschiedene Freizeitangebote am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287798,
+                        44.463235
+                  ]
+            },
+            {
+                  "name": "Bagno Taormina",
+                  "text": "Ein gemütliches Strandbad in Marina di Ravenna, ideal für Badegäste, die Ruhe suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28501,
+                        44.474258
+                  ]
+            },
+            {
+                  "name": "Bagno Zanzibar",
+                  "text": "Dieses Strandbad in Marina di Ravenna bietet Besuchern eine entspannte Umgebung direkt am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285428,
+                        44.47182
+                  ]
+            },
+            {
+                  "name": "Bagno Ulisse",
+                  "text": "Ein Strandbad bei Ravenna, das sich durch seine gepflegten Anlagen und die Nähe zum Pinienwald auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283988,
+                        44.484935
+                  ]
+            },
+            {
+                  "name": "BBK",
+                  "text": "Ein modernes Strandbad in Marina di Ravenna, das auch als Veranstaltungsort für Abendevents beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289737,
+                        44.458097
+                  ]
+            },
+            {
+                  "name": "Bagno Oasi",
+                  "text": "Ein familiäres Strandbad in Marina di Ravenna mit Spielmöglichkeiten für Kinder und Strandservice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287336,
+                        44.46452
+                  ]
+            },
+            {
+                  "name": "Bagno Mokambo",
+                  "text": "Ein Strandbad bei Ravenna mit Liegeflächen und sportlichen Aktivitäten für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283887,
+                        44.484022
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera dog friendly",
+                  "text": "Ein ausgewiesener, hundefreundlicher öffentlicher Strand im Bereich des Hafens von Ravenna.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289683,
+                        44.46059
+                  ]
+            },
+            {
+                  "name": "Bagno Baloo",
+                  "text": "Ein Strandbad in Marina di Ravenna, das verschiedene Services für einen entspannten Aufenthalt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.291505,
+                        44.453525
+                  ]
+            },
+            {
+                  "name": "Spiaggia Marina di Ravenna",
+                  "text": "Der weite Sandstrand von Marina di Ravenna ist ein beliebtes Ziel für Badegäste und Spaziergänger.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289492,
+                        44.465232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bagno Peter Pan",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28448,
+                        44.477541
+                  ]
+            },
+            {
+                  "name": "Bagno Astoria 66",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28584,
+                        44.469218
+                  ]
+            },
+            {
+                  "name": "Bagno Big Mama Beach",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284094,
+                        44.482213
+                  ]
+            },
+            {
+                  "name": "Bagno Coco Loco",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284677,
+                        44.475724
+                  ]
+            },
+            {
+                  "name": "Bagno Corallo",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28627,
+                        44.468118
+                  ]
+            },
+            {
+                  "name": "Bagno Duna degli Orsi",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285712,
+                        44.470587
+                  ]
+            },
+            {
+                  "name": "Bagno Spiaggiola",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285233,
+                        44.473179
+                  ]
+            },
+            {
+                  "name": "Bagno Hokipa",
+                  "text": "Strandüdülő a ravennai kikötőben, napozási és úszási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284578,
+                        44.478721
+                  ]
+            },
+            {
+                  "name": "Bagno Kia Orana",
+                  "text": "Magánstrand Ravenna kikötőjének területén, különféle kényelmi szolgáltatásokkal a fürdőzők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284323,
+                        44.480515
+                  ]
+            },
+            {
+                  "name": "Bagno Marisol",
+                  "text": "Családbarát strandfürdő Marina di Ravennában, napozóágyakkal és napernyőkkel felszerelve.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28672,
+                        44.466492
+                  ]
+            },
+            {
+                  "name": "Bagno Tamerici",
+                  "text": "Ravenna közeli strandfürdő, amely napozóhelyeket és különféle vízi szabadidős programokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287798,
+                        44.463235
+                  ]
+            },
+            {
+                  "name": "Bagno Taormina",
+                  "text": "Hangulatos strandfürdő Marina di Ravennában, ideális a nyugalmat kereső fürdőzők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28501,
+                        44.474258
+                  ]
+            },
+            {
+                  "name": "Bagno Zanzibar",
+                  "text": "Ez a Marina di Ravenna-i strandfürdő pihentető környezetet kínál a látogatóknak közvetlenül a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285428,
+                        44.47182
+                  ]
+            },
+            {
+                  "name": "Bagno Ulisse",
+                  "text": "Ravenna közeli strandfürdő, amelyet gondozott létesítményei és a fenyőerdő közelsége jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283988,
+                        44.484935
+                  ]
+            },
+            {
+                  "name": "BBK",
+                  "text": "Modern strandfürdő Marina di Ravennában, amely esti rendezvények helyszíneként is népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289737,
+                        44.458097
+                  ]
+            },
+            {
+                  "name": "Bagno Oasi",
+                  "text": "Családias strandfürdő Marina di Ravennában, játéklehetőségekkel a gyerekeknek és strandfelszereléssel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287336,
+                        44.46452
+                  ]
+            },
+            {
+                  "name": "Bagno Mokambo",
+                  "text": "Ravenna közeli strandfürdő napozóhelyekkel és sportolási lehetőségekkel a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283887,
+                        44.484022
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera dog friendly",
+                  "text": "Kijelölt, kutyabarát nyilvános strand Ravenna kikötőjének területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289683,
+                        44.46059
+                  ]
+            },
+            {
+                  "name": "Bagno Baloo",
+                  "text": "Strandfürdő Marina di Ravennában, amely különféle szolgáltatásokat kínál a pihentető időtöltéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.291505,
+                        44.453525
+                  ]
+            },
+            {
+                  "name": "Spiaggia Marina di Ravenna",
+                  "text": "Marina di Ravenna tágas homokos strandja a fürdőzők és sétálók kedvelt úti célja.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289492,
+                        44.465232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bagno Peter Pan",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28448,
+                        44.477541
+                  ]
+            },
+            {
+                  "name": "Bagno Astoria 66",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28584,
+                        44.469218
+                  ]
+            },
+            {
+                  "name": "Bagno Big Mama Beach",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284094,
+                        44.482213
+                  ]
+            },
+            {
+                  "name": "Bagno Coco Loco",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284677,
+                        44.475724
+                  ]
+            },
+            {
+                  "name": "Bagno Corallo",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28627,
+                        44.468118
+                  ]
+            },
+            {
+                  "name": "Bagno Duna degli Orsi",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285712,
+                        44.470587
+                  ]
+            },
+            {
+                  "name": "Bagno Spiaggiola",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285233,
+                        44.473179
+                  ]
+            },
+            {
+                  "name": "Bagno Hokipa",
+                  "text": "Stațiune de plajă din Portul Ravenna, cu facilități pentru plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284578,
+                        44.478721
+                  ]
+            },
+            {
+                  "name": "Bagno Kia Orana",
+                  "text": "Un complex de plajă privat în zona Portului Ravenna, cu diverse facilități pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284323,
+                        44.480515
+                  ]
+            },
+            {
+                  "name": "Bagno Marisol",
+                  "text": "O stațiune de plajă pentru familii în Marina di Ravenna, dotată cu șezlonguri și umbrele.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28672,
+                        44.466492
+                  ]
+            },
+            {
+                  "name": "Bagno Tamerici",
+                  "text": "O stațiune de plajă lângă Ravenna, care oferă oaspeților zone de plajă și diverse activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287798,
+                        44.463235
+                  ]
+            },
+            {
+                  "name": "Bagno Taormina",
+                  "text": "O stațiune de plajă primitoare în Marina di Ravenna, ideală pentru turiștii care caută liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28501,
+                        44.474258
+                  ]
+            },
+            {
+                  "name": "Bagno Zanzibar",
+                  "text": "Această stațiune de plajă din Marina di Ravenna oferă vizitatorilor un mediu relaxant chiar pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285428,
+                        44.47182
+                  ]
+            },
+            {
+                  "name": "Bagno Ulisse",
+                  "text": "O stațiune de plajă lângă Ravenna, caracterizată prin facilități bine întreținute și proximitatea față de pădurea de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283988,
+                        44.484935
+                  ]
+            },
+            {
+                  "name": "BBK",
+                  "text": "O stațiune de plajă modernă în Marina di Ravenna, populară și ca locație pentru evenimente de seară.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289737,
+                        44.458097
+                  ]
+            },
+            {
+                  "name": "Bagno Oasi",
+                  "text": "O stațiune de plajă familială în Marina di Ravenna, cu locuri de joacă pentru copii și servicii de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287336,
+                        44.46452
+                  ]
+            },
+            {
+                  "name": "Bagno Mokambo",
+                  "text": "O stațiune de plajă lângă Ravenna, cu zone de plajă și activități sportive pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283887,
+                        44.484022
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera dog friendly",
+                  "text": "O plajă publică special amenajată pentru câini în zona Portului Ravenna.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289683,
+                        44.46059
+                  ]
+            },
+            {
+                  "name": "Bagno Baloo",
+                  "text": "O stațiune de plajă în Marina di Ravenna, care oferă diverse servicii pentru un sejur relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        12.291505,
+                        44.453525
+                  ]
+            },
+            {
+                  "name": "Spiaggia Marina di Ravenna",
+                  "text": "Plaja întinsă de nisip din Marina di Ravenna este o destinație populară pentru turiști și plimbări.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289492,
+                        44.465232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bagno Peter Pan",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28448,
+                        44.477541
+                  ]
+            },
+            {
+                  "name": "Bagno Astoria 66",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28584,
+                        44.469218
+                  ]
+            },
+            {
+                  "name": "Bagno Big Mama Beach",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284094,
+                        44.482213
+                  ]
+            },
+            {
+                  "name": "Bagno Coco Loco",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284677,
+                        44.475724
+                  ]
+            },
+            {
+                  "name": "Bagno Corallo",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28627,
+                        44.468118
+                  ]
+            },
+            {
+                  "name": "Bagno Duna degli Orsi",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285712,
+                        44.470587
+                  ]
+            },
+            {
+                  "name": "Bagno Spiaggiola",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285233,
+                        44.473179
+                  ]
+            },
+            {
+                  "name": "Bagno Hokipa",
+                  "text": "Beach resort in the Port of Ravenna with facilities for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284578,
+                        44.478721
+                  ]
+            },
+            {
+                  "name": "Bagno Kia Orana",
+                  "text": "A private beach resort in the Port of Ravenna area, offering various amenities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        12.284323,
+                        44.480515
+                  ]
+            },
+            {
+                  "name": "Bagno Marisol",
+                  "text": "A family-friendly beach resort in Marina di Ravenna with sun loungers and umbrellas.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28672,
+                        44.466492
+                  ]
+            },
+            {
+                  "name": "Bagno Tamerici",
+                  "text": "A beach resort near Ravenna offering lounging areas and various water-based leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287798,
+                        44.463235
+                  ]
+            },
+            {
+                  "name": "Bagno Taormina",
+                  "text": "A cozy beach resort in Marina di Ravenna, ideal for bathers seeking tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        12.28501,
+                        44.474258
+                  ]
+            },
+            {
+                  "name": "Bagno Zanzibar",
+                  "text": "This beach resort in Marina di Ravenna offers visitors a relaxing environment right by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285428,
+                        44.47182
+                  ]
+            },
+            {
+                  "name": "Bagno Ulisse",
+                  "text": "A beach resort near Ravenna characterized by its well-kept facilities and proximity to the pine forest.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283988,
+                        44.484935
+                  ]
+            },
+            {
+                  "name": "BBK",
+                  "text": "A modern beach resort in Marina di Ravenna, also popular as a venue for evening events.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289737,
+                        44.458097
+                  ]
+            },
+            {
+                  "name": "Bagno Oasi",
+                  "text": "A family-oriented beach resort in Marina di Ravenna with play areas for children and beach services.",
+                  "category": "recreational",
+                  "coords": [
+                        12.287336,
+                        44.46452
+                  ]
+            },
+            {
+                  "name": "Bagno Mokambo",
+                  "text": "A beach resort near Ravenna with lounging areas and sporting activities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        12.283887,
+                        44.484022
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera dog friendly",
+                  "text": "A designated dog-friendly public beach located in the Port of Ravenna area.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289683,
+                        44.46059
+                  ]
+            },
+            {
+                  "name": "Bagno Baloo",
+                  "text": "A beach resort in Marina di Ravenna offering various services for a relaxed stay.",
+                  "category": "recreational",
+                  "coords": [
+                        12.291505,
+                        44.453525
+                  ]
+            },
+            {
+                  "name": "Spiaggia Marina di Ravenna",
+                  "text": "The wide sandy beach of Marina di Ravenna is a popular destination for swimmers and strollers.",
+                  "category": "recreational",
+                  "coords": [
+                        12.289492,
+                        44.465232
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Hafen Ravenna", hu: "Ravennai kikötő", ro: "Portul Ravenna", en: "Port of Ravenna" },
@@ -2092,6 +3532,15 @@ export const italyEconomicV2: POI[] = [
                         12.364908,
                         46.436047
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Die Piscina Comunale ist ein öffentliches Schwimmbad in der Region Cadore Eyewear Cluster.",
+                  "category": "recreational",
+                  "coords": [
+                        12.371479,
+                        46.426041
+                  ]
             }
       ],
       "hu": [
@@ -2138,6 +3587,15 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         12.364908,
                         46.436047
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "A Piscina Comunale egy nyilvános úszómedence a Cadore Eyewear Cluster régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.371479,
+                        46.426041
                   ]
             }
       ],
@@ -2186,6 +3644,15 @@ export const italyEconomicV2: POI[] = [
                         12.364908,
                         46.436047
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Piscina Comunale este o piscină publică situată în regiunea Cadore Eyewear Cluster.",
+                  "category": "recreational",
+                  "coords": [
+                        12.371479,
+                        46.426041
+                  ]
             }
       ],
       "en": [
@@ -2232,6 +3699,15 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         12.364908,
                         46.436047
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Piscina Comunale is a public swimming pool located in the Cadore Eyewear Cluster region.",
+                  "category": "recreational",
+                  "coords": [
+                        12.371479,
+                        46.426041
                   ]
             }
       ]
@@ -2325,7 +3801,88 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-distretto-della-meccanica-bologna-economic-v2.webp",
   },
   {
-    id: "italy-porto-di-napoli-economic-v2",
+    id: "italy-porto-di-napoli-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spiaggia Largo Sermoneta",
+                  "text": "Ein Strandbereich an der Küste in der Nähe des Hafens von Neapel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219114,
+                        40.822916
+                  ]
+            },
+            {
+                  "name": "Lido Mappatella",
+                  "text": "Ein öffentlicher Stadtstrand im Bereich des Hafens von Neapel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231099,
+                        40.831591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spiaggia Largo Sermoneta",
+                  "text": "Tengerparti strandterület a nápolyi kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219114,
+                        40.822916
+                  ]
+            },
+            {
+                  "name": "Lido Mappatella",
+                  "text": "Nyilvános városi strand Nápoly kikötői negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231099,
+                        40.831591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spiaggia Largo Sermoneta",
+                  "text": "O zonă de plajă situată lângă portul din Napoli.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219114,
+                        40.822916
+                  ]
+            },
+            {
+                  "name": "Lido Mappatella",
+                  "text": "O plajă publică a orașului situată în zona portului din Napoli.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231099,
+                        40.831591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiaggia Largo Sermoneta",
+                  "text": "A coastal beach area located near the Port of Naples.",
+                  "category": "recreational",
+                  "coords": [
+                        14.219114,
+                        40.822916
+                  ]
+            },
+            {
+                  "name": "Lido Mappatella",
+                  "text": "A public city beach located in the Port of Naples area.",
+                  "category": "recreational",
+                  "coords": [
+                        14.231099,
+                        40.831591
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Hafen Neapel", hu: "Nápolyi kikötő", ro: "Portul Napoli", en: "Port of Naples" },

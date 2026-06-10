@@ -4252,6 +4252,15 @@ export const finlandLandmarksV2: POI[] = [
                         24.70505,
                         62.257734
                   ]
+            },
+            {
+                  "name": "Keuruun uimahalli",
+                  "text": "Ein Hallenbad in Keuruu, das ganzjähriges Schwimmen ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        24.705408,
+                        62.262282
+                  ]
             }
       ],
       "hu": [
@@ -4325,6 +4334,15 @@ export const finlandLandmarksV2: POI[] = [
                   "coords": [
                         24.70505,
                         62.257734
+                  ]
+            },
+            {
+                  "name": "Keuruun uimahalli",
+                  "text": "Keuruu fedett uszodája, amely egész évben lehetőséget nyújt az úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        24.705408,
+                        62.262282
                   ]
             }
       ],
@@ -4400,6 +4418,15 @@ export const finlandLandmarksV2: POI[] = [
                         24.70505,
                         62.257734
                   ]
+            },
+            {
+                  "name": "Keuruun uimahalli",
+                  "text": "O piscină acoperită în Keuruu, care permite înotul pe tot parcursul anului.",
+                  "category": "recreational",
+                  "coords": [
+                        24.705408,
+                        62.262282
+                  ]
             }
       ],
       "en": [
@@ -4473,6 +4500,15 @@ export const finlandLandmarksV2: POI[] = [
                   "coords": [
                         24.70505,
                         62.257734
+                  ]
+            },
+            {
+                  "name": "Keuruun uimahalli",
+                  "text": "An indoor swimming pool in Keuruu that offers year-round swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        24.705408,
+                        62.262282
                   ]
             }
       ]

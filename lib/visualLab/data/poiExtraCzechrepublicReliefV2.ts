@@ -793,6 +793,15 @@ export const czechrepublicReliefV2: POI[] = [
                         12.946521,
                         50.418351
                   ]
+            },
+            {
+                  "name": "Aquacentrum Agricola",
+                  "text": "Ein Wasserpark und Wellnesszentrum in Jáchymov am Keilberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.934545,
+                        50.360262
+                  ]
             }
       ],
       "hu": [
@@ -848,6 +857,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         12.946521,
                         50.418351
+                  ]
+            },
+            {
+                  "name": "Aquacentrum Agricola",
+                  "text": "Vízipark és wellnessközpont Jáchymovban, a Klínovec közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.934545,
+                        50.360262
                   ]
             }
       ],
@@ -905,6 +923,15 @@ export const czechrepublicReliefV2: POI[] = [
                         12.946521,
                         50.418351
                   ]
+            },
+            {
+                  "name": "Aquacentrum Agricola",
+                  "text": "Un parc acvatic și centru de wellness în Jáchymov, lângă Klinovec.",
+                  "category": "recreational",
+                  "coords": [
+                        12.934545,
+                        50.360262
+                  ]
             }
       ],
       "en": [
@@ -960,6 +987,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         12.946521,
                         50.418351
+                  ]
+            },
+            {
+                  "name": "Aquacentrum Agricola",
+                  "text": "A water park and wellness center in Jáchymov, located near Klinovec.",
+                  "category": "recreational",
+                  "coords": [
+                        12.934545,
+                        50.360262
                   ]
             }
       ]
@@ -2378,6 +2414,33 @@ export const czechrepublicReliefV2: POI[] = [
                         14.646081,
                         50.84809
                   ]
+            },
+            {
+                  "name": "Kleines Bad",
+                  "text": "Eine kleine Wasseranlage für Erfrischung und Badespaß.",
+                  "category": "recreational",
+                  "coords": [
+                        14.656524,
+                        50.893191
+                  ]
+            },
+            {
+                  "name": "Gebirgsbad",
+                  "text": "Ein in den Bergen gelegenes Schwimmbad mit Blick auf die Landschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
+                  ]
+            },
+            {
+                  "name": "Exotenhaus",
+                  "text": "Ein modernes Tierhaus, das exotische Arten in naturnah gestalteten Gehegen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.713885,
+                        50.86003
+                  ]
             }
       ],
       "hu": [
@@ -2442,6 +2505,33 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         14.646081,
                         50.84809
+                  ]
+            },
+            {
+                  "name": "Kleines Bad",
+                  "text": "Kisebb vízi létesítmény felfrissüléshez és fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.656524,
+                        50.893191
+                  ]
+            },
+            {
+                  "name": "Gebirgsbad",
+                  "text": "Hegyvidéki úszómedence, amely kilátást nyújt a tájra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
+                  ]
+            },
+            {
+                  "name": "Exotenhaus",
+                  "text": "Modern állatház, amely egzotikus fajokat mutat be természethű környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.713885,
+                        50.86003
                   ]
             }
       ],
@@ -2508,6 +2598,33 @@ export const czechrepublicReliefV2: POI[] = [
                         14.646081,
                         50.84809
                   ]
+            },
+            {
+                  "name": "Kleines Bad",
+                  "text": "O mică unitate acvatică pentru reîmprospătare și distracție la scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.656524,
+                        50.893191
+                  ]
+            },
+            {
+                  "name": "Gebirgsbad",
+                  "text": "O piscină situată la munte, oferind vedere spre peisaj.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
+                  ]
+            },
+            {
+                  "name": "Exotenhaus",
+                  "text": "O casă modernă pentru animale, care prezintă specii exotice în habitate naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        14.713885,
+                        50.86003
+                  ]
             }
       ],
       "en": [
@@ -2572,6 +2689,33 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         14.646081,
                         50.84809
+                  ]
+            },
+            {
+                  "name": "Kleines Bad",
+                  "text": "A small water facility for refreshment and bathing fun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.656524,
+                        50.893191
+                  ]
+            },
+            {
+                  "name": "Mountain Swimming Pool",
+                  "text": "A swimming pool located in the mountains, offering views of the landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
+                  ]
+            },
+            {
+                  "name": "Exotenhaus",
+                  "text": "A modern animal house featuring exotic species in naturalistic habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        14.713885,
+                        50.86003
                   ]
             }
       ]
@@ -2994,6 +3138,15 @@ export const czechrepublicReliefV2: POI[] = [
                         17.675146,
                         48.85738
                   ]
+            },
+            {
+                  "name": "Farma PARK Lubina",
+                  "text": "Ein Tierpark in Lubina mit verschiedenen Bauernhof- und Waldtieren.",
+                  "category": "recreational",
+                  "coords": [
+                        17.704209,
+                        48.81915
+                  ]
             }
       ],
       "hu": [
@@ -3058,6 +3211,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         17.675146,
                         48.85738
+                  ]
+            },
+            {
+                  "name": "Farma PARK Lubina",
+                  "text": "Állatpark Lubinában, különféle házi- és erdei állatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        17.704209,
+                        48.81915
                   ]
             }
       ],
@@ -3124,6 +3286,15 @@ export const czechrepublicReliefV2: POI[] = [
                         17.675146,
                         48.85738
                   ]
+            },
+            {
+                  "name": "Farma PARK Lubina",
+                  "text": "Un parc de animale în Lubina, cu diverse animale de fermă și de pădure.",
+                  "category": "recreational",
+                  "coords": [
+                        17.704209,
+                        48.81915
+                  ]
             }
       ],
       "en": [
@@ -3188,6 +3359,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         17.675146,
                         48.85738
+                  ]
+            },
+            {
+                  "name": "Farma PARK Lubina",
+                  "text": "An animal park in Lubina featuring a variety of farm and forest animals.",
+                  "category": "recreational",
+                  "coords": [
+                        17.704209,
+                        48.81915
                   ]
             }
       ]
@@ -4376,6 +4556,24 @@ export const czechrepublicReliefV2: POI[] = [
                         16.699822,
                         48.844581
                   ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "Ein kleiner Zoo in den Pollauer Bergen mit regionalen und exotischen Tieren.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "Ein weitläufiger Wasserpark in der Region Palava für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
+                  ]
             }
       ],
       "hu": [
@@ -4449,6 +4647,24 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         16.699822,
                         48.844581
+                  ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "Kis állatkert a Pálava-hegyekben, ahol helyi és egzotikus állatok is láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "Kiterjedt vízi park a Pálava régióban a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
                   ]
             }
       ],
@@ -4524,6 +4740,24 @@ export const czechrepublicReliefV2: POI[] = [
                         16.699822,
                         48.844581
                   ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "O mică grădină zoologică în Dealurile Palava, cu animale regionale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "Un parc acvatic vast în regiunea Palava pentru recreere de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
+                  ]
             }
       ],
       "en": [
@@ -4597,6 +4831,24 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         16.699822,
                         48.844581
+                  ]
+            },
+            {
+                  "name": "Minizoo",
+                  "text": "A small zoo in the Palava Hills featuring regional and exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        16.62447,
+                        48.806567
+                  ]
+            },
+            {
+                  "name": "Riviéra",
+                  "text": "An extensive water park in the Palava region for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.632354,
+                        48.801151
                   ]
             }
       ]
@@ -5364,6 +5616,15 @@ export const czechrepublicReliefV2: POI[] = [
                         14.959383,
                         50.084294
                   ]
+            },
+            {
+                  "name": "Koupaliště Radim",
+                  "text": "Ein öffentliches Schwimmbad in der Region der Elbeniederung.",
+                  "category": "recreational",
+                  "coords": [
+                        15.006625,
+                        50.071652
+                  ]
             }
       ],
       "hu": [
@@ -5419,6 +5680,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         14.959383,
                         50.084294
+                  ]
+            },
+            {
+                  "name": "Koupaliště Radim",
+                  "text": "Nyilvános úszómedence az Elba-alföld régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.006625,
+                        50.071652
                   ]
             }
       ],
@@ -5476,6 +5746,15 @@ export const czechrepublicReliefV2: POI[] = [
                         14.959383,
                         50.084294
                   ]
+            },
+            {
+                  "name": "Koupaliště Radim",
+                  "text": "O piscină publică în regiunea câmpiei Elbei.",
+                  "category": "recreational",
+                  "coords": [
+                        15.006625,
+                        50.071652
+                  ]
             }
       ],
       "en": [
@@ -5531,6 +5810,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         14.959383,
                         50.084294
+                  ]
+            },
+            {
+                  "name": "Koupaliště Radim",
+                  "text": "A public swimming pool in the Elbe Lowlands region.",
+                  "category": "recreational",
+                  "coords": [
+                        15.006625,
+                        50.071652
                   ]
             }
       ]
@@ -6187,6 +6475,24 @@ export const czechrepublicReliefV2: POI[] = [
                         15.586989,
                         49.881255
                   ]
+            },
+            {
+                  "name": "Sluneční lázně",
+                  "text": "Ein öffentlicher Badeort im Eisengebirge, der für seine sonnige Lage und Erholung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        15.572387,
+                        49.865675
+                  ]
+            },
+            {
+                  "name": "Solní jeskyně",
+                  "text": "Eine Salzgrotte im Eisengebirge, die für Wellness-Anwendungen und Entspannung genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        15.580106,
+                        49.866801
+                  ]
             }
       ],
       "hu": [
@@ -6251,6 +6557,24 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         15.586989,
                         49.881255
+                  ]
+            },
+            {
+                  "name": "Sluneční lázně",
+                  "text": "Nyilvános fürdőhely a Vas-hegységben, amely napos fekvéséről és pihentető környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.572387,
+                        49.865675
+                  ]
+            },
+            {
+                  "name": "Solní jeskyně",
+                  "text": "Sóbangya a Vas-hegységben, amelyet wellness-kezelésekre és pihenésre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        15.580106,
+                        49.866801
                   ]
             }
       ],
@@ -6317,6 +6641,24 @@ export const czechrepublicReliefV2: POI[] = [
                         15.586989,
                         49.881255
                   ]
+            },
+            {
+                  "name": "Sluneční lázně",
+                  "text": "O stațiune publică de scăldat în Munții de Fier, cunoscută pentru locația sa însorită și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        15.572387,
+                        49.865675
+                  ]
+            },
+            {
+                  "name": "Solní jeskyně",
+                  "text": "O salină în Munții de Fier, utilizată pentru tratamente de wellness și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        15.580106,
+                        49.866801
+                  ]
             }
       ],
       "en": [
@@ -6381,6 +6723,24 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         15.586989,
                         49.881255
+                  ]
+            },
+            {
+                  "name": "Sluneční lázně",
+                  "text": "A public bathing spot in the Iron Mountains, known for its sunny location and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.572387,
+                        49.865675
+                  ]
+            },
+            {
+                  "name": "Solní jeskyně",
+                  "text": "A salt cave in the Iron Mountains used for wellness treatments and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.580106,
+                        49.866801
                   ]
             }
       ]
@@ -6846,6 +7206,15 @@ export const czechrepublicReliefV2: POI[] = [
                         17.701729,
                         49.380089
                   ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "Ein öffentliches Freibad in den Hostýner Bergen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.688638,
+                        49.341237
+                  ]
             }
       ],
       "hu": [
@@ -6919,6 +7288,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         17.701729,
                         49.380089
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "Nyilvános szabadtéri úszómedence a Hostýn-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.688638,
+                        49.341237
                   ]
             }
       ],
@@ -6994,6 +7372,15 @@ export const czechrepublicReliefV2: POI[] = [
                         17.701729,
                         49.380089
                   ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "O piscină publică în aer liber situată în dealurile Hostýn.",
+                  "category": "recreational",
+                  "coords": [
+                        17.688638,
+                        49.341237
+                  ]
             }
       ],
       "en": [
@@ -7067,6 +7454,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         17.701729,
                         49.380089
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "A public outdoor swimming pool situated in the Hostýn Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        17.688638,
+                        49.341237
                   ]
             }
       ]
@@ -7268,6 +7664,15 @@ export const czechrepublicReliefV2: POI[] = [
                         16.258077,
                         50.577733
                   ]
+            },
+            {
+                  "name": "Farma Wenet",
+                  "text": "Ein kleiner Zoo in der Braunauer Bergland-Region mit verschiedenen Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346719,
+                        50.573851
+                  ]
             }
       ],
       "hu": [
@@ -7332,6 +7737,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         16.258077,
                         50.577733
+                  ]
+            },
+            {
+                  "name": "Farma Wenet",
+                  "text": "Kis állatkert a Broumov-felföldön, ahol különféle állatfajok láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346719,
+                        50.573851
                   ]
             }
       ],
@@ -7398,6 +7812,15 @@ export const czechrepublicReliefV2: POI[] = [
                         16.258077,
                         50.577733
                   ]
+            },
+            {
+                  "name": "Farma Wenet",
+                  "text": "O mică grădină zoologică în Podișul Broumov, cu diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346719,
+                        50.573851
+                  ]
             }
       ],
       "en": [
@@ -7462,6 +7885,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         16.258077,
                         50.577733
+                  ]
+            },
+            {
+                  "name": "Farma Wenet",
+                  "text": "A small zoo in the Broumov Highlands featuring various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346719,
+                        50.573851
                   ]
             }
       ]
@@ -7597,6 +8029,15 @@ export const czechrepublicReliefV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "Ein Schwimmbad im Třeboň-Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
+                  ]
             }
       ],
       "hu": [
@@ -7643,6 +8084,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         14.7681,
                         49.016188
+                  ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "Egy úszómedence a Třeboňi-medencében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
                   ]
             }
       ],
@@ -7691,6 +8141,15 @@ export const czechrepublicReliefV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "O piscină situată în Bazinul Třeboň.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
+                  ]
             }
       ],
       "en": [
@@ -7737,6 +8196,15 @@ export const czechrepublicReliefV2: POI[] = [
                   "coords": [
                         14.7681,
                         49.016188
+                  ]
+            },
+            {
+                  "name": "Ostende",
+                  "text": "A swimming pool located in the Třeboň Basin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.757983,
+                        48.994317
                   ]
             }
       ]

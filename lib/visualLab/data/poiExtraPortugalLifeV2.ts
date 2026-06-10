@@ -103,6 +103,42 @@ export const portugalLifeV2: POI[] = [
                         -8.792024,
                         41.548036
                   ]
+            },
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Ein Küstenstrand im Naturpark Litoral Norte, bekannt für seine Felsformationen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.785516,
+                        41.495946
+                  ]
+            },
+            {
+                  "name": "Praia de Ofir",
+                  "text": "Ein beliebter Sandstrand im Naturpark Litoral Norte, umgeben von Dünen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.787767,
+                        41.518054
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "Eine soziale Einrichtung mit Schwimmbad im Naturpark Litoral Norte.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "Ein Schwimmbadkomplex an der Mündung des Flusses Cávado.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
+                  ]
             }
       ],
       "hu": [
@@ -158,6 +194,42 @@ export const portugalLifeV2: POI[] = [
                   "coords": [
                         -8.792024,
                         41.548036
+                  ]
+            },
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Tengerparti strand a Litoral Norte natúrparkban, sziklaalakzatairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.785516,
+                        41.495946
+                  ]
+            },
+            {
+                  "name": "Praia de Ofir",
+                  "text": "Népszerű homokos strand a Litoral Norte natúrparkban, dűnékkel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.787767,
+                        41.518054
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "Szociális központ úszómedencével a Litoral Norte natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "Úszómedence-komplexum a Cávado-folyó torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
                   ]
             }
       ],
@@ -215,6 +287,42 @@ export const portugalLifeV2: POI[] = [
                         -8.792024,
                         41.548036
                   ]
+            },
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "O plajă de coastă în Parcul Natural Litoral Norte, cunoscută pentru formațiunile sale stâncoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.785516,
+                        41.495946
+                  ]
+            },
+            {
+                  "name": "Praia de Ofir",
+                  "text": "O plajă de nisip populară în Parcul Natural Litoral Norte, înconjurată de dune.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.787767,
+                        41.518054
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "Un centru social cu piscină situat în Parcul Natural Litoral Norte.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "Un complex de piscine situat la gura de vărsare a râului Cávado.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
+                  ]
             }
       ],
       "en": [
@@ -270,6 +378,42 @@ export const portugalLifeV2: POI[] = [
                   "coords": [
                         -8.792024,
                         41.548036
+                  ]
+            },
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "A coastal beach in the Litoral Norte Natural Park, known for its rock formations.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.785516,
+                        41.495946
+                  ]
+            },
+            {
+                  "name": "Praia de Ofir",
+                  "text": "A popular sandy beach in the Litoral Norte Natural Park, surrounded by dunes.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.787767,
+                        41.518054
+                  ]
+            },
+            {
+                  "name": "Centro Social João Paulo II",
+                  "text": "A social center with a swimming pool located in the Litoral Norte Natural Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783842,
+                        41.49548
+                  ]
+            },
+            {
+                  "name": "Piscinas Foz do Cávado",
+                  "text": "A swimming pool complex located at the mouth of the Cávado River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.783199,
+                        41.531324
                   ]
             }
       ]
@@ -1191,7 +1335,88 @@ export const portugalLifeV2: POI[] = [
     image: "/poi-images/portugal-reserva-natural-do-estuario-do-tejo-life-v2.webp",
   },
   {
-    id: "portugal-jardim-botanico-do-porto-life-v2",
+    id: "portugal-jardim-botanico-do-porto-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Lavadores",
+                  "text": "Felsiger Strand in Vila Nova de Gaia bei Porto, bekannt für seine landschaftliche Schönheit und Wanderwege.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.667968,
+                        41.128303
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "Ein weitläufiger Sandstrand südlich der Douro-Mündung, beliebt bei Surfern und Naturliebhabern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668201,
+                        41.140586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Lavadores",
+                  "text": "Sziklás strand Vila Nova de Gaia-ban, Porto közelében, amely természeti szépségéről és sétányairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.667968,
+                        41.128303
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "Kiterjedt homokos strand a Douro torkolatától délre, a szörfösök és a természetkedvelők körében népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668201,
+                        41.140586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Lavadores",
+                  "text": "Plajă stâncoasă în Vila Nova de Gaia, lângă Porto, cunoscută pentru frumusețea sa pitorească și aleile de promenadă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.667968,
+                        41.128303
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "O plajă întinsă cu nisip la sud de gura de vărsare a râului Douro, populară printre surferi și iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668201,
+                        41.140586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Lavadores",
+                  "text": "Rocky beach in Vila Nova de Gaia near Porto, known for its scenic beauty and walking paths.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.667968,
+                        41.128303
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "An extensive sandy beach south of the Douro mouth, popular with surfers and nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668201,
+                        41.140586
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PT",
     name: { de: "Botanischer Garten Porto", hu: "Portói Botanikus Kert", ro: "Grădina Botanică din Porto", en: "Porto Botanical Garden" },
@@ -1326,7 +1551,340 @@ export const portugalLifeV2: POI[] = [
     image: "/poi-images/portugal-reserva-natural-do-estuario-do-sado-life-v2.webp",
   },
   {
-    id: "portugal-parque-da-cidade-do-porto-life-v2",
+    id: "portugal-parque-da-cidade-do-porto-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Gondarém",
+                  "text": "Ein felsiger Stadtstrand in Porto, der für seine Jodhaltigkeit bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.681742,
+                        41.156221
+                  ]
+            },
+            {
+                  "name": "Praia das Pastoras",
+                  "text": "Ein Strand in Porto an der Mündung des Douro, nahe dem Leuchtturm Felgueiras.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.674918,
+                        41.147473
+                  ]
+            },
+            {
+                  "name": "Praia do Molhe",
+                  "text": "Ein bekannter Strand in Porto, erkennbar an seiner historischen Steinpergola.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683483,
+                        41.157844
+                  ]
+            },
+            {
+                  "name": "Praia da Luz",
+                  "text": "Ein beliebter Stadtstrand in Porto mit markanten Felsformationen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679786,
+                        41.153621
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "Ein kleiner Sandstrand in Porto, ideal für Spaziergänge am Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.686031,
+                        41.162347
+                  ]
+            },
+            {
+                  "name": "Praia do Homem do Leme",
+                  "text": "Der erste Strand in Porto, der mit der Blauen Flagge ausgezeichnet wurde, bekannt für seine Statue.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.685536,
+                        41.15998
+                  ]
+            },
+            {
+                  "name": "Praia do Carneiro",
+                  "text": "Ein historischer Strand in Porto, gelegen an der Festung São João da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.675745,
+                        41.14838
+                  ]
+            },
+            {
+                  "name": "Praia do Ourigo",
+                  "text": "Ein traditioneller Stadtstrand in Porto im Stadtteil Foz do Douro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.6769,
+                        41.150081
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "Ein beliebter Treffpunkt in Porto mit weitem Blick über den Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678119,
+                        41.151524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Gondarém",
+                  "text": "Sziklás városi strand Portóban, amely magas jódtartalmáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.681742,
+                        41.156221
+                  ]
+            },
+            {
+                  "name": "Praia das Pastoras",
+                  "text": "Strand Portóban a Douro torkolatánál, a Felgueiras világítótorony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.674918,
+                        41.147473
+                  ]
+            },
+            {
+                  "name": "Praia do Molhe",
+                  "text": "Ismert strand Portóban, amely történelmi kőpergolájáról ismerhető fel.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683483,
+                        41.157844
+                  ]
+            },
+            {
+                  "name": "Praia da Luz",
+                  "text": "Népszerű városi strand Portóban, jellegzetes sziklaalakzatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679786,
+                        41.153621
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "Kicsi homokos strand Portóban, ideális az atlanti-parti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.686031,
+                        41.162347
+                  ]
+            },
+            {
+                  "name": "Praia do Homem do Leme",
+                  "text": "Portó első Kék Zászló minősítésű strandja, amely szobráról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.685536,
+                        41.15998
+                  ]
+            },
+            {
+                  "name": "Praia do Carneiro",
+                  "text": "Történelmi strand Portóban, a São João da Foz erőd mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.675745,
+                        41.14838
+                  ]
+            },
+            {
+                  "name": "Praia do Ourigo",
+                  "text": "Hagyományos városi strand Portóban, a Foz do Douro negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.6769,
+                        41.150081
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "Népszerű találkozóhely Portóban, széles kilátással az óceánra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678119,
+                        41.151524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Gondarém",
+                  "text": "O plajă urbană stâncoasă în Porto, cunoscută pentru concentrația ridicată de iod.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.681742,
+                        41.156221
+                  ]
+            },
+            {
+                  "name": "Praia das Pastoras",
+                  "text": "O plajă în Porto la gura de vărsare a râului Douro, lângă farul Felgueiras.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.674918,
+                        41.147473
+                  ]
+            },
+            {
+                  "name": "Praia do Molhe",
+                  "text": "O plajă cunoscută în Porto, recunoscută după pergola sa istorică din piatră.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683483,
+                        41.157844
+                  ]
+            },
+            {
+                  "name": "Praia da Luz",
+                  "text": "O plajă urbană populară în Porto, cu formațiuni stâncoase proeminente.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679786,
+                        41.153621
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "O plajă mică cu nisip în Porto, ideală pentru plimbări pe malul Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.686031,
+                        41.162347
+                  ]
+            },
+            {
+                  "name": "Praia do Homem do Leme",
+                  "text": "Prima plajă din Porto distinsă cu Steagul Albastru, cunoscută pentru statuia sa.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.685536,
+                        41.15998
+                  ]
+            },
+            {
+                  "name": "Praia do Carneiro",
+                  "text": "O plajă istorică în Porto, situată lângă fortăreața São João da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.675745,
+                        41.14838
+                  ]
+            },
+            {
+                  "name": "Praia do Ourigo",
+                  "text": "O plajă urbană tradițională în Porto, în cartierul Foz do Douro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.6769,
+                        41.150081
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "Un punct de întâlnire popular în Porto, cu o vedere largă asupra oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678119,
+                        41.151524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Gondarém",
+                  "text": "A rocky urban beach in Porto, known for its high iodine content.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.681742,
+                        41.156221
+                  ]
+            },
+            {
+                  "name": "Praia das Pastoras",
+                  "text": "A beach in Porto at the mouth of the Douro River, near the Felgueiras lighthouse.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.674918,
+                        41.147473
+                  ]
+            },
+            {
+                  "name": "Praia do Molhe",
+                  "text": "A well-known beach in Porto, recognizable by its historical stone pergola.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.683483,
+                        41.157844
+                  ]
+            },
+            {
+                  "name": "Praia da Luz",
+                  "text": "A popular urban beach in Porto featuring prominent rock formations.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679786,
+                        41.153621
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "A small sandy beach in Porto, ideal for walks along the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.686031,
+                        41.162347
+                  ]
+            },
+            {
+                  "name": "Praia do Homem do Leme",
+                  "text": "The first beach in Porto to receive the Blue Flag award, known for its statue.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.685536,
+                        41.15998
+                  ]
+            },
+            {
+                  "name": "Praia do Carneiro",
+                  "text": "A historical beach in Porto, located by the São João da Foz fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.675745,
+                        41.14838
+                  ]
+            },
+            {
+                  "name": "Praia do Ourigo",
+                  "text": "A traditional urban beach in Porto, located in the Foz do Douro district.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.6769,
+                        41.150081
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "A popular meeting spot in Porto with a broad view of the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.678119,
+                        41.151524
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PT",
     name: { de: "Stadtpark Porto", hu: "Portói Városliget", ro: "Parcul Orașului din Porto", en: "Porto City Park" },
@@ -1416,7 +1974,160 @@ export const portugalLifeV2: POI[] = [
     image: "/poi-images/portugal-jardim-botanico-de-coimbra-life-v2.webp",
   },
   {
-    id: "portugal-parque-de-monterreo-life-v2",
+    id: "portugal-parque-de-monterreo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "Ein Flussstrand in Alburrica, der für seine historischen Windmühlen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084159,
+                        38.655834
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "Ein Strandabschnitt in der Nähe des Marineclubs in der Region Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092289,
+                        38.659229
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponta dos Corvos",
+                  "text": "Ein Flussstrand bei Ponta dos Corvos in Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.112522,
+                        38.651818
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "Ein lokaler Strand im Viertel Mexilhoeiro von Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090217,
+                        38.656261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "Folyami strand Alburricában, amely történelmi szélmalmairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084159,
+                        38.655834
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "Strandterület a tengerészeti klub közelében Barreiro régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092289,
+                        38.659229
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponta dos Corvos",
+                  "text": "Folyami strand Ponta dos Corvosnál, Barreiro területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.112522,
+                        38.651818
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "Egy helyi strand Barreiro Mexilhoeiro területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090217,
+                        38.656261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "O plajă fluvială în Alburrica, cunoscută pentru morile de vânt istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084159,
+                        38.655834
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "O zonă de plajă situată lângă clubul naval în regiunea Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092289,
+                        38.659229
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponta dos Corvos",
+                  "text": "O plajă fluvială situată la Ponta dos Corvos în Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.112522,
+                        38.651818
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "O plajă locală situată în zona Mexilhoeiro din Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090217,
+                        38.656261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "A river beach in Alburrica, known for its historic windmills.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084159,
+                        38.655834
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "A beach area located near the naval club in the Barreiro region.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092289,
+                        38.659229
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponta dos Corvos",
+                  "text": "A river beach situated at Ponta dos Corvos in Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.112522,
+                        38.651818
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "A local beach situated in the Mexilhoeiro area of Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090217,
+                        38.656261
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PT",
     name: { de: "Monterreo Park", hu: "Monterreo Park", ro: "Parcul Monterreo", en: "Monterreo Park" },

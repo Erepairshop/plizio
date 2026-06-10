@@ -274,6 +274,78 @@ export const italyNatureV2: POI[] = [
                         12.325481,
                         45.171894
                   ]
+            },
+            {
+                  "name": "Sabbia e Sale",
+                  "text": "Ein gut ausgestatteter Badeort an der Etschmündung mit feinem Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        12.321982,
+                        45.175817
+                  ]
+            },
+            {
+                  "name": "Bagni Sol Leone",
+                  "text": "Ein familienfreundlicher Badeort in der Nähe der Etsch, ideal zum Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        12.324159,
+                        45.173365
+                  ]
+            },
+            {
+                  "name": "Bagni Smeraldo",
+                  "text": "Ein Küstenresort nahe der Etsch, das Entspannung und Wassersport bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.316089,
+                        45.182975
+                  ]
+            },
+            {
+                  "name": "Bagni AlbaChiara",
+                  "text": "Ein ruhiger Badeort an der Adriaküste in der Nähe des Flusses Etsch.",
+                  "category": "recreational",
+                  "coords": [
+                        12.320155,
+                        45.177812
+                  ]
+            },
+            {
+                  "name": "Area 71 Beach",
+                  "text": "Ein modern gestalteter Badeort in der Nähe der Etschmündung für Touristen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.326814,
+                        45.170049
+                  ]
+            },
+            {
+                  "name": "Nove",
+                  "text": "Ein kleinerer Badeort nahe der Etsch, der eine gemütliche Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.302683,
+                        45.197203
+                  ]
+            },
+            {
+                  "name": "Bagni Capannina",
+                  "text": "Ein komfortabler Badeort nahe der Etsch mit Liegen und Sonnenschirmen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.323024,
+                        45.174926
+                  ]
+            },
+            {
+                  "name": "Piscine Clodia",
+                  "text": "Eine Schwimmbadanlage in der Nähe der Etsch (Adige).",
+                  "category": "recreational",
+                  "coords": [
+                        12.296342,
+                        45.212798
+                  ]
             }
       ],
       "hu": [
@@ -347,6 +419,78 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         12.325481,
                         45.171894
+                  ]
+            },
+            {
+                  "name": "Sabbia e Sale",
+                  "text": "Jól felszerelt üdülőhely az Adige torkolatánál, finom homokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.321982,
+                        45.175817
+                  ]
+            },
+            {
+                  "name": "Bagni Sol Leone",
+                  "text": "Családbarát üdülőhely az Adige közelében, amely ideális napozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.324159,
+                        45.173365
+                  ]
+            },
+            {
+                  "name": "Bagni Smeraldo",
+                  "text": "Tengerparti üdülőhely az Adige közelében, amely pihenést és vízi sportokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.316089,
+                        45.182975
+                  ]
+            },
+            {
+                  "name": "Bagni AlbaChiara",
+                  "text": "Nyugodt üdülőhely az Adriai-tenger partján, az Adige folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.320155,
+                        45.177812
+                  ]
+            },
+            {
+                  "name": "Area 71 Beach",
+                  "text": "Modern kialakítású üdülőhely az Adige torkolata közelében a turisták számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.326814,
+                        45.170049
+                  ]
+            },
+            {
+                  "name": "Nove",
+                  "text": "Kisebb üdülőhely az Adige közelében, amely hangulatos légkört biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        12.302683,
+                        45.197203
+                  ]
+            },
+            {
+                  "name": "Bagni Capannina",
+                  "text": "Kényelmes üdülőhely az Adige közelében, nyugágyakkal és napernyőkkel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.323024,
+                        45.174926
+                  ]
+            },
+            {
+                  "name": "Piscine Clodia",
+                  "text": "Az Adige-folyó közelében található úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        12.296342,
+                        45.212798
                   ]
             }
       ],
@@ -422,6 +566,78 @@ export const italyNatureV2: POI[] = [
                         12.325481,
                         45.171894
                   ]
+            },
+            {
+                  "name": "Sabbia e Sale",
+                  "text": "O stațiune balneară bine echipată la gura de vărsare a râului Adige, cu nisip fin.",
+                  "category": "recreational",
+                  "coords": [
+                        12.321982,
+                        45.175817
+                  ]
+            },
+            {
+                  "name": "Bagni Sol Leone",
+                  "text": "O stațiune balneară pentru familii lângă râul Adige, ideală pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.324159,
+                        45.173365
+                  ]
+            },
+            {
+                  "name": "Bagni Smeraldo",
+                  "text": "O stațiune de coastă lângă râul Adige, oferind relaxare și sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.316089,
+                        45.182975
+                  ]
+            },
+            {
+                  "name": "Bagni AlbaChiara",
+                  "text": "O stațiune balneară liniștită pe coasta Adriaticii, în apropierea râului Adige.",
+                  "category": "recreational",
+                  "coords": [
+                        12.320155,
+                        45.177812
+                  ]
+            },
+            {
+                  "name": "Area 71 Beach",
+                  "text": "O stațiune balneară modernă situată lângă gura râului Adige pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        12.326814,
+                        45.170049
+                  ]
+            },
+            {
+                  "name": "Nove",
+                  "text": "O stațiune balneară mai mică lângă râul Adige, oferind o atmosferă primitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        12.302683,
+                        45.197203
+                  ]
+            },
+            {
+                  "name": "Bagni Capannina",
+                  "text": "O stațiune balneară confortabilă lângă râul Adige, cu șezlonguri și umbrele.",
+                  "category": "recreational",
+                  "coords": [
+                        12.323024,
+                        45.174926
+                  ]
+            },
+            {
+                  "name": "Piscine Clodia",
+                  "text": "O facilitate cu piscină situată lângă râul Adige.",
+                  "category": "recreational",
+                  "coords": [
+                        12.296342,
+                        45.212798
+                  ]
             }
       ],
       "en": [
@@ -495,6 +711,78 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         12.325481,
                         45.171894
+                  ]
+            },
+            {
+                  "name": "Sabbia e Sale",
+                  "text": "A well-equipped beach resort at the Adige mouth, featuring fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        12.321982,
+                        45.175817
+                  ]
+            },
+            {
+                  "name": "Bagni Sol Leone",
+                  "text": "A family-friendly beach resort near the Adige, ideal for sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        12.324159,
+                        45.173365
+                  ]
+            },
+            {
+                  "name": "Bagni Smeraldo",
+                  "text": "A coastal resort near the Adige, offering relaxation and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        12.316089,
+                        45.182975
+                  ]
+            },
+            {
+                  "name": "Bagni AlbaChiara",
+                  "text": "A tranquil beach resort on the Adriatic coast, near the Adige river.",
+                  "category": "recreational",
+                  "coords": [
+                        12.320155,
+                        45.177812
+                  ]
+            },
+            {
+                  "name": "Area 71 Beach",
+                  "text": "A modernly designed beach resort located near the Adige mouth for tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        12.326814,
+                        45.170049
+                  ]
+            },
+            {
+                  "name": "Nove",
+                  "text": "A smaller beach resort near the Adige, offering a cozy atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        12.302683,
+                        45.197203
+                  ]
+            },
+            {
+                  "name": "Bagni Capannina",
+                  "text": "A comfortable beach resort near the Adige, with sunbeds and umbrellas.",
+                  "category": "recreational",
+                  "coords": [
+                        12.323024,
+                        45.174926
+                  ]
+            },
+            {
+                  "name": "Piscine Clodia",
+                  "text": "A swimming pool facility located near the Adige River.",
+                  "category": "recreational",
+                  "coords": [
+                        12.296342,
+                        45.212798
                   ]
             }
       ]
@@ -2146,6 +2434,15 @@ export const italyNatureV2: POI[] = [
                         11.672664,
                         46.420195
                   ]
+            },
+            {
+                  "name": "QC Terme Dolomiti",
+                  "text": "Ein luxuriöses Thermalbad und Wellnesscenter im Herzen der Dolomiten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.687809,
+                        46.424873
+                  ]
             }
       ],
       "hu": [
@@ -2219,6 +2516,15 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         11.672664,
                         46.420195
+                  ]
+            },
+            {
+                  "name": "QC Terme Dolomiti",
+                  "text": "Luxus termálfürdő és wellnessközpont a Dolomitok szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.687809,
+                        46.424873
                   ]
             }
       ],
@@ -2294,6 +2600,15 @@ export const italyNatureV2: POI[] = [
                         11.672664,
                         46.420195
                   ]
+            },
+            {
+                  "name": "QC Terme Dolomiti",
+                  "text": "Un centru termal și de wellness de lux situat în inima Dolomiților.",
+                  "category": "recreational",
+                  "coords": [
+                        11.687809,
+                        46.424873
+                  ]
             }
       ],
       "en": [
@@ -2367,6 +2682,15 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         11.672664,
                         46.420195
+                  ]
+            },
+            {
+                  "name": "QC Terme Dolomiti",
+                  "text": "A luxury thermal spa and wellness center located in the heart of the Dolomites.",
+                  "category": "recreational",
+                  "coords": [
+                        11.687809,
+                        46.424873
                   ]
             }
       ]
@@ -2479,6 +2803,15 @@ export const italyNatureV2: POI[] = [
                         12.998735,
                         43.404943
                   ]
+            },
+            {
+                  "name": "Parco dei Daini",
+                  "text": "Ein Wildgehege im Park Gola della Rossa, bekannt für seine Damhirsche.",
+                  "category": "recreational",
+                  "coords": [
+                        13.064366,
+                        43.462113
+                  ]
             }
       ],
       "hu": [
@@ -2543,6 +2876,15 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         12.998735,
                         43.404943
+                  ]
+            },
+            {
+                  "name": "Parco dei Daini",
+                  "text": "Vadaspark a Gola della Rossa parkban, amely dámvadjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.064366,
+                        43.462113
                   ]
             }
       ],
@@ -2609,6 +2951,15 @@ export const italyNatureV2: POI[] = [
                         12.998735,
                         43.404943
                   ]
+            },
+            {
+                  "name": "Parco dei Daini",
+                  "text": "Un parc cu animale sălbatice în Gola della Rossa, cunoscut pentru cerbi lopătari.",
+                  "category": "recreational",
+                  "coords": [
+                        13.064366,
+                        43.462113
+                  ]
             }
       ],
       "en": [
@@ -2674,6 +3025,15 @@ export const italyNatureV2: POI[] = [
                         12.998735,
                         43.404943
                   ]
+            },
+            {
+                  "name": "Parco dei Daini",
+                  "text": "A wildlife park in Gola della Rossa, known for its fallow deer.",
+                  "category": "recreational",
+                  "coords": [
+                        13.064366,
+                        43.462113
+                  ]
             }
       ]
 },
@@ -2721,7 +3081,412 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-gola-di-gola-rossa-nature-v2.webp",
   },
   {
-    id: "italy-fiume-arno-nature-v2",
+    id: "italy-fiume-arno-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pappafico Beach & Club",
+                  "text": "Ein moderner Strandclub an der Mündung des Arno bei Pisa.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282073,
+                        43.655201
+                  ]
+            },
+            {
+                  "name": "Luisa",
+                  "text": "Ein beliebtes Strandbad an der Küste nahe der Arno-Mündung.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282956,
+                        43.653177
+                  ]
+            },
+            {
+                  "name": "Bagno Azzurro",
+                  "text": "Bagno Azzurro ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285269,
+                        43.647627
+                  ]
+            },
+            {
+                  "name": "Bagno Arcobaleno",
+                  "text": "Bagno Arcobaleno ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285185,
+                        43.646584
+                  ]
+            },
+            {
+                  "name": "Toto",
+                  "text": "Toto ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279713,
+                        43.659319
+                  ]
+            },
+            {
+                  "name": "La Riva",
+                  "text": "La Riva ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.278992,
+                        43.66053
+                  ]
+            },
+            {
+                  "name": "Aurora",
+                  "text": "Aurora ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284705,
+                        43.64902
+                  ]
+            },
+            {
+                  "name": "Mirasole",
+                  "text": "Mirasole ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284024,
+                        43.650265
+                  ]
+            },
+            {
+                  "name": "Marco Polo",
+                  "text": "Marco Polo ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.28369,
+                        43.651632
+                  ]
+            },
+            {
+                  "name": "Bagno Gorgona",
+                  "text": "Bagno Gorgona ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.270728,
+                        43.674268
+                  ]
+            },
+            {
+                  "name": "La terrazza d'Annunzio",
+                  "text": "La terrazza d'Annunzio ist ein Strandbad am Arno, das Erholungsmöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.269821,
+                        43.676405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pappafico Beach & Club",
+                  "text": "Modern strandklub az Arno torkolatánál, Pisa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282073,
+                        43.655201
+                  ]
+            },
+            {
+                  "name": "Luisa",
+                  "text": "Népszerű strandkomplexum az Arno-torkolat közeli partvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282956,
+                        43.653177
+                  ]
+            },
+            {
+                  "name": "Bagno Azzurro",
+                  "text": "A(z) Bagno Azzurro egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285269,
+                        43.647627
+                  ]
+            },
+            {
+                  "name": "Bagno Arcobaleno",
+                  "text": "A(z) Bagno Arcobaleno egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285185,
+                        43.646584
+                  ]
+            },
+            {
+                  "name": "Toto",
+                  "text": "A(z) Toto egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279713,
+                        43.659319
+                  ]
+            },
+            {
+                  "name": "La Riva",
+                  "text": "A(z) La Riva egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.278992,
+                        43.66053
+                  ]
+            },
+            {
+                  "name": "Aurora",
+                  "text": "A(z) Aurora egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284705,
+                        43.64902
+                  ]
+            },
+            {
+                  "name": "Mirasole",
+                  "text": "A(z) Mirasole egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284024,
+                        43.650265
+                  ]
+            },
+            {
+                  "name": "Marco Polo",
+                  "text": "A(z) Marco Polo egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.28369,
+                        43.651632
+                  ]
+            },
+            {
+                  "name": "Bagno Gorgona",
+                  "text": "A(z) Bagno Gorgona egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.270728,
+                        43.674268
+                  ]
+            },
+            {
+                  "name": "La terrazza d'Annunzio",
+                  "text": "A(z) La terrazza d'Annunzio egy strandfürdő az Arno-folyó közelében, amely tengerparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.269821,
+                        43.676405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pappafico Beach & Club",
+                  "text": "Un club de plajă modern la gura de vărsare a râului Arno, lângă Pisa.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282073,
+                        43.655201
+                  ]
+            },
+            {
+                  "name": "Luisa",
+                  "text": "O stațiune de plajă populară pe coasta de lângă gura de vărsare a râului Arno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282956,
+                        43.653177
+                  ]
+            },
+            {
+                  "name": "Bagno Azzurro",
+                  "text": "Bagno Azzurro este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285269,
+                        43.647627
+                  ]
+            },
+            {
+                  "name": "Bagno Arcobaleno",
+                  "text": "Bagno Arcobaleno este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285185,
+                        43.646584
+                  ]
+            },
+            {
+                  "name": "Toto",
+                  "text": "Toto este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279713,
+                        43.659319
+                  ]
+            },
+            {
+                  "name": "La Riva",
+                  "text": "La Riva este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.278992,
+                        43.66053
+                  ]
+            },
+            {
+                  "name": "Aurora",
+                  "text": "Aurora este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284705,
+                        43.64902
+                  ]
+            },
+            {
+                  "name": "Mirasole",
+                  "text": "Mirasole este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284024,
+                        43.650265
+                  ]
+            },
+            {
+                  "name": "Marco Polo",
+                  "text": "Marco Polo este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.28369,
+                        43.651632
+                  ]
+            },
+            {
+                  "name": "Bagno Gorgona",
+                  "text": "Bagno Gorgona este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.270728,
+                        43.674268
+                  ]
+            },
+            {
+                  "name": "La terrazza d'Annunzio",
+                  "text": "La terrazza d'Annunzio este o stațiune balneară lângă râul Arno, oferind facilități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.269821,
+                        43.676405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pappafico Beach & Club",
+                  "text": "A modern beach club at the mouth of the Arno River near Pisa.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282073,
+                        43.655201
+                  ]
+            },
+            {
+                  "name": "Luisa",
+                  "text": "A popular beach resort on the coast near the mouth of the Arno.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282956,
+                        43.653177
+                  ]
+            },
+            {
+                  "name": "Bagno Azzurro",
+                  "text": "Bagno Azzurro is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285269,
+                        43.647627
+                  ]
+            },
+            {
+                  "name": "Bagno Arcobaleno",
+                  "text": "Bagno Arcobaleno is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.285185,
+                        43.646584
+                  ]
+            },
+            {
+                  "name": "Toto",
+                  "text": "Toto is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279713,
+                        43.659319
+                  ]
+            },
+            {
+                  "name": "La Riva",
+                  "text": "La Riva is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.278992,
+                        43.66053
+                  ]
+            },
+            {
+                  "name": "Aurora",
+                  "text": "Aurora is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284705,
+                        43.64902
+                  ]
+            },
+            {
+                  "name": "Mirasole",
+                  "text": "Mirasole is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.284024,
+                        43.650265
+                  ]
+            },
+            {
+                  "name": "Marco Polo",
+                  "text": "Marco Polo is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.28369,
+                        43.651632
+                  ]
+            },
+            {
+                  "name": "Bagno Gorgona",
+                  "text": "Bagno Gorgona is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.270728,
+                        43.674268
+                  ]
+            },
+            {
+                  "name": "La terrazza d'Annunzio",
+                  "text": "La terrazza d'Annunzio is a beach resort near the Arno River offering coastal leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.269821,
+                        43.676405
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IT",
     name: { de: "Arno", hu: "Arno", ro: "Arno", en: "Arno River" },
@@ -3019,6 +3784,15 @@ export const italyNatureV2: POI[] = [
                         12.714727,
                         42.553707
                   ]
+            },
+            {
+                  "name": "Piscina Società Canottieri Piediluco",
+                  "text": "Ein Schwimmbad in der Nähe der Marmore-Wasserfälle, ideal für sportliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750206,
+                        42.537304
+                  ]
             }
       ],
       "hu": [
@@ -3074,6 +3848,15 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         12.714727,
                         42.553707
+                  ]
+            },
+            {
+                  "name": "Piscina Società Canottieri Piediluco",
+                  "text": "Úszómedence a Marmore-vízesés közelében, ideális sportolásra és kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750206,
+                        42.537304
                   ]
             }
       ],
@@ -3131,6 +3914,15 @@ export const italyNatureV2: POI[] = [
                         12.714727,
                         42.553707
                   ]
+            },
+            {
+                  "name": "Piscina Società Canottieri Piediluco",
+                  "text": "O piscină lângă Cascada Marmore, ideală pentru recreere sportivă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750206,
+                        42.537304
+                  ]
             }
       ],
       "en": [
@@ -3186,6 +3978,15 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         12.714727,
                         42.553707
+                  ]
+            },
+            {
+                  "name": "Piscina Società Canottieri Piediluco",
+                  "text": "A swimming pool near the Marmore Falls, ideal for sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        12.750206,
+                        42.537304
                   ]
             }
       ]

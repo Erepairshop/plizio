@@ -880,6 +880,42 @@ export const czechrepublicNatureV2: POI[] = [
                         14.698835,
                         50.582877
                   ]
+            },
+            {
+                  "name": "Doksy",
+                  "text": "Dieses beliebte Urlaubsresort am Machasee bietet Sandstrände und vielfältige Wassersportmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.647861,
+                        50.57531
+                  ]
+            },
+            {
+                  "name": "Borný",
+                  "text": "Ein bekanntes Erholungsgebiet am Machasee, das für seine Campingplätze und den breiten Sandstrand geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        14.653596,
+                        50.589629
+                  ]
+            },
+            {
+                  "name": "Klůček",
+                  "text": "Dieses Strandbad am Machasee ist ein idealer Ort für Familien zum Schwimmen und Entspannen in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        14.654398,
+                        50.578811
+                  ]
+            },
+            {
+                  "name": "Staré Splavy",
+                  "text": "Ein traditionsreicher Ferienort am Machasee, bekannt für seine malerische Uferpromenade und das Strandbad.",
+                  "category": "recreational",
+                  "coords": [
+                        14.641384,
+                        50.584562
+                  ]
             }
       ],
       "hu": [
@@ -953,6 +989,42 @@ export const czechrepublicNatureV2: POI[] = [
                   "coords": [
                         14.698835,
                         50.582877
+                  ]
+            },
+            {
+                  "name": "Doksy",
+                  "text": "Ez a Mácha-tó partján fekvő népszerű üdülőhely homokos strandokat és vízi sportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.647861,
+                        50.57531
+                  ]
+            },
+            {
+                  "name": "Borný",
+                  "text": "A Mácha-tó egyik ismert üdülőterülete, amely kempingjeiről és széles homokos strandjáról nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        14.653596,
+                        50.589629
+                  ]
+            },
+            {
+                  "name": "Klůček",
+                  "text": "Ez a Mácha-tó melletti strand kiváló hely a családok számára a fürdőzésre és a természetben való pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.654398,
+                        50.578811
+                  ]
+            },
+            {
+                  "name": "Staré Splavy",
+                  "text": "Hagyományos üdülőhely a Mácha-tó partján, amely festői sétányáról és strandjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.641384,
+                        50.584562
                   ]
             }
       ],
@@ -1028,6 +1100,42 @@ export const czechrepublicNatureV2: POI[] = [
                         14.698835,
                         50.582877
                   ]
+            },
+            {
+                  "name": "Doksy",
+                  "text": "Această stațiune populară de pe malul lacului Mácha oferă plaje cu nisip și diverse sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.647861,
+                        50.57531
+                  ]
+            },
+            {
+                  "name": "Borný",
+                  "text": "O zonă de recreere cunoscută pe lacul Mácha, apreciată pentru locurile de camping și plaja largă cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        14.653596,
+                        50.589629
+                  ]
+            },
+            {
+                  "name": "Klůček",
+                  "text": "Această zonă de plajă de lângă lacul Mácha este un loc ideal pentru familii, pentru înot și relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        14.654398,
+                        50.578811
+                  ]
+            },
+            {
+                  "name": "Staré Splavy",
+                  "text": "O stațiune tradițională pe malul lacului Mácha, cunoscută pentru faleza sa pitorească și zona de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.641384,
+                        50.584562
+                  ]
             }
       ],
       "en": [
@@ -1101,6 +1209,42 @@ export const czechrepublicNatureV2: POI[] = [
                   "coords": [
                         14.698835,
                         50.582877
+                  ]
+            },
+            {
+                  "name": "Doksy",
+                  "text": "This popular resort on the shores of Macha Lake offers sandy beaches and various water sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.647861,
+                        50.57531
+                  ]
+            },
+            {
+                  "name": "Borný",
+                  "text": "A well-known recreation area on Macha Lake, valued for its campsites and wide sandy beach.",
+                  "category": "recreational",
+                  "coords": [
+                        14.653596,
+                        50.589629
+                  ]
+            },
+            {
+                  "name": "Klůček",
+                  "text": "This beach area by Macha Lake is an ideal spot for families to swim and relax in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        14.654398,
+                        50.578811
+                  ]
+            },
+            {
+                  "name": "Staré Splavy",
+                  "text": "A traditional holiday resort on Macha Lake, known for its picturesque waterfront and beach area.",
+                  "category": "recreational",
+                  "coords": [
+                        14.641384,
+                        50.584562
                   ]
             }
       ]
@@ -1597,6 +1741,15 @@ export const czechrepublicNatureV2: POI[] = [
                         12.454136,
                         50.142883
                   ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Ein Wasserpark in Franzensbad in der Nähe des Naturschutzgebiets Soos.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
             }
       ],
       "hu": [
@@ -1661,6 +1814,15 @@ export const czechrepublicNatureV2: POI[] = [
                   "coords": [
                         12.454136,
                         50.142883
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Vízipark Ferencvárosban, a Soos természetvédelmi terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
                   ]
             }
       ],
@@ -1727,6 +1889,15 @@ export const czechrepublicNatureV2: POI[] = [
                         12.454136,
                         50.142883
                   ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "Un parc acvatic în Františkovy Lázně, lângă Rezervația Naturală Soos.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
+                  ]
             }
       ],
       "en": [
@@ -1791,6 +1962,15 @@ export const czechrepublicNatureV2: POI[] = [
                   "coords": [
                         12.454136,
                         50.142883
+                  ]
+            },
+            {
+                  "name": "Aquaforum",
+                  "text": "A water park in Františkovy Lázně, located near the Soos Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        12.358188,
+                        50.11697
                   ]
             }
       ]
@@ -2584,6 +2764,69 @@ export const czechrepublicNatureV2: POI[] = [
                         14.641598,
                         50.82149
                   ]
+            },
+            {
+                  "name": "Volkskunde- und Mühlenmuseum",
+                  "text": "Ein Museum im Lausitzer Gebirge, das regionale Volkskunde und die Geschichte historischer Mühlen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.649371,
+                        50.869158
+                  ]
+            },
+            {
+                  "name": "PP Brazilka",
+                  "text": "Ein wertvolles Naturschutzgebiet im Lausitzer Gebirge, das ein seltenes Bergmoor schützt.",
+                  "category": "natural",
+                  "coords": [
+                        14.662252,
+                        50.848128
+                  ]
+            },
+            {
+                  "name": "Waldbühne Jonsdorf",
+                  "text": "Eine idyllische Waldbühne, die für Theateraufführungen und Konzerte im Freien genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.696409,
+                        50.849348
+                  ]
+            },
+            {
+                  "name": "Weberstube",
+                  "text": "Ein kleines Museum, das Einblicke in die traditionelle Webkunst des Lausitzer Gebirges gibt.",
+                  "category": "museum",
+                  "coords": [
+                        14.698648,
+                        50.852723
+                  ]
+            },
+            {
+                  "name": "Krompach",
+                  "text": "Ein historisches Schlossbauwerk in der Gemeinde Krompach im tschechischen Teil des Gebirges.",
+                  "category": "castle",
+                  "coords": [
+                        14.702275,
+                        50.828329
+                  ]
+            },
+            {
+                  "name": "Trixi-Bad",
+                  "text": "Ein vielseitiger Wasserpark im Zittauer Gebirge für Familienspaß.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670236,
+                        50.880732
+                  ]
+            },
+            {
+                  "name": "Gebirgsbad",
+                  "text": "Ein Schwimmbad in den Bergen, das Erholung in der Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
+                  ]
             }
       ],
       "hu": [
@@ -2603,6 +2846,69 @@ export const czechrepublicNatureV2: POI[] = [
                   "coords": [
                         14.641598,
                         50.82149
+                  ]
+            },
+            {
+                  "name": "Volkskunde- und Mühlenmuseum",
+                  "text": "Múzeum a Lausitzi-hegységben, amely a helyi néprajzot és a történelmi malmok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.649371,
+                        50.869158
+                  ]
+            },
+            {
+                  "name": "PP Brazilka",
+                  "text": "Értékes természetvédelmi terület a Lausitzi-hegységben, amely egy ritka hegyi lápot véd.",
+                  "category": "natural",
+                  "coords": [
+                        14.662252,
+                        50.848128
+                  ]
+            },
+            {
+                  "name": "Waldbühne Jonsdorf",
+                  "text": "Idilli erdei színpad, amelyet szabadtéri színházi előadásokra és koncertekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        14.696409,
+                        50.849348
+                  ]
+            },
+            {
+                  "name": "Weberstube",
+                  "text": "Kis múzeum, amely betekintést nyújt a Lausitzi-hegység hagyományos szövőművészetébe.",
+                  "category": "museum",
+                  "coords": [
+                        14.698648,
+                        50.852723
+                  ]
+            },
+            {
+                  "name": "Krompach",
+                  "text": "Történelmi kastélyépület Krompach községben, a hegység cseh oldalán.",
+                  "category": "castle",
+                  "coords": [
+                        14.702275,
+                        50.828329
+                  ]
+            },
+            {
+                  "name": "Trixi-Bad",
+                  "text": "Sokoldalú vízi park a Lausitzi-hegységben a családi szórakozásért.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670236,
+                        50.880732
+                  ]
+            },
+            {
+                  "name": "Gebirgsbad",
+                  "text": "Hegyi úszómedence, amely kikapcsolódást nyújt a természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
                   ]
             }
       ],
@@ -2624,6 +2930,69 @@ export const czechrepublicNatureV2: POI[] = [
                         14.641598,
                         50.82149
                   ]
+            },
+            {
+                  "name": "Volkskunde- und Mühlenmuseum",
+                  "text": "Un muzeu în Munții Luzaciei care prezintă folclorul regional și istoria morilor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        14.649371,
+                        50.869158
+                  ]
+            },
+            {
+                  "name": "PP Brazilka",
+                  "text": "O rezervație naturală valoroasă în Munții Luzaciei, care protejează o mlaștină montană rară.",
+                  "category": "natural",
+                  "coords": [
+                        14.662252,
+                        50.848128
+                  ]
+            },
+            {
+                  "name": "Waldbühne Jonsdorf",
+                  "text": "O scenă de pădure idilică, utilizată pentru spectacole de teatru și concerte în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        14.696409,
+                        50.849348
+                  ]
+            },
+            {
+                  "name": "Weberstube",
+                  "text": "Un mic muzeu care oferă informații despre arta tradițională a țesutului din Munții Luzaciei.",
+                  "category": "museum",
+                  "coords": [
+                        14.698648,
+                        50.852723
+                  ]
+            },
+            {
+                  "name": "Krompach",
+                  "text": "O clădire istorică de tip castel în comuna Krompach, situată în partea cehă a munților.",
+                  "category": "castle",
+                  "coords": [
+                        14.702275,
+                        50.828329
+                  ]
+            },
+            {
+                  "name": "Trixi-Bad",
+                  "text": "Un parc acvatic versatil în Munții Luzațieni pentru distracția familiei.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670236,
+                        50.880732
+                  ]
+            },
+            {
+                  "name": "Gebirgsbad",
+                  "text": "O piscină la munte care oferă recreere în mijlocul naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
+                  ]
             }
       ],
       "en": [
@@ -2643,6 +3012,69 @@ export const czechrepublicNatureV2: POI[] = [
                   "coords": [
                         14.641598,
                         50.82149
+                  ]
+            },
+            {
+                  "name": "Volkskunde- und Mühlenmuseum",
+                  "text": "A museum in the Lusatian Mountains showcasing regional folklore and the history of historical mills.",
+                  "category": "museum",
+                  "coords": [
+                        14.649371,
+                        50.869158
+                  ]
+            },
+            {
+                  "name": "PP Brazilka",
+                  "text": "A valuable nature reserve in the Lusatian Mountains protecting a rare mountain peat bog.",
+                  "category": "natural",
+                  "coords": [
+                        14.662252,
+                        50.848128
+                  ]
+            },
+            {
+                  "name": "Waldbühne Jonsdorf",
+                  "text": "An idyllic forest stage used for open-air theatre performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        14.696409,
+                        50.849348
+                  ]
+            },
+            {
+                  "name": "Weberstube",
+                  "text": "A small museum providing insights into the traditional weaving art of the Lusatian Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        14.698648,
+                        50.852723
+                  ]
+            },
+            {
+                  "name": "Krompach",
+                  "text": "A historical castle building in the municipality of Krompach in the Czech part of the mountains.",
+                  "category": "castle",
+                  "coords": [
+                        14.702275,
+                        50.828329
+                  ]
+            },
+            {
+                  "name": "Trixi-Bad",
+                  "text": "A versatile water park in the Lusatian Mountains for family fun.",
+                  "category": "recreational",
+                  "coords": [
+                        14.670236,
+                        50.880732
+                  ]
+            },
+            {
+                  "name": "Mountain Swimming Pool",
+                  "text": "A swimming pool in the mountains offering recreation in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        14.705587,
+                        50.847786
                   ]
             }
       ]

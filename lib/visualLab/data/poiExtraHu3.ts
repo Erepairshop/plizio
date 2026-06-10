@@ -5829,7 +5829,52 @@ export const poiExtraHu3: POI[] = [
       fr: ["Découverte de l'eau thermale en 1962 lors de forages pétroliers", "Ouverture officielle des bains en 1965", "La température de l'eau à la source est de 96 degrés Celsius", "La surface aquatique totale est de plus de 5000 mètres carrés", "Dispose de plus de 20 bassins différents", "La composition contient de l'iode, du brome et du soufre"],
     }, image: "/poi-images/kid-landmark-zalakaros-furdo-extra.webp"},
   {
-    id: "industry-nagylengyeli-olaj-extra",
+    id: "industry-nagylengyeli-olaj-extra", "sights": {
+      "de": [
+            {
+                  "name": "Gellénházi Strand",
+                  "text": "Ein Wasserpark und Freibad beim Ölfeld von Nagylengyel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.786493,
+                        46.762646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gellénházi Strand",
+                  "text": "Vízisport- és strandlétesítmény a nagylengyeli olajmező közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.786493,
+                        46.762646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gellénházi Strand",
+                  "text": "Un parc acvatic și ștrand lângă câmpul petrolifer Nagylengyel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.786493,
+                        46.762646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gellénházi Strand",
+                  "text": "A water park and swimming facility near the Nagylengyel Oil Field.",
+                  "category": "recreational",
+                  "coords": [
+                        16.786493,
+                        46.762646
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "HU-ZA",
     coords: [16.732, 46.755],

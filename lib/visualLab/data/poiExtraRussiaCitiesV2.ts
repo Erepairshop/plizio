@@ -1843,7 +1843,160 @@ imageHint: "Giant Lenin Head monument in Ulan-Ude",
     },
     image: "/poi-images/russia-ulan-ude-cities-v2.webp",
 },  {
-    id: "russia-sochi-cities-v2",
+    id: "russia-sochi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Светлячок",
+                  "text": "Ein Strandresort in Sotschi am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        39.70757,
+                        43.600538
+                  ]
+            },
+            {
+                  "name": "пляж санатория Родина",
+                  "text": "Der Privatstrand des Sanatoriums Rodina in Sotschi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.708472,
+                        43.597945
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Русь\"",
+                  "text": "Ein Strandabschnitt des Sanatoriums Rus in Sotschi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.704412,
+                        43.609257
+                  ]
+            },
+            {
+                  "name": "Пляж \"Маяк\"",
+                  "text": "Ein zentraler Kieselstrand in Sotschi in der Nähe des Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        39.720658,
+                        43.577352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Светлячок",
+                  "text": "Tengerparti üdülőhely Szocsiban, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        39.70757,
+                        43.600538
+                  ]
+            },
+            {
+                  "name": "пляж санатория Родина",
+                  "text": "A Rodina szanatórium magánstrandja Szocsiban.",
+                  "category": "recreational",
+                  "coords": [
+                        39.708472,
+                        43.597945
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Русь\"",
+                  "text": "A Rusz szanatórium strandrésze Szocsiban.",
+                  "category": "recreational",
+                  "coords": [
+                        39.704412,
+                        43.609257
+                  ]
+            },
+            {
+                  "name": "Пляж \"Маяк\"",
+                  "text": "Központi kavicsos strand Szocsiban, a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        39.720658,
+                        43.577352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Светлячок",
+                  "text": "O stațiune de plajă în Soci, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        39.70757,
+                        43.600538
+                  ]
+            },
+            {
+                  "name": "пляж санатория Родина",
+                  "text": "Plaja privată a sanatoriului Rodina din Soci.",
+                  "category": "recreational",
+                  "coords": [
+                        39.708472,
+                        43.597945
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Русь\"",
+                  "text": "O secțiune de plajă a sanatoriului Rus din Soci.",
+                  "category": "recreational",
+                  "coords": [
+                        39.704412,
+                        43.609257
+                  ]
+            },
+            {
+                  "name": "Пляж \"Маяк\"",
+                  "text": "O plajă centrală cu pietriș în Soci, situată lângă port.",
+                  "category": "recreational",
+                  "coords": [
+                        39.720658,
+                        43.577352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Светлячок",
+                  "text": "A beach resort in Sochi on the Black Sea coast.",
+                  "category": "recreational",
+                  "coords": [
+                        39.70757,
+                        43.600538
+                  ]
+            },
+            {
+                  "name": "пляж санатория Родина",
+                  "text": "The private beach of the Rodina sanatorium in Sochi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.708472,
+                        43.597945
+                  ]
+            },
+            {
+                  "name": "Пляж санатория \"Русь\"",
+                  "text": "A beach section of the Rus sanatorium in Sochi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.704412,
+                        43.609257
+                  ]
+            },
+            {
+                  "name": "Пляж \"Маяк\"",
+                  "text": "A central pebble beach in Sochi located near the harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        39.720658,
+                        43.577352
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Sotschi", hu: "Szocsi", ro: "Soci", en: "Sochi"},

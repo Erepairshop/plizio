@@ -4,7 +4,52 @@ import { POI } from "./poi";
 export const poiExtraMaltaOther: POI[] = [
   // Animal Habitat
   {
-    id: "animal-habitat-ghadira-nature-reserve-extra",
+    id: "animal-habitat-ghadira-nature-reserve-extra", "sights": {
+      "de": [
+            {
+                  "name": "Maya Beach",
+                  "text": "Ein Beachclub in der Nähe des Ghadira-Naturschutzgebiets, beliebt für seine modernen Annehmlichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355688,
+                        35.966085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maya Beach",
+                  "text": "A Ghadira természetvédelmi terület közelében található strandklub, amely modern szolgáltatásairól népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355688,
+                        35.966085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maya Beach",
+                  "text": "Un club de plajă situat lângă Rezervația Naturală Ghadira, popular pentru facilitățile sale moderne.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355688,
+                        35.966085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maya Beach",
+                  "text": "A beach club located near the Ghadira Nature Reserve, popular for its modern amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.355688,
+                        35.966085
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MT",
     coords: [14.354, 35.963],
@@ -6021,7 +6066,88 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "port-portomaso-marina-st-julians-extra",
+    id: "port-portomaso-marina-st-julians-extra", "sights": {
+      "de": [
+            {
+                  "name": "The Reef Club",
+                  "text": "Ein exklusiver Schwimmbereich im Jachthafen von Portomaso.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Merkanti Beach Club 16+",
+                  "text": "Ein Strandclub für Erwachsene im Jachthafen von Portomaso.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494667,
+                        35.922782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Reef Club",
+                  "text": "Exkluzív úszóhely a Portomaso kikötőben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Merkanti Beach Club 16+",
+                  "text": "Felnőtteknek fenntartott strandklub a Portomaso kikötőben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494667,
+                        35.922782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Reef Club",
+                  "text": "O zonă exclusivistă de înot în marina Portomaso.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Merkanti Beach Club 16+",
+                  "text": "Un club de plajă pentru adulți în marina Portomaso.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494667,
+                        35.922782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Reef Club",
+                  "text": "An exclusive swimming area located in the Portomaso Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494153,
+                        35.92527
+                  ]
+            },
+            {
+                  "name": "Merkanti Beach Club 16+",
+                  "text": "An adult-only beach club located in the Portomaso Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        14.494667,
+                        35.922782
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MT",
     coords: [14.492, 35.923],
@@ -6309,7 +6435,88 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "port-st-thomas-bay-extra",
+    id: "port-st-thomas-bay-extra", "sights": {
+      "de": [
+            {
+                  "name": "Sensi",
+                  "text": "Ein modern gestaltetes Strandbad in der St. Thomas Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.565296,
+                        35.855046
+                  ]
+            },
+            {
+                  "name": "Legends",
+                  "text": "Ein beliebter Ort für Freizeitaktivitäten am Meer in der St. Thomas Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.563768,
+                        35.854705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sensi",
+                  "text": "Modern kialakítású strandfürdő a Szent Tamás-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.565296,
+                        35.855046
+                  ]
+            },
+            {
+                  "name": "Legends",
+                  "text": "Népszerű tengerparti szabadidős helyszín a Szent Tamás-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.563768,
+                        35.854705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sensi",
+                  "text": "O stațiune de plajă modernă în golful St. Thomas.",
+                  "category": "recreational",
+                  "coords": [
+                        14.565296,
+                        35.855046
+                  ]
+            },
+            {
+                  "name": "Legends",
+                  "text": "Un loc popular pentru activități de agrement la mare în golful St. Thomas.",
+                  "category": "recreational",
+                  "coords": [
+                        14.563768,
+                        35.854705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sensi",
+                  "text": "A modernly designed beach resort in St. Thomas Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.565296,
+                        35.855046
+                  ]
+            },
+            {
+                  "name": "Legends",
+                  "text": "A popular spot for seaside leisure activities in St. Thomas Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.563768,
+                        35.854705
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MT",
     coords: [14.558, 35.856],
@@ -7900,7 +8107,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "landscape-coral-lagoon-malta-extra",
+    id: "landscape-coral-lagoon-malta-extra", "sights": {
+      "de": [
+            {
+                  "name": "Palm Beach Lido",
+                  "text": "Ein Strandbad in der Nähe der Coral Lagoon im Norden Maltas.",
+                  "category": "recreational",
+                  "coords": [
+                        14.356671,
+                        35.989084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palm Beach Lido",
+                  "text": "Strandfürdő a máltai Coral Lagoon közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.356671,
+                        35.989084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palm Beach Lido",
+                  "text": "Un ștrand situat lângă Coral Lagoon, în nordul Maltei.",
+                  "category": "recreational",
+                  "coords": [
+                        14.356671,
+                        35.989084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palm Beach Lido",
+                  "text": "A lido and beach area located near the Coral Lagoon in northern Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.356671,
+                        35.989084
+                  ]
+            }
+      ]
+},
     type: "geo",
     parent: "MT",
     coords: [14.35, 35.98],

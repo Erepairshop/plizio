@@ -2370,6 +2370,15 @@ export const denmarkRegions: POI[] = [
                         10.229538,
                         56.16774
                   ]
+            },
+            {
+                  "name": "Havnebadet",
+                  "text": "Ein modernes Hafenbad in Aarhus, entworfen von der Bjarke Ingels Group.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225148,
+                        56.163629
+                  ]
             }
       ],
       "hu": [
@@ -2902,6 +2911,15 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.229538,
                         56.16774
+                  ]
+            },
+            {
+                  "name": "Havnebadet",
+                  "text": "Modern kikötői fürdő Aarhusban, a Bjarke Ingels Group tervezésében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225148,
+                        56.163629
                   ]
             }
       ],
@@ -3436,6 +3454,15 @@ export const denmarkRegions: POI[] = [
                         10.229538,
                         56.16774
                   ]
+            },
+            {
+                  "name": "Havnebadet",
+                  "text": "O baie publică modernă în portul din Aarhus, proiectată de Bjarke Ingels Group.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225148,
+                        56.163629
+                  ]
             }
       ],
       "en": [
@@ -3968,6 +3995,15 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.229538,
                         56.16774
+                  ]
+            },
+            {
+                  "name": "Havnebadet",
+                  "text": "A modern harbor bath in Aarhus, designed by the Bjarke Ingels Group.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225148,
+                        56.163629
                   ]
             }
       ]
@@ -4600,6 +4636,15 @@ export const denmarkRegions: POI[] = [
                         10.388375,
                         55.406345
                   ]
+            },
+            {
+                  "name": "Odense Zoo",
+                  "text": "Einer der größten Zoos Dänemarks in Odense, bekannt für seine vielfältigen Tierarten und artgerechten Gehege.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373769,
+                        55.377451
+                  ]
             }
       ],
       "hu": [
@@ -5186,6 +5231,15 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.388375,
                         55.406345
+                  ]
+            },
+            {
+                  "name": "Odense Zoo",
+                  "text": "Dánia egyik legnagyobb állatkertje Odensében, amely változatos állatfajairól és korszerű kifutóiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373769,
+                        55.377451
                   ]
             }
       ],
@@ -5774,6 +5828,15 @@ export const denmarkRegions: POI[] = [
                         10.388375,
                         55.406345
                   ]
+            },
+            {
+                  "name": "Odense Zoo",
+                  "text": "Una dintre cele mai mari grădini zoologice din Danemarca, situată în Odense, cunoscută pentru speciile diverse și incintele moderne.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373769,
+                        55.377451
+                  ]
             }
       ],
       "en": [
@@ -6360,6 +6423,15 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.388375,
                         55.406345
+                  ]
+            },
+            {
+                  "name": "Odense Zoo",
+                  "text": "One of Denmark's largest zoos in Odense, known for its diverse animal species and modern enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373769,
+                        55.377451
                   ]
             }
       ]
@@ -18468,6 +18540,24 @@ export const denmarkCulture: POI[] = [
                         9.116993,
                         55.731411
                   ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Ein Abenteuerpark in Billund mit naturnahen Aktivitäten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Ein bekannter Indoor-Wasserpark und Aktivitätszentrum direkt neben dem Legoland Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "hu": [
@@ -18532,6 +18622,24 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.116993,
                         55.731411
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Billundi kalandpark, amely természetközeli programokat kínál családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Ismert fedett vízi park és élményközpont a billundi Legoland mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ],
@@ -18598,6 +18706,24 @@ export const denmarkCulture: POI[] = [
                         9.116993,
                         55.731411
                   ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Un parc de aventură situat în Billund, care oferă activități bazate pe natură pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Un cunoscut parc acvatic interior și centru de activități situat lângă Legoland Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "en": [
@@ -18662,6 +18788,24 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.116993,
                         55.731411
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "An adventure park located in Billund offering nature-based activities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "A well-known indoor water park and activity center located adjacent to Legoland Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ]
@@ -18795,7 +18939,88 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/nyhavn.webp",
  },
  {
- id: "cult-little-mermaid",
+ id: "cult-little-mermaid", "sights": {
+      "de": [
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "Moderne Badezone in Kopenhagen, die sich im Hafenbecken in der Nähe der Kleinen Meerjungfrau befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60961,
+                        55.690077
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "Ein urbaner Badeort in Kopenhagen, der für seine entspannte Atmosphäre am Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610528,
+                        55.689396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "Modern fürdőhely Koppenhágában, amely a kikötőben található, a Kis hableány szobra közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60961,
+                        55.690077
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "Városi fürdőhely Koppenhágában, amely a vízparti pihentető hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610528,
+                        55.689396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "Zonă modernă de scăldat în Copenhaga, situată în bazinul portuar, aproape de Statuia Micuței Sirene.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60961,
+                        55.690077
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "Un loc de scăldat urban în Copenhaga, cunoscut pentru atmosfera sa relaxată de pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610528,
+                        55.689396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "Modern bathing zone in Copenhagen, located in the harbor basin near the Little Mermaid statue.",
+                  "category": "recreational",
+                  "coords": [
+                        12.60961,
+                        55.690077
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "An urban swimming spot in Copenhagen, known for its relaxed waterfront atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610528,
+                        55.689396
+                  ]
+            }
+      ]
+},
  type: "landmark",
  parent: "denmark",
  coords: [12.5993, 55.6929],
@@ -19160,6 +19385,24 @@ export const denmarkCulture: POI[] = [
                         9.1274,
                         55.735283
                   ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Ein Erlebnispark in Billund, der Outdoor-Aktivitäten in der Nähe des LEGO House bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Ein bekannter Wasserpark in Billund mit zahlreichen Rutschen und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "hu": [
@@ -19224,6 +19467,24 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.1274,
                         55.735283
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Kalandpark Billundban, amely szabadtéri játékokat kínál a LEGO House közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Népszerű vízipark Billundban, számos csúszdával és medencével.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ],
@@ -19290,6 +19551,24 @@ export const denmarkCulture: POI[] = [
                         9.1274,
                         55.735283
                   ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Un parc de distracții în Billund care oferă activități în aer liber lângă LEGO House.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Un parc acvatic popular în Billund, dotat cu numeroase tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "en": [
@@ -19354,6 +19633,24 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.1274,
                         55.735283
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "An adventure park in Billund offering outdoor play activities near LEGO House.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "A well-known water park in Billund featuring multiple slides and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ]
@@ -19574,7 +19871,52 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/port-copenhagen.webp",
  },
  {
- id: "port-aarhus",
+ id: "port-aarhus", "sights": {
+      "de": [
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "Eine moderne Freiluft-Schwimmbahnanlage im Hafen von Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.229446,
+                        56.16758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "Modern szabadtéri úszópálya Aarhus kikötőjében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.229446,
+                        56.16758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "O facilitate modernă de înot în aer liber în Portul Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.229446,
+                        56.16758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "A modern outdoor swimming lane facility in the Port of Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.229446,
+                        56.16758
+                  ]
+            }
+      ]
+},
  type: "port",
  parent: "DK",
  coords: [10.2216, 56.1553],
@@ -19617,7 +19959,88 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/port-aarhus.webp",
  },
  {
- id: "port-esbjerg",
+ id: "port-esbjerg", "sights": {
+      "de": [
+            {
+                  "name": "Aqtiv",
+                  "text": "Ein Badebereich in Esbjerg.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415549,
+                        55.483462
+                  ]
+            },
+            {
+                  "name": "Sædding Strand",
+                  "text": "Ein Strand in Esbjerg, bekannt für das Denkmal 'Der Mensch am Meer'.",
+                  "category": "recreational",
+                  "coords": [
+                        8.397009,
+                        55.495793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqtiv",
+                  "text": "Egy fürdőhely Esbjergben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415549,
+                        55.483462
+                  ]
+            },
+            {
+                  "name": "Sædding Strand",
+                  "text": "Egy strand Esbjergben, amely „Az ember a tengernél” emlékművéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        8.397009,
+                        55.495793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqtiv",
+                  "text": "O zonă de înot în Esbjerg.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415549,
+                        55.483462
+                  ]
+            },
+            {
+                  "name": "Sædding Strand",
+                  "text": "O plajă în Esbjerg, renumită pentru monumentul „Omul la Mare”.",
+                  "category": "recreational",
+                  "coords": [
+                        8.397009,
+                        55.495793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqtiv",
+                  "text": "A swimming area in Esbjerg.",
+                  "category": "recreational",
+                  "coords": [
+                        8.415549,
+                        55.483462
+                  ]
+            },
+            {
+                  "name": "Sædding Strand",
+                  "text": "A beach in Esbjerg, famous for the 'Men at Sea' monument.",
+                  "category": "recreational",
+                  "coords": [
+                        8.397009,
+                        55.495793
+                  ]
+            }
+      ]
+},
  type: "port",
  parent: "DK",
  coords: [8.4103, 55.4705],
@@ -19810,6 +20233,24 @@ export const denmarkCulture: POI[] = [
                         9.1274,
                         55.735283
                   ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Ein Outdoor-Abenteuerpark in Billund mit Kletterbäumen und Waldaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Ein großes tropisches Ferienresort und Wasserpark in Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "hu": [
@@ -19874,6 +20315,24 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.1274,
                         55.735283
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Billundi szabadtéri kalandpark mászófákkal és erdei tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "Nagy trópusi üdülőközpont és vízi park Billundban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ],
@@ -19940,6 +20399,24 @@ export const denmarkCulture: POI[] = [
                         9.1274,
                         55.735283
                   ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Un parc de aventură în aer liber în Billund, cu arbori pentru cățărat și activități forestiere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "O stațiune de vacanță tropicală mare și un parc acvatic situate în Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
+                  ]
             }
       ],
       "en": [
@@ -20004,6 +20481,24 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.1274,
                         55.735283
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "An outdoor adventure park in Billund featuring climbing trees and forest activities.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            },
+            {
+                  "name": "Lalandia Billund",
+                  "text": "A large tropical holiday resort and water park located in Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.138588,
+                        55.73292
                   ]
             }
       ]
@@ -21592,6 +22087,15 @@ export const denmarkNature: POI[] = [
                         12.501001,
                         54.991109
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Eine Schwimmeinrichtung bei den Kreidefelsen von Møns Klint.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
+                  ]
             }
       ],
       "hu": [
@@ -21656,6 +22160,15 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         12.501001,
                         54.991109
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Fürdőhely a Møns Klint krétafehér sziklái közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
                   ]
             }
       ],
@@ -21722,6 +22235,15 @@ export const denmarkNature: POI[] = [
                         12.501001,
                         54.991109
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "O instalație de înot lângă stâncile de cretă de la Møns Klint.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
+                  ]
             }
       ],
       "en": [
@@ -21786,6 +22308,15 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         12.501001,
                         54.991109
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "A swimming facility located near the chalk cliffs of Møns Klint.",
+                  "category": "recreational",
+                  "coords": [
+                        12.521788,
+                        54.980283
                   ]
             }
       ]
@@ -21896,6 +22427,15 @@ export const denmarkNature: POI[] = [
                         8.761472,
                         55.328079
                   ]
+            },
+            {
+                  "name": "Minidyrehaven Ribelund",
+                  "text": "Ein kleiner Tierpark in der Nähe des Wattenmeeres.",
+                  "category": "recreational",
+                  "coords": [
+                        8.774414,
+                        55.323626
+                  ]
             }
       ],
       "hu": [
@@ -21960,6 +22500,15 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         8.761472,
                         55.328079
+                  ]
+            },
+            {
+                  "name": "Minidyrehaven Ribelund",
+                  "text": "Egy kis állatkert a Watt-tenger közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.774414,
+                        55.323626
                   ]
             }
       ],
@@ -22026,6 +22575,15 @@ export const denmarkNature: POI[] = [
                         8.761472,
                         55.328079
                   ]
+            },
+            {
+                  "name": "Minidyrehaven Ribelund",
+                  "text": "O mică grădină zoologică situată lângă Marea Wadden.",
+                  "category": "recreational",
+                  "coords": [
+                        8.774414,
+                        55.323626
+                  ]
             }
       ],
       "en": [
@@ -22090,6 +22648,15 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         8.761472,
                         55.328079
+                  ]
+            },
+            {
+                  "name": "Minidyrehaven Ribelund",
+                  "text": "A small zoo located near the Wadden Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        8.774414,
+                        55.323626
                   ]
             }
       ]

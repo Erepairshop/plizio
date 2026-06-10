@@ -40,6 +40,15 @@ export const norwayEconomicV2: POI[] = [
                         4.877181,
                         60.530288
                   ]
+            },
+            {
+                  "name": "Øygarden kulturhus - Rong svømmebasseng",
+                  "text": "Ein öffentliches Schwimmbad im Kulturzentrum Øygarden in der Nähe von Rong.",
+                  "category": "recreational",
+                  "coords": [
+                        4.903637,
+                        60.5163
+                  ]
             }
       ],
       "hu": [
@@ -77,6 +86,15 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         4.877181,
                         60.530288
+                  ]
+            },
+            {
+                  "name": "Øygarden kulturhus - Rong svømmebasseng",
+                  "text": "Rong közelében, az Øygarden kulturális központban található nyilvános uszoda.",
+                  "category": "recreational",
+                  "coords": [
+                        4.903637,
+                        60.5163
                   ]
             }
       ],
@@ -116,6 +134,15 @@ export const norwayEconomicV2: POI[] = [
                         4.877181,
                         60.530288
                   ]
+            },
+            {
+                  "name": "Øygarden kulturhus - Rong svømmebasseng",
+                  "text": "O piscină publică situată în centrul cultural Øygarden de lângă Rong.",
+                  "category": "recreational",
+                  "coords": [
+                        4.903637,
+                        60.5163
+                  ]
             }
       ],
       "en": [
@@ -153,6 +180,15 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         4.877181,
                         60.530288
+                  ]
+            },
+            {
+                  "name": "Øygarden kulturhus - Rong svømmebasseng",
+                  "text": "A public swimming pool located in the Øygarden cultural center near Rong.",
+                  "category": "recreational",
+                  "coords": [
+                        4.903637,
+                        60.5163
                   ]
             }
       ]
@@ -598,6 +634,15 @@ export const norwayEconomicV2: POI[] = [
                         13.958915,
                         66.816457
                   ]
+            },
+            {
+                  "name": "Meløy fritidsbad",
+                  "text": "Ein Gemeinschaftsschwimmbad in der Nähe des Industriestandorts Glomfjord.",
+                  "category": "recreational",
+                  "coords": [
+                        13.929217,
+                        66.815602
+                  ]
             }
       ],
       "hu": [
@@ -608,6 +653,15 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         13.958915,
                         66.816457
+                  ]
+            },
+            {
+                  "name": "Meløy fritidsbad",
+                  "text": "Egy közösségi úszómedence a Glomfjord ipari terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.929217,
+                        66.815602
                   ]
             }
       ],
@@ -620,6 +674,15 @@ export const norwayEconomicV2: POI[] = [
                         13.958915,
                         66.816457
                   ]
+            },
+            {
+                  "name": "Meløy fritidsbad",
+                  "text": "O piscină comunitară situată lângă situl industrial Glomfjord.",
+                  "category": "recreational",
+                  "coords": [
+                        13.929217,
+                        66.815602
+                  ]
             }
       ],
       "en": [
@@ -630,6 +693,15 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         13.958915,
                         66.816457
+                  ]
+            },
+            {
+                  "name": "Meløy fritidsbad",
+                  "text": "A community swimming pool located near the Glomfjord industrial site.",
+                  "category": "recreational",
+                  "coords": [
+                        13.929217,
+                        66.815602
                   ]
             }
       ]
@@ -1282,6 +1354,51 @@ export const norwayEconomicV2: POI[] = [
                         5.535865,
                         59.791264
                   ]
+            },
+            {
+                  "name": "Aslaksvikjo",
+                  "text": "Aslaksvikjo ist ein Strand in Stord Maritime Industry.",
+                  "category": "recreational",
+                  "coords": [
+                        5.520862,
+                        59.790107
+                  ]
+            },
+            {
+                  "name": "Stord svømmehall",
+                  "text": "Ein lokales Hallenbad, das der Gemeinde Stord dient.",
+                  "category": "recreational",
+                  "coords": [
+                        5.497593,
+                        59.778656
+                  ]
+            },
+            {
+                  "name": "Nysæter ungdomsskule, symjebasseng",
+                  "text": "Ein Schwimmbecken an der Nysæter-Jugendschule in Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.398678,
+                        59.784109
+                  ]
+            },
+            {
+                  "name": "Stord bu- og rehab. svømmehall",
+                  "text": "Eine spezialisierte Schwimmeinrichtung für Bewohner und zur Rehabilitation in Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.496932,
+                        59.782442
+                  ]
+            },
+            {
+                  "name": "Sunnhordlandstunet",
+                  "text": "Ein Freilichtmuseum und Park, der traditionelle Gebäude aus der Region Sunnhordland zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.501058,
+                        59.783499
+                  ]
             }
       ],
       "hu": [
@@ -1355,6 +1472,51 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         5.535865,
                         59.791264
+                  ]
+            },
+            {
+                  "name": "Aslaksvikjo",
+                  "text": "Az Aslaksvikjo egy strand Stord Maritime Industry területén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.520862,
+                        59.790107
+                  ]
+            },
+            {
+                  "name": "Stord svømmehall",
+                  "text": "Helyi fedett uszoda Stord közössége számára.",
+                  "category": "recreational",
+                  "coords": [
+                        5.497593,
+                        59.778656
+                  ]
+            },
+            {
+                  "name": "Nysæter ungdomsskule, symjebasseng",
+                  "text": "Úszómedence a stordi Nysæter ifjúsági iskolában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.398678,
+                        59.784109
+                  ]
+            },
+            {
+                  "name": "Stord bu- og rehab. svømmehall",
+                  "text": "Speciális úszólétesítmény lakossági és rehabilitációs célokra Stordban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.496932,
+                        59.782442
+                  ]
+            },
+            {
+                  "name": "Sunnhordlandstunet",
+                  "text": "Szabadtéri múzeum és park, amely a Sunnhordland régió hagyományos épületeit mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        5.501058,
+                        59.783499
                   ]
             }
       ],
@@ -1430,6 +1592,51 @@ export const norwayEconomicV2: POI[] = [
                         5.535865,
                         59.791264
                   ]
+            },
+            {
+                  "name": "Aslaksvikjo",
+                  "text": "Aslaksvikjo este o plajă din Stord Maritime Industry.",
+                  "category": "recreational",
+                  "coords": [
+                        5.520862,
+                        59.790107
+                  ]
+            },
+            {
+                  "name": "Stord svømmehall",
+                  "text": "O piscină interioară locală care deservește comunitatea Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.497593,
+                        59.778656
+                  ]
+            },
+            {
+                  "name": "Nysæter ungdomsskule, symjebasseng",
+                  "text": "O piscină situată la școala de tineret Nysæter din Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.398678,
+                        59.784109
+                  ]
+            },
+            {
+                  "name": "Stord bu- og rehab. svømmehall",
+                  "text": "O facilitate de înot specializată pentru rezidenți și reabilitare în Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.496932,
+                        59.782442
+                  ]
+            },
+            {
+                  "name": "Sunnhordlandstunet",
+                  "text": "Un muzeu în aer liber și parc care prezintă clădiri tradiționale din regiunea Sunnhordland.",
+                  "category": "recreational",
+                  "coords": [
+                        5.501058,
+                        59.783499
+                  ]
             }
       ],
       "en": [
@@ -1503,6 +1710,51 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         5.535865,
                         59.791264
+                  ]
+            },
+            {
+                  "name": "Aslaksvikjo",
+                  "text": "Aslaksvikjo is a beach in Stord Maritime Industry.",
+                  "category": "recreational",
+                  "coords": [
+                        5.520862,
+                        59.790107
+                  ]
+            },
+            {
+                  "name": "Stord svømmehall",
+                  "text": "A local indoor swimming pool serving the Stord community.",
+                  "category": "recreational",
+                  "coords": [
+                        5.497593,
+                        59.778656
+                  ]
+            },
+            {
+                  "name": "Nysæter ungdomsskule, symjebasseng",
+                  "text": "A swimming pool located at the Nysæter youth school in Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.398678,
+                        59.784109
+                  ]
+            },
+            {
+                  "name": "Stord bu- og rehab. svømmehall",
+                  "text": "A specialized swimming facility for residents and rehabilitation in Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.496932,
+                        59.782442
+                  ]
+            },
+            {
+                  "name": "Sunnhordlandstunet",
+                  "text": "An open-air museum and park showcasing traditional buildings from the Sunnhordland region.",
+                  "category": "recreational",
+                  "coords": [
+                        5.501058,
+                        59.783499
                   ]
             }
       ]
@@ -1686,7 +1938,268 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-mosjoen-industrial-park-economic-v2.webp",
   },
   {
-    id: "norway-moss-logistics-hub-economic-v2",
+    id: "norway-moss-logistics-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festestranda",
+                  "text": "Ein öffentlicher Strand in Moss, der Freizeitgestaltung am Oslofjord ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        10.655728,
+                        59.414108
+                  ]
+            },
+            {
+                  "name": "Tronvikstranda",
+                  "text": "Ein öffentlicher Strand in Moss am Oslofjord, der ideal für sommerliche Aktivitäten ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.6075,
+                        59.439895
+                  ]
+            },
+            {
+                  "name": "Albystranda",
+                  "text": "Ein öffentlicher Strand in Moss, der Entspannung am Ufer des Oslofjords bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.602209,
+                        59.418089
+                  ]
+            },
+            {
+                  "name": "Fiskestranda",
+                  "text": "Ein beliebter lokaler Strand in Moss mit Zugang zum Wasser des Oslofjords.",
+                  "category": "recreational",
+                  "coords": [
+                        10.645614,
+                        59.429149
+                  ]
+            },
+            {
+                  "name": "Vårlistranda",
+                  "text": "Ein Küstenstrand in Moss, der den Bewohnern und Besuchern Zugang zum Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642446,
+                        59.428082
+                  ]
+            },
+            {
+                  "name": "Sølystranda",
+                  "text": "Ein öffentlicher Strand in Moss, der für seine ruhige Lage am Oslofjord bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638737,
+                        59.426167
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Ein zentraler Badeplatz in Moss, der Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.651135,
+                        59.431201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Festestranda",
+                  "text": "Moss nyilvános strandja, amely kikapcsolódási lehetőséget nyújt az Oslo-fjord partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.655728,
+                        59.414108
+                  ]
+            },
+            {
+                  "name": "Tronvikstranda",
+                  "text": "Nyilvános strand Moss területén az Oslo-fjord mentén, amely ideális nyári tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        10.6075,
+                        59.439895
+                  ]
+            },
+            {
+                  "name": "Albystranda",
+                  "text": "Moss nyilvános strandja, amely kikapcsolódást kínál az Oslo-fjord partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.602209,
+                        59.418089
+                  ]
+            },
+            {
+                  "name": "Fiskestranda",
+                  "text": "Népszerű helyi strand Mossban, hozzáféréssel az Oslo-fjord vizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        10.645614,
+                        59.429149
+                  ]
+            },
+            {
+                  "name": "Vårlistranda",
+                  "text": "Tengerparti strand Mossban, amely hozzáférést biztosít a tengerhez a lakók és látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642446,
+                        59.428082
+                  ]
+            },
+            {
+                  "name": "Sølystranda",
+                  "text": "Moss nyilvános strandja, amely az Oslo-fjord melletti nyugodt elhelyezkedéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638737,
+                        59.426167
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Moss központi fürdőhelye, amely kikapcsolódási lehetőséget nyújt a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        10.651135,
+                        59.431201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Festestranda",
+                  "text": "O plajă publică din Moss care oferă acces recreativ la Oslofjord.",
+                  "category": "recreational",
+                  "coords": [
+                        10.655728,
+                        59.414108
+                  ]
+            },
+            {
+                  "name": "Tronvikstranda",
+                  "text": "O plajă publică din Moss pe Oslofjord, ideală pentru activități de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        10.6075,
+                        59.439895
+                  ]
+            },
+            {
+                  "name": "Albystranda",
+                  "text": "O plajă publică din Moss care oferă relaxare pe malul Oslofjordului.",
+                  "category": "recreational",
+                  "coords": [
+                        10.602209,
+                        59.418089
+                  ]
+            },
+            {
+                  "name": "Fiskestranda",
+                  "text": "O plajă locală populară din Moss, cu acces la apele Oslofjordului.",
+                  "category": "recreational",
+                  "coords": [
+                        10.645614,
+                        59.429149
+                  ]
+            },
+            {
+                  "name": "Vårlistranda",
+                  "text": "O plajă de coastă din Moss care oferă acces la mare pentru rezidenți și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642446,
+                        59.428082
+                  ]
+            },
+            {
+                  "name": "Sølystranda",
+                  "text": "O plajă publică din Moss, cunoscută pentru locația sa liniștită pe malul Oslofjordului.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638737,
+                        59.426167
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Un loc central de scăldat din Moss, care oferă relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        10.651135,
+                        59.431201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Festestranda",
+                  "text": "A public beach in Moss providing recreational access to the Oslofjord.",
+                  "category": "recreational",
+                  "coords": [
+                        10.655728,
+                        59.414108
+                  ]
+            },
+            {
+                  "name": "Tronvikstranda",
+                  "text": "A public beach in Moss on the Oslofjord, ideal for summer activities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.6075,
+                        59.439895
+                  ]
+            },
+            {
+                  "name": "Albystranda",
+                  "text": "A public beach in Moss offering relaxation on the shores of the Oslofjord.",
+                  "category": "recreational",
+                  "coords": [
+                        10.602209,
+                        59.418089
+                  ]
+            },
+            {
+                  "name": "Fiskestranda",
+                  "text": "A popular local beach in Moss with access to the waters of the Oslofjord.",
+                  "category": "recreational",
+                  "coords": [
+                        10.645614,
+                        59.429149
+                  ]
+            },
+            {
+                  "name": "Vårlistranda",
+                  "text": "A coastal beach in Moss providing access to the sea for residents and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        10.642446,
+                        59.428082
+                  ]
+            },
+            {
+                  "name": "Sølystranda",
+                  "text": "A public beach in Moss known for its quiet location on the Oslofjord.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638737,
+                        59.426167
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "A central bathing spot in Moss offering seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.651135,
+                        59.431201
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Logistikzentrum Moss", hu: "Moss-i logisztikai központ", ro: "Hub logistic Moss", en: "Moss Logistics Hub" },
@@ -2118,7 +2631,88 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-notodden-industrial-cluster-economic-v2.webp",
   },
   {
-    id: "norway-hammerfest-gas-terminal-economic-v2",
+    id: "norway-hammerfest-gas-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stranda",
+                  "text": "Ein Strand bei Hammerfest.",
+                  "category": "recreational",
+                  "coords": [
+                        23.706052,
+                        70.683636
+                  ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "Ein See bei Hammerfest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.703509,
+                        70.68188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stranda",
+                  "text": "Egy strand Hammerfest közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.706052,
+                        70.683636
+                  ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "Egy tó Hammerfest közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.703509,
+                        70.68188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stranda",
+                  "text": "O plajă lângă Hammerfest.",
+                  "category": "recreational",
+                  "coords": [
+                        23.706052,
+                        70.683636
+                  ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "Un lac lângă Hammerfest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.703509,
+                        70.68188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stranda",
+                  "text": "A beach near Hammerfest.",
+                  "category": "recreational",
+                  "coords": [
+                        23.706052,
+                        70.683636
+                  ]
+            },
+            {
+                  "name": "Storvannet",
+                  "text": "A lake located near Hammerfest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.703509,
+                        70.68188
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Gasterminal Hammerfest", hu: "Hammerfesti gázterminál", ro: "Terminalul de gaze Hammerfest", en: "Hammerfest Gas Terminal" },
@@ -2163,7 +2757,124 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-hammerfest-gas-terminal-economic-v2.webp",
   },
   {
-    id: "norway-brevik-cement-plant-economic-v2",
+    id: "norway-brevik-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dikkon",
+                  "text": "Ein lokaler Badeplatz in der Nähe des Zementwerks Brevik in Norwegen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.723922,
+                        59.059425
+                  ]
+            },
+            {
+                  "name": "Heistadstranda",
+                  "text": "Ein beliebter lokaler Strand im Viertel Heistad in der Nähe von Brevik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.690673,
+                        59.075635
+                  ]
+            },
+            {
+                  "name": "Brønnstadbukta",
+                  "text": "Ein malerischer Küstenabschnitt und Strandbereich in der Nähe von Brevik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.718557,
+                        59.07808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dikkon",
+                  "text": "Egy helyi fürdőhely a norvégiai Brevik cementgyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.723922,
+                        59.059425
+                  ]
+            },
+            {
+                  "name": "Heistadstranda",
+                  "text": "Egy népszerű helyi strand Heistad környékén, Brevik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.690673,
+                        59.075635
+                  ]
+            },
+            {
+                  "name": "Brønnstadbukta",
+                  "text": "Egy festői tengerparti szakasz és strandterület a norvégiai Brevik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.718557,
+                        59.07808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dikkon",
+                  "text": "O zonă locală de înot situată lângă fabrica de ciment Brevik din Norvegia.",
+                  "category": "recreational",
+                  "coords": [
+                        9.723922,
+                        59.059425
+                  ]
+            },
+            {
+                  "name": "Heistadstranda",
+                  "text": "O plajă locală populară situată în zona Heistad, lângă Brevik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.690673,
+                        59.075635
+                  ]
+            },
+            {
+                  "name": "Brønnstadbukta",
+                  "text": "Un punct de coastă pitoresc și o zonă de plajă lângă Brevik în Norvegia.",
+                  "category": "recreational",
+                  "coords": [
+                        9.718557,
+                        59.07808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dikkon",
+                  "text": "A local swimming area located near the Brevik Cement Plant in Norway.",
+                  "category": "recreational",
+                  "coords": [
+                        9.723922,
+                        59.059425
+                  ]
+            },
+            {
+                  "name": "Heistadstranda",
+                  "text": "A popular local beach located in the Heistad area near Brevik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.690673,
+                        59.075635
+                  ]
+            },
+            {
+                  "name": "Brønnstadbukta",
+                  "text": "A scenic coastal spot and beach area near Brevik in Norway.",
+                  "category": "recreational",
+                  "coords": [
+                        9.718557,
+                        59.07808
+                  ]
+            }
+      ]
+},
     type: "factory",
     parent: "NO",
     name: { de: "Zementwerk Brevik", hu: "Breviki cementgyár", ro: "Fabrica de ciment Brevik", en: "Brevik Cement Plant" },

@@ -826,7 +826,88 @@ imageHint: "Lake Myvatn with ducks and wetlands",
     },
     image: "/poi-images/iceland-myvatn-bird-reserve-life-v2.webp",
 },  {
-    id: "iceland-dyrholaey-life-v2",
+    id: "iceland-dyrholaey-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dyrhólafjara",
+                  "text": "Ein beeindruckender schwarzer Sandstrand in der Nähe des Kaps Dyrhólaey in Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.17273,
+                        63.412706
+                  ]
+            },
+            {
+                  "name": "Kirkjufjara",
+                  "text": "Ein malerischer Strand im Naturschutzgebiet Dyrhólaey, bekannt für seine starken Wellen.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.113968,
+                        63.402616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dyrhólafjara",
+                  "text": "Lenyűgöző fekete homokos tengerpart az izlandi Dyrhólaey-fok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.17273,
+                        63.412706
+                  ]
+            },
+            {
+                  "name": "Kirkjufjara",
+                  "text": "Festői tengerpart a Dyrhólaey természetvédelmi területen, erős hullámairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.113968,
+                        63.402616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dyrhólafjara",
+                  "text": "O plajă impresionantă cu nisip negru situată lângă capul Dyrhólaey din Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.17273,
+                        63.412706
+                  ]
+            },
+            {
+                  "name": "Kirkjufjara",
+                  "text": "O plajă pitorească în rezervația naturală Dyrhólaey, cunoscută pentru valurile puternice.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.113968,
+                        63.402616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dyrhólafjara",
+                  "text": "An impressive black sand beach located near the Dyrhólaey cape in Iceland.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.17273,
+                        63.412706
+                  ]
+            },
+            {
+                  "name": "Kirkjufjara Beach",
+                  "text": "A scenic beach in the Dyrhólaey nature reserve, known for its powerful waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.113968,
+                        63.402616
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Dyrhólaey", hu: "Dyrhólaey Természetvédelmi Terület", ro: "Rezervația Naturală Dyrhólaey", en: "Dyrholaey Nature Reserve"},

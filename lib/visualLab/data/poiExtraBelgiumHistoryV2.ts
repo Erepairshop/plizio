@@ -597,6 +597,24 @@ imageHint: "Citadel of Namur overlooking the river",
                         5.040985,
                         49.806544
                   ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "Ein natürlicher Badebereich an der Semois in der Nähe der Burg Bouillon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "Ein Badeplatz am Flussufer in Bouillon mit Blick auf die historische Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
+                  ]
             }
       ],
       "hu": [
@@ -670,6 +688,24 @@ imageHint: "Citadel of Namur overlooking the river",
                   "coords": [
                         5.040985,
                         49.806544
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "Természetes fürdőhely a Semois-folyónál, a bouilloni vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "Folyóparti fürdőhely Bouillonban, kilátással a történelmi városra.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
                   ]
             }
       ],
@@ -745,6 +781,24 @@ imageHint: "Citadel of Namur overlooking the river",
                         5.040985,
                         49.806544
                   ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "O zonă naturală de scăldat pe râul Semois, lângă castelul Bouillon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "Un loc de scăldat pe malul râului în Bouillon, cu vedere spre orașul istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
+                  ]
             }
       ],
       "en": [
@@ -818,6 +872,24 @@ imageHint: "Citadel of Namur overlooking the river",
                   "coords": [
                         5.040985,
                         49.806544
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
+                  "text": "A natural swimming area on the Semois river near the Castle of Bouillon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.0644,
+                        49.793635
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Bouillon - Pont de France",
+                  "text": "A riverside swimming spot in Bouillon with views of the historic town.",
+                  "category": "recreational",
+                  "coords": [
+                        5.065588,
+                        49.789032
                   ]
             }
       ]
@@ -2308,6 +2380,15 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         5.209747,
                         50.117645
                   ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "Ein bedeutendes Naturschutzgebiet mit bekannten Tropfsteinhöhlen und Wildpark.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
+                  ]
             }
       ],
       "hu": [
@@ -2372,6 +2453,15 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.209747,
                         50.117645
+                  ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "Jelentős természetvédelmi terület híres cseppkőbarlangokkal és vadasparkkal.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
                   ]
             }
       ],
@@ -2438,6 +2528,15 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         5.209747,
                         50.117645
                   ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "O rezervație naturală importantă, celebră pentru peșterile sale și parcul cu animale sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
+                  ]
             }
       ],
       "en": [
@@ -2502,6 +2601,15 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.209747,
                         50.117645
+                  ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "A major nature reserve famous for its caves and wildlife park.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
                   ]
             }
       ]

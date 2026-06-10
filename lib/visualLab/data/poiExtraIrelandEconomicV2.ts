@@ -85,6 +85,24 @@ export const irelandEconomicV2: POI[] = [
                         -7.762462,
                         53.562604
                   ]
+            },
+            {
+                  "name": "Aqua Sana",
+                  "text": "Ein Wellness- und Spa-Zentrum bei Ballymahon, das vielfältige Erholungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.707077,
+                        53.554271
+                  ]
+            },
+            {
+                  "name": "Subtropical Swimming Paradise",
+                  "text": "Ein subtropischer Wasserpark mit verschiedenen Pools und Rutschen in Ballymahon.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.706971,
+                        53.557205
+                  ]
             }
       ],
       "hu": [
@@ -122,6 +140,24 @@ export const irelandEconomicV2: POI[] = [
                   "coords": [
                         -7.762462,
                         53.562604
+                  ]
+            },
+            {
+                  "name": "Aqua Sana",
+                  "text": "Wellness- és gyógyfürdőközpont Ballymahon közelében, amely változatos kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.707077,
+                        53.554271
+                  ]
+            },
+            {
+                  "name": "Subtropical Swimming Paradise",
+                  "text": "Szubtrópusi élményfürdő különféle medencékkel és csúszdákkal Ballymahonban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.706971,
+                        53.557205
                   ]
             }
       ],
@@ -161,6 +197,24 @@ export const irelandEconomicV2: POI[] = [
                         -7.762462,
                         53.562604
                   ]
+            },
+            {
+                  "name": "Aqua Sana",
+                  "text": "Un centru de wellness și spa lângă Ballymahon, oferind diverse facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.707077,
+                        53.554271
+                  ]
+            },
+            {
+                  "name": "Subtropical Swimming Paradise",
+                  "text": "Un parc acvatic subtropical cu diverse piscine și tobogane în Ballymahon.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.706971,
+                        53.557205
+                  ]
             }
       ],
       "en": [
@@ -198,6 +252,24 @@ export const irelandEconomicV2: POI[] = [
                   "coords": [
                         -7.762462,
                         53.562604
+                  ]
+            },
+            {
+                  "name": "Aqua Sana",
+                  "text": "A wellness and spa center near Ballymahon, offering a wide range of relaxation facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.707077,
+                        53.554271
+                  ]
+            },
+            {
+                  "name": "Subtropical Swimming Paradise",
+                  "text": "A subtropical water park featuring various pools and slides in Ballymahon.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.706971,
+                        53.557205
                   ]
             }
       ]
@@ -1263,7 +1335,88 @@ export const irelandEconomicV2: POI[] = [
     image: "/poi-images/ireland-waterford-industrial-estate-economic-v2.webp",
   },
   {
-    id: "ireland-westport-business-park-economic-v2",
+    id: "ireland-westport-business-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunnyside",
+                  "text": "Sunnyside ist ein Badebereich im Westport Business Park, der zur Abkühlung im Wasser einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "The Point ist ein Badebereich im Westport Business Park, der als lokaler Ort zum Schwimmen dient.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunnyside",
+                  "text": "A Sunnyside egy fürdőhely a Westport Business Parkban, amely lehetőséget nyújt a felfrissülésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "A The Point egy fürdőhely a Westport Business Parkban, amely helyi úszóhelyként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunnyside",
+                  "text": "Sunnyside este o zonă de înot în Westport Business Park, oferind un loc pentru răcorire în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "The Point este o zonă de înot în Westport Business Park, servind ca loc local pentru scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunnyside",
+                  "text": "Sunnyside is a swimming area in Westport Business Park, offering a spot for a refreshing dip.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "The Point is a swimming area in Westport Business Park, serving as a local spot for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IE",
     name: { de: "Westport Gewerbepark", hu: "Westport üzleti park", ro: "Parcul de afaceri Westport", en: "Westport Business Park" },

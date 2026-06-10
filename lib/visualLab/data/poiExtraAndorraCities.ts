@@ -275,6 +275,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.681457,
                         42.522722
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Ein luxuriöses Wellness-Zentrum und Spa in den Bergen von El Tarter.",
+                  "category": "recreational",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "hu": [
@@ -546,6 +555,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.681457,
                         42.522722
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Luxus wellness-központ és gyógyfürdő El Tarter hegyei között.",
+                  "category": "recreational",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ],
@@ -819,6 +837,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.681457,
                         42.522722
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Un centru luxos de wellness și spa situat în munții din El Tarter.",
+                  "category": "recreational",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "en": [
@@ -1090,6 +1117,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.681457,
                         42.522722
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "A luxury wellness center and spa located in the mountains of El Tarter.",
+                  "category": "recreational",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ]
@@ -30929,6 +30965,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ein Außenpool des Hotels Rutllan in Anyós, der Gästen zur Verfügung steht.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -31236,6 +31281,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Hotel Rutllan szabadtéri úszómedencéje Anyósban, amely a vendégek rendelkezésére áll.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -31545,6 +31599,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "O piscină în aer liber la Hotel Rutllan din Anyós, disponibilă pentru oaspeți.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -31852,6 +31915,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "An outdoor swimming pool at Hotel Rutllan in Anyós, available for guests.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -36118,6 +36190,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ein Außenpool des Hotels Rutllan in Mas de Ribafeta, ideal zur Entspannung nach dem Wandern.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -36281,6 +36362,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Hotel Rutllan kültéri medencéje Mas de Ribafetában, ideális a túrázás utáni pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -36446,6 +36536,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din Mas de Ribafeta, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -36609,6 +36708,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "An outdoor swimming pool at Hotel Rutllan in Mas de Ribafeta, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -39602,6 +39710,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Das Außenschwimmbecken des Hotels Rutllan im Bereich Borda de Rossell.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -39837,6 +39954,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Hotel Rutllan szabadtéri medencéje Borda de Rossell környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -40074,6 +40200,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din zona Borda de Rossell.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -40309,6 +40444,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool of Hotel Rutllan located in the Borda de Rossell area.",
+                  "category": "recreational",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -57888,6 +58032,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.479889,
                         42.456721
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Ein Abenteuer- und Themenpark in Juberri, Andorra, mit verschiedenen Outdoor-Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "hu": [
@@ -57979,6 +58132,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.479889,
                         42.456721
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Egy kaland- és élménypark Juberriben, Andorrában, amely szabadtéri látnivalókat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ],
@@ -58072,6 +58234,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.479889,
                         42.456721
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Un parc de aventură și tematic din Juberri, Andorra, care oferă atracții în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "en": [
@@ -58163,6 +58334,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.479889,
                         42.456721
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "An adventure and theme park in Juberri, Andorra, offering various outdoor attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ]
@@ -59448,6 +59628,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Ein Abenteuer-Themenpark in Andorra, der Naturerlebnisse und Aktivitäten in der Höhe bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "hu": [
@@ -59629,6 +59818,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Kalandpark Andorrában, amely természeti élményeket és magaslati tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ],
@@ -59812,6 +60010,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Un parc tematic de aventură în Andorra, care oferă experiențe în natură și activități la înălțime.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "en": [
@@ -59993,6 +60200,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "An adventure theme park in Andorra offering nature experiences and high-altitude activities.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ]
@@ -61811,7 +62027,700 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["Altitude de 1551 mètres sur la montagne de Bixessarri.", "Siège de la sainte patronne de Sant Julià de Lòria.", "L'année de fondation selon la légende est 1223.", "Grand pèlerinage le dernier samedi de mai.", "Influences néogothiques dans l'architecture de la chapelle.", "Point de vue important sur la vallée de la Gran Valira."],
     }, image: "/poi-images/city-canolich-extra.webp"},
   {
-    id: "city-mas-dalins-extra", "sights": {"de": [{"name": "Museu del Tabac", "text": "Ein Museum in Mas d'Alins, das in einer ehemaligen Tabakfabrik untergebracht ist.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Naturlandia (cota 1600)", "text": "Ein Abenteuerpark in Mas d'Alins mit verschiedenen Outdoor-Aktivitäten.", "category": "family", "coords": [1.50324, 42.442506]}, {"name": "Roca Major", "text": "Ein markanter Berggipfel in der Nähe von Mas d'Alins.", "category": "natural", "coords": [1.499972, 42.434789]}, {"name": "La Portella", "text": "Ein Berggipfel in der Region Mas d'Alins, beliebt bei Wanderern.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Ermita Mare de Deu", "text": "Ein religiöses Denkmal in Mas d'Alins.", "category": "historical", "coords": [1.465038, 42.44679]}, {"name": "Mirador Riu Runer (1.500m)", "text": "Ein Aussichtspunkt mit Panorama auf das Riu-Runer-Tal bei Mas d'Alins.", "category": "natural", "coords": [1.493855, 42.434849]}, {"name": "Mirador Solanes de la Peguera", "text": "Der Mirador Solanes de la Peguera ist ein beeindruckender natürlicher Aussichtspunkt in der Nähe von Mas D Alins. Dieser andorranische Ort belohnt Gäste mit einem äußerst weiten Blick, der sich über die gesamte Siedlung und Landschaft erstreckt. Er eignet sich hervorragend, um die Weite der Täler auf sich wirken zu lassen.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "El Coll de Jou", "text": "Ein Gebirgspass bei Mas d'Alins, der weite Ausblicke bietet.", "category": "natural", "coords": [1.479889, 42.456721]}, {"name": "Tamarro Lau", "text": "Ein lokales Denkmal in Mas d'Alins, das eine Fabelkreatur darstellt.", "category": "historical", "coords": [1.498198, 42.445556]}, {"name": "Font Comabella", "text": "Eine natürliche Quelle in der Region Mas d'Alins.", "category": "landmark", "coords": [1.493857, 42.444706]}, {"name": "Sant Cerni de Nagol", "text": "Eine romanische Kirche bei Mas d'Alins, bekannt für ihre Architektur.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "Ein historisches romanisches Gebäude in Aixirivall bei Mas d'Alins.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "Ein ruhiger Ort der Andacht in Auvinyà bei Mas d'Alins.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Sant Esteve de Juberri", "text": "Eine kleine romanische Kapelle im Dorf Juberri bei Mas d'Alins.", "category": "religious", "coords": [1.49004, 42.440156]}, {"name": "Sant Andreu", "text": "Eine traditionelle Kirche in der Umgebung von Mas d'Alins.", "category": "religious", "coords": [1.482939, 42.430535]}, {"name": "Sant Roc de la Farga de Moles", "text": "Eine kleine historische Grenzkirche bei Mas d'Alins.", "category": "religious", "coords": [1.469578, 42.432184]}, {"name": "Estany de la Nou", "text": "Der Estany de la Nou in Mas D Alins ist ein abgelegener See, ideal für Ruhesuchende.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Die Basses Roges in Mas D Alins sind kleine Teiche, die zum Verweilen in der Natur einladen.", "category": "natural", "coords": [1.557611, 42.47097]}], "hu": [{"name": "Museu del Tabac", "text": "Dohánymúzeum Mas d'Alins-ban, amely egy egykori dohánygyárban található.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Naturlandia (cota 1600)", "text": "Kalandpark Mas d'Alins-ban, amely különféle szabadtéri tevékenységeket kínál.", "category": "family", "coords": [1.50324, 42.442506]}, {"name": "Roca Major", "text": "Egy jellegzetes hegycsúcs Mas d'Alins közelében.", "category": "natural", "coords": [1.499972, 42.434789]}, {"name": "La Portella", "text": "Egy hegycsúcs Mas d'Alins régiójában, amely népszerű a túrázók körében.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Ermita Mare de Deu", "text": "Egy vallási emlékmű Mas d'Alins településen.", "category": "historical", "coords": [1.465038, 42.44679]}, {"name": "Mirador Riu Runer (1.500m)", "text": "Kilátópont a Riu Runer völgyére Mas d'Alins közelében.", "category": "natural", "coords": [1.493855, 42.434849]}, {"name": "Mirador Solanes de la Peguera", "text": "A Mas D Alins területén található Mirador Solanes de la Peguera egy lenyűgöző andorrai kilátóhely. Erről a természetes teraszról a látogatók előtt széles perspektívában rajzolódik ki a település és a környező táj. Nagyszerű lehetőséget kínál a vidék teljes pompájának megfigyelésére.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "El Coll de Jou", "text": "Hegyi hágó Mas d'Alins-nál, ahonnan messzire el lehet látni.", "category": "natural", "coords": [1.479889, 42.456721]}, {"name": "Tamarro Lau", "text": "Egy helyi emlékmű Mas d'Alinsban, amely egy mesebeli lényt ábrázol.", "category": "historical", "coords": [1.498198, 42.445556]}, {"name": "Font Comabella", "text": "Egy természetes forrás Mas d'Alins régiójában.", "category": "landmark", "coords": [1.493857, 42.444706]}, {"name": "Sant Cerni de Nagol", "text": "Román stílusú templom Mas d'Alins közelében, amely építészetéről ismert.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "Történelmi román stílusú épület Aixirivallban, Mas d'Alins közelében.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "Csendes hitéleti helyszín Auvinyàban, Mas d'Alins közelében.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Sant Esteve de Juberri", "text": "Egy kis román kápolna Juberri faluban, Mas d'Alins közelében.", "category": "religious", "coords": [1.49004, 42.440156]}, {"name": "Sant Andreu", "text": "Egy hagyományos templom Mas d'Alins környékén.", "category": "religious", "coords": [1.482939, 42.430535]}, {"name": "Sant Roc de la Farga de Moles", "text": "Egy kis történelmi határmenti templom Mas d'Alins közelében.", "category": "religious", "coords": [1.469578, 42.432184]}, {"name": "Estany de la Nou", "text": "A Mas D Alins területén található Estany de la Nou egy félreeső tó, ideális a nyugalomra vágyóknak.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "A Mas D Alins területén fekvő Basses Roges apró tavak, amelyek a természetben való időzésre hívnak.", "category": "natural", "coords": [1.557611, 42.47097]}], "ro": [{"name": "Museu del Tabac", "text": "Un muzeu în Mas d'Alins situat într-o fostă fabrică de tutun.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Naturlandia (cota 1600)", "text": "Un parc de aventură în Mas d'Alins care oferă diverse activități în aer liber.", "category": "family", "coords": [1.50324, 42.442506]}, {"name": "Roca Major", "text": "Un vârf montan proeminent situat lângă Mas d'Alins.", "category": "natural", "coords": [1.499972, 42.434789]}, {"name": "La Portella", "text": "Un vârf montan în regiunea Mas d'Alins, popular printre drumeți.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Ermita Mare de Deu", "text": "Un monument religios situat în Mas d'Alins.", "category": "historical", "coords": [1.465038, 42.44679]}, {"name": "Mirador Riu Runer (1.500m)", "text": "Un punct de belvedere asupra văii Riu Runer lângă Mas d'Alins.", "category": "natural", "coords": [1.493855, 42.434849]}, {"name": "Mirador Solanes de la Peguera", "text": "Situat în zona Mas D Alins din Andorra, Mirador Solanes de la Peguera este un punct de observare natural remarcabil. Cei prezenți aici se vor bucura de o panoramă deschisă, ce surprinde întreaga localitate Mas d'Alins de sus. Oferă un prilej perfect de a admira liniștea și frumusețea văii.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "El Coll de Jou", "text": "O trecătoare montană lângă Mas d'Alins care oferă vederi vaste.", "category": "natural", "coords": [1.479889, 42.456721]}, {"name": "Tamarro Lau", "text": "Un monument local în Mas d'Alins care reprezintă o creatură mitică.", "category": "historical", "coords": [1.498198, 42.445556]}, {"name": "Font Comabella", "text": "Un izvor natural situat în regiunea Mas d'Alins.", "category": "landmark", "coords": [1.493857, 42.444706]}, {"name": "Sant Cerni de Nagol", "text": "O biserică romanică lângă Mas d'Alins, cunoscută pentru arhitectura sa.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "O clădire istorică romanică în Aixirivall, lângă Mas d'Alins.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "Un loc liniștit de rugăciune în Auvinyà, lângă Mas d'Alins.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Sant Esteve de Juberri", "text": "O mică capelă romanică în satul Juberri, lângă Mas d'Alins.", "category": "religious", "coords": [1.49004, 42.440156]}, {"name": "Sant Andreu", "text": "O biserică tradițională în împrejurimile localității Mas d'Alins.", "category": "religious", "coords": [1.482939, 42.430535]}, {"name": "Sant Roc de la Farga de Moles", "text": "O mică biserică istorică de frontieră lângă Mas d'Alins.", "category": "religious", "coords": [1.469578, 42.432184]}, {"name": "Estany de la Nou", "text": "Estany de la Nou din Mas D Alins este un lac retras, ideal pentru cei care caută liniște.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges din Mas D Alins sunt iazuri mici care invită la petrecerea timpului în natură.", "category": "natural", "coords": [1.557611, 42.47097]}], "en": [{"name": "Museu del Tabac", "text": "A museum in Mas d'Alins located in a former tobacco factory.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Naturlandia (cota 1600)", "text": "An adventure park in Mas d'Alins offering various outdoor activities.", "category": "family", "coords": [1.50324, 42.442506]}, {"name": "Roca Major", "text": "A prominent mountain peak located near Mas d'Alins.", "category": "natural", "coords": [1.499972, 42.434789]}, {"name": "La Portella", "text": "A mountain peak in the Mas d'Alins region, popular with hikers.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Ermita Mare de Deu", "text": "A religious monument located in Mas d'Alins.", "category": "historical", "coords": [1.465038, 42.44679]}, {"name": "Riu Runer Viewpoint (1.500m)", "text": "A viewpoint offering panoramas of the Riu Runer valley near Mas d'Alins.", "category": "natural", "coords": [1.493855, 42.434849]}, {"name": "Mirador Solanes de la Peguera", "text": "Found in the area of Mas D Alins in Andorra, the Mirador Solanes de la Peguera serves as a beautiful natural viewpoint. Anyone standing at this location will experience a wonderfully wide view sweeping across the settlement of Mas d'Alins. It acts as an ideal vantage point for taking in the broad expanse of the local terrain.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "El Coll de Jou", "text": "A mountain pass near Mas d'Alins offering expansive views.", "category": "natural", "coords": [1.479889, 42.456721]}, {"name": "Tamarro Lau", "text": "A local monument in Mas d'Alins representing a mythical creature.", "category": "historical", "coords": [1.498198, 42.445556]}, {"name": "Font Comabella", "text": "A natural spring located in the Mas d'Alins region.", "category": "landmark", "coords": [1.493857, 42.444706]}, {"name": "Sant Cerni de Nagol", "text": "A Romanesque church near Mas d'Alins known for its architecture.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "A historical Romanesque building in Aixirivall near Mas d'Alins.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "A quiet place of worship in Auvinyà near Mas d'Alins.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Sant Esteve de Juberri", "text": "A small Romanesque chapel in the village of Juberri near Mas d'Alins.", "category": "religious", "coords": [1.49004, 42.440156]}, {"name": "Sant Andreu", "text": "A traditional church in the surroundings of Mas d'Alins.", "category": "religious", "coords": [1.482939, 42.430535]}, {"name": "Sant Roc de la Farga de Moles", "text": "A small historical border church near Mas d'Alins.", "category": "religious", "coords": [1.469578, 42.432184]}, {"name": "Estany de la Nou", "text": "Estany de la Nou in Mas D Alins is a secluded lake, ideal for those seeking tranquility.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges in Mas D Alins are small ponds that invite you to linger in nature.", "category": "natural", "coords": [1.557611, 42.47097]}]},
+    id: "city-mas-dalins-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Ein Museum in Mas d'Alins, das in einer ehemaligen Tabakfabrik untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Ein Abenteuerpark in Mas d'Alins mit verschiedenen Outdoor-Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Ein markanter Berggipfel in der Nähe von Mas d'Alins.",
+                  "category": "natural",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Ein Berggipfel in der Region Mas d'Alins, beliebt bei Wanderern.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Ein religiöses Denkmal in Mas d'Alins.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "Ein Aussichtspunkt mit Panorama auf das Riu-Runer-Tal bei Mas d'Alins.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Der Mirador Solanes de la Peguera ist ein beeindruckender natürlicher Aussichtspunkt in der Nähe von Mas D Alins. Dieser andorranische Ort belohnt Gäste mit einem äußerst weiten Blick, der sich über die gesamte Siedlung und Landschaft erstreckt. Er eignet sich hervorragend, um die Weite der Täler auf sich wirken zu lassen.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "Ein Gebirgspass bei Mas d'Alins, der weite Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
+            },
+            {
+                  "name": "Tamarro Lau",
+                  "text": "Ein lokales Denkmal in Mas d'Alins, das eine Fabelkreatur darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        1.498198,
+                        42.445556
+                  ]
+            },
+            {
+                  "name": "Font Comabella",
+                  "text": "Eine natürliche Quelle in der Region Mas d'Alins.",
+                  "category": "landmark",
+                  "coords": [
+                        1.493857,
+                        42.444706
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "Eine romanische Kirche bei Mas d'Alins, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "Ein historisches romanisches Gebäude in Aixirivall bei Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "Ein ruhiger Ort der Andacht in Auvinyà bei Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de Juberri",
+                  "text": "Eine kleine romanische Kapelle im Dorf Juberri bei Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.49004,
+                        42.440156
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Eine traditionelle Kirche in der Umgebung von Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.482939,
+                        42.430535
+                  ]
+            },
+            {
+                  "name": "Sant Roc de la Farga de Moles",
+                  "text": "Eine kleine historische Grenzkirche bei Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.469578,
+                        42.432184
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Der Estany de la Nou in Mas D Alins ist ein abgelegener See, ideal für Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Die Basses Roges in Mas D Alins sind kleine Teiche, die zum Verweilen in der Natur einladen.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Teil des Naturlandia-Freizeitparks in der Region Mas d'Alins in Andorra.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Dohánymúzeum Mas d'Alins-ban, amely egy egykori dohánygyárban található.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Kalandpark Mas d'Alins-ban, amely különféle szabadtéri tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Egy jellegzetes hegycsúcs Mas d'Alins közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Egy hegycsúcs Mas d'Alins régiójában, amely népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Egy vallási emlékmű Mas d'Alins településen.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "Kilátópont a Riu Runer völgyére Mas d'Alins közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "A Mas D Alins területén található Mirador Solanes de la Peguera egy lenyűgöző andorrai kilátóhely. Erről a természetes teraszról a látogatók előtt széles perspektívában rajzolódik ki a település és a környező táj. Nagyszerű lehetőséget kínál a vidék teljes pompájának megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "Hegyi hágó Mas d'Alins-nál, ahonnan messzire el lehet látni.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
+            },
+            {
+                  "name": "Tamarro Lau",
+                  "text": "Egy helyi emlékmű Mas d'Alinsban, amely egy mesebeli lényt ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        1.498198,
+                        42.445556
+                  ]
+            },
+            {
+                  "name": "Font Comabella",
+                  "text": "Egy természetes forrás Mas d'Alins régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.493857,
+                        42.444706
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "Román stílusú templom Mas d'Alins közelében, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "Történelmi román stílusú épület Aixirivallban, Mas d'Alins közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "Csendes hitéleti helyszín Auvinyàban, Mas d'Alins közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de Juberri",
+                  "text": "Egy kis román kápolna Juberri faluban, Mas d'Alins közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.49004,
+                        42.440156
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Egy hagyományos templom Mas d'Alins környékén.",
+                  "category": "religious",
+                  "coords": [
+                        1.482939,
+                        42.430535
+                  ]
+            },
+            {
+                  "name": "Sant Roc de la Farga de Moles",
+                  "text": "Egy kis történelmi határmenti templom Mas d'Alins közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.469578,
+                        42.432184
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "A Mas D Alins területén található Estany de la Nou egy félreeső tó, ideális a nyugalomra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "A Mas D Alins területén fekvő Basses Roges apró tavak, amelyek a természetben való időzésre hívnak.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "A Naturlandia élménypark része Mas d'Alins térségében, Andorrában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Un muzeu în Mas d'Alins situat într-o fostă fabrică de tutun.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Un parc de aventură în Mas d'Alins care oferă diverse activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Un vârf montan proeminent situat lângă Mas d'Alins.",
+                  "category": "natural",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Un vârf montan în regiunea Mas d'Alins, popular printre drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Un monument religios situat în Mas d'Alins.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "Un punct de belvedere asupra văii Riu Runer lângă Mas d'Alins.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Situat în zona Mas D Alins din Andorra, Mirador Solanes de la Peguera este un punct de observare natural remarcabil. Cei prezenți aici se vor bucura de o panoramă deschisă, ce surprinde întreaga localitate Mas d'Alins de sus. Oferă un prilej perfect de a admira liniștea și frumusețea văii.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "O trecătoare montană lângă Mas d'Alins care oferă vederi vaste.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
+            },
+            {
+                  "name": "Tamarro Lau",
+                  "text": "Un monument local în Mas d'Alins care reprezintă o creatură mitică.",
+                  "category": "historical",
+                  "coords": [
+                        1.498198,
+                        42.445556
+                  ]
+            },
+            {
+                  "name": "Font Comabella",
+                  "text": "Un izvor natural situat în regiunea Mas d'Alins.",
+                  "category": "landmark",
+                  "coords": [
+                        1.493857,
+                        42.444706
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "O biserică romanică lângă Mas d'Alins, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "O clădire istorică romanică în Aixirivall, lângă Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "Un loc liniștit de rugăciune în Auvinyà, lângă Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de Juberri",
+                  "text": "O mică capelă romanică în satul Juberri, lângă Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.49004,
+                        42.440156
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "O biserică tradițională în împrejurimile localității Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.482939,
+                        42.430535
+                  ]
+            },
+            {
+                  "name": "Sant Roc de la Farga de Moles",
+                  "text": "O mică biserică istorică de frontieră lângă Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.469578,
+                        42.432184
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou din Mas D Alins este un lac retras, ideal pentru cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges din Mas D Alins sunt iazuri mici care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "O parte a parcului de agrement Naturlandia din regiunea Mas d'Alins din Andorra.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "A museum in Mas d'Alins located in a former tobacco factory.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "An adventure park in Mas d'Alins offering various outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "A prominent mountain peak located near Mas d'Alins.",
+                  "category": "natural",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "A mountain peak in the Mas d'Alins region, popular with hikers.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "A religious monument located in Mas d'Alins.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Riu Runer Viewpoint (1.500m)",
+                  "text": "A viewpoint offering panoramas of the Riu Runer valley near Mas d'Alins.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Found in the area of Mas D Alins in Andorra, the Mirador Solanes de la Peguera serves as a beautiful natural viewpoint. Anyone standing at this location will experience a wonderfully wide view sweeping across the settlement of Mas d'Alins. It acts as an ideal vantage point for taking in the broad expanse of the local terrain.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "A mountain pass near Mas d'Alins offering expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
+            },
+            {
+                  "name": "Tamarro Lau",
+                  "text": "A local monument in Mas d'Alins representing a mythical creature.",
+                  "category": "historical",
+                  "coords": [
+                        1.498198,
+                        42.445556
+                  ]
+            },
+            {
+                  "name": "Font Comabella",
+                  "text": "A natural spring located in the Mas d'Alins region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.493857,
+                        42.444706
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "A Romanesque church near Mas d'Alins known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "A historical Romanesque building in Aixirivall near Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "A quiet place of worship in Auvinyà near Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Sant Esteve de Juberri",
+                  "text": "A small Romanesque chapel in the village of Juberri near Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.49004,
+                        42.440156
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "A traditional church in the surroundings of Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.482939,
+                        42.430535
+                  ]
+            },
+            {
+                  "name": "Sant Roc de la Farga de Moles",
+                  "text": "A small historical border church near Mas d'Alins.",
+                  "category": "religious",
+                  "coords": [
+                        1.469578,
+                        42.432184
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou in Mas D Alins is a secluded lake, ideal for those seeking tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges in Mas D Alins are small ponds that invite you to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Part of the Naturlandia adventure park located in the Mas d'Alins region of Andorra.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-06",
     coords: [1.49, 42.445],
@@ -62007,6 +62916,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Ein Abenteuerpark in Andorra mit Freizeitaktivitäten in den Bergen.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "hu": [
@@ -62161,6 +63079,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Kalandpark Andorrában, hegyi szabadidős tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ],
@@ -62317,6 +63244,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Un parc de aventură în Andorra cu activități recreative montane.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "en": [
@@ -62471,6 +63407,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "An adventure park in Andorra offering mountain leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ]
@@ -62670,6 +63615,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Ein Teil des Naturlandia-Abenteuerparks, der Freizeitaktivitäten in einer malerischen Waldlandschaft bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "hu": [
@@ -62824,6 +63778,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "A Naturlandia kalandpark része, amely szabadidős programokat kínál erdei környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ],
@@ -62980,6 +63943,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "O parte a parcului de aventură Naturlandia, oferind activități recreative într-un peisaj montan.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "en": [
@@ -63134,6 +64106,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Part of the Naturlandia adventure park, offering leisure activities in a scenic mountain forest.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ]
@@ -63360,6 +64341,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.587476,
                         42.465855
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "Ein Bereich des Naturlandia-Themenparks in La Fèira, bekannt für Aktivitäten in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "hu": [
@@ -63541,6 +64531,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.587476,
                         42.465855
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "A Naturlandia élménypark egy része La Fèira területén, amely természeti programjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ],
@@ -63724,6 +64723,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.587476,
                         42.465855
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "O zonă a parcului tematic Naturlandia din La Fèira, cunoscută pentru activități în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
+                  ]
             }
       ],
       "en": [
@@ -63905,6 +64913,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.587476,
                         42.465855
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 2000)",
+                  "text": "An area of the Naturlandia theme park in La Fèira, known for nature-based activities.",
+                  "category": "recreational",
+                  "coords": [
+                        1.521652,
+                        42.43451
                   ]
             }
       ]

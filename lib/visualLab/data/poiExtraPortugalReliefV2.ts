@@ -211,6 +211,42 @@ export const portugalReliefV2: POI[] = [
                         -7.863054,
                         40.210933
                   ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "Ein Flussschwimmbad in der Serra do Açor, das Erfrischung in natürlicher Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Foz d'Égua",
+                  "text": "Ein beliebter Flussstrand und öffentliches Bad in der malerischen Serra do Açor.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.812847,
+                        40.247034
+                  ]
+            },
+            {
+                  "name": "Piscina da Fórnea",
+                  "text": "Ein Naturbadeplatz in der Region Serra do Açor.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.838854,
+                        40.204037
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "Ein Flussstrand in der Serra do Açor, bekannt für sein erfrischendes Quellwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.884034,
+                        40.264656
+                  ]
             }
       ],
       "hu": [
@@ -257,6 +293,42 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -7.863054,
                         40.210933
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "Erdei folyóparti medence a Serra do Açor hegységben, természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Foz d'Égua",
+                  "text": "Népszerű folyóparti strand és nyilvános fürdő a festői Serra do Açor hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.812847,
+                        40.247034
+                  ]
+            },
+            {
+                  "name": "Piscina da Fórnea",
+                  "text": "Természetes fürdőhely a Serra do Açor régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.838854,
+                        40.204037
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "Folyóparti strand a Serra do Açor hegységben, amely frissítő forrásvizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.884034,
+                        40.264656
                   ]
             }
       ],
@@ -305,6 +377,42 @@ export const portugalReliefV2: POI[] = [
                         -7.863054,
                         40.210933
                   ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "O piscină fluvială în Serra do Açor, oferind răcoare într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Foz d'Égua",
+                  "text": "O plajă fluvială populară și baie publică în pitoreasca Serra do Açor.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.812847,
+                        40.247034
+                  ]
+            },
+            {
+                  "name": "Piscina da Fórnea",
+                  "text": "Un loc de scăldat natural în regiunea Serra do Açor.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.838854,
+                        40.204037
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "O plajă fluvială în Serra do Açor, cunoscută pentru apa sa de izvor revigorantă.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.884034,
+                        40.264656
+                  ]
             }
       ],
       "en": [
@@ -351,6 +459,42 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -7.863054,
                         40.210933
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial de Sobral Magro",
+                  "text": "A river swimming pool in Serra do Açor, providing refreshment in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.858462,
+                        40.247774
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Foz d'Égua",
+                  "text": "A popular river beach and public bath in the scenic Serra do Açor.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.812847,
+                        40.247034
+                  ]
+            },
+            {
+                  "name": "Piscina da Fórnea",
+                  "text": "A natural swimming area located in the Serra do Açor region.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.838854,
+                        40.204037
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "A river beach in Serra do Açor, known for its refreshing spring waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.884034,
+                        40.264656
                   ]
             }
       ]
@@ -472,6 +616,24 @@ export const portugalReliefV2: POI[] = [
                         -8.555667,
                         37.320503
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Die Piscina Municipal ist ein öffentliches Schwimmbad in den malerischen Bergen der Serra de Monchique.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554329,
+                        37.318267
+                  ]
+            },
+            {
+                  "name": "Villa Termal das Caldas de Monchique Spa Resort",
+                  "text": "Dieses Spa-Resort bietet öffentliche Bäder in den Thermalquellen der Serra de Monchique.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554222,
+                        37.285085
+                  ]
             }
       ],
       "hu": [
@@ -545,6 +707,24 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.555667,
                         37.320503
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A Piscina Municipal egy nyilvános úszómedence a festői Serra de Monchique hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554329,
+                        37.318267
+                  ]
+            },
+            {
+                  "name": "Villa Termal das Caldas de Monchique Spa Resort",
+                  "text": "Ez a wellnessközpont nyilvános fürdőket kínál a Serra de Monchique termálvizeiben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554222,
+                        37.285085
                   ]
             }
       ],
@@ -620,6 +800,24 @@ export const portugalReliefV2: POI[] = [
                         -8.555667,
                         37.320503
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Piscina Municipal este o piscină publică situată în munții pitorești Serra de Monchique.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554329,
+                        37.318267
+                  ]
+            },
+            {
+                  "name": "Villa Termal das Caldas de Monchique Spa Resort",
+                  "text": "Această stațiune balneară oferă băi publice în apele termale din Serra de Monchique.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554222,
+                        37.285085
+                  ]
             }
       ],
       "en": [
@@ -693,6 +891,24 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.555667,
                         37.320503
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Piscina Municipal is a public swimming pool located in the scenic Serra de Monchique mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554329,
+                        37.318267
+                  ]
+            },
+            {
+                  "name": "Villa Termal das Caldas de Monchique Spa Resort",
+                  "text": "This spa resort offers public baths in the thermal waters of the Serra de Monchique.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.554222,
+                        37.285085
                   ]
             }
       ]
@@ -2056,6 +2272,24 @@ export const portugalReliefV2: POI[] = [
                         -8.35434,
                         40.377921
                   ]
+            },
+            {
+                  "name": "Alegre Bar Pool",
+                  "text": "Ein Schwimmbad in der Serra do Bussaco.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.377373,
+                        40.382593
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais do Luso",
+                  "text": "Das städtische Schwimmbad von Luso in der Serra do Bussaco.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.380649,
+                        40.38506
+                  ]
             }
       ],
       "hu": [
@@ -2120,6 +2354,24 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.35434,
                         40.377921
+                  ]
+            },
+            {
+                  "name": "Alegre Bar Pool",
+                  "text": "Egy úszómedence a Serra do Bussaco hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.377373,
+                        40.382593
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais do Luso",
+                  "text": "Luso városi uszodája a Serra do Bussaco hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.380649,
+                        40.38506
                   ]
             }
       ],
@@ -2186,6 +2438,24 @@ export const portugalReliefV2: POI[] = [
                         -8.35434,
                         40.377921
                   ]
+            },
+            {
+                  "name": "Alegre Bar Pool",
+                  "text": "O piscină în Serra do Bussaco.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.377373,
+                        40.382593
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais do Luso",
+                  "text": "Piscinele municipale din Luso, situate în Serra do Bussaco.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.380649,
+                        40.38506
+                  ]
             }
       ],
       "en": [
@@ -2250,6 +2520,24 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.35434,
                         40.377921
+                  ]
+            },
+            {
+                  "name": "Alegre Bar Pool",
+                  "text": "A swimming pool in the Serra do Bussaco.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.377373,
+                        40.382593
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais do Luso",
+                  "text": "The municipal swimming pools of Luso, located in the Serra do Bussaco.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.380649,
+                        40.38506
                   ]
             }
       ]
@@ -2317,6 +2605,15 @@ export const portugalReliefV2: POI[] = [
                         -8.1295,
                         39.546343
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Ein städtisches Schwimmbad in der Region Serra de Santana.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.162454,
+                        39.544002
+                  ]
             }
       ],
       "hu": [
@@ -2336,6 +2633,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.1295,
                         39.546343
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Városi úszómedence Serra de Santana területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.162454,
+                        39.544002
                   ]
             }
       ],
@@ -2357,6 +2663,15 @@ export const portugalReliefV2: POI[] = [
                         -8.1295,
                         39.546343
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "O piscină municipală situată în regiunea Serra de Santana.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.162454,
+                        39.544002
+                  ]
             }
       ],
       "en": [
@@ -2376,6 +2691,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.1295,
                         39.546343
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A municipal swimming pool located in the Serra de Santana region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.162454,
+                        39.544002
                   ]
             }
       ]
@@ -2587,6 +2911,15 @@ export const portugalReliefV2: POI[] = [
                         -8.159877,
                         41.46563
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "Die städtischen Schwimmbäder von Fafe am Rande des gleichnamigen Gebirges.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
+                  ]
             }
       ],
       "hu": [
@@ -2660,6 +2993,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.159877,
                         41.46563
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "Fafe városi úszómedencéi az azonos nevű hegység lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
                   ]
             }
       ],
@@ -2735,6 +3077,15 @@ export const portugalReliefV2: POI[] = [
                         -8.159877,
                         41.46563
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "Piscinele municipale din Fafe, situate la marginea munților cu același nume.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
+                  ]
             }
       ],
       "en": [
@@ -2808,6 +3159,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.159877,
                         41.46563
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "The municipal swimming pools of Fafe, located at the edge of the Serra de Fafe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
                   ]
             }
       ]
@@ -3910,6 +4270,15 @@ export const portugalReliefV2: POI[] = [
                         -8.112687,
                         40.154154
                   ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte Velha",
+                  "text": "Ein Flussstrand mit Bademöglichkeiten bei einer alten Brücke im Gebiet Lousã.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.066111,
+                        40.141753
+                  ]
             }
       ],
       "hu": [
@@ -3965,6 +4334,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.112687,
                         40.154154
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte Velha",
+                  "text": "Folyami strand fürdőzési lehetőséggel egy régi híd közelében a Lousã-vidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.066111,
+                        40.141753
                   ]
             }
       ],
@@ -4022,6 +4400,15 @@ export const portugalReliefV2: POI[] = [
                         -8.112687,
                         40.154154
                   ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte Velha",
+                  "text": "O plajă fluvială cu facilități de scăldat lângă un pod vechi în zona Lousã.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.066111,
+                        40.141753
+                  ]
             }
       ],
       "en": [
@@ -4077,6 +4464,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.112687,
                         40.154154
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte Velha",
+                  "text": "A river beach with swimming facilities near an old bridge in the Lousã area.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.066111,
+                        40.141753
                   ]
             }
       ]
@@ -5827,6 +6223,15 @@ export const portugalReliefV2: POI[] = [
                         -8.178583,
                         41.395389
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "Ein öffentliches Schwimmbad in der Nähe der Serra de Fafe West für Freizeit und Sport.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
+                  ]
             }
       ],
       "hu": [
@@ -5891,6 +6296,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.178583,
                         41.395389
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "Nyilvános úszómedence Serra de Fafe West közelében, amely kikapcsolódást és sportolási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
                   ]
             }
       ],
@@ -5957,6 +6371,15 @@ export const portugalReliefV2: POI[] = [
                         -8.178583,
                         41.395389
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "O piscină publică situată lângă Serra de Fafe West, oferind facilități pentru recreere și sport.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
+                  ]
             }
       ],
       "en": [
@@ -6021,6 +6444,15 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.178583,
                         41.395389
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Fafe",
+                  "text": "A public swimming pool located near Serra de Fafe West, offering facilities for recreation and sports.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.169218,
+                        41.448071
                   ]
             }
       ]

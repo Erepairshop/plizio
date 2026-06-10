@@ -4540,6 +4540,33 @@ export const bulgariaCitiesV2: POI[] = [
                         22.676959,
                         42.270797
                   ]
+            },
+            {
+                  "name": "Otkrit basein - Strimon Gard'n Spa",
+                  "text": "Außenpool im Strimon Garden Spa, der das örtliche Mineralwasser nutzt.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689853,
+                        42.284587
+                  ]
+            },
+            {
+                  "name": "Zoopark Khisarl'ka",
+                  "text": "Kleiner Zoo auf dem Hisarlaka-Hügel in Kjustendil, in dem verschiedene regionale Tierarten beheimatet sind.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69339,
+                        42.275113
+                  ]
+            },
+            {
+                  "name": "Chifte bania",
+                  "text": "Historisches öffentliches Badehaus in Kjustendil, bekannt für sein heilendes Thermalmineralwasser.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692837,
+                        42.281678
+                  ]
             }
       ],
       "hu": [
@@ -4577,6 +4604,33 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         22.676959,
                         42.270797
+                  ]
+            },
+            {
+                  "name": "Otkrit basein - Strimon Gard'n Spa",
+                  "text": "A Strimon Garden Spa szabadtéri medencéje, amely a helyi ásványvizet hasznosítja.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689853,
+                        42.284587
+                  ]
+            },
+            {
+                  "name": "Zoopark Khisarl'ka",
+                  "text": "Kis állatkert a Kjusztendil melletti Hiszarlaka-dombon, amely helyi állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69339,
+                        42.275113
+                  ]
+            },
+            {
+                  "name": "Chifte bania",
+                  "text": "Történelmi közfürdő Kjusztendilben, amely gyógyhatású termálvizéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692837,
+                        42.281678
                   ]
             }
       ],
@@ -4616,6 +4670,33 @@ export const bulgariaCitiesV2: POI[] = [
                         22.676959,
                         42.270797
                   ]
+            },
+            {
+                  "name": "Otkrit basein - Strimon Gard'n Spa",
+                  "text": "Piscină exterioară la Strimon Garden Spa, care utilizează apele minerale locale.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689853,
+                        42.284587
+                  ]
+            },
+            {
+                  "name": "Zoopark Khisarl'ka",
+                  "text": "Mică grădină zoologică situată pe dealul Hisarlaka din Kyustendil, adăpostind diverse specii de animale regionale.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69339,
+                        42.275113
+                  ]
+            },
+            {
+                  "name": "Chifte bania",
+                  "text": "Baie publică istorică în Kyustendil, celebră pentru apa sa minerală termală curativă.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692837,
+                        42.281678
+                  ]
             }
       ],
       "en": [
@@ -4653,6 +4734,33 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         22.676959,
                         42.270797
+                  ]
+            },
+            {
+                  "name": "Otkrit basein - Strimon Gard'n Spa",
+                  "text": "Outdoor swimming pool at the Strimon Garden Spa, utilizing local mineral waters.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689853,
+                        42.284587
+                  ]
+            },
+            {
+                  "name": "Zoopark Khisarl'ka",
+                  "text": "Small zoo located on the Hisarlaka hill in Kyustendil, home to various regional animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69339,
+                        42.275113
+                  ]
+            },
+            {
+                  "name": "Chifte bania",
+                  "text": "Historic public bathhouse in Kyustendil famous for its healing thermal mineral water.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692837,
+                        42.281678
                   ]
             }
       ]
@@ -6898,6 +7006,33 @@ export const bulgariaCitiesV2: POI[] = [
                         27.940307,
                         43.142666
                   ]
+            },
+            {
+                  "name": "плаж Черноморец",
+                  "text": "Ein Strand an der bulgarischen Schwarzmeerküste in der Nähe von Warna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.929104,
+                        43.122556
+                  ]
+            },
+            {
+                  "name": "плаж Паша дере",
+                  "text": "Ein naturbelassener Wildstrand südlich von Warna, bekannt für seine unberührte Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        27.924146,
+                        43.109358
+                  ]
+            },
+            {
+                  "name": "Близнаци",
+                  "text": "Ein breiter Sandstrand an der Mündung des Flusses Kamtschiya bei Warna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.923395,
+                        43.10397
+                  ]
             }
       ],
       "hu": [
@@ -6908,6 +7043,33 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.940307,
                         43.142666
+                  ]
+            },
+            {
+                  "name": "плаж Черноморец",
+                  "text": "Strand a bolgár fekete-tengeri parton, Várna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.929104,
+                        43.122556
+                  ]
+            },
+            {
+                  "name": "плаж Паша дере",
+                  "text": "Természetes vadstrand Várnától délre, amely érintetlen környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        27.924146,
+                        43.109358
+                  ]
+            },
+            {
+                  "name": "Близнаци",
+                  "text": "Széles homokos strand a Kamcsija-folyó torkolatánál, Várna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.923395,
+                        43.10397
                   ]
             }
       ],
@@ -6920,6 +7082,33 @@ export const bulgariaCitiesV2: POI[] = [
                         27.940307,
                         43.142666
                   ]
+            },
+            {
+                  "name": "плаж Черноморец",
+                  "text": "O plajă pe coasta bulgară a Mării Negre, situată în apropiere de Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.929104,
+                        43.122556
+                  ]
+            },
+            {
+                  "name": "плаж Паша дере",
+                  "text": "O plajă sălbatică naturală la sud de Varna, cunoscută pentru natura sa virgină.",
+                  "category": "recreational",
+                  "coords": [
+                        27.924146,
+                        43.109358
+                  ]
+            },
+            {
+                  "name": "Близнаци",
+                  "text": "O plajă lată cu nisip la gura de vărsare a râului Kamchiya, lângă Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.923395,
+                        43.10397
+                  ]
             }
       ],
       "en": [
@@ -6930,6 +7119,33 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.940307,
                         43.142666
+                  ]
+            },
+            {
+                  "name": "плаж Черноморец",
+                  "text": "A beach on the Bulgarian Black Sea coast, located near Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.929104,
+                        43.122556
+                  ]
+            },
+            {
+                  "name": "плаж Паша дере",
+                  "text": "A natural wild beach south of Varna, known for its untouched nature.",
+                  "category": "recreational",
+                  "coords": [
+                        27.924146,
+                        43.109358
+                  ]
+            },
+            {
+                  "name": "Близнаци",
+                  "text": "A wide sandy beach at the mouth of the Kamchiya River near Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.923395,
+                        43.10397
                   ]
             }
       ]

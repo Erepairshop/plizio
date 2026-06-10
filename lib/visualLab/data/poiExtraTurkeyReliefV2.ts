@@ -244,6 +244,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                         34.296544,
                         38.259145
                   ]
+            },
+            {
+                  "name": "Ilisu Hamami",
+                  "text": "Ein traditionelles öffentliches Bad im Ihlara-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        34.344082,
+                        38.233354
+                  ]
             }
       ],
       "hu": [
@@ -308,6 +317,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                   "coords": [
                         34.296544,
                         38.259145
+                  ]
+            },
+            {
+                  "name": "Ilisu Hamami",
+                  "text": "Tradicionális nyilvános fürdő az Ihlara-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        34.344082,
+                        38.233354
                   ]
             }
       ],
@@ -374,6 +392,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                         34.296544,
                         38.259145
                   ]
+            },
+            {
+                  "name": "Ilisu Hamami",
+                  "text": "O baie publică tradițională în Valea Ihlara.",
+                  "category": "recreational",
+                  "coords": [
+                        34.344082,
+                        38.233354
+                  ]
             }
       ],
       "en": [
@@ -438,6 +465,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                   "coords": [
                         34.296544,
                         38.259145
+                  ]
+            },
+            {
+                  "name": "Ilisu Hamami",
+                  "text": "A traditional public bath located in the Ihlara Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        34.344082,
+                        38.233354
                   ]
             }
       ]
@@ -593,6 +629,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                         29.126623,
                         36.497456
                   ]
+            },
+            {
+                  "name": "Kabak Beach",
+                  "text": "Kabak Beach ist ein abgelegener Kieselstrand in einer unberührten Bucht, umgeben von Pinienwäldern.",
+                  "category": "recreational",
+                  "coords": [
+                        29.125212,
+                        36.46118
+                  ]
             }
       ],
       "hu": [
@@ -657,6 +702,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                   "coords": [
                         29.126623,
                         36.497456
+                  ]
+            },
+            {
+                  "name": "Kabak Beach",
+                  "text": "A Kabak Beach egy félreeső kavicsos strand egy érintetlen öbölben, fenyőerdőkkel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        29.125212,
+                        36.46118
                   ]
             }
       ],
@@ -723,6 +777,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                         29.126623,
                         36.497456
                   ]
+            },
+            {
+                  "name": "Kabak Beach",
+                  "text": "Kabak Beach este o plajă de prundiş retrasă într-un golf curat, înconjurată de păduri de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        29.125212,
+                        36.46118
+                  ]
             }
       ],
       "en": [
@@ -787,6 +850,15 @@ export const poiExtraTurkeyReliefV2: POI[] = [
                   "coords": [
                         29.126623,
                         36.497456
+                  ]
+            },
+            {
+                  "name": "Kabak Beach",
+                  "text": "Kabak Beach is a secluded pebble beach in a pristine bay, surrounded by pine forests.",
+                  "category": "recreational",
+                  "coords": [
+                        29.125212,
+                        36.46118
                   ]
             }
       ]

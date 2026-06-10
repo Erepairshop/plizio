@@ -328,6 +328,15 @@ export const bulgariaLandmarksV2: POI[] = [
                         25.964939,
                         43.766639
                   ]
+            },
+            {
+                  "name": "Detski basein",
+                  "text": "Ein Kinderbecken für junge Besucher nahe dem Basarbovo-Kloster.",
+                  "category": "recreational",
+                  "coords": [
+                        25.974763,
+                        43.82647
+                  ]
             }
       ],
       "hu": [
@@ -347,6 +356,15 @@ export const bulgariaLandmarksV2: POI[] = [
                   "coords": [
                         25.964939,
                         43.766639
+                  ]
+            },
+            {
+                  "name": "Detski basein",
+                  "text": "Gyermekmedence a fiatal látogatók számára a Baszarbovói kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.974763,
+                        43.82647
                   ]
             }
       ],
@@ -368,6 +386,15 @@ export const bulgariaLandmarksV2: POI[] = [
                         25.964939,
                         43.766639
                   ]
+            },
+            {
+                  "name": "Detski basein",
+                  "text": "O piscină pentru copii situată lângă Mănăstirea Basarbovo.",
+                  "category": "recreational",
+                  "coords": [
+                        25.974763,
+                        43.82647
+                  ]
             }
       ],
       "en": [
@@ -387,6 +414,15 @@ export const bulgariaLandmarksV2: POI[] = [
                   "coords": [
                         25.964939,
                         43.766639
+                  ]
+            },
+            {
+                  "name": "Detski basein",
+                  "text": "A children's pool for young visitors near the Basarbovo Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        25.974763,
+                        43.82647
                   ]
             }
       ]

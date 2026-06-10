@@ -716,6 +716,33 @@ export const poiExtraAustriaHistorical: POI[] = [
                         14.50487,
                         47.560005
                   ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "Ein öffentliches Hallenbad in der Marktgemeinde Admont.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "Ein Naturbad mit Außenbecken in Admont.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "Ein Freibad und eine Freizeitanlage in Weng im Gesäuse.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
+                  ]
             }
       ],
       "hu": [
@@ -780,6 +807,33 @@ export const poiExtraAustriaHistorical: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
+                  ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "Nyilvános fedett uszoda Admont településén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "Természetes fürdőhely szabadtéri medencékkel Admontban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "Szabadtéri úszómedence és szabadidős létesítmény Weng im Gesäuse-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
                   ]
             }
       ],
@@ -846,6 +900,33 @@ export const poiExtraAustriaHistorical: POI[] = [
                         14.50487,
                         47.560005
                   ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "O piscină publică interioară situată în orașul Admont.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "O unitate naturală de înot care oferă piscine în aer liber în Admont.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "O piscină în aer liber și o unitate de agrement în Weng im Gesäuse.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
+                  ]
             }
       ],
       "en": [
@@ -910,6 +991,33 @@ export const poiExtraAustriaHistorical: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
+                  ]
+            },
+            {
+                  "name": "Hallenbad Admont",
+                  "text": "A public indoor swimming pool located in the town of Admont.",
+                  "category": "recreational",
+                  "coords": [
+                        14.45857,
+                        47.578527
+                  ]
+            },
+            {
+                  "name": "Naturbad Admont",
+                  "text": "A natural swimming facility offering outdoor pools in Admont.",
+                  "category": "recreational",
+                  "coords": [
+                        14.468067,
+                        47.575617
+                  ]
+            },
+            {
+                  "name": "Freibad Weng im Gesäuse",
+                  "text": "An outdoor swimming pool and leisure facility in Weng im Gesäuse.",
+                  "category": "recreational",
+                  "coords": [
+                        14.503123,
+                        47.598986
                   ]
             }
       ]
@@ -1475,6 +1583,15 @@ export const poiExtraAustriaHistorical: POI[] = [
                         15.153671,
                         48.224695
                   ]
+            },
+            {
+                  "name": "Nibelungenbad",
+                  "text": "Eine Schwimmbadanlage in der Umgebung von Schloss Artstetten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.151787,
+                        48.217512
+                  ]
             }
       ],
       "hu": [
@@ -1539,6 +1656,15 @@ export const poiExtraAustriaHistorical: POI[] = [
                   "coords": [
                         15.153671,
                         48.224695
+                  ]
+            },
+            {
+                  "name": "Nibelungenbad",
+                  "text": "Az artstetteni kastély közelében található úszómedence.",
+                  "category": "recreational",
+                  "coords": [
+                        15.151787,
+                        48.217512
                   ]
             }
       ],
@@ -1605,6 +1731,15 @@ export const poiExtraAustriaHistorical: POI[] = [
                         15.153671,
                         48.224695
                   ]
+            },
+            {
+                  "name": "Nibelungenbad",
+                  "text": "O facilitate cu piscină situată în apropierea Castelului Artstetten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.151787,
+                        48.217512
+                  ]
             }
       ],
       "en": [
@@ -1669,6 +1804,15 @@ export const poiExtraAustriaHistorical: POI[] = [
                   "coords": [
                         15.153671,
                         48.224695
+                  ]
+            },
+            {
+                  "name": "Nibelungenbad",
+                  "text": "A swimming pool facility located in the vicinity of Artstetten Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        15.151787,
+                        48.217512
                   ]
             }
       ]

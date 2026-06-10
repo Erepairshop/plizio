@@ -13570,6 +13570,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.192916,
                         51.487355
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Ein öffentliches Schwimmbad in Cardiff.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
+                  ]
             }
       ],
       "hu": [
@@ -14001,6 +14010,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.192916,
                         51.487355
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Közönséges úszómedence Cardiffban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
                   ]
             }
       ],
@@ -14434,6 +14452,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.192916,
                         51.487355
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "O piscină publică în Cardiff.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
+                  ]
             }
       ],
       "en": [
@@ -14866,6 +14893,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.192916,
                         51.487355
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "A public swimming pool in Cardiff.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
+                  ]
             }
       ]
 }
@@ -15223,6 +15259,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -5.930505,
                         54.594625
                   ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "Ein öffentliches Schwimmbad im Grove-Viertel von Nord-Belfast.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "Ein Spielzentrum und Vergnügungsbereich für Kinder in Belfast.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.913117,
+                        54.59922
+                  ]
             }
       ],
       "hu": [
@@ -15575,6 +15629,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -5.930505,
                         54.594625
+                  ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "Nyilvános uszoda Belfast északi részén, a Grove negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "Gyermekjátszóház és szórakoztató központ Belfastban.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.913117,
+                        54.59922
                   ]
             }
       ],
@@ -15929,6 +16001,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -5.930505,
                         54.594625
                   ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "O facilitate publică de înot situată în zona Grove din nordul Belfastului.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "Un centru de joacă pentru copii și o zonă de distracție situată în Belfast.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.913117,
+                        54.59922
+                  ]
             }
       ],
       "en": [
@@ -16281,6 +16371,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -5.930505,
                         54.594625
+                  ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "A public swimming facility located in the Grove area of North Belfast.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "A children's play center and amusement area located in Belfast.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.913117,
+                        54.59922
                   ]
             }
       ]
@@ -17588,6 +17696,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         1.137005,
                         52.062865
                   ]
+            },
+            {
+                  "name": "Jimmy’s Farm & Wildlife Park",
+                  "text": "Ein Wildtierpark und Bauernhof in der Nähe von Ipswich.",
+                  "category": "recreational",
+                  "coords": [
+                        1.126982,
+                        52.021165
+                  ]
             }
       ],
       "hu": [
@@ -17797,6 +17914,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         1.137005,
                         52.062865
+                  ]
+            },
+            {
+                  "name": "Jimmy’s Farm & Wildlife Park",
+                  "text": "Vadaspark és farm Ipswich közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.126982,
+                        52.021165
                   ]
             }
       ],
@@ -18008,6 +18134,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         1.137005,
                         52.062865
                   ]
+            },
+            {
+                  "name": "Jimmy’s Farm & Wildlife Park",
+                  "text": "Un parc de animale sălbatice și fermă lângă Ipswich.",
+                  "category": "recreational",
+                  "coords": [
+                        1.126982,
+                        52.021165
+                  ]
             }
       ],
       "en": [
@@ -18217,6 +18352,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         1.137005,
                         52.062865
+                  ]
+            },
+            {
+                  "name": "Jimmy’s Farm & Wildlife Park",
+                  "text": "A wildlife park and farm located near Ipswich.",
+                  "category": "recreational",
+                  "coords": [
+                        1.126982,
+                        52.021165
                   ]
             }
       ]
@@ -22861,6 +23005,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.866568,
                         52.246345
                   ]
+            },
+            {
+                  "name": "Boost Trampoline Parks",
+                  "text": "Ein Indoor-Trampolinpark in Northampton mit durchgehenden, miteinander verbundenen Trampolinen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.839751,
+                        52.240471
+                  ]
             }
       ],
       "hu": [
@@ -23123,6 +23276,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.866568,
                         52.246345
+                  ]
+            },
+            {
+                  "name": "Boost Trampoline Parks",
+                  "text": "Fedett trambulinpark Northamptonban, egymáshoz kapcsolódó trambulinokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.839751,
+                        52.240471
                   ]
             }
       ],
@@ -23387,6 +23549,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.866568,
                         52.246345
                   ]
+            },
+            {
+                  "name": "Boost Trampoline Parks",
+                  "text": "Un parc de trambuline acoperit în Northampton, cu trambuline interconectate pe toată suprafața.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.839751,
+                        52.240471
+                  ]
             }
       ],
       "en": [
@@ -23649,6 +23820,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.866568,
                         52.246345
+                  ]
+            },
+            {
+                  "name": "Boost Trampoline Parks",
+                  "text": "An indoor trampoline park in Northampton featuring wall-to-wall interconnected trampolines.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.839751,
+                        52.240471
                   ]
             }
       ]
@@ -35165,6 +35345,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.958301,
                         51.443881
                   ]
+            },
+            {
+                  "name": "David Lloyd",
+                  "text": "Ein privater Fitnessclub in Reading mit hochwertigen Schwimmbadanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.932031,
+                        51.4625
+                  ]
+            },
+            {
+                  "name": "Thames Lido",
+                  "text": "Ein restauriertes edwardianisches Freibad und Spa in Reading.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.965362,
+                        51.460247
+                  ]
             }
       ],
       "hu": [
@@ -35535,6 +35733,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.958301,
                         51.443881
+                  ]
+            },
+            {
+                  "name": "David Lloyd",
+                  "text": "Magán egészségklub Readingben, kiváló minőségű úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.932031,
+                        51.4625
+                  ]
+            },
+            {
+                  "name": "Thames Lido",
+                  "text": "Restaurált edwardi kori szabadtéri úszómedence és fürdő Readingben.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.965362,
+                        51.460247
                   ]
             }
       ],
@@ -35907,6 +36123,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.958301,
                         51.443881
                   ]
+            },
+            {
+                  "name": "David Lloyd",
+                  "text": "Un club de sănătate privat în Reading, care oferă facilități de înot de înaltă calitate.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.932031,
+                        51.4625
+                  ]
+            },
+            {
+                  "name": "Thames Lido",
+                  "text": "O piscină în aer liber și un spa din epoca edwardiană, restaurate, situate în Reading.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.965362,
+                        51.460247
+                  ]
             }
       ],
       "en": [
@@ -36277,6 +36511,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.958301,
                         51.443881
+                  ]
+            },
+            {
+                  "name": "David Lloyd",
+                  "text": "A private health club in Reading offering high-quality swimming pool facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.932031,
+                        51.4625
+                  ]
+            },
+            {
+                  "name": "Thames Lido",
+                  "text": "A restored Edwardian open-air swimming pool and spa located in Reading.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.965362,
+                        51.460247
                   ]
             }
       ]
@@ -36761,6 +37013,33 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.044311,
                         53.816512
                   ]
+            },
+            {
+                  "name": "Olympian Swimming School",
+                  "text": "Eine Schwimmschule in Blackpool, die Kurse für verschiedene Altersgruppen und Leistungsstufen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02172,
+                        53.78665
+                  ]
+            },
+            {
+                  "name": "Moor Park Swimming Pool",
+                  "text": "Ein öffentliches Schwimmbad in Blackpool, das Möglichkeiten für Sport und Freizeit im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.037292,
+                        53.848485
+                  ]
+            },
+            {
+                  "name": "Palatine Swimming Pool",
+                  "text": "Ein Sportbad in Blackpool, das über professionelle Bahnen für Training und Wettkämpfe verfügt.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.042399,
+                        53.794626
+                  ]
             }
       ],
       "hu": [
@@ -37239,6 +37518,33 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.044311,
                         53.816512
+                  ]
+            },
+            {
+                  "name": "Olympian Swimming School",
+                  "text": "Úszóiskola Blackpoolban, amely tanfolyamokat kínál különböző korosztályok és szintű úszók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02172,
+                        53.78665
+                  ]
+            },
+            {
+                  "name": "Moor Park Swimming Pool",
+                  "text": "Nyilvános úszómedence Blackpoolban, amely sportolási és szabadidős lehetőségeket kínál a vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.037292,
+                        53.848485
+                  ]
+            },
+            {
+                  "name": "Palatine Swimming Pool",
+                  "text": "Sportuszoda Blackpoolban, amely professzionális pályákkal rendelkezik edzésekhez és versenyekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.042399,
+                        53.794626
                   ]
             }
       ],
@@ -37719,6 +38025,33 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.044311,
                         53.816512
                   ]
+            },
+            {
+                  "name": "Olympian Swimming School",
+                  "text": "O școală de înot în Blackpool, care oferă cursuri pentru diverse grupe de vârstă și niveluri de performanță.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02172,
+                        53.78665
+                  ]
+            },
+            {
+                  "name": "Moor Park Swimming Pool",
+                  "text": "O piscină publică în Blackpool, care oferă facilități pentru sport și recreere în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.037292,
+                        53.848485
+                  ]
+            },
+            {
+                  "name": "Palatine Swimming Pool",
+                  "text": "O piscină sportivă în Blackpool, dotată cu culoare profesionale pentru antrenamente și competiții.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.042399,
+                        53.794626
+                  ]
             }
       ],
       "en": [
@@ -38197,6 +38530,33 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.044311,
                         53.816512
+                  ]
+            },
+            {
+                  "name": "Olympian Swimming School",
+                  "text": "A swimming school in Blackpool offering classes for various age groups and skill levels.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02172,
+                        53.78665
+                  ]
+            },
+            {
+                  "name": "Moor Park Swimming Pool",
+                  "text": "A public swimming pool in Blackpool offering facilities for sports and leisure in the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.037292,
+                        53.848485
+                  ]
+            },
+            {
+                  "name": "Palatine Swimming Pool",
+                  "text": "A sports pool in Blackpool featuring professional lanes for training and competitions.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.042399,
+                        53.794626
                   ]
             }
       ]
@@ -43581,6 +43941,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.300012,
                         53.431408
                   ]
+            },
+            {
+                  "name": "Pets corner",
+                  "text": "Ein kleiner Tierpark in Sale, in dem Besucher zahme Tiere aus nächster Nähe beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.29198,
+                        53.447199
+                  ]
+            },
+            {
+                  "name": "Seasonal Fairground",
+                  "text": "Ein saisonaler Jahrmarkt in Sale, der zur entsprechenden Jahreszeit Fahrgeschäfte und Spiele bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.277385,
+                        53.401781
+                  ]
             }
       ],
       "hu": [
@@ -43987,6 +44365,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.300012,
                         53.431408
+                  ]
+            },
+            {
+                  "name": "Pets corner",
+                  "text": "Kis állatkert Sale-ben, ahol a látogatók közelről figyelhetik meg a szelíd állatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.29198,
+                        53.447199
+                  ]
+            },
+            {
+                  "name": "Seasonal Fairground",
+                  "text": "Szezonális vidámpark Sale-ben, amely az adott évszakban játékokkal és körhintákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.277385,
+                        53.401781
                   ]
             }
       ],
@@ -44395,6 +44791,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.300012,
                         53.431408
                   ]
+            },
+            {
+                  "name": "Pets corner",
+                  "text": "O mică grădină zoologică în Sale, unde vizitatorii pot observa animale domestice de aproape.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.29198,
+                        53.447199
+                  ]
+            },
+            {
+                  "name": "Seasonal Fairground",
+                  "text": "Un bâlci sezonier în Sale, care oferă atracții și jocuri în perioada corespunzătoare a anului.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.277385,
+                        53.401781
+                  ]
             }
       ],
       "en": [
@@ -44802,6 +45216,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.300012,
                         53.431408
                   ]
+            },
+            {
+                  "name": "Pets corner",
+                  "text": "A small animal park in Sale where visitors can observe tame animals up close.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.29198,
+                        53.447199
+                  ]
+            },
+            {
+                  "name": "Seasonal Fairground",
+                  "text": "A seasonal fairground in Sale offering rides and games during the designated times of the year.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.277385,
+                        53.401781
+                  ]
             }
       ]
 }
@@ -45169,6 +45601,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         0.149029,
                         52.207829
                   ]
+            },
+            {
+                  "name": "Deadmans Corner",
+                  "text": "Ein Badebereich in Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.104681,
+                        52.190507
+                  ]
+            },
+            {
+                  "name": "Sheep's Green DBW",
+                  "text": "Ein Badebereich am Sheep's Green in Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117087,
+                        52.196247
+                  ]
+            },
+            {
+                  "name": "Jesus Green Lido",
+                  "text": "Das Jesus Green Lido in Cambridge ist eines der längsten Freibäder Europas.",
+                  "category": "recreational",
+                  "coords": [
+                        0.123262,
+                        52.212985
+                  ]
+            },
+            {
+                  "name": "Malcolm Bowie Bathing Pool",
+                  "text": "Ein Schwimmbad in Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.124068,
+                        52.207015
+                  ]
             }
       ],
       "hu": [
@@ -45531,6 +45999,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         0.149029,
                         52.207829
+                  ]
+            },
+            {
+                  "name": "Deadmans Corner",
+                  "text": "Egy fürdőhely Cambridge-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        0.104681,
+                        52.190507
+                  ]
+            },
+            {
+                  "name": "Sheep's Green DBW",
+                  "text": "Fürdőhely a cambridge-i Sheep's Green területén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117087,
+                        52.196247
+                  ]
+            },
+            {
+                  "name": "Jesus Green Lido",
+                  "text": "A cambridge-i Jesus Green Lido Európa egyik leghosszabb szabadtéri úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        0.123262,
+                        52.212985
+                  ]
+            },
+            {
+                  "name": "Malcolm Bowie Bathing Pool",
+                  "text": "Úszómedence Cambridge-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        0.124068,
+                        52.207015
                   ]
             }
       ],
@@ -45895,6 +46399,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         0.149029,
                         52.207829
                   ]
+            },
+            {
+                  "name": "Deadmans Corner",
+                  "text": "O zonă de scăldat în Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.104681,
+                        52.190507
+                  ]
+            },
+            {
+                  "name": "Sheep's Green DBW",
+                  "text": "O zonă de scăldat în Sheep's Green, Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117087,
+                        52.196247
+                  ]
+            },
+            {
+                  "name": "Jesus Green Lido",
+                  "text": "Jesus Green Lido din Cambridge este una dintre cele mai lungi piscine în aer liber din Europa.",
+                  "category": "recreational",
+                  "coords": [
+                        0.123262,
+                        52.212985
+                  ]
+            },
+            {
+                  "name": "Malcolm Bowie Bathing Pool",
+                  "text": "O piscină în Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.124068,
+                        52.207015
+                  ]
             }
       ],
       "en": [
@@ -46257,6 +46797,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         0.149029,
                         52.207829
+                  ]
+            },
+            {
+                  "name": "Deadmans Corner",
+                  "text": "A swimming area located in Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.104681,
+                        52.190507
+                  ]
+            },
+            {
+                  "name": "Sheep's Green DBW",
+                  "text": "A swimming area at Sheep's Green in Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.117087,
+                        52.196247
+                  ]
+            },
+            {
+                  "name": "Jesus Green Lido",
+                  "text": "Jesus Green Lido in Cambridge is one of the longest outdoor swimming pools in Europe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.123262,
+                        52.212985
+                  ]
+            },
+            {
+                  "name": "Malcolm Bowie Bathing Pool",
+                  "text": "A swimming pool located in Cambridge.",
+                  "category": "recreational",
+                  "coords": [
+                        0.124068,
+                        52.207015
                   ]
             }
       ]
@@ -59299,6 +59875,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.468997,
                         52.116042
                   ]
+            },
+            {
+                  "name": "Oasis Beach Pool",
+                  "text": "Ein tropisch gestaltetes Hallenbad in Bedford mit Rutschen und Wellenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.448136,
+                        52.130368
+                  ]
             }
       ],
       "hu": [
@@ -59507,6 +60092,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.468997,
                         52.116042
+                  ]
+            },
+            {
+                  "name": "Oasis Beach Pool",
+                  "text": "Trópusi hangulatú fedett vízipark Bedfordban, csúszdákkal és hullámmedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.448136,
+                        52.130368
                   ]
             }
       ],
@@ -59717,6 +60311,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.468997,
                         52.116042
                   ]
+            },
+            {
+                  "name": "Oasis Beach Pool",
+                  "text": "Un parc acvatic acoperit cu tematică tropicală în Bedford, cu tobogane și piscină cu valuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.448136,
+                        52.130368
+                  ]
             }
       ],
       "en": [
@@ -59925,6 +60528,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.468997,
                         52.116042
+                  ]
+            },
+            {
+                  "name": "Oasis Beach Pool",
+                  "text": "A tropical-themed indoor water park in Bedford with slides and a wave pool.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.448136,
+                        52.130368
                   ]
             }
       ]
@@ -117776,6 +118388,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.901434,
                         52.451998
                   ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "Ein Indoor-Freizeitpark in Sparkbrook, der auf die Welt der LEGO-Steine spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.915126,
+                        52.479095
+                  ]
+            },
+            {
+                  "name": "National Sea Life Centre",
+                  "text": "Ein großes Aquarium mit einer vielfältigen Meereswelt und einem Unterwassertunnel.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.913526,
+                        52.478819
+                  ]
+            },
+            {
+                  "name": "Birmingham Wildlife Conservation Park",
+                  "text": "Dieser Naturschutzpark beheimatet eine Vielzahl von Tieren, darunter Rote Pandas und Lemuren.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.910254,
+                        52.449608
+                  ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Ein lokaler Freizeitpark mit verschiedenen Fahrgeschäften und Unterhaltung für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.902674,
+                        52.452241
+                  ]
             }
       ],
       "hu": [
@@ -118021,6 +118669,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.901434,
                         52.451998
+                  ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "Beltéri élménypark Sparkbrookban, amely a LEGO-kockák világára specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.915126,
+                        52.479095
+                  ]
+            },
+            {
+                  "name": "National Sea Life Centre",
+                  "text": "Nagy akvárium változatos tengeri élővilággal és víz alatti alagúttal.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.913526,
+                        52.478819
+                  ]
+            },
+            {
+                  "name": "Birmingham Wildlife Conservation Park",
+                  "text": "Ez a természetvédelmi park számos állatnak, például vörös pandáknak és lemúroknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.910254,
+                        52.449608
+                  ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Helyi vidámpark különféle játékokkal és szórakozási lehetőségekkel családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.902674,
+                        52.452241
                   ]
             }
       ],
@@ -118268,6 +118952,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.901434,
                         52.451998
                   ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "Un centru de divertisment interior în Sparkbrook, specializat pe lumea cărămizilor LEGO.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.915126,
+                        52.479095
+                  ]
+            },
+            {
+                  "name": "National Sea Life Centre",
+                  "text": "Un acvariu mare cu o viață marină diversă și un tunel subacvatic.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.913526,
+                        52.478819
+                  ]
+            },
+            {
+                  "name": "Birmingham Wildlife Conservation Park",
+                  "text": "Acest parc de conservare găzduiește o varietate de animale, inclusiv panda roșii și lemuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.910254,
+                        52.449608
+                  ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Un parc de distracții local care oferă diverse atracții și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.902674,
+                        52.452241
+                  ]
             }
       ],
       "en": [
@@ -118513,6 +119233,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.901434,
                         52.451998
+                  ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "An indoor theme park in Sparkbrook specializing in the world of LEGO bricks.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.915126,
+                        52.479095
+                  ]
+            },
+            {
+                  "name": "National Sea Life Centre",
+                  "text": "A large aquarium featuring diverse marine life and an underwater tunnel.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.913526,
+                        52.478819
+                  ]
+            },
+            {
+                  "name": "Birmingham Wildlife Conservation Park",
+                  "text": "This conservation park is home to a variety of animals, including red pandas and lemurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.910254,
+                        52.449608
+                  ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "A local amusement park offering various rides and entertainment for families.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.902674,
+                        52.452241
                   ]
             }
       ]
@@ -130636,6 +131392,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.473402,
                         54.995714
                   ]
+            },
+            {
+                  "name": "Jarrow Swimming Pool",
+                  "text": "Eine öffentliche Schwimmanlage in Jarrow, die Möglichkeiten für Sport und Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488814,
+                        54.972458
+                  ]
+            },
+            {
+                  "name": "Inflata Nation",
+                  "text": "Ein aufblasbarer Indoor-Freizeitpark mit Hüpfhindernissen und Aktivitäten für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463148,
+                        54.995496
+                  ]
             }
       ],
       "hu": [
@@ -130753,6 +131527,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.473402,
                         54.995714
+                  ]
+            },
+            {
+                  "name": "Jarrow Swimming Pool",
+                  "text": "Nyilvános úszómedence Jarrow-ban, amely sportolási és kikapcsolódási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488814,
+                        54.972458
+                  ]
+            },
+            {
+                  "name": "Inflata Nation",
+                  "text": "Beltéri felfújható vidámpark ugráló akadályokkal és tevékenységekkel minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463148,
+                        54.995496
                   ]
             }
       ],
@@ -130872,6 +131664,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.473402,
                         54.995714
                   ]
+            },
+            {
+                  "name": "Jarrow Swimming Pool",
+                  "text": "O facilitate publică de înot din Jarrow care oferă oportunități pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488814,
+                        54.972458
+                  ]
+            },
+            {
+                  "name": "Inflata Nation",
+                  "text": "Un parc tematic gonflabil de interior, cu obstacole și activități pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463148,
+                        54.995496
+                  ]
             }
       ],
       "en": [
@@ -130989,6 +131799,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.473402,
                         54.995714
+                  ]
+            },
+            {
+                  "name": "Jarrow Swimming Pool",
+                  "text": "A public swimming facility in Jarrow providing opportunities for exercise and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488814,
+                        54.972458
+                  ]
+            },
+            {
+                  "name": "Inflata Nation",
+                  "text": "An indoor inflatable theme park featuring bouncy obstacles and activities for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.463148,
+                        54.995496
                   ]
             }
       ]
@@ -136506,6 +137334,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.491337,
                         52.923565
                   ]
+            },
+            {
+                  "name": "Lonsdale Swimming Pool",
+                  "text": "Ein örtliches Schwimmbad in Littleover.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.530356,
+                        52.911366
+                  ]
             }
       ],
       "hu": [
@@ -136721,6 +137558,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.491337,
                         52.923565
+                  ]
+            },
+            {
+                  "name": "Lonsdale Swimming Pool",
+                  "text": "Helyi úszómedence Littleoverben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.530356,
+                        52.911366
                   ]
             }
       ],
@@ -136938,6 +137784,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.491337,
                         52.923565
                   ]
+            },
+            {
+                  "name": "Lonsdale Swimming Pool",
+                  "text": "O piscină locală în Littleover.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.530356,
+                        52.911366
+                  ]
             }
       ],
       "en": [
@@ -137153,6 +138008,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.491337,
                         52.923565
+                  ]
+            },
+            {
+                  "name": "Lonsdale Swimming Pool",
+                  "text": "A local swimming pool in Littleover.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.530356,
+                        52.911366
                   ]
             }
       ]
@@ -145306,6 +146170,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.535851,
                         52.695114
                   ]
+            },
+            {
+                  "name": "Jungleland",
+                  "text": "Ein Indoor-Freizeitpark und Softplay-Bereich, der für die Unterhaltung von Kindern konzipiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.471363,
+                        52.709445
+                  ]
             }
       ],
       "hu": [
@@ -145397,6 +146270,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.535851,
                         52.695114
+                  ]
+            },
+            {
+                  "name": "Jungleland",
+                  "text": "Gyermekek szórakoztatására tervezett beltéri élménypark és játszóház.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.471363,
+                        52.709445
                   ]
             }
       ],
@@ -145490,6 +146372,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.535851,
                         52.695114
                   ]
+            },
+            {
+                  "name": "Jungleland",
+                  "text": "Un parc tematic de interior și un loc de joacă conceput pentru divertismentul copiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.471363,
+                        52.709445
+                  ]
             }
       ],
       "en": [
@@ -145581,6 +146472,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.535851,
                         52.695114
+                  ]
+            },
+            {
+                  "name": "Jungleland",
+                  "text": "An indoor theme park and soft play area designed for children's entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.471363,
+                        52.709445
                   ]
             }
       ]
@@ -157301,6 +158201,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.795832,
                         56.341593
                   ]
+            },
+            {
+                  "name": "Castle Pool",
+                  "text": "Eine öffentliche Schwimmbadanlage für die Gemeinde St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788847,
+                        56.341878
+                  ]
             }
       ],
       "hu": [
@@ -157483,6 +158392,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.795832,
                         56.341593
+                  ]
+            },
+            {
+                  "name": "Castle Pool",
+                  "text": "St Andrews közösségét kiszolgáló nyilvános uszoda.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788847,
+                        56.341878
                   ]
             }
       ],
@@ -157667,6 +158585,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.795832,
                         56.341593
                   ]
+            },
+            {
+                  "name": "Castle Pool",
+                  "text": "O piscină publică care deservește comunitatea din St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788847,
+                        56.341878
+                  ]
             }
       ],
       "en": [
@@ -157849,6 +158776,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.795832,
                         56.341593
+                  ]
+            },
+            {
+                  "name": "Castle Pool",
+                  "text": "A public swimming pool facility serving the community of St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788847,
+                        56.341878
                   ]
             }
       ]
@@ -159157,6 +160093,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.122653,
                         50.822785
                   ]
+            },
+            {
+                  "name": "Hilsea Lido",
+                  "text": "Ein historisches Freibad in der Nähe von Portchester, das für sein klassisches Design bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076362,
+                        50.836301
+                  ]
             }
       ],
       "hu": [
@@ -159331,6 +160276,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.122653,
                         50.822785
+                  ]
+            },
+            {
+                  "name": "Hilsea Lido",
+                  "text": "Történelmi kültéri úszóhely Portchester közelében, amely klasszikus stílusáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076362,
+                        50.836301
                   ]
             }
       ],
@@ -159507,6 +160461,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.122653,
                         50.822785
                   ]
+            },
+            {
+                  "name": "Hilsea Lido",
+                  "text": "Un ștrand istoric lângă Portchester, cunoscut pentru designul său clasic.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076362,
+                        50.836301
+                  ]
             }
       ],
       "en": [
@@ -159681,6 +160644,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.122653,
                         50.822785
+                  ]
+            },
+            {
+                  "name": "Hilsea Lido",
+                  "text": "A historic outdoor swimming pool near Portchester, known for its classic design.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076362,
+                        50.836301
                   ]
             }
       ]
@@ -165247,6 +166219,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.061441,
                         53.269453
                   ]
+            },
+            {
+                  "name": "Greenacres Animal Park",
+                  "text": "Ein lokaler Zoo und Bauernhofpark, in dem Besucher mit verschiedenen Tieren interagieren können.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.023685,
+                        53.196838
+                  ]
             }
       ],
       "hu": [
@@ -165375,6 +166356,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.061441,
                         53.269453
+                  ]
+            },
+            {
+                  "name": "Greenacres Animal Park",
+                  "text": "Helyi állatkert és farmpark, ahol a látogatók különféle állatokkal találkozhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.023685,
+                        53.196838
                   ]
             }
       ],
@@ -165505,6 +166495,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.061441,
                         53.269453
                   ]
+            },
+            {
+                  "name": "Greenacres Animal Park",
+                  "text": "O grădină zoologică locală și un parc de fermă unde vizitatorii pot interacționa cu diverse animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.023685,
+                        53.196838
+                  ]
             }
       ],
       "en": [
@@ -165633,6 +166632,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.061441,
                         53.269453
+                  ]
+            },
+            {
+                  "name": "Greenacres Animal Park",
+                  "text": "A local zoo and farm park where visitors can interact with various animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.023685,
+                        53.196838
                   ]
             }
       ]
@@ -169437,6 +170445,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.153263,
                         51.619671
                   ]
+            },
+            {
+                  "name": "Oakleigh Park School of Swimming",
+                  "text": "Eine Schwimmschule im Brunswick Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.200881,
+                        51.614147
+                  ]
             }
       ],
       "hu": [
@@ -169807,6 +170824,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.153263,
                         51.619671
+                  ]
+            },
+            {
+                  "name": "Oakleigh Park School of Swimming",
+                  "text": "Úszóiskola a Brunswick Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.200881,
+                        51.614147
                   ]
             }
       ],
@@ -170179,6 +171205,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.153263,
                         51.619671
                   ]
+            },
+            {
+                  "name": "Oakleigh Park School of Swimming",
+                  "text": "O școală de înot în Brunswick Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.200881,
+                        51.614147
+                  ]
             }
       ],
       "en": [
@@ -170549,6 +171584,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.153263,
                         51.619671
+                  ]
+            },
+            {
+                  "name": "Oakleigh Park School of Swimming",
+                  "text": "A swimming school located in Brunswick Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.200881,
+                        51.614147
                   ]
             }
       ]
@@ -172331,6 +173375,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.450885,
                         53.585938
                   ]
+            },
+            {
+                  "name": "Bolton Aquarium",
+                  "text": "Das Bolton Aquarium ist ein öffentliches Aquarium in Bolton.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.431462,
+                        53.577378
+                  ]
             }
       ],
       "hu": [
@@ -172467,6 +173520,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.450885,
                         53.585938
+                  ]
+            },
+            {
+                  "name": "Bolton Aquarium",
+                  "text": "A Bolton Aquarium egy nyilvános akvárium Boltonban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.431462,
+                        53.577378
                   ]
             }
       ],
@@ -172605,6 +173667,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.450885,
                         53.585938
                   ]
+            },
+            {
+                  "name": "Bolton Aquarium",
+                  "text": "Acvariul din Bolton este un acvariu public situat în Bolton.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.431462,
+                        53.577378
+                  ]
             }
       ],
       "en": [
@@ -172741,6 +173812,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.450885,
                         53.585938
+                  ]
+            },
+            {
+                  "name": "Bolton Aquarium",
+                  "text": "Bolton Aquarium is a public aquarium located in Bolton.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.431462,
+                        53.577378
                   ]
             }
       ]
@@ -186893,6 +187973,60 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.075432,
                         51.599154
                   ]
+            },
+            {
+                  "name": "The Park Club - Pool",
+                  "text": "Ein privates Schwimmbad im The Park Club im Viertel St Ann's.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113223,
+                        51.592774
+                  ]
+            },
+            {
+                  "name": "West Reservoir Centre",
+                  "text": "Ein Wassersportzentrum in St Ann's, das Freiwasserschwimmen in einem Reservoir anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089704,
+                        51.567505
+                  ]
+            },
+            {
+                  "name": "Plantschbecken",
+                  "text": "Ein seichtes Außenbecken für Kinder im Stadtteil St Ann's.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087099,
+                        51.559919
+                  ]
+            },
+            {
+                  "name": "Hornsey Road Baths & Laundry",
+                  "text": "Eine historische öffentliche Bade- und Wäscheeinrichtung im Viertel St Ann's.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.115905,
+                        51.561272
+                  ]
+            },
+            {
+                  "name": "Park Road Lido",
+                  "text": "Das Park Road Lido in St Ann's ist ein Freibad, das Möglichkeiten zum Schwimmen und zur Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.129874,
+                        51.582835
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "Dieses Kinderschwimmbecken in St Ann's ist eine auf junge Besucher ausgerichtete Freizeiteinrichtung.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087789,
+                        51.593542
+                  ]
             }
       ],
       "hu": [
@@ -187291,6 +188425,60 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.075432,
                         51.599154
+                  ]
+            },
+            {
+                  "name": "The Park Club - Pool",
+                  "text": "A St Ann's negyedben található Park Club privát úszómedencéje.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113223,
+                        51.592774
+                  ]
+            },
+            {
+                  "name": "West Reservoir Centre",
+                  "text": "Vízisport-központ St Ann's-ban, amely nyílt vízi úszást kínál egy víztározóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089704,
+                        51.567505
+                  ]
+            },
+            {
+                  "name": "Paddling Pool",
+                  "text": "Sekély szabadtéri gyermekmedence St Ann's negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087099,
+                        51.559919
+                  ]
+            },
+            {
+                  "name": "Hornsey Road Baths & Laundry",
+                  "text": "Történelmi közfürdő és mosoda St Ann's területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.115905,
+                        51.561272
+                  ]
+            },
+            {
+                  "name": "Park Road Lido",
+                  "text": "A St Ann's-i Park Road Lido egy szabadtéri úszómedence, amely kikapcsolódási és sportolási lehetőséget nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.129874,
+                        51.582835
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "Ez a St Ann's-i gyermekmedence egy kifejezetten a fiatalabb látogatók számára kialakított szabadidős létesítmény.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087789,
+                        51.593542
                   ]
             }
       ],
@@ -187691,6 +188879,60 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.075432,
                         51.599154
                   ]
+            },
+            {
+                  "name": "The Park Club - Pool",
+                  "text": "O piscină privată situată în cadrul clubului The Park în zona St Ann's.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113223,
+                        51.592774
+                  ]
+            },
+            {
+                  "name": "West Reservoir Centre",
+                  "text": "Un centru de sporturi nautice în St Ann's, care oferă înot în apă deschisă într-un rezervor.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089704,
+                        51.567505
+                  ]
+            },
+            {
+                  "name": "Paddling Pool",
+                  "text": "O piscină exterioară de mică adâncime pentru copii, situată în districtul St Ann's.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087099,
+                        51.559919
+                  ]
+            },
+            {
+                  "name": "Hornsey Road Baths & Laundry",
+                  "text": "O facilitate istorică de baie și spălătorie publică situată în zona St Ann's.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.115905,
+                        51.561272
+                  ]
+            },
+            {
+                  "name": "Park Road Lido",
+                  "text": "Park Road Lido din St Ann's este o piscină în aer liber care oferă facilități pentru înot și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.129874,
+                        51.582835
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "Această piscină pentru copii din St Ann's este o facilitate de agrement dedicată celor mici.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087789,
+                        51.593542
+                  ]
             }
       ],
       "en": [
@@ -188089,6 +189331,60 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.075432,
                         51.599154
+                  ]
+            },
+            {
+                  "name": "The Park Club - Pool",
+                  "text": "A private swimming pool located within The Park Club in the St Ann's area.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113223,
+                        51.592774
+                  ]
+            },
+            {
+                  "name": "West Reservoir Centre",
+                  "text": "A water sports center in St Ann's offering open-water swimming in a reservoir.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089704,
+                        51.567505
+                  ]
+            },
+            {
+                  "name": "Paddling Pool",
+                  "text": "A shallow outdoor pool for children located in the St Ann's district.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087099,
+                        51.559919
+                  ]
+            },
+            {
+                  "name": "Hornsey Road Baths & Laundry",
+                  "text": "A historic public swimming and laundry facility located in the St Ann's area.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.115905,
+                        51.561272
+                  ]
+            },
+            {
+                  "name": "Park Road Lido",
+                  "text": "Park Road Lido in St Ann's is an outdoor swimming pool providing facilities for swimming and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.129874,
+                        51.582835
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "This kids' swimming pool in St Ann's is a leisure facility designed for younger visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.087789,
+                        51.593542
                   ]
             }
       ]
@@ -196667,6 +197963,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.175516,
                         51.483604
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Ein Schwimmbad im Stadtteil Riverside.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
+                  ]
             }
       ],
       "hu": [
@@ -196919,6 +198224,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.175516,
                         51.483604
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Úszómedence Riverside városrészben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
                   ]
             }
       ],
@@ -197173,6 +198487,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.175516,
                         51.483604
                   ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "O piscină în cartierul Riverside.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
+                  ]
             }
       ],
       "en": [
@@ -197425,6 +198748,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.175516,
                         51.483604
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "A swimming pool located in the Riverside area.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.160502,
+                        51.50892
                   ]
             }
       ]
@@ -198534,6 +199866,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.422347,
                         50.569181
                   ]
+            },
+            {
+                  "name": "Fancy's Family Farm",
+                  "text": "Ein gemeinschaftlich geführter Bauernhof auf Portland mit seltenen Rassen und lokaler Tierwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.430925,
+                        50.559179
+                  ]
             }
       ],
       "hu": [
@@ -198877,6 +200218,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.422347,
                         50.569181
+                  ]
+            },
+            {
+                  "name": "Fancy's Family Farm",
+                  "text": "Közösségi fenntartású farm Portlandben, ritka fajtákkal és helyi élővilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.430925,
+                        50.559179
                   ]
             }
       ],
@@ -199222,6 +200572,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.422347,
                         50.569181
                   ]
+            },
+            {
+                  "name": "Fancy's Family Farm",
+                  "text": "O fermă administrată de comunitate din Portland, cu rase rare și animale locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.430925,
+                        50.559179
+                  ]
             }
       ],
       "en": [
@@ -199565,6 +200924,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.422347,
                         50.569181
+                  ]
+            },
+            {
+                  "name": "Fancy's Family Farm",
+                  "text": "A community-run farm on Portland featuring rare breeds and local wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.430925,
+                        50.559179
                   ]
             }
       ]
@@ -201515,6 +202883,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.180292,
                         51.556895
                   ]
+            },
+            {
+                  "name": "Londoner Zoo",
+                  "text": "Der älteste wissenschaftliche Zoo der Welt im Regent's Park beherbergt eine riesige Sammlung von Arten.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.154686,
+                        51.535318
+                  ]
             }
       ],
       "hu": [
@@ -202111,6 +203488,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.180292,
                         51.556895
+                  ]
+            },
+            {
+                  "name": "London Zoo",
+                  "text": "A világ legrégebbi tudományos állatkertje a Regent's Parkban, hatalmas fajgyűjteménnyel.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.154686,
+                        51.535318
                   ]
             }
       ],
@@ -202709,6 +204095,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.180292,
                         51.556895
                   ]
+            },
+            {
+                  "name": "London Zoo",
+                  "text": "Cea mai veche grădină zoologică științifică din lume, care adăpostește o colecție vastă de specii în Regent's Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.154686,
+                        51.535318
+                  ]
             }
       ],
       "en": [
@@ -203305,6 +204700,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.180292,
                         51.556895
+                  ]
+            },
+            {
+                  "name": "London Zoo",
+                  "text": "The world's oldest scientific zoo, housing a vast collection of species in Regent's Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.154686,
+                        51.535318
                   ]
             }
       ]
@@ -208661,6 +210065,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -4.200536,
                         51.029578
                   ]
+            },
+            {
+                  "name": "South Gut",
+                  "text": "Ein Küstenabschnitt in Northam, ideal zur Erkundung der rauen Uferlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.226541,
+                        51.068842
+                  ]
             }
       ],
       "hu": [
@@ -208995,6 +210408,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -4.200536,
                         51.029578
+                  ]
+            },
+            {
+                  "name": "South Gut",
+                  "text": "Tengerparti hely Northamban, amely ideális a sziklás partvidék felfedezéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.226541,
+                        51.068842
                   ]
             }
       ],
@@ -209331,6 +210753,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -4.200536,
                         51.029578
                   ]
+            },
+            {
+                  "name": "South Gut",
+                  "text": "Un loc de coastă în Northam, ideal pentru explorarea țărmului accidentat.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.226541,
+                        51.068842
+                  ]
             }
       ],
       "en": [
@@ -209665,6 +211096,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -4.200536,
                         51.029578
+                  ]
+            },
+            {
+                  "name": "South Gut",
+                  "text": "A coastal spot in Northam, ideal for exploring the rugged shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.226541,
+                        51.068842
                   ]
             }
       ]
@@ -213210,6 +214650,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.50703,
                         51.502262
                   ]
+            },
+            {
+                  "name": "Langley Leisure Centre",
+                  "text": "Das Langley Leisure Centre in Iver bietet ein Schwimmbecken für sportliche Aktivitäten und Freizeitgestaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.535667,
+                        51.499171
+                  ]
             }
       ],
       "hu": [
@@ -213481,6 +214930,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.50703,
                         51.502262
+                  ]
+            },
+            {
+                  "name": "Langley Leisure Centre",
+                  "text": "Az iveri Langley Leisure Centre úszómedencét kínál sportoláshoz és szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.535667,
+                        51.499171
                   ]
             }
       ],
@@ -213754,6 +215212,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.50703,
                         51.502262
                   ]
+            },
+            {
+                  "name": "Langley Leisure Centre",
+                  "text": "Langley Leisure Centre din Iver oferă o piscină pentru activități sportive și recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.535667,
+                        51.499171
+                  ]
             }
       ],
       "en": [
@@ -214025,6 +215492,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.50703,
                         51.502262
+                  ]
+            },
+            {
+                  "name": "Langley Leisure Centre",
+                  "text": "Langley Leisure Centre in Iver offers a swimming pool for sporting and leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.535667,
+                        51.499171
                   ]
             }
       ]
@@ -221723,6 +223199,33 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.165493,
                         52.924839
                   ]
+            },
+            {
+                  "name": "Portland Baths",
+                  "text": "Eine öffentliche Schwimmanlage in Dunkirk mit Becken für Sport und Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.141866,
+                        52.940663
+                  ]
+            },
+            {
+                  "name": "Training Pool",
+                  "text": "Ein spezielles Schwimmbecken in Dunkirk, das hauptsächlich für Training und Unterricht genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138305,
+                        52.947745
+                  ]
+            },
+            {
+                  "name": "Learner Pool",
+                  "text": "Ein kleineres Schwimmbecken in Dunkirk, das für Anfänger und Kinder zum Üben gedacht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.145059,
+                        52.922917
+                  ]
             }
       ],
       "hu": [
@@ -222211,6 +223714,33 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.165493,
                         52.924839
+                  ]
+            },
+            {
+                  "name": "Portland Baths",
+                  "text": "Nyilvános úszólétesítmény Dunkirkben, medencékkel sportoláshoz és pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.141866,
+                        52.940663
+                  ]
+            },
+            {
+                  "name": "Training Pool",
+                  "text": "Speciális úszómedence Dunkirkben, amelyet elsősorban edzésre és oktatásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138305,
+                        52.947745
+                  ]
+            },
+            {
+                  "name": "Learner Pool",
+                  "text": "Kisebb úszómedence Dunkirkben, amelyet kezdőknek és gyerekeknek terveztek gyakorlásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.145059,
+                        52.922917
                   ]
             }
       ],
@@ -222701,6 +224231,33 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.165493,
                         52.924839
                   ]
+            },
+            {
+                  "name": "Portland Baths",
+                  "text": "O bază publică de înot din Dunkirk care oferă piscine pentru sport și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.141866,
+                        52.940663
+                  ]
+            },
+            {
+                  "name": "Training Pool",
+                  "text": "O piscină dedicată în Dunkirk, utilizată în principal pentru antrenament și cursuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138305,
+                        52.947745
+                  ]
+            },
+            {
+                  "name": "Learner Pool",
+                  "text": "O piscină mai mică în Dunkirk, concepută pentru începători și copii pentru a exersa.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.145059,
+                        52.922917
+                  ]
             }
       ],
       "en": [
@@ -223189,6 +224746,33 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.165493,
                         52.924839
+                  ]
+            },
+            {
+                  "name": "Portland Baths",
+                  "text": "A public swimming facility in Dunkirk offering pools for sport and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.141866,
+                        52.940663
+                  ]
+            },
+            {
+                  "name": "Training Pool",
+                  "text": "A training pool in Dunkirk primarily used for swimming lessons and practice.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.138305,
+                        52.947745
+                  ]
+            },
+            {
+                  "name": "Learner Pool",
+                  "text": "A learner pool in Dunkirk designed for beginners and children to practice swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.145059,
+                        52.922917
                   ]
             }
       ]
@@ -232946,6 +234530,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.574977,
                         54.774144
                   ]
+            },
+            {
+                  "name": "Freeman's Quay Pool",
+                  "text": "Das Freeman's Quay Pool in Neville's Cross ist eine öffentliche Einrichtung zum Schwimmen und Trainieren.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.574988,
+                        54.779561
+                  ]
             }
       ],
       "hu": [
@@ -233154,6 +234747,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.574977,
                         54.774144
+                  ]
+            },
+            {
+                  "name": "Freeman's Quay Pool",
+                  "text": "A Neville's Cross-i Freeman's Quay Pool egy nyilvános úszómedence, amely sportolási lehetőséget biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.574988,
+                        54.779561
                   ]
             }
       ],
@@ -233364,6 +234966,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.574977,
                         54.774144
                   ]
+            },
+            {
+                  "name": "Freeman's Quay Pool",
+                  "text": "Piscina Freeman's Quay din Neville's Cross este o facilitate publică pentru înot și antrenament.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.574988,
+                        54.779561
+                  ]
             }
       ],
       "en": [
@@ -233573,6 +235184,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.574977,
                         54.774144
                   ]
+            },
+            {
+                  "name": "Freeman's Quay Pool",
+                  "text": "Freeman's Quay Pool in Neville's Cross is a public facility for swimming and exercise.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.574988,
+                        54.779561
+                  ]
             }
       ]
 }
@@ -233742,6 +235362,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.133832,
                         51.136361
                   ]
+            },
+            {
+                  "name": "Tilgate Zoo",
+                  "text": "Ein Naturzentrum und Zoo in Worth mit einer Vielzahl von Nutztieren und exotischen Wildtieren.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.184698,
+                        51.093676
+                  ]
             }
       ],
       "hu": [
@@ -233906,6 +235535,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.133832,
                         51.136361
+                  ]
+            },
+            {
+                  "name": "Tilgate Zoo",
+                  "text": "Természetvédelmi központ és állatkert Worth-ben, számos haszonállattal és egzotikus vadállattal.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.184698,
+                        51.093676
                   ]
             }
       ],
@@ -234072,6 +235710,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.133832,
                         51.136361
                   ]
+            },
+            {
+                  "name": "Tilgate Zoo",
+                  "text": "Un centru de natură și grădină zoologică în Worth, cu o varietate de animale de fermă și animale sălbatice exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.184698,
+                        51.093676
+                  ]
             }
       ],
       "en": [
@@ -234236,6 +235883,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.133832,
                         51.136361
+                  ]
+            },
+            {
+                  "name": "Tilgate Zoo",
+                  "text": "A nature center and zoo in Worth featuring a variety of farm animals and exotic wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.184698,
+                        51.093676
                   ]
             }
       ]
@@ -261761,6 +263417,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         1.445532,
                         51.365121
                   ]
+            },
+            {
+                  "name": "Dreamland Margate",
+                  "text": "Dreamland Margate in St Peter's ist ein historischer Vergnügungspark mit einer denkmalgeschützten Holzachterbahn.",
+                  "category": "recreational",
+                  "coords": [
+                        1.377808,
+                        51.384977
+                  ]
+            },
+            {
+                  "name": "Viking Bay",
+                  "text": "Viking Bay in St Peter's ist ein beliebter Badeort mit einem markanten hufeisenförmigen Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        1.443643,
+                        51.357839
+                  ]
+            },
+            {
+                  "name": "Walpole Bay Tidal Pool",
+                  "text": "Das Walpole Bay Tidal Pool in St Peter's ist ein großes Gezeitenbecken, das zum Schwimmen im Meerwasser einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.404212,
+                        51.393138
+                  ]
+            },
+            {
+                  "name": "Paddling Pool",
+                  "text": "Dieses Planschbecken in St Peter's bietet eine sichere Umgebung für Kinder zum Spielen im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        1.444481,
+                        51.356542
+                  ]
             }
       ],
       "hu": [
@@ -262040,6 +263732,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         1.445532,
                         51.365121
+                  ]
+            },
+            {
+                  "name": "Dreamland Margate",
+                  "text": "A St Peter's-i Dreamland Margate egy történelmi vidámpark, amelynek egyik fő látványossága a műemlék hullámvasút.",
+                  "category": "recreational",
+                  "coords": [
+                        1.377808,
+                        51.384977
+                  ]
+            },
+            {
+                  "name": "Viking Bay",
+                  "text": "A St Peter's-i Viking Bay egy népszerű üdülőhely, amely jellegzetes patkó alakú homokos strandjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        1.443643,
+                        51.357839
+                  ]
+            },
+            {
+                  "name": "Walpole Bay Tidal Pool",
+                  "text": "A St Peter's-i Walpole Bay Tidal Pool egy nagy árapály-medence, amely tengervizes úszási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        1.404212,
+                        51.393138
+                  ]
+            },
+            {
+                  "name": "Paddling Pool",
+                  "text": "Ez a St Peter's-i pancsolómedence biztonságos környezetet nyújt a gyermekek számára a vizes játékhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        1.444481,
+                        51.356542
                   ]
             }
       ],
@@ -262321,6 +264049,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         1.445532,
                         51.365121
                   ]
+            },
+            {
+                  "name": "Dreamland Margate",
+                  "text": "Dreamland Margate din St Peter's este un parc de distracții istoric, renumit pentru roller coaster-ul său de patrimoniu.",
+                  "category": "recreational",
+                  "coords": [
+                        1.377808,
+                        51.384977
+                  ]
+            },
+            {
+                  "name": "Viking Bay",
+                  "text": "Viking Bay din St Peter's este o stațiune balneară populară, cunoscută pentru plaja sa cu nisip în formă de potcoavă.",
+                  "category": "recreational",
+                  "coords": [
+                        1.443643,
+                        51.357839
+                  ]
+            },
+            {
+                  "name": "Walpole Bay Tidal Pool",
+                  "text": "Walpole Bay Tidal Pool din St Peter's este o piscină cu flux și reflux de mari dimensiuni, ideală pentru înot în apă de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        1.404212,
+                        51.393138
+                  ]
+            },
+            {
+                  "name": "Paddling Pool",
+                  "text": "Această piscină pentru copii din St Peter's oferă un mediu sigur pentru joaca celor mici în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        1.444481,
+                        51.356542
+                  ]
             }
       ],
       "en": [
@@ -262600,6 +264364,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         1.445532,
                         51.365121
+                  ]
+            },
+            {
+                  "name": "Dreamland Margate",
+                  "text": "Dreamland Margate in St Peter's is a historic amusement park featuring a landmark wooden roller coaster.",
+                  "category": "recreational",
+                  "coords": [
+                        1.377808,
+                        51.384977
+                  ]
+            },
+            {
+                  "name": "Viking Bay",
+                  "text": "Viking Bay in St Peter's is a popular beach resort known for its horseshoe-shaped sandy bay.",
+                  "category": "recreational",
+                  "coords": [
+                        1.443643,
+                        51.357839
+                  ]
+            },
+            {
+                  "name": "Walpole Bay Tidal Pool",
+                  "text": "Walpole Bay Tidal Pool in St Peter's is a large tidal pool providing a seawater swimming environment.",
+                  "category": "recreational",
+                  "coords": [
+                        1.404212,
+                        51.393138
+                  ]
+            },
+            {
+                  "name": "Paddling Pool",
+                  "text": "This paddling pool in St Peter's offers a safe environment for children to enjoy water play.",
+                  "category": "recreational",
+                  "coords": [
+                        1.444481,
+                        51.356542
                   ]
             }
       ]

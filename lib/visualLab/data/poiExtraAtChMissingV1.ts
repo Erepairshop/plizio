@@ -3853,6 +3853,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.282667,
                         48.083931
                   ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Ein öffentliches Schwimmbecken zur Erholung in Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "Windradlteich",
+                  "text": "Ein lokaler Badeteich in Mödling, der zur Abkühlung im Freien einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.308228,
+                        48.057475
+                  ]
+            },
+            {
+                  "name": "Ozean Badeteich",
+                  "text": "Ein beliebter Badeteich in Mödling mit verschiedenen Freizeitmöglichkeiten am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        16.314613,
+                        48.066313
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "Ein ruhiger Naturbadeplatz in der Nähe von Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318871,
+                        48.071803
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Eine künstliche Surfanlage im SCS Multiplex bei Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.317831,
+                        48.103287
+                  ]
             }
       ],
       "hu": [
@@ -4112,6 +4157,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.282667,
                         48.083931
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Nyilvános úszómedence kikapcsolódáshoz Mödlingben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "Windradlteich",
+                  "text": "Helyi fürdőtó Mödlingben, amely szabadtéri hűsölésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        16.308228,
+                        48.057475
+                  ]
+            },
+            {
+                  "name": "Ozean Badeteich",
+                  "text": "Népszerű fürdőtó Mödlingben, különféle vízi szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.314613,
+                        48.066313
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "Csendes természetes fürdőhely Mödling közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318871,
+                        48.071803
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Mesterséges hullámlovas pálya az SCS Multiplexnél, Mödling közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.317831,
+                        48.103287
                   ]
             }
       ],
@@ -4373,6 +4463,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.282667,
                         48.083931
                   ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "O piscină publică pentru recreere în Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "Windradlteich",
+                  "text": "Un iaz local pentru scăldat în Mödling, ideal pentru răcorire în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        16.308228,
+                        48.057475
+                  ]
+            },
+            {
+                  "name": "Ozean Badeteich",
+                  "text": "Un iaz de scăldat popular în Mödling, oferind diverse facilități de agrement pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.314613,
+                        48.066313
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "Un loc liniștit de scăldat în natură lângă Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318871,
+                        48.071803
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "O instalație de surfing artificial la SCS Multiplex lângă Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.317831,
+                        48.103287
+                  ]
             }
       ],
       "en": [
@@ -4632,6 +4767,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.282667,
                         48.083931
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "A public swimming pool for recreation in Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "Windradlteich",
+                  "text": "A local bathing pond in Mödling, ideal for outdoor swimming and cooling off.",
+                  "category": "recreational",
+                  "coords": [
+                        16.308228,
+                        48.057475
+                  ]
+            },
+            {
+                  "name": "Ozean Badeteich",
+                  "text": "A popular bathing pond in Mödling offering various water-based leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        16.314613,
+                        48.066313
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "A quiet natural swimming spot located near Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318871,
+                        48.071803
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "An artificial surfing wave facility at the SCS Multiplex near Mödling.",
+                  "category": "recreational",
+                  "coords": [
+                        16.317831,
+                        48.103287
                   ]
             }
       ]
@@ -26496,6 +26676,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.082514,
                         46.624812
                   ]
+            },
+            {
+                  "name": "Wildpark Rosegg",
+                  "text": "Ein weitläufiger Tierpark beim Schloss Rosegg mit heimischen und exotischen Tieren.",
+                  "category": "park",
+                  "coords": [
+                        14.023455,
+                        46.585263
+                  ]
             }
       ],
       "hu": [
@@ -26740,6 +26929,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.082514,
                         46.624812
+                  ]
+            },
+            {
+                  "name": "Wildpark Rosegg",
+                  "text": "A Rosegg-kastély melletti tágas állatpark hazai és egzotikus állatokkal.",
+                  "category": "park",
+                  "coords": [
+                        14.023455,
+                        46.585263
                   ]
             }
       ],
@@ -26986,6 +27184,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.082514,
                         46.624812
                   ]
+            },
+            {
+                  "name": "Wildpark Rosegg",
+                  "text": "Un parc zoologic vast lângă castelul Rosegg, cu animale autohtone și exotice.",
+                  "category": "park",
+                  "coords": [
+                        14.023455,
+                        46.585263
+                  ]
             }
       ],
       "en": [
@@ -27230,6 +27437,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.082514,
                         46.624812
+                  ]
+            },
+            {
+                  "name": "Wildpark Rosegg",
+                  "text": "A sprawling wildlife park near Rosegg Castle featuring domestic and exotic animals.",
+                  "category": "park",
+                  "coords": [
+                        14.023455,
+                        46.585263
                   ]
             }
       ]
@@ -29292,6 +29508,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         11.330129,
                         47.24125
                   ]
+            },
+            {
+                  "name": "H32",
+                  "text": "Ein öffentliches Schwimmbad in Völs.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
+                  ]
             }
       ],
       "hu": [
@@ -29725,6 +29950,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         11.330129,
                         47.24125
+                  ]
+            },
+            {
+                  "name": "H32",
+                  "text": "Nyilvános úszómedence Völs településen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
                   ]
             }
       ],
@@ -30160,6 +30394,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         11.330129,
                         47.24125
                   ]
+            },
+            {
+                  "name": "H32",
+                  "text": "O piscină publică situată în Völs.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
+                  ]
             }
       ],
       "en": [
@@ -30593,6 +30836,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         11.330129,
                         47.24125
+                  ]
+            },
+            {
+                  "name": "H32",
+                  "text": "A public swimming pool located in Völs.",
+                  "category": "recreational",
+                  "coords": [
+                        11.355943,
+                        47.257174
                   ]
             }
       ]
@@ -31121,6 +31373,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.888603,
                         48.217562
                   ]
+            },
+            {
+                  "name": "Sprungbecken und Rutsche",
+                  "text": "Teil eines Freibads in Neulengbach mit einem Sprungturm und einer Wasserrutsche.",
+                  "category": "recreational",
+                  "coords": [
+                        15.89743,
+                        48.189316
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Ein sicheres Schwimmbecken für Kinder im öffentlichen Bad von Neulengbach.",
+                  "category": "recreational",
+                  "coords": [
+                        15.896446,
+                        48.189266
+                  ]
             }
       ],
       "hu": [
@@ -31239,6 +31509,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.888603,
                         48.217562
+                  ]
+            },
+            {
+                  "name": "Sprungbecken und Rutsche",
+                  "text": "Egy neulengbachi strand része ugrómedencével és csúszdával.",
+                  "category": "recreational",
+                  "coords": [
+                        15.89743,
+                        48.189316
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Biztonságos úszómedence gyermekek számára a neulengbachi közfürdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        15.896446,
+                        48.189266
                   ]
             }
       ],
@@ -31359,6 +31647,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.888603,
                         48.217562
                   ]
+            },
+            {
+                  "name": "Sprungbecken und Rutsche",
+                  "text": "Parte a unui ștrand din Neulengbach, dotată cu trambuline și un tobogan cu apă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.89743,
+                        48.189316
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "O piscină sigură pentru copii în ștrandul public din Neulengbach.",
+                  "category": "recreational",
+                  "coords": [
+                        15.896446,
+                        48.189266
+                  ]
             }
       ],
       "en": [
@@ -31477,6 +31783,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.888603,
                         48.217562
+                  ]
+            },
+            {
+                  "name": "Sprungbecken und Rutsche",
+                  "text": "Part of an outdoor pool in Neulengbach featuring a diving pool and a water slide.",
+                  "category": "recreational",
+                  "coords": [
+                        15.89743,
+                        48.189316
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "A safe swimming pool for children at the public bath in Neulengbach.",
+                  "category": "recreational",
+                  "coords": [
+                        15.896446,
+                        48.189266
                   ]
             }
       ]
@@ -39992,7 +40316,700 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "AT-8", "coords": [9.6431, 47.4669], "population": 7995, "image": "/geo-images/austria/at-hoechst.webp", "name": {"de": "Höchst", "hu": "Höchst", "ro": "Höchst", "en": "Höchst"}, "description": {"de": "Höchst liegt im Rheindelta am Bodensee und vereint bedeutende Industriebetriebe mit geschützten Naturlandschaften an der Schweizer Grenze.", "hu": "Höchst a Bódeni-tó Rajta-deltájában fekszik, és jelentős ipari vállalatokat ötvöz a svájci határ menti védett természeti tájakkal.", "ro": "Höchst este situat în delta Rinului la Lacul Constanța și combină companii industriale importante cu peisaje naturale protejate la granița cu Elveția.", "en": "Höchst is located in the Rhine Delta at Lake Constance and combines important industrial companies with protected natural landscapes on the Swiss border."}, "facts": {"de": ["Rheindelta-Lage", "Blum Hauptsitz", "Bodensee-Nähe", "Grenze zur Schweiz"], "hu": ["Rajta-delta fekvés", "Blum központ", "Bódeni-tó közelsége", "Svájci határ"], "ro": ["Locație în delta Rinului", "Sediul Blum", "Aproape de Lacul Constanța", "Granița cu Elveția"], "en": ["Rhine Delta location", "Blum headquarters", "Lake Constance proximity", "Swiss border"]}, "descriptionAdvanced": {"de": "Höchst ist eine Gemeinde im westlichsten österreichischen Bundesland Vorarlberg und liegt im Bezirk Bregenz. Geografisch befindet sich der Ort im Rheindelta am südöstlichen Ufer des Bodensees, direkt an der Grenze zur Schweiz. Das Gemeindegebiet ist geprägt durch die flache Ebene des Rheintals und die Nähe zum Alten Rhein, der die Staatsgrenze markiert. Historisch wurde Höchst erstmals im Jahr 808 urkundlich erwähnt und war lange Zeit durch die Landwirtschaft und den Fischfang am Bodensee geprägt. Eine Besonderheit ist das Naturschutzgebiet Rheindelta, das größte Feuchtgebiet am Bodensee, das direkt an Höchst grenzt und ein wichtiges Rückzugsgebiet für seltene Vogelarten darstellt. Die Architektur der Gemeinde zeigt eine Mischung aus traditionellen Vorarlberger Rheintalhäusern und modernen Gewerbebauten. Wirtschaftlich ist Höchst von enormer Bedeutung, da es der Hauptsitz der Firma Blum ist, eines der weltweit führenden Unternehmen in der Herstellung von Möbelbeschlägen. Diese industrielle Basis sorgt für eine hohe wirtschaftliche Stabilität und zahlreiche Arbeitsplätze in der Region. Die Demografie ist durch ein kontinuierliches Wachstum geprägt, wobei Höchst aufgrund seiner hohen Lebensqualität und der Nähe zu den Städten Bregenz und Dornbirn sowie zur Schweiz sehr attraktiv ist. Kulturell und gesellschaftlich ist das Dorfleben durch zahlreiche Vereine und die Lage am See geprägt, was vielfältige Wassersport- und Freizeitmöglichkeiten bietet.", "hu": "Höchst egy település Ausztria legnyugatibb tartományában, Vorarlbergben, a Bregenzi járásban. Földrajzilag a hely a Rajna-deltában, a Bódeni-tó délkeleti partján található, közvetlenül a svájci határ mentén. A település területét a Rajna-völgy síksága és az Öreg-Rajna közelsége jellemzi, amely az államhatárt alkotja. Történelmileg Höchstöt először 808-ban említették írásban, és hosszú ideig a mezőgazdaság és a bódeni-tavi halászat határozta meg az életét. Különlegessége a Rajna-delta természetvédelmi terület, amely a Bódeni-tó legnagyobb vizes élőhelye, közvetlenül határos Höchsttel, és fontos fészkelőhely ritka madárfajok számára. A település építészete a hagyományos vorarlbergi rajna-völgyi házak és a modern ipari épületek keverékét mutatja. Gazdaságilag Höchst rendkívül fontos, mivel itt található a Blum cég székhelye, amely a világ egyik vezető bútorszerelvény-gyártója. Ez az ipari háttér biztosítja a nagy gazdasági stabilitást és a számos munkahelyet a régióban. A demográfiát folyamatos növekedés jellemzi, Höchst a magas életminősége és Bregenz, Dornbirn, valamint Svájc közelsége miatt igen vonzó. Kulturálisan és társadalmilag a falusi életet számos egyesület és a tóparti fekvés határozza meg, amely változatos vízisport- és szabadidős lehetőségeket kínál.", "ro": "Höchst este o comună din cel mai vestic stat federal austriac, Vorarlberg, situată în districtul Bregenz. Din punct de vedere geografic, localitatea se află în delta Rinului, pe malul sud-estic al Lacului Constanța, chiar la granița cu Elveția. Teritoriul comunei este caracterizat de câmpia văii Rinului și proximitatea față de Rinul Vechi, care marchează granița de stat. Din punct de vedere istoric, Höchst a fost menționat pentru prima dată în anul 808 și a fost mult timp dominat de agricultură și pescuit pe Lacul Constanța. O caracteristică specială este rezervația naturală Delta Rinului, cea mai mare zonă umedă de pe Lacul Constanța, care se învecinează direct cu Höchst și reprezintă o zonă importantă de retragere pentru specii de păsări rare. Arhitectura comunei prezintă un amestec de case tradiționale din valea Rinului din Vorarlberg și clădiri comerciale moderne. Din punct de vedere economic, Höchst are o importanță enormă, fiind sediul central al companiei Blum, una dintre cele mai importante companii din lume în fabricarea feroneriei pentru mobilier. Această bază industrială asigură o stabilitate economică ridicată și numeroase locuri de muncă în regiune. Demografia este caracterizată de o creștere continuă, Höchst fiind foarte atractiv datorită calității ridicate a vieții și proximității față de orașele Bregenz și Dornbirn, precum și față de Elveția. Din punct de vedere cultural și social, viața satului este modelată de numeroase asociații și de locația de pe lac, care oferă diverse sporturi nautice și oportunități de petrecere a timpului liber.", "en": "Höchst is a municipality in the westernmost Austrian state of Vorarlberg and is located in the Bregenz district. Geographically, the place is situated in the Rhine Delta on the southeastern shore of Lake Constance, directly on the border with Switzerland. The municipal area is characterized by the flat plains of the Rhine Valley and the proximity to the Old Rhine, which marks the national border. Historically, Höchst was first mentioned in documents in 808 and was long shaped by agriculture and fishing on Lake Constance. A special feature is the Rhine Delta nature reserve, the largest wetland on Lake Constance, which directly borders Höchst and represents an important sanctuary for rare bird species. The municipality's architecture shows a blend of traditional Vorarlberg Rhine Valley houses and modern commercial buildings. Economically, Höchst is of enormous importance as it is the headquarters of the Blum company, one of the world's leading manufacturers of furniture fittings. This industrial base ensures high economic stability and numerous jobs in the region. The demographics are characterized by continuous growth, with Höchst being very attractive due to its high quality of life and proximity to the cities of Bregenz and Dornbirn as well as to Switzerland. Culturally and socially, village life is shaped by numerous associations and the lakeside location, which offers diverse water sports and leisure opportunities."}, "factsAdvanced": {"de": ["808 erste urkundliche Erwähnung", "Weltweiter Hauptsitz der Firma Blum", "Angrenzung an das Naturschutzgebiet Rheindelta", "Direkte Grenze zur Schweiz", "7995 Einwohner in der Gemeinde", "Wassersportzentrum am Bodensee"], "hu": ["808-ban említik először írásban", "A Blum cég világméretű székhelye", "Határos a Rajna-delta természetvédelmi területtel", "Közvetlen svájci határ", "7995 lakos a településen", "Vízisport-központ a Bódeni-tónál"], "ro": ["808 prima mențiune documentară", "Sediul mondial al companiei Blum", "Se învecinează cu rezervația naturală Delta Rinului", "Graniță directă cu Elveția", "7995 locuitori în comună", "Centru de sporturi nautice pe Lacul Constanța"], "en": ["808 first documentary mention", "Global headquarters of the Blum company", "Borders the Rhine Delta nature reserve", "Direct border with Switzerland", "7995 inhabitants in the municipality", "Water sports center on Lake Constance"]}, "faq": {"de": [{"q": "Was ist das Naturschutzgebiet Rheindelta?", "a": "Es ist das größte Feuchtgebiet am Bodensee mit reicher Vogelwelt."}, {"q": "Welche Firma ist in Höchst ansässig?", "a": "Die Firma Blum, ein Weltmarktführer für Möbelbeschläge."}, {"q": "Wie kommt man von Höchst in die Schweiz?", "a": "Über die Brücken über den Alten Rhein nach St. Margrethen."}, {"q": "Gibt es Bademöglichkeiten in Höchst?", "a": "Ja, durch die Lage am Bodensee gibt es Zugang zum Wasser."}], "hu": [{"q": "Mi az a Rajna-delta természetvédelmi terület?", "a": "A Bódeni-tó legnagyobb vizes élőhelye gazdag madárvilággal."}, {"q": "Melyik cég székhelye van Höchstben?", "a": "A Blum cég, a bútorszerelvények egyik világpiaci vezetője."}, {"q": "Hogyan lehet eljutni Höchstből Svájcba?", "a": "Az Öreg-Rajna hídjain keresztül St. Margrethen felé."}, {"q": "Vannak fürdőzési lehetőségek Höchstben?", "a": "Igen, a Bódeni-tó menti fekvés biztosítja a vízparti kijutást."}], "ro": [{"q": "Ce este rezervația naturală Delta Rinului?", "a": "Este cea mai mare zonă umedă de pe Lacul Constanța, cu o faună avicolă bogată."}, {"q": "Ce companie are sediul în Höchst?", "a": "Compania Blum, un lider mondial în feronerie pentru mobilier."}, {"q": "Cum se ajunge din Höchst în Elveția?", "a": "Prin podurile peste Rinul Vechi către St. Margrethen."}, {"q": "Există locuri de scăldat în Höchst?", "a": "Da, datorită locației de pe Lacul Constanța, există acces la apă."}], "en": [{"q": "What is the Rhine Delta nature reserve?", "a": "It is the largest wetland on Lake Constance with rich birdlife."}, {"q": "Which company is based in Höchst?", "a": "The Blum company, a world market leader for furniture fittings."}, {"q": "How do you get from Höchst to Switzerland?", "a": "Via the bridges over the Old Rhine to St. Margrethen."}, {"q": "Are there swimming possibilities in Höchst?", "a": "Yes, due to its location on Lake Constance there is access to the water."}]}},
-  {"id": "at-voesendorf", "sights": {"de": [{"name": "1. NÖ Krippenmuseum Vösendorf", "text": "Museum in Vösendorf mit einer bedeutenden Sammlung niederösterreichischer Krippen.", "category": "museum", "coords": [16.34476, 48.122095]}, {"name": "Schlossmuseum Vösendorf", "text": "Heimatmuseum im historischen Schloss Vösendorf.", "category": "museum", "coords": [16.34271, 48.120901]}, {"name": "SCS Multiplex CityWave", "text": "Indoor-Surfanlage in der Shopping City Süd.", "category": "family", "coords": [16.317831, 48.103291]}, {"name": "Lilly Beach House", "text": "Vösendorf beherbergt mit dem Lilly Beach House einen eigenen Freizeitbereich mit zahlreichen Wasserattraktionen. Dieser Ort verströmt eine fröhliche und lebendige Stimmung, die sowohl Kinder als auch Erwachsene begeistert. Schwimmen, plantschen und im sonnigen Ambiente ausruhen stehen hier an der Tagesordnung. Wer sich den besten Platz sichern möchte, kommt am besten gleich zur Öffnung.", "category": "family", "coords": [16.309543, 48.112661]}, {"name": "Wiener Flur", "text": "Grünanlage und Erholungsraum an der Grenze zu Wien.", "category": "park", "coords": [16.313165, 48.130935]}, {"name": "Blaue Lagune", "text": "Bekanntes Ausstellungszentrum für Fertighäuser.", "category": "landmark", "coords": [16.317326, 48.102231]}, {"name": "St Simon und Judas", "text": "Pfarrkirche, die den Aposteln Simon und Judas Thaddäus geweiht ist.", "category": "religious", "coords": [16.338415, 48.122271]}, {"name": "Großgrünmarkt", "text": "Großer Großhandelsmarkt für Obst, Gemüse und Blumen.", "category": "landmark", "coords": [16.36111, 48.136221]}, {"name": "Pfarrkirche Hl. Andreas", "text": "Historisches Kirchengebäude unter Denkmalschutz in Vösendorf.", "category": "landmark", "coords": [16.361939, 48.112301]}, {"name": "Fieberkreuzkapelle", "text": "Kleine Kapelle als Ort der Andacht in Vösendorf.", "category": "religious", "coords": [16.370915, 48.128371]}, {"name": "St. Martin", "text": "Römisch-katholische Pfarrkirche im angrenzenden Wiener Stadtteil Siebenhirten.", "category": "religious", "coords": [16.312474, 48.127357]}, {"name": "Grüner See", "text": "Ein See in Vösendorf, ideal für entspannende Spaziergänge am Wasser.", "category": "natural", "coords": [16.342382, 48.154007]}, {"name": "Kahrteich", "text": "Ein See in Vösendorf, der eine ruhige Atmosphäre in der Natur bietet.", "category": "natural", "coords": [16.314444, 48.075677]}, {"name": "Karl Zechmeister-Teich", "text": "Ein lokaler Teich in Vösendorf, passend für kurze Ausflüge ins Grüne.", "category": "natural", "coords": [16.239508, 48.124257]}, {"name": "Göpelteich", "text": "Ein See in Vösendorf, der zum Verweilen im Freien einlädt.", "category": "natural", "coords": [16.371486, 48.107375]}, {"name": "Seepark Kinderbecken", "text": "Ein See in Vösendorf, der eine angenehme Umgebung für Besucher bietet.", "category": "natural", "coords": [16.352729, 48.112969]}, {"name": "Jumpin Warrior SCS", "text": "Eine Freizeiteinrichtung in Vösendorf für aktive Unterhaltung mit Kindern.", "category": "family", "coords": [16.319431, 48.100345]}], "hu": [{"name": "1. NÖ Krippenmuseum Vösendorf", "text": "Vösendorfi múzeum jelentős alsó-ausztriai betlehemi gyűjteménnyel.", "category": "museum", "coords": [16.34476, 48.122095]}, {"name": "Schlossmuseum Vösendorf", "text": "Helytörténeti múzeum a történelmi vösendorfi kastélyban.", "category": "museum", "coords": [16.34271, 48.120901]}, {"name": "SCS Multiplex CityWave", "text": "Fedett szörfpálya a Shopping City Süd területén.", "category": "family", "coords": [16.317831, 48.103291]}, {"name": "Lilly Beach House", "text": "Vösendorf a Lilly Beach House révén saját szabadidős területtel és számos vízi attrakcióval rendelkezik. Ez a hely vidám és élénk hangulatot áraszt, amely gyermekeket és felnőtteket egyaránt elragad. Az úszás, a pancsolás és a napos környezetben való pihenés itt a mindennapok része. Aki a legjobb helyet szeretné megszerezni, a legjobb, ha már nyitásra érkezik.", "category": "family", "coords": [16.309543, 48.112661]}, {"name": "Wiener Flur", "text": "Zöldterület és pihenőhely Bécs határában.", "category": "park", "coords": [16.313165, 48.130935]}, {"name": "Blaue Lagune", "text": "Ismert készház-kiállítási központ.", "category": "landmark", "coords": [16.317326, 48.102231]}, {"name": "St Simon und Judas", "text": "Szent Simon és Júdás Tádé apostoloknak szentelt plébániatemplom.", "category": "religious", "coords": [16.338415, 48.122271]}, {"name": "Großgrünmarkt", "text": "Nagykereskedelmi piac gyümölcsök, zöldségek és virágok számára.", "category": "landmark", "coords": [16.36111, 48.136221]}, {"name": "Pfarrkirche Hl. Andreas", "text": "Műemlékvédelem alatt álló történelmi templomépület Vösendorfban.", "category": "landmark", "coords": [16.361939, 48.112301]}, {"name": "Fieberkreuzkapelle", "text": "Kisméretű kápolna, áhítati hely Vösendorfban.", "category": "religious", "coords": [16.370915, 48.128371]}, {"name": "St. Martin", "text": "Római katolikus plébániatemplom a szomszédos bécsi Siebenhirten negyedben.", "category": "religious", "coords": [16.312474, 48.127357]}, {"name": "Grüner See", "text": "Tó Vösendorf területén, amely ideális pihentető vízparti sétákhoz.", "category": "natural", "coords": [16.342382, 48.154007]}, {"name": "Kahrteich", "text": "Tó Vösendorf területén, amely nyugodt környezetet biztosít a természetben.", "category": "natural", "coords": [16.314444, 48.075677]}, {"name": "Karl Zechmeister-Teich", "text": "Helyi tó Vösendorf területén, alkalmas rövid kirándulásokhoz a zöldbe.", "category": "natural", "coords": [16.239508, 48.124257]}, {"name": "Göpelteich", "text": "Tó Vösendorf területén, amely szabadtéri kikapcsolódásra hív.", "category": "natural", "coords": [16.371486, 48.107375]}, {"name": "Seepark Kinderbecken", "text": "Tó Vösendorf területén, amely kellemes környezetet biztosít a látogatóknak.", "category": "natural", "coords": [16.352729, 48.112969]}, {"name": "Jumpin Warrior SCS", "text": "Szabadidős létesítmény Vösendorfban az aktív szórakozáshoz a gyerekekkel.", "category": "family", "coords": [16.319431, 48.100345]}], "ro": [{"name": "1. NÖ Krippenmuseum Vösendorf", "text": "Muzeu în Vösendorf cu o colecție importantă de iesle de Crăciun din Austria Inferioară.", "category": "museum", "coords": [16.34476, 48.122095]}, {"name": "Schlossmuseum Vösendorf", "text": "Muzeu local în istoricul castel Vösendorf.", "category": "museum", "coords": [16.34271, 48.120901]}, {"name": "SCS Multiplex CityWave", "text": "Instalație de surfing interior în Shopping City Süd.", "category": "family", "coords": [16.317831, 48.103291]}, {"name": "Lilly Beach House", "text": "Vösendorf găzduiește, cu Lilly Beach House, propria zonă de agrement cu numeroase atracții acvatice. Acest loc emană o atmosferă veselă și plină de viață, care încântă atât copiii, cât și adulții. Înotul, stropitul și odihna într-o ambianță însorită sunt la ordinea zilei aici. Dacă doriți să vă asigurați cel mai bun loc, cel mai bine este să ajungeți chiar la deschidere.", "category": "family", "coords": [16.309543, 48.112661]}, {"name": "Wiener Flur", "text": "Spațiu verde și zonă de recreere la granița cu Viena.", "category": "park", "coords": [16.313165, 48.130935]}, {"name": "Blaue Lagune", "text": "Cunoscut centru de expoziții pentru case prefabricate.", "category": "landmark", "coords": [16.317326, 48.102231]}, {"name": "St Simon und Judas", "text": "Biserică parohială dedicată apostolilor Simon și Iuda Tadeu.", "category": "religious", "coords": [16.338415, 48.122271]}, {"name": "Großgrünmarkt", "text": "Piață angro mare pentru fructe, legume și flori.", "category": "landmark", "coords": [16.36111, 48.136221]}, {"name": "Pfarrkirche Hl. Andreas", "text": "Clădire istorică de biserică protejată ca monument în Vösendorf.", "category": "landmark", "coords": [16.361939, 48.112301]}, {"name": "Fieberkreuzkapelle", "text": "Mică capelă ca loc de rugăciune în Vösendorf.", "category": "religious", "coords": [16.370915, 48.128371]}, {"name": "St. Martin", "text": "Biserică parohială romano-catolică în cartierul vienez învecinat Siebenhirten.", "category": "religious", "coords": [16.312474, 48.127357]}, {"name": "Grüner See", "text": "Un lac în Vösendorf, ideal pentru plimbări relaxante pe malul apei.", "category": "natural", "coords": [16.342382, 48.154007]}, {"name": "Kahrteich", "text": "Un lac în Vösendorf care oferă o atmosferă liniștită în natură.", "category": "natural", "coords": [16.314444, 48.075677]}, {"name": "Karl Zechmeister-Teich", "text": "Un iaz local în Vösendorf, potrivit pentru scurte excursii în natură.", "category": "natural", "coords": [16.239508, 48.124257]}, {"name": "Göpelteich", "text": "Un lac în Vösendorf care invită la relaxare în aer liber.", "category": "natural", "coords": [16.371486, 48.107375]}, {"name": "Seepark Kinderbecken", "text": "Un lac în Vösendorf care oferă un mediu plăcut pentru vizitatori.", "category": "natural", "coords": [16.352729, 48.112969]}, {"name": "Jumpin Warrior SCS", "text": "O facilitate de agrement în Vösendorf pentru divertisment activ cu copiii.", "category": "family", "coords": [16.319431, 48.100345]}], "en": [{"name": "1. NÖ Krippenmuseum Vösendorf", "text": "Museum in Vösendorf featuring a significant collection of Lower Austrian nativity scenes.", "category": "museum", "coords": [16.34476, 48.122095]}, {"name": "Schlossmuseum Vösendorf", "text": "Local history museum located in the historic Vösendorf Castle.", "category": "museum", "coords": [16.34271, 48.120901]}, {"name": "SCS Multiplex CityWave", "text": "Indoor surfing facility located at Shopping City Süd.", "category": "family", "coords": [16.317831, 48.103291]}, {"name": "Lilly Beach House", "text": "Voesendorf hosts its own leisure area with numerous water attractions at the Lilly Beach House. This place exudes a cheerful and lively mood that delights children and adults alike. Swimming, splashing around, and resting in the sunny ambiance are the order of the day here. If you want to secure the best spot, it is best to arrive right at opening time.", "category": "family", "coords": [16.309543, 48.112661]}, {"name": "Wiener Flur", "text": "Green space and recreation area on the border of Vienna.", "category": "park", "coords": [16.313165, 48.130935]}, {"name": "Blaue Lagune", "text": "Well-known exhibition center for prefabricated houses.", "category": "landmark", "coords": [16.317326, 48.102231]}, {"name": "St Simon und Judas", "text": "Parish church dedicated to the apostles Simon and Jude.", "category": "religious", "coords": [16.338415, 48.122271]}, {"name": "Großgrünmarkt", "text": "Large wholesale market for fruits, vegetables, and flowers.", "category": "landmark", "coords": [16.36111, 48.136221]}, {"name": "Pfarrkirche Hl. Andreas", "text": "Historic church building listed as a heritage site in Vösendorf.", "category": "landmark", "coords": [16.361939, 48.112301]}, {"name": "Fieberkreuzkapelle", "text": "Small chapel serving as a place of devotion in Vösendorf.", "category": "religious", "coords": [16.370915, 48.128371]}, {"name": "St. Martin", "text": "Roman Catholic parish church in the adjacent Viennese district of Siebenhirten.", "category": "religious", "coords": [16.312474, 48.127357]}, {"name": "Grüner See", "text": "A lake in Vösendorf, ideal for relaxing walks by the water.", "category": "natural", "coords": [16.342382, 48.154007]}, {"name": "Kahrteich", "text": "A lake in Vösendorf offering a peaceful atmosphere in nature.", "category": "natural", "coords": [16.314444, 48.075677]}, {"name": "Karl Zechmeister-Teich", "text": "A local pond in Vösendorf, suitable for short trips into the greenery.", "category": "natural", "coords": [16.239508, 48.124257]}, {"name": "Göpelteich", "text": "A lake in Vösendorf inviting visitors to spend time outdoors.", "category": "natural", "coords": [16.371486, 48.107375]}, {"name": "Seepark Kinderbecken", "text": "A lake in Vösendorf providing a pleasant environment for visitors.", "category": "natural", "coords": [16.352729, 48.112969]}, {"name": "Jumpin Warrior SCS", "text": "A leisure facility in Vösendorf for active entertainment with children.", "category": "family", "coords": [16.319431, 48.100345]}]}, "type": "city", "parent": "AT-3", "coords": [16.3403, 48.1119], "population": 7891, "image": "/geo-images/austria/at-voesendorf.webp", "name": {"de": "Vösendorf", "hu": "Vösendorf", "ro": "Vösendorf", "en": "Vösendorf"}, "description": {"de": "Vösendorf ist berühmt für die Shopping City Süd, eines der größten Einkaufszentren Europas, und bewahrt gleichzeitig seinen Charme durch das historische Schloss.", "hu": "Vösendorf híres a Shopping City Südről, Európa egyik legnagyobb bevásárlóközpontjáról, miközben történelmi kastélya révén megőrzi báját.", "ro": "Vösendorf este renumit pentru Shopping City Süd, unul dintre cele mai mari centre comerciale din Europa, și își păstrează în același timp farmecul prin castelul istoric.", "en": "Vösendorf is famous for the Shopping City Süd, one of the largest shopping centers in Europe, while preserving its charm through the historical castle."}, "facts": {"de": ["Shopping City Süd", "Schloss Vösendorf", "Südgrenze Wiens", "Wirtschaftszentrum"], "hu": ["Shopping City Süd", "Vösendorfi kastély", "Bécs déli határa", "Gazdasági központ"], "ro": ["Shopping City Süd", "Castelul Vösendorf", "Granița de sud a Vienei", "Centru economic"], "en": ["Shopping City Süd", "Vösendorf Castle", "South border of Vienna", "Economic center"]}, "descriptionAdvanced": {"de": "Vösendorf ist eine Marktgemeinde in Niederösterreich, die unmittelbar an den südlichen Stadtrand von Wien grenzt und zum Bezirk Mödling gehört. Geografisch liegt der Ort im Wiener Becken auf einer flachen Ebene, die durch ihre Lage an den Hauptverkehrsadern Richtung Süden geprägt ist. Historisch wurde Vösendorf erstmals im 12. Jahrhundert als Fesendorf erwähnt. Das architektonische Zentrum der Gemeinde bildet das Schloss Vösendorf, das heute als Gemeindeamt und Kulturzentrum dient und auf eine mittelalterliche Wasserburg zurückgeht. Weltweite Bekanntheit erlangte Vösendorf jedoch durch die Shopping City Süd (SCS), die 1976 eröffnet wurde und eines der flächenmäßig größten Einkaufszentren Europas darstellt. Dieser wirtschaftliche Gigant prägt nicht nur das Landschaftsbild, sondern ist auch der wichtigste Steuerzahler und Arbeitgeber der Gemeinde. Neben dem Handel haben sich zahlreiche Gewerbe- und Industriebetriebe im weitläufigen Industriegebiet angesiedelt. Trotz der massiven kommerziellen Entwicklung hat Vösendorf in seinem Ortskern und durch Grünflächen wie den Schlosspark Teile seines ursprünglichen Charakters bewahrt. Die Demografie zeigt eine wachsende Bevölkerung, die von der exzellenten Verkehrsanbindung (Badner Bahn, Autobahnen A2 und A21) profitiert. Vösendorf ist ein klassisches Beispiel für eine Umlandgemeinde, die sich vom bäuerlichen Dorf zu einem modernen Dienstleistungs- und Wirtschaftsknotenpunkt entwickelt hat.", "hu": "Vösendorf egy alsó-ausztriai mezőváros, amely közvetlenül Bécs déli városszélével határos, és a Mödlingi járáshoz tartozik. Földrajzilag a település a Bécsi-medence síkságán fekszik, amelyet a dél felé vezető fő közlekedési útvonalak menti elhelyezkedése határoz meg. Történelmileg Vösendorfot először a 12. században említették Fesendorf néven. A közösség építészeti központját a vösendorfi kastély alkotja, amely ma polgármesteri hivatalként és kulturális központként szolgál, és egy középkori vízi várra vezethető vissza. Vösendorf azonban világhírét a Shopping City Südnek (SCS) köszönheti, amelyet 1976-ban nyitottak meg, és Európa egyik legnagyobb bevásárlóközpontja. Ez a gazdasági óriás nemcsak a tájképet határozza meg, hanem a település legfontosabb adófizetője és munkaadója is. A kereskedelem mellett számos ipari és kézműves vállalkozás telepedett le a kiterjedt ipari területen. A masszív kereskedelmi fejlődés ellenére Vösendorf az óvárosában és az olyan zöldterületeken keresztül, mint a kastélypark, megőrizte eredeti karakterének egy részét. A demográfia növekvő lakosságot mutat, amely profitál a kiváló közlekedési kapcsolatokból (Badner Bahn, A2-es és A21-es autópályák). Vösendorf klasszikus példája egy olyan agglomerációs településnek, amely mezőgazdasági faluból modern szolgáltatói és gazdasági csomóponttá fejlődött.", "ro": "Vösendorf este o comună de piață din Austria Inferioară, care se învecinează direct cu marginea de sud a orașului Viena și aparține districtului Mödling. Din punct de vedere geografic, localitatea se află în bazinul Vienei pe o câmpie plată, care este modelată de locația sa pe principalele artere de trafic spre sud. Din punct de vedere istoric, Vösendorf a fost menționat pentru prima dată în secolul al XII-lea sub numele de Fesendorf. Centrul arhitectural al comunei este format din Castelul Vösendorf, care servește astăzi ca primărie și centru cultural și are la bază un castel medieval cu apă. Vösendorf a dobândit însă faima mondială prin Shopping City Süd (SCS), care a fost deschis în 1976 și reprezintă unul dintre cele mai mari centre comerciale din Europa ca suprafață. Acest gigant economic nu numai că modelează peisajul, dar este și cel mai important plătitor de taxe și angajator al comunei. Pe lângă comerț, numeroase companii comerciale și industriale s-au stabilit în zona industrială extinsă. În ciuda dezvoltării comerciale masive, Vösendorf și-a păstrat părți din caracterul său original în centrul localității și prin spații verzi, cum ar fi parcul castelului. Demografia arată o populație în creștere care beneficiază de legăturile excelente de transport (Badner Bahn, autostrăzile A2 și A21). Vösendorf este un exemplu clasic de comunitate din zona înconjurătoare care a evoluat dintr-un sat rural într-un nod modern de servicii și economie.", "en": "Vösendorf is a market town in Lower Austria, directly bordering the southern city limits of Vienna and belonging to the Mödling district. Geographically, the place lies in the Vienna Basin on a flat plain characterized by its location on the main transport arteries leading south. Historically, Vösendorf was first mentioned in the 12th century as Fesendorf. The architectural center of the municipality is formed by Vösendorf Castle, which today serves as the municipal office and cultural center and dates back to a medieval moated castle. However, Vösendorf achieved worldwide fame through the Shopping City Süd (SCS), which opened in 1976 and is one of the largest shopping centers in Europe by area. This economic giant not only shapes the landscape but is also the municipality's most important taxpayer and employer. Besides trade, numerous commercial and industrial companies have settled in the extensive industrial area. Despite massive commercial development, Vösendorf has preserved parts of its original character in its town center and through green spaces like the castle park. The demographics show a growing population benefiting from excellent transport links (Badner Bahn, A2 and A21 motorways). Vösendorf is a classic example of a surrounding community that has evolved from a farming village into a modern service and economic hub."}, "factsAdvanced": {"de": ["12. Jahrhundert erste Erwähnung", "Sitz der Shopping City Süd (SCS)", "Historisches Wasserschloss im Zentrum", "Knotenpunkt A2 Südautobahn", "Teil des Speckgürtels von Wien", "7891 Einwohner in Vösendorf"], "hu": ["12. századi első említés", "A Shopping City Süd (SCS) székhelye", "Történelmi vízi vár a központban", "Az A2-es déli autópálya csomópontja", "Bécs agglomerációs övezetének része", "7891 lakos Vösendorfban"], "ro": ["Secolul al XII-lea prima mențiune", "Sediul Shopping City Süd (SCS)", "Castel istoric cu apă în centru", "Nod rutier autostrada de sud A2", "Parte a zonei metropolitane a Vienei", "7891 locuitori în Vösendorf"], "en": ["12th century first mention", "Home of Shopping City Süd (SCS)", "Historical moated castle in the center", "Hub of the A2 South Motorway", "Part of Vienna's suburban belt", "7891 inhabitants in Vösendorf"]}, "faq": {"de": [{"q": "Was ist die Shopping City Süd?", "a": "Eines der größten und bekanntesten Einkaufszentren in Österreich."}, {"q": "Wie kommt man von Wien nach Vösendorf?", "a": "Am besten mit der Badner Bahn oder über die Autobahn A2."}, {"q": "Was befindet sich heute im Schloss Vösendorf?", "a": "Es beherbergt das Gemeindeamt und ein Fahrradmuseum."}, {"q": "Gehört Vösendorf zu Wien?", "a": "Nein, es ist eine eigenständige Gemeinde in Niederösterreich."}], "hu": [{"q": "Mi az a Shopping City Süd?", "a": "Ausztria egyik legnagyobb és legismertebb bevásárlóközpontja."}, {"q": "Hogyan lehet eljutni Bécsből Vösendorfba?", "a": "Legjobban a Badner Bahn-nal vagy az A2-es autópályán."}, {"q": "Mi található ma a vösendorfi kastélyban?", "a": "A polgármesteri hivatalnak és egy kerékpármúzeumnak ad otthont."}, {"q": "Vösendorf Bécs része?", "a": "Nem, ez egy önálló település Alsó-Ausztriában."}], "ro": [{"q": "Ce este Shopping City Süd?", "a": "Unul dintre cele mai mari și mai cunoscute centre comerciale din Austria."}, {"q": "Cum se ajunge din Viena la Vösendorf?", "a": "Cel mai bine cu Badner Bahn sau prin autostrada A2."}, {"q": "Ce se află astăzi în Castelul Vösendorf?", "a": "Găzduiește primăria și un muzeu al bicicletelor."}, {"q": "Vösendorf aparține Vienei?", "a": "Nu, este o comună independentă din Austria Inferioară."}], "en": [{"q": "What is Shopping City Süd?", "a": "One of the largest and most famous shopping centers in Austria."}, {"q": "How do you get from Vienna to Vösendorf?", "a": "Best by Badner Bahn or via the A2 motorway."}, {"q": "What is located in Vösendorf Castle today?", "a": "It houses the municipal office and a bicycle museum."}, {"q": "Does Vösendorf belong to Vienna?", "a": "No, it is an independent municipality in Lower Austria."}]}},
+  {"id": "at-voesendorf", "sights": {
+      "de": [
+            {
+                  "name": "1. NÖ Krippenmuseum Vösendorf",
+                  "text": "Museum in Vösendorf mit einer bedeutenden Sammlung niederösterreichischer Krippen.",
+                  "category": "museum",
+                  "coords": [
+                        16.34476,
+                        48.122095
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum Vösendorf",
+                  "text": "Heimatmuseum im historischen Schloss Vösendorf.",
+                  "category": "museum",
+                  "coords": [
+                        16.34271,
+                        48.120901
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Indoor-Surfanlage in der Shopping City Süd.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "Vösendorf beherbergt mit dem Lilly Beach House einen eigenen Freizeitbereich mit zahlreichen Wasserattraktionen. Dieser Ort verströmt eine fröhliche und lebendige Stimmung, die sowohl Kinder als auch Erwachsene begeistert. Schwimmen, plantschen und im sonnigen Ambiente ausruhen stehen hier an der Tagesordnung. Wer sich den besten Platz sichern möchte, kommt am besten gleich zur Öffnung.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Wiener Flur",
+                  "text": "Grünanlage und Erholungsraum an der Grenze zu Wien.",
+                  "category": "park",
+                  "coords": [
+                        16.313165,
+                        48.130935
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Bekanntes Ausstellungszentrum für Fertighäuser.",
+                  "category": "landmark",
+                  "coords": [
+                        16.317326,
+                        48.102231
+                  ]
+            },
+            {
+                  "name": "St Simon und Judas",
+                  "text": "Pfarrkirche, die den Aposteln Simon und Judas Thaddäus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.338415,
+                        48.122271
+                  ]
+            },
+            {
+                  "name": "Großgrünmarkt",
+                  "text": "Großer Großhandelsmarkt für Obst, Gemüse und Blumen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.36111,
+                        48.136221
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Andreas",
+                  "text": "Historisches Kirchengebäude unter Denkmalschutz in Vösendorf.",
+                  "category": "landmark",
+                  "coords": [
+                        16.361939,
+                        48.112301
+                  ]
+            },
+            {
+                  "name": "Fieberkreuzkapelle",
+                  "text": "Kleine Kapelle als Ort der Andacht in Vösendorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.370915,
+                        48.128371
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Römisch-katholische Pfarrkirche im angrenzenden Wiener Stadtteil Siebenhirten.",
+                  "category": "religious",
+                  "coords": [
+                        16.312474,
+                        48.127357
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "Ein See in Vösendorf, ideal für entspannende Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "Ein See in Vösendorf, der eine ruhige Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "Ein lokaler Teich in Vösendorf, passend für kurze Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "Ein See in Vösendorf, der zum Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "Ein See in Vösendorf, der eine angenehme Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "Eine Freizeiteinrichtung in Vösendorf für aktive Unterhaltung mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            },
+            {
+                  "name": "Saunabereich",
+                  "text": "Ein Saunabereich zur Entspannung in Vösendorf.",
+                  "category": "recreational",
+                  "coords": [
+                        16.345683,
+                        48.082078
+                  ]
+            },
+            {
+                  "name": "Klosterbad",
+                  "text": "Ein Schwimmbad in Vösendorf für Badegäste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346438,
+                        48.084159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1. NÖ Krippenmuseum Vösendorf",
+                  "text": "Vösendorfi múzeum jelentős alsó-ausztriai betlehemi gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        16.34476,
+                        48.122095
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum Vösendorf",
+                  "text": "Helytörténeti múzeum a történelmi vösendorfi kastélyban.",
+                  "category": "museum",
+                  "coords": [
+                        16.34271,
+                        48.120901
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Fedett szörfpálya a Shopping City Süd területén.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "Vösendorf a Lilly Beach House révén saját szabadidős területtel és számos vízi attrakcióval rendelkezik. Ez a hely vidám és élénk hangulatot áraszt, amely gyermekeket és felnőtteket egyaránt elragad. Az úszás, a pancsolás és a napos környezetben való pihenés itt a mindennapok része. Aki a legjobb helyet szeretné megszerezni, a legjobb, ha már nyitásra érkezik.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Wiener Flur",
+                  "text": "Zöldterület és pihenőhely Bécs határában.",
+                  "category": "park",
+                  "coords": [
+                        16.313165,
+                        48.130935
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Ismert készház-kiállítási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        16.317326,
+                        48.102231
+                  ]
+            },
+            {
+                  "name": "St Simon und Judas",
+                  "text": "Szent Simon és Júdás Tádé apostoloknak szentelt plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        16.338415,
+                        48.122271
+                  ]
+            },
+            {
+                  "name": "Großgrünmarkt",
+                  "text": "Nagykereskedelmi piac gyümölcsök, zöldségek és virágok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        16.36111,
+                        48.136221
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Andreas",
+                  "text": "Műemlékvédelem alatt álló történelmi templomépület Vösendorfban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.361939,
+                        48.112301
+                  ]
+            },
+            {
+                  "name": "Fieberkreuzkapelle",
+                  "text": "Kisméretű kápolna, áhítati hely Vösendorfban.",
+                  "category": "religious",
+                  "coords": [
+                        16.370915,
+                        48.128371
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Római katolikus plébániatemplom a szomszédos bécsi Siebenhirten negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        16.312474,
+                        48.127357
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "Tó Vösendorf területén, amely ideális pihentető vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "Tó Vösendorf területén, amely nyugodt környezetet biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "Helyi tó Vösendorf területén, alkalmas rövid kirándulásokhoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "Tó Vösendorf területén, amely szabadtéri kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "Tó Vösendorf területén, amely kellemes környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "Szabadidős létesítmény Vösendorfban az aktív szórakozáshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            },
+            {
+                  "name": "Saunabereich",
+                  "text": "Szaunarészleg pihenésre és kikapcsolódásra Vösendorfban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.345683,
+                        48.082078
+                  ]
+            },
+            {
+                  "name": "Klosterbad",
+                  "text": "Úszómedence Vösendorfban a fürdőzni vágyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346438,
+                        48.084159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1. NÖ Krippenmuseum Vösendorf",
+                  "text": "Muzeu în Vösendorf cu o colecție importantă de iesle de Crăciun din Austria Inferioară.",
+                  "category": "museum",
+                  "coords": [
+                        16.34476,
+                        48.122095
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum Vösendorf",
+                  "text": "Muzeu local în istoricul castel Vösendorf.",
+                  "category": "museum",
+                  "coords": [
+                        16.34271,
+                        48.120901
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Instalație de surfing interior în Shopping City Süd.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "Vösendorf găzduiește, cu Lilly Beach House, propria zonă de agrement cu numeroase atracții acvatice. Acest loc emană o atmosferă veselă și plină de viață, care încântă atât copiii, cât și adulții. Înotul, stropitul și odihna într-o ambianță însorită sunt la ordinea zilei aici. Dacă doriți să vă asigurați cel mai bun loc, cel mai bine este să ajungeți chiar la deschidere.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Wiener Flur",
+                  "text": "Spațiu verde și zonă de recreere la granița cu Viena.",
+                  "category": "park",
+                  "coords": [
+                        16.313165,
+                        48.130935
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Cunoscut centru de expoziții pentru case prefabricate.",
+                  "category": "landmark",
+                  "coords": [
+                        16.317326,
+                        48.102231
+                  ]
+            },
+            {
+                  "name": "St Simon und Judas",
+                  "text": "Biserică parohială dedicată apostolilor Simon și Iuda Tadeu.",
+                  "category": "religious",
+                  "coords": [
+                        16.338415,
+                        48.122271
+                  ]
+            },
+            {
+                  "name": "Großgrünmarkt",
+                  "text": "Piață angro mare pentru fructe, legume și flori.",
+                  "category": "landmark",
+                  "coords": [
+                        16.36111,
+                        48.136221
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Andreas",
+                  "text": "Clădire istorică de biserică protejată ca monument în Vösendorf.",
+                  "category": "landmark",
+                  "coords": [
+                        16.361939,
+                        48.112301
+                  ]
+            },
+            {
+                  "name": "Fieberkreuzkapelle",
+                  "text": "Mică capelă ca loc de rugăciune în Vösendorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.370915,
+                        48.128371
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Biserică parohială romano-catolică în cartierul vienez învecinat Siebenhirten.",
+                  "category": "religious",
+                  "coords": [
+                        16.312474,
+                        48.127357
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "Un lac în Vösendorf, ideal pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "Un lac în Vösendorf care oferă o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "Un iaz local în Vösendorf, potrivit pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "Un lac în Vösendorf care invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "Un lac în Vösendorf care oferă un mediu plăcut pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "O facilitate de agrement în Vösendorf pentru divertisment activ cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            },
+            {
+                  "name": "Saunabereich",
+                  "text": "O zonă de saună dedicată relaxării în Vösendorf.",
+                  "category": "recreational",
+                  "coords": [
+                        16.345683,
+                        48.082078
+                  ]
+            },
+            {
+                  "name": "Klosterbad",
+                  "text": "O piscină în Vösendorf destinată înotului și relaxării.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346438,
+                        48.084159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1. NÖ Krippenmuseum Vösendorf",
+                  "text": "Museum in Vösendorf featuring a significant collection of Lower Austrian nativity scenes.",
+                  "category": "museum",
+                  "coords": [
+                        16.34476,
+                        48.122095
+                  ]
+            },
+            {
+                  "name": "Schlossmuseum Vösendorf",
+                  "text": "Local history museum located in the historic Vösendorf Castle.",
+                  "category": "museum",
+                  "coords": [
+                        16.34271,
+                        48.120901
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Indoor surfing facility located at Shopping City Süd.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "Voesendorf hosts its own leisure area with numerous water attractions at the Lilly Beach House. This place exudes a cheerful and lively mood that delights children and adults alike. Swimming, splashing around, and resting in the sunny ambiance are the order of the day here. If you want to secure the best spot, it is best to arrive right at opening time.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Wiener Flur",
+                  "text": "Green space and recreation area on the border of Vienna.",
+                  "category": "park",
+                  "coords": [
+                        16.313165,
+                        48.130935
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Well-known exhibition center for prefabricated houses.",
+                  "category": "landmark",
+                  "coords": [
+                        16.317326,
+                        48.102231
+                  ]
+            },
+            {
+                  "name": "St Simon und Judas",
+                  "text": "Parish church dedicated to the apostles Simon and Jude.",
+                  "category": "religious",
+                  "coords": [
+                        16.338415,
+                        48.122271
+                  ]
+            },
+            {
+                  "name": "Großgrünmarkt",
+                  "text": "Large wholesale market for fruits, vegetables, and flowers.",
+                  "category": "landmark",
+                  "coords": [
+                        16.36111,
+                        48.136221
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Andreas",
+                  "text": "Historic church building listed as a heritage site in Vösendorf.",
+                  "category": "landmark",
+                  "coords": [
+                        16.361939,
+                        48.112301
+                  ]
+            },
+            {
+                  "name": "Fieberkreuzkapelle",
+                  "text": "Small chapel serving as a place of devotion in Vösendorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.370915,
+                        48.128371
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Roman Catholic parish church in the adjacent Viennese district of Siebenhirten.",
+                  "category": "religious",
+                  "coords": [
+                        16.312474,
+                        48.127357
+                  ]
+            },
+            {
+                  "name": "Grüner See",
+                  "text": "A lake in Vösendorf, ideal for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        16.342382,
+                        48.154007
+                  ]
+            },
+            {
+                  "name": "Kahrteich",
+                  "text": "A lake in Vösendorf offering a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.314444,
+                        48.075677
+                  ]
+            },
+            {
+                  "name": "Karl Zechmeister-Teich",
+                  "text": "A local pond in Vösendorf, suitable for short trips into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.239508,
+                        48.124257
+                  ]
+            },
+            {
+                  "name": "Göpelteich",
+                  "text": "A lake in Vösendorf inviting visitors to spend time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        16.371486,
+                        48.107375
+                  ]
+            },
+            {
+                  "name": "Seepark Kinderbecken",
+                  "text": "A lake in Vösendorf providing a pleasant environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        16.352729,
+                        48.112969
+                  ]
+            },
+            {
+                  "name": "Jumpin Warrior SCS",
+                  "text": "A leisure facility in Vösendorf for active entertainment with children.",
+                  "category": "family",
+                  "coords": [
+                        16.319431,
+                        48.100345
+                  ]
+            },
+            {
+                  "name": "Saunabereich",
+                  "text": "A sauna area dedicated to relaxation in Vösendorf.",
+                  "category": "recreational",
+                  "coords": [
+                        16.345683,
+                        48.082078
+                  ]
+            },
+            {
+                  "name": "Klosterbad",
+                  "text": "A swimming pool in Vösendorf for swimmers and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        16.346438,
+                        48.084159
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "AT-3", "coords": [16.3403, 48.1119], "population": 7891, "image": "/geo-images/austria/at-voesendorf.webp", "name": {"de": "Vösendorf", "hu": "Vösendorf", "ro": "Vösendorf", "en": "Vösendorf"}, "description": {"de": "Vösendorf ist berühmt für die Shopping City Süd, eines der größten Einkaufszentren Europas, und bewahrt gleichzeitig seinen Charme durch das historische Schloss.", "hu": "Vösendorf híres a Shopping City Südről, Európa egyik legnagyobb bevásárlóközpontjáról, miközben történelmi kastélya révén megőrzi báját.", "ro": "Vösendorf este renumit pentru Shopping City Süd, unul dintre cele mai mari centre comerciale din Europa, și își păstrează în același timp farmecul prin castelul istoric.", "en": "Vösendorf is famous for the Shopping City Süd, one of the largest shopping centers in Europe, while preserving its charm through the historical castle."}, "facts": {"de": ["Shopping City Süd", "Schloss Vösendorf", "Südgrenze Wiens", "Wirtschaftszentrum"], "hu": ["Shopping City Süd", "Vösendorfi kastély", "Bécs déli határa", "Gazdasági központ"], "ro": ["Shopping City Süd", "Castelul Vösendorf", "Granița de sud a Vienei", "Centru economic"], "en": ["Shopping City Süd", "Vösendorf Castle", "South border of Vienna", "Economic center"]}, "descriptionAdvanced": {"de": "Vösendorf ist eine Marktgemeinde in Niederösterreich, die unmittelbar an den südlichen Stadtrand von Wien grenzt und zum Bezirk Mödling gehört. Geografisch liegt der Ort im Wiener Becken auf einer flachen Ebene, die durch ihre Lage an den Hauptverkehrsadern Richtung Süden geprägt ist. Historisch wurde Vösendorf erstmals im 12. Jahrhundert als Fesendorf erwähnt. Das architektonische Zentrum der Gemeinde bildet das Schloss Vösendorf, das heute als Gemeindeamt und Kulturzentrum dient und auf eine mittelalterliche Wasserburg zurückgeht. Weltweite Bekanntheit erlangte Vösendorf jedoch durch die Shopping City Süd (SCS), die 1976 eröffnet wurde und eines der flächenmäßig größten Einkaufszentren Europas darstellt. Dieser wirtschaftliche Gigant prägt nicht nur das Landschaftsbild, sondern ist auch der wichtigste Steuerzahler und Arbeitgeber der Gemeinde. Neben dem Handel haben sich zahlreiche Gewerbe- und Industriebetriebe im weitläufigen Industriegebiet angesiedelt. Trotz der massiven kommerziellen Entwicklung hat Vösendorf in seinem Ortskern und durch Grünflächen wie den Schlosspark Teile seines ursprünglichen Charakters bewahrt. Die Demografie zeigt eine wachsende Bevölkerung, die von der exzellenten Verkehrsanbindung (Badner Bahn, Autobahnen A2 und A21) profitiert. Vösendorf ist ein klassisches Beispiel für eine Umlandgemeinde, die sich vom bäuerlichen Dorf zu einem modernen Dienstleistungs- und Wirtschaftsknotenpunkt entwickelt hat.", "hu": "Vösendorf egy alsó-ausztriai mezőváros, amely közvetlenül Bécs déli városszélével határos, és a Mödlingi járáshoz tartozik. Földrajzilag a település a Bécsi-medence síkságán fekszik, amelyet a dél felé vezető fő közlekedési útvonalak menti elhelyezkedése határoz meg. Történelmileg Vösendorfot először a 12. században említették Fesendorf néven. A közösség építészeti központját a vösendorfi kastély alkotja, amely ma polgármesteri hivatalként és kulturális központként szolgál, és egy középkori vízi várra vezethető vissza. Vösendorf azonban világhírét a Shopping City Südnek (SCS) köszönheti, amelyet 1976-ban nyitottak meg, és Európa egyik legnagyobb bevásárlóközpontja. Ez a gazdasági óriás nemcsak a tájképet határozza meg, hanem a település legfontosabb adófizetője és munkaadója is. A kereskedelem mellett számos ipari és kézműves vállalkozás telepedett le a kiterjedt ipari területen. A masszív kereskedelmi fejlődés ellenére Vösendorf az óvárosában és az olyan zöldterületeken keresztül, mint a kastélypark, megőrizte eredeti karakterének egy részét. A demográfia növekvő lakosságot mutat, amely profitál a kiváló közlekedési kapcsolatokból (Badner Bahn, A2-es és A21-es autópályák). Vösendorf klasszikus példája egy olyan agglomerációs településnek, amely mezőgazdasági faluból modern szolgáltatói és gazdasági csomóponttá fejlődött.", "ro": "Vösendorf este o comună de piață din Austria Inferioară, care se învecinează direct cu marginea de sud a orașului Viena și aparține districtului Mödling. Din punct de vedere geografic, localitatea se află în bazinul Vienei pe o câmpie plată, care este modelată de locația sa pe principalele artere de trafic spre sud. Din punct de vedere istoric, Vösendorf a fost menționat pentru prima dată în secolul al XII-lea sub numele de Fesendorf. Centrul arhitectural al comunei este format din Castelul Vösendorf, care servește astăzi ca primărie și centru cultural și are la bază un castel medieval cu apă. Vösendorf a dobândit însă faima mondială prin Shopping City Süd (SCS), care a fost deschis în 1976 și reprezintă unul dintre cele mai mari centre comerciale din Europa ca suprafață. Acest gigant economic nu numai că modelează peisajul, dar este și cel mai important plătitor de taxe și angajator al comunei. Pe lângă comerț, numeroase companii comerciale și industriale s-au stabilit în zona industrială extinsă. În ciuda dezvoltării comerciale masive, Vösendorf și-a păstrat părți din caracterul său original în centrul localității și prin spații verzi, cum ar fi parcul castelului. Demografia arată o populație în creștere care beneficiază de legăturile excelente de transport (Badner Bahn, autostrăzile A2 și A21). Vösendorf este un exemplu clasic de comunitate din zona înconjurătoare care a evoluat dintr-un sat rural într-un nod modern de servicii și economie.", "en": "Vösendorf is a market town in Lower Austria, directly bordering the southern city limits of Vienna and belonging to the Mödling district. Geographically, the place lies in the Vienna Basin on a flat plain characterized by its location on the main transport arteries leading south. Historically, Vösendorf was first mentioned in the 12th century as Fesendorf. The architectural center of the municipality is formed by Vösendorf Castle, which today serves as the municipal office and cultural center and dates back to a medieval moated castle. However, Vösendorf achieved worldwide fame through the Shopping City Süd (SCS), which opened in 1976 and is one of the largest shopping centers in Europe by area. This economic giant not only shapes the landscape but is also the municipality's most important taxpayer and employer. Besides trade, numerous commercial and industrial companies have settled in the extensive industrial area. Despite massive commercial development, Vösendorf has preserved parts of its original character in its town center and through green spaces like the castle park. The demographics show a growing population benefiting from excellent transport links (Badner Bahn, A2 and A21 motorways). Vösendorf is a classic example of a surrounding community that has evolved from a farming village into a modern service and economic hub."}, "factsAdvanced": {"de": ["12. Jahrhundert erste Erwähnung", "Sitz der Shopping City Süd (SCS)", "Historisches Wasserschloss im Zentrum", "Knotenpunkt A2 Südautobahn", "Teil des Speckgürtels von Wien", "7891 Einwohner in Vösendorf"], "hu": ["12. századi első említés", "A Shopping City Süd (SCS) székhelye", "Történelmi vízi vár a központban", "Az A2-es déli autópálya csomópontja", "Bécs agglomerációs övezetének része", "7891 lakos Vösendorfban"], "ro": ["Secolul al XII-lea prima mențiune", "Sediul Shopping City Süd (SCS)", "Castel istoric cu apă în centru", "Nod rutier autostrada de sud A2", "Parte a zonei metropolitane a Vienei", "7891 locuitori în Vösendorf"], "en": ["12th century first mention", "Home of Shopping City Süd (SCS)", "Historical moated castle in the center", "Hub of the A2 South Motorway", "Part of Vienna's suburban belt", "7891 inhabitants in Vösendorf"]}, "faq": {"de": [{"q": "Was ist die Shopping City Süd?", "a": "Eines der größten und bekanntesten Einkaufszentren in Österreich."}, {"q": "Wie kommt man von Wien nach Vösendorf?", "a": "Am besten mit der Badner Bahn oder über die Autobahn A2."}, {"q": "Was befindet sich heute im Schloss Vösendorf?", "a": "Es beherbergt das Gemeindeamt und ein Fahrradmuseum."}, {"q": "Gehört Vösendorf zu Wien?", "a": "Nein, es ist eine eigenständige Gemeinde in Niederösterreich."}], "hu": [{"q": "Mi az a Shopping City Süd?", "a": "Ausztria egyik legnagyobb és legismertebb bevásárlóközpontja."}, {"q": "Hogyan lehet eljutni Bécsből Vösendorfba?", "a": "Legjobban a Badner Bahn-nal vagy az A2-es autópályán."}, {"q": "Mi található ma a vösendorfi kastélyban?", "a": "A polgármesteri hivatalnak és egy kerékpármúzeumnak ad otthont."}, {"q": "Vösendorf Bécs része?", "a": "Nem, ez egy önálló település Alsó-Ausztriában."}], "ro": [{"q": "Ce este Shopping City Süd?", "a": "Unul dintre cele mai mari și mai cunoscute centre comerciale din Austria."}, {"q": "Cum se ajunge din Viena la Vösendorf?", "a": "Cel mai bine cu Badner Bahn sau prin autostrada A2."}, {"q": "Ce se află astăzi în Castelul Vösendorf?", "a": "Găzduiește primăria și un muzeu al bicicletelor."}, {"q": "Vösendorf aparține Vienei?", "a": "Nu, este o comună independentă din Austria Inferioară."}], "en": [{"q": "What is Shopping City Süd?", "a": "One of the largest and most famous shopping centers in Austria."}, {"q": "How do you get from Vienna to Vösendorf?", "a": "Best by Badner Bahn or via the A2 motorway."}, {"q": "What is located in Vösendorf Castle today?", "a": "It houses the municipal office and a bicycle museum."}, {"q": "Does Vösendorf belong to Vienna?", "a": "No, it is an independent municipality in Lower Austria."}]}},
   {"id": "at-pottendorf", "sights": {
       "de": [
             {
@@ -41446,6 +42463,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.383142,
                         48.20304
                   ]
+            },
+            {
+                  "name": "Freibad St.Florian",
+                  "text": "Ein Außen-Wasserpark in der Nähe von Asten für Familienunterhaltung an warmen Tagen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.376263,
+                        48.201813
+                  ]
             }
       ],
       "hu": [
@@ -41573,6 +42599,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.383142,
                         48.20304
+                  ]
+            },
+            {
+                  "name": "Freibad St.Florian",
+                  "text": "Asten közeli szabadtéri vízipark, amely családi szórakozást nyújt a meleg napokon.",
+                  "category": "recreational",
+                  "coords": [
+                        14.376263,
+                        48.201813
                   ]
             }
       ],
@@ -41702,6 +42737,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.383142,
                         48.20304
                   ]
+            },
+            {
+                  "name": "Freibad St.Florian",
+                  "text": "Un parc acvatic în aer liber lângă Asten pentru distracția familiei în zilele calde.",
+                  "category": "recreational",
+                  "coords": [
+                        14.376263,
+                        48.201813
+                  ]
             }
       ],
       "en": [
@@ -41829,6 +42873,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.383142,
                         48.20304
+                  ]
+            },
+            {
+                  "name": "Freibad St.Florian",
+                  "text": "An outdoor water park near Asten for family entertainment on warm days.",
+                  "category": "recreational",
+                  "coords": [
+                        14.376263,
+                        48.201813
                   ]
             }
       ]
@@ -48127,6 +49180,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.630796,
                         48.201125
                   ]
+            },
+            {
+                  "name": "Erlebnisbecken",
+                  "text": "Ein Erlebnisbecken in der Region Sankt Pölten Land mit Attraktionen für Schwimmer.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627384,
+                        48.195435
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "Ein moderner Wasserpark in Sankt Pölten Land mit vielfältigen Becken und Erholungsmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619858,
+                        48.205192
+                  ]
             }
       ],
       "hu": [
@@ -48191,6 +49262,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.630796,
                         48.201125
+                  ]
+            },
+            {
+                  "name": "Erlebnisbecken",
+                  "text": "Élménymedence Sankt Pölten Land régiójában, különféle vízi attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627384,
+                        48.195435
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "Modern vízipark Sankt Pölten Landban, változatos medencékkel és pihenési lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619858,
+                        48.205192
                   ]
             }
       ],
@@ -48257,6 +49346,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.630796,
                         48.201125
                   ]
+            },
+            {
+                  "name": "Erlebnisbecken",
+                  "text": "O piscină de agrement în regiunea Sankt Pölten Land, cu atracții pentru înotători.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627384,
+                        48.195435
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "Un parc acvatic modern în Sankt Pölten Land cu diverse piscine și opțiuni de relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619858,
+                        48.205192
+                  ]
             }
       ],
       "en": [
@@ -48321,6 +49428,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.630796,
                         48.201125
+                  ]
+            },
+            {
+                  "name": "Erlebnisbecken",
+                  "text": "An adventure pool in the Sankt Pölten Land region with attractions for swimmers.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627384,
+                        48.195435
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "A modern water park in Sankt Pölten Land with various pools and relaxation options.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619858,
+                        48.205192
                   ]
             }
       ]
@@ -52665,6 +53790,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.449676,
                         46.983566
                   ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Ein am Ufer der Aare gelegener Tierpark, der für seine Bärenhaltung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
             }
       ],
       "hu": [
@@ -52990,6 +54124,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.449676,
                         46.983566
+                  ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Az Aare folyó partján fekvő állatkert, amely medvéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
                   ]
             }
       ],
@@ -53317,6 +54460,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.449676,
                         46.983566
                   ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Un parc zoologic situat pe malul râului Aare, faimos pentru urșii săi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
             }
       ],
       "en": [
@@ -53642,6 +54794,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.449676,
                         46.983566
+                  ]
+            },
+            {
+                  "name": "Berne Animal Park",
+                  "text": "A zoo located on the banks of the Aare river, well-known for its bear habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
                   ]
             }
       ]
@@ -60942,6 +62103,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.312404,
                         47.043439
                   ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Ein Badeplatz am See in der Nähe von Kriens für sommerliche Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
+                  ]
             }
       ],
       "hu": [
@@ -61381,6 +62551,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.312404,
                         47.043439
+                  ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Tóparti fürdőhely Kriens közelében nyári hűsöléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
                   ]
             }
       ],
@@ -61822,6 +63001,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.312404,
                         47.043439
                   ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Un loc de scăldat pe malul lacului lângă Kriens, ideal pentru răcorire pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
+                  ]
             }
       ],
       "en": [
@@ -62261,6 +63449,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.312404,
                         47.043439
+                  ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "A lakeside bathing spot near Kriens used for swimming and summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
                   ]
             }
       ]
@@ -62798,6 +63995,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.852084,
                         47.20311
                   ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "Ein Sportzentrum mit Strandbad am Zürichsee in Rapperswil-Jona.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
+                  ]
             }
       ],
       "hu": [
@@ -63329,6 +64535,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.852084,
                         47.20311
+                  ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "Sportközpont és strand a Zürichi-tó partján Rapperswil-Jonában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
                   ]
             }
       ],
@@ -63862,6 +65077,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.852084,
                         47.20311
                   ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "Un centru sportiv cu ștrand pe malul lacului Zürich în Rapperswil-Jona.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
+                  ]
             }
       ],
       "en": [
@@ -64393,6 +65617,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.852084,
                         47.20311
+                  ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "A sports centre with a lakeside beach on Lake Zurich in Rapperswil-Jona.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
                   ]
             }
       ]
@@ -82283,6 +83516,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.485306,
                         46.965259
                   ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Ein Tierpark in der Region Bern, der eine Vielzahl heimischer Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
             }
       ],
       "hu": [
@@ -82763,6 +84005,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.485306,
                         46.965259
+                  ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Bern környéki állatkert, amely számos őshonos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
                   ]
             }
       ],
@@ -83245,6 +84496,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.485306,
                         46.965259
                   ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Un parc zoologic în regiunea Berna, care adăpostește o varietate de specii locale.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
             }
       ],
       "en": [
@@ -83725,6 +84985,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.485306,
                         46.965259
+                  ]
+            },
+            {
+                  "name": "Berne Animal Park",
+                  "text": "A zoo in the Bern region showcasing a variety of native animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
                   ]
             }
       ]
@@ -105838,6 +107107,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.340214,
                         47.053512
                   ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Ein Seebad in Ebikon am Rotsee, das Möglichkeiten zum Schwimmen und für Wassersport bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
+                  ]
             }
       ],
       "hu": [
@@ -106055,6 +107333,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.340214,
                         47.053512
+                  ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Tóparti fürdő Ebikonban a Rotsee-nél, úszási és vízi sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
                   ]
             }
       ],
@@ -106274,6 +107561,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.340214,
                         47.053512
                   ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "O zonă de scăldat în Ebikon pe malul lacului Rotsee, oferind posibilități de înot și sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
+                  ]
             }
       ],
       "en": [
@@ -106491,6 +107787,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.340214,
                         47.053512
+                  ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "A lakeside bathing area in Ebikon on the Rotsee, offering swimming and water sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
                   ]
             }
       ]
@@ -110099,7 +111404,1384 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "CH-AG", "coords": [7.7926, 47.5536], "population": 14008, "image": "/geo-images/switzerland/ch-rheinfelden.webp", "name": {"de": "Rheinfelden", "hu": "Rheinfelden", "ro": "Rheinfelden", "en": "Rheinfelden"}, "description": {"de": "Rheinfelden ist die älteste Zähringerstadt der Schweiz am Hochrhein, berühmt für ihre Sole-Bäder, die Feldschlösschen-Brauerei und die historische Altstadt.", "hu": "Rheinfelden Svájc legrégebbi Zähringer-városa a Rajna partján, amely sós vizű fürdőiről, a Feldschlösschen sörgyárról és történelmi óvárosáról híres.", "ro": "Rheinfelden este cel mai vechi oraș Zähringer din Elveția, situat pe Rinul de Sus, renumit pentru băile sale saline, berăria Feldschlösschen și orașul vechi istoric.", "en": "Rheinfelden is Switzerland's oldest Zähringer town on the High Rhine, famous for its brine baths, the Feldschlösschen brewery, and its historic old town."}, "facts": {"de": ["Älteste Zähringerstadt der Schweiz", "Sitz der Brauerei Feldschlösschen", "Bedeutender Wellnessort mit Sole-Bädern", "Grenzstadt zu Deutschland mit Rheinbrücke"], "hu": ["Svájc legrégebbi Zähringer-városa", "A Feldschlösschen sörgyár székhelye", "Jelentős wellness-központ sós fürdőkkel", "Németországgal határos város Rajna-híddal"], "ro": ["Cel mai vechi oraș Zähringer din Elveția", "Sediul berăriei Feldschlösschen", "Locație importantă de wellness cu băi saline", "Oraș de graniță cu Germania, cu pod peste Rin"], "en": ["Oldest Zähringer town in Switzerland", "Home of the Feldschlösschen brewery", "Major wellness destination with brine baths", "Border town to Germany with a Rhine bridge"]}, "descriptionAdvanced": {"de": "Rheinfelden liegt am Hochrhein, im Nordwesten des Kantons Aargau, direkt an der Grenze zu Deutschland. Die Stadt blickt auf eine glanzvolle Geschichte zurück und gilt als die älteste Zähringerstadt der Schweiz. Gegründet wurde sie im 12. Jahrhundert durch Herzog Konrad von Zähringen, wobei die erste urkundliche Erwähnung bereits um das Jahr 851 erfolgte. Die gut erhaltene, denkmalgeschützte Altstadt mit ihren engen Gassen und prächtigen Bürgerhäusern zeugt von der einstigen Bedeutung als habsburgische Festung. Ein wirtschaftliches Wahrzeichen von nationalem Rang ist die Brauerei Feldschlösschen, die in einem schlossartigen Gebäude untergebracht ist und als eine der grössten Brauereien der Schweiz gilt. Neben dem Bier ist Rheinfelden weltweit bekannt für seine Salzvorkommen. Seit dem 19. Jahrhundert wird die Sole für Heilzwecke genutzt, was die Stadt zu einem bedeutenden Kur- und Wellnessort machte. Das moderne Wellnesszentrum Sole uno zieht jährlich Tausende von Besuchern an. Rheinfelden bildet zusammen mit der gleichnamigen deutschen Stadt auf der gegenüberliegenden Rheinseite einen grenzüberschreitenden Lebensraum, der durch mehrere Brücken verbunden ist. Die Lage am Fluss bietet zudem vielfältige Freizeitmöglichkeiten, von Schifffahrten bis hin zu Wanderwegen entlang der Rheinufer.", "hu": "Rheinfelden a Rajna partján fekszik, Aargau kanton északnyugati részén, közvetlenül a német határnál. A város fényes múltra tekint vissza, és Svájc legrégebbi Zähringer-városaként tartják számon. A 12. században alapította Konrád zähringeni herceg, bár az első írásos említése már 851 körül megtörtént. A jól megőrzött, műemlékvédelem alatt álló óváros a szűk utcáival és pompás polgárházaival az egykori Habsburg erődítmény jelentőségét hirdeti. Országos jelentőségű gazdasági jelkép a Feldschlösschen sörgyár, amely egy kastélyszerű épületben kapott helyet, és Svájc egyik legnagyobb sörgyárának számít. A sör mellett Rheinfelden világszerte ismert sókészleteiről is. A 19. század óta használják a sós vizet gyógyászati célokra, ami a várost jelentős kúra- és wellness-központtá tette. A modern Sole uno wellness-központ évente több ezer látogatót vonz. Rheinfelden a Rajna túloldalán fekvő, azonos nevű német várossal együtt határokon átnyúló életteret alkot, amelyet több híd köt össze. A folyóparti elhelyezkedés emellett változatos szabadidős lehetőségeket kínál, a hajókirándulásoktól kezdve a Rajna-parti túraútvonalakig.", "ro": "Rheinfelden este situat pe Rinul de Sus, în nord-vestul cantonului Argovia, direct la granița cu Germania. Orașul are o istorie strălucitoare și este considerat cel mai vechi oraș Zähringer din Elveția. A fost fondat în secolul al XII-lea de către ducele Konrad von Zähringen, deși prima mențiune documentară a avut loc deja în jurul anului 851. Orașul vechi bine conservat, cu străzile sale înguste și casele cetățenești magnifice, depune mărturie despre importanța sa de odinioară ca fortăreață habsburgică. Un simbol economic de rang național este berăria Feldschlösschen, găzduită într-o clădire asemănătoare unui castel și considerată una dintre cele mai mari berării din Elveția. Pe lângă bere, Rheinfelden este cunoscut în întreaga lume pentru zăcămintele sale de sare. Din secolul al XIX-lea, saramura a fost folosită în scopuri medicinale, ceea ce a făcut din oraș o locație importantă de tratament și wellness. Centrul modern de wellness Sole uno atrage mii de vizitatori în fiecare an. Rheinfelden formează, împreună cu orașul german cu același nume de pe partea opusă a Rinului, un spațiu de locuit transfrontalier, legat prin mai multe poduri. Locația de pe râu oferă, de asemenea, diverse oportunități de agrement, de la excursii cu barca la trasee de drumeție de-a lungul malurilor Rinului.", "en": "Rheinfelden is located on the High Rhine in the northwest of the Canton of Aargau, directly on the German border. The town boasts a glorious history and is considered the oldest Zähringer town in Switzerland. It was founded in the 12th century by Duke Konrad of Zähringen, though the first documentary mention dates back to around 851. The well-preserved, heritage-protected old town with its narrow alleys and magnificent townhouses bears witness to its former significance as a Habsburg fortress. An economic landmark of national importance is the Feldschlösschen brewery, housed in a castle-like building and ranked as one of the largest breweries in Switzerland. Besides beer, Rheinfelden is globally renowned for its salt deposits. Since the 19th century, brine has been used for therapeutic purposes, establishing the town as a major spa and wellness destination. The modern Sole uno wellness center attracts thousands of visitors annually. Together with its German namesake on the opposite bank of the Rhine, Rheinfelden forms a cross-border living space connected by several bridges. Its riverside location also offers diverse leisure opportunities, from boat trips to hiking trails along the banks of the Rhine."}, "factsAdvanced": {"de": ["Gründung als Zähringerstadt im 12. Jahrhundert", "Sitz der grössten Brauerei der Schweiz Feldschlösschen", "Erste Sole-Kur bereits im Jahr 1846", "Altstadt ist ein Kulturgut von nationaler Bedeutung", "Verbindung nach Deutschland über die Alte Rheinbrücke", "Fläche von 16.03 Quadratkilometern am Rhein"], "hu": ["Zähringer-városként alapítva a 12. században", "Svájc legnagyobb sörgyárának, a Feldschlösschennek a székhelye", "Az első sós vizes kúra már 1846-ban megkezdődött", "Az óváros országos jelentőségű kulturális érték", "Összeköttetés Németországgal a Régi Rajna-hídon keresztül", "16.03 négyzetkilométernyi terület a Rajna mentén"], "ro": ["Fondat ca oraș Zähringer în secolul al XII-lea", "Sediul celei mai mari berării din Elveția, Feldschlösschen", "Primul tratament cu saramură deja în anul 1846", "Orașul vechi este un bun cultural de importanță națională", "Legătură cu Germania prin Vechiul Pod peste Rin", "Suprafață de 16.03 kilometri pătrați pe Rin"], "en": ["Founded as a Zähringer town in the 12th century", "Headquarters of Switzerland's largest brewery, Feldschlösschen", "First brine treatment as early as 1846", "Old town is a cultural heritage site of national importance", "Connection to Germany via the Old Rhine Bridge", "Area of 16.03 square kilometers on the Rhine"]}, "faq": {"de": [{"q": "Was kann man in Rheinfelden besichtigen?", "a": "Besonders sehenswert sind die historische Altstadt, die Brauerei Feldschlösschen und das Wellnesszentrum Sole uno."}, {"q": "Warum ist Rheinfelden als Wellnessort bekannt?", "a": "Wegen seiner natürlichen Salzvorkommen und der daraus gewonnenen Sole, die in Thermalbädern genutzt wird."}, {"q": "Welches Bier kommt aus Rheinfelden?", "a": "Das bekannte Feldschlösschen-Bier wird in Rheinfelden gebraut."}, {"q": "Gibt es zwei Rheinfelden?", "a": "Ja, es gibt ein Schweizer Rheinfelden und direkt gegenüber ein deutsches Rheinfelden (Baden)."}], "hu": [{"q": "Mit lehet megnézni Rheinfeldenben?", "a": "Különösen érdemes meglátogatni a történelmi óvárost, a Feldschlösschen sörgyárat és a Sole uno wellness-központot."}, {"q": "Miért ismert Rheinfelden wellness-központként?", "a": "Természetes sókészletei és az abból nyert sós víz (sole) miatt, amelyet termálfürdőkben használnak fel."}, {"q": "Melyik sör származik Rheinfeldenből?", "a": "A jól ismert Feldschlösschen sört Rheinfeldenben főzik."}, {"q": "Két Rheinfelden is létezik?", "a": "Igen, létezik egy svájci Rheinfelden és közvetlenül vele szemben egy németországi Rheinfelden (Baden)."}], "ro": [{"q": "Ce se poate vizita în Rheinfelden?", "a": "Merită vizitate în mod deosebit orașul vechi istoric, berăria Feldschlösschen și centrul de wellness Sole uno."}, {"q": "De ce este Rheinfelden cunoscut ca locație de wellness?", "a": "Datorită zăcămintelor sale naturale de sare și a saramurii extrase din acestea, care este folosită în băile termale."}, {"q": "Ce bere provine din Rheinfelden?", "a": "Cunoscuta bere Feldschlösschen este fabricată în Rheinfelden."}, {"q": "Există două Rheinfelden?", "a": "Da, există un Rheinfelden elvețian și, direct vizavi, un Rheinfelden german (Baden)."}], "en": [{"q": "What can you visit in Rheinfelden?", "a": "The historic old town, the Feldschlösschen brewery, and the Sole uno wellness center are particularly worth seeing."}, {"q": "Why is Rheinfelden known as a wellness destination?", "a": "Because of its natural salt deposits and the brine derived from them, which is used in thermal baths."}, {"q": "Which beer comes from Rheinfelden?", "a": "The famous Feldschlösschen beer is brewed in Rheinfelden."}, {"q": "Are there two Rheinfeldens?", "a": "Yes, there is a Swiss Rheinfelden and a German Rheinfelden (Baden) directly opposite it."}]}},
-  {"id": "ch-richterswil", "sights": {"de": [{"name": "Ruine Schloss Alt-Wädenswil", "text": "Die Überreste einer einst mächtigen mittelalterlichen Festung bei Richterswil.", "category": "castle", "coords": [8.684817, 47.213267]}, {"name": "Sternenschanze", "text": "Eine historische Wehranlage aus dem 17. Jahrhundert in Richterswil.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Burgstelle Bellenschanze", "text": "Eine archäologische Stätte, die den Standort einer ehemaligen Schanze markiert.", "category": "historical", "coords": [8.680439, 47.186696]}, {"name": "Schloss Neu-Wädenswil", "text": "Ein barockes Schlossgebäude, das heute forschungswirtschaftlich genutzt wird.", "category": "castle", "coords": [8.676636, 47.223052]}, {"name": "Hüttnersee", "text": "Ein idyllischer See und Naturschutzgebiet auf einer Hochebene bei Richterswil.", "category": "natural", "coords": [8.67033, 47.181237]}, {"name": "Heimatkundliche Sammlung", "text": "In der Schweizer Gemeinde Richterswil bewahrt die Heimatkundliche Sammlung die reiche Geschichte der Region. Dieses Museum bietet Besuchern einen spannenden Einblick in lokale Traditionen und historisches Brauchtum. Die Ausstellungsstücke dokumentieren das frühere Leben im Ort auf anschauliche Weise.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Theater Ticino", "text": "Ein renommiertes Kleintheater in Richterswil mit einem vielseitigen Programm.", "category": "cultural", "coords": [8.678867, 47.225456]}, {"name": "Feuerwehrmuseum", "text": "Eine Sammlung historischer Feuerwehrgeräte und Uniformen in Richterswil.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "Ein technisches Museum in einer historischen, wasserbetriebenen Säge.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "Ein Aussichtspunkt am See, benannt nach dem berühmten Schweizer Dichter.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "Ein lokaler Punkt mit schöner Aussicht auf die Landschaft um Richterswil.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "Eine beeindruckende Wasserfontäne im Zürichsee vor Richterswil.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "Ein natürlicher Wasserfall in der malerischen Umgebung von Richterswil.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "Ein markantes Wahrzeichen der Stadt mit einem weithin sichtbaren Turm.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "Das Zentrum der katholischen Pfarrgemeinde in der Gemeinde Richterswil.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "Katholische Pfarrkirche St. Marien", "text": "Eine moderne katholische Kirche, die der Jungfrau Maria gewidmet ist.", "category": "religious", "coords": [8.672683, 47.226404]}, {"name": "St. Verena", "text": "Eine der heiligen Verena geweihte Kirche als Ort der Besinnung.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Marienkirche Samstagern", "text": "Eine katholische Kirche im Ortsteil Samstagern für die lokale Gemeinde.", "category": "religious", "coords": [8.678274, 47.194594]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "Das Gotteshaus der evangelisch-reformierten Kirchgemeinde in Wollerau.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "Eine kleine historische Kapelle, die den Heiligen Konrad und Ulrich gewidmet ist.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "Der Seeweidsee bei Richterswil besticht durch seine ruhige Lage und die schöne Natur.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "Der Lützelsee bei Richterswil ist ein idyllisches Gewässer in einer malerischen Umgebung.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Ausee", "text": "Der Ausee bei Richterswil bietet eine angenehme Atmosphäre für erholsame Spaziergänge.", "category": "natural", "coords": [8.640779, 47.248395]}, {"name": "Aabach-Weiher", "text": "Der Aabach-Weiher in Richterswil ist ein ruhiges Gewässer, das zum Verweilen einlädt.", "category": "natural", "coords": [8.623306, 47.231126]}, {"name": "Zürichsee", "text": "Der Zürichsee bei Richterswil bietet herrliche Ausblicke und lädt zu Spaziergängen am Wasser ein.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Obersee", "text": "Der Obersee bei Richterswil ist ein schönes Gewässer, das zum Spazierengehen in der Natur einlädt.", "category": "natural", "coords": [8.87038, 47.208624]}, {"name": "Spielplatz Horn", "text": "Ein gemütlicher Spielplatz in Richterswil für Familien mit Kindern.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "Ein familienfreundlicher Spielplatz in Richterswil, der zum Verweilen einlädt.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "Dieser Spielplatz in Richterswil bietet Kindern Raum für Bewegung im Freien.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "Ein moderner Spielplatz in Richterswil für abwechslungsreichen Spielspaß.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "Eine Minigolfanlage in Richterswil, die Spaß für die ganze Familie bietet.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Badestelle Rothuus", "text": "Ein Sportzentrum in Richterswil, das Bademöglichkeiten und Platz für Freizeitaktivitäten am See bietet.", "category": "family", "coords": [8.680293, 47.225317]}, {"name": "Zugang zu Zürichsee", "text": "Ein öffentlicher Zugang zum Zürichsee in Richterswil, der zum Schwimmen im See einlädt.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Seebad Lattenberg", "text": "Ein Sportzentrum in Richterswil, das ideale Bedingungen für Schwimmer und Erholungssuchende bietet.", "category": "family", "coords": [8.713094, 47.241273]}, {"name": "Hallenbad Untermoosen", "text": "Das Hallenbad Untermoosen in Richterswil bietet ein angenehmes Badeerlebnis für die ganze Familie.", "category": "family", "coords": [8.660602, 47.228476]}, {"name": "Bretterbadi", "text": "Das Bretterbadi in Richterswil ist ein beliebter Ort zum Schwimmen und Entspannen am Wasser.", "category": "family", "coords": [8.673999, 47.231639]}, {"name": "Seebad Hüttenersee", "text": "Das Seebad Hüttenersee in Richterswil lädt zu einem erfrischenden Bad in natürlicher Umgebung ein.", "category": "family", "coords": [8.67747, 47.184675]}], "hu": [{"name": "Ruine Schloss Alt-Wädenswil", "text": "Egy egykor hatalmas középkori erődítmény maradványai Richterswil közelében.", "category": "castle", "coords": [8.684817, 47.213267]}, {"name": "Sternenschanze", "text": "Történelmi, 17. századi védmű Richterswilben.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Burgstelle Bellenschanze", "text": "Egy egykori sánc helyét jelző régészeti lelőhely.", "category": "historical", "coords": [8.680439, 47.186696]}, {"name": "Schloss Neu-Wädenswil", "text": "Barokk kastélyépület, amelyet ma kutatási célokra használnak.", "category": "castle", "coords": [8.676636, 47.223052]}, {"name": "Hüttnersee", "text": "Idilli tó és természetvédelmi terület egy fennsíkon Richterswil közelében.", "category": "natural", "coords": [8.67033, 47.181237]}, {"name": "Heimatkundliche Sammlung", "text": "A svájci Richterswil településen található Heimatkundliche Sammlung a régió gazdag történelmét őrzi. Ez a múzeum izgalmas bepillantást nyújt a látogatóknak a helyi hagyományokba és szokásokba. A kiállítási tárgyak szemléletesen dokumentálják a falu egykori életét.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Theater Ticino", "text": "Neves kisszínház Richterswilben, sokszínű programkínálattal.", "category": "cultural", "coords": [8.678867, 47.225456]}, {"name": "Feuerwehrmuseum", "text": "Történelmi tűzoltóeszközök és egyenruhák gyűjteménye Richterswilben.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "Technikai múzeum egy történelmi, vízi meghajtású fűrészmalomban.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "Tóparti kilátópont, amelyet a híres svájci költőről neveztek el.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "Helyi pont szép kilátással a Richterswil környéki tájra.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "Lenyűgöző szökőkút a Zürichi-tóban Richterswil előtt.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "Természetes vízesés Richterswil festői környezetében.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "A város jellegzetes nevezetessége a messziről látható tornyával.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "A katolikus plébánia központja Richterswil községben.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "Katholische Pfarrkirche St. Marien", "text": "Szűz Máriának szentelt modern katolikus templom.", "category": "religious", "coords": [8.672683, 47.226404]}, {"name": "St. Verena", "text": "Szent Verenának szentelt templom, az elmélkedés helye.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Marienkirche Samstagern", "text": "Katolikus templom Samstagern városrészben a helyi közösség számára.", "category": "religious", "coords": [8.678274, 47.194594]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "Az evangélikus-református egyházközség temploma Wollerau-ban.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "Szent Konrádnak és Ulrichnak szentelt kis történelmi kápolna.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "A Richterswil melletti Seeweidsee lenyűgöző a nyugodt fekvésével és szép természetével.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "A Richterswil melletti Lützelsee egy idilli vízfelület festői környezetben.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Ausee", "text": "A Richterswil melletti Ausee kellemes légkört kínál a pihentető sétákhoz.", "category": "natural", "coords": [8.640779, 47.248395]}, {"name": "Aabach-Weiher", "text": "A richterswili Aabach-Weiher egy nyugodt vízfelület, amely időzésre hív.", "category": "natural", "coords": [8.623306, 47.231126]}, {"name": "Zürichsee", "text": "A Richterswil melletti Zürichsee csodálatos kilátást nyújt és vízparti sétákra hív.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Obersee", "text": "A Richterswil melletti Obersee egy szép vízfelület, amely természeti sétákra hívogat.", "category": "natural", "coords": [8.87038, 47.208624]}, {"name": "Spielplatz Horn", "text": "Barátságos játszótér Richterswil területén, amely kikapcsolódást nyújt a családoknak.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "Családbarát játszótér Richterswilben, amely remek helyszín a játékhoz.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "Ez a richterswili játszótér szabadtéri mozgási lehetőséget kínál a gyerekeknek.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "Modern játszótér Richterswilben a változatos játékélményért.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "Minigolfpálya Richterswilben, amely szórakozást nyújt az egész családnak.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Badestelle Rothuus", "text": "Egy sportközpont Richterswilben, amely fürdési lehetőséget és helyet biztosít a szabadidős tevékenységekhez.", "category": "family", "coords": [8.680293, 47.225317]}, {"name": "Zugang zu Zürichsee", "text": "Egy nyilvános lejáró a Zürichi-tóhoz Richterswilben, amely úszásra invitál a tóban.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Seebad Lattenberg", "text": "Egy sportközpont Richterswilben, amely ideális feltételeket kínál úszók és pihenni vágyók számára.", "category": "family", "coords": [8.713094, 47.241273]}, {"name": "Hallenbad Untermoosen", "text": "A richterswili Hallenbad Untermoosen kellemes fürdőzési élményt nyújt az egész családnak.", "category": "family", "coords": [8.660602, 47.228476]}, {"name": "Bretterbadi", "text": "A richterswili Bretterbadi népszerű hely az úszásra és a vízparti pihenésre.", "category": "family", "coords": [8.673999, 47.231639]}, {"name": "Seebad Hüttenersee", "text": "A richterswili Seebad Hüttenersee frissítő fürdőzésre hív a természetes környezetben.", "category": "family", "coords": [8.67747, 47.184675]}], "ro": [{"name": "Ruine Schloss Alt-Wädenswil", "text": "Rămășițele unei fortărețe medievale odinioară puternice lângă Richterswil.", "category": "castle", "coords": [8.684817, 47.213267]}, {"name": "Sternenschanze", "text": "O fortificație istorică din secolul al XVII-lea în Richterswil.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Burgstelle Bellenschanze", "text": "Un sit arheologic care marchează locul unei foste fortificații.", "category": "historical", "coords": [8.680439, 47.186696]}, {"name": "Schloss Neu-Wädenswil", "text": "O clădire de castel baroc, utilizată astăzi în scopuri de cercetare.", "category": "castle", "coords": [8.676636, 47.223052]}, {"name": "Hüttnersee", "text": "Un lac idilic și o rezervație naturală pe un platou înalt lângă Richterswil.", "category": "natural", "coords": [8.67033, 47.181237]}, {"name": "Heimatkundliche Sammlung", "text": "În comuna elvețiană Richterswil, Heimatkundliche Sammlung păstrează istoria bogată a regiunii. Acest muzeu oferă vizitatorilor o privire fascinantă asupra tradițiilor locale și a obiceiurilor istorice. Obiectele expuse documentează într-un mod viu viața de odinioară din localitate.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Theater Ticino", "text": "Un teatru mic renumit în Richterswil, cu un program diversificat.", "category": "cultural", "coords": [8.678867, 47.225456]}, {"name": "Feuerwehrmuseum", "text": "O colecție de echipamente și uniforme istorice de pompieri în Richterswil.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "Un muzeu tehnic situat într-un gater istoric acționat de apă.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "Un punct de belvedere pe malul lacului, numit după celebrul poet elvețian.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "Un punct local cu o vedere frumoasă asupra peisajului din jurul Richterswil.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "O fântână arteziană impresionantă în lacul Zürich, în fața localității Richterswil.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "O cascadă naturală în împrejurimile pitorești din Richterswil.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "Un simbol proeminent al orașului, cu un turn vizibil de la distanță.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "Centrul comunității parohiale catolice din localitatea Richterswil.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "Katholische Pfarrkirche St. Marien", "text": "O biserică catolică modernă dedicată Fecioarei Maria.", "category": "religious", "coords": [8.672683, 47.226404]}, {"name": "St. Verena", "text": "O biserică dedicată Sfintei Verena, ca loc de reflecție.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Marienkirche Samstagern", "text": "O biserică catolică în cartierul Samstagern pentru comunitatea locală.", "category": "religious", "coords": [8.678274, 47.194594]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "Lăcașul de cult al parohiei evanghelice reformate din Wollerau.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "O mică chapelă istorică dedicată sfinților Konrad și Ulrich.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "Seeweidsee de lângă Richterswil impresionează prin locația sa liniștită și natura frumoasă.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "Lützelsee de lângă Richterswil este un corp de apă idilic într-un cadru pitoresc.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Ausee", "text": "Ausee de lângă Richterswil oferă o atmosferă plăcută pentru plimbări relaxante.", "category": "natural", "coords": [8.640779, 47.248395]}, {"name": "Aabach-Weiher", "text": "Aabach-Weiher din Richterswil este un corp de apă liniștit care invită la relaxare.", "category": "natural", "coords": [8.623306, 47.231126]}, {"name": "Zürichsee", "text": "Lacul Zurich de lângă Richterswil oferă vederi minunate și invită la plimbări pe malul apei.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Obersee", "text": "Obersee de lângă Richterswil este un corp de apă frumos care invită la plimbări în natură.", "category": "natural", "coords": [8.87038, 47.208624]}, {"name": "Spielplatz Horn", "text": "Un loc de joacă primitor în Richterswil, ideal pentru familiile cu copii.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "Un loc de joacă pentru familii în Richterswil, perfect pentru momente de recreere.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "Acest loc de joacă din Richterswil oferă copiilor spațiu pentru activități în aer liber.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "Un loc de joacă modern în Richterswil pentru distracție variată.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "Un teren de minigolf în Richterswil, care oferă distracție pentru întreaga familie.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Badestelle Rothuus", "text": "Un centru sportiv în Richterswil, care oferă facilități de scăldat și spațiu pentru activități de agrement.", "category": "family", "coords": [8.680293, 47.225317]}, {"name": "Zugang zu Zürichsee", "text": "Un acces public la Lacul Zürich în Richterswil, ideal pentru înot în lac.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Seebad Lattenberg", "text": "Un centru sportiv în Richterswil, care oferă condiții ideale pentru înotători și relaxare.", "category": "family", "coords": [8.713094, 47.241273]}, {"name": "Hallenbad Untermoosen", "text": "Hallenbad Untermoosen din Richterswil oferă o experiență plăcută de înot pentru întreaga familie.", "category": "family", "coords": [8.660602, 47.228476]}, {"name": "Bretterbadi", "text": "Bretterbadi din Richterswil este un loc popular pentru înot și relaxare la malul apei.", "category": "family", "coords": [8.673999, 47.231639]}, {"name": "Seebad Hüttenersee", "text": "Seebad Hüttenersee din Richterswil vă invită la o baie revigorantă într-un cadru natural.", "category": "family", "coords": [8.67747, 47.184675]}], "en": [{"name": "Ruine Schloss Alt-Wädenswil", "text": "The remains of a once powerful medieval fortress near Richterswil.", "category": "castle", "coords": [8.684817, 47.213267]}, {"name": "Sternenschanze", "text": "A historic 17th-century fortification located in Richterswil.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Burgstelle Bellenschanze", "text": "An archaeological site marking the location of a former redoubt.", "category": "historical", "coords": [8.680439, 47.186696]}, {"name": "Schloss Neu-Wädenswil", "text": "A baroque castle building today used for research and administrative purposes.", "category": "castle", "coords": [8.676636, 47.223052]}, {"name": "Hüttnersee", "text": "An idyllic lake and nature reserve on a plateau near Richterswil.", "category": "natural", "coords": [8.67033, 47.181237]}, {"name": "Heimatkundliche Sammlung", "text": "In the Swiss municipality of Richterswil, the Heimatkundliche Sammlung preserves the region's rich history. This museum offers visitors a fascinating glimpse into local traditions and historical customs. The exhibits vividly document the former way of life in the town.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Theater Ticino", "text": "A renowned small theatre in Richterswil with a versatile program.", "category": "cultural", "coords": [8.678867, 47.225456]}, {"name": "Feuerwehrmuseum", "text": "A collection of historical firefighting equipment and uniforms in Richterswil.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "A technical museum located in a historic water-powered sawmill.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "A lakeside viewpoint named after the famous Swiss writer Gottfried Keller.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "A local spot with a beautiful view of the landscape around Richterswil.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "An impressive water fountain in Lake Zurich off the coast of Richterswil.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "A natural waterfall in the picturesque surroundings of Richterswil.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "A prominent landmark of the town with a tower visible from afar.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "The center of the Catholic parish community in the municipality of Richterswil.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "Katholische Pfarrkirche St. Marien", "text": "A modern Catholic church dedicated to the Virgin Mary.", "category": "religious", "coords": [8.672683, 47.226404]}, {"name": "St. Verena", "text": "A church dedicated to Saint Verena as a place of reflection.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Marienkirche Samstagern", "text": "A Catholic church in the Samstagern district for the local community.", "category": "religious", "coords": [8.678274, 47.194594]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "The house of worship of the Evangelical Reformed parish in Wollerau.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "A small historic chapel dedicated to Saints Konrad and Ulrich.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "The Seeweidsee near Richterswil impresses with its quiet location and beautiful nature.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "The Lützelsee near Richterswil is an idyllic body of water in picturesque surroundings.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Ausee", "text": "The Ausee near Richterswil offers a pleasant atmosphere for relaxing walks.", "category": "natural", "coords": [8.640779, 47.248395]}, {"name": "Aabach-Weiher", "text": "The Aabach-Weiher in Richterswil is a quiet body of water that invites you to linger.", "category": "natural", "coords": [8.623306, 47.231126]}, {"name": "Lake Zurich", "text": "Lake Zurich near Richterswil offers wonderful views and invites you to walk by the water.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Obersee", "text": "The Obersee near Richterswil is a beautiful body of water that invites you to take a walk in nature.", "category": "natural", "coords": [8.87038, 47.208624]}, {"name": "Spielplatz Horn", "text": "A welcoming playground in Richterswil for families with children.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "A family-friendly playground in Richterswil, perfect for leisure and play.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "This playground in Richterswil offers children space for outdoor activities.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "A modern playground in Richterswil for diverse play activities.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "A miniature golf course in Richterswil offering fun for the whole family.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Badestelle Rothuus", "text": "A sports centre in Richterswil offering bathing facilities and space for leisure activities by the lake.", "category": "family", "coords": [8.680293, 47.225317]}, {"name": "Zugang zu Zürichsee", "text": "A public access point to Lake Zurich in Richterswil, perfect for swimming in the lake.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Seebad Lattenberg", "text": "A sports centre in Richterswil offering ideal conditions for swimmers and relaxation.", "category": "family", "coords": [8.713094, 47.241273]}, {"name": "Hallenbad Untermoosen", "text": "The Hallenbad Untermoosen in Richterswil offers a pleasant swimming experience for the whole family.", "category": "family", "coords": [8.660602, 47.228476]}, {"name": "Bretterbadi", "text": "The Bretterbadi in Richterswil is a popular spot for swimming and relaxing by the water.", "category": "family", "coords": [8.673999, 47.231639]}, {"name": "Seebad Hüttenersee", "text": "The Seebad Hüttenersee in Richterswil invites you to a refreshing swim in natural surroundings.", "category": "family", "coords": [8.67747, 47.184675]}]}, "type": "city", "parent": "CH-ZH", "coords": [8.6985, 47.207], "population": 14005, "image": "/geo-images/switzerland/ch-richterswil.webp", "name": {"de": "Richterswil", "hu": "Richterswil", "ro": "Richterswil", "en": "Richterswil"}, "description": {"de": "Eine charmante Gemeinde am linken Ufer des Zürichsees, bekannt für ihre gut erhaltene Altstadt und das traditionelle Räbechilbi-Fest.", "hu": "Egy bájos település a Zürichi-tó bal partján, amely jól megőrzött óvárosáról és a hagyományos Räbechilbi ünnepségéről ismert.", "ro": "O comună fermecătoare pe malul stâng al lacului Zurich, cunoscută pentru orașul său vechi bine conservat și festivalul tradițional Räbechilbi.", "en": "A charming municipality on the left bank of Lake Zurich, known for its well-preserved old town and the traditional Räbechilbi festival."}, "facts": {"de": ["Ufer des Zürichsees", "Räbechilbi Lichterfest", "Bezirk Horgen", "Wichtiger Bahnknoten"], "hu": ["Zürichi-tó partja", "Räbechilbi fényünnep", "Horgen járás", "Fontos vasúti csomópont"], "ro": ["Malul lacului Zurich", "Festivalul Räbechilbi", "Districtul Horgen", "Nod feroviar important"], "en": ["Lake Zurich shore", "Räbechilbi light festival", "Horgen district", "Important rail hub"]}, "descriptionAdvanced": {"de": "Richterswil liegt am südlichen Ende des Kantons Zürich und erstreckt sich vom Ufer des Zürichsees bis hinauf zu den Hügeln der Region Zimmerberg. Die Gemeinde blickt auf eine lange Geschichte zurück, die bis in die Steinzeit reicht, worauf Pfahlbaufunde hindeuten. Im Mittelalter war der Ort ein strategisch wichtiger Punkt für den Verkehr über den See und in die Innerschweiz. Das Ortsbild wird geprägt durch zahlreiche historische Riegelhäuser und die reformierte Kirche, die majestätisch über dem Zentrum thront. Ein Höhepunkt im Gemeindeleben ist die jährlich stattfindende Räbechilbi im November, der weltweit grösste Umzug mit geschnitzten Herbstrüben, der Tausende von Besuchern anlockt. Wirtschaftlich hat sich Richterswil von einem einstigen Fischerdorf und Industriestandort zu einer attraktiven Wohngemeinde mit hoher Lebensqualität entwickelt. Die Anbindung an die Stadt Zürich durch die S-Bahn macht den Ort besonders für Pendler interessant. Zudem bietet das nahegelegene Naherholungsgebiet auf dem Zimmerberg und im Sihlwald vielfältige Möglichkeiten für Wanderungen und sportliche Aktivitäten in der Natur.", "hu": "Richterswil Zürich kanton déli végén található, és a Zürichi-tó partjától egészen a Zimmerberg-régió dombjaiig húzódik. A település hosszú múltra tekint vissza, amely egészen a kőkorszakig nyúlik vissza, amint azt a cölöpházak maradványai is bizonyítják. A középkorban a hely stratégiailag fontos pont volt a tavon keresztüli és a Belső-Svájc felé irányuló közlekedés számára. A falu képét számos történelmi favázas ház és a református templom határozza meg, amely fenségesen magasodik a központ felett. A közösségi élet egyik csúcspontja az évente novemberben megrendezett Räbechilbi, a világ legnagyobb faragott tarlórépákból álló felvonulása, amely látogatók ezreit vonzza. Gazdaságilag Richterswil az egykori halászfaluból és ipari helyszínből vonzó lakóövezetté fejlődött, magas életminőséggel. Zürich városának S-Bahn általi közelsége különösen érdekessé teszi a helyet az ingázók számára. Emellett a közeli Zimmerberg és Sihlwald pihenőövezetei változatos lehetőségeket kínálnak túrázásra és sportolásra a természetben.", "ro": "Richterswil este situat la capătul sudic al cantonului Zurich și se întinde de la malul lacului Zurich până la dealurile regiunii Zimmerberg. Comunitatea are o istorie lungă, care datează din epoca pietrei, după cum indică descoperirile de locuințe pe piloni. În Evul Mediu, locul era un punct strategic important pentru traficul peste lac și către Elveția Centrală. Imaginea localității este dominată de numeroase case istorice cu structură de lemn și de biserica reformată, care tronează maiestuos deasupra centrului. Un punct culminant al vieții comunitare este festivalul anual Räbechilbi din noiembrie, cea mai mare paradă din lume cu napi sculptați, care atrage mii de vizitatori. Din punct de vedere economic, Richterswil s-a dezvoltat de la un fost sat de pescari și locație industrială la o comunitate rezidențială atractivă, cu o calitate ridicată a vieții. Legătura cu orașul Zurich prin S-Bahn face locul deosebit de interesant pentru navetiști. În plus, zona de recreere din apropiere de pe Zimmerberg și din pădurea Sihlwald oferă oportunități diverse pentru drumeții și activități sportive în natură.", "en": "Richterswil is located at the southern end of the Canton of Zurich and extends from the shores of Lake Zurich up to the hills of the Zimmerberg region. The community has a long history dating back to the Stone Age, as indicated by pile dwelling finds. In the Middle Ages, the place was a strategically important point for traffic across the lake and into Central Switzerland. The village landscape is characterized by numerous historic half-timbered houses and the Reformed church, which stands majestically above the center. A highlight of community life is the annual Räbechilbi in November, the world's largest parade with carved turnips, attracting thousands of visitors. Economically, Richterswil has developed from a former fishing village and industrial site into an attractive residential community with a high quality of life. The connection to the city of Zurich via the S-Bahn makes the location particularly interesting for commuters. Additionally, the nearby recreation areas on the Zimmerberg and in the Sihlwald forest offer diverse opportunities for hiking and sporting activities in nature."}, "factsAdvanced": {"de": ["Erstmals 1265 urkundlich erwähnt", "Grösster Räbechilbi-Umzug weltweit", "Bahnhof erbaut im Jahr 1875", "Fläche von 7.54 Quadratkilometern", "Teil der Metropolregion Zürich", "Längste Seeuferanlage am Zürichsee"], "hu": ["Először 1265-ben említik oklevélben", "Világ legnagyobb Räbechilbi felvonulása", "A vasútállomás 1875-ben épült", "7.54 négyzetkilométernyi terület", "A zürichi agglomeráció része", "A leghosszabb tóparti sétány a Zürichi-tónál"], "ro": ["Menționat documentar pentru prima dată în 1265", "Cea mai mare paradă Räbechilbi din lume", "Gara construită în anul 1875", "Suprafață de 7.54 kilometri pătrați", "Parte a regiunii metropolitane Zurich", "Cea mai lungă amenajare de mal de pe lacul Zurich"], "en": ["First mentioned in documents in 1265", "Largest Räbechilbi parade worldwide", "Railway station built in 1875", "Area of 7.54 square kilometers", "Part of the Zurich metropolitan region", "Longest lakeside facility on Lake Zurich"]}, "faq": {"de": [{"q": "Wofür ist Richterswil besonders bekannt?", "a": "Richterswil ist weltberühmt für die Räbechilbi, das grösste Lichterfest mit geschnitzten Räben."}, {"q": "Liegt Richterswil direkt am See?", "a": "Ja, die Gemeinde verfügt über einen grossen Seeanstoss mit einer wunderschönen Parkanlage."}, {"q": "Wie weit ist es nach Zürich?", "a": "Mit der S-Bahn erreicht man das Zentrum von Zürich in etwa 25 bis 30 Minuten."}, {"q": "Gibt es historische Gebäude?", "a": "Die Altstadt von Richterswil steht unter Denkmalschutz und bietet viele sehenswerte Fachwerkhäuser."}], "hu": [{"q": "Miről különösen híres Richterswil?", "a": "Richterswil világhírű a Räbechilbi-ről, amely a legnagyobb fényünnep faragott tarlórépákkal."}, {"q": "Richterswil közvetlenül a tónál fekszik?", "a": "Igen, a település nagy tóparti szakasszal és egy gyönyörű parkkal rendelkezik."}, {"q": "Milyen messze van Zürich?", "a": "Az S-Bahn vonattal Zürich központja körülbelül 25-30 perc alatt elérhető."}, {"q": "Vannak történelmi épületek?", "a": "Richterswil óvárosa műemlékvédelem alatt áll, és számos figyelemre méltó favázas házzal rendelkezik."}], "ro": [{"q": "Pentru ce este Richterswil cunoscut în mod special?", "a": "Richterswil este faimos în întreaga lume pentru Räbechilbi, cel mai mare festival de lumini cu napi sculptați."}, {"q": "Este Richterswil situat direct pe lac?", "a": "Da, comuna are o deschidere mare la lac, cu un parc minunat."}, {"q": "Cât de departe este Zurich?", "a": "Cu trenul S-Bahn, se ajunge în centrul orașului Zurich în aproximativ 25 până la 30 de minute."}, {"q": "Există clădiri istorice?", "a": "Orașul vechi din Richterswil este protejat ca monument și oferă multe case cu structură de lemn ce merită văzute."}], "en": [{"q": "What is Richterswil particularly famous for?", "a": "Richterswil is world-famous for the Räbechilbi, the largest light festival featuring carved turnips."}, {"q": "Is Richterswil located directly on the lake?", "a": "Yes, the municipality has a large lakefront with a beautiful park area."}, {"q": "How far is it to Zurich?", "a": "By S-Bahn, you can reach the center of Zurich in about 25 to 30 minutes."}, {"q": "Are there historical buildings?", "a": "The old town of Richterswil is protected as a heritage site and offers many notable half-timbered houses."}]}},
+  {"id": "ch-richterswil", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Schloss Alt-Wädenswil",
+                  "text": "Die Überreste einer einst mächtigen mittelalterlichen Festung bei Richterswil.",
+                  "category": "castle",
+                  "coords": [
+                        8.684817,
+                        47.213267
+                  ]
+            },
+            {
+                  "name": "Sternenschanze",
+                  "text": "Eine historische Wehranlage aus dem 17. Jahrhundert in Richterswil.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Burgstelle Bellenschanze",
+                  "text": "Eine archäologische Stätte, die den Standort einer ehemaligen Schanze markiert.",
+                  "category": "historical",
+                  "coords": [
+                        8.680439,
+                        47.186696
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Wädenswil",
+                  "text": "Ein barockes Schlossgebäude, das heute forschungswirtschaftlich genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        8.676636,
+                        47.223052
+                  ]
+            },
+            {
+                  "name": "Hüttnersee",
+                  "text": "Ein idyllischer See und Naturschutzgebiet auf einer Hochebene bei Richterswil.",
+                  "category": "natural",
+                  "coords": [
+                        8.67033,
+                        47.181237
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "In der Schweizer Gemeinde Richterswil bewahrt die Heimatkundliche Sammlung die reiche Geschichte der Region. Dieses Museum bietet Besuchern einen spannenden Einblick in lokale Traditionen und historisches Brauchtum. Die Ausstellungsstücke dokumentieren das frühere Leben im Ort auf anschauliche Weise.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Theater Ticino",
+                  "text": "Ein renommiertes Kleintheater in Richterswil mit einem vielseitigen Programm.",
+                  "category": "cultural",
+                  "coords": [
+                        8.678867,
+                        47.225456
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Eine Sammlung historischer Feuerwehrgeräte und Uniformen in Richterswil.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "Ein technisches Museum in einer historischen, wasserbetriebenen Säge.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "Ein Aussichtspunkt am See, benannt nach dem berühmten Schweizer Dichter.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "Ein lokaler Punkt mit schöner Aussicht auf die Landschaft um Richterswil.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "Eine beeindruckende Wasserfontäne im Zürichsee vor Richterswil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "Ein natürlicher Wasserfall in der malerischen Umgebung von Richterswil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "Ein markantes Wahrzeichen der Stadt mit einem weithin sichtbaren Turm.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "Das Zentrum der katholischen Pfarrgemeinde in der Gemeinde Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "Katholische Pfarrkirche St. Marien",
+                  "text": "Eine moderne katholische Kirche, die der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.672683,
+                        47.226404
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "Eine der heiligen Verena geweihte Kirche als Ort der Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Marienkirche Samstagern",
+                  "text": "Eine katholische Kirche im Ortsteil Samstagern für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        8.678274,
+                        47.194594
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "Das Gotteshaus der evangelisch-reformierten Kirchgemeinde in Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "Eine kleine historische Kapelle, die den Heiligen Konrad und Ulrich gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "Der Seeweidsee bei Richterswil besticht durch seine ruhige Lage und die schöne Natur.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "Der Lützelsee bei Richterswil ist ein idyllisches Gewässer in einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Ausee",
+                  "text": "Der Ausee bei Richterswil bietet eine angenehme Atmosphäre für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        8.640779,
+                        47.248395
+                  ]
+            },
+            {
+                  "name": "Aabach-Weiher",
+                  "text": "Der Aabach-Weiher in Richterswil ist ein ruhiges Gewässer, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.623306,
+                        47.231126
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Der Zürichsee bei Richterswil bietet herrliche Ausblicke und lädt zu Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Obersee",
+                  "text": "Der Obersee bei Richterswil ist ein schönes Gewässer, das zum Spazierengehen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.87038,
+                        47.208624
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "Ein gemütlicher Spielplatz in Richterswil für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Ein familienfreundlicher Spielplatz in Richterswil, der zum Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "Dieser Spielplatz in Richterswil bietet Kindern Raum für Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "Ein moderner Spielplatz in Richterswil für abwechslungsreichen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "Eine Minigolfanlage in Richterswil, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Badestelle Rothuus",
+                  "text": "Ein Sportzentrum in Richterswil, das Bademöglichkeiten und Platz für Freizeitaktivitäten am See bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.680293,
+                        47.225317
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "Ein öffentlicher Zugang zum Zürichsee in Richterswil, der zum Schwimmen im See einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Seebad Lattenberg",
+                  "text": "Ein Sportzentrum in Richterswil, das ideale Bedingungen für Schwimmer und Erholungssuchende bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.713094,
+                        47.241273
+                  ]
+            },
+            {
+                  "name": "Hallenbad Untermoosen",
+                  "text": "Das Hallenbad Untermoosen in Richterswil bietet ein angenehmes Badeerlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.660602,
+                        47.228476
+                  ]
+            },
+            {
+                  "name": "Bretterbadi",
+                  "text": "Das Bretterbadi in Richterswil ist ein beliebter Ort zum Schwimmen und Entspannen am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.673999,
+                        47.231639
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "Das Seebad Hüttenersee in Richterswil lädt zu einem erfrischenden Bad in natürlicher Umgebung ein.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "Ein Seebad in Richterswil mit Sportmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Schloss Alt-Wädenswil",
+                  "text": "Egy egykor hatalmas középkori erődítmény maradványai Richterswil közelében.",
+                  "category": "castle",
+                  "coords": [
+                        8.684817,
+                        47.213267
+                  ]
+            },
+            {
+                  "name": "Sternenschanze",
+                  "text": "Történelmi, 17. századi védmű Richterswilben.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Burgstelle Bellenschanze",
+                  "text": "Egy egykori sánc helyét jelző régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        8.680439,
+                        47.186696
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Wädenswil",
+                  "text": "Barokk kastélyépület, amelyet ma kutatási célokra használnak.",
+                  "category": "castle",
+                  "coords": [
+                        8.676636,
+                        47.223052
+                  ]
+            },
+            {
+                  "name": "Hüttnersee",
+                  "text": "Idilli tó és természetvédelmi terület egy fennsíkon Richterswil közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.67033,
+                        47.181237
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "A svájci Richterswil településen található Heimatkundliche Sammlung a régió gazdag történelmét őrzi. Ez a múzeum izgalmas bepillantást nyújt a látogatóknak a helyi hagyományokba és szokásokba. A kiállítási tárgyak szemléletesen dokumentálják a falu egykori életét.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Theater Ticino",
+                  "text": "Neves kisszínház Richterswilben, sokszínű programkínálattal.",
+                  "category": "cultural",
+                  "coords": [
+                        8.678867,
+                        47.225456
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Történelmi tűzoltóeszközök és egyenruhák gyűjteménye Richterswilben.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "Technikai múzeum egy történelmi, vízi meghajtású fűrészmalomban.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "Tóparti kilátópont, amelyet a híres svájci költőről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "Helyi pont szép kilátással a Richterswil környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "Lenyűgöző szökőkút a Zürichi-tóban Richterswil előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "Természetes vízesés Richterswil festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "A város jellegzetes nevezetessége a messziről látható tornyával.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "A katolikus plébánia központja Richterswil községben.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "Katholische Pfarrkirche St. Marien",
+                  "text": "Szűz Máriának szentelt modern katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        8.672683,
+                        47.226404
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "Szent Verenának szentelt templom, az elmélkedés helye.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Marienkirche Samstagern",
+                  "text": "Katolikus templom Samstagern városrészben a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.678274,
+                        47.194594
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "Az evangélikus-református egyházközség temploma Wollerau-ban.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "Szent Konrádnak és Ulrichnak szentelt kis történelmi kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "A Richterswil melletti Seeweidsee lenyűgöző a nyugodt fekvésével és szép természetével.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "A Richterswil melletti Lützelsee egy idilli vízfelület festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Ausee",
+                  "text": "A Richterswil melletti Ausee kellemes légkört kínál a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.640779,
+                        47.248395
+                  ]
+            },
+            {
+                  "name": "Aabach-Weiher",
+                  "text": "A richterswili Aabach-Weiher egy nyugodt vízfelület, amely időzésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        8.623306,
+                        47.231126
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "A Richterswil melletti Zürichsee csodálatos kilátást nyújt és vízparti sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Obersee",
+                  "text": "A Richterswil melletti Obersee egy szép vízfelület, amely természeti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        8.87038,
+                        47.208624
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "Barátságos játszótér Richterswil területén, amely kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Családbarát játszótér Richterswilben, amely remek helyszín a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "Ez a richterswili játszótér szabadtéri mozgási lehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "Modern játszótér Richterswilben a változatos játékélményért.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "Minigolfpálya Richterswilben, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Badestelle Rothuus",
+                  "text": "Egy sportközpont Richterswilben, amely fürdési lehetőséget és helyet biztosít a szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        8.680293,
+                        47.225317
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "Egy nyilvános lejáró a Zürichi-tóhoz Richterswilben, amely úszásra invitál a tóban.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Seebad Lattenberg",
+                  "text": "Egy sportközpont Richterswilben, amely ideális feltételeket kínál úszók és pihenni vágyók számára.",
+                  "category": "family",
+                  "coords": [
+                        8.713094,
+                        47.241273
+                  ]
+            },
+            {
+                  "name": "Hallenbad Untermoosen",
+                  "text": "A richterswili Hallenbad Untermoosen kellemes fürdőzési élményt nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        8.660602,
+                        47.228476
+                  ]
+            },
+            {
+                  "name": "Bretterbadi",
+                  "text": "A richterswili Bretterbadi népszerű hely az úszásra és a vízparti pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        8.673999,
+                        47.231639
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "A richterswili Seebad Hüttenersee frissítő fürdőzésre hív a természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "Tavi strand Richterswilben sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Schloss Alt-Wädenswil",
+                  "text": "Rămășițele unei fortărețe medievale odinioară puternice lângă Richterswil.",
+                  "category": "castle",
+                  "coords": [
+                        8.684817,
+                        47.213267
+                  ]
+            },
+            {
+                  "name": "Sternenschanze",
+                  "text": "O fortificație istorică din secolul al XVII-lea în Richterswil.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Burgstelle Bellenschanze",
+                  "text": "Un sit arheologic care marchează locul unei foste fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        8.680439,
+                        47.186696
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Wädenswil",
+                  "text": "O clădire de castel baroc, utilizată astăzi în scopuri de cercetare.",
+                  "category": "castle",
+                  "coords": [
+                        8.676636,
+                        47.223052
+                  ]
+            },
+            {
+                  "name": "Hüttnersee",
+                  "text": "Un lac idilic și o rezervație naturală pe un platou înalt lângă Richterswil.",
+                  "category": "natural",
+                  "coords": [
+                        8.67033,
+                        47.181237
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "În comuna elvețiană Richterswil, Heimatkundliche Sammlung păstrează istoria bogată a regiunii. Acest muzeu oferă vizitatorilor o privire fascinantă asupra tradițiilor locale și a obiceiurilor istorice. Obiectele expuse documentează într-un mod viu viața de odinioară din localitate.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Theater Ticino",
+                  "text": "Un teatru mic renumit în Richterswil, cu un program diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.678867,
+                        47.225456
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "O colecție de echipamente și uniforme istorice de pompieri în Richterswil.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "Un muzeu tehnic situat într-un gater istoric acționat de apă.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "Un punct de belvedere pe malul lacului, numit după celebrul poet elvețian.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "Un punct local cu o vedere frumoasă asupra peisajului din jurul Richterswil.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "O fântână arteziană impresionantă în lacul Zürich, în fața localității Richterswil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "O cascadă naturală în împrejurimile pitorești din Richterswil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "Un simbol proeminent al orașului, cu un turn vizibil de la distanță.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "Centrul comunității parohiale catolice din localitatea Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "Katholische Pfarrkirche St. Marien",
+                  "text": "O biserică catolică modernă dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        8.672683,
+                        47.226404
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "O biserică dedicată Sfintei Verena, ca loc de reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Marienkirche Samstagern",
+                  "text": "O biserică catolică în cartierul Samstagern pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        8.678274,
+                        47.194594
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "Lăcașul de cult al parohiei evanghelice reformate din Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "O mică chapelă istorică dedicată sfinților Konrad și Ulrich.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "Seeweidsee de lângă Richterswil impresionează prin locația sa liniștită și natura frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "Lützelsee de lângă Richterswil este un corp de apă idilic într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Ausee",
+                  "text": "Ausee de lângă Richterswil oferă o atmosferă plăcută pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        8.640779,
+                        47.248395
+                  ]
+            },
+            {
+                  "name": "Aabach-Weiher",
+                  "text": "Aabach-Weiher din Richterswil este un corp de apă liniștit care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.623306,
+                        47.231126
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Lacul Zurich de lângă Richterswil oferă vederi minunate și invită la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Obersee",
+                  "text": "Obersee de lângă Richterswil este un corp de apă frumos care invită la plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.87038,
+                        47.208624
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "Un loc de joacă primitor în Richterswil, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Un loc de joacă pentru familii în Richterswil, perfect pentru momente de recreere.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "Acest loc de joacă din Richterswil oferă copiilor spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "Un loc de joacă modern în Richterswil pentru distracție variată.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "Un teren de minigolf în Richterswil, care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Badestelle Rothuus",
+                  "text": "Un centru sportiv în Richterswil, care oferă facilități de scăldat și spațiu pentru activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        8.680293,
+                        47.225317
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "Un acces public la Lacul Zürich în Richterswil, ideal pentru înot în lac.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Seebad Lattenberg",
+                  "text": "Un centru sportiv în Richterswil, care oferă condiții ideale pentru înotători și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.713094,
+                        47.241273
+                  ]
+            },
+            {
+                  "name": "Hallenbad Untermoosen",
+                  "text": "Hallenbad Untermoosen din Richterswil oferă o experiență plăcută de înot pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.660602,
+                        47.228476
+                  ]
+            },
+            {
+                  "name": "Bretterbadi",
+                  "text": "Bretterbadi din Richterswil este un loc popular pentru înot și relaxare la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.673999,
+                        47.231639
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "Seebad Hüttenersee din Richterswil vă invită la o baie revigorantă într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "Un ștrand la lac în Richterswil cu facilități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Schloss Alt-Wädenswil",
+                  "text": "The remains of a once powerful medieval fortress near Richterswil.",
+                  "category": "castle",
+                  "coords": [
+                        8.684817,
+                        47.213267
+                  ]
+            },
+            {
+                  "name": "Sternenschanze",
+                  "text": "A historic 17th-century fortification located in Richterswil.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Burgstelle Bellenschanze",
+                  "text": "An archaeological site marking the location of a former redoubt.",
+                  "category": "historical",
+                  "coords": [
+                        8.680439,
+                        47.186696
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Wädenswil",
+                  "text": "A baroque castle building today used for research and administrative purposes.",
+                  "category": "castle",
+                  "coords": [
+                        8.676636,
+                        47.223052
+                  ]
+            },
+            {
+                  "name": "Hüttnersee",
+                  "text": "An idyllic lake and nature reserve on a plateau near Richterswil.",
+                  "category": "natural",
+                  "coords": [
+                        8.67033,
+                        47.181237
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "In the Swiss municipality of Richterswil, the Heimatkundliche Sammlung preserves the region's rich history. This museum offers visitors a fascinating glimpse into local traditions and historical customs. The exhibits vividly document the former way of life in the town.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Theater Ticino",
+                  "text": "A renowned small theatre in Richterswil with a versatile program.",
+                  "category": "cultural",
+                  "coords": [
+                        8.678867,
+                        47.225456
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "A collection of historical firefighting equipment and uniforms in Richterswil.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "A technical museum located in a historic water-powered sawmill.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "A lakeside viewpoint named after the famous Swiss writer Gottfried Keller.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "A local spot with a beautiful view of the landscape around Richterswil.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "An impressive water fountain in Lake Zurich off the coast of Richterswil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "A natural waterfall in the picturesque surroundings of Richterswil.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "A prominent landmark of the town with a tower visible from afar.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "The center of the Catholic parish community in the municipality of Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "Katholische Pfarrkirche St. Marien",
+                  "text": "A modern Catholic church dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        8.672683,
+                        47.226404
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "A church dedicated to Saint Verena as a place of reflection.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Marienkirche Samstagern",
+                  "text": "A Catholic church in the Samstagern district for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        8.678274,
+                        47.194594
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "The house of worship of the Evangelical Reformed parish in Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "A small historic chapel dedicated to Saints Konrad and Ulrich.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "The Seeweidsee near Richterswil impresses with its quiet location and beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "The Lützelsee near Richterswil is an idyllic body of water in picturesque surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Ausee",
+                  "text": "The Ausee near Richterswil offers a pleasant atmosphere for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.640779,
+                        47.248395
+                  ]
+            },
+            {
+                  "name": "Aabach-Weiher",
+                  "text": "The Aabach-Weiher in Richterswil is a quiet body of water that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        8.623306,
+                        47.231126
+                  ]
+            },
+            {
+                  "name": "Lake Zurich",
+                  "text": "Lake Zurich near Richterswil offers wonderful views and invites you to walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Obersee",
+                  "text": "The Obersee near Richterswil is a beautiful body of water that invites you to take a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.87038,
+                        47.208624
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "A welcoming playground in Richterswil for families with children.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "A family-friendly playground in Richterswil, perfect for leisure and play.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "This playground in Richterswil offers children space for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "A modern playground in Richterswil for diverse play activities.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "A miniature golf course in Richterswil offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Badestelle Rothuus",
+                  "text": "A sports centre in Richterswil offering bathing facilities and space for leisure activities by the lake.",
+                  "category": "family",
+                  "coords": [
+                        8.680293,
+                        47.225317
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "A public access point to Lake Zurich in Richterswil, perfect for swimming in the lake.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Seebad Lattenberg",
+                  "text": "A sports centre in Richterswil offering ideal conditions for swimmers and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.713094,
+                        47.241273
+                  ]
+            },
+            {
+                  "name": "Hallenbad Untermoosen",
+                  "text": "The Hallenbad Untermoosen in Richterswil offers a pleasant swimming experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        8.660602,
+                        47.228476
+                  ]
+            },
+            {
+                  "name": "Bretterbadi",
+                  "text": "The Bretterbadi in Richterswil is a popular spot for swimming and relaxing by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.673999,
+                        47.231639
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "The Seebad Hüttenersee in Richterswil invites you to a refreshing swim in natural surroundings.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "A lakeside swimming area in Richterswil with sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "CH-ZH", "coords": [8.6985, 47.207], "population": 14005, "image": "/geo-images/switzerland/ch-richterswil.webp", "name": {"de": "Richterswil", "hu": "Richterswil", "ro": "Richterswil", "en": "Richterswil"}, "description": {"de": "Eine charmante Gemeinde am linken Ufer des Zürichsees, bekannt für ihre gut erhaltene Altstadt und das traditionelle Räbechilbi-Fest.", "hu": "Egy bájos település a Zürichi-tó bal partján, amely jól megőrzött óvárosáról és a hagyományos Räbechilbi ünnepségéről ismert.", "ro": "O comună fermecătoare pe malul stâng al lacului Zurich, cunoscută pentru orașul său vechi bine conservat și festivalul tradițional Räbechilbi.", "en": "A charming municipality on the left bank of Lake Zurich, known for its well-preserved old town and the traditional Räbechilbi festival."}, "facts": {"de": ["Ufer des Zürichsees", "Räbechilbi Lichterfest", "Bezirk Horgen", "Wichtiger Bahnknoten"], "hu": ["Zürichi-tó partja", "Räbechilbi fényünnep", "Horgen járás", "Fontos vasúti csomópont"], "ro": ["Malul lacului Zurich", "Festivalul Räbechilbi", "Districtul Horgen", "Nod feroviar important"], "en": ["Lake Zurich shore", "Räbechilbi light festival", "Horgen district", "Important rail hub"]}, "descriptionAdvanced": {"de": "Richterswil liegt am südlichen Ende des Kantons Zürich und erstreckt sich vom Ufer des Zürichsees bis hinauf zu den Hügeln der Region Zimmerberg. Die Gemeinde blickt auf eine lange Geschichte zurück, die bis in die Steinzeit reicht, worauf Pfahlbaufunde hindeuten. Im Mittelalter war der Ort ein strategisch wichtiger Punkt für den Verkehr über den See und in die Innerschweiz. Das Ortsbild wird geprägt durch zahlreiche historische Riegelhäuser und die reformierte Kirche, die majestätisch über dem Zentrum thront. Ein Höhepunkt im Gemeindeleben ist die jährlich stattfindende Räbechilbi im November, der weltweit grösste Umzug mit geschnitzten Herbstrüben, der Tausende von Besuchern anlockt. Wirtschaftlich hat sich Richterswil von einem einstigen Fischerdorf und Industriestandort zu einer attraktiven Wohngemeinde mit hoher Lebensqualität entwickelt. Die Anbindung an die Stadt Zürich durch die S-Bahn macht den Ort besonders für Pendler interessant. Zudem bietet das nahegelegene Naherholungsgebiet auf dem Zimmerberg und im Sihlwald vielfältige Möglichkeiten für Wanderungen und sportliche Aktivitäten in der Natur.", "hu": "Richterswil Zürich kanton déli végén található, és a Zürichi-tó partjától egészen a Zimmerberg-régió dombjaiig húzódik. A település hosszú múltra tekint vissza, amely egészen a kőkorszakig nyúlik vissza, amint azt a cölöpházak maradványai is bizonyítják. A középkorban a hely stratégiailag fontos pont volt a tavon keresztüli és a Belső-Svájc felé irányuló közlekedés számára. A falu képét számos történelmi favázas ház és a református templom határozza meg, amely fenségesen magasodik a központ felett. A közösségi élet egyik csúcspontja az évente novemberben megrendezett Räbechilbi, a világ legnagyobb faragott tarlórépákból álló felvonulása, amely látogatók ezreit vonzza. Gazdaságilag Richterswil az egykori halászfaluból és ipari helyszínből vonzó lakóövezetté fejlődött, magas életminőséggel. Zürich városának S-Bahn általi közelsége különösen érdekessé teszi a helyet az ingázók számára. Emellett a közeli Zimmerberg és Sihlwald pihenőövezetei változatos lehetőségeket kínálnak túrázásra és sportolásra a természetben.", "ro": "Richterswil este situat la capătul sudic al cantonului Zurich și se întinde de la malul lacului Zurich până la dealurile regiunii Zimmerberg. Comunitatea are o istorie lungă, care datează din epoca pietrei, după cum indică descoperirile de locuințe pe piloni. În Evul Mediu, locul era un punct strategic important pentru traficul peste lac și către Elveția Centrală. Imaginea localității este dominată de numeroase case istorice cu structură de lemn și de biserica reformată, care tronează maiestuos deasupra centrului. Un punct culminant al vieții comunitare este festivalul anual Räbechilbi din noiembrie, cea mai mare paradă din lume cu napi sculptați, care atrage mii de vizitatori. Din punct de vedere economic, Richterswil s-a dezvoltat de la un fost sat de pescari și locație industrială la o comunitate rezidențială atractivă, cu o calitate ridicată a vieții. Legătura cu orașul Zurich prin S-Bahn face locul deosebit de interesant pentru navetiști. În plus, zona de recreere din apropiere de pe Zimmerberg și din pădurea Sihlwald oferă oportunități diverse pentru drumeții și activități sportive în natură.", "en": "Richterswil is located at the southern end of the Canton of Zurich and extends from the shores of Lake Zurich up to the hills of the Zimmerberg region. The community has a long history dating back to the Stone Age, as indicated by pile dwelling finds. In the Middle Ages, the place was a strategically important point for traffic across the lake and into Central Switzerland. The village landscape is characterized by numerous historic half-timbered houses and the Reformed church, which stands majestically above the center. A highlight of community life is the annual Räbechilbi in November, the world's largest parade with carved turnips, attracting thousands of visitors. Economically, Richterswil has developed from a former fishing village and industrial site into an attractive residential community with a high quality of life. The connection to the city of Zurich via the S-Bahn makes the location particularly interesting for commuters. Additionally, the nearby recreation areas on the Zimmerberg and in the Sihlwald forest offer diverse opportunities for hiking and sporting activities in nature."}, "factsAdvanced": {"de": ["Erstmals 1265 urkundlich erwähnt", "Grösster Räbechilbi-Umzug weltweit", "Bahnhof erbaut im Jahr 1875", "Fläche von 7.54 Quadratkilometern", "Teil der Metropolregion Zürich", "Längste Seeuferanlage am Zürichsee"], "hu": ["Először 1265-ben említik oklevélben", "Világ legnagyobb Räbechilbi felvonulása", "A vasútállomás 1875-ben épült", "7.54 négyzetkilométernyi terület", "A zürichi agglomeráció része", "A leghosszabb tóparti sétány a Zürichi-tónál"], "ro": ["Menționat documentar pentru prima dată în 1265", "Cea mai mare paradă Räbechilbi din lume", "Gara construită în anul 1875", "Suprafață de 7.54 kilometri pătrați", "Parte a regiunii metropolitane Zurich", "Cea mai lungă amenajare de mal de pe lacul Zurich"], "en": ["First mentioned in documents in 1265", "Largest Räbechilbi parade worldwide", "Railway station built in 1875", "Area of 7.54 square kilometers", "Part of the Zurich metropolitan region", "Longest lakeside facility on Lake Zurich"]}, "faq": {"de": [{"q": "Wofür ist Richterswil besonders bekannt?", "a": "Richterswil ist weltberühmt für die Räbechilbi, das grösste Lichterfest mit geschnitzten Räben."}, {"q": "Liegt Richterswil direkt am See?", "a": "Ja, die Gemeinde verfügt über einen grossen Seeanstoss mit einer wunderschönen Parkanlage."}, {"q": "Wie weit ist es nach Zürich?", "a": "Mit der S-Bahn erreicht man das Zentrum von Zürich in etwa 25 bis 30 Minuten."}, {"q": "Gibt es historische Gebäude?", "a": "Die Altstadt von Richterswil steht unter Denkmalschutz und bietet viele sehenswerte Fachwerkhäuser."}], "hu": [{"q": "Miről különösen híres Richterswil?", "a": "Richterswil világhírű a Räbechilbi-ről, amely a legnagyobb fényünnep faragott tarlórépákkal."}, {"q": "Richterswil közvetlenül a tónál fekszik?", "a": "Igen, a település nagy tóparti szakasszal és egy gyönyörű parkkal rendelkezik."}, {"q": "Milyen messze van Zürich?", "a": "Az S-Bahn vonattal Zürich központja körülbelül 25-30 perc alatt elérhető."}, {"q": "Vannak történelmi épületek?", "a": "Richterswil óvárosa műemlékvédelem alatt áll, és számos figyelemre méltó favázas házzal rendelkezik."}], "ro": [{"q": "Pentru ce este Richterswil cunoscut în mod special?", "a": "Richterswil este faimos în întreaga lume pentru Räbechilbi, cel mai mare festival de lumini cu napi sculptați."}, {"q": "Este Richterswil situat direct pe lac?", "a": "Da, comuna are o deschidere mare la lac, cu un parc minunat."}, {"q": "Cât de departe este Zurich?", "a": "Cu trenul S-Bahn, se ajunge în centrul orașului Zurich în aproximativ 25 până la 30 de minute."}, {"q": "Există clădiri istorice?", "a": "Orașul vechi din Richterswil este protejat ca monument și oferă multe case cu structură de lemn ce merită văzute."}], "en": [{"q": "What is Richterswil particularly famous for?", "a": "Richterswil is world-famous for the Räbechilbi, the largest light festival featuring carved turnips."}, {"q": "Is Richterswil located directly on the lake?", "a": "Yes, the municipality has a large lakefront with a beautiful park area."}, {"q": "How far is it to Zurich?", "a": "By S-Bahn, you can reach the center of Zurich in about 25 to 30 minutes."}, {"q": "Are there historical buildings?", "a": "The old town of Richterswil is protected as a heritage site and offers many notable half-timbered houses."}]}},
   {"id": "ch-gland", "sights": {"de": [{"name": "Château de Luins", "text": "Ein Schloss in Luins aus dem 16. Jahrhundert, das heute für seinen Weinbau bekannt ist.", "category": "castle", "coords": [6.271554, 46.444364]}, {"name": "Schloss Dully", "text": "Ein historisches Schloss in der Gemeinde Dully in der Nähe von Gland.", "category": "castle", "coords": [6.294991, 46.429442]}, {"name": "Villa de Prangins", "text": "Ein herrschaftliches Anwesen in Prangins, das Teil der reichen Schlösserlandschaft am Genfersee ist.", "category": "castle", "coords": [6.274059, 46.395958]}, {"name": "Les Morettes", "text": "Ein lokaler Veranstaltungsort und Theater für kulturelle Darbietungen in Gland.", "category": "cultural", "coords": [6.247827, 46.396317]}, {"name": "Théâtre de Grand-Champ", "text": "Ein modernes Theater- und Kulturzentrum in Gland, das ein breites Programm bietet.", "category": "cultural", "coords": [6.259314, 46.421314]}, {"name": "Plage de La Dullive", "text": "Der Plage de La Dullive ist ein wunderbar ruhiger Strandabschnitt am malerischen Genfersee in Gland. Diese Oase der Entspannung bietet Besuchern die Möglichkeit, in aller Stille am Ufer zu sitzen und dem sanften Wasser zu lauschen. Ein erfrischendes Bad im See bringt eine willkommene Abkühlung. Wer die absolute Ruhe sucht, sollte den Strand an einem sonnigen Wochentag besuchen.", "category": "recreational", "coords": [6.297074, 46.424574]}, {"name": "Plage de Promenthoux", "text": "Beliebt und malerisch zugleich präsentiert sich der Plage de Promenthoux in Gland. An den Ufern des Genfersees eröffnet sich hier ein fantastischer Blick auf das Alpenpanorama, der die Gäste sofort in den Bann zieht. Das Seeufer ist perfekt zum Schwimmen und für erholsame Stunden in einer wunderschönen Umgebung. Ein Kamera- oder Handyschnappschuss dieses Ausblicks darf bei einem Ausflug nicht fehlen.", "category": "recreational", "coords": [6.265248, 46.392434]}, {"name": "Réserve intégrale et scientifique", "text": "Ein streng geschütztes Naturreservat zur Erhaltung der lokalen Biodiversität.", "category": "natural", "coords": [6.236419, 46.437092]}, {"name": "Plage de la Falaise", "text": "Die Plage de la Falaise liegt in der Nähe von Gland und ermöglicht eine wohltuende Erholung direkt am Wasser. Der Strand zeichnet sich durch seine charmante Schlichtheit aus, die ideal ist, um Abstand vom Alltag zu gewinnen. Das sanft abfallende Ufer des Genfersees verführt zu langen Schwimmrunden. Besonders an warmen Nachmittagen ist dieser Ort ein feines Ziel für einen Badeausflug.", "category": "recreational", "coords": [6.290016, 46.418922]}, {"name": "Château de Duillier", "text": "Ein markantes Schloss in Duillier, das für seine Architektur und Weinberge bekannt ist.", "category": "landmark", "coords": [6.234389, 46.407009]}, {"name": "Saint- Paul", "text": "Eine christliche Kirche in Gland, die der lokalen Gemeinde als Gebetsstätte dient.", "category": "religious", "coords": [6.26532, 46.423579]}, {"name": "Vich Eglise", "text": "Die historische Dorfkirche von Vich, ein Ort der Besinnung in der Region Gland.", "category": "religious", "coords": [6.249687, 46.429252]}, {"name": "Église Adventiste de Gland", "text": "Das Gotteshaus der adventistischen Gemeinschaft in der Stadt Gland.", "category": "religious", "coords": [6.288251, 46.426684]}, {"name": "Genfersee", "text": "Der Genfersee bei Gland ist ideal für Erholungssuchende und Wasserbegeisterte.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Jeux de Coinsins", "text": "Der Spielplatz Jeux de Coinsins in Gland bietet Spielmöglichkeiten im Freien.", "category": "family", "coords": [6.236117, 46.425712]}, {"name": "Parc de la Dôle", "text": "Ein kinderfreundlicher Bereich im Parc de la Dôle in Gland zum Spielen.", "category": "family", "coords": [6.263621, 46.421301]}], "hu": [{"name": "Château de Luins", "text": "Egy 16. századi kastély Luins-ban, amely ma borászatáról ismert.", "category": "castle", "coords": [6.271554, 46.444364]}, {"name": "Château de Dully", "text": "Történelmi kastély Dully községben, Gland közelében.", "category": "castle", "coords": [6.294991, 46.429442]}, {"name": "Villa de Prangins", "text": "Úri birtok Prangins-ban, a Genfi-tó menti gazdag kastélyvidék része.", "category": "castle", "coords": [6.274059, 46.395958]}, {"name": "Les Morettes", "text": "Helyi rendezvényhelyszín és színház kulturális előadások számára Glandban.", "category": "cultural", "coords": [6.247827, 46.396317]}, {"name": "Théâtre de Grand-Champ", "text": "Modern színházi és kulturális központ Glandban, amely széles programkínálatot nyújt.", "category": "cultural", "coords": [6.259314, 46.421314]}, {"name": "Plage de La Dullive", "text": "A Plage de La Dullive egy csodálatosan csendes partszakasz a festői Genfi-tónál, Gland városában. Ez a pihentető oázis lehetőséget kínál a látogatóknak arra, hogy csendben üljenek a parton, és hallgassák a lágy vizet. Egy frissítő fürdőzés a tóban kellemes lehűlést hoz. Aki az abszolút nyugalmat keresi, látogasson el a strandra egy napsütéses hétköznapon.", "category": "recreational", "coords": [6.297074, 46.424574]}, {"name": "Plage de Promenthoux", "text": "A Gland-i Plage de Promenthoux egyszerre népszerű és festői. A Genfi-tó partjáról fantasztikus kilátás nyílik az alpesi panorámára, amely azonnal magával ragadja a vendégeket. A tópart tökéletes az úszáshoz és a pihentető órákhoz egy gyönyörű környezetben. Egy kirándulás során egy fényképezőgéppel vagy mobiltelefonnal készített pillanatkép erről a kilátásról elengedhetetlen.", "category": "recreational", "coords": [6.265248, 46.392434]}, {"name": "Réserve intégrale et scientifique", "text": "Szigorúan védett természetvédelmi terület a helyi biodiverzitás megőrzésére.", "category": "natural", "coords": [6.236419, 46.437092]}, {"name": "Plage de la Falaise", "text": "A Plage de la Falaise Gland közelében fekszik, és megnyugtató pihenést tesz lehetővé közvetlenül a vízparton. A strand elbűvölő egyszerűségével tűnik ki, amely ideális a mindennapoktól való eltávolodáshoz. A Genfi-tó lassan mélyülő partja hosszú úszásokra csábít. Különösen a meleg délutánokon ez a hely egy finom célpont egy fürdőzéses kiránduláshoz.", "category": "recreational", "coords": [6.290016, 46.418922]}, {"name": "Château de Duillier", "text": "Jellegzetes kastély Duillier-ben, amely építészetéről és szőlőültetvényeiről ismert.", "category": "landmark", "coords": [6.234389, 46.407009]}, {"name": "Saint- Paul", "text": "Keresztény templom Glandban, amely a helyi közösség imádságos helyéül szolgál.", "category": "religious", "coords": [6.26532, 46.423579]}, {"name": "Vich Eglise", "text": "Vich történelmi falusi temploma, az elmélyülés helye Gland régiójában.", "category": "religious", "coords": [6.249687, 46.429252]}, {"name": "Église Adventiste de Gland", "text": "Az adventista közösség temploma Gland városában.", "category": "religious", "coords": [6.288251, 46.426684]}, {"name": "Genfi-tó", "text": "A Genfi-tó Glandnál ideális a kikapcsolódásra vágyók és a víz szerelmesei számára.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Jeux de Coinsins", "text": "A glandi Jeux de Coinsins játszótér szabadtéri játéklehetőségeket kínál.", "category": "family", "coords": [6.236117, 46.425712]}, {"name": "Parc de la Dôle", "text": "Gyermekbarát terület a glandi Parc de la Dôle parkban a játékhoz.", "category": "family", "coords": [6.263621, 46.421301]}], "ro": [{"name": "Château de Luins", "text": "Un castel în Luins din secolul al XVI-lea, cunoscut astăzi pentru viticultură.", "category": "castle", "coords": [6.271554, 46.444364]}, {"name": "Château de Dully", "text": "Un castel istoric în municipalitatea Dully, lângă Gland.", "category": "castle", "coords": [6.294991, 46.429442]}, {"name": "Villa de Prangins", "text": "O proprietate nobiliară în Prangins, parte a peisajului bogat de castele de pe malul lacului Geneva.", "category": "castle", "coords": [6.274059, 46.395958]}, {"name": "Les Morettes", "text": "Un loc de evenimente local și teatru pentru spectacole culturale în Gland.", "category": "cultural", "coords": [6.247827, 46.396317]}, {"name": "Théâtre de Grand-Champ", "text": "Un centru cultural și teatral modern în Gland, care oferă un program variat.", "category": "cultural", "coords": [6.259314, 46.421314]}, {"name": "Plage de La Dullive", "text": "Plage de La Dullive este o porțiune de plajă minunat de liniștită pe pitorescul Lac Geneva din Gland. Această oază de relaxare oferă vizitatorilor posibilitatea de a sta în liniște pe mal și de a asculta apa blândă. O baie răcoritoare în lac aduce o răcire binevenită. Dacă sunteți în căutarea unei liniști absolute, ar trebui să vizitați plaja într-o zi însorită de lucru.", "category": "recreational", "coords": [6.297074, 46.424574]}, {"name": "Plage de Promenthoux", "text": "Plage de Promenthoux din Gland se prezintă populară și pitorească în același timp. Pe malul Lacului Geneva se deschide aici o priveliște fantastică a panoramei alpine, care captivează imediat oaspeții. Malul lacului este perfect pentru înot și pentru ore de odihnă într-un cadru minunat. Un instantaneu cu camera sau telefonul al acestei vederi nu ar trebui să lipsească într-o excursie.", "category": "recreational", "coords": [6.265248, 46.392434]}, {"name": "Réserve intégrale et scientifique", "text": "O rezervație naturală strict protejată pentru conservarea biodiversității locale.", "category": "natural", "coords": [6.236419, 46.437092]}, {"name": "Plage de la Falaise", "text": "Plage de la Falaise este situată în apropiere de Gland și face posibilă o relaxare liniștitoare chiar pe marginea apei. Plaja se caracterizează prin simplitatea sa fermecătoare, care este ideală pentru a te distanța de viața de zi cu zi. Malul ușor înclinat al Lacului Geneva te ispitește la înoturi lungi. Mai ales în după-amiezile calde, acest loc este o destinație fină pentru o excursie de înot.", "category": "recreational", "coords": [6.290016, 46.418922]}, {"name": "Château de Duillier", "text": "Un castel distinctiv în Duillier, cunoscut pentru arhitectura sa și podgorii.", "category": "landmark", "coords": [6.234389, 46.407009]}, {"name": "Saint- Paul", "text": "O biserică creștină în Gland, care servește comunitatea locală ca loc de rugăciune.", "category": "religious", "coords": [6.26532, 46.423579]}, {"name": "Vich Eglise", "text": "Biserica istorică din satul Vich, un loc de reculegere în regiunea Gland.", "category": "religious", "coords": [6.249687, 46.429252]}, {"name": "Église Adventiste de Gland", "text": "Lăcașul de cult al comunității adventiste din orașul Gland.", "category": "religious", "coords": [6.288251, 46.426684]}, {"name": "Le Léman", "text": "Lacul Geneva de lângă Gland este ideal pentru cei care caută relaxare și pasionații de apă.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Jeux de Coinsins", "text": "Locul de joacă Jeux de Coinsins din Gland oferă posibilități de joacă în aer liber.", "category": "family", "coords": [6.236117, 46.425712]}, {"name": "Parc de la Dôle", "text": "O zonă prietenoasă pentru copii în Parc de la Dôle din Gland pentru joacă.", "category": "family", "coords": [6.263621, 46.421301]}], "en": [{"name": "Château de Luins", "text": "A 16th-century castle in Luins, today known for its viticulture.", "category": "castle", "coords": [6.271554, 46.444364]}, {"name": "Dully Castle", "text": "A historical castle in the municipality of Dully near Gland.", "category": "castle", "coords": [6.294991, 46.429442]}, {"name": "Villa de Prangins", "text": "A stately manor in Prangins, part of the rich landscape of castles along Lake Geneva.", "category": "castle", "coords": [6.274059, 46.395958]}, {"name": "Les Morettes", "text": "A local venue and theatre for cultural performances in Gland.", "category": "cultural", "coords": [6.247827, 46.396317]}, {"name": "Théâtre de Grand-Champ", "text": "A modern theatre and cultural centre in Gland offering a diverse programme.", "category": "cultural", "coords": [6.259314, 46.421314]}, {"name": "Plage de La Dullive", "text": "Plage de La Dullive is a wonderfully quiet stretch of beach on the picturesque Lake Geneva in Gland. This oasis of relaxation offers visitors the chance to sit in silence on the shore and listen to the gentle water. A refreshing swim in the lake brings a welcome cool-down. If you are looking for absolute tranquility, you should visit the beach on a sunny weekday.", "category": "recreational", "coords": [6.297074, 46.424574]}, {"name": "Plage de Promenthoux", "text": "Popular and picturesque at the same time is the Plage de Promenthoux in Gland. On the shores of Lake Geneva, a fantastic view of the Alpine panorama opens up here, immediately captivating guests. The lake shore is perfect for swimming and for restful hours in beautiful surroundings. A camera or phone snapshot of this view is a must on your trip.", "category": "recreational", "coords": [6.265248, 46.392434]}, {"name": "Réserve intégrale et scientifique", "text": "A strictly protected nature reserve for the preservation of local biodiversity.", "category": "natural", "coords": [6.236419, 46.437092]}, {"name": "Plage de la Falaise", "text": "Plage de la Falaise is located near Gland and enables soothing relaxation right by the water. The beach is characterized by its charming simplicity, which is ideal for getting away from everyday life. The gently sloping shore of Lake Geneva tempts you into long swims. Especially on warm afternoons, this spot is a fine destination for a bathing trip.", "category": "recreational", "coords": [6.290016, 46.418922]}, {"name": "Château de Duillier", "text": "A prominent castle in Duillier known for its architecture and vineyards.", "category": "landmark", "coords": [6.234389, 46.407009]}, {"name": "Saint- Paul", "text": "A Christian church in Gland serving the local community as a place of worship.", "category": "religious", "coords": [6.26532, 46.423579]}, {"name": "Vich Eglise", "text": "The historical village church of Vich, a place of reflection in the Gland region.", "category": "religious", "coords": [6.249687, 46.429252]}, {"name": "Église Adventiste de Gland", "text": "The place of worship for the Adventist community in the city of Gland.", "category": "religious", "coords": [6.288251, 46.426684]}, {"name": "Lake Geneva", "text": "Lake Geneva near Gland is ideal for those seeking relaxation and water enthusiasts.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Jeux de Coinsins", "text": "The Jeux de Coinsins playground in Gland offers outdoor play opportunities.", "category": "family", "coords": [6.236117, 46.425712]}, {"name": "Parc de la Dôle", "text": "A child-friendly area in Parc de la Dôle in Gland for playing.", "category": "family", "coords": [6.263621, 46.421301]}]}, "type": "city", "parent": "CH-VD", "coords": [6.266, 46.4196], "population": 13800, "image": "/geo-images/switzerland/ch-gland.webp", "name": {"de": "Gland", "hu": "Gland", "ro": "Gland", "en": "Gland"}, "description": {"de": "Eine moderne Stadt im Kanton Waadt, die zwischen Genf und Lausanne liegt und Sitz bedeutender internationaler Naturschutzorganisationen ist.", "hu": "Egy modern város Vaud kantonban, Genf és Lausanne között, amely jelentős nemzetközi természetvédelmi szervezetek székhelye.", "ro": "Un oraș modern în cantonul Vaud, situat între Geneva și Lausanne, care găzduiește sediile unor importante organizații internaționale de conservare a naturii.", "en": "A modern city in the Canton of Vaud, located between Geneva and Lausanne, home to the headquarters of major international nature conservation organizations."}, "facts": {"de": ["Sitz des WWF International", "Kanton Waadt", "Nahe am Genfersee", "Bezirk Nyon"], "hu": ["A WWF International székhelye", "Vaud kanton", "Közel a Genfi-tóhoz", "Nyon járás"], "ro": ["Sediul WWF International", "Cantonul Vaud", "Aproape de Lacul Leman", "Districtul Nyon"], "en": ["Headquarters of WWF International", "Canton of Vaud", "Near Lake Geneva", "Nyon district"]}, "descriptionAdvanced": {"de": "Gland ist eine dynamisch wachsende Stadt in der Region La Côte im Kanton Waadt. Ursprünglich ein beschauliches Bauerndorf, hat sich der Ort seit den 1960er Jahren rasant entwickelt und ist heute ein wichtiger Wohn- und Wirtschaftsstandort in der Metropolregion Genf-Lausanne. Geografisch liegt Gland in einer sanften Hügellandschaft unweit des Genfersees. Besondere Bekanntheit erlangte die Stadt als Sitz globaler Organisationen wie der International Union for Conservation of Nature (IUCN) und dem World Wide Fund for Nature (WWF). Diese Präsenz verleiht Gland eine internationale Atmosphäre. Die Architektur der Stadt ist vorwiegend modern, doch im alten Dorfkern finden sich noch Spuren der landwirtschaftlichen Vergangenheit. Ein interessantes historisches Relikt ist die 'Villa Rose', eine ehemalige Verteidigungsfestung aus dem Zweiten Weltkrieg, die heute als Museum dient. Für Naturliebhaber bietet die Umgebung von Gland wunderschöne Wanderwege durch die Weinreben und entlang des Seeufers. Die Stadt ist zudem für ihr reges Kulturleben und moderne Infrastruktur bekannt, was sie besonders für junge Familien attraktiv macht. Die Anbindung an die Autobahn A1 und das Eisenbahnnetz der SBB garantiert eine schnelle Erreichbarkeit der umliegenden Wirtschaftszentren.", "hu": "Gland dinamikusan növekvő város a La Côte régióban, Vaud kantonban. Eredetileg csendes mezőgazdasági falu volt, de az 1960-as évek óta gyorsan fejlődött, és ma fontos lakó- és gazdasági központ a Genf-Lausanne régióban. Földrajzilag Gland egy szelíd dombos vidéken fekszik, nem messze a Genfi-tótól. A város különösen ismertté vált olyan globális szervezetek székhelyeként, mint a Természetvédelmi Világszövetség (IUCN) és a Természetvédelmi Világalap (WWF). Ez a jelenlét nemzetközi hangulatot kölcsönöz Glandnak. A város építészete túlnyomórészt modern, de a régi faluközpontban még megtalálhatók a mezőgazdasági múlt nyomai. Érdekes történelmi emlék a 'Villa Rose', egy egykori második világháborús védelmi erőd, amely ma múzeumként működik. A természet kedvelői számára Gland környéke csodálatos túraútvonalakat kínál a szőlőültetvényeken keresztül és a tópart mentén. A város élénk kulturális életéről és modern infrastruktúrájáról is ismert, ami különösen vonzóvá teszi a fiatal családok számára. Az A1-es autópályához és az SBB vasúthálózathoz való csatlakozás garantálja a környező gazdasági központok gyors elérhetőségét.", "ro": "Gland este un oraș în creștere dinamică în regiunea La Côte din cantonul Vaud. Inițial un sat agricol liniștit, localitatea s-a dezvoltat rapid începând cu anii 1960 și este astăzi un important centru rezidențial și economic în regiunea metropolitană Geneva-Lausanne. Din punct de vedere geografic, Gland este situat într-un peisaj colinar blând, nu departe de Lacul Leman. Orașul a devenit deosebit de cunoscut ca sediu al unor organizații globale precum Uniunea Internațională pentru Conservarea Naturii (IUCN) și Fondul Mondial pentru Natură (WWF). Această prezență îi conferă orașului Gland o atmosferă internațională. Arhitectura orașului este predominant modernă, dar în vechiul nucleu al satului se mai găsesc urme ale trecutului agricol. O relicvă istorică interesantă este 'Villa Rose', o fostă fortăreață de apărare din al Doilea Război Mondial, care astăzi servește ca muzeu. Pentru iubitorii de natură, împrejurimile orașului Gland oferă trasee de drumeții minunate prin podgorii și de-a lungul malului lacului. Orașul este, de asemenea, cunoscut pentru viața sa culturală activă și infrastructura modernă, ceea ce îl face deosebit de atractiv pentru familiile tinere. Legătura cu autostrada A1 și rețeaua feroviară SBB garantează accesul rapid la centrele economice înconjurătoare.", "en": "Gland is a dynamically growing city in the La Côte region of the Canton of Vaud. Originally a quiet farming village, the place has developed rapidly since the 1960s and is today an important residential and economic location in the Geneva-Lausanne metropolitan area. Geographically, Gland lies in a gentle hilly landscape not far from Lake Geneva. The city gained particular fame as the headquarters of global organizations such as the International Union for Conservation of Nature (IUCN) and the World Wide Fund for Nature (WWF). This presence gives Gland an international atmosphere. The city's architecture is predominantly modern, yet traces of its agricultural past can still be found in the old village core. An interesting historical relic is the 'Villa Rose', a former defense fortress from the Second World War, which today serves as a museum. For nature lovers, the surroundings of Gland offer beautiful hiking trails through the vineyards and along the lakeshore. The city is also known for its active cultural life and modern infrastructure, making it particularly attractive for young families. The connection to the A1 motorway and the SBB railway network guarantees quick accessibility to the surrounding economic centers."}, "factsAdvanced": {"de": ["IUCN-Hauptsitz seit 1988", "WWF International Sitz seit 1979", "Villa Rose Museum am Toblerone-Weg", "Bahnhof an der Linie Genf-Lausanne", "Fläche von 8.32 Quadratkilometern", "Ehemals wichtiger Weinbauort"], "hu": ["Az IUCN székhelye 1988 óta", "A WWF International székhelye 1979 óta", "Villa Rose múzeum a Toblerone-ösvényen", "Vasútállomás a Genf-Lausanne vonalon", "8.32 négyzetkilométernyi terület", "Korábban fontos bortermelő hely"], "ro": ["Sediul central IUCN din 1988", "Sediul WWF International din 1979", "Muzeul Villa Rose pe drumul Toblerone", "Gară pe linia Geneva-Lausanne", "Suprafață de 8.32 kilometri pătrați", "Fostă localitate viticolă importantă"], "en": ["IUCN headquarters since 1988", "WWF International seat since 1979", "Villa Rose Museum on the Toblerone trail", "Station on the Geneva-Lausanne line", "Area of 8.32 square kilometers", "Formerly an important wine-growing town"]}, "faq": {"de": [{"q": "Welche internationalen Organisationen sind in Gland?", "a": "Gland ist Sitz des WWF International und der Weltnaturschutzunion IUCN."}, {"q": "Was ist der Toblerone-Weg?", "a": "Es ist ein Wanderweg entlang von Panzersperren, die an die Form von Toblerone-Schokolade erinnern."}, {"q": "Kann man in Gland Französisch sprechen?", "a": "Ja, Französisch ist die offizielle Amtssprache in Gland."}, {"q": "Wie weit ist Gland von Genf entfernt?", "a": "Gland liegt etwa 30 Kilometer nordöstlich von Genf und ist schnell per Bahn erreichbar."}], "hu": [{"q": "Milyen nemzetközi szervezetek vannak Glandban?", "a": "Gland a WWF International és az IUCN Természetvédelmi Világszövetség székhelye."}, {"q": "Mi az a Toblerone-ösvény?", "a": "Ez egy túraútvonal a harckocsiakadályok mentén, amelyek a Toblerone csokoládé alakjára emlékeztetnek."}, {"q": "Lehet Glandban franciául beszélni?", "a": "Igen, a francia a hivatalos nyelv Glandban."}, {"q": "Milyen messze van Gland Genftől?", "a": "Gland körülbelül 30 kilométerre északkeletre fekszik Genftől, és vonattal gyorsan elérhető."}], "ro": [{"q": "Ce organizații internaționale se află în Gland?", "a": "Gland găzduiește sediul WWF International și al Uniunii Internaționale pentru Conservarea Naturii (IUCN)."}, {"q": "Ce este drumul Toblerone?", "a": "Este un traseu de drumeție de-a lungul barierelor antitanc care seamănă cu forma ciocolatei Toblerone."}, {"q": "Se vorbește franceza în Gland?", "a": "Da, franceza este limba oficială în Gland."}, {"q": "Cât de departe este Gland de Geneva?", "a": "Gland se află la aproximativ 30 de kilometri nord-est de Geneva și este ușor accesibil cu trenul."}], "en": [{"q": "Which international organizations are in Gland?", "a": "Gland is home to WWF International and the International Union for Conservation of Nature (IUCN)."}, {"q": "What is the Toblerone trail?", "a": "It is a hiking trail along anti-tank defenses that resemble the shape of Toblerone chocolate."}, {"q": "Can you speak French in Gland?", "a": "Yes, French is the official language in Gland."}, {"q": "How far is Gland from Geneva?", "a": "Gland is about 30 kilometers northeast of Geneva and quickly accessible by train."}]}},
   {"id": "ch-zollikon", "sights": {
       "de": [
@@ -110668,6 +113350,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.554485,
                         47.365946
+                  ]
+            },
+            {
+                  "name": "Seebad Utoquai",
+                  "text": "Eine historische Badeanlage am Zürichsee, bekannt für ihre Holzarchitektur.",
+                  "category": "recreational",
+                  "coords": [
+                        8.54701,
+                        47.361758
+                  ]
+            },
+            {
+                  "name": "Seebad Enge",
+                  "text": "Ein beliebtes Seebad am Zürichsee, das nachts auch als Bar genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        8.536919,
+                        47.361687
                   ]
             }
       ],
@@ -111238,6 +113938,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.554485,
                         47.365946
                   ]
+            },
+            {
+                  "name": "Seebad Utoquai",
+                  "text": "Történelmi fürdőhely a Zürichi-tónál, amely faépítészetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        8.54701,
+                        47.361758
+                  ]
+            },
+            {
+                  "name": "Seebad Enge",
+                  "text": "Népszerű fürdőhely a Zürichi-tónál, amely éjszaka bárként is üzemel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.536919,
+                        47.361687
+                  ]
             }
       ],
       "ro": [
@@ -111807,6 +114525,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.554485,
                         47.365946
                   ]
+            },
+            {
+                  "name": "Seebad Utoquai",
+                  "text": "O facilitate istorică de scăldat pe lacul Zürich, renumită pentru arhitectura sa din lemn.",
+                  "category": "recreational",
+                  "coords": [
+                        8.54701,
+                        47.361758
+                  ]
+            },
+            {
+                  "name": "Seebad Enge",
+                  "text": "Un ștrand popular pe lacul Zürich, care funcționează și ca bar pe timp de noapte.",
+                  "category": "recreational",
+                  "coords": [
+                        8.536919,
+                        47.361687
+                  ]
             }
       ],
       "en": [
@@ -112375,6 +115111,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.554485,
                         47.365946
+                  ]
+            },
+            {
+                  "name": "Seebad Utoquai",
+                  "text": "A historic bathing facility on Lake Zurich, famous for its wooden architecture.",
+                  "category": "recreational",
+                  "coords": [
+                        8.54701,
+                        47.361758
+                  ]
+            },
+            {
+                  "name": "Seebad Enge",
+                  "text": "A popular lakeside bath on Lake Zurich that also serves as a bar at night.",
+                  "category": "recreational",
+                  "coords": [
+                        8.536919,
+                        47.361687
                   ]
             }
       ]
@@ -114165,7 +116919,1528 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "CH-SG", "coords": [9.1334, 47.4378], "population": 13141, "image": "/geo-images/switzerland/ch-uzwil.webp", "name": {"de": "Uzwil", "hu": "Uzwil", "ro": "Uzwil", "en": "Uzwil"}, "description": {"de": "Ein bedeutendes Industriezentrum im Kanton St. Gallen, bekannt als Hauptsitz des global tätigen Technologiekonzerns Bühler.", "hu": "Jelentős ipari központ St. Gallen kantonban, a globálisan tevékenykedő Bühler technológiai konszern székhelyeként ismert.", "ro": "Un centru industrial important în cantonul St. Gallen, cunoscut ca sediu central al concernului tehnologic global Bühler.", "en": "An important industrial center in the Canton of St. Gallen, known as the headquarters of the globally active technology group Bühler."}, "facts": {"de": ["Hauptsitz der Bühler AG", "Industriegeschichte", "Bezirk Wil", "Thur-Region"], "hu": ["Bühler AG székhelye", "Ipari történelem", "Wil járás", "Thur-régió"], "ro": ["Sediul central Bühler AG", "Istorie industrială", "Districtul Wil", "Regiunea Thur"], "en": ["Headquarters of Bühler AG", "Industrial history", "Wil district", "Thur region"]}, "descriptionAdvanced": {"de": "Uzwil liegt im Westen des Kantons St. Gallen und ist untrennbar mit der Industriegeschichte der Schweiz verbunden. Die Entwicklung der Gemeinde wurde massgeblich durch die Familie Bühler und den gleichnamigen Technologiekonzern geprägt, der hier seit 1860 seinen Hauptsitz hat. Die Bühler AG ist heute ein Weltmarktführer in der Herstellung von Maschinen für die Lebensmittelverarbeitung, was Uzwil eine globale wirtschaftliche Bedeutung verleiht. Diese industrielle Präsenz spiegelt sich auch im Ortsbild wider, das eine Mischung aus modernen Fabrikanlagen, Arbeiterwohnhäusern und grosszügigen Villen der Unternehmerfamilie darstellt. Neben der Industrie bietet Uzwil jedoch auch attraktive Wohngebiete und eine gute Infrastruktur. Geografisch ist der Ort in die hügelige Landschaft des Untertoggenburgs eingebettet, unweit des Flusses Thur. Historisch gesehen ist auch das Schloss Oberberg in der Nähe von Bedeutung, das einst dem Kloster St. Gallen gehörte. Die Gemeinde hat sich in den letzten Jahren zu einem modernen Dienstleistungs- und Wohnort gewandelt, der von der guten Anbindung an die Autobahn A1 und die Bahnlinie Zürich-St. Gallen profitiert. Für die Freizeitgestaltung stehen zahlreiche Sportanlagen, ein Freibad und Wanderwege entlang der Thur zur Verfügung. Uzwil vereint so auf einzigartige Weise industrielle Tradition mit hoher Lebensqualität in einer ländlich geprägten Umgebung.", "hu": "Uzwil St. Gallen kanton nyugati részén fekszik, és elválaszthatatlanul kötődik Svájc ipartörténetéhez. A település fejlődését meghatározó módon befolyásolta a Bühler család és az azonos nevű technológiai konszern, amelynek 1860 óta itt van a székhelye. A Bühler AG ma világpiacvezető az élelmiszer-feldolgozó gépek gyártásában, ami Uzwilnek globális gazdasági jelentőséget kölcsönöz. Ez az ipari jelenlét a városképben is tükröződik, amely modern gyárak, munkásházak és a tulajdonos család tágas villáinak keveréke. Az ipar mellett azonban Uzwil vonzó lakóövezeteket és jó infrastruktúrát is kínál. Földrajzilag a település az Untertoggenburg dombos vidékén fekszik, nem messze a Thur folyótól. Történelmi szempontból a közeli Oberberg-kastély is jelentős, amely egykor a St. Gallen-i kolostorhoz tartozott. A közösség az utóbbi években modern szolgáltató és lakóhellyé alakult, amely profitál az A1-es autópályához és a Zürich-St. Gallen vasútvonalhoz való jó csatlakozásból. A szabadidős tevékenységekhez számos sportlétesítmény, strandfürdő és a Thur menti túraútvonalak állnak rendelkezésre. Uzwil így egyedülálló módon ötvözi az ipari hagyományokat a magas életminőséggel egy vidékies környezetben.", "ro": "Uzwil este situat în vestul cantonului St. Gallen și este inseparabil legat de istoria industrială a Elveției. Dezvoltarea comunei a fost marcată în mod decisiv de familia Bühler și de concernul tehnologic cu același nume, care își are sediul aici din 1860. Bühler AG este astăzi un lider mondial pe piața producției de mașini pentru prelucrarea alimentelor, ceea ce îi conferă localității Uzwil o importanță economică globală. Această prezență industrială se reflectă și în imaginea localității, care prezintă un amestec de instalații industriale moderne, case muncitorești și vile spațioase ale familiei de antreprenori. Totuși, pe lângă industrie, Uzwil oferă și zone rezidențiale atractive și o infrastructură bună. Din punct de vedere geografic, localitatea este integrată în peisajul colinar din Untertoggenburg, nu departe de râul Thur. Din punct de vedere istoric, castelul Oberberg din apropiere este, de asemenea, important, aparținând odinioară mănăstirii St. Gallen. Comuna s-a transformat în ultimii ani într-un loc modern de servicii și rezidențial, beneficiind de legătura bună cu autostrada A1 și linia feroviară Zurich-St. Gallen. Pentru petrecerea timpului liber, sunt disponibile numeroase facilități sportive, o piscină în aer liber și trasee de drumeție de-a lungul râului Thur. Uzwil combină astfel în mod unic tradiția industrială cu o calitate ridicată a vieții într-un mediu cu caracter rural.", "en": "Uzwil is located in the west of the Canton of St. Gallen and is inseparably linked to Switzerland's industrial history. The development of the community was decisively shaped by the Bühler family and the technology group of the same name, which has had its headquarters here since 1860. Bühler AG is today a world market leader in the manufacture of food processing machinery, giving Uzwil global economic importance. This industrial presence is reflected in the townscape, which is a mix of modern factory facilities, workers' housing, and spacious villas of the entrepreneurial family. In addition to industry, however, Uzwil also offers attractive residential areas and a good infrastructure. Geographically, the place is embedded in the hilly landscape of Untertoggenburg, not far from the river Thur. Historically, the nearby Oberberg Castle is also significant, once belonging to the Abbey of St. Gallen. The community has transformed in recent years into a modern service and residential location, benefiting from good connections to the A1 motorway and the Zurich-St. Gallen railway line. For leisure activities, numerous sports facilities, an outdoor pool, and hiking trails along the Thur are available. Uzwil thus uniquely combines industrial tradition with high quality of life in a rural setting."}, "factsAdvanced": {"de": ["Bühler AG gegründet im Jahr 1860", "Wichtigster Arbeitgeber der Region", "Bahnhof an der SBB-Hauptlinie", "Angrenzend an den Fluss Thur", "Fläche von 14.49 Quadratkilometern", "Zentrum der Industriegeschichte"], "hu": ["Bühler AG alapítva 1860-ban", "A régió legfontosabb munkaadója", "Vasútállomás az SBB fővonalán", "A Thur folyó mentén", "14.49 négyzetkilométernyi terület", "Az ipartörténelem központja"], "ro": ["Bühler AG fondată în anul 1860", "Cel mai important angajator din regiune", "Gară pe linia principală SBB", "Adiacent râului Thur", "Suprafață de 14.49 kilometri pătrați", "Centru al istoriei industriale"], "en": ["Bühler AG founded in 1860", "Most important employer in the region", "Station on the SBB main line", "Adjacent to the river Thur", "Area of 14.49 square kilometers", "Center of industrial history"]}, "faq": {"de": [{"q": "Was macht die Firma Bühler in Uzwil?", "a": "Sie baut Maschinen, mit denen ein Grossteil der weltweiten Lebensmittel verarbeitet wird."}, {"q": "Hat Uzwil einen Bahnhof?", "a": "Ja, Uzwil liegt an der Hauptstrecke zwischen Zürich und St. Gallen."}, {"q": "Gibt es Natur in Uzwil?", "a": "Ja, die Thurauen und die umliegenden Hügel bieten viel Platz für Erholung."}, {"q": "Ist Uzwil eine Arbeiterstadt?", "a": "Es hat eine starke industrielle Tradition, ist heute aber eine moderne Wohngemeinde."}], "hu": [{"q": "Mit csinál a Bühler cég Uzwilben?", "a": "Gépeket gyártanak, amelyekkel a világ élelmiszereinek nagy részét feldolgozzák."}, {"q": "Van Uzwilnek vasútállomása?", "a": "Igen, Uzwil a Zürich és St. Gallen közötti fővonalon fekszik."}, {"q": "Van természet Uzwilben?", "a": "Igen, a Thur ártere és a környező dombok sok helyet kínálnak a kikapcsolódásra."}, {"q": "Uzwil munkásváros?", "a": "Erős ipari hagyományokkal rendelkezik, de ma már modern lakótelepülés."}], "ro": [{"q": "Ce face firma Bühler în Uzwil?", "a": "Construiește mașini cu care este procesată o mare parte din alimentele lumii."}, {"q": "Are Uzwil o gară?", "a": "Da, Uzwil se află pe linia principală între Zurich și St. Gallen."}, {"q": "Există natură în Uzwil?", "a": "Da, luncile râului Thur și dealurile înconjurătoare oferă mult spațiu pentru relaxare."}, {"q": "Este Uzwil un oraș muncitoresc?", "a": "Are o tradiție industrială puternică, dar astăzi este o comună rezidențială modernă."}], "en": [{"q": "What does the Bühler company do in Uzwil?", "a": "They build machines used to process a large portion of the world's food."}, {"q": "Does Uzwil have a railway station?", "a": "Yes, Uzwil lies on the main line between Zurich and St. Gallen."}, {"q": "Is there nature in Uzwil?", "a": "Yes, the Thur floodplains and the surrounding hills offer plenty of space for recreation."}, {"q": "Is Uzwil a workers' town?", "a": "It has a strong industrial tradition but is today a modern residential community."}]}},
-  {"id": "ch-muri-bei-bern", "sights": {"de": [{"name": "Zentrum Paul Klee", "text": "Das Zentrum Paul Klee in Muri Bei Bern ist ein herausragendes Kunstmuseum in der Schweiz. Es konzentriert sich auf das beeindruckende Leben und Werk des berühmten Malers Paul Klee. Besucher können hier eine umfangreiche Sammlung seiner faszinierenden Kunstwerke bestaunen.", "category": "museum", "coords": [7.474291, 46.949066]}, {"name": "Schloss Muri bei Bern", "text": "Ein historisches Schloss in der Gemeinde Muri bei Bern.", "category": "castle", "coords": [7.488076, 46.930881]}, {"name": "Freimaurer Museum Schweiz", "text": "Im schweizerischen Muri Bei Bern lädt das Freimaurer Museum Schweiz zu einer besonderen historischen Entdeckungsreise ein. Die Ausstellung beleuchtet die tiefgründige Geschichte und die Symbole der Freimaurerei im Land. Interessierte Gäste erhalten einzigartige Einblicke in diese oft verborgene Welt.", "category": "museum", "coords": [7.48564, 46.93812]}, {"name": "Schlössli Kehrsatz", "text": "Ein kleinerer Schlossbau in Kehrsatz, der heute für verschiedene Zwecke genutzt wird.", "category": "castle", "coords": [7.472338, 46.909647]}, {"name": "Schloss Gümligen", "text": "Ein barockes Landschloss in Gümligen aus dem 18. Jahrhundert.", "category": "castle", "coords": [7.515203, 46.934705]}, {"name": "Bärenpark", "text": "Ein Park, in dem Bären in einer naturnahen Umgebung beobachtet werden können.", "category": "family", "coords": [7.459139, 46.947694]}, {"name": "Schloss Wittigkofen", "text": "Ein denkmalgeschütztes Schlossgut am Rande von Bern.", "category": "castle", "coords": [7.48174, 46.942569]}, {"name": "Prähistorische Wehranlage Hüenliwald", "text": "Überreste einer prähistorischen Befestigungsanlage im Hüenliwald.", "category": "historical", "coords": [7.517677, 46.921854]}, {"name": "5ème étage", "text": "Eine Bühne für Theater und Kleinkunst in der Region Muri.", "category": "cultural", "coords": [7.456365, 46.946787]}, {"name": "Pro Natura Zentrum Eichholz", "text": "Ein Naturschutzzentrum an der Aare, das über die lokale Flora und Fauna informiert.", "category": "natural", "coords": [7.459323, 46.933773]}, {"name": "Ostermundigeberg", "text": "Ein Aussichtspunkt und bewaldeter Hügel in der Nähe von Bern.", "category": "natural", "coords": [7.503365, 46.948142]}, {"name": "Elfenau", "text": "Eine historische Parkanlage an der Aare, die als Naherholungsgebiet dient.", "category": "park", "coords": [7.466124, 46.932753]}, {"name": "Hofgut Gümligen", "text": "Ein repräsentatives historisches Gutshof-Ensemble in Gümligen.", "category": "historical", "coords": [7.512279, 46.933745]}, {"name": "Ulrich Stucky", "text": "Ein Denkmal zu Ehren von Ulrich Stucky in der Gemeinde Muri.", "category": "historical", "coords": [7.475081, 46.947429]}, {"name": "Rothirsch", "text": "Ein Gehege zur Beobachtung von Rothirschen im Tierpark.", "category": "landmark", "coords": [7.452141, 46.934055]}, {"name": "Alpensteinbock", "text": "Eine Anlage im Tierpark, die Alpensteinböcke in einer felsigen Umgebung zeigt.", "category": "landmark", "coords": [7.454004, 46.933971]}, {"name": "popup galerie am dreieck", "text": "Eine temporäre Galerie für zeitgenössische Kunst und Ausstellungen.", "category": "cultural", "coords": [7.487104, 46.957934]}, {"name": "Bezoarziege", "text": "Eine Tieranlage zur Beobachtung der seltenen Bezoarziegen.", "category": "landmark", "coords": [7.454989, 46.934373]}, {"name": "Herrenhaus", "text": "Ein repräsentatives historisches Wohnhaus oder Gutshaus in Muri.", "category": "historical", "coords": [7.46804, 46.948144]}, {"name": "St Ursula's Church", "text": "Die englischsprachige anglikanische Kirche in der Region Bern.", "category": "religious", "coords": [7.453383, 46.939856]}, {"name": "ökumenisches Zentrum Kehrsatz (OEKI)", "text": "Ein religiöses Zentrum in Kehrsatz, das von verschiedenen Konfessionen genutzt wird.", "category": "religious", "coords": [7.473705, 46.912599]}, {"name": "Gemeindeverwaltung Ostermundigen", "text": "Das Verwaltungszentrum und Rathaus der Gemeinde Ostermundigen.", "category": "historical", "coords": [7.496349, 46.957941]}, {"name": "Untertorturm", "text": "Ein historischer Turm an der Untertorbrücke, der Teil der ehemaligen Stadtbefestigung war.", "category": "tower", "coords": [7.459028, 46.949373]}, {"name": "Petruskirche", "text": "Eine evangelisch-reformierte Kirche im Berner Quartier Kirchenfeld.", "category": "religious", "coords": [7.463668, 46.938933]}, {"name": "Misión de habla española", "text": "Eine katholische Mission für die spanischsprachige Gemeinde in Bern.", "category": "religious", "coords": [7.486757, 46.95907]}, {"name": "Auguetbrücke", "text": "Eine historische gedeckte Holzbrücke, die über die Aare führt.", "category": "landmark", "coords": [7.500386, 46.919007]}, {"name": "Egelsee", "text": "Der Egelsee in Muri bei Bern ist ein naturbelassener See in Stadtnähe.", "category": "natural", "coords": [7.465027, 46.944437]}, {"name": "Feuerweier", "text": "Der Feuerweier in Muri bei Bern ist ein kleiner, ruhiger Weiher.", "category": "natural", "coords": [7.585384, 46.962297]}, {"name": "Robinson", "text": "Ein beliebter Robinson-Spielplatz in Muri bei Bern für kleine Abenteurer.", "category": "family", "coords": [7.489457, 46.955586]}, {"name": "Schule Aebnit", "text": "Der Spielplatz der Schule Aebnit in Muri bei Bern bietet Kindern viel Freude.", "category": "family", "coords": [7.496981, 46.928683]}, {"name": "Spielplatz Belpmoos", "text": "Ein schöner Spielplatz im Bereich Belpmoos in Muri bei Bern.", "category": "family", "coords": [7.499728, 46.913831]}, {"name": "Quartiertreff Thunplatz", "text": "Ein Treffpunkt mit Spielmöglichkeiten am Thunplatz in Muri bei Bern.", "category": "family", "coords": [7.45937, 46.939599]}, {"name": "Spielhafen", "text": "Der Spielhafen in Muri bei Bern ist ein toller Ort zum Spielen im Freien.", "category": "family", "coords": [7.47784, 46.929897]}, {"name": "Spielplatz Elfenaupark", "text": "Der Spielplatz im Elfenaupark bietet Erholung und Spielspaß in Muri bei Bern.", "category": "family", "coords": [7.467937, 46.933207]}, {"name": "Spielplatz Gryphenhübeli", "text": "Ein gemütlicher Spielplatz im Gryphenhübeli-Quartier in Muri bei Bern.", "category": "family", "coords": [7.456005, 46.944185]}, {"name": "Spielplatz Rosengarten", "text": "Ein bekannter Spielplatz im Rosengarten in Muri bei Bern mit schöner Aussicht.", "category": "family", "coords": [7.460792, 46.951217]}, {"name": "Spielplatz N6-Überdeckung", "text": "Ein moderner Spielplatz auf der N6-Überdeckung in Muri bei Bern.", "category": "family", "coords": [7.473523, 46.942444]}, {"name": "Bächtele", "text": "Der Spielplatz Bächtele in Muri bei Bern lädt Kinder zum Entdecken ein.", "category": "family", "coords": [7.456709, 46.924427]}, {"name": "Lernschwimmbecken Schule Rüfenacht", "text": "Das Lernschwimmbecken in Rüfenacht bietet ideale Bedingungen für Kinder zum Schwimmenlernen.", "category": "family", "coords": [7.53993, 46.931337]}, {"name": "Giessenbad Belp", "text": "Das Giessenbad Belp ist ein beliebtes Freibad für Familien in der Region.", "category": "family", "coords": [7.504952, 46.911125]}, {"name": "Hammam & Spa Oktogon", "text": "Das Hammam & Spa Oktogon bietet Entspannung für Erwachsene und Familien.", "category": "family", "coords": [7.445089, 46.945377]}], "hu": [{"name": "Zentrum Paul Klee", "text": "A Muri Bei Bern-i Zentrum Paul Klee egy kiemelkedő művészeti múzeum Svájcban. A híres festő, Paul Klee lenyűgöző életére és munkásságára összpontosít. A látogatók itt megcsodálhatják lenyűgöző műalkotásainak kiterjedt gyűjteményét.", "category": "museum", "coords": [7.474291, 46.949066]}, {"name": "Schloss Muri bei Bern", "text": "Történelmi kastély Muri bei Bern községben.", "category": "castle", "coords": [7.488076, 46.930881]}, {"name": "Freimaurer Museum Schweiz", "text": "A svájci Muri Bei Bernben a Freimaurer Museum Schweiz egy különleges történelmi felfedezőútra hív. A kiállítás a szabadkőművesség mélyreható történetét és szimbólumait mutatja be az országban. Az érdeklődő vendégek egyedülálló bepillantást nyerhetnek ebbe a gyakran rejtett világba.", "category": "museum", "coords": [7.48564, 46.93812]}, {"name": "Schlössli Kehrsatz", "text": "Kehrsatzban található kisebb kastély, amelyet ma különféle célokra használnak.", "category": "castle", "coords": [7.472338, 46.909647]}, {"name": "Schloss Gümligen", "text": "18. századi barokk vidéki kastély Gümligenben.", "category": "castle", "coords": [7.515203, 46.934705]}, {"name": "Bärenpark", "text": "Park, ahol medvéket lehet megfigyelni természetközeli környezetben.", "category": "family", "coords": [7.459139, 46.947694]}, {"name": "Schloss Wittigkofen", "text": "Műemlékvédelem alatt álló kastélybirtok Bern szélén.", "category": "castle", "coords": [7.48174, 46.942569]}, {"name": "Prähistorische Wehranlage Hüenliwald", "text": "Egy őskori erődítmény maradványai a Hüenliwald erdőben.", "category": "historical", "coords": [7.517677, 46.921854]}, {"name": "5ème étage", "text": "Színházi és kabaré előadások helyszíne Muri régiójában.", "category": "cultural", "coords": [7.456365, 46.946787]}, {"name": "Pro Natura Zentrum Eichholz", "text": "Természetvédelmi központ az Aare folyónál, amely a helyi élővilágot mutatja be.", "category": "natural", "coords": [7.459323, 46.933773]}, {"name": "Ostermundigeberg", "text": "Kilátópont és erdős domb Bern közelében.", "category": "natural", "coords": [7.503365, 46.948142]}, {"name": "Elfenau", "text": "Történelmi park az Aare folyó partján, amely kedvelt pihenőhely.", "category": "park", "coords": [7.466124, 46.932753]}, {"name": "Hofgut Gümligen", "text": "Reprezentatív történelmi udvarház-együttes Gümligenben.", "category": "historical", "coords": [7.512279, 46.933745]}, {"name": "Ulrich Stucky", "text": "Ulrich Stucky tiszteletére emelt emlékmű Muri községben.", "category": "historical", "coords": [7.475081, 46.947429]}, {"name": "Rothirsch", "text": "Gímszarvasok megfigyelésére szolgáló kifutó a vadasparkban.", "category": "landmark", "coords": [7.452141, 46.934055]}, {"name": "Alpensteinbock", "text": "Kőszáli kecskéket sziklás környezetben bemutató kifutó a vadasparkban.", "category": "landmark", "coords": [7.454004, 46.933971]}, {"name": "popup galerie am dreieck", "text": "Kortárs művészeti alkotásokat bemutató időszaki galéria.", "category": "cultural", "coords": [7.487104, 46.957934]}, {"name": "Bezoarziege", "text": "Állatkerti kifutó a ritka bezoárkecskék megfigyelésére.", "category": "landmark", "coords": [7.454989, 46.934373]}, {"name": "Herrenhaus", "text": "Reprezentatív történelmi lakóház vagy udvarház Muriban.", "category": "historical", "coords": [7.46804, 46.948144]}, {"name": "St Ursula's Church", "text": "Angol nyelvű anglikán templom Bern régiójában.", "category": "religious", "coords": [7.453383, 46.939856]}, {"name": "ökumenisches Zentrum Kehrsatz (OEKI)", "text": "Kehrsatzban található vallási központ, amelyet több felekezet használ.", "category": "religious", "coords": [7.473705, 46.912599]}, {"name": "Gemeindeverwaltung Ostermundigen", "text": "Ostermundigen község közigazgatási központja és városháza.", "category": "historical", "coords": [7.496349, 46.957941]}, {"name": "Untertorturm", "text": "Történelmi torony az Untertorbrücke mellett, amely az egykori városfal része volt.", "category": "tower", "coords": [7.459028, 46.949373]}, {"name": "Petruskirche", "text": "Evangélikus-református templom a berni Kirchenfeld negyedben.", "category": "religious", "coords": [7.463668, 46.938933]}, {"name": "Misión de habla española", "text": "Katolikus misszió a berni spanyol nyelvű közösség számára.", "category": "religious", "coords": [7.486757, 46.95907]}, {"name": "Auguetbrücke", "text": "Történelmi fedett fahíd, amely az Aare folyó felett vezet át.", "category": "landmark", "coords": [7.500386, 46.919007]}, {"name": "Egelsee", "text": "A Muri bei Bernben található Egelsee egy természetközeli tó a város közelében.", "category": "natural", "coords": [7.465027, 46.944437]}, {"name": "Feuerweier", "text": "A Muri bei Bernben található Feuerweier egy kicsi, csendes tó.", "category": "natural", "coords": [7.585384, 46.962297]}, {"name": "Robinson", "text": "Népszerű Robinson-játszótér Muri bei Bernben a kis kalandoroknak.", "category": "family", "coords": [7.489457, 46.955586]}, {"name": "Schule Aebnit", "text": "A Muri bei Bern-i Schule Aebnit játszótere sok örömet okoz a gyerekeknek.", "category": "family", "coords": [7.496981, 46.928683]}, {"name": "Spielplatz Belpmoos", "text": "Szép játszótér a Muri bei Bern-i Belpmoos területén.", "category": "family", "coords": [7.499728, 46.913831]}, {"name": "Quartiertreff Thunplatz", "text": "Találkozóhely játéklehetőségekkel a Muri bei Bern-i Thunplatzon.", "category": "family", "coords": [7.45937, 46.939599]}, {"name": "Spielhafen", "text": "A Muri bei Bern-i Spielhafen nagyszerű hely a szabadtéri játékhoz.", "category": "family", "coords": [7.47784, 46.929897]}, {"name": "Spielplatz Elfenaupark", "text": "Az Elfenaupark játszótere kikapcsolódást és játékot kínál Muri bei Bernben.", "category": "family", "coords": [7.467937, 46.933207]}, {"name": "Spielplatz Gryphenhübeli", "text": "Hangulatos játszótér a Muri bei Bern-i Gryphenhübeli negyedben.", "category": "family", "coords": [7.456005, 46.944185]}, {"name": "Spielplatz Rosengarten", "text": "Ismert játszótér a Muri bei Bern-i Rosengartenben, szép kilátással.", "category": "family", "coords": [7.460792, 46.951217]}, {"name": "Spielplatz N6-Überdeckung", "text": "Modern játszótér az N6-os feletti lefedésen Muri bei Bernben.", "category": "family", "coords": [7.473523, 46.942444]}, {"name": "Bächtele", "text": "A Muri bei Bern-i Bächtele játszótér felfedezésre hívja a gyerekeket.", "category": "family", "coords": [7.456709, 46.924427]}, {"name": "Lernschwimmbecken Schule Rüfenacht", "text": "A rüfenachti tanmedence ideális feltételeket biztosít a gyerekeknek az úszástanuláshoz.", "category": "family", "coords": [7.53993, 46.931337]}, {"name": "Giessenbad Belp", "text": "A Giessenbad Belp egy népszerű szabadtéri fürdő a régió családjai számára.", "category": "family", "coords": [7.504952, 46.911125]}, {"name": "Hammam & Spa Oktogon", "text": "A Hammam & Spa Oktogon kikapcsolódást kínál felnőtteknek és családoknak.", "category": "family", "coords": [7.445089, 46.945377]}], "ro": [{"name": "Zentrum Paul Klee", "text": "Zentrum Paul Klee din Muri Bei Bern este un muzeu de artă proeminent din Elveția. Acesta se concentrează pe viața și opera impresionantă a celebrului pictor Paul Klee. Aici, vizitatorii pot admira o colecție vastă a fascinantelor sale opere de artă.", "category": "museum", "coords": [7.474291, 46.949066]}, {"name": "Schloss Muri bei Bern", "text": "Un castel istoric situat în comuna Muri bei Bern.", "category": "castle", "coords": [7.488076, 46.930881]}, {"name": "Freimaurer Museum Schweiz", "text": "În Muri Bei Bern, Elveția, Freimaurer Museum Schweiz vă invită la o călătorie de descoperire istorică inedită. Expoziția pune în lumină istoria profundă și simbolurile francmasoneriei din țară. Oaspeții interesați obțin o perspectivă unică asupra acestei lumi adesea ascunse.", "category": "museum", "coords": [7.48564, 46.93812]}, {"name": "Schlössli Kehrsatz", "text": "Un mic castel din Kehrsatz, utilizat astăzi în diverse scopuri.", "category": "castle", "coords": [7.472338, 46.909647]}, {"name": "Schloss Gümligen", "text": "Un castel baroc din secolul al XVIII-lea, situat în Gümligen.", "category": "castle", "coords": [7.515203, 46.934705]}, {"name": "Bärenpark", "text": "Un parc unde urșii pot fi observați într-un mediu natural.", "category": "family", "coords": [7.459139, 46.947694]}, {"name": "Schloss Wittigkofen", "text": "O proprietate fortificată de patrimoniu situată la marginea Bernei.", "category": "castle", "coords": [7.48174, 46.942569]}, {"name": "Prähistorische Wehranlage Hüenliwald", "text": "Rămășițele unei fortificații preistorice în pădurea Hüenliwald.", "category": "historical", "coords": [7.517677, 46.921854]}, {"name": "5ème étage", "text": "O scenă pentru teatru și divertisment în regiunea Muri.", "category": "cultural", "coords": [7.456365, 46.946787]}, {"name": "Pro Natura Zentrum Eichholz", "text": "Un centru de protecție a naturii pe malul râului Aare, care oferă informații despre flora și fauna locală.", "category": "natural", "coords": [7.459323, 46.933773]}, {"name": "Ostermundigeberg", "text": "Un punct de belvedere și deal împădurit situat în apropiere de Berna.", "category": "natural", "coords": [7.503365, 46.948142]}, {"name": "Elfenau", "text": "Un parc istoric pe malul râului Aare, servind ca zonă de recreere.", "category": "park", "coords": [7.466124, 46.932753]}, {"name": "Hofgut Gümligen", "text": "Un ansamblu istoric reprezentativ de conace situat în Gümligen.", "category": "historical", "coords": [7.512279, 46.933745]}, {"name": "Ulrich Stucky", "text": "Un monument ridicat în onoarea lui Ulrich Stucky în comuna Muri.", "category": "historical", "coords": [7.475081, 46.947429]}, {"name": "Rothirsch", "text": "Un țarc pentru observarea cerbilor carpatini în parcul zoologic.", "category": "landmark", "coords": [7.452141, 46.934055]}, {"name": "Alpensteinbock", "text": "O zonă din parcul zoologic care prezintă caprele negre de munte într-un cadru stâncos.", "category": "landmark", "coords": [7.454004, 46.933971]}, {"name": "popup galerie am dreieck", "text": "O galerie temporară pentru artă contemporană și expoziții.", "category": "cultural", "coords": [7.487104, 46.957934]}, {"name": "Bezoarziege", "text": "O zonă zoologică pentru observarea caprelor bezoar, o specie rară.", "category": "landmark", "coords": [7.454989, 46.934373]}, {"name": "Herrenhaus", "text": "O casă rezidențială istorică sau un conac reprezentativ în Muri.", "category": "historical", "coords": [7.46804, 46.948144]}, {"name": "St Ursula's Church", "text": "Biserica anglicană de limbă engleză din regiunea Bernei.", "category": "religious", "coords": [7.453383, 46.939856]}, {"name": "ökumenisches Zentrum Kehrsatz (OEKI)", "text": "Un centru religios în Kehrsatz, utilizat de diverse confesiuni.", "category": "religious", "coords": [7.473705, 46.912599]}, {"name": "Gemeindeverwaltung Ostermundigen", "text": "Centrul administrativ și primăria comunei Ostermundigen.", "category": "historical", "coords": [7.496349, 46.957941]}, {"name": "Untertorturm", "text": "Un turn istoric lângă podul Untertor, care făcea parte din fosta fortificație a orașului.", "category": "tower", "coords": [7.459028, 46.949373]}, {"name": "Petruskirche", "text": "O biserică evanghelică reformată în cartierul Kirchenfeld din Berna.", "category": "religious", "coords": [7.463668, 46.938933]}, {"name": "Misión de habla española", "text": "O misiune catolică pentru comunitatea de limbă spaniolă din Berna.", "category": "religious", "coords": [7.486757, 46.95907]}, {"name": "Auguetbrücke", "text": "Un pod istoric de lemn acoperit care traversează râul Aare.", "category": "landmark", "coords": [7.500386, 46.919007]}, {"name": "Egelsee", "text": "Egelsee din Muri bei Bern este un lac natural în apropierea orașului.", "category": "natural", "coords": [7.465027, 46.944437]}, {"name": "Feuerweier", "text": "Feuerweier din Muri bei Bern este un iaz mic și liniștit.", "category": "natural", "coords": [7.585384, 46.962297]}, {"name": "Robinson", "text": "Un loc de joacă Robinson popular în Muri bei Bern pentru micii aventurieri.", "category": "family", "coords": [7.489457, 46.955586]}, {"name": "Schule Aebnit", "text": "Locul de joacă al școlii Aebnit din Muri bei Bern oferă copiilor multă bucurie.", "category": "family", "coords": [7.496981, 46.928683]}, {"name": "Spielplatz Belpmoos", "text": "Un loc de joacă frumos în zona Belpmoos din Muri bei Bern.", "category": "family", "coords": [7.499728, 46.913831]}, {"name": "Quartiertreff Thunplatz", "text": "Un loc de întâlnire cu posibilități de joacă la Thunplatz în Muri bei Bern.", "category": "family", "coords": [7.45937, 46.939599]}, {"name": "Spielhafen", "text": "Spielhafen din Muri bei Bern este un loc minunat pentru joacă în aer liber.", "category": "family", "coords": [7.47784, 46.929897]}, {"name": "Spielplatz Elfenaupark", "text": "Locul de joacă din parcul Elfenau oferă relaxare și distracție în Muri bei Bern.", "category": "family", "coords": [7.467937, 46.933207]}, {"name": "Spielplatz Gryphenhübeli", "text": "Un loc de joacă primitor în cartierul Gryphenhübeli din Muri bei Bern.", "category": "family", "coords": [7.456005, 46.944185]}, {"name": "Spielplatz Rosengarten", "text": "Un loc de joacă cunoscut în Rosengarten, Muri bei Bern, cu o vedere frumoasă.", "category": "family", "coords": [7.460792, 46.951217]}, {"name": "Spielplatz N6-Überdeckung", "text": "Un loc de joacă modern pe acoperirea N6 din Muri bei Bern.", "category": "family", "coords": [7.473523, 46.942444]}, {"name": "Bächtele", "text": "Locul de joacă Bächtele din Muri bei Bern invită copiii la explorare.", "category": "family", "coords": [7.456709, 46.924427]}, {"name": "Lernschwimmbecken Schule Rüfenacht", "text": "Această piscină de învățare din Rüfenacht oferă condiții ideale pentru copiii care învață să înoate.", "category": "family", "coords": [7.53993, 46.931337]}, {"name": "Giessenbad Belp", "text": "Giessenbad Belp este o piscină în aer liber populară pentru familiile din regiune.", "category": "family", "coords": [7.504952, 46.911125]}, {"name": "Hammam & Spa Oktogon", "text": "Hammam & Spa Oktogon oferă relaxare pentru adulți și familii.", "category": "family", "coords": [7.445089, 46.945377]}], "en": [{"name": "Zentrum Paul Klee", "text": "The Zentrum Paul Klee in Muri Bei Bern is an outstanding art museum in Switzerland. It focuses on the impressive life and work of the famous painter Paul Klee. Visitors can marvel at an extensive collection of his fascinating artworks here.", "category": "museum", "coords": [7.474291, 46.949066]}, {"name": "Schloss Muri bei Bern", "text": "A historical castle located in the municipality of Muri bei Bern.", "category": "castle", "coords": [7.488076, 46.930881]}, {"name": "Masonic Museum Switzerland", "text": "In Muri Bei Bern, Switzerland, the Freimaurer Museum Schweiz invites you on a special historical journey of discovery. The exhibition highlights the profound history and symbols of Freemasonry in the country. Interested guests gain unique insights into this often hidden world.", "category": "museum", "coords": [7.48564, 46.93812]}, {"name": "Schlössli Kehrsatz", "text": "A small castle in Kehrsatz, currently used for various public and private purposes.", "category": "castle", "coords": [7.472338, 46.909647]}, {"name": "Schloss Gümligen", "text": "An 18th-century Baroque country castle located in Gümligen.", "category": "castle", "coords": [7.515203, 46.934705]}, {"name": "Bear park", "text": "A park where bears can be observed in a natural environment.", "category": "family", "coords": [7.459139, 46.947694]}, {"name": "Schloss Wittigkofen", "text": "A heritage-listed castle estate located on the outskirts of Bern.", "category": "castle", "coords": [7.48174, 46.942569]}, {"name": "Prähistorische Wehranlage Hüenliwald", "text": "The remains of a prehistoric fortification located in the Hüenliwald forest.", "category": "historical", "coords": [7.517677, 46.921854]}, {"name": "5ème étage", "text": "A stage for theatre and small-scale performances in the Muri region.", "category": "cultural", "coords": [7.456365, 46.946787]}, {"name": "Pro Natura Zentrum Eichholz", "text": "A nature conservation centre on the Aare river providing information on local flora and fauna.", "category": "natural", "coords": [7.459323, 46.933773]}, {"name": "Ostermundigeberg", "text": "A viewpoint and forested hill located near Bern.", "category": "natural", "coords": [7.503365, 46.948142]}, {"name": "Elfenau", "text": "A historical park on the banks of the Aare river, serving as a popular recreation area.", "category": "park", "coords": [7.466124, 46.932753]}, {"name": "Hofgut Gümligen", "text": "A representative historical manor estate located in Gümligen.", "category": "historical", "coords": [7.512279, 46.933745]}, {"name": "Ulrich Stucky", "text": "A monument dedicated to Ulrich Stucky in the municipality of Muri.", "category": "historical", "coords": [7.475081, 46.947429]}, {"name": "Rothirsch", "text": "An enclosure for observing red deer within the animal park.", "category": "landmark", "coords": [7.452141, 46.934055]}, {"name": "Alpine ibex", "text": "An exhibit in the animal park showcasing Alpine ibexes in a rocky environment.", "category": "landmark", "coords": [7.454004, 46.933971]}, {"name": "popup galerie am dreieck", "text": "A temporary gallery for contemporary art and various exhibitions.", "category": "cultural", "coords": [7.487104, 46.957934]}, {"name": "Bezoar ibex", "text": "An animal exhibit for observing the rare Bezoar ibex.", "category": "landmark", "coords": [7.454989, 46.934373]}, {"name": "Herrenhaus", "text": "A representative historical residential house or manor in Muri.", "category": "historical", "coords": [7.46804, 46.948144]}, {"name": "St Ursula's Church", "text": "The English-speaking Anglican church serving the Bern region.", "category": "religious", "coords": [7.453383, 46.939856]}, {"name": "ökumenisches Zentrum Kehrsatz (OEKI)", "text": "A religious centre in Kehrsatz used by various Christian denominations.", "category": "religious", "coords": [7.473705, 46.912599]}, {"name": "Gemeindeverwaltung Ostermundigen", "text": "The administrative centre and town hall of the Ostermundigen municipality.", "category": "historical", "coords": [7.496349, 46.957941]}, {"name": "Untertorturm", "text": "A historical tower at the Untertorbrücke, formerly part of the city's fortifications.", "category": "tower", "coords": [7.459028, 46.949373]}, {"name": "Petruskirche", "text": "An Evangelical Reformed church located in the Kirchenfeld district of Bern.", "category": "religious", "coords": [7.463668, 46.938933]}, {"name": "Misión de habla española", "text": "A Catholic mission serving the Spanish-speaking community in Bern.", "category": "religious", "coords": [7.486757, 46.95907]}, {"name": "Auguetbrücke", "text": "A historical covered wooden bridge crossing the Aare river.", "category": "landmark", "coords": [7.500386, 46.919007]}, {"name": "Egelsee", "text": "The Egelsee in Muri bei Bern is a natural lake close to the city.", "category": "natural", "coords": [7.465027, 46.944437]}, {"name": "Feuerweier", "text": "The Feuerweier in Muri bei Bern is a small, quiet pond.", "category": "natural", "coords": [7.585384, 46.962297]}, {"name": "Robinson", "text": "A popular Robinson playground in Muri bei Bern for little adventurers.", "category": "family", "coords": [7.489457, 46.955586]}, {"name": "Schule Aebnit", "text": "The playground at Schule Aebnit in Muri bei Bern offers children much joy.", "category": "family", "coords": [7.496981, 46.928683]}, {"name": "Spielplatz Belpmoos", "text": "A nice playground in the Belpmoos area of Muri bei Bern.", "category": "family", "coords": [7.499728, 46.913831]}, {"name": "Quartiertreff Thunplatz", "text": "A meeting point with play facilities at Thunplatz in Muri bei Bern.", "category": "family", "coords": [7.45937, 46.939599]}, {"name": "Spielhafen", "text": "The Spielhafen in Muri bei Bern is a great place for outdoor play.", "category": "family", "coords": [7.47784, 46.929897]}, {"name": "Spielplatz Elfenaupark", "text": "The playground in Elfenaupark offers relaxation and play fun in Muri bei Bern.", "category": "family", "coords": [7.467937, 46.933207]}, {"name": "Spielplatz Gryphenhübeli", "text": "A cozy playground in the Gryphenhübeli neighborhood of Muri bei Bern.", "category": "family", "coords": [7.456005, 46.944185]}, {"name": "Spielplatz Rosengarten", "text": "A well-known playground in the Rosengarten in Muri bei Bern with a beautiful view.", "category": "family", "coords": [7.460792, 46.951217]}, {"name": "Spielplatz N6-Überdeckung", "text": "A modern playground on the N6 covering in Muri bei Bern.", "category": "family", "coords": [7.473523, 46.942444]}, {"name": "Bächtele", "text": "The Bächtele playground in Muri bei Bern invites children to explore.", "category": "family", "coords": [7.456709, 46.924427]}, {"name": "Lernschwimmbecken Schule Rüfenacht", "text": "The learning pool in Rüfenacht offers ideal conditions for children to learn how to swim.", "category": "family", "coords": [7.53993, 46.931337]}, {"name": "Giessenbad Belp", "text": "Giessenbad Belp is a popular outdoor pool for families in the region.", "category": "family", "coords": [7.504952, 46.911125]}, {"name": "Hammam & Spa Oktogon", "text": "Hammam & Spa Oktogon offers relaxation for adults and families.", "category": "family", "coords": [7.445089, 46.945377]}]}, "type": "city", "parent": "CH-BE", "coords": [7.4906, 46.9335], "population": 13029, "image": "/geo-images/switzerland/ch-muri-bei-bern.webp", "name": {"de": "Muri bei Bern", "hu": "Muri bei Bern", "ro": "Muri bei Bern", "en": "Muri bei Bern"}, "description": {"de": "Eine exklusive Wohngemeinde vor den Toren der Bundeshauptstadt Bern, die fuer ihre hohe Lebensqualitaet und historische Architektur bekannt ist.", "hu": "Bern közvetlen szomszédságában fekvő előkelő lakóövezet, amely magas életminőségéről és patinás építészeti örökségéről nevezetes.", "ro": "O zonă rezidențială exclusivistă situată la porțile capitalei Berna, cunoscută pentru calitatea ridicată a vieții și arhitectura sa istorică.", "en": "An exclusive residential community on the outskirts of the Swiss capital, Bern, known for its high quality of life and historic architecture."}, "facts": {"de": ["Vorort von Bern", "Kanton Bern", "Aaretal-Lage", "Hohes Einkommen"], "hu": ["Bern elővárosa", "Bern kanton", "Aare-völgyi fekvés", "Magas jövedelmi szint"], "ro": ["Suburbie a Bernei", "Cantonul Berna", "Localizare în valea Aare", "Venituri ridicate"], "en": ["Suburb of Bern", "Canton of Bern", "Aare Valley location", "High income level"]}, "descriptionAdvanced": {"de": "Muri bei Bern ist eine politische Gemeinde im Verwaltungskreis Bern-Mittelland des Kantons Bern. Die Gemeinde setzt sich aus den beiden markanten Ortsteilen Muri und Guemligen zusammen und gilt als einer der steuerguenstigsten und wohlhabendsten Orte in der Region. Geografisch liegt Muri auf einer Terrasse ueber dem Aaretal, was den Bewohnern eine beeindruckende Sicht auf die Berner Alpen und die nahegelegene Stadt Bern bietet. Die Geschichte der Gemeinde reicht weit zurueck, wobei die erste urkundliche Erwaehnung auf das Jahr 1180 datiert wird. Architektonisch ist Muri bei Bern besonders durch seine herrschaftlichen Landsitze und Schloesser gepraegt, wie etwa das Schloss Guemligen, ein bedeutender Spaetbarockbau aus dem 18. Jahrhundert. Trotz der Urbanisierung hat die Gemeinde ihren gruenen Charakter bewahrt, was durch die Naehe zur Aare und weitlaeufige Naherholungsgebiete unterstrichen wird. Wirtschaftlich ist der Ort stark vom Dienstleistungssektor und der Praesenz zahlreicher Pendler gepraegt, die in der nahen Hauptstadt arbeiten. Die Infrastruktur ist hervorragend ausgebaut, mit direkten Anbindungen an das S-Bahn-Netz und das Autobahnnetz, was Muri zu einem bevorzugten Wohnstandort fuer Fachkraefte und Familien macht.", "hu": "Muri bei Bern egy svájci politikai község Bern kantonban, a Bern-Mittelland közigazgatási kerületben. A település két fő részből, Muriból és Gümligenből áll, és a régió egyik leggazdagabb, legalacsonyabb adókulccsal rendelkező közösségeként ismert. Földrajzilag az Aare-völgy feletti teraszon helyezkedik el, ahonnan pazar kilátás nyílik a Berni-Alpokra és a fővárosra. A település története a távoli múltba nyúlik vissza, első írásos említése 1180-ból származik. Építészetileg a település meghatározó elemei a nagypolgári kúriák és kastélyok, köztük a 18. századi, késő barokk stílusú Gümligen-kastély, amely országos jelentőségű műemlék. Az urbanizáció ellenére a község megőrizte zöld jellegét, köszönhetően az Aare folyó közelségének és a tágas rekreációs területeknek. Gazdaságilag a szolgáltató szektor dominál, lakosságának jelentős része a közeli Bernben dolgozik. Kiváló infrastruktúrája, a közvetlen S-Bahn- és autópálya-kapcsolatok miatt a szakemberek és családok körében az egyik legkedveltebb lakóhely a környéken, ahol a városi kényelem és a vidéki nyugalom tökéletes egyensúlyban van.", "ro": "Muri bei Bern este o municipalitate din districtul administrativ Bern-Mittelland al cantonului Berna. Comunitatea este formată din două districte principale, Muri și Gümligen, fiind considerată una dintre cele mai prospere localități din regiune, cu un nivel scăzut de impozitare. Geografic, Muri este situat pe o terasă deasupra văii râului Aare, oferind rezidenților o vedere impresionantă asupra Alpilor Bernezi și a orașului Berna. Istoria localității este una veche, prima mențiune documentară datând din anul 1180. Din punct de vedere arhitectural, Muri bei Bern este marcat de numeroase reședințe nobiliare și castele, cum ar fi Castelul Gümligen, o clădire barocă târzie semnificativă din secolul al XVIII-lea. În ciuda urbanizării, municipalitatea și-a păstrat caracterul verde, subliniat de apropierea de râul Aare și de zonele extinse de recreere. Economic, localitatea este dominată de sectorul serviciilor și de prezența numeroșilor navetiști care lucrează în capitala federală. Infrastructura este excelent dezvoltată, cu conexiuni directe la rețeaua feroviară S-Bahn și la autostradă, ceea ce face din Muri o locație rezidențială preferată pentru familii și profesioniști.", "en": "Muri bei Bern is a municipality in the Bern-Mittelland administrative district of the Canton of Bern. It consists of two main districts, Muri and Guemligen, and is widely regarded as one of the wealthiest towns in the region with a very favorable tax rate. Geographically situated on a plateau above the Aare Valley, it provides residents with stunning views of the Bernese Alps and the nearby city of Bern. The history of the community stretches back centuries, with the first official records dating to 1180. Architecturally, Muri bei Bern is defined by its grand manor houses and castles, most notably Guemligen Castle, an important late-Baroque structure from the 18th century. Despite modernization, the municipality has retained its lush, green character, enhanced by its proximity to the Aare river and vast recreational areas. Economically, the town is driven by the service sector and its role as a premier residential area for professionals commuting to the capital. The infrastructure is top-tier, featuring direct access to the S-Bahn rail system and major highways, making it a highly sought-after location for families seeking a balance between urban proximity and suburban tranquility."}, "factsAdvanced": {"de": ["Gegruendet um 1180", "Zwei Ortsteile: Muri und Guemligen", "Schloss Guemligen Wahrzeichen", "Niedrigster Steuersatz im Kanton", "Direkte Naehe zur Aare", "Villenquartier Charakter"], "hu": ["1180 körül alapították", "Két városrész: Muri és Gümligen", "A Gümligen-kastély a fő jelképe", "A kanton legalacsonyabb adókulcsa", "Az Aare folyó szomszédsága", "Vilanegyed jellegű település"], "ro": ["Fondată în jurul anului 1180", "Două districte: Muri și Gümligen", "Castelul Gümligen este simbolul local", "Cea mai mică rată de impozitare din canton", "Proximitate directă față de râul Aare", "Caracter de cartier de vile de lux"], "en": ["Founded around 1180", "Two districts: Muri and Guemligen", "Guemligen Castle is a landmark", "Lowest tax rate in the canton", "Direct proximity to the Aare river", "Distinctive villa-quarter character"]}, "faq": {"de": [{"q": "Warum ist Muri bei Bern so beliebt?", "a": "Es bietet eine Kombination aus niedrigen Steuern, hoher Sicherheit und der direkten Naehe zur Stadt Bern."}, {"q": "Gibt es historische Sehenswuerdigkeiten?", "a": "Ja, besonders das Schloss Guemligen und die reformierte Kirche von Muri sind sehenswert."}, {"q": "Wie ist die Verkehrsanbindung?", "a": "Die Gemeinde ist durch mehrere S-Bahn-Linien und Busse perfekt an Bern angebunden."}, {"q": "Welche Freizeitmoeglichkeiten gibt es?", "a": "Spaziergaenge an der Aare und Ausfluege in den nahegelegenen Guemligenwald sind sehr beliebt."}], "hu": [{"q": "Miért olyan népszerű Muri bei Bern?", "a": "Az alacsony adók, a magas közbiztonság és Bern közelsége miatt az egyik legvonzóbb település."}, {"q": "Vannak történelmi látnivalók?", "a": "Igen, különösen a Gümligen-kastély és Muri református temploma érdemel figyelmet."}, {"q": "Milyen a közlekedés?", "a": "A település több S-Bahn vonallal és buszjáratokkal tökéletesen kapcsolódik Bernhez."}, {"q": "Milyen kikapcsolódási lehetőségek vannak?", "a": "Az Aare-parti séták és a gümligeni erdőben tett kirándulások igen kedveltek."}], "ro": [{"q": "De ce este Muri bei Bern atât de popular?", "a": "Oferă o combinație de taxe mici, siguranță ridicată și proximitate directă față de orașul Berna."}, {"q": "Există obiective istorice de vizitat?", "a": "Da, în special Castelul Gümligen și biserica reformată din Muri merită vizitate."}, {"q": "Cum este conexiunea de transport?", "a": "Municipalitatea este conectată perfect de Berna prin mai multe linii S-Bahn și autobuze."}, {"q": "Ce activități de agrement sunt disponibile?", "a": "Plimbările pe malul râului Aare și excursiile în pădurea Gümligenwald sunt foarte populare."}], "en": [{"q": "Why is Muri bei Bern so popular?", "a": "It offers a blend of low taxes, high safety, and immediate proximity to the city of Bern."}, {"q": "Are there any historic sights?", "a": "Yes, notably Guemligen Castle and the Reformed Church of Muri are worth seeing."}, {"q": "How is the public transport?", "a": "The community is perfectly connected to Bern via several S-Bahn lines and buses."}, {"q": "What leisure activities are available?", "a": "Walks along the Aare river and excursions into the Guemligen forest are very popular."}]}},
+  {"id": "ch-muri-bei-bern", "sights": {
+      "de": [
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "Das Zentrum Paul Klee in Muri Bei Bern ist ein herausragendes Kunstmuseum in der Schweiz. Es konzentriert sich auf das beeindruckende Leben und Werk des berühmten Malers Paul Klee. Besucher können hier eine umfangreiche Sammlung seiner faszinierenden Kunstwerke bestaunen.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "Ein historisches Schloss in der Gemeinde Muri bei Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Freimaurer Museum Schweiz",
+                  "text": "Im schweizerischen Muri Bei Bern lädt das Freimaurer Museum Schweiz zu einer besonderen historischen Entdeckungsreise ein. Die Ausstellung beleuchtet die tiefgründige Geschichte und die Symbole der Freimaurerei im Land. Interessierte Gäste erhalten einzigartige Einblicke in diese oft verborgene Welt.",
+                  "category": "museum",
+                  "coords": [
+                        7.48564,
+                        46.93812
+                  ]
+            },
+            {
+                  "name": "Schlössli Kehrsatz",
+                  "text": "Ein kleinerer Schlossbau in Kehrsatz, der heute für verschiedene Zwecke genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        7.472338,
+                        46.909647
+                  ]
+            },
+            {
+                  "name": "Schloss Gümligen",
+                  "text": "Ein barockes Landschloss in Gümligen aus dem 18. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        7.515203,
+                        46.934705
+                  ]
+            },
+            {
+                  "name": "Bärenpark",
+                  "text": "Ein Park, in dem Bären in einer naturnahen Umgebung beobachtet werden können.",
+                  "category": "family",
+                  "coords": [
+                        7.459139,
+                        46.947694
+                  ]
+            },
+            {
+                  "name": "Schloss Wittigkofen",
+                  "text": "Ein denkmalgeschütztes Schlossgut am Rande von Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.48174,
+                        46.942569
+                  ]
+            },
+            {
+                  "name": "Prähistorische Wehranlage Hüenliwald",
+                  "text": "Überreste einer prähistorischen Befestigungsanlage im Hüenliwald.",
+                  "category": "historical",
+                  "coords": [
+                        7.517677,
+                        46.921854
+                  ]
+            },
+            {
+                  "name": "5ème étage",
+                  "text": "Eine Bühne für Theater und Kleinkunst in der Region Muri.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456365,
+                        46.946787
+                  ]
+            },
+            {
+                  "name": "Pro Natura Zentrum Eichholz",
+                  "text": "Ein Naturschutzzentrum an der Aare, das über die lokale Flora und Fauna informiert.",
+                  "category": "natural",
+                  "coords": [
+                        7.459323,
+                        46.933773
+                  ]
+            },
+            {
+                  "name": "Ostermundigeberg",
+                  "text": "Ein Aussichtspunkt und bewaldeter Hügel in der Nähe von Bern.",
+                  "category": "natural",
+                  "coords": [
+                        7.503365,
+                        46.948142
+                  ]
+            },
+            {
+                  "name": "Elfenau",
+                  "text": "Eine historische Parkanlage an der Aare, die als Naherholungsgebiet dient.",
+                  "category": "park",
+                  "coords": [
+                        7.466124,
+                        46.932753
+                  ]
+            },
+            {
+                  "name": "Hofgut Gümligen",
+                  "text": "Ein repräsentatives historisches Gutshof-Ensemble in Gümligen.",
+                  "category": "historical",
+                  "coords": [
+                        7.512279,
+                        46.933745
+                  ]
+            },
+            {
+                  "name": "Ulrich Stucky",
+                  "text": "Ein Denkmal zu Ehren von Ulrich Stucky in der Gemeinde Muri.",
+                  "category": "historical",
+                  "coords": [
+                        7.475081,
+                        46.947429
+                  ]
+            },
+            {
+                  "name": "Rothirsch",
+                  "text": "Ein Gehege zur Beobachtung von Rothirschen im Tierpark.",
+                  "category": "landmark",
+                  "coords": [
+                        7.452141,
+                        46.934055
+                  ]
+            },
+            {
+                  "name": "Alpensteinbock",
+                  "text": "Eine Anlage im Tierpark, die Alpensteinböcke in einer felsigen Umgebung zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454004,
+                        46.933971
+                  ]
+            },
+            {
+                  "name": "popup galerie am dreieck",
+                  "text": "Eine temporäre Galerie für zeitgenössische Kunst und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.487104,
+                        46.957934
+                  ]
+            },
+            {
+                  "name": "Bezoarziege",
+                  "text": "Eine Tieranlage zur Beobachtung der seltenen Bezoarziegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454989,
+                        46.934373
+                  ]
+            },
+            {
+                  "name": "Herrenhaus",
+                  "text": "Ein repräsentatives historisches Wohnhaus oder Gutshaus in Muri.",
+                  "category": "historical",
+                  "coords": [
+                        7.46804,
+                        46.948144
+                  ]
+            },
+            {
+                  "name": "St Ursula's Church",
+                  "text": "Die englischsprachige anglikanische Kirche in der Region Bern.",
+                  "category": "religious",
+                  "coords": [
+                        7.453383,
+                        46.939856
+                  ]
+            },
+            {
+                  "name": "ökumenisches Zentrum Kehrsatz (OEKI)",
+                  "text": "Ein religiöses Zentrum in Kehrsatz, das von verschiedenen Konfessionen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        7.473705,
+                        46.912599
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Ostermundigen",
+                  "text": "Das Verwaltungszentrum und Rathaus der Gemeinde Ostermundigen.",
+                  "category": "historical",
+                  "coords": [
+                        7.496349,
+                        46.957941
+                  ]
+            },
+            {
+                  "name": "Untertorturm",
+                  "text": "Ein historischer Turm an der Untertorbrücke, der Teil der ehemaligen Stadtbefestigung war.",
+                  "category": "tower",
+                  "coords": [
+                        7.459028,
+                        46.949373
+                  ]
+            },
+            {
+                  "name": "Petruskirche",
+                  "text": "Eine evangelisch-reformierte Kirche im Berner Quartier Kirchenfeld.",
+                  "category": "religious",
+                  "coords": [
+                        7.463668,
+                        46.938933
+                  ]
+            },
+            {
+                  "name": "Misión de habla española",
+                  "text": "Eine katholische Mission für die spanischsprachige Gemeinde in Bern.",
+                  "category": "religious",
+                  "coords": [
+                        7.486757,
+                        46.95907
+                  ]
+            },
+            {
+                  "name": "Auguetbrücke",
+                  "text": "Eine historische gedeckte Holzbrücke, die über die Aare führt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.500386,
+                        46.919007
+                  ]
+            },
+            {
+                  "name": "Egelsee",
+                  "text": "Der Egelsee in Muri bei Bern ist ein naturbelassener See in Stadtnähe.",
+                  "category": "natural",
+                  "coords": [
+                        7.465027,
+                        46.944437
+                  ]
+            },
+            {
+                  "name": "Feuerweier",
+                  "text": "Der Feuerweier in Muri bei Bern ist ein kleiner, ruhiger Weiher.",
+                  "category": "natural",
+                  "coords": [
+                        7.585384,
+                        46.962297
+                  ]
+            },
+            {
+                  "name": "Robinson",
+                  "text": "Ein beliebter Robinson-Spielplatz in Muri bei Bern für kleine Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        7.489457,
+                        46.955586
+                  ]
+            },
+            {
+                  "name": "Schule Aebnit",
+                  "text": "Der Spielplatz der Schule Aebnit in Muri bei Bern bietet Kindern viel Freude.",
+                  "category": "family",
+                  "coords": [
+                        7.496981,
+                        46.928683
+                  ]
+            },
+            {
+                  "name": "Spielplatz Belpmoos",
+                  "text": "Ein schöner Spielplatz im Bereich Belpmoos in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.499728,
+                        46.913831
+                  ]
+            },
+            {
+                  "name": "Quartiertreff Thunplatz",
+                  "text": "Ein Treffpunkt mit Spielmöglichkeiten am Thunplatz in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.45937,
+                        46.939599
+                  ]
+            },
+            {
+                  "name": "Spielhafen",
+                  "text": "Der Spielhafen in Muri bei Bern ist ein toller Ort zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        7.47784,
+                        46.929897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Elfenaupark",
+                  "text": "Der Spielplatz im Elfenaupark bietet Erholung und Spielspaß in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.467937,
+                        46.933207
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gryphenhübeli",
+                  "text": "Ein gemütlicher Spielplatz im Gryphenhübeli-Quartier in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.456005,
+                        46.944185
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rosengarten",
+                  "text": "Ein bekannter Spielplatz im Rosengarten in Muri bei Bern mit schöner Aussicht.",
+                  "category": "family",
+                  "coords": [
+                        7.460792,
+                        46.951217
+                  ]
+            },
+            {
+                  "name": "Spielplatz N6-Überdeckung",
+                  "text": "Ein moderner Spielplatz auf der N6-Überdeckung in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.473523,
+                        46.942444
+                  ]
+            },
+            {
+                  "name": "Bächtele",
+                  "text": "Der Spielplatz Bächtele in Muri bei Bern lädt Kinder zum Entdecken ein.",
+                  "category": "family",
+                  "coords": [
+                        7.456709,
+                        46.924427
+                  ]
+            },
+            {
+                  "name": "Lernschwimmbecken Schule Rüfenacht",
+                  "text": "Das Lernschwimmbecken in Rüfenacht bietet ideale Bedingungen für Kinder zum Schwimmenlernen.",
+                  "category": "family",
+                  "coords": [
+                        7.53993,
+                        46.931337
+                  ]
+            },
+            {
+                  "name": "Giessenbad Belp",
+                  "text": "Das Giessenbad Belp ist ein beliebtes Freibad für Familien in der Region.",
+                  "category": "family",
+                  "coords": [
+                        7.504952,
+                        46.911125
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa Oktogon",
+                  "text": "Das Hammam & Spa Oktogon bietet Entspannung für Erwachsene und Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.445089,
+                        46.945377
+                  ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Ein weitläufiger Tierpark in Muri bei Bern, der für seinen Bärenpark und lokale Tierarten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "A Muri Bei Bern-i Zentrum Paul Klee egy kiemelkedő művészeti múzeum Svájcban. A híres festő, Paul Klee lenyűgöző életére és munkásságára összpontosít. A látogatók itt megcsodálhatják lenyűgöző műalkotásainak kiterjedt gyűjteményét.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "Történelmi kastély Muri bei Bern községben.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Freimaurer Museum Schweiz",
+                  "text": "A svájci Muri Bei Bernben a Freimaurer Museum Schweiz egy különleges történelmi felfedezőútra hív. A kiállítás a szabadkőművesség mélyreható történetét és szimbólumait mutatja be az országban. Az érdeklődő vendégek egyedülálló bepillantást nyerhetnek ebbe a gyakran rejtett világba.",
+                  "category": "museum",
+                  "coords": [
+                        7.48564,
+                        46.93812
+                  ]
+            },
+            {
+                  "name": "Schlössli Kehrsatz",
+                  "text": "Kehrsatzban található kisebb kastély, amelyet ma különféle célokra használnak.",
+                  "category": "castle",
+                  "coords": [
+                        7.472338,
+                        46.909647
+                  ]
+            },
+            {
+                  "name": "Schloss Gümligen",
+                  "text": "18. századi barokk vidéki kastély Gümligenben.",
+                  "category": "castle",
+                  "coords": [
+                        7.515203,
+                        46.934705
+                  ]
+            },
+            {
+                  "name": "Bärenpark",
+                  "text": "Park, ahol medvéket lehet megfigyelni természetközeli környezetben.",
+                  "category": "family",
+                  "coords": [
+                        7.459139,
+                        46.947694
+                  ]
+            },
+            {
+                  "name": "Schloss Wittigkofen",
+                  "text": "Műemlékvédelem alatt álló kastélybirtok Bern szélén.",
+                  "category": "castle",
+                  "coords": [
+                        7.48174,
+                        46.942569
+                  ]
+            },
+            {
+                  "name": "Prähistorische Wehranlage Hüenliwald",
+                  "text": "Egy őskori erődítmény maradványai a Hüenliwald erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        7.517677,
+                        46.921854
+                  ]
+            },
+            {
+                  "name": "5ème étage",
+                  "text": "Színházi és kabaré előadások helyszíne Muri régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456365,
+                        46.946787
+                  ]
+            },
+            {
+                  "name": "Pro Natura Zentrum Eichholz",
+                  "text": "Természetvédelmi központ az Aare folyónál, amely a helyi élővilágot mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        7.459323,
+                        46.933773
+                  ]
+            },
+            {
+                  "name": "Ostermundigeberg",
+                  "text": "Kilátópont és erdős domb Bern közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.503365,
+                        46.948142
+                  ]
+            },
+            {
+                  "name": "Elfenau",
+                  "text": "Történelmi park az Aare folyó partján, amely kedvelt pihenőhely.",
+                  "category": "park",
+                  "coords": [
+                        7.466124,
+                        46.932753
+                  ]
+            },
+            {
+                  "name": "Hofgut Gümligen",
+                  "text": "Reprezentatív történelmi udvarház-együttes Gümligenben.",
+                  "category": "historical",
+                  "coords": [
+                        7.512279,
+                        46.933745
+                  ]
+            },
+            {
+                  "name": "Ulrich Stucky",
+                  "text": "Ulrich Stucky tiszteletére emelt emlékmű Muri községben.",
+                  "category": "historical",
+                  "coords": [
+                        7.475081,
+                        46.947429
+                  ]
+            },
+            {
+                  "name": "Rothirsch",
+                  "text": "Gímszarvasok megfigyelésére szolgáló kifutó a vadasparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.452141,
+                        46.934055
+                  ]
+            },
+            {
+                  "name": "Alpensteinbock",
+                  "text": "Kőszáli kecskéket sziklás környezetben bemutató kifutó a vadasparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454004,
+                        46.933971
+                  ]
+            },
+            {
+                  "name": "popup galerie am dreieck",
+                  "text": "Kortárs művészeti alkotásokat bemutató időszaki galéria.",
+                  "category": "cultural",
+                  "coords": [
+                        7.487104,
+                        46.957934
+                  ]
+            },
+            {
+                  "name": "Bezoarziege",
+                  "text": "Állatkerti kifutó a ritka bezoárkecskék megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454989,
+                        46.934373
+                  ]
+            },
+            {
+                  "name": "Herrenhaus",
+                  "text": "Reprezentatív történelmi lakóház vagy udvarház Muriban.",
+                  "category": "historical",
+                  "coords": [
+                        7.46804,
+                        46.948144
+                  ]
+            },
+            {
+                  "name": "St Ursula's Church",
+                  "text": "Angol nyelvű anglikán templom Bern régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        7.453383,
+                        46.939856
+                  ]
+            },
+            {
+                  "name": "ökumenisches Zentrum Kehrsatz (OEKI)",
+                  "text": "Kehrsatzban található vallási központ, amelyet több felekezet használ.",
+                  "category": "religious",
+                  "coords": [
+                        7.473705,
+                        46.912599
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Ostermundigen",
+                  "text": "Ostermundigen község közigazgatási központja és városháza.",
+                  "category": "historical",
+                  "coords": [
+                        7.496349,
+                        46.957941
+                  ]
+            },
+            {
+                  "name": "Untertorturm",
+                  "text": "Történelmi torony az Untertorbrücke mellett, amely az egykori városfal része volt.",
+                  "category": "tower",
+                  "coords": [
+                        7.459028,
+                        46.949373
+                  ]
+            },
+            {
+                  "name": "Petruskirche",
+                  "text": "Evangélikus-református templom a berni Kirchenfeld negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        7.463668,
+                        46.938933
+                  ]
+            },
+            {
+                  "name": "Misión de habla española",
+                  "text": "Katolikus misszió a berni spanyol nyelvű közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.486757,
+                        46.95907
+                  ]
+            },
+            {
+                  "name": "Auguetbrücke",
+                  "text": "Történelmi fedett fahíd, amely az Aare folyó felett vezet át.",
+                  "category": "landmark",
+                  "coords": [
+                        7.500386,
+                        46.919007
+                  ]
+            },
+            {
+                  "name": "Egelsee",
+                  "text": "A Muri bei Bernben található Egelsee egy természetközeli tó a város közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.465027,
+                        46.944437
+                  ]
+            },
+            {
+                  "name": "Feuerweier",
+                  "text": "A Muri bei Bernben található Feuerweier egy kicsi, csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        7.585384,
+                        46.962297
+                  ]
+            },
+            {
+                  "name": "Robinson",
+                  "text": "Népszerű Robinson-játszótér Muri bei Bernben a kis kalandoroknak.",
+                  "category": "family",
+                  "coords": [
+                        7.489457,
+                        46.955586
+                  ]
+            },
+            {
+                  "name": "Schule Aebnit",
+                  "text": "A Muri bei Bern-i Schule Aebnit játszótere sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.496981,
+                        46.928683
+                  ]
+            },
+            {
+                  "name": "Spielplatz Belpmoos",
+                  "text": "Szép játszótér a Muri bei Bern-i Belpmoos területén.",
+                  "category": "family",
+                  "coords": [
+                        7.499728,
+                        46.913831
+                  ]
+            },
+            {
+                  "name": "Quartiertreff Thunplatz",
+                  "text": "Találkozóhely játéklehetőségekkel a Muri bei Bern-i Thunplatzon.",
+                  "category": "family",
+                  "coords": [
+                        7.45937,
+                        46.939599
+                  ]
+            },
+            {
+                  "name": "Spielhafen",
+                  "text": "A Muri bei Bern-i Spielhafen nagyszerű hely a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.47784,
+                        46.929897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Elfenaupark",
+                  "text": "Az Elfenaupark játszótere kikapcsolódást és játékot kínál Muri bei Bernben.",
+                  "category": "family",
+                  "coords": [
+                        7.467937,
+                        46.933207
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gryphenhübeli",
+                  "text": "Hangulatos játszótér a Muri bei Bern-i Gryphenhübeli negyedben.",
+                  "category": "family",
+                  "coords": [
+                        7.456005,
+                        46.944185
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rosengarten",
+                  "text": "Ismert játszótér a Muri bei Bern-i Rosengartenben, szép kilátással.",
+                  "category": "family",
+                  "coords": [
+                        7.460792,
+                        46.951217
+                  ]
+            },
+            {
+                  "name": "Spielplatz N6-Überdeckung",
+                  "text": "Modern játszótér az N6-os feletti lefedésen Muri bei Bernben.",
+                  "category": "family",
+                  "coords": [
+                        7.473523,
+                        46.942444
+                  ]
+            },
+            {
+                  "name": "Bächtele",
+                  "text": "A Muri bei Bern-i Bächtele játszótér felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        7.456709,
+                        46.924427
+                  ]
+            },
+            {
+                  "name": "Lernschwimmbecken Schule Rüfenacht",
+                  "text": "A rüfenachti tanmedence ideális feltételeket biztosít a gyerekeknek az úszástanuláshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.53993,
+                        46.931337
+                  ]
+            },
+            {
+                  "name": "Giessenbad Belp",
+                  "text": "A Giessenbad Belp egy népszerű szabadtéri fürdő a régió családjai számára.",
+                  "category": "family",
+                  "coords": [
+                        7.504952,
+                        46.911125
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa Oktogon",
+                  "text": "A Hammam & Spa Oktogon kikapcsolódást kínál felnőtteknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        7.445089,
+                        46.945377
+                  ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "Tágas állatkert Muri bei Bernben, amely medveparkjáról és helyi állatfajairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "Zentrum Paul Klee din Muri Bei Bern este un muzeu de artă proeminent din Elveția. Acesta se concentrează pe viața și opera impresionantă a celebrului pictor Paul Klee. Aici, vizitatorii pot admira o colecție vastă a fascinantelor sale opere de artă.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "Un castel istoric situat în comuna Muri bei Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Freimaurer Museum Schweiz",
+                  "text": "În Muri Bei Bern, Elveția, Freimaurer Museum Schweiz vă invită la o călătorie de descoperire istorică inedită. Expoziția pune în lumină istoria profundă și simbolurile francmasoneriei din țară. Oaspeții interesați obțin o perspectivă unică asupra acestei lumi adesea ascunse.",
+                  "category": "museum",
+                  "coords": [
+                        7.48564,
+                        46.93812
+                  ]
+            },
+            {
+                  "name": "Schlössli Kehrsatz",
+                  "text": "Un mic castel din Kehrsatz, utilizat astăzi în diverse scopuri.",
+                  "category": "castle",
+                  "coords": [
+                        7.472338,
+                        46.909647
+                  ]
+            },
+            {
+                  "name": "Schloss Gümligen",
+                  "text": "Un castel baroc din secolul al XVIII-lea, situat în Gümligen.",
+                  "category": "castle",
+                  "coords": [
+                        7.515203,
+                        46.934705
+                  ]
+            },
+            {
+                  "name": "Bärenpark",
+                  "text": "Un parc unde urșii pot fi observați într-un mediu natural.",
+                  "category": "family",
+                  "coords": [
+                        7.459139,
+                        46.947694
+                  ]
+            },
+            {
+                  "name": "Schloss Wittigkofen",
+                  "text": "O proprietate fortificată de patrimoniu situată la marginea Bernei.",
+                  "category": "castle",
+                  "coords": [
+                        7.48174,
+                        46.942569
+                  ]
+            },
+            {
+                  "name": "Prähistorische Wehranlage Hüenliwald",
+                  "text": "Rămășițele unei fortificații preistorice în pădurea Hüenliwald.",
+                  "category": "historical",
+                  "coords": [
+                        7.517677,
+                        46.921854
+                  ]
+            },
+            {
+                  "name": "5ème étage",
+                  "text": "O scenă pentru teatru și divertisment în regiunea Muri.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456365,
+                        46.946787
+                  ]
+            },
+            {
+                  "name": "Pro Natura Zentrum Eichholz",
+                  "text": "Un centru de protecție a naturii pe malul râului Aare, care oferă informații despre flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        7.459323,
+                        46.933773
+                  ]
+            },
+            {
+                  "name": "Ostermundigeberg",
+                  "text": "Un punct de belvedere și deal împădurit situat în apropiere de Berna.",
+                  "category": "natural",
+                  "coords": [
+                        7.503365,
+                        46.948142
+                  ]
+            },
+            {
+                  "name": "Elfenau",
+                  "text": "Un parc istoric pe malul râului Aare, servind ca zonă de recreere.",
+                  "category": "park",
+                  "coords": [
+                        7.466124,
+                        46.932753
+                  ]
+            },
+            {
+                  "name": "Hofgut Gümligen",
+                  "text": "Un ansamblu istoric reprezentativ de conace situat în Gümligen.",
+                  "category": "historical",
+                  "coords": [
+                        7.512279,
+                        46.933745
+                  ]
+            },
+            {
+                  "name": "Ulrich Stucky",
+                  "text": "Un monument ridicat în onoarea lui Ulrich Stucky în comuna Muri.",
+                  "category": "historical",
+                  "coords": [
+                        7.475081,
+                        46.947429
+                  ]
+            },
+            {
+                  "name": "Rothirsch",
+                  "text": "Un țarc pentru observarea cerbilor carpatini în parcul zoologic.",
+                  "category": "landmark",
+                  "coords": [
+                        7.452141,
+                        46.934055
+                  ]
+            },
+            {
+                  "name": "Alpensteinbock",
+                  "text": "O zonă din parcul zoologic care prezintă caprele negre de munte într-un cadru stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454004,
+                        46.933971
+                  ]
+            },
+            {
+                  "name": "popup galerie am dreieck",
+                  "text": "O galerie temporară pentru artă contemporană și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        7.487104,
+                        46.957934
+                  ]
+            },
+            {
+                  "name": "Bezoarziege",
+                  "text": "O zonă zoologică pentru observarea caprelor bezoar, o specie rară.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454989,
+                        46.934373
+                  ]
+            },
+            {
+                  "name": "Herrenhaus",
+                  "text": "O casă rezidențială istorică sau un conac reprezentativ în Muri.",
+                  "category": "historical",
+                  "coords": [
+                        7.46804,
+                        46.948144
+                  ]
+            },
+            {
+                  "name": "St Ursula's Church",
+                  "text": "Biserica anglicană de limbă engleză din regiunea Bernei.",
+                  "category": "religious",
+                  "coords": [
+                        7.453383,
+                        46.939856
+                  ]
+            },
+            {
+                  "name": "ökumenisches Zentrum Kehrsatz (OEKI)",
+                  "text": "Un centru religios în Kehrsatz, utilizat de diverse confesiuni.",
+                  "category": "religious",
+                  "coords": [
+                        7.473705,
+                        46.912599
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Ostermundigen",
+                  "text": "Centrul administrativ și primăria comunei Ostermundigen.",
+                  "category": "historical",
+                  "coords": [
+                        7.496349,
+                        46.957941
+                  ]
+            },
+            {
+                  "name": "Untertorturm",
+                  "text": "Un turn istoric lângă podul Untertor, care făcea parte din fosta fortificație a orașului.",
+                  "category": "tower",
+                  "coords": [
+                        7.459028,
+                        46.949373
+                  ]
+            },
+            {
+                  "name": "Petruskirche",
+                  "text": "O biserică evanghelică reformată în cartierul Kirchenfeld din Berna.",
+                  "category": "religious",
+                  "coords": [
+                        7.463668,
+                        46.938933
+                  ]
+            },
+            {
+                  "name": "Misión de habla española",
+                  "text": "O misiune catolică pentru comunitatea de limbă spaniolă din Berna.",
+                  "category": "religious",
+                  "coords": [
+                        7.486757,
+                        46.95907
+                  ]
+            },
+            {
+                  "name": "Auguetbrücke",
+                  "text": "Un pod istoric de lemn acoperit care traversează râul Aare.",
+                  "category": "landmark",
+                  "coords": [
+                        7.500386,
+                        46.919007
+                  ]
+            },
+            {
+                  "name": "Egelsee",
+                  "text": "Egelsee din Muri bei Bern este un lac natural în apropierea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        7.465027,
+                        46.944437
+                  ]
+            },
+            {
+                  "name": "Feuerweier",
+                  "text": "Feuerweier din Muri bei Bern este un iaz mic și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        7.585384,
+                        46.962297
+                  ]
+            },
+            {
+                  "name": "Robinson",
+                  "text": "Un loc de joacă Robinson popular în Muri bei Bern pentru micii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        7.489457,
+                        46.955586
+                  ]
+            },
+            {
+                  "name": "Schule Aebnit",
+                  "text": "Locul de joacă al școlii Aebnit din Muri bei Bern oferă copiilor multă bucurie.",
+                  "category": "family",
+                  "coords": [
+                        7.496981,
+                        46.928683
+                  ]
+            },
+            {
+                  "name": "Spielplatz Belpmoos",
+                  "text": "Un loc de joacă frumos în zona Belpmoos din Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.499728,
+                        46.913831
+                  ]
+            },
+            {
+                  "name": "Quartiertreff Thunplatz",
+                  "text": "Un loc de întâlnire cu posibilități de joacă la Thunplatz în Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.45937,
+                        46.939599
+                  ]
+            },
+            {
+                  "name": "Spielhafen",
+                  "text": "Spielhafen din Muri bei Bern este un loc minunat pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.47784,
+                        46.929897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Elfenaupark",
+                  "text": "Locul de joacă din parcul Elfenau oferă relaxare și distracție în Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.467937,
+                        46.933207
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gryphenhübeli",
+                  "text": "Un loc de joacă primitor în cartierul Gryphenhübeli din Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.456005,
+                        46.944185
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rosengarten",
+                  "text": "Un loc de joacă cunoscut în Rosengarten, Muri bei Bern, cu o vedere frumoasă.",
+                  "category": "family",
+                  "coords": [
+                        7.460792,
+                        46.951217
+                  ]
+            },
+            {
+                  "name": "Spielplatz N6-Überdeckung",
+                  "text": "Un loc de joacă modern pe acoperirea N6 din Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.473523,
+                        46.942444
+                  ]
+            },
+            {
+                  "name": "Bächtele",
+                  "text": "Locul de joacă Bächtele din Muri bei Bern invită copiii la explorare.",
+                  "category": "family",
+                  "coords": [
+                        7.456709,
+                        46.924427
+                  ]
+            },
+            {
+                  "name": "Lernschwimmbecken Schule Rüfenacht",
+                  "text": "Această piscină de învățare din Rüfenacht oferă condiții ideale pentru copiii care învață să înoate.",
+                  "category": "family",
+                  "coords": [
+                        7.53993,
+                        46.931337
+                  ]
+            },
+            {
+                  "name": "Giessenbad Belp",
+                  "text": "Giessenbad Belp este o piscină în aer liber populară pentru familiile din regiune.",
+                  "category": "family",
+                  "coords": [
+                        7.504952,
+                        46.911125
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa Oktogon",
+                  "text": "Hammam & Spa Oktogon oferă relaxare pentru adulți și familii.",
+                  "category": "family",
+                  "coords": [
+                        7.445089,
+                        46.945377
+                  ]
+            },
+            {
+                  "name": "Tierpark Bern",
+                  "text": "O grădină zoologică spațioasă din Muri bei Bern, cunoscută pentru parcul de urși și speciile locale.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "The Zentrum Paul Klee in Muri Bei Bern is an outstanding art museum in Switzerland. It focuses on the impressive life and work of the famous painter Paul Klee. Visitors can marvel at an extensive collection of his fascinating artworks here.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "A historical castle located in the municipality of Muri bei Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Masonic Museum Switzerland",
+                  "text": "In Muri Bei Bern, Switzerland, the Freimaurer Museum Schweiz invites you on a special historical journey of discovery. The exhibition highlights the profound history and symbols of Freemasonry in the country. Interested guests gain unique insights into this often hidden world.",
+                  "category": "museum",
+                  "coords": [
+                        7.48564,
+                        46.93812
+                  ]
+            },
+            {
+                  "name": "Schlössli Kehrsatz",
+                  "text": "A small castle in Kehrsatz, currently used for various public and private purposes.",
+                  "category": "castle",
+                  "coords": [
+                        7.472338,
+                        46.909647
+                  ]
+            },
+            {
+                  "name": "Schloss Gümligen",
+                  "text": "An 18th-century Baroque country castle located in Gümligen.",
+                  "category": "castle",
+                  "coords": [
+                        7.515203,
+                        46.934705
+                  ]
+            },
+            {
+                  "name": "Bear park",
+                  "text": "A park where bears can be observed in a natural environment.",
+                  "category": "family",
+                  "coords": [
+                        7.459139,
+                        46.947694
+                  ]
+            },
+            {
+                  "name": "Schloss Wittigkofen",
+                  "text": "A heritage-listed castle estate located on the outskirts of Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.48174,
+                        46.942569
+                  ]
+            },
+            {
+                  "name": "Prähistorische Wehranlage Hüenliwald",
+                  "text": "The remains of a prehistoric fortification located in the Hüenliwald forest.",
+                  "category": "historical",
+                  "coords": [
+                        7.517677,
+                        46.921854
+                  ]
+            },
+            {
+                  "name": "5ème étage",
+                  "text": "A stage for theatre and small-scale performances in the Muri region.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456365,
+                        46.946787
+                  ]
+            },
+            {
+                  "name": "Pro Natura Zentrum Eichholz",
+                  "text": "A nature conservation centre on the Aare river providing information on local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        7.459323,
+                        46.933773
+                  ]
+            },
+            {
+                  "name": "Ostermundigeberg",
+                  "text": "A viewpoint and forested hill located near Bern.",
+                  "category": "natural",
+                  "coords": [
+                        7.503365,
+                        46.948142
+                  ]
+            },
+            {
+                  "name": "Elfenau",
+                  "text": "A historical park on the banks of the Aare river, serving as a popular recreation area.",
+                  "category": "park",
+                  "coords": [
+                        7.466124,
+                        46.932753
+                  ]
+            },
+            {
+                  "name": "Hofgut Gümligen",
+                  "text": "A representative historical manor estate located in Gümligen.",
+                  "category": "historical",
+                  "coords": [
+                        7.512279,
+                        46.933745
+                  ]
+            },
+            {
+                  "name": "Ulrich Stucky",
+                  "text": "A monument dedicated to Ulrich Stucky in the municipality of Muri.",
+                  "category": "historical",
+                  "coords": [
+                        7.475081,
+                        46.947429
+                  ]
+            },
+            {
+                  "name": "Rothirsch",
+                  "text": "An enclosure for observing red deer within the animal park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.452141,
+                        46.934055
+                  ]
+            },
+            {
+                  "name": "Alpine ibex",
+                  "text": "An exhibit in the animal park showcasing Alpine ibexes in a rocky environment.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454004,
+                        46.933971
+                  ]
+            },
+            {
+                  "name": "popup galerie am dreieck",
+                  "text": "A temporary gallery for contemporary art and various exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.487104,
+                        46.957934
+                  ]
+            },
+            {
+                  "name": "Bezoar ibex",
+                  "text": "An animal exhibit for observing the rare Bezoar ibex.",
+                  "category": "landmark",
+                  "coords": [
+                        7.454989,
+                        46.934373
+                  ]
+            },
+            {
+                  "name": "Herrenhaus",
+                  "text": "A representative historical residential house or manor in Muri.",
+                  "category": "historical",
+                  "coords": [
+                        7.46804,
+                        46.948144
+                  ]
+            },
+            {
+                  "name": "St Ursula's Church",
+                  "text": "The English-speaking Anglican church serving the Bern region.",
+                  "category": "religious",
+                  "coords": [
+                        7.453383,
+                        46.939856
+                  ]
+            },
+            {
+                  "name": "ökumenisches Zentrum Kehrsatz (OEKI)",
+                  "text": "A religious centre in Kehrsatz used by various Christian denominations.",
+                  "category": "religious",
+                  "coords": [
+                        7.473705,
+                        46.912599
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Ostermundigen",
+                  "text": "The administrative centre and town hall of the Ostermundigen municipality.",
+                  "category": "historical",
+                  "coords": [
+                        7.496349,
+                        46.957941
+                  ]
+            },
+            {
+                  "name": "Untertorturm",
+                  "text": "A historical tower at the Untertorbrücke, formerly part of the city's fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        7.459028,
+                        46.949373
+                  ]
+            },
+            {
+                  "name": "Petruskirche",
+                  "text": "An Evangelical Reformed church located in the Kirchenfeld district of Bern.",
+                  "category": "religious",
+                  "coords": [
+                        7.463668,
+                        46.938933
+                  ]
+            },
+            {
+                  "name": "Misión de habla española",
+                  "text": "A Catholic mission serving the Spanish-speaking community in Bern.",
+                  "category": "religious",
+                  "coords": [
+                        7.486757,
+                        46.95907
+                  ]
+            },
+            {
+                  "name": "Auguetbrücke",
+                  "text": "A historical covered wooden bridge crossing the Aare river.",
+                  "category": "landmark",
+                  "coords": [
+                        7.500386,
+                        46.919007
+                  ]
+            },
+            {
+                  "name": "Egelsee",
+                  "text": "The Egelsee in Muri bei Bern is a natural lake close to the city.",
+                  "category": "natural",
+                  "coords": [
+                        7.465027,
+                        46.944437
+                  ]
+            },
+            {
+                  "name": "Feuerweier",
+                  "text": "The Feuerweier in Muri bei Bern is a small, quiet pond.",
+                  "category": "natural",
+                  "coords": [
+                        7.585384,
+                        46.962297
+                  ]
+            },
+            {
+                  "name": "Robinson",
+                  "text": "A popular Robinson playground in Muri bei Bern for little adventurers.",
+                  "category": "family",
+                  "coords": [
+                        7.489457,
+                        46.955586
+                  ]
+            },
+            {
+                  "name": "Schule Aebnit",
+                  "text": "The playground at Schule Aebnit in Muri bei Bern offers children much joy.",
+                  "category": "family",
+                  "coords": [
+                        7.496981,
+                        46.928683
+                  ]
+            },
+            {
+                  "name": "Spielplatz Belpmoos",
+                  "text": "A nice playground in the Belpmoos area of Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.499728,
+                        46.913831
+                  ]
+            },
+            {
+                  "name": "Quartiertreff Thunplatz",
+                  "text": "A meeting point with play facilities at Thunplatz in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.45937,
+                        46.939599
+                  ]
+            },
+            {
+                  "name": "Spielhafen",
+                  "text": "The Spielhafen in Muri bei Bern is a great place for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        7.47784,
+                        46.929897
+                  ]
+            },
+            {
+                  "name": "Spielplatz Elfenaupark",
+                  "text": "The playground in Elfenaupark offers relaxation and play fun in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.467937,
+                        46.933207
+                  ]
+            },
+            {
+                  "name": "Spielplatz Gryphenhübeli",
+                  "text": "A cozy playground in the Gryphenhübeli neighborhood of Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.456005,
+                        46.944185
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rosengarten",
+                  "text": "A well-known playground in the Rosengarten in Muri bei Bern with a beautiful view.",
+                  "category": "family",
+                  "coords": [
+                        7.460792,
+                        46.951217
+                  ]
+            },
+            {
+                  "name": "Spielplatz N6-Überdeckung",
+                  "text": "A modern playground on the N6 covering in Muri bei Bern.",
+                  "category": "family",
+                  "coords": [
+                        7.473523,
+                        46.942444
+                  ]
+            },
+            {
+                  "name": "Bächtele",
+                  "text": "The Bächtele playground in Muri bei Bern invites children to explore.",
+                  "category": "family",
+                  "coords": [
+                        7.456709,
+                        46.924427
+                  ]
+            },
+            {
+                  "name": "Lernschwimmbecken Schule Rüfenacht",
+                  "text": "The learning pool in Rüfenacht offers ideal conditions for children to learn how to swim.",
+                  "category": "family",
+                  "coords": [
+                        7.53993,
+                        46.931337
+                  ]
+            },
+            {
+                  "name": "Giessenbad Belp",
+                  "text": "Giessenbad Belp is a popular outdoor pool for families in the region.",
+                  "category": "family",
+                  "coords": [
+                        7.504952,
+                        46.911125
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa Oktogon",
+                  "text": "Hammam & Spa Oktogon offers relaxation for adults and families.",
+                  "category": "family",
+                  "coords": [
+                        7.445089,
+                        46.945377
+                  ]
+            },
+            {
+                  "name": "Berne Animal Park",
+                  "text": "A spacious animal park in Muri bei Bern, known for its bear park and local wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        7.451166,
+                        46.934598
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "CH-BE", "coords": [7.4906, 46.9335], "population": 13029, "image": "/geo-images/switzerland/ch-muri-bei-bern.webp", "name": {"de": "Muri bei Bern", "hu": "Muri bei Bern", "ro": "Muri bei Bern", "en": "Muri bei Bern"}, "description": {"de": "Eine exklusive Wohngemeinde vor den Toren der Bundeshauptstadt Bern, die fuer ihre hohe Lebensqualitaet und historische Architektur bekannt ist.", "hu": "Bern közvetlen szomszédságában fekvő előkelő lakóövezet, amely magas életminőségéről és patinás építészeti örökségéről nevezetes.", "ro": "O zonă rezidențială exclusivistă situată la porțile capitalei Berna, cunoscută pentru calitatea ridicată a vieții și arhitectura sa istorică.", "en": "An exclusive residential community on the outskirts of the Swiss capital, Bern, known for its high quality of life and historic architecture."}, "facts": {"de": ["Vorort von Bern", "Kanton Bern", "Aaretal-Lage", "Hohes Einkommen"], "hu": ["Bern elővárosa", "Bern kanton", "Aare-völgyi fekvés", "Magas jövedelmi szint"], "ro": ["Suburbie a Bernei", "Cantonul Berna", "Localizare în valea Aare", "Venituri ridicate"], "en": ["Suburb of Bern", "Canton of Bern", "Aare Valley location", "High income level"]}, "descriptionAdvanced": {"de": "Muri bei Bern ist eine politische Gemeinde im Verwaltungskreis Bern-Mittelland des Kantons Bern. Die Gemeinde setzt sich aus den beiden markanten Ortsteilen Muri und Guemligen zusammen und gilt als einer der steuerguenstigsten und wohlhabendsten Orte in der Region. Geografisch liegt Muri auf einer Terrasse ueber dem Aaretal, was den Bewohnern eine beeindruckende Sicht auf die Berner Alpen und die nahegelegene Stadt Bern bietet. Die Geschichte der Gemeinde reicht weit zurueck, wobei die erste urkundliche Erwaehnung auf das Jahr 1180 datiert wird. Architektonisch ist Muri bei Bern besonders durch seine herrschaftlichen Landsitze und Schloesser gepraegt, wie etwa das Schloss Guemligen, ein bedeutender Spaetbarockbau aus dem 18. Jahrhundert. Trotz der Urbanisierung hat die Gemeinde ihren gruenen Charakter bewahrt, was durch die Naehe zur Aare und weitlaeufige Naherholungsgebiete unterstrichen wird. Wirtschaftlich ist der Ort stark vom Dienstleistungssektor und der Praesenz zahlreicher Pendler gepraegt, die in der nahen Hauptstadt arbeiten. Die Infrastruktur ist hervorragend ausgebaut, mit direkten Anbindungen an das S-Bahn-Netz und das Autobahnnetz, was Muri zu einem bevorzugten Wohnstandort fuer Fachkraefte und Familien macht.", "hu": "Muri bei Bern egy svájci politikai község Bern kantonban, a Bern-Mittelland közigazgatási kerületben. A település két fő részből, Muriból és Gümligenből áll, és a régió egyik leggazdagabb, legalacsonyabb adókulccsal rendelkező közösségeként ismert. Földrajzilag az Aare-völgy feletti teraszon helyezkedik el, ahonnan pazar kilátás nyílik a Berni-Alpokra és a fővárosra. A település története a távoli múltba nyúlik vissza, első írásos említése 1180-ból származik. Építészetileg a település meghatározó elemei a nagypolgári kúriák és kastélyok, köztük a 18. századi, késő barokk stílusú Gümligen-kastély, amely országos jelentőségű műemlék. Az urbanizáció ellenére a község megőrizte zöld jellegét, köszönhetően az Aare folyó közelségének és a tágas rekreációs területeknek. Gazdaságilag a szolgáltató szektor dominál, lakosságának jelentős része a közeli Bernben dolgozik. Kiváló infrastruktúrája, a közvetlen S-Bahn- és autópálya-kapcsolatok miatt a szakemberek és családok körében az egyik legkedveltebb lakóhely a környéken, ahol a városi kényelem és a vidéki nyugalom tökéletes egyensúlyban van.", "ro": "Muri bei Bern este o municipalitate din districtul administrativ Bern-Mittelland al cantonului Berna. Comunitatea este formată din două districte principale, Muri și Gümligen, fiind considerată una dintre cele mai prospere localități din regiune, cu un nivel scăzut de impozitare. Geografic, Muri este situat pe o terasă deasupra văii râului Aare, oferind rezidenților o vedere impresionantă asupra Alpilor Bernezi și a orașului Berna. Istoria localității este una veche, prima mențiune documentară datând din anul 1180. Din punct de vedere arhitectural, Muri bei Bern este marcat de numeroase reședințe nobiliare și castele, cum ar fi Castelul Gümligen, o clădire barocă târzie semnificativă din secolul al XVIII-lea. În ciuda urbanizării, municipalitatea și-a păstrat caracterul verde, subliniat de apropierea de râul Aare și de zonele extinse de recreere. Economic, localitatea este dominată de sectorul serviciilor și de prezența numeroșilor navetiști care lucrează în capitala federală. Infrastructura este excelent dezvoltată, cu conexiuni directe la rețeaua feroviară S-Bahn și la autostradă, ceea ce face din Muri o locație rezidențială preferată pentru familii și profesioniști.", "en": "Muri bei Bern is a municipality in the Bern-Mittelland administrative district of the Canton of Bern. It consists of two main districts, Muri and Guemligen, and is widely regarded as one of the wealthiest towns in the region with a very favorable tax rate. Geographically situated on a plateau above the Aare Valley, it provides residents with stunning views of the Bernese Alps and the nearby city of Bern. The history of the community stretches back centuries, with the first official records dating to 1180. Architecturally, Muri bei Bern is defined by its grand manor houses and castles, most notably Guemligen Castle, an important late-Baroque structure from the 18th century. Despite modernization, the municipality has retained its lush, green character, enhanced by its proximity to the Aare river and vast recreational areas. Economically, the town is driven by the service sector and its role as a premier residential area for professionals commuting to the capital. The infrastructure is top-tier, featuring direct access to the S-Bahn rail system and major highways, making it a highly sought-after location for families seeking a balance between urban proximity and suburban tranquility."}, "factsAdvanced": {"de": ["Gegruendet um 1180", "Zwei Ortsteile: Muri und Guemligen", "Schloss Guemligen Wahrzeichen", "Niedrigster Steuersatz im Kanton", "Direkte Naehe zur Aare", "Villenquartier Charakter"], "hu": ["1180 körül alapították", "Két városrész: Muri és Gümligen", "A Gümligen-kastély a fő jelképe", "A kanton legalacsonyabb adókulcsa", "Az Aare folyó szomszédsága", "Vilanegyed jellegű település"], "ro": ["Fondată în jurul anului 1180", "Două districte: Muri și Gümligen", "Castelul Gümligen este simbolul local", "Cea mai mică rată de impozitare din canton", "Proximitate directă față de râul Aare", "Caracter de cartier de vile de lux"], "en": ["Founded around 1180", "Two districts: Muri and Guemligen", "Guemligen Castle is a landmark", "Lowest tax rate in the canton", "Direct proximity to the Aare river", "Distinctive villa-quarter character"]}, "faq": {"de": [{"q": "Warum ist Muri bei Bern so beliebt?", "a": "Es bietet eine Kombination aus niedrigen Steuern, hoher Sicherheit und der direkten Naehe zur Stadt Bern."}, {"q": "Gibt es historische Sehenswuerdigkeiten?", "a": "Ja, besonders das Schloss Guemligen und die reformierte Kirche von Muri sind sehenswert."}, {"q": "Wie ist die Verkehrsanbindung?", "a": "Die Gemeinde ist durch mehrere S-Bahn-Linien und Busse perfekt an Bern angebunden."}, {"q": "Welche Freizeitmoeglichkeiten gibt es?", "a": "Spaziergaenge an der Aare und Ausfluege in den nahegelegenen Guemligenwald sind sehr beliebt."}], "hu": [{"q": "Miért olyan népszerű Muri bei Bern?", "a": "Az alacsony adók, a magas közbiztonság és Bern közelsége miatt az egyik legvonzóbb település."}, {"q": "Vannak történelmi látnivalók?", "a": "Igen, különösen a Gümligen-kastély és Muri református temploma érdemel figyelmet."}, {"q": "Milyen a közlekedés?", "a": "A település több S-Bahn vonallal és buszjáratokkal tökéletesen kapcsolódik Bernhez."}, {"q": "Milyen kikapcsolódási lehetőségek vannak?", "a": "Az Aare-parti séták és a gümligeni erdőben tett kirándulások igen kedveltek."}], "ro": [{"q": "De ce este Muri bei Bern atât de popular?", "a": "Oferă o combinație de taxe mici, siguranță ridicată și proximitate directă față de orașul Berna."}, {"q": "Există obiective istorice de vizitat?", "a": "Da, în special Castelul Gümligen și biserica reformată din Muri merită vizitate."}, {"q": "Cum este conexiunea de transport?", "a": "Municipalitatea este conectată perfect de Berna prin mai multe linii S-Bahn și autobuze."}, {"q": "Ce activități de agrement sunt disponibile?", "a": "Plimbările pe malul râului Aare și excursiile în pădurea Gümligenwald sunt foarte populare."}], "en": [{"q": "Why is Muri bei Bern so popular?", "a": "It offers a blend of low taxes, high safety, and immediate proximity to the city of Bern."}, {"q": "Are there any historic sights?", "a": "Yes, notably Guemligen Castle and the Reformed Church of Muri are worth seeing."}, {"q": "How is the public transport?", "a": "The community is perfectly connected to Bern via several S-Bahn lines and buses."}, {"q": "What leisure activities are available?", "a": "Walks along the Aare river and excursions into the Guemligen forest are very popular."}]}},
   {"id": "ch-delsberg", "sights": {
       "de": [
             {
@@ -116690,7 +120965,1060 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "CH-ZH", "coords": [8.4544, 47.2785], "population": 12701, "image": "/geo-images/switzerland/ch-affoltern-am-albis.webp", "name": {"de": "Affoltern am Albis", "hu": "Affoltern am Albis", "ro": "Affoltern am Albis", "en": "Affoltern am Albis"}, "description": {"de": "Der Hauptort des Bezirks Affoltern liegt eingebettet in die sanfte Huegellandschaft zwischen Zuerich und Zug und bietet eine hohe Lebensqualitaet.", "hu": "Az Affoltern járás központja Zürich és Zug között, szelíd dombos vidéken fekszik, és kiváló életminőséget kínál lakóinak.", "ro": "Reședința districtului Affoltern este situată între dealurile domoale dintre Zürich și Zug, oferind o calitate ridicată a vieții.", "en": "The main town of the Affoltern district is nestled in the rolling hills between Zurich and Zug, offering a high quality of life."}, "facts": {"de": ["Bezirkshauptort", "Kanton Zuerich", "Knonauer Amt", "Naturnahe Lage"], "hu": ["Járási székhely", "Zürich kanton", "Knonauer Amt régió", "Természetközeli fekvés"], "ro": ["Reședință de district", "Cantonul Zürich", "Regiunea Knonauer Amt", "Locație în natură"], "en": ["District capital", "Canton of Zurich", "Knonauer Amt region", "Nature-oriented location"]}, "descriptionAdvanced": {"de": "Affoltern am Albis ist der Hauptort des gleichnamigen Bezirks im Kanton Zuerich und bildet das Zentrum des sogenannten Knonauer Amts. Geografisch liegt die Stadt in einer malerischen Huegellandschaft westlich der Albis-Kette, strategisch ideal zwischen den Wirtschaftszentren Zuerich und Zug. Die Geschichte von Affoltern ist eng mit der Landwirtschaft und spaeter mit der industriellen Entwicklung im 19. Jahrhundert verknuepft, die durch den Anschluss an die Bahnstrecke Zuerich-Zug im Jahr 1864 befeuert wurde. Heute ist Affoltern eine moderne Stadt, die eine wichtige Zentrumsfunktion fuer die umliegenden Doerfer einnimmt. Sie verfuegt ueber eine umfassende Infrastruktur mit Spitälern, Schulen und vielfaeltigen Einkaufsmoeglichkeiten. Ein bedeutendes kulturelles Zentrum ist das Casino Affoltern, das regelmässig Konzerte und Theaterauffuehrungen bietet. Die Umgebung von Affoltern ist gepraegt von unberuehrter Natur, wie dem Naturschutzgebiet rund um den Aegelsee, das ein wichtiges Refugium fuer seltene Pflanzen und Tiere darstellt. Dank der ausgezeichneten Verkehrsanbindung durch die Autobahn A4 und die S-Bahn ist die Stadt zu einem beliebten Wohnort fuer Menschen geworden, die die Ruhe des Landes suchen, aber dennoch die Naehe zu den Grossstaedten schaetzen. Trotz des Wachstums hat sich Affoltern seinen kleinstädtischen Charme bewahrt und foerdert durch zahlreiche Vereine und Veranstaltungen ein aktives Gemeinschaftsleben.", "hu": "Affoltern am Albis az azonos nevű járás székhelye Zürich kantonban, és az úgynevezett Knonauer Amt központját alkotja. Földrajzilag a város az Albis-lánctól nyugatra, festői dombos vidéken fekszik, stratégiailag ideális helyen Zürich és Zug gazdasági központjai között. Affoltern története szorosan összefügg a mezőgazdasággal, majd később a 19. századi ipari fejlődéssel, amelyet a Zürich-Zug vasútvonal 1864-es megnyitása lendített fel. Ma Affoltern egy modern város, amely fontos központi funkciót tölt be a környező falvak számára. Átfogó infrastruktúrával rendelkezik, kórházakkal, iskolákkal és változatos vásárlási lehetőségekkel. Jelentős kulturális központja a Casino Affoltern, amely rendszeresen ad otthont koncerteknek és színházi előadásoknak. Affoltern környékét érintetlen természet jellemzi, mint például az Ägelsee körüli természetvédelmi terület, amely ritka növények és állatok fontos menedékhelye. Az A4-es autópálya és az S-Bahn kiváló közlekedési kapcsolatainak köszönhetően a város kedvelt lakóhellyé vált azok számára, akik a vidék nyugalmát keresik, de értékelik a nagyvárosok közelségét is. A növekedés ellenére Affoltern megőrizte kisvárosi báját, és számos egyesületen és rendezvényen keresztül aktív közösségi életet tart fenn.", "ro": "Affoltern am Albis este reședința districtului cu același nume din cantonul Zürich și constituie centrul regiunii numite Knonauer Amt. Geografic, orașul este situat într-un peisaj colinar pitoresc la vest de lanțul muntos Albis, fiind poziționat ideal din punct de vedere strategic între centrele economice Zürich și Zug. Istoria localității Affoltern este strâns legată de agricultură și, ulterior, de dezvoltarea industrială din secolul al XIX-lea, stimulată de conectarea la linia ferată Zürich-Zug în 1864. Astăzi, Affoltern este un oraș modern care îndeplinește o funcție centrală importantă pentru satele învecinate. Dispune de o infrastructură cuprinzătoare, cu spitale, școli și diverse posibilități de cumpărături. Un centru cultural semnificativ este Casino Affoltern, care oferă în mod regulat concerte și spectacole de teatru. Împrejurimile orașului sunt marcate de natură neatinsă, cum ar fi rezervația naturală din jurul lacului Ägelsee, care reprezintă un refugiu important pentru plante și animale rare. Datorită conexiunii excelente de transport prin autostrada A4 și trenul S-Bahn, orașul a devenit un loc de reședință popular pentru persoanele care caută liniștea rurală, dar apreciază în același timp proximitatea marilor orașe. În ciuda creșterii sale, Affoltern și-a păstrat farmecul de oraș mic și promovează o viață comunitară activă prin numeroase asociații și evenimente.", "en": "Affoltern am Albis is the capital of the district of the same name in the Canton of Zurich and serves as the hub of the Knonauer Amt region. Geographically, the town is situated in a picturesque hilly landscape west of the Albis mountain range, ideally positioned between the economic powerhouses of Zurich and Zug. The history of Affoltern is deeply rooted in agriculture and later in the industrial boom of the 19th century, which was sparked by its connection to the Zurich-Zug railway line in 1864. Today, Affoltern is a modern town that fulfills a vital central role for the surrounding villages. it boasts a comprehensive infrastructure, including hospitals, schools, and diverse shopping opportunities. A significant cultural venue is the Casino Affoltern, which regularly hosts concerts and theatrical performances. The surrounding area of Affoltern is characterized by pristine nature, such as the nature reserve around Lake Aegelsee, a vital sanctuary for rare plants and wildlife. Thanks to excellent transport links via the A4 motorway and the S-Bahn rail network, the town has become a popular residential choice for those seeking country peace while remaining close to major cities. Despite its growth, Affoltern has maintained its small-town charm and fosters an active community life through numerous clubs and local events."}, "factsAdvanced": {"de": ["Zentrum Knonauer Amt", "Bahnanschluss seit 1864", "Naturschutzgebiet Aegelsee", "Zwischen Zuerich und Zug", "Kulturelles Casino Zentrum", "Bezirkshauptstadt Funktion"], "hu": ["Knonauer Amt központja", "Vasút 1864 óta", "Ägelsee természetvédelmi terület", "Zürich és Zug között", "Casino kulturális központ", "Járási székhely funkció"], "ro": ["Centrul Knonauer Amt", "Cale ferată din 1864", "Rezervația naturală Ägelsee", "Între Zürich și Zug", "Centrul cultural Casino", "Funcție de reședință de district"], "en": ["Center of Knonauer Amt", "Railway access since 1864", "Aegelsee nature reserve", "Between Zurich and Zug", "Casino cultural hub", "District capital function"]}, "faq": {"de": [{"q": "Was ist das Knonauer Amt?", "a": "Es ist die Region im Suedwesten des Kantons Zuerich, deren Zentrum Affoltern ist."}, {"q": "Welche Natursehenswuerdigkeiten gibt es?", "a": "Das Naturschutzgebiet Aegelsee ist ideal fuer Wanderungen und Naturbeobachtungen."}, {"q": "Wie schnell ist man in Zuerich?", "a": "Mit der S-Bahn dauert die Fahrt in das Zentrum von Zuerich etwa 30 Minuten."}, {"q": "Gibt es kulturelle Highlights?", "a": "Ja, das Casino Affoltern bietet ein breites Programm von Theater bis Konzerten."}], "hu": [{"q": "Mi az a Knonauer Amt?", "a": "Zürich kanton délnyugati régiója, amelynek Affoltern a központja."}, {"q": "Milyen természeti látnivalók vannak?", "a": "Az Ägelsee természetvédelmi terület ideális túrázáshoz és megfigyeléshez."}, {"q": "Milyen gyorsan lehet Zürichbe érni?", "a": "Az S-Bahn-nal az út Zürich központjába körülbelül 30 percet vesz igénybe."}, {"q": "Vannak kulturális események?", "a": "Igen, a Casino Affoltern széles programkínálattal rendelkezik a színháztól a koncertekig."}], "ro": [{"q": "Ce este Knonauer Amt?", "a": "Este regiunea din sud-vestul cantonului Zürich, al cărei centru este Affoltern."}, {"q": "Ce atracții naturale există?", "a": "Rezervația naturală Ägelsee este ideală pentru drumeții și observarea naturii."}, {"q": "Cât de repede se ajunge în Zürich?", "a": "Cu trenul S-Bahn, călătoria până în centrul orașului Zürich durează aproximativ 30 de minute."}, {"q": "Există evenimente culturale deosebite?", "a": "Da, Casino Affoltern oferă un program variat, de la teatru la concerte."}], "en": [{"q": "What is the Knonauer Amt?", "a": "It is the region in the southwest of the Canton of Zurich, with Affoltern as its center."}, {"q": "What natural sights are there?", "a": "The Aegelsee nature reserve is perfect for hiking and observing local wildlife."}, {"q": "How fast can you reach Zurich?", "a": "The S-Bahn journey to the center of Zurich takes approximately 30 minutes."}, {"q": "Are there cultural highlights?", "a": "Yes, the Casino Affoltern offers a diverse program ranging from theater to concerts."}]}},
-  {"id": "ch-rã¼ti", "sights": {"de": [{"name": "Wydenchlösterli", "text": "Die Ruinen eines ehemaligen Frauenklosters aus dem 13. Jahrhundert bei Rüti.", "category": "historical", "coords": [8.852755, 47.246393]}, {"name": "Nähmaschinen-Museum", "text": "Beherbergt eine umfangreiche Sammlung historischer Nähmaschinen aus aller Welt.", "category": "museum", "coords": [8.878573, 47.269465]}, {"name": "Schloss Meienberg", "text": "Ein spätgotischer Landsitz in Rüti, der für seine Architektur bekannt ist.", "category": "castle", "coords": [8.830267, 47.235135]}, {"name": "Sternenkeller", "text": "Eine Kleinkunstbühne in Rüti, die Kabarett, Musik und Theater präsentiert.", "category": "cultural", "coords": [8.857911, 47.255429]}, {"name": "Ritterhaus Bubikon", "text": "Ein bedeutendes Museum in einem ehemaligen Johanniterhaus in der Nähe von Rüti.", "category": "museum", "coords": [8.828481, 47.26668]}, {"name": "KMM Kulturzentrum", "text": "Ein lokales Kulturzentrum und Museum in Rueti.", "category": "museum", "coords": [8.843524, 47.280752]}, {"name": "Feuerwehr", "text": "Ein Feuerwehrmuseum in Rueti.", "category": "museum", "coords": [8.849711, 47.259156]}, {"name": "Chilchberg", "text": "Der Chilchberg ist ein malerischer Aussichtspunkt in der Natur rund um die Schweizer Gemeinde Rueti. Von hier oben bietet sich Wanderern und Naturfreunden ein herrlicher Blick auf die umliegende Landschaft. Es ist ein perfekter Ort, um die Ruhe der Natur zu genießen.", "category": "natural", "coords": [8.846027, 47.279679]}, {"name": "Frohberg", "text": "Ein Aussichtspunkt, der Panoramaausblicke über die Region bietet.", "category": "natural", "coords": [8.827247, 47.241629]}, {"name": "Schrännen", "text": "Ein ruhiger Aussichtspunkt in der Nähe von Rueti.", "category": "natural", "coords": [8.823432, 47.246169]}, {"name": "oberer Rüssel", "text": "Ein lokaler Aussichtspunkt in der Gemeinde Rueti.", "category": "natural", "coords": [8.815311, 47.247664]}, {"name": "Johannisberg", "text": "Ein erhöhter Punkt mit schöner Aussicht auf die Landschaft.", "category": "natural", "coords": [8.845604, 47.23312]}, {"name": "Martinsbrünneli", "text": "Eine lokale Sehenswürdigkeit in Rueti.", "category": "landmark", "coords": [8.835179, 47.246314]}, {"name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten", "text": "Ein Naturthemenpfad, der sich mit geologischen Steingeschichten befasst.", "category": "landmark", "coords": [8.847315, 47.236889]}, {"name": "Hl. Dreifaltigkeit", "text": "Eine katholische Kirche in der Region Dürnten-Tann bei Rueti.", "category": "religious", "coords": [8.850218, 47.262924]}, {"name": "Altes Amtshaus", "text": "Ein historisches Verwaltungsgebäude in Rueti.", "category": "historical", "coords": [8.848601, 47.259551]}, {"name": "ETG Weinberg", "text": "Ein religiöses Gemeindezentrum der Evangelischen Täufergemeinden.", "category": "religious", "coords": [8.858665, 47.261915]}, {"name": "Seeweidsee", "text": "Ein naturnaher See in Rüti, der eine friedliche Umgebung bietet.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "Ein bedeutender See bei Rüti, bekannt für seine schöne Landschaft.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Katzentobelbach", "text": "Ein Gewässer in Rüti, das sich harmonisch in die Natur einfügt.", "category": "natural", "coords": [8.851712, 47.276662]}, {"name": "Strickelweiher", "text": "Ein stiller Weiher in Rüti, ideal für eine kurze Auszeit im Grünen.", "category": "natural", "coords": [8.941828, 47.270561]}, {"name": "Weier", "text": "Ein kleines Gewässer in Rüti für entspannte Momente in der Natur.", "category": "natural", "coords": [8.948779, 47.27414]}, {"name": "Spielplatz Feienbächli", "text": "Ein Spielplatz am Feienbächli in Rüti für Kinder.", "category": "family", "coords": [8.854257, 47.254334]}, {"name": "Spielplatz Weinberg", "text": "Spielplatz im Weinberg in Rüti für abwechslungsreiches Spielen.", "category": "family", "coords": [8.857555, 47.261184]}, {"name": "Kinderspielplatz Kramenweg", "text": "Ein Kinderspielplatz am Kramenweg in Rüti für Familien.", "category": "family", "coords": [8.848032, 47.230495]}, {"name": "Badi Rüti", "text": "Das Badi Rüti in Rueti bietet sportliche Möglichkeiten und Erholung im kühlen Nass.", "category": "family", "coords": [8.841528, 47.261411]}, {"name": "Lehrschwimmbad Widacher", "text": "Das Lehrschwimmbad Widacher in Rueti ist ideal für Schwimmübungen und entspanntes Baden geeignet.", "category": "family", "coords": [8.850403, 47.252195]}, {"name": "Hallenbad Bergli", "text": "Das Hallenbad Bergli in Rueti lädt das ganze Jahr über zum Schwimmen und Verweilen ein.", "category": "family", "coords": [8.814358, 47.267503]}], "hu": [{"name": "Wydenchlösterli", "text": "Egy egykori 13. századi női kolostor romjai Rüti közelében.", "category": "historical", "coords": [8.852755, 47.246393]}, {"name": "Nähmaschinen-Museum", "text": "Történelmi varrógépek átfogó gyűjteményének ad otthont a világ minden tájáról.", "category": "museum", "coords": [8.878573, 47.269465]}, {"name": "Schloss Meienberg", "text": "Késő gótikus udvarház Rütiben, amely építészetéről ismert.", "category": "castle", "coords": [8.830267, 47.235135]}, {"name": "Sternenkeller", "text": "Kamaraszínpad Rütiben, amely kabarékat, zenét és színházat mutat be.", "category": "cultural", "coords": [8.857911, 47.255429]}, {"name": "Ritterhaus Bubikon", "text": "Jelentős múzeum egy egykori johannita házban, Rüti közelében.", "category": "museum", "coords": [8.828481, 47.26668]}, {"name": "KMM Kulturzentrum", "text": "Rueti helyi kulturális központja és múzeuma.", "category": "museum", "coords": [8.843524, 47.280752]}, {"name": "Feuerwehr", "text": "Tűzoltómúzeum Rueti településen.", "category": "museum", "coords": [8.849711, 47.259156]}, {"name": "Chilchberg", "text": "A Chilchberg egy festői kilátó a természetben, a svájci Rueti község körül. Innen fentről a túrázók és a természetbarátok csodálatos kilátásban gyönyörködhetnek a környező tájra. Tökéletes hely a természet nyugalmának élvezetére.", "category": "natural", "coords": [8.846027, 47.279679]}, {"name": "Frohberg", "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a környékre.", "category": "natural", "coords": [8.827247, 47.241629]}, {"name": "Schrännen", "text": "Csendes kilátóhely Rueti közelében.", "category": "natural", "coords": [8.823432, 47.246169]}, {"name": "oberer Rüssel", "text": "Helyi kilátópont Rueti községben.", "category": "natural", "coords": [8.815311, 47.247664]}, {"name": "Johannisberg", "text": "Magaslati pont szép kilátással a tájra.", "category": "natural", "coords": [8.845604, 47.23312]}, {"name": "Martinsbrünneli", "text": "Helyi látnivaló Rueti településen.", "category": "landmark", "coords": [8.835179, 47.246314]}, {"name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten", "text": "Természeti tanösvény, amely a kőzetek történetével foglalkozik.", "category": "landmark", "coords": [8.847315, 47.236889]}, {"name": "Hl. Dreifaltigkeit", "text": "Katolikus templom Rueti közelében, Dürnten-Tann területén.", "category": "religious", "coords": [8.850218, 47.262924]}, {"name": "Altes Amtshaus", "text": "Történelmi igazgatási épület Rueti településen.", "category": "historical", "coords": [8.848601, 47.259551]}, {"name": "ETG Weinberg", "text": "Az Evangéliumi Anabaptista Gyülekezetek vallási központja.", "category": "religious", "coords": [8.858665, 47.261915]}, {"name": "Seeweidsee", "text": "Természetközeli tó Rütiben, amely békés környezetet biztosít.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "Jelentős tó Rüti közelében, amely szép tájáról ismert.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Katzentobelbach", "text": "Vízfelület Rütiben, amely harmonikusan illeszkedik a természetbe.", "category": "natural", "coords": [8.851712, 47.276662]}, {"name": "Strickelweiher", "text": "Csendes tó Rütiben, amely ideális egy rövid erdei pihenőhöz.", "category": "natural", "coords": [8.941828, 47.270561]}, {"name": "Weier", "text": "Kisméretű vízfelület Rütiben a természetben való ellazuláshoz.", "category": "natural", "coords": [8.948779, 47.27414]}, {"name": "Spielplatz Feienbächli", "text": "Játszótér a rüti Feienbächli területén gyerekeknek.", "category": "family", "coords": [8.854257, 47.254334]}, {"name": "Spielplatz Weinberg", "text": "Játszótér a rüti Weinberg területén a változatos játékért.", "category": "family", "coords": [8.857555, 47.261184]}, {"name": "Kinderspielplatz Kramenweg", "text": "Gyermekjátszótér a rüti Kramenweg területén családoknak.", "category": "family", "coords": [8.848032, 47.230495]}, {"name": "Badi Rüti", "text": "A rueti Badi Rüti sportolási lehetőségeket és pihenést kínál a hűsítő vízben.", "category": "family", "coords": [8.841528, 47.261411]}, {"name": "Lehrschwimmbad Widacher", "text": "A rueti Lehrschwimmbad Widacher ideális úszógyakorlatokhoz és pihentető fürdőzéshez.", "category": "family", "coords": [8.850403, 47.252195]}, {"name": "Hallenbad Bergli", "text": "A rueti Hallenbad Bergli egész évben úszásra és kikapcsolódásra hívja a látogatókat.", "category": "family", "coords": [8.814358, 47.267503]}], "ro": [{"name": "Wydenchlösterli", "text": "Ruinele unei foste mănăstiri de maici din secolul al XIII-lea, lângă Rüti.", "category": "historical", "coords": [8.852755, 47.246393]}, {"name": "Nähmaschinen-Museum", "text": "Găzduiește o colecție extinsă de mașini de cusut istorice din întreaga lume.", "category": "museum", "coords": [8.878573, 47.269465]}, {"name": "Schloss Meienberg", "text": "Un conac în stil gotic târziu din Rüti, cunoscut pentru arhitectura sa.", "category": "castle", "coords": [8.830267, 47.235135]}, {"name": "Sternenkeller", "text": "O scenă de cabaret și teatru în Rüti care prezintă spectacole variate.", "category": "cultural", "coords": [8.857911, 47.255429]}, {"name": "Ritterhaus Bubikon", "text": "Un muzeu important într-o fostă casă a Cavalerilor Ioaniți de lângă Rüti.", "category": "museum", "coords": [8.828481, 47.26668]}, {"name": "KMM Kulturzentrum", "text": "Un centru cultural și muzeu local din Rueti.", "category": "museum", "coords": [8.843524, 47.280752]}, {"name": "Feuerwehr", "text": "Un muzeu al pompierilor din Rueti.", "category": "museum", "coords": [8.849711, 47.259156]}, {"name": "Chilchberg", "text": "Chilchberg este un punct de belvedere pitoresc în natura din jurul comunei elvețiene Rueti. De aici de sus, drumeții și iubitorii de natură au parte de o priveliște minunată asupra peisajului înconjurător. Este un loc perfect pentru a te bucura de liniștea naturii.", "category": "natural", "coords": [8.846027, 47.279679]}, {"name": "Frohberg", "text": "Un punct de observație ce oferă vederi panoramice asupra regiunii.", "category": "natural", "coords": [8.827247, 47.241629]}, {"name": "Schrännen", "text": "Un punct de belvedere liniștit în apropiere de Rueti.", "category": "natural", "coords": [8.823432, 47.246169]}, {"name": "oberer Rüssel", "text": "Un punct de belvedere local din comuna Rueti.", "category": "natural", "coords": [8.815311, 47.247664]}, {"name": "Johannisberg", "text": "Un punct de înălțime cu o vedere frumoasă asupra peisajului.", "category": "natural", "coords": [8.845604, 47.23312]}, {"name": "Martinsbrünneli", "text": "O atracție locală din Rueti.", "category": "landmark", "coords": [8.835179, 47.246314]}, {"name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten", "text": "Un traseu tematic natural dedicat poveștilor geologice ale pietrelor.", "category": "landmark", "coords": [8.847315, 47.236889]}, {"name": "Hl. Dreifaltigkeit", "text": "O biserică catolică din regiunea Dürnten-Tann de lângă Rueti.", "category": "religious", "coords": [8.850218, 47.262924]}, {"name": "Altes Amtshaus", "text": "O clădire administrativă istorică din Rueti.", "category": "historical", "coords": [8.848601, 47.259551]}, {"name": "ETG Weinberg", "text": "Un centru comunitar religios al comunităților baptiste evanghelice.", "category": "religious", "coords": [8.858665, 47.261915]}, {"name": "Seeweidsee", "text": "Un lac în mijlocul naturii în Rüti, care oferă un cadru liniștit.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "Un lac important lângă Rüti, cunoscut pentru peisajul său frumos.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Katzentobelbach", "text": "O apă în Rüti care se integrează armonios în natură.", "category": "natural", "coords": [8.851712, 47.276662]}, {"name": "Strickelweiher", "text": "Un iaz liniștit în Rüti, ideal pentru o scurtă pauză în natură.", "category": "natural", "coords": [8.941828, 47.270561]}, {"name": "Weier", "text": "O mică apă în Rüti pentru momente de relaxare în natură.", "category": "natural", "coords": [8.948779, 47.27414]}, {"name": "Spielplatz Feienbächli", "text": "Un loc de joacă la Feienbächli în Rüti pentru copii.", "category": "family", "coords": [8.854257, 47.254334]}, {"name": "Spielplatz Weinberg", "text": "Loc de joacă în Weinberg, Rüti, pentru activități variate.", "category": "family", "coords": [8.857555, 47.261184]}, {"name": "Kinderspielplatz Kramenweg", "text": "Un loc de joacă pentru copii pe Kramenweg în Rüti pentru familii.", "category": "family", "coords": [8.848032, 47.230495]}, {"name": "Badi Rüti", "text": "Badi Rüti din Rueti oferă oportunități sportive și recreere în apa răcoroasă.", "category": "family", "coords": [8.841528, 47.261411]}, {"name": "Lehrschwimmbad Widacher", "text": "Lehrschwimmbad Widacher din Rueti este ideal pentru exerciții de înot și îmbăiere relaxantă.", "category": "family", "coords": [8.850403, 47.252195]}, {"name": "Hallenbad Bergli", "text": "Hallenbad Bergli din Rueti vă invită la înot și relaxare pe tot parcursul anului.", "category": "family", "coords": [8.814358, 47.267503]}], "en": [{"name": "Wydenchlösterli", "text": "The ruins of a former 13th-century nunnery near Rüti.", "category": "historical", "coords": [8.852755, 47.246393]}, {"name": "Nähmaschinen-Museum", "text": "Houses an extensive collection of historical sewing machines from around the world.", "category": "museum", "coords": [8.878573, 47.269465]}, {"name": "Schloss Meienberg", "text": "A late Gothic manor house in Rüti, known for its architecture.", "category": "castle", "coords": [8.830267, 47.235135]}, {"name": "Sternenkeller", "text": "A small performing arts stage in Rüti presenting cabaret, music, and theatre.", "category": "cultural", "coords": [8.857911, 47.255429]}, {"name": "Ritterhaus Bubikon", "text": "A significant museum in a former house of the Knights Hospitaller near Rüti.", "category": "museum", "coords": [8.828481, 47.26668]}, {"name": "KMM Kulturzentrum", "text": "A local culture center and museum in Rueti.", "category": "museum", "coords": [8.843524, 47.280752]}, {"name": "Feuerwehr", "text": "A fire department museum in Rueti.", "category": "museum", "coords": [8.849711, 47.259156]}, {"name": "Chilchberg", "text": "Chilchberg is a picturesque natural viewpoint surrounding the Swiss municipality of Rueti. From up here, hikers and nature lovers are offered a wonderful view of the surrounding landscape. It is a perfect spot to enjoy the tranquility of nature.", "category": "natural", "coords": [8.846027, 47.279679]}, {"name": "Frohberg", "text": "A viewpoint offering panoramic views of the region.", "category": "natural", "coords": [8.827247, 47.241629]}, {"name": "Schrännen", "text": "A quiet viewpoint located near Rueti.", "category": "natural", "coords": [8.823432, 47.246169]}, {"name": "oberer Rüssel", "text": "A local viewpoint in the municipality of Rueti.", "category": "natural", "coords": [8.815311, 47.247664]}, {"name": "Johannisberg", "text": "An elevated point with a nice view of the landscape.", "category": "natural", "coords": [8.845604, 47.23312]}, {"name": "Martinsbrünneli", "text": "A local attraction in Rueti.", "category": "landmark", "coords": [8.835179, 47.246314]}, {"name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten", "text": "A nature theme trail focusing on geological stone stories.", "category": "landmark", "coords": [8.847315, 47.236889]}, {"name": "Hl. Dreifaltigkeit", "text": "A Catholic church in the Dürnten-Tann region near Rueti.", "category": "religious", "coords": [8.850218, 47.262924]}, {"name": "Altes Amtshaus", "text": "A historic administrative building in Rueti.", "category": "historical", "coords": [8.848601, 47.259551]}, {"name": "ETG Weinberg", "text": "A religious community center of the Evangelical Anabaptist congregations.", "category": "religious", "coords": [8.858665, 47.261915]}, {"name": "Seeweidsee", "text": "A natural lake in Rüti offering a peaceful environment.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Lützelsee", "text": "A significant lake near Rüti, known for its beautiful scenery.", "category": "natural", "coords": [8.772477, 47.2602]}, {"name": "Katzentobelbach", "text": "A body of water in Rüti that blends harmoniously into nature.", "category": "natural", "coords": [8.851712, 47.276662]}, {"name": "Strickelweiher", "text": "A quiet pond in Rüti, ideal for a short break in the countryside.", "category": "natural", "coords": [8.941828, 47.270561]}, {"name": "Weier", "text": "A small body of water in Rüti for relaxing moments in nature.", "category": "natural", "coords": [8.948779, 47.27414]}, {"name": "Spielplatz Feienbächli", "text": "A playground at Feienbächli in Rüti for children.", "category": "family", "coords": [8.854257, 47.254334]}, {"name": "Spielplatz Weinberg", "text": "Playground at Weinberg in Rüti for diverse play.", "category": "family", "coords": [8.857555, 47.261184]}, {"name": "Kinderspielplatz Kramenweg", "text": "A children's playground on Kramenweg in Rüti for families.", "category": "family", "coords": [8.848032, 47.230495]}, {"name": "Badi Rüti", "text": "The Badi Rüti in Rueti offers sporting opportunities and relaxation in the cool water.", "category": "family", "coords": [8.841528, 47.261411]}, {"name": "Lehrschwimmbad Widacher", "text": "The Lehrschwimmbad Widacher in Rueti is ideally suited for swimming practice and relaxed bathing.", "category": "family", "coords": [8.850403, 47.252195]}, {"name": "Hallenbad Bergli", "text": "The Hallenbad Bergli in Rueti invites you to swim and linger all year round.", "category": "family", "coords": [8.814358, 47.267503]}]}, "type": "city", "parent": "CH-ZH", "coords": [8.8527, 47.2557], "population": 12655, "image": "/geo-images/switzerland/ch-rã¼ti.webp", "name": {"de": "Rueti", "hu": "Rüti", "ro": "Rüti", "en": "Rueti"}, "description": {"de": "Eine lebendige Stadt im Zuercher Oberland, die fuer ihr ehemaliges Praemonstratenserkloster und ihre industrielle Textilgeschichte bekannt ist.", "hu": "Egy életteli város a Zürichi-felföldön, amely egykori premontrei kolostoráról és textilipari múltjáról nevezetes.", "ro": "Un oraș plin de viață în regiunea Zürcher Oberland, cunoscut pentru fosta sa abație premonstratensă și istoria sa industrială textilă.", "en": "A vibrant town in the Zurich Highlands, known for its former Premonstratensian Abbey and its industrial textile history."}, "facts": {"de": ["Zuercher Oberland", "Klostergeschichte", "Industrielle Tradition", "Verkehrsknotenpunkt"], "hu": ["Zürichi-felföld", "Kolostortörténet", "Ipari hagyományok", "Közlekedési csomópont"], "ro": ["Zürcher Oberland", "Istoria abației", "Tradiție industrială", "Nod de transport"], "en": ["Zurich Highlands", "Abbey history", "Industrial tradition", "Transport junction"]}, "descriptionAdvanced": {"de": "Rueti ist eine Gemeinde im Bezirk Hinwil des Kantons Zuerich und liegt am Rande des Zuercher Oberlandes an der Grenze zum Kanton St. Gallen. Die Geschichte des Ortes ist untrennbar mit dem Kloster Rueti verbunden, das im Jahr 1206 durch die Freiherren von Regensberg gegruendet wurde. Das Praemonstratenserkloster war im Mittelalter eine der bedeutendsten religioesen Einrichtungen in der Region und diente als Grablege der Grafen von Toggenburg. Nach der Reformation wurde das Kloster aufgehoben, doch die Klosterkirche und Teile der Gebaeude sind bis heute erhalten und bilden den historischen Kern der Stadt. Im 19. Jahrhundert erlebte Rueti eine radikale Transformation durch die Industrialisierung. Die Wasserkraft der Jona wurde genutzt, um zahlreiche Textilfabriken und Maschinenbaubetriebe anzusiedeln, was Rueti zu einem wichtigen industriellen Zentrum machte. Heute ist die Stadt ein moderner Wohn- und Wirtschaftsstandort mit einer sehr guten Infrastruktur. Sie verfuegt ueber einen bedeutenden Bahnhof, der als Umsteigepunkt zwischen den S-Bahn-Linien nach Zuerich, Rapperswil und in das Tösstal dient. Die Umgebung von Rueti bietet attraktive Naherholungsgebiete wie den Bachtel, von dessen Aussichtsturm man einen Panoramablick ueber die Alpen und den Zuerichsee geniessen kann. Kulturell ist Rueti durch diverse Veranstaltungen und eine aktive Vereinskultur gepraegt, die das historische Erbe mit dem modernen staedtischen Leben verknuepfen.", "hu": "Rüti a svájci Zürich kantonban, a Hinwil járásban található, a Zürichi-felföld szélén, St. Gallen kanton határán. A település története elválaszthatatlan a rüti kolostortól, amelyet 1206-ban alapítottak a Regensberg bárók. A premontrei kolostor a középkorban a régió egyik legjelentősebb vallási intézménye volt, és a Toggenburg grófok temetkezési helyeként szolgált. A reformáció után a kolostort feloszlatták, de a kolostortemplom és az épületek egy része a mai napig fennmaradt, és a város történelmi magját alkotja. A 19. században Rüti radikális átalakuláson ment keresztül az iparosodás hatására. A Jona folyó vízi energiáját számos textilgyár és gépgyár betelepítésére használták fel, ami Rütit fontos ipari központtá tette. Ma a város modern lakó- és gazdasági helyszín, kiváló infrastruktúrával. Jelentős vasútállomással rendelkezik, amely átszállóhelyként szolgál a Zürich, Rapperswil és a Tösstal felé tartó S-Bahn vonalak között. Rüti környéke vonzó pihenőhelyeket kínál, mint például a Bachtel-hegy, amelynek kilátótornyából panorámás kilátás nyílik az Alpokra és a Zürichi-tóra. Kulturális szempontból Rütit különféle rendezvények és aktív egyesületi élet jellemzi, amely összeköti a történelmi örökséget a modern városi élettel.", "ro": "Rüti este o municipalitate din districtul Hinwil al cantonului Zürich, situată la marginea regiunii Zürcher Oberland, la granița cu cantonul St. Gallen. Istoria localității este inseparabil legată de Abația Rüti, fondată în 1206 de baronii de Regensberg. Abația premonstratensă a fost una dintre cele mai importante instituții religioase din regiune în Evul Mediu și a servit ca loc de înmormântare pentru conții de Toggenburg. După Reformă, abația a fost desființată, însă biserica abației și părți din clădiri s-au păstrat până astăzi, formând nucleul istoric al orașului. În secolul al XIX-lea, Rüti a cunoscut o transformare radicală prin industrializare. Forța apei râului Jona a fost utilizată pentru a stabili numeroase fabrici textile și uzine de construcții de mașini, ceea ce a făcut din Rüti un centru industrial important. Astăzi, orașul este o locație rezidențială și economică modernă, cu o infrastructură foarte bună. Dispune de o gară importantă care servește ca punct de transfer între liniile S-Bahn către Zürich, Rapperswil și valea Tösstal. Împrejurimile orașului oferă zone de recreere atractive, cum ar fi muntele Bachtel, din al cărui turn de observație se poate admira o vedere panoramică asupra Alpilor și lacului Zürich. Din punct de vedere cultural, Rüti este marcat de diverse evenimente și o cultură asociativă activă, care îmbină moștenirea istorică cu viața urbană modernă.", "en": "Rueti is a municipality in the Hinwil district of the Canton of Zurich, located on the edge of the Zurich Highlands near the border with the Canton of St. Gallen. The town's history is inextricably linked to the Rueti Abbey, founded in 1206 by the Barons of Regensberg. During the Middle Ages, the Premonstratensian Abbey was one of the region's most influential religious institutions and served as the burial site for the Counts of Toggenburg. Following the Reformation, the abbey was dissolved, yet the abbey church and parts of the buildings have survived to this day, forming the town's historical core. In the 19th century, Rueti underwent a radical transformation due to industrialization. The hydraulic power of the Jona river was harnessed to power numerous textile mills and machinery factories, turning Rueti into a major industrial center. Today, the town is a modern residential and economic hub with excellent infrastructure. It features a major railway station that serves as a key transfer point for S-Bahn lines connecting to Zurich, Rapperswil, and the Toess Valley. The surrounding area of Rueti offers beautiful recreational spots like the Bachtel mountain, where an observation tower provides panoramic views of the Alps and Lake Zurich. Culturally, Rueti is defined by diverse events and an active club life that bridges its historic heritage with contemporary urban living."}, "factsAdvanced": {"de": ["Gegruendet 1206", "Ehemaliges Kloster Rueti", "Textilindustrie Zentrum", "Fluss Jona Lage", "Aussichtspunkt Bachtel", "Bezirk Hinwil Zugehörigkeit"], "hu": ["1206-ban alapították", "Egykori rüti kolostor", "Textilipari központ", "Jona folyó partján", "Bachtel kilátóhely", "Hinwil járáshoz tartozik"], "ro": ["Fondat în 1206", "Fosta Abație Rüti", "Centrul industriei textile", "Localizare pe râul Jona", "Punct de observație Bachtel", "Aparține districtului Hinwil"], "en": ["Founded in 1206", "Former Rueti Abbey", "Textile industry center", "Located on the Jona river", "Bachtel viewpoint", "Part of Hinwil district"]}, "faq": {"de": [{"q": "Was ist das Kloster Rueti heute?", "a": "Die Klosterkirche wird als reformierte Kirche genutzt, und die Gebaeude beherbergen das Pfarramt."}, {"q": "Wie weit ist es von Rueti nach Rapperswil?", "a": "Mit der S-Bahn oder dem Auto dauert die Fahrt nur etwa 10 bis 15 Minuten."}, {"q": "Welche Freizeitaktivitaeten gibt es?", "a": "Wanderungen auf den Bachtel oder entlang der Jona sind sehr beliebt."}, {"q": "Hat Rueti eine industrielle Bedeutung?", "a": "Frueher war es ein Textilzentrum, heute gibt es dort viele innovative KMU."}], "hu": [{"q": "Mi látható ma a rüti kolostorból?", "a": "A kolostortemplom ma református templomként működik, az épületekben pedig a plébánia található."}, {"q": "Milyen messze van Rüti Rapperswiltől?", "a": "S-Bahn-nal vagy autóval az út mindössze 10-15 percet vesz igénybe."}, {"q": "Milyen szabadidős lehetőségek vannak?", "a": "A Bachtel-hegyre vagy a Jona folyó mentén tett túrák igen kedveltek."}, {"q": "Van Rütinek ipari jelentősége?", "a": "Korábban textilipari központ volt, ma számos innovatív kis- és középvállalkozás működik itt."}], "ro": [{"q": "Ce reprezintă Abația Rüti astăzi?", "a": "Biserica abației este folosită ca biserică reformată, iar clădirile găzduiesc parohia."}, {"q": "Cât de departe este Rüti de Rapperswil?", "a": "Cu trenul S-Bahn sau cu mașina, călătoria durează doar aproximativ 10 până la 15 minute."}, {"q": "Ce activități de agrement sunt disponibile?", "a": "Drumețiile pe muntele Bachtel sau de-a lungul râului Jona sunt foarte populare."}, {"q": "Mai are Rüti importanță industrială?", "a": "În trecut a fost un centru textil, astăzi există acolo multe IMM-uri inovatoare."}], "en": [{"q": "What is Rueti Abbey today?", "a": "The abbey church is used as a Reformed church, and the buildings house the parish office."}, {"q": "How far is it from Rueti to Rapperswil?", "a": "The journey by S-Bahn or car takes only about 10 to 15 minutes."}, {"q": "What leisure activities are available?", "a": "Hiking up the Bachtel mountain or along the Jona river is very popular."}, {"q": "Does Rueti still have industrial significance?", "a": "Formerly a textile hub, it is now home to many innovative small and medium-sized enterprises."}]}},
+  {"id": "ch-rã¼ti", "sights": {
+      "de": [
+            {
+                  "name": "Wydenchlösterli",
+                  "text": "Die Ruinen eines ehemaligen Frauenklosters aus dem 13. Jahrhundert bei Rüti.",
+                  "category": "historical",
+                  "coords": [
+                        8.852755,
+                        47.246393
+                  ]
+            },
+            {
+                  "name": "Nähmaschinen-Museum",
+                  "text": "Beherbergt eine umfangreiche Sammlung historischer Nähmaschinen aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        8.878573,
+                        47.269465
+                  ]
+            },
+            {
+                  "name": "Schloss Meienberg",
+                  "text": "Ein spätgotischer Landsitz in Rüti, der für seine Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        8.830267,
+                        47.235135
+                  ]
+            },
+            {
+                  "name": "Sternenkeller",
+                  "text": "Eine Kleinkunstbühne in Rüti, die Kabarett, Musik und Theater präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.857911,
+                        47.255429
+                  ]
+            },
+            {
+                  "name": "Ritterhaus Bubikon",
+                  "text": "Ein bedeutendes Museum in einem ehemaligen Johanniterhaus in der Nähe von Rüti.",
+                  "category": "museum",
+                  "coords": [
+                        8.828481,
+                        47.26668
+                  ]
+            },
+            {
+                  "name": "KMM Kulturzentrum",
+                  "text": "Ein lokales Kulturzentrum und Museum in Rueti.",
+                  "category": "museum",
+                  "coords": [
+                        8.843524,
+                        47.280752
+                  ]
+            },
+            {
+                  "name": "Feuerwehr",
+                  "text": "Ein Feuerwehrmuseum in Rueti.",
+                  "category": "museum",
+                  "coords": [
+                        8.849711,
+                        47.259156
+                  ]
+            },
+            {
+                  "name": "Chilchberg",
+                  "text": "Der Chilchberg ist ein malerischer Aussichtspunkt in der Natur rund um die Schweizer Gemeinde Rueti. Von hier oben bietet sich Wanderern und Naturfreunden ein herrlicher Blick auf die umliegende Landschaft. Es ist ein perfekter Ort, um die Ruhe der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        8.846027,
+                        47.279679
+                  ]
+            },
+            {
+                  "name": "Frohberg",
+                  "text": "Ein Aussichtspunkt, der Panoramaausblicke über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.827247,
+                        47.241629
+                  ]
+            },
+            {
+                  "name": "Schrännen",
+                  "text": "Ein ruhiger Aussichtspunkt in der Nähe von Rueti.",
+                  "category": "natural",
+                  "coords": [
+                        8.823432,
+                        47.246169
+                  ]
+            },
+            {
+                  "name": "oberer Rüssel",
+                  "text": "Ein lokaler Aussichtspunkt in der Gemeinde Rueti.",
+                  "category": "natural",
+                  "coords": [
+                        8.815311,
+                        47.247664
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "Ein erhöhter Punkt mit schöner Aussicht auf die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        8.845604,
+                        47.23312
+                  ]
+            },
+            {
+                  "name": "Martinsbrünneli",
+                  "text": "Eine lokale Sehenswürdigkeit in Rueti.",
+                  "category": "landmark",
+                  "coords": [
+                        8.835179,
+                        47.246314
+                  ]
+            },
+            {
+                  "name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten",
+                  "text": "Ein Naturthemenpfad, der sich mit geologischen Steingeschichten befasst.",
+                  "category": "landmark",
+                  "coords": [
+                        8.847315,
+                        47.236889
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "Eine katholische Kirche in der Region Dürnten-Tann bei Rueti.",
+                  "category": "religious",
+                  "coords": [
+                        8.850218,
+                        47.262924
+                  ]
+            },
+            {
+                  "name": "Altes Amtshaus",
+                  "text": "Ein historisches Verwaltungsgebäude in Rueti.",
+                  "category": "historical",
+                  "coords": [
+                        8.848601,
+                        47.259551
+                  ]
+            },
+            {
+                  "name": "ETG Weinberg",
+                  "text": "Ein religiöses Gemeindezentrum der Evangelischen Täufergemeinden.",
+                  "category": "religious",
+                  "coords": [
+                        8.858665,
+                        47.261915
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "Ein naturnaher See in Rüti, der eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "Ein bedeutender See bei Rüti, bekannt für seine schöne Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Katzentobelbach",
+                  "text": "Ein Gewässer in Rüti, das sich harmonisch in die Natur einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        8.851712,
+                        47.276662
+                  ]
+            },
+            {
+                  "name": "Strickelweiher",
+                  "text": "Ein stiller Weiher in Rüti, ideal für eine kurze Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        8.941828,
+                        47.270561
+                  ]
+            },
+            {
+                  "name": "Weier",
+                  "text": "Ein kleines Gewässer in Rüti für entspannte Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        8.948779,
+                        47.27414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Feienbächli",
+                  "text": "Ein Spielplatz am Feienbächli in Rüti für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.854257,
+                        47.254334
+                  ]
+            },
+            {
+                  "name": "Spielplatz Weinberg",
+                  "text": "Spielplatz im Weinberg in Rüti für abwechslungsreiches Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.857555,
+                        47.261184
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kramenweg",
+                  "text": "Ein Kinderspielplatz am Kramenweg in Rüti für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.848032,
+                        47.230495
+                  ]
+            },
+            {
+                  "name": "Badi Rüti",
+                  "text": "Das Badi Rüti in Rueti bietet sportliche Möglichkeiten und Erholung im kühlen Nass.",
+                  "category": "family",
+                  "coords": [
+                        8.841528,
+                        47.261411
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbad Widacher",
+                  "text": "Das Lehrschwimmbad Widacher in Rueti ist ideal für Schwimmübungen und entspanntes Baden geeignet.",
+                  "category": "family",
+                  "coords": [
+                        8.850403,
+                        47.252195
+                  ]
+            },
+            {
+                  "name": "Hallenbad Bergli",
+                  "text": "Das Hallenbad Bergli in Rueti lädt das ganze Jahr über zum Schwimmen und Verweilen ein.",
+                  "category": "family",
+                  "coords": [
+                        8.814358,
+                        47.267503
+                  ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "Ein Sport- und Strandbad in der Gemeinde Rüti.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wydenchlösterli",
+                  "text": "Egy egykori 13. századi női kolostor romjai Rüti közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.852755,
+                        47.246393
+                  ]
+            },
+            {
+                  "name": "Nähmaschinen-Museum",
+                  "text": "Történelmi varrógépek átfogó gyűjteményének ad otthont a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        8.878573,
+                        47.269465
+                  ]
+            },
+            {
+                  "name": "Schloss Meienberg",
+                  "text": "Késő gótikus udvarház Rütiben, amely építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        8.830267,
+                        47.235135
+                  ]
+            },
+            {
+                  "name": "Sternenkeller",
+                  "text": "Kamaraszínpad Rütiben, amely kabarékat, zenét és színházat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        8.857911,
+                        47.255429
+                  ]
+            },
+            {
+                  "name": "Ritterhaus Bubikon",
+                  "text": "Jelentős múzeum egy egykori johannita házban, Rüti közelében.",
+                  "category": "museum",
+                  "coords": [
+                        8.828481,
+                        47.26668
+                  ]
+            },
+            {
+                  "name": "KMM Kulturzentrum",
+                  "text": "Rueti helyi kulturális központja és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        8.843524,
+                        47.280752
+                  ]
+            },
+            {
+                  "name": "Feuerwehr",
+                  "text": "Tűzoltómúzeum Rueti településen.",
+                  "category": "museum",
+                  "coords": [
+                        8.849711,
+                        47.259156
+                  ]
+            },
+            {
+                  "name": "Chilchberg",
+                  "text": "A Chilchberg egy festői kilátó a természetben, a svájci Rueti község körül. Innen fentről a túrázók és a természetbarátok csodálatos kilátásban gyönyörködhetnek a környező tájra. Tökéletes hely a természet nyugalmának élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        8.846027,
+                        47.279679
+                  ]
+            },
+            {
+                  "name": "Frohberg",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        8.827247,
+                        47.241629
+                  ]
+            },
+            {
+                  "name": "Schrännen",
+                  "text": "Csendes kilátóhely Rueti közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.823432,
+                        47.246169
+                  ]
+            },
+            {
+                  "name": "oberer Rüssel",
+                  "text": "Helyi kilátópont Rueti községben.",
+                  "category": "natural",
+                  "coords": [
+                        8.815311,
+                        47.247664
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "Magaslati pont szép kilátással a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        8.845604,
+                        47.23312
+                  ]
+            },
+            {
+                  "name": "Martinsbrünneli",
+                  "text": "Helyi látnivaló Rueti településen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.835179,
+                        47.246314
+                  ]
+            },
+            {
+                  "name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten",
+                  "text": "Természeti tanösvény, amely a kőzetek történetével foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.847315,
+                        47.236889
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "Katolikus templom Rueti közelében, Dürnten-Tann területén.",
+                  "category": "religious",
+                  "coords": [
+                        8.850218,
+                        47.262924
+                  ]
+            },
+            {
+                  "name": "Altes Amtshaus",
+                  "text": "Történelmi igazgatási épület Rueti településen.",
+                  "category": "historical",
+                  "coords": [
+                        8.848601,
+                        47.259551
+                  ]
+            },
+            {
+                  "name": "ETG Weinberg",
+                  "text": "Az Evangéliumi Anabaptista Gyülekezetek vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        8.858665,
+                        47.261915
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "Természetközeli tó Rütiben, amely békés környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "Jelentős tó Rüti közelében, amely szép tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Katzentobelbach",
+                  "text": "Vízfelület Rütiben, amely harmonikusan illeszkedik a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        8.851712,
+                        47.276662
+                  ]
+            },
+            {
+                  "name": "Strickelweiher",
+                  "text": "Csendes tó Rütiben, amely ideális egy rövid erdei pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        8.941828,
+                        47.270561
+                  ]
+            },
+            {
+                  "name": "Weier",
+                  "text": "Kisméretű vízfelület Rütiben a természetben való ellazuláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.948779,
+                        47.27414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Feienbächli",
+                  "text": "Játszótér a rüti Feienbächli területén gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.854257,
+                        47.254334
+                  ]
+            },
+            {
+                  "name": "Spielplatz Weinberg",
+                  "text": "Játszótér a rüti Weinberg területén a változatos játékért.",
+                  "category": "family",
+                  "coords": [
+                        8.857555,
+                        47.261184
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kramenweg",
+                  "text": "Gyermekjátszótér a rüti Kramenweg területén családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.848032,
+                        47.230495
+                  ]
+            },
+            {
+                  "name": "Badi Rüti",
+                  "text": "A rueti Badi Rüti sportolási lehetőségeket és pihenést kínál a hűsítő vízben.",
+                  "category": "family",
+                  "coords": [
+                        8.841528,
+                        47.261411
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbad Widacher",
+                  "text": "A rueti Lehrschwimmbad Widacher ideális úszógyakorlatokhoz és pihentető fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.850403,
+                        47.252195
+                  ]
+            },
+            {
+                  "name": "Hallenbad Bergli",
+                  "text": "A rueti Hallenbad Bergli egész évben úszásra és kikapcsolódásra hívja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        8.814358,
+                        47.267503
+                  ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "Sport- és strandfürdő Rüti községben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wydenchlösterli",
+                  "text": "Ruinele unei foste mănăstiri de maici din secolul al XIII-lea, lângă Rüti.",
+                  "category": "historical",
+                  "coords": [
+                        8.852755,
+                        47.246393
+                  ]
+            },
+            {
+                  "name": "Nähmaschinen-Museum",
+                  "text": "Găzduiește o colecție extinsă de mașini de cusut istorice din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        8.878573,
+                        47.269465
+                  ]
+            },
+            {
+                  "name": "Schloss Meienberg",
+                  "text": "Un conac în stil gotic târziu din Rüti, cunoscut pentru arhitectura sa.",
+                  "category": "castle",
+                  "coords": [
+                        8.830267,
+                        47.235135
+                  ]
+            },
+            {
+                  "name": "Sternenkeller",
+                  "text": "O scenă de cabaret și teatru în Rüti care prezintă spectacole variate.",
+                  "category": "cultural",
+                  "coords": [
+                        8.857911,
+                        47.255429
+                  ]
+            },
+            {
+                  "name": "Ritterhaus Bubikon",
+                  "text": "Un muzeu important într-o fostă casă a Cavalerilor Ioaniți de lângă Rüti.",
+                  "category": "museum",
+                  "coords": [
+                        8.828481,
+                        47.26668
+                  ]
+            },
+            {
+                  "name": "KMM Kulturzentrum",
+                  "text": "Un centru cultural și muzeu local din Rueti.",
+                  "category": "museum",
+                  "coords": [
+                        8.843524,
+                        47.280752
+                  ]
+            },
+            {
+                  "name": "Feuerwehr",
+                  "text": "Un muzeu al pompierilor din Rueti.",
+                  "category": "museum",
+                  "coords": [
+                        8.849711,
+                        47.259156
+                  ]
+            },
+            {
+                  "name": "Chilchberg",
+                  "text": "Chilchberg este un punct de belvedere pitoresc în natura din jurul comunei elvețiene Rueti. De aici de sus, drumeții și iubitorii de natură au parte de o priveliște minunată asupra peisajului înconjurător. Este un loc perfect pentru a te bucura de liniștea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.846027,
+                        47.279679
+                  ]
+            },
+            {
+                  "name": "Frohberg",
+                  "text": "Un punct de observație ce oferă vederi panoramice asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        8.827247,
+                        47.241629
+                  ]
+            },
+            {
+                  "name": "Schrännen",
+                  "text": "Un punct de belvedere liniștit în apropiere de Rueti.",
+                  "category": "natural",
+                  "coords": [
+                        8.823432,
+                        47.246169
+                  ]
+            },
+            {
+                  "name": "oberer Rüssel",
+                  "text": "Un punct de belvedere local din comuna Rueti.",
+                  "category": "natural",
+                  "coords": [
+                        8.815311,
+                        47.247664
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "Un punct de înălțime cu o vedere frumoasă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        8.845604,
+                        47.23312
+                  ]
+            },
+            {
+                  "name": "Martinsbrünneli",
+                  "text": "O atracție locală din Rueti.",
+                  "category": "landmark",
+                  "coords": [
+                        8.835179,
+                        47.246314
+                  ]
+            },
+            {
+                  "name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten",
+                  "text": "Un traseu tematic natural dedicat poveștilor geologice ale pietrelor.",
+                  "category": "landmark",
+                  "coords": [
+                        8.847315,
+                        47.236889
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "O biserică catolică din regiunea Dürnten-Tann de lângă Rueti.",
+                  "category": "religious",
+                  "coords": [
+                        8.850218,
+                        47.262924
+                  ]
+            },
+            {
+                  "name": "Altes Amtshaus",
+                  "text": "O clădire administrativă istorică din Rueti.",
+                  "category": "historical",
+                  "coords": [
+                        8.848601,
+                        47.259551
+                  ]
+            },
+            {
+                  "name": "ETG Weinberg",
+                  "text": "Un centru comunitar religios al comunităților baptiste evanghelice.",
+                  "category": "religious",
+                  "coords": [
+                        8.858665,
+                        47.261915
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "Un lac în mijlocul naturii în Rüti, care oferă un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "Un lac important lângă Rüti, cunoscut pentru peisajul său frumos.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Katzentobelbach",
+                  "text": "O apă în Rüti care se integrează armonios în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.851712,
+                        47.276662
+                  ]
+            },
+            {
+                  "name": "Strickelweiher",
+                  "text": "Un iaz liniștit în Rüti, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.941828,
+                        47.270561
+                  ]
+            },
+            {
+                  "name": "Weier",
+                  "text": "O mică apă în Rüti pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.948779,
+                        47.27414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Feienbächli",
+                  "text": "Un loc de joacă la Feienbächli în Rüti pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.854257,
+                        47.254334
+                  ]
+            },
+            {
+                  "name": "Spielplatz Weinberg",
+                  "text": "Loc de joacă în Weinberg, Rüti, pentru activități variate.",
+                  "category": "family",
+                  "coords": [
+                        8.857555,
+                        47.261184
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kramenweg",
+                  "text": "Un loc de joacă pentru copii pe Kramenweg în Rüti pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.848032,
+                        47.230495
+                  ]
+            },
+            {
+                  "name": "Badi Rüti",
+                  "text": "Badi Rüti din Rueti oferă oportunități sportive și recreere în apa răcoroasă.",
+                  "category": "family",
+                  "coords": [
+                        8.841528,
+                        47.261411
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbad Widacher",
+                  "text": "Lehrschwimmbad Widacher din Rueti este ideal pentru exerciții de înot și îmbăiere relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        8.850403,
+                        47.252195
+                  ]
+            },
+            {
+                  "name": "Hallenbad Bergli",
+                  "text": "Hallenbad Bergli din Rueti vă invită la înot și relaxare pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        8.814358,
+                        47.267503
+                  ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "Un centru sportiv și ștrand în localitatea Rüti.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wydenchlösterli",
+                  "text": "The ruins of a former 13th-century nunnery near Rüti.",
+                  "category": "historical",
+                  "coords": [
+                        8.852755,
+                        47.246393
+                  ]
+            },
+            {
+                  "name": "Nähmaschinen-Museum",
+                  "text": "Houses an extensive collection of historical sewing machines from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        8.878573,
+                        47.269465
+                  ]
+            },
+            {
+                  "name": "Schloss Meienberg",
+                  "text": "A late Gothic manor house in Rüti, known for its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        8.830267,
+                        47.235135
+                  ]
+            },
+            {
+                  "name": "Sternenkeller",
+                  "text": "A small performing arts stage in Rüti presenting cabaret, music, and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        8.857911,
+                        47.255429
+                  ]
+            },
+            {
+                  "name": "Ritterhaus Bubikon",
+                  "text": "A significant museum in a former house of the Knights Hospitaller near Rüti.",
+                  "category": "museum",
+                  "coords": [
+                        8.828481,
+                        47.26668
+                  ]
+            },
+            {
+                  "name": "KMM Kulturzentrum",
+                  "text": "A local culture center and museum in Rueti.",
+                  "category": "museum",
+                  "coords": [
+                        8.843524,
+                        47.280752
+                  ]
+            },
+            {
+                  "name": "Feuerwehr",
+                  "text": "A fire department museum in Rueti.",
+                  "category": "museum",
+                  "coords": [
+                        8.849711,
+                        47.259156
+                  ]
+            },
+            {
+                  "name": "Chilchberg",
+                  "text": "Chilchberg is a picturesque natural viewpoint surrounding the Swiss municipality of Rueti. From up here, hikers and nature lovers are offered a wonderful view of the surrounding landscape. It is a perfect spot to enjoy the tranquility of nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.846027,
+                        47.279679
+                  ]
+            },
+            {
+                  "name": "Frohberg",
+                  "text": "A viewpoint offering panoramic views of the region.",
+                  "category": "natural",
+                  "coords": [
+                        8.827247,
+                        47.241629
+                  ]
+            },
+            {
+                  "name": "Schrännen",
+                  "text": "A quiet viewpoint located near Rueti.",
+                  "category": "natural",
+                  "coords": [
+                        8.823432,
+                        47.246169
+                  ]
+            },
+            {
+                  "name": "oberer Rüssel",
+                  "text": "A local viewpoint in the municipality of Rueti.",
+                  "category": "natural",
+                  "coords": [
+                        8.815311,
+                        47.247664
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "An elevated point with a nice view of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        8.845604,
+                        47.23312
+                  ]
+            },
+            {
+                  "name": "Martinsbrünneli",
+                  "text": "A local attraction in Rueti.",
+                  "category": "landmark",
+                  "coords": [
+                        8.835179,
+                        47.246314
+                  ]
+            },
+            {
+                  "name": "Themenpfad \"Schauplatz Natur\" - Stein(ge)schichten",
+                  "text": "A nature theme trail focusing on geological stone stories.",
+                  "category": "landmark",
+                  "coords": [
+                        8.847315,
+                        47.236889
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "A Catholic church in the Dürnten-Tann region near Rueti.",
+                  "category": "religious",
+                  "coords": [
+                        8.850218,
+                        47.262924
+                  ]
+            },
+            {
+                  "name": "Altes Amtshaus",
+                  "text": "A historic administrative building in Rueti.",
+                  "category": "historical",
+                  "coords": [
+                        8.848601,
+                        47.259551
+                  ]
+            },
+            {
+                  "name": "ETG Weinberg",
+                  "text": "A religious community center of the Evangelical Anabaptist congregations.",
+                  "category": "religious",
+                  "coords": [
+                        8.858665,
+                        47.261915
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "A natural lake in Rüti offering a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Lützelsee",
+                  "text": "A significant lake near Rüti, known for its beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        8.772477,
+                        47.2602
+                  ]
+            },
+            {
+                  "name": "Katzentobelbach",
+                  "text": "A body of water in Rüti that blends harmoniously into nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.851712,
+                        47.276662
+                  ]
+            },
+            {
+                  "name": "Strickelweiher",
+                  "text": "A quiet pond in Rüti, ideal for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        8.941828,
+                        47.270561
+                  ]
+            },
+            {
+                  "name": "Weier",
+                  "text": "A small body of water in Rüti for relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.948779,
+                        47.27414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Feienbächli",
+                  "text": "A playground at Feienbächli in Rüti for children.",
+                  "category": "family",
+                  "coords": [
+                        8.854257,
+                        47.254334
+                  ]
+            },
+            {
+                  "name": "Spielplatz Weinberg",
+                  "text": "Playground at Weinberg in Rüti for diverse play.",
+                  "category": "family",
+                  "coords": [
+                        8.857555,
+                        47.261184
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Kramenweg",
+                  "text": "A children's playground on Kramenweg in Rüti for families.",
+                  "category": "family",
+                  "coords": [
+                        8.848032,
+                        47.230495
+                  ]
+            },
+            {
+                  "name": "Badi Rüti",
+                  "text": "The Badi Rüti in Rueti offers sporting opportunities and relaxation in the cool water.",
+                  "category": "family",
+                  "coords": [
+                        8.841528,
+                        47.261411
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbad Widacher",
+                  "text": "The Lehrschwimmbad Widacher in Rueti is ideally suited for swimming practice and relaxed bathing.",
+                  "category": "family",
+                  "coords": [
+                        8.850403,
+                        47.252195
+                  ]
+            },
+            {
+                  "name": "Hallenbad Bergli",
+                  "text": "The Hallenbad Bergli in Rueti invites you to swim and linger all year round.",
+                  "category": "family",
+                  "coords": [
+                        8.814358,
+                        47.267503
+                  ]
+            },
+            {
+                  "name": "Strandbad Egelsee",
+                  "text": "A sports and lakeside swimming area in the town of Rüti.",
+                  "category": "recreational",
+                  "coords": [
+                        8.820107,
+                        47.258379
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "CH-ZH", "coords": [8.8527, 47.2557], "population": 12655, "image": "/geo-images/switzerland/ch-rã¼ti.webp", "name": {"de": "Rueti", "hu": "Rüti", "ro": "Rüti", "en": "Rueti"}, "description": {"de": "Eine lebendige Stadt im Zuercher Oberland, die fuer ihr ehemaliges Praemonstratenserkloster und ihre industrielle Textilgeschichte bekannt ist.", "hu": "Egy életteli város a Zürichi-felföldön, amely egykori premontrei kolostoráról és textilipari múltjáról nevezetes.", "ro": "Un oraș plin de viață în regiunea Zürcher Oberland, cunoscut pentru fosta sa abație premonstratensă și istoria sa industrială textilă.", "en": "A vibrant town in the Zurich Highlands, known for its former Premonstratensian Abbey and its industrial textile history."}, "facts": {"de": ["Zuercher Oberland", "Klostergeschichte", "Industrielle Tradition", "Verkehrsknotenpunkt"], "hu": ["Zürichi-felföld", "Kolostortörténet", "Ipari hagyományok", "Közlekedési csomópont"], "ro": ["Zürcher Oberland", "Istoria abației", "Tradiție industrială", "Nod de transport"], "en": ["Zurich Highlands", "Abbey history", "Industrial tradition", "Transport junction"]}, "descriptionAdvanced": {"de": "Rueti ist eine Gemeinde im Bezirk Hinwil des Kantons Zuerich und liegt am Rande des Zuercher Oberlandes an der Grenze zum Kanton St. Gallen. Die Geschichte des Ortes ist untrennbar mit dem Kloster Rueti verbunden, das im Jahr 1206 durch die Freiherren von Regensberg gegruendet wurde. Das Praemonstratenserkloster war im Mittelalter eine der bedeutendsten religioesen Einrichtungen in der Region und diente als Grablege der Grafen von Toggenburg. Nach der Reformation wurde das Kloster aufgehoben, doch die Klosterkirche und Teile der Gebaeude sind bis heute erhalten und bilden den historischen Kern der Stadt. Im 19. Jahrhundert erlebte Rueti eine radikale Transformation durch die Industrialisierung. Die Wasserkraft der Jona wurde genutzt, um zahlreiche Textilfabriken und Maschinenbaubetriebe anzusiedeln, was Rueti zu einem wichtigen industriellen Zentrum machte. Heute ist die Stadt ein moderner Wohn- und Wirtschaftsstandort mit einer sehr guten Infrastruktur. Sie verfuegt ueber einen bedeutenden Bahnhof, der als Umsteigepunkt zwischen den S-Bahn-Linien nach Zuerich, Rapperswil und in das Tösstal dient. Die Umgebung von Rueti bietet attraktive Naherholungsgebiete wie den Bachtel, von dessen Aussichtsturm man einen Panoramablick ueber die Alpen und den Zuerichsee geniessen kann. Kulturell ist Rueti durch diverse Veranstaltungen und eine aktive Vereinskultur gepraegt, die das historische Erbe mit dem modernen staedtischen Leben verknuepfen.", "hu": "Rüti a svájci Zürich kantonban, a Hinwil járásban található, a Zürichi-felföld szélén, St. Gallen kanton határán. A település története elválaszthatatlan a rüti kolostortól, amelyet 1206-ban alapítottak a Regensberg bárók. A premontrei kolostor a középkorban a régió egyik legjelentősebb vallási intézménye volt, és a Toggenburg grófok temetkezési helyeként szolgált. A reformáció után a kolostort feloszlatták, de a kolostortemplom és az épületek egy része a mai napig fennmaradt, és a város történelmi magját alkotja. A 19. században Rüti radikális átalakuláson ment keresztül az iparosodás hatására. A Jona folyó vízi energiáját számos textilgyár és gépgyár betelepítésére használták fel, ami Rütit fontos ipari központtá tette. Ma a város modern lakó- és gazdasági helyszín, kiváló infrastruktúrával. Jelentős vasútállomással rendelkezik, amely átszállóhelyként szolgál a Zürich, Rapperswil és a Tösstal felé tartó S-Bahn vonalak között. Rüti környéke vonzó pihenőhelyeket kínál, mint például a Bachtel-hegy, amelynek kilátótornyából panorámás kilátás nyílik az Alpokra és a Zürichi-tóra. Kulturális szempontból Rütit különféle rendezvények és aktív egyesületi élet jellemzi, amely összeköti a történelmi örökséget a modern városi élettel.", "ro": "Rüti este o municipalitate din districtul Hinwil al cantonului Zürich, situată la marginea regiunii Zürcher Oberland, la granița cu cantonul St. Gallen. Istoria localității este inseparabil legată de Abația Rüti, fondată în 1206 de baronii de Regensberg. Abația premonstratensă a fost una dintre cele mai importante instituții religioase din regiune în Evul Mediu și a servit ca loc de înmormântare pentru conții de Toggenburg. După Reformă, abația a fost desființată, însă biserica abației și părți din clădiri s-au păstrat până astăzi, formând nucleul istoric al orașului. În secolul al XIX-lea, Rüti a cunoscut o transformare radicală prin industrializare. Forța apei râului Jona a fost utilizată pentru a stabili numeroase fabrici textile și uzine de construcții de mașini, ceea ce a făcut din Rüti un centru industrial important. Astăzi, orașul este o locație rezidențială și economică modernă, cu o infrastructură foarte bună. Dispune de o gară importantă care servește ca punct de transfer între liniile S-Bahn către Zürich, Rapperswil și valea Tösstal. Împrejurimile orașului oferă zone de recreere atractive, cum ar fi muntele Bachtel, din al cărui turn de observație se poate admira o vedere panoramică asupra Alpilor și lacului Zürich. Din punct de vedere cultural, Rüti este marcat de diverse evenimente și o cultură asociativă activă, care îmbină moștenirea istorică cu viața urbană modernă.", "en": "Rueti is a municipality in the Hinwil district of the Canton of Zurich, located on the edge of the Zurich Highlands near the border with the Canton of St. Gallen. The town's history is inextricably linked to the Rueti Abbey, founded in 1206 by the Barons of Regensberg. During the Middle Ages, the Premonstratensian Abbey was one of the region's most influential religious institutions and served as the burial site for the Counts of Toggenburg. Following the Reformation, the abbey was dissolved, yet the abbey church and parts of the buildings have survived to this day, forming the town's historical core. In the 19th century, Rueti underwent a radical transformation due to industrialization. The hydraulic power of the Jona river was harnessed to power numerous textile mills and machinery factories, turning Rueti into a major industrial center. Today, the town is a modern residential and economic hub with excellent infrastructure. It features a major railway station that serves as a key transfer point for S-Bahn lines connecting to Zurich, Rapperswil, and the Toess Valley. The surrounding area of Rueti offers beautiful recreational spots like the Bachtel mountain, where an observation tower provides panoramic views of the Alps and Lake Zurich. Culturally, Rueti is defined by diverse events and an active club life that bridges its historic heritage with contemporary urban living."}, "factsAdvanced": {"de": ["Gegruendet 1206", "Ehemaliges Kloster Rueti", "Textilindustrie Zentrum", "Fluss Jona Lage", "Aussichtspunkt Bachtel", "Bezirk Hinwil Zugehörigkeit"], "hu": ["1206-ban alapították", "Egykori rüti kolostor", "Textilipari központ", "Jona folyó partján", "Bachtel kilátóhely", "Hinwil járáshoz tartozik"], "ro": ["Fondat în 1206", "Fosta Abație Rüti", "Centrul industriei textile", "Localizare pe râul Jona", "Punct de observație Bachtel", "Aparține districtului Hinwil"], "en": ["Founded in 1206", "Former Rueti Abbey", "Textile industry center", "Located on the Jona river", "Bachtel viewpoint", "Part of Hinwil district"]}, "faq": {"de": [{"q": "Was ist das Kloster Rueti heute?", "a": "Die Klosterkirche wird als reformierte Kirche genutzt, und die Gebaeude beherbergen das Pfarramt."}, {"q": "Wie weit ist es von Rueti nach Rapperswil?", "a": "Mit der S-Bahn oder dem Auto dauert die Fahrt nur etwa 10 bis 15 Minuten."}, {"q": "Welche Freizeitaktivitaeten gibt es?", "a": "Wanderungen auf den Bachtel oder entlang der Jona sind sehr beliebt."}, {"q": "Hat Rueti eine industrielle Bedeutung?", "a": "Frueher war es ein Textilzentrum, heute gibt es dort viele innovative KMU."}], "hu": [{"q": "Mi látható ma a rüti kolostorból?", "a": "A kolostortemplom ma református templomként működik, az épületekben pedig a plébánia található."}, {"q": "Milyen messze van Rüti Rapperswiltől?", "a": "S-Bahn-nal vagy autóval az út mindössze 10-15 percet vesz igénybe."}, {"q": "Milyen szabadidős lehetőségek vannak?", "a": "A Bachtel-hegyre vagy a Jona folyó mentén tett túrák igen kedveltek."}, {"q": "Van Rütinek ipari jelentősége?", "a": "Korábban textilipari központ volt, ma számos innovatív kis- és középvállalkozás működik itt."}], "ro": [{"q": "Ce reprezintă Abația Rüti astăzi?", "a": "Biserica abației este folosită ca biserică reformată, iar clădirile găzduiesc parohia."}, {"q": "Cât de departe este Rüti de Rapperswil?", "a": "Cu trenul S-Bahn sau cu mașina, călătoria durează doar aproximativ 10 până la 15 minute."}, {"q": "Ce activități de agrement sunt disponibile?", "a": "Drumețiile pe muntele Bachtel sau de-a lungul râului Jona sunt foarte populare."}, {"q": "Mai are Rüti importanță industrială?", "a": "În trecut a fost un centru textil, astăzi există acolo multe IMM-uri inovatoare."}], "en": [{"q": "What is Rueti Abbey today?", "a": "The abbey church is used as a Reformed church, and the buildings house the parish office."}, {"q": "How far is it from Rueti to Rapperswil?", "a": "The journey by S-Bahn or car takes only about 10 to 15 minutes."}, {"q": "What leisure activities are available?", "a": "Hiking up the Bachtel mountain or along the Jona river is very popular."}, {"q": "Does Rueti still have industrial significance?", "a": "Formerly a textile hub, it is now home to many innovative small and medium-sized enterprises."}]}},
   {"id": "ch-grand-saconnex", "sights": {"de": [{"name": "Musée d'histoire des sciences", "text": "Ein Museum, das die Entwicklung wissenschaftlicher Instrumente und Entdeckungen dokumentiert.", "category": "museum", "coords": [6.152126, 46.220829]}, {"name": "Musée Ariana", "text": "Ein bedeutendes Museum für Keramik und Glas mit einer umfangreichen Sammlung.", "category": "museum", "coords": [6.138855, 46.225405]}, {"name": "Schloss Pregny", "text": "Ein prachtvolles Schloss in Pregny, das für seine Architektur bekannt ist.", "category": "castle", "coords": [6.141778, 46.235251]}, {"name": "Château de Tournay", "text": "Ein historisches Schloss mit Theater, das früher dem Philosophen Voltaire gehörte.", "category": "castle", "coords": [6.138003, 46.237186]}, {"name": "Musée Voltaire", "text": "Ein Museum, das sich dem Leben und dem Werk des Philosophen Voltaire widmet.", "category": "museum", "coords": [6.133342, 46.207627]}, {"name": "Internationales Rotkreuz- und Rothalbmondmuseum", "text": "Das Internationale Rotkreuz- und Rothalbmondmuseum, das die humanitäre Arbeit thematisiert.", "category": "museum", "coords": [6.136901, 46.22741]}, {"name": "Uptown Geneva", "text": "Ein modernes Kultur- und Veranstaltungszentrum für verschiedene Aufführungen.", "category": "cultural", "coords": [6.139429, 46.209479]}, {"name": "La Comédie de Ferney", "text": "Dieses Theater in der Nähe von Genf bietet ein vielfältiges Programm an Bühnenaufführungen.", "category": "cultural", "coords": [6.108616, 46.257438]}, {"name": "le p'tit Music'Hohl", "text": "Ein kleines, intimes Theater, das für seine humorvollen Aufführungen und Kabaretts bekannt ist.", "category": "cultural", "coords": [6.110065, 46.223235]}, {"name": "Plage ONU", "text": "Unweit des internationalen Viertels in Grand-Saconnex lockt der Plage ONU mit seiner entspannten Seestimmung. Dieser Strand am Genfersee bietet eine harmonische Auszeit vom geschäftigen Stadtleben. Besucher können hier am Wasser entlangschlendern oder eine kurze Schwimmpause einlegen. Eine Flasche Wasser und ein wenig Zeit zum Träumen machen den Ausflug perfekt.", "category": "recreational", "coords": [6.149126, 46.227518]}, {"name": "Théâtre des Grottes", "text": "Ein lokales Theater im Genfer Viertel Grottes, das Raum für kreative Produktionen bietet.", "category": "cultural", "coords": [6.137924, 46.211925]}, {"name": "Théâtre Micromégas", "text": "Ein kultureller Veranstaltungsort, der verschiedene Theaterstücke und künstlerische Darbietungen präsentiert.", "category": "cultural", "coords": [6.109508, 46.254841]}, {"name": "Plage de la Perle-du-Lac", "text": "Umgeben von einem wunderschönen Park ist die Plage de la Perle-du-Lac in Grand-Saconnex ein äußerst malerischer öffentlicher Strand. Das üppige Grün und das Blau des Genfersees schaffen eine beruhigende Atmosphäre für jeden Besucher. Die Verbindung aus Bademöglichkeit und Spazierwegen macht den Reiz dieses Ortes aus. Für einen idyllischen Aufenthalt ist dieser Küstenabschnitt kaum zu übertreffen.", "category": "recreational", "coords": [6.153253, 46.220005]}, {"name": "Plage du Reposoir", "text": "Die Plage du Reposoir in Grand-Saconnex ist ein hervorragender Badebereich direkt am Ufer des Genfersees. Familien und Freunde treffen sich hier gerne, um zu schwimmen und gemeinsam im Freien zu picknicken. Die offene und lebhafte Atmosphäre sorgt für ein unbeschwertes Badeerlebnis. Es lohnt sich, etwas Proviant mitzubringen, um den Tag am See vollends zu genießen.", "category": "recreational", "coords": [6.150201, 46.230474]}, {"name": "Musée militaire genevois", "text": "Das Museum widmet sich der Militärgeschichte des Kantons Genf und stellt historische Ausrüstung aus.", "category": "museum", "coords": [6.140503, 46.232369]}, {"name": "Tierpark", "text": "Ein lokaler Park, in dem Besucher verschiedene Tierarten in einer natürlichen Umgebung beobachten können.", "category": "family", "coords": [6.147679, 46.227959]}, {"name": "Bioparc Genève", "text": "Dieser Tierpark konzentriert sich auf den Schutz der biologischen Vielfalt und die Rehabilitation von Wildtieren.", "category": "family", "coords": [6.139469, 46.25803]}, {"name": "Théatre le douze dix-huit", "text": "Ein zeitgenössisches Theater, das ein breites Spektrum an modernen Bühnenwerken aufführt.", "category": "cultural", "coords": [6.122738, 46.227981]}, {"name": "Cloche de Shinagawa", "text": "Eine symbolische Friedensglocke, die an die Städtepartnerschaft zwischen Genf und Shinagawa erinnert.", "category": "landmark", "coords": [6.138078, 46.22428]}, {"name": "Parc Moynier", "text": "Ein eleganter Park am Seeufer, der einst zum Anwesen von Gustave Moynier gehörte.", "category": "park", "coords": [6.151303, 46.219394]}, {"name": "Parc Mon-Repos", "text": "Einer der schönsten Parks Genfs mit prachtvollen Villen und direktem Zugang zum Seeufer.", "category": "park", "coords": [6.149999, 46.218536]}, {"name": "Parc Barton", "text": "Dieser Park ist bekannt für seine beeindruckenden Riesenmammutbäume und den Blick auf den Genfersee.", "category": "park", "coords": [6.151379, 46.222207]}, {"name": "Parc Beaulieu", "text": "Ein charmanter öffentlicher Park mit einem historischen Herrenhaus und alten Baumbeständen.", "category": "park", "coords": [6.137249, 46.214559]}, {"name": "Parc des Cropettes", "text": "Ein beliebter Nachbarschaftspark, in dem im Sommer oft kostenlose Musikfestivals stattfinden.", "category": "park", "coords": [6.1403, 46.212658]}, {"name": "Parc Trembley", "text": "Ein großer Stadtpark mit Sportanlagen, Spielplätzen und weiten Grünflächen für die Öffentlichkeit.", "category": "park", "coords": [6.129373, 46.218039]}, {"name": "Parc des Franchises", "text": "Ein weitläufiger Park, der für seine biologische Vielfalt und seine malerischen Teiche bekannt ist.", "category": "park", "coords": [6.117762, 46.211849]}, {"name": "Parc de Vermont", "text": "Ein ruhiger Grünraum im Vermont-Viertel, ideal für einen kurzen Spaziergang oder zur Entspannung.", "category": "park", "coords": [6.138821, 46.218292]}, {"name": "Jardin Botanique Alpin", "text": "Dieser botanische Garten präsentiert eine Vielzahl von Alpenpflanzen in einer gepflegten Umgebung.", "category": "park", "coords": [6.081694, 46.227239]}, {"name": "Parc Gustave-et-Léonard Hentsch", "text": "Ein moderner Park auf einem ehemaligen Stadiongelände, der Freizeit- und Sportmöglichkeiten bietet.", "category": "park", "coords": [6.118639, 46.208895]}, {"name": "Völkerbundpalast", "text": "Der europäische Hauptsitz der Vereinten Nationen ist ein bedeutendes Zentrum für globale Diplomatie.", "category": "landmark", "coords": [6.142301, 46.228267]}, {"name": "Lake Geneva Overlook", "text": "Ein Aussichtspunkt, der einen weiten und malerischen Blick über den Genfersee bietet.", "category": "natural", "coords": [6.133224, 46.239644]}, {"name": "Toboggan géant de la butte de Riantbosson", "text": "Eine beliebte Attraktion für Kinder mit einer riesigen Rutsche auf einem künstlichen Hügel.", "category": "landmark", "coords": [6.084567, 46.228728]}, {"name": "Lost", "text": "Eine lokale Freizeitattraktion, die Unterhaltung für Besucher in Grand-Saconnex bietet.", "category": "landmark", "coords": [6.147951, 46.22123]}, {"name": "Peter Parkanyi, 2016", "text": "Ein Denkmal zu Ehren von Peter Parkanyi, das als künstlerisches Element im öffentlichen Raum dient.", "category": "historical", "coords": [6.125873, 46.23115]}, {"name": "Bowling de Balexert", "text": "Eine moderne Bowlinganlage im Balexert-Zentrum, die Spaß für Gruppen und Familien bietet.", "category": "landmark", "coords": [6.110731, 46.218833]}, {"name": "Adéléa", "text": "Ein Zentrum für Kunst und Kultur, das verschiedene kreative Workshops und Ausstellungen fördert.", "category": "cultural", "coords": [6.134393, 46.211861]}, {"name": "Expo", "text": "Eine Galerie, die regelmäßig wechselnde Kunstausstellungen und kulturelle Veranstaltungen zeigt.", "category": "museum", "coords": [6.138544, 46.210416]}, {"name": "ViiVa", "text": "Eine moderne Kunstgalerie, die Werke zeitgenössischer Künstler in einer eleganten Umgebung ausstellt.", "category": "museum", "coords": [6.141805, 46.21193]}, {"name": "Chalet Montbovon", "text": "Ein historisches oder nachempfundenes Chalet, das den traditionellen Schweizer Architekturstil repräsentiert.", "category": "landmark", "coords": [6.141123, 46.223297]}, {"name": "Allée des drapeaux", "text": "Ein berühmter Weg vor dem UN-Palast, gesäumt von den Flaggen aller Mitgliedstaaten.", "category": "landmark", "coords": [6.139309, 46.223545]}, {"name": "Mosquée du Petit-Saconnex", "text": "Die größte Moschee in Genf und ein wichtiges religiöses Zentrum für die muslimische Gemeinschaft.", "category": "religious", "coords": [6.121945, 46.223622]}, {"name": "Temple du Petit-Saconnex", "text": "Ein protestantisches Gotteshaus in Petit-Saconnex mit einer langen Geschichte in der Gemeinde.", "category": "religious", "coords": [6.127956, 46.222972]}, {"name": "Église Sainte-Trinité", "text": "Eine katholische Kirche, die der Heiligen Dreifaltigkeit gewidmet ist und der lokalen Gemeinde dient.", "category": "religious", "coords": [6.147159, 46.216394]}, {"name": "Église Saint-Nicolas-de-Flue", "text": "Diese moderne katholische Kirche ist nach dem Schweizer Schutzpatron Nikolaus von Flüe benannt.", "category": "religious", "coords": [6.140569, 46.218739]}, {"name": "Sainte-Jeanne de Chantal", "text": "Eine katholische Pfarrkirche in der Region Grand-Saconnex, die für ihre Gemeindearbeit bekannt ist.", "category": "religious", "coords": [6.125526, 46.207307]}, {"name": "Église néo-apostolique", "text": "Ein Kirchengebäude der Neuapostolischen Kirche, das durch seine schlichte und moderne Architektur auffällt.", "category": "religious", "coords": [6.132638, 46.210389]}, {"name": "Paroisse protestante de Montbrillant", "text": "Eine aktive protestantische Gemeinde im Montbrillant-Viertel mit einem vielseitigen spirituellen Angebot.", "category": "religious", "coords": [6.140168, 46.214908]}, {"name": "Église Saint-Hippolyte", "text": "Ein traditionelles religiöses Gebäude, das als Ort des Gebets und der Besinnung für die Gläubigen dient.", "category": "religious", "coords": [6.124108, 46.232395]}, {"name": "Chapelle des Crêts", "text": "Eine kleine Kapelle in Grand-Saconnex, die eine ruhige Atmosphäre für die lokale Gemeinschaft bietet.", "category": "religious", "coords": [6.129686, 46.234077]}, {"name": "Église Saint-Antoine-de-Padoue", "text": "Eine dem Heiligen Antonius von Padua gewidmete Kirche, die als lokales geistliches Zentrum fungiert.", "category": "religious", "coords": [6.133474, 46.212862]}, {"name": "Genfersee", "text": "Der Genfersee bietet auch bei Grand Saconnex wunderbare Ausblicke aufs Wasser.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Aire de jeux du parc Soubeyran", "text": "Ein toller Spielbereich im Parc Soubeyran in Grand Saconnex.", "category": "family", "coords": [6.124068, 46.212152]}, {"name": "Place de jeux du Parc des Franchises", "text": "Ein weitläufiger Spielplatz im Parc des Franchises in Grand Saconnex.", "category": "family", "coords": [6.116485, 46.211123]}, {"name": "Piscine de Livron", "text": "Die Piscine de Livron in Grand Saconnex ist ein familienfreundliches Schwimmbad.", "category": "family", "coords": [6.081721, 46.230995]}, {"name": "Bains des Pâquis", "text": "Die Bains des Pâquis bieten Wasserspaß und Erholung für die ganze Familie.", "category": "family", "coords": [6.154185, 46.210355]}, {"name": "Vivarium de Meyrin", "text": "Das Vivarium de Meyrin zeigt verschiedene Reptilien und Amphibien für interessierte Familien.", "category": "family", "coords": [6.08305, 46.225517]}, {"name": "Piscine du Grand-Saconnex", "text": "Die Piscine du Grand-Saconnex bietet Schwimmbecken für Sport und Freizeit.", "category": "family", "coords": [6.127523, 46.233798]}, {"name": "Plage du Rhône", "text": "Die Plage du Rhône in Grand Saconnex ist ein Ort zum Baden und Entspannen.", "category": "family", "coords": [6.128279, 46.202678]}, {"name": "Ponton", "text": "Dieser Ponton in Grand Saconnex bietet einen Zugang zum Wasser für Schwimmer.", "category": "family", "coords": [6.13093, 46.20349]}, {"name": "Plage du Vengeron", "text": "Plage du Vengeron ist ein beliebter Strand für Familienausflüge am Wasser.", "category": "family", "coords": [6.153703, 46.246373]}, {"name": "Plage du Quai-Wilson", "text": "Plage du Quai-Wilson lädt zum sommerlichen Baden in Stadtnähe ein.", "category": "family", "coords": [6.152267, 46.214763]}, {"name": "Pataugeoire", "text": "Das Planschbecken in Grand Saconnex bietet sicheren Wasserspaß für kleine Kinder.", "category": "family", "coords": [6.138702, 46.213882]}, {"name": "Piscine des Vergers", "text": "Piscine des Vergers bietet moderne Schwimmeinrichtungen für die ganze Familie.", "category": "family", "coords": [6.072381, 46.234421]}, {"name": "Plage des Pâquis", "text": "Die Plage des Pâquis bietet Bademöglichkeiten und eine schöne Aussicht auf den See.", "category": "family", "coords": [6.155322, 46.210484]}, {"name": "Plage Gitana", "text": "Die Plage Gitana ist ein einladender Ort für Badegäste in Grand Saconnex.", "category": "family", "coords": [6.154603, 46.253345]}], "hu": [{"name": "Musée d'histoire des sciences", "text": "A tudományos műszerek és felfedezések fejlődését dokumentáló múzeum.", "category": "museum", "coords": [6.152126, 46.220829]}, {"name": "Musée Ariana", "text": "Jelentős kerámia- és üvegmúzeum, amely kiterjedt gyűjteménnyel rendelkezik.", "category": "museum", "coords": [6.138855, 46.225405]}, {"name": "Château de Pregny", "text": "Pregnyben található pompás kastély, amely építészetéről ismert.", "category": "castle", "coords": [6.141778, 46.235251]}, {"name": "Château de Tournay", "text": "Történelmi kastély színházzal, amely korábban Voltaire filozófus tulajdona volt.", "category": "castle", "coords": [6.138003, 46.237186]}, {"name": "Musée Voltaire", "text": "Voltaire filozófus életének és munkásságának szentelt múzeum.", "category": "museum", "coords": [6.133342, 46.207627]}, {"name": "Musée International de la Croix-Rouge et du Croissant-Rouge", "text": "A Nemzetközi Vöröskereszt és Vörös Félhold Múzeuma, amely a humanitárius munkát mutatja be.", "category": "museum", "coords": [6.136901, 46.22741]}, {"name": "Uptown Geneva", "text": "Modern kulturális és rendezvényközpont különféle előadások számára.", "category": "cultural", "coords": [6.139429, 46.209479]}, {"name": "La Comédie de Ferney", "text": "Ez a Genf közeli színház változatos színpadi előadásokat kínál.", "category": "cultural", "coords": [6.108616, 46.257438]}, {"name": "le p'tit Music'Hohl", "text": "Kicsi, meghitt színház, amely humoros előadásairól és kabaréiról ismert.", "category": "cultural", "coords": [6.110065, 46.223235]}, {"name": "Plage ONU", "text": "A Grand-Saconnex nemzetközi negyedének közelében fekvő Plage ONU nyugodt tavi hangulatával csábít. Ez a Genfi-tó melletti strand harmonikus kikapcsolódást kínál a nyüzsgő városi élettől. A látogatók itt sétálhatnak a víz mentén, vagy tarthatnak egy rövid úszószünetet. Egy üveg víz és egy kis idő az álmodozásra tökéletessé teszi a kirándulást.", "category": "recreational", "coords": [6.149126, 46.227518]}, {"name": "Théâtre des Grottes", "text": "Helyi színház a genfi Grottes negyedben, amely helyet biztosít a kreatív produkcióknak.", "category": "cultural", "coords": [6.137924, 46.211925]}, {"name": "Théâtre Micromégas", "text": "Kulturális helyszín, amely különféle színdarabokat és művészeti előadásokat mutat be.", "category": "cultural", "coords": [6.109508, 46.254841]}, {"name": "Plage de la Perle-du-Lac", "text": "A gyönyörű parkkal körülvett Grand-Saconnex-i Plage de la Perle-du-Lac egy rendkívül festői nyilvános strand. A Genfi-tó buja zöldje és kékje nyugtató légkört teremt minden látogató számára. A fürdőzési lehetőség és a sétányok kombinációja adja ennek a helynek a varázsát. Egy idilli tartózkodáshoz ezt a partszakaszt alig lehet felülmúlni.", "category": "recreational", "coords": [6.153253, 46.220005]}, {"name": "Plage du Reposoir", "text": "A Grand-Saconnex-i Plage du Reposoir egy kiváló fürdőhely közvetlenül a Genfi-tó partján. Családok és barátok szívesen találkoznak itt, hogy ússzanak és közösen piknikezzenek a szabadban. A nyitott és élénk légkör gondtalan fürdőzési élményt biztosít. Érdemes némi ennivalót hozni, hogy a tónál töltött napot teljes mértékben kiélvezhessük.", "category": "recreational", "coords": [6.150201, 46.230474]}, {"name": "Musée militaire genevois", "text": "A múzeum Genf kanton hadtörténetének szentelt, történelmi felszereléseket mutat be.", "category": "museum", "coords": [6.140503, 46.232369]}, {"name": "Parc aux animaux", "text": "Helyi park, ahol a látogatók különféle állatfajokat figyelhetnek meg természetes környezetben.", "category": "family", "coords": [6.147679, 46.227959]}, {"name": "Bioparc Genève", "text": "Ez az állatpark a biológiai sokféleség védelmére és a vadon élő állatok rehabilitációjára összpontosít.", "category": "family", "coords": [6.139469, 46.25803]}, {"name": "Théatre le douze dix-huit", "text": "Kortárs színház, amely a modern színpadi művek széles skáláját mutatja be.", "category": "cultural", "coords": [6.122738, 46.227981]}, {"name": "Cloche de Shinagawa", "text": "Egy szimbolikus békeharang, amely Genf és Sinagava testvérvárosi kapcsolatára emlékeztet.", "category": "landmark", "coords": [6.138078, 46.22428]}, {"name": "Parc Moynier", "text": "Elegáns tóparti park, amely egykor Gustave Moynier birtokához tartozott.", "category": "park", "coords": [6.151303, 46.219394]}, {"name": "Parc Mon-Repos", "text": "Genf egyik legszebb parkja, pompás villákkal és közvetlen kapcsolattal a tóparthoz.", "category": "park", "coords": [6.149999, 46.218536]}, {"name": "Parc Barton", "text": "Ez a park lenyűgöző óriás mamutfenyőiről és a Genfi-tóra nyíló kilátásáról ismert.", "category": "park", "coords": [6.151379, 46.222207]}, {"name": "Parc Beaulieu", "text": "Bájos nyilvános park történelmi udvarházzal és öreg fákkal.", "category": "park", "coords": [6.137249, 46.214559]}, {"name": "Parc des Cropettes", "text": "Népszerű környékbeli park, ahol nyáron gyakran tartanak ingyenes zenei fesztiválokat.", "category": "park", "coords": [6.1403, 46.212658]}, {"name": "Parc Trembley", "text": "Nagy városi park sportlétesítményekkel, játszóterekkel és tágas zöldfelületekkel a nyilvánosság számára.", "category": "park", "coords": [6.129373, 46.218039]}, {"name": "Parc des Franchises", "text": "Kiterjedt park, amely biológiai sokféleségéről és festői tavairól ismert.", "category": "park", "coords": [6.117762, 46.211849]}, {"name": "Parc de Vermont", "text": "Csendes zöld terület a Vermont negyedben, ideális egy rövid sétához vagy pihenéshez.", "category": "park", "coords": [6.138821, 46.218292]}, {"name": "Jardin Botanique Alpin", "text": "Ez a botanikus kert számos alpesi növényt mutat be gondozott környezetben.", "category": "park", "coords": [6.081694, 46.227239]}, {"name": "Parc Gustave-et-Léonard Hentsch", "text": "Egy egykori stadion helyén kialakított modern park, amely szabadidős és sportolási lehetőségeket kínál.", "category": "park", "coords": [6.118639, 46.208895]}, {"name": "Palais des Nations", "text": "Az ENSZ európai székhelye a globális diplomácia egyik legfontosabb központja.", "category": "landmark", "coords": [6.142301, 46.228267]}, {"name": "Lake Geneva Overlook", "text": "Kilátóhely, amely tágas és festői kilátást nyújt a Genfi-tóra.", "category": "natural", "coords": [6.133224, 46.239644]}, {"name": "Toboggan géant de la butte de Riantbosson", "text": "Népszerű gyermekattrakció egy mesterséges dombon található óriáscsúszdával.", "category": "landmark", "coords": [6.084567, 46.228728]}, {"name": "Lost", "text": "Helyi szabadidős látványosság, amely szórakozást kínál a Grand-Saconnex-be látogatóknak.", "category": "landmark", "coords": [6.147951, 46.22123]}, {"name": "Peter Parkanyi, 2016", "text": "Emlékmű Peter Parkanyi tiszteletére, amely művészeti elemként szolgál a közterületen.", "category": "historical", "coords": [6.125873, 46.23115]}, {"name": "Bowling de Balexert", "text": "Modern bowlingpálya a Balexert központban, amely szórakozást nyújt csoportoknak és családoknak.", "category": "landmark", "coords": [6.110731, 46.218833]}, {"name": "Adéléa", "text": "Művészeti és kulturális központ, amely különféle kreatív workshopokat és kiállításokat támogat.", "category": "cultural", "coords": [6.134393, 46.211861]}, {"name": "Expo", "text": "Galéria, amely rendszeresen váltakozó művészeti kiállításokat és kulturális eseményeket mutat be.", "category": "museum", "coords": [6.138544, 46.210416]}, {"name": "ViiVa", "text": "Modern művészeti galéria, amely kortárs művészek alkotásait mutatja be elegáns környezetben.", "category": "museum", "coords": [6.141805, 46.21193]}, {"name": "Chalet Montbovon", "text": "Történelmi vagy utánzott faház, amely a hagyományos svájci építészeti stílust képviseli.", "category": "landmark", "coords": [6.141123, 46.223297]}, {"name": "Allée des drapeaux", "text": "Híres útvonal az ENSZ-palota előtt, az összes tagállam zászlajával szegélyezve.", "category": "landmark", "coords": [6.139309, 46.223545]}, {"name": "Mosquée du Petit-Saconnex", "text": "Genf legnagyobb mecsetje és a muszlim közösség fontos vallási központja.", "category": "religious", "coords": [6.121945, 46.223622]}, {"name": "Temple du Petit-Saconnex", "text": "Protestáns templom Petit-Saconnex-ben, amely hosszú múltra tekint vissza a közösségben.", "category": "religious", "coords": [6.127956, 46.222972]}, {"name": "Église Sainte-Trinité", "text": "A Szentháromságnak szentelt katolikus templom, amely a helyi közösséget szolgálja.", "category": "religious", "coords": [6.147159, 46.216394]}, {"name": "Église Saint-Nicolas-de-Flue", "text": "Ezt a modern katolikus templomot Svájc védőszentjéről, Flüei Szent Miklósról nevezték el.", "category": "religious", "coords": [6.140569, 46.218739]}, {"name": "Sainte-Jeanne de Chantal", "text": "Katolikus plébániatemplom a Grand-Saconnex régióban, amely közösségi munkájáról ismert.", "category": "religious", "coords": [6.125526, 46.207307]}, {"name": "Église néo-apostolique", "text": "Az Újaposztoli Egyház templomépülete, amely egyszerű és modern építészetével tűnik ki.", "category": "religious", "coords": [6.132638, 46.210389]}, {"name": "Paroisse protestante de Montbrillant", "text": "Aktív protestáns gyülekezet a Montbrillant negyedben, sokszínű spirituális kínálattal.", "category": "religious", "coords": [6.140168, 46.214908]}, {"name": "Église Saint-Hippolyte", "text": "Hagyományos vallási épület, amely imádság és elmélkedés helyszínéül szolgál a hívők számára.", "category": "religious", "coords": [6.124108, 46.232395]}, {"name": "Chapelle des Crêts", "text": "Kis kápolna Grand-Saconnex-ben, amely nyugodt légkört biztosít a helyi közösség számára.", "category": "religious", "coords": [6.129686, 46.234077]}, {"name": "Église Saint-Antoine-de-Padoue", "text": "Páduai Szent Antalnak szentelt templom, amely helyi lelki központként működik.", "category": "religious", "coords": [6.133474, 46.212862]}, {"name": "Genfi-tó", "text": "A Genfi-tó Grand Saconnex-nél is csodálatos kilátást nyújt a vízre.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Aire de jeux du parc Soubeyran", "text": "Nagyszerű játszóterület a Grand Saconnex-i Parc Soubeyranban.", "category": "family", "coords": [6.124068, 46.212152]}, {"name": "Place de jeux du Parc des Franchises", "text": "Tágas játszótér a Grand Saconnex-i Parc des Franchises területén.", "category": "family", "coords": [6.116485, 46.211123]}, {"name": "Piscine de Livron", "text": "A Grand Saconnex-i Piscine de Livron egy családbarát úszómedence.", "category": "family", "coords": [6.081721, 46.230995]}, {"name": "Bains des Pâquis", "text": "A Bains des Pâquis vízi szórakozást és kikapcsolódást kínál az egész családnak.", "category": "family", "coords": [6.154185, 46.210355]}, {"name": "Vivarium de Meyrin", "text": "A Vivarium de Meyrin különböző hüllőket és kétéltűeket mutat be az érdeklődő családoknak.", "category": "family", "coords": [6.08305, 46.225517]}, {"name": "Piscine du Grand-Saconnex", "text": "A Piscine du Grand-Saconnex úszómedencéket kínál sporthoz és szabadidőhöz.", "category": "family", "coords": [6.127523, 46.233798]}, {"name": "Plage du Rhône", "text": "A Grand Saconnex-i Plage du Rhône egy fürdőző- és pihenőhely.", "category": "family", "coords": [6.128279, 46.202678]}, {"name": "Ponton", "text": "Ez a Grand Saconnex-i ponton vízparti hozzáférést biztosít az úszók számára.", "category": "family", "coords": [6.13093, 46.20349]}, {"name": "Plage du Vengeron", "text": "A Plage du Vengeron népszerű strand a vízparti családi kirándulásokhoz.", "category": "family", "coords": [6.153703, 46.246373]}, {"name": "Plage du Quai-Wilson", "text": "A Plage du Quai-Wilson nyári fürdőzésre hív a város közelében.", "category": "family", "coords": [6.152267, 46.214763]}, {"name": "Pataugeoire", "text": "A Grand Saconnex-i pancsoló biztonságos vízi szórakozást nyújt kisgyermekeknek.", "category": "family", "coords": [6.138702, 46.213882]}, {"name": "Piscine des Vergers", "text": "A Piscine des Vergers modern úszási lehetőségeket kínál az egész családnak.", "category": "family", "coords": [6.072381, 46.234421]}, {"name": "Plage des Pâquis", "text": "A Plage des Pâquis fürdőzési lehetőséget és szép kilátást kínál a tóra.", "category": "family", "coords": [6.155322, 46.210484]}, {"name": "Plage Gitana", "text": "A Plage Gitana egy hívogató hely a fürdőzők számára Grand Saconnex-ben.", "category": "family", "coords": [6.154603, 46.253345]}], "ro": [{"name": "Musée d'histoire des sciences", "text": "Un muzeu care documentează evoluția instrumentelor și descoperirilor științifice.", "category": "museum", "coords": [6.152126, 46.220829]}, {"name": "Musée Ariana", "text": "Un muzeu important de ceramică și sticlă, cu o colecție vastă.", "category": "museum", "coords": [6.138855, 46.225405]}, {"name": "Château de Pregny", "text": "Un castel magnific în Pregny, cunoscut pentru arhitectura sa.", "category": "castle", "coords": [6.141778, 46.235251]}, {"name": "Château de Tournay", "text": "Un castel istoric cu teatru, care a aparținut anterior filosofului Voltaire.", "category": "castle", "coords": [6.138003, 46.237186]}, {"name": "Musée Voltaire", "text": "Un muzeu dedicat vieții și operei filosofului Voltaire.", "category": "museum", "coords": [6.133342, 46.207627]}, {"name": "Musée International de la Croix-Rouge et du Croissant-Rouge", "text": "Muzeul Internațional al Crucii Roșii și Semilunii Roșii, care prezintă activitatea umanitară.", "category": "museum", "coords": [6.136901, 46.22741]}, {"name": "Uptown Geneva", "text": "Un centru cultural și de evenimente modern pentru diverse spectacole.", "category": "cultural", "coords": [6.139429, 46.209479]}, {"name": "La Comédie de Ferney", "text": "Acest teatru din apropierea Genevei oferă un program diversificat de spectacole de scenă.", "category": "cultural", "coords": [6.108616, 46.257438]}, {"name": "le p'tit Music'Hohl", "text": "Un teatru mic și intim, cunoscut pentru spectacolele sale umoristice și de cabaret.", "category": "cultural", "coords": [6.110065, 46.223235]}, {"name": "Plage ONU", "text": "Nu departe de cartierul internațional din Grand-Saconnex, Plage ONU atrage prin atmosfera sa relaxată de lac. Această plajă de pe Lacul Geneva oferă o pauză armonioasă de la viața aglomerată a orașului. Vizitatorii pot să se plimbe de-a lungul apei sau să ia o scurtă pauză de înot. O sticlă de apă și puțin timp pentru a visa fac excursia perfectă.", "category": "recreational", "coords": [6.149126, 46.227518]}, {"name": "Théâtre des Grottes", "text": "Un teatru local din cartierul genovez Grottes, care oferă spațiu pentru producții creative.", "category": "cultural", "coords": [6.137924, 46.211925]}, {"name": "Théâtre Micromégas", "text": "O locație culturală care prezintă diverse piese de teatru și spectacole artistice.", "category": "cultural", "coords": [6.109508, 46.254841]}, {"name": "Plage de la Perle-du-Lac", "text": "Înconjurat de un parc minunat, Plage de la Perle-du-Lac din Grand-Saconnex este o plajă publică extrem de pitorească. Verdele luxuriant și albastrul Lacului Geneva creează o atmosferă liniștitoare pentru fiecare vizitator. Combinația de posibilități de înot și trasee de plimbare reprezintă farmecul acestui loc. Pentru o ședere idilică, această porțiune de coastă este greu de depășit.", "category": "recreational", "coords": [6.153253, 46.220005]}, {"name": "Plage du Reposoir", "text": "Plage du Reposoir din Grand-Saconnex este o zonă excelentă de scăldat chiar pe malul Lacului Geneva. Familiile și prietenii se întâlnesc cu plăcere aici pentru a înota și a face un picnic împreună în aer liber. Atmosfera deschisă și plină de viață asigură o experiență de baie lipsită de griji. Merită să aduceți niște provizii pentru a vă bucura pe deplin de ziua la lac.", "category": "recreational", "coords": [6.150201, 46.230474]}, {"name": "Musée militaire genevois", "text": "Muzeul este dedicat istoriei militare a cantonului Geneva și expune echipamente istorice.", "category": "museum", "coords": [6.140503, 46.232369]}, {"name": "Parc aux animaux", "text": "Un parc local unde vizitatorii pot observa diverse specii de animale într-un mediu natural.", "category": "family", "coords": [6.147679, 46.227959]}, {"name": "Bioparc Genève", "text": "Acest parc zoologic se concentrează pe conservarea biodiversității și reabilitarea faunei sălbatice.", "category": "family", "coords": [6.139469, 46.25803]}, {"name": "Théatre le douze dix-huit", "text": "Un teatru contemporan care pune în scenă o gamă largă de opere dramatice moderne.", "category": "cultural", "coords": [6.122738, 46.227981]}, {"name": "Cloche de Shinagawa", "text": "Un clopot al păcii simbolic, care comemorează înfrățirea dintre Geneva și Shinagawa.", "category": "landmark", "coords": [6.138078, 46.22428]}, {"name": "Parc Moynier", "text": "Un parc elegant pe malul lacului, care a aparținut cândva proprietății lui Gustave Moynier.", "category": "park", "coords": [6.151303, 46.219394]}, {"name": "Parc Mon-Repos", "text": "Unul dintre cele mai frumoase parcuri din Geneva, cu vile magnifice și acces direct la malul lacului.", "category": "park", "coords": [6.149999, 46.218536]}, {"name": "Parc Barton", "text": "Acest parc este cunoscut pentru sequoia gigant impresionanți și vederea spre lacul Leman.", "category": "park", "coords": [6.151379, 46.222207]}, {"name": "Parc Beaulieu", "text": "Un parc public fermecător, cu un conac istoric și arbori seculari.", "category": "park", "coords": [6.137249, 46.214559]}, {"name": "Parc des Cropettes", "text": "Un parc de cartier popular, unde vara au loc adesea festivaluri de muzică gratuite.", "category": "park", "coords": [6.1403, 46.212658]}, {"name": "Parc Trembley", "text": "Un parc urban mare, cu facilități sportive, locuri de joacă și spații verzi vaste pentru public.", "category": "park", "coords": [6.129373, 46.218039]}, {"name": "Parc des Franchises", "text": "Un parc întins, cunoscut pentru biodiversitatea sa și iazurile pitorești.", "category": "park", "coords": [6.117762, 46.211849]}, {"name": "Parc de Vermont", "text": "Un spațiu verde liniștit în cartierul Vermont, ideal pentru o scurtă plimbare sau relaxare.", "category": "park", "coords": [6.138821, 46.218292]}, {"name": "Jardin Botanique Alpin", "text": "Această grădină botanică prezintă o varietate de plante alpine într-un cadru îngrijit.", "category": "park", "coords": [6.081694, 46.227239]}, {"name": "Parc Gustave-et-Léonard Hentsch", "text": "Un parc modern pe locul unui fost stadion, oferind facilități de recreere și sport.", "category": "park", "coords": [6.118639, 46.208895]}, {"name": "Palais des Nations", "text": "Sediul european al Națiunilor Unite este un centru major pentru diplomația globală.", "category": "landmark", "coords": [6.142301, 46.228267]}, {"name": "Lake Geneva Overlook", "text": "Un punct de observație care oferă o vedere panoramică și pitorească asupra lacului Leman.", "category": "natural", "coords": [6.133224, 46.239644]}, {"name": "Toboggan géant de la butte de Riantbosson", "text": "O atracție populară pentru copii, cu un tobogan uriaș situat pe un deal artificial.", "category": "landmark", "coords": [6.084567, 46.228728]}, {"name": "Lost", "text": "O atracție locală de agrement care oferă divertisment vizitatorilor din Grand-Saconnex.", "category": "landmark", "coords": [6.147951, 46.22123]}, {"name": "Peter Parkanyi, 2016", "text": "Un monument în onoarea lui Peter Parkanyi, care servește ca element artistic în spațiul public.", "category": "historical", "coords": [6.125873, 46.23115]}, {"name": "Bowling de Balexert", "text": "O pistă de bowling modernă în centrul Balexert, oferind distracție pentru grupuri și familii.", "category": "landmark", "coords": [6.110731, 46.218833]}, {"name": "Adéléa", "text": "Un centru pentru artă și cultură care promovează diverse ateliere creative și expoziții.", "category": "cultural", "coords": [6.134393, 46.211861]}, {"name": "Expo", "text": "O galerie care prezintă expoziții de artă și evenimente culturale care se schimbă periodic.", "category": "museum", "coords": [6.138544, 46.210416]}, {"name": "ViiVa", "text": "O galerie de artă modernă care expune lucrări ale artiștilor contemporani într-un cadru elegant.", "category": "museum", "coords": [6.141805, 46.21193]}, {"name": "Chalet Montbovon", "text": "Un chalet istoric sau replicat care reprezintă stilul arhitectural tradițional elvețian.", "category": "landmark", "coords": [6.141123, 46.223297]}, {"name": "Allée des drapeaux", "text": "O alee celebră în fața Palatului Națiunilor, mărginită de steagurile tuturor statelor membre.", "category": "landmark", "coords": [6.139309, 46.223545]}, {"name": "Mosquée du Petit-Saconnex", "text": "Cea mai mare moschee din Geneva și un centru religios important pentru comunitatea musulmană.", "category": "religious", "coords": [6.121945, 46.223622]}, {"name": "Temple du Petit-Saconnex", "text": "Un lăcaș de cult protestant din Petit-Saconnex, cu o istorie îndelungată în comunitate.", "category": "religious", "coords": [6.127956, 46.222972]}, {"name": "Église Sainte-Trinité", "text": "O biserică catolică dedicată Sfintei Treimi, care deservește comunitatea locală.", "category": "religious", "coords": [6.147159, 46.216394]}, {"name": "Église Saint-Nicolas-de-Flue", "text": "Această biserică catolică modernă poartă numele patronului spiritual al Elveției, Sfântul Nicolae de Flüe.", "category": "religious", "coords": [6.140569, 46.218739]}, {"name": "Sainte-Jeanne de Chantal", "text": "O biserică parohială catolică din regiunea Grand-Saconnex, cunoscută pentru activitatea sa comunitară.", "category": "religious", "coords": [6.125526, 46.207307]}, {"name": "Église néo-apostolique", "text": "O clădire bisericească a Bisericii Nou-Apostolice, care se remarcă prin arhitectura sa simplă și modernă.", "category": "religious", "coords": [6.132638, 46.210389]}, {"name": "Paroisse protestante de Montbrillant", "text": "O parohie protestantă activă în cartierul Montbrillant, cu o ofertă spirituală diversificată.", "category": "religious", "coords": [6.140168, 46.214908]}, {"name": "Église Saint-Hippolyte", "text": "O clădire religioasă tradițională care servește ca loc de rugăciune și reflecție pentru credincioși.", "category": "religious", "coords": [6.124108, 46.232395]}, {"name": "Chapelle des Crêts", "text": "O mică chapelă în Grand-Saconnex, care oferă o atmosferă liniștită pentru comunitatea locală.", "category": "religious", "coords": [6.129686, 46.234077]}, {"name": "Église Saint-Antoine-de-Padoue", "text": "O biserică dedicată Sfântului Anton de Padova, care funcționează ca centru spiritual local.", "category": "religious", "coords": [6.133474, 46.212862]}, {"name": "Le Léman", "text": "Lacul Geneva oferă vederi minunate spre apă și lângă Grand Saconnex.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Aire de jeux du parc Soubeyran", "text": "O zonă de joacă minunată în parcul Soubeyran din Grand Saconnex.", "category": "family", "coords": [6.124068, 46.212152]}, {"name": "Place de jeux du Parc des Franchises", "text": "Un loc de joacă spațios în parcul Franchises din Grand Saconnex.", "category": "family", "coords": [6.116485, 46.211123]}, {"name": "Piscine de Livron", "text": "Piscine de Livron din Grand Saconnex este o piscină potrivită pentru familii.", "category": "family", "coords": [6.081721, 46.230995]}, {"name": "Bains des Pâquis", "text": "Bains des Pâquis oferă distracție acvatică și relaxare pentru întreaga familie.", "category": "family", "coords": [6.154185, 46.210355]}, {"name": "Vivarium de Meyrin", "text": "Vivarium de Meyrin prezintă diverse reptile și amfibieni pentru familiile interesate.", "category": "family", "coords": [6.08305, 46.225517]}, {"name": "Piscine du Grand-Saconnex", "text": "Piscine du Grand-Saconnex oferă bazine de înot pentru sport și recreere.", "category": "family", "coords": [6.127523, 46.233798]}, {"name": "Plage du Rhône", "text": "Plage du Rhône din Grand Saconnex este un loc pentru scăldat și relaxare.", "category": "family", "coords": [6.128279, 46.202678]}, {"name": "Ponton", "text": "Acest ponton din Grand Saconnex oferă acces la apă pentru înotători.", "category": "family", "coords": [6.13093, 46.20349]}, {"name": "Plage du Vengeron", "text": "Plage du Vengeron este o plajă populară pentru excursii în familie pe malul apei.", "category": "family", "coords": [6.153703, 46.246373]}, {"name": "Plage du Quai-Wilson", "text": "Plage du Quai-Wilson invită la scăldat pe timp de vară în apropierea orașului.", "category": "family", "coords": [6.152267, 46.214763]}, {"name": "Pataugeoire", "text": "Această piscină pentru copii din Grand Saconnex oferă distracție sigură în apă pentru cei mici.", "category": "family", "coords": [6.138702, 46.213882]}, {"name": "Piscine des Vergers", "text": "Piscine des Vergers oferă facilități moderne de înot pentru întreaga familie.", "category": "family", "coords": [6.072381, 46.234421]}, {"name": "Plage des Pâquis", "text": "Plage des Pâquis oferă posibilități de scăldat și o vedere frumoasă spre lac.", "category": "family", "coords": [6.155322, 46.210484]}, {"name": "Plage Gitana", "text": "Plage Gitana este un loc primitor pentru cei care doresc să se scalde în Grand Saconnex.", "category": "family", "coords": [6.154603, 46.253345]}], "en": [{"name": "Musée d'histoire des sciences", "text": "A museum documenting the development of scientific instruments and discoveries.", "category": "museum", "coords": [6.152126, 46.220829]}, {"name": "Musée Ariana", "text": "A significant museum dedicated to ceramics and glass, housing an extensive collection.", "category": "museum", "coords": [6.138855, 46.225405]}, {"name": "Pregny Castle", "text": "A magnificent castle in Pregny known for its impressive architecture.", "category": "castle", "coords": [6.141778, 46.235251]}, {"name": "Château de Tournay", "text": "A historical castle with a theatre, formerly owned by the philosopher Voltaire.", "category": "castle", "coords": [6.138003, 46.237186]}, {"name": "Voltaire Museum", "text": "A museum dedicated to the life and work of the philosopher Voltaire.", "category": "museum", "coords": [6.133342, 46.207627]}, {"name": "ICRC", "text": "The International Red Cross and Red Crescent Museum, documenting humanitarian work.", "category": "museum", "coords": [6.136901, 46.22741]}, {"name": "Uptown Geneva", "text": "A modern cultural and event centre for various types of performances.", "category": "cultural", "coords": [6.139429, 46.209479]}, {"name": "La Comédie de Ferney", "text": "This theatre near Geneva offers a diverse program of stage performances.", "category": "cultural", "coords": [6.108616, 46.257438]}, {"name": "le p'tit Music'Hohl", "text": "A small, intimate theatre known for its humorous performances and cabarets.", "category": "cultural", "coords": [6.110065, 46.223235]}, {"name": "UN Beach", "text": "Not far from the international district in Grand-Saconnex, Plage ONU attracts with its relaxed lake mood. This beach on Lake Geneva offers a harmonious break from busy city life. Visitors can stroll along the water here or take a short swimming break. A bottle of water and a little time to dream make the trip perfect.", "category": "recreational", "coords": [6.149126, 46.227518]}, {"name": "Théâtre des Grottes", "text": "A local theatre in the Grottes district of Geneva, providing space for creative productions.", "category": "cultural", "coords": [6.137924, 46.211925]}, {"name": "Théâtre Micromégas", "text": "A cultural venue presenting various plays and artistic performances.", "category": "cultural", "coords": [6.109508, 46.254841]}, {"name": "Plage de la Perle-du-Lac", "text": "Surrounded by a beautiful park, Plage de la Perle-du-Lac in Grand-Saconnex is an extremely picturesque public beach. The lush greenery and the blue of Lake Geneva create a calming atmosphere for every visitor. The combination of swimming options and walking paths makes up the charm of this place. For an idyllic stay, this stretch of coastline is hard to beat.", "category": "recreational", "coords": [6.153253, 46.220005]}, {"name": "Plage du Reposoir", "text": "Plage du Reposoir in Grand-Saconnex is an excellent bathing area right on the shores of Lake Geneva. Families and friends like to meet here to swim and have an outdoor picnic together. The open and lively atmosphere ensures a carefree bathing experience. It is worth bringing some provisions to fully enjoy the day at the lake.", "category": "recreational", "coords": [6.150201, 46.230474]}, {"name": "Musée militaire genevois", "text": "The museum is dedicated to the military history of the canton of Geneva and displays historical equipment.", "category": "museum", "coords": [6.140503, 46.232369]}, {"name": "Animal Park", "text": "A local park where visitors can observe various animal species in a natural setting.", "category": "family", "coords": [6.147679, 46.227959]}, {"name": "Bioparc Genève", "text": "This animal park focuses on biodiversity conservation and wildlife rehabilitation.", "category": "family", "coords": [6.139469, 46.25803]}, {"name": "Théatre le douze dix-huit", "text": "A contemporary theatre performing a wide range of modern stage works.", "category": "cultural", "coords": [6.122738, 46.227981]}, {"name": "Peace Bell Honsen-ji, Shinagawa", "text": "A symbolic peace bell commemorating the sister-city relationship between Geneva and Shinagawa.", "category": "landmark", "coords": [6.138078, 46.22428]}, {"name": "Parc Moynier", "text": "An elegant lakeside park that once belonged to the estate of Gustave Moynier.", "category": "park", "coords": [6.151303, 46.219394]}, {"name": "Parc Mon-Repos", "text": "One of Geneva's most beautiful parks, featuring magnificent villas and direct lakeside access.", "category": "park", "coords": [6.149999, 46.218536]}, {"name": "Parc Barton", "text": "This park is known for its impressive giant sequoias and views of Lake Geneva.", "category": "park", "coords": [6.151379, 46.222207]}, {"name": "Parc Beaulieu", "text": "A charming public park featuring a historic manor house and old-growth trees.", "category": "park", "coords": [6.137249, 46.214559]}, {"name": "Parc des Cropettes", "text": "A popular neighborhood park that often hosts free music festivals during the summer.", "category": "park", "coords": [6.1403, 46.212658]}, {"name": "Parc Trembley", "text": "A large urban park with sports facilities, playgrounds, and wide green spaces for the public.", "category": "park", "coords": [6.129373, 46.218039]}, {"name": "Parc des Franchises", "text": "An expansive park known for its biodiversity and scenic ponds.", "category": "park", "coords": [6.117762, 46.211849]}, {"name": "Parc de Vermont", "text": "A quiet green space in the Vermont district, ideal for a short walk or relaxation.", "category": "park", "coords": [6.138821, 46.218292]}, {"name": "Jardin Botanique Alpin", "text": "This botanical garden displays a variety of alpine plants in a well-maintained setting.", "category": "park", "coords": [6.081694, 46.227239]}, {"name": "Parc Gustave-et-Léonard Hentsch", "text": "A modern park on a former stadium site, offering recreational and sports facilities.", "category": "park", "coords": [6.118639, 46.208895]}, {"name": "Palace of Nations", "text": "The European headquarters of the United Nations is a major center for global diplomacy.", "category": "landmark", "coords": [6.142301, 46.228267]}, {"name": "Lake Geneva Overlook", "text": "An observation point providing a wide and scenic view over Lake Geneva.", "category": "natural", "coords": [6.133224, 46.239644]}, {"name": "Toboggan géant de la butte de Riantbosson", "text": "A popular children's attraction featuring a giant slide on a man-made hill.", "category": "landmark", "coords": [6.084567, 46.228728]}, {"name": "Lost", "text": "A local leisure attraction providing entertainment for visitors in Grand-Saconnex.", "category": "landmark", "coords": [6.147951, 46.22123]}, {"name": "Peter Parkanyi, 2016", "text": "A monument honoring Peter Parkanyi, serving as an artistic element in the public space.", "category": "historical", "coords": [6.125873, 46.23115]}, {"name": "Bowling de Balexert", "text": "A modern bowling facility in the Balexert center, offering fun for groups and families.", "category": "landmark", "coords": [6.110731, 46.218833]}, {"name": "Adéléa", "text": "A center for arts and culture that promotes various creative workshops and exhibitions.", "category": "cultural", "coords": [6.134393, 46.211861]}, {"name": "Expo", "text": "A gallery that showcases regularly changing art exhibitions and cultural events.", "category": "museum", "coords": [6.138544, 46.210416]}, {"name": "ViiVa", "text": "A modern art gallery exhibiting works by contemporary artists in an elegant setting.", "category": "museum", "coords": [6.141805, 46.21193]}, {"name": "Chalet Montbovon", "text": "A historic or replica chalet representing traditional Swiss architectural style.", "category": "landmark", "coords": [6.141123, 46.223297]}, {"name": "Flag Alley", "text": "A famous walkway in front of the UN Palace, lined with the flags of all member states.", "category": "landmark", "coords": [6.139309, 46.223545]}, {"name": "Mosquée du Petit-Saconnex", "text": "The largest mosque in Geneva and an important religious center for the Muslim community.", "category": "religious", "coords": [6.121945, 46.223622]}, {"name": "Temple du Petit-Saconnex", "text": "A Protestant place of worship in Petit-Saconnex with a long history in the community.", "category": "religious", "coords": [6.127956, 46.222972]}, {"name": "Église Sainte-Trinité", "text": "A Catholic church dedicated to the Holy Trinity, serving the local parish.", "category": "religious", "coords": [6.147159, 46.216394]}, {"name": "Église Saint-Nicolas-de-Flue", "text": "This modern Catholic church is named after the Swiss patron saint, Nicholas of Flüe.", "category": "religious", "coords": [6.140569, 46.218739]}, {"name": "Sainte-Jeanne de Chantal", "text": "A Catholic parish church in the Grand-Saconnex region, known for its community work.", "category": "religious", "coords": [6.125526, 46.207307]}, {"name": "Église néo-apostolique", "text": "A church building of the New Apostolic Church, noted for its simple and modern architecture.", "category": "religious", "coords": [6.132638, 46.210389]}, {"name": "Paroisse protestante de Montbrillant", "text": "An active Protestant parish in the Montbrillant district with a diverse spiritual offering.", "category": "religious", "coords": [6.140168, 46.214908]}, {"name": "Église Saint-Hippolyte", "text": "A traditional religious building serving as a place of prayer and reflection for the faithful.", "category": "religious", "coords": [6.124108, 46.232395]}, {"name": "Chapelle des Crêts", "text": "A small chapel in Grand-Saconnex providing a quiet atmosphere for the local community.", "category": "religious", "coords": [6.129686, 46.234077]}, {"name": "Église Saint-Antoine-de-Padoue", "text": "A church dedicated to Saint Anthony of Padua, functioning as a local spiritual center.", "category": "religious", "coords": [6.133474, 46.212862]}, {"name": "Lake Geneva", "text": "Lake Geneva offers wonderful water views also near Grand Saconnex.", "category": "natural", "coords": [6.539468, 46.361359]}, {"name": "Aire de jeux du parc Soubeyran", "text": "A great play area in Parc Soubeyran in Grand Saconnex.", "category": "family", "coords": [6.124068, 46.212152]}, {"name": "Place de jeux du Parc des Franchises", "text": "A spacious playground in the Parc des Franchises in Grand Saconnex.", "category": "family", "coords": [6.116485, 46.211123]}, {"name": "Piscine de Livron", "text": "Piscine de Livron in Grand Saconnex is a family-friendly swimming pool.", "category": "family", "coords": [6.081721, 46.230995]}, {"name": "Bains des Pâquis", "text": "Bains des Pâquis offers water fun and relaxation for the whole family.", "category": "family", "coords": [6.154185, 46.210355]}, {"name": "Vivarium de Meyrin", "text": "The Vivarium de Meyrin displays various reptiles and amphibians for interested families.", "category": "family", "coords": [6.08305, 46.225517]}, {"name": "Piscine du Grand-Saconnex", "text": "Piscine du Grand-Saconnex offers swimming pools for sports and leisure.", "category": "family", "coords": [6.127523, 46.233798]}, {"name": "Plage du Rhône", "text": "Plage du Rhône in Grand Saconnex is a spot for bathing and relaxing.", "category": "family", "coords": [6.128279, 46.202678]}, {"name": "Ponton", "text": "This pontoon in Grand Saconnex provides water access for swimmers.", "category": "family", "coords": [6.13093, 46.20349]}, {"name": "Plage du Vengeron", "text": "Plage du Vengeron is a popular beach for family outings by the water.", "category": "family", "coords": [6.153703, 46.246373]}, {"name": "Plage du Quai-Wilson", "text": "Plage du Quai-Wilson invites for summer bathing near the city.", "category": "family", "coords": [6.152267, 46.214763]}, {"name": "Pataugeoire", "text": "The paddling pool in Grand Saconnex offers safe water fun for small children.", "category": "family", "coords": [6.138702, 46.213882]}, {"name": "Piscine des Vergers", "text": "Piscine des Vergers offers modern swimming facilities for the whole family.", "category": "family", "coords": [6.072381, 46.234421]}, {"name": "Plage des Pâquis", "text": "Plage des Pâquis offers bathing options and a beautiful view of the lake.", "category": "family", "coords": [6.155322, 46.210484]}, {"name": "Plage Gitana", "text": "Plage Gitana is an inviting spot for bathers in Grand Saconnex.", "category": "family", "coords": [6.154603, 46.253345]}]}, "type": "city", "parent": "CH-GE", "coords": [6.1217, 46.233], "population": 12545, "image": "/geo-images/switzerland/ch-grand-saconnex.webp", "name": {"de": "Grand-Saconnex", "hu": "Grand-Saconnex", "ro": "Grand-Saconnex", "en": "Grand-Saconnex"}, "description": {"de": "Eine internationale Gemeinde direkt neben dem Genfer Flughafen, die als Sitz wichtiger globaler Organisationen und des Palexpo-Zentrums bekannt ist.", "hu": "A genfi repülőtér közvetlen szomszédságában fekvő nemzetközi közösség, amely fontos globális szervezetek és a Palexpo központ székhelyeként ismert.", "ro": "O municipalitate internațională situată chiar lângă aeroportul din Geneva, cunoscută ca sediu al unor organizații globale importante și al centrului Palexpo.", "en": "An international municipality located right next to Geneva Airport, known as the seat of major global organizations and the Palexpo center."}, "facts": {"de": ["Genf-Region", "Internationaler Hub", "Palexpo Standort", "Flughafen-Naehe"], "hu": ["Genfi régió", "Nemzetközi csomópont", "Palexpo helyszíne", "Repülőtér közelsége"], "ro": ["Regiunea Geneva", "Hub internațional", "Locația Palexpo", "Proximitatea aeroportului"], "en": ["Geneva region", "International hub", "Palexpo location", "Airport proximity"]}, "descriptionAdvanced": {"de": "Le Grand-Saconnex ist eine Stadt und politische Gemeinde im Kanton Genf in der Schweiz. Geografisch grenzt sie direkt an die Stadt Genf sowie an den internationalen Flughafen Genf-Cointrin. Die Stadt hat sich von einem einstigen Bauerndorf zu einem bedeutenden internationalen Zentrum entwickelt. Dies liegt vor allem an der Ansiedlung zahlreicher internationaler Organisationen und diplomatischer Vertretungen, wie etwa dem Ökumenischen Rat der Kirchen (ÖRK). Ein weltweites Aushaengeschild ist das Palexpo, eines der groessten Ausstellungs- und Kongresszentren der Schweiz, in dem jaehrlich bedeutende Veranstaltungen wie der Genfer Auto-Salon stattfinden. Die Architektur der Gemeinde ist ein Kontrast zwischen dem historischen Dorfkern mit seinen charmanten Haeusern und den modernen Hochbauten des internationalen Viertels. Trotz der dichten Bebauung und der Naehe zur Verkehrsinfrastruktur bietet Grand-Saconnex schoene Parkanlagen wie den Parc Sarasin, der als grüne Lunge dient. Wirtschaftlich ist die Gemeinde durch den Dienstleistungssektor, den Tourismus (bedingt durch Konferenzen) und die Luftfahrtbranche gepraegt. Die hervorragende Verkehrsanbindung durch Autobahnen, Busse und die Naehe zum Schienennetz macht die Stadt zu einem strategisch wichtigen Standort in der Metropolregion Genf. Die Bevoelkerung ist sehr kosmopolitisch, was sich in einem vielfaeltigen kulturellen und gastronomischen Angebot widerspiegelt, das den Geist des internationalen Genf perfekt verkörpert.", "hu": "Grand-Saconnex egy város és politikai község Genf kantonban, Svájcban. Földrajzilag közvetlenül határos Genf városával és a Genf-Cointrin nemzetközi repülőtérrel. A település az egykori mezőgazdasági faluból jelentős nemzetközi központtá fejlődött. Ez elsősorban számos nemzetközi szervezet és diplomáciai képviselet betelepülésének köszönhető, mint például az Egyházak Világtanácsa (WCC). A város világszerte ismert jelképe a Palexpo, Svájc egyik legnagyobb kiállítási és kongresszusi központja, amely évente olyan jelentős eseményeknek ad otthont, mint a Genfi Autószalon. A község építészete kontrasztot alkot a történelmi falumag bájos házaival és a nemzetközi negyed modern magasépületeivel. A sűrű beépítettség és a közlekedési infrastruktúra közelsége ellenére Grand-Saconnex olyan szép parkokat kínál, mint a Parc Sarasin, amely zöld tüdőként szolgál. Gazdaságilag a közösséget a szolgáltató szektor, a konferenciaturizmus és a légiközlekedési ágazat jellemzi. Az autópályák, buszok és a vasúthálózat közelsége révén biztosított kiváló közlekedési kapcsolatok stratégiailag fontos helyszínné teszik a várost a genfi metropolisz övezetben. Lakossága rendkívül kozmopolita, ami sokszínű kulturális és gasztronómiai kínálatban tükröződik, tökéletesen megtestesítve a nemzetközi Genf szellemét.", "ro": "Le Grand-Saconnex este un oraș și o municipalitate politică din cantonul Geneva, Elveția. Geografic, se învecinează direct cu orașul Geneva, precum și cu Aeroportul Internațional Geneva-Cointrin. Orașul a evoluat dintr-un fost sat agricol într-un centru internațional semnificativ. Acest lucru se datorează în principal stabilirii a numeroase organizații internaționale și misiuni diplomatice, cum ar fi Consiliul Mondial al Bisericilor. Un simbol mondial este Palexpo, unul dintre cele mai mari centre de expoziții și congrese din Elveția, unde au loc anual evenimente majore, cum ar fi Salonul Auto de la Geneva. Arhitectura municipalității reprezintă un contrast între nucleul istoric al satului, cu casele sale fermecătoare, și clădirile moderne înalte din cartierul internațional. În ciuda densității construcțiilor și a proximității față de infrastructura de transport, Grand-Saconnex oferă parcuri frumoase, cum ar fi Parcul Sarasin, care servește ca plămân verde al zonei. Din punct de vedere economic, municipalitatea este marcată de sectorul serviciilor, de turismul de conferințe și de industria aviației. Conexiunea excelentă de transport prin autostrăzi, autobuze și proximitatea față de rețeaua feroviară face din oraș o locație strategică în regiunea metropolitană Geneva. Populația este foarte cosmopolită, ceea ce se reflectă într-o ofertă culturală și gastronomică diversă, care întruchipează perfect spiritul internațional al Genevei.", "en": "Le Grand-Saconnex is a town and municipality in the Canton of Geneva, Switzerland. Geographically, it directly borders the city of Geneva and the Geneva-Cointrin International Airport. The town has evolved from a former farming village into a major international hub. This transformation is primarily due to the presence of numerous international organizations and diplomatic missions, such as the World Council of Churches. A global landmark is Palexpo, one of Switzerland's largest exhibition and convention centers, which annually hosts prestigious events like the Geneva International Motor Show. The municipality's architecture offers a striking contrast between the historic village center with its charming houses and the modern high-rise buildings of the international quarter. Despite its dense development and proximity to major transport infrastructure, Grand-Saconnex features beautiful green spaces like Parc Sarasin, which serves as a vital natural retreat. Economically, the community is shaped by the service sector, conference tourism, and the aviation industry. Outstanding transport links via motorways, buses, and nearby rail networks make the town a strategically vital location within the Geneva metropolitan area. Its population is highly cosmopolitan, resulting in a rich cultural and gastronomic scene that perfectly reflects the international spirit of Geneva."}, "factsAdvanced": {"de": ["Sitz des ÖRK", "Palexpo Messezentrum", "Genfer Auto-Salon Ort", "Flughafen-Cointrin Grenze", "Parc Sarasin Grünanlage", "Diplomatenviertel Genf"], "hu": ["WCC székhelye", "Palexpo vásárközpont", "Genfi Autószalon helyszíne", "Cointrin repülőtér határa", "Parc Sarasin park", "Genfi diplomatanegyed"], "ro": ["Sediul WCC", "Centrul expozițional Palexpo", "Locația Salonului Auto de la Geneva", "Granița cu Aeroportul Cointrin", "Parcul Sarasin", "Cartierul diplomat din Geneva"], "en": ["Seat of the WCC", "Palexpo exhibition center", "Geneva Motor Show venue", "Borders Cointrin Airport", "Parc Sarasin green area", "Geneva diplomatic quarter"]}, "faq": {"de": [{"q": "Was ist das Palexpo?", "a": "Ein grosses Messezentrum, bekannt fuer den Auto-Salon und internationale Kongresse."}, {"q": "Wie kommt man von Grand-Saconnex ins Genfer Zentrum?", "a": "In wenigen Minuten mit dem Bus oder dem Zug vom nahegelegenen Flughafenbahnhof."}, {"q": "Gibt es internationale Schulen?", "a": "Ja, in der Umgebung befinden sich mehrere renommierte internationale Schulen."}, {"q": "Kann man dort parken?", "a": "Ja, besonders rund um das Palexpo gibt es grosse Parkhaeuser fuer Besucher."}], "hu": [{"q": "Mi az a Palexpo?", "a": "Egy nagy kiállítási központ, amely az Autószalonról és nemzetközi kongresszusokról ismert."}, {"q": "Hogyan juthatunk el Grand-Saconnex-ből Genf központjába?", "a": "Néhány perc alatt busszal vagy vonattal a közeli repülőtéri vasútállomásról."}, {"q": "Vannak nemzetközi iskolák?", "a": "Igen, a környéken több neves nemzetközi iskola is található."}, {"q": "Van parkolási lehetőség?", "a": "Igen, különösen a Palexpo környékén nagy parkolóházak várják a látogatókat."}], "ro": [{"q": "Ce este Palexpo?", "a": "Un mare centru expozițional, cunoscut pentru Salonul Auto și congresele internaționale."}, {"q": "Cum se ajunge din Grand-Saconnex în centrul Genevei?", "a": "În câteva minute cu autobuzul sau cu trenul de la gara aeroportului din apropiere."}, {"q": "Există școli internaționale?", "a": "Da, în împrejurimi se află mai multe școli internaționale renumite."}, {"q": "Se poate parca acolo?", "a": "Da, în special în jurul Palexpo există parcări mari pentru vizitatori."}], "en": [{"q": "What is Palexpo?", "a": "A large exhibition center, famous for the Motor Show and international congresses."}, {"q": "How do you get from Grand-Saconnex to Geneva center?", "a": "In just a few minutes by bus or train from the nearby airport railway station."}, {"q": "Are there international schools?", "a": "Yes, there are several prestigious international schools in the surrounding area."}, {"q": "Is parking available?", "a": "Yes, there are large parking garages for visitors, especially around the Palexpo area."}]}},
   {"id": "ch-spreitenbach", "sights": {
       "de": [
@@ -121110,6 +126438,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.800038,
                         47.557745
                   ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Ein Wasserpark in Möhlin für Familien und Schwimmer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.839609,
+                        47.575589
+                  ]
             }
       ],
       "hu": [
@@ -121273,6 +126610,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.800038,
                         47.557745
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Vízi park Möhlinben családoknak és úszóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        7.839609,
+                        47.575589
                   ]
             }
       ],
@@ -121438,6 +126784,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.800038,
                         47.557745
                   ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Un parc acvatic în Möhlin pentru familii și înotători.",
+                  "category": "recreational",
+                  "coords": [
+                        7.839609,
+                        47.575589
+                  ]
             }
       ],
       "en": [
@@ -121601,6 +126956,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.800038,
                         47.557745
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "A water park in Möhlin for families and swimmers.",
+                  "category": "recreational",
+                  "coords": [
+                        7.839609,
+                        47.575589
                   ]
             }
       ]
@@ -121885,6 +127249,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.036487,
                         47.394231
                   ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "Ein öffentliches Freibad in Suhr mit verschiedenen Wasserbecken für Sport und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
+                  ]
             }
       ],
       "hu": [
@@ -122165,6 +127538,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.036487,
                         47.394231
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "Nyilvános strandfürdő Suhrban, különféle medencékkel sportoláshoz és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
                   ]
             }
       ],
@@ -122447,6 +127829,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.036487,
                         47.394231
                   ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "Un ștrand public în Suhr, cu diverse bazine pentru sport și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
+                  ]
             }
       ],
       "en": [
@@ -122727,6 +128118,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.036487,
                         47.394231
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "A public outdoor swimming pool in Suhr with various basins for sports and leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
                   ]
             }
       ]
@@ -123020,6 +128420,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.47789,
                         46.979206
                   ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "Eine Freizeitanlage am Moossee, die Schwimmen und sportliche Aktivitäten ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
+                  ]
             }
       ],
       "hu": [
@@ -123309,6 +128718,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.47789,
                         46.979206
+                  ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "Szabadidős létesítmény a Moossee partján, úszási és sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
                   ]
             }
       ],
@@ -123600,6 +129018,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.47789,
                         46.979206
                   ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "O zonă de agrement pe malul lacului Moossee, oferind condiții pentru înot și sport.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
+                  ]
             }
       ],
       "en": [
@@ -123889,6 +129316,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.47789,
                         46.979206
+                  ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "A leisure facility at Moossee lake providing swimming and sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
                   ]
             }
       ]
@@ -129361,6 +134797,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.647918,
                         47.687419
                   ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "Ein Wasser- und Freizeitpark in Neuhausen am Rheinfall, der verschiedene Bade- und Sportmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
+                  ]
             }
       ],
       "hu": [
@@ -130046,6 +135491,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.647918,
                         47.687419
+                  ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "Vízi- és szabadidőpark Neuhausen am Rheinfallban, amely különféle fürdési és sportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
                   ]
             }
       ],
@@ -130733,6 +136187,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.647918,
                         47.687419
                   ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "Un parc acvatic și de agrement în Neuhausen am Rheinfall, care oferă diverse facilități pentru înot și sport.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
+                  ]
             }
       ],
       "en": [
@@ -131418,6 +136881,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.647918,
                         47.687419
+                  ]
+            },
+            {
+                  "name": "KSS",
+                  "text": "A water and leisure park in Neuhausen am Rheinfall offering various swimming and sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.62146,
+                        47.704331
                   ]
             }
       ]
@@ -137037,7 +142509,628 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "CH-FR", "coords": [6.8472, 46.8487], "population": 10071, "image": "/geo-images/switzerland/ch-estavayer.webp", "name": {"de": "Estavayer", "hu": "Estavayer", "ro": "Estavayer", "en": "Estavayer"}, "description": {"de": "Estavayer ist eine charmante mittelalterliche Stadt am Neuenburgersee, bekannt für ihr Schloss und Wassersportmöglichkeiten.", "hu": "Estavayer egy bájos középkori város a Neuchâteli-tó partján, amely kastélyáról és vízisport-lehetőségeiről ismert.", "ro": "Estavayer este un oraș medieval fermecător de pe malul lacului Neuchâtel, cunoscut pentru castelul său și sporturile nautice.", "en": "Estavayer is a charming medieval town on Lake Neuchâtel, known for its castle and diverse water sports activities."}, "facts": {"de": ["Mittelalterliche Altstadt", "Schloss Chenaux", "Am Neuenburgersee", "Froschmuseum"], "hu": ["Középkori óváros", "Chenaux kastély", "A Neuchâteli-tó partján", "Békamúzeum"], "ro": ["Oraș vechi medieval", "Castelul Chenaux", "Pe malul lacului Neuchâtel", "Muzeul Broaștelor"], "en": ["Medieval old town", "Chenaux Castle", "On Lake Neuchâtel", "Frog Museum"]}, "descriptionAdvanced": {"de": "Estavayer liegt am Südufer des Neuenburgersees im Kanton Freiburg und ist der Hauptort des Broyebezirks. Die Stadt blickt auf eine reiche Geschichte zurück, die bis in die Römerzeit reicht, doch ihr heutiges Erscheinungsbild ist stark mittelalterlich geprägt. Das imposante Schloss Chenaux aus dem 13. Jahrhundert thront über der Stadt und zeugt von der strategischen Bedeutung des Ortes. Die gut erhaltene Altstadt mit ihren engen Gassen und historischen Gebäuden lädt zum Verweilen ein. Estavayer ist heute nicht nur ein kulturelles Zentrum, sondern auch ein beliebtes Ziel für Touristen, besonders für Liebhaber des Wassersports. Der Ort verfügt über einen der am besten ausgestatteten Wasserski-Lifte in Europa. Ein Unikum ist das Froschmuseum, in dem präparierte Frösche in Alltagsszenen aus dem 19. Jahrhundert dargestellt sind. Die umliegende Natur der Grande Cariçaie bietet zudem wichtige Lebensräume für seltene Pflanzen und Tiere.", "hu": "Estavayer a Neuchâteli-tó déli partján, Fribourg kantonban található, és a Broye kerület székhelye. A város gazdag történelme egészen a római korig nyúlik vissza, de mai arculatát elsősorban a középkori építészet határozza meg. A 13. századi Chenaux kastély fenségesen magasodik a város fölé, emlékeztetve a hely egykori stratégiai jelentőségére. A jól megőrzött óváros szűk utcáival és történelmi házaival különleges hangulatot áraszt. Estavayer ma nemcsak kulturális központ, hanem népszerű turisztikai célpont is, különösen a vízi sportok kedvelői körében. Itt található Európa egyik legjobban felszerelt vízisí-pályája. A város egyik különlegessége a Békamúzeum, ahol kitömött békákat láthatunk 19. századi életképekbe helyezve. A várost körülvevő Grande Cariçaie természetvédelmi terület fontos élőhelyet biztosít számos ritka növény- és állatfaj számára a tópart mentén.", "ro": "Estavayer este situat pe malul sudic al lacului Neuchâtel în cantonul Fribourg și este reședința districtului Broye. Orașul are o istorie bogată care datează din epoca romană, dar aspectul său actual este puternic influențat de arhitectura medievală. Impunătorul Castel Chenaux din secolul al XIII-lea domină orașul, fiind o mărturie a importanței strategice a locației în trecut. Orașul vechi bine conservat, cu străduțele sale înguste și clădirile istorice, oferă o atmosferă autentică. Astăzi, Estavayer nu este doar un centru cultural, ci și o destinație turistică populară, în special pentru pasionații de sporturi nautice. Localitatea deține una dintre cele mai bine dotate instalații de schi nautic din Europa. O atracție unică este Muzeul Broaștelor, unde broaște preparate sunt prezentate în scene din viața cotidiană a secolului al XIX-lea. Rezervația naturală Grande Cariçaie din apropiere oferă habitate esențiale pentru specii rare de plante și animale.", "en": "Estavayer is situated on the southern shore of Lake Neuchâtel in the Canton of Fribourg and serves as the capital of the Broye district. The town boasts a rich history dating back to Roman times, though its present character is profoundly defined by its medieval heritage. The majestic Chenaux Castle, constructed in the 13th century, overlooks the town and reflects its past strategic importance. The well-preserved old town, with its narrow cobblestone streets and historic buildings, invites exploration. Today, Estavayer is both a cultural center and a popular tourist destination, especially renowned for its water sports facilities. It features one of the most advanced water-skiing cableways in Europe. A unique local curiosity is the Frog Museum, displaying taxidermied frogs in 19th-century domestic scenes. The surrounding Grande Cariçaie nature reserve provides crucial habitats for rare flora and fauna, making it a paradise for nature enthusiasts and birdwatchers alike."}, "factsAdvanced": {"de": ["Schloss Chenaux aus dem 13. Jahrhundert", "Hauptort des Broyebezirks", "Teil der Grande Cariçaie Naturzone", "Bekannt für das Froschmuseum", "Beliebter Ort für Wasserski", "Mittelalterliches Stadtbild"], "hu": ["13. századi Chenaux kastély", "A Broye kerület központja", "A Grande Cariçaie természetvédelmi övezet része", "Híres Békamúzeum", "Népszerű vízisí-központ", "Középkori városkép"], "ro": ["Castelul Chenaux din secolul al XIII-lea", "Reședința districtului Broye", "Parte a zonei naturale Grande Cariçaie", "Cunoscut pentru Muzeul Broaștelor", "Loc popular pentru schi nautic", "Aspect urban medieval"], "en": ["13th-century Chenaux Castle", "Capital of the Broye district", "Part of the Grande Cariçaie nature zone", "Famous for the Frog Museum", "Popular spot for water skiing", "Medieval urban character"]}, "faq": {"de": [{"q": "Was ist das Froschmuseum?", "a": "Ein Museum mit Fröschen, die menschliche Szenen nachstellen."}, {"q": "Wo liegt Estavayer?", "a": "Am Südufer des Neuenburgersees im Kanton Freiburg."}, {"q": "Welches Schloss gibt es dort?", "a": "Das Château de Chenaux aus dem 13. Jahrhundert."}, {"q": "Was kann man am See machen?", "a": "Wasserski fahren, Segeln und in der Natur wandern."}], "hu": [{"q": "Mi az a Békamúzeum?", "a": "Egy múzeum, ahol békák mutatnak be emberi életjeleneteket."}, {"q": "Hol fekszik Estavayer?", "a": "A Neuchâteli-tó déli partján, Fribourg kantonban."}, {"q": "Melyik kastély található itt?", "a": "A 13. századi Château de Chenaux kastély."}, {"q": "Mit lehet a tónál csinálni?", "a": "Vízisízni, vitorlázni és természetet járni."}], "ro": [{"q": "Ce este Muzeul Broaștelor?", "a": "Un muzeu cu broaște care imită scene din viața umană."}, {"q": "Unde se află Estavayer?", "a": "Pe malul sudic al lacului Neuchâtel, în cantonul Fribourg."}, {"q": "Ce castel există acolo?", "a": "Château de Chenaux, datând din secolul al XIII-lea."}, {"q": "Ce activități sunt pe lac?", "a": "Schi nautic, navigație și drumeții în natură."}], "en": [{"q": "What is the Frog Museum?", "a": "A museum featuring frogs arranged in human-like scenes."}, {"q": "Where is Estavayer located?", "a": "On the southern shore of Lake Neuchâtel in Canton Fribourg."}, {"q": "Which castle is there?", "a": "The 13th-century Château de Chenaux."}, {"q": "What activities are on the lake?", "a": "Water skiing, sailing, and nature hiking."}]}},
-  {"id": "ch-mã¼nchenbuchsee", "sights": {"de": [{"name": "Schloss Hofwil", "text": "Ein klassizistisches Schloss, das Teil der bedeutenden pädagogischen Anlagen von Hofwil ist.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "Ein historischer Herrensitz in Münchenbuchsee, der heute für die Verwaltung genutzt wird.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "Archäologische Stätte mit Überresten historischer Erdbefestigungen.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "Ort prähistorischer oder mittelalterlicher Bodenfunde in der Gemeinde.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "Ein Museum, das eine vielfältige Sammlung historischer Spielzeuge zeigt.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "Spezialmuseum, das sich der Geschichte und Hilfsmitteln für Sehbehinderte widmet.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "Ein bedeutender prähistorischer Einbaum, der im nahen Moossee entdeckt wurde.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "Der Naturpunkt Üedeli, Panorama befindet sich bei der Schweizer Gemeinde Muenchenbuchsee. Dieser erhöhte Aussichtspunkt gewährt seinen Besuchern einen weiten und malerischen Blick über das Berner Mittelland. Es ist ein beliebtes Ziel, um die Weite der Schweizer Landschaft in sich aufzunehmen.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "Der erste Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Europa.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "Eine katholische Kirche in Münchenbuchsee, benannt nach dem Heiligen Franziskus.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "Das historische reformierte Gotteshaus im Zentrum der Nachbargemeinde Moosseedorf.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "Die evangelisch-reformierte Kirche für die lokale Gemeinde in Zollikofen.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "Ein modernes sakrales Gebäude der Neuapostolischen Kirche in Zollikofen.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "Ein kleinerer See in Münchenbuchsee, der eine ruhige Kulisse für Spaziergänge bietet.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "Ein idyllischer See in Münchenbuchsee, der Möglichkeiten zur Erholung in der Natur bietet.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "Ein Solebad und Spa in Münchenbuchsee für erholsame Stunden und Wellness.", "category": "family", "coords": [7.496153, 47.022127]}], "hu": [{"name": "Schloss Hofwil", "text": "Klasszicista kastély, amely a hofwili jelentős oktatási intézmények része.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "Történelmi nemesi kúria Münchenbuchseeben, amelyet ma közigazgatási célokra használnak.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "Régészeti lelőhely történelmi földvár-maradványokkal.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "Őskori vagy középkori régészeti leletek helyszíne a községben.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "Múzeum, amely történelmi játékok sokszínű gyűjteményét mutatja be.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "Szakmúzeum, amely a látássérültek történetének és segédeszközeinek szentelték.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "Jelentős őskori bödönhajó, amelyet a közeli Moossee-tóban fedeztek fel.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "Az Üedeli, Panorama természeti pont a svájci Muenchenbuchsee község közelében található. Ez a magaslati kilátó tágas és festői kilátást nyújt a látogatóknak a Berni-középföldre. Népszerű úti cél a svájci táj tágasságának megcsodálására.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának első európai temploma.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "Katolikus templom Münchenbuchseeben, amelyet Szent Ferencről neveztek el.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "Történelmi református templom a szomszédos Moosseedorf központjában.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "Zollikofen helyi közösségének evangélikus-református temploma.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "Az Újaposztoli Egyház modern szakrális épülete Zollikofenben.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "Kisebb tó Münchenbuchsee-ben, amely nyugodt környezetet biztosít a sétákhoz.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "Idilli tó Münchenbuchsee-ben, amely lehetőséget nyújt a természetben való kikapcsolódásra.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "Sós vizes fürdő és wellness központ Münchenbuchseeben a teljes ellazulásért.", "category": "family", "coords": [7.496153, 47.022127]}], "ro": [{"name": "Schloss Hofwil", "text": "Un castel neoclasic care face parte din importantele facilități educaționale din Hofwil.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "Un conac istoric în Münchenbuchsee, folosit astăzi pentru administrație.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "Sit arheologic cu rămășițe ale unor fortificații istorice de pământ.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "Locul unor descoperiri arheologice preistorice sau medievale în comună.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "Un muzeu care expune o colecție diversă de jucării istorice.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "Muzeu specializat dedicat istoriei și ajutoarelor pentru persoanele cu deficiențe de vedere.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "O pirogă preistorică importantă, descoperită în lacul Moossee din apropiere.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "Punctul natural Üedeli, Panorama se află lângă comuna elvețiană Muenchenbuchsee. Acest punct de belvedere înalt oferă vizitatorilor o priveliște vastă și pitorească asupra regiunii Berner Mittelland. Este o destinație populară pentru a admira imensitatea peisajului elvețian.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "Primul templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Europa.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "O biserică catolică în Münchenbuchsee, numită după Sfântul Francisc.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "Lăcașul de cult reformat istoric din centrul comunei învecinate Moosseedorf.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "Biserica evanghelică-reformată pentru comunitatea locală din Zollikofen.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "O clădire sacră modernă a Bisericii Nouapostolice din Zollikofen.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "Un lac mai mic în Münchenbuchsee, care oferă un cadru liniștit pentru plimbări.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "Un lac idilic în Münchenbuchsee, care oferă posibilități de recreere în natură.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "Băi saline și spa în Münchenbuchsee, un loc ideal pentru relaxare și tratamente.", "category": "family", "coords": [7.496153, 47.022127]}], "en": [{"name": "Schloss Hofwil", "text": "A neoclassical castle that is part of the significant educational facilities of Hofwil.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "A historical manor house in Münchenbuchsee, currently used for administration.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "An archaeological site featuring remains of historical earthwork fortifications.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "A site of prehistoric or medieval archaeological findings in the municipality.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "A museum displaying a diverse collection of historical toys.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "A specialized museum dedicated to the history and aids for the visually impaired.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "A significant prehistoric dugout boat discovered in the nearby Moossee lake.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "The natural spot Üedeli, Panorama is located near the Swiss municipality of Muenchenbuchsee. This elevated viewpoint grants its visitors a vast and picturesque view over the Bernese Mittelland. It is a popular destination to take in the expanse of the Swiss landscape.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "The first temple of The Church of Jesus Christ of Latter-day Saints in Europe.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "A Catholic church in Münchenbuchsee, named after Saint Francis.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "The historical Reformed place of worship in the center of the neighboring Moosseedorf.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "The Evangelical-Reformed church for the local community in Zollikofen.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "A modern sacred building of the New Apostolic Church in Zollikofen.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "A smaller lake in Münchenbuchsee offering a quiet backdrop for walks.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "An idyllic lake in Münchenbuchsee offering opportunities for recreation in nature.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "A saltwater bath and spa in Muenchenbuchsee for relaxation and wellness.", "category": "family", "coords": [7.496153, 47.022127]}]}, "type": "city", "parent": "CH-BE", "coords": [7.4486, 47.0211], "population": 10071, "image": "/geo-images/switzerland/ch-muenchenbuchsee.webp", "name": {"de": "Münchenbuchsee", "hu": "Münchenbuchsee", "ro": "Münchenbuchsee", "en": "Münchenbuchsee"}, "description": {"de": "Münchenbuchsee ist eine lebendige Berner Gemeinde, bekannt als Geburtsort von Paul Klee und Standort einer historischen Komturei.", "hu": "Münchenbuchsee egy élénk berni település, amely Paul Klee szülőhelyeként és egy történelmi rendház helyszíneként ismert.", "ro": "Münchenbuchsee este o comună vibrantă din Berna, cunoscută ca locul de naștere al lui Paul Klee și sediul unei comanderii istorice.", "en": "Münchenbuchsee is a lively Bernese municipality, known as the birthplace of Paul Klee and home to a historic commandery."}, "facts": {"de": ["Geburtsort von Paul Klee", "Ehemalige Johanniterkomturei", "Nähe zur Stadt Bern", "Moossee in der Umgebung"], "hu": ["Paul Klee szülőhelye", "Egykori jánosrendi lovagrendház", "Bern városának közelében", "Moossee a szomszédságban"], "ro": ["Locul de naștere al lui Paul Klee", "Fostă comanderie a Ioaniților", "Aproape de orașul Berna", "Lacul Moossee în apropiere"], "en": ["Birthplace of Paul Klee", "Former Johanniter commandery", "Near the city of Bern", "Moossee lake nearby"]}, "descriptionAdvanced": {"de": "Münchenbuchsee liegt im Herzen des Kantons Bern und ist ein bedeutender Wohn- und Wirtschaftsstandort im Berner Mittelland. Die Geschichte der Gemeinde ist untrennbar mit der Johanniterkomturei verbunden, die im 12. Jahrhundert gegründet wurde und lange Zeit das religiöse und kulturelle Zentrum der Region bildete. Ein besonderes kulturelles Highlight ist die Tatsache, dass der berühmte Maler Paul Klee hier im Jahr 1879 geboren wurde. Die Gemeinde zeichnet sich durch eine gute Mischung aus traditioneller Landwirtschaft und moderner Industrie aus. Das Bildungszentrum Hofwil, das auf den Philanthropen Philipp Emanuel von Fellenberg zurückgeht, geniesst weit über die Region hinaus einen exzellenten Ruf. Naturfreunde schätzen den nahegelegenen Moossee, der im Sommer zum Baden und im Winter zum Eislaufen einlädt. Die verkehrstechnisch hervorragende Lage mit direktem Autobahnanschluss und Bahnverbindung macht Münchenbuchsee zu einem attraktiven Standort für Pendler, die in der Bundesstadt Bern arbeiten.", "hu": "Münchenbuchsee Bern kanton szívében fekszik, és a Berni-középföld egyik fontos lakó- és gazdasági központja. A település történelme elválaszthatatlan a 12. században alapított jánosrendi lovagrendháztól, amely hosszú ideig a régió vallási és kulturális központjaként működött. Különleges kulturális büszkesége a városnak, hogy 1879-ben itt született a híres festőművész, Paul Klee. A községben jól megfér egymás mellett a hagyományos mezőgazdaság és a modern ipar. A Hofwil oktatási központ, amelyet Philipp Emanuel von Fellenberg filantróp alapított, a régión túl is kiváló hírnévnek örvend. A természetkedvelők nagyra értékelik a közeli Moossee-t, amely nyáron fürdésre, télen pedig korcsolyázásra csábít. A kiváló közlekedési adottságok, beleértve a közvetlen autópálya-kapcsolatot és a vasúti összeköttetést, Münchenbuchsee-t vonzóvá teszik a szövetségi fővárosba, Bernbe ingázók számára.", "ro": "Münchenbuchsee este situat în inima cantonului Berna și reprezintă o locație rezidențială și economică importantă în regiunea Mittelland. Istoria comunei este strâns legată de comanderia Ioaniților, fondată în secolul al XII-lea, care a servit mult timp ca centru religios și cultural al regiunii. Un punct de atracție culturală deosebit este faptul că celebrul pictor Paul Klee s-a născut aici în anul 1879. Comunitatea se caracterizează printr-un amestec reușit de agricultură tradițională și industrie modernă. Centrul educațional Hofwil, creat de filantropul Philipp Emanuel von Fellenberg, se bucură de o reputație excelentă dincolo de granițele regiunii. Iubitorii de natură apreciază lacul Moossee din apropiere, care oferă posibilități de înot vara și de patinaj iarna. Locația excelentă din punct de vedere al transportului, cu acces direct la autostradă și conexiuni feroviare, face din Münchenbuchsee un loc atractiv pentru cei care lucrează în capitala federală Berna.", "en": "Münchenbuchsee is located in the heart of the Canton of Bern and is a significant residential and economic hub in the Bernese Mittelland. The history of the municipality is inextricably linked to the Johanniter commandery, founded in the 12th century, which served as the regional religious and cultural center for centuries. A major cultural highlight is that the world-renowned painter Paul Klee was born here in 1879. The community features a balanced mix of traditional agriculture and modern industrial sectors. The Hofwil educational center, established by the philanthropist Philipp Emanuel von Fellenberg, enjoys an excellent reputation far beyond the local region. Nature lovers appreciate the nearby Moossee lake, which invites swimming in summer and ice skating in winter. Its superb transport links, including direct highway access and frequent train services, make Münchenbuchsee an attractive location for commuters working in the federal city of Bern."}, "factsAdvanced": {"de": ["Geburtsort von Paul Klee (1879)", "Johanniterkomturei aus dem 12. Jh.", "Pädagogisches Zentrum Hofwil", "Fläche von 8.82 Quadratkilometern", "Eigene S-Bahn-Station", "Naherholungsgebiet am Moossee"], "hu": ["Paul Klee szülőhelye (1879)", "12. századi jánosrendi rendház", "Hofwil pedagógiai központ", "8.82 négyzetkilométeres terület", "Saját S-Bahn állomás", "Rekreációs övezet a Moossee-nél"], "ro": ["Locul de naștere al lui Paul Klee (1879)", "Comanderie ioanită din sec. XII", "Centrul pedagogic Hofwil", "Suprafață de 8.82 kilometri pătrați", "Stație proprie de S-Bahn", "Zonă de recreere la Moossee"], "en": ["Birthplace of Paul Klee (1879)", "12th-century Johanniter commandery", "Hofwil pedagogical center", "Area of 8.82 square kilometers", "Dedicated S-Bahn station", "Moossee recreation area"]}, "faq": {"de": [{"q": "Wer ist der berühmteste Bürger?", "a": "Der Maler Paul Klee wurde hier 1879 geboren."}, {"q": "Was ist die historische Bedeutung?", "a": "Die Johanniterkomturei prägte den Ort jahrhundertelang."}, {"q": "Wo kann man sich erholen?", "a": "Am Moossee, einem beliebten Badesee in der Nähe."}, {"q": "Wie weit ist es nach Bern?", "a": "Die Stadt Bern ist in etwa 10 Minuten mit dem Zug erreichbar."}], "hu": [{"q": "Ki a leghíresebb szülötte?", "a": "Paul Klee festőművész itt született 1879-ben."}, {"q": "Mi a történelmi jelentősége?", "a": "A jánosrendi lovagrendház évszázadokon át meghatározta a falut."}, {"q": "Hol lehet kikapcsolódni?", "a": "A Moossee-nél, amely egy népszerű közeli tó."}, {"q": "Milyen messze van Bern?", "a": "Bern városa vonattal körülbelül 10 perc alatt elérhető."}], "ro": [{"q": "Cine este cel mai faimos cetățean?", "a": "Pictorul Paul Klee s-a născut aici în 1879."}, {"q": "Care este importanța istorică?", "a": "Comanderia Ioaniților a dominat localitatea timp de secole."}, {"q": "Unde te poți relaxa?", "a": "La lacul Moossee, o zonă populară pentru înot din apropiere."}, {"q": "Cât de departe este Berna?", "a": "Orașul Berna este la aproximativ 10 minute de mers cu trenul."}], "en": [{"q": "Who is the most famous citizen?", "a": "The painter Paul Klee was born here in 1879."}, {"q": "What is the historical significance?", "a": "The Johanniter commandery shaped the town for centuries."}, {"q": "Where can one relax?", "a": "At Lake Moossee, a popular swimming lake nearby."}, {"q": "How far is it to Bern?", "a": "The city of Bern can be reached in about 10 minutes by train."}]}},
+  {"id": "ch-mã¼nchenbuchsee", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Hofwil",
+                  "text": "Ein klassizistisches Schloss, das Teil der bedeutenden pädagogischen Anlagen von Hofwil ist.",
+                  "category": "castle",
+                  "coords": [
+                        7.461744,
+                        47.021305
+                  ]
+            },
+            {
+                  "name": "Schloss Münchenbuchsee",
+                  "text": "Ein historischer Herrensitz in Münchenbuchsee, der heute für die Verwaltung genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        7.448467,
+                        47.022069
+                  ]
+            },
+            {
+                  "name": "Erdwerk Bärenried Ost",
+                  "text": "Archäologische Stätte mit Überresten historischer Erdbefestigungen.",
+                  "category": "historical",
+                  "coords": [
+                        7.41323,
+                        47.030722
+                  ]
+            },
+            {
+                  "name": "Erdwerk Zamberg",
+                  "text": "Ort prähistorischer oder mittelalterlicher Bodenfunde in der Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        7.441998,
+                        47.03742
+                  ]
+            },
+            {
+                  "name": "Spielzeugmuseum Münchenbuchsee",
+                  "text": "Ein Museum, das eine vielfältige Sammlung historischer Spielzeuge zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.446423,
+                        47.020571
+                  ]
+            },
+            {
+                  "name": "Blindenmuseum",
+                  "text": "Spezialmuseum, das sich der Geschichte und Hilfsmitteln für Sehbehinderte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.453983,
+                        47.00022
+                  ]
+            },
+            {
+                  "name": "Einbaum vom Moossee",
+                  "text": "Ein bedeutender prähistorischer Einbaum, der im nahen Moossee entdeckt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.484449,
+                        47.018519
+                  ]
+            },
+            {
+                  "name": "Üedeli, Panorama",
+                  "text": "Der Naturpunkt Üedeli, Panorama befindet sich bei der Schweizer Gemeinde Muenchenbuchsee. Dieser erhöhte Aussichtspunkt gewährt seinen Besuchern einen weiten und malerischen Blick über das Berner Mittelland. Es ist ein beliebtes Ziel, um die Weite der Schweizer Landschaft in sich aufzunehmen.",
+                  "category": "natural",
+                  "coords": [
+                        7.451068,
+                        47.016151
+                  ]
+            },
+            {
+                  "name": "Bern-Tempel",
+                  "text": "Der erste Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Europa.",
+                  "category": "religious",
+                  "coords": [
+                        7.458248,
+                        47.002146
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "Eine katholische Kirche in Münchenbuchsee, benannt nach dem Heiligen Franziskus.",
+                  "category": "religious",
+                  "coords": [
+                        7.455288,
+                        47.000138
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Moosseedorf",
+                  "text": "Das historische reformierte Gotteshaus im Zentrum der Nachbargemeinde Moosseedorf.",
+                  "category": "religious",
+                  "coords": [
+                        7.482301,
+                        47.017578
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Zollikofen",
+                  "text": "Die evangelisch-reformierte Kirche für die lokale Gemeinde in Zollikofen.",
+                  "category": "religious",
+                  "coords": [
+                        7.45231,
+                        46.99481
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Zollikofen",
+                  "text": "Ein modernes sakrales Gebäude der Neuapostolischen Kirche in Zollikofen.",
+                  "category": "religious",
+                  "coords": [
+                        7.445852,
+                        47.00348
+                  ]
+            },
+            {
+                  "name": "Kleiner Moossee",
+                  "text": "Ein kleinerer See in Münchenbuchsee, der eine ruhige Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.469126,
+                        47.026537
+                  ]
+            },
+            {
+                  "name": "Moossee",
+                  "text": "Ein idyllischer See in Münchenbuchsee, der Möglichkeiten zur Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.480347,
+                        47.022128
+                  ]
+            },
+            {
+                  "name": "Solbad & Spa Schönbühl",
+                  "text": "Ein Solebad und Spa in Münchenbuchsee für erholsame Stunden und Wellness.",
+                  "category": "family",
+                  "coords": [
+                        7.496153,
+                        47.022127
+                  ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "Ein Sportzentrum und Strandbad am Moossee in Münchenbuchsee für Schwimmer und Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Hofwil",
+                  "text": "Klasszicista kastély, amely a hofwili jelentős oktatási intézmények része.",
+                  "category": "castle",
+                  "coords": [
+                        7.461744,
+                        47.021305
+                  ]
+            },
+            {
+                  "name": "Schloss Münchenbuchsee",
+                  "text": "Történelmi nemesi kúria Münchenbuchseeben, amelyet ma közigazgatási célokra használnak.",
+                  "category": "castle",
+                  "coords": [
+                        7.448467,
+                        47.022069
+                  ]
+            },
+            {
+                  "name": "Erdwerk Bärenried Ost",
+                  "text": "Régészeti lelőhely történelmi földvár-maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        7.41323,
+                        47.030722
+                  ]
+            },
+            {
+                  "name": "Erdwerk Zamberg",
+                  "text": "Őskori vagy középkori régészeti leletek helyszíne a községben.",
+                  "category": "historical",
+                  "coords": [
+                        7.441998,
+                        47.03742
+                  ]
+            },
+            {
+                  "name": "Spielzeugmuseum Münchenbuchsee",
+                  "text": "Múzeum, amely történelmi játékok sokszínű gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.446423,
+                        47.020571
+                  ]
+            },
+            {
+                  "name": "Blindenmuseum",
+                  "text": "Szakmúzeum, amely a látássérültek történetének és segédeszközeinek szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        7.453983,
+                        47.00022
+                  ]
+            },
+            {
+                  "name": "Einbaum vom Moossee",
+                  "text": "Jelentős őskori bödönhajó, amelyet a közeli Moossee-tóban fedeztek fel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.484449,
+                        47.018519
+                  ]
+            },
+            {
+                  "name": "Üedeli, Panorama",
+                  "text": "Az Üedeli, Panorama természeti pont a svájci Muenchenbuchsee község közelében található. Ez a magaslati kilátó tágas és festői kilátást nyújt a látogatóknak a Berni-középföldre. Népszerű úti cél a svájci táj tágasságának megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        7.451068,
+                        47.016151
+                  ]
+            },
+            {
+                  "name": "Bern-Tempel",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának első európai temploma.",
+                  "category": "religious",
+                  "coords": [
+                        7.458248,
+                        47.002146
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "Katolikus templom Münchenbuchseeben, amelyet Szent Ferencről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        7.455288,
+                        47.000138
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Moosseedorf",
+                  "text": "Történelmi református templom a szomszédos Moosseedorf központjában.",
+                  "category": "religious",
+                  "coords": [
+                        7.482301,
+                        47.017578
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Zollikofen",
+                  "text": "Zollikofen helyi közösségének evangélikus-református temploma.",
+                  "category": "religious",
+                  "coords": [
+                        7.45231,
+                        46.99481
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Zollikofen",
+                  "text": "Az Újaposztoli Egyház modern szakrális épülete Zollikofenben.",
+                  "category": "religious",
+                  "coords": [
+                        7.445852,
+                        47.00348
+                  ]
+            },
+            {
+                  "name": "Kleiner Moossee",
+                  "text": "Kisebb tó Münchenbuchsee-ben, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        7.469126,
+                        47.026537
+                  ]
+            },
+            {
+                  "name": "Moossee",
+                  "text": "Idilli tó Münchenbuchsee-ben, amely lehetőséget nyújt a természetben való kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        7.480347,
+                        47.022128
+                  ]
+            },
+            {
+                  "name": "Solbad & Spa Schönbühl",
+                  "text": "Sós vizes fürdő és wellness központ Münchenbuchseeben a teljes ellazulásért.",
+                  "category": "family",
+                  "coords": [
+                        7.496153,
+                        47.022127
+                  ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "Sportközpont és strand a Moossee partján, Münchenbuchseeben, úszók és pihenni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Hofwil",
+                  "text": "Un castel neoclasic care face parte din importantele facilități educaționale din Hofwil.",
+                  "category": "castle",
+                  "coords": [
+                        7.461744,
+                        47.021305
+                  ]
+            },
+            {
+                  "name": "Schloss Münchenbuchsee",
+                  "text": "Un conac istoric în Münchenbuchsee, folosit astăzi pentru administrație.",
+                  "category": "castle",
+                  "coords": [
+                        7.448467,
+                        47.022069
+                  ]
+            },
+            {
+                  "name": "Erdwerk Bärenried Ost",
+                  "text": "Sit arheologic cu rămășițe ale unor fortificații istorice de pământ.",
+                  "category": "historical",
+                  "coords": [
+                        7.41323,
+                        47.030722
+                  ]
+            },
+            {
+                  "name": "Erdwerk Zamberg",
+                  "text": "Locul unor descoperiri arheologice preistorice sau medievale în comună.",
+                  "category": "historical",
+                  "coords": [
+                        7.441998,
+                        47.03742
+                  ]
+            },
+            {
+                  "name": "Spielzeugmuseum Münchenbuchsee",
+                  "text": "Un muzeu care expune o colecție diversă de jucării istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.446423,
+                        47.020571
+                  ]
+            },
+            {
+                  "name": "Blindenmuseum",
+                  "text": "Muzeu specializat dedicat istoriei și ajutoarelor pentru persoanele cu deficiențe de vedere.",
+                  "category": "museum",
+                  "coords": [
+                        7.453983,
+                        47.00022
+                  ]
+            },
+            {
+                  "name": "Einbaum vom Moossee",
+                  "text": "O pirogă preistorică importantă, descoperită în lacul Moossee din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        7.484449,
+                        47.018519
+                  ]
+            },
+            {
+                  "name": "Üedeli, Panorama",
+                  "text": "Punctul natural Üedeli, Panorama se află lângă comuna elvețiană Muenchenbuchsee. Acest punct de belvedere înalt oferă vizitatorilor o priveliște vastă și pitorească asupra regiunii Berner Mittelland. Este o destinație populară pentru a admira imensitatea peisajului elvețian.",
+                  "category": "natural",
+                  "coords": [
+                        7.451068,
+                        47.016151
+                  ]
+            },
+            {
+                  "name": "Bern-Tempel",
+                  "text": "Primul templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Europa.",
+                  "category": "religious",
+                  "coords": [
+                        7.458248,
+                        47.002146
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "O biserică catolică în Münchenbuchsee, numită după Sfântul Francisc.",
+                  "category": "religious",
+                  "coords": [
+                        7.455288,
+                        47.000138
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Moosseedorf",
+                  "text": "Lăcașul de cult reformat istoric din centrul comunei învecinate Moosseedorf.",
+                  "category": "religious",
+                  "coords": [
+                        7.482301,
+                        47.017578
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Zollikofen",
+                  "text": "Biserica evanghelică-reformată pentru comunitatea locală din Zollikofen.",
+                  "category": "religious",
+                  "coords": [
+                        7.45231,
+                        46.99481
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Zollikofen",
+                  "text": "O clădire sacră modernă a Bisericii Nouapostolice din Zollikofen.",
+                  "category": "religious",
+                  "coords": [
+                        7.445852,
+                        47.00348
+                  ]
+            },
+            {
+                  "name": "Kleiner Moossee",
+                  "text": "Un lac mai mic în Münchenbuchsee, care oferă un cadru liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        7.469126,
+                        47.026537
+                  ]
+            },
+            {
+                  "name": "Moossee",
+                  "text": "Un lac idilic în Münchenbuchsee, care oferă posibilități de recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.480347,
+                        47.022128
+                  ]
+            },
+            {
+                  "name": "Solbad & Spa Schönbühl",
+                  "text": "Băi saline și spa în Münchenbuchsee, un loc ideal pentru relaxare și tratamente.",
+                  "category": "family",
+                  "coords": [
+                        7.496153,
+                        47.022127
+                  ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "Un centru sportiv și ștrand pe malul lacului Moossee din Münchenbuchsee, pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Hofwil",
+                  "text": "A neoclassical castle that is part of the significant educational facilities of Hofwil.",
+                  "category": "castle",
+                  "coords": [
+                        7.461744,
+                        47.021305
+                  ]
+            },
+            {
+                  "name": "Schloss Münchenbuchsee",
+                  "text": "A historical manor house in Münchenbuchsee, currently used for administration.",
+                  "category": "castle",
+                  "coords": [
+                        7.448467,
+                        47.022069
+                  ]
+            },
+            {
+                  "name": "Erdwerk Bärenried Ost",
+                  "text": "An archaeological site featuring remains of historical earthwork fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        7.41323,
+                        47.030722
+                  ]
+            },
+            {
+                  "name": "Erdwerk Zamberg",
+                  "text": "A site of prehistoric or medieval archaeological findings in the municipality.",
+                  "category": "historical",
+                  "coords": [
+                        7.441998,
+                        47.03742
+                  ]
+            },
+            {
+                  "name": "Spielzeugmuseum Münchenbuchsee",
+                  "text": "A museum displaying a diverse collection of historical toys.",
+                  "category": "museum",
+                  "coords": [
+                        7.446423,
+                        47.020571
+                  ]
+            },
+            {
+                  "name": "Blindenmuseum",
+                  "text": "A specialized museum dedicated to the history and aids for the visually impaired.",
+                  "category": "museum",
+                  "coords": [
+                        7.453983,
+                        47.00022
+                  ]
+            },
+            {
+                  "name": "Einbaum vom Moossee",
+                  "text": "A significant prehistoric dugout boat discovered in the nearby Moossee lake.",
+                  "category": "landmark",
+                  "coords": [
+                        7.484449,
+                        47.018519
+                  ]
+            },
+            {
+                  "name": "Üedeli, Panorama",
+                  "text": "The natural spot Üedeli, Panorama is located near the Swiss municipality of Muenchenbuchsee. This elevated viewpoint grants its visitors a vast and picturesque view over the Bernese Mittelland. It is a popular destination to take in the expanse of the Swiss landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.451068,
+                        47.016151
+                  ]
+            },
+            {
+                  "name": "Bern-Tempel",
+                  "text": "The first temple of The Church of Jesus Christ of Latter-day Saints in Europe.",
+                  "category": "religious",
+                  "coords": [
+                        7.458248,
+                        47.002146
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "A Catholic church in Münchenbuchsee, named after Saint Francis.",
+                  "category": "religious",
+                  "coords": [
+                        7.455288,
+                        47.000138
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Moosseedorf",
+                  "text": "The historical Reformed place of worship in the center of the neighboring Moosseedorf.",
+                  "category": "religious",
+                  "coords": [
+                        7.482301,
+                        47.017578
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Zollikofen",
+                  "text": "The Evangelical-Reformed church for the local community in Zollikofen.",
+                  "category": "religious",
+                  "coords": [
+                        7.45231,
+                        46.99481
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Zollikofen",
+                  "text": "A modern sacred building of the New Apostolic Church in Zollikofen.",
+                  "category": "religious",
+                  "coords": [
+                        7.445852,
+                        47.00348
+                  ]
+            },
+            {
+                  "name": "Kleiner Moossee",
+                  "text": "A smaller lake in Münchenbuchsee offering a quiet backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        7.469126,
+                        47.026537
+                  ]
+            },
+            {
+                  "name": "Moossee",
+                  "text": "An idyllic lake in Münchenbuchsee offering opportunities for recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        7.480347,
+                        47.022128
+                  ]
+            },
+            {
+                  "name": "Solbad & Spa Schönbühl",
+                  "text": "A saltwater bath and spa in Muenchenbuchsee for relaxation and wellness.",
+                  "category": "family",
+                  "coords": [
+                        7.496153,
+                        47.022127
+                  ]
+            },
+            {
+                  "name": "Strandbad Moossee",
+                  "text": "A sports centre and lido on Lake Moossee in Münchenbuchsee for swimmers and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        7.486518,
+                        47.019276
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "CH-BE", "coords": [7.4486, 47.0211], "population": 10071, "image": "/geo-images/switzerland/ch-muenchenbuchsee.webp", "name": {"de": "Münchenbuchsee", "hu": "Münchenbuchsee", "ro": "Münchenbuchsee", "en": "Münchenbuchsee"}, "description": {"de": "Münchenbuchsee ist eine lebendige Berner Gemeinde, bekannt als Geburtsort von Paul Klee und Standort einer historischen Komturei.", "hu": "Münchenbuchsee egy élénk berni település, amely Paul Klee szülőhelyeként és egy történelmi rendház helyszíneként ismert.", "ro": "Münchenbuchsee este o comună vibrantă din Berna, cunoscută ca locul de naștere al lui Paul Klee și sediul unei comanderii istorice.", "en": "Münchenbuchsee is a lively Bernese municipality, known as the birthplace of Paul Klee and home to a historic commandery."}, "facts": {"de": ["Geburtsort von Paul Klee", "Ehemalige Johanniterkomturei", "Nähe zur Stadt Bern", "Moossee in der Umgebung"], "hu": ["Paul Klee szülőhelye", "Egykori jánosrendi lovagrendház", "Bern városának közelében", "Moossee a szomszédságban"], "ro": ["Locul de naștere al lui Paul Klee", "Fostă comanderie a Ioaniților", "Aproape de orașul Berna", "Lacul Moossee în apropiere"], "en": ["Birthplace of Paul Klee", "Former Johanniter commandery", "Near the city of Bern", "Moossee lake nearby"]}, "descriptionAdvanced": {"de": "Münchenbuchsee liegt im Herzen des Kantons Bern und ist ein bedeutender Wohn- und Wirtschaftsstandort im Berner Mittelland. Die Geschichte der Gemeinde ist untrennbar mit der Johanniterkomturei verbunden, die im 12. Jahrhundert gegründet wurde und lange Zeit das religiöse und kulturelle Zentrum der Region bildete. Ein besonderes kulturelles Highlight ist die Tatsache, dass der berühmte Maler Paul Klee hier im Jahr 1879 geboren wurde. Die Gemeinde zeichnet sich durch eine gute Mischung aus traditioneller Landwirtschaft und moderner Industrie aus. Das Bildungszentrum Hofwil, das auf den Philanthropen Philipp Emanuel von Fellenberg zurückgeht, geniesst weit über die Region hinaus einen exzellenten Ruf. Naturfreunde schätzen den nahegelegenen Moossee, der im Sommer zum Baden und im Winter zum Eislaufen einlädt. Die verkehrstechnisch hervorragende Lage mit direktem Autobahnanschluss und Bahnverbindung macht Münchenbuchsee zu einem attraktiven Standort für Pendler, die in der Bundesstadt Bern arbeiten.", "hu": "Münchenbuchsee Bern kanton szívében fekszik, és a Berni-középföld egyik fontos lakó- és gazdasági központja. A település történelme elválaszthatatlan a 12. században alapított jánosrendi lovagrendháztól, amely hosszú ideig a régió vallási és kulturális központjaként működött. Különleges kulturális büszkesége a városnak, hogy 1879-ben itt született a híres festőművész, Paul Klee. A községben jól megfér egymás mellett a hagyományos mezőgazdaság és a modern ipar. A Hofwil oktatási központ, amelyet Philipp Emanuel von Fellenberg filantróp alapított, a régión túl is kiváló hírnévnek örvend. A természetkedvelők nagyra értékelik a közeli Moossee-t, amely nyáron fürdésre, télen pedig korcsolyázásra csábít. A kiváló közlekedési adottságok, beleértve a közvetlen autópálya-kapcsolatot és a vasúti összeköttetést, Münchenbuchsee-t vonzóvá teszik a szövetségi fővárosba, Bernbe ingázók számára.", "ro": "Münchenbuchsee este situat în inima cantonului Berna și reprezintă o locație rezidențială și economică importantă în regiunea Mittelland. Istoria comunei este strâns legată de comanderia Ioaniților, fondată în secolul al XII-lea, care a servit mult timp ca centru religios și cultural al regiunii. Un punct de atracție culturală deosebit este faptul că celebrul pictor Paul Klee s-a născut aici în anul 1879. Comunitatea se caracterizează printr-un amestec reușit de agricultură tradițională și industrie modernă. Centrul educațional Hofwil, creat de filantropul Philipp Emanuel von Fellenberg, se bucură de o reputație excelentă dincolo de granițele regiunii. Iubitorii de natură apreciază lacul Moossee din apropiere, care oferă posibilități de înot vara și de patinaj iarna. Locația excelentă din punct de vedere al transportului, cu acces direct la autostradă și conexiuni feroviare, face din Münchenbuchsee un loc atractiv pentru cei care lucrează în capitala federală Berna.", "en": "Münchenbuchsee is located in the heart of the Canton of Bern and is a significant residential and economic hub in the Bernese Mittelland. The history of the municipality is inextricably linked to the Johanniter commandery, founded in the 12th century, which served as the regional religious and cultural center for centuries. A major cultural highlight is that the world-renowned painter Paul Klee was born here in 1879. The community features a balanced mix of traditional agriculture and modern industrial sectors. The Hofwil educational center, established by the philanthropist Philipp Emanuel von Fellenberg, enjoys an excellent reputation far beyond the local region. Nature lovers appreciate the nearby Moossee lake, which invites swimming in summer and ice skating in winter. Its superb transport links, including direct highway access and frequent train services, make Münchenbuchsee an attractive location for commuters working in the federal city of Bern."}, "factsAdvanced": {"de": ["Geburtsort von Paul Klee (1879)", "Johanniterkomturei aus dem 12. Jh.", "Pädagogisches Zentrum Hofwil", "Fläche von 8.82 Quadratkilometern", "Eigene S-Bahn-Station", "Naherholungsgebiet am Moossee"], "hu": ["Paul Klee szülőhelye (1879)", "12. századi jánosrendi rendház", "Hofwil pedagógiai központ", "8.82 négyzetkilométeres terület", "Saját S-Bahn állomás", "Rekreációs övezet a Moossee-nél"], "ro": ["Locul de naștere al lui Paul Klee (1879)", "Comanderie ioanită din sec. XII", "Centrul pedagogic Hofwil", "Suprafață de 8.82 kilometri pătrați", "Stație proprie de S-Bahn", "Zonă de recreere la Moossee"], "en": ["Birthplace of Paul Klee (1879)", "12th-century Johanniter commandery", "Hofwil pedagogical center", "Area of 8.82 square kilometers", "Dedicated S-Bahn station", "Moossee recreation area"]}, "faq": {"de": [{"q": "Wer ist der berühmteste Bürger?", "a": "Der Maler Paul Klee wurde hier 1879 geboren."}, {"q": "Was ist die historische Bedeutung?", "a": "Die Johanniterkomturei prägte den Ort jahrhundertelang."}, {"q": "Wo kann man sich erholen?", "a": "Am Moossee, einem beliebten Badesee in der Nähe."}, {"q": "Wie weit ist es nach Bern?", "a": "Die Stadt Bern ist in etwa 10 Minuten mit dem Zug erreichbar."}], "hu": [{"q": "Ki a leghíresebb szülötte?", "a": "Paul Klee festőművész itt született 1879-ben."}, {"q": "Mi a történelmi jelentősége?", "a": "A jánosrendi lovagrendház évszázadokon át meghatározta a falut."}, {"q": "Hol lehet kikapcsolódni?", "a": "A Moossee-nél, amely egy népszerű közeli tó."}, {"q": "Milyen messze van Bern?", "a": "Bern városa vonattal körülbelül 10 perc alatt elérhető."}], "ro": [{"q": "Cine este cel mai faimos cetățean?", "a": "Pictorul Paul Klee s-a născut aici în 1879."}, {"q": "Care este importanța istorică?", "a": "Comanderia Ioaniților a dominat localitatea timp de secole."}, {"q": "Unde te poți relaxa?", "a": "La lacul Moossee, o zonă populară pentru înot din apropiere."}, {"q": "Cât de departe este Berna?", "a": "Orașul Berna este la aproximativ 10 minute de mers cu trenul."}], "en": [{"q": "Who is the most famous citizen?", "a": "The painter Paul Klee was born here in 1879."}, {"q": "What is the historical significance?", "a": "The Johanniter commandery shaped the town for centuries."}, {"q": "Where can one relax?", "a": "At Lake Moossee, a popular swimming lake nearby."}, {"q": "How far is it to Bern?", "a": "The city of Bern can be reached in about 10 minutes by train."}]}},
   {"id": "ch-hochdorf", "sights": {
       "de": [
             {
@@ -151468,6 +157561,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.582017,
                         47.139541
                   ]
+            },
+            {
+                  "name": "Strandbad Lido",
+                  "text": "Ein Sportzentrum und Strandbad am Ägerisee.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593775,
+                        47.132637
+                  ]
             }
       ],
       "hu": [
@@ -151640,6 +157742,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.582017,
                         47.139541
+                  ]
+            },
+            {
+                  "name": "Strandbad Lido",
+                  "text": "Sportközpont és strand az Ägeri-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593775,
+                        47.132637
                   ]
             }
       ],
@@ -151814,6 +157925,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.582017,
                         47.139541
                   ]
+            },
+            {
+                  "name": "Strandbad Lido",
+                  "text": "Un centru sportiv și ștrand situat pe malul lacului Ägeri.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593775,
+                        47.132637
+                  ]
             }
       ],
       "en": [
@@ -151986,6 +158106,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.582017,
                         47.139541
+                  ]
+            },
+            {
+                  "name": "Strandbad Lido",
+                  "text": "A sports centre and beach area located on Lake Ägeri.",
+                  "category": "recreational",
+                  "coords": [
+                        8.593775,
+                        47.132637
                   ]
             }
       ]
@@ -156111,7 +162240,1024 @@ export const poiExtraAtChMissingV1: POI[] = [
       ]
 }, "type": "city", "parent": "CH-GR", "coords": [9.4525, 46.8378], "population": 8388, "image": "/geo-images/switzerland/ch-domatems.webp", "name": {"de": "Domat/Ems", "hu": "Domat/Ems", "ro": "Domat/Ems", "en": "Domat/Ems"}, "description": {"de": "Domat/Ems ist eine bedeutende Industriegemeinde im Churer Rheintal, bekannt für ihre sieben markanten Hügel und die EMS-Chemie.", "hu": "Domat/Ems egy jelentős ipari település a Churer Rheintal völgyben, amely hét markáns dombjáról és az EMS-Chemie gyárról ismert.", "ro": "Domat/Ems este o comună industrială importantă din valea Rinului (Churer Rheintal), cunoscută pentru cele șapte dealuri și EMS-Chemie.", "en": "Domat/Ems is a significant industrial municipality in the Chur Rhine Valley, known for its seven distinctive hills and EMS-Chemie."}, "facts": {"de": ["Sitz des Grossunternehmens EMS-Chemie", "Charakteristische 'Tumas' (sieben Hügel)", "Traditionell rätoromanischsprachiges Gebiet", "Gelegen am Zusammenfluss von Vorder- und Hinterrhein"], "hu": ["Az EMS-Chemie nagyvállalat székhelye", "Jellemző 'Tumas' (hét domb) a tájképben", "Hagyományosan rétoromán nyelvterület", "Az Első- és Hátsó-Rinna találkozásánál fekszik"], "ro": ["Sediul marii companii EMS-Chemie", "Cele șapte dealuri caracteristice numite 'Tumas'", "Zonă tradițional vorbitoare de retoromană", "Situată la confluența Rinului Anterior cu cel Posterior"], "en": ["Headquarters of the major company EMS-Chemie", "Characteristic 'Tumas' (seven hills)", "Traditionally Romansh-speaking area", "Located at the confluence of the Vorderrhein and Hinterrhein"]}, "descriptionAdvanced": {"de": "Domat/Ems liegt im Kanton Graubünden, eingebettet zwischen schroffen Bergmassiven und dem Rhein. Die Gemeinde ist weit über die Landesgrenzen hinaus bekannt als Standort der EMS-Chemie, die das wirtschaftliche Rückgrat der Region bildet. Geografisch zeichnet sich der Ort durch die sieben 'Tumas' aus, kleine markante Hügel, die als geologische Besonderheiten aus der Ebene ragen und oft mit Kapellen oder Aussichtspunkten gekrönt sind. Kulturell ist Domat/Ems ein Bindeglied zwischen der rätoromanischen Tradition und dem deutschsprachigen Einfluss von Chur. Trotz der industriellen Prägung verfügt die Gemeinde über einen Golfplatz von nationaler Bedeutung und weite Auenlandschaften entlang des Rheins. Die Geschichte der Gemeinde reicht bis in die Römerzeit zurück, was archäologische Funde in der Umgebung belegen. Die moderne Infrastruktur umfasst einen eigenen Autobahnanschluss und eine Anbindung an die Rhätische Bahn. Das gesellschaftliche Leben wird durch lebendige Bräuche wie die Prozessionen an Fronleichnam geprägt, die in ihrer Farbenpracht einzigartig sind.", "hu": "Domat/Ems Graubünden kantonban fekszik, meredek hegyvonulatok és a Rajna közé ágyazva. A település az országhatárokon túl is ismert az EMS-Chemie székhelyeként, amely a régió gazdasági gerincét alkotja. Földrajzilag a helyet a hét 'Tumas' jellemzi - ezek kis, markáns dombok, amelyek geológiai különlegességként emelkednek ki a síkságból, és gyakran kápolnák vagy kilátók díszítik őket. Kulturálisan Domat/Ems összekötő kapocs a rétoromán hagyományok és Chur német nyelvű befolyása között. Az ipari jelleg ellenére a település rendelkezik egy országos jelentőségű golfpályával és kiterjedt ártéri területekkel a Rajna mentén. A település története a római korig nyúlik vissza, amit a környéken talált régészeti leletek is bizonyítanak. A modern infrastruktúra saját autópálya-kijáratot és a Rhätische Bahn vasútvonalhoz való csatlakozást is magában foglal. A társadalmi életet olyan élő szokások határozzák meg, mint az Úrnapi körmenetek, amelyek színpompájukban egyedülállóak.", "ro": "Domat/Ems este situat în cantonul Graubünden, fiind încadrat de masive muntoase abrupte și de râul Rin. Comuna este cunoscută mult dincolo de granițele țării ca locație a EMS-Chemie, care formează coloana vertebrală economică a regiunii. Din punct de vedere geografic, localitatea se remarcă prin cele șapte 'Tumas', dealuri mici și distincte care se ridică din câmpie ca particularități geologice și sunt adesea încununate cu capele sau puncte de belvedere. Cultural, Domat/Ems reprezintă o legătură între tradiția retoromană și influența germanofonă a orașului Chur. În ciuda caracterului industrial, comuna dispune de un teren de golf de importanță națională și de peisaje largi de luncă de-a lungul Rinului. Istoria comunei datează din epoca romană, fapt confirmat de descoperirile arheologice din împrejurimi. Infrastructura modernă include propriul acces la autostradă și o conexiune la Calea Ferată Retică. Viața socială este marcată de obiceiuri vii, cum ar fi procesiunile de Corpus Christi, care sunt unice prin bogăția lor cromatică.", "en": "Domat/Ems is located in the Canton of Graubünden, nestled between rugged mountain massifs and the Rhine River. The municipality is known far beyond national borders as the site of EMS-Chemie, which forms the economic backbone of the region. Geographically, the town is characterized by the seven 'Tumas', small, distinctive hills that rise from the plain as geological features and are often crowned with chapels or viewpoints. Culturally, Domat/Ems is a link between Romansh tradition and the German-speaking influence of Chur. Despite the industrial footprint, the municipality boasts a golf course of national importance and extensive floodplain landscapes along the Rhine. The history of the community dates back to Roman times, evidenced by archaeological finds in the area. The modern infrastructure includes its own highway exit and a connection to the Rhaetian Railway. Social life is shaped by vibrant customs such as the Corpus Christi processions, which are unique in their colorful splendor."}, "factsAdvanced": {"de": ["Die EMS-Chemie ist der grösste Arbeitgeber im Kanton Graubünden.", "Domat/Ems liegt auf einer Höhe von 585 Metern über Meer.", "Die sieben Tumas entstanden durch nacheiszeitliche Bergstürze.", "Die Gemeinde besitzt einen 27-Loch-Golfplatz.", "Das Dorfbild ist durch die doppelte Namensgebung geprägt (Rätoromanisch/Deutsch).", "Der Zusammenfluss von Vorder- und Hinterrhein liegt in unmittelbarer Nähe."], "hu": ["Az EMS-Chemie Graubünden kanton legnagyobb munkáltatója.", "Domat/Ems 585 méteres tengerszint feletti magasságban fekszik.", "A hét Tumas-domb a jégkorszak utáni hegyomlások során keletkezett.", "A település egy 27 lyukú golfpályával rendelkezik.", "A falu képét a kettős elnevezés határozza meg (rétoromán/német).", "Az Első- és Hátsó-Rajna találkozása a közvetlen közelben található."], "ro": ["EMS-Chemie este cel mai mare angajator din cantonul Graubünden.", "Domat/Ems este situat la o altitudine de 585 de metri deasupra mării.", "Cele șapte dealuri Tumas s-au format prin prăbușiri de roci post-glaciare.", "Comuna posedă un teren de golf cu 27 de găuri.", "Aspectul satului este marcat de denumirea dublă (retoromană/germană).", "Confluența Rinului Anterior cu cel Posterior se află în imediata apropiere."], "en": ["EMS-Chemie is the largest employer in the Canton of Graubünden.", "Domat/Ems is situated at an elevation of 585 meters above sea level.", "The seven Tumas hills were formed by post-glacial landslides.", "The municipality owns a 27-hole golf course.", "The village image is characterized by the double naming (Romansh/German).", "The confluence of the Vorderrhein and Hinterrhein is in the immediate vicinity."]}, "faq": {"de": [{"q": "Was sind die 'Tumas' in Domat/Ems?", "a": "Es sind sieben Hügel im Dorfgebiet, die durch einen prähistorischen Bergsturz entstanden sind."}, {"q": "Welche Sprache wird in Domat/Ems gesprochen?", "a": "Früher war es rein Rätoromanisch, heute dominiert Deutsch, aber die romanische Kultur bleibt lebendig."}, {"q": "Ist die EMS-Chemie für Besucher zugänglich?", "a": "Das Firmengelände ist privat, aber es gibt oft Informationsanlässe und wirtschaftliche Führungen."}, {"q": "Kann man in Domat/Ems wandern?", "a": "Ja, besonders die Wege entlang des Rheins und auf die Tumas sind bei Wanderern beliebt."}], "hu": [{"q": "Mik azok a 'Tumas' dombok Domat/Emsben?", "a": "Ez hét domb a falu területén, amelyek egy őskori hegyomlás során keletkeztek."}, {"q": "Milyen nyelven beszélnek Domat/Emsben?", "a": "Régebben tisztán rétoromán volt, ma a német dominál, de a román kultúra továbbra is élő."}, {"q": "Látogatható az EMS-Chemie gyár?", "a": "A gyárterület magánterület, de gyakran tartanak információs rendezvényeket és gazdasági bemutatókat."}, {"q": "Lehet túrázni Domat/Emsben?", "a": "Igen, különösen a Rajna menti utak és a Tumas-dombokra vezető ösvények népszerűek a túrázók körében."}], "ro": [{"q": "Ce sunt 'Tumas' în Domat/Ems?", "a": "Sunt șapte dealuri în zona satului, formate printr-o prăbușire de teren preistorică."}, {"q": "Ce limbă se vorbește în Domat/Ems?", "a": "În trecut era exclusiv retoromana, astăzi domină germana, dar cultura romanșă rămâne vie."}, {"q": "Este EMS-Chemie accesibilă vizitatorilor?", "a": "Terenul fabricii este privat, dar există adesea evenimente informative și tururi economice."}, {"q": "Se pot face drumeții în Domat/Ems?", "a": "Da, în special traseele de-a lungul Rinului și pe dealurile Tumas sunt populare printre drumeți."}], "en": [{"q": "What are the 'Tumas' in Domat/Ems?", "a": "They are seven hills in the village area that were formed by a prehistoric landslide."}, {"q": "What language is spoken in Domat/Ems?", "a": "Formerly it was purely Romansh, today German dominates, but Romansh culture remains alive."}, {"q": "Is EMS-Chemie accessible to visitors?", "a": "The company premises are private, but there are often informational events and economic tours."}, {"q": "Can you go hiking in Domat/Ems?", "a": "Yes, especially the paths along the Rhine and up the Tumas hills are popular with hikers."}]}},
   {"id": "ch-chavannes-prãs-renens", "sights": {"de": [{"name": "Musée Bolo", "text": "Ein Museum an der EPFL in Chavannes-près-Renens, das sich der Geschichte der Informatik widmet.", "category": "museum", "coords": [6.56372, 46.518735]}, {"name": "Musée romain de Lausanne-Vidy", "text": "Ein archäologisches Museum, das die römische Vergangenheit der Siedlung Lousonna präsentiert.", "category": "museum", "coords": [6.598673, 46.518957]}, {"name": "Château de Dorigny", "text": "Ein historisches Schloss auf dem Gelände der Universität Lausanne, heute Sitz der Stiftung Jean Monnet.", "category": "castle", "coords": [6.582177, 46.523342]}, {"name": "Ruines romaines Lousonna", "text": "Die archäologischen Überreste der antiken römischen Stadt am Ufer des Genfersees.", "category": "historical", "coords": [6.601068, 46.516484]}, {"name": "Château de Valency", "text": "Ein elegantes Schlossgebäude in der Nähe von Lausanne, umgeben von einer Parkanlage.", "category": "castle", "coords": [6.608896, 46.529404]}, {"name": "Château de Vidy", "text": "Ein herrschaftliches Gebäude in Vidy, das eng mit der Geschichte der Region verbunden ist.", "category": "castle", "coords": [6.596509, 46.518468]}, {"name": "Château de Prilly", "text": "Ein historisches Schloss in Prilly, das heute für lokale Verwaltungszwecke genutzt wird.", "category": "castle", "coords": [6.605122, 46.535146]}, {"name": "Château de Renens-sur-Roche", "text": "Eine historische Residenz in der Gemeinde Renens mit architektonischer Bedeutung.", "category": "castle", "coords": [6.595601, 46.532115]}, {"name": "Château de Renens", "text": "Ein bedeutendes Baudenkmal in Renens, das als Wahrzeichen der Stadt gilt.", "category": "castle", "coords": [6.594484, 46.534836]}, {"name": "Château d'Échandens", "text": "Ein gut erhaltenes Schloss in Échandens, das auf eine lange Geschichte zurückblickt.", "category": "castle", "coords": [6.542199, 46.53559]}, {"name": "Atelier-Musée Encre & Plomb", "text": "Ein Museum in Chavannes, das sich der Kunst des Bleisatzes und des traditionellen Buchdrucks widmet.", "category": "museum", "coords": [6.577296, 46.534132]}, {"name": "Plage du Pélican", "text": "Die Plage du Pélican ist ein einladender Strandabschnitt am Genfersee in Chavannes-près-Renens, der ganz der Entspannung und dem Baden gewidmet ist. Die weiten Gewässer bieten eine wunderbare Kulisse für einen Tag voller Schwimmen, Sonnenbaden und frischer Luft. Es ist ein fantastisches Ziel, um abzuschalten und den beruhigenden Rhythmus des Sees aufzunehmen. Ein Besuch in den wärmeren Monaten garantiert ein typisches Schweizer Seeerlebnis.", "category": "recreational", "coords": [6.572409, 46.513312]}, {"name": "Espace des Inventions", "text": "Ein interaktives Museum in Chavannes-près-Renens, das Kindern und Erwachsenen Wissenschaft und Technik näherbringt.", "category": "museum", "coords": [6.60373, 46.519514]}, {"name": "Mosaïque Romaine", "text": "Eine archäologische Stätte in Chavannes-près-Renens, die antike römische Bodenmosaike bewahrt.", "category": "historical", "coords": [6.599563, 46.517605]}, {"name": "Théâtre Kléber-Méleau", "text": "Ein bekanntes Theater in Chavannes-près-Renens, das ein vielfältiges Programm an Bühnenkunst bietet.", "category": "cultural", "coords": [6.599416, 46.526178]}, {"name": "Salle de spectacles de Chisaz", "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und kulturelle Events in Chavannes-près-Renens.", "category": "cultural", "coords": [6.577818, 46.549782]}, {"name": "Salle de spectacles", "text": "Ein vielseitiger Veranstaltungssaal für kulturelle Darbietungen in Chavannes-près-Renens.", "category": "cultural", "coords": [6.585603, 46.536371]}, {"name": "Plage des Pierrettes", "text": "Als erstklassiger öffentlicher Strand am Genfersee ist die Plage des Pierrettes in Chavannes-près-Renens ideal für Erholung und Wassersportaktivitäten. Die lebendige Atmosphäre an der Küste macht sie zu einem tollen Ort, um ins Wasser zu springen oder einfach in der Sonne zu liegen. Der Strand eignet sich hervorragend für einen aktiven Ausflug oder einen lockeren Spaziergang am Ufer. An einem sonnigen Tag sichert man sich den besten Platz am einfachsten durch frühes Erscheinen.", "category": "recreational", "coords": [6.575827, 46.515258]}, {"name": "Lousonna", "text": "Eine bedeutende archäologische Stätte der antiken römischen Siedlung Lousonna.", "category": "historical", "coords": [6.594935, 46.5203]}, {"name": "Esplanade Bonaparte", "text": "Ein Aussichtspunkt in Chavannes-près-Renens, der einen weiten Blick auf die Umgebung bietet.", "category": "natural", "coords": [6.561423, 46.522616]}, {"name": "Parcours vert", "text": "Ein markierter Wanderweg oder Aussichtspunkt in der Natur von Chavannes-près-Renens.", "category": "natural", "coords": [6.566012, 46.522996]}, {"name": "Lucioles", "text": "Ein lokaler Anziehungspunkt für Besucher in Chavannes-près-Renens.", "category": "landmark", "coords": [6.58696, 46.520153]}, {"name": "Galerie du Pressoir", "text": "Ein Kunstzentrum in Chavannes-près-Renens, das regelmäßig Ausstellungen lokaler Künstler zeigt.", "category": "cultural", "coords": [6.564469, 46.526564]}, {"name": "CRAB, centre d'animation et de rencontre de Bussigny", "text": "Ein soziokulturelles Zentrum für Animation und Begegnungen in Bussigny.", "category": "cultural", "coords": [6.549536, 46.54677]}, {"name": "Motty", "text": "Ein historisches Sakralbauwerk und Ort der Besinnung in Chavannes-près-Renens.", "category": "religious", "coords": [6.562067, 46.52616]}, {"name": "Église Saint-Pierre", "text": "Eine der katholischen Kirchen der Gemeinde, dem Heiligen Petrus geweiht.", "category": "religious", "coords": [6.550871, 46.553202]}, {"name": "Paroisse catholique du Bon Pasteur", "text": "Eine katholische Pfarrkirche in Chavannes-près-Renens, die dem Guten Hirten gewidmet ist.", "category": "religious", "coords": [6.603359, 46.536976]}, {"name": "Église Romane de Saint-Sulpice", "text": "Eine bedeutende romanische Kirche in Saint-Sulpice, bekannt für ihre Architektur am Seeufer.", "category": "religious", "coords": [6.559942, 46.509011]}, {"name": "Saint-François d'Assise", "text": "Ein religiöses Gebäude in Chavannes-près-Renens, gewidmet dem Heiligen Franz von Assisi.", "category": "religious", "coords": [6.584567, 46.538801]}, {"name": "Paroisse de Renens", "text": "Das religiöse Zentrum der Pfarrei in Renens für die lokale Glaubensgemeinschaft.", "category": "religious", "coords": [6.590628, 46.536725]}, {"name": "Temple de Broye", "text": "Ein protestantisches Kirchengebäude in der Region von Chavannes-près-Renens.", "category": "religious", "coords": [6.598527, 46.538623]}, {"name": "Réservoir de Haute-Pierre", "text": "Ein ruhiges Gewässer in Chavannes Pres Renens, umgeben von Natur.", "category": "natural", "coords": [6.49101, 46.530858]}, {"name": "Terrain d'Aventure de Malley", "text": "Ein Abenteuerspielplatz in Chavannes Pres Renens für aktive Kinder.", "category": "family", "coords": [6.603857, 46.523127]}, {"name": "Place de jeu du Parc Robinson", "text": "Ein Spielplatz im Parc Robinson in Chavannes Pres Renens für Familienausflüge.", "category": "family", "coords": [6.578919, 46.530835]}, {"name": "Parc du centre", "text": "Ein Spielplatz im Zentrum von Chavannes Pres Renens für kurze Spielpausen.", "category": "family", "coords": [6.552749, 46.549653]}, {"name": "Parc de Rente", "text": "Ein schattiger Spielplatz in Chavannes Pres Renens für entspannte Stunden.", "category": "family", "coords": [6.559786, 46.555947]}, {"name": "La Dune de Malley", "text": "Ein attraktiver Spielbereich in Chavannes Pres Renens für Kinder jeden Alters.", "category": "family", "coords": [6.604182, 46.524429]}, {"name": "Place de jeux de la Scirie", "text": "Ein lokaler Spielplatz in Chavannes Pres Renens, ideal für Kinder aus der Umgebung.", "category": "family", "coords": [6.579022, 46.54681]}, {"name": "Aire de Jeux du Grand-Pré", "text": "Ein Spielplatz in Chavannes Pres Renens, der zum Bewegen im Freien anregt.", "category": "family", "coords": [6.602771, 46.533946]}, {"name": "Parc de Roséaz", "text": "Ein kleiner Park mit Spielmöglichkeiten in Chavannes Pres Renens.", "category": "family", "coords": [6.557733, 46.547742]}, {"name": "Parc de la Violette", "text": "Ein gepflegter Spielplatz in Chavannes Pres Renens für erholsame Familienzeit.", "category": "family", "coords": [6.554804, 46.553165]}, {"name": "Piscine de la Fleur-de-Lys", "text": "Die Piscine de la Fleur-de-Lys in Chavannes-près-Renens ist ein Schwimmbad für die ganze Familie.", "category": "family", "coords": [6.604128, 46.542766]}, {"name": "Piscine de Montétan", "text": "Die Piscine de Montétan in Chavannes-près-Renens bietet Möglichkeiten zum Schwimmen und Erholen.", "category": "family", "coords": [6.611819, 46.530517]}], "hu": [{"name": "Musée Bolo", "text": "Az EPFL-nél található múzeum Chavannes-près-Renensben, amely az informatika történetének szentelt.", "category": "museum", "coords": [6.56372, 46.518735]}, {"name": "Musée romain de Lausanne-Vidy", "text": "Régészeti múzeum, amely Lousonna település római kori múltját mutatja be.", "category": "museum", "coords": [6.598673, 46.518957]}, {"name": "Château de Dorigny", "text": "Történelmi kastély a Lausanne-i Egyetem területén, ma a Jean Monnet Alapítvány székhelye.", "category": "castle", "coords": [6.582177, 46.523342]}, {"name": "Ruines romaines Lousonna", "text": "Az ókori római város régészeti maradványai a Genfi-tó partján.", "category": "historical", "coords": [6.601068, 46.516484]}, {"name": "Château de Valency", "text": "Elegáns kastélyépület Lausanne közelében, parkosított környezetben.", "category": "castle", "coords": [6.608896, 46.529404]}, {"name": "Château de Vidy", "text": "Egy tekintélyes épület Vidy-ben, amely szorosan kapcsolódik a régió történelméhez.", "category": "castle", "coords": [6.596509, 46.518468]}, {"name": "Château de Prilly", "text": "Történelmi kastély Prilly-ben, amelyet ma helyi közigazgatási célokra használnak.", "category": "castle", "coords": [6.605122, 46.535146]}, {"name": "Château de Renens-sur-Roche", "text": "Történelmi rezidencia Renens községben, amely építészeti jelentőséggel bír.", "category": "castle", "coords": [6.595601, 46.532115]}, {"name": "Château de Renens", "text": "Jelentős műemlék Renensben, amely a város egyik jelképe.", "category": "castle", "coords": [6.594484, 46.534836]}, {"name": "Château d'Échandens", "text": "Jó állapotban lévő kastély Échandensben, amely hosszú múltra tekint vissza.", "category": "castle", "coords": [6.542199, 46.53559]}, {"name": "Atelier-Musée Encre & Plomb", "text": "Chavannes-i múzeum, amely az ólomszedés és a hagyományos könyvnyomtatás művészetének szentelt.", "category": "museum", "coords": [6.577296, 46.534132]}, {"name": "Plage du Pélican", "text": "A Plage du Pélican egy hívogató strandszakasz a Genfi-tó partján Chavannes-près-Renens-ben, amely a pihenésnek és a fürdőzésnek van szentelve. A nyílt vizek csodálatos hátteret biztosítanak egy úszással, napozással és friss levegővel teli naphoz. Fantasztikus célpont a kikapcsolódáshoz és a megnyugtató tóparti ritmus átéléséhez. A melegebb hónapokban tett látogatás garantálja a jellegzetes svájci tavi élményt.", "category": "recreational", "coords": [6.572409, 46.513312]}, {"name": "Espace des Inventions", "text": "Interaktív múzeum Chavannes-près-Renens-ben, amely a tudományt és a technikát mutatja be a látogatóknak.", "category": "museum", "coords": [6.60373, 46.519514]}, {"name": "Mosaïque Romaine", "text": "Régészeti lelőhely Chavannes-près-Renens-ben, ahol ókori római padlómozaikok láthatók.", "category": "historical", "coords": [6.599563, 46.517605]}, {"name": "Théâtre Kléber-Méleau", "text": "Népszerű színház Chavannes-près-Renens-ben, amely változatos színpadi előadásoknak ad otthont.", "category": "cultural", "coords": [6.599416, 46.526178]}, {"name": "Salle de spectacles de Chisaz", "text": "Helyi színház és kulturális rendezvényközpont Chavannes-près-Renens Chisaz negyedében.", "category": "cultural", "coords": [6.577818, 46.549782]}, {"name": "Salle de spectacles", "text": "Sokoldalú rendezvényterem kulturális előadások számára Chavannes-près-Renens-ben.", "category": "cultural", "coords": [6.585603, 46.536371]}, {"name": "Plage des Pierrettes", "text": "A Genfi-tó kiváló nyilvános strandjaként a Chavannes-près-Renens-ben található Plage des Pierrettes tökéletes kikapcsolódásra és vízi tevékenységekre. Az élénk tengerparti légkör nagyszerű hellyé teszi a vízbe ugráshoz, játékhoz vagy a napozáshoz. Könnyedén kiszolgálja azokat a látogatókat, akik aktív kikapcsolódásra vagy alkalmi parti sétára vágynak. Napsütéses napokon a legkedvezőbb hely biztosítása érdekében érdemes korán indulni.", "category": "recreational", "coords": [6.575827, 46.515258]}, {"name": "Lousonna", "text": "Jelentős régészeti lelőhely, amely az ókori római Lousonna település maradványait őrzi.", "category": "historical", "coords": [6.594935, 46.5203]}, {"name": "Esplanade Bonaparte", "text": "Kilátópont Chavannes-près-Renens-ben, ahonnan szép panoráma nyílik a környékre.", "category": "natural", "coords": [6.561423, 46.522616]}, {"name": "Parcours vert", "text": "Jelzett útvonal vagy kilátópont Chavannes-près-Renens természetközeli részén.", "category": "natural", "coords": [6.566012, 46.522996]}, {"name": "Lucioles", "text": "Helyi látnivaló az idelátogatók számára Chavannes-près-Renens településen.", "category": "landmark", "coords": [6.58696, 46.520153]}, {"name": "Galerie du Pressoir", "text": "Kulturális központ Chavannes-près-Renens-ben, amely rendszeresen mutat be helyi művészeket.", "category": "cultural", "coords": [6.564469, 46.526564]}, {"name": "CRAB, centre d'animation et de rencontre de Bussigny", "text": "Szociokulturális központ Bussigny-ben, amely közösségi eseményeknek és találkozóknak ad helyet.", "category": "cultural", "coords": [6.549536, 46.54677]}, {"name": "Motty", "text": "Történelmi templom és a lelki élet helyszíne Chavannes-près-Renens-ben.", "category": "religious", "coords": [6.562067, 46.52616]}, {"name": "Église Saint-Pierre", "text": "A település egyik katolikus temploma, amelyet Szent Péter tiszteletére szenteltek.", "category": "religious", "coords": [6.550871, 46.553202]}, {"name": "Paroisse catholique du Bon Pasteur", "text": "Katolikus plébániatemplom Chavannes-près-Renens-ben, a Jó Pásztor tiszteletére.", "category": "religious", "coords": [6.603359, 46.536976]}, {"name": "Église Romane de Saint-Sulpice", "text": "Jelentős román kori templom Saint-Sulpice-ben, a tóparti építészete miatt ismert.", "category": "religious", "coords": [6.559942, 46.509011]}, {"name": "Saint-François d'Assise", "text": "Szent Ferenc tiszteletére szentelt egyházi épület Chavannes-près-Renens-ben.", "category": "religious", "coords": [6.584567, 46.538801]}, {"name": "Paroisse de Renens", "text": "Renens plébániájának vallási központja a helyi hívők számára.", "category": "religious", "coords": [6.590628, 46.536725]}, {"name": "Temple de Broye", "text": "Protestáns templomépület Chavannes-près-Renens környékén.", "category": "religious", "coords": [6.598527, 46.538623]}, {"name": "Réservoir de Haute-Pierre", "text": "Csendes vízfelület Chavannes Pres Renens területén, természettel körülvéve.", "category": "natural", "coords": [6.49101, 46.530858]}, {"name": "Terrain d'Aventure de Malley", "text": "Kalandjátszótér Chavannes Pres Renens területén aktív gyerekeknek.", "category": "family", "coords": [6.603857, 46.523127]}, {"name": "Place de jeu du Parc Robinson", "text": "Játszótér a Parc Robinsonban, Chavannes Pres Renensben családi kirándulásokhoz.", "category": "family", "coords": [6.578919, 46.530835]}, {"name": "Parc du centre", "text": "Játszótér Chavannes Pres Renens központjában rövid játékidőhöz.", "category": "family", "coords": [6.552749, 46.549653]}, {"name": "Parc de Rente", "text": "Árnyas játszótér Chavannes Pres Renens területén a pihentető percekhez.", "category": "family", "coords": [6.559786, 46.555947]}, {"name": "La Dune de Malley", "text": "Vonzó játszóhely Chavannes Pres Renensben minden korosztály számára.", "category": "family", "coords": [6.604182, 46.524429]}, {"name": "Place de jeux de la Scirie", "text": "Helyi játszótér Chavannes Pres Renensben, ideális a környékbeli gyerekeknek.", "category": "family", "coords": [6.579022, 46.54681]}, {"name": "Aire de Jeux du Grand-Pré", "text": "Játszótér Chavannes Pres Renens területén, amely szabadtéri mozgásra ösztönöz.", "category": "family", "coords": [6.602771, 46.533946]}, {"name": "Parc de Roséaz", "text": "Kicsi park játéklehetőségekkel Chavannes Pres Renens területén.", "category": "family", "coords": [6.557733, 46.547742]}, {"name": "Parc de la Violette", "text": "Gondozott játszótér Chavannes Pres Renensben a családi kikapcsolódáshoz.", "category": "family", "coords": [6.554804, 46.553165]}, {"name": "Piscine de la Fleur-de-Lys", "text": "A Chavannes-près-Renens-ben található Piscine de la Fleur-de-Lys egy úszómedence az egész családnak.", "category": "family", "coords": [6.604128, 46.542766]}, {"name": "Piscine de Montétan", "text": "A Chavannes-près-Renens-ben lévő Piscine de Montétan úszási és pihenési lehetőséget kínál.", "category": "family", "coords": [6.611819, 46.530517]}], "ro": [{"name": "Musée Bolo", "text": "Un muzeu de la EPFL din Chavannes-près-Renens, dedicat istoriei informaticii.", "category": "museum", "coords": [6.56372, 46.518735]}, {"name": "Musée romain de Lausanne-Vidy", "text": "Un muzeu arheologic care prezintă trecutul roman al așezării Lousonna.", "category": "museum", "coords": [6.598673, 46.518957]}, {"name": "Château de Dorigny", "text": "Un castel istoric situat în campusul Universității din Lausanne, astăzi sediul Fundației Jean Monnet.", "category": "castle", "coords": [6.582177, 46.523342]}, {"name": "Ruines romaines Lousonna", "text": "Vestigiile arheologice ale vechiului oraș roman de pe malul lacului Geneva.", "category": "historical", "coords": [6.601068, 46.516484]}, {"name": "Château de Valency", "text": "O clădire elegantă de castel lângă Lausanne, înconjurată de un parc.", "category": "castle", "coords": [6.608896, 46.529404]}, {"name": "Château de Vidy", "text": "O clădire impunătoare din Vidy, strâns legată de istoria regiunii.", "category": "castle", "coords": [6.596509, 46.518468]}, {"name": "Château de Prilly", "text": "Un castel istoric din Prilly, utilizat astăzi în scopuri administrative locale.", "category": "castle", "coords": [6.605122, 46.535146]}, {"name": "Château de Renens-sur-Roche", "text": "O reședință istorică în comuna Renens, cu semnificație arhitecturală.", "category": "castle", "coords": [6.595601, 46.532115]}, {"name": "Château de Renens", "text": "Un monument istoric important din Renens, considerat un simbol al orașului.", "category": "castle", "coords": [6.594484, 46.534836]}, {"name": "Château d'Échandens", "text": "Un castel bine conservat în Échandens, cu o istorie îndelungată.", "category": "castle", "coords": [6.542199, 46.53559]}, {"name": "Atelier-Musée Encre & Plomb", "text": "Un muzeu din Chavannes dedicat artei culegerii manuale și tiparului tradițional.", "category": "museum", "coords": [6.577296, 46.534132]}, {"name": "Plage du Pélican", "text": "Plage du Pélican este o porțiune de plajă primitoare de-a lungul Lacului Geneva în Chavannes-près-Renens, dedicată relaxării și scăldatului. Apele deschise oferă un fundal minunat pentru o zi plină de înot, plajă și aer proaspăt. Este o destinație fantastică pentru a vă deconecta și a îmbrățișa ritmul liniștitor al lacului. O vizită în timpul lunilor mai calde garantează o experiență elvețiană autentică.", "category": "recreational", "coords": [6.572409, 46.513312]}, {"name": "Espace des Inventions", "text": "Un muzeu interactiv din Chavannes-près-Renens, dedicat explorării științei și tehnologiei pentru toate vârstele.", "category": "museum", "coords": [6.60373, 46.519514]}, {"name": "Mosaïque Romaine", "text": "Un sit arheologic din Chavannes-près-Renens care conservă mozaicuri romane antice.", "category": "historical", "coords": [6.599563, 46.517605]}, {"name": "Théâtre Kléber-Méleau", "text": "Un teatru cunoscut din Chavannes-près-Renens care oferă un program divers de arte spectacolului.", "category": "cultural", "coords": [6.599416, 46.526178]}, {"name": "Salle de spectacles de Chisaz", "text": "O locație locală pentru spectacole de teatru și evenimente culturale în Chavannes-près-Renens.", "category": "cultural", "coords": [6.577818, 46.549782]}, {"name": "Salle de spectacles", "text": "O sală de spectacole versatilă pentru reprezentanții culturale în Chavannes-près-Renens.", "category": "cultural", "coords": [6.585603, 46.536371]}, {"name": "Plage des Pierrettes", "text": "Servind ca o plajă publică de prim rang pe Lacul Geneva, Plage des Pierrettes din Chavannes-près-Renens este perfectă atât pentru recreere, cât și pentru activități acvatice. Atmosfera de coastă plină de viață o face un loc minunat pentru a intra în apă sau pur și simplu pentru a sta la soare. Găzduiește cu ușurință vizitatorii care caută o zi activă în aer liber sau o plimbare pe litoral. Cel mai bine este să mergeți devreme pentru a obține un loc preferat într-o zi însorită.", "category": "recreational", "coords": [6.575827, 46.515258]}, {"name": "Lousonna", "text": "Un sit arheologic important ce cuprinde vestigiile așezării romane antice Lousonna.", "category": "historical", "coords": [6.594935, 46.5203]}, {"name": "Esplanade Bonaparte", "text": "Un punct de observație în Chavannes-près-Renens, oferind o vedere panoramică asupra împrejurimilor.", "category": "natural", "coords": [6.561423, 46.522616]}, {"name": "Parcours vert", "text": "Un traseu marcat sau punct de belvedere în natura din Chavannes-près-Renens.", "category": "natural", "coords": [6.566012, 46.522996]}, {"name": "Lucioles", "text": "Un punct de interes local pentru vizitatorii din Chavannes-près-Renens.", "category": "landmark", "coords": [6.58696, 46.520153]}, {"name": "Galerie du Pressoir", "text": "Un centru de artă din Chavannes-près-Renens care găzduiește expoziții de artă locală.", "category": "cultural", "coords": [6.564469, 46.526564]}, {"name": "CRAB, centre d'animation et de rencontre de Bussigny", "text": "Un centru sociocultural pentru animație și întâlniri în Bussigny.", "category": "cultural", "coords": [6.549536, 46.54677]}, {"name": "Motty", "text": "Un lăcaș de cult istoric și loc de meditație în Chavannes-près-Renens.", "category": "religious", "coords": [6.562067, 46.52616]}, {"name": "Église Saint-Pierre", "text": "Una dintre bisericile catolice ale comunității, dedicată Sfântului Petru.", "category": "religious", "coords": [6.550871, 46.553202]}, {"name": "Paroisse catholique du Bon Pasteur", "text": "O parohie catolică din Chavannes-près-Renens, dedicată Bunului Păstor.", "category": "religious", "coords": [6.603359, 46.536976]}, {"name": "Église Romane de Saint-Sulpice", "text": "O importantă biserică romanică din Saint-Sulpice, cunoscută pentru arhitectura sa de pe malul lacului.", "category": "religious", "coords": [6.559942, 46.509011]}, {"name": "Saint-François d'Assise", "text": "O clădire religioasă în Chavannes-près-Renens, dedicată Sfântului Francisc de Assisi.", "category": "religious", "coords": [6.584567, 46.538801]}, {"name": "Paroisse de Renens", "text": "Centrul religios al parohiei din Renens pentru comunitatea locală de credincioși.", "category": "religious", "coords": [6.590628, 46.536725]}, {"name": "Temple de Broye", "text": "O clădire bisericească protestantă situată în regiunea Chavannes-près-Renens.", "category": "religious", "coords": [6.598527, 46.538623]}, {"name": "Réservoir de Haute-Pierre", "text": "O zonă cu apă liniștită în Chavannes Pres Renens, înconjurată de natură.", "category": "natural", "coords": [6.49101, 46.530858]}, {"name": "Terrain d'Aventure de Malley", "text": "Un loc de joacă de aventură în Chavannes Pres Renens pentru copii activi.", "category": "family", "coords": [6.603857, 46.523127]}, {"name": "Place de jeu du Parc Robinson", "text": "Un loc de joacă în Parc Robinson din Chavannes Pres Renens pentru ieșiri cu familia.", "category": "family", "coords": [6.578919, 46.530835]}, {"name": "Parc du centre", "text": "Un loc de joacă în centrul localității Chavannes Pres Renens pentru scurte pauze.", "category": "family", "coords": [6.552749, 46.549653]}, {"name": "Parc de Rente", "text": "Un loc de joacă umbrit în Chavannes Pres Renens pentru ore relaxante.", "category": "family", "coords": [6.559786, 46.555947]}, {"name": "La Dune de Malley", "text": "O zonă de joacă atractivă în Chavannes Pres Renens pentru copii de toate vârstele.", "category": "family", "coords": [6.604182, 46.524429]}, {"name": "Place de jeux de la Scirie", "text": "Un loc de joacă local în Chavannes Pres Renens, ideal pentru copiii din zonă.", "category": "family", "coords": [6.579022, 46.54681]}, {"name": "Aire de Jeux du Grand-Pré", "text": "Un loc de joacă în Chavannes Pres Renens care încurajează mișcarea în aer liber.", "category": "family", "coords": [6.602771, 46.533946]}, {"name": "Parc de Roséaz", "text": "Un mic parc cu posibilități de joacă în Chavannes Pres Renens.", "category": "family", "coords": [6.557733, 46.547742]}, {"name": "Parc de la Violette", "text": "Un loc de joacă bine întreținut în Chavannes Pres Renens pentru timp cu familia.", "category": "family", "coords": [6.554804, 46.553165]}, {"name": "Piscine de la Fleur-de-Lys", "text": "Piscine de la Fleur-de-Lys din Chavannes-près-Renens este o piscină pentru întreaga familie.", "category": "family", "coords": [6.604128, 46.542766]}, {"name": "Piscine de Montétan", "text": "Piscine de Montétan din Chavannes-près-Renens oferă condiții pentru înot și recreere.", "category": "family", "coords": [6.611819, 46.530517]}], "en": [{"name": "Musée Bolo", "text": "A museum at EPFL in Chavannes-près-Renens dedicated to the history of computing.", "category": "museum", "coords": [6.56372, 46.518735]}, {"name": "Musée romain de Lausanne-Vidy", "text": "An archaeological museum presenting the Roman past of the Lousonna settlement.", "category": "museum", "coords": [6.598673, 46.518957]}, {"name": "Château de Dorigny", "text": "A historic castle on the University of Lausanne campus, now the seat of the Jean Monnet Foundation.", "category": "castle", "coords": [6.582177, 46.523342]}, {"name": "Roman Ruins of Lousonna", "text": "The archaeological remains of the ancient Roman city on the shores of Lake Geneva.", "category": "historical", "coords": [6.601068, 46.516484]}, {"name": "Château de Valency", "text": "An elegant castle building near Lausanne, surrounded by a park.", "category": "castle", "coords": [6.608896, 46.529404]}, {"name": "Château de Vidy", "text": "A stately building in Vidy, closely linked to the history of the region.", "category": "castle", "coords": [6.596509, 46.518468]}, {"name": "Château de Prilly", "text": "A historic castle in Prilly, now used for local administrative purposes.", "category": "castle", "coords": [6.605122, 46.535146]}, {"name": "Château de Renens-sur-Roche", "text": "A historic residence in the municipality of Renens with architectural significance.", "category": "castle", "coords": [6.595601, 46.532115]}, {"name": "Château de Renens", "text": "A significant historic building in Renens, considered a landmark of the city.", "category": "castle", "coords": [6.594484, 46.534836]}, {"name": "Château d'Échandens", "text": "A well-preserved castle in Échandens with a long history.", "category": "castle", "coords": [6.542199, 46.53559]}, {"name": "Atelier-Musée Encre & Plomb", "text": "A museum in Chavannes dedicated to the art of typesetting and traditional book printing.", "category": "museum", "coords": [6.577296, 46.534132]}, {"name": "Plage du Pélican", "text": "Plage du Pélican is an inviting beach stretch along Lake Geneva in Chavannes-près-Renens, dedicated to relaxation and bathing. The open waters provide a wonderful backdrop for a day filled with swimming, sunbathing, and taking in the fresh air. It is a fantastic destination to disconnect and embrace the soothing lakeside rhythm. Visiting during the warmer months guarantees a quintessential Swiss lake experience.", "category": "recreational", "coords": [6.572409, 46.513312]}, {"name": "Espace des Inventions", "text": "An interactive museum in Chavannes-près-Renens focused on making science and technology accessible to all.", "category": "museum", "coords": [6.60373, 46.519514]}, {"name": "Mosaïque Romaine", "text": "An archaeological site in Chavannes-près-Renens preserving ancient Roman floor mosaics.", "category": "historical", "coords": [6.599563, 46.517605]}, {"name": "Théâtre Kléber-Méleau", "text": "A well-known theatre in Chavannes-près-Renens offering a diverse program of performing arts.", "category": "cultural", "coords": [6.599416, 46.526178]}, {"name": "Salle de spectacles de Chisaz", "text": "A local venue for theatrical performances and cultural events in Chavannes-près-Renens.", "category": "cultural", "coords": [6.577818, 46.549782]}, {"name": "Salle de spectacles", "text": "A versatile performance hall for cultural presentations in Chavannes-près-Renens.", "category": "cultural", "coords": [6.585603, 46.536371]}, {"name": "Plage des Pierrettes", "text": "Serving as a prime public beach on Lake Geneva, Plage des Pierrettes in Chavannes-près-Renens is perfect for both recreation and water activities. The lively coastal atmosphere makes it a great spot to dive into the water, play, or simply lounge under the sun. It easily accommodates visitors looking for an active day out or a casual seaside stroll. Securing your preferred spot on a sunny day is best done by heading there early.", "category": "recreational", "coords": [6.575827, 46.515258]}, {"name": "Lousonna", "text": "A significant archaeological site featuring the remains of the ancient Roman settlement Lousonna.", "category": "historical", "coords": [6.594935, 46.5203]}, {"name": "Esplanade Bonaparte", "text": "A viewpoint in Chavannes-près-Renens offering a broad view of the surrounding area.", "category": "natural", "coords": [6.561423, 46.522616]}, {"name": "Parcours vert", "text": "A marked trail or viewpoint situated in the natural landscape of Chavannes-près-Renens.", "category": "natural", "coords": [6.566012, 46.522996]}, {"name": "Lucioles", "text": "A local point of interest for visitors in Chavannes-près-Renens.", "category": "landmark", "coords": [6.58696, 46.520153]}, {"name": "Galerie du Pressoir", "text": "An arts centre in Chavannes-près-Renens hosting regular exhibitions by local artists.", "category": "cultural", "coords": [6.564469, 46.526564]}, {"name": "CRAB, centre d'animation et de rencontre de Bussigny", "text": "A sociocultural centre in Bussigny dedicated to community activities and social interaction.", "category": "cultural", "coords": [6.549536, 46.54677]}, {"name": "Motty", "text": "A historic place of worship and site for reflection in Chavannes-près-Renens.", "category": "religious", "coords": [6.562067, 46.52616]}, {"name": "Église Saint-Pierre", "text": "One of the Catholic churches in the community, dedicated to Saint Peter.", "category": "religious", "coords": [6.550871, 46.553202]}, {"name": "Paroisse catholique du Bon Pasteur", "text": "A Catholic parish church in Chavannes-près-Renens dedicated to the Good Shepherd.", "category": "religious", "coords": [6.603359, 46.536976]}, {"name": "Église Romane de Saint-Sulpice", "text": "A significant Romanesque church in Saint-Sulpice, notable for its lakeside architecture.", "category": "religious", "coords": [6.559942, 46.509011]}, {"name": "Saint-François d'Assise", "text": "A religious building in Chavannes-près-Renens dedicated to Saint Francis of Assisi.", "category": "religious", "coords": [6.584567, 46.538801]}, {"name": "Paroisse de Renens", "text": "The religious centre of the parish in Renens for the local faith community.", "category": "religious", "coords": [6.590628, 46.536725]}, {"name": "Temple de Broye", "text": "A Protestant church building located in the Chavannes-près-Renens area.", "category": "religious", "coords": [6.598527, 46.538623]}, {"name": "Réservoir de Haute-Pierre", "text": "A quiet body of water in Chavannes Pres Renens, surrounded by nature.", "category": "natural", "coords": [6.49101, 46.530858]}, {"name": "Terrain d'Aventure de Malley", "text": "An adventure playground in Chavannes Pres Renens for active children.", "category": "family", "coords": [6.603857, 46.523127]}, {"name": "Place de jeu du Parc Robinson", "text": "A playground in Parc Robinson in Chavannes Pres Renens for family outings.", "category": "family", "coords": [6.578919, 46.530835]}, {"name": "Parc du centre", "text": "A playground in the center of Chavannes Pres Renens for quick play breaks.", "category": "family", "coords": [6.552749, 46.549653]}, {"name": "Parc de Rente", "text": "A shaded playground in Chavannes Pres Renens for relaxed hours.", "category": "family", "coords": [6.559786, 46.555947]}, {"name": "La Dune de Malley", "text": "An attractive play area in Chavannes Pres Renens for children of all ages.", "category": "family", "coords": [6.604182, 46.524429]}, {"name": "Place de jeux de la Scirie", "text": "A local playground in Chavannes Pres Renens, ideal for neighborhood children.", "category": "family", "coords": [6.579022, 46.54681]}, {"name": "Aire de Jeux du Grand-Pré", "text": "A playground in Chavannes Pres Renens encouraging outdoor movement.", "category": "family", "coords": [6.602771, 46.533946]}, {"name": "Parc de Roséaz", "text": "A small park with play facilities in Chavannes Pres Renens.", "category": "family", "coords": [6.557733, 46.547742]}, {"name": "Parc de la Violette", "text": "A well-maintained playground in Chavannes Pres Renens for family time.", "category": "family", "coords": [6.554804, 46.553165]}, {"name": "Piscine de la Fleur-de-Lys", "text": "The Fleur-de-Lys swimming pool in Chavannes-près-Renens is a pool for the whole family.", "category": "family", "coords": [6.604128, 46.542766]}, {"name": "Piscine de Montétan", "text": "The Montétan swimming pool in Chavannes-près-Renens offers opportunities for swimming and relaxation.", "category": "family", "coords": [6.611819, 46.530517]}]}, "type": "city", "parent": "CH-VD", "coords": [6.5715, 46.5302], "population": 8345, "image": "/geo-images/switzerland/ch-chavannes-pres-renens.webp", "name": {"de": "Chavannes-près-Renens", "hu": "Chavannes-près-Renens", "ro": "Chavannes-près-Renens", "en": "Chavannes-près-Renens"}, "description": {"de": "Chavannes-près-Renens ist eine moderne Vorortgemeinde von Lausanne, geprägt durch die Nähe zu den grossen Universitäten UNIL und EPFL.", "hu": "Chavannes-près-Renens Lausanne modern elővárosi települése, amelyet az UNIL és az EPFL egyetemek közelsége határoz meg.", "ro": "Chavannes-près-Renens este o comună suburbană modernă a orașului Lausanne, marcată de proximitatea față de marile universități UNIL și EPFL.", "en": "Chavannes-près-Renens is a modern suburban municipality of Lausanne, shaped by its proximity to the major universities UNIL and EPFL."}, "facts": {"de": ["Teil der Agglomeration Lausanne", "Standort kantonaler Archive (Archives cantonales vaudoises)", "Stark wachsender Wohnort für Studenten", "Hervorragende Anbindung an die Métro Lausanne"], "hu": ["A Lausanne-i agglomeráció része", "A kanton levéltárának helyszíne (Archives cantonales vaudoises)", "Gyorsan növekvő lakóhely diákok számára", "Kiváló kapcsolat a Lausanne-i metróval"], "ro": ["Parte a aglomerației Lausanne", "Locația arhivelor cantonale (Archives cantonales vaudoises)", "Loc de reședință cu creștere rapidă pentru studenți", "Conexiune excelentă la metroul din Lausanne"], "en": ["Part of the Lausanne agglomeration", "Location of cantonal archives (Archives cantonales vaudoises)", "Fast-growing residential area for students", "Excellent connection to the Lausanne Métro"]}, "descriptionAdvanced": {"de": "Chavannes-près-Renens liegt im Distrikt Ouest lausannois im Kanton Waadt und hat sich in den letzten Jahrzehnten von einer Agrargemeinde zu einem dynamischen urbanen Zentrum entwickelt. Die unmittelbare Nachbarschaft zum Campus der Universität Lausanne (UNIL) und der Eidgenössischen Technischen Hochschule Lausanne (EPFL) prägt das soziale und wirtschaftliche Leben der Gemeinde massgeblich. Ein Grossteil der Bevölkerung besteht aus jungen Menschen und Akademikern, was dem Ort eine internationale Atmosphäre verleiht. Geografisch liegt Chavannes in einer leicht abfallenden Ebene in Richtung Genfersee, wobei die Uferpromenade nur wenige Minuten entfernt ist. Ein architektonischer Höhepunkt sind die Waadtländer Kantonsarchive, ein moderner Bau, der bedeutende historische Dokumente beherbergt. Die Gemeinde investiert stark in nachhaltige Stadtentwicklung und den Ausbau des öffentlichen Verkehrs, insbesondere durch die Linie m1 der Métro Lausanne. Trotz der dichten Bebauung gibt es Parks und Erholungszonen wie das Quartier de la Plaine, die die Lebensqualität erhöhen. Chavannes ist heute ein Symbol für den modernen Wandel der Region Lausanne.", "hu": "Chavannes-près-Renens Waadt kanton Ouest lausannois kerületében fekszik, és az elmúlt évtizedekben mezőgazdasági településből dinamikus városi központtá fejlődött. A Lausanne-i Egyetem (UNIL) és a Lausanne-i Szövetségi Műszaki Egyetem (EPFL) kampuszának közvetlen szomszédsága meghatározza a település társadalmi és gazdasági életét. A lakosság nagy részét fiatalok és akadémikusok alkotják, ami nemzetközi légkört kölcsönöz a helynek. Földrajzilag Chavannes a Genfi-tó felé enyhén lejtő síkságon fekszik, a tóparti sétány mindössze néhány percre található. Építészeti csúcspontja a Waadt kanton levéltára, egy modern épület, amely jelentős történelmi dokumentumokat őriz. A település sokat fektet a fenntartható városfejlesztésbe és a tömegközlekedés bővítésébe, különösen a lausanne-i metró m1-es vonala révén. A sűrű beépítettség ellenére vannak parkok és pihenőövezetek, mint például a Quartier de la Plaine, amelyek növelik az életminőséget. Chavannes ma a lausanne-i régió modern átalakulásának szimbóluma.", "ro": "Chavannes-près-Renens este situat în districtul Ouest lausannois din cantonul Vaud și s-a transformat în ultimele decenii dintr-o comună agricolă într-un centru urban dinamic. Vecinătatea imediată cu campusul Universității din Lausanne (UNIL) și al Școlii Politehnice Federale din Lausanne (EPFL) influențează semnificativ viața socială și economică a comunei. O mare parte a populației este formată din tineri și cadre universitare, ceea ce oferă localității o atmosferă internațională. Geografic, Chavannes se află pe o câmpie care coboară ușor spre Lacul Leman, promenada malului fiind la doar câteva minute distanță. Un punct de atracție arhitectural îl reprezintă Arhivele Cantonale din Vaud, o clădire modernă care adăpostește documente istorice importante. Comuna investește masiv în dezvoltarea urbană durabilă și în extinderea transportului public, în special prin linia m1 a metroului din Lausanne. În ciuda densității construcțiilor, există parcuri și zone de agrement precum Quartier de la Plaine, care sporesc calitatea vieții. Chavannes este astăzi un simbol al transformării moderne a regiunii Lausanne.", "en": "Chavannes-près-Renens is located in the Ouest lausannois district of the Canton of Vaud and has evolved from an agricultural municipality into a dynamic urban center over the last few decades. The immediate proximity to the campus of the University of Lausanne (UNIL) and the Swiss Federal Institute of Technology Lausanne (EPFL) significantly shapes the social and economic life of the community. A large portion of the population consists of young people and academics, giving the town an international atmosphere. Geographically, Chavannes lies on a gently sloping plain towards Lake Geneva, with the lakeshore promenade just minutes away. An architectural highlight is the Vaud Cantonal Archives, a modern building that houses important historical documents. The municipality invests heavily in sustainable urban development and the expansion of public transport, particularly through the m1 line of the Lausanne Métro. Despite the dense construction, there are parks and recreational zones such as the Quartier de la Plaine that enhance the quality of life. Chavannes is now a symbol of the modern transformation of the Lausanne region."}, "factsAdvanced": {"de": ["Die Archives cantonales vaudoises befinden sich auf dem Gemeindegebiet.", "Chavannes-près-Renens liegt auf 415 Metern über Meer.", "Die Gemeinde grenzt direkt an den Campus der UNIL.", "Die Métro-Linie m1 verbindet den Ort in 10 Minuten mit dem Stadtzentrum von Lausanne.", "Ein Grossteil des Gemeindegebiets ist heute bebaut oder dem Verkehr gewidmet.", "Die Einwohnerzahl hat sich seit 1960 mehr als verdoppelt."], "hu": ["A Waadt kantoni levéltár a település területén található.", "Chavannes-près-Renens 415 méteres tengerszint feletti magasságban fekszik.", "A település közvetlenül határos az UNIL kampuszával.", "Az m1-es metróvonal 10 perc alatt összeköti a helyet Lausanne belvárosával.", "A település területének nagy része mára beépített vagy közlekedési célú.", "A lakosok száma 1960 óta több mint a kétszeresére nőtt."], "ro": ["Arhivele cantonale din Vaud se află pe teritoriul comunei.", "Chavannes-près-Renens este situat la 415 metri deasupra mării.", "Comuna se învecinează direct cu campusul UNIL.", "Linia de metrou m1 conectează localitatea cu centrul orașului Lausanne în 10 minute.", "O mare parte a teritoriului comunei este astăzi construită sau dedicată traficului.", "Numărul locuitorilor s-a dublat de peste două ori din 1960."], "en": ["The Vaud Cantonal Archives are located within the municipal territory.", "Chavannes-près-Renens is situated at 415 meters above sea level.", "The municipality directly borders the UNIL campus.", "The m1 Métro line connects the town to Lausanne city center in 10 minutes.", "A large part of the municipal territory is now built-up or dedicated to transport.", "The population has more than doubled since 1960."]}, "faq": {"de": [{"q": "Ist Chavannes-près-Renens eine Studentenstadt?", "a": "Ja, durch die Nähe zu UNIL und EPFL wohnen hier überdurchschnittlich viele Studierende."}, {"q": "Wie kommt man von Chavannes nach Lausanne?", "a": "Am schnellsten mit der Métro m1 oder mit verschiedenen Buslinien der TL."}, {"q": "Was sind die Archives cantonales vaudoises?", "a": "Es ist das offizielle Archiv des Kantons Waadt, das in Chavannes in einem modernen Gebäude untergebracht ist."}, {"q": "Liegt Chavannes am See?", "a": "Es liegt nicht direkt am Ufer, aber der Genfersee ist nur einen kurzen Spaziergang entfernt."}], "hu": [{"q": "Chavannes-près-Renens diákváros?", "a": "Igen, az UNIL és az EPFL közelsége miatt átlagon felüli számú diák él itt."}, {"q": "Hogyan juthatunk el Chavannes-ből Lausanne-ba?", "a": "A leggyorsabban az m1-es metróval vagy a TL különböző buszvonalaival."}, {"q": "Mik azok az Archives cantonales vaudoises?", "a": "Ez Waadt kanton hivatalos levéltára, amely Chavannes-ben, egy modern épületben található."}, {"q": "A tó partján fekszik Chavannes?", "a": "Nem közvetlenül a parton fekszik, de a Genfi-tó csak egy rövid sétára van."}], "ro": [{"q": "Este Chavannes-près-Renens un oraș studențesc?", "a": "Da, datorită proximității față de UNIL și EPFL, aici locuiesc un număr peste medie de studenți."}, {"q": "Cum se ajunge din Chavannes în Lausanne?", "a": "Cel mai rapid cu metroul m1 sau cu diverse linii de autobuz ale TL."}, {"q": "Ce sunt Archives cantonales vaudoises?", "a": "Este arhiva oficială a cantonului Vaud, găzduită în Chavannes într-o clădire modernă."}, {"q": "Se află Chavannes pe malul lacului?", "a": "Nu se află direct pe mal, dar Lacul Leman este la doar o scurtă plimbare distanță."}], "en": [{"q": "Is Chavannes-près-Renens a student town?", "a": "Yes, due to its proximity to UNIL and EPFL, an above-average number of students live here."}, {"q": "How do you get from Chavannes to Lausanne?", "a": "The fastest way is via the m1 Métro or various TL bus lines."}, {"q": "What are the Archives cantonales vaudoises?", "a": "It is the official archive of the Canton of Vaud, housed in a modern building in Chavannes."}, {"q": "Is Chavannes located on the lake?", "a": "It is not directly on the shore, but Lake Geneva is just a short walk away."}]}},
-  {"id": "ch-wollerau", "sights": {"de": [{"name": "Sternenschanze", "text": "Eine historische Befestigungsanlage in der Gemeinde Wollerau.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Heimatkundliche Sammlung", "text": "Ein Museum, das sich der lokalen Geschichte von Wollerau widmet.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Peter Marvey's Magic-House", "text": "Ein Theater und Veranstaltungsort des bekannten Magiers Peter Marvey.", "category": "cultural", "coords": [8.736247, 47.188939]}, {"name": "Feuerwehrmuseum", "text": "Ein Museum, das historische Feuerwehrgeräte und -fahrzeuge ausstellt.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "Ein Museum in einer historischen Säge, das altes Handwerk zeigt.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "Ein Aussichtspunkt in Wollerau, der Gottfried Keller gewidmet ist.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "Der Naturpunkt Becki liegt im schweizerischen Wollerau und bietet eine schöne Umgebung für Ausflüge. Als markanter Aussichtspunkt ermöglicht er Besuchern einen weitläufigen Blick über die gesamte Region Wollerau. Naturfreunde nutzen diesen Platz gerne, um die Umgebung von oben zu bewundern.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "Ein markanter Springbrunnen in der Gemeinde Richterswil bei Wollerau.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "Ein lokaler Wasserfall, der ein beliebtes Ziel für Naturfreunde ist.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "Ein bedeutendes reformiertes Kirchengebäude im Zentrum von Richterswil.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "Die römisch-katholische Pfarrkirche der Gemeinde Richterswil.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "St.-Anna-Kirche", "text": "Eine denkmalgeschützte barocke Kirche im Ortsteil Schindellegi.", "category": "religious", "coords": [8.712957, 47.174313]}, {"name": "St. Verena", "text": "Die katholische Pfarrkirche St. Verena prägt das Dorfbild von Wollerau.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "Das Gotteshaus der evangelisch-reformierten Kirchgemeinde in Wollerau.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "St. Jakobus", "text": "Eine markante katholische Kirche in der Gemeinde Feusisberg.", "category": "religious", "coords": [8.74764, 47.187601]}, {"name": "Kapelle Drei Eidgenossen", "text": "Eine kleine Kapelle, die an die Gründung der Eidgenossenschaft erinnert.", "category": "religious", "coords": [8.756534, 47.195189]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "Ein religiöses Gebäude, das den Heiligen Konrad und Ulrich gewidmet ist.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "Der Seeweidsee in Wollerau ist ein ruhiger See, der sich gut für Spaziergänge in der Natur eignet.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Spielplatz Horn", "text": "Der Spielplatz Horn in Wollerau bietet verschiedene Spielgeräte für Kinder in einer attraktiven Umgebung.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "Der Spielplatz Mettlen in Wollerau ist ein beliebter Treffpunkt für Familien mit Kindern zum Spielen.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "Die Robi-Anlage in Wollerau ist ein abwechslungsreicher Spielplatz, der viel Platz zum Austoben bietet.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "Erlenmoos in Wollerau ist ein Spielplatz, der Kindern vielfältige Spiel- und Bewegungsmöglichkeiten bietet.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "Die Minigolfanlage Erlenmoos in Wollerau bietet Freizeitvergnügen für Familien in schöner Lage.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Zugang zu Zürichsee", "text": "Dieses Schwimmbad in Wollerau bietet Zugang zum Zürichsee für Familienspaß.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Hallenbad", "text": "Das Hallenbad ist ein Hallenbad in Wollerau, ideal für die Freizeitgestaltung der Familie.", "category": "family", "coords": [8.754778, 47.203615]}, {"name": "Badeanstalt Freienbach", "text": "Die Badeanstalt Freienbach ist ein öffentliches Bad in Wollerau, das sich für einen Familienbesuch eignet.", "category": "family", "coords": [8.757835, 47.207666]}, {"name": "Seebad Hüttenersee", "text": "Das Seebad Hüttenersee ist ein Badebereich in Wollerau, der schöne Aussichten und Entspannung bietet.", "category": "family", "coords": [8.67747, 47.184675]}], "hu": [{"name": "Sternenschanze", "text": "Történelmi erődítmény Wollerau községben.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Heimatkundliche Sammlung", "text": "Wollerau helytörténetével foglalkozó múzeum.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Peter Marvey's Magic-House", "text": "Peter Marvey híres bűvész színháza és rendezvényhelyszíne.", "category": "cultural", "coords": [8.736247, 47.188939]}, {"name": "Feuerwehrmuseum", "text": "Történelmi tűzoltóeszközöket és járműveket bemutató múzeum.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "Egy történelmi fűrészüzemben működő múzeum, amely régi mesterségeket mutat be.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "Gottfried Kellernek szentelt kilátópont Wollerau területén.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "A Becki nevű természeti pont a svájci Wollerauban található, és gyönyörű környezetet kínál kirándulásokhoz. Kiemelkedő kilátóként tágas kilátást nyújt a látogatóknak az egész Wollerau régióra. A természetbarátok szívesen használják ezt a helyet, hogy felülről csodálják meg a környéket.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "Jellegzetes szökőkút Richterswil községben, Wollerau közelében.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "Helyi vízesés, amely a természetbarátok kedvelt célpontja.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "Jelentős református templomépület Richterswil központjában.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "Richterswil község római katolikus plébániatemploma.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "St.-Anna-Kirche", "text": "Műemlékvédelem alatt álló barokk templom Schindellegi településrészen.", "category": "religious", "coords": [8.712957, 47.174313]}, {"name": "St. Verena", "text": "A Szent Veréna katolikus plébániatemplom meghatározza Wollerau faluképét.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "Az evangélikus-református egyházközség temploma Wollerau-ban.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "St. Jakobus", "text": "Jellegzetes katolikus templom Feusisberg községben.", "category": "religious", "coords": [8.74764, 47.187601]}, {"name": "Kapelle Drei Eidgenossen", "text": "Kicsiny kápolna, amely a Svájci Konföderáció alapítására emlékeztet.", "category": "religious", "coords": [8.756534, 47.195189]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "Szent Konrádnak és Ulriknak szentelt vallási épület.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "A Wollerau településen található Seeweidsee egy csendes tó, amely kiválóan alkalmas természetjáró sétákhoz.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Spielplatz Horn", "text": "A Wollerau területén fekvő Spielplatz Horn különféle játéklehetőségeket kínál a gyerekeknek szép környezetben.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "A Wollerau településen található Spielplatz Mettlen a családok és gyerekek kedvelt találkozóhelye a játékhoz.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "A Wollerau-i Robi-Anlage egy változatos játszótér, amely sok helyet biztosít a gyerekeknek a mozgáshoz.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "A Wollerau területén található Erlenmoos játszótér változatos játék- és mozgáslehetőséget kínál a gyerekeknek.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "A Wollerau településen lévő Erlenmoos minigolfpálya szabadidős szórakozást nyújt a családoknak szép helyszínen.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Zugang zu Zürichsee", "text": "Ez a wolleraui úszómedence hozzáférést biztosít a Zürichi-tóhoz a családi szórakozáshoz.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Hallenbad", "text": "A Hallenbad egy fedett úszómedence Wollerauban, amely tökéletes a családi szabadidő eltöltésére.", "category": "family", "coords": [8.754778, 47.203615]}, {"name": "Badeanstalt Freienbach", "text": "A Badeanstalt Freienbach egy nyilvános fürdő Wollerauban, amely alkalmas családi látogatásra.", "category": "family", "coords": [8.757835, 47.207666]}, {"name": "Seebad Hüttenersee", "text": "A Seebad Hüttenersee egy fürdőhely Wollerauban, amely szép kilátást és kikapcsolódást kínál.", "category": "family", "coords": [8.67747, 47.184675]}], "ro": [{"name": "Sternenschanze", "text": "O fortificație istorică în comuna Wollerau.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Heimatkundliche Sammlung", "text": "Un muzeu dedicat istoriei locale a localității Wollerau.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Peter Marvey's Magic-House", "text": "Un teatru și spațiu de evenimente al cunoscutului magician Peter Marvey.", "category": "cultural", "coords": [8.736247, 47.188939]}, {"name": "Feuerwehrmuseum", "text": "Un muzeu care expune echipamente și vehicule istorice de pompieri.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "Un muzeu situat într-un gater istoric, care prezintă meșteșuguri vechi.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "Un punct de observare în Wollerau dedicat lui Gottfried Keller.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "Punctul natural Becki este situat în Wollerau, Elveția, oferind un mediu frumos pentru excursii. Ca un punct de belvedere proeminent, permite vizitatorilor o vedere amplă asupra întregii regiuni Wollerau. Iubitorii de natură folosesc cu plăcere acest loc pentru a admira împrejurimile de sus.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "O fântână arteziană distinctivă în comuna Richterswil, lângă Wollerau.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "O cascadă locală, care este o destinație populară pentru iubitorii de natură.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "O clădire bisericească reformată importantă în centrul orașului Richterswil.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "Biserica parohială romano-catolică a comunei Richterswil.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "St.-Anna-Kirche", "text": "O biserică barocă protejată ca monument în districtul Schindellegi.", "category": "religious", "coords": [8.712957, 47.174313]}, {"name": "St. Verena", "text": "Biserica parohială catolică Sfânta Verena definește peisajul satului Wollerau.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "Lăcașul de cult al parohiei evanghelice-reformate din Wollerau.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "St. Jakobus", "text": "O biserică catolică proeminentă în comuna Feusisberg.", "category": "religious", "coords": [8.74764, 47.187601]}, {"name": "Kapelle Drei Eidgenossen", "text": "O mică chapelă care amintește de fondarea Confederației.", "category": "religious", "coords": [8.756534, 47.195189]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "O clădire religioasă dedicată Sfinților Conrad și Ulrich.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "Lacul Seeweidsee din Wollerau este un lac liniștit, potrivit pentru plimbări în natură.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Spielplatz Horn", "text": "Locul de joacă Horn din Wollerau oferă diverse echipamente de joacă pentru copii într-un cadru atractiv.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "Locul de joacă Mettlen din Wollerau este un punct de întâlnire popular pentru familiile cu copii pentru joacă.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "Robi-Anlage din Wollerau este un loc de joacă variat, care oferă mult spațiu pentru mișcare.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "Erlenmoos din Wollerau este un loc de joacă ce oferă copiilor diverse oportunități de joacă și mișcare.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "Terenul de minigolf Erlenmoos din Wollerau oferă divertisment pentru familii într-o locație frumoasă.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Zugang zu Zürichsee", "text": "Această piscină din Wollerau oferă acces la Lacul Zürich pentru distracție în familie.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Hallenbad", "text": "Hallenbad este o piscină acoperită din Wollerau, perfectă pentru petrecerea timpului liber în familie.", "category": "family", "coords": [8.754778, 47.203615]}, {"name": "Badeanstalt Freienbach", "text": "Badeanstalt Freienbach este o baie publică din Wollerau, potrivită pentru o vizită în familie.", "category": "family", "coords": [8.757835, 47.207666]}, {"name": "Seebad Hüttenersee", "text": "Seebad Hüttenersee este o zonă de înot din Wollerau care oferă vederi pitorești și relaxare.", "category": "family", "coords": [8.67747, 47.184675]}], "en": [{"name": "Sternenschanze", "text": "A historical fortification in the municipality of Wollerau.", "category": "fortress", "coords": [8.691882, 47.196746]}, {"name": "Heimatkundliche Sammlung", "text": "A museum dedicated to the local history of Wollerau.", "category": "museum", "coords": [8.704393, 47.20716]}, {"name": "Peter Marvey's Magic-House", "text": "A theatre and event venue of the famous magician Peter Marvey.", "category": "cultural", "coords": [8.736247, 47.188939]}, {"name": "Feuerwehrmuseum", "text": "A museum exhibiting historical firefighting equipment and vehicles.", "category": "museum", "coords": [8.720839, 47.196295]}, {"name": "Museum \"Alte Sagi\"", "text": "A museum in a historical sawmill showing old crafts.", "category": "museum", "coords": [8.682717, 47.197047]}, {"name": "Gottfried-Keller-Plätzli", "text": "A viewpoint in Wollerau dedicated to Gottfried Keller.", "category": "natural", "coords": [8.694566, 47.209666]}, {"name": "Becki", "text": "The natural spot Becki is located in Wollerau, Switzerland, offering a beautiful environment for excursions. As a prominent viewpoint, it allows visitors an extensive view over the entire Wollerau region. Nature lovers enjoy using this spot to admire the surroundings from above.", "category": "natural", "coords": [8.71207, 47.192789]}, {"name": "Richterswiler Springbrunnen", "text": "A distinctive fountain in the municipality of Richterswil near Wollerau.", "category": "landmark", "coords": [8.711783, 47.205575]}, {"name": "Wasserfall", "text": "A local waterfall that is a popular destination for nature lovers.", "category": "landmark", "coords": [8.715837, 47.190148]}, {"name": "Reformierte Kirche Richterswil", "text": "A significant reformed church building in the center of Richterswil.", "category": "religious", "coords": [8.700855, 47.208188]}, {"name": "Katholische Kirche Richterswil", "text": "The Roman Catholic parish church of the municipality of Richterswil.", "category": "religious", "coords": [8.701371, 47.211816]}, {"name": "St.-Anna-Kirche", "text": "A heritage-protected Baroque church in the district of Schindellegi.", "category": "religious", "coords": [8.712957, 47.174313]}, {"name": "St. Verena", "text": "The Catholic parish church of St. Verena shapes the village landscape of Wollerau.", "category": "religious", "coords": [8.719036, 47.195935]}, {"name": "Evang.-ref. Kirche Wollerau", "text": "The place of worship of the Evangelical Reformed parish in Wollerau.", "category": "religious", "coords": [8.727649, 47.19551]}, {"name": "St. Jakobus", "text": "A prominent Catholic church in the municipality of Feusisberg.", "category": "religious", "coords": [8.74764, 47.187601]}, {"name": "Kapelle Drei Eidgenossen", "text": "A small chapel commemorating the founding of the Confederation.", "category": "religious", "coords": [8.756534, 47.195189]}, {"name": "Kapelle St. Konrad und Ulrich", "text": "A religious building dedicated to Saints Conrad and Ulrich.", "category": "religious", "coords": [8.734762, 47.196933]}, {"name": "Seeweidsee", "text": "The Seeweidsee in Wollerau is a quiet lake well-suited for nature walks.", "category": "natural", "coords": [8.746025, 47.256889]}, {"name": "Spielplatz Horn", "text": "The Spielplatz Horn playground in Wollerau offers various play equipment for children in an attractive setting.", "category": "family", "coords": [8.705788, 47.211086]}, {"name": "Spielplatz Mettlen", "text": "The Spielplatz Mettlen playground in Wollerau is a popular meeting point for families with children to play.", "category": "family", "coords": [8.703711, 47.206035]}, {"name": "Robi-Anlage", "text": "The Robi-Anlage in Wollerau is a varied playground offering plenty of space for children to play.", "category": "family", "coords": [8.734557, 47.198028]}, {"name": "Erlenmoos", "text": "Erlenmoos in Wollerau is a playground providing children with diverse opportunities for play and movement.", "category": "family", "coords": [8.704927, 47.18843]}, {"name": "Minigolf Erlenmoos", "text": "The Minigolf Erlenmoos in Wollerau offers leisure fun for families in a beautiful location.", "category": "family", "coords": [8.703805, 47.188337]}, {"name": "Zugang zu Zürichsee", "text": "This swimming pool in Wollerau provides access to Lake Zurich for family fun.", "category": "family", "coords": [8.730406, 47.20288]}, {"name": "Hallenbad", "text": "Hallenbad is an indoor swimming pool in Wollerau, perfect for family leisure.", "category": "family", "coords": [8.754778, 47.203615]}, {"name": "Badeanstalt Freienbach", "text": "Badeanstalt Freienbach is a public bath in Wollerau suitable for a family visit.", "category": "family", "coords": [8.757835, 47.207666]}, {"name": "Seebad Hüttenersee", "text": "Seebad Hüttenersee is a swimming area in Wollerau offering scenic views and relaxation.", "category": "family", "coords": [8.67747, 47.184675]}]}, "type": "city", "parent": "CH-SZ", "coords": [8.7202, 47.1936], "population": 8260, "image": "/geo-images/switzerland/ch-wollerau.webp", "name": {"de": "Wollerau", "hu": "Wollerau", "ro": "Wollerau", "en": "Wollerau"}, "description": {"de": "Wollerau ist eine exklusive Wohngemeinde im Kanton Schwyz, bekannt für ihre attraktive Lage am Zürichsee und tiefe Steuersätze.", "hu": "Wollerau egy exkluzív lakóhely Schwyz kantonban, amely a Zürichi-tó melletti vonzó fekvéséről és alacsony adókulcsairól ismert.", "ro": "Wollerau este o comună rezidențială exclusivistă din cantonul Schwyz, cunoscută pentru locația atractivă pe Lacul Zürich și impozitele mici.", "en": "Wollerau is an exclusive residential municipality in the Canton of Schwyz, known for its attractive location on Lake Zurich and low tax rates."}, "facts": {"de": ["Gehört zum Bezirk Höfe", "Wohnort zahlreicher prominenter Persönlichkeiten", "Panoramablick über den Zürichsee bis in die Alpen", "Eine der steuergünstigsten Gemeinden der Schweiz"], "hu": ["A Höfe kerülethez tartozik", "Számos híres személyiség lakóhelye", "Panorámás kilátás a Zürichi-tóra és az Alpokra", "Svájc egyik legalacsonyabb adózású települése"], "ro": ["Aparține districtului Höfe", "Loc de reședință pentru numeroase personalități proeminente", "Vedere panoramică peste Lacul Zürich până la Alpi", "Una dintre comunele cu cele mai mici impozite din Elveția"], "en": ["Belongs to the district of Höfe", "Home to numerous prominent personalities", "Panoramic view over Lake Zurich to the Alps", "One of the most tax-advantageous municipalities in Switzerland"]}, "descriptionAdvanced": {"de": "Wollerau liegt auf einer Terrasse über dem Zürichsee im Bezirk Höfe des Kantons Schwyz. Die Gemeinde hat sich international einen Namen als einer der begehrtesten Wohnorte der Welt gemacht, was vor allem auf die Kombination aus hoher Lebensqualität, diskreter Atmosphäre und äusserst attraktiven steuerlichen Bedingungen zurückzuführen ist. Die Geografie bietet spektakuläre Ausblicke auf das Seebecken und die Glarner Alpen im Hintergrund. Das Ortsbild ist geprägt von luxuriösen Villen und modernen Apartmenthäusern, die harmonisch in die sanften Hügel eingebettet sind. Historisch gesehen war Wollerau lange Zeit ein Agrardorf, dessen Aufstieg erst in der zweiten Hälfte des 20. Jahrhunderts mit der Nähe zum Finanzplatz Zürich begann. Die Infrastruktur ist auf eine anspruchsvolle Klientel ausgerichtet, bietet aber auch für Familien hervorragende Schulen und Freizeiteinrichtungen. Die Anbindung an die Stadt Zürich erfolgt bequem über die Autobahn A3 oder die S-Bahn, was Wollerau zum idealen Standort für Pendler macht, die Ruhe und Exklusivität suchen. Zahlreiche Naturschutzgebiete und Wanderwege in der nahen Umgebung laden zur Erholung ein.", "hu": "Wollerau a Zürichi-tó feletti teraszon fekszik Schwyz kanton Höfe kerületében. A település nemzetközileg is nevet szerzett magának, mint a világ egyik legkeresettebb lakóhelye, ami elsősorban a magas életminőség, a diszkrét légkör és a rendkívül vonzó adózási feltételek kombinációjának köszönhető. A földrajzi fekvés látványos kilátást nyújt a tómedencére és a háttérben húzódó Glarner Alpokra. A település képét luxusvillák és modern apartmanházak határozzák meg, amelyek harmonikusan illeszkednek a szelíd dombokba. Történelmileg Wollerau hosszú ideig mezőgazdasági falu volt, amelynek felemelkedése csak a 20. század második felében kezdődött a zürichi pénzügyi központ közelsége révén. Az infrastruktúra az igényes ügyfélkörhöz igazodik, de a családok számára is kiváló iskolákat és szabadidős létesítményeket kínál. Zürich városa kényelmesen elérhető az A3-as autópályán vagy az S-Bahn-on keresztül, ami Wolleraut ideális hellyé teszi a nyugalmat és exkluzivitást kereső ingázók számára. A közeli természetvédelmi területek és túraútvonalak kikapcsolódásra hívogatnak.", "ro": "Wollerau este situat pe o terasă deasupra Lacului Zürich, în districtul Höfe din cantonul Schwyz. Comuna și-a creat un renume internațional ca fiind unul dintre cele mai râvnite locuri de reședință din lume, fapt datorat în principal combinației de calitate ridicată a vieții, atmosferă discretă și condiții fiscale extrem de atractive. Geografia oferă vederi spectaculoase asupra lacului și a Alpilor Glarus în fundal. Aspectul localității este marcat de vile luxoase și blocuri de apartamente moderne, integrate armonios în dealurile blânde. Din punct de vedere istoric, Wollerau a fost mult timp un sat agricol, a cărui ascensiune a început abia în a doua jumătate a secolului al XX-lea datorită proximității față de centrul financiar Zürich. Infrastructura este orientată către o clientelă exigentă, dar oferă și școli și facilități de agrement excelente pentru familii. Conexiunea cu orașul Zürich se face convenabil prin autostrada A3 sau prin S-Bahn, ceea ce face din Wollerau locația ideală pentru navetiștii care caută liniște și exclusivitate. Numeroasele rezervații naturale și trasee de drumeție din imediata apropiere invită la relaxare.", "en": "Wollerau is located on a terrace above Lake Zurich in the district of Höfe in the Canton of Schwyz. The municipality has gained international fame as one of the most sought-after residential locations in the world, primarily due to the combination of high quality of life, a discreet atmosphere, and extremely attractive tax conditions. The geography offers spectacular views of the lake basin and the Glarus Alps in the background. The townscape is dominated by luxurious villas and modern apartment buildings harmoniously embedded into the rolling hills. Historically, Wollerau was an agricultural village for a long time, and its rise only began in the second half of the 20th century with its proximity to the financial center of Zurich. The infrastructure is tailored to a sophisticated clientele but also provides excellent schools and leisure facilities for families. Connection to the city of Zurich is convenient via the A3 motorway or the S-Bahn, making Wollerau an ideal location for commuters seeking peace and exclusivity. Numerous nature reserves and hiking trails in the vicinity invite relaxation."}, "factsAdvanced": {"de": ["Wollerau liegt auf einer Höhe von 514 Metern über Meer.", "Der Bahnhof Wollerau liegt an der Linie der Südostbahn (SOB).", "Die Gemeinde grenzt direkt an den Kanton Zürich.", "Tennisstar Roger Federer gehörte zeitweise zu den prominenten Bewohnern.", "Das Steueraufkommen pro Kopf gehört zu den höchsten der Schweiz.", "Wollerau bildet zusammen mit Pfäffikon SZ und Freienbach das Zentrum der Region Höfe."], "hu": ["Wollerau 514 méteres tengerszint feletti magasságban fekszik.", "A wolleraui vasútállomás a Südostbahn (SOB) vonalán található.", "A település közvetlenül határos Zürich kantonnal.", "Roger Federer teniszsztár egy időben a híres lakók közé tartozott.", "Az egy főre jutó adóbevétel Svájcban a legmagasabbak közé tartozik.", "Wollerau Pfäffikon SZ-szel és Freienbachhal együtt alkotja a Höfe régió központját."], "ro": ["Wollerau este situat la o altitudine de 514 metri deasupra mării.", "Gara Wollerau se află pe linia Südostbahn (SOB).", "Comuna se învecinează direct cu cantonul Zürich.", "Starul tenisului Roger Federer s-a numărat printre locuitorii proeminenți.", "Veniturile fiscale pe cap de locuitor sunt printre cele mai mari din Elveția.", "Wollerau formează, împreună cu Pfäffikon SZ și Freienbach, centrul regiunii Höfe."], "en": ["Wollerau is situated at an elevation of 514 meters above sea level.", "Wollerau railway station is on the Südostbahn (SOB) line.", "The municipality borders directly on the Canton of Zurich.", "Tennis star Roger Federer was once among the prominent residents.", "The tax revenue per capita is among the highest in Switzerland.", "Wollerau, together with Pfäffikon SZ and Freienbach, forms the center of the Höfe region."]}, "faq": {"de": [{"q": "Warum ist Wollerau als Wohnort so beliebt?", "a": "Wegen der extrem niedrigen Steuern, der Seesicht und der Nähe zur Stadt Zürich."}, {"q": "Welche Prominenten leben in Wollerau?", "a": "Es leben dort viele Sportler, Unternehmer und internationale Stars, die Diskretion schätzen."}, {"q": "Wie weit ist es von Wollerau nach Zürich?", "a": "Mit dem Auto oder der Bahn erreicht man das Zentrum von Zürich in etwa 20 bis 30 Minuten."}, {"q": "Kann man in Wollerau am See baden?", "a": "Wollerau selbst liegt am Hang, aber die Nachbargemeinden am Ufer bieten Strandbäder und Seezugang."}], "hu": [{"q": "Miért olyan népszerű lakóhely Wollerau?", "a": "A rendkívül alacsony adók, a tavi kilátás és Zürich városának közelsége miatt."}, {"q": "Milyen hírességek élnek Wollerau-ban?", "a": "Sok sportoló, vállalkozó és nemzetközi sztár él itt, akik nagyra értékelik a diszkréciót."}, {"q": "Milyen messze van Wollerau Zürichtől?", "a": "Autóval vagy vonattal körülbelül 20-30 perc alatt elérhető Zürich központja."}, {"q": "Lehet fürödni a tóban Wollerau-ban?", "a": "Wollerau maga a hegyoldalban fekszik, de a szomszédos tóparti települések strandokat és tóparti hozzáférést kínálnak."}], "ro": [{"q": "De ce este Wollerau atât de popular ca loc de reședință?", "a": "Datorită impozitelor extrem de mici, vederii la lac și proximității față de orașul Zürich."}, {"q": "Ce personalități locuiesc în Wollerau?", "a": "Acolo locuiesc mulți sportivi, antreprenori și vedete internaționale care apreciază discreția."}, {"q": "Cât de departe este Wollerau de Zürich?", "a": "Cu mașina sau trenul se ajunge în centrul orașului Zürich în aproximativ 20 până la 30 de minute."}, {"q": "Se poate face baie în lac la Wollerau?", "a": "Wollerau însuși se află pe deal, dar comunele vecine de pe mal oferă ștranduri și acces la lac."}], "en": [{"q": "Why is Wollerau so popular as a place to live?", "a": "Because of the extremely low taxes, the lake view, and the proximity to the city of Zurich."}, {"q": "Which celebrities live in Wollerau?", "a": "Many athletes, entrepreneurs, and international stars who value discretion live there."}, {"q": "How far is it from Wollerau to Zurich?", "a": "By car or train, you can reach the center of Zurich in about 20 to 30 minutes."}, {"q": "Can you swim in the lake in Wollerau?", "a": "Wollerau itself is on a slope, but the neighboring lakeshore municipalities offer beaches and lake access."}]}},
+  {"id": "ch-wollerau", "sights": {
+      "de": [
+            {
+                  "name": "Sternenschanze",
+                  "text": "Eine historische Befestigungsanlage in der Gemeinde Wollerau.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "Ein Museum, das sich der lokalen Geschichte von Wollerau widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Peter Marvey's Magic-House",
+                  "text": "Ein Theater und Veranstaltungsort des bekannten Magiers Peter Marvey.",
+                  "category": "cultural",
+                  "coords": [
+                        8.736247,
+                        47.188939
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Ein Museum, das historische Feuerwehrgeräte und -fahrzeuge ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "Ein Museum in einer historischen Säge, das altes Handwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "Ein Aussichtspunkt in Wollerau, der Gottfried Keller gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "Der Naturpunkt Becki liegt im schweizerischen Wollerau und bietet eine schöne Umgebung für Ausflüge. Als markanter Aussichtspunkt ermöglicht er Besuchern einen weitläufigen Blick über die gesamte Region Wollerau. Naturfreunde nutzen diesen Platz gerne, um die Umgebung von oben zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "Ein markanter Springbrunnen in der Gemeinde Richterswil bei Wollerau.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "Ein lokaler Wasserfall, der ein beliebtes Ziel für Naturfreunde ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "Ein bedeutendes reformiertes Kirchengebäude im Zentrum von Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "Die römisch-katholische Pfarrkirche der Gemeinde Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "St.-Anna-Kirche",
+                  "text": "Eine denkmalgeschützte barocke Kirche im Ortsteil Schindellegi.",
+                  "category": "religious",
+                  "coords": [
+                        8.712957,
+                        47.174313
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "Die katholische Pfarrkirche St. Verena prägt das Dorfbild von Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "Das Gotteshaus der evangelisch-reformierten Kirchgemeinde in Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "St. Jakobus",
+                  "text": "Eine markante katholische Kirche in der Gemeinde Feusisberg.",
+                  "category": "religious",
+                  "coords": [
+                        8.74764,
+                        47.187601
+                  ]
+            },
+            {
+                  "name": "Kapelle Drei Eidgenossen",
+                  "text": "Eine kleine Kapelle, die an die Gründung der Eidgenossenschaft erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        8.756534,
+                        47.195189
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "Ein religiöses Gebäude, das den Heiligen Konrad und Ulrich gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "Der Seeweidsee in Wollerau ist ein ruhiger See, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "Der Spielplatz Horn in Wollerau bietet verschiedene Spielgeräte für Kinder in einer attraktiven Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Der Spielplatz Mettlen in Wollerau ist ein beliebter Treffpunkt für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "Die Robi-Anlage in Wollerau ist ein abwechslungsreicher Spielplatz, der viel Platz zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "Erlenmoos in Wollerau ist ein Spielplatz, der Kindern vielfältige Spiel- und Bewegungsmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "Die Minigolfanlage Erlenmoos in Wollerau bietet Freizeitvergnügen für Familien in schöner Lage.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "Dieses Schwimmbad in Wollerau bietet Zugang zum Zürichsee für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Das Hallenbad ist ein Hallenbad in Wollerau, ideal für die Freizeitgestaltung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.754778,
+                        47.203615
+                  ]
+            },
+            {
+                  "name": "Badeanstalt Freienbach",
+                  "text": "Die Badeanstalt Freienbach ist ein öffentliches Bad in Wollerau, das sich für einen Familienbesuch eignet.",
+                  "category": "family",
+                  "coords": [
+                        8.757835,
+                        47.207666
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "Das Seebad Hüttenersee ist ein Badebereich in Wollerau, der schöne Aussichten und Entspannung bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "Ein Sportzentrum am Seeufer bei Wollerau.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sternenschanze",
+                  "text": "Történelmi erődítmény Wollerau községben.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "Wollerau helytörténetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Peter Marvey's Magic-House",
+                  "text": "Peter Marvey híres bűvész színháza és rendezvényhelyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        8.736247,
+                        47.188939
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Történelmi tűzoltóeszközöket és járműveket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "Egy történelmi fűrészüzemben működő múzeum, amely régi mesterségeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "Gottfried Kellernek szentelt kilátópont Wollerau területén.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "A Becki nevű természeti pont a svájci Wollerauban található, és gyönyörű környezetet kínál kirándulásokhoz. Kiemelkedő kilátóként tágas kilátást nyújt a látogatóknak az egész Wollerau régióra. A természetbarátok szívesen használják ezt a helyet, hogy felülről csodálják meg a környéket.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "Jellegzetes szökőkút Richterswil községben, Wollerau közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "Helyi vízesés, amely a természetbarátok kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "Jelentős református templomépület Richterswil központjában.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "Richterswil község római katolikus plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "St.-Anna-Kirche",
+                  "text": "Műemlékvédelem alatt álló barokk templom Schindellegi településrészen.",
+                  "category": "religious",
+                  "coords": [
+                        8.712957,
+                        47.174313
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "A Szent Veréna katolikus plébániatemplom meghatározza Wollerau faluképét.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "Az evangélikus-református egyházközség temploma Wollerau-ban.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "St. Jakobus",
+                  "text": "Jellegzetes katolikus templom Feusisberg községben.",
+                  "category": "religious",
+                  "coords": [
+                        8.74764,
+                        47.187601
+                  ]
+            },
+            {
+                  "name": "Kapelle Drei Eidgenossen",
+                  "text": "Kicsiny kápolna, amely a Svájci Konföderáció alapítására emlékeztet.",
+                  "category": "religious",
+                  "coords": [
+                        8.756534,
+                        47.195189
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "Szent Konrádnak és Ulriknak szentelt vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "A Wollerau településen található Seeweidsee egy csendes tó, amely kiválóan alkalmas természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "A Wollerau területén fekvő Spielplatz Horn különféle játéklehetőségeket kínál a gyerekeknek szép környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "A Wollerau településen található Spielplatz Mettlen a családok és gyerekek kedvelt találkozóhelye a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "A Wollerau-i Robi-Anlage egy változatos játszótér, amely sok helyet biztosít a gyerekeknek a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "A Wollerau területén található Erlenmoos játszótér változatos játék- és mozgáslehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "A Wollerau településen lévő Erlenmoos minigolfpálya szabadidős szórakozást nyújt a családoknak szép helyszínen.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "Ez a wolleraui úszómedence hozzáférést biztosít a Zürichi-tóhoz a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "A Hallenbad egy fedett úszómedence Wollerauban, amely tökéletes a családi szabadidő eltöltésére.",
+                  "category": "family",
+                  "coords": [
+                        8.754778,
+                        47.203615
+                  ]
+            },
+            {
+                  "name": "Badeanstalt Freienbach",
+                  "text": "A Badeanstalt Freienbach egy nyilvános fürdő Wollerauban, amely alkalmas családi látogatásra.",
+                  "category": "family",
+                  "coords": [
+                        8.757835,
+                        47.207666
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "A Seebad Hüttenersee egy fürdőhely Wollerauban, amely szép kilátást és kikapcsolódást kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "Tóparti sportközpont Wollerau közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sternenschanze",
+                  "text": "O fortificație istorică în comuna Wollerau.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "Un muzeu dedicat istoriei locale a localității Wollerau.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Peter Marvey's Magic-House",
+                  "text": "Un teatru și spațiu de evenimente al cunoscutului magician Peter Marvey.",
+                  "category": "cultural",
+                  "coords": [
+                        8.736247,
+                        47.188939
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Un muzeu care expune echipamente și vehicule istorice de pompieri.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "Un muzeu situat într-un gater istoric, care prezintă meșteșuguri vechi.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "Un punct de observare în Wollerau dedicat lui Gottfried Keller.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "Punctul natural Becki este situat în Wollerau, Elveția, oferind un mediu frumos pentru excursii. Ca un punct de belvedere proeminent, permite vizitatorilor o vedere amplă asupra întregii regiuni Wollerau. Iubitorii de natură folosesc cu plăcere acest loc pentru a admira împrejurimile de sus.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "O fântână arteziană distinctivă în comuna Richterswil, lângă Wollerau.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "O cascadă locală, care este o destinație populară pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "O clădire bisericească reformată importantă în centrul orașului Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "Biserica parohială romano-catolică a comunei Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "St.-Anna-Kirche",
+                  "text": "O biserică barocă protejată ca monument în districtul Schindellegi.",
+                  "category": "religious",
+                  "coords": [
+                        8.712957,
+                        47.174313
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "Biserica parohială catolică Sfânta Verena definește peisajul satului Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "Lăcașul de cult al parohiei evanghelice-reformate din Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "St. Jakobus",
+                  "text": "O biserică catolică proeminentă în comuna Feusisberg.",
+                  "category": "religious",
+                  "coords": [
+                        8.74764,
+                        47.187601
+                  ]
+            },
+            {
+                  "name": "Kapelle Drei Eidgenossen",
+                  "text": "O mică chapelă care amintește de fondarea Confederației.",
+                  "category": "religious",
+                  "coords": [
+                        8.756534,
+                        47.195189
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "O clădire religioasă dedicată Sfinților Conrad și Ulrich.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "Lacul Seeweidsee din Wollerau este un lac liniștit, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "Locul de joacă Horn din Wollerau oferă diverse echipamente de joacă pentru copii într-un cadru atractiv.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "Locul de joacă Mettlen din Wollerau este un punct de întâlnire popular pentru familiile cu copii pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "Robi-Anlage din Wollerau este un loc de joacă variat, care oferă mult spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "Erlenmoos din Wollerau este un loc de joacă ce oferă copiilor diverse oportunități de joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "Terenul de minigolf Erlenmoos din Wollerau oferă divertisment pentru familii într-o locație frumoasă.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "Această piscină din Wollerau oferă acces la Lacul Zürich pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Hallenbad este o piscină acoperită din Wollerau, perfectă pentru petrecerea timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.754778,
+                        47.203615
+                  ]
+            },
+            {
+                  "name": "Badeanstalt Freienbach",
+                  "text": "Badeanstalt Freienbach este o baie publică din Wollerau, potrivită pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.757835,
+                        47.207666
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "Seebad Hüttenersee este o zonă de înot din Wollerau care oferă vederi pitorești și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "Un centru sportiv situat pe malul lacului lângă Wollerau.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sternenschanze",
+                  "text": "A historical fortification in the municipality of Wollerau.",
+                  "category": "fortress",
+                  "coords": [
+                        8.691882,
+                        47.196746
+                  ]
+            },
+            {
+                  "name": "Heimatkundliche Sammlung",
+                  "text": "A museum dedicated to the local history of Wollerau.",
+                  "category": "museum",
+                  "coords": [
+                        8.704393,
+                        47.20716
+                  ]
+            },
+            {
+                  "name": "Peter Marvey's Magic-House",
+                  "text": "A theatre and event venue of the famous magician Peter Marvey.",
+                  "category": "cultural",
+                  "coords": [
+                        8.736247,
+                        47.188939
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "A museum exhibiting historical firefighting equipment and vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        8.720839,
+                        47.196295
+                  ]
+            },
+            {
+                  "name": "Museum \"Alte Sagi\"",
+                  "text": "A museum in a historical sawmill showing old crafts.",
+                  "category": "museum",
+                  "coords": [
+                        8.682717,
+                        47.197047
+                  ]
+            },
+            {
+                  "name": "Gottfried-Keller-Plätzli",
+                  "text": "A viewpoint in Wollerau dedicated to Gottfried Keller.",
+                  "category": "natural",
+                  "coords": [
+                        8.694566,
+                        47.209666
+                  ]
+            },
+            {
+                  "name": "Becki",
+                  "text": "The natural spot Becki is located in Wollerau, Switzerland, offering a beautiful environment for excursions. As a prominent viewpoint, it allows visitors an extensive view over the entire Wollerau region. Nature lovers enjoy using this spot to admire the surroundings from above.",
+                  "category": "natural",
+                  "coords": [
+                        8.71207,
+                        47.192789
+                  ]
+            },
+            {
+                  "name": "Richterswiler Springbrunnen",
+                  "text": "A distinctive fountain in the municipality of Richterswil near Wollerau.",
+                  "category": "landmark",
+                  "coords": [
+                        8.711783,
+                        47.205575
+                  ]
+            },
+            {
+                  "name": "Wasserfall",
+                  "text": "A local waterfall that is a popular destination for nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.715837,
+                        47.190148
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Richterswil",
+                  "text": "A significant reformed church building in the center of Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.700855,
+                        47.208188
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Richterswil",
+                  "text": "The Roman Catholic parish church of the municipality of Richterswil.",
+                  "category": "religious",
+                  "coords": [
+                        8.701371,
+                        47.211816
+                  ]
+            },
+            {
+                  "name": "St.-Anna-Kirche",
+                  "text": "A heritage-protected Baroque church in the district of Schindellegi.",
+                  "category": "religious",
+                  "coords": [
+                        8.712957,
+                        47.174313
+                  ]
+            },
+            {
+                  "name": "St. Verena",
+                  "text": "The Catholic parish church of St. Verena shapes the village landscape of Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.719036,
+                        47.195935
+                  ]
+            },
+            {
+                  "name": "Evang.-ref. Kirche Wollerau",
+                  "text": "The place of worship of the Evangelical Reformed parish in Wollerau.",
+                  "category": "religious",
+                  "coords": [
+                        8.727649,
+                        47.19551
+                  ]
+            },
+            {
+                  "name": "St. Jakobus",
+                  "text": "A prominent Catholic church in the municipality of Feusisberg.",
+                  "category": "religious",
+                  "coords": [
+                        8.74764,
+                        47.187601
+                  ]
+            },
+            {
+                  "name": "Kapelle Drei Eidgenossen",
+                  "text": "A small chapel commemorating the founding of the Confederation.",
+                  "category": "religious",
+                  "coords": [
+                        8.756534,
+                        47.195189
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Konrad und Ulrich",
+                  "text": "A religious building dedicated to Saints Conrad and Ulrich.",
+                  "category": "religious",
+                  "coords": [
+                        8.734762,
+                        47.196933
+                  ]
+            },
+            {
+                  "name": "Seeweidsee",
+                  "text": "The Seeweidsee in Wollerau is a quiet lake well-suited for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.746025,
+                        47.256889
+                  ]
+            },
+            {
+                  "name": "Spielplatz Horn",
+                  "text": "The Spielplatz Horn playground in Wollerau offers various play equipment for children in an attractive setting.",
+                  "category": "family",
+                  "coords": [
+                        8.705788,
+                        47.211086
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mettlen",
+                  "text": "The Spielplatz Mettlen playground in Wollerau is a popular meeting point for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        8.703711,
+                        47.206035
+                  ]
+            },
+            {
+                  "name": "Robi-Anlage",
+                  "text": "The Robi-Anlage in Wollerau is a varied playground offering plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        8.734557,
+                        47.198028
+                  ]
+            },
+            {
+                  "name": "Erlenmoos",
+                  "text": "Erlenmoos in Wollerau is a playground providing children with diverse opportunities for play and movement.",
+                  "category": "family",
+                  "coords": [
+                        8.704927,
+                        47.18843
+                  ]
+            },
+            {
+                  "name": "Minigolf Erlenmoos",
+                  "text": "The Minigolf Erlenmoos in Wollerau offers leisure fun for families in a beautiful location.",
+                  "category": "family",
+                  "coords": [
+                        8.703805,
+                        47.188337
+                  ]
+            },
+            {
+                  "name": "Zugang zu Zürichsee",
+                  "text": "This swimming pool in Wollerau provides access to Lake Zurich for family fun.",
+                  "category": "family",
+                  "coords": [
+                        8.730406,
+                        47.20288
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Hallenbad is an indoor swimming pool in Wollerau, perfect for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        8.754778,
+                        47.203615
+                  ]
+            },
+            {
+                  "name": "Badeanstalt Freienbach",
+                  "text": "Badeanstalt Freienbach is a public bath in Wollerau suitable for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        8.757835,
+                        47.207666
+                  ]
+            },
+            {
+                  "name": "Seebad Hüttenersee",
+                  "text": "Seebad Hüttenersee is a swimming area in Wollerau offering scenic views and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.67747,
+                        47.184675
+                  ]
+            },
+            {
+                  "name": "Seebad Richterswil",
+                  "text": "A sports centre located on the lakeside near Wollerau.",
+                  "category": "recreational",
+                  "coords": [
+                        8.711519,
+                        47.206486
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "CH-SZ", "coords": [8.7202, 47.1936], "population": 8260, "image": "/geo-images/switzerland/ch-wollerau.webp", "name": {"de": "Wollerau", "hu": "Wollerau", "ro": "Wollerau", "en": "Wollerau"}, "description": {"de": "Wollerau ist eine exklusive Wohngemeinde im Kanton Schwyz, bekannt für ihre attraktive Lage am Zürichsee und tiefe Steuersätze.", "hu": "Wollerau egy exkluzív lakóhely Schwyz kantonban, amely a Zürichi-tó melletti vonzó fekvéséről és alacsony adókulcsairól ismert.", "ro": "Wollerau este o comună rezidențială exclusivistă din cantonul Schwyz, cunoscută pentru locația atractivă pe Lacul Zürich și impozitele mici.", "en": "Wollerau is an exclusive residential municipality in the Canton of Schwyz, known for its attractive location on Lake Zurich and low tax rates."}, "facts": {"de": ["Gehört zum Bezirk Höfe", "Wohnort zahlreicher prominenter Persönlichkeiten", "Panoramablick über den Zürichsee bis in die Alpen", "Eine der steuergünstigsten Gemeinden der Schweiz"], "hu": ["A Höfe kerülethez tartozik", "Számos híres személyiség lakóhelye", "Panorámás kilátás a Zürichi-tóra és az Alpokra", "Svájc egyik legalacsonyabb adózású települése"], "ro": ["Aparține districtului Höfe", "Loc de reședință pentru numeroase personalități proeminente", "Vedere panoramică peste Lacul Zürich până la Alpi", "Una dintre comunele cu cele mai mici impozite din Elveția"], "en": ["Belongs to the district of Höfe", "Home to numerous prominent personalities", "Panoramic view over Lake Zurich to the Alps", "One of the most tax-advantageous municipalities in Switzerland"]}, "descriptionAdvanced": {"de": "Wollerau liegt auf einer Terrasse über dem Zürichsee im Bezirk Höfe des Kantons Schwyz. Die Gemeinde hat sich international einen Namen als einer der begehrtesten Wohnorte der Welt gemacht, was vor allem auf die Kombination aus hoher Lebensqualität, diskreter Atmosphäre und äusserst attraktiven steuerlichen Bedingungen zurückzuführen ist. Die Geografie bietet spektakuläre Ausblicke auf das Seebecken und die Glarner Alpen im Hintergrund. Das Ortsbild ist geprägt von luxuriösen Villen und modernen Apartmenthäusern, die harmonisch in die sanften Hügel eingebettet sind. Historisch gesehen war Wollerau lange Zeit ein Agrardorf, dessen Aufstieg erst in der zweiten Hälfte des 20. Jahrhunderts mit der Nähe zum Finanzplatz Zürich begann. Die Infrastruktur ist auf eine anspruchsvolle Klientel ausgerichtet, bietet aber auch für Familien hervorragende Schulen und Freizeiteinrichtungen. Die Anbindung an die Stadt Zürich erfolgt bequem über die Autobahn A3 oder die S-Bahn, was Wollerau zum idealen Standort für Pendler macht, die Ruhe und Exklusivität suchen. Zahlreiche Naturschutzgebiete und Wanderwege in der nahen Umgebung laden zur Erholung ein.", "hu": "Wollerau a Zürichi-tó feletti teraszon fekszik Schwyz kanton Höfe kerületében. A település nemzetközileg is nevet szerzett magának, mint a világ egyik legkeresettebb lakóhelye, ami elsősorban a magas életminőség, a diszkrét légkör és a rendkívül vonzó adózási feltételek kombinációjának köszönhető. A földrajzi fekvés látványos kilátást nyújt a tómedencére és a háttérben húzódó Glarner Alpokra. A település képét luxusvillák és modern apartmanházak határozzák meg, amelyek harmonikusan illeszkednek a szelíd dombokba. Történelmileg Wollerau hosszú ideig mezőgazdasági falu volt, amelynek felemelkedése csak a 20. század második felében kezdődött a zürichi pénzügyi központ közelsége révén. Az infrastruktúra az igényes ügyfélkörhöz igazodik, de a családok számára is kiváló iskolákat és szabadidős létesítményeket kínál. Zürich városa kényelmesen elérhető az A3-as autópályán vagy az S-Bahn-on keresztül, ami Wolleraut ideális hellyé teszi a nyugalmat és exkluzivitást kereső ingázók számára. A közeli természetvédelmi területek és túraútvonalak kikapcsolódásra hívogatnak.", "ro": "Wollerau este situat pe o terasă deasupra Lacului Zürich, în districtul Höfe din cantonul Schwyz. Comuna și-a creat un renume internațional ca fiind unul dintre cele mai râvnite locuri de reședință din lume, fapt datorat în principal combinației de calitate ridicată a vieții, atmosferă discretă și condiții fiscale extrem de atractive. Geografia oferă vederi spectaculoase asupra lacului și a Alpilor Glarus în fundal. Aspectul localității este marcat de vile luxoase și blocuri de apartamente moderne, integrate armonios în dealurile blânde. Din punct de vedere istoric, Wollerau a fost mult timp un sat agricol, a cărui ascensiune a început abia în a doua jumătate a secolului al XX-lea datorită proximității față de centrul financiar Zürich. Infrastructura este orientată către o clientelă exigentă, dar oferă și școli și facilități de agrement excelente pentru familii. Conexiunea cu orașul Zürich se face convenabil prin autostrada A3 sau prin S-Bahn, ceea ce face din Wollerau locația ideală pentru navetiștii care caută liniște și exclusivitate. Numeroasele rezervații naturale și trasee de drumeție din imediata apropiere invită la relaxare.", "en": "Wollerau is located on a terrace above Lake Zurich in the district of Höfe in the Canton of Schwyz. The municipality has gained international fame as one of the most sought-after residential locations in the world, primarily due to the combination of high quality of life, a discreet atmosphere, and extremely attractive tax conditions. The geography offers spectacular views of the lake basin and the Glarus Alps in the background. The townscape is dominated by luxurious villas and modern apartment buildings harmoniously embedded into the rolling hills. Historically, Wollerau was an agricultural village for a long time, and its rise only began in the second half of the 20th century with its proximity to the financial center of Zurich. The infrastructure is tailored to a sophisticated clientele but also provides excellent schools and leisure facilities for families. Connection to the city of Zurich is convenient via the A3 motorway or the S-Bahn, making Wollerau an ideal location for commuters seeking peace and exclusivity. Numerous nature reserves and hiking trails in the vicinity invite relaxation."}, "factsAdvanced": {"de": ["Wollerau liegt auf einer Höhe von 514 Metern über Meer.", "Der Bahnhof Wollerau liegt an der Linie der Südostbahn (SOB).", "Die Gemeinde grenzt direkt an den Kanton Zürich.", "Tennisstar Roger Federer gehörte zeitweise zu den prominenten Bewohnern.", "Das Steueraufkommen pro Kopf gehört zu den höchsten der Schweiz.", "Wollerau bildet zusammen mit Pfäffikon SZ und Freienbach das Zentrum der Region Höfe."], "hu": ["Wollerau 514 méteres tengerszint feletti magasságban fekszik.", "A wolleraui vasútállomás a Südostbahn (SOB) vonalán található.", "A település közvetlenül határos Zürich kantonnal.", "Roger Federer teniszsztár egy időben a híres lakók közé tartozott.", "Az egy főre jutó adóbevétel Svájcban a legmagasabbak közé tartozik.", "Wollerau Pfäffikon SZ-szel és Freienbachhal együtt alkotja a Höfe régió központját."], "ro": ["Wollerau este situat la o altitudine de 514 metri deasupra mării.", "Gara Wollerau se află pe linia Südostbahn (SOB).", "Comuna se învecinează direct cu cantonul Zürich.", "Starul tenisului Roger Federer s-a numărat printre locuitorii proeminenți.", "Veniturile fiscale pe cap de locuitor sunt printre cele mai mari din Elveția.", "Wollerau formează, împreună cu Pfäffikon SZ și Freienbach, centrul regiunii Höfe."], "en": ["Wollerau is situated at an elevation of 514 meters above sea level.", "Wollerau railway station is on the Südostbahn (SOB) line.", "The municipality borders directly on the Canton of Zurich.", "Tennis star Roger Federer was once among the prominent residents.", "The tax revenue per capita is among the highest in Switzerland.", "Wollerau, together with Pfäffikon SZ and Freienbach, forms the center of the Höfe region."]}, "faq": {"de": [{"q": "Warum ist Wollerau als Wohnort so beliebt?", "a": "Wegen der extrem niedrigen Steuern, der Seesicht und der Nähe zur Stadt Zürich."}, {"q": "Welche Prominenten leben in Wollerau?", "a": "Es leben dort viele Sportler, Unternehmer und internationale Stars, die Diskretion schätzen."}, {"q": "Wie weit ist es von Wollerau nach Zürich?", "a": "Mit dem Auto oder der Bahn erreicht man das Zentrum von Zürich in etwa 20 bis 30 Minuten."}, {"q": "Kann man in Wollerau am See baden?", "a": "Wollerau selbst liegt am Hang, aber die Nachbargemeinden am Ufer bieten Strandbäder und Seezugang."}], "hu": [{"q": "Miért olyan népszerű lakóhely Wollerau?", "a": "A rendkívül alacsony adók, a tavi kilátás és Zürich városának közelsége miatt."}, {"q": "Milyen hírességek élnek Wollerau-ban?", "a": "Sok sportoló, vállalkozó és nemzetközi sztár él itt, akik nagyra értékelik a diszkréciót."}, {"q": "Milyen messze van Wollerau Zürichtől?", "a": "Autóval vagy vonattal körülbelül 20-30 perc alatt elérhető Zürich központja."}, {"q": "Lehet fürödni a tóban Wollerau-ban?", "a": "Wollerau maga a hegyoldalban fekszik, de a szomszédos tóparti települések strandokat és tóparti hozzáférést kínálnak."}], "ro": [{"q": "De ce este Wollerau atât de popular ca loc de reședință?", "a": "Datorită impozitelor extrem de mici, vederii la lac și proximității față de orașul Zürich."}, {"q": "Ce personalități locuiesc în Wollerau?", "a": "Acolo locuiesc mulți sportivi, antreprenori și vedete internaționale care apreciază discreția."}, {"q": "Cât de departe este Wollerau de Zürich?", "a": "Cu mașina sau trenul se ajunge în centrul orașului Zürich în aproximativ 20 până la 30 de minute."}, {"q": "Se poate face baie în lac la Wollerau?", "a": "Wollerau însuși se află pe deal, dar comunele vecine de pe mal oferă ștranduri și acces la lac."}], "en": [{"q": "Why is Wollerau so popular as a place to live?", "a": "Because of the extremely low taxes, the lake view, and the proximity to the city of Zurich."}, {"q": "Which celebrities live in Wollerau?", "a": "Many athletes, entrepreneurs, and international stars who value discretion live there."}, {"q": "How far is it from Wollerau to Zurich?", "a": "By car or train, you can reach the center of Zurich in about 20 to 30 minutes."}, {"q": "Can you swim in the lake in Wollerau?", "a": "Wollerau itself is on a slope, but the neighboring lakeshore municipalities offer beaches and lake access."}]}},
   {"id": "ch-rothenburg", "sights": {
       "de": [
             {
@@ -159873,6 +167019,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         9.665357,
                         47.443908
                   ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "Ein Grenzüberschreitendes Strandbad mit Naturbadeteich und Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
+                  ]
             }
       ],
       "hu": [
@@ -160180,6 +167335,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         9.665357,
                         47.443908
+                  ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "Határmenti strand természetes fürdőtóval és úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
                   ]
             }
       ],
@@ -160489,6 +167653,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         9.665357,
                         47.443908
                   ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "Un ștrand transfrontalier cu iaz natural și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
+                  ]
             }
       ],
       "en": [
@@ -160796,6 +167969,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         9.665357,
                         47.443908
+                  ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "A cross-border beach resort featuring a natural bathing pond and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
                   ]
             }
       ]
@@ -162044,6 +169226,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         9.071847,
                         45.813202
                   ]
+            },
+            {
+                  "name": "Holmes Lido",
+                  "text": "Ein Strandbad in Chiasso, das Bademöglichkeiten und Entspannung im Freien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.078255,
+                        45.838626
+                  ]
             }
       ],
       "hu": [
@@ -162522,6 +169713,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         9.071847,
                         45.813202
+                  ]
+            },
+            {
+                  "name": "Holmes Lido",
+                  "text": "Strandfürdő Chiassóban, amely fürdőzési lehetőséget és szabadtéri kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.078255,
+                        45.838626
                   ]
             }
       ],
@@ -163002,6 +170202,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         9.071847,
                         45.813202
                   ]
+            },
+            {
+                  "name": "Holmes Lido",
+                  "text": "Un ștrand în Chiasso, care oferă facilități de baie și relaxare în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        9.078255,
+                        45.838626
+                  ]
             }
       ],
       "en": [
@@ -163480,6 +170689,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         9.071847,
                         45.813202
+                  ]
+            },
+            {
+                  "name": "Holmes Lido",
+                  "text": "A beach resort in Chiasso offering swimming facilities and outdoor relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        9.078255,
+                        45.838626
                   ]
             }
       ]

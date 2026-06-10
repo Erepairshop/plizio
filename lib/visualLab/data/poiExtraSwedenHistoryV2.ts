@@ -249,6 +249,15 @@ imageHint: "Läckö Castle on Lake Vänern",
                         17.183314,
                         59.248444
                   ]
+            },
+            {
+                  "name": "Mariefreds Strandbad",
+                  "text": "Ein öffentlicher Badeplatz am See nahe dem Schloss Gripsholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253957,
+                        59.262188
+                  ]
             }
       ],
       "hu": [
@@ -322,6 +331,15 @@ imageHint: "Läckö Castle on Lake Vänern",
                   "coords": [
                         17.183314,
                         59.248444
+                  ]
+            },
+            {
+                  "name": "Mariefreds Strandbad",
+                  "text": "Nyilvános tavi fürdőhely a Gripsholm-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253957,
+                        59.262188
                   ]
             }
       ],
@@ -397,6 +415,15 @@ imageHint: "Läckö Castle on Lake Vänern",
                         17.183314,
                         59.248444
                   ]
+            },
+            {
+                  "name": "Mariefreds Strandbad",
+                  "text": "Un loc public de scăldat pe malul lacului, lângă castelul Gripsholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253957,
+                        59.262188
+                  ]
             }
       ],
       "en": [
@@ -471,6 +498,15 @@ imageHint: "Läckö Castle on Lake Vänern",
                         17.183314,
                         59.248444
                   ]
+            },
+            {
+                  "name": "Mariefreds Strandbad",
+                  "text": "A public lakeside bathing spot near Gripsholm Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.253957,
+                        59.262188
+                  ]
             }
       ]
 },
@@ -519,7 +555,304 @@ imageHint: "Gripsholm Castle red brick walls",
     },
     image: "/poi-images/sweden-gripsholm-castle-history-v2.webp",
 },  {
-    id: "sweden-skokloster-castle-history-v2",
+    id: "sweden-skokloster-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skokloster",
+                  "text": "Ein Naturschutzgebiet in der Nähe der Schlossanlage Skokloster.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skoklosters slott",
+                  "text": "Ein prächtiges Barockschloss aus dem 17. Jahrhundert am See Mälaren.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Arnöhuvud",
+                  "text": "Ein geschütztes Naturgebiet am Ufer des Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        17.549991,
+                        59.726824
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "Ein Naturschutzgebiet mit vielfältiger lokaler Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Landholmarna och Landholmsängarna",
+                  "text": "Ein Naturschutzgebiet, das Inseln und Wiesen am See Mälaren umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        17.520147,
+                        59.717124
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "Eine weite Bucht des Schärenmeeres am See Mälaren.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta kyrkoruin",
+                  "text": "Die Ruinen einer mittelalterlichen Kirche aus dem 12. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skoklosters kyrka",
+                  "text": "Eine ehemalige Klosterkirche aus dem 13. Jahrhundert in der Nähe des Schlosses.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skokloster",
+                  "text": "Természetvédelmi terület a Skokloster-kastély közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skoklosters slott",
+                  "text": "Pompás 17. századi barokk kastély a Mälaren-tó partján.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Arnöhuvud",
+                  "text": "Védett természeti terület a Mälaren-tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        17.549991,
+                        59.726824
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "Természetvédelmi terület változatos helyi élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Landholmarna och Landholmsängarna",
+                  "text": "Szigeteket és réteket magában foglaló természetvédelmi terület a Mälaren-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        17.520147,
+                        59.717124
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "A Mälaren-tó egyik tágas öble a Skokloster-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta kyrkoruin",
+                  "text": "Egy 12. századi középkori templom maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skoklosters kyrka",
+                  "text": "13. századi egykori kolostortemplom a kastély közelében.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skokloster",
+                  "text": "O rezervație naturală în apropierea castelului Skokloster.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skoklosters slott",
+                  "text": "Un castel baroc magnific din secolul al XVII-lea pe malul lacului Mälaren.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Arnöhuvud",
+                  "text": "O zonă naturală protejată pe malul lacului Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        17.549991,
+                        59.726824
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "O rezervație naturală cu o floră și faună locală diversă.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Landholmarna och Landholmsängarna",
+                  "text": "O rezervație naturală care cuprinde insule și pajiști pe lacul Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        17.520147,
+                        59.717124
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "Un golf larg al lacului Mälaren în apropierea castelului Skokloster.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta kyrkoruin",
+                  "text": "Ruinele unei biserici medievale din secolul al XII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skoklosters kyrka",
+                  "text": "O fostă biserică mănăstirească din secolul al XIII-lea lângă castel.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skokloster",
+                  "text": "A nature reserve located near the Skokloster Castle area.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skokloster Castle",
+                  "text": "A magnificent 17th-century Baroque castle on the shores of Lake Mälaren.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Arnöhuvud",
+                  "text": "A protected nature area on the shores of Lake Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        17.549991,
+                        59.726824
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "A nature reserve featuring diverse local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Landholmarna och Landholmsängarna",
+                  "text": "A nature reserve encompassing islands and meadows on Lake Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        17.520147,
+                        59.717124
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "A wide bay of Lake Mälaren near the Skokloster Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta church ruins",
+                  "text": "The ruins of a medieval church dating back to the 12th century.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skokloster Church",
+                  "text": "A former monastery church from the 13th century located near the castle.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "castle",
     name: { de: "Schloss Skokloster", hu: "Skokloster kastély", ro: "Castelul Skokloster", en: "Skokloster Castle"},
@@ -2488,7 +2821,52 @@ imageHint: "Riddarholmen Church cast iron spire",
     },
     image: "/poi-images/sweden-riddarholmen-church-history-v2.webp",
 },  {
-    id: "sweden-varberg-fortress-history-v2",
+    id: "sweden-varberg-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barnens badstrand",
+                  "text": "Dieser Kinderstrand liegt direkt unterhalb der historischen Festung von Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241594,
+                        57.108452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barnens badstrand",
+                  "text": "Ez a gyermekstrand közvetlenül Varberg történelmi erődje alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241594,
+                        57.108452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barnens badstrand",
+                  "text": "Această plajă pentru copii este situată direct sub fortăreața istorică din Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241594,
+                        57.108452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barnens badstrand",
+                  "text": "This children's beach is located directly below the historic Varberg Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241594,
+                        57.108452
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "castle",
     name: { de: "Festung Varberg", hu: "Varberg erőd", ro: "Cetatea Varberg", en: "Varberg Fortress"},
@@ -3514,6 +3892,15 @@ imageHint: "Stockholm Royal Palace facade",
                         17.623911,
                         59.704575
                   ]
+            },
+            {
+                  "name": "Morga Hage",
+                  "text": "Ein öffentlicher Badeplatz am Ufer des Mälaren-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        17.636734,
+                        59.752928
+                  ]
             }
       ],
       "hu": [
@@ -3578,6 +3965,15 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.623911,
                         59.704575
+                  ]
+            },
+            {
+                  "name": "Morga Hage",
+                  "text": "Nyilvános fürdőhely a Mälaren-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        17.636734,
+                        59.752928
                   ]
             }
       ],
@@ -3644,6 +4040,15 @@ imageHint: "Stockholm Royal Palace facade",
                         17.623911,
                         59.704575
                   ]
+            },
+            {
+                  "name": "Morga Hage",
+                  "text": "O zonă publică de scăldat situată pe malul lacului Mälaren.",
+                  "category": "recreational",
+                  "coords": [
+                        17.636734,
+                        59.752928
+                  ]
             }
       ],
       "en": [
@@ -3708,6 +4113,15 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.623911,
                         59.704575
+                  ]
+            },
+            {
+                  "name": "Morga Hage",
+                  "text": "A public bathing area located on the shores of Lake Mälaren.",
+                  "category": "recreational",
+                  "coords": [
+                        17.636734,
+                        59.752928
                   ]
             }
       ]
@@ -3838,6 +4252,33 @@ imageHint: "Stockholm Royal Palace facade",
                         17.362679,
                         58.808911
                   ]
+            },
+            {
+                  "name": "Lilla badet",
+                  "text": "Ein öffentliches Bad beim Gut Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.410277,
+                        58.873372
+                  ]
+            },
+            {
+                  "name": "Minibadet",
+                  "text": "Ein Kinderbad beim Gut Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.412812,
+                        58.872413
+                  ]
+            },
+            {
+                  "name": "Stora badet",
+                  "text": "Ein großer Badeplatz beim Gut Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.41073,
+                        58.870779
+                  ]
             }
       ],
       "hu": [
@@ -3875,6 +4316,33 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.362679,
                         58.808911
+                  ]
+            },
+            {
+                  "name": "Lilla badet",
+                  "text": "Nyilvános fürdő a Nynäs-kúriánál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.410277,
+                        58.873372
+                  ]
+            },
+            {
+                  "name": "Minibadet",
+                  "text": "Gyermekfürdő a Nynäs-kúriánál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.412812,
+                        58.872413
+                  ]
+            },
+            {
+                  "name": "Stora badet",
+                  "text": "Nagy fürdőhely a Nynäs-kúriánál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.41073,
+                        58.870779
                   ]
             }
       ],
@@ -3914,6 +4382,33 @@ imageHint: "Stockholm Royal Palace facade",
                         17.362679,
                         58.808911
                   ]
+            },
+            {
+                  "name": "Lilla badet",
+                  "text": "O baie publică la Conacul Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.410277,
+                        58.873372
+                  ]
+            },
+            {
+                  "name": "Minibadet",
+                  "text": "O baie mică la Conacul Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.412812,
+                        58.872413
+                  ]
+            },
+            {
+                  "name": "Stora badet",
+                  "text": "O zonă mare de scăldat la Conacul Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.41073,
+                        58.870779
+                  ]
             }
       ],
       "en": [
@@ -3951,6 +4446,33 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.362679,
                         58.808911
+                  ]
+            },
+            {
+                  "name": "Lilla badet",
+                  "text": "A public bath at Nynäs Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        17.410277,
+                        58.873372
+                  ]
+            },
+            {
+                  "name": "Minibadet",
+                  "text": "A small swimming facility at Nynäs Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        17.412812,
+                        58.872413
+                  ]
+            },
+            {
+                  "name": "Stora badet",
+                  "text": "A large bathing area at Nynäs Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        17.41073,
+                        58.870779
                   ]
             }
       ]
@@ -6168,7 +6690,52 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-nora-town-history-v2.webp",
   },
   {
-    id: "sweden-varberg-church-history-v2",
+    id: "sweden-varberg-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kåsa",
+                  "text": "Ein kleiner Badebereich in der schwedischen Küstenstadt Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kåsa",
+                  "text": "Kicsi fürdőhely a svédországi Varberg parti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kåsa",
+                  "text": "O mică zonă de înot în orașul de coastă suedez Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kåsa",
+                  "text": "A small swimming area in the Swedish coastal town of Varberg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.241342,
+                        57.08969
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SE",
     name: { de: "Kirche Varberg", hu: "Varberg templom", ro: "Biserica Varberg", en: "Varberg Church" },
@@ -6258,7 +6825,52 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-trelleborg-museum-history-v2.webp",
   },
   {
-    id: "sweden-falkenberg-church-history-v2",
+    id: "sweden-falkenberg-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skrea Strand",
+                  "text": "Ein langer, beliebter Sandstrand in Falkenberg, bekannt für seine Dünen und das flache Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        12.503789,
+                        56.883255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skrea Strand",
+                  "text": "Hosszú, népszerű homokos tengerpart Falkenbergben, amely dűnéiről és sekély vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        12.503789,
+                        56.883255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skrea Strand",
+                  "text": "O plajă de nisip lungă și populară în Falkenberg, cunoscută pentru dunele sale și apa puțin adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.503789,
+                        56.883255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skrea Strand",
+                  "text": "A long, popular sandy beach in Falkenberg, known for its dunes and shallow water.",
+                  "category": "recreational",
+                  "coords": [
+                        12.503789,
+                        56.883255
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SE",
     name: { de: "St. Laurentius Kirche", hu: "Szent Lőrinc templom", ro: "Biserica Sfântul Laurențiu", en: "St. Laurentius Church" },

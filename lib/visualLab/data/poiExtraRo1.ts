@@ -7588,6 +7588,15 @@ export const poiExtraRo1: POI[] = [
                         23.875085,
                         47.142348
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Ein öffentliches Schwimmbad in Dej.",
+                  "category": "recreational",
+                  "coords": [
+                        23.869923,
+                        47.147738
+                  ]
             }
       ],
       "hu": [
@@ -7608,6 +7617,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.875085,
                         47.142348
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Nyilvános úszómedence Désen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.869923,
+                        47.147738
                   ]
             }
       ],
@@ -7630,6 +7648,15 @@ export const poiExtraRo1: POI[] = [
                         23.875085,
                         47.142348
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "O piscină publică în Dej.",
+                  "category": "recreational",
+                  "coords": [
+                        23.869923,
+                        47.147738
+                  ]
             }
       ],
       "en": [
@@ -7650,6 +7677,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.875085,
                         47.142348
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "A public swimming pool in Dej.",
+                  "category": "recreational",
+                  "coords": [
+                        23.869923,
+                        47.147738
                   ]
             }
       ]
@@ -8040,7 +8076,756 @@ export const poiExtraRo1: POI[] = [
       "en": ["A popular resort on the Black Sea.", "The ancient Greek colony of Callatis was located here.", "The city is known for its spa treatments with sapropelic mud.", "The Esmahan Sultan Mosque (1575) is the oldest in Romania.", "Mangalia has a shipyard and a naval base.", "The city's archaeological museum has important collections."]
     },
     image: "/poi-images/city-mangalia-extra.webp",
-    "sights": {"de": [{"name": "Archäologisches Museum Callatis", "text": "Beherbergt bedeutende Funde aus der antiken griechischen Kolonie, darunter seltene Papyrusfunde und Statuen.", "category": "museum", "confidence": "high", "coords": [28.58354, 43.815852]}, {"name": "Esmahan-Sultan-Moschee", "text": "Erbaut im Jahr 1573, ist sie die älteste Moschee Rumäniens und ein hervorragendes Beispiel osmanischer Architektur.", "category": "religious", "confidence": "high", "coords": [28.583056, 43.810278]}, {"name": "Yachthafen Mangalia", "text": "Ein moderner Touristenhafen am Schwarzen Meer, der Liegeplätze für Yachten bietet und von Cafés und Restaurants gesäumt ist.", "category": "recreational", "confidence": "high", "coords": [28.583324, 43.807836]}, {"name": "Gestüt Mangalia", "text": "Gegründet 1928, ist es das älteste Gestüt an der Küste und bekannt für die Zucht reinrassiger Araberpferde.", "category": "recreational", "confidence": "high", "coords": [28.583419, 43.817562]}, {"name": "Ruinen der Festung Callatis", "text": "Die Überreste der antiken griechischen Befestigungen, die Einblicke in die über 2000-jährige Geschichte der Stadt bieten.", "category": "fortress", "confidence": "high", "coords": [28.582881, 43.815291]}, {"name": "Plaja Corsa", "text": "An der lebendigen Schwarzmeerküste von Mangalia bietet dieser Strand eine wunderbare Kulisse für Sommertage. Der Sand lädt zum Bauen von Sandburgen ein, während das Rauschen des Meeres den passenden Soundtrack für die Erholung liefert. Für den besten Platz in der Sonne empfiehlt sich ein Besuch am Morgen.", "category": "recreational", "coords": [28.586609, 43.812828]}, {"name": "Plaja Eminescu", "text": "Gewidmet dem großen Dichter, versprüht dieser Küstenabschnitt in Mangalia einen ganz eigenen rumänischen Charme. Die Atmosphäre am Schwarzen Meer ist ideal für ausgedehnte Strandtage voller Badefreuden und Sonnenstunden. Bringen Sie etwas Zeit mit, um bei einem Spaziergang die Küstenlinie zu bewundern.", "category": "recreational", "coords": [28.588172, 43.8148]}, {"name": "Plaja Cupidon", "text": "Romantisch im Namen, lädt dieser Strand in Mangalia Besucher zu entspannten Stunden am Schwarzen Meer ein. Die harmonische Umgebung ist ein schöner Ort für Paare und Familien, die das Meeresschwimmen lieben. An sonnigen Wochenenden ist ein frühzeitiges Erscheinen für den perfekten Liegeplatz ratsam.", "category": "recreational", "coords": [28.590537, 43.826472]}, {"name": "Plaja Diana", "text": "Direkt am Ufer des Schwarzen Meeres gelegen, bereichert dieser Strand das sommerliche Angebot von Mangalia. Mit seinem feinen Untergrund zieht er Badegäste an, die Sonne und Meeresspaß suchen. Vergessen Sie nicht, ein Handtuch einzupacken und den Tag in aller Ruhe zu genießen.", "category": "recreational", "coords": [28.589435, 43.823704]}, {"name": "Plaja Mangalia", "text": "Das maritime Zentrum des Urlaubsortes bildet zweifelsohne der städtische Strand von Mangalia. Die offene Schwarzmeerküste bietet ideale Bedingungen für ausgelassenes Schwimmen und lange Strandspaziergänge. Wer das bunte Küstentreiben mag, ist hier in den Sommermonaten genau am richtigen Ort.", "category": "recreational", "coords": [28.587682, 43.812032]}, {"name": "Plaja Farul Genovez", "text": "In Sichtweite des historischen genuesischen Leuchtturms verspricht dieser Küstenabschnitt in Mangalia ein besonderes Flair. Das historische Ambiente rahmt die Schwimm- und Sonnenbad-Erlebnisse am Schwarzen Meer malerisch ein. Ein Abendspaziergang zum Leuchtturm rundet den Strandbesuch wunderbar ab.", "category": "recreational", "coords": [28.589106, 43.808894]}, {"name": "Lacul Neptun II", "text": "Der Lacul Neptun II in Mangalia ist ein küstennaher See, der einen friedlichen Ort für Erholung am Wasser bietet.", "category": "natural", "coords": [28.603447, 43.86307]}, {"name": "Tismana", "text": "Der See Tismana in Mangalia bietet eine ruhige Umgebung für Besucher, die Entspannung in Küstennähe suchen.", "category": "natural", "coords": [28.605055, 43.858967]}, {"name": "Lacul Neptun III", "text": "Der Lacul Neptun III in Mangalia ist ein lokaler See, der sich gut für Spaziergänge und die Beobachtung der Wasservögel eignet.", "category": "natural", "coords": [28.604917, 43.871648]}, {"name": "Lacul Venus", "text": "Der Lacul Venus in Mangalia ist ein ruhiges Gewässer, das eine entspannende Atmosphäre für Urlauber bietet.", "category": "natural", "coords": [28.594022, 43.845407]}, {"name": "Lacul Neptun I", "text": "Der Lacul Neptun I in Mangalia ist ein markanter See der Region, der zu erholsamen Momenten am Ufer einlädt.", "category": "natural", "coords": [28.602483, 43.868728]}, {"name": "Balta Saturn", "text": "Balta Saturn in Mangalia ist ein Küstensee, der für seine natürliche Landschaft und ruhige Lage bekannt ist.", "category": "natural", "coords": [28.583137, 43.838161]}], "hu": [{"name": "Callatis Régészeti Múzeum", "text": "Az ókori görög gyarmatváros leleteit bemutató múzeum, ahol egyedülálló papiruszleletek és szobrok láthatók.", "category": "museum", "confidence": "high", "coords": [28.58354, 43.815852]}, {"name": "Esmahan szultán mecset", "text": "1573-ban épült, ez Románia legrégebbi mecsete, amely az oszmán építészet egyik legszebb emléke Dobrudzsában.", "category": "religious", "confidence": "high", "coords": [28.583056, 43.810278]}, {"name": "Mangaliai kikötő", "text": "Modern jachtkikötő a Fekete-tenger partján, ahol kellemes sétányok és vízi sportolási lehetőségek várják a turistákat.", "category": "recreational", "confidence": "high", "coords": [28.583324, 43.807836]}, {"name": "Mangaliai ménes", "text": "Az 1928-ban alapított lovarda a tiszta vérű arab lovak tenyésztéséről híres, és lovaglási lehetőséget is kínál.", "category": "recreational", "confidence": "high", "coords": [28.583419, 43.817562]}, {"name": "Callatis várromok", "text": "Az ókori görög erődítmény falmaradványai, amelyek Mangalia több mint két évezredes múltjáról tanúskodnak.", "category": "fortress", "confidence": "high", "coords": [28.582881, 43.815291]}, {"name": "Plaja Corsa", "text": "Mangalia élettel teli fekete-tengeri partján ez a strand csodálatos helyszínt kínál a nyári napokra. A homok homokvárak építésére csábít, miközben a tenger morajlása tökéletes aláfestést nyújt a pihenéshez. A legjobb napozóhelyekért érdemes már reggel kilátogatni.", "category": "recreational", "coords": [28.586609, 43.812828]}, {"name": "Plaja Eminescu", "text": "A nagy költőnek szentelt mangaliai partszakasz sajátos román bájt áraszt. A Fekete-tenger melletti hangulat ideális a hosszú, fürdőzéssel és napozással teli tengerparti napokhoz. Szánjon egy kis extra időt arra, hogy egy kellemes séta során megcsodálja a partvonalat.", "category": "recreational", "coords": [28.588172, 43.8148]}, {"name": "Plaja Cupidon", "text": "Neve alapján romantikus, ez a mangaliai strand a Fekete-tenger partján pihentető órákra hívja a látogatókat. A harmonikus környezet kedves hely a tengeri úszást kedvelő párok és családok számára. Napsütéses hétvégéken a tökéletes napozóhely biztosítása érdekében érdemes korán érkezni.", "category": "recreational", "coords": [28.590537, 43.826472]}, {"name": "Plaja Diana", "text": "A közvetlenül a Fekete-tenger partján fekvő strand gazdagítja Mangalia nyári kínálatát. Homokos talajával vonzza a napsütést és a tengerparti szórakozást kereső fürdőzőket. Ne felejtsen el törölközőt csomagolni, és élvezze a napot teljes nyugalomban.", "category": "recreational", "coords": [28.589435, 43.823704]}, {"name": "Plaja Mangalia", "text": "Az üdülőváros tengeri központja kétségtelenül a mangaliai városi strand. A Fekete-tenger nyílt partvidéke ideális feltételeket kínál a kiadós úszáshoz és a hosszú tengerparti sétákhoz. Aki szereti a nyüzsgő parti életet, az a nyári hónapokban itt garantáltan jól fogja érezni magát.", "category": "recreational", "coords": [28.587682, 43.812032]}, {"name": "Plaja Farul Genovez", "text": "A történelmi genovai világítótorony láttán ez a mangaliai partszakasz különleges hangulatot ígér. A történelmi környezet festőien foglalja keretbe a Fekete-tenger melletti úszást és napozást. Egy esti séta a világítótorony felé csodálatosan kiegészíti a tengerparti látogatást.", "category": "recreational", "coords": [28.589106, 43.808894]}, {"name": "Lacul Neptun II", "text": "A Mangalia területén található Lacul Neptun II egy tengerparti tó, amely békés helyet kínál a vízparti pihenéshez.", "category": "natural", "coords": [28.603447, 43.86307]}, {"name": "Tismana", "text": "A Mangalia városában lévő Tismana-tó nyugodt környezetet biztosít a tengerpart közeli pihenésre vágyóknak.", "category": "natural", "coords": [28.605055, 43.858967]}, {"name": "Lacul Neptun III", "text": "A Mangalia területén található Lacul Neptun III egy helyi tó, amely alkalmas sétákra és a vízi madarak megfigyelésére.", "category": "natural", "coords": [28.604917, 43.871648]}, {"name": "Lacul Venus", "text": "A Mangalia városában lévő Lacul Venus egy nyugodt vízfelület, amely pihentető légkört biztosít a nyaralóknak.", "category": "natural", "coords": [28.594022, 43.845407]}, {"name": "Lacul Neptun I", "text": "A Mangalia területén található Lacul Neptun I a régió jellegzetes tava, amely pihentető pillanatokra hív a parton.", "category": "natural", "coords": [28.602483, 43.868728]}, {"name": "Balta Saturn", "text": "A Mangalia városában lévő Balta Saturn egy tengerparti tó, amely természetes tájáról és nyugodt elhelyezkedéséről ismert.", "category": "natural", "coords": [28.583137, 43.838161]}], "ro": [{"name": "Muzeul de Arheologie Callatis", "text": "Expune vestigii valoroase ale coloniei grecești antice, inclusiv celebrul mormânt cu papirus și statuete de tip Tanagra.", "category": "museum", "confidence": "high", "coords": [28.58354, 43.815852]}, {"name": "Moscheea Esmahan Sultan", "text": "Cea mai veche moschee din România, construită în 1573 în stil maur, înconjurată de un cimitir musulman istoric.", "category": "religious", "confidence": "high", "coords": [28.583056, 43.810278]}, {"name": "Marina Mangalia", "text": "Port turistic modern la Marea Neagră, punct de plecare pentru ambarcațiuni de agrement și plimbări pe faleza orașului.", "category": "recreational", "confidence": "high", "coords": [28.583324, 43.807836]}, {"name": "Herghelia Mangalia", "text": "Înființată în 1928, este cea mai mare herghelie din sud-estul Europei specializată în creșterea cailor de rasă Arabă.", "category": "recreational", "confidence": "high", "coords": [28.583419, 43.817562]}, {"name": "Ruinele Cetății Callatis", "text": "Fragmente din zidurile de apărare ale coloniei doriene, vizibile în diferite puncte ale orașului modern.", "category": "fortress", "confidence": "high", "coords": [28.582881, 43.815291]}, {"name": "Plaja Corsa", "text": "Pe coasta plină de viață a Mării Negre din Mangalia, această plajă oferă un cadru minunat pentru zilele de vară. Nisipul invită vizitatorii la construirea de castele, în timp ce sunetul mării oferă coloana sonoră perfectă pentru relaxare. Pentru cel mai bun loc la soare, se recomandă o vizită dimineața.", "category": "recreational", "coords": [28.586609, 43.812828]}, {"name": "Plaja Eminescu", "text": "Dedicat marelui poet, acest tronson de coastă din Mangalia emană propriul său farmec românesc. Atmosfera de la Marea Neagră este ideală pentru zile lungi de plajă, pline de înot și soare. Luați-vă ceva timp suplimentar pentru a admira coasta în timpul unei plimbări pe îndelete.", "category": "recreational", "coords": [28.588172, 43.8148]}, {"name": "Plaja Cupidon", "text": "Romantică prin nume, această plajă din Mangalia invită vizitatorii să petreacă ore relaxante la Marea Neagră. Cadrul armonios este un loc minunat pentru cuplurile și familiile cărora le place să înoate în mare. În weekendurile însorite, este indicat să ajungeți devreme pentru a vă asigura locul perfect pe nisip.", "category": "recreational", "coords": [28.590537, 43.826472]}, {"name": "Plaja Diana", "text": "Situată chiar pe malul Mării Negre, această plajă îmbogățește ofertele de vară ale orașului Mangalia. Cu nisipul său fin, atrage băieșii care caută soare și distracție la malul mării. Nu uitați să împachetați un prosop și să vă bucurați de zi în deplină liniște.", "category": "recreational", "coords": [28.589435, 43.823704]}, {"name": "Plaja Mangalia", "text": "Centrul maritim al acestui oraș stațiune este, fără îndoială, plaja municipală din Mangalia. Coasta deschisă a Mării Negre oferă condiții ideale pentru înotul energic și plimbări lungi de-a lungul țărmului. Cei care se bucură de agitația plină de viață a coastei se vor simți ca acasă aici în timpul lunilor de vară.", "category": "recreational", "coords": [28.587682, 43.812032]}, {"name": "Plaja Farul Genovez", "text": "Având vedere la istoricul far genovez, acest tronson de coastă din Mangalia promite o atmosferă cu totul specială. Ambianța istorică încadrează pitoresc experiențele de înot și băi de soare de la Marea Neagră. O plimbare de seară către far completează minunat vizita la plajă.", "category": "recreational", "coords": [28.589106, 43.808894]}, {"name": "Lacul Neptun II", "text": "Lacul Neptun II din Mangalia este un lac de coastă ce oferă un loc liniștit pentru relaxare lângă apă.", "category": "natural", "coords": [28.603447, 43.86307]}, {"name": "Tismana", "text": "Lacul Tismana din Mangalia oferă un mediu liniștit pentru vizitatorii care caută relaxare în apropierea coastei.", "category": "natural", "coords": [28.605055, 43.858967]}, {"name": "Lacul Neptun III", "text": "Lacul Neptun III din Mangalia este un lac local, potrivit pentru plimbări și observarea păsărilor de apă.", "category": "natural", "coords": [28.604917, 43.871648]}, {"name": "Lacul Venus", "text": "Lacul Venus din Mangalia este un luciu de apă liniștit ce oferă o atmosferă relaxantă pentru turiști.", "category": "natural", "coords": [28.594022, 43.845407]}, {"name": "Lacul Neptun I", "text": "Lacul Neptun I din Mangalia este un lac reprezentativ al zonei, ce invită la momente de relaxare pe mal.", "category": "natural", "coords": [28.602483, 43.868728]}, {"name": "Balta Saturn", "text": "Balta Saturn din Mangalia este un lac de coastă cunoscut pentru peisajul natural și locația liniștită.", "category": "natural", "coords": [28.583137, 43.838161]}], "en": [{"name": "Callatis Archaeological Museum", "text": "Displays priceless artifacts from the ancient Greek colony, including the unique papyrus tomb and Tanagra figurines.", "category": "museum", "confidence": "high", "coords": [28.58354, 43.815852]}, {"name": "Esmahan Sultan Mosque", "text": "Built in 1573, it is the oldest mosque in Romania and a beautiful example of Ottoman-Moorish architecture.", "category": "religious", "confidence": "high", "coords": [28.583056, 43.810278]}, {"name": "Mangalia Marina", "text": "A modern Black Sea yacht harbor surrounded by a scenic promenade, ideal for boating and sea-side relaxation.", "category": "recreational", "confidence": "high", "coords": [28.583324, 43.807836]}, {"name": "Mangalia Stud Farm", "text": "Established in 1928, it is famous for breeding purebred Arabian horses and offers equestrian tours for visitors.", "category": "recreational", "confidence": "high", "coords": [28.583419, 43.817562]}, {"name": "Callatis Fortress Ruins", "text": "The remains of the defense walls of the ancient Greek city, revealing Mangalia's 2,500 years of continuous habitation.", "category": "fortress", "confidence": "high", "coords": [28.582881, 43.815291]}, {"name": "Plaja Corsa", "text": "On the lively Black Sea coast of Mangalia, this beach provides a wonderful setting for summer days. The sand invites visitors to build sandcastles, while the sound of the ocean provides the perfect soundtrack for relaxation. For the best spot in the sun, a morning visit is recommended.", "category": "recreational", "coords": [28.586609, 43.812828]}, {"name": "Plaja Eminescu", "text": "Dedicated to the great poet, this stretch of coast in Mangalia exudes its own unique Romanian charm. The atmosphere by the Black Sea is ideal for long beach days filled with swimming and sunbathing. Bring some extra time to admire the coastline during a leisurely walk.", "category": "recreational", "coords": [28.588172, 43.8148]}, {"name": "Plaja Cupidon", "text": "Romantic by name, this beach in Mangalia invites visitors to spend relaxing hours by the Black Sea. The harmonious setting is a lovely spot for couples and families who enjoy swimming in the sea. On sunny weekends, arriving early is advisable to secure the perfect spot on the sand.", "category": "recreational", "coords": [28.590537, 43.826472]}, {"name": "Plaja Diana", "text": "Located right on the shores of the Black Sea, this beach enriches the summer offerings of Mangalia. With its sandy ground, it attracts bathers looking for sun and seaside fun. Do not forget to pack a towel and enjoy the day in complete tranquility.", "category": "recreational", "coords": [28.589435, 43.823704]}, {"name": "Plaja Mangalia", "text": "The maritime center of this resort town is undoubtedly the main municipal beach of Mangalia. The open Black Sea coast offers ideal conditions for energetic swimming and long walks along the shore. Those who enjoy the lively coastal hustle and bustle will be right at home here during the summer months.", "category": "recreational", "coords": [28.587682, 43.812032]}, {"name": "Plaja Farul Genovez", "text": "Within sight of the historic Genoese lighthouse, this stretch of coastline in Mangalia promises a special flair. The historical ambiance picturesquely frames swimming and sunbathing experiences by the Black Sea. An evening walk towards the lighthouse rounds off the beach visit wonderfully.", "category": "recreational", "coords": [28.589106, 43.808894]}, {"name": "Lacul Neptun II", "text": "Lacul Neptun II in Mangalia is a coastal lake providing a peaceful spot for recreation by the water.", "category": "natural", "coords": [28.603447, 43.86307]}, {"name": "Tismana", "text": "Tismana lake in Mangalia offers a quiet environment for visitors seeking relaxation near the coast.", "category": "natural", "coords": [28.605055, 43.858967]}, {"name": "Lacul Neptun III", "text": "Lacul Neptun III in Mangalia is a local lake well-suited for walks and watching water birds.", "category": "natural", "coords": [28.604917, 43.871648]}, {"name": "Lacul Venus", "text": "Lacul Venus in Mangalia is a quiet body of water providing a relaxing atmosphere for holidaymakers.", "category": "natural", "coords": [28.594022, 43.845407]}, {"name": "Lacul Neptun I", "text": "Lacul Neptun I in Mangalia is a notable lake of the area, inviting for restful moments on the shore.", "category": "natural", "coords": [28.602483, 43.868728]}, {"name": "Balta Saturn", "text": "Balta Saturn in Mangalia is a coastal lake known for its natural landscape and quiet location.", "category": "natural", "coords": [28.583137, 43.838161]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Archäologisches Museum Callatis",
+                  "text": "Beherbergt bedeutende Funde aus der antiken griechischen Kolonie, darunter seltene Papyrusfunde und Statuen.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.58354,
+                        43.815852
+                  ]
+            },
+            {
+                  "name": "Esmahan-Sultan-Moschee",
+                  "text": "Erbaut im Jahr 1573, ist sie die älteste Moschee Rumäniens und ein hervorragendes Beispiel osmanischer Architektur.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.583056,
+                        43.810278
+                  ]
+            },
+            {
+                  "name": "Yachthafen Mangalia",
+                  "text": "Ein moderner Touristenhafen am Schwarzen Meer, der Liegeplätze für Yachten bietet und von Cafés und Restaurants gesäumt ist.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583324,
+                        43.807836
+                  ]
+            },
+            {
+                  "name": "Gestüt Mangalia",
+                  "text": "Gegründet 1928, ist es das älteste Gestüt an der Küste und bekannt für die Zucht reinrassiger Araberpferde.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583419,
+                        43.817562
+                  ]
+            },
+            {
+                  "name": "Ruinen der Festung Callatis",
+                  "text": "Die Überreste der antiken griechischen Befestigungen, die Einblicke in die über 2000-jährige Geschichte der Stadt bieten.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        28.582881,
+                        43.815291
+                  ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "An der lebendigen Schwarzmeerküste von Mangalia bietet dieser Strand eine wunderbare Kulisse für Sommertage. Der Sand lädt zum Bauen von Sandburgen ein, während das Rauschen des Meeres den passenden Soundtrack für die Erholung liefert. Für den besten Platz in der Sonne empfiehlt sich ein Besuch am Morgen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "Gewidmet dem großen Dichter, versprüht dieser Küstenabschnitt in Mangalia einen ganz eigenen rumänischen Charme. Die Atmosphäre am Schwarzen Meer ist ideal für ausgedehnte Strandtage voller Badefreuden und Sonnenstunden. Bringen Sie etwas Zeit mit, um bei einem Spaziergang die Küstenlinie zu bewundern.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "Romantisch im Namen, lädt dieser Strand in Mangalia Besucher zu entspannten Stunden am Schwarzen Meer ein. Die harmonische Umgebung ist ein schöner Ort für Paare und Familien, die das Meeresschwimmen lieben. An sonnigen Wochenenden ist ein frühzeitiges Erscheinen für den perfekten Liegeplatz ratsam.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "Direkt am Ufer des Schwarzen Meeres gelegen, bereichert dieser Strand das sommerliche Angebot von Mangalia. Mit seinem feinen Untergrund zieht er Badegäste an, die Sonne und Meeresspaß suchen. Vergessen Sie nicht, ein Handtuch einzupacken und den Tag in aller Ruhe zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "Das maritime Zentrum des Urlaubsortes bildet zweifelsohne der städtische Strand von Mangalia. Die offene Schwarzmeerküste bietet ideale Bedingungen für ausgelassenes Schwimmen und lange Strandspaziergänge. Wer das bunte Küstentreiben mag, ist hier in den Sommermonaten genau am richtigen Ort.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "In Sichtweite des historischen genuesischen Leuchtturms verspricht dieser Küstenabschnitt in Mangalia ein besonderes Flair. Das historische Ambiente rahmt die Schwimm- und Sonnenbad-Erlebnisse am Schwarzen Meer malerisch ein. Ein Abendspaziergang zum Leuchtturm rundet den Strandbesuch wunderbar ab.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun II",
+                  "text": "Der Lacul Neptun II in Mangalia ist ein küstennaher See, der einen friedlichen Ort für Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.603447,
+                        43.86307
+                  ]
+            },
+            {
+                  "name": "Tismana",
+                  "text": "Der See Tismana in Mangalia bietet eine ruhige Umgebung für Besucher, die Entspannung in Küstennähe suchen.",
+                  "category": "natural",
+                  "coords": [
+                        28.605055,
+                        43.858967
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun III",
+                  "text": "Der Lacul Neptun III in Mangalia ist ein lokaler See, der sich gut für Spaziergänge und die Beobachtung der Wasservögel eignet.",
+                  "category": "natural",
+                  "coords": [
+                        28.604917,
+                        43.871648
+                  ]
+            },
+            {
+                  "name": "Lacul Venus",
+                  "text": "Der Lacul Venus in Mangalia ist ein ruhiges Gewässer, das eine entspannende Atmosphäre für Urlauber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.594022,
+                        43.845407
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun I",
+                  "text": "Der Lacul Neptun I in Mangalia ist ein markanter See der Region, der zu erholsamen Momenten am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        28.602483,
+                        43.868728
+                  ]
+            },
+            {
+                  "name": "Balta Saturn",
+                  "text": "Balta Saturn in Mangalia ist ein Küstensee, der für seine natürliche Landschaft und ruhige Lage bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.583137,
+                        43.838161
+                  ]
+            },
+            {
+                  "name": "Piscina Paradiso",
+                  "text": "Ein Schwimmbad in Mangalia, das Besuchern eine entspannte Atmosphäre am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585766,
+                        43.815936
+                  ]
+            },
+            {
+                  "name": "Aqua Park Cleopatra",
+                  "text": "Ein Wasserpark in Mangalia, der mit verschiedenen Becken für Badespaß sorgt.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588934,
+                        43.826083
+                  ]
+            },
+            {
+                  "name": "Piscina Sunquest",
+                  "text": "Eine Schwimmanlage in Mangalia, ideal für Urlauber, die eine Abkühlung suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.599049,
+                        43.848728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Callatis Régészeti Múzeum",
+                  "text": "Az ókori görög gyarmatváros leleteit bemutató múzeum, ahol egyedülálló papiruszleletek és szobrok láthatók.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.58354,
+                        43.815852
+                  ]
+            },
+            {
+                  "name": "Esmahan szultán mecset",
+                  "text": "1573-ban épült, ez Románia legrégebbi mecsete, amely az oszmán építészet egyik legszebb emléke Dobrudzsában.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.583056,
+                        43.810278
+                  ]
+            },
+            {
+                  "name": "Mangaliai kikötő",
+                  "text": "Modern jachtkikötő a Fekete-tenger partján, ahol kellemes sétányok és vízi sportolási lehetőségek várják a turistákat.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583324,
+                        43.807836
+                  ]
+            },
+            {
+                  "name": "Mangaliai ménes",
+                  "text": "Az 1928-ban alapított lovarda a tiszta vérű arab lovak tenyésztéséről híres, és lovaglási lehetőséget is kínál.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583419,
+                        43.817562
+                  ]
+            },
+            {
+                  "name": "Callatis várromok",
+                  "text": "Az ókori görög erődítmény falmaradványai, amelyek Mangalia több mint két évezredes múltjáról tanúskodnak.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        28.582881,
+                        43.815291
+                  ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "Mangalia élettel teli fekete-tengeri partján ez a strand csodálatos helyszínt kínál a nyári napokra. A homok homokvárak építésére csábít, miközben a tenger morajlása tökéletes aláfestést nyújt a pihenéshez. A legjobb napozóhelyekért érdemes már reggel kilátogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "A nagy költőnek szentelt mangaliai partszakasz sajátos román bájt áraszt. A Fekete-tenger melletti hangulat ideális a hosszú, fürdőzéssel és napozással teli tengerparti napokhoz. Szánjon egy kis extra időt arra, hogy egy kellemes séta során megcsodálja a partvonalat.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "Neve alapján romantikus, ez a mangaliai strand a Fekete-tenger partján pihentető órákra hívja a látogatókat. A harmonikus környezet kedves hely a tengeri úszást kedvelő párok és családok számára. Napsütéses hétvégéken a tökéletes napozóhely biztosítása érdekében érdemes korán érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "A közvetlenül a Fekete-tenger partján fekvő strand gazdagítja Mangalia nyári kínálatát. Homokos talajával vonzza a napsütést és a tengerparti szórakozást kereső fürdőzőket. Ne felejtsen el törölközőt csomagolni, és élvezze a napot teljes nyugalomban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "Az üdülőváros tengeri központja kétségtelenül a mangaliai városi strand. A Fekete-tenger nyílt partvidéke ideális feltételeket kínál a kiadós úszáshoz és a hosszú tengerparti sétákhoz. Aki szereti a nyüzsgő parti életet, az a nyári hónapokban itt garantáltan jól fogja érezni magát.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "A történelmi genovai világítótorony láttán ez a mangaliai partszakasz különleges hangulatot ígér. A történelmi környezet festőien foglalja keretbe a Fekete-tenger melletti úszást és napozást. Egy esti séta a világítótorony felé csodálatosan kiegészíti a tengerparti látogatást.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun II",
+                  "text": "A Mangalia területén található Lacul Neptun II egy tengerparti tó, amely békés helyet kínál a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        28.603447,
+                        43.86307
+                  ]
+            },
+            {
+                  "name": "Tismana",
+                  "text": "A Mangalia városában lévő Tismana-tó nyugodt környezetet biztosít a tengerpart közeli pihenésre vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.605055,
+                        43.858967
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun III",
+                  "text": "A Mangalia területén található Lacul Neptun III egy helyi tó, amely alkalmas sétákra és a vízi madarak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.604917,
+                        43.871648
+                  ]
+            },
+            {
+                  "name": "Lacul Venus",
+                  "text": "A Mangalia városában lévő Lacul Venus egy nyugodt vízfelület, amely pihentető légkört biztosít a nyaralóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.594022,
+                        43.845407
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun I",
+                  "text": "A Mangalia területén található Lacul Neptun I a régió jellegzetes tava, amely pihentető pillanatokra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        28.602483,
+                        43.868728
+                  ]
+            },
+            {
+                  "name": "Balta Saturn",
+                  "text": "A Mangalia városában lévő Balta Saturn egy tengerparti tó, amely természetes tájáról és nyugodt elhelyezkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        28.583137,
+                        43.838161
+                  ]
+            },
+            {
+                  "name": "Piscina Paradiso",
+                  "text": "Uszoda Mangaliában, amely pihentető légkört kínál a látogatóknak a tengerpart közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585766,
+                        43.815936
+                  ]
+            },
+            {
+                  "name": "Aqua Park Cleopatra",
+                  "text": "Aquapark Mangaliában, amely különféle medencékkel biztosítja a vízi szórakozást.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588934,
+                        43.826083
+                  ]
+            },
+            {
+                  "name": "Piscina Sunquest",
+                  "text": "Úszómedence Mangaliában, amely ideális a hűsölni vágyó nyaralók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        28.599049,
+                        43.848728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Arheologie Callatis",
+                  "text": "Expune vestigii valoroase ale coloniei grecești antice, inclusiv celebrul mormânt cu papirus și statuete de tip Tanagra.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.58354,
+                        43.815852
+                  ]
+            },
+            {
+                  "name": "Moscheea Esmahan Sultan",
+                  "text": "Cea mai veche moschee din România, construită în 1573 în stil maur, înconjurată de un cimitir musulman istoric.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.583056,
+                        43.810278
+                  ]
+            },
+            {
+                  "name": "Marina Mangalia",
+                  "text": "Port turistic modern la Marea Neagră, punct de plecare pentru ambarcațiuni de agrement și plimbări pe faleza orașului.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583324,
+                        43.807836
+                  ]
+            },
+            {
+                  "name": "Herghelia Mangalia",
+                  "text": "Înființată în 1928, este cea mai mare herghelie din sud-estul Europei specializată în creșterea cailor de rasă Arabă.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583419,
+                        43.817562
+                  ]
+            },
+            {
+                  "name": "Ruinele Cetății Callatis",
+                  "text": "Fragmente din zidurile de apărare ale coloniei doriene, vizibile în diferite puncte ale orașului modern.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        28.582881,
+                        43.815291
+                  ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "Pe coasta plină de viață a Mării Negre din Mangalia, această plajă oferă un cadru minunat pentru zilele de vară. Nisipul invită vizitatorii la construirea de castele, în timp ce sunetul mării oferă coloana sonoră perfectă pentru relaxare. Pentru cel mai bun loc la soare, se recomandă o vizită dimineața.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "Dedicat marelui poet, acest tronson de coastă din Mangalia emană propriul său farmec românesc. Atmosfera de la Marea Neagră este ideală pentru zile lungi de plajă, pline de înot și soare. Luați-vă ceva timp suplimentar pentru a admira coasta în timpul unei plimbări pe îndelete.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "Romantică prin nume, această plajă din Mangalia invită vizitatorii să petreacă ore relaxante la Marea Neagră. Cadrul armonios este un loc minunat pentru cuplurile și familiile cărora le place să înoate în mare. În weekendurile însorite, este indicat să ajungeți devreme pentru a vă asigura locul perfect pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "Situată chiar pe malul Mării Negre, această plajă îmbogățește ofertele de vară ale orașului Mangalia. Cu nisipul său fin, atrage băieșii care caută soare și distracție la malul mării. Nu uitați să împachetați un prosop și să vă bucurați de zi în deplină liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "Centrul maritim al acestui oraș stațiune este, fără îndoială, plaja municipală din Mangalia. Coasta deschisă a Mării Negre oferă condiții ideale pentru înotul energic și plimbări lungi de-a lungul țărmului. Cei care se bucură de agitația plină de viață a coastei se vor simți ca acasă aici în timpul lunilor de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "Având vedere la istoricul far genovez, acest tronson de coastă din Mangalia promite o atmosferă cu totul specială. Ambianța istorică încadrează pitoresc experiențele de înot și băi de soare de la Marea Neagră. O plimbare de seară către far completează minunat vizita la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun II",
+                  "text": "Lacul Neptun II din Mangalia este un lac de coastă ce oferă un loc liniștit pentru relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        28.603447,
+                        43.86307
+                  ]
+            },
+            {
+                  "name": "Tismana",
+                  "text": "Lacul Tismana din Mangalia oferă un mediu liniștit pentru vizitatorii care caută relaxare în apropierea coastei.",
+                  "category": "natural",
+                  "coords": [
+                        28.605055,
+                        43.858967
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun III",
+                  "text": "Lacul Neptun III din Mangalia este un lac local, potrivit pentru plimbări și observarea păsărilor de apă.",
+                  "category": "natural",
+                  "coords": [
+                        28.604917,
+                        43.871648
+                  ]
+            },
+            {
+                  "name": "Lacul Venus",
+                  "text": "Lacul Venus din Mangalia este un luciu de apă liniștit ce oferă o atmosferă relaxantă pentru turiști.",
+                  "category": "natural",
+                  "coords": [
+                        28.594022,
+                        43.845407
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun I",
+                  "text": "Lacul Neptun I din Mangalia este un lac reprezentativ al zonei, ce invită la momente de relaxare pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        28.602483,
+                        43.868728
+                  ]
+            },
+            {
+                  "name": "Balta Saturn",
+                  "text": "Balta Saturn din Mangalia este un lac de coastă cunoscut pentru peisajul natural și locația liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        28.583137,
+                        43.838161
+                  ]
+            },
+            {
+                  "name": "Piscina Paradiso",
+                  "text": "O piscină în Mangalia care oferă vizitatorilor o atmosferă relaxantă lângă mare.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585766,
+                        43.815936
+                  ]
+            },
+            {
+                  "name": "Aqua Park Cleopatra",
+                  "text": "Un parc acvatic în Mangalia care asigură distracția prin diverse bazine.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588934,
+                        43.826083
+                  ]
+            },
+            {
+                  "name": "Piscina Sunquest",
+                  "text": "O facilitate de înot în Mangalia, ideală pentru turiștii care caută răcoare.",
+                  "category": "recreational",
+                  "coords": [
+                        28.599049,
+                        43.848728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Callatis Archaeological Museum",
+                  "text": "Displays priceless artifacts from the ancient Greek colony, including the unique papyrus tomb and Tanagra figurines.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.58354,
+                        43.815852
+                  ]
+            },
+            {
+                  "name": "Esmahan Sultan Mosque",
+                  "text": "Built in 1573, it is the oldest mosque in Romania and a beautiful example of Ottoman-Moorish architecture.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.583056,
+                        43.810278
+                  ]
+            },
+            {
+                  "name": "Mangalia Marina",
+                  "text": "A modern Black Sea yacht harbor surrounded by a scenic promenade, ideal for boating and sea-side relaxation.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583324,
+                        43.807836
+                  ]
+            },
+            {
+                  "name": "Mangalia Stud Farm",
+                  "text": "Established in 1928, it is famous for breeding purebred Arabian horses and offers equestrian tours for visitors.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.583419,
+                        43.817562
+                  ]
+            },
+            {
+                  "name": "Callatis Fortress Ruins",
+                  "text": "The remains of the defense walls of the ancient Greek city, revealing Mangalia's 2,500 years of continuous habitation.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        28.582881,
+                        43.815291
+                  ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "On the lively Black Sea coast of Mangalia, this beach provides a wonderful setting for summer days. The sand invites visitors to build sandcastles, while the sound of the ocean provides the perfect soundtrack for relaxation. For the best spot in the sun, a morning visit is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "Dedicated to the great poet, this stretch of coast in Mangalia exudes its own unique Romanian charm. The atmosphere by the Black Sea is ideal for long beach days filled with swimming and sunbathing. Bring some extra time to admire the coastline during a leisurely walk.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "Romantic by name, this beach in Mangalia invites visitors to spend relaxing hours by the Black Sea. The harmonious setting is a lovely spot for couples and families who enjoy swimming in the sea. On sunny weekends, arriving early is advisable to secure the perfect spot on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "Located right on the shores of the Black Sea, this beach enriches the summer offerings of Mangalia. With its sandy ground, it attracts bathers looking for sun and seaside fun. Do not forget to pack a towel and enjoy the day in complete tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "The maritime center of this resort town is undoubtedly the main municipal beach of Mangalia. The open Black Sea coast offers ideal conditions for energetic swimming and long walks along the shore. Those who enjoy the lively coastal hustle and bustle will be right at home here during the summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "Within sight of the historic Genoese lighthouse, this stretch of coastline in Mangalia promises a special flair. The historical ambiance picturesquely frames swimming and sunbathing experiences by the Black Sea. An evening walk towards the lighthouse rounds off the beach visit wonderfully.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun II",
+                  "text": "Lacul Neptun II in Mangalia is a coastal lake providing a peaceful spot for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.603447,
+                        43.86307
+                  ]
+            },
+            {
+                  "name": "Tismana",
+                  "text": "Tismana lake in Mangalia offers a quiet environment for visitors seeking relaxation near the coast.",
+                  "category": "natural",
+                  "coords": [
+                        28.605055,
+                        43.858967
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun III",
+                  "text": "Lacul Neptun III in Mangalia is a local lake well-suited for walks and watching water birds.",
+                  "category": "natural",
+                  "coords": [
+                        28.604917,
+                        43.871648
+                  ]
+            },
+            {
+                  "name": "Lacul Venus",
+                  "text": "Lacul Venus in Mangalia is a quiet body of water providing a relaxing atmosphere for holidaymakers.",
+                  "category": "natural",
+                  "coords": [
+                        28.594022,
+                        43.845407
+                  ]
+            },
+            {
+                  "name": "Lacul Neptun I",
+                  "text": "Lacul Neptun I in Mangalia is a notable lake of the area, inviting for restful moments on the shore.",
+                  "category": "natural",
+                  "coords": [
+                        28.602483,
+                        43.868728
+                  ]
+            },
+            {
+                  "name": "Balta Saturn",
+                  "text": "Balta Saturn in Mangalia is a coastal lake known for its natural landscape and quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        28.583137,
+                        43.838161
+                  ]
+            },
+            {
+                  "name": "Piscina Paradiso",
+                  "text": "A swimming pool in Mangalia offering visitors a relaxing atmosphere near the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.585766,
+                        43.815936
+                  ]
+            },
+            {
+                  "name": "Aqua Park Cleopatra",
+                  "text": "A water park in Mangalia providing water fun with various pools.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588934,
+                        43.826083
+                  ]
+            },
+            {
+                  "name": "Piscina Sunquest",
+                  "text": "A swimming facility in Mangalia, ideal for vacationers looking for a cool dip.",
+                  "category": "recreational",
+                  "coords": [
+                        28.599049,
+                        43.848728
+                  ]
+            }
+      ]
+}
   },
   {
     "id": "city-medgidia-extra",
@@ -14088,6 +14873,24 @@ export const poiExtraRo1: POI[] = [
                         23.373389,
                         45.414206
                   ]
+            },
+            {
+                  "name": "Keops",
+                  "text": "Ein Freizeitschwimmbad in Petroșani, das Erholung für die lokale Bevölkerung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.376663,
+                        45.409046
+                  ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "Stadtpark in Petrila mit Grünflächen und Wanderwegen für die lokale Bevölkerung.",
+                  "category": "park",
+                  "coords": [
+                        23.381354,
+                        45.442572
+                  ]
             }
       ],
       "hu": [
@@ -14155,6 +14958,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.373389,
                         45.414206
+                  ]
+            },
+            {
+                  "name": "Keops",
+                  "text": "Szabadidős uszoda Petrozsényban, amely kikapcsolódást nyújt a helyi lakosságnak.",
+                  "category": "recreational",
+                  "coords": [
+                        23.376663,
+                        45.409046
+                  ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "Petrila központi parkja, amely zöldterületet és sétautakat kínál a közösségnek.",
+                  "category": "park",
+                  "coords": [
+                        23.381354,
+                        45.442572
                   ]
             }
       ],
@@ -14224,6 +15045,24 @@ export const poiExtraRo1: POI[] = [
                         23.373389,
                         45.414206
                   ]
+            },
+            {
+                  "name": "Keops",
+                  "text": "O piscină de agrement în Petroșani, oferind relaxare pentru populația locală.",
+                  "category": "recreational",
+                  "coords": [
+                        23.376663,
+                        45.409046
+                  ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "Parcul central din Petrila, oferind spații verzi și alei de plimbare pentru comunitatea locală.",
+                  "category": "park",
+                  "coords": [
+                        23.381354,
+                        45.442572
+                  ]
             }
       ],
       "en": [
@@ -14291,6 +15130,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.373389,
                         45.414206
+                  ]
+            },
+            {
+                  "name": "Keops",
+                  "text": "A recreational swimming pool in Petroșani offering relaxation for the local population.",
+                  "category": "recreational",
+                  "coords": [
+                        23.376663,
+                        45.409046
+                  ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "Central park in Petrila offering green space and walking paths for the local community.",
+                  "category": "park",
+                  "coords": [
+                        23.381354,
+                        45.442572
                   ]
             }
       ]
@@ -18442,6 +19299,15 @@ export const poiExtraRo1: POI[] = [
                         24.092004,
                         46.471033
                   ]
+            },
+            {
+                  "name": "Bazinul de Inot Didactic",
+                  "text": "Ein Lehrschwimmbecken in Luduș, das hauptsächlich für den Schwimmunterricht genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        24.091223,
+                        46.476054
+                  ]
             }
       ],
       "hu": [
@@ -18481,6 +19347,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.092004,
                         46.471033
+                  ]
+            },
+            {
+                  "name": "Bazinul de Inot Didactic",
+                  "text": "Tanuszoda Marosludason, amelyet elsősorban úszásoktatásra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.091223,
+                        46.476054
                   ]
             }
       ],
@@ -18522,6 +19397,15 @@ export const poiExtraRo1: POI[] = [
                         24.092004,
                         46.471033
                   ]
+            },
+            {
+                  "name": "Bazinul de Inot Didactic",
+                  "text": "Un bazin de înot didactic în Luduș, utilizat în principal pentru cursuri de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        24.091223,
+                        46.476054
+                  ]
             }
       ],
       "en": [
@@ -18561,6 +19445,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.092004,
                         46.471033
+                  ]
+            },
+            {
+                  "name": "Bazinul de Inot Didactic",
+                  "text": "A didactic swimming pool in Luduș, primarily used for swimming lessons.",
+                  "category": "recreational",
+                  "coords": [
+                        24.091223,
+                        46.476054
                   ]
             }
       ]
@@ -20327,7 +21220,208 @@ export const poiExtraRo1: POI[] = [
       "en": ["A port city on the Danube River.", "Located on the site of the ancient city of Sucidava.", "The ruins of the Sucidava fortress are a major archaeological site.", "The 'Secret Fountain' of Sucidava is a unique monument.", "The local economy is based on agriculture and transportation.", "The city is located opposite the Bulgarian shore."]
     },
     image: "/poi-images/city-corabia-extra.webp",
-    "sights": {"de": [{"name": "Festung Sucidava", "text": "Eine römisch-byzantinische Festung, bekannt für ihre strategische Lage an der Donau und antike Ruinen.", "category": "fortress", "confidence": "high", "coords": [24.458731, 43.765015]}, {"name": "Museum für Archäologie und Ethnographie", "text": "Es beherbergt Funde aus Sucidava und dokumentiert das traditionelle Leben in der Donau-Region.", "category": "museum", "confidence": "high", "coords": [24.50283, 43.77543]}, {"name": "Donauhafen Corabia", "text": "Ein wichtiger Hafen für den Getreidehandel an der Donau mit einer malerischen Aussicht auf den Fluss.", "category": "civic", "confidence": "high", "coords": [24.512262, 43.771414]}, {"name": "Plaja Celei", "text": "In der näheren Umgebung von Corabia befindet sich die beschauliche Plaja Celei. Besucher erwartet ein naturnaher Ort, der sich ideal für erholsame Stunden am Wasser und gemächliche Spaziergänge eignet. Das bescheidene Ambiente verspricht einen Rückzugsort fernab großer Menschenmassen. Ein Ausflug hierher ist an einem sonnigen Nachmittag besonders reizvoll.", "category": "recreational", "coords": [24.470405, 43.756776]}], "hu": [{"name": "Szucidava vár", "text": "Római-bizánci erődítmény a Duna partján, amely az ókori határvédelem fontos pontja volt.", "category": "fortress", "confidence": "high", "coords": [24.458731, 43.765015]}, {"name": "Régészeti és Néprajzi Múzeum", "text": "A múzeum Szucidava leleteit és a dunai halászat hagyományos eszközeit mutatja be.", "category": "museum", "confidence": "high", "coords": [24.50283, 43.77543]}, {"name": "Korábiai dunai kikötő", "text": "Fontos gabonakereskedelmi központ a Dunán, amely szép kilátást nyújt a folyóra és a környékre.", "category": "civic", "confidence": "high", "coords": [24.512262, 43.771414]}, {"name": "Plaja Celei", "text": "Corabia közvetlen közelében található a békés Plaja Celei. A látogatókat egy természetközeli hely várja, amely ideális a vízparti pihenéshez és a kényelmes sétákhoz. A szerény környezet olyan menedéket ígér, amely távol esik a nagy tömegektől. Egy ide szervezett kirándulás különösen egy napsütéses délutánon vonzó.", "category": "recreational", "coords": [24.470405, 43.756776]}], "ro": [{"name": "Cetatea Sucidava", "text": "O cetate romano-bizantină situată pe malul Dunării, celebră pentru istoria sa antică îndelungată.", "category": "fortress", "confidence": "high", "coords": [24.458731, 43.765015]}, {"name": "Muzeul de Arheologie și Etnografie", "text": "Expune vestigii valoroase descoperite la Sucidava și obiecte legate de viața comunității dunărene.", "category": "museum", "confidence": "high", "coords": [24.50283, 43.77543]}, {"name": "Portul Corabia", "text": "Fost port cerealier important la Dunăre, oferă astăzi o zonă de promenadă cu peisaje fluviale deosebite.", "category": "civic", "confidence": "high", "coords": [24.512262, 43.771414]}, {"name": "Plaja Celei", "text": "În apropierea orașului Corabia se află liniștita Plaja Celei. Vizitatorii sunt întâmpinați de un loc apropiat de natură, ideal pentru ore de relaxare la malul apei și plimbări lente. Ambianța modestă promite un refugiu departe de mulțimile mari. O excursie aici este deosebit de atrăgătoare într-o după-amiază însorită.", "category": "recreational", "coords": [24.470405, 43.756776]}], "en": [{"name": "Sucidava Fortress", "text": "A Roman-Byzantine fortress on the Danube bank, featuring ruins from late antiquity and Roman times.", "category": "fortress", "confidence": "high", "coords": [24.458731, 43.765015]}, {"name": "Archaeology and Ethnography Museum", "text": "Displays artifacts from Sucidava and tools illustrating the traditional life of Danube river communities.", "category": "museum", "confidence": "high", "coords": [24.50283, 43.77543]}, {"name": "Corabia Danube Port", "text": "Formerly a major grain port on the Danube, it now offers a scenic riverside promenade for visitors.", "category": "civic", "confidence": "high", "coords": [24.512262, 43.771414]}, {"name": "Plaja Celei", "text": "In the vicinity of Corabia lies the tranquil Plaja Celei. Visitors can expect a nature-oriented setting that is ideal for relaxing hours by the water and leisurely walks. The modest ambiance promises a retreat far away from large crowds. A trip here is especially delightful on a sunny afternoon.", "category": "recreational", "coords": [24.470405, 43.756776]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Festung Sucidava",
+                  "text": "Eine römisch-byzantinische Festung, bekannt für ihre strategische Lage an der Donau und antike Ruinen.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        24.458731,
+                        43.765015
+                  ]
+            },
+            {
+                  "name": "Museum für Archäologie und Ethnographie",
+                  "text": "Es beherbergt Funde aus Sucidava und dokumentiert das traditionelle Leben in der Donau-Region.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        24.50283,
+                        43.77543
+                  ]
+            },
+            {
+                  "name": "Donauhafen Corabia",
+                  "text": "Ein wichtiger Hafen für den Getreidehandel an der Donau mit einer malerischen Aussicht auf den Fluss.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        24.512262,
+                        43.771414
+                  ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "In der näheren Umgebung von Corabia befindet sich die beschauliche Plaja Celei. Besucher erwartet ein naturnaher Ort, der sich ideal für erholsame Stunden am Wasser und gemächliche Spaziergänge eignet. Das bescheidene Ambiente verspricht einen Rückzugsort fernab großer Menschenmassen. Ein Ausflug hierher ist an einem sonnigen Nachmittag besonders reizvoll.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
+                  ]
+            },
+            {
+                  "name": "Faleza",
+                  "text": "Ein Schwimmbad in Corabia, gelegen in der Nähe des Donauufers.",
+                  "category": "recreational",
+                  "coords": [
+                        24.507635,
+                        43.771647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szucidava vár",
+                  "text": "Római-bizánci erődítmény a Duna partján, amely az ókori határvédelem fontos pontja volt.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        24.458731,
+                        43.765015
+                  ]
+            },
+            {
+                  "name": "Régészeti és Néprajzi Múzeum",
+                  "text": "A múzeum Szucidava leleteit és a dunai halászat hagyományos eszközeit mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        24.50283,
+                        43.77543
+                  ]
+            },
+            {
+                  "name": "Korábiai dunai kikötő",
+                  "text": "Fontos gabonakereskedelmi központ a Dunán, amely szép kilátást nyújt a folyóra és a környékre.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        24.512262,
+                        43.771414
+                  ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "Corabia közvetlen közelében található a békés Plaja Celei. A látogatókat egy természetközeli hely várja, amely ideális a vízparti pihenéshez és a kényelmes sétákhoz. A szerény környezet olyan menedéket ígér, amely távol esik a nagy tömegektől. Egy ide szervezett kirándulás különösen egy napsütéses délutánon vonzó.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
+                  ]
+            },
+            {
+                  "name": "Faleza",
+                  "text": "Uszoda Corabiában, a Duna-part közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.507635,
+                        43.771647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Sucidava",
+                  "text": "O cetate romano-bizantină situată pe malul Dunării, celebră pentru istoria sa antică îndelungată.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        24.458731,
+                        43.765015
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Etnografie",
+                  "text": "Expune vestigii valoroase descoperite la Sucidava și obiecte legate de viața comunității dunărene.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        24.50283,
+                        43.77543
+                  ]
+            },
+            {
+                  "name": "Portul Corabia",
+                  "text": "Fost port cerealier important la Dunăre, oferă astăzi o zonă de promenadă cu peisaje fluviale deosebite.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        24.512262,
+                        43.771414
+                  ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "În apropierea orașului Corabia se află liniștita Plaja Celei. Vizitatorii sunt întâmpinați de un loc apropiat de natură, ideal pentru ore de relaxare la malul apei și plimbări lente. Ambianța modestă promite un refugiu departe de mulțimile mari. O excursie aici este deosebit de atrăgătoare într-o după-amiază însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
+                  ]
+            },
+            {
+                  "name": "Faleza",
+                  "text": "O piscină în Corabia, situată în apropierea falezei Dunării.",
+                  "category": "recreational",
+                  "coords": [
+                        24.507635,
+                        43.771647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sucidava Fortress",
+                  "text": "A Roman-Byzantine fortress on the Danube bank, featuring ruins from late antiquity and Roman times.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        24.458731,
+                        43.765015
+                  ]
+            },
+            {
+                  "name": "Archaeology and Ethnography Museum",
+                  "text": "Displays artifacts from Sucidava and tools illustrating the traditional life of Danube river communities.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        24.50283,
+                        43.77543
+                  ]
+            },
+            {
+                  "name": "Corabia Danube Port",
+                  "text": "Formerly a major grain port on the Danube, it now offers a scenic riverside promenade for visitors.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        24.512262,
+                        43.771414
+                  ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "In the vicinity of Corabia lies the tranquil Plaja Celei. Visitors can expect a nature-oriented setting that is ideal for relaxing hours by the water and leisurely walks. The modest ambiance promises a retreat far away from large crowds. A trip here is especially delightful on a sunny afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
+                  ]
+            },
+            {
+                  "name": "Faleza",
+                  "text": "A swimming pool in Corabia, located near the Danube promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        24.507635,
+                        43.771647
+                  ]
+            }
+      ]
+}
   },
   {
     "id": "city-scornicesti-extra",

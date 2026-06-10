@@ -218,6 +218,60 @@ export const poiExtraAustriaNature: POI[] = [
                         13.507783,
                         47.868052
                   ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz",
+                  "text": "Ein öffentlicher Badeplatz mit Zugang zum Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.570658,
+                        47.898306
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang Alexenau",
+                  "text": "Ein öffentlicher Seezugang zum Schwimmen und Entspannen am Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.567263,
+                        47.872798
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang",
+                  "text": "Ein öffentlicher Platz, der Zugang zum Attersee zum Schwimmen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.545691,
+                        47.82955
+                  ]
+            },
+            {
+                  "name": "Badeplatz ÖWR",
+                  "text": "Ein vom Österreichischen Wasserrettungsdienst verwalteter Badeplatz am Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.521973,
+                        47.866042
+                  ]
+            },
+            {
+                  "name": "Naturbadeplatz Weyregg",
+                  "text": "Ein Naturbadeplatz am Ufer des Attersees in Weyregg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.571094,
+                        47.896476
+                  ]
+            },
+            {
+                  "name": "Rotwildgehege",
+                  "text": "Ein Rotwildgehege, in dem Besucher einheimische Wildtiere am Attersee beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        13.502176,
+                        47.826675
+                  ]
             }
       ],
       "hu": [
@@ -273,6 +327,60 @@ export const poiExtraAustriaNature: POI[] = [
                   "coords": [
                         13.507783,
                         47.868052
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz",
+                  "text": "Nyilvános fürdőhely az Attersee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.570658,
+                        47.898306
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang Alexenau",
+                  "text": "Nyilvános tóparti lejáró úszáshoz és kikapcsolódáshoz az Attersee-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        13.567263,
+                        47.872798
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang",
+                  "text": "Nyilvános hely, amely hozzáférést biztosít az Attersee-hez úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.545691,
+                        47.82955
+                  ]
+            },
+            {
+                  "name": "Badeplatz ÖWR",
+                  "text": "Az Osztrák Vízimentők által kezelt fürdőhely az Attersee-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        13.521973,
+                        47.866042
+                  ]
+            },
+            {
+                  "name": "Naturbadeplatz Weyregg",
+                  "text": "Természetes fürdőhely az Attersee partján, Weyreggben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.571094,
+                        47.896476
+                  ]
+            },
+            {
+                  "name": "Rotwildgehege",
+                  "text": "Szarvaspark, ahol a látogatók helyi vadon élő állatokat figyelhetnek meg az Attersee közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.502176,
+                        47.826675
                   ]
             }
       ],
@@ -330,6 +438,60 @@ export const poiExtraAustriaNature: POI[] = [
                         13.507783,
                         47.868052
                   ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz",
+                  "text": "O zonă publică de scăldat care oferă acces la apele lacului Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.570658,
+                        47.898306
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang Alexenau",
+                  "text": "Un punct public de acces la lac pentru înot și relaxare la Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.567263,
+                        47.872798
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang",
+                  "text": "Un loc public care oferă acces la lacul Attersee pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        13.545691,
+                        47.82955
+                  ]
+            },
+            {
+                  "name": "Badeplatz ÖWR",
+                  "text": "O zonă de înot la lacul Attersee administrată de Serviciul Austriac de Salvare pe Apă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.521973,
+                        47.866042
+                  ]
+            },
+            {
+                  "name": "Naturbadeplatz Weyregg",
+                  "text": "O zonă naturală de scăldat situată pe malul lacului Attersee în Weyregg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.571094,
+                        47.896476
+                  ]
+            },
+            {
+                  "name": "Rotwildgehege",
+                  "text": "Un țarc de cerbi unde vizitatorii pot observa fauna locală lângă lacul Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.502176,
+                        47.826675
+                  ]
             }
       ],
       "en": [
@@ -385,6 +547,60 @@ export const poiExtraAustriaNature: POI[] = [
                   "coords": [
                         13.507783,
                         47.868052
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Badeplatz",
+                  "text": "A public swimming area offering access to the waters of Lake Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.570658,
+                        47.898306
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang Alexenau",
+                  "text": "A public lake access point for swimming and relaxation at Lake Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.567263,
+                        47.872798
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Seezugang",
+                  "text": "A public spot providing access to Lake Attersee for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        13.545691,
+                        47.82955
+                  ]
+            },
+            {
+                  "name": "Badeplatz ÖWR",
+                  "text": "A swimming area at Lake Attersee managed by the Austrian Water Rescue.",
+                  "category": "recreational",
+                  "coords": [
+                        13.521973,
+                        47.866042
+                  ]
+            },
+            {
+                  "name": "Naturbadeplatz Weyregg",
+                  "text": "A natural swimming area located on the shores of Lake Attersee in Weyregg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.571094,
+                        47.896476
+                  ]
+            },
+            {
+                  "name": "Rotwildgehege",
+                  "text": "A red deer enclosure where visitors can observe local wildlife near Lake Attersee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.502176,
+                        47.826675
                   ]
             }
       ]

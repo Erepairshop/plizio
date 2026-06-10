@@ -2581,6 +2581,24 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                         20.624221,
                         38.115924
                   ]
+            },
+            {
+                  "name": "Σπαρτιάς",
+                  "text": "Σπαρτιάς ist ein Strand am Fuße des Berges Aenos.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575009,
+                        38.102877
+                  ]
+            },
+            {
+                  "name": "Νιψιάς",
+                  "text": "Νιψιάς ist ein Küstenstrand am Berg Aenos.",
+                  "category": "recreational",
+                  "coords": [
+                        20.559181,
+                        38.091652
+                  ]
             }
       ],
       "hu": [
@@ -2645,6 +2663,24 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   "coords": [
                         20.624221,
                         38.115924
+                  ]
+            },
+            {
+                  "name": "Σπαρτιάς",
+                  "text": "A Σπαρtiάς egy tengerparti strand az Énosz-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575009,
+                        38.102877
+                  ]
+            },
+            {
+                  "name": "Νιψιάς",
+                  "text": "A Νιψιάς egy tengerparti strand az Énosz-hegy közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.559181,
+                        38.091652
                   ]
             }
       ],
@@ -2711,6 +2747,24 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                         20.624221,
                         38.115924
                   ]
+            },
+            {
+                  "name": "Σπαρτιάς",
+                  "text": "Σπαρτιάς este o plajă situată lângă muntele Aenos.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575009,
+                        38.102877
+                  ]
+            },
+            {
+                  "name": "Νιψιάς",
+                  "text": "Νιψιάς este o plajă situată lângă muntele Aenos.",
+                  "category": "recreational",
+                  "coords": [
+                        20.559181,
+                        38.091652
+                  ]
             }
       ],
       "en": [
@@ -2775,6 +2829,24 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   "coords": [
                         20.624221,
                         38.115924
+                  ]
+            },
+            {
+                  "name": "Σπαρτιάς",
+                  "text": "Σπαρtiάς is a beach located near Mount Aenos.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575009,
+                        38.102877
+                  ]
+            },
+            {
+                  "name": "Νιψιάς",
+                  "text": "Νιψιάς is a beach located near Mount Aenos.",
+                  "category": "recreational",
+                  "coords": [
+                        20.559181,
+                        38.091652
                   ]
             }
       ]
@@ -3161,6 +3233,24 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                         20.480563,
                         39.236099
                   ]
+            },
+            {
+                  "name": "Παραλία Αμμουδιά",
+                  "text": "Ein wunderschöner Strand an der Mündung des Flusses Acheron in das Ionische Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479802,
+                        39.23951
+                  ]
+            },
+            {
+                  "name": "Όρμος του Οδυσσέα",
+                  "text": "Eine malerische Bucht in der Nähe des Flusses Acheron, benannt nach dem legendären Helden.",
+                  "category": "recreational",
+                  "coords": [
+                        20.486814,
+                        39.215872
+                  ]
             }
       ],
       "hu": [
@@ -3207,6 +3297,24 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   "coords": [
                         20.480563,
                         39.236099
+                  ]
+            },
+            {
+                  "name": "Παραλία Αμμουδιά",
+                  "text": "Gyönyörű strand ott, ahol az Acheron-folyó az Jón-tengerbe ömlik.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479802,
+                        39.23951
+                  ]
+            },
+            {
+                  "name": "Όρμος του Οδυσσέα",
+                  "text": "Festői öböl az Acheron-folyó közelében, amelyet a legendás hősről neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        20.486814,
+                        39.215872
                   ]
             }
       ],
@@ -3255,6 +3363,24 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                         20.480563,
                         39.236099
                   ]
+            },
+            {
+                  "name": "Παραλία Αμμουδιά",
+                  "text": "O plajă frumoasă situată unde râul Acheron se varsă în Marea Ionică.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479802,
+                        39.23951
+                  ]
+            },
+            {
+                  "name": "Όρμος του Οδυσσέα",
+                  "text": "Un golf pitoresc lângă râul Acheron, numit după eroul legendar.",
+                  "category": "recreational",
+                  "coords": [
+                        20.486814,
+                        39.215872
+                  ]
             }
       ],
       "en": [
@@ -3301,6 +3427,24 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   "coords": [
                         20.480563,
                         39.236099
+                  ]
+            },
+            {
+                  "name": "Παραλία Αμμουδιά",
+                  "text": "A beautiful beach located where the Acheron River meets the Ionian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479802,
+                        39.23951
+                  ]
+            },
+            {
+                  "name": "Όρμος του Οδυσσέα",
+                  "text": "A scenic bay near the Acheron River, named after the legendary hero.",
+                  "category": "recreational",
+                  "coords": [
+                        20.486814,
+                        39.215872
                   ]
             }
       ]
@@ -3945,6 +4089,24 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                         20.660564,
                         38.254119
                   ]
+            },
+            {
+                  "name": "Ελληνικά",
+                  "text": "Ein Küstenbereich in der Nähe der berühmten Melissani-Höhle auf Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.61063,
+                        38.287695
+                  ]
+            },
+            {
+                  "name": "Antisamos Beach Bar",
+                  "text": "Eine beliebte Strandbar am Antisamos-Strand auf Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.674384,
+                        38.260383
+                  ]
             }
       ],
       "hu": [
@@ -4018,6 +4180,24 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   "coords": [
                         20.660564,
                         38.254119
+                  ]
+            },
+            {
+                  "name": "Ελληνικά",
+                  "text": "Tengerparti terület a híres kefalóniai Melissani-barlang közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.61063,
+                        38.287695
+                  ]
+            },
+            {
+                  "name": "Antisamos Beach Bar",
+                  "text": "Népszerű strandbár a kefalóniai Antisamos-strandon.",
+                  "category": "recreational",
+                  "coords": [
+                        20.674384,
+                        38.260383
                   ]
             }
       ],
@@ -4093,6 +4273,24 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                         20.660564,
                         38.254119
                   ]
+            },
+            {
+                  "name": "Ελληνικά",
+                  "text": "O zonă de coastă situată în apropierea faimoasei peșteri Melissani din Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.61063,
+                        38.287695
+                  ]
+            },
+            {
+                  "name": "Antisamos Beach Bar",
+                  "text": "Un bar de plajă popular situat pe plaja Antisamos din Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.674384,
+                        38.260383
+                  ]
             }
       ],
       "en": [
@@ -4166,6 +4364,24 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   "coords": [
                         20.660564,
                         38.254119
+                  ]
+            },
+            {
+                  "name": "Ελληνικά",
+                  "text": "A coastal area located near the famous Melissani Cave on Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.61063,
+                        38.287695
+                  ]
+            },
+            {
+                  "name": "Antisamos Beach Bar",
+                  "text": "A popular beach bar located at Antisamos Beach on Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.674384,
+                        38.260383
                   ]
             }
       ]

@@ -101,6 +101,24 @@ export const kosovoPois: POI[] = [
                         20.266402,
                         42.54705
                   ]
+            },
+            {
+                  "name": "Banja e Gushacit",
+                  "text": "Banja e Gushacit ist ein öffentliches Bad in der Nähe des Klosters Visoki Dečani.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267105,
+                        42.548524
+                  ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "Die Fish Farm ist ein Aquarium und Fischereibetrieb in der Nähe des Klosters Visoki Dečani.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
+                  ]
             }
       ],
       "hu": [
@@ -129,6 +147,24 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.266402,
                         42.54705
+                  ]
+            },
+            {
+                  "name": "Banja e Gushacit",
+                  "text": "A Banja e Gushacit egy nyilvános fürdő a Visoki Dečani kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267105,
+                        42.548524
+                  ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "A Fish Farm egy akvárium és haltenyészet a Visoki Dečani kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
                   ]
             }
       ],
@@ -159,6 +195,24 @@ export const kosovoPois: POI[] = [
                         20.266402,
                         42.54705
                   ]
+            },
+            {
+                  "name": "Banja e Gushacit",
+                  "text": "Banja e Gushacit este o baie publică situată lângă mănăstirea Visoki Dečani.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267105,
+                        42.548524
+                  ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "Fish Farm este un acvariu și o fermă piscicolă situată lângă mănăstirea Visoki Dečani.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
+                  ]
             }
       ],
       "en": [
@@ -187,6 +241,24 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.266402,
                         42.54705
+                  ]
+            },
+            {
+                  "name": "Banja e Gushacit",
+                  "text": "Banja e Gushacit is a public bath located near the Visoki Dečani Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        20.267105,
+                        42.548524
+                  ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "Fish Farm is an aquarium and fishery located near the Visoki Dečani Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
                   ]
             }
       ]
@@ -233,6 +305,15 @@ export const kosovoPois: POI[] = [
                         20.179091,
                         42.502102
                   ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "Eine Fischfarm mit Aquarien im Dečani-Gebirge.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
+                  ]
             }
       ],
       "hu": [
@@ -243,6 +324,15 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.179091,
                         42.502102
+                  ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "Halgazdaság akváriumokkal a Dečani-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
                   ]
             }
       ],
@@ -255,6 +345,15 @@ export const kosovoPois: POI[] = [
                         20.179091,
                         42.502102
                   ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "O fermă piscicolă cu expoziții de acvariu situată în Munții Dečani.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
+                  ]
             }
       ],
       "en": [
@@ -265,6 +364,15 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.179091,
                         42.502102
+                  ]
+            },
+            {
+                  "name": "Fish Farm",
+                  "text": "A fish farm with aquarium displays located in the Dečani Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        20.239665,
+                        42.499803
                   ]
             }
       ]
@@ -1918,6 +2026,24 @@ export const kosovoPois: POI[] = [
                         21.474078,
                         42.462179
                   ]
+            },
+            {
+                  "name": "Pishina Delfini",
+                  "text": "Ein Schwimmbad in Gjilan, das Möglichkeiten für Freizeitaktivitäten im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.467734,
+                        42.427742
+                  ]
+            },
+            {
+                  "name": "PIshina Hawaii",
+                  "text": "Ein Freizeitschwimmbad in Gjilan, das zum Schwimmen und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.48074,
+                        42.461065
+                  ]
             }
       ],
       "hu": [
@@ -2027,6 +2153,24 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         21.474078,
                         42.462179
+                  ]
+            },
+            {
+                  "name": "Pishina Delfini",
+                  "text": "Egy úszómedence Gjilan városában, amely kikapcsolódási lehetőséget nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.467734,
+                        42.427742
+                  ]
+            },
+            {
+                  "name": "PIshina Hawaii",
+                  "text": "Egy szabadidős úszómedence Gjilanban, amely úszásra és pihenésre alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        21.48074,
+                        42.461065
                   ]
             }
       ],
@@ -2138,6 +2282,24 @@ export const kosovoPois: POI[] = [
                         21.474078,
                         42.462179
                   ]
+            },
+            {
+                  "name": "Pishina Delfini",
+                  "text": "O piscină situată în Gjilan, care oferă facilități pentru activități recreative acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.467734,
+                        42.427742
+                  ]
+            },
+            {
+                  "name": "PIshina Hawaii",
+                  "text": "O piscină recreativă din Gjilan, care oferă un loc pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        21.48074,
+                        42.461065
+                  ]
             }
       ],
       "en": [
@@ -2248,6 +2410,24 @@ export const kosovoPois: POI[] = [
                         21.474078,
                         42.462179
                   ]
+            },
+            {
+                  "name": "Pishina Delfini",
+                  "text": "A swimming pool facility located in Gjilan, providing recreational water activities.",
+                  "category": "recreational",
+                  "coords": [
+                        21.467734,
+                        42.427742
+                  ]
+            },
+            {
+                  "name": "PIshina Hawaii",
+                  "text": "A recreational swimming pool in Gjilan offering a place for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        21.48074,
+                        42.461065
+                  ]
             }
       ]
 }, type: "city", parent: "XK-005", coords: [21.46, 42.46],
@@ -2293,6 +2473,15 @@ export const kosovoPois: POI[] = [
                         21.553845,
                         42.427326
                   ]
+            },
+            {
+                  "name": "Pishina dhe Banja \"Shpetimi\"",
+                  "text": "Ein öffentliches Schwimmbad und Badeanlage in der Nähe der Burg Pogragja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.53488,
+                        42.427833
+                  ]
             }
       ],
       "hu": [
@@ -2303,6 +2492,15 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         21.553845,
                         42.427326
+                  ]
+            },
+            {
+                  "name": "Pishina dhe Banja \"Shpetimi\"",
+                  "text": "Nyilvános úszómedence és fürdőhely a Pogragja-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.53488,
+                        42.427833
                   ]
             }
       ],
@@ -2315,6 +2513,15 @@ export const kosovoPois: POI[] = [
                         21.553845,
                         42.427326
                   ]
+            },
+            {
+                  "name": "Pishina dhe Banja \"Shpetimi\"",
+                  "text": "O piscină publică și bază de agrement lângă Castelul Pogragja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.53488,
+                        42.427833
+                  ]
             }
       ],
       "en": [
@@ -2325,6 +2532,15 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         21.553845,
                         42.427326
+                  ]
+            },
+            {
+                  "name": "Pishina dhe Banja \"Shpetimi\"",
+                  "text": "A public swimming pool and bath facility near Pogragja Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        21.53488,
+                        42.427833
                   ]
             }
       ]

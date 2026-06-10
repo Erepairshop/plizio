@@ -895,6 +895,15 @@ export const netherlandsLandmarksV2: POI[] = [
                         5.025082,
                         52.125374
                   ]
+            },
+            {
+                  "name": "Dierenweide De Meern",
+                  "text": "Ein kleiner Tierpark in der Nähe des Schlosses De Haar bei Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.031731,
+                        52.082662
+                  ]
             }
       ],
       "hu": [
@@ -977,6 +986,15 @@ export const netherlandsLandmarksV2: POI[] = [
                   "coords": [
                         5.025082,
                         52.125374
+                  ]
+            },
+            {
+                  "name": "Dierenweide De Meern",
+                  "text": "Kisméretű állatpark az utrechti De Haar-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.031731,
+                        52.082662
                   ]
             }
       ],
@@ -1061,6 +1079,15 @@ export const netherlandsLandmarksV2: POI[] = [
                         5.025082,
                         52.125374
                   ]
+            },
+            {
+                  "name": "Dierenweide De Meern",
+                  "text": "Un mic parc cu animale în apropierea castelului De Haar de lângă Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.031731,
+                        52.082662
+                  ]
             }
       ],
       "en": [
@@ -1143,6 +1170,15 @@ export const netherlandsLandmarksV2: POI[] = [
                   "coords": [
                         5.025082,
                         52.125374
+                  ]
+            },
+            {
+                  "name": "Dierenweide De Meern",
+                  "text": "A small animal enclosure located near De Haar Castle near Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.031731,
+                        52.082662
                   ]
             }
       ]

@@ -3847,6 +3847,15 @@ export const norwayHistoryV2: POI[] = [
                         6.930995,
                         58.315896
                   ]
+            },
+            {
+                  "name": "Badeland i Sarons Dal",
+                  "text": "Ein Wasserpark und Schwimmbad im Gebiet Sarons Dal bei Kvinesdal.",
+                  "category": "recreational",
+                  "coords": [
+                        6.988887,
+                        58.325999
+                  ]
             }
       ],
       "hu": [
@@ -3911,6 +3920,15 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.930995,
                         58.315896
+                  ]
+            },
+            {
+                  "name": "Badeland i Sarons Dal",
+                  "text": "Vízi park és úszólétesítmény a Kvinesdal közeli Sarons Dal területén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.988887,
+                        58.325999
                   ]
             }
       ],
@@ -3977,6 +3995,15 @@ export const norwayHistoryV2: POI[] = [
                         6.930995,
                         58.315896
                   ]
+            },
+            {
+                  "name": "Badeland i Sarons Dal",
+                  "text": "Un parc acvatic și o unitate de înot situate în zona Sarons Dal, lângă Kvinesdal.",
+                  "category": "recreational",
+                  "coords": [
+                        6.988887,
+                        58.325999
+                  ]
             }
       ],
       "en": [
@@ -4041,6 +4068,15 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.930995,
                         58.315896
+                  ]
+            },
+            {
+                  "name": "Badeland i Sarons Dal",
+                  "text": "A water park and swimming facility located in the Sarons Dal area near Kvinesdal.",
+                  "category": "recreational",
+                  "coords": [
+                        6.988887,
+                        58.325999
                   ]
             }
       ]
@@ -5296,6 +5332,15 @@ export const norwayHistoryV2: POI[] = [
                         6.188604,
                         62.471435
                   ]
+            },
+            {
+                  "name": "Sandviksfjøra",
+                  "text": "Ein Strand in Ålesund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.167974,
+                        62.438587
+                  ]
             }
       ],
       "hu": [
@@ -5495,6 +5540,15 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.188604,
                         62.471435
+                  ]
+            },
+            {
+                  "name": "Sandviksfjøra",
+                  "text": "Egy strand Ålesundban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.167974,
+                        62.438587
                   ]
             }
       ],
@@ -5696,6 +5750,15 @@ export const norwayHistoryV2: POI[] = [
                         6.188604,
                         62.471435
                   ]
+            },
+            {
+                  "name": "Sandviksfjøra",
+                  "text": "O plajă în Ålesund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.167974,
+                        62.438587
+                  ]
             }
       ],
       "en": [
@@ -5896,6 +5959,15 @@ export const norwayHistoryV2: POI[] = [
                         6.188604,
                         62.471435
                   ]
+            },
+            {
+                  "name": "Sandviksfjøra",
+                  "text": "A beach in Ålesund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.167974,
+                        62.438587
+                  ]
             }
       ]
 },
@@ -6033,7 +6105,52 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-drammen-museum-history-v2.webp",
   },
   {
-    id: "norway-tonsberg-fortress-history-v2",
+    id: "norway-tonsberg-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandodden",
+                  "text": "Ein Strand in der Nähe der Festung Tønsberg, der sich für Freizeitaktivitäten am Wasser anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373373,
+                        59.254048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandodden",
+                  "text": "A Tønsberg-erőd közelében található tengerpart, amely vízi szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373373,
+                        59.254048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandodden",
+                  "text": "O plajă situată lângă Cetatea Tønsberg, care oferă activități de recreere pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373373,
+                        59.254048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandodden",
+                  "text": "A beach located near the Tønsberg Fortress, offering water-based leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.373373,
+                        59.254048
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "NO",
     name: { de: "Festung Tønsberg", hu: "Tønsbergi erőd", ro: "Fortăreața Tønsberg", en: "Tønsberg Fortress" },
@@ -6483,7 +6600,124 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-arendal-tyholmen-history-v2.webp",
   },
   {
-    id: "norway-horten-naval-history-v2",
+    id: "norway-horten-naval-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vollane",
+                  "text": "Ein lokaler Strand in Horten mit Blick auf den Fjord und Platz zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "Ein öffentlicher Strand in Horten, der Erholung am Wasser des Oslofjords bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "Ein Strandabschnitt in Horten, der Besuchern Zugang zur norwegischen Küste ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        10.493828,
+                        59.432535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vollane",
+                  "text": "Helyi strand Hortenben, kilátással a fjorda és fürdőzési lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "Nyilvános strand Hortenben, amely kikapcsolódást nyújt az Oslo-fjord partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "Strandszakasz Hortenben, amely hozzáférést biztosít a látogatóknak a norvég tengerparthoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.493828,
+                        59.432535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vollane",
+                  "text": "O plajă locală din Horten care oferă vedere la fjord și spațiu pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "O plajă publică din Horten care oferă relaxare la malul Oslofjordului.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "O porțiune de plajă din Horten care permite vizitatorilor accesul la coasta norvegiană.",
+                  "category": "recreational",
+                  "coords": [
+                        10.493828,
+                        59.432535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vollane",
+                  "text": "A local beach in Horten offering views of the fjord and space for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "A public beach in Horten offering relaxation by the waters of the Oslofjord.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "A beach area in Horten providing visitors access to the Norwegian coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        10.493828,
+                        59.432535
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "NO",
     name: { de: "Marinestützpunkt Horten", hu: "Horteni haditengerészeti bázis", ro: "Baza navală Horten", en: "Horten Naval Base" },

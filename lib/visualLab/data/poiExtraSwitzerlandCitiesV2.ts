@@ -364,6 +364,15 @@ export const switzerlandCitiesV2: POI[] = [
                         6.827292,
                         47.10675
                   ]
+            },
+            {
+                  "name": "Piscine des Mélèzes",
+                  "text": "Eine öffentliche Badeanlage in La Chaux-de-Fonds mit Schwimmbecken im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        6.827809,
+                        47.095005
+                  ]
             }
       ],
       "hu": [
@@ -725,6 +734,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.827292,
                         47.10675
+                  ]
+            },
+            {
+                  "name": "Piscine des Mélèzes",
+                  "text": "Nyilvános fürdőkomplexum La Chaux-de-Fonds-ban kültéri medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.827809,
+                        47.095005
                   ]
             }
       ],
@@ -1088,6 +1106,15 @@ export const switzerlandCitiesV2: POI[] = [
                         6.827292,
                         47.10675
                   ]
+            },
+            {
+                  "name": "Piscine des Mélèzes",
+                  "text": "O bază publică de agrement în La Chaux-de-Fonds, dotată cu piscine în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        6.827809,
+                        47.095005
+                  ]
             }
       ],
       "en": [
@@ -1449,6 +1476,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.827292,
                         47.10675
+                  ]
+            },
+            {
+                  "name": "Piscine des Mélèzes",
+                  "text": "A public bathing facility in La Chaux-de-Fonds featuring outdoor swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        6.827809,
+                        47.095005
                   ]
             }
       ]
@@ -1912,6 +1948,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.479345,
                         47.178421
                   ]
+            },
+            {
+                  "name": "Badi Trubikon",
+                  "text": "Ein Sportzentrum in Zug mit Badeanlagen direkt am Ufer des Zugersees.",
+                  "category": "recreational",
+                  "coords": [
+                        8.504485,
+                        47.139177
+                  ]
             }
       ],
       "hu": [
@@ -2282,6 +2327,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.479345,
                         47.178421
+                  ]
+            },
+            {
+                  "name": "Badi Trubikon",
+                  "text": "Sportközpont Zugban, fürdőzési lehetőséggel közvetlenül a Zugi-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        8.504485,
+                        47.139177
                   ]
             }
       ],
@@ -2654,6 +2708,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.479345,
                         47.178421
                   ]
+            },
+            {
+                  "name": "Badi Trubikon",
+                  "text": "Un centru sportiv în Zug cu facilități de scăldat pe malul lacului Zug.",
+                  "category": "recreational",
+                  "coords": [
+                        8.504485,
+                        47.139177
+                  ]
             }
       ],
       "en": [
@@ -3024,6 +3087,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.479345,
                         47.178421
+                  ]
+            },
+            {
+                  "name": "Badi Trubikon",
+                  "text": "A sports center in Zug with bathing facilities located on the shores of Lake Zug.",
+                  "category": "recreational",
+                  "coords": [
+                        8.504485,
+                        47.139177
                   ]
             }
       ]
@@ -6349,6 +6421,24 @@ export const switzerlandCitiesV2: POI[] = [
                         8.002022,
                         47.37894
                   ]
+            },
+            {
+                  "name": "Biobad Biberstein",
+                  "text": "Ein ökologischer Wasserpark in der Nähe von Aarau.",
+                  "category": "recreational",
+                  "coords": [
+                        8.082419,
+                        47.411818
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "Ein Freibad in der Region Aarau für sommerliches Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
+                  ]
             }
       ],
       "hu": [
@@ -6836,6 +6926,24 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.002022,
                         47.37894
+                  ]
+            },
+            {
+                  "name": "Biobad Biberstein",
+                  "text": "Ökológiai vízi park Aarau közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.082419,
+                        47.411818
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "Szabadtéri fürdő Aarau régiójában nyári úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
                   ]
             }
       ],
@@ -7325,6 +7433,24 @@ export const switzerlandCitiesV2: POI[] = [
                         8.002022,
                         47.37894
                   ]
+            },
+            {
+                  "name": "Biobad Biberstein",
+                  "text": "Un parc acvatic ecologic situat lângă Aarau.",
+                  "category": "recreational",
+                  "coords": [
+                        8.082419,
+                        47.411818
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "Un ștrand în regiunea Aarau pentru înot pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
+                  ]
             }
       ],
       "en": [
@@ -7812,6 +7938,24 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.002022,
                         47.37894
+                  ]
+            },
+            {
+                  "name": "Biobad Biberstein",
+                  "text": "An ecological water park located near Aarau.",
+                  "category": "recreational",
+                  "coords": [
+                        8.082419,
+                        47.411818
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Suhr-Buchs",
+                  "text": "An outdoor pool in the Aarau region for summer swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        8.083702,
+                        47.380036
                   ]
             }
       ]
@@ -10858,6 +11002,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.696043,
                         47.321146
                   ]
+            },
+            {
+                  "name": "Strandbad Maur",
+                  "text": "Ein Strandbad am Greifensee bei Uster, das Möglichkeiten zum Schwimmen und Sonnenbaden bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.675246,
+                        47.345378
+                  ]
             }
       ],
       "hu": [
@@ -11354,6 +11507,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.696043,
                         47.321146
+                  ]
+            },
+            {
+                  "name": "Strandbad Maur",
+                  "text": "Strand a Greifensee partján Uster közelében, úszási és napozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.675246,
+                        47.345378
                   ]
             }
       ],
@@ -11852,6 +12014,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.696043,
                         47.321146
                   ]
+            },
+            {
+                  "name": "Strandbad Maur",
+                  "text": "Un ștrand pe malul lacului Greifensee lângă Uster, oferind facilități pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.675246,
+                        47.345378
+                  ]
             }
       ],
       "en": [
@@ -12349,6 +12520,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.696043,
                         47.321146
                   ]
+            },
+            {
+                  "name": "Strandbad Maur",
+                  "text": "A beach resort on Lake Greifensee near Uster, offering swimming and sunbathing areas.",
+                  "category": "recreational",
+                  "coords": [
+                        8.675246,
+                        47.345378
+                  ]
             }
       ]
 },
@@ -12820,6 +13000,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.311948,
                         47.080219
                   ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Ein Seebad in Emmen für Wassersport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
+                  ]
             }
       ],
       "hu": [
@@ -13244,6 +13433,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.311948,
                         47.080219
+                  ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Tavi strand Emmenben vízi sportokhoz és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
                   ]
             }
       ],
@@ -13670,6 +13868,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.311948,
                         47.080219
                   ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "Un ștrand la lac în Emmen pentru sporturi nautice și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
+                  ]
             }
       ],
       "en": [
@@ -14095,6 +14302,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.311948,
                         47.080219
                   ]
+            },
+            {
+                  "name": "Seebad",
+                  "text": "A lakeside bath in Emmen for water sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.318638,
+                        47.054599
+                  ]
             }
       ]
 },
@@ -14476,6 +14692,24 @@ export const switzerlandCitiesV2: POI[] = [
                         8.5952,
                         47.417408
                   ]
+            },
+            {
+                  "name": "Freibad Oberdorf",
+                  "text": "Ein Freibad in Dübendorf mit Sportbecken und Rutschen für den sommerlichen Badespaß.",
+                  "category": "recreational",
+                  "coords": [
+                        8.624482,
+                        47.393594
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "Einer der bedeutendsten Zoos in Europa, der eine große Vielfalt an Tieren in naturnah gestalteten Gehegen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
+                  ]
             }
       ],
       "hu": [
@@ -14810,6 +15044,24 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.5952,
                         47.417408
+                  ]
+            },
+            {
+                  "name": "Freibad Oberdorf",
+                  "text": "Dübendorfi szabadtéri strand sportmedencével és csúszdákkal a nyári szórakozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.624482,
+                        47.393594
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "Európa egyik legjelentősebb állatkertje, amely rengeteg állatfajt mutat be természetes környezetükben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
                   ]
             }
       ],
@@ -15146,6 +15398,24 @@ export const switzerlandCitiesV2: POI[] = [
                         8.5952,
                         47.417408
                   ]
+            },
+            {
+                  "name": "Freibad Oberdorf",
+                  "text": "Un ștrand în Dübendorf cu piscină olimpică și tobogane pentru distracție pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        8.624482,
+                        47.393594
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "Una dintre cele mai importante grădini zoologice din Europa, care prezintă o mare varietate de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
+                  ]
             }
       ],
       "en": [
@@ -15480,6 +15750,24 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.5952,
                         47.417408
+                  ]
+            },
+            {
+                  "name": "Freibad Oberdorf",
+                  "text": "An outdoor pool in Dübendorf with sports pools and slides for summer fun.",
+                  "category": "recreational",
+                  "coords": [
+                        8.624482,
+                        47.393594
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "One of the most significant zoos in Europe, showcasing a wide variety of animals in naturalistic habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
                   ]
             }
       ]
@@ -38127,7 +38415,2176 @@ export const switzerlandCitiesV2: POI[] = [
     image: "/poi-images/switzerland-buchs-sg-cities-v2.webp",
   },
   {
-    id: "switzerland-wallisellen-cities-v2", "sights": {"de": [{"name": "Burgstelle Schiterburg", "text": "Die Überreste einer mittelalterlichen Burgstelle bei Wallisellen.", "category": "historical", "coords": [8.586579, 47.391178]}, {"name": "Moos Schönenhof", "text": "Ein Naturschutzgebiet mit wertvollen Lebensräumen für Pflanzen und Tiere.", "category": "natural", "coords": [8.609503, 47.409845]}, {"name": "Ortsmuseum Schwamendingen", "text": "Ein lokales Museum, das die Geschichte des Stadtteils dokumentiert.", "category": "museum", "coords": [8.578153, 47.401127]}, {"name": "Naturschutzgebiet Gubel", "text": "Ein geschütztes Naturareal in der Umgebung von Wallisellen.", "category": "natural", "coords": [8.615194, 47.435001]}, {"name": "Ortsmuseum Wallisellen", "text": "Das Museum vermittelt Einblicke in die Dorfgeschichte von Wallisellen.", "category": "museum", "coords": [8.59792, 47.418174]}, {"name": "Leutschenpark", "text": "Ein moderner öffentlicher Park mit markanten blauen Stahlelementen.", "category": "park", "coords": [8.556109, 47.417553]}, {"name": "Andreaspark", "text": "Eine Grünanlage im Norden von Zürich bei Wallisellen.", "category": "park", "coords": [8.555563, 47.413487]}, {"name": "Ueberlandpark", "text": "Ein linearer Park, der auf der Überdeckung einer Autobahn angelegt wurde.", "category": "park", "coords": [8.565998, 47.407528]}, {"name": "Föhrlibuck", "text": "Föhrlibuck ist ein bemerkenswerter natürlicher Aussichtspunkt in der Schweizer Stadt Wallisellen. Er bietet Besuchern weitreichende Panoramen über die umliegende regionale Landschaft. Wer hierher kommt, darf sich auf friedliche Momente und hervorragende Möglichkeiten für die Landschaftsfotografie freuen.", "category": "natural", "coords": [8.610682, 47.407208]}, {"name": "Grevyzebra", "text": "Eine Tierart im Zoo Zürich, die für ihre feinen Streifen bekannt ist.", "category": "landmark", "coords": [8.578752, 47.388551]}, {"name": "Wasserrad", "text": "Ein historisches oder dekoratives Wasserrad als lokale Sehenswürdigkeit.", "category": "landmark", "coords": [8.568396, 47.40067]}, {"name": "Alpenpanorama", "text": "Ein Ort mit beeindruckender Aussicht auf die Alpenkette.", "category": "natural", "coords": [8.594258, 47.421121]}, {"name": "Nacktmull", "text": "Eine interessante Tierart, die in einer spezialisierten Anlage beobachtet werden kann.", "category": "landmark", "coords": [8.577678, 47.389087]}, {"name": "Dreigemeindestein", "text": "Ein Grenzstein, der den Treffpunkt dreier Gemeinden markiert.", "category": "historical", "coords": [8.628968, 47.408713]}, {"name": "NiQo Kunstatelier und Galerie", "text": "Ein Atelier und Ausstellungsraum für zeitgenössische Kunst.", "category": "museum", "coords": [8.601405, 47.403893]}, {"name": "Longtang", "text": "Ein unabhängiger Kunstraum für zeitgenössische Ausstellungen und Projekte.", "category": "cultural", "coords": [8.562609, 47.415031]}, {"name": "Aussichtsturm Hardwald", "text": "Ein Aussichtspunkt im Hardwald-Waldgebiet bei Wallisellen.", "category": "natural", "coords": [8.600223, 47.436071]}, {"name": "Aquarium", "text": "Eine Ausstellung verschiedener Wasserbewohner in einer zoologischen Einrichtung.", "category": "landmark", "coords": [8.609537, 47.404272]}, {"name": "Graffland", "text": "Ein Ort für Street-Art und kreative Ausdrucksformen.", "category": "cultural", "coords": [8.56796, 47.421595]}, {"name": "Maria Frieden", "text": "Eine katholische Kirche in der Gemeinde Wallisellen.", "category": "religious", "coords": [8.618253, 47.394944]}, {"name": "Kirche St. Gallus", "text": "Ein sakrales Bauwerk, das dem heiligen Gallus geweiht ist.", "category": "religious", "coords": [8.579249, 47.40204]}, {"name": "Alte Kirche St. Niklaus", "text": "Die historische Kirche im Zentrum von Zürich-Schwamendingen.", "category": "religious", "coords": [8.574142, 47.403659]}, {"name": "Stefanskirche", "text": "Eine moderne evangelisch-reformierte Kirche im Stadtteil Hirzenbach.", "category": "religious", "coords": [8.585312, 47.401557]}, {"name": "Reformiertes Kirchenzentrum Saatlen", "text": "Ein modernes kirchliches Gemeindezentrum im Quartier Saatlen.", "category": "religious", "coords": [8.564076, 47.410289]}, {"name": "Evangelisch-Reformierte Kirche", "text": "Die lokale reformierte Kirche dient der Gemeinde als Gottesdienststätte.", "category": "religious", "coords": [8.593457, 47.414707]}, {"name": "St. Anna", "text": "Eine der heiligen Anna geweihte Kapelle oder Kirche.", "category": "religious", "coords": [8.568175, 47.433678]}, {"name": "St. Michael", "text": "Die katholische Pfarrkirche der Gemeinde Dietlikon bei Wallisellen.", "category": "religious", "coords": [8.614092, 47.421804]}, {"name": "Pfarrkirche St. Antonius", "text": "Die markante katholische Kirche im Zentrum von Wallisellen.", "category": "religious", "coords": [8.590171, 47.417056]}, {"name": "Turm von Rieden", "text": "Ein markanter Turm im Ortsteil Rieden bei Wallisellen.", "category": "tower", "coords": [8.598132, 47.419161]}, {"name": "Unterer Katzensee", "text": "Ein See in Wallisellen, der zum Spazierengehen und Entspannen einlädt.", "category": "natural", "coords": [8.490574, 47.431289]}, {"name": "Oberer Katzensee", "text": "Ein See in Wallisellen, der zum Spazierengehen und Entspannen einlädt.", "category": "natural", "coords": [8.497333, 47.433687]}, {"name": "GWW Hardhof, Anreicherungsbecken 1", "text": "Ein See in Wallisellen, der zum Spazierengehen und Verweilen einlädt.", "category": "natural", "coords": [8.50276, 47.394767]}, {"name": "GWW Hardhof, Anreicherungsbecken 2", "text": "Ein See in Wallisellen, der zum Spazierengehen und Verweilen einlädt.", "category": "natural", "coords": [8.499338, 47.394478]}, {"name": "GWW Hardhof, Anreicherungsbecken 3", "text": "Ein See in Wallisellen, der zum Spazierengehen und Verweilen einlädt.", "category": "natural", "coords": [8.495741, 47.394364]}, {"name": "Zürichsee", "text": "Ein See in Wallisellen, der zum Spazierengehen und Genießen der Aussicht einlädt.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Greifensee", "text": "Ein See in Wallisellen, der zum Spazierengehen und Genießen der Natur einlädt.", "category": "natural", "coords": [8.679963, 47.347352]}, {"name": "Ziegelhütte", "text": "Ziegelhütte ist ein beliebter Familientreffpunkt in Wallisellen in der Schweiz. Das Gelände ist mit einem Spielplatz ausgestattet, der die Fantasie seiner jungen Besucher anregen soll. Es ist ein ideales Ziel für Eltern, die sich einen sicheren und aktiven Ausflug ins Freie wünschen.", "category": "family", "coords": [8.573939, 47.398757]}, {"name": "Saatlen-Grünzug", "text": "Der Saatlen-Grünzug verläuft entlang eines grünen Korridors in Wallisellen und umfasst einen einladenden Familienspielplatz. Diese Schweizer Grünfläche bietet sowohl Natur als auch Spielgeräte für einheimische und besuchende Familien. Sie erwartet eine entspannende Umgebung, in der Kinder im Grünen frei spielen können.", "category": "family", "coords": [8.568273, 47.405982]}, {"name": "GZ Hirzenbach", "text": "Das Gemeinschaftszentrum GZ Hirzenbach verfügt über einen familienfreundlichen Spielplatz direkt außerhalb des Hauptgebiets von Wallisellen. Dieser Schweizer Begegnungsort wurde geschaffen, um soziale Interaktion und spielerische Aktivitäten für Kinder zu fördern. Familien erwarten vielfältige Spielgeräte, begleitet von gemeinschaftsorientierten Einrichtungen.", "category": "family", "coords": [8.5915, 47.40215]}, {"name": "Herzogenmühle", "text": "Lokal als Herzogenmühle bekannt, ist dieser Spielplatz ein fantastisches Ausflugsziel für Kinder in Wallisellen. In einem Schweizer Wohnviertel gelegen, bietet der Spielraum den Kleinsten die Möglichkeit zum Klettern und Rutschen. Besucher werden die ruhige Umgebung schätzen, die für einen entspannten Nachmittag voller Familienspaß gestaltet wurde.", "category": "family", "coords": [8.572566, 47.405432]}, {"name": "trueVR Center", "text": "Eine Spielhalle in Wallisellen, die Unterhaltung für Familien bietet.", "category": "family", "coords": [8.626292, 47.414221]}, {"name": "Kinder Indoor Spielplatz", "text": "Der Kinder Indoor Spielplatz ist eine beliebte wetterunabhängige Lösung für Familien in Wallisellen. Dieser Schweizer Indoor-Spielplatz bietet abwechslungsreiche Anlagen, die speziell für energiegeladene Kinder entwickelt wurden. Erwarten Sie eine lebendige, geschlossene Umgebung, die perfekt ist, um sich an Regentagen auszutoben.", "category": "family", "coords": [8.560211, 47.413873]}, {"name": "Adventure Arena", "text": "Eine Spielhalle in Wallisellen, die Unterhaltung für Familien bietet.", "category": "family", "coords": [8.603079, 47.394919]}, {"name": "Auzelg-Opfikonstrasse", "text": "Der Spielplatz an der Auzelg-Opfikonstrasse ist ein leicht zugänglicher Anlaufpunkt für Familien, die in Wallisellen unterwegs sind. Der Schweizer Freizeitort richtet sich an Kinder, die eine schnelle Spieleinheit suchen. Familien erwartet eine bescheidene, aber unterhaltsame Anlage, die sich für eine spontane Pause im Freien eignet.", "category": "family", "coords": [8.569607, 47.418065]}, {"name": "Spielplatz Robinson/Zelgli", "text": "Der Spielplatz Robinson/Zelgli verbindet Abenteuer mit traditionellem Spiel und ist ein sehr geschätztes Familienziel in Wallisellen. Dieser Schweizer Ort gibt Kindern die Freiheit, vielfältige Kletter- und Spielgeräte zu erkunden. Er verspricht ein fesselndes Outdoor-Erlebnis für Besucher verschiedenen Alters.", "category": "family", "coords": [8.61312, 47.393302]}, {"name": "Mattenhof", "text": "Eingebettet in Wallisellen, verfügt Mattenhof über einen ausgewiesenen Außenbereich, der für die Familienerholung vorgesehen ist. Der Schweizer Spielplatz bietet die wichtigsten Geräte, damit Kinder einen Nachmittag im Freien genießen können. Eltern können sich auf eine gepflegte Umgebung im Viertel freuen, die zum aktiven Spielen anregt.", "category": "family", "coords": [8.590024, 47.397837]}, {"name": "Waldgarten", "text": "Waldgarten verleiht der typischen Spielplatzgestaltung in der Stadt Wallisellen einen Hauch von Natur. Dieser Schweizer Familienort zeichnet sich durch seine begrünte Umgebung aus und integriert Spielgeräte in eine gartenähnliche Kulisse. Kinder werden sich über einen Raum freuen, der ein wenig vom städtischen Lärm abgeschirmt wirkt.", "category": "family", "coords": [8.555428, 47.4042]}, {"name": "Andreaspark A", "text": "Der Andreaspark A liegt in einem größeren Erholungsgebiet und ist ein spezieller Spielplatz für Familien, die Wallisellen besuchen. Der Schweizer Park bietet moderne Spielanlagen, die Kinder beschäftigen und körperlich aktiv halten. Es erwartet Sie eine weitläufige, gemeinschaftsorientierte Zone, die sich ideal für Wochenendausflüge eignet.", "category": "family", "coords": [8.558249, 47.413154]}, {"name": "Auhof (Freibad)", "text": "Der Spielbereich am Auhof (Freibad) befindet sich neben dem Freibad und bietet Familien in Wallisellen eine zusätzliche Portion Spaß. Dieser Schweizer Spielplatz wird oft zusammen mit den Schwimmanlagen besucht und bietet Aktivitäten auf dem Trockenen für Kinder. Er garantiert eine fröhliche Atmosphäre, in der Kinder nach dem Schwimmen interagieren können.", "category": "family", "coords": [8.570133, 47.407752]}, {"name": "Roswiesen", "text": "Roswiesen ist ein praktischer Quartiersspielplatz, der den ansässigen Familien in Wallisellen dient. Er befindet sich in einer ruhigen Schweizer Wohnzone und bietet alle notwendigen Elemente für die Unterhaltung von Kindern im Freien. Besucher können sich auf einen übersichtlichen und sicheren Ort für einen lockeren Nachmittag freuen.", "category": "family", "coords": [8.577731, 47.405382]}, {"name": "Spielplatz Schörli-Grünzug", "text": "Als Teil eines umfassenderen Grünprojekts bietet der Spielplatz Schörli-Grünzug eine natürliche Spielumgebung in Wallisellen. Familien, die diesen Schweizer Weg erkunden, entdecken ansprechende Spielgeräte, die sich nahtlos in die Landschaftsgestaltung einfügen. Er verspricht eine harmonische Auszeit im Freien für energiegeladene kleine Besucher.", "category": "family", "coords": [8.559197, 47.410075]}, {"name": "Buchenpark", "text": "Umgeben von altem Baumbestand, integriert der Buchenpark einen familienfreundlichen Spielbereich im Herzen von Wallisellen. Der Schweizer Park bietet schattige Abschnitte, in denen Kinder auch an sonnigen Tagen angenehm spielen können. Erwarten Sie eine ruhige städtische Anlage, die von Eltern auf der Suche nach Entspannung und Spaß bevorzugt wird.", "category": "family", "coords": [8.590557, 47.411504]}, {"name": "Balacier- und Kletterpark", "text": "Der Balancier- und Kletterpark ist so konzipiert, dass er Beweglichkeit und Gleichgewicht testet, und stellt einen abenteuerlichen Familienort in Wallisellen dar. Kinder, die diesen Schweizer Spielplatz besuchen, können sich an verschiedenen Kletter- und Balanciergeräten herausfordern. Es ist eine hervorragende Umgebung, um motorische Fähigkeiten zu entwickeln und gleichzeitig die Natur zu genießen.", "category": "family", "coords": [8.588281, 47.417806]}, {"name": "Schulschwimmanlage Stettbach", "text": "Die Schulschwimmanlage Stettbach in Wallisellen ist eine Einrichtung für Schwimmer.", "category": "family", "coords": [8.580707, 47.401629]}, {"name": "Frei- und Hallenbad Bruggwiesen Opfikon", "text": "Das Frei- und Hallenbad Bruggwiesen Opfikon in Wallisellen bietet verschiedene Schwimmbecken.", "category": "family", "coords": [8.569259, 47.432457]}, {"name": "Planschbecken Wahlenpark", "text": "Das Planschbecken Wahlenpark in Wallisellen ist ideal für kleine Kinder.", "category": "family", "coords": [8.541041, 47.415173]}, {"name": "Water World Wallisellen", "text": "Die Water World Wallisellen ist ein Sportzentrum mit vielfältigen Wasserangeboten.", "category": "family", "coords": [8.5952, 47.417408]}, {"name": "Voliere Seebach", "text": "Die Voliere Seebach in Wallisellen ermöglicht die Beobachtung von Vögeln.", "category": "family", "coords": [8.548569, 47.42319]}, {"name": "Planschbecken Föhrenwald", "text": "Das Planschbecken Föhrenwald in Wallisellen bietet Wasserspaß für Kinder.", "category": "family", "coords": [8.541697, 47.405836]}], "hu": [{"name": "Burgstelle Schiterburg", "text": "Egy középkori várhely maradványai Wallisellen közelében.", "category": "historical", "coords": [8.586579, 47.391178]}, {"name": "Moos Schönenhof", "text": "Természetvédelmi terület értékes növény- és állatvilággal.", "category": "natural", "coords": [8.609503, 47.409845]}, {"name": "Ortsmuseum Schwamendingen", "text": "Helytörténeti múzeum, amely a városrész múltját mutatja be.", "category": "museum", "coords": [8.578153, 47.401127]}, {"name": "Naturschutzgebiet Gubel", "text": "Védett természeti terület Wallisellen környékén.", "category": "natural", "coords": [8.615194, 47.435001]}, {"name": "Ortsmuseum Wallisellen", "text": "A múzeum betekintést nyújt Wallisellen falutörténetébe.", "category": "museum", "coords": [8.59792, 47.418174]}, {"name": "Leutschenpark", "text": "Modern közpark jellegzetes kék acélelemekkel.", "category": "park", "coords": [8.556109, 47.417553]}, {"name": "Andreaspark", "text": "Park Zürich északi részén, Wallisellen közelében.", "category": "park", "coords": [8.555563, 47.413487]}, {"name": "Ueberlandpark", "text": "Autópálya-lefedés felett kialakított lineáris park.", "category": "park", "coords": [8.565998, 47.407528]}, {"name": "Föhrlibuck", "text": "A Föhrlibuck egy figyelemre méltó természetes kilátópont, amely a svájci Wallisellen városában található. A látogatók számára kiterjedt panorámát nyújt a környező regionális tájra. Az ide érkezők békés pillanatokra és a tájképek fotózásának kiváló lehetőségeire számíthatnak.", "category": "natural", "coords": [8.610682, 47.407208]}, {"name": "Grevyzebra", "text": "A Zürichi Állatkert egyik állatfaja, amely finom csíkozásáról ismert.", "category": "landmark", "coords": [8.578752, 47.388551]}, {"name": "Wasserrad", "text": "Történelmi vagy dekoratív vízkerék, mint helyi látványosság.", "category": "landmark", "coords": [8.568396, 47.40067]}, {"name": "Alpenpanorama", "text": "Helyszín lenyűgöző kilátással az Alpok vonulataira.", "category": "natural", "coords": [8.594258, 47.421121]}, {"name": "Nacktmull", "text": "Érdekes állatfaj, amely egy speciális kifutóban tekinthető meg.", "category": "landmark", "coords": [8.577678, 47.389087]}, {"name": "Dreigemeindestein", "text": "Határkő, amely három község találkozási pontját jelzi.", "category": "historical", "coords": [8.628968, 47.408713]}, {"name": "NiQo Kunstatelier und Galerie", "text": "Kortárs művészeti műhely és kiállítótér.", "category": "museum", "coords": [8.601405, 47.403893]}, {"name": "Longtang", "text": "Független művészeti tér kortárs kiállítások és projektek számára.", "category": "cultural", "coords": [8.562609, 47.415031]}, {"name": "Aussichtsturm Hardwald", "text": "Kilátópont a Wallisellen melletti Hardwald erdőben.", "category": "natural", "coords": [8.600223, 47.436071]}, {"name": "Aquarium", "text": "Különféle vízi élőlények kiállítása egy állatkerti létesítményben.", "category": "landmark", "coords": [8.609537, 47.404272]}, {"name": "Graffland", "text": "Street-art és kreatív önkifejezés helyszíne.", "category": "cultural", "coords": [8.56796, 47.421595]}, {"name": "Maria Frieden", "text": "Katolikus templom Wallisellen községben.", "category": "religious", "coords": [8.618253, 47.394944]}, {"name": "Kirche St. Gallus", "text": "Szent Gál tiszteletére szentelt egyházi épület.", "category": "religious", "coords": [8.579249, 47.40204]}, {"name": "Alte Kirche St. Niklaus", "text": "Történelmi templom Zürich-Schwamendingen központjában.", "category": "religious", "coords": [8.574142, 47.403659]}, {"name": "Stefanskirche", "text": "Modern evangélikus-református templom Hirzenbach városrészben.", "category": "religious", "coords": [8.585312, 47.401557]}, {"name": "Reformiertes Kirchenzentrum Saatlen", "text": "Modern egyházi közösségi központ a Saatlen negyedben.", "category": "religious", "coords": [8.564076, 47.410289]}, {"name": "Evangelisch-Reformierte Kirche", "text": "A helyi református templom a közösség istentiszteleti helyeként szolgál.", "category": "religious", "coords": [8.593457, 47.414707]}, {"name": "St. Anna", "text": "Szent Annának szentelt kápolna vagy templom.", "category": "religious", "coords": [8.568175, 47.433678]}, {"name": "St. Michael", "text": "Dietlikon község katolikus plébániatemploma Wallisellen közelében.", "category": "religious", "coords": [8.614092, 47.421804]}, {"name": "Pfarrkirche St. Antonius", "text": "Wallisellen központjának jellegzetes katolikus temploma.", "category": "religious", "coords": [8.590171, 47.417056]}, {"name": "Turm von Rieden", "text": "Jellegzetes torony Rieden településrészen, Wallisellen közelében.", "category": "tower", "coords": [8.598132, 47.419161]}, {"name": "Unterer Katzensee", "text": "Tó Wallisellenben, amely remek hely a sétáláshoz és a pihenéshez.", "category": "natural", "coords": [8.490574, 47.431289]}, {"name": "Oberer Katzensee", "text": "Tó Wallisellenben, amely remek hely a sétáláshoz és a pihenéshez.", "category": "natural", "coords": [8.497333, 47.433687]}, {"name": "GWW Hardhof, Anreicherungsbecken 1", "text": "Tó Wallisellenben, amely alkalmas sétákra és kikapcsolódásra.", "category": "natural", "coords": [8.50276, 47.394767]}, {"name": "GWW Hardhof, Anreicherungsbecken 2", "text": "Tó Wallisellenben, amely alkalmas sétákra és kikapcsolódásra.", "category": "natural", "coords": [8.499338, 47.394478]}, {"name": "GWW Hardhof, Anreicherungsbecken 3", "text": "Tó Wallisellenben, amely alkalmas sétákra és kikapcsolódásra.", "category": "natural", "coords": [8.495741, 47.394364]}, {"name": "Zürichsee", "text": "Tó Wallisellenben, amely ideális sétákhoz és a kilátás élvezetéhez.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Greifensee", "text": "Tó Wallisellenben, amely ideális a természet élvezetéhez és sétákhoz.", "category": "natural", "coords": [8.679963, 47.347352]}, {"name": "Ziegelhütte", "text": "A Ziegelhütte egy népszerű családi találkozóhely a svájci Wallisellen városában. A terület egy olyan játszótérrel van felszerelve, amelyet úgy terveztek, hogy megragadja a fiatal látogatók fantáziáját. Ideális úti cél a biztonságos és aktív szabadtéri kirándulásra vágyó szülők számára.", "category": "family", "coords": [8.573939, 47.398757]}, {"name": "Saatlen-Grünzug", "text": "A Wallisellen egyik zöld folyosója mentén húzódó Saatlen-Grünzug egy barátságos családi játszóteret foglal magába. Ez a svájci zöldterület a természet és a játszóeszközök tökéletes ötvözetét kínálja a helyi és idelátogató családoknak. Pihentető környezettel találkozhatunk, ahol a gyerekek szabadon játszhatnak a zöldben.", "category": "family", "coords": [8.568273, 47.405982]}, {"name": "GZ Hirzenbach", "text": "A GZ Hirzenbach közösségi ház egy családbarát játszótérrel is rendelkezik a központi Wallisellen területének peremén. Ezt a svájci közösségi teret úgy alakították ki, hogy ösztönözze a gyerekek társas interakcióit és játékos tevékenységeit. A családok változatos játszótéri elemekre és közösségi fókuszú létesítményekre számíthatnak.", "category": "family", "coords": [8.5915, 47.40215]}, {"name": "Herzogenmühle", "text": "A helyiek által Herzogenmühle néven ismert játszótér fantasztikus úti cél a Wallisellenbe látogató gyerekek számára. Svájc egyik lakóövezetében található ez a játszótér, amely remek lehetőséget ad a legkisebbeknek a mászásra és csúszdázásra. A látogatók értékelni fogják a csendes környezetet, amely tökéletes egy nyugodt, családi szórakozással teli délutánhoz.", "category": "family", "coords": [8.572566, 47.405432]}, {"name": "trueVR Center", "text": "Szórakoztató központ Wallisellenben, amely kikapcsolódást nyújt a családoknak.", "category": "family", "coords": [8.626292, 47.414221]}, {"name": "Kinder Indoor Spielplatz", "text": "A családok számára minden időjárási körülmény esetén megoldást kínáló Kinder Indoor Spielplatz egy népszerű attrakció Wallisellenben. Ez a svájci beltéri játszóház változatos eszközöket biztosít, amelyeket kifejezetten az energikus gyerekek számára terveztek. Egy élénk, zárt környezetre számíthatunk, amely tökéletes az energia levezetésére az esős napokon.", "category": "family", "coords": [8.560211, 47.413873]}, {"name": "Adventure Arena", "text": "Szórakoztató központ Wallisellenben, amely kikapcsolódást nyújt a családoknak.", "category": "family", "coords": [8.603079, 47.394919]}, {"name": "Auzelg-Opfikonstrasse", "text": "Az utca mentén elhelyezkedő Auzelg-Opfikonstrasse könnyen megközelíthető játszótérként szolgál a Wallisellenben utazók számára. A svájci rekreációs helyszín azokat a gyerekeket szolgálja ki, akik egy gyors játékra vágynak. A családok egy szerény, de szórakoztató elrendezést találnak, amely alkalmas egy spontán szabadtéri szünetre.", "category": "family", "coords": [8.569607, 47.418065]}, {"name": "Spielplatz Robinson/Zelgli", "text": "A kalandot a hagyományos játékkal ötvöző Spielplatz Robinson/Zelgli egy nagyra értékelt családi úti cél Wallisellenben. Ez a svájci terület szabadságot ad a gyerekeknek, hogy felfedezzék a változatos mászó- és játszóeszközöket. Izgalmas szabadtéri élményt ígér a különböző korú látogatók számára.", "category": "family", "coords": [8.61312, 47.393302]}, {"name": "Mattenhof", "text": "A Wallisellenben megbúvó Mattenhof egy kijelölt szabadtéri területtel rendelkezik, amelyet a családi kikapcsolódásra szántak. A svájci játszótér minden alapvető eszközt biztosít a gyerekek számára, hogy élvezhessék a szabadban töltött délutánt. A szülők egy jól karbantartott környékbeli környezetre számíthatnak, amely aktív játékra ösztönöz.", "category": "family", "coords": [8.590024, 47.397837]}, {"name": "Waldgarten", "text": "A Waldgarten egy kis természetet csempész a hagyományos játszótéri elrendezésbe Wallisellen városán belül. A lombos környezetével jellemezhető svájci családi helyszín a játszóeszközöket egy kerthez hasonló környezetbe integrálja. A gyerekek biztosan élvezni fogják ezt a teret, amely kicsit távolabb esik a város zajától.", "category": "family", "coords": [8.555428, 47.4042]}, {"name": "Andreaspark A", "text": "A nagyobb rekreációs övezeten belül található Andreaspark A egy kifejezetten családok számára kialakított játszótér Wallisellenben. A svájci park modern játszólétesítményekkel rendelkezik, amelyeket arra terveztek, hogy lekössék és fizikailag aktívan tartsák a gyerekeket. Tágas, közösségorientált zónára számíthatunk, amely ideális a hétvégi kirándulásokhoz.", "category": "family", "coords": [8.558249, 47.413154]}, {"name": "Auhof (Freibad)", "text": "A strandfürdő mellett található Auhof (Freibad) játszótér extra adag szórakozást nyújt a walliselleni családok számára. Ezt a svájci játszóteret gyakran az úszólétesítményekkel együtt látogatják, így a gyerekeknek szárazföldi tevékenységeket is kínál. Vidám légkört garantál, ahol a gyerekek egy úszás után is játszhatnak egymással.", "category": "family", "coords": [8.570133, 47.407752]}, {"name": "Roswiesen", "text": "A Roswiesen egy praktikus lakótelepi játszótér, amely a Wallisellenben élő családokat szolgálja ki. Egy békés svájci lakóövezetben található, és minden szükséges elemet tartalmaz a gyermekek szabadtéri szórakoztatásához. A látogatók egy egyszerű és biztonságos helyre számíthatnak a hétköznapi délutánokhoz.", "category": "family", "coords": [8.577731, 47.405382]}, {"name": "Spielplatz Schörli-Grünzug", "text": "Egy szélesebb körű zöld kezdeményezés részeként a Spielplatz Schörli-Grünzug természetes játszótéri környezetet kínál Wallisellenben. A svájci sétányt felfedező családok olyan izgalmas eszközöket találnak itt, amelyek zökkenőmentesen illeszkednek a tájba. Harmonikus szabadtéri kikapcsolódást ígér az energikus fiatalok számára.", "category": "family", "coords": [8.559197, 47.410075]}, {"name": "Buchenpark", "text": "Az idős fákkal körülvett Buchenpark egy családbarát játszóteret foglal magába Wallisellen szívében. A svájci park árnyékos részeket is biztosít, ahol a gyerekek még napsütéses napokon is kényelmesen játszhatnak. Nyugodt városi térre számíthatunk, amelyet a pihenésre és szórakozásra vágyó szülők előszeretettel látogatnak.", "category": "family", "coords": [8.590557, 47.411504]}, {"name": "Balacier- und Kletterpark", "text": "Az ügyesség és az egyensúlyérzék próbájára tervezett Balancier- und Kletterpark egy kalandos családi helyszín Wallisellenben. Az erre a svájci játszótérre látogató gyermekek különböző mászó- és egyensúlyozó eszközökön tehetik próbára magukat. Kiváló környezetet biztosít a motoros készségek fejlesztéséhez a szabadtéri játék során.", "category": "family", "coords": [8.588281, 47.417806]}, {"name": "Schulschwimmanlage Stettbach", "text": "A walliselleni Schulschwimmanlage Stettbach egy létesítmény az úszók számára.", "category": "family", "coords": [8.580707, 47.401629]}, {"name": "Frei- und Hallenbad Bruggwiesen Opfikon", "text": "A walliselleni Frei- und Hallenbad Bruggwiesen Opfikon különféle úszómedencéket kínál.", "category": "family", "coords": [8.569259, 47.432457]}, {"name": "Planschbecken Wahlenpark", "text": "A walliselleni Planschbecken Wahlenpark ideális kisgyermekek számára.", "category": "family", "coords": [8.541041, 47.415173]}, {"name": "Water World Wallisellen", "text": "A Water World Wallisellen egy sportközpont változatos vízi kínálattal.", "category": "family", "coords": [8.5952, 47.417408]}, {"name": "Voliere Seebach", "text": "A walliselleni Voliere Seebach lehetővé teszi a madarak megfigyelését.", "category": "family", "coords": [8.548569, 47.42319]}, {"name": "Planschbecken Föhrenwald", "text": "A walliselleni Planschbecken Föhrenwald vízi szórakozást kínál a gyerekeknek.", "category": "family", "coords": [8.541697, 47.405836]}], "ro": [{"name": "Burgstelle Schiterburg", "text": "Rămășițele unui sit fortificat medieval lângă Wallisellen.", "category": "historical", "coords": [8.586579, 47.391178]}, {"name": "Moos Schönenhof", "text": "O rezervație naturală cu habitate valoroase pentru plante și animale.", "category": "natural", "coords": [8.609503, 47.409845]}, {"name": "Ortsmuseum Schwamendingen", "text": "Un muzeu local care documentează istoria cartierului.", "category": "museum", "coords": [8.578153, 47.401127]}, {"name": "Naturschutzgebiet Gubel", "text": "O zonă naturală protejată în împrejurimile localității Wallisellen.", "category": "natural", "coords": [8.615194, 47.435001]}, {"name": "Ortsmuseum Wallisellen", "text": "Muzeul oferă informații despre istoria satului Wallisellen.", "category": "museum", "coords": [8.59792, 47.418174]}, {"name": "Leutschenpark", "text": "Un parc public modern, cu elemente distinctive din oțel albastru.", "category": "park", "coords": [8.556109, 47.417553]}, {"name": "Andreaspark", "text": "Un spațiu verde în nordul orașului Zürich, lângă Wallisellen.", "category": "park", "coords": [8.555563, 47.413487]}, {"name": "Ueberlandpark", "text": "Un parc liniar creat pe acoperișul unei autostrăzi.", "category": "park", "coords": [8.565998, 47.407528]}, {"name": "Föhrlibuck", "text": "Föhrlibuck este un punct de belvedere natural remarcabil, situat în orașul elvețian Wallisellen. Oferă vizitatorilor panorame ample asupra peisajului regional înconjurător. Cei care sosesc aici pot anticipa momente liniștite și oportunități excelente pentru fotografia de peisaj.", "category": "natural", "coords": [8.610682, 47.407208]}, {"name": "Grevyzebra", "text": "O specie de animale de la Grădina Zoologică din Zürich, cunoscută pentru dungile sale fine.", "category": "landmark", "coords": [8.578752, 47.388551]}, {"name": "Wasserrad", "text": "O roată de apă istorică sau decorativă ca atracție locală.", "category": "landmark", "coords": [8.568396, 47.40067]}, {"name": "Alpenpanorama", "text": "Un loc cu o vedere impresionantă spre lanțul Alpilor.", "category": "natural", "coords": [8.594258, 47.421121]}, {"name": "Nacktmull", "text": "O specie interesantă de animale care poate fi observată într-o amenajare specializată.", "category": "landmark", "coords": [8.577678, 47.389087]}, {"name": "Dreigemeindestein", "text": "O piatră de hotar care marchează punctul de întâlnire a trei comune.", "category": "historical", "coords": [8.628968, 47.408713]}, {"name": "NiQo Kunstatelier und Galerie", "text": "Un atelier și spațiu de expoziție pentru artă contemporană.", "category": "museum", "coords": [8.601405, 47.403893]}, {"name": "Longtang", "text": "Un spațiu de artă independent pentru expoziții și projekte contemporane.", "category": "cultural", "coords": [8.562609, 47.415031]}, {"name": "Aussichtsturm Hardwald", "text": "Un punct de belvedere în zona forestieră Hardwald de lângă Wallisellen.", "category": "natural", "coords": [8.600223, 47.436071]}, {"name": "Aquarium", "text": "O expoziție de diverse viețuitoare acvatice într-o instituție zoologică.", "category": "landmark", "coords": [8.609537, 47.404272]}, {"name": "Graffland", "text": "Un loc pentru street-art și forme de exprimare creativă.", "category": "cultural", "coords": [8.56796, 47.421595]}, {"name": "Maria Frieden", "text": "O biserică catolică în comuna Wallisellen.", "category": "religious", "coords": [8.618253, 47.394944]}, {"name": "Kirche St. Gallus", "text": "Un edificiu sacru dedicat Sfântului Gallus.", "category": "religious", "coords": [8.579249, 47.40204]}, {"name": "Alte Kirche St. Niklaus", "text": "Biserica istorică din centrul cartierului Zürich-Schwamendingen.", "category": "religious", "coords": [8.574142, 47.403659]}, {"name": "Stefanskirche", "text": "O biserică evanghelică-reformată modernă în cartierul Hirzenbach.", "category": "religious", "coords": [8.585312, 47.401557]}, {"name": "Reformiertes Kirchenzentrum Saatlen", "text": "Un centru comunitar bisericesc modern în cartierul Saatlen.", "category": "religious", "coords": [8.564076, 47.410289]}, {"name": "Evangelisch-Reformierte Kirche", "text": "Biserica reformată locală servește comunității ca loc de cult.", "category": "religious", "coords": [8.593457, 47.414707]}, {"name": "St. Anna", "text": "O capelă sau biserică dedicată Sfintei Ana.", "category": "religious", "coords": [8.568175, 47.433678]}, {"name": "St. Michael", "text": "Biserica parohială catolică din comuna Dietlikon, lângă Wallisellen.", "category": "religious", "coords": [8.614092, 47.421804]}, {"name": "Pfarrkirche St. Antonius", "text": "Biserica catolică proeminentă din centrul localității Wallisellen.", "category": "religious", "coords": [8.590171, 47.417056]}, {"name": "Turm von Rieden", "text": "Un turn proeminent în cartierul Rieden, lângă Wallisellen.", "category": "tower", "coords": [8.598132, 47.419161]}, {"name": "Unterer Katzensee", "text": "Un lac în Wallisellen, ideal pentru plimbări și relaxare.", "category": "natural", "coords": [8.490574, 47.431289]}, {"name": "Oberer Katzensee", "text": "Un lac în Wallisellen, ideal pentru plimbări și relaxare.", "category": "natural", "coords": [8.497333, 47.433687]}, {"name": "GWW Hardhof, Anreicherungsbecken 1", "text": "Un lac în Wallisellen, potrivit pentru plimbări și relaxare.", "category": "natural", "coords": [8.50276, 47.394767]}, {"name": "GWW Hardhof, Anreicherungsbecken 2", "text": "Un lac în Wallisellen, potrivit pentru plimbări și relaxare.", "category": "natural", "coords": [8.499338, 47.394478]}, {"name": "GWW Hardhof, Anreicherungsbecken 3", "text": "Un lac în Wallisellen, potrivit pentru plimbări și relaxare.", "category": "natural", "coords": [8.495741, 47.394364]}, {"name": "Zürichsee", "text": "Un lac în Wallisellen, ideal pentru plimbări și pentru a admira peisajul.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Greifensee", "text": "Un lac în Wallisellen, perfect pentru a te bucura de natură și plimbări.", "category": "natural", "coords": [8.679963, 47.347352]}, {"name": "Ziegelhütte", "text": "Ziegelhütte reprezintă un loc popular de întâlnire pentru familii în Wallisellen, Elveția. Situl este echipat cu un loc de joacă conceput pentru a capta imaginația micilor săi vizitatori. Este o destinație ideală pentru părinții care doresc o excursie în aer liber sigură și activă.", "category": "family", "coords": [8.573939, 47.398757]}, {"name": "Saatlen-Grünzug", "text": "Amplasat de-a lungul unui coridor verde din Wallisellen, Saatlen-Grünzug încorporează un loc de joacă primitor pentru familii. Acest spațiu verde elvețian oferă atât natură, cât și structuri de joacă pentru familiile locale și cele vizitatoare. Veți descoperi un mediu relaxant, unde copiii se pot juca în voie în mijlocul verdeții.", "category": "family", "coords": [8.568273, 47.405982]}, {"name": "GZ Hirzenbach", "text": "Centrul comunitar GZ Hirzenbach dispune de un loc de joacă potrivit pentru familii, chiar în afara zonei principale a orașului Wallisellen. Acest centru comunitar elvețian este construit pentru a încuraja interacțiunea socială și activitățile ludice pentru copii. Familiile se pot aștepta la structuri de joacă variate, însoțite de facilități axate pe comunitate.", "category": "family", "coords": [8.5915, 47.40215]}, {"name": "Herzogenmühle", "text": "Cunoscut pe plan local sub numele de Herzogenmühle, acest loc de joacă este o destinație fantastică pentru copiii care vizitează Wallisellen. Situat într-un sector rezidențial din Elveția, spațiul de joacă oferă celor mici șansa de a se cățăra și de a se da pe tobogan. Vizitatorii vor aprecia împrejurimile liniștite, concepute pentru o după-amiază calmă de distracție în familie.", "category": "family", "coords": [8.572566, 47.405432]}, {"name": "trueVR Center", "text": "O sală de jocuri în Wallisellen care oferă divertisment pentru familii.", "category": "family", "coords": [8.626292, 47.414221]}, {"name": "Kinder Indoor Spielplatz", "text": "Oferind o soluție indiferent de vreme pentru familii, Kinder Indoor Spielplatz este o atracție populară în Wallisellen. Acest loc de joacă de interior din Elveția oferă structuri variate, special proiectate pentru copiii plini de energie. Așteptați-vă la un mediu închis și vibrant, perfect pentru consumarea energiei în zilele ploioase.", "category": "family", "coords": [8.560211, 47.413873]}, {"name": "Adventure Arena", "text": "O sală de jocuri în Wallisellen care oferă divertisment pentru familii.", "category": "family", "coords": [8.603079, 47.394919]}, {"name": "Auzelg-Opfikonstrasse", "text": "Situat de-a lungul străzii, Auzelg-Opfikonstrasse servește ca un loc de joacă ușor accesibil pentru cei care traversează Wallisellen. Locul de recreere elvețian se adresează copiilor care caută o sesiune rapidă de joacă. Familiile vor găsi o amenajare modestă, dar distractivă, potrivită pentru o pauză spontană în aer liber.", "category": "family", "coords": [8.569607, 47.418065]}, {"name": "Spielplatz Robinson/Zelgli", "text": "Combinând aventura cu joaca tradițională, Spielplatz Robinson/Zelgli este o destinație familială foarte apreciată în Wallisellen. Acest loc elvețian oferă copiilor libertatea de a explora diverse aparate de cățărat și de joacă. Promite o experiență captivantă în aer liber pentru vizitatorii de diferite vârste.", "category": "family", "coords": [8.61312, 47.393302]}, {"name": "Mattenhof", "text": "Cuibărit în Wallisellen, Mattenhof dispune de o zonă în aer liber desemnată, destinată recreerii în familie. Locul de joacă elvețian oferă echipamentele esențiale pentru ca cei mici să se bucure de o după-amiază afară. Părinții pot anticipa un cadru de cartier bine întreținut, care încurajează jocul activ.", "category": "family", "coords": [8.590024, 47.397837]}, {"name": "Waldgarten", "text": "Waldgarten aduce o notă de natură în amenajarea tipică a unui loc de joacă din orașul Wallisellen. Caracterizat de împrejurimile sale pline de frunziș, acest loc elvețian pentru familii integrează echipamentele de joacă într-un cadru asemănător unei grădini. Copiii se vor bucura de un spațiu care pare ușor detașat de zgomotul urban.", "category": "family", "coords": [8.555428, 47.4042]}, {"name": "Andreaspark A", "text": "Situat într-o zonă de recreere mai mare, Andreaspark A este un loc de joacă dedicat familiilor care vizitează Wallisellen. Parcul elvețian oferă facilități moderne de joacă concepute pentru a-i menține pe copii implicați și activi fizic. Vă așteaptă o zonă spațioasă, orientată spre comunitate, ideală pentru ieșirile de weekend.", "category": "family", "coords": [8.558249, 47.413154]}, {"name": "Auhof (Freibad)", "text": "Situată lângă baia în aer liber, zona de joacă de la Auhof (Freibad) adaugă un nivel suplimentar de distracție pentru familiile din Wallisellen. Acest loc de joacă elvețian este adesea vizitat împreună cu facilitățile de înot, oferind activități pe uscat pentru copii. Garantează o atmosferă veselă, unde copiii pot interacționa după o baie.", "category": "family", "coords": [8.570133, 47.407752]}, {"name": "Roswiesen", "text": "Roswiesen este un loc de joacă practic de cartier, care deservește familiile locale din Wallisellen. Aflat într-o zonă rezidențială elvețiană pașnică, prezintă toate elementele necesare pentru amuzamentul în aer liber al copiilor. Vizitatorii pot anticipa un loc simplu și sigur pentru o după-amiază obișnuită.", "category": "family", "coords": [8.577731, 47.405382]}, {"name": "Spielplatz Schörli-Grünzug", "text": "Parte a unei inițiative verzi mai ample, Spielplatz Schörli-Grünzug oferă un cadru natural de joacă în Wallisellen. Familiile care explorează acest traseu elvețian vor descoperi echipamente atractive, perfect integrate în peisaj. Promite o evadare armonioasă în aer liber pentru tinerii plini de energie.", "category": "family", "coords": [8.559197, 47.410075]}, {"name": "Buchenpark", "text": "Înconjurat de copaci maturi, Buchenpark încorporează o zonă de joacă pentru familii în inima orașului Wallisellen. Parcul elvețian oferă secțiuni umbrite, unde copiii se pot juca confortabil chiar și în zilele însorite. Vă așteaptă un spațiu municipal liniștit, preferat de părinții care caută relaxare și distracție.", "category": "family", "coords": [8.590557, 47.411504]}, {"name": "Balacier- und Kletterpark", "text": "Conceput pentru a testa agilitatea și echilibrul, Balancier- und Kletterpark este un loc plin de aventură pentru familii în Wallisellen. Copiii care vizitează acest loc de joacă elvețian se pot provoca pe diverse structuri de cățărat și echilibru. Servește drept un mediu excelent pentru dezvoltarea abilităților motorii, bucurându-se în același timp de aer liber.", "category": "family", "coords": [8.588281, 47.417806]}, {"name": "Schulschwimmanlage Stettbach", "text": "Schulschwimmanlage Stettbach din Wallisellen este o facilitate pentru înotători.", "category": "family", "coords": [8.580707, 47.401629]}, {"name": "Frei- und Hallenbad Bruggwiesen Opfikon", "text": "Frei- und Hallenbad Bruggwiesen Opfikon din Wallisellen oferă diverse piscine.", "category": "family", "coords": [8.569259, 47.432457]}, {"name": "Planschbecken Wahlenpark", "text": "Planschbecken Wahlenpark din Wallisellen este ideal pentru copiii mici.", "category": "family", "coords": [8.541041, 47.415173]}, {"name": "Water World Wallisellen", "text": "Water World Wallisellen este un centru sportiv cu diverse oferte acvatice.", "category": "family", "coords": [8.5952, 47.417408]}, {"name": "Voliere Seebach", "text": "Voliere Seebach din Wallisellen permite observarea păsărilor.", "category": "family", "coords": [8.548569, 47.42319]}, {"name": "Planschbecken Föhrenwald", "text": "Planschbecken Föhrenwald din Wallisellen oferă distracție acvatică pentru copii.", "category": "family", "coords": [8.541697, 47.405836]}], "en": [{"name": "Burgstelle Schiterburg", "text": "The remains of a medieval castle site near Wallisellen.", "category": "historical", "coords": [8.586579, 47.391178]}, {"name": "Moos Schönenhof", "text": "A nature reserve featuring valuable habitats for plants and animals.", "category": "natural", "coords": [8.609503, 47.409845]}, {"name": "Ortsmuseum Schwamendingen", "text": "A local museum documenting the history of the district.", "category": "museum", "coords": [8.578153, 47.401127]}, {"name": "Naturschutzgebiet Gubel", "text": "A protected natural area in the surroundings of Wallisellen.", "category": "natural", "coords": [8.615194, 47.435001]}, {"name": "Ortsmuseum Wallisellen", "text": "The museum offers insights into the village history of Wallisellen.", "category": "museum", "coords": [8.59792, 47.418174]}, {"name": "Leutschenpark", "text": "A modern public park featuring distinctive blue steel elements.", "category": "park", "coords": [8.556109, 47.417553]}, {"name": "Andreaspark", "text": "A green space in the north of Zurich near Wallisellen.", "category": "park", "coords": [8.555563, 47.413487]}, {"name": "Ueberlandpark", "text": "A linear park created on top of a highway enclosure.", "category": "park", "coords": [8.565998, 47.407528]}, {"name": "Föhrlibuck", "text": "Föhrlibuck is a notable natural viewpoint located in the Swiss town of Wallisellen. It provides visitors with sweeping panoramas over the surrounding regional landscape. Those arriving here can look forward to peaceful moments and excellent opportunities for landscape photography.", "category": "natural", "coords": [8.610682, 47.407208]}, {"name": "Grévy's zebra", "text": "A species of animal at the Zurich Zoo, known for its fine stripes.", "category": "landmark", "coords": [8.578752, 47.388551]}, {"name": "Wasserrad", "text": "A historic or decorative water wheel as a local attraction.", "category": "landmark", "coords": [8.568396, 47.40067]}, {"name": "Alpenpanorama", "text": "A location with an impressive view of the Alpine range.", "category": "natural", "coords": [8.594258, 47.421121]}, {"name": "Naked mole-rat", "text": "An interesting species of animal that can be observed in a specialized enclosure.", "category": "landmark", "coords": [8.577678, 47.389087]}, {"name": "Dreigemeindestein", "text": "A boundary stone marking the meeting point of three municipalities.", "category": "historical", "coords": [8.628968, 47.408713]}, {"name": "NiQo Kunstatelier und Galerie", "text": "A studio and exhibition space for contemporary art.", "category": "museum", "coords": [8.601405, 47.403893]}, {"name": "Longtang", "text": "An independent art space for contemporary exhibitions and projects.", "category": "cultural", "coords": [8.562609, 47.415031]}, {"name": "Viewpoint Hardwald", "text": "A viewpoint located in the Hardwald forest area near Wallisellen.", "category": "natural", "coords": [8.600223, 47.436071]}, {"name": "Aquarium", "text": "An exhibition of various aquatic inhabitants in a zoological facility.", "category": "landmark", "coords": [8.609537, 47.404272]}, {"name": "Graffland", "text": "A venue for street art and creative expression.", "category": "cultural", "coords": [8.56796, 47.421595]}, {"name": "Maria Frieden", "text": "A Catholic church in the municipality of Wallisellen.", "category": "religious", "coords": [8.618253, 47.394944]}, {"name": "Kirche St. Gallus", "text": "A sacred building dedicated to Saint Gallus.", "category": "religious", "coords": [8.579249, 47.40204]}, {"name": "Alte Kirche St. Niklaus", "text": "The historic church in the center of Zurich-Schwamendingen.", "category": "religious", "coords": [8.574142, 47.403659]}, {"name": "Stefanskirche", "text": "A modern Evangelical Reformed church in the Hirzenbach district.", "category": "religious", "coords": [8.585312, 47.401557]}, {"name": "Reformiertes Kirchenzentrum Saatlen", "text": "A modern church community center in the Saatlen district.", "category": "religious", "coords": [8.564076, 47.410289]}, {"name": "Evangelisch-Reformierte Kirche", "text": "The local Reformed church serves as a place of worship for the community.", "category": "religious", "coords": [8.593457, 47.414707]}, {"name": "St. Anna", "text": "A chapel or church dedicated to Saint Anne.", "category": "religious", "coords": [8.568175, 47.433678]}, {"name": "St. Michael", "text": "The Catholic parish church of the municipality of Dietlikon near Wallisellen.", "category": "religious", "coords": [8.614092, 47.421804]}, {"name": "Pfarrkirche St. Antonius", "text": "The prominent Catholic church in the center of Wallisellen.", "category": "religious", "coords": [8.590171, 47.417056]}, {"name": "Turm von Rieden", "text": "A prominent tower in the Rieden district near Wallisellen.", "category": "tower", "coords": [8.598132, 47.419161]}, {"name": "Unterer Katzensee", "text": "A lake in Wallisellen, great for walking and relaxation.", "category": "natural", "coords": [8.490574, 47.431289]}, {"name": "Oberer Katzensee", "text": "A lake in Wallisellen, great for walking and relaxation.", "category": "natural", "coords": [8.497333, 47.433687]}, {"name": "GWW Hardhof, Anreicherungsbecken 1", "text": "A lake in Wallisellen, perfect for walking and relaxing.", "category": "natural", "coords": [8.50276, 47.394767]}, {"name": "GWW Hardhof, Anreicherungsbecken 2", "text": "A lake in Wallisellen, perfect for walking and relaxing.", "category": "natural", "coords": [8.499338, 47.394478]}, {"name": "GWW Hardhof, Anreicherungsbecken 3", "text": "A lake in Wallisellen, perfect for walking and relaxing.", "category": "natural", "coords": [8.495741, 47.394364]}, {"name": "Lake Zurich", "text": "A lake in Wallisellen, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [8.74144, 47.279095]}, {"name": "Greifensee", "text": "A lake in Wallisellen, perfect for enjoying nature and walks.", "category": "natural", "coords": [8.679963, 47.347352]}, {"name": "Ziegelhütte", "text": "Ziegelhütte represents a popular family gathering spot within Wallisellen, Switzerland. The site is equipped with a playground designed to capture the imagination of its young visitors. It is an ideal destination for parents wanting a safe and active outdoor excursion.", "category": "family", "coords": [8.573939, 47.398757]}, {"name": "Saatlen-Grünzug", "text": "Set along a green corridor in Wallisellen, Saatlen-Grünzug incorporates a welcoming family playground. This Swiss green space provides both nature and play structures for local and visiting families. You will encounter a relaxing environment where children can play freely amid the greenery.", "category": "family", "coords": [8.568273, 47.405982]}, {"name": "GZ Hirzenbach", "text": "The community center GZ Hirzenbach features a family-friendly playground just outside the main Wallisellen area. This Swiss community hub is built to encourage social interaction and playful activities for kids. Families can expect varied playground structures accompanied by community-focused facilities.", "category": "family", "coords": [8.5915, 47.40215]}, {"name": "Herzogenmühle", "text": "Known locally as Herzogenmühle, this playground is a fantastic destination for children visiting Wallisellen. Set in a residential sector of Switzerland, the play space gives younger ones the chance to climb and slide. Visitors will appreciate the quiet surroundings designed for a calm afternoon of family fun.", "category": "family", "coords": [8.572566, 47.405432]}, {"name": "trueVR Center", "text": "An amusement arcade in Wallisellen providing entertainment for families.", "category": "family", "coords": [8.626292, 47.414221]}, {"name": "Kinder Indoor Spielplatz", "text": "Offering an all-weather solution for families, the Kinder Indoor Spielplatz is a popular attraction in Wallisellen. This indoor playground in Switzerland provides varied structures specifically engineered for energetic kids. Expect a vibrant enclosed environment perfect for burning off energy on rainy days.", "category": "family", "coords": [8.560211, 47.413873]}, {"name": "Adventure Arena", "text": "An amusement arcade in Wallisellen providing entertainment for families.", "category": "family", "coords": [8.603079, 47.394919]}, {"name": "Auzelg-Opfikonstrasse", "text": "Positioned along the street, Auzelg-Opfikonstrasse serves as an easily accessible playground for those traversing Wallisellen. The Swiss recreational spot caters to children seeking a quick play session. Families will find a modest but entertaining setup suitable for a spontaneous outdoor break.", "category": "family", "coords": [8.569607, 47.418065]}, {"name": "Spielplatz Robinson/Zelgli", "text": "Combining adventure with traditional play, Spielplatz Robinson/Zelgli is a highly regarded family destination in Wallisellen. This Swiss site gives kids the freedom to explore diverse climbing and play apparatuses. It promises an engaging outdoor experience for visitors of various ages.", "category": "family", "coords": [8.61312, 47.393302]}, {"name": "Mattenhof", "text": "Nestled in Wallisellen, Mattenhof features a designated outdoor area intended for family recreation. The Swiss playground provides essential equipment for children to enjoy an afternoon outdoors. Parents can anticipate a well-maintained neighborhood setting that encourages active play.", "category": "family", "coords": [8.590024, 47.397837]}, {"name": "Waldgarten", "text": "Waldgarten brings a touch of nature to the typical playground layout within the city of Wallisellen. Characterized by its leafy surroundings, this Swiss family spot integrates play equipment into a garden-like setting. Children will delight in a space that feels slightly removed from urban noise.", "category": "family", "coords": [8.555428, 47.4042]}, {"name": "Andreaspark A", "text": "Situated within a larger recreational area, Andreaspark A is a dedicated playground for families visiting Wallisellen. The Swiss park provides modern play facilities designed to keep kids engaged and physically active. Expect a spacious, community-oriented zone ideal for weekend outings.", "category": "family", "coords": [8.558249, 47.413154]}, {"name": "Auhof (Freibad)", "text": "Located by the open-air bath, the play area at Auhof (Freibad) adds an extra layer of fun for families in Wallisellen. This Swiss playground is often visited alongside the swimming facilities, providing dry-land activities for children. It guarantees a cheerful atmosphere where kids can interact after a swim.", "category": "family", "coords": [8.570133, 47.407752]}, {"name": "Roswiesen", "text": "Roswiesen is a practical neighborhood playground serving the local families of Wallisellen. Found in a peaceful Swiss residential zone, it features all the necessary elements for children's outdoor amusement. Visitors can look forward to a straightforward and safe place for a casual afternoon.", "category": "family", "coords": [8.577731, 47.405382]}, {"name": "Spielplatz Schörli-Grünzug", "text": "Part of a broader green initiative, Spielplatz Schörli-Grünzug offers a natural playground setting in Wallisellen. Families exploring this Swiss path will discover engaging equipment seamlessly blended with the landscaping. It promises a harmonious outdoor escape for energetic youngsters.", "category": "family", "coords": [8.559197, 47.410075]}, {"name": "Buchenpark", "text": "Surrounded by mature trees, Buchenpark incorporates a family-friendly play area in the heart of Wallisellen. The Swiss park provides shaded sections where children can play comfortably even on sunny days. Expect a tranquil municipal space favored by parents seeking relaxation and fun.", "category": "family", "coords": [8.590557, 47.411504]}, {"name": "Balacier- und Kletterpark", "text": "Designed to test agility and balance, the Balancier- und Kletterpark is an adventurous family spot in Wallisellen. Children visiting this Swiss playground can challenge themselves on various climbing and balancing structures. It serves as an excellent environment for developing motor skills while enjoying the outdoors.", "category": "family", "coords": [8.588281, 47.417806]}, {"name": "Schulschwimmanlage Stettbach", "text": "Schulschwimmanlage Stettbach in Wallisellen is a facility for swimmers.", "category": "family", "coords": [8.580707, 47.401629]}, {"name": "Frei- und Hallenbad Bruggwiesen Opfikon", "text": "Frei- and Hallenbad Bruggwiesen Opfikon in Wallisellen offers various swimming pools.", "category": "family", "coords": [8.569259, 47.432457]}, {"name": "Planschbecken Wahlenpark", "text": "Planschbecken Wahlenpark in Wallisellen is ideal for small children.", "category": "family", "coords": [8.541041, 47.415173]}, {"name": "Water World Wallisellen", "text": "Water World Wallisellen is a sports centre with diverse water offerings.", "category": "family", "coords": [8.5952, 47.417408]}, {"name": "Voliere Seebach", "text": "Voliere Seebach in Wallisellen allows for bird watching.", "category": "family", "coords": [8.548569, 47.42319]}, {"name": "Planschbecken Föhrenwald", "text": "Planschbecken Föhrenwald in Wallisellen offers water fun for children.", "category": "family", "coords": [8.541697, 47.405836]}]},
+    id: "switzerland-wallisellen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burgstelle Schiterburg",
+                  "text": "Die Überreste einer mittelalterlichen Burgstelle bei Wallisellen.",
+                  "category": "historical",
+                  "coords": [
+                        8.586579,
+                        47.391178
+                  ]
+            },
+            {
+                  "name": "Moos Schönenhof",
+                  "text": "Ein Naturschutzgebiet mit wertvollen Lebensräumen für Pflanzen und Tiere.",
+                  "category": "natural",
+                  "coords": [
+                        8.609503,
+                        47.409845
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Schwamendingen",
+                  "text": "Ein lokales Museum, das die Geschichte des Stadtteils dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.578153,
+                        47.401127
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gubel",
+                  "text": "Ein geschütztes Naturareal in der Umgebung von Wallisellen.",
+                  "category": "natural",
+                  "coords": [
+                        8.615194,
+                        47.435001
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Wallisellen",
+                  "text": "Das Museum vermittelt Einblicke in die Dorfgeschichte von Wallisellen.",
+                  "category": "museum",
+                  "coords": [
+                        8.59792,
+                        47.418174
+                  ]
+            },
+            {
+                  "name": "Leutschenpark",
+                  "text": "Ein moderner öffentlicher Park mit markanten blauen Stahlelementen.",
+                  "category": "park",
+                  "coords": [
+                        8.556109,
+                        47.417553
+                  ]
+            },
+            {
+                  "name": "Andreaspark",
+                  "text": "Eine Grünanlage im Norden von Zürich bei Wallisellen.",
+                  "category": "park",
+                  "coords": [
+                        8.555563,
+                        47.413487
+                  ]
+            },
+            {
+                  "name": "Ueberlandpark",
+                  "text": "Ein linearer Park, der auf der Überdeckung einer Autobahn angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        8.565998,
+                        47.407528
+                  ]
+            },
+            {
+                  "name": "Föhrlibuck",
+                  "text": "Föhrlibuck ist ein bemerkenswerter natürlicher Aussichtspunkt in der Schweizer Stadt Wallisellen. Er bietet Besuchern weitreichende Panoramen über die umliegende regionale Landschaft. Wer hierher kommt, darf sich auf friedliche Momente und hervorragende Möglichkeiten für die Landschaftsfotografie freuen.",
+                  "category": "natural",
+                  "coords": [
+                        8.610682,
+                        47.407208
+                  ]
+            },
+            {
+                  "name": "Grevyzebra",
+                  "text": "Eine Tierart im Zoo Zürich, die für ihre feinen Streifen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.578752,
+                        47.388551
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Ein historisches oder dekoratives Wasserrad als lokale Sehenswürdigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        8.568396,
+                        47.40067
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama",
+                  "text": "Ein Ort mit beeindruckender Aussicht auf die Alpenkette.",
+                  "category": "natural",
+                  "coords": [
+                        8.594258,
+                        47.421121
+                  ]
+            },
+            {
+                  "name": "Nacktmull",
+                  "text": "Eine interessante Tierart, die in einer spezialisierten Anlage beobachtet werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577678,
+                        47.389087
+                  ]
+            },
+            {
+                  "name": "Dreigemeindestein",
+                  "text": "Ein Grenzstein, der den Treffpunkt dreier Gemeinden markiert.",
+                  "category": "historical",
+                  "coords": [
+                        8.628968,
+                        47.408713
+                  ]
+            },
+            {
+                  "name": "NiQo Kunstatelier und Galerie",
+                  "text": "Ein Atelier und Ausstellungsraum für zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        8.601405,
+                        47.403893
+                  ]
+            },
+            {
+                  "name": "Longtang",
+                  "text": "Ein unabhängiger Kunstraum für zeitgenössische Ausstellungen und Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        8.562609,
+                        47.415031
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm Hardwald",
+                  "text": "Ein Aussichtspunkt im Hardwald-Waldgebiet bei Wallisellen.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "Eine Ausstellung verschiedener Wasserbewohner in einer zoologischen Einrichtung.",
+                  "category": "landmark",
+                  "coords": [
+                        8.609537,
+                        47.404272
+                  ]
+            },
+            {
+                  "name": "Graffland",
+                  "text": "Ein Ort für Street-Art und kreative Ausdrucksformen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.56796,
+                        47.421595
+                  ]
+            },
+            {
+                  "name": "Maria Frieden",
+                  "text": "Eine katholische Kirche in der Gemeinde Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.618253,
+                        47.394944
+                  ]
+            },
+            {
+                  "name": "Kirche St. Gallus",
+                  "text": "Ein sakrales Bauwerk, das dem heiligen Gallus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.579249,
+                        47.40204
+                  ]
+            },
+            {
+                  "name": "Alte Kirche St. Niklaus",
+                  "text": "Die historische Kirche im Zentrum von Zürich-Schwamendingen.",
+                  "category": "religious",
+                  "coords": [
+                        8.574142,
+                        47.403659
+                  ]
+            },
+            {
+                  "name": "Stefanskirche",
+                  "text": "Eine moderne evangelisch-reformierte Kirche im Stadtteil Hirzenbach.",
+                  "category": "religious",
+                  "coords": [
+                        8.585312,
+                        47.401557
+                  ]
+            },
+            {
+                  "name": "Reformiertes Kirchenzentrum Saatlen",
+                  "text": "Ein modernes kirchliches Gemeindezentrum im Quartier Saatlen.",
+                  "category": "religious",
+                  "coords": [
+                        8.564076,
+                        47.410289
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Reformierte Kirche",
+                  "text": "Die lokale reformierte Kirche dient der Gemeinde als Gottesdienststätte.",
+                  "category": "religious",
+                  "coords": [
+                        8.593457,
+                        47.414707
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "Eine der heiligen Anna geweihte Kapelle oder Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        8.568175,
+                        47.433678
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Die katholische Pfarrkirche der Gemeinde Dietlikon bei Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614092,
+                        47.421804
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Antonius",
+                  "text": "Die markante katholische Kirche im Zentrum von Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.590171,
+                        47.417056
+                  ]
+            },
+            {
+                  "name": "Turm von Rieden",
+                  "text": "Ein markanter Turm im Ortsteil Rieden bei Wallisellen.",
+                  "category": "tower",
+                  "coords": [
+                        8.598132,
+                        47.419161
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Ein See in Wallisellen, der zum Spazierengehen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Ein See in Wallisellen, der zum Spazierengehen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Ein See in Wallisellen, der zum Spazierengehen und Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Ein See in Wallisellen, der zum Spazierengehen und Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Ein See in Wallisellen, der zum Spazierengehen und Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Ein See in Wallisellen, der zum Spazierengehen und Genießen der Aussicht einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Greifensee",
+                  "text": "Ein See in Wallisellen, der zum Spazierengehen und Genießen der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.679963,
+                        47.347352
+                  ]
+            },
+            {
+                  "name": "Ziegelhütte",
+                  "text": "Ziegelhütte ist ein beliebter Familientreffpunkt in Wallisellen in der Schweiz. Das Gelände ist mit einem Spielplatz ausgestattet, der die Fantasie seiner jungen Besucher anregen soll. Es ist ein ideales Ziel für Eltern, die sich einen sicheren und aktiven Ausflug ins Freie wünschen.",
+                  "category": "family",
+                  "coords": [
+                        8.573939,
+                        47.398757
+                  ]
+            },
+            {
+                  "name": "Saatlen-Grünzug",
+                  "text": "Der Saatlen-Grünzug verläuft entlang eines grünen Korridors in Wallisellen und umfasst einen einladenden Familienspielplatz. Diese Schweizer Grünfläche bietet sowohl Natur als auch Spielgeräte für einheimische und besuchende Familien. Sie erwartet eine entspannende Umgebung, in der Kinder im Grünen frei spielen können.",
+                  "category": "family",
+                  "coords": [
+                        8.568273,
+                        47.405982
+                  ]
+            },
+            {
+                  "name": "GZ Hirzenbach",
+                  "text": "Das Gemeinschaftszentrum GZ Hirzenbach verfügt über einen familienfreundlichen Spielplatz direkt außerhalb des Hauptgebiets von Wallisellen. Dieser Schweizer Begegnungsort wurde geschaffen, um soziale Interaktion und spielerische Aktivitäten für Kinder zu fördern. Familien erwarten vielfältige Spielgeräte, begleitet von gemeinschaftsorientierten Einrichtungen.",
+                  "category": "family",
+                  "coords": [
+                        8.5915,
+                        47.40215
+                  ]
+            },
+            {
+                  "name": "Herzogenmühle",
+                  "text": "Lokal als Herzogenmühle bekannt, ist dieser Spielplatz ein fantastisches Ausflugsziel für Kinder in Wallisellen. In einem Schweizer Wohnviertel gelegen, bietet der Spielraum den Kleinsten die Möglichkeit zum Klettern und Rutschen. Besucher werden die ruhige Umgebung schätzen, die für einen entspannten Nachmittag voller Familienspaß gestaltet wurde.",
+                  "category": "family",
+                  "coords": [
+                        8.572566,
+                        47.405432
+                  ]
+            },
+            {
+                  "name": "trueVR Center",
+                  "text": "Eine Spielhalle in Wallisellen, die Unterhaltung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.626292,
+                        47.414221
+                  ]
+            },
+            {
+                  "name": "Kinder Indoor Spielplatz",
+                  "text": "Der Kinder Indoor Spielplatz ist eine beliebte wetterunabhängige Lösung für Familien in Wallisellen. Dieser Schweizer Indoor-Spielplatz bietet abwechslungsreiche Anlagen, die speziell für energiegeladene Kinder entwickelt wurden. Erwarten Sie eine lebendige, geschlossene Umgebung, die perfekt ist, um sich an Regentagen auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        8.560211,
+                        47.413873
+                  ]
+            },
+            {
+                  "name": "Adventure Arena",
+                  "text": "Eine Spielhalle in Wallisellen, die Unterhaltung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.603079,
+                        47.394919
+                  ]
+            },
+            {
+                  "name": "Auzelg-Opfikonstrasse",
+                  "text": "Der Spielplatz an der Auzelg-Opfikonstrasse ist ein leicht zugänglicher Anlaufpunkt für Familien, die in Wallisellen unterwegs sind. Der Schweizer Freizeitort richtet sich an Kinder, die eine schnelle Spieleinheit suchen. Familien erwartet eine bescheidene, aber unterhaltsame Anlage, die sich für eine spontane Pause im Freien eignet.",
+                  "category": "family",
+                  "coords": [
+                        8.569607,
+                        47.418065
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robinson/Zelgli",
+                  "text": "Der Spielplatz Robinson/Zelgli verbindet Abenteuer mit traditionellem Spiel und ist ein sehr geschätztes Familienziel in Wallisellen. Dieser Schweizer Ort gibt Kindern die Freiheit, vielfältige Kletter- und Spielgeräte zu erkunden. Er verspricht ein fesselndes Outdoor-Erlebnis für Besucher verschiedenen Alters.",
+                  "category": "family",
+                  "coords": [
+                        8.61312,
+                        47.393302
+                  ]
+            },
+            {
+                  "name": "Mattenhof",
+                  "text": "Eingebettet in Wallisellen, verfügt Mattenhof über einen ausgewiesenen Außenbereich, der für die Familienerholung vorgesehen ist. Der Schweizer Spielplatz bietet die wichtigsten Geräte, damit Kinder einen Nachmittag im Freien genießen können. Eltern können sich auf eine gepflegte Umgebung im Viertel freuen, die zum aktiven Spielen anregt.",
+                  "category": "family",
+                  "coords": [
+                        8.590024,
+                        47.397837
+                  ]
+            },
+            {
+                  "name": "Waldgarten",
+                  "text": "Waldgarten verleiht der typischen Spielplatzgestaltung in der Stadt Wallisellen einen Hauch von Natur. Dieser Schweizer Familienort zeichnet sich durch seine begrünte Umgebung aus und integriert Spielgeräte in eine gartenähnliche Kulisse. Kinder werden sich über einen Raum freuen, der ein wenig vom städtischen Lärm abgeschirmt wirkt.",
+                  "category": "family",
+                  "coords": [
+                        8.555428,
+                        47.4042
+                  ]
+            },
+            {
+                  "name": "Andreaspark A",
+                  "text": "Der Andreaspark A liegt in einem größeren Erholungsgebiet und ist ein spezieller Spielplatz für Familien, die Wallisellen besuchen. Der Schweizer Park bietet moderne Spielanlagen, die Kinder beschäftigen und körperlich aktiv halten. Es erwartet Sie eine weitläufige, gemeinschaftsorientierte Zone, die sich ideal für Wochenendausflüge eignet.",
+                  "category": "family",
+                  "coords": [
+                        8.558249,
+                        47.413154
+                  ]
+            },
+            {
+                  "name": "Auhof (Freibad)",
+                  "text": "Der Spielbereich am Auhof (Freibad) befindet sich neben dem Freibad und bietet Familien in Wallisellen eine zusätzliche Portion Spaß. Dieser Schweizer Spielplatz wird oft zusammen mit den Schwimmanlagen besucht und bietet Aktivitäten auf dem Trockenen für Kinder. Er garantiert eine fröhliche Atmosphäre, in der Kinder nach dem Schwimmen interagieren können.",
+                  "category": "family",
+                  "coords": [
+                        8.570133,
+                        47.407752
+                  ]
+            },
+            {
+                  "name": "Roswiesen",
+                  "text": "Roswiesen ist ein praktischer Quartiersspielplatz, der den ansässigen Familien in Wallisellen dient. Er befindet sich in einer ruhigen Schweizer Wohnzone und bietet alle notwendigen Elemente für die Unterhaltung von Kindern im Freien. Besucher können sich auf einen übersichtlichen und sicheren Ort für einen lockeren Nachmittag freuen.",
+                  "category": "family",
+                  "coords": [
+                        8.577731,
+                        47.405382
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörli-Grünzug",
+                  "text": "Als Teil eines umfassenderen Grünprojekts bietet der Spielplatz Schörli-Grünzug eine natürliche Spielumgebung in Wallisellen. Familien, die diesen Schweizer Weg erkunden, entdecken ansprechende Spielgeräte, die sich nahtlos in die Landschaftsgestaltung einfügen. Er verspricht eine harmonische Auszeit im Freien für energiegeladene kleine Besucher.",
+                  "category": "family",
+                  "coords": [
+                        8.559197,
+                        47.410075
+                  ]
+            },
+            {
+                  "name": "Buchenpark",
+                  "text": "Umgeben von altem Baumbestand, integriert der Buchenpark einen familienfreundlichen Spielbereich im Herzen von Wallisellen. Der Schweizer Park bietet schattige Abschnitte, in denen Kinder auch an sonnigen Tagen angenehm spielen können. Erwarten Sie eine ruhige städtische Anlage, die von Eltern auf der Suche nach Entspannung und Spaß bevorzugt wird.",
+                  "category": "family",
+                  "coords": [
+                        8.590557,
+                        47.411504
+                  ]
+            },
+            {
+                  "name": "Balacier- und Kletterpark",
+                  "text": "Der Balancier- und Kletterpark ist so konzipiert, dass er Beweglichkeit und Gleichgewicht testet, und stellt einen abenteuerlichen Familienort in Wallisellen dar. Kinder, die diesen Schweizer Spielplatz besuchen, können sich an verschiedenen Kletter- und Balanciergeräten herausfordern. Es ist eine hervorragende Umgebung, um motorische Fähigkeiten zu entwickeln und gleichzeitig die Natur zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        8.588281,
+                        47.417806
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Stettbach",
+                  "text": "Die Schulschwimmanlage Stettbach in Wallisellen ist eine Einrichtung für Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        8.580707,
+                        47.401629
+                  ]
+            },
+            {
+                  "name": "Frei- und Hallenbad Bruggwiesen Opfikon",
+                  "text": "Das Frei- und Hallenbad Bruggwiesen Opfikon in Wallisellen bietet verschiedene Schwimmbecken.",
+                  "category": "family",
+                  "coords": [
+                        8.569259,
+                        47.432457
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "Das Planschbecken Wahlenpark in Wallisellen ist ideal für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Water World Wallisellen",
+                  "text": "Die Water World Wallisellen ist ein Sportzentrum mit vielfältigen Wasserangeboten.",
+                  "category": "family",
+                  "coords": [
+                        8.5952,
+                        47.417408
+                  ]
+            },
+            {
+                  "name": "Voliere Seebach",
+                  "text": "Die Voliere Seebach in Wallisellen ermöglicht die Beobachtung von Vögeln.",
+                  "category": "family",
+                  "coords": [
+                        8.548569,
+                        47.42319
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "Das Planschbecken Föhrenwald in Wallisellen bietet Wasserspaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "Einer der bekanntesten Zoos der Schweiz, berühmt für die Masoala-Regenwaldhalle.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgstelle Schiterburg",
+                  "text": "Egy középkori várhely maradványai Wallisellen közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.586579,
+                        47.391178
+                  ]
+            },
+            {
+                  "name": "Moos Schönenhof",
+                  "text": "Természetvédelmi terület értékes növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        8.609503,
+                        47.409845
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Schwamendingen",
+                  "text": "Helytörténeti múzeum, amely a városrész múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.578153,
+                        47.401127
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gubel",
+                  "text": "Védett természeti terület Wallisellen környékén.",
+                  "category": "natural",
+                  "coords": [
+                        8.615194,
+                        47.435001
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Wallisellen",
+                  "text": "A múzeum betekintést nyújt Wallisellen falutörténetébe.",
+                  "category": "museum",
+                  "coords": [
+                        8.59792,
+                        47.418174
+                  ]
+            },
+            {
+                  "name": "Leutschenpark",
+                  "text": "Modern közpark jellegzetes kék acélelemekkel.",
+                  "category": "park",
+                  "coords": [
+                        8.556109,
+                        47.417553
+                  ]
+            },
+            {
+                  "name": "Andreaspark",
+                  "text": "Park Zürich északi részén, Wallisellen közelében.",
+                  "category": "park",
+                  "coords": [
+                        8.555563,
+                        47.413487
+                  ]
+            },
+            {
+                  "name": "Ueberlandpark",
+                  "text": "Autópálya-lefedés felett kialakított lineáris park.",
+                  "category": "park",
+                  "coords": [
+                        8.565998,
+                        47.407528
+                  ]
+            },
+            {
+                  "name": "Föhrlibuck",
+                  "text": "A Föhrlibuck egy figyelemre méltó természetes kilátópont, amely a svájci Wallisellen városában található. A látogatók számára kiterjedt panorámát nyújt a környező regionális tájra. Az ide érkezők békés pillanatokra és a tájképek fotózásának kiváló lehetőségeire számíthatnak.",
+                  "category": "natural",
+                  "coords": [
+                        8.610682,
+                        47.407208
+                  ]
+            },
+            {
+                  "name": "Grevyzebra",
+                  "text": "A Zürichi Állatkert egyik állatfaja, amely finom csíkozásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.578752,
+                        47.388551
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Történelmi vagy dekoratív vízkerék, mint helyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        8.568396,
+                        47.40067
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama",
+                  "text": "Helyszín lenyűgöző kilátással az Alpok vonulataira.",
+                  "category": "natural",
+                  "coords": [
+                        8.594258,
+                        47.421121
+                  ]
+            },
+            {
+                  "name": "Nacktmull",
+                  "text": "Érdekes állatfaj, amely egy speciális kifutóban tekinthető meg.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577678,
+                        47.389087
+                  ]
+            },
+            {
+                  "name": "Dreigemeindestein",
+                  "text": "Határkő, amely három község találkozási pontját jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        8.628968,
+                        47.408713
+                  ]
+            },
+            {
+                  "name": "NiQo Kunstatelier und Galerie",
+                  "text": "Kortárs művészeti műhely és kiállítótér.",
+                  "category": "museum",
+                  "coords": [
+                        8.601405,
+                        47.403893
+                  ]
+            },
+            {
+                  "name": "Longtang",
+                  "text": "Független művészeti tér kortárs kiállítások és projektek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        8.562609,
+                        47.415031
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm Hardwald",
+                  "text": "Kilátópont a Wallisellen melletti Hardwald erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "Különféle vízi élőlények kiállítása egy állatkerti létesítményben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.609537,
+                        47.404272
+                  ]
+            },
+            {
+                  "name": "Graffland",
+                  "text": "Street-art és kreatív önkifejezés helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        8.56796,
+                        47.421595
+                  ]
+            },
+            {
+                  "name": "Maria Frieden",
+                  "text": "Katolikus templom Wallisellen községben.",
+                  "category": "religious",
+                  "coords": [
+                        8.618253,
+                        47.394944
+                  ]
+            },
+            {
+                  "name": "Kirche St. Gallus",
+                  "text": "Szent Gál tiszteletére szentelt egyházi épület.",
+                  "category": "religious",
+                  "coords": [
+                        8.579249,
+                        47.40204
+                  ]
+            },
+            {
+                  "name": "Alte Kirche St. Niklaus",
+                  "text": "Történelmi templom Zürich-Schwamendingen központjában.",
+                  "category": "religious",
+                  "coords": [
+                        8.574142,
+                        47.403659
+                  ]
+            },
+            {
+                  "name": "Stefanskirche",
+                  "text": "Modern evangélikus-református templom Hirzenbach városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        8.585312,
+                        47.401557
+                  ]
+            },
+            {
+                  "name": "Reformiertes Kirchenzentrum Saatlen",
+                  "text": "Modern egyházi közösségi központ a Saatlen negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        8.564076,
+                        47.410289
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Reformierte Kirche",
+                  "text": "A helyi református templom a közösség istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.593457,
+                        47.414707
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "Szent Annának szentelt kápolna vagy templom.",
+                  "category": "religious",
+                  "coords": [
+                        8.568175,
+                        47.433678
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Dietlikon község katolikus plébániatemploma Wallisellen közelében.",
+                  "category": "religious",
+                  "coords": [
+                        8.614092,
+                        47.421804
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Antonius",
+                  "text": "Wallisellen központjának jellegzetes katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.590171,
+                        47.417056
+                  ]
+            },
+            {
+                  "name": "Turm von Rieden",
+                  "text": "Jellegzetes torony Rieden településrészen, Wallisellen közelében.",
+                  "category": "tower",
+                  "coords": [
+                        8.598132,
+                        47.419161
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Tó Wallisellenben, amely remek hely a sétáláshoz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Tó Wallisellenben, amely remek hely a sétáláshoz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Tó Wallisellenben, amely alkalmas sétákra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Tó Wallisellenben, amely alkalmas sétákra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Tó Wallisellenben, amely alkalmas sétákra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Tó Wallisellenben, amely ideális sétákhoz és a kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Greifensee",
+                  "text": "Tó Wallisellenben, amely ideális a természet élvezetéhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.679963,
+                        47.347352
+                  ]
+            },
+            {
+                  "name": "Ziegelhütte",
+                  "text": "A Ziegelhütte egy népszerű családi találkozóhely a svájci Wallisellen városában. A terület egy olyan játszótérrel van felszerelve, amelyet úgy terveztek, hogy megragadja a fiatal látogatók fantáziáját. Ideális úti cél a biztonságos és aktív szabadtéri kirándulásra vágyó szülők számára.",
+                  "category": "family",
+                  "coords": [
+                        8.573939,
+                        47.398757
+                  ]
+            },
+            {
+                  "name": "Saatlen-Grünzug",
+                  "text": "A Wallisellen egyik zöld folyosója mentén húzódó Saatlen-Grünzug egy barátságos családi játszóteret foglal magába. Ez a svájci zöldterület a természet és a játszóeszközök tökéletes ötvözetét kínálja a helyi és idelátogató családoknak. Pihentető környezettel találkozhatunk, ahol a gyerekek szabadon játszhatnak a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        8.568273,
+                        47.405982
+                  ]
+            },
+            {
+                  "name": "GZ Hirzenbach",
+                  "text": "A GZ Hirzenbach közösségi ház egy családbarát játszótérrel is rendelkezik a központi Wallisellen területének peremén. Ezt a svájci közösségi teret úgy alakították ki, hogy ösztönözze a gyerekek társas interakcióit és játékos tevékenységeit. A családok változatos játszótéri elemekre és közösségi fókuszú létesítményekre számíthatnak.",
+                  "category": "family",
+                  "coords": [
+                        8.5915,
+                        47.40215
+                  ]
+            },
+            {
+                  "name": "Herzogenmühle",
+                  "text": "A helyiek által Herzogenmühle néven ismert játszótér fantasztikus úti cél a Wallisellenbe látogató gyerekek számára. Svájc egyik lakóövezetében található ez a játszótér, amely remek lehetőséget ad a legkisebbeknek a mászásra és csúszdázásra. A látogatók értékelni fogják a csendes környezetet, amely tökéletes egy nyugodt, családi szórakozással teli délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.572566,
+                        47.405432
+                  ]
+            },
+            {
+                  "name": "trueVR Center",
+                  "text": "Szórakoztató központ Wallisellenben, amely kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.626292,
+                        47.414221
+                  ]
+            },
+            {
+                  "name": "Kinder Indoor Spielplatz",
+                  "text": "A családok számára minden időjárási körülmény esetén megoldást kínáló Kinder Indoor Spielplatz egy népszerű attrakció Wallisellenben. Ez a svájci beltéri játszóház változatos eszközöket biztosít, amelyeket kifejezetten az energikus gyerekek számára terveztek. Egy élénk, zárt környezetre számíthatunk, amely tökéletes az energia levezetésére az esős napokon.",
+                  "category": "family",
+                  "coords": [
+                        8.560211,
+                        47.413873
+                  ]
+            },
+            {
+                  "name": "Adventure Arena",
+                  "text": "Szórakoztató központ Wallisellenben, amely kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.603079,
+                        47.394919
+                  ]
+            },
+            {
+                  "name": "Auzelg-Opfikonstrasse",
+                  "text": "Az utca mentén elhelyezkedő Auzelg-Opfikonstrasse könnyen megközelíthető játszótérként szolgál a Wallisellenben utazók számára. A svájci rekreációs helyszín azokat a gyerekeket szolgálja ki, akik egy gyors játékra vágynak. A családok egy szerény, de szórakoztató elrendezést találnak, amely alkalmas egy spontán szabadtéri szünetre.",
+                  "category": "family",
+                  "coords": [
+                        8.569607,
+                        47.418065
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robinson/Zelgli",
+                  "text": "A kalandot a hagyományos játékkal ötvöző Spielplatz Robinson/Zelgli egy nagyra értékelt családi úti cél Wallisellenben. Ez a svájci terület szabadságot ad a gyerekeknek, hogy felfedezzék a változatos mászó- és játszóeszközöket. Izgalmas szabadtéri élményt ígér a különböző korú látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        8.61312,
+                        47.393302
+                  ]
+            },
+            {
+                  "name": "Mattenhof",
+                  "text": "A Wallisellenben megbúvó Mattenhof egy kijelölt szabadtéri területtel rendelkezik, amelyet a családi kikapcsolódásra szántak. A svájci játszótér minden alapvető eszközt biztosít a gyerekek számára, hogy élvezhessék a szabadban töltött délutánt. A szülők egy jól karbantartott környékbeli környezetre számíthatnak, amely aktív játékra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        8.590024,
+                        47.397837
+                  ]
+            },
+            {
+                  "name": "Waldgarten",
+                  "text": "A Waldgarten egy kis természetet csempész a hagyományos játszótéri elrendezésbe Wallisellen városán belül. A lombos környezetével jellemezhető svájci családi helyszín a játszóeszközöket egy kerthez hasonló környezetbe integrálja. A gyerekek biztosan élvezni fogják ezt a teret, amely kicsit távolabb esik a város zajától.",
+                  "category": "family",
+                  "coords": [
+                        8.555428,
+                        47.4042
+                  ]
+            },
+            {
+                  "name": "Andreaspark A",
+                  "text": "A nagyobb rekreációs övezeten belül található Andreaspark A egy kifejezetten családok számára kialakított játszótér Wallisellenben. A svájci park modern játszólétesítményekkel rendelkezik, amelyeket arra terveztek, hogy lekössék és fizikailag aktívan tartsák a gyerekeket. Tágas, közösségorientált zónára számíthatunk, amely ideális a hétvégi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.558249,
+                        47.413154
+                  ]
+            },
+            {
+                  "name": "Auhof (Freibad)",
+                  "text": "A strandfürdő mellett található Auhof (Freibad) játszótér extra adag szórakozást nyújt a walliselleni családok számára. Ezt a svájci játszóteret gyakran az úszólétesítményekkel együtt látogatják, így a gyerekeknek szárazföldi tevékenységeket is kínál. Vidám légkört garantál, ahol a gyerekek egy úszás után is játszhatnak egymással.",
+                  "category": "family",
+                  "coords": [
+                        8.570133,
+                        47.407752
+                  ]
+            },
+            {
+                  "name": "Roswiesen",
+                  "text": "A Roswiesen egy praktikus lakótelepi játszótér, amely a Wallisellenben élő családokat szolgálja ki. Egy békés svájci lakóövezetben található, és minden szükséges elemet tartalmaz a gyermekek szabadtéri szórakoztatásához. A látogatók egy egyszerű és biztonságos helyre számíthatnak a hétköznapi délutánokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.577731,
+                        47.405382
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörli-Grünzug",
+                  "text": "Egy szélesebb körű zöld kezdeményezés részeként a Spielplatz Schörli-Grünzug természetes játszótéri környezetet kínál Wallisellenben. A svájci sétányt felfedező családok olyan izgalmas eszközöket találnak itt, amelyek zökkenőmentesen illeszkednek a tájba. Harmonikus szabadtéri kikapcsolódást ígér az energikus fiatalok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.559197,
+                        47.410075
+                  ]
+            },
+            {
+                  "name": "Buchenpark",
+                  "text": "Az idős fákkal körülvett Buchenpark egy családbarát játszóteret foglal magába Wallisellen szívében. A svájci park árnyékos részeket is biztosít, ahol a gyerekek még napsütéses napokon is kényelmesen játszhatnak. Nyugodt városi térre számíthatunk, amelyet a pihenésre és szórakozásra vágyó szülők előszeretettel látogatnak.",
+                  "category": "family",
+                  "coords": [
+                        8.590557,
+                        47.411504
+                  ]
+            },
+            {
+                  "name": "Balacier- und Kletterpark",
+                  "text": "Az ügyesség és az egyensúlyérzék próbájára tervezett Balancier- und Kletterpark egy kalandos családi helyszín Wallisellenben. Az erre a svájci játszótérre látogató gyermekek különböző mászó- és egyensúlyozó eszközökön tehetik próbára magukat. Kiváló környezetet biztosít a motoros készségek fejlesztéséhez a szabadtéri játék során.",
+                  "category": "family",
+                  "coords": [
+                        8.588281,
+                        47.417806
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Stettbach",
+                  "text": "A walliselleni Schulschwimmanlage Stettbach egy létesítmény az úszók számára.",
+                  "category": "family",
+                  "coords": [
+                        8.580707,
+                        47.401629
+                  ]
+            },
+            {
+                  "name": "Frei- und Hallenbad Bruggwiesen Opfikon",
+                  "text": "A walliselleni Frei- und Hallenbad Bruggwiesen Opfikon különféle úszómedencéket kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.569259,
+                        47.432457
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "A walliselleni Planschbecken Wahlenpark ideális kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Water World Wallisellen",
+                  "text": "A Water World Wallisellen egy sportközpont változatos vízi kínálattal.",
+                  "category": "family",
+                  "coords": [
+                        8.5952,
+                        47.417408
+                  ]
+            },
+            {
+                  "name": "Voliere Seebach",
+                  "text": "A walliselleni Voliere Seebach lehetővé teszi a madarak megfigyelését.",
+                  "category": "family",
+                  "coords": [
+                        8.548569,
+                        47.42319
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "A walliselleni Planschbecken Föhrenwald vízi szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "Svájc egyik leghíresebb állatkertje, amely a Masoala esőerdő-csarnokáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgstelle Schiterburg",
+                  "text": "Rămășițele unui sit fortificat medieval lângă Wallisellen.",
+                  "category": "historical",
+                  "coords": [
+                        8.586579,
+                        47.391178
+                  ]
+            },
+            {
+                  "name": "Moos Schönenhof",
+                  "text": "O rezervație naturală cu habitate valoroase pentru plante și animale.",
+                  "category": "natural",
+                  "coords": [
+                        8.609503,
+                        47.409845
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Schwamendingen",
+                  "text": "Un muzeu local care documentează istoria cartierului.",
+                  "category": "museum",
+                  "coords": [
+                        8.578153,
+                        47.401127
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gubel",
+                  "text": "O zonă naturală protejată în împrejurimile localității Wallisellen.",
+                  "category": "natural",
+                  "coords": [
+                        8.615194,
+                        47.435001
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Wallisellen",
+                  "text": "Muzeul oferă informații despre istoria satului Wallisellen.",
+                  "category": "museum",
+                  "coords": [
+                        8.59792,
+                        47.418174
+                  ]
+            },
+            {
+                  "name": "Leutschenpark",
+                  "text": "Un parc public modern, cu elemente distinctive din oțel albastru.",
+                  "category": "park",
+                  "coords": [
+                        8.556109,
+                        47.417553
+                  ]
+            },
+            {
+                  "name": "Andreaspark",
+                  "text": "Un spațiu verde în nordul orașului Zürich, lângă Wallisellen.",
+                  "category": "park",
+                  "coords": [
+                        8.555563,
+                        47.413487
+                  ]
+            },
+            {
+                  "name": "Ueberlandpark",
+                  "text": "Un parc liniar creat pe acoperișul unei autostrăzi.",
+                  "category": "park",
+                  "coords": [
+                        8.565998,
+                        47.407528
+                  ]
+            },
+            {
+                  "name": "Föhrlibuck",
+                  "text": "Föhrlibuck este un punct de belvedere natural remarcabil, situat în orașul elvețian Wallisellen. Oferă vizitatorilor panorame ample asupra peisajului regional înconjurător. Cei care sosesc aici pot anticipa momente liniștite și oportunități excelente pentru fotografia de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        8.610682,
+                        47.407208
+                  ]
+            },
+            {
+                  "name": "Grevyzebra",
+                  "text": "O specie de animale de la Grădina Zoologică din Zürich, cunoscută pentru dungile sale fine.",
+                  "category": "landmark",
+                  "coords": [
+                        8.578752,
+                        47.388551
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "O roată de apă istorică sau decorativă ca atracție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        8.568396,
+                        47.40067
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama",
+                  "text": "Un loc cu o vedere impresionantă spre lanțul Alpilor.",
+                  "category": "natural",
+                  "coords": [
+                        8.594258,
+                        47.421121
+                  ]
+            },
+            {
+                  "name": "Nacktmull",
+                  "text": "O specie interesantă de animale care poate fi observată într-o amenajare specializată.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577678,
+                        47.389087
+                  ]
+            },
+            {
+                  "name": "Dreigemeindestein",
+                  "text": "O piatră de hotar care marchează punctul de întâlnire a trei comune.",
+                  "category": "historical",
+                  "coords": [
+                        8.628968,
+                        47.408713
+                  ]
+            },
+            {
+                  "name": "NiQo Kunstatelier und Galerie",
+                  "text": "Un atelier și spațiu de expoziție pentru artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        8.601405,
+                        47.403893
+                  ]
+            },
+            {
+                  "name": "Longtang",
+                  "text": "Un spațiu de artă independent pentru expoziții și projekte contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        8.562609,
+                        47.415031
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm Hardwald",
+                  "text": "Un punct de belvedere în zona forestieră Hardwald de lângă Wallisellen.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "O expoziție de diverse viețuitoare acvatice într-o instituție zoologică.",
+                  "category": "landmark",
+                  "coords": [
+                        8.609537,
+                        47.404272
+                  ]
+            },
+            {
+                  "name": "Graffland",
+                  "text": "Un loc pentru street-art și forme de exprimare creativă.",
+                  "category": "cultural",
+                  "coords": [
+                        8.56796,
+                        47.421595
+                  ]
+            },
+            {
+                  "name": "Maria Frieden",
+                  "text": "O biserică catolică în comuna Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.618253,
+                        47.394944
+                  ]
+            },
+            {
+                  "name": "Kirche St. Gallus",
+                  "text": "Un edificiu sacru dedicat Sfântului Gallus.",
+                  "category": "religious",
+                  "coords": [
+                        8.579249,
+                        47.40204
+                  ]
+            },
+            {
+                  "name": "Alte Kirche St. Niklaus",
+                  "text": "Biserica istorică din centrul cartierului Zürich-Schwamendingen.",
+                  "category": "religious",
+                  "coords": [
+                        8.574142,
+                        47.403659
+                  ]
+            },
+            {
+                  "name": "Stefanskirche",
+                  "text": "O biserică evanghelică-reformată modernă în cartierul Hirzenbach.",
+                  "category": "religious",
+                  "coords": [
+                        8.585312,
+                        47.401557
+                  ]
+            },
+            {
+                  "name": "Reformiertes Kirchenzentrum Saatlen",
+                  "text": "Un centru comunitar bisericesc modern în cartierul Saatlen.",
+                  "category": "religious",
+                  "coords": [
+                        8.564076,
+                        47.410289
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Reformierte Kirche",
+                  "text": "Biserica reformată locală servește comunității ca loc de cult.",
+                  "category": "religious",
+                  "coords": [
+                        8.593457,
+                        47.414707
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "O capelă sau biserică dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        8.568175,
+                        47.433678
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Biserica parohială catolică din comuna Dietlikon, lângă Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614092,
+                        47.421804
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Antonius",
+                  "text": "Biserica catolică proeminentă din centrul localității Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.590171,
+                        47.417056
+                  ]
+            },
+            {
+                  "name": "Turm von Rieden",
+                  "text": "Un turn proeminent în cartierul Rieden, lângă Wallisellen.",
+                  "category": "tower",
+                  "coords": [
+                        8.598132,
+                        47.419161
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "Un lac în Wallisellen, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "Un lac în Wallisellen, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "Un lac în Wallisellen, potrivit pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "Un lac în Wallisellen, potrivit pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "Un lac în Wallisellen, potrivit pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Zürichsee",
+                  "text": "Un lac în Wallisellen, ideal pentru plimbări și pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Greifensee",
+                  "text": "Un lac în Wallisellen, perfect pentru a te bucura de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        8.679963,
+                        47.347352
+                  ]
+            },
+            {
+                  "name": "Ziegelhütte",
+                  "text": "Ziegelhütte reprezintă un loc popular de întâlnire pentru familii în Wallisellen, Elveția. Situl este echipat cu un loc de joacă conceput pentru a capta imaginația micilor săi vizitatori. Este o destinație ideală pentru părinții care doresc o excursie în aer liber sigură și activă.",
+                  "category": "family",
+                  "coords": [
+                        8.573939,
+                        47.398757
+                  ]
+            },
+            {
+                  "name": "Saatlen-Grünzug",
+                  "text": "Amplasat de-a lungul unui coridor verde din Wallisellen, Saatlen-Grünzug încorporează un loc de joacă primitor pentru familii. Acest spațiu verde elvețian oferă atât natură, cât și structuri de joacă pentru familiile locale și cele vizitatoare. Veți descoperi un mediu relaxant, unde copiii se pot juca în voie în mijlocul verdeții.",
+                  "category": "family",
+                  "coords": [
+                        8.568273,
+                        47.405982
+                  ]
+            },
+            {
+                  "name": "GZ Hirzenbach",
+                  "text": "Centrul comunitar GZ Hirzenbach dispune de un loc de joacă potrivit pentru familii, chiar în afara zonei principale a orașului Wallisellen. Acest centru comunitar elvețian este construit pentru a încuraja interacțiunea socială și activitățile ludice pentru copii. Familiile se pot aștepta la structuri de joacă variate, însoțite de facilități axate pe comunitate.",
+                  "category": "family",
+                  "coords": [
+                        8.5915,
+                        47.40215
+                  ]
+            },
+            {
+                  "name": "Herzogenmühle",
+                  "text": "Cunoscut pe plan local sub numele de Herzogenmühle, acest loc de joacă este o destinație fantastică pentru copiii care vizitează Wallisellen. Situat într-un sector rezidențial din Elveția, spațiul de joacă oferă celor mici șansa de a se cățăra și de a se da pe tobogan. Vizitatorii vor aprecia împrejurimile liniștite, concepute pentru o după-amiază calmă de distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.572566,
+                        47.405432
+                  ]
+            },
+            {
+                  "name": "trueVR Center",
+                  "text": "O sală de jocuri în Wallisellen care oferă divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.626292,
+                        47.414221
+                  ]
+            },
+            {
+                  "name": "Kinder Indoor Spielplatz",
+                  "text": "Oferind o soluție indiferent de vreme pentru familii, Kinder Indoor Spielplatz este o atracție populară în Wallisellen. Acest loc de joacă de interior din Elveția oferă structuri variate, special proiectate pentru copiii plini de energie. Așteptați-vă la un mediu închis și vibrant, perfect pentru consumarea energiei în zilele ploioase.",
+                  "category": "family",
+                  "coords": [
+                        8.560211,
+                        47.413873
+                  ]
+            },
+            {
+                  "name": "Adventure Arena",
+                  "text": "O sală de jocuri în Wallisellen care oferă divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.603079,
+                        47.394919
+                  ]
+            },
+            {
+                  "name": "Auzelg-Opfikonstrasse",
+                  "text": "Situat de-a lungul străzii, Auzelg-Opfikonstrasse servește ca un loc de joacă ușor accesibil pentru cei care traversează Wallisellen. Locul de recreere elvețian se adresează copiilor care caută o sesiune rapidă de joacă. Familiile vor găsi o amenajare modestă, dar distractivă, potrivită pentru o pauză spontană în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.569607,
+                        47.418065
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robinson/Zelgli",
+                  "text": "Combinând aventura cu joaca tradițională, Spielplatz Robinson/Zelgli este o destinație familială foarte apreciată în Wallisellen. Acest loc elvețian oferă copiilor libertatea de a explora diverse aparate de cățărat și de joacă. Promite o experiență captivantă în aer liber pentru vizitatorii de diferite vârste.",
+                  "category": "family",
+                  "coords": [
+                        8.61312,
+                        47.393302
+                  ]
+            },
+            {
+                  "name": "Mattenhof",
+                  "text": "Cuibărit în Wallisellen, Mattenhof dispune de o zonă în aer liber desemnată, destinată recreerii în familie. Locul de joacă elvețian oferă echipamentele esențiale pentru ca cei mici să se bucure de o după-amiază afară. Părinții pot anticipa un cadru de cartier bine întreținut, care încurajează jocul activ.",
+                  "category": "family",
+                  "coords": [
+                        8.590024,
+                        47.397837
+                  ]
+            },
+            {
+                  "name": "Waldgarten",
+                  "text": "Waldgarten aduce o notă de natură în amenajarea tipică a unui loc de joacă din orașul Wallisellen. Caracterizat de împrejurimile sale pline de frunziș, acest loc elvețian pentru familii integrează echipamentele de joacă într-un cadru asemănător unei grădini. Copiii se vor bucura de un spațiu care pare ușor detașat de zgomotul urban.",
+                  "category": "family",
+                  "coords": [
+                        8.555428,
+                        47.4042
+                  ]
+            },
+            {
+                  "name": "Andreaspark A",
+                  "text": "Situat într-o zonă de recreere mai mare, Andreaspark A este un loc de joacă dedicat familiilor care vizitează Wallisellen. Parcul elvețian oferă facilități moderne de joacă concepute pentru a-i menține pe copii implicați și activi fizic. Vă așteaptă o zonă spațioasă, orientată spre comunitate, ideală pentru ieșirile de weekend.",
+                  "category": "family",
+                  "coords": [
+                        8.558249,
+                        47.413154
+                  ]
+            },
+            {
+                  "name": "Auhof (Freibad)",
+                  "text": "Situată lângă baia în aer liber, zona de joacă de la Auhof (Freibad) adaugă un nivel suplimentar de distracție pentru familiile din Wallisellen. Acest loc de joacă elvețian este adesea vizitat împreună cu facilitățile de înot, oferind activități pe uscat pentru copii. Garantează o atmosferă veselă, unde copiii pot interacționa după o baie.",
+                  "category": "family",
+                  "coords": [
+                        8.570133,
+                        47.407752
+                  ]
+            },
+            {
+                  "name": "Roswiesen",
+                  "text": "Roswiesen este un loc de joacă practic de cartier, care deservește familiile locale din Wallisellen. Aflat într-o zonă rezidențială elvețiană pașnică, prezintă toate elementele necesare pentru amuzamentul în aer liber al copiilor. Vizitatorii pot anticipa un loc simplu și sigur pentru o după-amiază obișnuită.",
+                  "category": "family",
+                  "coords": [
+                        8.577731,
+                        47.405382
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörli-Grünzug",
+                  "text": "Parte a unei inițiative verzi mai ample, Spielplatz Schörli-Grünzug oferă un cadru natural de joacă în Wallisellen. Familiile care explorează acest traseu elvețian vor descoperi echipamente atractive, perfect integrate în peisaj. Promite o evadare armonioasă în aer liber pentru tinerii plini de energie.",
+                  "category": "family",
+                  "coords": [
+                        8.559197,
+                        47.410075
+                  ]
+            },
+            {
+                  "name": "Buchenpark",
+                  "text": "Înconjurat de copaci maturi, Buchenpark încorporează o zonă de joacă pentru familii în inima orașului Wallisellen. Parcul elvețian oferă secțiuni umbrite, unde copiii se pot juca confortabil chiar și în zilele însorite. Vă așteaptă un spațiu municipal liniștit, preferat de părinții care caută relaxare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        8.590557,
+                        47.411504
+                  ]
+            },
+            {
+                  "name": "Balacier- und Kletterpark",
+                  "text": "Conceput pentru a testa agilitatea și echilibrul, Balancier- und Kletterpark este un loc plin de aventură pentru familii în Wallisellen. Copiii care vizitează acest loc de joacă elvețian se pot provoca pe diverse structuri de cățărat și echilibru. Servește drept un mediu excelent pentru dezvoltarea abilităților motorii, bucurându-se în același timp de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.588281,
+                        47.417806
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Stettbach",
+                  "text": "Schulschwimmanlage Stettbach din Wallisellen este o facilitate pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        8.580707,
+                        47.401629
+                  ]
+            },
+            {
+                  "name": "Frei- und Hallenbad Bruggwiesen Opfikon",
+                  "text": "Frei- und Hallenbad Bruggwiesen Opfikon din Wallisellen oferă diverse piscine.",
+                  "category": "family",
+                  "coords": [
+                        8.569259,
+                        47.432457
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "Planschbecken Wahlenpark din Wallisellen este ideal pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Water World Wallisellen",
+                  "text": "Water World Wallisellen este un centru sportiv cu diverse oferte acvatice.",
+                  "category": "family",
+                  "coords": [
+                        8.5952,
+                        47.417408
+                  ]
+            },
+            {
+                  "name": "Voliere Seebach",
+                  "text": "Voliere Seebach din Wallisellen permite observarea păsărilor.",
+                  "category": "family",
+                  "coords": [
+                        8.548569,
+                        47.42319
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "Planschbecken Föhrenwald din Wallisellen oferă distracție acvatică pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "Una dintre cele mai faimoase grădină zoologice din Elveția, renumită pentru hala Masoala.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgstelle Schiterburg",
+                  "text": "The remains of a medieval castle site near Wallisellen.",
+                  "category": "historical",
+                  "coords": [
+                        8.586579,
+                        47.391178
+                  ]
+            },
+            {
+                  "name": "Moos Schönenhof",
+                  "text": "A nature reserve featuring valuable habitats for plants and animals.",
+                  "category": "natural",
+                  "coords": [
+                        8.609503,
+                        47.409845
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Schwamendingen",
+                  "text": "A local museum documenting the history of the district.",
+                  "category": "museum",
+                  "coords": [
+                        8.578153,
+                        47.401127
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gubel",
+                  "text": "A protected natural area in the surroundings of Wallisellen.",
+                  "category": "natural",
+                  "coords": [
+                        8.615194,
+                        47.435001
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Wallisellen",
+                  "text": "The museum offers insights into the village history of Wallisellen.",
+                  "category": "museum",
+                  "coords": [
+                        8.59792,
+                        47.418174
+                  ]
+            },
+            {
+                  "name": "Leutschenpark",
+                  "text": "A modern public park featuring distinctive blue steel elements.",
+                  "category": "park",
+                  "coords": [
+                        8.556109,
+                        47.417553
+                  ]
+            },
+            {
+                  "name": "Andreaspark",
+                  "text": "A green space in the north of Zurich near Wallisellen.",
+                  "category": "park",
+                  "coords": [
+                        8.555563,
+                        47.413487
+                  ]
+            },
+            {
+                  "name": "Ueberlandpark",
+                  "text": "A linear park created on top of a highway enclosure.",
+                  "category": "park",
+                  "coords": [
+                        8.565998,
+                        47.407528
+                  ]
+            },
+            {
+                  "name": "Föhrlibuck",
+                  "text": "Föhrlibuck is a notable natural viewpoint located in the Swiss town of Wallisellen. It provides visitors with sweeping panoramas over the surrounding regional landscape. Those arriving here can look forward to peaceful moments and excellent opportunities for landscape photography.",
+                  "category": "natural",
+                  "coords": [
+                        8.610682,
+                        47.407208
+                  ]
+            },
+            {
+                  "name": "Grévy's zebra",
+                  "text": "A species of animal at the Zurich Zoo, known for its fine stripes.",
+                  "category": "landmark",
+                  "coords": [
+                        8.578752,
+                        47.388551
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "A historic or decorative water wheel as a local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        8.568396,
+                        47.40067
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama",
+                  "text": "A location with an impressive view of the Alpine range.",
+                  "category": "natural",
+                  "coords": [
+                        8.594258,
+                        47.421121
+                  ]
+            },
+            {
+                  "name": "Naked mole-rat",
+                  "text": "An interesting species of animal that can be observed in a specialized enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577678,
+                        47.389087
+                  ]
+            },
+            {
+                  "name": "Dreigemeindestein",
+                  "text": "A boundary stone marking the meeting point of three municipalities.",
+                  "category": "historical",
+                  "coords": [
+                        8.628968,
+                        47.408713
+                  ]
+            },
+            {
+                  "name": "NiQo Kunstatelier und Galerie",
+                  "text": "A studio and exhibition space for contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.601405,
+                        47.403893
+                  ]
+            },
+            {
+                  "name": "Longtang",
+                  "text": "An independent art space for contemporary exhibitions and projects.",
+                  "category": "cultural",
+                  "coords": [
+                        8.562609,
+                        47.415031
+                  ]
+            },
+            {
+                  "name": "Viewpoint Hardwald",
+                  "text": "A viewpoint located in the Hardwald forest area near Wallisellen.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "An exhibition of various aquatic inhabitants in a zoological facility.",
+                  "category": "landmark",
+                  "coords": [
+                        8.609537,
+                        47.404272
+                  ]
+            },
+            {
+                  "name": "Graffland",
+                  "text": "A venue for street art and creative expression.",
+                  "category": "cultural",
+                  "coords": [
+                        8.56796,
+                        47.421595
+                  ]
+            },
+            {
+                  "name": "Maria Frieden",
+                  "text": "A Catholic church in the municipality of Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.618253,
+                        47.394944
+                  ]
+            },
+            {
+                  "name": "Kirche St. Gallus",
+                  "text": "A sacred building dedicated to Saint Gallus.",
+                  "category": "religious",
+                  "coords": [
+                        8.579249,
+                        47.40204
+                  ]
+            },
+            {
+                  "name": "Alte Kirche St. Niklaus",
+                  "text": "The historic church in the center of Zurich-Schwamendingen.",
+                  "category": "religious",
+                  "coords": [
+                        8.574142,
+                        47.403659
+                  ]
+            },
+            {
+                  "name": "Stefanskirche",
+                  "text": "A modern Evangelical Reformed church in the Hirzenbach district.",
+                  "category": "religious",
+                  "coords": [
+                        8.585312,
+                        47.401557
+                  ]
+            },
+            {
+                  "name": "Reformiertes Kirchenzentrum Saatlen",
+                  "text": "A modern church community center in the Saatlen district.",
+                  "category": "religious",
+                  "coords": [
+                        8.564076,
+                        47.410289
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Reformierte Kirche",
+                  "text": "The local Reformed church serves as a place of worship for the community.",
+                  "category": "religious",
+                  "coords": [
+                        8.593457,
+                        47.414707
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "A chapel or church dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        8.568175,
+                        47.433678
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "The Catholic parish church of the municipality of Dietlikon near Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614092,
+                        47.421804
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Antonius",
+                  "text": "The prominent Catholic church in the center of Wallisellen.",
+                  "category": "religious",
+                  "coords": [
+                        8.590171,
+                        47.417056
+                  ]
+            },
+            {
+                  "name": "Turm von Rieden",
+                  "text": "A prominent tower in the Rieden district near Wallisellen.",
+                  "category": "tower",
+                  "coords": [
+                        8.598132,
+                        47.419161
+                  ]
+            },
+            {
+                  "name": "Unterer Katzensee",
+                  "text": "A lake in Wallisellen, great for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        8.490574,
+                        47.431289
+                  ]
+            },
+            {
+                  "name": "Oberer Katzensee",
+                  "text": "A lake in Wallisellen, great for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        8.497333,
+                        47.433687
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 1",
+                  "text": "A lake in Wallisellen, perfect for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        8.50276,
+                        47.394767
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 2",
+                  "text": "A lake in Wallisellen, perfect for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        8.499338,
+                        47.394478
+                  ]
+            },
+            {
+                  "name": "GWW Hardhof, Anreicherungsbecken 3",
+                  "text": "A lake in Wallisellen, perfect for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        8.495741,
+                        47.394364
+                  ]
+            },
+            {
+                  "name": "Lake Zurich",
+                  "text": "A lake in Wallisellen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        8.74144,
+                        47.279095
+                  ]
+            },
+            {
+                  "name": "Greifensee",
+                  "text": "A lake in Wallisellen, perfect for enjoying nature and walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.679963,
+                        47.347352
+                  ]
+            },
+            {
+                  "name": "Ziegelhütte",
+                  "text": "Ziegelhütte represents a popular family gathering spot within Wallisellen, Switzerland. The site is equipped with a playground designed to capture the imagination of its young visitors. It is an ideal destination for parents wanting a safe and active outdoor excursion.",
+                  "category": "family",
+                  "coords": [
+                        8.573939,
+                        47.398757
+                  ]
+            },
+            {
+                  "name": "Saatlen-Grünzug",
+                  "text": "Set along a green corridor in Wallisellen, Saatlen-Grünzug incorporates a welcoming family playground. This Swiss green space provides both nature and play structures for local and visiting families. You will encounter a relaxing environment where children can play freely amid the greenery.",
+                  "category": "family",
+                  "coords": [
+                        8.568273,
+                        47.405982
+                  ]
+            },
+            {
+                  "name": "GZ Hirzenbach",
+                  "text": "The community center GZ Hirzenbach features a family-friendly playground just outside the main Wallisellen area. This Swiss community hub is built to encourage social interaction and playful activities for kids. Families can expect varied playground structures accompanied by community-focused facilities.",
+                  "category": "family",
+                  "coords": [
+                        8.5915,
+                        47.40215
+                  ]
+            },
+            {
+                  "name": "Herzogenmühle",
+                  "text": "Known locally as Herzogenmühle, this playground is a fantastic destination for children visiting Wallisellen. Set in a residential sector of Switzerland, the play space gives younger ones the chance to climb and slide. Visitors will appreciate the quiet surroundings designed for a calm afternoon of family fun.",
+                  "category": "family",
+                  "coords": [
+                        8.572566,
+                        47.405432
+                  ]
+            },
+            {
+                  "name": "trueVR Center",
+                  "text": "An amusement arcade in Wallisellen providing entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        8.626292,
+                        47.414221
+                  ]
+            },
+            {
+                  "name": "Kinder Indoor Spielplatz",
+                  "text": "Offering an all-weather solution for families, the Kinder Indoor Spielplatz is a popular attraction in Wallisellen. This indoor playground in Switzerland provides varied structures specifically engineered for energetic kids. Expect a vibrant enclosed environment perfect for burning off energy on rainy days.",
+                  "category": "family",
+                  "coords": [
+                        8.560211,
+                        47.413873
+                  ]
+            },
+            {
+                  "name": "Adventure Arena",
+                  "text": "An amusement arcade in Wallisellen providing entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        8.603079,
+                        47.394919
+                  ]
+            },
+            {
+                  "name": "Auzelg-Opfikonstrasse",
+                  "text": "Positioned along the street, Auzelg-Opfikonstrasse serves as an easily accessible playground for those traversing Wallisellen. The Swiss recreational spot caters to children seeking a quick play session. Families will find a modest but entertaining setup suitable for a spontaneous outdoor break.",
+                  "category": "family",
+                  "coords": [
+                        8.569607,
+                        47.418065
+                  ]
+            },
+            {
+                  "name": "Spielplatz Robinson/Zelgli",
+                  "text": "Combining adventure with traditional play, Spielplatz Robinson/Zelgli is a highly regarded family destination in Wallisellen. This Swiss site gives kids the freedom to explore diverse climbing and play apparatuses. It promises an engaging outdoor experience for visitors of various ages.",
+                  "category": "family",
+                  "coords": [
+                        8.61312,
+                        47.393302
+                  ]
+            },
+            {
+                  "name": "Mattenhof",
+                  "text": "Nestled in Wallisellen, Mattenhof features a designated outdoor area intended for family recreation. The Swiss playground provides essential equipment for children to enjoy an afternoon outdoors. Parents can anticipate a well-maintained neighborhood setting that encourages active play.",
+                  "category": "family",
+                  "coords": [
+                        8.590024,
+                        47.397837
+                  ]
+            },
+            {
+                  "name": "Waldgarten",
+                  "text": "Waldgarten brings a touch of nature to the typical playground layout within the city of Wallisellen. Characterized by its leafy surroundings, this Swiss family spot integrates play equipment into a garden-like setting. Children will delight in a space that feels slightly removed from urban noise.",
+                  "category": "family",
+                  "coords": [
+                        8.555428,
+                        47.4042
+                  ]
+            },
+            {
+                  "name": "Andreaspark A",
+                  "text": "Situated within a larger recreational area, Andreaspark A is a dedicated playground for families visiting Wallisellen. The Swiss park provides modern play facilities designed to keep kids engaged and physically active. Expect a spacious, community-oriented zone ideal for weekend outings.",
+                  "category": "family",
+                  "coords": [
+                        8.558249,
+                        47.413154
+                  ]
+            },
+            {
+                  "name": "Auhof (Freibad)",
+                  "text": "Located by the open-air bath, the play area at Auhof (Freibad) adds an extra layer of fun for families in Wallisellen. This Swiss playground is often visited alongside the swimming facilities, providing dry-land activities for children. It guarantees a cheerful atmosphere where kids can interact after a swim.",
+                  "category": "family",
+                  "coords": [
+                        8.570133,
+                        47.407752
+                  ]
+            },
+            {
+                  "name": "Roswiesen",
+                  "text": "Roswiesen is a practical neighborhood playground serving the local families of Wallisellen. Found in a peaceful Swiss residential zone, it features all the necessary elements for children's outdoor amusement. Visitors can look forward to a straightforward and safe place for a casual afternoon.",
+                  "category": "family",
+                  "coords": [
+                        8.577731,
+                        47.405382
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schörli-Grünzug",
+                  "text": "Part of a broader green initiative, Spielplatz Schörli-Grünzug offers a natural playground setting in Wallisellen. Families exploring this Swiss path will discover engaging equipment seamlessly blended with the landscaping. It promises a harmonious outdoor escape for energetic youngsters.",
+                  "category": "family",
+                  "coords": [
+                        8.559197,
+                        47.410075
+                  ]
+            },
+            {
+                  "name": "Buchenpark",
+                  "text": "Surrounded by mature trees, Buchenpark incorporates a family-friendly play area in the heart of Wallisellen. The Swiss park provides shaded sections where children can play comfortably even on sunny days. Expect a tranquil municipal space favored by parents seeking relaxation and fun.",
+                  "category": "family",
+                  "coords": [
+                        8.590557,
+                        47.411504
+                  ]
+            },
+            {
+                  "name": "Balacier- und Kletterpark",
+                  "text": "Designed to test agility and balance, the Balancier- und Kletterpark is an adventurous family spot in Wallisellen. Children visiting this Swiss playground can challenge themselves on various climbing and balancing structures. It serves as an excellent environment for developing motor skills while enjoying the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.588281,
+                        47.417806
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Stettbach",
+                  "text": "Schulschwimmanlage Stettbach in Wallisellen is a facility for swimmers.",
+                  "category": "family",
+                  "coords": [
+                        8.580707,
+                        47.401629
+                  ]
+            },
+            {
+                  "name": "Frei- und Hallenbad Bruggwiesen Opfikon",
+                  "text": "Frei- and Hallenbad Bruggwiesen Opfikon in Wallisellen offers various swimming pools.",
+                  "category": "family",
+                  "coords": [
+                        8.569259,
+                        47.432457
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "Planschbecken Wahlenpark in Wallisellen is ideal for small children.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Water World Wallisellen",
+                  "text": "Water World Wallisellen is a sports centre with diverse water offerings.",
+                  "category": "family",
+                  "coords": [
+                        8.5952,
+                        47.417408
+                  ]
+            },
+            {
+                  "name": "Voliere Seebach",
+                  "text": "Voliere Seebach in Wallisellen allows for bird watching.",
+                  "category": "family",
+                  "coords": [
+                        8.548569,
+                        47.42319
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "Planschbecken Föhrenwald in Wallisellen offers water fun for children.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Zoo Zürich",
+                  "text": "One of Switzerland's most renowned zoos, famous for its Masoala Rainforest hall.",
+                  "category": "recreational",
+                  "coords": [
+                        8.5759,
+                        47.386763
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CH",
     name: { de: "Wallisellen", hu: "Wallisellen", ro: "Wallisellen", en: "Wallisellen" },

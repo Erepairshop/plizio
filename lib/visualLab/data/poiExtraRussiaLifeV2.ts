@@ -732,7 +732,196 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
     },
     image: "/poi-images/russia-main-botanical-garden-life-v2.webp",
 },  {
-    id: "russia-sochi-arboretum-life-v2",
+    id: "russia-sochi-arboretum-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Жемчужина",
+                  "text": "Ein zentraler Strandabschnitt in Sotschi, nahe dem Arboretum.",
+                  "category": "recreational",
+                  "coords": [
+                        39.730652,
+                        43.569295
+                  ]
+            },
+            {
+                  "name": "Дель мар",
+                  "text": "Ein gehobener Strandclub an der Küste von Sotschi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.725752,
+                        43.573937
+                  ]
+            },
+            {
+                  "name": "Рыжий пляж",
+                  "text": "Ein modern gestalteter Strandbereich in Sotschi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.732746,
+                        43.568162
+                  ]
+            },
+            {
+                  "name": "Солнечный",
+                  "text": "Ein öffentlicher Strand an der Schwarzmeerküste von Sotschi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.74029,
+                        43.565555
+                  ]
+            },
+            {
+                  "name": "пляж",
+                  "text": "Ein bekannter Strand- und Parkbereich im Zentrum von Sotschi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.726789,
+                        43.572774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Жемчужина",
+                  "text": "Központi strandszakasz Szocsiban, az arborétum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        39.730652,
+                        43.569295
+                  ]
+            },
+            {
+                  "name": "Дель мар",
+                  "text": "Színvonalas strandklub Szocsi tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        39.725752,
+                        43.573937
+                  ]
+            },
+            {
+                  "name": "Рыжий пляж",
+                  "text": "Modern kialakítású strandterület Szocsiban.",
+                  "category": "recreational",
+                  "coords": [
+                        39.732746,
+                        43.568162
+                  ]
+            },
+            {
+                  "name": "Солнечный",
+                  "text": "Nyilvános strand Szocsi fekete-tengeri partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        39.74029,
+                        43.565555
+                  ]
+            },
+            {
+                  "name": "пляж",
+                  "text": "Ismert strand- és parkövezet Szocsi központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        39.726789,
+                        43.572774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Жемчужина",
+                  "text": "O secțiune centrală de plajă în Soci, lângă arboret.",
+                  "category": "recreational",
+                  "coords": [
+                        39.730652,
+                        43.569295
+                  ]
+            },
+            {
+                  "name": "Дель мар",
+                  "text": "Un club de plajă elegant pe litoralul din Soci.",
+                  "category": "recreational",
+                  "coords": [
+                        39.725752,
+                        43.573937
+                  ]
+            },
+            {
+                  "name": "Рыжий пляж",
+                  "text": "O zonă de plajă modernă în Soci.",
+                  "category": "recreational",
+                  "coords": [
+                        39.732746,
+                        43.568162
+                  ]
+            },
+            {
+                  "name": "Солнечный",
+                  "text": "O plajă publică pe coasta Mării Negre din Soci.",
+                  "category": "recreational",
+                  "coords": [
+                        39.74029,
+                        43.565555
+                  ]
+            },
+            {
+                  "name": "пляж",
+                  "text": "O zonă cunoscută de plajă și parc în centrul orașului Soci.",
+                  "category": "recreational",
+                  "coords": [
+                        39.726789,
+                        43.572774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Жемчужина",
+                  "text": "A central beach section in Sochi, located near the arboretum.",
+                  "category": "recreational",
+                  "coords": [
+                        39.730652,
+                        43.569295
+                  ]
+            },
+            {
+                  "name": "Дель мар",
+                  "text": "An upscale beach club on the coast of Sochi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.725752,
+                        43.573937
+                  ]
+            },
+            {
+                  "name": "Рыжий пляж",
+                  "text": "A modernly designed beach area in Sochi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.732746,
+                        43.568162
+                  ]
+            },
+            {
+                  "name": "Solnechny",
+                  "text": "A public beach on the Black Sea coast of Sochi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.74029,
+                        43.565555
+                  ]
+            },
+            {
+                  "name": "Riviera",
+                  "text": "A well-known beach and park area in the center of Sochi.",
+                  "category": "recreational",
+                  "coords": [
+                        39.726789,
+                        43.572774
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "park",
     name: { de: "Dendrologischer Park von Sotschi", hu: "Szocsi Arborétum", ro: "Arboretumul din Soci", en: "Sochi Arboretum"},
@@ -1355,7 +1544,52 @@ imageHint: "Caucasian chamois in high mountains",
     }
   },
   {
-    id: "russia-oka-reserve-life-v2",
+    id: "russia-oka-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsentral'naia usad'ba Okskogo zapovednika",
+                  "text": "Das Verwaltungszentrum des Okski-Reservats mit einem angeschlossenen Wildpark.",
+                  "category": "recreational",
+                  "coords": [
+                        40.858365,
+                        54.712427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsentral'naia usad'ba Okskogo zapovednika",
+                  "text": "Az Okszki Természetvédelmi Terület központja és vadasparkja.",
+                  "category": "recreational",
+                  "coords": [
+                        40.858365,
+                        54.712427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsentral'naia usad'ba Okskogo zapovednika",
+                  "text": "Centrul administrativ al Rezervației Okski, cu un parc de animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        40.858365,
+                        54.712427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsentral'naia usad'ba Okskogo zapovednika",
+                  "text": "The administrative center of the Oka Nature Reserve with an attached wildlife park.",
+                  "category": "recreational",
+                  "coords": [
+                        40.858365,
+                        54.712427
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Oka-Naturreservat", hu: "Okai Természetvédelmi Terület", ro: "Rezervația Naturală Oka", en: "Oka Nature Reserve"},

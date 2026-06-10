@@ -291,7 +291,52 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-kastre-castle-history-v2.webp",
   },
   {
-    id: "estonia-pirita-convent-history-v2",
+    id: "estonia-pirita-convent-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pirita rand",
+                  "text": "Pirita Beach ist der größte und beliebteste Sandstrand in Tallinn, in der Nähe der Klosterruinen von Pirita.",
+                  "category": "recreational",
+                  "coords": [
+                        24.833318,
+                        59.476283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirita rand",
+                  "text": "A Pirita Beach Tallinn legnagyobb és legnépszerűbb homokos strandja, a piritai kolostorromok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.833318,
+                        59.476283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirita rand",
+                  "text": "Pirita Beach este cea mai mare și populară plajă de nisip din Tallinn, situată lângă ruinele mănăstirii Pirita.",
+                  "category": "recreational",
+                  "coords": [
+                        24.833318,
+                        59.476283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirita Beach",
+                  "text": "Pirita Beach is the largest and most popular sandy beach in Tallinn, located near the Pirita Convent ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        24.833318,
+                        59.476283
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "EE",
     name: { de: "Klosterruine Pirita", hu: "Pirita kolostorromok", ro: "Ruinele Mănăstirii Pirita", en: "Pirita Convent Ruins" },
@@ -336,7 +381,52 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-pirita-convent-history-v2.webp",
   },
   {
-    id: "estonia-viimsi-manor-history-v2",
+    id: "estonia-viimsi-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viimsi vabaõhumuuseumi ujumiskoht",
+                  "text": "Ein Badeplatz in der Nähe des Freilichtmuseums von Viimsi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.796379,
+                        59.52386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viimsi vabaõhumuuseumi ujumiskoht",
+                  "text": "Fürdőhely a Viimsi Szabadtéri Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.796379,
+                        59.52386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viimsi vabaõhumuuseumi ujumiskoht",
+                  "text": "Un loc de scăldat situat în apropierea Muzeului Satului din Viimsi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.796379,
+                        59.52386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viimsi vabaõhumuuseumi ujumiskoht",
+                  "text": "A swimming spot located near the Viimsi Open Air Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        24.796379,
+                        59.52386
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "EE",
     name: { de: "Gutshaus Viimsi", hu: "Viimsi udvarház", ro: "Conacul Viimsi", en: "Viimsi Manor" },
@@ -1498,6 +1588,24 @@ export const estoniaHistoryV2: POI[] = [
                         25.124136,
                         59.445905
                   ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Ein lokaler Badeplatz am Fluss in der Nähe des historischen Gutshofs Jägala.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Ein natürlicher Badeplatz im Freien in der Umgebung des Gutshofs Jägala.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
+                  ]
             }
       ],
       "hu": [
@@ -1562,6 +1670,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.124136,
                         59.445905
+                  ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Helyi folyóparti fürdőhely a történelmi Jägala-kúria közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Természetes szabadtéri fürdőhely a Jägala-kúria környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
                   ]
             }
       ],
@@ -1628,6 +1754,24 @@ export const estoniaHistoryV2: POI[] = [
                         25.124136,
                         59.445905
                   ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "O zonă locală de înot pe malul râului, lângă conacul istoric Jägala.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Un loc natural de înot în aer liber situat în vecinătatea conacului Jägala.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
+                  ]
             }
       ],
       "en": [
@@ -1692,6 +1836,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.124136,
                         59.445905
+                  ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "A local riverside swimming area near the historic Jägala Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "A natural outdoor swimming spot located in the vicinity of Jägala Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
                   ]
             }
       ]
@@ -1786,6 +1948,15 @@ export const estoniaHistoryV2: POI[] = [
                         25.968355,
                         58.657702
                   ]
+            },
+            {
+                  "name": "Wpark Põltsamaa ujumiskoht",
+                  "text": "Ein ausgewiesener Badestelle am Fluss in der Nähe der Schlossruine Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987843,
+                        58.618123
+                  ]
             }
       ],
       "hu": [
@@ -1832,6 +2003,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.968355,
                         58.657702
+                  ]
+            },
+            {
+                  "name": "Wpark Põltsamaa ujumiskoht",
+                  "text": "Kijelölt folyóparti fürdőhely a põltsamaai várromok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987843,
+                        58.618123
                   ]
             }
       ],
@@ -1880,6 +2060,15 @@ export const estoniaHistoryV2: POI[] = [
                         25.968355,
                         58.657702
                   ]
+            },
+            {
+                  "name": "Wpark Põltsamaa ujumiskoht",
+                  "text": "Un loc amenajat pentru scăldat situat lângă ruinele castelului Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987843,
+                        58.618123
+                  ]
             }
       ],
       "en": [
@@ -1926,6 +2115,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.968355,
                         58.657702
+                  ]
+            },
+            {
+                  "name": "Wpark Põltsamaa ujumiskoht",
+                  "text": "A designated riverside swimming area located near the Põltsamaa Castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987843,
+                        58.618123
                   ]
             }
       ]
@@ -2065,6 +2263,15 @@ export const estoniaHistoryV2: POI[] = [
                         25.466267,
                         58.525818
                   ]
+            },
+            {
+                  "name": "Suure-Jaani ujumiskoht",
+                  "text": "Ein Badeplatz in der Nähe der Kirche von Suure-Jaani.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47158,
+                        58.532225
+                  ]
             }
       ],
       "hu": [
@@ -2111,6 +2318,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.466267,
                         58.525818
+                  ]
+            },
+            {
+                  "name": "Suure-Jaani ujumiskoht",
+                  "text": "Fürdőhely a Suure-Jaani templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47158,
+                        58.532225
                   ]
             }
       ],
@@ -2159,6 +2375,15 @@ export const estoniaHistoryV2: POI[] = [
                         25.466267,
                         58.525818
                   ]
+            },
+            {
+                  "name": "Suure-Jaani ujumiskoht",
+                  "text": "Un loc de scăldat în apropierea bisericii din Suure-Jaani.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47158,
+                        58.532225
+                  ]
             }
       ],
       "en": [
@@ -2205,6 +2430,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.466267,
                         58.525818
+                  ]
+            },
+            {
+                  "name": "Suure-Jaani ujumiskoht",
+                  "text": "A swimming area located near the Suure-Jaani Church.",
+                  "category": "recreational",
+                  "coords": [
+                        25.47158,
+                        58.532225
                   ]
             }
       ]
@@ -3109,6 +3343,15 @@ export const estoniaHistoryV2: POI[] = [
                         24.814383,
                         58.48565
                   ]
+            },
+            {
+                  "name": "Taali ujumiskoht",
+                  "text": "Ein Badeplatz am Fluss in der Nähe der Kirche von Tori.",
+                  "category": "recreational",
+                  "coords": [
+                        24.76258,
+                        58.449773
+                  ]
             }
       ],
       "hu": [
@@ -3146,6 +3389,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.814383,
                         58.48565
+                  ]
+            },
+            {
+                  "name": "Taali ujumiskoht",
+                  "text": "Folyóparti fürdőhely a tori templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.76258,
+                        58.449773
                   ]
             }
       ],
@@ -3185,6 +3437,15 @@ export const estoniaHistoryV2: POI[] = [
                         24.814383,
                         58.48565
                   ]
+            },
+            {
+                  "name": "Taali ujumiskoht",
+                  "text": "Un loc de înot pe malul râului, în apropierea Bisericii Tori.",
+                  "category": "recreational",
+                  "coords": [
+                        24.76258,
+                        58.449773
+                  ]
             }
       ],
       "en": [
@@ -3222,6 +3483,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.814383,
                         58.48565
+                  ]
+            },
+            {
+                  "name": "Taali ujumiskoht",
+                  "text": "A riverside swimming spot located near the Tori Church.",
+                  "category": "recreational",
+                  "coords": [
+                        24.76258,
+                        58.449773
                   ]
             }
       ]
@@ -3397,6 +3667,15 @@ export const estoniaHistoryV2: POI[] = [
                         27.057481,
                         58.945801
                   ]
+            },
+            {
+                  "name": "Tammispää ujumiskoht",
+                  "text": "Ein Badeplatz am Ufer des Peipus-Sees bei der Kirche von Lohusuu.",
+                  "category": "recreational",
+                  "coords": [
+                        27.013311,
+                        58.920477
+                  ]
             }
       ],
       "hu": [
@@ -3434,6 +3713,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.057481,
                         58.945801
+                  ]
+            },
+            {
+                  "name": "Tammispää ujumiskoht",
+                  "text": "Fürdőhely a Csúd-tó partján, a lohusuui templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.013311,
+                        58.920477
                   ]
             }
       ],
@@ -3473,6 +3761,15 @@ export const estoniaHistoryV2: POI[] = [
                         27.057481,
                         58.945801
                   ]
+            },
+            {
+                  "name": "Tammispää ujumiskoht",
+                  "text": "Un loc de scăldat pe malul lacului Peipus, lângă biserica din Lohusuu.",
+                  "category": "recreational",
+                  "coords": [
+                        27.013311,
+                        58.920477
+                  ]
             }
       ],
       "en": [
@@ -3510,6 +3807,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.057481,
                         58.945801
+                  ]
+            },
+            {
+                  "name": "Tammispää ujumiskoht",
+                  "text": "A swimming spot on the shores of Lake Peipus near Lohusuu Church.",
+                  "category": "recreational",
+                  "coords": [
+                        27.013311,
+                        58.920477
                   ]
             }
       ]
@@ -4045,6 +4351,15 @@ export const estoniaHistoryV2: POI[] = [
                         26.190835,
                         58.249256
                   ]
+            },
+            {
+                  "name": "Trepimäe ujumiskoht",
+                  "text": "Eine Badestelle am Võrtsjärv-See, die für ihr flaches Wasser und den Sandstrand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        26.130472,
+                        58.231872
+                  ]
             }
       ],
       "hu": [
@@ -4073,6 +4388,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.190835,
                         58.249256
+                  ]
+            },
+            {
+                  "name": "Trepimäe ujumiskoht",
+                  "text": "Fürdőhely a Võrtsjärv-tónál, amely sekély vizéről és homokos partjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        26.130472,
+                        58.231872
                   ]
             }
       ],
@@ -4103,6 +4427,15 @@ export const estoniaHistoryV2: POI[] = [
                         26.190835,
                         58.249256
                   ]
+            },
+            {
+                  "name": "Trepimäe ujumiskoht",
+                  "text": "Un loc de scăldat la lacul Võrtsjärv, cunoscut pentru apa sa puțin adâncă și plaja cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        26.130472,
+                        58.231872
+                  ]
             }
       ],
       "en": [
@@ -4131,6 +4464,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.190835,
                         58.249256
+                  ]
+            },
+            {
+                  "name": "Trepimäe ujumiskoht",
+                  "text": "A swimming spot at Lake Võrtsjärv, known for its shallow waters and sandy beach.",
+                  "category": "recreational",
+                  "coords": [
+                        26.130472,
+                        58.231872
                   ]
             }
       ]
@@ -4657,6 +4999,15 @@ export const estoniaHistoryV2: POI[] = [
                         25.166859,
                         59.18821
                   ]
+            },
+            {
+                  "name": "Kose Ujula",
+                  "text": "Ein Schwimmbad, das Sport- und Entspannungsmöglichkeiten in der Nähe der Kose-Kirche bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.160907,
+                        59.18538
+                  ]
             }
       ],
       "hu": [
@@ -4703,6 +5054,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.166859,
                         59.18821
+                  ]
+            },
+            {
+                  "name": "Kose Ujula",
+                  "text": "Úszómedence, amely sportolási és pihenési lehetőségeket kínál a Kose-templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.160907,
+                        59.18538
                   ]
             }
       ],
@@ -4751,6 +5111,15 @@ export const estoniaHistoryV2: POI[] = [
                         25.166859,
                         59.18821
                   ]
+            },
+            {
+                  "name": "Kose Ujula",
+                  "text": "O piscină care oferă facilități de sport și relaxare în apropierea bisericii Kose.",
+                  "category": "recreational",
+                  "coords": [
+                        25.160907,
+                        59.18538
+                  ]
             }
       ],
       "en": [
@@ -4797,6 +5166,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.166859,
                         59.18821
+                  ]
+            },
+            {
+                  "name": "Kose Ujula",
+                  "text": "A swimming pool offering sports and relaxation facilities near the Kose Church.",
+                  "category": "recreational",
+                  "coords": [
+                        25.160907,
+                        59.18538
                   ]
             }
       ]
@@ -4864,6 +5242,24 @@ export const estoniaHistoryV2: POI[] = [
                         26.847518,
                         58.696178
                   ]
+            },
+            {
+                  "name": "Jõemõisa järve ujumiskoht",
+                  "text": "Eine Badestelle am Jõemõisa-See in der Region Saare.",
+                  "category": "recreational",
+                  "coords": [
+                        26.842194,
+                        58.652447
+                  ]
+            },
+            {
+                  "name": "Kääpa ujumiskoht",
+                  "text": "Ein lokaler Badeplatz in Kääpa in der Nähe des Schlosses Saare.",
+                  "category": "recreational",
+                  "coords": [
+                        26.853408,
+                        58.69445
+                  ]
             }
       ],
       "hu": [
@@ -4883,6 +5279,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.847518,
                         58.696178
+                  ]
+            },
+            {
+                  "name": "Jõemõisa järve ujumiskoht",
+                  "text": "Fürdőhely a Jõemõisa-tónál, a Saare-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.842194,
+                        58.652447
+                  ]
+            },
+            {
+                  "name": "Kääpa ujumiskoht",
+                  "text": "Helyi fürdőhely Kääpában, a Saare-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.853408,
+                        58.69445
                   ]
             }
       ],
@@ -4904,6 +5318,24 @@ export const estoniaHistoryV2: POI[] = [
                         26.847518,
                         58.696178
                   ]
+            },
+            {
+                  "name": "Jõemõisa järve ujumiskoht",
+                  "text": "Un loc pentru scăldat pe malul lacului Jõemõisa, în regiunea Saare.",
+                  "category": "recreational",
+                  "coords": [
+                        26.842194,
+                        58.652447
+                  ]
+            },
+            {
+                  "name": "Kääpa ujumiskoht",
+                  "text": "Un loc local pentru scăldat în Kääpa, situat lângă castelul Saare.",
+                  "category": "recreational",
+                  "coords": [
+                        26.853408,
+                        58.69445
+                  ]
             }
       ],
       "en": [
@@ -4923,6 +5355,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.847518,
                         58.696178
+                  ]
+            },
+            {
+                  "name": "Jõemõisa järve ujumiskoht",
+                  "text": "A swimming spot on the shores of Lake Jõemõisa in the Saare region.",
+                  "category": "recreational",
+                  "coords": [
+                        26.842194,
+                        58.652447
+                  ]
+            },
+            {
+                  "name": "Kääpa ujumiskoht",
+                  "text": "A local swimming area in Kääpa located near Saare Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        26.853408,
+                        58.69445
                   ]
             }
       ]

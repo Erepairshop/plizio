@@ -2895,6 +2895,15 @@ imageHint: "Panoramic view of the Eisch valley",
                         6.167867,
                         49.964287
                   ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "Ein beheiztes Freibad mit Rutschen in der Nähe von Vianden.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
+                  ]
             }
       ],
       "hu": [
@@ -2968,6 +2977,15 @@ imageHint: "Panoramic view of the Eisch valley",
                   "coords": [
                         6.167867,
                         49.964287
+                  ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "Fűtött szabadtéri strand csúszdákkal Vianden közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
                   ]
             }
       ],
@@ -3043,6 +3061,15 @@ imageHint: "Panoramic view of the Eisch valley",
                         6.167867,
                         49.964287
                   ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "O piscină în aer liber încălzită, cu tobogane, lângă Vianden.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
+                  ]
             }
       ],
       "en": [
@@ -3116,6 +3143,15 @@ imageHint: "Panoramic view of the Eisch valley",
                   "coords": [
                         6.167867,
                         49.964287
+                  ]
+            },
+            {
+                  "name": "Piscine de Vianden",
+                  "text": "A heated outdoor swimming pool with slides near Vianden.",
+                  "category": "recreational",
+                  "coords": [
+                        6.209628,
+                        49.937428
                   ]
             }
       ]

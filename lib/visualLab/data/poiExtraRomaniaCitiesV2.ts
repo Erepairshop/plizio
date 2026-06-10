@@ -2319,6 +2319,15 @@ export const romaniaCitiesV2: POI[] = [
                         24.370507,
                         45.106003
                   ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "Eine moderne Schwimmanlage in Râmnicu Vâlcea für Sport und Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        24.375689,
+                        45.096757
+                  ]
             }
       ],
       "hu": [
@@ -2578,6 +2587,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.370507,
                         45.106003
+                  ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "Modern úszólétesítmény Râmnicu Vâlcea városában, sportolásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        24.375689,
+                        45.096757
                   ]
             }
       ],
@@ -2839,6 +2857,15 @@ export const romaniaCitiesV2: POI[] = [
                         24.370507,
                         45.106003
                   ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "O bază de înot modernă în Râmnicu Vâlcea pentru sport și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        24.375689,
+                        45.096757
+                  ]
             }
       ],
       "en": [
@@ -3098,6 +3125,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.370507,
                         45.106003
+                  ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "A modern swimming facility in Râmnicu Vâlcea for sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.375689,
+                        45.096757
                   ]
             }
       ]
@@ -6753,6 +6789,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.741361,
                         45.120591
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Ein Schwimmbecken für Erwachsene in Câmpina, ideal für Bahnenziehen und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Ein Freibad in Câmpina, das Teil eines Hotelkomplexes ist und im Sommer zur Abkühlung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728531,
+                        45.129011
+                  ]
             }
       ],
       "hu": [
@@ -6854,6 +6908,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.741361,
                         45.120591
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Felnőtt úszómedence Câmpinában, ideális sportolásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Kültéri strand Câmpinában, amely egy szállodakomplexum része és nyáron várja a fürdőzőket.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728531,
+                        45.129011
                   ]
             }
       ],
@@ -6957,6 +7029,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.741361,
                         45.120591
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "O piscină pentru adulți în Câmpina, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Un ștrand în Câmpina, parte a unui complex hotelier, ideal pentru răcorire pe timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728531,
+                        45.129011
+                  ]
             }
       ],
       "en": [
@@ -7058,6 +7148,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.741361,
                         45.120591
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "A swimming pool for adults in Câmpina, ideal for exercise and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "An outdoor pool in Câmpina, part of a hotel complex, popular for cooling off in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728531,
+                        45.129011
                   ]
             }
       ]
@@ -17721,6 +17829,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.964795,
                         44.312919
                   ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Ein Denkmal zu Ehren der gefallenen Helden in der Gemeinde Dărăști-Ilfov.",
+                  "category": "historical",
+                  "coords": [
+                        25.984712,
+                        44.300642
+                  ]
             }
       ],
       "hu": [
@@ -17749,6 +17866,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.964795,
                         44.312919
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "A Dărăști-Ilfov község elesett hőseinek tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        25.984712,
+                        44.300642
                   ]
             }
       ],
@@ -17779,6 +17905,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.964795,
                         44.312919
                   ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Un monument ridicat în cinstea eroilor căzuți din comuna Dărăști-Ilfov.",
+                  "category": "historical",
+                  "coords": [
+                        25.984712,
+                        44.300642
+                  ]
             }
       ],
       "en": [
@@ -17807,6 +17942,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.964795,
                         44.312919
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "A monument erected in honor of the fallen heroes in Dărăști-Ilfov.",
+                  "category": "historical",
+                  "coords": [
+                        25.984712,
+                        44.300642
                   ]
             }
       ]
@@ -19664,6 +19808,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.173835,
                         44.707738
                   ]
+            },
+            {
+                  "name": "Piscina Complexului ASTORIA Snagov",
+                  "text": "Das Schwimmbad des Astoria-Komplexes in Snagov liegt in einer waldreichen Gegend nahe dem See.",
+                  "category": "recreational",
+                  "coords": [
+                        26.189556,
+                        44.723257
+                  ]
             }
       ],
       "hu": [
@@ -19724,6 +19877,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.173835,
                         44.707738
+                  ]
+            },
+            {
+                  "name": "Piscina Complexului ASTORIA Snagov",
+                  "text": "A snagovi Astoria komplexum úszómedencéje, amely erdős környezetben, a tó közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        26.189556,
+                        44.723257
                   ]
             }
       ],
@@ -19786,6 +19948,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.173835,
                         44.707738
                   ]
+            },
+            {
+                  "name": "Piscina Complexului ASTORIA Snagov",
+                  "text": "Piscina complexului Astoria din Snagov, situată într-o zonă împădurită aproape de lac.",
+                  "category": "recreational",
+                  "coords": [
+                        26.189556,
+                        44.723257
+                  ]
             }
       ],
       "en": [
@@ -19846,6 +20017,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.173835,
                         44.707738
+                  ]
+            },
+            {
+                  "name": "Piscina Complexului ASTORIA Snagov",
+                  "text": "The swimming pool of the Astoria complex in Snagov, situated in a wooded area near the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        26.189556,
+                        44.723257
                   ]
             }
       ]
@@ -21918,6 +22098,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.064001,
                         44.587984
                   ]
+            },
+            {
+                  "name": "Mineral Water Pool",
+                  "text": "Ein Thermalbecken in Balotești, das für seine entspannenden mineralhaltigen Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085298,
+                        44.60409
+                  ]
+            },
+            {
+                  "name": "Outdoor Galaxy Pool",
+                  "text": "Ein Außenbecken in Balotești, das ganzjährig beheiztes Schwimmen im Freien ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        26.086909,
+                        44.60492
+                  ]
             }
       ],
       "hu": [
@@ -22022,6 +22220,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.064001,
                         44.587984
+                  ]
+            },
+            {
+                  "name": "Mineral Water Pool",
+                  "text": "Balotești melletti termálvizes medence, amely pihentető ásványi anyagokban gazdag vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085298,
+                        44.60409
+                  ]
+            },
+            {
+                  "name": "Outdoor Galaxy Pool",
+                  "text": "Kültéri medence Balotești közelében, amely egész évben lehetővé teszi a szabadban való fürdőzést.",
+                  "category": "recreational",
+                  "coords": [
+                        26.086909,
+                        44.60492
                   ]
             }
       ],
@@ -22128,6 +22344,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.064001,
                         44.587984
                   ]
+            },
+            {
+                  "name": "Mineral Water Pool",
+                  "text": "O piscină cu apă minerală în Balotești, cunoscută pentru proprietățile sale relaxante.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085298,
+                        44.60409
+                  ]
+            },
+            {
+                  "name": "Outdoor Galaxy Pool",
+                  "text": "O piscină exterioară în Balotești care permite înotul în aer liber pe tot parcursul anului.",
+                  "category": "recreational",
+                  "coords": [
+                        26.086909,
+                        44.60492
+                  ]
             }
       ],
       "en": [
@@ -22232,6 +22466,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.064001,
                         44.587984
+                  ]
+            },
+            {
+                  "name": "Mineral Water Pool",
+                  "text": "A mineral water pool in Balotești, known for its relaxing mineral-rich waters.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085298,
+                        44.60409
+                  ]
+            },
+            {
+                  "name": "Outdoor Galaxy Pool",
+                  "text": "An outdoor pool in Balotești allowing for year-round swimming in the open air.",
+                  "category": "recreational",
+                  "coords": [
+                        26.086909,
+                        44.60492
                   ]
             }
       ]
@@ -23675,6 +23927,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.910968,
                         44.400515
                   ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "Ein großer Wasserpark in der Nähe von Bukarest mit zahlreichen Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.944914,
+                        44.432337
+                  ]
             }
       ],
       "hu": [
@@ -23721,6 +23982,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.910968,
                         44.400515
+                  ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "Nagy vízi park Bukarest közelében, számos csúszdával.",
+                  "category": "recreational",
+                  "coords": [
+                        25.944914,
+                        44.432337
                   ]
             }
       ],
@@ -23769,6 +24039,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.910968,
                         44.400515
                   ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "Un parc acvatic mare lângă București, cu numeroase tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        25.944914,
+                        44.432337
+                  ]
             }
       ],
       "en": [
@@ -23815,6 +24094,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.910968,
                         44.400515
+                  ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "A large water park near Bucharest with numerous slides.",
+                  "category": "recreational",
+                  "coords": [
+                        25.944914,
+                        44.432337
                   ]
             }
       ]

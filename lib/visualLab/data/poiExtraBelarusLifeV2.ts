@@ -329,6 +329,15 @@ export const belarusLifeV2: POI[] = [
                         28.298636,
                         54.744152
                   ]
+            },
+            {
+                  "name": "Laznia GK <<Serguch>>",
+                  "text": "Ein traditionelles öffentliches Badehaus im Biosphärenreservat Beresinski.",
+                  "category": "recreational",
+                  "coords": [
+                        28.309771,
+                        54.746068
+                  ]
             }
       ],
       "hu": [
@@ -348,6 +357,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         28.298636,
                         54.744152
+                  ]
+            },
+            {
+                  "name": "Laznia GK <<Serguch>>",
+                  "text": "Hagyományos közfürdő a Berezinszkij Bioszféra-rezervátum területén.",
+                  "category": "recreational",
+                  "coords": [
+                        28.309771,
+                        54.746068
                   ]
             }
       ],
@@ -369,6 +387,15 @@ export const belarusLifeV2: POI[] = [
                         28.298636,
                         54.744152
                   ]
+            },
+            {
+                  "name": "Laznia GK <<Serguch>>",
+                  "text": "O baie publică tradițională situată în cadrul Rezervației Biosferei Berezinsky.",
+                  "category": "recreational",
+                  "coords": [
+                        28.309771,
+                        54.746068
+                  ]
             }
       ],
       "en": [
@@ -388,6 +415,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         28.298636,
                         54.744152
+                  ]
+            },
+            {
+                  "name": "Laznia GK <<Serguch>>",
+                  "text": "A traditional public bathhouse located within the Berezinsky Biosphere Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        28.309771,
+                        54.746068
                   ]
             }
       ]
@@ -509,6 +545,15 @@ export const belarusLifeV2: POI[] = [
                         26.703961,
                         54.824331
                   ]
+            },
+            {
+                  "name": "Ekalagichnaia pliatsouka <<Babrovaia khatka>>",
+                  "text": "Ein ökologischer Tierpark im Nationalpark Narotschanski.",
+                  "category": "recreational",
+                  "coords": [
+                        26.709647,
+                        54.8371
+                  ]
             }
       ],
       "hu": [
@@ -537,6 +582,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         26.703961,
                         54.824331
+                  ]
+            },
+            {
+                  "name": "Ekalagichnaia pliatsouka <<Babrovaia khatka>>",
+                  "text": "Ökológiai állatpark a Narocsanszkij Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.709647,
+                        54.8371
                   ]
             }
       ],
@@ -567,6 +621,15 @@ export const belarusLifeV2: POI[] = [
                         26.703961,
                         54.824331
                   ]
+            },
+            {
+                  "name": "Ekalagichnaia pliatsouka <<Babrovaia khatka>>",
+                  "text": "Un parc zoologic ecologic în Parcul Național Narotschanski.",
+                  "category": "recreational",
+                  "coords": [
+                        26.709647,
+                        54.8371
+                  ]
             }
       ],
       "en": [
@@ -595,6 +658,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         26.703961,
                         54.824331
+                  ]
+            },
+            {
+                  "name": "Ekalagichnaia pliatsouka <<Babrovaia khatka>>",
+                  "text": "An ecological animal park located in the Narochansky National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        26.709647,
+                        54.8371
                   ]
             }
       ]
@@ -986,6 +1058,15 @@ export const belarusLifeV2: POI[] = [
                         28.113785,
                         56.013723
                   ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "Eine Badeeinrichtung im Landschaftsschutzgebiet Osvejsky.",
+                  "category": "recreational",
+                  "coords": [
+                        28.102416,
+                        56.019338
+                  ]
             }
       ],
       "hu": [
@@ -1014,6 +1095,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         28.113785,
                         56.013723
+                  ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "Fürdőhely az Oszejszkij tájvédelmi körzetben.",
+                  "category": "recreational",
+                  "coords": [
+                        28.102416,
+                        56.019338
                   ]
             }
       ],
@@ -1044,6 +1134,15 @@ export const belarusLifeV2: POI[] = [
                         28.113785,
                         56.013723
                   ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "O unitate de baie în rezervația peisagistică Osveiski.",
+                  "category": "recreational",
+                  "coords": [
+                        28.102416,
+                        56.019338
+                  ]
             }
       ],
       "en": [
@@ -1072,6 +1171,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         28.113785,
                         56.013723
+                  ]
+            },
+            {
+                  "name": "Laznia",
+                  "text": "A bathing facility located within the Osveysky Landscape Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        28.102416,
+                        56.019338
                   ]
             }
       ]
@@ -1229,6 +1337,15 @@ export const belarusLifeV2: POI[] = [
                         29.282047,
                         55.357437
                   ]
+            },
+            {
+                  "name": "Gramadskaia laznia",
+                  "text": "Ein öffentliches Bad im biologischen Reservat Kosjany.",
+                  "category": "recreational",
+                  "coords": [
+                        29.303259,
+                        55.351287
+                  ]
             }
       ],
       "hu": [
@@ -1248,6 +1365,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         29.282047,
                         55.357437
+                  ]
+            },
+            {
+                  "name": "Gramadskaia laznia",
+                  "text": "Közfürdő a Kozjanszkij biológiai rezervátumban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.303259,
+                        55.351287
                   ]
             }
       ],
@@ -1269,6 +1395,15 @@ export const belarusLifeV2: POI[] = [
                         29.282047,
                         55.357437
                   ]
+            },
+            {
+                  "name": "Gramadskaia laznia",
+                  "text": "O baie publică în Rezervația Biologică Kozyansky.",
+                  "category": "recreational",
+                  "coords": [
+                        29.303259,
+                        55.351287
+                  ]
             }
       ],
       "en": [
@@ -1288,6 +1423,15 @@ export const belarusLifeV2: POI[] = [
                   "coords": [
                         29.282047,
                         55.357437
+                  ]
+            },
+            {
+                  "name": "Gramadskaia laznia",
+                  "text": "A public bath located in the Kozyansky Biological Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        29.303259,
+                        55.351287
                   ]
             }
       ]

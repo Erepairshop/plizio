@@ -7912,6 +7912,24 @@ export const romaniaCities: POI[] = [
                         25.462979,
                         44.964176
                   ]
+            },
+            {
+                  "name": "Dom",
+                  "text": "Ein Schwimmbad in Târgoviște, das Sportmöglichkeiten für Bewohner der Stadt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.479685,
+                        44.928471
+                  ]
+            },
+            {
+                  "name": "Complex Turistic de Natație Târgoviște",
+                  "text": "Ein moderner Schwimmkomplex in Târgoviște mit mehreren Becken und Freizeitanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.488133,
+                        44.923743
+                  ]
             }
       ],
       "hu": [
@@ -8175,6 +8193,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.462979,
                         44.964176
+                  ]
+            },
+            {
+                  "name": "Dom",
+                  "text": "Uszoda Târgoviște városában, amely sportolási lehetőséget nyújt a lakosoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        25.479685,
+                        44.928471
+                  ]
+            },
+            {
+                  "name": "Complex Turistic de Natație Târgoviște",
+                  "text": "Modern úszókomplexum Târgoviștében, több medencével és szabadidős létesítménnyel.",
+                  "category": "recreational",
+                  "coords": [
+                        25.488133,
+                        44.923743
                   ]
             }
       ],
@@ -8440,6 +8476,24 @@ export const romaniaCities: POI[] = [
                         25.462979,
                         44.964176
                   ]
+            },
+            {
+                  "name": "Dom",
+                  "text": "O piscină în Târgoviște care oferă facilități sportive pentru locuitorii orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.479685,
+                        44.928471
+                  ]
+            },
+            {
+                  "name": "Complex Turistic de Natație Târgoviște",
+                  "text": "Un complex modern de natație în Târgoviște, cu mai multe bazine și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        25.488133,
+                        44.923743
+                  ]
             }
       ],
       "en": [
@@ -8703,6 +8757,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.462979,
                         44.964176
+                  ]
+            },
+            {
+                  "name": "Dom",
+                  "text": "A swimming pool in Târgoviște offering sports facilities for the city's residents.",
+                  "category": "recreational",
+                  "coords": [
+                        25.479685,
+                        44.928471
+                  ]
+            },
+            {
+                  "name": "Complex Turistic de Natație Târgoviște",
+                  "text": "A modern swimming complex in Târgoviște with several pools and recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        25.488133,
+                        44.923743
                   ]
             }
       ]
@@ -26189,6 +26261,24 @@ export const romaniaCities: POI[] = [
                         23.61652,
                         46.762072
                   ]
+            },
+            {
+                  "name": "Palatul Copiilor - piscină",
+                  "text": "Ein Schwimmbad für Kinder und Jugendliche in Cluj-Napoca, Teil des Palastes der Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588593,
+                        46.764571
+                  ]
+            },
+            {
+                  "name": "Bazin interior",
+                  "text": "Ein Hallenbad in Cluj-Napoca, das für Trainingseinheiten und Wassersport genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        23.563668,
+                        46.766059
+                  ]
             }
       ],
       "hu": [
@@ -26794,6 +26884,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.61652,
                         46.762072
+                  ]
+            },
+            {
+                  "name": "Palatul Copiilor - piscină",
+                  "text": "Gyermekeknek és fiataloknak fenntartott uszoda Kolozsváron, a Gyermekpalota része.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588593,
+                        46.764571
+                  ]
+            },
+            {
+                  "name": "Bazin interior",
+                  "text": "Fedett medence Kolozsváron, amelyet edzésekre és vízi sportokra használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        23.563668,
+                        46.766059
                   ]
             }
       ],
@@ -27401,6 +27509,24 @@ export const romaniaCities: POI[] = [
                         23.61652,
                         46.762072
                   ]
+            },
+            {
+                  "name": "Palatul Copiilor - piscină",
+                  "text": "O piscină pentru copii și tineri în Cluj-Napoca, parte a Palatului Copiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588593,
+                        46.764571
+                  ]
+            },
+            {
+                  "name": "Bazin interior",
+                  "text": "Un bazin interior în Cluj-Napoca, utilizat pentru antrenamente și sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        23.563668,
+                        46.766059
+                  ]
             }
       ],
       "en": [
@@ -28006,6 +28132,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.61652,
                         46.762072
+                  ]
+            },
+            {
+                  "name": "Palatul Copiilor - piscină",
+                  "text": "A swimming pool for children and youth in Cluj-Napoca, part of the Children's Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588593,
+                        46.764571
+                  ]
+            },
+            {
+                  "name": "Bazin interior",
+                  "text": "An indoor pool in Cluj-Napoca used for training and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        23.563668,
+                        46.766059
                   ]
             }
       ]
@@ -34018,6 +34162,33 @@ export const romaniaCities: POI[] = [
                         25.905446,
                         47.559421
                   ]
+            },
+            {
+                  "name": "Pyramia (apă sărată)",
+                  "text": "Ein Schwimmbad mit Salzwasser in Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.877281,
+                        47.554364
+                  ]
+            },
+            {
+                  "name": "Piscina olimpica",
+                  "text": "Ein olympisches Schwimmbad in Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.895237,
+                        47.552054
+                  ]
+            },
+            {
+                  "name": "Piscină acoperită",
+                  "text": "Ein öffentliches Hallenbad in Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.888353,
+                        47.544266
+                  ]
             }
       ],
       "hu": [
@@ -34048,6 +34219,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.905446,
                         47.559421
+                  ]
+            },
+            {
+                  "name": "Pyramia (apă sărată)",
+                  "text": "Sós vizes úszómedence Gura Humoruluiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.877281,
+                        47.554364
+                  ]
+            },
+            {
+                  "name": "Piscina olimpica",
+                  "text": "Olimpiai méretű úszómedence Gura Humoruluiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.895237,
+                        47.552054
+                  ]
+            },
+            {
+                  "name": "Piscină acoperită",
+                  "text": "Nyilvános fedett uszoda Gura Humoruluiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.888353,
+                        47.544266
                   ]
             }
       ],
@@ -34080,6 +34278,33 @@ export const romaniaCities: POI[] = [
                         25.905446,
                         47.559421
                   ]
+            },
+            {
+                  "name": "Pyramia (apă sărată)",
+                  "text": "O piscină cu apă sărată în Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.877281,
+                        47.554364
+                  ]
+            },
+            {
+                  "name": "Piscina olimpica",
+                  "text": "O piscină olimpică în Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.895237,
+                        47.552054
+                  ]
+            },
+            {
+                  "name": "Piscină acoperită",
+                  "text": "O piscină acoperită publică în Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.888353,
+                        47.544266
+                  ]
             }
       ],
       "en": [
@@ -34110,6 +34335,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.905446,
                         47.559421
+                  ]
+            },
+            {
+                  "name": "Pyramia (apă sărată)",
+                  "text": "A swimming pool with salt water in Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.877281,
+                        47.554364
+                  ]
+            },
+            {
+                  "name": "Piscina olimpica",
+                  "text": "An Olympic-sized swimming pool in Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.895237,
+                        47.552054
+                  ]
+            },
+            {
+                  "name": "Piscină acoperită",
+                  "text": "A public indoor swimming pool in Gura Humorului.",
+                  "category": "recreational",
+                  "coords": [
+                        25.888353,
+                        47.544266
                   ]
             }
       ]
@@ -36639,6 +36891,15 @@ export const romaniaNature: POI[] = [
                         25.928479,
                         46.118218
                   ]
+            },
+            {
+                  "name": "Ștrand mezotermal",
+                  "text": "Ein mesothermales Bad in der Nähe des Sankt-Anna-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
+                  ]
             }
       ],
       "hu": [
@@ -36694,6 +36955,15 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         25.928479,
                         46.118218
+                  ]
+            },
+            {
+                  "name": "Mezotermál fürdő (=? Ilona fürdő /=? régi Rezső fürdő)",
+                  "text": "Mezotermális strand a Szent Anna-tó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
                   ]
             }
       ],
@@ -36751,6 +37021,15 @@ export const romaniaNature: POI[] = [
                         25.928479,
                         46.118218
                   ]
+            },
+            {
+                  "name": "Ștrand mezotermal",
+                  "text": "Un ștrand mezotermal situat în apropierea Lacului Sfânta Ana.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
+                  ]
             }
       ],
       "en": [
@@ -36806,6 +37085,15 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         25.928479,
                         46.118218
+                  ]
+            },
+            {
+                  "name": "Ștrand mezotermal",
+                  "text": "A mesothermal public bath located near Saint Ana Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        25.859854,
+                        46.145819
                   ]
             }
       ]
@@ -37180,6 +37468,15 @@ export const romaniaNature: POI[] = [
                         25.800985,
                         46.785899
                   ]
+            },
+            {
+                  "name": "Oxygen Park",
+                  "text": "Ein Themenpark beim Roten See, der Freizeitaktivitäten in einer malerischen Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.722867,
+                        46.775299
+                  ]
             }
       ],
       "hu": [
@@ -37253,6 +37550,15 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         25.800985,
                         46.785899
+                  ]
+            },
+            {
+                  "name": "Oxygen Park",
+                  "text": "Élménypark a Gyilkos-tónál, amely szabadidős tevékenységeket kínál festői környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.722867,
+                        46.775299
                   ]
             }
       ],
@@ -37328,6 +37634,15 @@ export const romaniaNature: POI[] = [
                         25.800985,
                         46.785899
                   ]
+            },
+            {
+                  "name": "Oxygen Park",
+                  "text": "Un parc tematic lângă Lacul Roșu, care oferă activități recreative într-un cadru pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        25.722867,
+                        46.775299
+                  ]
             }
       ],
       "en": [
@@ -37401,6 +37716,15 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         25.800985,
                         46.785899
+                  ]
+            },
+            {
+                  "name": "Oxygen Park",
+                  "text": "A theme park by the Red Lake offering recreational activities in a scenic setting.",
+                  "category": "recreational",
+                  "coords": [
+                        25.722867,
+                        46.775299
                   ]
             }
       ]
@@ -38179,6 +38503,15 @@ export const romaniaNature: POI[] = [
                         28.251803,
                         45.21099
                   ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "Ein Freizeitschwimmbecken in der Nähe des Măcin-Gebirges.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
+                  ]
             }
       ],
       "hu": [
@@ -38225,6 +38558,15 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         28.251803,
                         45.21099
+                  ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "Kikapcsolódást szolgáló úszómedence a Măcin-hegység közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
                   ]
             }
       ],
@@ -38273,6 +38615,15 @@ export const romaniaNature: POI[] = [
                         28.251803,
                         45.21099
                   ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "O piscină recreativă situată în apropierea Munților Măcin.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
+                  ]
             }
       ],
       "en": [
@@ -38319,6 +38670,15 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         28.251803,
                         45.21099
+                  ]
+            },
+            {
+                  "name": "Piscina Relax",
+                  "text": "A recreational swimming pool located near the Măcin Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        28.245434,
+                        45.201469
                   ]
             }
       ]
@@ -44372,7 +44732,160 @@ export const romaniaExtraPois: POI[] = [
     },
   },
   {
-    id: "ro-poi-slanic-moldova", type: "landmark", parent: "RO-BC", coords: [26.4386, 46.2069],
+    id: "ro-poi-slanic-moldova", "sights": {
+      "de": [
+            {
+                  "name": "belvedere",
+                  "text": "Ein Aussichtspunkt in Slănic Moldova mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.46714,
+                        46.202768
+                  ]
+            },
+            {
+                  "name": "Cascada Slănic",
+                  "text": "Ein schöner Wasserfall in der Nähe des Kurortes Slănic Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        26.421284,
+                        46.197095
+                  ]
+            },
+            {
+                  "name": "Casa de Apă",
+                  "text": "Ein historisches Gebäude der Wasserversorgung in Slănic Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        26.422254,
+                        46.193012
+                  ]
+            },
+            {
+                  "name": "George Coșbuc",
+                  "text": "Ein Denkmal in Slănic Moldova zu Ehren des rumänischen Dichters George Coșbuc.",
+                  "category": "historical",
+                  "coords": [
+                        26.437153,
+                        46.205752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "belvedere",
+                  "text": "Kilátópont Szaláncfürdőn (Slănic Moldova), ahonnan szép kilátás nyílik a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        26.46714,
+                        46.202768
+                  ]
+            },
+            {
+                  "name": "Cascada Slănic",
+                  "text": "Egy szép vízesés Szaláncfürdő (Slănic Moldova) közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.421284,
+                        46.197095
+                  ]
+            },
+            {
+                  "name": "Casa de Apă",
+                  "text": "Történelmi vízház épülete Szaláncfürdőn (Slănic Moldova).",
+                  "category": "landmark",
+                  "coords": [
+                        26.422254,
+                        46.193012
+                  ]
+            },
+            {
+                  "name": "George Coșbuc",
+                  "text": "George Coșbuc román költő emlékére állított emlékmű Szaláncfürdőn.",
+                  "category": "historical",
+                  "coords": [
+                        26.437153,
+                        46.205752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "belvedere",
+                  "text": "Un punct de observație în Slănic Moldova ce oferă o panoramă asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        26.46714,
+                        46.202768
+                  ]
+            },
+            {
+                  "name": "Cascada Slănic",
+                  "text": "O cascadă pitorească situată în apropierea stațiunii Slănic Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        26.421284,
+                        46.197095
+                  ]
+            },
+            {
+                  "name": "Casa de Apă",
+                  "text": "O clădire istorică a sistemului de alimentare cu apă din Slănic Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        26.422254,
+                        46.193012
+                  ]
+            },
+            {
+                  "name": "George Coșbuc",
+                  "text": "Un monument în Slănic Moldova ridicat în onoarea poetului George Coșbuc.",
+                  "category": "historical",
+                  "coords": [
+                        26.437153,
+                        46.205752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "belvedere",
+                  "text": "A viewpoint in Slănic Moldova offering panoramic views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        26.46714,
+                        46.202768
+                  ]
+            },
+            {
+                  "name": "Cascada Slănic",
+                  "text": "A scenic waterfall located near the resort town of Slănic Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        26.421284,
+                        46.197095
+                  ]
+            },
+            {
+                  "name": "Casa de Apă",
+                  "text": "A historic water supply building in Slănic Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        26.422254,
+                        46.193012
+                  ]
+            },
+            {
+                  "name": "George Coșbuc",
+                  "text": "A monument in Slănic Moldova dedicated to the Romanian poet George Coșbuc.",
+                  "category": "historical",
+                  "coords": [
+                        26.437153,
+                        46.205752
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-BC", coords: [26.4386, 46.2069],
     name: { de: "Slănic Moldova", hu: "Szlanikfürdő", ro: "Slănic Moldova", en: "Slănic Moldova" },
     description: { de: "Kurort mit Mineralquellen.", hu: "Gyógyüdülőhely ásványvízforrásokkal.", ro: "Stațiune cu izvoare minerale.", en: "Resort with mineral springs." , es: "Balneario con manantiales de aguas minerales.", pt: "Estância termal com nascentes de águas minerais.", fr: "Station thermale dotée de sources minérales."},
     facts: { de: ["Slănic-Moldova (deutsch Moldenmarkt, ungarisch Szlanikfürdő) ist eine Kleinstadt im Kreis Bacău in der Region Westmoldau in Rumänien.", "Die Kleinstadt ist auch als Kurort mit kräftigen salinischen Heilquellen bei Târgu Ocna bekannt.", "Slănic ist auch der Name einer ehemals bedeutenden Staatssaline in der Walachei."], hu: ["Szlanikfürdő (románul Slănic-Moldova) város Romániában, Moldvában, Bákó megyében.", "A települést „Moldova gyöngyének” is nevezik.", "A lakosságban a moldvai csángók vannak többségben, de mára már nagyon kevesen beszélnek magyarul."], ro: [], en: [] , es: ["Slănic Moldova es una ciudad en el distrito de Bacău, en la región de Moldavia occidental, Rumanía.", "Es conocida como balneario con potentes fuentes salinas cerca de Târgu Ocna.", "Slănic es también el nombre de una antigua e importante mina de sal estatal en Valaquia."], pt: ["Slănic Moldova é uma cidade no distrito de Bacău, na região da Moldávia Ocidental, Roménia.", "É conhecida como estância termal com fortes fontes salinas perto de Târgu Ocna.", "Slănic é também o nome de uma antiga e importante mina de sal estatal na Valáquia."], fr: ["Slănic Moldova est une ville du județ de Bacău, dans la région de Moldavie occidentale, en Roumanie.", "La ville est une station thermale réputée pour ses sources salines près de Târgu Ocna.", "Slănic est également le nom d'une ancienne saline d'État majeure en Valachie."]},
@@ -44454,6 +44967,24 @@ export const romaniaExtraPois: POI[] = [
                         21.978894,
                         46.993444
                   ]
+            },
+            {
+                  "name": "Poienita",
+                  "text": "Ein Thermalbad im Kurort Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.982347,
+                        46.992836
+                  ]
+            },
+            {
+                  "name": "Padiș",
+                  "text": "Ein öffentliches Schwimmbad in der Thermalregion von Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.979993,
+                        46.987002
+                  ]
             }
       ],
       "hu": [
@@ -44509,6 +45040,24 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         21.978894,
                         46.993444
+                  ]
+            },
+            {
+                  "name": "Poienita",
+                  "text": "Termálvizes medence a Félixfürdő üdülőhelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.982347,
+                        46.992836
+                  ]
+            },
+            {
+                  "name": "Padiș",
+                  "text": "Nyilvános úszómedence Félixfürdő termálvizes területén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.979993,
+                        46.987002
                   ]
             }
       ],
@@ -44566,6 +45115,24 @@ export const romaniaExtraPois: POI[] = [
                         21.978894,
                         46.993444
                   ]
+            },
+            {
+                  "name": "Poienita",
+                  "text": "O piscină termală în stațiunea balneară Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.982347,
+                        46.992836
+                  ]
+            },
+            {
+                  "name": "Padiș",
+                  "text": "O piscină publică în zona termală din Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.979993,
+                        46.987002
+                  ]
             }
       ],
       "en": [
@@ -44621,6 +45188,24 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         21.978894,
                         46.993444
+                  ]
+            },
+            {
+                  "name": "Poienita",
+                  "text": "A thermal swimming pool located in the spa resort of Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.982347,
+                        46.992836
+                  ]
+            },
+            {
+                  "name": "Padiș",
+                  "text": "A public swimming pool situated in the thermal area of Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.979993,
+                        46.987002
                   ]
             }
       ]
@@ -46498,6 +47083,15 @@ export const romaniaExtraPois: POI[] = [
                         25.759526,
                         45.874449
                   ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "Das städtische Freibad von Sfântu Gheorghe bietet Erfrischung und Erholung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        25.800367,
+                        45.865102
+                  ]
             }
       ],
       "hu": [
@@ -46695,6 +47289,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.759526,
                         45.874449
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "Sepsiszentgyörgy városi strandja frissítő kikapcsolódást nyújt a szabadban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.800367,
+                        45.865102
                   ]
             }
       ],
@@ -46894,6 +47497,15 @@ export const romaniaExtraPois: POI[] = [
                         25.759526,
                         45.874449
                   ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "Ștrandul municipal din Sfântu Gheorghe oferă relaxare și răcoare în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        25.800367,
+                        45.865102
+                  ]
             }
       ],
       "en": [
@@ -47091,6 +47703,15 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.759526,
                         45.874449
+                  ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "The municipal outdoor pool of Sfântu Gheorghe offers refreshing outdoor relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        25.800367,
+                        45.865102
                   ]
             }
       ]

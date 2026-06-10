@@ -699,6 +699,15 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
                         5.829549,
                         50.396104
                   ]
+            },
+            {
+                  "name": "Piscine Extérieure Communale",
+                  "text": "Ein Freibad bei der Cascade de Coo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.936854,
+                        50.393813
+                  ]
             }
       ],
       "hu": [
@@ -745,6 +754,15 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
                   "coords": [
                         5.829549,
                         50.396104
+                  ]
+            },
+            {
+                  "name": "Piscine Extérieure Communale",
+                  "text": "Szabadtéri medence a Coo-vízesésnél.",
+                  "category": "recreational",
+                  "coords": [
+                        5.936854,
+                        50.393813
                   ]
             }
       ],
@@ -793,6 +811,15 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
                         5.829549,
                         50.396104
                   ]
+            },
+            {
+                  "name": "Piscine Extérieure Communale",
+                  "text": "O piscină în aer liber lângă Cascade de Coo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.936854,
+                        50.393813
+                  ]
             }
       ],
       "en": [
@@ -839,6 +866,15 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
                   "coords": [
                         5.829549,
                         50.396104
+                  ]
+            },
+            {
+                  "name": "Piscine Extérieure Communale",
+                  "text": "An outdoor swimming pool near Cascade de Coo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.936854,
+                        50.393813
                   ]
             }
       ]
@@ -961,6 +997,15 @@ imageHint: "Cascade de Coo waterfall with bridge",
                         5.191479,
                         50.093466
                   ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "Ein Naturschutzgebiet und Wildpark bei den Höhlen von Han.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
+                  ]
             }
       ],
       "hu": [
@@ -1034,6 +1079,15 @@ imageHint: "Cascade de Coo waterfall with bridge",
                   "coords": [
                         5.191479,
                         50.093466
+                  ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "Természetvédelmi terület és vadaspark a Han-barlangoknál.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
                   ]
             }
       ],
@@ -1109,6 +1163,15 @@ imageHint: "Cascade de Coo waterfall with bridge",
                         5.191479,
                         50.093466
                   ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "O rezervație naturală și parc sălbatic asociat cu Peșterile din Han.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
+                  ]
             }
       ],
       "en": [
@@ -1182,6 +1245,15 @@ imageHint: "Cascade de Coo waterfall with bridge",
                   "coords": [
                         5.191479,
                         50.093466
+                  ]
+            },
+            {
+                  "name": "Domaine des Grottes de Han",
+                  "text": "A nature reserve and wildlife park associated with the Caves of Han.",
+                  "category": "natural",
+                  "coords": [
+                        5.202666,
+                        50.11774
                   ]
             }
       ]
@@ -1487,6 +1559,33 @@ imageHint: "Ourthe river winding through Ardennes forests",
                         4.964739,
                         49.858263
                   ]
+            },
+            {
+                  "name": "Zone de baignade de Vresse-sur-Semois",
+                  "text": "Eine ausgewiesene Badestelle am Fluss Semois, die im Sommer eine natürliche Abkühlung in Vresse bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        4.932524,
+                        49.87124
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Membre",
+                  "text": "Ein natürlicher Badebereich im Fluss Semois bei Membre, beliebt für Erholung in der Flusslandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        4.901461,
+                        49.864104
+                  ]
+            },
+            {
+                  "name": "Espace piscine",
+                  "text": "Ein Schwimmbad am Fluss Semois.",
+                  "category": "recreational",
+                  "coords": [
+                        4.883366,
+                        49.873577
+                  ]
             }
       ],
       "hu": [
@@ -1560,6 +1659,33 @@ imageHint: "Ourthe river winding through Ardennes forests",
                   "coords": [
                         4.964739,
                         49.858263
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Vresse-sur-Semois",
+                  "text": "Kijelölt fürdőhely a Semois-folyónál, amely nyáron természetes felfrissülést kínál Vresse településen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.932524,
+                        49.87124
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Membre",
+                  "text": "Természetes fürdőhely a Semois-folyóban Membre-nél, amely népszerű a folyóparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        4.901461,
+                        49.864104
+                  ]
+            },
+            {
+                  "name": "Espace piscine",
+                  "text": "Úszómedence a Semois-folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.883366,
+                        49.873577
                   ]
             }
       ],
@@ -1635,6 +1761,33 @@ imageHint: "Ourthe river winding through Ardennes forests",
                         4.964739,
                         49.858263
                   ]
+            },
+            {
+                  "name": "Zone de baignade de Vresse-sur-Semois",
+                  "text": "Un loc de scăldat amenajat pe râul Semois, care oferă o răcorire naturală în Vresse în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        4.932524,
+                        49.87124
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Membre",
+                  "text": "O zonă naturală de scăldat în râul Semois, la Membre, populară pentru recreere în peisajul fluvial.",
+                  "category": "recreational",
+                  "coords": [
+                        4.901461,
+                        49.864104
+                  ]
+            },
+            {
+                  "name": "Espace piscine",
+                  "text": "O piscină situată pe malul râului Semois.",
+                  "category": "recreational",
+                  "coords": [
+                        4.883366,
+                        49.873577
+                  ]
             }
       ],
       "en": [
@@ -1708,6 +1861,33 @@ imageHint: "Ourthe river winding through Ardennes forests",
                   "coords": [
                         4.964739,
                         49.858263
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Vresse-sur-Semois",
+                  "text": "A designated swimming area on the Semois River, offering a natural cool-down in Vresse during summer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.932524,
+                        49.87124
+                  ]
+            },
+            {
+                  "name": "Zone de baignade de Membre",
+                  "text": "A natural bathing area in the Semois River at Membre, popular for relaxation in the river landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        4.901461,
+                        49.864104
+                  ]
+            },
+            {
+                  "name": "Espace piscine",
+                  "text": "A swimming pool located along the Semois River.",
+                  "category": "recreational",
+                  "coords": [
+                        4.883366,
+                        49.873577
                   ]
             }
       ]
@@ -3846,6 +4026,24 @@ imageHint: "Railbikes in the green Molignée valley",
                         2.605022,
                         51.100743
                   ]
+            },
+            {
+                  "name": "Plage de Bray-Dunes",
+                  "text": "Der Strand von Bray-Dunes grenzt an das Naturschutzgebiet Westhoek an der Nordsee.",
+                  "category": "recreational",
+                  "coords": [
+                        2.520748,
+                        51.081966
+                  ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "Ein Themenbereich oder Park zur Unterhaltung in den Dünen von Westhoek.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
+                  ]
             }
       ],
       "hu": [
@@ -3910,6 +4108,24 @@ imageHint: "Railbikes in the green Molignée valley",
                   "coords": [
                         2.605022,
                         51.100743
+                  ]
+            },
+            {
+                  "name": "Plage de Bray-Dunes",
+                  "text": "Bray-Dunes strandja az Északi-tenger melletti Westhoek természetvédelmi területtel határos.",
+                  "category": "recreational",
+                  "coords": [
+                        2.520748,
+                        51.081966
+                  ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "Szórakoztató tematikus terület vagy park a Westhoek dűnéknél.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
                   ]
             }
       ],
@@ -3976,6 +4192,24 @@ imageHint: "Railbikes in the green Molignée valley",
                         2.605022,
                         51.100743
                   ]
+            },
+            {
+                  "name": "Plage de Bray-Dunes",
+                  "text": "Plaja din Bray-Dunes se învecinează cu rezervația naturală Westhoek de la Marea Nordului.",
+                  "category": "recreational",
+                  "coords": [
+                        2.520748,
+                        51.081966
+                  ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "O zonă tematică sau parc de distracții în dunele din Westhoek.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
+                  ]
             }
       ],
       "en": [
@@ -4040,6 +4274,24 @@ imageHint: "Railbikes in the green Molignée valley",
                   "coords": [
                         2.605022,
                         51.100743
+                  ]
+            },
+            {
+                  "name": "Plage de Bray-Dunes",
+                  "text": "The beach of Bray-Dunes borders the Westhoek nature reserve on the North Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        2.520748,
+                        51.081966
+                  ]
+            },
+            {
+                  "name": "Arizona",
+                  "text": "A themed area or park for entertainment in the Westhoek dunes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.583654,
+                        51.101182
                   ]
             }
       ]
@@ -4565,6 +4817,24 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                         2.762385,
                         51.164173
                   ]
+            },
+            {
+                  "name": "Mats Beach Bar",
+                  "text": "Mats Beach Bar an der Yser bietet eine entspannte Atmosphäre am Wasser mit Getränken und Snacks.",
+                  "category": "recreational",
+                  "coords": [
+                        2.781743,
+                        51.174279
+                  ]
+            },
+            {
+                  "name": "Aquafun Subtropisch Zwembad",
+                  "text": "Das Aquafun ist ein subtropisches Schwimmbad an der Yser, bekannt für seine vielfältigen Wasserattraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        2.714302,
+                        51.131918
+                  ]
             }
       ],
       "hu": [
@@ -4647,6 +4917,24 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                   "coords": [
                         2.762385,
                         51.164173
+                  ]
+            },
+            {
+                  "name": "Mats Beach Bar",
+                  "text": "A Mats Beach Bar az Yser-folyónál pihentető vízparti hangulatot kínál italokkal és harapnivalókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        2.781743,
+                        51.174279
+                  ]
+            },
+            {
+                  "name": "Aquafun Subtropisch Zwembad",
+                  "text": "Az Aquafun egy szubtrópusi élményfürdő az Yser-folyónál, amely változatos vízi attrakcióiról ismert a családok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.714302,
+                        51.131918
                   ]
             }
       ],
@@ -4731,6 +5019,24 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                         2.762385,
                         51.164173
                   ]
+            },
+            {
+                  "name": "Mats Beach Bar",
+                  "text": "Mats Beach Bar de pe Yser oferă o atmosferă relaxată la malul apei, cu băuturi și gustări.",
+                  "category": "recreational",
+                  "coords": [
+                        2.781743,
+                        51.174279
+                  ]
+            },
+            {
+                  "name": "Aquafun Subtropisch Zwembad",
+                  "text": "Aquafun este o piscină subtropicală pe Yser, cunoscută pentru diversele sale atracții acvatice dedicate familiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        2.714302,
+                        51.131918
+                  ]
             }
       ],
       "en": [
@@ -4813,6 +5119,24 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                   "coords": [
                         2.762385,
                         51.164173
+                  ]
+            },
+            {
+                  "name": "Mats Beach Bar",
+                  "text": "Mats Beach Bar on the Yser offers a relaxed waterfront atmosphere with drinks and snacks.",
+                  "category": "recreational",
+                  "coords": [
+                        2.781743,
+                        51.174279
+                  ]
+            },
+            {
+                  "name": "Aquafun Subtropisch Zwembad",
+                  "text": "Aquafun is a subtropical swimming pool on the Yser, known for its various water attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        2.714302,
+                        51.131918
                   ]
             }
       ]

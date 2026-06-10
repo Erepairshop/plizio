@@ -138,7 +138,88 @@ export const estoniaNatureV2: POI[] = [
     image: "/poi-images/estonia-keila-waterfall-nature-v2.webp",
   },
   {
-    id: "estonia-valgejarv-lake-nature-v2",
+    id: "estonia-valgejarv-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Järveotsa puhkekoha ujumiskoht",
+                  "text": "Ein öffentlicher Badeplatz am Valgejärv-See, ideal für eine Erfrischung in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        24.152659,
+                        59.096124
+                  ]
+            },
+            {
+                  "name": "Järveotsa järve ujumiskoht",
+                  "text": "Eine Badestelle am Valgejärv-See, die Besuchern Zugang zum Wasser ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        24.153971,
+                        59.09931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Järveotsa puhkekoha ujumiskoht",
+                  "text": "Nyilvános fürdőhely a Valgejärv-tónál, amely pihenést kínál a természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        24.152659,
+                        59.096124
+                  ]
+            },
+            {
+                  "name": "Järveotsa järve ujumiskoht",
+                  "text": "Fürdőhely a Valgejärv-tónál, amely vízi kikapcsolódást biztosít a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.153971,
+                        59.09931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Järveotsa puhkekoha ujumiskoht",
+                  "text": "Un loc public de scăldat pe lacul Valgejärv, ideal pentru relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        24.152659,
+                        59.096124
+                  ]
+            },
+            {
+                  "name": "Järveotsa järve ujumiskoht",
+                  "text": "O zonă de scăldat la lacul Valgejärv, oferind acces la apă pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        24.153971,
+                        59.09931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Järveotsa puhkekoha ujumiskoht",
+                  "text": "A public swimming spot at Valgejärv Lake, offering a refreshing break in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        24.152659,
+                        59.096124
+                  ]
+            },
+            {
+                  "name": "Järveotsa järve ujumiskoht",
+                  "text": "A swimming area at Valgejärv Lake providing access to the water for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.153971,
+                        59.09931
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EE",
     name: { de: "Valgejärv-See", hu: "Valgejärv-tó", ro: "Lacul Valgejärv", en: "Valgejärv Lake" },
@@ -373,6 +454,15 @@ export const estoniaNatureV2: POI[] = [
                         26.24737,
                         58.875916
                   ]
+            },
+            {
+                  "name": "Endla järve ujumiskoht",
+                  "text": "Ein Naturbadeplatz am Endla-See innerhalb des Naturschutzgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        26.204999,
+                        58.861021
+                  ]
             }
       ],
       "hu": [
@@ -383,6 +473,15 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         26.24737,
                         58.875916
+                  ]
+            },
+            {
+                  "name": "Endla järve ujumiskoht",
+                  "text": "Természetes fürdőhely az Endla-tónál a természetvédelmi területen belül.",
+                  "category": "recreational",
+                  "coords": [
+                        26.204999,
+                        58.861021
                   ]
             }
       ],
@@ -395,6 +494,15 @@ export const estoniaNatureV2: POI[] = [
                         26.24737,
                         58.875916
                   ]
+            },
+            {
+                  "name": "Endla järve ujumiskoht",
+                  "text": "Un loc natural de scăldat la lacul Endla, în cadrul rezervației naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        26.204999,
+                        58.861021
+                  ]
             }
       ],
       "en": [
@@ -405,6 +513,15 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         26.24737,
                         58.875916
+                  ]
+            },
+            {
+                  "name": "Endla järve ujumiskoht",
+                  "text": "A natural swimming spot at Lake Endla within the nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        26.204999,
+                        58.861021
                   ]
             }
       ]
@@ -499,6 +616,15 @@ export const estoniaNatureV2: POI[] = [
                         27.05501,
                         57.713759
                   ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "Eine Badestelle am Vihtla-See im Haanja-Hochland.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
+                  ]
             }
       ],
       "hu": [
@@ -545,6 +671,15 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         27.05501,
                         57.713759
+                  ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "Fürdőhely a Vihtla-tónál, a Haanja-hátság területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
                   ]
             }
       ],
@@ -593,6 +728,15 @@ export const estoniaNatureV2: POI[] = [
                         27.05501,
                         57.713759
                   ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "Un loc de scăldat la lacul Vihtla, în podișul Haanja.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
+                  ]
             }
       ],
       "en": [
@@ -639,6 +783,15 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         27.05501,
                         57.713759
+                  ]
+            },
+            {
+                  "name": "Vihtla järve ujumiskoht",
+                  "text": "A swimming area at Lake Vihtla in the Haanja Upland.",
+                  "category": "recreational",
+                  "coords": [
+                        27.010501,
+                        57.71346
                   ]
             }
       ]
@@ -1075,6 +1228,24 @@ export const estoniaNatureV2: POI[] = [
                         25.189142,
                         59.374358
                   ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Eine Badestelle am Fluss Jägala in der Nähe des Dorfes Ruu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Ein Badeplatz am Flussufer des Jägala in Estland.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
+                  ]
             }
       ],
       "hu": [
@@ -1103,6 +1274,24 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         25.189142,
                         59.374358
+                  ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Fürdőhely a Jägala-folyónál, Ruu falu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Folyóparti fürdőhely az észtországi Jägala-folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
                   ]
             }
       ],
@@ -1133,6 +1322,24 @@ export const estoniaNatureV2: POI[] = [
                         25.189142,
                         59.374358
                   ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "Un loc pentru scăldat pe râul Jägala, în apropierea satului Ruu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "Un loc pentru scăldat pe malul râului Jägala din Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
+                  ]
             }
       ],
       "en": [
@@ -1161,6 +1368,24 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         25.189142,
                         59.374358
+                  ]
+            },
+            {
+                  "name": "Ruu ujumiskoht",
+                  "text": "A swimming spot on the Jägala River located near the village of Ruu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.190078,
+                        59.442308
+                  ]
+            },
+            {
+                  "name": "Tammiku ujumiskoht",
+                  "text": "A riverside swimming area along the Jägala River in Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.216228,
+                        59.425846
                   ]
             }
       ]

@@ -1605,7 +1605,196 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-pentadaktylos-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-akkapeli-peak-relief-v2", "sights": {"de": [{"name": "Güzelyalı Beach", "text": "Der Güzelyalı Beach schmiegt sich an die zypriotische Küste nahe dem Akkapeli Peak und besticht durch seine entspannte Atmosphäre. Hier können Besucher abseits des großen Trubels ausgiebig in den sanften Wellen baden oder gemütlich am Ufer entspannen. Die Mischung aus Meeresrauschen und der ruhigen Umgebung sorgt für echtes Urlaubsgefühl. Ein idealer Ort, um die warmen Sommertage entspannt mit einem guten Buch zu verbringen.", "category": "recreational", "coords": [33.089188, 35.353271]}, {"name": "Sardunya Beach", "text": "Gelegen in der Region rund um den Akkapeli Peak, präsentiert sich der Sardunya Beach als einladendes Ziel für Strandliebhaber auf Zypern. Feiner Sand und das glitzernde Meer laden dazu ein, die Seele baumeln zu lassen und sich im kühlen Nass zu erfrischen. Die familiäre und zugleich ruhige Stimmung macht den Strand zu einem wunderbaren Erholungsort. Bringen Sie ausreichend Sonnenschutz mit, um die unbeschwerten Stunden am Wasser voll auszukosten.", "category": "recreational", "coords": [33.137319, 35.359817]}, {"name": "Camelot Beach", "text": "Der Camelot Beach in der Nähe des Akkapeli Peak versprüht einen ganz eigenen, lebhaften Küstencharme auf Zypern. Das klare Wasser und der gepflegte Uferbereich schaffen optimale Voraussetzungen für einen unbeschwerten Tag mit Schwimmen und Sonnenbaden. Einheimische wie Touristen schätzen die gesellige Atmosphäre, die den Ort besonders im Sommer prägt. Wer es etwas ruhiger mag, sollte seinen Besuch auf die frühen Morgenstunden legen.", "category": "recreational", "coords": [33.193905, 35.356806]}, {"name": "The Cabin Beach", "text": "Ein charmantes Kleinod an der Küste nahe dem Akkapeli Peak ist The Cabin Beach. Mit seinem intimen Flair bietet dieser Strandabschnitt eine herrliche Kulisse für alle, die eine Auszeit vom Alltag suchen. Besucher können hier in angenehm ruhiger Umgebung ins Meer eintauchen oder bei einem Spaziergang die Seele baumeln lassen. Ein perfekter Ort, um an einem warmen Nachmittag einfach mal abzuschalten und das zypriotische Klima zu genießen.", "category": "recreational", "coords": [33.169553, 35.351456]}], "hu": [{"name": "Güzelyalı Beach", "text": "A Güzelyalı Beach az Akkapeli-csúcs közelében simul a ciprusi partokhoz, és nyugodt hangulatával hódít. Itt a látogatók a nagy nyüzsgéstől távol fürdőzhetnek a lágy hullámokban, vagy kényelmesen pihenhetnek a parton. A tenger zúgása és a csendes környezet keveréke igazi nyaralási élményt nyújt. Ideális hely arra, hogy a meleg nyári napokat ellazulva, egy jó könyv társaságában töltsük.", "category": "recreational", "coords": [33.089188, 35.353271]}, {"name": "Sardunya Beach", "text": "Az Akkapeli-csúcs környékén elterülő Sardunya Beach hívogató célpontja a tengerpartok szerelmeseinek Cipruson. A finom homok és a csillogó tenger arra invitál, hogy kikapcsolódjon és felfrissüljön a hűs habokban. A családias, ugyanakkor csendes légkör csodálatos pihenőhellyé teszi a strandot. Hozzon magával elegendő naptejet, hogy teljes mértékben kiélvezhesse a vízparton töltött gondtalan órákat.", "category": "recreational", "coords": [33.137319, 35.359817]}, {"name": "Camelot Beach", "text": "Az Akkapeli-csúcs közelében található Camelot Beach egészen egyedi, élénk tengerparti vonzerőt sugároz Cipruson. A tiszta víz és a gondozott partszakasz optimális feltételeket teremt egy gondtalan naphoz, amely úszással és napozással telik. A helyiek és a turisták egyaránt értékelik a társasági légkört, amely különösen nyáron jellemzi a helyet. Aki egy kicsit több nyugalomra vágyik, annak érdemes a kora reggeli órákra időzítenie a látogatást.", "category": "recreational", "coords": [33.193905, 35.356806]}, {"name": "The Cabin Beach", "text": "A Cabin Beach egy elbűvölő kis ékszerdoboz a part mentén, az Akkapeli-csúcs közelében. Meghitt hangulatával ez a partszakasz csodálatos hátteret biztosít mindazoknak, akik kiszakadnának a mindennapokból. A látogatók kellemesen nyugodt környezetben csobbanhatnak a tengerben, vagy egy séta során ellazíthatják a lelküket. Tökéletes hely arra, hogy egy meleg délutánon egyszerűen csak kikapcsoljon és élvezze a ciprusi klímát.", "category": "recreational", "coords": [33.169553, 35.351456]}], "ro": [{"name": "Güzelyalı Beach", "text": "Güzelyalı Beach se cuibărește pe coasta cipriotă în apropiere de vârful Akkapeli și captivează prin atmosfera sa relaxată. Aici, departe de agitația mare, vizitatorii se pot bucura de băi lungi în valurile blânde sau se pot relaxa confortabil pe țărm. Amestecul dintre sunetul mării și mediul liniștit asigură un sentiment de vacanță autentic. Un loc ideal pentru a petrece zilele calde de vară într-un mod relaxant, cu o carte bună.", "category": "recreational", "coords": [33.089188, 35.353271]}, {"name": "Sardunya Beach", "text": "Situată în regiunea din jurul vârfului Akkapeli, Sardunya Beach se prezintă ca o destinație primitoare pentru iubitorii de plajă din Cipru. Nisipul fin și marea strălucitoare te invită să te relaxezi și să te răcorești în apa rece. Atmosfera familiară și totodată liniștită face din această plajă un loc minunat de recreere. Aduceți cu dumneavoastră suficientă protecție solară pentru a vă bucura din plin de orele lipsite de griji lângă apă.", "category": "recreational", "coords": [33.137319, 35.359817]}, {"name": "Camelot Beach", "text": "Camelot Beach, în apropiere de vârful Akkapeli, emană un farmec de coastă plin de viață și cu totul aparte în Cipru. Apa limpede și zona de țărm bine îngrijită creează condiții optime pentru o zi lipsită de griji, cu înot și plajă. Atât localnicii, cât și turiștii apreciază atmosfera sociabilă care caracterizează locul, mai ales vara. Cei care preferă un pic mai multă liniște ar trebui să își planifice vizita la primele ore ale dimineții.", "category": "recreational", "coords": [33.193905, 35.356806]}, {"name": "The Cabin Beach", "text": "The Cabin Beach este o bijuterie fermecătoare pe coasta din apropierea vârfului Akkapeli. Cu aerul său intim, această secțiune de plajă oferă un fundal minunat pentru oricine caută o pauză de la viața de zi cu zi. Aici, vizitatorii se pot scufunda în mare într-un mediu plăcut și liniștit sau se pot relaxa cu o plimbare. Un loc perfect pentru a te deconecta într-o după-amiază caldă și a te bucura de clima cipriotă.", "category": "recreational", "coords": [33.169553, 35.351456]}], "en": [{"name": "Güzelyalı Beach", "text": "Güzelyalı Beach gently hugs the Cypriot coastline near Akkapeli Peak and captivates visitors with its tranquil atmosphere. Away from the heavy crowds, guests can enjoy long swims in the gentle waves or simply relax comfortably on the shore. The harmonious blend of the sound of the ocean and the quiet surroundings guarantees a genuine holiday feeling. It is an ideal spot to spend warm summer days lounging with a good book.", "category": "recreational", "coords": [33.089188, 35.353271]}, {"name": "Sardunya Beach", "text": "Located in the scenic region around Akkapeli Peak, Sardunya Beach presents itself as an inviting destination for beach lovers in Cyprus. The soft sand and sparkling sea naturally encourage you to unwind and refresh yourself in the cool water. A familial yet distinctly peaceful mood makes this beach a wonderful recreational retreat. Remember to bring plenty of sun protection to safely enjoy your carefree hours by the water.", "category": "recreational", "coords": [33.137319, 35.359817]}, {"name": "Camelot Beach", "text": "Camelot Beach, situated near Akkapeli Peak, exudes a unique and lively coastal charm in Cyprus. The clear waters and the tidy shoreline create optimal conditions for a carefree day spent swimming and sunbathing. Locals and tourists alike appreciate the sociable atmosphere that defines this spot, especially during the peak summer months. If you prefer a quieter experience, it is highly recommended to plan your visit for the early morning.", "category": "recreational", "coords": [33.193905, 35.356806]}, {"name": "The Cabin Beach", "text": "The Cabin Beach is a charming little gem nestled along the coastline near Akkapeli Peak. With its intimate vibe, this stretch of beach provides a wonderful setting for anyone looking to escape the daily grind. Visitors can dive into the sea in a pleasantly quiet environment or simply unwind with a leisurely coastal walk. It is the perfect place to switch off completely on a warm afternoon and soak up the balmy Cypriot climate.", "category": "recreational", "coords": [33.169553, 35.351456]}]},
+    id: "cyprus-akkapeli-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "Der Güzelyalı Beach schmiegt sich an die zypriotische Küste nahe dem Akkapeli Peak und besticht durch seine entspannte Atmosphäre. Hier können Besucher abseits des großen Trubels ausgiebig in den sanften Wellen baden oder gemütlich am Ufer entspannen. Die Mischung aus Meeresrauschen und der ruhigen Umgebung sorgt für echtes Urlaubsgefühl. Ein idealer Ort, um die warmen Sommertage entspannt mit einem guten Buch zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Gelegen in der Region rund um den Akkapeli Peak, präsentiert sich der Sardunya Beach als einladendes Ziel für Strandliebhaber auf Zypern. Feiner Sand und das glitzernde Meer laden dazu ein, die Seele baumeln zu lassen und sich im kühlen Nass zu erfrischen. Die familiäre und zugleich ruhige Stimmung macht den Strand zu einem wunderbaren Erholungsort. Bringen Sie ausreichend Sonnenschutz mit, um die unbeschwerten Stunden am Wasser voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Der Camelot Beach in der Nähe des Akkapeli Peak versprüht einen ganz eigenen, lebhaften Küstencharme auf Zypern. Das klare Wasser und der gepflegte Uferbereich schaffen optimale Voraussetzungen für einen unbeschwerten Tag mit Schwimmen und Sonnenbaden. Einheimische wie Touristen schätzen die gesellige Atmosphäre, die den Ort besonders im Sommer prägt. Wer es etwas ruhiger mag, sollte seinen Besuch auf die frühen Morgenstunden legen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "Ein charmantes Kleinod an der Küste nahe dem Akkapeli Peak ist The Cabin Beach. Mit seinem intimen Flair bietet dieser Strandabschnitt eine herrliche Kulisse für alle, die eine Auszeit vom Alltag suchen. Besucher können hier in angenehm ruhiger Umgebung ins Meer eintauchen oder bei einem Spaziergang die Seele baumeln lassen. Ein perfekter Ort, um an einem warmen Nachmittag einfach mal abzuschalten und das zypriotische Klima zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            },
+            {
+                  "name": "Suna's Beach and Restaurant",
+                  "text": "Suna's Beach bietet Erholung am Wasser und kulinarische Angebote in der Nähe des Akkapeli-Gipfels.",
+                  "category": "recreational",
+                  "coords": [
+                        33.179328,
+                        35.350258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "A Güzelyalı Beach az Akkapeli-csúcs közelében simul a ciprusi partokhoz, és nyugodt hangulatával hódít. Itt a látogatók a nagy nyüzsgéstől távol fürdőzhetnek a lágy hullámokban, vagy kényelmesen pihenhetnek a parton. A tenger zúgása és a csendes környezet keveréke igazi nyaralási élményt nyújt. Ideális hely arra, hogy a meleg nyári napokat ellazulva, egy jó könyv társaságában töltsük.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Az Akkapeli-csúcs környékén elterülő Sardunya Beach hívogató célpontja a tengerpartok szerelmeseinek Cipruson. A finom homok és a csillogó tenger arra invitál, hogy kikapcsolódjon és felfrissüljön a hűs habokban. A családias, ugyanakkor csendes légkör csodálatos pihenőhellyé teszi a strandot. Hozzon magával elegendő naptejet, hogy teljes mértékben kiélvezhesse a vízparton töltött gondtalan órákat.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Az Akkapeli-csúcs közelében található Camelot Beach egészen egyedi, élénk tengerparti vonzerőt sugároz Cipruson. A tiszta víz és a gondozott partszakasz optimális feltételeket teremt egy gondtalan naphoz, amely úszással és napozással telik. A helyiek és a turisták egyaránt értékelik a társasági légkört, amely különösen nyáron jellemzi a helyet. Aki egy kicsit több nyugalomra vágyik, annak érdemes a kora reggeli órákra időzítenie a látogatást.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "A Cabin Beach egy elbűvölő kis ékszerdoboz a part mentén, az Akkapeli-csúcs közelében. Meghitt hangulatával ez a partszakasz csodálatos hátteret biztosít mindazoknak, akik kiszakadnának a mindennapokból. A látogatók kellemesen nyugodt környezetben csobbanhatnak a tengerben, vagy egy séta során ellazíthatják a lelküket. Tökéletes hely arra, hogy egy meleg délutánon egyszerűen csak kikapcsoljon és élvezze a ciprusi klímát.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            },
+            {
+                  "name": "Suna's Beach and Restaurant",
+                  "text": "A Suna's Beach vízparti kikapcsolódást és kulináris élményeket kínál az Akkapeli-csúcs közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.179328,
+                        35.350258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "Güzelyalı Beach se cuibărește pe coasta cipriotă în apropiere de vârful Akkapeli și captivează prin atmosfera sa relaxată. Aici, departe de agitația mare, vizitatorii se pot bucura de băi lungi în valurile blânde sau se pot relaxa confortabil pe țărm. Amestecul dintre sunetul mării și mediul liniștit asigură un sentiment de vacanță autentic. Un loc ideal pentru a petrece zilele calde de vară într-un mod relaxant, cu o carte bună.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Situată în regiunea din jurul vârfului Akkapeli, Sardunya Beach se prezintă ca o destinație primitoare pentru iubitorii de plajă din Cipru. Nisipul fin și marea strălucitoare te invită să te relaxezi și să te răcorești în apa rece. Atmosfera familiară și totodată liniștită face din această plajă un loc minunat de recreere. Aduceți cu dumneavoastră suficientă protecție solară pentru a vă bucura din plin de orele lipsite de griji lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Camelot Beach, în apropiere de vârful Akkapeli, emană un farmec de coastă plin de viață și cu totul aparte în Cipru. Apa limpede și zona de țărm bine îngrijită creează condiții optime pentru o zi lipsită de griji, cu înot și plajă. Atât localnicii, cât și turiștii apreciază atmosfera sociabilă care caracterizează locul, mai ales vara. Cei care preferă un pic mai multă liniște ar trebui să își planifice vizita la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "The Cabin Beach este o bijuterie fermecătoare pe coasta din apropierea vârfului Akkapeli. Cu aerul său intim, această secțiune de plajă oferă un fundal minunat pentru oricine caută o pauză de la viața de zi cu zi. Aici, vizitatorii se pot scufunda în mare într-un mediu plăcut și liniștit sau se pot relaxa cu o plimbare. Un loc perfect pentru a te deconecta într-o după-amiază caldă și a te bucura de clima cipriotă.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            },
+            {
+                  "name": "Suna's Beach and Restaurant",
+                  "text": "Suna's Beach oferă relaxare la malul apei și servicii culinare în apropierea vârfului Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.179328,
+                        35.350258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "Güzelyalı Beach gently hugs the Cypriot coastline near Akkapeli Peak and captivates visitors with its tranquil atmosphere. Away from the heavy crowds, guests can enjoy long swims in the gentle waves or simply relax comfortably on the shore. The harmonious blend of the sound of the ocean and the quiet surroundings guarantees a genuine holiday feeling. It is an ideal spot to spend warm summer days lounging with a good book.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Located in the scenic region around Akkapeli Peak, Sardunya Beach presents itself as an inviting destination for beach lovers in Cyprus. The soft sand and sparkling sea naturally encourage you to unwind and refresh yourself in the cool water. A familial yet distinctly peaceful mood makes this beach a wonderful recreational retreat. Remember to bring plenty of sun protection to safely enjoy your carefree hours by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Camelot Beach, situated near Akkapeli Peak, exudes a unique and lively coastal charm in Cyprus. The clear waters and the tidy shoreline create optimal conditions for a carefree day spent swimming and sunbathing. Locals and tourists alike appreciate the sociable atmosphere that defines this spot, especially during the peak summer months. If you prefer a quieter experience, it is highly recommended to plan your visit for the early morning.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "The Cabin Beach is a charming little gem nestled along the coastline near Akkapeli Peak. With its intimate vibe, this stretch of beach provides a wonderful setting for anyone looking to escape the daily grind. Visitors can dive into the sea in a pleasantly quiet environment or simply unwind with a leisurely coastal walk. It is the perfect place to switch off completely on a warm afternoon and soak up the balmy Cypriot climate.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            },
+            {
+                  "name": "Suna's Beach and Restaurant",
+                  "text": "Suna's Beach offers waterfront relaxation and culinary options near the Akkapeli Peak.",
+                  "category": "recreational",
+                  "coords": [
+                        33.179328,
+                        35.350258
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CY",
     name: { de: "Akkapeli Gipfel", hu: "Akkapeli-csúcs", ro: "Vârful Akkapeli", en: "Akkapeli Peak" },
@@ -3082,6 +3271,15 @@ export const cyprusReliefV2: POI[] = [
                         32.950684,
                         34.97435
                   ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Das Mufflon-Gehege ist ein Wildpark im Spilia-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
             }
       ],
       "hu": [
@@ -3092,6 +3290,15 @@ export const cyprusReliefV2: POI[] = [
                   "coords": [
                         32.950684,
                         34.97435
+                  ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "A muflon kifutó egy vadaskert a Spilia-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
                   ]
             }
       ],
@@ -3104,6 +3311,15 @@ export const cyprusReliefV2: POI[] = [
                         32.950684,
                         34.97435
                   ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Țarcul pentru mufloni este o grădină zoologică din Valea Spilia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
             }
       ],
       "en": [
@@ -3114,6 +3330,15 @@ export const cyprusReliefV2: POI[] = [
                   "coords": [
                         32.950684,
                         34.97435
+                  ]
+            },
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "The Mouflon Enclosure is a wildlife area located in the Spilia Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
                   ]
             }
       ]

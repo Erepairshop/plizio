@@ -21334,6 +21334,60 @@ export const netherlandsCities: POI[] = [
                         4.35731,
                         52.005855
                   ]
+            },
+            {
+                  "name": "Stadsboerderij BuytenDelft",
+                  "text": "Die Stadsboerderij BuytenDelft ist ein Stadtbauernhof und Streichelzoo in Delft.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375082,
+                        52.017427
+                  ]
+            },
+            {
+                  "name": "Zuyd Maatje",
+                  "text": "Ein kleiner Zoo in Delft, der Besuchern Begegnungen mit verschiedenen Tieren ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        4.330054,
+                        51.997392
+                  ]
+            },
+            {
+                  "name": "Serpo",
+                  "text": "Ein Reptilienzoo in Delft, der sich auf Schlangen und andere Kriechtiere spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        4.337408,
+                        52.041709
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Ein Wildgehege in Delft, in dem Rehe und Hirsche in einer natürlichen Umgebung leben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375596,
+                        52.027942
+                  ]
+            },
+            {
+                  "name": "Dierenweide Oranjelaan",
+                  "text": "Eine kleine Tierweide in Delft, die ideal für Familien mit Kindern ist.",
+                  "category": "recreational",
+                  "coords": [
+                        4.334825,
+                        52.00396
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tanthof",
+                  "text": "Ein Streichelzoo in Delft, der Einblicke in das Leben auf dem Bauernhof bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354385,
+                        51.98618
+                  ]
             }
       ],
       "hu": [
@@ -21749,6 +21803,60 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.35731,
                         52.005855
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij BuytenDelft",
+                  "text": "A Stadsboerderij BuytenDelft egy városi farm és állatsimogató Delftben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375082,
+                        52.017427
+                  ]
+            },
+            {
+                  "name": "Zuyd Maatje",
+                  "text": "Egy kis állatkert Delftben, ahol különféle állatokkal találkozhatnak a látogatók.",
+                  "category": "recreational",
+                  "coords": [
+                        4.330054,
+                        51.997392
+                  ]
+            },
+            {
+                  "name": "Serpo",
+                  "text": "Egy hüllőkre szakosodott állatkert Delftben, amely kígyókat és egyéb csúszómászókat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        4.337408,
+                        52.041709
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Vadaskert Delftben, ahol őzek és szarvasok élnek természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375596,
+                        52.027942
+                  ]
+            },
+            {
+                  "name": "Dierenweide Oranjelaan",
+                  "text": "Egy kis állatkifutó Delftben, amely ideális kisgyermekes családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        4.334825,
+                        52.00396
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tanthof",
+                  "text": "Állatsimogató Delftben, amely bepillantást enged a tanyasi életbe.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354385,
+                        51.98618
                   ]
             }
       ],
@@ -22166,6 +22274,60 @@ export const netherlandsCities: POI[] = [
                         4.35731,
                         52.005855
                   ]
+            },
+            {
+                  "name": "Stadsboerderij BuytenDelft",
+                  "text": "Stadsboerderij BuytenDelft este o fermă urbană și o grădină zoologică cu animale domestice din Delft.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375082,
+                        52.017427
+                  ]
+            },
+            {
+                  "name": "Zuyd Maatje",
+                  "text": "O mică grădină zoologică din Delft, oferind vizitatorilor ocazia de a vedea diverse animale.",
+                  "category": "recreational",
+                  "coords": [
+                        4.330054,
+                        51.997392
+                  ]
+            },
+            {
+                  "name": "Serpo",
+                  "text": "O grădină zoologică de reptile din Delft, specializată în șerpi și alte specii similare.",
+                  "category": "recreational",
+                  "coords": [
+                        4.337408,
+                        52.041709
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Un parc de animale din Delft unde căprioarele și cerbi trăiesc într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375596,
+                        52.027942
+                  ]
+            },
+            {
+                  "name": "Dierenweide Oranjelaan",
+                  "text": "O mică pășune cu animale din Delft, fiind un loc ideal pentru familiile cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        4.334825,
+                        52.00396
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tanthof",
+                  "text": "O fermă educațională pentru copii în Delft, oferind o perspectivă asupra vieții la fermă.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354385,
+                        51.98618
+                  ]
             }
       ],
       "en": [
@@ -22581,6 +22743,60 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.35731,
                         52.005855
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij BuytenDelft",
+                  "text": "Stadsboerderij BuytenDelft is an urban farm and petting zoo in Delft.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375082,
+                        52.017427
+                  ]
+            },
+            {
+                  "name": "Zuyd Maatje",
+                  "text": "A small zoo in Delft that offers visitors the chance to see various animals.",
+                  "category": "recreational",
+                  "coords": [
+                        4.330054,
+                        51.997392
+                  ]
+            },
+            {
+                  "name": "Serpo",
+                  "text": "A reptile zoo in Delft specializing in snakes and other crawling animals.",
+                  "category": "recreational",
+                  "coords": [
+                        4.337408,
+                        52.041709
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "A deer park in Delft where deer live in a natural environment.",
+                  "category": "recreational",
+                  "coords": [
+                        4.375596,
+                        52.027942
+                  ]
+            },
+            {
+                  "name": "Dierenweide Oranjelaan",
+                  "text": "A small animal enclosure in Delft that is ideal for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        4.334825,
+                        52.00396
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Tanthof",
+                  "text": "A petting zoo in Delft providing insight into farm life.",
+                  "category": "recreational",
+                  "coords": [
+                        4.354385,
+                        51.98618
                   ]
             }
       ]
@@ -25006,6 +25222,51 @@ export const netherlandsCities: POI[] = [
                         4.82144,
                         53.072466
                   ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "Ein Wasserpark und Schwimmkomplex auf der Insel Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "De Bonte Belevenis",
+                  "text": "Ein Erlebnispark mit Handwerksaktivitäten auf Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.739703,
+                        53.031247
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "Ein Naturmuseum und eine Auffangstation für Seehunde auf Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ein Streichelzoo für Kinder auf der Insel Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "Ein Schafbauernhof und Besucherzentrum auf der Insel Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
+                  ]
             }
       ],
       "hu": [
@@ -25070,6 +25331,51 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.82144,
                         53.072466
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "Aquapark és fürdőkomplexum Texel szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "De Bonte Belevenis",
+                  "text": "Kézműves foglalkozásokat kínáló élménypark Texelen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.739703,
+                        53.031247
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "Természettudományi múzeum és fókamenhely Texel szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Gyermekeknek szóló állatsimogató Texel szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "Juhtenyésztő gazdaság és látogatóközpont Texel szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
                   ]
             }
       ],
@@ -25136,6 +25442,51 @@ export const netherlandsCities: POI[] = [
                         4.82144,
                         53.072466
                   ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "Un parc acvatic și complex de înot pe insula Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "De Bonte Belevenis",
+                  "text": "Un parc de distracții cu activități meșteșugărești pe Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.739703,
+                        53.031247
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "Un muzeu al naturii și un sanctuar pentru foci pe insula Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "O fermă de animale pentru copii pe insula Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "O fermă de oi și centru pentru vizitatori pe insula Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
+                  ]
             }
       ],
       "en": [
@@ -25200,6 +25551,51 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.82144,
                         53.072466
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "A water park and swimming complex on the island of Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "De Bonte Belevenis",
+                  "text": "A theme park featuring craft activities on the island of Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.739703,
+                        53.031247
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "A nature museum and seal sanctuary on the island of Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "A petting zoo for children on the island of Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.802054,
+                        53.061243
+                  ]
+            },
+            {
+                  "name": "Schapenboerderij Texel",
+                  "text": "A sheep farm and visitor center on the island of Texel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.795337,
+                        53.041525
                   ]
             }
       ]
@@ -41375,6 +41771,15 @@ export const netherlandsCities: POI[] = [
                         4.560215,
                         52.436434
                   ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "Naaktstrand ist ein FKK-Strand in Zuid-Kennemerland National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560093,
+                        52.439468
+                  ]
             }
       ],
       "hu": [
@@ -41394,6 +41799,15 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.560215,
                         52.436434
+                  ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "A Naaktstrand egy nudista strand a Zuid-Kennemerland National Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560093,
+                        52.439468
                   ]
             }
       ],
@@ -41415,6 +41829,15 @@ export const netherlandsCities: POI[] = [
                         4.560215,
                         52.436434
                   ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "Naaktstrand este o plajă de nudiști situată în Zuid-Kennemerland National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560093,
+                        52.439468
+                  ]
             }
       ],
       "en": [
@@ -41434,6 +41857,15 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.560215,
                         52.436434
+                  ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "Naaktstrand is a nudist beach located in Zuid-Kennemerland National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560093,
+                        52.439468
                   ]
             }
       ]
